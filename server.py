@@ -52,7 +52,15 @@ for numRel in typesRelations :
 @app.route('/')  # route localhost:5000
 def index():
    return "Ceci est la page d'accueil. du serveur simplifier "
-
+# get ID of the word
+@app.route('/id/<mot>')
+def id(mot):
+    print("/id/"+mot)
+    for idMot in motsParIds :
+        if motsParIds[idMot] == mot :
+            return idMot
+    return ""
+# get word by ID    
 @app.route('/mot/<idMot>')
 def mot(idMot):
     print("/mot/"+idMot)
