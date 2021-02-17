@@ -2,14 +2,9 @@ import os, json, re
 import pandas as pd
 # importing the requests library 
 import requests 
-
 os.system("clear")
 from flask import Flask, render_template, request
-import nltk
-nltk.download('stopwords')
-from nltk.corpus import stopwords
-from spacy import displacy
-from functions import reseauxDump
+from functions import getTermes, reseauxDump
 
 app = Flask(__name__)
 
@@ -18,14 +13,20 @@ app = Flask(__name__)
 
 @app.route('/')  # route localhost:5000
 def index():
-   doRequest()
-   return "Ceci est la page d'accueil. du serveur simplifier "
+   
+
+   return " index page "
+
+
+# recupérer tous les mots lies grace a r_assicieted R0  au mot passer en parametre 
+@app.route('/<word>')  # route localhost:5000
+def r_associated(word):
+   results= getTermes(word)         
+       
+   return json.dumps(results, ensure_ascii=False)
 # get ID of the word
 
 
-def doRequest ():
 
-   reseauxDump("mer",0)
-   
 
 app.run()
