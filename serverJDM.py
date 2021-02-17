@@ -29,7 +29,7 @@ def r_associated(word):
 def releated():
    result = request.json
    phrase=result['phrase']
- 
+   print(phrase)
    print(phrase)
     
      
