@@ -30,7 +30,7 @@ def releated():
    result = request.json
    phrase=result['phrase']
    print(phrase)
-   print(phrase)
+   
     
      
    return json.dumps(phrase, ensure_ascii=False)
