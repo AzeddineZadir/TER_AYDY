@@ -1,5 +1,5 @@
 import urllib.request
-
+import pandas as pd
 import re
 
 # Exectution d'une requetes  sur Réseaux Dumpe pour un terme  et une relation
@@ -71,8 +71,41 @@ def formatResault(lines):
 # Récupérer  seulement les terme apartire de chaque dictionaire
 def getTermes(word):
     words_list = []
-    words_dict = reseauxDump(word,0)
+    words_dict = reseauxDump(word, 0)
     for word in words_dict:
         words_list.append(word.get("t"))
-    
+
     return words_list
+
+
+def getAllTermes(words_list):
+    words = []
+    for word in words_list:
+        words.extend(getTermes(word))
+
+    print(words)
+
+
+def searchInComments(words_list):
+    comments_file = pd.read_csv('comments.txt', header=None)
+    commentaires = comments_file[0]
+    # liste des commentaires
+    comments_list = []
+    # tableau d'existance
+    comments_existence= []
+    for c in commentaires:
+        comments_list.append(c)
+        
+    
+    for i in range(len(words_list)):
+
+        for j in range(len(comments_list)):
+
+            if words_list[i] in comments_list[j]: 
+                # print(words_list[i])
+                # print(comments_list[j])    
+            
+        
+
+
+    
