@@ -4,7 +4,7 @@ import pandas as pd
 import requests 
 os.system("clear")
 from flask import Flask, render_template, request
-from functions import getAllTermes, getTermes, reseauxDump ,searchInComments
+from functions import getAllTermes, getTermes, reseauxDump ,getCommentsVecteurs ,getCommentsScore
 
 app = Flask(__name__)
 
@@ -14,7 +14,7 @@ app = Flask(__name__)
 @app.route('/')  # route localhost:5000
 def index():
    
-   searchInComments(["piscine","mer"])
+   getCommentsScore(["serviabilité","chambres"])
    return " index page "
 
 

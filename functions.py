@@ -78,6 +78,7 @@ def getTermes(word):
     return words_list
 
 
+# récupérer la liste les mots lies a une liste de mots 
 def getAllTermes(words_list):
     words = []
     for word in words_list:
@@ -86,7 +87,19 @@ def getAllTermes(words_list):
     print(words)
 
 
-def searchInComments(words_list):
+# recupérer la liste des vecteurs des commentaires 
+def getCommentsVecteurs(words_list):
+    comments_list = getCommentes()
+    vecteurs_list =[]
+    for c in comments_list :
+        vecteurs_list.append(creatVecteur(words_list,c))
+
+    print(vecteurs_list)
+    return vecteurs_list
+
+
+# récupérer tous les commentaires du fichier
+def getCommentes():
     comments_file = pd.read_csv('comments.txt', header=None)
     commentaires = comments_file[0]
     # liste des commentaires
@@ -95,17 +108,51 @@ def searchInComments(words_list):
     comments_existence= []
     for c in commentaires:
         comments_list.append(c)
-        
+    # print(comments_list)
+    return comments_list    
+
+
+# retrourner un vecteur d'existance des mot dans le commentaire
+def creatVecteur(words_list,comment):
+    vecteur = []
+    for w in  words_list:
+        if w in comment :
+            vecteur.append(1)
+        else :
+            vecteur.append(0)
+        # print(vecteur)    
+    return vecteur
+
+
+# creer un vecteur pour les mots de l'utilisateur
+def creatUserVecteur(words_list):
+    user_vecteur = []
+    for w in words_list:
+        user_vecteur.append(1)
+    return user_vecteur
+
+
+# avoire la list des scores des commentaires en fonction des mots de 'ljutilisateur
+def getCommentsScore(words_list):
     
-    for i in range(len(words_list)):
+    liste_score =[]
+    score = 0
+    user_vecteur= creatUserVecteur(words_list)
+    comments_vecteurs = getCommentsVecteurs(words_list)
+    
+    for i in range(len(comments_vecteurs)):
+        
+        for j in range(len(user_vecteur)):
 
-        for j in range(len(comments_list)):
-
-            if words_list[i] in comments_list[j]: 
-                # print(words_list[i])
-                # print(comments_list[j])    
-            
+            # print(comments_vecteurs[i][j])
+            # print(user_vecteur[j])
+            score += comments_vecteurs[i][j] * user_vecteur[j]
+            # print(f"socre ={score}")
+        liste_score.append(score) 
+        score = 0   
+        
+    print(liste_score) 
+    return liste_score   
         
 
 
-    
