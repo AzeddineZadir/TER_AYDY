@@ -1,9 +1,11 @@
 import urllib.request
 import pandas as pd
 import re
-
+import numpy as np
+import spacy
+nlp = spacy.load("fr_core_news_sm")
 # Exectution d'une requetes  sur Réseaux Dumpe pour un terme  et une relation
-
+dictio=[]
 
 def reseauxDump(terme, numRel):
 
@@ -78,32 +80,66 @@ def getTermes(word):
     return words_list
 
 
-def getAllTermes(words_list):
-    words = []
-    for word in words_list:
-        words.extend(getTermes(word))
-
-    print(words)
 
 
-def searchInComments(words_list):
-    comments_file = pd.read_csv('comments.txt', header=None)
-    commentaires = comments_file[0]
-    # liste des commentaires
-    comments_list = []
-    # tableau d'existance
-    comments_existence= []
-    for c in commentaires:
-        comments_list.append(c)
-        
+def return_token(sentence):
+    # Tokeniser la phrase
+    doc = nlp(sentence)
+    # Retourner le texte de chaque token
+    return [X.text for X in doc]
+
+
+def pertinence(phrase,comment):
+    user =[]
+    avis =[]
+    for token in return_token(phrase) :
+        user.append(1)
+
+    for token in return_token(phrase):
+        if token in return_token(comment):
+                avis.append(1)
+        else : 
+            if token in dictio:
+                avis.append(1)
+            else :
+                avis.append(0)
+    mult = np.multiply(user,avis)    
+    result = np.sum(mult)
+    return result
+
+def dictionnaire(phrase):
+    for token in return_token(phrase) :
+        dictio.append(getTermes(token))
     
-    for i in range(len(words_list)):
 
-        for j in range(len(comments_list)):
 
-            if words_list[i] in comments_list[j]: 
-                # print(words_list[i])
-                # print(comments_list[j])    
+def Sortpertinance(phrase,comments):
+    dictionnaire(phrase) #améliorer le dictionnaire
+    bestComments = []
+    pert =[]
+    for comment in comments:
+        pert.append(pertinence(phrase,comment))
+
+    dico = "{"
+    for index,item in enumerate(pert):
+        
+        dico+="'{}':'{}',".format(index,item)
+    size = len(dico)
+    dico = dico[0:size-1]
+    dico+="}"
+    finalDic = eval(dico)
+    finalDic = {k: v for k, v in sorted(finalDic.items(), key=lambda item: int(item[1]) ,reverse=True)}
+    
+    
+    print(finalDic)
+    for key in finalDic :
+        
+        if finalDic[key] not in '0':
+            bestComments.append(comments[int(key)])
+        
+    return bestComments
+
+  
             
         
 

@@ -4,22 +4,22 @@ import pandas as pd
 import requests 
 os.system("clear")
 from flask import Flask, render_template, request
-from functions import getAllTermes, getTermes, reseauxDump ,searchInComments
+from functions import Sortpertinance, getTermes, reseauxDump
 
 app = Flask(__name__)
-
+comments = pd.read_csv('comments.txt', header = None)
+commentaires = comments[0]
 
 
 
 @app.route('/')  # route localhost:5000
 def index():
-   
-   searchInComments(["piscine","mer"])
+
    return " index page "
 
 
 # recupérer tous les mots lies grace a r_assicieted R0  au mot passer en parametre 
-@app.route('/<word>')  # route localhost:5000
+@app.route('/rel/<word>')  # route localhost:5000
 def r_associated(word):
    results= getTermes(word)          
    return json.dumps(results, ensure_ascii=False)
@@ -29,11 +29,9 @@ def r_associated(word):
 def releated():
    result = request.json
    phrase=result['phrase']
-   print(phrase)
+   BestComments = Sortpertinance(phrase,commentaires)
    
-    
-     
-   return json.dumps(phrase, ensure_ascii=False)
+   return json.dumps(BestComments, ensure_ascii=False)
 
 
 

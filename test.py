@@ -62,6 +62,3 @@ def Sortpertinance(comments):
     return bestComments
      
 
-comments=["super acceuil","un acceuil trés chaleureux","une trés bonne expérience"]
-bestComments = Sortpertinance(comments)
-print(bestComments)
