@@ -174,8 +174,8 @@ def detects_composed_words(lst):
         #print(lst[browser])
         dict = reseauxDump(lst[browser],11)
         dict_table=pd.DataFrame(dict).apply(pd.Series)
-        if not dict_table.empty :
-            print(dict_table)
+        #if not dict_table.empty :
+            #print(dict_table)
         #print(dict_table.columns)
         dict_browser = 1
         # browsing the dictionary
