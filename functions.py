@@ -97,17 +97,8 @@ import pandas as pd
 import nltk
 from nltk.corpus import stopwords
 import spacy
-#import pprint # for proper print of sequences
-#import treetaggerwrapper as ttpw
 
 stopwords_list = stopwords.words('french')
-#nlp = spacy.load('fr_core_news_md')
-#tagger = ttpw.TreeTagger(TAGLANG='fr', TAGOPT="-prob -threshold 0.7 -token -lemma -sgml -quiet")
-#tags = tagger.tag_text('Voici un petit test de TreeTagger pour voir.')
-
-# uncomment the line below to see all the stop words 
-# print(stopwords_list)
-#pprint.pprint(tags)
 
 # retrieving comments from thhe text file
 com = pd.read_csv('commentaires.txt', header = None)
@@ -163,54 +154,45 @@ def cleanSpecialChar(str) :
 def list_to_string(lst):
     return " ".join(lst)
 
-
-def detects_composed_words(lst):
+def composed_words_detecting(lst):
     resulting_list = []
     browser = 0
-    #browsing lst
-    while browser < len(lst) :
-        #print("start of while browser")
-        #print(browser)
-        #print(lst[browser])
-        dict = reseauxDump(lst[browser],11)
-        dict_table=pd.DataFrame(dict).apply(pd.Series)
-        #if not dict_table.empty :
-            #print(dict_table)
-        #print(dict_table.columns)
-        dict_browser = 1
-        # browsing the dictionary
-        while dict_browser < len(dict):
-            dict_expression = dict[dict_browser]['t']
-            '''if lst[browser] == "vue" and dict_expression == "vue sur mer":# and dict_expression[0] == "vue" and dict_expression[1]=="sur":'''
-            #print(dict_expression)
-            dict_len = len(dict_expression.split(" "))
-            #print(list_to_string(lst[browser:dict_len]))
-            if list_to_string(lst[browser:dict_len])==dict_expression : 
-                resulting_list += [dict_expression]
-                #print("hey")
-                #print(resulting_list)
-                browser += dict_len
-                dict_browser+=1
-                #print("browser")
-                #print(browser)
-                break
-            else :
-                #print("else browser")
-                #print(browser)
-                dict_browser += 1
-        #print("------------------")
-        #print(dict_browser)
-        #print("before if")
-        #print(browser)
-        if dict_browser>=len(dict) or dict_browser==1:
-            #print("------------------------------------hey")
-            #print(browser)
-            resulting_list += [lst[browser]]
-            browser+=1
-        #print("while browser")
-        #print(browser)
+    len_longest_composed_word = -1
+    index_of_latest_cw = -1
+    last_added_is_a_cw = False
+    while browser < len(lst):
+        related_composed_words = reseauxDump(lst[browser],11)
+        rcw_browser = 1
+        rcw_len = len(related_composed_words)
+        len_rl_before = len(resulting_list)
+        while rcw_browser < rcw_len :
+            composed_word = related_composed_words[rcw_browser]['t']
+            cleaned_composed_word = clean_expr_from_additionals(composed_word)
+            cw_len = len(cleaned_composed_word)
+            if ((lst[browser:cw_len+browser]) == cleaned_composed_word and 
+                (len(resulting_list) == 0 or composed_word != resulting_list[len(resulting_list)-1])):
+                index_of_latest_cw = len(resulting_list)
+                resulting_list+=[composed_word]
+                last_added_is_a_cw = True
+                len_longest_composed_word = max(len_longest_composed_word,browser+len(cleaned_composed_word))
+            if browser != 0 :
+                p_browser = 0
+                while p_browser < browser :
+                    if (lst[p_browser:p_browser+cw_len]== cleaned_composed_word and 
+                        composed_word not in resulting_list):
+                        resulting_list+=[composed_word]
+                        while len(resulting_list[len(resulting_list)-2].split(" "))==1 and resulting_list[len(resulting_list)-2].split(" ")[0] in resulting_list[len(resulting_list)-1].split(" "):
+                            resulting_list = resulting_list[:len(resulting_list)-2]+resulting_list[len(resulting_list)-1:]
+                        index_of_latest_cw = len(resulting_list)-1
+                        last_added_is_a_cw = True
+                        len_longest_composed_word = max(len_longest_composed_word,p_browser+len(cleaned_composed_word))
+                    p_browser+=1
+            rcw_browser+=1            
+        if len_rl_before == len(resulting_list) and browser >= len_longest_composed_word:
+            resulting_list+=[lst[browser]]
+            last_added_is_a_cw = False
+        browser+=1
     return resulting_list
-        
 
 # returns a list of words from the expression passed in parameters
 # excluding stopwords
@@ -231,24 +213,6 @@ def deletes_stop_words(lst):
             lst = lst[:browser]+[lst[browser].lower()]+lst[browser+1:]
             browser += 1
     return lst
-
-#revoir et tester sur jeu de mots
-def lemmatization(lst):
-    lemm = []
-    for word in lst :
-        dict = reseauxDump_norelin(word,19)
-        #print(dict)
-        #print("----------------------------------------------")
-        if not dict == []:
-            #print(dict[0]['t'])
-            if len(dict)==1:
-                index = 0
-            else : 
-                index = 1
-            lemm += [dict[index]['t']]
-            #print(lemm)
-    return lemm
-
 
 
 # researched_expression is a string
@@ -277,61 +241,36 @@ expr = "    /*----vue------/*----'(-----sur---+++'(-=)mer jjksq574 7865clj [\\++
 #expr = "    /*-vue/*-'(magnifique'(-=)iuezh jjksq574 7865clj [\\++ '-,',? * ;/"
 #expr = "    /*----j'ai marché------/*----'(-----sur la---+++'(-=)mer jjksq574 7865clj [\\++ '-,',? * ;/-------"
 #expr = "ùùùùSalut ça va"
-expression = "vue sur mer"
+# example of 2 mixed composed words
+expression = "une magnifique belle vue sur la mer" 
+#expr = "j'ai témoigné d'une belle vue sur le champ de nature en neige"
+expr1 = "vue sur la mer"
+expression = "hey à vue de nez une belle vue vue sur la mer vue vue sur la mer vue vuu gdfs"
+expression = " belle vue sur la mer vue sur mer belle ovierhj vue "
+expression = " une une belle vue à vue de nez belle vue sur la mer djazh mer mer "
+expression = " hey there what's you doing à vue de nez belle vue sur la mer pzeijd mer mer "
+expression =  "détermination de la présence de taurine | technique indéterminée | nez | ponctuel | résultat qualitatif | présence/seuil"
+expression = "une belle vue sur la mer vue"
+expression = " Idée d'une histoire universelle au point de vue cosmopolitique "
+expression = "Idée d'une histoire universelle au point de vue de la part de cosmopolitique"
 print("\n---------------------------------------------------------->")
 print("before cleaning from special chars")
-print(expr)
-expression = clean_expr_from_additionals(expr)
-#print("-------------------------final")
-#print(expression)
+print(expression)
+expression = clean_expr_from_additionals(expression)
 expression = gets_rid_of_dashes(expression)
-#expression=cleanSpecialChar(expr)
 print("\t->after cleaning from special chars")
 print(expression)
 print("\n")
 print("\t->before detecting composed words:")
 print(expression)
 print("\t->after detecting composed words:")
-expression = detects_composed_words(expression)
+expression=composed_words_detecting(expression)
 print(expression)
 print("\n")
+
 print("\t->before deleting stop words")
 print(expression)
 print("\t->after deleting stop words")
 expression = deletes_stop_words(expression)
 print(expression)
 print("\n")
-print("\t->before lemmatization")
-print(expression)
-print("\t->after lemmatization")
-expression = lemmatization(expression)
-print(expression)
-
-#-------------------------------------
-'''
-expression = deletes_stop_words(expression)
-print(expression)
-print("----------------------------------------------")
-'''
-'''
-expression = " veux partir à londres"
-expression = clean_expr_from_additionals(expression)
-'''
-
-#--------------------------------
-#key_words = gets_rid_of_additional(key_words)
-#print(key_words)
-
-#related_comment("         vue         ")
-
-'''
-file = open("commentaires.txt")
-print("hy")
-for f in file :
-    print(f)
-'''
-
-'''
--+ and [^[a-z]+-[a-z]+]
-[^ [^-+]|[a-z]+-[a-z]+]
-'''
