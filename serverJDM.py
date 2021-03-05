@@ -3,7 +3,7 @@ import pandas as pd
 import requests 
 os.system("clear")
 from flask import Flask, render_template, request
-from functions import getAllTermes,getTermesR0,getTermesR3, reseauxDump ,getCommentsVecteurs ,getCommentsScore,getOntologieDomainsWords,filterWordsByOntologie
+from functions import *
 
 app = Flask(__name__)
 
@@ -15,8 +15,14 @@ def index():
    
 
    # getTermesR0("mer")
-   getCommentsScore(["vue","mer"])
+   # getCommentsScore(["vue","mer","lit","chambre"])
+   # filterWordsByOntologie(getTermesR0("vue"))
+   # creatOntologiWordsFiles(getMyOntologie())
+   # print (getWordScore("couette"))
    
+
+   getCommentsScore(["piscine"])
+
    return " index page "
 
 

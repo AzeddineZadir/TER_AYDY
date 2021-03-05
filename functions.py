@@ -1,5 +1,6 @@
 import urllib.request
 import pandas as pd
+from operator import itemgetter
 import re
 
 
@@ -8,7 +9,7 @@ import re
 def encodeURLTerme(terme):
 
     url_encode_terme = terme.replace("%", "%25").replace(" ", "%20").replace('""', "%22").replace("#", "%23").replace("$", "%24").replace("&", "%26").replace("'", "%27").replace(
-        "(", "%28").replace(")", "%29").replace("*", "%2A").replace("+", "%2B").replace(",", "%2C").replace(";", "%3B").replace("<", "%3C").replace("=", "%3D").replace(">", "%3E").replace("?", "%3F").replace("@", "%40").replace("[", "%5B").replace("]", "%5D").replace("^", "%5E").replace("`", "%60").replace("{", "%7B").replace("|", "%7C").replace("}", "%7D").replace("~", "%7E").replace("¢", "%A2").replace("£", "%A3").replace("¥", "%A5").replace("|", "%A6").replace("§", "%A7").replace("«", "%AB").replace("¬", "%AC").replace("¯", "%AD").replace("º", "%B0").replace("±", "%B1").replace("ª", "%B2").replace(",", "%B4").replace("µ", "%B5").replace("»", "%BB").replace("¼", "%BC").replace("½", "%BD").replace("¿", "%BF").replace("À", "%C0").replace("Á", "%C1").replace("Â", "%C2").replace("Ã", "%C3").replace("Ä", "%C4").replace("Å", "%C5").replace("Æ", "%C6").replace("Ç", "%C7").replace("È", "%C8").replace("É", "%C9").replace("Ê", "%CA").replace("Ë", "%CB").replace("Ì", "%CC").replace("Í", "%CD").replace("Î", "%CE").replace("Ï", "%CF").replace("Ð", "%D0").replace("Ñ", "%D1").replace("Ò", "%D2").replace("Ó", "%D3").replace("Ô", "%D4").replace("Õ", "%D5").replace("Ö", "%D6").replace("Ø", "%D8").replace("Ù", "%D9").replace("Ú", "%DA").replace("Û", "%DB").replace("Ü", "%DC").replace("Ý", "%DD").replace("Þ", "%DE").replace("ß", "%DF").replace("à", "%E0").replace("á", "%E1").replace("â", "%E2").replace("ã", "%E3").replace("ä", "%E4").replace("å", "%E5").replace("æ", "%E6").replace("ç", "%E7").replace("è", "%E8").replace("é", "%E9").replace("ê", "%EA").replace("ë", "%EB").replace("ì", "%EC").replace("í", "%ED").replace("î", "%EE").replace("ï", "%EF").replace("ð", "%F0").replace("ñ", "%F1").replace("ò", "%F2").replace("ó", "%F3").replace("ô", "%F4").replace("õ", "%F5").replace("ö", "%F6").replace("÷", "%F7").replace("ø", "%F8").replace("ù", "%F9").replace("ú", "%FA").replace("û", "%FB").replace("ü", "%FC").replace("ý", "%FD").replace("þ", "%FE").replace("ÿ", "%FF").replace("œ","%8c")
+        "(", "%28").replace(")", "%29").replace("*", "%2A").replace("+", "%2B").replace(",", "%2C").replace(";", "%3B").replace("<", "%3C").replace("=", "%3D").replace(">", "%3E").replace("?", "%3F").replace("@", "%40").replace("[", "%5B").replace("]", "%5D").replace("^", "%5E").replace("`", "%60").replace("{", "%7B").replace("|", "%7C").replace("}", "%7D").replace("~", "%7E").replace("¢", "%A2").replace("£", "%A3").replace("¥", "%A5").replace("|", "%A6").replace("§", "%A7").replace("«", "%AB").replace("¬", "%AC").replace("¯", "%AD").replace("º", "%B0").replace("±", "%B1").replace("ª", "%B2").replace(",", "%B4").replace("µ", "%B5").replace("»", "%BB").replace("¼", "%BC").replace("½", "%BD").replace("¿", "%BF").replace("À", "%C0").replace("Á", "%C1").replace("Â", "%C2").replace("Ã", "%C3").replace("Ä", "%C4").replace("Å", "%C5").replace("Æ", "%C6").replace("Ç", "%C7").replace("È", "%C8").replace("É", "%C9").replace("Ê", "%CA").replace("Ë", "%CB").replace("Ì", "%CC").replace("Í", "%CD").replace("Î", "%CE").replace("Ï", "%CF").replace("Ð", "%D0").replace("Ñ", "%D1").replace("Ò", "%D2").replace("Ó", "%D3").replace("Ô", "%D4").replace("Õ", "%D5").replace("Ö", "%D6").replace("Ø", "%D8").replace("Ù", "%D9").replace("Ú", "%DA").replace("Û", "%DB").replace("Ü", "%DC").replace("Ý", "%DD").replace("Þ", "%DE").replace("ß", "%DF").replace("à", "%E0").replace("á", "%E1").replace("â", "%E2").replace("ã", "%E3").replace("ä", "%E4").replace("å", "%E5").replace("æ", "%E6").replace("ç", "%E7").replace("è", "%E8").replace("é", "%E9").replace("ê", "%EA").replace("ë", "%EB").replace("ì", "%EC").replace("í", "%ED").replace("î", "%EE").replace("ï", "%EF").replace("ð", "%F0").replace("ñ", "%F1").replace("ò", "%F2").replace("ó", "%F3").replace("ô", "%F4").replace("õ", "%F5").replace("ö", "%F6").replace("÷", "%F7").replace("ø", "%F8").replace("ù", "%F9").replace("ú", "%FA").replace("û", "%FB").replace("ü", "%FC").replace("ý", "%FD").replace("þ", "%FE").replace("ÿ", "%FF").replace(u"\x9c", "oe")
     return url_encode_terme
 
 
@@ -52,7 +53,7 @@ def reseauxDump(terme, numRel):
     idDuTerme = -1
     filename=terme+"_"+str(numRel)+".txt"
     if (cacheExists(filename)):
-        print("cache foound ")
+        print("cache exists ")
         # je retourne les mots apartire du fichier en qst 
         try :
             with open("jdm_cache/"+filename) as my_file:
@@ -60,7 +61,7 @@ def reseauxDump(terme, numRel):
                 return formatResault(filterTermesAndRelations(my_file.readlines()))
                
         except :
-            print ("pb")
+            print ("problem while oppening file ")
         
     else :
         print("cache not found  ")
@@ -75,7 +76,7 @@ def reseauxDump(terme, numRel):
 
             # print(formatResault(filterTermesAndRelations(line)))
             saveWords(terme,numRel,words)
-            print(filterTermesAndRelations(line))
+            # print(filterTermesAndRelations(line))
             return formatResault(filterTermesAndRelations(line))
 
 
@@ -133,7 +134,7 @@ def getTermesR0(word):
     words_dict = reseauxDump(word, 0)
     for word in words_dict:
         words_list.append(word.get("t"))
-    print(words_list)
+    # print(words_list)
     return words_list
 
 # Récupérer les termes  des domaines relatifs au mot cible
@@ -166,7 +167,7 @@ def getCommentsVecteurs(words_list):
     for c in comments_list:
         vecteurs_list.append(creatVecteur(words_list, c))
 
-    print(vecteurs_list)
+    # print(vecteurs_list)
     return vecteurs_list
 
 
@@ -197,22 +198,28 @@ def creatVecteur(words_list, comment):
 
 
 # creer un vecteur pour les mots de l'utilisateur
-def creatUserVecteur(words_list):
+def creatUserVecteur(words_list,user_words_list):
     user_vecteur = []
     for w in words_list:
-        user_vecteur.append(1)
+        if w in user_words_list:
+            user_vecteur.append(10)
+        else :
+            user_vecteur.append(1)
     return user_vecteur
 
 
 # avoire la list des scores des commentaires en fonction des mots de 'ljutilisateur
-def getCommentsScore(words_list):
+def getCommentsScore(user_words_list):
 
     liste_score = []
     score = 0
     commentaires = getCommentes()
-    words_from_JDM = getAllTermes(words_list)
-    user_vecteur = creatUserVecteur(words_from_JDM)
-    comments_vecteurs = getCommentsVecteurs(words_from_JDM)
+
+    # words_from_JDM = getAllTermes(user_words_list)
+    words_from_JDM = getAllTermes(user_words_list)
+    filtered_words = filterVocabulary(words_from_JDM)
+    user_vecteur = creatUserVecteur(filtered_words,user_words_list)
+    comments_vecteurs = getCommentsVecteurs(filtered_words)
 
     for i in range(len(comments_vecteurs)):
 
@@ -227,15 +234,21 @@ def getCommentsScore(words_list):
         if comment_dict.get("score") != 0:
             liste_score.append(comment_dict)
         score = 0
-
+    newlist = sorted(liste_score, key=itemgetter('score')) 
     print(liste_score)
+    print("after sorting ")
+    print(newlist)
     return liste_score
 
 
-def getOntologieDomainsWords():
-
+def getMyOntologie():
     ontologie = ["hotel", "chambre", "propreté", "literie", "matelas", "drap", "housse",
                  "salle de bain", "lavabo", "douche", "baignoire", "rangement", "décoration", "climatisation"]
+    # ontologie = ["chambre", "matelas"]
+    return ontologie
+def getOntologieDomainsWords():
+
+    ontologie = getMyOntologie()
     domain_words_list = []
     for w in ontologie:
         domain_words_list.extend(getTermesR3(w))
@@ -262,5 +275,41 @@ def filterWordsByOntologie(words_list):
         if isRelatedToOntologie(w,ontologie_words):
             words_list_filterd.append(w)
 
+    
     print(f"le nombre de mots aprés le filtrage {len(words_list_filterd)}")
+    print(words_list_filterd)
     return words_list_filterd
+
+# Récupérer les mots lier a l'ontologie 
+def creatOntologiWordsFiles(ontologie_words):
+
+    for w in ontologie_words : 
+        getTermesR0(w)
+
+
+# écupérer le nombre de fois que un mot est lier au mots de l'ontologie 
+def getWordScore(word):
+    score = 0
+    ontologie = getMyOntologie() 
+
+    for ontologie_word in ontologie :
+        words_list = getTermesR0(ontologie_word)
+        if word in words_list :
+            score +=1
+
+    # print(f"le score du mot {word} est de {score}")
+    return score        
+
+
+# filtrer la liste des mots passer en paramétre en utilisant leurs score par rapport a la relation 0 et Lontologie 
+def filterVocabulary(words_list):
+    filterd_words = []
+    for w in words_list : 
+        score = getWordScore(w)
+        if(score>0) : 
+            filterd_words.append(w)
+    print(f"1 ---nb de mots avant l'application du filtre{len(words_list)}")
+    print(f"2 ---nb de mots aprés l'application du filtre{len(filterd_words)}")
+    print(filterd_words)
+
+    return(filterd_words)
