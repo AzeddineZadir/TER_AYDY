@@ -4,6 +4,7 @@ import requests
 os.system("clear")
 from flask import Flask, render_template, request
 from functions import *
+from jdmLink import *
 
 app = Flask(__name__)
 
@@ -13,15 +14,27 @@ app = Flask(__name__)
 @app.route('/')  # route localhost:5000
 def index():
    
+   print("relations sortantes et entrantes")
+   # words2 =getTermesR0("piscine")
+   # print(len(words2))
+   # print(words2)
+   # print("seulemment les relations sortantes ")
+   # words1 =getTermesR0Sortants("piscine")
+   # print(len(words1))
+   # print(words1)
 
-   # getTermesR0("mer")
+   # print(reseauxDump("mer",""))
+   #print(getTermesR0("mer"))
+   # print(len(getTermesR0Sortants("piscine")))
    # getCommentsScore(["vue","mer","lit","chambre"])
-   # filterWordsByOntologie(getTermesR0("vue"))
+   #
+   # filterWordsByOntologie(getTermesR0Sortants("vue"))
    # creatOntologiWordsFiles(getMyOntologie())
    # print (getWordScore("couette"))
-   
+   # print(getTermesR0("vue"))
 
-   getCommentsScore(["piscine"])
+   # print(getTermesR0Sortants("vue"))
+   getCommentsScore(["vue"])
 
    return " index page "
 
