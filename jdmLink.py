@@ -54,7 +54,7 @@ def reseauxDump(terme, numRel):
     idDuTerme = -1
     filename=terme+"_"+str(numRel)+".txt"
     if (cacheExists(filename)):
-        print("cache exists ")
+        # print("cache exists ")
         # je retourne les mots apartire du fichier en qst 
         try :
             with open("jdm_cache/"+filename) as my_file:
@@ -88,7 +88,7 @@ def reseauxDumpByRelations(terme, numRel):
     idDuTerme = -1
     filename=terme+"_"+str(numRel)+".txt"
     if (cacheExists(filename)):
-        print("cache exists ")
+        # print("cache exists ")
         # je retourne les mots apartire du fichier en qst 
         try :
             with open("jdm_cache/"+filename) as my_file:
@@ -159,6 +159,7 @@ def formatResault(lines):
                 word_dict2 = {"id": int(casesTermes[1]), "t": terme2[1:len(
                     terme2)-1], "nt": casesTermes[3], "w": float(casesTermes[4])}
                 # print(word_dict)
+
                 words.append(word_dict2)
         
 
@@ -234,7 +235,7 @@ def getTermeById(id,words):
             break
 
 # récupérer la liste les mots lies a une liste de mots
-def getAllTermes(words_list):
+def getAllTermesR0(words_list):
     words = []
     for word in words_list:
         # words.extend(getTermesR0(word))
@@ -243,13 +244,22 @@ def getAllTermes(words_list):
     print(f"le nombre de mots retournés {len(words)}")
     return words
 
+def getAllTermesR0Sortant(words_list):
+    words = []
+    for word in words_list:
+        # words.extend(getTermesR0(word))
+        words.extend(getTermesR0(word))
+    print(f"le nombre de mots retournés {len(words)}")
+    return words
+
 
 # Récupérer  seulement les terme apartire de chaque dictionaire pour la relation 0
 def getTermesR0(word):
     words_list = []
     words_dict = reseauxDump(word, 0)
-    for word in words_dict:
-        words_list.append(word.get("t"))
+    for w in words_dict:
+        if (w["t"]!= word):
+            words_list.append(w.get("t"))
     # print(words_list)
     return words_list
 

@@ -35,12 +35,23 @@ def getCommentes():
 # retrourner un vecteur d'existance des mot dans le commentaire
 def creatVecteur(words_list, comment):
     vecteur = []
+    comments_words_list = comment.split(" ")
+
+    
     for w in words_list:
-        if w in comment:
+        found = False 
+        for c_w in comments_words_list :
+            # print(f" {w['t']}========{c_w} ")
+            if w["t"] == c_w:
+                found=True 
+        if(found):
             vecteur.append(1)
-        else:
-            vecteur.append(0)
-        # print(vecteur)
+        else: 
+            vecteur.append(0)        
+        
+                
+
+    # print(f"word list len  {len(vecteur)}")
     return vecteur
 
 
@@ -48,10 +59,10 @@ def creatVecteur(words_list, comment):
 def creatUserVecteur(words_list,user_words_list):
     user_vecteur = []
     for w in words_list:
-        if w in user_words_list:
-            user_vecteur.append(10)
+        if w['t'] in user_words_list:
+            user_vecteur.append(14)
         else :
-            user_vecteur.append(1)
+            user_vecteur.append(w["score"])
     return user_vecteur
 
 
@@ -63,13 +74,20 @@ def getCommentsScore(user_words_list):
     commentaires = getCommentes()
 
     # words_from_JDM = getAllTermes(user_words_list)
-    words_from_JDM = getAllTermes(user_words_list)
-    # print(f"words from jdm {words_from_JDM}")
+    words_from_JDM = getAllTermesR0(user_words_list)
+    # print(f"1_______________words from jdm {words_from_JDM}")
     filtered_words = filterVocabulary(words_from_JDM)
-    print(f"words filtered  from jdm {filtered_words}")
-    user_vecteur = creatUserVecteur(filtered_words,user_words_list)
-    comments_vecteurs = getCommentsVecteurs(filtered_words)
-
+    # print(len(filtered_words))
+    all_words =addUserWords(filtered_words,user_words_list)
+    # print(len(all_words))
+    # print(all_words)
+    # print(filtered_words)
+    # print(f"2_______________words filtered  from jdm {filtered_words}")
+    user_vecteur = creatUserVecteur(all_words,user_words_list)
+    # print(len(user_vecteur))
+    comments_vecteurs = getCommentsVecteurs(all_words)
+    # print (len(comments_vecteurs[0]))
+    # print(user_vecteur)
     for i in range(len(comments_vecteurs)):
 
         for j in range(len(user_vecteur)):
@@ -86,10 +104,62 @@ def getCommentsScore(user_words_list):
     # newlist = sorted(liste_score, key=itemgetter('score')) 
     newlist = sorted(liste_score, key=itemgetter('score'), reverse=True)
 
-    print(liste_score)
-    print("after sorting ")
+    # print(liste_score)
+    # print("after sorting ")
     print(newlist)
     return liste_score
+
+
+def getCommentsScoreSortant(user_words_list):
+
+    liste_score = []
+    score = 0
+    commentaires = getCommentes()
+
+    # words_from_JDM = getAllTermes(user_words_list)
+    words_from_JDM = getAllTermesR0(user_words_list)
+    # print(f"1_______________words from jdm {words_from_JDM}")
+    filtered_words = filterVocabulary(words_from_JDM)
+    # print(len(filtered_words))
+    all_words =addUserWords(filtered_words,user_words_list)
+    # print(len(all_words))
+    # print(all_words)
+    # print(filtered_words)
+    # print(f"2_______________words filtered  from jdm {filtered_words}")
+    user_vecteur = creatUserVecteur(all_words,user_words_list)
+    # print(len(user_vecteur))
+    comments_vecteurs = getCommentsVecteurs(all_words)
+    # print (len(comments_vecteurs[0]))
+    # print(user_vecteur)
+    for i in range(len(comments_vecteurs)):
+
+        for j in range(len(user_vecteur)):
+
+            # print(comments_vecteurs[i][j])
+            # print(user_vecteur[j])
+            score += comments_vecteurs[i][j] * user_vecteur[j]
+            # print(f"socre ={score}")
+        comment_dict = {"id": i+1, "score": score}
+        # ne pas rettourner les commentaires ayant un scor null
+        if comment_dict.get("score") != 0:
+            liste_score.append(comment_dict)
+        score = 0
+    # newlist = sorted(liste_score, key=itemgetter('score')) 
+    newlist = sorted(liste_score, key=itemgetter('score'), reverse=True)
+
+    # print(liste_score)
+    # print("after sorting ")
+    print(newlist)
+    return liste_score
+
+
+
+def addUserWords(filtered_words, user_words_list):
+    compteur = 0 
+    for word in user_words_list: 
+        filtered_words.insert(compteur,{"t":word,"score":100})
+        compteur+=1
+    return filtered_words
 
 
 def getMyOntologie():
@@ -148,7 +218,7 @@ def getWordScore(word):
 
     for ontologie_word in ontologie :
         # les relations sortontes
-        words_list = getTermesR0(ontologie_word)
+        words_list = getTermesR0Sortants(ontologie_word)
         if word in words_list :
             score +=1
 
@@ -159,12 +229,17 @@ def getWordScore(word):
 # filtrer la liste des mots passer en paramétre en utilisant leurs score par rapport a la relation 0 et Lontologie 
 def filterVocabulary(words_list):
     filterd_words = []
+    the_word = words_list[0]
     for w in words_list : 
+       
         score = getWordScore(w)
-        if(score>0) : 
-            filterd_words.append(w)
+        if(score>0) :
+            word_dict = {"t":w,"score":score} 
+            filterd_words.append(word_dict)
+   
+    print(f" the worde him self {the_word}")        
     print(f"1 ---nb de mots avant l'application du filtre{len(words_list)}")
     print(f"2 ---nb de mots aprés l'application du filtre{len(filterd_words)}")
-    print(filterd_words)
+    # print(filterd_words)
 
     return(filterd_words)

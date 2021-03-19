@@ -14,28 +14,21 @@ app = Flask(__name__)
 @app.route('/')  # route localhost:5000
 def index():
    
-   print("relations sortantes et entrantes")
-   # words2 =getTermesR0("piscine")
-   # print(len(words2))
-   # print(words2)
-   # print("seulemment les relations sortantes ")
-   # words1 =getTermesR0Sortants("piscine")
-   # print(len(words1))
-   # print(words1)
+  
+   # wordss = getTermesR0Sortants("mer")
+   # print(len(wordss))
+   # # print(wordss)
 
-   # print(reseauxDump("mer",""))
-   #print(getTermesR0("mer"))
-   # print(len(getTermesR0Sortants("piscine")))
-   # getCommentsScore(["vue","mer","lit","chambre"])
-   #
-   # filterWordsByOntologie(getTermesR0Sortants("vue"))
-   # creatOntologiWordsFiles(getMyOntologie())
-   # print (getWordScore("couette"))
+   # filter_termes = filterVocabulary(wordss)
+
+   # print(len(filter_termes))
+   # print(filter_termes)
+   # print(getTermesR0("mer"))
+
    # print(getTermesR0("vue"))
-
-   # print(getTermesR0Sortants("vue"))
-   getCommentsScore(["vue"])
-
+   # print(getWordScore("mer"))
+   # print(getWordScore("vue"))
+   getCommentsScore(["piscine","lit","chambre"])
    return " index page "
 
 
