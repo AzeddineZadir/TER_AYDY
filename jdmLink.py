@@ -263,6 +263,7 @@ def getTermesR0(word):
     # print(words_list)
     return words_list
 
+
 # Récupérer  seulement les terme sortant  apartire de chaque dictionaire pour la relation 0
 def getTermesR0Sortants(word):
     words_list = []
@@ -281,5 +282,36 @@ def getTermesR3(word):
         words_list.append(word.get("t"))
 
     return words_list
+
+
+def getTermesR5(word):
+    words_list = []
+    words_dict = reseauxDump(word, 5)
+    for w in words_dict:
+        if (w["t"]!= word):
+            words_list.append(w.get("t"))
+    # print(words_list)
+    return words_list
+
+
+def getTermesR6(word):
+    words_list = []
+    words_dict = reseauxDump(word, 6)
+    for w in words_dict:
+        if (w["t"]!= word):
+            words_list.append(w.get("t"))
+    # print(words_list)
+    return words_list
+
+
+def getTermesR9(word):
+    words_list = []
+    words_dict = reseauxDump(word, 9)
+    for w in words_dict:
+        if (w["t"]!= word):
+            words_list.append(w.get("t"))
+    # print(words_list)
+    return words_list
+
 
 

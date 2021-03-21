@@ -25,10 +25,14 @@ def index():
    # print(filter_termes)
    # print(getTermesR0("mer"))
 
-   # print(getTermesR0("vue"))
+   # print(getTermesR9("mer"))
    # print(getWordScore("mer"))
    # print(getWordScore("vue"))
-   getCommentsScore(["piscine","lit","chambre"])
+   # getCommentsScore(["piscine","lit","chambre"])
+
+
+   creatOntologieJson()
+   getOntoFileWords()
    return " index page "
 
 
