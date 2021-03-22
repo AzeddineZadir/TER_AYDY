@@ -365,7 +365,9 @@ def list_to_string(lst):
     return " ".join(lst)
 
 # all composed words are detected 
-def composed_words(lst):
+def composed_words(expression):
+    expression = clean_expr_from_additionals(expression)
+    lst = gets_rid_of_dashes(expression)
     resulting_list = []
     browser = 0
     len_longest_composed_word = -1
@@ -435,7 +437,9 @@ def composed_words(lst):
 
 
 # the composed words that are in a bigger composed word are deleted
-def composed_words_cleaner_version(lst):
+def composed_words_cleaner_version(expression):
+    expression = clean_expr_from_additionals(expression)
+    lst = gets_rid_of_dashes(expression)
     resulting_list = []
     browser = 0
     len_longest_composed_word = -1
@@ -541,22 +545,22 @@ def composed_words_cleaner_version(lst):
         browser+=1
     return resulting_list 
 
+
+#--------------------------------------testing area
 expression = "Superbe chambre, spacieuse, vue sur le parc Très beau domaine, calme, en harmonie avec la nature Nombreuses possibilités de balades alentours, à pied ou à vélo Plats maison et bien cuisinés Hôtes très aimables, à l'écoute, et à nos petits soins"
-    
-expression = clean_expr_from_additionals(expression)
-expression = gets_rid_of_dashes(expression)
-
-
 
 print("\n") 
 print("\t->before detecting composed words:")
 print(expression)
 print("\n")
+
 print("\t->after detecting composed words:")
 startTime = time.time()
+
 expr=composed_words_cleaner_version(expression)
 print(expr)
 print("\n")
+
 executionTime = (time.time()-startTime)
 print("Execution time in seconds composed_words_cleaner_version: "+str(executionTime))
 
