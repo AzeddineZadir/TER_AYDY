@@ -23,16 +23,21 @@ def index():
 
    # print(len(filter_termes))
    # print(filter_termes)
-   # print(getTermesR0("mer"))
-
-   # print(getTermesR9("mer"))
+   #print(getTermesR0("mer"))
+   #print(posTagging("Bonjour".lower()))
+   # print("-----------------------------------")
+   #print(polarisation("j'ai aimer aucun service".lower()))
+   # print("-----------------------------------")
+   print(polarisation("Hôtel très bien situé. Chambre spacieuse Très jolie vue Je recommande les yeux fermés Merci pour ce séjour".lower()))
+   #print(polarisation("la salle de bain été vraiment propre"))
+   # print(posTagging("Jean a aidé Sophie à réviser"))
    # print(getWordScore("mer"))
    # print(getWordScore("vue"))
    # getCommentsScore(["piscine","lit","chambre"])
 
 
-   creatOntologieJson()
-   getOntoFileWords()
+   #creatOntologieJson()
+   #getOntoFileWords()
    return " index page "
 
 

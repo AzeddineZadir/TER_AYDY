@@ -30,7 +30,7 @@ def saveWords(terme,numRel,words_dict):
         # print(filename)
         words_list = getWordsFromDict(words_dict)
         # print(words_list)
-        with open("jdm_cache/"+filename,mode='w') as my_file:
+        with open("jdm_cache/"+filename,mode='w',encoding="utf-8") as my_file:
             my_file.writelines(words_list)
             # print (my_file)
             return my_file        
@@ -57,7 +57,7 @@ def reseauxDump(terme, numRel):
         # print("cache exists ")
         # je retourne les mots apartire du fichier en qst 
         try :
-            with open("jdm_cache/"+filename) as my_file:
+            with open("jdm_cache/"+filename,encoding="utf-8") as my_file:
                 # print (my_file.readlines())
                 return formatResault(filterTermesAndRelations(my_file.readlines()))
                
@@ -83,6 +83,38 @@ def reseauxDump(terme, numRel):
 
 # Exectution d'une requetes  sur Réseaux Dumpe pour un terme  et 
 # une relation (seulment les relations sortantes sont prises en comptes )
+def reseauxDumpByRelation4(terme):
+
+    idDuTerme = -1
+    filename=terme+"_"+str(4)+".txt"
+    if (cacheExists(filename)):
+        # print("cache exists ")
+        # je retourne les mots apartire du fichier en qst 
+        try :
+            with open("jdm_cache/"+filename,encoding="utf-8") as my_file:
+                # print (my_file.readlines())
+                return formatResaultByRelation4(filterTermesAndRelations(my_file.readlines()))
+               
+        except :
+            print ("problem while oppening file ")
+        
+    else :
+        print("cache not found  ")
+        # je lance la requete  j'ecrit le fichier et je retourn les mots 
+
+
+        with urllib.request.urlopen("http://www.jeuxdemots.org/rezo-dump.php?gotermsubmit=Chercher&gotermrel={}&rel={}".format(encodeURLTerme(terme), 4)) as url:
+            s = url.read().decode('ISO-8859-1')
+            line = s.split("\n")
+
+            words = filterTermesAndRelations(line)
+            
+            # print(formatResault(filterTermesAndRelations(line)))
+            saveWords(terme,4,words)
+            # print(filterTermesAndRelations(line))
+            
+            return formatResaultByRelation4(filterTermesAndRelations(line))
+
 def reseauxDumpByRelations(terme, numRel):
 
     idDuTerme = -1
@@ -91,7 +123,7 @@ def reseauxDumpByRelations(terme, numRel):
         # print("cache exists ")
         # je retourne les mots apartire du fichier en qst 
         try :
-            with open("jdm_cache/"+filename) as my_file:
+            with open("jdm_cache/"+filename,encoding="utf-8") as my_file:
                 # print (my_file.readlines())
                 return formatResaultByRelation(filterTermesAndRelations(my_file.readlines()))
                
@@ -108,7 +140,7 @@ def reseauxDumpByRelations(terme, numRel):
             line = s.split("\n")
 
             words = filterTermesAndRelations(line)
-
+            # print(words)
             # print(formatResault(filterTermesAndRelations(line)))
             saveWords(terme,numRel,words)
             # print(filterTermesAndRelations(line))
@@ -168,6 +200,52 @@ def formatResault(lines):
     return words
     
 # crreation d'une liste de dictionaire des mots retourné par les relations 
+def formatResaultByRelation4(lines):
+    words = []
+    # e;eid;'name';type;w;'formated name'
+    # les termes contentant cest carachtéres doivent etre filtrer
+    en = "en:"
+    sup = ">"
+    inf = "<"
+    for line in lines:
+        casesTermes = line.split(";")
+        # on filtre les lignes des relations ainsi que les termes en anglais
+        if (not casesTermes[0] == "r" and not en in casesTermes[2] and not sup in casesTermes[2] and not inf in casesTermes[2]and not "_COM" in casesTermes[2]  ):
+            if(len(casesTermes) == 6):
+                terme1 = casesTermes[2]
+                word_dict1 = {"id": int(casesTermes[1]), "t": terme1[1:len(
+                    terme1)-1], "nt": casesTermes[3], "w": float(casesTermes[4]), "ft": casesTermes[5]}
+
+                words.append(word_dict1)
+            elif (len(casesTermes) == 5):
+                terme2 = casesTermes[2]
+                word_dict2 = {"id": int(casesTermes[1]), "t": terme2[1:len(
+                    terme2)-1], "nt": casesTermes[3], "w": float(casesTermes[4])}
+                # print(word_dict)
+                words.append(word_dict2)
+    returned_words_dict = []
+    searched_word = {"id":words[0].get("id"),"t":words[0].get("t"),"rw":float(999)}
+    # print(f"searched word {searched_word}")
+    for line1 in lines:
+        splitedTermes = line1.split(";")
+        # on filtre les relations sortoantes et on produits la liste des mot qui sont lier au mot concérner 
+        if (splitedTermes[0] == "r" and int(splitedTermes[2])== words[0].get("id")and len(splitedTermes)==6 and int(splitedTermes[3])!=239128):
+            id_terme1 = int(splitedTermes[2])
+            id_terme2= int(splitedTermes[3])
+            if(splitedTermes[5]!="w"):
+                weight = float(splitedTermes[5]) 
+            else :
+                weight = 0 
+            #relation terme1---------> terme2
+            relation_dict = {"id":id_terme2,"t":getTermeById(id_terme2,words),"rw":weight}
+            returned_words_dict.append(relation_dict)
+        # supprimer les temres non retrouver 
+    res = list(filter(lambda i: i['t'] != None, returned_words_dict))
+    res.append(searched_word)
+    # print (res)
+    # print(len(res))
+    return res
+
 def formatResaultByRelation(lines):
 
     words = []
@@ -294,6 +372,7 @@ def getTermesR5(word):
     return words_list
 
 
+
 def getTermesR6(word):
     words_list = []
     words_dict = reseauxDump(word, 6)
@@ -313,5 +392,71 @@ def getTermesR9(word):
     # print(words_list)
     return words_list
 
+
+def getTermesR36(word):
+    words_list = []
+    words_dict = reseauxDumpByRelations(word, 36)
+    neg=["_POL-NEG_PC","_POL-NEG"]
+    pos=["_POL-POS_PC","_POL-POS"]
+    neutre=["_POL-NEUTRE_PC","_POL-NEUTRE"]
+    max =0
+    _word =""
+    for word_dict in words_dict:
+            if word_dict["rw"] > max and word_dict["t"] != word :
+                max = word_dict["rw"]
+                _word=word_dict["t"]
+   
+    
+ 
+    if(_word in neg):
+        return "_POL-NEG"
+    elif _word in pos :
+        return "_POL-POS"
+    else :
+        return "_POL-NEUTRE"
+    return _word
+
+def getTermesR19(word):
+    words_list = []
+    words_dict = reseauxDumpByRelations(word, 19)
+    max =0
+    _word =""
+    for word_dict in words_dict:
+            if word_dict["rw"] > max and word_dict["t"] != word :
+                max = word_dict["rw"]
+                _word=word_dict["t"]
+
+    if not _word:
+        return word
+    return _word
+
+def getTermesR4(word):
+    # cette fonction retourne la POS d'un mot grace a la relation 4  Exemple soin -> Nom
+    words_dict = reseauxDumpByRelation4(word)
+    Ver=["VerInf","VerConjug","VerPPas","VerIImp+SG+P3"]
+    Nom=["NomFem+SG","GNDET","GN","NomMas+SG"]
+    Det=["ProPersCOI","AdjPos","DetInvGen+PL"]
+    Pro=["Unit","ProPers","ProPersSUJ","ProSG+P1"]
+    Adj=["AdjInvGen+SG","AdjFem+SG"]
+
+    notInteressed=["Number:Sing","Gender:Fem","Ukn:"]
+    max =0
+    _word =""
+    for word_dict in words_dict:
+            # print(words_dict)
+            if word_dict["rw"] >= max and word_dict["t"] != word and word_dict["t"] not in notInteressed:
+                max = word_dict["rw"]
+                _word=word_dict["t"].replace(':', '')
+                if _word in Ver : 
+                    _word="Ver"
+                elif _word in Nom:
+                    _word="Nom"
+                elif _word in Det:
+                    _word = "Det"
+                elif _word in Pro:
+                    _word = "Pro"
+                elif _word in Adj:
+                    _word = "Adj"
+    return _word
 
 

@@ -511,7 +511,8 @@
             "Sibiu",
             "voyage",
             "\u00e9glise"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "chambre",
@@ -894,7 +895,8 @@
             "\u00e9tage",
             "appartement",
             "maison"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "propret\u00e9",
@@ -923,7 +925,8 @@
             "propret\u00e9 m\u00e9ticuleuse",
             "propret\u00e9 douteuse"
         ],
-        "has_part": []
+        "has_part": [],
+        "score": 0
     },
     {
         "t": "literie",
@@ -949,7 +952,8 @@
             "\u00e9l\u00e9ment de literie",
             "couverture",
             "dortoir"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "matelas",
@@ -1010,7 +1014,8 @@
             "sommier",
             "chambre",
             "lit"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "drap",
@@ -1092,7 +1097,8 @@
             "chambre",
             "trousseau",
             "lit"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "housse",
@@ -1126,7 +1132,8 @@
         "has_part": [
             "blanchisserie",
             "penderie"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "taie",
@@ -1162,7 +1169,8 @@
             "lit",
             "oreiller",
             "trousseau"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "salle de bain",
@@ -1217,7 +1225,8 @@
             "appartement",
             "suite",
             "maison"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "lavabo",
@@ -1267,7 +1276,8 @@
             "salle de bain",
             "salle de bains",
             "salle d'eau"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "douche",
@@ -1347,7 +1357,8 @@
             "salle de bain",
             "salle de bains",
             "salle d'eau"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "baignoire",
@@ -1474,7 +1485,8 @@
             "salle de bain",
             "salle de bains",
             "salle d'eau"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "rangement",
@@ -1520,7 +1532,8 @@
             "cuisine modulable",
             "bloc-cuisine",
             "cuisine \u00e9quip\u00e9e"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "d\u00e9coration",
@@ -1726,7 +1739,8 @@
             "rosace",
             "buche",
             "busche"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "climatisation",
@@ -1769,7 +1783,8 @@
             "v\u00e9hicule",
             "car",
             "voiture climatis\u00e9e"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "sommier",
@@ -1819,7 +1834,8 @@
             "convertible",
             "chambre",
             "lit"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "lit b\u00e9b\u00e9",
@@ -1830,7 +1846,8 @@
             "meuble",
             "lit"
         ],
-        "has_part": []
+        "has_part": [],
+        "score": 0
     },
     {
         "t": "bidet",
@@ -1934,7 +1951,8 @@
             "salle de bain",
             "salle de bains",
             "salle d'eau"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "glace",
@@ -2207,7 +2225,8 @@
             "glacier",
             "pole nord",
             "r\u00e9troviseur"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "serviette",
@@ -2274,7 +2293,8 @@
             "toilette",
             "trousseau",
             "salle d'eau"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "toilettes",
@@ -2423,7 +2443,8 @@
             "train",
             "appartement",
             "maison"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "t\u00e9l\u00e9vision",
@@ -2562,7 +2583,8 @@
             "audiovisuel",
             "audio-visuel",
             "salon"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "coffre",
@@ -3115,7 +3137,8 @@
             "voiture diesel",
             "voiture",
             "automobile"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "bar",
@@ -3449,7 +3472,8 @@
             "th\u00e9atre",
             "r\u00e8gne animal",
             "train"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "d\u00e9coration",
@@ -3655,7 +3679,8 @@
             "rosace",
             "buche",
             "busche"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "terrasse",
@@ -3708,7 +3733,8 @@
             "Centre Georges Pompidou",
             "centre Pompidou",
             "Centre Pompidou"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "m\u00e9nage",
@@ -3768,7 +3794,8 @@
             "visage",
             "t\u00eate",
             "nez"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "restauration",
@@ -3854,7 +3881,8 @@
         ],
         "has_part": [
             "lettres"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "petit-d\u00e9jeuner",
@@ -3872,7 +3900,8 @@
             "petit-d\u00e9jeuner au lit",
             "prendre le petit d\u00e9jeuner au lit"
         ],
-        "has_part": []
+        "has_part": [],
+        "score": 0
     },
     {
         "t": "caf\u00e9",
@@ -4166,7 +4195,8 @@
             "tiramisu",
             "tiramis\u00f9",
             "cafeti\u00e8re"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "th\u00e9",
@@ -4315,7 +4345,8 @@
             "radicelle",
             "acide d\u00e9soxyribonucl\u00e9ique",
             "Th\u00e9ac\u00e9es"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "chocolat",
@@ -4452,7 +4483,8 @@
             "pain au chocolat",
             "m\u00e9lange sucr\u00e9 sal\u00e9",
             "go\u00fbter"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "viennoiserie",
@@ -4520,7 +4552,8 @@
             "coeur",
             "cro\u00fbte",
             "allerg\u00e8ne"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "repas",
@@ -4886,7 +4919,8 @@
             "vie familiale",
             "journ\u00e9e",
             "vie de famille"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "buffet",
@@ -4995,19 +5029,22 @@
             "maison",
             "salle \u00e0 manger",
             "mobilier"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "demi-pension",
         "syno": [],
         "r_isa": [],
-        "has_part": []
+        "has_part": [],
+        "score": 0
     },
     {
         "t": "pension-compl\u00e8te",
         "syno": [],
         "r_isa": [],
-        "has_part": []
+        "has_part": [],
+        "score": 0
     },
     {
         "t": "boisson",
@@ -7547,7 +7584,8 @@
             "glycose",
             "go\u00fbter",
             "bar"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "cuisinier",
@@ -7736,7 +7774,8 @@
             "reliure",
             "groupe",
             "l\u00e9gion"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "service",
@@ -8571,7 +8610,8 @@
             "service de renseignements",
             "Etat",
             "agence de renseignement"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "serveur",
@@ -8675,7 +8715,8 @@
             "bar \u00e0 h\u00f4tesses",
             "Megaupload",
             "bar"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "spa",
@@ -8701,7 +8742,8 @@
         ],
         "has_part": [
             "sauna"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "sauna",
@@ -8732,7 +8774,8 @@
             "thermes",
             "cure",
             "spa"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "jacuzzi",
@@ -8769,7 +8812,8 @@
             "eau",
             "maison",
             "h\u00f4tel"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "salle de sport",
@@ -8793,7 +8837,8 @@
         ],
         "has_part": [
             "h\u00f4tel"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "internet",
@@ -8822,7 +8867,8 @@
             "selfie",
             "toile",
             "r\u00e9seau"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "escalier",
@@ -8986,7 +9032,8 @@
             "gratte-ciel",
             "tourelle",
             "tour"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "ascenseur",
@@ -9050,7 +9097,8 @@
             "building",
             "\u00e9tage",
             "gratte-ciel"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "accueil",
@@ -9158,7 +9206,8 @@
             "Site internet",
             "site internet",
             "site Internet"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "disponibilit\u00e9",
@@ -9186,7 +9235,8 @@
             "Disponibilit\u00e9 d'office",
             "disponibilit\u00e9 d'office"
         ],
-        "has_part": []
+        "has_part": [],
+        "score": 0
     },
     {
         "t": "animation",
@@ -9422,7 +9472,8 @@
             "Le Conte des contes",
             "Cobra"
         ],
-        "has_part": []
+        "has_part": [],
+        "score": 0
     },
     {
         "t": "soir\u00e9e",
@@ -9518,7 +9569,8 @@
             "nuit de No\u00ebl",
             "veille de No\u00ebl",
             "r\u00e9veillon de No\u00ebl"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "excursion",
@@ -9554,7 +9606,8 @@
             "sortie scolaire",
             "excursion automobile"
         ],
-        "has_part": []
+        "has_part": [],
+        "score": 0
     },
     {
         "t": "acc\u00e8s",
@@ -9794,7 +9847,8 @@
         "has_part": [
             "pi\u00e8ce",
             "salle"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "acc\u00e8s handicap\u00e9",
@@ -9802,7 +9856,8 @@
         "r_isa": [
             "acc\u00e8s"
         ],
-        "has_part": []
+        "has_part": [],
+        "score": 0
     },
     {
         "t": "parking",
@@ -9857,7 +9912,8 @@
             "parc d'activit\u00e9s",
             "zone industrielle",
             "parc industriel"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "cadre",
@@ -10162,7 +10218,8 @@
             "v\u00e9lo",
             "sommier",
             "fen\u00eatre"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "jardin",
@@ -10557,7 +10614,8 @@
             "propri\u00e9t\u00e9",
             "maison",
             "sc\u00e8ne"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "piscine",
@@ -10648,7 +10706,8 @@
             "eau",
             "lotissement",
             "h\u00f4tel"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "plage",
@@ -10795,7 +10854,8 @@
             "\u00eele d\u00e9serte",
             "c\u00f4te",
             "bord de mer"
-        ]
+        ],
+        "score": 0
     },
     {
         "t": "bruit",
@@ -11276,6 +11336,7 @@
             "explosion",
             "gyrophare",
             "orage"
-        ]
+        ],
+        "score": 0
     }
 ]
