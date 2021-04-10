@@ -865,27 +865,21 @@ def polarisation(sentence):
 
         # je retourne une liste des mots Adj Nom ou Nom Adj
         nomAdj = NomAdj(token)
-        # print(nomAdj)
         # traiter les nomAdj
         for term in nomAdj:
-
+            print(term)
             adj = ""
             mot = ""
             neg = ""
             pos= term[0]
-                #if "Adj" in term.values():  # je recupére l'adjectif
-                    #adj = list(term.keys())[0]
+
             for Adj in term[1]:
                     adj = Adj
-                #if "Nom" in term.values():  # je recupére le nom
-                    #nom = list(term.keys())[0]
 
             for Nom in term[2] :
                     mot = Nom   
-                   
-                #if "negation" in term.keys():  # je recupére la negation (true ou false)
-                    #neg = list(term.values())[0]
-            for Neg in term[3] :
+
+            for Neg in term[3].values() :
                     neg = Neg
             pol = getTermesR36(adj)
             if pol in positif and neg in "true":
@@ -901,8 +895,8 @@ def polarisation(sentence):
         # traiter les verbes
         negation = matchNegationVerb(token)
         verbes = getVerb(token)
-        # print(verbes)
         for verb in verbes:
+            print(verb)
             pos = verb[0]
             Ver = ""
             for term in verb[1]:
@@ -933,6 +927,7 @@ def polarisation(sentence):
             AdverbTraiter=[]
             AdvAdjectif = AdvAdj(token)
             for array in AdvAdjectif:
+                print(array)
                 pos = array[0]
                 adv = ""
                 adj = ""
@@ -978,8 +973,9 @@ def polarisation(sentence):
 
             # Adverb
             Advs = getAdverb(token)
+           
             for array in Advs:
-                
+                print(array)
                 pos = int(array[0])
                 adv = ""
                 for term in array[1]:
@@ -987,7 +983,7 @@ def polarisation(sentence):
                 skip =0 #je met un flag comme quoi l adverbe n'a été jamais traiter
                 for dejaTraiter in AdverbTraiter:
                     if dejaTraiter[0] == pos and dejaTraiter[1] == adv:
-                        skip=1 #je met le flag a 1 si l'adverbe a été déja traiter précédement
+                        skip=1 #je met le flag a 1 si l'adverbe a été déja traiter
                 if(skip == 1):
                     #print("Deja traiter")
                     break
@@ -1004,11 +1000,14 @@ def polarisation(sentence):
                     elif pol == negatif:
                         score-=1
                     
+
+
+
         # Il faut scorer chaque branche de l'ontologie par rapport au Nom qui accompagne l'adjectif ou le nom de l'adverbe s'il existe
 
     return score
 
-
+print(polarisation("vue sur la mer magnifique".lower()))
 
 
 
