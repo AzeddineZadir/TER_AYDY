@@ -259,7 +259,6 @@ def creatOntologieJson():
 
     try:
         filename = "hotel_ontologie.json"
-
         # print(words_list)
         with open(filename, mode='w') as my_file:
 
@@ -270,6 +269,7 @@ def creatOntologieJson():
         return False
 
 
+# lire le fichier de l'ontologie 
 def getOntoFileWords():
     with open('hotel_ontologie.json') as json_file:
         data = json.load(json_file)

@@ -29,10 +29,10 @@ def index():
    # print(getWordScore("mer"))
    # print(getWordScore("vue"))
    # getCommentsScore(["piscine","lit","chambre"])
+   print(reseauxDump("vue", 4))
 
 
-   creatOntologieJson()
-   getOntoFileWords()
+  
    return " index page "
 
 
