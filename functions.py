@@ -748,7 +748,7 @@ def getVerb(tokens):
 
 def getAdvConnu():
     AdverbConnu =[]
-    dataAdv = pd.read_csv("./lexique_intensifieurs",
+    dataAdv = pd.read_csv("./src/lexique_intensifieurs",
                           encoding="utf-8", header=None)
     Adverbs = dataAdv[0]
     for ad in Adverbs:
@@ -850,7 +850,7 @@ def AdvAdj(tokens):
 
 
 def polarisation(sentence):
-    dataAdv = pd.read_csv("./lexique_intensifieurs",
+    dataAdv = pd.read_csv("./src/lexique_intensifieurs",
                           encoding="utf-8", header=None)
     Adverbs = dataAdv[0]
     positif = "_POL-POS"

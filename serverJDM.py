@@ -5,11 +5,12 @@ os.system("clear")
 from flask import Flask, render_template, request
 from functions import *
 from jdmLink import *
-
+from flask_cors import CORS
 app = Flask(__name__)
 
 
-
+app.config['CORS_HEADERS'] = 'Content-Type'
+CORS(app, resources={r"/*": {"origins": "*"}})
 
 @app.route('/')  # route localhost:5000
 def index():
@@ -50,12 +51,11 @@ def r_associated(word):
 @app.route('/releated',methods = ['POST'])
 def releated():
    result = request.json
-   phrase=result['phrase']
- 
-   print(phrase)
-    
-     
-   return json.dumps(phrase, ensure_ascii=False)
+   souhait = result[0]["souhait"]
+   # wifi = result[1]["wifi"] 
+   # print(wifi)
+   
+   return json.dumps(result, ensure_ascii=False)
 
 
 
