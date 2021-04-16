@@ -12,7 +12,6 @@ def encodeURLTerme(terme):
     return url_encode_terme
 
 
-
 # verifier si le mots n'est pas déja enregistrer 
 def cacheExists(filename):
         
@@ -48,6 +47,7 @@ def getWordsFromDict(words_dict):
     
     return words_list
 
+
 # Exectution d'une requetes  sur Réseaux Dumpe pour un terme  et une relation
 def reseauxDump(terme, numRel):
 
@@ -80,6 +80,7 @@ def reseauxDump(terme, numRel):
             # print(filterTermesAndRelations(line))
            
             return formatResault(filterTermesAndRelations(line))
+
 
 # Exectution d'une requetes  sur Réseaux Dumpe pour un terme  et 
 # une relation (seulment les relations sortantes sont prises en comptes )
@@ -163,7 +164,6 @@ def filterTermesAndRelations(lines):
     return words
 
 
-
 # crreation d'une liste de dictionaire des mots retourné par Reseaux Dump
 def formatResault(lines):
     words = []
@@ -198,7 +198,8 @@ def formatResault(lines):
     # for item in words:
     #     print(item)
     return words
-    
+
+
 # crreation d'une liste de dictionaire des mots retourné par les relations 
 def formatResaultByRelation4(lines):
     words = []
@@ -312,6 +313,7 @@ def getTermeById(id,words):
             return w["t"]
             break
 
+
 # récupérer la liste les mots lies a une liste de mots
 def getAllTermesR0(words_list):
     words = []
@@ -321,6 +323,7 @@ def getAllTermesR0(words_list):
 
     print(f"le nombre de mots retournés {len(words)}")
     return words
+
 
 def getAllTermesR0Sortant(words_list):
     words = []
