@@ -31,7 +31,7 @@ fd = open("motsJDM.txt","r",encoding='utf-8')
 for ligne in fd :
     data = ligne.split(":")
     motsParIds[data[0]] = data[1][:-1]
-print("Nombre de mots :", len(motsParIds.keys()))
+print ("Nombre de mots :", len(motsParIds.keys()))
 
 for numRel in typesRelations :
     print("Chargement des relations", numRel, "("+typesRelations[numRel]+")")
