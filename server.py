@@ -21,7 +21,8 @@ typesRelations = {
     "6": "r_isa"
    }
 
-# Chargements des mots
+#Chargements des mots
+
 motsParIds = {}
 relationsParIdMots = {}
 nomsParIdAdjectifs = {}
@@ -60,7 +61,8 @@ def mot(idMot):
         return motsParIds[idMot]
     return "-1"
 
-# récupérer tous les synonyme d'un mot
+#Récupérer tous les synonymes d'un mot
+
 @app.route('/syno/<mot>')
 def syno(mot):
     results=[]
@@ -119,7 +121,8 @@ def get_synonymes(word):
                     print (motsParIds[rel[0]])                   
     return results
 
-# récupérer les commentaire lier a un mot
+#Récupérer les commentaires liés à un mot
+
 @app.route('/releated',methods = ['POST'])
 def releated():
     result = request.json
@@ -137,9 +140,9 @@ def releated():
 
         for com in results:
             if com not in Comments:
-                Comments.append(com)
+                Comments.append(com) 
        
-    #results = related_comment(mot)
+    #Resultats = related_comment(mot)
     print(len(Comments))
     
     return json.dumps(Comments, ensure_ascii=False)
