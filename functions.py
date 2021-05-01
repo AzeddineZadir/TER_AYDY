@@ -19,7 +19,7 @@ def cacheExists(filename):
         with open("jdm_cache/"+filename) as my_file:
             return my_file
     except :
-        return False        
+        return False     
 
 
 # pour un terme et une relation enregistrer dans un fichier les donnés retourner par la requet sur JDM
