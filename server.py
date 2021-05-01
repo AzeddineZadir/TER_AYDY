@@ -144,7 +144,6 @@ def releated():
        
     #Resultats = related_comment(mot)
     print(len(Comments))
-    
     return json.dumps(Comments, ensure_ascii=False)
 
 
