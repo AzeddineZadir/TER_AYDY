@@ -543,7 +543,8 @@ def composed_words_cleaner_version(expression):
                 resulting_list+=[lst[browser]]
                 last_added_is_a_cw = False
         browser+=1
-    return resulting_list 
+ 
+    return resulting_list
 
 
 #--------------------------------------testing area
