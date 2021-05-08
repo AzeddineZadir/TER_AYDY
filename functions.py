@@ -5,6 +5,8 @@ from jdmLink import *
 import re
 import json
 import time
+import stanza
+import deplacy
 
 
 # recupérer la liste des vecteurs des commentaires
@@ -529,21 +531,6 @@ def composed_words_cleaner_version(expression):
     return resulting_list
 
 
-# Not used
-def posTagging0(phrase):
-    tokens = composed_words_cleaner_version(phrase)
-    arrayPos = []
-    print(tokens)
-    for token in tokens:
-        dictio = '{"'+token+'":"'
-        pos = getTermesR4(token)
-        dictio += pos+'"}'
-
-        obj = json.loads(dictio)
-        arrayPos.append(obj)
-
-    return arrayPos
-
 
 def posTagging(sentence):
 
@@ -563,6 +550,39 @@ def posTagging(sentence):
         array.append(arrayPos)
 
     return array
+nlp = stanza.Pipeline(lang="fr",verbose=False) 
+def stanzaPosTagging(sentence):
+  phrases = re.split("\.|,", sentence)  # re => Regular Expression
+  Dict = []
+  for phrase in phrases:
+    doc = nlp(phrase)
+    for i, sent in enumerate(doc.sentences):
+    #   print(*[f'word: {word.text+" "}\tpos: {word.pos}' for word in sent.words], sep='\n')
+      Dictt = []
+      for word in sent.words:
+        if  "'" in word.text:
+            w = word.text
+            w=w[:-1]
+            word.text = w+"e"
+        dict_ = json.loads('{"'+word.text+'":"'+word.pos+'"}')
+        Dictt.append(dict_)
+      Dict.append(Dictt)
+    
+  return Dict
+def ambiguiter(tokens):
+    max_len = len(tokens)
+    nomAdj = []
+    pos = 0
+    for token in tokens:
+        if pos != max_len-1 and max_len >= 1:
+            pos = pos+1
+            print(token)
+            if ("Det" in token.values() and "Nom" != tokens[pos].values()):
+                for element in tokens[pos]:
+                    Dict = '{"'+element+'":"Nom"}'
+                    tokens[pos]=json.loads(Dict)
+            
+    return tokens
 
 
 def NomAdj(tokens):
@@ -576,15 +596,15 @@ def NomAdj(tokens):
             # print(pos)
             
 
-            if ("Adj" in token.values() and "aucun" not in token.keys() and "Nom" in tokens[pos].values() or "Nom" in token.values() and "Adj" in tokens[pos].values()):
+            if ("ADJ" in token.values() and "aucun" not in token.keys() and "NOUN" in tokens[pos].values() or "NOUN" in token.values() and "ADJ" in tokens[pos].values()):
                 #print(pos)
                 composition2mot = []
-                if "Adj" in token.values():
+                if "ADJ" in token.values():
                     composition2mot.append(pos-1) #La position de l'adjectif 
                     composition2mot.append(token) #Adj
                     composition2mot.append(tokens[pos]) #Nom
                     
-                elif "Adj" in tokens[pos].values(): 
+                elif "ADJ" in tokens[pos].values(): 
                     composition2mot.append(pos)
                     composition2mot.append(tokens[pos]) #Adj
                     composition2mot.append(token)   #Nom
@@ -603,7 +623,7 @@ def NomAdj(tokens):
         if position != max_len-2 and max_len >= 2:
             position = position+1
             # print(pos)
-            if ("Nom" in token.values() and "Ver" in tokens[position].values() and "Adj" in tokens[position+1].values()):
+            if ("NOUN" in token.values() and "VERB" in tokens[position].values() and "ADJ" in tokens[position+1].values()):
                 composition2mot = []
                 composition2mot.append(int(position+1))
                 composition2mot.append(tokens[position+1]) #Adj
@@ -619,10 +639,10 @@ def NomAdj(tokens):
             position = position+1
             # print(pos)
            
-            if ("Nom" in token.values()
-                and "Ver" in tokens[position].values()
+            if ("NOUN" in token.values()
+                and "VERB" in tokens[position].values()
                 and ("pas" in tokens[position+1].keys())
-                    and "Adj" in tokens[position+2].values()):
+                    and "ADJ" in tokens[position+2].values()):
                 composition2mot = []
                 composition2mot.append(position+2)
                 composition2mot.append(tokens[position+2]) #Adj
@@ -637,11 +657,11 @@ def NomAdj(tokens):
             position = position+1
             # print(pos)
 
-            if ("Nom" in token.values()
+            if ("NOUN" in token.values()
                 and ("n" in tokens[position].keys() or "ne" in tokens[position].keys())
-                and "Ver" in tokens[position+1].values()
+                and "VERB" in tokens[position+1].values()
                 and ("pas" in tokens[position+2].keys())
-                    and "Adj" in tokens[position+3].values()):
+                    and "ADJ" in tokens[position+3].values()):
                 print(position)
                 composition2mot = []
                 composition2mot.append(position+3)
@@ -662,9 +682,9 @@ def matchNegationVerb(tokens):
         if pos != max_len-3 and max_len >= 3:
             pos += 1
             if (("n" in token.keys() or "ne" in token.keys())
-                and "Ver" in tokens[pos].values()
+                and ("VERB" in tokens[pos].values() or "AUX" in tokens[pos].values())
                 and "pas" in tokens[pos+1].keys()
-                    and "Ver" in tokens[pos+2].values()):
+                    and "VERB" in tokens[pos+2].values()):
                 mot = []
                 mot.append(pos+2)
                 mot.append(tokens[pos+2])
@@ -674,7 +694,7 @@ def matchNegationVerb(tokens):
         if pos != max_len-1 and max_len >= 1:
             pos += 1
             if ((("pas" in token.keys() or "jamais" in token.keys() or "rien" in token.keys())
-                     and "Ver" in tokens[pos].values())
+                     and "VERB" in tokens[pos].values())
                     ):
                 if(len(neg) != 0):
                     for negation in neg:
@@ -693,8 +713,8 @@ def matchNegationVerb(tokens):
     for token in tokens:  # exemple j'ai aimer vraiment aucun service
         if pos != max_len-2 and max_len >= 2:
             pos += 1
-            if ((("Ver" in token.values())
-                     and "Adv" in tokens[pos].values() and ("aucun" in str(tokens[pos+1].keys()) ))
+            if ((("VERB" in token.values())
+                     and "ADV" in tokens[pos].values() and ("aucun" in str(tokens[pos+1].keys()) ))
                     ):
                 if(len(neg) != 0):
                     for negation in neg:
@@ -712,7 +732,7 @@ def matchNegationVerb(tokens):
     for token in tokens:  # exemple j'ai aimer aucun service
         if pos != max_len-1 and max_len >= 1:
             pos += 1
-            if ((("Ver" in token.values())
+            if ((("VERB" in token.values())
                      and ("aucun" in str(tokens[pos].keys()) ))
                     ):
                 if(len(neg) != 0):
@@ -734,7 +754,7 @@ def getVerb(tokens):
     pos = 0
     verbs = []
     for token in tokens:
-        if "Ver" in token.values():
+        if "VERB" in token.values():
             indexV = []
             index = pos
             verb = token
@@ -763,7 +783,7 @@ def getAdverb(tokens):
     adv=[]
     for token in tokens:
 
-        if token.keys() in AdvConnu or "Adv" in token.values():
+        if token.keys() in AdvConnu or "ADV" in token.values():
             compo=[]
             compo.append(pos)
             compo.append(token)
@@ -797,7 +817,7 @@ def getMotRel(token, pos):
     mot2 = ""
     posi = pos
     while(posi != len(token)):  # Parcours a droite de la phrase chercher le mot le plus proche
-        if "Nom" in token[posi].values():
+        if "NOUN" in token[posi].values():
             for term in token[posi].keys():
                 mot1 = term
             break
@@ -805,7 +825,7 @@ def getMotRel(token, pos):
 
     position = 0
     for term in token:  # Parcours dés le début de la phrase
-        if "Nom" in term.values():
+        if "NOUN" in term.values():
             for t in term.keys():
                 mot2 = t
 
@@ -837,7 +857,7 @@ def AdvAdj(tokens):
             # print(pos)
             composition2mot = []
 
-            if ("Adv" in token.values() and "Adj" in tokens[pos].values()):
+            if ("ADV" in token.values() and "ADJ" in tokens[pos].values()):
 
                 composition2mot.append(pos)
                 composition2mot.append(token)
@@ -859,7 +879,7 @@ def polarisation(sentence):
     score = 0
     denominator = 0
     # je retourne les phrases tokenizer par les mots + valeur de leurs pos
-    Tokens = posTagging(sentence)
+    Tokens = stanzaPosTagging(sentence)
     print(Tokens)
     for token in Tokens:
 
@@ -975,7 +995,7 @@ def polarisation(sentence):
             Advs = getAdverb(token)
            
             for array in Advs:
-                print(array)
+                # print(array)
                 pos = int(array[0])
                 adv = ""
                 for term in array[1]:
@@ -991,7 +1011,7 @@ def polarisation(sentence):
                 if adv in AdverbConnu:
                     for ad in Adverbs:
                         if ad.split(":")[0] == adv:
-                            score+=int(ad.split(":")[1])
+                            score=score*int(ad.split(":")[1])
 
                 else :
                     pol = getTermesR36(adv)
@@ -1000,15 +1020,8 @@ def polarisation(sentence):
                     elif pol == negatif:
                         score-=1
                     
-
-
-
-        # Il faut scorer chaque branche de l'ontologie par rapport au Nom qui accompagne l'adjectif ou le nom de l'adverbe s'il existe
-
     return score
 
-print(polarisation("vue sur la mer magnifique".lower()))
-
-
+print(polarisation("ils n'ont pas aimer le service".lower()))
 
 
