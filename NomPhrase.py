@@ -9,6 +9,7 @@ def getNom(sentence):
                 for n in mot.keys():
                   nom = n
                 #   print(nom)
-                  Nom.append(nom)
+                  
+                Nom.append(nom)
 
     return Nom
