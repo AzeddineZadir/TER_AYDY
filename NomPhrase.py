@@ -17,4 +17,5 @@ def getNom(sentence):
                 for nom in mot.keys():
                     if nom not in Nom:
                         Nom.append(nom)
+   
     return Nom
