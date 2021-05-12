@@ -16,28 +16,29 @@ CORS(app, resources={r"/*": {"origins": "*"}})
 def index():
    
   
-   # wordss = getTermesR0Sortants("mer")
-   # print(len(wordss))
-   # # print(wordss)
+   wordss = getTermesR0Sortants("piscine")
+   print(len(wordss))
+   # print(wordss)
 
-   # filter_termes = filterVocabulary(wordss)
+   filter_termes = filterVocabulary(wordss)
 
-   # print(len(filter_termes))
+   print(len(filter_termes))
    # print(filter_termes)
    #print(getTermesR0("mer"))
    #print(posTagging("Bonjour".lower()))
    # print("-----------------------------------")
-   print(polarisation("j'ai aimer aucun service".lower()))
+   # print(polarisation("j'ai aimer aucun service".lower()))
    # print("-----------------------------------")
    #print(polarisation("la salle de bain été vraiment propre"))
    # print(posTagging("Jean a aidé Sophie à réviser"))
-   # print(getWordScore("mer"))
-   # print(getWordScore("vue"))
-   # getCommentsScore(["piscine","lit","chambre"])
-   print(reseauxDump("vue", 4))
+   
+   # reseauxDumpByRelations('pension complète',0)
+
+   # getAllTermesR0('cadre')
+
+   # getCommentsScore(["cadre"])
 
 
-  
    return " index page "
 
 

@@ -20,7 +20,7 @@ def getCommentsVecteurs(words_list):
 
 # récupérer tous les commentaires du fichier
 def getCommentes():
-    comments_file = pd.read_csv('comments.txt', encoding="utf-8", header=None)
+    comments_file = pd.read_csv('src/comments.txt', encoding="utf-8", header=None)
     commentaires = comments_file[0]
     # liste des commentaires
     comments_list = []
@@ -72,7 +72,7 @@ def getCommentsScore(user_words_list):
 
     # words_from_JDM = getAllTermes(user_words_list)
     words_from_JDM = getAllTermesR0(user_words_list)
-    # print(f"1_______________words from jdm {words_from_JDM}")
+    print(f"1_______________words from jdm {words_from_JDM}")
     filtered_words = filterVocabulary(words_from_JDM)
     # print(len(filtered_words))
     all_words = addUserWords(filtered_words, user_words_list)
@@ -159,15 +159,16 @@ def addUserWords(filtered_words, user_words_list):
 
 
 def getMyOntologie():
-    ontologie = ["hôtel", "chambre", "propreté", "literie", "matelas", "drap", "housse", "taie",
-                 "salle de bain", "lavabo", "douche", "baignoire", "rangement", "décoration",
-                 "climatisation", "sommier", "lit bébé", "bidet", "glace", "serviette", "toilettes",
-                 "télévision", "coffre", "bar", "décoration", "terrasse", "ménage", "restauration",
-                 "petit-déjeuner", "café", "thé", "chocolat", "viennoiserie", "repas", "buffet",
-                 "demi-pension", "pension-complète", "boisson", "cuisinier", "service", "serveur", "spa",
-                 "sauna", "jacuzzi", "salle de sport", "internet", "escalier", "ascenseur", "accueil",
-                 "disponibilité", "animation", "soirée", "excursion", "accès", "accès handicapé", "parking",
-                 "cadre", "jardin", "piscine", "plage", "bruit"]
+    # ontologie = ["hôtel", "chambre", "propreté", "literie", "matelas", "drap", "housse", "taie",
+    #              "salle de bain", "lavabo", "douche", "baignoire", "rangement", "décoration",
+    #              "climatisation", "sommier", "lit bébé", "bidet", "glace", "serviette", "toilettes",
+    #              "télévision", "coffre", "bar", "décoration", "terrasse", "ménage", "restauration",
+    #              "petit-déjeuner", "café", "thé", "chocolat", "viennoiserie", "repas", "buffet",
+    #              "demi-pension", "pension complète", "boisson", "cuisinier", "service", "serveur", "spa",
+    #              "sauna", "jacuzzi", "salle de sport", "internet", "escalier", "ascenseur", "accueil",
+    #              "disponibilité", "animation", "soirée", "excursion", "accès", "accès handicapé", "parking",
+    #              "cadre", "jardin", "piscine", "plage", "bruit"]
+    ontologie = ["hôtel", "chambre", "propreté"]
     # ontologie = ["chambre", "matelas"]
     return ontologie
 
@@ -220,10 +221,12 @@ def getWordScore(word):
 
     for ontologie_word in ontologie:
         # les relations sortontes
+        # print(ontologie_word)
         words_list = getTermesR0Sortants(ontologie_word)
+        # print(words_list)
         if word in words_list:
             score += 1
-
+        # print("***************")
     # print(f"le score du mot {word} est de {score}")
     return score
 
@@ -1007,7 +1010,7 @@ def polarisation(sentence):
 
     return score
 
-print(polarisation("vue sur la mer magnifique".lower()))
+# print(polarisation("vue sur la mer magnifique".lower()))
 
 
 
