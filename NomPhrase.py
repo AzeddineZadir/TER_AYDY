@@ -8,7 +8,9 @@ def getNom(sentence):
                 # print(mot)
                 for n in mot.keys():
                   nom = n
-                #   print(nom)
+                
+              # print(nom)
+            
                   Nom.append(nom)
     posJDM = posTagging(sentence)
     for phrase in posJDM:
