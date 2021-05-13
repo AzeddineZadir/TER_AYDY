@@ -154,11 +154,16 @@ def reseauxDumpByRelations(terme, numRel):
 # ne retournant que les lignes de type termes et relation
 def filterTermesAndRelations(lines):
     words = []
+    en = "en:"
+    sup = ">"
+    inf = "<"
     regx = "((e;[0-9]+;.*)|(r;[0-9]+;.*))"
     for item in lines:
 
         x = re.search("((e;[0-9]+;.*)|(r;[0-9]+;.*))", item)
-        if x != None:
+        if x != None and not en in x.group() and not sup in x.group() and not "_COM"in x.group():
+        
+            print(x.group())
             words.append(x.group())
 
     # print(words)
@@ -279,7 +284,7 @@ def formatResaultByRelation(lines):
                 # print(word_dict)
                 words.append(word_dict2)
 
-    # print(words)
+    print(words)
 
     returned_words_dict = []
     searched_word = {"id": words[0].get(

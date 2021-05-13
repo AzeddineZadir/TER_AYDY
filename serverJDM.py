@@ -14,15 +14,15 @@ CORS(app, resources={r"/*": {"origins": "*"}})
 
 @app.route('/')  # route localhost:5000
 def index():
-   
-  
-   wordss = getTermesR0Sortants("piscine")
-   print(len(wordss))
-   # print(wordss)
 
-   filter_termes = filterVocabulary(wordss)
+   getTermesR0Sortants('hôtel')
+   # wordss = getTermesR0Sortants("piscine")
+   # print(len(wordss))
+   # # print(wordss)
 
-   print(len(filter_termes))
+   # filter_termes = filterVocabulary(wordss)
+
+   # print(len(filter_termes))
    # print(filter_termes)
    #print(getTermesR0("mer"))
    #print(posTagging("Bonjour".lower()))
