@@ -20,4 +20,5 @@ def getNom(sentence):
                     if nom not in Nom:
                         Nom.append(nom)
    
-    return Nom
+   
+       return Nom
