@@ -96,9 +96,9 @@ def reseauxDumpByRelation4(terme):
             with open("jdm_cache/"+filename, encoding="utf-8") as my_file:
                 # print (my_file.readlines())
                 return formatResaultByRelation4(filterTermesAndRelations(my_file.readlines()))
-
-        except:
-            print("problem while oppening file ")
+            
+            except:
+                print("problem while oppening file")
 
     else:
         print("cache not found  ")
