@@ -147,5 +147,4 @@ def releated():
     return json.dumps(Comments, ensure_ascii=False)
 
 
-
 app.run()
