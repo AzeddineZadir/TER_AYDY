@@ -1273,8 +1273,9 @@ def creatOntologieFile() :
         words_list.append(getTermesR0Sortants(ontologie_word))
     words = []
     for l in words_list : 
-        for w in l : 
-            words.append(w)
+        for w in l :
+            
+            words.append(w.lower())
     #supression de doublons
     words_cleaed = list(set(words))
     # print(words_cleaed)
