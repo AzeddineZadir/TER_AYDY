@@ -1,0 +1,6 @@
+
+e;266163;'débuté';1;50
+e;11250458;'Voici une chronologie des films dans lesquels des acteurs et actrices célèbres ont débuté';777;0
+e;15229546;'Il a débuté à l'Olympique de Marseille.';1;0
+r;288219539;266163;11250458;11;40
+r;402102788;266163;15229546;11;50

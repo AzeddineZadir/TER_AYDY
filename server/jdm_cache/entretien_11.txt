@@ -1,0 +1,348 @@
+
+e;125053;'entretien';1;368
+e;6316051;'prise en charge pour ajustement et entretien d'autres prothèses internes';1;0
+e;6321290;'entretien du capteur interne du moniteur de surveillance foetale';1;0
+e;6325098;'prise en charge pour ajustement et entretien d'une prothèse de conduction osseuse';1;0
+e;6345118;'prise en charge pour ajustement et entretien d'un stimulateur cardiaque';1;0
+e;6347984;'prise en charge pour ajustement et entretien d'une prothèse cochléaire';1;0
+e;6359819;'entretien d'une sonde nasogastrique';1;0
+e;6366635;'entretien du moniteur de contractions utérines';1;0
+e;6369150;'entretien d'un drain thoracique';1;0
+e;6373267;'entretien de cathéter d'un système de dialyse péritonéale';1;0
+e;6375306;'entretien d'un drain thoracique chez un nouveau-né';1;0
+e;6380211;'prise en charge pour ajustement et entretien d'une prothèse auditive implantée';1;0
+e;6383484;'entretien d'un collet cervical';1;0
+e;6387759;'entretien d'un implant dentaire';1;0
+e;6393765;'entretien psychologique';1;0
+e;6394492;'prise en charge pour ajustement et entretien d'une prothèse interne non précisée';1;0
+e;6398617;'prise en charge pour ajustement et entretien d'une pompe à perfusion';1;0
+e;6400143;'entretien d'une sonde naso-entérique';1;0
+e;6409376;'prise en charge pour ajustement et entretien d'une prothèse interne';1;0
+e;6411042;'entretien d'un drain de penrose';1;0
+e;6414969;'entretien d'une bande extensible';1;0
+e;6416539;'entretien du moniteur de pression intracrânienne';1;0
+e;6417983;'entretien de la trame osseuse';1;0
+e;6418524;'entretien diminué de la trame osseuse';1;0
+e;6359925;'entretien d'une traction';1;0
+e;6321637;'entretien d'une attelle';1;0
+e;6354352;'ajustement et entretien d'une prothèse interne';1;0
+e;14070545;'guide d'entretien';1;0
+e;14452737;'contribution à l'entretien et à l'éducation des enfants';1;0
+e;14453002;'allocations familiales et contribution à l'entretien des enfants';1;0
+e;14452840;'contribution à l'éducation et l'entretien des enfants';1;0
+e;14452830;'contribution à l'entretien et à l'éduction de l'enfant';1;0
+e;14453402;'gestion et entretien d'une concession';1;0
+e;14453414;'construction et entretien des monuments et caveaux';1;0
+e;14453384;'gestion et entretien d'un cimetière';1;0
+e;14454206;'entretien des voies communales';1;0
+e;14627079;'entretien facilité';1;0
+e;6348319;'ajustement et entretien d'une pompe à perfusion';1;0
+e;13765477;'entretien d'un drain de Jackson Pratt';1;0
+e;16492100;'opération d'entretien';1;0
+e;6322318;'entretien personnel altéré';1;0
+e;6329321;'ajustement et entretien d'une prothèse auditive implantée';1;0
+e;6300340;'ajustement et entretien d'autres prothèses internes';1;0
+e;6325160;'ajustement et entretien d'un stimulateur cardiaque';1;0
+e;6412942;'ajustement et entretien d'une prothèse interne non précisée';1;0
+e;14486330;'passer un entretien d'embauche';1;0
+e;14502924;'entretien automobile';1;0
+e;14571026;'solliciter un entretien';1;6
+e;14571027;'entretien par Skype';1;6
+e;6427587;'examen de routine pour entretien de la contraception';1;0
+e;10672886;'défaut d'entretien normal';777;0
+e;6431513;'chimiothérapie d'entretien';1;0
+e;6443273;'cardiectomie chez le donneur avec préparation et entretien de l'homogreffe';1;0
+e;16028078;'coût d'entretien';1;0
+e;15446695;'d'entretien facile';1;0
+e;15334053;'employée chargée de l'entretien';1;0
+e;15339136;'employés chargés de l'entretien';1;0
+e;6069316;'entretien quotidien dans la salle des machines';777;0
+e;6442018;'ajustement et entretien d'un dispositif d'accès vasculaire';1;0
+e;15762048;'cher à l'entretien';1;0
+e;15762050;'chère à l'entretien';1;0
+e;16326570;'chef du service d'entretien';1;0
+e;15333984;'avoir un entretien d'embauche';1;0
+e;15254591;'carnet d'entretien';1;0
+e;15572783;'chef du service entretien';1;0
+e;16391744;'atelier de l'entretien';1;0
+e;5836715;'entretien de l'automobile';777;0
+e;6440103;'électricien d'entretien';1;0
+e;6436774;'service hospitalier d'entretien ménager';1;0
+e;11061074;'Indisponibilité périodique pour entretien et réparation';777;0
+e;11354613;'Traité du zen et de l'entretien des motocyclettes';777;0
+e;15198330;'alimentation d'entretien';1;0
+e;15333986;'aller à un entretien d'embauche';1;0
+e;5921649;'étiquetage pour l'entretien des textiles';777;0
+e;12048801;'superviser l'entretien de matériel militaire';1;0
+e;12078795;'entretien minute';1;0
+e;12078794;'entretien disciplinaire';1;0
+e;12078793;'entretien d'embauche minute';1;0
+e;10042213;'Association de jeunes pour l'entretien et la conservation des trains d'autrefois';777;0
+e;11090507;'entretien préalable au licenciement';777;0
+e;11090697;'certificat de capacité pour l'entretien d'animaux d'espèces non domestiques';777;0
+e;12050512;'agent d'entretien en piscine';1;0
+e;12050513;'agente d'entretien en piscine';1;0
+e;12050481;'agente d'entretien des fosses septiques';1;0
+e;12050480;'agent d'entretien des fosses septiques';1;0
+e;12050903;'assurer l'entretien des trains';1;0
+e;12051309;'superviser les activités d'entretien dans les aéroports';1;0
+e;6450987;'électricienne d'entretien';1;0
+e;6446771;'cardiectomie et pneumonectomie chez le donneur avec préparation et entretien de l'homogreffe';1;0
+e;12051164;'organiser l'entretien d'avions';1;0
+e;12051232;'planifier le travail d'employés concernant l'entretien de véhicules';1;0
+e;6442266;'entretien entre l'infirmière et le patient';1;0
+e;11237234;'entretien d'explicitation';777;0
+e;12051596;'entretien de pelouses';1;0
+e;12057427;'se rendre à un entretien';1;0
+e;12053009;'utiliser du matériel d'entretien de pelouses';1;0
+e;6445787;'véhicule à l'arrêt ou en cours d'entretien';1;0
+e;6433988;'ouvrier d'entretien de construction';1;0
+e;11253215;'entretien clinique';777;0
+e;6448984;'thérapie d'entretien de retrait du médicament';1;0
+e;6446224;'entretien de l'anesthésie';1;0
+e;6445211;'mécanicienne d'entretien d'établissement';1;0
+e;10427253;'produits d'entretien pour véhicules automobiles';777;0
+e;12279221;'entretien des véhicules';1;0
+e;2471931;'entretien individuel';1;0
+e;6447190;'pharmacothérapie d'entretien pour trouble de santé mentale';1;0
+e;6437110;'mécanicien d'entretien d'établissement';1;0
+e;13302231;'entretien orthodontique';1;0
+e;6449971;'prise en charge pour ajustement et entretien d'un dispositif d'accès vasculaire';1;0
+e;6448018;'ouvrière d'entretien de construction';1;0
+e;9446886;'avoir un entretien';1;0
+e;16072063;'Agent d'entretien';1;0
+e;16072104;'Allocations familiales et contribution à l'entretien des enfants';1;0
+e;16072612;'Contribution à l'entretien et à l'éducation des enfants';1;0
+e;16072613;'Contribution à l'entretien et à l'éduction de l'enfant';1;0
+e;16072614;'Contribution à l'éducation et l'entretien des enfants';1;0
+e;16073143;'Frais d'entretien';1;0
+e;4344990;'entretien de motivation';1;8
+e;5331200;'entretien des sols';1;24
+e;1650144;'entretien motivationnel';1;0
+e;2341227;'produits d'entretien';1;16
+e;2564751;'entretien professionnel';1;0
+e;1966159;'pourvoir à l'entretien de quelqu'un';1;0
+e;1781389;'faire passer un entretien';1;0
+e;3064249;'entretien exclusif';1;0
+e;335143;'amplificateur d'entretien';1;50
+e;375417;'ravalement d'entretien';1;50
+e;352164;'entretien privé';1;50
+e;344941;'court entretien';1;50
+e;343507;'cher en entretien';1;50
+e;366634;'notice d'entretien';1;50
+e;352162;'entretien par téléphone';1;50
+e;352158;'entretien bilatéral';1;50
+e;352163;'entretien particulier';1;50
+e;334038;'admission sur entretien';1;50
+e;352161;'entretien officiel';1;50
+e;352165;'entretien préalable';1;50
+e;366943;'obligation naturelle d'entretien';1;50
+e;352159;'entretien musculaire';1;50
+e;345071;'coûteux d'entretien';1;50
+e;355583;'fumure d'entretien';1;50
+e;352168;'entretien préliminaire';1;50
+e;352166;'entretien périodique';1;50
+e;352160;'entretien médical';1;50
+e;352157;'entretien articulaire';1;50
+e;357479;'hangar d'entretien';1;50
+e;352167;'entretien télévisé';1;50
+e;340257;'bref entretien';1;50
+e;233389;'visite d'entretien';1;50
+e;248114;'contrat d'entretien';1;52
+e;249489;'équipe d'entretien';1;50
+e;260011;'défaut d'entretien';1;50
+e;164144;'travaux d'entretien';1;52
+e;166105;'produit d'entretien';1;114
+e;211580;'pourvoir à l'entretien de qqn';1;50
+e;159542;'agent d'entretien';1;82
+e;268755;'frais d'entretien';1;50
+e;303283;'agent d'entretien et maintenance';777;50
+e;250435;'Le grand entretien';1;50
+e;221309;'entretien semi-directif';1;50
+e;221621;'entretien d'embauche';1;112
+e;238279;'entretien téléphonique';1;58
+e;253203;'entretien du linge';1;54
+e;253647;'entretien de la maison';1;52
+e;253990;'décrocher un entretien';1;2
+e;253991;'passer un entretien';1;14
+e;253992;'entretien de recrutement';1;10
+e;260010;'mauvais entretien';1;50
+e;195213;'entretien avec un vampire';1;50
+e;199588;'entretien spirituel';1;50
+r;299681438;125053;6316051;11;25
+r;300109051;125053;6321290;11;25
+r;300189164;125053;6325098;11;25
+r;301554466;125053;6345118;11;25
+r;301715027;125053;6347984;11;25
+r;302083154;125053;6359819;11;25
+r;302199238;125053;6366635;11;25
+r;302972075;125053;6369150;11;25
+r;303134657;125053;6373267;11;25
+r;303619163;125053;6375306;11;25
+r;303831726;125053;6380211;11;25
+r;303987457;125053;6383484;11;25
+r;304488137;125053;6387759;11;25
+r;304993546;125053;6393765;11;25
+r;304998071;125053;6394492;11;25
+r;305129845;125053;6398617;11;25
+r;305136053;125053;6400143;11;25
+r;305463275;125053;6409376;11;25
+r;305471633;125053;6411042;11;25
+r;305634877;125053;6414969;11;25
+r;305682850;125053;6416539;11;25
+r;305689978;125053;6417983;11;25
+r;305693256;125053;6418524;11;25
+r;319052831;125053;6359925;11;25
+r;319088872;125053;6321637;11;25
+r;349206074;125053;6354352;11;25
+r;355731698;125053;14070545;11;25
+r;366866256;125053;14452737;11;25
+r;366882311;125053;14453002;11;25
+r;366882757;125053;14452840;11;25
+r;366882980;125053;14452830;11;25
+r;366901962;125053;14453402;11;25
+r;366902015;125053;14453414;11;25
+r;366903895;125053;14453384;11;25
+r;366931283;125053;14454206;11;25
+r;371532475;125053;14627079;11;25
+r;399970284;125053;6348319;11;25
+r;419924112;125053;13765477;11;25
+r;433901249;125053;16492100;11;25
+r;300121857;125053;6322318;11;26
+r;349234087;125053;6329321;11;26
+r;349243348;125053;6300340;11;26
+r;349248257;125053;6325160;11;26
+r;356266933;125053;6412942;11;26
+r;368127401;125053;14486330;11;26
+r;368325865;125053;14502924;11;26
+r;370283077;125053;14571026;11;26
+r;370283087;125053;14571027;11;26
+r;122714490;125053;6427587;11;27
+r;270781396;125053;10672886;11;27
+r;122684077;125053;6431513;11;28
+r;121498602;125053;6443273;11;29
+r;419749555;125053;16028078;11;30
+r;419758863;125053;15446695;11;30
+r;419835715;125053;15334053;11;30
+r;419835770;125053;15339136;11;30
+r;119195273;125053;6069316;11;31
+r;121509950;125053;6442018;11;31
+r;419705152;125053;15762048;11;31
+r;419709514;125053;15762050;11;31
+r;434378701;125053;16326570;11;31
+r;419637217;125053;15333984;11;32
+r;419686705;125053;15254591;11;32
+r;419704554;125053;15572783;11;32
+r;434372451;125053;16391744;11;32
+r;114018967;125053;5836715;11;33
+r;121527101;125053;6440103;11;33
+r;121556928;125053;6436774;11;33
+r;280355372;125053;11061074;11;33
+r;291136158;125053;11354613;11;33
+r;419586260;125053;15198330;11;34
+r;419588625;125053;15333986;11;34
+r;115839665;125053;5921649;11;35
+r;313629747;125053;12048801;11;35
+r;315121417;125053;12078795;11;35
+r;315121422;125053;12078794;11;35
+r;315121427;125053;12078793;11;35
+r;227600749;125053;10042213;11;36
+r;281296855;125053;11090507;11;36
+r;281301863;125053;11090697;11;36
+r;313694431;125053;12050512;11;36
+r;313694516;125053;12050661;11;36
+r;313694625;125053;12050662;11;36
+r;313695800;125053;12050513;11;36
+r;313695824;125053;12050687;11;36
+r;313695887;125053;12050688;11;36
+r;313696976;125053;12050481;11;36
+r;313697002;125053;12050732;11;36
+r;313697025;125053;12050733;11;36
+r;313698154;125053;12050480;11;36
+r;313698239;125053;12050762;11;36
+r;313698349;125053;12050763;11;36
+r;313703431;125053;12050903;11;36
+r;313764503;125053;12051309;11;36
+r;121038517;125053;6450987;11;37
+r;121467301;125053;6446771;11;37
+r;313722044;125053;12051164;11;37
+r;313724773;125053;12051232;11;37
+r;121507737;125053;6442266;11;38
+r;287960394;125053;11237234;11;38
+r;313734119;125053;12051596;11;38
+r;313822524;125053;12057427;11;38
+r;313739619;125053;12053009;11;40
+r;121476104;125053;6445787;11;41
+r;121581840;125053;6433988;11;41
+r;288389033;125053;11253215;11;41
+r;121056788;125053;6448984;11;42
+r;121472158;125053;6446224;11;42
+r;121481392;125053;6445211;11;42
+r;256487978;125053;10427253;11;42
+r;318993438;125053;12279221;11;42
+r;55887907;125053;2471931;11;43
+r;121463525;125053;6447190;11;43
+r;121553967;125053;6437110;11;44
+r;338388396;125053;13302231;11;44
+r;121047761;125053;6449971;11;45
+r;121455904;125053;6448018;11;46
+r;213719611;125053;9446886;11;50
+r;418898349;125053;16072063;11;50
+r;418898531;125053;16072104;11;50
+r;418901382;125053;16072612;11;50
+r;418901392;125053;16072613;11;50
+r;418901404;125053;16072614;11;50
+r;419102373;125053;16073143;11;50
+r;99117145;125053;4344990;11;53
+r;106887065;125053;5331200;11;54
+r;26527953;125053;1650144;11;55
+r;34377119;125053;2341227;11;55
+r;52445842;125053;2564751;11;55
+r;31666754;125053;1966159;11;58
+r;29225605;125053;1781389;11;59
+r;74945770;125053;3064249;11;60
+r;12765107;125053;335143;11;101
+r;12600255;125053;375417;11;102
+r;12694633;125053;352164;11;102
+r;12724699;125053;344941;11;102
+r;12730557;125053;343507;11;102
+r;12635659;125053;366634;11;103
+r;12694641;125053;352162;11;103
+r;12694657;125053;352158;11;103
+r;12694637;125053;352163;11;104
+r;12769533;125053;334038;11;104
+r;12694645;125053;352161;11;105
+r;12694629;125053;352165;11;106
+r;12634411;125053;366943;11;108
+r;12694653;125053;352159;11;108
+r;12724181;125053;345071;11;108
+r;12680825;125053;355583;11;109
+r;12694617;125053;352168;11;109
+r;12694625;125053;352166;11;109
+r;12694649;125053;352160;11;109
+r;12694661;125053;352157;11;109
+r;12673007;125053;357479;11;110
+r;12694621;125053;352167;11;110
+r;12744235;125053;340257;11;110
+r;8880424;125053;233389;11;151
+r;8880938;125053;248114;11;151
+r;8881008;125053;249489;11;151
+r;8881822;125053;260011;11;151
+r;8875433;125053;164144;11;152
+r;8875487;125053;166105;11;152
+r;8879042;125053;211580;11;152
+r;8875316;125053;159542;11;153
+r;8882356;125053;268755;11;153
+r;8885499;125053;303283;11;153
+r;8713787;125053;250435;11;160
+r;8692766;125053;221309;11;161
+r;8693146;125053;221621;11;161
+r;8705344;125053;238279;11;161
+r;8716869;125053;253203;11;161
+r;8717410;125053;253647;11;161
+r;8717808;125053;253990;11;161
+r;8717810;125053;253991;11;161
+r;8717811;125053;253992;11;161
+r;8726347;125053;260010;11;161
+r;8659694;125053;195213;11;164
+r;8666927;125053;199588;11;165

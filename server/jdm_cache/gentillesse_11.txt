@@ -1,0 +1,26 @@
+
+e;73906;'gentillesse';1;406
+e;15237155;'auriez-vous la gentillesse de ...?';1;0
+e;15237153;'avoir la gentillesse de faire qch';1;0
+e;16385003;'Pourriez-vous avoir la gentillesse de faire [qch] ?';1;0
+e;16385005;'Pourriez-vous avoir la gentillesse de faire quelque chose ?';1;0
+e;15237149;'Votre gentillesse me touche.';1;0
+e;15237151;'Merci pour votre gentillesse.';1;0
+e;15237141;'Je l'ai remerciée de sa gentillesse.';1;0
+e;15237157;'C'est la gentillesse même.';1;0
+e;15237143;'C'est un homme d'une grande gentillesse.';1;0
+e;15237160;'Cette femme est la gentillesse même.';1;0
+e;1156416;'gentillesse suspecte';1;0
+e;166114;'avec gentillesse';1;58
+r;419622466;73906;15237155;11;32
+r;419632692;73906;15237153;11;32
+r;434358423;73906;16385003;11;33
+r;434358429;73906;16385005;11;33
+r;419561726;73906;15237149;11;34
+r;419506801;73906;15237151;11;35
+r;402154450;73906;15237141;11;50
+r;395010925;73906;15237157;11;50
+r;395011329;73906;15237143;11;50
+r;395013903;73906;15237160;11;50
+r;21986106;73906;1156416;11;54
+r;8629954;73906;166114;11;162

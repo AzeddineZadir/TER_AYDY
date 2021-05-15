@@ -1,0 +1,948 @@
+
+e;110732;'rapide';1;1000
+e;6284903;'insuline à action rapide';1;0
+e;6291110;'fréquence du pouls rapide';1;0
+e;6301188;'insuline à effet rapide';1;0
+e;6302208;'battement rapide du coeur';1;0
+e;6336947;'fibrillation auriculaire à réponse ventriculaire rapide';1;0
+e;6317714;'fibres musculaires a contraction rapide';1;0
+e;6322624;'insuline rapide';1;0
+e;6332563;'antalgiques à effet rapide';1;0
+e;6343069;'fibres musculaires à contraction rapide';1;0
+e;6350734;'fibres musculaires de type 2 à contraction rapide';1;0
+e;6416081;'fibres musculaires de type ii à contraction rapide';1;0
+e;12173379;'coloration acide rapide kinyoun';1;0
+e;12163298;'coloration acide rapide kinyoun modifiée';1;0
+e;12141163;'mesure de cortisol t30min après synacthène (250µg,iv rapide)';1;0
+e;12141157;'mesure de cortisol t30min après synacthène (250µg,im rapide)';1;0
+e;12140923;'mesure de cortisol t01h après synacthène (250µg,iv rapide)';1;0
+e;12140917;'mesure de cortisol t01h après synacthène (250µg,im rapide)';1;0
+e;12233082;'détermination de la présence de legionella pneumophila 1 ag | immunoanalyse rapide | urine | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12232527;'détermination de la présence d'isospora belli | coloration acide rapide kinyoun modifiée | milieux divers | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12232161;'détermination de la présence d'influenza virus b ag | immunoanalyse rapide | nasopharynx | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12232109;'détermination de la présence d'influenza virus a+b ag | immunoanalyse rapide | nez | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12231998;'identification d'influenza virus a et b ag | immunoanalyse rapide | nez | ponctuel | résultat nominal | identification';1;0
+e;12231996;'identification d'influenza virus a et b ag | immunoanalyse rapide | milieux divers | ponctuel | résultat nominal | identification';1;0
+e;12231967;'détermination de la présence d'influenza virus a ag | immunoanalyse rapide | nasopharynx | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12995138;'rapide-danseur';777;0
+e;6343572;'spectrométrie de masse à bombardement atomique rapide';1;0
+e;13587944;'Train rapide et omnibus';777;0
+e;13587945;'Train rapide et omnibus vers la ligne Musashino';777;0
+e;13634101;'écoulement rapide';1;0
+e;14012654;'tests de dépistage rapide à orientation diagnostique du VIH';777;0
+e;14070585;'voie de sortie rapide de piste';1;0
+e;6410809;'rythme cardiaque rapide';1;0
+e;16161716;'chaîne de restauration rapide américaine';1;0
+e;14606440;'mouvement rapide';1;0
+e;6334783;'test rapide de la réagine plasmatique négatif';1;0
+e;15791450;'l'atteinte d'un certain niveau de compétence en espéranto est nettement plus rapide que pour toute autre langue';777;0
+e;15958724;'tissu cellulaire à renouvellement rapide';1;0
+e;11968854;'semi-rapide';1;0
+e;16076230;'à marche rapide';1;0
+e;15479543;'Le retour a été rapide.';1;0
+e;15252978;'Le secteur de la restauration rapide fait l'objet d'une concurrence intense.';1;0
+e;15531636;'Nous souhaitons une solution rapide et durable.';1;0
+e;13789627;'Test rapide des anticorps anti-VIH 1';1;0
+e;15754200;'action rapide';1;0
+e;15212014;'aperçu rapide';1;0
+e;15537198;'au rythme rapide';1;0
+e;15487583;'autotest rapide à l'allumage';1;0
+e;15550477;'axe de jonction à attache rapide';1;0
+e;15327434;'bactéries à croissance rapide';1;0
+e;15252962;'bar de restauration rapide';1;0
+e;15437572;'barre de lancement rapide';1;0
+e;15685081;'capture rapide riche en neutrons de protons';777;0
+e;15226897;'ciment à prise rapide';1;0
+e;15790618;'colle rapide';1;0
+e;15573618;'colle à prise rapide';1;0
+e;15420650;'coup d'?il rapide';1;0
+e;15379940;'coup d'oeil rapide';1;0
+e;15437577;'d'un pas rapide';1;0
+e;15306248;'dans un enchaînement rapide';1;0
+e;15247738;'de plus en plus rapide';1;0
+e;15209435;'divorce rapide';1;0
+e;15402169;'donner à qn un baiser rapide sur la joue';1;0
+e;15230014;'emploi dans la restauration rapide';1;0
+e;15212005;'en croissance rapide';1;0
+e;16153195;'crue rapide';777;0
+e;16242078;'Pistolet tir rapide 25 m';777;0
+e;16258441;'acier rapide supérieur';777;0
+e;16324596;'voitures d'intervention rapide';1;0
+e;3759388;'soupe thaïlandaise au poulet et à la citronnelle';1;0
+e;5786870;'far rapide';777;0
+e;6308097;'antalgiques à action rapide';1;0
+e;6351713;'flux axoplasmique rapide';1;0
+e;6379559;'progression rapide du travail';1;0
+e;12198751;'après synacthène (250µg,iv rapide)';1;0
+e;12198752;'après synacthène (250µg,im rapide)';1;0
+e;12236596;'détermination de la présence de norovirus ag | immunoanalyse rapide | selles | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12236174;'mesure de neutrophil gelatinase-associated lipocalin | immunoanalyse rapide | urine | ponctuel | résultat numérique | masse/volume';1;0
+e;12236173;'mesure de neutrophil gelatinase-associated lipocalin | immunoanalyse rapide | sérum/plasma | ponctuel | résultat numérique | masse/volume';1;0
+e;12980013;'voiture d'intervention rapide';1;0
+e;11070017;'rapide-France';1;0
+e;14510804;'programme rapide';1;0
+e;14538132;'être rapide';1;10
+e;14724044;'coup rapide';1;0
+e;14727882;'faire de la marche rapide';1;0
+e;6408741;'aliments de restauration rapide';1;0
+e;12094232;'cortisol t30min après synacthène (250µg,iv rapide)';1;0
+e;12094231;'cortisol t30min après synacthène (250µg,im rapide)';1;0
+e;12094146;'cortisol t01h après synacthène (250µg,iv rapide)';1;0
+e;12094145;'cortisol t01h après synacthène (250µg,im rapide)';1;0
+e;12199366;'t30min après synacthène (250µg,im rapide)';1;0
+e;12199397;'t01h après synacthène (250µg,im rapide)';1;0
+e;12238937;'identification de plasmodium ag | immunoanalyse rapide | sang | ponctuel | résultat nominal | identification';1;0
+e;5688140;'photographie rapide';777;0
+e;6442262;'glomérulonéphrite proliférative sai dans le cadre d'un syndrome néphritique d'évolution rapide';1;0
+e;6435502;'syndrome néphritique d'évolution rapide avec glomérulonéphrite proliférative mésangiale diffuse';1;0
+e;12199364;'t30min après synacthène (250µg,iv rapide)';1;0
+e;12199395;'t01h après synacthène (250µg,iv rapide)';1;0
+e;6440314;'syndrome néphritique d'évolution rapide avec glomérulonéphrite mésangio-capillaire diffuse';1;0
+e;6433070;'capacité d'apprentissage rapide';1;0
+e;12240951;'détermination de la présence de rotavirus ag | immunoanalyse rapide | selles | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;5574119;'procédé de recuit rapide';777;0
+e;5574126;'concepteur de réplication rapide';777;0
+e;6431627;'sclérose segmentaire et focale dans le cadre d'un syndrome néphritique d'évolution rapide';1;0
+e;10896026;'mouvement très rapide de rotation';1;0
+e;10903020;'balle rapide';777;0
+e;3360534;'clafoutis à l'ananas';1;0
+e;6443793;'Équipe hospitalière d'intervention rapide';1;0
+e;6440133;'test rapide de l'hydrolyse de l'hippurate';1;0
+e;6438903;'examen durant la période de croissance rapide de l'enfance';1;0
+e;6431897;'syndrome néphritique d'évolution rapide avec autres modifications morphologiques';1;0
+e;6431144;'périodontite à évolution rapide';1;0
+e;10584699;'Force d'intervention rapide européenne';777;0
+e;10597068;'mycobactérie à croissance rapide';1;0
+e;10992085;'trottoir roulant rapide';777;0
+e;12242110;'détermination de la présence de streptococcus pneumoniae ag | immunoanalyse rapide | urine | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12242103;'détermination de la présence de streptococcus pneumoniae ag | immunoanalyse rapide | liquide céphalorachidien | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;3370861;'tarte landaise';1;0
+e;3370665;'tarte aux pommes sans pâte';1;0
+e;5620170;'chaîne de restauration rapide';1;0
+e;5574358;'mouvement oculaire rapide';777;0
+e;5803411;'chaîne française de restauration rapide';1;0
+e;6440746;'syndrome néphritique d'évolution rapide avec anomalies glomérulaires mineures';1;0
+e;10584751;'Groupement tactiques interarmées de réaction rapide';777;0
+e;10955329;'racine carrée inverse rapide';777;0
+e;11077645;'voie rapide S11';777;0
+e;1831064;'coxarthrose destructrice rapide';1;0
+e;1831537;'décompression rapide en aéronautique';1;0
+e;1832635;'écho de gradient rapide';1;0
+e;1836447;'imagerie rapide';1;0
+e;6441007;'syndrome néphritique d'évolution rapide avec maladie à dépôt dense';1;0
+e;6436550;'syndrome néphritique d'évolution rapide avec glomérulonéphrite proliférative endocapillaire diffuse';1;0
+e;10961316;'voie rapide de type autoroutier';1;0
+e;11077644;'voie rapide S5';777;0
+e;12242419;'détermination de la présence de streptococcus pyogenes ag | immunoanalyse rapide | gorge | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;1829192;'bruit de remplissage ventriculaire rapide';1;0
+e;1832636;'écho de gradient rapide avec contraste renforcé en T2';1;0
+e;1833107;'épaule destructrice rapide';1;0
+e;5920324;'vert rapide 8';777;0
+e;5953813;'complexe du dessèchement rapide de l'olivier';777;0
+e;6444731;'test rapide à l'acth';1;0
+e;6425991;'microscopie électronique pour identification virale rapide';1;0
+e;10936342;'faire un point rapide';1;0
+e;11349751;'Liaison sud-ouest rapide';777;0
+e;13104493;'conduction rapide du signal électrique';1;0
+e;6429840;'test rapide de la réagine plasmatique positif';1;0
+e;12078631;'échange rapide de batterie';1;0
+e;12301977;'mouvement végétal rapide';777;0
+e;13516649;'contraction rapide';1;0
+e;3365327;'cari de poulet';1;0
+e;6437412;'glomérulonéphrite extracapillaire dans le cadre d'un syndrome néphritique d'évolution rapide';1;0
+e;6685085;'caisse rapide';1;2
+e;6433058;'syndrome néphritique d'évolution rapide avec lésions glomérulaires segmentaires et focales';1;0
+e;12050503;'équipière polyvalente de restauration rapide';1;0
+e;12077010;'allumage rapide';1;0
+e;12077032;'amplification rapide d'extrémités d'ADNc';1;0
+e;12077769;'changement rapide d'outillage';1;0
+e;12863003;'déchargement rapide';1;0
+e;5917217;'récupération rapide des patients après chirurgie';777;0
+e;5943507;'navires de transport rapide';777;0
+e;6451585;'pression élevée de l'air due à une rapide descente dans l'eau';1;0
+e;6437650;'examen à la période de croissance rapide de l'enfance';1;0
+e;6433997;'syndrome néphritique d'évolution rapide avec glomérulonéphrite membraneuse diffuse';1;0
+e;12050502;'équipier polyvalent de restauration rapide';1;0
+e;6451663;'mouvement péristaltique rapide de l'intestin grêle';1;0
+e;6450360;'vitesse d'administration trop rapide d'un médicament';1;0
+e;6449914;'syndrome néphritique d'évolution rapide avec glomérulonéphrite diffuse en croissant';1;0
+e;10526652;'Le Vol du grand rapide';777;0
+e;11151211;'Sursauteur rapide';777;0
+e;11302628;'coloration acide rapide';1;0
+e;11552414;'désagrégation rapide';1;0
+e;11978168;'rapide à la réflexion';1;0
+e;11302629;'coloration acide rapide Kinyoun';1;0
+e;11302583;'agglutination rapide';1;0
+e;11302630;'coloration acide rapide Kinyoun modifiée';1;0
+e;11302714;'coloration rapide';1;0
+e;11518529;'bataillon d'intervention rapide';777;0
+e;6445476;'hyalinose segmentaire et focale dans le cadre d'un syndrome néphritique d'évolution rapide';1;0
+e;6435183;'glomérulopathie d'évolution rapide';1;0
+e;11250858;'char pont rapide Iguane';777;0
+e;11302827;'immunoanalyse rapide';1;0
+e;11302873;'méthode rapide';1;0
+e;12244098;'détermination de la présence de trypanosoma cruzi ac | immunoanalyse rapide | sérum/plasma/sang | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;6438295;'Équipe médicale d'intervention rapide';1;0
+e;10548795;'Accès rapide aux sections par décennies';777;0
+e;11958594;'trop rapide';1;0
+e;11003436;'hiérarchie de croissance rapide';777;0
+e;12244175;'détermination de la présence de tumeur prostate antigène | immunoanalyse rapide | urine | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;6449784;'glomérulonéphrite d'évolution rapide';1;0
+e;6447937;'néphrite d'évolution rapide';1;0
+e;11010454;'attache rapide';777;0
+e;11385328;'risque de décès rapide';1;0
+e;11972453;'Daim rapide';777;0
+e;2467770;'short rapide';1;0
+e;6450118;'glomérulonéphrite focale dans le cadre d'un syndrome néphritique d'évolution rapide';1;0
+e;6448493;'transition rapide de l'onde r';1;0
+e;11010455;'serrage rapide';777;0
+e;11220006;'livraison rapide';1;0
+e;12244627;'détermination de la présence de vih 1 ac | immunoanalyse rapide | sérum/plasma/sang | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12244616;'détermination de la présence de vih 1 ac | immunoanalyse rapide | milieux divers | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;6451058;'lésions glomérulaires minimes dans le cadre d'un syndrome néphritique d'évolution rapide';1;0
+e;10429206;'Tour le plus rapide';777;0
+e;12244764;'détermination de la présence de vih 2 ac | immunoanalyse rapide | sérum/plasma/sang | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12244749;'détermination de la présence de vih 1+2 ac igg | immunoanalyse rapide | sérum/plasma | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12244745;'détermination de la présence de vih 1+2 ac igg | immunoanalyse rapide | sang | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12244744;'détermination de la présence de vih 1+2 ac | immunoanalyse rapide | sérum/plasma/sang | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12244739;'détermination de la présence de vih 1+2 ac | immunoanalyse rapide | milieux divers | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12244688;'identification de vih 1 et 2 ac | immunoanalyse rapide | sérum/plasma/sang | ponctuel | résultat nominal | identification';1;0
+e;12244687;'identification de vih 1 et 2 ac | immunoanalyse rapide | sérum/plasma | ponctuel | résultat nominal | identification';1;0
+e;6449639;'correction rapide d'hyponatrémie';1;0
+e;6445563;'syndrome néphritique d'évolution rapide';1;0
+e;12244948;'détermination de la présence de virus respiratoire syncytial ag | immunoanalyse rapide | nasopharynx | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;8851164;'force d'action rapide';777;0
+e;9101867;'coleslaw thaï rapide et facile';1;0
+e;9247850;'glomérulonéphrite proliférative dans le cadre d'un syndrome néphritique d'évolution rapide';1;0
+e;9464656;'feuilletage rapide';1;0
+e;9570312;'peu rapide';1;0
+e;9667211;'cadence rapide';1;0
+e;12732921;'cuirassé rapide';1;0
+e;12723717;'canon à tir rapide';1;0
+e;14594346;'Convention sur la notification rapide d'un accident nucléaire';777;0
+e;15484898;'Il marchait d'un pas rapide.';1;0
+e;15786431;'C'est plus rapide de le faire soi-même.';1;0
+e;15786429;'C'est plus rapide en train.';1;0
+e;15786433;'C'est plus rapide en voiture.';1;0
+e;2346659;'ultra-rapide';1;0
+e;3319436;'repas rapide';1;8
+e;3371107;'tartine campagnarde rapide';1;0
+e;3370603;'tarte aux poireaux légère et rapide';1;0
+e;3370577;'tarte aux oignons rapide';1;0
+e;3369843;'soupe tomate rapide';1;0
+e;3369828;'soupe rapide au micro-ondes';1;0
+e;3369079;'salade grecque très rapide';1;0
+e;3368358;'riz pilaf aux légumes rapide';1;0
+e;3367082;'poisson à la provençale ultra rapide';1;0
+e;3366679;'pennes à la courgette et aux tomates rapide';1;0
+e;3366379;'paté de foie de volaille facile et rapide';1;0
+e;3363457;'gratin de fraises rapide';1;0
+e;3362565;'fricassée de poulet rapide à la crème de tomates';1;0
+e;3360257;'champignons à la grecque rapide';1;0
+e;3360976;'couscous rapide à la cocotte minute';1;0
+e;3361593;'daube de poulpe aux carottes et tomates rapide';1;0
+e;3744196;'crumble rapide aux myrtilles et aux amandes';1;0
+e;3744118;'tarte au citron meringuée rapide';1;0
+e;1008206;'transformation de Fourier rapide';777;0
+e;3321448;'cuisinier - cuisine rapide';1;0
+e;3319469;'Système d'alerte rapide et d'information sur l'alimentation';1;0
+e;3371635;'tourte aux légumes facile et rapide';1;0
+e;3371318;'terrine de thon rapide';1;0
+e;3370993;'tarte rapide maison';1;0
+e;3370408;'tarte au pistou rapide';1;0
+e;3369933;'steack de saumon rapide';1;0
+e;3369609;'soupe aux flocons d'avoine facile et rapide';1;0
+e;3359426;'boeuf bourguignon rapide';1;0
+e;3368012;'quiche rapide aux 3 choux';1;0
+e;3367388;'poulet à la chinoise rapide';1;0
+e;3365961;'oeufs cocotte au micro-ondes, super rapide !!!';1;0
+e;3365836;'les roulés de jambon, rapide, pas cher de mes enfants';1;0
+e;3364442;'mes lasagnes bolo plus rapide connaît pas';1;0
+e;3363552;'gratin de poireaux / morue rapide !';1;0
+e;3363258;'glaçage rapide au chocolat';1;0
+e;3362603;'galette au chocolat rapide';1;0
+e;567735;'resto-rapide';777;50
+e;4430751;'cuisine rapide';1;0
+e;2346654;'recette rapide';1;0
+e;5287405;'descente rapide';1;0
+e;3318694;'salade vosgienne rapide';1;0
+e;3370257;'tarte à la rhubarbe facile et rapide';1;0
+e;3370204;'tarte à la bière rapide';1;0
+e;3368013;'quiche rapide aux fruits de mer';1;0
+e;3364232;'l'ultime et rapide tiramisu aux fruits rouges';1;0
+e;3363784;'jambon à la bourguignonne rapide';1;0
+e;3363273;'glace à la vanille facile et rapide';1;0
+e;3362634;'galette des rois franc-comtoise rapide';1;0
+e;3359842;'cake à la banane facile et rapide';1;0
+e;3360709;'congolais rapide et facile';1;0
+e;3361533;'curry d'agneau rapide';1;0
+e;3361572;'curry rapide de thon et pommes de terre';1;0
+e;4941302;'rapide à préparer';1;0
+e;3359457;'boeuf stroganoff rapide et bon';1;0
+e;3370990;'tarte rapide aux abricots';1;0
+e;3366969;'pizza rapide et exquise au thon sans lait';1;0
+e;3365210;'bisque de homard en verrine, excessivement simple & rapide';1;0
+e;3364331;'ma moussaka rapide';1;0
+e;3363050;'gâteau facile et rapide à la mangue';1;0
+e;3360290;'charlotte à la banane rapide';1;0
+e;3744631;'confiture de myrtilles rapide et facile';1;0
+e;3744994;'soupe thaïlandaise rapide au poulet et à la citronnelle';1;0
+e;3745840;'moelleux au chocolat rapide';1;0
+e;464286;'vidange gastrique rapide';1;50
+e;3318529;'poulet à l'africaine rapide';1;0
+e;3321573;'facilité de réponse rapide à la flambée des prix alimentaires dans les pays en développement';1;0
+e;3321010;'système d'alerte rapide';1;0
+e;3319082;'Système mondial d'information et d'alerte rapide sur l'alimentation et l'agriculture';1;0
+e;3371749;'trifle rapide poires et spéculoos';1;0
+e;3370579;'tarte aux olives rapide';1;0
+e;3370502;'tarte aux courgettes et moutarde super rapide';1;0
+e;3370299;'tarte amandine aux mirabelles rapide';1;0
+e;3365919;'moussaka facile et rapide, restes boeuf - riz';1;0
+e;3361566;'curry de poulet indien rapide';1;0
+e;3361380;'crumble aux framboises rapide';1;0
+e;3361784;'endive au curry ultra simple et rapide';1;0
+e;3745938;'soupe rapide de poireaux';1;0
+e;3745350;'salade rapide de poulet à la mangue';1;0
+e;661727;'test de diagnostic rapide';1;0
+e;1798985;'propagation rapide du feu';1;0
+e;3293289;'rapide à la course';1;0
+e;3319083;'système d'alerte et d'information rapide sur l'agriculture et l'alimentation';1;0
+e;3371465;'tiramisu parfum strudel ultra rapide';1;0
+e;3370261;'tarte à la rhubarbe rapide';1;0
+e;3369665;'soupe de carotte au coriandre rapide';1;0
+e;3366293;'parmentier de poisson rapide';1;0
+e;3366040;'pain d'épices rapide';1;0
+e;3364575;'moelleux aux spéculoos facile et rapide';1;0
+e;3363432;'gratin de courgettes au riz rapide';1;0
+e;3362162;'filet mignon de porc à l'ananas rapide';1;0
+e;3359902;'cake au thon rapide';1;0
+e;3360890;'courgette à la menthe simple et rapide';1;0
+e;3744731;'tarte rapide au chocolat et aux noix';1;0
+e;3745366;'coleslaw Thaï rapide et facile';1;0
+e;585518;'passage automatisé rapide aux frontières extérieures';777;0
+e;1822655;'écho de gradient rapide avec spoiler';1;0
+e;3359073;'assiette savoyarde rapide';1;0
+e;3370992;'tarte rapide fraises/framboises';1;0
+e;3370989;'tarte rapide ananas et pêches de stef';1;0
+e;3369692;'soupe de courge ultra rapide';1;0
+e;3368144;'recette 'à l'improviste' rapide';1;0
+e;3367509;'poulet aux champignons noirs rapide';1;0
+e;3366864;'pho, recette rapide';1;0
+e;3366095;'pain perdu rapide';1;0
+e;3365923;'mousse au chocolat à prise rapide, 2 h';1;0
+e;3365769;'jambon au porto, rapide';1;0
+e;3365269;'brownie aux noisettes entières, rapide';1;0
+e;3362850;'gâteau aux fruits pratique et rapide';1;0
+e;3362759;'gâteau au banania rapide';1;0
+e;3362119;'filet de loup rapide façon silvia';1;0
+e;3359928;'cake aux fruits rapide et son caramel aux fruits';1;0
+e;3360350;'charlotte légère et rapide aux poires';1;0
+e;3360975;'couscous rapide';1;0
+e;3361818;'entremets aux amandes rapide';1;0
+e;3743727;'bouillon de poulet super rapide';1;0
+e;3744041;'couscous super rapide en cocotte minute';1;0
+e;3745177;'sauce tomate ultra rapide';1;0
+e;3745360;'cassoulet rapide au poulet';1;0
+e;3757541;'flocons d'avoine à cuisson rapide';1;0
+e;4941303;'rapide à faire';1;0
+e;661750;'test de dépistage rapide';777;0
+e;1736719;'lecture-rapide';777;0
+e;1967493;'navire d'attaque rapide';1;0
+e;1967500;'navires d'attaque rapide';777;0
+e;2321030;'de manière rapide';1;0
+e;3321444;'plat rapide aux fèves';1;0
+e;3371935;'velouté de tomate rapide';1;0
+e;3371694;'tourte poulet curry, facile et rapide';1;0
+e;3371469;'tiramisu rapide';1;0
+e;3370988;'tarte rapide à la fleur d'oranger';1;0
+e;3366675;'penne aux courgettes, rapide et léger';1;0
+e;3365668;'gâteau chocolat ultra rapide, micro-ondes';1;0
+e;3365517;'éclairs au chocolat, rapide';1;0
+e;3364689;'mousse au chocolat rapide et facile';1;0
+e;3362534;'fraisier rapide';1;0
+e;3362279;'flammekueche rapide';1;0
+e;3360327;'charlotte aux pêches rapide';1;0
+e;3361399;'crumble aux pommes rapide';1;0
+e;3744225;'goulasch rapide';1;0
+e;3744598;'margarita rapide';1;0
+e;3744681;'chausson aux pommes rapide';1;0
+e;3746030;'spaghetti sauce carbonara facile et rapide';1;0
+e;3745390;'pâte à pizza facile et rapide';1;0
+e;3757163;'riz cuisson rapide';1;0
+e;1822654;'écho de gradient rapide avec gradient rephaseur';1;0
+e;3174874;'pas rapide';1;0
+e;3260119;'nourriture rapide';1;0
+e;3370991;'tarte rapide et délicieuse au fromage blanc';1;0
+e;3368743;'salade d'automne rapide';1;0
+e;3368350;'rizguigui, riz aux saucisses rapide';1;0
+e;3366711;'petit clafoutis rapide';1;0
+e;3365698;'gâteau rapide au yaourt, mirabelles et amandes';1;0
+e;3365483;'crumble pommes, noisettes et caramel rapide';1;0
+e;3362647;'galette rapide de fromage au jambon';1;0
+e;3361026;'crème brulée rapide';1;0
+e;3361285;'croque monsieur au thon ultra rapide';1;0
+e;3744939;'sorbet malin super rapide';1;0
+e;3746494;'sauce à pizza facile et rapide';1;0
+e;5152309;'transformation rapide';1;0
+e;1822653;'écho de gradient rapide avec destruction de l'aimantation transversale résiduelle';1;0
+e;3230885;'Voie rapide';777;0
+e;3318801;'feuilleté rapide au saumon fumé';1;0
+e;3359064;'aspic de saumon rapide';1;0
+e;3371646;'tourte au yaourt super rapide';1;0
+e;3367473;'poulet au lait de coco rapide';1;0
+e;3367408;'poulet à la mangue rapide';1;0
+e;3362739;'gâteau à l'ananas rapide';1;0
+e;3362706;'gaspacho supra rapide';1;0
+e;3362646;'galette rapide';1;0
+e;3362605;'galette au sucre rapide pour enfants impatients';1;0
+e;3361005;'crème au chocolat rapide';1;0
+e;3362068;'feuilletés aux lardon rapide';1;0
+e;3743844;'fondue de poireaux rapide';1;0
+e;3745235;'mousse au chocolat rapide';1;0
+e;3746657;'cassoulet rapide au poulet et aux artichauts';1;0
+e;3745572;'risotto rapide aux champignons';1;0
+e;3745358;'soupe de carottes super rapide aux lardons';1;0
+e;3753550;'cuillères à café bombées de tapioca à cuisson rapide';1;0
+e;1843524;'remplissage vasculaire rapide';1;0
+e;1842225;'raccord de prise rapide';1;0
+e;1846001;'test de diagnostic rapide des angines streptococciques';1;0
+e;2956002;'réacteur nucléaire rapide à caloporteur plomb';777;0
+e;376360;'restaurant rapide';1;50
+e;366090;'nage rapide';1;50
+e;352543;'essor rapide';1;50
+e;370588;'piste rapide';1;50
+e;366306;'neutron rapide';1;50
+e;341280;'cancer à évolution rapide';1;50
+e;365468;'moyeu à blocage rapide';1;50
+e;380296;'sommeil rapide';1;50
+e;352643;'examen rapide';1;50
+e;333582;'acier rapide';1;50
+e;362939;'maladie à développement rapide';1;50
+e;375301;'rapide sur la balle';1;50
+e;370572;'piscine rapide';1;50
+e;333259;'accroissement rapide';1;50
+e;345344;'croissance rapide';1;50
+e;336372;'arme à tir rapide';1;50
+e;318482;'déploiement rapide';1;50
+e;319734;'écho de spin rapide';1;50
+e;330422;'intervention rapide';1;50
+e;315844;'séquence d'écho de gradient ultra-rapide';1;50
+e;262731;'à circulation rapide';1;50
+e;168161;'prise rapide';1;50
+e;168578;'embarcation de transport rapide pour commandos';1;50
+e;222452;'sucre rapide';1;52
+e;223714;'pouls rapide';1;64
+e;223731;'voie rapide urbaine';1;50
+e;233423;'augmentation rapide';1;50
+e;243949;'plus rapide que son ombre';1;50
+e;246538;'rapide comme une fusée';1;50
+e;249215;'toilette rapide';1;50
+e;258042;'marche rapide';1;72
+e;259619;'train rapide';1;56
+e;259941;'tir rapide';1;50
+e;261142;'très rapide';1;52
+e;262284;'lecture rapide';1;50
+e;262704;'angiome à circulation rapide';1;50
+e;120385;'succès rapide';1;50
+e;211666;'rapide comme l'éclair';1;52
+e;214074;'vedette rapide';1;50
+e;34486;'restauration rapide';1;294
+e;156498;'poison rapide';1;50
+e;158602;'voie rapide';1;96
+e;176445;'mémoire d'accès rapide';1;50
+e;180964;'avance rapide';1;50
+e;181776;'conversion rapide';1;52
+e;182473;'fission rapide';1;50
+e;183991;'réacteur rapide refroidi au gaz';1;50
+e;183992;'réacteur rapide refroidi au plomb';1;50
+e;183993;'réacteur rapide refroidi au sodium';1;50
+e;184108;'retour rapide';1;50
+e;266268;'reconnaissance rapide';1;50
+e;276080;'exponentiation rapide';777;50
+e;276027;'engin de débarquement amphibie rapide';777;50
+e;276037;'Force d'action rapide';777;50
+e;276040;'système de pose rapide de travures';777;50
+e;276051;'porte rapide';777;50
+e;276052;'prototypage rapide';777;50
+e;276074;'développement rapide d'applications';777;50
+e;276088;'transformée de fourier rapide';777;50
+e;276092;'tri rapide';777;50
+e;276093;'crapette rapide';777;50
+e;276095;'intubation en séquence rapide';777;50
+e;291717;'tannage rapide';777;50
+e;135377;'processus rapide';1;50
+e;200096;'être rapide à';1;50
+r;297676068;110732;6284903;11;25
+r;298480925;110732;6291110;11;25
+r;299159353;110732;6301188;11;25
+r;299299386;110732;6302208;11;25
+r;301415023;110732;6336947;11;25
+r;299791808;110732;6317714;11;25
+r;300129801;110732;6322624;11;25
+r;301017793;110732;6332563;11;25
+r;301493112;110732;6343069;11;25
+r;301735109;110732;6350734;11;25
+r;305678877;110732;6416081;11;25
+r;310679465;110732;3174968;11;25
+r;310679471;110732;3174969;11;25
+r;316649867;110732;12173379;11;25
+r;316682577;110732;12163298;11;25
+r;316754528;110732;12141163;11;25
+r;316754564;110732;12141157;11;25
+r;316755731;110732;12140923;11;25
+r;316755767;110732;12140917;11;25
+r;318654122;110732;12233082;11;25
+r;318666829;110732;12232527;11;25
+r;318673544;110732;12232161;11;25
+r;318674598;110732;12232109;11;25
+r;318676972;110732;12231998;11;25
+r;318677008;110732;12231996;11;25
+r;318677659;110732;12231967;11;25
+r;334244348;110732;12995138;11;25
+r;341096724;110732;6343572;11;25
+r;344088550;110732;13587944;11;25
+r;344088566;110732;13587945;11;25
+r;345738447;110732;13634101;11;25
+r;353747052;110732;14012654;11;25
+r;355733035;110732;14070585;11;25
+r;401026927;110732;6410809;11;25
+r;423488737;110732;16161716;11;25
+r;371193016;110732;14606440;11;25
+r;399519926;110732;6334783;11;25
+r;411422237;110732;15791450;11;25
+r;416734949;110732;15958724;11;25
+r;417155430;110732;11968854;11;25
+r;418915459;110732;16076230;11;25
+r;419493441;110732;15479543;11;25
+r;419493535;110732;15252978;11;25
+r;419516405;110732;15531636;11;25
+r;419551721;110732;13789627;11;25
+r;419575614;110732;15754200;11;25
+r;419601243;110732;15212014;11;25
+r;419620808;110732;15537198;11;25
+r;419623780;110732;15487583;11;25
+r;419639933;110732;15550477;11;25
+r;419643020;110732;15327434;11;25
+r;419646692;110732;15252962;11;25
+r;419647302;110732;15437572;11;25
+r;419681530;110732;15685081;11;25
+r;419710042;110732;15226897;11;25
+r;419717374;110732;15790618;11;25
+r;419717386;110732;15573618;11;25
+r;419743700;110732;15420650;11;25
+r;419743735;110732;15379940;11;25
+r;419759505;110732;15437577;11;25
+r;419764620;110732;15306248;11;25
+r;419769523;110732;15247738;11;25
+r;419787383;110732;15209435;11;25
+r;419793103;110732;15402169;11;25
+r;419835378;110732;15230014;11;25
+r;419838594;110732;15212005;11;25
+r;423621671;110732;16153195;11;25
+r;426064888;110732;16242078;11;25
+r;426658406;110732;16258441;11;25
+r;430327465;110732;16324596;11;25
+r;93648246;110732;3759388;11;26
+r;114460869;110732;5786870;11;26
+r;299572909;110732;6308097;11;26
+r;301742668;110732;6351713;11;26
+r;303658059;110732;6379559;11;26
+r;316317490;110732;12198751;11;26
+r;316317583;110732;12198752;11;26
+r;318578170;110732;12236596;11;26
+r;318586494;110732;12236174;11;26
+r;318586515;110732;12236173;11;26
+r;333264802;110732;12980013;11;26
+r;345386634;110732;11070017;11;26
+r;368487701;110732;14510804;11;26
+r;369446105;110732;14538132;11;26
+r;374342131;110732;14724044;11;26
+r;374422612;110732;14727882;11;26
+r;305384236;110732;6408741;11;27
+r;315621564;110732;12094232;11;27
+r;315621578;110732;12094231;11;27
+r;315622364;110732;12094146;11;27
+r;315622378;110732;12094145;11;27
+r;316339570;110732;12199366;11;27
+r;316340414;110732;12199397;11;27
+r;318480684;110732;12238937;11;27
+r;112190108;110732;5688140;11;28
+r;121507793;110732;6442262;11;28
+r;121568249;110732;6435502;11;28
+r;316340004;110732;12199364;11;28
+r;316341506;110732;12199395;11;28
+r;121525279;110732;6440314;11;29
+r;122670170;110732;6433070;11;29
+r;318435192;110732;12240951;11;29
+r;110585913;110732;5574119;11;30
+r;110585513;110732;5574126;11;30
+r;122683128;110732;6431627;11;30
+r;273094955;110732;10896026;11;30
+r;274297305;110732;10903020;11;30
+r;86239185;110732;3360534;11;31
+r;121494045;110732;6443793;11;31
+r;121526853;110732;6440133;11;31
+r;121537810;110732;6438903;11;31
+r;122680695;110732;6431897;11;31
+r;122686932;110732;6431144;11;31
+r;263694311;110732;10584699;11;31
+r;264258869;110732;10597068;11;31
+r;277926161;110732;10992085;11;31
+r;318315035;110732;12242110;11;31
+r;318315235;110732;12242103;11;31
+r;86141611;110732;3370861;11;32
+r;86143067;110732;3370665;11;32
+r;110632754;110732;5620170;11;32
+r;110658060;110732;5574358;11;32
+r;113304829;110732;5803411;11;32
+r;121521307;110732;6440746;11;32
+r;263667434;110732;10584751;11;32
+r;276019571;110732;10955329;11;32
+r;283111861;110732;11077645;11;32
+r;29956705;110732;1831064;11;33
+r;29961972;110732;1831537;11;33
+r;29970865;110732;1832635;11;33
+r;30007986;110732;1836447;11;33
+r;121518973;110732;6441007;11;33
+r;121558875;110732;6436550;11;33
+r;276214764;110732;10961316;11;33
+r;280893775;110732;11077644;11;33
+r;318288053;110732;12242419;11;33
+r;29938537;110732;1829192;11;34
+r;29971463;110732;1832636;11;34
+r;29975384;110732;1833107;11;34
+r;115843157;110732;5920324;11;34
+r;116586401;110732;5953813;11;34
+r;121485564;110732;6444731;11;34
+r;122726801;110732;6425991;11;34
+r;275362517;110732;10936342;11;34
+r;290838423;110732;11349751;11;34
+r;337338564;110732;13104493;11;34
+r;122697068;110732;6429840;11;35
+r;315122290;110732;12078631;11;35
+r;319543662;110732;12301977;11;35
+r;342254519;110732;13516649;11;35
+r;86189101;110732;3365327;11;36
+r;121551209;110732;6437412;11;36
+r;122647635;110732;6685085;11;36
+r;122670281;110732;6433058;11;36
+r;313701348;110732;12050503;11;36
+r;314738550;110732;12077010;11;36
+r;314745595;110732;12077032;11;36
+r;315097716;110732;12077769;11;36
+r;329464148;110732;12863003;11;36
+r;115855119;110732;5917217;11;37
+r;116309264;110732;5943507;11;37
+r;121032980;110732;6451585;11;37
+r;121549020;110732;6437650;11;37
+r;121581757;110732;6433997;11;37
+r;313693803;110732;12050502;11;37
+r;121032294;110732;6451663;11;38
+r;121044164;110732;6450360;11;38
+r;121048300;110732;6449914;11;38
+r;262897873;110732;10526652;11;38
+r;283464343;110732;11151211;11;38
+r;289888742;110732;11302628;11;38
+r;296576214;110732;11552414;11;38
+r;311113770;110732;11978168;11;38
+r;289314224;110732;11302629;11;39
+r;289315339;110732;11302583;11;39
+r;289318696;110732;11302630;11;39
+r;289321871;110732;11302714;11;39
+r;295886027;110732;11518529;11;39
+r;121478886;110732;6445476;11;40
+r;121571128;110732;6435183;11;40
+r;288258318;110732;11250858;11;40
+r;289317758;110732;11302827;11;40
+r;289318755;110732;11302873;11;40
+r;318249774;110732;12244098;11;40
+r;121543344;110732;6438295;11;41
+r;262886049;110732;10548795;11;41
+r;308678974;110732;11958594;11;41
+r;278323556;110732;11003436;11;41
+r;318247915;110732;12244175;11;41
+r;121049582;110732;6449784;11;42
+r;121456618;110732;6447937;11;42
+r;278847237;110732;11010454;11;42
+r;292320249;110732;11385328;11;42
+r;309077158;110732;11972453;11;42
+r;55809837;110732;2467770;11;43
+r;121046414;110732;6450118;11;43
+r;121451685;110732;6448493;11;43
+r;278793945;110732;11010455;11;43
+r;287678609;110732;11220006;11;43
+r;318238244;110732;12244627;11;44
+r;318238485;110732;12244616;11;44
+r;121037865;110732;6451058;11;45
+r;256310144;110732;10429206;11;45
+r;318234928;110732;12244764;11;45
+r;318235219;110732;12244749;11;45
+r;318235295;110732;12244745;11;45
+r;318235313;110732;12244744;11;45
+r;318235397;110732;12244739;11;45
+r;318236641;110732;12244688;11;45
+r;318236657;110732;12244687;11;45
+r;121050849;110732;6449639;11;46
+r;121478098;110732;6445563;11;46
+r;317989379;110732;12244948;11;47
+r;190256240;110732;8851164;11;50
+r;200557565;110732;9101867;11;50
+r;211471939;110732;9247850;11;50
+r;213868364;110732;9464656;11;50
+r;214904272;110732;9570312;11;50
+r;217115846;110732;9667211;11;50
+r;327048673;110732;12732921;11;50
+r;327324255;110732;12723717;11;50
+r;370808361;110732;14594346;11;50
+r;402107884;110732;15484898;11;50
+r;411714040;110732;15786431;11;50
+r;411714044;110732;15786429;11;50
+r;411714048;110732;15786433;11;50
+r;34533432;110732;2346659;11;51
+r;83671601;110732;3319436;11;51
+r;86139623;110732;3371107;11;51
+r;86143701;110732;3370603;11;51
+r;86143889;110732;3370577;11;51
+r;86149992;110732;3369843;11;51
+r;86150114;110732;3369828;11;51
+r;86156226;110732;3369079;11;51
+r;86162885;110732;3368358;11;51
+r;86173427;110732;3367082;11;51
+r;86176589;110732;3366679;11;51
+r;86179107;110732;3366379;11;51
+r;86203864;110732;3363457;11;51
+r;86211016;110732;3362565;11;51
+r;86229238;110732;3360257;11;51
+r;86242025;110732;3360976;11;51
+r;86251520;110732;3361593;11;51
+r;93461747;110732;3744196;11;51
+r;93466128;110732;3744118;11;51
+r;20972800;110732;1008206;11;52
+r;83661655;110732;3321448;11;52
+r;83671445;110732;3319469;11;52
+r;86135249;110732;3371635;11;52
+r;86137811;110732;3371318;11;52
+r;86140585;110732;3370993;11;52
+r;86145301;110732;3370408;11;52
+r;86149286;110732;3369933;11;52
+r;86152070;110732;3369609;11;52
+r;86153379;110732;3359426;11;52
+r;86165696;110732;3368012;11;52
+r;86170772;110732;3367388;11;52
+r;86182660;110732;3365961;11;52
+r;86183898;110732;3365836;11;52
+r;86196375;110732;3364442;11;52
+r;86202998;110732;3363552;11;52
+r;86205348;110732;3363258;11;52
+r;86210722;110732;3362603;11;52
+r;17144170;110732;567735;11;53
+r;99613477;110732;4430751;11;53
+r;34532972;110732;2346654;11;53
+r;106621474;110732;5287405;11;53
+r;83651241;110732;3318694;11;53
+r;86146660;110732;3370257;11;53
+r;86147042;110732;3370204;11;53
+r;86165687;110732;3368013;11;53
+r;86197958;110732;3364232;11;53
+r;86201100;110732;3363784;11;53
+r;86205238;110732;3363273;11;53
+r;86210406;110732;3362634;11;53
+r;86225417;110732;3359842;11;53
+r;86235039;110732;3360709;11;53
+r;86251679;110732;3361533;11;53
+r;86252567;110732;3361572;11;53
+r;103699011;110732;4941302;11;53
+r;86130755;110732;3359457;11;54
+r;86140607;110732;3370990;11;54
+r;86174286;110732;3366969;11;54
+r;86190276;110732;3365210;11;54
+r;86197113;110732;3364331;11;54
+r;86206842;110732;3363050;11;54
+r;86229740;110732;3360290;11;54
+r;93468310;110732;3744631;11;54
+r;93484213;110732;3744994;11;54
+r;93501172;110732;3745840;11;54
+r;16350421;110732;464286;11;55
+r;83647711;110732;3318529;11;55
+r;83661002;110732;3321573;11;55
+r;83663918;110732;3321010;11;55
+r;83673269;110732;3319082;11;55
+r;86134320;110732;3371749;11;55
+r;86143873;110732;3370579;11;55
+r;86144531;110732;3370502;11;55
+r;86146328;110732;3370299;11;55
+r;86183080;110732;3365919;11;55
+r;86248726;110732;3361566;11;55
+r;86248838;110732;3361380;11;55
+r;86254178;110732;3361784;11;55
+r;93500332;110732;3745938;11;55
+r;93504641;110732;3745350;11;55
+r;19164804;110732;661727;11;56
+r;29462926;110732;1798985;11;56
+r;81772059;110732;3293289;11;56
+r;83673255;110732;3319083;11;56
+r;86136668;110732;3371465;11;56
+r;86146615;110732;3370261;11;56
+r;86151557;110732;3369665;11;56
+r;86179885;110732;3366293;11;56
+r;86182008;110732;3366040;11;56
+r;86195430;110732;3364575;11;56
+r;86204089;110732;3363432;11;56
+r;86214511;110732;3362162;11;56
+r;86225167;110732;3359902;11;56
+r;86239262;110732;3360890;11;56
+r;93470031;110732;3744731;11;56
+r;93490238;110732;3745366;11;56
+r;18362145;110732;585518;11;57
+r;29766995;110732;1822655;11;57
+r;86125407;110732;3359073;11;57
+r;86140591;110732;3370992;11;57
+r;86140613;110732;3370989;11;57
+r;86151342;110732;3369692;11;57
+r;86164691;110732;3368144;11;57
+r;86169826;110732;3367509;11;57
+r;86175067;110732;3366864;11;57
+r;86181465;110732;3366095;11;57
+r;86183037;110732;3365923;11;57
+r;86184492;110732;3365769;11;57
+r;86189674;110732;3365269;11;57
+r;86208641;110732;3362850;11;57
+r;86209480;110732;3362759;11;57
+r;86214972;110732;3362119;11;57
+r;86224692;110732;3359928;11;57
+r;86230133;110732;3360350;11;57
+r;86240059;110732;3360975;11;57
+r;86255274;110732;3361818;11;57
+r;93454293;110732;3743727;11;57
+r;93459027;110732;3744041;11;57
+r;93487457;110732;3745177;11;57
+r;93504614;110732;3745360;11;57
+r;93665170;110732;3757541;11;57
+r;103699009;110732;4941303;11;57
+r;19165720;110732;661750;11;58
+r;28527870;110732;1736719;11;58
+r;31687273;110732;1967493;11;58
+r;31687556;110732;1967500;11;58
+r;33250666;110732;2321030;11;58
+r;83661673;110732;3321444;11;58
+r;86133016;110732;3371935;11;58
+r;86134796;110732;3371694;11;58
+r;86136632;110732;3371469;11;58
+r;86140623;110732;3370988;11;58
+r;86176625;110732;3366675;11;58
+r;86185503;110732;3365668;11;58
+r;86187138;110732;3365517;11;58
+r;86194545;110732;3364689;11;58
+r;86211228;110732;3362534;11;58
+r;86213375;110732;3362279;11;58
+r;86230198;110732;3360327;11;58
+r;86252383;110732;3361399;11;58
+r;93461843;110732;3744225;11;58
+r;93467664;110732;3744598;11;58
+r;93468921;110732;3744681;11;58
+r;93499601;110732;3746030;11;58
+r;93504563;110732;3745390;11;58
+r;93668706;110732;3757163;11;58
+r;29766809;110732;1822654;11;59
+r;76463361;110732;3174874;11;59
+r;78800617;110732;3260119;11;59
+r;86140597;110732;3370991;11;59
+r;86159566;110732;3368743;11;59
+r;86162964;110732;3368350;11;59
+r;86176350;110732;3366711;11;59
+r;86185207;110732;3365698;11;59
+r;86187514;110732;3365483;11;59
+r;86210284;110732;3362647;11;59
+r;86241047;110732;3361026;11;59
+r;86245861;110732;3361285;11;59
+r;93483702;110732;3744939;11;59
+r;93495819;110732;3746494;11;59
+r;106004835;110732;5152309;11;59
+r;29769485;110732;1822653;11;60
+r;78309843;110732;3230885;11;60
+r;83674071;110732;3318801;11;60
+r;86125564;110732;3359064;11;60
+r;86135156;110732;3371646;11;60
+r;86170091;110732;3367473;11;60
+r;86170638;110732;3367408;11;60
+r;86209618;110732;3362739;11;60
+r;86209887;110732;3362706;11;60
+r;86210296;110732;3362646;11;60
+r;86210701;110732;3362605;11;60
+r;86241956;110732;3361005;11;60
+r;86261503;110732;3362068;11;60
+r;93456159;110732;3743844;11;60
+r;93489520;110732;3745235;11;60
+r;93494494;110732;3746657;11;60
+r;93503399;110732;3745572;11;60
+r;93504628;110732;3745358;11;60
+r;93703405;110732;3753550;11;60
+r;29892650;110732;1843524;11;61
+r;29900680;110732;1842225;11;62
+r;29881029;110732;1846001;11;63
+r;73173709;110732;2956002;11;66
+r;12596505;110732;376360;11;101
+r;12637877;110732;366090;11;102
+r;12693079;110732;352543;11;103
+r;12620089;110732;370588;11;104
+r;12637007;110732;366306;11;104
+r;12739977;110732;341280;11;104
+r;12640351;110732;365468;11;105
+r;12580283;110732;380296;11;106
+r;12692705;110732;352643;11;107
+r;12771307;110732;333582;11;107
+r;12650709;110732;362939;11;108
+r;12600727;110732;375301;11;109
+r;12620155;110732;370572;11;109
+r;12772375;110732;333259;11;109
+r;12723077;110732;345344;11;110
+r;12760159;110732;336372;11;110
+r;9003644;110732;318482;11;148
+r;9039966;110732;319734;11;148
+r;11941527;110732;330422;11;148
+r;8886617;110732;315844;11;153
+r;8729672;110732;262731;11;160
+r;8631365;110732;168161;11;161
+r;8631725;110732;168578;11;161
+r;8693795;110732;222452;11;161
+r;8694495;110732;223714;11;161
+r;8694505;110732;223731;11;161
+r;8701575;110732;233423;11;161
+r;8708385;110732;243949;11;161
+r;8710127;110732;246538;11;161
+r;8712483;110732;249215;11;161
+r;8723457;110732;258042;11;161
+r;8725853;110732;259619;11;161
+r;8726288;110732;259941;11;161
+r;8727861;110732;261142;11;161
+r;8729100;110732;262284;11;161
+r;8729627;110732;262704;11;161
+r;8611507;110732;120385;11;162
+r;8686951;110732;211666;11;162
+r;8689096;110732;214074;11;162
+r;8581399;110732;34486;11;163
+r;8625121;110732;156498;11;163
+r;8625836;110732;158602;11;163
+r;8635413;110732;176445;11;163
+r;8637547;110732;180964;11;163
+r;8638952;110732;181776;11;163
+r;8640178;110732;182473;11;163
+r;8642691;110732;183991;11;163
+r;8642695;110732;183992;11;163
+r;8642699;110732;183993;11;163
+r;8642938;110732;184108;11;163
+r;8733920;110732;266268;11;163
+r;8744081;110732;276080;11;163
+r;8744085;110732;276027;11;163
+r;8744096;110732;276037;11;163
+r;8744101;110732;276040;11;163
+r;8744122;110732;276051;11;163
+r;8744123;110732;276052;11;163
+r;8744144;110732;276074;11;163
+r;8744152;110732;276088;11;163
+r;8744159;110732;276092;11;163
+r;8744161;110732;276093;11;163
+r;8744165;110732;276095;11;163
+r;8759522;110732;291717;11;163
+r;8616859;110732;135377;11;164
+r;8667788;110732;200096;11;164

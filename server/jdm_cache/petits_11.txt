@@ -1,0 +1,1934 @@
+
+e;7914;'petits';1;116
+e;6290720;'petits calices du rein';1;0
+e;6345526;'limace à petits yeux';1;0
+e;6354767;'groupe des virus des petits insectes irisés';1;0
+e;6357694;'précurseurs de petits arn nucléaires';1;0
+e;6370417;'petits vaisseaux sanguins';1;0
+e;6370956;'petits arn temporels';1;0
+e;6393913;'petits canaux galactophores';1;0
+e;6400335;'féverole à petits grains';1;0
+e;6403371;'petits virus ronds';1;0
+e;12167000;'mesure de lymphocytes t activés/100 petits lymphocytes';1;0
+e;12234021;'mesure de lymphocytes t activés/100 petits lymphocytes | technique indéterminée | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234020;'mesure de lymphocytes t activés/100 petits lymphocytes | technique indéterminée | prélèvement bronchopulmonaire | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234019;'mesure de lymphocytes t activés/100 petits lymphocytes | technique indéterminée | milieux divers | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234018;'mesure de lymphocytes t activés/100 petits lymphocytes | technique indéterminée | liquide bronchoalvéolaire | ponctuel | résultat numérique | fraction de nombres';1;0
+e;6336753;'pestes des petits ruminants';1;0
+e;6314655;'pathologie chronique des petits vaisseaux cérébraux';1;0
+e;13989955;'les petits cochons sans queue';777;0
+e;14130173;'petits morceaux de papier ronds';1;0
+e;14130172;'petits morceaux de papier';1;0
+e;14159541;'aligner les petits bâtons';1;0
+e;14534767;'Les petits oiseaux morts échappent quasiment tous aux observateurs';777;0
+e;14639358;'petits calibres';1;0
+e;14653244;'donner des petits coups de bec';1;94
+e;14653913;'petits êtres';1;0
+e;14655496;'petits tas';1;0
+e;14655576;'petits bruns';1;0
+e;15013320;'pousser des petits miaulements';1;0
+e;15958858;'petits points';1;0
+e;15530603;'Les touristes se mirent à retourner vers les cars par petits groupes.';1;0
+e;16066070;'amplification de petits signaux';1;0
+e;15922752;'avoir des petits';1;0
+e;15418535;'avoir des petits yeux';1;0
+e;15567904;'boîte de petits pois';1;0
+e;15316956;'c'est dans les petits pots que sont les bons onguents';1;0
+e;15297002;'canard aux petits pois';1;0
+e;15569863;'classe des petits';1;0
+e;15571312;'clauses imprimées en petits caractères';1;0
+e;15571987;'cochon n'y retrouverait pas ses petits';1;0
+e;15325866;'criblé de petits trous';1;0
+e;16042954;'dans les petits papiers de';1;0
+e;15316952;'dans les petits pots, les bons onguents';1;0
+e;15264511;'dans leurs petits souliers';1;0
+e;15194222;'des petits pois';1;0
+e;15297005;'des petits pois en boîte';1;0
+e;15303694;'des petits pois en conserve';1;0
+e;15321304;'des petits riens';1;0
+e;16309390;'petits déplacements';1;0
+e;15024675;'adorables petits garçons';1;0
+e;6288121;'petits vaisseaux sous-cutanés';1;0
+e;6292184;'petits membres de la famille maf';1;0
+e;6299900;'petits acides ribonucléiques nucléaires';1;0
+e;6347900;'gastro-entérite à petits virus ronds';1;0
+e;6325869;'petits acides ribonucléiques nucléolaires';1;0
+e;6332762;'petits reins bilatéraux';1;0
+e;6338043;'diffusion aux petits angles';1;0
+e;6351030;'démarche à petits pas';1;0
+e;6401729;'marche à petits pas';1;0
+e;6404796;'petits vaisseaux sanguins du derme';1;0
+e;12977432;'petits mollusques';1;0
+e;6415096;'lymphomes b à petits lymphocytes';1;0
+e;14537210;'petits dés';1;0
+e;14563712;'petits bisous';1;0
+e;14589830;'bons petits plats';1;0
+e;14635320;'petits pois carottes';1;0
+e;14670165;'vivre de petits boulots';1;12
+e;15031553;'appareils à écosser les petits pois';1;0
+e;15978809;'faire des petits boulots';1;0
+e;16163617;'maquereaux au sel et petits légumes';1;0
+e;16163743;'petits feuilletés';1;0
+e;16163778;'pintade rôtie aux petits suisses';1;0
+e;16163788;'pintadeau aux petits pois';1;0
+e;16165999;'papillote de bar aux petits légumes';1;0
+e;16166016;'saumon en papillotes et petits légumes';1;0
+e;16166466;'petits légumes';1;4
+e;6290782;'maladies des petits vaisseaux cérébraux';1;0
+e;6312280;'petits corps du système solaire';1;0
+e;12100471;'lymphocytes t activés/100 petits lymphocytes';1;0
+e;15463604;'défendre ses petits';1;0
+e;5812516;'Peste-des-petits-ruminants';1;0
+e;13519354;'petits groupes';1;0
+e;13519395;'envol de petits ballons';1;0
+e;6425959;'lymphome b à petits lymphocytes stade 4';1;0
+e;10731021;'Jeux des petits États d'Europe';777;0
+e;10731020;'Jeux des petits États d'Europe 2019';777;0
+e;6422876;'lymphome b à petits lymphocytes stade 2';1;0
+e;11772874;'Les petits garnements';777;0
+e;5804895;'petits pôles';777;0
+e;5908460;'muscat noir à petits grains';777;0
+e;5837647;'muscat rose à petits grains';777;0
+e;5837643;'muscat à petits grains Rg';777;0
+e;5837639;'muscat rouge à petits grains';777;0
+e;5837083;'muscat blanc à petits grains';777;0
+e;6433715;'petits arn d'interférence';1;0
+e;10014100;'Dix petits Indiens';777;0
+e;10963091;'les petits hommes';777;0
+e;14890794;'L'hirondelle et les petits oiseaux';777;0
+e;10036689;'Trois petits orphelins';777;0
+e;10960045;'Peste des petits ruminants';777;0
+e;11063227;'diffusion des rayons X aux petits angles';777;0
+e;11407982;'genre éteint de petits dinosaures théropodes';1;0
+e;5673785;'petits oiseaux limicoles';1;0
+e;5954844;'Les nains aussi ont commencé petits';777;0
+e;10834981;'Salut les petits loups';777;0
+e;10940704;'Jeux des petits États d'Europe 2011';777;0
+e;11407981;'genre éteint de petits dinosaures';1;0
+e;12302363;'Danse des petits cygnes';777;0
+e;10841308;'Parti indépendant des petits propriétaires';777;0
+e;10841307;'Parti civique indépendant des petits propriétaires et des travailleurs agraires';777;0
+e;5620379;'frairie des petits ventres';777;0
+e;10044881;'L'Île de la raison ou les petits hommes';777;0
+e;12080913;'précurseur de petits ARN interférents';1;0
+e;12080556;'petits peuples du Nord';1;0
+e;12080217;'noyer à petits fruits';1;0
+e;2379774;'oxyure des petits ruminants';1;0
+e;10750429;'Bonjour les petits loups';777;0
+e;10750405;'Debout les petits bouts';777;0
+e;5716141;'Laissez venir à moi les petits enfants';777;0
+e;5999735;'petits ARN en épingle à cheveux';777;0
+e;5999613;'petits ARN interférents';777;0
+e;10196508;'une chatte n'y trouverait pas ses petits';1;0
+e;10753156;'Patof chez les petits hommes verts';777;0
+e;10999532;'Jeux des petits États d'Europe 2017';777;0
+e;11295743;'petits bateaux';1;0
+e;12289005;'petits miroirs';1;0
+e;13148820;'morbillivirus de la peste des petits ruminants';777;0
+e;5945094;'petits coins';777;0
+e;11333972;'petits maîtres allemands';777;0
+e;11334019;'petits maîtres suisses';777;0
+e;9944885;'thrips des petits fruits';777;0
+e;10190125;'La Noce chez les petits bourgeois';777;0
+e;10189985;'Aux petits bonheurs';777;0
+e;11187841;'petits peuples du Nord de la Russie';777;0
+e;11251574;'programme pour les petits objets archéologiques';777;0
+e;11576278;'danse des petits pains';1;0
+e;13398099;'petits prophètes';777;0
+e;11957753;'petits sites';777;0
+e;2415052;'asphodèle à petits fruits';1;0
+e;10185777;'Du mouron pour les petits oiseaux';777;0
+e;10462663;'La Maison en petits cubes';777;0
+e;11137636;'petits éléments nucléaires intercalés';777;0
+e;11325402;'petits pains';1;0
+e;11958304;'petits garçons';1;0
+e;2461123;'peste des petits ruminants';1;0
+e;10159221;'Association d'athlétisme des petits pays d'Europe';777;0
+e;2460013;'si les petits cochons ne le mangent pas';1;0
+e;5538374;'Analyse des infiniment petits pour l'intelligence des lignes courbes';777;0
+e;6003635;'constellation de petits satellites pour l'observation du bassin méditerranéen';777;0
+e;5999625;'petits ARN nucléolaires';777;0
+e;2418894;'aux petits oignons';1;0
+e;6000144;'plus petits';1;0
+e;5999607;'petits ARN nucléaires';777;0
+e;10437261;'Trois petits mots';777;0
+e;2363467;'dans les petits pots, les meilleurs onguents';1;0
+e;8955066;'petits poissons';1;0
+e;9101837;'petits nids de pâques';1;0
+e;9101935;'petits cakes de noël orientaux';1;0
+e;9101937;'soles vapeur aux petits légumes de printemps';1;0
+e;9102029;'petits pains des cornouailles';1;0
+e;9667122;'petits porteurs';1;2
+e;15473535;'Déploiement de petits satellites de reconnaissance pour répondre à une situation de crise';777;0
+e;15257810;'Il aime gâter ses petits enfants.';1;0
+e;15254771;'Elle est allée jouer avec les petits voisins.';1;0
+e;15570155;'Ils faisaient de petits bonds en marchant.';1;0
+e;15481196;'Ils faisaient de petits sauts en marchant.';1;0
+e;15331943;'C'est dangereux pour les petits enfants.';1;0
+e;15268609;'Des carottes ou des petits pois? - Ni l'un ni l'autre merci.';1;0
+e;15324657;'Décret sur les tribunaux pour relatifs aux petits litiges';1;0
+e;15574977;'Emmène les petits au cinéma.';1;0
+e;567518;'Les petits chevaux';777;50
+e;1383275;'petits oiseaux';1;2
+e;1778368;'canaux petits palatins';1;0
+e;1780221;'petits cartilages alaires';1;0
+e;2950715;'recommandés dans les petits jardins familiaux';777;0
+e;2497002;'les gros poissons mangent les petits';1;0
+e;3318811;'risotto petits légumes et morilles';1;0
+e;3372124;'wok de poulet curry et petits légumes';1;0
+e;3371998;'verrine de petits pois et boeuf haché';1;0
+e;3371525;'tomates farcies aux petits pains';1;0
+e;3370588;'tarte aux petits suisses';1;0
+e;3370118;'tajine de kefta aux pommes de terre et petits pois';1;0
+e;3370040;'tagliatelles au mascarpone et petits pois';1;0
+e;3368635;'saint jacques aux petits légumes';1;0
+e;3368114;'rata saucisse aux petits pois';1;0
+e;3367651;'poulet mariné et petits légumes';1;0
+e;3367596;'poulet en cocotte aux petits pois carottes';1;0
+e;3367222;'pommes retournées aux petits lu';1;0
+e;3366857;'petits soufflés au saumon';1;0
+e;3366850;'petits sablés aux 3 graines';1;0
+e;3366848;'petits roulés de jambon et tomate';1;0
+e;3366845;'petits roulés à la cannelle';1;0
+e;3366837;'petits pois et fèves à ma façon';1;0
+e;3366832;'petits palets au chocolat, au miel et au kiwi';1;0
+e;3366824;'petits muffins pralinoise';1;0
+e;3366789;'petits flans de tomates au gingembre';1;0
+e;3366775;'petits feuilletés au roquefort';1;0
+e;3366759;'petits chaussons au thon';1;0
+e;3366754;'petits biscuits diététiques';1;0
+e;3365256;'bricks au saumon fumé, pomme de terre et petits oignons caramélisés';1;0
+e;3359719;'brownie facile aux petits beurres';1;0
+e;3360752;'coq au vin rosé et ses petits champignons';1;0
+e;3744147;'petits cakes de Noël orientaux';1;0
+e;3745201;'frittata aux poivrons et aux petits pois';1;0
+e;3746341;'petits nids de Pâques';1;0
+e;3745797;'petits coeurs de crème brulée';1;0
+e;3751458;'haricots verts frais coupés en petits tronçons';1;0
+e;3759197;'petits choux';1;0
+e;3758777;'petit poivron vert épépiné et coupé en petits morceaux';1;0
+e;3758394;'escalope de poulet coupée en petits cubes';1;0
+e;3757825;'langue de boeuf cuite découpée en petits dés';1;0
+e;3757723;'poivron rouge coupé en très petits dés';1;0
+e;3757464;'côtes de céleri en petits tronçons';1;0
+e;3757383;'petits oignons au vinaigre';1;0
+e;3757262;'poulet entier coupé en petits morceaux';1;0
+e;3756491;'pépites de chocolat ou de chocolat cassé en très petits morceaux';1;0
+e;3756383;'blancs de poulet coupés en petits morceaux';1;0
+e;3756170;'oeufs durs coupés en petits morceaux';1;0
+e;3756127;'petits pois fraîchement écossés non cuits';1;0
+e;3755929;'chou vert coupé en petits morceaux';1;0
+e;3755901;'carottes coupées en petits morceaux';1;0
+e;3755900;'petits pois rincés et égouttés';1;0
+e;3755239;'thon frais de très bonne qualité coupé en petits dés';1;0
+e;3755131;'petits pics en bois';1;0
+e;3754714;'comté coupé en petits dés';1;0
+e;3754675;'gingembre épluché et coupé en petits dés';1;0
+e;3753800;'lard coupé en petits lardons';1;0
+e;3753659;'petit piment doux jalapeño coupé en petits dés';1;0
+e;3753261;'agneau coupé en petits cubes';1;0
+e;3753162;'oignons coupés en petits morceaux';1;0
+e;3751989;'petits concombres l'un grossièrement haché l'autre coupé en rondelles fines';1;0
+e;3751594;'grosses poires épluchées et coupées en petits dés';1;0
+e;3751459;'grosse branche de céleri coupée en petits dés';1;0
+e;3754681;'petits clous de girofle moulus';1;0
+e;567517;'jeu des petits chevaux';777;50
+e;996678;'petits hommes verts';777;2
+e;1667659;'petits combats';1;2
+e;1843190;'rameaux tonsillaires des nerfs petits palatins';1;0
+e;2128107;'arrières-petits-enfants';2;0
+e;2344506;'couper en petits cubes';1;0
+e;3304028;'petits enfants';1;2
+e;3318601;'mini tartes poire, amandine, petits beurre';1;0
+e;3371910;'velouté de petits pois au jambon de serrano et noix de saint-jacques';1;0
+e;3371881;'velouté de courgettes au curry et ses petits croûtons';1;0
+e;3371681;'tourte gourmande au saumon et petits légumes';1;0
+e;3371509;'tomates farcies au blanc de poulet et purée de petits pois';1;0
+e;3371182;'tendron de veau aux petits légumes';1;0
+e;3370610;'tarte aux poires et aux petits suisses';1;0
+e;3369624;'soupe cabillaud, petits pois, carottes';1;0
+e;3367461;'poulet au curry et ses petits légumes';1;0
+e;3366856;'petits soufflés au roquefort';1;0
+e;3366843;'petits puddings au chèvre';1;0
+e;3366840;'petits pots de crème à la vanille';1;0
+e;3366839;'petits pots à la fleur d'oranger light';1;0
+e;3366834;'petits pavés au chocolat et aux amandes ou noix de coco';1;0
+e;3366833;'petits pâtés de pezenas';1;0
+e;3366826;'petits oeufs battus glacés à l'orange et aux fruits';1;0
+e;3366821;'petits moelleux au chocolat allégés';1;0
+e;3366817;'petits gratins de poires briochés';1;0
+e;3366812;'petits gateaux tièdes chocolat-amande';1;0
+e;3366806;'petits gâteaux "illico"';1;0
+e;3366795;'petits fromages de chèvre au jambon cru';1;0
+e;3366794;'petits fours pâtissiers';1;0
+e;3366787;'petits flans de poireaux aux crevettes';1;0
+e;3366784;'petits flans chèvre épinards';1;0
+e;3366781;'petits flans au bacon';1;0
+e;3366771;'petits farcis au coulis de tomates';1;0
+e;3366767;'petits croustillants au pain rassis et noix de coco';1;0
+e;3366764;'petits choux à la crème pâtissière';1;0
+e;3365392;'cocotte de poisson aux petits légumes, ciboulette et paprika';1;0
+e;3364172;'les petits pois saucisses de ma grand-mère';1;0
+e;3362260;'filets de truites aux petits oignons';1;0
+e;3362207;'filets d'églefin aux moules et petits légumes';1;0
+e;3743716;'petits sablés minutes aux amandes';1;0
+e;3746646;'coq au vin aux petits légumes';1;0
+e;3746609;'petits pains chinois au porc sauce barbecue';1;0
+e;3746496;'petits sablés mousseux';1;0
+e;3746392;'verrines à la tomate au chèvre et aux petits lardons';1;0
+e;3751073;'petits bonbons';1;0
+e;3751564;'grosse noix de beurre coupée en petits cubes';1;0
+e;3759412;'Pão de queijo (petits pains brésiliens au fromage)';1;0
+e;3759258;'choux de Bruxelles épluchés et coupés en petits morceaux';1;0
+e;3759160;'oeufs durs écalés et coupés en petits morceaux';1;0
+e;3758944;'pommes pelées sans trognon et coupées en petits morceaux';1;0
+e;3758808;'petits shiitakés';1;0
+e;3758361;'petits pois frais en cosse';1;0
+e;3758252;'petits oignons pelés et coupés en morceaux';1;0
+e;3757778;'poivron jaune coupé en petits dés';1;0
+e;3757724;'poivron jaune coupé en très petits dés';1;0
+e;3757102;'brocolis détaillés en petits bouquets';1;0
+e;3756764;'olivettes coupées en petits cubes';1;0
+e;3756521;'tomate fraîche coupée en petits dés';1;0
+e;3756171;'poivron rouge épépiné et coupé en petits morceaux';1;0
+e;3755543;'tomate coupée en petits dés';1;0
+e;3755410;'petites courgettes coupées en petits dés';1;0
+e;3755262;'petits blancs de poulet coupés en morceaux';1;0
+e;3755247;'tranche épaisse de jambon dégraissé et coupé en petits dés';1;0
+e;3755158;'petits piments hachés finement';1;0
+e;3754950;'bon kilo de rhubarbe coupée en petits morceaux';1;0
+e;3754919;'panais épluchés et coupés en petits morceaux';1;0
+e;3754828;'panais coupé en petits dés';1;0
+e;3754558;'beurre froid coupé en petits morceaux';1;0
+e;3754436;'petits beurre ou de spéculoos émiettés';1;0
+e;3754389;'petits champignons de Paris';1;0
+e;3754100;'poivron rouge coupé en petits dés';1;0
+e;3754001;'petits cubes de gruyère';1;0
+e;3753959;'piments jalapeno ou piments verts égrainés et coupés en petits dés';1;0
+e;3753926;'abricots coupés en petits morceaux';1;0
+e;3753282;'avocat pelé et coupé en petits morceaux';1;0
+e;3753082;'gingembre frais coupé en tout petits dès';1;0
+e;3752923;'petits oignons blancs';1;0
+e;3752806;'petit poivron rouge égrainé et coupé en petits morceaux';1;0
+e;3752700;'chou frisé équeutée et coupée en petits morceaux';1;0
+e;3752282;'beurre coupé en petits morceaux';1;0
+e;3752161;'petits cèpes';1;0
+e;3751501;'poulpe cuisiné coupé en petits morceaux';1;0
+e;3755709;'prunes dénoyautées et coupées en petits morceaux';1;0
+e;4903888;'tyranneau à petits pieds';1;0
+e;1970823;'pas trop petits';1;0
+e;2353599;'séparé en petits bouquets';1;0
+e;2353606;'petits carrés';1;0
+e;3370117;'tajine de kefta aux oeufs et petits pois';1;0
+e;3369378;'sauté de veau aux petits pois';1;0
+e;3368361;'riz sauté au crevettes et petits pois';1;0
+e;3368230;'risotto aux petits pois, brocolis et crevettes';1;0
+e;3367470;'poulet au gingembre et petits légumes';1;0
+e;3367434;'poulet au boursin et petits légumes';1;0
+e;3366855;'petits soufflés au crabe';1;0
+e;3366849;'petits sablés à la cannelle';1;0
+e;3366825;'petits nids au crabe';1;0
+e;3366801;'petits gâteaux aux blancs d'oeuf, restes de blanc d'oeuf';1;0
+e;3366785;'petits flans de carottes à la mimolette';1;0
+e;3366778;'petits flan de reblochon et mirabelles';1;0
+e;3366763;'petits chèvres au miel';1;0
+e;3366762;'petits chaussons surimi jambon';1;0
+e;3366760;'petits chaussons au veau, riesling et basilic';1;0
+e;3366758;'petits chaussons au foie gras';1;0
+e;3366756;'petits cakes légers au yaourt';1;0
+e;3366752;'petits biscuits aux amandes';1;0
+e;3366751;'petits biscuits au beurre';1;0
+e;3366603;'pavé aux petits beurre à l'orange';1;0
+e;3365390;'cocos , petits fours';1;0
+e;3363920;'lapin au cidre et aux petits légumes';1;0
+e;3363528;'gratin de pâtes aux petits légumes';1;0
+e;3363071;'gâteau glacé au chocolat et aux petits beurre';1;0
+e;3362236;'filets de poulet croustillants aux petits légumes';1;0
+e;3362213;'filets de lièvre aux petits oignons et aux raisins';1;0
+e;3361016;'crème aux 'petits suisses'';1;0
+e;3361212;'crevettes aux petits légumes faciles';1;0
+e;3361211;'crevettes aux petits légumes';1;0
+e;3746080;'petits ufs cocotte au foie gras';1;0
+e;3751145;'pommes de terre épluchées lavées et coupées en petits morceaux';1;0
+e;3751201;'petits citrons verts coupés en morceaux';1;0
+e;3759084;'pomme acide épluchée épépinée et coupée en petits morceaux';1;0
+e;3758973;'petits piments doux';1;0
+e;3758953;'concombre pelé épépiné et coupé en petits cubes';1;0
+e;3758188;'grosses pommes de terre pelées et coupées en petits morceaux';1;0
+e;3758175;'tranches de saumon fumé déchirées en petits morceaux';1;0
+e;3757951;'petits oeufs jaune';1;0
+e;3757885;'chocolat noir corsé coupée en tout petits dés';1;0
+e;3757582;'petites crevettes roses pelées décortiquées coupées en petits morceaux';1;0
+e;3757531;'escalopes de poulet coupées en petits morceaux';1;0
+e;3757023;'petits épis de maïs coupés en deux';1;0
+e;3757022;'oignon moyen coupé en petits dés';1;0
+e;3756921;'olives vertes dénoyautées et coupées en petits morceaux';1;0
+e;3756862;'poivron rouge ou vert ou jaune coupé en petits morceaux';1;0
+e;3756207;'petits pois frais écossés';1;0
+e;3756090;'carottes pelées et coupées en petits cubes';1;0
+e;3755409;'poivrons rouges coupés en petits dés';1;0
+e;3755023;'belles pommes de terre épluchées et coupées en petits dés';1;0
+e;3754990;'tomate épépinée et coupée en petits dés';1;0
+e;3754324;'petits champignons de Paris coupés en quatre';1;0
+e;3754145;'anchois rincés et coupées en petits morceaux';1;0
+e;3754093;'tomate bien mûre coupée en petits morceaux';1;0
+e;3754092;'avocats épluchés dénoyautés et coupés en petits morceaux';1;0
+e;3753921;'pommes de terre pelées et coupées en petits dés';1;0
+e;3752853;'panais coupés en petits morceaux';1;0
+e;3752091;'foies de volaille coupés en petits morceaux';1;0
+e;3752021;'petits quetsches dénoyautées et coupées en quatre';1;0
+e;3754473;'petits clous de girofle';1;0
+e;1578881;'petits morceaux';1;14
+e;1646732;'cabinets ou petits coins';777;0
+e;1970828;'petits cubes';1;40
+e;2242888;'petits-beurre';2;0
+e;3186054;'L'Hirondelle et les petits Oiseaux';1;0
+e;3321439;'moule à petits pains';1;0
+e;3371787;'truites au riesling et aux petits légumes';1;0
+e;3371285;'terrine de poulet et petits légumes';1;0
+e;3371194;'terrine aux deux chocolats et petits beurre';1;0
+e;3369755;'soupe de poulet et aux petits legumes';1;0
+e;3369122;'salade petits pois maïs et aneth';1;0
+e;3368327;'riz aux petits pois et au jambon';1;0
+e;3368263;'rissois aux crevettes, petits beignets du portugal';1;0
+e;3368226;'risotto aux fèves et petits pois';1;0
+e;3367561;'poulet avec petits pois en sauce';1;0
+e;3366835;'petits pois à l'algéroise';1;0
+e;3366816;'petits gratins de champignons crème légère au foie gras';1;0
+e;3366814;'petits gervais à la banane';1;0
+e;3366779;'petits flans à la lavande sur lit de fruits rouges';1;0
+e;3366772;'petits feuilletés à la turque';1;0
+e;3366768;'petits crumbles 4 saisons';1;0
+e;3366757;'petits canapés aux champignons';1;0
+e;3366508;'pâtes aux petits pois, light et enfantin';1;0
+e;3366248;'papillotes de saumon aux petits légumes';1;0
+e;3365593;'flausinas, petits gâteaux portugais';1;0
+e;3363765;'huîtres chaudes aux petits légumes croquants';1;0
+e;3362870;'gâteau aux petits beurres';1;0
+e;3362484;'fonds d'artichauts aux petits pois';1;0
+e;3361656;'délicieux petits gâteaux choco-poire-vanille de zoé';1;0
+e;3359694;'brochettes de poulet marinées au siave et petits légumes';1;0
+e;3746866;'petits légumes sautés aux lardons et aux châtaignes';1;0
+e;3745991;'tofu et petits légumes braisés';1;0
+e;3745924;'risotto aux asperges poireaux et petits pois';1;0
+e;3745869;'terrine de saumon aux petits pois';1;0
+e;3745585;'rôti de veau aux petits pois';1;0
+e;3751188;'tofu coupé en petits dés';1;0
+e;3751490;'petits pois surgelés';1;0
+e;3751387;'rhubarbe coupée en petits dés';1;0
+e;3759143;'tranches de saumon fumé coupé en petits morceaux';1;0
+e;3758198;'gingembre coupé en petits dés';1;0
+e;3758041;'filet d'anchois à l'huile coupé en petits morceaux';1;0
+e;3757826;'pommes de terre épluchées et taillées en petits dés';1;0
+e;3757798;'orange non traitée coupée en petits quartiers';1;0
+e;3757759;'poivron orange coupé en très petits dés';1;0
+e;3757445;'viande d'agneau coupé en petits dés';1;0
+e;3757439;'petits pruneaux secs dénoyautés';1;0
+e;3757418;'petits sticks apéritifs style bretzels';1;0
+e;3757343;'oignons grelots ou petits oignons épluchés';1;0
+e;3756991;'pomme golden coupée en tout petits morceaux';1;0
+e;3756614;'petits piments rouges frais';1;0
+e;3756304;'pruneaux coupés en petits morceaux';1;0
+e;3756172;'anchois coupés en petits morceaux';1;0
+e;3756112;'bouquet de chou frisé kale déchiré en petits morceaux';1;0
+e;3755837;'tomates fraîche coupées en petits morceaux';1;0
+e;3755321;'tomates coupée en petits morceaux';1;0
+e;3755258;'chocolat au lait coupé en petits morceaux';1;0
+e;3755151;'cuisse de canard confit coupée en petits morceaux';1;0
+e;3754741;'boîte de poires au sirop coupées en petits dés';1;0
+e;3754708;'branches de céleri coupées en petits dés';1;0
+e;3754243;'concombre épluché et coupé en petits dés';1;0
+e;3754241;'oignons coupés en petits dés';1;0
+e;3754202;'fines tranches de lard coupées en petits lardons';1;0
+e;3754095;'tomates coupées en petits dés';1;0
+e;3753567;'tranches de saumon fumé coupées en petits morceaux';1;0
+e;3752699;'piment rouge coupé en petits dés';1;0
+e;3752400;'petits pois surgelés décongelés';1;0
+e;3751701;'petits pains ronds coupés en deux dans l'épaisseur';1;0
+e;3751561;'petits oignons hachés finement';1;0
+e;1970827;'en petits cubes';1;42
+e;2297932;'tout-petits';2;0
+e;2242895;'petits-suisses';2;0
+e;2242894;'petits-neveux';2;0
+e;2242893;'petits-maîtres';2;0
+e;2362353;'homme aux petits pois';1;0
+e;2603685;'petits pressignoi';1;0
+e;3186168;'L'Alouette et ses petits, avec le Maître d'un champ';1;0
+e;3318767;'petits choux farcis épicés';1;0
+e;3318784;'rata pommes de terre, petits pois, saucisses';1;0
+e;3371911;'velouté de petits pois et menthe poivrée';1;0
+e;3369992;'suprême de poulet au cidre et petits légumes de printemps';1;0
+e;3369228;'sardines et petits légumes en papillotes';1;0
+e;3367101;'poissons roulés aux petits légumes';1;0
+e;3366847;'petits roulés de dinde au jambon cru';1;0
+e;3366841;'petits pots de crème fondants au chocolat';1;0
+e;3366820;'petits macarons à l'amande';1;0
+e;3366808;'petits gâteaux légers nappés de chocolat';1;0
+e;3366790;'petits fondants au chocolat coeur praliné';1;0
+e;3366782;'petits flans au brie';1;0
+e;3366770;'petits encornets au chorizo safran et whisky';1;0
+e;3366769;'petits duo de chocolat';1;0
+e;3366449;'pâtes au cabillaud et ses petits légumes';1;0
+e;3366428;'pâtes à la crème petits pois et jambon';1;0
+e;3366316;'pasteis de nata, petits flans portugais';1;0
+e;3365734;'gratin de thon, crevettes et petits légumes';1;0
+e;3365712;'glace aux petits beurres, sans sorbetiére';1;0
+e;3365655;'gâteau aux 'petits bruns', petits beurres';1;0
+e;3362224;'filets de merlan aux petits légumes et au vin blanc';1;0
+e;3361617;'délice aux petits pois et aux oeufs';1;0
+e;3743772;'petits pains des Cornouailles';1;0
+e;3743938;'petits bonshommes en pain d'épice';1;0
+e;3744249;'petits pots de crème au chocolat blanc';1;0
+e;3744789;'petits pains briochés au chocolat';1;0
+e;3746815;'paupiettes aux épinards et petits légumes';1;0
+e;3746304;'langue de buf et petits légumes en gelée';1;0
+e;3746249;'petits gâteaux grecs au beurre';1;0
+e;3745897;'petits cookies au citron vert pour le thé';1;0
+e;3751027;'petits oignons frais finement émincés';1;0
+e;3758993;'grosse poignée de petits pois surgelés trempés dans l'eau froide';1;0
+e;3758189;'grosses carottes pelées et coupées en petits morceaux';1;0
+e;3757904;'petits oeufs en sucre';1;0
+e;3757697;'pommes coupées en petits morceaux';1;0
+e;3757523;'figues déshydratées coupées en très petits morceaux';1;0
+e;3757099;'pépites de chocolat ou de chocolat cassé en petits morceaux';1;0
+e;3757079;'tomates pelées et coupées en petits morceaux';1;0
+e;3756631;'chocolat pâtissier coupé en très petits morceaux';1;0
+e;3756575;'belles côtes de céleri coupées en petits morceaux';1;0
+e;3756235;'petits lardons dégraissés';1;0
+e;3755862;'petits poireaux partie blanche seulement émincés en rondelles';1;0
+e;3755541;'pommes de terre coupées en petits dés';1;0
+e;3755507;'piment vert coupé en petits morceaux';1;0
+e;3754967;'petits verres de lentilles corail';1;0
+e;3754566;'concombre coupé en petits quartiers';1;0
+e;3754516;'petits oignons grelots';1;0
+e;3754464;'pommes épluchées épépinées et coupées en petits dés';1;0
+e;3754403;'saumon coupé en petits morceaux';1;0
+e;3753504;'avocat coupé en petits dés';1;0
+e;3753501;'chocolat blanc en petits morceaux';1;0
+e;3753403;'moitié d'une grosse pastèque épépinée et coupée en petits dés';1;0
+e;3753345;'poivrons rouges grillés en bocal à couper en petits dés';1;0
+e;3752753;'petits pois écossés';1;0
+e;3752634;'bardes de lard coupées en petits lardons';1;0
+e;3752543;'courgette coupée en petits dés';1;0
+e;3752539;'pomme de terre coupée en petits dés';1;0
+e;3752292;'poivron rouge coupé en petits morceaux';1;0
+e;3752203;'branches de céleri coupées en petits morceaux';1;0
+e;3752145;'saumon fumé coupé en petits morceaux';1;0
+e;3751691;'saumon frais coupé en petits morceaux';1;0
+e;3751689;'petits oignons blancs émincés';1;0
+e;3751607;'morceau de tofu coupé en petits dés';1;0
+e;4939323;'petits pains brésiliens au fromage';1;0
+e;464187;'ischémie de petits vaisseaux';1;50
+e;571295;'petits farcis';777;50
+e;1970548;'en petits dés';1;28
+e;1970842;'petits ramequins';1;0
+e;2528822;'se vendre comme des petits pains';1;0
+e;3371912;'velouté de petits pois';1;0
+e;3371190;'terrine aux 2 poissons et petits légumes';1;0
+e;3370811;'tarte faisselle, thon et petits oignons caramel';1;0
+e;3370146;'tajine de veau au petits pois';1;0
+e;3370080;'tagliatelles petits pois italie';1;0
+e;3370075;'tagliatelles et saint jacques aux petits légumes croquants';1;0
+e;3367147;'polenta aux petits légumes';1;0
+e;3366854;'petits soufflés au chocolat et à la cannelle';1;0
+e;3366846;'petits roulés aux carottes';1;0
+e;3366822;'petits muffins au saumon';1;0
+e;3366819;'petits légumes farcis à la grecque';1;0
+e;3366818;'petits légumes d'automne au vin';1;0
+e;3366805;'petits gâteaux de foies de volaille';1;0
+e;3366802;'petits gâteaux aux épices';1;0
+e;3366776;'petits feuilletés aux poires';1;0
+e;3366773;'petits feuilletés amande - sirop d'érable';1;0
+e;3366766;'petits clafoutis aux cerises';1;0
+e;3363136;'gâteau petits beurres et chamallows';1;0
+e;3361484;'cuisses de canard au cidre et petits oignons';1;0
+e;3745084;'petits gâteaux secs façon brownie';1;0
+e;3746418;'soupe facile au pesto et aux petits pois';1;0
+e;3751016;'tomates coupées en petits morceaux';1;0
+e;3751199;'petits cubes de boeuf, d'agneau ou de veau dégraissée';1;0
+e;3759343;'petits roulés à la cannelle (Cinnamon roll)';1;0
+e;3759237;'petite courge butternut épluchée coeur évidé et chair coupée en petits dés';1;0
+e;3758856;'côtes de céleri en petits dés';1;0
+e;3758572;'blancs de poulet coupés en petits cubes';1;0
+e;3758533;'échine de porc désossée cuite et coupée en petits morceaux';1;0
+e;3758356;'petits oignons blancs nouveaux';1;0
+e;3757761;'poivron vert coupé en très petits dés';1;0
+e;3757295;'melon chair coupée en petits morceaux';1;0
+e;3756987;'branches de céleri coupées en tout petits morceaux';1;0
+e;3756775;'mangue coupée en petits morceaux';1;0
+e;3756173;'champignons de Paris lavés et coupés en petits morceaux';1;0
+e;3755016;'petits navets';1;0
+e;3754712;'olives dénoyautées coupées en petits morceaux';1;0
+e;3754229;'carottes moyennes coupées en deux dans le sens de la longueur et détaillées en petits morceaux';1;0
+e;3753962;'pancetta coupé en touts petits morceaux';1;0
+e;3753764;'tranche épaisse de jambon coupée en petits dés';1;0
+e;3753264;'poires pelées coupées en petits morceaux';1;0
+e;3752650;'escalopes de poulet coupées en tout petits filets';1;0
+e;3752252;'piments verts égrainés et coupés en petits morceaux';1;0
+e;3751928;'pamplemousse épluché coupé en petits morceaux';1;0
+e;3751735;'chocolat pâtisser coupé en petits morceaux';1;0
+e;4053223;'asperges en petits pois';1;0
+e;1973833;'petits suisses';1;4
+e;1991034;'arrière-petits-neveux';2;0
+e;2242890;'petits-bourgeois';2;0
+e;2348361;'petits pois en conserve';1;0
+e;3112729;'petits farcis niçois';1;0
+e;3318453;'petits flans pomme palet breton coeur nutella';1;0
+e;3318512;'petits sablés à la vergoise faciles';1;0
+e;3371637;'tourte aux petits suisses';1;0
+e;3371332;'terrine estivale d'avocat et petits légumes';1;0
+e;3370586;'tarte aux petits pois';1;0
+e;3370086;'tagliatelles vertes aux petits pois';1;0
+e;3369410;'schwowebredle, petits fours de noël';1;0
+e;3369354;'sauté de porc au gingembre et petits légumes';1;0
+e;3367858;'queue de lotte aux petits légumes au wok';1;0
+e;3367607;'poulet épicé aux olives et ses petits légumes';1;0
+e;3366851;'petits sablés croquants';1;0
+e;3366809;'petits gâteaux -mousse au chocolat';1;0
+e;3366797;'petits gâteaux 8-7-2';1;0
+e;3366791;'petits fondants au chocolat, coeurs au chocolat blanc';1;0
+e;3366780;'petits flans à la vanille simples';1;0
+e;3366750;'petits beurre au citron';1;0
+e;3365868;'marguerites, petits biscuits';1;0
+e;3364586;'moka au café avec petits beurres';1;0
+e;3364019;'lasagnes boeuf et petits légumes d'été';1;0
+e;3363695;'hachis de petits légumes et brandade';1;0
+e;3361994;'farfalles aux jambon et petits pois';1;0
+e;3743837;'purée de petits pois';1;0
+e;3744707;'petits gâteaux tortues au chocolat';1;0
+e;3744672;'petits fantômes en riz soufflé';1;0
+e;3744978;'petits chaussons aux pommes maison';1;0
+e;3746089;'petits princes toiles d'araignées';1;0
+e;3751050;'pomme coupée en petits morceaux';1;0
+e;3751131;'petits oignons nouveaux';1;0
+e;3751498;'petits flocons d'avoine';1;0
+e;3751222;'rhubarbe coupée en petits morceaux';1;0
+e;3758992;'blancs de poulet coupés en petits dés';1;0
+e;3758878;'poivrons verts coupés en petits dés';1;0
+e;3758730;'petits beurres émiettés';1;0
+e;3758525;'petits beurre';1;0
+e;3758497;'rutabaga coupé en petits dés';1;0
+e;3758399;'brocolis frais coupés en petits morceaux';1;0
+e;3757973;'petits pois cuits et égouttés';1;0
+e;3757836;'petits poivrons épépinés et coupés en dés';1;0
+e;3757725;'tomates coupées en très petits dés';1;0
+e;3757698;'fraises coupées en petits morceaux';1;0
+e;3757597;'chocolat pâtissier cassé en petits morceaux';1;0
+e;3757378;'petits cornichons';1;0
+e;3757273;'poires épluchées et coupées en petits dés';1;0
+e;3757233;'romaine coupée en petits morceaux';1;0
+e;3756756;'oignon coupé en tout petits morceaux';1;0
+e;3756662;'escalopes de poulet sans la peau coupées en petits morceaux';1;0
+e;3756576;'carottes moyennes coupées en petits bâtonnets';1;0
+e;3756554;'jambon cuit coupé en petits morceaux';1;0
+e;3756028;'fromage à pâte dure coupé en petits cubes';1;0
+e;3754965;'carotte coupée en petits cubes';1;0
+e;3754800;'mouton coupé en petits morceaux';1;0
+e;3754552;'petits pois congelés';1;0
+e;3754518;'petits navets nouveaux';1;0
+e;3754256;'petits champignons de Paris coupés en deux';1;0
+e;3754034;'tomate coupée en petits morceaux';1;0
+e;3753932;'écorce d'agrumes confites coupée en petits dés';1;0
+e;3753915;'rhubarbe coupée en petits cubes';1;0
+e;3753535;'pommes de terres pelées et débitées en petits cubes de côté';1;0
+e;3752855;'petits oignons hachés';1;0
+e;3752701;'tête de brocolis coupée en petits dés';1;0
+e;3751923;'concombre pelé et coupé en petits bâtonnets';1;0
+e;3751922;'saumon fumé thon ou crabe en petits morceaux';1;0
+e;3751787;'bulbe de fenouil coupé en petits dés';1;0
+e;3751748;'champignons shiitake petits cèpes et petits champignons de Paris coupés en tranches ou en quartiers';1;0
+e;3751618;'rhubarbe lavée et coupée en petits morceaux';1;0
+e;3751330;'petits oignons émincés';1;0
+e;3752852;'pommes de terre épluchées et coupées en petits morceaux';1;0
+e;1779725;'nerfs petits palatins';1;0
+e;1834252;'petits- foramens palatins';1;0
+e;1971620;'faire des petits trous';1;0
+e;2242891;'petits-gris';2;0
+e;2528262;'boire à petits coups';1;0
+e;3318398;'salade de pois chiche tomates, olives et petits lardons';1;0
+e;3318661;'quiche légère aux lardons et petits légumes';1;0
+e;3318841;'petits friands à la viande ou au fromage';1;0
+e;3318755;'pâtes au Cabillaud et ses petits légumes';1;0
+e;3359387;'blé pilaf aux petits légumes';1;0
+e;3371374;'thon, petits pois et épinards en curry';1;0
+e;3371362;'thon aux tomates et petits pois';1;0
+e;3371262;'terrine de petits pois à la menthe';1;0
+e;3370587;'tarte aux petits pois et chair à saucisse';1;0
+e;3369067;'salade fraîche de petits pois et chou-fleur';1;0
+e;3368989;'salade de riz maïs poivron petits pois à la mayonnaise';1;0
+e;3368936;'salade de petits pois à la saucisse';1;0
+e;3368935;'salade de petits légumes';1;0
+e;3368570;'roulé d'omelette aux petits légumes';1;0
+e;3367550;'poulet aux petits pois et pousses de soja';1;0
+e;3366909;'pintade aux petits lardons et aux pêches';1;0
+e;3366858;'petits soufflés de poulet';1;0
+e;3366836;'petits pois carottes sauce boulettes de viande';1;0
+e;3366823;'petits muffins d'automne aux myrtilles';1;0
+e;3366815;'petits gratins de brocolis aux oeufs';1;0
+e;3366813;'petits gâteaux tout chocolat';1;0
+e;3366811;'petits gâteaux 'suze'';1;0
+e;3366804;'petits gâteaux blancs à l'abricot';1;0
+e;3366803;'petits gâteaux aux groseilles';1;0
+e;3366793;'petits fours aux carottes';1;0
+e;3366777;'petits feuilletés quercynois';1;0
+e;3366755;'petits cakes des îles';1;0
+e;3366748;'petits aspics aux fruits';1;0
+e;3366213;'papillote de saumon et sa compotée de petits légumes';1;0
+e;3365835;'les plätzchen, petits gateaux allemands';1;0
+e;3365797;'langoustines, sauce aux petits légumes';1;0
+e;3363506;'gratin de noix de saint-jacques aux petits légumes';1;0
+e;3360152;'carottes au curry et aux petits lardons';1;0
+e;3360608;'cocotte de petits pois alsacienne';1;0
+e;3360805;'coquillettes poireaux petits pois';1;0
+e;3361569;'curry de viande hachée aux petits pois';1;0
+e;3744168;'agneau au cidre et ses petits légumes';1;0
+e;3744696;'petits sablés portugais faciles';1;0
+e;3745042;'petits sablés à la courgette et aux raisins secs';1;0
+e;3750998;'oignon coupé en petits dés';1;0
+e;3750965;'talon de jambon coupé en petits cubes';1;0
+e;3751402;'poivron jaune coupé en petits morceaux';1;0
+e;3751461;'chou-fleur détaillé en petits bouquets';1;0
+e;3758745;'ananas coupé en petits morceaux';1;0
+e;3758264;'chocolat au lait cassé en petits morceaux';1;0
+e;3757986;'tomates pelées et coupées en petits dés';1;0
+e;3757824;'carottes épluchées et taillées en petits dés';1;0
+e;3757461;'carotte en petits dés';1;0
+e;3757336;'gingembre épluché et découpé en petits morceaux';1;0
+e;3757237;'blancs de poulet cuits et coupés en petits morceaux';1;0
+e;3757161;'poires épluchées épépinées et coupées en petits morceaux';1;0
+e;3756924;'grosses pommes de terre épluchées et coupées en petits dés';1;0
+e;3756823;'oranges  pelées coupées en section puis en petits morceaux';1;0
+e;3756067;'courgettes râpées ou coupées en petits dés';1;0
+e;3755918;'beurre doux frais et coupé en petits cubes';1;0
+e;3755553;'petits carrés de chocolat à cuire';1;0
+e;3755544;'petit piment vert coupé en petits dés';1;0
+e;3755518;'cornichons coupés en petits morceaux';1;0
+e;3755406;'grosses feuilles de kale coupées en petits morceau';1;0
+e;3754890;'tomates romaines coupées en petits morceaux';1;0
+e;3754154;'petits crackers';1;0
+e;3753968;'petite boîte de pêches au sirop égouttées et coupées en petits morceaux';1;0
+e;3753344;'écorces d'oranges confites coupées en petits dés';1;0
+e;3753097;'petits curs de chicoré rouge lavés et coupés';1;0
+e;3752897;'petite courge butternut épluchée cur évidé et chair coupée en petits dés';1;0
+e;3752863;'talon de jambon coupé en petits dés';1;0
+e;3752665;'côtes de céleri effilées en petits tronçons';1;0
+e;3752376;'carottes pelées et coupées en petits tronçons';1;0
+e;3752149;'jus de petits citrons';1;0
+e;3752115;'petits poireaux nouveaux coupés en tronçons environ';1;0
+e;3751917;'petits piments rouges épépinés et coupés en morceaux';1;0
+e;3751788;'pomme coupée en petits dés';1;0
+e;3751645;'poivrons verts et rouges coupés en dés pas trop petits';1;0
+e;3757209;'courgettes coupées en petits morceaux';1;0
+e;573007;'foramina petits palatins';1;50
+e;1778825;'foramens petits palatins';1;0
+e;1779550;'muscles des petits os de l'audition';1;0
+e;2297822;'tous-petits';2;0
+e;2242889;'petits-bois';2;0
+e;2339814;'petits prix';1;0
+e;2346766;'petits échassiers';1;0
+e;2549538;'petits maîtres';1;0
+e;3159847;'Requin-marteau à petits yeux';777;0
+e;3318403;'les Plätzchen, petits gateaux allemands';1;0
+e;3371909;'veloute de petits pois';1;0
+e;3369988;'super petits sablés à la confiture';1;0
+e;3368452;'rôti de porc aux petits pois et carottes';1;0
+e;3368076;'ragoût de mouton aux petits pois';1;0
+e;3367505;'poulet aux carottes, petits pois et épices du soleil';1;0
+e;3367312;'potage de petits pois';1;0
+e;3366860;'pétoncles au curry et ses petits lardons';1;0
+e;3366844;'petits ramequins chocolat - pistache';1;0
+e;3366838;'petits pois surprise';1;0
+e;3366830;'petits pains au miel , petits fours';1;0
+e;3366810;'petits gâteaux sablés à l'anis';1;0
+e;3366788;'petits flans de poisson au curry';1;0
+e;3366783;'petits flans aux raisins secs et lait de coco';1;0
+e;3366765;'petits choux rhum raisin';1;0
+e;3366761;'petits chaussons banane-chocolat';1;0
+e;3366753;'petits biscuits de noël';1;0
+e;3366749;'petits ballotins de chou frisé farci au veau';1;0
+e;3365850;'macarons aux amandes , petits fours';1;0
+e;3365756;'petits gâteaux de noël alsaciens fourrés framboise';1;0
+e;3365343;'chaucisson du sud, roulé chocolat avec petits beurres';1;0
+e;3362147;'filet mignon aux 2 moutardes et aux petits légumes';1;0
+e;3361710;'dos de cabillaud vapeur aux petits légumes';1;0
+e;3361901;'escalopes de poulet au curry et petits pois carottes';1;0
+e;3744510;'petits choux au tartare de saumon fumé';1;0
+e;3746606;'tartines de petits beurre pêche et abricot';1;0
+e;3750975;'petits oignons blancs épluchés';1;0
+e;3751025;'concombre coupé en petits dés';1;0
+e;3751331;'tiges de rhubarbe coupées en petits morceaux';1;0
+e;3751460;'carottes coupées en petits dés';1;0
+e;3759240;'petits coeurs de chicoré rouge lavés et coupés';1;0
+e;3759046;'filet de boeuf taillé en petits cubes';1;0
+e;3759012;'petits oignons rouges coupés en petits morceaux';1;0
+e;3758957;'brins de ciboule coupés en petits morceaux';1;0
+e;3758829;'poivron vert coupé en petits dés';1;0
+e;3758792;'branches de céleri coupé en petits tronçons';1;0
+e;3758731;'champignons nettoyés et coupés en petits morceaux';1;0
+e;3758463;'ciboules coupées en petits morceaux';1;0
+e;3757931;'petits épis de maïs doux';1;0
+e;3757653;'miettes de petits beurre';1;0
+e;3757210;'tomates fraîches pelées et coupées en petits morceaux';1;0
+e;3756653;'petits pois écossés frais ou surgelés';1;0
+e;3755882;'viande d'agneau coupées en petits morceaux';1;0
+e;3755701;'lobe de foie gras de canard cru coupé en petits morceaux';1;0
+e;3755549;'petits artichauts violets';1;0
+e;3755210;'petits Beurres émiettés';1;0
+e;3754958;'bleu d'Auvergne coupé en très petits dés';1;0
+e;3753610;'dates dénoyautées et coupées en très petits morceaux';1;0
+e;3753251;'ananas en pulpe ou en petits morceaux avec son jus';1;0
+e;3752679;'champignons coupés en petits morceaux';1;0
+e;3752496;'céleri branche coupé en très petits morceaux';1;0
+e;3752295;'poivron vert coupé en petits morceaux';1;0
+e;3752097;'bol de petits pois surgelés';1;0
+e;3752089;'pousses de bambou coupées en petits dés';1;0
+e;3751583;'jambon coupés en petits dés';1;0
+e;3751576;'tomates épépinées et coupées en petits dés';1;0
+e;3752645;'navets épluchés et coupés en petits morceaux';1;0
+e;3752309;'gousses d'ail coupées en petits bouts';1;0
+e;5518923;'petits passereaux';1;0
+e;2242892;'petits-laits';2;0
+e;3321262;'petits fruits rouges';1;0
+e;3359483;'bouchées poisson/crevettes aux petits légumes';1;0
+e;3371947;'velouté petits pois-pommes de terre';1;0
+e;3367873;'quiche à la ratatouille et aux petits lardons';1;0
+e;3367439;'poulet au champagne et petits légumes';1;0
+e;3366853;'petits soufflés au cheddar';1;0
+e;3366852;'petits soufflés à la banane';1;0
+e;3366842;'petits pots de fraises';1;0
+e;3366831;'petits pains au yaourt';1;0
+e;3366829;'petits pains au jambon et au brie';1;0
+e;3366807;'petits gâteaux individuels à la banane';1;0
+e;3366800;'petits gâteaux aux amandes et à l'orange';1;0
+e;3366799;'petits gâteaux arabes à la noix de coco et à la confiture d'abricot';1;0
+e;3366798;'petits gâteaux à la framboise';1;0
+e;3366796;'petits galets aux amandes sans gluten';1;0
+e;3366792;'petits fours à l'anis';1;0
+e;3366786;'petits flans de légumes au maroilles';1;0
+e;3366774;'petits feuilletés au chèvre';1;0
+e;3366509;'pâtes aux petits pois, poireaux et bacon';1;0
+e;3366235;'papillotes de flétan aux petits légumes';1;0
+e;3365864;'mannele, petits bonhommes à la pâte à brioche, alsace';1;0
+e;3365489;'cuisses de lapin lardons et petits légumes, sauce crémeuse au vin blanc';1;0
+e;3365034;'oeufs de caille en gelée et petits palmiers au pavot';1;0
+e;3364061;'la soupe des petits costauds';1;0
+e;3362506;'fondue de légumes et petits lardons';1;0
+e;3362445;'fondant au chocolat et aux petits suisses';1;0
+e;3361775;'en-cas aux petits beurres';1;0
+e;3373445;'petits-beurres';1;0
+e;3360273;'champignons marinés à la grecque et petits légumes';1;0
+e;3361550;'curry de poisson et gambas aux petits légumes';1;0
+e;3361537;'curry de cabillaud aux petits pois';1;0
+e;3361723;'duo de poisson aux petits légumes';1;0
+e;3706482;'se faire de bons petits plats';1;0
+e;3745108;'petits choux à la mousse de saumon fumé';1;0
+e;3744970;'petits choux à la crème';1;0
+e;3745430;'soles vapeur aux petits légumes de Printemps';1;0
+e;3745810;'tartare de thon en petits dômes';1;0
+e;3751283;'mangues pelées dénoyautées et la chair coupée en petits cubes';1;0
+e;3759363;'rogaliki (petits croissants polonais à la confiture)';1;0
+e;3759019;'jambon coupé en petits dés';1;0
+e;3758974;'têtes de brocoli détaillées en petits bouquets';1;0
+e;3758857;'carottes en petits dés';1;0
+e;3758519;'crevettes décortiquées et coupées en petits morceaux';1;0
+e;3757914;'châtaignes d'eau en boîte égouttées et coupées en petits morceaux';1;0
+e;3757892;'abricots secs coupés en petits morceaux';1;0
+e;3757883;'chamallows blancs coupés en petits morceaux';1;0
+e;3757844;'jambon coupé en petits morceaux';1;0
+e;3757829;'bocal de petits oignons';1;0
+e;3757675;'poires coupées en petits morceaux';1;0
+e;3757650;'très petits champignons de Paris';1;0
+e;3757159;'pommes épluchées épépinées et coupées en petits morceaux';1;0
+e;3757073;'lard maigre fumé découenné et coupé en petits morceaux';1;0
+e;3756933;'concombre découpé en petits dés';1;0
+e;3756693;'petit bol de petits pois';1;0
+e;3756572;'pommes de terre épluchées et coupées en petits cubes';1;0
+e;3756526;'concombre coupé en deux dans le sens de la longueur puis en petits morceaux';1;0
+e;3756449;'saumon fumé découpé en petits morceaux';1;0
+e;3756019;'beurre froid coupés en petits morceaux';1;0
+e;3755542;'poireau coupé en petits dés';1;0
+e;3755393;'carottes pelées coupées en petits morceaux';1;0
+e;3755309;'petits pois en conserve égoutés';1;0
+e;3755123;'dattes dénoyautées coupées en petits morceaux';1;0
+e;3755093;'beurre ramolli coupé en petits morceaux';1;0
+e;3754873;'citron vert coupé en petits morceaux';1;0
+e;3754341;'échalotes coupées en petits morceaux';1;0
+e;3753791;'petits citrons déshydratés dans les épiceries orientales';1;0
+e;3753545;'chocolat pâtissier coupé en petits morceaux';1;0
+e;3752534;'carotte coupée en petits dés';1;0
+e;3752307;'petits oeufs en sucre ou en chocolat';1;0
+e;3752076;'tranches de jambon coupées en petits dés';1;0
+e;3751910;'grosses oranges pelées et coupées en petits morceaux';1;0
+e;3751906;'petits cornichons coupés en petites rondelles';1;0
+e;3751884;'petits oeufs';1;0
+e;3751708;'petits pois écossés ou surgelés';1;0
+e;3757501;'carottes coupées en petits tronçons';1;0
+e;3752783;'fraises lavées équeutées et coupées en petits morceaux';1;0
+e;3173309;'Trois petits chats';777;0
+e;2776009;'petits sauts';1;0
+e;3049228;'petits-déjeuners';1;0
+e;1841254;'image des petits chiens de Lachapelle';1;0
+e;384275;'tout petits yeux';1;50
+e;370053;'petits pois en boîte';1;50
+e;370037;'petits chevaux';1;52
+e;362599;'machine à écosser les petits pois';1;50
+e;370050;'petits plats';1;50
+e;392003;'couper en petits morceaux';1;8
+e;388831;'à petits carreaux';1;50
+e;383894;'tissu à petits carreaux';1;50
+e;370045;'petits moyens';1;50
+e;345851;'câble de petits fonds';1;50
+e;340161;'boîte de petits fours';1;50
+e;335862;'appareil à écosser les petits pois';1;50
+e;388832;'à petits coups';1;50
+e;340942;'cahier à petits carreaux';1;50
+e;370052;'petits points de suspension';1;50
+e;370046;'petits oignons';1;58
+e;366113;'nappe à petits carreaux';1;50
+e;351031;'en petits caractères';1;50
+e;370038;'petits cheveux';1;50
+e;376821;'robe à petits carreaux';1;50
+e;370054;'petits pois frais';1;50
+e;370055;'petits pois très fins';1;50
+e;370049;'petits plaisirs de la vie';1;50
+e;337787;'aux petits soins pour';1;50
+e;371643;'politique des petits pas';1;50
+e;370059;'petits socratiques';1;50
+e;355082;'foule de petits détails';1;50
+e;331049;'petits gâteaux';1;60
+e;76225;'arrière-petits-enfants';1;50
+e;57814;'petits-enfants';1;60
+e;222454;'petits-fours';1;52
+e;222249;'petits-ducs';1;50
+e;179172;'petits-fils';1;50
+e;179159;'arrière-petits-fils';1;50
+e;149638;'petits-pois';1;50
+e;217912;'en petits morceaux';1;6
+e;222262;'les trois petits cochons';1;52
+e;230263;'bonne nuit les petits';666;4
+e;260457;'aux petits soins';1;62
+e;167071;'Les petits malins';1;50
+e;211127;'les petits cadeaux entretiennent l'amitié';1;50
+e;223680;'Bonne nuit les petits';1;70
+e;226906;'Dix petits nègres';1;54
+e;234530;'petits fours';1;72
+e;241995;'trois petits chats';1;54
+e;246010;'petits cailloux';1;52
+e;247516;'petits carreaux';1;52
+e;257933;'petits nénés';1;6
+e;257934;'petits lolos';1;16
+e;257935;'petits seins';1;24
+e;262570;'mitonner des bons petits plats';1;10
+e;263316;'petits lardons';1;74
+e;89795;'être aux petits soins pour';1;50
+e;143963;'s'enlever comme des petits pains';1;50
+e;159354;'pour les grands et les petits';1;50
+e;163985;'petits cochons';1;52
+e;164547;'mettre les petits plats dans les grands';1;68
+e;165057;'petits animaux';1;54
+e;171643;'par les petits';1;50
+e;202884;'les gros larrons font pendre les petits';1;50
+e;202909;'les petits épargnants';1;50
+e;202910;'les petits ruisseaux font les grandes rivières';1;50
+e;214918;'pays des petits poneys';1;50
+e;266392;'faire des petits';1;50
+e;274948;'être aux petits oignons';1;50
+e;13963;'être aux petits soins';1;98
+e;47820;'Lettre ouverte aux parents des petits écoliers';1;50
+e;54028;'petits soins';1;50
+e;78530;'soigner aux petits oignons';1;50
+e;153103;'trois petits cochons';1;166
+e;186077;'être dans les petits papiers de';1;50
+e;191322;'requin-marteau à petits yeux';1;50
+e;195552;'à petits pas';1;56
+e;205128;'partir comme des petits pains';1;50
+e;205485;'petits fruits';1;50
+e;205486;'petits noyaux globosus';1;50
+e;205487;'petits pieds';1;50
+e;265595;'petits trafics';1;50
+e;266917;'riz aux petits légumes';1;50
+e;267583;'petits mammifères';1;50
+e;272630;'petits groupes finis';777;50
+e;275552;'Cinq petits cochons';777;50
+e;285192;'petits félins';777;50
+e;286263;'infiniment petits';777;50
+e;291739;'petits singes-lions';777;50
+e;299059;'recommandés dans petits jardins familiaux';777;50
+e;302462;'petits soldats';777;50
+e;24727;'Analyse des infiniments petits';1;50
+e;191886;'mollusques et petits animaux marins';1;4
+e;199933;'être dans ses petits souliers';1;62
+e;197784;'comme des petits pains';1;50
+e;198289;'dans ses petits souliers';1;50
+e;6003;'petits pois';1;96
+r;298434619;7914;6290720;11;25
+r;301557501;7914;6345526;11;25
+r;301760838;7914;6354767;11;25
+r;302029715;7914;6357694;11;25
+r;302978895;7914;6370417;11;25
+r;302984377;7914;6370956;11;25
+r;304895635;7914;6393913;11;25
+r;305138252;7914;6400335;11;25
+r;305287780;7914;6403371;11;25
+r;316669020;7914;12167000;11;25
+r;318632638;7914;12234021;11;25
+r;318632660;7914;12234020;11;25
+r;318632684;7914;12234019;11;25
+r;318632708;7914;12234018;11;25
+r;341077184;7914;6336753;11;25
+r;341003799;7914;6314655;11;25
+r;352425371;7914;13989955;11;25
+r;358008503;7914;14130173;11;25
+r;358008598;7914;14130172;11;25
+r;359718685;7914;14159541;11;25
+r;368720617;7914;14534767;11;25
+r;372100975;7914;14639358;11;25
+r;372500587;7914;14653244;11;25
+r;372568562;7914;14653913;11;25
+r;372645720;7914;14655496;11;25
+r;372650870;7914;14655576;11;25
+r;392094109;7914;15013320;11;25
+r;416739986;7914;15958858;11;25
+r;419497586;7914;15530603;11;25
+r;419592058;7914;16066070;11;25
+r;419630173;7914;15922752;11;25
+r;419630178;7914;15418535;11;25
+r;419662966;7914;15567904;11;25
+r;419670170;7914;15316956;11;25
+r;419679116;7914;15297002;11;25
+r;419712612;7914;15569863;11;25
+r;419713201;7914;15571312;11;25
+r;419715460;7914;15571987;11;25
+r;419750905;7914;15325866;11;25
+r;419764279;7914;16042954;11;25
+r;419764285;7914;15316952;11;25
+r;419764358;7914;15264511;11;25
+r;419775014;7914;15194222;11;25
+r;419775018;7914;15297005;11;25
+r;419775026;7914;15303694;11;25
+r;419775035;7914;15321304;11;25
+r;428106796;7914;16309390;11;25
+r;392469263;7914;15024675;11;26
+r;298254968;7914;6288121;11;26
+r;298493961;7914;6292184;11;26
+r;299111464;7914;6299900;11;26
+r;301690446;7914;6347900;11;26
+r;300193696;7914;6325869;11;26
+r;301129604;7914;6332762;11;26
+r;301441681;7914;6338043;11;26
+r;301738538;7914;6351030;11;26
+r;305208614;7914;6401729;11;26
+r;305300879;7914;6404796;11;26
+r;332114422;7914;12977432;11;26
+r;341253711;7914;6415096;11;26
+r;369391946;7914;14537210;11;26
+r;370050394;7914;14563712;11;26
+r;370713709;7914;14589830;11;26
+r;371743459;7914;14635320;11;26
+r;373013215;7914;14670165;11;26
+r;393558953;7914;15031553;11;26
+r;417022196;7914;15978809;11;26
+r;423610359;7914;16163617;11;26
+r;423615506;7914;16163743;11;26
+r;423616283;7914;16163778;11;26
+r;423616415;7914;16163788;11;26
+r;423732477;7914;16165999;11;26
+r;423732702;7914;16166016;11;26
+r;423813145;7914;16166466;11;26
+r;298434771;7914;6290782;11;27
+r;299592894;7914;6312280;11;27
+r;315573376;7914;12100471;11;27
+r;395565856;7914;15463604;11;27
+r;294430583;7914;5812516;11;28
+r;342464012;7914;13519354;11;28
+r;342465068;7914;13519395;11;28
+r;122727049;7914;6425959;11;29
+r;269885983;7914;10731021;11;29
+r;269885991;7914;10731020;11;29
+r;122751104;7914;6422876;11;30
+r;302046256;7914;11772874;11;30
+r;113297611;7914;5804895;11;31
+r;115870913;7914;5908460;11;31
+r;114015237;7914;5837647;11;32
+r;114015254;7914;5837643;11;32
+r;114015266;7914;5837639;11;32
+r;114017142;7914;5837083;11;32
+r;122664385;7914;6433715;11;32
+r;227646665;7914;10014100;11;32
+r;276725258;7914;10963091;11;32
+r;388254021;7914;14890794;11;32
+r;227615547;7914;10036689;11;33
+r;276171403;7914;10960045;11;33
+r;280413421;7914;11063227;11;33
+r;293502716;7914;11407982;11;33
+r;111334632;7914;5673785;11;34
+r;116583288;7914;5954844;11;34
+r;270915804;7914;10834981;11;34
+r;275476895;7914;10940704;11;34
+r;293502732;7914;11407981;11;34
+r;319705002;7914;12302363;11;34
+r;271594244;7914;10841308;11;35
+r;271594254;7914;10841307;11;35
+r;110814387;7914;5620379;11;36
+r;227596159;7914;10044881;11;36
+r;315110223;7914;12080913;11;36
+r;315112209;7914;12080556;11;36
+r;315113960;7914;12080217;11;36
+r;52243793;7914;2379774;11;37
+r;269378971;7914;10750429;11;37
+r;269379067;7914;10750405;11;37
+r;112170957;7914;5716141;11;38
+r;118544388;7914;5999735;11;38
+r;118544839;7914;5999613;11;38
+r;243240507;7914;10196508;11;38
+r;269376274;7914;10753156;11;38
+r;278099705;7914;10999532;11;38
+r;289891364;7914;11295743;11;38
+r;319146054;7914;12289005;11;38
+r;336067888;7914;13148820;11;38
+r;116304913;7914;5945094;11;39
+r;290306582;7914;11333972;11;39
+r;290312121;7914;11334019;11;39
+r;220312952;7914;9944885;11;40
+r;242257518;7914;10190125;11;40
+r;242257958;7914;10189985;11;40
+r;287144540;7914;11187841;11;40
+r;288277432;7914;11251574;11;40
+r;297597744;7914;11576278;11;40
+r;339527023;7914;13398099;11;40
+r;308645304;7914;11957753;11;41
+r;54352411;7914;2415052;11;42
+r;240917927;7914;10185777;11;42
+r;261005630;7914;10462663;11;42
+r;283184018;7914;11137636;11;42
+r;290061725;7914;11325402;11;42
+r;308658272;7914;11958304;11;43
+r;55681931;7914;2461123;11;44
+r;238108780;7914;10159221;11;44
+r;55660523;7914;2460013;11;45
+r;109660291;7914;5538374;11;45
+r;118530149;7914;6003635;11;45
+r;118544797;7914;5999625;11;45
+r;54433375;7914;2418894;11;46
+r;118543248;7914;6000144;11;46
+r;118544856;7914;5999607;11;46
+r;256289971;7914;10437261;11;47
+r;50236553;7914;2363467;11;50
+r;108303592;7914;5515419;11;50
+r;108303602;7914;5515420;11;50
+r;193589818;7914;8955066;11;50
+r;200557350;7914;9101837;11;50
+r;200558199;7914;9101935;11;50
+r;200558333;7914;9101937;11;50
+r;200682731;7914;9102029;11;50
+r;217108627;7914;9667122;11;50
+r;395808096;7914;15473535;11;50
+r;402104686;7914;15257810;11;50
+r;397498091;7914;15254771;11;50
+r;402111701;7914;15570155;11;50
+r;402111711;7914;15481196;11;50
+r;395010753;7914;15331943;11;50
+r;395032185;7914;15268609;11;50
+r;397423431;7914;15324657;11;50
+r;399662040;7914;15574977;11;50
+r;17113532;7914;567518;11;51
+r;18397917;7914;586290;11;51
+r;23439663;7914;1383275;11;51
+r;29210133;7914;1778368;11;51
+r;29231261;7914;1780221;11;51
+r;72729831;7914;2950715;11;51
+r;52477762;7914;2497002;11;51
+r;83674055;7914;3318811;11;51
+r;86131453;7914;3372124;11;51
+r;86132500;7914;3371998;11;51
+r;86136141;7914;3371525;11;51
+r;86143797;7914;3370588;11;51
+r;86147787;7914;3370118;11;51
+r;86148482;7914;3370040;11;51
+r;86160550;7914;3368635;11;51
+r;86164896;7914;3368114;11;51
+r;86168614;7914;3367651;11;51
+r;86169106;7914;3367596;11;51
+r;86172048;7914;3367222;11;51
+r;86175121;7914;3366857;11;51
+r;86175165;7914;3366850;11;51
+r;86175181;7914;3366848;11;51
+r;86175205;7914;3366845;11;51
+r;86175274;7914;3366837;11;51
+r;86175327;7914;3366832;11;51
+r;86175395;7914;3366824;11;51
+r;86175734;7914;3366789;11;51
+r;86175853;7914;3366775;11;51
+r;86175978;7914;3366759;11;51
+r;86176014;7914;3366754;11;51
+r;86189806;7914;3365256;11;51
+r;86219946;7914;3359719;11;51
+r;86239619;7914;3360752;11;51
+r;93462016;7914;3744147;11;51
+r;93487801;7914;3745201;11;51
+r;93497059;7914;3746341;11;51
+r;93501554;7914;3745797;11;51
+r;93631174;7914;3751458;11;51
+r;93649511;7914;3759197;11;51
+r;93653537;7914;3758777;11;51
+r;93657253;7914;3758394;11;51
+r;93662597;7914;3757825;11;51
+r;93663506;7914;3757723;11;51
+r;93665898;7914;3757464;11;51
+r;93666626;7914;3757383;11;51
+r;93667775;7914;3757262;11;51
+r;93674877;7914;3756491;11;51
+r;93675851;7914;3756383;11;51
+r;93677796;7914;3756170;11;51
+r;93678191;7914;3756127;11;51
+r;93680028;7914;3755929;11;51
+r;93680310;7914;3755901;11;51
+r;93680314;7914;3755900;11;51
+r;93687608;7914;3755239;11;51
+r;93688558;7914;3755131;11;51
+r;93692317;7914;3754714;11;51
+r;93692650;7914;3754675;11;51
+r;93701042;7914;3753800;11;51
+r;93702397;7914;3753659;11;51
+r;93706061;7914;3753261;11;51
+r;93706963;7914;3753162;11;51
+r;93717785;7914;3751989;11;51
+r;93721358;7914;3751594;11;51
+r;93721929;7914;3751459;11;51
+r;93985045;7914;3754681;11;51
+r;17113538;7914;567517;11;52
+r;20894689;7914;996678;11;52
+r;27687672;7914;1667659;11;52
+r;29894429;7914;1843190;11;52
+r;33114410;7914;2128107;11;52
+r;34494644;7914;2344506;11;52
+r;82836288;7914;3304028;11;52
+r;83642608;7914;3318601;11;52
+r;86133184;7914;3371910;11;52
+r;86133391;7914;3371881;11;52
+r;86134887;7914;3371681;11;52
+r;86136337;7914;3371509;11;52
+r;86139075;7914;3371182;11;52
+r;86143634;7914;3370610;11;52
+r;86151938;7914;3369624;11;52
+r;86170210;7914;3367461;11;52
+r;86175127;7914;3366856;11;52
+r;86175223;7914;3366843;11;52
+r;86175247;7914;3366840;11;52
+r;86175255;7914;3366839;11;52
+r;86175309;7914;3366834;11;52
+r;86175321;7914;3366833;11;52
+r;86175377;7914;3366826;11;52
+r;86175415;7914;3366821;11;52
+r;86175445;7914;3366817;11;52
+r;86175492;7914;3366812;11;52
+r;86175555;7914;3366806;11;52
+r;86175677;7914;3366795;11;52
+r;86175687;7914;3366794;11;52
+r;86175750;7914;3366787;11;52
+r;86175774;7914;3366784;11;52
+r;86175800;7914;3366781;11;52
+r;86175881;7914;3366771;11;52
+r;86175914;7914;3366767;11;52
+r;86175940;7914;3366764;11;52
+r;86188455;7914;3365392;11;52
+r;86198382;7914;3364172;11;52
+r;86213510;7914;3362260;11;52
+r;86214002;7914;3362207;11;52
+r;93447336;7914;3743716;11;52
+r;93494592;7914;3746646;11;52
+r;93494882;7914;3746609;11;52
+r;93495790;7914;3746496;11;52
+r;93496644;7914;3746392;11;52
+r;93588054;7914;3751073;11;52
+r;93632376;7914;3751564;11;52
+r;93648068;7914;3759412;11;52
+r;93649153;7914;3759258;11;52
+r;93649765;7914;3759160;11;52
+r;93651905;7914;3758944;11;52
+r;93653194;7914;3758808;11;52
+r;93657565;7914;3758361;11;52
+r;93658593;7914;3758252;11;52
+r;93663035;7914;3757778;11;52
+r;93663489;7914;3757724;11;52
+r;93669261;7914;3757102;11;52
+r;93672368;7914;3756764;11;52
+r;93674602;7914;3756521;11;52
+r;93677782;7914;3756171;11;52
+r;93683829;7914;3755543;11;52
+r;93685992;7914;3755410;11;52
+r;93687388;7914;3755262;11;52
+r;93687522;7914;3755247;11;52
+r;93688302;7914;3755158;11;52
+r;93690197;7914;3754950;11;52
+r;93690478;7914;3754919;11;52
+r;93691349;7914;3754828;11;52
+r;93693728;7914;3754558;11;52
+r;93694865;7914;3754436;11;52
+r;93695305;7914;3754389;11;52
+r;93698026;7914;3754100;11;52
+r;93699075;7914;3754001;11;52
+r;93699475;7914;3753959;11;52
+r;93699783;7914;3753926;11;52
+r;93705896;7914;3753282;11;52
+r;93707751;7914;3753082;11;52
+r;93709187;7914;3752923;11;52
+r;93710222;7914;3752806;11;52
+r;93711168;7914;3752700;11;52
+r;93715103;7914;3752282;11;52
+r;93716204;7914;3752161;11;52
+r;93721837;7914;3751501;11;52
+r;93984955;7914;3755709;11;52
+r;102812741;7914;4903888;11;52
+r;103239400;7914;4931193;11;52
+r;31762363;7914;1970823;11;53
+r;34786877;7914;2353599;11;53
+r;34788179;7914;2353606;11;53
+r;86147798;7914;3370117;11;53
+r;86153785;7914;3369378;11;53
+r;86162852;7914;3368361;11;53
+r;86163990;7914;3368230;11;53
+r;86170117;7914;3367470;11;53
+r;86170439;7914;3367434;11;53
+r;86175133;7914;3366855;11;53
+r;86175171;7914;3366849;11;53
+r;86175389;7914;3366825;11;53
+r;86175608;7914;3366801;11;53
+r;86175766;7914;3366785;11;53
+r;86175826;7914;3366778;11;53
+r;86175948;7914;3366763;11;53
+r;86175954;7914;3366762;11;53
+r;86175968;7914;3366760;11;53
+r;86175986;7914;3366758;11;53
+r;86176000;7914;3366756;11;53
+r;86176026;7914;3366752;11;53
+r;86176032;7914;3366751;11;53
+r;86177205;7914;3366603;11;53
+r;86188478;7914;3365390;11;53
+r;86200091;7914;3363920;11;53
+r;86203218;7914;3363528;11;53
+r;86206684;7914;3363071;11;53
+r;86213739;7914;3362236;11;53
+r;86213943;7914;3362213;11;53
+r;86240754;7914;3361016;11;53
+r;86243970;7914;3361212;11;53
+r;86244880;7914;3361211;11;53
+r;93499206;7914;3746080;11;53
+r;93587783;7914;3751145;11;53
+r;93598106;7914;3751201;11;53
+r;93650545;7914;3759084;11;53
+r;93651608;7914;3758973;11;53
+r;93651809;7914;3758953;11;53
+r;93659212;7914;3758188;11;53
+r;93659342;7914;3758175;11;53
+r;93661435;7914;3757951;11;53
+r;93662059;7914;3757885;11;53
+r;93664820;7914;3757582;11;53
+r;93665249;7914;3757531;11;53
+r;93669995;7914;3757023;11;53
+r;93670015;7914;3757022;11;53
+r;93670997;7914;3756921;11;53
+r;93671522;7914;3756862;11;53
+r;93677429;7914;3756207;11;53
+r;93678546;7914;3756090;11;53
+r;93686006;7914;3755409;11;53
+r;93689574;7914;3755023;11;53
+r;93689855;7914;3754990;11;53
+r;93695930;7914;3754324;11;53
+r;93697615;7914;3754145;11;53
+r;93698109;7914;3754093;11;53
+r;93698122;7914;3754092;11;53
+r;93699838;7914;3753921;11;53
+r;93709794;7914;3752853;11;53
+r;93716837;7914;3752091;11;53
+r;93717477;7914;3752021;11;53
+r;93985074;7914;3754473;11;53
+r;25399445;7914;1578881;11;54
+r;26130631;7914;1646732;11;54
+r;31762197;7914;1970828;11;54
+r;33109933;7914;2242888;11;54
+r;77289427;7914;3186054;11;54
+r;83661703;7914;3321439;11;54
+r;86134042;7914;3371787;11;54
+r;86138099;7914;3371285;11;54
+r;86138961;7914;3371194;11;54
+r;86150735;7914;3369755;11;54
+r;86155845;7914;3369122;11;54
+r;86163167;7914;3368327;11;54
+r;86163725;7914;3368263;11;54
+r;86164028;7914;3368226;11;54
+r;86169387;7914;3367561;11;54
+r;86175300;7914;3366835;11;54
+r;86175453;7914;3366816;11;54
+r;86175475;7914;3366814;11;54
+r;86175814;7914;3366779;11;54
+r;86175875;7914;3366772;11;54
+r;86175908;7914;3366768;11;54
+r;86175994;7914;3366757;11;54
+r;86178026;7914;3366508;11;54
+r;86180221;7914;3366248;11;54
+r;86186349;7914;3365593;11;54
+r;86201245;7914;3363765;11;54
+r;86208421;7914;3362870;11;54
+r;86211603;7914;3362484;11;54
+r;86215344;7914;3361656;11;54
+r;86219655;7914;3359694;11;54
+r;93492828;7914;3746866;11;54
+r;93499934;7914;3745991;11;54
+r;93500466;7914;3745924;11;54
+r;93500924;7914;3745869;11;54
+r;93503301;7914;3745585;11;54
+r;93631446;7914;3751188;11;54
+r;93631534;7914;3751490;11;54
+r;93631828;7914;3751387;11;54
+r;93649937;7914;3759143;11;54
+r;93659114;7914;3758198;11;54
+r;93660609;7914;3758041;11;54
+r;93662581;7914;3757826;11;54
+r;93662874;7914;3757798;11;54
+r;93663216;7914;3757759;11;54
+r;93666088;7914;3757445;11;54
+r;93666138;7914;3757439;11;54
+r;93666301;7914;3757418;11;54
+r;93666980;7914;3757343;11;54
+r;93670305;7914;3756991;11;54
+r;93673714;7914;3756614;11;54
+r;93676514;7914;3756304;11;54
+r;93677763;7914;3756172;11;54
+r;93678351;7914;3756112;11;54
+r;93680984;7914;3755837;11;54
+r;93686859;7914;3755321;11;54
+r;93687431;7914;3755258;11;54
+r;93688395;7914;3755151;11;54
+r;93692086;7914;3754741;11;54
+r;93692393;7914;3754708;11;54
+r;93696673;7914;3754243;11;54
+r;93696687;7914;3754241;11;54
+r;93697090;7914;3754202;11;54
+r;93698077;7914;3754095;11;54
+r;93703262;7914;3753567;11;54
+r;93711182;7914;3752699;11;54
+r;93714050;7914;3752400;11;54
+r;93720460;7914;3751701;11;54
+r;93721575;7914;3751561;11;54
+r;31762353;7914;1970827;11;55
+r;33107725;7914;2297932;11;55
+r;33109903;7914;2242895;11;55
+r;33109909;7914;2242894;11;55
+r;33109913;7914;2242893;11;55
+r;50185305;7914;2362353;11;55
+r;55455870;7914;2603685;11;55
+r;77288957;7914;3186168;11;55
+r;83649748;7914;3318767;11;55
+r;83652454;7914;3318784;11;55
+r;86133174;7914;3371911;11;55
+r;86148815;7914;3369992;11;55
+r;86155037;7914;3369228;11;55
+r;86173246;7914;3367101;11;55
+r;86175189;7914;3366847;11;55
+r;86175235;7914;3366841;11;55
+r;86175423;7914;3366820;11;55
+r;86175531;7914;3366808;11;55
+r;86175724;7914;3366790;11;55
+r;86175794;7914;3366782;11;55
+r;86175892;7914;3366770;11;55
+r;86175902;7914;3366769;11;55
+r;86178532;7914;3366449;11;55
+r;86178689;7914;3366428;11;55
+r;86179727;7914;3366316;11;55
+r;86184831;7914;3365734;11;55
+r;86185076;7914;3365712;11;55
+r;86185651;7914;3365655;11;55
+r;86213856;7914;3362224;11;55
+r;86251721;7914;3361617;11;55
+r;93457927;7914;3743772;11;55
+r;93458099;7914;3743938;11;55
+r;93463120;7914;3744249;11;55
+r;93470693;7914;3744789;11;55
+r;93493226;7914;3746815;11;55
+r;93497351;7914;3746304;11;55
+r;93497790;7914;3746249;11;55
+r;93500698;7914;3745897;11;55
+r;93585580;7914;3751027;11;55
+r;93651399;7914;3758993;11;55
+r;93659192;7914;3758189;11;55
+r;93661863;7914;3757904;11;55
+r;93663749;7914;3757697;11;55
+r;93665329;7914;3757523;11;55
+r;93669292;7914;3757099;11;55
+r;93669468;7914;3757079;11;55
+r;93673557;7914;3756631;11;55
+r;93674057;7914;3756575;11;55
+r;93677153;7914;3756235;11;55
+r;93680719;7914;3755862;11;55
+r;93683853;7914;3755541;11;55
+r;93684165;7914;3755507;11;55
+r;93690064;7914;3754967;11;55
+r;93693668;7914;3754566;11;55
+r;93694166;7914;3754516;11;55
+r;93694628;7914;3754464;11;55
+r;93695174;7914;3754403;11;55
+r;93703826;7914;3753504;11;55
+r;93703852;7914;3753501;11;55
+r;93704752;7914;3753403;11;55
+r;93705278;7914;3753345;11;55
+r;93710665;7914;3752753;11;55
+r;93711791;7914;3752634;11;55
+r;93712655;7914;3752543;11;55
+r;93712699;7914;3752539;11;55
+r;93715020;7914;3752292;11;55
+r;93715797;7914;3752203;11;55
+r;93716334;7914;3752145;11;55
+r;93720550;7914;3751691;11;55
+r;93720563;7914;3751689;11;55
+r;93721274;7914;3751607;11;55
+r;103630162;7914;4939323;11;55
+r;16350959;7914;464187;11;56
+r;17542533;7914;571295;11;56
+r;23439873;7914;1383274;11;56
+r;31754891;7914;1970548;11;56
+r;31764113;7914;1970842;11;56
+r;52462936;7914;2528822;11;56
+r;86133166;7914;3371912;11;56
+r;86138993;7914;3371190;11;56
+r;86141983;7914;3370811;11;56
+r;86147527;7914;3370146;11;56
+r;86148149;7914;3370080;11;56
+r;86148192;7914;3370075;11;56
+r;86172862;7914;3367147;11;56
+r;86175139;7914;3366854;11;56
+r;86175199;7914;3366846;11;56
+r;86175409;7914;3366822;11;56
+r;86175429;7914;3366819;11;56
+r;86175437;7914;3366818;11;56
+r;86175564;7914;3366805;11;56
+r;86175599;7914;3366802;11;56
+r;86175847;7914;3366776;11;56
+r;86175865;7914;3366773;11;56
+r;86175926;7914;3366766;11;56
+r;86206198;7914;3363136;11;56
+r;86252483;7914;3361484;11;56
+r;88292542;7914;3486487;11;56
+r;93485929;7914;3745084;11;56
+r;93496411;7914;3746418;11;56
+r;93585197;7914;3751016;11;56
+r;93597563;7914;3751199;11;56
+r;93648692;7914;3759343;11;56
+r;93649329;7914;3759237;11;56
+r;93652699;7914;3758856;11;56
+r;93655568;7914;3758572;11;56
+r;93655966;7914;3758533;11;56
+r;93657623;7914;3758356;11;56
+r;93663190;7914;3757761;11;56
+r;93667462;7914;3757295;11;56
+r;93670356;7914;3756987;11;56
+r;93672270;7914;3756775;11;56
+r;93677754;7914;3756173;11;56
+r;93689628;7914;3755016;11;56
+r;93692334;7914;3754712;11;56
+r;93696813;7914;3754229;11;56
+r;93699451;7914;3753962;11;56
+r;93701402;7914;3753764;11;56
+r;93706037;7914;3753264;11;56
+r;93711624;7914;3752650;11;56
+r;93715351;7914;3752252;11;56
+r;93718394;7914;3751928;11;56
+r;93720145;7914;3751735;11;56
+r;95164081;7914;4053223;11;56
+r;18397649;7914;586291;11;57
+r;23439676;7914;1383273;11;57
+r;31833512;7914;1973833;11;57
+r;32524740;7914;1991034;11;57
+r;33109925;7914;2242890;11;57
+r;34661204;7914;2348361;11;57
+r;75216311;7914;3112729;11;57
+r;83632670;7914;3318453;11;57
+r;83640369;7914;3318512;11;57
+r;86135233;7914;3371637;11;57
+r;86137691;7914;3371332;11;57
+r;86143816;7914;3370586;11;57
+r;86148099;7914;3370086;11;57
+r;86153537;7914;3369410;11;57
+r;86154035;7914;3369354;11;57
+r;86166935;7914;3367858;11;57
+r;86169008;7914;3367607;11;57
+r;86175159;7914;3366851;11;57
+r;86175520;7914;3366809;11;57
+r;86175660;7914;3366797;11;57
+r;86175714;7914;3366791;11;57
+r;86175806;7914;3366780;11;57
+r;86176038;7914;3366750;11;57
+r;86183553;7914;3365868;11;57
+r;86195362;7914;3364586;11;57
+r;86199347;7914;3364019;11;57
+r;86201868;7914;3363695;11;57
+r;86259980;7914;3361994;11;57
+r;93457763;7914;3743837;11;57
+r;93469317;7914;3744707;11;57
+r;93471233;7914;3744672;11;57
+r;93484116;7914;3744978;11;57
+r;93499131;7914;3746089;11;57
+r;93585236;7914;3751050;11;57
+r;93588302;7914;3751131;11;57
+r;93631673;7914;3751498;11;57
+r;93632647;7914;3751222;11;57
+r;93651422;7914;3758992;11;57
+r;93652500;7914;3758878;11;57
+r;93654012;7914;3758730;11;57
+r;93656032;7914;3758525;11;57
+r;93656316;7914;3758497;11;57
+r;93657199;7914;3758399;11;57
+r;93661254;7914;3757973;11;57
+r;93662486;7914;3757836;11;57
+r;93663475;7914;3757725;11;57
+r;93663740;7914;3757698;11;57
+r;93664663;7914;3757597;11;57
+r;93666676;7914;3757378;11;57
+r;93667672;7914;3757273;11;57
+r;93668070;7914;3757233;11;57
+r;93672441;7914;3756756;11;57
+r;93673236;7914;3756662;11;57
+r;93674045;7914;3756576;11;57
+r;93674286;7914;3756554;11;57
+r;93679140;7914;3756028;11;57
+r;93690083;7914;3754965;11;57
+r;93691595;7914;3754800;11;57
+r;93693797;7914;3754552;11;57
+r;93694147;7914;3754518;11;57
+r;93696515;7914;3754256;11;57
+r;93698752;7914;3754034;11;57
+r;93699729;7914;3753932;11;57
+r;93699891;7914;3753915;11;57
+r;93703563;7914;3753535;11;57
+r;93709773;7914;3752855;11;57
+r;93711153;7914;3752701;11;57
+r;93718435;7914;3751923;11;57
+r;93718450;7914;3751922;11;57
+r;93719636;7914;3751787;11;57
+r;93720020;7914;3751748;11;57
+r;93721196;7914;3751618;11;57
+r;93722071;7914;3751330;11;57
+r;93985240;7914;3752852;11;57
+r;29235467;7914;1779725;11;58
+r;29914943;7914;1834252;11;58
+r;31779866;7914;1971620;11;58
+r;33109921;7914;2242891;11;58
+r;52463199;7914;2528262;11;58
+r;83636174;7914;3318398;11;58
+r;83642004;7914;3318661;11;58
+r;83651000;7914;3318841;11;58
+r;83651677;7914;3318755;11;58
+r;86130086;7914;3359387;11;58
+r;86137374;7914;3371374;11;58
+r;86137469;7914;3371362;11;58
+r;86138302;7914;3371262;11;58
+r;86143803;7914;3370587;11;58
+r;86156331;7914;3369067;11;58
+r;86157025;7914;3368989;11;58
+r;86157555;7914;3368936;11;58
+r;86157564;7914;3368935;11;58
+r;86160993;7914;3368570;11;58
+r;86169479;7914;3367550;11;58
+r;86174721;7914;3366909;11;58
+r;86175115;7914;3366858;11;58
+r;86175285;7914;3366836;11;58
+r;86175401;7914;3366823;11;58
+r;86175467;7914;3366815;11;58
+r;86175481;7914;3366813;11;58
+r;86175500;7914;3366811;11;58
+r;86175575;7914;3366804;11;58
+r;86175586;7914;3366803;11;58
+r;86175696;7914;3366793;11;58
+r;86175838;7914;3366777;11;58
+r;86176008;7914;3366755;11;58
+r;86176056;7914;3366748;11;58
+r;86180514;7914;3366213;11;58
+r;86183906;7914;3365835;11;58
+r;86184263;7914;3365797;11;58
+r;86203445;7914;3363506;11;58
+r;86227628;7914;3360152;11;58
+r;86233713;7914;3360608;11;58
+r;86236526;7914;3360805;11;58
+r;86253809;7914;3361569;11;58
+r;93460805;7914;3744168;11;58
+r;93469069;7914;3744696;11;58
+r;93485733;7914;3745042;11;58
+r;93585343;7914;3750998;11;58
+r;93586623;7914;3750965;11;58
+r;93629242;7914;3751402;11;58
+r;93631664;7914;3751461;11;58
+r;93653886;7914;3758745;11;58
+r;93658487;7914;3758264;11;58
+r;93661136;7914;3757986;11;58
+r;93662611;7914;3757824;11;58
+r;93665919;7914;3757461;11;58
+r;93667058;7914;3757336;11;58
+r;93668033;7914;3757237;11;58
+r;93668724;7914;3757161;11;58
+r;93670966;7914;3756924;11;58
+r;93671879;7914;3756823;11;58
+r;93678754;7914;3756067;11;58
+r;93680138;7914;3755918;11;58
+r;93683737;7914;3755553;11;58
+r;93683821;7914;3755544;11;58
+r;93684044;7914;3755518;11;58
+r;93686030;7914;3755406;11;58
+r;93690756;7914;3754890;11;58
+r;93697557;7914;3754154;11;58
+r;93699405;7914;3753968;11;58
+r;93705291;7914;3753344;11;58
+r;93707588;7914;3753097;11;58
+r;93709430;7914;3752897;11;58
+r;93709715;7914;3752863;11;58
+r;93711480;7914;3752665;11;58
+r;93714261;7914;3752376;11;58
+r;93716301;7914;3752149;11;58
+r;93716607;7914;3752115;11;58
+r;93718496;7914;3751917;11;58
+r;93719622;7914;3751788;11;58
+r;93720988;7914;3751645;11;58
+r;93984827;7914;3757209;11;58
+r;17695997;7914;573007;11;59
+r;29214650;7914;1778825;11;59
+r;29222115;7914;1779550;11;59
+r;33107737;7914;2297822;11;59
+r;33109929;7914;2242889;11;59
+r;34310715;7914;2339814;11;59
+r;34535062;7914;2346766;11;59
+r;52452953;7914;2549538;11;59
+r;75985283;7914;3159847;11;59
+r;83633463;7914;3318403;11;59
+r;86133198;7914;3371909;11;59
+r;86148845;7914;3369988;11;59
+r;86162007;7914;3368452;11;59
+r;86165190;7914;3368076;11;59
+r;86169854;7914;3367505;11;59
+r;86171345;7914;3367312;11;59
+r;86175094;7914;3366860;11;59
+r;86175211;7914;3366844;11;59
+r;86175265;7914;3366838;11;59
+r;86175343;7914;3366830;11;59
+r;86175509;7914;3366810;11;59
+r;86175742;7914;3366788;11;59
+r;86175782;7914;3366783;11;59
+r;86175932;7914;3366765;11;59
+r;86175962;7914;3366761;11;59
+r;86176020;7914;3366753;11;59
+r;86176044;7914;3366749;11;59
+r;86183769;7914;3365850;11;59
+r;86184610;7914;3365756;11;59
+r;86188935;7914;3365343;11;59
+r;86214690;7914;3362147;11;59
+r;86253001;7914;3361710;11;59
+r;86259191;7914;3361901;11;59
+r;88292768;7914;3486488;11;59
+r;93466516;7914;3744510;11;59
+r;93494910;7914;3746606;11;59
+r;93597389;7914;3750975;11;59
+r;93585641;7914;3751025;11;59
+r;93622826;7914;3751331;11;59
+r;93630444;7914;3751460;11;59
+r;93649286;7914;3759240;11;59
+r;93650914;7914;3759046;11;59
+r;93651201;7914;3759012;11;59
+r;93651771;7914;3758957;11;59
+r;93652970;7914;3758829;11;59
+r;93653369;7914;3758792;11;59
+r;93654008;7914;3758731;11;59
+r;93656631;7914;3758463;11;59
+r;93661613;7914;3757931;11;59
+r;93664154;7914;3757653;11;59
+r;93668270;7914;3757210;11;59
+r;93673326;7914;3756653;11;59
+r;93680522;7914;3755882;11;59
+r;93682266;7914;3755701;11;59
+r;93683770;7914;3755549;11;59
+r;93687815;7914;3755210;11;59
+r;93690136;7914;3754958;11;59
+r;93702870;7914;3753610;11;59
+r;93706162;7914;3753251;11;59
+r;93711356;7914;3752679;11;59
+r;93713105;7914;3752496;11;59
+r;93714984;7914;3752295;11;59
+r;93716779;7914;3752097;11;59
+r;93716858;7914;3752089;11;59
+r;93721421;7914;3751583;11;59
+r;93721477;7914;3751576;11;59
+r;93985266;7914;3752645;11;59
+r;93985296;7914;3752309;11;59
+r;103224402;7914;4931194;11;59
+r;108808538;7914;5518923;11;59
+r;33109917;7914;2242892;11;60
+r;83662541;7914;3321262;11;60
+r;86130318;7914;3359483;11;60
+r;86132934;7914;3371947;11;60
+r;86166803;7914;3367873;11;60
+r;86170402;7914;3367439;11;60
+r;86175147;7914;3366853;11;60
+r;86175153;7914;3366852;11;60
+r;86175229;7914;3366842;11;60
+r;86175337;7914;3366831;11;60
+r;86175351;7914;3366829;11;60
+r;86175544;7914;3366807;11;60
+r;86175623;7914;3366800;11;60
+r;86175634;7914;3366799;11;60
+r;86175651;7914;3366798;11;60
+r;86175669;7914;3366796;11;60
+r;86175705;7914;3366792;11;60
+r;86175758;7914;3366786;11;60
+r;86175859;7914;3366774;11;60
+r;86178015;7914;3366509;11;60
+r;86180331;7914;3366235;11;60
+r;86183580;7914;3365864;11;60
+r;86187436;7914;3365489;11;60
+r;86191759;7914;3365034;11;60
+r;86199018;7914;3364061;11;60
+r;86211447;7914;3362506;11;60
+r;86211901;7914;3362445;11;60
+r;86215285;7914;3361775;11;60
+r;86220458;7914;3373445;11;60
+r;86228676;7914;3360273;11;60
+r;86253035;7914;3361550;11;60
+r;86254100;7914;3361537;11;60
+r;86254907;7914;3361723;11;60
+r;92519127;7914;3706482;11;60
+r;93487387;7914;3745108;11;60
+r;93487678;7914;3744970;11;60
+r;93491377;7914;3745430;11;60
+r;93501456;7914;3745810;11;60
+r;93622057;7914;3751283;11;60
+r;93648496;7914;3759363;11;60
+r;93651164;7914;3759019;11;60
+r;93651604;7914;3758974;11;60
+r;93652690;7914;3758857;11;60
+r;93656107;7914;3758519;11;60
+r;93661767;7914;3757914;11;60
+r;93661965;7914;3757892;11;60
+r;93662077;7914;3757883;11;60
+r;93662414;7914;3757844;11;60
+r;93662539;7914;3757829;11;60
+r;93663939;7914;3757675;11;60
+r;93664176;7914;3757650;11;60
+r;93668744;7914;3757159;11;60
+r;93669529;7914;3757073;11;60
+r;93670858;7914;3756933;11;60
+r;93672962;7914;3756693;11;60
+r;93674092;7914;3756572;11;60
+r;93674558;7914;3756526;11;60
+r;93675262;7914;3756449;11;60
+r;93679221;7914;3756019;11;60
+r;93683839;7914;3755542;11;60
+r;93686153;7914;3755393;11;60
+r;93686962;7914;3755309;11;60
+r;93688630;7914;3755123;11;60
+r;93688918;7914;3755093;11;60
+r;93690943;7914;3754873;11;60
+r;93695782;7914;3754341;11;60
+r;93701131;7914;3753791;11;60
+r;93703442;7914;3753545;11;60
+r;93712758;7914;3752534;11;60
+r;93714860;7914;3752307;11;60
+r;93716973;7914;3752076;11;60
+r;93718577;7914;3751910;11;60
+r;93718605;7914;3751906;11;60
+r;93718774;7914;3751884;11;60
+r;93720384;7914;3751708;11;60
+r;93984792;7914;3757501;11;60
+r;93985248;7914;3752783;11;60
+r;76367754;7914;3173309;11;61
+r;63687428;7914;2776009;11;66
+r;74947061;7914;3049228;11;66
+r;29904477;7914;1841254;11;67
+r;12564371;7914;384275;11;101
+r;12622195;7914;370053;11;101
+r;12622277;7914;370037;11;102
+r;12652085;7914;362599;11;102
+r;12622213;7914;370050;11;103
+r;13090678;7914;392003;11;103
+r;12546645;7914;388831;11;104
+r;12565945;7914;383894;11;104
+r;12622235;7914;370045;11;104
+r;12721047;7914;345851;11;104
+r;12744667;7914;340161;11;104
+r;12762231;7914;335862;11;104
+r;12546641;7914;388832;11;105
+r;12741397;7914;340942;11;105
+r;12622203;7914;370052;11;106
+r;12622231;7914;370046;11;106
+r;12637785;7914;366113;11;106
+r;12699309;7914;351031;11;106
+r;12622273;7914;370038;11;107
+r;12594689;7914;376821;11;108
+r;12622187;7914;370054;11;108
+r;12622177;7914;370055;11;109
+r;12622217;7914;370049;11;109
+r;12754589;7914;337787;11;109
+r;12615637;7914;371643;11;110
+r;12622163;7914;370059;11;110
+r;12682821;7914;355082;11;110
+r;12063614;7914;331049;11;113
+r;11867081;7914;76225;11;121
+r;11869762;7914;57814;11;121
+r;11852285;7914;222454;11;122
+r;11852314;7914;222249;11;122
+r;11853985;7914;179172;11;122
+r;11854016;7914;179159;11;122
+r;11857307;7914;149638;11;122
+r;8690817;7914;217912;11;160
+r;8693653;7914;222262;11;160
+r;8698843;7914;230263;11;160
+r;8726928;7914;260457;11;160
+r;8630836;7914;167071;11;161
+r;8686202;7914;211127;11;161
+r;8694477;7914;223680;11;161
+r;8696534;7914;226906;11;161
+r;8702125;7914;234530;11;161
+r;8707301;7914;241995;11;161
+r;8709764;7914;246010;11;161
+r;8711015;7914;247516;11;161
+r;8723303;7914;257933;11;161
+r;8723305;7914;257934;11;161
+r;8723307;7914;257935;11;161
+r;8729448;7914;262570;11;161
+r;8730481;7914;263316;11;161
+r;8600519;7914;89795;11;162
+r;8621182;7914;143963;11;162
+r;8626274;7914;159354;11;162
+r;8628706;7914;163985;11;162
+r;8629072;7914;164547;11;162
+r;8629394;7914;165057;11;162
+r;8634119;7914;171643;11;162
+r;8672660;7914;202884;11;162
+r;8672703;7914;202909;11;162
+r;8672704;7914;202910;11;162
+r;8689555;7914;214918;11;162
+r;8734018;7914;266392;11;162
+r;8742866;7914;274948;11;162
+r;8574604;7914;13963;11;163
+r;8585981;7914;47820;11;163
+r;8588207;7914;54028;11;163
+r;8596597;7914;78530;11;163
+r;8623121;7914;153103;11;163
+r;8646016;7914;186077;11;163
+r;8653702;7914;191322;11;163
+r;8660043;7914;195552;11;163
+r;8676397;7914;205128;11;163
+r;8676990;7914;205485;11;163
+r;8676992;7914;205486;11;163
+r;8676994;7914;205487;11;163
+r;8733260;7914;265595;11;163
+r;8734731;7914;266917;11;163
+r;8735492;7914;267583;11;163
+r;8740240;7914;272630;11;163
+r;8743440;7914;275552;11;163
+r;8752432;7914;285192;11;163
+r;8753530;7914;286263;11;163
+r;8759538;7914;291739;11;163
+r;8765851;7914;299059;11;163
+r;8768924;7914;302462;11;163
+r;8578156;7914;24727;11;164
+r;8654383;7914;191886;11;164
+r;8667521;7914;199933;11;164
+r;8663960;7914;197784;11;165
+r;8664831;7914;198289;11;165
+r;8571959;7914;6003;11;168

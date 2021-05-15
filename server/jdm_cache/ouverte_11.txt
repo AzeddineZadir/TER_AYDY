@@ -1,0 +1,1686 @@
+
+e;153164;'ouverte';1;434
+e;6294437;'lésion du péritoine sans mention de plaie ouverte de la cavité';1;0
+e;6292150;'partie non précisée fracture ouverte de la branche montante de la mandibule';1;0
+e;6290203;'avec plaie ouverte du thorax lésion du coeur';1;0
+e;6291315;'débridement de fracture ouverte du radius et du cubitus';1;0
+e;6291596;'sans perte de connaissance déchirure corticale avec plaie intracrânienne ouverte';1;0
+e;6295039;'débridement de fracture ouverte du pied';1;0
+e;6297121;'débridement de fracture ouverte du carpe ou du métacarpe';1;0
+e;6302116;'apophyse coronoïde fracture ouverte de la mandibule';1;0
+e;6303289;'débridement de fracture ouverte du tibia et du péroné';1;0
+e;6303327;'avec plaie ouverte du thorax lésion du coeur non précisée';1;0
+e;6306938;'sans perte de connaissance autre fracture ouverte du crâne sans mention de lésion intracrânienne';1;0
+e;6307329;'site non précisé luxation ouverte d'une vertèbre';1;0
+e;6309686;'laryngoplastie avec réduction ouverte de fracture';1;0
+e;6309651;'rhinolalie ouverte';1;0
+e;6347607;'débridement de fracture ouverte du crâne';1;0
+e;6321151;'lésions traumatiques multiples des organes intrathoraciques avec plaie ouverte dans la cavité thoracique';1;0
+e;6330024;'parage de fracture ouverte';1;0
+e;6330330;'septectomie auriculaire ouverte avec occlusion de la chambre d'entrée';1;0
+e;6342686;'pneumothorax traumatique avec plaie ouverte de la cavité thoracique';1;0
+e;6350791;'pneumothorax traumatique sans plaie ouverte de la cavité thoracique';1;0
+e;6357631;'arthrotomie avec réparation ouverte de ménisque';1;0
+e;6363320;'pneumothorax traumatique avec plaie thoracique ouverte';1;0
+e;6367797;'thoracotomie majeure avec pneumolyse intrapleurale ouverte';1;0
+e;6369517;'hémopneumothorax traumatique avec plaie ouverte de la cavité thoracique';1;0
+e;6379976;'pneumothorax traumatique sans mention de plaie thoracique ouverte';1;0
+e;6384671;'hématome de la rate, sans rupture de capsule, sans mention de plaie ouverte de la cavité';1;0
+e;6387451;'sans mention de plaie ouverte du thorax lésion du poumon';1;0
+e;6399125;'débridement de fracture ouverte de la main';1;0
+e;6405350;'sans perte de connaissance autre fracture ouverte du crâne avec déchirure et contusion cérébrales';1;0
+e;6415099;'débridement de fracture ouverte du tarse et du métatarse';1;0
+e;6415513;'débridement de fracture ouverte des phalanges du pied';1;0
+e;6419091;'site non précisé luxation ouverte du coude';1;0
+e;6293416;'avec complication, plaie ouverte du visage';1;0
+e;6416313;'avec complication, plaie ouverte de la vulve';1;0
+e;6372822;'avec complication, plaie ouverte de la hanche et de la cuisse';1;0
+e;6390202;'avec complication, plaie ouverte de sites multiples';1;0
+e;6360050;'sans mention de complication, plaie ouverte d'autres sites multiples de l'oreille';1;0
+e;6323872;'avec complication, plaie ouverte du cuir chevelu';1;0
+e;6400955;'avec complication, plaie ouverte de la région axillaire';1;0
+e;6323076;'débridement de fracture ouverte des phalanges de la main';1;0
+e;6319423;'débridement de fracture ouverte du cubitus';1;0
+e;6340066;'débridement de fracture ouverte du péroné';1;0
+e;6309737;'débridement de fracture ouverte de la jambe';1;0
+e;6393244;'débridement de fracture ouverte du radius';1;0
+e;6400940;'débridement de fracture ouverte du bras';1;0
+e;11154523;'semi-ouverte';1;0
+e;6389652;'ouverte fracture du pubis';1;0
+e;6407581;'pneumohémothorax traumatique avec plaie ouverte du thorax';1;0
+e;6304478;'hématome et contusion du foie avec plaie ouverte de la cavité';1;0
+e;6288395;'hématome et contusion du foie sans mention de plaie ouverte de la cavité';1;0
+e;6349762;'sans mention de complication, plaie ouverte du pénis';1;0
+e;6384491;'sans complication, plaie ouverte d'une partie non précisée de l'oreille';1;0
+e;6402756;'sans mention de complication, plaie ouverte du cuir chevelu';1;0
+e;6377790;'hémothorax traumatique avec plaie ouverte du thorax';1;0
+e;14119621;'Une lettre ouverte aux bricoleurs';777;0
+e;14159851;'être la porte ouverte à';1;0
+e;6411088;'lacération du coeur sans pénétration des chambres cardiaques ni plaie ouverte du thorax';1;0
+e;14452328;'zone ouverte à urbanisation';1;0
+e;14580442;'renseignement d'origine sources ouverte';777;0
+e;6402624;'lésion d'autres organes intra-thoraciques avec plaie ouverte de la cavité';1;0
+e;6402792;'traumatisme cérébral avec plaie intracrânienne ouverte et état de conscience non précisé';1;0
+e;6332289;'rupture massive du parenchyme de la rate avec plaie ouverte de la cavité';1;0
+e;6399329;'lésion d'autres organes intra-abdominaux multiples sans mention de plaie ouverte de la cavité';1;0
+e;6386955;'lésion de sites multiples du côlon et du rectum sans plaie ouverte de la cavité';1;0
+e;6408191;'déchirure du cervelet ou du tronc cérébral sans mention de plaie intracrânienne ouverte';1;0
+e;6333751;'rupture massive du parenchyme de la rate sans mention de plaie ouverte de la cavité';1;0
+e;6409666;'lésion du côlon descendant sans plaie ouverte de la cavité';1;0
+e;6329470;'lacération cérébelleuse avec plaie intracrânienne ouverte et état de conscience non précisé';1;0
+e;6381754;'lésion d'un organe pelvien non précisé avec plaie ouverte de la cavité';1;0
+e;6369824;'lésion du rectum sans plaie ouverte de la cavité';1;0
+e;6395738;'lésion du côlon ou du rectum sans mention de plaie ouverte de la cavité';1;0
+e;6334327;'lésion intracrânienne de nature autre et non précisée avec plaie intracrânienne ouverte';1;0
+e;6407147;'lésion due à un corps étranger superficiel d'une localisation non précisée sans plaie ouverte importante ni infection';1;0
+e;6284358;'lésion due à un corps étranger superficiel de la jambe sans plaie ouverte importante ni infection';1;0
+e;6288785;'capsule ouverte';1;0
+e;6309327;'lésion d'autres organes intra-thoraciques sans mention de plaie ouverte de la cavité';1;0
+e;6310114;'lésion d'autres organes intra-abdominaux sans mention de plaie ouverte de la cavité';1;0
+e;6315247;'lésion de la rate sans mention de plaie ouverte de la cavité';1;0
+e;6315151;'avec complication, plaie ouverte d'autres sites multiples de l'oreille';1;0
+e;6317258;'lésion de sites gastro-intestinaux autres et non précisés sans plaie ouverte de la cavité';1;0
+e;6318600;'lésion de la queue du pancréas sans mention de plaie ouverte de la cavité';1;0
+e;6319755;'lacération du rein sans mention de plaie ouverte de la cavité';1;0
+e;6321351;'lésion de la rate avec plaie ouverte de la cavité';1;0
+e;6340327;'lésion d'un organe pelvien non précisé sans mention de plaie ouverte de la cavité';1;0
+e;6349245;'lésion du duodénum sans plaie ouverte de la cavité';1;0
+e;6348941;'lacération non précisée lésion du foie sans mention de plaie ouverte de la cavité';1;0
+e;6352866;'lésion d'une bronche avec plaie ouverte de la cavité';1;0
+e;6355483;'lésion intracrânienne d'origine autre et non précisée sans mention de plaie intracrânienne ouverte';1;0
+e;6356201;'lésion d'autres organes intra-abdominaux avec plaie ouverte de la cavité';1;0
+e;6367812;'lésion d'autres organes pelviens précisés sans mention de plaie ouverte de la cavité';1;0
+e;6368728;'lésion du côlon ascendant avec plaie ouverte de la cavité';1;0
+e;6371927;'lésion de la glande surrénale sans mention de plaie ouverte de la cavité';1;0
+e;6377328;'lésion du côlon sigmoïde sans plaie ouverte de la cavité';1;0
+e;6385143;'articulation non précisée luxation ouverte du métatarse';1;0
+e;6421475;'lacération du tronc cérébral avec plaie intracrânienne ouverte et état de conscience non précisé';1;0
+e;6421154;'lésion des voies et de la vésicule biliaires sans mention de plaie ouverte de la cavité';1;0
+e;11060185;'pré-ouverte';1;0
+e;16087172;'université ouverte des humanités';777;0
+e;6433682;'ostéotomie de l'os iliaque avec réduction ouverte de la hanche';1;0
+e;6433196;'plaie ouverte d'autres parties de l'avant-bras';1;0
+e;6432899;'lésion due à un corps étranger superficiel de l'anus sans plaie ouverte importante ni infection';1;0
+e;6432812;'réduction ouverte de fracture de l'humérus sans fixation interne';1;0
+e;6431086;'luxation ouverte d'une phalange du pied';1;0
+e;6430724;'ostéotomie ouverte de la branche mandibulaire';1;0
+e;6428186;'fracture transverse ouverte';1;0
+e;6426249;'luxation ouverte de la colonne vertébrale';1;0
+e;6425282;'lésion du diaphragme sans mention de plaie ouverte de la cavité';1;0
+e;6423064;'plaie ouverte du pied';1;0
+e;6422812;'réduction ouverte de fracture ouverte du sacrum';1;0
+e;6421931;'luxation ouverte de sites multiples et mal définis';1;0
+e;6347485;'avec plaie ouverte de la cavité lacération mineure du foie';1;0
+e;6288880;'ouverte fracture du sternum';1;0
+e;6294541;'site non précisé sans complication plaie ouverte de la bouche';1;0
+e;6297344;'site non précisé sans complication plaie ouverte de l'oreille externe';1;0
+e;6297117;'site non précisé luxation ouverte de la hanche';1;0
+e;6300583;'sans rupture de capsule sans mention de plaie ouverte de la cavité hématome du rein';1;0
+e;6302078;'sans plaie ouverte du thorax lésion du poumon non précisée';1;0
+e;6308958;'sans mention de plaie intracrânienne ouverte commotion';1;0
+e;6311341;'sans plaie ouverte du thorax contusion du poumon';1;0
+e;6311294;'ouverte fracture des côtes';1;0
+e;6312837;'apophyse condylienne fracture ouverte de la mandibule';1;0
+e;6319895;'sans mention de plaie ouverte du thorax contusion du coeur';1;0
+e;6323083;'avec plaie ouverte de la cavité lacération majeure du foie';1;0
+e;6324112;'sans mention de plaie ouverte de la cavité lacération mineure du foie';1;0
+e;6326352;'site non précisé sans complication plaie ouverte du visage';1;0
+e;6331795;'avec plaie ouverte du thorax lacération du coeur sans pénétration des chambres cardiaques';1;0
+e;6332236;'niveau non précisé fracture ouverte d'une vertèbre cervicale';1;0
+e;6334118;'lésions traumatiques multiples des organes intrathoraciques sans plaie ouverte de la cavité thoracique';1;0
+e;6334374;'site non précisé sans mention de plaie ouverte de la cavité lésion du côlon';1;0
+e;6340376;'sans mention de plaie ouverte du thorax lésion du coeur';1;0
+e;6346793;'effet tardif d'une plaie ouverte des membres sans mention de lésion tendineuse';1;0
+e;6348884;'sans plaie ouverte du thorax lésion du coeur';1;0
+e;6352763;'sans mention de plaie intracrânienne ouverte lacération et contusion cérébrales';1;0
+e;6353355;'avec commotion non précisée contusion corticale avec plaie intracrânienne ouverte';1;0
+e;6356712;'ouverte luxation de la rotule';1;0
+e;6359454;'avec plaie ouverte de la cavité lésion des voies et de la vésicule biliaires';1;0
+e;6359294;'sans mention de plaie intracrânienne ouverte hémorragie sous-arachnoïdienne à la suite d'une lésion';1;0
+e;6362082;'sans mention de plaie ouverte du thorax lésion du coeur non précisée';1;0
+e;6370889;'sans rupture de capsule avec plaie ouverte de la cavité hématome du rein';1;0
+e;6371784;'sans perte de connaissance contusion corticale avec plaie intracrânienne ouverte';1;0
+e;6387243;'fractures du crâne avec embarrure ouverte';1;0
+e;6389287;'autre siège de luxation ouverte';1;0
+e;6402807;'sans rupture de capsule avec plaie ouverte de la cavité hématome de la rate';1;0
+e;6405960;'condylotomie ouverte de la mandibule';1;0
+e;6419134;'sans mention de plaie ouverte de la cavité lacération modérée du foie';1;0
+e;6421488;'sans mention de plaie ouverte de la cavité lacération de la rate jusqu'au parenchyme';1;0
+e;6401606;'avec atteinte tendineuse, plaie ouverte de la hanche et de la cuisse';1;0
+e;6381075;'avec atteinte tendineuse, plaie ouverte de la région axillaire';1;0
+e;6334738;'sans complication, plaie ouverte de la trachée';1;0
+e;6368892;'sans complication, plaie ouverte de la joue';1;0
+e;6348906;'sans complication, plaie ouverte provenant d'une dent cassée';1;0
+e;6374479;'sans complication, plaie ouverte du pavillon de l'oreille';1;0
+e;6401793;'sans complication, plaie ouverte de la caisse du tympan';1;0
+e;6403136;'avec complication, plaie ouverte d'autres parties précisées de l'oreille';1;0
+e;6288105;'avec complication, plaie ouverte de la cochlée';1;0
+e;6292518;'avec complication, plaie ouverte d'un sinus nasal';1;0
+e;6303725;'avec complication, plaie ouverte de la lèvre';1;0
+e;6387369;'avec complication, plaie ouverte d'une partie non précisée de l'oreille';1;0
+e;6355156;'avec complication, plaie ouverte de la région scapulaire';1;0
+e;6388379;'avec complication, plaie ouverte de la paroi abdominale latérale';1;0
+e;6377025;'avec complication, plaie ouverte du coude';1;0
+e;6361756;'avec complication, plaie ouverte de l'oreille externe';1;0
+e;6378798;'avec complication, plaie ouverte du vagin';1;0
+e;6384466;'avec complication, plaie ouverte de la cavité nasale';1;0
+e;6301829;'avec complication, plaie ouverte du palais';1;0
+e;6332146;'sans mention de complication, plaie ouverte de la paroi abdominale antérieure';1;0
+e;6326928;'sans mention de complication, plaie ouverte d'autres parties de l'oreille';1;0
+e;6401770;'sans complication, plaie ouverte du larynx';1;0
+e;6365057;'sans complication, plaie ouverte du front';1;0
+e;6285320;'avec complication, plaie ouverte du nez';1;0
+e;6410110;'sans mention de complication, plaie ouverte de la hanche et de la cuisse';1;0
+e;6318305;'sans mention de complication, plaie ouverte de parties autres et non précisées des organes génitaux';1;0
+e;6331199;'sans mention de complication, plaie ouverte de l'oreille externe';1;0
+e;6376568;'avec complication, plaie ouverte du dos';1;0
+e;6415373;'avec complication, plaie ouverte de la gencive';1;0
+e;6359535;'sans mention de complication, plaie ouverte des doigts';1;0
+e;6326765;'sans mention de complication, plaie ouverte du bras supérieur';1;0
+e;6300552;'sans mention de complication, plaie ouverte de parties autres et non précisées du cou';1;0
+e;6388260;'avec complication, plaie ouverte de sites autres et multiples';1;0
+e;6300266;'sans mention de complication, plaie ouverte de la fesse';1;0
+e;6289733;'sans mention de complication, plaie ouverte du poignet';1;0
+e;6301795;'sans mention de complication, plaie ouverte de la paroi abdominale latérale';1;0
+e;6343507;'avec complication, plaie ouverte du sein';1;0
+e;6391203;'sans complication, plaie ouverte de la gencive';1;0
+e;6361867;'sans mention de complication, plaie ouverte du scrotum et des testicules';1;0
+e;6377129;'avec complication, plaie ouverte du larynx';1;0
+e;6326738;'sans complication, plaie ouverte de sites multiples';1;0
+e;6316928;'sans complication, plaie ouverte de la cochlée';1;0
+e;6396423;'sans mention de complication, plaie ouverte de la tête autre et non précisée';1;0
+e;6354950;'sans complication, plaie ouverte de la cloison nasale';1;0
+e;6416364;'avec complication, plaie ouverte de la joue';1;0
+e;6339220;'sans mention de complication, plaie ouverte du coude';1;0
+e;6329036;'sans complication, plaie ouverte de la muqueuse buccale';1;0
+e;6292615;'sans mention de complication, plaie ouverte d'autres sites multiples de la tête';1;0
+e;6292299;'sans mention de complication, plaie ouverte du larynx et de la trachée';1;0
+e;6421115;'sans mention de complication, plaie ouverte du dos';1;0
+e;6411378;'sans mention de complication, plaie ouverte de parties autres et non précisées du tronc';1;0
+e;6336691;'avec complication, plaie ouverte du bras supérieur';1;0
+e;6308704;'sans complication, plaie ouverte de la langue et du plancher de la bouche';1;0
+e;6349000;'sans complication, plaie ouverte d'un sinus nasal';1;0
+e;6295353;'sans complication, plaie ouverte de sites autres et multiples';1;0
+e;6337095;'sans mention de complication, plaie ouverte de la région scapulaire';1;0
+e;6292000;'sans mention de complication, plaie ouverte du sein';1;0
+e;6308120;'sans mention de complication, plaie ouverte des orteils';1;0
+e;6308856;'non précisée, fracture ouverte d'un os du carpe';1;0
+e;6418740;'non précisée, fracture ouverte de côtes multiples';1;0
+e;12988354;'base de données ouverte';777;0
+e;13737776;'réduction ouverte de luxation acromio-claviculaire ouverte, chronique';1;0
+e;6345868;'non précisée, ouverte fracture du bassin';1;0
+e;14257758;'dormir la fenêtre ouverte';1;10
+e;14671067;'déclarer la séance ouverte';1;0
+e;6288214;'lésion du rectum avec plaie ouverte de la cavité';1;0
+e;6288721;'lésion non précisée du rein avec plaie ouverte de la cavité';1;0
+e;6364851;'articulation non précisée luxation ouverte du tarse';1;0
+e;6359889;'autre lésion de la rate avec plaie ouverte de la cavité';1;0
+e;6441204;'fracture ouverte de l'olécrâne';1;0
+e;6441137;'réduction ouverte de fracture isolée du plancher de l'orbite par voie périorbitaire';1;0
+e;6441100;'réduction fermée ou ouverte d'une luxation de l'articulation métatarso-phalangienne';1;0
+e;6440357;'plaie ouverte de l'ongle du pouce avec complication';1;0
+e;6438809;'plaie ouverte de l'ongle du doigt avec atteinte des tendons';1;0
+e;6438696;'fracture ouverte de l'os pisiforme du poignet';1;0
+e;6438689;'luxation antérieure ouverte de l'extrémité distale du fémur';1;0
+e;6435658;'lésion de l'uretère sans mention de plaie ouverte de la cavité';1;0
+e;6434661;'fracture ouverte d'une partie non précisée de l'avant-bras';1;0
+e;6434186;'plaie ouverte de la région de l'épaule avec atteinte des tendons';1;0
+e;6433939;'lésion interne d'organes non précisés ou mal définis avec plaie ouverte de la cavité';1;0
+e;6433664;'fracture ouverte d'une partie non précisée de l'humérus';1;0
+e;6432005;'fracture ouverte d'os du métatarse';1;0
+e;6429875;'contusion du cortex cérébral sans plaie intracrânienne ouverte ni perte de conscience';1;0
+e;6426223;'plaie ouverte des grandes et petites lèvres vulvaires sans complication';1;0
+e;6426065;'luxation obturatrice ouverte de la hanche';1;0
+e;6285882;'site non précisé sans plaie ouverte de la cavité lésion des voies gastro-intestinales';1;0
+e;6290423;'autre lésion du côlon et du rectum sans plaie ouverte de la cavité';1;0
+e;6298248;'autre lésion du côlon et du rectum avec plaie ouverte de la cavité';1;0
+e;6299542;'avec plaie intracrânienne ouverte lacération et contusion cérébrales';1;0
+e;6310371;'ouverte fracture du larynx et de la trachée';1;0
+e;6311885;'avec plaie intracrânienne ouverte hémorragie extradurale à la suite d'une lésion';1;0
+e;6313964;'multiples et de sites non précisés sans plaie ouverte de la cavité lésions du pancréas';1;0
+e;6319991;'avec commotion non précisée déchirure corticale avec plaie intracrânienne ouverte';1;0
+e;6328216;'petite plaie ouverte';1;0
+e;6343046;'autre plaie ouverte de la tête';1;0
+e;6351775;'autre fracture ouverte du crâne avec lésion intracrânienne de nature autre et non précisée';1;0
+e;6363076;'autre lésion du foie sans mention de plaie ouverte de la cavité';1;0
+e;6364115;'autre vertèbre luxation ouverte';1;0
+e;6369349;'avec état de connaissance non précisé autre fracture ouverte du crâne sans mention de lésion';1;0
+e;6370217;'grande plaie ouverte';1;0
+e;6371840;'autre luxation antérieure ouverte de la hanche';1;0
+e;6382347;'multiples et de sites non précisés avec plaie ouverte de la cavité lésions du pancréas';1;0
+e;6386765;'ouverte autre luxation précisée du genou';1;0
+e;6386689;'site non précisé avec plaie ouverte de la cavité lésion des voies gastro-intestinales';1;0
+e;6402866;'autre fracture ouverte du crâne avec déchirure et contusion cérébrales';1;0
+e;6405204;'avec plaie intracrânienne ouverte commotion';1;0
+e;6412266;'ouverte fracture d'une ou plusieurs phalanges du pied';1;0
+e;6417599;'sites multiples et mal définis luxation ouverte';1;0
+e;6419919;'autre site luxation ouverte';1;0
+e;6335874;'avec atteinte tendineuse, plaie ouverte du pied seul';1;0
+e;6346314;'avec complication, plaie ouverte de la langue et du plancher de la bouche';1;0
+e;6365027;'avec complication, plaie ouverte de parties autres et non précisées des organes génitaux';1;0
+e;6325537;'avec complication, plaie ouverte de parties autres et non précisées du cou';1;0
+e;6336827;'avec complication, plaie ouverte de la fesse';1;0
+e;6351952;'avec complication, plaie ouverte du scrotum et des testicules';1;0
+e;6416314;'avec complication, plaie ouverte de la tête autre et non précisée';1;0
+e;6379766;'avec complication, plaie ouverte des structures internes de la bouche';1;0
+e;6391756;'avec complication, plaie ouverte provenant d'une dent cassée';1;0
+e;6417450;'avec complication, plaie ouverte de la paroi abdominale antérieure';1;0
+e;6397232;'avec complication, plaie ouverte du poignet';1;0
+e;6400463;'avec complication, plaie ouverte de la muqueuse buccale';1;0
+e;6368652;'non précisée, fracture ouverte du corps du radius et du cubitus';1;0
+e;6406960;'non précisée, fracture ouverte d'une ou des phalanges de la main';1;0
+e;6440968;'luxation ouverte de l'articulation carpo-métacarpienne du poignet';1;0
+e;6438987;'réduction ouverte de luxation ouverte de l'épaule avec fracture de la grosse tubérosité';1;0
+e;6438104;'luxation ouverte de l'astragale';1;0
+e;6437980;'luxation interne ouverte de l'extrémité proximale du tibia';1;0
+e;6435757;'réduction ouverte de luxation de l'articulation tibio-péronière proximale avec fixation';1;0
+e;6434830;'ténotomie ouverte de l'abducteur de la hanche';1;0
+e;6434478;'luxation ouverte de l'articulation métacarpo-phalangienne d'un doigt';1;0
+e;6434430;'plaie ouverte de l'hypochondre sans complication';1;0
+e;6433329;'luxation ouverte de l'articulation radio-ulnaire distale du poignet';1;0
+e;6431201;'plaie ouverte du flanc avec complication';1;0
+e;6430824;'lésion du corps du pancréas sans mention de plaie ouverte de la cavité';1;0
+e;6428584;'sans complication, plaie ouverte de la mâchoire';1;0
+e;6428254;'foyer non précisé fracture ouverte de la mandibule';1;0
+e;6427612;'lésion du diaphragme avec plaie ouverte de la cavité';1;0
+e;6427556;'fracture ouverte de la partie supérieure du cubitus';1;0
+e;6425063;'plaie ouverte de la cheville et du pied';1;0
+e;6424393;'fracture ouverte du corps du radius intéressant aussi le cubitus';1;0
+e;6424386;'de la jambe et de la cheville plaie ouverte du genou';1;0
+e;6424191;'fracture ouverte d'une ou plusieurs phalanges du pied';1;0
+e;6422577;'lésion du foie avec plaie ouverte de la cavité';1;0
+e;6422548;'plaie ouverte du membre inférieur avec atteinte des tendons';1;0
+e;6083033;'Implémentation MSW ouverte';777;0
+e;6443803;'fracture ouverte de l'épiphyse inférieure du fémur';1;0
+e;6443116;'luxation externe ouverte de l'extrémité proximale du tibia';1;0
+e;6442464;'fracture ouverte de l'apophyse coracoïde de l'omoplate';1;0
+e;6442330;'fracture ouverte de l'extrémité externe de la clavicule';1;0
+e;6440315;'luxation ouverte de l'articulation radio-cubitale distale';1;0
+e;6439683;'plaie ouverte de l'épaule et du bras supérieur';1;0
+e;6439284;'lésion de l'utérus avec plaie ouverte de la cavité';1;0
+e;6437659;'avec complication, plaie ouverte de la trompe d'eustache';1;0
+e;6436648;'avec complication, plaie ouverte de l'épaule';1;0
+e;6435896;'plaie ouverte de l'épaule et du bras';1;0
+e;6435276;'réduction ouverte de luxation de l'épaule';1;0
+e;6435058;'luxation ouverte de l'os naviculaire du pied';1;0
+e;6434208;'luxation postérieure ouverte de l'extrémité proximale du tibia';1;0
+e;6432719;'autre fracture ouverte de l'extrémité supérieure de l'humérus';1;0
+e;6428163;'autre fracture ouverte du crâne avec hémorragie intracrânienne autre et non précisée';1;0
+e;6428014;'hémorragie sous-arachnoïdienne après traumatisme sans plaie intracrânienne ouverte';1;0
+e;6426407;'fracture ouverte des diaphyses radiale et cubitale';1;0
+e;6425759;'réduction de fracture mandibulaire ouverte avec manipulation et fixation externe';1;0
+e;6422423;'avec plaie ouverte de la cavité lésion de la glande surrénale';1;0
+e;9989180;'fracture ouverte d'une ou des phalanges de la main non précisée';1;0
+e;9989183;'fracture ouverte de l'extrémité inférieure de l'avant-bras non précisée';1;0
+e;9989178;'fracture ouverte d'un os du carpe non précisée';1;0
+e;9989184;'fracture ouverte de l'extrémité supérieure de l'avant-bras non précisée';1;0
+e;9989179;'fracture ouverte d'un ou des condyles de l'humérus non précisée';1;0
+e;9989181;'fracture ouverte de côte non précisée';1;0
+e;6444241;'fracture ouverte de l'os iliaque';1;0
+e;6442467;'réduction ouverte de luxation ouverte de l'épaule';1;0
+e;6441775;'lésion de l'estomac avec plaie ouverte de la cavité';1;0
+e;6440820;'fracture ouverte de la grosse tubérosité de l'humérus';1;0
+e;6440787;'plaie ouverte de parties autres et non précisées de l'abdomen';1;0
+e;6437574;'fracture ouverte de l'ischion';1;0
+e;6436834;'lésion de la vessie et de l'urètre avec plaie ouverte de la cavité';1;0
+e;6436176;'site non précisé luxation ouverte de l'épaule';1;0
+e;6435583;'fracture supracondylienne ouverte de l'humérus';1;0
+e;6435357;'réduction ouverte de fracture d'os du carpe et du métacarpe avec fixation interne';1;0
+e;6435010;'plaie ouverte de l'avant-bras sans complication';1;0
+e;6435003;'réduction ouverte de fracture d'os de la face';1;0
+e;6434000;'plaie ouverte avec atteinte du pharynx et de l'oesophage cervical';1;0
+e;6433957;'fracture ouverte de la diaphyse proximale de l'humérus';1;0
+e;6432580;'fracture ouverte de l'extrémité supérieure de la jambe';1;0
+e;6431379;'fracture ouverte de la septième vertèbre cervicale';1;0
+e;6431229;'luxation ouverte du poignet';1;0
+e;6429968;'plaie ouverte du scrotum sans complication';1;0
+e;6427246;'ouverte autre luxation de vertèbre';1;0
+e;6426640;'non précisée, fracture ouverte de côte';1;0
+e;6425942;'luxation ouverte d'une phalange de la main';1;0
+e;6425787;'fracture ouverte du grand os du poignet';1;0
+e;6425431;'lésion de sites multiples du côlon et du rectum avec plaie ouverte de la cavité';1;0
+e;6425000;'fracture ouverte de la voûte du crâne sans lésion traumatique intracrânienne';1;0
+e;6424196;'ouverte fracture de la clavicule';1;0
+e;6424104;'biopsie ouverte de la plèvre';1;0
+e;6424042;'plaie ouverte de la paroi abdominale sans complication';1;0
+e;9989182;'fracture ouverte de côtes multiples non précisée';1;0
+e;9989186;'fracture ouverte du corps du radius et du cubitus non précisée';1;0
+e;9989185;'fracture ouverte de la cheville non précisée';1;0
+e;15762716;'en lutte ouverte avec';1;0
+e;15234516;'en révolte ouverte';1;0
+e;6447240;'fracture ouverte de l'apophyse acromiale de l'omoplate';1;0
+e;6446987;'réduction ouverte de fracture de l'orbite';1;0
+e;6444899;'fracture ouverte de l'os scaphoïde de la main';1;0
+e;6444463;'fracture ouverte de l'humérus';1;0
+e;6443713;'fracture ouverte de l'angle de la mâchoire';1;0
+e;6441687;'fracture ouverte de l'extrémité supérieure du péroné';1;0
+e;6441574;'ouverte fracture de l'extrémité supérieure ou d'un site non précisé du radius et du cubitus';1;0
+e;6441141;'fracture ouverte de l'extrémité supérieure de l'humérus';1;0
+e;6440738;'luxation postérieure ouverte de l'humérus';1;0
+e;6440652;'sans mention de plaie ouverte de la cavité lésion d'organes intrathoraciques autres et non précisés';1;0
+e;6439671;'plaie ouverte de l'aine avec complication';1;0
+e;6438045;'réduction ouverte de fracture isolée du plancher de l'orbite par voies combinées';1;0
+e;6437468;'luxation ouverte de l'articulation radio-carpienne du poignet';1;0
+e;6436721;'réduction ouverte d'épiphysiolyse fémorale avec greffe osseuse';1;0
+e;6435544;'ténotomie ouverte du tendon du fléchisseur de l'avant-bras';1;0
+e;6433252;'fracture ouverte de l'épicondyle';1;0
+e;6433204;'ouverte fracture de l'extrémité supérieure ou d'un site non précisé du tibia et du péroné';1;0
+e;6432656;'fracture ouverte du col chirurgical de l'humérus';1;0
+e;6431812;'avec atteinte tendineuse, plaie ouverte de la région de l'épaule';1;0
+e;6430177;'débridement de fracture ouverte du fémur';1;0
+e;6428196;'plaie ouverte de la gorge sans complication';1;0
+e;6428061;'lésion d'un organe intra-abdominal non précisé sans mention de plaie ouverte de la cavité';1;0
+e;6426232;'fracture ouverte du cinquième métatarsien';1;0
+e;6425170;'plaie ouverte d'autres parties de la jambe';1;0
+e;11034089;'ouverte supérieure';777;0
+e;15432806;'clef ouverte';1;0
+e;15432805;'clé ouverte';1;0
+e;13785826;'contusion cérébelleuse avec plaie intracrânienne ouverte et perte de conscience modérée (1-24 heures)';1;0
+e;13746427;'contusion cérébelleuse avec plaie intracrânienne ouverte et perte de conscience prolongée (plus de 24 heures), sans retour du niveau de conscience pré-existant';1;0
+e;13740548;'contusion cérébelleuse avec plaie intracrânienne ouverte, perte de conscience prolongée (plus de 24 heures) et retour du niveau de conscience pré-existant';1;0
+e;13795574;'contusion cérébelleuse sans plaie intracrânienne ouverte, avec perte de conscience modérée (1-24 heures)';1;0
+e;13793794;'contusion cérébelleuse sans plaie intracrânienne ouverte, avec perte de conscience prolongée (plus de 24 heures) et retour du niveau de conscience pré-existant';1;0
+e;13788504;'contusion cérébelleuse sans plaie intracrânienne ouverte, avec perte de conscience prolongée (plus de 24 heures), sans retour du niveau de conscience pré-existant';1;0
+e;13795563;'contusion du cortex cérébral avec plaie intracrânienne ouverte et perte de conscience modérée (1-24 heures)';1;0
+e;13796947;'contusion du cortex cérébral avec plaie intracrânienne ouverte et perte de conscience prolongée (plus de 24 heures) sans retour du niveau de conscience pré-existant';1;0
+e;13802426;'contusion du cortex cérébral avec plaie intracrânienne ouverte, perte de conscience prolongée (plus de 24 heures) et retour du niveau de conscience pré-existant';1;0
+e;13799576;'contusion du cortex cérébral sans plaie intracrânienne ouverte, avec perte de conscience modérée (1-24 heures)';1;0
+e;13797138;'contusion du cortex cérébral sans plaie intracrânienne ouverte, avec perte de conscience prolongée (plus de 24 heures) et retour du niveau de conscience pré-existant';1;0
+e;13791822;'contusion du cortex cérébral sans plaie intracrânienne ouverte, avec perte de conscience prolongée (plus de 24 heures), sans retour du niveau de conscience pré-existant';1;0
+e;13790960;'contusion du tronc cérébral avec plaie intracrânienne ouverte et perte de conscience modérée (1-24 heures)';1;0
+e;13781321;'contusion du tronc cérébral avec plaie intracrânienne ouverte, perte de conscience prolongée (plus de 24 heures) et retour du niveau de conscience pré-existant';1;0
+e;13800972;'contusion du tronc cérébral sans plaie intracrânienne ouverte, avec perte de conscience modérée (1-24 heures)';1;0
+e;13799270;'contusion du tronc cérébral sans plaie intracrânienne ouverte, avec perte de conscience prolongée (plus de 24 heures) et retour du niveau de conscience pré-existant';1;0
+e;13793700;'contusion du tronc cérébral sans plaie intracrânienne ouverte, avec perte de conscience prolongée (plus de 24 heures), sans retour du niveau de conscience pré-existant';1;0
+e;6447451;'fracture ouverte de l'extrémité supérieure du radius et du cubitus';1;0
+e;6447315;'luxation ouverte de l'articulation tarso-métatarsienne';1;0
+e;6446495;'luxation ouverte de l'articulation métatarso-phalangienne';1;0
+e;6446419;'fracture ouverte de l'extrémité proximale du cubitus';1;0
+e;6446082;'partie non précisée fracture ouverte de l'omoplate';1;0
+e;6445908;'lésion de l'appendice sans plaie ouverte de la cavité';1;0
+e;6445902;'réduction ouverte de fracture de l'humérus avec fixation interne';1;0
+e;6443139;'fracture ouverte de l'os cunéiforme externe du pied';1;0
+e;6441793;'plaie ouverte de l'ongle du pouce sans complication';1;0
+e;6440533;'fracture ouverte de l'os semi-lunaire du carpe';1;0
+e;6440347;'avec complication, plaie ouverte de sites multiples de l'épaule et du bras supérieur';1;0
+e;6439952;'fracture ouverte de l'os crochu du carpe';1;0
+e;6439599;'fracture ouverte de l'extrémité inférieure du radius';1;0
+e;6438798;'luxation ouverte de l'extrémité proximale d'un métacarpien';1;0
+e;6437578;'non précisée, fracture ouverte de l'extrémité inférieure de l'avant-bras';1;0
+e;6436338;'fracture ouverte de l'extrémité inférieure du radius intéressant aussi le cubitus';1;0
+e;6436301;'réduction ouverte de luxation fermée de l'épaule avec fracture de la grosse tubérosité';1;0
+e;6436049;'luxation ouverte de l'articulation sterno-claviculaire';1;0
+e;6432699;'ténotomie sous-cutanée ouverte de l'adducteur de la hanche';1;0
+e;6432365;'fracture ouverte du condyle latéral de l'humérus';1;0
+e;6431378;'fracture ouverte des métacarpes';1;0
+e;6428217;'plaie ouverte de localisation non précisée avec complication';1;0
+e;6426226;'réduction ouverte de fracture mandibulaire fermée avec fixation interdentaire';1;0
+e;6422888;'plaie ouverte de la région épigastrique avec complication';1;0
+e;6348220;'lacération majeure du foie sans mention de plaie ouverte de la cavité';1;0
+e;9989284;'ouverte fracture du bassin non précisée';1;0
+e;15885670;'colonne ouverte';1;0
+e;6355144;'biopsie ouverte de la région sacro-coccygienne';1;0
+e;13787645;'biopsie-exérèse ouverte d'un ganglion nerveux';1;0
+e;13768330;'biopsie-exérèse ouverte d'un nerf';1;0
+e;15477718;'bloquant en position ouverte';1;0
+e;15497837;'bloquer en position ouverte';1;0
+e;15417970;'c'est la porte ouverte à tous les excès';1;0
+e;15367456;'caler qch en position ouverte';1;0
+e;16514058;'archive ouverte publique';1;0
+e;6444073;'ouverte fracture de l'omoplate';1;0
+e;6433598;'sans complication, plaie ouverte de la trompe d'eustache';1;0
+e;6427469;'avec complication, plaie ouverte de la trachée';1;0
+e;6427051;'avec complication, plaie ouverte du front';1;0
+e;6425717;'déchirure corticale sans mention de plaie intracrânienne ouverte';1;0
+e;15789896;'boule ouverte';777;0
+e;15212547;'architecture ouverte';1;0
+e;6261572;'plaie ouverte du membre supérieur avec atteinte des tendons';1;0
+e;6447907;'fracture ouverte de l'ilion';1;0
+e;6447549;'fracture ouverte de l'extrémité supérieure du radius';1;0
+e;6447036;'fracture ouverte de l'avant-bras';1;0
+e;6446803;'fracture ouverte de l'os trapèze du poignet';1;0
+e;6445889;'fracture ouverte de la diaphyse de l'humérus';1;0
+e;6445875;'plaie ouverte de l'épaule';1;0
+e;6445684;'lésion due à un corps étranger superficiel de l'épaule sans plaie ouverte importante ni infection';1;0
+e;6444613;'biopsie ouverte de l'utérus';1;0
+e;6444031;'luxation ouverte de l'épaule';1;0
+e;6443940;'lésion traumatique de l'oesophage avec plaie ouverte de la cavité thoracique';1;0
+e;6439784;'plaie ouverte de l'arcade sourcilière avec complication';1;0
+e;6437439;'plaie ouverte de l'arcade sourcilière sans complication';1;0
+e;6437261;'fracture ouverte de l'os naviculaire du pied';1;0
+e;6433802;'luxation ouverte d'un autre site de l'épaule';1;0
+e;6433772;'fracture ouverte de l'extrémité proximale de l'avant-bras';1;0
+e;6433723;'luxation ouverte de l'articulation médio-carpienne';1;0
+e;6432173;'lésion traumatique de l'oesophage sans plaie ouverte de la cavité thoracique';1;0
+e;6430493;'plaie ouverte du palais avec complication';1;0
+e;6430203;'plaie ouverte de la région sacro-iliaque avec complication';1;0
+e;6430112;'fracture ouverte du quatrième métatarsien';1;0
+e;6430090;'plaie ouverte du cou';1;0
+e;6428594;'fracture ouverte d'un ou plusieurs os non précisés du pied';1;0
+e;6427874;'luxation ouverte du maxillaire inférieur';1;0
+e;6425958;'site non précisé avec complication plaie ouverte de la bouche';1;0
+e;6425802;'hémorragie sous-durale après traumatisme avec plaie intracrânienne ouverte et état de conscience non précisé';1;0
+e;6424853;'réduction ouverte de fracture des phalanges de la main';1;0
+e;6424418;'réduction ouverte de luxation congénitale de la hanche avec raccourcissement de la diaphyse fémorale';1;0
+e;6422559;'fracture ouverte de la colonne vertébrale avec lésion traumatique de la moelle épinière';1;0
+e;10943396;'laisser la fenêtre ouverte';1;0
+e;6344026;'avec plaie intracrânienne ouverte hémorragie sous-durale à la suite d'une lésion';1;0
+e;6343967;'apophyse sous-condylienne fracture ouverte de la mandibule';1;0
+e;11826732;'doctrine de la porte ouverte';777;0
+e;13743500;'contusion du tronc cérébral avec plaie intracrânienne ouverte et perte de conscience prolongée (plus de 24 heures), sans retour du niveau de conscience pré-existant';1;0
+e;15268415;'Soudain, la porte s'est ouverte.';1;0
+e;16087195;'Université ouverte';777;0
+e;16074625;'Zone ouverte à urbanisation';1;0
+e;15234509;'adjudication ouverte';1;0
+e;6451696;'fracture ouverte du col de l'humérus';1;0
+e;6451076;'réduction ouverte de fracture d'os du carpe et du métacarpe';1;0
+e;6449734;'plaie ouverte de l'avant-bras avec atteinte des tendons';1;0
+e;6449597;'luxation ouverte de l'articulation médio-tarsienne';1;0
+e;6448498;'lésion de la vessie et de l'urètre sans mention de plaie ouverte de la cavité';1;0
+e;6444542;'non précisée, fracture ouverte d'un ou des condyles de l'humérus';1;0
+e;6441853;'fracture ouverte de l'apophyse coronoïde du cubitus';1;0
+e;6441442;'fracture ouverte de l'arcade zygomatique';1;0
+e;6441350;'lésion de l'oesophage avec plaie ouverte de la cavité';1;0
+e;6441037;'fracture ouverte de l'os coxal';1;0
+e;6440471;'plaie ouverte de la région de l'épaule sans complication';1;0
+e;6438148;'fracture ouverte d'une partie non précisée de l'extrémité inférieure du fémur';1;0
+e;6436329;'luxation ouverte de l'extrémité proximale du métacarpe';1;0
+e;6435991;'luxation postérieure ouverte de l'extrémité distale du fémur';1;0
+e;6435052;'fracture ouverte de l'os pyramidal du carpe';1;0
+e;6434768;'réduction ouverte de séparation de l'épiphyse de l'humérus';1;0
+e;6434538;'fracture ouverte de l'extrémité supérieure du péroné intéressant aussi le tibia';1;0
+e;6432540;'plaie ouverte de l'ongle du doigt avec complication';1;0
+e;6431695;'fracture ouverte de l'apophyse coronoïde de la mandibule';1;0
+e;6430627;'fracture ouverte du sacrum';1;0
+e;6430405;'fracture ouverte du sacrum et du coccyx avec lésion traumatique précisée de la queue de cheval';1;0
+e;6430121;'plaie ouverte du pharynx avec complication';1;0
+e;6428779;'avec complication, plaie ouverte de la paroi thoracique';1;0
+e;6428655;'fracture ouverte de trois côtes';1;0
+e;6427776;'lésion du corps du pancréas avec plaie ouverte de la cavité';1;0
+e;6426498;'fracture ouverte de plusieurs vertèbres cervicales sans lésion traumatique de la moelle épinière';1;0
+e;6424943;'plaie ouverte de la muqueuse buccale sans complication';1;0
+e;6424131;'vertèbre thoracique et lombaire luxation ouverte';1;0
+e;6424005;'lésion du côlon descendant avec plaie ouverte de la cavité';1;0
+e;6423887;'luxation ouverte d'une vertèbre lombaire';1;0
+e;6423248;'fracture ouverte de la voûte du crâne avec lésion intracrânienne';1;0
+e;6423115;'fracture ouverte du gros orteil';1;0
+e;6422740;'luxation ouverte de la hanche';1;0
+e;6422138;'plaie ouverte de la région pubienne avec complication';1;0
+e;6298130;'lacération du cortex cérébral avec plaie intracrânienne ouverte et état de conscience non précisé';1;0
+e;9935175;'plaie ouverte de la région de l'épaule avec atteinte tendineuse';1;0
+e;9935181;'plaie ouverte du coude avec atteinte tendineuse';1;0
+e;9935179;'plaie ouverte des orteils avec atteinte tendineuse';1;0
+e;9935171;'plaie ouverte de l'avant-bras avec atteinte tendineuse';1;0
+e;9935180;'plaie ouverte du bras supérieur avec atteinte tendineuse';1;0
+e;9935183;'plaie ouverte du poignet avec atteinte tendineuse';1;0
+e;9935173;'plaie ouverte de la hanche et de la cuisse avec atteinte tendineuse';1;0
+e;9935182;'plaie ouverte du pied seul avec atteinte tendineuse';1;0
+e;9935172;'plaie ouverte de l'épaule et du bras supérieur avec atteinte tendineuse';1;0
+e;9935176;'plaie ouverte de la région scapulaire avec atteinte tendineuse';1;0
+e;9935174;'plaie ouverte de la région axillaire avec atteinte tendineuse';1;0
+e;6359801;'avec plaie ouverte de la cavité lésion d'autres organes intra-abdominaux multiples';1;0
+e;6413728;'avec plaie ouverte de la cavité lésion d'un organe intra-abdominal non précisé';1;0
+e;6448463;'sans mention de complication, plaie ouverte de l'avant-bras';1;0
+e;6447480;'fracture ouverte de l'acromion';1;0
+e;6447173;'plaie ouverte de l'avant-bras';1;0
+e;6446297;'réduction ouverte de fracture du zygoma ou de l'arcade zygomatique';1;0
+e;6445082;'fracture ouverte de l'extrémité distale de l'avant-bras';1;0
+e;6444300;'fracture ouverte de l'os cunéiforme interne du pied';1;0
+e;6443454;'fracture ouverte de l'extrémité inférieure de l'humérus';1;0
+e;6443182;'lésion de l'intestin grêle avec plaie ouverte de la cavité';1;0
+e;6442457;'fracture ouverte de l'extrémité proximale du radius';1;0
+e;6442100;'lésion de l'utérus sans mention de plaie ouverte de la cavité';1;0
+e;6441818;'fracture ouverte de l'extrémité acromiale de la clavicule';1;0
+e;6441169;'fracture ouverte de l'extrémité sternale de la clavicule';1;0
+e;6438700;'anesthésie pour intervention ouverte sur l'humérus et le coude';1;0
+e;6438262;'plaie ouverte de l'oesophage cervical sans complication';1;0
+e;6437586;'fracture ouverte du corps de l'humérus';1;0
+e;6437479;'plaie ouverte de l'avant-bras avec complication';1;0
+e;6436896;'luxation ouverte de l'articulation acromio-claviculaire';1;0
+e;6435961;'fracture ouverte de l'extrémité distale du radius';1;0
+e;6435927;'réparation ouverte primaire du tendon d'achille rupturé';1;0
+e;6434246;'fracture ouverte de l'extrémité interne de la clavicule';1;0
+e;6430808;'lésion d'une bronche sans plaie ouverte de la cavité';1;0
+e;9935177;'plaie ouverte de sites multiples de l'épaule et du bras supérieur avec atteinte tendineuse';1;0
+e;9935178;'plaie ouverte des doigts avec atteinte tendineuse';1;0
+e;10313179;'Table ouverte La famille Anodin';777;0
+e;10313178;'Table ouverte';777;0
+e;10316263;'primaire ouverte de la droite et du centre';777;0
+e;10334480;'Centre pour l'édition électronique ouverte';777;0
+e;12077424;'boucle ouverte';1;0
+e;6451480;'lésion d'organes intrathoraciques multiples et non précisés avec plaie ouverte de la cavité';1;0
+e;6448924;'plaie ouverte de l'oesophage cervical avec complication';1;0
+e;6448421;'ostéotomie ouverte de l'angle de la mandibule';1;0
+e;6447949;'fracture ouverte de l'extrémité distale de l'humérus';1;0
+e;6443449;'fracture ouverte de la cavité glénoïde et du col de l'omoplate';1;0
+e;6442713;'luxation ouverte de l'articulation sacro-iliaque';1;0
+e;6425856;'sans mention de complication, plaie ouverte du nez';1;0
+e;9929294;'plaie ouverte de sites multiples de l'épaule et du bras supérieur sans mention de complication';1;0
+e;6450548;'site non précisé sans plaie ouverte de la cavité lésion de l'intestin grêle';1;0
+e;6445399;'fracture ouverte du corps ou d'une partie non précisée de l'humérus';1;0
+e;6443847;'fracture ouverte de l'os scaphoïde du poignet';1;0
+e;6442923;'fracture ouverte isolée du plancher de l'orbite';1;0
+e;6442479;'plaie ouverte des annexes de l'oeil';1;0
+e;6434172;'lésion de l'uretère avec plaie ouverte de la cavité';1;0
+e;6429059;'contusion du cortex cérébral sans plaie intracrânienne ouverte';1;0
+e;9929301;'plaie ouverte du dos sans mention de complication';1;0
+e;9929256;'plaie ouverte des structures internes de la bouche avec complication';1;0
+e;9929302;'plaie ouverte du larynx et de la trachée sans mention de complication';1;0
+e;9929278;'plaie ouverte de l'oreille externe sans mention de complication';1;0
+e;9929240;'plaie ouverte d'un sinus nasal avec complication';1;0
+e;9929274;'plaie ouverte d'autres parties de l'oreille sans mention de complication';1;0
+e;9929281;'plaie ouverte de la glande thyroïde sans mention de complication';1;0
+e;9929306;'plaie ouverte du pénis sans mention de complication';1;0
+e;9929262;'plaie ouverte provenant d'une dent cassée avec complication';1;0
+e;9929228;'plaie ouverte de la langue et du plancher de la bouche sans complication';1;0
+e;9929280;'plaie ouverte de la fesse sans mention de complication';1;0
+e;9929283;'plaie ouverte de la paroi abdominale antérieure sans mention de complication';1;0
+e;9929297;'plaie ouverte des structures internes de la bouche sans mention de complication';1;0
+e;9929291;'plaie ouverte de parties autres et non précisées des organes génitaux sans mention de complication';1;0
+e;9929277;'plaie ouverte de l'avant-bras sans mention de complication';1;0
+e;9929288;'plaie ouverte de la région scapulaire sans mention de complication';1;0
+e;9929307;'plaie ouverte du scrotum et des testicules sans mention de complication';1;0
+e;9929308;'plaie ouverte du sein sans mention de complication';1;0
+e;9929225;'plaie ouverte d'un sinus nasal sans complication';1;0
+e;9929303;'plaie ouverte du nez sans mention de complication';1;0
+e;9929292;'plaie ouverte de parties autres et non précisées du cou sans mention de complication';1;0
+e;9929304;'plaie ouverte du pharynx sans mention de complication';1;0
+e;9929299;'plaie ouverte du coude sans mention de complication';1;0
+e;9929227;'plaie ouverte de la caisse du tympan sans complication';1;0
+e;9929276;'plaie ouverte d'autres sites multiples de la tête sans mention de complication';1;0
+e;9929248;'plaie ouverte de parties autres et non précisées du cou avec complication';1;0
+e;9929293;'plaie ouverte de parties autres et non précisées du tronc sans mention de complication';1;0
+e;9929244;'plaie ouverte de la caisse du tympan avec complication';1;0
+e;9929305;'plaie ouverte du poignet sans mention de complication';1;0
+e;9929309;'plaie ouverte du vagin sans mention de complication';1;0
+e;9929275;'plaie ouverte d'autres sites multiples de l'oreille sans mention de complication';1;0
+e;9929298;'plaie ouverte du bras supérieur sans mention de complication';1;0
+e;9929242;'plaie ouverte de l'épaule avec complication';1;0
+e;9929282;'plaie ouverte de la hanche et de la cuisse sans mention de complication';1;0
+e;9929289;'plaie ouverte de la tête autre et non précisée sans mention de complication';1;0
+e;9929296;'plaie ouverte des orteils sans mention de complication';1;0
+e;9929285;'plaie ouverte de la paroi thoracique sans mention de complication';1;0
+e;9929287;'plaie ouverte de la région de l'épaule sans mention de complication';1;0
+e;9929231;'plaie ouverte des osselets sans complication';1;0
+e;9929279;'plaie ouverte de l'épaule et du bras supérieur sans mention de complication';1;0
+e;9929258;'plaie ouverte du canal auditif avec complication';1;0
+e;9929238;'plaie ouverte d'autres parties précisées de l'oreille avec complication';1;0
+e;9929233;'plaie ouverte provenant d'une dent cassée sans complication';1;0
+e;9929255;'plaie ouverte des osselets avec complication';1;0
+e;9929247;'plaie ouverte de parties autres et non précisées des organes génitaux avec complication';1;0
+e;9929261;'plaie ouverte du visage avec complication';1;0
+e;9929260;'plaie ouverte du scrotum et des testicules avec complication';1;0
+e;9929232;'plaie ouverte du canal auditif sans complication';1;0
+e;9929251;'plaie ouverte de sites multiples avec complication';1;0
+e;9929246;'plaie ouverte de la tête autre et non précisée avec complication';1;0
+e;9929257;'plaie ouverte du bras supérieur avec complication';1;0
+e;9929229;'plaie ouverte de sites autres et multiples sans complication';1;0
+e;9929230;'plaie ouverte de sites multiples sans complication';1;0
+e;9929259;'plaie ouverte du larynx intéressant aussi la trachée avec complication';1;0
+e;9929245;'plaie ouverte de la langue et du plancher de la bouche avec complication';1;0
+e;9929239;'plaie ouverte d'autres sites multiples de l'oreille avec complication';1;0
+e;9929241;'plaie ouverte d'une partie non précisée de l'oreille avec complication';1;0
+e;9929254;'plaie ouverte des orteils avec complication';1;0
+e;9929250;'plaie ouverte de sites autres et multiples avec complication';1;0
+e;9929249;'plaie ouverte de parties autres et non précisées du tronc avec complication';1;0
+e;9929226;'plaie ouverte d'une partie non précisée de l'oreille sans complication';1;0
+e;9929253;'plaie ouverte des doigts avec complication';1;0
+e;9929290;'plaie ouverte de la vulve sans mention de complication';1;0
+e;9929286;'plaie ouverte de la région axillaire sans mention de complication';1;0
+e;9929243;'plaie ouverte de l'épaule et du bras supérieur avec complication';1;0
+e;9929295;'plaie ouverte des doigts sans mention de complication';1;0
+e;9929284;'plaie ouverte de la paroi abdominale latérale sans mention de complication';1;0
+e;9929310;'plaie ouverte du visage sans mention de complication';1;0
+e;6451315;'fracture ouverte de l'os naviculaire';1;0
+e;6451265;'fracture ouverte de l'os pyramidal du poignet';1;0
+e;6450529;'plaie ouverte de l'aine sans complication';1;0
+e;6450435;'fracture ouverte de l'os cunéiforme intermédiaire du pied';1;0
+e;6450429;'fracture ouverte de la diaphyse d'un os de l'avant-bras';1;0
+e;6446689;'ténotomie ouverte du tendon de l'extenseur de l'avant-bras';1;0
+e;6445780;'autre lésion de l'intestin grêle avec plaie ouverte de la cavité';1;0
+e;6445368;'fracture ouverte de l'os trapézoïde du poignet';1;0
+e;6445336;'fracture ouverte de l'extrémité supérieure du tibia et du péroné';1;0
+e;6444494;'luxation inférieure ouverte de l'humérus';1;0
+e;6444319;'avec complication, plaie ouverte de l'épaule et du bras supérieur';1;0
+e;6444277;'plaie ouverte de l'ongle du pouce avec atteinte des tendons';1;0
+e;6441970;'sans mention de plaie ouverte de la cavité lésion de l'oesophage';1;0
+e;6439756;'luxation ouverte de l'articulation carpo-métacarpienne';1;0
+e;6435066;'luxation ouverte de l'extrémité distale du tibia';1;0
+e;6431381;'plaie ouverte de la face sans complication';1;0
+e;6430459;'lésion due à un corps étranger superficiel du doigt sans plaie ouverte importante ni infection';1;0
+e;6428022;'plaie ouverte du périnée sans complication';1;0
+e;6427308;'fracture ouverte d'une vertèbre dorsale avec lésion médullaire';1;0
+e;6424736;'fracture ouverte du cuboïde du pied';1;0
+e;6423294;'hémorragie intracrânienne après lésion traumatique sans plaie intracrânienne ouverte ni perte de conscience';1;0
+e;9929300;'plaie ouverte du cuir chevelu sans mention de complication';1;0
+e;9929252;'plaie ouverte de sites multiples de l'épaule et du bras supérieur avec complication';1;0
+e;10364241;'université ouverte';777;0
+e;11342008;'science ouverte';777;2
+e;11957666;'application ouverte';777;0
+e;2459647;'tenue blanche ouverte';1;0
+e;6447374;'lésion due à un corps étranger superficiel de l'avant-bras sans plaie ouverte importante ni infection';1;0
+e;6447082;'plaie ouverte de la région de l'épaule avec complication';1;0
+e;6445781;'lésion de l'intestin grêle sans mention de plaie ouverte de la cavité';1;0
+e;6445301;'luxation ouverte de l'articulation temporo-mandibulaire';1;0
+e;6444474;'réduction ouverte de luxation de l'articulation coxo-fémorale';1;0
+e;6444160;'lésion d'organes intrathoraciques autres et non précisés avec plaie ouverte de la cavité';1;0
+e;6443963;'de l'avant-bras et du poignet avec complication plaie ouverte du coude';1;0
+e;6443019;'fracture ouverte de l'extrémité inférieure du cubitus et du radius';1;0
+e;6436244;'anesthésie pour intervention ouverte impliquant l'articulation sacro-iliaque';1;0
+e;6428715;'fracture ouverte de vertèbre cervicale sans mention de lésion médullaire';1;0
+e;10761416;'La chasse est ouverte';777;0
+e;13403789;'donnée biomédicale ouverte';1;0
+e;2405679;'classe ouverte';1;0
+e;6450097;'site non précisé avec plaie ouverte de la cavité lésion de l'intestin grêle';1;0
+e;6448192;'luxation antérieure ouverte de l'humérus';1;0
+e;6446894;'ténotomie sous-cutanée ouverte de l'adducteur de la hanche avec neurotomie de l'obturateur';1;0
+e;6441441;'fracture ouverte de l'extrémité supérieure du tibia';1;0
+e;6439969;'fracture ouverte d'une partie non précisée de l'extrémité inférieure de l'humérus';1;0
+e;6425437;'réduction ouverte de fracture du maxillaire supérieur';1;0
+e;10370108;'Renseignement d'origine source ouverte';777;0
+e;11325216;'plaie intracrânienne ouverte';1;0
+e;5554328;'théorème de l'image ouverte';777;0
+e;6451813;'fracture ouverte de l'os semi-lunaire du poignet';1;0
+e;6449921;'plaie ouverte de l'ongle du doigt sans complication';1;0
+e;6449862;'plaie ouverte du coude, de l'avant-bras, et du poignet';1;0
+e;6449747;'ténotomie ouverte d'un extenseur de l'orteil';1;0
+e;6449675;'fracture ouverte de l'extrémité distale du cubitus';1;0
+e;6449436;'plaie ouverte de la trompe d'eustache sans complication';1;0
+e;6449341;'luxation ouverte de l'articulation radio-carpienne';1;0
+e;6449307;'fracture ouverte de l'omoplate';1;0
+e;6449252;'réduction ouverte de fracture de l'humérus';1;0
+e;6445348;'fracture ouverte de l'extrémité inférieure du radius et du cubitus';1;0
+e;6444225;'biopsie ouverte de l'endomètre';1;0
+e;6436368;'fracture ouverte de l'acétabulum';1;0
+e;6428041;'septectomie auriculaire ouverte';1;0
+e;6425115;'fracture comminutive ouverte';1;0
+e;11153667;'Espagnole ouverte';777;0
+e;11154132;'position ouverte';777;0
+e;11208217;'société ouverte';777;0
+e;11325215;'plaie intracrânienne ouverte et commotion non précisée';1;0
+e;5537724;'Architecture de document ouverte';777;0
+e;6451218;'fracture ouverte du condyle externe de l'humérus';1;0
+e;6449398;'luxation antérieure ouverte de l'extrémité proximale du tibia';1;0
+e;6448996;'anesthésie pour intervention ouverte sur l'articulation du genou';1;0
+e;6448994;'luxation ouverte de l'humérus';1;0
+e;6447783;'sans mention de complication, plaie ouverte de sites multiples de l'épaule et du bras supérieur';1;0
+e;6447603;'luxation ouverte de l'articulation acromioclaviculaire';1;0
+e;6445193;'non précisée, fracture ouverte de l'extrémité supérieure de l'avant-bras';1;0
+e;6444548;'fracture ouverte de l'épiphyse supérieure du col du fémur';1;0
+e;6443080;'de l'avant-bras et du poignet sans mention de complication plaie ouverte du coude';1;0
+e;6433701;'fracture ouverte du col anatomique de l'humérus';1;0
+e;11320647;'lésion de l'utérus avec plaie ouverte';1;0
+e;11320607;'fracture ouverte de l'os pisiforme';1;0
+e;11320637;'lésion de l'estomac avec plaie ouverte';1;0
+e;5553163;'composé à chaîne ouverte';777;0
+e;5559113;'norme ouverte d'échange entre la maladie et les intervenants extérieurs';777;0
+e;6451934;'fracture ouverte supracondylienne de l'humérus';1;0
+e;6451169;'luxation ouverte de l'extrémité distale du cubitus';1;0
+e;6450749;'réduction ouverte de luxation de l'articulation tibio-péronière proximale avec excision';1;0
+e;6448724;'réduction ouverte de luxation de l'orteil';1;0
+e;6448155;'ostéotomie de l'os acétabulaire avec réduction ouverte de la hanche';1;0
+e;6441332;'fracture ouverte de l'extrémité inférieure du tibia';1;0
+e;6439336;'fracture ouverte de l'extrémité distale du fémur';1;0
+e;6435305;'fracture ouverte du condyle médial de l'humérus';1;0
+e;11317564;'plaie ouverte avec complication';1;0
+e;2442542;'laisser la porte ouverte';1;8
+e;6451702;'lésion de l'appendice avec plaie ouverte de la cavité';1;0
+e;6451487;'sans mention de complication, plaie ouverte de l'épaule et du bras supérieur';1;0
+e;6451097;'fracture ouverte d'une partie non précisée de l'extrémité supérieure de l'humérus';1;0
+e;6450929;'lésion de l'estomac sans mention de plaie ouverte de la cavité';1;0
+e;6449968;'ostéotomie de l'os innominé avec réduction ouverte de la hanche';1;0
+e;6449743;'autre lésion de l'intestin grêle sans plaie ouverte de la cavité';1;0
+e;6449257;'avec atteinte tendineuse, plaie ouverte de sites multiples de l'épaule et du bras supérieur';1;0
+e;6448009;'réduction ouverte de fracture isolée du plancher de l'orbite par voie transantrale';1;0
+e;6447466;'fracture ouverte de l'extrémité supérieure de l'avant-bras';1;0
+e;6446912;'luxation ouverte de l'extrémité distale du péroné';1;0
+e;11159496;'La Société ouverte et ses ennemis';777;0
+e;15207248;'La boulangerie est ouverte le dimanche matin.';1;0
+e;2440954;'primaire ouverte';1;0
+e;6451902;'luxation ouverte de l'articulation médio-carpienne du poignet';1;0
+e;6451314;'fracture ouverte de l'apophyse zygomatique';1;0
+e;6449515;'luxation ouverte de l'articulation métacarpo-phalangienne du pouce';1;0
+e;6449007;'fracture ouverte de l'épitrochlée';1;0
+e;6448763;'fracture ouverte de l'os crochu du poignet';1;0
+e;2451554;'table ouverte';1;0
+e;5553707;'théorème de l'application ouverte';777;0
+e;6442425;'de l'avant-bras et du poignet avec atteinte tendineuse plaie ouverte du coude';1;0
+e;6450187;'avec atteinte tendineuse, plaie ouverte de l'épaule et du bras supérieur';1;0
+e;6450179;'lésion interne d'organes non précisés ou mal définis sans mention de plaie ouverte de la cavité';1;0
+e;6448073;'fracture ouverte de l'extrémité inférieure du fémur';1;0
+e;6446518;'sans mention de complication, plaie ouverte de la région de l'épaule';1;0
+e;6445360;'débridement de fracture ouverte de l'humérus';1;0
+e;6450708;'lésion due à un corps étranger superficiel de l'aine sans plaie ouverte importante ni infection';1;0
+e;6450466;'plaie ouverte de la trompe d'eustache avec complication';1;0
+e;6448274;'réduction ouverte de luxation fermée de l'épaule';1;0
+e;6448224;'plaie ouverte de l'hypochondre avec complication';1;0
+e;6448728;'avec complication, plaie ouverte de l'avant-bras';1;0
+e;6448431;'autre fracture ouverte de l'extrémité inférieure du fémur';1;0
+e;6448218;'section ouverte de l'angle de la mandibule';1;0
+e;6446862;'avec atteinte tendineuse, plaie ouverte de l'avant-bras';1;0
+e;14771982;'Agglomération ouverte d'Aulnat';777;0
+e;14529416;'Catégorie ouverte';777;0
+e;1847046;'tympanoplastie en technique ouverte';1;0
+e;6451624;'fracture ouverte de l'astragale';1;0
+e;3179299;'cliché bouche ouverte';1;0
+e;3233095;'fracture ouverte du plancher de l'orbite';1;0
+e;3554629;'demi-droite ouverte';777;0
+e;5126370;'grande ouverte';1;0
+e;1650534;'spina bifida à moelle ouverte';1;0
+e;2361776;'à force ouverte';1;0
+e;6450803;'luxation ouverte de l'omoplate';1;0
+e;6449107;'réparation ouverte primaire du tendon d'achille rupturé avec greffe';1;0
+e;565868;'formation en ligne ouverte à tous';777;50
+e;2360460;'avoir table ouverte';1;0
+e;3184571;'mi-ouverte';1;0
+e;6451446;'fracture ouverte de l'extrémité inférieure de l'avant-bras';1;0
+e;1484940;'fracture ouverte du bassin';1;0
+e;2606089;'il faut qu'une porte soit ouverte ou fermée';1;0
+e;3185819;'bouche ouverte';1;6
+e;1730088;'nnovation ouverte';777;0
+e;6450790;'lésion due à un corps étranger superficiel de l'aisselle sans plaie ouverte importante ni infection';1;0
+e;2937865;'Échelle ouverte de Richter';777;0
+e;3250216;'fracture ouverte du fémur';1;0
+e;2923969;'phase de lecture ouverte';1;0
+e;1851074;'luxation ouverte';1;0
+e;1841977;'porte ouverte';1;0
+e;383368;'terrasse ouverte';1;52
+e;389432;'économie ouverte';1;50
+e;375114;'rade ouverte';1;50
+e;345239;'crise ouverte';1;50
+e;393385;'donnée ouverte';777;50
+e;360646;'la bouche grande ouverte';1;50
+e;355791;'galerie ouverte';1;50
+e;374933;'querelle ouverte';1;50
+e;367495;'opération porte ouverte';1;50
+e;360670;'la porte ouverte à';1;50
+e;350764;'en guerre ouverte contre';1;50
+e;338499;'banquise très ouverte';1;50
+e;354894;'formation ouverte';1;50
+e;337251;'attitude ouverte';1;50
+e;368956;'partie ouverte';1;50
+e;350763;'en guerre ouverte avec';1;50
+e;343299;'chaîne ouverte';1;50
+e;366075;'mêlée ouverte';1;50
+e;361789;'liste ouverte';1;50
+e;361617;'ligne ouverte';1;50
+e;316541;'classe lexicale ouverte';1;50
+e;179466;'voyelle mi-ouverte';1;50
+e;230690;'La Gueule ouverte';1;50
+e;227704;'fenêtre ouverte';1;72
+e;230533;'source ouverte';1;50
+e;231717;'formation ouverte et à distance';1;50
+e;246331;'fracture ouverte';1;92
+e;254146;'licence ouverte';1;50
+e;257798;'cuisine ouverte';1;2
+e;263283;'piste ouverte';1;50
+e;263413;'externalisation ouverte';1;50
+e;45542;'la Gueule ouverte';1;50
+e;100637;'Raie ouverte';1;50
+e;105992;'Rome, ville ouverte';1;50
+e;140648;'L'OEuvre ouverte';1;50
+e;159875;'ville ouverte';1;52
+e;165899;'question ouverte';1;50
+e;208119;'série ouverte';1;50
+e;208923;'tenir table ouverte';1;50
+e;47820;'Lettre ouverte aux parents des petits écoliers';1;50
+e;94846;'Société ouverte et ses ennemis';1;50
+e;94898;'Lettre ouverte aux Européens';1;50
+e;137952;'l'OEuvre ouverte';1;50
+e;158132;'plaie ouverte';1;94
+e;159025;'blessure ouverte';1;52
+e;179426;'syllabe ouverte';1;50
+e;179467;'voyelle ouverte';1;50
+e;201666;'guerre ouverte';1;52
+e;202959;'lettre ouverte';1;58
+e;271211;'carte ouverte';1;50
+e;282944;'formation ouverte et/ou à distance';777;50
+e;284585;'renseignement d'origine source ouverte';777;50
+e;287810;'échelle ouverte de Richter';777;52
+e;289318;'phase ouverte de lecture';777;50
+e;308936;'spécification ouverte';777;50
+e;186017;'enfoncer une porte ouverte';1;4
+e;194987;'innovation ouverte';1;50
+r;397138378;153164;6294437;11;25
+r;397091692;153164;6292150;11;25
+r;298435812;153164;6290203;11;25
+r;298461427;153164;6291315;11;25
+r;298481943;153164;6291596;11;25
+r;298863824;153164;6295039;11;25
+r;298956471;153164;6297121;11;25
+r;299251579;153164;6302116;11;25
+r;299339342;153164;6303289;11;25
+r;299340157;153164;6303327;11;25
+r;299520786;153164;6306938;11;25
+r;299561863;153164;6307329;11;25
+r;299578244;153164;6309686;11;25
+r;299578719;153164;6309651;11;25
+r;301688920;153164;6347607;11;25
+r;300102611;153164;6321151;11;25
+r;300240513;153164;6330024;11;25
+r;300248144;153164;6330330;11;25
+r;301490707;153164;6342686;11;25
+r;301735547;153164;6350791;11;25
+r;302028953;153164;6357631;11;25
+r;302147502;153164;6363320;11;25
+r;302962848;153164;6367797;11;25
+r;302973333;153164;6369517;11;25
+r;303668215;153164;6379976;11;25
+r;303991288;153164;6384671;11;25
+r;304482834;153164;6387451;11;25
+r;305130009;153164;6399125;11;25
+r;305304697;153164;6405350;11;25
+r;305643798;153164;6415099;11;25
+r;305666216;153164;6415513;11;25
+r;305697290;153164;6419091;11;25
+r;310675970;153164;8905892;11;25
+r;310675972;153164;8905893;11;25
+r;312955651;153164;6293416;11;25
+r;312955769;153164;6416313;11;25
+r;312955859;153164;6372822;11;25
+r;312955893;153164;6390202;11;25
+r;312956817;153164;6360050;11;25
+r;312956867;153164;6323872;11;25
+r;312957992;153164;6400955;11;25
+r;319054018;153164;6323076;11;25
+r;319065581;153164;6319423;11;25
+r;319080336;153164;6340066;11;25
+r;340998037;153164;6309737;11;25
+r;341194639;153164;6393244;11;25
+r;341208959;153164;6400940;11;25
+r;345601696;153164;11154523;11;25
+r;349072522;153164;6389652;11;25
+r;349171808;153164;6407581;11;25
+r;349191207;153164;6304478;11;25
+r;349237880;153164;6288395;11;25
+r;349317735;153164;6349762;11;25
+r;349333237;153164;6384491;11;25
+r;349333519;153164;6402756;11;25
+r;349335653;153164;6377790;11;25
+r;357638490;153164;14119621;11;25
+r;359718531;153164;14159851;11;25
+r;401057632;153164;6411088;11;25
+r;366858956;153164;14452328;11;25
+r;370513639;153164;14580442;11;25
+r;400851770;153164;6402624;11;25
+r;400853910;153164;6402792;11;25
+r;399504364;153164;6332289;11;25
+r;400829986;153164;6399329;11;25
+r;400745973;153164;6386955;11;25
+r;400946638;153164;6408191;11;25
+r;399506695;153164;6333751;11;25
+r;400986307;153164;6409666;11;25
+r;399499376;153164;6329470;11;25
+r;400612472;153164;6381754;11;25
+r;400527973;153164;6369824;11;25
+r;400817412;153164;6395738;11;25
+r;399508717;153164;6334327;11;25
+r;400913975;153164;6407147;11;25
+r;396193046;153164;6284358;11;25
+r;396619636;153164;6288785;11;25
+r;398165696;153164;6309327;11;25
+r;398247083;153164;6310114;11;25
+r;398429796;153164;6315247;11;25
+r;398429958;153164;6315151;11;25
+r;398514157;153164;6317258;11;25
+r;398533955;153164;6318600;11;25
+r;398554107;153164;6319755;11;25
+r;399102491;153164;6321351;11;25
+r;399681731;153164;6340327;11;25
+r;399983253;153164;6349245;11;25
+r;399994138;153164;6348941;11;25
+r;400010079;153164;6352866;11;25
+r;400044957;153164;6355483;11;25
+r;400052509;153164;6356201;11;25
+r;400337213;153164;6367812;11;25
+r;400477066;153164;6368728;11;25
+r;400525387;153164;6371927;11;25
+r;400600530;153164;6377328;11;25
+r;400701505;153164;6385143;11;25
+r;402054833;153164;6421475;11;25
+r;402054942;153164;6421154;11;25
+r;413895547;153164;11060185;11;25
+r;419480300;153164;16087172;11;25
+r;122664693;153164;6433682;11;26
+r;122669013;153164;6433196;11;26
+r;122671781;153164;6432899;11;26
+r;122672534;153164;6432812;11;26
+r;122687364;153164;6431086;11;26
+r;122690319;153164;6430724;11;26
+r;122709799;153164;6428186;11;26
+r;122724781;153164;6426249;11;26
+r;122732284;153164;6425282;11;26
+r;122749600;153164;6423064;11;26
+r;122751589;153164;6422812;11;26
+r;122758268;153164;6421931;11;26
+r;301689096;153164;6347485;11;26
+r;298382903;153164;6288880;11;26
+r;298846158;153164;6294541;11;26
+r;299025812;153164;6297344;11;26
+r;299026073;153164;6297117;11;26
+r;299130672;153164;6300583;11;26
+r;299246268;153164;6302078;11;26
+r;299572961;153164;6308958;11;26
+r;299587609;153164;6311341;11;26
+r;299587834;153164;6311294;11;26
+r;299596517;153164;6312837;11;26
+r;299908245;153164;6319895;11;26
+r;300135019;153164;6323083;11;26
+r;300159630;153164;6324112;11;26
+r;300205927;153164;6326352;11;26
+r;300968809;153164;6331795;11;26
+r;300973561;153164;6332236;11;26
+r;301193809;153164;6334118;11;26
+r;301201648;153164;6334374;11;26
+r;301470032;153164;6340376;11;26
+r;301569883;153164;6346793;11;26
+r;301723613;153164;6348884;11;26
+r;301747030;153164;6352763;11;26
+r;301750202;153164;6353355;11;26
+r;301809217;153164;6356712;11;26
+r;302082606;153164;6359454;11;26
+r;302088041;153164;6359294;11;26
+r;302130349;153164;6362082;11;26
+r;302985563;153164;6370889;11;26
+r;302993941;153164;6371784;11;26
+r;304481582;153164;6387243;11;26
+r;304556236;153164;6389287;11;26
+r;305266762;153164;6402807;11;26
+r;305308626;153164;6405960;11;26
+r;305701200;153164;6419134;11;26
+r;305713625;153164;6421488;11;26
+r;312984286;153164;6401606;11;26
+r;312983340;153164;6381075;11;26
+r;312955067;153164;6334738;11;26
+r;312955088;153164;6368892;11;26
+r;312955109;153164;6348906;11;26
+r;312955140;153164;6374479;11;26
+r;312955174;153164;6401793;11;26
+r;312955197;153164;6403136;11;26
+r;312955226;153164;6288105;11;26
+r;312955277;153164;6292518;11;26
+r;312955339;153164;6303725;11;26
+r;312955361;153164;6387369;11;26
+r;312955429;153164;6355156;11;26
+r;312955500;153164;6388379;11;26
+r;312955557;153164;6377025;11;26
+r;312955595;153164;6361756;11;26
+r;312955681;153164;6378798;11;26
+r;312955715;153164;6384466;11;26
+r;312955795;153164;6301829;11;26
+r;312955927;153164;6332146;11;26
+r;312955965;153164;6326928;11;26
+r;312955986;153164;6401770;11;26
+r;312956020;153164;6365057;11;26
+r;312956044;153164;6285320;11;26
+r;312956063;153164;6410110;11;26
+r;312956101;153164;6318305;11;26
+r;312956132;153164;6331199;11;26
+r;312956190;153164;6376568;11;26
+r;312956209;153164;6415373;11;26
+r;312956305;153164;6359535;11;26
+r;312956325;153164;6326765;11;26
+r;312956355;153164;6300552;11;26
+r;312956424;153164;6388260;11;26
+r;312956469;153164;6300266;11;26
+r;312956536;153164;6289733;11;26
+r;312956558;153164;6301795;11;26
+r;312956583;153164;6343507;11;26
+r;312956621;153164;6391203;11;26
+r;312956655;153164;6361867;11;26
+r;312956679;153164;6377129;11;26
+r;312956728;153164;6326738;11;26
+r;312956779;153164;6316928;11;26
+r;312956914;153164;6396423;11;26
+r;312956992;153164;6354950;11;26
+r;312957149;153164;6416364;11;26
+r;312957194;153164;6339220;11;26
+r;312957216;153164;6329036;11;26
+r;312957255;153164;6292615;11;26
+r;312957337;153164;6292299;11;26
+r;312957494;153164;6421115;11;26
+r;312957651;153164;6411378;11;26
+r;312957801;153164;6336691;11;26
+r;312957859;153164;6308704;11;26
+r;312957941;153164;6349000;11;26
+r;312958335;153164;6295353;11;26
+r;312958936;153164;6337095;11;26
+r;312960894;153164;6292000;11;26
+r;312961481;153164;6308120;11;26
+r;313058335;153164;6308856;11;26
+r;313060093;153164;6418740;11;26
+r;337342673;153164;12988354;11;26
+r;348370822;153164;13737776;11;26
+r;349353877;153164;6345868;11;26
+r;361549208;153164;14257758;11;26
+r;373069288;153164;14671067;11;26
+r;396616542;153164;6288214;11;26
+r;396619964;153164;6288721;11;26
+r;400227081;153164;6364851;11;26
+r;302086459;153164;6359889;11;27
+r;121517216;153164;6441204;11;27
+r;121517847;153164;6441137;11;27
+r;121518152;153164;6441100;11;27
+r;121524858;153164;6440357;11;27
+r;121538681;153164;6438809;11;27
+r;121539700;153164;6438696;11;27
+r;121539769;153164;6438689;11;27
+r;121566837;153164;6435658;11;27
+r;121575735;153164;6434661;11;27
+r;121580061;153164;6434186;11;27
+r;122662339;153164;6433939;11;27
+r;122664840;153164;6433664;11;27
+r;122679749;153164;6432005;11;27
+r;122696804;153164;6429875;11;27
+r;122725029;153164;6426223;11;27
+r;122726241;153164;6426065;11;27
+r;298057574;153164;6285882;11;27
+r;298425176;153164;6290423;11;27
+r;299031393;153164;6298248;11;27
+r;299072484;153164;6299542;11;27
+r;299581607;153164;6310371;11;27
+r;299591788;153164;6311885;11;27
+r;299631085;153164;6313964;11;27
+r;299915495;153164;6319991;11;27
+r;300215318;153164;6328216;11;27
+r;301494476;153164;6343046;11;27
+r;301741657;153164;6351775;11;27
+r;302151732;153164;6363076;11;27
+r;302181037;153164;6364115;11;27
+r;302973740;153164;6369349;11;27
+r;302977589;153164;6370217;11;27
+r;303000193;153164;6371840;11;27
+r;303933412;153164;6382347;11;27
+r;304385979;153164;6386765;11;27
+r;304387468;153164;6386689;11;27
+r;305268557;153164;6402866;11;27
+r;305304746;153164;6405204;11;27
+r;305481391;153164;6412266;11;27
+r;305687717;153164;6417599;11;27
+r;305702468;153164;6419919;11;27
+r;312983385;153164;6335874;11;27
+r;312955251;153164;6346314;11;27
+r;312955398;153164;6365027;11;27
+r;312955452;153164;6325537;11;27
+r;312955481;153164;6336827;11;27
+r;312955617;153164;6351952;11;27
+r;312955834;153164;6416314;11;27
+r;312956256;153164;6379766;11;27
+r;312956282;153164;6391756;11;27
+r;312956511;153164;6417450;11;27
+r;312957631;153164;6397232;11;27
+r;312957958;153164;6400463;11;27
+r;313058960;153164;6368652;11;27
+r;313062506;153164;6406960;11;27
+r;121519272;153164;6440968;11;28
+r;121537027;153164;6438987;11;28
+r;121545042;153164;6438104;11;28
+r;121546096;153164;6437980;11;28
+r;121565933;153164;6435757;11;28
+r;121574278;153164;6434830;11;28
+r;121577362;153164;6434478;11;28
+r;121577809;153164;6434430;11;28
+r;122667802;153164;6433329;11;28
+r;122686478;153164;6431201;11;28
+r;122689532;153164;6430824;11;28
+r;122706748;153164;6428584;11;28
+r;122709227;153164;6428254;11;28
+r;122714312;153164;6427612;11;28
+r;122714696;153164;6427556;11;28
+r;122733975;153164;6425063;11;28
+r;122739186;153164;6424393;11;28
+r;122739262;153164;6424386;11;28
+r;122740756;153164;6424191;11;28
+r;122753336;153164;6422577;11;28
+r;122753538;153164;6422548;11;28
+r;119674423;153164;6083033;11;29
+r;121493944;153164;6443803;11;29
+r;121500028;153164;6443116;11;29
+r;121505937;153164;6442464;11;29
+r;121507176;153164;6442330;11;29
+r;121525259;153164;6440315;11;29
+r;121530895;153164;6439683;11;29
+r;121534455;153164;6439284;11;29
+r;121548939;153164;6437659;11;29
+r;121558042;153164;6436648;11;29
+r;121564756;153164;6435896;11;29
+r;121570313;153164;6435276;11;29
+r;121572232;153164;6435058;11;29
+r;121579858;153164;6434208;11;29
+r;122673316;153164;6432719;11;29
+r;122709986;153164;6428163;11;29
+r;122711145;153164;6428014;11;29
+r;122723595;153164;6426407;11;29
+r;122728562;153164;6425759;11;29
+r;122754518;153164;6422423;11;29
+r;222579228;153164;9989180;11;29
+r;222579262;153164;9989183;11;29
+r;222583516;153164;9989178;11;29
+r;222600638;153164;9989184;11;29
+r;222628591;153164;9989179;11;29
+r;222704271;153164;9989181;11;29
+r;121489913;153164;6444241;11;30
+r;121505907;153164;6442467;11;30
+r;121512156;153164;6441775;11;30
+r;121520619;153164;6440820;11;30
+r;121520933;153164;6440787;11;30
+r;121549724;153164;6437574;11;30
+r;121556390;153164;6436834;11;30
+r;121562280;153164;6436176;11;30
+r;121567539;153164;6435583;11;30
+r;121569562;153164;6435357;11;30
+r;121572662;153164;6435010;11;30
+r;121572726;153164;6435003;11;30
+r;121581708;153164;6434000;11;30
+r;122662138;153164;6433957;11;30
+r;122674504;153164;6432580;11;30
+r;122685141;153164;6431379;11;30
+r;122686248;153164;6431229;11;30
+r;122696073;153164;6429968;11;30
+r;122717220;153164;6427246;11;30
+r;122721795;153164;6426640;11;30
+r;122727172;153164;6425942;11;30
+r;122728367;153164;6425787;11;30
+r;122731136;153164;6425431;11;30
+r;122734491;153164;6425000;11;30
+r;122740720;153164;6424196;11;30
+r;122741478;153164;6424104;11;30
+r;122741983;153164;6424042;11;30
+r;222565906;153164;9989182;11;30
+r;222566943;153164;9989186;11;30
+r;222644361;153164;9989185;11;30
+r;419840576;153164;15762716;11;30
+r;419842920;153164;15234516;11;30
+r;121463064;153164;6447240;11;31
+r;121465398;153164;6446987;11;31
+r;121484100;153164;6444899;11;31
+r;121487879;153164;6444463;11;31
+r;121494722;153164;6443713;11;31
+r;121512935;153164;6441687;11;31
+r;121513920;153164;6441574;11;31
+r;121517803;153164;6441141;11;31
+r;121521376;153164;6440738;11;31
+r;121522141;153164;6440652;11;31
+r;121530996;153164;6439671;11;31
+r;121545556;153164;6438045;11;31
+r;121550698;153164;6437468;11;31
+r;121557439;153164;6436721;11;31
+r;121567855;153164;6435544;11;31
+r;122668489;153164;6433252;11;31
+r;122668944;153164;6433204;11;31
+r;122673870;153164;6432656;11;31
+r;122681410;153164;6431812;11;31
+r;122694435;153164;6430177;11;31
+r;122709700;153164;6428196;11;31
+r;122710785;153164;6428061;11;31
+r;122724940;153164;6426232;11;31
+r;122733140;153164;6425170;11;31
+r;279711447;153164;11034089;11;31
+r;419713433;153164;15432806;11;31
+r;419714971;153164;15432805;11;31
+r;419738489;153164;13785826;11;31
+r;419738512;153164;13746427;11;31
+r;419738539;153164;13740548;11;31
+r;419738566;153164;13795574;11;31
+r;419738589;153164;13793794;11;31
+r;419738616;153164;13788504;11;31
+r;419738671;153164;13795563;11;31
+r;419738702;153164;13796947;11;31
+r;419738737;153164;13802426;11;31
+r;419738772;153164;13799576;11;31
+r;419738803;153164;13797138;11;31
+r;419738838;153164;13791822;11;31
+r;419738876;153164;13790960;11;31
+r;419738904;153164;13781321;11;31
+r;419738936;153164;13800972;11;31
+r;419738964;153164;13799270;11;31
+r;419738996;153164;13793700;11;31
+r;121461185;153164;6447451;11;32
+r;121462420;153164;6447315;11;32
+r;121469726;153164;6446495;11;32
+r;121470408;153164;6446419;11;32
+r;121473502;153164;6446082;11;32
+r;121475092;153164;6445908;11;32
+r;121475145;153164;6445902;11;32
+r;121499806;153164;6443139;11;32
+r;121512011;153164;6441793;11;32
+r;121523280;153164;6440533;11;32
+r;121524957;153164;6440347;11;32
+r;121528382;153164;6439952;11;32
+r;121531619;153164;6439599;11;32
+r;121538768;153164;6438798;11;32
+r;121549694;153164;6437578;11;32
+r;121560729;153164;6436338;11;32
+r;121561112;153164;6436301;11;32
+r;121563390;153164;6436049;11;32
+r;122673512;153164;6432699;11;32
+r;122676537;153164;6432365;11;32
+r;122685155;153164;6431378;11;32
+r;122709542;153164;6428217;11;32
+r;122724998;153164;6426226;11;32
+r;122751009;153164;6422888;11;32
+r;219812553;153164;6348220;11;32
+r;222585269;153164;9989284;11;32
+r;413958764;153164;15885670;11;32
+r;419654274;153164;6355144;11;32
+r;419654866;153164;13787645;11;32
+r;419654874;153164;13768330;11;32
+r;419656643;153164;15477718;11;32
+r;419656653;153164;15497837;11;32
+r;419670753;153164;15417970;11;32
+r;419677321;153164;15367456;11;32
+r;434394451;153164;16514058;11;32
+r;121491460;153164;6444073;11;33
+r;122665464;153164;6433598;11;33
+r;122715363;153164;6427469;11;33
+r;122718704;153164;6427051;11;33
+r;122728932;153164;6425717;11;33
+r;411318455;153164;15789896;11;33
+r;419606568;153164;15212547;11;33
+r;119706916;153164;6261572;11;34
+r;121456994;153164;6447907;11;34
+r;121460254;153164;6447549;11;34
+r;121464974;153164;6447036;11;34
+r;121467044;153164;6446803;11;34
+r;121475238;153164;6445889;11;34
+r;121475357;153164;6445875;11;34
+r;121477041;153164;6445684;11;34
+r;121486577;153164;6444613;11;34
+r;121491874;153164;6444031;11;34
+r;121492693;153164;6443940;11;34
+r;121529962;153164;6439784;11;34
+r;121550954;153164;6437439;11;34
+r;121552578;153164;6437261;11;34
+r;122663606;153164;6433802;11;34
+r;122663847;153164;6433772;11;34
+r;122664321;153164;6433723;11;34
+r;122678274;153164;6432173;11;34
+r;122691989;153164;6430493;11;34
+r;122694198;153164;6430203;11;34
+r;122694960;153164;6430112;11;34
+r;122695139;153164;6430090;11;34
+r;122706654;153164;6428594;11;34
+r;122712233;153164;6427874;11;34
+r;122727066;153164;6425958;11;34
+r;122728232;153164;6425802;11;34
+r;122735692;153164;6424853;11;34
+r;122738972;153164;6424418;11;34
+r;122753464;153164;6422559;11;34
+r;275678938;153164;10943396;11;34
+r;301512470;153164;6344026;11;34
+r;301512952;153164;6343967;11;34
+r;305541111;153164;11826732;11;34
+r;348482555;153164;13743500;11;34
+r;419547749;153164;15268415;11;34
+r;419558860;153164;16087195;11;34
+r;419564822;153164;16074625;11;34
+r;419577577;153164;15234509;11;34
+r;121031994;153164;6451696;11;35
+r;121037685;153164;6451076;11;35
+r;121050022;153164;6449734;11;35
+r;121051224;153164;6449597;11;35
+r;121451630;153164;6448498;11;35
+r;121487202;153164;6444542;11;35
+r;121511488;153164;6441853;11;35
+r;121515090;153164;6441442;11;35
+r;121515913;153164;6441350;11;35
+r;121518713;153164;6441037;11;35
+r;121523824;153164;6440471;11;35
+r;121544642;153164;6438148;11;35
+r;121560838;153164;6436329;11;35
+r;121563903;153164;6435991;11;35
+r;121572288;153164;6435052;11;35
+r;121574798;153164;6434768;11;35
+r;121576825;153164;6434538;11;35
+r;122674894;153164;6432540;11;35
+r;122682466;153164;6431695;11;35
+r;122690967;153164;6430627;11;35
+r;122692676;153164;6430405;11;35
+r;122694877;153164;6430121;11;35
+r;122705109;153164;6428779;11;35
+r;122706088;153164;6428655;11;35
+r;122713008;153164;6427776;11;35
+r;122722888;153164;6426498;11;35
+r;122734963;153164;6424943;11;35
+r;122741258;153164;6424131;11;35
+r;122742297;153164;6424005;11;35
+r;122743192;153164;6423887;11;35
+r;122748208;153164;6423248;11;35
+r;122749194;153164;6423115;11;35
+r;122752146;153164;6422740;11;35
+r;122756727;153164;6422138;11;35
+r;126103369;153164;6298130;11;35
+r;219910559;153164;9935175;11;35
+r;219909959;153164;9935181;11;35
+r;219909778;153164;9935179;11;35
+r;219909334;153164;9935171;11;35
+r;219909209;153164;9935180;11;35
+r;219909189;153164;9935183;11;35
+r;219908751;153164;9935173;11;35
+r;219908724;153164;9935182;11;35
+r;219908657;153164;9935172;11;35
+r;219908541;153164;9935176;11;35
+r;219908514;153164;9935174;11;35
+r;302083227;153164;6359801;11;35
+r;305495048;153164;6413728;11;35
+r;121451950;153164;6448463;11;36
+r;121460936;153164;6447480;11;36
+r;121463664;153164;6447173;11;36
+r;121471483;153164;6446297;11;36
+r;121482499;153164;6445082;11;36
+r;121489365;153164;6444300;11;36
+r;121497007;153164;6443454;11;36
+r;121499421;153164;6443182;11;36
+r;121506023;153164;6442457;11;36
+r;121509197;153164;6442100;11;36
+r;121511807;153164;6441818;11;36
+r;121517514;153164;6441169;11;36
+r;121539656;153164;6438700;11;36
+r;121543641;153164;6438262;11;36
+r;121549625;153164;6437586;11;36
+r;121550612;153164;6437479;11;36
+r;121555838;153164;6436896;11;36
+r;121564180;153164;6435961;11;36
+r;121564476;153164;6435927;11;36
+r;121579484;153164;6434246;11;36
+r;122689653;153164;6430808;11;36
+r;219909645;153164;9935177;11;36
+r;219908935;153164;9935178;11;36
+r;252674218;153164;10313179;11;36
+r;252674228;153164;10313178;11;36
+r;252664172;153164;10316263;11;36
+r;253389716;153164;10334480;11;36
+r;315045523;153164;12077424;11;36
+r;121033913;153164;6451480;11;37
+r;121057282;153164;6448924;11;37
+r;121452292;153164;6448421;11;37
+r;121456505;153164;6447949;11;37
+r;121497052;153164;6443449;11;37
+r;121503678;153164;6442713;11;37
+r;122727843;153164;6425856;11;37
+r;219818510;153164;9929294;11;38
+r;121042475;153164;6450548;11;38
+r;121479573;153164;6445399;11;38
+r;121493518;153164;6443847;11;38
+r;121501703;153164;6442923;11;38
+r;121505792;153164;6442479;11;38
+r;121580189;153164;6434172;11;38
+r;122703011;153164;6429059;11;38
+r;219824868;153164;9929301;11;38
+r;219824823;153164;9929256;11;38
+r;219823662;153164;9929302;11;38
+r;219822883;153164;9929278;11;38
+r;219822581;153164;9929240;11;38
+r;219822339;153164;9929274;11;38
+r;219820565;153164;9929281;11;38
+r;219820215;153164;9929306;11;38
+r;219820147;153164;9929262;11;38
+r;219820104;153164;9929228;11;38
+r;219819880;153164;9929280;11;38
+r;219819538;153164;9929283;11;38
+r;219819493;153164;9929297;11;38
+r;219819460;153164;9929291;11;38
+r;219819438;153164;9929277;11;38
+r;219819360;153164;9929288;11;38
+r;219819331;153164;9929307;11;38
+r;219819279;153164;9929308;11;38
+r;219819238;153164;9929225;11;38
+r;219819143;153164;9929303;11;38
+r;219819093;153164;9929292;11;38
+r;219819012;153164;9929304;11;38
+r;219818969;153164;9929299;11;38
+r;219818929;153164;9929227;11;38
+r;219818896;153164;9929276;11;38
+r;219818833;153164;9929248;11;38
+r;219818619;153164;9929293;11;38
+r;219818592;153164;9929244;11;38
+r;219818487;153164;9929305;11;38
+r;219818407;153164;9929309;11;38
+r;219818372;153164;9929275;11;38
+r;219818352;153164;9929298;11;38
+r;219818329;153164;9929242;11;38
+r;219818245;153164;9929282;11;38
+r;219818183;153164;9929289;11;38
+r;219818105;153164;9929296;11;38
+r;219818075;153164;9929285;11;38
+r;219818047;153164;9929287;11;38
+r;219818028;153164;9929231;11;38
+r;219817959;153164;9929279;11;38
+r;219817819;153164;9929258;11;38
+r;219817758;153164;9929238;11;38
+r;219817735;153164;9929233;11;38
+r;219817631;153164;9929255;11;38
+r;219817586;153164;9929247;11;38
+r;219817516;153164;9929261;11;38
+r;219817493;153164;9929260;11;38
+r;219817470;153164;9929232;11;38
+r;219817436;153164;9929251;11;38
+r;219817373;153164;9929246;11;38
+r;219817354;153164;9929257;11;38
+r;219817318;153164;9929229;11;38
+r;219817303;153164;9929230;11;38
+r;219817277;153164;9929259;11;38
+r;219817251;153164;9929245;11;38
+r;219817218;153164;9929239;11;38
+r;219817194;153164;9929241;11;38
+r;219817173;153164;9929254;11;38
+r;219817148;153164;9929250;11;38
+r;219817122;153164;9929249;11;38
+r;219817098;153164;9929226;11;38
+r;219817936;153164;9929253;11;38
+r;219818806;153164;9929290;11;38
+r;219818764;153164;9929286;11;38
+r;219818731;153164;9929243;11;38
+r;219818650;153164;9929295;11;38
+r;219818702;153164;9929284;11;38
+r;219818679;153164;9929310;11;38
+r;121035412;153164;6451315;11;39
+r;121035903;153164;6451265;11;39
+r;121042653;153164;6450529;11;39
+r;121043463;153164;6450435;11;39
+r;121043519;153164;6450429;11;39
+r;121467972;153164;6446689;11;39
+r;121476178;153164;6445780;11;39
+r;121479881;153164;6445368;11;39
+r;121480167;153164;6445336;11;39
+r;121487600;153164;6444494;11;39
+r;121489161;153164;6444319;11;39
+r;121489565;153164;6444277;11;39
+r;121510330;153164;6441970;11;39
+r;121530190;153164;6439756;11;39
+r;121572161;153164;6435066;11;39
+r;122685124;153164;6431381;11;39
+r;122692268;153164;6430459;11;39
+r;122711076;153164;6428022;11;39
+r;122716757;153164;6427308;11;39
+r;122736565;153164;6424736;11;39
+r;122747864;153164;6423294;11;39
+r;219818556;153164;9929300;11;39
+r;219817650;153164;9929252;11;39
+r;254595849;153164;10364241;11;39
+r;290557396;153164;11342008;11;39
+r;308651462;153164;11957666;11;39
+r;55652021;153164;2459647;11;40
+r;121461923;153164;6447374;11;40
+r;121464545;153164;6447082;11;40
+r;121476164;153164;6445781;11;40
+r;121480517;153164;6445301;11;40
+r;121487779;153164;6444474;11;40
+r;121490685;153164;6444160;11;40
+r;121492516;153164;6443963;11;40
+r;121500883;153164;6443019;11;40
+r;121561657;153164;6436244;11;40
+r;122705611;153164;6428715;11;40
+r;269372560;153164;10761416;11;40
+r;340517267;153164;13403789;11;40
+r;53809705;153164;2405679;11;41
+r;121046621;153164;6450097;11;41
+r;121454368;153164;6448192;11;41
+r;121466216;153164;6446894;11;41
+r;121515102;153164;6441441;11;41
+r;121528208;153164;6439969;11;41
+r;122731061;153164;6425437;11;41
+r;254700874;153164;10370108;11;41
+r;290111173;153164;11325216;11;41
+r;109882491;153164;5554328;11;42
+r;121030862;153164;6451813;11;42
+r;121048227;153164;6449921;11;42
+r;121048779;153164;6449862;11;42
+r;121049916;153164;6449747;11;42
+r;121050525;153164;6449675;11;42
+r;121052669;153164;6449436;11;42
+r;121053515;153164;6449341;11;42
+r;121053796;153164;6449307;11;42
+r;121054321;153164;6449252;11;42
+r;121480054;153164;6445348;11;42
+r;121490042;153164;6444225;11;42
+r;121560443;153164;6436368;11;42
+r;122710922;153164;6428041;11;42
+r;122733581;153164;6425115;11;42
+r;283569065;153164;11153667;11;42
+r;283606208;153164;11154132;11;42
+r;287238658;153164;11208217;11;42
+r;290043894;153164;11325215;11;42
+r;109662625;153164;5537724;11;43
+r;121036315;153164;6451218;11;43
+r;121053021;153164;6449398;11;43
+r;121056672;153164;6448996;11;43
+r;121056696;153164;6448994;11;43
+r;121458153;153164;6447783;11;43
+r;121459773;153164;6447603;11;43
+r;121481545;153164;6445193;11;43
+r;121487143;153164;6444548;11;43
+r;121500345;153164;6443080;11;43
+r;122664504;153164;6433701;11;43
+r;289986966;153164;11320647;11;43
+r;289987098;153164;11320607;11;43
+r;289988094;153164;11320637;11;43
+r;109888549;153164;5553163;11;44
+r;109947327;153164;5559113;11;44
+r;121029758;153164;6451934;11;44
+r;121036811;153164;6451169;11;44
+r;121040678;153164;6450749;11;44
+r;121059074;153164;6448724;11;44
+r;121454687;153164;6448155;11;44
+r;121516068;153164;6441332;11;44
+r;121533980;153164;6439336;11;44
+r;121570039;153164;6435305;11;44
+r;289960656;153164;11317564;11;44
+r;55289677;153164;2442542;11;45
+r;121031932;153164;6451702;11;45
+r;121033844;153164;6451487;11;45
+r;121037490;153164;6451097;11;45
+r;121039051;153164;6450929;11;45
+r;121047792;153164;6449968;11;45
+r;121049948;153164;6449743;11;45
+r;121054267;153164;6449257;11;45
+r;121455974;153164;6448009;11;45
+r;121461061;153164;6447466;11;45
+r;121466042;153164;6446912;11;45
+r;284991718;153164;11159496;11;45
+r;417031405;153164;15207248;11;45
+r;55258260;153164;2440954;11;46
+r;121030064;153164;6451902;11;46
+r;121035422;153164;6451314;11;46
+r;121051965;153164;6449515;11;46
+r;121056571;153164;6449007;11;46
+r;121058724;153164;6448763;11;46
+r;55502220;153164;2451554;11;47
+r;109886094;153164;5553707;11;47
+r;121506318;153164;6442425;11;47
+r;121045785;153164;6450187;11;48
+r;121045870;153164;6450179;11;48
+r;121455394;153164;6448073;11;48
+r;121469535;153164;6446518;11;48
+r;121479949;153164;6445360;11;48
+r;121041076;153164;6450708;11;49
+r;121043196;153164;6450466;11;49
+r;121453635;153164;6448274;11;49
+r;121454056;153164;6448224;11;49
+r;121059043;153164;6448728;11;50
+r;121452219;153164;6448431;11;50
+r;121454125;153164;6448218;11;50
+r;121466516;153164;6446862;11;50
+r;375448317;153164;14771982;11;50
+r;393990127;153164;14529416;11;50
+r;29875923;153164;1847046;11;51
+r;121032652;153164;6451624;11;51
+r;76705498;153164;3179299;11;52
+r;78390479;153164;3233095;11;52
+r;88754449;153164;3554629;11;53
+r;105816761;153164;5126370;11;53
+r;26562881;153164;1650534;11;54
+r;50171734;153164;2361776;11;54
+r;121040166;153164;6450803;11;54
+r;121055615;153164;6449107;11;54
+r;16885440;153164;565868;11;55
+r;50154955;153164;2360460;11;55
+r;77091244;153164;3184571;11;56
+r;121034225;153164;6451446;11;56
+r;24576669;153164;1484940;11;57
+r;55498628;153164;2606089;11;58
+r;77277303;153164;3185819;11;58
+r;28410554;153164;1730088;11;59
+r;121040312;153164;6450790;11;59
+r;72310417;153164;2937865;11;60
+r;78665723;153164;3250216;11;60
+r;71611004;153164;2923969;11;63
+r;29855914;153164;1851074;11;65
+r;29901744;153164;1841977;11;69
+r;12568083;153164;383368;11;101
+r;12544253;153164;389432;11;102
+r;12601479;153164;375114;11;102
+r;12723511;153164;345239;11;102
+r;13507557;153164;393385;11;102
+r;12660189;153164;360646;11;103
+r;12679971;153164;355791;11;103
+r;12602179;153164;374933;11;104
+r;12632255;153164;367495;11;104
+r;12660097;153164;360670;11;104
+r;12700277;153164;350764;11;104
+r;12751643;153164;338499;11;104
+r;12683577;153164;354894;11;105
+r;12756563;153164;337251;11;105
+r;12626677;153164;368956;11;106
+r;12700285;153164;350763;11;106
+r;12731443;153164;343299;11;106
+r;12637931;153164;366075;11;107
+r;12655487;153164;361789;11;108
+r;12656155;153164;361617;11;109
+r;8920926;153164;316541;11;151
+r;8875860;153164;179466;11;153
+r;8699234;153164;230690;11;160
+r;8697013;153164;227704;11;161
+r;8699063;153164;230533;11;161
+r;8700109;153164;231717;11;161
+r;8710019;153164;246331;11;161
+r;8718007;153164;254146;11;161
+r;8723150;153164;257798;11;161
+r;8730453;153164;263283;11;161
+r;8730589;153164;263413;11;161
+r;8585171;153164;45542;11;162
+r;8604369;153164;100637;11;162
+r;8606280;153164;105992;11;162
+r;8619785;153164;140648;11;162
+r;8626610;153164;159875;11;162
+r;8629832;153164;165899;11;162
+r;8681388;153164;208119;11;162
+r;8682756;153164;208923;11;162
+r;8585979;153164;47820;11;163
+r;8602246;153164;94846;11;163
+r;8602263;153164;94898;11;163
+r;8618310;153164;137952;11;163
+r;8625571;153164;158132;11;163
+r;8626067;153164;159025;11;163
+r;8636152;153164;179426;11;163
+r;8636160;153164;179467;11;163
+r;8670762;153164;201666;11;163
+r;8672783;153164;202959;11;163
+r;8738731;153164;271211;11;163
+r;8750189;153164;282944;11;163
+r;8751800;153164;284585;11;163
+r;8755559;153164;287810;11;163
+r;8757275;153164;289318;11;163
+r;8774737;153164;308936;11;163
+r;8645912;153164;186017;11;164
+r;8659589;153164;194987;11;164

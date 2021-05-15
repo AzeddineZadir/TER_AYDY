@@ -1,0 +1,180 @@
+
+e;68447;'sympathique';1;258
+e;6288663;'ganglions cardiaques du sympathique';1;0
+e;6303362;'dénervation sympathique';1;0
+e;6305148;'cordons intermédiaires de la chaîne sympathique latérovertébrale';1;0
+e;6311126;'algodystrophie sympathique réflexe';1;0
+e;6321207;'section transversale d'un nerf sympathique';1;0
+e;6323380;'ganglions aortico-rénaux du sympathique';1;0
+e;6334684;'rameaux interganglionnaires de la chaîne sympathique latérovertébrale';1;0
+e;6336063;'déclencheurs du médiateur sympathique';1;0
+e;6345786;'ptosis sympathique';1;0
+e;6364867;'plexus oesophagien du sympathique thoracique';1;0
+e;6374193;'ganglions rénaux du sympathique';1;0
+e;6392838;'blocage nerveux d'un nerf sympathique';1;0
+e;6405852;'coupure d'un nerf sympathique';1;0
+e;6407021;'rameaux pulmonaires du sympathique';1;0
+e;6416872;'section d'un nerf sympathique';1;0
+e;6420742;'rameaux communicants de la chaîne sympathique latérovertébrale';1;0
+e;6334547;'dénervation sympathique chimique';1;0
+e;6306358;'neurotomie sympathique';1;0
+e;6321597;'syndrome oculaire sympathique';1;0
+e;6343959;'ganglion sympathique thoracique';1;0
+e;6354659;'système sympathique';1;0
+e;15594396;'région abdominale du système nerveux sympathique';1;0
+e;6429937;'gangliectomie sympathique lombaire';1;0
+e;6085566;'oculo-sympathique';1;0
+e;6085733;'para-sympathique';1;0
+e;6284521;'paragangliome sympathique';1;0
+e;6286104;'ganglions du tronc sympathique';1;0
+e;6294078;'maladies du système nerveux sympathique';1;0
+e;6320033;'ganglions hypogastriques du sympathique';1;0
+e;6367866;'nerfs terminaux de la portion céphalique du système sympathique';1;0
+e;6427484;'rameau rachidien de la chaîne sympathique latérovertébrale';1;0
+e;6432141;'injection d'alcool dans un nerf sympathique';1;0
+e;6431331;'ganglion vertébral du sympathique';1;0
+e;6425486;'ganglions intermédiaires de la chaîne sympathique latérovertébrale';1;0
+e;6396731;'dystrophie sympathique réflexe post-traumatique';1;0
+e;6422950;'syndrome sympathique cervical';1;0
+e;15362849;'avoir l'air sympathique';1;0
+e;13743016;'biopsie-exérèse d'un ganglion nerveux sympathique';1;0
+e;13748406;'biopsie-exérèse d'un nerf sympathique';1;0
+e;16324399;'accueil très sympathique';1;0
+e;12884963;'système nerveux autonome sympathique';1;0
+e;12884964;'ganglion sympathique prévertébral';1;0
+e;1839685;'nerfs cardiaques cervicaux du sympathique';1;0
+e;6444272;'injection d'agent anesthésique dans un nerf sympathique pour analgésie';1;0
+e;6434804;'injection d'agent neurolytique dans un nerf sympathique';1;0
+e;6426861;'plexus cardiaque du sympathique thoracique';1;0
+e;6426872;'ganglions lombaires du sympathique';1;0
+e;5896689;'pendule sympathique';777;0
+e;12701007;'dénervation sympathique rénale';777;0
+e;456475;'tronc sympathique droit';1;50
+e;4898542;'ganglions du système nerveux sympathique';1;0
+e;463803;'tumeur sympathique ganglionnaire du médiastin';1;50
+e;1822023;'uvéite sympathique';1;0
+e;4898536;'ganglion du système nerveux sympathique';1;0
+e;459942;'chaîne sympathique latérovertébrale';1;50
+e;1815366;'ganglion cervical moyen du sympathique';1;0
+e;1778862;'ganglion sympathique';1;0
+e;1820333;'nerf cardiaque moyen du sympathique';1;0
+e;1918661;'tumeur sympathique ganglionnaire';1;0
+e;456476;'tronc sympathique gauche';1;50
+e;463334;'dystrophie sympathique réflexe, genou';1;50
+e;1842773;'racine sympathique du ganglion sublingual';1;0
+e;1842770;'racine sympathique des ganglions pelviens';1;0
+e;1804397;'chaine sympathique latéro-vertébrale';1;0
+e;1815316;'ganglion cervical inférieur du sympathique';1;0
+e;4306945;'nerf sympathique';777;0
+e;1778851;'ganglion du tronc sympathique';1;0
+e;1815365;'ganglion cervical supérieur du sympathique';1;0
+e;1842772;'racine sympathique du ganglion ptérygopalatin';1;0
+e;1844103;'salive sympathique';1;0
+e;1842774;'racine sympathique du ganglion submandibulaire';1;0
+e;1845749;'système nerveux sympathique de l'utérus';1;0
+e;1843099;'rameaux interganglionnaires du tronc sympathique';1;0
+e;1815325;'ganglion sympathique latérovertébral';1;0
+e;1842771;'racine sympathique du ganglion ciliaire';1;0
+e;343334;'chaîne sympathique abdominale';1;50
+e;383322;'terminaison sympathique';1;50
+e;356691;'grand sympathique';1;50
+e;344464;'corde sympathique';1;50
+e;176154;'ortho-sympathique';1;50
+e;321405;'tronc sympathique';1;50
+e;321406;'chaîne sympathique';777;50
+e;176191;'système nerveux ortho-sympathique';1;50
+e;242537;'encre sympathique';1;104
+e;283709;'système nerveux sympathique';777;4
+e;180373;'ophtalmie sympathique';1;50
+e;268865;'rencontre sympathique';1;50
+e;197432;'chaîne sympathique latéro-vertébrale';1;50
+r;310763122;68447;726011;11;15
+r;310763124;68447;726010;11;15
+r;298371487;68447;6288663;11;25
+r;299339407;68447;6303362;11;25
+r;299483176;68447;6305148;11;25
+r;299587652;68447;6311126;11;25
+r;300108994;68447;6321207;11;25
+r;300138883;68447;6323380;11;25
+r;301210112;68447;6334684;11;25
+r;301402079;68447;6336063;11;25
+r;301559494;68447;6345786;11;25
+r;302183432;68447;6364867;11;25
+r;303288821;68447;6374193;11;25
+r;304859310;68447;6392838;11;25
+r;305307576;68447;6405852;11;25
+r;305315638;68447;6407021;11;25
+r;305684240;68447;6416872;11;25
+r;305706650;68447;6420742;11;25
+r;319103928;68447;6334547;11;25
+r;340994464;68447;6306358;11;25
+r;349163878;68447;6321597;11;25
+r;349248144;68447;6343959;11;25
+r;349890870;68447;6354659;11;25
+r;400051801;68447;15594396;11;25
+r;122696316;68447;6429937;11;26
+r;296923768;68447;6085566;11;26
+r;296927942;68447;6085733;11;26
+r;297667961;68447;6284521;11;26
+r;298081763;68447;6286104;11;26
+r;298728163;68447;6294078;11;26
+r;299928544;68447;6320033;11;26
+r;302947505;68447;6367866;11;26
+r;122715257;68447;6427484;11;27
+r;122678583;68447;6432141;11;29
+r;122685522;68447;6431331;11;30
+r;122730657;68447;6425486;11;30
+r;419803222;68447;6396731;11;30
+r;122750507;68447;6422950;11;32
+r;419631862;68447;15362849;11;32
+r;419654396;68447;13743016;11;32
+r;419654406;68447;13748406;11;32
+r;434368607;68447;16324399;11;33
+r;330762733;68447;12884963;11;34
+r;330762713;68447;12884964;11;35
+r;30037878;68447;1839685;11;36
+r;121489626;68447;6444272;11;36
+r;121574496;68447;6434804;11;36
+r;122720201;68447;6426861;11;36
+r;122720109;68447;6426872;11;39
+r;115109708;68447;5896689;11;48
+r;327330066;68447;12701007;11;50
+r;16128498;68447;456475;11;51
+r;102152895;68447;4898542;11;51
+r;16353441;68447;463803;11;52
+r;29759748;68447;1822023;11;53
+r;102152613;68447;4898536;11;53
+r;16141555;68447;459942;11;54
+r;29630985;68447;1815366;11;54
+r;29214616;68447;1778862;11;55
+r;29742410;68447;1820333;11;55
+r;30975814;68447;1918661;11;55
+r;16128490;68447;456476;11;56
+r;16355860;68447;463334;11;56
+r;29898759;68447;1842773;11;56
+r;29898783;68447;1842770;11;56
+r;29523070;68447;1804397;11;57
+r;29630269;68447;1815316;11;57
+r;96359571;68447;4306945;11;58
+r;29215561;68447;1778851;11;60
+r;29630633;68447;1815365;11;60
+r;29898767;68447;1842772;11;61
+r;29889754;68447;1844103;11;62
+r;29898751;68447;1842774;11;63
+r;29882044;68447;1845749;11;64
+r;29895469;68447;1843099;11;65
+r;29630508;68447;1815325;11;66
+r;29898775;68447;1842771;11;69
+r;12731295;68447;343334;11;101
+r;12568263;68447;383322;11;107
+r;12676213;68447;356691;11;107
+r;12726693;68447;344464;11;108
+r;11854521;68447;176154;11;122
+r;9067626;68447;321405;11;148
+r;9067628;68447;321406;11;148
+r;8875806;68447;176191;11;152
+r;8707705;68447;242537;11;161
+r;8750876;68447;283709;11;162
+r;8636909;68447;180373;11;163
+r;8736648;68447;268865;11;163
+r;8663372;68447;197432;11;164

@@ -1,0 +1,46 @@
+
+e;398664;'assurée';1;58
+e;6409781;'cellules tumorales de bénignité ou de malignité non assurée';1;0
+e;6310324;'néoplasme malin non classé de nature primaire ou secondaire non assurée';1;0
+e;6378787;'personne non assurée sociale';1;0
+e;13801558;'cylindrome (à l'exception du cylindrome de la peau m-82000), de nature primitive ou secondaire non assurée';1;0
+e;15395070;'chose assurée';1;0
+e;13789005;'carcinome excréto-urinaire papillaire, de nature primitive ou secondaire non assurée';1;0
+e;13792219;'carcinome excréto-urinaire, de nature primitive ou secondaire non assurée';1;0
+e;13742887;'carcinome à cellules géantes pseudo-ostéoclastiques, de nature primitive ou secondaire non assurée';1;0
+e;13777575;'carcinome épithélial-myoépithélial, de nature primitive ou secondaire non assurée';1;0
+e;13792477;'carcinoïde malin (sauf appendice, voir m-82401), de nature primitive ou secondaire non assurée';1;0
+e;15446045;'assurée social';1;0
+e;10314948;'Indiscrétion assurée';777;0
+e;10178815;'Discrétion assurée';777;0
+e;15274036;'La permanence de la gare est rarement assurée dans la soirée.';1;0
+e;15256312;'La desserte du village est assurée par autocar.';1;0
+e;15275337;'La motorisation des avions est assurée par des moteurs Rolls-Royce.';1;0
+e;15530949;''discrétion assurée'';1;0
+e;586372;'destruction mutuelle assurée';777;0
+e;368787;'parole assurée';1;50
+e;387511;'voix assurée';1;50
+e;347674;'discrétion assurée';1;50
+e;386088;'valeur assurée';1;50
+r;305462958;398664;6409781;11;25
+r;340999626;398664;6310324;11;25
+r;303646730;398664;6378787;11;26
+r;419756662;398664;13801558;11;30
+r;419708407;398664;15395070;11;31
+r;419682622;398664;13789005;11;32
+r;419682674;398664;13792219;11;32
+r;419686003;398664;13742887;11;32
+r;419686194;398664;13777575;11;32
+r;419686223;398664;13792477;11;32
+r;419614738;398664;15446045;11;33
+r;252668305;398664;10314948;11;36
+r;238919969;398664;10178815;11;43
+r;417032631;398664;15274036;11;44
+r;417031895;398664;15256312;11;45
+r;417032461;398664;15275337;11;45
+r;397846989;398664;15530949;11;50
+r;18401382;398664;586372;11;51
+r;14209846;398664;368787;11;53
+r;14206404;398664;387511;11;54
+r;14213562;398664;347674;11;55
+r;14206692;398664;386088;11;57

@@ -1,0 +1,2871 @@
+
+e;4023;'avant';1;596
+e;11129736;'tasse-avant';777;0
+e;6313079;'présentation oblique avant le travail affectant le foetus ou le nouveau-né';1;0
+e;6321187;'foetus ou nouveau-né affecté par une version externe avant le travail';1;0
+e;6325976;'présentation transverse avant le travail affectant le foetus ou le nouveau-né';1;0
+e;6350764;'traumatismes d'un avant bras';1;0
+e;6357077;'béance du col utérin avant le début du travail';1;0
+e;6384896;'débridement d'une articulation du pied avant';1;0
+e;6387105;'débridement du pied avant';1;0
+e;6398965;'avant pied humain';1;0
+e;6401821;'foetus et nouveau-né affectés par une présentation anormale avant le travail';1;0
+e;6407769;'présentation du siège avant le travail affectant le foetus ou le nouveau-né';1;0
+e;6409939;'enlèvement de pansement du sabot avant';1;0
+e;6419587;'examen échographique du membre avant';1;0
+e;12199963;'cortisol t15min avant crh (1µg/kg, iv)';1;0
+e;12195714;'mesure de volume de l'échantillon avant lavage';1;0
+e;12194193;'mesure d'urée avant dialyse';1;0
+e;12193298;'mesure de triiodothyronine libre avant triple bolus';1;0
+e;12191831;'mesure de thyréostimuline t30min avant épreuve';1;0
+e;12191815;'mesure de thyréostimuline t15min avant trh iv';1;0
+e;12191813;'mesure de thyréostimuline t15min avant lhrh iv';1;0
+e;12191811;'mesure de thyréostimuline t15min avant épreuve';1;0
+e;12191739;'mesure de thyréostimuline avant triple bolus';1;0
+e;12191736;'mesure de thyréostimuline avant trh';1;0
+e;12191734;'mesure de thyréostimuline avant lhrh iv';1;0
+e;12191732;'mesure de thyréostimuline avant épreuve';1;0
+e;12191045;'mesure de testostérone avant triple bolus';1;0
+e;12191043;'mesure de testostérone avant synacthène';1;0
+e;12191041;'mesure de testostérone avant hcg';1;0
+e;12191039;'mesure de testostérone avant hcg (5000 u,im)';1;0
+e;12190783;'mesure de temps de quick t02h avant épreuve';1;0
+e;12190562;'mesure de temps de céphaline activée t02h avant épreuve';1;0
+e;12190508;'mesure de temps avant la prochaine menstruation';1;0
+e;12189850;'mesure de symptomes patient avant lactose per os';1;0
+e;12188061;'détermination de la présence de spermatozoïdes progressifs avant lavage';1;0
+e;12187996;'mesure de spermatozoïdes mobiles/100 spermatozoïdes avant lavage';1;0
+e;12187976;'détermination de la présence de spermatozoïdes mobiles avant lavage';1;0
+e;12187907;'mesure de spermatozoïdes avant lavage';1;0
+e;12187539;'mesure de somatotropine t30mn avant arginine';1;0
+e;12187537;'mesure de somatotropine t30min avant trh';1;0
+e;12187535;'mesure de somatotropine t30min avant propranolol+glucagon';1;0
+e;12187533;'mesure de somatotropine t30min avant glucose (1g/kg,po)';1;0
+e;12187531;'mesure de somatotropine t30min avant bétaxolol+glucagon';1;0
+e;12187462;'mesure de somatotropine t15min avant trh';1;0
+e;12187460;'mesure de somatotropine t15min avant ornithine';1;0
+e;12187458;'mesure de somatotropine t15min avant insuline iv';1;0
+e;12187456;'mesure de somatotropine t15min avant glucagon';1;0
+e;12187453;'mesure de somatotropine t15min avant arginine+insuline';1;0
+e;12187450;'mesure de somatotropine t15min avant arginine';1;0
+e;12187347;'mesure de somatotropine t03h avant propranolol+glucagon';1;0
+e;12187311;'mesure de somatotropine t02h avant propranolol+glucagon';1;0
+e;12187193;'mesure de somatotropine avant triple bolus';1;0
+e;12187191;'mesure de somatotropine avant trh';1;0
+e;12187189;'mesure de somatotropine avant propranolol+glucagon';1;0
+e;12187187;'mesure de somatotropine avant ornithine';1;0
+e;12187185;'mesure de somatotropine avant l-dopa (250µg 2j,po)';1;0
+e;12187182;'mesure de somatotropine avant insuline iv';1;0
+e;12187180;'mesure de somatotropine avant glucose per os';1;0
+e;12187178;'mesure de somatotropine avant glucose (1g/kg,po)';1;0
+e;12187176;'mesure de somatotropine avant glucagon';1;0
+e;12187174;'mesure de somatotropine avant ghrf';1;0
+e;12187171;'mesure de somatotropine avant clonidine';1;0
+e;12187169;'mesure de somatotropine avant bétaxolol+glucagon';1;0
+e;12187167;'mesure de somatotropine avant arginine+insuline';1;0
+e;12187164;'mesure de somatotropine avant arginine';1;0
+e;12184072;'mesure de rétinol avant 5000 u';1;0
+e;12183905;'mesure de résistance globulaire osmotique avant hémolyse';1;0
+e;12183758;'mesure de rénine t30min avant épreuve';1;0
+e;12183694;'mesure de rénine avant furosémide (600µg,po)';1;0
+e;12183407;'détermination de la présence de radioactivité avant cyanocobalamine radioactive';1;0
+e;12183213;'mesure de pyridoxine avant pyridoxine (250mg,po)';1;0
+e;12182160;'mesure de prolactine t15min avant trh iv';1;0
+e;12182068;'mesure de prolactine avant triple bolus';1;0
+e;12182065;'mesure de prolactine avant trh iv';1;0
+e;12182063;'mesure de prolactine avant métoclopramide';1;0
+e;12182061;'mesure de prolactine avant l-dopa per os';1;0
+e;12182059;'mesure de prolactine avant insuline iv';1;0
+e;12182057;'mesure de prolactine avant épreuve';1;0
+e;12181673;'mesure de prégnanediol avant dexaméthasone fort';1;0
+e;12181670;'mesure de prégnanediol avant dexaméthasone';1;0
+e;12181433;'mesure de potassium avant dialyse';1;0
+e;12180186;'mesure de poids corporel avant opération';1;0
+e;12180184;'mesure de poids corporel avant grossesse';1;0
+e;12180182;'mesure de poids corporel avant dialyse';1;0
+e;12180180;'mesure de poids corporel avant acouchement';1;0
+e;12177848;'mesure de phosphate avant dialyse';1;0
+e;12175975;'mesure de parathormone avant calcium';1;0
+e;12172482;'mesure de noradrénaline avant clonidine (300µg,po)';1;0
+e;12168685;'mesure de méthane expiré avant lactose per os';1;0
+e;12166683;'mesure de lutéotropine t15min avant lhrh (100µg,iv)';1;0
+e;12166673;'mesure de lutéotropine t10min avant grh';1;0
+e;12166619;'mesure de lutéotropine avant triple bolus';1;0
+e;12166617;'mesure de lutéotropine avant lhrh (100µg,iv)';1;0
+e;12166615;'mesure de lutéotropine avant épreuve';1;0
+e;12164403;'mesure de lactose t12h avant jeûne';1;0
+e;12164381;'mesure de lactose avant jeûne';1;0
+e;12164204;'mesure de lactate avant épreuve';1;0
+e;12162702;'mesure d'insuline t30min avant épreuve';1;0
+e;12162670;'mesure d'insuline t15min avant épreuve';1;0
+e;12162635;'mesure d'insuline t10min avant glucose';1;0
+e;12162603;'mesure d'insuline t07min avant glucose';1;0
+e;12162573;'mesure d'insuline t05min avant glucose';1;0
+e;12162353;'mesure d'insuline avant tolbutamide iv';1;0
+e;12162351;'mesure d'insuline avant glucose';1;0
+e;12162349;'mesure d'insuline avant glucose (75g,po)';1;0
+e;12162347;'mesure d'insuline avant glucose (100g,po)';1;0
+e;12162345;'mesure d'insuline avant glucagon';1;0
+e;12162342;'mesure d'insuline avant épreuve';1;0
+e;12160994;'mesure d'ibuprofène avant administration';1;0
+e;12160652;'mesure d'hydrogène+méthane expiré avant lactose per os';1;0
+e;12160511;'mesure d'hydrogène expiré avant lactulose';1;0
+e;12160509;'mesure d'hydrogène expiré avant lactose per os';1;0
+e;12160507;'mesure d'hydrogène expiré avant glucose';1;0
+e;12160505;'mesure d'hydrogène expiré avant fructose per os';1;0
+e;12160503;'mesure d'hydrogène expiré avant épreuve';1;0
+e;12157160;'mesure d'hémoglobine avant phlébotomie';1;0
+e;12155594;'mesure de glucose t30min avant épreuve';1;0
+e;12155592;'mesure de glucose t30min avant bétaxolol';1;0
+e;12155503;'mesure de glucose t20min avant épreuve';1;0
+e;12155459;'mesure de glucose t15min avant ornithine+alpha-cétoglutarate';1;0
+e;12155457;'mesure de glucose t15min avant insuline iv';1;0
+e;12155455;'mesure de glucose t15min avant glucose';1;0
+e;12155453;'mesure de glucose t15min avant glucagon';1;0
+e;12155450;'mesure de glucose t15min avant épreuve';1;0
+e;12155448;'mesure de glucose t15min avant bétaxolol';1;0
+e;12155407;'mesure de glucose t13min avant épreuve';1;0
+e;12155390;'mesure de glucose t12h avant jeûne';1;0
+e;12155364;'mesure de glucose t10min avant glucagon';1;0
+e;12155361;'mesure de glucose t10min avant épreuve';1;0
+e;12155316;'mesure de glucose t08min avant épreuve';1;0
+e;12155249;'mesure de glucose t05min avant glucagon';1;0
+e;12155246;'mesure de glucose t05min avant épreuve';1;0
+e;12155140;'mesure de glucose t03min avant épreuve';1;0
+e;12155113;'mesure de glucose t03h avant insuline iv';1;0
+e;12154798;'mesure de glucose avant triple bolus';1;0
+e;12154796;'mesure de glucose avant ornithine+alpha-cétoglutarate';1;0
+e;12154793;'mesure de glucose avant lactose per os';1;0
+e;12154791;'mesure de glucose avant lactose (50g,po)';1;0
+e;12154788;'mesure de glucose avant insuline iv';1;0
+e;12154786;'mesure de glucose avant glucose';1;0
+e;12154783;'mesure de glucose avant glucose (75g,po)';1;0
+e;12154781;'mesure de glucose avant glucose (50g,po)';1;0
+e;12154778;'mesure de glucose avant glucose (100g,po)';1;0
+e;12154776;'mesure de glucose avant glucose (0,5g/kg,iv)';1;0
+e;12154774;'mesure de glucose avant glucagon';1;0
+e;12154772;'mesure de glucose avant fructose per os';1;0
+e;12154769;'mesure de glucose avant épreuve';1;0
+e;12154767;'mesure de glucose avant dialyse';1;0
+e;12154765;'mesure de glucose avant bétaxolol';1;0
+e;12154546;'mesure de glucagon avant épreuve';1;0
+e;12154084;'mesure de gastrine t30min avant épreuve';1;0
+e;12154058;'mesure de gastrine t10min avant épreuve';1;0
+e;12153994;'mesure de gastrine t01min avant épreuve';1;0
+e;12153968;'mesure de gastrine avant secrétine (0,2u/kg)';1;0
+e;12153966;'mesure de gastrine avant épreuve';1;0
+e;12152764;'mesure de folliculostimuline t15min avant lhrh (100µg,iv)';1;0
+e;12152755;'mesure de folliculostimuline t10min avant grh';1;0
+e;12152696;'mesure de folliculostimuline avant triple bolus';1;0
+e;12152694;'mesure de folliculostimuline avant lhrh (100µg,iv)';1;0
+e;12152692;'mesure de folliculostimuline avant épreuve';1;0
+e;12151976;'mesure de fgf-23 intact avant épreuve';1;0
+e;12151966;'mesure de fgf-23 avant épreuve';1;0
+e;12151885;'mesure de triiodothyronine libre avant ou après épreuve';1;0
+e;12151839;'mesure de thyréostimuline t20min avant épreuve';1;0
+e;12151825;'mesure de thyréostimuline avant trh iv';1;0
+e;12151823;'mesure de thyréostimuline avant trh in';1;0
+e;12151821;'mesure de thyréostimuline avant ou après trh';1;0
+e;12151819;'mesure de thyréostimuline avant ou après épreuve';1;0
+e;12151800;'mesure de testostérone avant ou après épreuve';1;0
+e;12151729;'mesure de somatotropine t15min avant épreuve';1;0
+e;12151693;'mesure de somatotropine avant ou après insuline';1;0
+e;12151691;'mesure de somatotropine avant ou après glucose';1;0
+e;12151689;'mesure de somatotropine avant ou après glucagon';1;0
+e;12151687;'mesure de somatotropine avant ou après épreuve';1;0
+e;12151685;'mesure de somatotropine avant ou après clonidine';1;0
+e;12151683;'mesure de somatotropine avant ou après arginine';1;0
+e;12151681;'mesure de somatotropine avant épreuve';1;0
+e;12151668;'mesure de sex hormone binding globulin avant ou après épreuve';1;0
+e;12151613;'mesure de rénine avant ou après épreuve';1;0
+e;12151587;'mesure de prolactine avant ou après épreuve';1;0
+e;12151371;'mesure de noradrénaline avant ou après épreuve';1;0
+e;12151219;'mesure de lutéotropine t15min avant épreuve';1;0
+e;12151180;'mesure de lutéotropine avant ou après épreuve';1;0
+e;12151178;'mesure de lutéotropine avant grh';1;0
+e;12151106;'mesure de lactate avant ou après épreuve';1;0
+e;12151069;'mesure d'insulin-like growth factor binding protein 1 avant ou après épreuve';1;0
+e;12151065;'mesure d'insuline avant ou après glucose';1;0
+e;12151063;'mesure d'insuline avant ou après épreuve';1;0
+e;12150909;'mesure de glucose avant ou après insuline';1;0
+e;12150907;'mesure de glucose avant ou après glucose';1;0
+e;12150905;'mesure de glucose avant ou après glucagon';1;0
+e;12150903;'mesure de glucose avant ou après épreuve';1;0
+e;12150901;'mesure de glucose avant ou après clonidine';1;0
+e;12150899;'mesure de glucose avant ou après arginine';1;0
+e;12150890;'mesure de gastrine avant ou après épreuve';1;0
+e;12150808;'mesure de folliculostimuline avant ou après épreuve';1;0
+e;12150806;'mesure de folliculostimuline avant grh';1;0
+e;12150622;'mesure de cortisol avant ou après synacthène';1;0
+e;12150620;'mesure de cortisol avant ou après épreuve';1;0
+e;12150618;'mesure de cortisol avant ou après dexaméthasone';1;0
+e;12150612;'mesure de corticotropine avant ou après épreuve';1;0
+e;12150492;'mesure de calcitonine avant ou après épreuve';1;0
+e;12150221;'mesure d'aldostérone avant ou après épreuve';1;0
+e;12150203;'mesure d'adrénaline avant ou après épreuve';1;0
+e;12150069;'mesure de 17-hydroxyprogestérone avant ou après épreuve';1;0
+e;12148915;'mesure d'estradiol avant synacthène';1;0
+e;12146586;'mesure de d-lactate avant effort';1;0
+e;12144040;'mesure de déhydroépiandrostérone sulfate avant synacthène';1;0
+e;12144026;'mesure de déhydroépiandrostérone avant synacthène (250µg)';1;0
+e;12144023;'mesure de déhydroépiandrostérone avant dexaméthasone fort';1;0
+e;12144020;'mesure de déhydroépiandrostérone avant dexaméthasone';1;0
+e;12142312;'mesure de créatinine t45min avant épreuve';1;0
+e;12142304;'mesure de créatinine t30min avant épreuve';1;0
+e;12142212;'mesure de créatinine t02h15 avant épreuve';1;0
+e;12142193;'mesure de créatinine t01h30 avant épreuve';1;0
+e;12142183;'mesure de créatinine t01h avant épreuve';1;0
+e;12142111;'mesure de créatinine avant synacthène (40µg durant 3j,im)';1;0
+e;12142106;'mesure de créatinine avant épreuve';1;0
+e;12142102;'mesure de créatinine avant dialyse';1;0
+e;12142100;'mesure de créatinine avant dexaméthasone (500µg durant 2,5j toutes les 6h,po)';1;0
+e;12142098;'mesure de créatinine avant dexaméthasone (2mg durant 2,5j toutes les 6h,po)';1;0
+e;12142096;'mesure de créatinine avant contrast';1;0
+e;12141175;'mesure de cortisol t30min avant insuline iv';1;0
+e;12141170;'mesure de cortisol t30min avant crh (1µg/kg,iv)';1;0
+e;12141103;'mesure de cortisol t15min avant crh (1µg/kg,iv)';1;0
+e;12141085;'mesure de cortisol t12h avant jeûne';1;0
+e;12140846;'mesure de cortisol libre avant synacthène (50µg durant 3j,im)';1;0
+e;12140844;'mesure de cortisol libre avant dexaméthasone (500µg durant 2,5j toutes les 6h,po)';1;0
+e;12140842;'mesure de cortisol libre avant dexaméthasone (2mg durant 2,5j toutes les 6h,po)';1;0
+e;12140819;'mesure de cortisol avant triple bolus';1;0
+e;12140816;'mesure de cortisol avant synacthène';1;0
+e;12140814;'mesure de cortisol avant synacthène (40µg durant 3j,im)';1;0
+e;12140811;'mesure de cortisol avant synacthène (250µg,im)';1;0
+e;12140809;'mesure de cortisol avant métopirone (3g la veille,po)';1;0
+e;12140807;'mesure de cortisol avant insuline iv';1;0
+e;12140804;'mesure de cortisol avant épreuve';1;0
+e;12140801;'mesure de cortisol avant dexaméthasone';1;0
+e;12140799;'mesure de cortisol avant dexaméthasone (8 mg la veille,po)';1;0
+e;12140797;'mesure de cortisol avant dexaméthasone (500µg durant 2,5j toutes les 6h,po)';1;0
+e;12140795;'mesure de cortisol avant dexaméthasone (2mg la veille,po)';1;0
+e;12140792;'mesure de cortisol avant dexaméthasone (2mg durant 2,5j toutes les 6h,po)';1;0
+e;12140789;'mesure de cortisol avant dexaméthasone (1mg la veille,po)';1;0
+e;12140787;'mesure de cortisol avant crh (100µg,iv)';1;0
+e;12140782;'mesure de cortisol avant crh (1µg/kg,iv)';1;0
+e;12140596;'mesure de corticotropine t30min avant insuline iv';1;0
+e;12140593;'mesure de corticotropine t30min avant glucagon';1;0
+e;12140590;'mesure de corticotropine t30min avant épreuve';1;0
+e;12140587;'mesure de corticotropine t30min avant crh (1µg/kg,iv)';1;0
+e;12140563;'mesure de corticotropine t15min avant insuline iv';1;0
+e;12140560;'mesure de corticotropine t15min avant crh (1µg/kg,iv)';1;0
+e;12140412;'mesure de corticotropine avant métopirone';1;0
+e;12140409;'mesure de corticotropine avant insuline iv';1;0
+e;12140406;'mesure de corticotropine avant glucose';1;0
+e;12140403;'mesure de corticotropine avant glucagon';1;0
+e;12140400;'mesure de corticotropine avant épreuve';1;0
+e;12140397;'mesure de corticotropine avant dexaméthasone';1;0
+e;12140395;'mesure de corticotropine avant dexaméthasone (500µg durant 2,5j toutes les 6h,po)';1;0
+e;12140393;'mesure de corticotropine avant dexaméthasone (2mg la veille,po)';1;0
+e;12140391;'mesure de corticotropine avant dexaméthasone (1mg la veille,po)';1;0
+e;12140389;'mesure de corticotropine avant crh (100µg,iv)';1;0
+e;12140386;'mesure de corticotropine avant crh (1µg/kg,iv)';1;0
+e;12140279;'mesure de corticostérone avant synacthène (250µg)';1;0
+e;12133080;'mesure de catécholamines libres fractionnées avant clonidine (300µg,po)';1;0
+e;12131895;'mesure de calcium t45min avant épreuve';1;0
+e;12131877;'mesure de calcium t15min avant épreuve';1;0
+e;12131655;'mesure de calcium avant épreuve';1;0
+e;12131653;'mesure de calcium avant calcium (500mg,po)';1;0
+e;12131651;'mesure de calcium avant calcium (2,4mg/kg,iv)';1;0
+e;12131504;'mesure de calcitonine avant pentagastrine (0,5µg/kg,iv)';1;0
+e;12131502;'mesure de calcitonine avant calcium (2mg/kg,iv) et pentagastrine (0,5µg/kg,iv)';1;0
+e;12131500;'mesure de calcitonine avant calcium (2,4mg/kg,iv)';1;0
+e;12232324;'mesure d'insuline t10min avant glucose | technique indéterminée | sérum/plasma | ponctuel | résultat numérique | moles/volume';1;0
+e;12232323;'mesure d'insuline t10min avant glucose | technique indéterminée | sérum/plasma | ponctuel | résultat numérique | arbitraire/volume';1;0
+e;12232296;'mesure d'insuline t05min avant glucose | technique indéterminée | sérum/plasma | ponctuel | résultat numérique | moles/volume';1;0
+e;12232295;'mesure d'insuline t05min avant glucose | technique indéterminée | sérum/plasma | ponctuel | résultat numérique | arbitraire/volume';1;0
+e;12232231;'mesure d'insuline avant épreuve | technique indéterminée | sérum/plasma | ponctuel | résultat numérique | masse/volume';1;0
+e;12232230;'mesure d'insuline avant épreuve | technique indéterminée | sérum/plasma | ponctuel | résultat numérique | arbitraire/volume';1;0
+e;6314074;'incision et drainage du pied avant';1;0
+e;6302856;'appliquer et fixer un pansement au sabot avant';1;0
+e;6414979;'entrevue psychiatrique effectuée avant la signature du contrat thérapeutique et rapport';1;0
+e;13640157;'bannière avant droite de Horqin';777;0
+e;6358284;'ictère néoatal associé à un accouchement avant terme';1;0
+e;6411099;'exposition vaccinale avant la grossesse';1;0
+e;14453365;'transport de corps avant mise en bière';1;0
+e;14454536;'recette perçue avant émission de titres';1;0
+e;14547464;'avant 1993';777;0
+e;14548577;'avant 1939';777;0
+e;14567555;'avant chemin couvert';777;0
+e;14605430;'plusieurs années avant';1;0
+e;14606738;'mis en avant';1;0
+e;14606739;'mises en avant';1;0
+e;14657021;'Mines de fer lorraine fermées avant 1945';777;0
+e;14669712;'places avant';1;0
+e;14670966;'avant le 1er mai 2008';777;0
+e;14711001;'azimut avant';1;0
+e;14725586;'l'avant blindé';1;0
+e;14778663;'Le saint ayant réalisé la performance de partir en Galice avant même que l'on ne découvre le tombeau de Saint Jacques';777;0
+e;12207179;'t15min avant lhrh (100µg,iv)';1;0
+e;6329442;'exposition paternelle aux drogues avant la grossesse';1;0
+e;6387593;'exposition maternelle avant la grossesse';1;0
+e;6395635;'rupture utérine avant le début du travail';1;0
+e;14902313;'le retour vers l'avant';777;0
+e;14902312;'le retour des bras vers l'avant';777;0
+e;6296558;'mort foetale par asphyxie ou anoxie avant le début du travail';1;0
+e;6302319;'ictère néonatal associé à un accouchement avant terme';1;0
+e;6305954;'rétention d'un foetus mort avant 22 semaines de grossesse';1;0
+e;6376665;'exposition aux drogues avant la grossesse';1;0
+e;12207104;'t02h avant épreuve';1;0
+e;12207112;'t30min avant insuline iv';1;0
+e;12207113;'t30min avant épreuve';1;0
+e;12207101;'t01h avant épreuve';1;0
+e;12207035;'avant dexaméthasone fort';1;0
+e;12207114;'t30mn avant arginine';1;0
+e;12207106;'t02h15 avant épreuve';1;0
+e;12207108;'t05min avant glucose';1;0
+e;12207128;'t45min avant épreuve';1;0
+e;12207103;'t01h30 avant épreuve';1;0
+e;12207135;'t70min avant épreuve';1;0
+e;12207111;'t30min avant bétaxolol+glucagon';1;0
+e;12207109;'t05min avant épreuve';1;0
+e;12207107;'t03h avant insuline iv';1;0
+e;12207178;'t15min avant crh (1µg/kg,iv)';1;0
+e;12207098;'t20min avant épreuve';1;0
+e;12207187;'t30min avant crh (1µg/kg,iv)';1;0
+e;16316685;'histoire de l'Italie avant la domination romaine';777;0
+e;15026273;'ailes avant droites';1;0
+e;6284808;'version externe avant le travail affectant le foetus ou le nouveau-né';1;0
+e;6293974;'avant pieds humains';1;0
+e;6305396;'foetus ou nouveau-né affecté par une présentation du siège avant le travail';1;0
+e;6314164;'position instable avant le travail';1;0
+e;6322094;'traumatismes des avant bras';1;0
+e;6323627;'faux travail avant 37 semaines entières de gestation';1;0
+e;6341011;'coussin gonflable pour passager avant';1;0
+e;6352343;'coussin gonflable avant';1;0
+e;6373482;'présentation anormale avant le travail affectant le foetus ou le nouveau-né';1;0
+e;6373956;'foetus et nouveau-né affectés par une position instable avant le travail';1;0
+e;6386471;'foetus et nouveau-né affectés par une version externe avant le travail';1;0
+e;6387439;'foetus et nouveau-né affectés par une présentation du siège avant le travail';1;0
+e;6408882;'foetus ou nouveau-né affecté par une présentation anormale avant le travail';1;0
+e;6417218;'passager avant dans un accident de la circulation';1;0
+e;6419939;'enfant né avant terme';1;0
+e;12091995;'catécholamines libres fractionnées avant clonidine (300µg,po)';1;0
+e;12091709;'calcium t45min avant épreuve';1;0
+e;12091703;'calcium t15min avant épreuve';1;0
+e;12091638;'calcium avant épreuve';1;0
+e;12091637;'calcium avant calcium (500mg,po)';1;0
+e;12091636;'calcium avant calcium (2,4mg/kg,iv)';1;0
+e;12091589;'calcitonine avant pentagastrine (0,5µg/kg,iv)';1;0
+e;12091588;'calcitonine avant ou après épreuve';1;0
+e;12091587;'calcitonine avant calcium (2mg/kg,iv) et pentagastrine (0,5µg/kg,iv)';1;0
+e;12091586;'calcitonine avant calcium (2,4mg/kg,iv)';1;0
+e;12091509;'c peptide t70min avant épreuve';1;0
+e;12091500;'c peptide t15min avant épreuve';1;0
+e;12091490;'c peptide t10min avant épreuve';1;0
+e;12091476;'c peptide t05min avant glucose';1;0
+e;12091475;'c peptide t05min avant épreuve';1;0
+e;12091447;'c peptide t01h avant épreuve';1;0
+e;12091441;'c peptide avant glucose';1;0
+e;12091440;'c peptide avant glucagon';1;0
+e;12199969;'corticotropine t15min avant crh (1µg/kg, iv)';1;0
+e;12199959;'folliculostimuline t15min avant lhrh (100µg, iv)';1;0
+e;12199947;'lutéotropine t15min avant lhrh (100µg, iv)';1;0
+e;12199936;'t15min avant crh (1µg/kg, iv)';1;0
+e;12199930;'t15min avant lhrh (100µg, iv)';1;0
+e;12199926;'t10min avant épreuve';1;0
+e;12199925;'t10min avant glucagon';1;0
+e;12199924;'t13min avant épreuve';1;0
+e;12199923;'t15min avant bétaxolol';1;0
+e;12199922;'t15min avant glucose';1;0
+e;12199921;'t15min avant ornithine+alpha-cétoglutarate';1;0
+e;12199919;'t10min avant glucose';1;0
+e;12199918;'t12h avant jeûne';1;0
+e;12199917;'t10min avant grh';1;0
+e;12199916;'t15min avant arginine';1;0
+e;12199915;'t15min avant arginine+insuline';1;0
+e;12199913;'t15min avant insuline iv';1;0
+e;12199912;'t15min avant ornithine';1;0
+e;12199911;'t15min avant trh';1;0
+e;12199910;'t15min avant épreuve';1;0
+e;12199908;'t15min avant trh iv';1;0
+e;12236369;'mesure de noradrénaline avant clonidine (300µg,po) | technique indéterminée | plasma | ponctuel | résultat numérique | moles/volume';1;0
+e;12236368;'mesure de noradrénaline avant clonidine (300µg,po) | technique indéterminée | plasma | ponctuel | résultat numérique | masse/volume';1;0
+e;12979844;'centre de formation de l'En avant de Guingamp';777;0
+e;12979879;'saison 2019-2020 de l'En avant Guingamp';777;0
+e;12981351;'bilan saison par saison de l'En avant Guingamp';777;0
+e;14585113;'copain d'avant';1;0
+e;14636959;'tourner sept fois sa langue dans sa bouche avant de parler';1;0
+e;14637117;'travail avant terme';1;26
+e;14637122;'naître avant terme';1;28
+e;14637126;'accoucher avant terme';1;6
+e;14637129;'né avant terme';1;30
+e;14668633;'partir avant la fin';1;4
+e;14726445;'réfléchir avant d'agir';1;0
+e;16087376;'pneu avant';1;0
+e;6437377;'syphilis sai entraînant la mort avant l'âge de deux ans';1;0
+e;10664616;'La Nuit juste avant les forêts';777;0
+e;12090564;'androstènedione avant synacthène (250µg,im)';1;0
+e;6344275;'foetus ou nouveau-né affecté par une position instable avant le travail';1;0
+e;6349955;'foetus ou nouveau-né affecté par une présentation oblique avant le travail';1;0
+e;6369924;'mauvaise présentation avant le travail affectant le foetus ou le nouveau-né';1;0
+e;6373013;'chez un enfant né vivant souffrance foetale avant le début du travail';1;0
+e;6395505;'foetus ou nouveau-né affecté par une présentation transverse avant le travail';1;0
+e;6398827;'autres enfants nés avant terme';1;0
+e;12116788;'calcium avant calcium';1;0
+e;12116822;'corticotropine avant crh';1;0
+e;12116770;'calcitonine avant calcium';1;0
+e;12116772;'calcitonine avant pentagastrine';1;0
+e;12088984;'albumine avant épreuve';1;0
+e;12089034;'aldostérone avant épreuve';1;0
+e;12089016;'albumine t45min avant épreuve';1;0
+e;12088884;'adrénaline avant ou après épreuve';1;0
+e;12089035;'aldostérone avant ou après épreuve';1;0
+e;12089116;'alpha cortol avant dexaméthasone';1;0
+e;12089064;'aldostérone t30min avant épreuve';1;0
+e;12089123;'alpha cortolone avant dexaméthasone fort';1;0
+e;12089627;'androstérone avant dexaméthasone';1;0
+e;12089628;'androstérone avant dexaméthasone fort';1;0
+e;12089590;'androstanolone avant synacthène';1;0
+e;12090104;'azote uréique avant contraste';1;0
+e;12090105;'azote uréique avant dialyse';1;0
+e;12090543;'aldostérone avant captopril (25mg,po)';1;0
+e;12090536;'adrénaline avant clonidine (300µg,po)';1;0
+e;12090544;'aldostérone avant synacthène (250µg,im)';1;0
+e;12100344;'lutéotropine t15min avant lhrh (100µg,iv)';1;0
+e;12100343;'lutéotropine t15min avant épreuve';1;0
+e;12100338;'lutéotropine t10min avant grh';1;0
+e;12100305;'lutéotropine avant triple bolus';1;0
+e;12100304;'lutéotropine avant ou après épreuve';1;0
+e;12100303;'lutéotropine avant lhrh (100µg,iv)';1;0
+e;12100302;'lutéotropine avant grh';1;0
+e;12100301;'lutéotropine avant épreuve';1;0
+e;12099738;'lactose t12h avant jeûne';1;0
+e;12099727;'lactose avant jeûne';1;0
+e;12099680;'lactate avant ou après épreuve';1;0
+e;12099679;'lactate avant épreuve';1;0
+e;12099282;'insulin-like growth factor binding protein 1 avant ou après épreuve';1;0
+e;12099237;'insuline t30min avant épreuve';1;0
+e;12099223;'insuline t15min avant épreuve';1;0
+e;12099210;'insuline t10min avant glucose';1;0
+e;12099198;'insuline t07min avant glucose';1;0
+e;12099187;'insuline t05min avant glucose';1;0
+e;12099101;'insuline avant tolbutamide iv';1;0
+e;12099100;'insuline avant ou après glucose';1;0
+e;12099099;'insuline avant ou après épreuve';1;0
+e;12099098;'insuline avant glucose (75g,po)';1;0
+e;12099097;'insuline avant glucose (100g,po)';1;0
+e;12099096;'insuline avant glucose';1;0
+e;12099095;'insuline avant glucagon';1;0
+e;12099094;'insuline avant épreuve';1;0
+e;12098739;'ibuprofène avant administration';1;0
+e;12098681;'hydrogène+méthane expiré avant lactose per os';1;0
+e;12098615;'hydrogène expiré avant lactulose';1;0
+e;12098614;'hydrogène expiré avant lactose per os';1;0
+e;12098613;'hydrogène expiré avant glucose';1;0
+e;12098612;'hydrogène expiré avant fructose per os';1;0
+e;12098611;'hydrogène expiré avant épreuve';1;0
+e;12097753;'hémoglobine avant phlébotomie';1;0
+e;12097325;'glucose t30min avant épreuve';1;0
+e;12097324;'glucose t30min avant bétaxolol';1;0
+e;12097294;'glucose t20min avant épreuve';1;0
+e;12097278;'glucose t15min avant ornithine+alpha-cétoglutarate';1;0
+e;12097277;'glucose t15min avant insuline iv';1;0
+e;12097276;'glucose t15min avant glucose';1;0
+e;12097275;'glucose t15min avant glucagon';1;0
+e;12097274;'glucose t15min avant épreuve';1;0
+e;12097273;'glucose t15min avant bétaxolol';1;0
+e;12097256;'glucose t13min avant épreuve';1;0
+e;12097250;'glucose t12h avant jeûne';1;0
+e;12097240;'glucose t10min avant glucagon';1;0
+e;12097239;'glucose t10min avant épreuve';1;0
+e;12097222;'glucose t08min avant épreuve';1;0
+e;12097200;'glucose t05min avant glucagon';1;0
+e;12097199;'glucose t05min avant épreuve';1;0
+e;12097166;'glucose t03min avant épreuve';1;0
+e;12097156;'glucose t03h avant insuline iv';1;0
+e;12097053;'glucose avant triple bolus';1;0
+e;12097052;'glucose avant ou après insuline';1;0
+e;12097051;'glucose avant ou après glucose';1;0
+e;12097050;'glucose avant ou après glucagon';1;0
+e;12097049;'glucose avant ou après épreuve';1;0
+e;12097048;'glucose avant ou après clonidine';1;0
+e;12097047;'glucose avant ou après arginine';1;0
+e;12097046;'glucose avant ornithine+alpha-cétoglutarate';1;0
+e;12097045;'glucose avant lactose per os';1;0
+e;12097044;'glucose avant lactose (50g,po)';1;0
+e;12097043;'glucose avant insuline iv';1;0
+e;12097042;'glucose avant glucose (75g,po)';1;0
+e;12097041;'glucose avant glucose (50g,po)';1;0
+e;12097040;'glucose avant glucose (100g,po)';1;0
+e;12097039;'glucose avant glucose (0,5g/kg,iv)';1;0
+e;12097038;'glucose avant glucose';1;0
+e;12097037;'glucose avant glucagon';1;0
+e;12097036;'glucose avant fructose per os';1;0
+e;12097035;'glucose avant épreuve';1;0
+e;12097034;'glucose avant dialyse';1;0
+e;12097033;'glucose avant bétaxolol';1;0
+e;12096976;'glucagon avant épreuve';1;0
+e;12096839;'gastrine t30min avant épreuve';1;0
+e;12096829;'gastrine t10min avant épreuve';1;0
+e;12096803;'gastrine t01min avant épreuve';1;0
+e;12096791;'gastrine avant secrétine (0,2u/kg)';1;0
+e;12096790;'gastrine avant ou après épreuve';1;0
+e;12096789;'gastrine avant épreuve';1;0
+e;12096464;'folliculostimuline t15min avant lhrh (100µg,iv)';1;0
+e;12096459;'folliculostimuline t10min avant grh';1;0
+e;12096421;'folliculostimuline avant triple bolus';1;0
+e;12096420;'folliculostimuline avant ou après épreuve';1;0
+e;12096419;'folliculostimuline avant lhrh (100µg,iv)';1;0
+e;12096418;'folliculostimuline avant grh';1;0
+e;12096417;'folliculostimuline avant épreuve';1;0
+e;12096225;'fgf-23 intact avant épreuve';1;0
+e;12096221;'fgf-23 avant épreuve';1;0
+e;12095911;'estradiol avant synacthène';1;0
+e;12094932;'déhydroépiandrostérone sulfate avant synacthène';1;0
+e;12094927;'déhydroépiandrostérone avant synacthène (250µg)';1;0
+e;12094926;'déhydroépiandrostérone avant dexaméthasone fort';1;0
+e;12094925;'déhydroépiandrostérone avant dexaméthasone';1;0
+e;12094528;'créatinine t45min avant épreuve';1;0
+e;12094526;'créatinine t30min avant épreuve';1;0
+e;12094497;'créatinine t02h15 avant épreuve';1;0
+e;12094491;'créatinine t01h30 avant épreuve';1;0
+e;12094489;'créatinine t01h avant épreuve';1;0
+e;12094465;'créatinine avant synacthène (40µg durant 3j,im)';1;0
+e;12094464;'créatinine avant épreuve';1;0
+e;12094463;'créatinine avant dialyse';1;0
+e;12094462;'créatinine avant dexaméthasone (500µg durant 2,5j toutes les 6h,po)';1;0
+e;12094461;'créatinine avant dexaméthasone (2mg durant 2,5j toutes les 6h,po)';1;0
+e;12094460;'créatinine avant contrast';1;0
+e;12094235;'cortisol t30min avant insuline iv';1;0
+e;12094234;'cortisol t30min avant crh (1µg/kg,iv)';1;0
+e;12094210;'cortisol t15min avant crh (1µg/kg,iv)';1;0
+e;12094203;'cortisol t12h avant jeûne';1;0
+e;12094119;'cortisol libre avant synacthène (50µg durant 3j,im)';1;0
+e;12094118;'cortisol libre avant dexaméthasone (500µg durant 2,5j toutes les 6h,po)';1;0
+e;12094117;'cortisol libre avant dexaméthasone (2mg durant 2,5j toutes les 6h,po)';1;0
+e;12094112;'cortisol avant triple bolus';1;0
+e;12094111;'cortisol avant synacthène (40µg durant 3j,im)';1;0
+e;12094110;'cortisol avant synacthène (250µg,im)';1;0
+e;12094109;'cortisol avant synacthène';1;0
+e;12094108;'cortisol avant ou après synacthène';1;0
+e;12094107;'cortisol avant ou après épreuve';1;0
+e;12094106;'cortisol avant ou après dexaméthasone';1;0
+e;12094105;'cortisol avant métopirone (3g la veille,po)';1;0
+e;12094104;'cortisol avant insuline iv';1;0
+e;12094103;'cortisol avant épreuve';1;0
+e;12094102;'cortisol avant dexaméthasone (8 mg la veille,po)';1;0
+e;12094101;'cortisol avant dexaméthasone (500µg durant 2,5j toutes les 6h,po)';1;0
+e;12094100;'cortisol avant dexaméthasone (2mg la veille,po)';1;0
+e;12094099;'cortisol avant dexaméthasone (2mg durant 2,5j toutes les 6h,po)';1;0
+e;12094098;'cortisol avant dexaméthasone (1mg la veille,po)';1;0
+e;12094097;'cortisol avant dexaméthasone';1;0
+e;12094096;'cortisol avant crh (100µg,iv)';1;0
+e;12094095;'cortisol avant crh (1µg/kg,iv)';1;0
+e;12094034;'corticotropine t30min avant insuline iv';1;0
+e;12094033;'corticotropine t30min avant glucagon';1;0
+e;12094032;'corticotropine t30min avant épreuve';1;0
+e;12094031;'corticotropine t30min avant crh (1µg/kg,iv)';1;0
+e;12094023;'corticotropine t15min avant insuline iv';1;0
+e;12094022;'corticotropine t15min avant crh (1µg/kg,iv)';1;0
+e;12093970;'corticotropine avant ou après épreuve';1;0
+e;12093969;'corticotropine avant métopirone';1;0
+e;12093968;'corticotropine avant insuline iv';1;0
+e;12093967;'corticotropine avant glucose';1;0
+e;12093966;'corticotropine avant glucagon';1;0
+e;12093965;'corticotropine avant épreuve';1;0
+e;12093964;'corticotropine avant dexaméthasone (500µg durant 2,5j toutes les 6h,po)';1;0
+e;12093963;'corticotropine avant dexaméthasone (2mg la veille,po)';1;0
+e;12093962;'corticotropine avant dexaméthasone (1mg la veille,po)';1;0
+e;12093961;'corticotropine avant dexaméthasone';1;0
+e;12093960;'corticotropine avant crh (100µg,iv)';1;0
+e;12093959;'corticotropine avant crh (1µg/kg,iv)';1;0
+e;12093919;'corticostérone avant synacthène (250µg)';1;0
+e;12198530;'avant contraste';1;0
+e;12199914;'t15min avant glucagon';1;0
+e;12199909;'t15min avant lhrh iv';1;0
+e;6318211;'mort du foetus par asphyxie ou anoxie avant le début du travail';1;0
+e;6437826;'exposition aux drogues avant et pendant la grossesse par l'intermédiaire du père';1;0
+e;6437782;'thrombose veineuse profonde avant l'accouchement';1;0
+e;6356284;'foetus et nouveau-né affectés par une présentation transverse avant le travail';1;0
+e;12089122;'alpha cortolone avant dexaméthasone';1;0
+e;12089117;'alpha cortol avant dexaméthasone fort';1;0
+e;12105135;'rétinol avant 5000 u';1;0
+e;12105071;'résistance globulaire osmotique avant hémolyse';1;0
+e;12105012;'rénine t30min avant épreuve';1;0
+e;12104982;'rénine avant ou après épreuve';1;0
+e;12104981;'rénine avant furosémide (600µg,po)';1;0
+e;12104895;'radioactivité avant cyanocobalamine radioactive';1;0
+e;12104849;'pyridoxine avant pyridoxine (250mg,po)';1;0
+e;12104577;'prolactine t15min avant trh iv';1;0
+e;12104535;'prolactine avant triple bolus';1;0
+e;12104534;'prolactine avant trh iv';1;0
+e;12104533;'prolactine avant ou après épreuve';1;0
+e;12104532;'prolactine avant métoclopramide';1;0
+e;12104531;'prolactine avant l-dopa per os';1;0
+e;12104530;'prolactine avant insuline iv';1;0
+e;12104529;'prolactine avant épreuve';1;0
+e;12104397;'prégnanediol avant dexaméthasone fort';1;0
+e;12104396;'prégnanediol avant dexaméthasone';1;0
+e;12104326;'potassium avant dialyse';1;0
+e;12103960;'poids corporel avant opération';1;0
+e;12103959;'poids corporel avant grossesse';1;0
+e;12103958;'poids corporel avant dialyse';1;0
+e;12103957;'poids corporel avant acouchement';1;0
+e;12103072;'phosphate avant dialyse';1;0
+e;12102598;'parathormone avant calcium';1;0
+e;12101817;'noradrénaline avant ou après épreuve';1;0
+e;12101816;'noradrénaline avant clonidine (300µg,po)';1;0
+e;12100879;'méthane expiré avant lactose per os';1;0
+e;12115809;'avant dialyse';1;0
+e;12239754;'mesure de prolactine t15min avant trh iv | technique indéterminée | sérum/plasma | ponctuel | résultat numérique | masse/volume';1;0
+e;12239753;'mesure de prolactine t15min avant trh iv | technique indéterminée | sérum/plasma | ponctuel | résultat numérique | arbitraire/volume';1;0
+e;12239736;'mesure de prolactine avant trh iv | technique indéterminée | sérum/plasma | ponctuel | résultat numérique | masse/volume';1;0
+e;12239735;'mesure de prolactine avant trh iv | technique indéterminée | sérum/plasma | ponctuel | résultat numérique | arbitraire/volume';1;0
+e;12239595;'mesure de prégnanediol avant dexaméthasone fort | technique indéterminée | urine | 24h | résultat numérique | masse/volume';1;0
+e;12239594;'mesure de prégnanediol avant dexaméthasone fort | technique indéterminée | urine | 24h | résultat numérique | masse/temps';1;0
+e;12239593;'mesure de prégnanediol avant dexaméthasone | technique indéterminée | urine | 24h | résultat numérique | masse/volume';1;0
+e;12239592;'mesure de prégnanediol avant dexaméthasone | technique indéterminée | urine | 24h | résultat numérique | masse/temps';1;0
+e;13538030;'chronologie de l'aéronautique avant le XVIIIe siècle';777;0
+e;6427822;'présentation vicieuse avant le travail affectant le foetus ou le nouveau-né';1;0
+e;6422419;'position instable avant le travail affectant le foetus ou le nouveau-né';1;0
+e;10896145;'liste du BFI des 50 films à voir avant d'avoir 14 ans';777;0
+e;10987842;'étendre une jambe en avant';1;0
+e;10987837;'se pencher en avant';1;0
+e;10987855;'sauter en avant';1;0
+e;12108568;'volume de l'échantillon avant lavage';1;0
+e;12108175;'urée avant dialyse';1;0
+e;12107969;'triiodothyronine libre avant triple bolus';1;0
+e;12107968;'triiodothyronine libre avant ou après épreuve';1;0
+e;12107590;'thyréostimuline t30min avant épreuve';1;0
+e;12107583;'thyréostimuline t20min avant épreuve';1;0
+e;12107579;'thyréostimuline t15min avant trh iv';1;0
+e;12107578;'thyréostimuline t15min avant lhrh iv';1;0
+e;12107577;'thyréostimuline t15min avant épreuve';1;0
+e;12107541;'thyréostimuline avant triple bolus';1;0
+e;12107540;'thyréostimuline avant trh iv';1;0
+e;12107539;'thyréostimuline avant trh in';1;0
+e;12107538;'thyréostimuline avant trh';1;0
+e;12107537;'thyréostimuline avant ou après trh';1;0
+e;12107536;'thyréostimuline avant ou après épreuve';1;0
+e;12107535;'thyréostimuline avant lhrh iv';1;0
+e;12107534;'thyréostimuline avant épreuve';1;0
+e;12107361;'testostérone avant triple bolus';1;0
+e;12107360;'testostérone avant synacthène';1;0
+e;12107359;'testostérone avant ou après épreuve';1;0
+e;12107358;'testostérone avant hcg (5000 u,im)';1;0
+e;12107357;'testostérone avant hcg';1;0
+e;12107269;'temps de quick t02h avant épreuve';1;0
+e;12107178;'temps de céphaline activée t02h avant épreuve';1;0
+e;12107160;'temps avant la prochaine menstruation';1;0
+e;12106967;'symptomes patient avant lactose per os';1;0
+e;12106374;'spermatozoïdes progressifs avant lavage';1;0
+e;12106350;'spermatozoïdes mobiles avant lavage';1;0
+e;12106338;'spermatozoïdes mobiles/100 spermatozoïdes avant lavage';1;0
+e;12106313;'spermatozoïdes avant lavage';1;0
+e;12106182;'somatotropine t30mn avant arginine';1;0
+e;12106181;'somatotropine t30min avant trh';1;0
+e;12106180;'somatotropine t30min avant propranolol+glucagon';1;0
+e;12106179;'somatotropine t30min avant glucose (1g/kg,po)';1;0
+e;12106178;'somatotropine t30min avant bétaxolol+glucagon';1;0
+e;12106145;'somatotropine t15min avant trh';1;0
+e;12106144;'somatotropine t15min avant ornithine';1;0
+e;12106143;'somatotropine t15min avant insuline iv';1;0
+e;12106142;'somatotropine t15min avant glucagon';1;0
+e;12106141;'somatotropine t15min avant épreuve';1;0
+e;12106140;'somatotropine t15min avant arginine+insuline';1;0
+e;12106139;'somatotropine t15min avant arginine';1;0
+e;12106088;'somatotropine t03h avant propranolol+glucagon';1;0
+e;12106072;'somatotropine t02h avant propranolol+glucagon';1;0
+e;12106021;'somatotropine avant triple bolus';1;0
+e;12106020;'somatotropine avant trh';1;0
+e;12106019;'somatotropine avant propranolol+glucagon';1;0
+e;12106018;'somatotropine avant ou après insuline';1;0
+e;12106017;'somatotropine avant ou après glucose';1;0
+e;12106016;'somatotropine avant ou après glucagon';1;0
+e;12106015;'somatotropine avant ou après épreuve';1;0
+e;12106014;'somatotropine avant ou après clonidine';1;0
+e;12106013;'somatotropine avant ou après arginine';1;0
+e;12106012;'somatotropine avant ornithine';1;0
+e;12106011;'somatotropine avant l-dopa (250µg 2j,po)';1;0
+e;12106010;'somatotropine avant insuline iv';1;0
+e;12106009;'somatotropine avant glucose per os';1;0
+e;12106008;'somatotropine avant glucose (1g/kg,po)';1;0
+e;12106007;'somatotropine avant glucagon';1;0
+e;12106006;'somatotropine avant ghrf';1;0
+e;12106005;'somatotropine avant épreuve';1;0
+e;12106004;'somatotropine avant clonidine';1;0
+e;12106003;'somatotropine avant bétaxolol+glucagon';1;0
+e;12106002;'somatotropine avant arginine+insuline';1;0
+e;12106001;'somatotropine avant arginine';1;0
+e;12105778;'sex hormone binding globulin avant ou après épreuve';1;0
+e;12241750;'mesure de somatotropine t15min avant arginine | technique indéterminée | sérum/plasma | ponctuel | résultat numérique | masse/volume';1;0
+e;12241749;'mesure de somatotropine t15min avant arginine | technique indéterminée | sérum/plasma | ponctuel | résultat numérique | arbitraire/volume';1;0
+e;12241698;'mesure de somatotropine avant insuline iv | technique indéterminée | sérum/plasma | ponctuel | résultat numérique | masse/volume';1;0
+e;12241697;'mesure de somatotropine avant insuline iv | technique indéterminée | sérum/plasma | ponctuel | résultat numérique | arbitraire/volume';1;0
+e;12241696;'mesure de somatotropine avant arginine | technique indéterminée | sérum/plasma | ponctuel | résultat numérique | masse/volume';1;0
+e;12241695;'mesure de somatotropine avant arginine | technique indéterminée | sérum/plasma | ponctuel | résultat numérique | arbitraire/volume';1;0
+e;16318384;'en avant pour [qch]';1;0
+e;16318385;'en avant pour quelque chose';1;0
+e;6439654;'début prématuré de l'accouchement avant 37 semaines de grossesse';1;0
+e;6437609;'rash étendu de l'avant bras';1;0
+e;10601014;'Deux jours avant le jour après demain';777;0
+e;10989500;'bloc davier avant';777;0
+e;10989652;'Deux années sur le gaillard d'avant';777;0
+e;15206625;'creuser plus avant';1;0
+e;15537079;'côté avant';1;0
+e;15272023;'d'avant le décollage';1;0
+e;15415106;'d'avant-guerre';1;0
+e;15305999;'depuis longtemps avant';1;0
+e;15334099;'dernière ligne droite avant qch';1;0
+e;15280846;'des semaines avant l'événement tragique';1;0
+e;15223658;'du côté avant';1;0
+e;15541405;'dès avant ce jour';1;0
+e;15491815;'déphasage en avant';1;0
+e;15371479;'dérogation avant production';1;0
+e;15528713;'détachement d'avant garde';1;0
+e;13751344;'détresse foetale intra-utérine constatée avant le début du travail, chez un nouveau-né vivant';1;0
+e;13746464;'détresse foetale intra-utérine, sans précision quant au moment où celle-ci a été constatée, avant ou après le début du travail, chez un nouveau-né vivant';1;0
+e;15223655;'en avant première';1;0
+e;15494273;'en avant, marche !';1;0
+e;15494271;'en avant, marche!';1;0
+e;15212326;'en marche avant';1;0
+e;2405742;'avant-coeurs';1;0
+e;2435185;'chasse-avant';1;0
+e;6439436;'mort maternelle avant l'accouchement';1;0
+e;6437849;'débridement de l'os sésamoïde du pied avant';1;0
+e;10913454;'mariages arabes préislamiques avant Mahomet';777;0
+e;11039076;'La Fuite en avant';777;0
+e;15369074;'en deux cents avant Jésus-Christ';1;0
+e;15249701;'château d'avant';1;0
+e;15550270;'cinq minutes avant l'heure';1;0
+e;15265999;'comparer les prix avant de choisir';1;0
+e;15266001;'comparer les prix avant de décider';1;0
+e;15309879;'continuer à aller de l'avant';1;0
+e;16153933;'avancer plus avant';1;0
+e;16341497;'avant impôts et charges exceptionnelles';1;0
+e;16391908;'avant les autres';1;0
+e;16095965;'avant qu'il parte';1;0
+e;16095966;'avant qu'il pleuve';1;0
+e;16367041;'avant variation du BFR';1;0
+e;16312333;'avant-arc';1;0
+e;16390866;'bénéfice avant amortissement';1;0
+e;16318327;'c'est pas pareil qu'avant';1;0
+e;185077;'d'avant';1;2
+e;1839538;'naissance avant terme';1;22
+e;2388287;'avant-brise';1;0
+e;2391998;'avant-vente';1;0
+e;2411547;'avant-métré';1;0
+e;2440410;'passe-avant';1;0
+e;2465991;'avant-glacis';1;0
+e;5670584;'chaînage avant';777;0
+e;5675518;'Le Dernier Pub avant la fin du monde';777;0
+e;5716087;'Juste avant le crépuscule';777;0
+e;6434771;'traumatisme de l'avant bras';1;0
+e;6434544;'mort foetale d'asphyxie ou d'anoxie avant le début du travail ou à un moment non précisé';1;0
+e;6429522;'ictère dû à un retard de la glycuronoconjugaison associé à un accouchement avant terme';1;0
+e;11061505;'En avant l'amnésique';777;0
+e;15196332;'avant J -C';1;0
+e;15786883;'avant centre';1;0
+e;15327796;'avant d'aller se coucher';1;0
+e;15284455;'avant d'avoir pu dire Ouf';1;0
+e;15302864;'avant d'avoir pu dire ouf';1;0
+e;15583988;'avant de faire';1;0
+e;15583991;'avant de faire qch';1;0
+e;15206053;'avant de partir';1;0
+e;15317455;'avant de pointe';1;0
+e;15401940;'avant du pied';1;0
+e;15770853;'avant impôts';1;0
+e;15648089;'avant l'arrêt complet de l'appareil';1;0
+e;15197287;'avant l'aube';1;0
+e;15398895;'avant l'extinction des feux';1;0
+e;15402503;'avant l'âge de 18 ans';1;0
+e;15337084;'avant l'ère actuelle';1;0
+e;15381486;'avant la constatation de l'indépendance';1;0
+e;15529272;'avant la date prévue pour qch';1;0
+e;15648051;'avant la date prévue pour quelque chose';1;0
+e;15550494;'avant la fin de la nuit';1;0
+e;15343465;'avant la fin du mois';1;0
+e;16040413;'avant la limite';1;0
+e;15400774;'avant la semaine prochaine';1;0
+e;15420826;'avant la tombée de la nuit';1;0
+e;16029948;'avant le 1er janvier 1997';777;0
+e;16029947;'avant le 1er janvier 2001';777;0
+e;16029946;'avant le 1er janvier 2006';777;0
+e;15354972;'avant le coucher du soleil';1;0
+e;15532310;'avant le dimanche matin';1;0
+e;15532308;'avant le dimanche soir';1;0
+e;15272020;'avant le décollage';1;0
+e;15532298;'avant le jeudi matin';1;0
+e;15532296;'avant le jeudi soir';1;0
+e;15370238;'avant le lundi matin';1;0
+e;15532292;'avant le lundi soir';1;0
+e;15532300;'avant le mardi matin';1;0
+e;15532294;'avant le mardi soir';1;0
+e;15532314;'avant le mercredi matin';1;0
+e;15532304;'avant le mercredi soir';1;0
+e;15550495;'avant le petit matin';1;0
+e;15532302;'avant le samedi matin';1;0
+e;15286815;'avant le samedi soir';1;0
+e;15532312;'avant le vendredi matin';1;0
+e;15532306;'avant le vendredi soir';1;0
+e;15202513;'avant mardi';1;0
+e;15693312;'avant ou après,';1;0
+e;15759987;'avant projet de norme';1;0
+e;15525112;'avant qu'elle ne parte';1;0
+e;15525114;'avant qu'elle parte';1;0
+e;16068349;'avant qu'il ne parte';1;0
+e;16068351;'avant qu'il ne pleuve';1;0
+e;15550492;'avant que la nuit soit finie';1;0
+e;16015019;'avant reformation mars 1945Generalleutnant Vincenz Müller';777;0
+e;16040414;'avant-cuirasse';1;0
+e;16036286;'avant-mont';1;0
+e;16038495;'avant-portail';1;0
+e;15456254;'avoir les dents en avant';1;0
+e;15273937;'banquette avant';1;0
+e;15515351;'banquettes arrière et avant';1;0
+e;15285526;'bien agiter avant l'emploi';1;0
+e;15531909;'bien avant dans la matinée';1;0
+e;15531908;'bien avant dans la nuit';1;0
+e;15297294;'bien se renseigner avant';1;0
+e;15690385;'bond en avant de la productivité';1;0
+e;15205311;'bus côté avant';1;0
+e;15504347;'bâbord avant';1;0
+e;15367479;'centrer en avant';1;0
+e;16491176;'avant prélèvement';777;0
+e;5873628;'oiseaux disparus avant la période historique';777;0
+e;6446408;'perte cutanée de pleine épaisseur liée à une brûlure de l'avant bras';1;0
+e;6431187;'cautérisation du sabot du pied avant';1;0
+e;10035967;'Retour avant la nuit';777;0
+e;10941706;'Le Peuple avant le profit';777;0
+e;11077036;'12 chansons d'avant le déluge';777;0
+e;11078455;'orthographe russe avant 1918';777;0
+e;11384314;'avant-porte';777;0
+e;12071156;'souplesse avant';1;0
+e;12095288;'d-lactate avant effort';1;0
+e;14300799;'avant-titre';777;0
+e;14612284;'avant-plage';1;0
+e;14612285;'avant-dunes';1;0
+e;14612295;'avant-côte';1;0
+e;14677539;'avant-pieds';1;0
+e;15038383;'avant-séries';1;0
+e;15038360;'avant-coins';1;0
+e;15038385;'avant-terreurs';1;0
+e;15038368;'avant-lignes';1;0
+e;15038356;'avant-becs';1;0
+e;15038384;'avant-terrasse';1;0
+e;15038379;'avant-saison';1;0
+e;15038367;'avant-jeu';1;0
+e;15038380;'avant-saisons';1;0
+e;15038362;'avant-cours';1;0
+e;15038371;'avant-pont';1;0
+e;15038372;'avant-ponts';1;0
+e;15038357;'avant-bouche';1;0
+e;15038382;'avant-souper';1;0
+e;15038361;'avant-contrats';1;0
+e;15038359;'avant-classes';1;0
+e;15038366;'avant-gares';1;0
+e;15038376;'avant-puits';1;0
+e;15038370;'avant-pieux';1;0
+e;15038364;'avant-fins';1;0
+e;15038377;'avant-rapports';1;0
+e;15038374;'avant-programmes';1;0
+e;15038378;'avant-rideau';1;0
+e;15038363;'avant-dîner';1;0
+e;15038369;'avant-noël';1;0
+e;15038373;'avant-programme';1;0
+e;15038381;'avant-sentiments';1;0
+e;15474949;'avant l'entrée en vigueur du règlement sur les nouveaux aliments';777;0
+e;16070862;'avant 5 ans';777;0
+e;15293985;'aperçu avant impression';1;0
+e;13784724;'asphyxie foetale constatée avant le début du travail, chez un nouveau-né vivant';1;0
+e;13769695;'asphyxie foetale constatée avant ou après le début du travail, chez un nouveau-né vivant';1;0
+e;13784725;'asphyxie intra-utérine constatée avant le début du travail, chez un nouveau-né vivant';1;0
+e;13769696;'asphyxie intra-utérine constatée avant ou après le début du travail, chez un nouveau-né vivant';1;0
+e;15584000;'attendre avant de faire qch';1;0
+e;16391663;'Que feriez-vous avant la fin du monde';777;0
+e;6432669;'brûlure de degré non précisé de l'avant bras';1;0
+e;9942185;'En avant';777;0
+e;12033654;'anomalie du développement avant la naissance';1;0
+e;12079967;'mise en avant';1;0
+e;12242662;'mesure de symptomes patient avant lactose per os | technique indéterminée | patient | ponctuel | résultat textuel | interprétation';1;0
+e;12242661;'mesure de symptomes patient avant lactose per os | technique indéterminée | patient | ponctuel | résultat nominal | interprétation';1;0
+e;13103258;'grand-mât avant';777;0
+e;15952730;'Tous sont nés avant l'islam';777;0
+e;15705563;'Tout le calendrier ci-dessous après le mois de mars n'est que celui qui était prévu avant la pandémie et le confinement dans le monde entier';777;0
+e;15375164;'Vous êtes priés d'éteindre les lumières avant de partir.';1;0
+e;6394447;'acidose foetale constatée avant le début du travail chez un nouveau-né vivant';1;0
+e;13748366;'acidose foetale constatée avant ou après le début du travail, chez un nouveau-né vivant';1;0
+e;13748367;'acidose intra-utérine constatée avant ou après le début du travail, chez un nouveau-né vivant';1;0
+e;15203378;'aile avant gauche';1;0
+e;15340014;'ajout avant';1;0
+e;15292415;'ajouter avant';1;0
+e;15309877;'aller de l'avant dans qch';1;0
+e;15309868;'aller plus avant';1;0
+e;13756784;'anomalie du rythme cardiaque foetal constatée avant le début du travail, chez un nouveau-né vivant';1;0
+e;13743585;'anomalie du rythme cardiaque foetal, constatée avant ou après le début du travail chez un nouveau-né vivant';1;0
+e;13753652;'anoxie ou hypoxie foetale constatée avant ou après le début du travail, chez un nouveau-né vivant';1;0
+e;13753653;'anoxie ou hypoxie intra-utérine constatée avant ou après le début du travail, chez un nouveau-né vivant';1;0
+e;16103467;'annual avant garde festival of new york';777;0
+e;16156514;'Véhicule de l'avant blindé';777;0
+e;16156759;'Placement de la main avant la CPR';777;0
+e;6431623;'rupture de l'utérus non précisée comme survenant avant le début du travail';1;0
+e;10043651;'Dernière sortie avant Roissy';777;0
+e;10038876;'36 heures avant le débarquement';777;0
+e;10299648;'Ennemis comme avant';777;0
+e;10850698;'Armes avant 1461';777;0
+e;11080760;'patte avant';1;0
+e;6296385;'anoxie ou hypoxie foetale constatée avant le début du travail chez un nouveau-né vivant';1;0
+e;6300623;'anoxie ou hypoxie intra-utérine constatée avant le début du travail chez un nouveau-né vivant';1;0
+e;11830980;'secourisme de l'avant';777;0
+e;12081239;'salto avant';1;0
+e;12081069;'puce montée face avant';1;0
+e;12079390;'hypothèse de fuite avant rupture';1;0
+e;12079139;'fuite avant rupture';1;0
+e;14572357;'VIIe siècle avant J.-C.';1;0
+e;6329627;'acidose intra-utérine constatée avant le début du travail chez un nouveau-né vivant';1;0
+e;16103812;'Liste exhaustive des ministres avant 1990';777;0
+e;15477707;'Ma famille passe avant tout le reste.';1;0
+e;16318382;'En avant !';1;0
+e;6433619;'accouchement spontané avant la 37e semaine d'aménorrhée';1;0
+e;6428135;'foetus et nouveau-né affectés par une présentation de face avant le travail';1;0
+e;12050441;'préparer des produits laitiers avant leur utilisation dans un plat';1;0
+e;12051360;'endosser vis-à-vis de collègues un rôle de meneur, cherchant avant tout à atteindre les objectifs';1;0
+e;12979503;'Saison 2019-2020 de l'En avant Guingamp';777;0
+e;15629109;'Le résultat enregistré en I est donc fixé avant que le photon témoin ait été détecté en J/K ou en G/H';777;0
+e;1834452;'frottis vaginal de grossesse avant terme';1;0
+e;5579096;'loge latérale de l'avant bras';1;0
+e;10750401;'En avant Astérix';777;0
+e;2467218;'fêter Pâques avant les Rameaux';1;0
+e;5536020;'Dernier inventaire avant liquidation';777;0
+e;6451063;'gelure superficielle du bras et de l'avant bras';1;0
+e;6447350;'impliquant l'avant bras arthrose localisée primitive';1;0
+e;6438659;'hémorragie accidentelle avant l'accouchement';1;0
+e;6436365;'avec accouchement, rupture de l'utérus avant le début du travail';1;0
+e;6434600;'traumatismes de l'avant bras';1;0
+e;11590908;'Fais vite avant que ma femme revienne !';777;0
+e;4172724;'avant-gardiser';1;0
+e;6448865;'rupture de l'utérus avant le début du travail';1;0
+e;6448313;'épisode de soins non précisé rupture de l'utérus avant le début du travail';1;0
+e;10420742;'La Vie avant tout';777;0
+e;10385164;'Un dernier verre avant la guerre';777;0
+e;2391599;'avant dire droit';1;0
+e;3891904;'avant-courrière';1;0
+e;9929939;'rupture de l'utérus avant le début du travail avec accouchement';1;0
+e;10515524;'La Vie avant la mort';777;0
+e;10555227;'L'Europe continentale avant 1900';777;0
+e;11250541;'chefs des Zoulous avant 1816';777;0
+e;5725406;'panneau avant';777;0
+e;10073659;'avant aujourd'hui';777;0
+e;11156417;'pointe avant';777;0
+e;11571509;'bannière avant d'Otog';777;0
+e;2384564;'marge avant';1;0
+e;10095902;'avant le découpage territorial de 2015';777;0
+e;10119012;'Mariée avant le printemps';777;0
+e;10118992;'Mère avant l'heure';777;0
+e;10498429;'bannière avant droite de Chahar';777;0
+e;10462067;'24 heures avant la nuit';777;0
+e;16073353;'Jugement avant dire droit';1;0
+e;2441890;'avant J.-C.';1;0
+e;6004048;'aérodynamique de la pointe avant';777;0
+e;6449091;'autres lésions traumatiques précisées de l'avant bras';1;0
+e;6435462;'entorses et foulures d'autres sites non précisés du coude et de l'avant bras';1;0
+e;6435408;'impliquant l'avant bras arthrose localisée secondaire';1;0
+e;10178073;'Oui ou non avant le mariage';777;0
+e;10176255;'Derniers remords avant l'oubli';777;0
+e;10175748;'aile avant';1;0
+e;11162378;'passage par l'avant';777;0
+e;2365877;'avant-pêche';1;0
+e;2466019;'jupe avant';1;0
+e;5564244;'muscle de la loge latérale de l'avant bras';1;0
+e;5902994;'le dernier bar avant la fin du monde';777;0
+e;5941179;'courants descendants de flancs avant et arrière';777;0
+e;10176027;'carénage avant';1;0
+e;10503374;'avant punk';777;0
+e;13302167;'consentement avant une intervention';1;0
+e;2480005;'tourner sa langue sept fois dans sa bouche avant de se taire';1;0
+e;5991921;'Coco avant Chanel';777;0
+e;6450248;'entorses et foulures d'un site non précisé du coude et de l'avant bras';1;0
+e;6450785;'incurvation congénitale des os de l'avant bras';1;0
+e;16085375;'Il s'éveilla avant l'aube.';1;0
+e;6449075;'de l'avant bras et du poignet lésion autre et non précisée du coude';1;0
+e;6449748;'antepartum rupture de l'utérus avant le début du travail';1;0
+e;6449285;'phlyctènes avec perte épidermique liées à une brûlure de l'avant bras';1;0
+e;5855953;'Grande comète de -43 / de 44 avant Jésus-Christ';777;0
+e;6450357;'chez l'enfant né vivant souffrance foetale avant le début du travail';1;0
+e;8957719;'Copains d'avant';777;0
+e;9175372;'avant 1783';777;0
+e;9247991;'syphilis entraînant la mort avant l'âge de deux ans';1;0
+e;10922859;'Approuvez-vous le projet de loi soumis au peuple français par le président de la République et concernant l'autodétermination des populations algériennes et l'organisation des pouvoirs publics en Algérie avant l'autodétermination';777;0
+e;11118860;'posture de flexion avant';1;0
+e;11120599;'choix du pape avant 1059';777;0
+e;11130478;'Missile avant';777;0
+e;12090433;'17-cétogéniques stéroïdes avant synacthène (50µg durant 3j,im)';1;0
+e;12266455;'25e à 21e millénaires avant le présent';777;0
+e;12090417;'11-déoxycorticostéroïdes avant métopirone (3g la veille,po)';1;0
+e;12090443;'17-hydroxyprogestérone avant synacthène (250µg,im)';1;0
+e;12090419;'11-déoxycorticostérone avant synacthène (250µg)';1;0
+e;12090425;'11-déoxycortisol avant synacthène (250µg)';1;0
+e;12090432;'17-cétogéniques stéroïdes avant dexaméthasone (500µg durant 2,5j toutes les 6h,po)';1;0
+e;12090449;'21-déoxycortisol avant synacthène (250µg)';1;0
+e;12090414;'11-bêta hydroxyandrostènedione avant synacthène (250µg)';1;0
+e;12090439;'17-hydroxyprégnénolone avant synacthène (250µg)';1;0
+e;12266448;'30e à 26e millénaires avant le présent';777;0
+e;12087991;'11-cétoandrostérone avant dexaméthasone fort';1;0
+e;12088033;'11-déoxycortisol avant dexaméthasone';1;0
+e;12087997;'11-cétoétiocholanolone avant dexaméthasone fort';1;0
+e;12088071;'11-hydroxyandrostérone avant dexaméthasone fort';1;0
+e;12088070;'11-hydroxyandrostérone avant dexaméthasone';1;0
+e;12088034;'11-déoxycortisol avant épreuve';1;0
+e;12088035;'11-déoxycortisol avant métopyrone';1;0
+e;12088076;'11-hydroxyétiocholanolone avant dexaméthasone';1;0
+e;12088077;'11-hydroxyétiocholanolone avant dexaméthasone fort';1;0
+e;12088115;'17-hydroxycorticostéroïdes avant dexaméthasone fort';1;0
+e;12088142;'17-hydroxyprogestérone avant dexaméthasone';1;0
+e;12088100;'17-cétogéniques stéroïdes avant dexaméthasone';1;0
+e;12088010;'11-déoxycorticostérone avant épreuve';1;0
+e;12088182;'18-hydroxycorticostérone avant synacthène';1;0
+e;12088143;'17-hydroxyprogestérone avant ou après épreuve';1;0
+e;12088123;'17-hydroxyprégnénolone avant dexaméthasone';1;0
+e;12088173;'17-hydroxyprogestérone t20min avant épreuve';1;0
+e;12088200;'21-déoxycorticostérone avant synacthène';1;0
+e;12088244;'2-déchloroéthylifosfamide avant ifosfamide';1;0
+e;12088210;'25-hydroxycholécalciférol avant calcium';1;0
+e;12088204;'21-déoxycortisol avant dexaméthasone';1;0
+e;12088327;'3-alpha androstanediol glucuronide avant dexaméthasone';1;0
+e;12088187;'18-hydroxycortisol avant synacthène';1;0
+e;12088328;'3-alpha androstanediol glucuronide avant synacthène';1;0
+e;12088337;'3-déchloroéthylifosfamide avant ifosfamide';1;0
+e;12088461;'4-hydroxyifosfamide avant perfusion';1;0
+e;12088514;'6-alpha hydroxytétrahydro-11-déhydrocorticostérone avant dexaméthasone fort';1;0
+e;12088518;'6-alpha hydroxytétrahydro-11-déoxycortisol avant dexaméthasone';1;0
+e;12088519;'6-alpha hydroxytétrahydro-11-déoxycortisol avant dexaméthasone fort';1;0
+e;12088484;'5-alpha tétrahydrocortisol avant dexaméthasone';1;0
+e;12088485;'5-alpha tétrahydrocortisol avant dexaméthasone fort';1;0
+e;12089156;'1,25-dihydroxycholécalciférol avant calcium';1;0
+e;12089188;'18-hydroxy,11-déoxycorticostérone avant synacthène';1;0
+e;12090431;'17-cétogéniques stéroïdes avant dexaméthasone (2mg durant 2,5j toutes les 6h,po)';1;0
+e;12088513;'6-alpha hydroxytétrahydro-11-déhydrocorticostérone avant dexaméthasone';1;0
+e;12088114;'17-hydroxycorticostéroïdes avant dexaméthasone';1;0
+e;12087996;'11-cétoétiocholanolone avant dexaméthasone';1;0
+e;12087990;'11-cétoandrostérone avant dexaméthasone';1;0
+e;12301931;'17e à 15e millénaires avant le présent';777;0
+e;12662561;'4000e à 3001e millénaires avant le présent';777;0
+e;12620104;'situés à l'avant de l'appareil';1;0
+e;12979260;'13e siècle avant Jésus-Christ';1;0
+e;14463142;'20e à 18e millénaires avant le présent';777;0
+e;15718375;'Il a fait un pas en avant.';1;0
+e;14539374;'Avoir fait une demande de permis de conduire de la catégorie A avant la publication du présent texte';777;0
+e;14610301;'Flotte de PLUNA avant la faillite';777;0
+e;15331853;'Je fais ma gymnastique matinale avant de déjeuner.';1;0
+e;15550485;'Je jure que je reviendrai avant l'hiver.';1;0
+e;15718373;'Faites trois pas en avant.';1;0
+e;15413668;'En avant la musique !';1;0
+e;15306633;'Il faut que je sois à Lyon avant la tombée de la nuit.';1;0
+e;15344256;'Il est maintenant en plus mauvaise posture qu'avant.';1;0
+e;14903247;'En avant tout est votre';777;0
+e;14258343;'Association des combattants de l'avant et des blessés de guerre cités pour action d'éclat';777;0
+e;15294665;'..., écologiste avant la lettre';1;0
+e;15369070;'600 avant Jésus-Christ';1;0
+e;13664626;'Deux Heures moins le quart avant Jésus-Christ';777;0
+e;15470202;''frappez avant d'entrer, svp'';1;0
+e;15469564;'44 avant J.-C.';1;0
+e;15523508;''agiter avant l'emploi'';1;0
+e;15538848;''à consommer avant le ...'';1;0
+e;15550490;'Ce n'est pas avant que nous connaîtrons la réponse.';1;0
+e;15574720;'En avant toute !';1;0
+e;15596152;'6 mètres avant Paris';777;0
+e;15242592;'Je vais trier mes papiers avant de partir.';1;0
+e;15212124;'Je vous ferai parvenir le colis avant lundi.';1;0
+e;437252;'minute avant de servir';1;50
+e;567819;'résultat courant c'est le résultat courant avant impôts';777;50
+e;1916833;'muscle de la loge antérieure de l'avant-bras';1;0
+e;2132043;'avant même d'';2;0
+e;2132060;'avant-midis';2;0
+e;2132055;'avant-gardismes';2;0
+e;2551381;'avant-chemin-couvert';1;0
+e;3178476;'avant-champ';1;0
+e;3365182;'baba au rhum façon d'avant';1;0
+e;3445764;'pas avant longtemps';1;0
+e;3911635;'pelleter par en avant';1;0
+e;395637;'région de l'avant-bras';1;50
+e;1665313;'avant-poignet';1;0
+e;1900650;'avant de servir';1;0
+e;1916920;'muscle superficiel du compartiment antérieur de l'avant-bras';1;0
+e;2589910;'figure d'avant';1;0
+e;2952131;'avant JC';1;0
+e;4034961;'essieu avant';1;0
+e;4315396;'loge antérieure de l'avant bras';1;0
+e;1773227;'avant poste';1;0
+e;2132048;'avant qu'';2;0
+e;2132062;'avant-scènes';2;0
+e;2132061;'avant-ports';2;0
+e;5376532;'avoir des relations sexuelles avant le mariage';1;0
+e;1497601;'avant-rock';777;0
+e;1656477;'déplacement vers l'avant';1;0
+e;1680920;'dater d'avant';1;0
+e;1773142;'avant dernier';1;0
+e;1779391;'membrane interosseuse de l'avant-bras';1;0
+e;1779629;'nerf cutané postérieur de l'avant-bras';1;0
+e;2132058;'avant-guerres';2;0
+e;2132056;'avant-gardistes';2;0
+e;2340541;'ci-avant';1;0
+e;2357658;'avant J.-C';1;0
+e;2605734;'avant qu'il soit longtemps';1;0
+e;437406;'réchauffer avant de servir';1;50
+e;1748597;'résultat courant est le résultat courant avant impôts';777;0
+e;1778221;'bord radial de l'avant-bras';1;0
+e;1886011;'Algérie avant l'indépendance';777;0
+e;3033549;'avant-creusets';1;0
+e;4388427;'Juste avant la nuit';777;0
+e;395639;'région postérieure de l'avant-bras';1;50
+e;566462;'brassard d'avant-bras';777;50
+e;1778188;'bord latéral de l'avant-bras';1;0
+e;1814481;'émission d'avant soirée';1;0
+e;1994103;'avant-trains';2;0
+e;2170951;'dès avant';1;0
+e;2132049;'avant que d'';2;0
+e;2132054;'avant-gardes';2;0
+e;2132053;'avant-coureuses';2;0
+e;2132052;'avant-coureuse';2;0
+e;2490893;'avant toutes choses';1;0
+e;3321139;'pied avant';1;0
+e;3348874;'avant soirée';1;0
+e;4315392;'muscle de la loge antérieure de l'avant bras';1;0
+e;461263;'ne compléter cette liste qu'en observant les critères ci-avant';777;50
+e;463244;'fractures de l'avant-bras';1;50
+e;1994104;'avant-veilles';2;0
+e;2189369;'en avant d'';2;0
+e;2340327;'avant-chemin';1;0
+e;2504013;'avant-gout';1;0
+e;3706373;'exciter les enfants juste avant d'aller dormir';1;0
+e;289839;'ne compléter cette liste qu'en observant les critères ci-avant.';777;50
+e;460920;'Ve siècle avant J.-C';777;50
+e;1849126;'avant-pied convexe';1;0
+e;1916914;'muscle du compartiment antérieur de l'avant-bras';1;0
+e;1994097;'avant-dernière';2;0
+e;2132046;'avant même qu'';2;0
+e;2132059;'avant-mains';2;0
+e;2524778;'avant J.C.';1;0
+e;2483579;'à consommer de préférence avant';1;0
+e;2605464;'avant l'ère commune';1;0
+e;3223081;'fracture de l'avant bras';1;0
+e;4267830;'il faut tourner sept fois sa langue dans sa bouche avant de parler';1;0
+e;395638;'région antérieure de l'avant-bras';1;50
+e;567649;'projection avant';777;50
+e;1382551;'Deux heures moins le quart avant Jésus-Christ';777;0
+e;1778538;'corde oblique de la membrane interosseuse de l'avant-bras';1;0
+e;1779625;'nerf cutané médial de l'avant-bras';1;0
+e;1818601;'ligament interosseux de l'avant-bras';1;0
+e;1820365;'nerf interosseux antérieur de l'avant-bras';1;0
+e;1916477;'loge postérieure de l'avant-bras';1;0
+e;1994099;'avant-derniers';2;0
+e;2132047;'avant même que';1;0
+e;2339808;'même avant que';1;0
+e;2604976;'il ne faut pas vendre la peau de l'ours avant de l'avoir tué';1;0
+e;2605098;'d'abord et avant tout';1;0
+e;2605787;'avant qu'il soit peu';1;0
+e;2932740;'Travelling avant';777;0
+e;1659046;'rock d'avant-garde';777;0
+e;1778199;'bord médial de l'avant-bras';1;0
+e;1779623;'nerf cutané latéral de l'avant-bras';1;0
+e;1815104;'avant-soirée';777;0
+e;2132040;'avant d'';2;0
+e;2132063;'avant-toits';2;0
+e;2132057;'avant-goûts';2;0
+e;2548682;'faire Pâques avant les Rameaux';1;0
+e;2522070;'dire grâces avant le bénédicité';1;0
+e;2559316;'avant-métrés';1;0
+e;2552162;'avant-lait';1;0
+e;3179837;'direct du bras avant';1;0
+e;3179838;'coup de poing direct du bras avant';1;0
+e;3557000;'pas avant le';1;0
+e;1820366;'nerf interosseux postérieur de l'avant-bras';1;0
+e;1994098;'avant-dernières';2;0
+e;3173311;'En avant la musique';777;0
+e;1994101;'avant-premières';2;0
+e;1842623;'Fv puissance frontale avant';1;0
+e;1916921;'muscle profond du compartiment antérieur de l'avant-bras';1;0
+e;1847568;'veine basilique de l'avant-bras';1;0
+e;1832072;'digitalisation de l'avant-bras';1;0
+e;1994102;'avant-projets';2;0
+e;1994100;'avant-postes';2;0
+e;1900649;'juste avant de servir';1;0
+e;1916933;'loge antérieure de l'avant-bras';1;0
+e;1820896;'muscle court fléchisseur de l'avant-bras';1;0
+e;2955940;'avant-arrière';1;0
+e;1801364;'artère médiane de l'avant-bras';1;0
+e;2720821;'VIIIe siècle avant J.-C';1;0
+e;1801205;'bord externe de l'avant-bras';1;0
+e;1994096;'avant-coureurs';2;0
+e;387813;'véhicule de l'avant blindé';1;50
+e;370107;'phare avant droit';1;50
+e;360639;'l'avant-dernier à';1;50
+e;337835;'avant tout le monde';1;50
+e;389924;'énorme pas en avant';1;50
+e;388329;'à l'avant-veille de';1;50
+e;388328;'à l'avant-veille';1;50
+e;376980;'roue avant gauche';1;50
+e;367666;'organe d'avant-garde';1;50
+e;347085;'dernière ligne droite avant l'arrivée';1;52
+e;338638;'base avant';1;50
+e;337833;'avant même';1;50
+e;337831;'avant la bataille';1;50
+e;388107;'zoom avant';1;50
+e;372384;'pour l'avant-dernière fois';1;50
+e;354999;'fort avant dans';1;50
+e;337839;'avant-garde artistique';1;50
+e;337829;'avant guerre';1;50
+e;333239;'accouchement avant terme';1;50
+e;370706;'place avant';1;50
+e;353783;'feu de brouillard avant';1;50
+e;350165;'en avant-garde de';1;50
+e;344105;'comme avant';1;50
+e;337830;'avant l'âge';1;50
+e;391745;'muscle de la loge postérieure de l'avant-bras';1;50
+e;388326;'à l'avant de';1;50
+e;371863;'pont avant';1;50
+e;360641;'l'avant-veille de';1;50
+e;340722;'bénéfice net avant impôt';1;50
+e;339585;'bond en avant';1;50
+e;337834;'avant notre ère';1;50
+e;337828;'avant avant-hier';1;50
+e;384914;'travelling avant';1;50
+e;377027;'roulade avant';1;50
+e;356546;'grand pas en avant';1;50
+e;350167;'en avant-première à';1;50
+e;341340;'canon d'avant-bras';1;50
+e;340728;'bénéfices avant impôt';1;50
+e;337840;'avant-garde politique';1;50
+e;372339;'pour avant-hier';1;50
+e;372025;'portière avant droite';1;50
+e;345959;'d'avant la guerre';1;50
+e;342142;'ceinture de sécurité ventrale avant';1;50
+e;337836;'avant toute autre chose';1;50
+e;391747;'muscle de l'avant-bras';1;50
+e;378098;'résultat courant avant impôts et provisions';1;50
+e;371957;'porte avant';1;50
+e;370108;'phare avant gauche';1;50
+e;360640;'l'avant-dernière à';1;50
+e;350166;'en avant-première';1;52
+e;337841;'avant-projet de loi';1;50
+e;337837;'avant-bras droit';1;50
+e;337832;'avant la nuit';1;50
+e;369109;'passager avant';1;50
+e;369021;'pas en avant';1;50
+e;353131;'face avant';1;50
+e;337838;'avant-contrat synallagmatique';1;50
+e;334534;'aile avant droite';1;50
+e;392181;'par l'avant';1;50
+e;388327;'à l'avant-garde de';1;50
+e;376979;'roue avant droite';1;50
+e;363587;'matelot d'avant';1;50
+e;360438;'jugement avant dire droit';1;50
+e;99213;'avant-foyer';1;50
+e;97422;'avant-cale';1;50
+e;96896;'avant-train';1;52
+e;93875;'avant-radier';1;50
+e;91831;'hale-avant';1;50
+e;82740;'avant-nuit';1;50
+e;82726;'avant-pied';1;52
+e;76649;'avant-gardiste';1;68
+e;75967;'avant-toit';1;52
+e;67689;'avant-trou';1;50
+e;65936;'avant-mur';1;50
+e;65187;'avant-bec';1;50
+e;64590;'avant-creuset';1;50
+e;63530;'avant-solier';1;50
+e;60983;'avant-bassin';1;50
+e;57100;'avant-cour';1;50
+e;54803;'avant-deux';1;50
+e;50588;'avant-papier';1;50
+e;43527;'en-avant';1;56
+e;43325;'avant-clou';1;50
+e;43043;'avant-guerre';1;50
+e;30637;'avant-fossé';1;50
+e;30116;'avant-choeur';1;50
+e;28401;'avant-';1;50
+e;27762;'trans-avant-garde';1;50
+e;26318;'avant-nef';1;50
+e;26032;'avant-midi';1;56
+e;21226;'avant-coeur';1;50
+e;21008;'avant-main';1;50
+e;18167;'avant-port';1;50
+e;15004;'avant-goût';1;52
+e;11210;'avant-contrat';1;50
+e;6370;'avant-courrier';1;50
+e;3848;'avant-projet';1;50
+e;1658;'avant-rasage';1;50
+e;175;'avant-jour';1;50
+e;68277;'avant-bras';1;264
+e;80788;'avant-propos';1;62
+e;225015;'avant-quart';1;50
+e;220783;'avant-part';1;50
+e;211097;'l'avant-veille';1;50
+e;210608;'d'avant-garde';1;50
+e;196395;'avant-dire';1;50
+e;196394;'avant-cur';1;50
+e;176877;'avant-règne';1;50
+e;174824;'bout-avant';1;50
+e;172656;'avant-duc';1;50
+e;125026;'avant-pieu';1;50
+e;111851;'avant-gardisme';1;52
+e;109802;'avant-pays';1;50
+e;106841;'avant-plan';1;50
+e;97709;'avant-corps';1;50
+e;118786;'avant-veille';1;50
+e;295129;'avant-bonheur';1;50
+e;294753;'avant-terre';1;50
+e;54055;'avant-poste';1;58
+e;103374;'avant-première';1;60
+e;113288;'avant-garde';1;110
+e;101687;'avant-coureur';1;88
+e;24023;'avant-centre';1;116
+e;163803;'os de l'avant-bras';1;50
+e;253982;'copains d'avant';1;22
+e;254970;'avant-chemin couvert';1;50
+e;46485;'avant-scène';1;102
+e;140353;'L'Île du jour d'avant';1;50
+e;210907;'gaillard d'avant';1;50
+e;276134;'d'avant garde';1;52
+e;310394;'à l'avant';777;50
+e;182312;'équilibreur avant-arrière';1;50
+e;265601;'symptôme avant-coureur';1;50
+e;283774;'association des combattants de l'avant et des blessés de guerre cités pour action d'éclat';777;50
+e;290606;'joueur d'avant-champ';777;50
+e;45958;'signe avant-coureur';1;62
+e;21122;'avant-gardes russes';1;50
+e;313356;'faire un pas en avant';1;52
+e;118415;'se mettre en avant';1;62
+e;210795;'être mûr avant l'âge';1;50
+e;226910;'roue avant';1;52
+e;235985;'fuite en avant';1;12
+e;236976;'partie avant';1;50
+e;239253;'mettre la charrue avant les boeufs';1;4
+e;241964;'portière avant';1;52
+e;242163;'en avant la musique';1;62
+e;246822;'Dernières balises avant mutation';1;50
+e;251051;'plage avant';1;8
+e;251479;'en avant marche';1;56
+e;253375;'feu avant';1;50
+e;259241;'frein avant';1;8
+e;262735;'avant injection';1;50
+e;262748;'hypodense avant injection';1;50
+e;82177;'avant-dernier';1;80
+e;59010;'marche en avant';1;50
+e;60028;'avant peu';1;50
+e;82826;'La Morale avant les philosophes';1;50
+e;101842;'Temps, en avant';1;50
+e;114441;'avant le temps';1;50
+e;141524;'L'État social et politique de la France avant et après 1789';1;50
+e;145665;'Le Monde avant l'apparition de l'homme';1;50
+e;153518;'le calme avant la tempête';1;50
+e;165174;'avant la naissance';1;50
+e;171433;'d'en avant';1;50
+e;208192;'siège avant';1;50
+e;210256;'avant l'heure, c'est pas l'heure, après l'heure, c'est plus l'heure';1;52
+e;211004;'incessamment si ce n'est avant';1;50
+e;212138;'vendre la peau de l'ours avant de l'avoir tué';1;50
+e;242425;'marche avant';1;60
+e;277119;'l'éducation des enfants avant 6 ans';777;50
+e;284908;'Ve siècle avant J.-C.';1;50
+e;296803;'histoire du climat avant 1850';777;50
+e;35184;'Histoire des doctrines chrétiennes avant Nicée';1;50
+e;48470;'avant le déluge';1;50
+e;86864;'avant terme';1;82
+e;146424;'Origines du théâtre lyrique moderne: histoire de l'opéra avant Lully et Scarlatti';1;50
+e;153854;'avant bras';1;50
+e;153979;'calme avant la tempête';1;50
+e;155354;'train avant';1;58
+e;158553;'nommé avant';1;60
+e;171306;'avant faire droit';1;50
+e;172461;'ouvrir les cadeaux avant Noël';1;50
+e;173623;'avant le présent';1;50
+e;179210;'traction avant';1;4
+e;184887;'avant Jésus-Christ';1;50
+e;205183;'passer avant les autres';1;50
+e;205184;'passer avant toute chose';1;50
+e;205705;'plus avant';1;50
+e;266081;'bilan avant chimioembolisation';1;50
+e;270555;'moteur avant';1;50
+e;278896;'Philémon avant la lettre';777;50
+e;283235;'saut en avant';777;50
+e;288970;'avant 972';777;50
+e;288971;'avant 1057';777;50
+e;292859;'Coup de poing direct du bras avant';777;50
+e;294349;'prélever avant tout partage';777;50
+e;294731;'bien avant dans les terres';1;50
+e;302168;'flip avant';777;50
+e;309123;'bénéfice avant intérêts et impôts';777;50
+e;309125;'résultat avant intérêts et impôts';777;50
+e;92681;'mettre en avant';1;54
+e;137110;'avant l'heure';1;54
+e;139176;'avant l'échéance';1;50
+e;186485;'mettre la charrue avant les bufs';1;50
+e;196391;'avant longtemps';1;52
+e;196392;'avant même de';1;50
+e;196393;'avant que de';1;50
+e;199140;'en avant de';1;50
+e;312697;'Grand Bond en avant';1;50
+e;187067;'avant de';1;50
+e;15321;'avant dans la nuit';1;50
+e;5853;'Histoire littéraire de la France avant le XIIe siècle';1;50
+e;9074;'avant la lettre';1;50
+e;9;'avant toute chose';1;50
+e;261080;'avant-avant-dernier';1;54
+e;171305;'avant-avant-hier';1;50
+e;153885;'c'était mieux avant';1;50
+e;64193;'avant tout';1;54
+e;153794;'avant propos';1;50
+e;154058;'avant garde';1;50
+e;156691;'avant que';1;52
+e;120865;'avant-hier';1;224
+e;84157;'en avant';1;56
+e;137503;'aller de l'avant';1;124
+r;282731322;4023;11129736;11;25
+r;299612528;4023;6313079;11;25
+r;300107802;4023;6321187;11;25
+r;300193898;4023;6325976;11;25
+r;301735257;4023;6350764;11;25
+r;301813486;4023;6357077;11;25
+r;303994824;4023;6384896;11;25
+r;304478582;4023;6387105;11;25
+r;305130669;4023;6398965;11;25
+r;305207950;4023;6401821;11;25
+r;305319201;4023;6407769;11;25
+r;305463949;4023;6409939;11;25
+r;305699691;4023;6419587;11;25
+r;310674442;4023;9942183;11;25
+r;316546549;4023;12199963;11;25
+r;316559508;4023;12195714;11;25
+r;316564761;4023;12194193;11;25
+r;316567447;4023;12193298;11;25
+r;316572397;4023;12191831;11;25
+r;316572487;4023;12191815;11;25
+r;316572501;4023;12191813;11;25
+r;316572515;4023;12191811;11;25
+r;316572903;4023;12191739;11;25
+r;316572917;4023;12191736;11;25
+r;316572929;4023;12191734;11;25
+r;316572941;4023;12191732;11;25
+r;316575039;4023;12191045;11;25
+r;316575053;4023;12191043;11;25
+r;316575065;4023;12191041;11;25
+r;316575077;4023;12191039;11;25
+r;316576311;4023;12190783;11;25
+r;316577745;4023;12190562;11;25
+r;316578071;4023;12190508;11;25
+r;316579844;4023;12189850;11;25
+r;316587297;4023;12188061;11;25
+r;316587673;4023;12187996;11;25
+r;316587778;4023;12187976;11;25
+r;316588232;4023;12187907;11;25
+r;316589961;4023;12187539;11;25
+r;316589975;4023;12187537;11;25
+r;316589989;4023;12187535;11;25
+r;316590001;4023;12187533;11;25
+r;316590015;4023;12187531;11;25
+r;316590391;4023;12187462;11;25
+r;316590405;4023;12187460;11;25
+r;316590419;4023;12187458;11;25
+r;316590433;4023;12187456;11;25
+r;316590447;4023;12187453;11;25
+r;316590459;4023;12187450;11;25
+r;316590919;4023;12187347;11;25
+r;316591079;4023;12187311;11;25
+r;316591663;4023;12187193;11;25
+r;316591677;4023;12187191;11;25
+r;316591689;4023;12187189;11;25
+r;316591699;4023;12187187;11;25
+r;316591710;4023;12187185;11;25
+r;316591726;4023;12187182;11;25
+r;316591738;4023;12187180;11;25
+r;316591750;4023;12187178;11;25
+r;316591762;4023;12187176;11;25
+r;316591774;4023;12187174;11;25
+r;316591786;4023;12187171;11;25
+r;316591798;4023;12187169;11;25
+r;316591808;4023;12187167;11;25
+r;316591818;4023;12187164;11;25
+r;316603183;4023;12184072;11;25
+r;316604183;4023;12183905;11;25
+r;316604931;4023;12183758;11;25
+r;316605312;4023;12183694;11;25
+r;316606360;4023;12183407;11;25
+r;316606942;4023;12183213;11;25
+r;316610176;4023;12182160;11;25
+r;316610671;4023;12182068;11;25
+r;316610685;4023;12182065;11;25
+r;316610697;4023;12182063;11;25
+r;316610708;4023;12182061;11;25
+r;316610720;4023;12182059;11;25
+r;316610732;4023;12182057;11;25
+r;316612004;4023;12181673;11;25
+r;316612021;4023;12181670;11;25
+r;316612894;4023;12181433;11;25
+r;316619524;4023;12180186;11;25
+r;316619541;4023;12180184;11;25
+r;316619558;4023;12180182;11;25
+r;316619575;4023;12180180;11;25
+r;316637366;4023;12177848;11;25
+r;316643414;4023;12175975;11;25
+r;316652362;4023;12172482;11;25
+r;316664331;4023;12168685;11;25
+r;316670685;4023;12166683;11;25
+r;316670753;4023;12166673;11;25
+r;316670949;4023;12166619;11;25
+r;316670963;4023;12166617;11;25
+r;316670977;4023;12166615;11;25
+r;316678664;4023;12164403;11;25
+r;316678785;4023;12164381;11;25
+r;316679397;4023;12164204;11;25
+r;316684661;4023;12162702;11;25
+r;316684791;4023;12162670;11;25
+r;316684910;4023;12162635;11;25
+r;316685020;4023;12162603;11;25
+r;316685125;4023;12162573;11;25
+r;316685972;4023;12162353;11;25
+r;316685981;4023;12162351;11;25
+r;316685990;4023;12162349;11;25
+r;316686001;4023;12162347;11;25
+r;316686012;4023;12162345;11;25
+r;316686021;4023;12162342;11;25
+r;316689959;4023;12160994;11;25
+r;316690571;4023;12160652;11;25
+r;316691295;4023;12160511;11;25
+r;316691306;4023;12160509;11;25
+r;316691317;4023;12160507;11;25
+r;316691328;4023;12160505;11;25
+r;316691339;4023;12160503;11;25
+r;316700161;4023;12157160;11;25
+r;316705149;4023;12155594;11;25
+r;316705163;4023;12155592;11;25
+r;316705583;4023;12155503;11;25
+r;316705777;4023;12155459;11;25
+r;316705789;4023;12155457;11;25
+r;316705803;4023;12155455;11;25
+r;316705815;4023;12155453;11;25
+r;316705829;4023;12155450;11;25
+r;316705843;4023;12155448;11;25
+r;316706049;4023;12155407;11;25
+r;316706123;4023;12155390;11;25
+r;316706249;4023;12155364;11;25
+r;316706263;4023;12155361;11;25
+r;316706480;4023;12155316;11;25
+r;316706801;4023;12155249;11;25
+r;316706815;4023;12155246;11;25
+r;316707356;4023;12155140;11;25
+r;316707505;4023;12155113;11;25
+r;316709046;4023;12154798;11;25
+r;316709059;4023;12154796;11;25
+r;316709069;4023;12154793;11;25
+r;316709081;4023;12154791;11;25
+r;316709095;4023;12154788;11;25
+r;316709107;4023;12154786;11;25
+r;316709117;4023;12154783;11;25
+r;316709132;4023;12154781;11;25
+r;316709147;4023;12154778;11;25
+r;316709162;4023;12154776;11;25
+r;316709175;4023;12154774;11;25
+r;316709187;4023;12154772;11;25
+r;316709199;4023;12154769;11;25
+r;316709211;4023;12154767;11;25
+r;316709223;4023;12154765;11;25
+r;316709813;4023;12154546;11;25
+r;316711701;4023;12154084;11;25
+r;316711823;4023;12154058;11;25
+r;316712137;4023;12153994;11;25
+r;316712283;4023;12153968;11;25
+r;316712295;4023;12153966;11;25
+r;316716528;4023;12152764;11;25
+r;316716582;4023;12152755;11;25
+r;316716801;4023;12152696;11;25
+r;316716815;4023;12152694;11;25
+r;316716829;4023;12152692;11;25
+r;316719266;4023;12151976;11;25
+r;316719310;4023;12151966;11;25
+r;316719576;4023;12151885;11;25
+r;316719777;4023;12151839;11;25
+r;316719866;4023;12151825;11;25
+r;316719881;4023;12151823;11;25
+r;316719896;4023;12151821;11;25
+r;316719908;4023;12151819;11;25
+r;316719964;4023;12151800;11;25
+r;316720486;4023;12151729;11;25
+r;316720702;4023;12151693;11;25
+r;316720714;4023;12151691;11;25
+r;316720726;4023;12151689;11;25
+r;316720738;4023;12151687;11;25
+r;316720750;4023;12151685;11;25
+r;316720762;4023;12151683;11;25
+r;316720774;4023;12151681;11;25
+r;316720820;4023;12151668;11;25
+r;316721057;4023;12151613;11;25
+r;316721124;4023;12151587;11;25
+r;316721806;4023;12151371;11;25
+r;316722274;4023;12151219;11;25
+r;316722496;4023;12151180;11;25
+r;316722508;4023;12151178;11;25
+r;316722704;4023;12151106;11;25
+r;316722796;4023;12151069;11;25
+r;316722813;4023;12151065;11;25
+r;316722822;4023;12151063;11;25
+r;316723265;4023;12150909;11;25
+r;316723277;4023;12150907;11;25
+r;316723287;4023;12150905;11;25
+r;316723299;4023;12150903;11;25
+r;316723311;4023;12150901;11;25
+r;316723323;4023;12150899;11;25
+r;316723357;4023;12150890;11;25
+r;316723759;4023;12150808;11;25
+r;316723771;4023;12150806;11;25
+r;316724113;4023;12150622;11;25
+r;316724125;4023;12150620;11;25
+r;316724137;4023;12150618;11;25
+r;316724159;4023;12150612;11;25
+r;316724380;4023;12150492;11;25
+r;316725116;4023;12150221;11;25
+r;316725150;4023;12150203;11;25
+r;316725342;4023;12150069;11;25
+r;316728998;4023;12148915;11;25
+r;316736227;4023;12146586;11;25
+r;316744785;4023;12144040;11;25
+r;316744817;4023;12144026;11;25
+r;316744831;4023;12144023;11;25
+r;316744848;4023;12144020;11;25
+r;316750419;4023;12142312;11;25
+r;316750445;4023;12142304;11;25
+r;316750815;4023;12142212;11;25
+r;316750895;4023;12142193;11;25
+r;316750921;4023;12142183;11;25
+r;316751264;4023;12142111;11;25
+r;316751282;4023;12142106;11;25
+r;316751294;4023;12142102;11;25
+r;316751306;4023;12142100;11;25
+r;316751328;4023;12142098;11;25
+r;316751350;4023;12142096;11;25
+r;316754467;4023;12141175;11;25
+r;316754481;4023;12141170;11;25
+r;316754882;4023;12141103;11;25
+r;316754972;4023;12141085;11;25
+r;316756205;4023;12140846;11;25
+r;316756228;4023;12140844;11;25
+r;316756255;4023;12140842;11;25
+r;316756287;4023;12140819;11;25
+r;316756301;4023;12140816;11;25
+r;316756313;4023;12140814;11;25
+r;316756334;4023;12140811;11;25
+r;316756351;4023;12140809;11;25
+r;316756365;4023;12140807;11;25
+r;316756377;4023;12140804;11;25
+r;316756389;4023;12140801;11;25
+r;316756401;4023;12140799;11;25
+r;316756418;4023;12140797;11;25
+r;316756443;4023;12140795;11;25
+r;316756462;4023;12140792;11;25
+r;316756487;4023;12140789;11;25
+r;316756506;4023;12140787;11;25
+r;316756520;4023;12140782;11;25
+r;316757275;4023;12140596;11;25
+r;316757289;4023;12140593;11;25
+r;316757303;4023;12140590;11;25
+r;316757317;4023;12140587;11;25
+r;316757417;4023;12140563;11;25
+r;316757431;4023;12140560;11;25
+r;316758037;4023;12140412;11;25
+r;316758049;4023;12140409;11;25
+r;316758061;4023;12140406;11;25
+r;316758073;4023;12140403;11;25
+r;316758085;4023;12140400;11;25
+r;316758097;4023;12140397;11;25
+r;316758109;4023;12140395;11;25
+r;316758134;4023;12140393;11;25
+r;316758153;4023;12140391;11;25
+r;316758172;4023;12140389;11;25
+r;316758186;4023;12140386;11;25
+r;316758676;4023;12140279;11;25
+r;316780967;4023;12133080;11;25
+r;316784904;4023;12131895;11;25
+r;316784978;4023;12131877;11;25
+r;316785868;4023;12131655;11;25
+r;316785880;4023;12131653;11;25
+r;316785892;4023;12131651;11;25
+r;316786383;4023;12131504;11;25
+r;316786395;4023;12131502;11;25
+r;316786409;4023;12131500;11;25
+r;318670402;4023;12232324;11;25
+r;318670422;4023;12232323;11;25
+r;318670918;4023;12232296;11;25
+r;318670938;4023;12232295;11;25
+r;318672122;4023;12232231;11;25
+r;318672140;4023;12232230;11;25
+r;319101880;4023;6314074;11;25
+r;340956979;4023;6302856;11;25
+r;341252545;4023;6414979;11;25
+r;346123453;4023;13640157;11;25
+r;349166133;4023;6358284;11;25
+r;401052418;4023;6411099;11;25
+r;366906318;4023;14453365;11;25
+r;366945631;4023;14454536;11;25
+r;369744835;4023;14547464;11;25
+r;369933252;4023;14548577;11;25
+r;370338872;4023;14567555;11;25
+r;371180720;4023;14605430;11;25
+r;371210531;4023;14606738;11;25
+r;371210692;4023;14606739;11;25
+r;372886555;4023;14657021;11;25
+r;373000273;4023;14669712;11;25
+r;373066371;4023;14670966;11;25
+r;373970123;4023;14711001;11;25
+r;374375823;4023;14725586;11;25
+r;375566383;4023;14778663;11;25
+r;418558978;4023;12207179;11;25
+r;399498153;4023;6329442;11;25
+r;400741954;4023;6387593;11;25
+r;400820623;4023;6395635;11;25
+r;389682423;4023;14902313;11;25
+r;389682462;4023;14902312;11;25
+r;397375215;4023;6296558;11;25
+r;397535100;4023;6302319;11;25
+r;397849663;4023;6305954;11;25
+r;400588824;4023;6376665;11;25
+r;418524529;4023;12207104;11;25
+r;418524542;4023;12207112;11;25
+r;418524568;4023;12207113;11;25
+r;418524579;4023;12207101;11;25
+r;418524669;4023;12207035;11;25
+r;418524760;4023;12207114;11;25
+r;418524927;4023;12207106;11;25
+r;418525021;4023;12207108;11;25
+r;418526356;4023;12207128;11;25
+r;418527302;4023;12207103;11;25
+r;418527540;4023;12207135;11;25
+r;418529353;4023;12207111;11;25
+r;418552196;4023;12207109;11;25
+r;418557156;4023;12207107;11;25
+r;418557225;4023;12207178;11;25
+r;418557323;4023;12207098;11;25
+r;418557378;4023;12207187;11;25
+r;428833943;4023;16316685;11;25
+r;392496933;4023;15026273;11;26
+r;297675961;4023;6284808;11;26
+r;298743595;4023;6293974;11;26
+r;299484394;4023;6305396;11;26
+r;299630511;4023;6314164;11;26
+r;300121312;4023;6322094;11;26
+r;300139073;4023;6323627;11;26
+r;301482527;4023;6341011;11;26
+r;301744443;4023;6352343;11;26
+r;303132886;4023;6373482;11;26
+r;303187672;4023;6373956;11;26
+r;304383770;4023;6386471;11;26
+r;304487092;4023;6387439;11;26
+r;305459609;4023;6408882;11;26
+r;305687284;4023;6417218;11;26
+r;305703284;4023;6419939;11;26
+r;315637266;4023;12091995;11;26
+r;315639666;4023;12091709;11;26
+r;315639710;4023;12091703;11;26
+r;315640212;4023;12091638;11;26
+r;315640219;4023;12091637;11;26
+r;315640226;4023;12091636;11;26
+r;315640552;4023;12091589;11;26
+r;315640561;4023;12091588;11;26
+r;315640568;4023;12091587;11;26
+r;315640581;4023;12091586;11;26
+r;315641261;4023;12091509;11;26
+r;315641335;4023;12091500;11;26
+r;315641429;4023;12091490;11;26
+r;315641559;4023;12091476;11;26
+r;315641570;4023;12091475;11;26
+r;315641836;4023;12091447;11;26
+r;315641886;4023;12091441;11;26
+r;315641895;4023;12091440;11;26
+r;316546489;4023;12199969;11;26
+r;316546590;4023;12199959;11;26
+r;316546703;4023;12199947;11;26
+r;316546780;4023;12199936;11;26
+r;316546810;4023;12199930;11;26
+r;316546838;4023;12199926;11;26
+r;316546844;4023;12199925;11;26
+r;316546850;4023;12199924;11;26
+r;316546856;4023;12199923;11;26
+r;316546862;4023;12199922;11;26
+r;316546868;4023;12199921;11;26
+r;316546874;4023;12199919;11;26
+r;316546880;4023;12199918;11;26
+r;316546886;4023;12199917;11;26
+r;316546892;4023;12199916;11;26
+r;316546898;4023;12199915;11;26
+r;316546908;4023;12199913;11;26
+r;316546914;4023;12199912;11;26
+r;316546920;4023;12199911;11;26
+r;316546926;4023;12199910;11;26
+r;316546938;4023;12199908;11;26
+r;318582604;4023;12236369;11;26
+r;318582629;4023;12236368;11;26
+r;333255571;4023;12979844;11;26
+r;333256408;4023;12979879;11;26
+r;333389624;4023;12981351;11;26
+r;370599056;4023;14585113;11;26
+r;371813079;4023;14636959;11;26
+r;371814423;4023;14637117;11;26
+r;371814483;4023;14637122;11;26
+r;371814535;4023;14637126;11;26
+r;371814568;4023;14637129;11;26
+r;372941006;4023;14668633;11;26
+r;374398767;4023;14726445;11;26
+r;419480319;4023;16087376;11;26
+r;121551530;4023;6437377;11;27
+r;267325696;4023;10664616;11;27
+r;315483111;4023;12090564;11;27
+r;301536095;4023;6344275;11;27
+r;301728686;4023;6349955;11;27
+r;302978007;4023;6369924;11;27
+r;303108044;4023;6373013;11;27
+r;305000288;4023;6395505;11;27
+r;305130189;4023;6398827;11;27
+r;315692144;4023;12116788;11;27
+r;315692012;4023;12116822;11;27
+r;315692170;4023;12116770;11;27
+r;315692163;4023;12116772;11;27
+r;315462345;4023;12088984;11;27
+r;315462429;4023;12089034;11;27
+r;315462951;4023;12089016;11;27
+r;315463114;4023;12088884;11;27
+r;315463325;4023;12089035;11;27
+r;315463844;4023;12089116;11;27
+r;315466073;4023;12089064;11;27
+r;315466329;4023;12089123;11;27
+r;315470251;4023;12089627;11;27
+r;315470451;4023;12089628;11;27
+r;315471890;4023;12089590;11;27
+r;315477103;4023;12090104;11;27
+r;315478032;4023;12090105;11;27
+r;315488473;4023;12090543;11;27
+r;315568659;4023;12090536;11;27
+r;315571244;4023;12090544;11;27
+r;315574819;4023;12100344;11;27
+r;315574830;4023;12100343;11;27
+r;315574871;4023;12100338;11;27
+r;315575116;4023;12100305;11;27
+r;315575125;4023;12100304;11;27
+r;315575132;4023;12100303;11;27
+r;315575141;4023;12100302;11;27
+r;315575148;4023;12100301;11;27
+r;315579451;4023;12099738;11;27
+r;315579517;4023;12099727;11;27
+r;315579883;4023;12099680;11;27
+r;315579890;4023;12099679;11;27
+r;315583148;4023;12099282;11;27
+r;315583648;4023;12099237;11;27
+r;315583761;4023;12099223;11;27
+r;315583855;4023;12099210;11;27
+r;315583944;4023;12099198;11;27
+r;315584027;4023;12099187;11;27
+r;315584713;4023;12099101;11;27
+r;315584720;4023;12099100;11;27
+r;315584727;4023;12099099;11;27
+r;315584734;4023;12099098;11;27
+r;315584746;4023;12099097;11;27
+r;315584758;4023;12099096;11;27
+r;315584765;4023;12099095;11;27
+r;315584772;4023;12099094;11;27
+r;315587901;4023;12098739;11;27
+r;315588210;4023;12098681;11;27
+r;315588811;4023;12098615;11;27
+r;315588820;4023;12098614;11;27
+r;315588829;4023;12098613;11;27
+r;315588838;4023;12098612;11;27
+r;315588847;4023;12098611;11;27
+r;315594160;4023;12097753;11;27
+r;315597511;4023;12097325;11;27
+r;315597520;4023;12097324;11;27
+r;315597770;4023;12097294;11;27
+r;315597887;4023;12097278;11;27
+r;315597896;4023;12097277;11;27
+r;315597905;4023;12097276;11;27
+r;315597912;4023;12097275;11;27
+r;315597921;4023;12097274;11;27
+r;315597930;4023;12097273;11;27
+r;315598057;4023;12097256;11;27
+r;315598101;4023;12097250;11;27
+r;315598177;4023;12097240;11;27
+r;315598186;4023;12097239;11;27
+r;315598306;4023;12097222;11;27
+r;315598470;4023;12097200;11;27
+r;315598479;4023;12097199;11;27
+r;315598757;4023;12097166;11;27
+r;315598829;4023;12097156;11;27
+r;315599652;4023;12097053;11;27
+r;315599661;4023;12097052;11;27
+r;315599668;4023;12097051;11;27
+r;315599673;4023;12097050;11;27
+r;315599680;4023;12097049;11;27
+r;315599687;4023;12097048;11;27
+r;315599694;4023;12097047;11;27
+r;315599700;4023;12097046;11;27
+r;315599707;4023;12097045;11;27
+r;315599714;4023;12097044;11;27
+r;315599723;4023;12097043;11;27
+r;315599730;4023;12097042;11;27
+r;315599740;4023;12097041;11;27
+r;315599750;4023;12097040;11;27
+r;315599760;4023;12097039;11;27
+r;315599770;4023;12097038;11;27
+r;315599775;4023;12097037;11;27
+r;315599782;4023;12097036;11;27
+r;315599789;4023;12097035;11;27
+r;315599796;4023;12097034;11;27
+r;315599803;4023;12097033;11;27
+r;315600140;4023;12096976;11;27
+r;315601352;4023;12096839;11;27
+r;315601432;4023;12096829;11;27
+r;315601635;4023;12096803;11;27
+r;315601725;4023;12096791;11;27
+r;315601734;4023;12096790;11;27
+r;315601741;4023;12096789;11;27
+r;315604459;4023;12096464;11;27
+r;315604502;4023;12096459;11;27
+r;315604790;4023;12096421;11;27
+r;315604799;4023;12096420;11;27
+r;315604806;4023;12096419;11;27
+r;315604815;4023;12096418;11;27
+r;315604822;4023;12096417;11;27
+r;315606383;4023;12096225;11;27
+r;315606409;4023;12096221;11;27
+r;315608754;4023;12095911;11;27
+r;315616113;4023;12094932;11;27
+r;315616140;4023;12094927;11;27
+r;315616149;4023;12094926;11;27
+r;315616161;4023;12094925;11;27
+r;315618984;4023;12094528;11;27
+r;315619000;4023;12094526;11;27
+r;315619226;4023;12094497;11;27
+r;315619276;4023;12094491;11;27
+r;315619292;4023;12094489;11;27
+r;315619527;4023;12094465;11;27
+r;315619540;4023;12094464;11;27
+r;315619547;4023;12094463;11;27
+r;315619554;4023;12094462;11;27
+r;315619571;4023;12094461;11;27
+r;315619588;4023;12094460;11;27
+r;315621528;4023;12094235;11;27
+r;315621537;4023;12094234;11;27
+r;315621812;4023;12094210;11;27
+r;315621871;4023;12094203;11;27
+r;315622688;4023;12094119;11;27
+r;315622706;4023;12094118;11;27
+r;315622728;4023;12094117;11;27
+r;315622769;4023;12094112;11;27
+r;315622778;4023;12094111;11;27
+r;315622794;4023;12094110;11;27
+r;315622806;4023;12094109;11;27
+r;315622813;4023;12094108;11;27
+r;315622820;4023;12094107;11;27
+r;315622827;4023;12094106;11;27
+r;315622834;4023;12094105;11;27
+r;315622843;4023;12094104;11;27
+r;315622850;4023;12094103;11;27
+r;315622857;4023;12094102;11;27
+r;315622869;4023;12094101;11;27
+r;315622889;4023;12094100;11;27
+r;315622903;4023;12094099;11;27
+r;315622923;4023;12094098;11;27
+r;315622937;4023;12094097;11;27
+r;315622944;4023;12094096;11;27
+r;315622953;4023;12094095;11;27
+r;315623378;4023;12094034;11;27
+r;315623387;4023;12094033;11;27
+r;315623396;4023;12094032;11;27
+r;315623405;4023;12094031;11;27
+r;315623469;4023;12094023;11;27
+r;315623478;4023;12094022;11;27
+r;315623854;4023;12093970;11;27
+r;315623861;4023;12093969;11;27
+r;315623868;4023;12093968;11;27
+r;315623875;4023;12093967;11;27
+r;315623882;4023;12093966;11;27
+r;315623889;4023;12093965;11;27
+r;315623896;4023;12093964;11;27
+r;315623916;4023;12093963;11;27
+r;315623930;4023;12093962;11;27
+r;315623944;4023;12093961;11;27
+r;315623951;4023;12093960;11;27
+r;315623960;4023;12093959;11;27
+r;315624235;4023;12093919;11;27
+r;316303163;4023;12198530;11;27
+r;316546902;4023;12199914;11;27
+r;316546932;4023;12199909;11;27
+r;341007943;4023;6318211;11;27
+r;121547434;4023;6437826;11;28
+r;121547824;4023;6437782;11;28
+r;301807257;4023;6356284;11;28
+r;315464997;4023;12089122;11;28
+r;315466622;4023;12089117;11;28
+r;315525632;4023;12105135;11;28
+r;315526528;4023;12105071;11;28
+r;315527338;4023;12105012;11;28
+r;315527569;4023;12104982;11;28
+r;315527576;4023;12104981;11;28
+r;315528274;4023;12104895;11;28
+r;315528502;4023;12104849;11;28
+r;315530439;4023;12104577;11;28
+r;315530730;4023;12104535;11;28
+r;315530739;4023;12104534;11;28
+r;315530746;4023;12104533;11;28
+r;315530753;4023;12104532;11;28
+r;315530759;4023;12104531;11;28
+r;315530766;4023;12104530;11;28
+r;315530773;4023;12104529;11;28
+r;315531573;4023;12104397;11;28
+r;315531585;4023;12104396;11;28
+r;315532195;4023;12104326;11;28
+r;315537347;4023;12103960;11;28
+r;315537359;4023;12103959;11;28
+r;315537371;4023;12103958;11;28
+r;315537383;4023;12103957;11;28
+r;315549358;4023;12103072;11;28
+r;315553377;4023;12102598;11;28
+r;315558961;4023;12101817;11;28
+r;315558968;4023;12101816;11;28
+r;315565664;4023;12100879;11;28
+r;315678311;4023;12115809;11;28
+r;318462237;4023;12239754;11;28
+r;318462262;4023;12239753;11;28
+r;318462649;4023;12239736;11;28
+r;318462672;4023;12239735;11;28
+r;318465474;4023;12239595;11;28
+r;318465504;4023;12239594;11;28
+r;318465534;4023;12239593;11;28
+r;318465559;4023;12239592;11;28
+r;343034784;4023;13538030;11;28
+r;122712647;4023;6427822;11;29
+r;122754563;4023;6422419;11;29
+r;273207953;4023;10896145;11;29
+r;277407630;4023;10987842;11;29
+r;277410395;4023;10987837;11;29
+r;277410558;4023;10987855;11;29
+r;315493745;4023;12108568;11;29
+r;315497191;4023;12108175;11;29
+r;315498713;4023;12107969;11;29
+r;315498727;4023;12107968;11;29
+r;315501689;4023;12107590;11;29
+r;315501748;4023;12107583;11;29
+r;315501780;4023;12107579;11;29
+r;315501789;4023;12107578;11;29
+r;315501798;4023;12107577;11;29
+r;315502058;4023;12107541;11;29
+r;315502067;4023;12107540;11;29
+r;315502077;4023;12107539;11;29
+r;315502090;4023;12107538;11;29
+r;315502106;4023;12107537;11;29
+r;315502114;4023;12107536;11;29
+r;315502121;4023;12107535;11;29
+r;315502128;4023;12107534;11;29
+r;315503138;4023;12107361;11;29
+r;315503147;4023;12107360;11;29
+r;315503154;4023;12107359;11;29
+r;315503161;4023;12107358;11;29
+r;315503175;4023;12107357;11;29
+r;315504169;4023;12107269;11;29
+r;315505774;4023;12107178;11;29
+r;315506086;4023;12107160;11;29
+r;315507571;4023;12106967;11;29
+r;315515729;4023;12106374;11;29
+r;315515941;4023;12106350;11;29
+r;315516059;4023;12106338;11;29
+r;315516300;4023;12106313;11;29
+r;315517378;4023;12106182;11;29
+r;315517387;4023;12106181;11;29
+r;315517396;4023;12106180;11;29
+r;315517405;4023;12106179;11;29
+r;315517416;4023;12106178;11;29
+r;315517660;4023;12106145;11;29
+r;315517669;4023;12106144;11;29
+r;315517678;4023;12106143;11;29
+r;315517687;4023;12106142;11;29
+r;315517696;4023;12106141;11;29
+r;315517705;4023;12106140;11;29
+r;315517714;4023;12106139;11;29
+r;315518075;4023;12106088;11;29
+r;315518193;4023;12106072;11;29
+r;315518574;4023;12106021;11;29
+r;315518583;4023;12106020;11;29
+r;315518590;4023;12106019;11;29
+r;315518597;4023;12106018;11;29
+r;315518604;4023;12106017;11;29
+r;315518611;4023;12106016;11;29
+r;315518618;4023;12106015;11;29
+r;315518625;4023;12106014;11;29
+r;315518632;4023;12106013;11;29
+r;315518639;4023;12106012;11;29
+r;315518645;4023;12106011;11;29
+r;315518656;4023;12106010;11;29
+r;315518663;4023;12106009;11;29
+r;315518670;4023;12106008;11;29
+r;315518679;4023;12106007;11;29
+r;315518686;4023;12106006;11;29
+r;315518693;4023;12106005;11;29
+r;315518700;4023;12106004;11;29
+r;315518707;4023;12106003;11;29
+r;315518714;4023;12106002;11;29
+r;315518721;4023;12106001;11;29
+r;315520297;4023;12105778;11;29
+r;318417521;4023;12241750;11;29
+r;318417546;4023;12241749;11;29
+r;318418663;4023;12241698;11;29
+r;318418686;4023;12241697;11;29
+r;318418709;4023;12241696;11;29
+r;318418732;4023;12241695;11;29
+r;434387633;4023;16318384;11;29
+r;434387639;4023;16318385;11;29
+r;121531150;4023;6439654;11;30
+r;121549407;4023;6437609;11;30
+r;264437753;4023;10601014;11;30
+r;277546379;4023;10989500;11;30
+r;277550950;4023;10989652;11;30
+r;310674443;4023;2314986;11;30
+r;310674444;4023;2314987;11;30
+r;419750595;4023;15206625;11;30
+r;419758533;4023;15537079;11;30
+r;419758827;4023;15272023;11;30
+r;419758831;4023;15415106;11;30
+r;419772849;4023;15305999;11;30
+r;419773410;4023;15334099;11;30
+r;419775366;4023;15280846;11;30
+r;419800870;4023;15223658;11;30
+r;419803245;4023;15541405;11;30
+r;419813071;4023;15491815;11;30
+r;419814960;4023;15371479;11;30
+r;419816038;4023;15528713;11;30
+r;419829082;4023;13751344;11;30
+r;419829142;4023;13746464;11;30
+r;419837046;4023;15223655;11;30
+r;419837052;4023;15494273;11;30
+r;419837060;4023;15494271;11;30
+r;419840690;4023;15212326;11;30
+r;53809714;4023;2405742;11;31
+r;55107978;4023;2435185;11;31
+r;121533069;4023;6439436;11;31
+r;121547252;4023;6437849;11;31
+r;274354452;4023;10913454;11;31
+r;279841423;4023;11039076;11;31
+r;394780245;4023;15369074;11;31
+r;419709230;4023;15249701;11;31
+r;419710250;4023;15550270;11;31
+r;419724475;4023;15265999;11;31
+r;419724486;4023;15266001;11;31
+r;419735468;4023;15309879;11;31
+r;434373261;4023;16153933;11;31
+r;434373289;4023;16341497;11;31
+r;434373299;4023;16391908;11;31
+r;434373303;4023;16095965;11;31
+r;434373307;4023;16095966;11;31
+r;434373311;4023;16367041;11;31
+r;434373317;4023;16312333;11;31
+r;434376366;4023;16390866;11;31
+r;434376637;4023;16318327;11;31
+r;18448647;4023;185077;11;32
+r;30037750;4023;1839538;11;32
+r;53055603;4023;2388287;11;32
+r;53140459;4023;2391998;11;32
+r;54256980;4023;2411547;11;32
+r;55250830;4023;2440410;11;32
+r;55771165;4023;2465991;11;32
+r;111343588;4023;5670584;11;32
+r;111466981;4023;5675518;11;32
+r;112171019;4023;5716087;11;32
+r;121574769;4023;6434771;11;32
+r;121576783;4023;6434544;11;32
+r;122699392;4023;6429522;11;32
+r;280531569;4023;11061505;11;32
+r;419625440;4023;15196332;11;32
+r;419625441;4023;15786883;11;32
+r;419625445;4023;15327796;11;32
+r;419625451;4023;15284455;11;32
+r;419625457;4023;15302864;11;32
+r;419625463;4023;15583988;11;32
+r;419625467;4023;15583991;11;32
+r;419625475;4023;15206053;11;32
+r;419625481;4023;15317455;11;32
+r;419625487;4023;15401940;11;32
+r;419625491;4023;15770853;11;32
+r;419625495;4023;15648089;11;32
+r;419625503;4023;15197287;11;32
+r;419625507;4023;15398895;11;32
+r;419625513;4023;15402503;11;32
+r;419625519;4023;15337084;11;32
+r;419625525;4023;15381486;11;32
+r;419625531;4023;15529272;11;32
+r;419625539;4023;15648051;11;32
+r;419625549;4023;15550494;11;32
+r;419625555;4023;15343465;11;32
+r;419625561;4023;16040413;11;32
+r;419625565;4023;15400774;11;32
+r;419625571;4023;15420826;11;32
+r;419625577;4023;16029948;11;32
+r;419625585;4023;16029947;11;32
+r;419625593;4023;16029946;11;32
+r;419625601;4023;15354972;11;32
+r;419625607;4023;15532310;11;32
+r;419625613;4023;15532308;11;32
+r;419625619;4023;15272020;11;32
+r;419625623;4023;15532298;11;32
+r;419625629;4023;15532296;11;32
+r;419625635;4023;15370238;11;32
+r;419625641;4023;15532292;11;32
+r;419625647;4023;15532300;11;32
+r;419625653;4023;15532294;11;32
+r;419625659;4023;15532314;11;32
+r;419625665;4023;15532304;11;32
+r;419625671;4023;15550495;11;32
+r;419625677;4023;15532302;11;32
+r;419625683;4023;15286815;11;32
+r;419625689;4023;15532312;11;32
+r;419625695;4023;15532306;11;32
+r;419625701;4023;15202513;11;32
+r;419625705;4023;15693312;11;32
+r;419625707;4023;15759987;11;32
+r;419625713;4023;15525112;11;32
+r;419625719;4023;15525114;11;32
+r;419625725;4023;16068349;11;32
+r;419625729;4023;16068351;11;32
+r;419625733;4023;15550492;11;32
+r;419625743;4023;16015019;11;32
+r;419625759;4023;16040414;11;32
+r;419625771;4023;16036286;11;32
+r;419625780;4023;16038495;11;32
+r;419634556;4023;15456254;11;32
+r;419646578;4023;15273937;11;32
+r;419646594;4023;15515351;11;32
+r;419651657;4023;15285526;11;32
+r;419651801;4023;15531909;11;32
+r;419651807;4023;15531908;11;32
+r;419652835;4023;15297294;11;32
+r;419658503;4023;15690385;11;32
+r;419667915;4023;15205311;11;32
+r;419668420;4023;15504347;11;32
+r;419695359;4023;15367479;11;32
+r;433858468;4023;16491176;11;32
+r;114437553;4023;5873628;11;33
+r;121470525;4023;6446408;11;33
+r;122686608;4023;6431187;11;33
+r;227617753;4023;10035967;11;33
+r;275686140;4023;10941706;11;33
+r;280851261;4023;11077036;11;33
+r;280922686;4023;11078455;11;33
+r;292116291;4023;11384314;11;33
+r;315126502;4023;12071156;11;33
+r;315613665;4023;12095288;11;33
+r;364112084;4023;14300799;11;33
+r;371485054;4023;14612284;11;33
+r;371492755;4023;14612285;11;33
+r;371492812;4023;14612295;11;33
+r;373157102;4023;14677539;11;33
+r;393823806;4023;15038383;11;33
+r;393823919;4023;15038360;11;33
+r;393824090;4023;15038385;11;33
+r;393824125;4023;15038368;11;33
+r;393824155;4023;15038356;11;33
+r;393824170;4023;15038384;11;33
+r;393824263;4023;15038379;11;33
+r;393824320;4023;15038367;11;33
+r;393824340;4023;15038380;11;33
+r;393824359;4023;15038362;11;33
+r;393824374;4023;15038371;11;33
+r;393824386;4023;15038372;11;33
+r;393824398;4023;15038357;11;33
+r;393824422;4023;15038382;11;33
+r;393824482;4023;15038361;11;33
+r;393824512;4023;15038359;11;33
+r;393824700;4023;15038366;11;33
+r;393824717;4023;15038376;11;33
+r;393824800;4023;15038370;11;33
+r;393824954;4023;15038364;11;33
+r;393825024;4023;15038377;11;33
+r;393825683;4023;15038374;11;33
+r;393826012;4023;15038378;11;33
+r;393826119;4023;15038363;11;33
+r;393826326;4023;15038369;11;33
+r;393826880;4023;15038373;11;33
+r;393828954;4023;15038381;11;33
+r;396192064;4023;15474949;11;33
+r;418769472;4023;16070862;11;33
+r;419601219;4023;15293985;11;33
+r;419611669;4023;13784724;11;33
+r;419611687;4023;13769695;11;33
+r;419611708;4023;13784725;11;33
+r;419611729;4023;13769696;11;33
+r;419616674;4023;15584000;11;33
+r;434359332;4023;16391663;11;33
+r;122673759;4023;6432669;11;34
+r;220006742;4023;9942185;11;34
+r;313607136;4023;12033654;11;34
+r;315115302;4023;12079967;11;34
+r;318282931;4023;12242662;11;34
+r;318282955;4023;12242661;11;34
+r;335234493;4023;13103258;11;34
+r;419553774;4023;15952730;11;34
+r;419553925;4023;15705563;11;34
+r;419562378;4023;15375164;11;34
+r;419573142;4023;6394447;11;34
+r;419573163;4023;13748366;11;34
+r;419573215;4023;13748367;11;34
+r;419583471;4023;15203378;11;34
+r;419584439;4023;15340014;11;34
+r;419584455;4023;15292415;11;34
+r;419587498;4023;15309877;11;34
+r;419587960;4023;15309868;11;34
+r;419597216;4023;13756784;11;34
+r;419597264;4023;13743585;11;34
+r;419597528;4023;13753652;11;34
+r;419597572;4023;13753653;11;34
+r;420220873;4023;16103467;11;34
+r;423865465;4023;16156514;11;34
+r;423899525;4023;16156759;11;34
+r;122683165;4023;6431623;11;35
+r;227599906;4023;10043651;11;35
+r;227612540;4023;10038876;11;35
+r;248118269;4023;10299648;11;35
+r;272188230;4023;10850698;11;35
+r;281056206;4023;11080760;11;35
+r;298894809;4023;6296385;11;35
+r;299137173;4023;6300623;11;35
+r;305865408;4023;11830980;11;35
+r;315108600;4023;12081239;11;35
+r;315109387;4023;12081069;11;35
+r;315118282;4023;12079390;11;35
+r;315119611;4023;12079139;11;35
+r;370339206;4023;14572357;11;35
+r;399498974;4023;6329627;11;35
+r;420271909;4023;16103812;11;35
+r;419502446;4023;15477707;11;35
+r;432057202;4023;16318382;11;35
+r;122665295;4023;6433619;11;36
+r;122710209;4023;6428135;11;36
+r;313697345;4023;12050441;11;36
+r;313764176;4023;12051360;11;36
+r;333241722;4023;12979503;11;36
+r;400772425;4023;15629109;11;36
+r;29990107;4023;1834452;11;37
+r;110295614;4023;5579096;11;37
+r;269379086;4023;10750401;11;37
+r;55796284;4023;2467218;11;38
+r;109608224;4023;5536020;11;38
+r;121037816;4023;6451063;11;38
+r;121462121;4023;6447350;11;38
+r;121540063;4023;6438659;11;38
+r;121560479;4023;6436365;11;38
+r;121576276;4023;6434600;11;38
+r;298268557;4023;11590908;11;38
+r;95216958;4023;4172724;11;39
+r;121057843;4023;6448865;11;39
+r;121453282;4023;6448313;11;39
+r;255392659;4023;10420742;11;39
+r;255396061;4023;10385164;11;39
+r;53128119;4023;2391599;11;40
+r;95383363;4023;3891904;11;40
+r;219833417;4023;9929939;11;40
+r;262209963;4023;10515524;11;40
+r;263057750;4023;10555227;11;40
+r;288224857;4023;11250541;11;40
+r;112667053;4023;5725406;11;41
+r;232077847;4023;10073659;11;41
+r;283759230;4023;11156417;11;41
+r;297176770;4023;11571509;11;41
+r;52977214;4023;2384564;11;42
+r;234231070;4023;10095902;11;42
+r;234740355;4023;10119012;11;42
+r;234740467;4023;10118992;11;42
+r;261003765;4023;10498429;11;42
+r;261007979;4023;10462067;11;42
+r;419106496;4023;16073353;11;42
+r;55280746;4023;2441890;11;43
+r;118528366;4023;6004048;11;43
+r;121055781;4023;6449091;11;43
+r;121568632;4023;6435462;11;43
+r;121569108;4023;6435408;11;43
+r;238921880;4023;10178073;11;43
+r;238927525;4023;10176255;11;43
+r;238929580;4023;10175748;11;43
+r;285751703;4023;11162378;11;43
+r;50461524;4023;2365877;11;44
+r;55777743;4023;2466019;11;44
+r;110116403;4023;5564244;11;44
+r;115089022;4023;5902994;11;44
+r;116317651;4023;5941179;11;44
+r;238928217;4023;10176027;11;44
+r;260999953;4023;10503374;11;44
+r;338388850;4023;13302167;11;44
+r;60506299;4023;2480005;11;45
+r;117870044;4023;5991921;11;45
+r;121045207;4023;6450248;11;45
+r;121040362;4023;6450785;11;46
+r;419118630;4023;16085375;11;46
+r;121055924;4023;6449075;11;48
+r;121049907;4023;6449748;11;49
+r;121053984;4023;6449285;11;49
+r;114442698;4023;5855953;11;50
+r;121044194;4023;6450357;11;50
+r;193673334;4023;8957719;11;50
+r;206304561;4023;9175372;11;50
+r;211475150;4023;9247991;11;50
+r;274968707;4023;10922859;11;50
+r;282259785;4023;11118860;11;50
+r;282453994;4023;11120599;11;50
+r;282775778;4023;11130478;11;50
+r;315482995;4023;12090433;11;50
+r;318362045;4023;12266455;11;50
+r;315480117;4023;12090417;11;50
+r;315481687;4023;12090443;11;50
+r;315481437;4023;12090419;11;50
+r;315481422;4023;12090425;11;50
+r;315482302;4023;12090432;11;50
+r;315482363;4023;12090449;11;50
+r;315482564;4023;12090414;11;50
+r;315483149;4023;12090439;11;50
+r;318361974;4023;12266448;11;50
+r;315342024;4023;12087991;11;50
+r;315342377;4023;12088033;11;50
+r;315343604;4023;12087997;11;50
+r;315343834;4023;12088071;11;50
+r;315344124;4023;12088070;11;50
+r;315346740;4023;12088034;11;50
+r;315348103;4023;12088035;11;50
+r;315348475;4023;12088076;11;50
+r;315348939;4023;12088077;11;50
+r;315351017;4023;12088115;11;50
+r;315352117;4023;12088142;11;50
+r;315358278;4023;12088100;11;50
+r;315367831;4023;12088010;11;50
+r;315368501;4023;12088182;11;50
+r;315369799;4023;12088143;11;50
+r;315369944;4023;12088123;11;50
+r;315370073;4023;12088173;11;50
+r;315389552;4023;12088200;11;50
+r;315410437;4023;12088244;11;50
+r;315418204;4023;12088210;11;50
+r;315420987;4023;12088204;11;50
+r;315421175;4023;12088327;11;50
+r;315421188;4023;12088187;11;50
+r;315421458;4023;12088328;11;50
+r;315421500;4023;12088337;11;50
+r;315422451;4023;12088461;11;50
+r;315422565;4023;12088514;11;50
+r;315422891;4023;12088518;11;50
+r;315423148;4023;12088519;11;50
+r;315423440;4023;12088484;11;50
+r;315443710;4023;12088485;11;50
+r;315465072;4023;12089156;11;50
+r;315465105;4023;12089188;11;50
+r;315570239;4023;12090431;11;50
+r;315649158;4023;12088513;11;50
+r;315649185;4023;12088114;11;50
+r;315649202;4023;12087996;11;50
+r;315649208;4023;12087990;11;50
+r;319605975;4023;12301931;11;50
+r;324028143;4023;12662561;11;50
+r;324936461;4023;12620104;11;50
+r;337351750;4023;12979260;11;50
+r;366938389;4023;14463142;11;50
+r;412565339;4023;15718375;11;50
+r;369740532;4023;14539374;11;50
+r;371276271;4023;14610301;11;50
+r;402154196;4023;15331853;11;50
+r;402154362;4023;15550485;11;50
+r;412530509;4023;15718373;11;50
+r;397501405;4023;15413668;11;50
+r;402106970;4023;15306633;11;50
+r;402105828;4023;15344256;11;50
+r;389750209;4023;14903247;11;50
+r;393806311;4023;14258343;11;50
+r;395008841;4023;15294665;11;50
+r;395008937;4023;15369070;11;50
+r;395032595;4023;13664626;11;50
+r;395735659;4023;15470202;11;50
+r;395735830;4023;15469564;11;50
+r;397846979;4023;15523508;11;50
+r;398434575;4023;15538848;11;50
+r;398503027;4023;15550490;11;50
+r;399662044;4023;15574720;11;50
+r;400094215;4023;15596152;11;50
+r;402274757;4023;15242592;11;50
+r;402275123;4023;15212124;11;50
+r;14689774;4023;437252;11;51
+r;17160426;4023;567819;11;51
+r;18436897;4023;587153;11;51
+r;18549435;4023;591091;11;51
+r;18679033;4023;596130;11;51
+r;19626021;4023;737085;11;51
+r;27565402;4023;1659107;11;51
+r;30841885;4023;1916833;11;51
+r;33106094;4023;2132043;11;51
+r;33113683;4023;2132060;11;51
+r;33113703;4023;2132055;11;51
+r;52496232;4023;2551381;11;51
+r;76657650;4023;3178476;11;51
+r;85722634;4023;3345294;11;51
+r;86190506;4023;3365182;11;51
+r;88012676;4023;3445764;11;51
+r;95172373;4023;3911635;11;51
+r;13998978;4023;395637;11;52
+r;16130655;4023;452205;11;52
+r;18631315;4023;594095;11;52
+r;27667878;4023;1665313;11;52
+r;30623050;4023;1900650;11;52
+r;30844914;4023;1916920;11;52
+r;54728944;4023;2589910;11;52
+r;72814913;4023;2952131;11;52
+r;93325043;4023;3740562;11;52
+r;95165309;4023;4034961;11;52
+r;98035409;4023;4315396;11;52
+r;18175159;4023;580912;11;53
+r;19626253;4023;737086;11;53
+r;29134361;4023;1773227;11;53
+r;33106070;4023;2132048;11;53
+r;33113675;4023;2132062;11;53
+r;33113679;4023;2132061;11;53
+r;76990108;4023;3183494;11;53
+r;107188272;4023;5376532;11;53
+r;18394521;4023;586236;11;54
+r;22507441;4023;1229352;11;54
+r;22507593;4023;1229351;11;54
+r;24736324;4023;1497601;11;54
+r;27491774;4023;1656477;11;54
+r;27565414;4023;1659106;11;54
+r;27824511;4023;1680920;11;54
+r;29134605;4023;1773142;11;54
+r;29220416;4023;1779391;11;54
+r;29222730;4023;1779629;11;54
+r;33113691;4023;2132058;11;54
+r;33113699;4023;2132056;11;54
+r;34337983;4023;2340541;11;54
+r;49975611;4023;2357658;11;54
+r;53130621;4023;2581136;11;54
+r;55492715;4023;2605734;11;54
+r;77162003;4023;3184712;11;54
+r;14689156;4023;437406;11;55
+r;16128314;4023;456689;11;55
+r;18175675;4023;580911;11;55
+r;28768461;4023;1748597;11;55
+r;29211025;4023;1778221;11;55
+r;30435873;4023;1886011;11;55
+r;74949465;4023;3033549;11;55
+r;77162808;4023;3184713;11;55
+r;85722630;4023;3345295;11;55
+r;99306784;4023;4388427;11;56
+r;13998966;4023;395639;11;56
+r;16960199;4023;566462;11;56
+r;18437997;4023;587154;11;56
+r;29207994;4023;1778188;11;56
+r;29619445;4023;1814481;11;56
+r;32524662;4023;1994103;11;56
+r;32931737;4023;2170951;11;56
+r;33106066;4023;2132049;11;56
+r;33113707;4023;2132054;11;56
+r;33113711;4023;2132053;11;56
+r;33113715;4023;2132052;11;56
+r;52480561;4023;2490893;11;56
+r;78507193;4023;3245389;11;56
+r;83663240;4023;3321139;11;56
+r;85853176;4023;3348874;11;56
+r;93356313;4023;3740561;11;56
+r;98035341;4023;4315392;11;56
+r;16128312;4023;456690;11;57
+r;16199918;4023;461263;11;57
+r;16356409;4023;463244;11;57
+r;18245179;4023;582607;11;57
+r;18245296;4023;582608;11;57
+r;18765221;4023;600083;11;57
+r;32524658;4023;1994104;11;57
+r;33105515;4023;2189369;11;57
+r;34326096;4023;2340327;11;57
+r;52521459;4023;2504013;11;57
+r;53130615;4023;2581137;11;57
+r;92515671;4023;3706373;11;57
+r;14342703;4023;289839;11;58
+r;16128310;4023;456691;11;58
+r;16159557;4023;460920;11;58
+r;17963887;4023;579114;11;58
+r;18551401;4023;591090;11;58
+r;18679043;4023;596129;11;58
+r;29865338;4023;1849126;11;58
+r;30844819;4023;1916914;11;58
+r;32524686;4023;1994097;11;58
+r;33106072;4023;2132046;11;58
+r;33113687;4023;2132059;11;58
+r;52464894;4023;2524778;11;58
+r;52484056;4023;2483579;11;58
+r;55487096;4023;2605464;11;58
+r;77507921;4023;3223081;11;58
+r;95151772;4023;4267830;11;58
+r;13998972;4023;395638;11;59
+r;17131200;4023;567649;11;59
+r;17964889;4023;579113;11;59
+r;18763967;4023;600082;11;59
+r;23431783;4023;1382551;11;59
+r;29211734;4023;1778538;11;59
+r;29222607;4023;1779625;11;59
+r;29725446;4023;1818601;11;59
+r;29743039;4023;1820365;11;59
+r;30836731;4023;1916477;11;59
+r;32524678;4023;1994099;11;59
+r;32781235;4023;2132047;11;59
+r;34311637;4023;2339808;11;59
+r;55478342;4023;2604976;11;59
+r;55480231;4023;2605098;11;59
+r;55493628;4023;2605787;11;59
+r;71962907;4023;2932740;11;59
+r;76989587;4023;3183493;11;59
+r;16130653;4023;452206;11;60
+r;18394310;4023;586235;11;60
+r;18631313;4023;594096;11;60
+r;27563132;4023;1659046;11;60
+r;29208745;4023;1778199;11;60
+r;29223206;4023;1779623;11;60
+r;29621331;4023;1815104;11;60
+r;33106108;4023;2132040;11;60
+r;33113671;4023;2132063;11;60
+r;33113695;4023;2132057;11;60
+r;52453343;4023;2548682;11;60
+r;52466088;4023;2522070;11;60
+r;52491906;4023;2559316;11;60
+r;52495838;4023;2552162;11;60
+r;76738583;4023;3179837;11;60
+r;76738605;4023;3179838;11;60
+r;88788197;4023;3557000;11;60
+r;29741376;4023;1820366;11;61
+r;32524682;4023;1994098;11;61
+r;76370702;4023;3173311;11;61
+r;32524670;4023;1994101;11;62
+r;71580271;4023;2923596;11;62
+r;29899251;4023;1842623;11;63
+r;30844941;4023;1916921;11;63
+r;29873659;4023;1847568;11;64
+r;29916333;4023;1832072;11;64
+r;32524666;4023;1994102;11;64
+r;32524674;4023;1994100;11;64
+r;71581260;4023;2923595;11;64
+r;30623084;4023;1900649;11;65
+r;30845610;4023;1916933;11;65
+r;29747407;4023;1820896;11;66
+r;73168290;4023;2955940;11;66
+r;29486873;4023;1801364;11;67
+r;62204525;4023;2720821;11;68
+r;29487909;4023;1801205;11;69
+r;32524690;4023;1994096;11;69
+r;12550155;4023;387813;11;101
+r;12621987;4023;370107;11;101
+r;12660207;4023;360639;11;101
+r;12754421;4023;337835;11;101
+r;12542269;4023;389924;11;102
+r;12548189;4023;388329;11;102
+r;12548193;4023;388328;11;102
+r;12594041;4023;376980;11;102
+r;12631571;4023;367666;11;102
+r;12715109;4023;347085;11;102
+r;12751107;4023;338638;11;102
+r;12754435;4023;337833;11;102
+r;12754443;4023;337831;11;102
+r;12548979;4023;388107;11;103
+r;12612615;4023;372384;11;103
+r;12683159;4023;354999;11;103
+r;12754391;4023;337839;11;103
+r;12754451;4023;337829;11;103
+r;12772463;4023;333239;11;103
+r;12619599;4023;370706;11;104
+r;12688075;4023;353783;11;104
+r;12702583;4023;350165;11;104
+r;12728135;4023;344105;11;104
+r;12754447;4023;337830;11;104
+r;13076466;4023;391745;11;104
+r;12548201;4023;388326;11;105
+r;12614687;4023;371863;11;105
+r;12660199;4023;360641;11;105
+r;12742275;4023;340722;11;105
+r;12747109;4023;339585;11;105
+r;12754429;4023;337834;11;105
+r;12754455;4023;337828;11;105
+r;12561779;4023;384914;11;106
+r;12593847;4023;377027;11;106
+r;12676891;4023;356546;11;106
+r;12702571;4023;350167;11;106
+r;12739729;4023;341340;11;106
+r;12742239;4023;340728;11;106
+r;12754383;4023;337840;11;106
+r;12612771;4023;372339;11;107
+r;12614009;4023;372025;11;107
+r;12720611;4023;345959;11;107
+r;12736511;4023;342142;11;107
+r;12754413;4023;337836;11;107
+r;13076454;4023;391747;11;107
+r;12589469;4023;378098;11;108
+r;12614301;4023;371957;11;108
+r;12621981;4023;370108;11;108
+r;12660203;4023;360640;11;108
+r;12702577;4023;350166;11;108
+r;12754377;4023;337841;11;108
+r;12754405;4023;337837;11;108
+r;12754439;4023;337832;11;108
+r;12626183;4023;369109;11;109
+r;12626471;4023;369021;11;109
+r;12690753;4023;353131;11;109
+r;12754399;4023;337838;11;109
+r;12767543;4023;334534;11;109
+r;13158829;4023;392181;11;109
+r;12548197;4023;388327;11;110
+r;12594049;4023;376979;11;110
+r;12648069;4023;363587;11;110
+r;12660983;4023;360438;11;110
+r;11863750;4023;99213;11;121
+r;11864025;4023;97422;11;121
+r;11864120;4023;96896;11;121
+r;11864590;4023;93875;11;121
+r;11864901;4023;91831;11;121
+r;11866202;4023;82740;11;121
+r;11866206;4023;82726;11;121
+r;11867029;4023;76649;11;121
+r;11867126;4023;75967;11;121
+r;11868277;4023;67689;11;121
+r;11868470;4023;65936;11;121
+r;11868553;4023;65187;11;121
+r;11868642;4023;64590;11;121
+r;11868823;4023;63530;11;121
+r;11869260;4023;60983;11;121
+r;11869893;4023;57100;11;121
+r;11870250;4023;54803;11;121
+r;11870820;4023;50588;11;121
+r;11871917;4023;43527;11;121
+r;11871949;4023;43325;11;121
+r;11871988;4023;43043;11;121
+r;11873823;4023;30637;11;121
+r;11873904;4023;30116;11;121
+r;11874175;4023;28401;11;121
+r;11874296;4023;27762;11;121
+r;11874551;4023;26318;11;121
+r;11874578;4023;26032;11;121
+r;11875225;4023;21226;11;121
+r;11875256;4023;21008;11;121
+r;11875638;4023;18167;11;121
+r;11876077;4023;15004;11;121
+r;11876580;4023;11210;11;121
+r;11877210;4023;6370;11;121
+r;11877549;4023;3848;11;121
+r;11877813;4023;1658;11;121
+r;11878022;4023;175;11;121
+r;2289343;4023;68277;11;122
+r;3139487;4023;80788;11;122
+r;11852144;4023;225015;11;122
+r;11852439;4023;220783;11;122
+r;11852884;4023;211097;11;122
+r;11852894;4023;210608;11;122
+r;11853172;4023;196395;11;122
+r;11853176;4023;196394;11;122
+r;11854416;4023;176877;11;122
+r;11854719;4023;174824;11;122
+r;11855525;4023;172656;11;122
+r;11859981;4023;125026;11;122
+r;11861899;4023;111851;11;122
+r;11862240;4023;109802;11;122
+r;11862689;4023;106841;11;122
+r;11863972;4023;97709;11;122
+r;2286547;4023;118786;11;123
+r;11848372;4023;295129;11;123
+r;11848418;4023;294753;11;123
+r;2276010;4023;54055;11;132
+r;208960;4023;103374;11;142
+r;222790;4023;113288;11;142
+r;244000;4023;101687;11;142
+r;2011281;4023;24023;11;142
+r;8875420;4023;163803;11;151
+r;8881322;4023;253982;11;151
+r;8881425;4023;254970;11;151
+r;153425;4023;46485;11;152
+r;8873891;4023;140353;11;152
+r;8878554;4023;210907;11;152
+r;8883017;4023;276134;11;152
+r;8886195;4023;310394;11;152
+r;8876135;4023;182312;11;153
+r;8882220;4023;265601;11;153
+r;8883645;4023;283774;11;153
+r;8884417;4023;290606;11;153
+r;8871783;4023;45958;11;154
+r;8871544;4023;21122;11;155
+r;8811513;4023;313356;11;160
+r;8610792;4023;118415;11;161
+r;8685695;4023;210795;11;161
+r;8696539;4023;226910;11;161
+r;8703499;4023;235985;11;161
+r;8704400;4023;236976;11;161
+r;8706032;4023;239253;11;161
+r;8707283;4023;241964;11;161
+r;8707374;4023;242163;11;161
+r;8710368;4023;246822;11;161
+r;8714586;4023;251051;11;161
+r;8715141;4023;251479;11;161
+r;8717062;4023;253375;11;161
+r;8725280;4023;259241;11;161
+r;8729679;4023;262735;11;161
+r;8729705;4023;262748;11;161
+r;242504;4023;82177;11;162
+r;8589965;4023;59010;11;162
+r;8590320;4023;60028;11;162
+r;8598055;4023;82826;11;162
+r;8604792;4023;101842;11;162
+r;8609419;4023;114441;11;162
+r;8620182;4023;141524;11;162
+r;8621804;4023;145665;11;162
+r;8623378;4023;153518;11;162
+r;8629466;4023;165174;11;162
+r;8633898;4023;171433;11;162
+r;8681503;4023;208192;11;162
+r;8684942;4023;210256;11;162
+r;8686029;4023;211004;11;162
+r;8687600;4023;212138;11;162
+r;8707577;4023;242425;11;162
+r;8745144;4023;277119;11;162
+r;8752166;4023;284908;11;162
+r;8763846;4023;296803;11;162
+r;8581654;4023;35184;11;163
+r;8586215;4023;48470;11;163
+r;8599505;4023;86864;11;163
+r;8622041;4023;146424;11;163
+r;8623578;4023;153854;11;163
+r;8623654;4023;153979;11;163
+r;8624452;4023;155354;11;163
+r;8625787;4023;158553;11;163
+r;8633702;4023;171306;11;163
+r;8634425;4023;172461;11;163
+r;8634678;4023;173623;11;163
+r;8636096;4023;179210;11;163
+r;8644204;4023;184887;11;163
+r;8676469;4023;205183;11;163
+r;8676471;4023;205184;11;163
+r;8677349;4023;205705;11;163
+r;8733781;4023;266081;11;163
+r;8738136;4023;270555;11;163
+r;8746513;4023;278896;11;163
+r;8750452;4023;283235;11;163
+r;8756934;4023;288970;11;163
+r;8756936;4023;288971;11;163
+r;8760555;4023;292859;11;163
+r;8761750;4023;294349;11;163
+r;8762056;4023;294731;11;163
+r;8768627;4023;302168;11;163
+r;8774968;4023;309123;11;163
+r;8774972;4023;309125;11;163
+r;2306084;4023;92681;11;164
+r;8617674;4023;137110;11;164
+r;8619048;4023;139176;11;164
+r;8646898;4023;186485;11;164
+r;8661351;4023;196391;11;164
+r;8661353;4023;196392;11;164
+r;8661355;4023;196393;11;164
+r;8666268;4023;199140;11;164
+r;8779033;4023;312697;11;164
+r;2289173;4023;187067;11;165
+r;8575072;4023;15321;11;165
+r;8571903;4023;5853;11;168
+r;8572989;4023;9074;11;168
+r;8569946;4023;9;11;172
+r;11850557;4023;261080;11;184
+r;11855641;4023;171305;11;184
+r;151561;4023;153885;11;188
+r;208693;4023;64193;11;188
+r;148827;4023;153794;11;189
+r;158082;4023;154058;11;189
+r;212559;4023;156691;11;189
+r;153502;4023;120865;11;202
+r;123504;4023;84157;11;208
+r;124704;4023;137503;11;330

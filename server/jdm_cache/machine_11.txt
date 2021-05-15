@@ -1,0 +1,1270 @@
+
+e;5425;'machine';1;1184
+e;6285969;'tréfileuse à la machine';1;0
+e;6286727;'conductrice de machine à raffiner les huiles et les corps gras';1;0
+e;6287817;'conductrice de machine à couler en continu des tubes en métaux non ferreux';1;0
+e;6304572;'conductrice de machine à étiqueter';1;0
+e;6288298;'conductrice de machine à étirer des baguettes et des tubes de verres';1;0
+e;6293275;'conductrice de machine à meuler les lentilles';1;0
+e;6293379;'riveur à la machine';1;0
+e;6295592;'tisseur de filet à la machine';1;0
+e;6295529;'fondeuse de caractères d'imprimerie à la machine';1;0
+e;6295853;'cigarier à la machine';1;0
+e;6296057;'opératrice sur machine comptable';1;0
+e;6303449;'tréfileur à la machine';1;0
+e;6309630;'brodeur à la machine';1;0
+e;6312819;'noyauteuse à la machine';1;0
+e;6314915;'graveur à la machine sur cylindres d'imprimerie';1;0
+e;6316563;'conductrice de machine à couper le tabac';1;0
+e;6336584;'cartonnière à la machine';1;0
+e;6318650;'dresseuse de chapeaux à la machine';1;0
+e;6319821;'opératrice sur machine à cartes perforées';1;0
+e;6322820;'conductrice de machine à confectionner des sacs en cellophane';1;0
+e;6324381;'cartonnier à la machine';1;0
+e;6327226;'noyauteur à la machine';1;0
+e;6329906;'conductrice de machine à doubler le carton';1;0
+e;6331530;'dresseur de chapeaux à la machine';1;0
+e;6335839;'conductrice de machine à râper et à défibrer';1;0
+e;6342870;'opératrice de machine à étirer le verre';1;0
+e;6347057;'riveuse à la machine';1;0
+e;6352527;'fondeur de caractères d'imprimerie à la machine';1;0
+e;6353527;'opératrice de machine à laver';1;0
+e;6357194;'opératrice sur machine à calculer';1;0
+e;6370951;'graveuse à la machine sur cylindres d'imprimerie';1;0
+e;6373232;'empaqueteuse à la machine';1;0
+e;6373709;'tisseuse de filet à la machine';1;0
+e;6374434;'repasseur à la machine';1;0
+e;6375971;'bobineuse à la machine';1;0
+e;6384648;'machine à bois';1;0
+e;6387954;'brodeuse à la machine';1;0
+e;6389181;'cigarière à la machine';1;0
+e;6392197;'oxycoupeur à la machine';1;0
+e;6398137;'crocheteur à la machine';1;0
+e;6399223;'empaqueteur à la machine';1;0
+e;6400439;'gaufreuse en reliure à la machine';1;0
+e;6402903;'opératrice de machine de nettoyage à sec';1;0
+e;6407221;'gaufreur en reliure à la machine';1;0
+e;6415991;'opératrice sur machine perforatrice de cartes et de rubans';1;0
+e;6418066;'opératrice de machine à coudre';1;0
+e;6419077;'opératrice de machine à presser le verre';1;0
+e;6419067;'bobineur à la machine';1;0
+e;11968950;'z-machine';777;0
+e;12141358;'mesure de coton (poussière de machine égreneuse) ac ige';1;0
+e;13641964;'machine SECD';777;0
+e;13641960;'machine de Krivine';777;0
+e;13988855;'machine automatique';1;0
+e;13991687;'machine plongeante';777;0
+e;13997201;'Great job machine';777;0
+e;14033361;'transfert de la mémoire dans une machine';1;0
+e;14033362;'transfert de la conscience dans une machine';1;0
+e;14424244;'machine à boules';777;0
+e;14568537;'Séchage en machine';777;0
+e;14580508;'machine à pile';1;0
+e;14595159;'machine obsolète';1;0
+e;6379216;'opérateur sur machine perforatrice de cartes et de rubans';1;0
+e;16166544;'café à la machine';1;0
+e;15787752;'machine learning';1;0
+e;15915627;'machine à tresser';777;0
+e;12692933;'animal-machine';777;0
+e;13773319;'autres ajusteuses-monteuses et installatrices de machine';1;0
+e;15399677;'axe de machine';1;0
+e;15433619;'bris de machine';1;0
+e;13758588;'conducteur de machine de douci-poli (glace)';1;0
+e;13758589;'conductrice de machine de douci-poli (glace)';1;0
+e;15260142;'conversation autour de la machine à café';1;0
+e;16038111;'dossier-machine';1;0
+e;15349282;'dérégler la machine';1;0
+e;16158625;'machine Jacquard';777;0
+e;16237436;'machine à café dubois';777;0
+e;6426544;'conducteur de machine à confectionner des sacs en cellophane';1;0
+e;6424375;'conductrice de machine à refouler les matières plastiques';1;0
+e;6336149;'couseur de cuir à la machine';1;0
+e;6332899;'couseuse de cuir à la machine';1;0
+e;6348633;'passementier à la machine';1;0
+e;6370146;'dentellière à la machine';1;0
+e;6374219;'couseuse de chaussures à la machine';1;0
+e;6388375;'passementière à la machine';1;0
+e;6410514;'dentellier à la machine';1;0
+e;14510807;'vider la machine à laver';1;0
+e;14562215;'clavier de machine';1;0
+e;14568834;'fait à la machine';1;0
+e;14669775;'machine à remonter le temps';1;0
+e;14726782;'mettre en machine';1;0
+e;15039563;'crée l'industrie de la machine à calculer';777;0
+e;6429259;'machine à coudre industrielle';1;0
+e;12094299;'coton (poussière de machine égreneuse) ac ige';1;0
+e;12201861;'coton (poussière de machine égreneuse)';1;0
+e;5712095;'DAI Imagination machine';777;0
+e;6425315;'opérateur sur machine à calculer';1;0
+e;10612051;'machine à toutous';777;0
+e;10612045;'machine attrape-jouet';777;0
+e;10612044;'machine attrape-peluche';777;0
+e;10985931;'maîtres de machine';777;0
+e;10617940;'machine head';777;0
+e;12109724;'coton (poussière de machine égreneuse) ag';1;0
+e;6444004;'conducteur de machine à polir les verres d'optique';1;0
+e;6427032;'conducteur de machine à râper et à défibrer';1;0
+e;11049830;'machine virtuelle à base de registres';1;0
+e;5817031;'machine à courant continu';777;0
+e;5815558;'machine de traction';1;0
+e;6068961;'machine de Marly';777;0
+e;6446893;'conductrice de machine à souder à l'arc';1;0
+e;6430414;'conducteur de machine à couper et à plier le carton';1;0
+e;6427330;'repasseuse à la machine';1;0
+e;11059335;'machine de Turing bi-dimensionnelle';1;0
+e;1828710;'machine de Belzer';1;0
+e;5670760;'machine perception';777;0
+e;5837407;'machine à laver à ultrasons';777;0
+e;5835611;'musée de la machine agricole et à vapeur';777;0
+e;11069307;'machine à états';1;0
+e;11069318;'machine de Turing non déterministe';1;0
+e;5815557;'machine de traction à courant alternatif';1;0
+e;5899125;'extreme learning machine';777;0
+e;11080669;'machine électromécanique portable';1;0
+e;11080634;'machine de divertissement';1;0
+e;5920162;'squeeze machine';777;0
+e;5920157;'machine à câlin';777;0
+e;6444395;'conductrice de machine à polir les verres d'optique';1;0
+e;6423911;'couseur de chaussures à la machine';1;0
+e;8973634;'voie-machine';1;0
+e;11080670;'machine électromécanique';1;0
+e;12079701;'machine à affranchir';1;0
+e;12079700;'machine à adresser';1;0
+e;12079311;'grosse machine';1;0
+e;5806548;'machine à force de surface';777;0
+e;5899153;'machine de Boltzmann';777;0
+e;6431231;'conducteur de machine à doubler le carton';1;0
+e;6429517;'conducteur de machine à mouler le caoutchouc';1;0
+e;9936564;'condenseur d'une machine à vapeur';777;0
+e;10842349;'Génération Hit machine';777;0
+e;12079702;'machine à découdre';1;0
+e;12079092;'format machine';1;0
+e;15229166;'La machine à laver a l'air kapout {or} HS.';1;0
+e;5782397;'Nombre de cartes par machine fortement limité';777;0
+e;5918931;'machine portuaire';1;0
+e;5918824;'machine de façonnage';1;0
+e;10922302;'machine de Boltzmann restreinte';1;0
+e;11832675;'machine RAM';777;0
+e;12049712;'utiliser une machine servant à emballer des viandes';1;0
+e;12050050;'interpréter les enregistrements graphiques de la machine de détection des défauts des rails';1;0
+e;12050968;'opératrice de machine à raffiner';1;0
+e;12050982;'opératrice de machine de production de cigarettes';1;0
+e;12050998;'opérateur de machine à hydrogénation';1;0
+e;12050981;'opérateur de machine de production de cigarettes';1;0
+e;12050967;'opérateur de machine à raffiner';1;0
+e;12051026;'opérateur de machine à confiserie';1;0
+e;12050999;'opératrice de machine à hydrogénation';1;0
+e;12051027;'opératrice de machine à confiserie';1;0
+e;12051038;'opérateur de machine de production de pâtes alimentaires';1;0
+e;12051039;'opératrice de machine de production de pâtes alimentaires';1;0
+e;12080316;'opératrice sur machine à commande numérique';1;0
+e;5985196;'machine de Watt';777;0
+e;6001618;'machine à prévoir les marées';777;0
+e;11392740;'machine simple';777;0
+e;6529201;'machine typographique';1;0
+e;11442430;'données lisibles par machine';777;0
+e;12052530;'utiliser une machine de découpe au laser CNC';1;0
+e;12053496;'machine de boltzmann';1;0
+e;2453907;'machine à z-herbes';1;0
+e;5811165;'machine électromagnétique sans pièce mécanique mobile';1;0
+e;6526319;'opérateurs sur machine perforatrice de cartes et de rubans';1;0
+e;6442881;'conducteur de machine à souder à l'arc';1;0
+e;12052747;'utiliser une machine d'encochage';1;0
+e;12052814;'utiliser une machine à refouler';1;0
+e;12052803;'utiliser une machine à tisser';1;0
+e;12052813;'utiliser une machine de revêtement';1;0
+e;12052785;'utiliser une machine d'étirage';1;0
+e;12052759;'utiliser une machine d'anodisation';1;0
+e;12052815;'utiliser une machine de plissage';1;0
+e;12052823;'utiliser une machine de galvanoplastie';1;0
+e;12052899;'utiliser une machine de bobinage';1;0
+e;12052745;'utiliser une machine d'électroérosion';1;0
+e;12052854;'utiliser une machine à tricoter';1;0
+e;12052888;'utiliser une machine de tribofinition';1;0
+e;12052952;'utiliser une machine à limer';1;0
+e;12052820;'utiliser une machine à grignoter';1;0
+e;12052963;'utiliser une machine de nettoyage de céréales';1;0
+e;12052957;'utiliser une machine de fabrication de moules';1;0
+e;12052953;'utiliser une machine de thermoscellage';1;0
+e;12052923;'utiliser une machine à rétreindre';1;0
+e;12052983;'utiliser une machine de moulage par injection';1;0
+e;12052902;'utiliser une machine à retordre';1;0
+e;12052840;'utiliser une machine de sténotypie';1;0
+e;12052990;'utiliser une machine à graver CNC';1;0
+e;12052961;'utiliser une machine à blanchir la cire';1;0
+e;12052991;'utiliser une machine à laver les textiles';1;0
+e;12052995;'utiliser une machine à sécher les textiles';1;0
+e;12052997;'utiliser une machine à marquer des courroies';1;0
+e;12053032;'utiliser une machine de nettoyage de cacao';1;0
+e;12053021;'utiliser une machine à teindre les textiles';1;0
+e;12052971;'utiliser une machine de nettoyage des sols';1;0
+e;12053033;'utiliser une machine à fabriquer des cubes';1;0
+e;12052870;'utiliser une machine de filature';1;0
+e;12052974;'utiliser une machine à impression flexographique';1;0
+e;12052937;'utiliser une machine d'impression textile';1;0
+e;12052989;'utiliser une machine de marquage routier';1;0
+e;12053005;'utiliser une machine de formage du verre';1;0
+e;12053055;'utiliser une machine à fendre des pierres';1;0
+e;12053075;'utiliser une machine à estampiller les cigares';1;0
+e;12053020;'utiliser une machine à mettre en conserve';1;0
+e;12053081;'utiliser une machine de découpage plasma';1;0
+e;12053056;'utiliser une machine de montage par insertion';1;0
+e;12053037;'utiliser une machine à fabriquer les cigarettes';1;0
+e;12053069;'utiliser une machine à mélanger les épices';1;0
+e;12052927;'utiliser une machine à clouer';1;0
+e;12053057;'utiliser une machine à mélanger l'asphalte';1;0
+e;12053019;'utiliser une machine à fabriquer des ressorts';1;0
+e;12053031;'utiliser une machine à laver les bouteilles';1;0
+e;12053102;'utiliser une machine d'extrusion à froid';1;0
+e;12053093;'utiliser une machine de marquage laser';1;0
+e;12052972;'utiliser une machine à fabriquer des chaînes';1;0
+e;12053098;'utiliser une machine d'extrusion de l'argile';1;0
+e;12053047;'utiliser une machine à rainurer le carton';1;0
+e;12052996;'utiliser une machine à projeter le béton';1;0
+e;12053012;'utiliser une machine de moulage par soufflage';1;0
+e;12052984;'utiliser une machine à plier le papier';1;0
+e;12053030;'utiliser une machine de moulage par compression';1;0
+e;12053042;'utiliser une machine de traitement des espèces';1;0
+e;12053096;'utiliser une machine à fileter par roulage';1;0
+e;12053488;'machine lisp';1;0
+e;12053499;'machine de marly';1;0
+e;12053493;'machine d'atwood';1;0
+e;12053430;'machine à grignoter';1;0
+e;12053497;'machine de boltzmann restreinte';1;0
+e;12053485;'machine bss';1;0
+e;12053486;'machine cnc';1;0
+e;12053503;'machine de turing non déterministe';1;0
+e;12053495;'machine de blum-shub-smale';1;0
+e;12053498;'machine de hebern';1;0
+e;12053506;'machine de wimshurst';1;0
+e;12053502;'machine de turing déterministe';1;0
+e;12053510;'machine à cycle organique de rankine';1;0
+e;12053500;'machine de rube goldberg';1;0
+e;12053509;'machine virtuelle java';1;0
+e;12053494;'machine de belzer';1;0
+e;12053097;'utiliser une machine d'extrusion à chaud';1;0
+e;12053077;'utiliser une machine à polir les métaux';1;0
+e;12053492;'machine d'anticythère';1;0
+e;12053489;'machine pcr';1;0
+e;12053491;'machine ram';1;0
+e;12053508;'machine universelle de turing';1;0
+e;12053507;'machine de guerre du moyen âge';1;0
+e;12053487;'machine ias';1;0
+e;12053501;'machine de turing bi-dimensionnelle';1;0
+e;12053505;'machine de watt';1;0
+e;12053388;'machine d'extrusion de l'argile';1;0
+e;2468721;'machine à papier';1;0
+e;11973580;'machine à cycle organique de Rankine';777;0
+e;5622936;'machine de chiffrement';777;0
+e;5723438;'machine à registres illimités';777;0
+e;6528843;'machine Perkins';777;0
+e;11222381;'machine à teiller';1;0
+e;11968887;'Z machine';777;0
+e;12052798;'utiliser une machine d'impression';1;0
+e;12052922;'utiliser une machine de tréfilage';1;0
+e;12052856;'utiliser une machine de calandrage';1;0
+e;12053001;'utiliser une machine à scier les métaux';1;0
+e;12053391;'machine d'impression';1;0
+e;12053386;'machine d'anodisation';1;0
+e;12053395;'machine de bobinage';1;0
+e;12053399;'machine de fabrication de moules';1;0
+e;12053396;'machine de calandrage';1;0
+e;12053400;'machine de filature';1;0
+e;12053405;'machine de montage par insertion';1;0
+e;12053414;'machine de sténotypie';1;0
+e;12053415;'machine de thermoscellage';1;0
+e;12053402;'machine de galvanoplastie';1;0
+e;12053428;'machine à fileter par roulage';1;0
+e;12053424;'machine à fabriquer des cubes';1;0
+e;12053409;'machine de nettoyage de cacao';1;0
+e;12053393;'machine d'électroérosion';1;0
+e;12053411;'machine de nettoyage des sols';1;0
+e;12053397;'machine de découpage plasma';1;0
+e;12053421;'machine à clouer';1;0
+e;12053403;'machine de marquage laser';1;0
+e;12053407;'machine de moulage par injection';1;0
+e;12053435;'machine à marquer des courroies';1;0
+e;12053420;'machine à blanchir la cire';1;0
+e;12053404;'machine de marquage routier';1;0
+e;12053423;'machine à fabriquer des chaînes';1;0
+e;12053389;'machine d'extrusion à chaud';1;0
+e;12053442;'machine à rainurer le carton';1;0
+e;12053408;'machine de moulage par soufflage';1;0
+e;12053434;'machine à limer';1;0
+e;12053432;'machine à laver les bouteilles';1;0
+e;12053413;'machine de revêtement';1;0
+e;12053436;'machine à mettre en conserve';1;0
+e;12053392;'machine d'impression textile';1;0
+e;12053419;'machine servant à emballer des viandes';1;0
+e;12053401;'machine de formage du verre';1;0
+e;12053431;'machine à impression flexographique';1;0
+e;12053417;'machine de tribofinition';1;0
+e;12053443;'machine à refouler';1;0
+e;12053447;'machine à sécher les textiles';1;0
+e;12053426;'machine à fabriquer les cigarettes';1;0
+e;12053445;'machine à rétreindre';1;0
+e;12053441;'machine à projeter le béton';1;0
+e;12053387;'machine d'encochage';1;0
+e;12053416;'machine de traitement des espèces';1;0
+e;12053504;'machine de von neumann';1;0
+e;12053412;'machine de plissage';1;0
+e;12053439;'machine à plier le papier';1;0
+e;12053429;'machine à graver cnc';1;0
+e;12053418;'machine de tréfilage';1;0
+e;12053444;'machine à retordre';1;0
+e;12053490;'machine perkins';1;0
+e;12053446;'machine à scier les métaux';1;0
+e;12053410;'machine de nettoyage de céréales';1;0
+e;12053448;'machine à teindre les textiles';1;0
+e;12053427;'machine à fendre des pierres';1;0
+e;12053440;'machine à polir les métaux';1;0
+e;12053437;'machine à mélanger l'asphalte';1;0
+e;12053449;'machine à tisser';1;0
+e;12053394;'machine d'étirage';1;0
+e;12053438;'machine à mélanger les épices';1;0
+e;12053422;'machine à estampiller les cigares';1;0
+e;12053433;'machine à laver les textiles';1;0
+e;12053425;'machine à fabriquer des ressorts';1;0
+e;2391506;'mot machine';1;0
+e;2476058;'machine zombie';1;0
+e;5980031;'conspiration de la machine infernale';777;0
+e;11008795;'IAS machine';777;0
+e;11374338;'machine électrostatique';777;0
+e;11973603;'machine thermodynamique';1;0
+e;12053398;'machine de découpe au laser cnc';1;0
+e;12053390;'machine d'extrusion à froid';1;0
+e;12053406;'machine de moulage par compression';1;0
+e;2444795;'opérateur sur machine à commande numérique';1;0
+e;5138205;'machine-tender';1;0
+e;5626154;'machine de guerre du Moyen Âge';1;0
+e;11008794;'machine IAS';777;0
+e;11008796;'machine de von Neumann';777;0
+e;11008917;'machine de Von Neumann';777;0
+e;11137571;'machine de Hebern';777;0
+e;11219945;'salle machine';1;0
+e;11385286;'classe des problèmes de décision décidées par une machine de Turing';1;0
+e;5811166;'machine électromagnétique';1;0
+e;5985605;'machine synchrone auto-pilotée à aimants permanents';777;0
+e;11160517;'machine à molette';777;0
+e;5993172;'machine égreneuse';1;0
+e;2455184;'machine to machine';1;0
+e;9695705;'bruit de la machine à laver qui essore';1;0
+e;9773393;'apprentissage machine';1;0
+e;12246811;'machine à statistiques';777;0
+e;12248004;'machine capable de communiquer naturellement avec son interlocuteur';1;0
+e;12617623;'machine à broyer';1;0
+e;12633762;'état de machine';1;0
+e;12617622;'machine à broyer les pigments';1;0
+e;12711782;'Comment construire une machine à explorer le temps';777;0
+e;13771096;'322 opérateurs sur machine perforatrice de cartes et de rubans';1;0
+e;14473428;'Instruction-machine';777;0
+e;15229164;'J'ai fait réparer la machine à laver.';1;0
+e;2355298;'machine linotype';1;0
+e;2566620;'machine à endosser';1;0
+e;2585933;'machine de gramme';1;0
+e;3230197;'machine distante';1;0
+e;3290462;'machine à bêcher';1;0
+e;3303460;'machine de traitement du courrier';1;0
+e;3369263;'saucisson en brioche pour machine à pain';1;0
+e;3366104;'pain safrané à la machine à pain';1;0
+e;3359874;'cake au citron-amande à la machine à pain';1;0
+e;3745442;'bretzels à la machine à pain';1;0
+e;466003;'machine CNC';777;50
+e;3290468;'organe de machine';1;0
+e;3365278;'bugnes ou beignets à la map, machine à pain';1;0
+e;4332693;'machine totalitaire';1;0
+e;1657457;'machine de turing';1;0
+e;2521528;'machine pneumatique';1;0
+e;3045811;'heure-machine';1;0
+e;3296646;'organe d'une machine';1;0
+e;3321018;'machine à congeler la crême glacée';1;0
+e;3366032;'pain d'épices avec machine à pain';1;0
+e;3366003;'pain classique à la machine à pain';1;0
+e;3364642;'mounas à la machine à pain';1;0
+e;3744214;'pain en machine au chocolat blanc';1;0
+e;4338819;'changer de machine';1;0
+e;4941784;'machine tournante thermodynamique';1;0
+e;5306126;'machine thermique';1;0
+e;2927926;'Homme-machine';777;0
+e;3365301;'cake fondant au chocolat avec la machine à pain, map';1;0
+e;3365259;'brioche à la crème de marron en map, machine à pain';1;0
+e;3359624;'brioche à la crème pour machine à pain';1;0
+e;2555706;'interface homme machine';1;4
+e;2923328;'machine à voyager dans le temps';1;50
+e;3366103;'pain pour machine à pain';1;0
+e;3365260;'brioche au goût de coco, machine à pain';1;0
+e;3744361;'confiture de coings à la machine à pain';1;0
+e;3744885;'pâte à pizza à la machine à pain';1;0
+e;3746732;'pains aux raisins à la machine à pain';1;0
+e;3758685;'machine à expresso';1;10
+e;2349636;'Virtual machine';777;0
+e;3286186;'machine d'épuisement';1;0
+e;3351094;'machine moléculaire';1;6
+e;5304598;'mettre à la machine';1;2
+e;1472772;'partie tournante d'une machine';1;0
+e;3352853;'complot de la machine infernale';1;0
+e;3360988;'cramique pour machine à pain';1;0
+e;3744014;'cinnamon rolls à la machine à pain';1;0
+e;436511;'machine de Rube Goldberg';1;50
+e;3366348;'pâte à pizza en map, machine à pain de fanny';1;0
+e;3743711;'stollen à la machine à pain';1;0
+e;3746245;'pain sans gluten à la machine à pain';1;0
+e;3174805;'machine à vecteurs de support';1;0
+e;3178528;'machine à mesurer tridimensionnelle';1;0
+e;3260215;'machine à pâtes';1;0
+e;3744160;'cake à la banane avec une machine à pain';1;0
+e;3045813;'heures-machine';1;0
+e;1918660;'machine distributrice';777;0
+e;1851104;'machine à développer';1;0
+e;3175669;'machine à différence';777;0
+e;332923;'machine d'Anticythère';1;50
+e;375055;'raboteur à la machine';1;50
+e;362601;'machine-outil alternative';1;50
+e;362571;'machine à meuler';1;50
+e;362564;'machine à additionner';1;50
+e;362549;'machine de formage';1;50
+e;362547;'machine comptable';1;50
+e;362546;'machine administrative';1;50
+e;361675;'limeur à la machine';1;50
+e;341943;'casque machine';1;50
+e;341631;'carbone machine';1;50
+e;375971;'remplacement de l'homme par la machine';1;50
+e;362591;'machine rotative';1;50
+e;362588;'machine de creusement par alésage montant';1;50
+e;362586;'machine d'extraction';1;50
+e;362581;'machine à écrire à sphère';1;50
+e;362578;'machine à vapeur à simple effet';1;50
+e;362574;'machine à retiration';1;50
+e;349967;'emboutissage à la machine';1;50
+e;341542;'capsulage à la machine';1;50
+e;338349;'banc de machine';1;50
+e;362599;'machine à écosser les petits pois';1;50
+e;362592;'machine soufflante';1;50
+e;362589;'machine en blanc';1;50
+e;362567;'machine à courrier';1;50
+e;370544;'piquage à la machine';1;50
+e;362596;'machine à coudre électrique';1;50
+e;362594;'machine toroïdale';1;50
+e;362568;'machine à désherber';1;50
+e;362565;'machine à chiffrer';1;50
+e;362558;'machine politique';1;50
+e;367889;'ourlet à la machine';1;50
+e;362590;'machine parallèle';1;50
+e;362580;'machine à écrire mécanique';1;50
+e;362572;'machine à oeillets';1;50
+e;348846;'décolletage à la machine';1;50
+e;343214;'chauffeur de machine';1;50
+e;340911;'café machine';1;52
+e;384841;'travail à la machine';1;50
+e;376972;'rotor de machine';1;50
+e;365248;'moulurage à la machine';1;50
+e;362598;'machine à vapeur à double effet';1;50
+e;362595;'machine à coder';1;50
+e;362576;'machine à tore';1;50
+e;362566;'machine à cintrer';1;50
+e;362560;'machine submersible';1;50
+e;362550;'machine enregistreuse';1;50
+e;340401;'broderie à la machine';1;50
+e;368695;'parc machine';1;50
+e;362597;'machine à plier';1;50
+e;362587;'machine d'équipement';1;50
+e;362583;'machine électrique tournante';1;50
+e;362579;'machine à vide';1;50
+e;362577;'machine à transfert';1;50
+e;362573;'machine à prononcer';1;50
+e;362570;'machine à lire';1;50
+e;362563;'machine universelle';1;50
+e;362559;'machine réceptrice';1;50
+e;362555;'machine judiciaire';1;50
+e;362548;'machine d'induction';1;50
+e;355078;'foulage à la machine';1;50
+e;345531;'crépitement de machine à écrire';1;50
+e;384025;'tondeur à la machine';1;50
+e;371182;'plieur à la machine';1;50
+e;368333;'papier à la machine';1;50
+e;362593;'machine séquentielle';1;50
+e;362585;'machine composée';1;50
+e;362569;'machine à glaçons';1;52
+e;362556;'machine mécanographique';1;50
+e;362553;'machine hydraulique';1;4
+e;362552;'machine humaine';1;50
+e;354003;'figure de machine';1;50
+e;344997;'couture à la machine';1;50
+e;382901;'taraudeur à la machine';1;50
+e;362582;'machine économique';1;50
+e;362557;'machine parlementaire';1;50
+e;362554;'machine industrielle';1;50
+e;357172;'guipure à la machine';1;50
+e;351727;'encoche de machine';1;50
+e;332521;'machine à visser';1;50
+e;385415;'typographie à la machine';1;50
+e;362600;'machine électronique';1;50
+e;362575;'machine à souder';1;50
+e;362562;'machine tour';1;50
+e;362561;'machine textile';1;50
+e;362551;'machine homopolaire';1;50
+e;362545;'machine acyclique';1;50
+e;347309;'dialogue homme machine';1;50
+e;93343;'Hamlet-machine';1;50
+e;42402;'machine-transfert';1;50
+e;294824;'homme-machine';1;50
+e;318685;'machine Lisp';1;50
+e;318970;'machine à décrypter';1;50
+e;321297;'machine à tuer';1;50
+e;321298;'être une machine à tuer';1;50
+e;324208;'machine à malaxer la guimauve';1;50
+e;326043;'machine à plâtre';1;50
+e;325930;'machine transfert';1;50
+e;325929;'machine-outil par enlèvement de matière';1;50
+e;325927;'machine-outil à commande numérique';1;50
+e;325926;'machine-outil conventionnelle';1;50
+e;329966;'la machine à explorer le temps';777;50
+e;317566;'machine à pop-corn';1;50
+e;235445;'dialogue homme-machine';1;50
+e;316587;'example-based machine translation';1;50
+e;212315;'interface homme-machine';1;50
+e;272038;'interactions homme-machine';777;50
+e;167573;'machine hydroélectrique réversible';1;50
+e;167574;'machine synchrone';1;50
+e;218533;'machine à filer';1;2
+e;220415;'machine de Blum-Shub-Smale';1;50
+e;230743;'machine à perdre';1;50
+e;230981;'machine à rouler';1;4
+e;232888;'machine virtuelle';1;4
+e;234787;'machine de Turing déterministe';1;50
+e;234848;'machine universelle de Turing';1;50
+e;235468;'machine abstraite';1;20
+e;237963;'machine à états finis';1;50
+e;238811;'pièce de machine';1;50
+e;239119;'commande de machine';1;50
+e;248569;'clavier de machine à écrire';1;64
+e;251054;'machine à explorer le temps';1;50
+e;258683;'laver en machine';1;6
+e;259152;'faire tourner une machine';1;50
+e;261457;'passer en machine';1;50
+e;262027;'lessive en machine';1;56
+e;313198;'machine asynchrone';777;50
+e;313199;'machine à induction';777;50
+e;63657;'machine-outil';1;70
+e;220366;'machine de Turing';1;16
+e;261037;'machine à glace';1;2
+e;160988;'machine à lisser la glace';1;50
+e;160989;'machine à surfacer la glace';1;50
+e;160990;'machine qui lisse';1;50
+e;161516;'pièce de machine à laver';1;50
+e;169275;'stretch machine';1;50
+e;214466;'machine à écrire électrique';1;50
+e;214766;'machine réfrigérante';1;50
+e;234649;'lancer une machine';1;50
+e;253600;'machine à fric';1;50
+e;258955;'machine de siège';1;52
+e;261033;'papier machine';1;50
+e;261034;'remplir la machine';1;66
+e;261035;'vider la machine';1;50
+e;261036;'piquer à la machine';1;50
+e;261038;'pièce à machine';1;50
+e;53504;'machine ronde';1;52
+e;67108;'machine motrice';1;50
+e;119477;'machine infernale';1;50
+e;127524;'outilleur sur machine';1;50
+e;152640;'machine a sous';1;52
+e;155855;'à la machine';1;88
+e;159175;'machine à surfacer';1;54
+e;176302;'code machine';1;50
+e;176421;'langage machine';1;28
+e;180133;'machine à goudronner';1;50
+e;203248;'machine haut-le-pied';1;50
+e;203249;'machine magnétoélectrique';1;50
+e;213462;'machine de levage';1;50
+e;267072;'machine à crépir';1;50
+e;270919;'machine analytique';1;50
+e;270921;'machine à différences';1;2
+e;272082;'instruction machine';777;50
+e;275539;'machine à boule';777;50
+e;276188;'machine à vendanger';1;58
+e;277964;'machine PCR';777;50
+e;281267;'Tunnel boring machine';777;50
+e;281842;'machine BSS';777;50
+e;284839;'journal machine';777;50
+e;290519;'machine autoréplicative';777;8
+e;290675;'machine d'arithmétique';777;50
+e;293008;'vending machine';777;50
+e;293522;'machine à composer';777;50
+e;294518;'machine intelligente';1;50
+e;299055;'machine à encoller';777;50
+e;302386;'machine arithmétique';777;50
+e;307767;'compartiment machine';777;50
+e;176753;'machine à traire';1;8
+e;32486;'machine agricole';1;58
+e;98100;'machine électrique';1;50
+e;152531;'machine à voter';1;42
+e;157752;'machine outil';1;52
+e;179702;'machine à sou';1;50
+e;187972;'machine d'Atwood';1;50
+e;187973;'machine ditherme';1;50
+e;187974;'machine frigorifique';1;50
+e;187975;'machine de Wimshurst';1;50
+e;189680;'Tin machine';1;50
+e;203250;'machine volante';1;60
+e;267152;'faire une machine';1;58
+e;312949;'machine virtuelle Java';1;50
+e;137343;'machine d'écriture';1;50
+e;925;'machine de Gramme';1;50
+e;203247;'machine de guerre';1;66
+e;317306;'coudre à la machine';1;50
+e;258684;'lavage en machine';1;30
+e;156563;'machine à pain';1;78
+e;104632;'faire machine arrière';1;56
+e;265484;'écrire à la machine';1;50
+e;266618;'passer à la machine';1;50
+e;163056;'laver à la machine';1;52
+e;271770;'machine à photocopier';1;54
+e;271771;'machine à repasser';1;54
+e;152038;'machine à calculer';1;60
+e;183068;'machine à tricoter';1;22
+e;64291;'taper à la machine';1;88
+e;212758;'machine à laver le linge';666;64
+e;156564;'machine à laver la vaisselle';1;78
+e;63897;'machine à écrire';1;160
+e;66676;'machine à vapeur';1;166
+e;154752;'machine à café';1;258
+e;152809;'machine à sous';1;220
+e;29129;'machine à coudre';1;250
+e;130451;'machine à laver';1;510
+r;298186732;5425;6285969;11;25
+r;298197280;5425;6286727;11;25
+r;298254559;5425;6287817;11;25
+r;299370164;5425;6304572;11;25
+r;298293715;5425;6288298;11;25
+r;298506833;5425;6293275;11;25
+r;298510756;5425;6293379;11;25
+r;298881052;5425;6295592;11;25
+r;298881889;5425;6295529;11;25
+r;298882480;5425;6295853;11;25
+r;298890286;5425;6296057;11;25
+r;299342768;5425;6303449;11;25
+r;299576967;5425;6309630;11;25
+r;299595951;5425;6312819;11;25
+r;299648182;5425;6314915;11;25
+r;299687463;5425;6316563;11;25
+r;301416338;5425;6336584;11;25
+r;299828534;5425;6318650;11;25
+r;299887992;5425;6319821;11;25
+r;300132790;5425;6322820;11;25
+r;300177747;5425;6324381;11;25
+r;300207277;5425;6327226;11;25
+r;300960491;5425;6329906;11;25
+r;300963925;5425;6331530;11;25
+r;301237178;5425;6335839;11;25
+r;301492857;5425;6342870;11;25
+r;301603855;5425;6347057;11;25
+r;301747711;5425;6352527;11;25
+r;301752798;5425;6353527;11;25
+r;301813668;5425;6357194;11;25
+r;302986351;5425;6370951;11;25
+r;303131836;5425;6373232;11;25
+r;303191331;5425;6373709;11;25
+r;303289774;5425;6374434;11;25
+r;303627560;5425;6375971;11;25
+r;303991267;5425;6384648;11;25
+r;304493838;5425;6387954;11;25
+r;304556317;5425;6389181;11;25
+r;304670714;5425;6392197;11;25
+r;305059257;5425;6398137;11;25
+r;305130686;5425;6399223;11;25
+r;305144610;5425;6400439;11;25
+r;305268405;5425;6402903;11;25
+r;305315398;5425;6407221;11;25
+r;305678246;5425;6415991;11;25
+r;305692514;5425;6418066;11;25
+r;305696476;5425;6419077;11;25
+r;305697799;5425;6419067;11;25
+r;308834018;5425;11968950;11;25
+r;316753562;5425;12141358;11;25
+r;346150579;5425;13641964;11;25
+r;346154350;5425;13641960;11;25
+r;352231750;5425;13988855;11;25
+r;352489162;5425;13991687;11;25
+r;352678931;5425;13997201;11;25
+r;354455935;5425;14033361;11;25
+r;354456318;5425;14033362;11;25
+r;366285222;5425;14424244;11;25
+r;370339729;5425;14568537;11;25
+r;370466049;5425;14580508;11;25
+r;370876783;5425;14595159;11;25
+r;400599803;5425;6379216;11;25
+r;423819153;5425;16166544;11;25
+r;410340871;5425;15787752;11;25
+r;414374480;5425;15915627;11;25
+r;419595714;5425;12692933;11;25
+r;419623991;5425;13773319;11;25
+r;419639938;5425;15399677;11;25
+r;419664893;5425;15433619;11;25
+r;419729397;5425;13758588;11;25
+r;419729552;5425;13758589;11;25
+r;419739452;5425;15260142;11;25
+r;419797569;5425;16038111;11;25
+r;419815138;5425;15349282;11;25
+r;424081788;5425;16158625;11;25
+r;425867738;5425;16237436;11;25
+r;122722508;5425;6426544;11;26
+r;122739331;5425;6424375;11;26
+r;301408001;5425;6336149;11;26
+r;301137550;5425;6332899;11;26
+r;301721103;5425;6348633;11;26
+r;302978910;5425;6370146;11;26
+r;303288409;5425;6374219;11;26
+r;304509954;5425;6388375;11;26
+r;305467926;5425;6410514;11;26
+r;368487745;5425;14510807;11;26
+r;369981013;5425;14562215;11;26
+r;370270492;5425;14568834;11;26
+r;373002370;5425;14669775;11;26
+r;374411595;5425;14726782;11;26
+r;392423290;5425;15039563;11;26
+r;122701458;5425;6429259;11;27
+r;315620924;5425;12094299;11;27
+r;316543272;5425;12201861;11;27
+r;112175709;5425;5712095;11;28
+r;122732044;5425;6425315;11;28
+r;266728012;5425;10612051;11;28
+r;266728020;5425;10612045;11;28
+r;266728025;5425;10612044;11;28
+r;277366301;5425;10985931;11;28
+r;266725387;5425;10617940;11;29
+r;315489010;5425;12109724;11;29
+r;121492133;5425;6444004;11;30
+r;122718854;5425;6427032;11;30
+r;280287951;5425;11049830;11;30
+r;113773604;5425;5817031;11;31
+r;113779965;5425;5815558;11;31
+r;119196384;5425;6068961;11;31
+r;121466228;5425;6446893;11;31
+r;122692604;5425;6430414;11;31
+r;122716580;5425;6427330;11;31
+r;280284863;5425;11059335;11;31
+r;29929965;5425;1828710;11;32
+r;111342853;5425;5670760;11;32
+r;114015971;5425;5837407;11;32
+r;114024204;5425;5835611;11;32
+r;280554778;5425;11069307;11;32
+r;280582594;5425;11069318;11;32
+r;113779969;5425;5815557;11;33
+r;115101715;5425;5899125;11;33
+r;283110563;5425;11080669;11;33
+r;283110715;5425;11080634;11;33
+r;115843743;5425;5920162;11;34
+r;115843757;5425;5920157;11;34
+r;121488502;5425;6444395;11;34
+r;122743014;5425;6423911;11;34
+r;193929010;5425;8973634;11;34
+r;281056856;5425;11080670;11;34
+r;315116645;5425;12079701;11;34
+r;315116649;5425;12079700;11;34
+r;315118670;5425;12079311;11;34
+r;113292710;5425;5806548;11;35
+r;115101570;5425;5899153;11;35
+r;122686235;5425;6431231;11;35
+r;122699433;5425;6429517;11;35
+r;219928524;5425;9936564;11;35
+r;271591615;5425;10842349;11;35
+r;315116641;5425;12079702;11;35
+r;315119836;5425;12079092;11;35
+r;417032261;5425;15229166;11;35
+r;112657002;5425;5782397;11;36
+r;115848646;5425;5918931;11;36
+r;115848985;5425;5918824;11;36
+r;274714331;5425;10922302;11;36
+r;306356666;5425;11832675;11;36
+r;313662637;5425;12049712;11;36
+r;313689113;5425;12050050;11;36
+r;313704075;5425;12050968;11;36
+r;313705144;5425;12050982;11;36
+r;313706785;5425;12050998;11;36
+r;313707536;5425;12050981;11;36
+r;313709587;5425;12050967;11;36
+r;313709951;5425;12051026;11;36
+r;313710421;5425;12050999;11;36
+r;313711906;5425;12051027;11;36
+r;313714802;5425;12051038;11;36
+r;313717032;5425;12051039;11;36
+r;315113449;5425;12080316;11;36
+r;117892535;5425;5985196;11;37
+r;118537717;5425;6001618;11;37
+r;292662777;5425;11392740;11;37
+r;121396552;5425;6529201;11;38
+r;294245370;5425;11442430;11;38
+r;313733128;5425;12052530;11;39
+r;313761269;5425;12053496;11;39
+r;55548216;5425;2453907;11;40
+r;113274499;5425;5811165;11;40
+r;121448991;5425;6526319;11;40
+r;121502069;5425;6442881;11;40
+r;313736249;5425;12052747;11;40
+r;313736529;5425;12052814;11;40
+r;313736743;5425;12052803;11;40
+r;313736775;5425;12052813;11;40
+r;313736947;5425;12052785;11;40
+r;313737582;5425;12052759;11;40
+r;313737646;5425;12052815;11;40
+r;313737695;5425;12052823;11;40
+r;313737798;5425;12052899;11;40
+r;313737953;5425;12052745;11;40
+r;313738017;5425;12052854;11;40
+r;313738125;5425;12052888;11;40
+r;313738536;5425;12052952;11;40
+r;313738748;5425;12052820;11;40
+r;313738766;5425;12052963;11;40
+r;313738793;5425;12052957;11;40
+r;313738852;5425;12052953;11;40
+r;313738945;5425;12052923;11;40
+r;313739197;5425;12052983;11;40
+r;313739213;5425;12052902;11;40
+r;313739386;5425;12052840;11;40
+r;313739388;5425;12052990;11;40
+r;313739469;5425;12052961;11;40
+r;313739474;5425;12052991;11;40
+r;313739516;5425;12052995;11;40
+r;313739576;5425;12052997;11;40
+r;313739818;5425;12053032;11;40
+r;313740675;5425;12053021;11;40
+r;313740797;5425;12052971;11;40
+r;313741056;5425;12053033;11;40
+r;313741209;5425;12052870;11;40
+r;313741284;5425;12052974;11;40
+r;313741315;5425;12052937;11;40
+r;313741413;5425;12052989;11;40
+r;313741549;5425;12053005;11;40
+r;313741580;5425;12053055;11;40
+r;313741741;5425;12053075;11;40
+r;313741815;5425;12053020;11;40
+r;313741858;5425;12053081;11;40
+r;313741873;5425;12053056;11;40
+r;313741923;5425;12053037;11;40
+r;313742085;5425;12053069;11;40
+r;313743393;5425;12052927;11;40
+r;313743431;5425;12053057;11;40
+r;313743508;5425;12053019;11;40
+r;313743538;5425;12053031;11;40
+r;313744022;5425;12053102;11;40
+r;313744086;5425;12053093;11;40
+r;313744198;5425;12052972;11;40
+r;313744234;5425;12053098;11;40
+r;313744781;5425;12053047;11;40
+r;313744856;5425;12052996;11;40
+r;313745202;5425;12053012;11;40
+r;313745359;5425;12052984;11;40
+r;313745454;5425;12053030;11;40
+r;313745928;5425;12053042;11;40
+r;313748668;5425;12053096;11;40
+r;313748732;5425;12053488;11;40
+r;313749117;5425;12053499;11;40
+r;313749298;5425;12053493;11;40
+r;313749377;5425;12053430;11;40
+r;313749392;5425;12053497;11;40
+r;313749434;5425;12053485;11;40
+r;313749539;5425;12053486;11;40
+r;313749814;5425;12053503;11;40
+r;313749820;5425;12053495;11;40
+r;313750232;5425;12053498;11;40
+r;313750302;5425;12053506;11;40
+r;313750611;5425;12053502;11;40
+r;313750775;5425;12053510;11;40
+r;313750819;5425;12053500;11;40
+r;313750934;5425;12053509;11;40
+r;313750973;5425;12053494;11;40
+r;313751058;5425;12053097;11;40
+r;313751089;5425;12053077;11;40
+r;313751421;5425;12053492;11;40
+r;313751488;5425;12053489;11;40
+r;313751659;5425;12053491;11;40
+r;313751775;5425;12053508;11;40
+r;313752215;5425;12053507;11;40
+r;313752366;5425;12053487;11;40
+r;313752551;5425;12053501;11;40
+r;313753946;5425;12053505;11;40
+r;313748125;5425;12053388;11;41
+r;55827491;5425;2468721;11;41
+r;310260508;5425;11973580;11;41
+r;110810826;5425;5622936;11;41
+r;112671129;5425;5723438;11;41
+r;121397678;5425;6528843;11;41
+r;287748891;5425;11222381;11;41
+r;308832270;5425;11968887;11;41
+r;313737426;5425;12052798;11;41
+r;313738734;5425;12052922;11;41
+r;313739546;5425;12052856;11;41
+r;313742100;5425;12053001;11;41
+r;313746413;5425;12053391;11;41
+r;313746639;5425;12053386;11;41
+r;313746659;5425;12053395;11;41
+r;313746695;5425;12053399;11;41
+r;313746768;5425;12053396;11;41
+r;313746825;5425;12053400;11;41
+r;313746839;5425;12053405;11;41
+r;313746921;5425;12053414;11;41
+r;313746958;5425;12053415;11;41
+r;313747013;5425;12053402;11;41
+r;313747014;5425;12053428;11;41
+r;313747039;5425;12053424;11;41
+r;313747190;5425;12053409;11;41
+r;313747222;5425;12053393;11;41
+r;313747316;5425;12053411;11;41
+r;313747390;5425;12053397;11;41
+r;313747489;5425;12053421;11;41
+r;313747495;5425;12053403;11;41
+r;313747546;5425;12053407;11;41
+r;313747714;5425;12053435;11;41
+r;313747800;5425;12053420;11;41
+r;313747927;5425;12053404;11;41
+r;313748006;5425;12053423;11;41
+r;313748037;5425;12053389;11;41
+r;313748142;5425;12053442;11;41
+r;313748163;5425;12053408;11;41
+r;313748360;5425;12053434;11;41
+r;313748377;5425;12053432;11;41
+r;313748481;5425;12053413;11;41
+r;313748540;5425;12053436;11;41
+r;313748618;5425;12053392;11;41
+r;313748645;5425;12053419;11;41
+r;313748792;5425;12053401;11;41
+r;313749103;5425;12053431;11;41
+r;313749403;5425;12053417;11;41
+r;313749503;5425;12053443;11;41
+r;313749658;5425;12053447;11;41
+r;313749692;5425;12053426;11;41
+r;313749779;5425;12053445;11;41
+r;313749855;5425;12053441;11;41
+r;313749914;5425;12053387;11;41
+r;313750331;5425;12053416;11;41
+r;313750344;5425;12053504;11;41
+r;313750356;5425;12053412;11;41
+r;313750524;5425;12053439;11;41
+r;313750804;5425;12053429;11;41
+r;313750833;5425;12053418;11;41
+r;313750960;5425;12053444;11;41
+r;313750997;5425;12053490;11;41
+r;313751020;5425;12053446;11;41
+r;313751109;5425;12053410;11;41
+r;313751122;5425;12053448;11;41
+r;313751144;5425;12053427;11;41
+r;313751522;5425;12053440;11;41
+r;313751541;5425;12053437;11;41
+r;313751549;5425;12053449;11;41
+r;313751791;5425;12053394;11;41
+r;313751878;5425;12053438;11;41
+r;313751996;5425;12053422;11;41
+r;313754014;5425;12053433;11;41
+r;313754955;5425;12053425;11;41
+r;53125238;5425;2391506;11;42
+r;57985145;5425;2476058;11;42
+r;117914561;5425;5980031;11;42
+r;278735063;5425;11008795;11;42
+r;291770771;5425;11374338;11;42
+r;309084820;5425;11973603;11;42
+r;313746995;5425;12053398;11;42
+r;313747529;5425;12053390;11;42
+r;313749453;5425;12053406;11;42
+r;55334877;5425;2444795;11;43
+r;105888970;5425;5138205;11;43
+r;110790771;5425;5626154;11;43
+r;278713506;5425;11008794;11;43
+r;278714762;5425;11008796;11;43
+r;278715669;5425;11008917;11;43
+r;283172634;5425;11137571;11;43
+r;287666910;5425;11219945;11;43
+r;292209554;5425;11385286;11;43
+r;113274495;5425;5811166;11;44
+r;117890532;5425;5985605;11;44
+r;285393351;5425;11160517;11;44
+r;117732908;5425;5993172;11;47
+r;55573937;5425;2455184;11;50
+r;217356232;5425;9695705;11;50
+r;218341312;5425;9773393;11;50
+r;317677743;5425;12246811;11;50
+r;317972230;5425;12248004;11;50
+r;323111719;5425;12617623;11;50
+r;323621721;5425;12633762;11;50
+r;324936759;5425;12617622;11;50
+r;326253589;5425;12711782;11;50
+r;348985942;5425;13771096;11;50
+r;402119233;5425;14473428;11;50
+r;402120804;5425;15229164;11;50
+r;47012760;5425;2355298;11;51
+r;52444988;5425;2566620;11;51
+r;53819976;5425;2585933;11;51
+r;77982295;5425;3230197;11;51
+r;80712245;5425;3290462;11;51
+r;82791364;5425;3303460;11;51
+r;86154750;5425;3369263;11;51
+r;86181388;5425;3366104;11;52
+r;86216259;5425;3359874;11;52
+r;93504364;5425;3745442;11;52
+r;16874136;5425;466003;11;53
+r;80714109;5425;3290468;11;53
+r;86189595;5425;3365278;11;53
+r;98837762;5425;4332693;11;53
+r;27514083;5425;1657457;11;54
+r;52466300;5425;2521528;11;54
+r;74947573;5425;3045811;11;54
+r;82171995;5425;3296646;11;54
+r;83663870;5425;3321018;11;54
+r;86182071;5425;3366032;11;54
+r;86182297;5425;3366003;11;54
+r;86194983;5425;3364642;11;54
+r;93462315;5425;3744214;11;54
+r;98990531;5425;4338819;11;54
+r;103707387;5425;4941784;11;54
+r;106726032;5425;5306126;11;54
+r;71784731;5425;2927926;11;55
+r;86189365;5425;3365301;11;55
+r;86189771;5425;3365259;11;55
+r;86217008;5425;3359624;11;55
+r;52450027;5425;2555706;11;56
+r;71565435;5425;2923328;11;56
+r;86181393;5425;3366103;11;56
+r;86189758;5425;3365260;11;56
+r;93464209;5425;3744361;11;56
+r;93484135;5425;3744885;11;56
+r;93493900;5425;3746732;11;56
+r;93654456;5425;3758685;11;56
+r;34697210;5425;2349636;11;57
+r;80401649;5425;3286186;11;57
+r;85899310;5425;3351094;11;57
+r;106718914;5425;5304598;11;57
+r;106737159;5425;5306128;11;57
+r;106737179;5425;5306127;11;57
+r;24379092;5425;1472772;11;58
+r;31653093;5425;1965535;11;58
+r;85928343;5425;3352853;11;58
+r;86241448;5425;3360988;11;58
+r;93458323;5425;3744014;11;58
+r;14503177;5425;436511;11;59
+r;86179424;5425;3366348;11;59
+r;93455181;5425;3743711;11;59
+r;93497839;5425;3746245;11;59
+r;76460806;5425;3174805;11;60
+r;76659599;5425;3178528;11;60
+r;78800229;5425;3260215;11;60
+r;93462426;5425;3744160;11;60
+r;74947565;5425;3045813;11;63
+r;30975334;5425;1918660;11;65
+r;29855770;5425;1851104;11;67
+r;76505559;5425;3175669;11;67
+r;31653213;5425;1965531;11;68
+r;12476482;5425;332923;11;101
+r;12601699;5425;375055;11;101
+r;12652069;5425;362601;11;101
+r;12652225;5425;362571;11;101
+r;12652253;5425;362564;11;101
+r;12652313;5425;362549;11;101
+r;12652321;5425;362547;11;101
+r;12652325;5425;362546;11;101
+r;12655929;5425;361675;11;101
+r;12737305;5425;341943;11;101
+r;12738563;5425;341631;11;101
+r;12598027;5425;375971;11;102
+r;12652123;5425;362591;11;102
+r;12652135;5425;362588;11;102
+r;12652147;5425;362586;11;102
+r;12652171;5425;362581;11;102
+r;12652191;5425;362578;11;102
+r;12652213;5425;362574;11;102
+r;12703353;5425;349967;11;102
+r;12738917;5425;341542;11;102
+r;12752237;5425;338349;11;102
+r;12652081;5425;362599;11;103
+r;12652119;5425;362592;11;103
+r;12652131;5425;362589;11;103
+r;12652241;5425;362567;11;103
+r;12620263;5425;370544;11;104
+r;12652103;5425;362596;11;104
+r;12652115;5425;362594;11;104
+r;12652237;5425;362568;11;104
+r;12652249;5425;362565;11;104
+r;12652277;5425;362558;11;104
+r;12630711;5425;367889;11;105
+r;12652127;5425;362590;11;105
+r;12652179;5425;362580;11;105
+r;12652221;5425;362572;11;105
+r;12707845;5425;348846;11;105
+r;12731795;5425;343214;11;105
+r;12741529;5425;340911;11;105
+r;12562071;5425;384841;11;106
+r;12594087;5425;376972;11;106
+r;12641225;5425;365248;11;106
+r;12652089;5425;362598;11;106
+r;12652111;5425;362595;11;106
+r;12652205;5425;362576;11;106
+r;12652245;5425;362566;11;106
+r;12652269;5425;362560;11;106
+r;12652309;5425;362550;11;106
+r;12743651;5425;340401;11;106
+r;12627703;5425;368695;11;107
+r;12652099;5425;362597;11;107
+r;12652143;5425;362587;11;107
+r;12652159;5425;362583;11;107
+r;12652187;5425;362579;11;107
+r;12652201;5425;362577;11;107
+r;12652217;5425;362573;11;107
+r;12652229;5425;362570;11;107
+r;12652257;5425;362563;11;107
+r;12652273;5425;362559;11;107
+r;12652289;5425;362555;11;107
+r;12652317;5425;362548;11;107
+r;12682835;5425;355078;11;107
+r;12722351;5425;345531;11;107
+r;12565431;5425;384025;11;108
+r;12617651;5425;371182;11;108
+r;12628933;5425;368333;11;108
+r;12652117;5425;362593;11;108
+r;12652151;5425;362585;11;108
+r;12652233;5425;362569;11;108
+r;12652285;5425;362556;11;108
+r;12652297;5425;362553;11;108
+r;12652301;5425;362552;11;108
+r;12687171;5425;354003;11;108
+r;12724467;5425;344997;11;108
+r;12569945;5425;382901;11;109
+r;12652167;5425;362582;11;109
+r;12652281;5425;362557;11;109
+r;12652293;5425;362554;11;109
+r;12674221;5425;357172;11;109
+r;12696467;5425;351727;11;109
+r;12411273;5425;332521;11;110
+r;12559695;5425;385415;11;110
+r;12652077;5425;362600;11;110
+r;12652209;5425;362575;11;110
+r;12652261;5425;362562;11;110
+r;12652265;5425;362561;11;110
+r;12652305;5425;362551;11;110
+r;12652329;5425;362545;11;110
+r;12714117;5425;347309;11;110
+r;11864689;5425;93343;11;121
+r;11872095;5425;42402;11;121
+r;11848411;5425;294824;11;123
+r;9009150;5425;318685;11;148
+r;9020036;5425;318970;11;148
+r;9066234;5425;321297;11;148
+r;9066236;5425;321298;11;148
+r;9343004;5425;324208;11;148
+r;11279656;5425;326043;11;148
+r;11280052;5425;325930;11;148
+r;11280056;5425;325929;11;148
+r;11280066;5425;325927;11;148
+r;11280076;5425;325926;11;148
+r;11758075;5425;329966;11;148
+r;8934377;5425;317566;11;149
+r;8880504;5425;235445;11;151
+r;8920994;5425;316587;11;151
+r;8879524;5425;212315;11;152
+r;8882540;5425;272038;11;153
+r;8631000;5425;167573;11;161
+r;8631003;5425;167574;11;161
+r;8691145;5425;218533;11;161
+r;8692181;5425;220415;11;161
+r;8699279;5425;230743;11;161
+r;8699511;5425;230981;11;161
+r;8701323;5425;232888;11;161
+r;8702377;5425;234787;11;161
+r;8702483;5425;234848;11;161
+r;8703050;5425;235468;11;161
+r;8705139;5425;237963;11;161
+r;8705682;5425;238811;11;161
+r;8705937;5425;239119;11;161
+r;8711962;5425;248569;11;161
+r;8714590;5425;251054;11;161
+r;8724436;5425;258683;11;161
+r;8725151;5425;259152;11;161
+r;8728158;5425;261457;11;161
+r;8728824;5425;262027;11;161
+r;8811339;5425;313198;11;161
+r;8811341;5425;313199;11;161
+r;1818464;5425;63657;11;162
+r;3140836;5425;220366;11;162
+r;3142265;5425;261037;11;162
+r;8627186;5425;160988;11;162
+r;8627189;5425;160989;11;162
+r;8627192;5425;160990;11;162
+r;8627496;5425;161516;11;162
+r;8631997;5425;169275;11;162
+r;8689356;5425;214466;11;162
+r;8689486;5425;214766;11;162
+r;8702210;5425;234649;11;162
+r;8702211;5425;234651;11;162
+r;8702212;5425;234652;11;162
+r;8717365;5425;253600;11;162
+r;8724823;5425;258955;11;162
+r;8727722;5425;261033;11;162
+r;8727724;5425;261034;11;162
+r;8727726;5425;261035;11;162
+r;8727728;5425;261036;11;162
+r;8727731;5425;261038;11;162
+r;8588027;5425;53504;11;163
+r;8592693;5425;67108;11;163
+r;8611189;5425;119477;11;163
+r;8614066;5425;127524;11;163
+r;8622873;5425;152640;11;163
+r;8624707;5425;155855;11;163
+r;8626150;5425;159175;11;163
+r;8635355;5425;176302;11;163
+r;8635396;5425;176421;11;163
+r;8636671;5425;180133;11;163
+r;8673282;5425;203248;11;163
+r;8673283;5425;203249;11;163
+r;8688842;5425;213462;11;163
+r;8734951;5425;267072;11;163
+r;8738449;5425;270919;11;163
+r;8738452;5425;270921;11;163
+r;8739596;5425;272082;11;163
+r;8743419;5425;275539;11;163
+r;8744289;5425;276188;11;163
+r;8745750;5425;277964;11;163
+r;8748634;5425;281267;11;163
+r;8749180;5425;281842;11;163
+r;8752079;5425;284839;11;163
+r;8758462;5425;290519;11;163
+r;8758602;5425;290675;11;163
+r;8760708;5425;293008;11;163
+r;8761145;5425;293522;11;163
+r;8761905;5425;294518;11;163
+r;8765845;5425;299055;11;163
+r;8768845;5425;302386;11;163
+r;8773477;5425;307767;11;163
+r;3140796;5425;176753;11;164
+r;8580731;5425;32486;11;164
+r;8603507;5425;98100;11;164
+r;8622826;5425;152531;11;164
+r;8625462;5425;157752;11;164
+r;8636206;5425;179702;11;164
+r;8649146;5425;187972;11;164
+r;8649147;5425;187973;11;164
+r;8649148;5425;187974;11;164
+r;8649150;5425;187975;11;164
+r;8651662;5425;189680;11;164
+r;8673285;5425;203250;11;164
+r;8735047;5425;267152;11;164
+r;8779324;5425;312949;11;164
+r;8617859;5425;137343;11;165
+r;8570253;5425;925;11;170
+r;8673280;5425;203247;11;174
+r;8915798;5425;317306;11;177
+r;6211736;5425;258684;11;188
+r;210568;5425;156563;11;189
+r;3081126;5425;104632;11;189
+r;3081127;5425;265484;11;189
+r;3103468;5425;266618;11;189
+r;375081;5425;163056;11;198
+r;3236381;5425;271770;11;209
+r;3236383;5425;271771;11;209
+r;3236382;5425;152038;11;210
+r;3236384;5425;183068;11;210
+r;1568681;5425;64291;11;218
+r;3236380;5425;212758;11;219
+r;210570;5425;156564;11;239
+r;423844;5425;63897;11;268
+r;427054;5425;66676;11;289
+r;426388;5425;154752;11;299
+r;1568682;5425;152809;11;359
+r;427055;5425;29129;11;390
+r;210569;5425;130451;11;449

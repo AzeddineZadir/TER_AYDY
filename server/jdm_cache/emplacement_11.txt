@@ -1,0 +1,80 @@
+
+e;26326;'emplacement';1;198
+e;6297363;'emplacement anatomique du néoplasme primitif inconnu';1;0
+e;6301920;'emplacement donneur';1;0
+e;6333604;'emplacement anatomique mal défini';1;0
+e;6342913;'emplacement anatomique inconnu';1;0
+e;6342471;'emplacement récepteur';1;0
+e;6414471;'emplacement anatomique du néoplasme primaire inconnu';1;0
+e;14434434;'emplacement de camping';1;0
+e;14452330;'emplacement réservé';1;0
+e;14583949;'code emplacement';777;0
+e;15487499;'Un hôtel jouissant d'un emplacement suberbe.';1;0
+e;15484983;'Un panneau indique l'emplacement du château.';1;0
+e;15395231;'affichage publicitaire, emplacement publicitaire, placement de publicité';1;0
+e;15264089;'déterminer l'emplacement exact de qch';1;0
+e;15272705;'emplacement SFP';1;0
+e;15272713;'emplacement d'affichage';1;0
+e;15349571;'emplacement d'arrêt d'urgence';1;0
+e;15211737;'emplacement d'exposition';1;0
+e;15272708;'emplacement de carte';1;0
+e;15272709;'emplacement de disque';1;0
+e;15272721;'emplacement de magasin';1;0
+e;15242390;'emplacement de pub';1;0
+e;15272707;'emplacement de publicité';1;0
+e;15272723;'emplacement de stationnement';1;0
+e;15272719;'emplacement du bit';1;0
+e;15272703;'emplacement garanti';1;0
+e;15272711;'emplacement pour disque';1;0
+e;15451698;'emplacement réservé à cet effet';1;0
+e;14968071;'emplacement géographique';1;0
+e;9958370;'identifiant IATA d'emplacement';777;0
+e;11503048;'L'emplacement des figures héraldiques';777;0
+e;15272626;'L'emplacement de l'hôtel est superbe.';1;0
+e;11160696;'identifiant AITA d'emplacement';777;0
+e;12266809;'Municipalités par emplacement';777;0
+e;5516644;'emplacement de parking';1;0
+e;349998;'emplacement exact';1;50
+e;339537;'bon emplacement';1;50
+e;349999;'emplacement publicitaire';1;50
+e;350000;'emplacement forain';1;50
+e;182266;'emplacement promotionnel';1;50
+r;299024384;26326;6297363;11;25
+r;299224688;26326;6301920;11;25
+r;301145569;26326;6333604;11;25
+r;301492575;26326;6342913;11;25
+r;301492871;26326;6342471;11;25
+r;305616980;26326;6414471;11;25
+r;366521828;26326;14434434;11;25
+r;366857351;26326;14452330;11;25
+r;370558660;26326;14583949;11;25
+r;419557678;26326;15487499;11;25
+r;419557746;26326;15484983;11;25
+r;419580101;26326;15395231;11;25
+r;419828895;26326;15264089;11;25
+r;419835273;26326;15272705;11;25
+r;419835278;26326;15272713;11;25
+r;419835283;26326;15349571;11;25
+r;419835290;26326;15211737;11;25
+r;419835295;26326;15272708;11;25
+r;419835300;26326;15272709;11;25
+r;419835305;26326;15272721;11;25
+r;419835310;26326;15242390;11;25
+r;419835315;26326;15272707;11;25
+r;419835320;26326;15272723;11;25
+r;419835325;26326;15272719;11;25
+r;419835330;26326;15272703;11;25
+r;419835335;26326;15272711;11;25
+r;419835340;26326;15451698;11;25
+r;390922965;26326;14968071;11;26
+r;220809462;26326;9958370;11;30
+r;295558714;26326;11503048;11;37
+r;414847890;26326;15272626;11;42
+r;285412660;26326;11160696;11;45
+r;318502087;26326;12266809;11;47
+r;108348015;26326;5516644;11;49
+r;12703231;26326;349998;11;103
+r;12747349;26326;339537;11;103
+r;12703227;26326;349999;11;106
+r;12703223;26326;350000;11;107
+r;8639814;26326;182266;11;163

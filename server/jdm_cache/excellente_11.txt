@@ -1,0 +1,36 @@
+
+e;169476;'excellente';1;106
+e;15325453;'en excellente condition';1;0
+e;15325459;'en excellente condition physique';1;0
+e;15483911;'belle / bonne / grande / excellente / formidable / super occasion';1;0
+e;15483909;'belle / bonne / grande / excellente / formidable / super opportunité';1;0
+e;9957162;'Toute grâce excellente';777;0
+e;15325445;'On dit que la nourriture y est excellente.';1;0
+e;15325442;'Ils ont offert une excellente reprise.';1;0
+e;15261160;'C'est une excellente conductrice.';1;0
+e;3177957;'excellente nouvelle';1;32
+e;385686;'une excellente chose pour';1;50
+e;350638;'en excellente voie';1;50
+e;352664;'excellente vue';1;50
+e;387198;'visibilité excellente';1;50
+e;352662;'excellente idée';1;58
+e;350637;'en excellente santé';1;50
+e;352663;'excellente visibilité';1;50
+e;156532;'excellente santé';1;54
+r;419839314;169476;15325453;11;30
+r;419839318;169476;15325459;11;30
+r;419650610;169476;15483911;11;32
+r;419650624;169476;15483909;11;32
+r;220749155;169476;9957162;11;33
+r;419518375;169476;15325445;11;34
+r;402112767;169476;15325442;11;50
+r;395011623;169476;15261160;11;50
+r;76646489;169476;3177957;11;59
+r;12558593;169476;385686;11;102
+r;12700757;169476;350638;11;103
+r;12692613;169476;352664;11;104
+r;12552573;169476;387198;11;107
+r;12692621;169476;352662;11;108
+r;12700761;169476;350637;11;109
+r;12692617;169476;352663;11;110
+r;8625144;169476;156532;11;163

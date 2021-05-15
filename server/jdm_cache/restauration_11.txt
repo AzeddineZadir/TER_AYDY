@@ -1,0 +1,250 @@
+
+e;11575;'restauration';1;272
+e;6296366;'restauration du sourcil';1;0
+e;6316962;'restauration en résine';1;0
+e;6337854;'restauration dentaire temporaire';1;0
+e;6374118;'restauration de la fluorescence après photoblanchiment';1;0
+e;6398318;'restauration au ciment de silicate';1;0
+e;6401091;'restauration de la cavité orbitaire';1;0
+e;6403146;'restauration du sourcil avec greffe';1;0
+e;6406220;'restauration corono-radiculaire';1;0
+e;6414475;'restauration au silicate';1;0
+e;6307706;'restauration de la peau au laser';1;0
+e;6321226;'restauration coronoradiculaire';1;0
+e;6385425;'traitement de restauration dentaire atraumatique';1;0
+e;6403088;'service hospitalier de restauration';1;0
+e;14333989;'services de restauration';1;0
+e;14434439;'politique tarifaire de restauration';1;0
+e;14434437;'équipement de restauration';1;0
+e;14434438;'spécification d'équipement de restauration';1;0
+e;14434466;'restauration Rapide';1;0
+e;14434471;'thème de restauration';1;0
+e;16161717;'chaîne de restauration américaine';1;0
+e;16161716;'chaîne de restauration rapide américaine';1;0
+e;14590544;'lieux de restauration';1;0
+e;15252978;'Le secteur de la restauration rapide fait l'objet d'une concurrence intense.';1;0
+e;15695686;'Loi allemande sur la restauration de la fonction publique du 7 avril 1933';777;0
+e;15252962;'bar de restauration rapide';1;0
+e;15252972;'bouton de restauration';1;0
+e;15252968;'bouton restauration';1;0
+e;15635656;'centre de restauration du patrimoine';1;0
+e;15438455;'chantier de restauration du patrimoine';1;0
+e;15230014;'emploi dans la restauration rapide';1;0
+e;16158986;'plan de restauration des forêts indigènes';777;0
+e;6326693;'caries dentaires secondaires à une restauration dentaire défectueuse';1;0
+e;6341400;'restauration environnementale';1;0
+e;6394479;'restauration urbaine';1;0
+e;12197650;'Alliance pour la restauration de la paix et contre le terrorisme';777;0
+e;14486052;'restauration traditionnelle';1;34
+e;14486054;'employé de restauration';1;18
+e;5794694;'chaînes de restauration';1;0
+e;6408741;'aliments de restauration rapide';1;0
+e;6436888;'restauration des surfaces d'usure occlusale';1;0
+e;10592444;'restauration de Kenmu';777;0
+e;6430352;'restauration dentaire permanente';1;0
+e;12313387;'l'Acte de restauration de l'Etat ukrainien';777;0
+e;2378675;'quasi-restauration';1;0
+e;5620170;'chaîne de restauration rapide';1;0
+e;10869402;'restauration absolutiste en Espagne';777;0
+e;11785128;'Conseil d'État pour la restauration de la loi et de l'ordre';777;0
+e;11911411;'Alliance nationale pour la sauvegarde de l'identité peule et la restauration de la justice';777;0
+e;11812286;'Mouvement pour la restauration de la démocratie';777;0
+e;11360745;'restauration mandchoue de juillet 1917';777;0
+e;5745716;'restauration du système';777;0
+e;5805915;'chaîne de restauration';1;0
+e;5983012;'restauration des terrains en montagne';777;0
+e;6443701;'restauration d'usure occlusale';1;0
+e;6430008;'restauration hospitalière';1;0
+e;12077544;'camion de restauration';1;0
+e;12079286;'grande restauration';1;0
+e;5996466;'conservation-restauration';1;0
+e;6437953;'restauration d'abrasion occlusale';1;0
+e;6431559;'restauration d'usure dentaire';1;0
+e;11578907;'Conseil suprême pour la restauration de la démocratie';777;0
+e;12049719;'sélectionner des activités de restauration';1;0
+e;12050066;'évaluer des procédures de restauration';1;0
+e;12050503;'équipière polyvalente de restauration rapide';1;0
+e;12051610;'contrôler la propreté de la salle de restauration';1;0
+e;12853751;'restauration de mobilier';777;0
+e;12050502;'équipier polyvalent de restauration rapide';1;0
+e;12051601;'opérations de restauration';1;0
+e;2374682;'aire de restauration';1;0
+e;5534871;'groupe français de restauration';1;0
+e;5803411;'chaîne française de restauration rapide';1;0
+e;5534872;'groupe de restauration';1;0
+e;10523768;'restauration de Meiji';777;0
+e;11955299;'La page wikipédia de L'amicale laïque d'ergué gabéric est en pleine restauration !!!!!';777;0
+e;12057435;'métiers de la restauration';1;0
+e;5831530;'restauration des Everglades';777;0
+e;11573899;'Charte internationale sur la conservation et la restauration des monuments et des sites';777;0
+e;6451465;'restauration de l'angle cardio-oesophagien';1;0
+e;11222132;'lieu de restauration';1;0
+e;11254107;'restauration ethnique';1;0
+e;11385748;'certificat d'aptitude professionnelle d'agent polyvalent de restauration';777;0
+e;11011475;'restauration d'oeuvres d'art';1;0
+e;6450309;'restauration de l'usure de la surface occlusale';1;0
+e;9773316;'conservation et restauration des films';777;0
+e;12663820;'chantier de restauration';1;0
+e;567734;'restauration-minute';777;50
+e;2571312;'restauration liaison froide';1;0
+e;6451659;'restauration de l'environnement';1;0
+e;3321811;'assistance à la restauration ou au service du commissariat(catering)';1;0
+e;1642192;'mouvement pour la restauration de l'ordre judiciaire';777;0
+e;3385327;'restauration du prépuce';777;0
+e;3321466;'hôtellerie et restauration';1;0
+e;1843664;'syndrome de restauration immunitaire';1;0
+e;3319282;'assistance à la restauration';1;0
+e;3320697;'restauration aérienne';1;0
+e;3319577;'restauration ferroviaire';1;0
+e;2534015;'hôtellerie-restauration';1;0
+e;4326116;'restauration bourbonienne';777;0
+e;3283178;'établissement de restauration';1;0
+e;1843663;'cellulaire ou tissulaire restauration';1;0
+e;359402;'institut de restauration';1;50
+e;391600;'syndrome inflammatoire de restauration immunitaire';1;50
+e;379469;'service de restauration';1;86
+e;373743;'projet de restauration';1;50
+e;376369;'restauration commerciale';1;50
+e;346261;'dans la restauration';1;50
+e;233025;'restauration collective';1;44
+e;257548;'restauration scolaire';1;2
+e;257549;'société de restauration';1;10
+e;207087;'restauration artistique';1;50
+e;34486;'restauration rapide';1;294
+e;143714;'restauration et conservation des oeuvres d'art';1;50
+e;184100;'restauration d'image';1;50
+e;264519;'restauration universitaire';1;50
+e;284742;'plans de restauration';777;50
+e;288246;'restauration de données';777;50
+e;288269;'plan de restauration';777;50
+e;288302;'restauration automobile';777;50
+e;288317;'restauration durable';777;50
+e;305586;'Abrégé du calcul par la restauration et la comparaison';777;50
+e;190773;'restauration immobilière';1;50
+e;196174;'atelier de restauration';1;50
+r;298889608;11575;6296366;11;25
+r;299780021;11575;6316962;11;25
+r;301441639;11575;6337854;11;25
+r;303210615;11575;6374118;11;25
+r;305059898;11575;6398318;11;25
+r;305200480;11575;6401091;11;25
+r;305270202;11575;6403146;11;25
+r;305309179;11575;6406220;11;25
+r;319074270;11575;6414475;11;25
+r;319085311;11575;6307706;11;25
+r;341009915;11575;6321226;11;25
+r;349188002;11575;6385425;11;25
+r;349268519;11575;6403088;11;25
+r;364659890;11575;14333989;11;25
+r;366515262;11575;14434439;11;25
+r;366516111;11575;14434437;11;25
+r;366517536;11575;14434438;11;25
+r;366521531;11575;14434466;11;25
+r;366524256;11575;14434471;11;25
+r;423488773;11575;16161717;11;25
+r;423488732;11575;16161716;11;25
+r;370746962;11575;14590544;11;25
+r;419493533;11575;15252978;11;25
+r;419500321;11575;15695686;11;25
+r;419646690;11575;15252962;11;25
+r;419662587;11575;15252972;11;25
+r;419662707;11575;15252968;11;25
+r;419694639;11575;15635656;11;25
+r;419700062;11575;15438455;11;25
+r;419835376;11575;15230014;11;25
+r;424121094;11575;16158986;11;25
+r;300199554;11575;6326693;11;26
+r;301476066;11575;6341400;11;26
+r;304996422;11575;6394479;11;26
+r;316324159;11575;12197650;11;26
+r;368124007;11575;14486052;11;26
+r;368124030;11575;14486054;11;26
+r;114450958;11575;5794694;11;27
+r;305384233;11575;6408741;11;27
+r;121555922;11575;6436888;11;28
+r;264460380;11575;10592444;11;29
+r;122693083;11575;6430352;11;30
+r;319837488;11575;12313387;11;31
+r;52237204;11575;2378675;11;32
+r;110632752;11575;5620170;11;32
+r;272642750;11575;10869402;11;32
+r;303720290;11575;11785128;11;32
+r;307496651;11575;11911411;11;32
+r;304735502;11575;11812286;11;33
+r;291991660;11575;11360745;11;34
+r;112662788;11575;5745716;11;35
+r;113295904;11575;5805915;11;35
+r;117902679;11575;5983012;11;35
+r;121494811;11575;6443701;11;35
+r;122695757;11575;6430008;11;35
+r;315094783;11575;12077544;11;35
+r;315118797;11575;12079286;11;35
+r;118842103;11575;5996466;11;36
+r;121546319;11575;6437953;11;36
+r;122683694;11575;6431559;11;36
+r;297716213;11575;11578907;11;36
+r;313669477;11575;12049719;11;36
+r;313687804;11575;12050066;11;36
+r;313701346;11575;12050503;11;36
+r;313701374;11575;12050838;11;36
+r;313701388;11575;12050839;11;36
+r;313763015;11575;12051610;11;36
+r;329378085;11575;12853751;11;36
+r;313693801;11575;12050502;11;37
+r;313693829;11575;12050644;11;37
+r;313693913;11575;12050645;11;37
+r;313729485;11575;12051601;11;37
+r;52210107;11575;2374682;11;38
+r;109533473;11575;5534871;11;38
+r;113304825;11575;5803411;11;38
+r;109530055;11575;5534872;11;39
+r;262527736;11575;10523768;11;39
+r;308476463;11575;11955299;11;39
+r;313822171;11575;12057435;11;39
+r;113753551;11575;5831530;11;40
+r;297605276;11575;11573899;11;40
+r;121034036;11575;6451465;11;41
+r;287736127;11575;11222132;11;41
+r;288439767;11575;11254107;11;42
+r;292320007;11575;11385748;11;42
+r;278851308;11575;11011475;11;43
+r;121044605;11575;6450309;11;49
+r;218339530;11575;9773316;11;50
+r;324932261;11575;12663820;11;50
+r;17144172;11575;567734;11;51
+r;52442811;11575;2571312;11;51
+r;121032325;11575;6451659;11;51
+r;83659748;11575;3321811;11;52
+r;25964514;11575;1642192;11;53
+r;86894161;11575;3385327;11;53
+r;83661564;11575;3321466;11;56
+r;29891876;11575;1843664;11;57
+r;83672421;11575;3319282;11;57
+r;83665387;11575;3320697;11;58
+r;83670799;11575;3319577;11;58
+r;52505429;11575;2534015;11;59
+r;98677599;11575;4326116;11;59
+r;80309300;11575;3283178;11;60
+r;29891884;11575;1843663;11;64
+r;12665221;11575;359402;11;102
+r;13066779;11575;391600;11;103
+r;12583673;11575;379469;11;104
+r;12606957;11575;373743;11;106
+r;12596465;11575;376369;11;110
+r;12719059;11575;346261;11;110
+r;8701420;11575;233025;11;161
+r;8722782;11575;257548;11;161
+r;8722785;11575;257549;11;161
+r;8679629;11575;207087;11;162
+r;8581398;11575;34486;11;163
+r;8621072;11575;143714;11;163
+r;8642922;11575;184100;11;163
+r;8732062;11575;264519;11;163
+r;8751970;11575;284742;11;163
+r;8756150;11575;288246;11;163
+r;8756190;11575;288269;11;163
+r;8756246;11575;288302;11;163
+r;8756273;11575;288317;11;163
+r;8771565;11575;305586;11;163
+r;8653253;11575;190773;11;164
+r;8661027;11575;196174;11;164

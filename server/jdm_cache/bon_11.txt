@@ -1,0 +1,1846 @@
+
+e;144229;'bon';1;1948
+e;11078735;'saint-bon-courchevel';777;0
+e;14027857;'o bon';777;0
+e;14159774;'embrasser comme du bon pain';1;0
+e;14159610;'avoir le bon dos';1;0
+e;14159823;'être dans le bon wagon';1;0
+e;14439289;'défaut de bon sens';1;0
+e;14453578;'bon fonctionnement des services';1;0
+e;14453730;'marché à bon de commande';1;0
+e;14454196;'bon à payer';1;0
+e;14454436;'bon d'épargne PTT';1;0
+e;14535174;'banc de vérification de bon fonctionnement';777;0
+e;14670078;'c'est bon d'';1;0
+e;14670077;'c'est bon de';1;0
+e;14757463;'bon d'option';777;0
+e;14894849;'modélisation du raisonnement de bon sens';1;0
+e;14895176;'fleurer le bon vieux temps';1;0
+e;15010201;'vérification d'aptitude au bon fonctionnement';777;0
+e;15395171;'être sur le bon chemin';1;0
+e;15430838;'faire appel au bon sens de [qqn]';1;0
+e;6376416;'déficience visuelle du moins bon oeil';1;0
+e;15327916;'Le lit était bon pour son mal de dos.';1;0
+e;15329869;'Le son n'est pas très bon.';1;0
+e;15548123;'Les commentaires allaient bon train.';1;0
+e;15294380;'Les spéculations vont bon train.';1;0
+e;15493182;'Les syndicats le pressent de tenir bon.';1;0
+e;15754721;'Les uniformes doivent être pratiques et bon marché.';1;0
+e;16073517;'Marché à bon de commande';1;0
+e;15904140;'Mas en lan mil dix huit cinq censNotre prelat qui eust bon et sain sens';777;0
+e;15460236;'Mon bon coeur me perdra';1;0
+e;15561382;'Nous n'avons pas tourné au bon endroit.';1;0
+e;15548126;'Nous sommes dans le bon train.';1;0
+e;15328153;'Nous verrions d'un bon ?il toute suggestion raisonnable.';1;0
+e;15420688;'Ouvrez l'?il et le bon !';1;0
+e;15810616;'Ouvrez l'oeil et le bon !';1;0
+e;15427145;'Quel bon vent t'amène ?';1;0
+e;15438230;'Tout est bon dans le cochon.';1;0
+e;15372027;'Tout l'argent n'avait pas été utilisé à bon escient.';1;0
+e;15361240;'Transmettez mon bon souvenir à Alice.';1;0
+e;15430062;'Tu ne vas pas t'arrêter en si bon chemin !';1;0
+e;15218866;'Un bon café va te réchauffer.';1;0
+e;15479042;'Un peu de bon sens, voyons!';1;0
+e;15329883;'Votre anglais est très bon !';1;0
+e;15355269;'action avec bon attaché';1;0
+e;15318166;'action ex bon attaché';1;0
+e;15355274;'action à bon de souscription d'action';1;0
+e;15355276;'action à bon de souscription d'action remboursable';1;0
+e;15367996;'action à bon de souscription d'obligation convertible';1;0
+e;15386034;'ah bon ?';1;0
+e;15503930;'allons bon !';1;0
+e;15496927;'allons bon,';1;0
+e;15302088;'ambiance bon enfant';1;0
+e;15683950;'argent à bon marché';1;0
+e;15528473;'arrivant à bon port';1;0
+e;16086767;'assurer le bon fonctionnement';1;0
+e;15546763;'attendre le bon vouloir de qn';1;0
+e;15748643;'attendre le bon vouloir de quelqu'un';1;0
+e;16040330;'au bon souvenir de';1;0
+e;15389386;'avoir bon c?ur';1;0
+e;15752567;'avoir bon espoir de faire';1;0
+e;15687488;'avoir bon espoir de faire quelque chose';1;0
+e;15752564;'avoir bon espoir que';1;0
+e;15426386;'avoir bon espoir que + [subjonctif]';1;0
+e;15752611;'avoir bon espoir que ...';1;0
+e;15389389;'avoir bon esprit';1;0
+e;15399611;'avoir bon moral, avoir le moral';1;0
+e;15426399;'avoir du bon sens';1;0
+e;16032406;'avoir le bon esprit de';1;0
+e;15522386;'avoir tout bon';1;0
+e;15351053;'avoir trouvé le bon filon';1;0
+e;15329859;'avoir très bon genre';1;0
+e;15423155;'avoir un bon coup de pinceau';1;0
+e;15423153;'avoir un bon coup de pédale';1;0
+e;15423157;'avoir un bon fond';1;0
+e;15323175;'avoir un bon fromage';1;0
+e;15389379;'avoir un bon niveau en';1;0
+e;15650745;'avoir un bon niveau en quelque chose';1;0
+e;15781319;'bavardages vont bon train';1;0
+e;15417663;'bon ?il';1;0
+e;15426441;'bon Dieu !';1;0
+e;15474160;'bon Samaritain';1;0
+e;15290286;'bon anniversaire !';1;0
+e;15204398;'bon anniversaire!';1;0
+e;15253408;'bon appétit !';1;0
+e;15253407;'bon appétit!';1;0
+e;15434472;'bon après-midi';1;0
+e;15220959;'bon avocat, mauvais voisin';1;0
+e;15346634;'bon ben';1;0
+e;15260359;'bon boulot !';1;0
+e;15423564;'bon cadeau';1;0
+e;15426422;'bon coin';1;0
+e;16032444;'bon comme le pain';1;0
+e;15299725;'bon connaisseur du dossier';1;0
+e;15358530;'bon coup de fourchette';1;0
+e;15690527;'bon courage !';1;0
+e;15349371;'bon côté qui prime';1;0
+e;15355267;'bon d'action';1;0
+e;15549378;'bon d'alimentation';1;0
+e;15426431;'bon d'entrée';1;0
+e;15358677;'bon d'essence';1;0
+e;15476853;'bon d'indices';1;0
+e;15271220;'bon d'épargne';1;0
+e;15521207;'bon de bons';1;0
+e;15592770;'bon de confirmation de réception';1;0
+e;15256872;'bon de garantie';1;0
+e;15222604;'bon de jouissance';1;0
+e;15393397;'bon de lait';1;0
+e;15426433;'bon de prise en charge';1;0
+e;15629789;'bon de produits divers';1;0
+e;15426434;'bon de remise';1;0
+e;15355271;'bon de souscription d'action';1;0
+e;15367994;'bon de souscription d'obligation convertible';1;0
+e;15355273;'bon de souscription en action';1;0
+e;15490105;'bon de titres participatifs';1;0
+e;15426437;'bon de travaux';1;0
+e;15398534;'bon de voyage';1;0
+e;15229358;'bon du trésor';1;0
+e;15392115;'bon du trésor à taux annuel normalisé';1;0
+e;15426439;'bon débarras !';1;0
+e;15312884;'bon débarras!';1;0
+e;15343877;'bon endroit pour se poser';1;0
+e;15297470;'bon et loyal inventaire';1;0
+e;15355847;'bon et valable';1;0
+e;15227916;'bon flic mauvais flic';1;0
+e;15347515;'bon fonctionnement';1;0
+e;15426448;'bon gars';1;0
+e;15238252;'bon gros dodo';1;0
+e;15284169;'bon investissement';1;0
+e;15217499;'bon marché voire même gratuit';1;0
+e;15426454;'bon niveau en [qch]';1;0
+e;15650746;'bon niveau en quelque chose';1;0
+e;15300787;'bon nombre';1;0
+e;15660464;'bon nombre d'entre';1;0
+e;15574995;'bon numéro';1;0
+e;15332139;'bon nègre';1;0
+e;15438075;'bon oeil';1;0
+e;15426457;'bon ordre';1;0
+e;15583611;'bon ouvrier se reconnaît à ses outils';1;0
+e;15426458;'bon perdant';1;0
+e;15426465;'bon pour la ligne';1;0
+e;15348790;'bon pour la poubelle';1;0
+e;15575906;'bon pour une autre fois';1;0
+e;16040889;'bon pr';1;0
+e;15322285;'bon présage';1;0
+e;15542349;'bon rapport qualité prix';1;0
+e;15499818;'bon relationnel';1;0
+e;15380125;'bon repas doit commencer par la faim';1;0
+e;15369037;'bon répondeur';1;0
+e;15326852;'bon rétablissement';1;0
+e;15200839;'bon sang !';1;0
+e;15421400;'bon sang de [qch]';1;0
+e;15593108;'bon sang de quelque chose';1;0
+e;15221197;'bon sang ne peut mentir';1;0
+e;15690426;'bon sang!';1;0
+e;15336734;'bon sens inné';1;0
+e;15521602;'bon séjour';1;0
+e;15263196;'bon tempérament';1;0
+e;15762334;'bon vouloir de quelqu'un';1;0
+e;15690524;'bon voyage!';1;0
+e;15211369;'bon week-end';1;0
+e;15211366;'bon week-end !';1;0
+e;15515505;'bon weekend à toutes et tous !';1;0
+e;15252071;'bon à découper';1;0
+e;15496362;'bon à intérêts précomptés';1;0
+e;16040888;'bon à lap';1;0
+e;15570788;'bon à lots';1;0
+e;15346140;'bon à mettre au rebut';1;0
+e;15411988;'bon à moyen terme';1;0
+e;15573738;'bon à prime';1;0
+e;15392113;'bon à taux annuel normalisé';1;0
+e;15329808;'bon à vue';1;0
+e;15210088;'bon, bonne';1;0
+e;15690441;'bon, d'accord!';1;0
+e;16040890;'bon-bout';1;0
+e;15336725;'brin de bon sens';1;0
+e;15396305;'c'est bon pour les imbéciles';1;0
+e;15424866;'c'est bon signe';1;0
+e;15663711;'c'est bon, n'est-ce pas?';1;0
+e;15424923;'c'est du bon boulot';1;0
+e;15417161;'c'est du bon travail';1;0
+e;15277641;'c'est le bon moment pour';1;0
+e;15575082;'c'est rien de plus que du bon sens';1;0
+e;16029462;'c'est un bon signe';1;0
+e;15343079;'c'était le bon temps';1;0
+e;15270504;'ce bon vieux Jack';1;0
+e;15322293;'cela ne présage rien de bon pour ...';1;0
+e;15209110;'cela sent bon';1;0
+e;16041562;'chaque jour du bon Dieu';1;0
+e;15343073;'comme au bon vieux temps';1;0
+e;15460077;'comme bon leur chante';1;0
+e;15395443;'comme bon leur semble';1;0
+e;16032461;'comme bon me semble';1;0
+e;16032462;'comme bon te semble';1;0
+e;15563917;'comme bon vous semble';1;0
+e;15225080;'comme bon vous semble, selon vos souhaits, conformément à votre souhait, suivant votre désir, de la façon qui vous arrange';1;0
+e;15751631;'compte est bon';1;0
+e;15365360;'considérer quelqu'un comme un bon à rien';1;0
+e;15205552;'construire des logements bon marché';1;0
+e;15336731;'contraire au bon sens';1;0
+e;15336732;'contrairement au bon sens';1;0
+e;15388022;'coûter un bon paquet';1;0
+e;15703134;'croire bon de faire [qch]';1;0
+e;15703139;'croire bon de faire quelque chose';1;0
+e;15349269;'cuisine de bon goût';1;0
+e;15523083;'d'un bon oeil';1;0
+e;15832595;'dans le bon sens du mot';1;0
+e;15343072;'dans le bon vieux temps';1;0
+e;15409133;'de bon c?ur';1;0
+e;15201257;'de bon poil';1;0
+e;15317797;'de bon père de famille';1;0
+e;15599184;'de si bon matin';1;0
+e;15329861;'de très bon augure';1;0
+e;15343076;'depuis un bon bout de temps';1;0
+e;15366184;'depuis un bon moment';1;0
+e;15572771;'dessert divinement bon';1;0
+e;15365347;'dire rien de bon';1;0
+e;16032517;'donner du bon temps';1;0
+e;15542221;'doté d'un bon jeu de tête';1;0
+e;16032523;'du bon côté';1;0
+e;16032524;'du bon pain';1;0
+e;16044058;'du bon pied';1;0
+e;15225361;'défendre son bon droit';1;0
+e;15387719;'délicieusement bon';1;0
+e;15316824;'en assez bon état';1;0
+e;15435497;'en bon + [nom]';1;0
+e;15436750;'en bon fils';1;0
+e;15234885;'en bon politicien, il ...';1;0
+e;15220955;'en bon voisin';1;0
+e;15441385;'en bon époux';1;0
+e;15574792;'en bon état de fonctionnement';1;0
+e;15325601;'en faire un bon usage';1;0
+e;16044475;'en tirer à bon compte';1;0
+e;15395174;'en être quitte à bon compte';1;0
+e;16170168;'qui n'est pas bon';1;0
+e;16385123;'mettre bon ordre';1;0
+e;10144187;'bon-gwan';777;0
+e;11129540;'o-bon';777;0
+e;6295462;'trouble schizophréniforme avec caractéristiques de bon prognostic';1;0
+e;6322466;'trouble schizophréniforme sans caractéristiques de bon prognostic';1;0
+e;12118150;'bon départ';1;0
+e;13682854;'marcher d'un bon pas';1;0
+e;14159521;'avoir bon';1;6
+e;14205873;'bon vivre';1;4
+e;14205891;'faire bon vivre';1;4
+e;14208524;'bon-ton';777;0
+e;14221935;'aimer tout ce qui est bon';1;0
+e;14488409;'se faire un bon film';1;0
+e;14488631;'parler du bon vieux temps';1;0
+e;14530402;'avoir un bon dossier';1;0
+e;14530421;'bon score';1;12
+e;14531687;'bon prix';1;2
+e;14535504;'Le bon plaisir';1;0
+e;14538950;'n'être bon à rien';1;0
+e;14584118;'souhaiter un bon rétablissement';1;0
+e;14589862;'passer un bon moment';1;2
+e;14635321;'être au bon endroit';1;4
+e;14715180;'se mettre au bon endroit';1;0
+e;14717660;'faire un bon score';1;28
+e;14723007;'le compte est bon';1;0
+e;14724424;'bon tireur';1;0
+e;14731063;'si tel est mon bon plaisir';1;2
+e;14753371;'s'en tirer à bon compte';1;0
+e;14769900;'Le bon, la brute et le truand';1;0
+e;14972044;'bon bulletin de notes';1;0
+e;15627999;'contrat de bon usage';777;0
+e;15423160;'avoir un bon niveau en [qch]';1;0
+e;15426387;'avoir bon espoir de faire [qch]';1;0
+e;15358536;'Le chien s'est gratté un bon coup.';1;0
+e;15395176;'Le compte est bon.';1;0
+e;15503937;'allons bon ! allons, bon !';1;0
+e;15366191;'au bon endroit et au bon moment';1;0
+e;15204201;'ayant bon pied bon oeil';1;0
+e;15204193;'bon de bon de jouissance';1;0
+e;15417669;'bon pied bon ?il';1;0
+e;15204190;'bon pied bon oeil';1;0
+e;15319802;'bon à tout, bon à rien';1;0
+e;15204188;'bon à très bon';1;0
+e;16163592;'prendre le bon wagon';1;0
+e;5792896;'chao bon';777;0
+e;13519849;'bon timing';1;0
+e;14635322;'être au bon endroit au bon moment';1;10
+e;1773187;'bonne gorgée';1;0
+e;3757821;'grosse pomme coupée en rondelles';1;0
+e;5725677;'bon vieil objet Java';777;0
+e;12992123;'se lever de bon matin';1;2
+e;2426535;'bon-bec';1;0
+e;9960991;'habitations à bon marché';777;0
+e;9982810;'L'Ami y'a bon';777;0
+e;10003640;'Le bon perdant';777;0
+e;10966003;'bon film';1;0
+e;2371703;'bon-plein';1;0
+e;10583249;'Ameur le bon';777;0
+e;2421210;'bon-fils';1;0
+e;11057714;'bon avant-dernier';1;0
+e;5955112;'Le Petit Arpent du bon Dieu';777;0
+e;10902460;'levé du bon pied';1;0
+e;10934847;'J'ai du bon tabac';777;0
+e;11825157;'Y a bon les blancs';777;0
+e;5960810;'Populaire dans le bon sens du terme';777;0
+e;5953857;'françois bon';777;0
+e;10040353;'Au bon beurre';777;0
+e;11025190;'le bon coin';777;2
+e;12068955;'dans un bon nombre de cas';1;0
+e;15472444;'La corde était mouillée mais Nancy tint bon.';1;0
+e;5980998;'bon ozone';777;0
+e;11442746;'herbe du bon soldat';777;0
+e;12051149;'assurer le bon déroulement des opérations à bord';1;0
+e;12077388;'bon goula';1;0
+e;2401946;'être de bon augure';1;0
+e;2431761;'voir de bon oeil';1;0
+e;6002384;'Qu'il est bon de revenir !';777;0
+e;10954068;'mater un bon film';1;0
+e;10848801;'Un bon flic';777;0
+e;10195486;'bon larron';777;0
+e;10937013;'bon voisinage';1;0
+e;2394209;'faire bon marché';1;0
+e;2471726;'galoper sur le bon pied';1;0
+e;10421417;'Le commissaire est bon enfant';777;0
+e;10753463;'Cher bon Dieu';777;0
+e;2427104;'à méchant cheval bon éperon';1;0
+e;10754410;'Un atome de bon sens';777;0
+e;11002201;'bon cuisinier';1;0
+e;2369021;'bon-fieux';1;0
+e;2480998;'rire de bon coeur';1;0
+e;2442038;'le bon Dieu plume ses oies';1;0
+e;5554290;'théorème du bon ordre';777;0
+e;11003582;'bon nombre premier';777;0
+e;11958606;'trop bon trop con';1;0
+e;11388014;'être un bon président';1;0
+e;2481135;'bon teint';1;0
+e;2419310;'bon sang de bonsoir';1;4
+e;10427465;'Une loi pour donner à l'Irlande un bon gouvernement';777;0
+e;10498675;'C'est si bon';777;0
+e;10459473;'Un bon business';777;0
+e;11222129;'restaurant bon marché';1;0
+e;15322070;'L'appartement bénéficie d'un bon ensoleillement.';1;0
+e;10175822;'Ce bon vieux Sam';777;0
+e;11000936;'bon travail';1;0
+e;2374283;'sentir pas bon';1;0
+e;10160024;'Les Savates du bon Dieu';777;0
+e;2417121;'bon à personnaliser';1;0
+e;2373122;'bon à rien, mauvais à tout';1;0
+e;2389269;'gros bon';1;0
+e;2431240;'miser sur le bon cheval';1;0
+e;10429843;'Ce bon monsieur Hunter';777;0
+e;2455041;'tenir le bon bout';1;2
+e;2467863;'avoir un bon départ';1;0
+e;5991152;'Gazette du bon ton';777;0
+e;2368273;'bon pour pouvoir';1;0
+e;2360939;'bon-air';1;0
+e;2362656;'bon-mot';1;0
+e;2379732;'bon pied, bon oeil';1;0
+e;2464822;'bon matin';1;0
+e;2479394;'se rappeler au bon souvenir';1;0
+e;2364850;'prendre un bon tour';1;0
+e;2368231;'bon marché, c'est mauvais marché';1;0
+e;2420438;'bon comme du bon pain';1;0
+e;2445790;'bon comme le bon pain';1;0
+e;2454871;'bon sang de bon sang';1;0
+e;2455399;'bon jeu bon argent';1;0
+e;15481393;'C'était rudement bon.';1;0
+e;15502468;'C'est drôlement bon.';1;0
+e;8785574;'bon au goût';1;0
+e;8779402;'bon orateur';1;0
+e;8777124;'pas très bon';1;0
+e;8893591;'rire bon enfant';1;0
+e;8964757;'un bon coup';1;0
+e;15329865;'Elle a très bon goût.';1;0
+e;12484493;'Histoire d'un bon bramin';777;0
+e;12617305;'bon débat démocratique';1;0
+e;12617306;'bon débat';1;0
+e;12728579;'en plus ou moins bon état';1;0
+e;15752113;'Fais comme bon te semble';1;0
+e;15489302;'Elle fera un bon professeur.';1;0
+e;15358538;'Elle s'assit et pleura un bon coup.';1;0
+e;15480143;'Il est de bon ton d'arriver à l'heure.';1;0
+e;15215697;'Il fait bon se promener dans cette région.';1;0
+e;15329889;'Il n'est pas très bon danseur.';1;0
+e;15257394;'Il n'est pas bon en menuiserie.';1;0
+e;15376366;'Il disposait des esclaves comme bon lui semblait.';1;0
+e;15571618;'Il m'a donné un bon tuyau.';1;0
+e;15423255;'Fais bon voyage !';1;0
+e;15374123;'J'ai eu un bon bulletin scolaire ce trimestre.';1;0
+e;15343062;'Il a bon appétit.';1;0
+e;15403745;'Il a bon caractère.';1;0
+e;15358540;'Il a donné un bon coup de pied dans le ballon.';1;0
+e;15236992;'Il fait un saumon méchamment bon.';1;0
+e;15323288;'J'ai tapé `vols bon marché pour Mumbai' dans Google.';1;0
+e;15380211;'J'imagine qu'elle est de retour pour de bon';1;0
+e;15387720;'C'est délicieusement bon.';1;0
+e;15329877;'C'est très bon.';1;0
+e;15211915;'C'est un bon copain.';1;0
+e;15299332;'C'est un bon joueur de tennis.';1;0
+e;15269487;'C'est un bon orateur.';1;0
+e;15329885;'C'est un très bon film.';1;0
+e;15426377;'Ah bon ?';1;0
+e;15419041;'C'était le bon temps !';1;0
+e;15527936;'C'est le bon.';1;0
+e;15523760;'Elle a un bon sens de l'orientation.';1;0
+e;15549609;'Arrête, bon sang!';1;0
+e;15542310;'C'est bon à savoir.';1;0
+e;15548304;'C'est une idée à laquelle il est bon de donner suite.';1;0
+e;15543465;'Ce n'est qu'un bon ami.';1;0
+e;15366181;'Il est arrivé au bon moment.';1;0
+e;15329872;'Je ne suis pas très bon en calcul.';1;0
+e;15253997;'Je suis en short, il fait délicieusement bon.';1;0
+e;15683461;'... faire des petites économies peut coûter plus cher au final, ... que 'le bon marché coûte cher'';1;0
+e;15685521;'C'est assez bon.';1;0
+e;1668523;'bon café';1;0
+e;2571795;'vivre à bon marché';1;0
+e;2540701;'avoir bon marché';1;0
+e;2500748;'mauvaise tête et bon coeur';1;0
+e;2497272;'le bon Dieu en culotte de velours';1;0
+e;2581251;'l'argent est un bon serviteur et un mauvais maitre';1;0
+e;2412237;'avoir tout son bon sens';1;0
+e;2604138;'pour faire bon ménage, il faut que l'homme soit sourd et la femme aveugle';1;0
+e;2604234;'l'argent est un bon serviteur et un mauvais maître';1;0
+e;3359457;'boeuf stroganoff rapide et bon';1;0
+e;3368060;'ragoût breton de saucisses bon et pas cher';1;0
+e;3367692;'poulet rôti simple mais tellement bon';1;0
+e;3757481;'bon pain';1;0
+e;3755694;'bon kilo de veau en morceaux';1;0
+e;3753643;'bon sachet de levure chimique';1;0
+e;5064515;'dépourvue de bon sens';1;0
+e;5125845;'avoir du bon temps';1;0
+e;396503;'bon courage';1;50
+e;2358288;'si bon lui semble';1;0
+e;2550416;'bon yeux';1;0
+e;2604687;'on n'a jamais bon marché de mauvaise marchandise';1;0
+e;3348178;'De bon matin';777;0
+e;3365717;'gratin aux fruits de mer, vite fait et bon !';1;0
+e;1364669;'attendre le bon moment';1;0
+e;1804907;'avoir bon pied, bon oeil';1;0
+e;2362442;'à méchant ouvrier, point de bon outil';1;0
+e;2557102;'à quelque chose malheur est bon';1;0
+e;2486230;'bon viveur';1;0
+e;2535840;'bon-tour';1;0
+e;2605013;'faire contre mauvaise fortune, bon coeur';1;0
+e;2606116;'il n'y a si bon cheval qui ne bronche';1;0
+e;3359942;'cake aux oignons super bon';1;0
+e;5002317;'bon pour le service';1;2
+e;1570383;'se lever du bon pied';1;14
+e;2328501;'Un bon cru';777;0
+e;2345280;'rendre bon';1;0
+e;2542777;'chénopode du bon roi Henri';1;0
+e;2521018;'gros bon sens';1;0
+e;3757598;'bon kilo de poireaux';1;0
+e;3752287;'bon viande de mouton coupée en morceaux';1;0
+e;5134043;'bon prétexte';1;2
+e;465505;'bon cru';1;50
+e;1731110;'mettre sur le bon pied';1;0
+e;2344050;'herbe du bon Henri';777;0
+e;2345282;'rendre moins bon';1;0
+e;2354417;'prendre les choses du bon côté';1;2
+e;2537910;'le premier mouvement est toujours le bon';1;0
+e;2530760;'partir du bon pied';1;0
+e;2490803;'bon Dieu de bon Dieu';1;0
+e;2561539;'bon-encontrais';1;0
+e;2587393;'bon an, mal an';1;0
+e;2604274;'qui bon l'achète, bon le boit';1;0
+e;2612818;'le bon larron';777;0
+e;3365815;'riz au lait de bonne-maman';1;0
+e;3365230;'bon gros gâteau au chocolat, micro-ondes';1;0
+e;3751386;'bon vin rouge';1;0
+e;3754239;'rôti de porc d'un bon kilo';1;0
+e;5059692;'grain de bon sens';1;0
+e;5064514;'dépourvu de bon sens';1;0
+e;5332111;'bon à jeter';1;6
+e;1937724;'bon plein';1;0
+e;1969971;'bon état de fraicheur';1;0
+e;1974581;'avoir l'air bon';1;0
+e;1978278;'bon app'';1;0
+e;2341180;'à bon entendeur salut';1;0
+e;2844292;'avoir bon appétit';1;0
+e;3365814;'le bon, la brute et le chili';1;0
+e;3756276;'bon filet d'huile d'olive';1;0
+e;3754950;'bon kilo de rhubarbe coupée en petits morceaux';1;0
+e;567345;'bois-sent-bon';777;50
+e;586298;'même étant dans son bon droit';777;0
+e;1725674;'souhaiter un bon anniversaire';1;0
+e;1770692;'bon souvenir';1;0
+e;1948509;'destination bon marché';1;0
+e;3365963;'oeufs mimosa au saumon : c'est bon !';1;0
+e;3373272;'méga-bon';1;0
+e;3706546;'regarder un bon film';1;4
+e;3757832;'bon fromage à raclette';1;0
+e;3757072;'bon kilo de pommes de terre épluchées lavées et coupées en rondelles';1;0
+e;1873773;'sentir bon la bonne salope';1;0
+e;2554808;'bon chien chasse de race';1;0
+e;2553224;'bon cavalier monte à toute main';1;0
+e;2524780;'bon-ouvrier';1;0
+e;2605043;'regarder d'un bon oeil';1;0
+e;3170691;'loi du bon Samaritain';777;0
+e;3225622;'Avoir un bon copain';777;0
+e;3707550;'passer du bon temps';1;2
+e;1679216;'bon choix';1;0
+e;2359196;'comme bon lui semble';1;0
+e;2361838;'ah bon';1;0
+e;2605353;'bon d'État';1;0
+e;3369984;'super bon crumble à la fraise et au chocolat';1;0
+e;3751012;'bon litre d'eau';1;0
+e;3755298;'bon trait de miel liquide';1;0
+e;3754463;'bon litre de lait';1;0
+e;3753845;'noisette de bon beurre';1;0
+e;4193527;'faire le bon apôtre';1;0
+e;5323543;'avoir bon fond';1;0
+e;1704279;'laisser à bon prix';1;0
+e;1964498;'sentir bon la salope';1;0
+e;2566092;'allons bon';1;0
+e;2506091;'maison du bon Dieu';1;0
+e;2505392;'bon-creux';1;0
+e;2572320;'bon-Henri';1;0
+e;3175272;'Tout est bon dans le cochon';777;0
+e;3757149;'bon verre d'eau';1;0
+e;3754250;'bouteille de bon vin blanc sec';1;0
+e;1902108;'mettre sur un bon pied';1;0
+e;2953567;'À bon port';777;0
+e;1804908;'avoir bon pied';1;0
+e;3158909;'moins bon';1;2
+e;394015;'avoir bon coeur';1;50
+e;380205;'solide bon sens';1;50
+e;379190;'selon le bon plaisir de';1;50
+e;355726;'gage de bon vouloir';1;50
+e;350203;'en bon français';1;50
+e;346670;'de bon appétit';1;50
+e;346288;'dans le bon chemin';1;50
+e;339640;'bon pour le service armé';1;50
+e;339620;'bon pour le cimetière';1;50
+e;339551;'bon patriote';1;50
+e;339539;'bon filon';1;50
+e;339523;'bon an mal an';1;50
+e;348507;'du bon côté de';1;50
+e;346289;'dans le bon ordre';1;50
+e;339670;'bon quart d'heure de retard';1;50
+e;339567;'bon à prendre';1;50
+e;339548;'bon moment';1;52
+e;339534;'bon dernier';1;54
+e;339527;'bon citoyen';1;50
+e;377216;'règle de bon sens';1;50
+e;358565;'immeuble de bon standing';1;50
+e;339547;'bon kilo';1;50
+e;339546;'bon gré mal gré';1;62
+e;339542;'bon gag';1;50
+e;339535;'bon dixième';1;50
+e;339525;'bon boulot';1;50
+e;376461;'retraite en bon ordre';1;50
+e;375352;'rapport de bon voisinage';1;50
+e;350206;'en bon état de marche';1;50
+e;345977;'d'un bon effet sur';1;50
+e;339618;'bon pour l'hosto';1;50
+e;339568;'bon à quelque chose';1;50
+e;339566;'bon à manger';1;50
+e;339564;'bon sujet de roman';1;50
+e;339541;'bon fond';1;50
+e;339529;'bon comme la romaine';1;50
+e;384240;'tout bon';1;52
+e;350205;'en bon état de conservation';1;50
+e;350204;'en bon ordre';1;50
+e;350201;'en bon chemin';1;50
+e;346509;'dans un bon jour';1;50
+e;346290;'dans le bon sens';1;50
+e;339619;'bon pour la classe';1;50
+e;339569;'bon à savoir';1;52
+e;339560;'bon public avec';1;50
+e;339559;'bon prince avec';1;50
+e;339558;'bon pour le rebut';1;50
+e;339555;'bon pour l'asile';1;50
+e;339552;'bon peuple';1;50
+e;339536;'bon début';1;50
+e;339530;'bon compte';1;54
+e;339526;'bon chrétien';1;50
+e;338932;'bel et bon';1;50
+e;391641;'arriver à bon port';1;50
+e;385636;'un peu bon';1;50
+e;354240;'fin bon';1;50
+e;339565;'bon à enfermer';1;50
+e;339563;'bon signe';1;50
+e;339557;'bon pour le moral';1;50
+e;339554;'bon poids';1;50
+e;339543;'bon garçon';1;50
+e;339538;'bon et généreux';1;50
+e;339537;'bon emplacement';1;50
+e;334578;'air bon';1;50
+e;388742;'à le bon vieux temps de';1;50
+e;385590;'un bon moment';1;50
+e;379768;'simple et de bon goût';1;50
+e;346672;'de bon sens';1;50
+e;343348;'chef d'oeuvre de bon goût';1;50
+e;339635;'bon à pas grand chose';1;50
+e;339556;'bon pour la réforme';1;50
+e;339540;'bon fonctionnement des institutions';1;50
+e;339533;'bon de souscription';1;50
+e;339531;'bon côté';1;6
+e;339528;'bon climat social';1;50
+e;335873;'appartement de bon standing';1;50
+e;379722;'signe de bon augure';1;50
+e;379189;'selon le bon plaisir';1;50
+e;371497;'poire bon-chrétien';1;50
+e;350202;'en bon citoyen';1;50
+e;346510;'dans un bon état';1;50
+e;339666;'bon alimentaire';1;50
+e;339634;'bon à grand chose';1;50
+e;339561;'bon restaurant';1;66
+e;339065;'bien bon';1;50
+e;375803;'relation de bon voisinage';1;50
+e;370531;'pinte de bon sang';1;50
+e;339669;'bon petit enfant';1;50
+e;339550;'bon parti';1;50
+e;339549;'bon mouvement';1;50
+e;368496;'par le bon bout';1;50
+e;355001;'fort bon';1;50
+e;346671;'de bon augure';1;50
+e;346287;'dans le bon camp';1;50
+e;339668;'bon d'essai';1;50
+e;339667;'bon anonyme';1;50
+e;339644;'bon à marier';1;50
+e;339562;'bon sens élémentaire';1;50
+e;339553;'bon placement';1;50
+e;339545;'bon gros';1;50
+e;339544;'bon grain';1;50
+e;339532;'bon de participation';1;50
+e;339524;'bon bougre';1;50
+e;331055;'bon petit plat';1;50
+e;75929;'bon-papa';1;64
+e;75573;'sent-bon';1;50
+e;49583;'revenant-bon';1;50
+e;18453;'bon-chrétien';1;50
+e;177198;'bon-henri';1;50
+e;321444;'avoir bon caractère';1;52
+e;321654;'être bon';1;2
+e;321666;'avoir bon goût';1;52
+e;321904;'y'a bon';1;52
+e;321936;'bon style';1;50
+e;329983;'frappé au coin du bon sens';1;50
+e;330198;'Les Enfants du bon Dieu';777;50
+e;170241;'ansérine bon-henri';1;50
+e;232589;'au bon endroit';1;56
+e;233989;'être de bon poil';1;50
+e;243459;'L'ami Y'a bon';1;2
+e;251045;'s'être levé du bon pied';1;2
+e;255820;'être bon public';1;50
+e;255836;'en dépit du bon sens';1;22
+e;256168;'sur un bon pied';1;50
+e;257534;'être dans son bon droit';1;50
+e;258215;'n'être plus bon à rien';1;50
+e;258216;'ne plus être bon à rien';1;50
+e;259552;'satisfaire à bon compte';1;50
+e;102762;'se savoir bon gré';1;50
+e;102922;'à bon prix';1;50
+e;104255;'à quoi bon';1;64
+e;109303;'de bon gré';1;50
+e;207733;'se faire du bon sang';1;50
+e;207890;'se payer une pinte de bon sang';1;50
+e;209486;'un bon bout de temps';1;50
+e;210114;'à bon vin point d'enseigne';1;50
+e;210394;'c'est bon';1;66
+e;212039;'s'y prendre au bon moment';1;50
+e;216238;'homme bon';1;50
+e;223025;'Faut pas prendre les enfants du bon Dieu pour des canards sauvages';1;4
+e;224880;'bon temps';1;104
+e;226199;'bon état';1;16
+e;226888;'bon Dieu';1;50
+e;228532;'bon appétit';1;92
+e;229794;'bon nutritionniste';1;50
+e;230730;'avoir un bon copain';1;68
+e;230731;'bon copain';1;70
+e;232195;'arriver bon dernier';1;50
+e;232498;'bon de livraison';1;50
+e;232501;'bon d'achat';1;62
+e;232502;'bon de commande';1;2
+e;232503;'bon du Trésor';1;2
+e;235153;'bon à tirer';1;50
+e;235436;'parabole du bon samaritain';1;50
+e;235766;'bon vieux';1;50
+e;236213;'bon sang de bois';1;50
+e;236381;'On est toujours trop bon avec les femmes';1;50
+e;240826;'faire un bon mariage';1;50
+e;241302;'bon plan';1;6
+e;246882;'bon vieux temps';1;52
+e;247574;'trop bon';1;6
+e;250572;'bon payeur';1;50
+e;250768;'bon poil';1;50
+e;251104;'voir la vie du bon côté';1;50
+e;251921;'car tel est notre bon plaisir';1;50
+e;252352;'soyez bon avec les animaux';1;50
+e;253100;'bon débarras';1;50
+e;255138;'bon niveau';1;8
+e;255882;'bon cholestérol';1;8
+e;255941;'arriver au bon moment';1;70
+e;256264;'faire bon';1;54
+e;257611;'bon au porteur';1;50
+e;258565;'bon de réduction';1;50
+e;259561;'bon résultat';1;86
+e;263004;'avoir un bon coup de crayon';1;50
+e;263118;'assez bon';1;56
+e;263188;'bon profil';1;50
+e;313750;'bon pronostic';1;50
+e;30309;'de bon goût';1;52
+e;31466;'de bon coeur';1;52
+e;45888;'en bon père de famille';1;50
+e;54290;'pour de bon';1;50
+e;61463;'aller bon train';1;54
+e;67615;'se donner du bon temps';1;50
+e;80092;'à bon droit';1;50
+e;85620;'à bon compte';1;50
+e;91412;'à bon escient';1;76
+e;102478;'bon marché';1;280
+e;102809;'bon plaisant';1;50
+e;102961;'sentir bon';1;114
+e;104538;'bon vivant';1;62
+e;106288;'tenir bon';1;78
+e;108162;'bon ami';1;52
+e;109409;'sembler bon';1;50
+e;111229;'bête à bon Dieu';1;176
+e;112383;'bon mot';1;58
+e;113732;'bon ange';1;50
+e;116298;'bon esprit';1;50
+e;116576;'bon emploi';1;50
+e;117225;'sentir bon le propre';1;54
+e;126975;'à bon marché';1;50
+e;139960;'Les Intérêts d'autrui qu'il est bon de servir';1;50
+e;153524;'à bon port';1;52
+e;154167;'pas bon';1;86
+e;160003;'bon coureur';1;52
+e;160032;'bon endroit';1;62
+e;160872;'bon mari';1;54
+e;161137;'tirer le bon numéro';1;52
+e;161288;'bon point';1;86
+e;161648;'bon repas';1;74
+e;161910;'bon coup';1;82
+e;162856;'très bon';1;102
+e;163005;'bon voyage';1;62
+e;163615;'bon père';1;58
+e;163962;'bon anniversaire';1;172
+e;164538;'bon tuyau';1;56
+e;164866;'bon odorat';1;50
+e;164873;'bête à bon dieu';1;72
+e;165694;'bon ouvrier';1;52
+e;165701;'bon dessert';1;50
+e;166223;'bon instituteur';1;52
+e;171379;'de bon compte';1;50
+e;171380;'de bon voisinage';1;50
+e;171471;'en bon canayen';1;50
+e;171676;'pour le bon motif';1;50
+e;184934;'de bon aloi';1;2
+e;202056;'il y a un bon moment';1;50
+e;202710;'le bon temps';1;50
+e;202711;'le bon usage';1;50
+e;202712;'le bon vieux temps';1;50
+e;202896;'les maris sont comme les melons, il faut en essayer plusieurs pour en trouver un bon';1;50
+e;203574;'mener à bon port';1;50
+e;207254;'Roger bon temps';1;50
+e;211445;'ouvrir l'il et le bon';1;50
+e;211464;'partir d'un bon pied';1;50
+e;212165;'voir d'un bon il';1;50
+e;214531;'loi du bon samaritain';1;50
+e;265644;'en bon état';1;8
+e;267479;'être un parfait bon à rien';1;50
+e;12138;'Un bon patriote';1;50
+e;15977;'de bon caractère';1;50
+e;16636;'de bon ton';1;50
+e;16700;'de bon matin';1;56
+e;21024;'La Très Joyeuse, Plaisante et Récréative Histoire du bon chevalier sans peur et sans reproche, gentil seigneur de Bayard';1;50
+e;30953;'bon bec';1;50
+e;31506;'tout de bon';1;54
+e;31580;'bon sens';1;102
+e;32407;'bon plaisir';1;50
+e;38806;'faire contre mauvaise fortune bon coeur';1;66
+e;44441;'trouver bon';1;50
+e;44621;'bon aloi';1;50
+e;44761;'bon compagnon';1;50
+e;55494;'prendre du bon temps';1;124
+e;55865;'Diable et le bon Dieu';1;50
+e;67208;'bon grelot';1;50
+e;69707;'juger bon';1;50
+e;70073;'bon droit';1;50
+e;72868;'bon vouloir';1;52
+e;72877;'bon caractère';1;54
+e;82347;'bon pour';1;50
+e;86233;'bon prince';1;50
+e;88703;'voir les choses du bon côté';1;56
+e;90208;'bon procédé';1;50
+e;91178;'bon accueil';1;54
+e;123251;'bon goût';1;68
+e;128971;'faire bon ménage';1;50
+e;129201;'bon train';1;50
+e;131562;'bon enfant';1;62
+e;132628;'Un bon petit diable';1;52
+e;142369;'Dialogues curieux de l'auteur et un sauvage de bon sens';1;50
+e;152593;'bon élève';1;72
+e;153744;'bon dieu';1;56
+e;156012;'avoir un bon coup de fourchette';1;66
+e;156204;'faire un bon repas';1;106
+e;159177;'bon français';1;50
+e;159234;'bon client';1;62
+e;174382;'bon à';1;50
+e;175328;'cheval du bon dieu';1;50
+e;181195;'bon à moyen terme négociable';1;50
+e;181197;'bon d'échange';1;50
+e;181198;'bon diable';1;50
+e;181199;'bon dol';1;50
+e;184897;'bon Dieu de';1;2
+e;184898;'bon public';1;4
+e;186056;'être bon à jeter aux chiens';1;50
+e;186111;'être la maison du bon Dieu';1;50
+e;186624;'n'être bon ni à rôtir, ni à bouillir';1;50
+e;186625;'n'être même pas bon à jeter aux chiens';1;50
+e;188901;'Jean II le bon';1;50
+e;189392;'Philippe III le bon';1;50
+e;195350;'à bon entendeur, salut';1;50
+e;196223;'au bon moment';1;78
+e;196224;'au bon vieux temps';1;50
+e;196422;'avoir à bon compte';1;50
+e;203726;'mettre bon ordre dans';1;50
+e;204075;'moulage à bon creux';1;50
+e;204653;'oiseau de bon guet';1;50
+e;206128;'prendre du bon côté';1;50
+e;206157;'prendre la vie du bon côté';1;126
+e;206238;'près bon plein';1;50
+e;206583;'quel bon vent vous amène';1;50
+e;265491;'tout est bon dans le cochon';1;50
+e;266321;'bon pour la santé';1;18
+e;266761;'bon vin';1;60
+e;267480;'parfait bon à rien';1;50
+e;267623;'mythe du bon sauvage';1;50
+e;268953;'bon coeur';1;8
+e;269547;'bon état général';1;50
+e;271577;'bon auteur';1;62
+e;274922;'bêtes à bon Dieu';777;50
+e;280486;'Herbe du bon soldat';777;50
+e;281419;'bon article';777;50
+e;284411;'bon sauvage';777;50
+e;285592;'bon père de famille';777;54
+e;308225;'bon samaritain';777;60
+e;24473;'bon tour';1;50
+e;134875;'bon à tout';1;50
+e;137325;'voir d'un bon oeil';1;56
+e;185540;'avoir bon cur';1;50
+e;185541;'avoir bon dos';1;12
+e;185890;'croire bon';1;50
+e;185957;'donner le bon Dieu sans confession';1;50
+e;186166;'faire bon marché de';1;50
+e;186173;'faire contre mauvaise fortune bon cur';1;50
+e;186882;'séparer le bon grain de l'ivraie';1;22
+e;189890;'bon son';1;58
+e;191152;'bon sang';1;16
+e;191698;'bon été';1;50
+e;195864;'aller de bon temps';1;50
+e;196433;'avoir bon air';1;50
+e;196434;'avoir bon bec';1;50
+e;196435;'avoir bon espoir';1;52
+e;196436;'avoir bon genre';1;50
+e;196437;'avoir bon nez';1;50
+e;196716;'avoir un bon mouvement';1;50
+e;197034;'bon à aller quérir la mort';1;50
+e;197035;'bon à graver';1;50
+e;197036;'bon air';1;50
+e;197037;'bon apôtre';1;50
+e;197039;'bon de caisse';1;50
+e;197040;'bon de sortie';1;50
+e;197041;'bon de transport';1;50
+e;197043;'bon faiseur';1;50
+e;197044;'bon génie';1;70
+e;197045;'bon genre';1;50
+e;197046;'bon gré';1;50
+e;197047;'bon nombre de';1;50
+e;197048;'bon pour accord';1;54
+e;197049;'bon pour la casse';1;52
+e;197050;'bon sang ne saurait mentir';1;50
+e;197051;'bon usage';1;52
+e;197052;'bon vent';1;50
+e;198317;'de bon cur';1;50
+e;198318;'de bon conseil';1;50
+e;199849;'être arrivé à bon port';1;50
+e;199886;'être bon pour la camisole';1;50
+e;199887;'être bon prince';1;50
+e;311964;'bon cheval';1;50
+e;16887;'bon ton';1;50
+e;17248;'bon homme';1;50
+e;17743;'bon à rien';1;86
+e;200316;'faire bon accueil';1;50
+e;200317;'faire bon effet';1;50
+e;6233;'Le Diable et le bon Dieu';1;50
+e;5419;'bon sujet';1;50
+e;9580;'bon office';1;50
+e;10338;'bon drille';1;50
+e;160531;'avoir du bon';1;50
+e;213594;'à bon chat, bon rat';1;50
+e;155769;'à bon chat bon rat';1;86
+e;163754;'avoir bon pied bon oeil';1;52
+e;181196;'bon chic bon genre';1;8
+e;181200;'bon pied, bon il';1;50
+e;196438;'avoir bon pied bon il';1;50
+e;57895;'grain';1;664
+r;280952357;144229;11078735;11;25
+r;310675291;144229;589233;11;25
+r;354291522;144229;14027857;11;25
+r;359717507;144229;14159774;11;25
+r;359717891;144229;14159610;11;25
+r;359718765;144229;14159823;11;25
+r;366573703;144229;14439289;11;25
+r;366907673;144229;14453578;11;25
+r;366915748;144229;14453730;11;25
+r;366938960;144229;14454196;11;25
+r;366969414;144229;14454436;11;25
+r;368736161;144229;14535174;11;25
+r;373015004;144229;14670078;11;25
+r;373015336;144229;14670077;11;25
+r;375130400;144229;14757463;11;25
+r;389033041;144229;14894849;11;25
+r;389598019;144229;14895176;11;25
+r;392040906;144229;15010201;11;25
+r;394937662;144229;15395171;11;25
+r;395412580;144229;15430838;11;25
+r;400585496;144229;6376416;11;25
+r;419492388;144229;15327916;11;25
+r;419493741;144229;15329869;11;25
+r;419495367;144229;15548123;11;25
+r;419497415;144229;15294380;11;25
+r;419497463;144229;15493182;11;25
+r;419497712;144229;15754721;11;25
+r;419504113;144229;16073517;11;25
+r;419505560;144229;15904140;11;25
+r;419508820;144229;15460236;11;25
+r;419515531;144229;15561382;11;25
+r;419516173;144229;15548126;11;25
+r;419516447;144229;15328153;11;25
+r;419520398;144229;15420688;11;25
+r;419520404;144229;15810616;11;25
+r;419531386;144229;15427145;11;25
+r;419553847;144229;15438230;11;25
+r;419553895;144229;15372027;11;25
+r;419554445;144229;15361240;11;25
+r;419555652;144229;15430062;11;25
+r;419557457;144229;15218866;11;25
+r;419557780;144229;15479042;11;25
+r;419561712;144229;15329883;11;25
+r;419574962;144229;15355269;11;25
+r;419575447;144229;15318166;11;25
+r;419575722;144229;15355274;11;25
+r;419575728;144229;15355276;11;25
+r;419575736;144229;15367996;11;25
+r;419582828;144229;15386034;11;25
+r;419589163;144229;15503930;11;25
+r;419589177;144229;15496927;11;25
+r;419590848;144229;15302088;11;25
+r;419606766;144229;15683950;11;25
+r;419607876;144229;15528473;11;25
+r;419614553;144229;16086767;11;25
+r;419616790;144229;15546763;11;25
+r;419616796;144229;15748643;11;25
+r;419618280;144229;16040330;11;25
+r;419628694;144229;15389386;11;25
+r;419628702;144229;15752567;11;25
+r;419628714;144229;15687488;11;25
+r;419628730;144229;15752564;11;25
+r;419628740;144229;15426386;11;25
+r;419628754;144229;15752611;11;25
+r;419628766;144229;15389389;11;25
+r;419628774;144229;15399611;11;25
+r;419630768;144229;15426399;11;25
+r;419633274;144229;16032406;11;25
+r;419636357;144229;15522386;11;25
+r;419636559;144229;15351053;11;25
+r;419636565;144229;15329859;11;25
+r;419636800;144229;15423155;11;25
+r;419636808;144229;15423153;11;25
+r;419636815;144229;15423157;11;25
+r;419636819;144229;15323175;11;25
+r;419636825;144229;15389379;11;25
+r;419636831;144229;15650745;11;25
+r;419649929;144229;15781319;11;25
+r;419657859;144229;15417663;11;25
+r;419657863;144229;15426441;11;25
+r;419657868;144229;15474160;11;25
+r;419657871;144229;15290286;11;25
+r;419657877;144229;15204398;11;25
+r;419657881;144229;15253408;11;25
+r;419657887;144229;15253407;11;25
+r;419657891;144229;15434472;11;25
+r;419657895;144229;15220959;11;25
+r;419657903;144229;15346634;11;25
+r;419657907;144229;15260359;11;25
+r;419657914;144229;15423564;11;25
+r;419657916;144229;15426422;11;25
+r;419657920;144229;16032444;11;25
+r;419657924;144229;15299725;11;25
+r;419657930;144229;15358530;11;25
+r;419657939;144229;15690527;11;25
+r;419657946;144229;15349371;11;25
+r;419657955;144229;15355267;11;25
+r;419657959;144229;15549378;11;25
+r;419657963;144229;15426431;11;25
+r;419657967;144229;15358677;11;25
+r;419657971;144229;15476853;11;25
+r;419657975;144229;15271220;11;25
+r;419657983;144229;15521207;11;25
+r;419657987;144229;15592770;11;25
+r;419657993;144229;15256872;11;25
+r;419657997;144229;15222604;11;25
+r;419658001;144229;15393397;11;25
+r;419658005;144229;15426433;11;25
+r;419658011;144229;15629789;11;25
+r;419658017;144229;15426434;11;25
+r;419658021;144229;15355271;11;25
+r;419658030;144229;15367994;11;25
+r;419658041;144229;15355273;11;25
+r;419658050;144229;15490105;11;25
+r;419658056;144229;15426437;11;25
+r;419658060;144229;15398534;11;25
+r;419658064;144229;15229358;11;25
+r;419658067;144229;15392115;11;25
+r;419658080;144229;15426439;11;25
+r;419658086;144229;15312884;11;25
+r;419658090;144229;15343877;11;25
+r;419658099;144229;15297470;11;25
+r;419658105;144229;15355847;11;25
+r;419658109;144229;15227916;11;25
+r;419658115;144229;15347515;11;25
+r;419658119;144229;15426448;11;25
+r;419658123;144229;15238252;11;25
+r;419658132;144229;15284169;11;25
+r;419658136;144229;15217499;11;25
+r;419658148;144229;15426454;11;25
+r;419658157;144229;15650746;11;25
+r;419658168;144229;15300787;11;25
+r;419658170;144229;15660464;11;25
+r;419658178;144229;15574995;11;25
+r;419658182;144229;15332139;11;25
+r;419658186;144229;15438075;11;25
+r;419658188;144229;15426457;11;25
+r;419658192;144229;15583611;11;25
+r;419658203;144229;15426458;11;25
+r;419658219;144229;15426465;11;25
+r;419658225;144229;15348790;11;25
+r;419658231;144229;15575906;11;25
+r;419658239;144229;16040889;11;25
+r;419658241;144229;15322285;11;25
+r;419658245;144229;15542349;11;25
+r;419658253;144229;15499818;11;25
+r;419658257;144229;15380125;11;25
+r;419658270;144229;15369037;11;25
+r;419658274;144229;15326852;11;25
+r;419658278;144229;15200839;11;25
+r;419658284;144229;15421400;11;25
+r;419658292;144229;15593108;11;25
+r;419658302;144229;15221197;11;25
+r;419658312;144229;15690426;11;25
+r;419658316;144229;15336734;11;25
+r;419658325;144229;15521602;11;25
+r;419658329;144229;15263196;11;25
+r;419658333;144229;15762334;11;25
+r;419658342;144229;15690524;11;25
+r;419658346;144229;15211369;11;25
+r;419658350;144229;15211366;11;25
+r;419658356;144229;15515505;11;25
+r;419658362;144229;15252071;11;25
+r;419658368;144229;15496362;11;25
+r;419658376;144229;16040888;11;25
+r;419658382;144229;15570788;11;25
+r;419658388;144229;15346140;11;25
+r;419658396;144229;15411988;11;25
+r;419658404;144229;15573738;11;25
+r;419658410;144229;15392113;11;25
+r;419658435;144229;15329808;11;25
+r;419658441;144229;15210088;11;25
+r;419658445;144229;15690441;11;25
+r;419658449;144229;16040890;11;25
+r;419664752;144229;15336725;11;25
+r;419670038;144229;15396305;11;25
+r;419670042;144229;15424866;11;25
+r;419670045;144229;15663711;11;25
+r;419670359;144229;15424923;11;25
+r;419670362;144229;15417161;11;25
+r;419670804;144229;15277641;11;25
+r;419671451;144229;15575082;11;25
+r;419671764;144229;16029462;11;25
+r;419672301;144229;15343079;11;25
+r;419691023;144229;15270504;11;25
+r;419692284;144229;15322293;11;25
+r;419692552;144229;15209110;11;25
+r;419700457;144229;16041562;11;25
+r;419720318;144229;15343073;11;25
+r;419720329;144229;15460077;11;25
+r;419720337;144229;15395443;11;25
+r;419720345;144229;16032461;11;25
+r;419720351;144229;16032462;11;25
+r;419720357;144229;15563917;11;25
+r;419720365;144229;15225080;11;25
+r;419726756;144229;15751631;11;25
+r;419733679;144229;15365360;11;25
+r;419734494;144229;15205552;11;25
+r;419735957;144229;15336731;11;25
+r;419736009;144229;15336732;11;25
+r;419749903;144229;15388022;11;25
+r;419751989;144229;15703134;11;25
+r;419751997;144229;15703139;11;25
+r;419754977;144229;15349269;11;25
+r;419759394;144229;15523083;11;25
+r;419763425;144229;15832595;11;25
+r;419763435;144229;15343072;11;25
+r;419766020;144229;15409133;11;25
+r;419766024;144229;15201257;11;25
+r;419766028;144229;15317797;11;25
+r;419770106;144229;15599184;11;25
+r;419770536;144229;15329861;11;25
+r;419772941;144229;15343076;11;25
+r;419772949;144229;15366184;11;25
+r;419776165;144229;15572771;11;25
+r;419782090;144229;15365347;11;25
+r;419789775;144229;16032517;11;25
+r;419797652;144229;15542221;11;25
+r;419800739;144229;16032523;11;25
+r;419800743;144229;16032524;11;25
+r;419800746;144229;16044058;11;25
+r;419807650;144229;15225361;11;25
+r;419810677;144229;15387719;11;25
+r;419836926;144229;15316824;11;25
+r;419837604;144229;15435497;11;25
+r;419837608;144229;15436750;11;25
+r;419837612;144229;15234885;11;25
+r;419837616;144229;15220955;11;25
+r;419837620;144229;15441385;11;25
+r;419837624;144229;15574792;11;25
+r;419839403;144229;15325601;11;25
+r;419843428;144229;16044475;11;25
+r;419844539;144229;15395174;11;25
+r;424018462;144229;16170168;11;25
+r;432823946;144229;16385123;11;25
+r;262217864;144229;10144187;11;26
+r;282721538;144229;11129540;11;26
+r;298879626;144229;6295462;11;26
+r;300123641;144229;6322466;11;26
+r;315726378;144229;12118150;11;26
+r;347392700;144229;13682854;11;26
+r;359706457;144229;14159521;11;26
+r;360763384;144229;14205873;11;26
+r;360763525;144229;14205891;11;26
+r;360852026;144229;14208524;11;26
+r;360974541;144229;14221935;11;26
+r;368169665;144229;14488409;11;26
+r;368173960;144229;14488631;11;26
+r;368613099;144229;14530402;11;26
+r;368613351;144229;14530421;11;26
+r;368676539;144229;14531687;11;26
+r;368752236;144229;14535504;11;26
+r;369511817;144229;14538950;11;26
+r;370560141;144229;14584118;11;26
+r;370714088;144229;14589862;11;26
+r;371743473;144229;14635321;11;26
+r;374002002;144229;14715180;11;26
+r;374214970;144229;14717660;11;26
+r;374320432;144229;14723007;11;26
+r;374351301;144229;14724424;11;26
+r;374542278;144229;14731063;11;26
+r;375040080;144229;14753371;11;26
+r;375392086;144229;14769900;11;26
+r;391277055;144229;14972044;11;26
+r;400736446;144229;15627999;11;26
+r;395312087;144229;15423160;11;26
+r;395367952;144229;15426387;11;26
+r;419491311;144229;15358536;11;26
+r;419491451;144229;15395176;11;26
+r;419589169;144229;15503937;11;26
+r;419618272;144229;15366191;11;26
+r;419640178;144229;15204201;11;26
+r;419657979;144229;15204193;11;26
+r;419658207;144229;15417669;11;26
+r;419658213;144229;15204190;11;26
+r;419658420;144229;15319802;11;26
+r;419658431;144229;15204188;11;26
+r;423609947;144229;16163592;11;26
+r;114455066;144229;5792896;11;27
+r;343043550;144229;13519849;11;27
+r;371743484;144229;14635322;11;28
+r;29134465;144229;1773187;11;29
+r;93662648;144229;3757821;11;29
+r;112665971;144229;5725677;11;29
+r;333983701;144229;12992123;11;29
+r;54588249;144229;2426535;11;30
+r;310672619;144229;589234;11;30
+r;220912811;144229;9960991;11;31
+r;222099975;144229;9982810;11;31
+r;227659671;144229;10003640;11;31
+r;276788153;144229;10966003;11;31
+r;52036778;144229;2371703;11;32
+r;263697097;144229;10583249;11;32
+r;54477832;144229;2421210;11;33
+r;280217882;144229;11057714;11;33
+r;116582482;144229;5955112;11;34
+r;273444934;144229;10902460;11;34
+r;275368013;144229;10934847;11;34
+r;305413865;144229;11825157;11;34
+r;116577984;144229;5960810;11;35
+r;116586251;144229;5953857;11;35
+r;227605491;144229;10040353;11;35
+r;279261040;144229;11025190;11;35
+r;314137953;144229;12068955;11;35
+r;417031753;144229;15472444;11;35
+r;117910351;144229;5980998;11;36
+r;279320336;144229;11021021;11;36
+r;279320338;144229;11021020;11;36
+r;294339586;144229;11442746;11;36
+r;313730333;144229;12051149;11;36
+r;315094401;144229;12077388;11;36
+r;53323173;144229;2401946;11;37
+r;54993443;144229;2431761;11;37
+r;118534638;144229;6002384;11;37
+r;275812400;144229;10954068;11;37
+r;271767045;144229;10848801;11;37
+r;243201239;144229;10195486;11;38
+r;275284626;144229;10937013;11;38
+r;53180472;144229;2394209;11;39
+r;55882510;144229;2471726;11;39
+r;255391538;144229;10421417;11;39
+r;269375891;144229;10753463;11;39
+r;54605329;144229;2427104;11;40
+r;269373669;144229;10754410;11;40
+r;278739017;144229;11002201;11;40
+r;50775568;144229;2369021;11;41
+r;52485259;144229;2480998;11;41
+r;55279239;144229;2442038;11;41
+r;109882768;144229;5554290;11;41
+r;278333892;144229;11003582;11;41
+r;308695439;144229;11958606;11;41
+r;292419958;144229;11388014;11;41
+r;52485185;144229;2481135;11;42
+r;54441850;144229;2419310;11;42
+r;256487118;144229;10427465;11;42
+r;261003388;144229;10498675;11;42
+r;261017225;144229;10459473;11;42
+r;287736131;144229;11222129;11;42
+r;414847577;144229;15322070;11;42
+r;238929288;144229;10175822;11;43
+r;278155183;144229;11000936;11;43
+r;52208138;144229;2374283;11;44
+r;238101650;144229;10160024;11;44
+r;54402087;144229;2417121;11;45
+r;52096953;144229;2373122;11;46
+r;53078441;144229;2389269;11;46
+r;54976979;144229;2431240;11;46
+r;256308239;144229;10429843;11;46
+r;55572522;144229;2455041;11;47
+r;55809858;144229;2467863;11;47
+r;117684950;144229;5991152;11;47
+r;50653178;144229;2368273;11;48
+r;50158471;144229;2360939;11;48
+r;50192422;144229;2362656;11;48
+r;52243652;144229;2379732;11;48
+r;55753607;144229;2464822;11;48
+r;59706235;144229;2479394;11;48
+r;50270154;144229;2364850;11;49
+r;50649874;144229;2368231;11;50
+r;54461833;144229;2420438;11;50
+r;55360825;144229;2445790;11;50
+r;55568942;144229;2454871;11;50
+r;55581185;144229;2455399;11;50
+r;397134665;144229;15481393;11;50
+r;397134502;144229;15502468;11;50
+r;183022530;144229;8785574;11;50
+r;183023191;144229;8779402;11;50
+r;183023424;144229;8777124;11;50
+r;191787214;144229;8893591;11;50
+r;193805499;144229;8964757;11;50
+r;218306188;144229;9769934;11;50
+r;218306274;144229;9769933;11;50
+r;282453738;144229;11122497;11;50
+r;282453740;144229;11122496;11;50
+r;397497154;144229;15329865;11;50
+r;320920366;144229;12484493;11;50
+r;323068609;144229;12617305;11;50
+r;324937434;144229;12617306;11;50
+r;327322412;144229;12728579;11;50
+r;412530473;144229;15752113;11;50
+r;397498875;144229;15489302;11;50
+r;397500023;144229;15358538;11;50
+r;402105570;144229;15480143;11;50
+r;402106606;144229;15215697;11;50
+r;402108256;144229;15329889;11;50
+r;402108222;144229;15257394;11;50
+r;402105220;144229;15376366;11;50
+r;402107666;144229;15571618;11;50
+r;397505118;144229;15423255;11;50
+r;402120716;144229;15374123;11;50
+r;402102576;144229;15343062;11;50
+r;402102580;144229;15403745;11;50
+r;402102740;144229;15358540;11;50
+r;402106720;144229;15236992;11;50
+r;402121566;144229;15323288;11;50
+r;402151447;144229;15380211;11;50
+r;395010809;144229;15387720;11;50
+r;395011225;144229;15329877;11;50
+r;395011257;144229;15211915;11;50
+r;395011261;144229;15299332;11;50
+r;395011267;144229;15269487;11;50
+r;395011473;144229;15329885;11;50
+r;395567018;144229;15426377;11;50
+r;395582749;144229;15419041;11;50
+r;397847655;144229;15527936;11;50
+r;397848354;144229;15523760;11;50
+r;398435452;144229;15549609;11;50
+r;398435615;144229;15542310;11;50
+r;398435643;144229;15548304;11;50
+r;398503055;144229;15543465;11;50
+r;402105374;144229;15366181;11;50
+r;402273131;144229;15329872;11;50
+r;402273933;144229;15253997;11;50
+r;405570341;144229;15683461;11;50
+r;405571877;144229;15685521;11;50
+r;20710114;144229;965522;11;51
+r;22395598;144229;1212979;11;51
+r;27698398;144229;1668523;11;51
+r;52442542;144229;2571795;11;51
+r;52457271;144229;2540701;11;51
+r;52476046;144229;2500748;11;51
+r;52477642;144229;2497272;11;51
+r;53132545;144229;2581251;11;51
+r;54270771;144229;2412237;11;51
+r;55463342;144229;2604138;11;51
+r;55465090;144229;2604234;11;51
+r;77263884;144229;3185622;11;51
+r;86130757;144229;3359457;11;51
+r;86165321;144229;3368060;11;51
+r;86168197;144229;3367692;11;51
+r;93665745;144229;3757481;11;51
+r;93682320;144229;3755694;11;51
+r;93702555;144229;3753643;11;51
+r;105120205;144229;5064515;11;51
+r;105813972;144229;5125845;11;51
+r;106700335;144229;5300010;11;51
+r;14177288;144229;396503;11;52
+r;18395227;144229;586250;11;52
+r;33216412;144229;2319985;11;52
+r;33216516;144229;2319986;11;52
+r;50060922;144229;2358288;11;52
+r;52452531;144229;2550416;11;52
+r;55473839;144229;2604687;11;52
+r;77015695;144229;3183889;11;52
+r;85824776;144229;3348178;11;52
+r;86185030;144229;3365717;11;52
+r;16130209;144229;455881;11;53
+r;23228456;144229;1364669;11;53
+r;29527644;144229;1804907;11;53
+r;50187834;144229;2362442;11;53
+r;52449330;144229;2557102;11;53
+r;52482799;144229;2486230;11;53
+r;52504559;144229;2535840;11;53
+r;55478865;144229;2605013;11;53
+r;55499120;144229;2606116;11;53
+r;77013931;144229;3183888;11;53
+r;77271483;144229;3185727;11;53
+r;86224875;144229;3359942;11;53
+r;104348329;144229;5002317;11;53
+r;104417745;144229;5003272;11;53
+r;106705522;144229;5300011;11;53
+r;17806554;144229;575053;11;54
+r;18393645;144229;586175;11;54
+r;18493582;144229;589276;11;54
+r;20712291;144229;965521;11;54
+r;20717809;144229;966318;11;54
+r;22396260;144229;1212980;11;54
+r;25280330;144229;1570383;11;54
+r;33951542;144229;2328501;11;54
+r;34509199;144229;2345280;11;54
+r;52456220;144229;2542777;11;54
+r;52466502;144229;2521018;11;54
+r;93664645;144229;3757598;11;54
+r;93715054;144229;3752287;11;54
+r;105865842;144229;5134043;11;54
+r;16411031;144229;465505;11;55
+r;18395283;144229;586253;11;55
+r;18494026;144229;589277;11;55
+r;18635016;144229;594238;11;55
+r;28435647;144229;1731110;11;55
+r;34488236;144229;2344050;11;55
+r;34509894;144229;2345282;11;55
+r;38775786;144229;2354417;11;55
+r;52458549;144229;2537910;11;55
+r;52462052;144229;2530760;11;55
+r;52480608;144229;2490803;11;55
+r;52490676;144229;2561539;11;55
+r;54323946;144229;2587393;11;55
+r;55465543;144229;2604274;11;55
+r;58032976;144229;2612818;11;55
+r;77013221;144229;3183877;11;55
+r;77014370;144229;3183878;11;55
+r;77092170;144229;3184594;11;55
+r;86184074;144229;3365815;11;55
+r;86190064;144229;3365230;11;55
+r;93630813;144229;3751386;11;55
+r;93696705;144229;3754239;11;55
+r;105076245;144229;5059692;11;55
+r;105116683;144229;5064514;11;55
+r;106891902;144229;5332111;11;55
+r;16130207;144229;455882;11;56
+r;18396065;144229;586252;11;56
+r;31437497;144229;1937724;11;56
+r;31740394;144229;1969971;11;56
+r;31861198;144229;1974581;11;56
+r;32077217;144229;1978278;11;56
+r;34374989;144229;2341180;11;56
+r;68960908;144229;2844292;11;56
+r;77018825;144229;3183887;11;56
+r;86184082;144229;3365814;11;56
+r;93676755;144229;3756276;11;56
+r;93690186;144229;3754950;11;56
+r;104417733;144229;5003271;11;56
+r;17092873;144229;567345;11;57
+r;18395204;144229;586251;11;57
+r;18397927;144229;586298;11;57
+r;28258022;144229;1712896;11;57
+r;28326452;144229;1725674;11;57
+r;29102301;144229;1770692;11;57
+r;31503564;144229;1948509;11;57
+r;83449079;144229;3314182;11;57
+r;86182641;144229;3365963;11;57
+r;86220576;144229;3373272;11;57
+r;92518484;144229;3706546;11;57
+r;93662521;144229;3757832;11;57
+r;93669533;144229;3757072;11;57
+r;20716182;144229;966317;11;58
+r;30321484;144229;1873773;11;58
+r;52450479;144229;2554808;11;58
+r;52451179;144229;2553224;11;58
+r;52510231;144229;2524780;11;58
+r;55479246;144229;2605043;11;58
+r;76251283;144229;3170691;11;58
+r;77091880;144229;3184595;11;58
+r;77279996;144229;3185855;11;58
+r;77711965;144229;3225622;11;58
+r;83450454;144229;3314181;11;58
+r;92540918;144229;3707550;11;58
+r;96502708;144229;4309857;11;58
+r;16437306;144229;465723;11;59
+r;16437302;144229;465724;11;59
+r;18635113;144229;594239;11;59
+r;27808493;144229;1679216;11;59
+r;50066211;144229;2359196;11;59
+r;50172727;144229;2361838;11;59
+r;55485299;144229;2605353;11;59
+r;77263712;144229;3185621;11;59
+r;77271653;144229;3185728;11;59
+r;77280018;144229;3185856;11;59
+r;86148879;144229;3369984;11;59
+r;93585365;144229;3751012;11;59
+r;93687055;144229;3755298;11;59
+r;93694632;144229;3754463;11;59
+r;93700594;144229;3753845;11;59
+r;95155926;144229;4193527;11;59
+r;106843420;144229;5323543;11;59
+r;17806476;144229;575054;11;60
+r;28135062;144229;1704279;11;60
+r;28257996;144229;1712897;11;60
+r;31631408;144229;1964498;11;60
+r;52445275;144229;2566092;11;60
+r;52473586;144229;2506091;11;60
+r;52520832;144229;2505392;11;60
+r;52659611;144229;2572320;11;60
+r;76485964;144229;3175272;11;60
+r;93668835;144229;3757149;11;60
+r;93696595;144229;3754250;11;60
+r;96502938;144229;4309858;11;60
+r;30651685;144229;1902108;11;63
+r;72941575;144229;2953567;11;63
+r;29527311;144229;1804908;11;66
+r;75954935;144229;3158909;11;66
+r;13690981;144229;394015;11;76
+r;12580633;144229;380205;11;101
+r;12584827;144229;379190;11;101
+r;12680245;144229;355726;11;101
+r;12702425;144229;350203;11;101
+r;12716761;144229;346670;11;101
+r;12718867;144229;346288;11;101
+r;12746837;144229;339640;11;101
+r;12746957;144229;339620;11;101
+r;12747285;144229;339551;11;101
+r;12747339;144229;339539;11;101
+r;12747407;144229;339523;11;101
+r;12709187;144229;348507;11;102
+r;12718861;144229;346289;11;102
+r;12746709;144229;339670;11;102
+r;12747191;144229;339567;11;102
+r;12747297;144229;339548;11;102
+r;12747359;144229;339534;11;102
+r;12747391;144229;339527;11;102
+r;12593107;144229;377216;11;103
+r;12668587;144229;358565;11;103
+r;12747301;144229;339547;11;103
+r;12747305;144229;339546;11;103
+r;12747325;144229;339542;11;103
+r;12747355;144229;339535;11;103
+r;12747399;144229;339525;11;103
+r;12596091;144229;376461;11;104
+r;12600507;144229;375352;11;104
+r;12702405;144229;350206;11;104
+r;12720551;144229;345977;11;104
+r;12746969;144229;339618;11;104
+r;12747183;144229;339568;11;104
+r;12747197;144229;339566;11;104
+r;12747209;144229;339564;11;104
+r;12747329;144229;339541;11;104
+r;12747379;144229;339529;11;104
+r;12564531;144229;384240;11;105
+r;12702413;144229;350205;11;105
+r;12702421;144229;350204;11;105
+r;12702433;144229;350201;11;105
+r;12717593;144229;346509;11;105
+r;12718855;144229;346290;11;105
+r;12746963;144229;339619;11;105
+r;12747177;144229;339569;11;105
+r;12747233;144229;339560;11;105
+r;12747241;144229;339559;11;105
+r;12747249;144229;339558;11;105
+r;12747267;144229;339555;11;105
+r;12747281;144229;339552;11;105
+r;12747351;144229;339536;11;105
+r;12747375;144229;339530;11;105
+r;12747395;144229;339526;11;105
+r;12749873;144229;338932;11;105
+r;13070430;144229;391641;11;105
+r;12558765;144229;385636;11;106
+r;12686215;144229;354240;11;106
+r;12747203;144229;339565;11;106
+r;12747217;144229;339563;11;106
+r;12747255;144229;339557;11;106
+r;12747273;144229;339554;11;106
+r;12747321;144229;339543;11;106
+r;12747343;144229;339538;11;106
+r;12747347;144229;339537;11;106
+r;12767359;144229;334578;11;106
+r;12546939;144229;388742;11;107
+r;12558925;144229;385590;11;107
+r;12582399;144229;379768;11;107
+r;12716753;144229;346672;11;107
+r;12731239;144229;343348;11;107
+r;12746861;144229;339635;11;107
+r;12747261;144229;339556;11;107
+r;12747333;144229;339540;11;107
+r;12747363;144229;339533;11;107
+r;12747371;144229;339531;11;107
+r;12747385;144229;339528;11;107
+r;12762185;144229;335873;11;107
+r;12582585;144229;379722;11;108
+r;12584835;144229;379189;11;108
+r;12616231;144229;371497;11;108
+r;12702429;144229;350202;11;108
+r;12717587;144229;346510;11;108
+r;12746731;144229;339666;11;108
+r;12746869;144229;339634;11;108
+r;12747229;144229;339561;11;108
+r;12749335;144229;339065;11;108
+r;12598661;144229;375803;11;109
+r;12620315;144229;370531;11;109
+r;12746717;144229;339669;11;109
+r;12747289;144229;339550;11;109
+r;12747293;144229;339549;11;109
+r;12628421;144229;368496;11;110
+r;12683151;144229;355001;11;110
+r;12716757;144229;346671;11;110
+r;12718873;144229;346287;11;110
+r;12746723;144229;339668;11;110
+r;12746727;144229;339667;11;110
+r;12746819;144229;339644;11;110
+r;12747221;144229;339562;11;110
+r;12747277;144229;339553;11;110
+r;12747313;144229;339545;11;110
+r;12747317;144229;339544;11;110
+r;12747367;144229;339532;11;110
+r;12747403;144229;339524;11;110
+r;12063597;144229;331055;11;113
+r;11867130;144229;75929;11;121
+r;11867170;144229;75573;11;121
+r;11870983;144229;49583;11;121
+r;11875603;144229;18453;11;121
+r;11854346;144229;177198;11;122
+r;9066130;144229;321112;11;148
+r;9066132;144229;321113;11;148
+r;9069609;144229;321444;11;148
+r;9077587;144229;321628;11;148
+r;9077589;144229;321629;11;148
+r;9077610;144229;321654;11;148
+r;9077616;144229;321666;11;148
+r;9082547;144229;321904;11;148
+r;9084644;144229;321936;11;148
+r;11761882;144229;329983;11;148
+r;11824294;144229;330198;11;148
+r;8875649;144229;170241;11;152
+r;8701062;144229;232589;11;160
+r;8701842;144229;233989;11;160
+r;8708035;144229;243459;11;160
+r;8714578;144229;251045;11;160
+r;8720320;144229;255820;11;160
+r;8720346;144229;255836;11;160
+r;8720845;144229;256168;11;160
+r;8722760;144229;257534;11;160
+r;8723718;144229;258215;11;160
+r;8723721;144229;258216;11;160
+r;8725746;144229;259552;11;160
+r;8605100;144229;102762;11;161
+r;8605139;144229;102922;11;161
+r;8605644;144229;104255;11;161
+r;8607573;144229;109303;11;161
+r;8680675;144229;207733;11;161
+r;8680983;144229;207890;11;161
+r;8683726;144229;209486;11;161
+r;8684802;144229;210114;11;161
+r;8685166;144229;210394;11;161
+r;8687463;144229;212039;11;161
+r;8690223;144229;216238;11;161
+r;8694124;144229;223025;11;161
+r;8695263;144229;224880;11;161
+r;8695986;144229;226199;11;161
+r;8696517;144229;226888;11;161
+r;8697548;144229;228532;11;161
+r;8698505;144229;229794;11;161
+r;8699266;144229;230730;11;161
+r;8699267;144229;230731;11;161
+r;8700659;144229;232195;11;161
+r;8700967;144229;232498;11;161
+r;8700971;144229;232501;11;161
+r;8700972;144229;232502;11;161
+r;8700974;144229;232503;11;161
+r;8702845;144229;235153;11;161
+r;8703025;144229;235436;11;161
+r;8703348;144229;235766;11;161
+r;8703706;144229;236213;11;161
+r;8703841;144229;236381;11;161
+r;8706816;144229;240826;11;161
+r;8707039;144229;241302;11;161
+r;8710413;144229;246882;11;161
+r;8711051;144229;247574;11;161
+r;8713945;144229;250572;11;161
+r;8714193;144229;250768;11;161
+r;8714644;144229;251104;11;161
+r;8715518;144229;251921;11;161
+r;8715934;144229;252352;11;161
+r;8716746;144229;253100;11;161
+r;8719427;144229;255138;11;161
+r;8720431;144229;255882;11;161
+r;8720511;144229;255941;11;161
+r;8720965;144229;256264;11;161
+r;8722867;144229;257611;11;161
+r;8724241;144229;258565;11;161
+r;8725758;144229;259561;11;161
+r;8730084;144229;263004;11;161
+r;8730226;144229;263118;11;161
+r;8730325;144229;263188;11;161
+r;8811986;144229;313750;11;161
+r;8580087;144229;30309;11;162
+r;8580424;144229;31466;11;162
+r;8585285;144229;45888;11;162
+r;8588308;144229;54290;11;162
+r;8590850;144229;61463;11;162
+r;8592894;144229;67615;11;162
+r;8597124;144229;80092;11;162
+r;8599062;144229;85620;11;162
+r;8601129;144229;91412;11;162
+r;8605005;144229;102478;11;162
+r;8605108;144229;102809;11;162
+r;8605151;144229;102961;11;162
+r;8605742;144229;104538;11;162
+r;8606389;144229;106288;11;162
+r;8607126;144229;108162;11;162
+r;8607624;144229;109409;11;162
+r;8608236;144229;111229;11;162
+r;8608672;144229;112383;11;162
+r;8609151;144229;113732;11;162
+r;8610094;144229;116298;11;162
+r;8610181;144229;116576;11;162
+r;8610404;144229;117225;11;162
+r;8613855;144229;126975;11;162
+r;8619443;144229;139960;11;162
+r;8623383;144229;153524;11;162
+r;8623767;144229;154167;11;162
+r;8626681;144229;160003;11;162
+r;8626701;144229;160032;11;162
+r;8627119;144229;160872;11;162
+r;8627281;144229;161137;11;162
+r;8627373;144229;161288;11;162
+r;8627569;144229;161648;11;162
+r;8627706;144229;161910;11;162
+r;8628126;144229;162856;11;162
+r;8628194;144229;163005;11;162
+r;8628506;144229;163615;11;162
+r;8628690;144229;163962;11;162
+r;8629063;144229;164538;11;162
+r;8629302;144229;164866;11;162
+r;8629306;144229;164873;11;162
+r;8629722;144229;165694;11;162
+r;8629727;144229;165701;11;162
+r;8630024;144229;166223;11;162
+r;8633829;144229;171379;11;162
+r;8633831;144229;171380;11;162
+r;8633935;144229;171471;11;162
+r;8634152;144229;171676;11;162
+r;8644298;144229;184934;11;162
+r;8671337;144229;202056;11;162
+r;8672388;144229;202710;11;162
+r;8672390;144229;202711;11;162
+r;8672392;144229;202712;11;162
+r;8672680;144229;202896;11;162
+r;8673818;144229;203574;11;162
+r;8679926;144229;207254;11;162
+r;8686682;144229;211445;11;162
+r;8686702;144229;211464;11;162
+r;8687648;144229;212165;11;162
+r;8689378;144229;214531;11;162
+r;8733323;144229;265644;11;162
+r;8735409;144229;267479;11;162
+r;8574020;144229;12138;11;163
+r;8575287;144229;15977;11;163
+r;8575508;144229;16636;11;163
+r;8575526;144229;16700;11;163
+r;8576826;144229;21024;11;163
+r;8580255;144229;30953;11;163
+r;8580439;144229;31506;11;163
+r;8580458;144229;31580;11;163
+r;8580701;144229;32407;11;163
+r;8582882;144229;38806;11;163
+r;8584789;144229;44441;11;163
+r;8584850;144229;44621;11;163
+r;8584890;144229;44761;11;163
+r;8588736;144229;55494;11;163
+r;8588861;144229;55865;11;163
+r;8592721;144229;67208;11;163
+r;8593580;144229;69707;11;163
+r;8593694;144229;70073;11;163
+r;8594665;144229;72868;11;163
+r;8594669;144229;72877;11;163
+r;8597898;144229;82347;11;163
+r;8599280;144229;86233;11;163
+r;8600152;144229;88703;11;163
+r;8600672;144229;90208;11;163
+r;8601042;144229;91178;11;163
+r;8612488;144229;123251;11;163
+r;8614559;144229;128971;11;163
+r;8614630;144229;129201;11;163
+r;8615478;144229;131562;11;163
+r;8615892;144229;132628;11;163
+r;8620534;144229;142369;11;163
+r;8622848;144229;152593;11;163
+r;8623513;144229;153744;11;163
+r;8624810;144229;156012;11;163
+r;8624950;144229;156204;11;163
+r;8626152;144229;159177;11;163
+r;8626203;144229;159234;11;163
+r;8634953;144229;174382;11;163
+r;8635144;144229;175328;11;163
+r;8637943;144229;181195;11;163
+r;8637950;144229;181197;11;163
+r;8637951;144229;181198;11;163
+r;8637953;144229;181199;11;163
+r;8644227;144229;184897;11;163
+r;8644229;144229;184898;11;163
+r;8645973;144229;186056;11;163
+r;8646079;144229;186111;11;163
+r;8647221;144229;186624;11;163
+r;8647224;144229;186625;11;163
+r;8650457;144229;188901;11;163
+r;8651223;144229;189392;11;163
+r;8659781;144229;195350;11;163
+r;8661122;144229;196223;11;163
+r;8661124;144229;196224;11;163
+r;8661408;144229;196422;11;163
+r;8674096;144229;203726;11;163
+r;8674762;144229;204075;11;163
+r;8675701;144229;204653;11;163
+r;8677977;144229;206128;11;163
+r;8678011;144229;206157;11;163
+r;8678113;144229;206238;11;163
+r;8678678;144229;206583;11;163
+r;8733132;144229;265491;11;163
+r;8733947;144229;266321;11;163
+r;8734471;144229;266761;11;163
+r;8735412;144229;267480;11;163
+r;8735526;144229;267623;11;163
+r;8736787;144229;268953;11;163
+r;8737220;144229;269547;11;163
+r;8739118;144229;271577;11;163
+r;8742824;144229;274922;11;163
+r;8747894;144229;280486;11;163
+r;8748768;144229;281419;11;163
+r;8751579;144229;284411;11;163
+r;8752763;144229;285592;11;163
+r;8773941;144229;308225;11;163
+r;8578065;144229;24473;11;164
+r;8616684;144229;134875;11;164
+r;8617846;144229;137325;11;164
+r;8644795;144229;185540;11;164
+r;8644798;144229;185541;11;164
+r;8645631;144229;185890;11;164
+r;8645777;144229;185957;11;164
+r;8646188;144229;186166;11;164
+r;8646208;144229;186173;11;164
+r;8647681;144229;186882;11;164
+r;8651954;144229;189890;11;164
+r;8653593;144229;191152;11;164
+r;8654210;144229;191698;11;164
+r;8660521;144229;195864;11;164
+r;8661434;144229;196433;11;164
+r;8661437;144229;196434;11;164
+r;8661440;144229;196435;11;164
+r;8661443;144229;196436;11;164
+r;8661446;144229;196437;11;164
+r;8662171;144229;196716;11;164
+r;8662741;144229;197034;11;164
+r;8662745;144229;197035;11;164
+r;8662747;144229;197036;11;164
+r;8662749;144229;197037;11;164
+r;8662754;144229;197039;11;164
+r;8662756;144229;197040;11;164
+r;8662758;144229;197041;11;164
+r;8662762;144229;197043;11;164
+r;8662764;144229;197044;11;164
+r;8662766;144229;197045;11;164
+r;8662768;144229;197046;11;164
+r;8662770;144229;197047;11;164
+r;8662772;144229;197048;11;164
+r;8662774;144229;197049;11;164
+r;8662776;144229;197050;11;164
+r;8662778;144229;197051;11;164
+r;8662780;144229;197052;11;164
+r;8664884;144229;198317;11;164
+r;8664886;144229;198318;11;164
+r;8667367;144229;199849;11;164
+r;8667424;144229;199886;11;164
+r;8667426;144229;199887;11;164
+r;8778141;144229;311964;11;164
+r;8575558;144229;16887;11;165
+r;8575676;144229;17248;11;165
+r;8575812;144229;17743;11;165
+r;8668194;144229;200316;11;165
+r;8668197;144229;200317;11;165
+r;8572048;144229;6233;11;166
+r;8571748;144229;5419;11;168
+r;8573123;144229;9580;11;168
+r;8573391;144229;10338;11;168
+r;260450;144229;160531;11;188
+r;8688897;144229;213594;11;298
+r;8624665;144229;155769;11;300
+r;8628583;144229;163754;11;300
+r;8637947;144229;181196;11;302
+r;8637955;144229;181200;11;302
+r;8661449;144229;196438;11;304
+r;13094054;57895;144229;11;51

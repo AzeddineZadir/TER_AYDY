@@ -1,0 +1,128 @@
+
+e;398592;'cet';1;50
+e;14433214;'Le titre de cet article n'est pas conforme aux conventions sur les titres';777;0
+e;14590465;'Les 10 communes françaises comptant le plus de foyers assujettis à cet impôt en 2008 sont';777;0
+e;15013795;'Ouvrages utilisés pour la rédaction de cet article';777;0
+e;14380606;'Je ne connais pas cet homme';777;0
+e;15210235;'dès cet automne';1;0
+e;15393522;'dès cet hiver';1;0
+e;15451698;'emplacement réservé à cet effet';1;0
+e;10003793;'Suivez cet homme';777;0
+e;15789459;'dans cet arrêt';1;0
+e;16326132;'c'est dans cet ordre de grandeur';1;0
+e;15547237;'cet accord est conclu';1;0
+e;15529565;'cet après MIDI même';1;0
+e;15246104;'cet après-midi même';1;0
+e;15306069;'cet espèce de petit vicieux';1;0
+e;15202007;'cet hiver';1;0
+e;15271786;'cet imbécile de Paul';1;0
+e;5713499;'le fait de mesurer un état détruit cet état';777;0
+e;5838156;'cette famille et cet ordre n'existent pas';777;0
+e;11350828;'cet ordre n'est plus pertinent';777;0
+e;16258268;'La forme de cet article n'est pas encyclopédique et ressemble trop à un catalogue de vente';777;0
+e;15192610;'Nous avons discuté sérieusement de cet épineux problème.';1;0
+e;15256498;'Tu nous a infligé la présence de cet affreux Victor.';1;0
+e;15297874;'Un défilé de mode époustouflant figure à cet événement exceptionnel.';1;0
+e;15298198;'Vous avez déjà chanté cet air-là?';1;0
+e;16166915;'Pâques est célébré le dimanche qui suit le quatorzième jour de la lune qui atteint cet âge au 21 mars ou immédiatement après';777;0
+e;16378175;'Trois DTU concernent cet aléa';777;0
+e;10849646;'seconde partie de cet article';777;0
+e;13666246;'Le contenu de cet article est peut-être sujet à caution et doit absolument être sourcé';777;0
+e;5534981;'améliorer cet article';777;0
+e;11151233;'cet ordre n'existe plus';777;0
+e;12053205;'société d'Ancien Régime désigne dans cet article le mode d'organisation sociale qui a prévalu dans le royaume de France de la fin du XVIe siècle à la fin du XVIIIe siècle. L''Ancien Régime';777;0
+e;6684751;'à améliorer rapidement cet article en respectant ces conseils';777;0
+e;12773278;'La typographie de cet article ne respecte pas les conventions de Wikipédia';777;0
+e;2364193;'cet habit fait peur aux larrons, il montre la corde';1;0
+e;12640670;'La pertinence du contenu de cet article est remise en cause';777;0
+e;12640765;'La neutralité de cet article est controversée';777;0
+e;15693896;'Il a sérieusement besoin de cet argent.';1;0
+e;15279330;'J'entends bien récupérer cet argent.';1;0
+e;15252069;'J'ai découpé cet article dans le journal.';1;0
+e;15237924;'J'ai travaillé comme serveuse cet été.';1;0
+e;15478206;'Désolé, nous ne faisons plus cet article.';1;0
+e;15787975;'Je vais en France cet été.';1;0
+e;15951278;'Il ne faudrait pas une si prodigieuse diversité de lois pour gouverner les hommes. Celle de Dieu suffirait à elle seule pour cet effet';777;0
+e;16072685;'Dans cet arrêt';1;0
+e;573968;'Écouter cet article';777;50
+e;1355683;'Une grande partie de cet article provient de la traduction de l'article anglais';777;0
+e;294714;'cet ordre n'existe pas';777;50
+e;388149;'à cet instant précis';1;50
+e;350287;'en cet instant';1;50
+e;197419;'cet après-midi';1;50
+e;20239;'Mon père, cet étranger';1;50
+e;1780900;'à cet endroit là';1;0
+e;107988;'à cet égard';1;50
+e;12713;'à cet effet';1;50
+e;244079;'vu sous cet angle';1;50
+e;163481;'à cet instant';1;50
+e;12495;'sur cet article';1;50
+e;346067;'dans cet ordre';1;50
+e;187308;'de cet acabit';1;50
+e;5137841;'cet après-midi-là';1;0
+e;121671;'à cet endroit';1;52
+e;73174;'pour cet effet';1;50
+r;366520337;398592;14433214;11;25
+r;370782667;398592;14590465;11;25
+r;392137134;398592;15013795;11;26
+r;402272835;398592;14380606;11;26
+r;419803259;398592;15210235;11;30
+r;419803263;398592;15393522;11;30
+r;419835348;398592;15451698;11;30
+r;227658811;398592;10003793;11;31
+r;410441179;398592;15789459;11;31
+r;434376548;398592;16326132;11;31
+r;419696295;398592;15547237;11;32
+r;419696301;398592;15529565;11;32
+r;419696307;398592;15246104;11;32
+r;419696315;398592;15306069;11;32
+r;419696323;398592;15202007;11;32
+r;419696327;398592;15271786;11;32
+r;112173934;398592;5713499;11;33
+r;114013832;398592;5838156;11;33
+r;290907500;398592;11350828;11;33
+r;434347929;398592;16258268;11;34
+r;419514543;398592;15192610;11;34
+r;419555662;398592;15256498;11;34
+r;419557555;398592;15297874;11;34
+r;419561880;398592;15298198;11;34
+r;425017541;398592;16166915;11;34
+r;432697906;398592;16378175;11;34
+r;271836809;398592;10849646;11;35
+r;347176871;398592;13666246;11;37
+r;109531705;398592;5534981;11;38
+r;283485251;398592;11151233;11;38
+r;313743803;398592;12053205;11;40
+r;122645936;398592;6684751;11;42
+r;327757644;398592;12773278;11;47
+r;50252397;398592;2364193;11;50
+r;323819813;398592;12640670;11;50
+r;323853004;398592;12640765;11;50
+r;412565401;398592;15693896;11;50
+r;402151323;398592;15279330;11;50
+r;402120560;398592;15252069;11;50
+r;402121608;398592;15237924;11;50
+r;397423930;398592;15478206;11;50
+r;414592534;398592;15787975;11;50
+r;416566289;398592;15951278;11;50
+r;419100238;398592;16072685;11;50
+r;17759313;398592;573968;11;51
+r;23174578;398592;1355683;11;51
+r;14241754;398592;294714;11;52
+r;14206222;398592;388149;11;54
+r;14213074;398592;350287;11;54
+r;14280783;398592;197419;11;54
+r;14326465;398592;20239;11;54
+r;18396592;398592;586268;11;54
+r;29205586;398592;1780900;11;54
+r;18396658;398592;586267;11;55
+r;14304275;398592;107988;11;56
+r;14328231;398592;12713;11;56
+r;14269199;398592;244079;11;57
+r;14291899;398592;163481;11;57
+r;14328287;398592;12495;11;57
+r;14213883;398592;346067;11;58
+r;14286273;398592;187308;11;58
+r;105891381;398592;5137841;11;59
+r;14300535;398592;121671;11;60
+r;14313225;398592;73174;11;60

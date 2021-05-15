@@ -1,0 +1,144 @@
+
+e;86043;'donc';1;188
+e;13989485;'Les dates mentionnées ici ne sont donc pas celles de la cérémonie mais celles du prix';777;0
+e;14631684;'doivent donc figurer obligatoirement les marques de certification';777;0
+e;14779437;'donc Lande';777;0
+e;15782649;'Passez donc nous voir un de ces jours.';1;0
+e;15455850;'Pensez donc !';1;0
+e;15455852;'Pourquoi donc ?';1;0
+e;15455853;'Quoi donc ?';1;0
+e;15455857;'Tiens donc !';1;0
+e;15394932;'Venez donc prendre l'apéritif ce soir!';1;0
+e;15503218;'Voilà donc la solution.';1;0
+e;16035417;'allons donc';1;0
+e;15276111;'allons donc !';1;0
+e;15407473;'ben dis donc';1;0
+e;15276119;'ben dites donc';1;0
+e;15629144;'c'en est donc fait de';1;0
+e;15629145;'c'en est donc fini de';1;0
+e;15300287;'c'en est donc terminé de';1;0
+e;16042238;'comment donc';1;0
+e;15455834;'comment donc !';1;0
+e;15922372;'donc aussi';1;0
+e;15276126;'donc si';1;0
+e;15582638;'donc, pour résumer';1;0
+e;15390849;'eh ben dis donc';1;0
+e;15390851;'eh ben dites donc';1;0
+e;16155694;'les Rhètes n'y figurent donc pas';777;0
+e;14733569;'tiens donc';1;0
+e;15629109;'Le résultat enregistré en I est donc fixé avant que le photon témoin ait été détecté en J/K ou en G/H';777;0
+e;15360516;'Le bouton Gestion des filtres n'est pas disponible en mode Avancé et les filtres ne peuvent donc pas être configurés sur les hôt';1;0
+e;14655271;'Je suis donc très ennuyeux à un dîner ou une fête';777;0
+e;2604894;'cout'donc';1;0
+e;10587056;'Venez donc prendre le café chez nous';777;0
+e;11033043;'L'Animal que donc je suis';777;0
+e;9981788;'C'est donc ton frère';777;0
+e;10732805;'le kimé utilise donc autant le mouvement physique';777;0
+e;10990165;'Notable donc coupable';777;0
+e;5961660;'Mais n'te promène donc pas toute nue';777;0
+e;2406698;'mais où est donc Ornicar';1;0
+e;5804271;'Pour cette catégorie le terme bibliothèque prédomine. Cette catégorie est donc celle de la bibliothèque au sein des sciences de l'information et de la communication';777;0
+e;2439544;'ben voyons donc';1;0
+e;12053574;'Mais ou et donc ornicar';777;0
+e;14564036;'Il s'agit donc d'espèces cryptiques';777;0
+e;11385060;'Cet arbre utilise un modèle complexe. Il est donc déconseillé de le modifier sans une certaine expérience';777;0
+e;2449676;'imagine-toi donc';1;0
+e;9252076;'Mais où est donc Carnior';777;0
+e;9252075;'Mais où est donc Ornicar';777;0
+e;15690145;'Enlève donc ton manteau!';1;0
+e;15442667;'Et moi donc !';1;0
+e;15276104;'Ainsi donc,';1;0
+e;15264370;'Arrête donc de grogner!';1;0
+e;15455829;'Allons donc !';1;2
+e;15455832;'Bah dis donc !';1;0
+e;15455835;'Dis donc !';1;0
+e;15455838;'Dites donc !';1;0
+e;15491068;'Eh ben dis donc !';1;0
+e;15455843;'Eh bien dis donc !';1;0
+e;15691252;'C'est donc pour ça!';1;0
+e;15691230;'C'était donc une surprise? -- Ça oui alors!';1;0
+e;15782818;'Il n'y a donc pas de paradoxe';777;0
+e;2195174;'et donc';1;0
+e;1678323;'C'est donc abusivement que l'on emploie classifié au sens de secret';777;0
+e;3365374;'choucroute garnie de ma maman, avec astuces donc facile à faire !!!';1;0
+e;2124647;'allez donc';1;0
+e;2565713;'mais où est donc Carnior';1;0
+e;334573;'ainsi donc';1;50
+e;392955;'Mais où est donc passée la septième compagnie';777;50
+e;367550;'or donc';1;50
+e;330249;'Mais où est donc passée la septième compagnie ?';1;54
+e;156722;'mais ou et donc or ni car';1;52
+e;191246;'voyons donc';1;50
+e;198748;'dis donc';1;50
+e;198774;'dites donc';1;50
+r;352333866;86043;13989485;11;25
+r;371679476;86043;14631684;11;25
+r;375585586;86043;14779437;11;25
+r;419522937;86043;15782649;11;25
+r;419523831;86043;15455850;11;25
+r;419527310;86043;15455852;11;25
+r;419532407;86043;15455853;11;25
+r;419552714;86043;15455857;11;25
+r;419559991;86043;15394932;11;25
+r;419561549;86043;15503218;11;25
+r;419589183;86043;16035417;11;25
+r;419589187;86043;15276111;11;25
+r;419650790;86043;15407473;11;25
+r;419650796;86043;15276119;11;25
+r;419669819;86043;15629144;11;25
+r;419669823;86043;15629145;11;25
+r;419669827;86043;15300287;11;25
+r;419721611;86043;16042238;11;25
+r;419721615;86043;15455834;11;25
+r;419788714;86043;15922372;11;25
+r;419788718;86043;15276126;11;25
+r;419788720;86043;15582638;11;25
+r;419833494;86043;15390849;11;25
+r;419833502;86043;15390851;11;25
+r;423808728;86043;16155694;11;25
+r;374576563;86043;14733569;11;26
+r;400772421;86043;15629109;11;26
+r;419490872;86043;15360516;11;26
+r;372712442;86043;14655271;11;27
+r;55477271;86043;2604894;11;29
+r;263796607;86043;10587056;11;30
+r;280289189;86043;11033043;11;30
+r;222101665;86043;9981788;11;31
+r;269462776;86043;10732805;11;31
+r;277579667;86043;10990165;11;31
+r;116574444;86043;5961660;11;34
+r;53840029;86043;2406698;11;36
+r;113300033;86043;5804271;11;36
+r;55231550;86043;2439544;11;40
+r;313751583;86043;12053574;11;41
+r;370185131;86043;14564036;11;41
+r;292176060;86043;11385060;11;43
+r;55442254;86043;2449676;11;45
+r;211555880;86043;9252076;11;50
+r;211555733;86043;9252075;11;50
+r;412521870;86043;15690145;11;50
+r;397503428;86043;15442667;11;50
+r;395009357;86043;15276104;11;50
+r;395009857;86043;15264370;11;50
+r;395567059;86043;15455829;11;50
+r;395567312;86043;15455832;11;50
+r;395583709;86043;15455835;11;50
+r;395583731;86043;15455838;11;50
+r;397426275;86043;15491068;11;50
+r;397426284;86043;15455843;11;50
+r;405571889;86043;15691252;11;50
+r;405571909;86043;15691230;11;50
+r;410069868;86043;15782818;11;50
+r;33086533;86043;2195174;11;52
+r;27802033;86043;1678323;11;53
+r;86188629;86043;3365374;11;55
+r;32659530;86043;2124647;11;57
+r;52445431;86043;2565713;11;59
+r;12767379;86043;334573;11;101
+r;13249745;86043;392955;11;106
+r;12632047;86043;367550;11;107
+r;11844681;86043;330249;11;148
+r;8625254;86043;156722;11;163
+r;8653607;86043;191246;11;164
+r;8665580;86043;198748;11;165
+r;8665628;86043;198774;11;165

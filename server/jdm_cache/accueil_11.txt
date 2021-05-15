@@ -1,0 +1,324 @@
+
+e;21254;'accueil';1;410
+e;13982377;'accueil collectif de mineur';777;0
+e;14452373;'accueil éducatif de mineurs';1;0
+e;14452911;'accueil du greffe';1;0
+e;14454676;'aires d'accueil des gens du voyage';1;0
+e;14568549;'L'accueil et l'information des mineurs et des familles';777;0
+e;14594496;'personne chargée de l'accueil';1;0
+e;14631462;'La permanence de l'accueil et de la prise en charge';777;0
+e;14631461;'Un accueil adapté';777;0
+e;14670724;'urgence accueil adultes';1;0
+e;15009455;'l'accueil et l'hébergement des demandeurs d'asile';777;0
+e;14677963;'entreprise d'accueil';1;6
+e;14589820;'capacité d'accueil';1;32
+e;14874928;'lieu d'accueil';1;0
+e;6443456;'père de famille d'accueil';1;0
+e;6434197;'garde en foyer d'accueil';1;0
+e;10617653;'délégué interministériel chargé de l'accueil et de l'intégration des réfugiés';777;0
+e;16341821;'culture de l'accueil';777;0
+e;6438357;'maison d'accueil de la famille des malades';1;0
+e;6432774;'placement en foyer d'accueil';1;0
+e;10906507;'candidate pour l'accueil des Jeux olympiques d'été de 1968';777;0
+e;15333521;'des allégations de sévices sexuels sur des enfants dans les orphelinats et les maisons d'accueil';1;0
+e;15976661;'discours d'accueil';1;0
+e;16365034;'classe d'accueil';777;0
+e;9985811;'Centre d'accueil de la Presse étrangère';777;0
+e;11050491;'écran d'accueil';777;0
+e;16390427;'centre d'accueil de jour pour les personnes âgées';1;0
+e;211065;'l'accueil';1;50
+e;6439861;'unités d'accueil des urgences psychiatriques';1;0
+e;6437006;'placement d'adultes en famille d'accueil';1;0
+e;11028795;'acte d'accueil';1;0
+e;15398196;'centre d'accueil des visiteurs';1;0
+e;6446449;'frère de famille d'accueil';1;0
+e;6445808;'placement en famille d'accueil';1;0
+e;16314944;'accueil collectif à caractère éducatif';777;0
+e;16390424;'accueil de la clientèle';1;0
+e;16324399;'accueil très sympathique';1;0
+e;6438043;'structures d'accueil avec prestations d'assistance';1;0
+e;6433259;'foyers d'accueil d'orphelins';1;0
+e;11080173;'aire d'accueil pour les Gens du voyage';777;0
+e;15360792;'accueil cordial';1;0
+e;15270252;'accueil correct';1;0
+e;15338373;'accueil des plus chaleureux';1;0
+e;15341220;'accueil défavorable';1;0
+e;15338625;'accueil favorable';1;0
+e;15422955;'accueil physique';1;0
+e;15459804;'accueil royal';1;0
+e;15371580;'accueil somptueux';1;0
+e;15338371;'accueil très chaleureux';1;0
+e;15360794;'accueil très cordial';1;0
+e;15270257;'accueil très correct';1;0
+e;15341222;'accueil très défavorable';1;0
+e;15338629;'accueil très favorable';1;0
+e;15199662;'accueil très froid';1;0
+e;15253136;'accueil très glacial';1;0
+e;15376644;'accueil très mitigé';1;0
+e;15237067;'agent d'accueil';1;0
+e;15302381;'aire d'accueil';1;0
+e;15573862;'allégations de sévices sexuels sur des enfants dans les orphelinats et les maisons d'accueil';1;0
+e;1826573;'accueil de l'embryon';1;0
+e;1826574;'accueil familial de l'enfant';1;0
+e;1837992;'livret d'accueil';1;0
+e;10867911;'service minimum d'accueil dans les établissements scolaires';777;0
+e;12078746;'émission d'accueil';1;0
+e;15391941;'Mme Martin est demandée à l'accueil.';1;0
+e;1829890;'CPOA centre psychiatrique d'orientation et d'accueil';1;0
+e;12050879;'animateur d'accueil de loisirs en centre de loisirs';1;0
+e;12050881;'responsable d'accueil de loisirs';1;0
+e;12050880;'animatrice d'accueil de loisirs en centre de loisirs';1;0
+e;12076908;'accueil de loisirs';1;0
+e;6444434;'fille de famille d'accueil';1;0
+e;6443833;'foyer d'accueil pour familles de malades hospitalisés';1;0
+e;6432944;'soeur de famille d'accueil';1;0
+e;6438063;'maisons d'accueil pour personnes âgées';1;0
+e;6434927;'enfant de famille d'accueil';1;0
+e;10749539;'lieux d'accueil pour les Jeux olympiques d'hiver de 2018 et les Jeux paralympiques d'hiver de 2018';777;0
+e;6442344;'parent de famille d'accueil';1;0
+e;11249899;'Agence nationale de l'accueil des étrangers et des migrations';777;0
+e;6451961;'garde en famille d'accueil';1;0
+e;10189334;'Famille d'accueil';777;0
+e;10367257;'lieux d'accueil pour les Jeux olympiques d'hiver de 2014 et les Jeux paralympiques d'hiver de 2014';777;0
+e;11249886;'centre d'accueil de demandeurs d'asile';777;0
+e;6452007;'garde d'adulte en famille d'accueil';1;0
+e;11374410;'Service national d'accueil téléphonique pour l'enfance en danger';777;0
+e;5882842;'Centre d'accueil et d'aide aux toxicomanes et à leurs familles';777;0
+e;6451077;'conflit concernant un enfant adopté ou placé en famille d'accueil';1;0
+e;10461980;'Fédération nationale des associations d'accueil et de réadaptation sociale';777;0
+e;6449056;'garde d'adulte en foyer d'accueil';1;0
+e;6594955;'prestation d'accueil du jeune enfant';777;0
+e;6449365;'fils d'une famille d'accueil';1;0
+e;6448919;'placement d'adulte en foyer d'accueil';1;0
+e;6450819;'mère de famille d'accueil';1;0
+e;6527500;'lieux d'accueil';1;0
+e;8739410;'hall d'accueil';1;0
+e;11131383;'directeur d'un accueil collectif de mineurs';777;0
+e;11131385;'adjoint de direction en accueil collectif de mineurs';777;0
+e;11131384;'adjoint sanitaire en accueil collectif de mineurs';777;0
+e;15338369;'Ils ont reçu un accueil chaleureux.';1;0
+e;14127600;'Animateur en accueil collectif de mineurs';777;0
+e;14752885;'Foyer d'accueil médicalisé';777;0
+e;15403856;'Elle s'occupe de l'accueil des visiteurs.';1;0
+e;16072343;'Centre d'accueil';1;0
+e;598074;'service médical d'accueil';1;0
+e;598186;'accueil et le traitement des urgences';777;0
+e;1847207;'service d'accueil des urgence s';1;0
+e;598061;'service d'accueil des urgences';1;0
+e;1685751;'urgence accueil adlt';1;0
+e;1844548;'service d'accueil des urgence';1;0
+e;2497209;'faire mauvais accueil';1;0
+e;1626818;'laboratoire d'accueil';1;0
+e;2934994;'Foyer d'accueil';777;0
+e;5501838;'Les métiers de l'accueil';777;0
+e;1845353;'structure d'accueil des urgences';1;0
+e;572134;'Centre d'accueil et de recherche des Archives nationales';777;50
+e;378510;'salon d'accueil';1;50
+e;388275;'à l'accueil de';1;50
+e;333266;'accueil enthousiaste';1;50
+e;333271;'accueil réservé';1;50
+e;333267;'accueil froid';1;50
+e;333264;'accueil de la critique';1;50
+e;333272;'accueil sanitaire';1;50
+e;368792;'paroles d'accueil';1;50
+e;333276;'accueil vibrant';1;50
+e;333275;'accueil téléphonique';1;50
+e;333273;'accueil scolaire';1;50
+e;333270;'accueil mitigé';1;50
+e;333268;'accueil glacial';1;50
+e;384354;'tradition d'accueil';1;50
+e;381142;'station d'accueil';1;50
+e;362773;'maison d'accueil';1;52
+e;333274;'accueil triomphal';1;50
+e;333265;'accueil de nuit';1;50
+e;333263;'accueil de jour';1;50
+e;333269;'accueil hospitalier';1;50
+e;329776;'comité d'accueil';1;4
+e;232048;'pays d'accueil';1;50
+e;232052;'terre d'accueil';1;50
+e;232615;'famille d'accueil';1;50
+e;250067;'foyer d'accueil';1;12
+e;210360;'bureau d'accueil';1;50
+e;210384;'centre d'accueil';1;54
+e;210389;'cérémonie d'accueil';1;50
+e;210959;'hôtesse d'accueil';1;62
+e;212013;'structure d'accueil';1;58
+e;309011;'lieu de vie et d'accueil';777;50
+e;183495;'page d'accueil';1;28
+e;183704;'plage d'accueil';1;50
+e;190238;'agent d'accueil touristique';1;50
+e;239163;'accueil périscolaire';1;58
+e;246026;'accueil du client';1;10
+e;252646;'accueil chaleureux';1;52
+e;253277;'accueil frisquet';1;10
+e;254806;'accueil familial';1;50
+e;91178;'bon accueil';1;54
+e;203484;'mauvais accueil';1;50
+e;268649;'accueil collectif de mineurs';1;50
+e;273098;'accueil paysan';777;50
+e;200316;'faire bon accueil';1;50
+e;200294;'faire accueil';1;50
+r;352043328;21254;13982377;11;25
+r;366858897;21254;14452373;11;25
+r;366878411;21254;14452911;11;25
+r;366957846;21254;14454676;11;25
+r;370341822;21254;14568549;11;25
+r;370813373;21254;14594496;11;25
+r;371689284;21254;14631462;11;25
+r;371701293;21254;14631461;11;25
+r;373058808;21254;14670724;11;25
+r;391882062;21254;15009455;11;25
+r;373170349;21254;14677963;11;26
+r;370713588;21254;14589820;11;26
+r;385040095;21254;14874928;11;26
+r;121496990;21254;6443456;11;28
+r;121579963;21254;6434197;11;29
+r;266726369;21254;10617653;11;29
+r;434382171;21254;16341821;11;29
+r;121542842;21254;6438357;11;30
+r;122672865;21254;6432774;11;30
+r;274283934;21254;10906507;11;30
+r;419773593;21254;15333521;11;30
+r;419783561;21254;15976661;11;30
+r;434379415;21254;16365034;11;30
+r;222096234;21254;9985811;11;31
+r;279931858;21254;11050491;11;31
+r;434377784;21254;16390427;11;31
+r;18424977;21254;211065;11;32
+r;121529250;21254;6439861;11;32
+r;121554856;21254;6437006;11;32
+r;279446619;21254;11028795;11;32
+r;419694060;21254;15398196;11;32
+r;121470119;21254;6446449;11;33
+r;121475921;21254;6445808;11;33
+r;434368590;21254;16314944;11;33
+r;434368599;21254;16390424;11;33
+r;434368604;21254;16324399;11;33
+r;121545580;21254;6438043;11;34
+r;122668439;21254;6433259;11;34
+r;281025345;21254;11080173;11;34
+r;419570842;21254;15360792;11;34
+r;419570847;21254;15270252;11;34
+r;419570854;21254;15338373;11;34
+r;419570863;21254;15341220;11;34
+r;419570873;21254;15338625;11;34
+r;419570879;21254;15422955;11;34
+r;419570884;21254;15459804;11;34
+r;419570889;21254;15371580;11;34
+r;419570894;21254;15338371;11;34
+r;419570899;21254;15360794;11;34
+r;419570904;21254;15270257;11;34
+r;419570909;21254;15341222;11;34
+r;419570914;21254;15338629;11;34
+r;419570919;21254;15199662;11;34
+r;419570924;21254;15253136;11;34
+r;419570929;21254;15376644;11;34
+r;419581351;21254;15237067;11;34
+r;419584159;21254;15302381;11;34
+r;419589721;21254;15573862;11;34
+r;29817570;21254;1826573;11;35
+r;29839094;21254;1826574;11;35
+r;30022410;21254;1837992;11;35
+r;272514323;21254;10867911;11;35
+r;315121673;21254;12078746;11;35
+r;419508531;21254;15391941;11;35
+r;29945244;21254;1829890;11;36
+r;313704929;21254;12050879;11;36
+r;313704963;21254;12051125;11;36
+r;313705017;21254;12051126;11;36
+r;313705494;21254;12050881;11;36
+r;313705592;21254;12051134;11;36
+r;313705627;21254;12050880;11;36
+r;313705642;21254;12051135;11;36
+r;314745208;21254;12076908;11;36
+r;121488173;21254;6444434;11;37
+r;121493670;21254;6443833;11;37
+r;122671364;21254;6432944;11;37
+r;313705690;21254;12051176;11;37
+r;313705839;21254;12051177;11;37
+r;121545401;21254;6438063;11;38
+r;121573374;21254;6434927;11;38
+r;269382251;21254;10749539;11;38
+r;121507039;21254;6442344;11;39
+r;288382317;21254;11249899;11;39
+r;121029535;21254;6451961;11;40
+r;242259527;21254;10189334;11;40
+r;254592154;21254;10367257;11;40
+r;288186381;21254;11249886;11;40
+r;121029110;21254;6452007;11;41
+r;291799103;21254;11374410;11;41
+r;114762123;21254;5882842;11;42
+r;121037680;21254;6451077;11;42
+r;261008339;21254;10461980;11;42
+r;121056109;21254;6449056;11;44
+r;122104952;21254;6594955;11;44
+r;121053310;21254;6449365;11;45
+r;121057332;21254;6448919;11;48
+r;121040050;21254;6450819;11;49
+r;121442807;21254;6527500;11;50
+r;171445413;21254;8739410;11;50
+r;282819812;21254;11131383;11;50
+r;282820161;21254;11131385;11;50
+r;282821360;21254;11131384;11;50
+r;402112949;21254;15338369;11;50
+r;357889908;21254;14127600;11;50
+r;375028405;21254;14752885;11;50
+r;397500161;21254;15403856;11;50
+r;418899835;21254;16072343;11;50
+r;18722520;21254;598074;11;51
+r;18724782;21254;598186;11;51
+r;29875389;21254;1847207;11;55
+r;18724572;21254;598061;11;56
+r;27876745;21254;1685751;11;56
+r;29887491;21254;1844548;11;56
+r;52477671;21254;2497209;11;56
+r;25686525;21254;1626818;11;58
+r;72089793;21254;2934994;11;58
+r;108128552;21254;5501838;11;58
+r;29883937;21254;1845353;11;59
+r;17697890;21254;572134;11;60
+r;12587809;21254;378510;11;101
+r;12548327;21254;388275;11;102
+r;12772345;21254;333266;11;102
+r;12772325;21254;333271;11;103
+r;12772341;21254;333267;11;103
+r;12772353;21254;333264;11;103
+r;12772321;21254;333272;11;104
+r;12627317;21254;368792;11;105
+r;12772305;21254;333276;11;106
+r;12772309;21254;333275;11;106
+r;12772317;21254;333273;11;106
+r;12772329;21254;333270;11;106
+r;12772337;21254;333268;11;106
+r;12564049;21254;384354;11;107
+r;12576701;21254;381142;11;107
+r;12651399;21254;362773;11;107
+r;12772313;21254;333274;11;107
+r;12772349;21254;333265;11;109
+r;12772357;21254;333263;11;109
+r;12772333;21254;333269;11;110
+r;11698281;21254;329776;11;148
+r;8880359;21254;232048;11;151
+r;8880360;21254;232052;11;151
+r;8880396;21254;232615;11;151
+r;8881044;21254;250067;11;151
+r;8878186;21254;210360;11;152
+r;8878201;21254;210384;11;152
+r;8878206;21254;210389;11;152
+r;8878599;21254;210959;11;152
+r;8879373;21254;212013;11;152
+r;8886043;21254;309011;11;152
+r;8876283;21254;183495;11;153
+r;8876301;21254;183704;11;153
+r;8877029;21254;190238;11;154
+r;8705967;21254;239163;11;161
+r;8709787;21254;246026;11;161
+r;8716272;21254;252646;11;161
+r;8716943;21254;253277;11;161
+r;8718997;21254;254806;11;161
+r;8601043;21254;91178;11;163
+r;8673681;21254;203484;11;163
+r;8736461;21254;268649;11;163
+r;8740818;21254;273098;11;163
+r;8668195;21254;200316;11;164
+r;8668140;21254;200294;11;165

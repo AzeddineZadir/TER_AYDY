@@ -1,0 +1,694 @@
+
+e;101498;'personnes';1;148
+e;15513420;'personnes humaines';1;0
+e;6287486;'médecine dentaire chez les personnes handicapées';1;0
+e;6293256;'ostéopénie des personnes âgées';1;0
+e;6336745;'négligence envers les personnes âgées';1;0
+e;6307220;'accompagnement des personnes en fin de vie';1;0
+e;6311507;'Éducation des personnes déficientes visuelles';1;0
+e;6319177;'personnes dépendantes à domicile';1;0
+e;6340193;'soins dentaires pour personnes handicapées';1;0
+e;6344985;'soins dentaires aux personnes âgées';1;0
+e;6350229;'personnes institutionnalisées';1;0
+e;6351131;'personnes souffrant de troubles mentaux';1;0
+e;6355491;'enseignantes pour les personnes ayant une déficience mentale';1;0
+e;6358952;'soins dentaires pour personnes âgées';1;0
+e;6363548;'personnes handicapées mentales';1;0
+e;6365610;'personnes en quête de leur premier emploi';1;0
+e;6369285;'personnes célèbres';1;0
+e;6373985;'personnes souffrant de trouble mental';1;0
+e;6379745;'personnes en institution';1;0
+e;6381921;'personnes mariées';1;0
+e;6382781;'soins dentaires aux personnes handicapées';1;0
+e;6388710;'résidences pour personnes âgées';1;0
+e;6400150;'personnes souffrant d'un trouble mental';1;0
+e;6404801;'hôpital de soins intermédiaires pour des personnes ayant une déficience intellectuelle';1;0
+e;6405506;'enfant de personnes handicapées';1;0
+e;6410503;'maisons médicalisées pour les personnes âgées';1;0
+e;6419748;'Éducation des personnes malvoyantes';1;0
+e;6420198;'enseignants pour les personnes ayant une déficience mentale';1;0
+e;12198517;'loi du 20 décembre 1988 relative à la protection des personnes qui se prêtent à des recherches biomédicales';777;0
+e;6318378;'services de santé pour personnes âgées';1;0
+e;6369646;'Éducation des personnes aveugles';1;0
+e;13588422;'mortalité des personnes autistes';1;0
+e;13637991;'personnes surdouées';1;0
+e;13642184;'personnes impubères';1;0
+e;6406671;'enseignement aux personnes malentendantes';1;0
+e;6387969;'hallucinations complexes à type de personnes';1;0
+e;13817351;'liste des personnes transférées au Panthéon';777;0
+e;14231808;'communication entre les choses ou les personnes';1;0
+e;13823331;'droit à l'image des personnes en France';777;0
+e;14012591;'rapport sexuel de deux personnes dans l'espace';777;0
+e;14137003;'La Personne aux deux personnes';777;0
+e;14161334;'faire tourner des personnes';1;0
+e;14250525;'personnes mortes';1;0
+e;14434604;'nombre de personnes minimum requis';1;0
+e;14434603;'nombre de personnes maximum requis';1;0
+e;14452345;'relogement de personnes expropriées';1;0
+e;14452394;'atteinte à l'état civil des personnes';1;0
+e;14452430;'disparition de personnes';1;0
+e;14452918;'commission des droits et de l'autonomie des personnes handicapées';1;0
+e;14453413;'personnes ayant accès à la concession';1;0
+e;14462820;'indisponibilité de l'état des personnes';777;0
+e;14453950;'normes d'accès aux personnes en situation de handicap';1;0
+e;14454572;'imposition des personnes morales de droit privé';1;0
+e;14454632;'exonération en faveur des personnes défavorisées';1;0
+e;14454662;'place d'hébergement pour les personnes sans domicile';1;0
+e;14454595;'personnes défavorisées';1;0
+e;14562539;'personnes naturellement immunisées';1;0
+e;14572250;'se tenir à distance des autres personnes';1;0
+e;14572528;'protection des personnes';1;0
+e;14572527;'protection des personnes et des biens';1;20
+e;14630780;'fouille de personnes';1;0
+e;14669217;'personnes diabétiques';1;0
+e;14728227;'statue que les personnes homosexuelles et transgenres';777;0
+e;15473662;'personnes trouvées mortes';1;0
+e;15473661;'personnes inconnues';1;0
+e;14868286;'Nombre de personnes occupant les différentes professions vers 1899';777;0
+e;15473660;'personnes inconnues trouvées mortes';1;0
+e;6382839;'victime de violences sur personnes âgées';1;0
+e;15787425;'union civile entre personnes de même sexe';1;0
+e;15921665;'nombre de personnes infectées';1;0
+e;15921666;'personnes infectées';1;0
+e;15950696;'nombre de personnes malades';1;0
+e;16070867;'les personnes';777;0
+e;16076275;'transporter plusieurs personnes';1;0
+e;16076273;'transporter plusieurs personnes ensemble sur un même trajet';1;0
+e;16144157;'mythe des deux personnes';777;0
+e;16171271;'personnes intersexes';1;0
+e;16171268;'personnes non-binaires';1;0
+e;16279146;'l'état des personnes';777;0
+e;6298179;'personnes très âgées';1;0
+e;6307118;'personnes se prêtant à la recherche';1;0
+e;6309883;'collision entre deux personnes';1;0
+e;6314936;'résidences médicalisées pour personnes âgées';1;0
+e;6318365;'tierces personnes lors des examens médicaux';1;0
+e;6342871;'centres de soins à vie pour personnes retraitées';1;0
+e;6359992;'abuseur de personnes âgées';1;0
+e;6366449;'personnes sans domicile fixe';1;0
+e;6379227;'tierces personnes lors des consultations médicales';1;0
+e;6380510;'examen général de routine de personnes appartenant aux forces armées';1;0
+e;6409481;'examen général de personnes membres d'une équipe sportive';1;0
+e;6417902;'Éducation des personnes malentendantes';1;0
+e;12200250;'personnes en situation de handicap';1;0
+e;6375020;'aides à la communication des personnes avec un handicap';1;0
+e;14225324;'protection des biens et des personnes';1;0
+e;14557721;'personnes à risques';1;20
+e;14563766;'rencontrer les mauvaises personnes';1;0
+e;16071007;'personnes recherchées';1;0
+e;16071008;'personnes disparues';1;0
+e;6320784;'appareils de télécommunication pour personnes malentendantes';1;0
+e;6357512;'désorientation par rapport aux personnes';1;0
+e;6384022;'personnes apparentées';1;0
+e;12200249;'protection des personnes âgées';1;0
+e;5792761;'noms de personnes en arabe';777;0
+e;6428626;'soins dentaires chez les personnes âgées';1;0
+e;6422049;'personnes parentes';1;0
+e;10604752;'mariage des couples de personnes de même sexe';777;0
+e;16156667;'demi-douzaine de personnes';1;0
+e;15346578;'de 40 à 50 personnes';1;0
+e;15395329;'de moins en moins de personnes';1;0
+e;15374969;'de nombreuses personnes';1;0
+e;15318265;'des milliers de personnes';1;0
+e;15570328;'des personnages centraux, une des personnes clés, un des chiffres clés,';1;0
+e;15329089;'des personnes d'origine indienne';1;0
+e;15352130;'des personnes merveilleuses';1;0
+e;15529074;'des tentes pour deux personnes';1;0
+e;15263392;'deux mille personnes';1;0
+e;15379061;'deux millions de personnes';1;0
+e;16058045;'douzaine de personnes';1;0
+e;6426568;'enseignement aux personnes déficientes auditives';1;0
+e;9961316;'personnes d'importance historique nationale';777;0
+e;10002296;'Grandes personnes 2';777;0
+e;11783553;'Association nationale d'éducation de chiens d'assistance pour personnes handicapées';777;0
+e;11782284;'sénatus-consulte du 14 juillet 1865 sur l'état des personnes et la naturalisation en Algérie';777;0
+e;16071193;'chez les personnes';1;0
+e;15473943;'circulation des personnes';1;0
+e;15479433;'compteur de personnes';1;0
+e;15625962;'congé d'accompagnement de personnes en fin de vie';1;0
+e;15336413;'contrat d'assurance de personnes';1;0
+e;16319169;'aucune des personnes mentionnées ci-dessus';1;0
+e;16390427;'centre d'accueil de jour pour les personnes âgées';1;0
+e;6424251;'personnes de connaissance';1;0
+e;10992007;'transport routier de personnes';777;0
+e;11353447;'Association départementale de parents et d'amis des personnes handicapées mentales';777;0
+e;11353409;'fichier national des personnes interdites d'acquisition et de détention d'armes';777;0
+e;11353394;'Association de gestion du fonds pour l'insertion des personnes handicapées';777;0
+e;11359758;'concours de décapitation de 100 personnes';777;0
+e;15538921;'au dire de nombreuses personnes';1;0
+e;15401367;'bonnes personnes';1;0
+e;15261783;'campagne pour désigner publiquement des personnes ou des organisations qui ont commis des fautes';1;0
+e;15262312;'cent personnes';1;0
+e;15537753;'chambre pour deux personnes';1;0
+e;5830745;'Sont listées ici les personnes qui se sont suicidées en ingérant des barbituriques';777;0
+e;6441780;'trouble de l'orientation par rapport aux personnes';1;0
+e;11064611;'emploi des personnes handicapées';777;0
+e;11787633;'Conte de fées à l'usage des moyennes personnes';777;0
+e;15351321;'appareil de télécommunication pour personnes sourdes';1;0
+e;15576880;'assurance des personnes et des biens';1;0
+e;15327357;'assureur de personnes';1;0
+e;1830567;'commission des droits et de l'autonomie des personnes handicapée';1;0
+e;5962235;'Bureau des personnes disparues';777;0
+e;10744953;'classification des personnes transsexuelles';777;0
+e;11089847;'liste des personnes ayant reçu la grand-croix de la Légion d'honneur';777;0
+e;12862062;'prendre des personnes en otages';1;0
+e;16073653;'Normes d'accès aux personnes en situation de handicap';1;0
+e;15624753;'Nous n'informons que les personnes directement concernées.';1;0
+e;15396979;'On n'a toujours pas retrouvé quatre personnes.';1;0
+e;15574404;'On peut coucher jusqu'à dix personnes.';1;0
+e;15238923;'On peut loger quatre personnes.';1;0
+e;15324231;'Plusieurs personnes ont été tuées par des débris volants.';1;0
+e;15488918;'Plusieurs personnes sont passées pendant que vous n'étiez pas là.';1;0
+e;16074139;'Relogement de personnes expropriées';1;0
+e;15397242;'Six personnes ont été tuées dans l'accident.';1;0
+e;15468417;'Un Britannique faisait partie des personnes arrêtées.';1;0
+e;15397244;'Vingt personnes ont été tuées dans cette éruption de violence.';1;0
+e;15459710;'accessible aux personnes à mobilité réduite';1;0
+e;15331065;'adapté aux personnes handicapées';1;0
+e;1830561;'comité de protection des personnes dans la recherche biomédicale';1;0
+e;5562452;'opération d'élimination de personnes';1;0
+e;6438063;'maisons d'accueil pour personnes âgées';1;0
+e;10302447;'Office des personnes handicapées du Québec';777;0
+e;10302450;'administrateur du transport de personnes';777;0
+e;10854747;'accessibilité aux personnes handicapées';777;0
+e;10933910;'liste d'organisations et de personnes considérées comme proches d'Al-Qaïda ou des talibans';777;0
+e;11021524;'répertoire national d'identification des personnes physiques';777;0
+e;11347209;'Sur le passage de quelques personnes à travers une assez courte unité de temps';777;0
+e;11830978;'liste de catastrophes de transports de personnes';777;0
+e;13445749;'conseil pontifical pour la pastorale des migrants et des personnes en déplacement';777;0
+e;15401277;'Les maisons occupées par les personnes âgées doivent avoir le chauffage central.';1;0
+e;1830560;'comités de protection des personnes';1;0
+e;1833374;'établissements d'hébergement pour personnes âgées dépendantes';1;0
+e;10328959;'emploi des personnes autistes';777;0
+e;11479231;'Noms de personnes';777;0
+e;12006409;'17 personnes';777;0
+e;12051635;'accompagner des personnes';1;0
+e;12051594;'s'occuper de personnes âgées';1;0
+e;15233627;'Le bricolage est une activité de loisir pour de nombreuses personnes.';1;0
+e;15297607;'Le hall peut accueillir quatre cents personnes assises.';1;0
+e;6442556;'établissements d'hébergement médicalisés pour personnes âgées';1;0
+e;10044803;'personnes nommées ou lauréates d'un Oscar à titre posthume';777;0
+e;10299137;'camp de personnes déplacées Föhrenwald';777;0
+e;11290372;'Convention relative aux droits des personnes handicapées';777;0
+e;11393143;'La Gazette des enfants et des jeunes personnes';777;0
+e;11439053;'liste des personnes inhumées au Panthéon';777;0
+e;11442500;'flux de personnes';777;0
+e;11502887;'liste des personnes canonisées par le pape François';777;0
+e;12040802;'motiver d'autres personnes';1;0
+e;12040798;'diriger d'autres personnes';1;0
+e;12040804;'persuader d'autres personnes';1;0
+e;12050876;'soins aux personnes handicapées';1;0
+e;12051300;'supervision de personnes';1;0
+e;10298057;'L'attirance envers les personnes transgenres';777;0
+e;10298052;'Association professionnelle mondiale pour la santé des personnes transgenres';777;0
+e;11341946;'allocation de solidarité aux personnes âgées';777;0
+e;11503705;'adoption par un couple de personnes de même sexe';777;0
+e;11505153;'mariage entre personnes de même sexe est autorisé en Suède';777;0
+e;11505151;'mariage entre personnes de même sexe au Danemark';777;0
+e;12040797;'conseiller des personnes';1;0
+e;10787199;'personnes ayant découvert des exoplanètes';777;0
+e;10777628;'relation entre deux personnes';1;0
+e;12054120;'personnes malades';1;0
+e;5897419;'liste des pays par proportion de personnes sous-alimentées';777;0
+e;10383976;'Cette page n'est pas une plateforme d'aide et d'écoute pour les personnes suicidaires';777;0
+e;11326710;'Commission internationale des personnes disparues';777;0
+e;12053164;'audience de personnes';1;0
+e;12053154;'accès pour personnes à mobilité réduite';1;0
+e;12053274;'aider à administrer des médicaments à des personnes âgées';1;0
+e;5705531;'Pour tous les articles des personnes portant ce prénom';777;0
+e;10081812;'liste des personnes citées au Panthéon de Paris';777;0
+e;10763446;'loi n° 2010-201 du 2 mars 2010 renforçant la lutte contre les violences de groupes et la protection des personnes chargées d'une mission de service public';777;0
+e;13389847;'personnes non cisgenres';1;0
+e;13389846;'personnes non hétérosexuelles';1;0
+e;13389848;'personnes non dyadiques';1;0
+e;5898953;'Cette catégorie recense les personnes mortes d'un cancer du foie';777;0
+e;11173068;'code général de la propriété des personnes publiques';777;0
+e;11316007;'Fédération malienne de sports pour personnes handicapées';777;0
+e;11388213;'transport de personnes à motocyclette';777;0
+e;11558164;'droits des personnes LGBT';777;0
+e;13199617;'authentification des personnes';1;0
+e;2403420;'société de personnes';1;0
+e;6066645;'service de sécurité incendie et d'assistance à personnes';777;0
+e;6451426;'les personnes à l'extérieur d'un train';1;0
+e;12076740;'UNAFAM-Union nationale de familles et amis de personnes malades et/ou handicapées psychiques';777;0
+e;14563552;'La non-discrimination contre des personnes ou groupes';777;0
+e;15468413;'La police a arrêté cinq personnes.';1;0
+e;5899008;'Cette catégorie recense les personnes mortes d'un cancer du côlon';777;0
+e;10429806;'liste de personnes qui se sont engagées dans la Résistance intérieure française';777;0
+e;15361777;'La classe s'est divisée en groupes de cinq personnes.';1;0
+e;12772962;'Établissement d'hébergement pour personnes âgées dépendantes';777;0
+e;5515049;'maison départementale et métropolitaine des personnes handicapées';777;0
+e;11136829;'technique de prise en charge des personnes';1;0
+e;6670808;'mode de prise en charge des personnes';1;0
+e;15484529;'De nombreuses personnes sont encore piégées sous les décombres.';1;0
+e;15494589;'Ces huiles peuvent provoquer des irritations chez les personnes à la peau sensible.';1;0
+e;9175030;'vouloir tuer le plus de personnes possible';1;0
+e;10431812;'Liste des personnes ayant reçu la grand-croix de la Légion d'honneur';777;0
+e;10925409;'La loi no 81-82 du 2 février 1981 renforçant la sécurité et protégeant la liberté des personnes';777;0
+e;11118433;'personnes très notables';777;0
+e;11130706;'Fonds de garantie des assurés contre la défaillance de sociétés d'assurance de personnes';777;0
+e;11131984;'Convention pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel';777;0
+e;11131371;'véhicule de premiers secours à personnes';777;0
+e;12247990;'personnes actives';1;0
+e;12626138;'développement des personnes';1;0
+e;12634905;'personnes réelles';1;0
+e;12688740;'personnes privées';1;0
+e;12710645;'une instance à caractère consultatif chargée d'assurer la participation des personnes handicapées à l'élaboration et à la mise en oeuvre des politiques les concernant';777;0
+e;12715670;'personnes LGBT';777;0
+e;12719502;'organisations défendant les droits des personnes transgenre';777;0
+e;12701801;'personnes de terrain';1;0
+e;12699208;'personnes rousses';1;0
+e;14563558;'5. Pas de discrimination contre les personnes ou les groupes';777;0
+e;14734409;'Débit total de personnes';777;0
+e;14767044;'Assistance et recherche de personnes disparues';777;0
+e;15322519;'Il y avait une quinzaine de personnes.';1;0
+e;15322818;'Il y avait une cinquantaine de personnes.';1;0
+e;15573112;'20 personnes élues parmi les adhérents';1;0
+e;15525210;'J'ai interrogé toutes les personnes impliquées.';1;0
+e;15575479;'Il y avait plus de dix personnes.';1;0
+e;15380484;'Il y avait plusieurs personnes, dont Gabrielle.';1;0
+e;15515058;'Ils peuvent recevoir 500 personnes.';1;0
+e;14543856;'Chez les personnes âgées de plus de 65 ans';777;0
+e;15395713;'Bureau de la condition des personnes handicapées';1;0
+e;15262700;'Ce chalet peut abriter jusqu'à dix personnes.';1;0
+e;15326557;'Ce film est déconseillé aux personnes sensibles.';1;0
+e;15230497;'Chaque caravane est équipée pour accueillir quatre personnes.';1;0
+e;15329496;'Des millions de personnes migraient vers les villes.';1;0
+e;15409444;'Diverses personnes sont venues.';1;0
+e;15584194;'Des centaines de personnes sont mortes de faim.';1;0
+e;15257887;'L'ascenseur peut contenir six personnes bien serrées.';1;0
+e;15341501;'L'entreprise vient d'embaucher cinquante personnes.';1;0
+e;15491906;'L'usine emploie six cents personnes.';1;0
+e;16072192;'Atteinte à l'état civil des personnes';1;0
+e;16072733;'Disparition de personnes';1;0
+e;16073095;'Fichier des personnes recherchées';1;0
+e;3259998;'nutrition pour les personnes âgées';1;0
+e;3315163;'Société des ambianceurs et des personnes élégantes';777;0
+e;3411935;'fichier des personnes recherchées';1;2
+e;2353152;'personnes fichées';1;0
+e;2582719;'Brigade d'assistance aux personnes sans-abri';777;0
+e;2605314;'société des ambianceurs et des personnes élégantes';777;0
+e;567509;'personnes morales';777;50
+e;3180586;'ouverture du mariage aux couples de personnes de même sexe';777;0
+e;395139;'groupe de personnes';1;52
+e;566277;'L'assurance de personnes';777;50
+e;1773824;'droit des personnes';1;0
+e;1572510;'personnes vulnérables';1;0
+e;746348;'22 000 personnes';777;0
+e;1701005;'personnes haut placées';1;0
+e;1877290;'indiquer les personnes présentes';1;0
+e;3311130;'empathie des personnes autistes';1;0
+e;3762554;'Commission des droits et de l'autonomie des personnes handicapées';777;0
+e;5386798;'personnes physiques';1;0
+e;1687775;'libre consentement des personnes';1;0
+e;1918542;'transport de personnes';1;0
+e;4338351;'problème de personnes';1;0
+e;2258861;'pèse-personnes';2;0
+e;3017981;'personnes remarquables';1;0
+e;1877289;'indiquer les personnes absentes';1;0
+e;376277;'responsabilité des personnes publiques';1;50
+e;344296;'conflit de personnes';1;50
+e;380106;'soins aux personnes âgées';1;50
+e;361386;'liberté de circulation des personnes';1;50
+e;361367;'liberté de circulation des personnes et des biens';1;50
+e;358722;'impôt sur le revenu des personnes physiques';1;50
+e;349356;'déplacement de personnes';1;50
+e;349131;'délit contre les personnes';1;50
+e;361404;'libre circulation des personnes';1;50
+e;336991;'assurance de personnes';1;50
+e;382514;'sécurité des personnes et des biens';1;50
+e;334475;'aide sociale aux personnes âgées';1;50
+e;337189;'atteinte contre les personnes';1;50
+e;387244;'visiteur de personnes âgées';1;50
+e;380112;'soins des personnes âgées';1;50
+e;353360;'famille de quatre personnes';1;50
+e;374941;'querelle de personnes';1;50
+e;369835;'personnes âgées et handicapées';1;50
+e;369829;'personnes haut placé';1;50
+e;326431;'mariage entre personnes du même sexe';1;50
+e;237671;'maison départementale des personnes handicapées';1;50
+e;218902;'ensemble de personnes';1;50
+e;259878;'personnes à risque';1;50
+e;102270;'personnes juridiques';1;50
+e;267140;'sécurité des biens et des personnes';1;50
+e;156523;'personnes âgées';1;54
+e;177544;'personnes divines';1;50
+e;187634;'bateau de transport de personnes';1;50
+e;202215;'interposition de personnes';1;50
+e;264379;'personnes de même sexe';1;50
+e;264575;'mariage entre personnes de même sexe';1;50
+e;268778;'plusieurs personnes';1;50
+e;271667;'sécurité des personnes';1;50
+e;292552;'personnes célèbres de la danse';777;50
+e;308898;'Impôt des personnes physiques';777;54
+e;310793;'numéro d'inscription au répertoire des personnes physiques';777;50
+e;311202;'Enjeu de sécurité des personnes et des biens';777;50
+e;311823;'établissement d'hébergement pour personnes âgées dépendantes';777;50
+e;311878;'Zone d'attente pour personnes en instance';777;50
+e;199789;'état des personnes';1;50
+r;397131815;101498;15513420;11;25
+r;298245335;101498;6287486;11;25
+r;298553068;101498;6293256;11;25
+r;301412728;101498;6336745;11;25
+r;299547421;101498;6307220;11;25
+r;299589686;101498;6311507;11;25
+r;299876210;101498;6319177;11;25
+r;301460821;101498;6340193;11;25
+r;301548643;101498;6344985;11;25
+r;301732918;101498;6350229;11;25
+r;301738100;101498;6351131;11;25
+r;301802022;101498;6355491;11;25
+r;302078957;101498;6358952;11;25
+r;302152073;101498;6363548;11;25
+r;302187087;101498;6365610;11;25
+r;302971977;101498;6369285;11;25
+r;303191467;101498;6373985;11;25
+r;303746755;101498;6379745;11;25
+r;303930864;101498;6381921;11;25
+r;303978993;101498;6382781;11;25
+r;304552015;101498;6388710;11;25
+r;305136989;101498;6400150;11;25
+r;305299635;101498;6404801;11;25
+r;305306135;101498;6405506;11;25
+r;305467533;101498;6410503;11;25
+r;305700527;101498;6419748;11;25
+r;305705235;101498;6420198;11;25
+r;316547742;101498;12198517;11;25
+r;319059797;101498;6318378;11;25
+r;319104002;101498;6369646;11;25
+r;344117656;101498;13588422;11;25
+r;345936252;101498;13637991;11;25
+r;346161082;101498;13642184;11;25
+r;349246688;101498;6406671;11;25
+r;349298442;101498;6387969;11;25
+r;349544691;101498;13817351;11;25
+r;361286469;101498;14231808;11;25
+r;349903678;101498;13823331;11;25
+r;353744507;101498;14012591;11;25
+r;358566623;101498;14137003;11;25
+r;359761829;101498;14161334;11;25
+r;361460320;101498;14250525;11;25
+r;366518588;101498;14434604;11;25
+r;366519927;101498;14434603;11;25
+r;366856259;101498;14452345;11;25
+r;366857604;101498;14452394;11;25
+r;366858145;101498;14452430;11;25
+r;366876854;101498;14452918;11;25
+r;366903203;101498;14453413;11;25
+r;366906436;101498;14462820;11;25
+r;366927628;101498;14453950;11;25
+r;366945610;101498;14454572;11;25
+r;366946259;101498;14454632;11;25
+r;366948003;101498;14454662;11;25
+r;366963593;101498;14454595;11;25
+r;369990874;101498;14562539;11;25
+r;370334353;101498;14572250;11;25
+r;370345213;101498;14572528;11;25
+r;370345485;101498;14572527;11;25
+r;371666979;101498;14630780;11;25
+r;372976861;101498;14669217;11;25
+r;374440260;101498;14728227;11;25
+r;395805363;101498;15473662;11;25
+r;395805381;101498;15473661;11;25
+r;384876465;101498;14868286;11;25
+r;395805411;101498;15473660;11;25
+r;400656248;101498;6382839;11;25
+r;410323808;101498;15787425;11;25
+r;414450028;101498;15921665;11;25
+r;414450055;101498;15921666;11;25
+r;414949952;101498;15950696;11;25
+r;418742619;101498;16070867;11;25
+r;418917960;101498;16076275;11;25
+r;418917973;101498;16076273;11;25
+r;423437313;101498;16144157;11;25
+r;424083045;101498;16171271;11;25
+r;424083992;101498;16171268;11;25
+r;427025407;101498;16279146;11;25
+r;299030473;101498;6298179;11;26
+r;299547235;101498;6307118;11;26
+r;299578989;101498;6309883;11;26
+r;299640930;101498;6314936;11;26
+r;299797115;101498;6318365;11;26
+r;301494343;101498;6342871;11;26
+r;302086875;101498;6359992;11;26
+r;302191793;101498;6366449;11;26
+r;303644471;101498;6379227;11;26
+r;303834809;101498;6380510;11;26
+r;305462417;101498;6409481;11;26
+r;305691680;101498;6417902;11;26
+r;316345140;101498;12200250;11;26
+r;341171284;101498;6375020;11;26
+r;361093288;101498;14225324;11;26
+r;369891225;101498;14557721;11;26
+r;370051403;101498;14563766;11;26
+r;418686358;101498;16071007;11;26
+r;418687198;101498;16071008;11;26
+r;300080985;101498;6320784;11;27
+r;302028165;101498;6357512;11;27
+r;303987555;101498;6384022;11;27
+r;316342291;101498;12200249;11;27
+r;114455408;101498;5792761;11;28
+r;122706321;101498;6428626;11;29
+r;122757389;101498;6422049;11;29
+r;264506107;101498;10604752;11;29
+r;434383440;101498;16156667;11;29
+r;419765767;101498;15346578;11;30
+r;419768817;101498;15395329;11;30
+r;419769073;101498;15374969;11;30
+r;419774785;101498;15318265;11;30
+r;419774994;101498;15570328;11;30
+r;419775000;101498;15329089;11;30
+r;419775006;101498;15352130;11;30
+r;419775507;101498;15529074;11;30
+r;419777393;101498;15263392;11;30
+r;419777399;101498;15379061;11;30
+r;419798795;101498;16058045;11;30
+r;122722319;101498;6426568;11;31
+r;220939077;101498;9961316;11;31
+r;227663016;101498;10002296;11;31
+r;303725294;101498;11783553;11;31
+r;303728734;101498;11782284;11;31
+r;419706319;101498;16071193;11;31
+r;419711051;101498;15473943;11;31
+r;419727312;101498;15479433;11;31
+r;419731176;101498;15625962;11;31
+r;419736162;101498;15336413;11;31
+r;434372854;101498;16319169;11;31
+r;434377788;101498;16390427;11;31
+r;122740269;101498;6424251;11;32
+r;277698189;101498;10992007;11;32
+r;291213926;101498;11353447;11;32
+r;291214155;101498;11353409;11;32
+r;291214214;101498;11353394;11;32
+r;291992077;101498;11359758;11;32
+r;419618935;101498;15538921;11;32
+r;419659060;101498;15401367;11;32
+r;419678142;101498;15261783;11;32
+r;419693704;101498;15262312;11;32
+r;419697196;101498;15537753;11;32
+r;113756051;101498;5830745;11;33
+r;121512125;101498;6441780;11;33
+r;280468620;101498;11064611;11;33
+r;303649663;101498;11787633;11;33
+r;419602047;101498;15351321;11;33
+r;419613977;101498;15576880;11;33
+r;419614684;101498;15327357;11;33
+r;29952796;101498;1830567;11;34
+r;116572403;101498;5962235;11;34
+r;269393390;101498;10744953;11;34
+r;281257981;101498;11089847;11;34
+r;330764899;101498;12862062;11;34
+r;419513508;101498;16073653;11;34
+r;419515539;101498;15624753;11;34
+r;419518833;101498;15396979;11;34
+r;419519048;101498;15574404;11;34
+r;419519094;101498;15238923;11;34
+r;419526394;101498;15324231;11;34
+r;419526408;101498;15488918;11;34
+r;419534008;101498;16074139;11;34
+r;419546002;101498;15397242;11;34
+r;419557381;101498;15468417;11;34
+r;419561102;101498;15397244;11;34
+r;419568835;101498;15459710;11;34
+r;419577016;101498;15331065;11;34
+r;29951575;101498;1830561;11;35
+r;109977700;101498;5562452;11;35
+r;121545403;101498;6438063;11;35
+r;252682875;101498;10302447;11;35
+r;252682854;101498;10302450;11;35
+r;272174078;101498;10854747;11;35
+r;275104797;101498;10933910;11;35
+r;279197332;101498;11021524;11;35
+r;290681806;101498;11347209;11;35
+r;305867179;101498;11830978;11;35
+r;341156016;101498;13445749;11;35
+r;419496456;101498;15401277;11;35
+r;29953082;101498;1830560;11;36
+r;29977962;101498;1833374;11;36
+r;253391138;101498;10328959;11;36
+r;294963478;101498;11479231;11;36
+r;312922729;101498;12006409;11;36
+r;313762869;101498;12051635;11;36
+r;313763059;101498;12051594;11;36
+r;419490956;101498;15233627;11;36
+r;419492214;101498;15297607;11;36
+r;121505133;101498;6442556;11;37
+r;227596484;101498;10044803;11;37
+r;247507147;101498;10299137;11;37
+r;289892939;101498;11290372;11;37
+r;292662114;101498;11393143;11;37
+r;294026658;101498;11439053;11;37
+r;294250318;101498;11442500;11;37
+r;295516235;101498;11502887;11;37
+r;313551607;101498;12040802;11;37
+r;313552802;101498;12040798;11;37
+r;313553684;101498;12040804;11;37
+r;313724656;101498;12050876;11;37
+r;313726978;101498;12051300;11;37
+r;247436099;101498;10298057;11;38
+r;247436127;101498;10298052;11;38
+r;290559414;101498;11341946;11;38
+r;295592073;101498;11503705;11;38
+r;295685194;101498;11505153;11;38
+r;295705801;101498;11505151;11;38
+r;313553558;101498;12040797;11;38
+r;269867909;101498;10787199;11;39
+r;269873790;101498;10777628;11;39
+r;313789687;101498;12054120;11;39
+r;115107041;101498;5897419;11;40
+r;254918450;101498;10383976;11;40
+r;290163608;101498;11326710;11;40
+r;313743191;101498;12053164;11;40
+r;313743464;101498;12053154;11;40
+r;313745516;101498;12053274;11;40
+r;112179614;101498;5705531;11;41
+r;232472516;101498;10081812;11;41
+r;269406981;101498;10763446;11;41
+r;339424714;101498;13389847;11;41
+r;339424867;101498;13389846;11;41
+r;339425076;101498;13389848;11;41
+r;115102580;101498;5898953;11;43
+r;285865325;101498;11173068;11;43
+r;289885865;101498;11316007;11;43
+r;292389308;101498;11388213;11;43
+r;296865491;101498;11558164;11;43
+r;337337375;101498;13199617;11;43
+r;53559962;101498;2403420;11;44
+r;118930254;101498;6066645;11;44
+r;121034402;101498;6451426;11;44
+r;315125126;101498;12076740;11;44
+r;417032521;101498;14563552;11;44
+r;417032903;101498;15468413;11;44
+r;115102298;101498;5899008;11;45
+r;256308404;101498;10429806;11;45
+r;417031623;101498;15361777;11;45
+r;327746533;101498;12772962;11;47
+r;108300341;101498;5515049;11;48
+r;283136988;101498;11136829;11;49
+r;122476819;101498;6670808;11;50
+r;397138997;101498;15484529;11;50
+r;397134995;101498;15494589;11;50
+r;206170207;101498;9175030;11;50
+r;256302004;101498;10431812;11;50
+r;274967701;101498;10925409;11;50
+r;282246320;101498;11118433;11;50
+r;282786175;101498;11130706;11;50
+r;282857848;101498;11131984;11;50
+r;282858971;101498;11131371;11;50
+r;317966963;101498;12247990;11;50
+r;323181590;101498;12626138;11;50
+r;323643935;101498;12634905;11;50
+r;325041813;101498;12688740;11;50
+r;326135975;101498;12710645;11;50
+r;326467765;101498;12715670;11;50
+r;327077596;101498;12719502;11;50
+r;327329628;101498;12701801;11;50
+r;327330615;101498;12699208;11;50
+r;370261286;101498;14563558;11;50
+r;374627587;101498;14734409;11;50
+r;375344772;101498;14767044;11;50
+r;402111014;101498;15322519;11;50
+r;402110998;101498;15322818;11;50
+r;399502951;101498;15573112;11;50
+r;402120866;101498;15525210;11;50
+r;402110930;101498;15575479;11;50
+r;402110938;101498;15380484;11;50
+r;402113415;101498;15515058;11;50
+r;393995317;101498;14543856;11;50
+r;395010649;101498;15395713;11;50
+r;395012507;101498;15262700;11;50
+r;395012549;101498;15326557;11;50
+r;395014343;101498;15230497;11;50
+r;395032313;101498;15329496;11;50
+r;395583739;101498;15409444;11;50
+r;399661637;101498;15584194;11;50
+r;414847708;101498;15257887;11;50
+r;414847972;101498;15341501;11;50
+r;414848514;101498;15491906;11;50
+r;418898938;101498;16072192;11;50
+r;419100499;101498;16072733;11;50
+r;419102142;101498;16073095;11;50
+r;78774803;101498;3259998;11;52
+r;83481881;101498;3315163;11;52
+r;87268868;101498;3411935;11;52
+r;34770334;101498;2353152;11;53
+r;53784307;101498;2582719;11;53
+r;55565724;101498;2605314;11;54
+r;17113564;101498;567509;11;55
+r;76791032;101498;3180586;11;55
+r;13949509;101498;395139;11;56
+r;16930248;101498;566277;11;56
+r;29134867;101498;1773824;11;56
+r;25323615;101498;1572510;11;57
+r;19677402;101498;746348;11;58
+r;28016932;101498;1701005;11;58
+r;30358899;101498;1877290;11;58
+r;83343638;101498;3311130;11;58
+r;93884677;101498;3762554;11;58
+r;107338674;101498;5386798;11;58
+r;27889892;101498;1687775;11;59
+r;30970308;101498;1918542;11;59
+r;98979833;101498;4338351;11;59
+r;33109089;101498;2258861;11;60
+r;74446967;101498;3017981;11;63
+r;30358886;101498;1877289;11;68
+r;12596809;101498;376277;11;101
+r;12727357;101498;344296;11;101
+r;12581015;101498;380106;11;102
+r;12657125;101498;361386;11;103
+r;12657209;101498;361367;11;103
+r;12667945;101498;358722;11;103
+r;12705819;101498;349356;11;103
+r;12706693;101498;349131;11;103
+r;12657049;101498;361404;11;105
+r;12757623;101498;336991;11;106
+r;12571463;101498;382514;11;107
+r;12767795;101498;334475;11;107
+r;12756821;101498;337189;11;108
+r;12552397;101498;387244;11;109
+r;12580993;101498;380112;11;109
+r;12689807;101498;353360;11;109
+r;12602149;101498;374941;11;110
+r;12623179;101498;369835;11;110
+r;12623209;101498;369829;11;110
+r;11492473;101498;326431;11;148
+r;8704936;101498;237671;11;160
+r;8691300;101498;218902;11;161
+r;8726168;101498;259878;11;161
+r;8604943;101498;102270;11;162
+r;8735034;101498;267140;11;162
+r;8625139;101498;156523;11;163
+r;8635895;101498;177544;11;163
+r;8648628;101498;187634;11;163
+r;8671584;101498;202215;11;163
+r;8731917;101498;264379;11;163
+r;8732142;101498;264575;11;163
+r;8736582;101498;268778;11;163
+r;8739182;101498;271667;11;163
+r;8760308;101498;292552;11;163
+r;8774701;101498;308898;11;163
+r;8776681;101498;310793;11;163
+r;8777167;101498;311202;11;164
+r;8777939;101498;311823;11;164
+r;8778021;101498;311878;11;164
+r;8667283;101498;199789;11;165

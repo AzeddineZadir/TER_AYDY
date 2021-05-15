@@ -1,0 +1,58 @@
+
+e;416620;'Situation';1;50
+e;13656084;'La Situation de la classe ouvrière en Angleterre en 1844';777;0
+e;14657346;'Situation géographique descommunes de l'agglomération de Vesoul';777;0
+e;14728120;'Situation de la guerre au 1er juin 2020';777;0
+e;14769913;'Situation actuelle';777;0
+e;16566984;'Situation de la guerre en avril 2021';777;0
+e;9962772;'Situation aérienne générale';777;0
+e;11350040;'White House Situation Room';777;0
+e;11911282;'Situation géographique';777;0
+e;16074387;'Situation fiscale et sociale';1;0
+e;15190564;'Situation en fin de mandat';777;0
+e;15461298;'Situation de la guerre en septembre 2020';777;0
+e;5621129;'Situation en Afghanistan au 19 février 2017';777;0
+e;11393761;'La Situation des classes ouvrières en Angleterre en 1844';777;0
+e;10790212;'Situation au Yémen en mars 2018';777;0
+e;12285094;'Situation au Yémen en février 2019';777;0
+e;11156529;'The Situation Room';777;0
+e;9942469;'Situation au Yémen en décembre 2017';777;0
+e;11218933;'Situation au Yémen en juillet 2018';777;0
+e;11218936;'Situation au Sinaï en janvier 2016';777;0
+e;5621130;'Situation au Yémen en février 2017';777;0
+e;9660327;'Situation en fin de mandat au Sénat';777;0
+e;142786;'Situation de l'art moderne';1;50
+e;3319536;'Situation mondiale de l'alimentation et de l'agriculture';1;0
+e;273750;'situation actuelle';777;50
+e;2589474;'Situation en 1830';777;0
+e;2951292;'Situation administrative et démographique';777;0
+e;2717275;'Situation en 1829';777;0
+e;2932668;'Situation critique';777;0
+r;346910944;416620;13656084;11;25
+r;372887892;416620;14657346;11;25
+r;374440800;416620;14728120;11;25
+r;375401275;416620;14769913;11;25
+r;435273267;416620;16566984;11;26
+r;221122684;416620;9962772;11;31
+r;291215064;416620;11350040;11;32
+r;307501205;416620;11911282;11;32
+r;419545932;416620;16074387;11;34
+r;394030240;416620;15190564;11;35
+r;395482558;416620;15461298;11;35
+r;110813724;416620;5621129;11;38
+r;292656997;416620;11393761;11;38
+r;269958032;416620;10790212;11;39
+r;319100911;416620;12285094;11;40
+r;283779086;416620;11156529;11;41
+r;220094766;416620;9942469;11;42
+r;287604594;416620;11218933;11;42
+r;287608108;416620;11218936;11;42
+r;110813716;416620;5621130;11;44
+r;217023999;416620;9660327;11;50
+r;14293933;416620;142786;11;51
+r;83671029;416620;3319536;11;57
+r;14260837;416620;273750;11;58
+r;54729068;416620;2589474;11;59
+r;72769277;416620;2951292;11;59
+r;62193124;416620;2717275;11;60
+r;71957274;416620;2932668;11;63

@@ -1,0 +1,759 @@
+
+e;76826;'facile';1;562
+e;14639914;'facile à élever';1;0
+e;14257786;'facile à poser';1;0
+e;14257788;'facile à nettoyer';1;0
+e;3360078;'canard au muscadet';1;0
+e;3360666;'compote de raisins';1;0
+e;3744589;'véritable coq au vin';1;0
+e;3359031;'andouillettes à la crème';1;0
+e;3360534;'clafoutis à l'ananas';1;0
+e;5776904;'journal en français facile';777;0
+e;16360961;'de plus en plus facile';1;0
+e;3359098;'aubergines façon lasagnes';1;0
+e;3361773;'empanada gallega';1;0
+e;15660495;'critique est facile mais l'art est difficile';1;0
+e;15225785;'d'accès facile';1;0
+e;15921632;'d'approche facile';1;0
+e;15440025;'d'emploi facile';1;0
+e;15446695;'d'entretien facile';1;0
+e;15523285;'d'humeur facile';1;0
+e;15470182;'d'une approche facile';1;0
+e;15262362;'de moins en moins facile';1;0
+e;15225774;'effet facile';1;0
+e;3360042;'cake thon curry cacahuètes';1;0
+e;3359938;'cake aux noisettes';1;0
+e;3361080;'crème glacée à la mûre';1;0
+e;3361745;'émincé de porc au caramel';1;0
+e;3361830;'épaule d'agneau confite aux poivrons';1;0
+e;9982308;'La Vie facile';777;0
+e;15195627;'cible facile';1;0
+e;3372002;'verrine de saumon';1;0
+e;3371922;'velouté de potimarron';1;8
+e;3371339;'terrine mousse au chocolat';1;0
+e;3371312;'terrine de surimi et thon';1;0
+e;3371307;'terrine de saumon';1;0
+e;3371264;'terrine de poires et roquefort';1;0
+e;3371231;'terrine de foie gras cuisson';1;0
+e;3371205;'terrine d'aubergines';1;0
+e;3371064;'tarte thon asperges';1;0
+e;3370861;'tarte landaise';1;0
+e;3370665;'tarte aux pommes sans pâte';1;0
+e;3370543;'tarte aux fruits rouges';1;0
+e;3370537;'tarte aux framboises';1;2
+e;3370451;'tarte au thon et tomate';1;0
+e;3370421;'tarte au saint nectaire';1;0
+e;3370240;'tarte à la mousse de citron';1;0
+e;3370219;'tarte à la confiture';1;0
+e;3370131;'tajine de porc';1;0
+e;3370101;'tajine d'agneau aux citrons confits';1;0
+e;3369752;'soupe de potiron';1;0
+e;3369572;'soupe asiatique';1;0
+e;3369489;'sorbet au pamplemousse';1;0
+e;3369276;'saumon au chou';1;0
+e;3369261;'saucisson au chocolat';1;0
+e;3368901;'salade de pâtes à l'italienne';1;0
+e;3368523;'rouille de seiches';1;0
+e;3368511;'rougail de morue';1;0
+e;3368227;'risotto aux fruits de mer';1;0
+e;3368221;'risotto aux champignons';1;0
+e;3368056;'radis roses à la crème';1;0
+e;3367525;'poulet aux herbes';1;0
+e;3367521;'poulet aux épices orientales';1;0
+e;3367495;'poulet au whisky';1;0
+e;3367430;'poulet ananas-crème';1;0
+e;3367416;'poulet à l'ananas et aux noix de cajou';1;0
+e;3367389;'poulet à la citronnelle';1;0
+e;3367250;'porc au tandoori';1;0
+e;3367123;'poivrons farcis à la merguez';1;0
+e;3367084;'poisson au vin blanc et à la crème';1;0
+e;3367009;'poêlée de fruits de mer';1;0
+e;3366849;'petits sablés à la cannelle';1;0
+e;3366841;'petits pots de crème fondants au chocolat';1;0
+e;3366381;'pâté de foies de volaille';1;0
+e;3359767;'bûche de noël à la mousse au chocolat';1;0
+e;3360511;'ch'ti poulet à la bière';1;0
+e;3360642;'colombo de poisson';1;0
+e;15692800;'avoir la critique facile';1;0
+e;15242796;'avoir la larme facile';1;0
+e;15319866;'avoir la repartie facile';1;0
+e;15319850;'avoir la répartie facile';1;0
+e;15453389;'avoir le contact facile';1;0
+e;15357098;'ayant la gâchette facile';1;0
+e;15242803;'ayant la larme facile';1;0
+e;15319867;'ayant la repartie facile';1;0
+e;15374848;'c'est facile comme tout';1;0
+e;16029381;'c'est facile à';1;0
+e;15754118;'c'est loin d'être facile';1;0
+e;15314647;'c'était vraiment facile';1;0
+e;16391350;'article d'écoulement facile';1;0
+e;5962385;'À deux c'est plus facile';777;0
+e;15471530;'Pour toi, c'est facile à dire!';1;0
+e;15381075;'Pourtant, ce n'est pas facile';1;0
+e;15691037;'Rien de plus facile';1;0
+e;15357100;'a la gâchette facile';1;0
+e;15242799;'a la larme facile';1;0
+e;15319862;'a la repartie facile';1;0
+e;3362233;'filets de poulet à la crème de poivron';1;0
+e;5710459;'facile à lire et à comprendre';777;0
+e;15272820;'Le livre est d'une lecture plaisante et facile.';1;0
+e;3363182;'gateaux épinards-chèvre';1;0
+e;3361185;'crevettes à l'ail';1;0
+e;11439401;'Sonate facile';777;0
+e;11997843;'facile à transporter';1;0
+e;3365786;'la courgettine, gratin de courgettes';1;0
+e;3365327;'cari de poulet';1;0
+e;3364005;'lasagnes aux fruits de mer';1;0
+e;3362169;'filet mignon de porc aux figues';1;0
+e;3365097;'omelette aux courgettes';1;0
+e;3363863;'koulibiac de saumon';1;0
+e;3363623;'gratin de saumon fumé';1;0
+e;3362755;'gâteau ananas-noix de coco';1;0
+e;11233934;'facile à comprendre';1;0
+e;11833587;'il est plus facile pour un chameau';777;0
+e;15262871;'coeur facile à donner, facile à ôter';1;0
+e;3364273;'madeleines chocolatées';1;0
+e;16360962;'Coupe ici, c'est plus facile.';1;0
+e;3365953;'nouilles chinoises soja et poulet, au wok';1;0
+e;3360378;'chausson de mozzarella';1;0
+e;6670744;'aliment facile à digérer';1;0
+e;13403558;'facile à construire';1;0
+e;3365724;'gratin de courgettes aux saucisses';1;0
+e;3362406;'foie gras au torchon';1;0
+e;3365353;'cheesecake au coulis de framboises';1;0
+e;3364515;'mille-feuilles pommes et caramel';1;0
+e;3363773;'îles flottantes au chocolat';1;0
+e;3360995;'crème à la banane';1;0
+e;9101787;'jambalaya cajun facile';1;0
+e;9101867;'coleslaw thaï rapide et facile';1;0
+e;9101991;'mai tai facile';1;0
+e;9101951;'la plus facile des recettes de houmous';1;0
+e;9101884;'soupe de fruits de mer de nouvelle-angleterre facile';1;0
+e;9101953;'kouign amann facile';1;0
+e;9102048;'glaçage facile pour noël';1;0
+e;9102073;'tarte tatin facile';1;0
+e;9465414;'beurre facile à tartiner';1;0
+e;15253306;'Il n'est pas toujours facile de se garer dans le centre.';1;0
+e;15386433;'C'était si facile que c'en était embarrassant.';1;0
+e;15287328;'Ce n'est pas toujours facile de se réchauffer.';1;0
+e;15378260;'Celui-ci est légèrement plus facile.';1;0
+e;15378262;'Celui-ci est un peu plus facile.';1;0
+e;3371635;'tourte aux légumes facile et rapide';1;0
+e;3371558;'tortilla facile, espagne';1;0
+e;3370651;'tarte aux pommes facile de ma grand-mère';1;0
+e;3368368;'riz 'tout facile'';1;0
+e;3365681;'gâteau facile très chocolat... mais pas trop !';1;0
+e;3365374;'choucroute garnie de ma maman, avec astuces donc facile à faire !!!';1;0
+e;3364762;'mousse facile aux fraises';1;0
+e;3364738;'mousse de fromage blanc facile';1;0
+e;3364222;'lotte facile aux crevettes et à la crème';1;0
+e;3362790;'gâteau au chocolat très facile !';1;0
+e;3360591;'clafoutis ultra facile aux abricots';1;0
+e;3361081;'crème glacée au chocolat très facile';1;0
+e;3743768;'crème au beurre facile';1;0
+e;3743729;'coq au vin facile';1;0
+e;3744202;'baklava facile';1;0
+e;3744631;'confiture de myrtilles rapide et facile';1;0
+e;3744784;'rôti de porc facile en cocotte-minute';1;0
+e;3744928;'la plus facile des recettes de Houmous';1;0
+e;3745225;'dip au thon super facile pour l'apéro';1;0
+e;1543694;'facile à duper';1;0
+e;3318456;'lapin aux pruneaux facile sans matière grasse';1;0
+e;3368919;'salade de pâtes facile et savoureuse';1;0
+e;3367318;'potage facile aux rutabagas';1;0
+e;3364575;'moelleux aux spéculoos facile et rapide';1;0
+e;3363565;'gratin de poisson facile';1;0
+e;3363396;'gratin de brocolis facile';1;0
+e;3362960;'gâteau d'anniversaire facile';1;0
+e;3744448;'aïoli facile';1;0
+e;3744490;'confiture de fraises facile';1;0
+e;3744776;'nappage facile pour cupcakes';1;0
+e;3744810;'tiramisu facile aux petits-beurre';1;0
+e;3745193;'fondue au chocolat facile';1;0
+e;3745363;'sauce facile pour travers de porc';1;0
+e;3745380;'poulet basquaise super facile';1;0
+e;3745465;'sauce pizza facile';1;0
+e;3746266;'confiture de mûres facile';1;0
+e;3745811;'confiture d'oignons facile';1;0
+e;3745661;'jambalaya Cajun facile';1;0
+e;437002;'facile et gratuit';1;50
+e;2932561;'Proie facile';777;0
+e;3318537;'tiramisu aux framboises';1;0
+e;3318652;'cake aux nectarines';1;0
+e;3318745;'bavarois poires chocolat';1;0
+e;3318700;'poêlée de légumes facile de Pati';1;0
+e;3318822;'pizza tomate et chèvre';1;0
+e;3370808;'tarte facile au boursin';1;0
+e;3370257;'tarte à la rhubarbe facile et rapide';1;0
+e;3366644;'pavés de saumon sauce facile en papillote';1;0
+e;3365585;'flan de banane très léger et facile, sans oeuf, sans lait';1;0
+e;3362508;'fondue de poireaux facile';1;0
+e;3362290;'flan à la noix de coco facile';1;0
+e;3359842;'cake à la banane facile et rapide';1;0
+e;3360663;'compote de pommes facile';1;0
+e;3360709;'congolais rapide et facile';1;0
+e;3361062;'crème de mangue facile et légère';1;0
+e;3743754;'couscous aux légumes grillés facile';1;0
+e;3744109;'soupe de fruits de mer de Nouvelle-Angleterre facile';1;0
+e;3744176;'poulet rôti facile';1;0
+e;3745026;'glaçage facile pour Noël';1;0
+e;3745366;'coleslaw Thaï rapide et facile';1;0
+e;3746254;'gelée de mûres facile';1;0
+e;3745832;'tarte chocolat tofu facile';1;0
+e;3745348;'margarita facile';1;0
+e;3318525;'spaghettis au saumon fumé';1;0
+e;3318596;'Îles flottantes au chocolat';1;0
+e;3359300;'biscuit de Savoie au chocolat facile';1;0
+e;3367983;'quiche facile aux crevettes et à la courgette';1;0
+e;3365680;'gâteau facile, fruits, crème fraîche';1;0
+e;3365167;'angel food cake facile, gâteau des anges';1;0
+e;3364062;'la soupe la plus facile';1;0
+e;3363273;'glace à la vanille facile et rapide';1;0
+e;3363271;'glace à la noix de coco facile';1;0
+e;3362889;'gâteau aux pommes facile au fromage blanc';1;0
+e;3359719;'brownie facile aux petits beurres';1;0
+e;3361747;'émincé de poulet à la crème facile';1;0
+e;3743665;'gigot d'agneau facile au four';1;0
+e;3743923;'recette facile d'un poulet rôti au romarin';1;0
+e;3744414;'hachis parmentier facile';1;0
+e;3744949;'maison en pain d'épice facile';1;0
+e;3746624;'verrine facile foie gras et oeufs';1;0
+e;3746611;'houmous super facile';1;0
+e;3746323;'clafoutis facile aux cerises';1;0
+e;3759474;'confiture de lait facile (dulce de leche)';1;0
+e;3318847;'soupe d'asperges au crabe';1;0
+e;3371694;'tourte poulet curry, facile et rapide';1;0
+e;3369281;'saumon au four facile et léger';1;0
+e;3368258;'risotto facile aux champignons de paris';1;0
+e;3363127;'gâteau nature facile de ma grand mère';1;0
+e;3363049;'gâteau facile chocolat et coco';1;0
+e;3362911;'gâteau au yaourt facile';1;0
+e;3359635;'brioche facile';1;0
+e;3360375;'chausson aux pommes facile';1;0
+e;3361887;'escalopes de dinde au paprika facile';1;0
+e;3744254;'pot-au-feu facile';1;0
+e;3744656;'cassoulet facile au four';1;0
+e;3744878;'boeuf bourguignon facile aux échalotes';1;0
+e;3745176;'cheesecake facile au potimarron';1;0
+e;3745020;'tarte facile chocolat-tofu';1;0
+e;3746704;'tarte aux pommes facile';1;0
+e;3746123;'blanquette de veau facile';1;0
+e;3318623;'glace facile';1;0
+e;3370652;'tarte aux pommes facile et bonne';1;0
+e;3366379;'paté de foie de volaille facile et rapide';1;0
+e;3364365;'marquise au chocolat facile';1;0
+e;3364070;'la tarte trop bonne et trop facile à la tomate';1;0
+e;3362519;'fouace facile';1;0
+e;3362287;'flan à l'ananas facile';1;0
+e;3359744;'broyé du poitou facile';1;0
+e;3361697;'diots très facile';1;0
+e;3743662;'tarte facile au citron';1;0
+e;3743972;'terrine de lotte facile';1;0
+e;3744138;'kouign Amann facile';1;0
+e;3744216;'ratatouille provençale facile';1;0
+e;3744640;'tarte au citron ultra facile';1;0
+e;3744857;'tarte au potiron facile';1;0
+e;3744912;'fondue facile à la muscade';1;0
+e;3745063;'confiture facile aux mûres';1;0
+e;3745384;'poulet basquaise facile';1;0
+e;3745462;'gâteau d'anniversaire facile au nutella';1;0
+e;3746587;'cabillaud en sauce facile';1;0
+e;3746166;'crème anglaise facile à la vanille';1;0
+e;3745734;'tortilla espagnole facile';1;0
+e;3745607;'ratatouille facile';1;0
+e;3745390;'pâte à pizza facile et rapide';1;0
+e;1781644;'très facile';1;0
+e;3318513;'pizza à la provençale';1;0
+e;3359344;'blanc-manger facile de ma maman';1;0
+e;3365919;'moussaka facile et rapide, restes boeuf - riz';1;0
+e;3364680;'mousse au chocolat facile et légère';1;0
+e;3363226;'génoise facile à l'ananas';1;0
+e;3359641;'brioche perdue facile à la crème anglaise';1;0
+e;3743740;'harira facile';1;0
+e;3744060;'bortsch facile au porc';1;0
+e;3744391;'mai Tai facile';1;0
+e;3744916;'potage de poireaux facile au blender';1;0
+e;3744837;'mille-feuille facile';1;0
+e;3745221;'tarte au citron facile';1;0
+e;3745103;'nappage super facile pour gâteaux';1;0
+e;3745239;'goulash au boeuf facile';1;0
+e;3745275;'pain brioché tressé facile';1;0
+e;3746667;'tarte aux prunes facile';1;0
+e;3746418;'soupe facile au pesto et aux petits pois';1;0
+e;3746259;'confiture de fraise facile';1;0
+e;1710243;'avoir une vie facile';1;0
+e;2571787;'avoir la gâchette facile';1;0
+e;3318726;'soupe miso facile';1;0
+e;3369792;'soupe facile et légère';1;0
+e;3367013;'poêlée de légumes facile de pati';1;0
+e;3366072;'pain de thon facile aux pommes de terre';1;0
+e;3365732;'gratin de pâtes moelleux, facile et pas cher';1;0
+e;3365331;'cassoulet facile, pour mes amis';1;0
+e;3364689;'mousse au chocolat rapide et facile';1;0
+e;3364664;'mousse au chocolat au lait facile';1;0
+e;3363416;'gratin de christophine facile';1;0
+e;3362838;'gâteau aux châtaignes facile';1;0
+e;3362740;'gâteau à la noix de coco facile';1;0
+e;3360319;'charlotte aux fraises facile';1;0
+e;3360542;'clafoutis aux cerises super facile';1;0
+e;3360713;'conserve de pâté de porc facile';1;0
+e;3361598;'daube facile';1;0
+e;3743887;'gratin de courgettes facile';1;0
+e;3744192;'boudin blanc facile aux pommes et aux noix';1;0
+e;3744401;'salsa facile aux pêches';1;0
+e;3744662;'gratin facile de pâtes aux trois fromages';1;0
+e;3746257;'saumon poché à l'aneth facile';1;0
+e;3746030;'spaghetti sauce carbonara facile et rapide';1;0
+e;3745853;'meringue facile';1;0
+e;3745769;'canard à l'orange super facile';1;0
+e;3745570;'goulash facile';1;0
+e;436200;'pas facile';1;50
+e;1733631;'être facile';1;0
+e;3318565;'biscuit de Savoie au chocolat';1;0
+e;3318721;'rôti de porc aux fèves';1;0
+e;3370809;'tarte facile aux framboises acidulées';1;0
+e;3369609;'soupe aux flocons d'avoine facile et rapide';1;0
+e;3369501;'sorbet facile tout fruit';1;0
+e;3369059;'salade facile tomates parmesan épinards';1;0
+e;3365420;'côtes de porc au poivron rouge facile, sauce fromage ail et fines herbes';1;0
+e;3364468;'milk-shake à la fraise facile';1;0
+e;3363436;'gratin de courgettes au thon facile';1;0
+e;3363093;'gâteau marbré facile';1;0
+e;3363050;'gâteau facile et rapide à la mangue';1;0
+e;3373543;'ultra-facile';1;0
+e;3372444;'hyper-facile';1;0
+e;3743795;'crumble facile aux fruits rouges';1;0
+e;3744201;'colombo de poulet facile à l'ananas';1;0
+e;3744673;'confiture de lait facile';1;0
+e;3745001;'tarte Tatin facile';1;0
+e;3745090;'gâteau d'anniversaire d'enfant facile';1;0
+e;3746494;'sauce à pizza facile et rapide';1;0
+e;3766641;'rendre facile';1;0
+e;2604242;'il n'y en aura pas de facile';1;0
+e;3359431;'boeuf carottes facile';1;0
+e;3362727;'gâteau à la crème de marrons facile';1;0
+e;3360574;'clafoutis de saint-nicolas facile aux mandarines';1;0
+e;3361077;'crème facile au citron';1;0
+e;3744052;'chausson à la rhubarbe facile';1;0
+e;3744070;'crumble facile kiwis et pêche';1;0
+e;3744713;'guacamole facile';1;0
+e;3744827;'paella facile aux crevettes';1;0
+e;3746629;'osso buco facile';1;0
+e;3746525;'ma salade niçoise facile';1;0
+e;3746116;'ganache facile au chocolat';1;0
+e;3745926;'crème brûlée facile';1;0
+e;376679;'rire facile';1;50
+e;353142;'facile à dire';1;50
+e;371244;'plus facile à dire qu'à faire';1;50
+e;336272;'argent facile';1;50
+e;360995;'larme facile';1;50
+e;357204;'gâchette facile';1;50
+e;371232;'plume facile';1;50
+e;368789;'parole facile';1;50
+e;344972;'couteau facile';1;50
+e;376108;'repartie facile';1;50
+e;373693;'proie facile';1;50
+e;369080;'pas toujours facile';1;50
+e;385096;'trop facile';1;50
+e;333022;'abord facile';1;50
+e;386848;'vie facile';1;54
+e;385721;'une proie facile pour';1;50
+e;353141;'facile à avaler';1;52
+e;320370;'facile d'accès';1;50
+e;321752;'victoire facile';1;50
+e;210689;'d'un abord facile';1;50
+e;224226;'femme facile';1;4
+e;238789;'caractère facile';1;50
+e;248353;'fille facile';1;30
+e;252537;'ouverture facile';1;2
+e;260749;'plus facile à mettre sur le dos qu'une chèvre sur ses deux cornes';1;50
+e;138682;'Le Moyen simple et facile d'organiser une libre république';1;50
+e;266556;'cake facile';1;50
+e;27646;'facile à vivre';1;68
+e;185688;'avoir plus facile';1;50
+e;196565;'avoir la réplique facile';1;50
+e;200261;'facile à la détente';1;50
+e;200262;'facile comme bonjour';1;50
+e;200263;'facile comme tout';1;50
+e;5937;'avoir la parole facile';1;50
+r;310675391;76826;4401736;11;25
+r;372243550;76826;14639914;11;25
+r;361549569;76826;14257786;11;26
+r;361549589;76826;14257788;11;26
+r;86226436;76826;3360078;11;27
+r;86235506;76826;3360666;11;28
+r;93467863;76826;3744589;11;28
+r;86110513;76826;3359031;11;29
+r;86239187;76826;3360534;11;29
+r;112661481;76826;5776904;11;29
+r;434383273;76826;16360961;11;29
+r;86129660;76826;3359098;11;30
+r;86259120;76826;3361773;11;30
+r;419751693;76826;15660495;11;30
+r;419758715;76826;15225785;11;30
+r;419758751;76826;15921632;11;30
+r;419758853;76826;15440025;11;30
+r;419758865;76826;15446695;11;30
+r;419758917;76826;15523285;11;30
+r;419759673;76826;15470182;11;30
+r;419768841;76826;15262362;11;30
+r;419832955;76826;15225774;11;30
+r;86226132;76826;3360042;11;31
+r;86230741;76826;3359938;11;31
+r;86242077;76826;3361080;11;31
+r;86253513;76826;3361745;11;31
+r;86260521;76826;3361830;11;31
+r;222100930;76826;9982308;11;31
+r;419709747;76826;15195627;11;31
+r;86132468;76826;3372002;11;32
+r;86133103;76826;3371922;11;32
+r;86137632;76826;3371339;11;32
+r;86137872;76826;3371312;11;32
+r;86137917;76826;3371307;11;32
+r;86138290;76826;3371264;11;32
+r;86138635;76826;3371231;11;32
+r;86138876;76826;3371205;11;32
+r;86139896;76826;3371064;11;32
+r;86141613;76826;3370861;11;32
+r;86143069;76826;3370665;11;32
+r;86144205;76826;3370543;11;32
+r;86144260;76826;3370537;11;32
+r;86144925;76826;3370451;11;32
+r;86145207;76826;3370421;11;32
+r;86146799;76826;3370240;11;32
+r;86146946;76826;3370219;11;32
+r;86147663;76826;3370131;11;32
+r;86147966;76826;3370101;11;32
+r;86150772;76826;3369752;11;32
+r;86152397;76826;3369572;11;32
+r;86152999;76826;3369489;11;32
+r;86154662;76826;3369276;11;32
+r;86154766;76826;3369261;11;32
+r;86157964;76826;3368901;11;32
+r;86161365;76826;3368523;11;32
+r;86161444;76826;3368511;11;32
+r;86164021;76826;3368227;11;32
+r;86164068;76826;3368221;11;32
+r;86165352;76826;3368056;11;32
+r;86169704;76826;3367525;11;32
+r;86169737;76826;3367521;11;32
+r;86169931;76826;3367495;11;32
+r;86170471;76826;3367430;11;32
+r;86170578;76826;3367416;11;32
+r;86170765;76826;3367389;11;32
+r;86171827;76826;3367250;11;32
+r;86173064;76826;3367123;11;32
+r;86173412;76826;3367084;11;32
+r;86173983;76826;3367009;11;32
+r;86175179;76826;3366849;11;32
+r;86175245;76826;3366841;11;32
+r;86179089;76826;3366381;11;32
+r;86224210;76826;3359767;11;32
+r;86233731;76826;3360511;11;32
+r;86239577;76826;3360642;11;32
+r;419632626;76826;15692800;11;32
+r;419632767;76826;15242796;11;32
+r;419633102;76826;15319866;11;32
+r;419633138;76826;15319850;11;32
+r;419633459;76826;15453389;11;32
+r;419640421;76826;15357098;11;32
+r;419640444;76826;15242803;11;32
+r;419640463;76826;15319867;11;32
+r;419670503;76826;15374848;11;32
+r;419670507;76826;16029381;11;32
+r;419670946;76826;15754118;11;32
+r;419672381;76826;15314647;11;32
+r;434372123;76826;16391350;11;32
+r;116571786;76826;5962385;11;34
+r;419527274;76826;15471530;11;34
+r;419527405;76826;15381075;11;34
+r;419535109;76826;15691037;11;34
+r;419565056;76826;15357100;11;34
+r;419565070;76826;15242799;11;34
+r;419565074;76826;15319862;11;34
+r;86213777;76826;3362233;11;35
+r;112178627;76826;5710459;11;35
+r;419492424;76826;15272820;11;35
+r;86205884;76826;3363182;11;36
+r;86243254;76826;3361185;11;36
+r;294089540;76826;11439401;11;36
+r;312734543;76826;11997843;11;36
+r;86184345;76826;3365786;11;37
+r;86189103;76826;3365327;11;37
+r;86199452;76826;3364005;11;37
+r;86214424;76826;3362169;11;37
+r;86191233;76826;3365097;11;38
+r;86200510;76826;3363863;11;38
+r;86202351;76826;3363623;11;38
+r;86209500;76826;3362755;11;38
+r;287886921;76826;11233934;11;38
+r;305999763;76826;11833587;11;38
+r;419716299;76826;15262871;11;38
+r;86197706;76826;3364273;11;39
+r;313761249;76826;12053641;11;39
+r;313761251;76826;12053640;11;39
+r;432540134;76826;16360962;11;39
+r;86182735;76826;3365953;11;40
+r;86230405;76826;3360378;11;40
+r;122472868;76826;6670744;11;40
+r;339750587;76826;13403558;11;40
+r;86184956;76826;3365724;11;41
+r;86212375;76826;3362406;11;41
+r;86188837;76826;3365353;11;42
+r;86195860;76826;3364515;11;42
+r;86201177;76826;3363773;11;42
+r;86240576;76826;3360995;11;43
+r;200557219;76826;9101787;11;50
+r;200557567;76826;9101867;11;50
+r;200559435;76826;9101991;11;50
+r;200565814;76826;9101951;11;50
+r;200595138;76826;9101884;11;50
+r;200603946;76826;9101953;11;50
+r;200670797;76826;9102048;11;50
+r;200683809;76826;9102073;11;50
+r;213879485;76826;9465414;11;50
+r;402108250;76826;15253306;11;50
+r;395011943;76826;15386433;11;50
+r;395012731;76826;15287328;11;50
+r;395013379;76826;15378260;11;50
+r;395013391;76826;15378262;11;50
+r;86135247;76826;3371635;11;51
+r;86135857;76826;3371558;11;51
+r;86143219;76826;3370651;11;51
+r;86162773;76826;3368368;11;51
+r;86185361;76826;3365681;11;51
+r;86188631;76826;3365374;11;51
+r;86194007;76826;3364762;11;51
+r;86194185;76826;3364738;11;51
+r;86198039;76826;3364222;11;51
+r;86209150;76826;3362790;11;51
+r;86233906;76826;3360591;11;51
+r;86242407;76826;3361081;11;51
+r;93454841;76826;3743768;11;51
+r;93455062;76826;3743729;11;51
+r;93462770;76826;3744202;11;51
+r;93468312;76826;3744631;11;51
+r;93472449;76826;3744784;11;51
+r;93478431;76826;3744928;11;51
+r;93488340;76826;3745225;11;51
+r;25069155;76826;1543694;11;52
+r;83641813;76826;3318456;11;52
+r;86157734;76826;3368919;11;52
+r;86171303;76826;3367318;11;52
+r;86195428;76826;3364575;11;52
+r;86202898;76826;3363565;11;52
+r;86204365;76826;3363396;11;52
+r;86207552;76826;3362960;11;52
+r;93465815;76826;3744448;11;52
+r;93469426;76826;3744490;11;52
+r;93470564;76826;3744776;11;52
+r;93484654;76826;3744810;11;52
+r;93489490;76826;3745193;11;52
+r;93490915;76826;3745363;11;52
+r;93491895;76826;3745380;11;52
+r;93491990;76826;3745465;11;52
+r;93497672;76826;3746266;11;52
+r;93501447;76826;3745811;11;52
+r;93502676;76826;3745661;11;52
+r;14690710;76826;437002;11;53
+r;71948338;76826;2932561;11;53
+r;83636735;76826;3318537;11;53
+r;83646066;76826;3318652;11;53
+r;83649818;76826;3318745;11;53
+r;83650452;76826;3318700;11;53
+r;83650809;76826;3318822;11;53
+r;86142005;76826;3370808;11;53
+r;86146658;76826;3370257;11;53
+r;86176850;76826;3366644;11;53
+r;86186416;76826;3365585;11;53
+r;86211432;76826;3362508;11;53
+r;86213299;76826;3362290;11;53
+r;86225415;76826;3359842;11;53
+r;86234464;76826;3360663;11;53
+r;86235041;76826;3360709;11;53
+r;86241377;76826;3361062;11;53
+r;93458065;76826;3743754;11;53
+r;93461482;76826;3744109;11;53
+r;93465467;76826;3744176;11;53
+r;93484629;76826;3745026;11;53
+r;93490240;76826;3745366;11;53
+r;93497755;76826;3746254;11;53
+r;93501247;76826;3745832;11;53
+r;93504650;76826;3745348;11;53
+r;83638818;76826;3318525;11;54
+r;83642576;76826;3318596;11;54
+r;86130367;76826;3359300;11;54
+r;86165943;76826;3367983;11;54
+r;86185371;76826;3365680;11;54
+r;86190641;76826;3365167;11;54
+r;86199014;76826;3364062;11;54
+r;86205236;76826;3363273;11;54
+r;86205252;76826;3363271;11;54
+r;86208200;76826;3362889;11;54
+r;86219944;76826;3359719;11;54
+r;86254710;76826;3361747;11;54
+r;93454493;76826;3743665;11;54
+r;93459574;76826;3743923;11;54
+r;93466020;76826;3744414;11;54
+r;93482335;76826;3744949;11;54
+r;93494769;76826;3746624;11;54
+r;93494869;76826;3746611;11;54
+r;93497196;76826;3746323;11;54
+r;93647502;76826;3759474;11;54
+r;18155799;76826;580376;11;55
+r;83651263;76826;3318847;11;55
+r;86134794;76826;3371694;11;55
+r;86154626;76826;3369281;11;55
+r;86163764;76826;3368258;11;55
+r;86206263;76826;3363127;11;55
+r;86206848;76826;3363049;11;55
+r;86207955;76826;3362911;11;55
+r;86219145;76826;3359635;11;55
+r;86231732;76826;3360375;11;55
+r;86259795;76826;3361887;11;55
+r;93465435;76826;3744254;11;55
+r;93468558;76826;3744656;11;55
+r;93475116;76826;3744878;11;55
+r;93487113;76826;3745176;11;55
+r;93488376;76826;3745020;11;55
+r;93494136;76826;3746704;11;55
+r;93498835;76826;3746123;11;55
+r;83640560;76826;3318623;11;56
+r;86143208;76826;3370652;11;56
+r;86179105;76826;3366379;11;56
+r;86196865;76826;3364365;11;56
+r;86198962;76826;3364070;11;56
+r;86211333;76826;3362519;11;56
+r;86213325;76826;3362287;11;56
+r;86223790;76826;3359744;11;56
+r;86252907;76826;3361697;11;56
+r;93454991;76826;3743662;11;56
+r;93457749;76826;3743972;11;56
+r;93461198;76826;3744138;11;56
+r;93462013;76826;3744216;11;56
+r;93471970;76826;3744640;11;56
+r;93478010;76826;3744857;11;56
+r;93484086;76826;3744912;11;56
+r;93485045;76826;3745063;11;56
+r;93491360;76826;3745384;11;56
+r;93491997;76826;3745462;11;56
+r;93495053;76826;3746587;11;56
+r;93498480;76826;3746166;11;56
+r;93502102;76826;3745734;11;56
+r;93503108;76826;3745607;11;56
+r;93504561;76826;3745390;11;56
+r;29224843;76826;1781644;11;57
+r;83640155;76826;3318513;11;57
+r;86128785;76826;3359344;11;57
+r;86183078;76826;3365919;11;57
+r;86194637;76826;3364680;11;57
+r;86205589;76826;3363226;11;57
+r;86217070;76826;3359641;11;57
+r;93455271;76826;3743740;11;57
+r;93459673;76826;3744060;11;57
+r;93466136;76826;3744391;11;57
+r;93478227;76826;3744916;11;57
+r;93484535;76826;3744837;11;57
+r;93487766;76826;3745221;11;57
+r;93488363;76826;3745103;11;57
+r;93488530;76826;3745239;11;57
+r;93489463;76826;3745275;11;57
+r;93494418;76826;3746667;11;57
+r;93496407;76826;3746418;11;57
+r;93497720;76826;3746259;11;57
+r;28232680;76826;1710243;11;58
+r;52442550;76826;2571787;11;58
+r;83647773;76826;3318726;11;58
+r;86150433;76826;3369792;11;58
+r;86173951;76826;3367013;11;58
+r;86181712;76826;3366072;11;58
+r;86184856;76826;3365732;11;58
+r;86189064;76826;3365331;11;58
+r;86194547;76826;3364689;11;58
+r;86194826;76826;3364664;11;58
+r;86204217;76826;3363416;11;58
+r;86208752;76826;3362838;11;58
+r;86209612;76826;3362740;11;58
+r;86230248;76826;3360319;11;58
+r;86234126;76826;3360542;11;58
+r;86239272;76826;3360713;11;58
+r;86251099;76826;3361598;11;58
+r;93457295;76826;3743887;11;58
+r;93464001;76826;3744192;11;58
+r;93465257;76826;3744401;11;58
+r;93468663;76826;3744662;11;58
+r;93497735;76826;3746257;11;58
+r;93499599;76826;3746030;11;58
+r;93501061;76826;3745853;11;58
+r;93501810;76826;3745769;11;58
+r;93503420;76826;3745570;11;58
+r;14375425;76826;436200;11;59
+r;28474333;76826;1733631;11;59
+r;83639308;76826;3318565;11;59
+r;83659241;76826;3318721;11;59
+r;86141997;76826;3370809;11;59
+r;86152068;76826;3369609;11;59
+r;86152913;76826;3369501;11;59
+r;86156395;76826;3369059;11;59
+r;86188158;76826;3365420;11;59
+r;86196201;76826;3364468;11;59
+r;86204044;76826;3363436;11;59
+r;86206512;76826;3363093;11;59
+r;86206840;76826;3363050;11;59
+r;86220314;76826;3373543;11;59
+r;86221109;76826;3372444;11;59
+r;93457407;76826;3743795;11;59
+r;93461682;76826;3744201;11;59
+r;93468970;76826;3744673;11;59
+r;93484075;76826;3745001;11;59
+r;93487553;76826;3745090;11;59
+r;93495817;76826;3746494;11;59
+r;94094770;76826;3766641;11;59
+r;18155549;76826;580375;11;60
+r;55465148;76826;2604242;11;60
+r;86130113;76826;3359431;11;60
+r;86209711;76826;3362727;11;60
+r;86216011;76826;3360574;11;60
+r;86242840;76826;3361077;11;60
+r;93459478;76826;3744052;11;60
+r;93461948;76826;3744070;11;60
+r;93469635;76826;3744713;11;60
+r;93471327;76826;3744827;11;60
+r;93494725;76826;3746629;11;60
+r;93495548;76826;3746525;11;60
+r;93498890;76826;3746116;11;60
+r;93500449;76826;3745926;11;60
+r;12595241;76826;376679;11;101
+r;12690703;76826;353142;11;101
+r;12617397;76826;371244;11;102
+r;12760569;76826;336272;11;102
+r;12658793;76826;360995;11;103
+r;12674091;76826;357204;11;103
+r;12617449;76826;371232;11;106
+r;12627329;76826;368789;11;106
+r;12724567;76826;344972;11;106
+r;12597471;76826;376108;11;108
+r;12607153;76826;373693;11;108
+r;12626291;76826;369080;11;108
+r;12561009;76826;385096;11;109
+r;12773369;76826;333022;11;109
+r;12553987;76826;386848;11;110
+r;12558441;76826;385721;11;110
+r;12690707;76826;353141;11;110
+r;9060088;76826;320370;11;148
+r;9077680;76826;321752;11;148
+r;8685559;76826;210689;11;161
+r;8694800;76826;224226;11;161
+r;8705667;76826;238789;11;161
+r;8711723;76826;248353;11;161
+r;8716141;76826;252537;11;161
+r;8727287;76826;260749;11;161
+r;8618761;76826;138682;11;163
+r;8734262;76826;266556;11;163
+r;8579140;76826;27646;11;164
+r;8645178;76826;185688;11;164
+r;8661768;76826;196565;11;164
+r;8668080;76826;200261;11;165
+r;8668082;76826;200262;11;165
+r;8668085;76826;200263;11;165
+r;8571935;76826;5937;11;166

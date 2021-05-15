@@ -1,0 +1,552 @@
+
+e;27604;'début';1;728
+e;6321703;'crises épileptiques partielles complexes avec trouble de la conscience au début';1;0
+e;6343041;'crises épileptiques à début partielle simple suivies de troubles de la conscience';1;0
+e;6343193;'menstruation peu abondante ou peu fréquente dès le début de la menstruation';1;0
+e;6357077;'béance du col utérin avant le début du travail';1;0
+e;6373001;'début du travail obstétrical';1;0
+e;6375470;'antepartum obstruction provenant d'une mauvaise position du foetus au début du travail';1;0
+e;6368349;'avec accouchement, hémorragie non précisée en début de grossesse';1;0
+e;12158771;'mesure d'heure début transfusion';1;0
+e;12158768;'mesure d'heure début du recueil';1;0
+e;12158766;'mesure d'heure début de traitement';1;0
+e;12143814;'mesure de date début du recueil';1;0
+e;13642843;'début du Moyen Âge';1;0
+e;13804224;'début du XIVe siècle';1;0
+e;6323482;'déficit multiple en carboxylases à début tardif';1;0
+e;6388602;'asthme à début tardif';1;0
+e;6403880;'syndrome de stress post-traumatique à début retardé';1;0
+e;6287499;'épisode de soins non précisé autre hémorragie précisée en début de grossesse';1;0
+e;6319321;'oedème pulmonaire de début brutal';1;0
+e;14376185;'marque le début du Moyen Âge central. Il fait suite au Xe siècle et précède le XIIe siècle';777;0
+e;14434610;'heure de début';1;0
+e;14492070;'début d'alerte';777;0
+e;14639881;'début du XXe';1;0
+e;14734411;'Transitions du début et de la fin';777;0
+e;14776445;'à partir du début des années 1970';777;0
+e;16365077;'touche de début';777;0
+e;6395635;'rupture utérine avant le début du travail';1;0
+e;6296558;'mort foetale par asphyxie ou anoxie avant le début du travail';1;0
+e;6312516;'obstruction provenant d'une mauvaise position du foetus au début du travail';1;0
+e;6370967;'avec accouchement, obstruction causée par une mauvaise position du foetus au début du travail';1;0
+e;6335599;'dysthymie à début tardif';1;0
+e;6325775;'trouble psychotique bref avec début lors du post-partum';1;0
+e;6328498;'dystonies idiopathiques focales à début adulte';1;0
+e;6335772;'sans autre explication mort survenant moins de 24 heures après le début des symptômes';1;0
+e;6337331;'dysthymie à début précoce';1;0
+e;6354813;'troubles à début tardif';1;0
+e;6366186;'début du travail';1;0
+e;6378257;'début d' avortement';1;0
+e;6380393;'dystonies à début adulte';1;0
+e;6389928;'dysthymie primaire à début précoce';1;0
+e;6392053;'dysthymie secondaire à début tardif';1;0
+e;6392229;'dystonies idiopathiques de torsion à début adulte';1;0
+e;6394115;'dystonies à début infantile';1;0
+e;6421016;'trouble dépressif majeur récurrent avec début lors du post-partum';1;0
+e;15034332;'au début d'';1;0
+e;15034334;'au début du';1;0
+e;15034333;'au début des';1;0
+e;15034450;'au tout début des';1;0
+e;6434544;'mort foetale d'asphyxie ou d'anoxie avant le début du travail ou à un moment non précisé';1;0
+e;6431434;'État de stress post-traumatique à début retardé';1;0
+e;6398123;'chez un enfant né vivant souffrance foetale de début non précisé';1;0
+e;6335592;'autres hémorragies du début de la grossesse';1;0
+e;6359832;'antepartum autre hémorragie précisée en début de grossesse';1;0
+e;6368787;'autre hémorragie précisée en début de grossesse';1;0
+e;6373013;'chez un enfant né vivant souffrance foetale avant le début du travail';1;0
+e;6392723;'anomalies du début et de la longueur du travail';1;0
+e;6317129;'avec accouchement, autre hémorragie précisée en début de grossesse';1;0
+e;6317897;'non précisée, hémorragie en début de grossesse';1;0
+e;12088852;'adn début de la région d'intérêt';1;0
+e;12098123;'heure début transfusion';1;0
+e;12098122;'heure début du recueil';1;0
+e;12098121;'heure début de traitement';1;0
+e;12094871;'date début du recueil';1;0
+e;6318211;'mort du foetus par asphyxie ou anoxie avant le début du travail';1;0
+e;6439654;'début prématuré de l'accouchement avant 37 semaines de grossesse';1;0
+e;6431623;'rupture de l'utérus non précisée comme survenant avant le début du travail';1;0
+e;6434905;'dystonies à début dans l'enfance';1;0
+e;6430578;'sclérodermie à début brutal';1;0
+e;9989201;'hémorragie en début de grossesse non précisée';1;0
+e;15441579;'date de début des travaux';1;0
+e;15218605;'depuis le début';1;0
+e;15218600;'dès le début';1;0
+e;15416998;'début + [mois/année]';1;0
+e;15261795;'début août';1;0
+e;15202586;'début avril';1;0
+e;15520440;'début brutal d'une maladie';1;0
+e;15218603;'début d'enregistrement';1;0
+e;15584221;'début d'incendie';1;0
+e;15195285;'début d'été';1;0
+e;15526134;'début de gangrène des extrémités';1;0
+e;15244846;'début de l'adolescence';1;0
+e;15524008;'début de l'an dernier';1;0
+e;15583280;'début de l'an prochain';1;0
+e;15345351;'début de l'âge adulte';1;0
+e;15329948;'début de la coupure de débit';1;0
+e;15285324;'début de la puberté';1;0
+e;15633827;'début de la seigneurie';777;0
+e;15442328;'début de matinée';1;0
+e;15567913;'début de polémique';1;0
+e;15573509;'début des années vingt';1;0
+e;15206343;'début du printemps';1;0
+e;15325367;'début décembre';1;0
+e;15224090;'début et évolution';1;0
+e;15201644;'début janvier';1;0
+e;15202912;'début juillet';1;0
+e;15202807;'début juin';1;0
+e;15202476;'début mai';1;0
+e;15201020;'début mars';1;0
+e;15376646;'début mitigé';1;0
+e;15201855;'début novembre';1;0
+e;15202393;'début octobre';1;0
+e;15202309;'début septembre';1;0
+e;15339176;'début tardif';1;0
+e;13751344;'détresse foetale intra-utérine constatée avant le début du travail, chez un nouveau-né vivant';1;0
+e;13746464;'détresse foetale intra-utérine, sans précision quant au moment où celle-ci a été constatée, avant ou après le début du travail, chez un nouveau-né vivant';1;0
+e;15418496;'en début d'année';1;0
+e;15560800;'en début de journée comptable';1;0
+e;15280141;'en début de matinée';1;0
+e;15529659;'en début de mois';1;0
+e;15390783;'en début de saison';1;0
+e;15349291;'en début de semaine dernière';1;0
+e;15349293;'en début de semaine prochaine';1;0
+e;15408256;'en début de soirée';1;0
+e;15408259;'en tout début de soirée';1;0
+e;12111912;'début-fin';1;0
+e;6443859;'hémorragie du début de la grossesse sans précision sur l'épisode de soins';1;0
+e;6436365;'avec accouchement, rupture de l'utérus avant le début du travail';1;0
+e;6431018;'début de la maladie';1;0
+e;15374318;'au début août';1;0
+e;15442325;'au début de [qch]';1;0
+e;15349297;'au début de la semaine';1;0
+e;15209998;'au début de mars';1;0
+e;15336359;'au début de novembre';1;0
+e;15770277;'au début de quelque chose';1;0
+e;15571064;'au début des années 80';1;0
+e;15403576;'au début du 1er siècle';1;0
+e;15255800;'au début du Moyen Âge';1;0
+e;15340748;'avec le début de l'année';1;0
+e;15356213;'avoir un début de calvitie';1;0
+e;15304938;'balise de début';1;0
+e;15300077;'business angel, investisseur du début';1;0
+e;15426836;'c'est le début de la fin';1;0
+e;6425755;'obstruction causée par une mauvaise position du foetus au début du travail';1;0
+e;15423095;'apporter un début de réponse';1;0
+e;13784724;'asphyxie foetale constatée avant le début du travail, chez un nouveau-né vivant';1;0
+e;13769695;'asphyxie foetale constatée avant ou après le début du travail, chez un nouveau-né vivant';1;0
+e;13784725;'asphyxie intra-utérine constatée avant le début du travail, chez un nouveau-né vivant';1;0
+e;13769696;'asphyxie intra-utérine constatée avant ou après le début du travail, chez un nouveau-né vivant';1;0
+e;5838649;'paraplégie spastique familiale ascendante à début précoce';777;0
+e;6448865;'rupture de l'utérus avant le début du travail';1;0
+e;15780759;'Répartition ethnique de la Galicie au début du XXe siècle';777;0
+e;15356382;'accolade de début';1;0
+e;6394447;'acidose foetale constatée avant le début du travail chez un nouveau-né vivant';1;0
+e;13748366;'acidose foetale constatée avant ou après le début du travail, chez un nouveau-né vivant';1;0
+e;13748367;'acidose intra-utérine constatée avant ou après le début du travail, chez un nouveau-né vivant';1;0
+e;13756784;'anomalie du rythme cardiaque foetal constatée avant le début du travail, chez un nouveau-né vivant';1;0
+e;13743585;'anomalie du rythme cardiaque foetal, constatée avant ou après le début du travail chez un nouveau-né vivant';1;0
+e;13753652;'anoxie ou hypoxie foetale constatée avant ou après le début du travail, chez un nouveau-né vivant';1;0
+e;13753653;'anoxie ou hypoxie intra-utérine constatée avant ou après le début du travail, chez un nouveau-né vivant';1;0
+e;6447879;'maladie d'alzheimer à début tardif';1;0
+e;6432076;'maladie d'alzheimer à début focal';1;0
+e;6296385;'anoxie ou hypoxie foetale constatée avant le début du travail chez un nouveau-né vivant';1;0
+e;6300623;'anoxie ou hypoxie intra-utérine constatée avant le début du travail chez un nouveau-né vivant';1;0
+e;6329627;'acidose intra-utérine constatée avant le début du travail chez un nouveau-né vivant';1;0
+e;15315667;'Le public a écouté silencieusement du début jusqu'à la fin.';1;0
+e;15525686;'Les choses se seront arrangées d'ici le début de l'après-midi.';1;0
+e;16159731;'La situation au début de l'année 1861';777;0
+e;6427015;'épisode de soins non précisé hémorragie non précisée en début de grossesse';1;0
+e;10840744;'Date début';777;0
+e;6352371;'ante-partum obstruction causée par une mauvaise position du foetus au début du travail';1;0
+e;6430098;'avec accouchement, obstruction provenant d'une mauvaise position du foetus au début du travail';1;0
+e;11997831;'début de grossesse';1;0
+e;5535402;'épisode du début de la vie de Jésus';1;0
+e;5781952;'touche début';777;0
+e;9929892;'hémorragie non précisée en début de grossesse avec accouchement';1;0
+e;12053196;'date de début';1;0
+e;6449748;'antepartum rupture de l'utérus avant le début du travail';1;0
+e;6448313;'épisode de soins non précisé rupture de l'utérus avant le début du travail';1;0
+e;9929917;'obstruction provenant d'une mauvaise position du foetus au début du travail avec accouchement';1;0
+e;9929939;'rupture de l'utérus avant le début du travail avec accouchement';1;0
+e;9929912;'obstruction causée par une mauvaise position du foetus au début du travail avec accouchement';1;0
+e;9929800;'autre hémorragie précisée en début de grossesse avec accouchement';1;0
+e;12053197;'date de début d'application des droits';1;0
+e;12053198;'date de début de validité';1;0
+e;6450357;'chez l'enfant né vivant souffrance foetale avant le début du travail';1;0
+e;11153709;'début Ponziani';777;0
+e;1840501;'ostéolyse héréditaire à début distal';1;0
+e;10118487;'Un début dans la vie';777;0
+e;10312993;'début de la première guerre israélo-arabe';777;0
+e;11153829;'début Van Geet';777;0
+e;13376655;'début du XXIe siècle';1;0
+e;10461102;'chercher le début du rouleau de PQ';1;0
+e;10461100;'trouver le début du rouleau de PQ';1;0
+e;11007868;'début de croissance';1;0
+e;11153809;'début Réti';777;0
+e;11153819;'début Grob';777;0
+e;11153822;'début Larsen';777;0
+e;2478259;'début du fou';1;0
+e;6450786;'trouble d'émancipation de l'adolescence et du début de la vie adulte';1;0
+e;6450209;'maladie d'alzheimer à début précoce';1;0
+e;11153718;'début semi-ouvert';777;0
+e;12769477;'début du XVIIe siècle';1;0
+e;12769476;'début du XVIIIe siècle';1;0
+e;12769479;'début du XVe siècle';1;0
+e;12769474;'début du XXe siècle';1;0
+e;12769478;'début du XVIe siècle';1;0
+e;12769475;'début du XIXe siècle';1;0
+e;11153767;'début semi-fermé';777;0
+e;9231780;'début du siècle';1;0
+e;9563250;'début du repas';1;0
+e;11596104;'Le début de sa carrière 1961-1968';777;0
+e;12710617;'début de l'épidémie de choléra à Paris';777;0
+e;12722708;'émeute de Québec de fin mars et début avril 1918';777;0
+e;15632228;'Je compte partir début mai.';1;0
+e;15385501;'Elle était vraiment mal à l'aise au début.';1;0
+e;15572379;'Il m'a menti depuis le début.';1;0
+e;15309355;'Il était méfiant au début.';1;0
+e;15374394;'C'est un peintre du début du siècle.';1;0
+e;14543831;'Corrélation de l'âge du début de la maladie et du nombre de CAG';777;0
+e;15777371;'Au début de la séance';777;0
+e;3229241;'début d'une action';1;0
+e;6011310;'perturbation ionosphérique à début brusque';777;0
+e;578518;'lire le début';1;0
+e;2189395;'en début d'';2;0
+e;1637408;'salaire de début';1;0
+e;577674;'Un début d'infection du type chalazion';777;0
+e;1815105;'début de pointe';777;0
+e;2549788;'début ouvert';1;0
+e;2566695;'début de la fin';1;0
+e;567007;'générique de début';777;50
+e;3676048;'début brutal';1;0
+e;1781391;'faire son début';1;0
+e;2923547;'début de la journée';1;0
+e;1852265;'spondylo-arthropathie à début infantile';1;0
+e;350542;'en début de match';1;50
+e;350539;'en début d'exercice';1;50
+e;348709;'début du millénaire';1;50
+e;348702;'début de mois';1;50
+e;348701;'début de l'année';1;16
+e;351520;'en tout début de';1;50
+e;350543;'en début de parcours';1;50
+e;348713;'début de réalisation';1;50
+e;348704;'début de partie';1;50
+e;354239;'fin 1968 début 1969';1;50
+e;350544;'en début de rencontre';1;50
+e;348710;'début irrégulier';1;50
+e;348708;'début de siècle';1;50
+e;348715;'début écossais';1;50
+e;348714;'début fermé';1;50
+e;348711;'début anglais';1;50
+e;350540;'en début de';1;50
+e;350541;'en début de carrière';1;50
+e;348705;'début de preuve';1;50
+e;339536;'bon début';1;50
+e;337530;'au tout début de';1;50
+e;350545;'en début de séance';1;50
+e;348707;'début de session';1;50
+e;354257;'fin mai début juin';1;50
+e;348706;'début de réponse';1;50
+e;348703;'début de panique';1;50
+e;337357;'au début de';1;50
+e;322675;'être situé au début';1;50
+e;239311;'du début à la fin';1;50
+e;254517;'être en début de carrière';1;50
+e;256001;'en début d'après-midi';1;50
+e;231789;'début d'année';1;50
+e;233213;'début de soirée';1;10
+e;236933;'début des emmerdes';1;50
+e;237621;'début de saison';1;50
+e;242444;'clap de début';1;50
+e;251296;'début du jour';1;50
+e;252021;'début de l'été';1;50
+e;254521;'début de carrière';1;50
+e;263085;'début d'après-midi';1;50
+e;59089;'Voyage au début du monde';1;50
+e;202058;'il y a un début à toutes choses';1;50
+e;202727;'le début de la fin';1;50
+e;207009;'reprendre du début';1;50
+e;214465;'début de ligne';1;50
+e;295934;'Un début d'infection du type chalazion.';777;50
+e;155669;'début de semaine';1;88
+e;157860;'début de journée';1;50
+e;276733;'ordre de début';777;50
+e;163820;'commencer par le début';1;50
+e;163819;'au tout début';1;52
+e;126423;'au début';1;104
+r;300121072;27604;6321703;11;25
+r;301494257;27604;6343041;11;25
+r;301494498;27604;6343193;11;25
+r;301813488;27604;6357077;11;25
+r;303043804;27604;6373001;11;25
+r;303608166;27604;6375470;11;25
+r;312961199;27604;6368349;11;25
+r;316695660;27604;12158771;11;25
+r;316695669;27604;12158768;11;25
+r;316695678;27604;12158766;11;25
+r;316745342;27604;12143814;11;25
+r;346195879;27604;13642843;11;25
+r;348934188;27604;13804224;11;25
+r;349118175;27604;6323482;11;25
+r;349185593;27604;6388602;11;25
+r;349187722;27604;6403880;11;25
+r;349247137;27604;6287499;11;25
+r;349346713;27604;6319321;11;25
+r;365126612;27604;14376185;11;25
+r;366516565;27604;14434610;11;25
+r;368351219;27604;14492070;11;25
+r;372242685;27604;14639881;11;25
+r;374627518;27604;14734411;11;25
+r;375522543;27604;14776445;11;25
+r;432132613;27604;16365077;11;25
+r;400820625;27604;6395635;11;25
+r;397375219;27604;6296558;11;25
+r;398412333;27604;6312516;11;25
+r;400483100;27604;6370967;11;25
+r;301235866;27604;6335599;11;26
+r;300191683;27604;6325775;11;26
+r;300225893;27604;6328498;11;26
+r;301263704;27604;6335772;11;26
+r;301418731;27604;6337331;11;26
+r;301765829;27604;6354813;11;26
+r;302192247;27604;6366186;11;26
+r;303639309;27604;6378257;11;26
+r;303765357;27604;6380393;11;26
+r;304573563;27604;6389928;11;26
+r;304653949;27604;6392053;11;26
+r;304856796;27604;6392229;11;26
+r;304902994;27604;6394115;11;26
+r;305708014;27604;6421016;11;26
+r;393619841;27604;15034332;11;26
+r;393620424;27604;15034334;11;26
+r;393626926;27604;15034333;11;26
+r;393628165;27604;15034450;11;26
+r;121576785;27604;6434544;11;27
+r;122684757;27604;6431434;11;27
+r;305060566;27604;6398123;11;27
+r;301234999;27604;6335592;11;27
+r;302085233;27604;6359832;11;27
+r;302970168;27604;6368787;11;27
+r;303108046;27604;6373013;11;27
+r;304861589;27604;6392723;11;27
+r;312958538;27604;6317129;11;27
+r;313059881;27604;6317897;11;27
+r;315442588;27604;12088852;11;27
+r;315590651;27604;12098123;11;27
+r;315590658;27604;12098122;11;27
+r;315590665;27604;12098121;11;27
+r;315616428;27604;12094871;11;27
+r;341007945;27604;6318211;11;27
+r;121531143;27604;6439654;11;28
+r;122683167;27604;6431623;11;28
+r;121573582;27604;6434905;11;29
+r;122691361;27604;6430578;11;30
+r;222572003;27604;9989201;11;30
+r;419765175;27604;15441579;11;30
+r;419772796;27604;15218605;11;30
+r;419803289;27604;15218600;11;30
+r;419804258;27604;15416998;11;30
+r;419804261;27604;15261795;11;30
+r;419804266;27604;15202586;11;30
+r;419804271;27604;15520440;11;30
+r;419804281;27604;15218603;11;30
+r;419804286;27604;15584221;11;30
+r;419804291;27604;15195285;11;30
+r;419804296;27604;15526134;11;30
+r;419804305;27604;15244846;11;30
+r;419804312;27604;15524008;11;30
+r;419804319;27604;15583280;11;30
+r;419804326;27604;15345351;11;30
+r;419804335;27604;15329948;11;30
+r;419804347;27604;15285324;11;30
+r;419804354;27604;15633827;11;30
+r;419804361;27604;15442328;11;30
+r;419804367;27604;15567913;11;30
+r;419804374;27604;15573509;11;30
+r;419804381;27604;15206343;11;30
+r;419804386;27604;15325367;11;30
+r;419804391;27604;15224090;11;30
+r;419804396;27604;15201644;11;30
+r;419804401;27604;15202912;11;30
+r;419804406;27604;15202807;11;30
+r;419804411;27604;15202476;11;30
+r;419804416;27604;15201020;11;30
+r;419804421;27604;15376646;11;30
+r;419804426;27604;15201855;11;30
+r;419804431;27604;15202393;11;30
+r;419804436;27604;15202309;11;30
+r;419804441;27604;15339176;11;30
+r;419829084;27604;13751344;11;30
+r;419829144;27604;13746464;11;30
+r;419839116;27604;15418496;11;30
+r;419839120;27604;15560800;11;30
+r;419839128;27604;15280141;11;30
+r;419839134;27604;15529659;11;30
+r;419839140;27604;15390783;11;30
+r;419839146;27604;15349291;11;30
+r;419839154;27604;15349293;11;30
+r;419839162;27604;15408256;11;30
+r;419843526;27604;15408259;11;30
+r;418362256;27604;12111912;11;31
+r;121493390;27604;6443859;11;32
+r;121560481;27604;6436365;11;32
+r;122687962;27604;6431018;11;32
+r;419618972;27604;15374318;11;32
+r;419618978;27604;15442325;11;32
+r;419618985;27604;15349297;11;32
+r;419618993;27604;15209998;11;32
+r;419619001;27604;15336359;11;32
+r;419619009;27604;15770277;11;32
+r;419619018;27604;15571064;11;32
+r;419619026;27604;15403576;11;32
+r;419619036;27604;15255800;11;32
+r;419626370;27604;15340748;11;32
+r;419637129;27604;15356213;11;32
+r;419644982;27604;15304938;11;32
+r;419668141;27604;15300077;11;32
+r;419670856;27604;15426836;11;32
+r;122728604;27604;6425755;11;33
+r;419603997;27604;15423095;11;33
+r;419611671;27604;13784724;11;33
+r;419611689;27604;13769695;11;33
+r;419611710;27604;13784725;11;33
+r;419611731;27604;13769696;11;33
+r;114012183;27604;5838649;11;34
+r;121057845;27604;6448865;11;34
+r;419537294;27604;15780759;11;34
+r;419569340;27604;15356382;11;34
+r;419573144;27604;6394447;11;34
+r;419573165;27604;13748366;11;34
+r;419573217;27604;13748367;11;34
+r;419597218;27604;13756784;11;34
+r;419597266;27604;13743585;11;34
+r;419597530;27604;13753652;11;34
+r;419597574;27604;13753653;11;34
+r;121457279;27604;6447879;11;35
+r;122679150;27604;6432076;11;35
+r;298894811;27604;6296385;11;35
+r;299137175;27604;6300623;11;35
+r;399498976;27604;6329627;11;35
+r;419493305;27604;15315667;11;35
+r;419495283;27604;15525686;11;35
+r;424868444;27604;16159731;11;35
+r;122718996;27604;6427015;11;36
+r;271595996;27604;10840744;11;36
+r;301745294;27604;6352371;11;36
+r;122695064;27604;6430098;11;37
+r;312733850;27604;11997831;11;37
+r;109546303;27604;5535402;11;39
+r;112658221;27604;5781952;11;39
+r;219831525;27604;9929892;11;39
+r;313761289;27604;12053196;11;39
+r;121049909;27604;6449748;11;40
+r;121453284;27604;6448313;11;40
+r;219834075;27604;9929917;11;40
+r;219833419;27604;9929939;11;40
+r;219832586;27604;9929912;11;40
+r;219830507;27604;9929800;11;40
+r;313743684;27604;12053197;11;40
+r;313745088;27604;12053198;11;40
+r;121044196;27604;6450357;11;41
+r;283607371;27604;11153709;11;41
+r;29907920;27604;1840501;11;42
+r;234743299;27604;10118487;11;42
+r;252674801;27604;10312993;11;42
+r;283607131;27604;11153829;11;42
+r;339218910;27604;13376655;11;42
+r;259018477;27604;10461102;11;43
+r;261010540;27604;10461100;11;43
+r;278547823;27604;11007868;11;43
+r;283584760;27604;11153809;11;43
+r;283586200;27604;11153819;11;43
+r;283585498;27604;11153822;11;44
+r;59271966;27604;2478259;11;45
+r;121040351;27604;6450786;11;45
+r;121045589;27604;6450209;11;48
+r;283574879;27604;11153718;11;48
+r;327576118;27604;12769477;11;48
+r;327577161;27604;12769476;11;48
+r;327579583;27604;12769479;11;48
+r;327579599;27604;12769474;11;48
+r;327579988;27604;12769478;11;48
+r;327580022;27604;12769475;11;48
+r;283586075;27604;11153767;11;49
+r;210374689;27604;9231780;11;50
+r;214800873;27604;9563250;11;50
+r;297953913;27604;11596104;11;50
+r;326150988;27604;12710617;11;50
+r;327325077;27604;12722708;11;50
+r;402153866;27604;15632228;11;50
+r;397500683;27604;15385501;11;50
+r;402107728;27604;15572379;11;50
+r;402111288;27604;15309355;11;50
+r;395011409;27604;15374394;11;50
+r;395017694;27604;14543831;11;50
+r;411712915;27604;15777371;11;50
+r;77912593;27604;3229241;11;51
+r;118508904;27604;6011310;11;51
+r;17934029;27604;578518;11;52
+r;33105402;27604;2189395;11;52
+r;25846995;27604;1637408;11;53
+r;17903744;27604;577674;11;54
+r;29620005;27604;1815105;11;55
+r;52452828;27604;2549788;11;55
+r;52444938;27604;2566695;11;56
+r;17037010;27604;567007;11;57
+r;91547033;27604;3676048;11;58
+r;29225593;27604;1781391;11;59
+r;71577441;27604;2923547;11;62
+r;29850435;27604;1852265;11;67
+r;12701047;27604;350542;11;101
+r;12701061;27604;350539;11;101
+r;12708383;27604;348709;11;102
+r;12708411;27604;348702;11;102
+r;12708415;27604;348701;11;102
+r;12697277;27604;351520;11;103
+r;12701041;27604;350543;11;103
+r;12708369;27604;348713;11;104
+r;12708403;27604;348704;11;104
+r;12686221;27604;354239;11;105
+r;12701035;27604;350544;11;105
+r;12708379;27604;348710;11;105
+r;12708387;27604;348708;11;105
+r;12708361;27604;348715;11;106
+r;12708365;27604;348714;11;106
+r;12708375;27604;348711;11;106
+r;12701059;27604;350540;11;107
+r;12701053;27604;350541;11;108
+r;12708399;27604;348705;11;108
+r;12747353;27604;339536;11;108
+r;12755535;27604;337530;11;108
+r;12701029;27604;350545;11;109
+r;12708391;27604;348707;11;109
+r;12686145;27604;354257;11;110
+r;12708395;27604;348706;11;110
+r;12708407;27604;348703;11;110
+r;12756145;27604;337357;11;110
+r;9116784;27604;322675;11;148
+r;8706060;27604;239311;11;160
+r;8718565;27604;254517;11;160
+r;8720578;27604;256001;11;160
+r;8700193;27604;231789;11;161
+r;8701480;27604;233213;11;161
+r;8704358;27604;236933;11;161
+r;8704904;27604;237621;11;161
+r;8707615;27604;242444;11;161
+r;8714859;27604;251296;11;161
+r;8715594;27604;252021;11;161
+r;8718573;27604;254521;11;161
+r;8730178;27604;263085;11;161
+r;8589992;27604;59089;11;162
+r;8671341;27604;202058;11;162
+r;8672413;27604;202727;11;162
+r;8679488;27604;207009;11;162
+r;8689354;27604;214465;11;162
+r;8763148;27604;295934;11;162
+r;8624611;27604;155669;11;163
+r;8625480;27604;157860;11;163
+r;8744841;27604;276733;11;163
+r;387901;27604;163820;11;188
+r;387900;27604;163819;11;197
+r;377384;27604;126423;11;218

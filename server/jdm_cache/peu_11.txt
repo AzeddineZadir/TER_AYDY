@@ -1,0 +1,1110 @@
+
+e;39409;'peu';1;516
+e;6343808;'coup ou heurt contre fond en sautant ou en plongeant dans des eaux peu profondes';1;0
+e;6420504;'papules gastriques peu nombreuses';1;0
+e;12180724;'mesure de polynucléaires neutrophiles à noyau peu segmenté/leucocytes';1;0
+e;12180714;'mesure de polynucléaires neutrophiles à noyau peu segmenté/100 leucocytes';1;0
+e;12180712;'mesure de polynucléaires neutrophiles à noyau peu segmenté/100 cellules';1;0
+e;12180710;'détermination de la présence de polynucléaires neutrophiles à noyau peu segmenté';1;0
+e;12180699;'mesure de polynucléaires neutrophiles à noyau peu segmenté';1;0
+e;12180609;'mesure de polynucléaires éosinophiles à noyau peu segmenté/100 cellules';1;0
+e;12180513;'mesure de polynucléaires basophiles à noyau peu segmenté/100 leucocytes';1;0
+e;12979405;'algorithmes d'apprentissage peu profonds';1;0
+e;6338486;'chirurgies peu invasives';1;0
+e;13627330;'peu désirable';1;0
+e;13627331;'peu souhaitable';1;0
+e;13989361;'Mer peu agitée';777;0
+e;14304664;'peu chargé d'oeuvres mortes';1;0
+e;14417160;'peu souvent';1;0
+e;14536870;'personne un peu bête';1;0
+e;13982090;'peu calorique';1;0
+e;14604705;'peu lourd';1;0
+e;14628324;'peu au point';1;0
+e;14630749;'peu de choses';1;0
+e;14656580;'trop peu souvent';1;0
+e;14727996;'avoir très peu d'argent';1;0
+e;15941910;'peu sensible';1;0
+e;15912664;'lui lâcher un peu la bride';1;0
+e;15358815;'Ça pèse à peu près vingt kilos.';1;0
+e;15414237;'se faire un peu d'argent';1;0
+e;15397981;'Le match était un peu à sens unique.';1;0
+e;15447825;'Les chirurgiennes sont toujours en nombre lamentablement peu élevé.';1;0
+e;15340783;'Les choses se sont un peu calmées.';1;0
+e;15526262;'Les serveurs sont un peu froids.';1;0
+e;15575172;'Leur devis était très peu cher, comparativement.';1;0
+e;15281372;'Mon jean est un peu usé.';1;0
+e;15409528;'Nous pouvons y arriver à peu près à temps.';1;0
+e;15411795;'Nous sommes un peu justes.';1;0
+e;15329997;'Nous étions peu nombreux à la réunion.';1;0
+e;15358490;'On a un peu picolé hier soir.';1;0
+e;15573110;'On compte un peu plus de 10.000 adhérents.';1;0
+e;15543446;'On est un peu serré.';1;0
+e;15257235;'On est un peu serrés.';1;0
+e;15353388;'Ouf, il s'en est fallu de peu.';1;0
+e;15267538;'Pour un peu, + sentence';1;0
+e;15422685;'Répète un peu pour voir !';1;0
+e;15368046;'Son discours était un peu décevant.';1;0
+e;15488060;'Son travail a tendance a être assez peu soigné.';1;0
+e;15527291;'Sors un peu et rencontre des gens.';1;0
+e;15366462;'Très peu de gens ont assisté aux réunions.';1;0
+e;15442731;'Très peu pour moi !';1;0
+e;15386759;'Très peu survivent.';1;0
+e;15455635;'Tu pousses le bouchon un peu loin !';1;0
+e;15469118;'Tu y vas un peu fort.';1;0
+e;15460018;'Un peu';1;0
+e;15455567;'Un peu !';1;0
+e;15479042;'Un peu de bon sens, voyons!';1;0
+e;15541646;'Un peu moins, s'il vous plaît.';1;0
+e;15384351;'accorder peu d'attention';1;0
+e;15384353;'accorder peu de place';1;0
+e;15344838;'acier peu allié';1;0
+e;15388918;'aiguille peu traumatisante';1;0
+e;15340059;'aller un peu vite en besogne';1;0
+e;15378195;'annoncer à peu près la couleur';1;0
+e;15213522;'attacher peu de valeur';1;0
+e;15302437;'attendre un peu';1;0
+e;15325549;'attendre un peu plus';1;0
+e;15542827;'avoir le privilège peu enviable de voir ...';1;0
+e;15236978;'avoir peu d'imagination';1;0
+e;15352469;'avoir peu de choses en commun';1;0
+e;15352470;'avoir peu de points communs';1;0
+e;15477003;'avoir peu de temps';1;0
+e;15386769;'beaucoup d'appelés, peu d'élus';1;0
+e;15340061;'c'est aller un peu vite en besogne';1;0
+e;16029425;'c'est pas peu dire';1;0
+e;15403074;'c'est peu de chose';1;0
+e;16029446;'c'est peu de dire que';1;0
+e;15693719;'c'est peu dire';1;0
+e;16029447;'c'est peu dire que';1;0
+e;16029448;'c'est peu que';1;0
+e;15399527;'c'est un peu comme si';1;0
+e;15325744;'c'est un peu fort de café';1;0
+e;16029466;'c'est un peu gros';1;0
+e;15582407;'c'est un peu gros comme histoire';1;0
+e;16029467;'c'est un peu jeune';1;0
+e;16029468;'c'est un peu raide';1;0
+e;16029469;'c'est un peu violent';1;0
+e;16029470;'c'est un peu vite dit';1;0
+e;15378203;'c'est à peu près tout';1;0
+e;15582405;'c'était un peu gros comme histoire';1;0
+e;15562799;'cas peu sévère';1;0
+e;15752828;'changer un peu la donne';1;0
+e;15455571;'comme on en voit peu';1;0
+e;15338631;'conjoncture peu favorable';1;0
+e;15477161;'dans peu de doute';1;0
+e;15382083;'de façon peu judicieuse';1;0
+e;15372268;'de manière peu convaincante';1;0
+e;15371844;'depuis peu de temps';1;0
+e;15780718;'des séances de thérapie peu structurées';1;0
+e;15371853;'devenu riche depuis peu';1;0
+e;15455580;'différence peu marquée';1;0
+e;15195970;'donne-moi un peu de tendresse';1;0
+e;15525513;'dont les médias ont fait peu de cas';1;0
+e;15199001;'dormir un peu';1;0
+e;15777059;'dépenser peu d'argent';1;0
+e;15296078;'déshydratation peu sévère ou modérée';1;0
+e;15313730;'eau peu profonde';1;0
+e;15391524;'emploi peu qualifié';1;0
+e;15386752;'en très peu de temps';1;0
+e;16044480;'en un peu moins';1;0
+e;16044481;'en un peu plus';1;0
+e;16174003;'peu agressif';1;0
+e;16285892;'urines peu abondantes';1;0
+e;16324539;'Décale-toi un peu vers la droite.';1;0
+e;6287692;'aphtes coliques peu nombreuses';1;0
+e;6336660;'nodules gastriques peu nombreuses';1;0
+e;6289941;'taches gastriques peu nombreuses';1;0
+e;6301757;'granulomes sur suture coliques peu nombreux';1;0
+e;6341449;'menstruation peu abondante et peu fréquente chez une femme ayant déjà eu des règles normales';1;0
+e;6343193;'menstruation peu abondante ou peu fréquente dès le début de la menstruation';1;0
+e;6366283;'polypes gastriques peu nombreux';1;0
+e;6386943;'mastocytose généralisée peu symptomatique';1;0
+e;12989264;'eaux peu profondes';1;0
+e;6350721;'menstruation peu abondante ou peu fréquente';1;0
+e;14257791;'peu enclin';1;0
+e;14571141;'peu amène';1;0
+e;14723772;'très peu de choses';1;0
+e;14727945;'s'en falloir de peu';1;0
+e;14731048;'se satisfaire de peu';1;0
+e;14753177;'un peu pute';1;0
+e;6359028;'zones gastriques peu nombreuses';1;0
+e;15361641;'Nous nous y sommes habitués peu à peu.';1;0
+e;15361635;'Ses visites se sont peu à peu espacées.';1;0
+e;15361648;'devenant peu à peu étranger l'un pour l'autre';1;0
+e;15361646;'devenir peu à peu étranger l'un pour l'autre';1;0
+e;15361643;'devenu peu à peu étranger l'un pour l'autre';1;0
+e;16160735;'peu utilisé';1;0
+e;16166458;'être un peu con sur les bords';1;0
+e;6299011;'chambre antérieure peu profonde';1;0
+e;6340111;'très peu de précurseurs des granulocytes';1;0
+e;12116551;'polynucléaires basophiles à noyau peu segmenté';1;0
+e;12116554;'polynucléaires éosinophiles à noyau peu segmenté';1;0
+e;6087815;'Un peu plus loin sur la droite';777;0
+e;10617914;'L'Aventure extraordinaire d'un papa peu ordinaire';777;0
+e;12104081;'polynucléaires neutrophiles à noyau peu segmenté/leucocytes';1;0
+e;12104080;'polynucléaires neutrophiles à noyau peu segmenté/100 leucocytes';1;0
+e;12104079;'polynucléaires neutrophiles à noyau peu segmenté/100 cellules';1;0
+e;12104078;'polynucléaires neutrophiles à noyau peu segmenté';1;0
+e;12104071;'polynucléaires éosinophiles à noyau peu segmenté/100 cellules';1;0
+e;12104062;'polynucléaires basophiles à noyau peu segmenté/100 leucocytes';1;0
+e;12239353;'mesure de polynucléaires neutrophiles à noyau peu segmenté/leucocytes | comptage manuel | sang | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12239352;'mesure de polynucléaires neutrophiles à noyau peu segmenté/leucocytes | comptage manuel | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12239351;'mesure de polynucléaires neutrophiles à noyau peu segmenté/leucocytes | comptage manuel | liquide biologique | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12239350;'mesure de polynucléaires neutrophiles à noyau peu segmenté/100 leucocytes | comptage manuel | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239349;'mesure de polynucléaires neutrophiles à noyau peu segmenté/100 leucocytes | comptage automate | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239348;'mesure de polynucléaires neutrophiles à noyau peu segmenté/100 leucocytes | technique indéterminée | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239347;'mesure de polynucléaires neutrophiles à noyau peu segmenté/100 leucocytes | technique indéterminée | liquide synovial | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239346;'mesure de polynucléaires neutrophiles à noyau peu segmenté/100 leucocytes | technique indéterminée | liquide péricardique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239345;'mesure de polynucléaires neutrophiles à noyau peu segmenté/100 leucocytes | comptage manuel | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239344;'mesure de polynucléaires neutrophiles à noyau peu segmenté/100 leucocytes | technique indéterminée | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239343;'mesure de polynucléaires neutrophiles à noyau peu segmenté/100 leucocytes | comptage manuel | liquide biologique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239342;'mesure de polynucléaires neutrophiles à noyau peu segmenté/100 leucocytes | technique indéterminée | liquide biologique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239341;'mesure de polynucléaires neutrophiles à noyau peu segmenté | comptage manuel | liquide céphalorachidien | ponctuel | résultat numérique | nombre';1;0
+e;12239340;'mesure de polynucléaires neutrophiles à noyau peu segmenté | comptage manuel | liquide biologique | ponctuel | résultat numérique | nombre';1;0
+e;12239339;'mesure de polynucléaires neutrophiles à noyau peu segmenté | comptage manuel | sang du foetus | ponctuel | résultat numérique | nombre/volume';1;0
+e;12239338;'mesure de polynucléaires neutrophiles à noyau peu segmenté | comptage manuel | sang | ponctuel | résultat numérique | nombre/volume';1;0
+e;12239337;'mesure de polynucléaires neutrophiles à noyau peu segmenté | comptage automate | sang | ponctuel | résultat numérique | nombre/volume';1;0
+e;12239336;'mesure de polynucléaires neutrophiles à noyau peu segmenté | technique indéterminée | sang | ponctuel | résultat numérique | nombre/volume';1;0
+e;12239335;'mesure de polynucléaires neutrophiles à noyau peu segmenté | technique indéterminée | liquide synovial | ponctuel | résultat numérique | nombre/volume';1;0
+e;12239334;'mesure de polynucléaires neutrophiles à noyau peu segmenté | technique indéterminée | liquide céphalorachidien | ponctuel | résultat numérique | nombre/volume';1;0
+e;12239333;'mesure de polynucléaires neutrophiles à noyau peu segmenté | comptage manuel | liquide biologique | ponctuel | résultat numérique | nombre/volume';1;0
+e;12239332;'mesure de polynucléaires neutrophiles à noyau peu segmenté | technique indéterminée | liquide biologique | ponctuel | résultat numérique | nombre/volume';1;0
+e;15299485;'La soupe est un peu fade.';1;0
+e;15273150;'La victime a peu de chance de survivre.';1;0
+e;15361639;'Le bruit a diminué peu à peu.';1;0
+e;12320531;'Lettre d'un docteur de Sorbonne à une personne de condition sur ce qui est arrivé depuis peu dans une paroisse de Paris à un seigneur de la Cour';777;0
+e;6429946;'nodules oesophagiens peu nombreux';1;0
+e;10899652;'peu vascularisée';1;0
+e;10993322;'peu convaincante';1;0
+e;10871225;'peu salé';1;0
+e;10899651;'peu vascularisé';1;0
+e;11785137;'La Vie peu ordinaire de Dona Linhares';777;0
+e;16315059;'Corto toujours un peu plus loin';777;0
+e;5961913;'La Mégère à peu près apprivoisée';777;0
+e;6429604;'lymphome lymphocytaire diffus peu différencié';1;0
+e;10566363;'On a très peu d'amis';777;0
+e;10936699;'écoulements en eau peu profonde';777;0
+e;15300212;'La réaction a été peu enthousiaste.';1;0
+e;12079576;'langue peu dotée';1;0
+e;12884945;'peu efficace';1;0
+e;15270096;'La moquette est un peu usée.';1;0
+e;10044146;'Il en faut peu pour être heureux';777;0
+e;12075595;'cultures peu consommatrices d'eau';1;0
+e;2411885;'peu ou point';1;0
+e;11837509;'un peu léger';1;0
+e;6427249;'diverticules coliques peu nombreux';1;0
+e;2383233;'pour dire peu';1;0
+e;11233142;'Chanson pour que tu m'aimes un peu';777;0
+e;11837508;'peu léger';1;0
+e;12812685;'peu sûres';1;0
+e;2376644;'excusez du peu';1;0
+e;10761202;'Un peu de soleil dans l'eau froide';777;0
+e;11219765;'dépenser peu';1;0
+e;11254228;'peu épais';1;0
+e;12790661;'maladie peu contagieuse';1;0
+e;11222368;'rythme peu soutenu';1;0
+e;13270229;'présentation clinique peu spécifique';1;0
+e;2420342;'peu ou pas';1;0
+e;11174831;'peu cher';1;0
+e;11254227;'peu consistant';1;0
+e;13270235;'protocoles peu codifiés';1;0
+e;11008911;'rater de peu';1;0
+e;6004264;'la lumière met un peu plus de 16 minutes pour parcourir le diamètre de l'orbite terrestre';777;0
+e;2367739;'un peu bien';1;0
+e;2366975;'aussi peu que';1;0
+e;12772940;'peu causant';1;0
+e;13225680;'Bonal est un peu plus long que le temps';777;0
+e;15492068;'De tels arguments n'ont que peu de portée.';1;0
+e;15491879;'Cette nouvelle m'a un peu remonté.';1;0
+e;8733521;'trop peu salé';1;0
+e;8749069;'produire peu de chaleur';1;0
+e;9209885;'cuisson avec un peu de matière grasse';1;0
+e;9209829;'cuisson avec peu de matière grasse';1;0
+e;9448066;'cuisson peu matière grasse';1;0
+e;9528204;'peu de symptôme';1;0
+e;9570312;'peu rapide';1;0
+e;12262535;'ouverture de peu d'étendue';1;0
+e;12701037;'trop peu élevé';1;0
+e;12701045;'peu élevée';1;0
+e;12701046;'peu élevé';1;0
+e;12701048;'peu élevés';1;0
+e;12701039;'trop peu élevés';1;0
+e;12701047;'peu élevées';1;0
+e;12701038;'trop peu élevées';1;0
+e;12701036;'trop peu élevée';1;0
+e;14535409;'EP 7 45 tours Teenie Weenie Boppie / Bébé requin / Chanson pour que tu m'aimes un peu / Made In France';777;0
+e;14567620;'Grève des pilotes et inquiétudes sur le Mondial - La France un peu faible sur ses ailes';777;0
+e;14758322;'Culture administrative et corporatiste peu propice';777;0
+e;15640248;'Je le trouve un peu mou.';1;0
+e;15516244;'Elle est un peu tout-fou.';1;0
+e;15475078;'Elle a des goûts un peu spéciaux.';1;0
+e;15455585;'Excusez du peu !';1;0
+e;15411636;'Elle semblait un peu inquiète.';1;0
+e;15574695;'C'est une manière un peu trop simple de présenter les choses.';1;0
+e;15263411;'Elle est un peu distraite.';1;0
+e;15640250;'Je le trouve un peu collant.';1;0
+e;15371845;'Il est rentré depuis peu.';1;0
+e;15364134;'Il est de peu mon cadet.';1;0
+e;15325128;'J'ai flâné un peu.';1;0
+e;15629019;'Il y a peu,';1;0
+e;15371285;'Il voyage peu.';1;0
+e;15278979;'Il y a peu de voitures qui puissent égaler une Ferrari pour ce qui est de la vitesse.';1;0
+e;15342342;'Il y a peu de chances qu'il vienne.';1;0
+e;15371284;'Il boit peu.';1;0
+e;15366675;'Je me contente de peu.';1;0
+e;15455590;'Grandis un peu !';1;0
+e;15293501;'Il est un peu simplet.';1;0
+e;15260791;'Il est un peu trop suffisant.';1;0
+e;15250357;'Il fait un peu robot.';1;0
+e;15255530;'Il est peu bavard.';1;0
+e;15495244;'Il lui arrivait de me taper dessus un petit peu.';1;0
+e;15342336;'Il est peu probable qu'il vienne.';1;0
+e;15282806;'Il est un peu coincé.';1;0
+e;15017722;'Cet article est évasif ou trop peu précis';777;0
+e;15305223;'J'ai peu mangé à midi.';1;0
+e;15270650;', avec un peu de couleurs,';1;0
+e;15345548;'C'est peu probable.';1;0
+e;15382367;'C'est peu vraisemblable.';1;0
+e;15368044;'C'est un peu décevant.';1;0
+e;15218395;'C'est un peu une déception.';1;0
+e;15319254;'C'était un peu indélicat de ta part.';1;0
+e;15290884;'Ce clou est un peu tordu.';1;0
+e;15378262;'Celui-ci est un peu plus facile.';1;0
+e;15356840;'Cette robe est un peu serrée.';1;0
+e;15411634;'Cela m'inquiète un peu.';1;0
+e;15423112;'Attends un peu !';1;0
+e;15435178;'C'est peu de le dire !';1;0
+e;15455573;'Creuse-toi un peu !';1;0
+e;15422659;'Essaie un peu pour voir !';1;0
+e;15547000;'Chantal a manqué son train de peu.';1;0
+e;15561048;'Elle a peu d'amis.';1;0
+e;15574869;'Encore un peu de gâteau?';1;0
+e;15276777;'Je suis parisien depuis peu.';1;0
+e;15343686;'Je suis un peu rouillé.';1;0
+e;15523245;'Je suis un peu à court d'argent.';1;0
+e;15303496;'Je t'aime un peu, beaucoup, passionnément, à la folie, pas du tout';1;0
+e;15684214;'Ce gâteau est un peu trop sucré.';1;0
+e;15762606;'Essaye un peu pour voir !';1;0
+e;15762603;'Essaye un peu pour voir,';1;0
+e;15762601;'Essaye un peu, pour voir';1;0
+e;15762605;'Essayez un peu, pour voir';1;0
+e;15691807;'Ils sont à peu près de la même taille.';1;0
+e;15978807;'Il fait un peu plus froid qu'hier.';1;0
+e;1649472;'peu de valeur';1;0
+e;1773600;'peu original';1;0
+e;1972052;'un peu d'';1;0
+e;2301734;'un tout petit peu';1;0
+e;3746328;'granola avec peu de sucre';1;0
+e;3758059;'girolles sautées dans un peu de beurre et d'ail';1;0
+e;3756270;'bâtons de cannelle un peu écrasés';1;0
+e;3752862;'peu d'huile d'olive';1;0
+e;3752020;'peu d'huile';1;0
+e;3757106;'un peu de crème fraiche';1;0
+e;1773606;'peu séduisant';1;0
+e;1773603;'peu réaliste';1;0
+e;1773601;'peu orthodoxe';1;0
+e;1773596;'peu fréquemment';1;0
+e;1773595;'peu critique';1;0
+e;1773592;'peu compatissants';1;0
+e;1773585;'peu attrayant';1;0
+e;1773170;'peu équitable';1;0
+e;2362350;'faire peu de cas';1;0
+e;2581254;'partir c'est mourir un peu';1;0
+e;3343421;'sujet de peu d'importance';1;0
+e;3757409;'un peu de sucre cristallisé';1;0
+e;3755025;'petit bout de gingembre pilé avec un peu d'eau';1;0
+e;3753989;'persil et un peu';1;0
+e;3753410;'peu d'eau';1;0
+e;3758785;'un peu de gingembre';1;0
+e;1666198;'peu crédible';1;4
+e;1773604;'peu rentable';1;0
+e;2242897;'peu d'';2;0
+e;2570672;'ni peu ni assez';1;0
+e;2600476;'on ne saurait si peu boire qu'on ne s'en sente';1;0
+e;3298498;'de peu d'expérience';1;0
+e;3367655;'poulet maronite, liban peu calorique';1;0
+e;3758122;'lait un peu tiède';1;0
+e;3757404;'bonne pincée bonne poudre de tartre ou gouttes de jus de citron ou un peu de poudre de blanc d'oeufs séchés';1;0
+e;3756696;'jaunes d'oeufs mélangés avec un peu d'eau';1;0
+e;3754796;'maïzena diluée dans un peu d'eau';1;0
+e;3754363;'huile d'olive ou un peu de beurre';1;0
+e;4308902;'être peu crédible';1;0
+e;4320530;'peu intelligent';1;0
+e;1773594;'peu concluant';1;0
+e;1773590;'peu compatissante';1;0
+e;1773588;'peu commune';1;0
+e;1894782;'dans peu de temps';1;0
+e;1964250;'peu fonctionnel';1;0
+e;1971643;'mettre un peu de';1;0
+e;1978313;'un peu dur';1;0
+e;2556199;'homme de peu de foi';1;0
+e;3755725;'pain de campagne un peu rassis';1;0
+e;3755042;'un peu de gros sel';1;0
+e;3752931;'un peu d'eau';1;0
+e;4891916;'peu nécessaire';1;0
+e;5038133;'peu utile';1;0
+e;1472100;'personne peu intelligente';1;2
+e;1773171;'peu recommandable';1;2
+e;2301730;'un peu des';2;0
+e;2897190;'manger peu';1;162
+e;2951428;'trop peu';1;0
+e;3611172;'de peu de valeur';1;0
+e;3757607;'farine tamisée un peu plus';1;0
+e;4306330;'peu élégant';1;0
+e;1969374;'peu ragoûtant';1;0
+e;2301732;'un peu plus tard';1;0
+e;2301731;'un peu du';1;0
+e;2250698;'pour peu qu'';2;0
+e;2556518;'peu après';1;0
+e;2512428;'aristoloche à nervures peu nombreuses';1;0
+e;3744117;'crumble peu sucré à la rhubarbe et aux fraises';1;0
+e;3758196;'farine tamisée un peu';1;0
+e;3754979;'ananas en conserve en morceaux avec un peu de jus';1;0
+e;3753625;'fond de volaille dilué dans un peu d'eau';1;0
+e;3750979;'un petit peu de sel';1;0
+e;5067434;'accorder peu d'importance à la vérité';1;0
+e;1364352;'peu épaisse';1;0
+e;1773605;'peu satisfaisant';1;0
+e;1773599;'peu méfiant';1;0
+e;1773591;'peu compatissantes';1;0
+e;1773586;'peu clément';1;0
+e;1966279;'peu lumineux';1;0
+e;2285668;'si peu que';1;0
+e;2285667;'si peu qu'';2;0
+e;2325030;'peu probable';1;0
+e;2605787;'avant qu'il soit peu';1;0
+e;3230773;'peu de temps';1;0
+e;3369957;'steaks un peu sauvages';1;0
+e;3757717;'beurre un peu';1;0
+e;3751886;'jaune d'oeuf battu dans un peu de lait';1;0
+e;1773597;'peu instruire';1;0
+e;1972683;'pas qu'un peu';1;0
+e;2531124;'les ficelles sont un peu grosses';1;0
+e;2583545;'peu solide';1;0
+e;3759015;'peu huile';1;0
+e;3757371;'sucre glace avec un peu de jus de citron';1;0
+e;3752609;'un peu de gruyère râpé';1;0
+e;3752476;'poire un peu verte coupée en morceaux';1;0
+e;4306531;'peu pratique';1;0
+e;1773607;'peu soigné';1;0
+e;1773602;'peu profitable';1;0
+e;1971642;'y mettre un peu de';1;0
+e;2325033;'très peu probable';1;0
+e;2583547;'peu convaincant';1;2
+e;3758280;'poche à douille avec un embout un peu large';1;0
+e;3752266;'peu sel';1;0
+e;587586;'peu de conviction';1;0
+e;1773589;'peu compatissant';1;0
+e;1773172;'peu séduit';1;0
+e;1797536;'peu enthousiaste';1;0
+e;1878711;'peu doué';1;0
+e;1969373;'peu ragoûtante';1;0
+e;2301729;'un peu de la';2;0
+e;3757002;'cacao amer dilué dans un peu d'eau chaude';1;0
+e;3755520;'un tout petit peu de ketchup';1;0
+e;3752333;'vin rouge un peu corsé';1;0
+e;3752398;'steak haché à peu de MG';1;0
+e;2969160;'peu développé';1;0
+e;389910;'énergie peu commune';1;50
+e;388833;'à peu de frais';1;50
+e;385635;'un peu beaucoup';1;50
+e;372451;'pour peu';1;50
+e;385658;'un tant soit peu';1;50
+e;385634;'un petit peu';1;50
+e;379611;'si peu';1;50
+e;370063;'peu et beaucoup';1;50
+e;351032;'en peu de mots';1;50
+e;385636;'un peu bon';1;50
+e;372467;'pour si peu';1;50
+e;370061;'peu de tout';1;50
+e;351733;'encore un peu';1;50
+e;372476;'pour un peu';1;50
+e;391166;'se manquer de peu';1;2
+e;370062;'peu dire';1;50
+e;366328;'ni trop ni trop peu';1;50
+e;391177;'manquer de peu';1;50
+e;354814;'force peu commune';1;50
+e;346834;'de peu de conséquence';1;50
+e;379612;'si peu que ce soit';1;50
+e;370064;'peu ordinaire';1;50
+e;367874;'ou peu s'en faut';1;50
+e;346835;'de peu de foi';1;52
+e;385639;'un peu partout';1;52
+e;385638;'un peu longuet';1;50
+e;385637;'un peu court';1;50
+e;385099;'trop peu pour';1;50
+e;371253;'plus qu'un peu';1;50
+e;337900;'avec un peu de chance';1;50
+e;370060;'peu de chaque';1;50
+e;369768;'personnage peu recommandable';1;50
+e;351033;'en peu de temps';1;52
+e;109991;'à-peu-près';1;50
+e;318512;'peu sociable';1;50
+e;320535;'peu grave';1;50
+e;322485;'peu courant';1;54
+e;323532;'peu différencié';1;50
+e;323560;'peu honnête';1;50
+e;323674;'peu rigoureux';1;50
+e;324404;'peu pertinent';1;50
+e;315733;'peu marqué';1;50
+e;221246;'un peu mon neveu';1;2
+e;114785;'de peu';1;62
+e;207649;'se contenter de peu';1;54
+e;208185;'si peu que rien';1;50
+e;209497;'un petit peu de';1;50
+e;209502;'un tant soit peu de';1;50
+e;209932;'vivre de peu';1;50
+e;210448;'c'est un peu fort';1;50
+e;232701;'homme de peu';1;50
+e;243942;'peu intense';1;12
+e;246906;'parler peu';1;2
+e;251893;'peu expérimenté';1;52
+e;253259;'peu chaleureux';1;16
+e;255323;'peu aimable';1;50
+e;257939;'peu seyant';1;50
+e;261240;'peu commun';1;52
+e;261241;'peu fréquent';1;54
+e;263506;'peu disposé';1;50
+e;263511;'peu fiable';1;50
+e;263515;'peu sûr';1;50
+e;263532;'peu profond';1;52
+e;263534;'peu clair';1;50
+e;263544;'peu lucratif';1;50
+e;263549;'peu précis';1;50
+e;263552;'peu familier';1;50
+e;263559;'peu amical';1;50
+e;313668;'peu scrupuleux';1;24
+e;313700;'personne peu recommandable';1;50
+e;209498;'un peu de';1;52
+e;55691;'il y a peu';1;64
+e;60028;'avant peu';1;50
+e;81281;'à peu de chose près';1;52
+e;91649;'Le Monde à peu près';1;50
+e;100903;'depuis peu';1;76
+e;113120;'peu massives';1;50
+e;124850;'de peu de durée';1;50
+e;161962;'peu abondant';1;50
+e;164277;'peu nombreux';1;64
+e;171618;'ni peu ni prou';1;50
+e;202055;'il y a peu de temps';1;50
+e;206008;'pour peu que';1;50
+e;208359;'souffler un peu';1;50
+e;210242;'attacher peu d'importance à';1;50
+e;214002;'peu haut';1;50
+e;215992;'peu important';1;52
+e;264586;'à peu près égal';1;4
+e;128663;'un peu';1;192
+e;99616;'un peu moins';1;50
+e;88974;'très peu';1;70
+e;137295;'il s'en faut de peu';1;50
+e;138540;'d'ici peu';1;50
+e;139745;'Vers écrits à peu de distance de l'abbaye de Tintern';1;50
+e;153686;'peu importe';1;58
+e;156386;'peu fréquenté';1;52
+e;156396;'peu coûteux';1;52
+e;171661;'peu ou prou';1;52
+e;171734;'tant soit peu';1;50
+e;186041;'être à peu près temps';1;50
+e;202113;'incessamment sous peu';1;52
+e;205098;'parlons peu mais parlons bien';1;50
+e;205489;'peu dense';1;50
+e;205490;'peu reluisant';1;50
+e;206047;'pousser un peu loin';1;50
+e;206587;'quelque peu';1;50
+e;264587;'peu différent de';1;6
+e;268282;'peu massive';1;50
+e;268284;'peu lumineuse';1;50
+e;271642;'peu d'importance';1;50
+e;290550;'notre ressort a des spires non jointives et très peu inclinées';777;50
+e;306024;'peu volumineux';777;50
+e;205488;'peu de';1;50
+e;132640;'sous peu';1;72
+e;139394;'peu s'en faut';1;54
+e;186718;'peu importer';1;50
+e;187283;'peu me chaut';1;50
+e;191217;'peu m'en chaut';1;50
+e;196968;'bien peu de';1;50
+e;198397;'de peu de condition';1;50
+e;198398;'de peu de poids';1;50
+e;198399;'de peu de portée';1;50
+e;200077;'être peu sûr de soi';1;50
+e;312988;'peu courageux';1;50
+e;200590;'faire peu de cas de';1;50
+e;201419;'gens de peu';1;52
+e;10436;'à peu près';1;74
+e;3395;'un peu gai';1;50
+e;5931;'un peu plus';1;50
+e;6968;'dans peu';1;50
+e;9245;'transaction peu satisfaisante';1;50
+e;43924;'peu de chose';1;58
+e;112;'peu à peu';1;84
+r;310759764;39409;722386;11;15
+r;310759765;39409;2326040;11;15
+r;310759766;39409;2326041;11;15
+r;310759767;39409;722387;11;15
+r;301512919;39409;6343808;11;25
+r;305704906;39409;6420504;11;25
+r;316618108;39409;12180724;11;25
+r;316618122;39409;12180714;11;25
+r;316618138;39409;12180712;11;25
+r;316618156;39409;12180710;11;25
+r;316618172;39409;12180699;11;25
+r;316618247;39409;12180609;11;25
+r;316618344;39409;12180513;11;25
+r;337351512;39409;12979405;11;25
+r;341059596;39409;6338486;11;25
+r;345351991;39409;13627330;11;25
+r;345352009;39409;13627331;11;25
+r;352335482;39409;13989361;11;25
+r;364195224;39409;14304664;11;25
+r;366205556;39409;14417160;11;25
+r;369388138;39409;14536870;11;25
+r;370388827;39409;13982090;11;25
+r;371157100;39409;14604705;11;25
+r;371563856;39409;14628324;11;25
+r;371662104;39409;14630749;11;25
+r;372739489;39409;14656580;11;25
+r;374426044;39409;14727996;11;25
+r;414802931;39409;15941910;11;25
+r;414341469;39409;15912664;11;25
+r;394780043;39409;15358815;11;25
+r;395212935;39409;15414237;11;25
+r;419492611;39409;15397981;11;25
+r;419495263;39409;15447825;11;25
+r;419495291;39409;15340783;11;25
+r;419497355;39409;15526262;11;25
+r;419498119;39409;15575172;11;25
+r;419509012;39409;15281372;11;25
+r;419515963;39409;15409528;11;25
+r;419516367;39409;15411795;11;25
+r;419516699;39409;15329997;11;25
+r;419518229;39409;15358490;11;25
+r;419518341;39409;15573110;11;25
+r;419518499;39409;15543446;11;25
+r;419518503;39409;15257235;11;25
+r;419520229;39409;15353388;11;25
+r;419527280;39409;15267538;11;25
+r;419537521;39409;15422685;11;25
+r;419546884;39409;15368046;11;25
+r;419547350;39409;15488060;11;25
+r;419547705;39409;15527291;11;25
+r;419555018;39409;15366462;11;25
+r;419555030;39409;15442731;11;25
+r;419555036;39409;15386759;11;25
+r;419555845;39409;15455635;11;25
+r;419556083;39409;15469118;11;25
+r;419557770;39409;15460018;11;25
+r;419557772;39409;15455567;11;25
+r;419557776;39409;15479042;11;25
+r;419557786;39409;15541646;11;25
+r;419570096;39409;15384351;11;25
+r;419570102;39409;15384353;11;25
+r;419573443;39409;15344838;11;25
+r;419583379;39409;15388918;11;25
+r;419588177;39409;15340059;11;25
+r;419596542;39409;15378195;11;25
+r;419615921;39409;15213522;11;25
+r;419616960;39409;15302437;11;25
+r;419616964;39409;15325549;11;25
+r;419633976;39409;15542827;11;25
+r;419635181;39409;15236978;11;25
+r;419635187;39409;15352469;11;25
+r;419635195;39409;15352470;11;25
+r;419635203;39409;15477003;11;25
+r;419650204;39409;15386769;11;25
+r;419669869;39409;15340061;11;25
+r;419671221;39409;16029425;11;25
+r;419671309;39409;15403074;11;25
+r;419671313;39409;16029446;11;25
+r;419671317;39409;15693719;11;25
+r;419671321;39409;16029447;11;25
+r;419671325;39409;16029448;11;25
+r;419671867;39409;15399527;11;25
+r;419671869;39409;15325744;11;25
+r;419671875;39409;16029466;11;25
+r;419671879;39409;15582407;11;25
+r;419671885;39409;16029467;11;25
+r;419671889;39409;16029468;11;25
+r;419671893;39409;16029469;11;25
+r;419671897;39409;16029470;11;25
+r;419672163;39409;15378203;11;25
+r;419672351;39409;15582405;11;25
+r;419688679;39409;15562799;11;25
+r;419699706;39409;15752828;11;25
+r;419720805;39409;15455571;11;25
+r;419731504;39409;15338631;11;25
+r;419764388;39409;15477161;11;25
+r;419767104;39409;15382083;11;25
+r;419768560;39409;15372268;11;25
+r;419772882;39409;15371844;11;25
+r;419775437;39409;15780718;11;25
+r;419778233;39409;15371853;11;25
+r;419780254;39409;15455580;11;25
+r;419788970;39409;15195970;11;25
+r;419793682;39409;15525513;11;25
+r;419793917;39409;15199001;11;25
+r;419812948;39409;15777059;11;25
+r;419815470;39409;15296078;11;25
+r;419832121;39409;15313730;11;25
+r;419835507;39409;15391524;11;25
+r;419843717;39409;15386752;11;25
+r;419843884;39409;16044480;11;25
+r;419843888;39409;16044481;11;25
+r;424892028;39409;16174003;11;25
+r;427209484;39409;16285892;11;25
+r;432056646;39409;16324539;11;25
+r;298253611;39409;6287692;11;26
+r;301415734;39409;6336660;11;26
+r;298413166;39409;6289941;11;26
+r;299236672;39409;6301757;11;26
+r;301482425;39409;6341449;11;26
+r;301494490;39409;6343193;11;26
+r;302191301;39409;6366283;11;26
+r;304389868;39409;6386943;11;26
+r;337342135;39409;12989264;11;26
+r;357571348;39409;6350721;11;26
+r;361549625;39409;14257791;11;26
+r;370285352;39409;14571141;11;26
+r;374330950;39409;14723772;11;26
+r;374423462;39409;14727945;11;26
+r;374542107;39409;14731048;11;26
+r;375035288;39409;14753177;11;26
+r;400077964;39409;6359028;11;26
+r;419515873;39409;15361641;11;26
+r;419544718;39409;15361635;11;26
+r;419777793;39409;15361648;11;26
+r;419777999;39409;15361646;11;26
+r;419778217;39409;15361643;11;26
+r;423423455;39409;16160735;11;26
+r;423813054;39409;16166458;11;26
+r;299065641;39409;6299011;11;27
+r;301460377;39409;6340111;11;27
+r;315693768;39409;12116551;11;27
+r;315693744;39409;12116554;11;27
+r;119667519;39409;6087815;11;28
+r;266725503;39409;10617914;11;28
+r;315536248;39409;12104081;11;28
+r;315536261;39409;12104080;11;28
+r;315536276;39409;12104079;11;28
+r;315536291;39409;12104078;11;28
+r;315536351;39409;12104071;11;28
+r;315536422;39409;12104062;11;28
+r;318471034;39409;12239353;11;28
+r;318471065;39409;12239352;11;28
+r;318471101;39409;12239351;11;28
+r;318471134;39409;12239350;11;28
+r;318471165;39409;12239349;11;28
+r;318471196;39409;12239348;11;28
+r;318471227;39409;12239347;11;28
+r;318471260;39409;12239346;11;28
+r;318471293;39409;12239345;11;28
+r;318471326;39409;12239344;11;28
+r;318471359;39409;12239343;11;28
+r;318471392;39409;12239342;11;28
+r;318471425;39409;12239341;11;28
+r;318471458;39409;12239340;11;28
+r;318471491;39409;12239339;11;28
+r;318471522;39409;12239338;11;28
+r;318471551;39409;12239337;11;28
+r;318471580;39409;12239336;11;28
+r;318471609;39409;12239335;11;28
+r;318471640;39409;12239334;11;28
+r;318471671;39409;12239333;11;28
+r;318471702;39409;12239332;11;28
+r;417155602;39409;15299485;11;28
+r;417155804;39409;15273150;11;28
+r;419490962;39409;15361639;11;28
+r;320429518;39409;12320531;11;30
+r;122696240;39409;6429946;11;31
+r;273304806;39409;10899652;11;31
+r;277924651;39409;10993322;11;31
+r;272652412;39409;10871225;11;32
+r;273304795;39409;10899651;11;32
+r;303720247;39409;11785137;11;32
+r;428788055;39409;16315059;11;32
+r;116573595;39409;5961913;11;34
+r;122698757;39409;6429604;11;34
+r;263386083;39409;10566363;11;34
+r;275361324;39409;10936699;11;34
+r;417033473;39409;15300212;11;34
+r;315117299;39409;12079576;11;35
+r;330340537;39409;12884945;11;35
+r;417032433;39409;15270096;11;35
+r;227598600;39409;10044146;11;36
+r;314538399;39409;12075595;11;36
+r;54261370;39409;2411885;11;37
+r;306354960;39409;11837509;11;37
+r;122717202;39409;6427249;11;38
+r;52953890;39409;2383233;11;39
+r;287841803;39409;11233142;11;39
+r;306324449;39409;11837508;11;39
+r;329136128;39409;12812685;11;39
+r;52223412;39409;2376644;11;40
+r;269372895;39409;10761202;11;40
+r;287581939;39409;11216134;11;40
+r;287581933;39409;11216135;11;41
+r;287736815;39409;11219765;11;41
+r;288439569;39409;11254228;11;41
+r;328226947;39409;12790661;11;41
+r;287748610;39409;11222368;11;42
+r;337618063;39409;13270229;11;42
+r;54460871;39409;2420342;11;43
+r;285986291;39409;11174831;11;43
+r;288439573;39409;11254227;11;43
+r;337618312;39409;13270235;11;43
+r;278714400;39409;11008911;11;44
+r;118527617;39409;6004264;11;45
+r;50478317;39409;2367739;11;47
+r;50471527;39409;2366975;11;48
+r;327745258;39409;12772940;11;49
+r;337032937;39409;13225680;11;49
+r;397139037;39409;15492068;11;50
+r;397135049;39409;15491879;11;50
+r;169732613;39409;8733521;11;50
+r;178699180;39409;8749069;11;50
+r;209754056;39409;9209885;11;50
+r;209754131;39409;9209829;11;50
+r;213741976;39409;9448066;11;50
+r;214475116;39409;9528204;11;50
+r;214904270;39409;9570312;11;50
+r;318338330;39409;12262535;11;50
+r;325686201;39409;12701037;11;50
+r;325686417;39409;12701045;11;50
+r;325686452;39409;12701046;11;50
+r;325686525;39409;12701048;11;50
+r;325686546;39409;12701039;11;50
+r;325686682;39409;12701047;11;50
+r;325686732;39409;12701038;11;50
+r;325686778;39409;12701036;11;50
+r;369388487;39409;14535409;11;50
+r;370338014;39409;14567620;11;50
+r;375179412;39409;14758322;11;50
+r;402154566;39409;15640248;11;50
+r;397498755;39409;15516244;11;50
+r;397496558;39409;15475078;11;50
+r;397504331;39409;15455585;11;50
+r;397500315;39409;15411636;11;50
+r;399503381;39409;15574695;11;50
+r;397498749;39409;15263411;11;50
+r;402154560;39409;15640250;11;50
+r;402106114;39409;15371845;11;50
+r;402105578;39409;15364134;11;50
+r;402120838;39409;15325128;11;50
+r;402110622;39409;15629019;11;50
+r;402110400;39409;15371285;11;50
+r;402110608;39409;15278979;11;50
+r;402110600;39409;15342342;11;50
+r;402105040;39409;15371284;11;50
+r;402154800;39409;15366675;11;50
+r;400715653;39409;15455590;11;50
+r;402106374;39409;15293501;11;50
+r;402106378;39409;15260791;11;50
+r;402106702;39409;15250357;11;50
+r;402105990;39409;15255530;11;50
+r;402107582;39409;15495244;11;50
+r;402105994;39409;15342336;11;50
+r;402106370;39409;15282806;11;50
+r;392279766;39409;15017722;11;50
+r;402121212;39409;15305223;11;50
+r;395008620;39409;15270650;11;50
+r;395011077;39409;15345548;11;50
+r;395011081;39409;15382367;11;50
+r;395011423;39409;15368044;11;50
+r;395011427;39409;15218395;11;50
+r;395012021;39409;15319254;11;50
+r;395012511;39409;15290884;11;50
+r;395013389;39409;15378262;11;50
+r;395014123;39409;15356840;11;50
+r;395180127;39409;15411634;11;50
+r;395567228;39409;15423112;11;50
+r;395582615;39409;15435178;11;50
+r;395583528;39409;15455573;11;50
+r;397502841;39409;15422659;11;50
+r;398503816;39409;15547000;11;50
+r;398926654;39409;15561048;11;50
+r;399662061;39409;15574869;11;50
+r;402274065;39409;15276777;11;50
+r;402274239;39409;15343686;11;50
+r;402274247;39409;15523245;11;50
+r;402274345;39409;15303496;11;50
+r;405572062;39409;15684214;11;50
+r;412522116;39409;15762606;11;50
+r;412522122;39409;15762603;11;50
+r;412522128;39409;15762601;11;50
+r;412522134;39409;15762605;11;50
+r;413897432;39409;15691807;11;50
+r;417026718;39409;15978807;11;50
+r;17818746;39409;575527;11;51
+r;17841020;39409;576331;11;51
+r;26373343;39409;1649472;11;51
+r;29133265;39409;1773600;11;51
+r;31791956;39409;1972052;11;51
+r;33103916;39409;2301734;11;51
+r;93497156;39409;3746328;11;51
+r;93660429;39409;3758059;11;51
+r;93676822;39409;3756270;11;51
+r;93709719;39409;3752862;11;51
+r;93717487;39409;3752020;11;51
+r;93984831;39409;3757106;11;51
+r;29133241;39409;1773606;11;52
+r;29133253;39409;1773603;11;52
+r;29133261;39409;1773601;11;52
+r;29133281;39409;1773596;11;52
+r;29133285;39409;1773595;11;52
+r;29133297;39409;1773592;11;52
+r;29133321;39409;1773585;11;52
+r;29134527;39409;1773170;11;52
+r;50185271;39409;2362350;11;52
+r;53132596;39409;2581254;11;52
+r;85601968;39409;3343421;11;52
+r;93779603;39409;3757409;11;52
+r;93689543;39409;3755025;11;52
+r;93699189;39409;3753989;11;52
+r;93704664;39409;3753410;11;52
+r;93984645;39409;3758785;11;52
+r;98298349;39409;4313430;11;52
+r;18523354;39409;590171;11;53
+r;27678569;39409;1666198;11;53
+r;29133249;39409;1773604;11;53
+r;33104503;39409;2242897;11;53
+r;33827272;39409;2325305;11;53
+r;52443097;39409;2570672;11;53
+r;55142822;39409;2600476;11;53
+r;82412145;39409;3298498;11;53
+r;86168558;39409;3367655;11;53
+r;93659850;39409;3758122;11;53
+r;93666432;39409;3757404;11;53
+r;93672940;39409;3756696;11;53
+r;93691632;39409;3754796;11;53
+r;93695579;39409;3754363;11;53
+r;96421354;39409;4308902;11;53
+r;98571526;39409;4320530;11;53
+r;29133289;39409;1773594;11;54
+r;29133305;39409;1773590;11;54
+r;29133313;39409;1773588;11;54
+r;30551168;39409;1894782;11;54
+r;31626505;39409;1964250;11;54
+r;31781967;39409;1971643;11;54
+r;32077998;39409;1978313;11;54
+r;52449756;39409;2556199;11;54
+r;93682053;39409;3755725;11;54
+r;93779776;39409;3755042;11;54
+r;93709126;39409;3752931;11;54
+r;102011631;39409;4891916;11;54
+r;104854367;39409;5038133;11;54
+r;18523370;39409;590170;11;55
+r;24372038;39409;1472100;11;55
+r;29134523;39409;1773171;11;55
+r;33103932;39409;2301730;11;55
+r;71472588;39409;2904364;11;55
+r;71472708;39409;2897190;11;55
+r;72775509;39409;2951428;11;55
+r;91089822;39409;3611172;11;55
+r;93664565;39409;3757607;11;55
+r;96341338;39409;4306330;11;55
+r;17841770;39409;576332;11;56
+r;31726602;39409;1969374;11;56
+r;33103920;39409;2301732;11;56
+r;33103928;39409;2301731;11;56
+r;33104413;39409;2250698;11;56
+r;52449588;39409;2556518;11;56
+r;52470551;39409;2512428;11;56
+r;93467076;39409;3744117;11;56
+r;93659141;39409;3758196;11;56
+r;93689960;39409;3754979;11;56
+r;93702724;39409;3753625;11;56
+r;93780135;39409;3750979;11;56
+r;105135516;39409;5067434;11;56
+r;23224866;39409;1364352;11;57
+r;29133245;39409;1773605;11;57
+r;29133269;39409;1773599;11;57
+r;29133301;39409;1773591;11;57
+r;29133317;39409;1773586;11;57
+r;30408939;39409;1882505;11;57
+r;31668049;39409;1966279;11;57
+r;33102307;39409;2285668;11;57
+r;33104290;39409;2285667;11;57
+r;33806016;39409;2325030;11;57
+r;55493632;39409;2605787;11;57
+r;78306709;39409;3230773;11;57
+r;86149070;39409;3369957;11;57
+r;93663563;39409;3757717;11;57
+r;93718761;39409;3751886;11;57
+r;17913745;39409;577970;11;58
+r;29133277;39409;1773597;11;58
+r;31810037;39409;1972683;11;58
+r;52461819;39409;2531124;11;58
+r;53783760;39409;2583545;11;58
+r;93651180;39409;3759015;11;58
+r;93666740;39409;3757371;11;58
+r;93779998;39409;3752609;11;58
+r;93713313;39409;3752476;11;58
+r;96349745;39409;4306531;11;58
+r;17914144;39409;577969;11;59
+r;29133237;39409;1773607;11;59
+r;29133257;39409;1773602;11;59
+r;31781464;39409;1971642;11;59
+r;33806503;39409;2325033;11;59
+r;33827757;39409;2325304;11;59
+r;53783754;39409;2583547;11;59
+r;71472584;39409;2904366;11;59
+r;93658367;39409;3758280;11;59
+r;93715227;39409;3752266;11;59
+r;17817819;39409;575526;11;60
+r;18447646;39409;587586;11;60
+r;29133309;39409;1773589;11;60
+r;29134519;39409;1773172;11;60
+r;29446644;39409;1797536;11;60
+r;30372623;39409;1878711;11;60
+r;31725995;39409;1969373;11;60
+r;33103936;39409;2301729;11;60
+r;93670196;39409;3757002;11;60
+r;93684017;39409;3755520;11;60
+r;93714670;39409;3752333;11;60
+r;93985291;39409;3752398;11;60
+r;97951631;39409;4313431;11;60
+r;30408757;39409;1882521;11;61
+r;30412787;39409;1882506;11;61
+r;72940562;39409;2953561;11;62
+r;71472586;39409;2904365;11;63
+r;71472582;39409;2904367;11;64
+r;72940182;39409;2953562;11;64
+r;73832053;39409;2969160;11;65
+r;30401628;39409;1882520;11;66
+r;76217201;39409;3170003;11;67
+r;76217941;39409;3170002;11;67
+r;12542325;39409;389910;11;101
+r;12546637;39409;388833;11;101
+r;12558767;39409;385635;11;101
+r;12612367;39409;372451;11;101
+r;12558685;39409;385658;11;102
+r;12558775;39409;385634;11;102
+r;12583061;39409;379611;11;102
+r;12622143;39409;370063;11;102
+r;12699305;39409;351032;11;102
+r;12558761;39409;385636;11;103
+r;12612305;39409;372467;11;103
+r;12622151;39409;370061;11;103
+r;12696445;39409;351733;11;103
+r;12612269;39409;372476;11;104
+r;13036747;39409;391166;11;104
+r;12622147;39409;370062;11;105
+r;12636917;39409;366328;11;105
+r;13036897;39409;391177;11;105
+r;12683881;39409;354814;11;106
+r;12716107;39409;346834;11;106
+r;12583055;39409;379612;11;107
+r;12622139;39409;370064;11;107
+r;12630773;39409;367874;11;107
+r;12716101;39409;346835;11;108
+r;12558743;39409;385639;11;109
+r;12558749;39409;385638;11;109
+r;12558755;39409;385637;11;109
+r;12560997;39409;385099;11;109
+r;12617349;39409;371253;11;109
+r;12754089;39409;337900;11;109
+r;12622157;39409;370060;11;110
+r;12623481;39409;369768;11;110
+r;12699301;39409;351033;11;110
+r;11862202;39409;109991;11;122
+r;9003680;39409;318512;11;148
+r;9060146;39409;320535;11;148
+r;9077724;39409;321812;11;148
+r;9077725;39409;321813;11;148
+r;9107955;39409;322485;11;148
+r;9256399;39409;323532;11;148
+r;9256411;39409;323560;11;148
+r;9283302;39409;323674;11;148
+r;9349596;39409;324404;11;148
+r;8870791;39409;315733;11;154
+r;2176371;39409;221246;11;161
+r;8609529;39409;114785;11;161
+r;8680542;39409;207649;11;161
+r;8681496;39409;208185;11;161
+r;8683743;39409;209497;11;161
+r;8683749;39409;209502;11;161
+r;8684499;39409;209932;11;161
+r;8685245;39409;210448;11;161
+r;8701155;39409;232701;11;161
+r;8708381;39409;243942;11;161
+r;8710436;39409;246906;11;161
+r;8715477;39409;251893;11;161
+r;8716913;39409;253259;11;161
+r;8719667;39409;255323;11;161
+r;8723314;39409;257939;11;161
+r;8727910;39409;261240;11;161
+r;8727912;39409;261241;11;161
+r;8730703;39409;263506;11;161
+r;8730713;39409;263511;11;161
+r;8730719;39409;263515;11;161
+r;8730740;39409;263532;11;161
+r;8730744;39409;263534;11;161
+r;8730757;39409;263544;11;161
+r;8730767;39409;263549;11;161
+r;8730773;39409;263552;11;161
+r;8730787;39409;263559;11;161
+r;8811852;39409;313668;11;161
+r;8811901;39409;313700;11;161
+r;2176368;39409;209498;11;162
+r;8588798;39409;55691;11;162
+r;8590321;39409;60028;11;162
+r;8597523;39409;81281;11;162
+r;8601216;39409;91649;11;162
+r;8604460;39409;100903;11;162
+r;8608930;39409;113120;11;162
+r;8613061;39409;124850;11;162
+r;8627718;39409;161962;11;162
+r;8628888;39409;164277;11;162
+r;8634096;39409;171618;11;162
+r;8671335;39409;202055;11;162
+r;8677795;39409;206008;11;162
+r;8681783;39409;208359;11;162
+r;8684925;39409;210242;11;162
+r;8689045;39409;214002;11;162
+r;8690106;39409;215992;11;162
+r;8732150;39409;264586;11;162
+r;2176367;39409;128663;11;163
+r;2176370;39409;99616;11;163
+r;8600232;39409;88974;11;163
+r;8617829;39409;137295;11;163
+r;8618676;39409;138540;11;163
+r;8619329;39409;139745;11;163
+r;8623475;39409;153686;11;163
+r;8625050;39409;156386;11;163
+r;8625059;39409;156396;11;163
+r;8634135;39409;171661;11;163
+r;8634244;39409;171734;11;163
+r;8645950;39409;186041;11;163
+r;8671412;39409;202113;11;163
+r;8676346;39409;205098;11;163
+r;8676996;39409;205489;11;163
+r;8676998;39409;205490;11;163
+r;8677852;39409;206047;11;163
+r;8678692;39409;206587;11;163
+r;8732153;39409;264587;11;163
+r;8736184;39409;268282;11;163
+r;8736188;39409;268284;11;163
+r;8739154;39409;271642;11;163
+r;8758493;39409;290550;11;163
+r;8771875;39409;306024;11;163
+r;2176374;39409;205488;11;164
+r;8615899;39409;132640;11;164
+r;8619147;39409;139394;11;164
+r;8647389;39409;186718;11;164
+r;8648174;39409;187283;11;164
+r;8653601;39409;191217;11;164
+r;8662626;39409;196968;11;164
+r;8664996;39409;198397;11;164
+r;8664998;39409;198398;11;164
+r;8665000;39409;198399;11;164
+r;8667751;39409;200077;11;164
+r;8779360;39409;312988;11;164
+r;8668804;39409;200590;11;165
+r;8670340;39409;201419;11;165
+r;8573420;39409;10436;11;166
+r;2176369;39409;3395;11;167
+r;2176373;39409;5931;11;167
+r;8572265;39409;6968;11;168
+r;8573032;39409;9245;11;168
+r;2176375;39409;43924;11;184
+r;8569990;39409;112;11;314

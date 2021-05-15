@@ -1,0 +1,1171 @@
+
+e;53269;'simple';1;396
+e;6285147;'pyéloplastie simple';1;0
+e;6287595;'cathétérisme simple de la vessie';1;0
+e;6288095;'cheilite glandulaire simple';1;0
+e;6289350;'méthode à simple insu';1;0
+e;6289845;'irrigation simple de la vessie';1;0
+e;6299797;'thyréotoxicose avec nodule thyroïdien simple';1;0
+e;6300319;'cystorraphie simple';1;0
+e;6301659;'séquence répétitive simple';1;0
+e;6313933;'goitre non toxique simple';1;0
+e;6314057;'mastectomie simple unilatérale avec lymphadénectomie régionale';1;0
+e;6315744;'cystométrogramme simple';1;0
+e;6315528;'silicose simple';1;0
+e;6317590;'séquence répétée simple';1;0
+e;6317889;'hémorroïdectomie par ligature simple';1;0
+e;6324770;'mastectomie simple bilatérale';1;0
+e;6325746;'techniques de simple hybride inversé';1;0
+e;6329489;'activateur du plasminogène de type urokinase simple chaîne';1;0
+e;6332966;'État de mal épileptique partiel simple';1;0
+e;6335834;'microphtalmie simple';1;0
+e;6337158;'corps nucléaire simple';1;0
+e;6340933;'carie dentaire simple';1;0
+e;6343041;'crises épileptiques à début partielle simple suivies de troubles de la conscience';1;0
+e;6347293;'périodontite simple';1;0
+e;6357199;'hépatorraphie simple';1;0
+e;6360696;'goitre simple';1;0
+e;6362588;'etat paranoïde simple';1;0
+e;6364732;'mastectomie simple étendue bilatérale';1;0
+e;6370490;'mastoïdectomie simple';1;0
+e;6404602;'technologie de simple hybride';1;0
+e;6405368;'fragments variables à simple chaîne';1;0
+e;6408999;'fragments variables à chaîne simple';1;0
+e;6410021;'Étude en simple insu';1;0
+e;6415523;'érythème simple';1;0
+e;6415541;'cavéole simple';1;0
+e;12194605;'mesure de variant simple panel';1;0
+e;12194603;'détermination de la présence de variant simple nom';1;0
+e;12194601;'identification du type de variant simple';1;0
+e;12194599;'identification de variant simple';1;0
+e;12141302;'identification de cosmic variant simple';1;0
+e;6313364;'stimulation magnétique transcrânienne par choc simple';1;0
+e;6391793;'techniques de simple hybride chez la levure';1;0
+e;6385037;'mastectomie simple étendue unilatérale';1;0
+e;6289759;'angiome simple';1;0
+e;6346821;'lichen simple';1;0
+e;6351595;'Épilepsie partielle simple';1;0
+e;14012919;'simple dames de badminton aux Jeux olympiques d'été de 2016';777;0
+e;14012913;'simple hommes de badminton aux Jeux olympiques d'été de 2016';777;0
+e;14012912;'simple hommes de badminton aux Jeux olympiques d'été de 2012';777;0
+e;14012917;'simple dames de badminton aux Jeux olympiques d'été de 2012';777;0
+e;14013473;'Plongeon simple';777;0
+e;14042522;'harmonica diatonique simple';777;0
+e;14048562;'extension simple';777;0
+e;6309710;'pontage simple';1;0
+e;14323478;'coronavirus à ARN simple brin';1;0
+e;14452682;'sursis simple';1;0
+e;14502826;'Une simple bâche ne résiste pas longtemps aux passages répétés d'engins lourds';777;0
+e;14530856;'avec l'esprit le plus simple';777;0
+e;14584464;'virus à ARN simple brin';1;0
+e;14588148;'Romy Schneider pour Une histoire simple';777;0
+e;14590185;'le certificat de situation administrative simple';777;0
+e;14611506;'kyste biliaire simple';1;0
+e;14637442;'pirogue à simple coque';777;0
+e;14656458;'simple dames de l'édition 2001 des Internationaux de France de tennis';777;0
+e;14656459;'simple dames de l'édition 2001 du tournoi de Wimbledon';777;0
+e;14656450;'simple dames de l'édition 2000 du tournoi de Wimbledon';777;0
+e;14656460;'simple dames de l'édition 2001 de l'US Open de tennis';777;0
+e;14656421;'simple dames de l'édition 2018 du tournoi de Wimbledon';777;0
+e;14656451;'simple dames de l'édition 2000 de l'US Open de tennis';777;0
+e;14656480;'simple dames de l'édition 2008 de l'US Open de tennis';777;0
+e;14656481;'simple dames de l'édition 2008 du tournoi de Wimbledon';777;0
+e;14656447;'simple dames de l'édition 2000 des Internationaux de France de tennis';777;0
+e;14656475;'simple dames de l'édition 2008 de l'Open d'Australie';777;0
+e;14656457;'simple dames de l'édition 2001 de l'Open d'Australie';777;0
+e;14666250;'simple dames de l'édition 2004 du tournoi de Wimbledon';777;0
+e;14666251;'simple dames de l'édition 2012 des Internationaux de France de tennis';777;0
+e;14694143;'simple à suivre';1;0
+e;15129008;'simple messieurs de l'édition 2020 des Internationaux de France de tennis';777;0
+e;6407173;'kyste séreux simple';1;0
+e;6312632;'rétinopathie simple';1;0
+e;6364796;'polymorphisme conformationnel simple brin';1;0
+e;6376536;'nodule thyroïdien simple non toxique';1;0
+e;15782293;'simple sequence repeats';777;0
+e;15785890;'simple messieurs de l'édition 2019 des Internationaux de France de tennis';777;0
+e;16103539;'omission simple';777;0
+e;16167452;'simple à droite';777;0
+e;16167451;'simple à gauche';777;0
+e;16174907;'halophilie simple';777;0
+e;6433224;'excision simple d'hygroma kystique';1;0
+e;6294608;'clic simple perçu dans la partie moyenne de la systole';1;0
+e;6302990;'simple ou non précisée otite moyenne chronique mucoïde';1;0
+e;6326236;'simple syndactylie des orteils sans synostose';1;0
+e;6327744;'précisé simple goitre';1;0
+e;6331067;'gingivite marginale simple';1;0
+e;6355071;'Étude à simple insu';1;0
+e;6366567;'acroparesthésie simple';1;0
+e;6369040;'Épidermolyse bulleuse simple';1;0
+e;6376539;'simple autre luxation du genou';1;0
+e;6380040;'carie simple';1;0
+e;6404293;'simple luxation de la rotule';1;0
+e;6410977;'Étude en simple aveugle';1;0
+e;6411493;'buphthalmie simple';1;0
+e;6417449;'partiel avec simple déficit décollement rétinien récent';1;0
+e;6421045;'forme simple démence sénile';1;0
+e;6413837;'méthode en simple insu';1;0
+e;6389799;'état subchronique avec exacerbation aiguë schizophrénie simple';1;0
+e;6344354;'état chronique schizophrénie simple';1;0
+e;6291034;'état non précisé schizophrénie simple';1;0
+e;6334442;'état chronique avec exacerbation aiguë schizophrénie simple';1;0
+e;6284820;'état subchronique schizophrénie simple';1;0
+e;14531752;'dans son plus simple appareil';1;10
+e;14595907;'simple vitrage';1;2
+e;15016185;'pure et simple';1;0
+e;15953250;'copies simples';1;2
+e;6430054;'méthode en simple aveugle';1;0
+e;6329560;'autre site luxation simple';1;0
+e;6350996;'simple ou non précisée otite moyenne chronique séreuse';1;0
+e;6370235;'sites multiples et mal définis luxation simple';1;0
+e;6397675;'simple luxation de la hanche';1;0
+e;12094282;'cosmic variant simple';1;0
+e;6443458;'protéines fixant le simple brin de l'adn';1;0
+e;10889251;'simple dames de l'édition 2016 de l'Open d'Australie';777;0
+e;10889247;'simple dames de l'édition 2014 du tournoi de Wimbledon';777;0
+e;10878651;'simple dames de l'édition 2000 des compétitions de tennis aux Jeux olympiques d'été';777;0
+e;10878590;'simple messieurs de l'édition 1904 des compétitions de tennis aux Jeux olympiques d'été';777;0
+e;10878589;'simple messieurs de l'édition 1900 des compétitions de tennis aux Jeux olympiques d'été';777;0
+e;10878588;'simple messieurs de l'édition 1896 des compétitions de tennis aux Jeux olympiques d'été';777;0
+e;10878586;'simple garçons';777;0
+e;10878585;'simple messieurs de l'édition 1968 des compétitions de tennis aux Jeux olympiques d'été';777;0
+e;10878584;'simple messieurs de l'édition 1906 des compétitions de tennis aux Jeux olympiques d'été';777;0
+e;10877600;'simple dames de l'édition 1996 des compétitions de tennis aux Jeux olympiques d'été';777;0
+e;10877599;'simple dames de l'édition 1992 des compétitions de tennis aux Jeux olympiques d'été';777;0
+e;10900874;'simple dames de l'édition 2017 des Internationaux de France de tennis';777;0
+e;6443268;'protéines se liant au simple brin de l'adn';1;0
+e;6426712;'protéines télomériques à simple brin';1;0
+e;6426551;'autre vertèbre luxation simple';1;0
+e;6426411;'destruction simple de lésion de la vulve';1;0
+e;6425884;'luxation simple de la cheville';1;0
+e;12108278;'variant simple panel';1;0
+e;12108277;'variant simple nom';1;0
+e;12108276;'variant simple';1;0
+e;13032298;'simple à fabriquer';1;0
+e;16094630;'en simple';1;0
+e;16094632;'en simple féminin';1;0
+e;16094631;'en simple masculin';1;0
+e;5811129;'simple brin d'ARN positif';777;0
+e;6429782;'goitre simple et non précisé';1;0
+e;9989831;'Un aller simple';777;0
+e;9990748;'Pinot simple flic';777;0
+e;10908993;'simple dames de l'édition 1950 du tournoi de Wimbledon';777;0
+e;10908991;'simple dames de l'édition 1949 du tournoi de Wimbledon';777;0
+e;10908989;'simple dames de l'édition 1949 des Internationaux de France de tennis';777;0
+e;10908985;'simple dames de l'édition 1947 du tournoi de Wimbledon';777;0
+e;10908983;'simple dames de l'édition 1946 des Internationaux de France de tennis';777;0
+e;11755769;'potentiel de simple couche';777;0
+e;13032346;'turboréacteur simple flux mono-corps';1;0
+e;13032347;'turboréacteur simple flux double-corps';1;0
+e;15383743;'covoiturage simple';1;0
+e;15295343;'disquette simple densité';1;0
+e;15462900;'disquette simple face';1;0
+e;13746478;'dosage simple des anticorps anti-vih-1 et -2';1;0
+e;15363107;'droit de vote simple';1;0
+e;15769857;'du simple au double';1;0
+e;15757450;'du simple fait de';1;0
+e;15583232;'du simple fait que';1;0
+e;15345164;'en simple aveugle';1;0
+e;16321893;'compensateur simple';1;0
+e;5817257;'pendule simple';777;0
+e;6427851;'composé organique simple';1;0
+e;10962794;'virus à ARN à simple brin à polarité positive';1;0
+e;15541572;'cholémie simple familiale';1;0
+e;15307394;'comptabilité en partie simple';1;0
+e;15471504;'conduit de fumée simple paroi';1;0
+e;15442238;'contrat simple';1;0
+e;1833136;'épidermolyse bulleuse simple';1;0
+e;3371912;'velouté de petits pois';1;0
+e;3369881;'spaghetti au saumon';1;0
+e;3369740;'soupe de poivrons rouges';1;0
+e;3369327;'sauté de boeuf aux oignons';1;0
+e;5800063;'Wikipédia en anglais simple';777;0
+e;5830026;'catholicum simple';777;0
+e;5837723;'plan simple de gestion';777;0
+e;6426138;'simple syndactylie des doigts sans synostose';1;0
+e;10917052;'simple messieurs de l'édition 2015 des Internationaux de France de tennis';777;0
+e;10917049;'simple dames de l'édition 2015 des Internationaux de France de tennis';777;0
+e;11776789;'simple messieurs de l'édition 2018 de l'US Open de tennis';777;0
+e;11776787;'simple messieurs de l'édition 2018 des Internationaux de France de tennis';777;0
+e;11776788;'simple messieurs de l'édition 2018 du tournoi de Wimbledon';777;0
+e;11776786;'simple messieurs de l'édition 2018 de l'Open d'Australie';777;0
+e;11777295;'simple messieurs de l'édition 2016 du tournoi de Wimbledon';777;0
+e;11777299;'simple messieurs de l'édition 2016 de l'US Open de tennis';777;0
+e;11777293;'simple messieurs de l'édition 2016 des Internationaux de France de tennis';777;0
+e;16029346;'c'est bien simple';1;0
+e;15468991;'c'est plus simple';1;0
+e;1831022;'coupure simple brin';1;0
+e;5672478;'simple joueur';777;0
+e;11082228;'téléphone portable simple';777;0
+e;11082225;'téléphone mobile simple';777;0
+e;15550450;'assurance vie simple';1;0
+e;15320849;'astigmatisme myopique simple';1;0
+e;16284846;'VMC simple flux';777;0
+e;1829837;'cellule simple';1;0
+e;1833137;'épidermolyse bulleuse simple d'Ogna';1;0
+e;1835229;'ulcère simple de Hajek';1;0
+e;3360301;'charlotte ananas';1;0
+e;6431293;'anticorps à fragment variable à chaîne simple';1;0
+e;11410137;'microextraction en simple goutte';777;0
+e;11812744;'impression simple face';777;0
+e;12079519;'jeu simple';1;0
+e;12302079;'composé hétérocyclique simple';1;0
+e;15315917;'Son style est simple et dépouillé.';1;0
+e;16074431;'Sursis simple';1;0
+e;15258711;'Un aller simple pour Toulouse, s'il vous plaît.';1;0
+e;15480815;'accréditif simple';1;0
+e;15696195;'agrément simple';777;0
+e;15456945;'aller du simple au double';1;0
+e;15566968;'amplificateur à sortie simple';1;0
+e;1833212;'épithélium simple';1;0
+e;1834029;'théorie de la simple interaction de Fincham';1;0
+e;1837546;'retard simple du langage';1;0
+e;5723458;'Exemple simple';777;0
+e;6429904;'alvéolite pulmonaire simple';1;0
+e;12033233;'lipide simple';1;0
+e;12077971;'cur simple';1;0
+e;12081037;'protéine de liaison avec l'ADN simple brin';1;0
+e;12079411;'image radar simple';1;0
+e;16381019;'La chaîne pyrotechnique simple';777;0
+e;16381020;'La chaîne électrique simple';777;0
+e;1836305;'hypotrichose congénitale simple';1;0
+e;1836367;'ictère simple du nouveau né';1;0
+e;1839482;'myopie simple';1;0
+e;6441871;'protéines de liaison au simple brin de l'adn';1;0
+e;6438969;'réparation simple de complications d'hypospadias';1;0
+e;6430551;'mononeuropathie diabétique simple';1;0
+e;10042290;'Un aller simple pour Maoré';777;0
+e;10335113;'Pas si simple';1;0
+e;10328782;'branle simple';777;0
+e;10931277;'simple en quad';777;0
+e;11362332;'simple messieurs de l'édition 2014 des Internationaux de France de tennis';777;0
+e;11362331;'simple dames de l'édition 2014 des Internationaux de France de tennis';777;0
+e;11362334;'simple messieurs de l'édition 2014 du tournoi de Wimbledon';777;0
+e;11362325;'simple dames de l'édition 2014 de l'Open d'Australie';777;0
+e;11362336;'simple dames de l'édition 2014 de l'US Open de tennis';777;0
+e;11362338;'simple messieurs de l'édition 2014 de l'US Open de tennis';777;0
+e;11840586;'convergence simple';777;0
+e;12077937;'clubione simple';1;0
+e;12078157;'cor simple';1;0
+e;12081329;'simple placé';1;0
+e;12081328;'simple gagnant';1;0
+e;12882917;'état paranoïde simple';1;0
+e;6448668;'protéines se liant à l'adn simple brin';1;0
+e;6434618;'protéines liant le simple brin de l'adn';1;0
+e;11392740;'machine simple';777;0
+e;11933315;'simple dames de l'édition 2007 du tournoi de Wimbledon';777;0
+e;2401684;'guillemet simple';1;0
+e;3362329;'flan brocolis';1;0
+e;5636240;'température de fusion du corps simple';777;0
+e;5805821;'Guyot simple';777;0
+e;6450459;'potentiel d'action simple de l'axone';1;0
+e;10778124;'Championnats du monde simple distance';777;0
+e;2461141;'pourquoi faire compliqué quand on peut faire simple';1;0
+e;5831947;'fruit sec simple';1;0
+e;6424009;'bassin plat simple';1;0
+e;2443367;'ce qui est simple est faux';1;0
+e;3363437;'gratin de courgettes aux knacks';1;0
+e;5806509;'antenne simple fil';777;0
+e;6442446;'dérèglement simple de l'activité et de l'attention';1;0
+e;10547883;'simple dames de l'édition 1967 des Internationaux de France de tennis';777;0
+e;12054116;'simple citoyen';1;0
+e;2378668;'chaîne simple';1;0
+e;6450155;'luxation simple de l'épaule';1;0
+e;6693940;'exemple simple de fonction';1;0
+e;3362473;'fondant glacé chocolat et noix';1;0
+e;5553816;'toute fonction harmonique peut se représenter par un potentiel de simple couche';777;0
+e;6448443;'protéines de liaison à l'adn simple brin';1;0
+e;11155274;'algèbre centrale simple';1;0
+e;3362166;'filet mignon de porc au miel';1;0
+e;5538305;'LR simple';777;0
+e;5554347;'théorème de la limite simple de Baire';777;0
+e;6446430;'protéines liant l'adn simple brin';1;0
+e;6444783;'kyste simple de l'ovaire';1;0
+e;6430188;'ajustement chiropractique de subluxation simple de la colonne cervicale';1;0
+e;11252831;'Passé simple';777;0
+e;2378671;'chemin simple';777;0
+e;2479608;'joug simple';1;0
+e;5537929;'simple modular architecture research tool';777;0
+e;5557194;'un plan simple';777;0
+e;5980612;'pendule simple discret';777;0
+e;6452033;'réparation simple en un temps d'hypospadias distale avec avancement du méat';1;0
+e;6684669;'faute simple';777;0
+e;10428739;'simple dames de l'édition 2013 de l'US Open de tennis';777;0
+e;10428731;'simple dames de l'édition 2013 du tournoi de Wimbledon';777;0
+e;10428725;'simple dames de l'édition 2013 des Internationaux de France de tennis';777;0
+e;10428707;'simple dames de l'édition 2013 de l'Open d'Australie';777;0
+e;10428639;'simple dames de l'édition 2006 de l'US Open de tennis';777;0
+e;10428637;'simple dames de l'édition 2006 des Internationaux de France de tennis';777;0
+e;10149178;'simple dames de l'édition 1965 du championnat national de tennis des États-Unis';777;0
+e;10149169;'simple dames de l'édition 1963 du tournoi de Wimbledon';777;0
+e;10149147;'simple dames de l'édition 1975 du tournoi de Wimbledon';777;0
+e;10149141;'simple dames de l'édition 1974 de l'US Open de tennis';777;0
+e;10149129;'simple dames de l'édition 1973 du tournoi de Wimbledon';777;0
+e;10149108;'simple dames de l'édition 1972 de l'US Open de tennis';777;0
+e;10149100;'simple dames de l'édition 1972 des Internationaux de France de tennis';777;0
+e;10149093;'simple dames de l'édition 1971 de l'US Open de tennis';777;0
+e;10149033;'simple dames de l'édition 1968 du tournoi de Wimbledon';777;0
+e;10149013;'simple dames de l'édition 1968 des championnats de tennis d'Australie';777;0
+e;10148987;'simple dames de l'édition 1967 du championnat national de tennis des États-Unis';777;0
+e;10148982;'simple dames de l'édition 1967 du tournoi de Wimbledon';777;0
+e;10145433;'championnats du monde simple distance de patinage de vitesse';777;0
+e;6446864;'protéines fixant l'adn simple brin';1;0
+e;10149107;'simple dames de l'édition 1972 du tournoi de Wimbledon';777;0
+e;10148963;'simple dames de l'édition 1966 du tournoi de Wimbledon';777;0
+e;10431478;'simple dames de l'édition 2012 des compétitions de tennis aux Jeux olympiques d'été';777;0
+e;10431477;'simple dames de l'édition 2008 des compétitions de tennis aux Jeux olympiques d'été';777;0
+e;10431476;'simple dames de l'édition 2004 des compétitions de tennis aux Jeux olympiques d'été';777;0
+e;10431351;'simple dames de l'édition 2015 du tournoi de Wimbledon';777;0
+e;13439125;'ARN monopartite à simple brin à polarité positive';1;0
+e;2366084;'anglais simple';1;0
+e;6450413;'hyperplasie simple de l'endomètre';1;0
+e;12765632;'piston à simple effet';1;0
+e;12765630;'pistons à simple effet';1;0
+e;2365549;'ce qui est simple est faux, ce qui est compliqué est inutilisable';1;0
+e;9202549;'pas simple';777;0
+e;8957507;'ouvre-boîte à simple lame';1;0
+e;9396915;'ARN à simple brin';1;0
+e;12628752;'virus non-enveloppés à ARN simple brin de polarité positive';1;0
+e;12699254;'authentification simple';1;0
+e;12709546;'simple messieurs de l'édition 2015 de l'US Open de tennis';777;0
+e;12709538;'simple messieurs de l'édition 2013 de l'US Open de tennis';777;0
+e;12709545;'simple messieurs de l'édition 2015 du tournoi de Wimbledon';777;0
+e;12711239;'La Religion dans les limites de la simple raison';777;0
+e;15229709;'Elle l'a fait par simple frustration.';1;0
+e;15574695;'C'est une manière un peu trop simple de présenter les choses.';1;0
+e;15330071;'J'apprécie une nourriture simple et saine.';1;0
+e;14029699;'Championnats du monde simple distance de patinage de vitesse';777;0
+e;15292703;'C'est du chantage pur et simple.';1;0
+e;15262246;'Ce n'est pas aussi simple';1;0
+e;15424845;'C'est aussi simple que cela !';1;0
+e;15480293;'Je voudrais un aller simple pour Angers.';1;0
+e;15786220;'C'est simple comme bonjour!';1;0
+e;16072054;'Adoption simple';1;0
+e;464026;'kyste simple rénal';1;50
+e;1850133;'épidermolyse bulleuse simple de Koebner';1;0
+e;3370490;'tarte aux champignons toute simple mais délicieuse';1;0
+e;3368964;'salade de pommes de terrre ultra simple';1;0
+e;3367657;'poulet massalé simple';1;0
+e;3367187;'pommes de terre en salade très simple';1;0
+e;3364658;'mousse au café simple';1;0
+e;3362829;'gâteau aux carambars tout simple';1;0
+e;3360308;'charlotte au chocolat très simple !';1;0
+e;3746246;'tarte au fromage super simple';1;0
+e;566183;'instrument à anche simple';777;50
+e;1778298;'branche osseuse simple d'un canal semi-circulaire';1;0
+e;3369835;'soupe simple aux tomates séchées';1;0
+e;3368491;'rôti haché très simple';1;0
+e;3364997;'oeuf poché ultra simple';1;0
+e;3364777;'mousse simple au nutella';1;0
+e;3363165;'gâteau super simple';1;0
+e;3363097;'gâteau marbré simple';1;0
+e;3360890;'courgette à la menthe simple et rapide';1;0
+e;3361027;'crème brûlée simple';1;0
+e;3361784;'endive au curry ultra simple et rapide';1;0
+e;3746411;'bacon tout simple grillé au four';1;0
+e;4338820;'devenir plus simple';1;0
+e;4903066;'moucherolle simple';1;0
+e;593843;'réduire à sa plus simple expression';1;0
+e;661416;'inosilicates chaîne simple';777;0
+e;3368181;'rillettes de thon super simple';1;0
+e;3366638;'pavés de saumon aux épinards et au boursin, ultra simple';1;0
+e;3365303;'cake light, sans beurre super simple';1;0
+e;3364261;'ma choucroute toute simple';1;0
+e;3363569;'gratin de poissons et de fruits de mer tout simple';1;0
+e;3361465;'crumble simple';1;0
+e;3686024;'turboréacteur à simple flux';1;0
+e;3744268;'purée de céleri-rave simple';1;0
+e;3745815;'chili con carne tout simple';1;0
+e;4941306;'turboréacteur simple flux';1;0
+e;569810;'Échelle verbale simple';777;50
+e;1658318;'fracture simple diaphysaire';1;0
+e;1778296;'branche membraneuse simple d'un conduit semi-circulaire';1;0
+e;3182446;'kyste osseux simple';1;0
+e;3368475;'rôti de porc tout simple';1;0
+e;3367792;'purée de courgettes très simple';1;0
+e;3366426;'pâtes à la chair à saucisse simple';1;0
+e;3365210;'bisque de homard en verrine, excessivement simple & rapide';1;0
+e;3372358;'ultra-simple';1;0
+e;3743655;'chapon rôti tout simple';1;0
+e;3744015;'couscous de mouton tout simple';1;0
+e;3746155;'couscous poulet ultra simple';1;0
+e;4903446;'sporophile simple';1;0
+e;1813248;'épidermolyse bulleuse simple, ou simplex, ou épidermolytique';1;0
+e;1850722;'hyperplasie glandulaire simple de l'endomètre';1;0
+e;4901602;'pigeon simple';1;0
+e;3359152;'baba au rhum simple sans beurre';1;0
+e;3359184;'bananes au lait de coco tout simple';1;0
+e;3370481;'tarte aux brocolis simple';1;0
+e;3368148;'recette de porc à la bière toute simple et pas chère';1;0
+e;3367692;'poulet rôti simple mais tellement bon';1;0
+e;3360710;'congolais ultra simple';1;0
+e;3744349;'mousse au chocolat toute simple';1;0
+e;3744513;'tarte aux poires toute simple';1;0
+e;3746162;'pâte à gaufres toute simple';1;0
+e;3746083;'poulet basquaise tout simple';1;0
+e;4907534;'Pigeon simple';777;0
+e;462607;'lobule simple';1;50
+e;1850132;'épidermolyse bulleuse simple de Weber-Cockayne';1;0
+e;1848802;'ADN simple brin';1;0
+e;3229462;'composé inorganique simple';1;0
+e;3371924;'velouté de potion, ultra simple !';1;0
+e;3371659;'tourte de blettes simple';1;0
+e;3370018;'taboulé simple, liban';1;0
+e;3369453;'simple gratin d'endives au gruyère';1;0
+e;3366359;'pâte à tarte toute simple';1;0
+e;3365292;'cake aux legumes, très simple';1;0
+e;3363859;'kouign amann simple';1;0
+e;3361119;'crème ultra simple au citron';1;0
+e;573671;'épaule douloureuse simple';777;50
+e;1490096;'relaxe pure et simple';1;0
+e;2360734;'verbe simple';1;0
+e;2515323;'pourquoi faire simple quand on peut faire compliqué';1;0
+e;3322029;'simple-zéro';1;0
+e;3369616;'soupe aux nouilles chinoises toute simple';1;0
+e;3369473;'sorbet à la cerise simple';1;0
+e;3369008;'salade de st jacques simple';1;0
+e;3368974;'salade de poulet toute simple, restes de poulet';1;2
+e;3362858;'gâteau aux noisettes simple';1;0
+e;3361987;'farce simple pour poitrine de veau';1;0
+e;1665107;'héritage simple';1;0
+e;1851283;'monstre simple autosite';1;0
+e;1850801;'test d'immunodiffusion radiale simple';1;0
+e;1906612;'gâteau simple au chocolat';1;0
+e;3318794;'gratin de courgette au gorgozola simple';1;0
+e;3366347;'pâte à nouilles maison, pour tagliatelles simple';1;0
+e;3366341;'pâte à crèpes sans oeufs simple';1;0
+e;3363160;'gâteau simple aux noix';1;0
+e;5980223;'pendule simple à résonance paramétrique';777;0
+e;1747865;'virus à ARN à simple brin à polarité négative';1;0
+e;1838241;'théorie de la simple interaction de Maddox-Alpern';1;0
+e;2457714;'coeur simple';1;0
+e;3369836;'soupe simple et délicieuse aux fanes de radis';1;0
+e;3367134;'poivrons farcis simple';1;0
+e;3364354;'marinade de boeuf très simple';1;0
+e;3363388;'gratin dauphinois simple';1;0
+e;4857066;'pendule pesant simple';1;0
+e;1874059;'ARN simple brin';1;0
+e;2950789;'racème simple';1;0
+e;1851284;'monstre simple parasite';1;0
+e;394189;'hyperplasie endométriale simple';1;50
+e;1851282;'monstre simple';1;0
+e;1847158;'urétérocèle simple';1;0
+e;1850952;'kyste simple du rein';1;0
+e;1849171;'bassin iliofémoral simple';1;0
+e;1841566;'pityriasis simplex ou simple';1;0
+e;382003;'sur simple demande';1;50
+e;379771;'simple messieurs';1;52
+e;379614;'si simple';1;50
+e;367858;'oscillation simple';1;50
+e;363400;'marguerite simple';1;50
+e;359661;'intervalle simple';1;50
+e;370396;'pied simple';1;50
+e;360308;'jour simple';1;50
+e;359713;'intégrale simple';1;52
+e;370247;'phrase déclarative simple';1;50
+e;362849;'majorité simple';1;50
+e;360059;'jeté simple';1;50
+e;351407;'en simple duplex';1;52
+e;348549;'du simple au triple';1;50
+e;335276;'anche simple';1;50
+e;379770;'simple liaison';1;50
+e;379766;'simple coup de téléphone';1;50
+e;374784;'pôle simple';1;50
+e;368558;'par simple précaution';1;50
+e;365708;'mât simple';1;50
+e;353833;'feuille simple';1;50
+e;343848;'chose simple';1;50
+e;339185;'billet aller simple';1;50
+e;393053;'Ce que je sais d'elle... d'un simple regard';1;50
+e;389323;'écluse simple';1;50
+e;379769;'simple exécutant';1;50
+e;377612;'régie simple';1;50
+e;369762;'persil simple';1;50
+e;368557;'par simple hasard';1;50
+e;366491;'nom simple';1;50
+e;356707;'graphe simple';1;50
+e;355899;'garantie simple';1;50
+e;353270;'faillite simple';1;50
+e;347013;'dent à couronne simple';1;50
+e;389930;'épaisseur simple';1;50
+e;385076;'trompette simple';1;50
+e;379773;'simple particulier';1;50
+e;378711;'satin simple';1;50
+e;368782;'paroi simple';1;50
+e;368739;'pari simple';1;50
+e;366425;'noeud de chaise simple';1;50
+e;364064;'mesure simple';1;50
+e;359787;'inversion simple';1;50
+e;357690;'hernie simple';1;50
+e;376416;'retordage simple';1;50
+e;365251;'moulure simple';1;50
+e;351408;'en simple interligne';1;50
+e;388142;'à ce simple titre';1;50
+e;387751;'voûte simple';1;50
+e;380348;'sondage aléatoire simple';1;50
+e;379237;'semence hybride simple';1;50
+e;362578;'machine à vapeur à simple effet';1;50
+e;358168;'hydromel simple';1;50
+e;355497;'fruit simple';1;50
+e;354952;'forme simple';1;50
+e;352672;'excessivement simple';1;50
+e;349162;'délit simple';1;50
+e;338296;'balle simple';1;50
+e;382002;'sur simple appel téléphonique';1;50
+e;381311;'stomatite simple';1;50
+e;379772;'simple mortel';1;50
+e;379768;'simple et de bon goût';1;50
+e;379767;'simple dames';1;50
+e;374478;'pur et simple';1;50
+e;372414;'pour la simple raison que';1;50
+e;366452;'noeud simple';1;50
+e;365193;'mot simple';1;50
+e;346866;'de simple complaisance';1;50
+e;384944;'treuil simple';1;50
+e;383319;'terme simple';1;50
+e;365755;'mécanique à levée simple';1;50
+e;356607;'grande fille toute simple';1;50
+e;349184;'délégation parfaite simple';1;50
+e;334115;'affaire simple';1;50
+e;319068;'liaison simple';1;60
+e;320945;'tomographie à émission simple photon';1;50
+e;323958;'kyste simple';1;50
+e;208306;'son simple';1;50
+e;221275;'structure simple';1;50
+e;228672;'sucre simple';1;12
+e;238379;'chambre simple';1;78
+e;242221;'simple formalité';1;50
+e;245073;'adoption simple';1;52
+e;255780;'copie simple';1;50
+e;24555;'Un coeur simple';1;50
+e;56263;'Un simple regard';1;50
+e;100896;'réaction simple';1;50
+e;112945;'superphosphate simple';1;50
+e;119112;'corps simple';1;64
+e;160594;'simple soldat';1;60
+e;166497;'futur simple';1;50
+e;184121;'rime léonine simple';1;50
+e;208501;'style simple';1;50
+e;208868;'temps simple';1;50
+e;210013;'vol simple';1;50
+e;291775;'fraction continue simple';777;50
+e;301407;'le simple';777;50
+e;306393;'société en commandite simple';777;50
+e;310242;'fichier texte simple';777;50
+e;69078;'Une histoire simple';1;50
+e;127797;'Herpes simple';1;50
+e;138682;'Le Moyen simple et facile d'organiser une libre république';1;50
+e;144317;'simple d'esprit';1;76
+e;146818;'simple life';1;50
+e;151535;'passé simple';1;230
+e;155637;'dans le plus simple appareil';1;54
+e;180831;'aller simple';1;2
+e;182784;'image simple par radar';1;50
+e;195588;'à simple effet';1;50
+e;202209;'intérêt simple';1;50
+e;203221;'lumière simple';1;50
+e;203993;'monopole simple';1;50
+e;204106;'mouvement simple';1;50
+e;204338;'négation simple';1;50
+e;204549;'objectif simple';1;50
+e;206259;'présomption simple';1;50
+e;270932;'oeil simple';1;52
+e;272620;'groupe simple';777;50
+e;287611;'simple connexité';777;50
+e;287612;'Connexité simple';777;50
+e;301813;'sous contrat simple';777;50
+e;185043;'simple comme bonjour';1;50
+e;191585;'taillis simple';1;50
+e;196879;'bâti simple';1;50
+e;312000;'simple action';1;50
+e;312822;'simple brin';777;54
+e;200218;'exercice à simple action';1;50
+e;200643;'faire simple';1;50
+e;10382;'Un simple incident';1;50
+e;4039;'phrase simple';1;50
+r;297918150;53269;6285147;11;25
+r;298237278;53269;6287595;11;25
+r;298253979;53269;6288095;11;25
+r;298401370;53269;6289350;11;25
+r;298403158;53269;6289845;11;25
+r;299089629;53269;6299797;11;25
+r;299131014;53269;6300319;11;25
+r;299220677;53269;6301659;11;25
+r;299625086;53269;6313933;11;25
+r;299626950;53269;6314057;11;25
+r;299655765;53269;6315744;11;25
+r;299657421;53269;6315528;11;25
+r;299790817;53269;6317590;11;25
+r;299820986;53269;6317889;11;25
+r;300184219;53269;6324770;11;25
+r;300193235;53269;6325746;11;25
+r;300239202;53269;6329489;11;25
+r;301129034;53269;6332966;11;25
+r;301255614;53269;6335834;11;25
+r;301436617;53269;6337158;11;25
+r;301471814;53269;6340933;11;25
+r;301494261;53269;6343041;11;25
+r;301612824;53269;6347293;11;25
+r;301818209;53269;6357199;11;25
+r;302098582;53269;6360696;11;25
+r;302137467;53269;6362588;11;25
+r;302182025;53269;6364732;11;25
+r;302983941;53269;6370490;11;25
+r;305298851;53269;6404602;11;25
+r;305303713;53269;6405368;11;25
+r;305459759;53269;6408999;11;25
+r;305464384;53269;6410021;11;25
+r;305663006;53269;6415523;11;25
+r;305664852;53269;6415541;11;25
+r;310674566;53269;9202683;11;25
+r;316563701;53269;12194605;11;25
+r;316563712;53269;12194603;11;25
+r;316563723;53269;12194601;11;25
+r;316563730;53269;12194599;11;25
+r;316753753;53269;12141302;11;25
+r;319050973;53269;6313364;11;25
+r;319078674;53269;6391793;11;25
+r;341182087;53269;6385037;11;25
+r;349155474;53269;6289759;11;25
+r;349216277;53269;6346821;11;25
+r;349307325;53269;6351595;11;25
+r;353953932;53269;14012919;11;25
+r;353954275;53269;14012913;11;25
+r;353957034;53269;14012912;11;25
+r;353964561;53269;14012917;11;25
+r;354057582;53269;14013473;11;25
+r;354718280;53269;14042522;11;25
+r;355152397;53269;14048562;11;25
+r;355198595;53269;6309710;11;25
+r;364499810;53269;14323478;11;25
+r;366879190;53269;14452682;11;25
+r;368469193;53269;14502826;11;25
+r;368632805;53269;14530856;11;25
+r;370576892;53269;14584464;11;25
+r;370679099;53269;14588148;11;25
+r;370779468;53269;14590185;11;25
+r;371339667;53269;14611506;11;25
+r;371834746;53269;14637442;11;25
+r;372740113;53269;14656458;11;25
+r;372740197;53269;14656459;11;25
+r;372740252;53269;14656450;11;25
+r;372740274;53269;14656460;11;25
+r;372740407;53269;14656421;11;25
+r;372740961;53269;14656451;11;25
+r;372741046;53269;14656480;11;25
+r;372741116;53269;14656481;11;25
+r;372744927;53269;14656447;11;25
+r;372744951;53269;14656475;11;25
+r;372746048;53269;14656457;11;25
+r;372985177;53269;14666250;11;25
+r;372996445;53269;14666251;11;25
+r;373853921;53269;14694143;11;25
+r;393347817;53269;15129008;11;25
+r;400920029;53269;6407173;11;25
+r;398411218;53269;6312632;11;25
+r;400226712;53269;6364796;11;25
+r;400590075;53269;6376536;11;25
+r;410054601;53269;15782293;11;25
+r;410204060;53269;15785890;11;25
+r;420266621;53269;16103539;11;25
+r;425006654;53269;16167452;11;25
+r;425014989;53269;16167451;11;25
+r;425069257;53269;16174907;11;25
+r;122668781;53269;6433224;11;26
+r;298813739;53269;6294608;11;26
+r;299336046;53269;6302990;11;26
+r;300196111;53269;6326236;11;26
+r;300209317;53269;6327744;11;26
+r;300964786;53269;6331067;11;26
+r;301765530;53269;6355071;11;26
+r;302199615;53269;6366567;11;26
+r;302971856;53269;6369040;11;26
+r;303626778;53269;6376539;11;26
+r;303668766;53269;6380040;11;26
+r;305296808;53269;6404293;11;26
+r;305472223;53269;6410977;11;26
+r;305481823;53269;6411493;11;26
+r;305689016;53269;6417449;11;26
+r;305708254;53269;6421045;11;26
+r;319073309;53269;6413837;11;26
+r;349156333;53269;6389799;11;26
+r;349233562;53269;6344354;11;26
+r;349236116;53269;6291034;11;26
+r;349244792;53269;6334442;11;26
+r;349249907;53269;6284820;11;26
+r;368677235;53269;14531752;11;26
+r;370887405;53269;14595907;11;26
+r;392171573;53269;15016185;11;26
+r;416130058;53269;15953250;11;26
+r;122695415;53269;6430054;11;27
+r;300234925;53269;6329560;11;27
+r;301736811;53269;6350996;11;27
+r;302985150;53269;6370235;11;27
+r;305054183;53269;6397675;11;27
+r;315621043;53269;12094282;11;27
+r;121496967;53269;6443458;11;28
+r;273210996;53269;10889251;11;28
+r;273211025;53269;10889247;11;28
+r;273215901;53269;10878651;11;28
+r;273215991;53269;10878590;11;28
+r;273216012;53269;10878589;11;28
+r;273216033;53269;10878588;11;28
+r;273216058;53269;10878586;11;28
+r;273216062;53269;10878585;11;28
+r;273216083;53269;10878584;11;28
+r;273218624;53269;10877600;11;28
+r;273218645;53269;10877599;11;28
+r;274301909;53269;10900874;11;28
+r;121498661;53269;6443268;11;29
+r;122721278;53269;6426712;11;29
+r;122722452;53269;6426551;11;29
+r;122723566;53269;6426411;11;29
+r;122727646;53269;6425884;11;29
+r;315496532;53269;12108278;11;29
+r;315496541;53269;12108277;11;29
+r;315496550;53269;12108276;11;29
+r;337339783;53269;13032298;11;29
+r;434388036;53269;16094630;11;29
+r;434388040;53269;16094632;11;29
+r;434388046;53269;16094631;11;29
+r;113274630;53269;5811129;11;30
+r;122697496;53269;6429782;11;30
+r;226736545;53269;9989831;11;30
+r;227683662;53269;9990748;11;30
+r;274270475;53269;10908993;11;30
+r;274270496;53269;10908991;11;30
+r;274270518;53269;10908989;11;30
+r;274270549;53269;10908985;11;30
+r;274270570;53269;10908983;11;30
+r;301566373;53269;11755769;11;30
+r;310674565;53269;3333237;11;30
+r;310674567;53269;3333238;11;30
+r;334354256;53269;13032346;11;30
+r;334357844;53269;13032347;11;30
+r;419749428;53269;15383743;11;30
+r;419785701;53269;15295343;11;30
+r;419785708;53269;15462900;11;30
+r;419797176;53269;13746478;11;30
+r;419800030;53269;15363107;11;30
+r;419801565;53269;15769857;11;30
+r;419801569;53269;15757450;11;30
+r;419801573;53269;15583232;11;30
+r;419843061;53269;15345164;11;30
+r;434380335;53269;16321893;11;30
+r;113772744;53269;5817257;11;31
+r;122712442;53269;6427851;11;31
+r;276739908;53269;10962794;11;31
+r;419708080;53269;15541572;11;31
+r;419726254;53269;15307394;11;31
+r;419729747;53269;15471504;11;31
+r;419736605;53269;15442238;11;31
+r;29976679;53269;1833136;11;32
+r;86133170;53269;3371912;11;32
+r;86149672;53269;3369881;11;32
+r;86150872;53269;3369740;11;32
+r;86154263;53269;3369327;11;32
+r;113314718;53269;5800063;11;32
+r;113758235;53269;5830026;11;32
+r;114015027;53269;5837723;11;32
+r;122725664;53269;6426138;11;32
+r;274576023;53269;10917052;11;32
+r;274576052;53269;10917049;11;32
+r;302392324;53269;11776789;11;32
+r;302400436;53269;11776787;11;32
+r;302400725;53269;11776788;11;32
+r;302400774;53269;11776786;11;32
+r;302410985;53269;11777295;11;32
+r;302413884;53269;11777299;11;32
+r;302427028;53269;11777293;11;32
+r;419670024;53269;16029346;11;32
+r;419671343;53269;15468991;11;32
+r;29955705;53269;1831022;11;33
+r;111338996;53269;5672478;11;33
+r;283110015;53269;11082228;11;33
+r;283110027;53269;11082225;11;33
+r;419614357;53269;15550450;11;33
+r;419614882;53269;15320849;11;33
+r;434366068;53269;16284846;11;33
+r;29943219;53269;1829837;11;34
+r;29975462;53269;1833137;11;34
+r;29996898;53269;1835229;11;34
+r;86231453;53269;3360301;11;34
+r;122685807;53269;6431293;11;34
+r;293500193;53269;11410137;11;34
+r;304805487;53269;11812744;11;34
+r;315117596;53269;12079519;11;34
+r;319705179;53269;12302079;11;34
+r;419547296;53269;15315917;11;34
+r;419549543;53269;16074431;11;34
+r;419557401;53269;15258711;11;34
+r;419570840;53269;15480815;11;34
+r;419582796;53269;15696195;11;34
+r;419587664;53269;15456945;11;34
+r;419592040;53269;15566968;11;34
+r;29976221;53269;1833212;11;35
+r;29987614;53269;1834029;11;35
+r;30019139;53269;1837546;11;35
+r;112671073;53269;5723458;11;35
+r;122696565;53269;6429904;11;35
+r;313607577;53269;12033233;11;35
+r;315101623;53269;12077971;11;35
+r;315109549;53269;12081037;11;35
+r;315118156;53269;12079411;11;35
+r;432692034;53269;16381019;11;35
+r;432694328;53269;16381020;11;35
+r;30005981;53269;1836305;11;36
+r;30008015;53269;1836367;11;36
+r;30037839;53269;1839482;11;36
+r;121511302;53269;6441871;11;36
+r;121537209;53269;6438969;11;36
+r;122691592;53269;6430551;11;36
+r;227600675;53269;10042290;11;36
+r;253386970;53269;10335113;11;36
+r;253391504;53269;10328782;11;36
+r;274954679;53269;10931277;11;36
+r;291592202;53269;11362332;11;36
+r;291593644;53269;11362331;11;36
+r;291594368;53269;11362334;11;36
+r;291601495;53269;11362325;11;36
+r;291604773;53269;11362336;11;36
+r;291670968;53269;11362338;11;36
+r;306883989;53269;11840586;11;36
+r;315100559;53269;12077937;11;36
+r;315105344;53269;12078157;11;36
+r;315108145;53269;12081329;11;36
+r;315108149;53269;12081328;11;36
+r;329899100;53269;12882917;11;36
+r;121059615;53269;6448668;11;37
+r;121576116;53269;6434618;11;37
+r;292662779;53269;11392740;11;37
+r;307808493;53269;11933315;11;37
+r;53321817;53269;2401684;11;38
+r;86212988;53269;3362329;11;38
+r;110949440;53269;5636240;11;38
+r;113296346;53269;5805821;11;38
+r;121043275;53269;6450459;11;38
+r;269871823;53269;10778124;11;38
+r;55681765;53269;2461141;11;39
+r;113751672;53269;5831947;11;39
+r;122742247;53269;6424009;11;39
+r;55305454;53269;2443367;11;40
+r;86204030;53269;3363437;11;40
+r;113292952;53269;5806509;11;40
+r;121506111;53269;6442446;11;40
+r;262890927;53269;10547883;11;40
+r;313789172;53269;12054116;11;40
+r;52237120;53269;2378668;11;41
+r;121046085;53269;6450155;11;41
+r;122800943;53269;6693940;11;41
+r;86211705;53269;3362473;11;42
+r;109885513;53269;5553816;11;42
+r;121452136;53269;6448443;11;42
+r;283669704;53269;11155274;11;42
+r;86214463;53269;3362166;11;43
+r;109660594;53269;5538305;11;43
+r;109882330;53269;5554347;11;43
+r;121470286;53269;6446430;11;43
+r;121485110;53269;6444783;11;43
+r;122694333;53269;6430188;11;43
+r;288368327;53269;11252831;11;43
+r;52580467;53269;2378671;11;44
+r;59819960;53269;2479608;11;44
+r;109661808;53269;5537929;11;44
+r;109879903;53269;5557194;11;44
+r;117912098;53269;5980612;11;44
+r;121028886;53269;6452033;11;44
+r;122641010;53269;6684669;11;44
+r;256483237;53269;10428739;11;44
+r;256483268;53269;10428731;11;44
+r;256483291;53269;10428725;11;44
+r;256483387;53269;10428707;11;44
+r;256483703;53269;10428639;11;44
+r;256483722;53269;10428637;11;44
+r;236648965;53269;10149178;11;45
+r;236649085;53269;10149169;11;45
+r;236649365;53269;10149147;11;45
+r;236649447;53269;10149141;11;45
+r;236649599;53269;10149129;11;45
+r;236649704;53269;10149108;11;45
+r;236649828;53269;10149100;11;45
+r;236649971;53269;10149093;11;45
+r;236650605;53269;10149033;11;45
+r;236650744;53269;10149013;11;45
+r;236650986;53269;10148987;11;45
+r;236651035;53269;10148982;11;45
+r;236654136;53269;10145433;11;45
+r;121466501;53269;6446864;11;46
+r;236649730;53269;10149107;11;46
+r;236651192;53269;10148963;11;46
+r;256302982;53269;10431478;11;46
+r;256303003;53269;10431477;11;46
+r;256303024;53269;10431476;11;46
+r;256303787;53269;10431351;11;46
+r;340860118;53269;13439125;11;47
+r;50462865;53269;2366084;11;49
+r;121043656;53269;6450413;11;49
+r;327545604;53269;12765632;11;49
+r;327546327;53269;12765630;11;49
+r;50459757;53269;2365549;11;50
+r;209648508;53269;9202549;11;50
+r;193670186;53269;8957507;11;50
+r;213482967;53269;9396915;11;50
+r;323390292;53269;12628752;11;50
+r;325512693;53269;12699254;11;50
+r;325971032;53269;12709546;11;50
+r;325972198;53269;12709538;11;50
+r;326139262;53269;12709545;11;50
+r;327328335;53269;12711239;11;50
+r;397499063;53269;15229709;11;50
+r;399503385;53269;15574695;11;50
+r;402122210;53269;15330071;11;50
+r;393993242;53269;14029699;11;50
+r;395010781;53269;15292703;11;50
+r;395012695;53269;15262246;11;50
+r;395582451;53269;15424845;11;50
+r;402275027;53269;15480293;11;50
+r;411714060;53269;15786220;11;50
+r;418898319;53269;16072054;11;50
+r;16352055;53269;464026;11;52
+r;29860355;53269;1850133;11;52
+r;86144604;53269;3370490;11;52
+r;86157268;53269;3368964;11;52
+r;86168538;53269;3367657;11;52
+r;86172487;53269;3367187;11;52
+r;86194892;53269;3364658;11;52
+r;86208851;53269;3362829;11;52
+r;86229525;53269;3360308;11;52
+r;93497832;53269;3746246;11;52
+r;16918554;53269;566183;11;53
+r;18704913;53269;597084;11;53
+r;29209308;53269;1778298;11;53
+r;86150058;53269;3369835;11;53
+r;86161596;53269;3368491;11;53
+r;86192082;53269;3364997;11;53
+r;86193890;53269;3364777;11;53
+r;86205994;53269;3363165;11;53
+r;86206479;53269;3363097;11;53
+r;86239260;53269;3360890;11;53
+r;86244004;53269;3361027;11;53
+r;86254176;53269;3361784;11;53
+r;93496468;53269;3746411;11;53
+r;98992692;53269;4338820;11;53
+r;102406038;53269;4903066;11;53
+r;18625670;53269;593843;11;54
+r;19162551;53269;661416;11;54
+r;86164398;53269;3368181;11;54
+r;86176904;53269;3366638;11;54
+r;86189345;53269;3365303;11;54
+r;86197776;53269;3364261;11;54
+r;86202874;53269;3363569;11;54
+r;86251844;53269;3361465;11;54
+r;91662439;53269;3686024;11;54
+r;93462335;53269;3744268;11;54
+r;93501420;53269;3745815;11;54
+r;103699001;53269;4941306;11;54
+r;17303382;53269;569810;11;55
+r;27549960;53269;1658318;11;55
+r;29209701;53269;1778296;11;55
+r;76966565;53269;3182446;11;55
+r;86161762;53269;3368475;11;55
+r;86167436;53269;3367792;11;55
+r;86178707;53269;3366426;11;55
+r;86190274;53269;3365210;11;55
+r;86221249;53269;3372358;11;55
+r;93444502;53269;3743655;11;55
+r;93460382;53269;3744015;11;55
+r;93498573;53269;3746155;11;55
+r;102422276;53269;4903446;11;55
+r;29597308;53269;1813248;11;56
+r;29857644;53269;1850722;11;56
+r;102358650;53269;4901602;11;56
+r;86126544;53269;3359152;11;56
+r;86127094;53269;3359184;11;56
+r;86144680;53269;3370481;11;56
+r;86164659;53269;3368148;11;56
+r;86168191;53269;3367692;11;56
+r;86235022;53269;3360710;11;56
+r;93468299;53269;3744349;11;56
+r;93468830;53269;3744513;11;56
+r;93498521;53269;3746162;11;56
+r;93499185;53269;3746083;11;56
+r;103098987;53269;4907534;11;56
+r;16321958;53269;462607;11;57
+r;29860367;53269;1850132;11;57
+r;29866952;53269;1848802;11;57
+r;77917389;53269;3229462;11;57
+r;86133087;53269;3371924;11;57
+r;86135056;53269;3371659;11;57
+r;86148645;53269;3370018;11;57
+r;86153236;53269;3369453;11;57
+r;86179281;53269;3366359;11;57
+r;86189460;53269;3365292;11;57
+r;86200537;53269;3363859;11;57
+r;86244900;53269;3361119;11;57
+r;17734906;53269;573671;11;58
+r;18704827;53269;597085;11;58
+r;24629711;53269;1490096;11;58
+r;50156915;53269;2360734;11;58
+r;52469242;53269;2515323;11;58
+r;83682116;53269;3322029;11;58
+r;86152006;53269;3369616;11;58
+r;86153110;53269;3369473;11;58
+r;86156845;53269;3369008;11;58
+r;86157184;53269;3368974;11;58
+r;86208548;53269;3362858;11;58
+r;86260706;53269;3361987;11;58
+r;27664105;53269;1665107;11;59
+r;29854916;53269;1851283;11;59
+r;29857256;53269;1850801;11;59
+r;30716280;53269;1906612;11;59
+r;83674097;53269;3318794;11;59
+r;86179444;53269;3366347;11;59
+r;86179499;53269;3366341;11;59
+r;86206026;53269;3363160;11;59
+r;117913824;53269;5980223;11;59
+r;28756415;53269;1747865;11;60
+r;29912299;53269;1838241;11;60
+r;55618928;53269;2457714;11;60
+r;86150047;53269;3369836;11;60
+r;86172965;53269;3367134;11;60
+r;86196956;53269;3364354;11;60
+r;86204420;53269;3363388;11;60
+r;101812674;53269;4857066;11;60
+r;30324182;53269;1874059;11;62
+r;72737848;53269;2950789;11;62
+r;29854908;53269;1851284;11;63
+r;13696470;53269;394189;11;64
+r;29854924;53269;1851282;11;64
+r;29875516;53269;1847158;11;64
+r;29856529;53269;1850952;11;65
+r;29865116;53269;1849171;11;65
+r;29903518;53269;1841566;11;68
+r;12573555;53269;382003;11;101
+r;12582385;53269;379771;11;101
+r;12583051;53269;379614;11;101
+r;12630839;53269;367858;11;101
+r;12648829;53269;363400;11;101
+r;12664153;53269;359661;11;101
+r;12620867;53269;370396;11;102
+r;12661515;53269;360308;11;102
+r;12663945;53269;359713;11;102
+r;12621451;53269;370247;11;103
+r;12651087;53269;362849;11;103
+r;12662581;53269;360059;11;103
+r;12697677;53269;351407;11;103
+r;12709021;53269;348549;11;103
+r;12764619;53269;335276;11;103
+r;12582389;53269;379770;11;104
+r;12582407;53269;379766;11;104
+r;12602765;53269;374784;11;104
+r;12628221;53269;368558;11;104
+r;12639417;53269;365708;11;104
+r;12687855;53269;353833;11;104
+r;12729201;53269;343848;11;104
+r;12748821;53269;339185;11;104
+r;13270150;53269;393053;11;104
+r;12544671;53269;389323;11;105
+r;12582393;53269;379769;11;105
+r;12591479;53269;377612;11;105
+r;12623509;53269;369762;11;105
+r;12628225;53269;368557;11;105
+r;12636227;53269;366491;11;105
+r;12676145;53269;356707;11;105
+r;12679547;53269;355899;11;105
+r;12690179;53269;353270;11;105
+r;12715397;53269;347013;11;105
+r;12542247;53269;389930;11;106
+r;12561097;53269;385076;11;106
+r;12582377;53269;379773;11;106
+r;12586877;53269;378711;11;106
+r;12627355;53269;368782;11;106
+r;12627521;53269;368739;11;106
+r;12636515;53269;366425;11;106
+r;12646155;53269;364064;11;106
+r;12663649;53269;359787;11;106
+r;12672101;53269;357690;11;106
+r;12596283;53269;376416;11;107
+r;12641213;53269;365251;11;107
+r;12697673;53269;351408;11;107
+r;12548837;53269;388142;11;108
+r;12550391;53269;387751;11;108
+r;12580101;53269;380348;11;108
+r;12584631;53269;379237;11;108
+r;12652197;53269;362578;11;108
+r;12670121;53269;358168;11;108
+r;12681155;53269;355497;11;108
+r;12683361;53269;354952;11;108
+r;12692581;53269;352672;11;108
+r;12706559;53269;349162;11;108
+r;12752459;53269;338296;11;108
+r;12573559;53269;382002;11;109
+r;12576005;53269;381311;11;109
+r;12582381;53269;379772;11;109
+r;12582397;53269;379768;11;109
+r;12582403;53269;379767;11;109
+r;12604003;53269;374478;11;109
+r;12612485;53269;372414;11;109
+r;12636395;53269;366452;11;109
+r;12641469;53269;365193;11;109
+r;12715963;53269;346866;11;109
+r;12561651;53269;384944;11;110
+r;12568275;53269;383319;11;110
+r;12639229;53269;365755;11;110
+r;12676603;53269;356607;11;110
+r;12706481;53269;349184;11;110
+r;12769221;53269;334115;11;110
+r;9020170;53269;319068;11;148
+r;9062576;53269;320945;11;148
+r;9310008;53269;323958;11;148
+r;8681693;53269;208306;11;161
+r;8692716;53269;221275;11;161
+r;8697634;53269;228672;11;161
+r;8705421;53269;238379;11;161
+r;8707404;53269;242221;11;161
+r;8709201;53269;245073;11;161
+r;8720258;53269;255780;11;161
+r;8578102;53269;24555;11;162
+r;8589023;53269;56263;11;162
+r;8604455;53269;100896;11;162
+r;8608870;53269;112945;11;162
+r;8611051;53269;119112;11;162
+r;8626967;53269;160594;11;162
+r;8630197;53269;166497;11;162
+r;8642964;53269;184121;11;162
+r;8682053;53269;208501;11;162
+r;8682629;53269;208868;11;162
+r;8684643;53269;210013;11;162
+r;8759582;53269;291775;11;162
+r;8767942;53269;301407;11;162
+r;8772265;53269;306393;11;162
+r;8776148;53269;310242;11;162
+r;8593390;53269;69078;11;163
+r;8614145;53269;127797;11;163
+r;8618760;53269;138682;11;163
+r;8621315;53269;144317;11;163
+r;8622216;53269;146818;11;163
+r;8622302;53269;151535;11;163
+r;8624589;53269;155637;11;163
+r;8637305;53269;180831;11;163
+r;8640702;53269;182784;11;163
+r;8660098;53269;195588;11;163
+r;8671575;53269;202209;11;163
+r;8673237;53269;203221;11;163
+r;8674603;53269;203993;11;163
+r;8674818;53269;204106;11;163
+r;8675234;53269;204338;11;163
+r;8675578;53269;204549;11;163
+r;8678152;53269;206259;11;163
+r;8738465;53269;270932;11;163
+r;8740216;53269;272620;11;163
+r;8755297;53269;287611;11;163
+r;8755299;53269;287612;11;163
+r;8768328;53269;301813;11;163
+r;8644487;53269;185043;11;164
+r;8654102;53269;191585;11;164
+r;8662474;53269;196879;11;164
+r;8778177;53269;312000;11;164
+r;8779209;53269;312822;11;164
+r;8668004;53269;200218;11;165
+r;8668921;53269;200643;11;165
+r;8573406;53269;10382;11;166
+r;8571309;53269;4039;11;168

@@ -1,0 +1,138 @@
+
+e;59340;'sanitaires';1;90
+e;6289127;'auxiliaires sanitaires communautaires';1;0
+e;6291355;'personnels sanitaires';1;0
+e;6310449;'assistants sanitaires communautaires';1;0
+e;6321415;'appréciation des risques sanitaires';1;0
+e;6331912;'enquêtes démographiques et sanitaires';1;0
+e;6344600;'transferts sanitaires';1;0
+e;6350437;'établissements sanitaires';1;0
+e;6356550;'transitions sanitaires';1;0
+e;6356845;'conseil national de planification et de développement sanitaires';1;0
+e;6383842;'transports sanitaires';1;0
+e;6389459;'secteurs sanitaires';1;0
+e;6402524;'agents sanitaires communautaires';1;0
+e;6414211;'hélicoptères sanitaires';1;0
+e;6404623;'travailleurs sanitaires communautaires';1;0
+e;6376097;'travailleurs sanitaires de village';1;0
+e;6399700;'mise en oeuvre des plans sanitaires';1;0
+e;6389531;'aides sanitaires provisoires';1;0
+e;14562525;'mesures sanitaires';1;2
+e;14572354;'réduction des risques sanitaires';1;0
+e;14572388;'autorités sanitaires internationales';1;0
+e;14571805;'Liste de scandales sanitaires';777;0
+e;14584517;'Wikipédia ne donne pas de conseils médicaux ou sanitaires';777;0
+e;14584855;'effets sanitaires à long terme';1;0
+e;14584852;'effets sanitaires à court terme';1;0
+e;14629038;'moyens sanitaires';1;0
+e;16346163;'non-respect des règles sanitaires';1;0
+e;15024159;'actions sanitaires et sociales';1;0
+e;6312056;'structures sanitaires';1;0
+e;6312504;'environnement des établissements sanitaires';1;0
+e;6313294;'agents sanitaires de village';1;0
+e;6341188;'drainages sanitaires';1;0
+e;6337438;'enquêtes sanitaires';1;0
+e;6391550;'environnement des structures sanitaires';1;0
+e;14532487;'nettoyer les sanitaires';1;0
+e;15014350;'faire les sanitaires';1;0
+e;15038474;'aviations sanitaires';1;0
+e;15790400;'respect des règles sanitaires';1;0
+e;15346941;'détartrer les sanitaires';1;0
+e;10970513;'accord sur l'application des mesures sanitaires et phytosanitaires';777;0
+e;15980059;'direction régionale des Affaires sanitaires et sociales';777;0
+e;15347878;'contrôle des sanitaires';1;0
+e;1832153;'direction départementale des affaires sanitaires et sociales';1;0
+e;13105916;'installations sanitaires';1;0
+e;15501595;'appareils sanitaires';1;0
+e;10994195;'conséquences sanitaires et sociales';777;0
+e;12076019;'problèmes sanitaires';1;0
+e;16324789;'Impacts environnementaux et sanitaires de l'exploitation du gaz de schiste';777;0
+e;6450692;'regroupement d'établissements sanitaires';1;0
+e;11254393;'risques sanitaires des télécommunications';777;0
+e;11644572;'crises sanitaires';777;0
+e;5830740;'Loi no 70-1320 du 31 décembre 1970 relative aux mesures sanitaires de lutte contre la toxicomanie et à la répression du trafic et de l'usage illicite de substances vénéneuses';777;0
+e;12788756;'risques sanitaires induits par le tatouage';1;0
+e;5984431;'conséquences sanitaires de la catastrophe nucléaire de Tchernobyl';777;0
+e;11126519;'scandales sanitaires';777;0
+e;3227909;'Fichier national des établissements sanitaires et sociaux';777;0
+e;2352528;'organisation de la réponse du système de santé en situations sanitaires exceptionnelles';777;0
+e;2336175;'règles sanitaires';1;0
+e;1845840;'tarif interministériel des prestations sanitaires';1;0
+e;3174812;'politiques sanitaires';777;0
+e;1857352;'établissement de préparation et de réponse aux urgences sanitaires';777;0
+e;337731;'autorités sanitaires';1;52
+e;344288;'conditions sanitaires';1;50
+e;334142;'affaires sanitaires';1;50
+e;260158;'Direction départementale des Affaires sanitaires et sociales';1;50
+e;273126;'direction départementale des Affaires sanitaires et sociales';777;50
+e;275766;'Direction départementale des affaires sanitaires et sociales';777;50
+e;275771;'Direction régionale des affaires sanitaires et sociales';777;50
+e;311205;'Enjeux sanitaires';777;50
+r;298388004;59340;6289127;11;25
+r;298480026;59340;6291355;11;25
+r;299583166;59340;6310449;11;25
+r;300109774;59340;6321415;11;25
+r;300968654;59340;6331912;11;25
+r;301528598;59340;6344600;11;25
+r;301736073;59340;6350437;11;25
+r;301807370;59340;6356550;11;25
+r;301809631;59340;6356845;11;25
+r;303984401;59340;6383842;11;25
+r;304557015;59340;6389459;11;25
+r;305265464;59340;6402524;11;25
+r;305615706;59340;6414211;11;25
+r;313699405;59340;6404623;11;25
+r;313700074;59340;6376097;11;25
+r;319054806;59340;6399700;11;25
+r;319055242;59340;6389531;11;25
+r;369990795;59340;14562525;11;25
+r;370338772;59340;14572354;11;25
+r;370339807;59340;14572388;11;25
+r;370382317;59340;14571805;11;25
+r;370580129;59340;14584517;11;25
+r;370593499;59340;14584855;11;25
+r;370593516;59340;14584852;11;25
+r;371592122;59340;14629038;11;25
+r;431875485;59340;16346163;11;25
+r;392463708;59340;15024159;11;26
+r;299591411;59340;6312056;11;26
+r;299595293;59340;6312504;11;26
+r;299612439;59340;6313294;11;26
+r;301475785;59340;6341188;11;26
+r;319062810;59340;6337438;11;26
+r;349225190;59340;6391550;11;26
+r;368703837;59340;14532487;11;26
+r;392124199;59340;15014350;11;26
+r;393826072;59340;15038474;11;26
+r;410665941;59340;15790400;11;26
+r;419816177;59340;15346941;11;30
+r;277040061;59340;10970513;11;31
+r;417124922;59340;15980059;11;31
+r;419738026;59340;15347878;11;31
+r;29966730;59340;1832153;11;33
+r;337338487;59340;13105916;11;33
+r;419602457;59340;15501595;11;33
+r;277853731;59340;10994195;11;34
+r;315125756;59340;12076019;11;34
+r;430343327;59340;16324789;11;35
+r;121041214;59340;6450692;11;37
+r;288439396;59340;11254393;11;41
+r;298202217;59340;11644572;11;41
+r;113756101;59340;5830740;11;43
+r;328144189;59340;12788756;11;43
+r;117157213;59340;5984431;11;45
+r;282527754;59340;11126519;11;50
+r;77807700;59340;3227909;11;52
+r;34751891;59340;2352528;11;54
+r;34188018;59340;2336175;11;56
+r;29881643;59340;1845840;11;62
+r;76461043;59340;3174812;11;63
+r;30006490;59340;1857352;11;64
+r;12754769;59340;337731;11;105
+r;12727389;59340;344288;11;107
+r;12769135;59340;334142;11;110
+r;8726574;59340;260158;11;161
+r;8740858;59340;273126;11;163
+r;8743728;59340;275766;11;163
+r;8743736;59340;275771;11;163
+r;8777172;59340;311205;11;164

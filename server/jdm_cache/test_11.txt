@@ -1,0 +1,3152 @@
+
+e;14358;'test';1;610
+e;6293479;'test sérologique à echovirus négatif';1;0
+e;6292910;'test de qi anormal';1;0
+e;6291470;'test du virus de la rubéole positif';1;0
+e;10864679;'test-achats';777;0
+e;6084967;'immuno-test';1;0
+e;6300671;'antigène du test cutané pour le candida';1;0
+e;6307089;'titrage à point final par test cutané';1;0
+e;6308026;'antigène du test cutané pour les oreillons';1;0
+e;6324786;'résultat non concluant du test de recherche du vih chez les nourrissons';1;0
+e;6342338;'interférence avec un test de laboratoire';1;0
+e;6376260;'vih test positif';1;0
+e;6379323;'antigène du test de frei';1;0
+e;6402279;'prétraitement des globules rouges pour analyse ou test de la banque de sang';1;0
+e;6403325;'prétraitement du sérum pour analyse ou test de la banque de sang';1;0
+e;6403358;'acheminement du rapport de test microbiologique';1;0
+e;6406318;'phlébotomie pour test diagnostique';1;0
+e;6409678;'interférence d'un test de labo';1;0
+e;6410358;'prise en charge pour examen et test de grossesse';1;0
+e;6416070;'réponse au test cutané';1;0
+e;6416079;'interférence de test de laboratoire';1;0
+e;12196099;'mesure de xylose test';1;0
+e;12194401;'détermination de la présence de vaginose bactérienne test de l'odeur';1;0
+e;12192391;'identification de toxiques test nom du kit';1;0
+e;12191867;'détermination de la présence de thyroglobuline test de récupération';1;0
+e;12191865;'mesure de thyroglobuline test de récupération';1;0
+e;12191001;'identification de test phénotypique de laboratoire pour déterminer la résistance';1;0
+e;12190999;'identification de test moléculaire utilisé pour déterminer la réésistance';1;0
+e;12190997;'détermination de la présence de test indirect à l'antiglobuline (tia) xxx après transfusion transfusionnelle';1;0
+e;12190995;'mesure de test indirect à l'antiglobuline (tia) xxx';1;0
+e;12190993;'détermination de la présence de test indirect à l'antiglobuline (tia) xxx';1;0
+e;12190990;'détermination de la présence de test indirect à l'antiglobuline (tia) polyvalente';1;0
+e;12190988;'détermination de la présence de test indirect à l'antiglobuline (tia) igg spécifique';1;0
+e;12190986;'détermination de la présence de test indirect à l'antiglobuline (tia) complément spécifique';1;0
+e;12190984;'détermination de la présence de test direct à l'antiglobuline (tda) xxx après transfusion';1;0
+e;12190982;'détermination de la présence de test direct à l'antiglobuline (tda) xxx';1;0
+e;12190980;'détermination de la présence de test direct à l'antiglobuline (tda) polyvalente après réaction transfusionnelle';1;0
+e;12190977;'détermination de la présence de test direct à l'antiglobuline (tda) polyvalente';1;0
+e;12190975;'détermination de la présence de test direct à l'antiglobuline (tda) igm spécifique';1;0
+e;12190972;'détermination de la présence de test direct à l'antiglobuline (tda) igg spécifique';1;0
+e;12190970;'mesure de test direct à l'antiglobuline (tda) igg spécifique';1;0
+e;12190968;'détermination de la présence de test direct à l'antiglobuline (tda) iga spécifique';1;0
+e;12190965;'détermination de la présence de test direct à l'antiglobuline (tda) complément spécifique';1;0
+e;12190963;'détermination de la présence de test direct à l'antiglobuline (tda) complément c3d spécifique';1;0
+e;12190961;'détermination de la présence de test direct à l'antiglobuline (tda) complément c3c spécifique';1;0
+e;12190959;'détermination de la présence de test direct à l'antiglobuline (tda) complément c3b+c4d spécifiques';1;0
+e;12190957;'détermination de la présence de test direct à l'antiglobuline (tda) complément c3+c4 spécifiques';1;0
+e;12190955;'détermination de la présence de test direct à l'antiglobuline (tda) complément c3 spécifique';1;0
+e;12190952;'identification de test d'identité';1;0
+e;12190949;'mesure de test d'équilibration péritonéal panel';1;0
+e;12190946;'mesure de test de référence panel';1;0
+e;12190944;'détermination de la présence de test de performance information';1;0
+e;12190942;'mesure de test d'absorption des sucres panel';1;0
+e;12190940;'détermination de la présence de test au nitroprussiate';1;0
+e;12190938;'mesure de test au glucose panel';1;0
+e;12190842;'mesure de temps de venin vipère russell dilué - test de neutralisation des phospholipides en phase hexagonale patient/témoin';1;0
+e;12190840;'mesure de temps de venin vipère russell dilué - test de neutralisation des phospholipides en phase hexagonale';1;0
+e;12190816;'test d'ivy';1;0
+e;12190814;'test de duke';1;0
+e;12190664;'test de lee white';1;0
+e;12190633;'mesure de temps de céphaline sensible aux anticoagulants circulants de type lupique - test de neutralisation des phospholipides en phase hexagonale patient/témoin';1;0
+e;12190513;'mesure de temps de céphaline activée - test de neutralisation des phospholipides en phase hexagonale';1;0
+e;12187919;'mesure de spermatozoïdes évaluation par test de pénétration sur ovule de hamster';1;0
+e;12187916;'mesure de spermatozoïdes évaluation par test de pénétration de la glaire cervicale in vitro';1;0
+e;12186122;'test vectra da';1;0
+e;12186119;'test vectra da calcul';1;0
+e;12178456;'identification de placer dna identifiant du test';1;0
+e;12177463;'test de guthrie';1;0
+e;12174665;'détermination de la présence d'ova1 test';1;0
+e;12172173;'détermination de la présence de nitrobleu tétrazolium test';1;0
+e;12172171;'mesure de nitrobleu tétrazolium test';1;0
+e;12170192;'identification du type de motif du test en laboratoire';1;0
+e;12170190;'détermination de la présence de motif du test en laboratoire';1;0
+e;12166048;'mesure de limulus test';1;0
+e;12164423;'mesure de lactulose test';1;0
+e;12163589;'mesure de justification du test';1;0
+e;12157499;'détermination de la présence d'hémolyse test sucrose';1;0
+e;12157496;'mesure d'hémolyse test sucrose';1;0
+e;12155655;'mesure de glucose test de tolérance sur 2h';1;0
+e;12154402;'test rapide,moins de 30min';1;0
+e;12153197;'mesure de fructose test panel';1;0
+e;12139846;'test au polyéthylène glycol';1;0
+e;12139843;'c3d test de liaison';1;0
+e;12139841;'c3b test de liaison';1;0
+e;12139835;'c1q test de liaison';1;0
+e;12139623;'test cellules raji';1;0
+e;12137871;'détermination de la présence de choriogonadotropine (test de grossesse)';1;0
+e;12132143;'test prosigna calcul';1;0
+e;12132140;'test prosigna';1;0
+e;12131929;'mesure de calcium/phosphate test parathyroïde';1;0
+e;13614986;'test à l'acide';777;0
+e;6284606;'test bactérien';1;0
+e;6386046;'test alphavirus';1;0
+e;6421262;'test à la vasopressine anormal';1;0
+e;6337022;'test clostridium positif';1;0
+e;6390963;'test de frottis sanguin';1;0
+e;6352693;'test de distance de marche anormal';1;0
+e;6412507;'test cutané tuberculose positif';1;0
+e;6417374;'test de coagulation';1;0
+e;6402050;'test de détection des anticorps';1;0
+e;6395496;'test de motilité oesophagienne';1;0
+e;6398216;'test de la fonction du système nerveux périphérique anormal';1;0
+e;6300650;'test chlamydia positif';1;0
+e;6328303;'test candida négatif';1;0
+e;6390402;'test de coagulation normal';1;0
+e;6368434;'test de sensibilité et de résistance à la chimiothérapie';1;0
+e;6382272;'test de tropisme du vih';1;0
+e;6413698;'test de résistance génotypique anormal';1;0
+e;6343589;'test du chlorure de la sueur anormal';1;0
+e;6370568;'test du virus influenza a';1;0
+e;6366105;'test de la piqûre';1;0
+e;6337403;'test de transformation des lymphocytes négatif';1;0
+e;6308926;'test à marqueur tumoral';1;0
+e;6403275;'test des fonctions métaboliques sai anormal';1;0
+e;6356242;'test de distance de marche normal';1;0
+e;6364060;'test hémodynamique';1;0
+e;6387537;'test de retardement de migration électrophorétique';1;0
+e;6420456;'test de bactéries du lcr';1;0
+e;6347100;'test du virus coxsackie négatif';1;0
+e;6402425;'test de laboratoire interférence';1;0
+e;6375951;'test de fixation du complément anormal';1;0
+e;6419743;'test de weber';1;0
+e;6364404;'test de dépistage prénatal anormal';1;0
+e;6418954;'test à la vasopressine anormale';1;0
+e;6318910;'test pathologique';1;0
+e;6285577;'test de résistance génotypique négatif';1;0
+e;6323669;'test de surcharge en eau';1;0
+e;6291173;'test clostridium négatif';1;0
+e;6331610;'test du réflexe photomoteur de la cornée normal';1;0
+e;6347646;'test de grossesse positif';1;84
+e;6395642;'test de suivi visuel';1;0
+e;6357424;'test mycobacterium atypique positif';1;0
+e;6342641;'test du virus influenza positif';1;0
+e;6401352;'test sérologique viral négatif';1;0
+e;6309620;'test de la fonction du pancréas exocrine anormale';1;0
+e;6318554;'test du virus influenza a positif';1;0
+e;6365021;'test neuro-ophtalmologique normal';1;0
+e;6421527;'test de transformation des lymphocytes positif';1;0
+e;6372489;'test de tolérance au lactose anormal';1;0
+e;6355111;'test de schilling normal';1;0
+e;6339271;'test de formation de colonies de cellules souches tumorales';1;0
+e;6376467;'test de la table basculante';1;0
+e;6399654;'test épicutané normal';1;0
+e;6353094;'test de provocation de la fonction pulmonaire anormale';1;0
+e;6362114;'test des rosettes';1;0
+e;6412832;'test mycobacterium bovis positif';1;0
+e;6376277;'test treponema positif';1;0
+e;6309274;'test segmenté de provocation bronchique aux allergènes';1;0
+e;6316063;'test rickettsia pour le typhus';1;0
+e;6291143;'test de tolérance au glucose anormal';1;0
+e;6357008;'test legionella positif';1;0
+e;6309321;'test de la fonction hépatique normal';1;0
+e;6286187;'test vibratoire normal';1;0
+e;6388017;'test mycobacterium ulcerans positif';1;0
+e;6394107;'test de provocation bronchique aux allergènes normal';1;0
+e;6299325;'test fongique';1;0
+e;6384538;'test rpr de syphilis positif';1;0
+e;6350857;'test clostridium difficile positif';1;0
+e;6356519;'test chlamydia trachomatis positif';1;0
+e;6402966;'test de stimulation des mitogènes';1;0
+e;6284935;'test de pression intra-oculaire normal';1;0
+e;6374470;'test de formation osseuse anormal';1;0
+e;6285387;'test fish';1;0
+e;6288058;'test à la potasse positif';1;0
+e;6387119;'test mycobacterium tuberculosis complex';1;0
+e;6362421;'test vibratoire anormal';1;0
+e;6419452;'test du virus influenza b';1;0
+e;6408372;'test fonctionnel cardiaque anormal';1;0
+e;6361895;'test de résorption osseuse anormal';1;0
+e;6305353;'test fongique négatif';1;0
+e;6409467;'test du virus coxsackie positif';1;0
+e;6416845;'test de papillomavirus humain';1;0
+e;6332232;'test de résistance congénitale à la protéine c activée';1;0
+e;6312685;'test du virus respiratoire syncytial';1;0
+e;6302634;'test mycobacterium leprae positif';1;0
+e;6418790;'test fonctionnel des neutrophiles normal';1;0
+e;6331876;'test borrelia burgdorferi positif';1;0
+e;6289905;'test sanguin anormal';1;0
+e;6328827;'test staphylococcus résistant aux antibiotiques positif';1;0
+e;6303606;'test à la vasopressine normale';1;0
+e;6291463;'test staphylococcus aureus positif';1;0
+e;6365462;'test cutané avec allergène négatif';1;0
+e;6331438;'test viral positif';1;0
+e;6420863;'test du virus influenza b positif';1;0
+e;6298578;'test de cytomégalovirus négatif';1;0
+e;6372348;'test olfactif';1;0
+e;6411335;'test de provocation bronchique aux allergènes anormal';1;0
+e;6413920;'test de la sueur anormal';1;0
+e;6415517;'test de la toxine de clostridium difficile';1;0
+e;6400093;'test de séroconversion négatif';1;0
+e;6306999;'test clostridium perfringens positif';1;0
+e;6385584;'test de stimulation des lymphocytes négatif';1;0
+e;6308454;'test de la toxine de clostridium difficile positif';1;0
+e;6337704;'test de culture lymphocytaire mixte';1;0
+e;6349533;'test neuropsychologique anormal';1;0
+e;6353372;'test chlamydia pneumoniae positif';1;0
+e;6329269;'test viral négatif';1;0
+e;6369761;'test fonctionnel des neutrophiles anormal';1;0
+e;6317091;'test de la sueur normal';1;0
+e;6397251;'test de turbidité au sulfate de zinc sai anormal';1;0
+e;6414891;'test de stimulation des nerfs moteurs';1;0
+e;6366078;'test de la fonction neutrophile';1;0
+e;6340865;'test de stimulation des lymphocytes positif';1;0
+e;6295471;'test de grossesse urinaire positif';1;0
+e;6319768;'test helicobacter positif';1;0
+e;6354582;'test enterovirus positif';1;0
+e;6336084;'test du virus influenza a négatif';1;0
+e;6303168;'test de weber normal';1;0
+e;6311583;'test neuro-ophtalmologique anormal';1;0
+e;6382615;'test de mémoire visuelle';1;0
+e;6335444;'test du virus respiratoire syncytial négatif';1;0
+e;6331298;'test enterovirus négatif';1;0
+e;6362957;'test hématologique anormal';1;0
+e;6326464;'test de la démarche en tandem normal';1;0
+e;6366335;'test de remplissage des capillaire unguéaux';1;0
+e;6327156;'test de suivi visuel normal';1;0
+e;6414516;'test de stimulation au mitogène normal';1;0
+e;6296390;'test brucella positif';1;0
+e;6322875;'test borrelia positif';1;0
+e;6327357;'test positif de résistance congénitale à la protéine c activée';1;0
+e;6373398;'test d'une vision';1;0
+e;6363889;'test de la bromesulfonephtaléine';1;0
+e;6362524;'test par auto-anticorps';1;0
+e;6308760;'test helicobacter négatif';1;0
+e;6302045;'test de schilling anormal';1;0
+e;6328449;'test de rotavirus positif';1;0
+e;6404075;'test du réflexe photomoteur de la cornée anormal';1;0
+e;6406236;'test sérologique de la legionella';1;0
+e;6384056;'test de la fonction thyroïdienne normal';1;0
+e;6410157;'test de la bromesulfonephtaléine anormal';1;0
+e;6362022;'test de résistance génotypique positif';1;0
+e;6421131;'test du virus respiratoire syncytial positif';1;0
+e;6367781;'test de déhydroépiandrostérone';1;0
+e;6398782;'test mycobacterium tuberculosis complex négatif';1;0
+e;6419335;'test chlamydia négatif';1;0
+e;6404572;'test du virus coxsackie a positif';1;0
+e;6409824;'test pulpaire';1;0
+e;6362689;'test de provocation de la fonction pulmonaire normal';1;0
+e;6356781;'test fonctionnel du système nerveux périphérique normal';1;0
+e;6354581;'test de suppression de la somatotropine normal';1;0
+e;6325069;'test segmenté de provocation bronchique aux allergènes anormal';1;0
+e;6338232;'test du sodium de la sueur anormal';1;0
+e;6363495;'test clostridium botulinum positif';1;0
+e;6293955;'test de pression intra-oculaire anormal';1;0
+e;6351300;'test de papillomavirus humain négatif';1;0
+e;6312852;'test de laboratoire normal';1;0
+e;6414332;'test poliovirus';1;0
+e;6335400;'test sérologique faussement positif pour la syphilis';1;0
+e;6375042;'test treponema négatif';1;0
+e;6364019;'test staphylococcus saprophyticus positif';1;0
+e;6418819;'test yersinia pseudotuberculosis positif';1;0
+e;6349838;'test de pap suspect';1;0
+e;6286736;'test hépatique viral';1;0
+e;6317432;'test immunologique normal';1;0
+e;6393321;'test yersinia négatif';1;0
+e;6387227;'test de séroconversion positif';1;0
+e;6339878;'test de la fonction pulmonaire augmenté';1;0
+e;6364312;'test poliovirus positif';1;0
+e;6326844;'test streptococcus bêta hémolytique positif';1;0
+e;6301292;'test candida positif';1;0
+e;6407911;'test du virus influenza c positif';1;0
+e;6367564;'test de rotavirus négatif';1;0
+e;6414591;'test de fèces parasitaire';1;0
+e;6347457;'test yersinia positif';1;0
+e;6391458;'test staphylococcus epidermidis positif';1;0
+e;6311088;'test de turbidité du thymol anormal';1;0
+e;6381132;'test de la fonction vestibulaire normal';1;0
+e;6351060;'test de sensibilité au chlorure de potassium normal';1;0
+e;6356622;'test poliovirus négatif';1;0
+e;6313404;'test de stimulation pharmacologique cardiaque';1;0
+e;6349366;'test mycobacterium avium complex positif';1;0
+e;6391392;'test de cytomégalovirus positif';1;0
+e;6324975;'test de fern';1;0
+e;6342659;'test helicobacter pylori positif';1;0
+e;6308675;'test mycobacterium tuberculosis complex positif';1;0
+e;6313007;'test de frottis sanguin anormal';1;0
+e;6390794;'test haha';1;0
+e;6335562;'test hémodynamique normal';1;0
+e;6284922;'test mycobacterium négatif';1;0
+e;6311289;'test staphylococcus résistant aux antibiotiques négatif';1;0
+e;6412210;'test staphylococcus aureus résistant à la méthicilline positif';1;0
+e;6418309;'test par anticorps anti-nucléaire fluorescent';1;0
+e;6352305;'test à la potasse négatif';1;0
+e;6326568;'test streptocoques bêta-hémolytiques du groupe b négatif';1;0
+e;6349051;'test fonctionnel cardiaque normal';1;0
+e;6310239;'test de la fonction du pancréas exocrine normale';1;0
+e;6334312;'test de réactivité foetale';1;0
+e;6334848;'test de grossesse urinaire négatif';1;0
+e;6391085;'test de sensibilité au chlorure de potassium anormal';1;0
+e;6394228;'test de stimulation nerveuse anormal';1;0
+e;6340110;'test mycobacterium marinum positif';1;0
+e;6317060;'test fonctionnel rétinien normal';1;0
+e;6391420;'test streptocoques bêta-hémolytiques du groupe b positif';1;0
+e;6338241;'test alphavirus positif';1;0
+e;6285384;'test sérologique fongique anormal';1;0
+e;6285753;'test sérologique fongique normal';1;0
+e;6378520;'test streptococcus pyogenes positif';1;0
+e;6291603;'test de grossesse faux positif';1;0
+e;6290157;'test de complémentation génétique';1;0
+e;6410668;'test mycobacterium africanum positif';1;0
+e;6289063;'test sérologique viral positif';1;0
+e;6411656;'test hémodynamique anormal';1;0
+e;6365183;'test de suivi visuel anormal';1;0
+e;6342478;'test de frottis sanguin normal';1;0
+e;6286433;'test treponema pallidum positif';1;0
+e;6412956;'test de stimulation à la gonadolibérine';1;0
+e;6411012;'test tuberculose positif';1;0
+e;6285357;'test borrelia négatif';1;0
+e;6396231;'test de la bromesulfonephtaléine normal';1;0
+e;6295185;'test micronucleus';1;0
+e;6340950;'test mycobacterium positif';1;0
+e;6311704;'test staphylococcus aureus résistant à la méthicilline négatif';1;0
+e;6363336;'test de la fonction cardiovasculaire';1;0
+e;6324343;'test capsule rénale';1;0
+e;6297301;'test cutané anormal';1;0
+e;6366660;'test sur tapis roulant';1;0
+e;6335418;'test de stimulation des nerfs sensitifs anormal';1;0
+e;6339235;'test sérologique à virus coxsackie';1;0
+e;6293835;'test enzymatique';1;0
+e;6294355;'test streptococcus pneumoniae positif';1;0
+e;6310657;'test olfactif normal';1;0
+e;6345779;'test du sodium de la sueur normal';1;0
+e;6291220;'test de résistance génotypique aux médicaments';1;0
+e;6303792;'test brucella melitensis positif';1;0
+e;6303250;'test cutané avec allergène sai négatif';1;0
+e;6358887;'test du virus coxsackie b positif';1;0
+e;6339866;'test de stimulation des nerfs moteurs normal';1;0
+e;6347858;'test cutané avec allergène sai positif';1;0
+e;6383402;'test de la fonction vestibulaire anormal';1;0
+e;6391194;'test de transfert passif';1;0
+e;6398655;'test de fragilité osmotique des érythrocytes';1;0
+e;6322579;'test de microbiologie';1;0
+e;6416156;'abcès selon un test paramétrique';1;0
+e;6399340;'test de double hybride chez la levure';1;0
+e;6391731;'test de triple hybride chez la levure';1;0
+e;6345326;'test à la tuberculine négatif';1;0
+e;6326913;'test de la démarche en tandem anormal';1;0
+e;6415818;'test du liquide gastrique';1;0
+e;6367711;'test du neurodéveloppement';1;0
+e;6323035;'test de prothrombine';1;0
+e;13855863;'test Wonderlic';777;0
+e;6304865;'test de migration des leucocytes en tube capillaire';1;0
+e;6327783;'test sanguin pour les mycobactéries';1;0
+e;6365512;'test staphylococcus simulans positif';1;0
+e;6361608;'test de weber anormal';1;0
+e;6309718;'test aspergillus négatif';1;0
+e;6314741;'test cis';1;0
+e;6412973;'test de virus dans les selles';1;0
+e;6315560;'test brucella canis positif';1;0
+e;6355703;'test chlamydia psittaci positif';1;0
+e;6363597;'test olfactif anormal';1;0
+e;6327593;'test rpr négatif';1;0
+e;6384893;'test brucella suis positif';1;0
+e;6359977;'test sérologique à papillomavirus humain positif';1;0
+e;6361498;'test mycobacterium tuberculosis positif';1;0
+e;6376939;'test de stimulation des nerfs moteurs anormal';1;0
+e;6380530;'test yersinia pestis positif';1;0
+e;6358571;'test du chlorure de la sueur normal';1;0
+e;6391511;'test sérologique à virus coxsackie positif';1;0
+e;6356103;'test du chlorure de la sueur élevé';1;0
+e;6385649;'test de hess positif';1;0
+e;6380381;'test de stimulation des nerfs sensitifs normal';1;0
+e;14139196;'test de Mantel';777;0
+e;6409996;'inhibition différentielle au test de performance';1;0
+e;14452536;'test génétique';1;0
+e;14535175;'équipement de test intégré';777;0
+e;14571938;'test logiciel';1;0
+e;14739708;'test de Hess weiss';777;0
+e;14758293;'test ABX';777;0
+e;6388575;'test fonctionnel des neutrophiles sai anormal';1;0
+e;6398715;'test de qi normal';1;0
+e;6402550;'test fongique positif';1;0
+e;6400258;'anomalie d'un test de laboratoire';1;0
+e;16510393;'test de résistance au choc par la méthode par chute libre de projectile';777;0
+e;6398900;'test streptococcus positif';1;0
+e;6404638;'test de sécrétion pancréatique exocrine anormal';1;0
+e;6300148;'test de grossesse faussement positif';1;0
+e;6401601;'réaction à un test cutané';1;0
+e;15575160;'test des 3 verres';777;0
+e;6404807;'test bacteroides fragilis positif';1;0
+e;6396181;'test fonctionnel des neutrophiles sai normal';1;0
+e;6396061;'réaction positive au test cutané';1;0
+e;6404718;'test du virus de la rage positif';1;0
+e;6330706;'test campylobacter jejuni positif';1;0
+e;6402562;'test de la fonction cardio-vasculaire sai anormale';1;0
+e;6328560;'test de sécrétion pancréatique exocrine normal';1;0
+e;6334783;'test rapide de la réagine plasmatique négatif';1;0
+e;6372089;'test cutané sai positif';1;0
+e;6380023;'réaction retardée au test cutané';1;0
+e;6299440;'test cutané sai négatif';1;0
+e;15473763;'test antigénique';1;0
+e;6285912;'test tuberculose négatif';1;0
+e;6285852;'test sérologique à chlamydia positif';1;0
+e;6286045;'test de la fonction thyroïdienne anormal';1;0
+e;6286780;'test sérologique à papillomavirus humain négatif';1;0
+e;6288265;'test du virus respiratoire syncytial humain positif';1;0
+e;6296667;'test sérologique à entérovirus positif';1;0
+e;6301593;'réduction de test urinaire faussement positif';1;0
+e;6302171;'test acinetobacter baumannii positif';1;0
+e;6303879;'réaction de papule oedémateuse au test cutané';1;0
+e;6306261;'test de vasopressine négatif';1;0
+e;6308229;'test sérologique à echovirus positif';1;0
+e;6311840;'test streptococcus négatif';1;0
+e;6312122;'réaction érythémateuse au test cutané';1;0
+e;6311005;'absence de réaction au test cutané';1;0
+e;6314281;'test de pap d'un autre site anormal non spécifique';1;0
+e;6317169;'test sanguin sai anormal';1;0
+e;6319898;'test de glycosurie faussement positif';1;0
+e;6322757;'test de la fonction métabolique anormal';1;0
+e;6321538;'test pseudomonas aeruginosa positif';1;0
+e;6324379;'réaction indésirable locale au test cutané';1;0
+e;6325683;'test pasteurella multocida positif';1;0
+e;6337570;'test sérologique à entérovirus négatif';1;0
+e;6338743;'test du virus de la rougeole positif';1;0
+e;6339221;'test legionella pneumophila positif';1;0
+e;6342623;'test à la tuberculine faux positif';1;0
+e;6347282;'test rickettsia typhi positif';1;0
+e;6347325;'réaction indésirable au test cutané';1;0
+e;6347949;'test de vasopressine positif';1;0
+e;6351977;'test du virus de la fièvre aphteuse positif';1;0
+e;6355015;'test à la tuberculine positif';1;0
+e;6356434;'test de glucosurie faussement positif';1;0
+e;6357842;'test staphylococcus positif';1;0
+e;6359805;'test leptospira interrogans positif';1;0
+e;6358427;'test à la benzidine normal';1;0
+e;6359718;'test listeria monocytogenes positif';1;0
+e;6360831;'réaction anormale au test à la tuberculine';1;0
+e;6366436;'réaction non spécifique au test à la tuberculine';1;0
+e;6369224;'test de liquide de culture centrifugé augmenté';1;0
+e;6374385;'test rpr positif';1;0
+e;6376419;'test de stimulation au mitogène sai normal';1;0
+e;6377614;'réaction immédiate au test cutané';1;0
+e;6381770;'test de routine ou dans le cadre d'un examen général gynécologique';1;0
+e;6389938;'test staphylococcus négatif';1;0
+e;15774728;'le corpus de test';777;0
+e;15915174;'test de qualité';1;0
+e;16174155;'test de Meares et Stamey';1;0
+e;16329201;'test de dépistage par gargarisme';1;0
+e;16564315;'test de Hess Lancaster';777;0
+e;6433435;'test de criblage d'agent antitumoral';1;0
+e;6429840;'test rapide de la réagine plasmatique positif';1;0
+e;6428714;'test yersinia';1;0
+e;6427986;'anomalie d'un test biologique';1;0
+e;6425398;'test de la jonction neuromusculaire';1;0
+e;6423889;'test clonogénique';1;0
+e;6311277;'interférence avec un test biologique';1;0
+e;6311345;'conversion de la réaction au test cutané';1;0
+e;6351851;'screw home motion test - sec';1;0
+e;6364874;'résultat de test de grossesse faussement négatif';1;0
+e;6381492;'examen ou test de grossesse';1;0
+e;6384695;'anormalité du test de percussion pulmonaire';1;0
+e;12091631;'calcium/phosphate test parathyroïde';1;0
+e;12196656;'test respiratoire à l'urée';777;0
+e;13642320;'passer un test de QI';1;0
+e;6388852;'test citrobacter positif';1;0
+e;6385560;'test de syphilis positif';1;0
+e;6350834;'test de la fonction végétative cardiovasculaire anormal';1;0
+e;6379359;'test micrococcus positif';1;0
+e;6399796;'test hantavirus positif';1;0
+e;6328212;'test fusobacterium positif';1;0
+e;6328526;'test campylobacter positif';1;0
+e;6388311;'test deltaretrovirus positif';1;0
+e;6304027;'test de floculation au thymol augmenté';1;0
+e;6383900;'test de la fonction ciliaire anormal';1;0
+e;6418331;'test leptospira positif';1;0
+e;6334471;'test par scarification positif';1;0
+e;6351347;'test polyomavirus positif';1;0
+e;6387762;'test de stimulation cardiaque anormal';1;0
+e;6300315;'test de turbidité au sulfate de zinc normal';1;0
+e;6402408;'test rickettsia pour la fièvre boutonneuse positif';1;0
+e;6286202;'test nocardia brasiliensis positif';1;0
+e;6355801;'test de la fonction rétinienne anormal';1;0
+e;6411926;'test filovirus positif';1;0
+e;6303498;'test adénovirus positif';1;0
+e;6383895;'test rickettsia akari positif';1;0
+e;6395294;'test du virus de la fièvre à tiques du colorado positif';1;0
+e;6331070;'test intradermique positif';1;0
+e;6351243;'test vih faux positif';1;0
+e;6323615;'test flavivirus positif';1;0
+e;6380573;'test calicivirus positif';1;0
+e;6303398;'test de labo anormal';1;0
+e;6415384;'test coronavirus positif';1;0
+e;6384501;'test echovirus positif';1;0
+e;6288381;'test streptobacillus positif';1;0
+e;6340571;'test henipavirus positif';1;0
+e;6321539;'test bacillus cereus positif';1;0
+e;6416497;'test vibrio positif';1;0
+e;6334307;'test du réflexe normal';1;0
+e;6350578;'test salmonella positif';1;0
+e;6421247;'test orthopoxvirus positif';1;0
+e;6339958;'test de syphilis négatif';1;0
+e;6364662;'test proteus morganii positif';1;0
+e;6286340;'test norovirus positif';1;0
+e;6311807;'test pseudomonas positif';1;0
+e;6322487;'test lentivirus positif';1;0
+e;6327066;'test pneumovirus positif';1;0
+e;6336250;'test du virus des oreillons positif';1;0
+e;6375088;'test pneumocystis positif';1;0
+e;6300555;'test allergique négatif';1;0
+e;6295397;'test de turbidité au sulfate de zinc augmenté';1;0
+e;6407059;'test roseolovirus positif';1;0
+e;6314972;'test urinaire anormal';1;0
+e;6363642;'test phlebovirus positif';1;0
+e;6346620;'test du papillomavirus humain positif';1;0
+e;6409381;'test pasteurella positif';1;0
+e;6342315;'test salmonella paratyphi positif';1;0
+e;6329562;'test lactobacillus positif';1;0
+e;6339967;'test rickettsia conorii positif';1;0
+e;6300720;'test du réflexe profond des membres inférieurs diminué';1;0
+e;6376174;'test de turbidité au sulfate de zinc diminué';1;0
+e;6321724;'test du virus simplex positif';1;0
+e;6331136;'test de le anormal';1;0
+e;6328709;'test de perception de la température augmenté';1;0
+e;6337449;'test du virus herpes simplex positif';1;0
+e;6334529;'test morbillivirus positif';1;0
+e;6421213;'test de syphilis dans le lcr positif';1;0
+e;6311698;'test sapovirus positif';1;0
+e;6391378;'test salmonella typhi positif';1;0
+e;6355038;'test de perception de la température normal';1;0
+e;6411697;'test rubulavirus positif';1;0
+e;6319297;'test bifidobacterium positif';1;0
+e;6409926;'test de floculation à la céphaline anormal';1;0
+e;6322916;'test de la fonction végétative cardiovasculaire normal';1;0
+e;6389691;'test à la sécrétine augmenté';1;0
+e;6313354;'test du virus ebola positif';1;0
+e;6308733;'test de parasites du sang négatif';1;0
+e;6404377;'test listeria positif';1;0
+e;6343532;'test bacillus anthracis positif';1;0
+e;6345116;'test bacillus positif';1;0
+e;6330262;'test de fixation du complément positif';1;0
+e;6417969;'test de vaccine positif';1;0
+e;6409589;'test respirovirus positif';1;0
+e;6344183;'test rubivirus positif';1;0
+e;6324916;'test du virus de la dengue positif';1;0
+e;6350000;'test arenavirus positif';1;0
+e;6378092;'test répété de dépistage du vih positif';1;0
+e;6338667;'test lyssavirus positif';1;0
+e;6411699;'test de floculation au thymol diminué';1;0
+e;6328112;'test escherichia positif';1;0
+e;6385001;'test shigella positif';1;0
+e;6331595;'test echovirus négatif';1;0
+e;6344261;'test du pepsinogène positif';1;0
+e;6350821;'test du réflexe anormal';1;0
+e;6415519;'test bacteroides positif';1;0
+e;6296247;'test du virus west nile positif';1;0
+e;6327406;'test rickettsia australis positif';1;0
+e;6356942;'test erysipelothrix positif';1;0
+e;6333495;'test de stimulation au mitogène anormal';1;0
+e;6292574;'test arbovirus positif';1;0
+e;6309312;'test du virus de la maladie de newcastle positif';1;0
+e;6389862;'test proteus positif';1;0
+e;6293147;'test de la fonction du système nerveux central';1;0
+e;6290920;'test bacillus licheniformis positif';1;0
+e;6320244;'test proteus mirabilis positif';1;0
+e;6300582;'test du virus parainfluenza humain 4 positif';1;0
+e;6306755;'test vibrio vulnificus positif';1;0
+e;6385616;'test rickettsia rickettsii positif';1;0
+e;6330482;'test klebsiella granulomatis positif';1;0
+e;6318947;'test nairovirus positif';1;0
+e;6402861;'test du virus parainfluenza humain 3 positif';1;0
+e;6374899;'test de recherche de saignement occulte positif';1;0
+e;6371212;'test rickettsia prowazekii positif';1;0
+e;6403241;'test du rhinovirus humain positif';1;0
+e;6333309;'test du virus de la variole positif';1;0
+e;6372507;'test astrovirus positif';1;0
+e;6369064;'test nocardia asteroides positif';1;0
+e;6333621;'test streptocoques bêta-hémolytiques du groupe a positif';1;0
+e;6401365;'test bacillus fragilis positif';1;0
+e;6341928;'test du virus parainfluenza humain 2 positif';1;0
+e;6363471;'test du virus de la fièvre jaune positif';1;0
+e;6344149;'test rickettsia sibirica positif';1;0
+e;6398645;'test klebsiella pneumoniae positif';1;0
+e;6413371;'test du virus du syndrome respiratoire aigu sévère positif';1;0
+e;6351318;'test shigella dysenteriae positif';1;0
+e;6329247;'test vibrio cholerae positif';1;0
+e;6382879;'test escherichia coli positif';1;0
+e;6408727;'test du virus parainfluenza humain 1 positif';1;0
+e;14502894;'test de condition physique';1;6
+e;14531680;'faire un test d'effort';1;0
+e;14626509;'faire un test de grossesse';1;42
+e;14670843;'phase de test';1;44
+e;14753373;'test à l'effort';1;4
+e;6383583;'test sérologique à virus coxsackie négatif';1;0
+e;6388489;'test du virus du molluscum contagiosum positif';1;0
+e;15646753;'test diagnostique du SARS-CoV-2';1;0
+e;6440887;'test d'agrégation plaquettaire avec sérotonine';1;0
+e;6440286;'test d'acétonurie avec bandelette réactive fait sur l'unité';1;0
+e;6439070;'test d'agrégation plaquettaire avec médicament';1;0
+e;6438374;'test d'hémolyse sur gélose au sang de mouton';1;0
+e;6436783;'test d'effort sur ergomètre à bras';1;0
+e;6434466;'test de capacité d'élimination du galactose normal';1;0
+e;6432866;'test de tolérance à l'aspirine';1;0
+e;6427317;'test du sodium de la sueur élevé';1;0
+e;6426388;'test de la syphilis';1;0
+e;6425474;'test du virus influenza';1;0
+e;6425237;'test sérologique pour virus de la rougeole';1;0
+e;5785298;'test-driven';1;0
+e;6285202;'fausse positivité du test de tuberculose';1;0
+e;12116684;'temps de venin vipère russell dilué - test de neutralisation des phospholipides en phase hexagonale patient';1;0
+e;6307792;'examen et test de grossesse';1;0
+e;6407224;'résultats de test hors plage';1;0
+e;12116681;'temps de céphaline sensible aux anticoagulants circulants de type lupique - test de neutralisation des phospholipides en phase hexagonale patient';1;0
+e;12088712;'acth test de stimulation avec corticostéroïdes im';1;0
+e;12088713;'acth test de stimulation avec corticostéroïdes iv';1;0
+e;12088863;'adn intercalaire identifiant du test';1;0
+e;12089638;'aneuploïdie foetale prénatale non invasive test panel';1;0
+e;12090626;'bactérie test identification';1;0
+e;12100170;'limulus test';1;0
+e;12099749;'lactulose test';1;0
+e;12099494;'justification du test';1;0
+e;12097851;'hémolyse test sucrose';1;0
+e;12097349;'glucose test de tolérance sur 2h';1;0
+e;12096597;'fructose test panel';1;0
+e;12093274;'choriogonadotropine (test de grossesse)';1;0
+e;12238524;'détermination de la présence de phénylalanine | test de guthrie | sang | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;13540891;'faire un test génétique';1;0
+e;6403116;'test bacillus subtilis positif';1;0
+e;6349530;'test de perception de la température anormal';1;0
+e;6415824;'test klebsiella positif';1;0
+e;6383992;'test vibrio parahaemolyticus positif';1;0
+e;6309501;'test de parasites du sang positif';1;0
+e;6417202;'test proteus vulgaris positif';1;0
+e;6377362;'test du virus de la vaccine positif';1;0
+e;5676871;'self-test';1;0
+e;5713506;'Framework for integrated test';777;0
+e;5798504;'test standardisé';1;0
+e;5797992;'test de français international';777;0
+e;5797991;'test d'évaluation de français';777;0
+e;5797988;'test d'évaluation de chinois';777;0
+e;6087052;'test de discrimination';777;0
+e;6087051;'test de situation';777;0
+e;6442722;'test d'identification fongique';1;0
+e;6442065;'test d'urticaire factice';1;0
+e;6442045;'test d'activité anti-tumorale sur xénogreffe sous capsule rénale';1;0
+e;6441827;'test de la fonction du tronc cérébral à l'eau glacée anormal';1;0
+e;6439182;'test d'appréhension';1;0
+e;6438449;'test de présence d'organismes de type campylobacter';1;0
+e;6437128;'test d'allergie';1;0
+e;6435681;'test de l'élongation des tendons dorsaux du pouce';1;0
+e;6435268;'test de détection de bactéries recouvertes d'anticorps dans les urines';1;0
+e;6434608;'test d'audition normal';1;0
+e;6434290;'test d'efficacité de dialyse';1;0
+e;6433830;'test d'agglutination';1;0
+e;6433814;'test d'acuité olfactive anormal';1;0
+e;6433712;'dosage de l'hormone lutéinisante par comparaison des couleurs pour test d'ovulation';1;0
+e;6433233;'test à l'éthanol';1;0
+e;6432808;'test d'effort sur bicyclette ergométrique';1;0
+e;6432007;'test d'activité foetale';1;0
+e;6431954;'test de thrombocytopénie induite par l'héparine positif';1;0
+e;6430827;'test provocation nasale';1;0
+e;6429834;'test de provocations bronchiques';1;0
+e;6428441;'test de la traction du papier';1;0
+e;6428418;'test de dégranulation des mastocytes';1;0
+e;12115891;'phosphate test parathyroïde';1;0
+e;12103256;'placer dna identifiant du test';1;0
+e;12102269;'ova1 test';1;0
+e;12101708;'nitrobleu tétrazolium test';1;0
+e;12101202;'motif du test en laboratoire';1;0
+e;12240470;'détermination de la présence de rh1 (d) anticorps | test de coombs | sérum/plasma | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;6372925;'test de perception de la température diminué';1;0
+e;6295566;'test de sensibilité aux antibiotiques sensible';1;0
+e;5798508;'test de compétence linguistique';1;0
+e;6443555;'test d'hématologie anormal';1;0
+e;6443371;'test sérologique pour virus de l'herpès simplex';1;0
+e;6443205;'test d'association de mots';1;0
+e;6443202;'test d'intelligence normal';1;0
+e;6442565;'test d'effort sur tapis roulant';1;0
+e;6442194;'test avec utilisation d'amidon';1;0
+e;6442087;'test d'agrégation plaquettaire à l'adénosine diphosphate';1;0
+e;6441494;'test d'hyperglycémie provoquée anormal';1;0
+e;6441315;'test itératif de latence d'endormissement';1;0
+e;6440520;'test d'hémocompatibilité';1;0
+e;6439555;'test à l'amobarbital intracarotidien';1;0
+e;6439401;'test respiratoire à l'hydrogène';1;0
+e;6438961;'test de l'intelligence';1;0
+e;6438087;'test du virus de l'hépatite b positif';1;0
+e;6437977;'test des taches d'encre';1;0
+e;6436130;'test de migration des leucocytes sur gel d'agarose';1;0
+e;6435971;'test d'identification chlamydienne négatif';1;0
+e;6435969;'test d'inhibition de la migration des macrophages';1;0
+e;6435917;'test de dépistage de la sensibilité à l'oxacilline';1;0
+e;6435381;'test à l'antiglobuline';1;0
+e;6435060;'test de cotinine dans l'urine';1;0
+e;6434943;'test d'hématologie normal';1;0
+e;6434636;'test de tolérance à l'insuline anormal';1;0
+e;6434226;'test d'inhibition de la thromboplastine tissulaire';1;0
+e;6431728;'test d'identification de la coqueluche négatif';1;0
+e;6430480;'test parasitaire positif';1;0
+e;6429953;'test cutané positif';1;0
+e;6429448;'test rpr';1;0
+e;6427762;'test de tolérance au glucose par voie intraveineuse';1;0
+e;6423351;'test vasculaire normal';1;0
+e;6423071;'test segmenté de provocation bronchique aux allergènes normal';1;0
+e;6422717;'test de formation de colonies microbiennes';1;0
+e;6422522;'test sérologique pour helicobacter pylori';1;0
+e;6421989;'test de la réponse au stimuli évoqués';1;0
+e;10589652;'effet test';777;0
+e;12108658;'xylose test';1;0
+e;12108225;'vaginose bactérienne test de l'odeur';1;0
+e;12107756;'toxiques test nom du kit';1;0
+e;12107600;'thyroglobuline test de récupération';1;0
+e;12107348;'test phénotypique de laboratoire pour déterminer la résistance';1;0
+e;12107347;'test moléculaire utilisé pour déterminer la réésistance';1;0
+e;12107346;'test indirect à l'antiglobuline (tia) xxx après transfusion transfusionnelle';1;0
+e;12107345;'test indirect à l'antiglobuline (tia) xxx';1;0
+e;12107344;'test indirect à l'antiglobuline (tia) polyvalente';1;0
+e;12107343;'test indirect à l'antiglobuline (tia) igg spécifique';1;0
+e;12107342;'test indirect à l'antiglobuline (tia) complément spécifique';1;0
+e;12107341;'test direct à l'antiglobuline (tda) xxx après transfusion';1;0
+e;12107340;'test direct à l'antiglobuline (tda) xxx';1;0
+e;12107339;'test direct à l'antiglobuline (tda) polyvalente après réaction transfusionnelle';1;0
+e;12107338;'test direct à l'antiglobuline (tda) polyvalente';1;0
+e;12107337;'test direct à l'antiglobuline (tda) igm spécifique';1;0
+e;12107336;'test direct à l'antiglobuline (tda) igg spécifique';1;0
+e;12107335;'test direct à l'antiglobuline (tda) iga spécifique';1;0
+e;12107334;'test direct à l'antiglobuline (tda) complément spécifique';1;0
+e;12107333;'test direct à l'antiglobuline (tda) complément c3d spécifique';1;0
+e;12107332;'test direct à l'antiglobuline (tda) complément c3c spécifique';1;0
+e;12107331;'test direct à l'antiglobuline (tda) complément c3b+c4d spécifiques';1;0
+e;12107330;'test direct à l'antiglobuline (tda) complément c3+c4 spécifiques';1;0
+e;12107329;'test direct à l'antiglobuline (tda) complément c3 spécifique';1;0
+e;12107328;'test d'identité';1;0
+e;12107327;'test d'équilibration péritonéal panel';1;0
+e;12107326;'test de référence panel';1;0
+e;12107325;'test de performance information';1;0
+e;12107324;'test d'absorption des sucres panel';1;0
+e;12107323;'test au nitroprussiate';1;0
+e;12107322;'test au glucose panel';1;0
+e;12107293;'temps de venin vipère russell dilué - test de neutralisation des phospholipides en phase hexagonale patient/témoin';1;0
+e;12107292;'temps de venin vipère russell dilué - test de neutralisation des phospholipides en phase hexagonale';1;0
+e;12107210;'temps de céphaline sensible aux anticoagulants circulants de type lupique - test de neutralisation des phospholipides en phase hexagonale patient/témoin';1;0
+e;12107161;'temps de céphaline activée - test de neutralisation des phospholipides en phase hexagonale';1;0
+e;12106317;'spermatozoïdes évaluation par test de pénétration sur ovule de hamster';1;0
+e;12106316;'spermatozoïdes évaluation par test de pénétration de la glaire cervicale in vitro';1;0
+e;6292501;'test allergique positif';1;0
+e;6400253;'test yersinia enterocolitica positif';1;0
+e;5574067;'test de pelage';777;0
+e;5574209;'test de résistance';777;0
+e;5574405;'test itératif de latence à l'endormissement';777;0
+e;5574208;'test d'étanchéité';777;0
+e;5574403;'cold pressor test';777;0
+e;5574402;'test au froid';777;0
+e;5781698;'Banerjee test';777;0
+e;5781697;'test de Banerji';777;0
+e;6398706;'test clostridium tetani positif';1;0
+e;6443487;'test d'antibiorésistance';1;0
+e;6443108;'test du virus de l'herpès humain 8 positif';1;0
+e;6442697;'test d'agglutination des particules pour l'agent infectieux';1;0
+e;6440235;'test de l'activité bactéricide du sérum';1;0
+e;6439953;'test sérologique de l'herpès positif';1;0
+e;6437975;'test d'agrégation plaquettaire';1;0
+e;6437754;'test d'acuité par planches tenues à la main anormal';1;0
+e;6437544;'test de glycosurie avec bandelette réactive fait sur l'unité';1;0
+e;6437229;'test du virus de l'immunodéficience humaine positif';1;0
+e;6436557;'test de la marche d'escalier';1;0
+e;6435775;'test de virus dans l'urine';1;0
+e;6435494;'test d'histocompatibilité';1;0
+e;6434233;'test d'intelligence anormal';1;0
+e;6434101;'test de thrombopénie induit par l'héparine';1;0
+e;6433871;'test de provocation bronchique à inhalation d'air froid';1;0
+e;6433350;'test d'agglutination passive';1;0
+e;6432391;'test d'acuité par planches tenues à la main normal';1;0
+e;6431917;'test de tolérance à l'insuline normal';1;0
+e;6430153;'test de matériau hémocompatible';1;0
+e;6426708;'test sérologique à chlamydia';1;0
+e;6425673;'test bactérien négatif';1;0
+e;6424107;'test de coagulation anormal';1;0
+e;8957929;'test-and-set';777;0
+e;9958027;'test du bloc de plomb de Trauzl';777;0
+e;9958025;'test de trauzl';777;0
+e;10965980;'passer le test de Turing';1;0
+e;15258542;'données de test';1;0
+e;12119873;'détermination de la présence de 2,4-dinitrophénylhydrazine test';1;0
+e;12215690;'détermination de la présence de brucella abortus ac | agglutination,ring test | petit-lait | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12219259;'détermination de la présence de choriogonadotropine sous-unité bêta (test de grossesse) | technique indéterminée | sérum/plasma | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12219260;'détermination de la présence de choriogonadotropine sous-unité bêta (test de grossesse) | technique indéterminée | urine | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;6443601;'test sérologique pour virus de l'encéphalite équine de l'ouest';1;0
+e;6441134;'test d'anticorps du virus coxsackie';1;0
+e;6440786;'test de gélification de l'éthanol';1;0
+e;6440572;'test du virus de l'hépatite e positif';1;0
+e;6440558;'test de gélification de l'éthanol négatif';1;0
+e;6440165;'test d'agrégation plaquettaire avec arachidonate';1;0
+e;6439592;'test d'équilibration péritonéale';1;0
+e;6438335;'test d'hyperglycémie provoquée normal';1;0
+e;6438272;'test de provocation bronchique à l'histamine anormal';1;0
+e;6438165;'test du virus de l'hépatite c';1;0
+e;6436051;'test d'anticorps viral normal';1;0
+e;6435451;'test de provocation bronchique à inhalation d'air froid normal';1;0
+e;6433162;'test du virus de l'herpès humain 4 positif';1;0
+e;6433077;'test du virus de l'hépatite c positif';1;0
+e;6432207;'test sérologique pour virus de l'encéphalite de californie';1;0
+e;6431537;'test d'acuité par planches murales';1;0
+e;6431314;'test à la prolactine';1;0
+e;6430593;'test sanguin normal';1;0
+e;6427442;'test brucella négatif';1;0
+e;6423008;'test meningococcus positif';1;0
+e;10597164;'test d'hypothèse statistique';1;0
+e;10992657;'verrouillage à double test';777;0
+e;11032547;'test du dessin du bonhomme';777;0
+e;12190511;'détermination de la présence de temps de céphaline activée - test de neutralisation des phospholipides en phase hexagonale';1;0
+e;12137925;'détermination de la présence de choriogonadotropine sous-unité bêta (test de grossesse)';1;0
+e;12241845;'mesure de spermatozoïdes évaluation par test de pénétration sur ovule de hamster | technique indéterminée | sperme | ponctuel | résultat textuel | interprétation';1;0
+e;12241844;'mesure de spermatozoïdes évaluation par test de pénétration sur ovule de hamster | technique indéterminée | sperme | ponctuel | résultat nominal | interprétation';1;0
+e;12241843;'mesure de spermatozoïdes évaluation par test de pénétration de la glaire cervicale in vitro | technique indéterminée | sperme | ponctuel | résultat textuel | interprétation';1;0
+e;12241842;'mesure de spermatozoïdes évaluation par test de pénétration de la glaire cervicale in vitro | technique indéterminée | sperme | ponctuel | résultat nominal | interprétation';1;0
+e;6375558;'détermination de la durée de destruction des micro-organismes pour test de synergie';1;0
+e;16094053;'bandelette-test';1;0
+e;1830387;'test de Cochran';1;0
+e;5564897;'test de la boîte opaque';777;0
+e;5564896;'test de la boîte noire';777;0
+e;5673491;'test de référence';777;0
+e;5711804;'Comité français du test logiciel';777;0
+e;5781703;'test de validation';777;0
+e;5829748;'test de dépistage de drogue';777;0
+e;5837329;'test de Léger-Boucher';777;0
+e;5837179;'quadruple test';777;0
+e;5837178;'triple test';777;0
+e;6446226;'test respiratoire à l'aminopyrine';1;0
+e;6445520;'test de stress foetal à l'ocytocine';1;0
+e;6442795;'test de provocation bronchique à l'histamine';1;0
+e;6442487;'test de migration leucocytaire sur gel d'agarose';1;0
+e;6441889;'test du virus de l'herpès humain 7 positif';1;0
+e;6441840;'test du virus de l'herpès humain 3 positif';1;0
+e;6440940;'test d'absorption du complément par conglutination';1;0
+e;6440133;'test rapide de l'hydrolyse de l'hippurate';1;0
+e;6439991;'test d'effort avec imagerie';1;0
+e;6439670;'test de l'hépatite b négatif';1;0
+e;6437929;'test d'inhibition du temps de céphaline activé';1;0
+e;6437909;'test d'agglutination des produits de dégradation de la fibrine';1;0
+e;6437800;'test d'identification streptococcique négatif';1;0
+e;6436406;'test d'opacité de l'éthylèneglycol';1;0
+e;6435841;'test du virus de l'immunodéficience humaine 1 positif';1;0
+e;6434945;'test d'identification chlamydienne positif';1;0
+e;6434819;'test d'articulation diagnostique basé sur le type d'erreur';1;0
+e;6434730;'test d'adn viral négatif';1;0
+e;6434698;'test d'audition anormal';1;0
+e;6434675;'test de l'enzyme du métabolisme des médicaments normal';1;0
+e;6433346;'test d'hématologie';1;0
+e;6433227;'test cutané d'hypersensibilité retardée pour coccidiose';1;0
+e;6433123;'test de décomposition de l'hypoxanthine sur gélose';1;0
+e;6432416;'test des taches d'encre de rorschach';1;0
+e;6431680;'test de confirmation des anticorps de l'hépatite c';1;0
+e;6431647;'test respiratoire à l'urée pour helicobacter pylori';1;0
+e;6429767;'test streptococcus alpha hémolytique positif';1;0
+e;6427897;'test distinction langage';1;0
+e;6425139;'test de provocation';1;0
+e;6425036;'analyse ou test de laboratoire en microbiologie';1;0
+e;6424783;'test à la phytohémagglutinine';1;0
+e;6424745;'test de la sueur par iontophorèse';1;0
+e;6422864;'test de la vibration nasale';1;0
+e;10992526;'test de composants';777;0
+e;11063501;'test J';777;0
+e;11063499;'test de Sargan-Hansen';777;0
+e;11063498;'test de Sargan';777;0
+e;11063481;'test de la somme des rangs de Wilcoxon';777;0
+e;11063480;'test U de Mann-Whitney';777;0
+e;11063476;'test des médianes';777;0
+e;11063475;'test de Brown et Mood';777;0
+e;11063467;'test de Durbin-Wu-Hausman';777;0
+e;11063466;'test de Wu-Hausman';777;0
+e;11077636;'test de séparation d'huile';777;0
+e;11755333;'résultat de test';1;0
+e;11828153;'generate and test';777;0
+e;16040832;'blind-test';1;0
+e;15298777;'bêta test';1;0
+e;15584191;'centre de test';1;0
+e;1830815;'test de Coombs';1;0
+e;1832362;'test de Draize';1;0
+e;1832421;'test de dU suppression';1;0
+e;1833758;'test de Farnsworth';1;0
+e;1836604;'test d'inclinaison';1;0
+e;1837195;'jerk test';1;0
+e;1837351;'test de Kleihauer';1;0
+e;1838520;'test de McNemar';1;0
+e;2371649;'test-objet';1;0
+e;6447004;'test de présence d'organismes de type campylobacter négatif';1;0
+e;6441762;'test d'anticorps anti-grippe positif';1;0
+e;6438563;'test d'immobilisation des tréponèmes';1;0
+e;6438542;'test d'attente de mouvement de terminaison du nerf honteux';1;0
+e;6437378;'test d'identification staphylococcique positif';1;0
+e;6435277;'test d'anticorps anti-grippe négatif';1;0
+e;6434313;'test du virus de l'hépatite delta positif';1;0
+e;6430834;'test rickettsia pour le typhus positif';1;0
+e;6423280;'test nocardia positif';1;0
+e;11063478;'test de Wald';777;0
+e;11063497;'test des rangs signés de Wilcoxon';777;0
+e;11063492;'test des signes';777;0
+e;11063468;'test d'Anderson-Darling';777;0
+e;11063483;'le test exact de Fisher';777;0
+e;11063465;'test d'Hausman';777;0
+e;11063500;'test de Hansen';777;0
+e;11063489;'test des suites de Wald-Wolfowitz';777;0
+e;11063479;'test de Wilcoxon-Mann-Whitney';777;0
+e;11063472;'test de Goldfeld et Quandt';777;0
+e;11063474;'test de Mood';777;0
+e;11063473;'test de Jarque-Bera';777;0
+e;11063477;'test de Lilliefors';777;0
+e;11063471;'test de Durbin-Watson';777;0
+e;11063459;'statistique de test';777;0
+e;11063464;'test F d'égalité de deux variances';777;0
+e;11063485;'test de Chow';777;0
+e;11063482;'test de Kruskal-Wallis';777;0
+e;11063462;'test de Bartlett';777;0
+e;11063484;'test de Kolmogorov-Smirnov';777;0
+e;11064235;'test Z';777;0
+e;11064676;'test de primalité';777;0
+e;11354843;'test d'évitement';777;0
+e;12032791;'test de réaction inflammatoire cutanée';1;0
+e;1826528;'test d'accélération du rythme cardiaque ftal';1;0
+e;1833699;'test de Fagerström';1;0
+e;1833762;'test de Farr';1;0
+e;1835196;'test de Guthrie';1;0
+e;1835913;'test de Hühner';1;0
+e;1837411;'test de Kveim';1;0
+e;5838857;'test de percussion de Brodie-Trendelenburg';777;0
+e;5838856;'test de Trendelenburg';777;0
+e;5898919;'test de Kastle-Meyer';777;0
+e;5960704;'test de dureté Janka';777;0
+e;5954258;'test d'aptitude en japonais';777;0
+e;6067929;'test à la flamme';777;0
+e;6067928;'test de flamme';777;0
+e;6067927;'test de Beilstein';777;0
+e;6447507;'test d'impédance';1;0
+e;6447408;'test d'agrégation plaquettaire avec collagène';1;0
+e;6446908;'test d'antigène viral positif';1;0
+e;6446824;'test d'attente de mouvement de terminaison du nerf honteux anormal';1;0
+e;6445451;'test d'hémolysine acide négatif';1;0
+e;6445449;'test d'extension contrariée du poignet';1;0
+e;6444200;'test d'infertilité';1;0
+e;6442298;'test de l'enzyme du métabolisme des médicaments anormal';1;0
+e;6441172;'test d'antigène fongique positif';1;0
+e;6440737;'test de l'hépatite c négatif';1;0
+e;6440590;'test d'hypersensibilité positif';1;0
+e;6434716;'test de sensibilité avec bandelette imprégnée d'un gradient d'antibiotique';1;0
+e;6434380;'test d'oscillations cliniques normal';1;0
+e;6433879;'test d'agrégation plaquettaire avec norépinéphrine';1;0
+e;6432091;'test de capacité d'élimination du galactose diminué';1;0
+e;6430261;'test acinetobacter positif';1;0
+e;6427219;'test de résorption osseuse';1;0
+e;6423041;'test de la douleur du garrot';1;0
+e;6421977;'test de flexion du coude';1;0
+e;10929027;'véhicule de test';1;0
+e;10992477;'Acid test';1;0
+e;6325346;'bounce home test - sec';1;0
+e;12093287;'choriogonadotropine sous-unité bêta (test de grossesse)';1;0
+e;1826750;'test d'adaptation prismatique';1;0
+e;1826733;'test d'acuité stéréoscopique';1;0
+e;1827565;'test à l'angiotensine';1;0
+e;1828529;'test clinique de Bailliart';1;0
+e;1828718;'test de floculation à la bentonite';1;0
+e;1828717;'test de Benton';1;0
+e;1829132;'test de freinage à la bromocriptine';1;0
+e;1829605;'test au carmin';1;0
+e;1830095;'test au chlorure d'ammonium';1;0
+e;1830191;'test au chrome radioactif';1;0
+e;1830338;'test de glucose Clinistix';1;0
+e;1830388;'test de Cochran, Mantel, Hanszel';1;0
+e;1830367;'test digestif au CO2 marqué';1;0
+e;1830328;'test de Clements';1;0
+e;1830598;'test de complémentation fonctionnelle';1;0
+e;1830816;'test de Coope';1;0
+e;1830873;'test de Corner et Allen';1;0
+e;1831255;'test du prisme base externe de Cüppers';1;0
+e;1831256;'test maculomaculaire de Cüppers';1;0
+e;1831254;'test au synoptophore de Cüppers';1;0
+e;1831854;'test de désespoir comportemental';1;0
+e;1831953;'test à la dexaméthasone';1;0
+e;1832113;'test au dinitrochlorobenzène';1;0
+e;1832387;'test de duction passive en ophtalmologie';1;0
+e;1832281;'test des dominos';1;0
+e;1832588;'test à l'eau glacée';1;0
+e;1833760;'test de Farnsworth 100 Hue';1;0
+e;1833759;'test de Farnsworth 15 Hue';1;0
+e;1833938;'test au fibrinogène marqué';1;0
+e;1834153;'test de fluorescence induite par la tétracycline';1;0
+e;1834136;'test de Fletcher';1;0
+e;1834909;'test au glycérol';1;0
+e;1835003;'test transparent de Gracis';1;0
+e;1835002;'test de diffraction de Gracis';1;0
+e;1834678;'test de Geller et Scholler';1;0
+e;1835372;'test de Hauwkins';1;0
+e;1835297;'test de Hamolsky';1;0
+e;1835350;'test de Haserick';1;0
+e;1835635;'test de Hering';1;0
+e;1835758;'test de Hirschberg';1;0
+e;1836397;'test IGRA';1;0
+e;1837096;'test d'Ishihara';1;0
+e;1836923;'test d'intégration spatiale visuelle';1;0
+e;1837179;'test des quatre dp prismatiques de Jampolsky';1;0
+e;1837146;'test de Itano';1;0
+e;1837178;'test d'adaptation prismatique Jampolsky';1;0
+e;1837227;'test de Julesz';1;0
+e;1837186;'test dynamique de Jayle';1;0
+e;1837557;'test de Lang';1;0
+e;1837572;'test de Lapides';1;0
+e;1837539;'test de Lancaster';1;0
+e;1837625;'test au latex';1;0
+e;1837565;'test de Lanthony';1;0
+e;1837676;'test de Lemaire';1;0
+e;1838028;'test du Logrank';1;0
+e;1838065;'test de Losee';1;0
+e;1838020;'test de Loeb';1;0
+e;1838501;'test de Mazzotti';1;0
+e;1838515;'test de McIntosh';1;0
+e;1838459;'test de Master';1;0
+e;1838369;'test de diffusion radiale de Mancini';1;0
+e;1838980;'test de migration des macrophages';1;0
+e;1839363;'test de mutagénicité';1;0
+e;1839605;'test de Nelson';1;0
+e;1840052;'test à la Notézine';1;0
+e;6307175;'test vasculaire anormal';1;0
+e;6487686;'test CVS';777;0
+e;6449092;'test d'électrophorèse sur gel de cellules isolées en conditions alcalines';1;0
+e;6448975;'test d'identification et de sensibilité microbiennes';1;0
+e;6448791;'test de tolérance à l'aas';1;0
+e;6447708;'test d'immunofluorescence indirecte';1;0
+e;6446903;'test du virus de l'herpès humain 6 positif';1;0
+e;6446724;'test d'expectoration';1;0
+e;6444536;'test d'antigène bactérien';1;0
+e;6441490;'test de cotinine dans l'urine positif';1;0
+e;6439597;'test cutané d'hypersensibilité retardée pour tétanos';1;0
+e;6437249;'test d'aperception pour enfant';1;0
+e;6436488;'test avec utilisation d'inositol';1;0
+e;6435714;'test de l'antistreptolysine o';1;0
+e;6435624;'test d'agrégation plaquettaire avec thrombine';1;0
+e;6431276;'réaction négative au test cutané';1;0
+e;6428866;'test streptobacillus moniliformis positif';1;0
+e;6428783;'test aspergillus';1;0
+e;6428672;'test vision';1;0
+e;6428020;'test de conglutination';1;0
+e;6422409;'test de la fonction plaquettaire';1;0
+e;11361118;'test de Gallup';777;0
+e;12882484;'test Q de Cochran';777;0
+e;15291551;'Le test de grossesse s'est avéré négatif.';1;0
+e;1830059;'children apperception test';1;0
+e;1832675;'test de l'écran';1;0
+e;1832865;'test de l'élongation musculaire';1;0
+e;1834500;'test au furosémide';1;0
+e;1835306;'hand test';1;0
+e;1839022;'minimental test de Folstein';1;0
+e;6450868;'test d'identification staphylococcique';1;0
+e;6448635;'test d'émissions otoacoustiques anormal';1;0
+e;6447556;'test de retour capillaire au niveau du lit de l'ongle anormal';1;0
+e;6447171;'test de la capacité d'élimination du galactose augmenté';1;0
+e;6446661;'test sérologique du virus de l'herpès humain 6 positif';1;0
+e;6445111;'test d'expectoration de mycètes';1;0
+e;6444731;'test rapide à l'acth';1;0
+e;6443166;'test et évaluation de l'aphasie';1;0
+e;6442538;'test cutané d'hypersensibilité retardée';1;0
+e;6441914;'test d'émissions otoacoustiques';1;0
+e;6441095;'test de l'adhésivité plaquettaire';1;0
+e;6440326;'test d'immunofluorescence directe';1;0
+e;6439801;'test d'immunofluorescence absorbée';1;0
+e;6439523;'test sérologique pour virus de l'herpès';1;0
+e;6438744;'test cutané d'hypersensibilité retardée pour phytohémagglutinine';1;0
+e;6437701;'test d'hémolysine acide';1;0
+e;6436930;'test sur l'effet synergique';1;0
+e;6435653;'test d'immunoadhérence';1;0
+e;6434242;'test de provocation bronchique à inhalation d'air froid anormal';1;0
+e;6432936;'test d'identification de helicobacter pylori';1;0
+e;6431792;'test d'anticorps viral';1;0
+e;6431729;'test de l'hépatite c positif';1;0
+e;6431651;'test de la fonction du tronc cérébral à l'eau glacée normal';1;0
+e;6429921;'test du virus influenza négatif';1;0
+e;6426662;'test rhodococcus positif';1;0
+e;10997728;'test des cubes de Kohs';777;0
+e;11091302;'test de concordance de script';777;0
+e;1835381;'head shaking test';1;0
+e;1837477;'test de Lachman';1;0
+e;5781700;'test de Joel';777;0
+e;6451956;'test d'acuité olfactive';1;0
+e;6451647;'administration d'un test cutané par l'infirmière';1;0
+e;6451187;'test du virus de l'hépatite b';1;0
+e;6449865;'test d'agrégation plaquettaire avec épinéphrine';1;0
+e;6449788;'test sérologique pour agent de l'hépatite d';1;0
+e;6449679;'test itératif de latence d'endormissement anormal';1;0
+e;6446614;'test d'identification de la coqueluche';1;0
+e;6444994;'test d'oscillations cliniques anormal';1;0
+e;6444916;'test sérologique du virus de l'herpès humain 6 négatif';1;0
+e;6444776;'test indirect à l'antiglobuline';1;0
+e;6443527;'test d'anticorps humain anti-chimérique';1;0
+e;6442804;'test cutané d'hypersensibilité retardée pour trichophyton';1;0
+e;6442514;'test d'absorption du fer';1;0
+e;6441346;'test du virus de l'hépatite a';1;0
+e;6440436;'test de capacité d'élimination du galactose';1;0
+e;6437214;'test d'uréase';1;0
+e;6436158;'test d'anticorps humain anti-murin';1;0
+e;11101023;'test d'ovulation';777;0
+e;11100420;'programme de test';1;0
+e;11394318;'test de la page 99';777;0
+e;12081500;'test de mutation';1;0
+e;12081499;'test A/B';1;0
+e;12243614;'détermination de la présence de toxoplasma gondii ac igg | dye test | sérum | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12243602;'mesure de toxoplasma gondii ac igg | dye test | sérum | ponctuel | résultat numérique | arbitraire/volume';1;0
+e;12243579;'détermination de la présence de toxoplasma gondii ac | dye test | sérum | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12243078;'détermination de la présence de test indirect à l'antiglobuline (tia) polyvalente | polyéthylène glycol | sérum/plasma | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12243077;'détermination de la présence de test indirect à l'antiglobuline (tia) polyvalente | technique indéterminée | sérum/plasma | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12243076;'détermination de la présence de test direct à l'antiglobuline (tda) polyvalente | technique indéterminée | Érythrocytes de cordon | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12243075;'détermination de la présence de test direct à l'antiglobuline (tda) polyvalente | technique indéterminée | Érythrocytes | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12243074;'détermination de la présence de test direct à l'antiglobuline (tda) igg spécifique | technique indéterminée | Érythrocytes de cordon | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12243073;'détermination de la présence de test direct à l'antiglobuline (tda) igg spécifique | technique indéterminée | Érythrocytes | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12243072;'détermination de la présence de test direct à l'antiglobuline (tda) complément spécifique | incubation à température ambiante 5min | Érythrocytes | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12243071;'détermination de la présence de test direct à l'antiglobuline (tda) complément spécifique | technique indéterminée | Érythrocytes | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12243026;'mesure de temps de saignement | test d'ivy | patient | ponctuel | résultat numérique | temps';1;0
+e;12243025;'mesure de temps de saignement | test de duke | patient | ponctuel | résultat numérique | temps';1;0
+e;12242978;'mesure de temps de coagulation | test de lee white | sang | ponctuel | résultat numérique | temps';1;0
+e;311736;'test d'anglais langue étrangère';777;50
+e;5623596;'test MTT';777;0
+e;6450131;'test direct à l'antiglobuline';1;0
+e;6446638;'test du virus de l'hépatite a positif';1;0
+e;6445990;'test d'hémolysine acide positif';1;0
+e;6444126;'test sérologique d'entérovirus';1;0
+e;6443552;'test de distension de l'artère carotide';1;0
+e;6441943;'test d'acuité par planches murales anormal';1;0
+e;6439357;'test du virus de l'herpès humain 1 positif';1;0
+e;6437370;'test de provocation à l'ergonovine';1;0
+e;6435456;'test d'expectoration de mycètes négatif';1;0
+e;5808067;'test du canard';777;0
+e;6004216;'Wideband InterNetworking engineering test and Demonstration Satellite';777;0
+e;6451954;'test de stimulation à l'ACTH anormal';1;0
+e;6451673;'test d'inhibition de l'adhérence des leucocytes';1;0
+e;6451409;'test du virus de l'herpès humain 2 positif';1;0
+e;6451107;'test du virus de l'encéphalite transmise par la tique positif';1;0
+e;6450322;'test de consommation d'antiglobuline';1;0
+e;6449499;'test de l'alcool salivaire positif';1;0
+e;6527759;'test des couleurs';777;0
+e;6447247;'test de glucose dans l'urine faussement positif';1;0
+e;6446677;'test du col de l'utérus à l'acide acétique 5 %';1;0
+e;6445760;'test d'hyperglycémie provoquée';1;0
+e;6445568;'test radioimmunosorbent d'allergènes';1;0
+e;6444045;'test d'oscillation avec enregistrement';1;0
+e;6443097;'test d'élévation de la jambe tendue';1;0
+e;6442659;'test d'escalier';1;0
+e;6437781;'test cutané d'hypersensibilité retardée pour candida albicans';1;0
+e;6435364;'test d'identification de la coqueluche positif';1;0
+e;6435108;'test de tolérance à l'insuline';1;0
+e;6423409;'test de sensibilité au chlorure de potassium';1;0
+e;10055192;'crash test dummies';777;0
+e;11100419;'programme de test de performance';1;0
+e;11302584;'agglutination ring test inactivation par la chaleur';1;0
+e;11302949;'test sur souris';1;0
+e;11302947;'test Prosigna';1;0
+e;11329611;'test de Szondi';777;0
+e;11330294;'scratch test';777;0
+e;11364442;'test au dibrome';777;0
+e;11364441;'Le test de Bayer';777;0
+e;11957320;'test d'intégration';777;0
+e;4169172;'bêta-test';1;0
+e;5897560;'test d'émulsion';777;0
+e;6447729;'test d'effort cardiaque normal';1;0
+e;6447687;'test d'agrégation plaquettaire avec ristocétine';1;0
+e;6446929;'test d'alcool de la salive négatif';1;0
+e;6446837;'test sérologique pour virus de l'encéphalite équine de l'est';1;0
+e;6446723;'test d'effort sur rameur ergométrique';1;0
+e;6446399;'test d'autoagglutination';1;0
+e;6445538;'test d'ar au latex';1;0
+e;6445038;'test d'acuité par planches tenues à la main';1;0
+e;6444459;'test d'identification à la fluorescence';1;0
+e;6443233;'test d'inhibition de l'adhérence leucocytaire';1;0
+e;6441655;'test d'hémolyse au sucrose';1;0
+e;6440449;'test de dépistage de l'antigène du vih';1;0
+e;6437814;'test du virus de l'hépatite d';1;0
+e;6434629;'test d'identification chlamydienne';1;0
+e;6432792;'test de stimulation à l'acth';1;0
+e;6429253;'test de syphilis faussement positif';1;0
+e;11248973;'test de l'Alouette';777;0
+e;11302611;'C3b test de liaison';1;0
+e;11302610;'C1q test de liaison';1;0
+e;11302612;'C3d test de liaison';1;0
+e;11302789;'dye test';1;0
+e;11302951;'test Vectra DA';1;0
+e;11302946;'test d'Ivy';1;0
+e;11302945;'test de Lee White';1;0
+e;11302950;'test sur souris neutralisation';1;0
+e;11302944;'test de Duke';1;0
+e;11302948;'test Prosigna calcul';1;0
+e;11302942;'test au Polyéthylène glycol';1;0
+e;11302952;'test Vectra DA calcul';1;0
+e;11302943;'test cellules Raji';1;0
+e;13405624;'image de test standard';777;0
+e;5538288;'test d'amplification des acides nucléiques';777;0
+e;5674188;'test de lisibilité';777;0
+e;6445750;'test d'agents prions positif';1;0
+e;6444817;'test d'ham';1;0
+e;6444510;'test d'immunofluorescence absorbée par coloration double';1;0
+e;6432918;'test du virus de l'hépatite d positif';1;0
+e;6432406;'test de l'insulino-résistance';1;0
+e;6428274;'test à la thiacétazone';1;0
+e;11012007;'test du crayon';777;0
+e;11217674;'test de tréponème';1;0
+e;11217675;'test de streptocoque';1;0
+e;1840536;'test de O'Sullivan';1;0
+e;1840412;'test d'organicité';1;0
+e;3919123;'alpha-test';1;0
+e;5942352;'test de Benedict';777;0
+e;6450888;'test d'identification streptococcique';1;0
+e;6449721;'test d'adénovirus';1;0
+e;6449696;'test d'acuité visuelle';1;0
+e;6449317;'test d'audition';1;4
+e;6448916;'test d'agrégation plaquettaire avec calcium ionophore';1;0
+e;6448456;'test d'élévation de la jambe tendue négatif';1;0
+e;6448339;'test de laboratoire de dépistage fait sur l'unité';1;0
+e;6445702;'test de cotinine dans l'urine négatif';1;0
+e;6445532;'test d'acuité par planches murales normal';1;0
+e;6443549;'test d'agglutination au latex';1;0
+e;6443346;'test de stimulation à l'acth normal';1;0
+e;6440700;'test intracarotidien à l'aide d'un amobarbital sodique';1;0
+e;10086418;'test de féminité';777;0
+e;1838101;'test lupus band';1;0
+e;5554298;'test de condensation de Cauchy';777;0
+e;5673648;'proposition de test d'intelligence artificielle';1;0
+e;6451634;'test sérologique pour virus de l'influenza a';1;0
+e;6450104;'test urinaire avec bandelette réactive fait sur l'unité';1;0
+e;6449791;'test d'agent anticancéreux';1;0
+e;6449672;'test d'apnée';1;0
+e;6448790;'test de gaïac fait sur l'unité';1;0
+e;6448646;'test sérologique pour virus de l'influenza b';1;0
+e;6448382;'test de l'âge gestationnel';1;0
+e;6448044;'test cutané d'hypersensibilité retardée pour diphtérie';1;0
+e;6447825;'test d'attente de mouvement de terminaison du nerf honteux normal';1;0
+e;6447571;'test d'anticorps anti-fongique positif';1;0
+e;6447251;'test d'oscillations cliniques';1;0
+e;6446360;'test de provocation à l'ocytocine';1;0
+e;6446325;'test de fermentation et d'oxydation';1;0
+e;6443148;'test au sulfure d'hydrogène';1;0
+e;6442996;'tonographie avec test de stimulation par l'eau';1;0
+e;6441005;'test d'occlusion nasale sur le rendement expiratoire';1;0
+e;6440049;'test cutané d'hypersensibilité retardée pour oreillons';1;0
+e;6438564;'test d'adn de parasite positif';1;0
+e;6436870;'test d'acuité olfactive normal';1;0
+e;6434133;'test d'identification microbienne';1;0
+e;11155182;'test d'acceptation';777;0
+e;1840565;'test d'Ouchterlony';1;0
+e;6451300;'test d'échovirus';1;0
+e;6451201;'test de glucomètre fait sur l'unité';1;0
+e;6449991;'test d'élévation de la jambe tendue positif';1;0
+e;6448245;'test de capacité d'élimination du galactose anormal';1;0
+e;6445816;'test de l'enzyme du métabolisme des médicaments';1;0
+e;6445570;'test du virus de l'herpès humain 5 positif';1;0
+e;6436907;'test de gélification de l'éthanol positif';1;0
+e;6435135;'test d'identification staphylococcique négatif';1;0
+e;11974959;'test de Schober';1;0
+e;5937947;'test de McMurray';777;0
+e;6017491;'test d'infiltrométrie';777;0
+e;6451299;'test d'assimilation du cellobiose';1;0
+e;6450746;'test d'allélisme';1;0
+e;6448747;'test de l'hépatite b positif';1;0
+e;6445250;'test de l'entérovirus de la forêt de brahma';1;0
+e;6442958;'réaction d'urticaire au test cutané';1;0
+e;6425129;'test du virus west nile négatif';1;0
+e;1840587;'test à l'oxydase';1;0
+e;1831284;'test au cyanure';1;0
+e;5553251;'test de Lucas';777;0
+e;6450370;'test d'anticorps viral anormal';1;0
+e;6448331;'test d'accumulation d'acide nicotinique';1;0
+e;6533338;'test MMPI';1;0
+e;12784028;'test à l'hydrogène expiré';1;0
+e;1840629;'test de Paliaga';1;0
+e;6451832;'test sérologique de l'herpès négatif';1;0
+e;6450009;'test du virus de l'immunodéficience humaine 2 positif';1;0
+e;6449054;'test sérologique de l'herpès';1;0
+e;6444558;'test d'anticorps anti-grippe';1;0
+e;6450297;'test d'agglutination au latex pour l'anticorps de l'agent infectieux';1;0
+e;6450167;'test de densité fait sur l'unité';1;0
+e;6449990;'test sérologique pour virus de l'herpès simplex de type i';1;0
+e;6448712;'test de détection d'anticorps anti-tréponème par immunofluorescence indirecte';1;0
+e;6448193;'test de provocation bronchique à l'histamine normal';1;0
+e;6448051;'test d'identification de helicobacter pylori négatif';1;0
+e;6447973;'test d'immunocapture d'antigènes';1;0
+e;6444983;'test d'identification de helicobacter pylori positif';1;0
+e;6444839;'test d'activation plaquettaire induite par l'héparine';1;0
+e;12772884;'test de virginité';1;0
+e;1840667;'test de pancréolauryle';1;0
+e;11136597;'test d'inhibition bactérienne de Guthrie';777;0
+e;1840726;'test du papillon';1;0
+e;5574404;'Hines-Brown test';777;0
+e;8667969;'test phénotypique';1;0
+e;8860997;'test hématologique';1;0
+e;9247996;'test cutané avec allergène positif';1;0
+e;9247998;'test de turbidité au sulfate de zinc anormal';1;0
+e;9247997;'test de la fonction cardio-vasculaire anormale';1;0
+e;9515267;'test d'Ohkuma';1;0
+e;9567112;'test de Blaine';777;0
+e;9617736;'test d'hémagglutination';1;0
+e;9743809;'test de lecture';1;0
+e;9773320;'test de Noble';1;0
+e;9773321;'test de Renne';1;0
+e;12089209;'2,4-dinitrophénylhydrazine test';1;0
+e;12245214;'mesure de xylose test | technique indéterminée | urine+sérum/plasma | ponctuel | résultat textuel | interprétation';1;0
+e;12245213;'mesure de xylose test | technique indéterminée | urine+sérum/plasma | ponctuel | résultat nominal | interprétation';1;0
+e;12688718;'test de résistance à la perforation';777;0
+e;15473534;'Banc de test en orbite et plate-forme pour capteurs de reconnaissance et d'écoute militaire';777;0
+e;661750;'test de dépistage rapide';777;0
+e;1850801;'test d'immunodiffusion radiale simple';1;0
+e;1848539;'Wisconsin card sorting test';1;0
+e;1846001;'test de diagnostic rapide des angines streptococciques';1;0
+e;1832597;'test de l'- de Jeanrot éblouissement';1;0
+e;2505264;'test-match';1;0
+e;2608805;'test du';777;0
+e;1189552;'Grinding test';1;0
+e;1843486;'test de Reitan';1;0
+e;1842628;'test de Pulfrich';1;0
+e;3249492;'test de Coggins';1;0
+e;3260515;'test d'Erb';1;0
+e;3363869;'la crash test';1;0
+e;4317021;'test crucial';1;0
+e;1444851;'test-cross';1;0
+e;1737715;'test de la sueur';1;0
+e;1815734;'fern-test';1;0
+e;1851097;'test de lyse';1;0
+e;1849446;'test de Carter et Robins';1;0
+e;1846023;'test pigmentaire';1;0
+e;1845995;'test au tétracosactide';1;0
+e;1841054;'test de pénétration in vitro';1;0
+e;1837401;'test de Kruskall-Walis';1;0
+e;2357944;'test de Folstein';777;0
+e;2542231;'test des performances';1;0
+e;2586767;'test d'intrusion';777;0
+e;3250118;'test de Coggins pour anémie équine';1;0
+e;3261510;'Le test d'Erb';777;0
+e;4053643;'test alpha';1;0
+e;5517114;'test global d'exploration';1;0
+e;6448987;'test d'identification streptococcique positif';1;0
+e;6564955;'Direct comparison test';777;0
+e;1664995;'test à l'aveugle';777;0
+e;1846029;'test spectral';1;0
+e;1846000;'test d'appariement';1;0
+e;1845997;'test d'Adson';1;0
+e;1841447;'photopatch test';1;0
+e;1835673;'test de Hess-Lancaster';1;0
+e;3492197;'test d'hypothèse';1;0
+e;566412;'test brouillard salin';777;50
+e;1848516;'test de Wilcoxon';1;0
+e;1846016;'test d'Unterberger';1;0
+e;1844826;'test de sensibilité à l'ocytocine de Smyth';1;0
+e;1828820;'test de vocabulaire de Binois-Pichot';1;0
+e;2805825;'test match';777;0
+e;661727;'test de diagnostic rapide';1;0
+e;1338930;'test du kappa';1;0
+e;1444853;'croisement test';777;0
+e;1651703;'test de primalité AKS';1;0
+e;1664953;'blind test';1;0
+e;1665224;'test à données aléatoires';777;0
+e;1852384;'test à l'urécholine';1;0
+e;1849466;'test à la cellophane adhésive';1;0
+e;1848405;'test de Wada';1;0
+e;1846671;'test de Trieger-Newman';1;0
+e;1846008;'test de Kunkel-zinc';1;0
+e;1846006;'test de Farnsworth 100 hue';1;0
+e;1846003;'test de 15 hue désaturé';1;0
+e;1845996;'test bilatéral';1;0
+e;1845980;'test de Terman';1;0
+e;1844786;'sisi-test';1;0
+e;1835675;'test de Hess-Weiss';1;0
+e;1858087;'test chromatique d'Ishihara';777;0
+e;1904336;'test de Patrick';1;0
+e;2569705;'cas de test';1;0
+e;3232126;'test de sirènes en Suisse';777;0
+e;3319809;'test de migration';1;0
+e;6450895;'test de la fonction du tronc cérébral à l'eau glacée';1;0
+e;161038;'batterie de tests';1;50
+e;1665207;'test unitaire';1;0
+e;1735640;'test Hemoccult';1;0
+e;1801142;'test de Betke';1;0
+e;1852386;'test de Maclagan';1;0
+e;1849679;'cover test alterné';1;0
+e;1848551;'test de, technique de Woodruff';1;0
+e;1846248;'test TNO';1;0
+e;1846017;'test épicutané';1;0
+e;1846015;'test d'Itano';1;0
+e;1845993;'test à l'iode';1;0
+e;1844583;'test de Sheridan-Inserm';1;0
+e;1843209;'test de randot';1;0
+e;1841504;'test de Pigassou';1;0
+e;1828819;'test d'intelligence de Binet-Simon';1;0
+e;1856863;'test à l';777;0
+e;1858244;'test de Kleihauer-Betke';777;0
+e;3261480;'test de Phalen';777;0
+e;3260516;'test de Spurling';1;0
+e;5517115;'test global';1;0
+e;1651705;'test cyclotomique AKS';777;0
+e;1651704;'test de primalité Agrawal-Kayal-Saxena';777;0
+e;1850962;'test de Lahm-Schiller';1;0
+e;1849276;'test des bulles';1;0
+e;1846007;'test de Kunkel-phénol';1;0
+e;1846004;'test de 28 hue de Roth';1;0
+e;1845072;'test de l'écran translucide Spielmann';1;0
+e;1849951;'dye-test';1;0
+e;1839803;'test au nitro-bleu';1;0
+e;1835674;'test de Hess-Lees';1;0
+e;1857699;'test d';777;0
+e;2356765;'test de rupture lacrymale';1;0
+e;3295083;'test Mantoux';777;0
+e;3437614;'test de Groove Pegboard';1;0
+e;572353;'test du miroir d'argent';777;50
+e;1737515;'test négatif';1;10
+e;1850377;'test de Fukuda-Unterberger';1;0
+e;1849274;'test de Buchmann-Cüppers';1;0
+e;1848070;'test au verre rouge';1;0
+e;1846009;'test de la catatoruline';1;0
+e;1845994;'test à l'obscurité';1;0
+e;1845981;'test de Terman-Merrill';1;0
+e;1845359;'test de Stuart-Maxwell';1;0
+e;1845283;'stimulus test';1;0
+e;1844755;'test de Singer';1;0
+e;1844214;'test de Schilling';1;0
+e;2538098;'test cyclique';1;0
+e;1852062;'test de Roth';1;0
+e;1851408;'test new colour';1;0
+e;1848503;'test de Whitaker';1;0
+e;1846379;'test de traction';1;0
+e;1846013;'test de Vollmer';1;0
+e;1846012;'test de Sia';1;0
+e;1844218;'test de Schirmer';1;0
+e;1844086;'test de Saidman';1;0
+e;1837026;'test de fixation de l'iode radio-actif';1;0
+e;1833389;'E-test';1;0
+e;1829096;'breath-test';1;0
+e;1857698;'test néonatal du buvard';777;0
+e;1850494;'test de Graham';1;0
+e;1849579;'test au citrate de clomifène';1;0
+e;1848538;'test de Wirt';1;0
+e;1847995;'test de Vela-Navarrete';1;0
+e;1846031;'test unilatéral';1;0
+e;1846010;'test de la tour d'Hanoï';1;0
+e;1844911;'test de Soskin';1;0
+e;1844852;'test de solubilité';1;0
+e;1844830;'sniff test';1;0
+e;1852906;'test d'hypothèse séquentiel';777;0
+e;1852385;'test de lavage rénal';1;0
+e;1852159;'scotch test';1;0
+e;1846466;'test de transformation lymphoblastique';1;0
+e;1843924;'ROAT test acr. angl pour Repeated Open Application Test';1;0
+e;1843257;'test RDE';1;0
+e;1849680;'cover-uncover test';1;0
+e;1849191;'bending test';1;0
+e;1846011;'test de Seidel';1;0
+e;1846005;'test de dénomination des couleurs';1;0
+e;1845998;'test d'Allen';1;0
+e;1845406;'test à la sueur';1;0
+e;1828817;'test de Binet-Simon, révision Zazzo';1;0
+e;1852002;'test de résistance à la dénaturation alcaline';1;0
+e;1851732;'test du piétinement aveugle';1;0
+e;1849201;'test de Kleihauer et Betke';1;0
+e;1848615;'test au xylose';1;0
+e;1848470;'test de Weiss';1;0
+e;1848436;'washout test';1;0
+e;1846084;'TAT thematic apperception test';1;0
+e;1845999;'test d'Amsler';1;0
+e;1843946;'test de Rorschach';1;0
+e;1843479;'test de Reinder';1;0
+e;1842212;'prick test';1;0
+e;1838399;'test de Mantel-Haetzel';1;0
+e;1837789;'test à la LH-RH';1;0
+e;1850376;'test de Fukuda';1;0
+e;1846227;'tilt test';1;0
+e;1845512;'test de suspension du rachis cervical';1;0
+e;1844812;'test de Slocum';1;0
+e;1844213;'test de Schiller';1;0
+e;1842455;'test de provocation nasale';1;0
+e;1836497;'test immuno-enzymatique';1;0
+e;1852090;'test de, réaction de Sabin et Feldman';1;0
+e;1846818;'test tsedek';1;0
+e;1846021;'test non paramétrique';1;0
+e;1846002;'test de falciformation';1;0
+e;1846014;'test de Worth';1;0
+e;1845992;'test à la thyréolibérine';1;0
+e;1844250;'test de schober';1;0
+e;1844188;'test de Scanlon';1;0
+e;1841814;'test à points aléatoires';1;0
+e;1849154;'test de Barr';1;0
+e;1846020;'test mental';1;0
+e;1843859;'test de Richardson';1;0
+e;394045;'test de grossesse urinaire';1;50
+e;383482;'test de connaissances';1;50
+e;383481;'test cis-trans';1;50
+e;383466;'test objectif de personnalité';1;50
+e;383464;'test graphologique';1;50
+e;383461;'test du bestiaire';1;50
+e;383459;'test de sécurité';1;50
+e;383452;'test comparatif';1;50
+e;351507;'en test';1;50
+e;391089;'test d'effort';1;66
+e;383486;'test psychotechnique';1;50
+e;383467;'test postcoïtal';1;50
+e;383454;'test d'assemblage';1;50
+e;360114;'jeu test';1;50
+e;383472;'test électoral';1;50
+e;383463;'test factoriel';1;50
+e;383458;'test de réussite';1;50
+e;383485;'test projectif';1;50
+e;383487;'test respiratoire';1;50
+e;383483;'test fièvre';1;50
+e;383469;'test qualificatif';1;50
+e;383455;'test de dégustation';1;50
+e;349283;'département test';1;50
+e;335550;'année test';1;50
+e;383488;'test sérologique';1;106
+e;383462;'test en laboratoire';1;50
+e;383449;'test analytique';1;50
+e;331372;'test tuberculinique';1;50
+e;383470;'test sociométrique';1;50
+e;383453;'test cutané';1;50
+e;383450;'test antidrogue';1;50
+e;383465;'test génétique prénuptial';1;50
+e;383460;'test diagnostique';1;50
+e;363570;'match test';1;50
+e;383489;'test technique';1;50
+e;383468;'test psychométrique';1;50
+e;383457;'test de pointage';1;50
+e;383456;'test de mollusque';1;50
+e;383451;'test collectif';1;50
+e;360386;'journée test';1;50
+e;383484;'test paramétrique';1;50
+e;383480;'test anti-sida';1;50
+e;383471;'test t';1;50
+e;60206;'baby-test';1;50
+e;318424;'test de Student';1;50
+e;318427;'test de Fisher';1;50
+e;318428;'test F';777;50
+e;318776;'test de positionnement';1;50
+e;319388;'test ELISA';1;50
+e;325275;'test du tiroir';1;50
+e;316713;'test du wug';1;50
+e;167620;'test de Turing';1;54
+e;218047;'test d'Ames';1;50
+e;221343;'test room';1;50
+e;224050;'test ADN';1;12
+e;224993;'test du miroir';1;2
+e;226783;'test de Moatti';1;54
+e;234919;'test de paternité';1;8
+e;239138;'test d'évaluation';1;50
+e;247978;'test positif';1;84
+e;255173;'test d'aptitude';1;52
+e;257443;'test en double aveugle';1;10
+e;257924;'test de dépistage';1;56
+e;258568;'test in vivo';1;50
+e;262563;'test de QI';1;86
+e;263635;'test statistique';1;58
+e;212238;'banc de test';1;50
+e;215551;'test de turing';666;50
+e;176572;'test de performance';1;50
+e;182607;'génération de séquences de test';1;50
+e;184242;'séquence de test';1;50
+e;184499;'test de mémorisation assistée';1;50
+e;184500;'test du lendemain';1;50
+e;184501;'test dynamique';1;50
+e;184502;'test en aveugle';1;52
+e;184503;'test fonctionnel';1;50
+e;184504;'test intégré';1;50
+e;184505;'test statique';1;50
+e;184506;'test structurel';1;50
+e;184566;'traducteur de test';1;50
+e;184700;'vecteur de test';1;50
+e;279674;'test valide';777;50
+e;281914;'crash test';777;50
+e;287774;'test du tourniquet';777;50
+e;287775;'test Rumpel-Leede de fragilité capillaire';777;50
+e;287776;'test du lacet';777;50
+e;287777;'test de fragilité capillaire';777;50
+e;292320;'test de charge';777;50
+e;296288;'test VIH';777;50
+e;296289;'test HIV';777;50
+e;297251;'test de Foucault';777;50
+e;311273;'test biologique';777;50
+e;154381;'test d'intelligence';1;50
+e;82500;'test de personnalité';1;52
+e;159553;'test sanguin';1;50
+e;155705;'test psychologique';1;52
+e;155636;'faire un test';1;90
+e;154301;'passer un test';1;66
+e;153378;'test de grossesse';1;150
+r;397132029;14358;6293479;11;25
+r;397120316;14358;6292910;11;25
+r;396755045;14358;6291470;11;25
+r;276010390;14358;10864679;11;25
+r;296902998;14358;6084967;11;25
+r;299131346;14358;6300671;11;25
+r;299521556;14358;6307089;11;25
+r;299568556;14358;6308026;11;25
+r;300182358;14358;6324786;11;25
+r;301490487;14358;6342338;11;25
+r;303625884;14358;6376260;11;25
+r;303645497;14358;6379323;11;25
+r;305264044;14358;6402279;11;25
+r;305288105;14358;6403325;11;25
+r;305288897;14358;6403358;11;25
+r;305310267;14358;6406318;11;25
+r;305463516;14358;6409678;11;25
+r;305468971;14358;6410358;11;25
+r;305676415;14358;6416070;11;25
+r;305676679;14358;6416079;11;25
+r;316558398;14358;12196099;11;25
+r;316564226;14358;12194401;11;25
+r;316570437;14358;12192391;11;25
+r;316572256;14358;12191867;11;25
+r;316572268;14358;12191865;11;25
+r;316575152;14358;12191001;11;25
+r;316575165;14358;12190999;11;25
+r;316575180;14358;12190997;11;25
+r;316575197;14358;12190995;11;25
+r;316575212;14358;12190993;11;25
+r;316575227;14358;12190990;11;25
+r;316575242;14358;12190988;11;25
+r;316575259;14358;12190986;11;25
+r;316575276;14358;12190984;11;25
+r;316575293;14358;12190982;11;25
+r;316575308;14358;12190980;11;25
+r;316575327;14358;12190977;11;25
+r;316575342;14358;12190975;11;25
+r;316575359;14358;12190972;11;25
+r;316575374;14358;12190970;11;25
+r;316575391;14358;12190968;11;25
+r;316575408;14358;12190965;11;25
+r;316575425;14358;12190963;11;25
+r;316575444;14358;12190961;11;25
+r;316575463;14358;12190959;11;25
+r;316575480;14358;12190957;11;25
+r;316575497;14358;12190955;11;25
+r;316575522;14358;12190952;11;25
+r;316575533;14358;12190949;11;25
+r;316575551;14358;12190946;11;25
+r;316575562;14358;12190944;11;25
+r;316575571;14358;12190942;11;25
+r;316575584;14358;12190940;11;25
+r;316575591;14358;12190938;11;25
+r;316575967;14358;12190842;11;25
+r;316575995;14358;12190840;11;25
+r;316576132;14358;12190816;11;25
+r;316576139;14358;12190814;11;25
+r;316577037;14358;12190664;11;25
+r;316577319;14358;12190633;11;25
+r;316578032;14358;12190513;11;25
+r;316588159;14358;12187919;11;25
+r;316588177;14358;12187916;11;25
+r;316595737;14358;12186122;11;25
+r;316595756;14358;12186119;11;25
+r;316634944;14358;12178456;11;25
+r;316638780;14358;12177463;11;25
+r;316647151;14358;12174665;11;25
+r;316653521;14358;12172173;11;25
+r;316653530;14358;12172171;11;25
+r;316660527;14358;12170192;11;25
+r;316660538;14358;12170190;11;25
+r;316672642;14358;12166048;11;25
+r;316678576;14358;12164423;11;25
+r;316681601;14358;12163589;11;25
+r;316699149;14358;12157499;11;25
+r;316699158;14358;12157496;11;25
+r;316704857;14358;12155655;11;25
+r;316710375;14358;12154402;11;25
+r;316714882;14358;12153197;11;25
+r;316760286;14358;12139846;11;25
+r;316760294;14358;12139843;11;25
+r;316760300;14358;12139841;11;25
+r;316760306;14358;12139835;11;25
+r;316761111;14358;12139623;11;25
+r;316767062;14358;12137871;11;25
+r;316783765;14358;12132143;11;25
+r;316783787;14358;12132140;11;25
+r;316784810;14358;12131929;11;25
+r;345195662;14358;13614986;11;25
+r;349181006;14358;6284606;11;25
+r;349181485;14358;6386046;11;25
+r;349182222;14358;6421262;11;25
+r;349183712;14358;6337022;11;25
+r;349184215;14358;6390963;11;25
+r;349184282;14358;6352693;11;25
+r;349184408;14358;6412507;11;25
+r;349184900;14358;6417374;11;25
+r;349185248;14358;6402050;11;25
+r;349185651;14358;6395496;11;25
+r;349185859;14358;6398216;11;25
+r;349186112;14358;6300650;11;25
+r;349186618;14358;6328303;11;25
+r;349186664;14358;6390402;11;25
+r;349187746;14358;6368434;11;25
+r;349187794;14358;6382272;11;25
+r;349187860;14358;6413698;11;25
+r;349187968;14358;6343589;11;25
+r;349188212;14358;6370568;11;25
+r;349188552;14358;6366105;11;25
+r;349188709;14358;6337403;11;25
+r;349188984;14358;6308926;11;25
+r;349188994;14358;6403275;11;25
+r;349189316;14358;6356242;11;25
+r;349189342;14358;6364060;11;25
+r;349189396;14358;6387537;11;25
+r;349189733;14358;6420456;11;25
+r;349189935;14358;6347100;11;25
+r;349189955;14358;6402425;11;25
+r;349190256;14358;6375951;11;25
+r;349190641;14358;6419743;11;25
+r;349190707;14358;6364404;11;25
+r;349190906;14358;6418954;11;25
+r;349190920;14358;6318910;11;25
+r;349190951;14358;6285577;11;25
+r;349191101;14358;6323669;11;25
+r;349191394;14358;6291173;11;25
+r;349191705;14358;6331610;11;25
+r;349191803;14358;6347646;11;25
+r;349191949;14358;6395642;11;25
+r;349192110;14358;6357424;11;25
+r;349192257;14358;6342641;11;25
+r;349192398;14358;6401352;11;25
+r;349192590;14358;6309620;11;25
+r;349192661;14358;6318554;11;25
+r;349192708;14358;6365021;11;25
+r;349192785;14358;6421527;11;25
+r;349192872;14358;6372489;11;25
+r;349192995;14358;6355111;11;25
+r;349193093;14358;6339271;11;25
+r;349193132;14358;6376467;11;25
+r;349193159;14358;6399654;11;25
+r;349193306;14358;6353094;11;25
+r;349193368;14358;6362114;11;25
+r;349193433;14358;6412832;11;25
+r;349193445;14358;6376277;11;25
+r;349193554;14358;6309274;11;25
+r;349193576;14358;6316063;11;25
+r;349193770;14358;6291143;11;25
+r;349193957;14358;6357008;11;25
+r;349194175;14358;6309321;11;25
+r;349194290;14358;6286187;11;25
+r;349194378;14358;6388017;11;25
+r;349194556;14358;6394107;11;25
+r;349194636;14358;6299325;11;25
+r;349194756;14358;6384538;11;25
+r;349194925;14358;6350857;11;25
+r;349195104;14358;6356519;11;25
+r;349195131;14358;6402966;11;25
+r;349195141;14358;6284935;11;25
+r;349195211;14358;6374470;11;25
+r;349195594;14358;6285387;11;25
+r;349195791;14358;6288058;11;25
+r;349195802;14358;6387119;11;25
+r;349195853;14358;6362421;11;25
+r;349195878;14358;6419452;11;25
+r;349195938;14358;6408372;11;25
+r;349195988;14358;6361895;11;25
+r;349196080;14358;6305353;11;25
+r;349196228;14358;6409467;11;25
+r;349196376;14358;6416845;11;25
+r;349196499;14358;6332232;11;25
+r;349196542;14358;6312685;11;25
+r;349196719;14358;6302634;11;25
+r;349196829;14358;6418790;11;25
+r;349196977;14358;6331876;11;25
+r;349197753;14358;6289905;11;25
+r;349197923;14358;6328827;11;25
+r;349198141;14358;6303606;11;25
+r;349198560;14358;6291463;11;25
+r;349198588;14358;6365462;11;25
+r;349198661;14358;6331438;11;25
+r;349198707;14358;6420863;11;25
+r;349198736;14358;6298578;11;25
+r;349198759;14358;6372348;11;25
+r;349198880;14358;6411335;11;25
+r;349199429;14358;6413920;11;25
+r;349199456;14358;6415517;11;25
+r;349199498;14358;6400093;11;25
+r;349199710;14358;6306999;11;25
+r;349199761;14358;6385584;11;25
+r;349199988;14358;6308454;11;25
+r;349200282;14358;6337704;11;25
+r;349200366;14358;6349533;11;25
+r;349200438;14358;6353372;11;25
+r;349200486;14358;6329269;11;25
+r;349200694;14358;6369761;11;25
+r;349200786;14358;6317091;11;25
+r;349200834;14358;6397251;11;25
+r;349200861;14358;6414891;11;25
+r;349201188;14358;6366078;11;25
+r;349201377;14358;6340865;11;25
+r;349201550;14358;6295471;11;25
+r;349201619;14358;6319768;11;25
+r;349201732;14358;6354582;11;25
+r;349201971;14358;6336084;11;25
+r;349202286;14358;6303168;11;25
+r;349202299;14358;6311583;11;25
+r;349202378;14358;6382615;11;25
+r;349202399;14358;6335444;11;25
+r;349202771;14358;6331298;11;25
+r;349202982;14358;6362957;11;25
+r;349203759;14358;6326464;11;25
+r;349204350;14358;6366335;11;25
+r;349204465;14358;6327156;11;25
+r;349204775;14358;6414516;11;25
+r;349204784;14358;6296390;11;25
+r;349204900;14358;6322875;11;25
+r;349205526;14358;6327357;11;25
+r;349205593;14358;6373398;11;25
+r;349205782;14358;6363889;11;25
+r;349205797;14358;6362524;11;25
+r;349206061;14358;6308760;11;25
+r;349206089;14358;6302045;11;25
+r;349206157;14358;6328449;11;25
+r;349206445;14358;6404075;11;25
+r;349206506;14358;6406236;11;25
+r;349206659;14358;6384056;11;25
+r;349206670;14358;6410157;11;25
+r;349206764;14358;6362022;11;25
+r;349206849;14358;6421131;11;25
+r;349207281;14358;6367781;11;25
+r;349207780;14358;6398782;11;25
+r;349207850;14358;6419335;11;25
+r;349208046;14358;6404572;11;25
+r;349208580;14358;6409824;11;25
+r;349208605;14358;6362689;11;25
+r;349209107;14358;6356781;11;25
+r;349209702;14358;6354581;11;25
+r;349209810;14358;6325069;11;25
+r;349209902;14358;6338232;11;25
+r;349209956;14358;6363495;11;25
+r;349209982;14358;6293955;11;25
+r;349209994;14358;6351300;11;25
+r;349210319;14358;6312852;11;25
+r;349210853;14358;6414332;11;25
+r;349211607;14358;6335400;11;25
+r;349211810;14358;6375042;11;25
+r;349212034;14358;6364019;11;25
+r;349212054;14358;6418819;11;25
+r;349212307;14358;6349838;11;25
+r;349212477;14358;6286736;11;25
+r;349212835;14358;6317432;11;25
+r;349213232;14358;6393321;11;25
+r;349213483;14358;6387227;11;25
+r;349213565;14358;6339878;11;25
+r;349213722;14358;6364312;11;25
+r;349213791;14358;6326844;11;25
+r;349214102;14358;6301292;11;25
+r;349214310;14358;6407911;11;25
+r;349214647;14358;6367564;11;25
+r;349214989;14358;6414591;11;25
+r;349215167;14358;6347457;11;25
+r;349215572;14358;6391458;11;25
+r;349215847;14358;6311088;11;25
+r;349217247;14358;6381132;11;25
+r;349217365;14358;6351060;11;25
+r;349217397;14358;6356622;11;25
+r;349217688;14358;6313404;11;25
+r;349217824;14358;6349366;11;25
+r;349218234;14358;6391392;11;25
+r;349218794;14358;6324975;11;25
+r;349219007;14358;6342659;11;25
+r;349219837;14358;6308675;11;25
+r;349220349;14358;6313007;11;25
+r;349220834;14358;6390794;11;25
+r;349221083;14358;6335562;11;25
+r;349221237;14358;6284922;11;25
+r;349221448;14358;6311289;11;25
+r;349221706;14358;6412210;11;25
+r;349221837;14358;6418309;11;25
+r;349221976;14358;6352305;11;25
+r;349222546;14358;6326568;11;25
+r;349225104;14358;6349051;11;25
+r;349226271;14358;6310239;11;25
+r;349227071;14358;6334312;11;25
+r;349227931;14358;6334848;11;25
+r;349229654;14358;6391085;11;25
+r;349229744;14358;6394228;11;25
+r;349231004;14358;6340110;11;25
+r;349231147;14358;6317060;11;25
+r;349233132;14358;6391420;11;25
+r;349233413;14358;6338241;11;25
+r;349233802;14358;6285384;11;25
+r;349233949;14358;6285753;11;25
+r;349234505;14358;6378520;11;25
+r;349235497;14358;6291603;11;25
+r;349236817;14358;6290157;11;25
+r;349237780;14358;6410668;11;25
+r;349238286;14358;6289063;11;25
+r;349239288;14358;6411656;11;25
+r;349239461;14358;6365183;11;25
+r;349239489;14358;6342478;11;25
+r;349239592;14358;6286433;11;25
+r;349239697;14358;6412956;11;25
+r;349239907;14358;6411012;11;25
+r;349241145;14358;6285357;11;25
+r;349244178;14358;6396231;11;25
+r;349244546;14358;6295185;11;25
+r;349247213;14358;6340950;11;25
+r;349248349;14358;6311704;11;25
+r;349248497;14358;6363336;11;25
+r;349249093;14358;6324343;11;25
+r;349249100;14358;6297301;11;25
+r;349249358;14358;6366660;11;25
+r;349253084;14358;6335418;11;25
+r;349253430;14358;6339235;11;25
+r;349255948;14358;6293835;11;25
+r;349256146;14358;6294355;11;25
+r;349261737;14358;6310657;11;25
+r;349261880;14358;6345779;11;25
+r;349262655;14358;6291220;11;25
+r;349265337;14358;6303792;11;25
+r;349266272;14358;6303250;11;25
+r;349266650;14358;6358887;11;25
+r;349267307;14358;6339866;11;25
+r;349267567;14358;6347858;11;25
+r;349268181;14358;6383402;11;25
+r;349268531;14358;6391194;11;25
+r;349269995;14358;6398655;11;25
+r;349271585;14358;6322579;11;25
+r;349278717;14358;6416156;11;25
+r;349280005;14358;6399340;11;25
+r;349281156;14358;6391731;11;25
+r;349283704;14358;6345326;11;25
+r;349285690;14358;6326913;11;25
+r;349288017;14358;6415818;11;25
+r;349314762;14358;6367711;11;25
+r;349335513;14358;6323035;11;25
+r;350244643;14358;13855863;11;25
+r;355198408;14358;6304865;11;25
+r;355394239;14358;6327783;11;25
+r;355524833;14358;6365512;11;25
+r;355554837;14358;6361608;11;25
+r;355600663;14358;6309718;11;25
+r;355767304;14358;6314741;11;25
+r;355927250;14358;6412973;11;25
+r;356021627;14358;6315560;11;25
+r;356095500;14358;6355703;11;25
+r;356107783;14358;6363597;11;25
+r;356126047;14358;6327593;11;25
+r;356196927;14358;6384893;11;25
+r;356413224;14358;6359977;11;25
+r;356788084;14358;6361498;11;25
+r;356808010;14358;6376939;11;25
+r;356841971;14358;6380530;11;25
+r;356856440;14358;6358571;11;25
+r;356868039;14358;6391511;11;25
+r;356880240;14358;6356103;11;25
+r;356881980;14358;6385649;11;25
+r;357389283;14358;6380381;11;25
+r;358695126;14358;14139196;11;25
+r;401023898;14358;6409996;11;25
+r;366861343;14358;14452536;11;25
+r;368736144;14358;14535175;11;25
+r;370326788;14358;14571938;11;25
+r;374700656;14358;14739708;11;25
+r;375179493;14358;14758293;11;25
+r;400774124;14358;6388575;11;25
+r;400828282;14358;6398715;11;25
+r;400848154;14358;6402550;11;25
+r;400830052;14358;6400258;11;25
+r;434286067;14358;16510393;11;25
+r;400822132;14358;6398900;11;25
+r;400888731;14358;6404638;11;25
+r;397520075;14358;6300148;11;25
+r;400837630;14358;6401601;11;25
+r;399498308;14358;15575160;11;25
+r;400871804;14358;6404807;11;25
+r;400817015;14358;6396181;11;25
+r;400818788;14358;6396061;11;25
+r;400877556;14358;6404718;11;25
+r;399500236;14358;6330706;11;25
+r;400855842;14358;6402562;11;25
+r;399496782;14358;6328560;11;25
+r;399519924;14358;6334783;11;25
+r;400527834;14358;6372089;11;25
+r;400605636;14358;6380023;11;25
+r;397511925;14358;6299440;11;25
+r;395894758;14358;15473763;11;25
+r;396372291;14358;6285912;11;25
+r;396372312;14358;6285852;11;25
+r;396411343;14358;6286045;11;25
+r;396515083;14358;6286780;11;25
+r;396613077;14358;6288265;11;25
+r;397431966;14358;6296667;11;25
+r;397528990;14358;6301593;11;25
+r;397533890;14358;6302171;11;25
+r;397875152;14358;6303879;11;25
+r;397875352;14358;6306261;11;25
+r;398137696;14358;6308229;11;25
+r;398386953;14358;6311840;11;25
+r;398408720;14358;6312122;11;25
+r;398413682;14358;6311005;11;25
+r;398429226;14358;6314281;11;25
+r;398504131;14358;6317169;11;25
+r;398553824;14358;6319898;11;25
+r;399115926;14358;6322757;11;25
+r;399135434;14358;6321538;11;25
+r;399277452;14358;6324379;11;25
+r;399480530;14358;6325683;11;25
+r;399665748;14358;6337570;11;25
+r;399678489;14358;6338743;11;25
+r;399679528;14358;6339221;11;25
+r;399858064;14358;6342623;11;25
+r;399968775;14358;6347282;11;25
+r;399980411;14358;6347325;11;25
+r;399986234;14358;6347949;11;25
+r;400009703;14358;6351977;11;25
+r;400055406;14358;6355015;11;25
+r;400056770;14358;6356434;11;25
+r;400072082;14358;6357842;11;25
+r;400090231;14358;6359805;11;25
+r;400090293;14358;6358427;11;25
+r;400090645;14358;6359718;11;25
+r;400113903;14358;6360831;11;25
+r;400268214;14358;6366436;11;25
+r;400443784;14358;6369224;11;25
+r;400568596;14358;6374385;11;25
+r;400584741;14358;6376419;11;25
+r;400593995;14358;6377614;11;25
+r;400655020;14358;6381770;11;25
+r;400772904;14358;6389938;11;25
+r;409451381;14358;15774728;11;25
+r;414352792;14358;15915174;11;25
+r;424902562;14358;16174155;11;25
+r;431569284;14358;16329201;11;25
+r;435110777;14358;16564315;11;25
+r;122666899;14358;6433435;11;26
+r;122697066;14358;6429840;11;26
+r;122705626;14358;6428714;11;26
+r;122711356;14358;6427986;11;26
+r;122731425;14358;6425398;11;26
+r;122743180;14358;6423889;11;26
+r;299586512;14358;6311277;11;26
+r;299587458;14358;6311345;11;26
+r;301743097;14358;6351851;11;26
+r;302182433;14358;6364874;11;26
+r;303851468;14358;6381492;11;26
+r;303995508;14358;6384695;11;26
+r;315640243;14358;12091631;11;26
+r;316187369;14358;12196656;11;26
+r;346166771;14358;13642320;11;26
+r;349182314;14358;6388852;11;26
+r;349187940;14358;6385560;11;26
+r;349188009;14358;6350834;11;26
+r;349189104;14358;6379359;11;26
+r;349189155;14358;6399796;11;26
+r;349189205;14358;6328212;11;26
+r;349189371;14358;6328526;11;26
+r;349189423;14358;6388311;11;26
+r;349189752;14358;6304027;11;26
+r;349189923;14358;6383900;11;26
+r;349190072;14358;6418331;11;26
+r;349190448;14358;6334471;11;26
+r;349190759;14358;6351347;11;26
+r;349190841;14358;6387762;11;26
+r;349191046;14358;6300315;11;26
+r;349191241;14358;6402408;11;26
+r;349191528;14358;6286202;11;26
+r;349191911;14358;6355801;11;26
+r;349192639;14358;6411926;11;26
+r;349192915;14358;6303498;11;26
+r;349193205;14358;6383895;11;26
+r;349193266;14358;6395294;11;26
+r;349193609;14358;6331070;11;26
+r;349193700;14358;6351243;11;26
+r;349193817;14358;6323615;11;26
+r;349194104;14358;6380573;11;26
+r;349194361;14358;6303398;11;26
+r;349194433;14358;6415384;11;26
+r;349195548;14358;6384501;11;26
+r;349195555;14358;6288381;11;26
+r;349196296;14358;6340571;11;26
+r;349196328;14358;6321539;11;26
+r;349197379;14358;6416497;11;26
+r;349197391;14358;6334307;11;26
+r;349197525;14358;6350578;11;26
+r;349197864;14358;6421247;11;26
+r;349197912;14358;6339958;11;26
+r;349198272;14358;6364662;11;26
+r;349198495;14358;6286340;11;26
+r;349198546;14358;6311807;11;26
+r;349198633;14358;6322487;11;26
+r;349198823;14358;6327066;11;26
+r;349199281;14358;6336250;11;26
+r;349200171;14358;6375088;11;26
+r;349201107;14358;6300555;11;26
+r;349202058;14358;6295397;11;26
+r;349202680;14358;6407059;11;26
+r;349202688;14358;6314972;11;26
+r;349202856;14358;6363642;11;26
+r;349203515;14358;6346620;11;26
+r;349204051;14358;6409381;11;26
+r;349204846;14358;6342315;11;26
+r;349205264;14358;6329562;11;26
+r;349205563;14358;6339967;11;26
+r;349205996;14358;6300720;11;26
+r;349206147;14358;6376174;11;26
+r;349206280;14358;6321724;11;26
+r;349206625;14358;6331136;11;26
+r;349207259;14358;6328709;11;26
+r;349208278;14358;6337449;11;26
+r;349209090;14358;6334529;11;26
+r;349209099;14358;6421213;11;26
+r;349210813;14358;6311698;11;26
+r;349210843;14358;6391378;11;26
+r;349211061;14358;6355038;11;26
+r;349211289;14358;6411697;11;26
+r;349211355;14358;6319297;11;26
+r;349211435;14358;6409926;11;26
+r;349212641;14358;6322916;11;26
+r;349213033;14358;6389691;11;26
+r;349213753;14358;6313354;11;26
+r;349213824;14358;6308733;11;26
+r;349214074;14358;6404377;11;26
+r;349214325;14358;6343532;11;26
+r;349214341;14358;6345116;11;26
+r;349214809;14358;6330262;11;26
+r;349215053;14358;6417969;11;26
+r;349215432;14358;6409589;11;26
+r;349215982;14358;6344183;11;26
+r;349216908;14358;6324916;11;26
+r;349217484;14358;6350000;11;26
+r;349218020;14358;6378092;11;26
+r;349218041;14358;6338667;11;26
+r;349218519;14358;6411699;11;26
+r;349219374;14358;6328112;11;26
+r;349219910;14358;6385001;11;26
+r;349220434;14358;6331595;11;26
+r;349223420;14358;6344261;11;26
+r;349223623;14358;6350821;11;26
+r;349224203;14358;6415519;11;26
+r;349225058;14358;6296247;11;26
+r;349231994;14358;6327406;11;26
+r;349233827;14358;6356942;11;26
+r;349235295;14358;6333495;11;26
+r;349236388;14358;6292574;11;26
+r;349237700;14358;6309312;11;26
+r;349238726;14358;6389862;11;26
+r;349239968;14358;6293147;11;26
+r;349240979;14358;6290920;11;26
+r;349247873;14358;6320244;11;26
+r;349248213;14358;6300582;11;26
+r;349248606;14358;6306755;11;26
+r;349249205;14358;6385616;11;26
+r;349251201;14358;6330482;11;26
+r;349255765;14358;6318947;11;26
+r;349256002;14358;6402861;11;26
+r;349263127;14358;6374899;11;26
+r;349264181;14358;6371212;11;26
+r;349269566;14358;6403241;11;26
+r;349269678;14358;6333309;11;26
+r;349284273;14358;6372507;11;26
+r;355683070;14358;6369064;11;26
+r;355946079;14358;6333621;11;26
+r;355955285;14358;6401365;11;26
+r;356008543;14358;6341928;11;26
+r;356171658;14358;6363471;11;26
+r;356272679;14358;6344149;11;26
+r;356306274;14358;6398645;11;26
+r;356730892;14358;6413371;11;26
+r;356843761;14358;6351318;11;26
+r;356848410;14358;6329247;11;26
+r;356980679;14358;6382879;11;26
+r;357426397;14358;6408727;11;26
+r;368325574;14358;14502894;11;26
+r;368676467;14358;14531680;11;26
+r;371524192;14358;14626509;11;26
+r;373063690;14358;14670843;11;26
+r;375040111;14358;14753373;11;26
+r;400702153;14358;6383583;11;26
+r;400771532;14358;6388489;11;26
+r;402081526;14358;15646753;11;26
+r;121519981;14358;6440887;11;27
+r;121525514;14358;6440286;11;27
+r;121536301;14358;6439070;11;27
+r;121542686;14358;6438374;11;27
+r;121556831;14358;6436783;11;27
+r;121577470;14358;6434466;11;27
+r;122672085;14358;6432866;11;27
+r;122716688;14358;6427317;11;27
+r;122723739;14358;6426388;11;27
+r;122730755;14358;6425474;11;27
+r;122732634;14358;6425237;11;27
+r;294200281;14358;5785298;11;27
+r;297970474;14358;6285202;11;27
+r;315692585;14358;12116684;11;27
+r;299564862;14358;6307792;11;27
+r;305316084;14358;6407224;11;27
+r;315692670;14358;12116681;11;27
+r;315430915;14358;12088712;11;27
+r;315440177;14358;12088713;11;27
+r;315446521;14358;12088863;11;27
+r;315471840;14358;12089638;11;27
+r;315569935;14358;12090626;11;27
+r;315576016;14358;12100170;11;27
+r;315579390;14358;12099749;11;27
+r;315581188;14358;12099494;11;27
+r;315593464;14358;12097851;11;27
+r;315597333;14358;12097349;11;27
+r;315603255;14358;12096597;11;27
+r;315629637;14358;12093274;11;27
+r;318490238;14358;12238524;11;27
+r;343073662;14358;13540891;11;27
+r;349186095;14358;6403116;11;27
+r;349188561;14358;6349530;11;27
+r;349208530;14358;6415824;11;27
+r;349214153;14358;6383992;11;27
+r;349220689;14358;6309501;11;27
+r;356144638;14358;6417202;11;27
+r;356973251;14358;6377362;11;27
+r;111519925;14358;5676871;11;28
+r;112173887;14358;5713506;11;28
+r;113793648;14358;5798504;11;28
+r;113795017;14358;5797992;11;28
+r;113795023;14358;5797991;11;28
+r;113795048;14358;5797988;11;28
+r;119670914;14358;6087052;11;28
+r;119670918;14358;6087051;11;28
+r;121503602;14358;6442722;11;28
+r;121509517;14358;6442065;11;28
+r;121509706;14358;6442045;11;28
+r;121511712;14358;6441827;11;28
+r;121535328;14358;6439182;11;28
+r;121541986;14358;6438449;11;28
+r;121553823;14358;6437128;11;28
+r;121566623;14358;6435681;11;28
+r;121570370;14358;6435268;11;28
+r;121576214;14358;6434608;11;28
+r;121579106;14358;6434290;11;28
+r;122663348;14358;6433830;11;28
+r;122663489;14358;6433814;11;28
+r;122664423;14358;6433712;11;28
+r;122668671;14358;6433233;11;28
+r;122672569;14358;6432808;11;28
+r;122679728;14358;6432007;11;28
+r;122680181;14358;6431954;11;28
+r;122689492;14358;6430827;11;28
+r;122697125;14358;6429834;11;28
+r;122707853;14358;6428441;11;28
+r;122708000;14358;6428418;11;28
+r;315681277;14358;12115891;11;28
+r;315547882;14358;12103256;11;28
+r;315555932;14358;12102269;11;28
+r;315559896;14358;12101708;11;28
+r;315564016;14358;12101202;11;28
+r;318446973;14358;12240470;11;28
+r;349206813;14358;6372925;11;28
+r;349203925;14358;6295566;11;29
+r;113793624;14358;5798508;11;29
+r;121496120;14358;6443555;11;29
+r;121497749;14358;6443371;11;29
+r;121499201;14358;6443205;11;29
+r;121499234;14358;6443202;11;29
+r;121505023;14358;6442565;11;29
+r;121508344;14358;6442194;11;29
+r;121509327;14358;6442087;11;29
+r;121514633;14358;6441494;11;29
+r;121516255;14358;6441315;11;29
+r;121523397;14358;6440520;11;29
+r;121532034;14358;6439555;11;29
+r;121533399;14358;6439401;11;29
+r;121537265;14358;6438961;11;29
+r;121545180;14358;6438087;11;29
+r;121546123;14358;6437977;11;29
+r;121562650;14358;6436130;11;29
+r;121564092;14358;6435971;11;29
+r;121564113;14358;6435969;11;29
+r;121564574;14358;6435917;11;29
+r;121569360;14358;6435381;11;29
+r;121572218;14358;6435060;11;29
+r;121573197;14358;6434943;11;29
+r;121575962;14358;6434636;11;29
+r;121579675;14358;6434226;11;29
+r;122682152;14358;6431728;11;29
+r;122692085;14358;6430480;11;29
+r;122696181;14358;6429953;11;29
+r;122699986;14358;6429448;11;29
+r;122713107;14358;6427762;11;29
+r;122747434;14358;6423351;11;29
+r;122749538;14358;6423071;11;29
+r;122752319;14358;6422717;11;29
+r;122753731;14358;6422522;11;29
+r;122757839;14358;6421989;11;29
+r;264467406;14358;10589652;11;29
+r;315493142;14358;12108658;11;29
+r;315496839;14358;12108225;11;29
+r;315500551;14358;12107756;11;29
+r;315501611;14358;12107600;11;29
+r;315503205;14358;12107348;11;29
+r;315503218;14358;12107347;11;29
+r;315503228;14358;12107346;11;29
+r;315503242;14358;12107345;11;29
+r;315503252;14358;12107344;11;29
+r;315503262;14358;12107343;11;29
+r;315503274;14358;12107342;11;29
+r;315503286;14358;12107341;11;29
+r;315503298;14358;12107340;11;29
+r;315503308;14358;12107339;11;29
+r;315503322;14358;12107338;11;29
+r;315503332;14358;12107337;11;29
+r;315503344;14358;12107336;11;29
+r;315503356;14358;12107335;11;29
+r;315503368;14358;12107334;11;29
+r;315503380;14358;12107333;11;29
+r;315503394;14358;12107332;11;29
+r;315503408;14358;12107331;11;29
+r;315503422;14358;12107330;11;29
+r;315503436;14358;12107329;11;29
+r;315503448;14358;12107328;11;29
+r;315503455;14358;12107327;11;29
+r;315503466;14358;12107326;11;29
+r;315503475;14358;12107325;11;29
+r;315503484;14358;12107324;11;29
+r;315503495;14358;12107323;11;29
+r;315503499;14358;12107322;11;29
+r;315503854;14358;12107293;11;29
+r;315503882;14358;12107292;11;29
+r;315505177;14358;12107210;11;29
+r;315506073;14358;12107161;11;29
+r;315516255;14358;12106317;11;29
+r;315516268;14358;12106316;11;29
+r;349234919;14358;6292501;11;30
+r;349236256;14358;6400253;11;30
+r;110591018;14358;5574067;11;30
+r;110593574;14358;5574209;11;30
+r;110609016;14358;5574405;11;30
+r;110612715;14358;5574208;11;30
+r;110621480;14358;5574403;11;30
+r;110651730;14358;5574402;11;30
+r;112658563;14358;5781698;11;30
+r;112658565;14358;5781697;11;30
+r;349201157;14358;6398706;11;30
+r;121496685;14358;6443487;11;30
+r;121500088;14358;6443108;11;30
+r;121503827;14358;6442697;11;30
+r;121525945;14358;6440235;11;30
+r;121528368;14358;6439953;11;30
+r;121546134;14358;6437975;11;30
+r;121548086;14358;6437754;11;30
+r;121550015;14358;6437544;11;30
+r;121552910;14358;6437229;11;30
+r;121558811;14358;6436557;11;30
+r;121565768;14358;6435775;11;30
+r;121568313;14358;6435494;11;30
+r;121579611;14358;6434233;11;30
+r;121580782;14358;6434101;11;30
+r;122662960;14358;6433871;11;30
+r;122667626;14358;6433350;11;30
+r;122676263;14358;6432391;11;30
+r;122680505;14358;6431917;11;30
+r;122694621;14358;6430153;11;30
+r;122721297;14358;6426708;11;30
+r;122729258;14358;6425673;11;30
+r;122741453;14358;6424107;11;30
+r;193678510;14358;8957929;11;30
+r;220802256;14358;9958027;11;30
+r;220809181;14358;9958025;11;30
+r;276787931;14358;10965980;11;30
+r;419793499;14358;15258542;11;30
+r;419824137;14358;12119873;11;30
+r;419826158;14358;12215690;11;30
+r;419826986;14358;12219259;11;30
+r;419827015;14358;12219260;11;30
+r;121495706;14358;6443601;11;31
+r;121517876;14358;6441134;11;31
+r;121520946;14358;6440786;11;31
+r;121522947;14358;6440572;11;31
+r;121523074;14358;6440558;11;31
+r;121526571;14358;6440165;11;31
+r;121531693;14358;6439592;11;31
+r;121543004;14358;6438335;11;31
+r;121543540;14358;6438272;11;31
+r;121544481;14358;6438165;11;31
+r;121563367;14358;6436051;11;31
+r;121568721;14358;6435451;11;31
+r;122669341;14358;6433162;11;31
+r;122670099;14358;6433077;11;31
+r;122677943;14358;6432207;11;31
+r;122683894;14358;6431537;11;31
+r;122685648;14358;6431314;11;31
+r;122691258;14358;6430593;11;31
+r;122715587;14358;6427442;11;31
+r;122750040;14358;6423008;11;31
+r;264250139;14358;10597164;11;31
+r;277925371;14358;10992657;11;31
+r;279671129;14358;11032547;11;31
+r;316578052;14358;12190511;11;31
+r;316766911;14358;12137925;11;31
+r;318321224;14358;12241845;11;31
+r;318321257;14358;12241844;11;31
+r;318321290;14358;12241843;11;31
+r;318321325;14358;12241842;11;31
+r;319072188;14358;6375558;11;31
+r;434374505;14358;16094053;11;31
+r;29949679;14358;1830387;11;32
+r;110204818;14358;5564897;11;32
+r;110204824;14358;5564896;11;32
+r;111335722;14358;5673491;11;32
+r;112176289;14358;5711804;11;32
+r;112658553;14358;5781703;11;32
+r;113758907;14358;5829748;11;32
+r;114016209;14358;5837329;11;32
+r;114016730;14358;5837179;11;32
+r;114016734;14358;5837178;11;32
+r;121472144;14358;6446226;11;32
+r;121478433;14358;6445520;11;32
+r;121502796;14358;6442795;11;32
+r;121505712;14358;6442487;11;32
+r;121511129;14358;6441889;11;32
+r;121511597;14358;6441840;11;32
+r;121519527;14358;6440940;11;32
+r;121526851;14358;6440133;11;32
+r;121527991;14358;6439991;11;32
+r;121531005;14358;6439670;11;32
+r;121546523;14358;6437929;11;32
+r;121546706;14358;6437909;11;32
+r;121547664;14358;6437800;11;32
+r;121560124;14358;6436406;11;32
+r;121565210;14358;6435841;11;32
+r;121573180;14358;6434945;11;32
+r;121574359;14358;6434819;11;32
+r;121575143;14358;6434730;11;32
+r;121575433;14358;6434698;11;32
+r;121575613;14358;6434675;11;32
+r;122667668;14358;6433346;11;32
+r;122668735;14358;6433227;11;32
+r;122669697;14358;6433123;11;32
+r;122676050;14358;6432416;11;32
+r;122682584;14358;6431680;11;32
+r;122682915;14358;6431647;11;32
+r;122697617;14358;6429767;11;32
+r;122712047;14358;6427897;11;32
+r;122733395;14358;6425139;11;32
+r;122734191;14358;6425036;11;32
+r;122736213;14358;6424783;11;32
+r;122736481;14358;6424745;11;32
+r;122751196;14358;6422864;11;32
+r;277722306;14358;10992526;11;32
+r;280530622;14358;11063501;11;32
+r;280530624;14358;11063499;11;32
+r;280530628;14358;11063498;11;32
+r;280530646;14358;11063481;11;32
+r;280530654;14358;11063480;11;32
+r;280530658;14358;11063476;11;32
+r;280530662;14358;11063475;11;32
+r;280530668;14358;11063467;11;32
+r;280530672;14358;11063466;11;32
+r;283111878;14358;11077636;11;32
+r;301528214;14358;11755333;11;32
+r;306360095;14358;11828153;11;32
+r;419656024;14358;16040832;11;32
+r;419669446;14358;15298777;11;32
+r;419694725;14358;15584191;11;32
+r;29955827;14358;1830815;11;33
+r;29968978;14358;1832362;11;33
+r;29970252;14358;1832421;11;33
+r;29982272;14358;1833758;11;33
+r;30009189;14358;1836604;11;33
+r;30015467;14358;1837195;11;33
+r;30019033;14358;1837351;11;33
+r;30028436;14358;1838520;11;33
+r;52036287;14358;2371649;11;33
+r;121465257;14358;6447004;11;33
+r;121512264;14358;6441762;11;33
+r;121540923;14358;6438563;11;33
+r;121541131;14358;6438542;11;33
+r;121551510;14358;6437378;11;33
+r;121570299;14358;6435277;11;33
+r;121578881;14358;6434313;11;33
+r;122689430;14358;6430834;11;33
+r;122747956;14358;6423280;11;33
+r;280424559;14358;11063478;11;33
+r;280424728;14358;11063497;11;33
+r;280424760;14358;11063492;11;33
+r;280424990;14358;11063468;11;33
+r;280425344;14358;11063483;11;33
+r;280425415;14358;11063465;11;33
+r;280425464;14358;11063500;11;33
+r;280425597;14358;11063489;11;33
+r;280425653;14358;11063479;11;33
+r;280425697;14358;11063472;11;33
+r;280425818;14358;11063474;11;33
+r;280426754;14358;11063473;11;33
+r;280426837;14358;11063477;11;33
+r;280436153;14358;11063471;11;33
+r;280436190;14358;11063459;11;33
+r;280436262;14358;11063464;11;33
+r;280437241;14358;11063485;11;33
+r;280439836;14358;11063482;11;33
+r;280441766;14358;11063462;11;33
+r;280444811;14358;11063484;11;33
+r;280449754;14358;11064235;11;33
+r;280469366;14358;11064676;11;33
+r;291136004;14358;11354843;11;33
+r;313607904;14358;12032791;11;33
+r;29812638;14358;1826528;11;34
+r;29981101;14358;1833699;11;34
+r;29982517;14358;1833762;11;34
+r;29996204;14358;1835196;11;34
+r;30002540;14358;1835913;11;34
+r;30017789;14358;1837411;11;34
+r;114011677;14358;5838857;11;34
+r;114011683;14358;5838856;11;34
+r;115102731;14358;5898919;11;34
+r;116578416;14358;5960704;11;34
+r;116585217;14358;5954258;11;34
+r;118959947;14358;6067929;11;34
+r;118959951;14358;6067928;11;34
+r;118959955;14358;6067927;11;34
+r;121460661;14358;6447507;11;34
+r;121461618;14358;6447408;11;34
+r;121466079;14358;6446908;11;34
+r;121466837;14358;6446824;11;34
+r;121479085;14358;6445451;11;34
+r;121479105;14358;6445449;11;34
+r;121490281;14358;6444200;11;34
+r;121507472;14358;6442298;11;34
+r;121517484;14358;6441172;11;34
+r;121521382;14358;6440737;11;34
+r;121522785;14358;6440590;11;34
+r;121575280;14358;6434716;11;34
+r;121578290;14358;6434380;11;34
+r;122662880;14358;6433879;11;34
+r;122678996;14358;6432091;11;34
+r;122693770;14358;6430261;11;34
+r;122717433;14358;6427219;11;34
+r;122749787;14358;6423041;11;34
+r;122757924;14358;6421977;11;34
+r;274965861;14358;10929027;11;34
+r;277718409;14358;10992477;11;34
+r;300188095;14358;6325346;11;34
+r;315629569;14358;12093287;11;34
+r;29840342;14358;1826750;11;35
+r;29840875;14358;1826733;11;35
+r;29919068;14358;1827565;11;35
+r;29928559;14358;1828529;11;35
+r;29930183;14358;1828718;11;35
+r;29931498;14358;1828717;11;35
+r;29934121;14358;1829132;11;35
+r;29942619;14358;1829605;11;35
+r;29945588;14358;1830095;11;35
+r;29946520;14358;1830191;11;35
+r;29949714;14358;1830338;11;35
+r;29949781;14358;1830388;11;35
+r;29950462;14358;1830367;11;35
+r;29952235;14358;1830328;11;35
+r;29952802;14358;1830598;11;35
+r;29953657;14358;1830816;11;35
+r;29956567;14358;1830873;11;35
+r;29958899;14358;1831255;11;35
+r;29959149;14358;1831256;11;35
+r;29962484;14358;1831254;11;35
+r;29964380;14358;1831854;11;35
+r;29966025;14358;1831953;11;35
+r;29967132;14358;1832113;11;35
+r;29968813;14358;1832387;11;35
+r;29968834;14358;1832281;11;35
+r;29973356;14358;1832588;11;35
+r;29981826;14358;1833760;11;35
+r;29982746;14358;1833759;11;35
+r;29983724;14358;1833938;11;35
+r;29986043;14358;1834153;11;35
+r;29986466;14358;1834136;11;35
+r;29993506;14358;1834909;11;35
+r;29994437;14358;1835003;11;35
+r;29994818;14358;1835002;11;35
+r;29995036;14358;1834678;11;35
+r;29997954;14358;1835372;11;35
+r;29999722;14358;1835297;11;35
+r;29999736;14358;1835350;11;35
+r;30001329;14358;1835635;11;35
+r;30002359;14358;1835758;11;35
+r;30007353;14358;1836397;11;35
+r;30014330;14358;1837096;11;35
+r;30014657;14358;1836923;11;35
+r;30015171;14358;1837179;11;35
+r;30015231;14358;1837146;11;35
+r;30015337;14358;1837178;11;35
+r;30016074;14358;1837227;11;35
+r;30017717;14358;1837186;11;35
+r;30018798;14358;1837557;11;35
+r;30019065;14358;1837572;11;35
+r;30019149;14358;1837539;11;35
+r;30019391;14358;1837625;11;35
+r;30020171;14358;1837565;11;35
+r;30020806;14358;1837676;11;35
+r;30022642;14358;1838028;11;35
+r;30023564;14358;1838065;11;35
+r;30024854;14358;1838020;11;35
+r;30027337;14358;1838501;11;35
+r;30027548;14358;1838515;11;35
+r;30027672;14358;1838459;11;35
+r;30027796;14358;1838369;11;35
+r;30031275;14358;1838980;11;35
+r;30035294;14358;1839363;11;35
+r;30037316;14358;1839605;11;35
+r;30041567;14358;1840052;11;35
+r;349215742;14358;6307175;11;35
+r;120846194;14358;6487686;11;35
+r;121055756;14358;6449092;11;35
+r;121056851;14358;6448975;11;35
+r;121058495;14358;6448791;11;35
+r;121458851;14358;6447708;11;35
+r;121466132;14358;6446903;11;35
+r;121467690;14358;6446724;11;35
+r;121487246;14358;6444536;11;35
+r;121514673;14358;6441490;11;35
+r;121531645;14358;6439597;11;35
+r;121552695;14358;6437249;11;35
+r;121559450;14358;6436488;11;35
+r;121566313;14358;6435714;11;35
+r;121567164;14358;6435624;11;35
+r;122685904;14358;6431276;11;35
+r;122704452;14358;6428866;11;35
+r;122705074;14358;6428783;11;35
+r;122705954;14358;6428672;11;35
+r;122711093;14358;6428020;11;35
+r;122754649;14358;6422409;11;35
+r;279319749;14358;11022454;11;35
+r;291990972;14358;11361118;11;35
+r;329869526;14358;12882484;11;35
+r;419493923;14358;15291551;11;35
+r;29946425;14358;1830059;11;36
+r;29971334;14358;1832675;11;36
+r;29974555;14358;1832865;11;36
+r;29989328;14358;1834500;11;36
+r;29997379;14358;1835306;11;36
+r;30031805;14358;1839022;11;36
+r;121039606;14358;6450868;11;36
+r;121059894;14358;6448635;11;36
+r;121460178;14358;6447556;11;36
+r;121463681;14358;6447171;11;36
+r;121468244;14358;6446661;11;36
+r;121482262;14358;6445111;11;36
+r;121485562;14358;6444731;11;36
+r;121499555;14358;6443166;11;36
+r;121505276;14358;6442538;11;36
+r;121510890;14358;6441914;11;36
+r;121518197;14358;6441095;11;36
+r;121525144;14358;6440326;11;36
+r;121529785;14358;6439801;11;36
+r;121532324;14358;6439523;11;36
+r;121539242;14358;6438744;11;36
+r;121548547;14358;6437701;11;36
+r;121555531;14358;6436930;11;36
+r;121566885;14358;6435653;11;36
+r;121579526;14358;6434242;11;36
+r;122671439;14358;6432936;11;36
+r;122681594;14358;6431792;11;36
+r;122682146;14358;6431729;11;36
+r;122682866;14358;6431651;11;36
+r;122696441;14358;6429921;11;36
+r;122721617;14358;6426662;11;36
+r;278028535;14358;10997728;11;36
+r;279319753;14358;11022453;11;36
+r;281316611;14358;11091302;11;36
+r;29999221;14358;1835381;11;37
+r;30018451;14358;1837477;11;37
+r;112658557;14358;5781700;11;37
+r;121029588;14358;6451956;11;37
+r;121032422;14358;6451647;11;37
+r;121036652;14358;6451187;11;37
+r;121048738;14358;6449865;11;37
+r;121049540;14358;6449788;11;37
+r;121050479;14358;6449679;11;37
+r;121468671;14358;6446614;11;37
+r;121483238;14358;6444994;11;37
+r;121483935;14358;6444916;11;37
+r;121485186;14358;6444776;11;37
+r;121496369;14358;6443527;11;37
+r;121502714;14358;6442804;11;37
+r;121505477;14358;6442514;11;37
+r;121515940;14358;6441346;11;37
+r;121524143;14358;6440436;11;37
+r;121553042;14358;6437214;11;37
+r;121562399;14358;6436158;11;37
+r;281496435;14358;11101023;11;37
+r;282621300;14358;11100420;11;37
+r;292682325;14358;11394318;11;37
+r;315107224;14358;12081500;11;37
+r;315107228;14358;12081499;11;37
+r;318262639;14358;12243614;11;37
+r;318262972;14358;12243602;11;37
+r;318263549;14358;12243579;11;37
+r;318273579;14358;12243078;11;37
+r;318273603;14358;12243077;11;37
+r;318273627;14358;12243076;11;37
+r;318273655;14358;12243075;11;37
+r;318273681;14358;12243074;11;37
+r;318273711;14358;12243073;11;37
+r;318273739;14358;12243072;11;37
+r;318273771;14358;12243071;11;37
+r;318274811;14358;12243026;11;37
+r;318274831;14358;12243025;11;37
+r;318276157;14358;12242978;11;37
+r;24345786;14358;311736;11;38
+r;110809310;14358;5623596;11;38
+r;121046283;14358;6450131;11;38
+r;121468440;14358;6446638;11;38
+r;121474307;14358;6445990;11;38
+r;121491001;14358;6444126;11;38
+r;121496151;14358;6443552;11;38
+r;121510585;14358;6441943;11;38
+r;121533792;14358;6439357;11;38
+r;121551593;14358;6437370;11;38
+r;121568681;14358;6435456;11;38
+r;113286783;14358;5808067;11;39
+r;118527855;14358;6004216;11;39
+r;121029612;14358;6451954;11;39
+r;121032199;14358;6451673;11;39
+r;121034576;14358;6451409;11;39
+r;121037369;14358;6451107;11;39
+r;121044508;14358;6450322;11;39
+r;121052112;14358;6449499;11;39
+r;121441968;14358;6527759;11;39
+r;121463003;14358;6447247;11;39
+r;121468089;14358;6446677;11;39
+r;121476341;14358;6445760;11;39
+r;121478048;14358;6445568;11;39
+r;121491737;14358;6444045;11;39
+r;121500187;14358;6443097;11;39
+r;121504172;14358;6442659;11;39
+r;121547828;14358;6437781;11;39
+r;121569508;14358;6435364;11;39
+r;121571774;14358;6435108;11;39
+r;122746961;14358;6423409;11;39
+r;228279584;14358;10055192;11;39
+r;281475627;14358;11100419;11;39
+r;289315442;14358;11302584;11;39
+r;289888688;14358;11302949;11;39
+r;289888692;14358;11302947;11;39
+r;290197375;14358;11329611;11;39
+r;290254769;14358;11330294;11;39
+r;291811083;14358;11364442;11;39
+r;291811090;14358;11364441;11;39
+r;308561240;14358;11957320;11;39
+r;95218130;14358;4169172;11;40
+r;115106629;14358;5897560;11;40
+r;121458684;14358;6447729;11;40
+r;121459033;14358;6447687;11;40
+r;121465894;14358;6446929;11;40
+r;121466722;14358;6446837;11;40
+r;121467697;14358;6446723;11;40
+r;121470600;14358;6446399;11;40
+r;121478278;14358;6445538;11;40
+r;121482876;14358;6445038;11;40
+r;121487911;14358;6444459;11;40
+r;121498947;14358;6443233;11;40
+r;121513235;14358;6441655;11;40
+r;121524029;14358;6440449;11;40
+r;121547554;14358;6437814;11;40
+r;121576023;14358;6434629;11;40
+r;122672712;14358;6432792;11;40
+r;122701511;14358;6429253;11;40
+r;288121768;14358;11248973;11;40
+r;289314597;14358;11302611;11;40
+r;289314659;14358;11302610;11;40
+r;289317531;14358;11302612;11;40
+r;289318544;14358;11302789;11;40
+r;289318913;14358;11302951;11;40
+r;289318974;14358;11302946;11;40
+r;289319282;14358;11302945;11;40
+r;289319470;14358;11302950;11;40
+r;289319661;14358;11302944;11;40
+r;289320581;14358;11302948;11;40
+r;289321227;14358;11302942;11;40
+r;289321882;14358;11302952;11;40
+r;289396179;14358;11302943;11;40
+r;340152555;14358;13405624;11;40
+r;109660651;14358;5538288;11;41
+r;111333083;14358;5674188;11;41
+r;121476421;14358;6445750;11;41
+r;121484819;14358;6444817;11;41
+r;121487460;14358;6444510;11;41
+r;122671590;14358;6432918;11;41
+r;122676141;14358;6432406;11;41
+r;122709071;14358;6428274;11;41
+r;278878955;14358;11012007;11;41
+r;287534978;14358;11217674;11;41
+r;287535259;14358;11217675;11;41
+r;29907786;14358;1840536;11;42
+r;29908250;14358;1840412;11;42
+r;95817792;14358;3919123;11;42
+r;116313597;14358;5942352;11;42
+r;121039444;14358;6450888;11;42
+r;121050144;14358;6449721;11;42
+r;121050320;14358;6449696;11;42
+r;121053716;14358;6449317;11;42
+r;121057350;14358;6448916;11;42
+r;121452005;14358;6448456;11;42
+r;121453005;14358;6448339;11;42
+r;121476877;14358;6445702;11;42
+r;121478329;14358;6445532;11;42
+r;121496185;14358;6443549;11;42
+r;121497988;14358;6443346;11;42
+r;121521689;14358;6440700;11;42
+r;232464946;14358;10086418;11;42
+r;30023516;14358;1838101;11;43
+r;109882724;14358;5554298;11;43
+r;111279494;14358;5673648;11;43
+r;121032545;14358;6451634;11;43
+r;121046542;14358;6450104;11;43
+r;121049510;14358;6449791;11;43
+r;121050559;14358;6449672;11;43
+r;121058501;14358;6448790;11;43
+r;121059797;14358;6448646;11;43
+r;121452641;14358;6448382;11;43
+r;121455649;14358;6448044;11;43
+r;121457747;14358;6447825;11;43
+r;121460047;14358;6447571;11;43
+r;121462965;14358;6447251;11;43
+r;121470923;14358;6446360;11;43
+r;121471234;14358;6446325;11;43
+r;121499733;14358;6443148;11;43
+r;121501078;14358;6442996;11;43
+r;121518993;14358;6441005;11;43
+r;121527551;14358;6440049;11;43
+r;121540912;14358;6438564;11;43
+r;121556072;14358;6436870;11;43
+r;121580531;14358;6434133;11;43
+r;283659383;14358;11155182;11;43
+r;29907668;14358;1840565;11;44
+r;121035540;14358;6451300;11;44
+r;121036513;14358;6451201;11;44
+r;121047565;14358;6449991;11;44
+r;121453865;14358;6448245;11;44
+r;121475828;14358;6445816;11;44
+r;121478023;14358;6445570;11;44
+r;121555743;14358;6436907;11;44
+r;121571545;14358;6435135;11;44
+r;310186954;14358;11974959;11;44
+r;115911969;14358;5937947;11;45
+r;118942293;14358;6017491;11;45
+r;121035547;14358;6451299;11;45
+r;121040708;14358;6450746;11;45
+r;121058887;14358;6448747;11;45
+r;121480994;14358;6445250;11;45
+r;121501431;14358;6442958;11;45
+r;122733468;14358;6425129;11;45
+r;29907608;14358;1840587;11;46
+r;29959186;14358;1831284;11;46
+r;109888089;14358;5553251;11;46
+r;121044080;14358;6450370;11;46
+r;121453082;14358;6448331;11;46
+r;121911169;14358;6533338;11;46
+r;327977490;14358;12784028;11;46
+r;29907430;14358;1840629;11;47
+r;121030696;14358;6451832;11;47
+r;121047406;14358;6450009;11;47
+r;121056120;14358;6449054;11;47
+r;121487041;14358;6444558;11;47
+r;121044724;14358;6450297;11;48
+r;121045960;14358;6450167;11;48
+r;121047578;14358;6449990;11;48
+r;121059176;14358;6448712;11;48
+r;121454349;14358;6448193;11;48
+r;121455579;14358;6448051;11;48
+r;121456271;14358;6447973;11;48
+r;121483325;14358;6444983;11;48
+r;121484609;14358;6444839;11;48
+r;327743399;14358;12772884;11;48
+r;29907264;14358;1840667;11;49
+r;283131029;14358;11136597;11;49
+r;29907003;14358;1840726;11;50
+r;212973217;14358;9278557;11;50
+r;212973260;14358;9278558;11;50
+r;110608880;14358;5574404;11;50
+r;160179614;14358;8667969;11;50
+r;190664188;14358;8860997;11;50
+r;210642424;14358;9241284;11;50
+r;210642461;14358;9241285;11;50
+r;211473597;14358;9247996;11;50
+r;211474093;14358;9247998;11;50
+r;211474149;14358;9247997;11;50
+r;214274363;14358;9515267;11;50
+r;214893489;14358;9567112;11;50
+r;216731504;14358;9617736;11;50
+r;217146507;14358;9668572;11;50
+r;217148911;14358;9668571;11;50
+r;218012326;14358;9743809;11;50
+r;218339217;14358;9773320;11;50
+r;218339231;14358;9773321;11;50
+r;315468638;14358;12089209;11;50
+r;317983197;14358;12245214;11;50
+r;317983220;14358;12245213;11;50
+r;325045786;14358;12688718;11;50
+r;395855060;14358;15473534;11;50
+r;19165714;14358;661750;11;52
+r;29857250;14358;1850801;11;52
+r;29868070;14358;1848539;11;52
+r;29881024;14358;1846001;11;52
+r;29915997;14358;1832597;11;52
+r;52520896;14358;2505264;11;52
+r;58033405;14358;2608805;11;52
+r;22247958;14358;1189552;11;53
+r;29892873;14358;1843486;11;53
+r;29899227;14358;1842628;11;53
+r;78658850;14358;3249492;11;53
+r;78898736;14358;3260515;11;53
+r;86200479;14358;3363869;11;53
+r;98454551;14358;4317021;11;53
+r;23782117;14358;1444851;11;54
+r;28537743;14358;1737715;11;54
+r;29635075;14358;1815734;11;54
+r;29855782;14358;1851097;11;54
+r;29863678;14358;1849446;11;54
+r;29880926;14358;1846023;11;54
+r;29881057;14358;1845995;11;54
+r;29905210;14358;1841054;11;54
+r;29912847;14358;1837401;11;54
+r;50042698;14358;2357944;11;54
+r;52456542;14358;2542231;11;54
+r;54254502;14358;2586767;11;54
+r;78664641;14358;3250118;11;54
+r;78902172;14358;3261510;11;54
+r;95164068;14358;4053643;11;54
+r;108366587;14358;5517114;11;54
+r;121056764;14358;6448987;11;54
+r;122068899;14358;6564955;11;54
+r;27663375;14358;1664995;11;55
+r;29880896;14358;1846029;11;55
+r;29881037;14358;1846000;11;55
+r;29881049;14358;1845997;11;55
+r;29904027;14358;1841447;11;55
+r;29913731;14358;1835673;11;55
+r;88357013;14358;3492197;11;55
+r;16944434;14358;566412;11;56
+r;29868204;14358;1848516;11;56
+r;29880946;14358;1846016;11;56
+r;29886145;14358;1844826;11;56
+r;29917870;14358;1828820;11;56
+r;68371126;14358;2805825;11;56
+r;19164800;14358;661727;11;57
+r;23088836;14358;1338930;11;57
+r;23783710;14358;1444853;11;57
+r;26627266;14358;1651703;11;57
+r;27662017;14358;1664953;11;57
+r;27666136;14358;1665224;11;57
+r;29849893;14358;1852384;11;57
+r;29863576;14358;1849466;11;57
+r;29868819;14358;1848405;11;57
+r;29878283;14358;1846671;11;57
+r;29880980;14358;1846008;11;57
+r;29880992;14358;1846006;11;57
+r;29881014;14358;1846003;11;57
+r;29881053;14358;1845996;11;57
+r;29881121;14358;1845980;11;57
+r;29910460;14358;1844786;11;57
+r;29913716;14358;1835675;11;57
+r;30016917;14358;1858087;11;57
+r;30689286;14358;1904336;11;57
+r;52443576;14358;2569705;11;57
+r;78335630;14358;3232126;11;57
+r;83669621;14358;3319809;11;57
+r;121039376;14358;6450895;11;57
+r;267807;14358;161038;11;58
+r;27665664;14358;1665207;11;58
+r;28515444;14358;1735640;11;58
+r;29483466;14358;1801142;11;58
+r;29849883;14358;1852386;11;58
+r;29862680;14358;1849679;11;58
+r;29867994;14358;1848551;11;58
+r;29880133;14358;1846248;11;58
+r;29880942;14358;1846017;11;58
+r;29880950;14358;1846015;11;58
+r;29881065;14358;1845993;11;58
+r;29887304;14358;1844583;11;58
+r;29894249;14358;1843209;11;58
+r;29903795;14358;1841504;11;58
+r;29917878;14358;1828819;11;58
+r;29963876;14358;1856863;11;58
+r;30047228;14358;1858244;11;58
+r;78899841;14358;3261480;11;58
+r;78901519;14358;3260516;11;58
+r;108352243;14358;5517115;11;58
+r;26627457;14358;1651705;11;59
+r;26627540;14358;1651704;11;59
+r;29856480;14358;1850962;11;59
+r;29864647;14358;1849276;11;59
+r;29880986;14358;1846007;11;59
+r;29881008;14358;1846004;11;59
+r;29885115;14358;1845072;11;59
+r;29909813;14358;1849951;11;59
+r;29911282;14358;1839803;11;59
+r;29913724;14358;1835674;11;59
+r;30006376;14358;1857699;11;59
+r;48900054;14358;2356765;11;59
+r;82007281;14358;3295083;11;59
+r;87469597;14358;3437614;11;59
+r;17697512;14358;572353;11;60
+r;28534849;14358;1737515;11;60
+r;29859089;14358;1850377;11;60
+r;29864658;14358;1849274;11;60
+r;29870212;14358;1848070;11;60
+r;29880976;14358;1846009;11;60
+r;29881061;14358;1845994;11;60
+r;29881113;14358;1845981;11;60
+r;29883909;14358;1845359;11;60
+r;29884263;14358;1845283;11;60
+r;29886454;14358;1844755;11;60
+r;29889281;14358;1844214;11;60
+r;52458395;14358;2538098;11;60
+r;29851392;14358;1852062;11;61
+r;29854298;14358;1851408;11;61
+r;29868278;14358;1848503;11;61
+r;29879579;14358;1846379;11;61
+r;29880958;14358;1846013;11;61
+r;29880962;14358;1846012;11;61
+r;29889261;14358;1844218;11;61
+r;29889838;14358;1844086;11;61
+r;29913040;14358;1837026;11;61
+r;29915636;14358;1833389;11;61
+r;29917649;14358;1829096;11;61
+r;30006378;14358;1857698;11;61
+r;29858659;14358;1850494;11;62
+r;29863107;14358;1849579;11;62
+r;29868072;14358;1848538;11;62
+r;29870587;14358;1847995;11;62
+r;29880886;14358;1846031;11;62
+r;29880970;14358;1846010;11;62
+r;29885712;14358;1844911;11;62
+r;29886011;14358;1844852;11;62
+r;29886125;14358;1844830;11;62
+r;29848363;14358;1852906;11;63
+r;29849887;14358;1852385;11;63
+r;29850896;14358;1852159;11;63
+r;29879187;14358;1846466;11;63
+r;29890687;14358;1843924;11;63
+r;29894065;14358;1843257;11;63
+r;29862676;14358;1849680;11;64
+r;29864995;14358;1849191;11;64
+r;29880966;14358;1846011;11;64
+r;29881002;14358;1846005;11;64
+r;29881045;14358;1845998;11;64
+r;29883668;14358;1845406;11;64
+r;29917892;14358;1828817;11;64
+r;29851680;14358;1852002;11;65
+r;29852851;14358;1851732;11;65
+r;29864941;14358;1849201;11;65
+r;29867778;14358;1848615;11;65
+r;29868452;14358;1848470;11;65
+r;29868652;14358;1848436;11;65
+r;29880740;14358;1846084;11;65
+r;29881041;14358;1845999;11;65
+r;29890568;14358;1843946;11;65
+r;29892897;14358;1843479;11;65
+r;29900758;14358;1842212;11;65
+r;29912168;14358;1838399;11;65
+r;29912652;14358;1837789;11;65
+r;29859097;14358;1850376;11;66
+r;29880217;14358;1846227;11;66
+r;29883194;14358;1845512;11;66
+r;29886207;14358;1844812;11;66
+r;29889285;14358;1844213;11;66
+r;29899909;14358;1842455;11;66
+r;29913297;14358;1836497;11;66
+r;29851240;14358;1852090;11;67
+r;29877409;14358;1846818;11;67
+r;29880930;14358;1846021;11;67
+r;29881020;14358;1846002;11;67
+r;29880954;14358;1846014;11;68
+r;29881069;14358;1845992;11;68
+r;29889111;14358;1844250;11;68
+r;29889387;14358;1844188;11;68
+r;29902397;14358;1841814;11;68
+r;29865197;14358;1849154;11;69
+r;29880934;14358;1846020;11;69
+r;29890972;14358;1843859;11;69
+r;13692464;14358;394045;11;74
+r;12567627;14358;383482;11;101
+r;12567631;14358;383481;11;101
+r;12567689;14358;383466;11;101
+r;12567701;14358;383464;11;101
+r;12567713;14358;383461;11;101
+r;12567721;14358;383459;11;101
+r;12567749;14358;383452;11;101
+r;12697311;14358;351507;11;101
+r;13029624;14358;391089;11;101
+r;12567611;14358;383486;11;102
+r;12567687;14358;383467;11;102
+r;12567741;14358;383454;11;102
+r;12662361;14358;360114;11;102
+r;12567669;14358;383472;11;103
+r;12567705;14358;383463;11;103
+r;12567725;14358;383458;11;103
+r;12567615;14358;383485;11;104
+r;12567607;14358;383487;11;105
+r;12567623;14358;383483;11;105
+r;12567679;14358;383469;11;105
+r;12567737;14358;383455;11;105
+r;12706089;14358;349283;11;105
+r;12763535;14358;335550;11;105
+r;12567603;14358;383488;11;106
+r;12567709;14358;383462;11;106
+r;12567761;14358;383449;11;106
+r;12083016;14358;331372;11;107
+r;12567675;14358;383470;11;107
+r;12567745;14358;383453;11;107
+r;12567757;14358;383450;11;107
+r;12567695;14358;383465;11;108
+r;12567717;14358;383460;11;108
+r;12648147;14358;363570;11;108
+r;12567599;14358;383489;11;109
+r;12567683;14358;383468;11;109
+r;12567729;14358;383457;11;109
+r;12567733;14358;383456;11;109
+r;12567753;14358;383451;11;109
+r;12661199;14358;360386;11;109
+r;12567619;14358;383484;11;110
+r;12567637;14358;383480;11;110
+r;12567673;14358;383471;11;110
+r;11869407;14358;60206;11;121
+r;9003567;14358;318424;11;148
+r;9003570;14358;318427;11;148
+r;9003572;14358;318428;11;148
+r;9009247;14358;318776;11;148
+r;9028360;14358;319388;11;148
+r;10734254;14358;325275;11;148
+r;8921180;14358;316713;11;151
+r;8631069;14358;167620;11;161
+r;8690859;14358;218047;11;161
+r;8692813;14358;221343;11;161
+r;8694700;14358;224050;11;161
+r;8695317;14358;224993;11;161
+r;8696407;14358;226783;11;161
+r;8702605;14358;234919;11;161
+r;8705948;14358;239138;11;161
+r;8711371;14358;247978;11;161
+r;8719464;14358;255173;11;161
+r;8722656;14358;257443;11;161
+r;8723289;14358;257924;11;161
+r;8724246;14358;258568;11;161
+r;8729433;14358;262563;11;161
+r;8730906;14358;263635;11;161
+r;8687715;14358;212238;11;162
+r;8689952;14358;215551;11;162
+r;8635476;14358;176572;11;163
+r;8640417;14358;182607;11;163
+r;8643151;14358;184242;11;163
+r;8643578;14358;184499;11;163
+r;8643581;14358;184500;11;163
+r;8643583;14358;184501;11;163
+r;8643585;14358;184502;11;163
+r;8643587;14358;184503;11;163
+r;8643589;14358;184504;11;163
+r;8643591;14358;184505;11;163
+r;8643593;14358;184506;11;163
+r;8643683;14358;184566;11;163
+r;8643903;14358;184700;11;163
+r;8747137;14358;279674;11;163
+r;8749250;14358;281914;11;163
+r;8755504;14358;287774;11;163
+r;8755506;14358;287775;11;163
+r;8755509;14358;287776;11;163
+r;8755511;14358;287777;11;163
+r;8760089;14358;292320;11;163
+r;8763435;14358;296288;11;163
+r;8763437;14358;296289;11;163
+r;8764230;14358;297251;11;163
+r;8777248;14358;311273;11;164
+r;164380;14358;154381;11;189
+r;194066;14358;82500;11;189
+r;244902;14358;159553;11;189
+r;195579;14358;155705;11;199
+r;194067;14358;155636;11;209
+r;163005;14358;154301;11;219
+r;136143;14358;153378;11;279

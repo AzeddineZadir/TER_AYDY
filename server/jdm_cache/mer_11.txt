@@ -1,0 +1,2586 @@
+
+e;146105;'mer';1;9176
+e;10335061;'portneuf-sur-mer';777;0
+e;11387822;'loguivy-de-la-mer';777;0
+e;6290681;'lion de mer austral';1;0
+e;6291068;'serpent de mer à bec';1;0
+e;6292087;'aigle de mer du sud';1;0
+e;6303149;'effets toxiques de substances nocives absorbées par le biais de fruits de mer';1;0
+e;6305648;'eaux de mer';1;0
+e;6319678;'petite poule de mer arctique';1;0
+e;6338559;'concombre de mer japonais';1;0
+e;6342967;'variole des lions de mer';1;0
+e;6346177;'petit serpent de mer';1;0
+e;6350276;'histiocyte bleu de mer';1;0
+e;6352414;'lièvres de mer';1;0
+e;6353453;'mer nord';1;0
+e;6356095;'tortue de mer véritable';1;0
+e;6374490;'petite poule de mer atlantique';1;0
+e;6385579;'aigle de mer taureau';1;0
+e;6389174;'petite poule de mer ronde';1;0
+e;6394589;'pêcheur en haute mer';1;0
+e;6396578;'Éléphant de mer';1;0
+e;6396591;'ortie de mer de la côte est';1;0
+e;6398270;'poule de mer ventrue';1;0
+e;6398554;'glands de mer';1;0
+e;6402413;'serpent de mer à queue pointue';1;0
+e;6419458;'luciférases des pensées de mer';1;0
+e;6419804;'fruit de mer non précisé';1;0
+e;12072168;'port-bail-sur-mer';777;0
+e;12180277;'détermination de la présence de poisson d'eau de mer ac ige classification rast';1;0
+e;12983001;'Citron de mer';777;0
+e;6369434;'ours de mer';1;0
+e;6309069;'guêpes de mer';1;0
+e;13588244;'mer intérieure russe';1;0
+e;13588258;'conduites d'eau de mer';1;0
+e;13684714;'banquise de mer';777;0
+e;6329596;'ortie de mer de la côte ouest';1;0
+e;13989359;'mer ridée';777;0
+e;14075830;'lion de mer du sud';1;0
+e;14075831;'lion de mer de Patagonie';1;0
+e;14075829;'lion de mer sud-américain';1;0
+e;14388922;'La Magicienne de la mer';777;0
+e;14439396;'gagner la haute mer';1;0
+e;14490658;'Les caravelles en haute mer';777;0
+e;14548512;'ouvrages de protection contre la mer';777;0
+e;14580996;'fumée de mer arctique ou antarctique';777;0
+e;14585360;'La Rose de la mer de Paul Vialar';777;0
+e;14600284;'mer Hyrcanienne';777;0
+e;14600285;'mer Hvalissienne';777;0
+e;14609313;'personne à la mer';1;0
+e;14612299;'déboucher sur la mer';1;0
+e;14612288;'niveau actuel de la mer';1;0
+e;14631063;'armées françaises de terre et de mer';1;0
+e;14633212;'plaque de la mer des Philippines';777;0
+e;14633214;'plaque de la mer des Moluques';777;0
+e;14635424;'ravitaillement à la mer';1;0
+e;14637411;'limite transversale de la mer';777;0
+e;14657305;'le soutien aux politiques publiques de la mer et du littoral';777;0
+e;15937666;'trigle hirondelle de mer';1;0
+e;14875041;'jonc de mer';1;0
+e;14902232;'droit de la mer en temps de paix';777;0
+e;15166667;'marché de gros de fruits de mer de Chine du Sud';777;0
+e;6320322;'intoxication paralysante par fruits de mer';1;0
+e;6339113;'intoxication neurotoxique par fruits de mer';1;0
+e;15695392;'la petite mer de Gâvres';777;0
+e;15695391;'petite mer de Gâvres';777;0
+e;15791484;'piraterie en mer de Chine';777;0
+e;15791485;'pirates de la mer de Chine méridionale';777;0
+e;16325919;'tonneau de mer anglais';777;0
+e;16385115;'mettre à la mer';1;0
+e;10672498;'communauté de communes mer et terres d'Opale';777;0
+e;15027616;'alouettes de mer';1;0
+e;6289928;'noyade et submersion dans pleine mer';1;0
+e;6291983;'pensée de mer';1;0
+e;6298998;'eau mer';1;0
+e;6378507;'autres fruits de mer';1;0
+e;6393583;'pêcheuse en haute mer';1;0
+e;12979839;'Cochons de mer';777;0
+e;6302891;'effet toxique d'autres fruits de mer';1;0
+e;6355182;'effet toxique d'un fruit de mer non précisé';1;0
+e;14538937;'vacances au bord de la mer';1;4
+e;14561196;'coucher de soleil sur la mer';1;0
+e;14589899;'se jeter dans la mer';1;0
+e;14654406;'jeté à la mer';1;0
+e;14668641;'poux de mer';1;2
+e;14718781;'vent de la mer';1;12
+e;14730158;'naufrage en mer';1;0
+e;15016207;'comptoirs italiens en mer Noire et en Méditerranée';777;0
+e;16163861;'tortues de mer';1;0
+e;16163995;'être plate comme l'autoroute de la mer';1;0
+e;5725903;'dayak de la mer';777;0
+e;6309165;'histiocytose bleu de mer';1;0
+e;12115575;'Patrick Étoile de mer';777;0
+e;12940572;'Péril en mer';777;0
+e;15031515;'appareils de distillation de l'eau de mer';1;0
+e;5796784;'Un royaume sous la mer de Henri Queffélec';777;0
+e;6100640;'Trafic en haute mer';777;0
+e;6429324;'éléphant de mer septentrional';1;0
+e;6310065;'canari de mer';1;0
+e;10985498;'Compagnies ordinaires de la mer';777;0
+e;12103997;'poisson d'eau de mer ac ige classification rast';1;0
+e;13536305;'plaque de la mer Égée';1;0
+e;16367777;'des vacances au bord de la mer';1;0
+e;1852726;'histiocyte &quot;bleu de mer&quot;';1;0
+e;2397905;'datte-de-mer';1;0
+e;10618346;'phare en haute mer';1;0
+e;10618344;'phare en mer';1;0
+e;10876432;'être détruit par la mer';1;0
+e;10987393;'Le Christ dans la tempête sur la mer de Galilée';777;0
+e;10987440;'Îles de la mer de Corail';777;0
+e;11774483;'pseudochromis de la mer Rouge';1;0
+e;11774310;'poisson-lime à long nez de la mer Rouge';1;0
+e;15413773;'d'outre-mer';1;0
+e;15220161;'des pâtes aux fruits de mer';1;0
+e;15413732;'donner le mal de mer';1;0
+e;15320673;'embarquer des paquets de mer';1;0
+e;15270695;'en bord de mer';1;0
+e;15320030;'en mer Arctique';1;0
+e;15198702;'en mer Caspienne';1;0
+e;15255203;'en mer Méditerranée';1;0
+e;15194808;'en mer Noire';1;0
+e;15196711;'en mer Rouge';1;0
+e;15376727;'en mer du Nord';1;0
+e;15313728;'en mer profonde';1;0
+e;15257772;'en pleine mer';1;0
+e;15337609;'en très haute mer';1;0
+e;2376702;'coco-de-mer';1;0
+e;5711218;'Un royaume sous la mer d'Henri Queffélec';777;0
+e;5684787;'Ange de mer impérial';777;0
+e;5684539;'acacia bord de mer';777;0
+e;5808275;'bruit de mer zéro';777;0
+e;9959163;'mer Euboïque';777;0
+e;9989933;'Le Chant de la mer';777;0
+e;9990172;'Une bouteille dans la mer de Gaza';777;0
+e;10599799;'Les Cadets de la mer';777;0
+e;10876430;'détruit par la mer';1;0
+e;10909349;'patinoire de Caen la mer';777;0
+e;10903877;'route du bord de mer';777;0
+e;10914282;'Neis bourse de mer';777;0
+e;11774123;'poisson-ange lyre de la mer Rouge';1;0
+e;11774186;'poisson-cocher de la mer Rouge';1;0
+e;15309659;'commerce de mer';1;0
+e;15376729;'commission de la mer du Nord';1;0
+e;16042414;'coq-de-mer';1;0
+e;16163718;'course en mer';1;4
+e;5816611;'mer de Galilée';777;0
+e;5907257;'Chien de mer marbré';777;0
+e;5907253;'chien tasmanien ou chien de mer de Tasmanie';777;0
+e;5906728;'Les Seigneurs de la mer';777;0
+e;5906413;'brème de la mer Noire';777;0
+e;6080859;'Marquage de l'action de l'État en mer';777;0
+e;6070182;'mer du Scotia';777;0
+e;6070181;'mer de Scotia';777;0
+e;6070139;'Le monstre vient de la mer';777;0
+e;6069825;'système mondial de détresse et de sécurité en mer';777;0
+e;6069812;'Règlement international pour prévenir les abordages en mer';777;0
+e;6069658;'Poème de l'amour et de la mer op. 19';777;0
+e;6069517;'Périple de la mer Érythrée';777;0
+e;6069083;'liste des îles de la mer Méditerranée';777;0
+e;6069082;'liste des ports de la mer Méditerranée';777;0
+e;6068977;'Entre terre et mer';777;0
+e;9965936;'canal de la mer Blanche';777;0
+e;9982326;'La Cité sous la mer';777;0
+e;9979166;'partir à la mer';1;0
+e;10005086;'Les Hommes de la mer';777;0
+e;10005085;'Patrouille en mer';777;0
+e;10578111;'La Dame de la mer';777;0
+e;10577578;'L'Amour à la mer';777;0
+e;10596558;'musée de la mer';777;0
+e;10913904;'La Rose de la mer';777;0
+e;10989950;'L'Invasion de la mer';777;0
+e;10990025;'animal de mer';1;0
+e;11028740;'liane à barrique bord de mer';777;0
+e;11057030;'outre de mer';777;0
+e;11057123;'fraise de mer';777;0
+e;11823772;'Grand écureuil de mer';777;0
+e;15321388;'au niveau de la mer';1;0
+e;15321381;'au-dessous du niveau de la mer';1;0
+e;15360083;'ayant le mal de mer';1;0
+e;15270704;'bord de la mer';1;0
+e;15392476;'bras de la mer';1;0
+e;16029408;'c'est pas la mer à boire';1;0
+e;15413726;'c'est une goutte d'eau dans la mer';1;0
+e;13749593;'c0b famille scyliorhinidae - scyliorhinidés - holbiches, requins-chats, chiens de mer, roussettes (requins)';1;0
+e;13745536;'c0f famille squatinidae - squatinidés - anges de mer';1;0
+e;13780723;'c15 famille myliobatidae - myliobatidés - aigles de mer';1;0
+e;13755386;'c1d famille albulidae - albulidés - bananes de mer, albules';1;0
+e;13745618;'c26 famille ophichthidae - ophichthidés - serpents de mer';1;0
+e;13793964;'c73 famille centriscidae - centriscidés - bécasses de mer';1;0
+e;13791706;'ca9 famille anarhichadidae - anarhichadidés - loups de mer';1;0
+e;15390892;'canotage en mer';1;0
+e;15530870;'ceint par la mer';1;0
+e;5635914;'groseilles de mer';777;0
+e;5635610;'rose de mer';777;0
+e;5629742;'Brème de mer';777;0
+e;5829130;'haricot de la mer';777;0
+e;5827711;'oreilles de mer';777;0
+e;5836841;'société nationale de sauvetage en mer';777;0
+e;6080857;'marquages de l'action de l'État à la mer';777;0
+e;6070264;'action de l'État en mer';777;0
+e;6069210;'Gueux de mer';777;0
+e;9966386;'Allemands de la mer Noire';777;0
+e;9985909;'Quand la mer monte';777;0
+e;10963820;'Les Ombres de la mer';777;0
+e;10959086;'Chemin de fer de Paris à la mer';777;0
+e;11354561;'syndrome du dépérissement de l'étoile de mer';777;0
+e;11354368;'étoile de mer rouge';777;0
+e;11354201;'concombre de mer ensablé';777;0
+e;11354200;'concombre de mer à points blancs';777;0
+e;11354185;'concombre de mer épineux';777;0
+e;11359830;'hélicoptère de sauvetage en mer';1;0
+e;6337945;'chauve-souris de mer épineuse';1;0
+e;12600358;'biche-de-mer';1;0
+e;12900597;'grande fête internationale de la mer, des bateaux et des marins';1;0
+e;16325857;'Le bateau prend la mer à huit heures.';1;0
+e;16279327;'Lièvre de mer commun';777;0
+e;15355242;'assiette de fruits de mer';1;0
+e;15360073;'atteint par le mal de mer';1;0
+e;16258395;'Qu'il est doux quand les vents lèvent la mer immense';777;0
+e;5629808;'spécialités de la mer';777;0
+e;11029231;'mer pontique';777;0
+e;10742293;'peuples étrangers de la mer';777;0
+e;11060427;'bataille de la mer Jaune';777;0
+e;11060339;'flotte de la mer Noire';777;0
+e;11062039;'espèce pélagique d'oiseaux de mer';1;0
+e;11063194;'sismomètre fond de mer';777;0
+e;11072370;'mariage avec la mer';777;0
+e;11348985;'Les Mousquetaires de la mer';777;0
+e;11349106;'notre mer';777;0
+e;11354462;'développement larvaire des étoiles de mer';777;0
+e;11405175;'la marche en mer';777;0
+e;11407522;'mer intérieure nord-américaine';777;0
+e;11407521;'mer de Niobraran';777;0
+e;11787891;'collectivité d´outre mer';777;0
+e;11821405;'éolien en mer flottant';1;0
+e;11994803;'revendications de souveraineté en mer de Chine méridionale';777;0
+e;13049458;'petite cigale de mer';1;0
+e;13536273;'contentieux gréco-turc en mer Égée';1;0
+e;15485867;'Le rocher surplombe la mer de 200m.';1;0
+e;15212358;'N'importe qui peut tenir la barre quand la mer est calme.';1;0
+e;15788749;'Société nationale de sauvetage en mer';777;0
+e;15952241;'Un homme à la mer !';1;0
+e;15225814;'Un ruisseau serpentait jusqu'à la mer.';1;0
+e;15788762;'Vick et Vicky et les sauveteurs en mer contre les voleurs de cerveaux';777;0
+e;15360078;'a le mal de mer';1;0
+e;15378406;'aller en classe de mer';1;0
+e;15321382;'altitude au-dessus du niveau de la mer';1;0
+e;16133279;'Port de mer au soleil couchant';777;0
+e;16238699;'Phénomènes liés à l'action de la mer';777;0
+e;16387550;'Mieux connaître la mer et les océans';777;0
+e;16391668;'Un marin rentre chez lui après 78 jours en mer';777;0
+e;5900783;'Terreur sous la mer';777;0
+e;5923358;'barattage de la mer de lait';777;0
+e;5920406;'Tempête de neige en mer';777;0
+e;5919991;'Traité de la mer de Timor entre le gouvernement du Timor oriental et le Gouvernement australien';777;0
+e;5919988;'Traité de la mer de Timor';777;0
+e;5954158;'Les Monstres de la mer';777;0
+e;6422641;'lion de mer de la californie';1;0
+e;10936709;'mer croisée';777;0
+e;11027080;'Loge de mer';777;0
+e;11354343;'concombre de mer jaune';777;0
+e;11411954;'avoir un accès à la mer';777;0
+e;11697665;'fête de la mer';777;0
+e;11788383;'raz-de-marée en mer du Nord en 1953';777;0
+e;12079881;'mer de silicium';1;0
+e;12075663;'rift de la mer du Nord';777;0
+e;15920929;'Les huit immortels traversent la mer';777;0
+e;2376703;'cocotier de mer';777;0
+e;2392595;'Organisation de coopération économique de la mer Noire';1;0
+e;5806902;'barrage de mines de la mer du Nord';777;0
+e;5894428;'Arborescence de la mer du Nord';777;0
+e;5892646;'lion de mer de Steller';777;0
+e;5903003;'Crapaud de mer';777;0
+e;5919785;'accès à un port de mer';777;0
+e;5912591;'produits imitant les fruits de la mer';1;0
+e;5944260;'le cheval venu de la mer';777;0
+e;5941158;'liste des fermes éoliennes en mer';777;0
+e;5996226;'bord-de-mer';1;0
+e;6444329;'venin d'anémones de mer';1;0
+e;10834826;'Conseil des États de la mer Baltique';777;0
+e;10929933;'conservatoire à rayonnement régional de Caen la mer';777;0
+e;10936393;'parc éolien en mer';1;0
+e;10996548;'la mer de sable';777;0
+e;11062040;'espèce d'oiseaux de mer';1;0
+e;11360725;'conflit en mer de Chine méridionale';777;0
+e;11361500;'mer de l'Ob';777;0
+e;11361451;'mer de Kouïbychev';777;0
+e;11409506;'plaque de la mer des Salomon';777;0
+e;11410319;'Un Homer à la mer';777;0
+e;11412923;'régions de la mer du Nord';777;0
+e;11697685;'écomusée de la pêche et de la mer';777;0
+e;11697921;'chapelle à la mer';777;0
+e;12077078;'aquarium d'eau de mer';1;0
+e;12079557;'laisse de pleine mer';1;0
+e;2373682;'tenir la mer';1;0
+e;2382292;'mer de Chine méridionale';1;0
+e;2425492;'guitare de mer fouisseuse';1;0
+e;5900371;'Écureuil de la mer des Caraïbes';777;0
+e;5897966;'écrevisse de la mer Caspienne';777;0
+e;6000958;'mer des Pluies';777;0
+e;6422281;'chiens de mer';1;0
+e;10315345;'mer de Rybinsk';777;0
+e;10311954;'Entre la mer et l'eau douce';777;0
+e;10327453;'Les Loups de haute mer';777;0
+e;10933841;'traverser un bras de mer';1;0
+e;11100445;'Bord de mer';777;0
+e;11578444;'L'Orphelin de mer... ou les Mémoires de monsieur Non d'Éric Ollivier';777;0
+e;11839852;'château de mer';777;0
+e;12005967;'Au bord de la mer bleue';777;0
+e;12050462;'préparer des plats à base de poissons et de fruits de mer';1;0
+e;12050427;'cuisiner des fruits de mer';1;0
+e;12050423;'conseiller des clients sur des sélections de fruits de mer';1;0
+e;12076907;'accouplement en mer';1;0
+e;2388452;'race bovine du littoral de la mer du Nord';1;0
+e;2408782;'guitare de mer';1;0
+e;2469190;'anémone de mer verte';1;0
+e;5805814;'Poissons et fruits de mer';777;0
+e;6000981;'mer des Nuées';777;0
+e;6000975;'mer des Humeurs';777;0
+e;8197265;'domination de la mer';1;0
+e;9950368;'Moïse et Pharaon ou le Passage de la mer Rouge';777;0
+e;9946531;'marche de Sherman vers la mer';777;0
+e;10045912;'Seul en mer';777;0
+e;10341496;'Au péril de la mer';777;0
+e;10775832;'Crime en haute mer';777;0
+e;10791546;'schéma de mise en valeur de la mer';777;0
+e;10790990;'Les Chemins de la mer';777;0
+e;10822547;'accès à la mer';1;0
+e;10844740;'insigne de combat de la flotte de haute mer';777;0
+e;11148027;'mer des Étoiles déchues';777;0
+e;11502903;'pelote de mer';777;0
+e;11839679;'liste des communes françaises riveraines de l'océan ou de la mer';777;0
+e;12050451;'transformation des fruits de mer';1;0
+e;12081721;'vier de mer';1;0
+e;2376705;'coco de mer';777;0
+e;2428123;'aigle de mer commun';1;0
+e;2450833;'mer de la Sérénité';1;0
+e;5535820;'bataille de la mer d'Arafura';777;0
+e;5884552;'fil de mer';777;0
+e;5939320;'littoral de la mer du Nord';777;0
+e;6693797;'potage à base de produits de la mer';1;0
+e;10061268;'Odyssée sous la mer';777;0
+e;10194298;'mer Cantabrique';777;0
+e;11256020;'convention sur le statut de la mer Caspienne';777;0
+e;11544029;'mer de Koro';777;0
+e;11544406;'gueux de mer';777;0
+e;11590832;'Association des agences de presse nationales de la mer Noire';777;0
+e;11654243;'champs Phlégréens de la mer de Sicile';777;0
+e;2425277;'rose-de-mer';1;0
+e;2473332;'laisse de basse mer';1;0
+e;5536689;'Le Serpent de mer';777;0
+e;5624202;'Canal maritime de Marans à la mer';777;0
+e;5903024;'crapaud de mer nain';777;0
+e;5902349;'Ange de mer de sable';777;0
+e;10049760;'L'aventure vient de la mer';777;0
+e;10049650;'Âmes à la mer';777;0
+e;10047067;'Vue sur mer';777;0
+e;10063282;'araignées de mer';777;0
+e;11302456;'papillons de mer';777;0
+e;11383890;'gouvernorat de la mer Rouge';777;0
+e;11553736;'forêts sclérophylles et mixtes de la mer Égée et de Turquie occidentale';777;0
+e;11553402;'Établissement national des produits de l'agriculture et de la mer';777;0
+e;13400872;'Lion de mer';777;0
+e;2375296;'oursin de mer';1;0
+e;2463015;'grand aigle de mer';1;0
+e;5894289;'Les Secrets de la 7e mer';777;0
+e;5982337;'Tribunal international du droit de la mer';777;0
+e;9950997;'mer des Philippines';777;0
+e;10065231;'routes du bord de mer corse';777;0
+e;10191032;'rapport de mer';777;0
+e;10190221;'vue sur mer';777;0
+e;10517711;'Un couple à la mer';777;0
+e;10516479;'Les Chiens de mer';777;0
+e;11146920;'naviguer sur mer';1;0
+e;11553888;'seconde bataille de la mer de Java';777;0
+e;11575389;'Le Voyageur contemplant une mer de nuages';777;0
+e;13406943;'mer lunaire';1;2
+e;2475573;'mer de Bligh';1;0
+e;5903568;'Chien de mer de corail';777;0
+e;5903019;'crapaud de mer à épines courtes';777;0
+e;5902382;'Ange de mer de l'Atlantique';777;0
+e;6002312;'Lever de lune sur la mer';777;0
+e;6000934;'mer des Crises';777;0
+e;6445119;'protéase a de l'anémone de mer';1;0
+e;10069557;'Un balcon sur la mer';777;0
+e;10069252;'Au péril de la mer de Bruno Racine';777;0
+e;10507548;'gang de la Brise de mer';777;0
+e;10548834;'La Radio de la mer';777;0
+e;11303955;'étoile de mer polaire';777;0
+e;11303964;'étoile de mer cloutée';777;0
+e;11373456;'directions de la mer';777;0
+e;11373454;'directions interrégionales de la mer';777;0
+e;11373441;'Bureau d'enquêtes sur les événements de mer';777;0
+e;11378141;'Convention sur la protection de la mer Noire';777;0
+e;2385640;'ortie de mer';1;0
+e;2390900;'jet à la mer';1;0
+e;2447494;'mer de la Tranquillité';1;0
+e;2467457;'panthère de mer';1;0
+e;5624176;'canal de Caen à la mer';777;0
+e;5893758;'vison de mer';777;0
+e;5902411;'Ange de mer nébuleux';777;0
+e;5901372;'Perche de mer pourpre';777;0
+e;5943513;'autoroute de la mer';777;4
+e;5940430;'Pêcheurs en mer';777;0
+e;10090976;'Une pyramide sur la mer';777;0
+e;10095853;'mer d'Alboran';777;0
+e;10095932;'mer d'Aral septentrionale';777;0
+e;10095930;'petite mer d'Aral';777;0
+e;10095927;'mer de Visayan';777;0
+e;10095926;'mer de la Sonde';777;0
+e;10095923;'mer de Sibuyan';777;0
+e;10095922;'mer de Ceram';777;0
+e;10095921;'mer de Seram';777;0
+e;10095920;'mer de Sawu';777;0
+e;10095919;'mer de Savu';777;0
+e;10095916;'mer d'Okhotsk';777;0
+e;10095915;'mer des Moluques';777;0
+e;10095914;'mer de Luçon';777;0
+e;10095912;'mer de Halmahera';777;0
+e;10095910;'mer de Florès';777;0
+e;10095906;'mer de Sulawesi';777;0
+e;10095905;'mer de Célèbes';777;0
+e;10095900;'mer des Camotes';777;0
+e;10095899;'mer de Mindanao';777;0
+e;10095898;'mer de Bohol';777;0
+e;10095897;'mer de Banda';777;0
+e;10095894;'mer de Bali';777;0
+e;10095893;'mer de Timor';777;0
+e;10095891;'mer des Laquedives';777;0
+e;10095888;'mer d'Urville';777;0
+e;10095887;'mer Dumont-d'Urville';777;0
+e;10095886;'mer de Somov';777;0
+e;10095884;'mer de Riiser Larsen';777;0
+e;10095883;'mer de Mawson';777;0
+e;10095882;'mer de Lazarev';777;0
+e;10095881;'mer de Mackenzie';777;0
+e;10095880;'mer de l'Entente';777;0
+e;10095879;'mer de Davis';777;0
+e;10095878;'mer des Cosmonautes';777;0
+e;10095877;'mer de Bellingshausen';777;0
+e;10095875;'mer d'Amundsen';777;0
+e;10095871;'mer de Sicile';777;0
+e;10095870;'mer de Sardaigne';777;0
+e;10095867;'mer de Libye';777;4
+e;10095866;'mer de Thrace';777;0
+e;10095865;'mer Icarienne';777;0
+e;10095860;'mer Myrtoenne';777;0
+e;10095859;'mer de Myrto';777;0
+e;10095858;'mer de Crète';777;0
+e;10095855;'mer Ibérique';777;0
+e;10095854;'mer des Baléares';777;0
+e;10095852;'mer d'Irminger';777;0
+e;10095851;'mer des Hébrides';777;0
+e;10095850;'mer d'Écosse';777;0
+e;10095819;'mer d'Argentine';777;0
+e;10095818;'mer des Tchouktches';777;0
+e;10095817;'mer du Prince-Gustave-Adolphe';777;0
+e;10095816;'mer de Melville';777;0
+e;10095815;'mer de Lincoln';777;0
+e;10095814;'mer de Beaufort';777;0
+e;10095807;'secrétariat général de la mer';777;0
+e;10095780;'mer méditerranée';777;0
+e;10095779;'mer intramontagneuse';777;0
+e;10095778;'mer méditerranéenne';777;0
+e;10095746;'mer Celtique';777;0
+e;10118924;'Une ville près de la mer';777;0
+e;10118522;'Un drame au bord de la mer';777;0
+e;10185934;'mer de Paille';777;0
+e;11174729;'grand commandeur deçà mer';777;0
+e;11218754;'Lion de mer de Californie';777;0
+e;11218773;'lion de mer australien';777;0
+e;11222011;'liste des îles de la mer Baltique';777;0
+e;11373470;'syndics des gens de mer';777;0
+e;11373442;'BEA mer';777;0
+e;11373452;'École nationale de la sécurité et de l'administration de la mer';777;0
+e;11561022;'Tigres de mer';777;0
+e;11575391;'L'homme contemplant une mer de brume';777;0
+e;12278670;'nomades de la mer';777;0
+e;16103838;'Fricassée de la mer';777;0
+e;2402507;'guitare de mer commune';1;0
+e;5900850;'Arborescence de la mer Méditerranée';777;0
+e;5940409;'la mer de glace';777;0
+e;10457291;'La Créature de la mer hantée';777;0
+e;11162896;'mer de Céram';777;0
+e;11172802;'Journal des voyages et des aventures de terre et de mer';777;0
+e;11317243;'plaque de la mer de Banda';777;0
+e;12788953;'mer semi-fermée';1;0
+e;15279098;'La falaise tombe à pic dans la mer.';1;0
+e;15582833;'La mer est basse.';1;0
+e;15582835;'La mer est mauvaise.';1;0
+e;15293044;'La mer monte parfois jusqu'ici.';1;0
+e;15337600;'La mer sera haute à sept heures.';1;0
+e;2400049;'boire la mer et les poissons';1;0
+e;2479388;'tomate de mer';1;0
+e;5940426;'la maison sous la mer';777;0
+e;10174432;'Ombres sous la mer';777;0
+e;10428186;'Les Trafiquants de la mer';777;0
+e;11160429;'parc naturel marin de l'estuaire de la Gironde et de la mer des Pertuis';777;0
+e;11160522;'Le front de mer de Royan';777;0
+e;2362117;'marteau-de-mer';1;0
+e;2469715;'épinard de mer';1;0
+e;4315818;'haute-mer';1;0
+e;6000988;'mer des Vapeurs';777;0
+e;10156254;'Regarde la mer';777;0
+e;10143076;'Tom et Jerry et la Souris de mer';777;0
+e;11159190;'navigation en mer';777;0
+e;2446215;'aigle de mer léopard';1;0
+e;5897336;'serre à eau de mer';777;0
+e;6447207;'empoisonnement par l'oignon de mer';1;0
+e;11105548;'Parc naturel marin des estuaires picards et de la mer d'Opale';777;0
+e;2363688;'marteau de mer';1;0
+e;2367300;'évêque de mer';777;0
+e;5898061;'crevette d'eau de mer';1;0
+e;16096309;'D'une mer à l'autre';777;0
+e;2367109;'reprendre la mer';1;0
+e;2367129;'passer la mer aux harengs';1;0
+e;2434405;'ange de mer de Bonaparte';1;0
+e;5540472;'Écume de mer';777;0
+e;5982334;'Convention des Nations unies sur le droit de la mer';777;0
+e;2365306;'vent de mer';1;0
+e;2382901;'dragon de mer feuillu';1;0
+e;2437750;'corail de mer';1;0
+e;5897897;'produits de la mer';777;2
+e;5983859;'température de surface de la mer';777;0
+e;6000950;'mer de Humboldt';777;0
+e;6528168;'Les Dents de la mer 3';777;0
+e;5514375;'spécialité de la mer';1;0
+e;5902676;'Poisson-papillon masqué de mer Rouge';777;0
+e;5900032;'Poisson-papillon côtelé de mer Rouge';777;0
+e;8758175;'faire caca dans la mer';1;0
+e;8758174;'être dans la mer';1;0
+e;8758172;'faire pipi dans la mer';1;0
+e;8786066;'se perdre en mer';1;0
+e;8809248;'traverser une mer';1;0
+e;8852918;'mer Levantine';777;0
+e;8930424;'tempête en mer';1;2
+e;9101752;'fruits de mer façon bouillabaisse';1;0
+e;9101844;'soupe de fruits de mer en provenance de nouvelle-angleterre';1;0
+e;9101969;'pierrade de la mer';1;0
+e;9101884;'soupe de fruits de mer de nouvelle-angleterre facile';1;0
+e;9101988;'pierrade terre et mer';1;0
+e;9271095;'mer d'Arabie';777;2
+e;9271109;'mer arabique';777;0
+e;9448119;'préparer fruits de mer et coquillages';1;0
+e;9607586;'mer de Tyrrell';777;0
+e;9699438;'navire de haute mer';1;0
+e;9699437;'navires de haute mer';1;0
+e;10878861;'Coupe de la mer du Nord 2013-2014';777;0
+e;11107618;'bataille de la mer de Sardaigne';777;0
+e;11118315;'École des quartiers-maîtres de l'armée de mer';777;0
+e;11120191;'takamaka bord de mer';777;0
+e;11119211;'De la mer jusqu'à la mer';777;0
+e;11127554;'mer intracontinentale';1;0
+e;11129564;'Jour de la mer';777;0
+e;11129662;'jour de la mer';777;0
+e;11133166;'mer de Shiranui';777;0
+e;11133162;'mer d'Ariake';777;0
+e;11133164;'mer d'Amakusa';777;0
+e;11133165;'mer de Yatsushiro';777;0
+e;11572661;'Aasivissuit-Nipisat. Terres de chasse inuites entre mer et glace';777;0
+e;11575390;'Le Voyageur au-dessus de la mer de nuages';777;0
+e;12246663;'Un grosminet à la mer';777;0
+e;12495000;'mollusque bivalve d'eau de mer';1;0
+e;12600368;'mer de Harlem';1;0
+e;12600376;'mer de Myrtos';1;0
+e;12600383;'mer des Natuna';1;0
+e;12600360;'mer côtière de la côte ouest de l'Écosse';1;0
+e;12600390;'mer Érythrée';1;0
+e;12600381;'mer des Andaman';1;0
+e;12600395;'mer Verte';1;0
+e;12600363;'mer d'Aru';1;0
+e;12600378;'mer de Riiser-Larsen';1;0
+e;12600384;'mer des Salish';1;0
+e;12600382;'mer des Bismarck';1;0
+e;12600393;'mer Mauvaise';1;0
+e;12600392;'mer Intérieure';1;0
+e;12600364;'mer de Biscaye';1;0
+e;12600374;'mer de l'Ouest';1;0
+e;12600371;'mer de Kelah';1;0
+e;12600367;'mer de Corée';1;0
+e;12600387;'mer d'Hudson';1;0
+e;12600365;'mer de Botnie';1;0
+e;12600389;'mer du Soudan';1;0
+e;12600385;'mer des Visayas';1;0
+e;12600362;'mer d'Anadyr';1;0
+e;12600359;'mer Baltique centrale';1;0
+e;12600361;'mer d'Allemagne';1;0
+e;12600373;'mer de Larevy';1;0
+e;12600386;'mer d'Halmahera';1;0
+e;12600369;'mer de Herkend';1;0
+e;12600379;'mer de Schelahat';1;0
+e;12600380;'mer de Soudan';1;0
+e;12600394;'mer Polaire';1;0
+e;12600370;'mer de Hudson';1;0
+e;12600366;'mer de Cabot';1;0
+e;12600391;'mer Glaciale';1;0
+e;12600388;'mer d'Islande';1;0
+e;12600372;'mer de la Coopération';1;0
+e;12600377;'mer de Nigritie';1;0
+e;12600375;'mer de Mindoro';1;0
+e;12617373;'cabanon au bord de la mer';1;0
+e;12626324;'Natura 2000 en mer';777;0
+e;12690353;'aire marine protégée de la région de la mer de Ross';777;0
+e;12690360;'mer de Baga';777;0
+e;12690363;'mer d'Ibérie';777;0
+e;12690364;'mer Catalane';777;0
+e;12699807;'mer calme';1;0
+e;12714816;'collectivité d'outre mer';777;0
+e;12711338;'Les Aventuriers de la mer';777;0
+e;12710199;'parc naturel de la mer de Corail';777;0
+e;14228584;'Conseil international pour l'exploration de la mer';777;0
+e;14152624;'Compagnie ordinaire de la mer';777;0
+e;14748232;'De la mer';777;0
+e;14665036;'Ange de mer';777;0
+e;14665714;'Ange de mer argentin';777;0
+e;14665712;'Ange de mer épineux';777;0
+e;15521245;'Jeune saumon venant de s'adapter physiologiquement au passage dans l'eau de mer lors de sa migration';1;0
+e;14488712;'Fruits de mer';777;0
+e;15327674;'J'aime également la mer et la montagne.';1;0
+e;14678652;'Bécasse de mer';777;0
+e;14397338;'Compagnie de la mer du Sud';777;0
+e;14454915;'Conseil national de la mer et des littoraux';777;0
+e;14228583;'Convention pour la protection de la mer Méditerranée contre la pollution';777;0
+e;15355240;'Je n'aime pas les fruits de mer.';1;0
+e;16161227;'Bâtiments de haute mer';777;0
+e;16279449;'Ceux qui servent en mer';777;0
+e;439517;'mer Paratéthys';777;50
+e;569541;'cochons de mer';777;50
+e;1637828;'mer déchaînée';1;10
+e;1656125;'concombres de mer';777;0
+e;1706921;'en perdition en mer';1;0
+e;1801643;'île de la mer des Philippines';1;0
+e;1932400;'mer d'Émeraude';1;0
+e;1932399;'basse mer';1;0
+e;2340714;'Bataille de la mer Noire';777;0
+e;2359117;'paille de mer';1;0
+e;2604089;'mer d'Azof';1;0
+e;2609655;'poisson d'eau de mer';1;0
+e;3179250;'outres-mer';1;0
+e;3342250;'lions de mer';777;0
+e;3348628;'soleil de mer';1;0
+e;3371799;'tulipe de la mer';1;0
+e;3369889;'spaghetti aux fruits de mer';1;0
+e;3368341;'riz de la mer';1;0
+e;3367016;'poêlée de poireaux et fruits de mer';1;0
+e;3367009;'poêlée de fruits de mer';1;0
+e;3366191;'papillote de filet de la mer qui rend aimable';1;0
+e;3363475;'gratin de la mer aux champignons';1;0
+e;3363463;'gratin de fruits de mer simplissime';1;0
+e;3744109;'soupe de fruits de mer de Nouvelle-Angleterre facile';1;0
+e;3746043;'vol-au-vent faciles aux fruits de mer';1;0
+e;5518264;'escargots de mer';1;0
+e;462417;'Raisinier bord de mer';777;50
+e;569735;'aiguilles de mer';777;50
+e;570593;'chevaux de mer';777;50
+e;1765537;'mer de l'océan Austral';1;0
+e;1850643;'maladie des histiocytes bleu de mer';1;0
+e;1889942;'lion de mer de';777;0
+e;2339708;'laitue de mer';1;0
+e;2324527;'guitares de mer';777;0
+e;2359865;'ange de mer commun';1;0
+e;2556526;'lionne de mer';1;0
+e;2555799;'oreille de mer de Méditerranée';1;0
+e;3366944;'pizza aux fruits de mer';1;0
+e;3366943;'pizza aux fruits de la mer';1;0
+e;3365726;'gratin de fruits de mer, crabe et crevette';1;0
+e;3365717;'gratin aux fruits de mer, vite fait et bon !';1;0
+e;3365123;'omelette soufflée de la mer au tofu';1;0
+e;3363654;'gratinée terre et mer';1;0
+e;3363510;'gratin de patates douces aux fruits de mer';1;0
+e;3363462;'gratin de fruits de mer façon irène';1;0
+e;3361309;'croquettes de la mer';1;0
+e;3421667;'Haricot de mer';777;0
+e;3490569;'herbe de mer';777;0
+e;3743751;'soupe de fruits de mer en provenance de Nouvelle-Angleterre';1;0
+e;3747411;'Pierrade terre et mer';1;0
+e;3746723;'jambalaya de la mer';1;0
+e;3755130;'se mer au goût';1;0
+e;3906193;'mer de Wandel';1;0
+e;4333288;'nomade de la mer';1;0
+e;566944;'vessie de mer';777;50
+e;570984;'dattes de mer';777;50
+e;580172;'ange de mer épineux';777;0
+e;1233158;'elephant de mer';1;0
+e;1389811;'phares en mer d'Iroise';777;0
+e;2202743;'fronts de mer';2;0
+e;2551976;'vipères de mer';1;0
+e;2543007;'battre la mer';1;0
+e;2524010;'liseron de mer';1;0
+e;3359006;'amandes de mer farcies au jambon cru';1;0
+e;3367977;'quiche de la mer sans pate';1;0
+e;3367268;'porc mer et montagne';1;0
+e;3365394;'cur de filet de loup de mer, bar au four';1;0
+e;3363569;'gratin de poissons et de fruits de mer tout simple';1;0
+e;3363461;'gratin de fruits de mer de mamie zoizo';1;0
+e;3362117;'filet de loup de mer à la russe';1;0
+e;3362067;'feuilletés aux fruits de mer';1;0
+e;3423288;'Roquette de mer';777;0
+e;3746627;'salade de fruits de mer et de chou';1;0
+e;3746336;'Pierrade terre et mer';1;0
+e;3754478;'grosse se mer';1;0
+e;3753697;'fruits de mer surgelés';1;4
+e;4162413;'mer huileuse';1;0
+e;580175;'ange de mer australien';777;0
+e;580798;'chauve-souris de mer';1;0
+e;1971644;'cocktail de fruits de mer';1;0
+e;2544355;'mer de Loro';1;0
+e;2531082;'mer de Chine orientale';1;0
+e;2605797;'si la mer bouillait, il y aurait bien des poissons de cuits';1;0
+e;2473617;'loche de mer';1;0
+e;3371550;'torti aux fruits de mer';1;0
+e;3369890;'spaghetti aux fruits de mer et crevettes';1;0
+e;3368830;'salade de fruits de mer et ananas';1;0
+e;3366945;'pizza aux fruits de mer légère';1;0
+e;3366525;'pâtes de la mer';1;0
+e;3366258;'papillottes de saumon aux fruits de mer et aux légumes';1;0
+e;3365983;'paëlla fruits de mer, chorizo et poulet de patou';1;0
+e;3365975;'paëlla au saumon, poulet et fruits de mer';1;0
+e;3364031;'lasagnes de la mer';1;0
+e;3364006;'lasagnes aux fruits de mer légères';1;0
+e;3362553;'fricassée de crevettes et fruits de mer au pineau';1;0
+e;3360806;'cordon bleu de la mer';1;0
+e;3377346;'Châtaignes de mer';777;0
+e;3560487;'Ange de mer ocellé';777;0
+e;3745437;'soupe de poisson et fruits de mer à l'italienne';1;0
+e;3747407;'Pierrade de la mer';1;0
+e;4266486;'mer de McKinley';1;0
+e;3797034;'spaghetti de mer';1;0
+e;4315785;'flotte de haute mer';1;0
+e;4928706;'Moineau de la mer Morte';777;0
+e;718059;'navire de ravitaillement en mer';777;0
+e;1655738;'panicaut de mer';1;0
+e;2333406;'olonne-sur-mer';777;0
+e;2361888;'banane de mer';1;0
+e;2502193;'vipère de mer';1;0
+e;2426812;'violon de mer';1;0
+e;2699431;'La Ballade de la mer salée';777;0
+e;3343996;'Amande de mer';777;0
+e;3366197;'papillote de perche aux fruits de mer au barbecue';1;0
+e;3366062;'pain des bords de mer : thon crevette';1;0
+e;3364490;'mille feuille de loup de mer et son pesto';1;0
+e;3364214;'lotte aux fruits de mer et aux champignons';1;0
+e;3363460;'gratin de fruits de mer';1;0
+e;3362592;'fruits de mer mijotés sur lit de riz';1;4
+e;3359603;'bricks aux ravioles et fruits de mer';1;0
+e;3360045;'calamar farci aux produits de la mer';1;0
+e;3360227;'cassolettes de la mer au noilly';1;0
+e;3360215;'cassolette de fruits de mer et poisson blanc';1;0
+e;3743759;'paella aux fruits de mer';1;0
+e;3744553;'coquilles de fruits de mer';1;0
+e;3744824;'Pierrade de la mer';1;0
+e;3745888;'petites pastillas de la mer';1;0
+e;3756955;'paquets de fruits de mer surgelés';1;0
+e;3756657;'sel de mer et poivre du moulin';1;0
+e;3754281;'gros sel de mer';1;0
+e;5338940;'jeter à la mer';1;0
+e;439519;'mer Sarmatique';777;50
+e;580174;'ange de mer argentin';777;0
+e;580173;'ange de mer africain';777;0
+e;1656126;'bêches de mer';777;0
+e;1874108;'disparus en mer';1;0
+e;1920413;'état de la mer';1;0
+e;2535373;'aigle de mer à long nez';1;0
+e;2529648;'sanglier de mer';1;0
+e;2513405;'sanglier de mer commun';1;0
+e;2508952;'petite aiguille de mer';1;0
+e;2552844;'châtaigne-de-mer';1;0
+e;2579627;'mer de Chine du Sud';777;0
+e;2423505;'anémone de mer commune';1;0
+e;2953070;'mer de Nordenskiöld';777;0
+e;3371807;'turbot sauce crémeuse aux champignons et fruits de mer';1;0
+e;3371615;'tourte au thon et fruits de mer';1;0
+e;3368227;'risotto aux fruits de mer';1;0
+e;3362576;'fritto misto de fruits de mer';1;0
+e;3360480;'choucroute de la mer au vin blanc';1;0
+e;3743891;'risotto authentique aux fruits de mer';1;0
+e;3759464;'bouquets (ou crevettes) nature de bord de mer';1;0
+e;3755860;'bouillon de poisson ou de fruits de mer';1;0
+e;3753146;'sel de mer et poivre du moulin au goût';1;0
+e;4304992;'Carnage en haute mer';777;0
+e;580052;'mer de';777;0
+e;599630;'étoiles de mer';777;0
+e;703231;'mer de Sibérie orientale';1;0
+e;1732100;'mer de Bismarck';1;0
+e;1792815;'mer de Salton';777;0
+e;1976475;'département et région d'outre-mer';777;0
+e;1979693;'Réseau outre-mer première';777;0
+e;2538964;'lilas de mer';1;0
+e;2530635;'trompette de mer';1;0
+e;2529643;'groseille de mer';1;0
+e;2488393;'anémone de mer venimeuse';1;0
+e;2931788;'mer de Corail';777;0
+e;2937108;'Ange de mer africain';777;0
+e;3115751;'air-mer';1;0
+e;3322797;'Anémone de mer verte';777;0
+e;3371990;'verrine de la mer';1;0
+e;3369303;'saumon entier farci aux fruits de mer';1;0
+e;3369121;'salade perles de la mer';1;0
+e;3368013;'quiche rapide aux fruits de mer';1;0
+e;3367934;'quiche aux fruits de mer à la provençale';1;0
+e;3365611;'fruits de mer en marmite, la olla d'altea';1;0
+e;3365382;'cioppino, fricassée de la mer aux tomates';1;0
+e;3363474;'gratin de la mer';1;0
+e;3359659;'brochettes au poulet et aux fruits de mer';1;0
+e;3572350;'En mer';777;0
+e;3746636;'paella sans fruits de mer';1;0
+e;4190091;'mer du Sud';1;0
+e;5524708;'mer du nord';1;4
+e;567526;'Peuples étrangers de la mer';777;50
+e;580176;'ange de mer du Pacifique';777;0
+e;1172271;'disparaître en mer';1;2
+e;1732101;'mer des Salomon';1;0
+e;1922885;'bleu d'outre-mer';1;0
+e;2072201;'oreilles-de-mer';2;0
+e;2352615;'assistance en mer';1;0
+e;2542064;'ange de mer ocellé';1;0
+e;2510182;'entélure de mer';1;0
+e;2491683;'lune de mer';1;0
+e;2486469;'lavande de mer';1;0
+e;2768961;'germanique de la mer du Nord';777;0
+e;3180500;'mer-léopard';1;0
+e;3304029;'Puce de mer';777;0
+e;3318809;'coeur de filet de loup de mer, bar, au four';1;0
+e;3337785;'bains de mer';1;0
+e;3371240;'terrine de la mer, variante';1;0
+e;3369783;'soupe du pré à la mer';1;0
+e;3368649;'saint-jacques terre et mer';1;0
+e;3368324;'riz aux fruits de mer';1;0
+e;3368105;'ramequins feuilletés lotte et fruits de mer';1;0
+e;3364005;'lasagnes aux fruits de mer';1;0
+e;3437439;'Scorpion de mer';777;0
+e;3745905;'poulet fruits de mer et riz à l'ananas';1;0
+e;3745702;'fruits de mer façon Bouillabaisse';1;0
+e;3757060;'mélanges de fruits de mer tels que le poulpe les crevettes le surimi ou du calmar';1;0
+e;4904107;'moineau de la mer Morte';1;0
+e;6596109;'Une promenade en mer';777;0
+e;1223706;'renard de mer à gros yeux';777;0
+e;1535057;'mer de brouillard';777;0
+e;1654516;'crapauds de mer';777;0
+e;1785086;'pays sans accès à la mer';1;0
+e;1814500;'éléphants de mer du nord';1;0
+e;1814508;'éléphant de mer du sud';1;0
+e;2339742;'fougère de mer';777;0
+e;2558660;'mer des Wadden';1;0
+e;2547882;'épinoche de mer';1;0
+e;2492947;'cheval de mer';1;0
+e;3231034;'Hirondelle de la mer Rouge';777;0
+e;3313327;'la mer des Wadden';777;0
+e;3359043;'araignées de mer du pêcheur';1;0
+e;3369702;'soupe de la mer aux légumes';1;0
+e;3366136;'pamplemousse de la mer';1;0
+e;3363836;'kakavia langouste et chapon de mer grèce';1;0
+e;3362591;'fruits de mer au martini rosso';1;0
+e;3744569;'chowder aux fruits de mer';1;0
+e;3753741;'cocktail fruits de mer en surgelé';1;0
+e;4344631;'Les écumeurs de la mer';1;0
+e;5516843;'baie de la mer Méditerranée';1;0
+e;568493;'aimer la mer';1;50
+e;566747;'chinois d'outre-mer';777;50
+e;572213;'les outre-mer';777;50
+e;955995;'loi n° 2003-660 du 21 juillet 2003 de programme pour l'outre-mer';777;0
+e;1675904;'diable de mer méditerranéen';1;0
+e;1730163;'sac mal de mer';1;0
+e;1735375;'Revue française d'histoire d'outre-mer';777;0
+e;2544232;'aigle de mer tacheté';1;0
+e;2515920;'lis de mer';1;0
+e;2422050;'grand serpent de mer';1;0
+e;3314047;'Un homme à la mer';777;0
+e;3319377;'Comité consultatif de la recherche sur les ressources de la mer';1;0
+e;3324024;'Scorpions de mer';777;0
+e;3359474;'bouchées aux fruits de mer';1;0
+e;3370702;'tarte brandade / fruits de mer';1;0
+e;3368909;'salade de pâtes aux fruits de mer';1;0
+e;3368349;'riz gratiné aux fruits de mer';1;0
+e;3365413;'coquilles st jacques armor argoat, mer et terre';1;0
+e;3362254;'filets de sole aux fruits de mer et champignons';1;0
+e;3360481;'choucroute de la mer en papillote';1;0
+e;3685877;'Pie de mer';777;0
+e;4340412;'Les Dents de la mer II';777;0
+e;5158782;'sous le niveau de la mer';1;0
+e;1795612;'bouteilles à la mer';777;0
+e;1797686;'étoile de mer dévoreuse de corail';1;0
+e;1814509;'éléphant de mer du nord';1;0
+e;2929440;'Hérissons de mer';777;0
+e;3176454;'sol-mer';1;0
+e;1814510;'éléphant de mer austral';1;0
+e;3175658;'mer Ligurienne';777;0
+e;1814494;'élévation de la mer';1;0
+e;1814499;'éléphants de mer du sud';1;0
+e;3170584;'La Vieille qui marchait dans la mer';777;0
+e;1820188;'mer intérieure de Seto';1;0
+e;2933789;'Figue de mer';777;0
+e;1814522;'élevages en mer';1;0
+e;393786;'mer de Ross';666;50
+e;393785;'mer épicontinentale';777;50
+e;386845;'vie en mer';1;50
+e;373772;'promenade en mer';1;50
+e;370069;'peuple de la mer';1;50
+e;364437;'missile air mer';1;50
+e;363951;'mer creuse';1;50
+e;341974;'cassolette de fruits de mer';1;50
+e;340377;'brochet de mer';1;50
+e;335837;'appareil de distillation de l'eau de mer';1;50
+e;381120;'stage en mer';1;50
+e;371518;'poisson de haute mer';1;50
+e;363954;'mer haute';1;50
+e;363950;'mer basse';1;50
+e;347857;'distillation de l'eau de mer';1;50
+e;339826;'bouffée d'air de la mer';1;50
+e;334594;'air de la mer';1;50
+e;363955;'mer tourmentée';1;50
+e;350221;'en bordure de mer';1;50
+e;345412;'crustacé de mer';1;50
+e;380737;'sous la mer';1;50
+e;371107;'plate-forme de forage en mer';1;50
+e;363953;'mer de sang';1;50
+e;354786;'forage en mer';1;50
+e;389136;'âne de mer';1;50
+e;388606;'à la mer';1;2
+e;381077;'squale de haute mer';1;50
+e;374736;'pêche de mer';1;50
+e;356218;'glace de mer';1;50
+e;348308;'drame de la mer';1;50
+e;341312;'cane de mer';1;50
+e;340706;'bécassine de mer';1;50
+e;378267;'sable de mer';1;50
+e;363973;'mer équatoriale';1;50
+e;363952;'mer de corail';1;50
+e;354680;'fond de la mer';1;50
+e;349505;'désalinisation de l'eau de mer';1;50
+e;341462;'capitaine de mer';1;50
+e;380644;'souris de mer';1;50
+e;374720;'pétrole de la mer du nord';1;50
+e;366200;'navire de mer';1;50
+e;364670;'moineau de mer';1;50
+e;360718;'lacet de mer';1;50
+e;350783;'en haute mer';1;50
+e;338744;'bassin de mer';1;50
+e;335382;'anguille de mer';1;50
+e;334521;'aiguille de mer';1;50
+e;387713;'voyage en mer';1;50
+e;386279;'vaste mer';1;50
+e;362722;'main de mer';1;50
+e;357893;'homme de mer';1;50
+e;350485;'en dessous du niveau de la mer';1;50
+e;337904;'avec vue sur la mer';1;50
+e;393062;'Une bouteille à la mer';1;50
+e;386307;'vedette de haute mer';1;50
+e;370451;'pigeon de mer';1;50
+e;363972;'mer patrimoniale';1;50
+e;336657;'artillerie de mer';1;50
+e;331020;'jeter une bouteille à la mer';1;50
+e;100272;'mer-air';1;50
+e;95873;'taille-mer';1;50
+e;74531;'bêche-de-mer';1;50
+e;67526;'outre-mer';1;60
+e;35447;'mer-sol';1;50
+e;248804;'Outre-mer';1;50
+e;173593;'chien-de-mer';1;2
+e;129706;'oreille-de-mer';1;50
+e;119097;'cloporte-de-mer';1;50
+e;296718;'aigle-de-mer';777;50
+e;330609;'Les Dents de la mer 2';777;50
+e;330581;'Piège en haute mer';1;50
+e;329652;'oiseaux de mer';1;50
+e;317748;'mer chaude';1;50
+e;320295;'Grenelle de la mer';1;50
+e;321756;'renard de mer commun';777;50
+e;322095;'grosse poule de mer';1;50
+e;329528;'être en mer';1;50
+e;167720;'missile mer-air';1;50
+e;248813;'France d'outre-mer';1;50
+e;113856;'Office de recherche scientifique et technique outre-mer';1;50
+e;164804;'département d'outre-mer';1;54
+e;173370;'région française d'outre-mer';1;50
+e;212261;'missile air-mer';1;50
+e;297674;'les outres-mer';777;50
+e;142743;'médaille d'outre-mer';1;50
+e;173369;'région d'outre-mer';1;50
+e;177161;'territoire d'outre-mer';1;2
+e;181611;'collectivité d'outre-mer';1;12
+e;275770;'collectivités d'outre-mer';777;50
+e;277564;'missile sol-mer';777;50
+e;278914;'missiles mer-air';777;50
+e;280342;'missile mer-sol balistique stratégique';777;50
+e;304005;'régions d'outre-mer';777;50
+e;310518;'aigle de mer-léopard';777;50
+e;138552;'Ensemble des départements et des territoires français d'outre-mer';1;50
+e;192996;'frégate aigle-de-mer';1;50
+e;312632;'missile mer-sol';1;50
+e;312633;'missiles mer-sol';777;50
+e;315286;'mer de Tasman';1;4
+e;226371;'Le vieil homme et la mer';1;10
+e;244443;'niveau de la mer';1;124
+e;246971;'en mer';1;10
+e;247339;'un homme à la mer';1;20
+e;248227;'se jeter à la mer';1;50
+e;250791;'au-dessus du niveau de la mer';1;50
+e;254443;'classe de mer';1;12
+e;261644;'s'abîmer en mer';1;46
+e;63225;'Un royaume sous la mer';1;50
+e;106150;'Les Secrets de la mer Rouge';1;50
+e;119036;'le Silence de la mer';1;50
+e;167579;'peuples de la mer';1;50
+e;168163;'brème de mer';1;50
+e;168166;'chat de mer';1;50
+e;168197;'truite de mer';1;50
+e;168198;'veau de mer';1;50
+e;168412;'fumée de mer';1;50
+e;168413;'fumée de mer antarctique';1;50
+e;168414;'fumée de mer arctique';1;50
+e;170707;'Le Silence de la mer';1;50
+e;170718;'Corto Maltese-La Ballade de la mer salée';1;50
+e;170858;'berlingot de mer';1;50
+e;208612;'sur mer';1;50
+e;210372;'ce n'est pas la mer à boire';1;50
+e;212855;'La vieille qui marchait dans la mer';666;50
+e;217967;'poule de mer';1;50
+e;218415;'roi de la mer';1;60
+e;219403;'mer Egée';1;62
+e;221912;'pourpier de mer';1;50
+e;221922;'roquette de mer';1;52
+e;222697;'choucroute de la mer';1;52
+e;223702;'cochon de mer';1;52
+e;223796;'prendre la mer';1;58
+e;223797;'prendre la haute mer';666;50
+e;224073;'mer de Weddell';1;58
+e;225256;'pie de mer';1;4
+e;225268;'entrée de mer';1;50
+e;225750;'bêche de mer';666;26
+e;226183;'vache de mer';1;50
+e;226539;'licorne de mer';1;50
+e;227992;'mer de Bohai';1;50
+e;228806;'Les dents de la mer';666;50
+e;228855;'perche de mer';1;50
+e;229435;'mer de Béring';1;50
+e;229744;'lotte de mer';1;50
+e;230139;'biscuit de mer';1;50
+e;232262;'mer Ionienne';1;52
+e;232294;'surface de la mer';1;2
+e;234451;'lancer une bouteille à la mer';1;54
+e;235528;'mer d'oliviers';1;50
+e;240555;'oreille de mer';1;50
+e;242629;'mer tropicale';1;50
+e;244259;'sauveteur en mer';1;50
+e;245875;'couteau de mer';1;50
+e;248822;'limace de mer';1;22
+e;249428;'Les Dents de la mer';1;52
+e;251167;'vue sur la mer';1;28
+e;251265;'mer polluée';1;4
+e;252152;'sauvetage en mer';1;16
+e;253399;'avoir le mal de mer';1;6
+e;254164;'laisse de mer';1;50
+e;257106;'mer démontée';1;22
+e;260077;'disparu en mer';1;2
+e;262283;'loutre de mer';1;50
+e;262555;'brise de mer';1;50
+e;168415;'mer de nuages';1;8
+e;223727;'tortue de mer';1;16
+e;35836;'Les Flots de la mer Noire';1;50
+e;36451;'Le Marin rejeté par la mer';1;50
+e;52624;'bras de mer';1;62
+e;57848;'puce de mer';1;50
+e;58061;'Poème de la mer';1;50
+e;61173;'Marin rejeté par la mer';1;50
+e;61844;'sauterelle de mer';1;50
+e;66028;'amande de mer';1;50
+e;81393;'Les Ombres sur la mer';1;50
+e;95794;'diable de mer';1;50
+e;101017;'scorpion de mer';1;50
+e;102467;'mal de mer';1;90
+e;103926;'lettre de mer';1;50
+e;106847;'paquet de mer';1;50
+e;108029;'perdrix de mer';1;50
+e;108230;'fortune de mer';1;50
+e;113259;'renard de mer';1;50
+e;113463;'châtaigne de mer';1;50
+e;113576;'bain de mer';1;62
+e;117898;'grenouille de mer';1;50
+e;122075;'Les Dents de la Mer';1;58
+e;124040;'Les Voix de la mer';1;50
+e;156488;'les dents de la mer';1;54
+e;157108;'de mer';1;52
+e;160239;'pêche en mer';1;66
+e;160901;'pêche en haute mer';1;58
+e;163856;'serpent de mer';1;82
+e;164404;'escargot de mer';1;52
+e;166480;'pou de mer';1;54
+e;169769;'kayak de mer';1;50
+e;170840;'jambonneau de mer';1;50
+e;170866;'haricot de mer';1;50
+e;170889;'olive de mer';1;50
+e;170907;'sanguine de mer';1;50
+e;170942;'achigan de mer';1;50
+e;184338;'soutien logistique à la mer';1;50
+e;184648;'une goutte d'eau dans la mer';1;50
+e;202776;'le passage de la mer Rouge';1;50
+e;205021;'par mer';1;50
+e;206603;'qui craint le danger ne doit pas aller en mer';1;50
+e;210095;'yole de mer';1;50
+e;210925;'goutte d'eau dans la mer';1;50
+e;212567;'Les Travailleurs de la mer';1;50
+e;212967;'manuscrits de la mer Morte';666;50
+e;213505;'pleine mer';1;12
+e;213506;'plein mer';1;50
+e;216143;'navigation sur mer';1;50
+e;216169;'taupe de mer';1;2
+e;265929;'au bord de la mer';1;52
+e;267222;'La Mémoire et la mer';1;50
+e;274967;'bataille de la mer de Barents';1;50
+e;294741;'par mer et par terre';1;50
+e;304551;'la truite de mer';777;50
+e;212352;'mer d'Oman';1;50
+e;160669;'mer de sable';1;58
+e;110151;'mer Égée';1;52
+e;34293;'gelée de mer';1;50
+e;36156;'alouette de mer';1;50
+e;44115;'anges de mer';1;50
+e;44789;'aigle de mer';1;52
+e;45940;'plumes de mer';1;50
+e;49965;'front de mer';1;50
+e;54891;'Trois Sereurs sur rive mer chantent cler';1;50
+e;69045;'concombre de mer';1;86
+e;71152;'crapaud de mer';1;50
+e;73114;'fruit de mer';1;300
+e;74518;'À cheval vers la mer';1;50
+e;75086;'Limaces de mer';1;50
+e;78178;'Silence de la mer';1;50
+e;78514;'pourceau de mer';1;50
+e;80226;'Tous les fleuves vont à la mer';1;50
+e;81699;'armée de mer';1;52
+e;88401;'araignée de mer';1;88
+e;89698;'écume de mer';1;50
+e;93660;'Ballade de la mer salée';1;50
+e;94487;'étoile de mer';1;84
+e;98116;'vieille de mer';1;50
+e;99996;'écumeur de mer';1;54
+e;122278;'éléphant de mer';1;52
+e;128389;'Course à la mer';1;50
+e;130204;'figue de mer';1;56
+e;131042;'orange de mer';1;50
+e;138073;'et la mer n'est pas remplie';1;50
+e;138947;'L'Encerclement des éloges de la mer';1;50
+e;139903;'Institut français de recherche pour l'exploitation de la mer';1;54
+e;153300;'sel de mer';1;74
+e;153478;'poisson de mer';1;88
+e;153830;'anémone de mer';1;132
+e;158180;'oiseau de mer';1;116
+e;158578;'fruits de mer';1;92
+e;159083;'bordure de mer';1;50
+e;171807;'raisin de mer';1;50
+e;175348;'cigale de mer';1;6
+e;175388;'croix de mer';1;50
+e;175687;'léopard de mer';1;50
+e;178946;'balayures de mer';1;50
+e;179031;'coup de mer';1;52
+e;179071;'goulu de mer';1;50
+e;181582;'clown de mer';1;50
+e;182171;'eau de mer';1;36
+e;182532;'fouillis de mer';1;50
+e;182907;'laisses de mer';1;50
+e;183625;'perroquet de mer';1;50
+e;184037;'rejet en mer';1;2
+e;185800;'c'est la mer à boire';1;50
+e;186368;'je boirais la mer et les poissons';1;50
+e;201729;'haute mer';1;98
+e;205064;'parc de mer';1;50
+e;205287;'pêche en mer artisanale';1;50
+e;205393;'périls de mer';1;50
+e;205664;'plateau de fruits de mer';1;100
+e;205826;'poissons de mer';1;50
+e;264087;'mer froide';1;50
+e;264381;'homme à la mer';1;50
+e;265350;'recette de la mer';1;50
+e;268566;'guêpe de mer';1;2
+e;268947;'Les vacances au bord de la mer';1;50
+e;269753;'mer des Sargasses';1;50
+e;270924;'mer Ligure';1;50
+e;270925;'mer de Ligurie';1;50
+e;271409;'étoile de mer commune';666;50
+e;272226;'déchets en mer';777;50
+e;274962;'mer de Barents';1;52
+e;274965;'mer de Norvège';1;50
+e;276018;'lièvre de mer';777;50
+e;279347;'renards de mer';777;50
+e;281250;'papillon de mer';777;50
+e;281445;'anémones de mer';777;50
+e;281446;'orties de mer';777;50
+e;283037;'Lavande de mer';777;50
+e;283039;'Lilas de mer';777;50
+e;283095;'Pourpiers de mer';777;50
+e;283512;'Loutre de mer méridionale';777;50
+e;283614;'Cigales de mer';777;50
+e;283964;'Laodicée de la mer';777;50
+e;284102;'scorpions de mer';777;50
+e;284640;'mer ligurienne';777;50
+e;284837;'journal de mer';777;50
+e;288565;'éolienne en mer';777;50
+e;288624;'mer de Cortés';777;50
+e;288625;'mer Vermeille';777;50
+e;289358;'mer Antarctique';777;50
+e;290016;'rat de mer';777;52
+e;290216;'éléphants de mer';777;50
+e;290543;'biche de mer';777;2
+e;292718;'serpents de mer';777;50
+e;293378;'mer de Tasmanie';777;50
+e;294278;'hérissons de mer';777;50
+e;294279;'châtaignes de mer';777;50
+e;295293;'manioc marron bord de mer';777;50
+e;300660;'châtaignier de mer';777;50
+e;300951;'mer d'Arafura';777;50
+e;302585;'haricots de mer';777;50
+e;303674;'ruban de mer';777;50
+e;304346;'mer de Laptev';777;50
+e;304347;'mer des Laptev';777;50
+e;304348;'mer de Nordenskjöld';777;50
+e;307398;'mer territoriale';777;50
+e;308016;'mer de l'Est';777;50
+e;308017;'mer orientale de Corée';777;50
+e;308301;'bécasse de mer';777;50
+e;308468;'mer de Behring';777;50
+e;309037;'élévation du niveau de la mer';777;50
+e;309112;'corbeau de mer';777;50
+e;312304;'bataille de la mer des Philippines';1;50
+e;35027;'mer Adriatique';1;54
+e;173248;'mer Baltique';1;30
+e;173249;'mer Blanche';1;50
+e;173250;'mer Caspienne';1;22
+e;173257;'mer Jaune';1;2
+e;173258;'mer Manche';1;50
+e;173261;'mer Morte';1;16
+e;173262;'mer Noire';1;22
+e;173263;'mer Tyrrhénienne';1;52
+e;203613;'mer bordière';1;52
+e;203614;'mer continentale';1;50
+e;140507;'mer d'Andaman';1;50
+e;143818;'mer d'Aral';1;50
+e;145963;'mer d'Iroise';1;50
+e;183176;'mer d'huile';1;50
+e;94626;'mer de Baffin';1;50
+e;87943;'mer de Kara';1;74
+e;173252;'mer de Marmara';1;50
+e;173251;'mer de glace';1;50
+e;183175;'mer de portes';1;50
+e;173253;'mer des Antilles';1;50
+e;173254;'mer des Caraïbes';1;66
+e;173255;'mer des Indes';1;50
+e;173256;'mer du Japon';1;2
+e;126895;'mer du Labrador';1;58
+e;78024;'mer du Nord';1;76
+e;203615;'mer fermée';1;50
+e;203616;'mer intérieure';1;58
+e;173259;'mer marginale';1;50
+e;91329;'bord de mer';1;204
+e;95212;'loup de mer';1;110
+e;155876;'bouteille à la mer';1;80
+e;158112;'vieux loup de mer';1;86
+e;24194;'ange de mer';1;50
+e;25635;'lion de mer';1;56
+e;26268;'Peuples de la mer';1;50
+e;26722;'hirondelle de mer';1;50
+e;28773;'tanche de mer';1;50
+e;29753;'hérisson de mer';1;50
+e;132515;'De la mer à la lande';1;50
+e;132798;'droit de la mer';1;50
+e;137179;'dessalement de l'eau de mer';1;50
+e;187637;'bateau de mer';1;50
+e;191637;'vacances à la mer';1;2
+e;191692;'coquillage de mer';1;50
+e;193316;'hirondelle de la mer Rouge';1;50
+e;311009;'produit de la mer';1;54
+e;311203;'Enjeux pour la sécurité des gens de mer';777;50
+e;312787;'mer du Groenland';1;50
+e;312789;'mer de Java';1;50
+e;312811;'mer de Sulu';1;50
+e;312812;'mer de Jolo';777;50
+e;137215;'mer d'Azov';1;58
+e;137838;'mer d'Irlande';1;50
+e;13036;'À cheval sur la mer';1;50
+e;199736;'estrapade de mer';1;50
+e;201418;'gens de mer';1;50
+e;20196;'mer de Chine';1;50
+e;10741;'de haute mer';1;50
+e;3316;'Vieil Homme et la mer';1;50
+e;5029;'mer Rouge';1;86
+e;7580;'chien de mer';1;54
+e;1465;'datte de mer';1;50
+e;173260;'mer Méditerranée';1;60
+e;53999;'mer-mer';1;50
+e;244990;'mer bleue';1;50
+e;164067;'mer agitée';1;58
+e;161970;'aller à la mer';1;68
+e;277563;'missile mer-mer';1;50
+r;98273123;146105;225859;11;15
+r;98273118;146105;332212;11;16
+r;270331981;146105;10335061;11;25
+r;292371196;146105;11387822;11;25
+r;298434104;146105;6290681;11;25
+r;298452911;146105;6291068;11;25
+r;298487096;146105;6292087;11;25
+r;299341167;146105;6303149;11;25
+r;299488592;146105;6305648;11;25
+r;299927120;146105;6319678;11;25
+r;301448085;146105;6338559;11;25
+r;301494387;146105;6342967;11;25
+r;301560272;146105;6346177;11;25
+r;301733595;146105;6350276;11;25
+r;301745250;146105;6352414;11;25
+r;301755969;146105;6353453;11;25
+r;301805088;146105;6356095;11;25
+r;303469927;146105;6374490;11;25
+r;304375556;146105;6385579;11;25
+r;304555431;146105;6389174;11;25
+r;304997496;146105;6394589;11;25
+r;305017135;146105;6396578;11;25
+r;305044707;146105;6396591;11;25
+r;305061752;146105;6398270;11;25
+r;305129641;146105;6398554;11;25
+r;305263455;146105;6402413;11;25
+r;305700016;146105;6419458;11;25
+r;305701636;146105;6419804;11;25
+r;314343772;146105;12072168;11;25
+r;316619119;146105;12180277;11;25
+r;337348601;146105;12983001;11;25
+r;341157852;146105;6369434;11;25
+r;340997377;146105;6309069;11;25
+r;344108589;146105;13588244;11;25
+r;344108958;146105;13588258;11;25
+r;347790060;146105;13684714;11;25
+r;349299950;146105;6329596;11;25
+r;352316759;146105;13989359;11;25
+r;355954092;146105;14075830;11;25
+r;355954707;146105;14075831;11;25
+r;355955529;146105;14075829;11;25
+r;365448096;146105;14388922;11;25
+r;366600063;146105;14439396;11;25
+r;368234189;146105;14490658;11;25
+r;369909550;146105;14548512;11;25
+r;370523832;146105;14580996;11;25
+r;370648744;146105;14585360;11;25
+r;371059505;146105;14600284;11;25
+r;371078221;146105;14600285;11;25
+r;371236212;146105;14609313;11;25
+r;371485995;146105;14612299;11;25
+r;371491190;146105;14612288;11;25
+r;371667128;146105;14631063;11;25
+r;371725871;146105;14633212;11;25
+r;371726601;146105;14633214;11;25
+r;371746071;146105;14635424;11;25
+r;371834921;146105;14637411;11;25
+r;372913883;146105;14657305;11;25
+r;414746986;146105;15937666;11;25
+r;385041770;146105;14875041;11;25
+r;389678202;146105;14902232;11;25
+r;393829641;146105;15166667;11;25
+r;398619317;146105;6320322;11;25
+r;399679558;146105;6339113;11;25
+r;403604870;146105;15695392;11;25
+r;403718417;146105;15695391;11;25
+r;411328895;146105;15791484;11;25
+r;411349356;146105;15791485;11;25
+r;430861558;146105;16325919;11;25
+r;432824034;146105;16385115;11;25
+r;270781999;146105;10672498;11;26
+r;392997472;146105;15027616;11;26
+r;298404897;146105;6289928;11;26
+r;298485966;146105;6291983;11;26
+r;299063870;146105;6298998;11;26
+r;303639494;146105;6378507;11;26
+r;304891163;146105;6393583;11;26
+r;333256310;146105;12979839;11;26
+r;349243229;146105;6302891;11;26
+r;349253592;146105;6355182;11;26
+r;369511656;146105;14538937;11;26
+r;369968048;146105;14561196;11;26
+r;370714570;146105;14589899;11;26
+r;372572762;146105;14654406;11;26
+r;372941284;146105;14668641;11;26
+r;374232298;146105;14718781;11;26
+r;374523588;146105;14730158;11;26
+r;392182095;146105;15016207;11;26
+r;423617652;146105;16163861;11;26
+r;423627013;146105;16163995;11;26
+r;112665120;146105;5725903;11;27
+r;158899831;146105;6309165;11;27
+r;315651311;146105;12115575;11;27
+r;331742108;146105;12940572;11;27
+r;393558406;146105;15031515;11;27
+r;113798430;146105;5796784;11;28
+r;119660860;146105;6100640;11;28
+r;122700960;146105;6429324;11;28
+r;165180036;146105;6310065;11;28
+r;277368224;146105;10985498;11;28
+r;315537035;146105;12103997;11;28
+r;342886218;146105;13536305;11;28
+r;434383692;146105;16367777;11;28
+r;29848535;146105;1852726;11;29
+r;53246936;146105;2397905;11;29
+r;266724003;146105;10618346;11;29
+r;266724011;146105;10618344;11;29
+r;272844165;146105;10876432;11;29
+r;277386011;146105;10987393;11;29
+r;277395702;146105;10987440;11;29
+r;302230779;146105;11774483;11;29
+r;302226527;146105;11774310;11;29
+r;419759153;146105;15413773;11;29
+r;419775219;146105;15220161;11;29
+r;419790925;146105;15413732;11;29
+r;419834430;146105;15320673;11;29
+r;419837675;146105;15270695;11;29
+r;419840822;146105;15320030;11;29
+r;419840828;146105;15198702;11;29
+r;419840834;146105;15255203;11;29
+r;419840840;146105;15194808;11;29
+r;419840846;146105;15196711;11;29
+r;419840852;146105;15376727;11;29
+r;419840858;146105;15313728;11;29
+r;419841975;146105;15257772;11;29
+r;419843715;146105;15337609;11;29
+r;52223768;146105;2376702;11;30
+r;112177306;146105;5711218;11;30
+r;112201897;146105;5684787;11;30
+r;112202765;146105;5684539;11;30
+r;113285828;146105;5808275;11;30
+r;220843581;146105;9959163;11;30
+r;226782507;146105;9989933;11;30
+r;226955927;146105;9990172;11;30
+r;264441318;146105;10599799;11;30
+r;272807342;146105;10876430;11;30
+r;274268606;146105;10909349;11;30
+r;274293342;146105;10903877;11;30
+r;274591872;146105;10914282;11;30
+r;302211466;146105;11774123;11;30
+r;302217636;146105;11774186;11;30
+r;419722027;146105;15309659;11;30
+r;419722957;146105;15376729;11;30
+r;419740359;146105;16042414;11;30
+r;423615185;146105;16163718;11;30
+r;113775600;146105;5816611;11;31
+r;115872640;146105;5907257;11;31
+r;115872661;146105;5907253;11;31
+r;115874261;146105;5906728;11;31
+r;115875125;146105;5906413;11;31
+r;119190388;146105;6080859;11;31
+r;119193090;146105;6070182;11;31
+r;119193094;146105;6070181;11;31
+r;119193227;146105;6070139;11;31
+r;119193851;146105;6069825;11;31
+r;119193898;146105;6069812;11;31
+r;119194267;146105;6069658;11;31
+r;119194752;146105;6069517;11;31
+r;119195971;146105;6069083;11;31
+r;119195982;146105;6069082;11;31
+r;119196315;146105;6068977;11;31
+r;221221277;146105;9965936;11;31
+r;222100855;146105;9982326;11;31
+r;222105360;146105;9979166;11;31
+r;227657525;146105;10005086;11;31
+r;227657529;146105;10005085;11;31
+r;263705542;146105;10578111;11;31
+r;263706510;146105;10577578;11;31
+r;264448878;146105;10596558;11;31
+r;274352210;146105;10913904;11;31
+r;277567199;146105;10989950;11;31
+r;277572287;146105;10990025;11;31
+r;279443311;146105;11028740;11;31
+r;280092791;146105;11057030;11;31
+r;280135376;146105;11057123;11;31
+r;305633963;146105;11823772;11;31
+r;419620013;146105;15321388;11;31
+r;419621491;146105;15321381;11;31
+r;419640526;146105;15360083;11;31
+r;419659264;146105;15270704;11;31
+r;419663997;146105;15392476;11;31
+r;419671172;146105;16029408;11;31
+r;419672030;146105;15413726;11;31
+r;419672925;146105;13749593;11;31
+r;419672976;146105;13745536;11;31
+r;419673088;146105;13780723;11;31
+r;419673198;146105;13755386;11;31
+r;419673277;146105;13745618;11;31
+r;419674158;146105;13793964;11;31
+r;419674810;146105;13791706;11;31
+r;419680062;146105;15390892;11;31
+r;419691826;146105;15530870;11;31
+r;111353174;146105;5635914;11;32
+r;111353615;146105;5635610;11;32
+r;111357335;146105;5629742;11;32
+r;113761200;146105;5829130;11;32
+r;113765463;146105;5827711;11;32
+r;114018313;146105;5836841;11;32
+r;119190402;146105;6080857;11;32
+r;119192794;146105;6070264;11;32
+r;119195606;146105;6069210;11;32
+r;221263621;146105;9966386;11;32
+r;222096116;146105;9985909;11;32
+r;276738347;146105;10963820;11;32
+r;276643453;146105;10959086;11;32
+r;291210214;146105;11354561;11;32
+r;291210727;146105;11354368;11;32
+r;291211062;146105;11354201;11;32
+r;291211071;146105;11354200;11;32
+r;291211088;146105;11354185;11;32
+r;291991980;146105;11359830;11;32
+r;301441781;146105;6337945;11;32
+r;322832711;146105;12600358;11;32
+r;330970584;146105;12900597;11;32
+r;434348795;146105;16325857;11;32
+r;434350239;146105;16279327;11;32
+r;419612530;146105;15355242;11;32
+r;419616455;146105;15360073;11;32
+r;434359263;146105;16258395;11;32
+r;111357246;146105;5629808;11;33
+r;279552869;146105;11029231;11;33
+r;269411234;146105;10742293;11;33
+r;280307113;146105;11060427;11;33
+r;280312375;146105;11060339;11;33
+r;280384577;146105;11062039;11;33
+r;280424435;146105;11063194;11;33
+r;280750297;146105;11072370;11;33
+r;290775556;146105;11348985;11;33
+r;290788739;146105;11349106;11;33
+r;291093801;146105;11354462;11;33
+r;293008366;146105;11405175;11;33
+r;293503233;146105;11407522;11;33
+r;293503242;146105;11407521;11;33
+r;303661866;146105;11787891;11;33
+r;305061504;146105;11821405;11;33
+r;312565947;146105;11994803;11;33
+r;334599975;146105;13049458;11;33
+r;343042204;146105;13536273;11;33
+r;419493453;146105;15485867;11;33
+r;419511031;146105;15212358;11;33
+r;419546352;146105;15788749;11;33
+r;419557670;146105;15952241;11;33
+r;419557866;146105;15225814;11;33
+r;419560495;146105;15788762;11;33
+r;419565096;146105;15360078;11;33
+r;419587721;146105;15378406;11;33
+r;419590373;146105;15321382;11;33
+r;423420047;146105;16133279;11;33
+r;425936786;146105;16238699;11;33
+r;432891015;146105;16387550;11;33
+r;433078683;146105;16391668;11;33
+r;115095235;146105;5900783;11;34
+r;115835870;146105;5923358;11;34
+r;115842817;146105;5920406;11;34
+r;115844443;146105;5919991;11;34
+r;115844467;146105;5919988;11;34
+r;116585440;146105;5954158;11;34
+r;122752855;146105;6422641;11;34
+r;275361275;146105;10936709;11;34
+r;279321368;146105;11027080;11;34
+r;291089607;146105;11354343;11;34
+r;293540078;146105;11411954;11;34
+r;300956276;146105;11697665;11;34
+r;303717624;146105;11788383;11;34
+r;315115724;146105;12079881;11;34
+r;315125816;146105;12075663;11;34
+r;414440872;146105;15920929;11;34
+r;52527828;146105;2376703;11;35
+r;53150700;146105;2392595;11;35
+r;113291287;146105;5806902;11;35
+r;114748138;146105;5894428;11;35
+r;114754250;146105;5892646;11;35
+r;115088974;146105;5903003;11;35
+r;115845416;146105;5919785;11;35
+r;115859073;146105;5912591;11;35
+r;116307601;146105;5944260;11;35
+r;116317748;146105;5941158;11;35
+r;118833010;146105;5996226;11;35
+r;121489067;146105;6444329;11;35
+r;270916553;146105;10834826;11;35
+r;274961411;146105;10929933;11;35
+r;275362328;146105;10936393;11;35
+r;277920898;146105;10996548;11;35
+r;280385957;146105;11062040;11;35
+r;291361918;146105;11360725;11;35
+r;291989404;146105;11361500;11;35
+r;291989614;146105;11361451;11;35
+r;293439790;146105;11409506;11;35
+r;293468926;146105;11410319;11;35
+r;293580266;146105;11412923;11;35
+r;300478658;146105;11697685;11;35
+r;300497093;146105;11697921;11;35
+r;314744616;146105;12077078;11;35
+r;315117397;146105;12079557;11;35
+r;52171821;146105;2373682;11;36
+r;52887097;146105;2382292;11;36
+r;54563815;146105;2425492;11;36
+r;115096217;146105;5900371;11;36
+r;115105288;146105;5897966;11;36
+r;118540187;146105;6000958;11;36
+r;122755637;146105;6422281;11;36
+r;252666746;146105;10315345;11;36
+r;252679168;146105;10311954;11;36
+r;253393966;146105;10327453;11;36
+r;275105266;146105;10933841;11;36
+r;282621260;146105;11100445;11;36
+r;297680497;146105;11578444;11;36
+r;306689620;146105;11839852;11;36
+r;312892947;146105;12005967;11;36
+r;313691970;146105;12050462;11;36
+r;313694038;146105;12050427;11;36
+r;313694765;146105;12050423;11;36
+r;314735162;146105;12076907;11;36
+r;53059229;146105;2388452;11;37
+r;53882081;146105;2408782;11;37
+r;55837519;146105;2469190;11;37
+r;113296385;146105;5805814;11;37
+r;118540111;146105;6000981;11;37
+r;118540135;146105;6000975;11;37
+r;138366368;146105;8197265;11;37
+r;220610307;146105;9950368;11;37
+r;220437269;146105;9946531;11;37
+r;227592255;146105;10045912;11;37
+r;253380162;146105;10341496;11;37
+r;269879005;146105;10775832;11;37
+r;270211154;146105;10791546;11;37
+r;270211937;146105;10790990;11;37
+r;270360613;146105;10822547;11;37
+r;271581608;146105;10844740;11;37
+r;283547346;146105;11148027;11;37
+r;295517902;146105;11502903;11;37
+r;306466134;146105;11839679;11;37
+r;313692201;146105;12050451;11;37
+r;315106164;146105;12081721;11;37
+r;52440412;146105;2376705;11;38
+r;54664088;146105;2428123;11;38
+r;55478093;146105;2450833;11;38
+r;109589180;146105;5535820;11;38
+r;114758024;146105;5884552;11;38
+r;116322232;146105;5939320;11;38
+r;122797319;146105;6693797;11;38
+r;232108598;146105;10061268;11;38
+r;243204749;146105;10194298;11;38
+r;288506061;146105;11256020;11;38
+r;296439684;146105;11544029;11;38
+r;296482286;146105;11544406;11;38
+r;298268857;146105;11590832;11;38
+r;298502260;146105;11654243;11;38
+r;54565874;146105;2425277;11;39
+r;55913927;146105;2473332;11;39
+r;109665753;146105;5536689;11;39
+r;110808708;146105;5624202;11;39
+r;115088887;146105;5903024;11;39
+r;115091047;146105;5902349;11;39
+r;227581731;146105;10049760;11;39
+r;227582516;146105;10049650;11;39
+r;227586526;146105;10047067;11;39
+r;232101296;146105;10063282;11;39
+r;289309577;146105;11302456;11;39
+r;292321526;146105;11383890;11;39
+r;296654368;146105;11553736;11;39
+r;296655978;146105;11553402;11;39
+r;340517414;146105;13400872;11;39
+r;52213994;146105;2375296;11;40
+r;55715072;146105;2463015;11;40
+r;114748500;146105;5894289;11;40
+r;117905500;146105;5982337;11;40
+r;220625971;146105;9950997;11;40
+r;232095408;146105;10065231;11;40
+r;242255319;146105;10191032;11;40
+r;242257096;146105;10190221;11;40
+r;262203100;146105;10517711;11;40
+r;262206930;146105;10516479;11;40
+r;283283062;146105;11146920;11;40
+r;296653596;146105;11553888;11;40
+r;297599858;146105;11575389;11;40
+r;340360123;146105;13406943;11;40
+r;57917932;146105;2475573;11;41
+r;115086946;146105;5903568;11;41
+r;115088912;146105;5903019;11;41
+r;115091041;146105;5902382;11;41
+r;118534960;146105;6002312;11;41
+r;118540292;146105;6000934;11;41
+r;121482194;146105;6445119;11;41
+r;232086188;146105;10069557;11;41
+r;232087915;146105;10069252;11;41
+r;262051172;146105;10507548;11;41
+r;262885910;146105;10548834;11;41
+r;289453322;146105;11303955;11;41
+r;289453706;146105;11303964;11;41
+r;291799217;146105;11373456;11;41
+r;291799224;146105;11373454;11;41
+r;291799235;146105;11373441;11;41
+r;291922180;146105;11378141;11;41
+r;53012133;146105;2385640;11;42
+r;53111154;146105;2390900;11;42
+r;55399077;146105;2447494;11;42
+r;55803188;146105;2467457;11;42
+r;110808845;146105;5624176;11;42
+r;114750444;146105;5893758;11;42
+r;115091019;146105;5902411;11;42
+r;115093278;146105;5901372;11;42
+r;116309243;146105;5943513;11;42
+r;116319869;146105;5940430;11;42
+r;233027711;146105;10090976;11;42
+r;233309808;146105;10095853;11;42
+r;234230927;146105;10095932;11;42
+r;234230936;146105;10095930;11;42
+r;234230944;146105;10095927;11;42
+r;234230951;146105;10095926;11;42
+r;234230958;146105;10095923;11;42
+r;234230965;146105;10095922;11;42
+r;234230972;146105;10095921;11;42
+r;234230979;146105;10095920;11;42
+r;234230986;146105;10095919;11;42
+r;234231003;146105;10095916;11;42
+r;234231009;146105;10095915;11;42
+r;234231014;146105;10095914;11;42
+r;234231025;146105;10095912;11;42
+r;234231036;146105;10095910;11;42
+r;234231056;146105;10095906;11;42
+r;234231063;146105;10095905;11;42
+r;234231078;146105;10095900;11;42
+r;234231083;146105;10095899;11;42
+r;234231090;146105;10095898;11;42
+r;234231097;146105;10095897;11;42
+r;234231118;146105;10095894;11;42
+r;234231125;146105;10095893;11;42
+r;234231137;146105;10095891;11;42
+r;234231149;146105;10095888;11;42
+r;234231154;146105;10095887;11;42
+r;234231160;146105;10095886;11;42
+r;234231175;146105;10095884;11;42
+r;234231191;146105;10095883;11;42
+r;234231199;146105;10095882;11;42
+r;234231209;146105;10095881;11;42
+r;234231216;146105;10095880;11;42
+r;234231223;146105;10095879;11;42
+r;234231230;146105;10095878;11;42
+r;234231235;146105;10095877;11;42
+r;234231249;146105;10095875;11;42
+r;234231269;146105;10095871;11;42
+r;234231276;146105;10095870;11;42
+r;234231283;146105;10095867;11;42
+r;234231290;146105;10095866;11;42
+r;234231297;146105;10095865;11;42
+r;234231302;146105;10095860;11;42
+r;234231307;146105;10095859;11;42
+r;234231314;146105;10095858;11;42
+r;234231325;146105;10095855;11;42
+r;234231330;146105;10095854;11;42
+r;234231335;146105;10095852;11;42
+r;234231340;146105;10095851;11;42
+r;234231345;146105;10095850;11;42
+r;234231350;146105;10095819;11;42
+r;234231355;146105;10095818;11;42
+r;234231360;146105;10095817;11;42
+r;234231364;146105;10095816;11;42
+r;234231371;146105;10095815;11;42
+r;234231378;146105;10095814;11;42
+r;234231418;146105;10095807;11;42
+r;234231437;146105;10095780;11;42
+r;234231442;146105;10095779;11;42
+r;234231447;146105;10095778;11;42
+r;234231452;146105;10095746;11;42
+r;234741047;146105;10118924;11;42
+r;234743156;146105;10118522;11;42
+r;240917344;146105;10185934;11;42
+r;285982113;146105;11174729;11;42
+r;287587995;146105;11218754;11;42
+r;287589990;146105;11218773;11;42
+r;287728067;146105;11222011;11;42
+r;291748818;146105;11373470;11;42
+r;291748935;146105;11373442;11;42
+r;291767431;146105;11373452;11;42
+r;297063661;146105;11561022;11;42
+r;297519769;146105;11575391;11;42
+r;318954655;146105;12278670;11;42
+r;420266642;146105;16103838;11;42
+r;53439303;146105;2402507;11;43
+r;115095037;146105;5900850;11;43
+r;116319956;146105;5940409;11;43
+r;258719613;146105;10457291;11;43
+r;285816733;146105;11162896;11;43
+r;285847950;146105;11172802;11;43
+r;289920439;146105;11317243;11;43
+r;328151997;146105;12788953;11;43
+r;417031933;146105;15279098;11;43
+r;417032381;146105;15582833;11;43
+r;417032385;146105;15582835;11;43
+r;417032389;146105;15293044;11;43
+r;417032399;146105;15337600;11;43
+r;53284314;146105;2400049;11;44
+r;59537762;146105;2479388;11;44
+r;116319890;146105;5940426;11;44
+r;238093089;146105;10174432;11;44
+r;256484931;146105;10428186;11;44
+r;285407726;146105;11160429;11;44
+r;285408530;146105;11160522;11;44
+r;50177556;146105;2362117;11;45
+r;55847523;146105;2469715;11;45
+r;98387360;146105;4315818;11;45
+r;118540086;146105;6000988;11;45
+r;236643670;146105;10156254;11;45
+r;236659801;146105;10143076;11;45
+r;284906134;146105;11159190;11;45
+r;55372357;146105;2446215;11;46
+r;115107338;146105;5897336;11;46
+r;121463389;146105;6447207;11;46
+r;281833550;146105;11105548;11;46
+r;50242025;146105;2363688;11;47
+r;50476315;146105;2367300;11;47
+r;115105168;146105;5898061;11;47
+r;420158876;146105;16096309;11;47
+r;50472380;146105;2367109;11;48
+r;50472467;146105;2367129;11;48
+r;55094587;146105;2434405;11;48
+r;109889188;146105;5540472;11;48
+r;117905531;146105;5982334;11;48
+r;50433458;146105;2365306;11;49
+r;52939399;146105;2382901;11;49
+r;55190661;146105;2437750;11;49
+r;115105571;146105;5897897;11;49
+r;117898920;146105;5983859;11;49
+r;118540223;146105;6000950;11;49
+r;121440321;146105;6528168;11;49
+r;108290683;146105;5514375;11;50
+r;115090075;146105;5902676;11;50
+r;115097466;146105;5900032;11;50
+r;180161498;146105;8758175;11;50
+r;180161503;146105;8758174;11;50
+r;180161516;146105;8758172;11;50
+r;183652489;146105;8786066;11;50
+r;187421289;146105;8809248;11;50
+r;190279677;146105;8852918;11;50
+r;193130053;146105;8930424;11;50
+r;200557611;146105;9101752;11;50
+r;200558491;146105;9101844;11;50
+r;200559186;146105;9101969;11;50
+r;200595132;146105;9101884;11;50
+r;200623328;146105;9101988;11;50
+r;212910655;146105;9271095;11;50
+r;212915896;146105;9271109;11;50
+r;213741436;146105;9448119;11;50
+r;216460961;146105;9607586;11;50
+r;217445287;146105;9699438;11;50
+r;217446256;146105;9699437;11;50
+r;273215042;146105;10878861;11;50
+r;282170184;146105;11107618;11;50
+r;282231814;146105;11118315;11;50
+r;282328331;146105;11120191;11;50
+r;282466725;146105;11119211;11;50
+r;282582207;146105;11127554;11;50
+r;282722624;146105;11129564;11;50
+r;282729102;146105;11129662;11;50
+r;282911186;146105;11133166;11;50
+r;282916048;146105;11133162;11;50
+r;282916699;146105;11133164;11;50
+r;283084232;146105;11133165;11;50
+r;297425385;146105;11572661;11;50
+r;297599844;146105;11575390;11;50
+r;317591915;146105;12246663;11;50
+r;322165751;146105;12495000;11;50
+r;322828899;146105;12600368;11;50
+r;322829103;146105;12600376;11;50
+r;322829244;146105;12600383;11;50
+r;322829669;146105;12600360;11;50
+r;322830214;146105;12600390;11;50
+r;322832019;146105;12600381;11;50
+r;322832381;146105;12600395;11;50
+r;322832547;146105;12600363;11;50
+r;322832905;146105;12600378;11;50
+r;322834427;146105;12600384;11;50
+r;322834528;146105;12600382;11;50
+r;322834583;146105;12600393;11;50
+r;322836204;146105;12600392;11;50
+r;322836241;146105;12600364;11;50
+r;322836275;146105;12600374;11;50
+r;322836361;146105;12600371;11;50
+r;322836432;146105;12600367;11;50
+r;322836481;146105;12600387;11;50
+r;322836520;146105;12600365;11;50
+r;322837125;146105;12600389;11;50
+r;322837207;146105;12600385;11;50
+r;322837366;146105;12600362;11;50
+r;322837404;146105;12600359;11;50
+r;322837470;146105;12600361;11;50
+r;322837514;146105;12600373;11;50
+r;322837554;146105;12600386;11;50
+r;322839351;146105;12600369;11;50
+r;322839399;146105;12600379;11;50
+r;322839478;146105;12600380;11;50
+r;322840169;146105;12600394;11;50
+r;322840276;146105;12600370;11;50
+r;322840310;146105;12600366;11;50
+r;322840319;146105;12600391;11;50
+r;322840376;146105;12600388;11;50
+r;322840418;146105;12600372;11;50
+r;322840429;146105;12600377;11;50
+r;322840463;146105;12600375;11;50
+r;323096094;146105;12617373;11;50
+r;323223718;146105;12626324;11;50
+r;325129242;146105;12690353;11;50
+r;325129316;146105;12690360;11;50
+r;325129532;146105;12690363;11;50
+r;325495803;146105;12690364;11;50
+r;325540054;146105;12699807;11;50
+r;326437258;146105;12714816;11;50
+r;327328206;146105;12711338;11;50
+r;327329265;146105;12710199;11;50
+r;361298484;146105;14228584;11;50
+r;359198939;146105;14152624;11;50
+r;374962245;146105;14748232;11;50
+r;372886824;146105;14665036;11;50
+r;372942826;146105;14665714;11;50
+r;372945779;146105;14665712;11;50
+r;414755742;146105;15521245;11;50
+r;400610253;146105;14488712;11;50
+r;402122042;146105;15327674;11;50
+r;393837909;146105;14678652;11;50
+r;393999434;146105;14397338;11;50
+r;394000712;146105;14454915;11;50
+r;395017206;146105;14228583;11;50
+r;402272735;146105;15355240;11;50
+r;425304489;146105;16161227;11;50
+r;427040173;146105;16279449;11;50
+r;15948363;146105;439517;11;51
+r;17303509;146105;569541;11;51
+r;25853540;146105;1637828;11;51
+r;27413861;146105;1656125;11;51
+r;28192428;146105;1706921;11;51
+r;29485207;146105;1801643;11;51
+r;31378724;146105;1932400;11;51
+r;31380474;146105;1932399;11;51
+r;34352394;146105;2340714;11;51
+r;50065891;146105;2359117;11;51
+r;55462705;146105;2604089;11;51
+r;58033099;146105;2609655;11;51
+r;76702183;146105;3179250;11;51
+r;85321200;146105;3342250;11;51
+r;85849770;146105;3348628;11;51
+r;86133960;146105;3371799;11;51
+r;86149612;146105;3369889;11;51
+r;86163043;146105;3368341;11;51
+r;86173929;146105;3367016;11;51
+r;86173979;146105;3367009;11;51
+r;86180719;146105;3366191;11;51
+r;86203694;146105;3363475;11;51
+r;86203797;146105;3363463;11;51
+r;93461478;146105;3744109;11;51
+r;93499498;146105;3746043;11;51
+r;108649811;146105;5518264;11;51
+r;16309375;146105;462417;11;52
+r;17290175;146105;569735;11;52
+r;17543633;146105;570593;11;52
+r;29026985;146105;1765537;11;52
+r;29858005;146105;1850643;11;52
+r;30475536;146105;1889942;11;52
+r;34306962;146105;2339708;11;52
+r;33743862;146105;2324527;11;52
+r;50071041;146105;2359865;11;52
+r;52449582;146105;2556526;11;52
+r;52449987;146105;2555799;11;52
+r;86174478;146105;3366944;11;52
+r;86174485;146105;3366943;11;52
+r;86184925;146105;3365726;11;52
+r;86185024;146105;3365717;11;52
+r;86191013;146105;3365123;11;52
+r;86202139;146105;3363654;11;52
+r;86203410;146105;3363510;11;52
+r;86203811;146105;3363462;11;52
+r;86247263;146105;3361309;11;52
+r;87350191;146105;3421667;11;52
+r;88335032;146105;3490569;11;52
+r;93458112;146105;3743751;11;52
+r;93492415;146105;3747411;11;52
+r;93493978;146105;3746723;11;52
+r;93688564;146105;3755130;11;52
+r;95172665;146105;3906193;11;52
+r;98862455;146105;4333288;11;52
+r;17037272;146105;566944;11;53
+r;17542955;146105;570984;11;53
+r;18149803;146105;580172;11;53
+r;22529831;146105;1233158;11;53
+r;23491505;146105;1389811;11;53
+r;33104875;146105;2202743;11;53
+r;52451803;146105;2551976;11;53
+r;52456154;146105;2543007;11;53
+r;52465227;146105;2524010;11;53
+r;86110544;146105;3359006;11;53
+r;86165989;146105;3367977;11;53
+r;86171680;146105;3367268;11;53
+r;86188437;146105;3365394;11;53
+r;86202870;146105;3363569;11;53
+r;86203827;146105;3363461;11;53
+r;86214988;146105;3362117;11;53
+r;86262507;146105;3362067;11;53
+r;87355542;146105;3423288;11;53
+r;93494744;146105;3746627;11;53
+r;93497103;146105;3746336;11;53
+r;93694501;146105;3754478;11;53
+r;93702040;146105;3753697;11;53
+r;95157620;146105;4162413;11;53
+r;18149665;146105;580175;11;54
+r;18170729;146105;580798;11;54
+r;31782034;146105;1971644;11;54
+r;52455468;146105;2544355;11;54
+r;52461858;146105;2531082;11;54
+r;55493770;146105;2605797;11;54
+r;55920243;146105;2473617;11;54
+r;86135918;146105;3371550;11;54
+r;86149600;146105;3369890;11;54
+r;86158727;146105;3368830;11;54
+r;86174466;146105;3366945;11;54
+r;86177883;146105;3366525;11;54
+r;86180133;146105;3366258;11;54
+r;86182456;146105;3365983;11;54
+r;86182514;146105;3365975;11;54
+r;86199255;146105;3364031;11;54
+r;86199441;146105;3364006;11;54
+r;86211115;146105;3362553;11;54
+r;86238128;146105;3360806;11;54
+r;86464204;146105;3377346;11;54
+r;88828939;146105;3560487;11;54
+r;93492225;146105;3745437;11;54
+r;93492435;146105;3747407;11;54
+r;95151876;146105;4266486;11;54
+r;95178917;146105;3797034;11;54
+r;98346833;146105;4315785;11;54
+r;103204210;146105;4928706;11;54
+r;19503467;146105;718059;11;55
+r;27281404;146105;1655738;11;55
+r;34095795;146105;2333406;11;55
+r;50173645;146105;2361888;11;55
+r;52475363;146105;2502193;11;55
+r;54593429;146105;2426812;11;55
+r;61887124;146105;2699431;11;55
+r;85621368;146105;3343996;11;55
+r;86180668;146105;3366197;11;55
+r;86181797;146105;3366062;11;55
+r;86196071;146105;3364490;11;55
+r;86198105;146105;3364214;11;55
+r;86203843;146105;3363460;11;55
+r;86210799;146105;3362592;11;55
+r;86219201;146105;3359603;11;55
+r;86226354;146105;3360045;11;55
+r;86228593;146105;3360227;11;55
+r;86230500;146105;3360215;11;55
+r;93455154;146105;3743759;11;55
+r;93468044;146105;3744553;11;55
+r;93483884;146105;3744824;11;55
+r;93500769;146105;3745888;11;55
+r;93670671;146105;3756955;11;55
+r;93673290;146105;3756657;11;55
+r;93696301;146105;3754281;11;55
+r;106931502;146105;5338940;11;55
+r;16131490;146105;439519;11;56
+r;18148613;146105;580174;11;56
+r;18149193;146105;580173;11;56
+r;27413852;146105;1656126;11;56
+r;30325309;146105;1874108;11;56
+r;31007468;146105;1920413;11;56
+r;52459845;146105;2535373;11;56
+r;52462564;146105;2529648;11;56
+r;52470144;146105;2513405;11;56
+r;52472253;146105;2508952;11;56
+r;52495498;146105;2552844;11;56
+r;52956851;146105;2579627;11;56
+r;54520110;146105;2423505;11;56
+r;72894599;146105;2953070;11;56
+r;86133909;146105;3371807;11;56
+r;86135418;146105;3371615;11;56
+r;86164019;146105;3368227;11;56
+r;86210955;146105;3362576;11;56
+r;86232478;146105;3360480;11;56
+r;93456502;146105;3743891;11;56
+r;93647596;146105;3759464;11;56
+r;93680750;146105;3755860;11;56
+r;93707118;146105;3753146;11;56
+r;96318923;146105;4304992;11;56
+r;18145774;146105;580052;11;57
+r;18755036;146105;599630;11;57
+r;19433810;146105;703231;11;57
+r;28451881;146105;1732100;11;57
+r;29402772;146105;1792815;11;57
+r;32050394;146105;1976475;11;57
+r;32103151;146105;1979693;11;57
+r;52458054;146105;2538964;11;57
+r;52462112;146105;2530635;11;57
+r;52462568;146105;2529643;11;57
+r;52481686;146105;2488393;11;57
+r;71896916;146105;2931788;11;57
+r;72287914;146105;2937108;11;57
+r;75948759;146105;3115751;11;57
+r;83734574;146105;3322797;11;57
+r;86132576;146105;3371990;11;57
+r;86154466;146105;3369303;11;57
+r;86155858;146105;3369121;11;57
+r;86165691;146105;3368013;11;57
+r;86166324;146105;3367934;11;57
+r;86186167;146105;3365611;11;57
+r;86188553;146105;3365382;11;57
+r;86203703;146105;3363474;11;57
+r;86222456;146105;3359659;11;57
+r;89128062;146105;3572350;11;57
+r;93494677;146105;3746636;11;57
+r;95156089;146105;4190091;11;57
+r;109385053;146105;5524708;11;57
+r;17113500;146105;567526;11;58
+r;18148732;146105;580176;11;58
+r;22126894;146105;1172271;11;58
+r;28452003;146105;1732101;11;58
+r;31134661;146105;1922885;11;58
+r;32523525;146105;2072201;11;58
+r;34754591;146105;2352615;11;58
+r;52456633;146105;2542064;11;58
+r;52471702;146105;2510182;11;58
+r;52480224;146105;2491683;11;58
+r;52482674;146105;2486469;11;58
+r;63172441;146105;2768961;11;58
+r;76783533;146105;3180500;11;58
+r;82833944;146105;3304029;11;58
+r;83652012;146105;3318809;11;58
+r;84309897;146105;3337785;11;58
+r;86138522;146105;3371240;11;58
+r;86150518;146105;3369783;11;58
+r;86160414;146105;3368649;11;58
+r;86163194;146105;3368324;11;58
+r;86164965;146105;3368105;11;58
+r;86199450;146105;3364005;11;58
+r;87470254;146105;3437439;11;58
+r;93500635;146105;3745905;11;58
+r;93502346;146105;3745702;11;58
+r;93669634;146105;3757060;11;58
+r;103080385;146105;4904107;11;58
+r;122138414;146105;6596109;11;58
+r;22448302;146105;1223706;11;59
+r;25009137;146105;1535057;11;59
+r;27141209;146105;1654516;11;59
+r;29308784;146105;1785086;11;59
+r;29618688;146105;1814500;11;59
+r;29620974;146105;1814508;11;59
+r;34309868;146105;2339742;11;59
+r;52448645;146105;2558660;11;59
+r;52453754;146105;2547882;11;59
+r;52479670;146105;2492947;11;59
+r;78323459;146105;3231034;11;59
+r;83431333;146105;3313327;11;59
+r;86126769;146105;3359043;11;59
+r;86151248;146105;3369702;11;59
+r;86181152;146105;3366136;11;59
+r;86200685;146105;3363836;11;59
+r;86210813;146105;3362591;11;59
+r;93467028;146105;3744569;11;59
+r;93701640;146105;3753741;11;59
+r;99108883;146105;4344631;11;59
+r;108351146;146105;5516843;11;59
+r;17226317;146105;568493;11;60
+r;16985362;146105;566747;11;60
+r;17697776;146105;572213;11;60
+r;20655964;146105;955995;11;60
+r;27773141;146105;1675904;11;60
+r;28410809;146105;1730163;11;60
+r;28503849;146105;1735375;11;60
+r;52455543;146105;2544232;11;60
+r;52468942;146105;2515920;11;60
+r;54494485;146105;2422050;11;60
+r;83447119;146105;3314047;11;60
+r;83671954;146105;3319377;11;60
+r;83824401;146105;3324024;11;60
+r;86130549;146105;3359474;11;60
+r;86142768;146105;3370702;11;60
+r;86157860;146105;3368909;11;60
+r;86162973;146105;3368349;11;60
+r;86188237;146105;3365413;11;60
+r;86213578;146105;3362254;11;60
+r;86231885;146105;3360481;11;60
+r;91662623;146105;3685877;11;60
+r;99036922;146105;4340412;11;60
+r;106043348;146105;5158782;11;60
+r;29426606;146105;1795612;11;61
+r;29449368;146105;1797686;11;61
+r;29619130;146105;1814509;11;61
+r;71855980;146105;2929440;11;61
+r;76563960;146105;3176454;11;62
+r;29620966;146105;1814510;11;63
+r;76504828;146105;3175658;11;63
+r;29619409;146105;1814494;11;65
+r;29619485;146105;1814499;11;65
+r;76243188;146105;3170584;11;65
+r;29739005;146105;1820188;11;66
+r;72025492;146105;2933789;11;68
+r;29619921;146105;1814522;11;69
+r;13678591;146105;393786;11;88
+r;13678595;146105;393785;11;88
+r;12553999;146105;386845;11;101
+r;12606841;146105;373772;11;101
+r;12622121;146105;370069;11;101
+r;12644563;146105;364437;11;101
+r;12646587;146105;363951;11;101
+r;12737179;146105;341974;11;101
+r;12743743;146105;340377;11;101
+r;12762353;146105;335837;11;101
+r;12576787;146105;381120;11;102
+r;12616147;146105;371518;11;102
+r;12646575;146105;363954;11;102
+r;12646591;146105;363950;11;102
+r;12711893;146105;347857;11;102
+r;12746083;146105;339826;11;102
+r;12767295;146105;334594;11;102
+r;12646573;146105;363955;11;103
+r;12702337;146105;350221;11;103
+r;12722813;146105;345412;11;103
+r;12578479;146105;380737;11;104
+r;12617979;146105;371107;11;104
+r;12646579;146105;363953;11;104
+r;12684013;146105;354786;11;104
+r;12545383;146105;389136;11;105
+r;12547383;146105;388606;11;105
+r;12576963;146105;381077;11;105
+r;12602959;146105;374736;11;105
+r;12678247;146105;356218;11;106
+r;12710067;146105;348308;11;106
+r;12739839;146105;341312;11;106
+r;12742343;146105;340706;11;106
+r;12588807;146105;378267;11;107
+r;12646505;146105;363973;11;107
+r;12646583;146105;363952;11;107
+r;12684459;146105;354680;11;107
+r;12705195;146105;349505;11;107
+r;12739243;146105;341462;11;107
+r;12578937;146105;380644;11;108
+r;12603021;146105;374720;11;108
+r;12637435;146105;366200;11;108
+r;12643609;146105;364670;11;108
+r;12659885;146105;360718;11;108
+r;12700185;146105;350783;11;108
+r;12750665;146105;338744;11;108
+r;12764193;146105;335382;11;108
+r;12767595;146105;334521;11;108
+r;12550547;146105;387713;11;109
+r;12556279;146105;386279;11;109
+r;12651587;146105;362722;11;109
+r;12671285;146105;357893;11;109
+r;12701291;146105;350485;11;109
+r;12754067;146105;337904;11;109
+r;13270118;146105;393062;11;109
+r;12556165;146105;386307;11;110
+r;12620643;146105;370451;11;110
+r;12646509;146105;363972;11;110
+r;12758991;146105;336657;11;110
+r;12059788;146105;331020;11;114
+r;11863601;146105;100272;11;121
+r;11864298;146105;95873;11;121
+r;11867324;146105;74531;11;121
+r;11868289;146105;67526;11;121
+r;11873118;146105;35447;11;121
+r;11851116;146105;248804;11;122
+r;11855130;146105;173593;11;122
+r;11859298;146105;129706;11;122
+r;11860862;146105;119097;11;122
+r;11848261;146105;296718;11;123
+r;12008012;146105;330609;11;146
+r;12005056;146105;330581;11;147
+r;11684571;146105;329652;11;148
+r;8941588;146105;317748;11;148
+r;9059996;146105;320295;11;148
+r;9077686;146105;321756;11;148
+r;9095055;146105;322095;11;148
+r;11646904;146105;329528;11;148
+r;8875551;146105;167720;11;151
+r;8880978;146105;248813;11;151
+r;8872474;146105;113856;11;152
+r;8875456;146105;164804;11;152
+r;8875782;146105;173370;11;152
+r;8879513;146105;212261;11;152
+r;8885003;146105;297674;11;152
+r;8874435;146105;142743;11;153
+r;8875780;146105;173369;11;153
+r;8875833;146105;177161;11;153
+r;8876035;146105;181611;11;153
+r;8882963;146105;275770;11;153
+r;8883130;146105;277564;11;153
+r;8883242;146105;278914;11;153
+r;8883373;146105;280342;11;153
+r;8885562;146105;304005;11;153
+r;8886208;146105;310518;11;153
+r;8873386;146105;138552;11;154
+r;8877296;146105;192996;11;154
+r;8886412;146105;312632;11;154
+r;8886414;146105;312633;11;154
+r;8838624;146105;315286;11;156
+r;8696106;146105;226371;11;160
+r;8708728;146105;244443;11;160
+r;8710499;146105;246971;11;160
+r;8710836;146105;247339;11;160
+r;8711597;146105;248227;11;160
+r;8714229;146105;250791;11;160
+r;8718463;146105;254443;11;160
+r;8728364;146105;261644;11;160
+r;8591423;146105;63225;11;161
+r;8606345;146105;106150;11;161
+r;8611018;146105;119036;11;161
+r;8631011;146105;167579;11;161
+r;8631369;146105;168163;11;161
+r;8631370;146105;168166;11;161
+r;8631402;146105;168197;11;161
+r;8631404;146105;168198;11;161
+r;8631556;146105;168412;11;161
+r;8631558;146105;168413;11;161
+r;8631561;146105;168414;11;161
+r;8633077;146105;170707;11;161
+r;8633089;146105;170718;11;161
+r;8633272;146105;170858;11;161
+r;8682234;146105;208612;11;161
+r;8685138;146105;210372;11;161
+r;8688341;146105;212855;11;161
+r;8690843;146105;217967;11;161
+r;8691048;146105;218415;11;161
+r;8691582;146105;219403;11;161
+r;8693427;146105;221912;11;161
+r;8693443;146105;221922;11;161
+r;8693925;146105;222697;11;161
+r;8694489;146105;223702;11;161
+r;8694557;146105;223796;11;161
+r;8694560;146105;223797;11;161
+r;8694722;146105;224073;11;161
+r;8695489;146105;225256;11;161
+r;8695496;146105;225268;11;161
+r;8695804;146105;225750;11;161
+r;8695981;146105;226183;11;161
+r;8696237;146105;226539;11;161
+r;8697197;146105;227992;11;161
+r;8697700;146105;228806;11;161
+r;8697723;146105;228855;11;161
+r;8698254;146105;229435;11;161
+r;8698483;146105;229744;11;161
+r;8698746;146105;230139;11;161
+r;8700734;146105;232262;11;161
+r;8700757;146105;232294;11;161
+r;8702048;146105;234451;11;161
+r;8703101;146105;235528;11;161
+r;8706715;146105;240555;11;161
+r;8707756;146105;242629;11;161
+r;8708577;146105;244259;11;161
+r;8709647;146105;245875;11;161
+r;8712176;146105;248822;11;161
+r;8712699;146105;249428;11;161
+r;8714715;146105;251167;11;161
+r;8714835;146105;251265;11;161
+r;8715727;146105;252152;11;161
+r;8717111;146105;253399;11;161
+r;8718026;146105;254164;11;161
+r;8722255;146105;257106;11;161
+r;8726459;146105;260077;11;161
+r;8729098;146105;262283;11;161
+r;8729420;146105;262555;11;161
+r;1606033;146105;168415;11;162
+r;2202179;146105;223727;11;162
+r;8581899;146105;35836;11;162
+r;8582119;146105;36451;11;162
+r;8587730;146105;52624;11;162
+r;8589580;146105;57848;11;162
+r;8589658;146105;58061;11;162
+r;8590738;146105;61173;11;162
+r;8590964;146105;61844;11;162
+r;8592320;146105;66028;11;162
+r;8597562;146105;81393;11;162
+r;8602615;146105;95794;11;162
+r;8604506;146105;101017;11;162
+r;8605002;146105;102467;11;162
+r;8605514;146105;103926;11;162
+r;8606588;146105;106847;11;162
+r;8607075;146105;108029;11;162
+r;8607151;146105;108230;11;162
+r;8608987;146105;113259;11;162
+r;8609056;146105;113463;11;162
+r;8609097;146105;113576;11;162
+r;8610609;146105;117898;11;162
+r;8612086;146105;122075;11;162
+r;8612755;146105;124040;11;162
+r;8625114;146105;156488;11;162
+r;8625337;146105;157108;11;162
+r;8626807;146105;160239;11;162
+r;8627131;146105;160901;11;162
+r;8628639;146105;163856;11;162
+r;8628963;146105;164404;11;162
+r;8630181;146105;166480;11;162
+r;8632202;146105;169769;11;162
+r;8633248;146105;170840;11;162
+r;8633277;146105;170866;11;162
+r;8633296;146105;170889;11;162
+r;8633324;146105;170907;11;162
+r;8633357;146105;170942;11;162
+r;8643318;146105;184338;11;162
+r;8643819;146105;184648;11;162
+r;8672492;146105;202776;11;162
+r;8676225;146105;205021;11;162
+r;8678724;146105;206603;11;162
+r;8684786;146105;210095;11;162
+r;8685891;146105;210925;11;162
+r;8688054;146105;212567;11;162
+r;8688442;146105;212967;11;162
+r;8688860;146105;213505;11;162
+r;8688862;146105;213506;11;162
+r;8690177;146105;216143;11;162
+r;8690186;146105;216169;11;162
+r;8733633;146105;265929;11;162
+r;8735136;146105;267222;11;162
+r;8742893;146105;274967;11;162
+r;8762074;146105;294741;11;162
+r;8770819;146105;304551;11;162
+r;1606026;146105;212352;11;163
+r;1606035;146105;160669;11;163
+r;1606045;146105;110151;11;163
+r;8581342;146105;34293;11;163
+r;8582020;146105;36156;11;163
+r;8584696;146105;44115;11;163
+r;8584895;146105;44789;11;163
+r;8585302;146105;45940;11;163
+r;8586736;146105;49965;11;163
+r;8588541;146105;54891;11;163
+r;8593379;146105;69045;11;163
+r;8594040;146105;71152;11;163
+r;8594731;146105;73114;11;163
+r;8595203;146105;74518;11;163
+r;8595396;146105;75086;11;163
+r;8596451;146105;78178;11;163
+r;8596584;146105;78514;11;163
+r;8597153;146105;80226;11;163
+r;8597658;146105;81699;11;163
+r;8600051;146105;88401;11;163
+r;8600481;146105;89698;11;163
+r;8601864;146105;93660;11;163
+r;8602128;146105;94487;11;163
+r;8603513;146105;98116;11;163
+r;8604148;146105;99996;11;163
+r;8612161;146105;122278;11;163
+r;8614334;146105;128389;11;163
+r;8615008;146105;130204;11;163
+r;8615293;146105;131042;11;163
+r;8618381;146105;138073;11;163
+r;8618911;146105;138947;11;163
+r;8619420;146105;139903;11;163
+r;8623239;146105;153300;11;163
+r;8623353;146105;153478;11;163
+r;8623559;146105;153830;11;163
+r;8625581;146105;158180;11;163
+r;8625810;146105;158578;11;163
+r;8626100;146105;159083;11;163
+r;8634314;146105;171807;11;163
+r;8635152;146105;175348;11;163
+r;8635155;146105;175388;11;163
+r;8635186;146105;175687;11;163
+r;8636031;146105;178946;11;163
+r;8636049;146105;179031;11;163
+r;8636060;146105;179071;11;163
+r;8638593;146105;181582;11;163
+r;8639646;146105;182171;11;163
+r;8640282;146105;182532;11;163
+r;8640925;146105;182907;11;163
+r;8642100;146105;183625;11;163
+r;8642791;146105;184037;11;163
+r;8645459;146105;185800;11;163
+r;8646633;146105;186368;11;163
+r;8670854;146105;201729;11;163
+r;8676283;146105;205064;11;163
+r;8676649;146105;205287;11;163
+r;8676841;146105;205393;11;163
+r;8677275;146105;205664;11;163
+r;8677525;146105;205826;11;163
+r;8731586;146105;264087;11;163
+r;8731921;146105;264381;11;163
+r;8732940;146105;265350;11;163
+r;8736394;146105;268566;11;163
+r;8736776;146105;268947;11;163
+r;8737494;146105;269753;11;163
+r;8738458;146105;270924;11;163
+r;8738459;146105;270925;11;163
+r;8738927;146105;271409;11;163
+r;8739754;146105;272226;11;163
+r;8742885;146105;274962;11;163
+r;8742889;146105;274965;11;163
+r;8744070;146105;276018;11;163
+r;8746864;146105;279347;11;163
+r;8748618;146105;281250;11;163
+r;8748793;146105;281445;11;163
+r;8748795;146105;281446;11;163
+r;8750278;146105;283037;11;163
+r;8750280;146105;283039;11;163
+r;8750328;146105;283095;11;163
+r;8750708;146105;283512;11;163
+r;8750790;146105;283614;11;163
+r;8751113;146105;283964;11;163
+r;8751242;146105;284102;11;163
+r;8751851;146105;284640;11;163
+r;8752075;146105;284837;11;163
+r;8756550;146105;288565;11;163
+r;8756631;146105;288624;11;163
+r;8756633;146105;288625;11;163
+r;8757320;146105;289358;11;163
+r;8757996;146105;290016;11;163
+r;8758177;146105;290216;11;163
+r;8758485;146105;290543;11;163
+r;8760454;146105;292718;11;163
+r;8761000;146105;293378;11;163
+r;8761706;146105;294278;11;163
+r;8761707;146105;294279;11;163
+r;8762544;146105;295293;11;163
+r;8767324;146105;300660;11;163
+r;8767547;146105;300951;11;163
+r;8769055;146105;302585;11;163
+r;8770013;146105;303674;11;163
+r;8770614;146105;304346;11;163
+r;8770616;146105;304347;11;163
+r;8770618;146105;304348;11;163
+r;8773086;146105;307398;11;163
+r;8773755;146105;308016;11;163
+r;8773756;146105;308017;11;163
+r;8774040;146105;308301;11;163
+r;8774239;146105;308468;11;163
+r;8774869;146105;309037;11;163
+r;8774964;146105;309112;11;163
+r;8778503;146105;312304;11;163
+r;1606008;146105;35027;11;164
+r;1606009;146105;173248;11;164
+r;1606010;146105;173249;11;164
+r;1606011;146105;173250;11;164
+r;1606012;146105;173257;11;164
+r;1606013;146105;173258;11;164
+r;1606014;146105;173261;11;164
+r;1606016;146105;173262;11;164
+r;1606018;146105;173263;11;164
+r;1606019;146105;203613;11;164
+r;1606020;146105;203614;11;164
+r;1606021;146105;140507;11;164
+r;1606022;146105;143818;11;164
+r;1606025;146105;145963;11;164
+r;1606027;146105;183176;11;164
+r;1606028;146105;94626;11;164
+r;1606030;146105;87943;11;164
+r;1606031;146105;173252;11;164
+r;1606032;146105;173251;11;164
+r;1606034;146105;183175;11;164
+r;1606036;146105;173253;11;164
+r;1606037;146105;173254;11;164
+r;1606038;146105;173255;11;164
+r;1606039;146105;173256;11;164
+r;1606040;146105;126895;11;164
+r;1606041;146105;78024;11;164
+r;1606042;146105;203615;11;164
+r;1606043;146105;203616;11;164
+r;1606044;146105;173259;11;164
+r;2202175;146105;91329;11;164
+r;2202176;146105;95212;11;164
+r;2202177;146105;155876;11;164
+r;2202178;146105;158112;11;164
+r;8577976;146105;24194;11;164
+r;8578462;146105;25635;11;164
+r;8578672;146105;26268;11;164
+r;8578859;146105;26722;11;164
+r;8579526;146105;28773;11;164
+r;8579892;146105;29753;11;164
+r;8615843;146105;132515;11;164
+r;8615950;146105;132798;11;164
+r;8617730;146105;137179;11;164
+r;8648633;146105;187637;11;164
+r;8654165;146105;191637;11;164
+r;8654204;146105;191692;11;164
+r;8656811;146105;193316;11;164
+r;8776941;146105;311009;11;164
+r;8777171;146105;311203;11;164
+r;8779153;146105;312787;11;164
+r;8779157;146105;312789;11;164
+r;8779194;146105;312811;11;164
+r;8779196;146105;312812;11;164
+r;1606023;146105;137215;11;165
+r;1606024;146105;137838;11;165
+r;8574313;146105;13036;11;165
+r;8667190;146105;199736;11;165
+r;8670338;146105;201418;11;165
+r;1606029;146105;20196;11;166
+r;8573519;146105;10741;11;166
+r;8571040;146105;3316;11;168
+r;1606017;146105;5029;11;169
+r;2202174;146105;7580;11;169
+r;8570437;146105;1465;11;169
+r;1606015;146105;173260;11;174
+r;11870378;146105;53999;11;184
+r;2103700;146105;244990;11;187
+r;391302;146105;164067;11;188
+r;358693;146105;161970;11;207
+r;8883128;146105;277563;11;282

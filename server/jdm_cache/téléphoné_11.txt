@@ -1,0 +1,18 @@
+
+e;62669;'téléphoné';1;60
+e;14726754;'appel de balle téléphoné';1;4
+e;15495442;'Ta mère a téléphoné ce matin.';1;0
+e;15495433;'Je lui ai téléphoné pour l'inviter.';1;0
+e;15493647;'Elle a téléphoné depuis Valence.';1;0
+e;15482087;'J'ai téléphoné à Nicola, c'était un appel longue distance.';1;0
+e;15495444;'J'ai téléphoné, mais c'était occupé.';1;0
+e;385435;'télégramme téléphoné';1;50
+e;203649;'message téléphoné';1;50
+r;374411278;62669;14726754;11;26
+r;419550580;62669;15495442;11;34
+r;402154678;62669;15495433;11;50
+r;397497160;62669;15493647;11;50
+r;402121690;62669;15482087;11;50
+r;402121702;62669;15495444;11;50
+r;12559613;62669;385435;11;106
+r;8673962;62669;203649;11;163

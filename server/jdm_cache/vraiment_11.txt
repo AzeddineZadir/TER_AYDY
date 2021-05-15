@@ -1,0 +1,148 @@
+
+e;1;'vraiment';1;150
+e;13805888;'c'est vraiment intéressant';1;14
+e;13808627;'c'est vraiment nul';1;0
+e;14668672;'pas vraiment';1;0
+e;15239753;'espérer vraiment que ...';1;0
+e;15313860;'Mine de rien, il est vraiment efficace.';1;0
+e;15920986;'Nous n'étions pas vraiment compatibles.';1;0
+e;15341413;'Nous sommes vraiment désolés pour le désagrément.';1;0
+e;15332301;'Oh, vraiment ?';1;0
+e;15334045;'Pauvre David, il n'a vraiment pas de chance!';1;0
+e;15389047;'Ses remarques m'ont vraiment blessé.';1;0
+e;15350398;'Si tu viens pas, tu es vraiment un naze';1;0
+e;15230997;'Souhaitez-vous vraiment quitter ?';1;0
+e;15516130;'Tes critiques m'ont vraiment déplu.';1;0
+e;15469114;'Tu vas vraiment manger ça ?';1;0
+e;15374626;'Vous êtes vraiment des champions de la gaffe!';1;0
+e;15274299;'c'est vraiment casse-pieds de ...';1;0
+e;15493384;'c'est vraiment rebutant';1;0
+e;15314647;'c'était vraiment facile';1;0
+e;15471682;'ce qui compte vraiment';1;0
+e;15835167;'cela m'est impossible. Je ne peux vraiment pas.';1;0
+e;15234596;'connu vraiment';1;0
+e;14723773;'vraiment rien';1;0
+e;15402010;'Le film vaut vraiment la peine d'être vu.';1;0
+e;10595621;'Une dame vraiment bien';777;0
+e;10346950;'Dix millions d'années de pouvoir absolu. Voilà ce qu'il faut pour être vraiment corrompu';777;0
+e;11302054;'Attention à ne vraiment pas confondre avec';777;0
+e;15490477;'C'est vraiment de la camelote.';1;0
+e;15466838;'C'est vraiment un con.';1;0
+e;15259219;'Elle est vraiment gentille.';1;0
+e;15407072;'Je me suis senti vraiment bête.';1;0
+e;15314462;'J'avais vraiment les boules.';1;0
+e;15246075;'J'ai vraiment la flemme d'y aller.';1;0
+e;15256496;'Il peut faire un temps vraiment affreux en février.';1;0
+e;15258383;'Il raconte vraiment n'importe quoi.';1;0
+e;15327998;'Il a vraiment mauvais caractère.';1;0
+e;15497409;'Il a vraiment été choqué par cette nouvelle.';1;0
+e;15385501;'Elle était vraiment mal à l'aise au début.';1;0
+e;15198458;'Il est vraiment barbant!';1;0
+e;15361403;'Il m'agace vraiment.';1;0
+e;15293667;'Il est vraiment bouché!';1;0
+e;15334042;'Il n'a vraiment pas de chance.';1;0
+e;15274295;'Il est vraiment casse-pieds!';1;0
+e;15195121;'Il est vraiment pénible.';1;0
+e;15323577;'J'étais vraiment gêné.';1;0
+e;15573977;'Ce n'est vraiment pas assez grand.';1;0
+e;15316486;'C'est une artiste? -- Pas vraiment, elle peint en dilettante.';1;0
+e;15268280;'C'est vraiment agaçant.';1;0
+e;15384554;'C'est vraiment de mauvais goût!';1;0
+e;15362999;'C'est vraiment honteux.';1;0
+e;15249119;'C'était vraiment dégueulasse!';1;0
+e;15254355;'C'était vraiment effrayant.';1;0
+e;15295209;'C'était vraiment spectaculaire!';1;0
+e;15279988;'C'était vraiment une victoire remarquable.';1;0
+e;15238295;'Ce gamin est vraiment effronté.';1;0
+e;15334023;'Ce n'était vraiment pas de bol pour lui.';1;0
+e;15334044;'Ce n'était vraiment pas de chance pour lui.';1;0
+e;15209720;'Ce sont des compositeurs? -- Pas vraiment, mais ils composent en dilettante.';1;0
+e;15264975;'Certains parents se font vraiment une montagne de l'adoption.';1;0
+e;15231604;'Cette couleur est vraiment moche.';1;0
+e;15525641;'Je me suis vraiment beaucoup amusé.';1;0
+e;15525639;'Je me suis vraiment bien amusé.';1;0
+e;15693583;'Il faut l'admettre, ça me laisse vraiment perplexe.';1;0
+e;15779960;'Je ne me sens vraiment pas bien.';1;0
+e;16238394;'C'est une situation vraiment triste';1;0
+e;3177472;'c'est vraiment trop injuste';1;50
+e;3372133;'yaourt, 0% à l'eau de rose, diététique et vraiment dé-li-cieux';1;0
+e;2519097;'il faut vraiment être le fils de personne';1;0
+e;387778;'vraiment pas';1;50
+e;387779;'vraiment plus';1;50
+e;367887;'oui vraiment';1;50
+e;387776;'vraiment fréquentable';1;50
+e;387777;'vraiment jamais';1;50
+e;75401;'Le Péché vraiment capital';1;50
+r;348969612;1;13805888;11;25
+r;349001516;1;13808627;11;25
+r;372942123;1;14668672;11;25
+r;394244769;1;15239753;11;25
+r;419508008;1;15313860;11;25
+r;419515557;1;15920986;11;25
+r;419516383;1;15341413;11;25
+r;419517834;1;15332301;11;25
+r;419523525;1;15334045;11;25
+r;419544630;1;15389047;11;25
+r;419545335;1;15350398;11;25
+r;419547789;1;15230997;11;25
+r;419551682;1;15516130;11;25
+r;419556005;1;15469114;11;25
+r;419562410;1;15374626;11;25
+r;419672133;1;15274299;11;25
+r;419672137;1;15493384;11;25
+r;419672379;1;15314647;11;25
+r;419691519;1;15471682;11;25
+r;419692103;1;15835167;11;25
+r;419732208;1;15234596;11;25
+r;374330964;1;14723773;11;26
+r;419491990;1;15402010;11;26
+r;264451071;1;10595621;11;30
+r;254178716;1;10346950;11;39
+r;289213454;1;11302054;11;39
+r;397134627;1;15490477;11;50
+r;395677533;1;15466838;11;50
+r;397498785;1;15259219;11;50
+r;402253741;1;15407072;11;50
+r;402122344;1;15314462;11;50
+r;402121778;1;15246075;11;50
+r;402108918;1;15256496;11;50
+r;402109124;1;15258383;11;50
+r;402104194;1;15327998;11;50
+r;402104200;1;15497409;11;50
+r;397500677;1;15385501;11;50
+r;402106396;1;15198458;11;50
+r;402107820;1;15361403;11;50
+r;402106400;1;15293667;11;50
+r;402108144;1;15334042;11;50
+r;402106404;1;15274295;11;50
+r;402106408;1;15195121;11;50
+r;402151639;1;15323577;11;50
+r;399503476;1;15573977;11;50
+r;395011539;1;15316486;11;50
+r;395011775;1;15268280;11;50
+r;395011779;1;15384554;11;50
+r;395011785;1;15362999;11;50
+r;395012151;1;15249119;11;50
+r;395012157;1;15254355;11;50
+r;395012163;1;15295209;11;50
+r;395012169;1;15279988;11;50
+r;395012577;1;15238295;11;50
+r;395012761;1;15334023;11;50
+r;395012769;1;15334044;11;50
+r;395012919;1;15209720;11;50
+r;395013469;1;15264975;11;50
+r;395013845;1;15231604;11;50
+r;402272503;1;15525641;11;50
+r;402272511;1;15525639;11;50
+r;413897034;1;15693583;11;50
+r;414592398;1;15779960;11;50
+r;425893575;1;16238394;11;50
+r;76616857;1;3177472;11;51
+r;86131386;1;3372133;11;54
+r;52467427;1;2519097;11;58
+r;12550283;1;387778;11;105
+r;12550279;1;387779;11;106
+r;12630719;1;367887;11;106
+r;12550289;1;387776;11;107
+r;12550285;1;387777;11;110
+r;8595502;1;75401;11;162

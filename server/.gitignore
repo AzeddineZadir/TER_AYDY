@@ -1,3 +1,7 @@
+# Cache JDM
+.comments/
+.jdm_cache/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -129,7 +133,6 @@ dmypy.json
 .pyre/
 .vscode
 
-*.txt
  Created by https://www.toptal.com/developers/gitignore/api/angular
 # Edit at https://www.toptal.com/developers/gitignore?templates=angular
 

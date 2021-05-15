@@ -1,0 +1,546 @@
+
+e;50268;'faible';1;420
+e;6347719;'nanisme hypophysaire avec taux normal de somatotrophine et taux faible de somatomédine';1;0
+e;6285332;'héparine faible masse moléculaire';1;0
+e;6336630;'contraceptifs oraux à faible dose';1;0
+e;6293207;'systole faible';1;0
+e;6295895;'antigène sanguin indépendant à faible incidence';1;0
+e;6311695;'récepteurs aux lipoprotéines de faible densité';1;0
+e;6323293;'sans autre indication vision faible d'un oeil';1;0
+e;6323535;'fréquence de pouls faible';1;0
+e;6331787;'niveau à faible revenu';1;0
+e;6338079;'lipoprotéine de faible densité';1;0
+e;6341320;'kininogène de faible poids moléculaire';1;0
+e;6344367;'vision faible';1;0
+e;6356405;'diffusion sous angle faible';1;0
+e;6359996;'répétitions à faible nombre de copies';1;0
+e;6375069;'diffusion à angle faible';1;0
+e;6389768;'vision faible des deux yeux';1;0
+e;6415583;'population à faible revenu';1;0
+e;6418456;'détermination du groupe sanguin d faible';1;0
+e;12178672;'mesure de plaquettes agrégation induite par ristocétine faible dose';1;0
+e;12178615;'mesure de plaquettes agrégation induite par collagène faible dose';1;0
+e;12178548;'mesure de plaquettes agrégation induite par adp faible dose';1;0
+e;12175536;'mesure de papillomavirus humain adn risque fort et faible panel';1;0
+e;12170805;'détermination de la présence de mycobacterium tuberculosis résistance à l'isoniazide à faible concentration inha gène';1;0
+e;6358554;'nourrisson à faible poids de naissance';1;0
+e;6356227;'héparine de faible poids moléculaire';1;0
+e;6409988;'nouveau-né à faible poids de naissance';1;0
+e;13657745;'moteur-fusée à propulsion électrique à faible poussée';1;0
+e;6338270;'régime thérapeutique faible en potassium';1;0
+e;6318886;'régime à faible teneur en sel';1;0
+e;6406864;'régime thérapeutique faible en protéines';1;0
+e;6306564;'épisode de soins non précisé faible croissance foetale affectant les soins de la mère';1;0
+e;14454426;'dépense de faible montant';1;0
+e;14630625;'faible poids moléculaire';1;0
+e;14631933;'faible débit';1;0
+e;14639357;'balle à très faible traînée';1;0
+e;14655502;'positivité faible';1;0
+e;14669435;'La durabilité faible';777;0
+e;14717625;'profondeur faible';1;0
+e;6331055;'croissance anormalement faible en longueur';1;0
+e;6345532;'lésion épidermoïde intra-épithéliale anale de faible grade';1;0
+e;6348931;'lésion épidermoïde intra-épithéliale cervicale de faible grade';1;0
+e;6417458;'lésion épidermoïde intra-épithéliale vaginale de faible grade';1;0
+e;16489683;'sommabilité faible';777;0
+e;6421853;'faible croissance foetale';1;0
+e;6286213;'consonnes à pression faible';1;0
+e;6287396;'faible vision de l'autre oeil cécité d'un oeil';1;0
+e;6336185;'lipoprotéines de faible densité anormales';1;0
+e;6295916;'lipoprotéines de faible densité normales';1;0
+e;6298487;'poids non précisé faible poids de naissance sans mention de malnutrition foetale';1;0
+e;6301528;'nouveau-nés à faible poids de naissance';1;0
+e;6309203;'faible poids de naissance sans mention de malnutrition foetale';1;0
+e;6309283;'analphabétisme et faible niveau éducatif';1;0
+e;6311186;'diffusion en angle faible';1;0
+e;6311582;'faible taux de protéines dans le sérum et le plasma';1;0
+e;6317208;'faible vision d'un oeil';1;0
+e;6326800;'nourrisson très faible poids naissance';1;0
+e;6328419;'poids non précisé faible poids de naissance avec signes de malnutrition foetale';1;0
+e;6331694;'lipoprotéines de faible densité diminuées';1;0
+e;6340090;'poids extrêmement faible à la naissance';1;0
+e;6343042;'poids non précisé malnutrition foetale sans mention de faible poids de naissance';1;0
+e;6343188;'faible poids à la naissance';1;0
+e;6351939;'faible croissance foetale affectant les soins de la mère';1;0
+e;6360437;'faible poids de naissance avec signes de malnutrition foetale';1;0
+e;6365339;'nourrisson de poids extrêmement faible à la naissance';1;0
+e;6369776;'affections relatives à une durée de gestation courte et à un faible poids de naissance non précisé';1;0
+e;6371808;'lipoprotéines de faible densité augmentées';1;0
+e;6386381;'population à faible fécondité';1;0
+e;6401490;'faible poids de naissance dû à un retard de croissance et à une malnutrition du foetus';1;0
+e;6406372;'faible compliance de la vessie';1;0
+e;6409935;'pleur faible';1;0
+e;6415725;'condition ou complication antepartum faible croissance foetale affectant les soins de la mère';1;0
+e;6421449;'faible prise de poids au cours de la grossesse';1;0
+e;12118134;'engagements à faible intensité';1;0
+e;6425472;'avec accouchement, faible croissance foetale affectant les soins de la mère';1;0
+e;6317096;'moins de 500 grammes malnutrition foetale sans mention de faible poids de naissance';1;0
+e;6349368;'bébé de très faible poids à la naissance';1;0
+e;6350488;'faible augmentation du poids néonatal';1;0
+e;6357117;'enfant de poids extrêmement faible à la naissance';1;0
+e;6361448;'moins de 500 grammes faible poids de naissance sans mention de malnutrition foetale';1;0
+e;6373229;'faible contrôle de diabète sucré';1;0
+e;6403431;'moins de 500 grammes faible poids de naissance avec signes de malnutrition foetale';1;0
+e;12238854;'mesure de plaquettes agrégation induite par ristocétine faible dose | technique indéterminée | sang | ponctuel | résultat numérique | arbitraire/volume';1;0
+e;12238853;'mesure de plaquettes agrégation induite par ristocétine faible dose | technique indéterminée | plasma riche en plaquettes témoin | ponctuel | résultat numérique | activité arbitraire relative';1;0
+e;12238852;'mesure de plaquettes agrégation induite par ristocétine faible dose | technique indéterminée | plasma riche en plaquettes | ponctuel | résultat numérique | activité arbitraire relative';1;0
+e;12238835;'mesure de plaquettes agrégation induite par adp faible dose | technique indéterminée | plasma riche en plaquettes témoin | ponctuel | résultat numérique | activité arbitraire relative';1;0
+e;12238834;'mesure de plaquettes agrégation induite par adp faible dose | technique indéterminée | plasma riche en plaquettes | ponctuel | résultat numérique | activité arbitraire relative';1;0
+e;6364914;'bébé de faible poids à la naissance';1;0
+e;12103328;'plaquettes agrégation induite par ristocétine faible dose';1;0
+e;12103304;'plaquettes agrégation induite par collagène faible dose';1;0
+e;12103282;'plaquettes agrégation induite par adp faible dose';1;0
+e;12102486;'papillomavirus humain adn risque fort et faible panel';1;0
+e;12101400;'mycobacterium tuberculosis résistance à l'isoniazide à faible concentration inha gène';1;0
+e;6375166;'langue faible';1;0
+e;6439826;'faible poids pour l'âge gestationnel';1;0
+e;6430172;'régime thérapeutique faible en phosphore';1;0
+e;11030865;'pointeur faible';777;0
+e;13032254;'turbofan à faible taux de dilution';1;0
+e;13034244;'Stratégie nationale de développement à faible intensité de carbone';777;0
+e;13753072;'dc0-dc2 antigènes sanguins indépendants à faible incidence';1;0
+e;13747724;'dd0-dd2 anticorps sanguins indépendants à faible incidence';1;0
+e;15604828;'de faible diffusion';1;0
+e;15604827;'de faible hauteur';1;0
+e;15235954;'de faible qualité';1;0
+e;15604825;'de faible tirage';1;0
+e;15604826;'de faible valeur';1;0
+e;15365310;'de faible viscosité';1;0
+e;15365317;'de viscosité plus faible';1;0
+e;15389764;'dextran à faible poids moléculaire';1;0
+e;15541466;'dose très faible';1;0
+e;5598392;'héparines de faible poids moléculaire';777;0
+e;5817105;'dispositif de très faible impédance';1;0
+e;6315382;'faible poids de naissance';1;0
+e;6445706;'insuffisance d'oxygénation systémique due à une faible teneur en oxygène de l'air ambiant';1;0
+e;6436893;'anémie hémolytique avec faible affinité pour l'haptène';1;0
+e;6432102;'insuffisance d'oxygénation systémique due à faible teneur en oxygène de l'air ambiant';1;0
+e;11033966;'faible capacité visuelle';1;0
+e;15239802;'cigarettes à faible teneur en goudron';1;0
+e;15291093;'complexité faible';1;0
+e;15321800;'contraste faible';1;0
+e;5673818;'apprenant faible';777;0
+e;15423187;'avoir un faible pour [qch]';1;0
+e;15423186;'avoir un faible pour [qqn]';1;0
+e;15209574;'avoir un faible pour les sucreries';1;0
+e;15384640;'avoir un faible pour qch';1;0
+e;15384643;'avoir un faible pour qch/qn';1;0
+e;15593061;'avoir un faible pour quelqu'un';1;0
+e;15593064;'avoir un faible pour quelque chose';1;0
+e;15370025;'avoir un petit faible';1;0
+e;13746271;'attachement mère-enfant faible';1;0
+e;13746272;'attachement parent-enfant faible';1;0
+e;5831290;'agoniste opioïde mu faible';1;0
+e;15566966;'amplificateur à faible bruit';1;0
+e;16390911;'antenne à faible gain';777;0
+e;6440012;'jet d'urine faible';1;0
+e;6438827;'sentiment d'impuissance faible';1;0
+e;10842542;'Une faible femme';777;0
+e;11697756;'taux d'attrition faible';1;0
+e;12078535;'distorsion gravitationnelle faible';1;0
+e;12301840;'loi faible des grands nombres';777;0
+e;12882248;'faible ensoleillement';1;0
+e;5886308;'faible toxicité';1;0
+e;5985778;'amplificateur faible bruit';777;0
+e;6008494;'galaxie à faible brillance de surface';777;0
+e;10313208;'Le Sexe faible';777;0
+e;11978262;'rejeté à une faible majorité';1;0
+e;5984738;'véhicule à faible consommation énergétique';777;0
+e;6436553;'difficultés liées à l'analphabétisme et à un faible niveau éducatif';1;0
+e;2433558;'la chair est faible';1;0
+e;10936217;'prix faible';1;0
+e;11147605;'déchets de faible activité à vie longue';777;0
+e;11392466;'Batterie faible';777;0
+e;12277706;'IA faible';777;0
+e;2476309;'entité faible';1;0
+e;9929865;'faible croissance foetale affectant les soins de la mère avec accouchement';1;0
+e;11003659;'la conjecture faible de Goldbach';777;0
+e;11223879;'connaître une croissance faible';1;0
+e;12277705;'intelligence artificielle faible';777;0
+e;6449648;'production d'urine faible';1;0
+e;6526925;'grammes faible poids de naissance avec signes de malnutrition foetale';1;0
+e;11009657;'clé faible';777;0
+e;10460364;'le maillon faible';777;0
+e;11154766;'topologie faible';777;0
+e;6526285;'grammes faible poids de naissance sans mention de malnutrition foetale';1;0
+e;5553431;'forme faible';777;0
+e;2363556;'maillon faible';1;0
+e;2363557;'Le maillon faible';777;0
+e;9071927;'faible teneur';1;0
+e;11127879;'binaire X à faible masse';777;0
+e;12618707;'croissance faible';1;0
+e;12618708;'inflation faible';1;0
+e;14531073;'Densité - Très faible absorption d'eau';777;0
+e;14567620;'Grève des pilotes et inquiétudes sur le Mondial - La France un peu faible sur ses ailes';777;0
+e;15635079;'Adsorption très faible d'une molécule';777;0
+e;15635078;'Adsorption faible des deux molécules';777;0
+e;15129018;'Amplificateur faible bruit';777;0
+e;15380957;'C'est lamentable que le nombre de chirurgiennes soit toujours aussi faible.';1;0
+e;462296;'zone à faible vitesse';777;50
+e;3434692;'personne faible';1;0
+e;3262940;'à faible vitesse';1;0
+e;3177740;'densité très faible';1;0
+e;3320433;'à faible teneur en matière grasse';1;0
+e;1882519;'dans une faible mesure';1;0
+e;5364613;'suite à discrépance faible';1;0
+e;1678464;'faible consommation';1;0
+e;2496138;'typage faible';1;0
+e;3262939;'faible vitesse';1;0
+e;3319078;'régime à très faible teneur en calories';1;0
+e;5304074;'faible intensité';1;0
+e;5517437;'dispositif explosif de faible puissance';1;0
+e;1650255;'lithiase biliaire à faible niveau de phospholipides';1;0
+e;2324252;'électro-faible';1;0
+e;2545119;'tête faible';1;0
+e;3320434;'à faible teneur en matières grasses';1;0
+e;3323772;'effet à faible dose';1;0
+e;4339579;'index glycémique faible';1;0
+e;2543595;'prendre par son faible';1;0
+e;3414193;'faible valeur commerciale';1;0
+e;5517691;'faible lueur';1;0
+e;1649473;'faible valeur';1;0
+e;1657584;'théorie électro-faible';1;0
+e;6526276;'grammes malnutrition foetale sans mention de faible poids de naissance';1;0
+e;2975944;'faible montant';1;0
+e;3319596;'aliment à faible teneur en protéines';1;0
+e;4013035;'signal faible';1;0
+e;1809880;'faible d'esprit';1;50
+e;387530;'voix faible';1;50
+e;365102;'mot faible';1;50
+e;353245;'faible de corps';1;50
+e;353235;'faible concentration';1;50
+e;386491;'verbe faible';1;50
+e;374225;'présomption faible';1;50
+e;353243;'faible somme d'argent';1;50
+e;353242;'faible progression';1;50
+e;353236;'faible croissance';1;50
+e;336351;'arme de faible calibre';1;50
+e;391887;'base faible';1;50
+e;389718;'électron de faible énergie';1;50
+e;388220;'à faible distance de';1;50
+e;371882;'population faible';1;50
+e;366199;'navire de faible tonnage';1;50
+e;353246;'faible gradient thermique';1;50
+e;353241;'faible marée';1;50
+e;350661;'en faible nombre';1;50
+e;386391;'vent faible';1;50
+e;369936;'petit faible';1;50
+e;353244;'faible abstention';1;50
+e;353237;'faible de constitution';1;50
+e;352446;'esprit faible';1;50
+e;350663;'en faible quantité';1;50
+e;376562;'revue à faible tirage';1;50
+e;353238;'faible demande';1;50
+e;380870;'sous un faible volume';1;50
+e;373490;'produit à faible valeur ajoutée';1;50
+e;353240;'faible majorité';1;50
+e;353239;'faible femme';1;50
+e;388221;'à faible potentiel';1;50
+e;338561;'barrage à faible retenue';1;50
+e;383130;'temps faible';1;50
+e;369653;'pente faible';1;50
+e;360357;'journal à faible tirage';1;50
+e;350662;'en faible partie';1;50
+e;347251;'devise faible';1;50
+e;393352;'La Raison du plus faible';1;50
+e;316481;'bit de poids faible';1;50
+e;276015;'transition électro-faible';777;50
+e;276016;'brisure électro-faible';777;50
+e;166831;'cellule faible';1;50
+e;166869;'courant faible';1;50
+e;166965;'module faible';1;50
+e;220182;'point faible';1;62
+e;226740;'sexe faible';1;36
+e;233828;'poids faible';1;12
+e;237956;'faible quantité';1;50
+e;239143;'faible dose';1;50
+e;255839;'monnaie faible';1;50
+e;313535;'faible osmolalité';1;50
+e;84549;'au plus faible';1;50
+e;116856;'économiquement faible';1;50
+e;202803;'le sexe faible';1;50
+e;272432;'force nucléaire faible';777;50
+e;125436;'interaction faible';1;50
+e;180661;'acide faible';1;6
+e;272431;'force faible';777;50
+e;276013;'hypercharge faible';777;50
+e;276014;'isospin faible';777;50
+e;276045;'couplage faible';777;50
+e;300426;'Largage à faible vitesse';777;50
+e;301662;'Bassin de faible profondeur';777;50
+e;196719;'avoir un faible pour';1;70
+e;200284;'faible densité';1;50
+e;200285;'faible mortel';1;50
+e;200286;'faible poids';1;50
+r;301690563;50268;6347719;11;25
+r;297948793;50268;6285332;11;25
+r;301411490;50268;6336630;11;25
+r;298512702;50268;6293207;11;25
+r;298886214;50268;6295895;11;25
+r;299588962;50268;6311695;11;25
+r;300135953;50268;6323293;11;25
+r;300136057;50268;6323535;11;25
+r;300973471;50268;6331787;11;25
+r;301443287;50268;6338079;11;25
+r;301475609;50268;6341320;11;25
+r;301513285;50268;6344367;11;25
+r;301806357;50268;6356405;11;25
+r;302086734;50268;6359996;11;25
+r;303532561;50268;6375069;11;25
+r;304561813;50268;6389768;11;25
+r;305663954;50268;6415583;11;25
+r;305692792;50268;6418456;11;25
+r;316633285;50268;12178672;11;25
+r;316633859;50268;12178615;11;25
+r;316634431;50268;12178548;11;25
+r;316644665;50268;12175536;11;25
+r;316657557;50268;12170805;11;25
+r;341133937;50268;6358554;11;25
+r;341132972;50268;6356227;11;25
+r;341237486;50268;6409988;11;25
+r;347028134;50268;13657745;11;25
+r;349161946;50268;6338270;11;25
+r;349175028;50268;6318886;11;25
+r;349195684;50268;6406864;11;25
+r;349214835;50268;6306564;11;25
+r;366945149;50268;14454426;11;25
+r;371661157;50268;14630625;11;25
+r;371687235;50268;14631933;11;25
+r;372208597;50268;14639357;11;25
+r;372645871;50268;14655502;11;25
+r;373021148;50268;14669435;11;25
+r;374214359;50268;14717625;11;25
+r;399500645;50268;6331055;11;25
+r;399957985;50268;6345532;11;25
+r;399982888;50268;6348931;11;25
+r;401929095;50268;6417458;11;25
+r;433850211;50268;16489683;11;25
+r;122758948;50268;6421853;11;26
+r;298193238;50268;6286213;11;26
+r;298250419;50268;6287396;11;26
+r;301407712;50268;6336185;11;26
+r;298882739;50268;6295916;11;26
+r;299032339;50268;6298487;11;26
+r;299276048;50268;6301528;11;26
+r;299574045;50268;6309203;11;26
+r;299574813;50268;6309283;11;26
+r;299587343;50268;6311186;11;26
+r;299588908;50268;6311582;11;26
+r;299783411;50268;6317208;11;26
+r;300201113;50268;6326800;11;26
+r;300218161;50268;6328419;11;26
+r;300964975;50268;6331694;11;26
+r;301459486;50268;6340090;11;26
+r;301493547;50268;6343042;11;26
+r;301494235;50268;6343188;11;26
+r;301742241;50268;6351939;11;26
+r;302092334;50268;6360437;11;26
+r;302189214;50268;6365339;11;26
+r;302976485;50268;6369776;11;26
+r;302993402;50268;6371808;11;26
+r;304389248;50268;6386381;11;26
+r;305202458;50268;6401490;11;26
+r;305311485;50268;6406372;11;26
+r;305467003;50268;6409935;11;26
+r;305666413;50268;6415725;11;26
+r;305713585;50268;6421449;11;26
+r;315722755;50268;12118134;11;26
+r;122730778;50268;6425472;11;27
+r;299783010;50268;6317096;11;27
+r;301724825;50268;6349368;11;27
+r;301734877;50268;6350488;11;27
+r;301811262;50268;6357117;11;27
+r;302116549;50268;6361448;11;27
+r;303131874;50268;6373229;11;27
+r;305290689;50268;6403431;11;27
+r;318482912;50268;12238854;11;27
+r;318482949;50268;12238853;11;27
+r;318482996;50268;12238852;11;27
+r;318483661;50268;12238835;11;27
+r;318483708;50268;12238834;11;27
+r;302182729;50268;6364914;11;28
+r;315546795;50268;12103328;11;28
+r;315547204;50268;12103304;11;28
+r;315547571;50268;12103282;11;28
+r;315554284;50268;12102486;11;28
+r;315562147;50268;12101400;11;28
+r;303595253;50268;6375166;11;29
+r;121529567;50268;6439826;11;30
+r;122694464;50268;6430172;11;30
+r;280290172;50268;11030865;11;30
+r;334358075;50268;13032254;11;30
+r;334415273;50268;13034244;11;30
+r;419765653;50268;13753072;11;30
+r;419765701;50268;13747724;11;30
+r;419766608;50268;15604828;11;30
+r;419766612;50268;15604827;11;30
+r;419766616;50268;15235954;11;30
+r;419766620;50268;15604825;11;30
+r;419766624;50268;15604826;11;30
+r;419766628;50268;15365310;11;30
+r;419770645;50268;15365317;11;30
+r;419778602;50268;15389764;11;30
+r;419797303;50268;15541466;11;30
+r;110694863;50268;5598392;11;31
+r;113773243;50268;5817105;11;31
+r;341004865;50268;6315382;11;31
+r;121476841;50268;6445706;11;31
+r;121555881;50268;6436893;11;31
+r;122678915;50268;6432102;11;31
+r;279705170;50268;11033966;11;31
+r;419709963;50268;15239802;11;31
+r;419725105;50268;15291093;11;31
+r;419736063;50268;15321800;11;31
+r;111334569;50268;5673818;11;32
+r;419637225;50268;15423187;11;32
+r;419637235;50268;15423186;11;32
+r;419637243;50268;15209574;11;32
+r;419637251;50268;15384640;11;32
+r;419637259;50268;15384643;11;32
+r;419637265;50268;15593061;11;32
+r;419637273;50268;15593064;11;32
+r;419637690;50268;15370025;11;32
+r;419615857;50268;13746271;11;33
+r;419615863;50268;13746272;11;33
+r;113754727;50268;5831290;11;34
+r;419592032;50268;15566966;11;34
+r;433007071;50268;16390911;11;34
+r;121527849;50268;6440012;11;35
+r;121538520;50268;6438827;11;35
+r;271591382;50268;10842542;11;35
+r;300955845;50268;11697756;11;35
+r;315122766;50268;12078535;11;35
+r;319538649;50268;12301840;11;35
+r;329846679;50268;12882248;11;35
+r;114551151;50268;5886308;11;36
+r;117889717;50268;5985778;11;36
+r;118518036;50268;6008494;11;36
+r;252674113;50268;10313208;11;36
+r;311202422;50268;11978262;11;36
+r;117894538;50268;5984738;11;37
+r;121558841;50268;6436553;11;37
+r;55066263;50268;2433558;11;38
+r;275236393;50268;10936217;11;38
+r;283380642;50268;11147605;11;38
+r;292610570;50268;11392466;11;39
+r;319039171;50268;12277706;11;39
+r;57992690;50268;2476309;11;40
+r;219831099;50268;9929865;11;40
+r;278737955;50268;11003659;11;40
+r;287761525;50268;11223879;11;40
+r;318902408;50268;12277705;11;40
+r;121050767;50268;6449648;11;42
+r;121444794;50268;6526925;11;42
+r;278847920;50268;11009657;11;42
+r;261013226;50268;10460364;11;43
+r;283639785;50268;11154766;11;43
+r;121449182;50268;6526285;11;44
+r;109887393;50268;5553431;11;46
+r;50239781;50268;2363556;11;49
+r;50262642;50268;2363557;11;49
+r;198338070;50268;9071927;11;50
+r;282611903;50268;11127879;11;50
+r;323127442;50268;12618707;11;50
+r;323127463;50268;12618708;11;50
+r;368690843;50268;14531073;11;50
+r;370338016;50268;14567620;11;50
+r;400946555;50268;15635079;11;50
+r;400946541;50268;15635078;11;50
+r;393800653;50268;15129018;11;50
+r;395010959;50268;15380957;11;50
+r;16299455;50268;462296;11;51
+r;87452107;50268;3434692;11;51
+r;79542777;50268;3262940;11;52
+r;76636041;50268;3177740;11;53
+r;83666551;50268;3320433;11;54
+r;30400850;50268;1882519;11;55
+r;107108183;50268;5364613;11;55
+r;27803357;50268;1678464;11;56
+r;52478174;50268;2496138;11;56
+r;79542781;50268;3262939;11;56
+r;83673290;50268;3319078;11;56
+r;106716120;50268;5304074;11;56
+r;108408868;50268;5517437;11;56
+r;26553123;50268;1650255;11;57
+r;33730036;50268;2324252;11;57
+r;52455133;50268;2545119;11;57
+r;83666543;50268;3320434;11;57
+r;83797106;50268;3323772;11;57
+r;99007490;50268;4339579;11;57
+r;52455874;50268;2543595;11;58
+r;87289145;50268;3414193;11;58
+r;108611006;50268;5517691;11;58
+r;26373355;50268;1649473;11;59
+r;27513475;50268;1657584;11;59
+r;121449249;50268;6526276;11;59
+r;73899534;50268;2975944;11;60
+r;83670706;50268;3319596;11;60
+r;95166559;50268;4013035;11;60
+r;29567558;50268;1809880;11;63
+r;12551255;50268;387530;11;101
+r;12641879;50268;365102;11;101
+r;12690279;50268;353245;11;101
+r;12690321;50268;353235;11;101
+r;12555407;50268;386491;11;102
+r;12605027;50268;374225;11;102
+r;12690287;50268;353243;11;102
+r;12690293;50268;353242;11;102
+r;12690317;50268;353236;11;102
+r;12760255;50268;336351;11;102
+r;13084806;50268;391887;11;102
+r;12543099;50268;389718;11;103
+r;12548519;50268;388220;11;103
+r;12614603;50268;371882;11;103
+r;12637439;50268;366199;11;103
+r;12690273;50268;353246;11;103
+r;12690297;50268;353241;11;103
+r;12700697;50268;350661;11;103
+r;12555811;50268;386391;11;104
+r;12622761;50268;369936;11;104
+r;12690283;50268;353244;11;104
+r;12690313;50268;353237;11;104
+r;12693457;50268;352446;11;105
+r;12700689;50268;350663;11;105
+r;12595685;50268;376562;11;106
+r;12690309;50268;353238;11;106
+r;12577825;50268;380870;11;107
+r;12608065;50268;373490;11;108
+r;12690301;50268;353240;11;108
+r;12690305;50268;353239;11;108
+r;12548515;50268;388221;11;109
+r;12751403;50268;338561;11;109
+r;12569009;50268;383130;11;110
+r;12623943;50268;369653;11;110
+r;12661313;50268;360357;11;110
+r;12700693;50268;350662;11;110
+r;12714355;50268;347251;11;110
+r;13386115;50268;393352;11;110
+r;8920839;50268;316481;11;151
+r;8882995;50268;276015;11;153
+r;8882997;50268;276016;11;153
+r;8630514;50268;166831;11;161
+r;8630581;50268;166869;11;161
+r;8630739;50268;166965;11;161
+r;8691976;50268;220182;11;161
+r;8696362;50268;226740;11;161
+r;8701756;50268;233828;11;161
+r;8705128;50268;237956;11;161
+r;8705955;50268;239143;11;161
+r;8720353;50268;255839;11;161
+r;8811716;50268;313535;11;161
+r;8598663;50268;84549;11;162
+r;8610300;50268;116856;11;162
+r;8672533;50268;202803;11;162
+r;8739971;50268;272432;11;162
+r;8613282;50268;125436;11;163
+r;8637112;50268;180661;11;163
+r;8739887;50268;272431;11;163
+r;8744064;50268;276013;11;163
+r;8744066;50268;276014;11;163
+r;8744112;50268;276045;11;163
+r;8767119;50268;300426;11;163
+r;8768180;50268;301662;11;163
+r;2465310;50268;196719;11;165
+r;8668119;50268;200284;11;165
+r;8668121;50268;200285;11;165
+r;8668123;50268;200286;11;165

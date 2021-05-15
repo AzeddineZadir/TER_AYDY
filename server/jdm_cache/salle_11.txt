@@ -1,0 +1,868 @@
+
+e;139209;'salle';1;1508
+e;6325291;'salle de surveillance post-interventionnelle';1;0
+e;6325390;'admission et décès à la salle d'urgence';1;0
+e;6355024;'civières de salle des urgences';1;0
+e;6391642;'activités de physiothérapie en salle';1;0
+e;6402014;'salle d'urgence en consultation externe d'un hôpital';1;0
+e;14242778;'salle de télévision';1;0
+e;6362901;'admission à la salle d'urgence suivie du congé';1;0
+e;6350829;'chaleur excessive dans la salle des chaudières';1;0
+e;14014883;'salle du Manège';777;0
+e;14434518;'disposition de la salle';1;0
+e;14434527;'salle de squash';1;0
+e;14573635;'salle de montre';777;0
+e;14585738;'salle du Mexuar';777;0
+e;14585739;'salle des Oraisons';777;0
+e;14594501;'chambre avec salle de bains';1;0
+e;14594499;'chambre sans salle de bains';1;0
+e;14656787;'salle de marbre';777;0
+e;14754361;'salle Gabriel';777;0
+e;15668140;'salle de boxe';1;0
+e;6390695;'salle de réveil d'hôpital';1;0
+e;16095508;'salle du Grand Désert';777;0
+e;16095543;'salle du Grand éboulis';777;0
+e;16095540;'salle du Théâtre';777;0
+e;16095544;'salle du Sanctuaire';777;0
+e;6293222;'lésions traumatiques provoquées sur le bateau par les machines de salle des machines';1;0
+e;6336598;'salle d'urgence d'un hôpital';1;0
+e;6370737;'salle de réveil hospitalière';1;0
+e;14677974;'salle enfumée';1;0
+e;14532491;'ranger la salle de bain';1;14
+e;14636993;'aller pousser à la salle';1;16
+e;14775268;'salle informatique';1;0
+e;15032616;'armoire de salle de bains';1;0
+e;6343953;'brancards de salle des urgences';1;0
+e;13550107;'Coupe d'Allemagne féminine de football en salle';777;0
+e;10622158;'salle Colette-Besson';777;0
+e;10731357;'championnats du monde d'athlétisme en salle';777;0
+e;10731352;'Jeux mondiaux en salle 1985';777;0
+e;10730645;'championnats du monde en salle 2012';777;0
+e;10589773;'salle du Conservatoire';777;0
+e;10731354;'2es championnats du monde d'athlétisme en salle';777;0
+e;10731353;'1ers championnats du monde d'athlétisme en salle';777;0
+e;10731019;'Jeux asiatiques en salle';777;0
+e;10731018;'Jeux asiatiques en salle 2013';777;0
+e;11775211;'hockey en salle';777;0
+e;8011752;'finir la salle de bain';1;0
+e;10915131;'42es championnats de France d'athlétisme en salle';777;0
+e;6069316;'entretien quotidien dans la salle des machines';777;0
+e;9997865;'salle Réjane';777;0
+e;10596504;'salle d'expérimentation';1;0
+e;15209963;'coin salle à manger';1;0
+e;15209970;'commis de salle';1;0
+e;16160742;'en salle de permanence';1;0
+e;2416439;'garde-salle';1;0
+e;5672466;'salle de jeux en réseau';777;0
+e;10916809;'47es championnats de France d'athlétisme en salle';777;0
+e;10916808;'46es championnats de France d'athlétisme en salle';777;0
+e;10916807;'45es championnats de France d'athlétisme en salle';777;0
+e;10916806;'44es championnats de France d'athlétisme en salle';777;0
+e;10916805;'43es championnats de France d'athlétisme en salle';777;0
+e;10916804;'41es championnats de France d'athlétisme en salle';777;0
+e;10916803;'Championnats de France d'athlétisme en salle 2011';777;0
+e;10916802;'Championnats de France d'athlétisme en salle 2010';777;0
+e;10916801;'Championnats de France d'athlétisme en salle 2009';777;0
+e;10916800;'Championnats de France d'athlétisme en salle 2008';777;0
+e;10916799;'Championnats de France d'athlétisme en salle 2007';777;0
+e;10916798;'Championnats de France d'athlétisme en salle 2006';777;0
+e;10916797;'Championnats de France d'athlétisme en salle 2005';777;0
+e;10916796;'Championnats de France d'athlétisme en salle 2004';777;0
+e;10916795;'Championnats de France d'athlétisme en salle 2003';777;0
+e;10916794;'Championnats de France d'athlétisme en salle 2002';777;0
+e;10916793;'Championnats de France d'athlétisme en salle 2001';777;0
+e;10916792;'Championnats de France d'athlétisme en salle 2000';777;0
+e;10916791;'Championnats de France d'athlétisme en salle 1999';777;0
+e;10916790;'Championnats de France d'athlétisme en salle 1998';777;0
+e;10916789;'Championnats de France d'athlétisme en salle 1997';777;0
+e;10916788;'Championnats de France d'athlétisme en salle 1996';777;0
+e;10916787;'Championnats de France d'athlétisme en salle 1995';777;0
+e;10916786;'Championnats de France d'athlétisme en salle 1994';777;0
+e;10916785;'Championnats de France d'athlétisme en salle 1993';777;0
+e;10916784;'Championnats de France d'athlétisme en salle 1992';777;0
+e;10916783;'Championnats de France d'athlétisme en salle 1991';777;0
+e;10916782;'Championnats de France d'athlétisme en salle 1990';777;0
+e;10916781;'Championnats de France d'athlétisme en salle 1989';777;0
+e;10916780;'Championnats de France d'athlétisme en salle 1988';777;0
+e;10916779;'Championnats de France d'athlétisme en salle 1987';777;0
+e;10916778;'Championnats de France d'athlétisme en salle 1986';777;0
+e;10916777;'Championnats de France d'athlétisme en salle 1985';777;0
+e;10916776;'Championnats de France d'athlétisme en salle 1984';777;0
+e;10916775;'Championnats de France d'athlétisme en salle 1983';777;0
+e;10916774;'Championnats de France d'athlétisme en salle 1982';777;0
+e;10916773;'Championnats de France d'athlétisme en salle 1981';777;0
+e;10916772;'Championnats de France d'athlétisme en salle 1980';777;0
+e;10916771;'Championnats de France d'athlétisme en salle 1979';777;0
+e;10916770;'Championnats de France d'athlétisme en salle 1978';777;0
+e;10916769;'Championnats de France d'athlétisme en salle 1977';777;0
+e;10916768;'Championnats de France d'athlétisme en salle 1976';777;0
+e;10916767;'Championnats de France d'athlétisme en salle 1975';777;0
+e;10916766;'Championnats de France d'athlétisme en salle 1974';777;0
+e;10916765;'Championnats de France d'athlétisme en salle 1973';777;0
+e;10916764;'première édition des Championnats de France d'athlétisme en salle';777;0
+e;11029095;'IIIe Jeux asiatiques en salle';777;0
+e;15283210;'au fond de la salle de classe';1;0
+e;15251147;'avec salle de bains attenante';1;0
+e;15251149;'chambre avec salle de bains attenante';1;0
+e;15389992;'chef de salle';1;0
+e;16534320;'Il a franchi la porte de la salle B.';1;0
+e;1836752;'infirmier de salle d'opération';1;0
+e;10026847;'la salle du manège';777;0
+e;11350039;'salle de crise de la Maison-Blanche';777;0
+e;11788325;'salle du Jeu de paume';777;0
+e;15429450;'chauffeuse de salle';1;0
+e;15206476;'athlétisme en salle';1;0
+e;5903070;'salle de dégustation';777;0
+e;10034472;'la salle de bain';777;0
+e;10577048;'salle de music-hall';1;0
+e;10935787;'salle de balle de la Belle et la Bête';777;0
+e;15249840;'Toute la salle l'a applaudi.';1;0
+e;15207616;'accessoire de salle de bain';1;0
+e;15207635;'accessoire de salle de bains';1;0
+e;16153660;'Temps en salle du trésor';777;0
+e;16154568;'La salle croulait sous les applaudissements.';1;0
+e;6432071;'soins particuliers à la patiente en salle d'accouchement';1;0
+e;10041435;'34e édition des championnats d'Europe d'athlétisme en salle';777;0
+e;10041426;'33e édition des championnats d'Europe d'athlétisme en salle';777;0
+e;10041420;'32e édition des championnats d'Europe d'athlétisme en salle';777;0
+e;10041344;'3e Championnats d'Europe d'athlétisme en salle';777;0
+e;10831797;'crosse en salle';777;0
+e;10995116;'salle Théodore Turrettini';777;0
+e;11026801;'salle de commandement';1;0
+e;11407870;'chauffer la salle';1;4
+e;12049566;'salle de fitness';1;8
+e;13437407;'salle du manège';777;0
+e;14380683;'Y a-t-il un Français dans la salle';777;0
+e;15315542;'Le tumulte régnait dans la salle du tribunal.';1;0
+e;16315698;'La salle d'attente de la gare du chemin de fer de l'Ouest rive droite';777;0
+e;2390615;'salle des pas-perdus';1;0
+e;10041416;'30e Championnats d'Europe d'athlétisme en salle';777;0
+e;10041415;'29e championnats d'Europe d'athlétisme en salle';777;0
+e;10041413;'28e championnats d'Europe d'athlétisme en salle';777;0
+e;10041411;'27e championnats d'Europe d'athlétisme en salle';777;0
+e;10041409;'26e championnats d'Europe d'athlétisme en salle';777;0
+e;10041407;'25e Championnats d'Europe d'athlétisme en salle';777;0
+e;10041406;'24e Championnats d'Europe d'athlétisme en salle';777;0
+e;10041386;'21e Championnats d'Europe d'athlétisme en salle';777;0
+e;10041384;'20e Championnats d'Europe d'athlétisme en salle';777;0
+e;10041380;'19e Championnats d'Europe d'athlétisme en salle';777;0
+e;10041377;'18e Championnats d'Europe d'athlétisme en salle';777;0
+e;10041372;'17e Championnats d'Europe d'athlétisme en salle';777;0
+e;10041370;'16e Championnats d'Europe d'athlétisme en salle';777;0
+e;10041369;'15e Championnats d'Europe d'athlétisme en salle';777;0
+e;10041367;'14e Championnats d'Europe d'athlétisme en salle';777;0
+e;10041365;'13e Championnats d'Europe d'athlétisme en salle';777;0
+e;10041363;'12e championnats d'Europe d'athlétisme en salle';777;0
+e;10041357;'11es Championnats d'Europe d'athlétisme en salle';777;0
+e;10041354;'10e Championnats d'Europe d'athlétisme en salle';777;0
+e;10041352;'9e championnats d'Europe d'athlétisme en salle';777;0
+e;10041351;'8e championnats d'Europe d'athlétisme en salle';777;0
+e;10041349;'7e Championnats d'Europe d'athlétisme en salle';777;0
+e;10041348;'6e Championnats d'Europe d'athlétisme en salle';777;0
+e;10041347;'5e Championnats d'Europe d'athlétisme en salle';777;0
+e;10041346;'4e Championnats d'Europe d'athlétisme en salle';777;0
+e;10041343;'2e Championnats d'Europe d'athlétisme en salle';777;0
+e;10041340;'1ers Championnats d'Europe d'athlétisme en salle';777;0
+e;10040851;'31e Championnats d'Europe d'athlétisme en salle';777;0
+e;10937210;'pousser à la salle';1;22
+e;12051610;'contrôler la propreté de la salle de restauration';1;0
+e;12081235;'salle anéchoïque';1;0
+e;12080651;'piratage en salle';1;0
+e;5917204;'salle opératoire';777;0
+e;6435859;'techniciens de salle d'opération';1;0
+e;10041405;'23e Championnats d'Europe d'athlétisme en salle';777;0
+e;10041404;'22e Championnats d'Europe d'athlétisme en salle';777;0
+e;10040909;'Championnats de France d'athlétisme en salle';777;0
+e;11237323;'salle Wilfrid-Pelletier';777;0
+e;6447384;'soins infirmiers en salle d'opération';1;0
+e;6441135;'techniciennes de salle d'opération';1;0
+e;6437893;'tables de salle d'opération';1;0
+e;11363132;'5es Championnats d'Asie d'athlétisme en salle';777;0
+e;6003750;'Un cheval dans la salle de bains';777;0
+e;10346785;'salle Ventadour';777;0
+e;15493697;'La salle contient 600 places assises.';1;0
+e;15207631;'La salle de bain est au rez-de-chaussée.';1;0
+e;15207614;'La salle de bain est en haut.';1;0
+e;15355109;'La salle s'est remplie de monde.';1;0
+e;15394629;'La salle à manger et la cuisine sont en enfilade.';1;0
+e;15521471;'La salle était pleine à craquer.';1;0
+e;15355107;'La salle était remplie de monde.';1;0
+e;2444765;'salle de douches';1;0
+e;10554483;'35e édition des Championnats d'Europe d'athlétisme en salle';777;0
+e;10554455;'Coupe d'Europe des nations d'athlétisme en salle';777;0
+e;10553761;'records du monde en salle du 60 mètres haies';777;0
+e;10553751;'records du monde en salle du 60 mètres';777;0
+e;10556382;'17es championnats du monde d'athlétisme en salle';777;0
+e;10787387;'salle de spectacles';1;0
+e;10787386;'salle de spectacles parisienne';1;0
+e;10918104;'championnats des États-Unis d'athlétisme en salle 2018';777;0
+e;11003217;'aller à la salle de musculation';1;0
+e;11012382;'salle wagram';777;0
+e;11251577;'salle de lecture du British Museum';777;0
+e;12053025;'utiliser la salle des machines d'un navire';1;0
+e;10073395;'salle Favart';777;0
+e;10514410;'salle Érard';777;0
+e;10506411;'Circuit mondial en salle de l'IAAF';777;0
+e;10554481;'1ers Jeux européens en salle';777;0
+e;10553791;'record du monde en salle du pentathlon';777;0
+e;11156268;'La salle de la Meilleraie';777;0
+e;11252406;'salle de La Verna';777;0
+e;2475121;'salle de quilles';1;0
+e;6426351;'admission à la salle d'urgence';1;0
+e;10106380;'Championnats du monde de tir à l'arc en salle 2014';777;0
+e;10176284;'salle Richelieu';777;0
+e;10506455;'compétition internationale en salle d'athlétisme';1;0
+e;11137655;'championnats du monde de cyclisme en salle';777;0
+e;11219945;'salle machine';1;0
+e;10106381;'championnats du monde de tir à l'arc en salle';777;0
+e;10159855;'4e Jeux européens en salle';777;0
+e;10159847;'15es championnats du monde d'athlétisme en salle';777;0
+e;10159840;'12es Championnats du monde d'athlétisme en salle';777;0
+e;10159837;'10es Championnats du monde d'athlétisme en salle';777;0
+e;10159832;'9es Championnats du monde d'athlétisme en salle';777;0
+e;10159831;'8es Championnats du monde d'athlétisme en salle';777;0
+e;10159828;'7es Championnats du monde d'athlétisme en salle';777;0
+e;10159824;'6es Championnats du monde d'athlétisme en salle';777;0
+e;10159820;'3e Jeux européens en salle';777;0
+e;10159819;'5es Championnats du monde d'athlétisme en salle';777;0
+e;10159818;'2e Jeux européens en salle';777;0
+e;10159815;'4es Championnats du monde d'athlétisme en salle';777;0
+e;10159807;'3es Championnats du monde d'athlétisme en salle';777;0
+e;10159720;'11es Championnats du monde d'athlétisme en salle';777;0
+e;10159597;'14es Championnats du monde d'athlétisme en salle';777;0
+e;10159526;'13es championnats du monde d'athlétisme en salle';777;0
+e;10159517;'16es championnats du monde d'athlétisme en salle';777;0
+e;10159412;'Championnats d'Europe d'athlétisme en salle';777;0
+e;10159378;'championnats d'Asie d'athlétisme en salle';777;0
+e;10159377;'Championnats d'Asie d'athlétisme en salle 2018';777;0
+e;10159354;'4e édition de Coupe d'Europe des nations d'athlétisme en salle';777;0
+e;10159353;'3e édition de Coupe d'Europe des nations d'athlétisme en salle';777;0
+e;10159352;'2e édition de Coupe d'Europe des nations d'athlétisme en salle';777;0
+e;10159351;'1re édition de Coupe d'Europe des nations d'athlétisme en salle';777;0
+e;10159350;'coupe d'Europe des nations d'athlétisme en salle';777;0
+e;10158917;'Championnats du monde en salle d'athlétisme';777;0
+e;11158252;'salle Sainte-Croix-des-Pelletiers';777;0
+e;6448396;'soins particuliers du patient en salle d'opération';1;0
+e;11105196;'salle d'exposition';777;0
+e;10442084;'salle des dangers';777;0
+e;8749232;'laver la salle de bain';1;0
+e;8814980;'se tromper de salle';1;0
+e;8958836;'salle Colonne';777;0
+e;9023760;'salle Gaveau';777;6
+e;9667221;'salle de tirs';1;0
+e;9745689;'aller à la salle de sport';1;14
+e;10556311;'Championnats des États-Unis d'athlétisme en salle';777;0
+e;10556310;'Championnats des États-Unis d'athlétisme en salle 2018';777;0
+e;11118601;'La Coupe d'Allemagne de football en salle';777;0
+e;11130909;'faire la salle';1;0
+e;11130900;'nettoyer la salle';1;0
+e;15207633;'J'ai ma propre salle de bain.';1;0
+e;15207629;'Il monopolise toujours la salle de bain.';1;0
+e;14134773;'Championnats du monde d'athlétisme en salle';777;0
+e;15249180;'Ce morceau serait plus adapté à une salle de concert.';1;0
+e;15394627;'Cette porte donne accès à la salle à manger.';1;0
+e;15462404;'Championnats de France d'athlétisme en salle 2019';777;0
+e;598065;'salle de naissance';1;0
+e;1657016;'salle de TD';1;8
+e;3706826;'passer des heures dans la salle de bain';1;0
+e;651198;'salle Valentino';777;0
+e;3321194;'salle de découpage';1;0
+e;3706641;'inonder la salle de bain';1;0
+e;5334890;'nettoyer la salle de bain';1;0
+e;2415316;'salle-prunetais';1;0
+e;2512425;'salle de recueillement';1;0
+e;567832;'salle de banquet';777;50
+e;1742153;'salle de consommation à moindre risque';777;0
+e;2506977;'salle à dîner';1;0
+e;736725;'salle propre';777;0
+e;2548989;'salle des départs';1;0
+e;1796937;'escalade en salle';1;0
+e;2519722;'faire salle comble';1;0
+e;3313815;'salle d'échographie';1;0
+e;4490018;'aller à la salle';1;0
+e;3656013;'salle des gardes';777;0
+e;5341377;'salle de muscu';1;2
+e;1873623;'cyclisme en salle';1;0
+e;2950329;'Une salle de la tour de Wolferag';777;0
+e;2950320;'La salle du mariage';777;0
+e;378491;'salle des concerts';1;50
+e;378486;'salle non fumeur';1;50
+e;378482;'salle des actes';1;52
+e;378470;'salle de délivrance';1;50
+e;378469;'salle de discipline';1;50
+e;378462;'salle d'urgence';1;50
+e;382698;'table de salle à manger';1;50
+e;378478;'salle de réadaptation';1;50
+e;378460;'salle d'honneur';1;50
+e;370703;'placard de salle de bain';1;50
+e;378488;'salle paroissiale';1;50
+e;378485;'salle du chapitre';1;50
+e;378477;'salle de radio';1;50
+e;378476;'salle de presse';1;50
+e;378474;'salle de musique';1;50
+e;378468;'salle de conversation';1;50
+e;378455;'salle capitulaire';1;50
+e;335933;'applaudissements nourris de la salle';1;50
+e;378489;'salle vide';1;50
+e;378467;'salle de contrôle';1;50
+e;378459;'salle d'exclusivité';1;50
+e;336401;'armoire de salle de bain';1;50
+e;378487;'salle omnisports';1;50
+e;378483;'salle des commandes';1;50
+e;378458;'salle d'apparat';1;50
+e;351377;'en salle';1;54
+e;378490;'salle d'audience publique';1;50
+e;378473;'salle de montage';1;50
+e;378472;'salle de gymnastique';1;50
+e;378463;'salle de bibliothèque';1;50
+e;354564;'folle de salle';1;50
+e;378479;'salle de réanimation';1;52
+e;378457;'salle communale';1;50
+e;392193;'salle Pleyel';1;54
+e;378481;'salle de vente';1;50
+e;378475;'salle de patronage';1;50
+e;378465;'salle de casino';1;50
+e;378464;'salle de brassage';1;50
+e;356628;'grande salle';1;66
+e;378484;'salle des dépêches';1;50
+e;378480;'salle de séminaire';1;50
+e;378471;'salle de gardes';1;50
+e;378466;'salle de consultation';1;50
+e;378461;'salle d'inhalation';1;50
+e;378456;'salle comble';1;50
+e;374258;'prévôt de salle';1;50
+e;68099;'arrière-salle';1;50
+e;156595;'salle de théâtre';1;100
+e;153031;'salle de cinéma';1;138
+e;226391;'salle de shoot';1;4
+e;320269;'salle des coffres';1;52
+e;323590;'salle de radiologie';1;50
+e;325074;'salle de contrôle des lancements';1;50
+e;315145;'salle de parturiente';1;50
+e;315146;'salle d'op';1;52
+e;216273;'grande salle de bain';1;54
+e;222373;'salle de tir';1;50
+e;224146;'salle commune';1;50
+e;233631;'salle d'asile';1;2
+e;235604;'salle de conférence';1;12
+e;239304;'salle de ciné';1;18
+e;240331;'faire la salle de bain';1;116
+e;242989;'salle d'arcade';1;66
+e;244286;'salle des professeurs';1;4
+e;248510;'salle de torture';1;50
+e;249499;'salle du conseil';1;50
+e;249547;'salle de chimie';1;64
+e;251318;'salle d'accouchement';1;44
+e;252081;'salle de rédaction';1;20
+e;252765;'salle des profs';1;62
+e;252960;'humour de salle de garde';1;50
+e;255273;'salle de perm';1;64
+e;255368;'salle d'étude';1;22
+e;255751;'dans la salle de bain';1;52
+e;256914;'salle du muscu';1;50
+e;258278;'salle de projection';1;6
+e;258525;'salle de dissection';1;6
+e;259993;'salle du coffre';1;50
+e;260748;'habillée ras la salle de jeux';1;6
+e;261765;'salle de traite';1;50
+e;313461;'salle des maîtres';1;50
+e;160923;'salle de danse';1;68
+e;161426;'meuble de salle à manger';1;54
+e;161477;'garçon de salle';1;60
+e;161838;'salle de café';1;52
+e;162956;'salle des ventes';1;78
+e;163881;'salle d'escrime';1;50
+e;166057;'salle de restaurant';1;74
+e;166058;'grande salle à manger';1;54
+e;207412;'salle de garde';1;50
+e;207413;'salle de permanence';1;72
+e;207414;'salle de sports';1;50
+e;207415;'salle de travail';1;64
+e;207416;'salle des machines';1;52
+e;207417;'salle des pas perdus';1;72
+e;214576;'salle de billard';1;50
+e;214906;'salle de réveil';1;60
+e;14275;'fille de salle';1;50
+e;100225;'salle de repos';1;50
+e;139671;'salle d'audience';1;58
+e;145995;'salle d'embarquement';1;54
+e;151764;'salle de soins';1;52
+e;155327;'salle de réception';1;72
+e;155912;'salle de prière';1;50
+e;155934;'salle de musculation';1;118
+e;156366;'salle d'études';1;54
+e;156468;'salle d'examen';1;92
+e;156878;'salle de lecture';1;50
+e;158128;'petite salle';1;52
+e;158371;'chauffeur de salle';1;50
+e;159411;'salle de chirurgie';1;50
+e;165441;'salle de jeux';1;70
+e;179742;'salle obscure';1;50
+e;184166;'salle des marchés';1;50
+e;267894;'salle de douche';1;50
+e;268644;'salle de bain avec baignoire';1;50
+e;268879;'salle de bains privative';1;50
+e;270514;'salle de TP';1;58
+e;281072;'football en salle';777;56
+e;281074;'soccer en salle';777;50
+e;301512;'salle hypostyle';777;50
+e;308101;'salle d'opérations';777;50
+e;155815;'salle d'armes';1;50
+e;184165;'salle blanche';1;50
+e;154406;'salle de spectacle';1;200
+e;156607;'salle de gym';1;72
+e;187287;'salle de police';1;50
+e;310973;'salle de dégrisement';777;50
+e;311200;'salle de nouvelles';777;50
+e;2871;'Dans la salle des pas perdus';1;50
+e;163896;'salle de réunion';1;64
+e;155328;'salle de bal';1;74
+e;158961;'salle de cours';1;156
+e;161133;'salle polyvalente';1;52
+e;98365;'salle de séjour';1;60
+e;158435;'salle de jeu';1;58
+e;141895;'salle d'opération';1;132
+e;152046;'salle des fêtes';1;132
+e;152742;'salle d'attente';1;308
+e;8763;'salle à manger';1;1128
+e;161606;'salle de classe';1;170
+e;155683;'salle de bains';1;298
+e;152945;'salle d'eau';1;166
+e;152733;'salle de bain';1;1372
+e;152476;'salle de concert';1;314
+e;156292;'salle de sport';1;222
+r;300188249;139209;6325291;11;25
+r;300190198;139209;6325390;11;25
+r;301767929;139209;6355024;11;25
+r;304657731;139209;6391642;11;25
+r;305212467;139209;6402014;11;25
+r;361389388;139209;14242778;11;25
+r;319054110;139209;6362901;11;25
+r;341106922;139209;6350829;11;25
+r;354101450;139209;14014883;11;25
+r;366515372;139209;14434518;11;25
+r;366522857;139209;14434527;11;25
+r;370511816;139209;14573635;11;25
+r;370652182;139209;14585738;11;25
+r;370652571;139209;14585739;11;25
+r;370813402;139209;14594501;11;25
+r;370813435;139209;14594499;11;25
+r;372852449;139209;14656787;11;25
+r;375082453;139209;14754361;11;25
+r;402659656;139209;15668140;11;25
+r;400774799;139209;6390695;11;25
+r;419869217;139209;16095508;11;25
+r;419869566;139209;16095543;11;25
+r;419894275;139209;16095540;11;25
+r;419895734;139209;16095544;11;25
+r;397128678;139209;6293222;11;26
+r;301416597;139209;6336598;11;26
+r;302982314;139209;6370737;11;26
+r;373170531;139209;14677974;11;26
+r;368703883;139209;14532491;11;26
+r;371813331;139209;14636993;11;26
+r;375493497;139209;14775268;11;26
+r;393576523;139209;15032616;11;26
+r;301510827;139209;6343953;11;27
+r;395018036;139209;13550107;11;27
+r;266791459;139209;10622158;11;28
+r;269884642;139209;10731357;11;28
+r;269884676;139209;10731352;11;28
+r;269888035;139209;10730645;11;28
+r;264467267;139209;10589773;11;29
+r;269884660;139209;10731354;11;29
+r;269884670;139209;10731353;11;29
+r;269886003;139209;10731019;11;29
+r;269886009;139209;10731018;11;29
+r;302316810;139209;11775211;11;29
+r;134821361;139209;8011752;11;30
+r;274587077;139209;10915131;11;30
+r;119195278;139209;6069316;11;31
+r;227671030;139209;9997865;11;31
+r;264219289;139209;10596504;11;31
+r;419716785;139209;15209963;11;31
+r;419722414;139209;15209970;11;31
+r;423424087;139209;16160742;11;31
+r;54384913;139209;2416439;11;32
+r;111339039;139209;5672466;11;32
+r;274576711;139209;10916809;11;32
+r;274576721;139209;10916808;11;32
+r;274576731;139209;10916807;11;32
+r;274576741;139209;10916806;11;32
+r;274576751;139209;10916805;11;32
+r;274576761;139209;10916804;11;32
+r;274576771;139209;10916803;11;32
+r;274576783;139209;10916802;11;32
+r;274576795;139209;10916801;11;32
+r;274576807;139209;10916800;11;32
+r;274576819;139209;10916799;11;32
+r;274576831;139209;10916798;11;32
+r;274576843;139209;10916797;11;32
+r;274576855;139209;10916796;11;32
+r;274576867;139209;10916795;11;32
+r;274576879;139209;10916794;11;32
+r;274576891;139209;10916793;11;32
+r;274576903;139209;10916792;11;32
+r;274576915;139209;10916791;11;32
+r;274576927;139209;10916790;11;32
+r;274576939;139209;10916789;11;32
+r;274576951;139209;10916788;11;32
+r;274576963;139209;10916787;11;32
+r;274576975;139209;10916786;11;32
+r;274576987;139209;10916785;11;32
+r;274576999;139209;10916784;11;32
+r;274577011;139209;10916783;11;32
+r;274577023;139209;10916782;11;32
+r;274577035;139209;10916781;11;32
+r;274577047;139209;10916780;11;32
+r;274577059;139209;10916779;11;32
+r;274577071;139209;10916778;11;32
+r;274577083;139209;10916777;11;32
+r;274577095;139209;10916776;11;32
+r;274577107;139209;10916775;11;32
+r;274577119;139209;10916774;11;32
+r;274577131;139209;10916773;11;32
+r;274577143;139209;10916772;11;32
+r;274577155;139209;10916771;11;32
+r;274577167;139209;10916770;11;32
+r;274577179;139209;10916769;11;32
+r;274577191;139209;10916768;11;32
+r;274577203;139209;10916767;11;32
+r;274577215;139209;10916766;11;32
+r;274577227;139209;10916765;11;32
+r;274577244;139209;10916764;11;32
+r;279524099;139209;11029095;11;32
+r;419619198;139209;15283210;11;32
+r;419626655;139209;15251147;11;32
+r;419696977;139209;15251149;11;32
+r;419704472;139209;15389992;11;32
+r;434957866;139209;16534320;11;32
+r;30010875;139209;1836752;11;33
+r;227639930;139209;10026847;11;33
+r;290867169;139209;11350039;11;33
+r;303717969;139209;11788325;11;33
+r;395370758;139209;15429450;11;33
+r;419615303;139209;15206476;11;33
+r;115088636;139209;5903070;11;34
+r;227623819;139209;10034472;11;34
+r;263403331;139209;10577048;11;34
+r;275365324;139209;10935787;11;34
+r;419554167;139209;15249840;11;34
+r;419568929;139209;15207616;11;34
+r;419568935;139209;15207635;11;34
+r;423647655;139209;16153660;11;34
+r;434348081;139209;16154568;11;34
+r;122679186;139209;6432071;11;35
+r;227601880;139209;10041435;11;35
+r;227601907;139209;10041426;11;35
+r;227601923;139209;10041420;11;35
+r;227602277;139209;10041344;11;35
+r;270762046;139209;10831797;11;35
+r;277921488;139209;10995116;11;35
+r;279319364;139209;11026801;11;35
+r;293288003;139209;11407870;11;35
+r;313676011;139209;12049566;11;35
+r;340853553;139209;13437407;11;35
+r;365249401;139209;14380683;11;35
+r;419494098;139209;15315542;11;35
+r;428817754;139209;16315698;11;35
+r;53106476;139209;2390615;11;36
+r;227601939;139209;10041416;11;36
+r;227601949;139209;10041415;11;36
+r;227601963;139209;10041413;11;36
+r;227601977;139209;10041411;11;36
+r;227601991;139209;10041409;11;36
+r;227602005;139209;10041407;11;36
+r;227602015;139209;10041406;11;36
+r;227602049;139209;10041386;11;36
+r;227602065;139209;10041384;11;36
+r;227602083;139209;10041380;11;36
+r;227602093;139209;10041377;11;36
+r;227602103;139209;10041372;11;36
+r;227602117;139209;10041370;11;36
+r;227602127;139209;10041369;11;36
+r;227602141;139209;10041367;11;36
+r;227602155;139209;10041365;11;36
+r;227602169;139209;10041363;11;36
+r;227602195;139209;10041357;11;36
+r;227602213;139209;10041354;11;36
+r;227602221;139209;10041352;11;36
+r;227602229;139209;10041351;11;36
+r;227602241;139209;10041349;11;36
+r;227602249;139209;10041348;11;36
+r;227602257;139209;10041347;11;36
+r;227602265;139209;10041346;11;36
+r;227602285;139209;10041343;11;36
+r;227602299;139209;10041340;11;36
+r;227603195;139209;10040851;11;36
+r;275302190;139209;10937210;11;36
+r;313763013;139209;12051610;11;36
+r;315108617;139209;12081235;11;36
+r;315111697;139209;12080651;11;36
+r;115855125;139209;5917204;11;37
+r;121565065;139209;6435859;11;37
+r;227602025;139209;10041405;11;37
+r;227602035;139209;10041404;11;37
+r;227603025;139209;10040909;11;37
+r;288029155;139209;11237323;11;37
+r;121461831;139209;6447384;11;38
+r;121517872;139209;6441135;11;38
+r;121546860;139209;6437893;11;38
+r;291647468;139209;11363132;11;38
+r;118529667;139209;6003750;11;39
+r;254179312;139209;10346785;11;39
+r;417155042;139209;15493697;11;39
+r;417155052;139209;15207631;11;39
+r;417155058;139209;15207614;11;39
+r;417155064;139209;15355109;11;39
+r;417155070;139209;15394629;11;39
+r;417155080;139209;15521471;11;39
+r;417155088;139209;15355107;11;39
+r;55334253;139209;2444765;11;40
+r;263060710;139209;10554483;11;40
+r;263060906;139209;10554455;11;40
+r;263065039;139209;10553761;11;40
+r;263065156;139209;10553751;11;40
+r;263167712;139209;10556382;11;40
+r;269867176;139209;10787387;11;40
+r;269867186;139209;10787386;11;40
+r;274573194;139209;10918104;11;40
+r;278738260;139209;11003217;11;40
+r;278904316;139209;11012382;11;40
+r;288277406;139209;11251577;11;40
+r;313744676;139209;12053025;11;40
+r;232078539;139209;10073395;11;41
+r;262037944;139209;10514410;11;41
+r;262055940;139209;10506411;11;41
+r;263060728;139209;10554481;11;41
+r;263064382;139209;10553791;11;41
+r;283742611;139209;11156268;11;41
+r;288338867;139209;11252406;11;41
+r;56408705;139209;2475121;11;42
+r;122724018;139209;6426351;11;42
+r;234221282;139209;10106380;11;43
+r;238927381;139209;10176284;11;43
+r;262055712;139209;10506455;11;43
+r;283176008;139209;11137655;11;43
+r;287666907;139209;11219945;11;43
+r;234221270;139209;10106381;11;44
+r;238102931;139209;10159855;11;44
+r;238102992;139209;10159847;11;44
+r;238103052;139209;10159840;11;44
+r;238103077;139209;10159837;11;44
+r;238103115;139209;10159832;11;44
+r;238103131;139209;10159831;11;44
+r;238103166;139209;10159828;11;44
+r;238103201;139209;10159824;11;44
+r;238103223;139209;10159820;11;44
+r;238103237;139209;10159819;11;44
+r;238103246;139209;10159818;11;44
+r;238103275;139209;10159815;11;44
+r;238103338;139209;10159807;11;44
+r;238104068;139209;10159720;11;44
+r;238105025;139209;10159597;11;44
+r;238105650;139209;10159526;11;44
+r;238105736;139209;10159517;11;44
+r;238106581;139209;10159412;11;44
+r;238106942;139209;10159378;11;44
+r;238106956;139209;10159377;11;44
+r;238107252;139209;10159354;11;44
+r;238107270;139209;10159353;11;44
+r;238107287;139209;10159352;11;44
+r;238107308;139209;10159351;11;44
+r;238107326;139209;10159350;11;44
+r;238110244;139209;10158917;11;44
+r;283999962;139209;11158252;11;44
+r;121452522;139209;6448396;11;45
+r;282497278;139209;11105196;11;45
+r;256471046;139209;10442084;11;47
+r;178699027;139209;8749232;11;50
+r;187570431;139209;8814980;11;50
+r;193732639;139209;8958836;11;50
+r;195747828;139209;9023760;11;50
+r;212911196;139209;9271044;11;50
+r;212910895;139209;9271043;11;50
+r;217116034;139209;9667221;11;50
+r;218038949;139209;9745689;11;50
+r;263168259;139209;10556311;11;50
+r;263168267;139209;10556310;11;50
+r;282253805;139209;11118601;11;50
+r;282859095;139209;11130909;11;50
+r;282859103;139209;11130900;11;50
+r;402121006;139209;15207633;11;50
+r;402107982;139209;15207629;11;50
+r;393992814;139209;14134773;11;50
+r;395012657;139209;15249180;11;50
+r;395014057;139209;15394627;11;50
+r;395582943;139209;15462404;11;50
+r;18721849;139209;598065;11;51
+r;27502731;139209;1657016;11;51
+r;92525992;139209;3706826;11;52
+r;19085193;139209;651198;11;53
+r;83662911;139209;3321194;11;53
+r;92520221;139209;3706641;11;53
+r;106906972;139209;5334890;11;53
+r;54356607;139209;2415316;11;54
+r;52470555;139209;2512425;11;55
+r;17160362;139209;567832;11;56
+r;28639194;139209;1742153;11;56
+r;52473191;139209;2506977;11;56
+r;19622790;139209;736725;11;57
+r;52453220;139209;2548989;11;57
+r;29439925;139209;1796937;11;58
+r;52467153;139209;2519722;11;58
+r;83437913;139209;3313815;11;58
+r;100013812;139209;4490018;11;59
+r;91373440;139209;3656013;11;59
+r;106960214;139209;5341377;11;59
+r;30319238;139209;1873623;11;60
+r;72707502;139209;2950329;11;62
+r;72705897;139209;2950320;11;68
+r;12587889;139209;378491;11;101
+r;12587907;139209;378486;11;101
+r;12587923;139209;378482;11;101
+r;12587971;139209;378470;11;101
+r;12587975;139209;378469;11;101
+r;12588003;139209;378462;11;101
+r;12570761;139209;382698;11;102
+r;12587939;139209;378478;11;102
+r;12588011;139209;378460;11;102
+r;12619611;139209;370703;11;102
+r;12587901;139209;378488;11;103
+r;12587913;139209;378485;11;103
+r;12587943;139209;378477;11;103
+r;12587947;139209;378476;11;103
+r;12587955;139209;378474;11;103
+r;12587979;139209;378468;11;103
+r;12588031;139209;378455;11;103
+r;12761933;139209;335933;11;103
+r;12587897;139209;378489;11;104
+r;12587983;139209;378467;11;104
+r;12588015;139209;378459;11;104
+r;12760017;139209;336401;11;104
+r;12587903;139209;378487;11;105
+r;12587919;139209;378483;11;105
+r;12588019;139209;378458;11;105
+r;12697797;139209;351377;11;105
+r;12587891;139209;378490;11;106
+r;12587959;139209;378473;11;106
+r;12587963;139209;378472;11;106
+r;12587999;139209;378463;11;106
+r;12684903;139209;354564;11;106
+r;12587935;139209;378479;11;107
+r;12588023;139209;378457;11;107
+r;13158813;139209;392193;11;107
+r;12587927;139209;378481;11;109
+r;12587951;139209;378475;11;109
+r;12587991;139209;378465;11;109
+r;12587995;139209;378464;11;109
+r;12676505;139209;356628;11;109
+r;12587917;139209;378484;11;110
+r;12587931;139209;378480;11;110
+r;12587967;139209;378471;11;110
+r;12587987;139209;378466;11;110
+r;12588007;139209;378461;11;110
+r;12588027;139209;378456;11;110
+r;12604909;139209;374258;11;110
+r;11868246;139209;68099;11;122
+r;3150065;139209;156595;11;145
+r;3150067;139209;153031;11;145
+r;3150072;139209;226391;11;147
+r;9051061;139209;320269;11;148
+r;9283247;139209;323590;11;148
+r;10522582;139209;325074;11;148
+r;8830596;139209;315145;11;157
+r;8830598;139209;315146;11;157
+r;8690233;139209;216273;11;161
+r;8693741;139209;222373;11;161
+r;8694768;139209;224146;11;161
+r;8701693;139209;233631;11;161
+r;8703190;139209;235604;11;161
+r;8706053;139209;239304;11;161
+r;8706620;139209;240331;11;161
+r;8707981;139209;242989;11;161
+r;8708599;139209;244286;11;161
+r;8711906;139209;248510;11;161
+r;8712775;139209;249499;11;161
+r;8712822;139209;249547;11;161
+r;8714885;139209;251318;11;161
+r;8715656;139209;252081;11;161
+r;8716377;139209;252765;11;161
+r;8716579;139209;252960;11;161
+r;8719575;139209;255273;11;161
+r;8719691;139209;255368;11;161
+r;8720219;139209;255751;11;161
+r;8721091;139209;256349;11;161
+r;8721092;139209;256350;11;161
+r;8721960;139209;256914;11;161
+r;8723805;139209;258278;11;161
+r;8724175;139209;258525;11;161
+r;8726325;139209;259993;11;161
+r;8727284;139209;260748;11;161
+r;8728488;139209;261765;11;161
+r;8811617;139209;313461;11;161
+r;8627139;139209;160923;11;162
+r;8627444;139209;161426;11;162
+r;8627473;139209;161477;11;162
+r;8627649;139209;161838;11;162
+r;8628164;139209;162956;11;162
+r;8628654;139209;163881;11;162
+r;8629912;139209;166057;11;162
+r;8629914;139209;166058;11;162
+r;8680167;139209;207412;11;162
+r;8680169;139209;207413;11;162
+r;8680171;139209;207414;11;162
+r;8680173;139209;207415;11;162
+r;8680174;139209;207416;11;162
+r;8680176;139209;207417;11;162
+r;8689415;139209;214576;11;162
+r;8689552;139209;214906;11;162
+r;8574717;139209;14275;11;163
+r;8604231;139209;100225;11;163
+r;8619299;139209;139671;11;163
+r;8621924;139209;145995;11;163
+r;8622451;139209;151764;11;163
+r;8624439;139209;155327;11;163
+r;8624742;139209;155912;11;163
+r;8624756;139209;155934;11;163
+r;8625038;139209;156366;11;163
+r;8625103;139209;156468;11;163
+r;8625291;139209;156878;11;163
+r;8625569;139209;158128;11;163
+r;8625670;139209;158371;11;163
+r;8626308;139209;159411;11;163
+r;8629610;139209;165441;11;163
+r;8636242;139209;179742;11;163
+r;8643033;139209;184166;11;163
+r;8735815;139209;267894;11;163
+r;8736449;139209;268644;11;163
+r;8736667;139209;268879;11;163
+r;8738110;139209;270514;11;163
+r;8748450;139209;281072;11;163
+r;8748452;139209;281074;11;163
+r;8768035;139209;301512;11;163
+r;8773822;139209;308101;11;163
+r;3139993;139209;155815;11;164
+r;3142298;139209;184165;11;164
+r;8623925;139209;154406;11;164
+r;8625198;139209;156607;11;164
+r;8648179;139209;187287;11;164
+r;8776892;139209;310973;11;164
+r;8777164;139209;311200;11;164
+r;8570919;139209;2871;11;168
+r;388962;139209;163896;11;188
+r;271002;139209;155328;11;189
+r;1664122;139209;158961;11;189
+r;269407;139209;161133;11;198
+r;423372;139209;98365;11;199
+r;423373;139209;158435;11;209
+r;2011192;139209;141895;11;209
+r;365594;139209;152046;11;219
+r;1890736;139209;152742;11;219
+r;1664121;139209;8763;11;224
+r;423374;139209;161606;11;248
+r;273848;139209;155683;11;259
+r;269408;139209;152945;11;269
+r;376303;139209;152733;11;269
+r;265392;139209;152476;11;279
+r;269406;139209;156292;11;279

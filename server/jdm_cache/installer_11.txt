@@ -1,0 +1,64 @@
+
+e;69384;'installer';1;100
+e;13642327;'s'installer à son compte';1;0
+e;14532445;'installer une application';1;0
+e;14536141;'installer la clim';1;0
+e;14536142;'installer la climatisation';1;0
+e;140993;'s'installer';1;156
+e;2480996;'auto-installer';1;0
+e;2480942;'pré-installer';1;0
+e;9963098;'Comment installer votre cinéma maison';777;0
+e;15211933;'bouton installer';1;0
+e;10936441;'installer des éoliennes';1;0
+e;12048820;'installer des conteneurs de recyclage';1;0
+e;12049873;'installer des équipements en temps opportun';1;0
+e;12049882;'installer des accessoires en temps opportun';1;0
+e;12043566;'installer une protection anti-spam';1;0
+e;12043565;'installer un pare-feu';1;0
+e;12043564;'installer un logiciel anti-virus';1;0
+e;12052632;'installer l'électronique sur une voiture';1;0
+e;12052638;'installer un équipement de communications électroniques';1;0
+e;12053107;'installer un plafond suspendu';1;0
+e;12053121;'installer un plafond tendu';1;0
+e;12053122;'installer un plafond à caissons';1;0
+e;12053120;'installer des éléments en bois dans des structures';1;0
+e;12053106;'installer des profilés de construction';1;0
+e;12053119;'installer des matériaux isolants';1;0
+e;2366508;'ré-installer';1;0
+e;8785201;'installer une clim';1;0
+e;8785200;'installer une climatisation';1;2
+e;256358;'s'installer à l'étranger';1;52
+e;256957;'s'installer ensemble';1;68
+e;155601;'installer un logiciel';1;52
+e;202184;'installer une ligne';1;52
+r;346166917;69384;13642327;11;26
+r;368703288;69384;14532445;11;26
+r;368762101;69384;14536141;11;26
+r;368762113;69384;14536142;11;26
+r;18731230;69384;140993;11;29
+r;60128260;69384;2480996;11;30
+r;61461811;69384;2480942;11;30
+r;221149091;69384;9963098;11;30
+r;419662639;69384;15211933;11;32
+r;275265947;69384;10936441;11;35
+r;313623657;69384;12048820;11;35
+r;313679007;69384;12049873;11;36
+r;313691733;69384;12049882;11;36
+r;313578573;69384;12043566;11;37
+r;313578660;69384;12043565;11;37
+r;313579108;69384;12043564;11;37
+r;313734743;69384;12052632;11;40
+r;313735448;69384;12052638;11;40
+r;313742113;69384;12053107;11;40
+r;313742361;69384;12053121;11;40
+r;313742616;69384;12053122;11;40
+r;313744254;69384;12053120;11;40
+r;313745125;69384;12053106;11;40
+r;313748086;69384;12053119;11;40
+r;50465295;69384;2366508;11;43
+r;183022976;69384;8785201;11;50
+r;183022981;69384;8785200;11;50
+r;8881515;69384;256358;11;150
+r;8881581;69384;256957;11;150
+r;8624569;69384;155601;11;163
+r;8671528;69384;202184;11;163

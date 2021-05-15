@@ -1,0 +1,3274 @@
+
+e;113317;'Paris';1;1888
+e;11518962;'ÉnsAD-Paris';777;0
+e;12198384;'disputation de Paris';777;0
+e;12209480;'Paris Orléans';777;0
+e;12987775;'pilotage automatique du métro de Paris';777;0
+e;12986594;'Paris en selle';777;0
+e;12985572;'de l'université de Paris';777;0
+e;13590883;'Michael Paris';777;0
+e;13598837;'À travers les Hauts de France-Trophée Paris Arras Tour';777;0
+e;13627397;'aéroport de Paris';777;0
+e;13636495;'saison 2013-2014 d'Issy Paris Hand';777;0
+e;13637544;'Paris UC';777;0
+e;13637638;'Issy Paris Hand';777;0
+e;13640266;'saison 2019-2020 du Paris Football Club';777;0
+e;13641364;'saison 2016-2017 du Paris Football Club';777;0
+e;13641360;'histoire du Paris Football Club';777;0
+e;13641363;'saison 2015-2016 du Paris Football Club';777;0
+e;13641365;'saison 2017-2018 du Paris Football Club';777;0
+e;13731127;'Massacre à Paris';777;0
+e;13808911;'orchestre de l'Opéra national de Paris';777;0
+e;13816148;'I Love Paris';777;0
+e;13816136;'Paris je t'aime d'amour';777;0
+e;13879474;'couvent de la Merci à Paris';777;0
+e;14003742;'Mondial Paris Motor Show 2018';777;0
+e;14004502;'Liste des ponts de Paris';777;0
+e;14013442;'accords de Paris sur le Cambodge de 1991';777;0
+e;14015244;'registres paroissiaux et d'état civil à Paris';777;0
+e;14026294;'Liam Paul Paris Howlett';777;0
+e;14032639;'Walking to Paris';777;0
+e;14032819;'Paris la belle';777;0
+e;14048231;'Musée d'Art Moderne de Paris';777;0
+e;14093590;'Manuel pratique de la culture maraîchère de Paris';777;0
+e;14094277;'concours central hippique de Paris';777;0
+e;14094289;'Salon du cheval de Paris';777;0
+e;14111498;'Passages couverts de Paris';777;0
+e;14108820;'premier président de la cour d'appel de Paris';777;0
+e;14144529;'halles de Paris';1;0
+e;14144563;'Liste de fiefs de Paris';777;0
+e;14144626;'ancien 12e arrondissement de Paris';777;8
+e;14174811;'Paris Motion Festival';777;0
+e;14301230;'Studio Harcourt Paris';777;0
+e;14377331;'École d'urbanisme de Paris';777;0
+e;14399342;'bourse du travail de Paris';777;0
+e;14470247;'TJ de Paris';777;0
+e;14470246;'tribunal judiciaire de Paris';777;0
+e;14446267;'Tom Paris';777;0
+e;14453608;'assistance publique de Paris';1;0
+e;14454640;'fonds de compensation des nuisances des aéroports de Paris';1;0
+e;14454622;'société du Grand Paris';1;0
+e;14531067;'Notice de calcul du Bassin des Carènes de Paris';777;0
+e;14594369;'Paris Flash';777;0
+e;14635906;'flèche de Notre-Dame de Paris';1;0
+e;14657131;'Paris Arena';777;0
+e;14665947;'Les passages couverts de Paris';777;0
+e;14677741;'École Supérieure de Commerce de Paris';777;0
+e;14741650;'au Théâtre de Paris';777;0
+e;14735223;'ingénieurs de la ville de Paris';777;0
+e;14745336;'Tableau comparatif des données climatiques de Paris';777;0
+e;14754980;'quartier Thabor - Paris';777;0
+e;16510318;'jardin tropical de Paris';777;0
+e;15426962;'heure de Paris';1;0
+e;15021646;'Observatoire de Paris';1;0
+e;16155552;'église de la Sainte-Trinité de Paris';777;0
+e;16476517;'espace urbain de Paris';777;0
+e;5792014;'L'Auvergnat de Paris';777;0
+e;5786875;'Fouquet's Paris';777;0
+e;5786708;'Le Ciel de Paris';777;0
+e;5786458;'baguette de Paris';777;0
+e;14677926;'Paris 6e';1;2
+e;12979158;'Paris Chess Club';777;0
+e;12981357;'bilan saison par saison du Paris Football Club';777;0
+e;14677952;'Paris 2e';1;4
+e;14677946;'Paris 5e';1;14
+e;14677910;'Paris 9e';1;0
+e;14677971;'Paris 20e';1;0
+e;14677970;'Paris 19e';1;4
+e;13816139;'Paris sera toujours Paris';777;0
+e;13816145;'Fleur de Paris';777;0
+e;14677968;'Paris 18e';1;4
+e;14146917;'Une proposition de fusion est en cours entre Liste des espaces verts de Paris et Liste des espaces verts de Paris se référant à un nom de femme';777;0
+e;14164390;'quais de Paris';1;0
+e;14677906;'Paris 17e';1;2
+e;14677909;'Paris 10e';1;0
+e;14677912;'Paris 7e';1;2
+e;14677908;'Paris 11e';1;0
+e;14670169;'Paris XXe';1;28
+e;14670170;'Paris XIXe';1;18
+e;14670172;'Paris IIIe';1;24
+e;14670175;'Paris VIe';1;30
+e;14670176;'Paris IXe';1;36
+e;14670177;'Paris IVe';1;38
+e;14670178;'Paris Ier';1;46
+e;14670179;'Paris Ve';1;56
+e;14670180;'Paris IIe';1;34
+e;14670181;'Paris VIIe';1;42
+e;14670182;'Paris XVe';1;64
+e;14670183;'Paris XIIe';1;76
+e;14670184;'Paris XIVe';1;70
+e;14670187;'Paris Xe';1;68
+e;14670188;'Paris VIIIe';1;72
+e;14670191;'Paris XIe';1;74
+e;14670194;'Paris XVIIe';1;64
+e;14670196;'Paris XVIIIe';1;86
+e;14670853;'Paris Ie';1;10
+e;14670854;'XXe arrondissement de Paris';1;8
+e;14670855;'XIXe arrondissement de Paris';1;12
+e;14670856;'XVIIIe arrondissement de Paris';1;12
+e;14670857;'XVIIe arrondissement de Paris';1;10
+e;14670858;'XVIe arrondissement de Paris';1;4
+e;14670859;'XVe arrondissement de Paris';1;10
+e;14670860;'XIVe arrondissement de Paris';1;2
+e;14670861;'XIIIe arrondissement de Paris';1;2
+e;14670862;'XIIe arrondissement de Paris';1;2
+e;14670863;'XIe arrondissement de Paris';1;6
+e;14670864;'Xe arrondissement de Paris';1;6
+e;14670866;'VIIIe arrondissement de Paris';1;6
+e;14670867;'VIIe arrondissement de Paris';1;6
+e;14670868;'VIe arrondissement de Paris';1;6
+e;14670869;'Ve arrondissement de Paris';1;16
+e;14670875;'Paris 3e';1;4
+e;14670877;'Paris 4e';1;4
+e;14671644;'Paris 1er';1;10
+e;14671645;'Paris 1e';1;0
+e;14679348;'Paris 15e';1;4
+e;14679349;'Paris 14e';1;0
+e;14679350;'Paris 13e';1;0
+e;14679351;'Paris 12e';1;0
+e;14679364;'Paris 8e';1;0
+e;14716912;'rue de Paris';1;0
+e;15013042;'Université Sorbonne Paris Nord';777;0
+e;15019567;'Le ventre de Paris';777;0
+e;15029243;'ancien chirurgien des hôpitaux de Paris';1;0
+e;15029244;'ancien interne des hôpitaux de Paris';1;0
+e;15029266;'anciens médecins des hôpitaux de Paris';1;0
+e;15029245;'ancien médecin des hôpitaux de Paris';1;0
+e;15029253;'ancienne interne des hôpitaux de Paris';1;0
+e;15032922;'article de Paris';1;0
+e;5794596;'Les Lumières de Paris';777;0
+e;5794210;'boudin de Paris';777;0
+e;5793597;'Édouard Paris';777;0
+e;10674638;'ligne nouvelle Paris - Normandie';777;0
+e;10685634;'À travers Paris';777;0
+e;10685591;'Circuit de Paris';777;0
+e;10672854;'Paris et le désert français';777;0
+e;10671481;'Paris Métropole';777;0
+e;10671480;'Forum métropolitain du Grand Paris';777;0
+e;10663318;'Bibliothèque historique de la ville de Paris';777;0
+e;10623923;'La Seine a rencontré Paris';777;0
+e;10623699;'Villages Nature Paris';777;0
+e;15032939;'articles de Paris';1;0
+e;5799655;'concours de la meilleure baguette de Paris';777;0
+e;5797044;'Société des amis des universités de Paris';777;0
+e;5797038;'Société de linguistique de Paris';777;0
+e;5795612;'Café de Paris';777;0
+e;6089217;'1er arrondissement de Paris';777;20
+e;6088753;'tribunal aux armées de Paris';777;0
+e;6088077;'conférence des avocats du barreau de Paris';777;0
+e;6083607;'Cité judiciaire de Paris';777;0
+e;10676632;'Meeting de Paris 2016';777;0
+e;10676154;'Chaire de géologie générale de la Faculté des Sciences de Paris';777;0
+e;10608378;'Isabelle de Paris';777;0
+e;10622148;'Paris Volley';777;0
+e;10730359;'Paris Strasbourg à la marche';777;0
+e;10879828;'Paris Basket Racing';777;0
+e;10879664;'Paris Université Club';777;0
+e;10986525;'insurrection républicaine à Paris en juin 1832';777;0
+e;10986446;'3e bataillon de Paris';777;0
+e;10986445;'3e bataillon de volontaires nationaux de Paris';777;0
+e;13538345;'attentat de la préfecture de police de Paris';777;0
+e;13535570;'Meeting de Paris 2019';777;0
+e;13537597;'École nationale supérieure de chimie de Paris';777;0
+e;5807037;'Jugement de Paris';777;0
+e;6083459;'Henri Paris';777;0
+e;9988462;'Nadja à Paris';777;0
+e;9988463;'Paris vu par';777;0
+e;10590516;'Alerte à Paris !';777;0
+e;10590403;'Un été à Paris';777;0
+e;10589876;'Si Paris l'avait su';777;0
+e;10589577;'Deux Anglais à Paris';777;0
+e;10604595;'Orchestre de Paris';777;0
+e;10618348;'Schola Cantorum de Paris';777;0
+e;10665980;'station du métro de Paris';1;0
+e;10874633;'Le 15 h 17 pour Paris';777;0
+e;10896458;'Un Martien à Paris';777;0
+e;10988186;'Centre américain de Paris';777;0
+e;10989860;'Le Comte Robert de Paris';777;0
+e;11756030;'vicomté de Paris';777;0
+e;11756158;'Société des missions évangéliques de Paris';777;0
+e;11769651;'École cathédrale de Paris';777;0
+e;11769669;'faculté des Arts de Paris';777;0
+e;11769652;'grève de 1229 à l'université de Paris';777;0
+e;11769640;'Sainte Aure de Paris';777;0
+e;11769767;'Histoire de l'université de Paris';777;0
+e;11769719;'collèges étrangers de l'université de Paris';777;0
+e;11775191;'Radio Campus Paris';777;0
+e;12905076;'matériel roulant du métro de Paris';777;0
+e;14851457;'La Dernière Bourrée de Paris';777;0
+e;16102374;'de Londres à Paris';1;0
+e;9959148;'réseau viaire de Paris';777;0
+e;9959207;'ancien 3e arrondissement de Paris';777;0
+e;9959185;'2e arrondissement de Paris';777;10
+e;9959218;'ancien 5e arrondissement de Paris';777;4
+e;9959210;'ancien 2e arrondissement de Paris';777;0
+e;9959253;'Dictionnaire administratif et historique des rues de Paris et de ses monuments';777;0
+e;9959211;'Denis de Paris';777;0
+e;9959416;'ancien 4e arrondissement de Paris';777;0
+e;9959465;'liste des stations du métro de Paris';777;0
+e;9959451;'Dictionnaire historique des rues de Paris';777;0
+e;9959717;'boulevard périphérique de Paris';777;0
+e;9960613;'liste des voies du 2e arrondissement de Paris';777;0
+e;9961771;'club de Paris';777;0
+e;9961907;'liste des espaces verts de Paris';777;0
+e;9962140;'jardin des plantes de Paris';777;0
+e;9962058;'parc floral de Paris';777;0
+e;9962767;'Festival Paris Cinéma';777;0
+e;9977393;'les Beaux-Arts de Paris';777;0
+e;9987592;'Festival de films gays et lesbiens de Paris';777;0
+e;9987162;'Université Paris 3';777;0
+e;9989877;'École normale de musique de Paris';777;0
+e;10602192;'Sidney De Paris';777;0
+e;10599976;'Coutume de Paris';777;0
+e;10599436;'Paris Nord Sud';777;0
+e;10596688;'Tito Paris';777;0
+e;10595176;'Rires de Paris';777;0
+e;10594166;'Quatre jours à Paris';777;0
+e;10594020;'Le Pavé de Paris';777;0
+e;10871515;'That Girl from Paris';777;0
+e;10909463;'Club des Patineurs de Paris';777;0
+e;10915207;'traité de Paris de 1815';777;0
+e;10914666;'Germain de Paris';777;0
+e;10914543;'saison 2007-2008 du Paris Saint-Germain';777;0
+e;10914504;'saison 2005-2006 du Paris Saint-Germain';777;0
+e;10969600;'cirque d'hiver de Paris';777;0
+e;10968734;'liste des voies du 15e arrondissement de Paris';777;0
+e;10989536;'attentat du 12 mai 2018 à Paris';777;0
+e;11055932;'place de Paris';1;0
+e;11030268;'réplique de Paris';777;0
+e;11771532;'Live à Paris';777;0
+e;12320531;'Lettre d'un docteur de Sorbonne à une personne de condition sur ce qui est arrivé depuis peu dans une paroisse de Paris à un seigneur de la Cour';777;0
+e;13518250;'affaire des emplois fictifs de la mairie de Paris';1;0
+e;13518272;'affaire des chargés de mission de la ville de Paris';777;0
+e;15774714;'diocèse de Paris';777;0
+e;15625782;'directeur général de l'Opéra de Paris';777;0
+e;5679233;'Paris et Londres en 1793';777;0
+e;5681507;'fontaines disparues de Paris';777;0
+e;5681506;'fontaines de Paris';777;0
+e;5827735;'sauce Café de Paris';777;0
+e;5816393;'laboratoire de génie électrique de Paris';777;0
+e;6070461;'héliport de Paris - Issy-les-Moulineaux';777;0
+e;9958052;'accords de Paris de 1955';777;0
+e;9958100;'accords de Paix de Paris';777;0
+e;9959149;'À ne pas confondre avec les voiries de Paris';777;0
+e;9959220;'Le Dit des rues de Paris';777;0
+e;9959254;'histoire de Paris';777;0
+e;9959225;'Guillot de Paris';777;0
+e;9959194;'des anciennes voies de la ville Paris';777;0
+e;9959403;'Missions étrangères de Paris';777;0
+e;9959637;'anciens arrondissements de Paris';777;0
+e;9972733;'chronologie de la Commune de Paris';777;0
+e;9982547;'Les Jardins de Paris';777;0
+e;10005036;'Sa nièce de Paris';777;0
+e;10001594;'Exposition universelle de Paris de 1889';777;0
+e;10001440;'L'Exposition de Paris 1900';777;0
+e;10000288;'liste des voies du 16e arrondissement de Paris';777;0
+e;9998594;'École supérieure de journalisme de Paris';777;0
+e;9997866;'Petit Théâtre de Paris';777;0
+e;9997864;'théâtre de Paris';777;0
+e;9997835;'Ombres sur Paris';777;0
+e;10969090;'Gilles Paris';777;0
+e;10584626;'La Dernière Fois que j'ai vu Paris';777;0
+e;10578721;'préfecture de police de Paris';777;0
+e;10578379;'cour d'appel de Paris';777;0
+e;10578068;'liste des préfets de police de Paris';777;0
+e;10577949;'Le Voyage à Paris';777;0
+e;10599982;'traité de Paris de 1763';777;0
+e;10914101;'École de Notre-Dame de Paris';777;0
+e;10913938;'Tre piger i Paris';777;0
+e;10916432;'Vincennes Hippodrome de Paris';777;0
+e;10969680;'musée d'art moderne de la ville de Paris';777;0
+e;10990905;'attaque du 12 mai 2018 à Paris';777;0
+e;11030046;'canons de Paris';777;0
+e;11030577;'fortifications de Paris aux XIXe et XXe siècles';777;0
+e;11055812;'tourisme fluvial à Paris';777;0
+e;11056108;'France Bleu Paris';777;0
+e;11783568;'numéros de téléphone de Paris';777;0
+e;11358582;'Arsenal de Paris';777;0
+e;11358564;'codex de Paris';777;0
+e;11358542;'Psautier de Paris';777;0
+e;11358526;'Bible Syriaque de Paris';777;0
+e;11781549;'Paris pieds nus';777;0
+e;11993255;'Renaud Paris';777;0
+e;12320512;'flèches de Notre-Dame de Paris';777;0
+e;12320552;'Écrits des Curés de Paris';777;0
+e;14677943;'Jardin des Plantes de Paris';1;14
+e;15792061;'conférence de la paix de Paris';777;0
+e;15346618;'conseiller de Paris';1;0
+e;15317627;'conseillère de Paris';1;0
+e;15639887;'coté à la Bourse de Paris';1;0
+e;15639889;'cotée à la Bourse de Paris';1;0
+e;16321368;'compost pour la culture du champignon de Paris';777;0
+e;5679545;'Institut dosimétrique de Paris';777;0
+e;5703609;'département de Paris';777;0
+e;5806089;'histoire de la boucherie à Paris';777;0
+e;5817138;'Chaire de minéralogie de la Faculté des sciences de Paris';777;0
+e;5836003;'Ferme de Paris';777;0
+e;5913268;'Ménagier de Paris';777;0
+e;9963705;'parc de la ville de Paris';777;0
+e;9972725;'siège de Paris de 1870-1871';777;0
+e;10026861;'Vidéothèque de Paris';777;0
+e;10018857;'La Coqueluche de Paris';777;0
+e;10011441;'8e arrondissement de Paris';777;28
+e;10001662;'ligne de la grande ceinture de Paris';777;0
+e;10959086;'Chemin de fer de Paris à la mer';777;0
+e;10959200;'méridien de Paris';777;0
+e;10584774;'Charte de Paris pour une nouvelle Europe';777;0
+e;10584775;'Charte de Paris';777;0
+e;10579659;'Live in Paris';777;0
+e;10741842;'cathédrale américaine de Paris';777;0
+e;10734290;'L' École freudienne de Paris';777;0
+e;10869783;'Adélaïde de Paris';777;0
+e;10918186;'Schneider Electric Marathon de Paris';777;0
+e;10910022;'BFM Paris';777;0
+e;10918195;'marathon de Paris de 2015';777;0
+e;10918194;'marathon de Paris de 2014';777;0
+e;10918191;'Marathon de Paris 2018';777;0
+e;10918190;'marathon de Paris 2018';777;0
+e;10918189;'Marathon de Paris 2016';777;0
+e;10918185;'marathon de Paris 2017';777;0
+e;10919658;'archevêque de Paris';777;0
+e;10992794;'traité de Paris du 10 octobre 1801';777;0
+e;11055783;'généralité de Paris';777;0
+e;11071963;'réseau routier du département de Paris';777;0
+e;11356838;'L'Or de Paris';777;0
+e;11354690;'premier congrès de Paris';777;0
+e;11353746;'Paris japonica';777;0
+e;11777290;'2016 du tournoi de tennis du Rolex Paris Masters';777;0
+e;11787647;'Jazz in Paris';777;0
+e;11828182;'Paris Game Festival';777;0
+e;11994577;'musique festive de danses de Paris au XIXe siècle';777;0
+e;13093971;'ENSAE Paris';777;0
+e;15781551;'au nord de Paris';1;0
+e;15646658;'au sud de Paris';1;0
+e;15356394;'aux alentours de Paris';1;0
+e;15402463;'avec des si et des mais, on mettrait Paris dans une bouteille';1;0
+e;15522790;'avec des si, on mettrait Paris en bouteille';1;0
+e;15561683;'brigade des Sapeurs-Pompiers de Paris';1;0
+e;16513087;'Paris-Lisboa';1;0
+e;16512854;'Paris-Ondes';1;0
+e;5619764;'Grands Moulins de Paris';777;0
+e;5812038;'Chaire de physique II de la Faculté des sciences de Paris';777;0
+e;5898185;'arrondissements de Paris';777;14
+e;9945365;'accords de Paris';777;0
+e;10035509;'Made in Paris';777;0
+e;10033424;'Université Paris Lumières';777;0
+e;10033137;'université Paris Nanterre';777;0
+e;10033130;'université de Paris VIII';777;0
+e;10032902;'faculté des lettres de Paris';777;0
+e;10011526;'archives de Paris';777;0
+e;10956090;'couvent des Célestins de Paris';777;0
+e;10959869;'cinquième circonscription législative de Paris';777;0
+e;10958985;'compagnie des chemins de fer de Paris à Lyon et à la Méditerranée';1;0
+e;10959388;'aire urbaine de Paris';777;0
+e;10953235;'traité de Paris de 1259';777;0
+e;10942334;'Six Jours de Paris';777;0
+e;10942359;'CASG Paris';777;0
+e;10576907;'À nous deux Paris !';777;0
+e;10576881;'Les Amours de Paris';777;0
+e;10744193;'Opéra national de Paris';777;0
+e;10959087;'compagnie du chemin de fer de Paris à Strasbourg';777;0
+e;10994474;'mairie du 12e arrondissement de Paris';777;0
+e;11027093;'Le Tour de Paris';777;0
+e;11071108;'saison 2018-2019 du Paris Saint-Germain';777;0
+e;11076200;'Paris Nogari';777;0
+e;11076715;'Paris sous les bombes';777;0
+e;11076609;'Léo Ferré au Théâtre libertaire de Paris';777;0
+e;11076875;'Daho Pleyel Paris';777;0
+e;11076866;'Paris ailleurs';777;0
+e;11089678;'punk à Paris';777;0
+e;11083411;'église américaine de Paris';777;0
+e;11406570;'jardin de l'Observatoire de Paris';777;0
+e;11784423;'élections municipales françaises de 2020 à Paris';777;0
+e;11788338;'musée Carnavalet - Histoire de Paris';777;0
+e;11788317;'paix de Paris';777;0
+e;11789709;'Compagnie des chemins de fer de Paris à Lyon et à la Méditerranée';777;0
+e;11807417;'anciennes communes de Paris';777;0
+e;11807900;'saison 2018-2019 du Paris Football Club';777;0
+e;11821912;'statues équestres de Paris';777;0
+e;11827119;'Femmes de Paris';777;0
+e;11901330;'tentative d'attentat de la cathédrale Notre-Dame de Paris';777;0
+e;13055127;'Liam Paris Howlett';777;0
+e;13094114;'université Sorbonne Nouvelle - Paris 3';777;0
+e;13093970;'École nationale de la statistique et de l'administration économique Paris';777;0
+e;13094129;'institut polytechnique de Paris';777;0
+e;13093976;'ENSTA Paris';777;0
+e;14540586;'aéroport de Paris Charles-De-Gaulle';1;0
+e;16105760;'Paris Cast';777;0
+e;15198056;'arriver à Paris';1;0
+e;15426957;'assistance publique - Hôpitaux de Paris';1;0
+e;16342730;'Paris Ondes Courtes';777;0
+e;16491685;'Paris-St-Germain';1;0
+e;16171710;'Quartette vocal de Paris';777;0
+e;16342735;'RDF Radio Paris';777;0
+e;16291520;'Running in Paris';777;0
+e;16118118;'abbaye Sainte-Marie de Paris';777;0
+e;5893793;'liste des salles de cinéma de Paris';777;0
+e;5919574;'They Had to See Paris';777;0
+e;5918459;'Paris Chocolat';777;0
+e;5918354;'Musée du Chocolat de Paris';777;0
+e;5962164;'Paris ist eine Reise wert';777;0
+e;5961069;'Les Voitures qui ont mangé Paris';777;0
+e;5960509;'Quasimodo d'El Paris';777;0
+e;9946665;'Hilton Opéra de Paris';777;0
+e;10033423;'Institut Polytechnique Grand Paris';777;0
+e;10033301;'Institut Supérieur de Mécanique de Paris';777;0
+e;10747765;'prise de Paris';777;0
+e;10747726;'siège de Paris de 1370';777;0
+e;10745195;'délégation générale du Québec à Paris';777;0
+e;10743819;'traité de Paris de 1898';777;0
+e;10850568;'Jean de Paris';777;0
+e;10867054;'Paris Expo Porte de Versailles';777;0
+e;10866354;'Festival d'humour de Paris';777;0
+e;10929589;'Éco-Trail de Paris Île-de-France';777;0
+e;10923040;'élections municipales de 1989 à Paris';777;0
+e;10923038;'élections municipales à Paris de juillet 1871';777;0
+e;10923037;'Commune de Paris de 1871';777;0
+e;10934987;'La Schola Cantorum de Paris';777;0
+e;10940958;'médaille de la Ville de Paris';777;0
+e;10994449;'ministère nommé par la commission municipale de Paris';777;0
+e;11027091;'Tour de Paris';777;0
+e;11083510;'église suédoise de Paris';777;0
+e;11083395;'musée des Égouts de Paris';777;0
+e;11083522;'musées de la ville de Paris';777;0
+e;11347260;'médecin des hôpitaux de Paris';1;0
+e;11404264;'religieuses Augustines Pénitentes de Paris';777;0
+e;11404258;'Filles Rendues de Paris';777;0
+e;11814394;'Le Paysan de Paris';777;0
+e;11825408;'A Cop in Paris';777;0
+e;11826658;'Le Tourbillon de Paris';777;0
+e;12032759;'Hôpital général de Paris';777;0
+e;12033004;'Le Bristol Paris';777;0
+e;12071207;'Paris au XXe siècle';777;0
+e;12305289;'incendie de Notre-Dame de Paris';777;0
+e;16367369;'Forum de Paris sur la paix';777;0
+e;16316279;'Miss Paris';777;0
+e;14902507;'L'Apache est la plaie de Paris';777;0
+e;15774712;'archevêques de Paris';777;0
+e;15383032;'Notre Dame de Paris';1;0
+e;15781555;'Nous approchons de Paris.';1;0
+e;15322631;'Nous avons acheté un guide sur Paris.';1;0
+e;15410709;'Nous avons traversé Paris pour aller à Rennes.';1;0
+e;15546278;'Nous sommes allés à Paris ainsi qu'à Chartres.';1;0
+e;15386168;'Nous sommes allés à Paris via Boulogne.';1;0
+e;15406887;'Nous étions coincés à Paris.';1;0
+e;15465748;'Paris 14ème';1;0
+e;15779774;'Paris 1952';777;0
+e;15779790;'Paris 1964';777;0
+e;15403565;'Paris 1er arrondissement';1;0
+e;15193252;'Paris 4ème';1;0
+e;15193250;'Paris 5ème';1;0
+e;15198062;'Paris Est';1;0
+e;15567461;'Paris d'autrefois';1;0
+e;15323376;'Paris en photos';1;0
+e;15346614;'Paris et RP';1;0
+e;15860060;'Paris et la petite couronne';777;0
+e;15346616;'Paris extra-muros';1;0
+e;15198064;'Paris rive droite';1;0
+e;15278160;'Paris rive gauche';1;0
+e;15583891;'Paris sous la neige';1;0
+e;15379081;'Paris, Rive Droite';1;0
+e;10437702;'Paris-Alger-Dakar';777;0
+e;14656090;'Paris-Antibes-Juan-les-Pins';1;0
+e;11777837;'Paris-Auxerre';777;0
+e;11828016;'Paris-Banlieue';1;0
+e;15190156;'Paris-Charenton';1;0
+e;12206075;'Paris-Lille';1;0
+e;10686196;'Paris-Limoges';777;0
+e;10835633;'Paris-Luxembourg';777;0
+e;14094940;'Paris-Malaquais';1;0
+e;10557573;'Paris-Manhattan';777;0
+e;10753880;'Paris-Mantes';777;0
+e;15039817;'Paris-Montsouris';1;0
+e;11127611;'Paris-Normandie';1;0
+e;10942417;'Paris-Rennes';777;0
+e;10942425;'Paris-Saint-Étienne';777;0
+e;11158985;'Paris-Sciences-et-Lettres';1;0
+e;10953687;'Paris-Troyes';777;0
+e;12865412;'Paris-VIII';1;0
+e;11343062;'Paris-XI';1;0
+e;15426976;'Pompiers de Paris';1;0
+e;12004763;'Prax-Paris';1;0
+e;10896279;'Pékin-Paris';777;0
+e;13816124;'Rendez-vous à Paris avec Maurice Chevalier N°3';777;0
+e;10913914;'Rome-Paris-Rome';777;0
+e;15789552;'Rues de Paris en 1636';777;0
+e;15958480;'SMTOWN in Paris';777;0
+e;13557299;'Saison 2019-2020 du Stade français Paris rugby';777;0
+e;15774042;'Saison 2020-2021 du Paris Football Club';777;0
+e;14468509;'Société de l'histoire de Paris et de l'Île-de-France';777;0
+e;15755083;'Venez me voir quand vous serez à Paris.';1;0
+e;15310570;'aller à Paris';1;0
+e;16104412;'Professeur d'orgue du Conservatoire national supérieur de musique et de danse de Paris';777;0
+e;16159960;'Professeur de cor au CNSM de Paris';777;0
+e;16258098;'Paris 1933';777;0
+e;16285077;'Théâtres Paris et Province';777;0
+e;16322886;'Paris by Night';777;0
+e;16310351;'L'Institut Paris Région';777;0
+e;16326927;'Paris en colère';777;0
+e;16366845;'Paris-Zénith';777;0
+e;5624840;'nappe de l'Albien du bassin de Paris';777;0
+e;11020544;'University of London Institute in Paris';777;0
+e;5988068;'Live from Paris';777;0
+e;5979705;'Paris Hilton Record';777;0
+e;6066053;'Journal de Paris';777;0
+e;15692018;'Paris Jazz Festival';777;0
+e;10041823;'4e arrondissement de Paris';777;6
+e;10041822;'tournés dans la ville de Paris';777;0
+e;10040819;'Meeting de Paris';777;0
+e;10040818;'Meeting de Paris 2017';777;0
+e;10040619;'palais des congrès de Paris';777;0
+e;10032905;'Paris-V';777;0
+e;10033139;'Paris-X';777;0
+e;10302454;'administrateurs de la ville de Paris';777;0
+e;10963659;'Paris-sous-Seine';777;0
+e;10252092;'Passeport pour Paris';777;0
+e;10252091;'Aventures à Paris';777;0
+e;10311802;'Stade français Paris rugby';777;0
+e;10832369;'Salon nautique international de Paris';777;0
+e;10072823;'Paris-Deauville';777;0
+e;10136385;'Paris-IV';777;0
+e;10159877;'Paris-Soleil';777;0
+e;10558733;'Les Chinois à Paris';777;0
+e;10558508;'À Paris tous les trois';777;0
+e;10603935;'Paris-Camembert';1;0
+e;10192690;'Paris-Tours';777;0
+e;10195553;'Paris-Corrèze';777;0
+e;10197400;'Paris-Colmar';777;0
+e;10747791;'siège de Paris de 1435-1436';777;0
+e;10747717;'siège de Paris de 1360';777;0
+e;10347444;'Paris-Méditerranée';777;0
+e;10842405;'liste des voies du 11e arrondissement de Paris';777;0
+e;10840887;'La Valse de Paris';777;0
+e;10853812;'Paris Nord 2';777;0
+e;10853751;'lignes de bus Traverses de Paris';777;0
+e;10853007;'Association pour le rayonnement de l'Opéra national de Paris';777;0
+e;10852991;'gouverneur militaire de Paris';777;0
+e;10851684;'monuments historiques du 9e arrondissement de Paris';777;0
+e;10851489;'Les Paris RMC';777;0
+e;10851428;'Écrits de Paris';777;0
+e;10863610;'InterContinental Paris Le Grand';777;0
+e;10863605;'Ritz Paris';777;0
+e;10863592;'The Peninsula Paris';777;0
+e;10867758;'Paris Tonkar magazine';777;0
+e;10867695;'Paris Normandie';777;0
+e;10429566;'Paris-Presse';777;0
+e;10930625;'rives de la Seine à Paris';777;0
+e;10933040;'Paris Township';777;0
+e;10933039;'Convention de Paris';777;0
+e;10933038;'New Paris';777;0
+e;10933037;'Joseph Paris';777;0
+e;10933036;'Joseph Louis Jean Paris';777;0
+e;10933035;'Jehan de Paris';777;0
+e;10933033;'Didier Paris';777;0
+e;10997891;'cabinet du maire de Paris';777;0
+e;11014060;'église Saint-Gervais-Saint-Protais de Paris';777;0
+e;11020340;'Mosquée de Paris';777;0
+e;11175336;'Paris-Tolbiac';777;0
+e;11175335;'Paris-Austerlitz-Banlieue';777;0
+e;11343801;'La Revue et gazette musicale de Paris';777;0
+e;11347258;'Faculté de médecine de Paris';1;0
+e;11410123;'Directeur du Ballet l'Opéra de Paris';777;0
+e;11412371;'Paris-Mondial';777;0
+e;11560844;'Paris-Belfort';777;0
+e;11694922;'Société de médecine de Paris';777;0
+e;11694085;'signalisation ferroviaire du métro de Paris';777;0
+e;11777842;'Paris-Vailly';777;0
+e;11777844;'Paris-Vierzon';777;0
+e;12067359;'Initiale Paris';777;0
+e;12067436;'Renault Clio Initiale Paris';777;0
+e;12067417;'Renault Initiale Paris';777;0
+e;12247209;'Paris-Willouby';777;0
+e;12302138;'Grand Prix des 24 Heures de Paris';777;0
+e;12313644;'Radio-Paris';777;0
+e;12712828;'Paris-Midi';777;0
+e;10943966;'Paris-Arras';1;0
+e;10959258;'Paris-Île-de-France';1;0
+e;11156114;'Paris-Orléans';1;0
+e;13635040;'Saison 2017-2018 d'Issy Paris Hand';777;0
+e;13638420;'Saison 2019-2020 du Paris Football Club';777;0
+e;13736734;'Varsovie - L'Alhambra - Paris';777;0
+e;13816123;'Rendez-vous à Paris avec Maurice Chevalier N°2';777;0
+e;13816122;'Rendez-vous à Paris avec Maurice Chevalier N°1';777;0
+e;14030200;'Notre-Dame de Paris. 1482';777;0
+e;10958721;'Paris-Lyon';1;0
+e;14566693;'Paris-Vimoutiers';777;0
+e;14671100;'Paris-Inter';777;0
+e;14754208;'Saison 2020-2021 du Paris Saint-Germain';777;0
+e;14778277;'Paris-Saint-Germain';777;0
+e;15187900;'Paris Christos Kanellakis';777;0
+e;15187901;'Paris Kanellakis';777;0
+e;15337271;'Saison 2020-2021 du Paris Saint-Germain Handball';777;0
+e;15337288;'Paris Saint-Germain Handball';777;0
+e;15773589;'Statues de saint Gervais et saint Protais de l'église Saint-Gervais-Saint-Protais de Paris';777;0
+e;15785997;'Paris Universitas';777;0
+e;11840717;'Paris-Nanterre';1;0
+e;15627990;'Le laboratoire central de la Préfecture de Police de Paris';777;0
+e;15772194;'Les Toits de Paris';777;0
+e;15779519;'MAM Paris';777;0
+e;15688330;'Marche pour la prise de Paris';777;0
+e;15705748;'Missions étrangères de Paris et implantation économique et politique';777;0
+e;15205743;'Mon frère fait sciences po à Paris.';1;0
+e;15309359;'Montmartre est le quartier de Paris que je préfère.';1;0
+e;16153465;'Maire du 6e arrondissement de Paris';777;0
+e;16288703;'La Ville de Paris';777;0
+e;16342805;'France Inter Paris';777;0
+e;16175409;'Festival Paris quartier d'été';777;0
+e;16175408;'Festival Paris L'été';777;0
+e;16296123;'Directrice du Ballet de l'Opéra de Paris';777;0
+e;16510319;'Jardin d'agronomie tropicale de Paris';777;0
+e;16494154;'Député de Paris';777;0
+e;5561074;'Charte de Paris contre le cancer';777;0
+e;5685635;'Société anatomique de Paris';777;0
+e;5893182;'Lénine à Paris';777;0
+e;5976915;'accord de Paris sur le climat';1;0
+e;6007611;'ECE Paris';777;0
+e;9946728;'Martial de Paris';777;0
+e;9946671;'Hilton Paris Opéra';777;0
+e;9945237;'accord de Paris';777;0
+e;9960884;'Paris-Nord';1;0
+e;10076493;'Paris-Villette';1;0
+e;10033142;'Paris-XII';777;0
+e;10317335;'Jeanne de Paris';777;0
+e;10302220;'éparchie Notre-Dame du Liban de Paris des Maronites';777;0
+e;10316232;'première circonscription de Paris';777;0
+e;10315685;'direction régionale de la police judiciaire de Paris';777;0
+e;10316350;'liste des députés de Paris';777;0
+e;10316246;'quatrième circonscription de Paris';777;0
+e;10313757;'Madeline à Paris';777;0
+e;10313205;'L'Impromptu de Paris';777;0
+e;10335031;'École supérieure d'ingénieurs des travaux de la construction de Paris';777;0
+e;10334996;'sixième circonscription législative de Paris';777;0
+e;10334541;'ÉnsAD - Paris';777;0
+e;10334499;'Paris School of Business';777;0
+e;10334483;'ISG Paris';777;0
+e;10334367;'ISC Paris Business School';777;0
+e;10333840;'EBS Paris';777;0
+e;10332771;'EDC Paris Business School';777;0
+e;10331644;'Paris School of Mines';777;0
+e;10439505;'Paris-Rhin-Rhône';1;0
+e;10844561;'Trophée de Paris';777;0
+e;10842359;'Histoire de la radio à Paris';777;0
+e;10841219;'300 à l'heure dans Paris';777;0
+e;10849274;'liste des voies du 14e arrondissement de Paris';777;0
+e;10852644;'station de la ligne 8 du métro de Paris';1;0
+e;10852641;'station de la ligne 5 du métro de Paris';1;0
+e;10852650;'station de la ligne 14 du métro de Paris';1;0
+e;10852637;'station de la ligne 1 du métro de Paris';1;0
+e;10852647;'station de la ligne 11 du métro de Paris';1;0
+e;10852638;'station de la ligne 2 du métro de Paris';1;0
+e;10852648;'station de la ligne 12 du métro de Paris';1;0
+e;10852640;'station de la ligne 4 du métro de Paris';1;0
+e;10852645;'station de la ligne 9 du métro de Paris';1;0
+e;10852642;'station de la ligne 6 du métro de Paris';1;0
+e;10852649;'station de la ligne 13 du métro de Paris';1;0
+e;10852646;'station de la ligne 10 du métro de Paris';1;0
+e;10852639;'station de la ligne 3 du métro de Paris';1;0
+e;10852643;'station de la ligne 7 du métro de Paris';1;0
+e;10863609;'Hôtel Barrière Le Fouquet's Paris';777;0
+e;10864015;'Paris-Vendôme';1;0
+e;10897379;'Paris-Madrid';1;0
+e;10997895;'enquête sur l'affaire des HLM de Paris';777;0
+e;10998222;'Challengers de Paris';777;0
+e;10998250;'Castors de Paris';777;0
+e;10998316;'Hurricanes de Paris';777;0
+e;10998223;'Paris Jets';777;0
+e;10998239;'Spartacus de Paris';777;0
+e;10998307;'Paris Rangers';777;0
+e;10997950;'fiefs et immunités de Paris';777;0
+e;11017876;'grande mosquée de Paris';777;0
+e;11021559;'Banque internationale de Paris';777;0
+e;11341300;'Les Futurs Mystères de Paris';777;0
+e;11361421;'musée des Beaux-Arts de la ville de Paris';777;0
+e;11455351;'traité de Paris du 9 octobre 1801';777;0
+e;11494525;'HMS Ville de Paris';777;0
+e;5978304;'Up-Paris';1;0
+e;11577613;'Biennale de Paris';777;0
+e;11937336;'Paris 7';777;0
+e;11937335;'université Paris Diderot';777;0
+e;11936660;'Seine à Paris';777;0
+e;12006516;'Cercle de la voile de Paris';777;0
+e;12006546;'Un balcon à Paris';777;0
+e;12006927;'Tournoi International de Paris';777;0
+e;16151903;'Embellir Paris';777;0
+e;14677944;'Université Paris 1 Panthéon-Sorbonne';1;10
+e;11060124;'Paris-Beauvais';1;0
+e;11175426;'Paris-Bercy-Bourgogne-Pays';1;0
+e;11176247;'Paris-Cergy';1;0
+e;11253058;'Paris-Provinces';1;0
+e;11347100;'Québec-Paris';1;0
+e;14158283;'Monaco-Paris';777;0
+e;14722200;'Notre-Dame-de-Paris';1;0
+e;15762738;'Mademoiselle de Paris';777;0
+e;1836756;'IPPP infirmerie psychiatrique de la préfecture de police de Paris';1;0
+e;5805841;'halle aux vins de Paris';777;0
+e;5802090;'L'école hôtelière de Paris';777;0
+e;5895186;'Cristal d'Arques Paris';777;0
+e;9946670;'Concorde Opéra Paris';777;0
+e;10045228;'Le Grand Paris';777;0
+e;10043840;'Paris-Alfred-Cortot';1;0
+e;10052663;'Paris-Seine';1;0
+e;10052777;'Paris-Descartes';1;0
+e;10052778;'Sorbonne-Paris-Cité';1;0
+e;10052724;'Paris-Est-Marne-la-Vallée';1;0
+e;10130131;'Paris-Region';1;0
+e;10106397;'Paris-Nice';777;0
+e;10297740;'conférence de paix de Paris';777;0
+e;10327080;'Paris-Michael';1;0
+e;10557580;'Des Portoricains à Paris';777;0
+e;10604481;'brigade de sapeurs-pompiers de Paris';777;0
+e;10749912;'Paris Jackson';777;0
+e;10828022;'1 000 kilomètres de Paris';777;0
+e;10830253;'Geneviève de Paris';777;0
+e;10849299;'ancien 11e arrondissement de Paris';777;0
+e;11101091;'RC Paris';777;0
+e;11101619;'Club Athlétique des Sports Généraux de Paris';777;0
+e;11101305;'stade de Paris';777;0
+e;11341299;'Les Nouveaux Mystères de Paris';777;0
+e;11393840;'Pinacothèque de Paris';777;0
+e;11393753;'Manuscrits de Paris';777;0
+e;5785712;'Paris-Kanellakis';1;0
+e;11590686;'Bulletin de Paris';777;0
+e;11589998;'Flammes de Paris';777;0
+e;11589661;'Carnaval de Paris';777;0
+e;11583074;'Paris Blues';777;0
+e;11833387;'Ubisoft Paris';777;0
+e;11933780;'premier président du parlement de Paris';777;0
+e;12009526;'nouvelle faculté de médecine de Paris';777;0
+e;12009525;'École de médecine de Paris';777;0
+e;12050828;'Semaine de la mode de Paris';777;0
+e;12985542;'Le Zénith Paris - La Villette';777;0
+e;14112831;'Institut universitaire de technologie de Paris Jussieu';777;0
+e;14113244;'Institut universitaire de technologie de Paris Descartes';777;0
+e;14112830;'Institut universitaire de technologie Paris Descartes';777;0
+e;16087283;'Les Convulsions de Paris';1;0
+e;16290904;'Directeur du Ballet de l'Opéra de Paris';777;0
+e;16296105;'Directeur de l'École de danse de l'Opéra national de Paris';777;0
+e;2426503;'Monsieur de Paris';1;0
+e;5832104;'Comtesse de Paris';777;0
+e;6003030;'ligne 13 du métro de Paris';777;0
+e;6003024;'ligne 4 du métro de Paris';777;0
+e;6003022;'ligne 2 du métro de Paris';777;0
+e;9950399;'palais de justice de Paris';777;0
+e;10773185;'neuvième circonscription de Paris';777;0
+e;10773260;'École Duperré Paris';777;0
+e;10773339;'onzième circonscription de Paris';777;0
+e;10773399;'sixième circonscription de Paris';777;0
+e;10773819;'douzième circonscription de Paris';777;0
+e;10774020;'liste des députés de Paris de 1958 à 1986';777;0
+e;10774023;'liste des députés de Paris de 1986 à 2012';777;0
+e;10774024;'deuxième circonscription de Paris';777;0
+e;10774025;'troisième circonscription de Paris';777;0
+e;10774026;'cinquième circonscription de Paris';777;0
+e;10774027;'septième circonscription de Paris';777;0
+e;10774028;'huitième circonscription de Paris';777;0
+e;10774029;'dixième circonscription de Paris';777;0
+e;10774031;'treizième circonscription de Paris';777;0
+e;10774032;'quatorzième circonscription de Paris';777;0
+e;10774033;'quinzième circonscription de Paris';777;0
+e;10774034;'seizième circonscription de Paris';777;0
+e;10046385;'Bons baisers de Paris';777;0
+e;10046384;'From Paris with Love';777;0
+e;10056036;'Compagnie du chemin de fer de Paris à Lyon';777;0
+e;10056029;'Compagnie du chemin de fer de Paris à Orléans';777;0
+e;10775009;'affaire des faux électeurs du 3e arrondissement de Paris';777;6
+e;10061801;'Mystère à Paris';777;0
+e;10061647;'9e arrondissement de Paris';777;20
+e;10061643;'Conseil de Paris';777;0
+e;10052715;'Paris-Est-Créteil-Val-de-Marne';1;0
+e;10193483;'Gross Paris';777;0
+e;10193218;'métropole du Grand Paris';777;0
+e;10192930;'Paris université club';777;0
+e;10192893;'ASPTT Paris';777;0
+e;10298174;'Dimitri from Paris';777;0
+e;10364089;'musée des arts décoratifs de Paris';777;0
+e;10364081;'Jockey Club de Paris';777;0
+e;10363708;'grande synagogue de Paris';777;0
+e;10457924;'Meaux-Paris';1;0
+e;11233165;'Ça balance pas mal à Paris';777;0
+e;11256018;'Paris Jour';777;0
+e;11255911;'Institut océanographique de Paris';777;0
+e;11342044;'Sup de Co Paris';777;0
+e;11342229;'lycée-collège international de Paris - Honoré-de-Balzac';777;0
+e;11342112;'barrières de Paris';777;0
+e;11342219;'des anciennes voies de la ville de Paris';777;0
+e;11393327;'Paris Dernière';777;0
+e;11393332;'Radio campus Paris';777;0
+e;11502582;'Deux Gorilles à Paris';777;0
+e;11589663;'la fête des femmes de Paris';777;0
+e;5991437;'Antoine de Paris';777;0
+e;6003742;'ligne 10 du métro de Paris';777;0
+e;6003737;'ligne 7 bis du métro de Paris';777;0
+e;6003686;'ligne 9 du métro de Paris';777;0
+e;6003372;'ligne 3 du métro de Paris';777;0
+e;9945932;'Paris-VII';777;0
+e;9942548;'Paris-Rouen';777;0
+e;9962917;'Paris-Bastille';1;0
+e;10773386;'élections municipales de 2008 à Paris';777;0
+e;10774393;'élections municipales de 2001 à Paris';777;0
+e;10775003;'élections sénatoriales à Paris';777;0
+e;10064107;'Sous le ciel de Paris';777;0
+e;10063324;'Romance à Paris';777;0
+e;10192351;'Seule à Paris';777;0
+e;10192334;'Les Mordus de Paris';777;0
+e;10352564;'liste des voies du 9e arrondissement de Paris';777;0
+e;10352552;'voies de Paris dont le nom fait référence aux propriétaires';777;0
+e;10349370;'Chaire de chimie appliquée de la Faculté des sciences de Paris';777;0
+e;10347561;'conservatoire à rayonnement régional de Paris';777;0
+e;10347349;'TGI de Paris';777;0
+e;10347348;'tribunal de grande instance de Paris';777;0
+e;10346947;'directeur de l'Opéra de Paris';777;0
+e;10346363;'Parlement de Paris';777;0
+e;10422411;'Paris Canaille';777;0
+e;10421784;'Rolex Paris Masters';777;0
+e;10421554;'Paris 1963';777;0
+e;10421424;'Tempête sur Paris';777;0
+e;10421419;'Aventure à Paris';777;0
+e;10524180;'Jeunes filles de Paris';777;0
+e;10520039;'Paris Pride';777;0
+e;10520038;'Marche des Fiertés LGBT Paris';777;0
+e;11224049;'stations fantômes du métro de Paris';777;0
+e;11224042;'Compagnie du chemin de fer métropolitain de Paris';777;0
+e;11237558;'Paris Plages';777;0
+e;11295353;'Faculté de théologie de Paris';777;0
+e;11364268;'ancien 6e arrondissement de Paris';777;0
+e;11364267;'ancien 7e arrondissement de Paris';777;0
+e;11383735;'numérotation des immeubles de Paris';777;0
+e;11383846;'circuit Napoléon autour de Paris';777;0
+e;11518955;'Novancia Business School Paris';777;0
+e;11518931;'EFREI Paris';777;0
+e;11553666;'traité de Paris de 1783';777;0
+e;11975871;'direction régionale de la police judiciaire de la préfecture de police de Paris';777;0
+e;11975870;'Tribunal de Paris';777;0
+e;12792436;'projet de référendum d'initiative partagée sur les aéroports de Paris';777;0
+e;5536475;'Paris quadrifolia';777;0
+e;5624911;'quai de Paris';777;0
+e;9960679;'Transilien Paris Sud-Est';777;0
+e;9988492;'Les Rendez-vous de Paris';777;0
+e;10186452;'Henri Selmer Paris';777;0
+e;10191319;'L'Empereur de Paris';777;0
+e;10190089;'Espace Paris Plaine';777;0
+e;10383819;'Brève rencontre à Paris';777;0
+e;10367061;'Paris L'OpenTour';777;0
+e;10367060;'La ligne Paris L'OpenTour';777;0
+e;10367053;'ligne 17 du métro de Paris';777;0
+e;10367052;'ligne 16 du métro de Paris';777;0
+e;10367051;'ligne 6 du métro de Paris';777;0
+e;10423242;'Mannequins de Paris';777;0
+e;10426094;'La Chanson de Paris';777;0
+e;10425683;'À Paris tous les deux';777;0
+e;10517664;'Fait divers à Paris';777;0
+e;10548149;'Tournoi de Paris';777;0
+e;10554588;'marathon de Paris';777;18
+e;10554564;'préfet de Paris';777;0
+e;10741852;'cathédrale de la Sainte-Trinité de Paris';777;0
+e;10741851;'cathédrale Sainte-Croix de Paris des Arméniens';777;0
+e;10741845;'cathédrale arménienne Saint-Jean-Baptiste de Paris';777;0
+e;11000852;'Grand Prix de Paris';777;0
+e;11000909;'Prix de Paris';777;0
+e;11001301;'ligne de Paris à Granville';777;0
+e;11372697;'traité de Paris de 1857';777;0
+e;11975864;'plans de Paris';777;0
+e;11975872;'DRPJ Paris';777;0
+e;12278080;'route de Paris';777;0
+e;2370487;'15e arrondissement de Paris';1;22
+e;2370491;'7e arrondissement de Paris';1;40
+e;2397086;'avec des si on mettrait Paris en bouteille';1;0
+e;5538646;'Paris-Belleville';1;0
+e;5969279;'Monnaie de Paris';777;0
+e;5993844;'Le Journal de Paris';777;0
+e;5993174;'Paris Fashion Week';777;0
+e;6065384;'CA Paris';777;0
+e;9959463;'Musée Carnavalet - Histoire de Paris';777;0
+e;10073492;'Comédie de Paris';777;0
+e;10073434;'6e arrondissement de Paris';777;20
+e;10069351;'3e arrondissement de Paris';777;22
+e;10083699;'Société du Grand Paris';777;0
+e;10083691;'Grand Paris Express';777;0
+e;10083688;'ligne 15 du métro de Paris';777;0
+e;10083411;'Expositions internationales et nationales qui se sont tenues à Paris';777;0
+e;10083358;'La Société d'anthropologie de Paris';777;0
+e;10083271;'Grande Roue de Paris';777;0
+e;10082020;'Ports de Paris';777;0
+e;10081812;'liste des personnes citées au Panthéon de Paris';777;0
+e;10088648;'Aquarium de Paris';777;0
+e;10133089;'Paris After Dark';777;0
+e;10132757;'ligne 18 du métro de Paris';777;0
+e;10132756;'Grand Paris';777;0
+e;10458716;'Paris va bien';777;0
+e;10514339;'Laboratoire de médiévistique occidentale de Paris';777;0
+e;10507626;'Hot for Paris';777;0
+e;10549498;'l'Université de Paris';777;0
+e;10554587;'Marathon de Paris 2017';777;0
+e;10553892;'sénateur de Paris';1;0
+e;10868270;'dix-neuvième circonscription de Paris';777;0
+e;11102701;'saison 2002-2003 du Paris Saint-Germain';777;0
+e;11102624;'saison 1970-1971 du Paris Saint-Germain';777;0
+e;11156902;'ballet de l'Opéra national de Paris';777;0
+e;11156989;'éclairage des rues à Paris';777;0
+e;11215849;'Bulletins et mémoires de la société d'anthropologie de Paris';777;0
+e;11377905;'ePrix de Paris';777;0
+e;11575669;'théâtre de la Marionnette à Paris';777;0
+e;12790628;'musée de l'Assistance publique - Hôpitaux de Paris';777;0
+e;12320535;'abbaye de Port-Royal de Paris';777;0
+e;13638433;'La saison 1988-1989 du Paris Saint-Germain';777;0
+e;13638435;'La saison 1990-1991 du Paris Saint-Germain';777;0
+e;13638431;'La saison 1985-1986 du Paris Saint-Germain';777;0
+e;2370427;'12e arrondissement de Paris';1;18
+e;2370490;'14e arrondissement de Paris';1;24
+e;4329593;'Paris-XIII';1;0
+e;5553132;'École nationale de chimie physique et biologie de Paris';777;0
+e;5688692;'Une Estonienne à Paris';777;0
+e;5688563;'élections municipales de 2014 à Paris';777;0
+e;5811582;'Chaire de physique I de la Faculté des sciences de Paris';777;0
+e;6007098;'égouts de Paris';777;0
+e;6002624;'institut de physique du globe de Paris';777;0
+e;9944395;'5e arrondissement de Paris';777;36
+e;10091495;'Oeil de Paris';777;0
+e;10091483;'Les Mystères de Paris';777;0
+e;10093492;'Championnat d'échecs de Paris';777;0
+e;10129999;'Télécom Paris';777;0
+e;10129936;'ESTP Paris';777;0
+e;10129914;'ESIEE Paris';777;0
+e;10129852;'École des Ingénieurs de la Ville de Paris';777;0
+e;10128231;'Institut polytechnique du Grand Paris';777;0
+e;10128038;'ligne 8 du métro de Paris';777;0
+e;10127922;'Medicen Paris Region';777;0
+e;10127919;'ASTech Paris Région';777;0
+e;10127918;'UniverSud Paris';777;0
+e;10126955;'supporters du Paris Saint-Germain Football Club';777;0
+e;10126941;'HEC Paris';777;0
+e;10126940;'École des hautes études commerciales de Paris';777;0
+e;10126865;'IUT Paris Descartes';777;0
+e;10126861;'IAE Paris';777;0
+e;10126860;'institut d'administration des entreprises de Paris';777;0
+e;10126851;'Institut d'urbanisme de Paris';777;0
+e;10126849;'Institut de statistique de l'université de Paris';777;0
+e;10126842;'faculté de pharmacie de Paris';777;0
+e;10126841;'faculté de théologie protestante de Paris';777;0
+e;10126839;'faculté de droit de Paris';777;0
+e;10126838;'ancienne faculté de médecine de Paris';777;0
+e;10126837;'faculté des sciences de Paris';777;0
+e;10118502;'Un grand homme de province à Paris';777;0
+e;10185832;'Piédalu à Paris';777;0
+e;10185608;'Nous irons à Paris';777;0
+e;10963723;'Morane-Saulnier MS.760 Paris';1;0
+e;10446807;'traité de Paris de 1229';777;0
+e;10446688;'Institut Supérieur des BioSciences de Paris';777;0
+e;10445656;'maison de la culture du Japon à Paris';777;0
+e;10445217;'section esport du Paris Saint-Germain';777;0
+e;10445214;'section handball du Paris Saint-Germain';777;0
+e;10445211;'section football féminin du Paris Saint-Germain';777;0
+e;10445192;'liste des footballeurs jouant ou ayant joué au Paris Saint-Germain Football Club';777;0
+e;10444857;'Institut universitaire de technologie Paris Diderot';777;0
+e;10444856;'académie de Paris';777;0
+e;10458283;'La Belle de Paris';777;0
+e;10462002;'édition 2012 du Mondial de l'automobile de Paris';777;0
+e;10459062;'bouquinistes de Paris';777;0
+e;10553896;'député de Paris';1;0
+e;11102218;'saison 2009-2010 du Paris Saint-Germain';777;0
+e;11102657;'saison 1993-1994 du Paris Saint-Germain';777;0
+e;11102652;'saison 1992-1993 du Paris Saint-Germain';777;0
+e;11103832;'NRJ Paris';777;0
+e;11137923;'Paris Games Week';777;0
+e;11161657;'musée des Beaux-Arts de la Ville de Paris';777;0
+e;11161658;'musée d'Art moderne de la ville de Paris';777;0
+e;11175514;'ligne Paris - Clermont-Ferrand';777;0
+e;11178720;'siège de Paris de 1590';777;0
+e;11208101;'Compagnie des eaux de Paris';777;0
+e;11207585;'Eau de Paris';777;0
+e;11208498;'liste des voies du 13e arrondissement de Paris';777;0
+e;11209040;'archidiocèse de Paris';777;0
+e;11325518;'Paris Soir';777;0
+e;11384274;'Conférence de Paris de 2015 sur les changements climatiques';777;0
+e;12789833;'édition 2014 du Mondial de l'automobile de Paris';777;0
+e;12789832;'édition 2010 du Mondial de l'automobile de Paris';777;0
+e;12789831;'édition 2008 du Mondial de l'automobile de Paris';777;0
+e;12789834;'édition 2016 du Mondial de l'automobile de Paris';777;0
+e;12789835;'édition 2018 du Mondial Paris Motor Show';777;0
+e;13198655;'Paris One DJ Webradios';777;0
+e;5553198;'élèves célèbres de l'École supérieure de physique et de chimie industrielles de la ville de Paris';777;0
+e;5553150;'ESPCI Paris';777;0
+e;5553142;'Chimie Paris';777;0
+e;5808577;'Arborescence de Paris';777;0
+e;5897240;'glacières de Paris';777;0
+e;5993621;'Vogue Paris';777;0
+e;5983396;'liste des piscines de Paris';777;0
+e;6003746;'ligne 12 du métro de Paris';777;0
+e;6003282;'Doyen de la Faculté des sciences de Paris';777;0
+e;6003042;'ligne 14 du métro de Paris';777;0
+e;6002795;'édit de Paris';777;0
+e;9946074;'Paris-Diderot';1;0
+e;9945008;'Paris-VI';777;0
+e;10762041;'Paris-Bourges';1;0
+e;10106353;'Tournoi international de la ville de Paris';777;0
+e;10106352;'Grand Slam de Paris';777;0
+e;10177974;'Un printemps à Paris';777;0
+e;10176571;'Festival d'automne à Paris';777;0
+e;10176487;'Avril à Paris';777;0
+e;10184945;'Sous les toits de Paris';777;0
+e;10184828;'Rencontre à Paris';777;0
+e;10184827;'Si Paris nous était conté';777;0
+e;10181625;'Paris la nuit';777;0
+e;10181592;'Romance de Paris';777;0
+e;10942358;'Paris Jean-Bouin';777;0
+e;10456719;'ancien 1er arrondissement de Paris';777;0
+e;10445205;'rivalités dans le football à Paris';777;0
+e;10445200;'statistiques et records du Paris Saint-Germain';777;0
+e;10445190;'histoire du club de football du Paris Saint-Germain';777;0
+e;10460043;'Racing Club de Paris';777;0
+e;11010729;'Michel Paris';777;0
+e;11064587;'Saison 2018-2019 du Paris Saint-Germain';777;0
+e;11162175;'Le Grand Pavois de Paris';777;0
+e;11162186;'Grand Pavois de Paris';777;0
+e;11207586;'Société anonyme de gestion des eaux de Paris';777;0
+e;11388322;'So This Is Paris';777;0
+e;11807765;'Saison 2018-2019 du Paris Football Club';777;0
+e;12785104;'section judo du Paris Saint-Germain';777;0
+e;14113243;'IUT Paris';777;0
+e;14386663;'IP Paris';777;0
+e;14451195;'Hyatt Regency Paris Étoile';777;0
+e;2458970;'Communes de Paris';1;0
+e;5553171;'histoire de l'École supérieure de physique et de chimie industrielles de la ville de Paris';777;0
+e;5992950;'L'Officiel de la couture et de la mode de Paris';777;0
+e;5991985;'colette Paris';777;0
+e;6066054;'Poste de Paris';777;0
+e;7900580;'saison 2017-2018 du Paris Saint-Germain';777;0
+e;10774036;'dix-septième circonscription de Paris';777;0
+e;10774039;'dix-huitième circonscription de Paris';777;0
+e;10138523;'conseil municipal de Paris';777;0
+e;10174710;'Live In Paris';777;0
+e;10174540;'protocoles de Paris';777;0
+e;10160843;'Little Paris';777;0
+e;10160019;'Le Roi de Paris';777;0
+e;10159801;'Lagardère Paris Racing';777;0
+e;10159706;'Je vous salue Paris';777;0
+e;10159693;'Visages de Paris';777;0
+e;10159678;'Paris 1900';777;0
+e;10158444;'Jefferson à Paris';777;0
+e;10939484;'Mouvement des sans-papiers à Paris en 1996';777;0
+e;11160391;'Meeting de Paris 2018';777;0
+e;11181654;'Foire de Paris';777;0
+e;11404324;'Saison 2018-2019 du Stade français Paris rugby';777;0
+e;12785052;'saison 2019-2020 du Paris Saint-Germain';777;0
+e;12785102;'football à Paris';777;0
+e;12785124;'saison 1991-1992 du Paris Saint-Germain';777;0
+e;13313531;'prostitution à Paris';777;0
+e;13340137;'Marathon de Paris 2019';777;0
+e;10896263;'Paris-Bordeaux-Paris';777;0
+e;10896267;'Paris-Marseille-Paris';777;0
+e;5538133;'Français volants de Paris';777;0
+e;6000767;'Institut d'astrophysique de Paris';777;0
+e;6065383;'Cercle athlétique de Paris';777;0
+e;6528171;'Un monstre à Paris';777;0
+e;10149019;'tournoi de Paris';777;0
+e;10311801;'Saison 2017-2018 du Stade français Paris rugby';777;0
+e;10335975;'chambre de commerce et d'industrie de région Paris - Île-de-France';777;0
+e;10430674;'Mondial Paris Motor Show';777;0
+e;10508503;'Assistance Publique Hôpitaux de Paris';1;0
+e;10863591;'Shangri-La Hotel Paris';777;0
+e;11105184;'hôpital de la Charité de Paris';777;0
+e;11158936;'The Paris Globalist';777;0
+e;11159906;'Mondial de l'automobile de Paris 2006';777;0
+e;2367828;'16e arrondissement de Paris';1;22
+e;5557647;'Boulevards de Paris';777;0
+e;5993175;'Semaine de la mode à Paris';777;0
+e;6003734;'ligne 5 du métro de Paris';777;0
+e;6003373;'ligne 3 bis du métro de Paris';777;0
+e;6003018;'ligne 1 du métro de Paris';777;0
+e;10083413;'Paris-Toulouse-Paris';777;0
+e;10430675;'Mondial de l'automobile de Paris';777;0
+e;10429569;'Le Cri de Paris';777;0
+e;10914495;'La saison 2003-2004 du Paris Saint-Germain';777;0
+e;11560840;'Paris-Brest-Paris';777;0
+e;12775377;'Art nouveau à Paris';777;0
+e;12775338;'voies de Paris intra muros par longueur';777;0
+e;12774527;'traité de Paris de 1817';777;0
+e;13816127;'Chevalier chante Paris';777;0
+e;2474969;'français de Paris';1;0
+e;5553149;'École supérieure de physique et de chimie industrielles de la ville de Paris';777;0
+e;5621222;'Fourches de la grande Justice de Paris';777;0
+e;5992861;'Reminiscence Paris';777;0
+e;5992449;'Lou Paris';777;0
+e;10437701;'Paris Dakar 1980';777;0
+e;12770834;'axe historique de Paris';777;0
+e;12772345;'Ventilo Paris';777;0
+e;14670865;'IXe arrondissement de Paris';1;6
+e;14670870;'IVe arrondissement de Paris';1;6
+e;14670871;'IIIe arrondissement de Paris';1;6
+e;14670872;'IIe arrondissement de Paris';1;6
+e;14670873;'Ier arrondissement de Paris';1;6
+e;14670874;'Ie arrondissement de Paris';1;0
+e;5515534;'Paulin Paris';777;0
+e;5515539;'Louis Paris';777;0
+e;5515549;'Victoria Paris';777;0
+e;5515538;'Marie Joseph Pierre Paris';777;0
+e;5515551;'Laura Paris';777;0
+e;5515536;'Auguste Joseph Paris';777;0
+e;5515540;'Paul Paris';777;0
+e;5515546;'Jeffrey Bruce Paris';777;0
+e;5515550;'Dominik Paris';777;0
+e;5515537;'Auguste Paris';777;0
+e;5515533;'Auguste Simon Paris';777;0
+e;5515544;'Gabriel Paris';777;0
+e;5515541;'Wilbur De Paris';777;0
+e;5515532;'Antoine Marie Paris d'Illins';777;0
+e;5515547;'Ryan Paris';777;0
+e;5515531;'Matthieu Paris';777;0
+e;5515545;'Jerry Paris';777;0
+e;5515542;'Simone Paris';777;0
+e;5515553;'Thomas Eugène Paris';777;0
+e;5515535;'Antoine Louis Paris';777;0
+e;5553439;'fondation sciences mathématiques de Paris';777;0
+e;6003740;'ligne 7 du métro de Paris';777;0
+e;10193464;'Rendez-vous à Paris';777;0
+e;10367044;'centre de formation du Paris Saint-Germain Football Club';777;0
+e;12764782;'bourgeois de Paris';777;0
+e;5515530;'Liste des comtes de Paris';777;0
+e;5990188;'Rosy Paris';777;0
+e;6003745;'ligne 11 du métro de Paris';777;0
+e;10188660;'Zénith Paris - La Villette';777;0
+e;11101602;'Ligue de Paris Île-de-France de football';777;0
+e;4329463;'Paris-13';1;0
+e;5686672;'Alliance française Paris Île-de-France';777;0
+e;5990912;'Une Américaine à Paris - 1re partie';777;0
+e;5991372;'Une Américaine à Paris - 2e partie';777;0
+e;6003285;'Recteur de l'académie de Paris - Président du conseil de l'université de Paris';777;0
+e;7900353;'Saison 2017-2018 du Paris Saint-Germain';777;0
+e;8853006;'Laboratoire d'informatique de Paris 6';777;0
+e;8883705;'Le Siège de Paris';777;0
+e;9025389;'Moineaux de Paris';777;0
+e;9050705;'Paris Institute of Technology';777;0
+e;9465631;'carotte ronde de Paris';1;0
+e;9566874;'Paris 1924';777;0
+e;9644814;'pacte de Paris';777;0
+e;9754081;'Université Paris 1';777;0
+e;9761010;'Salvator et les Mohicans de Paris';777;0
+e;9761008;'Les Mohicans de Paris';777;0
+e;9798588;'carrières souterraines de Paris';777;0
+e;10061700;'Grand Prix Gérard-Philipe de la Ville de Paris';777;0
+e;10083203;'Musée des beaux-arts de la ville de Paris';777;0
+e;10104436;'Week-end à Paris';777;0
+e;10118912;'Le Loup-garou de Paris';777;0
+e;10161510;'Cité de la musique-Philharmonie de Paris';777;0
+e;10184964;'Les Aventures d'un cow-boy à Paris';777;0
+e;10192892;'ASPTT Paris Île-de-France';777;0
+e;10674643;'LGV Paris - Londres par Amiens';777;0
+e;10959085;'Compagnie du chemin de fer de Paris à Saint-Germain';777;0
+e;10674632;'LGV Paris Orléans Clermont-Ferrand Lyon';777;0
+e;10942579;'Beneath The Skin - Live In Paris';777;0
+e;10367028;'Transilien Paris Rive-Gauche';777;0
+e;10437704;'Rallye Paris - Tunis - Dakar 1989';777;0
+e;10437703;'Rallye Paris - Alger - Dakar 1988';777;0
+e;10439782;'Paris-Dakar-Paris';1;0
+e;10446417;'Institut des systèmes complexes de Paris Île-de-France';777;0
+e;10445204;'bilan du Paris Saint-Germain Football Club dans les coupes nationales';777;0
+e;10445201;'bilan saison par saison du Paris Saint-Germain';777;0
+e;10445198;'Cette liste présente les différents présidents du Paris Saint-Germain';777;0
+e;10445193;'Joueurs du Paris Saint-Germain';777;0
+e;10445021;'Paris Saint-Germain - Olympique de Marseille en football';777;0
+e;10508725;'Paris est toujours Paris';777;0
+e;10576735;'Hôtel-Dieu de Paris';777;0
+e;10579258;'U.F.R de Physique de l'Université Paris 7 - Paris Diderot';777;0
+e;10446732;'ISBS-Paris';777;0
+e;11021544;'Banque de Paris et des Pays-Bas';777;0
+e;11055854;'Jazz à Saint-Germain-des-Prés Paris';777;0
+e;11102683;'La saison 1999-2000 du Paris Saint-Germain';777;0
+e;11119271;'blason de Paris';777;0
+e;11119274;'Paris Sud Minute';777;0
+e;11119316;'drapeau de Paris';777;0
+e;11119607;'casernes ou quartiers militaires de Paris';777;0
+e;11119606;'mairie du 2e arrondissement de Paris';777;0
+e;11120507;'Faculté de Droit canonique de l'Institut catholique de Paris';777;0
+e;11102693;'La saison 2000-2001 du Paris Saint-Germain';777;0
+e;11102640;'La saison 1973-1974 du Paris Saint-Germain';777;0
+e;11102631;'La saison 1971-1972 du Paris Saint-Germain';777;0
+e;11131741;'Une Américaine à Paris';777;0
+e;11133105;'American Graduate School in Paris';777;0
+e;11175337;'Paris - Ivry';777;0
+e;15980111;'Institut national des jeunes sourds de Paris';777;0
+e;11251672;'Conservatoire Russe de Paris Serge-Rachmaninoff';777;0
+e;11358455;'Groupe hospitalier Paris Saint-Joseph';777;0
+e;12484320;'hôpital américain de Paris';777;0
+e;12484166;'Minutier central des notaires de Paris';777;0
+e;12626393;'école de danse de l'Opéra national de Paris';777;0
+e;12645942;'Office-Correspondance pour les journaux français et étrangers et pour les affaires en fonds publics à la Bourse de Paris';777;0
+e;12683401;'Accords de paix de Paris';777;0
+e;12678491;'Wilfried Paris';777;0
+e;12668302;'Radio Paris';1;0
+e;12694109;'Monuments et sites de Paris';777;0
+e;12710617;'début de l'épidémie de choléra à Paris';777;0
+e;12710744;'Congrès de Paris';777;0
+e;12709500;'Tennis club de Paris';777;0
+e;12785049;'Saison 2019-2020 du Paris Saint-Germain';777;0
+e;12785113;'La saison 1976-1977 du Paris Saint-Germain';777;0
+e;12785111;'La saison 1975-1976 du Paris Saint-Germain';777;0
+e;12785105;'Paris Saint-Germain Judo';777;0
+e;12785123;'La saison 1981-1982 du Paris Saint-Germain';777;0
+e;12785115;'La saison 1977-1978 du Paris Saint-Germain';777;0
+e;12785116;'La saison 1978-1979 du Paris Saint-Germain';777;0
+e;12785122;'La saison 1980-1981 du Paris Saint-Germain';777;0
+e;12785108;'La saison 1972-1973 du Paris Saint-Germain';777;0
+e;12785118;'La saison 1979-1980 du Paris Saint-Germain';777;0
+e;12985600;'France 3 Paris Île-de-France';777;0
+e;14677948;'Crédit municipal de Paris';1;0
+e;11454892;'Charles-Paris';1;0
+e;14094238;'Eddy Paris Mitchell';777;0
+e;14162105;'Conseils de quartier de Paris';777;0
+e;14474876;'Grand Paris Seine et Oise';777;0
+e;14417157;'Bartender à Paris';777;0
+e;14490551;'Chaire de chimie de la Faculté des sciences de Paris';777;0
+e;15760447;'Il est de Paris.';1;0
+e;14537250;'Ici-Paris';1;0
+e;14548187;'Chaire de minéralogie et géologie de la Faculté des sciences de Paris';777;0
+e;14549322;'Chaire de calcul différentiel et intégral II de la Faculté des sciences de Paris';777;0
+e;14549323;'Chaire de mécanique rationnelle de la Faculté des sciences de Paris';777;0
+e;14670171;'4ème arrondissement de Paris';1;24
+e;15635172;'Comic Con Paris';777;0
+e;15788521;'Forum de Paris';777;0
+e;15696745;'FR3 Paris Île-de-France Centre';777;0
+e;14333971;'Gigolettes of Paris';777;0
+e;15630106;'Découvrez le Paris nocturne!';1;0
+e;15198391;'Il arrive à Paris à 8 h.';1;0
+e;15392633;'Il a vécu à Paris pendant dix ans.';1;0
+e;14135295;'Institut culturel franco-japonais - École japonaise de Paris';777;0
+e;14096940;'Expositions universelles de Paris';777;0
+e;15632283;'Il a de la famille à Paris.';1;0
+e;15484286;'Ils ont filé à Paris pour le week-end.';1;0
+e;15495408;'Il s'est finalement installé à Paris.';1;0
+e;15524013;'Il habite Paris depuis l'an dernier.';1;0
+e;14876873;'CNSMD de Paris';777;0
+e;14540700;'Archevêque de Paris';777;0
+e;13567582;'Beaux-Arts de Paris';777;0
+e;14851452;'Boum sur Paris';777;0
+e;14609251;'CFPJ Paris';777;0
+e;13989828;'CY Cergy Paris Université';777;0
+e;15189956;'Chaire de mécanique analytique et mécanique célestede la faculté des sciences de Paris';777;0
+e;14136539;'Club des patineurs de Paris';777;0
+e;14136540;'Club des sports d'hiver de Paris';777;0
+e;14876874;'Conservatoire de Paris';777;0
+e;16155831;'Chaire de Zoologie et physiologie de la Faculté des sciences de Paris';777;0
+e;15284862;'Comte de Paris';1;0
+e;15596152;'6 mètres avant Paris';777;0
+e;15639852;'Institut polytechnique de Paris';777;0
+e;15640160;'Dilili à Paris';777;0
+e;15685735;'Alcazar de Paris';777;0
+e;15786485;'Paris 2000';777;0
+e;15786868;'CCI Paris Île-de-France';777;0
+e;15781662;'Chaire de géométrie supérieure de la Faculté des sciences de Paris';777;0
+e;15790721;'Conseil du 12e arrondissement de Paris 2014-2020';777;0
+e;15779261;'Couleurs sur Paris';777;0
+e;15693041;'Directeur du Conservatoire national supérieur de musique de Paris';777;0
+e;15696051;'GMT - 136ème Gouverneur militaire de Paris';777;0
+e;15776093;'Gatineau Paris';777;0
+e;15770100;'Il habite Paris depuis 199';1;0
+e;15788306;'Institut kurde de Paris';777;0
+e;15921220;'Csp Paris Fashion Groupe';777;0
+e;15932128;'Enregistrements à Paris entre 1947 et 1952';777;0
+e;15773634;'Je connais bien Paris.';1;0
+e;15941481;'Bernard de Paris';777;0
+e;15958360;'Efrei Paris';777;0
+e;15979147;'Directeur du Conservatoire national supérieur de musique puis Conservatoire national supérieur de musique de Paris';777;0
+e;16038292;'Je fais la navette entre Paris et Ivry.';1;0
+e;16070634;'ASP Police Paris';777;0
+e;16072172;'Assistance publique de Paris';1;0
+e;16105333;'Chaire de calcul différentiel et calcul intégral de la Faculté des sciences de Paris';777;0
+e;16105331;'Chaire de mathématiques générales de la Faculté des sciences de Paris';777;0
+e;16118117;'Basilique Sainte-Clotilde de Paris';777;0
+e;16155028;'Chaire de Mécanique de la Faculté des sciences de Paris';777;0
+e;16164265;'Chaire de Mécanique céleste de la Faculté des sciences de Paris';777;0
+e;16272570;'Chaire de physique mathématique et calcul des probabilités de la Faculté des sciences de Paris';777;0
+e;16310375;'12/13 Paris Île-de-France';777;0
+e;16310376;'19/20 Paris Île-de-France';777;0
+e;565881;'fort et bastide Saint Anthoine lez Paris';777;50
+e;1175464;'Prévôt de Paris';777;0
+e;1574957;'gare de Paris-Austerlitz';777;0
+e;1733475;'allye Paris-Dakar';777;0
+e;2357180;'ligne de Petite Ceinture de Paris';777;0
+e;2653575;'Marché des Options Négociables de Paris';777;0
+e;2944180;'École des mines de Paris';777;0
+e;3180166;'Paris-Gare';1;0
+e;3378419;'Petit Paris';777;0
+e;3418041;'Lido de Paris';777;0
+e;3695634;'Paris 7e Arrondissement';1;0
+e;3695633;'Paris 6e Arrondissement';1;0
+e;3695647;'Paris 20e Arrondissement';1;0
+e;3729284;'Paris Première';1;0
+e;3758977;'champignons de Paris en rondelles';1;0
+e;3758643;'champignons de Paris lavés épluchés et coupés en tranches';1;0
+e;3758021;'champignons de Paris lavés et émincés';1;0
+e;3756494;'champignons de Paris en lamelles';1;0
+e;3755735;'petite boîte de champignons de Paris égouttés';1;0
+e;3753996;'champignons de Paris lavés et coupés en rondelles';1;0
+e;4335007;'porte de Paris';1;18
+e;5512473;'vélodrome d'hiver de Paris';777;0
+e;393225;'Paris, Texas';1;50
+e;462358;'unité urbaine de Paris';777;50
+e;1191730;'École nationale supérieure des mines de Paris';777;0
+e;3180436;'Paris-Montparnasse';1;0
+e;3308400;'Paris-I-Panthéon-Sorbonne';1;0
+e;3695637;'Paris 10e Arrondissement';1;0
+e;3695638;'Paris 11e Arrondissement';1;0
+e;3695629;'Paris 2e Arrondissement';1;0
+e;3757650;'très petits champignons de Paris';1;0
+e;3754416;'tranches de jambon de Paris';1;0
+e;3751585;'champignons de Paris sautés et égouttés';1;0
+e;5329917;'Paris en bouteille';1;0
+e;1711669;'14ème arrondissement de Paris';1;2
+e;1840857;'Paris nomina acta';1;0
+e;1892960;'traité de Paris de 1856';1;0
+e;2321834;'Paris-Dauphine';1;0
+e;2324282;'Paris-Austerlitz';1;0
+e;2324281;'Paris-Est';1;0
+e;2362326;'17e arrondissement de Paris';1;50
+e;2509125;'vert de Paris';1;4
+e;2600184;'Paris ne s'est pas fait en un jour';1;0
+e;3177087;'Paris-Sud';1;0
+e;3179903;'Paris-Saint-Lazare';1;0
+e;3695642;'Paris 15e Arrondissement';1;0
+e;3758709;'gros champignons de Paris coupés en tranches';1;0
+e;3757241;'champignons de Paris lavés et coupés en lamelles';1;0
+e;3754389;'petits champignons de Paris';1;0
+e;3752901;'champignons de Paris coupés en lamelles';1;0
+e;4313813;'fort et bastide Saint-Anthoine lez Paris';777;0
+e;568482;'Lieutenant de Vaisseau Paris';777;50
+e;567538;'pied carré de Paris';777;50
+e;573661;'École supérieure de commerce de Paris';777;50
+e;1974913;'L'université Paris-Dauphine';777;0
+e;2357711;'11e arrondissement de Paris';1;30
+e;3176882;'Paris-Le';1;0
+e;3695635;'Paris 8e Arrondissement';1;0
+e;3759068;'champignons de Paris boutons nettoyés';1;0
+e;3757756;'beaux champignons de Paris';1;0
+e;3755469;'champignons de Paris frais émincés';1;0
+e;3755190;'champignons de Paris hachés';1;0
+e;3754256;'petits champignons de Paris coupés en deux';1;0
+e;4315113;'Livre Paris';777;0
+e;579586;'Paris 75016';777;0
+e;2746830;'Adieu Paris';777;0
+e;2951476;'Conférence de paix de Paris';777;0
+e;3175728;'Paris-Saclay';1;0
+e;3378417;'Micul Paris';777;0
+e;3756746;'champignons de Paris en rondelles en boîte avec leur jus';1;0
+e;3756644;'champignons de Paris frais coupés en morceaux';1;0
+e;3756007;'champignons de Paris hachés finement';1;0
+e;3753516;'champignons de Paris lavés et coupés en morceaux';1;0
+e;3365432;'courgettes farcies aux champignons de Paris et au chèvre frais';1;0
+e;4329457;'université Paris 13';777;0
+e;462420;'Paris Sud-Est';777;50
+e;567036;'Bourse de commerce de Paris';777;50
+e;1012249;'université Paris 1 Panthéon-Sorbonne';777;0
+e;1971744;'champignons de Paris';1;0
+e;2498444;'M. de Paris';1;0
+e;2554848;'Petit-Paris';1;0
+e;2579032;'transformations de Paris sous le Second Empire';777;2
+e;2949314;'Palais de justice de Paris';777;0
+e;3177880;'Paris-Charles-de-Gaulle';1;0
+e;3695639;'Paris 12e Arrondissement';1;0
+e;3695641;'Paris 14e Arrondissement';1;0
+e;3695643;'Paris 16e Arrondissement';1;0
+e;3695631;'Paris 4e Arrondissement';1;0
+e;3695628;'Paris 1er Arrondissement';1;0
+e;3758257;'champignons de Paris frais coupés en rondelles';1;0
+e;3757964;'champignons de Paris nettoyés et émincés';1;0
+e;3755105;'gros champignon de Paris frais';1;0
+e;3753614;'champignons de Paris coupés en tranches';1;0
+e;3752348;'champignons de Paris coupés en quatre';1;0
+e;4335008;'portes de Paris';1;20
+e;1006006;'Sciences Po Paris';777;0
+e;1529709;'École de danse de l'Opéra national de Paris';777;0
+e;1574962;'gare de Paris-Est';777;8
+e;2525279;'Bassin de Paris';1;0
+e;2578995;'13e arrondissement de Paris';1;26
+e;2593358;'Paris XIIIe';1;10
+e;2952021;'hôtel de ville de Paris';777;0
+e;2953071;'Paris-New';1;0
+e;3227964;'Les Sportives de Paris';777;0
+e;3695640;'Paris 13e Arrondissement';1;0
+e;3695559;'Paris-l'Hôpital';1;0
+e;3695646;'Paris 19e Arrondissement';1;0
+e;3754983;'gros champignons de Paris';1;0
+e;3753395;'champignons de Paris coupés en morceaux';1;0
+e;3752663;'gros champignons de Paris nettoyés';1;0
+e;3751748;'champignons shiitake petits cèpes et petits champignons de Paris coupés en tranches ou en quartiers';1;0
+e;461091;'Hôtel Le Bristol Paris';777;50
+e;570484;'Institut des sciences et technologies de Paris';777;50
+e;1175465;'prévôt des marchands de Paris';777;0
+e;1704045;'Reine de Paris';777;0
+e;1822043;'université de Paris';1;0
+e;2769910;'université de Paris IV-Sorbonne';1;0
+e;2950415;'université catholique de Paris';777;0
+e;2951475;'Conférence de Paris';777;0
+e;4388812;'Paris Aéroport';777;0
+e;3305415;'Paris Saint-Germain';777;0
+e;3695040;'quartier de Paris';1;2
+e;3695645;'Paris 18e Arrondissement';1;0
+e;3744171;'risotto aux champignons de Paris';1;0
+e;3757601;'champignons de Paris coupés en deux';1;0
+e;3756173;'champignons de Paris lavés et coupés en petits morceaux';1;0
+e;3754910;'shiitakés ou champignons de Paris coupés en deux';1;0
+e;3752343;'girolles ou de champignons de Paris';1;0
+e;462464;'Paris-Gare-de-Lyon';777;50
+e;1184447;'Alain Paris';777;0
+e;1565061;'velours de Paris';1;0
+e;2318263;'parc zoologique de Paris';777;0
+e;2357751;'19e arrondissement de Paris';1;38
+e;2589120;'Transilien Paris Saint-Lazare';777;0
+e;4644134;'Paris s'éveille';1;0
+e;3378418;'Paris din Est';777;0
+e;3695636;'Paris 9e Arrondissement';1;0
+e;3695630;'Paris 3e Arrondissement';1;0
+e;3756279;'boîte de champignons de Paris';1;0
+e;3754648;'champignons de Paris frais finement émincés';1;0
+e;3754538;'champignons de Paris frais coupés en lamelles';1;0
+e;3754324;'petits champignons de Paris coupés en quatre';1;0
+e;4333014;'commune de Paris';1;0
+e;4335011;'Conférence de Paris de 2015 sur le climat';777;0
+e;5012886;'Auvergnat de Paris';777;0
+e;5387749;'Chat, c'est Paris';1;0
+e;140671;'Henri, comte de Paris, duc d'Orléans';1;50
+e;1574958;'station de métro de Paris';1;0
+e;2323509;'Paris-Trousseau';1;0
+e;2344885;'Paris-Grignon';1;0
+e;2357771;'arrondissement de Paris';1;110
+e;2357749;'20e arrondissement de Paris';1;26
+e;2357761;'18e arrondissement de Paris';1;54
+e;3695644;'Paris 17e Arrondissement';1;0
+e;3695632;'Paris 5e Arrondissement';1;0
+e;3750970;'champignons de Paris finement hachés';1;0
+e;3758058;'champignons de Paris enboîte ou sautés avec les girolles';1;0
+e;3757414;'gros champignons de Paris sans le pied';1;0
+e;3756506;'grosses têtes de champignons de Paris citronnées';1;0
+e;3756361;'champignons de Paris entiers';1;0
+e;3753801;'champignons de Paris coupés en rondelles';1;0
+e;3753638;'champignons de Paris frais';1;0
+e;3751673;'champignons de Paris émincés';1;0
+e;4330460;'jardin des Plantes de Paris';1;2
+e;2949282;'Coupe internationale du Cercle de la Voile de Paris';777;0
+e;2932473;'Paris-Sorbonne';1;0
+e;2937646;'prévôt de Paris';777;0
+e;1852842;'Atelier international du Grand Paris';777;0
+e;2928715;'Banque nationale de Paris';777;0
+e;1845735;'système de Paris';1;0
+e;2949998;'cris de Paris';777;0
+e;2952494;'École de Paris';777;0
+e;1824146;'thrombopénie de Paris-Trousseau';1;0
+e;2962268;'Alice à Paris';1;0
+e;1800114;'Aéroports de Paris';1;0
+e;2945219;'Two Days in Paris';1;0
+e;2949391;'Jean-de-Paris';1;0
+e;390972;'Salon du livre de Paris';1;50
+e;393180;'Dans Paris';1;50
+e;92663;'Paris-Soir';1;50
+e;41897;'Paris-Bercy';1;52
+e;272138;'Paris-Lyon-Méditerranée';777;50
+e;263630;'Paris-Roubaix';1;76
+e;250867;'Paris-Plage';1;50
+e;231554;'Paris-Dakar';1;94
+e;209258;'Tout-Paris';1;50
+e;177353;'Paris-Brest';1;4
+e;120420;'Paris-Match';1;50
+e;119878;'Touquet-Paris-Plage';1;50
+e;319188;'Paris-Orly';1;50
+e;293256;'Paris-ail';777;50
+e;319128;'plâtre de Paris';1;50
+e;323441;'le Ventre de Paris';1;52
+e;329483;'Banque Nationale de Paris';1;50
+e;329773;'Salon de Paris';777;50
+e;330250;'Un idiot à Paris';1;50
+e;37691;'Les Hauteurs du Jean-de-Paris';1;50
+e;62382;'Institut national agronomique Paris-Grignon';1;50
+e;280542;'Salon international de l'aéronautique et de l'espace de Paris-Le Bourget';777;50
+e;282706;'palais omnisports de Paris-Bercy';777;50
+e;283827;'Université Paris-Sud';777;50
+e;288617;'aéroport de Paris-Charles-de-Gaulle';777;50
+e;289406;'Agro Paris-Grignon';777;50
+e;296172;'université Paris-Dauphine';777;52
+e;297739;'aéroport de Paris-Le Bourget';777;50
+e;304199;'gare de Paris-Saint-Lazare';777;50
+e;305335;'aéroport de Paris-Orly';777;50
+e;306636;'Paris-Gare de Lyon';777;50
+e;309793;'gare de Paris-Montparnasse';777;50
+e;310670;'rallye Paris-Dakar';777;52
+e;311661;'Le Touquet-Paris-Plage';777;50
+e;135051;'Paris-New York';1;50
+e;226703;'L'Air de Paris';1;50
+e;226705;'La Traversée de Paris';1;50
+e;247211;'monter à Paris';1;50
+e;252592;'Il est cinq heures, Paris s'éveille';1;50
+e;104841;'point de Paris';1;50
+e;162048;'de Paris';1;54
+e;221767;'circée de Paris';1;50
+e;225246;'Paris vaut bien une messe';1;50
+e;227070;'Paris brûle-t-il ?';1;50
+e;230210;'jambon de Paris';1;50
+e;230705;'parquet de Paris';1;52
+e;231136;'Disneyland Resort Paris';1;50
+e;231461;'Centrale Paris';1;52
+e;231551;'Mairie de Paris';1;60
+e;234732;'Minuit à Paris';1;50
+e;237376;'Paris Rive Gauche';1;2
+e;242346;'Paris FC';1;50
+e;242347;'Paris Saint-Germain FC';666;50
+e;243766;'Paris Match';1;88
+e;247138;'libération de Paris';1;50
+e;248665;'Ici Paris';1;52
+e;251098;'Paris XVIe';1;60
+e;251099;'Paris 16e';1;12
+e;251100;'Paris 16ème';1;4
+e;263020;'Opéra de Paris';1;58
+e;34438;'palais de Justice de Paris';1;50
+e;38202;'Un Américain à Paris';1;50
+e;41850;'ponts de Paris';1;50
+e;52958;'Ville de Paris';1;58
+e;63134;'Dernier Tango à Paris';1;56
+e;67008;'Le Spleen de Paris';1;54
+e;75433;'traité de Paris';1;52
+e;78995;'Les Ventres de Paris';1;50
+e;88279;'Le Dernier Tango à Paris';1;84
+e;91913;'conférence de Paris';1;50
+e;95710;'Le Massacre à Paris';1;50
+e;108492;'À Paris';1;50
+e;111189;'mines de Paris';1;50
+e;115317;'Paris vu du square Saint-Pierre';1;50
+e;118445;'école de Paris';1;50
+e;121696;'observatoire de Paris';1;50
+e;143910;'La Maison Tellier, les Dimanches d'un bourgeois de Paris';1;50
+e;146195;'l'Écho de Paris';1;50
+e;159895;'bourse de Paris';1;50
+e;161842;'maire de Paris';1;62
+e;210317;'avoir un il à Paris et l'autre à Pontoise';1;50
+e;212422;'Société psychanalytique de Paris';1;50
+e;272746;'EP Paris';777;50
+e;274867;'à Paris';1;50
+e;279640;'L'Écho de Paris';777;50
+e;281798;'Liste des procureurs de la République de Paris';777;50
+e;286825;'Grand Châtelet de Paris';777;50
+e;289827;'bataille de Paris';777;50
+e;295409;'Conservatoire national supérieur de musique et de danse de Paris';777;50
+e;304663;'Guillaume de Paris';777;50
+e;305312;'Liste des maires de Paris';777;50
+e;308226;'La Commune de Paris';777;50
+e;12707;'Notre-Dame de Paris';1;128
+e;32352;'Mirages de Paris';1;50
+e;36965;'Pétition des citoyens domiciliés à Paris';1;50
+e;38696;'Itinéraire de Paris à Jérusalem';1;50
+e;38961;'Parc des expositions de Paris';1;50
+e;46100;'Paris Bordone';1;50
+e;46151;'Disneyland Paris';1;58
+e;46616;'Alexandre de Paris';1;50
+e;48026;'Commune de Paris';1;58
+e;48681;'grands travaux à Paris';1;50
+e;54839;'Cris de Paris';1;50
+e;66675;'Spleen de Paris';1;68
+e;68316;'The Fudge Family in Paris';1;50
+e;69313;'Institut catholique de Paris';1;50
+e;76640;'Claudine à Paris';1;58
+e;82407;'The Paris Review';1;50
+e;82734;'Bourse de Paris';1;62
+e;84375;'Gaston Paris';1;50
+e;85391;'Paris est une fête';1;50
+e;87744;'Paris nous appartient';1;50
+e;93179;'aéroports de Paris';1;50
+e;98061;'Hôtel de Ville de Paris';1;50
+e;98656;'Mystères de Paris';1;50
+e;98848;'Pardon de Notre-Dame de Paris';1;50
+e;126634;'Paris antique, des origines au IIIe siècle';1;50
+e;126961;'Mission de Paris';1;50
+e;140282;'Henri d'Orléans Paris';1;50
+e;141501;'Journal d'un bourgeois de Paris';1;50
+e;142493;'Tentative de description d'un dîner de têtes à Paris';1;50
+e;142646;'Théâtre national de l'Opéra de Paris';1;50
+e;146782;'Paris Hilton';1;76
+e;154490;'mairie de Paris';1;60
+e;181136;'bleu de Paris';1;50
+e;183198;'merlan de Paris';1;50
+e;195101;'Le Quotidien de Paris';1;2
+e;267889;'Paris intra-muros';1;60
+e;270706;'monument de Paris';1;50
+e;271588;'Paris Saint-Germain Football Club';1;50
+e;272137;'Compagnie des Chemins de fer de Paris à Lyon et à la Méditerranée';777;50
+e;272866;'Vacances à Paris';777;50
+e;273565;'Quotidien de Paris';777;50
+e;273616;'Institut d'études politiques de Paris';777;50
+e;273617;'IEP de Paris';777;50
+e;274222;'cathédrale Notre-Dame de Paris';777;56
+e;274897;'ville de Paris';1;116
+e;278108;'Revue de Paris';777;50
+e;279645;'Paris SG';777;50
+e;281463;'Nouveaux mystères de Paris';1;50
+e;284552;'Quartier de Paris';777;50
+e;286315;'10e arrondissement de Paris';777;178
+e;286363;'Kenavo Prison Paris';777;50
+e;286827;'Petit Châtelet de Paris';777;50
+e;287224;'Jardin des plantes de Paris';777;50
+e;287225;'siège de Paris';777;52
+e;287691;'École des Mines de Paris';777;50
+e;287693;'Mines Paris';777;50
+e;290128;'Paris Whitney Miller Hilton';777;50
+e;291219;'Société du chemin de fer électrique souterrain Nord-Sud de Paris';777;50
+e;292477;'Nouvelle École de Paris';777;50
+e;292478;'Seconde École de Paris';777;50
+e;293255;'saucisson de Paris';777;50
+e;294122;'abbaye Sainte-Geneviève de Paris';777;50
+e;295633;'Coupe internationale du Cercle de la voile de Paris';777;50
+e;297345;'Armance ou quelques scènes d'un salon de Paris en 1827';777;50
+e;297910;'Communauté des maîtres peintres et sculpteurs de Paris';777;50
+e;309036;'Paris Football Club';777;50
+e;310296;'métro de Paris';777;80
+e;310556;'Paris brûle-t-il';777;50
+e;310721;'École centrale Paris';777;50
+e;312642;'Le Matin de Paris';1;50
+e;28581;'champignon de Paris';1;120
+e;29822;'Conservatoire national supérieur de musique de Paris';1;50
+e;132035;'catacombes de Paris';1;54
+e;135400;'Paysan de Paris';1;50
+e;135667;'Piéton de Paris';1;50
+e;137106;'Philippe d'Orléans Paris';1;50
+e;196403;'avec des si, on mettrait Paris dans une bouteille';1;50
+e;312674;'Olympia de Paris';1;50
+e;2082;'Art moderne de la Ville de Paris';1;50
+e;5855;'La Revue de Paris';1;50
+e;8540;'Le Ventre de Paris';1;84
+e;10696;'La Chronique de Paris';1;50
+e;8440;'Casino de Paris';1;56
+e;9072;'Halles de Paris';1;50
+e;10624;'Satori à Paris';1;50
+e;8164;'Paulin Paris Paris';1;50
+r;295983821;113317;11518962;11;25
+r;316547861;113317;12198384;11;25
+r;317043038;113317;12209480;11;25
+r;337343617;113317;12987775;11;25
+r;337344301;113317;12986594;11;25
+r;337345553;113317;12985572;11;25
+r;344345326;113317;13590883;11;25
+r;345082248;113317;13598837;11;25
+r;345380499;113317;13627397;11;25
+r;346021567;113317;13636495;11;25
+r;346022798;113317;13637544;11;25
+r;346024301;113317;13637638;11;25
+r;346109025;113317;13640266;11;25
+r;346138560;113317;13641364;11;25
+r;346149106;113317;13641360;11;25
+r;346149237;113317;13641363;11;25
+r;346150060;113317;13641365;11;25
+r;348212998;113317;13731127;11;25
+r;349026209;113317;13808911;11;25
+r;349466043;113317;13816148;11;25
+r;349469687;113317;13816136;11;25
+r;350571675;113317;13879474;11;25
+r;353054003;113317;14003742;11;25
+r;353103898;113317;14004502;11;25
+r;354057528;113317;14013442;11;25
+r;354134919;113317;14015244;11;25
+r;354269430;113317;14026294;11;25
+r;354415003;113317;14032639;11;25
+r;354434507;113317;14032819;11;25
+r;354987998;113317;14048231;11;25
+r;356456218;113317;14093590;11;25
+r;356568703;113317;14094277;11;25
+r;356668120;113317;14094289;11;25
+r;357233496;113317;14111498;11;25
+r;357290801;113317;14108820;11;25
+r;358872634;113317;14144529;11;25
+r;358921380;113317;14144563;11;25
+r;358921445;113317;14144626;11;25
+r;360472741;113317;14174811;11;25
+r;364141595;113317;14301230;11;25
+r;365170510;113317;14377331;11;25
+r;365762602;113317;14399342;11;25
+r;367498943;113317;14470247;11;25
+r;367463781;113317;14470246;11;25
+r;366683261;113317;14446267;11;25
+r;366909256;113317;14453608;11;25
+r;366946357;113317;14454640;11;25
+r;366959816;113317;14454622;11;25
+r;368646791;113317;14531067;11;25
+r;370808481;113317;14594369;11;25
+r;371764850;113317;14635906;11;25
+r;372860707;113317;14657131;11;25
+r;372949048;113317;14665947;11;25
+r;373165712;113317;14677741;11;25
+r;374744320;113317;14741650;11;25
+r;374645000;113317;14735223;11;25
+r;374879960;113317;14745336;11;25
+r;375087372;113317;14754980;11;25
+r;434288448;113317;16510318;11;25
+r;395370593;113317;15426962;11;25
+r;419517503;113317;15021646;11;25
+r;423808753;113317;16155552;11;25
+r;433779659;113317;16476517;11;25
+r;114456749;113317;5792014;11;26
+r;114460851;113317;5786875;11;26
+r;114461192;113317;5786708;11;26
+r;114461522;113317;5786458;11;26
+r;373169882;113317;14677926;11;26
+r;333205677;113317;12979158;11;26
+r;333390494;113317;12981357;11;26
+r;373170205;113317;14677952;11;26
+r;373170130;113317;14677946;11;26
+r;373169601;113317;14677910;11;26
+r;373170439;113317;14677971;11;26
+r;373170428;113317;14677970;11;26
+r;349466197;113317;13816139;11;26
+r;349469011;113317;13816145;11;26
+r;373170405;113317;14677968;11;26
+r;359017336;113317;14146917;11;26
+r;359862577;113317;14164390;11;26
+r;373169551;113317;14677906;11;26
+r;373169590;113317;14677909;11;26
+r;373169623;113317;14677912;11;26
+r;373169577;113317;14677908;11;26
+r;373013271;113317;14670169;11;26
+r;373013282;113317;14670170;11;26
+r;373013306;113317;14670172;11;26
+r;373013343;113317;14670175;11;26
+r;373013355;113317;14670176;11;26
+r;373013366;113317;14670177;11;26
+r;373013377;113317;14670178;11;26
+r;373013388;113317;14670179;11;26
+r;373013399;113317;14670180;11;26
+r;373013410;113317;14670181;11;26
+r;373013423;113317;14670182;11;26
+r;373013436;113317;14670183;11;26
+r;373013447;113317;14670184;11;26
+r;373013482;113317;14670187;11;26
+r;373013493;113317;14670188;11;26
+r;373013530;113317;14670191;11;26
+r;373013565;113317;14670194;11;26
+r;373013590;113317;14670196;11;26
+r;373063864;113317;14670853;11;26
+r;373063883;113317;14670854;11;26
+r;373063901;113317;14670855;11;26
+r;373063918;113317;14670856;11;26
+r;373063934;113317;14670857;11;26
+r;373063951;113317;14670858;11;26
+r;373063968;113317;14670859;11;26
+r;373063989;113317;14670860;11;26
+r;373064006;113317;14670861;11;26
+r;373064033;113317;14670862;11;26
+r;373064049;113317;14670863;11;26
+r;373064065;113317;14670864;11;26
+r;373064128;113317;14670866;11;26
+r;373064145;113317;14670867;11;26
+r;373064164;113317;14670868;11;26
+r;373064178;113317;14670869;11;26
+r;373064268;113317;14670875;11;26
+r;373064294;113317;14670877;11;26
+r;373111934;113317;14671644;11;26
+r;373112058;113317;14671645;11;26
+r;373218406;113317;14679348;11;26
+r;373218417;113317;14679349;11;26
+r;373218428;113317;14679350;11;26
+r;373218441;113317;14679351;11;26
+r;373220418;113317;14679364;11;26
+r;374050963;113317;14716912;11;26
+r;392090148;113317;15013042;11;26
+r;392326493;113317;15019567;11;26
+r;393346092;113317;15029243;11;26
+r;393346182;113317;15029244;11;26
+r;393346295;113317;15029266;11;26
+r;393346688;113317;15029245;11;26
+r;393347581;113317;15029253;11;26
+r;393607717;113317;15032922;11;26
+r;114451454;113317;5794596;11;27
+r;114452453;113317;5794210;11;27
+r;114453859;113317;5793597;11;27
+r;270775518;113317;10674638;11;27
+r;270766970;113317;10685634;11;27
+r;270766974;113317;10685591;11;27
+r;270781530;113317;10672854;11;27
+r;267316205;113317;10671481;11;27
+r;267316215;113317;10671480;11;27
+r;267329193;113317;10663318;11;27
+r;267333176;113317;10623923;11;27
+r;267333722;113317;10623699;11;27
+r;393606083;113317;15032939;11;27
+r;113788417;113317;5799655;11;28
+r;113798011;113317;5797044;11;28
+r;113798040;113317;5797038;11;28
+r;113800574;113317;5795612;11;28
+r;119662306;113317;6089217;11;28
+r;119663848;113317;6088753;11;28
+r;119666388;113317;6088077;11;28
+r;119672051;113317;6083607;11;28
+r;270769102;113317;10676632;11;28
+r;270770387;113317;10676154;11;28
+r;266729167;113317;10608378;11;28
+r;266791525;113317;10622148;11;28
+r;269889553;113317;10730359;11;28
+r;273211299;113317;10879828;11;28
+r;273212031;113317;10879664;11;28
+r;277362328;113317;10986525;11;28
+r;277362744;113317;10986446;11;28
+r;277362752;113317;10986445;11;28
+r;343032706;113317;13538345;11;28
+r;342856278;113317;13535570;11;28
+r;343014729;113317;13537597;11;28
+r;113290830;113317;5807037;11;29
+r;119672701;113317;6083459;11;29
+r;225651976;113317;9988462;11;29
+r;226232414;113317;9988463;11;29
+r;264464190;113317;10590516;11;29
+r;264464662;113317;10590403;11;29
+r;264466969;113317;10589876;11;29
+r;264467573;113317;10589577;11;29
+r;264506915;113317;10604595;11;29
+r;266723989;113317;10618348;11;29
+r;267322435;113317;10665980;11;29
+r;272774111;113317;10874633;11;29
+r;273206844;113317;10896458;11;29
+r;277425377;113317;10988186;11;29
+r;277928392;113317;10989860;11;29
+r;301611817;113317;11756030;11;29
+r;301685402;113317;11756158;11;29
+r;301845871;113317;11769651;11;29
+r;301850254;113317;11769669;11;29
+r;301852001;113317;11769652;11;29
+r;301853753;113317;11769640;11;29
+r;301863398;113317;11769767;11;29
+r;301894895;113317;11769719;11;29
+r;302306363;113317;11775191;11;29
+r;331216637;113317;12905076;11;29
+r;417030695;113317;14851457;11;29
+r;434383078;113317;16102374;11;29
+r;220844173;113317;9959148;11;30
+r;220844437;113317;9959207;11;30
+r;220844573;113317;9959185;11;30
+r;220845495;113317;9959218;11;30
+r;220846456;113317;9959210;11;30
+r;220852573;113317;9959253;11;30
+r;220855114;113317;9959211;11;30
+r;220856671;113317;9959416;11;30
+r;220867236;113317;9959465;11;30
+r;220877993;113317;9959451;11;30
+r;220883124;113317;9959717;11;30
+r;220928044;113317;9960613;11;30
+r;220976727;113317;9961771;11;30
+r;221008600;113317;9961907;11;30
+r;221030516;113317;9962140;11;30
+r;221033412;113317;9962058;11;30
+r;221123664;113317;9962767;11;30
+r;222106071;113317;9977393;11;30
+r;222150506;113317;9987592;11;30
+r;222151363;113317;9987162;11;30
+r;226788561;113317;9989877;11;30
+r;254897711;113317;10383472;11;30
+r;264434771;113317;10602192;11;30
+r;264440665;113317;10599976;11;30
+r;264441775;113317;10599436;11;30
+r;264448373;113317;10596688;11;30
+r;264451926;113317;10595176;11;30
+r;264453577;113317;10594166;11;30
+r;264454207;113317;10594020;11;30
+r;272707960;113317;10871515;11;30
+r;274268022;113317;10909463;11;30
+r;274586732;113317;10915207;11;30
+r;274590015;113317;10914666;11;30
+r;274590619;113317;10914543;11;30
+r;274590865;113317;10914504;11;30
+r;277228503;113317;10969600;11;30
+r;277229318;113317;10968734;11;30
+r;277545874;113317;10989536;11;30
+r;280286834;113317;11055932;11;30
+r;280291171;113317;11030268;11;30
+r;302017970;113317;11771532;11;30
+r;320429522;113317;12320531;11;30
+r;342383803;113317;13518250;11;30
+r;342383870;113317;13518272;11;30
+r;419781116;113317;15774714;11;30
+r;419782552;113317;15625782;11;30
+r;111462205;113317;5679233;11;31
+r;111489171;113317;5681507;11;31
+r;111489176;113317;5681506;11;31
+r;113765395;113317;5827735;11;31
+r;113776600;113317;5816393;11;31
+r;119192417;113317;6070461;11;31
+r;220803847;113317;9958052;11;31
+r;220805578;113317;9958100;11;31
+r;220849100;113317;9959149;11;31
+r;220848467;113317;9959220;11;31
+r;220848530;113317;9959254;11;31
+r;220850596;113317;9959225;11;31
+r;220865237;113317;9959194;11;31
+r;220871115;113317;9959403;11;31
+r;220879444;113317;9959637;11;31
+r;221469005;113317;9972733;11;31
+r;222100388;113317;9982547;11;31
+r;227657627;113317;10005036;11;31
+r;227664988;113317;10001594;11;31
+r;227665702;113317;10001440;11;31
+r;227667274;113317;10000288;11;31
+r;227669760;113317;9998594;11;31
+r;227671026;113317;9997866;11;31
+r;227671052;113317;9997864;11;31
+r;227671166;113317;9997835;11;31
+r;276960558;113317;10969090;11;31
+r;263694442;113317;10584626;11;31
+r;263703854;113317;10578721;11;31
+r;263704919;113317;10578379;11;31
+r;263705711;113317;10578068;11;31
+r;263705877;113317;10577949;11;31
+r;264440613;113317;10599982;11;31
+r;274351185;113317;10914101;11;31
+r;274352041;113317;10913938;11;31
+r;274579516;113317;10916432;11;31
+r;276979075;113317;10969680;11;31
+r;277647883;113317;10990905;11;31
+r;279583592;113317;11030046;11;31
+r;279598754;113317;11030577;11;31
+r;279991538;113317;11055812;11;31
+r;280010490;113317;11056108;11;31
+r;303725261;113317;11783568;11;31
+r;291993219;113317;11358582;11;31
+r;291993279;113317;11358564;11;31
+r;291993345;113317;11358542;11;31
+r;291993403;113317;11358526;11;31
+r;303730346;113317;11781549;11;31
+r;312396571;113317;11993255;11;31
+r;319946314;113317;12320512;11;31
+r;319953739;113317;12320552;11;31
+r;373170094;113317;14677943;11;31
+r;419730966;113317;15792061;11;31
+r;419732902;113317;15346618;11;31
+r;419733056;113317;15317627;11;31
+r;419742778;113317;15639887;11;31
+r;419742800;113317;15639889;11;31
+r;429222936;113317;16321368;11;31
+r;111460915;113317;5679545;11;32
+r;112182548;113317;5703609;11;32
+r;113294818;113317;5806089;11;32
+r;113773101;113317;5817138;11;32
+r;114022425;113317;5836003;11;32
+r;115858090;113317;5913268;11;32
+r;221193878;113317;9963705;11;32
+r;221469096;113317;9972725;11;32
+r;227639853;113317;10026861;11;32
+r;227644156;113317;10018857;11;32
+r;227647860;113317;10011441;11;32
+r;227664607;113317;10001662;11;32
+r;276643451;113317;10959086;11;32
+r;276643273;113317;10959200;11;32
+r;263667273;113317;10584774;11;32
+r;263667269;113317;10584775;11;32
+r;263700190;113317;10579659;11;32
+r;269412353;113317;10741842;11;32
+r;269416081;113317;10734290;11;32
+r;272640889;113317;10869783;11;32
+r;274572726;113317;10918186;11;32
+r;274265517;113317;10910022;11;32
+r;274572649;113317;10918195;11;32
+r;274572662;113317;10918194;11;32
+r;274572684;113317;10918191;11;32
+r;274572691;113317;10918190;11;32
+r;274572700;113317;10918189;11;32
+r;274572736;113317;10918185;11;32
+r;274983710;113317;10919658;11;32
+r;277743200;113317;10992794;11;32
+r;279992005;113317;11055783;11;32
+r;283113571;113317;11071963;11;32
+r;291207104;113317;11356838;11;32
+r;291210004;113317;11354690;11;32
+r;291212829;113317;11353746;11;32
+r;302409394;113317;11777290;11;32
+r;303719088;113317;11787647;11;32
+r;306360074;113317;11828182;11;32
+r;312489616;113317;11994577;11;32
+r;337338676;113317;13093971;11;32
+r;419620197;113317;15781551;11;32
+r;419621096;113317;15646658;11;32
+r;419624426;113317;15356394;11;32
+r;419626077;113317;15402463;11;32
+r;419626083;113317;15522790;11;32
+r;419664608;113317;15561683;11;32
+r;434614835;113317;16513087;11;32
+r;434614839;113317;16512854;11;32
+r;110815721;113317;5619764;11;33
+r;113270913;113317;5812038;11;33
+r;115105128;113317;5898185;11;33
+r;220367240;113317;9945365;11;33
+r;227618715;113317;10035509;11;33
+r;227626642;113317;10033424;11;33
+r;227627727;113317;10033137;11;33
+r;227627744;113317;10033130;11;33
+r;227628583;113317;10032902;11;33
+r;227647650;113317;10011526;11;33
+r;276016615;113317;10956090;11;33
+r;276166255;113317;10959869;11;33
+r;276043007;113317;10958985;11;33
+r;276113534;113317;10959388;11;33
+r;275827520;113317;10953235;11;33
+r;275683942;113317;10942334;11;33
+r;275683760;113317;10942359;11;33
+r;263403593;113317;10576907;11;33
+r;263403679;113317;10576881;11;33
+r;269395790;113317;10744193;11;33
+r;276069399;113317;10959087;11;33
+r;277922870;113317;10994474;11;33
+r;279325513;113317;11027093;11;33
+r;280676129;113317;11071108;11;33
+r;280802971;113317;11076200;11;33
+r;280840610;113317;11076715;11;33
+r;280841430;113317;11076609;11;33
+r;280844899;113317;11076875;11;33
+r;280851073;113317;11076866;11;33
+r;283108858;113317;11089678;11;33
+r;283109046;113317;11083411;11;33
+r;293252169;113317;11406570;11;33
+r;302911894;113317;11784423;11;33
+r;303717878;113317;11788338;11;33
+r;303717997;113317;11788317;11;33
+r;303759804;113317;11789709;11;33
+r;304447381;113317;11807417;11;33
+r;304478262;113317;11807900;11;33
+r;305127519;113317;11821912;11;33
+r;305632229;113317;11827119;11;33
+r;307380627;113317;11901330;11;33
+r;334738899;113317;13055127;11;33
+r;335080170;113317;13094114;11;33
+r;335114337;113317;13093970;11;33
+r;335138860;113317;13094129;11;33
+r;335138874;113317;13093976;11;33
+r;369593969;113317;14540586;11;33
+r;434356600;113317;16105760;11;33
+r;419608019;113317;15198056;11;33
+r;419612898;113317;15426957;11;33
+r;434356604;113317;16342730;11;33
+r;434356626;113317;16491685;11;33
+r;434359281;113317;16171710;11;33
+r;434359511;113317;16342735;11;33
+r;434361060;113317;16291520;11;33
+r;434368150;113317;16118118;11;33
+r;114750298;113317;5893793;11;34
+r;115846223;113317;5919574;11;34
+r;115850492;113317;5918459;11;34
+r;115850952;113317;5918354;11;34
+r;116572741;113317;5962164;11;34
+r;116576921;113317;5961069;11;34
+r;116579016;113317;5960509;11;34
+r;220500147;113317;9946665;11;34
+r;227626652;113317;10033423;11;34
+r;227627173;113317;10033301;11;34
+r;269387025;113317;10747765;11;34
+r;269387243;113317;10747726;11;34
+r;269392546;113317;10745195;11;34
+r;269397453;113317;10743819;11;34
+r;272188795;113317;10850568;11;34
+r;272517396;113317;10867054;11;34
+r;272519204;113317;10866354;11;34
+r;274963214;113317;10929589;11;34
+r;274967847;113317;10923040;11;34
+r;274967865;113317;10923038;11;34
+r;274967873;113317;10923037;11;34
+r;275367389;113317;10934987;11;34
+r;275475624;113317;10940958;11;34
+r;277889980;113317;10994449;11;34
+r;279323019;113317;11027091;11;34
+r;281211556;113317;11083510;11;34
+r;281212011;113317;11083395;11;34
+r;281258441;113317;11083522;11;34
+r;290725064;113317;11347260;11;34
+r;293006368;113317;11404264;11;34
+r;293006396;113317;11404258;11;34
+r;304859108;113317;11814394;11;34
+r;305424209;113317;11825408;11;34
+r;305532290;113317;11826658;11;34
+r;313343845;113317;12032759;11;34
+r;313359332;113317;12033004;11;34
+r;314268872;113317;12071207;11;34
+r;319720651;113317;12305289;11;34
+r;434341157;113317;16367369;11;34
+r;434353803;113317;16316279;11;34
+r;389692061;113317;14902507;11;34
+r;409841944;113317;15774712;11;34
+r;419513785;113317;15383032;11;34
+r;419514287;113317;15781555;11;34
+r;419514401;113317;15322631;11;34
+r;419515143;113317;15410709;11;34
+r;419516121;113317;15546278;11;34
+r;419516133;113317;15386168;11;34
+r;419516661;113317;15406887;11;34
+r;419521719;113317;15465748;11;34
+r;419521723;113317;15779774;11;34
+r;419521727;113317;15779790;11;34
+r;419521731;113317;15403565;11;34
+r;419521737;113317;15193252;11;34
+r;419521741;113317;15193250;11;34
+r;419521745;113317;15198062;11;34
+r;419521749;113317;15567461;11;34
+r;419521753;113317;15323376;11;34
+r;419521757;113317;15346614;11;34
+r;419521759;113317;15860060;11;34
+r;419521765;113317;15346616;11;34
+r;419521769;113317;15198064;11;34
+r;419521775;113317;15278160;11;34
+r;419521781;113317;15583891;11;34
+r;419521785;113317;15379081;11;34
+r;419521791;113317;10437702;11;34
+r;419521797;113317;14656090;11;34
+r;419521805;113317;11777837;11;34
+r;419521809;113317;11828016;11;34
+r;419521817;113317;15190156;11;34
+r;419521823;113317;12206075;11;34
+r;419521827;113317;10686196;11;34
+r;419521831;113317;10835633;11;34
+r;419521835;113317;14094940;11;34
+r;419521839;113317;10557573;11;34
+r;419521843;113317;10753880;11;34
+r;419521851;113317;15039817;11;34
+r;419521859;113317;11127611;11;34
+r;419521865;113317;10942417;11;34
+r;419521869;113317;10942425;11;34
+r;419521875;113317;11158985;11;34
+r;419521885;113317;10953687;11;34
+r;419521889;113317;12865412;11;34
+r;419521893;113317;11343062;11;34
+r;419526730;113317;15426976;11;34
+r;419527624;113317;12004763;11;34
+r;419530328;113317;10896279;11;34
+r;419534112;113317;13816124;11;34
+r;419536070;113317;10913914;11;34
+r;419536703;113317;15789552;11;34
+r;419538218;113317;15958480;11;34
+r;419542093;113317;13557299;11;34
+r;419542229;113317;15774042;11;34
+r;419546260;113317;14468509;11;34
+r;419560017;113317;15755083;11;34
+r;419588292;113317;15310570;11;34
+r;420265049;113317;16104412;11;34
+r;424882972;113317;16159960;11;34
+r;426637855;113317;16258098;11;34
+r;427221436;113317;16285077;11;34
+r;429661260;113317;16322886;11;34
+r;434347259;113317;16310351;11;34
+r;431478825;113317;16326927;11;34
+r;432455363;113317;16366845;11;34
+r;110807267;113317;5624840;11;35
+r;279157376;113317;11020544;11;35
+r;117878547;113317;5988068;11;35
+r;117915607;113317;5979705;11;35
+r;118931522;113317;6066053;11;35
+r;403475560;113317;15692018;11;35
+r;227601117;113317;10041823;11;35
+r;227601123;113317;10041822;11;35
+r;227603384;113317;10040819;11;35
+r;227603390;113317;10040818;11;35
+r;227604417;113317;10040619;11;35
+r;234508725;113317;10032905;11;35
+r;234622458;113317;10033139;11;35
+r;252682824;113317;10302454;11;35
+r;276726072;113317;10963659;11;35
+r;247440687;113317;10252092;11;35
+r;247440691;113317;10252091;11;35
+r;252679640;113317;10311802;11;35
+r;270759368;113317;10832369;11;35
+r;253418384;113317;10072823;11;35
+r;260964551;113317;10136385;11;35
+r;263094945;113317;10159877;11;35
+r;263277769;113317;10558733;11;35
+r;263278303;113317;10558508;11;35
+r;267106906;113317;10603935;11;35
+r;267288980;113317;10192690;11;35
+r;268328149;113317;10195553;11;35
+r;268360857;113317;10197400;11;35
+r;269386851;113317;10747791;11;35
+r;269387296;113317;10747717;11;35
+r;271248612;113317;10347444;11;35
+r;271591490;113317;10842405;11;35
+r;271595344;113317;10840887;11;35
+r;272174146;113317;10853812;11;35
+r;272174478;113317;10853751;11;35
+r;272177402;113317;10853007;11;35
+r;272177511;113317;10852991;11;35
+r;272183649;113317;10851684;11;35
+r;272184343;113317;10851489;11;35
+r;272184507;113317;10851428;11;35
+r;272243459;113317;10863610;11;35
+r;272243487;113317;10863605;11;35
+r;272243548;113317;10863592;11;35
+r;272514794;113317;10867758;11;35
+r;272515064;113317;10867695;11;35
+r;273389964;113317;10429566;11;35
+r;274957808;113317;10930625;11;35
+r;275107852;113317;10933040;11;35
+r;275107860;113317;10933039;11;35
+r;275107864;113317;10933038;11;35
+r;275107868;113317;10933037;11;35
+r;275107879;113317;10933036;11;35
+r;275107883;113317;10933035;11;35
+r;275107891;113317;10933033;11;35
+r;278149947;113317;10997891;11;35
+r;279115811;113317;11014060;11;35
+r;279149076;113317;11020340;11;35
+r;286019041;113317;11175336;11;35
+r;286032045;113317;11175335;11;35
+r;290676884;113317;11343801;11;35
+r;290705565;113317;11347258;11;35
+r;293454896;113317;11410123;11;35
+r;293556728;113317;11412371;11;35
+r;296990333;113317;11560844;11;35
+r;300096424;113317;11694922;11;35
+r;299678798;113317;11694085;11;35
+r;302449526;113317;11777842;11;35
+r;302495924;113317;11777844;11;35
+r;313998099;113317;12067359;11;35
+r;313999414;113317;12067436;11;35
+r;314007539;113317;12067417;11;35
+r;317737724;113317;12247209;11;35
+r;319546853;113317;12302138;11;35
+r;319851524;113317;12313644;11;35
+r;326398665;113317;12712828;11;35
+r;344928907;113317;10943966;11;35
+r;345066661;113317;10959258;11;35
+r;345608825;113317;11156114;11;35
+r;345864774;113317;13635040;11;35
+r;346047378;113317;13638420;11;35
+r;348302617;113317;13736734;11;35
+r;349465786;113317;13816123;11;35
+r;349469675;113317;13816122;11;35
+r;354307604;113317;14030200;11;35
+r;412565813;113317;10958721;11;35
+r;370236556;113317;14566693;11;35
+r;373084314;113317;14671100;11;35
+r;375066736;113317;14754208;11;35
+r;375563437;113317;14778277;11;35
+r;393968882;113317;15187900;11;35
+r;393981626;113317;15187901;11;35
+r;394647508;113317;15337271;11;35
+r;394658478;113317;15337288;11;35
+r;407547172;113317;15773589;11;35
+r;410248485;113317;15785997;11;35
+r;417126886;113317;11840717;11;35
+r;419492306;113317;15627990;11;35
+r;419494810;113317;15772194;11;35
+r;419502255;113317;15779519;11;35
+r;419503969;113317;15688330;11;35
+r;419508453;113317;15705748;11;35
+r;419508978;113317;15205743;11;35
+r;419509715;113317;15309359;11;35
+r;423628508;113317;16153465;11;35
+r;427328157;113317;16288703;11;35
+r;432058192;113317;16342805;11;35
+r;432057728;113317;16175409;11;35
+r;432057722;113317;16175408;11;35
+r;432056397;113317;16296123;11;35
+r;434282353;113317;16510319;11;35
+r;434143168;113317;16494154;11;35
+r;109954462;113317;5561074;11;36
+r;112198960;113317;5685635;11;36
+r;114752431;113317;5893182;11;36
+r;116894513;113317;5976915;11;36
+r;118521330;113317;6007611;11;36
+r;220495880;113317;9946728;11;36
+r;220493580;113317;9946671;11;36
+r;220335555;113317;9945237;11;36
+r;220922636;113317;9960884;11;36
+r;234099184;113317;10076493;11;36
+r;234562206;113317;10033142;11;36
+r;252661403;113317;10317335;11;36
+r;248115214;113317;10302220;11;36
+r;252664402;113317;10316232;11;36
+r;252666302;113317;10315685;11;36
+r;252663940;113317;10316350;11;36
+r;252664303;113317;10316246;11;36
+r;252672133;113317;10313757;11;36
+r;252674126;113317;10313205;11;36
+r;253387179;113317;10335031;11;36
+r;253387403;113317;10334996;11;36
+r;253389345;113317;10334541;11;36
+r;253389593;113317;10334499;11;36
+r;253389698;113317;10334483;11;36
+r;253389733;113317;10334367;11;36
+r;253389802;113317;10333840;11;36
+r;253389909;113317;10332771;11;36
+r;253389940;113317;10331644;11;36
+r;256381957;113317;10439505;11;36
+r;271582248;113317;10844561;11;36
+r;271591574;113317;10842359;11;36
+r;271594640;113317;10841219;11;36
+r;271825329;113317;10849274;11;36
+r;272012048;113317;10852644;11;36
+r;272012077;113317;10852641;11;36
+r;272012329;113317;10852650;11;36
+r;272012521;113317;10852637;11;36
+r;272013119;113317;10852647;11;36
+r;272013454;113317;10852638;11;36
+r;272013479;113317;10852648;11;36
+r;272014198;113317;10852640;11;36
+r;272014243;113317;10852645;11;36
+r;272015291;113317;10852642;11;36
+r;272017349;113317;10852649;11;36
+r;272018326;113317;10852646;11;36
+r;272019347;113317;10852639;11;36
+r;272035136;113317;10852643;11;36
+r;272243469;113317;10863609;11;36
+r;272364968;113317;10864015;11;36
+r;273225836;113317;10897379;11;36
+r;278023972;113317;10997895;11;36
+r;278049242;113317;10998222;11;36
+r;278051160;113317;10998250;11;36
+r;278059992;113317;10998316;11;36
+r;278060278;113317;10998223;11;36
+r;278060589;113317;10998239;11;36
+r;278066740;113317;10998307;11;36
+r;278075899;113317;10997950;11;36
+r;279147696;113317;11017876;11;36
+r;279205560;113317;11021559;11;36
+r;290615609;113317;11341300;11;36
+r;291543539;113317;11361421;11;36
+r;294545350;113317;11455351;11;36
+r;295284513;113317;11494525;11;36
+r;296199828;113317;5978304;11;36
+r;297667754;113317;11577613;11;36
+r;309082152;113317;11937336;11;36
+r;309082157;113317;11937335;11;36
+r;309082461;113317;11936660;11;36
+r;312935480;113317;12006516;11;36
+r;312936656;113317;12006546;11;36
+r;312956380;113317;12006927;11;36
+r;423504376;113317;16151903;11;36
+r;373170105;113317;14677944;11;36
+r;345318174;113317;11060124;11;36
+r;345643317;113317;11175426;11;36
+r;345647120;113317;11176247;11;36
+r;345776247;113317;11253058;11;36
+r;345895585;113317;11347100;11;36
+r;359660175;113317;14158283;11;36
+r;374307733;113317;14722200;11;36
+r;405220232;113317;15762738;11;36
+r;30010448;113317;1836756;11;37
+r;113296287;113317;5805841;11;37
+r;113308710;113317;5802090;11;37
+r;114746776;113317;5895186;11;37
+r;220529884;113317;9946670;11;37
+r;227594387;113317;10045228;11;37
+r;228080399;113317;10043840;11;37
+r;232544905;113317;10052663;11;37
+r;232637433;113317;10052777;11;37
+r;232640854;113317;10052778;11;37
+r;232642424;113317;10052724;11;37
+r;235069043;113317;10130131;11;37
+r;256225544;113317;10106397;11;37
+r;247437192;113317;10297740;11;37
+r;254163870;113317;10327080;11;37
+r;263209332;113317;10557580;11;37
+r;264507054;113317;10604481;11;37
+r;269380618;113317;10749912;11;37
+r;270357434;113317;10828022;11;37
+r;270432569;113317;10830253;11;37
+r;271825192;113317;10849299;11;37
+r;281498323;113317;11101091;11;37
+r;282620710;113317;11101619;11;37
+r;282620854;113317;11101305;11;37
+r;290515105;113317;11341299;11;37
+r;292661585;113317;11393840;11;37
+r;292661613;113317;11393753;11;37
+r;294209533;113317;5785712;11;37
+r;298270065;113317;11590686;11;37
+r;298273859;113317;11589998;11;37
+r;298274754;113317;11589661;11;37
+r;298277480;113317;11583074;11;37
+r;306356515;113317;11833387;11;37
+r;308011190;113317;11933780;11;37
+r;313048675;113317;12009526;11;37
+r;313050834;113317;12009525;11;37
+r;313701606;113317;12050828;11;37
+r;337345611;113317;12985542;11;37
+r;357306019;113317;14112831;11;37
+r;357337184;113317;14113244;11;37
+r;357398105;113317;14112830;11;37
+r;419478836;113317;16087283;11;37
+r;427349393;113317;16290904;11;37
+r;427506414;113317;16296105;11;37
+r;54588020;113317;2426503;11;38
+r;113751009;113317;5832104;11;38
+r;118532265;113317;6003030;11;38
+r;118532304;113317;6003024;11;38
+r;118532317;113317;6003022;11;38
+r;220613481;113317;9950399;11;38
+r;269538150;113317;10773185;11;38
+r;269537989;113317;10773260;11;38
+r;269537859;113317;10773339;11;38
+r;269537782;113317;10773399;11;38
+r;269536992;113317;10773819;11;38
+r;269536708;113317;10774020;11;38
+r;269536667;113317;10774023;11;38
+r;269536655;113317;10774024;11;38
+r;269536649;113317;10774025;11;38
+r;269536643;113317;10774026;11;38
+r;269536637;113317;10774027;11;38
+r;269536631;113317;10774028;11;38
+r;269536625;113317;10774029;11;38
+r;269536615;113317;10774031;11;38
+r;269536609;113317;10774032;11;38
+r;269536603;113317;10774033;11;38
+r;269536597;113317;10774034;11;38
+r;227588904;113317;10046385;11;38
+r;227588916;113317;10046384;11;38
+r;228984148;113317;10056036;11;38
+r;228984196;113317;10056029;11;38
+r;269533150;113317;10775009;11;38
+r;232106498;113317;10061801;11;38
+r;232107143;113317;10061647;11;38
+r;232107161;113317;10061643;11;38
+r;232656985;113317;10052715;11;38
+r;243207835;113317;10193483;11;38
+r;243209513;113317;10193218;11;38
+r;243211247;113317;10192930;11;38
+r;243211520;113317;10192893;11;38
+r;247435695;113317;10298174;11;38
+r;254596559;113317;10364089;11;38
+r;254596595;113317;10364081;11;38
+r;254596881;113317;10363708;11;38
+r;262006314;113317;10457924;11;38
+r;287838518;113317;11233165;11;38
+r;288506078;113317;11256018;11;38
+r;288506462;113317;11255911;11;38
+r;290553906;113317;11342044;11;38
+r;290561462;113317;11342229;11;38
+r;290562540;113317;11342112;11;38
+r;290563991;113317;11342219;11;38
+r;292632510;113317;11393327;11;38
+r;292643009;113317;11393332;11;38
+r;295465951;113317;11502582;11;38
+r;297917211;113317;11589663;11;38
+r;117810139;113317;5991437;11;39
+r;118529706;113317;6003742;11;39
+r;118529738;113317;6003737;11;39
+r;118529952;113317;6003686;11;39
+r;118531097;113317;6003372;11;39
+r;220371367;113317;9945932;11;39
+r;220177898;113317;9942548;11;39
+r;220995203;113317;9962917;11;39
+r;269537825;113317;10773386;11;39
+r;269535135;113317;10774393;11;39
+r;269533186;113317;10775003;11;39
+r;232099389;113317;10064107;11;39
+r;232101154;113317;10063324;11;39
+r;242357890;113317;10192351;11;39
+r;242357952;113317;10192334;11;39
+r;254167959;113317;10352564;11;39
+r;254168006;113317;10352552;11;39
+r;254174375;113317;10349370;11;39
+r;254176801;113317;10347561;11;39
+r;254177161;113317;10347349;11;39
+r;254177173;113317;10347348;11;39
+r;254178732;113317;10346947;11;39
+r;254180631;113317;10346363;11;39
+r;255388632;113317;10422411;11;39
+r;255389678;113317;10421784;11;39
+r;255390831;113317;10421554;11;39
+r;255391506;113317;10421424;11;39
+r;255391528;113317;10421419;11;39
+r;262526506;113317;10524180;11;39
+r;262530079;113317;10520039;11;39
+r;262530089;113317;10520038;11;39
+r;287784784;113317;11224049;11;39
+r;287785750;113317;11224042;11;39
+r;287974351;113317;11237558;11;39
+r;289017825;113317;11295353;11;39
+r;291812387;113317;11364268;11;39
+r;291812393;113317;11364267;11;39
+r;292077603;113317;11383735;11;39
+r;292321594;113317;11383846;11;39
+r;295983714;113317;11518955;11;39
+r;295985575;113317;11518931;11;39
+r;296654876;113317;11553666;11;39
+r;310778421;113317;11975871;11;39
+r;310778425;113317;11975870;11;39
+r;329051352;113317;12792436;11;39
+r;109655371;113317;5536475;11;40
+r;110807051;113317;5624911;11;40
+r;220906650;113317;9960679;11;40
+r;226788484;113317;9988492;11;40
+r;241517265;113317;10186452;11;40
+r;242254593;113317;10191319;11;40
+r;242257693;113317;10190089;11;40
+r;254918610;113317;10383819;11;40
+r;254592713;113317;10367061;11;40
+r;254592719;113317;10367060;11;40
+r;254592792;113317;10367053;11;40
+r;254592802;113317;10367052;11;40
+r;254592812;113317;10367051;11;40
+r;255386136;113317;10423242;11;40
+r;256492263;113317;10426094;11;40
+r;256493395;113317;10425683;11;40
+r;262203142;113317;10517664;11;40
+r;262889684;113317;10548149;11;40
+r;263059964;113317;10554588;11;40
+r;263060141;113317;10554564;11;40
+r;269412299;113317;10741852;11;40
+r;269412308;113317;10741851;11;40
+r;269412334;113317;10741845;11;40
+r;278153696;113317;11000852;11;40
+r;278202738;113317;11000909;11;40
+r;278208108;113317;11001301;11;40
+r;291799970;113317;11372697;11;40
+r;310700938;113317;11975864;11;40
+r;310702732;113317;11975872;11;40
+r;318930495;113317;12278080;11;40
+r;50948403;113317;2370487;11;41
+r;50951161;113317;2370491;11;41
+r;53230566;113317;2397086;11;41
+r;109686987;113317;5538646;11;41
+r;116948220;113317;5969279;11;41
+r;117862559;113317;5993844;11;41
+r;117865282;113317;5993174;11;41
+r;118932659;113317;6065384;11;41
+r;220868310;113317;9959463;11;41
+r;232078356;113317;10073492;11;41
+r;232078381;113317;10073434;11;41
+r;232087446;113317;10069351;11;41
+r;232466997;113317;10083699;11;41
+r;232467015;113317;10083691;11;41
+r;232467043;113317;10083688;11;41
+r;232468221;113317;10083411;11;41
+r;232468366;113317;10083358;11;41
+r;232468507;113317;10083271;11;41
+r;232471876;113317;10082020;11;41
+r;232472529;113317;10081812;11;41
+r;233035491;113317;10088648;11;41
+r;236690792;113317;10133089;11;41
+r;236691828;113317;10132757;11;41
+r;236691832;113317;10132756;11;41
+r;261020047;113317;10458716;11;41
+r;262038196;113317;10514339;11;41
+r;262050836;113317;10507626;11;41
+r;262883157;113317;10549498;11;41
+r;263059968;113317;10554587;11;41
+r;263063814;113317;10553892;11;41
+r;272513142;113317;10868270;11;41
+r;282618857;113317;11102701;11;41
+r;282619345;113317;11102624;11;41
+r;283799211;113317;11156902;11;41
+r;283809292;113317;11156989;11;41
+r;287320789;113317;11215849;11;41
+r;291917228;113317;11377905;11;41
+r;297541572;113317;11575669;11;41
+r;328226021;113317;12790628;11;41
+r;319963788;113317;12320535;11;41
+r;417154807;113317;13638433;11;41
+r;417154814;113317;13638435;11;41
+r;417154800;113317;13638431;11;41
+r;50941332;113317;2370427;11;42
+r;50950971;113317;2370490;11;42
+r;98764384;113317;4329593;11;42
+r;109888708;113317;5553132;11;42
+r;112188722;113317;5688692;11;42
+r;112189226;113317;5688563;11;42
+r;113272569;113317;5811582;11;42
+r;118523201;113317;6007098;11;42
+r;118533635;113317;6002624;11;42
+r;220214055;113317;9944395;11;42
+r;233027114;113317;10091495;11;42
+r;233027129;113317;10091483;11;42
+r;233279695;113317;10093492;11;42
+r;234736031;113317;10129999;11;42
+r;234736358;113317;10129936;11;42
+r;234736418;113317;10129914;11;42
+r;234736656;113317;10129852;11;42
+r;234738309;113317;10128231;11;42
+r;234738737;113317;10128038;11;42
+r;234738823;113317;10127922;11;42
+r;234738842;113317;10127919;11;42
+r;234738850;113317;10127918;11;42
+r;234739185;113317;10126955;11;42
+r;234739264;113317;10126941;11;42
+r;234739276;113317;10126940;11;42
+r;234739589;113317;10126865;11;42
+r;234739611;113317;10126861;11;42
+r;234739620;113317;10126860;11;42
+r;234739675;113317;10126851;11;42
+r;234739683;113317;10126849;11;42
+r;234739733;113317;10126842;11;42
+r;234739746;113317;10126841;11;42
+r;234739762;113317;10126839;11;42
+r;234739770;113317;10126838;11;42
+r;234739780;113317;10126837;11;42
+r;234743236;113317;10118502;11;42
+r;240917709;113317;10185832;11;42
+r;240918442;113317;10185608;11;42
+r;276738772;113317;10963723;11;42
+r;258722407;113317;10446807;11;42
+r;258722689;113317;10446688;11;42
+r;258723180;113317;10445656;11;42
+r;258724883;113317;10445217;11;42
+r;258724899;113317;10445214;11;42
+r;258724914;113317;10445211;11;42
+r;258725043;113317;10445192;11;42
+r;258727032;113317;10444857;11;42
+r;258727039;113317;10444856;11;42
+r;258746337;113317;10458283;11;42
+r;261008260;113317;10462002;11;42
+r;261018777;113317;10459062;11;42
+r;263063795;113317;10553896;11;42
+r;281574941;113317;11102218;11;42
+r;281605210;113317;11102657;11;42
+r;281606857;113317;11102652;11;42
+r;282617811;113317;11103832;11;42
+r;283192054;113317;11137923;11;42
+r;285657314;113317;11161657;11;42
+r;285657758;113317;11161658;11;42
+r;286030679;113317;11175514;11;42
+r;286735072;113317;11178720;11;42
+r;287222681;113317;11208101;11;42
+r;287223532;113317;11207585;11;42
+r;287254097;113317;11208498;11;42
+r;287275289;113317;11209040;11;42
+r;290067823;113317;11325518;11;42
+r;292105424;113317;11384274;11;42
+r;328190648;113317;12789833;11;42
+r;328190879;113317;12789832;11;42
+r;328190940;113317;12789831;11;42
+r;328193501;113317;12789834;11;42
+r;328193534;113317;12789835;11;42
+r;337337463;113317;13198655;11;42
+r;109888326;113317;5553198;11;43
+r;109888596;113317;5553150;11;43
+r;109888642;113317;5553142;11;43
+r;113284518;113317;5808577;11;43
+r;115107768;113317;5897240;11;43
+r;117863464;113317;5993621;11;43
+r;117900901;113317;5983396;11;43
+r;118529686;113317;6003746;11;43
+r;118531338;113317;6003282;11;43
+r;118532240;113317;6003042;11;43
+r;118533042;113317;6002795;11;43
+r;220380899;113317;9946074;11;43
+r;220316015;113317;9945008;11;43
+r;269486888;113317;10762041;11;43
+r;234221449;113317;10106353;11;43
+r;234221457;113317;10106352;11;43
+r;238922114;113317;10177974;11;43
+r;238926362;113317;10176571;11;43
+r;238926606;113317;10176487;11;43
+r;240634812;113317;10184945;11;43
+r;240635062;113317;10184828;11;43
+r;240635064;113317;10184827;11;43
+r;240635753;113317;10181625;11;43
+r;240635893;113317;10181592;11;43
+r;275683762;113317;10942358;11;43
+r;258721004;113317;10456719;11;43
+r;258724947;113317;10445205;11;43
+r;258724982;113317;10445200;11;43
+r;258725063;113317;10445190;11;43
+r;261014862;113317;10460043;11;43
+r;278811077;113317;11010729;11;43
+r;280472202;113317;11064587;11;43
+r;285733289;113317;11162175;11;43
+r;285734463;113317;11162186;11;43
+r;287218579;113317;11207586;11;43
+r;292391232;113317;11388322;11;43
+r;304472450;113317;11807765;11;43
+r;328061507;113317;12785104;11;43
+r;357361081;113317;14113243;11;43
+r;365354723;113317;14386663;11;43
+r;400722090;113317;14451195;11;43
+r;55639526;113317;2458970;11;44
+r;109888511;113317;5553171;11;44
+r;117866117;113317;5992950;11;44
+r;117869777;113317;5991985;11;44
+r;118931512;113317;6066054;11;44
+r;126760599;113317;7900580;11;44
+r;269536591;113317;10774036;11;44
+r;269536575;113317;10774039;11;44
+r;236665987;113317;10138523;11;44
+r;238091711;113317;10174710;11;44
+r;238092427;113317;10174540;11;44
+r;238098244;113317;10160843;11;44
+r;238101693;113317;10160019;11;44
+r;238103409;113317;10159801;11;44
+r;238104168;113317;10159706;11;44
+r;238104286;113317;10159693;11;44
+r;238104381;113317;10159678;11;44
+r;238112434;113317;10158444;11;44
+r;275484416;113317;10939484;11;44
+r;285156918;113317;11160391;11;44
+r;286803942;113317;11181654;11;44
+r;293006224;113317;11404324;11;44
+r;328032495;113317;12785052;11;44
+r;328036812;113317;12785102;11;44
+r;328042199;113317;12785124;11;44
+r;338510946;113317;13313531;11;44
+r;338837606;113317;13340137;11;44
+r;419521813;113317;10896263;11;44
+r;419521847;113317;10896267;11;44
+r;109661144;113317;5538133;11;45
+r;118541036;113317;6000767;11;45
+r;118932668;113317;6065383;11;45
+r;121440313;113317;6528171;11;45
+r;236650656;113317;10149019;11;45
+r;252679654;113317;10311801;11;45
+r;253383455;113317;10335975;11;45
+r;256305179;113317;10430674;11;45
+r;261323526;113317;10508503;11;45
+r;272243554;113317;10863591;11;45
+r;282497318;113317;11105184;11;45
+r;284131273;113317;11158936;11;45
+r;285030800;113317;11159906;11;45
+r;50479291;113317;2367828;11;46
+r;109878391;113317;5557647;11;46
+r;117865280;113317;5993175;11;46
+r;118529748;113317;6003734;11;46
+r;118531090;113317;6003373;11;46
+r;118532342;113317;6003018;11;46
+r;254369743;113317;10083413;11;46
+r;256305175;113317;10430675;11;46
+r;256309041;113317;10429569;11;46
+r;274590907;113317;10914495;11;46
+r;296987078;113317;11560840;11;46
+r;327885712;113317;12775377;11;46
+r;327885893;113317;12775338;11;46
+r;327886945;113317;12774527;11;46
+r;349466259;113317;13816127;11;46
+r;56405065;113317;2474969;11;47
+r;109888610;113317;5553149;11;47
+r;110813568;113317;5621222;11;47
+r;117866494;113317;5992861;11;47
+r;117868077;113317;5992449;11;47
+r;256288309;113317;10437701;11;47
+r;327621757;113317;12770834;11;47
+r;327722467;113317;12772345;11;47
+r;373064110;113317;14670865;11;47
+r;373064197;113317;14670870;11;47
+r;373064213;113317;14670871;11;47
+r;373064229;113317;14670872;11;47
+r;373064245;113317;14670873;11;47
+r;373064258;113317;14670874;11;47
+r;108313583;113317;5515534;11;48
+r;108313602;113317;5515539;11;48
+r;108314623;113317;5515549;11;48
+r;108317590;113317;5515538;11;48
+r;108319733;113317;5515551;11;48
+r;108320352;113317;5515536;11;48
+r;108331522;113317;5515540;11;48
+r;108331733;113317;5515546;11;48
+r;108332201;113317;5515550;11;48
+r;108332265;113317;5515537;11;48
+r;108332284;113317;5515533;11;48
+r;108332343;113317;5515544;11;48
+r;108332469;113317;5515541;11;48
+r;108332967;113317;5515532;11;48
+r;108333053;113317;5515547;11;48
+r;108334756;113317;5515531;11;48
+r;108335647;113317;5515545;11;48
+r;108336224;113317;5515542;11;48
+r;108337419;113317;5515553;11;48
+r;108339283;113317;5515535;11;48
+r;109887344;113317;5553439;11;48
+r;118529719;113317;6003740;11;48
+r;243207911;113317;10193464;11;48
+r;254592862;113317;10367044;11;48
+r;327589790;113317;12764782;11;48
+r;108332255;113317;5515530;11;49
+r;117871723;113317;5990188;11;49
+r;118529693;113317;6003745;11;49
+r;242261561;113317;10188660;11;49
+r;281538655;113317;11101602;11;49
+r;98763136;113317;4329463;11;50
+r;112195759;113317;5686672;11;50
+r;117612676;113317;5990912;11;50
+r;117709845;113317;5991372;11;50
+r;118531314;113317;6003285;11;50
+r;126759113;113317;7900353;11;50
+r;190283163;113317;8853006;11;50
+r;191689999;113317;8883705;11;50
+r;195856637;113317;9025389;11;50
+r;197294404;113317;9050705;11;50
+r;213876266;113317;9465631;11;50
+r;214873458;113317;9566874;11;50
+r;216908419;113317;9644814;11;50
+r;218114734;113317;9754081;11;50
+r;218226630;113317;9761010;11;50
+r;218226823;113317;9761008;11;50
+r;218631259;113317;9798588;11;50
+r;232106902;113317;10061700;11;50
+r;232468792;113317;10083203;11;50
+r;234224129;113317;10104436;11;50
+r;234741149;113317;10118912;11;50
+r;238096290;113317;10161510;11;50
+r;240634723;113317;10184964;11;50
+r;243211524;113317;10192892;11;50
+r;270775488;113317;10674643;11;50
+r;276059861;113317;10959085;11;50
+r;270775564;113317;10674632;11;50
+r;275682585;113317;10942579;11;50
+r;254592906;113317;10367028;11;50
+r;256288291;113317;10437704;11;50
+r;256288301;113317;10437703;11;50
+r;256657200;113317;10439782;11;50
+r;258722981;113317;10446417;11;50
+r;258724951;113317;10445204;11;50
+r;258724974;113317;10445201;11;50
+r;258725000;113317;10445198;11;50
+r;258725027;113317;10445193;11;50
+r;258725817;113317;10445021;11;50
+r;262048305;113317;10508725;11;50
+r;263404147;113317;10576735;11;50
+r;263701365;113317;10579258;11;50
+r;273653011;113317;10446732;11;50
+r;279197444;113317;11021544;11;50
+r;279995164;113317;11055854;11;50
+r;281605063;113317;11102683;11;50
+r;282280102;113317;11119271;11;50
+r;282280479;113317;11119274;11;50
+r;282288971;113317;11119316;11;50
+r;282305375;113317;11119607;11;50
+r;282308583;113317;11119606;11;50
+r;282339258;113317;11120507;11;50
+r;282618925;113317;11102693;11;50
+r;282619252;113317;11102640;11;50
+r;282619302;113317;11102631;11;50
+r;282843342;113317;11131741;11;50
+r;282908429;113317;11133105;11;50
+r;286023555;113317;11175337;11;50
+r;417076234;113317;15980111;11;50
+r;288381359;113317;11251672;11;50
+r;291249200;113317;11358455;11;50
+r;320907498;113317;12484320;11;50
+r;320907646;113317;12484166;11;50
+r;323462021;113317;12626393;11;50
+r;323964195;113317;12645942;11;50
+r;324865410;113317;12683401;11;50
+r;324931598;113317;12678491;11;50
+r;324931941;113317;12668302;11;50
+r;325494903;113317;12694109;11;50
+r;326150995;113317;12710617;11;50
+r;326350364;113317;12710744;11;50
+r;327329460;113317;12709500;11;50
+r;328030814;113317;12785049;11;50
+r;328042121;113317;12785113;11;50
+r;328042180;113317;12785111;11;50
+r;328043384;113317;12785105;11;50
+r;328044335;113317;12785123;11;50
+r;328044448;113317;12785115;11;50
+r;328045044;113317;12785116;11;50
+r;328045083;113317;12785122;11;50
+r;328047521;113317;12785108;11;50
+r;328047536;113317;12785118;11;50
+r;333738734;113317;12985600;11;50
+r;373170158;113317;14677948;11;50
+r;346150912;113317;11454892;11;50
+r;356597445;113317;14094238;11;50
+r;360245372;113317;14162105;11;50
+r;367719857;113317;14474876;11;50
+r;366230111;113317;14417157;11;50
+r;368237599;113317;14490551;11;50
+r;412565486;113317;15760447;11;50
+r;369392782;113317;14537250;11;50
+r;369826884;113317;14548187;11;50
+r;369933159;113317;14549322;11;50
+r;369947320;113317;14549323;11;50
+r;373013297;113317;14670171;11;50
+r;400947777;113317;15635172;11;50
+r;412531208;113317;15788521;11;50
+r;412530361;113317;15696745;11;50
+r;400713635;113317;14333971;11;50
+r;400820997;113317;15630106;11;50
+r;402104784;113317;15198391;11;50
+r;402104212;113317;15392633;11;50
+r;402118995;113317;14135295;11;50
+r;397504458;113317;14096940;11;50
+r;402102674;113317;15632283;11;50
+r;402112553;113317;15484286;11;50
+r;402109514;113317;15495408;11;50
+r;402107158;113317;15524013;11;50
+r;385077662;113317;14876873;11;50
+r;393804643;113317;14540700;11;50
+r;393832455;113317;13567582;11;50
+r;393835797;113317;14851452;11;50
+r;393838206;113317;14609251;11;50
+r;393838382;113317;13989828;11;50
+r;393990908;113317;15189956;11;50
+r;393998201;113317;14136539;11;50
+r;393998223;113317;14136540;11;50
+r;394000878;113317;14876874;11;50
+r;423819913;113317;16155831;11;50
+r;395016939;113317;15284862;11;50
+r;400094217;113317;15596152;11;50
+r;401685050;113317;15639852;11;50
+r;402044526;113317;15640160;11;50
+r;405570878;113317;15685735;11;50
+r;410361830;113317;15786485;11;50
+r;411714093;113317;15786868;11;50
+r;411714682;113317;15781662;11;50
+r;411716505;113317;15790721;11;50
+r;411716619;113317;15779261;11;50
+r;411717539;113317;15693041;11;50
+r;412542921;113317;15696051;11;50
+r;412543110;113317;15776093;11;50
+r;413897046;113317;15770100;11;50
+r;413897604;113317;15788306;11;50
+r;414457907;113317;15921220;11;50
+r;414592028;113317;15932128;11;50
+r;414592234;113317;15773634;11;50
+r;414794284;113317;15941481;11;50
+r;416713343;113317;15958360;11;50
+r;417034736;113317;15979147;11;50
+r;418246132;113317;16038292;11;50
+r;418574112;113317;16070634;11;50
+r;418898848;113317;16072172;11;50
+r;420301264;113317;16105333;11;50
+r;420301401;113317;16105331;11;50
+r;423093628;113317;16118117;11;50
+r;423733524;113317;16155028;11;50
+r;424980643;113317;16164265;11;50
+r;426924831;113317;16272570;11;50
+r;431517020;113317;16310375;11;50
+r;431517040;113317;16310376;11;50
+r;16885410;113317;565881;11;51
+r;22151792;113317;1175464;11;51
+r;25361323;113317;1574957;11;51
+r;28474214;113317;1733475;11;51
+r;49717513;113317;2357180;11;51
+r;60505599;113317;2653575;11;51
+r;72362201;113317;2944180;11;51
+r;76759740;113317;3180166;11;51
+r;86517368;113317;3378419;11;51
+r;87320925;113317;3418041;11;51
+r;91910002;113317;3695634;11;51
+r;91911034;113317;3695633;11;51
+r;91912326;113317;3695647;11;51
+r;93088043;113317;3729284;11;51
+r;93651571;113317;3758977;11;51
+r;93654839;113317;3758643;11;51
+r;93660828;113317;3758021;11;51
+r;93674843;113317;3756494;11;51
+r;93681962;113317;3755735;11;51
+r;93699116;113317;3753996;11;51
+r;98902002;113317;4335007;11;51
+r;108276566;113317;5512473;11;51
+r;14342058;113317;393225;11;52
+r;16304971;113317;462358;11;52
+r;22262995;113317;1191730;11;52
+r;76779271;113317;3180436;11;52
+r;83260758;113317;3308400;11;52
+r;91912385;113317;3695637;11;52
+r;91912393;113317;3695638;11;52
+r;91913145;113317;3695629;11;52
+r;93664180;113317;3757650;11;52
+r;93695054;113317;3754416;11;52
+r;93721397;113317;3751585;11;52
+r;106879010;113317;5329917;11;52
+r;28250842;113317;1711669;11;53
+r;29906461;113317;1840857;11;53
+r;30521819;113317;1892960;11;53
+r;33688768;113317;2321834;11;53
+r;33729919;113317;2324282;11;53
+r;33729923;113317;2324281;11;53
+r;50181556;113317;2362326;11;53
+r;52472161;113317;2509125;11;53
+r;55139326;113317;2600184;11;53
+r;76602496;113317;3177087;11;53
+r;76743592;113317;3179903;11;53
+r;91912560;113317;3695642;11;53
+r;93654204;113317;3758709;11;53
+r;93667978;113317;3757241;11;53
+r;93695309;113317;3754389;11;53
+r;93709376;113317;3752901;11;53
+r;97972910;113317;4313813;11;53
+r;17228147;113317;568482;11;54
+r;17113454;113317;567538;11;54
+r;17734968;113317;573661;11;54
+r;31866257;113317;1974913;11;54
+r;50011017;113317;2357711;11;54
+r;76584663;113317;3176882;11;54
+r;91909523;113317;3695635;11;54
+r;93650704;113317;3759068;11;54
+r;93663240;113317;3757756;11;54
+r;93684515;113317;3755469;11;54
+r;93688008;113317;3755190;11;54
+r;93696519;113317;3754256;11;54
+r;98031156;113317;4315113;11;54
+r;18066483;113317;579586;11;55
+r;62436585;113317;2746830;11;55
+r;72776926;113317;2951476;11;55
+r;76509720;113317;3175728;11;55
+r;86514918;113317;3378417;11;55
+r;93672514;113317;3756746;11;55
+r;93673430;113317;3756644;11;55
+r;93679332;113317;3756007;11;55
+r;93703725;113317;3753516;11;55
+r;96320303;113317;3365432;11;55
+r;98764272;113317;4329457;11;55
+r;16309365;113317;462420;11;56
+r;17042581;113317;567036;11;56
+r;21011294;113317;1012249;11;56
+r;31787700;113317;1971744;11;56
+r;52477174;113317;2498444;11;56
+r;52494492;113317;2554848;11;56
+r;52657191;113317;2579032;11;56
+r;72626518;113317;2949314;11;56
+r;76640305;113317;3177880;11;56
+r;91910153;113317;3695639;11;56
+r;91910486;113317;3695641;11;56
+r;91912774;113317;3695643;11;56
+r;91913617;113317;3695631;11;56
+r;91916644;113317;3695628;11;56
+r;93658552;113317;3758257;11;56
+r;93661329;113317;3757964;11;56
+r;93688801;113317;3755105;11;56
+r;93702825;113317;3753614;11;56
+r;93714523;113317;3752348;11;56
+r;98902022;113317;4335008;11;56
+r;20945994;113317;1006006;11;57
+r;24969847;113317;1529709;11;57
+r;25361214;113317;1574962;11;57
+r;52464653;113317;2525279;11;57
+r;52573662;113317;2578995;11;57
+r;54783202;113317;2593358;11;57
+r;72802586;113317;2952021;11;57
+r;72894823;113317;2953071;11;57
+r;77813180;113317;3227964;11;57
+r;91910535;113317;3695640;11;57
+r;91911701;113317;3695559;11;57
+r;91913033;113317;3695646;11;57
+r;93689910;113317;3754983;11;57
+r;93704819;113317;3753395;11;57
+r;93711494;113317;3752663;11;57
+r;93720024;113317;3751748;11;57
+r;16182363;113317;461091;11;58
+r;17543855;113317;570484;11;58
+r;22151573;113317;1175465;11;58
+r;28126692;113317;1704045;11;58
+r;29760414;113317;1822043;11;58
+r;63172398;113317;2769910;11;58
+r;72713106;113317;2950415;11;58
+r;72778457;113317;2951475;11;58
+r;99330113;113317;4388812;11;58
+r;83025483;113317;3305415;11;58
+r;91788516;113317;3695040;11;58
+r;91922344;113317;3695645;11;58
+r;93461305;113317;3744171;11;58
+r;93664613;113317;3757601;11;58
+r;93677745;113317;3756173;11;58
+r;93690567;113317;3754910;11;58
+r;93714569;113317;3752343;11;58
+r;16314903;113317;462464;11;59
+r;22212835;113317;1184447;11;59
+r;25212865;113317;1565061;11;59
+r;33174098;113317;2318263;11;59
+r;50016802;113317;2357751;11;59
+r;54567905;113317;2589120;11;59
+r;100817170;113317;4644134;11;59
+r;86513825;113317;3378418;11;59
+r;91909581;113317;3695636;11;59
+r;91917056;113317;3695630;11;59
+r;93676733;113317;3756279;11;59
+r;93692879;113317;3754648;11;59
+r;93693934;113317;3754538;11;59
+r;93695934;113317;3754324;11;59
+r;98849161;113317;4333014;11;59
+r;98912474;113317;4335011;11;59
+r;104556572;113317;5012886;11;59
+r;107362872;113317;5387749;11;59
+r;14346060;113317;140671;11;60
+r;25358097;113317;1574958;11;60
+r;33719745;113317;2323509;11;60
+r;34500678;113317;2344885;11;60
+r;50018602;113317;2357771;11;60
+r;50016528;113317;2357749;11;60
+r;50017305;113317;2357761;11;60
+r;91910140;113317;3695644;11;60
+r;91911285;113317;3695632;11;60
+r;93598140;113317;3750970;11;60
+r;93660438;113317;3758058;11;60
+r;93666342;113317;3757414;11;60
+r;93674732;113317;3756506;11;60
+r;93676048;113317;3756361;11;60
+r;93701028;113317;3753801;11;60
+r;93702607;113317;3753638;11;60
+r;93720724;113317;3751673;11;60
+r;98778803;113317;4330460;11;60
+r;72622537;113317;2949282;11;61
+r;29373238;113317;1791334;11;62
+r;71944084;113317;2932473;11;62
+r;72302517;113317;2937646;11;62
+r;29848393;113317;1852842;11;63
+r;71812542;113317;2928715;11;63
+r;29882132;113317;1845735;11;64
+r;72678951;113317;2949998;11;64
+r;72851428;113317;2952494;11;64
+r;29785087;113317;1824146;11;65
+r;73562457;113317;2962268;11;65
+r;29472924;113317;1800114;11;66
+r;72389244;113317;2945219;11;66
+r;72634292;113317;2949391;11;66
+r;13020124;113317;390972;11;104
+r;13316882;113317;393180;11;104
+r;11864776;113317;92663;11;121
+r;11872176;113317;41897;11;121
+r;11850005;113317;272138;11;122
+r;11850429;113317;263630;11;122
+r;11850997;113317;250867;11;122
+r;11851762;113317;231554;11;122
+r;11852938;113317;209258;11;122
+r;11854321;113317;177353;11;122
+r;11860681;113317;120420;11;122
+r;11860754;113317;119878;11;122
+r;11846508;113317;319188;11;123
+r;11848573;113317;293256;11;123
+r;9023389;113317;319128;11;148
+r;9256268;113317;323441;11;148
+r;11640631;113317;329483;11;148
+r;11698285;113317;329773;11;148
+r;11844679;113317;330250;11;148
+r;8871712;113317;37691;11;155
+r;8871964;113317;62382;11;155
+r;8883388;113317;280542;11;156
+r;8883571;113317;282706;11;156
+r;8883659;113317;283827;11;156
+r;8884227;113317;288617;11;156
+r;8884293;113317;289406;11;156
+r;8884873;113317;296172;11;156
+r;8885008;113317;297739;11;156
+r;8885575;113317;304199;11;156
+r;8885754;113317;305335;11;156
+r;8885850;113317;306636;11;156
+r;8886119;113317;309793;11;156
+r;8886233;113317;310670;11;156
+r;8886333;113317;311661;11;156
+r;8872691;113317;135051;11;157
+r;8696331;113317;226703;11;163
+r;8696333;113317;226705;11;163
+r;8710699;113317;247211;11;163
+r;8716195;113317;252592;11;163
+r;8605868;113317;104841;11;164
+r;8627785;113317;162048;11;164
+r;8693244;113317;221767;11;164
+r;8695483;113317;225246;11;164
+r;8696627;113317;227070;11;164
+r;8698798;113317;230210;11;164
+r;8699245;113317;230705;11;164
+r;8699650;113317;231136;11;164
+r;8699888;113317;231461;11;164
+r;8699965;113317;231551;11;164
+r;8702291;113317;234732;11;164
+r;8704717;113317;237376;11;164
+r;8707513;113317;242346;11;164
+r;8707514;113317;242347;11;164
+r;8708221;113317;243766;11;164
+r;8710638;113317;247138;11;164
+r;8712035;113317;248665;11;164
+r;8714633;113317;251098;11;164
+r;8714635;113317;251099;11;164
+r;8714637;113317;251100;11;164
+r;8730105;113317;263020;11;164
+r;8581385;113317;34438;11;165
+r;8582692;113317;38202;11;165
+r;8583938;113317;41850;11;165
+r;8587840;113317;52958;11;165
+r;8591395;113317;63134;11;165
+r;8592651;113317;67008;11;165
+r;8595512;113317;75433;11;165
+r;8596763;113317;78995;11;165
+r;8600000;113317;88279;11;165
+r;8601315;113317;91913;11;165
+r;8602588;113317;95710;11;165
+r;8607258;113317;108492;11;165
+r;8608216;113317;111189;11;165
+r;8609720;113317;115317;11;165
+r;8610805;113317;118445;11;165
+r;8611971;113317;121696;11;165
+r;8621158;113317;143910;11;165
+r;8621981;113317;146195;11;165
+r;8626620;113317;159895;11;165
+r;8627658;113317;161842;11;165
+r;8685060;113317;210317;11;165
+r;8687934;113317;212422;11;165
+r;8740374;113317;272746;11;165
+r;8742758;113317;274867;11;165
+r;8747111;113317;279640;11;165
+r;8749144;113317;281798;11;165
+r;8754350;113317;286825;11;165
+r;8757806;113317;289827;11;165
+r;8762674;113317;295409;11;165
+r;8770950;113317;304663;11;165
+r;8771422;113317;305312;11;165
+r;8773944;113317;308226;11;165
+r;8574219;113317;12707;11;166
+r;8580683;113317;32352;11;166
+r;8582295;113317;36965;11;166
+r;8582852;113317;38696;11;166
+r;8582949;113317;38961;11;166
+r;8585355;113317;46100;11;166
+r;8585383;113317;46151;11;166
+r;8585555;113317;46616;11;166
+r;8586054;113317;48026;11;166
+r;8586291;113317;48681;11;166
+r;8588518;113317;54839;11;166
+r;8592516;113317;66675;11;166
+r;8593127;113317;68316;11;166
+r;8593448;113317;69313;11;166
+r;8595898;113317;76640;11;166
+r;8597925;113317;82407;11;166
+r;8598029;113317;82734;11;166
+r;8598590;113317;84375;11;166
+r;8598990;113317;85391;11;166
+r;8599819;113317;87744;11;166
+r;8601724;113317;93179;11;166
+r;8603491;113317;98061;11;166
+r;8603695;113317;98656;11;166
+r;8603756;113317;98848;11;166
+r;8613734;113317;126634;11;166
+r;8613848;113317;126961;11;166
+r;8619595;113317;140282;11;166
+r;8620171;113317;141501;11;166
+r;8620584;113317;142493;11;166
+r;8620675;113317;142646;11;166
+r;8622191;113317;146782;11;166
+r;8623963;113317;154490;11;166
+r;8637840;113317;181136;11;166
+r;8641391;113317;183198;11;166
+r;8659651;113317;195101;11;166
+r;8735811;113317;267889;11;166
+r;8738235;113317;270706;11;166
+r;8739119;113317;271588;11;166
+r;8739656;113317;272137;11;166
+r;8740516;113317;272866;11;166
+r;8741366;113317;273565;11;166
+r;8741443;113317;273616;11;166
+r;8741445;113317;273617;11;166
+r;8742082;113317;274222;11;166
+r;8742792;113317;274897;11;166
+r;8745843;113317;278108;11;166
+r;8747114;113317;279645;11;166
+r;8748815;113317;281463;11;166
+r;8751747;113317;284552;11;166
+r;8753610;113317;286315;11;166
+r;8753669;113317;286363;11;166
+r;8754355;113317;286827;11;166
+r;8754823;113317;287224;11;166
+r;8754825;113317;287225;11;166
+r;8755384;113317;287691;11;166
+r;8755386;113317;287693;11;166
+r;8758084;113317;290128;11;166
+r;8759067;113317;291219;11;166
+r;8760229;113317;292477;11;166
+r;8760230;113317;292478;11;166
+r;8760907;113317;293255;11;166
+r;8761585;113317;294122;11;166
+r;8762882;113317;295633;11;166
+r;8764332;113317;297345;11;166
+r;8764827;113317;297910;11;166
+r;8774865;113317;309036;11;166
+r;8776184;113317;310296;11;166
+r;8776420;113317;310556;11;166
+r;8776597;113317;310721;11;166
+r;8778963;113317;312642;11;166
+r;8579445;113317;28581;11;167
+r;8579922;113317;29822;11;167
+r;8615663;113317;132035;11;167
+r;8616865;113317;135400;11;167
+r;8616964;113317;135667;11;167
+r;8617670;113317;137106;11;167
+r;8661368;113317;196403;11;167
+r;8778998;113317;312674;11;167
+r;8570691;113317;2082;11;169
+r;8571905;113317;5855;11;169
+r;8572826;113317;8540;11;169
+r;8573501;113317;10696;11;169
+r;8572792;113317;8440;11;171
+r;8572988;113317;9072;11;171
+r;8573476;113317;10624;11;171
+r;8572680;113317;8164;11;315

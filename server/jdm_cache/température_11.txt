@@ -1,0 +1,752 @@
+
+e;40531;'température';1;1465
+e;6285489;'acclimatement à basse température';1;0
+e;6298438;'hypothermie due à une baisse de la température ambiante';1;0
+e;6331555;'culture microbienne à la température de la pièce';1;0
+e;6337540;'acclimatement à haute température';1;0
+e;6343226;'agnosie pour la température';1;0
+e;6383744;'régulation de la température corporelle';1;0
+e;12195719;'mesure de volume dérivation fonctionnelle ajusté à la température du patient';1;0
+e;12190506;'mesure de température environnementale durant le transport';1;0
+e;12190504;'identification du type de température corporelle dans des circonstances spéciales';1;0
+e;12190502;'mesure de température corporelle après réaction transfusionnelle';1;0
+e;12190475;'mesure de température corporelle';1;0
+e;12190472;'mesure de température';1;0
+e;12177155;'mesure de ph ajusté température patient';1;0
+e;12174926;'mesure d'oxygène ajustée température patient';1;0
+e;12161618;'mesure d'index horowitz ajusté température patient';1;0
+e;12160650;'mesure d'hydrogène ion ajusté température patient';1;0
+e;12146240;'mesure de différence de température';1;0
+e;12132632;'mesure de carbone dioxyde ajusté température patient';1;0
+e;12231878;'mesure d'index horowitz ajusté température patient | technique indéterminée | sang+gaz inhalé | ponctuel | résultat numérique | ratio';1;0
+e;12231877;'mesure d'index horowitz ajusté température patient | technique indéterminée | sang veineux+gaz inhalé | ponctuel | résultat numérique | ratio';1;0
+e;12231876;'mesure d'index horowitz ajusté température patient | technique indéterminée | sang mêlé veineux+gaz inhalé | ponctuel | résultat numérique | ratio';1;0
+e;12231875;'mesure d'index horowitz ajusté température patient | technique indéterminée | sang capillaire+gaz inhalé | ponctuel | résultat numérique | ratio';1;0
+e;12231874;'mesure d'index horowitz ajusté température patient | technique indéterminée | sang artériel+gaz inhalé | ponctuel | résultat numérique | ratio';1;0
+e;6385290;'prise de la température par voie rectale';1;0
+e;6363140;'hypothermie non associée à une baisse de la température ambiante';1;0
+e;6401992;'études du gradient de température';1;0
+e;13656202;'Échelle internationale de température de 1990';777;0
+e;13737643;'température supérieure à 38°C';1;0
+e;14025369;'température du solidus';777;0
+e;14070699;'contrôleur de température des gaz d'échappement';1;0
+e;14222184;'température de Debye';777;0
+e;14537452;'La température';777;0
+e;14558336;'écarts de température';1;4
+e;14589977;'élévation de la température du corps';1;0
+e;14596912;'température canonique';777;0
+e;14596911;'température microcanonique';777;0
+e;14609162;'chauffage haute température';1;0
+e;14610991;'changements de pression et de température';1;0
+e;14610992;'changement de pression et de température';1;0
+e;14611020;'température d'ébullition';1;0
+e;14611021;'à température ordinaire';1;0
+e;14627586;'hausse de la température';1;0
+e;14635624;'température neutronique';777;0
+e;14686952;'animaux terrestres à température variable';1;0
+e;14686953;'animal terrestre à température variable';1;0
+e;14686954;'animaux à température variable';1;0
+e;14686955;'animal à température variable';1;0
+e;6392952;'température chaude';1;0
+e;6333234;'exposition professionnelle à une température extrême';1;0
+e;15014724;'température basse';1;0
+e;6403967;'exposition à une température extrême';1;0
+e;15430659;'prendre la température de [qqn]';1;0
+e;6301442;'température diminuée';1;0
+e;6310299;'sensation de modification de la température corporelle';1;0
+e;6339835;'température froide';1;0
+e;6351901;'brûlure par chaleur à basse température';1;0
+e;15782836;'température de solidification';777;0
+e;15379436;'Résistance à la température';1;0
+e;15650772;'changement de température';1;0
+e;15394185;'de température';1;0
+e;15388139;'diagramme de température';1;0
+e;15526141;'différences extrêmes de température';1;0
+e;15773064;'détermination du sexe en fonction de la température';777;0
+e;15571842;'emballage à température dirigée';1;0
+e;16170742;'vérification de la température';1;0
+e;16326001;'température corporelle humaine';1;0
+e;16326430;'température 5';777;0
+e;6427079;'élévation de la température corporelle';1;0
+e;5951675;'temps-température';1;0
+e;6296811;'effets d'une baisse de température';1;0
+e;6302680;'effet non précisé d'une température réduite';1;0
+e;6325470;'anomalies de la température corporelle';1;0
+e;6325660;'modifications de la température corporelle';1;0
+e;6325259;'différence de température des membres';1;0
+e;6343092;'fluctuations de la température corporelle';1;0
+e;6344040;'troubles de la température corporelle';1;0
+e;6348532;'différence de température des bras';1;0
+e;6354832;'effets d'une température réduite';1;0
+e;6358990;'différence de température des jambes';1;0
+e;6375912;'récepteurs à la température';1;0
+e;6395669;'prise de la température par voie orale';1;0
+e;6398627;'autres troubles de la régulation de la température chez le nouveau-né';1;0
+e;12091882;'carbone dioxyde ajusté température patient';1;0
+e;12237397;'mesure d'oxygène ajustée température patient | technique indéterminée | sang veineux | ponctuel | résultat numérique | pression partielle';1;0
+e;12237396;'mesure d'oxygène ajustée température patient | technique indéterminée | sang mêlé veineux | ponctuel | résultat numérique | pression partielle';1;0
+e;12237395;'mesure d'oxygène ajustée température patient | technique indéterminée | sang de cordon veineux | ponctuel | résultat numérique | pression partielle';1;0
+e;12237394;'mesure d'oxygène ajustée température patient | technique indéterminée | sang de cordon artériel | ponctuel | résultat numérique | pression partielle';1;0
+e;12237393;'mesure d'oxygène ajustée température patient | technique indéterminée | sang de cordon | ponctuel | résultat numérique | pression partielle';1;0
+e;12237392;'mesure d'oxygène ajustée température patient | technique indéterminée | sang capillaire | ponctuel | résultat numérique | pression partielle';1;0
+e;12237391;'mesure d'oxygène ajustée température patient | technique indéterminée | sang artériel | ponctuel | résultat numérique | pression partielle';1;0
+e;12237390;'mesure d'oxygène ajustée température patient | technique indéterminée | sang | ponctuel | résultat numérique | pression partielle';1;0
+e;6328709;'test de perception de la température augmenté';1;0
+e;6355038;'test de perception de la température normal';1;0
+e;14671053;'température positive';1;4
+e;6425175;'sensation de changement de température';1;0
+e;5812261;'temps-température-transformation';1;0
+e;6305686;'troubles de la température du corps';1;0
+e;6314954;'autres effets précisés d'une baisse de la température';1;0
+e;6352679;'autres effets d'une baisse de la température';1;0
+e;6356847;'troubles intéressants la peau et la régulation de la température chez le foetus et le nouveau-né';1;0
+e;12098905;'index horowitz ajusté température patient';1;0
+e;12098680;'hydrogène ion ajusté température patient';1;0
+e;12095218;'différence de température';1;0
+e;12238362;'mesure de ph ajusté température patient | technique indéterminée | sang veineux | ponctuel | résultat numérique | log de concentration';1;0
+e;12238361;'mesure de ph ajusté température patient | technique indéterminée | sang mêlé veineux | ponctuel | résultat numérique | log de concentration';1;0
+e;12238360;'mesure de ph ajusté température patient | technique indéterminée | sang de cordon veineux | ponctuel | résultat numérique | log de concentration';1;0
+e;12238359;'mesure de ph ajusté température patient | technique indéterminée | sang de cordon artériel | ponctuel | résultat numérique | log de concentration';1;0
+e;12238358;'mesure de ph ajusté température patient | technique indéterminée | sang de cordon | ponctuel | résultat numérique | log de concentration';1;0
+e;12238357;'mesure de ph ajusté température patient | technique indéterminée | sang capillaire | ponctuel | résultat numérique | log de concentration';1;0
+e;12238356;'mesure de ph ajusté température patient | technique indéterminée | sang artériel | ponctuel | résultat numérique | log de concentration';1;0
+e;12238355;'mesure de ph ajusté température patient | technique indéterminée | sang | ponctuel | résultat numérique | log de concentration';1;0
+e;6349530;'test de perception de la température anormal';1;0
+e;6423024;'autres effets précisés d'une température réduite';1;0
+e;12102929;'ph ajusté température patient';1;0
+e;12102317;'oxygène ajustée température patient';1;0
+e;6372925;'test de perception de la température diminué';1;0
+e;15978954;'La température dépassait les trente degrés.';1;0
+e;6434529;'détection de l'ovulation par la méthode de la température corporelle basale';1;0
+e;12108570;'volume dérivation fonctionnelle ajusté à la température du patient';1;0
+e;12107159;'température environnementale durant le transport';1;0
+e;12107158;'température corporelle dans des circonstances spéciales';1;0
+e;12107157;'température corporelle après réaction transfusionnelle';1;0
+e;5817052;'température équivalente';777;0
+e;5816766;'température de transition fragile-ductile';777;0
+e;5816643;'température virtuelle';777;0
+e;6427790;'régulation de la température du corps';1;0
+e;6423817;'température organique';1;0
+e;5815070;'échelle de température relative';1;0
+e;6447490;'température d'organe';1;0
+e;10032714;'température de fusion d'un polymère';777;0
+e;6431990;'température inadéquate au cours d'application locale ou de tamponnement';1;0
+e;10994418;'température de transformation critique';777;0
+e;12032365;'température celsius';1;0
+e;5919997;'température limite de filtrabilité';777;0
+e;5918859;'température de ramollissement Vicat';777;0
+e;12882253;'gradient de température';1;0
+e;5855239;'température d'équilibre à la surface d'une planète';777;0
+e;5896984;'température de transition vitreuse';777;0
+e;12032364;'température inverse';1;0
+e;12076964;'adsorption à température modulée';1;0
+e;11360931;'température ambiante et pression normale';777;0
+e;11360930;'température et pression normales';777;0
+e;12050413;'maintenir les équipements de cuisine à la température adéquate';1;0
+e;5855240;'température équivalente de corps noir';777;0
+e;11101020;'température basale';777;0
+e;11539949;'réacteur nucléaire à très haute température';777;0
+e;12052342;'surveiller la température dans la production d'aliments et de boissons';1;0
+e;12081484;'température de l'azote liquide';1;0
+e;12243072;'détermination de la présence de test direct à l'antiglobuline (tda) complément spécifique | incubation à température ambiante 5min | Érythrocytes | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;5636240;'température de fusion du corps simple';777;0
+e;12052286;'température patient';1;0
+e;5811064;'oxydation à haute température';777;0
+e;5810164;'dérivée logarithmique d'une grandeur physique par rapport à la température';1;0
+e;6430576;'intolérance à la température';1;0
+e;11302424;'zone de température';777;0
+e;11302423;'Plage de température';777;0
+e;13404855;'abaisser sa température';1;0
+e;13406145;'température du thermomètre mouillé';777;0
+e;13406146;'température humide';777;0
+e;13406156;'température potentielle du thermomètre mouillé';777;0
+e;11302854;'incubation à température ambiante 5min';1;0
+e;11302853;'incubation à température ambiante 3 jours';1;0
+e;13406140;'liste des pays par température moyenne';777;0
+e;13406155;'température pseudo-potentielle du thermomètre mouillé';777;0
+e;13406141;'anomalie de température';777;0
+e;13404987;'réguler sa température corporelle';1;0
+e;5800911;'cuisson à basse température';777;2
+e;5942895;'réduction en température programmée';777;0
+e;5983370;'température potentielle équivalente';777;0
+e;6435077;'risque d'altération de la température corporelle';1;0
+e;7333928;'métrique de température';1;0
+e;11253623;'température fraîche';1;0
+e;5811063;'corrosion à haute température';777;0
+e;5855242;'température de radiation d'émission effective';777;0
+e;6445073;'détection de l'ovulation par la méthode de la température basale du corps';1;0
+e;11182190;'température du point givrage';777;0
+e;6006443;'mesure de température par satellite';777;0
+e;13293941;'température de l'eau';1;0
+e;2372691;'température de vaporisation';1;0
+e;2421944;'température de la pièce';1;0
+e;5943214;'température de fléchissement sous charge';777;0
+e;6526955;'température corporelle et problèmes apparentés';1;0
+e;7333997;'métrique température';1;0
+e;12267852;'ordres de grandeur de température';777;0
+e;12267806;'température de jonction';777;0
+e;12765554;'température maximale de stockage en sécurité';777;0
+e;5983859;'température de surface de la mer';777;0
+e;5982643;'température potentielle';777;0
+e;6447382;'surveillance par moniteur de la température du patient par l'infirmière';1;0
+e;12245000;'mesure de volume dérivation fonctionnelle ajusté à la température du patient | technique indéterminée | sang artériel | ponctuel | résultat numérique | fraction volumique';1;0
+e;5984671;'électrolyse à haute température';777;0
+e;12245001;'mesure de volume dérivation fonctionnelle ajusté à la température du patient | technique indéterminée | sang artériel+sang mélé veineux | ponctuel | résultat numérique | fraction volumique';1;0
+e;8758110;'ajuster la température';1;0
+e;8750176;'baisse de la température';1;0
+e;9209824;'modifier la température';1;0
+e;9259319;'variations de température';1;0
+e;9636505;'faire de la température';1;0
+e;11135266;'température plafond';777;0
+e;11135270;'polymère sensible à la température';777;0
+e;12242943;'mesure de température corporelle | via foley | vessie | ponctuel | résultat numérique | température';1;0
+e;12242942;'mesure de température corporelle | technique indéterminée | vessie | ponctuel | résultat numérique | température';1;0
+e;12242941;'mesure de température corporelle | technique indéterminée | système intravasculaire | ponctuel | résultat numérique | température';1;0
+e;12242940;'mesure de température corporelle | technique indéterminée | système artériel | ponctuel | résultat numérique | température';1;0
+e;12242939;'mesure de température corporelle | technique indéterminée | surface | ponctuel | résultat numérique | température';1;0
+e;12242938;'mesure de température corporelle | technique indéterminée | sang veineux | ponctuel | résultat numérique | température';1;0
+e;12242937;'mesure de température corporelle | technique indéterminée | sang | ponctuel | résultat numérique | température';1;0
+e;12242936;'mesure de température corporelle | technique indéterminée | rectum | ponctuel | résultat numérique | température';1;0
+e;12242935;'mesure de température corporelle | technique indéterminée | prélèvement axillaire | ponctuel | résultat numérique | température';1;0
+e;12242934;'mesure de température corporelle | technique indéterminée | patient | ponctuel | résultat numérique | température';1;0
+e;12242933;'mesure de température corporelle | technique indéterminée | orteil | ponctuel | résultat numérique | température';1;0
+e;12242932;'mesure de température corporelle | technique indéterminée | oreille | ponctuel | résultat numérique | température';1;0
+e;12242931;'mesure de température corporelle | technique indéterminée | oesophage | ponctuel | résultat numérique | température';1;0
+e;12242930;'mesure de température corporelle | technique indéterminée | nez | ponctuel | résultat numérique | température';1;0
+e;12242929;'mesure de température corporelle | technique indéterminée | nasopharyngée | ponctuel | résultat numérique | température';1;0
+e;12242928;'mesure de température corporelle | technique indéterminée | myocarde | ponctuel | résultat numérique | température';1;0
+e;12242927;'mesure de température corporelle | technique indéterminée | membrane tympanique | ponctuel | résultat numérique | température';1;0
+e;12242926;'mesure de température corporelle | technique indéterminée | incubateur pédiatrique | ponctuel | résultat numérique | température';1;0
+e;12242925;'mesure de température corporelle | technique indéterminée | doigt | ponctuel | résultat numérique | température';1;0
+e;12242924;'mesure de température corporelle | technique indéterminée | patient | consultation 1 | résultat numérique | température';1;0
+e;12242923;'mesure de température corporelle | technique indéterminée | bouche | ponctuel | résultat numérique | température';1;0
+e;12242922;'mesure de température corporelle | technique indéterminée | milieux divers | 24h min | résultat numérique | température';1;0
+e;12242921;'mesure de température | technique indéterminée | urine | ponctuel | résultat numérique | température';1;0
+e;12242920;'mesure de température | technique indéterminée | sperme | ponctuel | résultat numérique | température';1;0
+e;12664561;'température normale';1;2
+e;12688461;'température de changement de phase';1;0
+e;12690927;'température moyenne de l'Univers';777;0
+e;12733877;'changement de volume à pression constante en fonction de la température';1;0
+e;13742288;'03 température corporelle';1;0
+e;13771951;'030-034 température corporelle et problèmes apparentés';1;0
+e;15350005;'Il possède quatre réglages de température.';1;0
+e;15300876;'Cette chemise doit être lavée à basse température.';1;0
+e;4406711;'baisser la température';1;0
+e;2578999;'très basse température';1;0
+e;3223264;'température de hawking';1;0
+e;3223261;'température constante';1;0
+e;3757714;'lait ribot à température ambiante';1;0
+e;3757608;'lait à température ambiante';1;0
+e;3755346;'fromage Saint Morêt à température ambiante';1;0
+e;3753085;'faux babeurre à température ambiante';1;0
+e;3753060;'gros oeufs idéalement à température ambiante';1;0
+e;1845921;'température létale';1;0
+e;3223265;'température de planck';1;0
+e;3319935;'courte durée à haute température';1;0
+e;3319836;'lait chauffé à ultra-haute température';1;0
+e;3368465;'rôti de porc en terrine 'basse température'';1;0
+e;3758120;'beurre fondu à température ambiante';1;0
+e;3752128;'beurre à température ambiante coupé en dés';1;0
+e;5246571;'température polaire';1;20
+e;3321104;'pasteurisation à haute température de brève durée';1;0
+e;3759038;'margarine à température ambiante';1;0
+e;3758339;'gros blancs d'oeufs à température ambiante';1;0
+e;3754670;'champagne à température ambiante';1;0
+e;3752168;'huile haute température';1;0
+e;1850791;'température d'ignition spontanée';1;0
+e;3223260;'température interne';1;0
+e;3751308;'beurre à température ambiante';1;0
+e;4301274;'température résultante sèche';777;0
+e;4874197;'unité de température';1;4
+e;5037757;'pièce à température constante';1;0
+e;567383;'température des neutrons';777;50
+e;3232503;'élévation de température';1;0
+e;3364949;'noix de veau marinée cuite à basse température';1;0
+e;3756285;'beurre à température ambiante coupé en cubes';1;0
+e;3755134;'rôti de boeuf cuit saignant ramené à température ambiante';1;0
+e;3755066;'cream cheese à température ambiante';1;0
+e;4313098;'température glaciale';1;18
+e;5983361;'température des gaz d'échappement';777;0
+e;465376;'conditions normales de température et de pression';777;50
+e;1373802;'température de cuisson';1;6
+e;2517808;'température de Planck';1;0
+e;2489482;'température de sublimation';1;0
+e;3295900;'température ressentie';1;0
+e;3758108;'beurre ou de margarine à température ambiante';1;0
+e;3757807;'fromage à tartiner à température ambiante';1;0
+e;3753892;'beurre doux à température ambiante';1;0
+e;3752927;'beurre coupé en morceaux à température ambiante';1;0
+e;4874199;'température thermodynamique';1;0
+e;1965803;'température de Hawking';1;0
+e;3232956;'prise de la température';1;0
+e;3751111;'blancs d'oeufs à température ambiante';1;0
+e;3757614;'lait entier à température ambiante';1;0
+e;3757576;'fromage à tartiner type St Moret ou Philadelphia à température ambiante';1;0
+e;3753539;'fromage à tartiner style St Moret à température ambiante';1;0
+e;3320039;'ultra-haute température';1;0
+e;3753530;'oeuf entiers à température';1;0
+e;3752718;'nutella à température ambiante';1;0
+e;4060877;'température résultante';1;0
+e;1858844;'température de rosée';777;0
+e;2708038;'température de';777;0
+e;3319144;'lait chauffé à température ultra haute';1;0
+e;3751256;'beurre coupé en dés à température ambiante';1;0
+e;3758240;'beurre coupé en dés et à température ambiante';1;0
+e;3757612;'blancs d'oeuf à température ambiante';1;0
+e;3753088;'oeufs à température ambiante';1;0
+e;567925;'sondes de température';777;50
+e;1845922;'mesure de la température';1;0
+e;2648298;'à la température ordinaire';1;0
+e;3223263;'température de curie';1;0
+e;3321472;'chauffage à ultra-haute température';1;0
+e;3319146;'lait à ultra haute température';1;0
+e;3757279;'beurre à température ambiante découpé en dés';1;0
+e;3755067;'café serré à température ambiante';1;0
+e;3752008;'fromage frais à tartiner type Philadelphia à température ambiante';1;0
+e;3918748;'température opérative';1;0
+e;4874293;'température négative';1;12
+e;1845920;'température critique';1;0
+e;1902110;'lait ultrahaute température';1;0
+e;383187;'température diurne';1;50
+e;383182;'température d'eutexie';1;50
+e;380357;'sonde de température';1;50
+e;388121;'à basse température';1;50
+e;383198;'température de transition';1;50
+e;383197;'température de stagnation';1;50
+e;383188;'température globale';1;50
+e;383181;'température caniculaire';1;50
+e;380664;'sous certaines conditions de température';1;50
+e;383200;'température sous abri';1;56
+e;383192;'température moyenne';1;50
+e;383190;'température maximale';1;50
+e;383189;'température intenable';1;50
+e;383185;'température de saison';1;50
+e;383183;'température d'émergence';1;50
+e;358428;'idéal de température';1;50
+e;383199;'température hivernale';1;64
+e;383196;'température de la source froide';1;50
+e;383194;'température terrestre';1;50
+e;383193;'température nocturne';1;50
+e;371456;'pointe de température';1;50
+e;389163;'écart de température';1;62
+e;383195;'température d'évaporation';1;50
+e;383184;'température de la source chaude';1;50
+e;383180;'température atmosphérique';1;50
+e;335423;'animal à température constante';1;50
+e;388715;'à la température normale';1;50
+e;388914;'à température normale';1;50
+e;383186;'température de transition supraconductrice';1;50
+e;383191;'température minimale';1;50
+e;358853;'indicateur de température';1;50
+e;388913;'à température constante';1;50
+e;386241;'variation de température';1;50
+e;388260;'à haute température';1;50
+e;352515;'essai à basse température';1;50
+e;323122;'ultra-haute-température';1;50
+e;323123;'ultra haute température';1;52
+e;316502;'température ambiante';1;50
+e;231663;'prendre la température';1;68
+e;237709;'courbe de température';1;2
+e;238025;'température estivale';1;50
+e;251542;'température corporelle';1;28
+e;251547;'température buccale';1;14
+e;251549;'température rectale';1;10
+e;251550;'prendre sa température';1;46
+e;256518;'haute température';1;6
+e;258210;'chute de température';1;50
+e;261888;'température anale';1;10
+e;116849;'inversion de température';1;50
+e;208846;'température au-dessous de zéro';1;50
+e;307600;'température d'ébullition standard';777;50
+e;36881;'réacteurs à haute température';1;50
+e;45262;'température absolue';1;50
+e;123763;'Étalons de température';1;50
+e;181594;'coefficient de température';1;50
+e;183989;'réacteur à très haute température';1;50
+e;184475;'température de fusion';1;52
+e;264321;'température axillaire';1;14
+e;278669;'température corporelle centrale';1;50
+e;283846;'échelle de température centigrade';777;50
+e;309621;'à la température';777;50
+e;297729;'température de Curie';777;50
+e;27380;'abaissement de la température';1;50
+e;313005;'prise de température';1;56
+e;11203;'température de couleur';1;50
+e;157633;'basse température';1;62
+e;161778;'température élevée';1;64
+e;157732;'avoir de la température';1;72
+r;298037406;40531;6285489;11;25
+r;299031908;40531;6298438;11;25
+r;300965632;40531;6331555;11;25
+r;301427695;40531;6337540;11;25
+r;301495051;40531;6343226;11;25
+r;303984057;40531;6383744;11;25
+r;316559482;40531;12195719;11;25
+r;316578080;40531;12190506;11;25
+r;316578096;40531;12190504;11;25
+r;316578107;40531;12190502;11;25
+r;316578142;40531;12190475;11;25
+r;316578152;40531;12190472;11;25
+r;316639251;40531;12177155;11;25
+r;316646643;40531;12174926;11;25
+r;316688301;40531;12161618;11;25
+r;316690584;40531;12160650;11;25
+r;316737116;40531;12146240;11;25
+r;316782363;40531;12132632;11;25
+r;318679401;40531;12231878;11;25
+r;318679427;40531;12231877;11;25
+r;318679455;40531;12231876;11;25
+r;318679485;40531;12231875;11;25
+r;318679513;40531;12231874;11;25
+r;319068033;40531;6385290;11;25
+r;341147950;40531;6363140;11;25
+r;341228826;40531;6401992;11;25
+r;346928074;40531;13656202;11;25
+r;348355871;40531;13737643;11;25
+r;354205952;40531;14025369;11;25
+r;355762368;40531;14070699;11;25
+r;360989714;40531;14222184;11;25
+r;369489122;40531;14537452;11;25
+r;369917100;40531;14558336;11;25
+r;370719734;40531;14589977;11;25
+r;370907577;40531;14596912;11;25
+r;370907680;40531;14596911;11;25
+r;371226366;40531;14609162;11;25
+r;371303528;40531;14610991;11;25
+r;371303653;40531;14610992;11;25
+r;371303743;40531;14611020;11;25
+r;371304036;40531;14611021;11;25
+r;371551268;40531;14627586;11;25
+r;371755096;40531;14635624;11;25
+r;373324458;40531;14686952;11;25
+r;373324479;40531;14686953;11;25
+r;373324493;40531;14686954;11;25
+r;373324518;40531;14686955;11;25
+r;400802444;40531;6392952;11;25
+r;399504481;40531;6333234;11;25
+r;392146076;40531;15014724;11;25
+r;400879339;40531;6403967;11;25
+r;395412090;40531;15430659;11;25
+r;397532431;40531;6301442;11;25
+r;398246860;40531;6310299;11;25
+r;399680801;40531;6339835;11;25
+r;400003331;40531;6351901;11;25
+r;410071698;40531;15782836;11;25
+r;419537664;40531;15379436;11;25
+r;419699334;40531;15650772;11;25
+r;419770309;40531;15394185;11;25
+r;419779042;40531;15388139;11;25
+r;419780268;40531;15526141;11;25
+r;419828880;40531;15773064;11;25
+r;419834321;40531;15571842;11;25
+r;424064197;40531;16170742;11;25
+r;430814351;40531;16326001;11;25
+r;431145657;40531;16326430;11;25
+r;122718496;40531;6427079;11;26
+r;295953257;40531;5951675;11;26
+r;298948362;40531;6296811;11;26
+r;299323819;40531;6302680;11;26
+r;300188759;40531;6325470;11;26
+r;300191622;40531;6325660;11;26
+r;300191779;40531;6325259;11;26
+r;301493325;40531;6343092;11;26
+r;301512536;40531;6344040;11;26
+r;301721622;40531;6348532;11;26
+r;301761863;40531;6354832;11;26
+r;302076116;40531;6358990;11;26
+r;303631056;40531;6375912;11;26
+r;305001152;40531;6395669;11;26
+r;305128447;40531;6398627;11;26
+r;315638226;40531;12091882;11;26
+r;318562454;40531;12237397;11;26
+r;318562482;40531;12237396;11;26
+r;318562512;40531;12237395;11;26
+r;318562542;40531;12237394;11;26
+r;318562572;40531;12237393;11;26
+r;318562600;40531;12237392;11;26
+r;318562628;40531;12237391;11;26
+r;318562656;40531;12237390;11;26
+r;349207263;40531;6328709;11;26
+r;349211065;40531;6355038;11;26
+r;373069150;40531;14671053;11;26
+r;122733106;40531;6425175;11;27
+r;294421705;40531;5812261;11;27
+r;299486716;40531;6305686;11;27
+r;299637187;40531;6314954;11;27
+r;301747234;40531;6352679;11;27
+r;301810064;40531;6356847;11;27
+r;315586534;40531;12098905;11;27
+r;315588224;40531;12098680;11;27
+r;315613956;40531;12095218;11;27
+r;318493262;40531;12238362;11;27
+r;318493293;40531;12238361;11;27
+r;318493328;40531;12238360;11;27
+r;318493372;40531;12238359;11;27
+r;318493409;40531;12238358;11;27
+r;318493450;40531;12238357;11;27
+r;318493494;40531;12238356;11;27
+r;318493540;40531;12238355;11;27
+r;349188565;40531;6349530;11;27
+r;122749918;40531;6423024;11;28
+r;315550583;40531;12102929;11;28
+r;315555646;40531;12102317;11;28
+r;349206817;40531;6372925;11;28
+r;417155686;40531;15978954;11;28
+r;121576923;40531;6434529;11;29
+r;315493729;40531;12108570;11;29
+r;315506092;40531;12107159;11;29
+r;315506101;40531;12107158;11;29
+r;315506113;40531;12107157;11;29
+r;113773520;40531;5817052;11;31
+r;113774852;40531;5816766;11;31
+r;113775465;40531;5816643;11;31
+r;122712897;40531;6427790;11;31
+r;122743742;40531;6423817;11;31
+r;113781745;40531;5815070;11;32
+r;121460832;40531;6447490;11;32
+r;227629128;40531;10032714;11;32
+r;122679867;40531;6431990;11;33
+r;277922969;40531;10994418;11;33
+r;313608093;40531;12032365;11;33
+r;115844397;40531;5919997;11;34
+r;115848866;40531;5918859;11;34
+r;330763104;40531;12882253;11;34
+r;114444540;40531;5855239;11;35
+r;115108723;40531;5896984;11;35
+r;313324921;40531;12032364;11;35
+r;314736166;40531;12076964;11;35
+r;291370369;40531;11360931;11;36
+r;291501869;40531;11360930;11;36
+r;313693386;40531;12050413;11;36
+r;114444524;40531;5855240;11;37
+r;281497075;40531;11101020;11;37
+r;296334099;40531;11539949;11;37
+r;313762191;40531;12052342;11;37
+r;315107320;40531;12081484;11;37
+r;318273753;40531;12243072;11;37
+r;110949428;40531;5636240;11;38
+r;313728827;40531;12052286;11;38
+r;113274922;40531;5811064;11;39
+r;113277734;40531;5810164;11;39
+r;122691378;40531;6430576;11;39
+r;289307809;40531;11302424;11;39
+r;289308841;40531;11302423;11;39
+r;340516320;40531;13404855;11;39
+r;340516171;40531;13406145;11;39
+r;340516167;40531;13406146;11;39
+r;340516145;40531;13406156;11;39
+r;289318204;40531;11302854;11;40
+r;289319592;40531;11302853;11;40
+r;340319559;40531;13406140;11;40
+r;340231876;40531;13406155;11;40
+r;340231653;40531;13406141;11;40
+r;339799121;40531;13404987;11;40
+r;113311492;40531;5800911;11;41
+r;116311553;40531;5942895;11;41
+r;117901023;40531;5983370;11;41
+r;121572070;40531;6435077;11;41
+r;124394354;40531;7333928;11;41
+r;288440751;40531;11253623;11;41
+r;113274929;40531;5811063;11;42
+r;114444513;40531;5855242;11;42
+r;121482597;40531;6445073;11;42
+r;286848701;40531;11182190;11;42
+r;118525469;40531;6006443;11;43
+r;338932463;40531;13293941;11;43
+r;52046286;40531;2372691;11;44
+r;54496569;40531;2421944;11;44
+r;116310214;40531;5943214;11;44
+r;121444562;40531;6526955;11;44
+r;124394673;40531;7333997;11;45
+r;318717319;40531;12267852;11;45
+r;318711968;40531;12267806;11;46
+r;327622105;40531;12765554;11;47
+r;117898914;40531;5983859;11;48
+r;117903972;40531;5982643;11;48
+r;121461845;40531;6447382;11;48
+r;317988155;40531;12245000;11;48
+r;117894883;40531;5984671;11;49
+r;317988113;40531;12245001;11;49
+r;180161569;40531;8758110;11;50
+r;180161985;40531;8750176;11;50
+r;209749448;40531;9209824;11;50
+r;211705913;40531;9259319;11;50
+r;216891032;40531;9636505;11;50
+r;283053123;40531;11135266;11;50
+r;283054091;40531;11135270;11;50
+r;318277087;40531;12242943;11;50
+r;318277109;40531;12242942;11;50
+r;318277131;40531;12242941;11;50
+r;318277155;40531;12242940;11;50
+r;318277179;40531;12242939;11;50
+r;318277201;40531;12242938;11;50
+r;318277225;40531;12242937;11;50
+r;318277247;40531;12242936;11;50
+r;318277269;40531;12242935;11;50
+r;318277293;40531;12242934;11;50
+r;318277316;40531;12242933;11;50
+r;318277338;40531;12242932;11;50
+r;318277360;40531;12242931;11;50
+r;318277382;40531;12242930;11;50
+r;318277404;40531;12242929;11;50
+r;318277426;40531;12242928;11;50
+r;318277448;40531;12242927;11;50
+r;318277472;40531;12242926;11;50
+r;318277497;40531;12242925;11;50
+r;318277519;40531;12242924;11;50
+r;318277543;40531;12242923;11;50
+r;318277565;40531;12242922;11;50
+r;318277592;40531;12242921;11;50
+r;318277610;40531;12242920;11;50
+r;324117858;40531;12664561;11;50
+r;325029001;40531;12688461;11;50
+r;325171494;40531;12690927;11;50
+r;327079779;40531;12733877;11;50
+r;348971046;40531;13742288;11;50
+r;348971072;40531;13771951;11;50
+r;402109012;40531;15350005;11;50
+r;395013827;40531;15300876;11;50
+r;99494515;40531;4406711;11;51
+r;52657214;40531;2578999;11;51
+r;77538119;40531;3223264;11;51
+r;77538136;40531;3223261;11;51
+r;93663590;40531;3757714;11;51
+r;93664553;40531;3757608;11;51
+r;93686661;40531;3755346;11;51
+r;93707717;40531;3753085;11;51
+r;93707954;40531;3753060;11;51
+r;29881407;40531;1845921;11;52
+r;77538113;40531;3223265;11;52
+r;83668906;40531;3319935;11;52
+r;83669470;40531;3319836;11;52
+r;86161870;40531;3368465;11;52
+r;93659872;40531;3758120;11;52
+r;93716490;40531;3752128;11;52
+r;106432671;40531;5246571;11;52
+r;83663427;40531;3321104;11;53
+r;93650987;40531;3759038;11;53
+r;93657779;40531;3758339;11;53
+r;93692703;40531;3754670;11;53
+r;93716145;40531;3752168;11;53
+r;29857294;40531;1850791;11;54
+r;77538140;40531;3223260;11;54
+r;93622544;40531;3751308;11;54
+r;95854361;40531;4301274;11;54
+r;101908579;40531;4874197;11;54
+r;104848982;40531;5037757;11;54
+r;17092446;40531;567383;11;55
+r;78368028;40531;3232503;11;55
+r;86192530;40531;3364949;11;55
+r;93676669;40531;3756285;11;55
+r;93688534;40531;3755134;11;55
+r;93689191;40531;3755066;11;55
+r;97870181;40531;4313098;11;55
+r;117901081;40531;5983361;11;55
+r;16399736;40531;465376;11;56
+r;23342419;40531;1373802;11;56
+r;52468068;40531;2517808;11;56
+r;52481229;40531;2489482;11;56
+r;82046294;40531;3295900;11;56
+r;93659967;40531;3758108;11;56
+r;93662765;40531;3757807;11;56
+r;93700141;40531;3753892;11;56
+r;93709167;40531;3752927;11;56
+r;101909219;40531;4874199;11;56
+r;31657728;40531;1965803;11;57
+r;78384331;40531;3232956;11;57
+r;93597350;40531;3751111;11;57
+r;93664494;40531;3757614;11;57
+r;93664875;40531;3757576;11;57
+r;93703513;40531;3753539;11;57
+r;83668402;40531;3320039;11;58
+r;93703609;40531;3753530;11;58
+r;93710981;40531;3752718;11;58
+r;95163721;40531;4060877;11;58
+r;30073108;40531;1858844;11;59
+r;62114972;40531;2708038;11;59
+r;83673006;40531;3319144;11;59
+r;93630468;40531;3751256;11;59
+r;93658735;40531;3758240;11;59
+r;93664509;40531;3757612;11;59
+r;93707693;40531;3753088;11;59
+r;17175609;40531;567925;11;60
+r;29881405;40531;1845922;11;60
+r;60413770;40531;2648298;11;60
+r;77538125;40531;3223263;11;60
+r;83661534;40531;3321472;11;60
+r;83672992;40531;3319146;11;60
+r;93667599;40531;3757279;11;60
+r;93689179;40531;3755067;11;60
+r;93717596;40531;3752008;11;60
+r;95171931;40531;3918748;11;60
+r;101910460;40531;4874293;11;60
+r;29881411;40531;1845920;11;61
+r;30649927;40531;1902110;11;61
+r;12568795;40531;383187;11;101
+r;12568819;40531;383182;11;101
+r;12580063;40531;380357;11;101
+r;12548919;40531;388121;11;102
+r;12568751;40531;383198;11;102
+r;12568755;40531;383197;11;102
+r;12568791;40531;383188;11;102
+r;12568823;40531;383181;11;102
+r;12578855;40531;380664;11;102
+r;12568741;40531;383200;11;103
+r;12568777;40531;383192;11;103
+r;12568783;40531;383190;11;103
+r;12568787;40531;383189;11;103
+r;12568805;40531;383185;11;103
+r;12568815;40531;383183;11;103
+r;12669117;40531;358428;11;103
+r;12568747;40531;383199;11;104
+r;12568759;40531;383196;11;104
+r;12568769;40531;383194;11;104
+r;12568773;40531;383193;11;104
+r;12616429;40531;371456;11;104
+r;12545289;40531;389163;11;105
+r;12568765;40531;383195;11;105
+r;12568809;40531;383184;11;105
+r;12568827;40531;383180;11;105
+r;12764023;40531;335423;11;105
+r;12547021;40531;388715;11;106
+r;12546301;40531;388914;11;107
+r;12568799;40531;383186;11;107
+r;12568781;40531;383191;11;108
+r;12667413;40531;358853;11;108
+r;12546305;40531;388913;11;109
+r;12556425;40531;386241;11;109
+r;12548369;40531;388260;11;110
+r;12693189;40531;352515;11;110
+r;11846284;40531;323122;11;124
+r;9188817;40531;323123;11;148
+r;8920859;40531;316502;11;151
+r;8700032;40531;231663;11;161
+r;8704959;40531;237709;11;161
+r;8705181;40531;238025;11;161
+r;8715219;40531;251542;11;161
+r;8715229;40531;251547;11;161
+r;8715231;40531;251549;11;161
+r;8715234;40531;251550;11;161
+r;8721345;40531;256518;11;161
+r;8723709;40531;258210;11;161
+r;8728666;40531;261888;11;161
+r;8610295;40531;116849;11;162
+r;8682589;40531;208846;11;162
+r;8773282;40531;307600;11;162
+r;8582263;40531;36881;11;163
+r;8585060;40531;45262;11;163
+r;8612668;40531;123763;11;163
+r;8638616;40531;181594;11;163
+r;8642687;40531;183989;11;163
+r;8643537;40531;184475;11;163
+r;8731863;40531;264321;11;163
+r;8746296;40531;278669;11;163
+r;8751022;40531;283846;11;163
+r;8758372;40531;309621;11;163
+r;8764681;40531;297729;11;163
+r;8579055;40531;27380;11;164
+r;8779386;40531;313005;11;164
+r;8573684;40531;11203;11;168
+r;219701;40531;157633;11;189
+r;356130;40531;161778;11;218
+r;220858;40531;157732;11;259

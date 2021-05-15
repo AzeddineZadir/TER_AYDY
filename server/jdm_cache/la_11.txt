@@ -1,0 +1,30 @@
+
+e;142265;'la';1;336
+e;559;'La Famille Machber';1;50
+e;803;'la Méridienne';1;50
+e;316;'la barbe';1;50
+e;160;'la Grande Pâque russe';1;50
+e;524;'la Famille Cokalane';1;50
+e;1137;'La Colombe au vol populaire';1;50
+e;1268;'La Route des voyages spatiaux';1;50
+e;1030;'La Dame de Shalott';1;50
+e;1684;'La Ballade du vieux marin';1;50
+e;771;'La Célestine';1;50
+e;1348;'La Moldau';1;50
+e;775;'la Planète sauvage';1;50
+e;1246;'la conception des appareils';1;50
+e;764;'La Danse des putti';1;50
+r;8980931;142265;559;11;26
+r;8980945;142265;803;11;28
+r;8980916;142265;316;11;28
+r;8980911;142265;160;11;29
+r;8980927;142265;524;11;29
+r;8980963;142265;1137;11;29
+r;8980973;142265;1268;11;30
+r;8980954;142265;1030;11;30
+r;8981002;142265;1684;11;30
+r;8980943;142265;771;11;31
+r;8980981;142265;1348;11;31
+r;8980944;142265;775;11;32
+r;8980971;142265;1246;11;35
+r;8980942;142265;764;11;41

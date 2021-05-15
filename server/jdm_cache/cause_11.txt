@@ -1,0 +1,572 @@
+
+e;28044;'cause';1;334
+e;6290439;'soins maternels pour cause connue ou présumée de insuffisance du placenta';1;0
+e;6309314;'cause précisée de dystocie';1;0
+e;6337297;'cause inconnue de mortalité';1;0
+e;6357632;'petit rein de cause inconnue';1;0
+e;6366897;'cardionéphropathie hypertensive préexistante compliquant ou cause de soins obstétricaux pendant la puerpéralité';1;0
+e;6367532;'néphropathie hypertensive préexistante compliquant ou cause de soins obstétricaux pendant la grossesse';1;0
+e;6374279;'cause non précisée mais avec mention de lésions de la valvule mitrale';1;0
+e;6378974;'cardionéphropathie hypertensive préexistante compliquant ou cause de soins obstétricaux pendant la grossesse';1;0
+e;6389048;'exhumation pour établir la cause du décès';1;0
+e;6404346;'néphropathie hypertensive préexistante compliquant ou cause de soins obstétricaux pendant la puerpéralité';1;0
+e;6406466;'cause de décès inconnue';1;0
+e;13635632;'sensibilité à la cause animale';1;0
+e;13738751;'sans précision de cause';1;0
+e;14119904;'À cause la nuit';777;0
+e;14452202;'expropriation pour cause d'utilité publique';1;0
+e;14453085;'droits et libertés mis en cause lors des opérations électorales';1;0
+e;14453502;'cause exonératoire';1;0
+e;14605344;'mise en cause individuelle';1;0
+e;14605342;'mises en cause individuelles';1;0
+e;14610504;'chercher la cause d'un phénomène';1;0
+e;6396361;'mort subite de cause inconnue au cours de la puerpéralité';1;0
+e;15194203;'un groupe de travail militant pour la cause amazighe au sein de l'Union nationale des étudiants du Maroc';777;0
+e;6307438;'mort naturelle avec cause probable suspectée';1;0
+e;6350716;'mort foetale de cause non précisée';1;0
+e;16381439;'le sol sera maudit à cause de toi';777;0
+e;6302484;'sans cause précisée mais avec mention de maladie de la valvule aortique';1;0
+e;6306026;'verdict de décès sans cause déterminée';1;0
+e;6314327;'cause non précisée rhinite allergique';1;0
+e;6314943;'cause non précisée chondrocalcinose';1;0
+e;6324476;'cause non précisée sténose acquise du canal de l'oreille externe';1;0
+e;6345968;'cause non précisée impliquant le bras supérieur chondrocalcinose';1;0
+e;6357068;'délivrance d'un certificat médical de cause de décès';1;0
+e;6358682;'cause non précisée impliquant d'autres sites précisés chondrocalcinose';1;0
+e;6395600;'cause non précisée impliquant la main chondrocalcinose';1;0
+e;6416177;'cause non précisée impliquant la jambe inférieure chondrocalcinose';1;0
+e;6298284;'mort de cause indéterminée';1;0
+e;13632404;'épouser une cause';1;0
+e;14470912;'causes inconnues';1;0
+e;14537160;'obtenir gan de cause';1;0
+e;14537161;'désespoir de cause';1;0
+e;14727949;'cause commune';1;0
+e;14755599;'défendre une cause';1;0
+e;15038826;'ayants cause';1;0
+e;6425394;'hypertension chronique compliquant ou cause de soins obstétricaux pendant la puerpéralité';1;0
+e;6285630;'mort naturelle de cause suspectée';1;0
+e;6317644;'cause non précisée impliquant un site non précisé chondrocalcinose';1;0
+e;6381027;'avec mention d'une cause bactérienne autre que la tuberculose pleurésie avec épanchement';1;0
+e;6366847;'mort de cause inconnue';1;0
+e;6429036;'cause inconnue mort subite';1;0
+e;6423592;'péritonite de cause indéterminée';1;0
+e;6364492;'cause non précisée impliquant des sites multiples chondrocalcinose';1;0
+e;12989555;'activiste de la cause animale';1;0
+e;6442110;'chaleur excessive cause d'insolation';1;0
+e;10603108;'C'est ma cause';777;0
+e;11775318;'À ce jour et à cause de la crise économique ce projet est abandonné';777;0
+e;15537560;'de cause à effet';1;0
+e;15544149;'des primo-accédants exclus des banlieues avoisinantes à cause de la hausse des prix';1;0
+e;15604762;'donner gain de cause à';1;0
+e;15435741;'donner gain de cause à [qqn]';1;0
+e;15519283;'donner gain de cause à quelqu'un';1;0
+e;15435493;'donner son nom à une cause';1;0
+e;15233062;'décider en connaissance de cause';1;0
+e;15251401;'défendre la cause de qn';1;0
+e;15743202;'défendre la cause de quelqu'un';1;0
+e;15207066;'embrasser la cause de qn';1;0
+e;15760110;'embrasser la cause de quelqu'un';1;0
+e;15207059;'embrasser une cause';1;0
+e;15379480;'en parfaite connaissance de cause';1;0
+e;9982520;'Ouvert pour cause d'inventaire';777;0
+e;9980345;'pouvoir dormir à cause de ses ronflements';1;0
+e;15273222;'chercher la cause de';1;0
+e;15432996;'chercher la cause de [qch]';1;0
+e;15561521;'chercher la cause de quelque chose';1;0
+e;15497948;'consentement donné en connaissance de cause';1;0
+e;16297929;'cause de mortalité par cancer';1;0
+e;10734295;'École de la cause freudienne';777;0
+e;15298690;'attribuer une cause à qch';1;0
+e;15536257;'avocate sans cause';1;0
+e;15411831;'c'est à cause de';1;0
+e;15752860;'cause de tous les maux';1;0
+e;15561517;'cause des opprimés';1;0
+e;15640254;'cause est entendue';1;0
+e;15587138;'cause et non la conséquence';1;0
+e;15382326;'cause initiale';1;0
+e;15382995;'cause évitable';1;0
+e;16103644;'ce n'est qu'en tant que conçue que la fin peut être une cause antérieure à ses effets';777;0
+e;11079309;'Comité de défense de la cause arménienne';777;0
+e;11828169;'enrichissement sans cause';777;0
+e;5954409;'Elle cause plus... elle flingue';777;0
+e;11980725;'mis en cause';1;0
+e;15771113;'acquis à la cause de qqun';1;0
+e;15771118;'acquis à la cause de quelqu'un';1;0
+e;15485252;'acquis à la cause.';1;0
+e;15760337;'acquis à sa cause';1;0
+e;15236492;'affaire en cause';1;0
+e;6439316;'cause non précisée impliquant la région de l'épaule chondrocalcinose';1;0
+e;6424482;'cause non précisée impliquant la cheville et le pied chondrocalcinose';1;0
+e;15514669;'acquis à la cause de quelque chose';1;0
+e;15514668;'acquis à la cause de [qch]';1;0
+e;10850270;'de cause inconnue';1;0
+e;12067914;'sans cause déterminée';1;0
+e;15524778;'Ne pars pas à cause de moi.';1;0
+e;5702403;'cause célèbre';777;0
+e;6447068;'hypertension chronique compliquant ou cause de soins obstétricaux pendant l'accouchement';1;0
+e;6423311;'mort naturelle de cause inconnue';1;0
+e;11394248;'cause complexe';777;0
+e;6450593;'néphropathie hypertensive préexistante compliquant ou cause de soins obstétricaux pendant l'accouchement';1;0
+e;11394247;'sophisme de la cause unique';777;0
+e;10193273;'expropriation administrative pour cause d'utilité publique';777;0
+e;12052511;'déterminer la cause de la mort';1;0
+e;15318992;'La varicelle n'est plus une cause de mortalité.';1;0
+e;6007243;'remises en cause';777;0
+e;6435761;'cause non précisée impliquant l'avant-bras chondrocalcinose';1;0
+e;10067417;'Parti de la cause ouvrière';777;0
+e;11574661;'remis en cause';1;0
+e;2384329;'la cause est entendue';1;0
+e;2403915;'cause toujours';1;0
+e;7846339;'aucune cause retrouvée';1;0
+e;10186734;'bonne cause';1;6
+e;10186747;'se battre pour la bonne cause';1;0
+e;10187642;'cause féminine';1;0
+e;12278365;'À cause d'elle';777;0
+e;5980620;'À cause des garçons';777;0
+e;5538348;'analyse de cause racine';777;0
+e;6449413;'cause non précisée d'encéphalite';1;0
+e;6447306;'cardionéphropathie hypertensive préexistante compliquant ou cause de soins obstétricaux pendant l'accouchement';1;0
+e;6450915;'soins maternels pour cause connue ou présumée de foetus petit pour l'âge gestationnel';1;0
+e;2469025;'avec connaissance de cause';1;0
+e;8462507;'cause de surmortalité';1;0
+e;6448912;'thyrotoxicose sans mention de goitre ou d'autre cause';1;0
+e;6448217;'cardiopathie hypertensive préexistante compliquant ou cause de soins obstétricaux pendant l'accouchement';1;0
+e;9101619;'cause externe';1;0
+e;9247912;'maladie rénale sans cause précisée';1;0
+e;11132350;'cause de l'obligation';777;0
+e;12640670;'La pertinence du contenu de cet article est remise en cause';777;0
+e;12629968;'cause virale';1;0
+e;15390326;'Elle défend la cause des opprimés.';1;0
+e;15409635;'Ils tentent de les gagner à leur cause.';1;0
+e;15345753;'David a dû être isolé à cause de sa coqueluche.';1;0
+e;15538408;'C'est arrivé à cause de lui.';1;0
+e;16072809;'Droits et libertés mis en cause lors des opérations électorales';1;0
+e;16073049;'Expropriation pour cause d'utilité publique';1;0
+e;1649530;'plaider la cause';1;0
+e;2305746;'à cause d'';2;0
+e;3706240;'ne pas pouvoir dormir à cause de ses ronflements';1;0
+e;463526;'cause bénigne d'hypermétabolisme FDG';1;50
+e;2949675;'défenseur d'une cause';1;0
+e;1176293;'cause physique';1;0
+e;2142891;'cause de';1;0
+e;5517242;'cause d'accident vasculaire cérébral';1;0
+e;1176294;'cause psychologique';1;0
+e;1479324;'À cause d'un assassinat';1;0
+e;1773643;'qui cause du tort';1;0
+e;2142889;'cause d'';2;0
+e;3007475;'pour sa propre cause';1;0
+e;2250690;'pour cause d'';2;0
+e;3336681;'loi de la cause';777;0
+e;3336682;'loi désignée pour la cause';777;0
+e;6451213;'soins maternels pour cause connue ou présumée de foetus léger pour l'âge gestationnel';1;0
+e;1657017;'Pour le bien de la cause';777;0
+e;5519326;'cause de syndrome néphrotique';1;0
+e;1752504;'cause de handicap';1;0
+e;5519318;'cause de fente labiale';1;0
+e;2354424;'Une cause perdue';1;6
+e;2563440;'cause réelle et sérieuse';1;0
+e;5519319;'cause de fente palatine';1;0
+e;372346;'pour cause de maladie';1;50
+e;342035;'cause de conflit';1;50
+e;388134;'à cause des';1;50
+e;372344;'pour cause';1;50
+e;361471;'lien de cause à effet';1;50
+e;351529;'en toute connaissance de cause';1;50
+e;351294;'en relation de cause à effet avec';1;50
+e;342050;'cause palestinienne';1;50
+e;342049;'cause majeure';1;50
+e;342036;'cause de dépense';1;50
+e;372345;'pour cause de décès';1;50
+e;342062;'cause évocable';1;50
+e;342048;'cause licite';1;50
+e;342047;'cause islamique';1;50
+e;342046;'cause inconnue';1;50
+e;342042;'cause extrinsèque';1;50
+e;338007;'avocat sans cause';1;50
+e;372750;'première cause de mortalité chez les femmes';1;50
+e;351112;'en pleine connaissance de cause';1;50
+e;342060;'cause momentanée d'inexécution';1;50
+e;342053;'cause sacrée';1;50
+e;342051;'cause politique';1;50
+e;342034;'cause allergique';1;50
+e;356588;'grande cause';1;56
+e;342044;'cause historique';1;50
+e;342041;'cause entendue';1;50
+e;342037;'cause de guerre';1;50
+e;338058;'ayant cause universel';1;50
+e;342039;'cause de mortalité infantile';1;50
+e;342055;'cause ultime';1;50
+e;388135;'à cause du';1;50
+e;373885;'proposition circonstancielle de cause';1;50
+e;360569;'juste cause';1;54
+e;342054;'cause synodale';1;50
+e;342040;'cause directe';1;50
+e;342045;'cause humanitaire';1;50
+e;342043;'cause gagnée';1;50
+e;342052;'cause profonde';1;50
+e;342038;'cause de mortalité';1;50
+e;220784;'ayant-cause';1;50
+e;318560;'être mis en cause';1;50
+e;322077;'cause à effet';1;50
+e;323128;'plaider sa cause';1;2
+e;323129;'il faut qu'on cause';1;50
+e;324300;'plaider la cause de';1;50
+e;259049;'il faut qu'on se cause';1;6
+e;61689;'être cause de';1;54
+e;116655;'à cause de';1;52
+e;231490;'Elle boit pas, elle fume pas, elle drague pas, mais elle cause !';1;50
+e;232930;'cause perdue';1;56
+e;232931;'cause nationale';1;60
+e;259050;'faut qu'on cause';1;2
+e;262880;'cause non connue';1;50
+e;57922;'Paolino, la juste cause et la bonne raison';1;50
+e;58988;'mettre hors de cause';1;66
+e;61218;'cause transitive';1;50
+e;62121;'cause universelle';1;50
+e;66223;'mise en cause';1;68
+e;69424;'en tout état de cause';1;52
+e;80728;'en connaissance de cause';1;50
+e;82086;'être en cause';1;50
+e;92570;'à cause que';1;50
+e;96754;'en cause';1;50
+e;101978;'mettre en cause';1;52
+e;113365;'avoir gain de cause';1;56
+e;115549;'Discours de la cause de la pesanteur';1;50
+e;118562;'faire cause commune';1;50
+e;142239;'il n'y a pas d'effet sans cause';1;50
+e;160890;'cause d'une action';1;50
+e;161336;'cause de l'action';1;52
+e;161337;'cause première';1;50
+e;205982;'pour cause de';1;50
+e;205991;'pour la bonne cause';1;56
+e;206002;'pour les besoins de la cause';1;50
+e;206858;'relation de cause à effet';1;50
+e;206905;'remise en cause';1;70
+e;47011;'prendre fait et cause';1;50
+e;126562;'cause occulte';1;50
+e;126984;'remettre en cause';1;56
+e;182573;'gain de cause';1;50
+e;203162;'loi de cause à effet';1;50
+e;204464;'non sans cause';1;50
+e;204566;'obtenir gain de cause';1;66
+e;205093;'parler en connaissance de cause';1;50
+e;205603;'plaider une cause';1;54
+e;206144;'prendre fait et cause pour';1;52
+e;206314;'preuve par la cause efficiente';1;50
+e;206469;'proposition de cause';1;50
+e;264543;'cause animale';1;50
+e;30043;'épouser la cause';1;50
+e;196440;'avoir cause gagnée';1;50
+e;197320;'cause adéquate';1;50
+e;197321;'cause civile';1;50
+e;197322;'cause criminelle';1;50
+e;197323;'cause déterminante';1;50
+e;197324;'cause efficiente';1;50
+e;197325;'cause finale';1;50
+e;197326;'cause formelle';1;50
+e;197327;'cause immanente';1;50
+e;197328;'cause immédiate';1;50
+e;197329;'cause instrumentale';1;50
+e;197330;'cause matérielle';1;50
+e;197331;'cause médiate';1;50
+e;197332;'cause motrice';1;50
+e;197333;'cause occasionnelle';1;50
+e;197334;'cause préexistante';1;50
+e;197335;'cause prochaine';1;50
+e;197336;'cause seconde';1;50
+e;197337;'cause suffisante';1;50
+e;199221;'en désespoir de cause';1;50
+e;199747;'et pour cause';1;50
+e;199890;'être cause que';1;50
+e;12993;'ayant cause';1;50
+e;197842;'complément de cause';1;50
+e;199777;'état de cause';1;50
+e;201292;'gagner à sa cause';1;50
+e;201307;'gagner une cause';1;50
+e;4630;'à cause';1;52
+e;4829;'relation de cause';1;50
+r;298434690;28044;6290439;11;25
+r;299577375;28044;6309314;11;25
+r;301417891;28044;6337297;11;25
+r;302029825;28044;6357632;11;25
+r;302199353;28044;6366897;11;25
+r;302956842;28044;6367532;11;25
+r;303287909;28044;6374279;11;25
+r;303641895;28044;6378974;11;25
+r;304552640;28044;6389048;11;25
+r;305297892;28044;6404346;11;25
+r;305311018;28044;6406466;11;25
+r;345828014;28044;13635632;11;25
+r;348458893;28044;13738751;11;25
+r;357636433;28044;14119904;11;25
+r;366814287;28044;14452202;11;25
+r;366885308;28044;14453085;11;25
+r;366909282;28044;14453502;11;25
+r;371176643;28044;14605344;11;25
+r;371176660;28044;14605342;11;25
+r;371279844;28044;14610504;11;25
+r;400818718;28044;6396361;11;25
+r;394059952;28044;15194203;11;25
+r;397918281;28044;6307438;11;25
+r;399996633;28044;6350716;11;25
+r;432725910;28044;16381439;11;25
+r;299332250;28044;6302484;11;26
+r;299488963;28044;6306026;11;26
+r;299633253;28044;6314327;11;26
+r;299657694;28044;6314943;11;26
+r;300185213;28044;6324476;11;26
+r;301559826;28044;6345968;11;26
+r;301810933;28044;6357068;11;26
+r;302070029;28044;6358682;11;26
+r;305000664;28044;6395600;11;26
+r;305681111;28044;6416177;11;26
+r;340956533;28044;6298284;11;26
+r;345621481;28044;13632404;11;26
+r;367280621;28044;14470912;11;26
+r;369391456;28044;14537160;11;26
+r;369391469;28044;14537161;11;26
+r;374423569;28044;14727949;11;26
+r;375097706;28044;14755599;11;26
+r;393839550;28044;15038826;11;26
+r;122731462;28044;6425394;11;27
+r;298052274;28044;6285630;11;27
+r;299791581;28044;6317644;11;27
+r;303851241;28044;6381027;11;27
+r;341155418;28044;6366847;11;27
+r;122703175;28044;6429036;11;28
+r;122745532;28044;6423592;11;28
+r;302180027;28044;6364492;11;28
+r;333773304;28044;12989555;11;28
+r;121509113;28044;6442110;11;29
+r;264507185;28044;10603108;11;29
+r;302321245;28044;11775318;11;29
+r;419766095;28044;15537560;11;30
+r;419775129;28044;15544149;11;30
+r;419790176;28044;15604762;11;30
+r;419790182;28044;15435741;11;30
+r;419790192;28044;15519283;11;30
+r;419791651;28044;15435493;11;30
+r;419805294;28044;15233062;11;30
+r;419807553;28044;15251401;11;30
+r;419807557;28044;15743202;11;30
+r;419834748;28044;15207066;11;30
+r;419834752;28044;15760110;11;30
+r;419834844;28044;15207059;11;30
+r;419841483;28044;15379480;11;30
+r;222100494;28044;9982520;11;31
+r;222103779;28044;9980345;11;31
+r;419705302;28044;15273222;11;31
+r;419705306;28044;15432996;11;31
+r;419705314;28044;15561521;11;31
+r;419733169;28044;15497948;11;31
+r;434377512;28044;16297929;11;31
+r;269416055;28044;10734295;11;32
+r;419617994;28044;15298690;11;32
+r;419627817;28044;15536257;11;32
+r;419672141;28044;15411831;11;32
+r;419690290;28044;15752860;11;32
+r;419690297;28044;15561517;11;32
+r;419690302;28044;15640254;11;32
+r;419690307;28044;15587138;11;32
+r;419690312;28044;15382326;11;32
+r;419690317;28044;15382995;11;32
+r;420266550;28044;16103644;11;32
+r;280978573;28044;11079309;11;33
+r;305641365;28044;11828169;11;33
+r;116584604;28044;5954409;11;34
+r;311677564;28044;11980725;11;34
+r;419573634;28044;15771113;11;34
+r;419573640;28044;15771118;11;34
+r;419573646;28044;15485252;11;34
+r;419573650;28044;15760337;11;34
+r;419579269;28044;15236492;11;34
+r;121534164;28044;6439316;11;35
+r;122738454;28044;6424482;11;35
+r;397146977;28044;15514669;11;35
+r;397146964;28044;15514668;11;35
+r;272012580;28044;10850270;11;35
+r;314063640;28044;12067914;11;35
+r;419512037;28044;15524778;11;35
+r;112184903;28044;5702403;11;36
+r;121464685;28044;6447068;11;36
+r;122747734;28044;6423311;11;36
+r;292897426;28044;11394248;11;36
+r;121042078;28044;6450593;11;37
+r;292675675;28044;11394247;11;37
+r;243209095;28044;10193273;11;38
+r;313761516;28044;12052511;11;38
+r;417155756;28044;15318992;11;38
+r;118522638;28044;6007243;11;39
+r;121565881;28044;6435761;11;40
+r;232089984;28044;10067417;11;40
+r;297601921;28044;11574661;11;40
+r;52974015;28044;2384329;11;41
+r;53572102;28044;2403915;11;41
+r;126453002;28044;7846339;11;41
+r;241265073;28044;10186734;11;41
+r;241267999;28044;10186747;11;41
+r;241337008;28044;10187642;11;41
+r;318936644;28044;12278365;11;42
+r;117912059;28044;5980620;11;43
+r;109660390;28044;5538348;11;44
+r;121052902;28044;6449413;11;45
+r;121462508;28044;6447306;11;46
+r;121039172;28044;6450915;11;47
+r;55835111;28044;2469025;11;48
+r;143707298;28044;8462507;11;48
+r;121057386;28044;6448912;11;49
+r;121454142;28044;6448217;11;49
+r;200551083;28044;9101619;11;50
+r;211473921;28044;9247912;11;50
+r;283084645;28044;11132350;11;50
+r;323819820;28044;12640670;11;50
+r;324935407;28044;12629968;11;50
+r;397498017;28044;15390326;11;50
+r;402118313;28044;15409635;11;50
+r;395031016;28044;15345753;11;50
+r;398435611;28044;15538408;11;50
+r;419100847;28044;16072809;11;50
+r;419101948;28044;16073049;11;50
+r;26387377;28044;1649530;11;51
+r;33103864;28044;2305746;11;52
+r;92513620;28044;3706240;11;52
+r;16354852;28044;463526;11;53
+r;72654880;28044;2949675;11;53
+r;22159314;28044;1176293;11;54
+r;32929068;28044;2142891;11;54
+r;108402767;28044;5517242;11;54
+r;22159324;28044;1176294;11;55
+r;24474193;28044;1479324;11;55
+r;29133117;28044;1773643;11;55
+r;33105999;28044;2142889;11;55
+r;74379277;28044;3007475;11;55
+r;33104451;28044;2250690;11;57
+r;84279924;28044;3336681;11;57
+r;84280580;28044;3336682;11;57
+r;121036373;28044;6451213;11;57
+r;27502871;28044;1657017;11;58
+r;108869911;28044;5519326;11;58
+r;28812383;28044;1752504;11;59
+r;108869954;28044;5519318;11;59
+r;38852114;28044;2354424;11;60
+r;52446461;28044;2563440;11;60
+r;108869945;28044;5519319;11;60
+r;12612741;28044;372346;11;101
+r;12736939;28044;342035;11;101
+r;12548865;28044;388134;11;102
+r;12612757;28044;372344;11;102
+r;12656751;28044;361471;11;102
+r;12697235;28044;351529;11;102
+r;12698107;28044;351294;11;102
+r;12736877;28044;342050;11;102
+r;12736879;28044;342049;11;102
+r;12736935;28044;342036;11;102
+r;12612749;28044;372345;11;103
+r;12736831;28044;342062;11;103
+r;12736883;28044;342048;11;103
+r;12736887;28044;342047;11;103
+r;12736891;28044;342046;11;103
+r;12736907;28044;342042;11;103
+r;12753613;28044;338007;11;103
+r;12611171;28044;372750;11;104
+r;12698869;28044;351112;11;104
+r;12736837;28044;342060;11;104
+r;12736867;28044;342053;11;104
+r;12736873;28044;342051;11;104
+r;12736943;28044;342034;11;104
+r;12676689;28044;356588;11;105
+r;12736899;28044;342044;11;105
+r;12736911;28044;342041;11;105
+r;12736931;28044;342037;11;105
+r;12753407;28044;338058;11;105
+r;12736919;28044;342039;11;106
+r;12736861;28044;342055;11;107
+r;12548861;28044;388135;11;108
+r;12606403;28044;373885;11;108
+r;12660471;28044;360569;11;108
+r;12736865;28044;342054;11;108
+r;12736915;28044;342040;11;108
+r;12736895;28044;342045;11;109
+r;12736903;28044;342043;11;109
+r;12736869;28044;342052;11;110
+r;12736927;28044;342038;11;110
+r;11852435;28044;220784;11;122
+r;9003728;28044;318560;11;148
+r;9095040;28044;322077;11;148
+r;9188830;28044;323128;11;148
+r;9188833;28044;323129;11;148
+r;9343123;28044;324300;11;148
+r;8724983;28044;259049;11;160
+r;8590925;28044;61689;11;161
+r;8610215;28044;116655;11;161
+r;8699919;28044;231490;11;161
+r;8701369;28044;232930;11;161
+r;8701371;28044;232931;11;161
+r;8724985;28044;259050;11;161
+r;8729897;28044;262880;11;161
+r;8589597;28044;57922;11;162
+r;8589958;28044;58988;11;162
+r;8590758;28044;61218;11;162
+r;8591063;28044;62121;11;162
+r;8592382;28044;66223;11;162
+r;8593496;28044;69424;11;162
+r;8597316;28044;80728;11;162
+r;8597790;28044;82086;11;162
+r;8601522;28044;92570;11;162
+r;8602963;28044;96754;11;162
+r;8604832;28044;101978;11;162
+r;8609022;28044;113365;11;162
+r;8609809;28044;115549;11;162
+r;8610844;28044;118562;11;162
+r;8620486;28044;142239;11;162
+r;8627123;28044;160890;11;162
+r;8627390;28044;161336;11;162
+r;8627391;28044;161337;11;162
+r;8677762;28044;205982;11;162
+r;8677775;28044;205991;11;162
+r;8677790;28044;206002;11;162
+r;8679210;28044;206858;11;162
+r;8679287;28044;206905;11;162
+r;8585673;28044;47011;11;163
+r;8613717;28044;126562;11;163
+r;8613862;28044;126984;11;163
+r;8640358;28044;182573;11;163
+r;8673132;28044;203162;11;163
+r;8675434;28044;204464;11;163
+r;8675607;28044;204566;11;163
+r;8676339;28044;205093;11;163
+r;8677170;28044;205603;11;163
+r;8677997;28044;206144;11;163
+r;8678252;28044;206314;11;163
+r;8678519;28044;206469;11;163
+r;8732091;28044;264543;11;163
+r;8579999;28044;30043;11;164
+r;8661456;28044;196440;11;164
+r;8663206;28044;197320;11;164
+r;8663207;28044;197321;11;164
+r;8663208;28044;197322;11;164
+r;8663210;28044;197323;11;164
+r;8663211;28044;197324;11;164
+r;8663212;28044;197325;11;164
+r;8663214;28044;197326;11;164
+r;8663216;28044;197327;11;164
+r;8663217;28044;197328;11;164
+r;8663218;28044;197329;11;164
+r;8663220;28044;197330;11;164
+r;8663222;28044;197331;11;164
+r;8663223;28044;197332;11;164
+r;8663225;28044;197333;11;164
+r;8663227;28044;197334;11;164
+r;8663228;28044;197335;11;164
+r;8663230;28044;197336;11;164
+r;8663231;28044;197337;11;164
+r;8666373;28044;199221;11;164
+r;8667202;28044;199747;11;164
+r;8667430;28044;199890;11;164
+r;8574302;28044;12993;11;165
+r;8664069;28044;197842;11;165
+r;8667260;28044;199777;11;165
+r;8670144;28044;201292;11;165
+r;8670173;28044;201307;11;165
+r;8571520;28044;4630;11;166
+r;8571594;28044;4829;11;168

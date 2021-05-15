@@ -1,0 +1,42 @@
+
+e;1993553;'aurait';2;0
+e;15921033;'ç'aurait été trop beau';1;0
+e;11781540;'la Corée du Nord aurait effectué un essai nucléaire souterrain';777;0
+e;15481371;'aurait pu, tu aurais pu venir';1;0
+e;15225967;'On aurait pu éviter de telles tragédies.';1;0
+e;10868142;'aurait d';777;0
+e;10997762;'Subir un viol aurait un impact sur l'orientation sexuelle';777;0
+e;2476889;'on aurait dit';1;0
+e;2365381;'si les chiens avaient des scies, il n'y aurait plus de poteaux';1;0
+e;15804630;'Il aurait pu se fendre d'un sourire.';1;0
+e;15804614;'Il aurait pu le dire!';1;0
+e;15258909;'Il aurait dû se laisser guider par son instinct.';1;0
+e;15384646;'Il l'aurait tuée.';1;0
+e;15570000;'Il n'aurait guère pu trouver des adversaires plus difficiles.';1;0
+e;3033510;'aurait-on';1;0
+e;2946754;'il y aurait eu';1;0
+e;2533453;'on aurait pu entendre une mouche voler';1;0
+e;2605797;'si la mer bouillait, il y aurait bien des poissons de cuits';1;0
+e;3033508;'aurait-elle';1;0
+e;2946756;'il y aurait';1;0
+e;3033509;'aurait-il';1;0
+r;414421971;1993553;15921033;11;25
+r;302797979;1993553;11781540;11;32
+r;419622450;1993553;15481371;11;32
+r;419518287;1993553;15225967;11;34
+r;272513785;1993553;10868142;11;35
+r;277994242;1993553;10997762;11;36
+r;58010746;1993553;2476889;11;46
+r;50438833;1993553;2365381;11;50
+r;412565435;1993553;15804630;11;50
+r;412565431;1993553;15804614;11;50
+r;402104802;1993553;15258909;11;50
+r;402107416;1993553;15384646;11;50
+r;402108168;1993553;15570000;11;50
+r;74949545;1993553;3033510;11;55
+r;72417005;1993553;2946754;11;57
+r;52460759;1993553;2533453;11;58
+r;55493774;1993553;2605797;11;58
+r;74949549;1993553;3033508;11;62
+r;72417019;1993553;2946756;11;64
+r;74949547;1993553;3033509;11;67

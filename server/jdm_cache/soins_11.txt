@@ -1,0 +1,1960 @@
+
+e;111830;'soins';1;422
+e;15695055;'filière de soins';1;0
+e;6348028;'prise en charge pour soins palliatifs';1;0
+e;6347593;'soins infirmiers per-opératoires';1;0
+e;6337244;'soins maternels pour anomalies du vagin';1;0
+e;6284438;'transfert du patient dans un centre de soins infirmiers spécialisés';1;0
+e;6284727;'soins dispensés dans une automobile';1;0
+e;6286806;'soins maternels pour tumeur du foetus entraînant une disproportion';1;0
+e;6287362;'soins maternels pour mort foetale après 22 semaines de grossesse';1;0
+e;6287932;'soins maternels pour présentation complexe';1;0
+e;6293272;'Équipe de soins intensifs en cardiologie';1;0
+e;6288868;'soins maternels pour anomalies de la vulve et du périnée';1;0
+e;6289447;'soins maternels pour transfusion materno-foetale';1;0
+e;6289760;'précaution en soins infirmiers';1;0
+e;6289833;'soins maternels pour disproportion due à un bassin maternel généralement rétréci';1;0
+e;6290439;'soins maternels pour cause connue ou présumée de insuffisance du placenta';1;0
+e;6290590;'Équipe de soins d'urgence cardiologiques';1;0
+e;6290831;'soins de santé aux patients';1;0
+e;6292276;'programme général soins';1;0
+e;6293528;'consultation en soins infirmiers et rapport';1;0
+e;6304347;'régimes de gestion intégrée des soins de santé';1;0
+e;6293728;'recherche sur les enjeux méthodologiques en soins infirmiers';1;0
+e;6294172;'soins maternels pour affection foeto-placentaire';1;0
+e;6294306;'soins maternels pour disproportion due à un rétrécissement du détroit inférieur';1;0
+e;6294393;'hospitalisation en attente de placement dans une maison de soins infirmiers';1;0
+e;6337108;'suivi des soins';1;0
+e;6295113;'soins maternels pour acidémie foetale';1;0
+e;6297408;'régimes de paiement anticipé des soins de santé';1;0
+e;6297357;'soins maternels pour hydropisie du foetus entraînant une disproportion';1;0
+e;6298303;'soins d'un sein qui allaite';1;0
+e;6298391;'Évaluation des programmes de soins infirmiers';1;0
+e;6299191;'soins des objets de valeur du patient';1;0
+e;6299056;'soins maternels pour cicatrice utérine due à une intervention chirurgicale antérieure';1;0
+e;6300053;'soins dentaires complets';1;0
+e;6301717;'soins dentaires du malade chronique';1;0
+e;6301962;'soins maternels pour disproportion foeto-pelvienne due à un rétrécissement du détroit supérieur du bassin maternel';1;0
+e;6302793;'soins maternels pour présence de méconium dans le liquide amniotique';1;0
+e;6303440;'installations de soins de long séjour';1;0
+e;6303632;'consultation médicale avec un patient d'un établissement de soins de infirmiers';1;0
+e;6303667;'soins particuliers de plaie';1;0
+e;6304475;'soins de relève du patient pendant un jour férié';1;0
+e;6305541;'soins maternels pour d'autres affections précisées du foetus';1;0
+e;6306329;'soins particuliers au dos';1;0
+e;6306660;'transition aux soins pour adultes';1;0
+e;6306891;'soins intensifs au nouveau-né';1;0
+e;6307432;'unités de soins antidouleur';1;0
+e;6308925;'comités des soins aux animaux';1;0
+e;6308943;'soins maternels pour disproportion foeto-pelvienne connue ou présumée';1;0
+e;6309101;'soins maternels pour plancher pelvien cicatriciel';1;0
+e;6310157;'soins de contrôle comprenant une opération plastique d'autres parties du corps';1;0
+e;6310420;'régimes de préfinancement des soins de santé';1;0
+e;6310520;'Établissements de soins ambulatoires';1;0
+e;6310962;'acceptation du contrat de soins';1;0
+e;6311557;'soins maternels pour d'autres anomalies des organes pelviens';1;0
+e;6311976;'soins maternels pour disproportion foetale';1;0
+e;6312230;'soins intensifs en chirurgie';1;0
+e;6312719;'soins maternels pour disproportion céphalo-pelvienne';1;0
+e;6313017;'soins maternels pour tête haute à terme';1;0
+e;6313577;'régimes de soins gérés';1;0
+e;6313553;'soins maternels pour rectocèle';1;0
+e;6314646;'soins infirmiers de référence';1;0
+e;6315447;'hôpital de soins intermédiaires';1;0
+e;6316272;'planification anticipée des soins';1;0
+e;6316283;'assurance de la qualité des soins infirmiers';1;0
+e;6317231;'soins de jour donnés dans les établissements';1;0
+e;6317747;'soins maternels pour croissance excessive du foetus';1;0
+e;6319688;'soins maternels pour rythme anormal du coeur foetal';1;0
+e;6321870;'soins dentaires de la personne handicapée';1;0
+e;6323712;'soins maternels pour intervention chirurgicale antérieure sur le col';1;0
+e;6324122;'soins maternels pour affection du foetus et du placenta';1;0
+e;6324331;'soins maternels pour méningomyélocèle du foetus entraînant une disproportion';1;0
+e;6324565;'concurrence régulée des offres de soins';1;0
+e;6326286;'soins maternels pour disproportion due à d'autres anomalies du foetus';1;0
+e;6327572;'soins maternels pour non-engagement de la tête';1;0
+e;6327826;'soins maternels pour anasarque foeto-placentaire non associée à une iso-immunisation';1;0
+e;6327792;'soins infirmiers au bloc opératoire';1;0
+e;6327374;'programmes de gestion coordonnée des soins de santé';1;0
+e;6328313;'soins maternels pour tumeur du col';1;0
+e;6328854;'soins infirmiers en cabinet';1;0
+e;6329746;'soins maternels pour disproportion foeto-pelvienne due à un rétrécissement du détroit inférieur du bassin maternel';1;0
+e;6329972;'soins maternels pour cicatrice due à une césarienne antérieure';1;0
+e;6331936;'acceptation par le patient du contrat de soins';1;0
+e;6331886;'acceptations des soins';1;0
+e;6332271;'soins dentaires aux malades chroniques';1;0
+e;6332413;'Équipe hospitalière de soins d'urgence';1;0
+e;6331993;'audit soins dentaires';1;0
+e;6333188;'soins maternels pour transfusion de jumeau à jumeau';1;0
+e;6333807;'prise en charge pour soins de contrôle comprenant une opération plastique du sein';1;0
+e;6334248;'phobie des soins dentaires';1;0
+e;6335609;'soins maternels pour autres grossesses multiples';1;0
+e;6336017;'mesure de sécurité envers le patient en soins infirmiers';1;0
+e;6336869;'unité de soins intensifs cardiovasculaires';1;0
+e;6338065;'rapport des soins infirmiers';1;0
+e;6339178;'soins maternels liés à des affections foetales connues ou présumées';1;0
+e;6338063;'soins psychiatriques quotidiens de jour';1;0
+e;6339396;'soins particuliers du patient en neurologie incluant les signes vitaux neurologiques';1;0
+e;6339251;'soins dentaires des handicapés';1;0
+e;6339529;'soins maternels pour croissance foetale excessive';1;0
+e;6340193;'soins dentaires pour personnes handicapées';1;0
+e;6341105;'soins maternels pour disproportion due à un foetus hydrocéphale';1;0
+e;6341077;'soins dentaires chez les sujets âgés';1;0
+e;6341620;'privation de soins aux enfants';1;0
+e;6341428;'gestion des soins infirmiers';1;0
+e;6342029;'soins maternels pour présentation du siège';1;0
+e;6341331;'prise en charge pour surveillance médicale et soins médicaux des enfants trouvés';1;0
+e;6343180;'soins maternels pour souffrance foetale';1;0
+e;6342798;'soins infirmiers peropératoires';1;0
+e;6344017;'soins maternels pour intervention chirurgicale antérieure sur le périnée ou la vulve';1;0
+e;6344321;'soins particuliers de la bouche';1;0
+e;6345030;'acceptations du contrat de soins';1;0
+e;6344985;'soins dentaires aux personnes âgées';1;0
+e;6346076;'soins maternels pour fibrose du périnée';1;0
+e;6345740;'centres de soins continus';1;0
+e;6346522;'soins maternels pour croissance foetale insuffisante';1;0
+e;6346999;'soins généraux du nouveau-né';1;0
+e;6348076;'assistance à domicile pour soins personnels';1;0
+e;6348279;'soins à domicile par des aidants informels';1;0
+e;6349025;'dossiers de soins infirmiers';1;0
+e;6348801;'soins maternels pour plancher pelvien rigide';1;0
+e;6358497;'soins maternels pour disproportion d'origine foetale avec foetus normal';1;0
+e;6350395;'soins maternels pour grossesse abdominale avec foetus viable';1;0
+e;6350990;'prestations de soins dentaires';1;0
+e;6350890;'programmes de gestion intégrée des soins de santé';1;0
+e;6351807;'soins maternels pour transfusion foeto-maternelle';1;0
+e;6352267;'unités de soins néonatals des hôpitaux';1;0
+e;6352446;'soins particuliers du nourrisson à la pouponnière';1;0
+e;6354321;'soins maternels pour cerclage avec ou sans mention de béance du col';1;0
+e;6354205;'soins maternels pour cloisonnement du vagin';1;0
+e;6354806;'Équipe de soins d'urgence';1;0
+e;6355000;'soins infirmiers publics';1;0
+e;6355355;'soins maternels pour mort foetale tardive';1;0
+e;6356044;'soins maternels pour détresse foetale';1;0
+e;6356831;'soins maternels pour d'autres anomalies du col';1;0
+e;6357329;'soins infirmiers intégraux';1;0
+e;6358271;'technologie des soins de santé';1;0
+e;6358637;'soins maternels pour présentation oblique';1;0
+e;6358952;'soins dentaires pour personnes âgées';1;0
+e;6362289;'cabinet de médecins privé offrant des soins médicaux prépayés';1;0
+e;6362195;'soins maternels pour disproportion due à un rétrécissement du détroit supérieur du bassin maternel';1;0
+e;6362346;'soins maternels pour position instable';1;0
+e;6362632;'accepter les soins';1;0
+e;6363259;'prise en charge pour d'autres formes précisées de soins médicaux';1;0
+e;6364200;'soins dentaires aux handicapés';1;0
+e;6364402;'soins maternels pour jumeaux soudés entraînant une disproportion';1;0
+e;6364596;'soins infirmiers à domicile par des non professionnels';1;0
+e;6364785;'problème relié aux soins d'une personne malade';1;0
+e;6364620;'soins maternels pour gestation multiple';1;0
+e;6365006;'organisations de soins de santé intégrés aux usa';1;0
+e;6364997;'soins maternels pour varices de la vulve et du périnée au cours de la grossesse';1;0
+e;6366897;'cardionéphropathie hypertensive préexistante compliquant ou cause de soins obstétricaux pendant la puerpéralité';1;0
+e;6366823;'soins maternels pour insuffisance du placenta';1;0
+e;6367103;'soins maternels pour rétrécissement ou sténose du col';1;0
+e;6395928;'soins maternels pour présentation transverse';1;0
+e;6395824;'soins maternels pour naissance après terme';1;0
+e;6367359;'soins maternels pour intervention chirurgicale antérieure sur le vagin';1;0
+e;6367887;'acceptation des soins';1;0
+e;6367532;'néphropathie hypertensive préexistante compliquant ou cause de soins obstétricaux pendant la grossesse';1;0
+e;6368867;'soins maternels pour disproportion foeto-pelvienne due à d'autres anomalies du foetus';1;0
+e;6370620;'soins mère kangourou';1;0
+e;6371043;'centres de soins de long séjour';1;0
+e;6370722;'hôpital de soins tertiaires';1;0
+e;6371724;'soins intégrés';1;0
+e;6371874;'unités de soins intensifs cardiaques';1;0
+e;6371496;'soins maternels pour malformation du bassin entraînant une disproportion';1;0
+e;6371847;'soins particuliers à un oeil';1;0
+e;6372739;'angoisse liée aux soins dentaires';1;0
+e;6375168;'isoimmunisation rhésus affectant les soins de la mère';1;0
+e;6375564;'soins maternels pour disproportion d'autres origines';1;0
+e;6375944;'soins particuliers des prothèses dentaires';1;0
+e;6376227;'soins maternels pour tumeur du vagin';1;0
+e;6376943;'soins généraux en après-midi et en soirée à un adulte';1;0
+e;6378222;'soins maternels pour disproportion due à une malformation du bassin de la mère';1;0
+e;6378974;'cardionéphropathie hypertensive préexistante compliquant ou cause de soins obstétricaux pendant la grossesse';1;0
+e;6379084;'soins maternels pour disproportion foeto-pelvienne d'autres origines';1;0
+e;6380263;'soins maternels pour acidose foetale';1;0
+e;6379785;'soins maternels pour tératome sacro-coccygien du foetus entraînant une disproportion';1;0
+e;6382001;'soins maternels pour anomalie chromosomique foetale';1;0
+e;6382598;'soins maternels pour une autre iso-immunisation';1;0
+e;6382781;'soins dentaires aux personnes handicapées';1;0
+e;6382964;'continuité des soins';1;0
+e;6383855;'soins maternels pour bassin rétréci sai entraînant une disproportion';1;0
+e;6383704;'soins dentaires gériatriques';1;0
+e;6383791;'unités de soins intensifs en pédiatrie';1;0
+e;6384545;'soins maternels pour croissance insuffisante du foetus';1;0
+e;6385028;'assurance soins dentaires';1;0
+e;6385484;'soins maternels pour mort intra-utérine';1;0
+e;6385533;'soins de contrôle comprenant une opération plastique du sein';1;0
+e;6385947;'soins maternels pour colpocèle';1;0
+e;6386455;'unités de soins intensifs coronariens';1;0
+e;6387395;'soins dentaires pour malades chroniques';1;0
+e;6387298;'prise en charge pour d'autres soins de contrôle orthopédiques précisés';1;0
+e;6387505;'soins dentaires des malades chroniques';1;0
+e;6387513;'assurance prestations de soins infirmiers';1;0
+e;6389360;'soins maternels pour d'autres affections liées principalement à la grossesse';1;0
+e;6389563;'examen ou soins chez une femme non enceinte';1;0
+e;6390016;'organisations américaines de soins de santé intégrés';1;0
+e;6390105;'soins maternels pour polype du col';1;0
+e;6390155;'soins maternels pour anomalie connue ou présumée des organes pelviens';1;0
+e;6390643;'soins intensifs aux nouveau-nés';1;0
+e;6390340;'soins maternels pour d'autres présentations anormales du foetus';1;0
+e;6391015;'soins maternels pour varices du vagin au cours de la grossesse';1;0
+e;6390982;'hôpital de soins primaires';1;0
+e;6392328;'soins maternels pour tumeur de la vulve';1;0
+e;6392513;'soins maternels pour disproportion foeto-pelvienne due à une malformation du bassin de la mère';1;0
+e;6392678;'unité de soins ambulatoires';1;0
+e;6392825;'Établissements de soins infirmiers spécialisés';1;0
+e;6393242;'gestion des soins aux malades';1;0
+e;6395471;'soins maternels pour iso-immunisation anti-rh';1;0
+e;6396174;'soins kangourou';1;0
+e;6396566;'soins dentaires pédiatriques';1;0
+e;6397285;'soins des patients';1;0
+e;6398169;'soins du smur';1;0
+e;6397847;'soins de contrôle orthopédiques';1;0
+e;6398373;'prestation de soins de santé intégrés';1;0
+e;6398980;'soins maternels pour utérus bicorne';1;0
+e;6400320;'soins maternels pour rétrécissement du vagin';1;0
+e;6400577;'soins pré-opératoires';1;0
+e;6402085;'soins maternels pour d'autres affections connues ou présumées du foetus';1;0
+e;6402038;'acceptations par les patients du contrat de soins';1;0
+e;6402359;'soins maternels pour tachycardie foetale';1;0
+e;6402242;'soins du périnée en obstétrique';1;0
+e;6402443;'gestion coordonnée des soins de santé';1;0
+e;6403882;'produits de soins du cheveu';1;0
+e;6403931;'visite subséquente au patient d'un établissement de soins infirmiers';1;0
+e;6403604;'unités de soins anti-douleur';1;0
+e;6404346;'néphropathie hypertensive préexistante compliquant ou cause de soins obstétricaux pendant la puerpéralité';1;0
+e;6404801;'hôpital de soins intermédiaires pour des personnes ayant une déficience intellectuelle';1;0
+e;6404579;'soins maternels pour croissance insuffisante du foetus due à une insuffisance du placenta';1;0
+e;6405263;'soins intensifs chirurgicaux';1;0
+e;6405165;'soins maternels pour disproportion foeto-pelvienne due à un foetus hydrocéphale';1;0
+e;6405403;'soins maternels pour mort intra-utérine du foetus';1;0
+e;6405987;'soins maternels pour anomalie du placenta';1;0
+e;6406353;'prestations des soins de santé';1;0
+e;6406947;'soins de santé communautaires';1;0
+e;6407665;'organismes de soins intégrés de santé';1;0
+e;6408212;'soins aux malades';1;0
+e;6408118;'soins maternels pour infarctus placentaire';1;0
+e;6408640;'hôpital de soins secondaires';1;0
+e;6408761;'soins infirmiers généraux';1;0
+e;6408826;'assurance soins de longue durée';1;0
+e;6409865;'soins maternels pour ascite du foetus entraînant une disproportion';1;0
+e;6410627;'prise en charge pour d'autres soins médicaux';1;0
+e;6410421;'soins en ambulatoire';1;0
+e;6411908;'établissements de soins de long séjour';1;0
+e;6412698;'soins maternels pour béance du col';1;0
+e;6412719;'unités pédiatriques de soins intensifs';1;0
+e;6414394;'soins maternels pour grossesse multiple';1;0
+e;6416066;'soins particuliers du patient ayant une maladie contagieuse';1;0
+e;6416366;'soins hospitaliers avec chambre mère-enfant';1;0
+e;6417448;'examen pré-natal et soins de la mère';1;0
+e;6417819;'soins infirmiers d'une lacération obstétricale';1;0
+e;6417691;'soins maternels pour périnée rigide';1;0
+e;6418484;'soins des effets personnels du patient';1;0
+e;6420533;'soins maternels pour bradycardie foetale';1;0
+e;6420449;'gestion intégrée des soins de santé';1;0
+e;6420328;'autres soins de contrôle chirurgicaux précisés';1;0
+e;12196598;'médecine de soins critiques';777;0
+e;12185889;'calcul de satisfaction du patient aux soins délivrés';1;0
+e;6357550;'vomissements entraînant des soins au cours de la grossesse';1;0
+e;6402826;'contrôle qualité soins médicaux';1;0
+e;6395510;'soins infirmiers en pratique privée';1;0
+e;6292441;'département hospitalier des soins infirmiers';1;0
+e;6308438;'soins particuliers d'un bébé prématuré';1;0
+e;6339935;'soins infirmiers particuliers au patient ayant subi des brûlures';1;0
+e;6311619;'soins intensifs néonatals';1;0
+e;6333730;'examen physique en soins infirmiers';1;0
+e;6338159;'soins infirmiers particuliers en post-partum';1;0
+e;6398215;'soins hospitaliers à domicile';1;0
+e;6414386;'soins subaigus';1;0
+e;6314337;'prise en charge des soins infirmiers';1;0
+e;6344263;'cessation des soins';1;0
+e;6376487;'régimes de soins dentaires';1;0
+e;6319749;'soins ante partum de la mère';1;0
+e;6291672;'évaluation des résultats et des processus en soins de santé';1;0
+e;6327577;'plan de soins coordonnés pour un patient';1;0
+e;6342089;'soins dentaires prépayés';1;0
+e;6356450;'interrogatoire en soins infirmiers';1;0
+e;6361228;'soins de routine du nouveau-né';1;0
+e;6342591;'transition vers les soins pour adultes';1;0
+e;6383194;'soins à domicile par des soignants non professionnels';1;0
+e;6356402;'soins et examens du post-partum';1;0
+e;6357602;'soins infirmiers lors d'une circoncision';1;0
+e;6347056;'unités néonatales de soins intensifs';1;0
+e;6354646;'unités de soins intensifs néonatals';1;0
+e;6340732;'soins aux malades en phase critique';1;0
+e;6339022;'soins particuliers du patient ayant des convulsions';1;0
+e;6367937;'gestion des soins du patient';1;0
+e;6334368;'soins infirmiers particuliers au patient inconscient';1;0
+e;6286760;'soins infirmiers d'une épisiotomie';1;0
+e;6288443;'soins aux patients';1;0
+e;6291647;'soins dentaires chez les malades chroniques';1;0
+e;6309062;'soins infirmiers spécifiques ou spéciaux';1;0
+e;6312384;'soins de réanimation';1;0
+e;6313858;'soins autoadministrés';1;0
+e;6314642;'soins impliquant une rééducation';1;0
+e;6318243;'démarche en soins infirmiers';1;0
+e;6318709;'services de soins à domicile';1;0
+e;6322099;'prise en charge pour soins de contrôle comprenant une opération plastique';1;0
+e;6326607;'services de soins infirmiers';1;0
+e;6398286;'délivrance des soins par systèmes de garde';1;0
+e;6410663;'angoisses dues aux soins dentaires';1;0
+e;6411369;'soins dispensés dans une ambulance';1;0
+e;6413833;'soins de maintien en vie';1;0
+e;6414443;'anamnèse et examen physique avec prise en charge du patient d'un établissement de soins infirmiers';1;0
+e;13666641;'soins en médecine traditionnelle';1;0
+e;6401981;'épisode de soins subséquent infarctus myocardique aigu d'autres sites précisés';1;0
+e;6346944;'épisode de soins non précisé troubles hépatiques au cours de la grossesse';1;0
+e;6392481;'épisode de soins subséquent infarctus myocardique aigu vrai de la paroi postérieure';1;0
+e;6412506;'épisode de soins non précisé hypertension transitoire de la grossesse';1;0
+e;6374826;'épisode de soins non précisé grossesse prolongée';1;0
+e;6366033;'épisode de soins non précisé échec du déclenchement du travail par des moyens mécaniques';1;0
+e;6315364;'épisode de soins subséquent infarctus myocardique aigu de l'autre paroi antérieure';1;0
+e;6348472;'épisode de soins non précisé hématome pelvien';1;0
+e;6402894;'épisode de soins non précisé travail et accouchement compliqués d'un vasa previa';1;0
+e;6391843;'épisode de soins non précisé infarctus myocardique aigu de l'autre paroi antérieure';1;0
+e;6403661;'épisode de soins subséquent infarctus myocardique aigu de l'autre paroi inférieure';1;0
+e;6349531;'épisode de soins subséquent infarctus myocardique aigu de l'autre paroi latérale';1;0
+e;6398740;'épisode de soins non précisé autre traumatisme obstétrical précisé';1;0
+e;6367729;'épisode de soins non précisé inertie utérine primitive';1;0
+e;6400854;'épisode de soins non précisé pyrexie d'origine inconnue pendant les suites de couches';1;0
+e;6355179;'épisode de soins au cours de la grossesse non précisé accrochage des jumeaux';1;0
+e;6379095;'épisode de soins non précisé travail et accouchement compliqués de souffrance maternelle';1;0
+e;6406732;'épisode de soins non précisé foetus papyracé';1;0
+e;6380806;'épisode de soins non précisé vomissements non précisés au cours de la grossesse';1;0
+e;6416211;'épisode de soins non précisé oligohydramnios';1;0
+e;6401362;'épisode de soins non précisé autre hémorragie immédiate du postpartum';1;0
+e;6396034;'épisode de soins non précisé bactériurie asymptomatique au cours de la grossesse';1;0
+e;6309439;'épisode de soins non précisé ou sans objet opération césarienne précédente';1;0
+e;6406567;'épisode de soins au cours de la grossesse non précisé tumeurs du corps utérin';1;0
+e;6290947;'épisode de soins au cours de la grossesse non précisé insuffisance cervicale';1;0
+e;6377803;'épisode de soins non précisé infarctus myocardique aigu vrai de la paroi postérieure';1;0
+e;6402318;'épisode de soins non précisé échec du déclenchement médical ou non précisé du travail';1;0
+e;6338047;'épisode de soins initial infarctus myocardique aigu de l'autre paroi latérale';1;0
+e;6310579;'épisode de soins au cours de la grossesse non précisé rétrécissement du détroit inférieur';1;0
+e;6409770;'épisode de soins non précisé rupture prématurée des membranes';1;0
+e;6388743;'épisode de soins non précisé mauvaise position ou mauvaise présentation du foetus non précisée';1;0
+e;6418873;'épisode de soins non précisé embolie obstétricale par caillot sanguin';1;0
+e;6293905;'épisode de soins non précisé traumatisme obstétrical non précisé';1;0
+e;6322822;'épisode de soins non précisé autre embolie pulmonaire obstétricale';1;0
+e;6308509;'épisode de soins non précisé grossesse de quadruplés';1;0
+e;6407521;'épisode de soins au cours de la gross non précisé malformation du système nerveux central du foetus';1;0
+e;6326820;'épisode de soins non précisé autres causes de travail avec obstruction';1;0
+e;6416890;'épisode de soins au cours de la grossesse non précisé déchirure du périnée non précisée';1;0
+e;6393549;'épisode de soins non précisé autre mauvaise position ou présentation précisée';1;0
+e;6417026;'épisode de soins non précisé primigeste âgée';1;0
+e;6378501;'épisode de soins non précisé tête foetale haute à terme';1;0
+e;6403896;'épisode de soins non précisé névrite périphérique liée à la grossesse';1;0
+e;6378019;'épisode de soins au cours de la grossesse non précisé déchirure du périnée du premier degré';1;0
+e;6390889;'épisode de soins non précisé travail et accouchement compliqués de varices des membres inférieurs';1;0
+e;6315347;'épisode de soins non précisé infarctus myocardique aigu d'autres sites précisés';1;0
+e;6410686;'épisode de soins non précisé disproportion d'une autre origine';1;0
+e;6286363;'épisode de soins non précisé autre gestation multiple précisée';1;0
+e;6348400;'épisode de soins non précisé inertie utérine secondaire';1;0
+e;6403097;'épisode de soins non précisé lactation insuffisante';1;0
+e;6297539;'épisode de soins au cours de la grossesse non précisé déchirure vaginale haute';1;0
+e;6375212;'épisode de soins au cours de la grossesse non précisé rétrécissement du détroit supérieur';1;0
+e;6343537;'épisode de soins non précisé autres problèmes associés à la cavité amniotique et aux membranes';1;0
+e;6371335;'épisode de soins initial infarctus myocardique aigu de l'autre paroi inférieure';1;0
+e;6359520;'épisode de soins non précisé accouchement retardé après rupture artificielle des membranes';1;0
+e;6350924;'épisode de soins initial infarctus myocardique aigu d'autres sites précisés';1;0
+e;6305364;'épisode de soins non précisé prééclampsie légère ou non précisée';1;0
+e;6359018;'épisode de soins non précisé autre anomalie foetale entraînant une disproportion';1;0
+e;6396716;'épisode de soins au cours de la grossesse non précisé bassin généralement rétréci';1;0
+e;6356207;'épisode de soins non précisé oedème ou gain pondéral excessif au cours de la grossesse';1;0
+e;6383718;'épisode de soins non précisé trouble de la lactation non précisé';1;0
+e;6402424;'épisode de soins non précisé prééclampsie grave';1;0
+e;6381413;'épisode de soins non précisé grossesse de jumeaux';1;0
+e;6398896;'épisode de soins non précisé grossesse de triplés';1;0
+e;6394820;'épisode de soins au cours de la grossesse non précisé anomalie congénitale ou acquise du vagin';1;0
+e;6360945;'épisode de soins non précisé autres vomissements compliquant la grossesse';1;0
+e;6292427;'épisode de soins non précisé fièvre maternelle de type non précisé pendant le travail';1;0
+e;6313102;'épisode de soins au cours de la grossesse non précisé autre lésion des organes pelviens';1;0
+e;6329079;'épisode de soins non précisé complication de la grossesse non précisée';1;0
+e;6388081;'épisode de soins non précisé embolie obstétricale pyohémique et septique';1;0
+e;6311939;'épisode de soins non précisé accouchement prématuré';1;0
+e;6315107;'épisode de soins au cours de la grossesse non précisé déchirure du périnée du deuxième degré';1;0
+e;6316762;'épisode de soins non précisé autres complications des incisions chirurgicales obstétricales';1;0
+e;6329844;'épisode de soins non précisé maladie rénale non précisée au cours de la grossesse';1;0
+e;6386903;'épisode de soins non précisé infections des voies génito-urinaires au cours de la grossesse';1;0
+e;6344258;'épisode de soins non précisé présentation instable du foetus';1;0
+e;6378797;'épisode de soins non précisé hémorragie de la délivrance';1;0
+e;6408971;'épisode de soins initial infarctus myocardique aigu de l'autre paroi antérieure';1;0
+e;6303042;'épisode de soins non précisé disproportion non précisée';1;0
+e;6291424;'épisode de soins non précisé rétention du placenta sans hémorragie';1;0
+e;6289541;'épisode de soins non précisé légère hyperémèse de grossesse';1;0
+e;6363376;'épisode de soins initial infarctus myocardique aigu vrai de la paroi postérieure';1;0
+e;6385910;'soins dentaires pour enfants';1;0
+e;6347633;'épisode de soins non précisé hémorragie antepartum associée à des anomalies de coagulation';1;0
+e;6284892;'épisode de soins non précisé problème non précisé associé à la cavité amniotique et aux membranes';1;0
+e;6287499;'épisode de soins non précisé autre hémorragie précisée en début de grossesse';1;0
+e;6368184;'épisode de soins non précisé travail et accouchement compliqués de lésions vasculaires du cordon';1;0
+e;6353239;'épisode de soins au cours de la grossesse non précisé déchirure du périnée du quatrième degré';1;0
+e;6309231;'soins intensifs de chirurgie';1;0
+e;6292915;'épisode de soins non précisé travail et accouchement compliqués d'un prolapsus du cordon';1;0
+e;6414695;'épisode de soins non précisé obstruction par des tissus mous anormaux du bassin pendant le travail';1;0
+e;6326188;'plans de soins';1;0
+e;6397140;'épisode de soins non précisé dystocie des épaules';1;0
+e;6338216;'épisode de soins non précisé procidence d'un bras du foetus';1;0
+e;6386355;'épisode de soins non précisé inertie utérine autre et non précisée';1;0
+e;6389027;'épisode de soins non précisé présentation de la face ou du front';1;0
+e;6312077;'épisode de soins non précisé autre hémorragie antepartum';1;0
+e;6401991;'régime de soins dentaires prépayés';1;0
+e;6298215;'épisode de soins au cours de la grossesse non précisé hématome vulvaire et périnéal';1;0
+e;6412002;'épisode de soins non précisé ou sans objet autre âge maternel avancé';1;0
+e;6383447;'épisode de soins non précisé vomissements tardifs au cours de la grossesse';1;0
+e;6334647;'épisode de soins non précisé polype placentaire';1;0
+e;14094434;'système de soins de santé';777;0
+e;6363692;'contrôle qualité soins infirmiers';1;0
+e;14424869;'protocole de soins infirmiers';777;0
+e;14434477;'lieu de soins';1;0
+e;14454979;'deux unités mobiles de soins';777;0
+e;14452517;'refus de soins';1;0
+e;14453362;'soins somatiques';1;0
+e;14453702;'directeur des soins';1;0
+e;14608975;'soins de la peau';1;0
+e;14631463;'L'égal accès à des activités de prévention et des soins de qualité';777;0
+e;14744583;'direction générale de l'Offre de soins';777;0
+e;6338081;'épisode de soins non précisé travail avec obstruction non précisé';1;0
+e;6397814;'manque de soins envers les enfants';1;0
+e;6298429;'épisode de soins non précisé travail précipité';1;0
+e;6334795;'stomie ne nécessitant pas de soins médicaux';1;0
+e;6395700;'épisode de soins non précisé prolongation de la deuxième période';1;0
+e;6408760;'système information soins ambulatoires';1;0
+e;6290316;'épisode de soins non précisé foetus hydrocéphalique entraînant une disproportion';1;0
+e;6285145;'mort foetale intrautérine affectant les soins de la mère';1;0
+e;6285240;'centre hospitalier de soins de longue durée';1;0
+e;6307066;'épisode de soins non précisé placenta previa sans hémorragie';1;0
+e;6307721;'arrêt prématuré de soins médicaux et chirurgicaux';1;0
+e;6311511;'épisode de soins non précisé infection majeure à la suite des couches';1;0
+e;6316981;'centre rural de soins de santé';1;0
+e;6324326;'épisode de soins non précisé prolongation de la première période';1;0
+e;6334234;'dépendance envers la personne qui donne les soins';1;0
+e;6339771;'épisode de soins au cours de la grossesse non précisé isoimmunisation rhésus';1;0
+e;6343994;'anomalie foetale connue ou suspectée affectant les soins de la mère';1;0
+e;6349991;'épisode de soins au cours de la gross non précisé anomalie congénitale ou acquise de la vulve';1;0
+e;6350254;'réseaux de soins coordonnés aux États-unis';1;0
+e;6351683;'complication de soins médicaux';1;0
+e;6350545;'épisode de soins non précisé présentation transversale ou oblique du foetus';1;0
+e;6351261;'épisode de soins non précisé disproportion foeto-pelvienne';1;0
+e;6352273;'centre urbain de soins de santé';1;0
+e;6354900;'organisation de soins de santé prépayés';1;0
+e;6352815;'croissance foetale excessive affectant les soins de la mère';1;0
+e;6356562;'réseau de soins coordonnés aux États-unis';1;0
+e;6358139;'épisode de soins non précisé hémorragie antepartum non précisée';1;0
+e;6359098;'épisode de soins non précisé infection généralisée pendant le travail';1;0
+e;6372268;'épisode de soins non précisé foetus anormalement gros entraînant une disproportion';1;0
+e;6375708;'épisode de soins non précisé travail et accouchement compliqués d'une brièveté du cordon';1;0
+e;6414897;'lésion foetale suspectée d'origine radique affectant les soins de la mère';1;0
+e;6419815;'dépendance du patient envers le fournisseur de soins';1;0
+e;16074131;'Refus de soins';1;0
+e;13745962;'a-10 précautions et mesures de sécurité en soins infirmiers';1;0
+e;13745805;'a-11 techniques spéciales de soins infirmiers';1;0
+e;13770895;'a-110-113 techniques spéciales de soins infirmiers sur les unités';1;0
+e;13796795;'a-114 techniques de soins infirmiers reliées à l'obstétrique et à la gynécologie';1;0
+e;13745694;'a-117 soins infirmiers du nouveau-né';1;0
+e;13746738;'a-118 techniques de soins infirmiers pré-opératoires';1;0
+e;13800496;'a-12 techniques de soins infirmiers reliées à l'utilisation de sondes et de drains';1;0
+e;13740069;'a-13 techniques de soins infirmiers reliées à l'appareil locomoteur';1;0
+e;13779791;'a-62 interventions psychosociales en soins infirmiers';1;0
+e;13776647;'a-63 services sociaux et services de soins à domicile';1;0
+e;6294565;'accouchement vaginal avec forceps incluant les soins post-partum';1;0
+e;15383450;'avoir besoin de soins médicaux';1;0
+e;15197595;'bilan des soins';1;0
+e;15432414;'cabine de soins';1;0
+e;15921028;'carrières comme l'enseignement, les soins infirmiers et la coiffure';1;0
+e;15696483;'carrières telles que l'enseignement, les soins infirmiers et la coiffure';1;0
+e;15427401;'carte de soins';1;0
+e;15761425;'confier [qch] aux soins de';1;0
+e;15761420;'confier [qch] aux soins de [qqn]';1;0
+e;15513375;'confier qn aux soins de qn';1;0
+e;15635371;'confier quelqu'un aux soins de quelqu'un';1;0
+e;15761424;'confier quelque chose aux soins de quelqu'un';1;0
+e;13794007;'d-66-67 complications d'actes chirurgicaux et de soins médicaux';1;0
+e;13774538;'d-660 complications d'actes chirurgicaux et de soins médicaux termes généraux';1;0
+e;13790915;'d-67 complications de soins médicaux';1;0
+e;15407950;'des carrières comme l'enseignement, les soins infirmiers et la coiffure';1;0
+e;15407953;'des carrières telles que l'enseignement, les soins infirmiers et la coiffure';1;0
+e;15527762;'direction des soins infirmiers';1;0
+e;15304093;'dispense des soins médicaux';1;0
+e;15197600;'dispenser des soins';1;0
+e;15304087;'dispenser des soins médicaux';1;0
+e;16154989;'événement indésirable associé aux soins';777;0
+e;16154988;'événement indésirable grave associé à des soins';777;0
+e;16170679;'lits aux soins intensifs';1;0
+e;16170669;'fournisseur de soins de santé';1;0
+e;6425394;'hypertension chronique compliquant ou cause de soins obstétricaux pendant la puerpéralité';1;0
+e;6336486;'assurance soins infirmiers';1;0
+e;6286335;'problème foetal et placentaire non précisé affectant les soins de la mère';1;0
+e;6288019;'besoin d'une surveillance permanente provoquant une dépendance envers la personne qui donne les soins';1;0
+e;6291250;'souffrance foetale affectant les soins de la mère';1;0
+e;6291415;'problème relié à des soins médicaux';1;0
+e;6292101;'examen de soins d'urgence';1;0
+e;6336340;'autres soins médicaux';1;0
+e;6296663;'unités de soins intensifs pour nouveau-nés';1;0
+e;6296380;'prise en charge pour d'autres soins de contrôle orthopédiques';1;0
+e;6297566;'soins préopératoires';1;0
+e;6299332;'prise en charge pour surveillance médicale et soins médicaux d'autres nourrissons et enfants en bonne santé';1;0
+e;6300929;'soins périopératoires';1;0
+e;6303428;'affectant les soins de la mère lésion foetale suspectée due à une maladie virale de la mère';1;0
+e;6304746;'unités de soins intensifs pédiatriques';1;0
+e;6309105;'soins post-natals';1;0
+e;6308941;'prise en charge pour soins de contrôle comprenant une opération plastique d'autres parties du corps';1;0
+e;6310809;'Épisode de soins';1;0
+e;6311017;'unités de soins intensifs de brûlés';1;0
+e;6313593;'soins de surveillance';1;0
+e;6314428;'prise en charge pour soins et examens du post-partum';1;0
+e;6316993;'assurance soins chirurgicaux';1;0
+e;6317310;'soins en hospice';1;0
+e;6318176;'unité de soins intensifs respiratoires';1;0
+e;6319140;'prise en charge pour d'autres soins de contrôle chirurgicaux précisés';1;0
+e;6321046;'soins nocturnes';1;0
+e;6321617;'soins prolongés';1;0
+e;6327099;'soins de suivi';1;0
+e;6333083;'Études de spécialisation en soins infirmiers';1;0
+e;6333524;'affectant les soins de la mère avec accouchement lésion foetale suspectée d'origine radique';1;0
+e;6333742;'autres formes précisées de soins médicaux';1;0
+e;6333712;'assurance couvrant les soins de longue durée';1;0
+e;6334344;'soins de peau topiques';1;0
+e;6336154;'organisations de soins intégrés de santé';1;0
+e;6338644;'soins de première urgence';1;0
+e;6340625;'soins de dissection veineuse';1;0
+e;6341277;'soins préopératoire';1;0
+e;6342871;'centres de soins à vie pour personnes retraitées';1;0
+e;6342182;'assurance soins psychiatriques';1;0
+e;6343571;'soins de soutien';1;0
+e;6343559;'Établissements de soins de suite';1;0
+e;6344110;'soins pour des complications du post-partum - voir index alphabétique';1;0
+e;6343592;'soins dispensés dans un avion';1;0
+e;6344586;'unités de soins légers';1;0
+e;6345690;'centres de soins à vie pour retraités';1;0
+e;6346455;'soins périnatals';1;0
+e;6348996;'non classée ailleurs vaccine généralisée comme complication de soins médicaux';1;0
+e;6349819;'Évaluation de processus en soins de santé';1;0
+e;6350765;'Évaluation des besoins en soins infirmiers';1;0
+e;6351529;'autres soins de contrôle orthopédiques précisés';1;0
+e;6351939;'faible croissance foetale affectant les soins de la mère';1;0
+e;6352002;'soins prénatals';1;0
+e;6353884;'unités de soins intensifs de cardiologie';1;0
+e;6356367;'affectant les soins de la mère lésion foetale suspectée provenant d'une maladie virale maternelle';1;0
+e;6357323;'unités de soins aux brûlés';1;0
+e;6357330;'privation de soins envers les enfants';1;0
+e;6358987;'soins gratuits démunis';1;0
+e;6359579;'soins peropératoires';1;0
+e;6363115;'établissements de soins infirmiers qualifiés';1;0
+e;6365010;'transition des soins pédiatriques aux soins pour adultes';1;0
+e;6365363;'soins dispensés dans une maison privée';1;0
+e;6365566;'autres conditions placentaires affectant les soins de la mère';1;0
+e;6366050;'soins généraux de jour à un adulte';1;0
+e;6371633;'soins généraux en après-midi et en soirée à un enfant';1;0
+e;6373452;'antepartum croissance foetale excessive affectant les soins de la mère';1;0
+e;6374445;'soins postnatals';1;0
+e;6375736;'maison de soins infirmiers spécialisés';1;0
+e;6375683;'clinique urbaine de soins de santé';1;0
+e;6376769;'produits de soins des cheveux';1;0
+e;6377166;'dispensaires de soins médicaux';1;0
+e;6379284;'soins d'urgence';1;0
+e;6382081;'unités de soins longue durée';1;0
+e;6382667;'organisations de soins de santé intégrés aux États-unis';1;0
+e;6383617;'centres de soins dentaires';1;0
+e;6384396;'soins centrés sur le patient';1;0
+e;6385689;'établissements de soins palliatifs';1;0
+e;6386356;'soins préparatoires en vue d'une dialyse';1;0
+e;6392356;'soins à des horaires élargis';1;0
+e;6392748;'triplé etc. épisode de soins non précisé accouchement retardé du second jumeau';1;0
+e;6392564;'centres de retraite avec service de soins de longue durée';1;0
+e;6393166;'soins de la stomie';1;0
+e;6393785;'fiches de soins infirmiers';1;0
+e;6393946;'soins gradués';1;0
+e;6395435;'centres de soins de santé';1;0
+e;6401388;'structures de soins ambulatoires';1;0
+e;6403014;'autres difficultés liées à une dépendance envers la personne qui donne les soins';1;0
+e;6404138;'soins généraux de nuit à un adulte';1;0
+e;6405194;'soins de contrôle médicaux et de convalescence';1;0
+e;6411287;'soins de base';1;0
+e;6415725;'condition ou complication antepartum faible croissance foetale affectant les soins de la mère';1;0
+e;6420812;'site non précisé épisode de soins initial infarctus myocardique aigu';1;0
+e;6297415;'sans hémorragie, épisode de soins non précisé rétention de cotylédons placentaires ou de membranes';1;0
+e;12196599;'médecine de soins intensifs';777;0
+e;6377623;'soins gérés';1;0
+e;6387809;'soins post-interventionnels';1;0
+e;6356726;'enquêtes sur les soins de santé';1;0
+e;6337789;'épisode de soins non précisé infarctus myocardique aigu de la paroi inféro-latérale';1;0
+e;6350221;'épisode de soins initial infarctus myocardique aigu de la paroi inféro-postérieure';1;0
+e;6306564;'épisode de soins non précisé faible croissance foetale affectant les soins de la mère';1;0
+e;6397845;'épisode de soins initial infarctus myocardique aigu de la paroi inféro-latérale';1;0
+e;6410712;'épisode de soins subséquent infarctus myocardique aigu de la paroi inféro-postérieure';1;0
+e;6360456;'épisode de soins non précisé infarctus myocardique aigu de la paroi inféro-postérieure';1;0
+e;6287487;'syndrome des soins intensifs';1;0
+e;6344127;'épisode de soins initial infarctus myocardique aigu de la paroi antéro-latérale';1;0
+e;6404296;'épisode de soins subséquent infarctus myocardique aigu de la paroi antéro-latérale';1;0
+e;6408536;'épisode de soins non précisé infarctus myocardique aigu de la paroi antéro-latérale';1;0
+e;14530715;'soins des ongles';1;0
+e;15038285;'aux soins d'';1;0
+e;16087277;'soins des petites plaies';1;6
+e;6432554;'soins maternels pour foetus petit pour l'âge gestationnel';1;0
+e;6432071;'soins particuliers à la patiente en salle d'accouchement';1;0
+e;6431501;'entraînement pour soins à l'enfant';1;0
+e;6286000;'sous-endocardique épisode de soins subséquent infarctus myocardique aigu';1;0
+e;6288695;'prestataires de soins de santé';1;0
+e;6290086;'affectant les soins de la mère anomalie foetale connue ou suspectée';1;0
+e;6290841;'Établissements de soins qualifiés';1;0
+e;6292216;'Établissements de soins externes';1;0
+e;6293382;'autres soins de contrôle chirurgicaux';1;0
+e;6294888;'affectant les soins de la mère lésion foetale suspectée provenant de drogues';1;0
+e;6298232;'feuilles de soins';1;0
+e;6300068;'Établissements de soins de santé';1;0
+e;6300550;'établissements de soins de longue durée';1;0
+e;6303722;'autres problèmes foetaux et placentaires précisés affectant les soins de la mère';1;0
+e;6309011;'actuellement enceinte épisode de soins non précisé femme avec avortements répétés';1;0
+e;6311901;'non classée ailleurs autre infection due à des soins médicaux';1;0
+e;6312676;'difficultés liées à une dépendance envers la personne qui donne les soins';1;0
+e;6324762;'autres problèmes foetaux et placentaires affectant les soins de la mère';1;0
+e;6326082;'antepartum mort foetale intrautérine affectant les soins de la mère';1;0
+e;6330652;'autres complications précisées des soins chirurgicaux et médicaux';1;0
+e;6339132;'Établissements de soins continus';1;0
+e;6354574;'sous-endocardique épisode de soins non précisé infarctus myocardique aigu';1;0
+e;6355136;'autres difficultés liées aux installations médicales et autres soins de santé';1;0
+e;6355926;'difficultés liées à une mobilité restreinte provoquant une dépendance envers la personne qui donne les soins';1;0
+e;6356921;'antepartum souffrance foetale affectant les soins de la mère';1;0
+e;6362875;'non classée ailleurs embolie gazeuse comme complication de soins médicaux';1;0
+e;6364530;'affectant les soins de la mère lésion foetale suspectée provenant d'une autre maladie maternelle';1;0
+e;6370811;'centres de soins d'urgence';1;0
+e;6374623;'affectant les soins de la mère antepartum problème foetal et placentaire non précisé';1;0
+e;6376330;'difficultés liées aux installations médicales et autres soins de santé';1;0
+e;6379367;'séquelles des complications des soins médicaux et chirurgicaux';1;0
+e;6379963;'sous-endocardique épisode de soins initial infarctus myocardique aigu';1;0
+e;6385845;'site non précisé épisode de soins subséquent infarctus myocardique aigu';1;0
+e;6386483;'compliquant soins chirurgicaux et médicaux';1;0
+e;6396263;'clinique indépendante de soins dentaires';1;0
+e;6402603;'antepartum anomalie chromosomique du foetus affectant les soins de la mère';1;0
+e;6406178;'affectant les soins de la mère avec accouchement problème foetal et placentaire non précisé';1;0
+e;6417881;'non coordonnées ou prolongées épisode de soins non précisé contractions utérines hypertoniques';1;0
+e;6334400;'avec accouchement, anomalie chromosomique du foetus affectant les soins de la mère';1;0
+e;6315159;'avec accouchement, autres conditions placentaires affectant les soins de la mère';1;0
+e;6300858;'avec accouchement, croissance foetale excessive affectant les soins de la mère';1;0
+e;6415716;'avec accouchement, isoimmunisation rhésus affectant les soins de la mère';1;0
+e;6309240;'avec accouchement, mort foetale intrautérine affectant les soins de la mère';1;0
+e;6356421;'avec accouchement, souffrance foetale affectant les soins de la mère';1;0
+e;6306203;'avec la grossesse actuelle, épisode de soins non précisé grande multiparité';1;0
+e;6407427;'épisode de soins non précisé phlébo-thrombose profonde postpartum';1;0
+e;6441022;'traitement et soins d'entérostomie';1;0
+e;6437042;'indication de soins ou d'interventions concernant le travail ou l'accouchement';1;0
+e;6431215;'démarche de soins infirmiers';1;0
+e;6430363;'soins dispensés dans un hélicoptère';1;0
+e;6427968;'soins au site des broches ou des tiges';1;0
+e;6423677;'autres soins de contrôle orthopédiques';1;0
+e;6288724;'clinique médicale privée offrant des soins médicaux prépayés';1;0
+e;6388196;'non classées ailleurs complications de soins médicaux';1;0
+e;6285666;'non précisé, épisode de soins non précisé échec de tentative de travail';1;0
+e;12105585;'satisfaction du patient aux soins délivrés';1;0
+e;6441506;'soins et examens immédiatement après l'accouchement';1;0
+e;6441157;'soins à domicile par l'infirmière visiteuse';1;0
+e;6437778;'épisode de soins non précisé abcès du sein associé à l'accouchement';1;0
+e;6437637;'épisode de soins non précisé crevasse du mamelon associée à l'accouchement';1;0
+e;6428626;'soins dentaires chez les personnes âgées';1;0
+e;6425301;'effet tardif de complications liées à des soins chirurgicaux et médicaux';1;0
+e;6422994;'soins de maintien des fonctions vitales';1;0
+e;6422780;'épisode de soins non précisé autres troubles de la lactation';1;0
+e;11770044;'Centre régional de soins psychiatriques Les Marronniers';777;0
+e;6439560;'cabinet de médecins privé offrant des soins médicaux payables à l'acte';1;0
+e;6439383;'traitement et soins d'iléostomie';1;0
+e;6438820;'soins infirmiers particuliers à l'unité des soins intensifs';1;0
+e;6437924;'épisode de soins non précisé choc pendant ou après le travail et l'accouchement';1;0
+e;6437764;'soins d'assistance';1;0
+e;6433561;'Études d'évaluation des soins infirmiers';1;0
+e;6432126;'soins dentaires de l'enfant';1;0
+e;6431462;'épisode de soins au cours de la grossesse non précisé déchirure du col de l'utérus';1;0
+e;6427284;'transition des soins pour enfants aux soins pour adultes';1;0
+e;6426802;'soins de maintien artificiel de la vie';1;0
+e;6423419;'épisode de soins non précisé infarctus myocardique aigu de l'autre paroi inférieure';1;0
+e;6422989;'épisode de soins non précisé embolie gazeuse obstétricale';1;0
+e;6422145;'épisode de soins non précisé polyhydramnios';1;0
+e;6393970;'prise en charge pour soins préparatoires en vue d'une dialyse';1;0
+e;9989055;'épisode de soins non précisé échec de tentative de travail non précisé';1;0
+e;9992516;'Bombardement du centre de soins de Médecins sans frontières à Kondôz';777;0
+e;6290219;'affectant les soins de la mère épisode de soins non précisé mort foetale intrautérine';1;0
+e;6341744;'affectant les soins de la mère épisode de soins non précisé autres conditions placentaires';1;0
+e;6418560;'affectant les soins de la mère épisode de soins non précisé croissance foetale excessive';1;0
+e;6444320;'soins dentaires de l'handicapé';1;0
+e;6441230;'prise en charge pour soins et examens immédiatement après l'accouchement';1;0
+e;6440325;'épisode de soins non précisé anomalies congénitales de l'utérus';1;0
+e;6439975;'soins maternels pour anomalie de l'équilibre acido-basique';1;0
+e;6439378;'soins médicaux ou infirmiers ou surveillance médicale d'enfants en bonne santé selon des circonstances telles que enfants trop nombreux à la maison pour pouvoir en assurer la prise en charge normale';1;0
+e;6437408;'soins maternels pour malformation congénitale de l'utérus';1;0
+e;6434548;'épisode de soins non précisé travail prématuré avec menace d'accouchement prématuré';1;0
+e;6430602;'accès filtré aux soins spécialisés';1;0
+e;6430198;'complication vasculaire de soins médicaux';1;0
+e;6430165;'soins maternels pour malformation du système nerveux central du foetus';1;0
+e;6428805;'épisode de soins subséquent infarctus myocardique aigu de la paroi inféro-latérale';1;0
+e;6427734;'planification des soins de santé';1;0
+e;6425472;'avec accouchement, faible croissance foetale affectant les soins de la mère';1;0
+e;6424713;'unités hospitalières de soins néonatals';1;0
+e;6422894;'affectant les soins de la mère avec accouchement croissance foetale insuffisante';1;0
+e;6421966;'anomalie chromosomique du foetus affectant les soins de la mère';1;0
+e;6444156;'sans mention d'indication épisode de soins non précisé extraction par le siège';1;0
+e;6433318;'épisode de soins au cours de la grossesse non précisé inversion de l'utérus';1;0
+e;6432855;'soins et examens de l'allaitement maternel';1;0
+e;6429621;'affectant les soins de la mère épisode de soins non précisé souffrance foetale';1;0
+e;6429578;'soins particuliers du patient avec une sonde gastrique';1;0
+e;6428777;'soins maternels pour affection foetale et placentaire';1;0
+e;6427406;'établissements de soins courants';1;0
+e;6426163;'infection consécutive à des soins médicaux';1;0
+e;6423255;'soins maternels pour position transverse et oblique';1;0
+e;6423137;'soins maternels pour utérus double';1;0
+e;10000663;'épisode de soins non précisé rétention de cotylédons placentaires ou de membranes sans hémorragie';1;0
+e;1833433;'évaluation des soins psychiatriques';1;0
+e;5837104;'études en soins infirmiers';777;0
+e;5836182;'soins préhospitaliers d'urgence';777;0
+e;6444925;'soins maternels pour foetus léger pour l'âge gestationnel';1;0
+e;6441898;'prise en charge pour soins et examens de l'allaitement maternel';1;0
+e;6437712;'contrôle de l'infection dans les unités de soins dentaires';1;0
+e;6431441;'soins maternels pour disproportion foeto-pelvienne due à un bassin maternel généralement rétréci';1;0
+e;6429428;'clinique rurale de soins de santé';1;0
+e;6427015;'épisode de soins non précisé hémorragie non précisée en début de grossesse';1;0
+e;6422442;'soins particuliers du patient ayant reçu un immunosuppresseur';1;0
+e;9945926;'épisode de soins non précisé prolongation du travail de type non précisé';1;0
+e;9944971;'soins du visage';1;2
+e;10958253;'unité de soins intensifs de cardiologie';777;0
+e;11787595;'formation aux gestes et soins d'urgence';777;0
+e;1826531;'accès aux soins';1;0
+e;1829610;'carnet de soins';1;0
+e;1830721;'consentement aux soins en psychiatrie';1;0
+e;1830819;'des soins avec radioéléments coordination';1;0
+e;1831717;'retentissement psychique sur les proches donneurs de soins démence';1;0
+e;1831746;'dépense de soins';1;0
+e;1838563;'médicalisation des soins';1;0
+e;6448217;'cardiopathie hypertensive préexistante compliquant ou cause de soins obstétricaux pendant l'accouchement';1;0
+e;6443859;'hémorragie du début de la grossesse sans précision sur l'épisode de soins';1;0
+e;6441769;'régimes d'assurance avec prépaiement des soins de santé';1;0
+e;6439625;'quand la raison des soins maternels est que l'affection est considérée comme ayant affecté le foetus ou présumée l'avoir fait';1;0
+e;6437351;'besoin d'assistance et de soins d'hygiène provoquant une dépendance envers la personne qui donne les soins';1;0
+e;6435985;'épisode de soins non précisé insuffisance rénale aiguë survenant après le travail et l'accouchement';1;0
+e;6432210;'soins maternels pour incarcération de l'utérus gravide';1;0
+e;6430990;'épisode de soins non précisé suppression de la lactation';1;0
+e;6430829;'établissements de soins dentaires';1;0
+e;6427237;'unités de soins intensifs pour nouveau-né';1;0
+e;6424680;'Études de spécialisation en soins dentaires';1;0
+e;10935756;'suivre des soins';1;0
+e;13447151;'nécessiter des soins';1;0
+e;6526261;'services médicaux à l'unité des soins intensifs';1;0
+e;6448428;'soins infirmiers à domicile par l'infirmière visiteuse';1;0
+e;6447896;'soins maternels pour d'autres anomalies de l'utérus gravide';1;0
+e;6446761;'soins maternels pour fibrome de l'utérus';1;0
+e;6429449;'centres de soins de suite';1;0
+e;6428828;'enseignement sur les soins prénataux';1;0
+e;6428524;'soins infirmiers de première ligne';1;0
+e;6424935;'soins maternels pour anomalie précisée du placenta';1;0
+e;6423773;'arrêt des soins';1;0
+e;6422260;'antepartum autres conditions placentaires affectant les soins de la mère';1;0
+e;12049015;'impliquer les usagers et le personnel soignant dans la planification des soins';1;0
+e;12049035;'réaliser des soins axés sur l'individu';1;0
+e;12079455;'injonction de soins';1;0
+e;1829196;'premiers soins aux brûlés';1;0
+e;6447068;'hypertension chronique compliquant ou cause de soins obstétricaux pendant l'accouchement';1;0
+e;6446157;'épisode de soins non précisé mastite non purulente associée à l'accouchement';1;0
+e;6443512;'soins dentaires chez l'enfant';1;0
+e;6439256;'soins maternels pour rétroversion de l'utérus gravide';1;0
+e;6427602;'soins dentaires chez les vieillards';1;0
+e;6427413;'épisode de soins au cours de la grossesse non précisé déchirure du périnée du troisième degré';1;0
+e;6425676;'prise en charge pour d'autres soins de contrôle chirurgicaux';1;0
+e;6424329;'soins au cours de la grossesse pour avortement à répétition';1;0
+e;6424137;'soins infirmiers primaires';1;0
+e;6422525;'soins de prolongement artificiel de la vie';1;0
+e;10043608;'épisode de soins non précisé grande multiparité avec la grossesse actuelle';1;0
+e;12049878;'organiser le fonctionnement des services de soins en structure d'hébergement';1;0
+e;12049753;'gérer les situations de soins d'urgence';1;0
+e;12049977;'analyser des informations dans le domaine des soins vétérinaires';1;0
+e;12051430;'respecter des normes de qualité en lien avec la pratique des soins de santé';1;0
+e;12051417;'gérer des situations de soins d'urgence';1;0
+e;12051406;'contribuer à la continuité de soins';1;0
+e;12051381;'utiliser les langues étrangères dans le cadre des soins';1;0
+e;12051379;'gérer une équipe pluridisciplinaire impliquée dans les soins au patient';1;0
+e;12051378;'gérer le budget d'une unité de soins';1;0
+e;12051376;'apporter des soins à un groupe de patients présentant des caractéristiques spécifiques';1;0
+e;12051347;'déléguer des soins d'urgence';1;0
+e;12051302;'fonctions d'encadrement en soins infirmiers';1;0
+e;12051236;'diriger des activités de recherche en soins infirmiers';1;0
+e;12076943;'acte de soins';1;0
+e;6449460;'épisode de soins non précisé autres complications du travail et de l'accouchement';1;0
+e;6448305;'procédure administrative de l'unité de soins infirmiers';1;0
+e;6447788;'épisode de soins non précisé rétraction du mamelon associée à l'accouchement';1;0
+e;6444374;'visite du patient par l'aumônier à l'unité des soins intensifs';1;0
+e;6430462;'soins maternels pour présentation anormale connue ou présumée du foetus';1;0
+e;6430093;'épisode de soins non précisé anomalies de la coagulation postpartum';1;0
+e;6428349;'soins infirmiers à domicile par des aidants naturels';1;0
+e;6424545;'épisode de soins non précisé hyperémèse de grossesse avec trouble métabolique';1;0
+e;11147596;'déchets d'activités de soins à risques infectieux et assimilés';777;0
+e;12050876;'soins aux personnes handicapées';1;0
+e;6527050;'procédures d'évaluation et de qualité des soins médicaux';1;0
+e;6440370;'épisode de soins non précisé rétroversion et incarcération de l'utérus gravide';1;0
+e;6440127;'épisode de soins non précisé menace d'avortement';1;0
+e;6437365;'régulation de l'accès aux soins spécialisés';1;0
+e;6434317;'épis de soins au cours de la gross non précisé ou sans objet rupture de l'utérus pendant le travail';1;0
+e;6428039;'affectant les soins de la mère avec accouchement lésion foetale suspectée provenant de drogues';1;0
+e;8259177;'activité de soins';1;0
+e;11590089;'renoncement aux soins';777;0
+e;12052283;'suivi de soins';1;0
+e;16073269;'Injonction de soins';1;0
+e;2386264;'donner des soins';1;0
+e;6450230;'soins maternels pour tumeur du corps de l'utérus';1;0
+e;6449799;'épisode de soins non précisé infections du sein et du mamelon associées à l'accouchement';1;0
+e;6527000;'services de soins au nouveau-né';1;0
+e;6526526;'soins maternels liés à des affections foetales';1;0
+e;6447276;'enfant victime d'insuffisance de soins';1;0
+e;6442216;'clinique médicale privée offrant des soins médicaux payables à l'acte';1;0
+e;6435821;'épisode de soins au cours de la grossesse non précisé rupture d'une suture d'opération du périnée';1;0
+e;9929946;'souffrance foetale affectant les soins de la mère avec accouchement';1;0
+e;9929910;'mort foetale intrautérine affectant les soins de la mère avec accouchement';1;0
+e;9929785;'anomalie chromosomique du foetus affectant les soins de la mère avec accouchement';1;0
+e;9929902;'isoimmunisation rhésus affectant les soins de la mère avec accouchement';1;0
+e;9929856;'croissance foetale excessive affectant les soins de la mère avec accouchement';1;0
+e;9911717;'épisode de soins';1;0
+e;10063637;'évènement indésirable associé aux soins';777;0
+e;5809822;'ustensile de soins des animaux';1;0
+e;6447216;'affectant les soins de la mère maladie familiale héréditaire susceptible d'affecter le foetus';1;0
+e;6445114;'procédure d'assurance de la qualité des soins infirmiers';1;0
+e;6444441;'soins maternels pour échec de l'accouchement';1;0
+e;6435243;'traitement et soins d'urostomie';1;0
+e;6423428;'soins dentaires du sujet âgé';1;0
+e;8259176;'activités de soins';1;0
+e;9929807;'autres conditions placentaires affectant les soins de la mère avec accouchement';1;0
+e;9929865;'faible croissance foetale affectant les soins de la mère avec accouchement';1;0
+e;5883656;'centres spécialisés de soins aux toxicomanes';777;0
+e;6451929;'sans mention d'indication épisode de soins non précisé accouchement par césarienne';1;0
+e;6447519;'procédure d'évaluation des soins médicaux';1;0
+e;6444270;'indication non précisée de soins ou d'intervention associés au travail et à l'accouchement';1;0
+e;6422100;'soins coordonnés';1;0
+e;6447306;'cardionéphropathie hypertensive préexistante compliquant ou cause de soins obstétricaux pendant l'accouchement';1;0
+e;6445730;'soins maternels pour tumeur du col de l'utérus';1;0
+e;6435922;'autres indications précisées de soins ou d'intervention liés au travail et à l'accouchement';1;0
+e;6427433;'unités de soins néonatals d'hôpital';1;0
+e;11325299;'soins particuliers';1;0
+e;6449806;'soins médicaux ou infirmiers ou surveillance médicale d'enfants en bonne santé selon des circonstances telles que maladie de la mère';1;0
+e;6448396;'soins particuliers du patient en salle d'opération';1;0
+e;6448111;'indication non précisée de soins ou d'intervention liés au travail et à l'accouchement';1;0
+e;6438678;'soins infirmiers à domicile à plein temps par l'infirmière privée';1;0
+e;11172603;'soins de suite et de réadaptation';777;0
+e;11325428;'contrat de soins';1;0
+e;6449832;'épisode de soins non précisé engorgement des seins associé à l'accouchement';1;0
+e;6449428;'soins maternels pour prolapsus de l'utérus gravide';1;0
+e;6526200;'indications de soins ou d'interventions concernant le travail ou l'accouchement';1;0
+e;6448313;'épisode de soins non précisé rupture de l'utérus avant le début du travail';1;0
+e;6448139;'autres pensionnaires d'établissements de soins';1;0
+e;6444888;'visite du patient par l'aumônier à l'unité des soins palliatifs';1;0
+e;6437188;'soins médicaux ou infirmiers ou surveillance médicale d'enfants en bonne santé selon des circonstances telles que attente d'une famille adoptive ou d'un placement';1;0
+e;13302324;'relation de soins';1;0
+e;16072727;'Directeur des soins';1;0
+e;6451723;'procédure de qualité ou d'évaluation des soins médicaux';1;0
+e;6448641;'épisode de soins non précisé rupture d'une suture d'opération césarienne';1;0
+e;6530681;'centre indépendant de soins de santé';1;0
+e;6433771;'épisode de soins non précisé complication non précisée du travail et de l'accouchement';1;0
+e;11174832;'avec soins';1;0
+e;2445544;'rendre des soins';1;0
+e;6450915;'soins maternels pour cause connue ou présumée de foetus petit pour l'âge gestationnel';1;0
+e;6450593;'néphropathie hypertensive préexistante compliquant ou cause de soins obstétricaux pendant l'accouchement';1;0
+e;6449574;'antepartum indication non précisée de soins ou d'intervention liés au travail et à l'accouchement';1;0
+e;6526247;'maisons de soins infirmiers et centres de soins ambulatoires';1;0
+e;6451083;'épisode de soins non précisé autre menace d'avortement';1;0
+e;5524311;'protocoles de soins';1;0
+e;6447428;'soins maternels pour polype du corps de l'utérus';1;0
+e;6447423;'besoin d'assistance et de soins d'hygiène';1;0
+e;6447384;'soins infirmiers en salle d'opération';1;0
+e;6532639;'hôpital de soins pédiatriques';1;0
+e;6526891;'Évaluation et prise en charge du patient d'un établissement de soins infirmiers';1;0
+e;8809935;'limitation des soins';1;0
+e;9014623;'non administration de soins médicaux et chirurgicaux';1;0
+e;9247662;'soins des pieds';1;0
+e;9247988;'soins maternels pour bassin rétréci entraînant une disproportion';1;0
+e;11130759;'méthode d'action pour l'intégration des services d'aide et de soins dans le champ de l'autonomie';777;0
+e;11131367;'ambulance de secours et de soins d'urgence';777;0
+e;12728839;'soins pédiatriques';1;0
+e;12728840;'soins obstétriques';1;0
+e;13767675;'0-805-806 procédures d'évaluation et de qualité des soins médicaux';1;0
+e;13793310;'2-108 services médicaux à l'unité des soins intensifs';1;0
+e;13802370;'2-110 évaluation et prise en charge du patient d'un établissement de soins infirmiers';1;0
+e;13791388;'2-11a services de soins au nouveau-né';1;0
+e;13801027;'42 dimensions spirituelles dans les soins de santé';1;0
+e;13785129;'8-21 soins maternels liés à des affections foetales';1;0
+e;13787342;'8-23 indications de soins ou d'interventions concernant le travail ou l'accouchement';1;0
+e;13773288;'80 établissements de soins termes généraux';1;0
+e;13753032;'84 maisons de soins infirmiers et centres de soins ambulatoires';1;0
+e;14424866;'Concept fondamental en soins infirmiers';777;0
+e;14589969;'Des bâtonnets à mâcher pour les soins des dents';777;0
+e;14902819;'Classification internationale des soins primaires';777;0
+e;14428978;'Aux bons soins du docteur Kellogg';777;0
+e;598072;'soins de longue durée';1;0
+e;1173555;'remboursement des soins';1;0
+e;2132011;'aux bons soins d'';2;0
+e;1571953;'soins adjuvants';1;0
+e;5524310;'observance des protocoles de soins';1;0
+e;2545476;'soins informels';1;0
+e;1844845;'soins de premier recours';1;0
+e;5522296;'établissement de soins pour animaux';1;0
+e;2355611;'unité de consultation et de soins ambulatoires';1;0
+e;567566;'soins psychiatriques sans consentement en France';777;50
+e;1163089;'permanence des soins';1;0
+e;2923850;'en soins infirmiers';777;0
+e;3176088;'Loi concernant les soins de fin de vie';777;0
+e;6451100;'soins médicaux ou infirmiers ou surveillance médicale d'enfants en bonne santé selon des circonstances telles que situation socio-économique difficile de la famille';1;0
+e;6450878;'épisode de soins non précisé galactorrhée associée à l'accouchement';1;0
+e;436327;'de soins';1;50
+e;592742;'commission relative à l'organisation de la permanence des soins';1;0
+e;1571954;'soins de support';1;0
+e;2355602;'unité de soins post-anesthésie';1;0
+e;6451213;'soins maternels pour cause connue ou présumée de foetus léger pour l'âge gestationnel';1;0
+e;1844848;'troubles psychiques et soins intensifs';1;0
+e;1841621;'plan de soins';1;0
+e;3072754;'spécialiste en soins de beauté';1;0
+e;1844237;'prise en soins schizophrénie';1;0
+e;3169862;'services de soins';1;0
+e;1846340;'prise en soins au long cours d'un toxicomane';1;0
+e;1844846;'soins de santé primaire';1;0
+e;1843581;'en médecine nucléaire réseau coordonné de soins';1;0
+e;1844847;'soins externes';1;0
+e;1875430;'soins donnés à un blessé';1;0
+e;380118;'soins para-médicaux';1;50
+e;380117;'soins médicaux';1;58
+e;380116;'soins maternels jaloux';1;50
+e;380114;'soins esthétiques';1;50
+e;380106;'soins aux personnes âgées';1;50
+e;361812;'lit de soins de longue durée';1;50
+e;337787;'aux petits soins pour';1;50
+e;337755;'aux bons soins';1;50
+e;388750;'à les bons soins de';1;50
+e;380123;'soins vigilants';1;50
+e;380109;'soins culturaux';1;50
+e;380105;'soins ambulatoires';1;50
+e;380124;'soins à domicile';1;52
+e;380112;'soins des personnes âgées';1;50
+e;340821;'cabinet de soins';1;50
+e;380113;'soins domestiques';1;50
+e;382369;'système de soins';1;50
+e;380115;'soins hospitaliers';1;50
+e;380108;'soins corporels';1;50
+e;380121;'soins préventifs';1;50
+e;380120;'soins prénataux';1;50
+e;337797;'aux soins de';1;50
+e;380110;'soins d'hygiène';1;50
+e;361591;'ligne de soins';1;50
+e;368517;'par les soins de';1;50
+e;367220;'offre de soins';1;50
+e;342338;'centre de soins';1;50
+e;337796;'aux soins';1;50
+e;380119;'soins postopératoires';1;50
+e;368516;'par les soins';1;50
+e;380122;'soins psychiatriques';1;50
+e;380111;'soins dentaires';1;92
+e;253577;'feuille de soins électronique';1;50
+e;253578;'feuille de soins';1;50
+e;260457;'aux petits soins';1;62
+e;231672;'établissement de soins';1;64
+e;249667;'soins intensifs';1;20
+e;251250;'soins post-opératoires';1;10
+e;255944;'parcours de soins coordonnés';1;50
+e;257867;'premiers soins';1;56
+e;257868;'prodiguer les premiers soins';1;50
+e;258264;'soins de conservation';1;50
+e;259445;'protocole de soins';1;4
+e;260454;'unité de soins intensifs';1;2
+e;261597;'soins conservateurs';1;50
+e;89795;'être aux petits soins pour';1;50
+e;110345;'soins du corps';1;140
+e;171301;'aux bons soins de';1;50
+e;208269;'soins de beauté';1;50
+e;208270;'soins maternels';1;50
+e;13963;'être aux petits soins';1;98
+e;39558;'soins palliatifs';1;114
+e;54028;'petits soins';1;50
+e;82127;'Écrits réunis par les soins de ses disciples';1;50
+e;89405;'c3:la médecine et les soins du corps';5;50
+e;266586;'soins conservatoires';1;50
+e;269007;'unité de soins palliatifs';1;2
+e;269008;'unité de soins';1;56
+e;272976;'infirmier en soins intensifs';777;50
+e;284499;'service de soins';777;50
+e;302000;'soins de santé';777;60
+e;302001;'secteur des soins de santé';777;50
+e;151764;'salle de soins';1;52
+e;151765;'soins infirmiers';1;60
+r;403527097;111830;15695055;11;25
+r;301691170;111830;6348028;11;25
+r;301691072;111830;6347593;11;25
+r;301416612;111830;6337244;11;25
+r;297665403;111830;6284438;11;25
+r;297672375;111830;6284727;11;25
+r;298193517;111830;6286806;11;25
+r;298246440;111830;6287362;11;25
+r;298251856;111830;6287932;11;25
+r;298506707;111830;6293272;11;25
+r;298383725;111830;6288868;11;25
+r;298392678;111830;6289447;11;25
+r;298401714;111830;6289760;11;25
+r;298402283;111830;6289833;11;25
+r;298434683;111830;6290439;11;25
+r;298434833;111830;6290590;11;25
+r;298436963;111830;6290831;11;25
+r;298493741;111830;6292276;11;25
+r;298511300;111830;6293528;11;25
+r;299370225;111830;6304347;11;25
+r;298779974;111830;6293728;11;25
+r;298783961;111830;6294172;11;25
+r;298803151;111830;6294306;11;25
+r;298818428;111830;6294393;11;25
+r;301415425;111830;6337108;11;25
+r;298869296;111830;6295113;11;25
+r;299024859;111830;6297408;11;25
+r;299024900;111830;6297357;11;25
+r;299031524;111830;6298303;11;25
+r;299035828;111830;6298391;11;25
+r;299069825;111830;6299191;11;25
+r;299071218;111830;6299056;11;25
+r;299111520;111830;6300053;11;25
+r;299219901;111830;6301717;11;25
+r;299237083;111830;6301962;11;25
+r;299332827;111830;6302793;11;25
+r;299340097;111830;6303440;11;25
+r;299342903;111830;6303632;11;25
+r;299343250;111830;6303667;11;25
+r;299481764;111830;6304475;11;25
+r;299486129;111830;6305541;11;25
+r;299492232;111830;6306329;11;25
+r;299519098;111830;6306660;11;25
+r;299520970;111830;6306891;11;25
+r;299563498;111830;6307432;11;25
+r;299572839;111830;6308925;11;25
+r;299574131;111830;6308943;11;25
+r;299575148;111830;6309101;11;25
+r;299580880;111830;6310157;11;25
+r;299581132;111830;6310420;11;25
+r;299582137;111830;6310520;11;25
+r;299587552;111830;6310962;11;25
+r;299589001;111830;6311557;11;25
+r;299591765;111830;6311976;11;25
+r;299592037;111830;6312230;11;25
+r;299595516;111830;6312719;11;25
+r;299598705;111830;6313017;11;25
+r;299614661;111830;6313577;11;25
+r;299615393;111830;6313553;11;25
+r;299649027;111830;6314646;11;25
+r;299651365;111830;6315447;11;25
+r;299753011;111830;6316272;11;25
+r;299786858;111830;6316283;11;25
+r;299792578;111830;6317231;11;25
+r;299793935;111830;6317747;11;25
+r;299901145;111830;6319688;11;25
+r;300119385;111830;6321870;11;25
+r;300173362;111830;6323712;11;25
+r;300175359;111830;6324122;11;25
+r;300175462;111830;6324331;11;25
+r;300182534;111830;6324565;11;25
+r;300201262;111830;6326286;11;25
+r;300209212;111830;6327572;11;25
+r;300210167;111830;6327826;11;25
+r;300211250;111830;6327792;11;25
+r;300211785;111830;6327374;11;25
+r;300213947;111830;6328313;11;25
+r;300232690;111830;6328854;11;25
+r;300238988;111830;6329746;11;25
+r;300240680;111830;6329972;11;25
+r;300968837;111830;6331936;11;25
+r;300969785;111830;6331886;11;25
+r;300973666;111830;6332271;11;25
+r;301004693;111830;6332413;11;25
+r;301111435;111830;6331993;11;25
+r;301130470;111830;6333188;11;25
+r;301147917;111830;6333807;11;25
+r;301196427;111830;6334248;11;25
+r;301234955;111830;6335609;11;25
+r;301264719;111830;6336017;11;25
+r;301417234;111830;6336869;11;25
+r;301442846;111830;6338065;11;25
+r;301451177;111830;6339178;11;25
+r;301451440;111830;6338063;11;25
+r;301454288;111830;6339396;11;25
+r;301455836;111830;6339251;11;25
+r;301455994;111830;6339529;11;25
+r;301460814;111830;6340193;11;25
+r;301474251;111830;6341105;11;25
+r;301481495;111830;6341077;11;25
+r;301484880;111830;6341620;11;25
+r;301485558;111830;6341428;11;25
+r;301488140;111830;6342029;11;25
+r;301488728;111830;6341331;11;25
+r;301494002;111830;6343180;11;25
+r;301495145;111830;6342798;11;25
+r;301511832;111830;6344017;11;25
+r;301526240;111830;6344321;11;25
+r;301544247;111830;6345030;11;25
+r;301548636;111830;6344985;11;25
+r;301559023;111830;6346076;11;25
+r;301559480;111830;6345740;11;25
+r;301564312;111830;6346522;11;25
+r;301609097;111830;6346999;11;25
+r;301715939;111830;6348076;11;25
+r;301720936;111830;6348279;11;25
+r;301723291;111830;6349025;11;25
+r;301726625;111830;6348801;11;25
+r;302038809;111830;6358497;11;25
+r;301732760;111830;6350395;11;25
+r;301736606;111830;6350990;11;25
+r;301738992;111830;6350890;11;25
+r;301740977;111830;6351807;11;25
+r;301744291;111830;6352267;11;25
+r;301745215;111830;6352446;11;25
+r;301757602;111830;6354321;11;25
+r;301760533;111830;6354205;11;25
+r;301761534;111830;6354806;11;25
+r;301788191;111830;6355000;11;25
+r;301800051;111830;6355355;11;25
+r;301805765;111830;6356044;11;25
+r;301810474;111830;6356831;11;25
+r;301815769;111830;6357329;11;25
+r;302032595;111830;6358271;11;25
+r;302044437;111830;6358637;11;25
+r;302078946;111830;6358952;11;25
+r;302134946;111830;6362289;11;25
+r;302135704;111830;6362195;11;25
+r;302136630;111830;6362346;11;25
+r;302138037;111830;6362632;11;25
+r;302147125;111830;6363259;11;25
+r;302174847;111830;6364200;11;25
+r;302180451;111830;6364402;11;25
+r;302182625;111830;6364596;11;25
+r;302182847;111830;6364785;11;25
+r;302183508;111830;6364620;11;25
+r;302183795;111830;6365006;11;25
+r;302185813;111830;6364997;11;25
+r;302199355;111830;6366897;11;25
+r;302199378;111830;6366823;11;25
+r;302440814;111830;6367103;11;25
+r;305007024;111830;6395928;11;25
+r;305006474;111830;6395824;11;25
+r;302929074;111830;6367359;11;25
+r;302951473;111830;6367887;11;25
+r;302956844;111830;6367532;11;25
+r;302971053;111830;6368867;11;25
+r;302983681;111830;6370620;11;25
+r;302985048;111830;6371043;11;25
+r;302986441;111830;6370722;11;25
+r;302994093;111830;6371724;11;25
+r;302994797;111830;6371874;11;25
+r;302995414;111830;6371496;11;25
+r;303002978;111830;6371847;11;25
+r;303003562;111830;6372739;11;25
+r;303574562;111830;6375168;11;25
+r;303622087;111830;6375564;11;25
+r;303624824;111830;6375944;11;25
+r;303627642;111830;6376227;11;25
+r;303629408;111830;6376943;11;25
+r;303637842;111830;6378222;11;25
+r;303641897;111830;6378974;11;25
+r;303644114;111830;6379084;11;25
+r;303818344;111830;6380263;11;25
+r;303827398;111830;6379785;11;25
+r;303931545;111830;6382001;11;25
+r;303978956;111830;6382598;11;25
+r;303978986;111830;6382781;11;25
+r;303979559;111830;6382964;11;25
+r;303985720;111830;6383855;11;25
+r;303985817;111830;6383704;11;25
+r;303990609;111830;6383791;11;25
+r;303990873;111830;6384545;11;25
+r;303994027;111830;6385028;11;25
+r;304010092;111830;6385484;11;25
+r;304020854;111830;6385533;11;25
+r;304376657;111830;6385947;11;25
+r;304384384;111830;6386455;11;25
+r;304480452;111830;6387395;11;25
+r;304481746;111830;6387298;11;25
+r;304485874;111830;6387505;11;25
+r;304487117;111830;6387513;11;25
+r;304566311;111830;6389360;11;25
+r;304573661;111830;6389563;11;25
+r;304580679;111830;6390016;11;25
+r;304582674;111830;6390105;11;25
+r;304585775;111830;6390155;11;25
+r;304599497;111830;6390643;11;25
+r;304600613;111830;6390340;11;25
+r;304602135;111830;6391015;11;25
+r;304603595;111830;6390982;11;25
+r;304856706;111830;6392328;11;25
+r;304858023;111830;6392513;11;25
+r;304859091;111830;6392678;11;25
+r;304859334;111830;6392825;11;25
+r;304868151;111830;6393242;11;25
+r;305000428;111830;6395471;11;25
+r;305015961;111830;6396174;11;25
+r;305017313;111830;6396566;11;25
+r;305049502;111830;6397285;11;25
+r;305057697;111830;6398169;11;25
+r;305059280;111830;6397847;11;25
+r;305130387;111830;6398373;11;25
+r;305130576;111830;6398980;11;25
+r;305141689;111830;6400320;11;25
+r;305148801;111830;6400577;11;25
+r;305222602;111830;6402085;11;25
+r;305223072;111830;6402038;11;25
+r;305229065;111830;6402359;11;25
+r;305261012;111830;6402242;11;25
+r;305261266;111830;6402443;11;25
+r;305294556;111830;6403882;11;25
+r;305295196;111830;6403931;11;25
+r;305295239;111830;6403604;11;25
+r;305297894;111830;6404346;11;25
+r;305299628;111830;6404801;11;25
+r;305300669;111830;6404579;11;25
+r;305305798;111830;6405263;11;25
+r;305306210;111830;6405165;11;25
+r;305306381;111830;6405403;11;25
+r;305308351;111830;6405987;11;25
+r;305311038;111830;6406353;11;25
+r;305314134;111830;6406947;11;25
+r;305319410;111830;6407665;11;25
+r;305328101;111830;6408212;11;25
+r;305332149;111830;6408118;11;25
+r;305369299;111830;6408640;11;25
+r;305381633;111830;6408761;11;25
+r;305460091;111830;6408826;11;25
+r;305464720;111830;6409865;11;25
+r;305469888;111830;6410627;11;25
+r;305474130;111830;6410421;11;25
+r;305478817;111830;6411908;11;25
+r;305484001;111830;6412698;11;25
+r;305484971;111830;6412719;11;25
+r;305616769;111830;6414394;11;25
+r;305675273;111830;6416066;11;25
+r;305686298;111830;6416366;11;25
+r;305686701;111830;6417448;11;25
+r;305689525;111830;6417819;11;25
+r;305690329;111830;6417691;11;25
+r;305693427;111830;6418484;11;25
+r;305705851;111830;6420533;11;25
+r;305706669;111830;6420449;11;25
+r;305707056;111830;6420328;11;25
+r;316557336;111830;12196598;11;25
+r;316596699;111830;12185889;11;25
+r;318911427;111830;6357550;11;25
+r;319056599;111830;6402826;11;25
+r;319057692;111830;6395510;11;25
+r;319058057;111830;6292441;11;25
+r;319061658;111830;6308438;11;25
+r;319062060;111830;6339935;11;25
+r;319062623;111830;6311619;11;25
+r;319064435;111830;6333730;11;25
+r;319067521;111830;6338159;11;25
+r;319072348;111830;6398215;11;25
+r;319073186;111830;6414386;11;25
+r;319074822;111830;6314337;11;25
+r;319078478;111830;6344263;11;25
+r;319082222;111830;6376487;11;25
+r;319088594;111830;6319749;11;25
+r;319094122;111830;6291672;11;25
+r;319094847;111830;6327577;11;25
+r;319102191;111830;6342089;11;25
+r;319102640;111830;6356450;11;25
+r;319109780;111830;6361228;11;25
+r;319110052;111830;6342591;11;25
+r;341187364;111830;6383194;11;25
+r;341135536;111830;6356402;11;25
+r;341133242;111830;6357602;11;25
+r;341105697;111830;6347056;11;25
+r;341116285;111830;6354646;11;25
+r;341089458;111830;6340732;11;25
+r;341071288;111830;6339022;11;25
+r;341156256;111830;6367937;11;25
+r;341038257;111830;6334368;11;25
+r;340927327;111830;6286760;11;25
+r;340928850;111830;6288443;11;25
+r;340942404;111830;6291647;11;25
+r;340997761;111830;6309062;11;25
+r;341002523;111830;6312384;11;25
+r;341003848;111830;6313858;11;25
+r;341004019;111830;6314642;11;25
+r;341006544;111830;6318243;11;25
+r;341007012;111830;6318709;11;25
+r;341011011;111830;6322099;11;25
+r;341014907;111830;6326607;11;25
+r;341206947;111830;6398286;11;25
+r;341238158;111830;6410663;11;25
+r;341240270;111830;6411369;11;25
+r;341246091;111830;6413833;11;25
+r;341248484;111830;6414443;11;25
+r;347194350;111830;13666641;11;25
+r;349199573;111830;6401981;11;25
+r;349199803;111830;6346944;11;25
+r;349199959;111830;6392481;11;25
+r;349200053;111830;6412506;11;25
+r;349200384;111830;6374826;11;25
+r;349200713;111830;6366033;11;25
+r;349200977;111830;6315364;11;25
+r;349202343;111830;6348472;11;25
+r;349202478;111830;6402894;11;25
+r;349202619;111830;6391843;11;25
+r;349202905;111830;6403661;11;25
+r;349203296;111830;6349531;11;25
+r;349203780;111830;6398740;11;25
+r;349203832;111830;6367729;11;25
+r;349203869;111830;6400854;11;25
+r;349203946;111830;6355179;11;25
+r;349204332;111830;6379095;11;25
+r;349205027;111830;6406732;11;25
+r;349205194;111830;6380806;11;25
+r;349205425;111830;6416211;11;25
+r;349205546;111830;6401362;11;25
+r;349205668;111830;6396034;11;25
+r;349205727;111830;6309439;11;25
+r;349205756;111830;6406567;11;25
+r;349205849;111830;6290947;11;25
+r;349205918;111830;6377803;11;25
+r;349206368;111830;6402318;11;25
+r;349206394;111830;6338047;11;25
+r;349206538;111830;6310579;11;25
+r;349206560;111830;6409770;11;25
+r;349206716;111830;6388743;11;25
+r;349206997;111830;6418873;11;25
+r;349207224;111830;6293905;11;25
+r;349207400;111830;6322822;11;25
+r;349207517;111830;6308509;11;25
+r;349207660;111830;6407521;11;25
+r;349207945;111830;6326820;11;25
+r;349208070;111830;6416890;11;25
+r;349208383;111830;6393549;11;25
+r;349208818;111830;6417026;11;25
+r;349208984;111830;6378501;11;25
+r;349210059;111830;6403896;11;25
+r;349211136;111830;6378019;11;25
+r;349211404;111830;6390889;11;25
+r;349211449;111830;6315347;11;25
+r;349211634;111830;6410686;11;25
+r;349211683;111830;6286363;11;25
+r;349212407;111830;6348400;11;25
+r;349212592;111830;6403097;11;25
+r;349212887;111830;6297539;11;25
+r;349213047;111830;6375212;11;25
+r;349213213;111830;6343537;11;25
+r;349213903;111830;6371335;11;25
+r;349214605;111830;6359520;11;25
+r;349215930;111830;6350924;11;25
+r;349217892;111830;6305364;11;25
+r;349218934;111830;6359018;11;25
+r;349219946;111830;6396716;11;25
+r;349221900;111830;6356207;11;25
+r;349221955;111830;6383718;11;25
+r;349222415;111830;6402424;11;25
+r;349223060;111830;6381413;11;25
+r;349223263;111830;6398896;11;25
+r;349225197;111830;6394820;11;25
+r;349226835;111830;6360945;11;25
+r;349226894;111830;6292427;11;25
+r;349227022;111830;6313102;11;25
+r;349227308;111830;6329079;11;25
+r;349228011;111830;6388081;11;25
+r;349230937;111830;6311939;11;25
+r;349231653;111830;6315107;11;25
+r;349232048;111830;6316762;11;25
+r;349232463;111830;6329844;11;25
+r;349233186;111830;6386903;11;25
+r;349234262;111830;6344258;11;25
+r;349235746;111830;6378797;11;25
+r;349236517;111830;6408971;11;25
+r;349238646;111830;6303042;11;25
+r;349240732;111830;6291424;11;25
+r;349241760;111830;6289541;11;25
+r;349242255;111830;6363376;11;25
+r;349243732;111830;6385910;11;25
+r;349244853;111830;6347633;11;25
+r;349246996;111830;6284892;11;25
+r;349247125;111830;6287499;11;25
+r;349250702;111830;6368184;11;25
+r;349252553;111830;6353239;11;25
+r;349253462;111830;6309231;11;25
+r;349253490;111830;6292915;11;25
+r;349261476;111830;6414695;11;25
+r;349262065;111830;6326188;11;25
+r;349264231;111830;6397140;11;25
+r;349271841;111830;6338216;11;25
+r;349366465;111830;6386355;11;25
+r;355102202;111830;6389027;11;25
+r;355177251;111830;6312077;11;25
+r;355188884;111830;6401991;11;25
+r;355766145;111830;6298215;11;25
+r;356158249;111830;6412002;11;25
+r;356256667;111830;6383447;11;25
+r;356269447;111830;6334647;11;25
+r;356647191;111830;14094434;11;25
+r;357720219;111830;6363692;11;25
+r;366294513;111830;14424869;11;25
+r;366515728;111830;14434477;11;25
+r;366856983;111830;14454979;11;25
+r;366862298;111830;14452517;11;25
+r;366901583;111830;14453362;11;25
+r;366911571;111830;14453702;11;25
+r;371223139;111830;14608975;11;25
+r;371687159;111830;14631463;11;25
+r;374833798;111830;14744583;11;25
+r;399681018;111830;6338081;11;25
+r;400820940;111830;6397814;11;25
+r;397506695;111830;6298429;11;25
+r;399520781;111830;6334795;11;25
+r;400818275;111830;6395700;11;25
+r;400956154;111830;6408760;11;25
+r;396650209;111830;6290316;11;25
+r;396194312;111830;6285145;11;25
+r;396195244;111830;6285240;11;25
+r;397898772;111830;6307066;11;25
+r;398137986;111830;6307721;11;25
+r;398380190;111830;6311511;11;25
+r;398503634;111830;6316981;11;25
+r;399348553;111830;6324326;11;25
+r;399574201;111830;6334234;11;25
+r;399680347;111830;6339771;11;25
+r;399953343;111830;6343994;11;25
+r;399986088;111830;6349991;11;25
+r;399986446;111830;6350254;11;25
+r;399997366;111830;6351683;11;25
+r;399997757;111830;6350545;11;25
+r;399998733;111830;6351261;11;25
+r;400017957;111830;6352273;11;25
+r;400042036;111830;6354900;11;25
+r;400046125;111830;6352815;11;25
+r;400055891;111830;6356562;11;25
+r;400072174;111830;6358139;11;25
+r;400109210;111830;6359098;11;25
+r;400525522;111830;6372268;11;25
+r;400583464;111830;6375708;11;25
+r;401505067;111830;6414897;11;25
+r;402044593;111830;6419815;11;25
+r;419533802;111830;16074131;11;25
+r;419565198;111830;13745962;11;25
+r;419565208;111830;13745805;11;25
+r;419565218;111830;13770895;11;25
+r;419565228;111830;13796795;11;25
+r;419565240;111830;13745694;11;25
+r;419565250;111830;13746738;11;25
+r;419565260;111830;13800496;11;25
+r;419565301;111830;13740069;11;25
+r;419565504;111830;13779791;11;25
+r;419565514;111830;13776647;11;25
+r;419570453;111830;6294565;11;25
+r;419628590;111830;15383450;11;25
+r;419653542;111830;15197595;11;25
+r;419674923;111830;15432414;11;25
+r;419687013;111830;15921028;11;25
+r;419687026;111830;15696483;11;25
+r;419687631;111830;15427401;11;25
+r;419730094;111830;15761425;11;25
+r;419730100;111830;15761420;11;25
+r;419730164;111830;15513375;11;25
+r;419730172;111830;15635371;11;25
+r;419730180;111830;15761424;11;25
+r;419760681;111830;13794007;11;25
+r;419760693;111830;13774538;11;25
+r;419760821;111830;13790915;11;25
+r;419773813;111830;15407950;11;25
+r;419773825;111830;15407953;11;25
+r;419782821;111830;15527762;11;25
+r;419784062;111830;15304093;11;25
+r;419784113;111830;15197600;11;25
+r;419784119;111830;15304087;11;25
+r;423723902;111830;16154989;11;25
+r;423726037;111830;16154988;11;25
+r;424059335;111830;16170679;11;25
+r;424065165;111830;16170669;11;25
+r;122731464;111830;6425394;11;26
+r;301410630;111830;6336486;11;26
+r;298185010;111830;6286335;11;26
+r;298253081;111830;6288019;11;26
+r;298454468;111830;6291250;11;26
+r;298460504;111830;6291415;11;26
+r;298496970;111830;6292101;11;26
+r;301410109;111830;6336340;11;26
+r;298924908;111830;6296663;11;26
+r;298948415;111830;6296380;11;26
+r;299025383;111830;6297566;11;26
+r;299071769;111830;6299332;11;26
+r;299137888;111830;6300929;11;26
+r;299340847;111830;6303428;11;26
+r;299484181;111830;6304746;11;26
+r;299573700;111830;6309105;11;26
+r;299579939;111830;6308941;11;26
+r;299584569;111830;6310809;11;26
+r;299584763;111830;6311017;11;26
+r;299615813;111830;6313593;11;26
+r;299632083;111830;6314428;11;26
+r;299786702;111830;6316993;11;26
+r;299787213;111830;6317310;11;26
+r;299796989;111830;6318176;11;26
+r;299868209;111830;6319140;11;26
+r;300107725;111830;6321046;11;26
+r;300120857;111830;6321617;11;26
+r;300205627;111830;6327099;11;26
+r;301133302;111830;6333083;11;26
+r;301144743;111830;6333524;11;26
+r;301149991;111830;6333742;11;26
+r;301150145;111830;6333712;11;26
+r;301201102;111830;6334344;11;26
+r;301264460;111830;6336154;11;26
+r;301448428;111830;6338644;11;26
+r;301473359;111830;6340625;11;26
+r;301484240;111830;6341277;11;26
+r;301494339;111830;6342871;11;26
+r;301494398;111830;6342182;11;26
+r;301505718;111830;6343571;11;26
+r;301508984;111830;6343559;11;26
+r;301512246;111830;6344110;11;26
+r;301527601;111830;6343592;11;26
+r;301528944;111830;6344586;11;26
+r;301555214;111830;6345690;11;26
+r;301562708;111830;6346455;11;26
+r;301723010;111830;6348996;11;26
+r;301729447;111830;6349819;11;26
+r;301735505;111830;6350765;11;26
+r;301739287;111830;6351529;11;26
+r;301742255;111830;6351939;11;26
+r;301744467;111830;6352002;11;26
+r;301753293;111830;6353884;11;26
+r;301810031;111830;6356367;11;26
+r;301839766;111830;6357323;11;26
+r;302028648;111830;6357330;11;26
+r;302077623;111830;6358987;11;26
+r;302082721;111830;6359579;11;26
+r;302146642;111830;6363115;11;26
+r;302185240;111830;6365010;11;26
+r;302187393;111830;6365363;11;26
+r;302188287;111830;6365566;11;26
+r;302188987;111830;6366050;11;26
+r;302993589;111830;6371633;11;26
+r;303266027;111830;6373452;11;26
+r;303313948;111830;6374445;11;26
+r;303623631;111830;6375736;11;26
+r;303624515;111830;6375683;11;26
+r;303628499;111830;6376769;11;26
+r;303632114;111830;6377166;11;26
+r;303644458;111830;6379284;11;26
+r;303933736;111830;6382081;11;26
+r;303982118;111830;6382667;11;26
+r;303985410;111830;6383617;11;26
+r;303988683;111830;6384396;11;26
+r;304021445;111830;6385689;11;26
+r;304385940;111830;6386356;11;26
+r;304857762;111830;6392356;11;26
+r;304858117;111830;6392748;11;26
+r;304858362;111830;6392564;11;26
+r;304861358;111830;6393166;11;26
+r;304893856;111830;6393785;11;26
+r;304900648;111830;6393946;11;26
+r;305020576;111830;6395435;11;26
+r;305204069;111830;6401388;11;26
+r;305269043;111830;6403014;11;26
+r;305296541;111830;6404138;11;26
+r;305304585;111830;6405194;11;26
+r;305474871;111830;6411287;11;26
+r;305666421;111830;6415725;11;26
+r;305707753;111830;6420812;11;26
+r;313064575;111830;6297415;11;26
+r;316184022;111830;12196599;11;26
+r;319067883;111830;6377623;11;26
+r;319071352;111830;6387809;11;26
+r;319102327;111830;6356726;11;26
+r;349201676;111830;6337789;11;26
+r;349203683;111830;6350221;11;26
+r;349214829;111830;6306564;11;26
+r;349216206;111830;6397845;11;26
+r;349227266;111830;6410712;11;26
+r;349238308;111830;6360456;11;26
+r;349240490;111830;6287487;11;26
+r;349241158;111830;6344127;11;26
+r;349245178;111830;6404296;11;26
+r;355772966;111830;6408536;11;26
+r;368618034;111830;14530715;11;26
+r;393801912;111830;15038285;11;26
+r;419478457;111830;16087277;11;26
+r;122674756;111830;6432554;11;27
+r;122679179;111830;6432071;11;27
+r;122684176;111830;6431501;11;27
+r;298078228;111830;6286000;11;27
+r;298366040;111830;6288695;11;27
+r;298423694;111830;6290086;11;27
+r;298438608;111830;6290841;11;27
+r;298494365;111830;6292216;11;27
+r;298509940;111830;6293382;11;27
+r;298865349;111830;6294888;11;27
+r;299030326;111830;6298232;11;27
+r;299130334;111830;6300068;11;27
+r;299130846;111830;6300550;11;27
+r;299343982;111830;6303722;11;27
+r;299575338;111830;6309011;11;27
+r;299590705;111830;6311901;11;27
+r;299596946;111830;6312676;11;27
+r;300182682;111830;6324762;11;27
+r;300197005;111830;6326082;11;27
+r;300959984;111830;6330652;11;27
+r;301450436;111830;6339132;11;27
+r;301764312;111830;6354574;11;27
+r;301786756;111830;6355136;11;27
+r;301804067;111830;6355926;11;27
+r;301809499;111830;6356921;11;27
+r;302147786;111830;6362875;11;27
+r;302180971;111830;6364530;11;27
+r;302983514;111830;6370811;11;27
+r;303465406;111830;6374623;11;27
+r;303626576;111830;6376330;11;27
+r;303647332;111830;6379367;11;27
+r;303748051;111830;6379963;11;27
+r;304384761;111830;6385845;11;27
+r;304384984;111830;6386483;11;27
+r;305013371;111830;6396263;11;27
+r;305266545;111830;6402603;11;27
+r;305310231;111830;6406178;11;27
+r;305689861;111830;6417881;11;27
+r;312958453;111830;6334400;11;27
+r;312958629;111830;6315159;11;27
+r;312959282;111830;6300858;11;27
+r;312961394;111830;6415716;11;27
+r;312961584;111830;6309240;11;27
+r;312961881;111830;6356421;11;27
+r;313069662;111830;6306203;11;27
+r;349240666;111830;6407427;11;27
+r;121518847;111830;6441022;11;28
+r;121554537;111830;6437042;11;28
+r;122686386;111830;6431215;11;28
+r;122692993;111830;6430363;11;28
+r;122711485;111830;6427968;11;28
+r;122744856;111830;6423677;11;28
+r;298366401;111830;6288724;11;28
+r;304500005;111830;6388196;11;28
+r;313057145;111830;6285666;11;28
+r;315521918;111830;12105585;11;28
+r;121514531;111830;6441506;11;29
+r;121517637;111830;6441157;11;29
+r;121547864;111830;6437778;11;29
+r;121549142;111830;6437637;11;29
+r;122706311;111830;6428626;11;29
+r;122732147;111830;6425301;11;29
+r;122750167;111830;6422994;11;29
+r;122751805;111830;6422780;11;29
+r;301867022;111830;11770044;11;29
+r;121531988;111830;6439560;11;30
+r;121533546;111830;6439383;11;30
+r;121538571;111830;6438820;11;30
+r;121546576;111830;6437924;11;30
+r;121547992;111830;6437764;11;30
+r;122665787;111830;6433561;11;30
+r;122678707;111830;6432126;11;30
+r;122684517;111830;6431462;11;30
+r;122716947;111830;6427284;11;30
+r;122720636;111830;6426802;11;30
+r;122746873;111830;6423419;11;30
+r;122750202;111830;6422989;11;30
+r;122756666;111830;6422145;11;30
+r;216905469;111830;6393970;11;30
+r;222560702;111830;9989055;11;30
+r;227678897;111830;9992516;11;30
+r;298423279;111830;6290219;11;30
+r;301486751;111830;6341744;11;30
+r;305693977;111830;6418560;11;30
+r;121489147;111830;6444320;11;31
+r;121516976;111830;6441230;11;31
+r;121525156;111830;6440325;11;31
+r;121528147;111830;6439975;11;31
+r;121533574;111830;6439378;11;31
+r;121551233;111830;6437408;11;31
+r;121576728;111830;6434548;11;31
+r;122691176;111830;6430602;11;31
+r;122694245;111830;6430198;11;31
+r;122694514;111830;6430165;11;31
+r;122704885;111830;6428805;11;31
+r;122713333;111830;6427734;11;31
+r;122730786;111830;6425472;11;31
+r;122736761;111830;6424713;11;31
+r;122750930;111830;6422894;11;31
+r;122758019;111830;6421966;11;31
+r;121490726;111830;6444156;11;32
+r;122667906;111830;6433318;11;32
+r;122672187;111830;6432855;11;32
+r;122698640;111830;6429621;11;32
+r;122698955;111830;6429578;11;32
+r;122705120;111830;6428777;11;32
+r;122715891;111830;6427406;11;32
+r;122725483;111830;6426163;11;32
+r;122748134;111830;6423255;11;32
+r;122749022;111830;6423137;11;32
+r;222702793;111830;10000663;11;32
+r;29978299;111830;1833433;11;33
+r;114017027;111830;5837104;11;33
+r;114021605;111830;5836182;11;33
+r;121483837;111830;6444925;11;33
+r;121511054;111830;6441898;11;33
+r;121548473;111830;6437712;11;33
+r;122684678;111830;6431441;11;33
+r;122700149;111830;6429428;11;33
+r;122718988;111830;6427015;11;33
+r;122754335;111830;6422442;11;33
+r;220375728;111830;9945926;11;33
+r;220311240;111830;9944971;11;33
+r;276014323;111830;10958253;11;33
+r;303650642;111830;11787595;11;33
+r;29823552;111830;1826531;11;34
+r;29941329;111830;1829610;11;34
+r;29953737;111830;1830721;11;34
+r;29954131;111830;1830819;11;34
+r;29963305;111830;1831717;11;34
+r;29965444;111830;1831746;11;34
+r;30028341;111830;1838563;11;34
+r;121454144;111830;6448217;11;34
+r;121493400;111830;6443859;11;34
+r;121512206;111830;6441769;11;34
+r;121531389;111830;6439625;11;34
+r;121551749;111830;6437351;11;34
+r;121563956;111830;6435985;11;34
+r;122677908;111830;6432210;11;34
+r;122688184;111830;6430990;11;34
+r;122689477;111830;6430829;11;34
+r;122717295;111830;6427237;11;34
+r;122737026;111830;6424680;11;34
+r;275365470;111830;10935756;11;34
+r;342215587;111830;13447151;11;34
+r;121449401;111830;6526261;11;35
+r;121452239;111830;6448428;11;35
+r;121457079;111830;6447896;11;35
+r;121467387;111830;6446761;11;35
+r;122699982;111830;6429449;11;35
+r;122704712;111830;6428828;11;35
+r;122707197;111830;6428524;11;35
+r;122735037;111830;6424935;11;35
+r;122744036;111830;6423773;11;35
+r;122755806;111830;6422260;11;35
+r;313629239;111830;12049015;11;35
+r;313629437;111830;12049035;11;35
+r;315117929;111830;12079455;11;35
+r;29936006;111830;1829196;11;36
+r;121464687;111830;6447068;11;36
+r;121472789;111830;6446157;11;36
+r;121496486;111830;6443512;11;36
+r;121534709;111830;6439256;11;36
+r;122714377;111830;6427602;11;36
+r;122715833;111830;6427413;11;36
+r;122729234;111830;6425676;11;36
+r;122739674;111830;6424329;11;36
+r;122741199;111830;6424137;11;36
+r;122753713;111830;6422525;11;36
+r;227552895;111830;10043608;11;36
+r;313676121;111830;12049878;11;36
+r;313681261;111830;12049753;11;36
+r;313685239;111830;12049977;11;36
+r;313763712;111830;12051430;11;36
+r;313763822;111830;12051417;11;36
+r;313763928;111830;12051406;11;36
+r;313764040;111830;12051381;11;36
+r;313764058;111830;12051379;11;36
+r;313764068;111830;12051378;11;36
+r;313764080;111830;12051376;11;36
+r;313764256;111830;12051347;11;36
+r;313764539;111830;12051302;11;36
+r;313764744;111830;12051236;11;36
+r;314742236;111830;12076943;11;36
+r;121052425;111830;6449460;11;37
+r;121453354;111830;6448305;11;37
+r;121458081;111830;6447788;11;37
+r;121488713;111830;6444374;11;37
+r;122692224;111830;6430462;11;37
+r;122695108;111830;6430093;11;37
+r;122708508;111830;6428349;11;37
+r;122738004;111830;6424545;11;37
+r;283548265;111830;11147596;11;37
+r;313724653;111830;12050876;11;37
+r;121443953;111830;6527050;11;38
+r;121524747;111830;6440370;11;38
+r;121526899;111830;6440127;11;38
+r;121551636;111830;6437365;11;38
+r;121578834;111830;6434317;11;38
+r;122710930;111830;6428039;11;38
+r;140255973;111830;8259177;11;38
+r;297877515;111830;11590089;11;38
+r;313731684;111830;12052283;11;38
+r;419102981;111830;16073269;11;38
+r;53018638;111830;2386264;11;39
+r;121045381;111830;6450230;11;39
+r;121049420;111830;6449799;11;39
+r;121444249;111830;6527000;11;39
+r;121447571;111830;6526526;11;39
+r;121462771;111830;6447276;11;39
+r;121508153;111830;6442216;11;39
+r;121565380;111830;6435821;11;39
+r;219835424;111830;9929946;11;39
+r;219832915;111830;9929910;11;39
+r;219831906;111830;9929785;11;39
+r;219831855;111830;9929902;11;39
+r;219831755;111830;9929856;11;39
+r;219609207;111830;9911717;11;39
+r;232100513;111830;10063637;11;39
+r;113279172;111830;5809822;11;40
+r;121463293;111830;6447216;11;40
+r;121482239;111830;6445114;11;40
+r;121488096;111830;6444441;11;40
+r;121570616;111830;6435243;11;40
+r;122746783;111830;6423428;11;40
+r;140255774;111830;8259176;11;40
+r;219833870;111830;9929807;11;40
+r;219831113;111830;9929865;11;40
+r;114760620;111830;5883656;11;41
+r;121029806;111830;6451929;11;41
+r;121460545;111830;6447519;11;41
+r;121489642;111830;6444270;11;41
+r;122757047;111830;6422100;11;41
+r;121462510;111830;6447306;11;42
+r;121476634;111830;6445730;11;42
+r;121564525;111830;6435922;11;42
+r;122715671;111830;6427433;11;42
+r;290054262;111830;11325299;11;42
+r;121049331;111830;6449806;11;43
+r;121452515;111830;6448396;11;43
+r;121455049;111830;6448111;11;43
+r;121539868;111830;6438678;11;43
+r;285823901;111830;11172603;11;43
+r;290060206;111830;11325428;11;43
+r;121049081;111830;6449832;11;44
+r;121052745;111830;6449428;11;44
+r;121449852;111830;6526200;11;44
+r;121453274;111830;6448313;11;44
+r;121454825;111830;6448139;11;44
+r;121484204;111830;6444888;11;44
+r;121553259;111830;6437188;11;44
+r;338397029;111830;13302324;11;44
+r;419100477;111830;16072727;11;44
+r;121031726;111830;6451723;11;45
+r;121059838;111830;6448641;11;45
+r;121919112;111830;6530681;11;45
+r;122663861;111830;6433771;11;45
+r;285986333;111830;11174832;11;45
+r;55357961;111830;2445544;11;46
+r;121039164;111830;6450915;11;46
+r;121042080;111830;6450593;11;46
+r;121051431;111830;6449574;11;46
+r;121449509;111830;6526247;11;46
+r;121037609;111830;6451083;11;47
+r;109375042;111830;5524311;11;48
+r;121461427;111830;6447428;11;48
+r;121461479;111830;6447423;11;48
+r;121461823;111830;6447384;11;48
+r;121913299;111830;6532639;11;48
+r;121445041;111830;6526891;11;50
+r;187432816;111830;8809935;11;50
+r;195353550;111830;9014623;11;50
+r;211463536;111830;9247662;11;50
+r;211473421;111830;9247988;11;50
+r;282788035;111830;11130759;11;50
+r;282818616;111830;11131367;11;50
+r;326885984;111830;12728839;11;50
+r;327322366;111830;12728840;11;50
+r;348970696;111830;13767675;11;50
+r;348982627;111830;13793310;11;50
+r;348982653;111830;13802370;11;50
+r;348982723;111830;13791388;11;50
+r;348988540;111830;13801027;11;50
+r;348995018;111830;13785129;11;50
+r;348995042;111830;13787342;11;50
+r;348995334;111830;13773288;11;50
+r;348995849;111830;13753032;11;50
+r;366317440;111830;14424866;11;50
+r;370723100;111830;14589969;11;50
+r;389705867;111830;14902819;11;50
+r;393807670;111830;14428978;11;50
+r;18723396;111830;598072;11;51
+r;22137710;111830;1173555;11;51
+r;33106158;111830;2132011;11;51
+r;25312366;111830;1571953;11;52
+r;109371648;111830;5524310;11;52
+r;52454929;111830;2545476;11;53
+r;29886057;111830;1844845;11;54
+r;109335854;111830;5522296;11;54
+r;47586280;111830;2355611;11;55
+r;17123538;111830;567566;11;56
+r;22043122;111830;1163089;11;56
+r;16130219;111830;455835;11;57
+r;71600609;111830;2923850;11;58
+r;76530820;111830;3176088;11;58
+r;16130213;111830;455836;11;59
+r;121037436;111830;6451100;11;59
+r;121039526;111830;6450878;11;59
+r;14411845;111830;436327;11;60
+r;18594633;111830;592742;11;60
+r;25312341;111830;1571954;11;60
+r;47586511;111830;2355602;11;60
+r;121036365;111830;6451213;11;60
+r;29886041;111830;1844848;11;61
+r;29903256;111830;1841621;11;61
+r;75216927;111830;3072754;11;61
+r;29889195;111830;1844237;11;62
+r;76214405;111830;3169862;11;62
+r;29879733;111830;1846340;11;63
+r;29886049;111830;1844846;11;64
+r;29892350;111830;1843581;11;65
+r;29886045;111830;1844847;11;66
+r;30341389;111830;1875430;11;67
+r;12580967;111830;380118;11;101
+r;12580973;111830;380117;11;101
+r;12580977;111830;380116;11;101
+r;12580985;111830;380114;11;101
+r;12581013;111830;380106;11;101
+r;12655393;111830;361812;11;101
+r;12754591;111830;337787;11;101
+r;12754673;111830;337755;11;101
+r;12546907;111830;388750;11;102
+r;12580957;111830;380123;11;102
+r;12581003;111830;380109;11;102
+r;12581017;111830;380105;11;102
+r;12580953;111830;380124;11;103
+r;12580991;111830;380112;11;103
+r;12741885;111830;340821;11;103
+r;12580987;111830;380113;11;104
+r;12572107;111830;382369;11;105
+r;12580983;111830;380115;11;105
+r;12581007;111830;380108;11;105
+r;12580961;111830;380121;11;106
+r;12580963;111830;380120;11;106
+r;12754569;111830;337797;11;106
+r;12580999;111830;380110;11;107
+r;12656249;111830;361591;11;107
+r;12628359;111830;368517;11;108
+r;12633319;111830;367220;11;108
+r;12735547;111830;342338;11;108
+r;12754573;111830;337796;11;108
+r;12580965;111830;380119;11;109
+r;12628363;111830;368516;11;109
+r;12580959;111830;380122;11;110
+r;12580995;111830;380111;11;110
+r;8717330;111830;253577;11;160
+r;8717333;111830;253578;11;160
+r;8726929;111830;260457;11;160
+r;8700044;111830;231672;11;161
+r;8712943;111830;249667;11;161
+r;8714817;111830;251250;11;161
+r;8720517;111830;255944;11;161
+r;8723238;111830;257867;11;161
+r;8723240;111830;257868;11;161
+r;8723783;111830;258264;11;161
+r;8725598;111830;259445;11;161
+r;8726924;111830;260454;11;161
+r;8728300;111830;261597;11;161
+r;8600520;111830;89795;11;162
+r;8607937;111830;110345;11;162
+r;8633698;111830;171301;11;162
+r;8681635;111830;208269;11;162
+r;8681637;111830;208270;11;162
+r;8574605;111830;13963;11;163
+r;8583124;111830;39558;11;163
+r;8588208;111830;54028;11;163
+r;8597818;111830;82127;11;163
+r;8600390;111830;89405;11;163
+r;8734285;111830;266586;11;163
+r;8736853;111830;269007;11;163
+r;8736855;111830;269008;11;163
+r;8740655;111830;272976;11;163
+r;8751689;111830;284499;11;163
+r;8768495;111830;302000;11;163
+r;8768498;111830;302001;11;163
+r;71279;111830;151764;11;189
+r;71280;111830;151765;11;199

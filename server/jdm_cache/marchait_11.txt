@@ -1,0 +1,36 @@
+
+e;421053;'marchait';1;50
+e;15772418;'Que faisaient les femmes pendant que l'homme marchait sur la Lune';777;0
+e;15295051;'Un bataillon écossais marchait au pas dans la rue.';1;0
+e;15365392;'Le convoi marchait à vive allure.';1;0
+e;10178597;'Il marchait dans la nuit';777;0
+e;15484900;'Elle marchait devant.';1;0
+e;15484911;'Il marchait d'un pas mal assuré.';1;0
+e;15484898;'Il marchait d'un pas rapide.';1;0
+e;15329699;'Il marchait doucement en prenant son temps.';1;0
+e;15484916;'Il marchait sur le gazon en pataugeant.';1;0
+e;15369347;'Il marchait à longues enjambées.';1;0
+e;15484909;'Il marchait à vive allure.';1;0
+e;15484907;'Il marchait en plastronnant.';1;0
+e;15484913;'Il marchait le long de la rivière.';1;0
+e;29201;'il marchait';1;50
+e;212855;'La vieille qui marchait dans la mer';666;50
+e;3170584;'La Vieille qui marchait dans la mer';777;0
+r;419531236;421053;15772418;11;34
+r;419557445;421053;15295051;11;34
+r;419491493;421053;15365392;11;36
+r;238920512;421053;10178597;11;43
+r;397499357;421053;15484900;11;50
+r;402107876;421053;15484911;11;50
+r;402107882;421053;15484898;11;50
+r;402107886;421053;15329699;11;50
+r;402107904;421053;15484916;11;50
+r;402107910;421053;15369347;11;50
+r;402107916;421053;15484909;11;50
+r;402107894;421053;15484907;11;50
+r;402107898;421053;15484913;11;50
+r;14324249;421053;29201;11;53
+r;108178730;421053;5503240;11;53
+r;14276991;421053;212855;11;59
+r;76243186;421053;3170584;11;59
+r;108178718;421053;5503241;11;60

@@ -1,0 +1,820 @@
+
+e;108794;'période';1;544
+e;6297900;'période réfractaire psychologique';1;0
+e;6300189;'pneumomédiastin survenant pendant la période périnatale';1;0
+e;6305499;'maladies respiratoires chroniques survenant pendant la période périnatale';1;0
+e;6306991;'période interdigestive';1;0
+e;14639077;'période préhistorique des chasseurs-cueilleurs';1;0
+e;6332455;'atélectasie primitive survenant pendant la période périnatale';1;0
+e;6362077;'période réfractaire en neurologie';1;0
+e;6369839;'rapidité de la deuxième période du travail affectant le foetus ou le nouveau-né';1;0
+e;6374654;'période postménopausique';1;0
+e;6386883;'période pré-ménopausique';1;0
+e;6394062;'période des rêves du sommeil';1;0
+e;6405438;'période menstruelle manquée';1;0
+e;6406282;'période réfractaire absolue des cellules et des fibres nerveuses';1;0
+e;6412475;'femmes en période de post-partum';1;0
+e;6415357;'période menstruelle tardive';1;0
+e;6419414;'période réfractaire relative des cellules et des fibres nerveuses';1;0
+e;6421535;'période préménopausique';1;0
+e;6421667;'pneumothorax survenant pendant la période périnatale';1;0
+e;12978339;'période de la vie humaine';1;0
+e;13730521;'période de Djemdet Nasr';777;0
+e;6333209;'emphysème interstitiel survenant pendant la période périnatale';1;0
+e;13985900;'période égéenne';777;0
+e;6339290;'emphysème interstitiel et affections apparentées survenant pendant la période périnatale';1;0
+e;14434513;'période récurrente';1;0
+e;14434551;'s'applique sur la période';1;0
+e;14453640;'période de professionnalisation';1;0
+e;14558511;'période géométrique récente';777;0
+e;14567191;'portée sur une période';777;0
+e;14585078;'modification des extrémités avec érythème et oedème dur palmoplantaire à la période initiale';1;0
+e;14585081;'modification des extrémités avec desquamation périunguéale à la période tardive';1;0
+e;14609846;'en période de sécheresse';1;0
+e;14630490;'travailleur-ses en période de formation';777;0
+e;14637236;'période nocturne';777;0
+e;14638933;'période du ramadan';1;0
+e;14656593;'mauvaise période';1;58
+e;6395700;'épisode de soins non précisé prolongation de la deuxième période';1;0
+e;15013799;'période scolaire';777;0
+e;15129005;'période d'exil de Caravage';777;0
+e;15547096;'se préparer au pire/à une période difficile';1;0
+e;6317511;'prolongation de la première période';1;0
+e;6324326;'épisode de soins non précisé prolongation de la première période';1;0
+e;15835395;'période des achats des fêtes de fin d'année';1;0
+e;16160976;'période archéologique';1;0
+e;16161013;'période chronologique';1;0
+e;16161015;'période zakaride';1;0
+e;16170688;'période moyenne d'incubation';1;0
+e;16170687;'période médiane d'incubation';1;0
+e;16170686;'période de transmissibilité';1;0
+e;16437348;'période iconoclaste de l'Empire byzantin';777;0
+e;6290339;'autre infection spécifique à la période périnatale';1;0
+e;6323484;'antepartum prolongation de la deuxième période';1;0
+e;6343240;'période post-ménopausique';1;0
+e;6368571;'période de grossesse';1;0
+e;6377594;'autres infections spécifiques de la période périnatale';1;0
+e;6380488;'autres affections transitoires de la coagulation pendant la période néonatale';1;0
+e;6309017;'avec accouchement, prolongation de la première période';1;0
+e;14532571;'période de sécheresse';1;2
+e;14629364;'période de confinement';1;38
+e;14637010;'période des prix littéraires';1;6
+e;16168759;'période rouge';1;10
+e;6316598;'antepartum prolongation de la première période';1;0
+e;6325263;'trouble non précisé issu de la période périnatale';1;0
+e;6332443;'autres infections spécifiques précisées de la période périnatale';1;0
+e;6343303;'autres affections respiratoires survenant pendant la période périnatale';1;0
+e;6356690;'autres troubles précisés issus de la période périnatale';1;0
+e;6389549;'autres affections hématologiques précisées de la période périnatale';1;0
+e;6390011;'autres affections hématologiques de la période périnatale';1;0
+e;6393570;'autres infections congénitales spécifiques à la période périnatale';1;0
+e;6411351;'avec accouchement, prolongation de la deuxième période';1;0
+e;6423593;'période réfractaire en électrophysiologie';1;0
+e;10879022;'Sur la même période';777;0
+e;6440692;'ceux dont l'origine se situe dans la période périnatale';1;0
+e;6438903;'examen durant la période de croissance rapide de l'enfance';1;0
+e;10592443;'période Asuka';777;0
+e;10592440;'période Kofun';777;0
+e;10592439;'période Yamato';777;0
+e;10590443;'période des gueonim';777;0
+e;10619534;'période de famine massive';1;0
+e;6435225;'difficultés liées à une autre période d'attente pour investigation et traitement';1;0
+e;6428072;'maladie respiratoire chronique découlant de la période périnatale';1;0
+e;10619535;'période de famine';1;0
+e;10908704;'période Nara';777;0
+e;10905364;'période Silla Unifié';777;0
+e;15277782;'crises épileptiformes en période de sevrage alcoolique';1;0
+e;15418490;'en cette période de l'année';1;0
+e;15320588;'en période de disette';1;0
+e;15338337;'en période de pénurie';1;0
+e;15284914;'en période estivale';1;0
+e;15323946;'en période hivernale';1;0
+e;10968649;'période des dynasties archaïques';777;0
+e;10597929;'période de l'histoire française';1;0
+e;5567908;'période d'annihilation électrons-positrons';777;0
+e;5565009;'période Joseon';777;0
+e;5673687;'période de retour';777;0
+e;5725350;'période du Second Temple';777;0
+e;6423297;'pneumopéricarde survenant pendant la période périnatale';1;0
+e;10958960;'période de domination assyrienne de la Babylonie';777;0
+e;10958959;'période post-kassite';777;0
+e;10958961;'période babylonienne tardive';777;0
+e;10869558;'troisième période de taïfas';777;0
+e;10869557;'deuxième période de taïfas';777;0
+e;10869523;'La première période de taïfas';777;0
+e;10920962;'période protogéométrique';777;0
+e;15380609;'ayant lieu en période de solstice';1;0
+e;5873628;'oiseaux disparus avant la période historique';777;0
+e;6441632;'autres affections mal définies dont l'origine se situe dans la période périnatale';1;0
+e;10951489;'période romaine de Caravage';777;0
+e;10743669;'période paléo-babylonienne';777;0
+e;11079078;'période médiévale en Savoie';777;0
+e;10869348;'période carolingienne';777;0
+e;10869347;'période mérovingienne';777;0
+e;11354338;'période archaïque';777;0
+e;11801233;'période 9 du tableau périodique';777;0
+e;1836713;'période d'induction anesthésique';1;0
+e;5635502;'période de la vie d'un animal';1;0
+e;6438232;'anomalies dont l'origine se situe dans la période périnatale';1;0
+e;10743670;'période amorrite';777;0
+e;11081982;'période de sommeil';1;0
+e;11816410;'pour toute la période';777;0
+e;11826356;'période de l'histoire des États-Unis';1;0
+e;12071260;'liste des cantons du Loiret sur la période 1982-2015';777;0
+e;12334668;'histoire de la marine française en Indochine française pendant la période 1939-1945';777;0
+e;16182136;'Il est revenu de sa période bio.';1;0
+e;15692685;'Tableau récapitulatif des différents systèmes de datation en Europe au cours de la période celtique dite de Hallstatt';777;0
+e;15334569;'achèvement de la période de stage';1;0
+e;16277641;'Première période sans stathouder';777;0
+e;16310293;'Vacance Première période sans stathouder';777;0
+e;6438225;'affection foetale dont l'origine se situe dans la période périnatale';1;0
+e;10251829;'période amarnienne';777;0
+e;10933587;'période des Rishonim';777;0
+e;6381699;'autres affections cardio-vasculaires survenant pendant la période périnatale';1;0
+e;11926262;'période Ayyoubide';777;0
+e;11926261;'période fatimide de l'Égypte';777;0
+e;12004829;'période orientalisante';777;0
+e;12080514;'période réfractaire relative';1;0
+e;12080512;'période de silence';1;0
+e;13442522;'période d'hibernation';1;18
+e;15461967;'Paramètres climatiques pour la commune sur la période 1970-2000';777;0
+e;16420106;'La période d'expansion';777;0
+e;1837018;'phase d', période d'invasion';1;0
+e;1837618;'période, intervalle de latence';1;0
+e;5854907;'période de révolution';777;0
+e;11018007;'période intertestamentaire';777;0
+e;11552672;'période de la céramique Jeulmun';777;0
+e;6388511;'affections cardio-vasculaires survenant pendant la période périnatale';1;0
+e;12080513;'période d'un réacteur';1;0
+e;12080511;'période de secret';1;0
+e;16027905;'Mouvements naturels sur la période 1999-2009';777;0
+e;6442294;'prolongation de la période d'expulsion';1;0
+e;10297608;'période védique';777;0
+e;11095774;'période française de l'histoire de Belgique';777;0
+e;5565073;'période de l'histoire';1;0
+e;6437650;'examen à la période de croissance rapide de l'enfance';1;0
+e;9932241;'période 8 du tableau périodique';777;0
+e;10057154;'deuxième période intermédiaire';777;0
+e;10056965;'période 7 du tableau périodique';777;0
+e;10056962;'période 6 du tableau périodique';777;0
+e;10056959;'période 5 du tableau périodique';777;0
+e;10056957;'période 4 du tableau périodique';777;0
+e;10056956;'période 3 du tableau périodique';777;0
+e;10056954;'période 1 du tableau périodique';777;0
+e;10056939;'période thinite';777;0
+e;10056902;'période prédynastique';777;0
+e;10056808;'période 2 du tableau périodique';777;0
+e;10056752;'troisième période intermédiaire';777;0
+e;10057792;'période byzantine de l'Égypte';777;0
+e;10057771;'période macédonienne';777;0
+e;10057735;'période saïte';777;0
+e;11392153;'période de la céramique Mumun';777;0
+e;11392043;'petite période glaciaire';777;0
+e;16277642;'Deuxième période sans stathouder';777;0
+e;5537588;'période mamelouke';777;0
+e;5854908;'période orbitale';777;0
+e;6429742;'autres maladies respiratoires chroniques survenant pendant la période périnatale';1;0
+e;10553375;'dernière période glaciaire';777;0
+e;11302317;'période islamique de l'Égypte';777;0
+e;11330435;'période de Halaf';777;0
+e;9929932;'prolongation de la première période avec accouchement';1;0
+e;10554809;'période des Printemps et Automnes';777;0
+e;11182263;'période de bouleversements sociaux et politiques';1;0
+e;11330434;'période de Samarra';777;0
+e;5892585;'troisième période';777;0
+e;6447208;'période terminale de l'insuffisance rénale';1;0
+e;9929931;'prolongation de la deuxième période avec accouchement';1;0
+e;11004831;'période de la Préhistoire';1;0
+e;11157251;'période d'Uruk';777;0
+e;11182265;'période de bouleversements';1;0
+e;11254283;'période de grande chaleur';1;0
+e;11575751;'Grottes et art de la période glaciaire dans le Jura souabe';777;0
+e;6446911;'autres affections dont l'origine se situe dans la période périnatale';1;0
+e;6446751;'autres affections apparentées à l'emphysème interstitiel survenant pendant la période périnatale';1;0
+e;10498750;'période du Ganden Phodrang';777;0
+e;11182264;'période de bouleversements sociaux';1;0
+e;6439467;'autre période d'attente pour investigation et traitement';1;0
+e;11103771;'période d'accouplement';1;0
+e;11253491;'première période du Mésoprotérozoïque';1;0
+e;2371661;'période de grâce';1;0
+e;10159804;'période prédynastique égyptienne';1;0
+e;15773923;'La période n'est ni 0 ni 9';777;0
+e;6011358;'planète à période de révolution ultra-courte';777;0
+e;6357594;'dysplasie broncho-pulmonaire survenant pendant la période périnatale';1;0
+e;10431177;'période moderne';777;0
+e;10443712;'période Phagmodru';777;0
+e;14669136;'La boîte déroulante ci-dessous détaille cette période de sa vie';777;0
+e;11106556;'période d'anarchie mérinide';777;0
+e;5537544;'architecture de la période post-goupta';777;0
+e;5994125;'Mode pour la période 1500-1550';777;0
+e;6449854;'autres affections précisées dont l'origine se situe dans la période périnatale';1;0
+e;5518416;'période de la protohistoire';1;0
+e;5518668;'période de formation de montagnes';1;0
+e;12625436;'très longue période';1;0
+e;12715548;'période stalinienne';1;0
+e;13787669;'8-73 infections spécifiques de la période périnatale';1;0
+e;13755927;'843 période post-partum';1;0
+e;14760051;'C - Les symptômes doivent être présents dans la période de développement précoce';777;0
+e;15379361;'Je l'ai pour une période d'essai de sept jours.';1;0
+e;15691471;'En seconde période Chelsea changea soudain de tactique.';1;0
+e;14851345;'De la préhistoire à la période antique';777;0
+e;15854732;'1re période';777;0
+e;15854733;'2e période';777;0
+e;15854734;'3e période';777;0
+e;15854735;'4e période';777;0
+e;15854736;'5e période';777;0
+e;16027904;'Evolution sur la période 1968-2009';777;0
+e;16173340;'Carte des principales agglomérations appartenant au territoire des Pictones pour la période antique';777;0
+e;1841164;'période effective';1;0
+e;1841163;'période d'un rythme biologique';1;0
+e;3261934;'période Yayoi';777;0
+e;3313960;'période géologique';1;2
+e;4312369;'période Jomon';1;0
+e;5523958;'période de huit jours';1;0
+e;1757237;'période Tokugawa';777;0
+e;3321425;'période d'installation';1;0
+e;1841170;'période spatiale';1;0
+e;1841160;'période critique';1;0
+e;3946112;'période réfractaire absolue';1;0
+e;1841169;'période sensible';1;0
+e;1841158;'période de vulnérabilité cardiaque';1;0
+e;3321426;'période d'implantation';1;0
+e;3349074;'éléments de la période 9';777;0
+e;4339399;'période victorienne';1;0
+e;5322331;'période d'extrêmes incertitudes';1;0
+e;5517366;'période géologique de la Terre';1;0
+e;3229146;'période de jeu';1;0
+e;579246;'période d'Obeïd';777;0
+e;582464;'période de dégel';777;0
+e;1803778;'compositeur de musique classique de la période moderne';1;0
+e;1858823;'période biologique';777;0
+e;2582223;'éléments de la période 8';777;0
+e;4313130;'période des Royaumes combattants';1;0
+e;5322332;'période d'incertitudes';1;0
+e;5518667;'période de formation';1;0
+e;4891433;'période dorée';777;0
+e;1702008;'période de maturation';1;0
+e;4898682;'période de disette';1;0
+e;1735650;'La période Arnal';777;0
+e;1851650;'période d'un radioélément';1;0
+e;1841168;'période prémenstruelle';1;0
+e;1841165;'période ftale';1;0
+e;1841162;'période d'invasion';1;0
+e;3245660;'période de ponte';1;0
+e;3341598;'période proche';1;0
+e;1785647;'période lagide';1;0
+e;1819328;'période fertile';777;0
+e;1803777;'compositeur français de la période baroque';1;0
+e;1841161;'période d'état';1;0
+e;2951240;'période des Cinq Dynasties et des Dix Royaumes';777;0
+e;1841167;'période pré-embryonnaire';1;0
+e;1841159;'d'une substance période biologique';1;0
+e;374693;'période de consultation électorale';1;50
+e;374691;'période d'indemnisation';1;50
+e;374686;'période révolutionnaire';1;50
+e;374677;'période menstruelle';1;50
+e;374671;'période de voeux';1;50
+e;374666;'période de réflexion';1;50
+e;374655;'période de crise';1;52
+e;374699;'période narrative';1;50
+e;374690;'période électorale';1;50
+e;374684;'période romaine';1;50
+e;374673;'période des règles';1;50
+e;374664;'période de reproduction';1;50
+e;374658;'période de nidification';1;50
+e;374650;'période d'instruction';1;50
+e;374649;'période d'anarchie';1;50
+e;374646;'période comparable';1;50
+e;351240;'en période pré-électorale';1;50
+e;351237;'en période de vacances';1;50
+e;351235;'en période de transition';1;50
+e;389054;'à une période cruciale de';1;50
+e;374702;'période suspecte';1;50
+e;374683;'période préglaciaire';1;50
+e;374668;'période de striction';1;50
+e;374665;'période de rotation';1;50
+e;374643;'période blanche';1;70
+e;374642;'période baroque';1;50
+e;389055;'à une période difficile de';1;50
+e;374694;'période de garantie';1;50
+e;374680;'période non travaillée';1;50
+e;374657;'période de guerre';1;50
+e;351232;'en période de crise';1;50
+e;374701;'période périnatale';1;50
+e;374696;'période décennale';1;50
+e;374685;'période ronde';1;50
+e;374670;'période de vaches grasses';1;50
+e;374656;'période de croissance';1;50
+e;374651;'période d'occupation';1;50
+e;374695;'période de vibration';1;50
+e;374681;'période néonatale';1;50
+e;374675;'période festive';1;50
+e;374667;'période de révolution synodique';1;50
+e;374661;'période de pénurie';1;50
+e;374653;'période de confusion';1;50
+e;351236;'en période de troubles';1;50
+e;346602;'dans une période de troubles';1;50
+e;346601;'dans une période de soldes';1;50
+e;346573;'dans une bonne période';1;50
+e;374698;'période musicale';1;50
+e;374689;'période travaillée';1;50
+e;374672;'période des fêtes';1;50
+e;374662;'période de reconversion';1;50
+e;374659;'période de paix';1;50
+e;374652;'période de chômage';1;60
+e;351239;'en période de vaches maigres';1;50
+e;351231;'en période creuse';1;50
+e;346260;'dans la période des soldes';1;50
+e;389056;'à une période décisive de';1;50
+e;374697;'période limite';1;50
+e;374688;'période transitoire';1;50
+e;374679;'période mycénienne';1;50
+e;374674;'période difficile';1;60
+e;374669;'période de travail';1;50
+e;374660;'période de plein emploi';1;50
+e;374647;'période correspondante';1;50
+e;351241;'en période électorale';1;50
+e;351238;'en période de vaches grasses';1;50
+e;351234;'en période de grandes chaleurs';1;50
+e;351233;'en période de fêtes';1;50
+e;351230;'en période';1;50
+e;389030;'à une certaine période de';1;50
+e;389029;'à une certaine période';1;50
+e;374700;'période oratoire';1;50
+e;374692;'période d'invalidité';1;50
+e;374663;'période de repos';1;50
+e;346259;'dans la période des examens';1;50
+e;374687;'période thermidorienne';1;50
+e;374682;'période postconciliaire';1;50
+e;374678;'période militaire';1;50
+e;374676;'période julienne';1;50
+e;374654;'période de consolidation';1;50
+e;374648;'période courante';1;50
+e;374645;'période classique';1;54
+e;374644;'période carrée';1;50
+e;318846;'période romantique';1;52
+e;315071;'période réfractaire';1;50
+e;313971;'période de service';1;50
+e;218253;'période de temps';1;50
+e;219916;'période bleue';1;126
+e;222037;'deuxième période';1;50
+e;222043;'première période';1;50
+e;226596;'période d'incubation';1;50
+e;230098;'période hellénistique';1;56
+e;232964;'période de pointe';1;50
+e;235084;'période rose';1;54
+e;237326;'période de l'année';1;6
+e;241763;'période écoulée';1;50
+e;242885;'période de sûreté de 30 ans';1;50
+e;244872;'période de la vie';1;52
+e;248222;'période estivale';1;4
+e;252666;'période radioactive';1;50
+e;253794;'période de vaches maigres';1;4
+e;254474;'période d'ovulation';1;50
+e;254475;'période ovulatoire';1;20
+e;254631;'période de référence';1;50
+e;255910;'période de sûreté';1;18
+e;96277;'Les Fluctuations économiques à longue période de la crise mondiale';1;50
+e;119038;'période des exploitants';1;50
+e;160965;'période d'essai';1;74
+e;161074;'période de transition';1;50
+e;213143;'période interglaciaire';1;4
+e;215925;'période d'activité';1;50
+e;46435;'période des bâtisseurs';1;50
+e;53509;'période de latence';1;50
+e;91144;'période des inventeurs';1;50
+e;183618;'période de ligne';1;50
+e;183619;'période d'un nucléide radioactif';1;50
+e;196251;'au dernier période';1;50
+e;205394;'période de deuil';1;50
+e;205395;'période embryonnaire';1;50
+e;205396;'période embryotrophique';1;50
+e;205397;'période hémotrophique';1;50
+e;205398;'période historique';1;50
+e;205399;'période post-natale';1;50
+e;205400;'période végétative';1;50
+e;264135;'période probatoire';1;10
+e;268121;'période hivernale';1;50
+e;268122;'période de chaleur';1;50
+e;268123;'période de rut';1;6
+e;284346;'longue période';777;50
+e;284347;'période de marché';777;50
+e;284348;'courte période';777;50
+e;285779;'période protohistorique';777;50
+e;300924;'période temporelle';777;52
+e;303939;'période synodique';777;50
+e;308623;'période 1922 à 1937';777;50
+e;199341;'en période de';1;50
+e;311717;'période d';777;50
+e;198257;'dans la période de';1;50
+e;2589;'période glaciaire';1;52
+r;299033596;108794;6297900;11;25
+r;299130294;108794;6300189;11;25
+r;299490478;108794;6305499;11;25
+r;299546675;108794;6306991;11;25
+r;371985663;108794;14639077;11;25
+r;301009255;108794;6332455;11;25
+r;302127713;108794;6362077;11;25
+r;302975692;108794;6369839;11;25
+r;303463533;108794;6374654;11;25
+r;304386052;108794;6386883;11;25
+r;304900619;108794;6394062;11;25
+r;305307221;108794;6405438;11;25
+r;305310418;108794;6406282;11;25
+r;305482597;108794;6412475;11;25
+r;305649522;108794;6415357;11;25
+r;305699065;108794;6419414;11;25
+r;305710754;108794;6421535;11;25
+r;305711695;108794;6421667;11;25
+r;337352687;108794;12978339;11;25
+r;348179311;108794;13730521;11;25
+r;349309463;108794;6333209;11;25
+r;352185006;108794;13985900;11;25
+r;358820807;108794;6339290;11;25
+r;366515196;108794;14434513;11;25
+r;366515694;108794;14434551;11;25
+r;366909408;108794;14453640;11;25
+r;369985930;108794;14558511;11;25
+r;370267366;108794;14567191;11;25
+r;370603265;108794;14585078;11;25
+r;370604449;108794;14585081;11;25
+r;371248199;108794;14609846;11;25
+r;371660382;108794;14630490;11;25
+r;371826119;108794;14637236;11;25
+r;371983260;108794;14638933;11;25
+r;372740001;108794;14656593;11;25
+r;400818285;108794;6395700;11;25
+r;392123565;108794;15013799;11;25
+r;393347692;108794;15129005;11;25
+r;398410127;108794;15547096;11;25
+r;398517091;108794;6317511;11;25
+r;399348579;108794;6324326;11;25
+r;413026668;108794;15835395;11;25
+r;423436064;108794;16160976;11;25
+r;423437632;108794;16161013;11;25
+r;423437689;108794;16161015;11;25
+r;424060622;108794;16170688;11;25
+r;424061149;108794;16170687;11;25
+r;424063981;108794;16170686;11;25
+r;433492950;108794;16437348;11;25
+r;298422114;108794;6290339;11;26
+r;300155287;108794;6323484;11;26
+r;301494422;108794;6343240;11;26
+r;302967267;108794;6368571;11;26
+r;303633583;108794;6377594;11;26
+r;303836035;108794;6380488;11;26
+r;349087508;108794;6309017;11;26
+r;368704485;108794;14532571;11;26
+r;371599314;108794;14629364;11;26
+r;371813570;108794;14637010;11;26
+r;423942315;108794;16168759;11;26
+r;299778631;108794;6316598;11;27
+r;300188616;108794;6325263;11;27
+r;301131099;108794;6332443;11;27
+r;301505064;108794;6343303;11;27
+r;301813096;108794;6356690;11;27
+r;304559160;108794;6389549;11;27
+r;304585173;108794;6390011;11;27
+r;304894430;108794;6393570;11;27
+r;312961706;108794;6411351;11;27
+r;122745521;108794;6423593;11;28
+r;273214765;108794;10879022;11;28
+r;121521762;108794;6440692;11;29
+r;121537806;108794;6438903;11;29
+r;264460385;108794;10592443;11;29
+r;264460416;108794;10592440;11;29
+r;264460421;108794;10592439;11;29
+r;264464515;108794;10590443;11;29
+r;266720535;108794;10619534;11;29
+r;121570762;108794;6435225;11;30
+r;122710698;108794;6428072;11;30
+r;266720530;108794;10619535;11;30
+r;274271759;108794;10908704;11;30
+r;274288651;108794;10905364;11;30
+r;419751510;108794;15277782;11;30
+r;419837984;108794;15418490;11;30
+r;419842447;108794;15320588;11;30
+r;419842455;108794;15338337;11;30
+r;419842463;108794;15284914;11;30
+r;419842469;108794;15323946;11;30
+r;276889783;108794;10968649;11;31
+r;264375218;108794;10597929;11;31
+r;110202055;108794;5567908;11;32
+r;110204557;108794;5565009;11;32
+r;111334934;108794;5673687;11;32
+r;112667263;108794;5725350;11;32
+r;122747834;108794;6423297;11;32
+r;276643714;108794;10958960;11;32
+r;276643723;108794;10958959;11;32
+r;276643707;108794;10958961;11;32
+r;272641928;108794;10869558;11;32
+r;272641937;108794;10869557;11;32
+r;272641952;108794;10869523;11;32
+r;274977567;108794;10920962;11;32
+r;419640574;108794;15380609;11;32
+r;114437555;108794;5873628;11;33
+r;121513438;108794;6441632;11;33
+r;275828974;108794;10951489;11;33
+r;269398364;108794;10743669;11;33
+r;280970749;108794;11079078;11;33
+r;272532012;108794;10869348;11;33
+r;272532017;108794;10869347;11;33
+r;291091065;108794;11354338;11;33
+r;303841747;108794;11801233;11;33
+r;30010580;108794;1836713;11;34
+r;111234911;108794;5635502;11;34
+r;121543920;108794;6438232;11;34
+r;269398359;108794;10743670;11;34
+r;281125034;108794;11081982;11;34
+r;304957598;108794;11816410;11;34
+r;305516496;108794;11826356;11;34
+r;314297510;108794;12071260;11;34
+r;320229235;108794;12334668;11;34
+r;434344004;108794;16182136;11;34
+r;419550662;108794;15692685;11;34
+r;419572557;108794;15334569;11;34
+r;426992530;108794;16277641;11;34
+r;428347118;108794;16310293;11;34
+r;121543981;108794;6438225;11;35
+r;247441261;108794;10251829;11;35
+r;275106152;108794;10933587;11;35
+r;303853110;108794;6381699;11;35
+r;307682473;108794;11926262;11;35
+r;307682832;108794;11926261;11;35
+r;312796888;108794;12004829;11;35
+r;315112435;108794;12080514;11;35
+r;315112453;108794;12080512;11;35
+r;341038232;108794;13442522;11;35
+r;395513961;108794;15461967;11;35
+r;433360694;108794;16420106;11;35
+r;30013610;108794;1837018;11;36
+r;30019390;108794;1837618;11;36
+r;114444582;108794;5854907;11;36
+r;279148195;108794;11018007;11;36
+r;296658753;108794;11552672;11;36
+r;304519024;108794;6388511;11;36
+r;315112445;108794;12080513;11;36
+r;315112458;108794;12080511;11;36
+r;417653341;108794;16027905;11;36
+r;121507515;108794;6442294;11;37
+r;247437644;108794;10297608;11;37
+r;281419061;108794;11095774;11;37
+r;110107341;108794;5565073;11;38
+r;121549016;108794;6437650;11;38
+r;219868352;108794;9932241;11;38
+r;228980634;108794;10057154;11;38
+r;228981066;108794;10056965;11;38
+r;228981073;108794;10056962;11;38
+r;228981080;108794;10056959;11;38
+r;228981087;108794;10056957;11;38
+r;228981094;108794;10056956;11;38
+r;228981103;108794;10056954;11;38
+r;228981194;108794;10056939;11;38
+r;228981310;108794;10056902;11;38
+r;228981652;108794;10056808;11;38
+r;228981878;108794;10056752;11;38
+r;232112452;108794;10057792;11;38
+r;232112657;108794;10057771;11;38
+r;232112762;108794;10057735;11;38
+r;292542326;108794;11392153;11;38
+r;292542835;108794;11392043;11;38
+r;426987350;108794;16277642;11;38
+r;109663093;108794;5537588;11;39
+r;114444577;108794;5854908;11;39
+r;122697798;108794;6429742;11;39
+r;263066696;108794;10553375;11;39
+r;289299649;108794;11302317;11;39
+r;290261529;108794;11330435;11;39
+r;219832739;108794;9929932;11;40
+r;263059139;108794;10554809;11;40
+r;287145623;108794;11182263;11;40
+r;290261657;108794;11330434;11;40
+r;114754520;108794;5892585;11;41
+r;121463375;108794;6447208;11;41
+r;219832880;108794;9929931;11;41
+r;278737519;108794;11004831;11;41
+r;283825697;108794;11157251;11;41
+r;286906308;108794;11182265;11;41
+r;288439554;108794;11254283;11;41
+r;297540492;108794;11575751;11;41
+r;121466063;108794;6446911;11;42
+r;121467491;108794;6446751;11;42
+r;261003155;108794;10498750;11;42
+r;286984335;108794;11182264;11;42
+r;121532813;108794;6439467;11;43
+r;282618028;108794;11103771;11;43
+r;288398956;108794;11253491;11;43
+r;52036351;108794;2371661;11;44
+r;238103348;108794;10159804;11;44
+r;417033295;108794;15773923;11;44
+r;118508665;108794;6011358;11;45
+r;126196847;108794;6357594;11;45
+r;256304158;108794;10431177;11;45
+r;256658983;108794;10443712;11;46
+r;373035918;108794;14669136;11;46
+r;282475902;108794;11106556;11;48
+r;109663277;108794;5537544;11;49
+r;117861518;108794;5994125;11;49
+r;121048864;108794;6449854;11;49
+r;108771427;108794;5518416;11;50
+r;108785906;108794;5518668;11;50
+r;324936167;108794;12625436;11;50
+r;327327707;108794;12715548;11;50
+r;348995194;108794;13787669;11;50
+r;348995930;108794;13755927;11;50
+r;375212005;108794;14760051;11;50
+r;402154422;108794;15379361;11;50
+r;412521838;108794;15691471;11;50
+r;384746880;108794;14851345;11;50
+r;413579232;108794;15854732;11;50
+r;413581305;108794;15854733;11;50
+r;413583255;108794;15854734;11;50
+r;413585232;108794;15854735;11;50
+r;413585235;108794;15854736;11;50
+r;417653387;108794;16027904;11;50
+r;425304686;108794;16173340;11;50
+r;29904853;108794;1841164;11;51
+r;29904857;108794;1841163;11;51
+r;78904805;108794;3261934;11;51
+r;83442799;108794;3313960;11;52
+r;97412506;108794;4312369;11;52
+r;109348522;108794;5523958;11;52
+r;28918597;108794;1757237;11;53
+r;83661764;108794;3321425;11;53
+r;29904831;108794;1841170;11;54
+r;29904877;108794;1841160;11;54
+r;95170345;108794;3946112;11;54
+r;29904835;108794;1841169;11;55
+r;29904887;108794;1841158;11;55
+r;83661756;108794;3321426;11;55
+r;85857842;108794;3349074;11;55
+r;99001057;108794;4339399;11;55
+r;106831556;108794;5322331;11;55
+r;108403615;108794;5517366;11;55
+r;77845960;108794;3229146;11;56
+r;17973468;108794;579246;11;57
+r;18239999;108794;582464;11;57
+r;29512044;108794;1803778;11;57
+r;30073154;108794;1858823;11;57
+r;53784606;108794;2582223;11;57
+r;97871766;108794;4313130;11;57
+r;106832168;108794;5322332;11;57
+r;108785894;108794;5518667;11;57
+r;102003480;108794;4891433;11;58
+r;28037188;108794;1702008;11;59
+r;102161019;108794;4898682;11;59
+r;28515859;108794;1735650;11;60
+r;29853109;108794;1851650;11;60
+r;29904839;108794;1841168;11;60
+r;29904849;108794;1841165;11;60
+r;29904865;108794;1841162;11;60
+r;78510074;108794;3245660;11;60
+r;85148459;108794;3341598;11;60
+r;29319338;108794;1785647;11;62
+r;29731689;108794;1819328;11;62
+r;29511390;108794;1803777;11;63
+r;29904871;108794;1841161;11;64
+r;72767759;108794;2951240;11;64
+r;29904843;108794;1841167;11;67
+r;29904883;108794;1841159;11;68
+r;12603121;108794;374693;11;101
+r;12603133;108794;374691;11;101
+r;12603153;108794;374686;11;101
+r;12603185;108794;374677;11;101
+r;12603207;108794;374671;11;101
+r;12603229;108794;374666;11;101
+r;12603275;108794;374655;11;101
+r;12603101;108794;374699;11;102
+r;12603139;108794;374690;11;102
+r;12603161;108794;374684;11;102
+r;12603199;108794;374673;11;102
+r;12603237;108794;374664;11;102
+r;12603263;108794;374658;11;102
+r;12603297;108794;374650;11;102
+r;12603303;108794;374649;11;102
+r;12603317;108794;374646;11;102
+r;12698307;108794;351240;11;102
+r;12698333;108794;351237;11;102
+r;12698349;108794;351235;11;102
+r;12545701;108794;389054;11;103
+r;12603091;108794;374702;11;103
+r;12603165;108794;374683;11;103
+r;12603219;108794;374668;11;103
+r;12603233;108794;374665;11;103
+r;12603329;108794;374643;11;103
+r;12603333;108794;374642;11;103
+r;12545697;108794;389055;11;104
+r;12603117;108794;374694;11;104
+r;12603173;108794;374680;11;104
+r;12603267;108794;374657;11;104
+r;12698375;108794;351232;11;104
+r;12603095;108794;374701;11;105
+r;12603111;108794;374696;11;105
+r;12603157;108794;374685;11;105
+r;12603211;108794;374670;11;105
+r;12603271;108794;374656;11;105
+r;12603291;108794;374651;11;105
+r;12603113;108794;374695;11;106
+r;12603171;108794;374681;11;106
+r;12603191;108794;374675;11;106
+r;12603223;108794;374667;11;106
+r;12603249;108794;374661;11;106
+r;12603283;108794;374653;11;106
+r;12698341;108794;351236;11;106
+r;12717049;108794;346602;11;106
+r;12717055;108794;346601;11;106
+r;12717215;108794;346573;11;106
+r;12603103;108794;374698;11;107
+r;12603143;108794;374689;11;107
+r;12603203;108794;374672;11;107
+r;12603245;108794;374662;11;107
+r;12603259;108794;374659;11;107
+r;12603287;108794;374652;11;107
+r;12698315;108794;351239;11;107
+r;12698383;108794;351231;11;107
+r;12719065;108794;346260;11;107
+r;12545693;108794;389056;11;108
+r;12603107;108794;374697;11;108
+r;12603147;108794;374688;11;108
+r;12603179;108794;374679;11;108
+r;12603195;108794;374674;11;108
+r;12603215;108794;374669;11;108
+r;12603253;108794;374660;11;108
+r;12603313;108794;374647;11;108
+r;12698301;108794;351241;11;108
+r;12698325;108794;351238;11;108
+r;12698357;108794;351234;11;108
+r;12698367;108794;351233;11;108
+r;12698389;108794;351230;11;108
+r;12545783;108794;389030;11;109
+r;12545789;108794;389029;11;109
+r;12603097;108794;374700;11;109
+r;12603127;108794;374692;11;109
+r;12603241;108794;374663;11;109
+r;12719073;108794;346259;11;109
+r;12603151;108794;374687;11;110
+r;12603169;108794;374682;11;110
+r;12603181;108794;374678;11;110
+r;12603187;108794;374676;11;110
+r;12603279;108794;374654;11;110
+r;12603309;108794;374648;11;110
+r;12603321;108794;374645;11;110
+r;12603325;108794;374644;11;110
+r;9015170;108794;318846;11;148
+r;8830567;108794;315071;11;157
+r;8818349;108794;313971;11;159
+r;8690950;108794;218253;11;161
+r;8691812;108794;219916;11;161
+r;8693518;108794;222037;11;161
+r;8693530;108794;222043;11;161
+r;8696253;108794;226596;11;161
+r;8698713;108794;230098;11;161
+r;8701384;108794;232964;11;161
+r;8702775;108794;235084;11;161
+r;8704660;108794;237326;11;161
+r;8707214;108794;241763;11;161
+r;8707918;108794;242885;11;161
+r;8709044;108794;244872;11;161
+r;8711594;108794;248222;11;161
+r;8716292;108794;252666;11;161
+r;8717581;108794;253794;11;161
+r;8718499;108794;254474;11;161
+r;8718500;108794;254475;11;161
+r;8718727;108794;254631;11;161
+r;8720467;108794;255910;11;161
+r;8602799;108794;96277;11;162
+r;8611019;108794;119038;11;162
+r;8627164;108794;160965;11;162
+r;8627236;108794;161074;11;162
+r;8688619;108794;213143;11;162
+r;8690094;108794;215925;11;162
+r;8585494;108794;46435;11;163
+r;8588030;108794;53509;11;163
+r;8601033;108794;91144;11;163
+r;8642085;108794;183618;11;163
+r;8642087;108794;183619;11;163
+r;8661156;108794;196251;11;163
+r;8676842;108794;205394;11;163
+r;8676844;108794;205395;11;163
+r;8676846;108794;205396;11;163
+r;8676847;108794;205397;11;163
+r;8676848;108794;205398;11;163
+r;8676850;108794;205399;11;163
+r;8676851;108794;205400;11;163
+r;8731634;108794;264135;11;163
+r;8735991;108794;268121;11;163
+r;8735993;108794;268122;11;163
+r;8735995;108794;268123;11;163
+r;8736021;108794;268141;11;163
+r;8736023;108794;268142;11;163
+r;8751470;108794;284346;11;163
+r;8751471;108794;284347;11;163
+r;8751474;108794;284348;11;163
+r;8752928;108794;285779;11;163
+r;8767533;108794;300924;11;163
+r;8770246;108794;303939;11;163
+r;8774401;108794;308623;11;163
+r;8666532;108794;199341;11;164
+r;8777815;108794;311717;11;164
+r;8664760;108794;198257;11;165
+r;8570859;108794;2589;11;168

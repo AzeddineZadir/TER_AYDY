@@ -1,0 +1,686 @@
+
+e;140957;'usage';1;266
+e;6287089;'huiles végétales à un usage carburant';1;0
+e;6292798;'usage hors indication';1;0
+e;6316280;'essais cliniques pour un usage compassionnel';1;0
+e;6327513;'usage abusif de substances';1;0
+e;6331001;'mixtes ou non précisées usage non précisé autre abus de drogues';1;0
+e;6346317;'usage abusif intentionnel de dispositif';1;0
+e;6351499;'usage non précisé dépendance aux opiacés';1;0
+e;6352408;'usage compassionnel';1;0
+e;6364049;'latéralité d'usage';1;0
+e;6365538;'usage de substances';1;0
+e;6367576;'usage non précisé dépendance à la cocaïne';1;0
+e;6375996;'usage des médicaments';1;0
+e;6394836;'agression sexuelle avec usage de la force';1;0
+e;6399019;'usage diagnostique';1;0
+e;6399958;'agression homosexuelle avec usage de la force';1;0
+e;6402129;'amblyopie par défaut d'usage';1;0
+e;6405954;'fluorures à usage local';1;0
+e;6406926;'syndrome de manque d'usage';1;0
+e;6369116;'médicament inefficace pour un usage non approuvé';1;0
+e;6410416;'usage de drogues';1;0
+e;14452172;'changement d'usage';1;0
+e;14572066;'usage du téléphone';1;78
+e;14584792;'usage littéraire';1;0
+e;14594564;'les crimes avec usage de la force';777;0
+e;6372754;'intoxication par un médicament dentaire à usage topique';1;0
+e;15012876;'usage sportif';1;0
+e;15166747;'l'usage prolongé du masque';777;0
+e;16153165;'le droit d'usage';777;0
+e;16359601;'usage problématique d'Internet';777;0
+e;16325912;'unité en dehors du SI dont l'usage est accepté avec le SI';777;0
+e;16529838;'usage libre';1;0
+e;5786275;'Loi d'usage et d'enseignement du valencien';777;0
+e;6431666;'intervention de la force publique impliquant l'usage d'armes à feu';1;0
+e;6337011;'usage épisodique abus de barbituriques et sédatifs ou hypnotiques à action similaire';1;0
+e;6286492;'usage abusif non intentionnel de dispositif';1;0
+e;6290140;'médicaments dentaires à usage topique';1;0
+e;6291637;'usage continu dépendance à la cocaïne';1;0
+e;6312726;'usage épisodique dépendance aux hallucinogènes';1;0
+e;6315175;'usage non précisé dépendance aux hallucinogènes';1;0
+e;6316757;'usage continu dépendance aux hallucinogènes';1;0
+e;6318542;'usage non précisé dépendance aux barbituriques et sédatifs ou hypnotiques à action similaire';1;0
+e;6318932;'usage abusif de dispositif';1;0
+e;6320690;'usage continu abus de barbituriques et sédatifs ou hypnotiques à action similaire';1;0
+e;6323597;'usage non précisé dépendance à une drogue non précisée';1;0
+e;6328233;'usage continu dépendance aux opiacés';1;0
+e;6332817;'usage épisodique autre dépendance à une drogue précisée';1;0
+e;6334949;'usage non précisé dépendance au cannabis';1;0
+e;6338110;'usage épisodique dépendance à une drogue non précisée';1;0
+e;6339238;'usage continu dépendance aux barbituriques et sédatifs ou hypnotiques à action similaire';1;0
+e;6338685;'usage épisodique dépendance aux amphétamines et autres psychostimulants';1;0
+e;6348421;'usage non précisé abus de cannabis';1;0
+e;6349518;'usage continu abus de cannabis';1;0
+e;6366935;'usage épisodique dépendance à la cocaïne';1;0
+e;6367926;'usage continu dépendance au cannabis';1;0
+e;6379863;'usage non précisé autre dépendance à une drogue précisée';1;0
+e;6381647;'usage continu combinaisons de drogue de type opiacé avec dépendance à une autre drogue';1;0
+e;6385492;'usage épisodique abus de cannabis';1;0
+e;6385688;'usage non précisé combinaisons de drogue de type opiacé avec dépendance à une autre drogue';1;0
+e;6388777;'usage continu dépendance aux amphétamines et autres psychostimulants';1;0
+e;6389376;'usage excessif de drogues';1;0
+e;6399036;'mauvais usage d'une drogue';1;0
+e;6401013;'usage continu trouble lié au tabac';1;0
+e;6401488;'usage épisodique combinaisons de drogue de type opiacé avec dépendance à une autre drogue';1;0
+e;6401948;'usage continu dépendance à une drogue non précisée';1;0
+e;6404493;'usage épisodique dépendance au cannabis';1;0
+e;6405160;'usage non précisé abus de cocaïne';1;0
+e;6406477;'usage épisodique abus de cocaïne';1;0
+e;6408427;'usage épisodique dépendance aux opiacés';1;0
+e;6411186;'usage non précisé trouble lié au tabac';1;0
+e;6413720;'usage maternel de drogues';1;0
+e;6416477;'usage continu autre dépendance à une drogue précisée';1;0
+e;6413199;'syndrome de premier usage';1;0
+e;14225319;'jeter après usage';1;0
+e;14326417;'faire un mauvais usage';1;0
+e;14529929;'faire mauvais usage';1;0
+e;14530324;'usage agricole';1;0
+e;14537066;'précautions d'usage';1;0
+e;14558029;'antiseptique à usage local';1;26
+e;14558080;'usage collectif';1;0
+e;14593845;'mouchoir à usage unique';1;196
+e;14594409;'mouchoirs à usage unique';1;162
+e;14729547;'lentilles à usage unique';1;24
+e;14753087;'précaution d'usage';1;0
+e;14874921;'usage multiple';1;0
+e;5795039;'Rapport sur la nécessité et les moyens d'anéantir les patois et d'universaliser l'usage de la langue française';777;0
+e;5785662;'réservé pour usage local';777;0
+e;6295374;'non classées ailleurs fonte musculaire et atrophie par défaut d'usage';1;0
+e;6378976;'mixtes ou non précisées usage épisodique autre abus de drogues';1;0
+e;6379463;'usage continu abus de cocaïne';1;0
+e;6385167;'usage épisodique dépendance aux barbituriques et sédatifs ou hypnotiques à action similaire';1;0
+e;6394405;'usage non précisé abus de barbituriques et sédatifs ou hypnotiques à action similaire';1;0
+e;6403588;'mixtes ou non précisées usage continu autre abus de drogues';1;0
+e;6406846;'glucocorticoïdes à usage topique';1;0
+e;5798998;'usage des majuscules en français';777;0
+e;5798997;'L'usage de l'anglais';777;0
+e;10618615;'usage local ayant force de loi';777;0
+e;6434537;'lésion présumée du foetus due à l'usage maternel de drogues';1;0
+e;6433008;'troubles liés à l'usage des amphétamines';1;0
+e;6423477;'usage non précisé dépendance aux amphétamines et autres psychostimulants';1;0
+e;14004017;'Fair usage policy';777;0
+e;16531967;'c'est l'usage qui définit le sens';1;0
+e;5574356;'médicament à usage topique';777;0
+e;6438237;'intervention de la force publique impliquant l'usage d'objets tranchants';1;0
+e;6427120;'mauvais usage intentionnel d'un médicament';1;0
+e;10590625;'maîtrise d'usage';777;0
+e;15581741;'crime de faux et usage de faux';1;0
+e;15524544;'droit d'usage de l'eau';1;0
+e;15325601;'en faire un bon usage';1;0
+e;6444168;'intervention de la force publique impliquant l'usage d'explosifs';1;0
+e;6438994;'usage épisodique abus d'antidépresseurs';1;0
+e;10965949;'mauvais usage';1;8
+e;11783594;'Cet article présente les timbres de France d'usage courant de 1849 à 1940';777;0
+e;15645693;'crimes avec usage de la force';777;0
+e;15582042;'comité des médicaments à usage humain';1;0
+e;15223752;'comité des médicaments à usage vétérinaire';1;0
+e;15549243;'comme le veut l'usage';1;0
+e;15523611;'condition d'usage';1;0
+e;15450383;'conformément à l'usage';1;0
+e;5829784;'modalités d'usage';777;0
+e;6430417;'essais cliniques à usage compassionnel';1;0
+e;11059387;'lance-roquettes antichar de 84 mm à usage unique';1;0
+e;11353754;'biais d'usage du code';777;0
+e;11783593;'timbres de France d'usage courant';777;0
+e;11784174;'véhicule tout usage';777;0
+e;15627999;'contrat de bon usage';777;0
+e;15549234;'avoir l'usage de';1;0
+e;15450382;'avoir l'usage de [qch]';1;0
+e;15524875;'avoir l'usage de qch';1;0
+e;15549520;'avoir l'usage de quelque chose';1;0
+e;15286000;'banalités d'usage';1;0
+e;139576;'d'usage';1;52
+e;5670232;'règles d'usage de l'information';777;0
+e;5830823;'pesticide à usage domestique';777;0
+e;10959265;'véhicule blindé à usage non-militaire';1;0
+e;11059390;'lance-roquettes antichar à usage unique';1;0
+e;11785318;'timbres d'usage courant';777;0
+e;11787633;'Conte de fées à l'usage des moyennes personnes';777;0
+e;16342953;'Petit traité de manipulation à l'usage des honnêtes gens';777;0
+e;16172981;'Traduction française en usage dans l'Eglise orthodoxe';777;0
+e;9944300;'poulet à double usage';777;0
+e;10864911;'usage de l'Internet';777;0
+e;11059391;'lance-roquettes à usage unique';1;0
+e;12076046;'faire usage de violence';1;0
+e;12074209;'prêt locatif à usage social';777;0
+e;16073635;'Nom d'usage';1;0
+e;14761826;'Ordonnance n°2016-1729 du 15 décembre 2016 relative aux pharmacies à usage intérieur';777;0
+e;14482744;'Pièces et billets actuellement en usage aux États-Unis';777;0
+e;15275352;'aiguille stérile à usage unique';1;0
+e;1832587;'eau destinée à un usage alimentaire';1;0
+e;5912108;'farine de blé tout usage';1;0
+e;11258774;'Manuel de civilité pour les petites filles à l'usage des maisons d'éducation';777;0
+e;11693264;'usage dispersif';777;0
+e;12034131;'usage récréatif du cannabis';1;0
+e;12078595;'droit irrévocable d'usage';1;0
+e;15267004;'Le pourboire est d'usage ici dans les bars et restaurants.';1;0
+e;16340398;'Dénonciation d'un usage';777;0
+e;6439700;'troubles liés à l'usage de cocaïne';1;0
+e;6432743;'appareils d'hygiène buccodentaire à usage domestique';1;0
+e;11268844;'produits à usage unique';1;0
+e;11343716;'Lexique des règles typographiques en usage à l'Imprimerie nationale';777;0
+e;12080385;'paiement à l'usage';1;0
+e;12080280;'uvre en usage partagé';1;0
+e;16165327;'Fonction d'usage';777;0
+e;6445026;'intervention de la force publique impliquant l'usage de gaz';1;0
+e;6426657;'essais cliniques à usage humanitaire';1;0
+e;9944299;'poussin à double usage';777;0
+e;11268843;'produit à usage unique';1;0
+e;12853621;'usage non commercial';1;0
+e;6451384;'intervention de la force publique impliquant l'usage d'objets contondants';1;0
+e;6447800;'troubles liés à l'usage d'amphétamines';1;0
+e;6437017;'usage continu abus d'hallucinogènes';1;0
+e;6432852;'usage continu abus d'opiacés';1;0
+e;6428088;'usage épisodique trouble lié au tabac';1;0
+e;10526657;'usage de Salisbury';777;0
+e;10526656;'usage de Sarum';777;0
+e;5539029;'Comité des médicaments à usage humain';777;0
+e;5800483;'malais en usage dans l'ancien sultanat de Patani';777;0
+e;6434286;'usage non précisé abus d'antidépresseurs';1;0
+e;6450153;'usage épisodique abus d'opiacés';1;0
+e;6444465;'dispositifs d'hygiène buccodentaire à usage domestique';1;0
+e;9944301;'poule à double usage';777;0
+e;2378216;'usage raisonnable';777;0
+e;5704209;'Dictionnaire du français plus à l'usage des francophones d'Amérique';777;0
+e;5725972;'indice de langue d'usage public';777;0
+e;10761598;'faire usage de la force';1;0
+e;6450057;'lésion foetale présumée due à l'usage maternel de drogues';1;0
+e;6437238;'usage continu abus d'antidépresseurs';1;0
+e;6433343;'dispositifs d'hygiène bucco-dentaire à usage domestique';1;0
+e;2378215;'usage loyal';777;0
+e;2378217;'usage acceptable';777;0
+e;5830740;'Loi no 70-1320 du 31 décembre 1970 relative aux mesures sanitaires de lutte contre la toxicomanie et à la répression du trafic et de l'usage illicite de substances vénéneuses';777;0
+e;6444688;'usage épisodique abus d'hallucinogènes';1;0
+e;11154767;'évolution de l'usage des navigateurs Web';777;0
+e;2386375;'mettre en usage';1;0
+e;6451785;'poudre d'aluminium à usage pyrotechnique';1;0
+e;13241052;'usage récréatif';1;0
+e;6450327;'matériels d'hygiène buccodentaire à usage domestique';1;0
+e;6446567;'troubles liés à l'usage du cannabis';1;0
+e;11162087;'conforme à l'usage';1;0
+e;12781295;'usage cosmétique';1;8
+e;12781294;'usage technique';1;0
+e;6443165;'usage non précisé abus d'hallucinogènes';1;0
+e;5539039;'Conseil international d'harmonisation des exigences techniques pour l'enregistrement des médicaments à usage humain';777;0
+e;6446095;'difficultés liées à l'usage du tabac';1;0
+e;9241503;'usage hospitalier';1;0
+e;9590986;'antiviraux à usage systémique';1;0
+e;9591004;'antibactériens à usage systémique';1;0
+e;9591008;'antiviral à usage systémique';1;0
+e;9591006;'antibactérien à usage systémique';1;0
+e;9591007;'antimycosique à usage systémique';1;0
+e;9590984;'antibacteriens à usage systémique';1;0
+e;9590985;'antimycosiques à usage systémique';1;0
+e;11118231;'usage excessif de la force';1;0
+e;12507548;'usage de la raison';1;0
+e;12507556;'usage rationnel';1;0
+e;12645528;'en usage dans une communauté';1;0
+e;12645525;'en usage dans un groupe';1;0
+e;12617313;'usage du numérique';1;0
+e;12730417;'usage opérationnel';1;0
+e;15266995;'Il est d'usage de laisser un pourboire.';1;0
+e;15316559;'Il refuse de sanctionner l'usage de la force.';1;0
+e;15223760;'Comité des médicaments à usage vétérinaire';1;0
+e;14531886;'Deux sont en usage';777;0
+e;15780822;'Je me souviens encore mieux de Je me souviens. Notes pour Je me souviens de Georges Perec à l'usage des générations oublieuses';777;0
+e;16072377;'Changement d'usage';1;0
+e;16163190;'Concession de radiocommunication à usage général';777;0
+e;463563;'oesophagite induite par l'usage de drogues';1;50
+e;3180556;'plaisanterie à usage interne';777;0
+e;3349468;'biens et technologies à double usage';777;0
+e;1766332;'antibiotique à usage topique';1;0
+e;2354425;'il est d'usage';1;0
+e;3290886;'multi-usage';777;0
+e;1773791;'usage impropre';1;0
+e;5499436;'Le Bon usage';777;0
+e;1767434;'faire usage de';1;6
+e;5364357;'usage militaire';1;0
+e;3319969;'emballage à usage unique';1;0
+e;6451652;'usage non précisé abus d'opiacés';1;0
+e;1767464;'faire usage de son arme';1;0
+e;3227403;'mettre hors d'usage';1;0
+e;3349470;'technologies à double usage';777;0
+e;2354429;'être d'usage';1;0
+e;3320144;'usage non-alimentaire';1;0
+e;3349469;'biens à double usage';777;0
+e;437008;'farine tout usage';1;50
+e;461038;'Association des hautes juridictions de cassation des pays ayant en partage l'usage du';777;50
+e;2580103;'malais en usage dans l'ancien';777;0
+e;3245159;'usage thérapeutique';1;6
+e;2562841;'bien à double usage';1;0
+e;1845362;'trafic et usage de stupéfiants';1;0
+e;3174807;'nouvel usage';777;0
+e;385883;'usage local';1;50
+e;367824;'orthographe d'usage';1;50
+e;389069;'à usage commercial';1;50
+e;351614;'en usage dans';1;50
+e;386149;'valeur d'usage';1;50
+e;385891;'usage scientifique';1;50
+e;385882;'usage interne';1;50
+e;385877;'usage de faux en écritures bancaires';1;50
+e;385875;'usage contemporain';1;50
+e;372375;'pour faux et usage de faux';1;50
+e;368762;'parler d'usage';1;50
+e;391106;'usage d'un droit';1;50
+e;332576;'usage alimentaire';1;50
+e;389073;'à usage médical';1;50
+e;385886;'usage personnel';1;50
+e;385880;'usage immodéré';1;50
+e;362004;'local à usage d'habitation';1;50
+e;389070;'à usage externe';1;50
+e;388415;'à l'usage de';1;50
+e;385892;'usage écrit';1;50
+e;385887;'usage populaire';1;50
+e;385879;'usage externe';1;52
+e;358784;'incitation à l'usage de stupéfiants';1;50
+e;389072;'à usage interne';1;50
+e;388414;'à l'usage';1;50
+e;385881;'usage industriel';1;50
+e;346164;'dans l'usage';1;50
+e;339118;'biens d'usage';1;50
+e;385890;'usage religieux';1;50
+e;385888;'usage privé';1;50
+e;385885;'usage ménager';1;50
+e;385884;'usage modéré';1;50
+e;385878;'usage de faux en écritures de commerce';1;50
+e;354865;'formalités d'usage';1;50
+e;385889;'usage public';1;50
+e;385874;'usage concurrentiel';1;50
+e;385873;'usage commercial';1;50
+e;385872;'usage ancien';1;50
+e;389071;'à usage industriel';1;50
+e;385876;'usage de drogues douces';1;50
+e;71944;'non-usage';1;52
+e;319620;'cannabis à usage médical';1;50
+e;320084;'balle hors d'usage';1;50
+e;252340;'être hors d'usage';1;52
+e;254833;'être consacré par l'usage';1;50
+e;210715;'d'usage courant';1;50
+e;211055;'la coutume et l'usage';1;50
+e;211833;'se conformer à l'usage';1;50
+e;248470;'nom d'usage';1;14
+e;254836;'consacré par l'usage';1;50
+e;210868;'figures d'usage';1;50
+e;137351;'l'usage des plantes dans la société yoruba';1;50
+e;140520;'Histoire d'Angleterre à l'usage des enfants';1;50
+e;143875;'droit d'usage';1;50
+e;145446;'avoir l'usage';1;50
+e;286712;'Association des hautes juridictions de cassation des pays ayant en partage l'usage du français';777;50
+e;137347;'Lettre sur les aveugles à l'usage de ceux qui voient';1;50
+e;139404;'hors d'usage';1;66
+e;311431;'Nom d'usage en France';777;50
+e;247616;'à usage unique';1;6
+e;168575;'embarcation commando à usage multiple embarquable';1;50
+e;223558;'usage domestique';1;50
+e;224726;'usage de la force';1;50
+e;231939;'faux et usage de faux';1;58
+e;238769;'usage détourné';1;50
+e;251563;'usage de la table';1;50
+e;254827;'usage habituel';1;50
+e;254835;'usage courant';1;50
+e;257530;'matériel à usage unique';1;50
+e;261742;'seringue à usage unique';1;50
+e;263647;'usage médical';1;56
+e;202711;'le bon usage';1;50
+e;209552;'usage de faux';1;50
+e;214597;'faire usage';1;54
+e;215195;'usage de la langue';1;50
+e;265026;'d'un usage très large';1;50
+e;297306;'prêt à usage';777;50
+e;306982;'à usage d'habitation';777;50
+e;203530;'médicament à usage externe';1;50
+e;203531;'médicament à usage interne';1;50
+e;265025;'usage très large';1;50
+e;269415;'faire usage de sa raison';1;50
+e;283961;'charbon à usage agricole';777;50
+e;286027;'usage unique';777;8
+e;286257;'Lexique des termes et expressions en usage dans le monde de l';777;50
+e;300222;'usage des';777;50
+e;29537;'usage abusif';1;50
+e;190793;'usage optimal';1;50
+e;197051;'bon usage';1;52
+e;199459;'en usage';1;52
+e;200019;'être en usage';1;52
+r;298199764;140957;6287089;11;25
+r;298500806;140957;6292798;11;25
+r;299775785;140957;6316280;11;25
+r;300207839;140957;6327513;11;25
+r;300963417;140957;6331001;11;25
+r;301562819;140957;6346317;11;25
+r;301739160;140957;6351499;11;25
+r;301746011;140957;6352408;11;25
+r;302168481;140957;6364049;11;25
+r;302187021;140957;6365538;11;25
+r;302942863;140957;6367576;11;25
+r;303625610;140957;6375996;11;25
+r;304996007;140957;6394836;11;25
+r;305129875;140957;6399019;11;25
+r;305134916;140957;6399958;11;25
+r;305237218;140957;6402129;11;25
+r;305308576;140957;6405954;11;25
+r;349159092;140957;6406926;11;25
+r;349222974;140957;6369116;11;25
+r;349368782;140957;6410416;11;25
+r;366856446;140957;14452172;11;25
+r;370328575;140957;14572066;11;25
+r;370590923;140957;14584792;11;25
+r;370860800;140957;14594564;11;25
+r;400527148;140957;6372754;11;25
+r;392082614;140957;15012876;11;25
+r;393826211;140957;15166747;11;25
+r;423608715;140957;16153165;11;25
+r;432032509;140957;16359601;11;25
+r;430796215;140957;16325912;11;25
+r;434537405;140957;16529838;11;25
+r;114461791;140957;5786275;11;26
+r;122682734;140957;6431666;11;26
+r;301415470;140957;6337011;11;26
+r;298137719;140957;6286492;11;26
+r;298417160;140957;6290140;11;26
+r;298482113;140957;6291637;11;26
+r;299597548;140957;6312726;11;26
+r;299650871;140957;6315175;11;26
+r;299699586;140957;6316757;11;26
+r;299813441;140957;6318542;11;26
+r;299851332;140957;6318932;11;26
+r;300052805;140957;6320690;11;26
+r;300155739;140957;6323597;11;26
+r;300228444;140957;6328233;11;26
+r;301105036;140957;6332817;11;26
+r;301216972;140957;6334949;11;26
+r;301442717;140957;6338110;11;26
+r;301452725;140957;6339238;11;26
+r;301456878;140957;6338685;11;26
+r;301719898;140957;6348421;11;26
+r;301727972;140957;6349518;11;26
+r;302207393;140957;6366935;11;26
+r;302953114;140957;6367926;11;26
+r;303668143;140957;6379863;11;26
+r;303911914;140957;6381647;11;26
+r;304004657;140957;6385492;11;26
+r;304375282;140957;6385688;11;26
+r;304550294;140957;6388777;11;26
+r;304563413;140957;6389376;11;26
+r;305129416;140957;6399036;11;26
+r;305198994;140957;6401013;11;26
+r;305202600;140957;6401488;11;26
+r;305212612;140957;6401948;11;26
+r;305298131;140957;6404493;11;26
+r;305304179;140957;6405160;11;26
+r;305311079;140957;6406477;11;26
+r;305350329;140957;6408427;11;26
+r;305472599;140957;6411186;11;26
+r;305616477;140957;6413720;11;26
+r;305683045;140957;6416477;11;26
+r;349132578;140957;6413199;11;26
+r;361093216;140957;14225319;11;26
+r;364574594;140957;14326417;11;26
+r;368586261;140957;14529929;11;26
+r;368612135;140957;14530324;11;26
+r;369390329;140957;14537066;11;26
+r;369907259;140957;14558029;11;26
+r;369907852;140957;14558080;11;26
+r;370774330;140957;14593845;11;26
+r;370809137;140957;14594409;11;26
+r;374520287;140957;14729547;11;26
+r;375034028;140957;14753087;11;26
+r;385039995;140957;14874921;11;26
+r;114450166;140957;5795039;11;27
+r;114462361;140957;5785662;11;27
+r;298879355;140957;6295374;11;27
+r;303641500;140957;6378976;11;27
+r;303645709;140957;6379463;11;27
+r;303998319;140957;6385167;11;27
+r;304993067;140957;6394405;11;27
+r;305294521;140957;6403588;11;27
+r;305315081;140957;6406846;11;27
+r;113790983;140957;5798998;11;28
+r;113790992;140957;5798997;11;28
+r;266723455;140957;10618615;11;28
+r;121576851;140957;6434537;11;29
+r;122670752;140957;6433008;11;29
+r;122746407;140957;6423477;11;29
+r;353090636;140957;14004017;11;29
+r;434983418;140957;16531967;11;29
+r;110610038;140957;5574356;11;30
+r;121543874;140957;6438237;11;30
+r;122718177;140957;6427120;11;30
+r;264463927;140957;10590625;11;30
+r;419751178;140957;15581741;11;30
+r;419799713;140957;15524544;11;30
+r;419839405;140957;15325601;11;30
+r;121490603;140957;6444168;11;31
+r;121536951;140957;6438994;11;31
+r;276786867;140957;10965949;11;31
+r;303725196;140957;11783594;11;31
+r;402056187;140957;15645693;11;31
+r;419719549;140957;15582042;11;31
+r;419719557;140957;15223752;11;31
+r;419720762;140957;15549243;11;31
+r;419729065;140957;15523611;11;31
+r;419730795;140957;15450383;11;31
+r;113758746;140957;5829784;11;32
+r;122692586;140957;6430417;11;32
+r;280284689;140957;11059387;11;32
+r;291212815;140957;11353754;11;32
+r;302897682;140957;11783593;11;32
+r;303722916;140957;11784174;11;32
+r;400736448;140957;15627999;11;32
+r;419632385;140957;15549234;11;32
+r;419632389;140957;15450382;11;32
+r;419632395;140957;15524875;11;32
+r;419632401;140957;15549520;11;32
+r;419645368;140957;15286000;11;32
+r;18326142;140957;139576;11;33
+r;111345195;140957;5670232;11;33
+r;113755918;140957;5830823;11;33
+r;276643246;140957;10959265;11;33
+r;280261566;140957;11059390;11;33
+r;302927773;140957;11785318;11;33
+r;303649659;140957;11787633;11;33
+r;434357417;140957;16342953;11;33
+r;434365226;140957;16172981;11;33
+r;220197615;140957;9944300;11;34
+r;272523651;140957;10864911;11;34
+r;280259208;140957;11059391;11;34
+r;315125741;140957;12076046;11;34
+r;315126138;140957;12074209;11;34
+r;419513109;140957;16073635;11;34
+r;419519682;140957;14761826;11;34
+r;419526001;140957;14482744;11;34
+r;419583407;140957;15275352;11;34
+r;29970727;140957;1832587;11;35
+r;115859750;140957;5912108;11;35
+r;288774510;140957;11258774;11;35
+r;299604852;140957;11693264;11;35
+r;313606713;140957;12034131;11;35
+r;315122474;140957;12078595;11;35
+r;419493109;140957;15267004;11;35
+r;432056683;140957;16340398;11;35
+r;121530744;140957;6439700;11;36
+r;122673122;140957;6432743;11;36
+r;288774043;140957;11268844;11;36
+r;290640338;140957;11343716;11;36
+r;315113090;140957;12080385;11;36
+r;315113645;140957;12080280;11;36
+r;424983835;140957;16165327;11;36
+r;121482976;140957;6445026;11;37
+r;122721658;140957;6426657;11;37
+r;220200369;140957;9944299;11;37
+r;288683534;140957;11268843;11;37
+r;329368730;140957;12853621;11;37
+r;121034830;140957;6451384;11;38
+r;121457964;140957;6447800;11;38
+r;121554753;140957;6437017;11;38
+r;122672207;140957;6432852;11;38
+r;122710559;140957;6428088;11;38
+r;262897832;140957;10526657;11;38
+r;262897837;140957;10526656;11;38
+r;109889764;140957;5539029;11;39
+r;113313285;140957;5800483;11;39
+r;121579140;140957;6434286;11;39
+r;121046096;140957;6450153;11;40
+r;121487868;140957;6444465;11;40
+r;220199990;140957;9944301;11;40
+r;52573941;140957;2378216;11;41
+r;112181152;140957;5704209;11;41
+r;112664826;140957;5725972;11;41
+r;269368130;140957;10761598;11;41
+r;121046992;140957;6450057;11;42
+r;121552818;140957;6437238;11;42
+r;122667699;140957;6433343;11;42
+r;52528455;140957;2378215;11;43
+r;52528701;140957;2378217;11;43
+r;113756117;140957;5830740;11;43
+r;121485935;140957;6444688;11;43
+r;283638281;140957;11154767;11;43
+r;53020860;140957;2386375;11;44
+r;121031141;140957;6451785;11;44
+r;337154900;140957;13241052;11;44
+r;121044479;140957;6450327;11;45
+r;121469110;140957;6446567;11;46
+r;285720509;140957;11162087;11;46
+r;327951059;140957;12781295;11;46
+r;327951210;140957;12781294;11;46
+r;121499561;140957;6443165;11;47
+r;109889719;140957;5539039;11;48
+r;121473379;140957;6446095;11;48
+r;210654441;140957;9241503;11;50
+r;215344951;140957;9590986;11;50
+r;215347543;140957;9591004;11;50
+r;215362196;140957;9591008;11;50
+r;215363329;140957;9591006;11;50
+r;215525411;140957;9591007;11;50
+r;215733104;140957;9590984;11;50
+r;215764463;140957;9590985;11;50
+r;282214293;140957;11118231;11;50
+r;322161811;140957;12507548;11;50
+r;322162263;140957;12507556;11;50
+r;323850065;140957;12645528;11;50
+r;324934206;140957;12645525;11;50
+r;324937408;140957;12617313;11;50
+r;326984644;140957;12730417;11;50
+r;402105548;140957;15266995;11;50
+r;402109150;140957;15316559;11;50
+r;395014790;140957;15223760;11;50
+r;395032673;140957;14531886;11;50
+r;414592352;140957;15780822;11;50
+r;418900136;140957;16072377;11;50
+r;425015066;140957;16163190;11;50
+r;16354647;140957;463563;11;51
+r;76788125;140957;3180556;11;51
+r;85863902;140957;3349468;11;52
+r;29048403;140957;1766332;11;53
+r;36883661;140957;2354425;11;53
+r;80852188;140957;3290886;11;53
+r;29132771;140957;1773791;11;54
+r;108033545;140957;5499436;11;54
+r;29068390;140957;1767434;11;55
+r;107110383;140957;5364357;11;55
+r;83668738;140957;3319969;11;55
+r;121032375;140957;6451652;11;55
+r;29069952;140957;1767464;11;56
+r;77787576;140957;3227403;11;56
+r;85864363;140957;3349470;11;56
+r;36807789;140957;2354429;11;57
+r;83667809;140957;3320144;11;57
+r;85866964;140957;3349469;11;57
+r;14690688;140957;437008;11;58
+r;16176207;140957;461038;11;58
+r;53014414;140957;2580103;11;58
+r;78498773;140957;3245159;11;58
+r;52446709;140957;2562841;11;59
+r;29883897;140957;1845362;11;61
+r;76460169;140957;3174807;11;66
+r;12557807;140957;385883;11;101
+r;12630943;140957;367824;11;101
+r;12545637;140957;389069;11;102
+r;12696905;140957;351614;11;102
+r;12556765;140957;386149;11;103
+r;12557775;140957;385891;11;103
+r;12557811;140957;385882;11;103
+r;12557837;140957;385877;11;103
+r;12557851;140957;385875;11;103
+r;12612639;140957;372375;11;103
+r;12627427;140957;368762;11;103
+r;13031087;140957;391106;11;103
+r;12416221;140957;332576;11;104
+r;12545621;140957;389073;11;104
+r;12557795;140957;385886;11;104
+r;12557819;140957;385880;11;104
+r;12654569;140957;362004;11;104
+r;12545633;140957;389070;11;105
+r;12547973;140957;388415;11;105
+r;12557771;140957;385892;11;105
+r;12557791;140957;385887;11;105
+r;12557823;140957;385879;11;105
+r;12667693;140957;358784;11;105
+r;12545625;140957;389072;11;106
+r;12547975;140957;388414;11;106
+r;12557815;140957;385881;11;106
+r;12719747;140957;346164;11;106
+r;12749105;140957;339118;11;106
+r;12557779;140957;385890;11;108
+r;12557787;140957;385888;11;108
+r;12557799;140957;385885;11;108
+r;12557803;140957;385884;11;108
+r;12557827;140957;385878;11;108
+r;12683689;140957;354865;11;108
+r;12557783;140957;385889;11;109
+r;12557855;140957;385874;11;109
+r;12557859;140957;385873;11;109
+r;12557863;140957;385872;11;109
+r;12545629;140957;389071;11;110
+r;12557845;140957;385876;11;110
+r;11867667;140957;71944;11;121
+r;9034552;140957;319620;11;148
+r;9050880;140957;320084;11;148
+r;8881204;140957;252340;11;150
+r;8881411;140957;254833;11;150
+r;8878399;140957;210715;11;151
+r;8878647;140957;211055;11;151
+r;8879251;140957;211833;11;151
+r;8880960;140957;248470;11;151
+r;8881412;140957;254836;11;151
+r;8878526;140957;210868;11;152
+r;8872945;140957;137351;11;153
+r;8873932;140957;140520;11;153
+r;8874648;140957;143875;11;153
+r;8874929;140957;145446;11;153
+r;8883973;140957;286712;11;153
+r;8872943;140957;137347;11;154
+r;8873632;140957;139404;11;154
+r;8886316;140957;311431;11;154
+r;8711098;140957;247616;11;160
+r;8631720;140957;168575;11;161
+r;8694411;140957;223558;11;161
+r;8695152;140957;224726;11;161
+r;8700346;140957;231939;11;161
+r;8705644;140957;238769;11;161
+r;8715239;140957;251563;11;161
+r;8719029;140957;254827;11;161
+r;8719040;140957;254835;11;161
+r;8722751;140957;257530;11;161
+r;8728462;140957;261742;11;161
+r;8730925;140957;263647;11;161
+r;8672391;140957;202711;11;162
+r;8683835;140957;209552;11;162
+r;8689425;140957;214597;11;162
+r;8689711;140957;215195;11;162
+r;8732633;140957;265026;11;162
+r;8764289;140957;297306;11;162
+r;8772841;140957;306982;11;162
+r;8673761;140957;203530;11;163
+r;8673764;140957;203531;11;163
+r;8732630;140957;265025;11;163
+r;8737092;140957;269415;11;163
+r;8751108;140957;283961;11;163
+r;8753201;140957;286027;11;163
+r;8753523;140957;286257;11;163
+r;8766920;140957;300222;11;163
+r;8579803;140957;29537;11;164
+r;8653290;140957;190793;11;164
+r;8662779;140957;197051;11;164
+r;8666686;140957;199459;11;164
+r;8667654;140957;200019;11;164

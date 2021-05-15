@@ -1,0 +1,430 @@
+
+e;48333;'utilisation';1;188
+e;6293472;'utilisation de prothèse du bras';1;0
+e;6292979;'utilisation d'un médicament périmé';1;0
+e;6291625;'utilisation intentionnelle par voie incorrecte';1;0
+e;6342605;'entraînement pour utilisation de prothèse';1;0
+e;6384639;'instructions pour utilisation de marchette';1;0
+e;6415635;'agression par utilisation d'une arme';1;0
+e;12139947;'mesure de conseil d'utilisation du médicament panel';1;0
+e;12139945;'identification du type de conseil d'utilisation du médicament';1;0
+e;12139943;'mesure de conseil d'utilisation du médicament';1;0
+e;6356877;'stapédectomie avec rétablissement de la continuité ossiculaire avec utilisation de matériel étranger';1;0
+e;6306187;'instructions pour utilisation de prothèse';1;0
+e;13587595;'utilisation pratique';1;0
+e;13666660;'utilisation traditionnelle';1;0
+e;14156887;'tarifs d'utilisation des réseaux publics d'électricité';777;0
+e;14453083;'utilisation d'Internet dansla campagne électorale';1;0
+e;14538735;'utilisation des terres';1;0
+e;14559746;'utilisation du diaporama';777;0
+e;14590044;'utilisation prolongée à dose élevée';1;0
+e;14594752;'utilisation professionnelle';777;0
+e;14626899;'contexte d'utilisation';1;0
+e;14635670;'non-utilisation';1;0
+e;14655591;'exemple d'utilisation';1;0
+e;14655590;'exemples d'utilisation';1;0
+e;14715195;'utilisation du vivant comme capteur';777;0
+e;14739701;'La recherche de ce signe n'est pratiquement plus utilisé en pratique clinique devant sa difficulté de mise en oeuvre et l'utilisation de moyen diagnostic plus fiable comme l'échocardiographie';777;0
+e;6288669;'utilisation intentionnelle pour une indication non étiquetée';1;0
+e;6289736;'utilisation inadéquate de drogues';1;0
+e;6289599;'utilisation de prothèse valvulaire cardiaque';1;0
+e;6300768;'utilisation intentionnelle au-delà de la durée autorisée';1;0
+e;6304857;'utilisation de stimulateur cardiaque mécanique';1;0
+e;6306529;'utilisation d'une substance médicamenteuse périmée';1;0
+e;6311365;'utilisation intentionnelle pour une indication non autorisée';1;0
+e;6353923;'lésion auto-infligée par utilisation de matériel explosif';1;0
+e;16087148;'l'utilisation massive des TIC';777;0
+e;16491279;'utilisation d'un contenu';1;0
+e;16508314;'utilisation diplomatique';1;0
+e;6274022;'mal-utilisation';1;0
+e;6327664;'symptômes de sevrage dus à utilisation thérapeutique de médicaments chez le nouveau-né';1;0
+e;6398829;'foetus et nouveau-né affectés par une utilisation par la mère de substances chimiques nutritionnelles';1;0
+e;14754550;'utilisation médicale du cannabis';1;0
+e;6441045;'enseignement sur l'utilisation du diaphragme';1;0
+e;6431591;'utilisation d'implants dentaires';1;0
+e;10673392;'liberté d'utilisation de leurs ressources';777;0
+e;6382965;'symptômes de privation d'une utilisation thérapeutique de médicaments chez le nouveau-né';1;0
+e;12093835;'conseil d'utilisation du médicament panel';1;0
+e;12093834;'conseil d'utilisation du médicament';1;0
+e;6438607;'extraction de corps étranger du segment antérieur de l'oeil sans utilisation d'aimant';1;0
+e;6436833;'extraction de corps étranger du segment antérieur de l'oeil avec utilisation d'aimant';1;0
+e;6436488;'test avec utilisation d'inositol';1;0
+e;6436415;'alternatives à l'utilisation d'animaux';1;0
+e;6434456;'extraction de corps étranger du vitré sans utilisation d'aimant';1;0
+e;6433998;'extraction de corps étranger de la rétine sans utilisation d'aimant';1;0
+e;6431724;'extraction de corps étranger de l'iris sans utilisation d'aimant';1;0
+e;6441377;'extraction de corps étranger de l'iris avec utilisation d'aimant';1;0
+e;6435918;'troubles mentaux et du comportement liés à l'utilisation d'alcool';1;0
+e;6435089;'troubles mentaux et du comportement liés à l'utilisation de tabac';1;0
+e;6425054;'utilisation de dispositif au-delà de la durée autorisée';1;0
+e;16103389;'durées de vie en utilisation';1;0
+e;6440949;'syndrome amnésique dû à l'utilisation de substances psycho-actives';1;0
+e;6437156;'trouble lie a l'utilisation de substances toxiques';1;0
+e;6436088;'extraction de corps étranger du corps ciliaire avec utilisation d'aimant';1;0
+e;6428792;'acétabuloplastie avec utilisation de méthacrylate de méthyle';1;0
+e;15389161;'coût d'utilisation';1;0
+e;15219596;'cycle d'utilisation';1;0
+e;15456658;'d'une grande facilité d'utilisation';1;0
+e;15325316;'durée de vie en utilisation';1;0
+e;15660574;'durées d'utilisation';1;0
+e;15301900;'en libre service, en self-service, en utilisation autonome';1;0
+e;5598134;'autorisation temporaire d'utilisation';777;0
+e;5712479;'diagrammes de cas d'utilisation';777;0
+e;6443841;'entraînement pour utilisation d'orthèses aux extrémités supérieures';1;0
+e;6441226;'utilisation d'implants testiculaires';1;0
+e;6438581;'extraction de corps étranger du cristallin avec utilisation d'aimant';1;0
+e;6437999;'troubles mentaux et du comportement liés à l'utilisation d'opiacés';1;0
+e;6435819;'enseignement sur l'utilisation du condom';1;0
+e;6434820;'erreur de méthode d'utilisation médicamenteuse';1;0
+e;6433244;'section 9-3 troubles liés à l'utilisation de substances psycho-actives';1;0
+e;6432100;'étude de l'utilisation du fer par les hématies';1;0
+e;6431775;'troubles mentaux et du comportement liés à l'utilisation d'hallucinogènes';1;0
+e;10992040;'navires à utilisation collective';777;0
+e;10992038;'navire de plaisance à utilisation commerciale';777;0
+e;11030777;'cas d'utilisation';777;0
+e;11057958;'Le Protocole de Nagoya sur l'accès aux ressources génétiques et le partage juste et équitable des avantages découlant de leur utilisation à la Convention sur la diversité biologique';777;0
+e;15341347;'conditions d'utilisation';1;0
+e;15660576;'confort d'utilisation';1;0
+e;15446109;'conseil d'utilisation';1;0
+e;16094616;'auto-utilisation';1;0
+e;5669661;'utilisation des antibiotiques en agriculture';777;0
+e;5634610;'utilisation d'outils chez les animaux';777;0
+e;5836933;'utilisation de médicaments pendant la grossesse';777;0
+e;6443090;'extraction de corps étranger du cristallin par incision avec utilisation d'aimant';1;0
+e;6440695;'utilisation d'implants mammaires';1;0
+e;6439896;'utilisation d'implant pénien';1;0
+e;6435602;'troubles liés à l'utilisation de substances';1;0
+e;10992039;'yacht à utilisation commerciale';777;0
+e;11353416;'Prime à l'amélioration des logements à utilisation locative et à occupation sociale';777;0
+e;15473627;'carence d'utilisation';1;0
+e;15456656;'charte d'utilisation';1;0
+e;5635408;'opposition à l'utilisation d'animaux sauvages dans les cirques';777;0
+e;5830322;'troubles mentaux et du comportement liés à l'utilisation de substances psycho-actives';777;0
+e;11063470;'Table d'utilisation des tests statistiques';777;0
+e;5854207;'utilisation de l'ammoniac en agriculture';777;0
+e;6449493;'extraction de corps étranger de la sclérotique sans utilisation d'aimant';1;0
+e;6443967;'extraction de corps étranger du segment postérieur de l'oeil sans utilisation d'aimant';1;0
+e;15342931;'Son utilisation des extérieurs naturels était inhabituelle.';1;0
+e;13800496;'a-12 techniques de soins infirmiers reliées à l'utilisation de sondes et de drains';1;0
+e;1830410;'coefficient d'utilisation de l'oxygène';1;0
+e;1830620;'comportement d'utilisation';1;0
+e;5804923;'utilisation du sol';777;0
+e;6451138;'extraction de corps étranger de la chambre antérieure de l'oeil par incision avec utilisation d'aimant';1;0
+e;6447793;'extraction de corps étranger de la choroïde avec utilisation d'aimant';1;0
+e;6437563;'utilisation d'appareil à poulie';1;0
+e;6434482;'troubles lies a l'utilisation de substances toxiques';1;0
+e;10831304;'laboratoire pour l'utilisation des lasers intenses';777;0
+e;10929888;'Spécifications techniques d'utilisation du réseau';777;0
+e;11693439;'durée d'utilisation d'un équipement';777;0
+e;11693441;'l'intensité d'utilisation';777;0
+e;12067542;'réduire l'utilisation de la voiture';1;0
+e;16342692;'ISO 14001 Management environnemental - Exigences et lignes directrices pour son utilisation. Dernière édition parue le 15 septembre 2015';777;0
+e;6445405;'utilisation médicamenteuse par voie d'administration non approuvée';1;0
+e;6442194;'test avec utilisation d'amidon';1;0
+e;6436354;'extraction de corps étranger du cristallin sans utilisation d'aimant';1;0
+e;11454179;'profondeur maximum d'utilisation';777;0
+e;12049727;'planifier l'utilisation d'armes sur scène';1;0
+e;12049849;'gérer le temps dans l'utilisation de fourneaux';1;0
+e;12050441;'préparer des produits laitiers avant leur utilisation dans un plat';1;0
+e;12050890;'superviser l'utilisation de l'équipement de cuisine';1;0
+e;12051573;'percevoir la rétribution due pour l'utilisation des toilettes';1;0
+e;12051258;'superviser l'utilisation d'engins de construction lourds';1;0
+e;5568597;'mythe de l'utilisation incomplète du cerveau';777;0
+e;6450256;'insertion de prothèse ou d'appareil prothétique de la tête fémorale avec utilisation de méthacrylate de méthyle';1;0
+e;6444214;'troubles liés à l'utilisation de drogues';1;0
+e;6442215;'extraction de corps étranger intra-oculaire du segment antérieur de l'oeil avec utilisation d'aimant';1;0
+e;6441118;'entraînement pour utilisation d'appareil prothétique';1;0
+e;6435128;'extraction de corps étranger du corps ciliaire sans utilisation d'aimant';1;0
+e;11363264;'secteur d'utilisation de l'énergie';777;0
+e;12051196;'superviser des employés lors de l'utilisation de pompes à carburant';1;0
+e;12051218;'surveiller l'utilisation d'équipements militaires';1;0
+e;6451867;'utilisation expérimentale d'animaux';1;0
+e;6444976;'utilisation d'écharpe de suspension';1;0
+e;6444055;'extraction de corps étranger du segment postérieur de l'oeil avec utilisation d'aimant';1;0
+e;6443972;'injection pendant un cathétérisme cardiaque incluant l'utilisation d'injecteurs automatiques sous pression';1;0
+e;6437775;'antécédent personnel d'utilisation à long terme d'aspirine';1;0
+e;6434941;'extraction de corps étranger de la choroïde sans utilisation d'aimant';1;0
+e;5809968;'coefficient d'utilisation pratique';777;0
+e;6445733;'extraction de corps étranger de la sclérotique avec utilisation d'aimant';1;0
+e;12057491;'utilisation des impôts';1;0
+e;5898437;'Coefficient d'utilisation digestive';777;0
+e;6447543;'utilisation de prothèse de l'épaule';1;0
+e;6447029;'lésion auto-infligée par utilisation d'objet tranchant';1;0
+e;6434733;'solutions de rechange à l'utilisation d'animaux';1;0
+e;6432451;'alternative a l'utilisation animale';1;0
+e;6431835;'alternatives à l'utilisation d'animal';1;0
+e;6445685;'troubles mentaux et du comportement liés à l'utilisation de sédatifs ou d'hypnotiques';1;0
+e;6444509;'enseignement sur l'utilisation des contraceptifs';1;0
+e;13271823;'durée d'utilisation';1;0
+e;5538483;'analyseur d'utilisation de disque';777;0
+e;6449678;'troubles mentaux et du comportement liés à l'utilisation de cocaïne';1;0
+e;6444620;'troubles liés à l'utilisation de substances psycho-actives';1;0
+e;6001815;'utilisation des ressources in situ';777;0
+e;6451671;'extraction de corps étranger du vitré avec utilisation d'aimant';1;0
+e;6451658;'alternatives a l'utilisation animale';1;0
+e;6451394;'troubles mentaux et du comportement liés à l'utilisation de dérivés du cannabis';1;0
+e;6450228;'utilisation expérimentale d'animal';1;0
+e;6446937;'lésion auto-infligée par utilisation d'objet contondant';1;0
+e;6447327;'trouble lié à l'utilisation de substances psycho-actives';1;0
+e;6446123;'extraction de corps étranger de la rétine avec utilisation d'aimant';1;0
+e;1840589;'coefficient d'utilisation oxygène';1;0
+e;6527012;'codes morphologiques d'utilisation fréquente';1;0
+e;6444380;'troubles mentaux et du comportement liés à l'utilisation de solvants volatils';1;0
+e;5539066;'utilisation de médicaments pendant l'allaitement';777;0
+e;6450940;'troubles mentaux et du comportement liés à l'utilisation de drogues multiples et troubles liés à l'utilisation d'autres substances psycho-actives';1;0
+e;12763670;'charge maximale d'utilisation';777;0
+e;5723459;'L'option -a permet l'utilisation des caractères ISO-8859 après le code ASCII';777;0
+e;6004104;'Comité des Nations unies pour l'utilisation pacifique de l'espace extra-atmosphérique';777;0
+e;9098144;'facilité d'utilisation';1;0
+e;9667119;'utilisation en cosmétique';1;0
+e;13770209;'090-095 codes morphologiques d'utilisation fréquente';1;0
+e;14581144;'Elle interdit l'utilisation d'une recette déterminée pour le financement d'une dépense déterminée';777;0
+e;15260961;'L'utilisation des calculatrices est interdite.';1;0
+e;3319574;'utilisation du fourrage';1;0
+e;1156585;'utilisation intelligente';1;0
+e;3320709;'Plan d'action mondial pour la conservation et l'utilisation durable des ressources phytogénétiques pour l'alimentation et l'agriculture';1;0
+e;3319269;'utilisation protéique nette';1;0
+e;1476697;'règles d'utilisation optimales';777;0
+e;3320142;'utilisation non-alimentaire';1;0
+e;3320143;'utilisation à des fins non alimentaires';1;0
+e;364543;'mode d'utilisation';1;50
+e;385947;'utilisation prolongée';1;50
+e;385948;'utilisation thérapeutique';1;50
+e;385945;'utilisation finale';1;50
+e;385943;'utilisation collective';1;50
+e;385944;'utilisation de l'arme nucléaire';1;50
+e;382519;'sécurité d'utilisation';1;50
+e;380564;'souplesse d'utilisation';1;50
+e;353194;'facteur d'utilisation de la puissance maximale';1;50
+e;385946;'utilisation industrielle';1;50
+e;373334;'procédure d'utilisation';1;50
+e;55368;'sous-utilisation';1;50
+e;329409;'utilisation commerciale';1;50
+e;249599;'date limite d'utilisation';1;36
+e;249606;'date limite d'utilisation optimale';1;20
+e;218274;'droit d'utilisation';1;50
+e;234562;'conditions générales d'utilisation';1;50
+e;210491;'coefficient d'utilisation';1;50
+e;210806;'facteur d'utilisation';1;50
+e;211410;'notice d'utilisation';1;50
+e;146108;'Analyse de l'utilisation des ressources de production';1;50
+e;273183;'coopérative d'utilisation de matériel agricole';777;50
+e;273645;'Loi sur l'air et l'utilisation rationnelle de l'énergie';777;50
+e;300253;'aptitude à l'utilisation';777;50
+e;254495;'mauvaise utilisation';1;68
+e;209561;'utilisation du terrain';1;50
+e;311737;'utilisation durable';777;50
+r;397130794;48333;6293472;11;25
+r;397120255;48333;6292979;11;25
+r;396790915;48333;6291625;11;25
+r;301490630;48333;6342605;11;25
+r;303994425;48333;6384639;11;25
+r;305664549;48333;6415635;11;25
+r;316759833;48333;12139947;11;25
+r;316759846;48333;12139945;11;25
+r;316759855;48333;12139943;11;25
+r;341132035;48333;6356877;11;25
+r;340964775;48333;6306187;11;25
+r;344044045;48333;13587595;11;25
+r;347195013;48333;13666660;11;25
+r;359658576;48333;14156887;11;25
+r;366893653;48333;14453083;11;25
+r;369485897;48333;14538735;11;25
+r;369971412;48333;14559746;11;25
+r;370722286;48333;14590044;11;25
+r;370865009;48333;14594752;11;25
+r;371529126;48333;14626899;11;25
+r;371753296;48333;14635670;11;25
+r;372652504;48333;14655591;11;25
+r;372652718;48333;14655590;11;25
+r;374007366;48333;14715195;11;25
+r;374699527;48333;14739701;11;25
+r;396617500;48333;6288669;11;25
+r;396636727;48333;6289736;11;25
+r;396637708;48333;6289599;11;25
+r;397525353;48333;6300768;11;25
+r;397825840;48333;6304857;11;25
+r;397874434;48333;6306529;11;25
+r;398386152;48333;6311365;11;25
+r;400040458;48333;6353923;11;25
+r;419484492;48333;16087148;11;25
+r;433860713;48333;16491279;11;25
+r;434173477;48333;16508314;11;25
+r;297268475;48333;6274022;11;26
+r;300211440;48333;6327664;11;26
+r;305134031;48333;6398829;11;26
+r;375080304;48333;14754550;11;26
+r;121518645;48333;6441045;11;27
+r;122683428;48333;6431591;11;27
+r;270779996;48333;10673392;11;27
+r;303980757;48333;6382965;11;27
+r;315625011;48333;12093835;11;27
+r;315625020;48333;12093834;11;27
+r;121540528;48333;6438607;11;28
+r;121556411;48333;6436833;11;28
+r;121559452;48333;6436488;11;28
+r;121560070;48333;6436415;11;28
+r;121577587;48333;6434456;11;28
+r;121581743;48333;6433998;11;28
+r;122682205;48333;6431724;11;28
+r;121515689;48333;6441377;11;29
+r;121564570;48333;6435918;11;29
+r;121571956;48333;6435089;11;29
+r;122734039;48333;6425054;11;29
+r;434385717;48333;16103389;11;29
+r;121519439;48333;6440949;11;30
+r;121553586;48333;6437156;11;30
+r;121563025;48333;6436088;11;30
+r;122705002;48333;6428792;11;30
+r;419749575;48333;15389161;11;30
+r;419756283;48333;15219596;11;30
+r;419759874;48333;15456658;11;30
+r;419802273;48333;15325316;11;30
+r;419802396;48333;15660574;11;30
+r;419840414;48333;15301900;11;30
+r;110693545;48333;5598134;11;31
+r;112096981;48333;5712479;11;31
+r;121493586;48333;6443841;11;31
+r;121517022;48333;6441226;11;31
+r;121540748;48333;6438581;11;31
+r;121545936;48333;6437999;11;31
+r;121565409;48333;6435819;11;31
+r;121574355;48333;6434820;11;31
+r;122668574;48333;6433244;11;31
+r;122678935;48333;6432100;11;31
+r;122681747;48333;6431775;11;31
+r;277926261;48333;10992040;11;31
+r;277926273;48333;10992038;11;31
+r;279609807;48333;11030777;11;31
+r;280226735;48333;11057958;11;31
+r;419729239;48333;15341347;11;31
+r;419730817;48333;15660576;11;31
+r;419732481;48333;15446109;11;31
+r;434372960;48333;16094616;11;31
+r;111347143;48333;5669661;11;32
+r;111355746;48333;5634610;11;32
+r;114017859;48333;5836933;11;32
+r;121500267;48333;6443090;11;32
+r;121521731;48333;6440695;11;32
+r;121528891;48333;6439896;11;32
+r;121567367;48333;6435602;11;32
+r;277704002;48333;10992039;11;32
+r;291214101;48333;11353416;11;32
+r;419686361;48333;15473627;11;32
+r;419702020;48333;15456656;11;32
+r;111353836;48333;5635408;11;33
+r;113757645;48333;5830322;11;33
+r;280440082;48333;11063470;11;33
+r;114444742;48333;5854207;11;34
+r;121052167;48333;6449493;11;34
+r;121492475;48333;6443967;11;34
+r;419547442;48333;15342931;11;34
+r;419565266;48333;13800496;11;34
+r;29949608;48333;1830410;11;35
+r;29953915;48333;1830620;11;35
+r;113297453;48333;5804923;11;35
+r;121037110;48333;6451138;11;35
+r;121458027;48333;6447793;11;35
+r;121549839;48333;6437563;11;35
+r;121577331;48333;6434482;11;35
+r;270763870;48333;10831304;11;35
+r;274961635;48333;10929888;11;35
+r;299636696;48333;11693439;11;35
+r;299637654;48333;11693441;11;35
+r;314011713;48333;12067542;11;35
+r;431846231;48333;16342692;11;35
+r;121479517;48333;6445405;11;36
+r;121508346;48333;6442194;11;36
+r;121560577;48333;6436354;11;36
+r;294413208;48333;11454179;11;36
+r;313662602;48333;12049727;11;36
+r;313674487;48333;12049849;11;36
+r;313697349;48333;12050441;11;36
+r;313703488;48333;12050890;11;36
+r;313763189;48333;12051573;11;36
+r;313764690;48333;12051258;11;36
+r;110201827;48333;5568597;11;37
+r;121045123;48333;6450256;11;37
+r;121490153;48333;6444214;11;37
+r;121508179;48333;6442215;11;37
+r;121518024;48333;6441118;11;37
+r;121571605;48333;6435128;11;37
+r;291815572;48333;11363264;11;37
+r;313725867;48333;12051196;11;37
+r;313725898;48333;12051218;11;37
+r;121030390;48333;6451867;11;38
+r;121483391;48333;6444976;11;38
+r;121491659;48333;6444055;11;38
+r;121492419;48333;6443972;11;38
+r;121547894;48333;6437775;11;38
+r;121573234;48333;6434941;11;38
+r;113278407;48333;5809968;11;39
+r;121476610;48333;6445733;11;39
+r;313822560;48333;12057491;11;39
+r;115104702;48333;5898437;11;40
+r;121460300;48333;6447543;11;40
+r;121465026;48333;6447029;11;40
+r;121575119;48333;6434733;11;40
+r;122675737;48333;6432451;11;40
+r;122681208;48333;6431835;11;40
+r;121477020;48333;6445685;11;41
+r;121487476;48333;6444509;11;41
+r;338932741;48333;13271823;11;41
+r;109659701;48333;5538483;11;42
+r;121050500;48333;6449678;11;42
+r;121486517;48333;6444620;11;42
+r;118536837;48333;6001815;11;43
+r;121032232;48333;6451671;11;43
+r;121032332;48333;6451658;11;43
+r;121034740;48333;6451394;11;43
+r;121045403;48333;6450228;11;43
+r;121465823;48333;6446937;11;43
+r;121462323;48333;6447327;11;44
+r;121473124;48333;6446123;11;45
+r;29907598;48333;1840589;11;46
+r;121444192;48333;6527012;11;46
+r;121488654;48333;6444380;11;47
+r;109889555;48333;5539066;11;48
+r;121038942;48333;6450940;11;48
+r;327450098;48333;12763670;11;49
+r;112671061;48333;5723459;11;50
+r;118528157;48333;6004104;11;50
+r;200481389;48333;9098144;11;50
+r;217108588;48333;9667119;11;50
+r;348971536;48333;13770209;11;50
+r;370524301;48333;14581144;11;50
+r;414848524;48333;15260961;11;50
+r;83670814;48333;3319574;11;53
+r;21987840;48333;1156585;11;56
+r;83665326;48333;3320709;11;57
+r;83672476;48333;3319269;11;57
+r;24453389;48333;1476697;11;59
+r;83667820;48333;3320142;11;59
+r;83667813;48333;3320143;11;60
+r;12644113;48333;364543;11;101
+r;12557543;48333;385947;11;102
+r;12557539;48333;385948;11;103
+r;12557551;48333;385945;11;106
+r;12557561;48333;385943;11;106
+r;12557555;48333;385944;11;107
+r;12571443;48333;382519;11;107
+r;12579255;48333;380564;11;107
+r;12690489;48333;353194;11;107
+r;12557547;48333;385946;11;110
+r;12608695;48333;373334;11;110
+r;11870153;48333;55368;11;121
+r;11616121;48333;329409;11;148
+r;8881017;48333;249599;11;150
+r;8881018;48333;249606;11;150
+r;8879732;48333;218274;11;151
+r;8880456;48333;234562;11;151
+r;8878253;48333;210491;11;152
+r;8878475;48333;210806;11;152
+r;8878901;48333;211410;11;152
+r;8875036;48333;146108;11;153
+r;8882673;48333;273183;11;153
+r;8882736;48333;273645;11;153
+r;8885206;48333;300253;11;153
+r;8718531;48333;254495;11;161
+r;8683852;48333;209561;11;162
+r;8777842;48333;311737;11;164

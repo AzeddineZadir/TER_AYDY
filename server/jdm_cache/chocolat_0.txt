@@ -1,0 +1,4290 @@
+
+e;34157;'chocolat';1;3310
+e;152769;'Lindt';1;68
+e;5141723;'chocolat corsé';1;0
+e;160930;'chocolatine';1;164
+e;343785;'chocolat aux amandes pilées';1;50
+e;3762435;'ingrédient de recette de cuisine';1;2
+e;343792;'chocolat à la crème';1;50
+e;343787;'chocolat en tablette';1;50
+e;165157;'chocolat en poudre';1;150
+e;238346;'chocolat fondu';1;94
+e;17226;'teinte';1;442
+e;5809808;'couleur de robe du chat';1;0
+e;34761;'marbré';1;64
+e;117379;'tête de nègre';1;54
+e;249199;'chocolat aux noisettes';1;94
+e;249529;'chocolat pâtissier';1;56
+e;135190;'lieu';1;1642
+e;37688;'merveilleux';1;280
+e;141120;'praline';1;106
+e;83344;'esquimau';1;76
+e;227899;'fondue au chocolat';1;136
+e;1927865;'guinette';1;0
+e;67811;'désappointé';1;62
+e;2528020;'lévrier whippet';1;0
+e;3246666;'Éclair au chocolat';777;0
+e;143532;'hâlé';1;64
+e;155140;'beurre de cacao';1;112
+e;1927863;'gianduja';1;0
+e;154128;'tablette de chocolat';1;252
+e;116908;'châtain';1;96
+e;78856;'Toblerone';1;58
+e;1371375;'mélange sucré salé';1;10
+e;87862;'ganache';1;70
+e;1927866;'uf de pâques';1;0
+e;32817;'déçu';1;178
+e;144281;'berné';1;56
+e;122704;'sombre';1;837
+e;90633;'brunâtre';1;64
+e;144860;'bistre';1;62
+e;190040;'huile de palmiste';1;20
+e;152552;'Cuisine';1;156
+e;11954;'langue-de-chat';1;60
+e;58433;'Gianduja';1;50
+e;2522740;'havana';1;0
+e;8924;'psychologie';1;1244
+e;139383;'crotte';1;418
+e;414207;'Chocolat';1;52
+e;1927864;'pralinoise';1;0
+e;56822;'bille';1;280
+e;7170;'pastille';1;134
+e;3365597;'fondant chocolat cannelle, cerises au sirop, ou griottes';1;0
+e;113902;'alimentation';1;1784
+e;25966;'pâtisserie';1;1960
+e;14269;'boissons';1;114
+e;42980;'Léonidas';1;60
+e;189981;'ingrédient de cuisine';1;66
+e;260581;'chocolat froid';1;54
+e;104695;'croquette';1;132
+e;174839;'busche';1;50
+e;119446;'coloris';1;138
+e;14189;'brun';1;404
+e;249200;'chocolat de couverture';1;96
+e;6657;'bouchée';1;188
+e;28872;'praliné';1;136
+e;275717;'Fondue au chocolat';777;50
+e;331048;'moelleux au chocolat';1;104
+e;228603;'industrie agro-alimentaire';1;6
+e;110236;'tabac';1;1460
+e;27551;'terreux';1;86
+e;181277;'café chocolaté';1;52
+e;95459;'tartarinade';1;50
+e;15260310;'fève de cacaoyer';1;0
+e;15270899;'brun-rouge foncé';1;0
+e;161947;'Nutella';1;212
+e;343790;'chocolat praliné';1;50
+e;190039;'huile de palme';1;74
+e;491;'papillote';1;104
+e;151377;'whippet';1;50
+e;145064;'plaque';1;390
+e;325703;'robe du cheval';1;50
+e;1906563;'charlotte au chocolat';1;68
+e;229924;'cacolac';666;8
+e;8515;'religieuse';1;328
+e;49402;'bronzé';1;134
+e;91657;'nutrition';1;424
+e;25337;'tartine';1;670
+e;155458;'petit-déjeuner';1;250
+e;1906607;'gâteau moelleux au chocolat';1;0
+e;110160;'robe';1;1122
+e;62217;'tête-de-nègre';1;50
+e;153751;'mousse au chocolat';1;202
+e;132338;'couleurs';1;230
+e;2140328;'cacaos';2;0
+e;339571;'bonbon de chocolat';1;50
+e;143378;'thé';1;1658
+e;238898;'chocolat à pâtisser';1;48
+e;47918;'boire';1;4526
+e;228921;'fondant au chocolat';1;94
+e;236529;'industrie alimentaire';1;278
+e;229363;'Poulain';666;50
+e;2944603;'Chocolat amer';777;0
+e;247132;'produit de grande consommation';1;54
+e;134028;'anti-dépresseur';1;94
+e;97684;'cigarette';1;1950
+e;9122;'flan';1;108
+e;42388;'médaille';1;472
+e;55249;'parfum';1;2146
+e;156524;'nutella';1;200
+e;145464;'délicieux';1;458
+e;24372;'riz';1;1294
+e;229905;'Cacolac';666;2
+e;152419;'gouter';1;76
+e;140982;'pâques';1;58
+e;26201;'goûter';1;908
+e;75884;'mars';1;2874
+e;155928;'fève de cacao';1;114
+e;26009;'liégeois';1;56
+e;329798;'chocolat Lanvin';1;58
+e;143255;'Noël';1;1236
+e;97910;'amer';1;226
+e;153047;'pain au chocolat';1;512
+e;153948;'Suchard';1;88
+e;153034;'crottes';1;72
+e;2542643;'granola';1;2
+e;11358;'substance';1;278
+e;25082;'pépite';1;88
+e;124836;'croquer';1;424
+e;61283;'pain';1;3438
+e;107896;'carreau';1;248
+e;28923;'fondant';1;162
+e;102345;'plaisir';1;3530
+e;39586;'Nestlé';1;106
+e;222338;'Van Houten';1;52
+e;261654;'chocolat à cuire';1;50
+e;16033;'cuisine';1;11422
+e;241932;'chocolat à croquer';1;56
+e;132479;'marron';1;694
+e;144229;'bon';1;1948
+e;33387;'plaquette';1;156
+e;66324;'café';1;3800
+e;149325;'noisettes';1;114
+e;130164;'manger';1;10184
+e;152977;'au lait';1;110
+e;40056;'couleur';1;4816
+e;40545;'truffe';1;346
+e;114637;'aliment';1;1546
+e;116175;'oeuf';1;2554
+e;139470;'poudre';1;898
+e;64432;'chocolatier';1;132
+e;163110;'boisson chaude';1;220
+e;171767;'chocolat chaud';1;160
+e;152815;'chocolat blanc';1;194
+e;72043;'confiserie';1;834
+e;140315;'liquide';1;2338
+e;29772;'Pâques';1;396
+e;152814;'chocolat au lait';1;284
+e;113547;'boisson';1;3942
+e;142381;'barre';1;522
+e;123988;'gourmandise';1;742
+e;152309;'chocolat noir';1;358
+e;151503;'gateau';1;250
+e;141964;'glace';1;3276
+e;139481;'sucre';1;3874
+e;134158;'mousse';1;798
+e;67170;'rocher';1;768
+e;5834;'sucré';1;1518
+e;38557;'dessert';1;3152
+e;67819;'noisette';1;512
+e;120500;'bonbon';1;2054
+e;22120;'carré';1;750
+e;65956;'fève';1;240
+e;36836;'sucrerie';1;1166
+e;19150;'chaud';1;2304
+e;15196;'blanc';1;4426
+e;2149;'gâteau';1;3194
+e;86296;'lait';1;3452
+e;29118;'tablette';1;524
+e;64238;'noir';1;3847
+e;68363;'cacao';1;794
+e;236284;'mon amour';1;60
+e;246150;'mise en bouche';1;72
+e;140927;'Noir';1;54
+e;1532925;'parfum de glace';1;0
+e;214305;'Saint-Valentin';1;14
+e;12197192;'chocolat ac';1;0
+e;12137601;'mesure de chocolat activation des basophiles';1;0
+e;12137599;'mesure de chocolat ac igg4';1;0
+e;12137597;'détermination de la présence de chocolat ac igg classification rast';1;0
+e;12137594;'mesure de chocolat ac igg';1;0
+e;12137592;'détermination de la présence de chocolat ac ige classification rast';1;0
+e;12137589;'mesure de chocolat ac ige';1;0
+e;14159312;'biscuit aux pépites de chocolat';777;0
+e;14558033;'g&#257;teau au chocolat';1;0
+e;14594605;'brun chocolat';777;0
+e;14669811;'prendre un chocolat';1;74
+e;16606;'chromo';1;50
+e;33040;'malt';1;158
+e;16271886;'musée du sucre et du chocolat';777;0
+e;28530;'arachide';1;140
+e;5791657;'armoire à chocolat';777;0
+e;5785598;'chocolat Drouleurs';777;0
+e;14486343;'poisson en chocolat';1;40
+e;14532498;'faire fondre du chocolat';1;34
+e;14538996;'mousses au chocolat';1;0
+e;14558057;'fourré au chocolat';1;16
+e;14558058;'nappé de chocolat';1;12
+e;14558059;'truffes au chocolat';1;66
+e;14558060;'enrobage de chocolat';1;14
+e;14725369;'sentir le chocolat';1;4
+e;16163730;'fontaine de chocolat';1;50
+e;16163735;'florentin au chocolat';1;54
+e;16163736;'mille-feuilles au chocolat';1;44
+e;16163839;'tarte au chocolat noir meringuée';1;0
+e;16163840;'gâteau meringué au chocolat';1;0
+e;16165054;'pâtisserie au chocolat';1;4
+e;16165055;'gâteau fourré au chocolat';1;0
+e;254049;'coucougnette';1;50
+e;5787943;'tuiles au chocolat';777;0
+e;12093200;'chocolat activation des basophiles';1;0
+e;12093199;'chocolat ac igg4';1;0
+e;12093198;'chocolat ac igg classification rast';1;0
+e;12093197;'chocolat ac igg';1;0
+e;12093196;'chocolat ac ige classification rast';1;0
+e;12093195;'chocolat ac ige';1;0
+e;17569;'Noisiel';1;50
+e;230180;'Medoc';666;50
+e;257687;'Jeanne Calment';666;50
+e;188545;'Madame De Pompadour';1;50
+e;575;'tarte';1;1058
+e;3743925;'pain viennois aux pépites';1;0
+e;5798345;'chocolat Rayon';777;0
+e;5798327;'chocolat belge';777;0
+e;5798325;'chocolat avec des churros';777;0
+e;2368672;'Amer';666;0
+e;339244;'biscuit fourré';1;50
+e;55265;'Bayonne';1;130
+e;239799;'Meert';1;50
+e;5806110;'histoire du chocolat en Espagne';777;0
+e;5803149;'festival du chocolat';777;0
+e;12109669;'chocolat ag';1;0
+e;31618;'pâtissier';1;420
+e;15744303;'présenter [qch]';1;0
+e;15744304;'présenter quelque chose';1;0
+e;15421161;'crotte au chocolat';1;0
+e;15243330;'crème au chocolat noir';1;0
+e;15421160;'crème chocolat';1;0
+e;15328786;'crémeux au chocolat';1;0
+e;15269039;'cuiller à chocolat';1;0
+e;15323299;'du chocolat chaud avec de la crème fouettée dessus';1;0
+e;15421162;'dôme au chocolat';1;0
+e;138203;'s'opérer';1;50
+e;140820;'s'accomplir';1;60
+e;112261;'desserrer';1;76
+e;9053913;'se décoincer';1;0
+e;1534674;'Christstollen';666;0
+e;230041;'crepe';666;50
+e;7705;'chienne';1;316
+e;10904294;'Meilleur que le chocolat';777;0
+e;15340346;'chocolat de régime';1;0
+e;15340348;'chocolat de substitution';1;0
+e;15377580;'chocolat fourré';1;0
+e;15373174;'chocolat frappé';1;0
+e;15360999;'chocolat gaufré';1;0
+e;15419122;'chocolat noir de dégustation';1;0
+e;15254883;'chocolat riche en lait';1;0
+e;15285477;'chocolat à craquer';1;0
+e;15362227;'chocolat à l'eau de vie';1;0
+e;16163733;'crêpe au chocolat';1;58
+e;101561;'chou à la crème';1;52
+e;223928;'Ferrero Rocher';1;56
+e;305530;'banoffee pie';666;50
+e;5828577;'mi-cuit au chocolat';777;0
+e;5827972;'tartinade au chocolat';777;0
+e;15353202;'biscuit aux perles de chocolat';1;0
+e;15262905;'bouchée de chocolat';1;0
+e;15571895;'boule de glace au chocolat';1;0
+e;15571893;'boule de glace chocolat';1;0
+e;15254881;'carré de chocolat au lait';1;0
+e;15275121;'carré de chocolat blanc';1;0
+e;5621539;'fourchettes à chocolat';777;0
+e;5828979;'mendiant en chocolat';777;0
+e;5828450;'Arborescence du chocolat';777;0
+e;10578550;'salon du chocolat';777;0
+e;10902449;'médaille en chocolat';1;0
+e;11054163;'industriel du chocolat';1;0
+e;11348747;'La Femme chocolat';1;0
+e;16163728;'brownie au chocolat';1;42
+e;16163732;'bûche glacée au chocolat';1;60
+e;5828543;'bonbon en chocolat';1;0
+e;5828066;'biscuit enrobé de chocolat';1;0
+e;5912182;'lait à base de poudre de chocolat';1;0
+e;5911963;'sauce chocolat';1;0
+e;10007031;'excès de chocolat';1;0
+e;11827917;'céréales au chocolat';1;0
+e;15330073;'Les fruits constituent une solution alternative saine au chocolat.';1;0
+e;15286222;'accro au chocolat';1;0
+e;15286218;'accro de chocolat';1;0
+e;15286220;'accro du chocolat';1;0
+e;224129;'popcorn';666;50
+e;16392758;'Swiss roll au chocolat';777;0
+e;1837420;'kyste chocolat';1;0
+e;5798337;'chocolat des forces armées des États-Unis';777;0
+e;5918420;'Musée du chocolat de Barcelone';777;0
+e;5918391;'Musée du chocolat de Cologne';777;0
+e;5912931;'mélange pour chocolat chaud';1;0
+e;5911979;'crème dessert au chocolat';1;0
+e;5911969;'mousse au chocolat traditionnelle';1;0
+e;10961846;'manger du chocolat';1;0
+e;141996;'répartir';1;122
+e;158808;'l'amour';1;52
+e;41069;'se charger';1;62
+e;151563;'jolie fille';1;122
+e;376155;'repos nocturne';1;50
+e;245682;'gros bisous';1;50
+e;91804;'se fournir';1;52
+e;251776;'prendre à son compte';1;50
+e;15413602;'donner à manger à [qqn]';1;0
+e;15485531;'donner à manger à';1;0
+e;15485532;'donner à manger à quelqu'un';1;0
+e;15661957;'porter quelque chose';1;0
+e;15417949;'porter [qch]';1;0
+e;14160540;'tourner une page';1;0
+e;15444867;'lancer [qch] à toute volée';1;0
+e;15715111;'lancer quelque chose à toute volée';1;0
+e;15444533;'caca d'oeil';1;0
+e;15524826;'s'équiper de qch';1;0
+e;200408;'faire dodo';1;110
+e;154925;'faire manger';1;64
+e;91625;'se transporter';1;56
+e;15210827;'Le chocolat fait grossir.';1;0
+e;15690292;'poser quelque chose sur';1;0
+e;15233989;'poser qch sur';1;0
+e;3346470;'E636';1;0
+e;212831;'donut';666;52
+e;15760421;'hériter de quelque chose';1;0
+e;15490820;'un bout de chou';1;0
+e;370035;'petit bout de chou';1;50
+e;15378712;'un petit bout de chou';1;0
+e;15746722;'soigner quelque chose';1;0
+e;15425616;'soigner [qch]';1;0
+e;15504448;'assurer le suivi de quelque chose';1;0
+e;15454627;'assurer le suivi de [qch]';1;0
+e;260638;'ma biche';1;50
+e;184508;'tête blonde';1;50
+e;15238291;'gamin, gamine';1;0
+e;11027017;'tête au chocolat';777;0
+e;11027010;'Le Petit Pain au chocolat';777;0
+e;3346111;'E1503';1;0
+e;3320890;'E155';1;0
+e;10044975;'Effet chocolat';777;0
+e;11091361;'les fondus de chocolat';777;0
+e;12051016;'opératrice de moulage du chocolat';1;0
+e;12051015;'opérateur de moulage du chocolat';1;0
+e;14537186;'chocolat de dégustations';1;0
+e;116999;'fudge';1;56
+e;47462;'moussoir';1;50
+e;16163760;'verrines banane, chocolat et caramel au beurre salé';1;0
+e;86779;'conche';1;50
+e;119331;'chocolatière';1;70
+e;87402;'congolais';1;72
+e;110266;'givrer';1;102
+e;82020;'divorcé';1;126
+e;5540549;'merveille au chocolat';777;0
+e;10351788;'Sang et chocolat';777;0
+e;15438494;'porter [qch] en soi';1;0
+e;15693395;'porter quelque chose en soi';1;0
+e;15542782;'faire venir quelqu'un';1;0
+e;105055;'faire venir';1;52
+e;15454554;'faire venir [qqn]';1;0
+e;158578;'fruits de mer';1;92
+e;10188256;'Cigarettes et chocolat chaud';777;0
+e;15953246;'chocolat Milka';1;0
+e;3747487;'chocolat-fraise';1;0
+e;3747382;'chocolat-tofu';1;0
+e;3747376;'chocolat-banane';1;0
+e;3176085;'poire belle Hélène';777;0
+e;313233;'poire belle-hélène';1;52
+e;273798;'Poire belle Hélène';777;50
+e;266812;'aimer d'amour';1;50
+e;1781378;'faire circuler';1;2
+e;15434716;'mettre [qch] en marche';1;0
+e;15624629;'mettre quelque chose en marche';1;0
+e;12260;'se déployer';1;50
+e;15625987;'déploye';1;0
+e;138352;'faire tache d'huile';1;56
+e;13823;'plaire à';1;50
+e;14580306;'plaire à quelqu'un';1;0
+e;143583;'aller jusqu'à';1;50
+e;15436136;'mettre [qch] en action';1;0
+e;15629253;'mettre quelque chose en action';1;0
+e;15370048;'aller chercher qch';1;0
+e;15232908;'plaire à qn';1;0
+e;15451620;'prendre en charge [qch]';1;0
+e;15793553;'prendre quelque chose en charge';1;0
+e;15793554;'prendre en charge quelque chose';1;0
+e;15451619;'prendre [qch] en charge';1;0
+e;249373;'liaison sans lendemain';1;50
+e;95550;'gamine';1;166
+e;105060;'se dérider';1;50
+e;15585014;'se charger de quelque chose';1;0
+e;15451581;'se charger de [qch]';1;0
+e;15449409;'ma mie';1;0
+e;15475159;'ma douce';1;0
+e;66842;'verrine';1;108
+e;3318725;'religieuse au Chocolat';1;0
+e;223595;'crème Chantilly';1;8
+e;222718;'Biscuiterie Nantaise';1;96
+e;14563751;'goût chocolat';1;0
+e;14717701;'odeur de chocolat';1;2
+e;16160724;'préparation au chocolat';1;16
+e;16163822;'mousse de chocolat blanc à la meringue';1;0
+e;16163827;'fondant au chocolat croûte meringuée';1;0
+e;154455;'buche';1;52
+e;42988;'exquis';1;154
+e;10881;'bouton';1;986
+e;199954;'être de mise';1;50
+e;134930;'berlingot';1;96
+e;116466;'café au lait';1;206
+e;141075;'spatule';1;140
+e;214927;'petit écolier';1;16
+e;130532;'orangette';1;56
+e;92178;'profiterole';1;50
+e;145405;'bol';1;706
+e;587837;'pain suisse';777;0
+e;3170695;'Petit écolier';777;0
+e;2449;'opéra';1;1376
+e;38234;'croissant';1;860
+e;158071;'chocolats';1;70
+e;55101;'florentin';1;68
+e;3422247;'York Chocolat';777;0
+e;158804;'coupe de glace';1;80
+e;11002848;'Lévrier Whippet';777;0
+e;122271;'se restaurer';1;104
+e;112986;'se payer';1;56
+e;15370044;'aller chercher quelque chose';1;0
+e;15432987;'aller chercher [qch]';1;0
+e;137288;'s'alimenter';1;132
+e;15223803;'porte toi bien';1;0
+e;15280684;'gâteau d'anniv';1;0
+e;14201666;'mon petit';1;0
+e;15461809;'donner la becquée à';1;0
+e;15461811;'donner... la becquée';1;0
+e;198826;'donner la becquée';1;50
+e;15226157;'à l'arôme de chocolat';1;0
+e;15209855;'belle pépée';1;0
+e;5165132;'belle nana';1;0
+e;15687799;'mettre en scène quelque chose';1;0
+e;15687798;'mettre quelque chose en scène';1;0
+e;15431484;'mettre en scène [qch]';1;0
+e;15431483;'mettre [qch] en scène';1;0
+e;15447902;'mettre sous tension';1;0
+e;54938;'pyrosis';1;50
+e;53310;'jus';1;616
+e;229246;'Menier';1;50
+e;234684;'nootropique';1;50
+e;5145775;'Cémoi';1;52
+e;215337;'gloubi-boulga';1;50
+e;184143;'rose des sables';1;8
+e;43812;'cappuccino';1;78
+e;232937;'Balisto';1;2
+e;141817;'Mars';1;916
+e;15226156;'au goût de chocolat';1;0
+e;231675;'M&M's';666;52
+e;5502033;'oeufs en chocolat';1;64
+e;15226155;'aromatisé au chocolat';1;0
+e;3314;'bombe';1;1228
+e;183420;'uf de Pâques';1;50
+e;15200894;'nappage de chocolat';1;0
+e;15550128;'vivre pour quelque chose';1;0
+e;15423859;'vivre pour [qch]';1;0
+e;15444459;'mettre [qch]';1;0
+e;15513291;'mettre quelque chose';1;0
+e;15450781;'je t'embrasse';1;0
+e;2581184;'bout d'chou';1;0
+e;15549324;'faire de quelque chose';1;0
+e;15430096;'faire de [qch]';1;0
+e;90891;'se faire';1;154
+e;15444859;'lancer [qch]';1;0
+e;15662926;'lancer quelque chose';1;0
+e;159756;'avec amour';1;88
+e;15697391;'être équipé de quelque chose';1;0
+e;15437658;'être équipé de [qch]';1;0
+e;3259920;'avoir quelqu'un';1;0
+e;15422749;'avoir [qqn]';1;0
+e;15700555;'s'équiper de quelque chose';1;0
+e;15253373;'être perdant';1;0
+e;15513302;'se mettre quelque chose';1;0
+e;15444464;'se mettre [qch]';1;0
+e;250195;'foie fragile';1;50
+e;1880984;'chocolater';1;0
+e;66163;'Ferrero';1;54
+e;3172052;'Mon Chéri';777;0
+e;165458;'ma poule';1;50
+e;197117;'bout de chou';1;50
+e;5827846;'marque de chocolat';1;2
+e;5514426;'poule en chocolat';1;94
+e;9464979;'sauce chocolat blanc';1;0
+e;9464974;'sauce caramel chocolat';1;0
+e;9464417;'anglaise au chocolat';1;0
+e;9465673;'muesli croustillant au chocolat';1;0
+e;9465370;'crème anglaise au chocolat';1;0
+e;9491603;'céréale fourrée au chocolat noisette';1;0
+e;9491601;'céréale fourrée au chocolat';1;0
+e;9667219;'chocolat au lait et aux noisettes';1;8
+e;15380743;'Elle adore le chocolat.';1;0
+e;15380757;'J'adore le chocolat.';1;0
+e;15379205;'Il a un fort penchant pour les biscuits au chocolat.';1;0
+e;219379;'hâlée';1;78
+e;15206823;'mille tendresses';1;0
+e;259489;'ma chérie';1;8
+e;35072;'Weiss';1;50
+e;213118;'brownie';1;26
+e;437050;'forêt-noire';1;50
+e;58741;'marmotte';1;136
+e;238400;'Charlie et la Chocolaterie';666;10
+e;313235;'poire Belle-Hélène';1;52
+e;159594;'cacao non sucré';1;52
+e;65767;'moelleux';1;354
+e;395893;'cornet de crème glacée';1;50
+e;437341;'pépites de chocolat';1;94
+e;436962;'douceur de Noël';1;50
+e;255286;'être à l'eau et au pain sec';1;50
+e;183644;'petit-déj'';1;50
+e;119691;'petit déj';1;52
+e;214976;'p'tit dej';1;50
+e;104275;'daim';1;64
+e;3181030;'pâte de chocolat';1;0
+e;459765;'préparer le déjeuner';1;50
+e;162821;'gateaux';1;50
+e;3318745;'bavarois poires chocolat';1;0
+e;3319878;'chocolat de ménage en poudre maigre';1;0
+e;3359214;'barres bananes chocolat';1;0
+e;3359231;'bavarois noix de coco et chocolat';1;0
+e;3359472;'bouchées au chocolat épicé et à la fleur d'oranger';1;0
+e;3372047;'verrines de fruits au chocolat blanc';1;0
+e;3372028;'verrines au chocolat et poires aux épices';1;0
+e;3371979;'verrine banane chocolat';1;0
+e;3371059;'tarte tatin poires - chocolat';1;0
+e;3370727;'tarte chocolat pralinée';1;0
+e;3370710;'tarte caramel et chocolat';1;0
+e;3370535;'tarte aux framboises et ganache au chocolat blanc';1;0
+e;3370332;'tarte au chocolat de la mère blanc';1;0
+e;3369986;'super gâteau au chocolat d'alexandre';1;0
+e;3369984;'super bon crumble à la fraise et au chocolat';1;0
+e;3369262;'saucisson des ardennes au chocolat';1;0
+e;3367822;'quatre-quarts aux pépites de chocolat et à la cannelle';1;0
+e;3367772;'pudding pain chocolat';1;0
+e;3367757;'pudding aux pépites de chocolat';1;0
+e;3366832;'petits palets au chocolat, au miel et au kiwi';1;0
+e;3366601;'pavé au chocolat crémeux';1;0
+e;3365639;'gâteau au chocolat : le maréchal';1;0
+e;3365629;'gâteau à la cannelle et à l'orange, glaçage chocolat';1;0
+e;3365615;'galette des rois poires, amandes, chocolat';1;0
+e;3365596;'fondant au chocolat, sans gluten';1;0
+e;3365510;'divin gâteau au chocolat, micro-ondes';1;0
+e;3365296;'cake crème fraîche, chocolat, amandes';1;0
+e;3365196;'bavarois praliné pistache, coeur de mousse au chocolat';1;0
+e;3364716;'mousse chocolat noir-banane en verrines';1;0
+e;3364682;'mousse au chocolat légère de mémère';1;0
+e;3364674;'mousse au chocolat en poudre';1;0
+e;3364667;'mousse au chocolat blanc et tuiles carambar';1;0
+e;3364560;'moelleux au chocolat amer';1;0
+e;3364529;'mini-charlotte au chocolat';1;0
+e;3364366;'marquise au chocolat nappée de crème anglaise';1;0
+e;3364280;'madeleines raisin et chocolat';1;0
+e;3364103;'le gâteau au chocolat de gaelle';1;0
+e;3363258;'glaçage rapide au chocolat';1;0
+e;3363167;'gâteau tôt fait aux brisures de chocolat';1;0
+e;3363142;'gâteau pralin noisette chocolat';1;0
+e;3363137;'gâteau poires et mousse chocolat éton' «nantes »';1;0
+e;3362946;'gâteau chocolat noix de coco';1;0
+e;3362939;'gâteau chocolat coeur coulant';1;0
+e;3362895;'gâteau au yaourt au chocolat et à la compote de pomme';1;0
+e;3362770;'gâteau au chocolat de pampelune';1;0
+e;3362761;'gâteau au chocolat à la crème fraîche';1;0
+e;3359648;'brioches perdue aux pépites de chocolat';1;0
+e;3359662;'brochettes d'abricots farcis amandes chocolat';1;0
+e;3373577;'praliné-chocolat';1;0
+e;3373546;'chocolat-noisette';1;0
+e;3372821;'chocolat-amande';1;0
+e;3372244;'chocolat-café';1;10
+e;3359760;'bûche aux marrons et chocolat';1;0
+e;3359867;'cake au chocolat et à la pâte d'amande';1;0
+e;3359968;'cake chocolat banane';1;0
+e;3359947;'cake aux pépites de chocolat et à la noix de coco';1;0
+e;3360308;'charlotte au chocolat très simple !';1;0
+e;3360294;'charlotte à la mousse au chocolat et à l'orange';1;0
+e;3360618;'coeurs au chocolat';1;0
+e;3360724;'cookies au chocolat';1;0
+e;3360720;'cookies à la noix de coco et aux pépites de chocolat';1;0
+e;3360870;'coupe biscuitée mousse au chocolat et orange';1;0
+e;3360885;'coupe tiramisu et mousse au chocolat';1;0
+e;3361703;'dôme croquant de chocolat blanc à la mousse de fruits rouges et coeur de fraise';1;0
+e;3361431;'crumble express aux framboises et au chocolat';1;0
+e;3361820;'entremets chocolat guimauve';1;0
+e;3743658;'gâteau yaourt chocolat';1;0
+e;3743919;'chocolat chaud pour les longues soirées d'hiver';1;0
+e;3744245;'sauce au chocolat salée';1;0
+e;3744557;'fraises fantôme au chocolat blanc';1;0
+e;3744537;'donuts nappés de chocolat';1;0
+e;3744866;'riz au lait au chocolat';1;0
+e;3744976;'verrines légères poire et chocolat blanc';1;0
+e;3745058;'crème au chocolat 100% crue';1;0
+e;3745095;'mug cake façon coulant au chocolat';1;0
+e;3745293;'cupcakes diaboliquement chocolat';1;0
+e;3746764;'cur au chocolat';1;0
+e;3746598;'sauce au chocolat';1;0
+e;3746250;'mi-cuits au chocolat coeur de framboise';1;0
+e;3745954;'poulet sauce chocolat';1;0
+e;3745952;'gâteau yaourt au chocolat';1;0
+e;3745850;'pains viennois aux pépites de chocolat';1;0
+e;3745756;'gâteau chocolat et betteraves';1;0
+e;3745627;'salade d'agrumes au chocolat';1;0
+e;3751002;'chocolat en poudre amer';1;0
+e;3757858;'plaquette de chocolat blanc';1;0
+e;3757738;'chocolat pâtissier coupé en morceaux dans un saladier';1;0
+e;3756929;'chocolat blanc émietté';1;0
+e;3756892;'chocolat noir à dessert';1;0
+e;3756683;'nappage au chocolat';1;2
+e;3756131;'chocolat noir fondu';1;0
+e;3755749;'chocolat pâtissier à dessert coupé en morceaux';1;0
+e;3755639;'miettes de biscuits au chocolat';1;0
+e;3755521;'carrés de chocolat pétillant Monbana';1;0
+e;3755492;'barre de chocolat pâtissier';1;0
+e;3755091;'chocolat noir supérieure';1;0
+e;3754199;'chocolat blanc coupé en morceaux';1;0
+e;3753177;'litre de glace au chocolat';1;0
+e;3752918;'cacao en poudre ou des copeaux de chocolat noir ou au lait';1;0
+e;3752036;'chocolat fondu avec une noisette de beurre';1;0
+e;3751938;'chocolat pâtissier coupé en morceaux';1;0
+e;3751715;'pépites de chocolat noir';1;0
+e;45545;'bûche';1;250
+e;263309;'boire un café';1;16
+e;3706228;'monter la surprise du Kinder';1;0
+e;3313129;'maltol';1;52
+e;2355240;'cuisson de la viande';1;0
+e;3019560;'barre chocolatée non biscuitée enrobée';1;0
+e;3019575;'barquettes aux fruits';1;0
+e;3019580;'barre chocolatée aux fruits secs';1;0
+e;9803932;'nappage pour gâteaux';1;0
+e;14376144;'être gourmand';1;0
+e;155079;'gâteau à la crème';1;82
+e;3373024;'babka';1;0
+e;357215;'gâteau mollet';1;50
+e;14159511;'oiseau des villes';1;4
+e;14670895;'tartelette au citron';1;6
+e;14716569;'pâtissier-glacier';1;0
+e;14716567;'pâtissier-entremetier';1;0
+e;14730917;'succès aux noisettes';1;0
+e;14727853;'maître chocolatier';1;0
+e;10194521;'manger des cacahuètes';1;0
+e;16163754;'verrines poires rôties aux épices, noix de pécan et crème légère vanille et skyr';1;0
+e;16163753;'verrine d'été tricolore';1;0
+e;16163828;'bombe glacée meringuée';1;0
+e;16163837;'verrines façon tarte au citron meringuée';1;0
+e;16163842;'gâteau glacé à la meringue';1;0
+e;16163841;'bûche au citron meringuée';1;0
+e;16163836;'fraisier meringué';1;0
+e;16163843;'tarte meringuée aux pommes et aux poires';1;0
+e;16163848;'tarte meringuée aux groseilles';1;0
+e;16163838;'abricots meringués';1;0
+e;16163847;'dessert glacé au café meringué';1;0
+e;16163849;'tiramisu meringué aux framboises';1;0
+e;16163850;'tarte au citron meringuée au lait concentré sucré';1;0
+e;9244920;'barres chocolatées';1;0
+e;141883;'boule';1;660
+e;155141;'poudre de cacao';1;68
+e;3318491;'mousse chocolat et crème citron sur lit de pain d'épices';1;0
+e;3318412;'bananes au chocolat faciles au four à micro-ondes';1;0
+e;3319880;'chocolat de ménage en poudre';1;0
+e;3359347;'blancs de dinde au chocolat';1;0
+e;3371737;'trianon chocolat blanc-speculoos';1;0
+e;3371438;'tiramisu aux spéculoos et chocolat';1;0
+e;3371219;'terrine de chocolat, dite "monseigneur"';1;0
+e;3370905;'tarte mangue et chocolat';1;0
+e;3370630;'tarte aux pommes amandes miel et chocolat';1;0
+e;3370608;'tarte aux poires chocolat et mascarpone';1;0
+e;3370342;'tarte au chocolat et sa mousse de coco';1;0
+e;3370341;'tarte au chocolat et marmelade';1;0
+e;3370333;'tarte au chocolat de lilie';1;0
+e;3370329;'tarte au chocolat blanc';1;0
+e;3369987;'super moelleux au chocolat pour gourmands et intolérants au gluten';1;0
+e;3369644;'soupe chocolat poire';1;0
+e;3369549;'soufflés au chocolat et à la crème de marrons';1;0
+e;3366153;'pancake poire gingembre et chocolat';1;0
+e;3365933;'muffins banane, abricot et chocolat';1;0
+e;3365927;'mousseux au chocolat, sans beurre';1;0
+e;3365922;'mousse au chocolat à la lavande';1;0
+e;3365681;'gâteau facile très chocolat... mais pas trop !';1;0
+e;3365251;'bread and butter pudding, à la pâte à tartiner au chocolat';1;0
+e;3364903;'nems au chocolat';1;0
+e;3364855;'muffins pépites de chocolat - noisettes';1;0
+e;3364833;'muffins chocolat et écorces d'orange';1;0
+e;3364807;'muffins au chocolat et à la châtaigne';1;0
+e;3364715;'mousse chocolat - glace coco';1;0
+e;3364687;'mousse au chocolat onctueuse';1;0
+e;3364680;'mousse au chocolat facile et légère';1;0
+e;3364677;'mousse au chocolat et raisins secs';1;0
+e;3364662;'mousse au chocolat à l'orange et écorces confites';1;0
+e;3364563;'moelleux au chocolat et amandes grillées';1;0
+e;3364279;'madeleines noisettes chocolat';1;0
+e;3364249;'macarons au chocolat et caramel';1;0
+e;3364123;'moelleux chocolat';1;4
+e;3363355;'grand tralala au chocolat';1;0
+e;3363299;'glace aux spéculoos et au chocolat blanc';1;0
+e;3363069;'gâteau glacé au chocolat';1;0
+e;3363049;'gâteau facile chocolat et coco';1;0
+e;3363011;'gâteau de riz au chocolat';1;0
+e;3363010;'gâteau de riz à l'orange et au chocolat';1;0
+e;3362992;'gâteau de marrons nappé de chocolat noir';1;0
+e;3362969;'gâteau de cookies au chocolat';1;0
+e;3362951;'gâteau côte d'ivoire au chocolat et noix de coco';1;0
+e;3362937;'gâteau chocolat blanc + noir';1;0
+e;3362896;'gateau au yaourt au chocolat et à la noix de coco';1;0
+e;3362857;'gâteau aux noisettes et au chocolat';1;0
+e;3362784;'gâteau au chocolat sans oeuf';1;0
+e;3362782;'gâteau au chocolat nappé de confiture d'abricots';1;0
+e;3362773;'gâteau au chocolat et à la mousse de menthe';1;0
+e;3362451;'fondant au chocolat sans cuisson';1;0
+e;3362450;'fondant au chocolat pour les nuls';1;0
+e;3362449;'fondant au chocolat poires/amandes';1;0
+e;3362445;'fondant au chocolat et aux petits suisses';1;0
+e;3361111;'crèmes au chocolat saveur vanille-cannelle';1;0
+e;3373338;'poire-chocolat-noix';1;0
+e;3359962;'cake banane lait de coco chocolat';1;0
+e;3360304;'charlotte au chocolat à tartiner';1;0
+e;3360732;'cookies chocolat potiron';1;0
+e;3360725;'cookies au chocolat au lait';1;0
+e;3361075;'crème de yaourt au chocolat et banane';1;0
+e;3361377;'crumble au chocolat';1;0
+e;3361648;'délicieux au chocolat et café';1;0
+e;3743696;'mousse au chocolat à l'orange et au café';1;0
+e;3743845;'loukoums au chocolat';1;0
+e;3743851;'gâteau yaourt au potiron et aux pépites de chocolat';1;0
+e;3744063;'gâteau banane et chocolat';1;0
+e;3744647;'muffins chocolat blanc cerises';1;0
+e;3744747;'yaourt glacé au chocolat';1;0
+e;3744541;'mug cake au chocolat au micro-ondes';1;0
+e;3745127;'sauce épaisse au chocolat';1;0
+e;3745277;'boudin aux pommes et au chocolat';1;0
+e;3745302;'muffins au chocolat';1;0
+e;3745328;'torte au yaourt et au chocolat';1;0
+e;3745415;'tarte frangipane poires et chocolat';1;0
+e;3746772;'gâteau au chocolat sans ufs';1;0
+e;3746688;'poires pochées au chocolat';1;0
+e;3746608;'caramel croquant au chocolat';1;0
+e;3746568;'sucettes au chocolat noir';1;0
+e;3746502;'crème chocolat caramel';1;0
+e;3746229;'crème au chocolat et gingembre';1;0
+e;3746073;'tartelettes chocolat aux framboises';1;0
+e;3745978;'cake à la banane et aux pépites de chocolat noir';1;0
+e;3745626;'coupelles en chocolat au coulis de framboises';1;0
+e;3745501;'cuillères de foie gras frais aux copeaux de chocolat';1;0
+e;3744393;'chocolat chaud au blender';1;0
+e;3751455;'chocolat noir en carrés';1;0
+e;3751483;'chocolat pâtissier en morceaux';1;0
+e;3759262;'pistoles en chocolat';1;0
+e;3758569;'chocolat pâtissier à dessert';1;0
+e;3758532;'chocolat pâtissier fondu';1;0
+e;3758264;'chocolat au lait cassé en petits morceaux';1;0
+e;3758137;'chocolat noir à pâtisser haché grossièrement';1;0
+e;3757687;'chocolat à grossièrement haché';1;0
+e;3757408;'chocolat Nestlé dessert';1;0
+e;3757167;'chocolat pâtissier blanc';1;0
+e;3756940;'chocolat blanc fondu';1;0
+e;3756631;'chocolat pâtissier coupé en très petits morceaux';1;0
+e;3756314;'chocolat noir amer';1;0
+e;3756293;'chocolat blanc vegan';1;0
+e;3756104;'chocolat à pâtisser noir';1;0
+e;3755354;'chocolat noir de bonne qualité';1;0
+e;3754589;'chocolat noir 70%';1;0
+e;3754298;'chocolat amer en poudre';1;0
+e;3753049;'chocolat à de cacao minimum';1;0
+e;3752303;'bonbons au chocolat enrobés de caramel';1;0
+e;3751994;'colorant rose et du chocolat en poudre';1;0
+e;3758281;'chocolat de couverture noire ou au lait selon son goût';1;0
+e;146033;'poire';1;966
+e;153975;'patissier';1;64
+e;249068;'Valrhona';1;50
+e;436744;'amateur de chocolat';1;50
+e;2345254;'couverture de chocolat';1;0
+e;3318551;'shortbread chocolat caramel au beurre salé';1;0
+e;3318547;'cookies au beurre de cacahuètes et pépites de chocolat';1;0
+e;3319877;'chocolat de ménage en poudre fortement dégraissé';1;0
+e;3359124;'aumonière de poires au chocolat chaud et à la chantilly';1;0
+e;3372089;'viennois au chocolat à la crème au beurre';1;0
+e;3372029;'verrines au chocolat infusé à la menthe et à la mangue';1;0
+e;3371748;'trifle poire chocolat aux macarons';1;0
+e;3370953;'tarte poires chocolat et noisettes';1;0
+e;3370924;'tarte mousse au chocolat ananas';1;0
+e;3370911;'tarte meringuée à la mousse chocolat';1;0
+e;3370901;'tarte litchi chocolat';1;0
+e;3370859;'tarte kiwi chocolat';1;0
+e;3370721;'tarte chocolat banane';1;0
+e;3370344;'tarte au chocolat meringuée';1;0
+e;3370340;'tarte au chocolat et confiture d'abricot';1;0
+e;3370339;'tarte au chocolat et caramel, au beurre salé';1;0
+e;3370328;'tarte au chocolat à la parisienne';1;0
+e;3370301;'tarte amandine aux poires, nappée de chocolat';1;0
+e;3370201;'tarte à la banane et pépites de chocolat';1;0
+e;3369517;'soufflé au chocolat façon mama';1;0
+e;3368293;'riz au lait au chocolat crémeux';1;0
+e;3368157;'religieuse au chocolat';1;0
+e;3367750;'pudding au chocolat à ma façon';1;0
+e;3366821;'petits moelleux au chocolat allégés';1;0
+e;3366809;'petits gâteaux -mousse au chocolat';1;0
+e;3366808;'petits gâteaux légers nappés de chocolat';1;0
+e;3366625;'pavé glacé aux noix et chocolat';1;0
+e;3366602;'pavé au chocolat noir';1;0
+e;3366451;'pâtes au chocolat';1;0
+e;3366266;'parfait glacé au chocolat';1;0
+e;3365939;'muxus au chocolat, macarons basques';1;0
+e;3365931;'muffins au thé matcha, myrtilles, framboises ou chocolat';1;0
+e;3365923;'mousse au chocolat à prise rapide, 2 h';1;0
+e;3365755;'henry le hérisson, gâteau au chocolat de mon enfance';1;0
+e;3365668;'gâteau chocolat ultra rapide, micro-ondes';1;0
+e;3365641;'gâteau au chocolat, sans beurre ni crème ni lait';1;0
+e;3365614;'galette des rois au chocolat , sans fruits à coques';1;0
+e;3365443;'crème des lutins, au chocolat';1;0
+e;3365343;'chaucisson du sud, roulé chocolat avec petits beurres';1;0
+e;3364850;'muffins marbrés chocolat blanc/chocolat';1;0
+e;3364834;'muffins chocolat fondant nutella';1;0
+e;3364811;'muffins au goût de truffes en chocolat';1;0
+e;3364805;'muffins au chocolat coeur fondant et pépites de chocolat blanc';1;0
+e;3364803;'muffins au chocolat blanc';1;0
+e;3364728;'mousse de coings sur miroir au chocolat';1;0
+e;3364712;'mousse chocolat au snickers';1;0
+e;3364676;'mousse au chocolat et chantilly au grand marnier';1;0
+e;3364672;'mousse au chocolat de ma maman';1;0
+e;3364671;'mousse au chocolat de ma grand-mère';1;0
+e;3364669;'mousse au chocolat blanc sur lit de fraises';1;0
+e;3364347;'marbré au yaourt chocolat noisette';1;0
+e;3364270;'madeleines aux pignons glaçage chocolat';1;0
+e;3364162;'les muffins au chocolat façon grigrou';1;0
+e;3364080;'la vraie mousse au chocolat blanc';1;0
+e;3363689;'gros chausson de fruits au chocolat';1;0
+e;3363224;'génoise à la crème pâtissière et glaçage au chocolat';1;0
+e;3363219;'gelée au chocolat';1;0
+e;3363094;'gâteau marbré glaçage chocolat';1;0
+e;3363053;'gâteau fondant au chocolat sans oeufs';1;0
+e;3362791;'gâteau au chocolat truffé aux cerises';1;0
+e;3362788;'gâteau au chocolat suprême';1;0
+e;3362776;'gâteau au chocolat et au vin rouge d'hélène la téméraire';1;0
+e;3362774;'gâteau au chocolat et amandes';1;0
+e;3362768;'gâteau au chocolat de marion';1;0
+e;3362762;'gâteau au chocolat à l'arôme d'orange';1;0
+e;3362602;'galette au chocolat';1;0
+e;3362477;'fondants au chocolat sauce caramel au beurre salé';1;0
+e;3362460;'fondant chocolat au lait concentré sucré';1;0
+e;3362441;'fondant au chocolat blanc';1;0
+e;3359632;'brioche aux pépites de chocolat';1;0
+e;3373545;'banane-kiwi-chocolat';1;0
+e;3359868;'cake au chocolat et aux amandes';1;0
+e;3361270;'croque moelleux au chocolat';1;0
+e;3361378;'crumble aux clémentines confites et au chocolat';1;0
+e;3743645;'cupcakes au chocolat fourrés à la crème';1;0
+e;3743838;'magrets de canards poêlés aux orangettes et pépites de chocolat';1;0
+e;3743913;'flan pâtissier chocolat - framboises';1;0
+e;3744499;'moelleux au chocolat et sa ganache';1;0
+e;3744491;'mousse au chocolat végétalienne';1;0
+e;3744707;'petits gâteaux tortues au chocolat';1;0
+e;3744634;'tarte au chocolat sur pâte aux noix sans farine';1;0
+e;3744789;'petits pains briochés au chocolat';1;0
+e;3745154;'tarte au chocolat végétalienne et sans gluten';1;0
+e;3745284;'gâteau chocolat fraise et menthe du jardin';1;0
+e;3745339;'souris au chocolat';1;0
+e;3745424;'mugcake au chocolat et aux amandes';1;0
+e;3746580;'macarons tout chocolat';1;0
+e;3746572;'mousse au chocolat maison';1;0
+e;3746510;'brochettes de fruits à la fondue de chocolat';1;0
+e;3746498;'caramel au chocolat';1;0
+e;3746239;'cupcakes aux myrtilles et au chocolat blanc';1;0
+e;3746173;'tarte poires chocolat';1;0
+e;3745937;'mug cake au chocolat et caramel au beurre salé';1;0
+e;3745887;'quesadilla au chocolat';1;0
+e;3745398;'chocolat chaud vanille cannelle';1;0
+e;3758746;'chocolat noir ou au lait ou du sucre glace';1;0
+e;3758423;'vermicelles en chocolat et noisettes en poudre';1;0
+e;3758422;'petite poule en chocolat';1;0
+e;3758235;'chocolat coupé en morceaux';1;0
+e;3758089;'chocolat noir à de cacao minimum';1;0
+e;3757099;'pépites de chocolat ou de chocolat cassé en petits morceaux';1;0
+e;3756105;'chocolat de couverture noire à 70%';1;0
+e;3755853;'coulis de chocolat';1;0
+e;3755315;'plaque de chocolat blanc';1;0
+e;3755242;'chocolat à 70%';1;0
+e;3753872;'plaque de chocolat noir supérieure';1;0
+e;3753031;'chocolat noir supérieur coupé en morceaux';1;0
+e;3756246;'pâte à tartiner au chocolat';1;0
+e;146357;'envie';1;1618
+e;144496;'tabletté';1;50
+e;115155;'foie';1;910
+e;139410;'corsé';1;56
+e;440636;'carreau de chocolat';1;100
+e;440637;'pain et chocolat';1;88
+e;1973385;'marbré au chocolat';1;0
+e;3318481;'dauphin au chocolat';1;0
+e;3318712;'charlotte mascarpone, poire et son coulis de chocolat';1;0
+e;3318766;'moelleux à la farine de châtaigne coeur coulant chocolat';1;0
+e;3321752;'fraises-chocolat';1;0
+e;3359215;'barres chocolat beurre de cacahuètes';1;0
+e;3359229;'bavarois chocolat orange';1;0
+e;3371801;'tulipes gourmandes pommes chocolat';1;0
+e;3371429;'tiramisu aux fruits nappé de chocolat';1;0
+e;3370839;'tarte fraise chocolat coco';1;0
+e;3370762;'tarte croustillante praliné et chocolat';1;0
+e;3370726;'tarte chocolat orange';1;0
+e;3370724;'tarte chocolat - cookies';1;0
+e;3370371;'tarte au fromage blanc chocolat citron';1;0
+e;3370304;'tarte amandine poire chocolat façon popo';1;0
+e;3369982;'sultane, mousse au chocolat';1;0
+e;3369980;'succès aux noix, glaçage au chocolat';1;0
+e;3369436;'semoule au chocolat à la map';1;0
+e;3369414;'scones au chocolat';1;0
+e;3369261;'saucisson au chocolat';1;0
+e;3369238;'sauce au chocolat au combava et galanga, pour fondue';1;0
+e;3368619;'sachertorte à la framboise et au chocolat';1;0
+e;3368100;'ramequins de crème au chocolat';1;0
+e;3367765;'pudding de biscottes au chocolat';1;0
+e;3367066;'poires au chocolat façon crumble';1;0
+e;3366844;'petits ramequins chocolat - pistache';1;0
+e;3366790;'petits fondants au chocolat coeur praliné';1;0
+e;3366268;'parfait miel - chocolat';1;0
+e;3365914;'moricaud : fondant au chocolat et aux amandes';1;0
+e;3365849;'macarons à l'ananas, chocolat blanc et hypocras';1;0
+e;3365648;'gâteau au vin rouge, chocolat et cannelle allemand, rotweinkuchen';1;0
+e;3365551;'feuilleté aux poires, cannelle et chocolat chaud';1;0
+e;3365517;'éclairs au chocolat, rapide';1;0
+e;3365472;'croustichoc, croustillant au chocolat';1;0
+e;3365408;'cookies au chocolat, miel et cannelle';1;0
+e;3364808;'muffins au chocolat surprise';1;0
+e;3364804;'muffins au chocolat blanc et à la noix de coco';1;0
+e;3364773;'mousse parfum cappucino au chocolat et grains de café';1;0
+e;3364748;'mousse de poire sur coulis au chocolat';1;0
+e;3364685;'mousse au chocolat noir et à la violette';1;0
+e;3364675;'mousse au chocolat et caramel au beurre salé';1;0
+e;3364670;'mousse au chocolat de fête';1;0
+e;3364666;'mousse au chocolat blanc et speculoos';1;0
+e;3364579;'moelleux chocolat cannelle et fruits secs';1;0
+e;3364451;'mi-cuits chocolat blanc et framboise';1;0
+e;3363110;'gâteau moelleux au chocolat de sophie';1;0
+e;3363071;'gâteau glacé au chocolat et aux petits beurre';1;0
+e;3363070;'gâteau glacé au chocolat et aux amandes';1;0
+e;3362942;'gâteau chocolat et nougatine';1;0
+e;3362866;'gâteau aux noix et glacage chocolat simplissime';1;0
+e;3362839;'gâteau au chocolat léger';1;0
+e;3362783;'gâteau au chocolat sans farine';1;0
+e;3362624;'galette des rois au chocolat';1;0
+e;3362619;'galette des rois à la frangipane au chocolat';1;0
+e;3362478;'fondants chocolat et poire';1;0
+e;3362475;'fondant minute au chocolat';1;0
+e;3362464;'fondant chocolat noix et confiture de lait';1;0
+e;3362457;'fondant breton chocolat carambar';1;0
+e;3362447;'fondant au chocolat meringué';1;0
+e;3372719;'chocolat-noisettes';1;0
+e;3359727;'brownies au chocolat et aux noisettes';1;0
+e;3359778;'buche orange et chocolat';1;0
+e;3360026;'cake pomme / noix et chocolat';1;0
+e;3360338;'charlotte chocolat banane';1;0
+e;3360345;'charlotte fraîche à la mousse de chocolat';1;0
+e;3360731;'cookies chocolat et noisettes';1;0
+e;3361096;'crème onctueuse au chocolat avec une touche de vanille';1;0
+e;3361038;'crème chocolat / marmelade d'orange';1;0
+e;3361134;'crêpes au chocolat et à l'orange';1;0
+e;3361625;'délice de mousse au chocolat';1;0
+e;3361702;'dôme au chocolat et au turron pour les jours de fête';1;0
+e;3361373;'crumble ananas chocolat de fred s';1;0
+e;3743849;'trio de chocolat';1;0
+e;3744131;'mousse au chocolat sans ufs au tofu';1;0
+e;3744249;'petits pots de crème au chocolat blanc';1;0
+e;3744182;'mousses au chocolat noir';1;0
+e;3744299;'milk shake 100% pur chocolat';1;0
+e;3744472;'chocolat chaud onctueux';1;0
+e;3744801;'mug cake au chocolat express';1;0
+e;3745182;'tarte au chocolat et au zest d'orange';1;0
+e;3747404;'mug cake au chocolat et Coca Cola';1;0
+e;3747394;'Danette au chocolat et à la vanille maison';1;0
+e;3746409;'sablés au chocolat et à la pâte d'amandes';1;0
+e;3746279;'mini moelleux au chocolat';1;0
+e;3746241;'tiramisu poire chocolat';1;0
+e;3746020;'cheesecake chocolat capuccino';1;0
+e;3745975;'friandises végétaliennes au chocolat et au moka';1;0
+e;3745832;'tarte chocolat tofu facile';1;0
+e;3745611;'chocolat chaud épicé';1;0
+e;3745535;'chocolat chaud chantilly vanille';1;0
+e;3751366;'chocolat noir supérieur en morceaux';1;0
+e;3759036;'chocolat blanc au lait de riz haché';1;0
+e;3757223;'biscuits au chocolat';1;0
+e;3757068;'bol de sauce chocolat';1;0
+e;3756491;'pépites de chocolat ou de chocolat cassé en très petits morceaux';1;0
+e;3755314;'plaque de chocolat au lait';1;0
+e;3755028;'recette de crème au beurre au chocolat';1;0
+e;3753867;'chocolat noir cacao';1;0
+e;3753545;'chocolat pâtissier coupé en petits morceaux';1;0
+e;3753543;'chocolat noir coupé en morceaux';1;0
+e;3752798;'pépites de chocolat blanc';1;0
+e;3751965;'chocolat pâtissier coupé en morceaux ou pépites de chocolat';1;0
+e;19983;'mendiant';1;150
+e;5141721;'chocolat de ménage';1;0
+e;5141722;'crotte en chocolat';1;0
+e;213156;'crème chantilly';1;32
+e;163831;'glace à la vanille';1;100
+e;436842;'chocolat amer';1;52
+e;3159519;'crème glacée au chocolat';1;52
+e;3159576;'liqueur de chocolat blanc';1;0
+e;3159577;'liqueur de chocolat brun';1;0
+e;3318597;'fondant au chocolat et menthe';1;0
+e;3318640;'financiers au chocolat et à la noix de coco';1;0
+e;3318688;'bread and butter pudding à la pâte à tartiner au chocolat';1;0
+e;3318578;'the tarte orange chocolat';1;0
+e;3360529;'civet d'oie au chocolat et à l'orange';1;0
+e;3371742;'trifle aux poires sauce chocolat';1;0
+e;3371647;'tourte banane et chocolat';1;0
+e;3370952;'tarte poires, bananes, et chocolat ultra-simple';1;0
+e;3370885;'tartelettes croquantes au chocolat';1;0
+e;3370876;'tartelette mangue chocolat';1;0
+e;3370725;'tarte chocolat - crème mousseuse vanille';1;0
+e;3370336;'tarte au chocolat et aux mendiants';1;0
+e;3370335;'tarte au chocolat et aux airelles';1;0
+e;3370293;'tarte amandes noix au chocolat au lait';1;0
+e;3369991;'suprême de poire chocolat et sa gelée de cerise';1;0
+e;3369979;'succès au chocolat';1;0
+e;3369531;'soufflé aux fraises et au chocolat';1;0
+e;3369518;'soufflé au chocolat léger et délicatement épicé';1;0
+e;3369439;'semoule belle hélène, poire et chocolat';1;0
+e;3368394;'roses des sables au chocolat à la crème';1;0
+e;3368052;'racing kueche - gâteau sans cuisson chocolat et chantilly';1;0
+e;3367070;'poires fourrées aux noix et chocolat';1;0
+e;3366854;'petits soufflés au chocolat et à la cannelle';1;0
+e;3366769;'petits duo de chocolat';1;0
+e;3366744;'petit pot à la banane, chocolat et crème';1;0
+e;3366604;'pavé chocolat crème de marron sans cuisson';1;0
+e;3366084;'pain perdu à la fleur d'oranger et au chocolat blanc';1;0
+e;3365936;'muffins pomme, banane, chocolat';1;0
+e;3365902;'moelleux au chocolat chaud, sauce caramel';1;0
+e;3365666;'gâteau choco-cocorange, chocolat, coco et orange';1;0
+e;3365638;'gâteau au chocolat et beurre salé, micro-ondes';1;0
+e;3365368;'chocorangettes, madeleines à l'orange glacées au chocolat';1;0
+e;3365339;'charlotte au chocolat, caramel et noisette';1;0
+e;3364857;'muffins poires pépites de chocolat de nadine';1;0
+e;3364828;'muffins aux pépites de chocolat et au coeur caramel au beurre salé';1;0
+e;3364663;'mousse au chocolat au lait d'aline';1;0
+e;3364564;'moelleux au chocolat et son rocher praliné';1;0
+e;3364364;'marquise au chocolat de jean-jacques rousseau';1;0
+e;3363156;'gâteau sans gluten chocolat - amandes';1;0
+e;3363114;'gâteau moelleux aux dattes et au chocolat au lait';1;0
+e;3363113;'gâteau moelleux aux amandes et chocolat';1;0
+e;3363087;'gâteau mangue chocolat';1;0
+e;3363041;'gâteau duo de chocolat et son coeur de petit beurre';1;0
+e;3363032;'gâteau de semoule chocolat - noisette';1;0
+e;3362947;'gâteau chocolat parfumé à l'orange';1;0
+e;3362934;'gâteau chocolat amande framboise';1;0
+e;3362907;'gâteau au yaourt et au chocolat';1;0
+e;3362837;'gâteau aux chataignes et chocolat';1;0
+e;3362792;'gâteau au chocolat yaourt à la fraise';1;0
+e;3362785;'gâteau au chocolat sans oeuf au micro-ondes';1;0
+e;3362625;'galette des rois au chocolat à l'orange d'elvire';1;0
+e;3362492;'fondue au chocolat light au yaourt';1;0
+e;3362473;'fondant glacé chocolat et noix';1;0
+e;3362266;'financier hérisson au chocolat blanc';1;0
+e;3372449;'poires-chocolat';1;0
+e;3359771;'bûche de noël mousse framboise et ganache chocolat';1;0
+e;3359716;'brownie au chocolat noir et pépites de chocolat blanc';1;0
+e;3360306;'charlotte au chocolat et crème anglaise';1;0
+e;3360462;'chocolat chaud crémeux à la pralinoise';1;0
+e;3360737;'cookies forts en chocolat à la purée d'amandes';1;0
+e;3360951;'couronne au chocolat et sa chantilly';1;0
+e;3361005;'crème au chocolat rapide';1;0
+e;3361654;'délicieux gâteau chocolat et miel';1;0
+e;3743771;'cookies goût sablé aux pépites de chocolat et aux noix';1;0
+e;3744038;'cookies au chocolat blanc et aux noix de macadamia';1;0
+e;3744214;'pain en machine au chocolat blanc';1;0
+e;3744425;'bûche de Noël au chocolat et à l'orange';1;0
+e;3744624;'chocolat chaud maison';1;0
+e;3745011;'biscotti au chocolat';1;0
+e;3744998;'cookies aux pépites de chocolat noir';1;0
+e;3745320;'tarte aux poires au chocolat';1;0
+e;3745405;'tarte citron chocolat';1;0
+e;3746889;'brownie au chocolat fondu';1;0
+e;3746856;'chaussons au chocolat et à la framboise';1;0
+e;3746659;'génoise irlandaise au chocolat';1;0
+e;3746459;'cookies faciles aux éclats de chocolat';1;0
+e;3746277;'cake au chocolat et aux noix';1;0
+e;3746271;'fondant chocolat crème de marrons';1;0
+e;3746116;'ganache facile au chocolat';1;0
+e;3745963;'cake sans ufs à l'orange et au chocolat';1;0
+e;3745846;'fondant au chocolat sans farine';1;0
+e;3751075;'chocolat noir haché';1;0
+e;3751209;'chocolat pâtissier supérieur';1;0
+e;3758660;'sachet de pépites de chocolat';1;0
+e;3758445;'chocolat noir à en palet';1;0
+e;3758109;'cupcakes au chocolat';1;0
+e;3757857;'chocolat noir Nestlé dessert';1;0
+e;3757272;'cookies au chocolat brisés';1;0
+e;3756697;'chocolat râpé';1;14
+e;3756485;'chocolat à dessert';1;0
+e;3755821;'chocolat noir en morceaux';1;0
+e;3755785;'plaquette de chocolat noir à dessert';1;0
+e;3755655;'chocolat noir avec au moins de chocolat';1;0
+e;3755494;'chocolat noir grossièrement râpé';1;0
+e;3754790;'chocolat amer non sucré ou plus si désiré';1;0
+e;3753924;'chocolat noir ou au lait';1;0
+e;3752275;'chocolat blanc coupé en gros morceaux';1;0
+e;3751710;'chocolat amer avec au moins de cacao';1;0
+e;9101998;'bûche de noël au chocolat et à l'orange';1;0
+e;145447;'Côte-d'Or';1;70
+e;179706;'huile de ricin';1;14
+e;2609082;'copeaux de chocolat';1;2
+e;3318505;'gâteau marbré chocolat ananas';1;0
+e;3318532;'brioche aux abricots et au chocolat';1;0
+e;3318605;'gâteau à base de pain aux pépites de chocolat';1;0
+e;3318644;'tiramisu à la pâte à tartiner au chocolat';1;0
+e;3318706;'verrine pêche, banane et chocolat';1;0
+e;3318678;'demi-sphère chocolat et framboise';1;0
+e;3371959;'véritable moelleux au chocolat';1;0
+e;3371775;'truffes chocolat aux éclats de caramel';1;0
+e;3371733;'triangle au chocolat glacé';1;0
+e;3371413;'tiramisu au chocolat sans café';1;0
+e;3371339;'terrine mousse au chocolat';1;0
+e;3371217;'terrine de chocolat aux framboises';1;0
+e;3370891;'tartelettes fondantes au chocolat';1;0
+e;3370873;'tartelette chocolat fraises';1;0
+e;3370720;'tarte chocolat au lait et noix de pécan';1;0
+e;3370337;'tarte au chocolat et aux noix de pécan';1;0
+e;3370319;'tarte au café, sauce au chocolat';1;0
+e;3370193;'tarte abricots noisettes chocolat';1;0
+e;3369806;'soupe glacée menthe chocolat';1;0
+e;3369433;'semifreddo au chocolat et clémentines confites';1;0
+e;3369218;'sanglier au chocolat';1;0
+e;3368134;'raviolis au chocolat fourrés au nutella';1;0
+e;3366834;'petits pavés au chocolat et aux amandes ou noix de coco';1;0
+e;3366813;'petits gâteaux tout chocolat';1;0
+e;3366600;'pavé aérien aux marrons et au chocolat blanc';1;0
+e;3366177;'panna cotta chocolat blanc et framboise';1;0
+e;3366120;'palets moelleux aux pépites de chocolat';1;0
+e;3365880;'méli-mélo de chocolat et d'amour';1;0
+e;3365842;'limousin : marron, amande et chocolat';1;0
+e;3365840;'top choc, gâteau chocolat sans farine';1;0
+e;3365699;'gâteau tiede au chocolat fondant, sauce au safran';1;0
+e;3365667;'gâteau chocolat, poire et amandes';1;0
+e;3365662;'gâteau au yaourt, aux litchis et chocolat';1;0
+e;3365595;'fondant au chocolat à la farine de quinoa, sans gluten';1;0
+e;3365291;'cake aux épices, chocolat et pistaches';1;0
+e;3365270;'brownie chocolat, micro-ondes';1;0
+e;3365229;'bombe glacée au chocolat';1;0
+e;3364876;'napolitain au chocolat';1;0
+e;3364854;'muffins nutella et pépites de chocolat';1;0
+e;3364852;'muffins muesli au chocolat';1;0
+e;3364847;'muffins framboises et chocolat blanc';1;0
+e;3364778;'mousse très chocolat au siphon';1;0
+e;3364689;'mousse au chocolat rapide et facile';1;0
+e;3364684;'mousse au chocolat noir';1;0
+e;3364683;'mousse au chocolat liégeois';1;0
+e;3364681;'mousse au chocolat fouettée';1;0
+e;3364679;'mousse au chocolat extra légère';1;0
+e;3364678;'mousse au chocolat et sa julienne d'orange';1;0
+e;3364664;'mousse au chocolat au lait facile';1;0
+e;3364661;'mousse au chocolat à l'ancienne';1;0
+e;3364535;'mini fondants coeur chocolat blanc';1;0
+e;3359323;'biscuits moelleux orange / orange confite et chocolat de nadine';1;0
+e;3363349;'gourmandise au chocolat 'à tomber par terre'';1;0
+e;3363129;'gâteau noir de pacome au chocolat';1;0
+e;3363116;'gâteau moelleux chocolat et coco';1;0
+e;3363091;'gâteau marbré aux pépites de chocolat';1;0
+e;3362936;'gâteau chocolat banane';1;0
+e;3362780;'gâteau au chocolat fruité';1;0
+e;3362769;'gâteau au chocolat de mon enfance';1;0
+e;3362689;'ganache au chocolat';1;2
+e;3362603;'galette au chocolat rapide';1;0
+e;3362505;'fondue de fruits au chocolat';1;0
+e;3362493;'fondue au chocolat noir';1;0
+e;3362472;'fondant framboise et chocolat blanc';1;0
+e;3362458;'fondant café - chocolat';1;0
+e;3362448;'fondant au chocolat plus que fondant';1;0
+e;3362443;'fondant au chocolat et aux amandes';1;0
+e;3362442;'fondant au chocolat et à la confiture d'orange';1;0
+e;3362438;'fondant au chocolat antillais';1;0
+e;3362437;'fondant au chocolat à l'huile de sésame';1;0
+e;3360368;'chaud-tiède-froid de chocolat aux pistaches';1;0
+e;3372824;'banane-chocolat';1;0
+e;3359757;'bûche aux clémentines et au chocolat';1;0
+e;3359866;'cake au chocolat coeur de poires';1;0
+e;3359767;'bûche de noël à la mousse au chocolat';1;0
+e;3360013;'cake moelleux au chocolat et à l'orange';1;0
+e;3360412;'cheesecake au chocolat noir';1;0
+e;3360611;'coeur chocolat framboise';1;0
+e;3360727;'cookies aux pépites de chocolat et beurre de cacahuète';1;0
+e;3361522;'cupcake à la vanille fourré chocolat';1;0
+e;3361439;'crumble pépites de chocolat à la banane';1;0
+e;3361716;'douillons de poire au chocolat';1;0
+e;3743681;'bûche café et chocolat';1;0
+e;3743697;'muffins à la banane et aux pépites de chocolat';1;0
+e;3743733;'crème au beurre au chocolat';1;0
+e;3743829;'aumônières de crêpes au chocolat trésor de fruits frais';1;0
+e;3743967;'coulants individuels au chocolat';1;0
+e;3743870;'double mix cookies et gâteau au chocolat';1;0
+e;3743850;'saumon sauce au chocolat blanc';1;0
+e;3744483;'ganache au chocolat blanc';1;0
+e;3744814;'cake au chocolat noir';1;0
+e;3745304;'pain au chocolat au lait';1;0
+e;3747391;'cake pops au chocolat et Nutella';1;0
+e;3746830;'fondant au chocolat sans beurre';1;0
+e;3746718;'fondant chocolat orange';1;0
+e;3746434;'pain au chocolat et amandes';1;0
+e;3746412;'buches de noel au chocolat individuelles sauce au caramel au beurre salé';1;0
+e;3746223;'crêpe banane chocolat chantilly';1;0
+e;3746068;'cake au petit lait et au chocolat';1;0
+e;3745909;'gâteauoûter au chocolat';1;0
+e;3745814;'fraises craquantes au chocolat';1;0
+e;3745796;'cupcakes au chocolat nappage au caramel';1;0
+e;3745723;'moelleux au chocolat et à la crème de marrons';1;0
+e;3745577;'brioche au chocolat';1;50
+e;3750988;'chocolat noir râpé';1;0
+e;3751368;'chocolat au lait en morceaux';1;0
+e;3758663;'mélange de sauce au chocolat';1;0
+e;3758291;'chocolat au lait râpé';1;0
+e;3757372;'raies de chocolat noir';1;0
+e;3757325;'carrés fins de chocolat noir';1;0
+e;3756310;'coupelles en chocolat';1;0
+e;3756176;'pépites de chocolat ou chocolat concassé';1;0
+e;3755926;'chocolat patissier';1;0
+e;3755437;'pistoles en chocolat de différentes couleurs ou du Candy Melt';1;0
+e;3754270;'barres de chocolat';1;0
+e;3754200;'nappage au chocolat noir';1;0
+e;3753501;'chocolat blanc en petits morceaux';1;0
+e;3753488;'pot de glace au chocolat';1;0
+e;3753237;'chocolat à fondre';1;0
+e;3752308;'chocolat noir ou au lait fondu';1;0
+e;3752307;'petits oeufs en sucre ou en chocolat';1;0
+e;3751735;'chocolat pâtisser coupé en petits morceaux';1;0
+e;2372113;'sorbéran';1;0
+e;136017;'mignardise';1;62
+e;3318637;'gâteau bananes, chocolat et noix';1;0
+e;3318852;'gâteau au chocolat sans lactose';1;0
+e;3320074;'Office international du cacao et du chocolat';1;0
+e;3359240;'beignets au chocolat';1;0
+e;3359177;'banane gourmande au chocolat';1;0
+e;3372086;'versaillais, gâteau aux trois mousses chocolat';1;0
+e;3372055;'verrines de poires et sablés chocolat express';1;0
+e;3372008;'verrine kiwi - chocolat blanc';1;0
+e;3371980;'verrine chocolat - mirabelles';1;0
+e;3371467;'tiramisu petit beurre et chocolat, sans café';1;0
+e;3370843;'tarte frangipane aux poires et au chocolat';1;0
+e;3370660;'tarte aux pommes, noix et copeaux de chocolat';1;0
+e;3370613;'tarte aux poires sur frangipane chocolat pralin';1;0
+e;3370334;'tarte au chocolat et aux 3 coques';1;0
+e;3369981;'succulent gâteau au chocolat';1;0
+e;3369516;'soufflé au chocolat chaud';1;0
+e;3369515;'soufflé au chocolat';1;52
+e;3367067;'poires aurélie, framboises et chocolat';1;0
+e;3366725;'petites crèmes au chocolat';1;0
+e;3366623;'pavé de saumon sauce chocolat blanc';1;0
+e;3366261;'parfait au chocolat';1;0
+e;3366028;'pain d'épices au chocolat et au miel';1;0
+e;3365934;'muffins gourmands d'a vivil : chocolat, noix et noisette';1;0
+e;3365711;'glace au chocolat blanc, sans sorbetière';1;0
+e;3365527;'entremets saveurs du nord, mousse poire, chocolat et nappage caramel';1;0
+e;3365476;'crumble aux poires, amandes et chocolat';1;0
+e;3365423;'coulants au chocolat, glace vanille et son coulis de chocolat';1;0
+e;3365340;'charlotte aux poires, sauce chocolat';1;0
+e;3365288;'cake au potimarron, chocolat, cannelle';1;0
+e;3365230;'bon gros gâteau au chocolat, micro-ondes';1;0
+e;3365162;'amour de fruits rouges, croustillant chocolat blanc et coeur banane';1;0
+e;3365111;'omelette chocolat coco';1;0
+e;3364829;'muffins aux pépites de chocolat et beurre salé';1;0
+e;3364785;'muffin chocolat noir au coeur fondant de chocolat blanc';1;0
+e;3364767;'mousse légère au chocolat au lait';1;0
+e;3364673;'mousse au chocolat de mathé';1;0
+e;3364660;'mousse au chocolat à la crème de marrons et à l'orange';1;0
+e;3364561;'moelleux au chocolat d'amandine';1;0
+e;3364551;'miroir au chocolat';1;0
+e;3364543;'minis clafoutis orange et chocolat';1;0
+e;3363282;'glace au chocolat à la sorbetière';1;0
+e;3363254;'glaçage au chocolat brillant';1;0
+e;3363101;'gâteau marrons chocolat';1;0
+e;3363098;'gâteau marbré vanille chocolat';1;0
+e;3362977;'gâteau de crêpes au chocolat';1;0
+e;3362943;'gâteau chocolat légèrement marbré';1;0
+e;3362941;'gâteau chocolat et amandes vanillé';1;0
+e;3362779;'gâteau au chocolat fondant';1;0
+e;3362763;'gâteau au chocolat amer';1;0
+e;3362589;'fruits à la meringue et au chocolat';1;0
+e;3362462;'fondant chocolat et orange';1;0
+e;3362452;'fondant au chocolat sans farine au micro-ondes';1;0
+e;3362444;'fondant au chocolat et aux noix';1;0
+e;3362440;'fondant au chocolat au coeur d'orange';1;0
+e;3359649;'brioches suisses aux pépites de chocolat';1;0
+e;3373579;'chocolat-framboises';1;0
+e;3373578;'coco-chocolat';1;0
+e;3359764;'bûche biscuit aux raisins secs et glaçage chocolat';1;0
+e;3359726;'brownies au chocolat duo';1;0
+e;3360094;'cannelés au chocolat';1;0
+e;3360180;'carré croquant au chocolat et aux fruits secs';1;0
+e;3360339;'charlotte chocolat orange';1;0
+e;3360721;'cookies à la pistache et au chocolat blanc';1;0
+e;3360588;'clafoutis poires chocolat';1;0
+e;3360740;'cookies noix nobles et pépites de chocolat';1;0
+e;3360741;'cookies pas ordinaires aux pépites de chocolat et sirop de caramel';1;0
+e;3361157;'crêpes fourrées aux fruits secs et nappées de chocolat fondu';1;0
+e;3361435;'crumble fondant au chocolat blanc';1;0
+e;3361257;'crok chocolat mangue et praline';1;0
+e;3361468;'crumble tiramisu au chocolat';1;0
+e;3361447;'crumble pomme chocolat';1;0
+e;3743780;'whoopies aux pépites de chocolat';1;0
+e;3743695;'gâteau chocolat et courgettes';1;0
+e;3744057;'fondue au chocolat aux fraises';1;0
+e;3744352;'profiteroles craquelins tout chocolat';1;0
+e;3744617;'mousse au chocolat sans ufs ni beurre';1;0
+e;3744632;'glace au chocolat sans uf avec une sorbetière';1;0
+e;3744623;'truffes au chocolat noir';1;0
+e;3745193;'fondue au chocolat facile';1;0
+e;3745346;'foie gras poêlé au chocolat';1;0
+e;3746658;'verrines de crème au chocolat';1;0
+e;3746514;'fondue au chocolat goût café';1;0
+e;3746482;'poires en sauce au chocolat';1;0
+e;3746102;'quatre quart poires chocolat';1;0
+e;3746078;'muffins au chocolat au lait';1;0
+e;3745564;'gâteau au chocolat super moelleux';1;0
+e;3745458;'mousse au chocolat sur lit de spéculoos';1;0
+e;3758887;'vermicelles en chocolat';1;0
+e;3756910;'chocolat noir supérieur';1;0
+e;3756814;'gaufrettes au chocolat';1;0
+e;3755678;'mélange de pudding au chocolat';1;0
+e;3755550;'chocolat en copeaux';1;0
+e;3755540;'chocolat au lait coupé en carrés';1;0
+e;3754721;'tablette de chocolat noir à dessert';1;0
+e;3752704;'chocolat noir à pâtisser';1;0
+e;3752328;'chocolat noir amer à 80%';1;0
+e;3763823;'demi plaquette de chocolat noir';1;0
+e;3816465;'turbine à chocolat';1;0
+e;3155006;'an:64238:?:15196:86296';12;50
+e;228208;'soutzoukos';1;50
+e;238398;'La Pie qui Chante';1;50
+e;3318528;'cookies aux raisins et chocolat';1;0
+e;3318844;'mousse glacée à la pâte à tartiner au chocolat';1;0
+e;3318821;'cookies aux pépites de chocolat et pistaches';1;0
+e;3359315;'biscuits aux noix et au chocolat';1;0
+e;3372071;'verrines orange chocolat';1;0
+e;3371471;'tiröler cake au chocolat et noisettes';1;0
+e;3371440;'tiramisu banane café, génoise au chocolat';1;0
+e;3371260;'terrine de pain d'épices au chocolat et à l'orange';1;0
+e;3370842;'tarte frangipane aux bananes et chocolat';1;0
+e;3370834;'tarte fondante au chocolat et noix';1;0
+e;3370722;'tarte chocolat banane caramel';1;0
+e;3370345;'tarte au chocolat parfumé à l'orange';1;0
+e;3370331;'tarte au chocolat blanc et chocolat noir, fondante et craquante';1;0
+e;3369989;'suprême au chocolat et à la crème au citron';1;0
+e;3369985;'super fondant au chocolat';1;0
+e;3369924;'spätzle au chocolat';1;0
+e;3369455;'simplissime moelleux poires et chocolat';1;0
+e;3369434;'semifreddo au chocolat meringué';1;0
+e;3369389;'sbriciolata, cheesecake italien ricotta citron chocolat';1;0
+e;3368621;'sachertörte, tarte sacher - chocolat';1;0
+e;3367824;'quatre-quarts chocolat banane';1;0
+e;3366841;'petits pots de crème fondants au chocolat';1;0
+e;3366791;'petits fondants au chocolat, coeurs au chocolat blanc';1;0
+e;3366626;'pavés au chocolat';1;0
+e;3366613;'pavé de potiron au chocolat';1;0
+e;3365481;'crumble pomme, banane et chocolat';1;0
+e;3365350;'cheesecake au chocolat';1;0
+e;3365342;'charlotte royale mousse au chocolat, poire et crème de marrons';1;0
+e;3364996;'oeuf kinder et mousse au chocolat';1;0
+e;3364713;'mousse chocolat blanc et chocolat noir';1;0
+e;3364691;'mousse au chocolat supra légére';1;0
+e;3364686;'mousse au chocolat noix de coco';1;0
+e;3364573;'moelleux aux pépites de chocolat';1;0
+e;3364557;'moelleux à la farine de châtaigne cur coulant chocolat';1;0
+e;3364428;'meringue surprise au chocolat';1;0
+e;3363268;'glace à la meringue et copeaux de chocolat';1;0
+e;3363261;'glace à la banane et au chocolat blanc';1;0
+e;3363227;'génoise fourrée à la crème au chocolat';1;0
+e;3363130;'gâteau noix de coco et chocolat façon congolais';1;0
+e;3362990;'gâteau délice poire chocolat';1;0
+e;3362952;'gâteau coulant chocolat noir et blanc';1;0
+e;3362846;'gâteau aux framboises et chocolat blanc';1;0
+e;3362778;'gâteau au chocolat et piment d'espelette';1;0
+e;3362771;'gâteau au chocolat en poudre';1;0
+e;3362767;'gâteau au chocolat délicieux';1;0
+e;3362504;'fondue chocolat noix de coco';1;0
+e;3362474;'fondant juste cuit au chocolat';1;0
+e;3362461;'fondant chocolat et marrons';1;0
+e;3362299;'flan au chocolat en croûte';1;0
+e;3359503;'boules coco au chocolat';1;0
+e;3359739;'brownies moelleux chocolat caramel';1;0
+e;3373581;'chocolat-nougat';1;0
+e;3373226;'chocolat-myrtilles';1;0
+e;3372706;'poire-chocolat';1;0
+e;3359751;'bûche à la banane et au chocolat';1;0
+e;3359860;'cake amandes et pépites de chocolat';1;0
+e;3360307;'charlotte au chocolat simplifiée';1;0
+e;3360303;'charlotte au caramel et à la mousse au chocolat';1;0
+e;3360210;'cassate au chocolat';1;0
+e;3360722;'cookies allégés chocolat café';1;0
+e;3361095;'crème onctueuse au chocolat';1;0
+e;3361098;'crème pâtissière au chocolat';1;0
+e;3361159;'crêpes froides roulées au chocolat';1;0
+e;3361037;'crème chocolat aux épices';1;0
+e;3361442;'crumble poire pépites de chocolat au pain d'épices';1;0
+e;3361458;'crumble pommes pepites de chocolat';1;0
+e;3361408;'crumble coing chocolat gingembre';1;0
+e;3361611;'délice au chocolat nappé à la confiture d'abricot';1;0
+e;3743641;'glace veloutée au chocolat';1;0
+e;3744304;'ganache tout chocolat';1;0
+e;3744492;'les bons ufs en chocolat';1;0
+e;3744456;'crème légère au chocolat blanc';1;0
+e;3744864;'tarte banane - chocolat';1;0
+e;3745157;'bûche au chocolat et pépites de framboises';1;0
+e;3745235;'mousse au chocolat rapide';1;0
+e;3745291;'muffins courgettes chocolat';1;0
+e;3745419;'biscuits marbrés chocolat vanille';1;0
+e;3746331;'fudge au chocolat inratable';1;0
+e;3746260;'pavé coco nappé de chocolat';1;0
+e;3745605;'bûche triangulaire aux framboises arôme pistache et au chocolat blanc';1;0
+e;3759270;'morceaux de chocolat noir';1;0
+e;3758017;'cannelle ou chocolat amer en poudre';1;0
+e;3757885;'chocolat noir corsé coupée en tout petits dés';1;0
+e;3757001;'chocolat pâtissier fondu et refroidi';1;0
+e;3756533;'chocolat noir aux noisettes coupé en morceaux';1;0
+e;3756273;'tablette de chocolat noir';1;0
+e;3756156;'chocolat blanc concassé';1;0
+e;3756068;'chocolat pâtissier en éclats';1;0
+e;3755721;'chocolat en morceaux';1;0
+e;3755534;'chocolat à de cacao';1;0
+e;3755161;'chocolat noir pâtissier haché finement';1;0
+e;3754617;'chocolat pâtissier au lait';1;0
+e;3754313;'chocolat noir pâtissier';1;0
+e;3754072;'chocolat noir pâtissier coupé en morceaux';1;0
+e;3753528;'chocolat de bonne qualité';1;0
+e;3753199;'chocolat noir pâtissier fondu';1;0
+e;3753074;'chocolat blanc Nestlé';1;0
+e;3752306;'sirop au chocolat';1;0
+e;3751796;'préparation pour gâteau au chocolat';1;0
+e;3751421;'carrés de chocolat noir';1;0
+e;73519;'belge';1;550
+e;145325;'Avent';1;50
+e;228184;'bonbon coco';1;50
+e;95617;'nappage';1;70
+e;436843;'chocolat noir corsé';1;50
+e;1906543;'banane au chocolat';1;0
+e;3161674;'chocolat en poudre non sucré Van Houten';1;0
+e;3159511;'crème de chocolat';1;0
+e;3318521;'muffins poire et chocolat';1;0
+e;3318391;'crème à la pâte à tartiner au chocolat';1;0
+e;3318596;'Îles flottantes au chocolat';1;0
+e;3318649;'cupcake menthe chocolat';1;0
+e;3321749;'chocolat-orange';1;0
+e;3360566;'clafoutis de kiwi et banane au chocolat blanc';1;0
+e;3359298;'biscuit chocolat au caramel beurre salé';1;0
+e;3359359;'blancs de poulet aux pépites de chocolat amer et amandes grillées';1;0
+e;3359300;'biscuit de Savoie au chocolat facile';1;0
+e;3359304;'biscuit fondant chocolat à l'orange douce';1;0
+e;3372054;'verrines de pêche biscuitée au mascarpone, amandes et chocolat';1;0
+e;3372051;'verrines de mousse au chocolat au rhum et à l'ananas confit';1;0
+e;3371718;'travers de porc au chocolat pimenté';1;0
+e;3370999;'tarte romaine au chocolat';1;0
+e;3370882;'tartelettes chocolat blanc framboise';1;0
+e;3370841;'tarte framboise poire et chocolat en croûte d'amande';1;0
+e;3370791;'tarte duo chocolat ananas';1;0
+e;3370346;'tarte au chocolat pour petit gourmand';1;0
+e;3370330;'tarte au chocolat blanc et aux brownies';1;0
+e;3370236;'tarte à la mousse chocolat tofu';1;0
+e;3369978;'sublissime au chocolat';1;0
+e;3369483;'sorbet au chocolat blanc et violette';1;0
+e;3368623;'sainte aurore, gâteau chocolat- poire fourré mousse chocolat-framboise glaçage fudge';1;0
+e;3368605;'sablés au gingembre et leur mousse chocolat blanc';1;0
+e;3368374;'rochers coco aux pépites de chocolat';1;0
+e;3367828;'quenelles au chocolat';1;0
+e;3367741;'profiteroles au chocolat';1;0
+e;3366734;'petites galettes des rois poire - chocolat';1;0
+e;3366729;'petites crèmes chocolat intense et mandarine';1;0
+e;3366726;'petites crèmes au chocolat sur lit de fruits';1;0
+e;3366416;'pâte pour la tarte au chocolat';1;0
+e;3365925;'mousse chocolat sur crème anglaise pistache, avec ou sans siphon';1;0
+e;3365911;'mon super gâteau au chocolat, micro-onde';1;0
+e;3365830;'le ramollina de bonne-maman, gâteau au chocolat';1;0
+e;3365700;'gâteau très chocolat, micro-ondes';1;0
+e;3365689;'gâteau nénette, pavé chocolat banane';1;0
+e;3365664;'gâteau au yaourt, noisettes et pépites de chocolat';1;0
+e;3365654;'gâteau aux noix, pommes et chocolat noir';1;0
+e;3365640;'gâteau au chocolat, recette américaine';1;0
+e;3365447;'crêpe au chocolat, mûres et kiwi';1;0
+e;3365301;'cake fondant au chocolat avec la machine à pain, map';1;0
+e;3364784;'muffin bananes et pépites de chocolat';1;0
+e;3364717;'mousse chocolat rapido';1;0
+e;3364714;'mousse chocolat framboises';1;0
+e;3364665;'mousse au chocolat blanc';1;0
+e;3364659;'mousse au chocolat à la crème d'avoine';1;0
+e;3364523;'mini-brownies au chocolat individuels';1;0
+e;3364445;'mexicain au chocolat';1;0
+e;3364282;'madeleines tout chocolat';1;0
+e;3364272;'madeleines chocolat blanc';1;0
+e;3363873;'la fameuse tarte à la mousse au chocolat';1;0
+e;3363773;'îles flottantes au chocolat';1;0
+e;3363365;'gratin à l'orange et au chocolat';1;0
+e;3363123;'gâteau mousseux au chocolat';1;0
+e;3363079;'gâteau léger au chocolat et fromage blanc';1;0
+e;3363073;'gâteau glacé au pain d'épice et au chocolat';1;0
+e;3363064;'gâteau fraîcheur aux framboises et au chocolat';1;0
+e;3363018;'gâteau de savoie au chocolat';1;0
+e;3362959;'gâteau d'anniversaire chocolat poires';1;0
+e;3362948;'gâteau chocolat spéculoos';1;0
+e;3362906;'gateau au yaourt et au chocolat';1;0
+e;3362871;'gâteau aux petits-beurres et mousse au chocolat sans cuisson';1;0
+e;3362790;'gâteau au chocolat très facile !';1;0
+e;3362787;'gâteau au chocolat sans sucre au coulis de framboises';1;0
+e;3362781;'gâteau au chocolat ganaché';1;0
+e;3362777;'gâteau au chocolat et aux noisettes';1;0
+e;3362765;'gâteau au chocolat caramélisé à manger froid';1;0
+e;3362764;'gâteau au chocolat blanc et pépites de nougatine sans gluten';1;0
+e;3362711;'gâteau à étages orange chocolat';1;0
+e;3362494;'fondue au chocolat 'toblerone'';1;0
+e;3362480;'fondant très chocolat au thé matcha';1;0
+e;3362463;'fondant chocolat marshmallow';1;0
+e;3362446;'fondant au chocolat maison';1;0
+e;3362439;'fondant au chocolat au coeur coulant';1;0
+e;3362393;'floraline au chocolat';1;0
+e;3361089;'crème légère poires - chocolat';1;0
+e;3360041;'cake tendre chocolat - banane';1;0
+e;3360016;'cake moelleux bananes - pommes et pépites de chocolat';1;0
+e;3359566;'brick au chocolat et aux noix';1;0
+e;3373569;'chocolat-caramel';1;0
+e;3373032;'noisettes-chocolat';1;0
+e;3372629;'chocolat-framboise';1;0
+e;3359761;'bûche aux noix et chocolat';1;0
+e;3359870;'cake au chocolat et pépites de chocolat';1;0
+e;3360192;'carrés au chocolat et raisins secs';1;0
+e;3360305;'charlotte au chocolat blanc et lait concentré sucré';1;0
+e;3360959;'couronne des rois briochée aux pépites de chocolat';1;0
+e;3361008;'crème au potiron et au chocolat';1;0
+e;3361081;'crème glacée au chocolat très facile';1;0
+e;3361003;'crème au chocolat et speculoos aux épices';1;0
+e;3361816;'entremets au chocolat et à la banane';1;0
+e;3362069;'feuilletés aux poires et au chocolat chaud';1;0
+e;3743724;'tarte amandine aux poires sur lit de chocolat';1;0
+e;3744316;'moelleux chocolat blanc sur ananas et framboises';1;0
+e;3744397;'gâteau à étages au coca et au chocolat';1;0
+e;3744349;'mousse au chocolat toute simple';1;0
+e;3744920;'chocolat viennois irrésistible';1;0
+e;3744967;'pains au chocolat et à la banane';1;0
+e;3745188;'gâteau au chocolat entre le fondant et le brownie';1;0
+e;3745377;'pavlovas de cheesecake au chocolat';1;0
+e;3745387;'ganache pour truffes au chocolat';1;0
+e;3745441;'muffins légers au chocolat';1;0
+e;3746650;'glace à la menthe et aux pépites de chocolat';1;0
+e;3746485;'torta caprese ou fondant au chocolat italien';1;0
+e;3746439;'macarons au chocolat';1;42
+e;3745921;'cheesecake sans cuisson au chocolat';1;0
+e;3745840;'moelleux au chocolat rapide';1;0
+e;3745707;'tarte poire chocolat';1;0
+e;3745689;'tarte à la truffe au chocolat';1;0
+e;3745474;'fraises au chocolat';1;0
+e;3757597;'chocolat pâtissier cassé en petits morceaux';1;0
+e;3757444;'chocolat noir pâtissier grossièrement haché';1;0
+e;3756048;'coupelles individuelles au chocolat';1;0
+e;3755769;'demi plaquette de chocolat au lait';1;0
+e;3755553;'petits carrés de chocolat à cuire';1;0
+e;3755374;'chocolat noir en tablette';1;0
+e;3754921;'cacao amer chocolat râpé ou noix de coco';1;0
+e;3754315;'carrés de chocolat pâtissier';1;0
+e;3754311;'chocolat noir à de cacao';1;0
+e;3753893;'pépites de chocolat passées au mixeur';1;0
+e;3753710;'carré de chocolat noir';1;0
+e;3753661;'chocolat pâtissier fondu refroidi';1;0
+e;3753288;'carrés de chocolat à cuire';1;0
+e;3753283;'plaque de chocolat pâtissier';1;0
+e;3753169;'chocolat noir de qualité';1;0
+e;3752059;'nappage chocolat';1;6
+e;3751795;'pépites de chocolat noir ou au lait';1;0
+e;5141685;'chocolat de dégustation';1;0
+e;14759;'suisse';1;136
+e;107364;'dégustation';1;166
+e;137759;'Côte d'Or';1;52
+e;37289;'friandise';1;390
+e;151579;'sucreries';1;150
+e;164790;'biscuits';1;76
+e;144283;'copeau';1;66
+e;144482;'Mont-Blanc';1;66
+e;31540;'Monthey';1;50
+e;224755;'Galak';1;50
+e;229747;'café gourmand';1;2
+e;238399;'Mi-cho-ko';666;2
+e;239463;'liégeoise';1;50
+e;225205;'choco';1;92
+e;238128;'carte des desserts';1;26
+e;241286;'lait chocolaté';1;74
+e;4275;'friture';1;540
+e;20351;'magnésium';1;130
+e;242953;'fondre dans la bouche';1;50
+e;181257;'buche de Noël';1;50
+e;437047;'fondre le chocolat';1;50
+e;566600;'chocolat liégeois';777;50
+e;2567263;'pas de chocolat';1;0
+e;3321757;'chocolat-coco';1;0
+e;2953171;'côte d'Or';777;0
+e;3360321;'charlotte aux framboises et aux copeaux de chocolat';1;0
+e;3359234;'béchamel au chocolat';1;0
+e;3372074;'verrines pommes/myrtilles au chocolat';1;0
+e;3372052;'verrines de mousse au chocolat blanc, mûres et coco';1;0
+e;3371744;'trifle de fruits rouges au chocolat blanc';1;0
+e;3371218;'terrine de chocolat aux speculoos et à la cannelle';1;0
+e;3370896;'tartelettes poires / amande / chocolat';1;0
+e;3370338;'tarte au chocolat et aux prunes';1;0
+e;3368560;'roulé banane / chocolat';1;0
+e;3368145;'recette belge du gâteau au chocolat';1;0
+e;3367764;'pudding de bananes au chocolat';1;0
+e;3367737;'prélat, gâteau au chocolat';1;0
+e;3367056;'poire aux épices et chocolat';1;0
+e;3367046;'poire amandine au chocolat';1;0
+e;3366105;'pains au chocolat aux amandes';1;0
+e;3365905;'moelleux fondant au chocolat noir, blanc et toblerone';1;0
+e;3365637;'gâteau au chocolat et aux noix, micro-ondes';1;0
+e;3365635;'gâteau à la noix de coco, glaçage chocolat';1;0
+e;3365554;'feuilletés roulés au chocolat, noisettes et amandes';1;0
+e;3364806;'muffins au chocolat des jumelles';1;0
+e;3364798;'muffins à la rose et au chocolat blanc';1;0
+e;3364688;'mousse au chocolat professionnelle';1;0
+e;3364668;'mousse au chocolat blanc parfumée';1;0
+e;3364578;'moelleux chocolat au micro-onde';1;0
+e;3364562;'moelleux au chocolat de carole';1;0
+e;3364525;'mini cake au chocolat';1;0
+e;3364365;'marquise au chocolat facile';1;0
+e;3363333;'godets au chocolat';1;0
+e;3363172;'gâteau ultra-moelleux au chocolat sans beurre';1;0
+e;3363078;'gâteau léger au chocolat et éclats d'orange';1;0
+e;3362945;'gâteau chocolat noisettes cannelle';1;0
+e;3362928;'gâteau carambar et chocolat';1;0
+e;3362868;'gâteau aux pépites de chocolat et pommes';1;0
+e;3362789;'gâteau au chocolat top fondant';1;0
+e;3362786;'gâteau au chocolat sans oeufs ni laitage';1;0
+e;3362772;'gâteau au chocolat et abricots confits';1;0
+e;3362766;'gâteau au chocolat 'christine'';1;0
+e;3362734;'gâteau à la mousse au chocolat et aux petits-beurre';1;0
+e;3362543;'friands au chocolat noir et aux amandes';1;0
+e;3362481;'fondant très chocolat';1;0
+e;3362479;'fondant tout chocolat "blanc"';1;0
+e;3362434;'fondant à la crème de marrons et au chocolat';1;0
+e;3362300;'flan au chocolat et caramel';1;0
+e;3359736;'brownies chocolat de grimmy';1;0
+e;3373527;'chocolat-marron';1;0
+e;3359841;'cake à la banane et au chocolat';1;0
+e;3359869;'cake au chocolat et aux poires';1;0
+e;3359916;'cake aux courgettes et chocolat';1;0
+e;3360008;'cake menthe chocolat';1;0
+e;3360869;'coupe au chocolat et confit de poires';1;0
+e;3361094;'crème mousseline au chocolat';1;0
+e;3361352;'croustilles bananes et chocolat';1;0
+e;3361642;'délicieuse crème au chocolat';1;0
+e;3743689;'gâteau au chocolat et à la courgette';1;0
+e;3743752;'moelleux coco et son cur au chocolat noir sans lactose';1;0
+e;3743797;'sauce au chocolat pour volailles';1;0
+e;3743927;'cake aux pépites de chocolat';1;0
+e;3744731;'tarte rapide au chocolat et aux noix';1;0
+e;3744110;'tarte aux noix de pécan et au chocolat';1;0
+e;3744808;'fondue de fruits au chocolat noir';1;0
+e;3745140;'Danette au chocolat et à la vanille maison';1;0
+e;3745257;'cake pops au chocolat et Nutella';1;0
+e;3745421;'sorbet au chocolat noir';1;0
+e;3747417;'verrine au chocolat et à la crème Philadelphia';1;0
+e;3746753;'fruits et mousse au chocolat sur tourbillon de mangue moléculaire';1;0
+e;3746507;'mug cake au chocolat parfait';1;0
+e;3746224;'mini - cakes poire et chocolat';1;0
+e;3746060;'gâteau tout chocolat aux noix';1;0
+e;3745875;'fondants au chocolat';1;0
+e;3745802;'moka frappé au chocolat';1;0
+e;3745709;'cookies au potiron et au chocolat';1;0
+e;3745678;'tiramisu pour 2 au chocolat et aux fraises';1;0
+e;3745530;'cake courgettes noix et chocolat';1;0
+e;3745520;'bouchées chocolat fraise';1;0
+e;3751317;'chocolat à pâtissier';1;0
+e;3759392;'mousse au chocolat orange café';1;0
+e;3759391;'moustkoutchou au chocolat : marbré au chocolat';1;0
+e;3759037;'chocolat noir pâtissier haché';1;0
+e;3758622;'chocolat pâtissier râpé';1;0
+e;3758245;'nappage au chocolat environ';1;0
+e;3756532;'chocolat au lait coupé en morceaux';1;0
+e;3756101;'pour environ bouchées au chocolat';1;0
+e;3755258;'chocolat au lait coupé en petits morceaux';1;0
+e;3754973;'carré de chocolat fondu';1;0
+e;3754604;'chocolat noir à pâtisser cassé en morceaux';1;0
+e;3753427;'chocolat blanc en morceaux';1;0
+e;3171817;'régime anti-diabète';1;0
+e;5141725;'chocolat bitter';1;0
+e;9101839;'cupcakes tout chocolat pour pâques';1;0
+e;9101869;'tarte poire chocolat pour la saint-valentin';1;0
+e;9102030;'cake pops au chocolat et nutella';1;0
+e;9101914;'mousse chocolat blanc d'isabelle';1;0
+e;9102036;'brioche aux pépites de chocolat de made in cooking';1;0
+e;9102111;'mousse au chocolat de made in cooking';1;0
+e;9102044;'danette au chocolat et à la vanille maison';1;0
+e;9102016;'tarte au chocolat et noix de pécan';1;0
+e;9101950;'chouquettes chocolat à la chantilly';1;0
+e;9101875;'fondant au chocolat ou torta caprese';1;0
+e;9101802;'loup de méditerranée sauce chocolat et citron';1;0
+e;9749541;'mug cake au chocolat';1;0
+e;205358;'perdre au change';1;50
+e;15460238;'mon pote';1;0
+e;15460234;'mon gaillard';1;0
+e;15451650;'mon gars';1;0
+e;141683;'petite';1;1318
+e;48575;'tiramisu';1;94
+e;140463;'vanille';1;408
+e;16480;'fondre';1;248
+e;1906569;'crème de coco au chocolat';1;0
+e;261091;'fête des amoureux';1;6
+e;3359865;'cake au chocolat';1;56
+e;3744423;'brioche aux pépites de chocolat de Made in Cooking';1;0
+e;3745132;'mousse au chocolat de Made in Cooking';1;0
+e;3745267;'mousse chocolat blanc d'Isabelle';1;0
+e;3746332;'cupcakes tout chocolat pour Pâques';1;0
+e;3745838;'loup de Méditerranée sauce chocolat et citron';1;0
+e;265840;'paquet de biscuits';1;50
+e;14376145;'aimer les aliments sucrés';1;0
+e;2348347;'cacao sans sucre';1;0
+e;14604625;'addiction aux sucreries';1;0
+e;14730916;'succès praliné';1;0
+e;16163845;'poires meringuées';1;0
+e;3345992;'brun chocolat ht';1;0
+e;3364690;'mousse au chocolat suisse';1;0
+e;3744648;'tarte poire chocolat pour la Saint-Valentin';1;0
+e;3159632;'sirop de chocolat';1;0
+e;3318565;'biscuit de Savoie au chocolat';1;0
+e;3744512;'tarte au chocolat et noix de Pécan';1;0
+e;3744534;'fondant au chocolat ou Torta Caprese';1;0
+e;3745513;'chouquettes chocolat à la Chantilly';1;0
+e;3019582;'chocolat en poudre pour bébé';1;0
+e;152780;'Charlie et la chocolaterie';1;84
+e;1906652;'pudding au chocolat';1;0
+e;9101858;'crème au chocolat viennoise ou chocolat liégeois';1;0
+e;9101788;'chili con carne au chocolat';1;0
+e;9101899;'verrine au chocolat et à la philadelphia';1;0
+e;9101989;'le gateau train au chocolat d'adrien sous la neige';1;0
+e;9101983;'le fondant au chocolat de chloé';1;0
+e;9102060;'cookies moelleux au nutella? et aux pépites de chocolat';1;0
+e;9102037;'mug cake au chocolat et coca cola';1;0
+e;9102106;'biscuit de savoie au chocolat';1;0
+e;228548;'mon trésor';1;52
+e;260681;'mon coeur';1;50
+e;15460231;'élue de mon coeur';1;0
+e;15460230;'élu de mon coeur';1;0
+e;224048;'mon chou';1;52
+e;15226270;'mon petit chou';1;0
+e;15220487;'mon cher';1;0
+e;15266819;'ma chère';1;0
+e;3159564;'lait au chocolat';1;0
+e;3322395;'brun chocolat HT';777;0
+e;3359310;'biscuits au chocolat et au citron de floriane';1;0
+e;3743739;'le fondant au chocolat de Chloé';1;0
+e;3744924;'crème au chocolat Viennoise ou chocolat liégeois';1;0
+e;3747392;'cookies moelleux au nutella et aux pépites de chocolat';1;0
+e;3746177;'mug cake au chocolat et Coca Cola';1;0
+e;3744508;'verrine au chocolat et à la Philadelphia';1;0
+e;122420;'chocolaterie';1;134
+e;1906612;'gâteau simple au chocolat';1;0
+e;3745653;'le gateau train au chocolat d'Adrien sous la neige';1;0
+e;3744330;'chili Con Carne au chocolat';1;0
+e;3745359;'cookies moelleux au Nutella? et aux pépites de chocolat';1;0
+e;159709;'poires';1;100
+e;165851;'gelati';1;56
+e;165351;'pâtisseries';1;60
+e;214930;'Granola';1;50
+e;224685;'biscuiterie nantaise';1;80
+e;107132;'banana split';1;70
+e;255455;'coupe glacée';1;70
+e;2376737;'banana-split';1;0
+e;3318448;'biscuits au chocolat et au citron de Floriane';1;0
+e;3362944;'gâteau chocolat meringué au café';1;0
+e;3759407;'cookies moelleux au Nutella et aux pépites de chocolat';1;0
+e;15341002;'mon coco';1;0
+e;15412681;'mon petit coco';1;0
+e;266118;'mon ange';1;50
+e;15460220;'mon bouchon';1;0
+e;215308;'ma puce';1;58
+e;15198946;'ma choute';1;0
+e;15334692;'mon biquet';1;0
+e;260637;'ma cocotte';1;4
+e;15978788;'banana Split';1;0
+e;243883;'boisson chocolatée';1;90
+e;3372310;'tiramisù';1;0
+e;88847;'labrador';1;110
+e;3223272;'aux pépites de chocolat';1;0
+e;228315;'mon chéri';1;82
+e;3019570;'génoises fourrées aux fruits et nappées de chocolat';1;0
+e;2604522;'et la marmotte elle met le chocolat dans le papier d'alu';1;0
+e;3019578;'barre à la noix de coco enrobée de chocolat';1;0
+e;3019572;'chocolat au lait aux céréales en tablette';1;0
+e;3362775;'gâteau au chocolat et au vin rouge';1;0
+e;17186;'crêpe';1;238
+e;3019573;'chocolat au lait en tablette';1;0
+e;3019563;'pâte à tartiner chocolat et noisette';1;0
+e;156678;'pâte à tartiner';1;182
+e;53399;'Bounty';1;90
+e;3362935;'gâteau chocolat amandes';1;0
+e;276260;'lait frappé';777;50
+e;257843;'faire un gâteau';1;64
+e;236468;'stracciatella';1;50
+e;11027544;'addiction au sucre';1;28
+e;3019568;'cacahuètes enrobées de chocolat';1;0
+e;154515;'barre chocolatée';1;174
+e;3019581;'chocolat au lait aux fruits secs en tablette';1;0
+e;3019558;'chocolat en poudre sucré';1;0
+e;3019562;'bonbon au chocolat dragéifié';1;0
+e;244991;'Kinder Surprise';666;68
+e;1934479;'tartelette au chocolat';1;0
+e;3019564;'chocolat blanc en tablette';1;0
+e;9445781;'copeau de chocolat';1;2
+e;1139041;'lait chaud au chocolat';1;0
+e;3318433;'truffes fondantes au chocolat noir, sans beurre';1;0
+e;809295;'faire du café';1;50
+e;385197;'truffe au chocolat';1;56
+e;343791;'chocolat viennois';1;50
+e;339240;'biscuit au chocolat';1;82
+e;245121;'Kinder Maxi';1;18
+e;339570;'bonbon au chocolat';1;132
+e;143431;'Suisse';1;302
+e;339463;'bol de chocolat';1;50
+e;380394;'sorbet au chocolat';1;50
+e;376871;'rocher en chocolat';1;50
+e;353128;'fabrique de chocolat';1;50
+e;343789;'chocolat glacé';1;50
+e;340781;'bûche au chocolat';1;118
+e;71783;'charlotte';1;130
+e;331047;'coulant au chocolat';1;50
+e;343793;'chocolat aux amandes';1;50
+e;339464;'bol de chocolat chaud';1;50
+e;343788;'chocolat fondant';1;50
+e;16397;'Lanvin';1;52
+e;353107;'fabricant de chocolat';1;50
+e;345390;'crotte de chocolat';1;50
+e;343786;'chocolat de santé';1;50
+e;152564;'belle-hélène';1;50
+e;67525;'caramel';1;682
+e;162248;'cookie';1;94
+e;154460;'gâteaux';1;158
+e;345422;'crème au chocolat';1;60
+e;236757;'smarties';1;4
+e;30748;'truffes';1;108
+e;9744435;'mug cake';1;0
+e;183139;'marron glacé';1;18
+e;228257;'Louis Dufour';1;50
+e;235078;'Willy Wonka';1;12
+e;154266;'gâteau d'anniversaire';1;108
+e;229326;'Nesquik';1;10
+e;3373089;'croustichoc';1;0
+e;225187;'bichoco';1;32
+e;222506;'choco BN';1;108
+e;256972;'souffler les bougies';1;88
+e;71130;'antidépresseur';1;78
+e;233983;'Milka';1;50
+e;1927210;'milkshake';1;2
+e;163830;'glace au chocolat';1;116
+e;233210;'Kinder';1;86
+e;154906;'au chocolat';1;70
+e;159952;'pains au chocolat';1;50
+e;163051;'de chocolat';1;52
+e;164944;'grand chocolat';1;50
+e;236217;'ourson en chocolat';1;2
+e;263044;'plaquette de chocolat';1;2
+e;218638;'carré de chocolat';1;118
+e;226664;'chocolat suisse';1;54
+e;230446;'cigarette en chocolat';1;52
+e;238281;'bouchée au chocolat';1;50
+e;241332;'en chocolat';1;50
+e;254274;'palet au chocolat';1;50
+e;256578;'pas de bras, pas de chocolat';1;50
+e;256939;'glaçage au chocolat';1;78
+e;258431;'tablettes de chocolat';1;66
+e;266878;'gâteau chocolat';1;50
+e;266884;'gâteau intense chocolat';1;50
+e;271281;'Merci pour le chocolat';1;50
+e;275721;'fontaine à chocolat';1;52
+e;289583;'couque au chocolat';777;50
+e;292535;'plaque de chocolat';777;50
+e;260957;'profiterolles au chocolat';1;50
+e;232574;'poire belle hélène';1;12
+e;214228;'éclair au chocolat';1;98
+e;228211;'truffe en chocolat';1;6
+e;222923;'tarte au chocolat';1;54
+e;261655;'chocolat à pâtisserie';1;76
+e;232381;'pépite de chocolat';1;76
+e;238174;'marquise au chocolat';1;50
+e;255905;'petit pain au chocolat';1;52
+e;318859;'mousse au chocolat au lait';1;50
+e;161696;'forêt noire';1;112
+e;62524;'biscuit';1;628
+e;154264;'gâteau au chocolat';1;266
+e;236760;'Banania';1;2
+e;2514778;'milk shake';1;0
+e;14557985;'bûche glacée';1;2
+e;285039;'chocolat à tartiner';1;50
+e;216180;'barre de chocolat';1;76
+e;120419;'éclair';1;528
+e;238840;'être chocolat';1;50
+e;106880;'milk-shake';1;70
+e;247711;'oeuf en chocolat';1;178
+e;222440;'BN';1;72
+e;123539;'moka';1;76
+e;164882;'glace italienne';1;68
+e;12425573;'lapin en chocolat';1;68
+e;14049965;'York chocolat';1;0
+e;2488909;'york chocolat';1;0
+r;213914484;34157;7387370;0;1
+r;351439699;34157;2587823;0;1
+r;370388620;34157;152769;0;1
+r;373250369;34157;5141723;0;1
+r;279328477;34157;160930;0;8
+r;106894803;34157;213362;0;9
+r;28727993;34157;343785;0;11
+r;245361632;34157;3762435;0;11
+r;28728019;34157;343792;0;12
+r;28728022;34157;343787;0;12
+r;25071385;34157;165157;0;14
+r;30722721;34157;238346;0;15
+r;96926125;34157;17226;0;15
+r;96926126;34157;240147;0;15
+r;285921541;34157;5809808;0;15
+r;98618484;34157;229681;0;17
+r;98620687;34157;34761;0;17
+r;98622686;34157;117379;0;17
+r;9913861;34157;249199;0;18
+r;9913949;34157;249529;0;18
+r;9642137;34157;135190;0;19
+r;98638503;34157;37688;0;19
+r;8864853;34157;215661;0;21
+r;31187528;34157;242716;0;21
+r;31188892;34157;141120;0;21
+r;31188901;34157;83344;0;21
+r;31188908;34157;227899;0;21
+r;31188917;34157;1927865;0;21
+r;53778152;34157;67811;0;21
+r;62044785;34157;2528020;0;21
+r;85600175;34157;3246666;0;21
+r;799044;34157;143532;0;22
+r;9984688;34157;155140;0;22
+r;31188911;34157;1927863;0;22
+r;96926078;34157;215965;0;22
+r;98013313;34157;154128;0;22
+r;799037;34157;116908;0;23
+r;10592792;34157;78856;0;23
+r;24528244;34157;1371375;0;23
+r;31187521;34157;232953;0;23
+r;31188887;34157;87862;0;23
+r;31188920;34157;1927866;0;23
+r;76554075;34157;3172362;0;23
+r;310852130;34157;594650;0;23
+r;310852137;34157;600015;0;23
+r;310852138;34157;594649;0;23
+r;418012058;34157;32817;0;23
+r;418012059;34157;144281;0;23
+r;799036;34157;122704;0;24
+r;799038;34157;90633;0;24
+r;799039;34157;144860;0;24
+r;15573728;34157;190040;0;24
+r;15705444;34157;152552;0;24
+r;31188895;34157;11954;0;24
+r;76824893;34157;58433;0;24
+r;91935115;34157;3672010;0;24
+r;248863610;34157;7123653;0;25
+r;310852134;34157;1448611;0;25
+r;366486607;34157;2522740;0;25
+r;410015769;34157;277677;0;25
+r;415549162;34157;15421155;0;25
+r;415549163;34157;14928085;0;25
+r;415878287;34157;15243329;0;25
+r;415957182;34157;14928089;0;25
+r;415957184;34157;15134107;0;25
+r;415957186;34157;15200896;0;25
+r;416088683;34157;14925548;0;25
+r;418012056;34157;8924;0;25
+r;12304753;34157;139383;0;26
+r;14451899;34157;414207;0;26
+r;31188914;34157;1927864;0;26
+r;53760762;34157;56822;0;26
+r;53778148;34157;7170;0;26
+r;86450617;34157;3365597;0;26
+r;96926099;34157;236395;0;26
+r;96926102;34157;113902;0;26
+r;96926104;34157;25966;0;26
+r;96926118;34157;14269;0;26
+r;98012529;34157;42980;0;26
+r;310852129;34157;2338333;0;26
+r;9643285;34157;189981;0;27
+r;9918196;34157;260581;0;27
+r;12202434;34157;225125;0;27
+r;12202445;34157;104695;0;27
+r;15629030;34157;174839;0;27
+r;91675089;34157;3672011;0;27
+r;91935109;34157;3671569;0;27
+r;96926127;34157;119446;0;27
+r;310852132;34157;609420;0;27
+r;310852133;34157;600016;0;27
+r;310852135;34157;676667;0;27
+r;310852136;34157;609419;0;27
+r;1434031;34157;14189;0;28
+r;9913864;34157;249200;0;28
+r;12304754;34157;6657;0;28
+r;24772196;34157;216400;0;28
+r;31188885;34157;28872;0;28
+r;85291271;34157;275717;0;28
+r;86972325;34157;331048;0;28
+r;96926093;34157;228603;0;28
+r;799041;34157;110236;0;29
+r;799042;34157;27551;0;29
+r;2160355;34157;240351;0;29
+r;31188882;34157;181277;0;29
+r;31188898;34157;95459;0;29
+r;417885045;34157;15260310;0;29
+r;417890276;34157;15270899;0;29
+r;14191013;34157;161947;0;30
+r;14200761;34157;343790;0;30
+r;15573696;34157;190039;0;30
+r;31188890;34157;491;0;30
+r;31188905;34157;151377;0;30
+r;53778150;34157;145064;0;30
+r;99410527;34157;325703;0;30
+r;86848996;34157;1906563;0;30
+r;92421582;34157;228408;0;30
+r;96926121;34157;229924;0;30
+r;96926129;34157;215228;0;30
+r;98637464;34157;8515;0;30
+r;310852131;34157;676668;0;30
+r;799043;34157;49402;0;31
+r;96926080;34157;91657;0;31
+r;96926120;34157;25337;0;31
+r;96926122;34157;155458;0;31
+r;88427871;34157;1906607;0;32
+r;1568452;34157;215659;0;34
+r;25360887;34157;241625;0;34
+r;91533266;34157;110160;0;34
+r;92421805;34157;62217;0;34
+r;1534459;34157;153751;0;35
+r;1535410;34157;213563;0;35
+r;30952585;34157;132338;0;35
+r;120309992;34157;2140328;0;35
+r;1534472;34157;213516;0;37
+r;83677367;34157;339571;0;37
+r;96926123;34157;143378;0;37
+r;9000861;34157;249126;0;38
+r;9913863;34157;238898;0;39
+r;96926124;34157;47918;0;41
+r;86848999;34157;228921;0;42
+r;96926103;34157;236529;0;42
+r;86848998;34157;229363;0;43
+r;99766177;34157;2944603;0;51
+r;11473156;34157;247132;0;51
+r;11474580;34157;134028;0;51
+r;11474971;34157;97684;0;51
+r;11476881;34157;9122;0;51
+r;11476890;34157;42388;0;51
+r;11477248;34157;55249;0;51
+r;209991;34157;156524;0;52
+r;113244;34157;145464;0;53
+r;361683;34157;24372;0;53
+r;12991851;34157;229905;0;53
+r;165980;34157;152419;0;54
+r;102766321;34157;215660;0;54
+r;110830;34157;140982;0;55
+r;182983;34157;26201;0;55
+r;411192;34157;75884;0;55
+r;1547275;34157;214301;0;55
+r;15308329;34157;214275;0;55
+r;388857757;34157;155928;0;55
+r;375853;34157;26009;0;56
+r;11762429;34157;329798;0;56
+r;141366;34157;143255;0;57
+r;173957;34157;97910;0;57
+r;258175;34157;153047;0;57
+r;412200;34157;153948;0;57
+r;9795218;34157;218051;0;57
+r;12991853;34157;153034;0;57
+r;102766322;34157;2542643;0;57
+r;11657764;34157;11358;0;58
+r;394560;34157;25082;0;59
+r;112228;34157;124836;0;60
+r;125204;34157;61283;0;60
+r;129262;34157;107896;0;60
+r;251761;34157;28923;0;60
+r;357359;34157;102345;0;60
+r;1653075;34157;39586;0;60
+r;1653077;34157;222338;0;60
+r;10900499;34157;261654;0;60
+r;15310081;34157;16033;0;60
+r;15949867;34157;241932;0;60
+r;9857091;34157;225291;0;63
+r;799040;34157;132479;0;66
+r;104390;34157;144229;0;70
+r;118339;34157;33387;0;70
+r;120721;34157;66324;0;70
+r;137829;34157;149325;0;70
+r;143938;34157;130164;0;70
+r;241605;34157;152977;0;70
+r;9353920;34157;40056;0;74
+r;9913859;34157;40545;0;77
+r;9622803;34157;114637;0;78
+r;118693;34157;116175;0;80
+r;171977;34157;139470;0;80
+r;191515;34157;64432;0;80
+r;1653076;34157;163110;0;82
+r;1371309;34157;171767;0;96
+r;128743;34157;152815;0;103
+r;230311;34157;72043;0;103
+r;142278;34157;140315;0;106
+r;154930;34157;29772;0;120
+r;128741;34157;152814;0;123
+r;97184;34157;113547;0;138
+r;137828;34157;142381;0;140
+r;108473;34157;123988;0;154
+r;128742;34157;152309;0;173
+r;104230;34157;151503;0;180
+r;112519;34157;141964;0;190
+r;165653;34157;139481;0;193
+r;149295;34157;134158;0;201
+r;375242;34157;67170;0;211
+r;126240;34157;5834;0;220
+r;116896;34157;38557;0;230
+r;66664;34157;67819;0;270
+r;113116;34157;120500;0;293
+r;139123;34157;22120;0;332
+r;126695;34157;65956;0;340
+r;115925;34157;36836;0;348
+r;108765;34157;19150;0;380
+r;66662;34157;15196;0;475
+r;105039;34157;2149;0;500
+r;80663;34157;86296;0;512
+r;97182;34157;29118;0;551
+r;66660;34157;64238;0;660
+r;66658;34157;68363;0;699
+r;23927326;34157;239128;0;1000000
+r;401750297;236284;34157;0;-40
+r;366486605;216408;34157;0;-25
+r;2128319;246150;34157;0;1
+r;10725069;140927;34157;0;1
+r;25008189;1532925;34157;0;1
+r;82227855;214305;34157;0;1
+r;316554255;12197192;34157;0;1
+r;316768009;12137601;34157;0;1
+r;316768018;12137599;34157;0;1
+r;316768027;12137597;34157;0;1
+r;316768038;12137594;34157;0;1
+r;316768047;12137592;34157;0;1
+r;316768058;12137589;34157;0;1
+r;359697649;14159312;34157;0;1
+r;369908473;14558033;34157;0;1
+r;370852492;14594605;34157;0;1
+r;373003531;14669811;34157;0;1
+r;423639032;16606;34157;0;1
+r;423891951;33040;34157;0;1
+r;426894424;16271886;34157;0;1
+r;428484866;28530;34157;0;1
+r;114457462;5791657;34157;0;2
+r;114462425;5785598;34157;0;2
+r;368127552;14486343;34157;0;2
+r;368703969;14532498;34157;0;2
+r;369512239;14538996;34157;0;2
+r;369907602;14558057;34157;0;2
+r;369907613;14558058;34157;0;2
+r;369907625;14558059;34157;0;2
+r;369907638;14558060;34157;0;2
+r;374370360;14725369;34157;0;2
+r;423615313;16163730;34157;0;2
+r;423615432;16163735;34157;0;2
+r;423615443;16163736;34157;0;2
+r;423617343;16163839;34157;0;2
+r;423617379;16163840;34157;0;2
+r;423688708;16165054;34157;0;2
+r;423688726;16165055;34157;0;2
+r;432011727;254049;34157;0;2
+r;433004966;229363;34157;0;2
+r;114459435;5787943;34157;0;3
+r;315630176;12093200;34157;0;3
+r;315630182;12093199;34157;0;3
+r;315630186;12093198;34157;0;3
+r;315630197;12093197;34157;0;3
+r;315630201;12093196;34157;0;3
+r;315630212;12093195;34157;0;3
+r;423657217;17569;34157;0;3
+r;423613889;230180;34157;0;3
+r;425085087;229924;34157;0;3
+r;428912349;257687;34157;0;3
+r;429670382;188545;34157;0;3
+r;10004675;575;34157;0;4
+r;93457692;3743925;34157;0;4
+r;113794081;5798345;34157;0;4
+r;113794126;5798327;34157;0;4
+r;113794130;5798325;34157;0;4
+r;428468303;2368672;34157;0;4
+r;433098636;339244;34157;0;4
+r;2319756;55265;34157;0;5
+r;2467613;239799;34157;0;5
+r;113294670;5806110;34157;0;5
+r;113306024;5803149;34157;0;5
+r;315489282;12109669;34157;0;5
+r;364423601;31618;34157;0;5
+r;413949936;15744303;34157;0;5
+r;413952332;15744304;34157;0;5
+r;419752724;15421161;34157;0;5
+r;419753086;15243330;34157;0;5
+r;419753125;15421160;34157;0;5
+r;419754252;15328786;34157;0;5
+r;419754595;15269039;34157;0;5
+r;419800809;15323299;34157;0;5
+r;419830110;15421162;34157;0;5
+r;423738459;138203;34157;0;5
+r;423744625;140820;34157;0;5
+r;423747080;112261;34157;0;5
+r;423749627;9053913;34157;0;5
+r;427182096;1534674;34157;0;5
+r;428481975;230041;34157;0;5
+r;435061954;7705;34157;0;5
+r;98008185;113902;34157;0;6
+r;274291564;10904294;34157;0;6
+r;419707693;15340346;34157;0;6
+r;419707697;15340348;34157;0;6
+r;419707701;15377580;34157;0;6
+r;419707705;15373174;34157;0;6
+r;419707709;15360999;34157;0;6
+r;419707713;15419122;34157;0;6
+r;419707722;15254883;34157;0;6
+r;419707728;15285477;34157;0;6
+r;419707732;15362227;34157;0;6
+r;423615410;16163733;34157;0;6
+r;427741706;101561;34157;0;6
+r;430112285;25966;34157;0;6
+r;431480046;223928;34157;0;6
+r;433318692;305530;34157;0;6
+r;113763138;5828577;34157;0;7
+r;113764733;5827972;34157;0;7
+r;419655070;15353202;34157;0;7
+r;419660263;15262905;34157;0;7
+r;419660740;15571895;34157;0;7
+r;419660772;15571893;34157;0;7
+r;419687073;15254881;34157;0;7
+r;419687082;15275121;34157;0;7
+r;110813261;5621539;34157;0;8
+r;113761503;5828979;34157;0;8
+r;113763664;5828450;34157;0;8
+r;263704129;10578550;34157;0;8
+r;273444026;10902449;34157;0;8
+r;279938333;11054163;34157;0;8
+r;291216255;11348747;34157;0;8
+r;423615290;16163728;34157;0;8
+r;423615398;16163732;34157;0;8
+r;113763336;5828543;34157;0;9
+r;113764572;5828066;34157;0;9
+r;115859626;5912182;34157;0;9
+r;115860013;5911963;34157;0;9
+r;222735738;10007031;34157;0;9
+r;305631739;11827917;34157;0;9
+r;419495962;15330073;34157;0;9
+r;419570569;15286222;34157;0;9
+r;419570596;15286218;34157;0;9
+r;419570616;15286220;34157;0;9
+r;428695847;224129;34157;0;9
+r;433181437;16392758;34157;0;9
+r;30017279;1837420;34157;0;10
+r;113794093;5798337;34157;0;10
+r;115850644;5918420;34157;0;10
+r;115850788;5918391;34157;0;10
+r;115858756;5912931;34157;0;10
+r;115859987;5911979;34157;0;10
+r;115860002;5911969;34157;0;10
+r;198484368;3762435;34157;0;10
+r;276243487;10961846;34157;0;10
+r;399517024;15237237;34157;0;10
+r;395728921;15306168;34157;0;10
+r;395766562;15239609;34157;0;10
+r;396610544;15200887;34157;0;10
+r;397754489;15297698;34157;0;10
+r;398517967;14964768;34157;0;10
+r;399854280;15304981;34157;0;10
+r;399854305;8103359;34157;0;10
+r;405530873;15209570;34157;0;10
+r;405541665;15333918;34157;0;10
+r;405541703;15700976;34157;0;10
+r;405745544;141996;34157;0;10
+r;405820817;158808;34157;0;10
+r;408444414;41069;34157;0;10
+r;408567983;151563;34157;0;10
+r;408935377;15047014;34157;0;10
+r;408992699;376155;34157;0;10
+r;408999661;245682;34157;0;10
+r;409123263;91804;34157;0;10
+r;409157803;251776;34157;0;10
+r;409442459;15413602;34157;0;10
+r;409442544;15485531;34157;0;10
+r;409442628;15485532;34157;0;10
+r;409458953;15574976;34157;0;10
+r;409459048;15477769;34157;0;10
+r;409473013;15661957;34157;0;10
+r;409473325;15417949;34157;0;10
+r;409495410;15415445;34157;0;10
+r;409496301;15370045;34157;0;10
+r;409496471;15370046;34157;0;10
+r;409504682;14160540;34157;0;10
+r;411248742;15444867;34157;0;10
+r;411250814;15715111;34157;0;10
+r;411782459;15260310;34157;0;10
+r;411935403;15444533;34157;0;10
+r;411937947;15524826;34157;0;10
+r;412032856;200408;34157;0;10
+r;412211214;12503948;34157;0;10
+r;413541732;14944855;34157;0;10
+r;413807170;154925;34157;0;10
+r;414688518;14935556;34157;0;10
+r;418971051;91625;34157;0;10
+r;419491328;15210827;34157;0;10
+r;426315933;15690292;34157;0;10
+r;426319216;15233989;34157;0;10
+r;426342520;14963500;34157;0;10
+r;426342839;15421170;34157;0;10
+r;426342920;15421169;34157;0;10
+r;426343001;15421168;34157;0;10
+r;426343229;15262904;34157;0;10
+r;428152961;3346470;34157;0;10
+r;428982460;212831;34157;0;10
+r;430713146;15760421;34157;0;10
+r;430756483;15576211;34157;0;10
+r;430756555;15209244;34157;0;10
+r;430896384;15378713;34157;0;10
+r;430897218;15490820;34157;0;10
+r;430898075;370035;34157;0;10
+r;430898907;15378712;34157;0;10
+r;431117701;15065946;34157;0;10
+r;431323722;15695148;34157;0;10
+r;431326461;15710824;34157;0;10
+r;431330074;15542783;34157;0;10
+r;431351580;14939504;34157;0;10
+r;431353965;15369695;34157;0;10
+r;431456379;15746722;34157;0;10
+r;431459315;15425616;34157;0;10
+r;432210707;15504448;34157;0;10
+r;432213622;15454627;34157;0;10
+r;432239793;260638;34157;0;10
+r;432256206;15456514;34157;0;10
+r;432256690;15456513;34157;0;10
+r;432257175;15456512;34157;0;10
+r;432257660;15456511;34157;0;10
+r;432258145;15456510;34157;0;10
+r;432258630;15456509;34157;0;10
+r;432259119;15456508;34157;0;10
+r;432261096;15359876;34157;0;10
+r;432262221;15359873;34157;0;10
+r;432293877;184508;34157;0;10
+r;432369177;15714563;34157;0;10
+r;432370273;15714562;34157;0;10
+r;432535463;15049577;34157;0;10
+r;432833503;15238291;34157;0;10
+r;279317036;11027017;34157;0;11
+r;279317242;11027010;34157;0;11
+r;428144318;3346111;34157;0;11
+r;428176789;3320890;34157;0;11
+r;10565966;190040;34157;0;12
+r;227595382;10044975;34157;0;12
+r;281321509;11091361;34157;0;12
+r;313710552;12051016;34157;0;12
+r;313713650;12051015;34157;0;12
+r;369391695;14537186;34157;0;12
+r;418111929;116999;34157;0;12
+r;418215331;47462;34157;0;12
+r;423615987;16163760;34157;0;12
+r;9900449;55249;34157;0;13
+r;9902238;9122;34157;0;13
+r;418023263;86779;34157;0;13
+r;9902184;42388;34157;0;14
+r;9907976;97684;34157;0;14
+r;418012076;119331;34157;0;14
+r;418024364;87402;34157;0;14
+r;97371905;110266;34157;0;15
+r;98310138;82020;34157;0;15
+r;109889062;5540549;34157;0;15
+r;218112869;1875009;34157;0;15
+r;218112843;595398;34157;0;15
+r;254170110;10351788;34157;0;15
+r;309746093;594649;34157;0;15
+r;309976881;676667;34157;0;15
+r;309976883;676668;34157;0;15
+r;409472326;15438494;34157;0;15
+r;409472424;15693395;34157;0;15
+r;409848062;227897;34157;0;15
+r;412026419;15542782;34157;0;15
+r;412028889;105055;34157;0;15
+r;412030528;15454554;34157;0;15
+r;418479952;158578;34157;0;15
+r;429991825;682992;34157;0;15
+r;431097612;15742659;34157;0;15
+r;431178289;15693394;34157;0;15
+r;431178389;15693393;34157;0;15
+r;431178489;15693392;34157;0;15
+r;431178589;15693391;34157;0;15
+r;241515253;10188256;34157;0;16
+r;309746095;594650;34157;0;16
+r;416130007;15953246;34157;0;18
+r;93505141;3747487;34157;0;20
+r;93505153;3747382;34157;0;20
+r;93505157;3747376;34157;0;20
+r;98666601;228603;34157;0;20
+r;103294869;91657;34157;0;20
+r;103294871;14269;34157;0;20
+r;396824911;7387392;34157;0;20
+r;369222092;3176085;34157;0;20
+r;369262456;313233;34157;0;20
+r;369321765;273798;34157;0;20
+r;432752318;14935550;34157;0;20
+r;395821648;7352001;34157;0;20
+r;395888317;8053054;34157;0;20
+r;396323189;15421164;34157;0;20
+r;396323240;15200889;34157;0;20
+r;399741939;15239602;34157;0;20
+r;402773883;9758817;34157;0;20
+r;405397571;266812;34157;0;20
+r;405934247;1781378;34157;0;20
+r;406923289;15434716;34157;0;20
+r;406929431;15624629;34157;0;20
+r;407858323;14943441;34157;0;20
+r;407860385;14967028;34157;0;20
+r;407869259;15082788;34157;0;20
+r;407871245;15268921;34157;0;20
+r;407873304;15268922;34157;0;20
+r;408026398;12260;34157;0;20
+r;408028019;15625987;34157;0;20
+r;408066334;138352;34157;0;20
+r;408157787;13823;34157;0;20
+r;408158581;14580306;34157;0;20
+r;408264005;143583;34157;0;20
+r;408437981;14931793;34157;0;20
+r;408440122;14918472;34157;0;20
+r;408568323;15413162;34157;0;20
+r;408927326;15197924;34157;0;20
+r;408927353;15197925;34157;0;20
+r;408936102;15363350;34157;0;20
+r;408949132;15436136;34157;0;20
+r;408951257;15629253;34157;0;20
+r;409960821;15413145;34157;0;20
+r;410132983;15370048;34157;0;20
+r;410146872;15232908;34157;0;20
+r;410732177;15284351;34157;0;20
+r;412236305;15451620;34157;0;20
+r;412239349;15793553;34157;0;20
+r;412242571;15793554;34157;0;20
+r;412246246;15451619;34157;0;20
+r;412744692;249373;34157;0;20
+r;413124258;14930526;34157;0;20
+r;413387132;8102615;34157;0;20
+r;414606549;95550;34157;0;20
+r;426343454;14952627;34157;0;20
+r;428025583;105060;34157;0;20
+r;430573483;14921679;34157;0;20
+r;431340030;15504447;34157;0;20
+r;431344516;15585014;34157;0;20
+r;431346943;15451581;34157;0;20
+r;432242957;15449409;34157;0;20
+r;432245467;15475159;34157;0;20
+r;432764106;14919121;34157;0;20
+r;1021811;27551;34157;0;21
+r;59522082;7170;34157;0;21
+r;97737463;66842;34157;0;21
+r;309995937;609419;34157;0;21
+r;310013430;600015;34157;0;21
+r;369190291;3318725;34157;0;21
+r;369336841;223595;34157;0;21
+r;369336913;222718;34157;0;21
+r;1008483;122704;34157;0;22
+r;1018975;110236;34157;0;22
+r;10565911;190039;34157;0;22
+r;30952584;132338;34157;0;22
+r;59521069;145064;34157;0;22
+r;98005262;236529;34157;0;22
+r;310013432;600016;34157;0;22
+r;370051009;14563751;34157;0;22
+r;374215580;14717701;34157;0;22
+r;423423325;16160724;34157;0;22
+r;423617143;16163822;34157;0;22
+r;423617216;16163827;34157;0;22
+r;15229272;214275;34157;0;23
+r;309953543;1448611;34157;0;23
+r;9985590;154455;34157;0;24
+r;12300745;14189;34157;0;24
+r;13469412;174839;34157;0;24
+r;97442742;42988;34157;0;24
+r;248863611;7123653;34157;0;25
+r;364195818;14304668;34157;0;25
+r;366486610;2522740;34157;0;25
+r;409848061;15781687;34157;0;25
+r;414999259;10881;34157;0;25
+r;415549161;15421155;34157;0;25
+r;415878286;15243329;34157;0;25
+r;415957181;14928089;34157;0;25
+r;415957183;15134107;34157;0;25
+r;415957185;15200896;34157;0;25
+r;416088682;14925548;34157;0;25
+r;418361913;16058928;34157;0;25
+r;423735301;199954;34157;0;25
+r;799529;116908;34157;0;26
+r;2066040;155458;34157;0;26
+r;24521135;1371375;34157;0;26
+r;76419363;3172362;34157;0;26
+r;97134367;134930;34157;0;26
+r;97334413;116466;34157;0;26
+r;415003789;141075;34157;0;26
+r;1556321;214927;34157;0;27
+r;1906078;130532;34157;0;27
+r;3125470;92178;34157;0;27
+r;11750612;320615;34157;0;27
+r;77061824;145405;34157;0;27
+r;54382564;56822;34157;0;27
+r;59229948;67811;34157;0;27
+r;82359637;587837;34157;0;27
+r;84583863;3170695;34157;0;27
+r;96665724;2449;34157;0;27
+r;415002328;38234;34157;0;27
+r;779957;144860;34157;0;28
+r;786871;90633;34157;0;28
+r;14451898;414207;34157;0;28
+r;87479212;158071;34157;0;28
+r;370008404;7309820;34157;0;28
+r;1697905;225125;34157;0;29
+r;1854303;234241;34157;0;29
+r;15549772;152552;34157;0;29
+r;74959055;3073495;34157;0;29
+r;96661044;229681;34157;0;29
+r;97458904;55101;34157;0;29
+r;369183350;3422247;34157;0;29
+r;786299;49402;34157;0;30
+r;927823;132479;34157;0;30
+r;2421481;158804;34157;0;30
+r;15231092;16033;34157;0;30
+r;24225892;1461663;34157;0;30
+r;31188883;181277;34157;0;30
+r;31188899;95459;34157;0;30
+r;31188906;151377;34157;0;30
+r;91533267;110160;34157;0;30
+r;96707751;117379;34157;0;30
+r;309687938;2338333;34157;0;30
+r;309995939;609420;34157;0;30
+r;368986546;11002848;34157;0;30
+r;414129672;15209853;34157;0;30
+r;397754490;15242565;34157;0;30
+r;398051441;7387368;34157;0;30
+r;406762608;7150386;34157;0;30
+r;407062907;14937690;34157;0;30
+r;407128637;122271;34157;0;30
+r;407298429;112986;34157;0;30
+r;407381023;15370044;34157;0;30
+r;407381301;15432987;34157;0;30
+r;407880894;137288;34157;0;30
+r;408180097;7290984;34157;0;30
+r;408377611;15596187;34157;0;30
+r;408488120;15083767;34157;0;30
+r;409023665;15396823;34157;0;30
+r;409338671;15223803;34157;0;30
+r;409411803;15280684;34157;0;30
+r;409459643;14201666;34157;0;30
+r;409605573;15513179;34157;0;30
+r;410096444;14919506;34157;0;30
+r;412975600;15461809;34157;0;30
+r;412976448;15461811;34157;0;30
+r;412977219;198826;34157;0;30
+r;413164276;15226157;34157;0;30
+r;413186783;15461810;34157;0;30
+r;413979192;15209855;34157;0;30
+r;413980745;5165132;34157;0;30
+r;414131147;15209854;34157;0;30
+r;418860364;15226272;34157;0;30
+r;426343207;7387372;34157;0;30
+r;430406992;15687799;34157;0;30
+r;430410246;15687798;34157;0;30
+r;430413495;15431484;34157;0;30
+r;430416744;15431483;34157;0;30
+r;430963086;15196409;34157;0;30
+r;432467323;15447902;34157;0;30
+r;1547274;214301;34157;0;31
+r;13061718;229905;34157;0;31
+r;15762905;54938;34157;0;31
+r;31736891;1969859;34157;0;31
+r;61531028;2528020;34157;0;31
+r;99410526;325703;34157;0;31
+r;91587322;3672011;34157;0;31
+r;96926348;157931;34157;0;31
+r;97123468;53310;34157;0;31
+r;120309991;2140328;34157;0;31
+r;1767547;229246;34157;0;32
+r;1859667;234684;34157;0;32
+r;106001450;5145775;34157;0;32
+r;212308202;8085244;34157;0;32
+r;310432300;1575148;34157;0;32
+r;9913199;247132;34157;0;33
+r;12263087;6657;34157;0;33
+r;31188902;83344;34157;0;33
+r;1809887;215337;34157;0;34
+r;30286675;1869393;34157;0;34
+r;97340253;184143;34157;0;34
+r;1535409;213563;34157;0;35
+r;1642672;221567;34157;0;35
+r;1701356;43812;34157;0;35
+r;1890375;213349;34157;0;35
+r;1894550;232937;34157;0;35
+r;2160410;240351;34157;0;35
+r;12350911;104695;34157;0;35
+r;15735873;437895;34157;0;35
+r;97677899;37688;34157;0;35
+r;212353421;7387370;34157;0;35
+r;409410601;14921147;34157;0;35
+r;409410831;14936687;34157;0;35
+r;76812996;58433;34157;0;36
+r;1568451;215659;34157;0;37
+r;2018250;242716;34157;0;37
+r;31188915;1927864;34157;0;37
+r;91506840;3671569;34157;0;37
+r;97329583;141817;34157;0;37
+r;413164227;15226156;34157;0;37
+r;1889473;231675;34157;0;38
+r;31188912;1927863;34157;0;38
+r;91485481;3672010;34157;0;38
+r;91602364;62217;34157;0;38
+r;108140475;5502033;34157;0;38
+r;413164218;15226155;34157;0;38
+r;1840417;232953;34157;0;39
+r;3171180;269976;34157;0;40
+r;31188896;11954;34157;0;40
+r;31188921;1927866;34157;0;40
+r;96931208;3314;34157;0;40
+r;310669684;682991;34157;0;40
+r;369356607;183420;34157;0;40
+r;395677952;15200895;34157;0;40
+r;395831521;15200894;34157;0;40
+r;396305805;14927328;34157;0;40
+r;404737524;7290836;34157;0;40
+r;405542986;15550128;34157;0;40
+r;405543014;15423859;34157;0;40
+r;405675481;15444459;34157;0;40
+r;405675595;15513291;34157;0;40
+r;405909370;14916989;34157;0;40
+r;405909515;14932682;34157;0;40
+r;405909783;7440920;34157;0;40
+r;406666518;15450781;34157;0;40
+r;406719285;2581184;34157;0;40
+r;406729622;15513297;34157;0;40
+r;406729720;15513296;34157;0;40
+r;406729818;15513295;34157;0;40
+r;406729928;15504724;34157;0;40
+r;406730025;15504725;34157;0;40
+r;406730122;15513293;34157;0;40
+r;406730219;15513292;34157;0;40
+r;406730316;15504726;34157;0;40
+r;406762570;15550126;34157;0;40
+r;406762682;15550127;34157;0;40
+r;406925330;15624627;34157;0;40
+r;406927408;15624628;34157;0;40
+r;407019846;15549324;34157;0;40
+r;407019950;15430096;34157;0;40
+r;407020161;90891;34157;0;40
+r;407062030;15414342;34157;0;40
+r;407063656;15450782;34157;0;40
+r;407709433;14952626;34157;0;40
+r;407853992;15444859;34157;0;40
+r;407856054;15662926;34157;0;40
+r;408198425;14919076;34157;0;40
+r;408525921;159756;34157;0;40
+r;409409772;7053768;34157;0;40
+r;409410500;14921152;34157;0;40
+r;409410722;15430102;34157;0;40
+r;409410941;15060006;34157;0;40
+r;409412152;15697391;34157;0;40
+r;409412250;15437658;34157;0;40
+r;409471653;3259920;34157;0;40
+r;409471751;15422749;34157;0;40
+r;409962306;14923399;34157;0;40
+r;410506613;15700555;34157;0;40
+r;410731027;15437659;34157;0;40
+r;410731126;15697390;34157;0;40
+r;412856820;15203201;34157;0;40
+r;412870356;15226154;34157;0;40
+r;412907335;15253373;34157;0;40
+r;426099445;16037542;34157;0;40
+r;426102471;15701973;34157;0;40
+r;426105475;15335510;34157;0;40
+r;426109016;15596506;34157;0;40
+r;429113066;15148259;34157;0;40
+r;429773500;15513302;34157;0;40
+r;429776793;15444464;34157;0;40
+r;2421215;250195;34157;0;42
+r;30391396;1880984;34157;0;42
+r;1558642;214227;34157;0;45
+r;1679806;66163;34157;0;45
+r;1756313;225993;34157;0;45
+r;108348619;3172052;34157;0;45
+r;414123543;165458;34157;0;45
+r;406719425;197117;34157;0;45
+r;407101771;15106535;34157;0;45
+r;407103131;15490895;34157;0;45
+r;407103246;15215796;34157;0;45
+r;407103506;15226269;34157;0;45
+r;408274162;14949114;34157;0;45
+r;113765170;5827846;34157;0;48
+r;97451858;157720;34157;0;49
+r;108291389;5514426;34157;0;49
+r;213868000;9464979;34157;0;50
+r;213868011;9464974;34157;0;50
+r;213868805;9464417;34157;0;50
+r;213880824;9465673;34157;0;50
+r;213880888;9465370;34157;0;50
+r;214088001;9491603;34157;0;50
+r;214088013;9491601;34157;0;50
+r;217115998;9667219;34157;0;50
+r;397497363;15380743;34157;0;50
+r;402120137;15380757;34157;0;50
+r;402104117;15379205;34157;0;50
+r;396306075;15231311;34157;0;50
+r;398941154;219379;34157;0;50
+r;405080272;14925873;34157;0;50
+r;405081865;15424221;34157;0;50
+r;405197952;15206823;34157;0;50
+r;405522366;15433503;34157;0;50
+r;406581119;15224244;34157;0;50
+r;407359333;259489;34157;0;50
+r;411805677;15421157;34157;0;50
+r;413387218;14939184;34157;0;50
+r;413387304;15437146;34157;0;50
+r;426342437;15421171;34157;0;50
+r;15804;35072;34157;0;51
+r;1528500;213118;34157;0;51
+r;1617775;218283;34157;0;51
+r;2218268;124836;34157;0;51
+r;2346672;239130;34157;0;51
+r;2483820;242294;34157;0;51
+r;14694840;437050;34157;0;51
+r;10575417;114637;34157;0;51
+r;11530050;58741;34157;0;51
+r;11595373;329156;34157;0;51
+r;11699631;238400;34157;0;51
+r;12008138;313235;34157;0;51
+r;13080879;159594;34157;0;51
+r;13084209;65767;34157;0;51
+r;14002042;395893;34157;0;51
+r;14689427;437341;34157;0;51
+r;23220568;436962;34157;0;51
+r;24910430;255286;34157;0;51
+r;72834165;215305;34157;0;51
+r;34323926;183644;34157;0;51
+r;34324313;119691;34157;0;51
+r;55918716;2609010;34157;0;51
+r;73007350;214976;34157;0;51
+r;76622670;104275;34157;0;51
+r;76813397;3181030;34157;0;51
+r;76962739;459765;34157;0;51
+r;77760602;162821;34157;0;51
+r;83649817;3318745;34157;0;51
+r;83669177;3319878;34157;0;51
+r;86126598;3359214;34157;0;51
+r;86126796;3359231;34157;0;51
+r;86130289;3359472;34157;0;51
+r;86132103;3372047;34157;0;51
+r;86132260;3372028;34157;0;51
+r;86132668;3371979;34157;0;51
+r;86139960;3371059;34157;0;51
+r;86142597;3370727;34157;0;51
+r;86142723;3370710;34157;0;51
+r;86144275;3370535;34157;0;51
+r;86146032;3370332;34157;0;51
+r;86148868;3369986;34157;0;51
+r;86148886;3369984;34157;0;51
+r;86154760;3369262;34157;0;51
+r;86167223;3367822;34157;0;51
+r;86167580;3367772;34157;0;51
+r;86167689;3367757;34157;0;51
+r;86175332;3366832;34157;0;51
+r;86177220;3366601;34157;0;51
+r;86185855;3365639;34157;0;51
+r;86185975;3365629;34157;0;51
+r;86186122;3365615;34157;0;51
+r;86186300;3365597;34157;0;51
+r;86186312;3365596;34157;0;51
+r;86187222;3365510;34157;0;51
+r;86189418;3365296;34157;0;51
+r;86190406;3365196;34157;0;51
+r;86194348;3364716;34157;0;51
+r;86194613;3364682;34157;0;51
+r;86194703;3364674;34157;0;51
+r;86194778;3364667;34157;0;51
+r;86195538;3364560;34157;0;51
+r;86195769;3364529;34157;0;51
+r;86196848;3364366;34157;0;51
+r;86197658;3364280;34157;0;51
+r;86198769;3364103;34157;0;51
+r;86205351;3363258;34157;0;51
+r;86205985;3363167;34157;0;51
+r;86206155;3363142;34157;0;51
+r;86206191;3363137;34157;0;51
+r;86207660;3362946;34157;0;51
+r;86207732;3362939;34157;0;51
+r;86208126;3362895;34157;0;51
+r;86209353;3362770;34157;0;51
+r;86209453;3362761;34157;0;51
+r;86217605;3359648;34157;0;51
+r;86217661;3359662;34157;0;51
+r;86220182;3373577;34157;0;51
+r;86220299;3373546;34157;0;51
+r;86220829;3372821;34157;0;51
+r;86221352;3372244;34157;0;51
+r;86221753;3359760;34157;0;51
+r;86225519;3359867;34157;0;51
+r;86225921;3359968;34157;0;51
+r;86229125;3359947;34157;0;51
+r;86229521;3360308;34157;0;51
+r;86230922;3360294;34157;0;51
+r;86234693;3360618;34157;0;51
+r;86235200;3360724;34157;0;51
+r;86236098;3360720;34157;0;51
+r;86238954;3360870;34157;0;51
+r;86239777;3360885;34157;0;51
+r;86253670;3361703;34157;0;51
+r;86253822;3361431;34157;0;51
+r;86254556;3361820;34157;0;51
+r;93457405;3743658;34157;0;51
+r;93460727;3743919;34157;0;51
+r;93463501;3744245;34157;0;51
+r;93467141;3744557;34157;0;51
+r;93469708;3744537;34157;0;51
+r;93471720;3744866;34157;0;51
+r;93484412;3744976;34157;0;51
+r;93485712;3745058;34157;0;51
+r;93487372;3745095;34157;0;51
+r;93489409;3745293;34157;0;51
+r;93493635;3746764;34157;0;51
+r;93494967;3746598;34157;0;51
+r;93497785;3746250;34157;0;51
+r;93500204;3745954;34157;0;51
+r;93500221;3745952;34157;0;51
+r;93501092;3745850;34157;0;51
+r;93501916;3745756;34157;0;51
+r;93502941;3745627;34157;0;51
+r;93585697;3751002;34157;0;51
+r;93662299;3757858;34157;0;51
+r;93663364;3757738;34157;0;51
+r;93670903;3756929;34157;0;51
+r;93671267;3756892;34157;0;51
+r;93673019;3756683;34157;0;51
+r;93678137;3756131;34157;0;51
+r;93681800;3755749;34157;0;51
+r;93682993;3755639;34157;0;51
+r;93684006;3755521;34157;0;51
+r;93684284;3755492;34157;0;51
+r;93688929;3755091;34157;0;51
+r;93697117;3754199;34157;0;51
+r;93706826;3753177;34157;0;51
+r;93709236;3752918;34157;0;51
+r;93717308;3752036;34157;0;51
+r;93718278;3751938;34157;0;51
+r;93720333;3751715;34157;0;51
+r;97120951;45545;34157;0;51
+r;105903675;5141723;34157;0;51
+r;212537765;7572110;34157;0;51
+r;276633419;263309;34157;0;51
+r;291369161;3706228;34157;0;51
+r;367701353;3313129;34157;0;51
+r;423546474;2355240;34157;0;51
+r;369743031;3019560;34157;0;51
+r;369743598;3019575;34157;0;51
+r;369743778;3019580;34157;0;51
+r;369917885;9803932;34157;0;51
+r;370901784;14376144;34157;0;51
+r;371418622;155079;34157;0;51
+r;371522350;3373024;34157;0;51
+r;371522362;357215;34157;0;51
+r;372939357;14159511;34157;0;51
+r;373155582;14670895;34157;0;51
+r;374305132;14716569;34157;0;51
+r;374305173;14716567;34157;0;51
+r;375558615;14730917;34157;0;51
+r;414558062;14727853;34157;0;51
+r;418958847;10194521;34157;0;51
+r;423712706;16163754;34157;0;51
+r;423712725;16163753;34157;0;51
+r;423717686;16163828;34157;0;51
+r;423717718;16163837;34157;0;51
+r;423717815;16163842;34157;0;51
+r;423717833;16163841;34157;0;51
+r;423717862;16163836;34157;0;51
+r;423717948;16163843;34157;0;51
+r;423717984;16163848;34157;0;51
+r;423718003;16163838;34157;0;51
+r;423718105;16163847;34157;0;51
+r;423718139;16163849;34157;0;51
+r;423718165;16163850;34157;0;51
+r;428803828;9244920;34157;0;51
+r;230878;141883;34157;0;52
+r;2269336;155141;34157;0;52
+r;24971745;1529878;34157;0;52
+r;83639352;3318491;34157;0;52
+r;83640606;3318412;34157;0;52
+r;83669155;3319880;34157;0;52
+r;86129149;3359347;34157;0;52
+r;86134412;3371737;34157;0;52
+r;86136855;3371438;34157;0;52
+r;86138765;3371219;34157;0;52
+r;86141258;3370905;34157;0;52
+r;86143451;3370630;34157;0;52
+r;86143655;3370608;34157;0;52
+r;86145932;3370342;34157;0;52
+r;86145943;3370341;34157;0;52
+r;86146023;3370333;34157;0;52
+r;86146075;3370329;34157;0;52
+r;86148856;3369987;34157;0;52
+r;86151729;3369644;34157;0;52
+r;86152556;3369549;34157;0;52
+r;86181022;3366153;34157;0;52
+r;86182935;3365933;34157;0;52
+r;86182995;3365927;34157;0;52
+r;86183042;3365922;34157;0;52
+r;86185364;3365681;34157;0;52
+r;86189862;3365251;34157;0;52
+r;86192966;3364903;34157;0;52
+r;86193285;3364855;34157;0;52
+r;86193447;3364833;34157;0;52
+r;86193662;3364807;34157;0;52
+r;86194356;3364715;34157;0;52
+r;86194561;3364687;34157;0;52
+r;86194633;3364680;34157;0;52
+r;86194666;3364677;34157;0;52
+r;86194845;3364662;34157;0;52
+r;86195509;3364563;34157;0;52
+r;86197665;3364279;34157;0;52
+r;86197849;3364249;34157;0;52
+r;86198665;3364123;34157;0;52
+r;86204652;3363355;34157;0;52
+r;86205038;3363299;34157;0;52
+r;86206704;3363069;34157;0;52
+r;86206851;3363049;34157;0;52
+r;86207166;3363011;34157;0;52
+r;86207177;3363010;34157;0;52
+r;86207307;3362992;34157;0;52
+r;86207485;3362969;34157;0;52
+r;86207616;3362951;34157;0;52
+r;86207748;3362937;34157;0;52
+r;86208113;3362896;34157;0;52
+r;86208557;3362857;34157;0;52
+r;86209211;3362784;34157;0;52
+r;86209229;3362782;34157;0;52
+r;86209322;3362773;34157;0;52
+r;86211845;3362451;34157;0;52
+r;86211854;3362450;34157;0;52
+r;86211863;3362449;34157;0;52
+r;86211897;3362445;34157;0;52
+r;86215672;3361111;34157;0;52
+r;86220533;3373338;34157;0;52
+r;86224583;3359962;34157;0;52
+r;86234316;3360304;34157;0;52
+r;86235460;3360732;34157;0;52
+r;86235533;3360725;34157;0;52
+r;86241687;3361075;34157;0;52
+r;86245891;3361377;34157;0;52
+r;86254083;3361648;34157;0;52
+r;93450880;3743696;34157;0;52
+r;93457233;3743845;34157;0;52
+r;93457643;3743851;34157;0;52
+r;93459689;3744063;34157;0;52
+r;93468450;3744647;34157;0;52
+r;93470458;3744747;34157;0;52
+r;93470857;3744541;34157;0;52
+r;93486847;3745127;34157;0;52
+r;93489128;3745277;34157;0;52
+r;93489802;3745302;34157;0;52
+r;93490378;3745328;34157;0;52
+r;93491256;3745415;34157;0;52
+r;93493580;3746772;34157;0;52
+r;93494264;3746688;34157;0;52
+r;93494899;3746608;34157;0;52
+r;93495213;3746568;34157;0;52
+r;93495739;3746502;34157;0;52
+r;93497953;3746229;34157;0;52
+r;93499272;3746073;34157;0;52
+r;93500026;3745978;34157;0;52
+r;93502946;3745626;34157;0;52
+r;93503979;3745501;34157;0;52
+r;93504868;3744393;34157;0;52
+r;93630737;3751455;34157;0;52
+r;93630963;3751483;34157;0;52
+r;93649105;3759262;34157;0;52
+r;93655591;3758569;34157;0;52
+r;93655971;3758532;34157;0;52
+r;93658479;3758264;34157;0;52
+r;93659716;3758137;34157;0;52
+r;93663840;3757687;34157;0;52
+r;93666391;3757408;34157;0;52
+r;93668670;3757167;34157;0;52
+r;93670794;3756940;34157;0;52
+r;93673549;3756631;34157;0;52
+r;93676443;3756314;34157;0;52
+r;93676597;3756293;34157;0;52
+r;93678428;3756104;34157;0;52
+r;93686573;3755354;34157;0;52
+r;93693483;3754589;34157;0;52
+r;93696157;3754298;34157;0;52
+r;93708050;3753049;34157;0;52
+r;93714906;3752303;34157;0;52
+r;93717721;3751994;34157;0;52
+r;94044195;3758281;34157;0;52
+r;142454;146033;34157;0;53
+r;370491;153975;34157;0;53
+r;2214518;249068;34157;0;53
+r;14691699;436744;34157;0;53
+r;34508175;2345254;34157;0;53
+r;83637276;3318551;34157;0;53
+r;83639242;3318547;34157;0;53
+r;83669188;3319877;34157;0;53
+r;86126953;3359124;34157;0;53
+r;86131721;3372089;34157;0;53
+r;86132249;3372029;34157;0;53
+r;86134332;3371748;34157;0;53
+r;86140873;3370953;34157;0;53
+r;86141124;3370924;34157;0;53
+r;86141220;3370911;34157;0;53
+r;86141286;3370901;34157;0;53
+r;86141626;3370859;34157;0;53
+r;86142647;3370721;34157;0;53
+r;86145914;3370344;34157;0;53
+r;86145952;3370340;34157;0;53
+r;86145963;3370339;34157;0;53
+r;86146084;3370328;34157;0;53
+r;86146312;3370301;34157;0;53
+r;86147069;3370201;34157;0;53
+r;86152784;3369517;34157;0;53
+r;86163499;3368293;34157;0;53
+r;86164585;3368157;34157;0;53
+r;86167738;3367750;34157;0;53
+r;86175420;3366821;34157;0;53
+r;86175530;3366809;34157;0;53
+r;86175543;3366808;34157;0;53
+r;86177003;3366625;34157;0;53
+r;86177214;3366602;34157;0;53
+r;86178517;3366451;34157;0;53
+r;86180069;3366266;34157;0;53
+r;86182871;3365939;34157;0;53
+r;86182962;3365931;34157;0;53
+r;86183031;3365923;34157;0;53
+r;86184642;3365755;34157;0;53
+r;86185497;3365668;34157;0;53
+r;86185830;3365641;34157;0;53
+r;86186132;3365614;34157;0;53
+r;86187902;3365443;34157;0;53
+r;86188934;3365343;34157;0;53
+r;86193326;3364850;34157;0;53
+r;86193438;3364834;34157;0;53
+r;86193636;3364811;34157;0;53
+r;86193676;3364805;34157;0;53
+r;86193703;3364803;34157;0;53
+r;86194268;3364728;34157;0;53
+r;86194378;3364712;34157;0;53
+r;86194677;3364676;34157;0;53
+r;86194721;3364672;34157;0;53
+r;86194730;3364671;34157;0;53
+r;86194748;3364669;34157;0;53
+r;86196996;3364347;34157;0;53
+r;86197728;3364270;34157;0;53
+r;86198439;3364162;34157;0;53
+r;86198891;3364080;34157;0;53
+r;86201915;3363689;34157;0;53
+r;86205606;3363224;34157;0;53
+r;86205633;3363219;34157;0;53
+r;86206505;3363094;34157;0;53
+r;86206825;3363053;34157;0;53
+r;86209135;3362791;34157;0;53
+r;86209164;3362788;34157;0;53
+r;86209289;3362776;34157;0;53
+r;86209313;3362774;34157;0;53
+r;86209371;3362768;34157;0;53
+r;86209442;3362762;34157;0;53
+r;86210728;3362602;34157;0;53
+r;86211666;3362477;34157;0;53
+r;86211786;3362460;34157;0;53
+r;86211937;3362441;34157;0;53
+r;86220105;3359632;34157;0;53
+r;86220307;3373545;34157;0;53
+r;86227376;3359868;34157;0;53
+r;86244939;3361270;34157;0;53
+r;86246314;3361378;34157;0;53
+r;93456100;3743645;34157;0;53
+r;93459832;3743838;34157;0;53
+r;93460049;3743913;34157;0;53
+r;93466005;3744499;34157;0;53
+r;93468330;3744491;34157;0;53
+r;93469327;3744707;34157;0;53
+r;93470071;3744634;34157;0;53
+r;93470702;3744789;34157;0;53
+r;93489065;3745154;34157;0;53
+r;93489470;3745284;34157;0;53
+r;93489999;3745339;34157;0;53
+r;93491320;3745424;34157;0;53
+r;93495110;3746580;34157;0;53
+r;93495171;3746572;34157;0;53
+r;93495686;3746510;34157;0;53
+r;93495777;3746498;34157;0;53
+r;93497885;3746239;34157;0;53
+r;93498424;3746173;34157;0;53
+r;93500342;3745937;34157;0;53
+r;93500775;3745887;34157;0;53
+r;93504520;3745398;34157;0;53
+r;93653866;3758746;34157;0;53
+r;93656991;3758423;34157;0;53
+r;93657007;3758422;34157;0;53
+r;93658769;3758235;34157;0;53
+r;93660107;3758089;34157;0;53
+r;93669286;3757099;34157;0;53
+r;93678419;3756105;34157;0;53
+r;93680809;3755853;34157;0;53
+r;93686907;3755315;34157;0;53
+r;93687571;3755242;34157;0;53
+r;93700346;3753872;34157;0;53
+r;93708225;3753031;34157;0;53
+r;93984926;3756246;34157;0;53
+r;98273979;8515;34157;0;53
+r;125393;67819;34157;0;54
+r;149437;146357;34157;0;54
+r;197919;144496;34157;0;54
+r;207980;115155;34157;0;54
+r;892439;143532;34157;0;54
+r;1833709;139410;34157;0;54
+r;15947464;440636;34157;0;54
+r;15947469;440637;34157;0;54
+r;30716477;1906563;34157;0;54
+r;31821905;1973385;34157;0;54
+r;83633084;3318481;34157;0;54
+r;83649810;3318712;34157;0;54
+r;83650162;3318766;34157;0;54
+r;83674482;3321752;34157;0;54
+r;86126102;3359215;34157;0;54
+r;86126833;3359229;34157;0;54
+r;86133945;3371801;34157;0;54
+r;86136928;3371429;34157;0;54
+r;86141765;3370839;34157;0;54
+r;86142359;3370762;34157;0;54
+r;86142603;3370726;34157;0;54
+r;86142619;3370724;34157;0;54
+r;86145668;3370371;34157;0;54
+r;86146283;3370304;34157;0;54
+r;86148898;3369982;34157;0;54
+r;86148913;3369980;34157;0;54
+r;86153347;3369436;34157;0;54
+r;86153522;3369414;34157;0;54
+r;86154765;3369261;34157;0;54
+r;86154949;3369238;34157;0;54
+r;86160690;3368619;34157;0;54
+r;86165005;3368100;34157;0;54
+r;86167629;3367765;34157;0;54
+r;86173554;3367066;34157;0;54
+r;86175220;3366844;34157;0;54
+r;86175729;3366790;34157;0;54
+r;86180055;3366268;34157;0;54
+r;86183127;3365914;34157;0;54
+r;86183779;3365849;34157;0;54
+r;86185766;3365648;34157;0;54
+r;86186775;3365551;34157;0;54
+r;86187137;3365517;34157;0;54
+r;86187616;3365472;34157;0;54
+r;86188281;3365408;34157;0;54
+r;86193655;3364808;34157;0;54
+r;86193689;3364804;34157;0;54
+r;86193919;3364773;34157;0;54
+r;86194116;3364748;34157;0;54
+r;86194581;3364685;34157;0;54
+r;86194690;3364675;34157;0;54
+r;86194739;3364670;34157;0;54
+r;86194794;3364666;34157;0;54
+r;86195401;3364579;34157;0;54
+r;86196313;3364451;34157;0;54
+r;86206394;3363110;34157;0;54
+r;86206680;3363071;34157;0;54
+r;86206693;3363070;34157;0;54
+r;86207704;3362942;34157;0;54
+r;86208465;3362866;34157;0;54
+r;86208743;3362839;34157;0;54
+r;86209220;3362783;34157;0;54
+r;86210520;3362624;34157;0;54
+r;86210578;3362619;34157;0;54
+r;86211660;3362478;34157;0;54
+r;86211688;3362475;34157;0;54
+r;86211758;3362464;34157;0;54
+r;86211808;3362457;34157;0;54
+r;86211879;3362447;34157;0;54
+r;86220904;3372719;34157;0;54
+r;86221891;3359727;34157;0;54
+r;86223565;3359778;34157;0;54
+r;86225428;3360026;34157;0;54
+r;86230143;3360338;34157;0;54
+r;86232077;3360345;34157;0;54
+r;86236803;3360731;34157;0;54
+r;86242267;3361096;34157;0;54
+r;86242285;3361038;34157;0;54
+r;86242631;3361134;34157;0;54
+r;86252120;3361625;34157;0;54
+r;86253010;3361702;34157;0;54
+r;86254260;3361373;34157;0;54
+r;93455826;3743849;34157;0;54
+r;93460429;3744131;34157;0;54
+r;93463127;3744249;34157;0;54
+r;93464864;3744182;34157;0;54
+r;93465114;3744299;34157;0;54
+r;93465722;3744472;34157;0;54
+r;93485036;3744801;34157;0;54
+r;93491942;3745182;34157;0;54
+r;93492454;3747404;34157;0;54
+r;93492536;3747394;34157;0;54
+r;93496484;3746409;34157;0;54
+r;93497557;3746279;34157;0;54
+r;93497868;3746241;34157;0;54
+r;93499691;3746020;34157;0;54
+r;93500049;3745975;34157;0;54
+r;93501244;3745832;34157;0;54
+r;93503076;3745611;34157;0;54
+r;93503694;3745535;34157;0;54
+r;93629574;3751366;34157;0;54
+r;93651006;3759036;34157;0;54
+r;93668156;3757223;34157;0;54
+r;93669588;3757068;34157;0;54
+r;93674871;3756491;34157;0;54
+r;93686917;3755314;34157;0;54
+r;93689519;3755028;34157;0;54
+r;93700390;3753867;34157;0;54
+r;93703434;3753545;34157;0;54
+r;93703464;3753543;34157;0;54
+r;93710285;3752798;34157;0;54
+r;93718020;3751965;34157;0;54
+r;97346089;19983;34157;0;54
+r;105903652;5141721;34157;0;54
+r;105903665;5141722;34157;0;54
+r;1679751;223931;34157;0;55
+r;1877306;213156;34157;0;55
+r;2210211;113547;34157;0;55
+r;2413947;163831;34157;0;55
+r;10873444;225291;34157;0;55
+r;14691333;436842;34157;0;55
+r;75980052;3159519;34157;0;55
+r;75981146;3159576;34157;0;55
+r;75983108;3159577;34157;0;55
+r;83640091;3318597;34157;0;55
+r;83642495;3318640;34157;0;55
+r;83649605;3318688;34157;0;55
+r;83674158;3318578;34157;0;55
+r;84893508;2944603;34157;0;55
+r;86232839;3360529;34157;0;55
+r;86134380;3371742;34157;0;55
+r;86135148;3371647;34157;0;55
+r;86140883;3370952;34157;0;55
+r;86141416;3370885;34157;0;55
+r;86141479;3370876;34157;0;55
+r;86142609;3370725;34157;0;55
+r;86145996;3370336;34157;0;55
+r;86146005;3370335;34157;0;55
+r;86146367;3370293;34157;0;55
+r;86148826;3369991;34157;0;55
+r;86148918;3369979;34157;0;55
+r;86152680;3369531;34157;0;55
+r;86152771;3369518;34157;0;55
+r;86153332;3369439;34157;0;55
+r;86162581;3368394;34157;0;55
+r;86165387;3368052;34157;0;55
+r;86173532;3367070;34157;0;55
+r;86175144;3366854;34157;0;55
+r;86175907;3366769;34157;0;55
+r;86176104;3366744;34157;0;55
+r;86177196;3366604;34157;0;55
+r;86181598;3366084;34157;0;55
+r;86182900;3365936;34157;0;55
+r;86183246;3365902;34157;0;55
+r;86185523;3365666;34157;0;55
+r;86185865;3365638;34157;0;55
+r;86188689;3365368;34157;0;55
+r;86188982;3365339;34157;0;55
+r;86193273;3364857;34157;0;55
+r;86193490;3364828;34157;0;55
+r;86194831;3364663;34157;0;55
+r;86195498;3364564;34157;0;55
+r;86196870;3364364;34157;0;55
+r;86206056;3363156;34157;0;55
+r;86206363;3363114;34157;0;55
+r;86206373;3363113;34157;0;55
+r;86206548;3363087;34157;0;55
+r;86206899;3363041;34157;0;55
+r;86206974;3363032;34157;0;55
+r;86207649;3362947;34157;0;55
+r;86207772;3362934;34157;0;55
+r;86208002;3362907;34157;0;55
+r;86208761;3362837;34157;0;55
+r;86209124;3362792;34157;0;55
+r;86209197;3362785;34157;0;55
+r;86210503;3362625;34157;0;55
+r;86211530;3362492;34157;0;55
+r;86211702;3362473;34157;0;55
+r;86213459;3362266;34157;0;55
+r;86221106;3372449;34157;0;55
+r;86221811;3359771;34157;0;55
+r;86223624;3359716;34157;0;55
+r;86229485;3360306;34157;0;55
+r;86233884;3360462;34157;0;55
+r;86235924;3360737;34157;0;55
+r;86241797;3360951;34157;0;55
+r;86241952;3361005;34157;0;55
+r;86253432;3361654;34157;0;55
+r;93454684;3743771;34157;0;55
+r;93459150;3744038;34157;0;55
+r;93462319;3744214;34157;0;55
+r;93466272;3744425;34157;0;55
+r;93468133;3744624;34157;0;55
+r;93484453;3745011;34157;0;55
+r;93485066;3744998;34157;0;55
+r;93489590;3745320;34157;0;55
+r;93491785;3745405;34157;0;55
+r;93492630;3746889;34157;0;55
+r;93492917;3746856;34157;0;55
+r;93494483;3746659;34157;0;55
+r;93496099;3746459;34157;0;55
+r;93497570;3746277;34157;0;55
+r;93497623;3746271;34157;0;55
+r;93498893;3746116;34157;0;55
+r;93500128;3745963;34157;0;55
+r;93501129;3745846;34157;0;55
+r;93587865;3751075;34157;0;55
+r;93597503;3751209;34157;0;55
+r;93654687;3758660;34157;0;55
+r;93656774;3758445;34157;0;55
+r;93659959;3758109;34157;0;55
+r;93662306;3757857;34157;0;55
+r;93667680;3757272;34157;0;55
+r;93672931;3756697;34157;0;55
+r;93674934;3756485;34157;0;55
+r;93681132;3755821;34157;0;55
+r;93681433;3755785;34157;0;55
+r;93682720;3755655;34157;0;55
+r;93684265;3755494;34157;0;55
+r;93691689;3754790;34157;0;55
+r;93699796;3753924;34157;0;55
+r;93715151;3752275;34157;0;55
+r;93720369;3751710;34157;0;55
+r;200593533;9101998;34157;0;55
+r;395823874;6936986;34157;0;55
+r;396306112;14927331;34157;0;55
+r;398134050;15148455;34157;0;55
+r;402867766;15064416;34157;0;55
+r;405080610;7029790;34157;0;55
+r;180537;143255;34157;0;56
+r;415106;145447;34157;0;56
+r;10894020;218051;34157;0;56
+r;18643639;179706;34157;0;56
+r;55916483;2609082;34157;0;56
+r;83636346;3318505;34157;0;56
+r;83636869;3318532;34157;0;56
+r;83640659;3318605;34157;0;56
+r;83641978;3318644;34157;0;56
+r;83647483;3318706;34157;0;56
+r;83674129;3318678;34157;0;56
+r;86132836;3371959;34157;0;56
+r;86134126;3371775;34157;0;56
+r;86134454;3371733;34157;0;56
+r;86137067;3371413;34157;0;56
+r;86137631;3371339;34157;0;56
+r;86138783;3371217;34157;0;56
+r;86141375;3370891;34157;0;56
+r;86141508;3370873;34157;0;56
+r;86142653;3370720;34157;0;56
+r;86145985;3370337;34157;0;56
+r;86146167;3370319;34157;0;56
+r;86147132;3370193;34157;0;56
+r;86150284;3369806;34157;0;56
+r;86153365;3369433;34157;0;56
+r;86155100;3369218;34157;0;56
+r;86164762;3368134;34157;0;56
+r;86175314;3366834;34157;0;56
+r;86175491;3366813;34157;0;56
+r;86177230;3366600;34157;0;56
+r;86180827;3366177;34157;0;56
+r;86181284;3366120;34157;0;56
+r;86183446;3365880;34157;0;56
+r;86183841;3365842;34157;0;56
+r;86183869;3365840;34157;0;56
+r;86185198;3365699;34157;0;56
+r;86185510;3365667;34157;0;56
+r;86185568;3365662;34157;0;56
+r;86186321;3365595;34157;0;56
+r;86189471;3365291;34157;0;56
+r;86189664;3365270;34157;0;56
+r;86190086;3365229;34157;0;56
+r;86193146;3364876;34157;0;56
+r;86193296;3364854;34157;0;56
+r;86193312;3364852;34157;0;56
+r;86193348;3364847;34157;0;56
+r;86193885;3364778;34157;0;56
+r;86194541;3364689;34157;0;56
+r;86194595;3364684;34157;0;56
+r;86194604;3364683;34157;0;56
+r;86194624;3364681;34157;0;56
+r;86194644;3364679;34157;0;56
+r;86194655;3364678;34157;0;56
+r;86194817;3364664;34157;0;56
+r;86194858;3364661;34157;0;56
+r;86195725;3364535;34157;0;56
+r;86199492;3359323;34157;0;56
+r;86204690;3363349;34157;0;56
+r;86206254;3363129;34157;0;56
+r;86206345;3363116;34157;0;56
+r;86206530;3363091;34157;0;56
+r;86207756;3362936;34157;0;56
+r;86209251;3362780;34157;0;56
+r;86209362;3362769;34157;0;56
+r;86209988;3362689;34157;0;56
+r;86210718;3362603;34157;0;56
+r;86211456;3362505;34157;0;56
+r;86211521;3362493;34157;0;56
+r;86211712;3362472;34157;0;56
+r;86211802;3362458;34157;0;56
+r;86211872;3362448;34157;0;56
+r;86211917;3362443;34157;0;56
+r;86211926;3362442;34157;0;56
+r;86211968;3362438;34157;0;56
+r;86211977;3362437;34157;0;56
+r;86216110;3360368;34157;0;56
+r;86220827;3372824;34157;0;56
+r;86221555;3359757;34157;0;56
+r;86222887;3359866;34157;0;56
+r;86224209;3359767;34157;0;56
+r;86226671;3360013;34157;0;56
+r;86231284;3360412;34157;0;56
+r;86235256;3360611;34157;0;56
+r;86243385;3360727;34157;0;56
+r;86251901;3361522;34157;0;56
+r;86252230;3361439;34157;0;56
+r;86253952;3361716;34157;0;56
+r;93447254;3743681;34157;0;56
+r;93454448;3743697;34157;0;56
+r;93454534;3743733;34157;0;56
+r;93455744;3743829;34157;0;56
+r;93457548;3743967;34157;0;56
+r;93457874;3743870;34157;0;56
+r;93458352;3743850;34157;0;56
+r;93467714;3744483;34157;0;56
+r;93480212;3744814;34157;0;56
+r;93489808;3745304;34157;0;56
+r;93492567;3747391;34157;0;56
+r;93493113;3746830;34157;0;56
+r;93494015;3746718;34157;0;56
+r;93496291;3746434;34157;0;56
+r;93496452;3746412;34157;0;56
+r;93498014;3746223;34157;0;56
+r;93499312;3746068;34157;0;56
+r;93500602;3745909;34157;0;56
+r;93501428;3745814;34157;0;56
+r;93501566;3745796;34157;0;56
+r;93502191;3745723;34157;0;56
+r;93503370;3745577;34157;0;56
+r;93586144;3750988;34157;0;56
+r;93629279;3751368;34157;0;56
+r;93654666;3758663;34157;0;56
+r;93658239;3758291;34157;0;56
+r;93666729;3757372;34157;0;56
+r;93667158;3757325;34157;0;56
+r;93676468;3756310;34157;0;56
+r;93677710;3756176;34157;0;56
+r;93680061;3755926;34157;0;56
+r;93685778;3755437;34157;0;56
+r;93696391;3754270;34157;0;56
+r;93697110;3754200;34157;0;56
+r;93703846;3753501;34157;0;56
+r;93703980;3753488;34157;0;56
+r;93706280;3753237;34157;0;56
+r;93714847;3752308;34157;0;56
+r;93714873;3752307;34157;0;56
+r;93720140;3751735;34157;0;56
+r;98736133;2372113;34157;0;56
+r;246140;22120;34157;0;57
+r;410188;28872;34157;0;57
+r;2467119;136017;34157;0;57
+r;10582926;189981;34157;0;57
+r;10873776;40056;34157;0;57
+r;83641327;3318637;34157;0;57
+r;83651926;3318852;34157;0;57
+r;83668185;3320074;34157;0;57
+r;86126902;3359240;34157;0;57
+r;86128439;3359177;34157;0;57
+r;86131756;3372086;34157;0;57
+r;86132018;3372055;34157;0;57
+r;86132419;3372008;34157;0;57
+r;86132659;3371980;34157;0;57
+r;86136649;3371467;34157;0;57
+r;86141733;3370843;34157;0;57
+r;86143129;3370660;34157;0;57
+r;86143606;3370613;34157;0;57
+r;86146014;3370334;34157;0;57
+r;86148904;3369981;34157;0;57
+r;86152795;3369516;34157;0;57
+r;86152804;3369515;34157;0;57
+r;86173550;3367067;34157;0;57
+r;86176254;3366725;34157;0;57
+r;86177020;3366623;34157;0;57
+r;86180114;3366261;34157;0;57
+r;86182104;3366028;34157;0;57
+r;86182922;3365934;34157;0;57
+r;86185086;3365711;34157;0;57
+r;86187031;3365527;34157;0;57
+r;86187589;3365476;34157;0;57
+r;86188124;3365423;34157;0;57
+r;86188977;3365340;34157;0;57
+r;86189500;3365288;34157;0;57
+r;86190074;3365230;34157;0;57
+r;86190696;3365162;34157;0;57
+r;86191112;3365111;34157;0;57
+r;86193479;3364829;34157;0;57
+r;86193831;3364785;34157;0;57
+r;86193967;3364767;34157;0;57
+r;86194712;3364673;34157;0;57
+r;86194867;3364660;34157;0;57
+r;86195529;3364561;34157;0;57
+r;86195614;3364551;34157;0;57
+r;86195677;3364543;34157;0;57
+r;86205152;3363282;34157;0;57
+r;86205374;3363254;34157;0;57
+r;86206454;3363101;34157;0;57
+r;86206472;3363098;34157;0;57
+r;86207424;3362977;34157;0;57
+r;86207693;3362943;34157;0;57
+r;86207713;3362941;34157;0;57
+r;86209260;3362779;34157;0;57
+r;86209428;3362763;34157;0;57
+r;86210835;3362589;34157;0;57
+r;86211774;3362462;34157;0;57
+r;86211834;3362452;34157;0;57
+r;86211908;3362444;34157;0;57
+r;86211946;3362440;34157;0;57
+r;86217322;3359649;34157;0;57
+r;86220172;3373579;34157;0;57
+r;86220178;3373578;34157;0;57
+r;86221948;3359764;34157;0;57
+r;86223982;3359726;34157;0;57
+r;86226447;3360094;34157;0;57
+r;86228604;3360180;34157;0;57
+r;86232412;3360339;34157;0;57
+r;86235216;3360721;34157;0;57
+r;86235364;3360588;34157;0;57
+r;86235441;3360740;34157;0;57
+r;86235749;3360741;34157;0;57
+r;86246196;3361157;34157;0;57
+r;86246658;3361435;34157;0;57
+r;86246808;3361257;34157;0;57
+r;86248313;3361468;34157;0;57
+r;86248659;3361447;34157;0;57
+r;93454898;3743780;34157;0;57
+r;93455720;3743695;34157;0;57
+r;93461368;3744057;34157;0;57
+r;93465972;3744352;34157;0;57
+r;93467856;3744617;34157;0;57
+r;93468879;3744632;34157;0;57
+r;93469175;3744623;34157;0;57
+r;93489486;3745193;34157;0;57
+r;93491709;3745346;34157;0;57
+r;93494490;3746658;34157;0;57
+r;93495637;3746514;34157;0;57
+r;93495926;3746482;34157;0;57
+r;93499031;3746102;34157;0;57
+r;93499230;3746078;34157;0;57
+r;93503465;3745564;34157;0;57
+r;93504268;3745458;34157;0;57
+r;93652422;3758887;34157;0;57
+r;93671092;3756910;34157;0;57
+r;93671951;3756814;34157;0;57
+r;93682510;3755678;34157;0;57
+r;93683767;3755550;34157;0;57
+r;93683858;3755540;34157;0;57
+r;93692256;3754721;34157;0;57
+r;93711106;3752704;34157;0;57
+r;93714709;3752328;34157;0;57
+r;94019691;3763823;34157;0;57
+r;95177816;3816465;34157;0;57
+r;98698733;3155006;34157;0;57
+r;275722;19150;34157;0;58
+r;1757382;228208;34157;0;58
+r;2426110;238398;34157;0;58
+r;2477581;252600;34157;0;58
+r;10892253;140315;34157;0;58
+r;11597122;327751;34157;0;58
+r;24971784;1529879;34157;0;58
+r;83648673;3318528;34157;0;58
+r;83650887;3318844;34157;0;58
+r;83651067;3318821;34157;0;58
+r;86129273;3359315;34157;0;58
+r;86131874;3372071;34157;0;58
+r;86136621;3371471;34157;0;58
+r;86136841;3371440;34157;0;58
+r;86138323;3371260;34157;0;58
+r;86141741;3370842;34157;0;58
+r;86141801;3370834;34157;0;58
+r;86142636;3370722;34157;0;58
+r;86145903;3370345;34157;0;58
+r;86146043;3370331;34157;0;58
+r;86148838;3369989;34157;0;58
+r;86148876;3369985;34157;0;58
+r;86149337;3369924;34157;0;58
+r;86153229;3369455;34157;0;58
+r;86153359;3369434;34157;0;58
+r;86153694;3369389;34157;0;58
+r;86160678;3368621;34157;0;58
+r;86167211;3367824;34157;0;58
+r;86175244;3366841;34157;0;58
+r;86175719;3366791;34157;0;58
+r;86176995;3366626;34157;0;58
+r;86177135;3366613;34157;0;58
+r;86187536;3365481;34157;0;58
+r;86188866;3365350;34157;0;58
+r;86188947;3365342;34157;0;58
+r;86192092;3364996;34157;0;58
+r;86194370;3364713;34157;0;58
+r;86194521;3364691;34157;0;58
+r;86194570;3364686;34157;0;58
+r;86195443;3364573;34157;0;58
+r;86195575;3364557;34157;0;58
+r;86196476;3364428;34157;0;58
+r;86205274;3363268;34157;0;58
+r;86205323;3363261;34157;0;58
+r;86205586;3363227;34157;0;58
+r;86206242;3363130;34157;0;58
+r;86207325;3362990;34157;0;58
+r;86207604;3362952;34157;0;58
+r;86208683;3362846;34157;0;58
+r;86209269;3362778;34157;0;58
+r;86209344;3362771;34157;0;58
+r;86209380;3362767;34157;0;58
+r;86211460;3362504;34157;0;58
+r;86211696;3362474;34157;0;58
+r;86211780;3362461;34157;0;58
+r;86213231;3362299;34157;0;58
+r;86216789;3359503;34157;0;58
+r;86220026;3359739;34157;0;58
+r;86220164;3373581;34157;0;58
+r;86220651;3373226;34157;0;58
+r;86220920;3372706;34157;0;58
+r;86222390;3359751;34157;0;58
+r;86223954;3359860;34157;0;58
+r;86229510;3360307;34157;0;58
+r;86229733;3360303;34157;0;58
+r;86230249;3360210;34157;0;58
+r;86240888;3360722;34157;0;58
+r;86241929;3361095;34157;0;58
+r;86242472;3361098;34157;0;58
+r;86245198;3361159;34157;0;58
+r;86245901;3361037;34157;0;58
+r;86247184;3361442;34157;0;58
+r;86247274;3361458;34157;0;58
+r;86248527;3361408;34157;0;58
+r;86254115;3361611;34157;0;58
+r;93455098;3743641;34157;0;58
+r;93462786;3744304;34157;0;58
+r;93465764;3744492;34157;0;58
+r;93466283;3744456;34157;0;58
+r;93481102;3744864;34157;0;58
+r;93486876;3745157;34157;0;58
+r;93489516;3745235;34157;0;58
+r;93490442;3745291;34157;0;58
+r;93491583;3745419;34157;0;58
+r;93497141;3746331;34157;0;58
+r;93497711;3746260;34157;0;58
+r;93503129;3745605;34157;0;58
+r;93649040;3759270;34157;0;58
+r;93660858;3758017;34157;0;58
+r;93662044;3757885;34157;0;58
+r;93670203;3757001;34157;0;58
+r;93674479;3756533;34157;0;58
+r;93676781;3756273;34157;0;58
+r;93677898;3756156;34157;0;58
+r;93678736;3756068;34157;0;58
+r;93682085;3755721;34157;0;58
+r;93683902;3755534;34157;0;58
+r;93688270;3755161;34157;0;58
+r;93693164;3754617;34157;0;58
+r;93696024;3754313;34157;0;58
+r;93698360;3754072;34157;0;58
+r;93703627;3753528;34157;0;58
+r;93706620;3753199;34157;0;58
+r;93707822;3753074;34157;0;58
+r;93714878;3752306;34157;0;58
+r;93719551;3751796;34157;0;58
+r;93721988;3751421;34157;0;58
+r;138370;73519;34157;0;59
+r;139885;145325;34157;0;59
+r;1759938;228184;34157;0;59
+r;1894478;95617;34157;0;59
+r;10582380;135190;34157;0;59
+r;11736478;11358;34157;0;59
+r;14691325;436843;34157;0;59
+r;30716541;1906543;34157;0;59
+r;76025974;3161674;34157;0;59
+r;75980388;3159511;34157;0;59
+r;83636845;3318521;34157;0;59
+r;83639672;3318391;34157;0;59
+r;83642575;3318596;34157;0;59
+r;83645985;3318649;34157;0;59
+r;83674484;3321749;34157;0;59
+r;86233457;3360566;34157;0;59
+r;86128516;3359298;34157;0;59
+r;86128687;3359359;34157;0;59
+r;86130366;3359300;34157;0;59
+r;86130419;3359304;34157;0;59
+r;86132033;3372054;34157;0;59
+r;86132058;3372051;34157;0;59
+r;86134609;3371718;34157;0;59
+r;86140542;3370999;34157;0;59
+r;86141434;3370882;34157;0;59
+r;86141749;3370841;34157;0;59
+r;86142132;3370791;34157;0;59
+r;86145892;3370346;34157;0;59
+r;86146061;3370330;34157;0;59
+r;86146826;3370236;34157;0;59
+r;86148922;3369978;34157;0;59
+r;86153038;3369483;34157;0;59
+r;86160653;3368623;34157;0;59
+r;86160765;3368605;34157;0;59
+r;86162733;3368374;34157;0;59
+r;86167187;3367828;34157;0;59
+r;86167815;3367741;34157;0;59
+r;86176183;3366734;34157;0;59
+r;86176215;3366729;34157;0;59
+r;86176241;3366726;34157;0;59
+r;86178795;3366416;34157;0;59
+r;86183009;3365925;34157;0;59
+r;86183157;3365911;34157;0;59
+r;86183950;3365830;34157;0;59
+r;86185190;3365700;34157;0;59
+r;86185286;3365689;34157;0;59
+r;86185546;3365664;34157;0;59
+r;86185669;3365654;34157;0;59
+r;86185843;3365640;34157;0;59
+r;86187869;3365447;34157;0;59
+r;86189364;3365301;34157;0;59
+r;86193848;3364784;34157;0;59
+r;86194342;3364717;34157;0;59
+r;86194364;3364714;34157;0;59
+r;86194808;3364665;34157;0;59
+r;86194880;3364659;34157;0;59
+r;86195807;3364523;34157;0;59
+r;86196357;3364445;34157;0;59
+r;86197646;3364282;34157;0;59
+r;86197712;3364272;34157;0;59
+r;86200462;3363873;34157;0;59
+r;86201176;3363773;34157;0;59
+r;86204583;3363365;34157;0;59
+r;86206295;3363123;34157;0;59
+r;86206616;3363079;34157;0;59
+r;86206666;3363073;34157;0;59
+r;86206738;3363064;34157;0;59
+r;86207096;3363018;34157;0;59
+r;86207559;3362959;34157;0;59
+r;86207640;3362948;34157;0;59
+r;86208009;3362906;34157;0;59
+r;86208414;3362871;34157;0;59
+r;86209146;3362790;34157;0;59
+r;86209173;3362787;34157;0;59
+r;86209242;3362781;34157;0;59
+r;86209280;3362777;34157;0;59
+r;86209398;3362765;34157;0;59
+r;86209411;3362764;34157;0;59
+r;86209851;3362711;34157;0;59
+r;86211512;3362494;34157;0;59
+r;86211644;3362480;34157;0;59
+r;86211768;3362463;34157;0;59
+r;86211888;3362446;34157;0;59
+r;86211957;3362439;34157;0;59
+r;86212497;3362393;34157;0;59
+r;86215721;3361089;34157;0;59
+r;86216198;3360041;34157;0;59
+r;86216216;3360016;34157;0;59
+r;86217546;3359566;34157;0;59
+r;86220219;3373569;34157;0;59
+r;86220717;3373032;34157;0;59
+r;86220990;3372629;34157;0;59
+r;86222314;3359761;34157;0;59
+r;86224480;3359870;34157;0;59
+r;86227495;3360192;34157;0;59
+r;86230599;3360305;34157;0;59
+r;86239744;3360959;34157;0;59
+r;86240402;3361008;34157;0;59
+r;86242403;3361081;34157;0;59
+r;86242477;3361003;34157;0;59
+r;86255319;3361816;34157;0;59
+r;86261572;3362069;34157;0;59
+r;93457503;3743724;34157;0;59
+r;93464612;3744316;34157;0;59
+r;93465499;3744397;34157;0;59
+r;93468293;3744349;34157;0;59
+r;93477669;3744920;34157;0;59
+r;93486188;3744967;34157;0;59
+r;93489289;3745188;34157;0;59
+r;93491187;3745377;34157;0;59
+r;93491603;3745387;34157;0;59
+r;93491629;3745441;34157;0;59
+r;93494562;3746650;34157;0;59
+r;93495895;3746485;34157;0;59
+r;93496261;3746439;34157;0;59
+r;93500496;3745921;34157;0;59
+r;93501168;3745840;34157;0;59
+r;93502310;3745707;34157;0;59
+r;93502461;3745689;34157;0;59
+r;93504180;3745474;34157;0;59
+r;93664655;3757597;34157;0;59
+r;93666093;3757444;34157;0;59
+r;93678941;3756048;34157;0;59
+r;93681607;3755769;34157;0;59
+r;93683745;3755553;34157;0;59
+r;93686338;3755374;34157;0;59
+r;93690455;3754921;34157;0;59
+r;93696011;3754315;34157;0;59
+r;93696041;3754311;34157;0;59
+r;93700126;3753893;34157;0;59
+r;93701921;3753710;34157;0;59
+r;93702363;3753661;34157;0;59
+r;93705845;3753288;34157;0;59
+r;93705884;3753283;34157;0;59
+r;93706901;3753169;34157;0;59
+r;93717121;3752059;34157;0;59
+r;93719556;3751795;34157;0;59
+r;105903493;5141685;34157;0;59
+r;66353;14759;34157;0;60
+r;195806;29118;34157;0;60
+r;224377;107364;34157;0;60
+r;233443;137759;34157;0;60
+r;265278;152769;34157;0;60
+r;379991;37289;34157;0;60
+r;386285;151579;34157;0;60
+r;415767;164790;34157;0;60
+r;416183;144283;34157;0;60
+r;433425;144482;34157;0;60
+r;1373813;31540;34157;0;60
+r;1467445;39586;34157;0;60
+r;1471651;26009;34157;0;60
+r;1570477;61283;34157;0;60
+r;1610022;216406;34157;0;60
+r;1692364;224755;34157;0;60
+r;1789697;64432;34157;0;60
+r;1807982;229747;34157;0;60
+r;1914442;238399;34157;0;60
+r;2010427;239463;34157;0;60
+r;2073205;225205;34157;0;60
+r;2076258;244626;34157;0;60
+r;2105395;238128;34157;0;60
+r;2183526;241286;34157;0;60
+r;2199600;4275;34157;0;60
+r;2203226;20351;34157;0;60
+r;2298822;157030;34157;0;60
+r;2577218;242953;34157;0;60
+r;2583917;181257;34157;0;60
+r;3089997;214789;34157;0;60
+r;3129518;236395;34157;0;60
+r;11551757;326797;34157;0;60
+r;14690535;437047;34157;0;60
+r;16975451;566600;34157;0;60
+r;34161154;214048;34157;0;60
+r;52444724;2567263;34157;0;60
+r;83674472;3321757;34157;0;60
+r;85005033;2953171;34157;0;60
+r;86233153;3360321;34157;0;60
+r;86125902;3359234;34157;0;60
+r;86131851;3372074;34157;0;60
+r;86132045;3372052;34157;0;60
+r;86134362;3371744;34157;0;60
+r;86138774;3371218;34157;0;60
+r;86141329;3370896;34157;0;60
+r;86145976;3370338;34157;0;60
+r;86161060;3368560;34157;0;60
+r;86164685;3368145;34157;0;60
+r;86167636;3367764;34157;0;60
+r;86167840;3367737;34157;0;60
+r;86173634;3367056;34157;0;60
+r;86173697;3367046;34157;0;60
+r;86181377;3366105;34157;0;60
+r;86183210;3365905;34157;0;60
+r;86185878;3365637;34157;0;60
+r;86185908;3365635;34157;0;60
+r;86186745;3365554;34157;0;60
+r;86193669;3364806;34157;0;60
+r;86193741;3364798;34157;0;60
+r;86194552;3364688;34157;0;60
+r;86194764;3364668;34157;0;60
+r;86195411;3364578;34157;0;60
+r;86195520;3364562;34157;0;60
+r;86195797;3364525;34157;0;60
+r;86196861;3364365;34157;0;60
+r;86204785;3363333;34157;0;60
+r;86205949;3363172;34157;0;60
+r;86206629;3363078;34157;0;60
+r;86207671;3362945;34157;0;60
+r;86207815;3362928;34157;0;60
+r;86208442;3362868;34157;0;60
+r;86209156;3362789;34157;0;60
+r;86209186;3362786;34157;0;60
+r;86209333;3362772;34157;0;60
+r;86209389;3362766;34157;0;60
+r;86209649;3362734;34157;0;60
+r;86211181;3362543;34157;0;60
+r;86211638;3362481;34157;0;60
+r;86211654;3362479;34157;0;60
+r;86212005;3362434;34157;0;60
+r;86213224;3362300;34157;0;60
+r;86219977;3359736;34157;0;60
+r;86220375;3373527;34157;0;60
+r;86222441;3359841;34157;0;60
+r;86224269;3359869;34157;0;60
+r;86224814;3359916;34157;0;60
+r;86224931;3360008;34157;0;60
+r;86239988;3360869;34157;0;60
+r;86243315;3361094;34157;0;60
+r;86245641;3361352;34157;0;60
+r;86252011;3361642;34157;0;60
+r;93454388;3743689;34157;0;60
+r;93455938;3743752;34157;0;60
+r;93456089;3743797;34157;0;60
+r;93462723;3743927;34157;0;60
+r;93470034;3744731;34157;0;60
+r;93471351;3744110;34157;0;60
+r;93481974;3744808;34157;0;60
+r;93488823;3745140;34157;0;60
+r;93489392;3745257;34157;0;60
+r;93491243;3745421;34157;0;60
+r;93492368;3747417;34157;0;60
+r;93493741;3746753;34157;0;60
+r;93495708;3746507;34157;0;60
+r;93498007;3746224;34157;0;60
+r;93499384;3746060;34157;0;60
+r;93500869;3745875;34157;0;60
+r;93501525;3745802;34157;0;60
+r;93502295;3745709;34157;0;60
+r;93502534;3745678;34157;0;60
+r;93503742;3745530;34157;0;60
+r;93503814;3745520;34157;0;60
+r;93629607;3751317;34157;0;60
+r;93648215;3759392;34157;0;60
+r;93648226;3759391;34157;0;60
+r;93650992;3759037;34157;0;60
+r;93655008;3758622;34157;0;60
+r;93658669;3758245;34157;0;60
+r;93674492;3756532;34157;0;60
+r;93678457;3756101;34157;0;60
+r;93687423;3755258;34157;0;60
+r;93690012;3754973;34157;0;60
+r;93693329;3754604;34157;0;60
+r;93704504;3753427;34157;0;60
+r;99007319;3171817;34157;0;60
+r;105903722;5141725;34157;0;60
+r;200555636;9101839;34157;0;60
+r;200558141;9101869;34157;0;60
+r;200589782;9102030;34157;0;60
+r;200591525;9101914;34157;0;60
+r;200597166;9102036;34157;0;60
+r;200683396;9102111;34157;0;60
+r;200683946;9102044;34157;0;60
+r;200684091;9102016;34157;0;60
+r;200684297;9101950;34157;0;60
+r;200684413;9101875;34157;0;60
+r;200684453;9101802;34157;0;60
+r;215424293;6891758;34157;0;60
+r;218078694;9749541;34157;0;60
+r;391094384;14949152;34157;0;60
+r;395754059;15251572;34157;0;60
+r;398034661;15134932;34157;0;60
+r;399201342;15220264;34157;0;60
+r;404715617;205358;34157;0;60
+r;405079830;15635348;34157;0;60
+r;405940030;15419222;34157;0;60
+r;405940059;15419223;34157;0;60
+r;406717377;15420405;34157;0;60
+r;406717410;15420406;34157;0;60
+r;406717449;14947936;34157;0;60
+r;408485512;15460238;34157;0;60
+r;408487879;15460234;34157;0;60
+r;408488229;15451650;34157;0;60
+r;408488475;15635340;34157;0;60
+r;409462991;141683;34157;0;60
+r;412261019;6950276;34157;0;60
+r;412698466;15421158;34157;0;60
+r;412698477;15421159;34157;0;60
+r;412781614;15420880;34157;0;60
+r;2293637;48575;34157;0;61
+r;11548162;326590;34157;0;61
+r;13079688;245124;34157;0;61
+r;26596186;140463;34157;0;61
+r;28589116;16480;34157;0;61
+r;30716472;1906569;34157;0;61
+r;55586128;261091;34157;0;61
+r;86224191;3359865;34157;0;61
+r;93471140;3744423;34157;0;61
+r;93486279;3745132;34157;0;61
+r;93488911;3745267;34157;0;61
+r;93497134;3746332;34157;0;61
+r;93501193;3745838;34157;0;61
+r;123144088;255347;34157;0;61
+r;263780789;265840;34157;0;61
+r;370647588;14376145;34157;0;61
+r;370906831;2348347;34157;0;61
+r;371175318;216403;34157;0;61
+r;374305461;14604625;34157;0;61
+r;375558494;14730916;34157;0;61
+r;423718061;16163845;34157;0;61
+r;85767081;3345992;34157;0;62
+r;86194532;3364690;34157;0;62
+r;93469965;3744648;34157;0;62
+r;75984280;3159632;34157;0;63
+r;83639307;3318565;34157;0;63
+r;93466200;3744512;34157;0;63
+r;93474872;3744534;34157;0;63
+r;93503872;3745513;34157;0;63
+r;74446718;3019582;34157;0;64
+r;1913439;152780;34157;0;65
+r;30716121;1906652;34157;0;65
+r;200556813;9101858;34157;0;65
+r;200557799;9101788;34157;0;65
+r;200558093;9101899;34157;0;65
+r;200559323;9101989;34157;0;65
+r;200578151;9101983;34157;0;65
+r;200625584;9102060;34157;0;65
+r;200664650;9102037;34157;0;65
+r;200683456;9102106;34157;0;65
+r;405078797;228548;34157;0;65
+r;405078842;15294644;34157;0;65
+r;405080131;260681;34157;0;65
+r;405080367;14925869;34157;0;65
+r;405080488;15460231;34157;0;65
+r;405080555;15460230;34157;0;65
+r;405080576;224048;34157;0;65
+r;405081915;15424222;34157;0;65
+r;405084902;15226270;34157;0;65
+r;407894205;15220487;34157;0;65
+r;412748230;15266819;34157;0;65
+r;1802438;155928;34157;0;66
+r;75982599;3159564;34157;0;66
+r;83716262;3322395;34157;0;66
+r;86127889;3359310;34157;0;66
+r;93454985;3743739;34157;0;66
+r;93480886;3744924;34157;0;66
+r;93492560;3747392;34157;0;66
+r;93498396;3746177;34157;0;66
+r;93469626;3744508;34157;0;67
+r;1982233;122420;34157;0;68
+r;30716283;1906612;34157;0;68
+r;93502733;3745653;34157;0;68
+r;93463320;3744330;34157;0;69
+r;93490728;3745359;34157;0;69
+r;184829;139383;34157;0;70
+r;421620;159709;34157;0;70
+r;623674;165851;34157;0;70
+r;1471422;165351;34157;0;70
+r;1659269;214930;34157;0;70
+r;1757820;141120;34157;0;70
+r;1883323;236453;34157;0;70
+r;2143194;224685;34157;0;70
+r;2145033;107132;34157;0;70
+r;2349635;255034;34157;0;70
+r;2482276;255455;34157;0;70
+r;78455318;2376737;34157;0;70
+r;83651192;3318448;34157;0;70
+r;86207682;3362944;34157;0;70
+r;93648114;3759407;34157;0;70
+r;396559591;15266578;34157;0;70
+r;401105942;15284350;34157;0;70
+r;401749514;15341002;34157;0;70
+r;401749550;15412681;34157;0;70
+r;401749882;266118;34157;0;70
+r;401750062;15460220;34157;0;70
+r;402354969;15226271;34157;0;70
+r;402354995;14927708;34157;0;70
+r;402355039;15413133;34157;0;70
+r;402835483;15284347;34157;0;70
+r;402837016;215308;34157;0;70
+r;402837123;15198946;34157;0;70
+r;402966557;15198940;34157;0;70
+r;402966619;15198941;34157;0;70
+r;405083452;15334692;34157;0;70
+r;407897246;15257614;34157;0;70
+r;407897407;15460219;34157;0;70
+r;408000785;15271959;34157;0;70
+r;412226661;260637;34157;0;70
+r;418795538;15978788;34157;0;70
+r;375442;64238;34157;0;71
+r;2463015;243883;34157;0;71
+r;9307965;164030;34157;0;71
+r;11580781;327955;34157;0;71
+r;87221907;3372310;34157;0;71
+r;125497369;88847;34157;0;71
+r;77536273;3223272;34157;0;72
+r;368783674;228315;34157;0;72
+r;30716309;1906607;34157;0;74
+r;9000859;249126;34157;0;75
+r;74446828;3019570;34157;0;75
+r;55471091;2604522;34157;0;76
+r;74446768;3019578;34157;0;76
+r;74446804;3019572;34157;0;76
+r;86209305;3362775;34157;0;76
+r;2141251;17186;34157;0;77
+r;93913169;215446;34157;0;77
+r;74446795;3019573;34157;0;79
+r;74446891;3019563;34157;0;79
+r;258379;152977;34157;0;80
+r;363778;153948;34157;0;80
+r;404855;102345;34157;0;80
+r;1636624;156678;34157;0;80
+r;1692183;53399;34157;0;80
+r;86207766;3362935;34157;0;80
+r;401798125;276260;34157;0;80
+r;401933688;8102607;34157;0;80
+r;408169627;14939755;34157;0;80
+r;146893;66324;34157;0;81
+r;12977872;257843;34157;0;81
+r;218100667;236468;34157;0;81
+r;368309104;11027544;34157;0;81
+r;74446845;3019568;34157;0;83
+r;1590786;154515;34157;0;84
+r;96703646;34761;34157;0;84
+r;74446727;3019581;34157;0;87
+r;74446935;3019558;34157;0;88
+r;74446897;3019562;34157;0;89
+r;421624;5834;34157;0;90
+r;1620503;155140;34157;0;90
+r;2106098;244991;34157;0;90
+r;31411496;1934479;34157;0;90
+r;74446872;3019564;34157;0;90
+r;213710700;9445781;34157;0;90
+r;402332770;14928085;34157;0;90
+r;13061717;153034;34157;0;91
+r;1534471;213516;34157;0;95
+r;396526896;15221547;34157;0;95
+r;21894271;1139041;34157;0;97
+r;83640667;3318433;34157;0;98
+r;97760646;809295;34157;0;100
+r;12560628;385197;34157;0;101
+r;12729418;343792;34157;0;101
+r;12729422;343791;34157;0;101
+r;12729426;343790;34157;0;101
+r;12748594;339240;34157;0;101
+r;1751564;227864;34157;0;102
+r;12729438;343787;34157;0;102
+r;2123871;245121;34157;0;103
+r;12747176;339570;34157;0;103
+r;419395;143431;34157;0;104
+r;12747660;339463;34157;0;104
+r;12579928;380394;34157;0;105
+r;12594480;376871;34157;0;105
+r;12690766;353128;34157;0;105
+r;12729430;343789;34157;0;105
+r;12742038;340781;34157;0;105
+r;12778802;228408;34157;0;105
+r;237930;71783;34157;0;106
+r;12063625;331047;34157;0;107
+r;12729414;343793;34157;0;107
+r;12729446;343785;34157;0;107
+r;12747652;339464;34157;0;107
+r;12729434;343788;34157;0;108
+r;255745;16397;34157;0;109
+r;12690854;353107;34157;0;109
+r;12722904;345390;34157;0;109
+r;12729442;343786;34157;0;109
+r;227712;28923;34157;0;110
+r;363223;152564;34157;0;110
+r;367060;67525;34157;0;110
+r;375609;162248;34157;0;110
+r;402936;154460;34157;0;110
+r;12063621;331048;34157;0;110
+r;12722772;345422;34157;0;110
+r;12747172;339571;34157;0;110
+r;1664286;163110;34157;0;111
+r;11750634;236757;34157;0;111
+r;409885605;30748;34157;0;111
+r;382599;142381;34157;0;113
+r;218024110;9744435;34157;0;115
+r;1744144;183139;34157;0;120
+r;1788705;228257;34157;0;120
+r;1982209;235078;34157;0;120
+r;405963796;15262903;34157;0;120
+r;405963868;15421156;34157;0;120
+r;133633;67170;34157;0;121
+r;2431586;154266;34157;0;121
+r;137590;40545;34157;0;122
+r;369843;26201;34157;0;123
+r;1769480;229326;34157;0;125
+r;2311811;254172;34157;0;125
+r;389966260;3373089;34157;0;125
+r;1699275;225187;34157;0;130
+r;2125292;222506;34157;0;130
+r;406551873;8085258;34157;0;130
+r;9075512;256972;34157;0;131
+r;111110;86296;34157;0;132
+r;95729128;71130;34157;0;132
+r;123255;38557;34157;0;133
+r;1563259;160930;34157;0;135
+r;217051305;233983;34157;0;135
+r;9908989;134028;34157;0;136
+r;95747116;1927210;34157;0;136
+r;4189154;277677;34157;0;142
+r;159853;153751;34157;0;145
+r;364894;153047;34157;0;145
+r;1535399;163830;34157;0;145
+r;1863878;233210;34157;0;145
+r;9432199;154906;34157;0;145
+r;9435771;159952;34157;0;145
+r;9437976;163051;34157;0;145
+r;9439512;164944;34157;0;145
+r;9439630;165157;34157;0;145
+r;1880296;236217;34157;0;147
+r;1913759;238346;34157;0;147
+r;2560182;263044;34157;0;147
+r;9505472;218638;34157;0;147
+r;9510407;226664;34157;0;147
+r;9512995;230446;34157;0;147
+r;9518476;238281;34157;0;147
+r;9520041;241332;34157;0;147
+r;9530170;254274;34157;0;147
+r;9533521;256578;34157;0;147
+r;9534143;256939;34157;0;147
+r;9536104;258431;34157;0;147
+r;9547227;266878;34157;0;147
+r;9547241;266884;34157;0;147
+r;9551450;271281;34157;0;147
+r;9556893;275721;34157;0;147
+r;9572455;289583;34157;0;147
+r;9575503;292535;34157;0;147
+r;364854;72043;34157;0;148
+r;2473037;216400;34157;0;148
+r;9066317;260957;34157;0;148
+r;365455;25082;34157;0;150
+r;369898;134158;34157;0;150
+r;1836960;232574;34157;0;150
+r;217051472;9661833;34157;0;155
+r;1558667;214228;34157;0;157
+r;1757347;228211;34157;0;157
+r;9508328;222923;34157;0;157
+r;9540637;261655;34157;0;157
+r;78615040;3246666;34157;0;157
+r;1829676;232381;34157;0;160
+r;31188918;1927865;34157;0;160
+r;118767;151503;34157;0;161
+r;9556886;275717;34157;0;163
+r;2266870;238174;34157;0;167
+r;9532536;255905;34157;0;167
+r;9604416;318859;34157;0;168
+r;9524972;249199;34157;0;169
+r;9525290;249529;34157;0;169
+r;9539275;260581;34157;0;169
+r;1745301;161696;34157;0;170
+r;362641;62524;34157;0;172
+r;1562592;87862;34157;0;173
+r;1752064;227899;34157;0;173
+r;1588264;154264;34157;0;175
+r;9524974;249200;34157;0;179
+r;2011286;236760;34157;0;180
+r;2286655;491;34157;0;180
+r;11711975;329798;34157;0;180
+r;391094430;14949153;34157;0;180
+r;95751474;2514778;34157;0;181
+r;370389328;14557985;34157;0;181
+r;2559546;261654;34157;0;184
+r;1810516;228921;34157;0;185
+r;9566498;285039;34157;0;187
+r;1840085;154128;34157;0;188
+r;1375413;171767;34157;0;194
+r;396452064;14947724;34157;0;195
+r;1680691;123988;34157;0;198
+r;1891599;216180;34157;0;199
+r;261587;120419;34157;0;200
+r;2097757;244978;34157;0;200
+r;396452023;15253374;34157;0;200
+r;2219840;238840;34157;0;202
+r;104775;139481;34157;0;204
+r;147421;106880;34157;0;210
+r;98338;36836;34157;0;211
+r;363262;152815;34157;0;221
+r;2018195;42980;34157;0;230
+r;410318;152814;34157;0;231
+r;1589462;78856;34157;0;233
+r;2303396;247711;34157;0;235
+r;2169455;238898;34157;0;249
+r;118619;152309;34157;0;251
+r;131041;2149;34157;0;260
+r;106730;141964;34157;0;261
+r;1619349;161947;34157;0;280
+r;2259905;156524;34157;0;280
+r;2254768;241932;34157;0;287
+r;1656497;222440;34157;0;290
+r;81248;120500;34157;0;300
+r;416415;123539;34157;0;300
+r;384651;29772;34157;0;323
+r;422332;164882;34157;0;330
+r;113557;68363;34157;0;364
+r;320907908;12425573;34157;0;379
+r;355043092;14049965;34157;0;476
+r;52481452;2488909;34157;0;480
+r;1535234;213362;34157;0;550
+r;102011;75884;34157;0;580
+r;11553624;326907;34157;0;773

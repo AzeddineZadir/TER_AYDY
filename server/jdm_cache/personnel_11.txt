@@ -1,0 +1,660 @@
+
+e;2553;'personnel';1;652
+e;15692194;'Étudiants et personnel de Durmstrang';777;0
+e;6347652;'caractéristiques du personnel de planification familiale';1;0
+e;6290806;'comité personnel santé';1;0
+e;6303835;'personnel infirmier qualifié';1;0
+e;6296273;'personnel infirmier des hôpitaux';1;0
+e;6307642;'personnel enseignant en pharmacie';1;0
+e;6308464;'personnel médical hospitalier';1;0
+e;6319158;'personnel médical des hôpitaux';1;0
+e;6327585;'gestion du personnel d'hôpital';1;0
+e;6350369;'personnel dentaire des hôpitaux';1;0
+e;6354051;'personnel médical d'hôpital';1;0
+e;6355671;'personnel dentaire hospitalier';1;0
+e;6358725;'gestion du personnel des hôpitaux';1;0
+e;6363970;'personnel de la communication';1;0
+e;6375656;'personnel sanitaire';1;0
+e;6378795;'personnel infirmier hospitalier';1;0
+e;6400114;'autres spécialistes des problèmes de personnel et du travail';1;0
+e;6401069;'gestion du personnel hospitalier';1;0
+e;6406535;'personnel de laboratoire clinique';1;0
+e;6410184;'commis au personnel';1;0
+e;6417324;'personnel infirmier d'hôpital';1;0
+e;6417620;'personnel non formé';1;0
+e;12196783;'Code du statut personnel marocain';777;0
+e;12985750;'responsabilité du fait personnel';777;0
+e;6347764;'directeur du personnel et des relations de travail';1;0
+e;6397962;'personnel dentaire';1;0
+e;14048706;'traumatisme personnel';1;0
+e;14080315;'histoire de l'ordinateur personnel';777;0
+e;14434774;'Licenciement pour motif personnel en France';777;0
+e;14452971;'acte strictement personnel';1;0
+e;14453708;'personnel associé des centres hospitaliers et universitaires';1;0
+e;14453561;'représentants du personnel';1;0
+e;14453703;'personnel de rééducation';1;0
+e;14453963;'transfert de personnel';1;0
+e;14454278;'charges de personnel';1;0
+e;14454685;'assurance du personnel';1;0
+e;14454760;'gestion de personnel';1;0
+e;14486709;'La direction de l'administration et du personnel';777;0
+e;14628093;'plateforme élévatrice mobile de personnel';1;0
+e;6303119;'transmission de maladie infectieuse du personnel soignant au malade';1;0
+e;15754717;'On fournira au personnel de nouveaux uniformes.';1;0
+e;16074167;'Représentants du personnel';1;0
+e;14109210;'Syndicat du personnel des douanes et des gardes-frontière';777;0
+e;16074519;'Transfert de personnel';1;0
+e;13786412;'a-60 enseignement au patient par le personnel infirmier';1;0
+e;15269469;'abattement personnel';1;0
+e;15445632;'administration du personnel';1;0
+e;15774330;'administration du personnel et de la paie';1;0
+e;15774332;'administration du personnel et de la paye';1;0
+e;15316348;'amplificateur personnel';1;0
+e;15691544;'besoins en personnel';1;0
+e;15297590;'bilan personnel';1;0
+e;15354656;'charge de personnel';1;0
+e;15593399;'charges liées au personnel';1;0
+e;15462679;'cheminement personnel';1;0
+e;15539093;'comprimant le personnel';1;0
+e;15345710;'comprimer le personnel';1;0
+e;15338848;'coût des avantages du personnel';1;0
+e;15399153;'danger pour le personnel des laboratoires de biologie médicale';1;0
+e;15491602;'diminution de personnel';1;0
+e;15268196;'directrice du personnel';1;0
+e;15479937;'dotation en personnel';1;0
+e;15542425;'débauchage de personnel';1;0
+e;15222553;'dégraissage de personnel';1;0
+e;15462681;'délégation du personnel';1;0
+e;15497898;'déléguée du personnel';1;0
+e;15222555;'détachement de personnel';1;0
+e;15341503;'embaucher du personnel';1;0
+e;16156679;'l'inconscient personnel';777;0
+e;16170689;'personnel de première ligne';1;0
+e;16318266;'personnel super-créatif';777;0
+e;16321143;'Charges de personnel de 2007-2014';777;0
+e;6085024;'inter-personnel';1;0
+e;6285746;'antécédent personnel de tentative de suicide';1;0
+e;6289061;'antécédent personnel de parasuicide';1;0
+e;6294411;'autres membres du clergé et personnel assimilé';1;0
+e;6321127;'personnel de laboratoire';1;0
+e;6322318;'entretien personnel altéré';1;0
+e;6323722;'personnel de laboratoire médical';1;0
+e;6326553;'conflit avec le personnel au travail';1;0
+e;6341078;'personnel de planification familiale';1;0
+e;6342863;'autre personnel enseignant';1;0
+e;6351759;'délégation au personnel';1;0
+e;6360555;'antécédent personnel de radiothérapie';1;0
+e;6373542;'personnel des hôpitaux';1;0
+e;6375916;'spécialiste des problèmes de personnel';1;0
+e;6397472;'personnel dentaire d'hôpital';1;0
+e;6399142;'autres superviseurs de personnel de bureau';1;0
+e;6421311;'personnel professionnel étranger';1;0
+e;14257838;'restaurant du personnel';1;16
+e;14510899;'personnels navigants';1;0
+e;14557782;'avoir du personnel';1;16
+e;14609422;'personnel scientifique';1;0
+e;14753155;'record personnel';1;14
+e;16075166;'véhicule personnel';1;0
+e;16160102;'battre son record personnel';1;0
+e;5723358;'Loi organique 15/1999 de protection des données à caractère personnel';777;0
+e;6429744;'transmission du personnel soignant au malade';1;0
+e;6315613;'directrice du personnel et des relations de travail';1;0
+e;6326841;'antécédent personnel de sévices';1;0
+e;16071004;'améliorer son record personnel';1;0
+e;6441342;'transmission d'infection du malade au personnel soignant';1;0
+e;6423636;'personnel d'hôpital';1;0
+e;10989272;'élève-officier du personnel navigant';777;0
+e;6438975;'transmission d'infection du personnel soignant au malade';1;0
+e;6431944;'séance d'enseignement au patient par le personnel infirmier';1;0
+e;6429295;'administration du personnel hospitalier';1;0
+e;6423490;'administration du personnel des hôpitaux';1;0
+e;6434922;'antécédent personnel d'intoxication volontaire';1;0
+e;11356832;'étendard personnel d'Adolf Hitler';777;0
+e;11784209;'assistant personnel virtuel';777;0
+e;10958229;'École du personnel paramédical des armées';777;0
+e;14027750;'Directeur du personnel des joueurs';777;0
+e;1829313;'caisse de prévoyance du personnel des organismes sociaux et similaires';1;0
+e;6067964;'véhicule transport de personnel';777;0
+e;6441759;'transmission d'agent pathogène du malade au personnel soignant';1;0
+e;6422258;'patient dirigé vers le personnel paramédical';1;0
+e;9951357;'codes du statut personnel';777;0
+e;10864935;'Association française des correspondants à la protection des données à caractère personnel';777;0
+e;10864901;'donnée à caractère personnel';777;0
+e;11812740;'réseau personnel';777;0
+e;11825424;'Strictement personnel';777;0
+e;6439363;'transmission d'agent pathogène du personnel soignant au malade';1;0
+e;6437775;'antécédent personnel d'utilisation à long terme d'aspirine';1;0
+e;10747987;'Alliance du personnel professionnel et technique de la santé et des services sociaux';777;0
+e;11268919;'Service public fédéral personnel et organisation';777;0
+e;12048939;'assurer la liaison avec le personnel enseignant';1;0
+e;12048962;'superviser le personnel enseignant';1;0
+e;12048938;'assurer la liaison avec le personnel encadrant';1;0
+e;12049015;'impliquer les usagers et le personnel soignant dans la planification des soins';1;0
+e;12079660;'livret personnel de compétences';1;0
+e;5715751;'jeu sur ordinateur personnel';777;0
+e;10044578;'Intime et personnel';777;0
+e;10862390;'personnel de Impact Wrestling';777;0
+e;10863528;'personnel de la WWE';777;0
+e;10937029;'accomplissement personnel';1;0
+e;11090512;'délégation unique du personnel';777;0
+e;12049681;'gérer le personnel agricole';1;0
+e;12050430;'former le personnel';1;0
+e;12049852;'planifier les horaires de rotation du personnel';1;0
+e;12050456;'gérer le personnel';1;0
+e;12050455;'donner des instructions au personnel de cuisine';1;0
+e;12051154;'donner des instructions au personnel';1;0
+e;12051713;'collaborer avec le personnel technique dans des productions artistiques';1;0
+e;12051646;'gérer le développement professionnel personnel';1;0
+e;12051357;'gérer du personnel';1;0
+e;12051350;'superviser le travail du personnel de nettoyage';1;0
+e;12051348;'superviser le personnel pharmaceutique';1;0
+e;12051340;'gérer le personnel d'un zoo';1;0
+e;12051328;'superviser le personnel dentaire technique';1;0
+e;12051326;'dispenser une formation au personnel en gestion d'entrepôts';1;0
+e;12051316;'communiquer des informations au personnel à propos des menus du jour';1;0
+e;12051310;'gérer le personnel de médiation';1;0
+e;6450267;'prélèvement d'échantillon par le personnel infirmier';1;0
+e;10844724;'insigne du personnel navigant pour opérateurs radio et tireurs';777;0
+e;10844690;'insigne commémoratif du personnel navigant';777;0
+e;11937641;'codes OTAN des grades du personnel militaire';777;0
+e;12051274;'gérer le personnel de physiothérapie';1;0
+e;12051291;'gérer le personnel chiropracteur';1;0
+e;12051290;'superviser le personnel dentaire';1;0
+e;12051270;'superviser le personnel d'une galerie d'art';1;0
+e;9950667;'Code du statut personnel';777;0
+e;10056119;'personnel de l'école primaire';777;0
+e;11233023;'Message personnel';777;0
+e;11402084;'vaporisateur personnel';777;0
+e;12040852;'protéger des données à caractère personnel et la vie privée';1;0
+e;12051247;'guider du personnel';1;0
+e;12051304;'gérer le personnel musical';1;0
+e;12052456;'organiser des installations pour le personnel de bureau';1;0
+e;6526639;'superviseurs de personnel de bureau';1;0
+e;12053118;'gérer l'administration du personnel';1;0
+e;16073166;'Gestion de personnel';1;0
+e;2399040;'délégué du personnel';1;0
+e;6445396;'négligence de l'aspect personnel';1;0
+e;11374489;'bilan carbone personnel';777;0
+e;15542226;'L'hôtel est bien doté en personnel.';1;0
+e;10084717;'Ordinariat personnel de Notre-Dame de Walsingham';777;0
+e;16072759;'Données à caractère personnel';1;0
+e;11220000;'téléphone personnel';1;0
+e;13333678;'Rien de personnel';777;0
+e;6444705;'personnel de l'éducation';1;0
+e;6450590;'antécédent personnel d'abus';1;0
+e;2422741;'personnel au sol';1;0
+e;6526744;'spécialistes des problèmes de personnel et du travail';1;0
+e;6444665;'personnel de l'enseignement';1;0
+e;9564534;'Licenciement pour motif personnel';777;0
+e;9564536;'licenciement pour motif personnel';777;0
+e;9749605;'membre du personnel de maison';777;0
+e;11131984;'Convention pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel';777;0
+e;12688699;'bénéfice personnel';1;0
+e;13765129;'06-07 médecins, dentistes, vétérinaires et personnel assimilé';1;0
+e;13798982;'072 personnel infirmier n.c.a.';1;0
+e;13793098;'074 personnel de sages-femmes n.c.a.';1;0
+e;13778041;'079 médecins, dentistes, vétérinaires et personnel assimilé n.c.a.';1;0
+e;13743013;'139 personnel enseignant n.c.a.';1;0
+e;13765963;'194 spécialistes des problèmes de personnel et du travail';1;0
+e;13797611;'30 superviseurs de personnel de bureau';1;0
+e;15684254;'Athlètes pouvant améliorer leur record personnel';777;0
+e;16072004;'Acte strictement personnel';1;0
+e;3262652;'jeu vidéo sur ordinateur personnel';777;0
+e;3649467;'entraîneur personnel';1;0
+e;567724;'instances représentatives du personnel';777;50
+e;1849774;'déficit fonctionnel personnel temporaire';1;0
+e;4491732;'choix personnel';1;0
+e;5159887;'données à caractère personnel';1;4
+e;3304348;'assistant personnel intelligent';777;0
+e;462529;'répertoire personnel';777;50
+e;592778;'dossier médical personnel';1;0
+e;1474922;'transporteur personnel';777;0
+e;2494309;'registre du personnel';1;0
+e;2582616;'délégués du personnel';777;0
+e;1763369;'personnel de bord';1;0
+e;1328904;'pronom personnel réfléchi';1;0
+e;3414179;'ensemble du personnel';1;0
+e;567656;'Le prêt personnel';777;50
+e;1572512;'cas personnel';1;0
+e;1781329;'effet personnel';1;0
+e;1684769;'assistant personnel numérique';1;0
+e;5304217;'site personnel';1;0
+e;3072752;'personnel de nettoyage';1;0
+e;384832;'travail personnel';1;50
+e;376198;'représentant du personnel';1;50
+e;373229;'problème personnel';1;50
+e;369819;'personnel roulant';1;50
+e;369812;'personnel irremplaçable';1;50
+e;369803;'personnel commensal';1;50
+e;365178;'motif personnel';1;50
+e;355272;'frais de personnel';1;50
+e;348431;'droit personnel complémentaire';1;50
+e;369822;'personnel académique';1;50
+e;369818;'personnel qualifié';1;50
+e;369228;'patrimoine personnel';1;50
+e;359591;'interdit personnel';1;50
+e;357352;'gérant du personnel';1;50
+e;348315;'drame personnel';1;50
+e;344346;'conseiller personnel';1;50
+e;374621;'pénurie de personnel qualifié';1;50
+e;369823;'personnel enseignant';1;50
+e;369817;'personnel pénitentiaire';1;50
+e;369808;'personnel diplomatique';1;50
+e;369802;'personnel civil';1;50
+e;362414;'lyrisme personnel';1;50
+e;359827;'invité personnel';1;50
+e;340606;'bureau du personnel';1;50
+e;393354;'domaine personnel';1;50
+e;374618;'pénurie de personnel';1;54
+e;369824;'personnel littéraire';1;50
+e;369814;'personnel militaire';1;50
+e;351976;'enrichissement personnel';1;50
+e;345506;'crédit personnel';1;50
+e;334308;'agenda personnel';1;50
+e;374266;'prêt personnel';1;50
+e;369960;'petit personnel';1;66
+e;353184;'facteur personnel';1;50
+e;347563;'direction du personnel';1;50
+e;344225;'compression de personnel';1;50
+e;343075;'charme personnel';1;50
+e;391740;'coach en développement personnel';1;50
+e;385886;'usage personnel';1;50
+e;377506;'réduction de personnel';1;52
+e;369820;'personnel vacataire';1;50
+e;369813;'personnel local';1;50
+e;369807;'personnel de surveillance';1;50
+e;369806;'personnel de service';1;50
+e;365457;'moyens en personnel';1;50
+e;336836;'assemblée du personnel';1;50
+e;332292;'personnel communal';1;54
+e;381221;'statut personnel';1;50
+e;380930;'souvenir personnel';1;50
+e;372580;'pouvoir personnel';1;50
+e;369821;'personnel éducatif';1;50
+e;369816;'personnel paramédical';1;50
+e;369811;'personnel infirmier';1;50
+e;369804;'personnel commercial';1;50
+e;383155;'temps personnel';1;50
+e;376515;'revenu personnel';1;50
+e;369815;'personnel navigant technique';1;50
+e;369809;'personnel dirigeant';1;50
+e;381616;'succès personnel';1;50
+e;369810;'personnel hautement qualifié';1;50
+e;369805;'personnel consulaire';1;50
+e;368321;'papier personnel';1;50
+e;365966;'mérite personnel';1;50
+e;358798;'inconscient personnel';1;50
+e;212948;'anti-personnel';1;52
+e;319607;'site web personnel';777;52
+e;319784;'à titre personnel';1;8
+e;322421;'personnel municipal';1;50
+e;212947;'mine anti-personnel';1;14
+e;167691;'ordinateur personnel';1;70
+e;226640;'impôt personnel';1;50
+e;234948;'épanouissement personnel';1;50
+e;236652;'objet personnel';1;4
+e;241806;'intérêt personnel';1;2
+e;246025;'manque de personnel';1;56
+e;248500;'développement personnel';1;52
+e;250265;'personnel médical';1;8
+e;252738;'personnel navigant';1;50
+e;253171;'personnel hospitalier';1;6
+e;254595;'personnel intérimaire';1;50
+e;255240;'personnel de recherche';1;52
+e;255244;'personnel d'encadrement';1;50
+e;255247;'personnel de direction';1;50
+e;255316;'personnel technique';1;50
+e;257114;'personnel de santé';1;2
+e;259510;'personnel administratif';1;50
+e;260434;'directeur du personnel';1;66
+e;207265;'roman personnel';1;50
+e;159785;'personnel de maison';1;70
+e;180824;'ajournement personnel';1;50
+e;183632;'personnel soignant';1;14
+e;203949;'mode personnel';1;50
+e;204424;'nom personnel';1;50
+e;272096;'enregistreur vidéo personnel';777;50
+e;280030;'numéro d'identification personnel';777;50
+e;282632;'gestion du personnel';777;50
+e;285929;'conflit personnel';1;50
+e;288469;'apport personnel';1;6
+e;294204;'assistant numérique personnel';777;50
+e;305176;'personnel navigant commercial';777;50
+e;308318;'impôt personnel au sens strict';777;50
+e;309593;'assistant personnel';1;50
+e;190696;'droit personnel';1;50
+e;165709;'chef du personnel';1;52
+e;158661;'pronom personnel';1;302
+r;310760901;2553;5503470;11;15
+r;310760902;2553;5503471;11;15
+r;403456385;2553;15692194;11;25
+r;301689611;2553;6347652;11;25
+r;298435133;2553;6290806;11;25
+r;299345022;2553;6303835;11;25
+r;298950618;2553;6296273;11;25
+r;299562066;2553;6307642;11;25
+r;299571335;2553;6308464;11;25
+r;299875761;2553;6319158;11;25
+r;300209069;2553;6327585;11;25
+r;301733308;2553;6350369;11;25
+r;301754386;2553;6354051;11;25
+r;301802734;2553;6355671;11;25
+r;302046643;2553;6358725;11;25
+r;302177709;2553;6363970;11;25
+r;303626362;2553;6375656;11;25
+r;303650234;2553;6378795;11;25
+r;305136110;2553;6400114;11;25
+r;305205360;2553;6401069;11;25
+r;305312733;2553;6406535;11;25
+r;305467422;2553;6410184;11;25
+r;305686403;2553;6417324;11;25
+r;305688619;2553;6417620;11;25
+r;316556471;2553;12196783;11;25
+r;337345349;2553;12985750;11;25
+r;341102746;2553;6347764;11;25
+r;341207030;2553;6397962;11;25
+r;354995922;2553;14048706;11;25
+r;356245112;2553;14080315;11;25
+r;366556996;2553;14434774;11;25
+r;366879702;2553;14452971;11;25
+r;366911970;2553;14453708;11;25
+r;366915495;2553;14453561;11;25
+r;366923146;2553;14453703;11;25
+r;366931254;2553;14453963;11;25
+r;366933014;2553;14454278;11;25
+r;366959860;2553;14454685;11;25
+r;366963717;2553;14454760;11;25
+r;368245312;2553;14486709;11;25
+r;371562122;2553;14628093;11;25
+r;397590304;2553;6303119;11;25
+r;419518549;2553;15754717;11;25
+r;419534426;2553;16074167;11;25
+r;419549811;2553;14109210;11;25
+r;419554427;2553;16074519;11;25
+r;419565494;2553;13786412;11;25
+r;419566320;2553;15269469;11;25
+r;419577933;2553;15445632;11;25
+r;419577938;2553;15774330;11;25
+r;419577947;2553;15774332;11;25
+r;419592016;2553;15316348;11;25
+r;419651190;2553;15691544;11;25
+r;419653590;2553;15297590;11;25
+r;419700843;2553;15354656;11;25
+r;419701350;2553;15593399;11;25
+r;419704895;2553;15462679;11;25
+r;419726053;2553;15539093;11;25
+r;419726057;2553;15345710;11;25
+r;419749712;2553;15338848;11;25
+r;419762760;2553;15399153;11;25
+r;419780918;2553;15491602;11;25
+r;419783154;2553;15268196;11;25
+r;419797630;2553;15479937;11;25
+r;419803515;2553;15542425;11;25
+r;419809934;2553;15222553;11;25
+r;419811011;2553;15462681;11;25
+r;419811160;2553;15497898;11;25
+r;419816059;2553;15222555;11;25
+r;419834488;2553;15341503;11;25
+r;423886563;2553;16156679;11;25
+r;424066050;2553;16170689;11;25
+r;428865203;2553;16318266;11;25
+r;429222949;2553;16321143;11;25
+r;296905356;2553;6085024;11;26
+r;298095475;2553;6285746;11;26
+r;298389856;2553;6289061;11;26
+r;298810015;2553;6294411;11;26
+r;300107737;2553;6321127;11;26
+r;300121863;2553;6322318;11;26
+r;300143562;2553;6323722;11;26
+r;300199159;2553;6326553;11;26
+r;301474143;2553;6341078;11;26
+r;301493091;2553;6342863;11;26
+r;301740666;2553;6351759;11;26
+r;302096458;2553;6360555;11;26
+r;303266038;2553;6373542;11;26
+r;303624235;2553;6375916;11;26
+r;305050848;2553;6397472;11;26
+r;305130736;2553;6399142;11;26
+r;305710475;2553;6421311;11;26
+r;361550636;2553;14257838;11;26
+r;368488890;2553;14510899;11;26
+r;369897923;2553;14557782;11;26
+r;371242108;2553;14609422;11;26
+r;375035007;2553;14753155;11;26
+r;418874172;2553;16075166;11;26
+r;423388359;2553;16160102;11;26
+r;112671374;2553;5723358;11;27
+r;122697771;2553;6429744;11;27
+r;299652582;2553;6315613;11;27
+r;300200947;2553;6326841;11;27
+r;418683780;2553;16071004;11;27
+r;121515974;2553;6441342;11;30
+r;122745152;2553;6423636;11;30
+r;277529459;2553;10989272;11;30
+r;121537149;2553;6438975;11;31
+r;122680276;2553;6431944;11;31
+r;122701190;2553;6429295;11;31
+r;122746315;2553;6423490;11;31
+r;121573419;2553;6434922;11;32
+r;291207120;2553;11356832;11;32
+r;303722836;2553;11784209;11;32
+r;276014509;2553;10958229;11;33
+r;395033664;2553;14027750;11;33
+r;29941879;2553;1829313;11;34
+r;118959819;2553;6067964;11;34
+r;121512301;2553;6441759;11;34
+r;122755824;2553;6422258;11;34
+r;220624368;2553;9951357;11;34
+r;272523529;2553;10864935;11;34
+r;272523727;2553;10864901;11;34
+r;304795083;2553;11812740;11;34
+r;305435834;2553;11825424;11;34
+r;121533751;2553;6439363;11;35
+r;121547892;2553;6437775;11;35
+r;269385934;2553;10747987;11;35
+r;288773661;2553;11268919;11;35
+r;313625348;2553;12048939;11;35
+r;313627781;2553;12048962;11;35
+r;313627845;2553;12048938;11;35
+r;313629233;2553;12049015;11;35
+r;315116861;2553;12079660;11;35
+r;112171580;2553;5715751;11;36
+r;227597382;2553;10044578;11;36
+r;272166255;2553;10862390;11;36
+r;272243817;2553;10863528;11;36
+r;275286329;2553;10937029;11;36
+r;281296240;2553;11090512;11;36
+r;313662777;2553;12049681;11;36
+r;313692349;2553;12050430;11;36
+r;313693369;2553;12049852;11;36
+r;313694126;2553;12050456;11;36
+r;313697175;2553;12050455;11;36
+r;313724426;2553;12051154;11;36
+r;313762565;2553;12051713;11;36
+r;313762793;2553;12051646;11;36
+r;313764194;2553;12051357;11;36
+r;313764238;2553;12051350;11;36
+r;313764250;2553;12051348;11;36
+r;313764304;2553;12051340;11;36
+r;313764369;2553;12051328;11;36
+r;313764387;2553;12051326;11;36
+r;313764455;2553;12051316;11;36
+r;313764493;2553;12051310;11;36
+r;121045001;2553;6450267;11;37
+r;271581704;2553;10844724;11;37
+r;271581718;2553;10844690;11;37
+r;308201827;2553;11937641;11;37
+r;313725831;2553;12051274;11;37
+r;313726024;2553;12051291;11;37
+r;313730488;2553;12051290;11;37
+r;313731964;2553;12051270;11;37
+r;220616453;2553;9950667;11;38
+r;228983656;2553;10056119;11;38
+r;287837966;2553;11233023;11;38
+r;292933304;2553;11402084;11;38
+r;313555119;2553;12040852;11;38
+r;313726065;2553;12051247;11;38
+r;313726130;2553;12051304;11;38
+r;313761817;2553;12052456;11;38
+r;121446770;2553;6526639;11;39
+r;313744593;2553;12053118;11;40
+r;419102526;2553;16073166;11;40
+r;53264311;2553;2399040;11;41
+r;121479605;2553;6445396;11;41
+r;291798966;2553;11374489;11;41
+r;414848218;2553;15542226;11;41
+r;232465807;2553;10084717;11;42
+r;419100607;2553;16072759;11;42
+r;287677208;2553;11220000;11;43
+r;338930590;2553;13333678;11;43
+r;121485770;2553;6444705;11;44
+r;121042100;2553;6450590;11;45
+r;54506531;2553;2422741;11;46
+r;121446047;2553;6526744;11;46
+r;121486115;2553;6444665;11;47
+r;214844192;2553;9564534;11;50
+r;214844606;2553;9564536;11;50
+r;214860178;2553;9566266;11;50
+r;214864305;2553;9566267;11;50
+r;218080017;2553;9749605;11;50
+r;282857860;2553;11131984;11;50
+r;325038067;2553;12688699;11;50
+r;348971326;2553;13765129;11;50
+r;348971424;2553;13798982;11;50
+r;348971438;2553;13793098;11;50
+r;348971470;2553;13778041;11;50
+r;348980699;2553;13743013;11;50
+r;348981859;2553;13765963;11;50
+r;348985572;2553;13797611;11;50
+r;403047786;2553;15684254;11;50
+r;418898108;2553;16072004;11;50
+r;28976740;2553;1763371;11;51
+r;79475979;2553;3262652;11;52
+r;91352491;2553;3649467;11;52
+r;97988299;2553;4314180;11;52
+r;17144012;2553;567724;11;53
+r;29862192;2553;1849774;11;53
+r;100045053;2553;4491732;11;53
+r;106049773;2553;5159887;11;53
+r;28976742;2553;1763370;11;54
+r;82853676;2553;3304348;11;54
+r;16320092;2553;462529;11;55
+r;18596080;2553;592778;11;55
+r;24410746;2553;1474922;11;55
+r;52479074;2553;2494309;11;55
+r;53784355;2553;2582616;11;55
+r;28976544;2553;1763369;11;56
+r;23037063;2553;1328904;11;58
+r;87288945;2553;3414179;11;58
+r;17134304;2553;567656;11;59
+r;25323624;2553;1572512;11;59
+r;29225797;2553;1781329;11;59
+r;97988290;2553;4314179;11;59
+r;27862996;2553;1684769;11;60
+r;106716800;2553;5304217;11;60
+r;75216935;2553;3072752;11;61
+r;12562107;2553;384832;11;101
+r;12597113;2553;376198;11;101
+r;12609145;2553;373229;11;101
+r;12623253;2553;369819;11;101
+r;12623285;2553;369812;11;101
+r;12623323;2553;369803;11;101
+r;12641525;2553;365178;11;101
+r;12682061;2553;355272;11;101
+r;12709519;2553;348431;11;101
+r;12623241;2553;369822;11;102
+r;12623257;2553;369818;11;102
+r;12625703;2553;369228;11;102
+r;12664443;2553;359591;11;102
+r;12673489;2553;357352;11;102
+r;12710039;2553;348315;11;102
+r;12727155;2553;344346;11;102
+r;12603409;2553;374621;11;103
+r;12623237;2553;369823;11;103
+r;12623261;2553;369817;11;103
+r;12623303;2553;369808;11;103
+r;12623327;2553;369802;11;103
+r;12652811;2553;362414;11;103
+r;12663487;2553;359827;11;103
+r;12742757;2553;340606;11;103
+r;13386109;2553;393354;11;103
+r;12603425;2553;374618;11;104
+r;12623233;2553;369824;11;104
+r;12623277;2553;369814;11;104
+r;12695441;2553;351976;11;104
+r;12722453;2553;345506;11;104
+r;12768485;2553;334308;11;104
+r;12604877;2553;374266;11;105
+r;12622655;2553;369960;11;105
+r;12690539;2553;353184;11;105
+r;12713091;2553;347563;11;105
+r;12727635;2553;344225;11;105
+r;12732429;2553;343075;11;105
+r;13076488;2553;391740;11;105
+r;12557797;2553;385886;11;106
+r;12591895;2553;377506;11;106
+r;12623249;2553;369820;11;106
+r;12623281;2553;369813;11;107
+r;12623307;2553;369807;11;107
+r;12623311;2553;369806;11;107
+r;12640389;2553;365457;11;107
+r;12758275;2553;336836;11;107
+r;12134368;2553;332292;11;108
+r;12576371;2553;381221;11;108
+r;12577541;2553;380930;11;108
+r;12611875;2553;372580;11;108
+r;12623245;2553;369821;11;108
+r;12623265;2553;369816;11;108
+r;12623289;2553;369811;11;108
+r;12623319;2553;369804;11;108
+r;12568925;2553;383155;11;109
+r;12595869;2553;376515;11;109
+r;12623269;2553;369815;11;109
+r;12623299;2553;369809;11;109
+r;12574849;2553;381616;11;110
+r;12623293;2553;369810;11;110
+r;12623315;2553;369805;11;110
+r;12628981;2553;368321;11;110
+r;12638379;2553;365966;11;110
+r;12667631;2553;358798;11;110
+r;11852834;2553;212948;11;122
+r;9034522;2553;319607;11;148
+r;9040081;2553;319784;11;148
+r;9105773;2553;322421;11;148
+r;8879568;2553;212947;11;152
+r;8631144;2553;167691;11;161
+r;8696282;2553;226640;11;161
+r;8702638;2553;234948;11;161
+r;8704075;2553;236652;11;161
+r;8707239;2553;241806;11;161
+r;8709786;2553;246025;11;161
+r;8711897;2553;248500;11;161
+r;8713636;2553;250265;11;161
+r;8716338;2553;252738;11;161
+r;8716829;2553;253171;11;161
+r;8718684;2553;254595;11;161
+r;8719536;2553;255240;11;161
+r;8719544;2553;255244;11;161
+r;8719549;2553;255247;11;161
+r;8719651;2553;255316;11;161
+r;8722272;2553;257114;11;161
+r;8725693;2553;259510;11;161
+r;8726912;2553;260434;11;161
+r;8679949;2553;207265;11;162
+r;8626553;2553;159785;11;163
+r;8637293;2553;180824;11;163
+r;8642109;2553;183632;11;163
+r;8674535;2553;203949;11;163
+r;8675359;2553;204424;11;163
+r;8739611;2553;272096;11;163
+r;8747454;2553;280030;11;163
+r;8749883;2553;282632;11;163
+r;8753094;2553;285929;11;163
+r;8756462;2553;288469;11;163
+r;8761655;2553;294204;11;163
+r;8771345;2553;305176;11;163
+r;8774063;2553;308318;11;163
+r;8775488;2553;309593;11;163
+r;8653111;2553;190696;11;164
+r;419541;2553;165709;11;188
+r;357750;2553;158661;11;199

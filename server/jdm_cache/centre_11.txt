@@ -1,0 +1,1926 @@
+
+e;31970;'centre';1;758
+e;144315;'CNRS';1;248
+e;6294743;'centre de mise en forme';1;0
+e;6293767;'centre de radiologie indépendant';1;0
+e;6284438;'transfert du patient dans un centre de soins infirmiers spécialisés';1;0
+e;6319192;'délocalisation de centre de santé';1;0
+e;6386266;'complexe protéique du centre réactionnel de la photosynthèse';1;0
+e;6402001;'acquisition de centre de santé';1;0
+e;13615071;'heure normale du centre';777;0
+e;13656838;'centre historique de Cordoue';777;0
+e;6351203;'ulcère du centre de la cornée';1;0
+e;6325625;'centre réactionnel du photosystème i';1;0
+e;6403942;'centre du corps d'une vertèbre sacrée';1;0
+e;6354004;'centre de naissance indépendant';1;0
+e;6311206;'centre du corps d'une vertèbre lombaire';1;0
+e;6290376;'centre du corps d'une vertèbre thoracique';1;0
+e;13884057;'centre technique de matériaux naturels de construction';777;0
+e;14093888;'centre de notifications';777;0
+e;14141302;'centre d'études et de recherche de Grenoble';777;0
+e;14205846;'remettre l'humain au centre';1;0
+e;14382045;'centre de droit et d'économie du sport';777;0
+e;14386111;'centre d'hébergement et de protection pour équidés maltraités';777;0
+e;14434487;'thème de centre d'interprétation';1;0
+e;14454723;'centre national de la fonction publique territoriale';1;0
+e;14583887;'centre hypothalamique de la soif';1;0
+e;14590174;'centre d'une ville';777;0
+e;14590175;'centre des affaires';777;0
+e;14598805;'Le centre de notifications';777;0
+e;14609265;'centre quiescent';777;0
+e;14611067;'centre de masse de la Terre';1;0
+e;14635806;'centre de vol spatial';1;0
+e;14669099;'centre aquatique de la Vieille Roche';777;0
+e;14669098;'centre médical du Guervenan';777;0
+e;14669100;'centre social Ti an Oll';777;0
+e;14677795;'centre R&D';1;0
+e;14776493;'Les brochures éditées par le centre d'archives et d'histoire de Soumoy';777;0
+e;16519745;'r est une rotation de centre O et d'angle';777;0
+e;6299078;'centre information';1;0
+e;6383295;'centre de traitement pour des enfants présentant des troubles affectifs';1;0
+e;14902747;'centre d'apprentissage';777;0
+e;14915993;'centre de populations';1;0
+e;15009457;'la gestion de la sortie du centre';777;0
+e;15009456;'la scolarisation des enfants et l'animation du centre';777;0
+e;15012608;'zone centre';777;0
+e;6285240;'centre hospitalier de soins de longue durée';1;0
+e;6316981;'centre rural de soins de santé';1;0
+e;6352273;'centre urbain de soins de santé';1;0
+e;6355127;'centre médical universitaire';1;0
+e;6419576;'centre de réadaptation professionnel';1;0
+e;16153872;'le centre et le nord';777;0
+e;16127108;'la frise du centre';777;0
+e;16309052;'incendie du centre de données d'OVHcloud à Strasbourg';777;0
+e;12197465;'centre hospitalier universitaire de Brest';777;0
+e;12199443;'centre hospitalier régional universitaire de Limoges';777;0
+e;12199458;'centre hospitalier universitaire de La Réunion';777;0
+e;12199452;'centre hospitalier régional universitaire de Nancy';777;0
+e;12199451;'centre hospitalier régional universitaire de Montpellier';777;0
+e;12979844;'centre de formation de l'En avant de Guingamp';777;0
+e;12981895;'centre de hautes études administratives';777;0
+e;14259015;'centre d'usinage';1;0
+e;14605246;'centre de contrôle technique';1;8
+e;14606365;'centre d'enseignement supérieur';1;0
+e;14635398;'centre au cordeau';1;0
+e;14725417;'centre à ras de terre';1;2
+e;14725689;'faire un centre';1;0
+e;15013577;'du centre';777;0
+e;15034319;'au centre des';1;0
+e;10674708;'centre culturel international Oscar Niemeyer';777;0
+e;12990837;'centre historique de la ville de Panama';777;0
+e;13537558;'centre commercial Westfield Carré Sénart';777;0
+e;16560528;'centre de planification familiale';1;0
+e;5796745;'centre d'information des viandes';777;0
+e;5796131;'langues du centre des Salomon';777;0
+e;6439582;'indien du centre de l'amerique';1;0
+e;10671373;'troisième ligne centre';1;0
+e;10873364;'centre hospitalier intercommunal';777;0
+e;10986311;'Républicains du centre';777;0
+e;6311251;'etats-unis du centre ouest';1;0
+e;13520008;'centre Albert';777;0
+e;5711534;'centre d'opérations du réseau';777;0
+e;5729241;'centre culturel français';777;0
+e;6425955;'centre du corps d'une vertèbre coccygienne';1;0
+e;6423493;'centre du corps d'une vertèbre dorsale';1;0
+e;10988618;'centre de recherche nucléaire d'Anshas';777;0
+e;5808657;'centre de gravité d'un arc de courbe';777;0
+e;9958806;'centre africain pour les applications de la météorologie au développement';777;0
+e;9992516;'Bombardement du centre de soins de Médecins sans frontières à Kondôz';777;0
+e;10909345;'centre de loisirs du Petit Port';777;0
+e;15442435;'data centre';1;0
+e;15246981;'demi centre';1;0
+e;15486085;'demi centre jouant en retrait';1;0
+e;12970450;'demi-centre';777;0
+e;15531497;'diabète par piqûre du centre glycogénique';1;0
+e;15411296;'dépresseur du centre de la toux';1;0
+e;16512730;'centre-Ville';1;0
+e;5808660;'centre de masse d'une plaque homogène';777;0
+e;5827185;'centre national de greffe de la moelle osseuse';777;0
+e;5816893;'centre d'alerte des tsunamis dans le Pacifique';777;0
+e;5813347;'centre de recherche en Europe en physique';1;0
+e;10596514;'centre de recherche en physique';1;0
+e;10597445;'incendie du centre commercial Zimnyaya Vichnya de Kemerovo';777;0
+e;11027282;'district centre';777;0
+e;11027253;'Le centre commercial Auchan Noyelles';777;0
+e;11055947;'parti politique de centre gauche';1;0
+e;11055938;'centre de formation aux arts du cirque';1;0
+e;11055946;'parti politique écologiste de centre gauche';1;0
+e;15921467;'divers centre';777;0
+e;16390427;'centre d'accueil de jour pour les personnes âgées';1;0
+e;16326220;'centre d'appels téléphoniques';1;0
+e;16380938;'centre d'extermination de Sobibór';777;0
+e;16380937;'centre d'extermination de Treblinka';777;0
+e;16321853;'centre d'orientation';1;0
+e;16508269;'centre d'un groupe aéronaval';1;0
+e;16109441;'centre de musique baroque de Versailles';777;0
+e;16366719;'centre de stockage de données';1;0
+e;16366720;'centre de stockage et de traitement de données';1;0
+e;16390899;'centre de travaux';1;0
+e;16493426;'centre historique de Mexico';777;0
+e;16159978;'centre-septentrionale';1;0
+e;5574237;'trou de centre';777;0
+e;5568853;'haut centre vocal';777;0
+e;5567316;'centre d'essais de lancement de missiles';777;0
+e;5564651;'centre de recherches informatique et droit';777;0
+e;5672556;'centre de recherche scientifique';1;0
+e;5673317;'centre urbain de commune rurale';777;0
+e;5702431;'centre de ressources en langues';777;0
+e;5915711;'centre nucléaire de Pelindaba';777;0
+e;6079763;'centre d'instruction des équipages d'hélicoptères 00.341 Colonel Alexis Santini';777;0
+e;6445032;'indiens du centre de l'amerique';1;0
+e;6437015;'douleur au centre de l'abdomen';1;0
+e;10012825;'centre hospitalier de Montfavet';777;0
+e;10596515;'centre de recherche et développement';1;0
+e;10742621;'centre Powerade';777;0
+e;10736467;'centre pour une politique réactive';777;0
+e;10921592;'incendie du centre commercial Zimniaïa Vichnia';777;0
+e;11784214;'centre pour l'étude des risques existentiels';777;0
+e;15442339;'au centre de [qch]';1;0
+e;15769646;'au centre de quelque chose';1;0
+e;15786883;'avant centre';1;0
+e;15343127;'centre Internic';1;0
+e;15441178;'centre animation jeunesse';1;0
+e;15359609;'centre anti cancéreux';1;0
+e;15461930;'centre anti douleur';1;0
+e;15358031;'centre anti-douleur';1;0
+e;15263103;'centre artistique';1;0
+e;15587282;'centre au premier poteau';1;0
+e;15691089;'centre carnegie';1;0
+e;15499526;'centre chorégraphique';1;0
+e;15377084;'centre commercial discount';1;0
+e;15377086;'centre commercial à prix d'usine';1;0
+e;15571446;'centre conçu à la fois pour les loisirs et les affaires';1;0
+e;15574697;'centre culturel de rencontre';1;0
+e;15398196;'centre d'accueil des visiteurs';1;0
+e;15442350;'centre d'activité';1;0
+e;15325819;'centre d'affaire';1;0
+e;15776109;'centre d'aide au travail';1;0
+e;15271692;'centre d'aide aux victimes de viol';1;0
+e;15269586;'centre d'archives contemporaines';1;0
+e;15399201;'centre d'assistance sociale';1;0
+e;15442353;'centre d'attention';1;0
+e;15442354;'centre d'enfouissement des déchets';1;0
+e;15304129;'centre d'examens';1;0
+e;15541460;'centre d'exploitation de réseaux';1;0
+e;15546226;'centre d'expositions';1;0
+e;15367227;'centre d'expérimentation nucléaire';1;0
+e;15218233;'centre d'imagerie';1;0
+e;15245703;'centre d'imagerie diagnostique';1;0
+e;15525147;'centre d'information et de documentation';1;0
+e;15371891;'centre d'injection supervisé';1;0
+e;14166358;'centre d'interprétation Paul-Gauguin';777;0
+e;15343233;'centre d'intérêt de la recherche en biologie cellulaire';1;0
+e;15307373;'centre d'orientation et de consultation psychologique';1;0
+e;15486006;'centre d'orthogénie';1;0
+e;15377111;'centre d'orthophonie';1;0
+e;15302396;'centre d'écoute';1;0
+e;15527342;'centre d'éducation spéciale';1;0
+e;15221054;'centre d'émission';1;0
+e;15521558;'centre d'études nucléaires';1;0
+e;15396346;'centre d'études politiques';1;0
+e;15319696;'centre de beauté';1;0
+e;15531805;'centre de chirurgie ambulatoire';1;0
+e;15487634;'centre de commutation des systèmes mobiles';1;0
+e;15296641;'centre de comptabilité';1;0
+e;15268099;'centre de compétence';1;0
+e;15442355;'centre de compétences';1;0
+e;15514712;'centre de conférence';1;0
+e;15561229;'centre de contrôle anti-poisons';1;0
+e;15369665;'centre de coût';1;0
+e;15319694;'centre de coûts';1;0
+e;15482139;'centre de cure antialcoolique';1;0
+e;14446330;'centre de danse international Rosella-Hightower';777;0
+e;15281317;'centre de diagnostic';1;0
+e;15594432;'centre de distribution';1;0
+e;15483567;'centre de distribution du courrier';1;0
+e;15543986;'centre de dépistage du sida';1;0
+e;15442365;'centre de formation continue';1;0
+e;15265356;'centre de formation des apprentis';1;0
+e;14376830;'centre de formation initiale des militaires du rang de la 7e brigade blindée - 3e régiment de chasseurs d'Afrique';777;0
+e;15584988;'centre de formation par apprentissage';1;0
+e;15369722;'centre de formation professionnelle';1;0
+e;15422961;'centre de forme physique';1;0
+e;15218225;'centre de greffe';1;0
+e;15245487;'centre de greffe de moelle osseuse';1;0
+e;15386141;'centre de gériatrie';1;0
+e;15294153;'centre de l'assistance aux toxicomanes';1;0
+e;15225981;'centre de l'érection';1;0
+e;15784263;'centre de la cible';1;0
+e;15284453;'centre de la satiété';1;0
+e;15292887;'centre de langue et culture française';1;0
+e;15302507;'centre de liquidité';1;0
+e;15319689;'centre de loisirs sportifs et culturels';1;0
+e;15442373;'centre de paiement';1;0
+e;15289325;'centre de pisciculture';1;0
+e;15495988;'centre de prévention et de contrôle des maladies';1;0
+e;15294950;'centre de recherche et d'innovation';1;0
+e;15503114;'centre de recherche et de documentation';1;0
+e;15952845;'centre de recherche géologique de Finlande';777;0
+e;15442378;'centre de recyclage';1;0
+e;15248672;'centre de renseignement';1;0
+e;15635656;'centre de restauration du patrimoine';1;0
+e;15442385;'centre de réinsertion';1;0
+e;15625367;'centre de réservations';1;0
+e;15369666;'centre de réserve';1;0
+e;15369664;'centre de rétention administrative';1;0
+e;15372961;'centre de sauvegarde';1;0
+e;15358720;'centre de service de messages courts';1;0
+e;15442394;'centre de soutien scolaire';1;0
+e;15442389;'centre de sélection';1;0
+e;15442391;'centre de séminaires';1;0
+e;15393372;'centre de table';1;0
+e;15584191;'centre de test';1;0
+e;15351169;'centre de thalassothérapie';1;0
+e;15572884;'centre de traitement de l'information';1;0
+e;15626948;'centre de traitement des brûlés';1;0
+e;15442399;'centre de traitement des eaux usées';1;0
+e;15581667;'centre de traitement opérationnel';1;0
+e;15218229;'centre de transit';1;0
+e;15772999;'centre de transit principal';1;0
+e;15218235;'centre de transplantation';1;0
+e;15319692;'centre de vote';1;0
+e;15269588;'centre des archives contemporaines';1;0
+e;15575585;'centre des archives d'outre-mer';1;0
+e;15218227;'centre des gasps';1;0
+e;15384464;'centre des opérations';1;0
+e;15304734;'centre distributeur';1;0
+e;15233117;'centre du langage';1;0
+e;15532208;'centre du langage parlé';1;0
+e;15329932;'centre du patrimoine';1;0
+e;15329934;'centre du patrimoine mondial';1;0
+e;15329929;'centre du terrain';1;0
+e;15249303;'centre du vomissement bulbaire';1;0
+e;15442408;'centre décisionnel';1;0
+e;15218231;'centre en hauteur';1;0
+e;15286025;'centre européen de l'unesco pour l'enseignement supérieur';1;0
+e;15503116;'centre européen de recherches nucléaires';1;0
+e;15755136;'centre français d'exploitation de la copie';1;0
+e;15261829;'centre georges pompidou';1;0
+e;15526342;'centre greffeur';1;0
+e;15314303;'centre gustatif';1;0
+e;15477723;'centre handisport';1;0
+e;15372950;'centre hippique';1;0
+e;15288404;'centre hospitalo universitaire';1;0
+e;15218216;'centre idéomoteur';1;0
+e;15331694;'centre inter armées';1;0
+e;15388061;'centre international de physique théorique';1;0
+e;15367360;'centre moteur de Broca';1;0
+e;15340495;'centre moteur de broca';1;0
+e;15386070;'centre moteur du langage';1;0
+e;15921293;'centre mutualiste';1;0
+e;15261835;'centre national d'art et de culture Georges Pompidou';1;0
+e;15358018;'centre national de la chanson, des variétés et du jazz';1;0
+e;15479970;'centre national de la cinématographie';1;0
+e;15770662;'centre national de la photographie';1;0
+e;15236598;'centre national de préhistoire';1;0
+e;15387260;'centre national de transfusion sanguine';1;0
+e;15337714;'centre national des arts du cirque';1;0
+e;15358478;'centre national des arts plastiques';1;0
+e;15499680;'centre national du cinéma';1;0
+e;15625185;'centre national du livre';1;0
+e;15369885;'centre nerveux de l'écriture';1;0
+e;15369883;'centre nerveux supérieur';1;0
+e;15547653;'centre omnisports';1;0
+e;15403253;'centre omnisports de Bercy';1;0
+e;15403256;'centre omnisports de paris Bercy';1;0
+e;15547655;'centre omnisports de paris-bercy';1;0
+e;15380383;'centre opérationnel';1;0
+e;15581665;'centre opérationnel de défense';1;0
+e;15489571;'centre opérationnel des douanes';1;0
+e;6359416;'centre ouest des etats-unis';1;0
+e;15479644;'centre prestataire';1;0
+e;15442421;'centre pédagogique';1;0
+e;15442424;'centre périscolaire';1;0
+e;15387258;'centre régional de transfusion sanguine';1;0
+e;15317998;'centre régional des oeuvres universitaires et scolaires';1;0
+e;15411546;'centre salivaire';1;0
+e;15438922;'centre serveur';1;0
+e;15202699;'centre serveur Internet';1;0
+e;15544007;'centre sismologique';1;0
+e;15489655;'centre socio-culturel';1;0
+e;15442429;'centre socioculturel';1;0
+e;15218595;'centre sudoral';1;0
+e;15366316;'centre technique de coopération agricole et rurale';1;0
+e;15498579;'centre thermorégulateur';1;0
+e;15575639;'centre épidémiologique';1;0
+e;16041422;'centre-auto';1;0
+e;10970548;'centre-européen';1;0
+e;15370415;'changeant le centre d'intérêt';1;0
+e;15370413;'changer le centre d'intérêt';1;0
+e;16155300;'centre de recherche de Rothamsted';777;0
+e;16159773;'centre d'archives';777;0
+e;16159774;'centre de documentation littéraire international';777;0
+e;16312583;'centre pneumotaxique';1;0
+e;16329177;'centre d'hébergement et de soins de longue durée';1;0
+e;16493039;'centre-nord';1;0
+e;16493038;'centre-est';1;0
+e;1829861;'centre communal d'action sociale';1;0
+e;1829876;'centre de transfusion sanguine';1;0
+e;1829884;'centre international de recherche sur le cancer';1;0
+e;2382383;'hypo-centre';1;0
+e;10032916;'centre de recherche sur les liens sociaux';777;0
+e;10961318;'parti politique de centre droit';1;0
+e;10951487;'centre historique de Naples';777;0
+e;10958238;'centre de transfusion sanguine des armées';777;0
+e;10958236;'centre d'épidémiologie et de santé publique des armées';777;0
+e;10958934;'centre de maintenance des tramways de Gières';777;0
+e;10832515;'centre-américaine';1;0
+e;10743974;'Union du centre démocratique';777;0
+e;10734615;'centre de Goiás';777;0
+e;11065409;'centre d'études et de recherches sur les qualifications';777;0
+e;11079137;'centre scolaire du Souverain';777;0
+e;11789803;'centre de détention de Melun';777;0
+e;12072401;'centre hospitalier universitaire de Reims';777;0
+e;12199461;'centre hospitalier universitaire de Saint-Étienne';777;0
+e;12199437;'centre hospitalier universitaire de Clermont-Ferrand';777;0
+e;13446575;'centre-Bretagne';1;0
+e;11393791;'centre-européenne';1;0
+e;13738044;'centre d'extermination nazi de Pirna-Sonnenstein';777;0
+e;14356742;'centre de formation initiale des militaires du rang de la 27e brigade d'infanterie de montagne - 6e bataillon de chasseurs alpins';777;0
+e;14454481;'bourg-centre';1;0
+e;6320881;'centre mère-enfant indépendant';1;0
+e;6327480;'centre mère-enfant hospitalier';1;0
+e;15780450;'centre de recherche de Black Mesa';777;0
+e;15915677;'centre technique national';777;0
+e;15921316;'centre technique national de Bingerville';777;0
+e;15945046;'centre ancien';777;0
+e;15909904;'arrière centre';777;0
+e;16109572;'Voyage au centre de la Terre édition collector Version 3D';777;0
+e;1829857;'centre antipoisons';1;0
+e;1829856;'centre aéré à caractère sanitaire';1;0
+e;1829874;'centre de rotation';1;0
+e;1829883;'centre hospitalier de secteur';1;0
+e;1829859;'centre d'aide par le travail';1;0
+e;1829881;'centre hospitalier général';1;0
+e;5960516;'centre technique';1;0
+e;5960515;'centre technique industriel';1;0
+e;5954267;'centre universitaire de Clichy';777;0
+e;10576684;'incendie du centre commercial Winter Cherry de Kemerovo';777;0
+e;10836129;'centre-asiatique';1;0
+e;10928939;'centre cinématographique marocain';777;0
+e;10922978;'centre démocrate';777;0
+e;10935146;'centre hospitalier Érasme';777;0
+e;10935145;'centre médical Érasme';777;0
+e;11080632;'centre interdisciplinaire de recherche en sciences sociales';1;0
+e;11697930;'stade du centre sportif de l'Universiade de Shenzhen';777;0
+e;11697929;'stade du centre sportif universitaire de Shenzhen';777;0
+e;11824976;'Démocrates du centre';777;0
+e;11825778;'centre Primo Levi';777;0
+e;12199439;'centre hospitalier universitaire Grenoble-Alpes';777;0
+e;12865936;'BBB centre d'art';777;0
+e;16391816;'Le centre ancien';777;0
+e;15390560;'Pierre est animateur au centre sportif.';1;0
+e;15493580;'Tenez vous à distance du centre de Londres.';1;0
+e;15442335;'animateur de centre aéré';1;0
+e;1827886;'centre apneustique';1;0
+e;1828193;'centre prolifératif d'Aschoff';1;0
+e;1829862;'centre de convalescence';1;0
+e;1829863;'centre de cure ambulatoire en alcoologie';1;0
+e;1829885;'centre maternel';1;0
+e;1829889;'centre national d'études supérieures de sécurité sociale';1;0
+e;1829893;'centre régional d'informatique hospitalière';1;0
+e;1829882;'centre hospitalier régional et universitaire';1;0
+e;1829891;'centre quinze';1;0
+e;1829879;'centre d'information et de dépistage anonyme et gratuit';1;0
+e;1829878;'centre d'hygiène mentale';1;0
+e;1829887;'centre médicopsychopédagogique';1;0
+e;1829860;'centre d'appareillage';1;0
+e;1829867;'centre de moyen séjour';1;0
+e;1829892;'centre régional pour l'enfance et l'adolescence inadaptées';1;0
+e;1829871;'centre de fractionnement';1;0
+e;1829896;'centre utérin d'émission';1;0
+e;1829877;'centre d'hébergement et de réadaptation sociale';1;0
+e;1829888;'centre national d'étude et de recherche sur la nutrition et l'aliment';1;0
+e;1829894;'centre technique national de recherche sur la handicap et les inadaptations';1;0
+e;1829875;'centre de traitement et de réadaptation sociale';1;0
+e;1829880;'centre germinatif';1;0
+e;1829873;'centre de postcure';1;0
+e;1829869;'centre d'étude et de conservation des oeufs et du sperme humains';1;0
+e;1829865;'centre de jour';1;0
+e;5711538;'centre de traitement de données modulaire';777;0
+e;6423969;'centre rythmogène atrial ectopique';1;0
+e;9695851;'centre-bord';1;0
+e;10039922;'centre hospitalier universitaire Gemelli';777;0
+e;10039068;'centre historique de Rome';777;0
+e;10196988;'centre de documentation et archives de la Radio télévision suisse';777;0
+e;10196962;'centre de recherche et d'archivage de la cinémathèque suisse';777;0
+e;10745171;'centre de recherche nucléaire';1;0
+e;10745163;'parti politique du centre';1;0
+e;10840600;'Parti du centre moderne';777;0
+e;10838387;'centre géographique';777;0
+e;10428214;'alger-centre';777;0
+e;10731775;'Strasbourg-centre';777;0
+e;10994890;'centre d'un groupe';777;0
+e;11013725;'centre de la France';777;0
+e;11022773;'centre des statistiques';777;0
+e;11080633;'centre interdisciplinaire de recherche';1;0
+e;11287545;'centre culturel Tjibaou';777;0
+e;11412918;'centre des capitales';777;0
+e;12077706;'centre auto';1;0
+e;13537557;'centre commercial de La Part-Dieu';777;0
+e;14773582;'Noyelles - centre commercial';777;0
+e;15263539;'Le nouveau centre commercial doit ouvrir en mai.';1;0
+e;15777217;'Le projet de centre d'art contemporain';777;0
+e;15370411;'Mon principal centre d'intérêt, c'est la musique.';1;0
+e;15442336;'animatrice de centre aéré';1;0
+e;16153754;'Le centre du bourg';777;0
+e;16235926;'L'hostilité au centre des relations internationales';777;0
+e;1829886;'CMP centre médicopsychologique';1;0
+e;1829870;'centre d'examens de santé';1;0
+e;1829866;'centre de long séjour';1;0
+e;1829864;'centre de cure médicale';1;0
+e;1829890;'CPOA centre psychiatrique d'orientation et d'accueil';1;0
+e;5561132;'centre de recherche sur le cancer';1;0
+e;5573279;'centre thérapeutique';1;0
+e;5625021;'centre d'hydrothérapie';777;0
+e;5808662;'centre de physique théorique';777;0
+e;5980078;'centre français de secourisme';777;0
+e;6006644;'centre spatial Vikram Sarabhai';777;0
+e;6066482;'centre d'affaires international de Moscou';777;0
+e;10038635;'centre des monuments nationaux';777;0
+e;10311905;'Troisième ligne centre';777;0
+e;10316263;'primaire ouverte de la droite et du centre';777;0
+e;11932273;'Parti du centre d'Estonie';777;0
+e;11932459;'centre hospitalier de Thiers';777;0
+e;11936662;'centre commercial Beaugrenelle';777;0
+e;12050479;'employée d'un centre d'hydrothérapie';1;0
+e;12050478;'employé d'un centre d'hydrothérapie';1;0
+e;12050879;'animateur d'accueil de loisirs en centre de loisirs';1;0
+e;12050977;'dispatcher centre de distribution';1;0
+e;12050880;'animatrice d'accueil de loisirs en centre de loisirs';1;0
+e;12050978;'dispatcheuse centre de distribution';1;0
+e;12077709;'centre de contrôle spécialisé';1;0
+e;12077707;'centre de commutation du service des mobiles';1;0
+e;12077708;'centre de commutation du service mobile';1;0
+e;12883813;'centre hospitalier de cancérologie';1;0
+e;15263537;'Le dimanche, le centre commercial est désert.';1;0
+e;6006327;'centre spatial de Tsukuba';777;0
+e;10847710;'centre de formation du Stade Malherbe Caen';777;0
+e;10852555;'centre fortifié';1;0
+e;10853557;'centre de contrôle technique des véhicules';1;0
+e;10933613;'centre avancé d'études de la Torah';1;0
+e;10933614;'centre avancé d'études';1;0
+e;11100384;'centre F';777;0
+e;11341791;'centre historique de Panama';777;0
+e;11770213;'centre hospitalier universitaire de Dijon-Bourgogne';777;0
+e;11933851;'centre d'hébergement d'urgence';777;2
+e;16507940;'Bataille au centre de la Terre';777;0
+e;2439071;'centre LGBT';1;0
+e;5702475;'centre linguistique d'État';777;0
+e;6001015;'centre d'assemblage Michoud';777;0
+e;6685038;'parti du centre';777;0
+e;10909253;'centre sportif Richard-Bozon';777;0
+e;10906783;'centre technique national Fernand-Sastre';777;0
+e;11236805;'centre d'enregistrement et de révision des formulaires administratifs';777;0
+e;11255801;'centre hospitalier vétérinaire';777;0
+e;11288888;'province du centre';777;0
+e;11392512;'attaque du centre commercial Westgate';777;0
+e;11836608;'centre de contrôle et de commandement aérospatial de Pékin';777;0
+e;4086853;'centre-tir';1;4
+e;5553382;'centre de mathématiques appliquées';777;0
+e;5721246;'centre-sud';1;0
+e;5808663;'centre de pression';777;0
+e;5901244;'centre nautique municipal de Douarnenez';777;0
+e;6000252;'centre de lancement d'Alcântara';777;0
+e;6014223;'anti-centre';1;0
+e;6450589;'centre d'ossification du foetus';1;0
+e;6443035;'ostéochondrite juvénile du centre d'ossification primaire de la rotule';1;0
+e;6531118;'centre de brûlés';1;0
+e;6427359;'centre du corps d'une vertèbre cervicale';1;0
+e;10775056;'le centre quiescent';777;0
+e;10346793;'centre dramatique national';777;0
+e;10829650;'centre de désintoxication pour toxicomanes';1;0
+e;11151717;'centre d'études prospectives et d'informations internationales';777;0
+e;11518932;'centre des études supérieures industrielles';777;0
+e;11597854;'Parti du centre social';777;0
+e;5837569;'centre hospitalier Sainte-Anne';777;0
+e;10191469;'centre culturel de Bonlieu';777;0
+e;10367262;'centre de patinage artistique Iceberg';777;0
+e;10367263;'centre de curling Ice Cube';777;0
+e;10367043;'centre d'entraînement Ooredoo';777;0
+e;10548856;'centre international de congrès de Tours';777;0
+e;10762498;'Union de centre';777;0
+e;11001881;'musée national centre d'art Reina Sofía';777;0
+e;11157161;'centre de rétention pour les travaux forcés';1;0
+e;11249886;'centre d'accueil de demandeurs d'asile';777;0
+e;11250982;'lieux patrimoniaux du centre de Terre-Neuve';777;0
+e;11381622;'centre stéréogène';777;0
+e;12053163;'auberge de jeunesse et centre international de séjour';1;0
+e;12053179;'centre d'interprétation';1;0
+e;15651971;'La social-démocratie et l'attraction du centre';777;0
+e;5812225;'centre international d'amélioration du maïs et du blé';777;0
+e;5883532;'centre canadien de lutte contre les toxicomanies';777;0
+e;6685040;'Union du centre';777;0
+e;10132876;'centre hospitalier régional d'Orléans';777;0
+e;10186126;'centre commercial Colombo';777;0
+e;10511535;'Scènes de ménage dans un centre commercial';777;0
+e;11161300;'centre de Spieker';777;0
+e;11182206;'centre d'enseignement militaire';1;0
+e;11216830;'Visite du centre de dépannage de la porte Maillot à l'occasion desjournées européennes du patrimoine 2013';777;0
+e;11217880;'centre de mémoire de la verrerie d'en haut';777;0
+e;11326578;'musée juif et centre de tolérance';777;0
+e;11387676;'centre de l'imaginaire arthurien';777;0
+e;11555293;'centre multimédia';777;0
+e;11558035;'centre Razoumkov';777;0
+e;11971408;'centre d'art';777;0
+e;2475703;'centre de première intervention';1;0
+e;5919378;'centre scientifique et technique Jean-Féger';777;0
+e;5982376;'centre de stockage de l'Aube';777;0
+e;6594505;'centre de visionnage';777;0
+e;9944173;'centre de commutation';777;0
+e;9944174;'centre téléphonique';777;0
+e;10092115;'centre pénitentiaire de Fresnes';777;0
+e;10126843;'centre universitaire Dauphine';777;0
+e;10427745;'centre arrière';777;0
+e;11153753;'pour garder le contrôle du centre';777;0
+e;11153688;'partie du centre';777;0
+e;11153752;'un ...dxc4 ultérieur concèdera le contrôle du centre aux Blancs';777;0
+e;11208959;'armée catholique et royale du centre';777;0
+e;11693124;'centre anti-cancer';1;0
+e;11995749;'centre national d'art et de culture Georges-Pompidou';777;6
+e;5562968;'centre Sanger';777;0
+e;5937943;'centre du vomissement';777;0
+e;6003275;'centre spatial de Tanegashima';777;0
+e;6530681;'centre indépendant de soins de santé';1;0
+e;6685035;'Parti du centre';777;0
+e;9950730;'centre brésilien d'enrichissement d'uranium';777;0
+e;10106145;'centre régional de documentation pédagogique';777;0
+e;10178831;'récompense du centre Kennedy';777;0
+e;11160304;'centre CEA de Saclay';777;0
+e;11161739;'centre national de gestion';777;0
+e;11161738;'centre de gestion de la fonction publique territoriale';777;0
+e;11161737;'centre de gestion agréé';777;0
+e;11315917;'centre d'art contemporain';1;0
+e;11995750;'centre Georges-Pompidou';777;4
+e;12076741;'centre médico-psychologique';777;0
+e;13198788;'centre de formation du Stade rennais football club';777;0
+e;5534598;'étoile de David avec en son centre le temple de Jérusalem';777;0
+e;5984379;'centre de bus';777;0
+e;5982383;'centre de stockage de la Manche';777;0
+e;6006783;'centre spatial de Maspalomas';777;0
+e;6451532;'ostéochondrite juvénile du centre d'ossification secondaire de la rotule';1;0
+e;10159666;'centre d'instruction naval';777;0
+e;10159665;'centre d'instruction naval de Brest';777;0
+e;10334797;'centre d'entraînement Robert-Louis-Dreyfus';777;0
+e;11160303;'centre d'études nucléaires de Grenoble';777;0
+e;11160273;'centre nucléaire de production d'électricité';777;0
+e;11160271;'centre industriel de stockage géologique';777;0
+e;11160305;'centre de recherche CEA Saclay';777;0
+e;1833103;'épaisseur au centre optique';1;0
+e;2371692;'centre de secours principal';1;0
+e;2398112;'centre gay et lesbien';1;0
+e;3971273;'centre-bourg';1;0
+e;5989203;'centre de recherche nucléaire de Nahal Soreq';777;0
+e;6006782;'centre spatial des Canaries';777;0
+e;6000005;'centre de contrôle de mission';777;0
+e;6000004;'centre de contrôle';777;22
+e;6446980;'centre d'information';1;0
+e;6538267;'zone du centre phrénique';1;0
+e;10143744;'centre d'animation et de ressources d'information sur la formation';777;0
+e;11105176;'centre hospitalier universitaire de Rennes';777;0
+e;6649274;'centre de villégiature';777;0
+e;10773206;'centre Pierre-Mendès-France';777;0
+e;11104965;'centre nautique';1;0
+e;11364099;'centre hospitalier régional de Metz-Thionville';777;0
+e;11363936;'centre Saint-Martial';777;0
+e;5521001;'centre de cérémonie';1;0
+e;5522242;'centre religieux';1;0
+e;5553449;'homothétie de centre O et de rapport k';777;0
+e;10443059;'centre historique de Macao';777;0
+e;11012467;'centre Simon-Wiesenthal';777;0
+e;11364239;'centre commercial Saint-Jacques';777;0
+e;11364238;'centre Saint-Jacques';777;0
+e;12770829;'Tour du centre des congrès';777;0
+e;1829858;'centre cellulaire';1;0
+e;5940318;'centre réactionnel';777;0
+e;6449159;'centre d'ossification foetal';1;0
+e;8427730;'centre de chondrogénèse foetal';1;0
+e;10367044;'centre de formation du Paris Saint-Germain Football Club';777;0
+e;11153694;'contre-gambit du pion dame ou contre gambit du centre';777;0
+e;11326737;'centre culturel Heydar-Aliyev';777;0
+e;12773644;'centre de la rétine';1;0
+e;11381619;'centre pseudo-asymétrique';777;0
+e;5557211;'Voyage au centre de la Terre - 3D';777;0
+e;5990733;'trois quart centre';1;0
+e;6003397;'centre d'entraînement des cosmonautes Youri-Gagarine';777;0
+e;9024631;'centre de la douleur';1;0
+e;9692871;'centre d'entraînement et de formation';777;0
+e;9743923;'centre de fitness';777;0
+e;11105474;'centre Pompidou-Metz';777;0
+e;11131475;'centre de Nieuwkoop';777;0
+e;12247116;'centre d'études et recherches IBM La Gaude';777;0
+e;12274346;'centre Alexis-Vautrin';777;0
+e;12274398;'centre Henri-Becquerel';777;0
+e;12274394;'centre François-Baclesse';777;0
+e;12653428;'centre religieux et communautaire';1;0
+e;13749954;'280-288 réflexes et fonctions du centre respiratoire';1;0
+e;14768260;'Bourgoin-Jallieu-centre';777;0
+e;15253306;'Il n'est pas toujours facile de se garer dans le centre.';1;0
+e;15300996;'Il y a beaucoup de bus pour le centre ville.';1;0
+e;15197344;'Il s'est fait agresser au centre ville.';1;0
+e;14156909;'Hyper-centre';1;0
+e;14916201;'Hauts plateaux du centre de Sri Lanka';777;0
+e;14485346;'Au centre';777;0
+e;15382068;'Ceci s'inscrit au centre de nos ambitions.';1;0
+e;15687779;'Commandant le département de la Floride du centre et de l'est';777;0
+e;15791225;'Kongle centre';777;0
+e;16286111;'Association amicale des anciens du centre de calcul';777;0
+e;459939;'centre phrénique';1;50
+e;592735;'centre de lutte contre le cancer';1;0
+e;1739798;'centre de stockage et de déchets ultimes';777;0
+e;1745477;'trois-quarts centre';1;0
+e;2358332;'centre de traitement de l'alerte';1;0
+e;2484564;'voltigeur de centre';1;0
+e;6539388;'centre d'ossification secondaire';1;0
+e;460143;'centre tendineux du diaphragme';1;50
+e;461596;'centre médical Marmottan';777;50
+e;572041;'centre hospitalier universitaire de Grenoble';777;50
+e;1804978;'centre du périnée';1;0
+e;2189456;'en plein centre d'';2;0
+e;2526944;'centre LGBTI';1;0
+e;592724;'centre hospitalier départemental';1;0
+e;1765662;'National Center for Supercomputing Applications est un centre';777;0
+e;2490705;'centre de contrôle routier';1;0
+e;2593002;'centre pénitentiaire de Marseille';777;0
+e;3314780;'centre de la mémoire d'Oradour-sur-Glane';1;0
+e;395699;'centre d'ossification';1;50
+e;656781;'centre de masse d'un polygone';777;0
+e;656779;'centre de gravité d'un polygone';777;0
+e;3319668;'centre de ramassage du lait';1;0
+e;436379;'centre scientifique';1;50
+e;566504;'centre de traitement de données';777;50
+e;592749;'centre de réception et de régulation des appels';1;0
+e;1804976;'centre tendineux du périnée';1;0
+e;2560040;'centre actif';1;0
+e;1744958;'centre de données';777;0
+e;592683;'centre local de services communautaires';777;0
+e;2554661;'centre opérationnel des transmissions';1;0
+e;592725;'centre hospitalier régional universitaire';1;0
+e;592719;'centre d'action médico-social précoce';1;0
+e;662418;'centre nodal';777;0
+e;1742155;'centre d'injection supervisée';777;0
+e;1804979;'centre de rééducation fonctionnelle';1;0
+e;1841638;'centre lipidique de la plaque athéromateuse';1;0
+e;3277600;'centre d'information et d'orientation';1;0
+e;3306628;'centre de radiologie';1;0
+e;6539387;'centre d'ossification primaire';1;0
+e;1011696;'centre d'inertie';777;0
+e;1804977;'centre organisateur';1;0
+e;3321650;'centre technique de la salaison, de la charcuterie et des conserves de viandes';1;0
+e;4314103;'centre commun';1;0
+e;592752;'centre de santé et de services sociaux';1;0
+e;962040;'centre de gym';777;0
+e;1744957;'centre de courbure';777;0
+e;2143007;'centre-';2;0
+e;2358650;'centre de coordination des opérations et des transmissions';1;0
+e;2543650;'centre GLBT';1;0
+e;2589174;'centre hospitalier national d'ophtalmologie des Quinze-Vingts';777;0
+e;3225355;'centre hospitalier universitaire Grenoble Alpes';777;0
+e;3319669;'centre de collecte du lait';1;0
+e;4312540;'centre galactique';1;0
+e;4332301;'centre de l'Espagne';1;0
+e;592729;'centre d'Information de dépistage et de diagnostic des infections sexuellement transmissibles';1;0
+e;2129141;'au centre d'';2;0
+e;2601091;'centre public d'action sociale';777;0
+e;6528570;'Lieux publics - centre national de création';777;0
+e;1804975;'centre vésicospinal de Budge';1;0
+e;1829868;'centre de post-cure';1;0
+e;1916321;'centre tendineux';1;0
+e;346296;'dans le centre de';1;50
+e;342386;'centre d'entraînement';1;50
+e;342385;'centre d'analyse';1;50
+e;342380;'centre carbochimique';1;50
+e;342365;'centre psychiatrique';1;50
+e;342337;'centre de ski';1;50
+e;342327;'centre de musique';1;50
+e;342323;'centre de gestion';1;50
+e;342304;'centre d'emploi';1;50
+e;342290;'centre antidouleur';1;50
+e;356373;'gouvernement de centre droit';1;50
+e;342404;'centre visuel';1;50
+e;342391;'centre d'études';1;50
+e;342378;'centre antipoison';1;50
+e;342366;'centre psychomoteur';1;50
+e;342364;'centre professionnel';1;50
+e;342360;'centre musical';1;50
+e;342339;'centre de séjour';1;50
+e;342336;'centre de ressources';1;50
+e;342330;'centre de profit';1;50
+e;342295;'centre bouddhique';1;50
+e;391407;'théorème de l'angle au centre';777;50
+e;391406;'théorèmes de l'angle inscrit et de l'angle au centre';777;50
+e;343357;'chef de centre';1;50
+e;342405;'centre économique';1;50
+e;342383;'centre d'achats';1;50
+e;342373;'centre thermal';1;50
+e;342357;'centre jardinier';1;50
+e;342352;'centre industriel';1;50
+e;342351;'centre horloger';1;50
+e;342348;'centre départemental';1;50
+e;342328;'centre de percussion';1;50
+e;342322;'centre de fabrication';1;50
+e;342321;'centre de développement';1;50
+e;342319;'centre de détection';1;50
+e;342302;'centre d'animation';1;50
+e;342300;'centre d'action';1;50
+e;342297;'centre communautaire';1;50
+e;342294;'centre auditif';1;50
+e;351065;'en plein centre de';1;50
+e;342398;'centre de vol';1;50
+e;342393;'centre de mobilisation';1;50
+e;342388;'centre d'expérimentation militaire';1;50
+e;342387;'centre d'exploitation';1;50
+e;342376;'centre vidéo';1;50
+e;342367;'centre radical';1;50
+e;342358;'centre minier';1;50
+e;342345;'centre de télécommunications';1;50
+e;342343;'centre de traitement';1;50
+e;342341;'centre de technologie';1;50
+e;342320;'centre de détention préventive';1;50
+e;342315;'centre de culture';1;50
+e;342314;'centre de culte';1;50
+e;342312;'centre de construction';1;50
+e;342311;'centre de congrès';1;50
+e;342308;'centre d'extraction';1;50
+e;342293;'centre audiovisuel';1;50
+e;342291;'centre antirabique';1;50
+e;337292;'au centre de';1;50
+e;342396;'centre de ravitaillement';1;50
+e;342392;'centre de commercialisation';1;50
+e;342382;'centre cérébral';1;50
+e;342375;'centre universitaire';1;50
+e;342374;'centre trophique';1;50
+e;342362;'centre névralgique';1;50
+e;342359;'centre mobilisateur';1;50
+e;342356;'centre islamique';1;50
+e;342355;'centre intellectuel';1;50
+e;342349;'centre dépressionnaire';1;50
+e;342347;'centre des forces parallèles';1;50
+e;342310;'centre de communications';1;50
+e;342298;'centre cultuel';1;50
+e;342289;'centre anticancéreux';1;50
+e;342395;'centre de pêche';1;50
+e;342394;'centre de population';1;50
+e;342377;'centre école';1;50
+e;342369;'centre sensoriel';1;50
+e;342344;'centre de tri postal';1;50
+e;342340;'centre de séjour estival';1;50
+e;342325;'centre de jeunesse';1;50
+e;342316;'centre de documentation';1;50
+e;342305;'centre d'essais';1;50
+e;391533;'centre ovale de Vieussens';1;50
+e;342401;'centre orthosympathique vasoconstricteur';1;50
+e;342400;'centre diététique';1;50
+e;342397;'centre de redistribution';1;50
+e;342381;'centre chirurgical';1;50
+e;342372;'centre textile';1;50
+e;342371;'centre spirituel';1;50
+e;342363;'centre ornithologique';1;50
+e;342338;'centre de soins';1;50
+e;342334;'centre de recherche industrielle';1;50
+e;342333;'centre de recherche industriel';1;50
+e;342331;'centre de préparation';1;50
+e;342324;'centre de gravitation';1;50
+e;342318;'centre de désintoxication';1;50
+e;342301;'centre d'aiguillage';1;50
+e;342390;'centre d'insémination';1;50
+e;342346;'centre de voile';1;50
+e;342342;'centre de tourisme';1;50
+e;342317;'centre de décision';1;50
+e;342313;'centre de contrôle régional';1;50
+e;342303;'centre d'artisanat';1;50
+e;342299;'centre cérémoniel';1;50
+e;342402;'centre sociosportif';1;50
+e;342389;'centre d'homothétie';1;50
+e;342368;'centre routier';1;50
+e;342350;'centre ferroviaire';1;50
+e;342329;'centre de prière';1;50
+e;342326;'centre de location';1;50
+e;342309;'centre d'équipement';1;50
+e;342296;'centre climatique';1;50
+e;342292;'centre artisanal';1;50
+e;356374;'gouvernement de centre gauche';1;50
+e;342399;'centre directionnel';1;50
+e;342384;'centre d'aide';1;50
+e;342379;'centre ardoisier';1;50
+e;342370;'centre social';1;50
+e;342361;'centre médico-chirurgical';1;50
+e;342354;'centre instantané de rotation';1;50
+e;342353;'centre informatique';1;50
+e;342335;'centre de recrutement';1;50
+e;342332;'centre de rassemblement';1;50
+e;342307;'centre d'expérimentation';1;50
+e;342306;'centre d'exposition';1;50
+e;284439;'ville-centre';777;50
+e;249536;'centre-ouest';1;50
+e;154633;'centre-droit';1;60
+e;154634;'centre-gauche';1;54
+e;319934;'centre pénitentiaire';1;56
+e;320402;'centre semi-ovale';1;50
+e;321880;'centre de vol spatial Goddard';1;50
+e;321881;'centre de vols spatiaux Goddard';777;50
+e;321958;'centre touristique';1;50
+e;324898;'centre d'enseignement';1;52
+e;325075;'centre spatial guyanais';1;50
+e;325070;'centre spatial Kennedy';1;50
+e;325111;'centre spatial';1;50
+e;216386;'qui a un centre commun';1;50
+e;207915;'se prendre pour le centre du monde';1;54
+e;213961;'un partout, la balle au centre';1;50
+e;231410;'centre de symétrie';1;10
+e;235940;'centre de lavage';1;50
+e;239391;'centre de vacances et de loisirs';1;2
+e;239418;'centre d'aide sociale';1;50
+e;240840;'centre d'examen';1;50
+e;242419;'centre d'initiation à l'enseignement supérieur';1;2
+e;244491;'centre de presse';1;50
+e;245622;'centre Pompidou';1;54
+e;246730;'centre de formation';1;50
+e;250663;'centre Georges Pompidou';1;52
+e;251905;'centre Leclerc';1;50
+e;252734;'centre éducatif';1;52
+e;253071;'centre Beaubourg';1;54
+e;253328;'centre de rééducation';1;52
+e;253330;'centre d'observations';1;50
+e;253972;'centre de rétention';1;76
+e;258490;'centre urbain';1;50
+e;261873;'centre anti-poison';1;50
+e;262859;'avec de l'air au centre de la lésion';1;50
+e;262946;'centre de dialyse';1;52
+e;218829;'centre de loisirs';1;112
+e;231612;'centre de remise en forme';1;50
+e;253263;'centre de documentation et d'information';1;2
+e;242217;'centre historique';1;10
+e;237645;'centre médico-social';1;14
+e;253264;'élu du centre';1;50
+e;253266;'voter au centre';1;50
+e;253262;'centre hospitalier régional';1;2
+e;161500;'département de centre';1;50
+e;163102;'grand centre';1;50
+e;231628;'centre aquatique';1;50
+e;237265;'centre culturel';1;50
+e;247448;'centre mou';1;6
+e;259696;'centre hospitalier universitaire';1;56
+e;263779;'air au centre la lésion';1;50
+e;263782;'centre éducatif fermé';1;50
+e;280477;'un centre de collecte des céréales';777;50
+e;162185;'centre carcéral';1;52
+e;210384;'centre d'accueil';1;54
+e;162660;'centre d'essai';1;50
+e;210387;'centre d'hébergement';1;60
+e;210388;'centre d'oscillation';1;50
+e;210386;'centre d'éducation surveillée';1;50
+e;164003;'centre de recherche';1;58
+e;212645;'centre de vaccination';1;52
+e;267009;'centre de vacances';1;50
+e;267068;'centre agréé';1;50
+e;268651;'centre de vacances naturiste';1;2
+e;269749;'centre de santé';1;50
+e;273285;'centre de vacances ou de loisirs';777;50
+e;276579;'Voyage au centre de la mémoire';777;50
+e;281169;'centre de masse';777;50
+e;281246;'centre de production';777;50
+e;287290;'centre d'enfouissement';777;50
+e;289127;'centre de vol spatial Marshall';777;50
+e;291616;'centre de conférences';777;50
+e;292956;'centre d'assistance';777;50
+e;303596;'centre d'études de Cadarache';777;50
+e;306257;'centre d'appel';777;50
+e;158913;'centre administratif';1;50
+e;181405;'centre asymétrique';1;50
+e;181406;'centre automobile';1;50
+e;181407;'centre chiral';1;50
+e;181408;'centre d'achat';1;6
+e;181410;'centre d'affaires international';1;50
+e;181411;'centre d'appels';1;50
+e;181420;'centre d'incendie et de secours';1;50
+e;140899;'centre d'équitation';1;50
+e;181419;'centre d'évaluation';1;50
+e;181412;'centre de conception';1;50
+e;39115;'centre de dépistage';1;50
+e;181413;'centre de lancement';1;50
+e;181414;'centre de ligne';1;50
+e;181415;'centre de magasins d'usine';1;50
+e;90109;'centre de recherches';1;50
+e;181416;'centre de scène';1;50
+e;181417;'centre de secours';1;50
+e;181418;'centre de services partagés';1;50
+e;152991;'centre de tri';1;96
+e;153840;'centre fermé';1;54
+e;91622;'centre historique de Pienza';1;50
+e;145187;'centre national de la recherche scientifique';1;50
+e;181421;'centre opérationnel départemental d'incendie et de secours';1;50
+e;124141;'centre viscéromoteur';1;50
+e;45414;'Voyage au centre de la Terre';1;56
+e;311709;'centre de';777;50
+e;197382;'centre cardiaque';1;50
+e;197383;'centre de calcul';1;50
+e;187791;'centre de carène';1;50
+e;197384;'centre de détention';1;52
+e;197385;'centre de forces parallèles';1;50
+e;197386;'centre de poussée';1;50
+e;197387;'centre de résistance';1;50
+e;197388;'centre des impôts';1;50
+e;197389;'centre dramatique';1;50
+e;197391;'centre extéroceptif';1;50
+e;197393;'centre hospitalier spécialisé';1;50
+e;187589;'centre hospitalo-universitaire';1;52
+e;197392;'centre héliomarin';1;50
+e;197394;'centre optique';1;50
+e;197395;'centre récepteur';1;50
+e;197396;'centre somatomoteur';1;50
+e;162417;'centre équestre';1;72
+e;93208;'centre sportif';1;62
+e;24023;'avant-centre';1;116
+e;241966;'la balle au centre';1;50
+e;223562;'centre vital';1;50
+e;161391;'jouer au centre';1;50
+e;281297;'être au centre';1;50
+e;153525;'centre hospitalier';1;78
+e;154696;'en plein centre';1;54
+e;160882;'centre de gravité';1;62
+e;131717;'centre-ville';1;102
+e;196231;'au centre';1;62
+e;210385;'centre d'attraction';1;66
+e;181409;'centre d'affaires';1;14
+e;160407;'balle au centre';1;64
+e;253261;'être le centre du monde';1;16
+e;197390;'centre droit';1;92
+e;223563;'centre nerveux';1;76
+e;247447;'centre gauche';1;40
+e;161199;'centre de la terre';1;74
+e;161198;'centre d'intérêt';1;76
+e;162910;'centre aéré';1;90
+e;231621;'centre médical';1;42
+e;152757;'centre commercial';1;228
+e;152756;'centre ville';1;134
+e;160883;'centre du monde';1;102
+r;8840161;31970;144315;11;-1
+r;397138846;31970;6294743;11;25
+r;397132885;31970;6293767;11;25
+r;297665401;31970;6284438;11;25
+r;299869598;31970;6319192;11;25
+r;304384667;31970;6386266;11;25
+r;305223182;31970;6402001;11;25
+r;345205958;31970;13615071;11;25
+r;346964356;31970;13656838;11;25
+r;349153726;31970;6351203;11;25
+r;349191566;31970;6325625;11;25
+r;349201937;31970;6403942;11;25
+r;349225569;31970;6354004;11;25
+r;349236125;31970;6311206;11;25
+r;349321425;31970;6290376;11;25
+r;350895198;31970;13884057;11;25
+r;356481808;31970;14093888;11;25
+r;358952368;31970;14141302;11;25
+r;360763305;31970;14205846;11;25
+r;365358070;31970;14382045;11;25
+r;365362046;31970;14386111;11;25
+r;366515752;31970;14434487;11;25
+r;366959820;31970;14454723;11;25
+r;370556156;31970;14583887;11;25
+r;370728442;31970;14590174;11;25
+r;370779479;31970;14590175;11;25
+r;370957233;31970;14598805;11;25
+r;371245395;31970;14609265;11;25
+r;371305206;31970;14611067;11;25
+r;371759426;31970;14635806;11;25
+r;373005384;31970;14669099;11;25
+r;373006649;31970;14669098;11;25
+r;373007219;31970;14669100;11;25
+r;373165988;31970;14677795;11;25
+r;375524696;31970;14776493;11;25
+r;434443849;31970;16519745;11;25
+r;397513525;31970;6299078;11;25
+r;400711545;31970;6383295;11;25
+r;389705920;31970;14902747;11;25
+r;389970410;31970;14915993;11;25
+r;391869638;31970;15009457;11;25
+r;391909772;31970;15009456;11;25
+r;392080504;31970;15012608;11;25
+r;396195237;31970;6285240;11;25
+r;398503630;31970;6316981;11;25
+r;400017941;31970;6352273;11;25
+r;400045936;31970;6355127;11;25
+r;402043810;31970;6419576;11;25
+r;423655096;31970;16153872;11;25
+r;423174488;31970;16127108;11;25
+r;428268449;31970;16309052;11;25
+r;316250955;31970;12197465;11;26
+r;316342365;31970;12199443;11;26
+r;316342744;31970;12199458;11;26
+r;316343044;31970;12199452;11;26
+r;316344613;31970;12199451;11;26
+r;333255561;31970;12979844;11;26
+r;333430912;31970;12981895;11;26
+r;361589977;31970;14259015;11;26
+r;371171389;31970;14605246;11;26
+r;371191521;31970;14606365;11;26
+r;371745139;31970;14635398;11;26
+r;374371187;31970;14725417;11;26
+r;374380569;31970;14725689;11;26
+r;392101528;31970;15013577;11;26
+r;393619859;31970;15034319;11;26
+r;270775142;31970;10674708;11;27
+r;334053166;31970;12990837;11;27
+r;343040911;31970;13537558;11;27
+r;435070170;31970;16560528;11;27
+r;113798511;31970;5796745;11;28
+r;113799524;31970;5796131;11;28
+r;121531796;31970;6439582;11;28
+r;267316876;31970;10671373;11;28
+r;272775784;31970;10873364;11;28
+r;277363477;31970;10986311;11;28
+r;299586343;31970;6311251;11;28
+r;342577129;31970;13520008;11;28
+r;112176647;31970;5711534;11;29
+r;112664101;31970;5729241;11;29
+r;122727084;31970;6425955;11;29
+r;122746277;31970;6423493;11;29
+r;277451191;31970;10988618;11;29
+r;113284195;31970;5808657;11;30
+r;220825570;31970;9958806;11;30
+r;227678895;31970;9992516;11;30
+r;274268620;31970;10909345;11;30
+r;419765058;31970;15442435;11;30
+r;419771846;31970;15246981;11;30
+r;419771850;31970;15486085;11;30
+r;419771955;31970;12970450;11;30
+r;419778743;31970;15531497;11;30
+r;419814042;31970;15411296;11;30
+r;434640702;31970;16512730;11;30
+r;113284170;31970;5808660;11;31
+r;113766917;31970;5827185;11;31
+r;113774021;31970;5816893;11;31
+r;113782952;31970;5813347;11;31
+r;264217303;31970;10596514;11;31
+r;264445825;31970;10597445;11;31
+r;279363541;31970;11027282;11;31
+r;279363675;31970;11027253;11;31
+r;279998987;31970;11055947;11;31
+r;279999326;31970;11055938;11;31
+r;279999844;31970;11055946;11;31
+r;414450757;31970;15921467;11;31
+r;434377781;31970;16390427;11;31
+r;434377792;31970;16326220;11;31
+r;434377799;31970;16380938;11;31
+r;434377806;31970;16380937;11;31
+r;434377813;31970;16321853;11;31
+r;434377818;31970;16508269;11;31
+r;434377825;31970;16109441;11;31
+r;434377839;31970;16366719;11;31
+r;434377847;31970;16366720;11;31
+r;434377857;31970;16390899;11;31
+r;434377864;31970;16493426;11;31
+r;434377874;31970;16159978;11;31
+r;110594536;31970;5574237;11;32
+r;110201690;31970;5568853;11;32
+r;110203021;31970;5567316;11;32
+r;110205613;31970;5564651;11;32
+r;111264345;31970;5672556;11;32
+r;111336479;31970;5673317;11;32
+r;112184727;31970;5702431;11;32
+r;115857233;31970;5915711;11;32
+r;119192132;31970;6079763;11;32
+r;121482936;31970;6445032;11;32
+r;121554775;31970;6437015;11;32
+r;227646735;31970;10012825;11;32
+r;264217134;31970;10596515;11;32
+r;269410184;31970;10742621;11;32
+r;269415205;31970;10736467;11;32
+r;274973912;31970;10921592;11;32
+r;303722808;31970;11784214;11;32
+r;419618554;31970;15442339;11;32
+r;419618562;31970;15769646;11;32
+r;419625443;31970;15786883;11;32
+r;419693968;31970;15343127;11;32
+r;419693973;31970;15441178;11;32
+r;419693980;31970;15359609;11;32
+r;419693985;31970;15461930;11;32
+r;419693988;31970;15358031;11;32
+r;419693992;31970;15263103;11;32
+r;419693995;31970;15587282;11;32
+r;419694002;31970;15691089;11;32
+r;419694007;31970;15499526;11;32
+r;419694012;31970;15377084;11;32
+r;419694022;31970;15377086;11;32
+r;419694034;31970;15571446;11;32
+r;419694047;31970;15574697;11;32
+r;419694057;31970;15398196;11;32
+r;419694064;31970;15442350;11;32
+r;419694067;31970;15325819;11;32
+r;419694072;31970;15776109;11;32
+r;419694079;31970;15271692;11;32
+r;419694088;31970;15269586;11;32
+r;419694095;31970;15399201;11;32
+r;419694102;31970;15442353;11;32
+r;419694106;31970;15442354;11;32
+r;419694113;31970;15304129;11;32
+r;419694118;31970;15541460;11;32
+r;419694125;31970;15546226;11;32
+r;419694130;31970;15367227;11;32
+r;419694137;31970;15218233;11;32
+r;419694142;31970;15245703;11;32
+r;419694149;31970;15525147;11;32
+r;419694156;31970;15371891;11;32
+r;419694163;31970;14166358;11;32
+r;419694169;31970;15343233;11;32
+r;419694180;31970;15307373;11;32
+r;419694189;31970;15486006;11;32
+r;419694194;31970;15377111;11;32
+r;419694199;31970;15302396;11;32
+r;419694206;31970;15527342;11;32
+r;419694213;31970;15221054;11;32
+r;419694218;31970;15521558;11;32
+r;419694225;31970;15396346;11;32
+r;419694232;31970;15319696;11;32
+r;419694239;31970;15531805;11;32
+r;419694248;31970;15487634;11;32
+r;419694262;31970;15296641;11;32
+r;419694269;31970;15268099;11;32
+r;419694276;31970;15442355;11;32
+r;419694283;31970;15514712;11;32
+r;419694290;31970;15561229;11;32
+r;419694300;31970;15369665;11;32
+r;419694307;31970;15319694;11;32
+r;419694314;31970;15482139;11;32
+r;419694323;31970;14446330;11;32
+r;419694333;31970;15281317;11;32
+r;419694340;31970;15594432;11;32
+r;419694347;31970;15483567;11;32
+r;419694359;31970;15543986;11;32
+r;419694371;31970;15442365;11;32
+r;419694383;31970;15265356;11;32
+r;419694395;31970;14376830;11;32
+r;419694420;31970;15584988;11;32
+r;419694432;31970;15369722;11;32
+r;419694444;31970;15422961;11;32
+r;419694453;31970;15218225;11;32
+r;419694460;31970;15245487;11;32
+r;419694474;31970;15386141;11;32
+r;419694481;31970;15294153;11;32
+r;419694490;31970;15225981;11;32
+r;419694497;31970;15784263;11;32
+r;419694504;31970;15284453;11;32
+r;419694511;31970;15292887;11;32
+r;419694522;31970;15302507;11;32
+r;419694529;31970;15319689;11;32
+r;419694543;31970;15442373;11;32
+r;419694552;31970;15289325;11;32
+r;419694559;31970;15495988;11;32
+r;419694582;31970;15294950;11;32
+r;419694594;31970;15503114;11;32
+r;419694606;31970;15952845;11;32
+r;419694620;31970;15442378;11;32
+r;419694627;31970;15248672;11;32
+r;419694634;31970;15635656;11;32
+r;419694643;31970;15442385;11;32
+r;419694650;31970;15625367;11;32
+r;419694657;31970;15369666;11;32
+r;419694664;31970;15369664;11;32
+r;419694672;31970;15372961;11;32
+r;419694679;31970;15358720;11;32
+r;419694690;31970;15442394;11;32
+r;419694699;31970;15442389;11;32
+r;419694706;31970;15442391;11;32
+r;419694713;31970;15393372;11;32
+r;419694720;31970;15584191;11;32
+r;419694727;31970;15351169;11;32
+r;419694734;31970;15572884;11;32
+r;419694743;31970;15626948;11;32
+r;419694755;31970;15442399;11;32
+r;419694769;31970;15581667;11;32
+r;419694781;31970;15218229;11;32
+r;419694788;31970;15772999;11;32
+r;419694800;31970;15218235;11;32
+r;419694807;31970;15319692;11;32
+r;419694814;31970;15269588;11;32
+r;419694821;31970;15575585;11;32
+r;419694837;31970;15218227;11;32
+r;419694855;31970;15384464;11;32
+r;419694873;31970;15304734;11;32
+r;419694884;31970;15233117;11;32
+r;419694893;31970;15532208;11;32
+r;419694910;31970;15329932;11;32
+r;419694915;31970;15329934;11;32
+r;419694925;31970;15329929;11;32
+r;419694930;31970;15249303;11;32
+r;419694940;31970;15442408;11;32
+r;419694945;31970;15218231;11;32
+r;419694950;31970;15286025;11;32
+r;419694961;31970;15503116;11;32
+r;419694970;31970;15755136;11;32
+r;419694979;31970;15261829;11;32
+r;419694984;31970;15526342;11;32
+r;419694989;31970;15314303;11;32
+r;419694994;31970;15477723;11;32
+r;419694999;31970;15372950;11;32
+r;419695002;31970;15288404;11;32
+r;419695009;31970;15218216;11;32
+r;419695014;31970;15331694;11;32
+r;419695021;31970;15388061;11;32
+r;419695030;31970;15367360;11;32
+r;419695037;31970;15340495;11;32
+r;419695044;31970;15386070;11;32
+r;419695051;31970;15921293;11;32
+r;419695056;31970;15261835;11;32
+r;419695069;31970;15358018;11;32
+r;419695080;31970;15479970;11;32
+r;419695087;31970;15770662;11;32
+r;419695094;31970;15236598;11;32
+r;419695101;31970;15387260;11;32
+r;419695110;31970;15337714;11;32
+r;419695119;31970;15358478;11;32
+r;419695128;31970;15499680;11;32
+r;419695135;31970;15625185;11;32
+r;419695142;31970;15369885;11;32
+r;419695152;31970;15369883;11;32
+r;419695162;31970;15547653;11;32
+r;419695167;31970;15403253;11;32
+r;419695177;31970;15403256;11;32
+r;419695189;31970;15547655;11;32
+r;419695198;31970;15380383;11;32
+r;419695203;31970;15581665;11;32
+r;419695213;31970;15489571;11;32
+r;419695223;31970;6359416;11;32
+r;419695229;31970;15479644;11;32
+r;419695234;31970;15442421;11;32
+r;419695239;31970;15442424;11;32
+r;419695244;31970;15387258;11;32
+r;419695253;31970;15317998;11;32
+r;419695264;31970;15411546;11;32
+r;419695269;31970;15438922;11;32
+r;419695274;31970;15202699;11;32
+r;419695284;31970;15544007;11;32
+r;419695289;31970;15489655;11;32
+r;419695292;31970;15442429;11;32
+r;419695297;31970;15218595;11;32
+r;419695302;31970;15366316;11;32
+r;419695316;31970;15498579;11;32
+r;419695321;31970;15575639;11;32
+r;419695326;31970;16041422;11;32
+r;419695337;31970;10970548;11;32
+r;419699202;31970;15370415;11;32
+r;419699634;31970;15370413;11;32
+r;423793928;31970;16155300;11;32
+r;424860197;31970;16159773;11;32
+r;424884272;31970;16159774;11;32
+r;428494786;31970;16312583;11;32
+r;431573668;31970;16329177;11;32
+r;433927654;31970;16493039;11;32
+r;433927663;31970;16493038;11;32
+r;29943593;31970;1829861;11;33
+r;29944176;31970;1829876;11;33
+r;29944515;31970;1829884;11;33
+r;52920775;31970;2382383;11;33
+r;227628513;31970;10032916;11;33
+r;276214975;31970;10961318;11;33
+r;275828987;31970;10951487;11;33
+r;276014435;31970;10958238;11;33
+r;276014449;31970;10958236;11;33
+r;276036865;31970;10958934;11;33
+r;270876629;31970;10832515;11;33
+r;269396644;31970;10743974;11;33
+r;269415406;31970;10734615;11;33
+r;280508765;31970;11065409;11;33
+r;280973774;31970;11079137;11;33
+r;303759588;31970;11789803;11;33
+r;315126328;31970;12072401;11;33
+r;316547111;31970;12199461;11;33
+r;316547128;31970;12199437;11;33
+r;341203999;31970;13446575;11;33
+r;346073076;31970;11393791;11;33
+r;348394722;31970;13738044;11;33
+r;364936911;31970;14356742;11;33
+r;366953074;31970;14454481;11;33
+r;399118360;31970;6320881;11;33
+r;399490809;31970;6327480;11;33
+r;409808308;31970;15780450;11;33
+r;414440563;31970;15915677;11;33
+r;414455293;31970;15921316;11;33
+r;414879368;31970;15945046;11;33
+r;419608250;31970;15909904;11;33
+r;434366863;31970;16109572;11;33
+r;29943492;31970;1829857;11;34
+r;29943752;31970;1829856;11;34
+r;29943904;31970;1829874;11;34
+r;29944063;31970;1829883;11;34
+r;29944233;31970;1829859;11;34
+r;29945496;31970;1829881;11;34
+r;116578979;31970;5960516;11;34
+r;116578984;31970;5960515;11;34
+r;116585180;31970;5954267;11;34
+r;263404188;31970;10576684;11;34
+r;271170508;31970;10836129;11;34
+r;274966230;31970;10928939;11;34
+r;274968152;31970;10922978;11;34
+r;275366859;31970;10935146;11;34
+r;275366869;31970;10935145;11;34
+r;283110719;31970;11080632;11;34
+r;300955247;31970;11697930;11;34
+r;300955257;31970;11697929;11;34
+r;305398131;31970;11824976;11;34
+r;305454353;31970;11825778;11;34
+r;316342328;31970;12199439;11;34
+r;330763503;31970;12865936;11;34
+r;434348827;31970;16391816;11;34
+r;419525332;31970;15390560;11;34
+r;419551458;31970;15493580;11;34
+r;419595763;31970;15442335;11;34
+r;29922982;31970;1827886;11;35
+r;29925298;31970;1828193;11;35
+r;29943376;31970;1829862;11;35
+r;29943399;31970;1829863;11;35
+r;29943585;31970;1829885;11;35
+r;29943607;31970;1829889;11;35
+r;29943672;31970;1829893;11;35
+r;29943784;31970;1829882;11;35
+r;29943827;31970;1829891;11;35
+r;29943846;31970;1829879;11;35
+r;29943929;31970;1829878;11;35
+r;29943968;31970;1829887;11;35
+r;29943982;31970;1829860;11;35
+r;29943986;31970;1829867;11;35
+r;29944016;31970;1829892;11;35
+r;29944095;31970;1829871;11;35
+r;29944264;31970;1829896;11;35
+r;29944859;31970;1829877;11;35
+r;29944871;31970;1829888;11;35
+r;29944923;31970;1829894;11;35
+r;29944973;31970;1829875;11;35
+r;29945217;31970;1829880;11;35
+r;29945310;31970;1829873;11;35
+r;29945806;31970;1829869;11;35
+r;29946104;31970;1829865;11;35
+r;112176617;31970;5711538;11;35
+r;122742581;31970;6423969;11;35
+r;217358794;31970;9695851;11;35
+r;227607776;31970;10039922;11;35
+r;227612235;31970;10039068;11;35
+r;243755408;31970;10196988;11;35
+r;243755624;31970;10196962;11;35
+r;268843014;31970;10745171;11;35
+r;268864197;31970;10745163;11;35
+r;271596877;31970;10840600;11;35
+r;271604386;31970;10838387;11;35
+r;273322778;31970;10428214;11;35
+r;275556940;31970;10731775;11;35
+r;277890005;31970;10994890;11;35
+r;278990668;31970;11013725;11;35
+r;279239841;31970;11022773;11;35
+r;281069896;31970;11080633;11;35
+r;289904285;31970;11287545;11;35
+r;293582321;31970;11412918;11;35
+r;315097638;31970;12077706;11;35
+r;343040924;31970;13537557;11;35
+r;375476824;31970;14773582;11;35
+r;419492885;31970;15263539;11;35
+r;419493245;31970;15777217;11;35
+r;419509144;31970;15370411;11;35
+r;419595928;31970;15442336;11;35
+r;423650826;31970;16153754;11;35
+r;425800607;31970;16235926;11;35
+r;29943645;31970;1829886;11;36
+r;29943768;31970;1829870;11;36
+r;29944064;31970;1829866;11;36
+r;29944144;31970;1829864;11;36
+r;29945238;31970;1829890;11;36
+r;109954116;31970;5561132;11;36
+r;110252445;31970;5573279;11;36
+r;110806610;31970;5625021;11;36
+r;113284150;31970;5808662;11;36
+r;117914347;31970;5980078;11;36
+r;118524808;31970;6006644;11;36
+r;118930855;31970;6066482;11;36
+r;227612697;31970;10038635;11;36
+r;252679399;31970;10311905;11;36
+r;252664186;31970;10316263;11;36
+r;307755079;31970;11932273;11;36
+r;307760116;31970;11932459;11;36
+r;309082451;31970;11936662;11;36
+r;313693029;31970;12050479;11;36
+r;313693052;31970;12050627;11;36
+r;313693061;31970;12050628;11;36
+r;313697190;31970;12050478;11;36
+r;313697213;31970;12050738;11;36
+r;313697230;31970;12050739;11;36
+r;313704933;31970;12050879;11;36
+r;313704938;31970;12050977;11;36
+r;313704967;31970;12051125;11;36
+r;313705021;31970;12051126;11;36
+r;313705631;31970;12050880;11;36
+r;313710848;31970;12050978;11;36
+r;315096021;31970;12077709;11;36
+r;315097046;31970;12077707;11;36
+r;315099498;31970;12077708;11;36
+r;330280628;31970;12883813;11;36
+r;419491667;31970;15263537;11;36
+r;118525800;31970;6006327;11;37
+r;271769134;31970;10847710;11;37
+r;272012501;31970;10852555;11;37
+r;272028395;31970;10853557;11;37
+r;275039001;31970;10933613;11;37
+r;275049552;31970;10933614;11;37
+r;281474107;31970;11100384;11;37
+r;290539101;31970;11341791;11;37
+r;301892880;31970;11770213;11;37
+r;308034635;31970;11933851;11;37
+r;313705694;31970;12051176;11;37
+r;313705844;31970;12051177;11;37
+r;434194978;31970;16507940;11;37
+r;55218314;31970;2439071;11;38
+r;112184682;31970;5702475;11;38
+r;118539980;31970;6001015;11;38
+r;122649259;31970;6685038;11;38
+r;274269105;31970;10909253;11;38
+r;274282199;31970;10906783;11;38
+r;287917916;31970;11236805;11;38
+r;288506554;31970;11255801;11;38
+r;288919232;31970;11288888;11;38
+r;292555279;31970;11392512;11;38
+r;306196605;31970;11836608;11;38
+r;95815931;31970;4086853;11;39
+r;109887623;31970;5553382;11;39
+r;112510397;31970;5721246;11;39
+r;113284137;31970;5808663;11;39
+r;115093751;31970;5901244;11;39
+r;118542739;31970;6000252;11;39
+r;119231660;31970;6014223;11;39
+r;121042103;31970;6450589;11;39
+r;121500746;31970;6443035;11;39
+r;121917999;31970;6531118;11;39
+r;122716307;31970;6427359;11;39
+r;269533126;31970;10775056;11;39
+r;254179280;31970;10346793;11;39
+r;270406666;31970;10829650;11;39
+r;283509681;31970;11151717;11;39
+r;295983735;31970;11518932;11;39
+r;298265950;31970;11597854;11;39
+r;114015479;31970;5837569;11;40
+r;242254288;31970;10191469;11;40
+r;254592112;31970;10367262;11;40
+r;254592099;31970;10367263;11;40
+r;254592870;31970;10367043;11;40
+r;262885814;31970;10548856;11;40
+r;269407886;31970;10762498;11;40
+r;278739495;31970;11001881;11;40
+r;285043671;31970;11157161;11;40
+r;288186375;31970;11249886;11;40
+r;288253742;31970;11250982;11;40
+r;291985397;31970;11381622;11;40
+r;313744969;31970;12053163;11;40
+r;313750161;31970;12053179;11;40
+r;402150807;31970;15651971;11;40
+r;113270199;31970;5812225;11;41
+r;114760975;31970;5883532;11;41
+r;122646695;31970;6685040;11;41
+r;236691664;31970;10132876;11;41
+r;240953166;31970;10186126;11;41
+r;262043899;31970;10511535;11;41
+r;285981250;31970;11161300;11;41
+r;287145868;31970;11182206;11;41
+r;287452744;31970;11216830;11;41
+r;287542338;31970;11217880;11;41
+r;290162009;31970;11326578;11;41
+r;292362751;31970;11387676;11;41
+r;296851729;31970;11555293;11;41
+r;296862151;31970;11558035;11;41
+r;309077686;31970;11971408;11;41
+r;57919967;31970;2475703;11;42
+r;115847028;31970;5919378;11;42
+r;117905282;31970;5982376;11;42
+r;122079712;31970;6594505;11;42
+r;220198154;31970;9944173;11;42
+r;220191250;31970;9944174;11;42
+r;233026171;31970;10092115;11;42
+r;234739715;31970;10126843;11;42
+r;256486140;31970;10427745;11;42
+r;283584689;31970;11153753;11;42
+r;283585011;31970;11153688;11;42
+r;283587270;31970;11153752;11;42
+r;287285796;31970;11208959;11;42
+r;300958649;31970;11693124;11;42
+r;313145319;31970;11995749;11;42
+r;110002107;31970;5562968;11;43
+r;115911991;31970;5937943;11;43
+r;118531360;31970;6003275;11;43
+r;121919099;31970;6530681;11;43
+r;122647982;31970;6685035;11;43
+r;220622109;31970;9950730;11;43
+r;234222018;31970;10106145;11;43
+r;238919913;31970;10178831;11;43
+r;285586470;31970;11160304;11;43
+r;285693117;31970;11161739;11;43
+r;285693645;31970;11161738;11;43
+r;285696717;31970;11161737;11;43
+r;289886166;31970;11315917;11;43
+r;312632287;31970;11995750;11;43
+r;314717968;31970;12076741;11;43
+r;336653670;31970;13198788;11;43
+r;109505634;31970;5534598;11;44
+r;117896390;31970;5984379;11;44
+r;117905213;31970;5982383;11;44
+r;118524374;31970;6006783;11;44
+r;121033441;31970;6451532;11;44
+r;238104465;31970;10159666;11;44
+r;238104478;31970;10159665;11;44
+r;253388286;31970;10334797;11;44
+r;285118140;31970;11160303;11;44
+r;285120513;31970;11160273;11;44
+r;285138724;31970;11160271;11;44
+r;285146841;31970;11160305;11;44
+r;29976154;31970;1833103;11;45
+r;52036699;31970;2371692;11;45
+r;53248362;31970;2398112;11;45
+r;95817196;31970;3971273;11;45
+r;117874643;31970;5989203;11;45
+r;118524383;31970;6006782;11;45
+r;118543684;31970;6000005;11;45
+r;118543695;31970;6000004;11;45
+r;121465464;31970;6446980;11;45
+r;121854589;31970;6538267;11;45
+r;236658230;31970;10143744;11;45
+r;282497353;31970;11105176;11;45
+r;122440117;31970;6649274;11;46
+r;269538085;31970;10773206;11;46
+r;281777326;31970;11104965;11;46
+r;291813080;31970;11364099;11;46
+r;291813558;31970;11363936;11;46
+r;109026580;31970;5521001;11;47
+r;109335050;31970;5522242;11;47
+r;109887276;31970;5553449;11;47
+r;256582776;31970;10443059;11;47
+r;278910212;31970;11012467;11;47
+r;291812495;31970;11364239;11;47
+r;291812503;31970;11364238;11;47
+r;327621795;31970;12770829;11;47
+r;29943285;31970;1829858;11;48
+r;116320266;31970;5940318;11;48
+r;121055179;31970;6449159;11;48
+r;142367574;31970;8427730;11;48
+r;254592851;31970;10367044;11;48
+r;283607432;31970;11153694;11;48
+r;290163552;31970;11326737;11;48
+r;327774988;31970;12773644;11;48
+r;291972278;31970;11381619;11;49
+r;109879835;31970;5557211;11;50
+r;117656618;31970;5990733;11;50
+r;118531035;31970;6003397;11;50
+r;195811633;31970;9024631;11;50
+r;217326974;31970;9692871;11;50
+r;218016825;31970;9743923;11;50
+r;282496717;31970;11105474;11;50
+r;282825953;31970;11131475;11;50
+r;317727531;31970;12247116;11;50
+r;318838464;31970;12274346;11;50
+r;318839038;31970;12274398;11;50
+r;318840053;31970;12274394;11;50
+r;323923043;31970;12653428;11;50
+r;348984514;31970;13749954;11;50
+r;375375540;31970;14768260;11;50
+r;402108254;31970;15253306;11;50
+r;402110420;31970;15300996;11;50
+r;402109490;31970;15197344;11;50
+r;402101697;31970;14156909;11;50
+r;390024373;31970;14916201;11;50
+r;393806845;31970;14485346;11;50
+r;395013069;31970;15382068;11;50
+r;405572957;31970;15687779;11;50
+r;411258964;31970;15791225;11;50
+r;427240962;31970;16286111;11;50
+r;16133342;31970;459315;11;51
+r;16141571;31970;459939;11;51
+r;18519840;31970;590041;11;51
+r;18596421;31970;592735;11;51
+r;28588574;31970;1739798;11;51
+r;28710733;31970;1745477;11;51
+r;50061186;31970;2358332;11;51
+r;52483629;31970;2484564;11;51
+r;121842861;31970;6539388;11;51
+r;16140447;31970;460143;11;52
+r;16235683;31970;461596;11;52
+r;17698012;31970;572041;11;52
+r;29528364;31970;1804978;11;52
+r;33105126;31970;2189456;11;52
+r;52463923;31970;2526944;11;52
+r;18594293;31970;592724;11;53
+r;29031654;31970;1765662;11;53
+r;52480659;31970;2490705;11;53
+r;54867344;31970;2593002;11;53
+r;83460843;31970;3314780;11;53
+r;13999406;31970;395699;11;54
+r;19127618;31970;656781;11;54
+r;26342636;31970;656779;11;54
+r;83670347;31970;3319668;11;54
+r;14425632;31970;436379;11;55
+r;16133340;31970;459316;11;55
+r;16960017;31970;566504;11;55
+r;18594560;31970;592749;11;55
+r;29529760;31970;1804976;11;55
+r;52447964;31970;2560040;11;55
+r;91545366;31970;3675852;11;55
+r;28702529;31970;1744958;11;56
+r;18592989;31970;592683;11;56
+r;52450554;31970;2554661;11;56
+r;18593795;31970;592725;11;57
+r;18596611;31970;592719;11;57
+r;19172829;31970;662418;11;57
+r;28639411;31970;1742155;11;57
+r;29528385;31970;1804979;11;57
+r;29903162;31970;1841638;11;57
+r;80127710;31970;3277600;11;57
+r;83084185;31970;3306628;11;57
+r;121842868;31970;6539387;11;57
+r;18519891;31970;590042;11;58
+r;21006543;31970;1011696;11;58
+r;29528407;31970;1804977;11;58
+r;83660567;31970;3321650;11;58
+r;97987156;31970;4314103;11;58
+r;18594424;31970;592752;11;59
+r;20689065;31970;962040;11;59
+r;28702343;31970;1744957;11;59
+r;33113355;31970;2143007;11;59
+r;50063771;31970;2358650;11;59
+r;52455832;31970;2543650;11;59
+r;54567882;31970;2589174;11;59
+r;77658421;31970;3225355;11;59
+r;83670338;31970;3319669;11;59
+r;97414147;31970;4312540;11;59
+r;98856601;31970;4332301;11;59
+r;18594851;31970;592729;11;60
+r;33106705;31970;2129141;11;60
+r;55338544;31970;2601091;11;60
+r;91546256;31970;3675853;11;60
+r;121438764;31970;6528570;11;60
+r;29529302;31970;1804975;11;63
+r;29917333;31970;1829868;11;63
+r;30834059;31970;1916321;11;65
+r;12718827;31970;346296;11;101
+r;12735325;31970;342386;11;101
+r;12735329;31970;342385;11;101
+r;12735349;31970;342380;11;101
+r;12735407;31970;342365;11;101
+r;12735549;31970;342337;11;101
+r;12735617;31970;342327;11;101
+r;12735641;31970;342323;11;101
+r;12735751;31970;342304;11;101
+r;12735807;31970;342290;11;101
+r;12677645;31970;356373;11;102
+r;12735241;31970;342404;11;102
+r;12735303;31970;342391;11;102
+r;12735355;31970;342378;11;102
+r;12735403;31970;342366;11;102
+r;12735411;31970;342364;11;102
+r;12735429;31970;342360;11;102
+r;12735537;31970;342339;11;102
+r;12735555;31970;342336;11;102
+r;12735599;31970;342330;11;102
+r;12735787;31970;342295;11;102
+r;13053280;31970;391407;11;102
+r;13053286;31970;391406;11;102
+r;12731199;31970;343357;11;103
+r;12735237;31970;342405;11;103
+r;12735337;31970;342383;11;103
+r;12735375;31970;342373;11;103
+r;12735441;31970;342357;11;103
+r;12735463;31970;342352;11;103
+r;12735467;31970;342351;11;103
+r;12735479;31970;342348;11;103
+r;12735611;31970;342328;11;103
+r;12735647;31970;342322;11;103
+r;12735653;31970;342321;11;103
+r;12735669;31970;342319;11;103
+r;12735759;31970;342302;11;103
+r;12735767;31970;342300;11;103
+r;12735779;31970;342297;11;103
+r;12735791;31970;342294;11;103
+r;12699177;31970;351065;11;104
+r;12735261;31970;342398;11;104
+r;12735291;31970;342393;11;104
+r;12735315;31970;342388;11;104
+r;12735321;31970;342387;11;104
+r;12735363;31970;342376;11;104
+r;12735399;31970;342367;11;104
+r;12735437;31970;342358;11;104
+r;12735493;31970;342345;11;104
+r;12735509;31970;342343;11;104
+r;12735521;31970;342341;11;104
+r;12735659;31970;342320;11;104
+r;12735693;31970;342315;11;104
+r;12735699;31970;342314;11;104
+r;12735713;31970;342312;11;104
+r;12735719;31970;342311;11;104
+r;12735735;31970;342308;11;104
+r;12735795;31970;342293;11;104
+r;12735803;31970;342291;11;104
+r;12756397;31970;337292;11;104
+r;12735273;31970;342396;11;105
+r;12735297;31970;342392;11;105
+r;12735341;31970;342382;11;105
+r;12735367;31970;342375;11;105
+r;12735371;31970;342374;11;105
+r;12735419;31970;342362;11;105
+r;12735433;31970;342359;11;105
+r;12735445;31970;342356;11;105
+r;12735449;31970;342355;11;105
+r;12735475;31970;342349;11;105
+r;12735483;31970;342347;11;105
+r;12735725;31970;342310;11;105
+r;12735775;31970;342298;11;105
+r;12735811;31970;342289;11;105
+r;12735279;31970;342395;11;106
+r;12735285;31970;342394;11;106
+r;12735359;31970;342377;11;106
+r;12735391;31970;342369;11;106
+r;12735499;31970;342344;11;106
+r;12735527;31970;342340;11;106
+r;12735629;31970;342325;11;106
+r;12735687;31970;342316;11;106
+r;12735747;31970;342305;11;106
+r;13066896;31970;391533;11;106
+r;12735247;31970;342401;11;107
+r;12735253;31970;342400;11;107
+r;12735267;31970;342397;11;107
+r;12735345;31970;342381;11;107
+r;12735379;31970;342372;11;107
+r;12735383;31970;342371;11;107
+r;12735415;31970;342363;11;107
+r;12735543;31970;342338;11;107
+r;12735567;31970;342334;11;107
+r;12735577;31970;342333;11;107
+r;12735593;31970;342331;11;107
+r;12735635;31970;342324;11;107
+r;12735675;31970;342318;11;107
+r;12735763;31970;342301;11;107
+r;12735307;31970;342390;11;108
+r;12735487;31970;342346;11;108
+r;12735515;31970;342342;11;108
+r;12735681;31970;342317;11;108
+r;12735705;31970;342313;11;108
+r;12735755;31970;342303;11;108
+r;12735771;31970;342299;11;108
+r;12735245;31970;342402;11;109
+r;12735311;31970;342389;11;109
+r;12735395;31970;342368;11;109
+r;12735471;31970;342350;11;109
+r;12735605;31970;342329;11;109
+r;12735623;31970;342326;11;109
+r;12735731;31970;342309;11;109
+r;12735783;31970;342296;11;109
+r;12735799;31970;342292;11;109
+r;12677639;31970;356374;11;110
+r;12735257;31970;342399;11;110
+r;12735333;31970;342384;11;110
+r;12735351;31970;342379;11;110
+r;12735387;31970;342370;11;110
+r;12735423;31970;342361;11;110
+r;12735453;31970;342354;11;110
+r;12735459;31970;342353;11;110
+r;12735561;31970;342335;11;110
+r;12735587;31970;342332;11;110
+r;12735739;31970;342307;11;110
+r;12735743;31970;342306;11;110
+r;11849288;31970;284439;11;122
+r;11851067;31970;249536;11;122
+r;170177;31970;154633;11;142
+r;170178;31970;154634;11;142
+r;9044521;31970;319934;11;148
+r;9060112;31970;320402;11;148
+r;9082516;31970;321880;11;148
+r;9082521;31970;321881;11;148
+r;9084660;31970;321958;11;148
+r;9609622;31970;324898;11;148
+r;10522576;31970;325075;11;148
+r;10522594;31970;325070;11;148
+r;10523441;31970;325111;11;148
+r;8690274;31970;216386;11;160
+r;8681021;31970;207915;11;161
+r;8689023;31970;213961;11;161
+r;8699838;31970;231410;11;161
+r;8703469;31970;235940;11;161
+r;8706112;31970;239391;11;161
+r;8706140;31970;239418;11;161
+r;8706827;31970;240840;11;161
+r;8707571;31970;242419;11;161
+r;8708758;31970;244491;11;161
+r;8709533;31970;245622;11;161
+r;8710297;31970;246730;11;161
+r;8714059;31970;250663;11;161
+r;8715493;31970;251905;11;161
+r;8716330;31970;252734;11;161
+r;8716705;31970;253071;11;161
+r;8716996;31970;253328;11;161
+r;8717000;31970;253330;11;161
+r;8717778;31970;253972;11;161
+r;8724113;31970;258490;11;161
+r;8728642;31970;261873;11;161
+r;8729862;31970;262859;11;161
+r;8729994;31970;262946;11;161
+r;1606204;31970;218829;11;162
+r;2285809;31970;231612;11;162
+r;2302614;31970;253263;11;162
+r;2305412;31970;242217;11;162
+r;2308714;31970;237645;11;162
+r;2310472;31970;253264;11;162
+r;2317951;31970;253266;11;162
+r;2317952;31970;253262;11;162
+r;8627491;31970;161500;11;162
+r;8628238;31970;163102;11;162
+r;8700007;31970;231628;11;162
+r;8704595;31970;237265;11;162
+r;8710953;31970;247448;11;162
+r;8725964;31970;259696;11;162
+r;8731111;31970;263779;11;162
+r;8731119;31970;263782;11;162
+r;8747885;31970;280477;11;162
+r;1606180;31970;162185;11;163
+r;1606183;31970;210384;11;163
+r;1606189;31970;162660;11;163
+r;1606190;31970;210387;11;163
+r;1606192;31970;210388;11;163
+r;1606193;31970;210386;11;163
+r;1606207;31970;164003;11;163
+r;1606214;31970;212645;11;163
+r;8734878;31970;267009;11;163
+r;8734947;31970;267068;11;163
+r;8736466;31970;268651;11;163
+r;8737492;31970;269749;11;163
+r;8741048;31970;273285;11;163
+r;8744690;31970;276579;11;163
+r;8748546;31970;281169;11;163
+r;8748612;31970;281246;11;163
+r;8754908;31970;287290;11;163
+r;8757079;31970;289127;11;163
+r;8759426;31970;291616;11;163
+r;8760660;31970;292956;11;163
+r;8769952;31970;303596;11;163
+r;8772110;31970;306257;11;163
+r;1606177;31970;158913;11;164
+r;1606178;31970;181405;11;164
+r;1606179;31970;181406;11;164
+r;1606182;31970;181407;11;164
+r;1606184;31970;181408;11;164
+r;1606186;31970;181410;11;164
+r;1606187;31970;181411;11;164
+r;1606191;31970;181420;11;164
+r;1606194;31970;140899;11;164
+r;1606195;31970;181419;11;164
+r;1606198;31970;181412;11;164
+r;1606199;31970;39115;11;164
+r;1606202;31970;181413;11;164
+r;1606203;31970;181414;11;164
+r;1606205;31970;181415;11;164
+r;1606208;31970;90109;11;164
+r;1606210;31970;181416;11;164
+r;1606211;31970;181417;11;164
+r;1606212;31970;181418;11;164
+r;1606213;31970;152991;11;164
+r;1606219;31970;153840;11;164
+r;1606220;31970;91622;11;164
+r;1606225;31970;145187;11;164
+r;1606227;31970;181421;11;164
+r;1606231;31970;124141;11;164
+r;8585114;31970;45414;11;164
+r;8777802;31970;311709;11;164
+r;1606181;31970;197382;11;165
+r;1606196;31970;197383;11;165
+r;1606197;31970;187791;11;165
+r;1606200;31970;197384;11;165
+r;1606201;31970;197385;11;165
+r;1606206;31970;197386;11;165
+r;1606209;31970;197387;11;165
+r;1606215;31970;197388;11;165
+r;1606216;31970;197389;11;165
+r;1606218;31970;197391;11;165
+r;1606222;31970;197393;11;165
+r;1606223;31970;187589;11;165
+r;1606224;31970;197392;11;165
+r;1606226;31970;197394;11;165
+r;1606228;31970;197395;11;165
+r;1606229;31970;197396;11;165
+r;1606232;31970;162417;11;173
+r;1606230;31970;93208;11;174
+r;277151;31970;24023;11;182
+r;1986822;31970;241966;11;186
+r;1673161;31970;223562;11;187
+r;272489;31970;161391;11;188
+r;4638890;31970;281297;11;188
+r;1606221;31970;153525;11;194
+r;171607;31970;154696;11;208
+r;265290;31970;160882;11;208
+r;170179;31970;131717;11;212
+r;2011194;31970;196231;11;229
+r;1606188;31970;210385;11;233
+r;1606185;31970;181409;11;234
+r;271096;31970;160407;11;248
+r;2296255;31970;253261;11;256
+r;1606217;31970;197390;11;265
+r;1673162;31970;223563;11;297
+r;2296256;31970;247447;11;297
+r;270244;31970;161199;11;298
+r;270242;31970;161198;11;308
+r;1541975;31970;162910;11;338
+r;1838235;31970;231621;11;347
+r;270243;31970;152757;11;399
+r;277150;31970;152756;11;399
+r;265291;31970;160883;11;448

@@ -1,0 +1,28 @@
+
+e;51178;'accessibilité';1;64
+e;12173318;'identification de numéro d'accessibilité genbank';1;0
+e;14491887;'l'accessibilité numérique';777;0
+e;15370101;'accessibilité de site Web';1;0
+e;15354554;'accessibilité partielle';1;0
+e;12102018;'numéro d'accessibilité genbank';1;0
+e;5804836;'accessibilité piétonne';777;0
+e;1826533;'accessibilité à une sanction pénale';1;0
+e;10838487;'accessibilité numérique';777;0
+e;10854747;'accessibilité aux personnes handicapées';777;0
+e;10931337;'accessibilité du web';777;0
+e;10997520;'référentiel général d'accessibilité pour les administrations';777;0
+e;12051632;'élaborer des stratégies d'accessibilité';1;0
+e;11155273;'appareil d'accessibilité';1;0
+r;316649980;51178;12173318;11;25
+r;368332294;51178;14491887;11;25
+r;419568811;51178;15370101;11;25
+r;419568818;51178;15354554;11;25
+r;315557718;51178;12102018;11;28
+r;113297955;51178;5804836;11;31
+r;29812066;51178;1826533;11;34
+r;271604028;51178;10838487;11;35
+r;272174074;51178;10854747;11;35
+r;274954485;51178;10931337;11;36
+r;277974437;51178;10997520;11;36
+r;313762876;51178;12051632;11;36
+r;283669655;51178;11155273;11;42

@@ -1,0 +1,400 @@
+
+e;120123;'beaucoup';1;818
+e;14572016;'sans doute beaucoup';1;0
+e;14571651;'L'association du concept de kiddoush Hashem au martyre est beaucoup plus tardive';777;0
+e;14609500;'beaucoup plus fréquentes';1;0
+e;14609502;'beaucoup plus fréquents';1;0
+e;14609922;'beaucoup de temps';1;0
+e;14631008;'beaucoup de pertes';1;0
+e;14656686;'il reste encore beaucoup de chemin';1;0
+e;15440953;'être pour beaucoup dans [qch]';1;0
+e;14583962;'gagner beaucoup de fric';1;0
+e;14593928;'manger beaucoup';1;0
+e;15210430;'coûter beaucoup plus cher';1;0
+e;15439544;'devoir beaucoup à [qqn/qch]';1;0
+e;15321889;'différer beaucoup';1;0
+e;15235420;'dire beaucoup de méchancetés';1;0
+e;15753443;'dire beaucoup du bien';1;0
+e;15366820;'dont on fait beaucoup de bruit';1;0
+e;15520595;'dont on parle beaucoup';1;0
+e;15461430;'du pain sur la planche, beaucoup de pain sur la planche';1;0
+e;15252505;'dépasser de beaucoup';1;0
+e;15261375;'dépenser beaucoup';1;0
+e;15571184;'dépensé beaucoup';1;0
+e;15625988;'déployer beaucoup d'efforts pour faire qch';1;0
+e;15625991;'déployer beaucoup d'efforts pour faire quelque chose';1;0
+e;15398002;'elle m'a beaucoup plu';1;0
+e;15273960;'consommer beaucoup de';1;0
+e;16342717;'consommant beaucoup moins de ressources';777;0
+e;16358324;'avoir beaucoup d'allant';1;0
+e;15524917;'avec beaucoup d'allure';1;0
+e;15343042;'avec beaucoup de goût';1;0
+e;15692370;'avec beaucoup de soin';1;0
+e;15524919;'avoir beaucoup d'allure';1;0
+e;15527096;'avoir beaucoup d'atouts';1;0
+e;15438069;'avoir beaucoup de chagrin';1;0
+e;15381059;'avoir beaucoup de choses en commun';1;0
+e;15262156;'avoir beaucoup de fièvre';1;0
+e;15399802;'avoir beaucoup de mal';1;0
+e;15261182;'avoir beaucoup de mal à s'exprimer';1;0
+e;15570587;'avoir beaucoup de métier';1;0
+e;15348856;'avoir beaucoup de peine';1;0
+e;15381061;'avoir beaucoup de points communs';1;0
+e;15250909;'avoir beaucoup lu';1;0
+e;15260007;'avoir beaucoup à se faire pardonner';1;0
+e;15386769;'beaucoup d'appelés, peu d'élus';1;0
+e;15319474;'beaucoup d'eau a coulé sous les ponts';1;0
+e;15363204;'beaucoup d'eau est passée sous le pont';1;0
+e;15262209;'beaucoup d'étudiants';1;0
+e;15335531;'beaucoup de bien';1;0
+e;15752608;'beaucoup de chemin à faire';1;0
+e;15313594;'beaucoup de chemin à parcourir';1;0
+e;15217336;'beaucoup de courage';1;0
+e;15335532;'beaucoup de gens';1;0
+e;15394515;'beaucoup de matière';1;0
+e;15375919;'beaucoup de plus';1;0
+e;15222994;'beaucoup de touristes';1;0
+e;15498711;'beaucoup faire parler de soi';1;0
+e;15440952;'beaucoup moins de';1;0
+e;15339386;'beaucoup pire';1;0
+e;15357532;'beaucoup plus maniable';1;0
+e;15282974;'beaucoup trop loin';1;0
+e;15233521;'beaucoup trop souvent';1;0
+e;15546307;'beaucoup utilisé';1;0
+e;15572456;'beaucoup à apprécier';1;0
+e;15324557;'bu beaucoup';1;0
+e;15693721;'c'est beaucoup dire';1;0
+e;16029341;'c'est beaucoup si';1;0
+e;15354521;'ce n'est pas beaucoup';1;0
+e;15550438;'cela prend beaucoup de temps';1;0
+e;15582827;'cela se fait beaucoup';1;0
+e;15791832;'beaucoup de données';1;0
+e;16323058;'Tu me plais beaucoup';777;0
+e;5923463;'beaucoup parler';1;0
+e;16360966;'J'ai beaucoup de boulot en ce moment.';1;0
+e;16315596;'Ils ont beaucoup d'argent.';1;0
+e;15367714;'Notre premier single est beaucoup passé à la radio.';1;0
+e;15390698;'Nous avons beaucoup appris d'elle.';1;0
+e;15409180;'Nous devons encore beaucoup d'argent.';1;0
+e;15760120;'Ses vacances lui ont fait beaucoup de bien.';1;0
+e;15311775;'Son exclusion du groupe l'avait beaucoup affecté.';1;0
+e;15411622;'Son retard m'inquiète beaucoup.';1;0
+e;15492561;'Tu poses beaucoup de questions';1;0
+e;15752937;'Un mariage entraîne beaucoup de dépenses.';1;0
+e;15690423;'aimer beaucoup';1;0
+e;15429052;'aimer beaucoup [qqn]';1;0
+e;15690422;'aimer beaucoup quelqu'un';1;0
+e;15280244;'aller beaucoup mieux';1;0
+e;16133137;'Il gagne beaucoup d'argent.';1;0
+e;15390887;'Le procès a beaucoup mobilisé l'attention des médias.';1;0
+e;15397766;'Les chars consomment beaucoup d'essence.';1;0
+e;15499279;'Les travailleurs des NTIC font preuve de beaucoup de mobilité.';1;0
+e;15383132;'Les écoles en vogue tendent à être beaucoup trop courues.';1;0
+e;15349786;'Maman croyait beaucoup aux vertus de la phytothérapie.';1;0
+e;15483951;'Merci beaucoup: je me suis régalé!';1;0
+e;15293644;'Mon père l'estime beaucoup.';1;0
+e;16105384;'Le Premier ministre a beaucoup de pouvoir.';1;0
+e;15502722;'Le divorce de ses parents l'a beaucoup secouée.';1;0
+e;15538410;'La tempête a causé beaucoup de dégâts.';1;0
+e;15364095;'La ville a beaucoup changé.';1;0
+e;11147086;'boire beaucoup d'eau';1;0
+e;11573945;'avoir beaucoup d'argent';1;0
+e;11573944;'rapporter beaucoup d'argent';1;0
+e;10161665;'J'aime beaucoup ce que vous faites';777;0
+e;15246130;'La chirurgie esthétique a beaucoup évolué.';1;0
+e;8883763;'beaucoup mieux';1;0
+e;15381053;'Ils ont beaucoup de points communs.';1;0
+e;15570807;'Ce film plaît beaucoup aux jeunes.';1;0
+e;15379323;'Je lis beaucoup de romans d'amour.';1;0
+e;15571941;'Je fais beaucoup de vélo.';1;0
+e;15276612;'Je fais beaucoup de course à pied.';1;0
+e;15261760;'Elle fait beaucoup de fautes.';1;0
+e;15387190;'Elle le fréquente beaucoup à ce qu'il paraît.';1;0
+e;15236951;'Elle a beaucoup d'imagination.';1;0
+e;15244436;'Elle aimait beaucoup la peinture et le jardinage.';1;0
+e;15261773;'Je fais beaucoup de fautes d'orthographe.';1;0
+e;15248289;'En ce moment on demande beaucoup de linguistes.';1;0
+e;15354508;'Il n'a pas beaucoup d'éducation.';1;0
+e;15570980;'Il manifestait beaucoup d'intérêt pour les animaux.';1;0
+e;15251488;'Il lit beaucoup: c'est sa seule distraction.';1;0
+e;15354496;'Il ne boit pas beaucoup.';1;0
+e;15300996;'Il y a beaucoup de bus pour le centre ville.';1;0
+e;15493621;'Il s'est heurté à beaucoup de préjugés.';1;0
+e;15503496;'Il y a des gens qui sont beaucoup plus à plaindre que moi.';1;0
+e;15546412;'Il a toujours fait beaucoup de politique.';1;0
+e;15561059;'Il n'a pas beaucoup d'amis.';1;0
+e;15354505;'Il n'a pas beaucoup d'argent.';1;0
+e;15354503;'Il n'a pas beaucoup d'humour.';1;0
+e;15354510;'Il n'a pas beaucoup d'instruction.';1;0
+e;15220424;'Il se déplace beaucoup pour son travail.';1;0
+e;15354512;'Il ne parle pas beaucoup.';1;0
+e;15382064;'Il a beaucoup d'ambition.';1;0
+e;15297319;'Il a beaucoup évolué.';1;0
+e;15561050;'Il a beaucoup d'amis.';1;0
+e;15582397;'Il a beaucoup de charme.';1;0
+e;15466886;'Il a beaucoup grandi.';1;0
+e;15478953;'J'aimerais beaucoup que tu viennes.';1;0
+e;15240379;'J'ai reçu beaucoup de cadeaux.';1;0
+e;15354499;'Il n'a pas beaucoup changé.';1;0
+e;15349082;'Il n'y a pas beaucoup de touristes.';1;0
+e;15390924;'Il y a eu beaucoup de battage concernant la discrimination religieuse.';1;0
+e;15262917;'Il n'y a pas beaucoup de variété.';1;0
+e;15498089;'Il a beaucoup grossi.';1;0
+e;15268109;'Il a fait preuve de beaucoup d'habileté.';1;0
+e;15204846;'J'aime beaucoup cuisiner.';1;0
+e;15323942;'J'ai beaucoup apprécié le film.';1;0
+e;15353701;'C'est une attitude qui dénote beaucoup d'étroitesse d'esprit.';1;0
+e;15273402;'Ce travail exige beaucoup de patience.';1;0
+e;15357901;'Cela m'a beaucoup intéressé.';1;0
+e;15354518;'Cela n'a pas beaucoup d'importance.';1;0
+e;15304392;'Cette biographie a beaucoup de qualités.';1;0
+e;15281571;'Cette expérience l'a beaucoup mûrie.';1;0
+e;15301457;'Cette perceuse m'a beaucoup servi.';1;0
+e;15273958;'Cette voiture consomme beaucoup.';1;0
+e;15527091;'Elle a beaucoup de qualités.';1;0
+e;15561434;'Cette petite maison a beaucoup de cachet.';1;0
+e;15407331;'Il boit beaucoup.';1;0
+e;15570238;'Elle souffre beaucoup.';1;0
+e;15382408;'Ils ont accepté avec beaucoup d'empressement.';1;0
+e;15663314;'Il y a beaucoup de touristes par ici.';1;0
+e;15525641;'Je me suis vraiment beaucoup amusé.';1;0
+e;15271704;'Je n'aime pas beaucoup Marie.';1;0
+e;15525275;'Je n'aime pas beaucoup le sport.';1;0
+e;15354501;'Je ne le fréquente pas beaucoup.';1;0
+e;15527721;'Je ne vois pas beaucoup Tony ces temps-ci.';1;0
+e;15303496;'Je t'aime un peu, beaucoup, passionnément, à la folie, pas du tout';1;0
+e;15690741;'Il ne voit pas beaucoup de monde.';1;0
+e;15771254;'J'ai beaucoup de choses à faire';1;0
+e;15525637;'L'histoire l'a beaucoup amusé.';1;0
+e;16154213;'Comme nous n'avions pas beaucoup de temps';777;0
+e;16168667;'Ce cadeau me plaît beaucoup.';1;0
+e;5067435;'accorder beaucoup d'importance à la vérité';1;0
+e;2167349;'de beaucoup trop près';1;0
+e;2167538;'depuis beaucoup trop longtemps';1;0
+e;2354981;'faire couler beaucoup d'encre';1;0
+e;2133852;'beaucoup des';2;0
+e;2133850;'beaucoup d'';2;0
+e;2133851;'beaucoup de la';2;0
+e;2510172;'merci beaucoup';1;2
+e;1773644;'qui consomme beaucoup';1;0
+e;2133853;'beaucoup du';1;0
+e;4344928;'Ils se marièrent et eurent beaucoup d'enfants';1;6
+e;372342;'pour beaucoup dans';1;50
+e;392497;'tenir beaucoup';1;8
+e;338903;'beaucoup dire';1;50
+e;370063;'peu et beaucoup';1;50
+e;385635;'un peu beaucoup';1;50
+e;372341;'pour beaucoup';1;50
+e;171059;'à beaucoup près';1;50
+e;234566;'beaucoup de monde';1;20
+e;66835;'de beaucoup';1;58
+e;105736;'Adieu à beaucoup de personnages';1;50
+e;159367;'il s'en faut de beaucoup';1;52
+e;212956;'boire beaucoup';1;56
+e;283007;'et ils en avaient beaucoup';777;50
+e;13857;'pas beaucoup';1;86
+e;132313;'se donner beaucoup de peine';1;50
+e;171312;'beaucoup de bruit pour rien';1;50
+e;196913;'beaucoup de';1;50
+e;200314;'faire beaucoup de bruit pour rien';1;50
+e;137567;'beaucoup de livres, je t'aime beaucoup';1;50
+r;370327180;120123;14572016;11;25
+r;370360232;120123;14571651;11;25
+r;371244440;120123;14609500;11;25
+r;371246203;120123;14609502;11;25
+r;371252045;120123;14609922;11;25
+r;371667591;120123;14631008;11;25
+r;372742966;120123;14656686;11;25
+r;395457298;120123;15440953;11;25
+r;370557449;120123;14583962;11;26
+r;370775189;120123;14593928;11;26
+r;419749807;120123;15210430;11;30
+r;419778400;120123;15439544;11;30
+r;419780342;120123;15321889;11;30
+r;419781517;120123;15235420;11;30
+r;419781523;120123;15753443;11;30
+r;419793713;120123;15366820;11;30
+r;419793722;120123;15520595;11;30
+r;419801344;120123;15461430;11;30
+r;419812540;120123;15252505;11;30
+r;419812934;120123;15261375;11;30
+r;419813040;120123;15571184;11;30
+r;419813450;120123;15625988;11;30
+r;419813458;120123;15625991;11;30
+r;419833911;120123;15398002;11;30
+r;419734090;120123;15273960;11;31
+r;431846127;120123;16342717;11;31
+r;434373510;120123;16358324;11;31
+r;419625963;120123;15524917;11;32
+r;419625967;120123;15343042;11;32
+r;419625971;120123;15692370;11;32
+r;419628377;120123;15524919;11;32
+r;419628383;120123;15527096;11;32
+r;419628388;120123;15438069;11;32
+r;419628393;120123;15381059;11;32
+r;419628401;120123;15262156;11;32
+r;419628407;120123;15399802;11;32
+r;419628413;120123;15261182;11;32
+r;419628423;120123;15570587;11;32
+r;419628429;120123;15348856;11;32
+r;419628435;120123;15381061;11;32
+r;419628443;120123;15250909;11;32
+r;419628447;120123;15260007;11;32
+r;419650200;120123;15386769;11;32
+r;419650208;120123;15319474;11;32
+r;419650217;120123;15363204;11;32
+r;419650225;120123;15262209;11;32
+r;419650229;120123;15335531;11;32
+r;419650234;120123;15752608;11;32
+r;419650240;120123;15313594;11;32
+r;419650248;120123;15217336;11;32
+r;419650254;120123;15335532;11;32
+r;419650260;120123;15394515;11;32
+r;419650266;120123;15375919;11;32
+r;419650270;120123;15222994;11;32
+r;419650276;120123;15498711;11;32
+r;419650285;120123;15440952;11;32
+r;419650291;120123;15339386;11;32
+r;419650295;120123;15357532;11;32
+r;419650299;120123;15282974;11;32
+r;419650306;120123;15233521;11;32
+r;419650312;120123;15546307;11;32
+r;419650316;120123;15572456;11;32
+r;419666883;120123;15324557;11;32
+r;419669899;120123;15693721;11;32
+r;419669903;120123;16029341;11;32
+r;419691159;120123;15354521;11;32
+r;419692425;120123;15550438;11;32
+r;419692504;120123;15582827;11;32
+r;411295285;120123;15791832;11;33
+r;434365378;120123;16323058;11;33
+r;115835656;120123;5923463;11;34
+r;434344750;120123;16360966;11;34
+r;434344164;120123;16315596;11;34
+r;419513871;120123;15367714;11;34
+r;419514433;120123;15390698;11;34
+r;419515295;120123;15409180;11;34
+r;419544708;120123;15760120;11;34
+r;419546920;120123;15311775;11;34
+r;419547242;120123;15411622;11;34
+r;419555821;120123;15492561;11;34
+r;419557722;120123;15752937;11;34
+r;419583637;120123;15690423;11;34
+r;419583641;120123;15429052;11;34
+r;419583649;120123;15690422;11;34
+r;419587219;120123;15280244;11;34
+r;434344038;120123;16133137;11;34
+r;419493179;120123;15390887;11;35
+r;419495213;120123;15397766;11;35
+r;419497610;120123;15499279;11;35
+r;419497914;120123;15383132;11;35
+r;419503435;120123;15349786;11;35
+r;419506752;120123;15483951;11;35
+r;419509186;120123;15293644;11;35
+r;420442703;120123;16105384;11;35
+r;419491697;120123;15502722;11;36
+r;417155702;120123;15538410;11;38
+r;417155846;120123;15364095;11;38
+r;283282952;120123;11147086;11;40
+r;297604990;120123;11573945;11;40
+r;297604999;120123;11573944;11;40
+r;238095892;120123;10161665;11;44
+r;417031579;120123;15246130;11;45
+r;191689649;120123;8883763;11;50
+r;402112213;120123;15381053;11;50
+r;399503458;120123;15570807;11;50
+r;402154614;120123;15379323;11;50
+r;402154140;120123;15571941;11;50
+r;402154124;120123;15276612;11;50
+r;397498831;120123;15261760;11;50
+r;397499117;120123;15387190;11;50
+r;397496492;120123;15236951;11;50
+r;397497390;120123;15244436;11;50
+r;402154132;120123;15261773;11;50
+r;397501419;120123;15248289;11;50
+r;402108038;120123;15354508;11;50
+r;402107848;120123;15570980;11;50
+r;402107512;120123;15251488;11;50
+r;402108438;120123;15354496;11;50
+r;402110416;120123;15300996;11;50
+r;402109530;120123;15493621;11;50
+r;402110442;120123;15503496;11;50
+r;402103990;120123;15546412;11;50
+r;402108022;120123;15561059;11;50
+r;402108026;120123;15354505;11;50
+r;402108030;120123;15354503;11;50
+r;402108034;120123;15354510;11;50
+r;402109744;120123;15220424;11;50
+r;402108550;120123;15354512;11;50
+r;402102546;120123;15382064;11;50
+r;402102566;120123;15297319;11;50
+r;402102550;120123;15561050;11;50
+r;402102554;120123;15582397;11;50
+r;402102558;120123;15466886;11;50
+r;402122086;120123;15478953;11;50
+r;402121458;120123;15240379;11;50
+r;402108018;120123;15354499;11;50
+r;402108288;120123;15349082;11;50
+r;402110500;120123;15390924;11;50
+r;402108292;120123;15262917;11;50
+r;402102562;120123;15498089;11;50
+r;402103008;120123;15268109;11;50
+r;402121894;120123;15204846;11;50
+r;402120296;120123;15323942;11;50
+r;395011561;120123;15353701;11;50
+r;395012999;120123;15273402;11;50
+r;395013193;120123;15357901;11;50
+r;395013245;120123;15354518;11;50
+r;395013795;120123;15304392;11;50
+r;395013895;120123;15281571;11;50
+r;395014001;120123;15301457;11;50
+r;395014217;120123;15273958;11;50
+r;397848326;120123;15527091;11;50
+r;398506968;120123;15561434;11;50
+r;402105036;120123;15407331;11;50
+r;399661989;120123;15570238;11;50
+r;402112079;120123;15382408;11;50
+r;402272475;120123;15663314;11;50
+r;402272505;120123;15525641;11;50
+r;402272699;120123;15271704;11;50
+r;402272705;120123;15525275;11;50
+r;402272877;120123;15354501;11;50
+r;402273207;120123;15527721;11;50
+r;402274347;120123;15303496;11;50
+r;413897172;120123;15690741;11;50
+r;413897946;120123;15771254;11;50
+r;414848118;120123;15525637;11;50
+r;423685877;120123;16154213;11;50
+r;425304728;120123;16168667;11;50
+r;19529177;120123;722333;11;51
+r;105141102;120123;5067435;11;51
+r;32930689;120123;2167349;11;52
+r;32930706;120123;2167538;11;52
+r;44081529;120123;2354981;11;52
+r;33106040;120123;2133852;11;53
+r;33106046;120123;2133850;11;53
+r;33106042;120123;2133851;11;54
+r;52471723;120123;2510172;11;56
+r;19529284;120123;722334;11;59
+r;29133115;120123;1773644;11;59
+r;32763390;120123;2133853;11;59
+r;99117072;120123;4344928;11;60
+r;12612761;120123;372342;11;102
+r;13198501;120123;392497;11;103
+r;12749995;120123;338903;11;106
+r;12622145;120123;370063;11;107
+r;12558771;120123;385635;11;108
+r;12612767;120123;372341;11;109
+r;8633477;120123;171059;11;161
+r;8702161;120123;234566;11;161
+r;8592580;120123;66835;11;162
+r;8606191;120123;105736;11;162
+r;8626280;120123;159367;11;162
+r;8688435;120123;212956;11;162
+r;8750240;120123;283007;11;162
+r;8574566;120123;13857;11;163
+r;8615763;120123;132313;11;163
+r;8633719;120123;171312;11;163
+r;8662532;120123;196913;11;164
+r;8668188;120123;200314;11;165
+r;8618013;120123;137567;11;303

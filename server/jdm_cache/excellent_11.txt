@@ -1,0 +1,34 @@
+
+e;18815;'excellent';1;312
+e;13589676;'choix excellent';1;0
+e;14670815;'excellent travail';1;0
+e;15317482;'Un excellent rouge du Chili.';1;0
+e;15358039;'Le travail est un excellent antidote à la dépression.';1;0
+e;15211713;'Matthew est un excellent cuisinier.';1;0
+e;15249364;'Elle a un excellent revers.';1;0
+e;15265225;'Il est largement reconnu comme un excellent gardien de but.';1;0
+e;15205710;'C'est un excellent musicien.';1;0
+e;15217947;'Ces chiens ont un excellent odorat.';1;0
+e;15217949;'Ces chiens ont un excellent sens de l'odorat.';1;0
+e;3751375;'excellent jus de tomates';1;0
+e;352661;'excellent fusil';1;50
+e;350636;'en excellent état de conservation';1;50
+e;350635;'en excellent état';1;50
+e;345982;'d'un excellent acabit';1;50
+e;118126;'être excellent';1;50
+r;344197264;18815;13589676;11;25
+r;373063257;18815;14670815;11;26
+r;419557561;18815;15317482;11;34
+r;419494076;18815;15358039;11;35
+r;419505819;18815;15211713;11;35
+r;397497174;18815;15249364;11;50
+r;402105788;18815;15265225;11;50
+r;395011305;18815;15205710;11;50
+r;395013501;18815;15217947;11;50
+r;395013511;18815;15217949;11;50
+r;93629393;18815;3751375;11;51
+r;12692625;18815;352661;11;104
+r;12700765;18815;350636;11;109
+r;12700773;18815;350635;11;109
+r;12720533;18815;345982;11;109
+r;8610685;18815;118126;11;161

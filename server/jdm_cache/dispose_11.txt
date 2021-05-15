@@ -1,0 +1,8 @@
+
+e;425703;'dispose';1;50
+e;15771916;'Je dispose d'un ordinateur.';1;0
+e;2604335;'l'homme propose et Dieu dispose';1;0
+e;140414;'l'homme propose, Dieu dispose';1;50
+r;414592253;425703;15771916;11;50
+r;55467319;425703;2604335;11;52
+r;14294783;425703;140414;11;58

@@ -1,0 +1,1146 @@
+
+e;64834;'nombres';1;98
+e;12234616;'mesure de métamyélocytes/lecucocytes | comptage manuel | sang | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12234615;'mesure de métamyélocytes/lecucocytes | comptage manuel | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12234614;'mesure de métamyélocytes/lecucocytes | comptage manuel | liquide biologique | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12234613;'mesure de métamyélocytes/100 leucocytes | comptage manuel | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234612;'mesure de métamyélocytes/100 leucocytes | technique indéterminée | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234611;'mesure de métamyélocytes/100 leucocytes | comptage manuel | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234610;'mesure de métamyélocytes/100 leucocytes | technique indéterminée | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234609;'mesure de métamyélocytes/100 leucocytes | comptage manuel | liquide biologique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234608;'mesure de métamyélocytes/100 leucocytes | technique indéterminée | liquide biologique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234217;'mesure de macrophages/leucocytes | comptage manuel | prélèvement bronchopulmonaire | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12234216;'mesure de macrophages/leucocytes | comptage manuel | liquide synovial | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12234215;'mesure de macrophages/leucocytes | comptage manuel | liquide pleural | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12234214;'mesure de macrophages/leucocytes | comptage manuel | liquide péricardique | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12234213;'mesure de macrophages/leucocytes | comptage manuel | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12234212;'mesure de macrophages/leucocytes | comptage manuel | liquide biologique | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12234211;'mesure de macrophages/leucocytes | comptage manuel | ascite | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12234210;'mesure de macrophages/100 leucocytes | cytométrie de flux | prélèvement bronchopulmonaire | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234209;'mesure de macrophages/100 leucocytes | comptage manuel | prélèvement bronchopulmonaire | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234208;'mesure de macrophages/100 leucocytes | technique indéterminée | prélèvement bronchopulmonaire | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234207;'mesure de macrophages/100 leucocytes | comptage manuel | moelle osseuse | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234206;'mesure de macrophages/100 leucocytes | comptage manuel | liquide vitrée | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234205;'mesure de macrophages/100 leucocytes | comptage manuel | liquide synovial | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234204;'mesure de macrophages/100 leucocytes | technique indéterminée | liquide synovial | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234203;'mesure de macrophages/100 leucocytes | comptage manuel | liquide pleural | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234202;'mesure de macrophages/100 leucocytes | comptage manuel | liquide péricardique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234201;'mesure de macrophages/100 leucocytes | comptage manuel | liquide de dialyse | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234200;'mesure de macrophages/100 leucocytes | comptage manuel | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234199;'mesure de macrophages/100 leucocytes | technique indéterminée | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234198;'mesure de macrophages/100 leucocytes | comptage manuel | liquide biologique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234197;'mesure de macrophages/100 leucocytes | technique indéterminée | liquide biologique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234196;'mesure de macrophages/100 leucocytes | comptage manuel | ascite | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234117;'mesure de lymphoplasmocytes/100 leucocytes | comptage manuel | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234116;'mesure de lymphoplasmocytes/100 leucocytes | technique indéterminée | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234113;'mesure de lymphocytes/100 cellules | comptage manuel | moelle osseuse | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234112;'mesure de lymphocytes/100 cellules | comptage manuel | ganglion lymphatique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234111;'mesure de lymphocytes variants/100 leucocytes | comptage manuel | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234109;'mesure de lymphocytes variants/100 leucocytes | comptage automate | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234108;'mesure de lymphocytes variants/100 leucocytes | technique indéterminée | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234107;'mesure de lymphocytes variants/100 leucocytes | comptage manuel | prélèvement bronchopulmonaire | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234106;'mesure de lymphocytes variants/100 leucocytes | technique indéterminée | prélèvement bronchopulmonaire | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234105;'mesure de lymphocytes variants/100 leucocytes | technique indéterminée | liquide synovial | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234104;'mesure de lymphocytes variants/100 leucocytes | technique indéterminée | liquide pleural | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234103;'mesure de lymphocytes variants/100 leucocytes | technique indéterminée | liquide péricardique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234102;'mesure de lymphocytes variants/100 leucocytes | comptage manuel | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234101;'mesure de lymphocytes variants/100 leucocytes | technique indéterminée | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234100;'mesure de lymphocytes variants/100 leucocytes | comptage manuel | liquide biologique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234099;'mesure de lymphocytes variants/100 leucocytes | technique indéterminée | liquide biologique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234098;'mesure de lymphocytes variants/100 leucocytes | technique indéterminée | ascite | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234085;'mesure de lymphocytes totaux/leucocytes | comptage manuel | sang | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12234084;'mesure de lymphocytes totaux/leucocytes | comptage automate | sang | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12234083;'mesure de lymphocytes totaux/leucocytes | comptage manuel | prélèvement bronchopulmonaire | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12234082;'mesure de lymphocytes totaux/leucocytes | comptage manuel | liquide synovial | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12234081;'mesure de lymphocytes totaux/leucocytes | comptage manuel | liquide pleural | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12234080;'mesure de lymphocytes totaux/leucocytes | comptage manuel | liquide péricardique | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12234079;'mesure de lymphocytes totaux/leucocytes | comptage manuel | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12234078;'mesure de lymphocytes totaux/leucocytes | comptage manuel | liquide biologique | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12234077;'mesure de lymphocytes totaux/leucocytes | comptage manuel | ascite | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12234076;'mesure de lymphocytes totaux/100 leucocytes | technique indéterminée | tissu | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234075;'mesure de lymphocytes totaux/100 leucocytes | technique indéterminée | sang du foetus | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234074;'mesure de lymphocytes totaux/100 leucocytes | technique indéterminée | sang de cordon | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234073;'mesure de lymphocytes totaux/100 leucocytes | cytométrie de flux | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234072;'mesure de lymphocytes totaux/100 leucocytes | comptage manuel | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234071;'mesure de lymphocytes totaux/100 leucocytes | comptage automate | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234070;'mesure de lymphocytes totaux/100 leucocytes | technique indéterminée | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234069;'mesure de lymphocytes totaux/100 leucocytes | cytométrie de flux | prélèvement bronchopulmonaire | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234068;'mesure de lymphocytes totaux/100 leucocytes | comptage manuel | prélèvement bronchopulmonaire | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234067;'mesure de lymphocytes totaux/100 leucocytes | technique indéterminée | prélèvement bronchopulmonaire | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234066;'mesure de lymphocytes totaux/100 leucocytes | cytométrie de flux | milieux divers | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234065;'mesure de lymphocytes totaux/100 leucocytes | comptage automate | milieux divers | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234064;'mesure de lymphocytes totaux/100 leucocytes | comptage manuel | liquide vitrée | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234063;'mesure de lymphocytes totaux/100 leucocytes | comptage manuel | liquide synovial | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234062;'mesure de lymphocytes totaux/100 leucocytes | comptage automate | liquide synovial | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234061;'mesure de lymphocytes totaux/100 leucocytes | technique indéterminée | liquide synovial | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234060;'mesure de lymphocytes totaux/100 leucocytes | comptage manuel | liquide pleural | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234059;'mesure de lymphocytes totaux/100 leucocytes | technique indéterminée | liquide pleural | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234058;'mesure de lymphocytes totaux/100 leucocytes | comptage manuel | liquide péricardique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234057;'mesure de lymphocytes totaux/100 leucocytes | technique indéterminée | liquide péricardique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234056;'mesure de lymphocytes totaux/100 leucocytes | comptage manuel | liquide de dialyse péritonéale | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234055;'mesure de lymphocytes totaux/100 leucocytes | comptage manuel | liquide de dialyse | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234054;'mesure de lymphocytes totaux/100 leucocytes | technique indéterminée | liquide de dialyse | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234053;'mesure de lymphocytes totaux/100 leucocytes | comptage manuel | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234052;'mesure de lymphocytes totaux/100 leucocytes | technique indéterminée | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234051;'mesure de lymphocytes totaux/100 leucocytes | comptage manuel | liquide biologique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234050;'mesure de lymphocytes totaux/100 leucocytes | technique indéterminée | liquide biologique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234049;'mesure de lymphocytes totaux/100 leucocytes | technique indéterminée | crachat | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234048;'mesure de lymphocytes totaux/100 leucocytes | comptage manuel | ascite | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234047;'mesure de lymphocytes totaux/100 leucocytes | technique indéterminée | ascite | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234021;'mesure de lymphocytes t activés/100 petits lymphocytes | technique indéterminée | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234020;'mesure de lymphocytes t activés/100 petits lymphocytes | technique indéterminée | prélèvement bronchopulmonaire | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234019;'mesure de lymphocytes t activés/100 petits lymphocytes | technique indéterminée | milieux divers | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234018;'mesure de lymphocytes t activés/100 petits lymphocytes | technique indéterminée | liquide bronchoalvéolaire | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234007;'mesure de lymphocytes lambda/100 lymphocytes | technique indéterminée | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234006;'mesure de lymphocytes lambda/100 lymphocytes | technique indéterminée | milieux divers | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234005;'mesure de lymphocytes kappa/100 lymphocytes | technique indéterminée | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234004;'mesure de lymphocytes kappa/100 lymphocytes | technique indéterminée | moelle osseuse | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234003;'mesure de lymphocytes kappa/100 lymphocytes | technique indéterminée | milieux divers | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234002;'mesure de lymphocytes kappa/100 lymphocytes | technique indéterminée | liquide biologique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234001;'mesure de lymphocytes immunoblastiques/100 leucocytes | comptage manuel | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12234000;'mesure de lymphocytes immunoblastiques/100 leucocytes | technique indéterminée | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233995;'mesure de lymphocytes igm/100 lymphocytes | technique indéterminée | milieux divers | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233994;'mesure de lymphocytes igm/100 lymphocytes | technique indéterminée | leucocytes | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233993;'mesure de lymphocytes igg/100 lymphocytes | technique indéterminée | milieux divers | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233992;'mesure de lymphocytes igg/100 lymphocytes | technique indéterminée | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233991;'mesure de lymphocytes igg/100 lymphocytes | technique indéterminée | leucocytes | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233990;'mesure de lymphocytes igd/100 lymphocytes | technique indéterminée | milieux divers | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233989;'mesure de lymphocytes igd/100 lymphocytes | technique indéterminée | leucocytes | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233988;'mesure de lymphocytes iga/100 lymphocytes | technique indéterminée | milieux divers | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233987;'mesure de lymphocytes iga/100 lymphocytes | technique indéterminée | leucocytes | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233986;'mesure de lymphocytes fissurés/100 leucocytes | comptage manuel | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233985;'mesure de lymphocytes fissurés/100 leucocytes | technique indéterminée | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233978;'mesure de lymphocytes anormaux/100 leucocytes | comptage manuel | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233977;'mesure de lymphocytes anormaux/100 leucocytes | technique indéterminée | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233976;'mesure de lymphocytes anormaux/100 leucocytes | comptage manuel | liquide vitrée | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233975;'mesure de lymphocytes anormaux/100 leucocytes | comptage manuel | liquide synovial | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233974;'mesure de lymphocytes anormaux/100 leucocytes | technique indéterminée | liquide synovial | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233973;'mesure de lymphocytes anormaux/100 leucocytes | comptage manuel | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233972;'mesure de lymphocytes anormaux/100 leucocytes | technique indéterminée | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233971;'mesure de lymphocytes anormaux/100 leucocytes | comptage manuel | liquide biologique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233970;'mesure de lymphocytes anormaux/100 leucocytes | technique indéterminée | liquide biologique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233964;'mesure de lymphocytes à grains/100 leucocytes | cytométrie de flux | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233963;'mesure de lymphocytes à grains/100 leucocytes | comptage manuel | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233962;'mesure de lymphocytes à grains/100 leucocytes | technique indéterminée | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233961;'mesure de lymphoblastes/100 leucocytes | comptage manuel | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233960;'mesure de lymphoblastes/100 leucocytes | technique indéterminée | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233959;'mesure de lymphoblastes/100 leucocytes | comptage manuel | moelle osseuse | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233592;'mesure de leucocytes désintégrés/100 leucocytes | technique indéterminée | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233591;'mesure de leucocytes désintégrés/100 leucocytes | comptage manuel | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233590;'mesure de leucocytes désintégrés/100 leucocytes | comptage manuel | liquide biologique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233581;'mesure de leucocytes autres/leucocytes | comptage manuel | liquide synovial | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12233580;'mesure de leucocytes autres/leucocytes | comptage manuel | liquide pleural | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12233579;'mesure de leucocytes autres/leucocytes | comptage manuel | liquide péricardique | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12233578;'mesure de leucocytes autres/leucocytes | comptage manuel | ascite | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12233577;'mesure de leucocytes autres/100 leucocytes | comptage manuel | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233576;'mesure de leucocytes autres/100 leucocytes | comptage automate | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233575;'mesure de leucocytes autres/100 leucocytes | technique indéterminée | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233574;'mesure de leucocytes autres/100 leucocytes | comptage manuel | prélèvement bronchopulmonaire | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233573;'mesure de leucocytes autres/100 leucocytes | technique indéterminée | prélèvement bronchopulmonaire | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233572;'mesure de leucocytes autres/100 leucocytes | comptage manuel | liquide vitrée | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233571;'mesure de leucocytes autres/100 leucocytes | comptage manuel | liquide synovial | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233570;'mesure de leucocytes autres/100 leucocytes | technique indéterminée | liquide synovial | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233569;'mesure de leucocytes autres/100 leucocytes | comptage manuel | liquide pleural | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233568;'mesure de leucocytes autres/100 leucocytes | technique indéterminée | liquide pleural | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233567;'mesure de leucocytes autres/100 leucocytes | comptage manuel | liquide péricardique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233566;'mesure de leucocytes autres/100 leucocytes | technique indéterminée | liquide péricardique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233565;'mesure de leucocytes autres/100 leucocytes | comptage manuel | liquide de dialyse péritonéale | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233564;'mesure de leucocytes autres/100 leucocytes | comptage manuel | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233563;'mesure de leucocytes autres/100 leucocytes | technique indéterminée | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233562;'mesure de leucocytes autres/100 leucocytes | comptage manuel | liquide biologique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233561;'mesure de leucocytes autres/100 leucocytes | technique indéterminée | liquide biologique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233560;'mesure de leucocytes autres/100 leucocytes | comptage manuel | ascite | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12233559;'mesure de leucocytes autres/100 leucocytes | technique indéterminée | ascite | ponctuel | résultat numérique | fraction de nombres';1;0
+e;13656464;'nombres entiers naturels';1;0
+e;13656466;'nombres irrationnels';1;0
+e;13656465;'nombres entiers relatifs';1;0
+e;14005695;'station de nombres';777;0
+e;14128954;'Liste de grands nombres';777;0
+e;14128949;'Liste de nombres';777;0
+e;14159176;'nombres de Motzkin';777;0
+e;14174125;'construction des nombres rationnels';777;0
+e;14529411;'nombres hypercomplexes';777;0
+e;14581079;'nombres de Tribonacci';777;0
+e;12129466;'fraction de nombres (sans unité)';1;0
+e;16284879;'nombres en virgule flottante';777;0
+e;16307032;'nombres noirs';777;0
+e;16307031;'nombres rouges';777;0
+e;12235783;'mesure de myélopéroxydase/100 cellules | technique indéterminée | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235782;'mesure de myélopéroxydase/100 cellules | technique indéterminée | milieux divers | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235781;'mesure de myélopéroxydase/100 cellules | technique indéterminée | liquide biologique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235767;'mesure de myélocytes/leucocytes | comptage manuel | sang | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12235766;'mesure de myélocytes/leucocytes | comptage manuel | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12235765;'mesure de myélocytes/100 leucocytes | comptage manuel | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235764;'mesure de myélocytes/100 leucocytes | technique indéterminée | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235763;'mesure de myélocytes/100 leucocytes | comptage manuel | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235762;'mesure de myélocytes/100 leucocytes | technique indéterminée | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235761;'mesure de myélocytes/100 leucocytes | comptage manuel | liquide biologique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235760;'mesure de myélocytes/100 leucocytes | technique indéterminée | liquide biologique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235751;'mesure de myéloblastes/100 leucocytes | comptage manuel | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235750;'mesure de myéloblastes/100 leucocytes | technique indéterminée | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235749;'mesure de myéloblastes/100 leucocytes | comptage manuel | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235352;'mesure de monocytes+macrophages/100 leucocytes | technique indéterminée | tissu | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235351;'mesure de monocytes+macrophages/100 leucocytes | technique indéterminée | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235350;'mesure de monocytes+macrophages/100 leucocytes | comptage manuel | prélèvement bronchopulmonaire | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235349;'mesure de monocytes+macrophages/100 leucocytes | technique indéterminée | prélèvement bronchopulmonaire | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235348;'mesure de monocytes+macrophages/100 leucocytes | technique indéterminée | moelle osseuse | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235347;'mesure de monocytes+macrophages/100 leucocytes | comptage manuel | milieux divers | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235346;'mesure de monocytes+macrophages/100 leucocytes | technique indéterminée | milieux divers | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235345;'mesure de monocytes+macrophages/100 leucocytes | comptage manuel | liquide synovial | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235344;'mesure de monocytes+macrophages/100 leucocytes | technique indéterminée | liquide synovial | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235343;'mesure de monocytes+macrophages/100 leucocytes | comptage manuel | liquide pleural | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235342;'mesure de monocytes+macrophages/100 leucocytes | technique indéterminée | liquide pleural | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235341;'mesure de monocytes+macrophages/100 leucocytes | comptage manuel | liquide péricardique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235340;'mesure de monocytes+macrophages/100 leucocytes | comptage manuel | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235339;'mesure de monocytes+macrophages/100 leucocytes | technique indéterminée | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235338;'mesure de monocytes+macrophages/100 leucocytes | comptage manuel | liquide biologique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235337;'mesure de monocytes+macrophages/100 leucocytes | technique indéterminée | liquide biologique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235336;'mesure de monocytes+macrophages/100 leucocytes | comptage manuel | ascite | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235335;'mesure de monocytes+macrophages/100 leucocytes | technique indéterminée | ascite | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235321;'mesure de monocytes/leucocytes | comptage manuel | sang | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12235320;'mesure de monocytes/leucocytes | comptage automate | sang | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12235319;'mesure de monocytes/leucocytes | comptage manuel | liquide synovial | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12235318;'mesure de monocytes/leucocytes | comptage manuel | liquide pleural | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12235317;'mesure de monocytes/leucocytes | comptage manuel | liquide péricardique | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12235316;'mesure de monocytes/leucocytes | comptage manuel | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12235315;'mesure de monocytes/leucocytes | comptage manuel | liquide biologique | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12235314;'mesure de monocytes/leucocytes | comptage manuel | ascite | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12235313;'mesure de monocytes/100 leucocytes | comptage manuel | urine | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235312;'mesure de monocytes/100 leucocytes | technique indéterminée | urine | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235311;'mesure de monocytes/100 leucocytes | technique indéterminée | sang de cordon | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235310;'mesure de monocytes/100 leucocytes | comptage manuel | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235309;'mesure de monocytes/100 leucocytes | comptage automate | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235308;'mesure de monocytes/100 leucocytes | technique indéterminée | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235307;'mesure de monocytes/100 leucocytes | comptage manuel | prélèvement bronchopulmonaire | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235306;'mesure de monocytes/100 leucocytes | cytométrie de flux | milieux divers | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235305;'mesure de monocytes/100 leucocytes | comptage manuel | liquide vitrée | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235304;'mesure de monocytes/100 leucocytes | comptage manuel | liquide synovial | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235303;'mesure de monocytes/100 leucocytes | technique indéterminée | liquide synovial | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235302;'mesure de monocytes/100 leucocytes | comptage manuel | liquide pleural | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235301;'mesure de monocytes/100 leucocytes | technique indéterminée | liquide pleural | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235300;'mesure de monocytes/100 leucocytes | comptage manuel | liquide péricardique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235299;'mesure de monocytes/100 leucocytes | technique indéterminée | liquide péricardique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235298;'mesure de monocytes/100 leucocytes | comptage manuel | liquide de dialyse péritonéale | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235297;'mesure de monocytes/100 leucocytes | technique indéterminée | liquide de dialyse | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235296;'mesure de monocytes/100 leucocytes | comptage manuel | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235295;'mesure de monocytes/100 leucocytes | technique indéterminée | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235294;'mesure de monocytes/100 leucocytes | comptage manuel | liquide biologique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235293;'mesure de monocytes/100 leucocytes | technique indéterminée | liquide biologique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235292;'mesure de monocytes/100 leucocytes | comptage manuel | ascite | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235291;'mesure de monocytes/100 leucocytes | technique indéterminée | ascite | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235290;'mesure de monocytes/100 cellules rondes | comptage manuel | sperme | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235289;'mesure de monocytes/100 cellules rondes | comptage manuel | liquide prostatique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235288;'mesure de monocytes immatures/100 leucocytes | comptage manuel | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235287;'mesure de monocytes immatures/100 leucocytes | technique indéterminée | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235284;'mesure de monocytes anormaux/100 leucocytes | comptage manuel | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235283;'mesure de monocytes anormaux/100 leucocytes | technique indéterminée | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235261;'mesure de monoblastes/100 leucocytes | comptage manuel | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235260;'mesure de monoblastes/100 leucocytes | technique indéterminée | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12235259;'mesure de monoblastes/100 leucocytes | comptage manuel | moelle osseuse | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12238930;'mesure de plasmocytes/leucocytes | technique indéterminée | sang | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12238929;'mesure de plasmocytes/leucocytes | comptage manuel | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12238928;'mesure de plasmocytes/leucocytes | comptage manuel | liquide biologique | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12238927;'mesure de plasmocytes/100 leucocytes | technique indéterminée | sang de cordon | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12238926;'mesure de plasmocytes/100 leucocytes | comptage manuel | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12238925;'mesure de plasmocytes/100 leucocytes | technique indéterminée | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12238924;'mesure de plasmocytes/100 leucocytes | technique indéterminée | prélèvement bronchopulmonaire | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12238923;'mesure de plasmocytes/100 leucocytes | comptage manuel | liquide synovial | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12238922;'mesure de plasmocytes/100 leucocytes | comptage manuel | liquide pleural | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12238921;'mesure de plasmocytes/100 leucocytes | comptage manuel | liquide péricardique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12238920;'mesure de plasmocytes/100 leucocytes | microscopie | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12238919;'mesure de plasmocytes/100 leucocytes | comptage manuel | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12238918;'mesure de plasmocytes/100 leucocytes | technique indéterminée | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12238917;'mesure de plasmocytes/100 leucocytes | comptage manuel | liquide biologique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12238916;'mesure de plasmocytes/100 leucocytes | technique indéterminée | liquide biologique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12238915;'mesure de plasmocytes/100 leucocytes | comptage manuel | ascite | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12238914;'mesure de plasmocytes/100 cellules | comptage manuel | moelle osseuse | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12238913;'mesure de plasmocytes/100 cellules | comptage manuel | ganglion lymphatique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12238912;'mesure de plasmocytes immatures/100 cellules | technique indéterminée | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12238911;'mesure de plasmocytes immatures/100 cellules | comptage manuel | moelle osseuse | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12238905;'mesure de plasmoblastes/100 leucocytes | comptage manuel | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12238904;'mesure de plasmoblastes/100 leucocytes | technique indéterminée | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12240447;'mesure de réticulocytes/100 érythrocytes | comptage automate | sang de cordon | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12240446;'mesure de réticulocytes/100 érythrocytes | technique manuelle | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12240445;'mesure de réticulocytes/100 érythrocytes | comptage automate | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12240444;'mesure de réticulocytes/100 érythrocytes | technique indéterminée | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12240443;'mesure de réticulocytes immatures/réticulocytes totaux | comptage automate | sang du foetus | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12240442;'mesure de réticulocytes immatures/réticulocytes totaux | technique indéterminée | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12240413;'mesure de résistance globulaire osmotique après incubation | technique indéterminée | Érythrocytes | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12240411;'mesure de résistance globulaire osmotique | Érythrocytes dilués | Érythrocytes | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12240410;'mesure de résistance globulaire osmotique | technique indéterminée | Érythrocytes | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239837;'mesure de promyélocytes/leucocytes | comptage manuel | sang | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12239836;'mesure de promyélocytes/leucocytes | comptage manuel | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12239835;'mesure de promyélocytes/leucocytes | comptage manuel | liquide biologique | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12239834;'mesure de promyélocytes/100 leucocytes | comptage manuel | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239833;'mesure de promyélocytes/100 leucocytes | technique indéterminée | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239832;'mesure de promyélocytes/100 leucocytes | comptage manuel | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239831;'mesure de promyélocytes/100 leucocytes | technique indéterminée | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239830;'mesure de promyélocytes/100 leucocytes | comptage manuel | liquide biologique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239829;'mesure de promyélocytes/100 leucocytes | technique indéterminée | liquide biologique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239820;'mesure de promonocytes/100 leucocytes | comptage manuel | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239819;'mesure de promonocytes/100 leucocytes | technique indéterminée | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239818;'mesure de promonocytes/100 leucocytes | technique indéterminée | liquide biologique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239795;'mesure de prolymphocytes/100 leucocytes | comptage manuel | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239794;'mesure de prolymphocytes/100 leucocytes | technique indéterminée | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239793;'mesure de prolymphocytes/100 leucocytes | technique indéterminée | liquide biologique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239691;'mesure de proérythroblastes/100 cellules | comptage manuel | moelle osseuse | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239690;'mesure de proérythroblastes/100 cellules | technique indéterminée | moelle osseuse | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239432;'mesure de polynucléaires neutrophiles/leucocytes | comptage manuel | sang | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12239431;'mesure de polynucléaires neutrophiles/leucocytes | comptage automate | sang | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12239430;'mesure de polynucléaires neutrophiles/leucocytes | comptage manuel | prélèvement bronchopulmonaire | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12239429;'mesure de polynucléaires neutrophiles/leucocytes | comptage manuel | liquide synovial | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12239428;'mesure de polynucléaires neutrophiles/leucocytes | comptage manuel | liquide pleural | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12239427;'mesure de polynucléaires neutrophiles/leucocytes | comptage manuel | liquide péricardique | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12239426;'mesure de polynucléaires neutrophiles/leucocytes | comptage manuel | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12239425;'mesure de polynucléaires neutrophiles/leucocytes | comptage manuel | ascite | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12239424;'mesure de polynucléaires neutrophiles/100 leucocytes | technique indéterminée | sang de cordon | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239423;'mesure de polynucléaires neutrophiles/100 leucocytes | comptage manuel | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239422;'mesure de polynucléaires neutrophiles/100 leucocytes | comptage automate | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239421;'mesure de polynucléaires neutrophiles/100 leucocytes | technique indéterminée | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239420;'mesure de polynucléaires neutrophiles/100 leucocytes | cytométrie de flux | prélèvement bronchopulmonaire | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239419;'mesure de polynucléaires neutrophiles/100 leucocytes | comptage manuel | prélèvement bronchopulmonaire | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239418;'mesure de polynucléaires neutrophiles/100 leucocytes | technique indéterminée | prélèvement bronchopulmonaire | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239417;'mesure de polynucléaires neutrophiles/100 leucocytes | technique indéterminée | nez | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239416;'mesure de polynucléaires neutrophiles/100 leucocytes | comptage manuel | liquide vitrée | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239415;'mesure de polynucléaires neutrophiles/100 leucocytes | comptage manuel | liquide synovial | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239414;'mesure de polynucléaires neutrophiles/100 leucocytes | technique indéterminée | liquide synovial | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239413;'mesure de polynucléaires neutrophiles/100 leucocytes | comptage manuel | liquide pleural | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239412;'mesure de polynucléaires neutrophiles/100 leucocytes | technique indéterminée | liquide pleural | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239411;'mesure de polynucléaires neutrophiles/100 leucocytes | comptage manuel | liquide péricardique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239410;'mesure de polynucléaires neutrophiles/100 leucocytes | technique indéterminée | liquide péricardique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239409;'mesure de polynucléaires neutrophiles/100 leucocytes | comptage manuel | liquide de dialyse péritonéale | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239408;'mesure de polynucléaires neutrophiles/100 leucocytes | technique indéterminée | liquide de dialyse | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239407;'mesure de polynucléaires neutrophiles/100 leucocytes | microscopie | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239406;'mesure de polynucléaires neutrophiles/100 leucocytes | comptage manuel | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239405;'mesure de polynucléaires neutrophiles/100 leucocytes | technique indéterminée | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239404;'mesure de polynucléaires neutrophiles/100 leucocytes | comptage manuel | liquide biologique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239403;'mesure de polynucléaires neutrophiles/100 leucocytes | technique indéterminée | liquide biologique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239402;'mesure de polynucléaires neutrophiles/100 leucocytes | technique indéterminée | crachat | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239401;'mesure de polynucléaires neutrophiles/100 leucocytes | comptage manuel | ascite | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239400;'mesure de polynucléaires neutrophiles/100 leucocytes | technique indéterminée | ascite | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239399;'mesure de polynucléaires neutrophiles/100 cellules rondes | comptage manuel | sperme | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239398;'mesure de polynucléaires neutrophiles/100 cellules rondes | comptage manuel | liquide prostatique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239397;'mesure de polynucléaires neutrophiles stimulés par pma+dhr/polynucléaires neutrophiles pma stimulés totaux | cytométrie de flux | sang témoin | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239396;'mesure de polynucléaires neutrophiles stimulés par pma+dhr/polynucléaires neutrophiles pma stimulés totaux | cytométrie de flux | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239393;'mesure de polynucléaires neutrophiles stimulés par flmp+dhr/polynucléaires neutrophiles fmlp stimulés totaux | cytométrie de flux | sang témoin | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239392;'mesure de polynucléaires neutrophiles stimulés par flmp+dhr/polynucléaires neutrophiles fmlp stimulés totaux | cytométrie de flux | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239389;'mesure de polynucléaires neutrophiles segmentés/100 leucocytes | comptage manuel | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239388;'mesure de polynucléaires neutrophiles segmentés/100 leucocytes | comptage automate | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239387;'mesure de polynucléaires neutrophiles segmentés/100 leucocytes | technique indéterminée | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239386;'mesure de polynucléaires neutrophiles segmentés/100 leucocytes | comptage manuel | moelle osseuse | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239385;'mesure de polynucléaires neutrophiles segmentés/100 leucocytes | technique indéterminée | liquide synovial | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239384;'mesure de polynucléaires neutrophiles segmentés/100 leucocytes | technique indéterminée | liquide pleural | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239383;'mesure de polynucléaires neutrophiles segmentés/100 leucocytes | technique indéterminée | liquide péricardique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239382;'mesure de polynucléaires neutrophiles segmentés/100 leucocytes | comptage manuel | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239381;'mesure de polynucléaires neutrophiles segmentés/100 leucocytes | technique indéterminée | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239380;'mesure de polynucléaires neutrophiles segmentés/100 leucocytes | comptage manuel | liquide biologique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239379;'mesure de polynucléaires neutrophiles segmentés/100 leucocytes | technique indéterminée | liquide biologique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239378;'mesure de polynucléaires neutrophiles segmentés/100 leucocytes | technique indéterminée | ascite | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239369;'mesure de polynucléaires neutrophiles immatures/100 leucocytes | technique indéterminée | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239368;'mesure de polynucléaires neutrophiles immatures/100 leucocytes | technique indéterminée | liquide biologique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239367;'mesure de polynucléaires neutrophiles hypersegmentés/100 leucocytes | comptage manuel | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239366;'mesure de polynucléaires neutrophiles hypersegmentés/100 leucocytes | technique indéterminée | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239353;'mesure de polynucléaires neutrophiles à noyau peu segmenté/leucocytes | comptage manuel | sang | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12239352;'mesure de polynucléaires neutrophiles à noyau peu segmenté/leucocytes | comptage manuel | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12239351;'mesure de polynucléaires neutrophiles à noyau peu segmenté/leucocytes | comptage manuel | liquide biologique | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12239350;'mesure de polynucléaires neutrophiles à noyau peu segmenté/100 leucocytes | comptage manuel | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239349;'mesure de polynucléaires neutrophiles à noyau peu segmenté/100 leucocytes | comptage automate | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239348;'mesure de polynucléaires neutrophiles à noyau peu segmenté/100 leucocytes | technique indéterminée | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239347;'mesure de polynucléaires neutrophiles à noyau peu segmenté/100 leucocytes | technique indéterminée | liquide synovial | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239346;'mesure de polynucléaires neutrophiles à noyau peu segmenté/100 leucocytes | technique indéterminée | liquide péricardique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239345;'mesure de polynucléaires neutrophiles à noyau peu segmenté/100 leucocytes | comptage manuel | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239344;'mesure de polynucléaires neutrophiles à noyau peu segmenté/100 leucocytes | technique indéterminée | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239343;'mesure de polynucléaires neutrophiles à noyau peu segmenté/100 leucocytes | comptage manuel | liquide biologique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239342;'mesure de polynucléaires neutrophiles à noyau peu segmenté/100 leucocytes | technique indéterminée | liquide biologique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239295;'mesure de polynucléaires éosinophiles/leucocytes | comptage manuel | sang | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12239294;'mesure de polynucléaires éosinophiles/leucocytes | comptage automate | sang | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12239293;'mesure de polynucléaires éosinophiles/leucocytes | comptage manuel | prélèvement bronchopulmonaire | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12239292;'mesure de polynucléaires éosinophiles/leucocytes | comptage manuel | liquide synovial | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12239291;'mesure de polynucléaires éosinophiles/leucocytes | comptage manuel | liquide pleural | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12239290;'mesure de polynucléaires éosinophiles/leucocytes | comptage manuel | liquide péricardique | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12239289;'mesure de polynucléaires éosinophiles/leucocytes | comptage manuel | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12239288;'mesure de polynucléaires éosinophiles/leucocytes | comptage manuel | liquide biologique | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12239287;'mesure de polynucléaires éosinophiles/leucocytes | comptage manuel | ascite | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12239286;'mesure de polynucléaires éosinophiles/100 leucocytes | comptage manuel | urine | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239285;'mesure de polynucléaires éosinophiles/100 leucocytes | comptage manuel | selles | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239284;'mesure de polynucléaires éosinophiles/100 leucocytes | technique indéterminée | selles | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239283;'mesure de polynucléaires éosinophiles/100 leucocytes | comptage manuel | sédiments urinaires | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239282;'mesure de polynucléaires éosinophiles/100 leucocytes | technique indéterminée | sang de cordon | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239281;'mesure de polynucléaires éosinophiles/100 leucocytes | comptage manuel | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239280;'mesure de polynucléaires éosinophiles/100 leucocytes | comptage automate | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239279;'mesure de polynucléaires éosinophiles/100 leucocytes | technique indéterminée | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239278;'mesure de polynucléaires éosinophiles/100 leucocytes | cytométrie de flux | prélèvement bronchopulmonaire | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239277;'mesure de polynucléaires éosinophiles/100 leucocytes | comptage manuel | prélèvement bronchopulmonaire | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239276;'mesure de polynucléaires éosinophiles/100 leucocytes | technique indéterminée | prélèvement bronchopulmonaire | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239275;'mesure de polynucléaires éosinophiles/100 leucocytes | comptage manuel | nez | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239274;'mesure de polynucléaires éosinophiles/100 leucocytes | technique indéterminée | nez | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239273;'mesure de polynucléaires éosinophiles/100 leucocytes | technique indéterminée | milieux divers | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239272;'mesure de polynucléaires éosinophiles/100 leucocytes | comptage manuel | liquide vitrée | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239271;'mesure de polynucléaires éosinophiles/100 leucocytes | comptage manuel | liquide synovial | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239270;'mesure de polynucléaires éosinophiles/100 leucocytes | technique indéterminée | liquide synovial | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239269;'mesure de polynucléaires éosinophiles/100 leucocytes | comptage manuel | liquide pleural | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239268;'mesure de polynucléaires éosinophiles/100 leucocytes | technique indéterminée | liquide pleural | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239267;'mesure de polynucléaires éosinophiles/100 leucocytes | comptage manuel | liquide péricardique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239266;'mesure de polynucléaires éosinophiles/100 leucocytes | comptage manuel | liquide de dialyse péritonéale | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239265;'mesure de polynucléaires éosinophiles/100 leucocytes | comptage manuel | liquide de dialyse | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239264;'mesure de polynucléaires éosinophiles/100 leucocytes | comptage manuel | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239263;'mesure de polynucléaires éosinophiles/100 leucocytes | technique indéterminée | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239262;'mesure de polynucléaires éosinophiles/100 leucocytes | comptage manuel | liquide biologique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239261;'mesure de polynucléaires éosinophiles/100 leucocytes | technique indéterminée | liquide biologique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239260;'mesure de polynucléaires éosinophiles/100 leucocytes | comptage manuel | crachat | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239259;'mesure de polynucléaires éosinophiles/100 leucocytes | technique indéterminée | crachat | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239258;'mesure de polynucléaires éosinophiles/100 leucocytes | comptage manuel | ascite | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239257;'mesure de polynucléaires éosinophiles/100 leucocytes | technique indéterminée | ascite | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239256;'mesure de polynucléaires éosinophiles/100 cellules | comptage manuel | moelle osseuse | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239255;'mesure de polynucléaires éosinophiles/100 cellules | technique indéterminée | moelle osseuse | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239254;'mesure de polynucléaires éosinophiles immatures/100 leucocytes | comptage manuel | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239253;'mesure de polynucléaires éosinophiles immatures/100 leucocytes | technique indéterminée | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239215;'mesure de polynucléaires basophiles+polynucléaires éosinophiles+monocytes/100 leucocytes | comptage automate | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239214;'mesure de polynucléaires basophiles+polynucléaires éosinophiles+monocytes/100 leucocytes | technique indéterminée | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239211;'mesure de polynucléaires basophiles+mastocytes/100 leucocytes | technique indéterminée | liquide synovial | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239210;'mesure de polynucléaires basophiles+mastocytes/100 leucocytes | technique indéterminée | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239209;'mesure de polynucléaires basophiles+mastocytes/100 leucocytes | technique indéterminée | liquide biologique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239208;'mesure de polynucléaires basophiles/leucocytes | comptage manuel | sang | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12239207;'mesure de polynucléaires basophiles/leucocytes | comptage automate | sang | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12239206;'mesure de polynucléaires basophiles/leucocytes | comptage manuel | prélèvement bronchopulmonaire | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12239205;'mesure de polynucléaires basophiles/leucocytes | comptage manuel | liquide synovial | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12239204;'mesure de polynucléaires basophiles/leucocytes | comptage manuel | liquide pleural | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12239203;'mesure de polynucléaires basophiles/leucocytes | comptage manuel | liquide péricardique | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12239202;'mesure de polynucléaires basophiles/leucocytes | comptage manuel | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12239201;'mesure de polynucléaires basophiles/leucocytes | comptage manuel | liquide biologique | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12239200;'mesure de polynucléaires basophiles/leucocytes | comptage manuel | ascite | ponctuel | résultat numérique | fraction de nombres (sans unité)';1;0
+e;12239199;'mesure de polynucléaires basophiles immatures/100 leucocytes | comptage manuel | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12239198;'mesure de polynucléaires basophiles immatures/100 leucocytes | technique indéterminée | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;5782092;'tyrannie des nombres';777;0
+e;10988315;'pseudo-démonstration d'égalité entre nombres';777;0
+e;11056720;'générateur de nombres pseudo-aléatoires';777;0
+e;12241830;'mesure de spermatozoïdes anticorps igg/100 spermatozoïdes | immunobille | sérum | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12241829;'mesure de spermatozoïdes anticorps igg/100 spermatozoïdes | technique indéterminée | sérum | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12241823;'mesure de spermatozoïdes anticorps iga/100 spermatozoïdes | immunobille | sérum | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12241822;'mesure de spermatozoïdes anticorps iga/100 spermatozoïdes | technique indéterminée | sérum | ponctuel | résultat numérique | fraction de nombres';1;0
+e;5574056;'nombres préférentiels';777;0
+e;12241855;'mesure de spermatozoïdes mobiles avec anticorps igm/100 spermatozoïdes | réaction à l'antiglobuline | sperme | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12241854;'mesure de spermatozoïdes mobiles avec anticorps igm/100 spermatozoïdes | immunobille | sperme | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12241853;'mesure de spermatozoïdes mobiles avec anticorps igg/100 spermatozoïdes | réaction à l'antiglobuline | sperme | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12241852;'mesure de spermatozoïdes mobiles avec anticorps igg/100 spermatozoïdes | immunobille | sperme | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12241851;'mesure de spermatozoïdes mobiles avec anticorps iga/100 spermatozoïdes | réaction à l'antiglobuline | sperme | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12241850;'mesure de spermatozoïdes mobiles avec anticorps iga/100 spermatozoïdes | immunobille | sperme | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12241837;'mesure de spermatozoïdes anticorps igm/100 spermatozoïdes | immunobille | sérum | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12241836;'mesure de spermatozoïdes anticorps igm/100 spermatozoïdes | technique indéterminée | sérum | ponctuel | résultat numérique | fraction de nombres';1;0
+e;5817091;'ordres de grandeur de nombres';777;0
+e;5815020;'sous-ensemble des nombres complexes';1;0
+e;5672560;'Arithmétique et Théorie des nombres';777;0
+e;11063447;'table de nombres aléatoires';777;0
+e;11064638;'nombres de Catalan';777;0
+e;15192926;'Soit R l'ensemble des nombres réels';1;0
+e;10842722;'géométrie des nombres';777;0
+e;12301840;'loi faible des grands nombres';777;0
+e;1840012;'nombres au hasard';1;0
+e;5894419;'nombres surréels';777;0
+e;11091276;'symbolisme des nombres';777;0
+e;12242833;'mesure de tcr gamma delta/100 cellules | technique indéterminée | tissu | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12242832;'mesure de tcr gamma delta/100 cellules | technique indéterminée | milieux divers | ponctuel | résultat numérique | fraction de nombres';1;0
+e;9934993;'nombres transcendants';777;0
+e;10557902;'méthode d'écriture de nombres réels';1;0
+e;12243070;'mesure de terminal déoxyribonucléotidyl transférase/100 cellules | cytométrie de flux | tissu | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12243069;'mesure de terminal déoxyribonucléotidyl transférase/100 cellules | cytométrie de flux | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12243068;'mesure de terminal déoxyribonucléotidyl transférase/100 cellules | technique indéterminée | moelle osseuse | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12243067;'mesure de terminal déoxyribonucléotidyl transférase/100 cellules | immunoanalyse | milieux divers | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12243066;'mesure de terminal déoxyribonucléotidyl transférase/100 cellules | coloration immunopéroxydase | milieux divers | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12243065;'mesure de terminal déoxyribonucléotidyl transférase/100 cellules | technique indéterminée | milieux divers | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12243064;'mesure de terminal déoxyribonucléotidyl transférase/100 cellules | cytométrie de flux | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12243063;'mesure de terminal déoxyribonucléotidyl transférase/100 cellules | coloration immunopéroxydase | liquide céphalorachidien | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12243062;'mesure de terminal déoxyribonucléotidyl transférase/100 cellules | cytométrie de flux | liquide biologique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;5671123;'nombres 7 000 à 7 999';777;0
+e;11552960;'loi forte des grands nombres';777;0
+e;12243872;'mesure de tricholeucocytes/100 leucocytes | comptage manuel | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12243871;'mesure de tricholeucocytes/100 leucocytes | technique indéterminée | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12243870;'mesure de tricholeucocytes/100 leucocytes | technique indéterminée | moelle osseuse | ponctuel | résultat numérique | fraction de nombres';1;0
+e;6526823;'nombres d'avortements antérieurs';1;0
+e;10547411;'lemme de Gauss en théorie des nombres';777;0
+e;11003668;'conjecture des nombres premiers de Waring';777;0
+e;11003631;'nombres premiers sexys';777;0
+e;11003593;'nombres premiers d'ordre supérieur';777;0
+e;11003534;'pages de nombres premiers';777;0
+e;11003402;'nombres 10 000 à 99 999';777;0
+e;10516449;'suite de nombres';1;0
+e;11002535;'nombres 4 000 à 4 999';777;0
+e;11002538;'nombres 8 000 à 8 999';777;0
+e;11002537;'nombres 6 000 à 6 999';777;0
+e;11002539;'nombres 9 000 à 9 999';777;0
+e;11003442;'liste d'articles concernant les nombres';777;0
+e;11003416;'nombres 3 000 à 3 999';777;0
+e;11003429;'nombres 5 000 à 5 999';777;0
+e;11003569;'nombres premiers de Pierpont';777;0
+e;11003577;'nombres de Lucas';777;0
+e;11003592;'nombres super-premiers';777;0
+e;11003629;'nombres premiers cousins';777;0
+e;11003538;'nombres d'Euclide';777;0
+e;11003419;'nombres 1 000 à 1 999';777;0
+e;11003441;'paradoxe des nombres intéressants';777;0
+e;11003635;'sextuplet de nombres premiers';777;0
+e;11003674;'fonction de compte des nombres premiers';777;0
+e;11003661;'problème des trois nombres premiers';777;0
+e;11003634;'quintuplet de nombres premiers';777;0
+e;11003630;'nombres premiers sexy';777;0
+e;11003574;'nombres de Proth';777;0
+e;11003632;'triplet de nombres premiers';777;0
+e;11003678;'liste de nombres premiers';777;0
+e;11003679;'suites de nombres premiers';777;0
+e;11003116;'En théorie des nombres';777;0
+e;11003675;'les nombres premiers';777;0
+e;5553637;'théorème de la théorie des nombres';1;0
+e;5946682;'programmation linéaire en nombres entiers';777;0
+e;11003633;'quadruplet de nombres premiers';777;0
+e;11003572;'nombres de Thebit';777;0
+e;11155010;'nombres duaux';777;0
+e;11154953;'constructions des nombres réels';777;0
+e;11175217;'Sur le nombre de nombres premiers inférieurs à une taille donnée';777;0
+e;5553625;'il existe une infinité de nombres premiers';777;0
+e;5946680;'optimisation linéaire en nombres entiers';777;0
+e;11154811;'nombres p-adiques';777;0
+e;11155008;'nombres superréels';777;0
+e;11154996;'nombres complexes déployés';777;0
+e;11155007;'nombres hyperréels';777;0
+e;11154999;'nombres multicomplexes';777;0
+e;11154998;'nombres bicomplexes';777;0
+e;11325886;'fraction de nombres';1;0
+e;5554296;'résultat théorie des nombres';1;0
+e;5557028;'constante de Brun des nombres premiers jumeaux';777;0
+e;5553624;'théorème d'Euclide sur les nombres premiers';777;0
+e;5556566;'théorème de théorie des nombres';1;0
+e;5554428;'théorème des nombres pentagonaux';777;0
+e;5554355;'théorème de la raréfaction des nombres premiers';777;0
+e;6011669;'hypothèse des grands nombres de Dirac';777;0
+e;5557074;'nombres de Feigenbaum';777;0
+e;5557114;'constante des nombres premiers';777;0
+e;11154986;'corps de nombres p-adiques';777;0
+e;12245331;'mesure de zap70/100 cellules | technique indéterminée | tissu | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12245330;'mesure de zap70/100 cellules | technique indéterminée | sang | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12245329;'mesure de zap70/100 cellules | technique indéterminée | moelle osseuse | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12245328;'mesure de zap70/100 cellules | technique indéterminée | milieux divers | ponctuel | résultat numérique | fraction de nombres';1;0
+e;12245327;'mesure de zap70/100 cellules | technique indéterminée | liquide biologique | ponctuel | résultat numérique | fraction de nombres';1;0
+e;13756586;'84a nombres d'avortements antérieurs';1;0
+e;15335244;'Des lettres avaient été remplacées par des nombres.';1;0
+e;2346668;'nomenclature des grands nombres';1;0
+e;573736;'encyclopédie en ligne des suites de nombres entiers';777;50
+e;579624;'nombres décimaux';1;0
+e;579623;'nombres rationnels';1;0
+e;1742594;'conjecture des nombres premiers jumeaux';777;0
+e;5517124;'tableau de nombres';1;0
+e;566756;'nombres 2 000 à 2 999';777;50
+e;1228935;'nombres amicaux';777;0
+e;1228936;'nombres amiables';777;0
+e;1742593;'nombres premiers jumeaux';1;0
+e;1766455;'arithmétique et théorie des nombres';1;0
+e;2948613;'nombres de Bernoulli';777;0
+e;5520788;'branche de la théorie des nombres';1;0
+e;465246;'factorisation entière en nombres premiers';777;50
+e;2928739;'nombres de Mersenne';777;0
+e;3473145;'nombres d'Euler';777;0
+e;1799001;'nombres triangulaires';1;0
+e;366515;'nombres opposés';1;50
+e;366512;'nombres hétérogènes';1;50
+e;356684;'grands nombres';1;50
+e;357282;'générateur de nombres aléatoires';1;52
+e;332457;'corps des nombres p-adiques';1;50
+e;330910;'nombres parfaits';1;50
+e;318928;'nombres de Fibonacci';1;50
+e;330515;'théorème des nombres premiers';1;52
+e;330507;'nombres premiers';1;50
+e;316648;'nombres dans le monde';1;50
+e;230875;'théorie algébrique des nombres';1;50
+e;245016;'théorie analytique des nombres';1;50
+e;60880;'nombres transfinis';1;50
+e;209029;'théorie des nombres';1;96
+e;285989;'la théorie des nombres';777;50
+e;304339;'La Loi des nombres';777;50
+e;49385;'nombres complexes';1;50
+e;79138;'loi des grands nombres';1;68
+e;122583;'Théorie des nombres';1;50
+e;204451;'nombres équimultiples';1;50
+e;204452;'nombres inversement proportionnels';1;50
+e;204453;'nombres premiers entre eux';1;50
+e;204454;'nombres proportionnels';1;50
+e;272437;'nombres quantiques';777;50
+e;272576;'théorie algébrique classique des nombres';777;50
+e;287399;'livre des nombres';777;50
+e;287897;'noms des grands nombres';777;50
+e;291749;'problème d'optimisation linéaire en nombres entiers';777;50
+e;296977;'corps des nombres complexes';777;50
+e;313019;'nombres de Pell';777;50
+e;313020;'nombres de Pell compagnon';777;50
+e;313021;'nombres de Pell-Lucas';777;50
+e;136255;'nombres réels';1;50
+r;318620263;64834;12234616;11;25
+r;318620285;64834;12234615;11;25
+r;318620307;64834;12234614;11;25
+r;318620332;64834;12234613;11;25
+r;318620355;64834;12234612;11;25
+r;318620380;64834;12234611;11;25
+r;318620405;64834;12234610;11;25
+r;318620430;64834;12234609;11;25
+r;318620455;64834;12234608;11;25
+r;318628460;64834;12234217;11;25
+r;318628482;64834;12234216;11;25
+r;318628504;64834;12234215;11;25
+r;318628526;64834;12234214;11;25
+r;318628548;64834;12234213;11;25
+r;318628570;64834;12234212;11;25
+r;318628590;64834;12234211;11;25
+r;318628617;64834;12234210;11;25
+r;318628642;64834;12234209;11;25
+r;318628667;64834;12234208;11;25
+r;318628692;64834;12234207;11;25
+r;318628717;64834;12234206;11;25
+r;318628742;64834;12234205;11;25
+r;318628767;64834;12234204;11;25
+r;318628792;64834;12234203;11;25
+r;318628817;64834;12234202;11;25
+r;318628842;64834;12234201;11;25
+r;318628867;64834;12234200;11;25
+r;318628892;64834;12234199;11;25
+r;318628917;64834;12234198;11;25
+r;318628942;64834;12234197;11;25
+r;318628965;64834;12234196;11;25
+r;318630504;64834;12234117;11;25
+r;318630527;64834;12234116;11;25
+r;318630588;64834;12234113;11;25
+r;318630613;64834;12234112;11;25
+r;318630635;64834;12234111;11;25
+r;318630657;64834;12234109;11;25
+r;318630679;64834;12234108;11;25
+r;318630703;64834;12234107;11;25
+r;318630727;64834;12234106;11;25
+r;318630751;64834;12234105;11;25
+r;318630775;64834;12234104;11;25
+r;318630799;64834;12234103;11;25
+r;318630823;64834;12234102;11;25
+r;318630847;64834;12234101;11;25
+r;318630871;64834;12234100;11;25
+r;318630895;64834;12234099;11;25
+r;318630917;64834;12234098;11;25
+r;318631193;64834;12234085;11;25
+r;318631215;64834;12234084;11;25
+r;318631239;64834;12234083;11;25
+r;318631263;64834;12234082;11;25
+r;318631287;64834;12234081;11;25
+r;318631311;64834;12234080;11;25
+r;318631335;64834;12234079;11;25
+r;318631359;64834;12234078;11;25
+r;318631381;64834;12234077;11;25
+r;318631405;64834;12234076;11;25
+r;318631429;64834;12234075;11;25
+r;318631453;64834;12234074;11;25
+r;318631475;64834;12234073;11;25
+r;318631497;64834;12234072;11;25
+r;318631519;64834;12234071;11;25
+r;318631541;64834;12234070;11;25
+r;318631565;64834;12234069;11;25
+r;318631589;64834;12234068;11;25
+r;318631613;64834;12234067;11;25
+r;318631637;64834;12234066;11;25
+r;318631661;64834;12234065;11;25
+r;318631685;64834;12234064;11;25
+r;318631709;64834;12234063;11;25
+r;318631733;64834;12234062;11;25
+r;318631757;64834;12234061;11;25
+r;318631781;64834;12234060;11;25
+r;318631805;64834;12234059;11;25
+r;318631829;64834;12234058;11;25
+r;318631853;64834;12234057;11;25
+r;318631879;64834;12234056;11;25
+r;318631903;64834;12234055;11;25
+r;318631927;64834;12234054;11;25
+r;318631951;64834;12234053;11;25
+r;318631975;64834;12234052;11;25
+r;318631999;64834;12234051;11;25
+r;318632023;64834;12234050;11;25
+r;318632045;64834;12234049;11;25
+r;318632067;64834;12234048;11;25
+r;318632089;64834;12234047;11;25
+r;318632653;64834;12234021;11;25
+r;318632677;64834;12234020;11;25
+r;318632701;64834;12234019;11;25
+r;318632725;64834;12234018;11;25
+r;318633001;64834;12234007;11;25
+r;318633023;64834;12234006;11;25
+r;318633043;64834;12234005;11;25
+r;318633065;64834;12234004;11;25
+r;318633087;64834;12234003;11;25
+r;318633109;64834;12234002;11;25
+r;318633131;64834;12234001;11;25
+r;318633153;64834;12234000;11;25
+r;318633259;64834;12233995;11;25
+r;318633279;64834;12233994;11;25
+r;318633301;64834;12233993;11;25
+r;318633323;64834;12233992;11;25
+r;318633343;64834;12233991;11;25
+r;318633365;64834;12233990;11;25
+r;318633385;64834;12233989;11;25
+r;318633407;64834;12233988;11;25
+r;318633427;64834;12233987;11;25
+r;318633449;64834;12233986;11;25
+r;318633471;64834;12233985;11;25
+r;318633613;64834;12233978;11;25
+r;318633635;64834;12233977;11;25
+r;318633659;64834;12233976;11;25
+r;318633683;64834;12233975;11;25
+r;318633707;64834;12233974;11;25
+r;318633731;64834;12233973;11;25
+r;318633755;64834;12233972;11;25
+r;318633779;64834;12233971;11;25
+r;318633803;64834;12233970;11;25
+r;318633931;64834;12233964;11;25
+r;318633953;64834;12233963;11;25
+r;318633975;64834;12233962;11;25
+r;318633998;64834;12233961;11;25
+r;318634021;64834;12233960;11;25
+r;318634046;64834;12233959;11;25
+r;318641709;64834;12233592;11;25
+r;318641734;64834;12233591;11;25
+r;318641759;64834;12233590;11;25
+r;318642012;64834;12233581;11;25
+r;318642039;64834;12233580;11;25
+r;318642066;64834;12233579;11;25
+r;318642091;64834;12233578;11;25
+r;318642116;64834;12233577;11;25
+r;318642139;64834;12233576;11;25
+r;318642162;64834;12233575;11;25
+r;318642187;64834;12233574;11;25
+r;318642212;64834;12233573;11;25
+r;318642237;64834;12233572;11;25
+r;318642262;64834;12233571;11;25
+r;318642287;64834;12233570;11;25
+r;318642312;64834;12233569;11;25
+r;318642337;64834;12233568;11;25
+r;318642362;64834;12233567;11;25
+r;318642387;64834;12233566;11;25
+r;318642414;64834;12233565;11;25
+r;318642439;64834;12233564;11;25
+r;318642464;64834;12233563;11;25
+r;318642489;64834;12233562;11;25
+r;318642514;64834;12233561;11;25
+r;318642537;64834;12233560;11;25
+r;318642560;64834;12233559;11;25
+r;346932062;64834;13656464;11;25
+r;346932078;64834;13656466;11;25
+r;346932102;64834;13656465;11;25
+r;353390902;64834;14005695;11;25
+r;357944742;64834;14128954;11;25
+r;357947238;64834;14128949;11;25
+r;359692699;64834;14159176;11;25
+r;360398325;64834;14174125;11;25
+r;368591471;64834;14529411;11;25
+r;370524234;64834;14581079;11;25
+r;418492070;64834;12129466;11;25
+r;427210797;64834;16284879;11;25
+r;427648744;64834;16307032;11;25
+r;427650064;64834;16307031;11;25
+r;318595264;64834;12235783;11;26
+r;318595289;64834;12235782;11;26
+r;318595314;64834;12235781;11;26
+r;318595617;64834;12235767;11;26
+r;318595639;64834;12235766;11;26
+r;318595664;64834;12235765;11;26
+r;318595687;64834;12235764;11;26
+r;318595712;64834;12235763;11;26
+r;318595737;64834;12235762;11;26
+r;318595762;64834;12235761;11;26
+r;318595787;64834;12235760;11;26
+r;318595970;64834;12235751;11;26
+r;318595993;64834;12235750;11;26
+r;318596018;64834;12235749;11;26
+r;318605877;64834;12235352;11;26
+r;318605900;64834;12235351;11;26
+r;318605925;64834;12235350;11;26
+r;318605950;64834;12235349;11;26
+r;318605975;64834;12235348;11;26
+r;318606000;64834;12235347;11;26
+r;318606025;64834;12235346;11;26
+r;318606050;64834;12235345;11;26
+r;318606075;64834;12235344;11;26
+r;318606100;64834;12235343;11;26
+r;318606125;64834;12235342;11;26
+r;318606150;64834;12235341;11;26
+r;318606175;64834;12235340;11;26
+r;318606200;64834;12235339;11;26
+r;318606225;64834;12235338;11;26
+r;318606250;64834;12235337;11;26
+r;318606273;64834;12235336;11;26
+r;318606296;64834;12235335;11;26
+r;318606534;64834;12235321;11;26
+r;318606554;64834;12235320;11;26
+r;318606576;64834;12235319;11;26
+r;318606598;64834;12235318;11;26
+r;318606620;64834;12235317;11;26
+r;318606642;64834;12235316;11;26
+r;318606664;64834;12235315;11;26
+r;318606684;64834;12235314;11;26
+r;318606709;64834;12235313;11;26
+r;318606732;64834;12235312;11;26
+r;318606757;64834;12235311;11;26
+r;318606780;64834;12235310;11;26
+r;318606803;64834;12235309;11;26
+r;318606826;64834;12235308;11;26
+r;318606851;64834;12235307;11;26
+r;318606876;64834;12235306;11;26
+r;318606901;64834;12235305;11;26
+r;318606926;64834;12235304;11;26
+r;318606951;64834;12235303;11;26
+r;318606976;64834;12235302;11;26
+r;318607001;64834;12235301;11;26
+r;318607026;64834;12235300;11;26
+r;318607051;64834;12235299;11;26
+r;318607078;64834;12235298;11;26
+r;318607103;64834;12235297;11;26
+r;318607128;64834;12235296;11;26
+r;318607153;64834;12235295;11;26
+r;318607178;64834;12235294;11;26
+r;318607203;64834;12235293;11;26
+r;318607226;64834;12235292;11;26
+r;318607249;64834;12235291;11;26
+r;318607277;64834;12235290;11;26
+r;318607307;64834;12235289;11;26
+r;318607332;64834;12235288;11;26
+r;318607357;64834;12235287;11;26
+r;318607428;64834;12235284;11;26
+r;318607453;64834;12235283;11;26
+r;318607892;64834;12235261;11;26
+r;318607915;64834;12235260;11;26
+r;318607940;64834;12235259;11;26
+r;318480831;64834;12238930;11;27
+r;318480853;64834;12238929;11;27
+r;318480875;64834;12238928;11;27
+r;318480902;64834;12238927;11;27
+r;318480925;64834;12238926;11;27
+r;318480948;64834;12238925;11;27
+r;318480973;64834;12238924;11;27
+r;318480998;64834;12238923;11;27
+r;318481023;64834;12238922;11;27
+r;318481048;64834;12238921;11;27
+r;318481071;64834;12238920;11;27
+r;318481096;64834;12238919;11;27
+r;318481121;64834;12238918;11;27
+r;318481146;64834;12238917;11;27
+r;318481171;64834;12238916;11;27
+r;318481194;64834;12238915;11;27
+r;318481219;64834;12238914;11;27
+r;318481244;64834;12238913;11;27
+r;318481269;64834;12238912;11;27
+r;318481296;64834;12238911;11;27
+r;318481423;64834;12238905;11;27
+r;318481448;64834;12238904;11;27
+r;318447437;64834;12240447;11;28
+r;318447457;64834;12240446;11;28
+r;318447477;64834;12240445;11;28
+r;318447497;64834;12240444;11;28
+r;318447524;64834;12240443;11;28
+r;318447549;64834;12240442;11;28
+r;318448275;64834;12240413;11;28
+r;318448323;64834;12240411;11;28
+r;318448349;64834;12240410;11;28
+r;318460591;64834;12239837;11;28
+r;318460613;64834;12239836;11;28
+r;318460635;64834;12239835;11;28
+r;318460660;64834;12239834;11;28
+r;318460683;64834;12239833;11;28
+r;318460708;64834;12239832;11;28
+r;318460733;64834;12239831;11;28
+r;318460758;64834;12239830;11;28
+r;318460783;64834;12239829;11;28
+r;318460966;64834;12239820;11;28
+r;318460989;64834;12239819;11;28
+r;318461014;64834;12239818;11;28
+r;318461429;64834;12239795;11;28
+r;318461452;64834;12239794;11;28
+r;318461477;64834;12239793;11;28
+r;318463669;64834;12239691;11;28
+r;318463694;64834;12239690;11;28
+r;318469006;64834;12239432;11;28
+r;318469028;64834;12239431;11;28
+r;318469052;64834;12239430;11;28
+r;318469076;64834;12239429;11;28
+r;318469100;64834;12239428;11;28
+r;318469124;64834;12239427;11;28
+r;318469148;64834;12239426;11;28
+r;318469170;64834;12239425;11;28
+r;318469196;64834;12239424;11;28
+r;318469218;64834;12239423;11;28
+r;318469240;64834;12239422;11;28
+r;318469262;64834;12239421;11;28
+r;318469286;64834;12239420;11;28
+r;318469310;64834;12239419;11;28
+r;318469334;64834;12239418;11;28
+r;318469356;64834;12239417;11;28
+r;318469380;64834;12239416;11;28
+r;318469404;64834;12239415;11;28
+r;318469428;64834;12239414;11;28
+r;318469452;64834;12239413;11;28
+r;318469476;64834;12239412;11;28
+r;318469500;64834;12239411;11;28
+r;318469524;64834;12239410;11;28
+r;318469550;64834;12239409;11;28
+r;318469574;64834;12239408;11;28
+r;318469596;64834;12239407;11;28
+r;318469620;64834;12239406;11;28
+r;318469644;64834;12239405;11;28
+r;318469668;64834;12239404;11;28
+r;318469692;64834;12239403;11;28
+r;318469714;64834;12239402;11;28
+r;318469736;64834;12239401;11;28
+r;318469758;64834;12239400;11;28
+r;318469782;64834;12239399;11;28
+r;318469808;64834;12239398;11;28
+r;318469841;64834;12239397;11;28
+r;318469872;64834;12239396;11;28
+r;318469965;64834;12239393;11;28
+r;318469996;64834;12239392;11;28
+r;318470083;64834;12239389;11;28
+r;318470110;64834;12239388;11;28
+r;318470137;64834;12239387;11;28
+r;318470166;64834;12239386;11;28
+r;318470195;64834;12239385;11;28
+r;318470224;64834;12239384;11;28
+r;318470253;64834;12239383;11;28
+r;318470282;64834;12239382;11;28
+r;318470311;64834;12239381;11;28
+r;318470340;64834;12239380;11;28
+r;318470369;64834;12239379;11;28
+r;318470396;64834;12239378;11;28
+r;318470633;64834;12239369;11;28
+r;318470662;64834;12239368;11;28
+r;318470689;64834;12239367;11;28
+r;318470716;64834;12239366;11;28
+r;318471049;64834;12239353;11;28
+r;318471085;64834;12239352;11;28
+r;318471118;64834;12239351;11;28
+r;318471151;64834;12239350;11;28
+r;318471182;64834;12239349;11;28
+r;318471213;64834;12239348;11;28
+r;318471246;64834;12239347;11;28
+r;318471279;64834;12239346;11;28
+r;318471312;64834;12239345;11;28
+r;318471345;64834;12239344;11;28
+r;318471378;64834;12239343;11;28
+r;318471411;64834;12239342;11;28
+r;318472519;64834;12239295;11;28
+r;318472541;64834;12239294;11;28
+r;318472565;64834;12239293;11;28
+r;318472589;64834;12239292;11;28
+r;318472613;64834;12239291;11;28
+r;318472637;64834;12239290;11;28
+r;318472661;64834;12239289;11;28
+r;318472685;64834;12239288;11;28
+r;318472707;64834;12239287;11;28
+r;318472731;64834;12239286;11;28
+r;318472753;64834;12239285;11;28
+r;318472775;64834;12239284;11;28
+r;318472799;64834;12239283;11;28
+r;318472823;64834;12239282;11;28
+r;318472845;64834;12239281;11;28
+r;318472867;64834;12239280;11;28
+r;318472889;64834;12239279;11;28
+r;318472913;64834;12239278;11;28
+r;318472937;64834;12239277;11;28
+r;318472961;64834;12239276;11;28
+r;318472983;64834;12239275;11;28
+r;318473005;64834;12239274;11;28
+r;318473029;64834;12239273;11;28
+r;318473053;64834;12239272;11;28
+r;318473077;64834;12239271;11;28
+r;318473101;64834;12239270;11;28
+r;318473125;64834;12239269;11;28
+r;318473149;64834;12239268;11;28
+r;318473173;64834;12239267;11;28
+r;318473199;64834;12239266;11;28
+r;318473223;64834;12239265;11;28
+r;318473247;64834;12239264;11;28
+r;318473271;64834;12239263;11;28
+r;318473295;64834;12239262;11;28
+r;318473319;64834;12239261;11;28
+r;318473341;64834;12239260;11;28
+r;318473363;64834;12239259;11;28
+r;318473385;64834;12239258;11;28
+r;318473407;64834;12239257;11;28
+r;318473431;64834;12239256;11;28
+r;318473455;64834;12239255;11;28
+r;318473482;64834;12239254;11;28
+r;318473509;64834;12239253;11;28
+r;318474355;64834;12239215;11;28
+r;318474377;64834;12239214;11;28
+r;318474433;64834;12239211;11;28
+r;318474457;64834;12239210;11;28
+r;318474481;64834;12239209;11;28
+r;318474501;64834;12239208;11;28
+r;318474523;64834;12239207;11;28
+r;318474547;64834;12239206;11;28
+r;318474571;64834;12239205;11;28
+r;318474595;64834;12239204;11;28
+r;318474619;64834;12239203;11;28
+r;318474643;64834;12239202;11;28
+r;318474667;64834;12239201;11;28
+r;318474689;64834;12239200;11;28
+r;318474718;64834;12239199;11;28
+r;318474745;64834;12239198;11;28
+r;112657783;64834;5782092;11;29
+r;277428212;64834;10988315;11;29
+r;280286151;64834;11056720;11;30
+r;318322232;64834;12241830;11;30
+r;318322260;64834;12241829;11;30
+r;318322432;64834;12241823;11;30
+r;318322460;64834;12241822;11;30
+r;110582949;64834;5574056;11;31
+r;318320972;64834;12241855;11;31
+r;318321000;64834;12241854;11;31
+r;318321030;64834;12241853;11;31
+r;318321058;64834;12241852;11;31
+r;318321088;64834;12241851;11;31
+r;318321116;64834;12241850;11;31
+r;318321473;64834;12241837;11;31
+r;318321501;64834;12241836;11;31
+r;113773301;64834;5817091;11;32
+r;113781784;64834;5815020;11;32
+r;111338986;64834;5672560;11;33
+r;280437168;64834;11063447;11;33
+r;280471877;64834;11064638;11;34
+r;419546484;64834;15192926;11;34
+r;271591219;64834;10842722;11;35
+r;319538653;64834;12301840;11;35
+r;30041699;64834;1840012;11;36
+r;114748174;64834;5894419;11;36
+r;281316890;64834;11091276;11;36
+r;318279387;64834;12242833;11;36
+r;318279413;64834;12242832;11;36
+r;219903986;64834;9934993;11;37
+r;263233631;64834;10557902;11;37
+r;318273816;64834;12243070;11;37
+r;318273840;64834;12243069;11;37
+r;318273866;64834;12243068;11;37
+r;318273890;64834;12243067;11;37
+r;318273916;64834;12243066;11;37
+r;318273942;64834;12243065;11;37
+r;318273968;64834;12243064;11;37
+r;318273994;64834;12243063;11;37
+r;318274020;64834;12243062;11;37
+r;111341490;64834;5671123;11;38
+r;296657665;64834;11552960;11;39
+r;318256759;64834;12243872;11;39
+r;318256782;64834;12243871;11;39
+r;318256807;64834;12243870;11;39
+r;121445503;64834;6526823;11;40
+r;262892801;64834;10547411;11;40
+r;278737933;64834;11003668;11;40
+r;278738004;64834;11003631;11;40
+r;278738025;64834;11003593;11;40
+r;278738065;64834;11003534;11;40
+r;278738158;64834;11003402;11;40
+r;262207072;64834;10516449;11;41
+r;278285487;64834;11002535;11;41
+r;278285678;64834;11002538;11;41
+r;278293455;64834;11002537;11;41
+r;278319335;64834;11002539;11;41
+r;278322544;64834;11003442;11;41
+r;278323523;64834;11003416;11;41
+r;278324122;64834;11003429;11;41
+r;278332237;64834;11003569;11;41
+r;278332920;64834;11003577;11;41
+r;278334042;64834;11003592;11;41
+r;278334179;64834;11003629;11;41
+r;278334930;64834;11003538;11;41
+r;278334945;64834;11003419;11;41
+r;278335234;64834;11003441;11;41
+r;278335995;64834;11003635;11;41
+r;278336084;64834;11003674;11;41
+r;278336128;64834;11003661;11;41
+r;278336186;64834;11003634;11;41
+r;278336349;64834;11003630;11;41
+r;278336384;64834;11003574;11;41
+r;278336472;64834;11003632;11;41
+r;278336654;64834;11003678;11;41
+r;278336967;64834;11003679;11;41
+r;278337275;64834;11003116;11;41
+r;278356432;64834;11003675;11;41
+r;109819367;64834;5553637;11;42
+r;116302224;64834;5946682;11;42
+r;278334125;64834;11003633;11;42
+r;278360073;64834;11003572;11;42
+r;283656270;64834;11155010;11;42
+r;283656363;64834;11154953;11;42
+r;286017465;64834;11175217;11;42
+r;109886520;64834;5553625;11;43
+r;116302236;64834;5946680;11;43
+r;283644053;64834;11154811;11;43
+r;283647704;64834;11155008;11;43
+r;283648665;64834;11154996;11;43
+r;283648734;64834;11155007;11;43
+r;283649020;64834;11154999;11;43
+r;283655417;64834;11154998;11;43
+r;290088898;64834;11325886;11;43
+r;109800488;64834;5554296;11;44
+r;109880452;64834;5557028;11;44
+r;109886528;64834;5553624;11;44
+r;109819943;64834;5556566;11;45
+r;109881738;64834;5554428;11;45
+r;109882275;64834;5554355;11;46
+r;118507572;64834;6011669;11;46
+r;109880408;64834;5557074;11;49
+r;109880212;64834;5557114;11;50
+r;283647913;64834;11154986;11;50
+r;317980827;64834;12245331;11;50
+r;317980850;64834;12245330;11;50
+r;317980875;64834;12245329;11;50
+r;317980900;64834;12245328;11;50
+r;317980925;64834;12245327;11;50
+r;348996057;64834;13756586;11;50
+r;395032275;64834;15335244;11;50
+r;34533423;64834;2346668;11;53
+r;17741790;64834;573736;11;54
+r;18094893;64834;579624;11;54
+r;18094848;64834;579623;11;56
+r;28647581;64834;1742594;11;58
+r;108385706;64834;5517124;11;58
+r;16985336;64834;566756;11;59
+r;22499439;64834;1228935;11;59
+r;22499681;64834;1228936;11;59
+r;28647213;64834;1742593;11;59
+r;29050797;64834;1766455;11;59
+r;72565868;64834;2948613;11;59
+r;109021926;64834;5520788;11;59
+r;16386604;64834;465246;11;60
+r;71815330;64834;2928739;11;60
+r;88196850;64834;3473145;11;60
+r;29463166;64834;1799001;11;66
+r;12636131;64834;366515;11;102
+r;12636141;64834;366512;11;102
+r;12676251;64834;356684;11;103
+r;12673771;64834;357282;11;109
+r;12375388;64834;332457;11;110
+r;12030408;64834;330910;11;120
+r;9015259;64834;318928;11;148
+r;11992779;64834;330515;11;148
+r;11992793;64834;330507;11;148
+r;8921086;64834;316648;11;151
+r;8699389;64834;230875;11;161
+r;8709161;64834;245016;11;161
+r;8590631;64834;60880;11;162
+r;8682929;64834;209029;11;162
+r;8753155;64834;285989;11;162
+r;8770606;64834;304339;11;162
+r;8586534;64834;49385;11;163
+r;8596805;64834;79138;11;163
+r;8612279;64834;122583;11;163
+r;8675409;64834;204451;11;163
+r;8675410;64834;204452;11;163
+r;8675412;64834;204453;11;163
+r;8675415;64834;204454;11;163
+r;8739979;64834;272437;11;163
+r;8740151;64834;272576;11;163
+r;8755028;64834;287399;11;163
+r;8755704;64834;287897;11;163
+r;8759551;64834;291749;11;163
+r;8764006;64834;296977;11;163
+r;8781719;64834;313019;11;163
+r;8781720;64834;313020;11;163
+r;8781722;64834;313021;11;163
+r;8617190;64834;136255;11;164

@@ -1,0 +1,6 @@
+
+e;407541;'fonctionne';1;50
+e;14488372;'Cet exemple fonctionne seulement si on émule la carte graphique car on ne recopie pas les données sur la carte';777;0
+e;306011;'vérifier que le robinet fonctionne correctement';777;50
+r;393990778;407541;14488372;11;50
+r;14232466;407541;306011;11;54
