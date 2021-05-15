@@ -7,8 +7,8 @@ import json
 import time
 import stanza
 import deplacy
-
-
+from sklearn.feature_extraction.text import CountVectorizer
+import nltk
 
 
 
@@ -1303,6 +1303,41 @@ def getOntologieWordsFromJson():
         data = json.load(json_file)
         #print(data)
         return data
+
+
+def cleanComments():
+    tokenized_commentes = []
+    comments_list = getCommentes()
+ 
+    for comment in comments_list : 
+        comment_tokens = []
+        comment = comment.lower()
+        # récupération de lid du commentaitere
+        c_id = comment.split(";")[0]
+        # tokenisation
+        comment_tokens=clean_expr_from_additionals(comment)
+        # suppression des nombrs ainsi que des chaines de longeurs <= a 2
+        comment_tokens = [ elem for elem in comment_tokens if not elem.isdigit() and len(elem)>2]
+        # déduction des mots composées 
+        com_words =composed_words_cleaner_version(comment)
+        # suppression des nombrs ainsi que des chaines de longeurs <= a 2
+        com_words = [ elem for elem in com_words if not elem.isdigit() and len(elem)>2]
+        # fusion sans duplication des deux listes 
+        comment_tokens = comment_tokens + list(set(com_words) - set(comment_tokens))
+        comment_dict = {"id":c_id ,"comment":comment_tokens}
+       
+        tokenized_commentes.append(comment_dict)
+
+    print(tokenized_commentes[3])
+    # retourne une liste de dictionnaire de commentaitre prétraités
+    return tokenized_commentes
+
+
+
+
+
+
+
 
 # recherche dicotomique 
 def BinarySearch(lys, val):
