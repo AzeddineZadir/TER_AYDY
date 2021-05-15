@@ -1,3 +1,4 @@
+
 import urllib.request
 import pandas as pd
 from operator import itemgetter
@@ -369,7 +370,7 @@ def getTermesR0Sortants(word):
     words_list = []
     words_dict = reseauxDumpByRelations(word, 0)
 
-    #print (words_dict)
+    # print (words_dict)
   
     for word in words_dict:
         words_list.append(word.get("t"))

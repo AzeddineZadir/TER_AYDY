@@ -64,7 +64,6 @@ def getCommentById(id):
         if str(CommentId)==str(id):
             return comment
         
-
 # retrourner un vecteur d'existance des mot dans le commentaire
 def creatVecteur(words_list, comment):
     vecteur = []
@@ -593,6 +592,8 @@ def posTagging(sentence):
         array.append(arrayPos)
 
     return array
+
+stanza.download('fr')    
 nlp = stanza.Pipeline(lang="fr",verbose=False) 
 Hotel = ["hotel","hôtel","établissement","auberge","motel","gite","palace"]
 Personnel = ["personnel","accueil","réception","equipe","staff","emploté"]
@@ -1260,7 +1261,62 @@ def json_extract(obj, key):
 
 # print(polarisation("Dommage pas de parking"))
 
-print(composed_words_cleaner_version("une très belle vue sur la mer"))
 
-# Comments = getCommentes()
-# CommentsVector = createVectors(Comments)
+# creer un fichier regroupent tous les mots  lier autermes de l'ontologie en utilisant le relation R0
+def creatOntologieFile() :
+    ontologie = getMyOntologie()
+    # print(ontologie)
+    # print(len(ontologie))
+    words_list=[]
+    for ontologie_word in ontologie:
+
+        words_list.append(getTermesR0Sortants(ontologie_word))
+    words = []
+    for l in words_list : 
+        for w in l : 
+            words.append(w)
+    #supression de doublons
+    words_cleaed = list(set(words))
+    # print(words_cleaed)
+    words_cleaed =sorted(words_cleaed)
+    # print("******************************************************************")
+    # print(words_cleaed)
+    # print(len(words))
+    # print(len(words_cleaed))
+    #store in file 
+    try:
+        filename = "./src/ontologie_words.json"
+
+        # print(words_list)
+        with open(filename, mode='w', encoding="utf-8") as my_file:
+
+            json.dump(words_cleaed, my_file, indent=4)
+            return my_file
+    except FileNotFoundError as err:
+        raise err
+        return False
+
+# recupérer les mots de l'ontologie sous forme de liste 
+def getOntologieWordsFromJson():
+    with open('src/ontologie_words.json') as json_file:
+        data = json.load(json_file)
+        #print(data)
+        return data
+
+# recherche dicotomique 
+def BinarySearch(lys, val):
+    first = 0
+    last = len(lys)-1
+    index = -1
+    while (first <= last) and (index == -1):
+        mid = (first+last)//2
+        if lys[mid] == val:
+            index = mid
+        else:
+            if val<lys[mid]:
+                last = mid -1
+            else:
+                first = mid +1
+    return index
+
+
