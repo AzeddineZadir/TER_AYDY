@@ -17,6 +17,14 @@ def createVectors(Comments):
     
     return Vector
 
+# recupérer les mots de l'ontologie sous forme de liste 
+def getOntologieWordsFromJson():
+    with open('src/ontologie_words.json') as json_file:
+        data = json.load(json_file)
+        #print(data)
+        return data
+
+
 # recupérer la liste des vecteurs des commentaires
 def getCommentsVecteurs(words_list):
     comments_list = getCommentes()
@@ -44,6 +52,194 @@ def getCommentes():
         comments_list.append(c.lower())
     # print(comments_list)
     return comments_list
+
+def gets_rid_of_empty_quotes(lst):
+    while len(lst)-1 >= 0 and lst[len(lst)-1] == '':
+        lst = lst[:len(lst)-1]
+    while len(lst)-1 >= 0 and lst[0] == '':
+        lst = lst[1:]
+    browser = 1
+    while '' in lst and browser < len(lst):
+        while lst[browser] == '':
+            if browser-1 == 0:
+                c = [lst[0]]
+            else:
+                c = lst[:browser]
+            lst = c + lst[browser+1:]
+        browser += 1
+    return lst
+
+
+
+# lst contains words
+def clean_expr_from_additionals(expression):
+    strings = re.split(
+        '[\\\\\n\t\b\"`\a\f\r²~\"#\'"{"" ""("")""}"@!§"|"_"+""*""/""=";,?.:µ\[\]]{1}', expression)
+    strings = gets_rid_of_empty_quotes(strings)
+
+    return strings
+
+def gets_rid_of_dashes(lst):
+    browser = 0
+    l = []
+    for word in lst:
+        
+        if re.search('^-\'+[a-z]*-*$|^-*[a-z]*-+$', word):
+            word = re.split('-', word)
+            l = l + word
+        else:
+            l = l + [word]
+        browser += 1
+    l = gets_rid_of_empty_quotes(l)
+    return l
+
+# the composed words that are in a bigger composed word are deleted
+def composed_words_cleaner_version(expression):
+    expression = clean_expr_from_additionals(expression)
+    lst = gets_rid_of_dashes(expression)
+    resulting_list = []
+    browser = 0
+    len_longest_composed_word = -1
+    index_of_latest_cw = -1
+    counter = 0
+    skip = -1
+    leave = 0
+    i = ii = iii = 0
+    b = 0
+    while browser < len(lst):
+        if skip != -1 and browser > skip:
+            skip = -1
+            leave = len(resulting_list)
+        related_composed_words = reseauxDump(lst[browser], 11)
+        rcw_browser = 1
+        if related_composed_words != None:
+            rcw_len = len(related_composed_words)
+            len_rl_before = len(resulting_list)
+            while rcw_browser < rcw_len:
+                composed_word = related_composed_words[rcw_browser]['t']
+                cleaned_composed_word = clean_expr_from_additionals(
+                    composed_word)
+                cw_len = len(cleaned_composed_word)
+                if cleaned_composed_word != [] and (lst[browser:cw_len+browser] == cleaned_composed_word):
+                    index_of_latest_cw = len(resulting_list)
+                    if (composed_word not in resulting_list[leave:len(resulting_list)]) or skip == -1:
+                        l = len(resulting_list[leave:len(resulting_list)])
+                        if l == 0 and len(resulting_list) == 0:
+                            resulting_list += [composed_word]
+                        else:
+                            if (len(resulting_list) != 0 and (composed_word != resulting_list[len(resulting_list)-1]) and
+                                    composed_word not in resulting_list[len(resulting_list)-1]):
+                                if resulting_list[len(resulting_list)-1] in composed_word:
+                                    resulting_list[len(
+                                        resulting_list)-1] = composed_word
+                                else:
+                                    resulting_list += [composed_word]
+                        if skip == -1 or browser < skip:
+                            var = browser
+                        else:
+                            var = skip
+                        skip = max(
+                            skip, len(cleaned_composed_word)+var-1)  # -1
+                    else:
+                        if skip == -1 or browser > skip:
+                            l = len(resulting_list[leave:len(resulting_list)])
+                            if l == 0:
+                                resulting_list += [composed_word]
+                            else:
+                                if (len(resulting_list) != 0 and (composed_word != resulting_list[len(resulting_list)-1]) and
+                                        composed_word not in resulting_list[len(resulting_list)-1]):
+                                    if resulting_list[len(resulting_list)-1] in composed_word:
+                                        resulting_list[len(
+                                            resulting_list)-1] = composed_word
+                                    else:
+                                        resulting_list += [composed_word]
+                    len_longest_composed_word = max(
+                        len_longest_composed_word, browser+len(cleaned_composed_word))
+                if browser != 0:
+                    if lst[browser] in cleaned_composed_word:
+                        i = cleaned_composed_word.index(lst[browser])
+                        ii = len(cleaned_composed_word[:i])
+                        iii = len(cleaned_composed_word[i:])
+                    if (cleaned_composed_word != [] and ((lst[browser-ii:browser+iii]) == cleaned_composed_word)):
+                        if (composed_word not in resulting_list[leave:len(resulting_list)]) or skip == -1:
+                            l = len(resulting_list[leave:len(resulting_list)])
+                            if len(resulting_list) != 0 and composed_word not in resulting_list[len(resulting_list)-1]:
+                                if l == 0 or len(resulting_list) == 0:
+                                    resulting_list += [composed_word]
+                                else:
+                                    if (len(resulting_list) != 0 and (composed_word != resulting_list[len(resulting_list)-1]) and
+                                            composed_word not in resulting_list[len(resulting_list)-1]):
+                                        if resulting_list[len(resulting_list)-1] in composed_word:
+                                            resulting_list[len(
+                                                resulting_list)-1] = composed_word
+                                        else:
+                                            resulting_list += [composed_word]
+                            if skip == -1 or browser <= skip:
+                                var = browser-ii
+                            else:
+                                var = skip
+
+                            if skip == -1:
+                                b = browser
+                            skip = max(
+                                skip, len(cleaned_composed_word)+var-1)  # -1
+                        else:
+                            if skip == -1 or browser > skip:
+                                l = len(
+                                    resulting_list[leave:len(resulting_list)])
+                                if l == 0:
+                                    resulting_list += [composed_word]
+                                else:
+                                    if (len(resulting_list) != 0 and (composed_word != resulting_list[len(resulting_list)-1]) and
+                                            composed_word not in resulting_list[len(resulting_list)-1]):
+                                        if resulting_list[len(resulting_list)-1] in composed_word:
+                                            resulting_list[len(
+                                                resulting_list)-1] = composed_word
+                                        else:
+                                            resulting_list += [composed_word]
+                        if (len(resulting_list) >= 2):
+                            while (len(resulting_list[len(resulting_list)-2].split(" ")) == 1
+                                   and resulting_list[len(resulting_list)-2].split(" ")[0] in resulting_list[len(resulting_list)-1].split(" ")
+                                   and skip != -1):
+                                resulting_list = resulting_list[:len(
+                                    resulting_list)-2]+resulting_list[len(resulting_list)-1:]
+                        index_of_latest_cw = len(resulting_list)-1
+                        len_longest_composed_word = max(
+                            len_longest_composed_word, browser-ii+len(cleaned_composed_word))
+                rcw_browser += 1
+            if len_rl_before == len(resulting_list) and browser >= len_longest_composed_word:
+                resulting_list += [lst[browser]]
+                last_added_is_a_cw = False
+        browser += 1
+    return resulting_list
+
+def cleanComments():
+    tokenized_commentes = []
+    comments_list = getCommentes()
+ 
+    for comment in comments_list : 
+        comment_tokens = []
+        comment = comment.lower()
+        # récupération de lid du commentaitere
+        c_id = comment.split(";")[0]
+        # print(c_id)
+        # tokenisation
+        comment_tokens=clean_expr_from_additionals(comment)
+        # suppression des nombrs ainsi que des chaines de longeurs <= a 2
+        comment_tokens = [ elem for elem in comment_tokens if not elem.isdigit() and len(elem)>2]
+        # déduction des mots composées 
+        com_words =composed_words_cleaner_version(comment)
+        # suppression des nombrs ainsi que des chaines de longeurs <= a 2
+        com_words = [ elem for elem in com_words if not elem.isdigit() and len(elem)>2]
+        # fusion sans duplication des deux listes 
+        comment_tokens = comment_tokens + list(set(com_words) - set(comment_tokens))
+        comment_dict = {"id":c_id ,"comment":comment_tokens}
+       
+        tokenized_commentes.append(comment_dict)
+
+    # print(tokenized_commentes[3])
+    # retourne une liste de dictionnaire de commentaitre prétraités
+    return tokenized_commentes
 
 def getHotels():
     hotels_file = pd.read_csv('./src/hotels.txt', encoding="utf-8", header=None)
@@ -95,7 +291,7 @@ def creatUserVecteur(words_list, user_words_list):
     return user_vecteur
 
 
-# avoire la list des scores des commentaires en fonction des mots de 'ljutilisateur
+# avoire la list des scores des commentaires en fonction des mots de 'ljutilisateur avec  des vecteurs d'existence 
 def getCommentsScore(user_words_list,selectors):
     liste_score = []
     score = 0
@@ -140,6 +336,17 @@ def getCommentsScore(user_words_list,selectors):
     # print("after sorting ")
     print(newlist)
     return liste_score
+
+cleaed_comments_list = cleanComments()
+# avoire la list des scores des commentaires  aprés avoire filtrer l vocabulaire (approche de recherche dans le vecteur)
+def getCommentsScoreByVect(user_words_list):
+    concerned_commentes = []
+    for w in user_words_list:
+        for comment_dict in cleaed_comments_list :
+            if w in comment_dict["comment"] : 
+                concerned_commentes.append(comment_dict)
+    
+    return concerned_commentes
 
 
 def getCommentsScoreSortant(user_words_list):
@@ -263,6 +470,17 @@ def getWordScore(word):
     # print(f"le score du mot {word} est de {score}")
     return score
 
+# varibales globale des termes de l'ontologie
+ontologie = getOntologieWordsFromJson()
+# verifier si le mot est lier a l'ontologie ou a ses terme
+def isWordRelatedToOntologie(word):
+    index = BinarySearch(ontologie,word)
+    if (index != -1):
+        return True
+    else :
+        return False
+
+
 
 # filtrer la liste des mots passer en paramétre en utilisant leurs score par rapport a la relation 0 et Lontologie
 def filterVocabulary(words_list):
@@ -285,6 +503,17 @@ def filterVocabulary(words_list):
 
         return(filterd_words)
     return []
+
+# filtrer les mot du vocabulaires enrechie grace a jeux de mot grace au fichier contenetn tous les fichier lier a l'ontologie
+def filterVocabularyByFile(words_list):
+    filtered_words = []
+    for w in words_list : 
+        if isWordRelatedToOntologie(w) :
+            filtered_words.append(w)
+            
+    return filtered_words
+
+
 
 # creaion du fichier json de l'ontologie
 def creatOntologieJson():
@@ -311,46 +540,13 @@ def creatOntologieJson():
 
 
 
-def gets_rid_of_empty_quotes(lst):
-    while len(lst)-1 >= 0 and lst[len(lst)-1] == '':
-        lst = lst[:len(lst)-1]
-    while len(lst)-1 >= 0 and lst[0] == '':
-        lst = lst[1:]
-    browser = 1
-    while '' in lst and browser < len(lst):
-        while lst[browser] == '':
-            if browser-1 == 0:
-                c = [lst[0]]
-            else:
-                c = lst[:browser]
-            lst = c + lst[browser+1:]
-        browser += 1
-    return lst
 
 
-# lst contains words
-def clean_expr_from_additionals(expression):
-    strings = re.split(
-        '[\\\\\n\t\b\"`\a\f\r²~\"#\'"{"" ""("")""}"@!§"|"_"+""*""/""=";,?.:µ\[\]]{1}', expression)
-    strings = gets_rid_of_empty_quotes(strings)
 
-    return strings
 #
 
 
-def gets_rid_of_dashes(lst):
-    browser = 0
-    l = []
-    for word in lst:
-        
-        if re.search('^-\'+[a-z]*-*$|^-*[a-z]*-+$', word):
-            word = re.split('-', word)
-            l = l + word
-        else:
-            l = l + [word]
-        browser += 1
-    l = gets_rid_of_empty_quotes(l)
-    return l
+
 
 
 def cleanSpecialChar(str):
@@ -442,125 +638,7 @@ def composed_words(expression):
     return resulting_list
 
 
-# the composed words that are in a bigger composed word are deleted
-def composed_words_cleaner_version(expression):
-    expression = clean_expr_from_additionals(expression)
-    lst = gets_rid_of_dashes(expression)
-    resulting_list = []
-    browser = 0
-    len_longest_composed_word = -1
-    index_of_latest_cw = -1
-    counter = 0
-    skip = -1
-    leave = 0
-    i = ii = iii = 0
-    b = 0
-    while browser < len(lst):
-        if skip != -1 and browser > skip:
-            skip = -1
-            leave = len(resulting_list)
-        related_composed_words = reseauxDump(lst[browser], 11)
-        rcw_browser = 1
-        if related_composed_words != None:
-            rcw_len = len(related_composed_words)
-            len_rl_before = len(resulting_list)
-            while rcw_browser < rcw_len:
-                composed_word = related_composed_words[rcw_browser]['t']
-                cleaned_composed_word = clean_expr_from_additionals(
-                    composed_word)
-                cw_len = len(cleaned_composed_word)
-                if cleaned_composed_word != [] and (lst[browser:cw_len+browser] == cleaned_composed_word):
-                    index_of_latest_cw = len(resulting_list)
-                    if (composed_word not in resulting_list[leave:len(resulting_list)]) or skip == -1:
-                        l = len(resulting_list[leave:len(resulting_list)])
-                        if l == 0 and len(resulting_list) == 0:
-                            resulting_list += [composed_word]
-                        else:
-                            if (len(resulting_list) != 0 and (composed_word != resulting_list[len(resulting_list)-1]) and
-                                    composed_word not in resulting_list[len(resulting_list)-1]):
-                                if resulting_list[len(resulting_list)-1] in composed_word:
-                                    resulting_list[len(
-                                        resulting_list)-1] = composed_word
-                                else:
-                                    resulting_list += [composed_word]
-                        if skip == -1 or browser < skip:
-                            var = browser
-                        else:
-                            var = skip
-                        skip = max(
-                            skip, len(cleaned_composed_word)+var-1)  # -1
-                    else:
-                        if skip == -1 or browser > skip:
-                            l = len(resulting_list[leave:len(resulting_list)])
-                            if l == 0:
-                                resulting_list += [composed_word]
-                            else:
-                                if (len(resulting_list) != 0 and (composed_word != resulting_list[len(resulting_list)-1]) and
-                                        composed_word not in resulting_list[len(resulting_list)-1]):
-                                    if resulting_list[len(resulting_list)-1] in composed_word:
-                                        resulting_list[len(
-                                            resulting_list)-1] = composed_word
-                                    else:
-                                        resulting_list += [composed_word]
-                    len_longest_composed_word = max(
-                        len_longest_composed_word, browser+len(cleaned_composed_word))
-                if browser != 0:
-                    if lst[browser] in cleaned_composed_word:
-                        i = cleaned_composed_word.index(lst[browser])
-                        ii = len(cleaned_composed_word[:i])
-                        iii = len(cleaned_composed_word[i:])
-                    if (cleaned_composed_word != [] and ((lst[browser-ii:browser+iii]) == cleaned_composed_word)):
-                        if (composed_word not in resulting_list[leave:len(resulting_list)]) or skip == -1:
-                            l = len(resulting_list[leave:len(resulting_list)])
-                            if len(resulting_list) != 0 and composed_word not in resulting_list[len(resulting_list)-1]:
-                                if l == 0 or len(resulting_list) == 0:
-                                    resulting_list += [composed_word]
-                                else:
-                                    if (len(resulting_list) != 0 and (composed_word != resulting_list[len(resulting_list)-1]) and
-                                            composed_word not in resulting_list[len(resulting_list)-1]):
-                                        if resulting_list[len(resulting_list)-1] in composed_word:
-                                            resulting_list[len(
-                                                resulting_list)-1] = composed_word
-                                        else:
-                                            resulting_list += [composed_word]
-                            if skip == -1 or browser <= skip:
-                                var = browser-ii
-                            else:
-                                var = skip
 
-                            if skip == -1:
-                                b = browser
-                            skip = max(
-                                skip, len(cleaned_composed_word)+var-1)  # -1
-                        else:
-                            if skip == -1 or browser > skip:
-                                l = len(
-                                    resulting_list[leave:len(resulting_list)])
-                                if l == 0:
-                                    resulting_list += [composed_word]
-                                else:
-                                    if (len(resulting_list) != 0 and (composed_word != resulting_list[len(resulting_list)-1]) and
-                                            composed_word not in resulting_list[len(resulting_list)-1]):
-                                        if resulting_list[len(resulting_list)-1] in composed_word:
-                                            resulting_list[len(
-                                                resulting_list)-1] = composed_word
-                                        else:
-                                            resulting_list += [composed_word]
-                        if (len(resulting_list) >= 2):
-                            while (len(resulting_list[len(resulting_list)-2].split(" ")) == 1
-                                   and resulting_list[len(resulting_list)-2].split(" ")[0] in resulting_list[len(resulting_list)-1].split(" ")
-                                   and skip != -1):
-                                resulting_list = resulting_list[:len(
-                                    resulting_list)-2]+resulting_list[len(resulting_list)-1:]
-                        index_of_latest_cw = len(resulting_list)-1
-                        len_longest_composed_word = max(
-                            len_longest_composed_word, browser-ii+len(cleaned_composed_word))
-                rcw_browser += 1
-            if len_rl_before == len(resulting_list) and browser >= len_longest_composed_word:
-                resulting_list += [lst[browser]]
-                last_added_is_a_cw = False
-        browser += 1
-    return resulting_list
 
 
 
@@ -1296,48 +1374,6 @@ def creatOntologieFile() :
     except FileNotFoundError as err:
         raise err
         return False
-
-# recupérer les mots de l'ontologie sous forme de liste 
-def getOntologieWordsFromJson():
-    with open('src/ontologie_words.json') as json_file:
-        data = json.load(json_file)
-        #print(data)
-        return data
-
-
-def cleanComments():
-    tokenized_commentes = []
-    comments_list = getCommentes()
- 
-    for comment in comments_list : 
-        comment_tokens = []
-        comment = comment.lower()
-        # récupération de lid du commentaitere
-        c_id = comment.split(";")[0]
-        # tokenisation
-        comment_tokens=clean_expr_from_additionals(comment)
-        # suppression des nombrs ainsi que des chaines de longeurs <= a 2
-        comment_tokens = [ elem for elem in comment_tokens if not elem.isdigit() and len(elem)>2]
-        # déduction des mots composées 
-        com_words =composed_words_cleaner_version(comment)
-        # suppression des nombrs ainsi que des chaines de longeurs <= a 2
-        com_words = [ elem for elem in com_words if not elem.isdigit() and len(elem)>2]
-        # fusion sans duplication des deux listes 
-        comment_tokens = comment_tokens + list(set(com_words) - set(comment_tokens))
-        comment_dict = {"id":c_id ,"comment":comment_tokens}
-       
-        tokenized_commentes.append(comment_dict)
-
-    print(tokenized_commentes[3])
-    # retourne une liste de dictionnaire de commentaitre prétraités
-    return tokenized_commentes
-
-
-
-
-
-
-
 
 # recherche dicotomique 
 def BinarySearch(lys, val):

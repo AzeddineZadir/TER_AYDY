@@ -2,6 +2,16 @@ from jdmLink import *
 from functions import * 
 import json
 
-cleanComments()
+termes = getTermesR0("piscine")
+# print(termes)
+# print(len(termes))
+print("filter termes ************************************************************************************ ")
+filtered= filterVocabularyByFile(termes)
+print(filtered)
+# print(len(filtered))
 
-# print(composed_words_cleaner_version("Séjour 3 nuits petit déjeuner à 9h30, plus de charcuterie, plus de viennoiserie, réponse nous avons été dévalisé. A 10,50 euros c'est moyen"))
+
+c_liste = getCommentsScoreByVect(filtered)
+for c in c_liste : 
+    print(c["id"])
+
