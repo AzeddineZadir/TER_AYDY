@@ -25,6 +25,9 @@ def cacheExists(filename):
 
 # pour un terme et une relation enregistrer dans un fichier les donnés retourner par la requet sur JDM
 def saveWords(terme, numRel, words_dict):
+    chars = [",","/",";","\\"]
+    if (item in terme for item in chars) :
+        return False
     try:
         filename = terme+"_"+str(numRel)+".txt"
         # print(filename)
@@ -69,7 +72,7 @@ def reseauxDump(terme, numRel):
             print("problem while oppening file ")
 
     else:
-        print("cache not found  ")
+        print("cache not found  "+terme)
         # je lance la requete  j'ecrit le fichier et je retourn les mots
 
         with urllib.request.urlopen("http://www.jeuxdemots.org/rezo-dump.php?gotermsubmit=Chercher&gotermrel={}&rel={}".format(encodeURLTerme(terme), numRel)) as url:
@@ -88,7 +91,7 @@ def reseauxDump(terme, numRel):
 # Exectution d'une requetes  sur Réseaux Dumpe pour un terme  et
 # une relation (seulment les relations sortantes sont prises en comptes )
 def reseauxDumpByRelation4(terme):
-    print(terme)
+    # print(terme)
     idDuTerme = -1
     filename = terme+"_"+str(4)+".txt"
     if (cacheExists(filename)):
@@ -103,7 +106,7 @@ def reseauxDumpByRelation4(terme):
             print("problem while oppening file ")
 
     else:
-        print("cache not found  ")
+        print("cache not found  "+terme)
         # je lance la requete  j'ecrit le fichier et je retourn les mots
 
         with urllib.request.urlopen("http://www.jeuxdemots.org/rezo-dump.php?gotermsubmit=Chercher&gotermrel={}&rel={}".format(encodeURLTerme(terme), 4)) as url:
@@ -136,7 +139,7 @@ def reseauxDumpByRelations(terme, numRel):
             print("problem while oppening file ")
 
     else:
-        print("cache not found  ")
+        print("cache not found  "+terme)
         # je lance la requete  j'ecrit le fichier et je retourn les mots
 
         with urllib.request.urlopen("http://www.jeuxdemots.org/rezo-dump.php?gotermsubmit=Chercher&gotermrel={}&rel={}".format(encodeURLTerme(terme), numRel)) as url:
@@ -353,6 +356,13 @@ def getAllTermesR5(words_list):
         words.extend(getTermesR5(word))
     return words
 
+def getAllTermesR5Sortant(words_list):
+    words = []
+    for word in words_list:
+        # words.extend(getTermesR0(word))
+        words.extend(getTermesR5(word))
+    print(f"le nombre de mots retournés {len(words)}")
+    return words
 # Récupérer  seulement les terme apartire de chaque dictionaire pour la relation 0
 def getTermesR0(word):
     words_list = []

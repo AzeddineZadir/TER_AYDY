@@ -59,7 +59,7 @@ def releated():
       selectors = select
 
 
-   ScoredComments = getCommentsScore(Nom,selectors)
+   ScoredComments = getRelatedComments(Nom,selectors)
    Hotels = CommentsPolarisation(ScoredComments,Nom)  
    
    

@@ -10,13 +10,6 @@ import deplacy
 
 
 
-
-
-def createVectors(Comments):
-    Vector = []
-    
-    return Vector
-
 # recupérer la liste des vecteurs des commentaires
 def getCommentsVecteurs(words_list):
     comments_list = getCommentes()
@@ -565,28 +558,22 @@ def composed_words_cleaner_version(expression):
 
 
 
-def posTagging(sentence):
-    if sentence == "":
+def posTagging(sentence,status):
+    if sentence =="":
         return []
-    expression = clean_expr_from_additionals(sentence)
-    phrases = gets_rid_of_dashes(expression)
-    print(phrases)
-    #phrases = re.split("\.|,", sentence)  # re => Regular Expression
+    phrases = re.split("\.|,", sentence)  # re => Regular Expression
     # print(phrases)
     array = []
     for phrase in phrases:
-        
-        tokens = phrase.split(" ")
+        if status:
+            tokens = composed_words_cleaner_version(phrase)
+        else :
+            tokens = phrase.split(" ")
         arrayPos = []
         for token in tokens:
             dictio = '{"'+token+'":"'
-            posT = "Ukn"
-            
             pos = getTermesR4(token)
-
-            if pos is not None:
-                posT=pos
-            dictio += posT+'"}'
+            dictio += pos+'"}'
             obj = json.loads(dictio)
             arrayPos.append(obj)
 
@@ -597,7 +584,7 @@ nlp = stanza.Pipeline(lang="fr",verbose=False)
 Hotel = ["hotel","hôtel","établissement","auberge","motel","gite","palace"]
 Personnel = ["personnel","accueil","réception","equipe","staff","emploté"]
 Chambre = ["chambre","litterie","drap","couette","oreillers","rideau","meuble","lit","matelas","sommier","couchage","piéce","dortoir","salle","suite"]
-Restauration=["restauration","déjeuner","restaurant","plat","repas","petit déjeuner","produit","petit dej","table","petit déjeuner","buffet"]
+Restauration=["restauration","déjeuner","restaurant","plat","repas","petit déjeuner","produit","petit dej","table","buffet"]
 Menage = ["ménage","état","propreté","odeur","nettoyage","propre","sale","saleté","nets","poussière","balai","aspirateur"]
 Equipement =["équipement","cuisine","salle de bain","évier","lavabo","douche","baignoire","bidet","miroir","décoration","wifi","climatisation","piscine","spa","connexion","parking","chauffage","garage","spa","tv","sport","WC","toilette","zapette","télé","rangement","commode","décorer","clim","climatiseur","terasse","balcon","jardin","espace vert","mer","plage","côte"]
 Vue=["vue"]
@@ -611,28 +598,28 @@ Lexique.append(Menage)
 Lexique.append(Equipement)
 Lexique.append(Vue)
 
-def stanzaPosTagging(sentence,Catégorie):
+def stanzaPosTagging(sentence):
     phrases = re.split("\.|,", sentence)  # re => Regular Expression
     # print(phrases)
     Dict = []
-    inCat = False
-    for phrase in phrases:
-        Noms = getNom(phrase)
-        Cat = getCategories(Noms)
-        print("test on")
-        print(phrase)
-        print(Noms)
-        print(Cat)
-        print("-------------------------")
-        for c in Catégorie:
-            for ct in Cat:
-                if c in ct: 
-                    inCat = True
+    # inCat = False
+    # for phrase in phrases:
+    #     Noms = getNom(phrase)
+    #     Cat = getCategories(Noms)
+    #     print("test on")
+    #     print(phrase)
+    #     print(Noms)
+    #     print(Cat)
+    #     print("-------------------------")
+    #     for c in userCategorie:
+    #         for ct in Cat:
+    #             if c in ct: 
+    #                 inCat = True
                     
             
         
-    if inCat == False:
-        return []
+    # if inCat == False:
+    #     return []
 
     for phrase in phrases:
        
@@ -822,14 +809,30 @@ def matchNegationVerb(tokens):
 
 def getNom(sentence):
     Nom =[]
-    posJDM = posTagging(sentence)
+    posJDM = posTagging(sentence,True)
+    # print(posJDM)
     for phrase in posJDM:
         for mot in phrase:
             if "Nom" in mot.values():
                 for nom in mot.keys():
                     if nom not in Nom:
                         Nom.append(nom)
-    return Nom          
+    stanzaNom = []
+    pos = posTagging(sentence,False)
+    for phrase in pos:
+        for mot in phrase:
+            if "Nom" in mot.values():
+                nom = ""
+                # print(mot)
+                for n in mot.keys():
+                  nom = n
+                  if nom not in stanzaNom:
+                     stanzaNom.append(nom)
+    final_list = list(set(stanzaNom) | set(Nom))
+    final_list.sort(key=lambda x: x.count(' '), reverse=True)
+    return final_list         
+
+
 
 
 def getVerb(tokens):
@@ -956,7 +959,8 @@ def AdvAdj(tokens):
     return advAdj
 
 
-def polarisation(sentence,Catégorie):
+def polarisation(sentence):
+
     dataAdv = pd.read_csv("./src/lexique_intensifieurs",
                           encoding="utf-8", header=None)
     Adverbs = dataAdv[0]
@@ -966,9 +970,9 @@ def polarisation(sentence,Catégorie):
     score = 0
     denominator = 0
     # je retourne les phrases tokenizer par les mots + valeur de leurs pos
-    Tokens = ambiguiter(sentence,Catégorie)
-    print("coms")
-    print(Tokens)
+    Tokens = ambiguiter(sentence)
+    # print("coms")
+    # print(Tokens)
     # print(Tokens)
     for token in Tokens:
 
@@ -994,8 +998,8 @@ def polarisation(sentence,Catégorie):
             if pol in positif and neg in "true":
                 pol = negatif
             mot2 = getMotRel(token,pos)
-            print(adj + " Negation ? "+neg + " => " + pol + ", Qui ?? : "+mot2 if mot2 == mot 
-                else adj + " Negation ? "+neg + " => " + pol + ", Qui ?? : "+mot2 +" <- "+mot)
+            # print(adj + " Negation ? "+neg + " => " + pol + ", Qui ?? : "+mot2 if mot2 == mot 
+            #     else adj + " Negation ? "+neg + " => " + pol + ", Qui ?? : "+mot2 +" <- "+mot)
             if pol == positif:
                 score += 1
             elif pol == negatif:
@@ -1026,8 +1030,8 @@ def polarisation(sentence,Catégorie):
                     score += 1
 
                 mot = getMotRel(token, pos)
-                print(Ver + " Negation ? "+"true => " + pol + " Qui?? : " + mot if(verb in negation)
-                      else Ver + " Negation ? "+"false => " + pol + " Qui?? : " + mot)
+                # print(Ver + " Negation ? "+"true => " + pol + " Qui?? : " + mot if(verb in negation)
+                #       else Ver + " Negation ? "+"false => " + pol + " Qui?? : " + mot)
 
         # traiter les Adverbe
             # Adverb suivie par Adjectif
@@ -1036,7 +1040,7 @@ def polarisation(sentence,Catégorie):
             AdverbTraiter=[]
             AdvAdjectif = AdvAdj(token)
             for array in AdvAdjectif:
-                print(array)
+                # print(array)
                 pos = array[0]
                 adv = ""
                 adj = ""
@@ -1077,8 +1081,8 @@ def polarisation(sentence,Catégorie):
                 else:
                     score += int(advScore)
                 mot = getMotRel(token, int(pos))
-                print(adv+" "+adj+" Negation ? "+"true =>  Qui?? : " + mot if(pol in negatif or adjPol in negatif)
-                      else adv+" "+adj + " Negation ? "+"false => Qui?? : " + mot)
+                # print(adv+" "+adj+" Negation ? "+"true =>  Qui?? : " + mot if(pol in negatif or adjPol in negatif)
+                    #   else adv+" "+adj + " Negation ? "+"false => Qui?? : " + mot)
 
             # Adverb
             Advs = getAdverb(token)
@@ -1113,9 +1117,8 @@ def polarisation(sentence,Catégorie):
 
 
 
-def ambiguiter(sentence,Catégorie):
-    stanzaPos = stanzaPosTagging(sentence,Catégorie)
-    
+def ambiguiter(sentence):
+    stanzaPos = stanzaPosTagging(sentence)
     # print(stanzaPos)
     AuxDetected = -1
     maxLen = len(stanzaPos)
@@ -1123,12 +1126,15 @@ def ambiguiter(sentence,Catégorie):
         return []
     pos =0
     for phrase in stanzaPos:
+        pos=0
+        AuxDetected = -1
         for mot in phrase:
-            if pos != maxLen-1 :
+            if pos != maxLen-2 :
                 pos+=1
             for Def in mot.values():
                 if Def == "AUX" :
                   AuxDetected=1
+                #   print(phrase)
                   targeted = phrase[pos]
                   for target in targeted.keys():
                     if(isPP(target)):
@@ -1191,13 +1197,14 @@ def getCategories(Nom):
                 Categories.append(categorie[0])
     return Categories
                 
-
+userCategorie=[]
 def CommentsPolarisation(Comments,Nom): #comments is a dict 
+    print("polarisation ...")
     Hotels = []
     Coms = []
-    Catégories=getCategories(Nom)
+    userCategorie=getCategories(Nom)
     print("La catégorie du souhait de l'utilisateur est : ")
-    print(Catégories)
+    print(userCategorie)
     for Dictcomment in Comments:
         comD = Dictcomment['comment']
         # print(comD)
@@ -1218,7 +1225,7 @@ def CommentsPolarisation(Comments,Nom): #comments is a dict
             com =comment.split(";")[1]
             hId = comment.split(";")[2]
             if(str(hId) == str(Id)):
-                score += int(polarisation(com,Catégories))   
+                score += int(polarisation(com))   
                 # print(com)
         hotelName = getHotelName(Id)
         Dict ='{"'+str(hotelName)+'":"'+str(score)+'"}'
@@ -1240,27 +1247,133 @@ def formatJson(Hotels):
     # print(Format)
     return Format
 # print(polarisation("La piscine c'était super agréable et a bonne température. Le personnel était vraiment à l'écoute surtout au bar et a la piscine. La salle de sport dispose de machine très sympa. Le confort de la literie. L accessibilité du parking"))
-def json_extract(obj, key):
-    arr = []
-
-    def extract(obj, arr, key):
-        if isinstance(obj, dict):
-            for k, v in obj.items():
-                if isinstance(v, (dict, list)):
-                    extract(v, arr, key)
-                elif k == key:
-                    arr.append(v)
-        elif isinstance(obj, list):
-            for item in obj:
-                extract(item, arr, key)
-        return arr
-
-    values = extract(obj, arr, key)
-    return values
 
 # print(polarisation("Dommage pas de parking"))
 
-print(composed_words_cleaner_version("une très belle vue sur la mer"))
 
-# Comments = getCommentes()
+# def createVectors(Comments):
+#     Vector = []
+#     for comment in Comments:
+#         commentTokens = getNom(comment.split(";")[1])
+#         Vector.append(commentTokens)
+
+#     return Vector
+
+
+def RegexCreator(terms):
+    return ''.join([r'(?=.*?\b%s\b)' % (term) for term in terms])
+
+def getRelatedComments(user_words_list,selectors):
+
+    print(user_words_list)
+    print("Matching regEx")
+    CommentsRelated = []
+    words_from_JDM = getAllTermesR5Sortant(user_words_list)
+    
+    filtred_word = []
+    words_from_JDM.extend(user_words_list)
+    for word in words_from_JDM:
+        if find(word) == True:
+            filtred_word.append(word)
+        # else:
+            # print("No")
+
+    filtred_word.extend(selectors)
+    # print(filtred_word)
+    regex1 = re.compile(r'(?i)\b(?:%s)\b' % ('|'.join(filtred_word)))
+    print(regex1)
+
+    for Comment in Comments :
+        comment = Comment.split(";")[1]
+        Id = Comment.split(";")[0]
+        score =0
+        if regex1.search(comment.lower()) :
+            matched=regex1.search(comment).group()
+            timesMatched=len(re.findall(regex1, comment.lower()))
+            if comment not in CommentsRelated :
+                if matched in user_words_list:
+                    # print(matched)
+                    score+=int(2*timesMatched)         #si le mot retrouver est dans la liste du souhait de l'utilisateur
+                    if len(matched.split(" ")) > 1:
+                        # print(matched)
+                        score+=int(10*score) #si c un mot composer
+                else :
+                    score+=int(timesMatched) #si c un mot relationnel
+                comment_dict = {"comment": Comment, "score": score}
+                CommentsRelated.append(comment_dict)
+    CommentsRelated = sorted(CommentsRelated, key=itemgetter('score'), reverse=True)
+    return CommentsRelated
+        
+
+def getOntologieWordsFromJson():
+    with open('src/ontologie_words.json') as json_file:
+        data = json.load(json_file)
+        #print(data)
+        return data
+def getOntologieWordsFromJson5():
+    with open('src/ontologie_words5.json') as json_file:
+        data = json.load(json_file)
+        return data
+
+def getCommentaire():
+    com = []
+    for comment in Comments:
+        com.append(comment.split(";")[1])
+    return com
+
+Ontologie = getOntologieWordsFromJson()
+# Ontologie = getOntologieWordsFromJson()
+LongueurOntologie = len(Ontologie)
+Comments = getCommentes()
+Commentaires = getCommentaire()
 # CommentsVector = createVectors(Comments)
+userSearch = "une très belle chambre"
+print(getNom(userSearch))
+# print(CommentsVector)
+def find(target):
+    start = 0
+    end = LongueurOntologie - 1
+    while start <= end:
+        middle = (start + end)// 2
+        midpoint = Ontologie[middle]
+        if midpoint > target:
+            end = middle - 1
+        elif midpoint < target:
+            start = middle + 1
+        else:
+            return True
+
+    return False
+    
+# print(Ontologie)
+print(find("chambre"))
+
+def creatOntologieFile() :
+    ontologie = getMyOntologie()
+    words_list=[]
+    for ontologie_word in ontologie:
+        words_list.append(getTermesR5Sortants(ontologie_word))
+    words = []
+    for l in words_list : 
+        for w in l :
+            words.append(w.lower())
+    words_cleaed = list(set(words))
+    words_cleaed =sorted(words_cleaed)
+    try:
+        filename = "./src/ontologie_words5.json"
+        # print(words_list)
+        with open(filename, mode='w', encoding="utf-8") as my_file:
+
+            json.dump(words_cleaed, my_file, indent=4)
+            return my_file
+    except FileNotFoundError as err:
+        raise err
+        return False
+
+# print(clean_expr_from_additionals("très bon, rapport qualité prix ! et personnel très accueillant  ."))
+# words = clean_expr_from_additionals("très bon, rapport qualité prix ! et personnel très accueillant  .")
+# nom = 
+# print(getRelatedComments(["vue sur la mer","mer","vue"],[]))
+# print(CommentsVector)
+
+# print(getNom("une très belle vue sur la mer"))
