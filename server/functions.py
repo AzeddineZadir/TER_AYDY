@@ -1398,8 +1398,10 @@ def BinarySearch(lys, val):
     return index
 
 # oon creer le vecteur de recherche de l'utilisateur ainsi que le score de chaque terme
-def formatUserReq(user_sentence): 
+def formatUserReqByR0(user_sentence): 
     nouns= getNom(user_sentence)
+    user_req=[]
+    user_tokens = clean_expr_from_additionals(user_sentence)
     user_req=[]
     # tous les nom ont un score de 2
     for n in nouns :
@@ -1410,7 +1412,7 @@ def formatUserReq(user_sentence):
     # suppression des nombrs ainsi que des chaines de longeurs <= a 2
     composed_words_list = [ elem for elem in composed_words_list if not elem.isdigit() and len(elem)>2]
     # on filtre les termes en doubles 
-    for word in user_req : 
+    for word in user_tokens : 
         for com_word in composed_words_list :
             if word == com_word : 
                 composed_words_list.remove(com_word)
@@ -1426,4 +1428,38 @@ def formatUserReq(user_sentence):
         word_dict = {"t":filterd_word , "score":1}
         user_req.append(word_dict)
     
+    return user_req
+
+def formatUserReqByR5(user_sentence): 
+    nouns= getNom(user_sentence)
+    user_tokens = clean_expr_from_additionals(user_sentence)
+    user_req=[]
+    # tous les nom ont un score de 2
+    for n in nouns :
+        word_dict = {"t":n , "score":2}
+        user_req.append(word_dict)
+    # on ajoute les mot composé avec un score de 3 
+    composed_words_list = composed_words_cleaner_version(user_sentence)
+    print(composed_words_list)
+    # suppression des nombrs ainsi que des chaines de longeurs <= a 2
+    composed_words_list = [ elem for elem in composed_words_list if not elem.isdigit() and len(elem)>2]
+    # on filtre les termes en doubles 
+    for word in user_tokens : 
+        for com_word in composed_words_list :
+            if word == com_word : 
+                composed_words_list.remove(com_word)
+
+    # ajouts des mots composé dans la requete avec un score de 3 
+    print(composed_words_list)
+    for com_word in composed_words_list : 
+        word_dict = {"t":com_word , "score":3}
+        user_req.append(word_dict)
+
+    # ajouts des mots issu de JDM avec un score de 1 
+    synonymes_liste= getAllTermesR5(nouns)
+    
+    for syno in synonymes_liste:
+        word_dict = {"t":syno , "score":1}
+        user_req.append(word_dict)
+
     return user_req

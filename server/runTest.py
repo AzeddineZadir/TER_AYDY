@@ -19,10 +19,6 @@ import json
 # for c in c_liste : 
 #     print(c["id"])
 
-user_req = formatUserReq("je veux une grande chambre")
-comments = getCommentsScoreByVect(user_req)
-newlist = sorted(comments, key=lambda k: k['score'],reverse=True) 
-for c in newlist : 
-    print (f"{c['id']} score : {c['score']}")
 
-print(len(comments))
+# 
+print(formatUserReqByR0("vue sur mer"))
