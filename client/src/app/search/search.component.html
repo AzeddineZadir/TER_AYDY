@@ -1,0 +1,103 @@
+
+<div class="spinner" *ngIf="recherche == true"></div>
+<div class="container" *ngIf="recherche == false && hotels.length == 0">
+<section class="section" >
+    <div class="has-text-centered top">
+    <h1 class="title largeblue">Vous cherchez un hotel ?</h1>
+    <h2 class="subtitle lightblue">
+     Et si on demandait pour vous tous les voyageurs du monde de vous conseiller.
+    </h2>
+    </div>
+
+  </section>
+
+    <section>
+        <div class="container">
+            <div class="columns is-centered">
+              <div class="column is-half has-text-centered" >
+                <input class="input is-rounded search " type="text" (keyup)="setSouhait($event)" placeholder="Exprimez vos souhaits avec vos mots">
+                <!-- <button class="button is-info is-rounded" ></button> -->
+                <div class="dropdown is-hoverable">
+                  <div class="dropdown-trigger">
+                    <button class="button is-info is-rounded" aria-haspopup="true" aria-controls="dropdown-menu4">
+                      <span>Chercher</span>
+                      <span class="icon is-small">
+                        <i class="fas fa-angle-down" aria-hidden="true"></i>
+                      </span>
+                    </button>
+                  </div>
+                  <div class="dropdown-menu" id="dropdown-menu4" role="menu">
+                    <div class="dropdown-content">
+                      <a (click)="rechercher(1)" class="dropdown-item blue large">
+                        Recherche r_associated
+                      </a>
+                    </div>
+                    <div class="dropdown-content">
+                      <a (click)="rechercher(2)" class="dropdown-item blue large">
+                        Recherche r_syn
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+        </div>
+          
+    </section>
+
+    <section>
+        <div class="container is-max-desktop ">
+            <div class="lightblue top is-size-3">Les Filtres :</div>
+            <div class="field toogle column ">
+              <input id="wifi" type="checkbox" name="switchRoundedInfo" class="switch is-normal is-rounded is-info " (change)="checkWifi($event)" checked="checked">
+              <label for="wifi" class = "lightblue ">Wifi</label>
+            </div>  
+            <div class="field toogle column ">
+              <input id="parking" type="checkbox" name="switchRoundedInfo" class="switch is-normal is-rounded is-info " (change)="checkPark($event)">
+              <label for="parking" class = "lightblue ">Parking</label>
+            </div>  
+            <div class="field toogle column ">
+              <input id="climatisation" type="checkbox" name="switchRoundedInfo" class="switch is-normal is-rounded is-info " (change)="checkClim($event)">
+              <label for="climatisation" class = "lightblue ">Climatisation</label>
+            </div>  
+            <div class="field toogle column ">
+              <input id="enfant" type="checkbox" name="switchRoundedInfo" class="switch is-normal is-rounded is-info " (change)="checkAdapt($event)">
+              <label for="enfant" class = "lightblue ">Adapté aux enfants</label>
+            </div>  
+            <div class="field toogle column">
+              <input id="spa" type="checkbox" name="switchRoundedInfo" class="switch is-normal is-rounded is-info " (change)="checkSpa($event)">
+              <label for="spa" class = "lightblue ">SPA</label>
+            </div>  
+            <div class="field toogle column">
+              <input id="Piscine" type="checkbox" name="switchRoundedInfo" class="switch is-normal is-rounded is-info " (change)="checkPiscine($event)" >
+              <label for="Piscine" class = "lightblue ">Piscine</label>
+            </div> 
+            <div class="field toogle column">
+              <input id="Espacevert" type="checkbox" name="switchRoundedInfo" class="switch is-normal is-rounded is-info " (change)="checkEspace($event)" >
+              <label for="Espacevert" class = "lightblue ">Espace vert</label>
+            </div>  
+            <div class="field toogle column">
+              <input id="centre" type="checkbox" name="switchRoundedInfo" class="switch is-normal is-rounded is-info " (change)="checkCentre($event)">
+              <label for="centre" class = "lightblue ">Centre de remise en forme</label>
+            </div>  
+            <div class="field toogle column">
+              <input id="dejeuner" type="checkbox" name="switchRoundedInfo" class="switch is-normal is-rounded is-info " (change)="checkDej($event)">
+              <label for="dejeuner" class = "lightblue ">Petit-déjeuner gratuit</label>
+            </div>  
+
+        </div> 
+    </section>
+  </div>
+<div class="container" *ngIf="recherche == false && hotels.lenght !=0">
+  <br><br><br><br>
+  <div class="blue large" *ngIf="id ==1">Résultat r_associated :</div>
+  <div class="blue large" *ngIf="id ==2">Résultat r_syn :</div>
+
+  <div *ngFor="let hotel of hotels">
+  <div class="test">Hotel : {{hotel.nom}}</div>
+    
+  <div class="score">Score : {{hotel.score}}</div>
+  <hr>
+  </div>
+ 
+</div>
