@@ -20,7 +20,7 @@ export class SearchComponent implements OnInit {
   public dej: boolean = false;
   public souhait: string = "";
   public requete: any = [];
-
+  public id:any = -1
   public hotels:any = [];
   public recherche:boolean = false;
   constructor(private searchService: SearchServiceService) { }
@@ -65,7 +65,8 @@ export class SearchComponent implements OnInit {
     this.souhait = event.target.value
   }
 
-  rechercher() {
+  rechercher(id) {
+    this.id = id
     this.recherche = true;
     this.requete =[]
     console.log(this.souhait)
@@ -94,7 +95,7 @@ export class SearchComponent implements OnInit {
     if(this.dej== true)
     selectors.push("dejeuner")
     this.requete.push({ selector: selectors })
-
+    this.requete.push({id:id})
     let req = JSON.stringify(this.requete)
     console.log(req)
     this.searchService.search(this.requete).subscribe(values => {

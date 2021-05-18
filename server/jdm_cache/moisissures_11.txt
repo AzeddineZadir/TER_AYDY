@@ -1,0 +1,12 @@
+
+e;275170;'moisissures';1;54
+e;6297216;'curiethérapie de plaques ou de moisissures de la peau';1;0
+e;13786115;'dosage des exo-antigènes pour moisissures';1;0
+e;1839090;'allergie aux moisissures atmosphériques';1;0
+e;3321114;'fromage à moisissures internes';1;0
+e;345698;'culture de moisissures';1;50
+r;319073282;275170;6297216;11;25
+r;419796358;275170;13786115;11;30
+r;30032313;275170;1839090;11;34
+r;83663362;275170;3321114;11;53
+r;12721687;275170;345698;11;108

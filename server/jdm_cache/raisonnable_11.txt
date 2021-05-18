@@ -1,0 +1,44 @@
+
+e;83355;'raisonnable';1;252
+e;15450443;'dans la limite du raisonnable';1;0
+e;15450445;'dans les limites du raisonnable';1;0
+e;15450446;'délai raisonnable';1;0
+e;5776668;'Accès optique raisonnable de proximité';777;0
+e;15316677;'avoir l'air raisonnable pour moi';1;0
+e;15449573;'ce ne serait pas raisonnable';1;0
+e;15328153;'Nous verrions d'un bon ?il toute suggestion raisonnable.';1;0
+e;16509435;'Est-ce bien raisonnable';777;0
+e;10252280;'Doute raisonnable';777;0
+e;2378216;'usage raisonnable';777;0
+e;5940640;'gestion raisonnable des ressources naturelles';777;0
+e;15450449;'Est-ce bien raisonnable ?';1;0
+e;15531653;'Définissez ce que vous entendez par raisonnable.';1;0
+e;15581542;'Elle est très raisonnable pour son âge.';1;0
+e;2780532;'diligence raisonnable';777;0
+e;462467;'pourboire raisonnable';1;50
+e;1781244;'caractère raisonnable';1;0
+e;3877171;'personne raisonnable';1;0
+e;342491;'certitude raisonnable';1;50
+e;22535;'être raisonnable';1;56
+e;180637;'accommodement raisonnable';1;50
+r;419763204;83355;15450443;11;30
+r;419764255;83355;15450445;11;30
+r;419810626;83355;15450446;11;30
+r;112661997;83355;5776668;11;31
+r;419631830;83355;15316677;11;32
+r;419691400;83355;15449573;11;32
+r;419516455;83355;15328153;11;34
+r;434340991;83355;16509435;11;34
+r;247439980;83355;10252280;11;35
+r;52573944;83355;2378216;11;36
+r;116319241;83355;5940640;11;42
+r;397502922;83355;15450449;11;50
+r;397848309;83355;15531653;11;50
+r;399661883;83355;15581542;11;50
+r;63886520;83355;2780532;11;52
+r;16311592;83355;462467;11;53
+r;29226119;83355;1781244;11;53
+r;95174297;83355;3877171;11;56
+r;12734875;83355;342491;11;106
+r;8577364;83355;22535;11;163
+r;8637077;83355;180637;11;163

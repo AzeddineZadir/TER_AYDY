@@ -1,0 +1,30 @@
+
+e;95376;'climatisation';1;132
+e;6343020;'régulation de la climatisation';1;0
+e;14536142;'installer la climatisation';1;0
+e;14536145;'couper la climatisation';1;0
+e;14536149;'arrêter la climatisation';1;0
+e;14536155;'climatisation trop forte';1;0
+e;5828538;'Arborescence du froid et de la climatisation';777;0
+e;10991578;'climatisation solaire';777;0
+e;10991712;'climatisation de l'air';1;0
+e;5986594;'climatisation de véhicule automobile';777;0
+e;6449668;'calorifugeur d'installations de réfrigération et de climatisation';1;0
+e;8785200;'installer une climatisation';1;2
+e;8785187;'allumer la climatisation';1;2
+e;8785184;'mettre la climatisation';1;2
+e;252391;'climatisation réversible';1;68
+r;301494463;95376;6343020;11;26
+r;368762115;95376;14536142;11;26
+r;368762155;95376;14536145;11;26
+r;368762191;95376;14536149;11;26
+r;368762260;95376;14536155;11;26
+r;113763366;95376;5828538;11;32
+r;277677101;95376;10991578;11;33
+r;277684131;95376;10991712;11;33
+r;117885959;95376;5986594;11;35
+r;121050594;95376;6449668;11;44
+r;183022984;95376;8785200;11;50
+r;183023004;95376;8785187;11;50
+r;183023009;95376;8785184;11;50
+r;8715973;95376;252391;11;161

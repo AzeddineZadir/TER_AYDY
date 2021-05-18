@@ -1,0 +1,432 @@
+
+e;77864;'établissement';1;338
+e;6303632;'consultation médicale avec un patient d'un établissement de soins de infirmiers';1;0
+e;6306686;'établissement d'un bilan professionnel';1;0
+e;6348892;'orientation d'un patient vers un établissement spécialisé';1;0
+e;6374955;'prise en charge nécessitée par lit non disponible dans un autre établissement adéquat';1;0
+e;6394567;'hygiénistes en établissement de santé';1;0
+e;6399923;'transfert temporaire d'un patient dans un autre établissement de santé';1;0
+e;6403931;'visite subséquente au patient d'un établissement de soins infirmiers';1;0
+e;6381134;'transfert définitif d'un patient dans un autre établissement de santé';1;0
+e;6414443;'anamnèse et examen physique avec prise en charge du patient d'un établissement de soins infirmiers';1;0
+e;13545711;'établissement de recherche atomique';777;0
+e;6404023;'ententes négociées entre établissement hospitalier et médecins';1;0
+e;14003626;'établissement de paiement';777;0
+e;14226865;'établissement public de santé mentale de Caen';777;0
+e;14452324;'principe de liberté d'établissement et de libre prestation des services';1;0
+e;14452712;'fermeture d'établissement';1;0
+e;14453500;'responsabilité de l'établissement';1;0
+e;14453538;'changement d'affectation au sein de l'établissement';1;0
+e;14453710;'comité social d'établissement';1;0
+e;14453624;'changement d'établissement';1;0
+e;14453687;'recours de l'établissement';1;0
+e;14453631;'vols de produits alimentaires appartenant à l'établissement';1;0
+e;14454415;'désignation de la collectivité ou de l'établissement';1;0
+e;15009646;'établissement régional d'enseignement adapté';777;0
+e;15625787;'président de l'établissement public du Grand Palais des Champs-Élysées';777;0
+e;15804487;'établissement tout à fait privé';777;0
+e;16073922;'Principe de liberté d'établissement et de libre prestation des services';1;0
+e;16074103;'Recours de l'établissement';1;0
+e;16074182;'Responsabilité de l'établissement';1;0
+e;16074613;'Vols de produits alimentaires appartenant à l'établissement';1;0
+e;15786720;'aidant dans l'établissement du diagnostic';1;0
+e;15253706;'chef d'établissement scolaire';1;0
+e;15446510;'comité d'établissement';1;0
+e;15244812;'conseil d'établissement';1;0
+e;15244800;'coût d'établissement';1;0
+e;16032325;'droit d'établissement';1;0
+e;16154395;'vente hors établissement';777;0
+e;16168550;'établissement de luxe';1;0
+e;16235928;'Henry Kissinger et les conditions d'établissement d'une alliance stratégique';777;0
+e;16317154;'la politique éducative de l'établissement';777;0
+e;5786659;'établissement public national';777;0
+e;6425137;'établissement de la menstruation';1;0
+e;6363586;'sortie du patient d'un établissement de santé';1;0
+e;15789457;'directeur d'établissement sanitaire';1;0
+e;5786658;'un établissement public';777;0
+e;10672826;'établissement public d'aménagement';777;0
+e;6428460;'évaluation et prise en charge du patient externe connu au cabinet ou à un autre établissement de consultation externe';1;0
+e;6437403;'délocalisation d'établissement de santé';1;0
+e;6437110;'mécanicien d'entretien d'établissement';1;0
+e;5803888;'établissement public d'enseignement supérieur';1;0
+e;6436292;'acquisition d'établissement sanitaire';1;0
+e;10600116;'établissement de détention';777;0
+e;11772832;'établissement de jeux';777;0
+e;11049858;'établissement français d'enseignement supérieur public';1;0
+e;11049859;'établissement d'enseignement supérieur public';1;0
+e;6440073;'administration d'établissement de santé';1;0
+e;10577802;'établissement culturel';1;0
+e;10992472;'directeur d'établissement d'éducation adaptée et spécialisée';777;0
+e;11806355;'comité préparatoire à l'établissement de la région autonome du Tibet';777;0
+e;1833372;'établissement français du sang';1;0
+e;5621486;'établissement public d'enseignement secondaire';1;0
+e;6440801;'cuisinier d'établissement';1;0
+e;10836938;'établissement ou service social ou médico-social';777;0
+e;10745248;'établissement d'enseignement supérieur privé';1;0
+e;10839440;'établissement public de santé Esquirol';777;0
+e;10854776;'établissement Transdev de Brétigny';777;0
+e;10854772;'établissement de Nanterre';777;0
+e;10854771;'établissement de Montesson Les Rabaux';777;0
+e;10854770;'établissement de Montesson La Boucle';777;0
+e;10854769;'établissement Transdev d'Ecquevilly';777;0
+e;10854768;'établissement Transdev de Conflans';777;0
+e;10854765;'établissement Transdev de Vulaines';777;0
+e;10854764;'établissement Transdev de Vaux-le-Pénil';777;0
+e;10854763;'établissement Transdev de Saint-Fargeau-Ponthierry';777;0
+e;10854756;'établissement Transdev de Lieusaint';777;0
+e;10854754;'établissement Transdev de Nemours';777;0
+e;10854752;'établissement de Houdan';777;0
+e;10852887;'établissement scolaire privé hors contrat en France';777;0
+e;11083072;'établissement public d'enseignement';1;0
+e;12078870;'établissement à fort effet de levier';1;0
+e;5564766;'établissement privé d'enseignement';1;0
+e;10852816;'établissement public industriel et commercial';1;0
+e;11360922;'établissement de canotage';1;0
+e;12051418;'gérer la lutte contre les infections au sein de l'établissement';1;0
+e;6440938;'gestion d'établissement de santé';1;0
+e;9934710;'organe délibérant d'un établissement public de coopération intercommunale';777;0
+e;10935822;'établissement sportif';1;0
+e;12051233;'gérer les services d'un établissement';1;0
+e;1833371;'établissement français des greffes';1;0
+e;5534959;'établissement français d'enseignement';1;0
+e;6451759;'administrateurs d'établissement de santé';1;0
+e;6441183;'femme de chambre d'établissement';1;0
+e;10056042;'loi relative à l'établissement des grandes lignes de chemin de fer';777;0
+e;12051252;'gérer la coordination entre les départements d'un établissement hôtelier';1;0
+e;5564765;'établissement privé d'enseignement supérieur';1;0
+e;10773827;'établissement scolaire privé catholique';1;0
+e;10773828;'établissement scolaire privé';1;0
+e;10773831;'établissement rural de réinsertion';1;0
+e;11155740;'établissement public territorial';777;0
+e;10514464;'établissement d'enseignement secondaire';1;4
+e;10514463;'établissement d'enseignement secondaire et supérieur';1;0
+e;11157135;'établissement cinq étoiles';1;0
+e;11216781;'établissement thermal d'Aix-les-Bains';777;0
+e;5710849;'établissement scolaire d'enseignement secondaire';1;0
+e;11253560;'établissement public du culte';777;0
+e;11373459;'établissement national des invalides de la marine';777;0
+e;16073089;'Fermeture d'établissement';1;0
+e;6001595;'établissement du port';777;0
+e;6445211;'mécanicienne d'entretien d'établissement';1;0
+e;5942421;'établissement du service d'infrastructure de la Défense de Brest';777;0
+e;6450177;'conversion d'établissement de santé';1;0
+e;6449551;'transformation d'établissement de santé';1;0
+e;6447534;'déplacement d'établissement sanitaire';1;0
+e;10138519;'L'établissement scolaire catholique privé Gerson';777;0
+e;6445303;'cuisinière d'établissement';1;0
+e;10147433;'Acte d'établissement';777;0
+e;10143797;'établissement public foncier d'Île-de-France';777;0
+e;10433961;'établissement Archambault';777;0
+e;11158461;'établissement public de coopération culturelle';777;0
+e;11158910;'diplôme d'établissement';777;0
+e;16072726;'Directeur d'établissement sanitaire';1;0
+e;6526891;'Évaluation et prise en charge du patient d'un établissement de soins infirmiers';1;0
+e;5991211;'établissement d'enseignement supérieur artistique';1;0
+e;6066359;'établissement recevant du public';777;0
+e;6449851;'responsables d'hygiène en établissement de santé';1;0
+e;8930392;'établissement public territorial de bassin';1;0
+e;11118597;'établissement public à caractère scientifique';1;0
+e;13802370;'2-110 évaluation et prise en charge du patient d'un établissement de soins infirmiers';1;0
+e;16072382;'Changement d'affectation au sein de l'établissement';1;0
+e;16072378;'Changement d'établissement';1;0
+e;16072421;'Comité social d'établissement';1;0
+e;16072444;'Commission médicale d'établissement';1;0
+e;3561808;'établissement français d'enseignement supérieur';1;0
+e;5388827;'établissement de la fiche de paie';1;0
+e;3565003;'établissement d'une liaison';777;0
+e;5128794;'établissement public à caractère scientifique, culturel et professionnel';1;0
+e;6451291;'acquisition d'établissement de santé';1;0
+e;5518413;'établissement public à caractère industriel et commercial français';1;0
+e;5522296;'établissement de soins pour animaux';1;0
+e;1741461;'établissement public de santé';777;0
+e;1842119;'préjudice d'établissement';1;0
+e;3321195;'établissement de découpage';1;0
+e;592739;'commission médicale d'établissement';1;0
+e;3230771;'établissement médicalisé';1;0
+e;2926221;'établissement et service d'aide par le travail';777;0
+e;3283178;'établissement de restauration';1;0
+e;5518414;'établissement public à caractère industriel et commercial';1;0
+e;3230772;'établissement médical';1;0
+e;3676588;'établissement public administratif';1;0
+e;3319048;'établissement d'équarrissage';1;0
+e;1857352;'établissement de préparation et de réponse aux urgences sanitaires';777;0
+e;390290;'établissement scolaire pour filles';1;50
+e;390279;'établissement agricole';1;50
+e;390307;'établissement scientifique';1;50
+e;390296;'établissement de culte';1;50
+e;390295;'établissement de conseil familial';1;50
+e;390292;'établissement universitaire';1;50
+e;390287;'établissement hôtelier';1;50
+e;390286;'établissement héliomarin';1;50
+e;356574;'grand établissement';1;50
+e;355258;'frais d'établissement';1;50
+e;390303;'établissement industriel';1;50
+e;390300;'établissement flottant';1;50
+e;390288;'établissement psychiatrique privé';1;50
+e;390284;'établissement gériatrique';1;50
+e;390282;'établissement d'hospitalisation public';1;50
+e;390305;'établissement religieux';1;50
+e;390298;'établissement de prostitution';1;50
+e;390283;'établissement de relations diplomatiques';1;50
+e;390280;'établissement climatique';1;50
+e;390293;'établissement artisanal';1;50
+e;390289;'établissement régional';1;50
+e;390304;'établissement public d'enseignement agricole';1;50
+e;390297;'établissement de jeu';1;50
+e;390294;'établissement d'éducation professionnelle';1;50
+e;390281;'établissement d'enseignement supérieur';1;50
+e;390291;'établissement spécialisé';1;50
+e;365849;'médecin d'établissement';1;50
+e;390309;'établissement technique';1;50
+e;390308;'établissement stable';1;50
+e;390306;'établissement sanitaire';1;50
+e;390302;'établissement humain';1;50
+e;390301;'établissement gestionnaire';1;50
+e;390299;'établissement de rééducation';1;50
+e;390285;'établissement hospitalier';1;50
+e;325218;'établissement public à caractère administratif';1;50
+e;325561;'politique d'établissement';1;50
+e;258148;'chef d'établissement';1;22
+e;280730;'sociétés d'aménagement foncier et d'établissement rural';777;50
+e;315670;'établissement public foncier';1;50
+e;190779;'société d'aménagement foncier et d'établissement rural';1;50
+e;230520;'établissement public';1;50
+e;231391;'établissement commercial';1;78
+e;231672;'établissement de soins';1;64
+e;242135;'établissement de commerce';1;50
+e;249038;'établissement public de coopération intercommunale';1;50
+e;249290;'établissement carcéral';1;50
+e;251077;'établissement bancaire';1;52
+e;165120;'établissement scolaire';1;294
+e;210764;'établissement d'éducation';1;50
+e;97812;'établissement de nuit';1;50
+e;122400;'établissement thermal';1;52
+e;125172;'établissement pénitentiaire';1;62
+e;182342;'établissement normal';1;50
+e;267426;'établissement d'enseignement';1;60
+e;267906;'établissement privé';1;52
+e;291758;'établissement public à caractère scientifique et technologique';777;50
+e;309087;'établissement public local d'enseignement';777;50
+e;155455;'établissement de santé';1;62
+e;311823;'établissement d'hébergement pour personnes âgées dépendantes';777;50
+e;311829;'établissement médico-social';1;50
+e;311830;'établissement social ou médico-social';777;50
+e;11786;'établissement de bains';1;50
+e;199758;'établissement financier';1;54
+e;199759;'établissement psychiatrique';1;54
+e;1896;'établissement de crédit';1;50
+r;299342901;77864;6303632;11;25
+r;299519598;77864;6306686;11;25
+r;301722032;77864;6348892;11;25
+r;303471471;77864;6374955;11;25
+r;304994095;77864;6394567;11;25
+r;305135273;77864;6399923;11;25
+r;305295194;77864;6403931;11;25
+r;319106473;77864;6381134;11;25
+r;341248482;77864;6414443;11;25
+r;343204993;77864;13545711;11;25
+r;349272302;77864;6404023;11;25
+r;353040942;77864;14003626;11;25
+r;361120918;77864;14226865;11;25
+r;366857232;77864;14452324;11;25
+r;366865683;77864;14452712;11;25
+r;366903009;77864;14453500;11;25
+r;366913685;77864;14453538;11;25
+r;366914230;77864;14453710;11;25
+r;366915660;77864;14453624;11;25
+r;366916515;77864;14453687;11;25
+r;366916539;77864;14453631;11;25
+r;366944751;77864;14454415;11;25
+r;392036410;77864;15009646;11;25
+r;400678001;77864;15625787;11;25
+r;411582014;77864;15804487;11;25
+r;419528138;77864;16073922;11;25
+r;419533620;77864;16074103;11;25
+r;419534506;77864;16074182;11;25
+r;419561648;77864;16074613;11;25
+r;419582888;77864;15786720;11;25
+r;419704230;77864;15253706;11;25
+r;419719383;77864;15446510;11;25
+r;419732484;77864;15244812;11;25
+r;419749585;77864;15244800;11;25
+r;419799723;77864;16032325;11;25
+r;423703011;77864;16154395;11;25
+r;423941246;77864;16168550;11;25
+r;425800589;77864;16235928;11;25
+r;428845980;77864;16317154;11;25
+r;114461218;77864;5786659;11;26
+r;122733404;77864;6425137;11;26
+r;302152061;77864;6363586;11;26
+r;410440950;77864;15789457;11;26
+r;114461226;77864;5786658;11;27
+r;270781701;77864;10672826;11;27
+r;122707722;77864;6428460;11;28
+r;121551283;77864;6437403;11;29
+r;121553969;77864;6437110;11;29
+r;113301133;77864;5803888;11;30
+r;121561226;77864;6436292;11;30
+r;264440016;77864;10600116;11;30
+r;302065787;77864;11772832;11;30
+r;279851167;77864;11049858;11;31
+r;279852381;77864;11049859;11;31
+r;121527340;77864;6440073;11;32
+r;263663683;77864;10577802;11;32
+r;277718238;77864;10992472;11;32
+r;304371359;77864;11806355;11;32
+r;29978564;77864;1833372;11;33
+r;110735221;77864;5621486;11;33
+r;121520810;77864;6440801;11;33
+r;270945477;77864;10836938;11;35
+r;268841504;77864;10745248;11;35
+r;271600384;77864;10839440;11;35
+r;272173831;77864;10854776;11;35
+r;272173850;77864;10854772;11;35
+r;272173860;77864;10854771;11;35
+r;272173875;77864;10854770;11;35
+r;272173889;77864;10854769;11;35
+r;272173896;77864;10854768;11;35
+r;272173922;77864;10854765;11;35
+r;272173935;77864;10854764;11;35
+r;272173946;77864;10854763;11;35
+r;272174026;77864;10854756;11;35
+r;272174037;77864;10854754;11;35
+r;272174052;77864;10854752;11;35
+r;272178275;77864;10852887;11;35
+r;281188174;77864;11083072;11;35
+r;315120989;77864;12078870;11;35
+r;110102322;77864;5564766;11;36
+r;272012675;77864;10852816;11;36
+r;291991505;77864;11360922;11;36
+r;313763816;77864;12051418;11;36
+r;121519550;77864;6440938;11;37
+r;219898035;77864;9934710;11;37
+r;275221108;77864;10935822;11;37
+r;313724806;77864;12051233;11;37
+r;29978285;77864;1833371;11;38
+r;109550870;77864;5534959;11;38
+r;121031396;77864;6451759;11;38
+r;121517388;77864;6441183;11;38
+r;228984057;77864;10056042;11;38
+r;313726469;77864;12051252;11;38
+r;110078849;77864;5564765;11;39
+r;269536951;77864;10773827;11;39
+r;269536942;77864;10773828;11;39
+r;269536919;77864;10773831;11;40
+r;283717530;77864;11155740;11;40
+r;262210321;77864;10514464;11;41
+r;262210328;77864;10514463;11;41
+r;285043746;77864;11157135;11;41
+r;287450264;77864;11216781;11;41
+r;112074018;77864;5710849;11;42
+r;288406690;77864;11253560;11;42
+r;291749821;77864;11373459;11;42
+r;419102110;77864;16073089;11;42
+r;118537820;77864;6001595;11;43
+r;121481394;77864;6445211;11;43
+r;116313313;77864;5942421;11;44
+r;121045882;77864;6450177;11;44
+r;121051649;77864;6449551;11;44
+r;121460391;77864;6447534;11;44
+r;236666033;77864;10138519;11;44
+r;121480500;77864;6445303;11;45
+r;236652269;77864;10147433;11;45
+r;236658184;77864;10143797;11;45
+r;256300179;77864;10433961;11;45
+r;284009992;77864;11158461;11;45
+r;284123779;77864;11158910;11;45
+r;419100471;77864;16072726;11;45
+r;121445039;77864;6526891;11;46
+r;117653472;77864;5991211;11;48
+r;118931316;77864;6066359;11;50
+r;121048890;77864;6449851;11;50
+r;193127681;77864;8930392;11;50
+r;282246228;77864;11118597;11;50
+r;348982651;77864;13802370;11;50
+r;418900124;77864;16072382;11;50
+r;418900140;77864;16072378;11;50
+r;418900432;77864;16072421;11;50
+r;418900585;77864;16072444;11;50
+r;88851366;77864;3561808;11;52
+r;107388093;77864;5388827;11;52
+r;88917996;77864;3565003;11;53
+r;105830341;77864;5128794;11;53
+r;121035644;77864;6451291;11;53
+r;108786600;77864;5518413;11;54
+r;109335851;77864;5522296;11;54
+r;28621348;77864;1741461;11;55
+r;29901167;77864;1842119;11;55
+r;83662906;77864;3321195;11;55
+r;18594202;77864;592739;11;56
+r;78305468;77864;3230771;11;56
+r;71715242;77864;2926221;11;57
+r;80309298;77864;3283178;11;58
+r;108807818;77864;5518414;11;58
+r;78305481;77864;3230772;11;59
+r;91579661;77864;3676588;11;59
+r;83673456;77864;3319048;11;60
+r;30006482;77864;1857352;11;66
+r;12540825;77864;390290;11;101
+r;12540881;77864;390279;11;101
+r;12540747;77864;390307;11;102
+r;12540797;77864;390296;11;102
+r;12540801;77864;390295;11;102
+r;12540817;77864;390292;11;102
+r;12540845;77864;390287;11;102
+r;12540849;77864;390286;11;102
+r;12676765;77864;356574;11;102
+r;12682117;77864;355258;11;102
+r;12540769;77864;390303;11;103
+r;12540781;77864;390300;11;103
+r;12540837;77864;390288;11;103
+r;12540857;77864;390284;11;103
+r;12540865;77864;390282;11;103
+r;12540755;77864;390305;11;104
+r;12540789;77864;390298;11;104
+r;12540861;77864;390283;11;104
+r;12540877;77864;390280;11;104
+r;12540813;77864;390293;11;106
+r;12540833;77864;390289;11;106
+r;12540759;77864;390304;11;107
+r;12540793;77864;390297;11;107
+r;12540807;77864;390294;11;107
+r;12540871;77864;390281;11;107
+r;12540821;77864;390291;11;108
+r;12638845;77864;365849;11;108
+r;12540739;77864;390309;11;109
+r;12540743;77864;390308;11;109
+r;12540751;77864;390306;11;109
+r;12540773;77864;390302;11;110
+r;12540777;77864;390301;11;110
+r;12540785;77864;390299;11;110
+r;12540853;77864;390285;11;110
+r;10630498;77864;325218;11;148
+r;10744642;77864;325561;11;148
+r;8881663;77864;258148;11;151
+r;8883400;77864;280730;11;153
+r;8870731;77864;315670;11;154
+r;8877086;77864;190779;11;154
+r;8699047;77864;230520;11;161
+r;8699823;77864;231391;11;161
+r;8700043;77864;231672;11;161
+r;8707357;77864;242135;11;161
+r;8712327;77864;249038;11;161
+r;8712559;77864;249290;11;161
+r;8714613;77864;251077;11;161
+r;8629429;77864;165120;11;162
+r;8685658;77864;210764;11;162
+r;8603373;77864;97812;11;163
+r;8612206;77864;122400;11;163
+r;8613176;77864;125172;11;163
+r;8639957;77864;182342;11;163
+r;8735357;77864;267426;11;163
+r;8735834;77864;267906;11;163
+r;8759568;77864;291758;11;163
+r;8774936;77864;309087;11;163
+r;1814947;77864;155455;11;164
+r;8777938;77864;311823;11;164
+r;8777944;77864;311829;11;164
+r;8777946;77864;311830;11;164
+r;8573878;77864;11786;11;165
+r;8667222;77864;199758;11;165
+r;8667224;77864;199759;11;165
+r;8570617;77864;1896;11;169

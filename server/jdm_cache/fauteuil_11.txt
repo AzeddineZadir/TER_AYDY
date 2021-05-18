@@ -1,0 +1,218 @@
+
+e;4533;'fauteuil';1;1516
+e;6345687;'prise en charge pour fauteuil roulant';1;0
+e;13550172;'championnats du monde d'escrime en fauteuil roulant 2006';777;0
+e;6287241;'utilisateur de fauteuil roulant';1;0
+e;14564134;'fauteuil relax';777;0
+e;16510080;'fauteuil Oeuf';777;0
+e;6325124;'dépendance envers un fauteuil roulant';1;0
+e;6302243;'chute d'un fauteuil roulant';1;0
+e;6396893;'confinement en fauteuil';1;0
+e;6397559;'fauteuil roulant motorisé';1;0
+e;14536240;'fauteuil de maire';1;6
+e;14718943;'linguistique de fauteuil';1;2
+e;14734015;'fauteuil scandinave';1;0
+e;16087307;'handicapé en fauteuil';1;10
+e;10621622;'Élite 1 XIII fauteuil';777;0
+e;10621621;'Championnat de France de rugby à XIII en fauteuil roulant';777;0
+e;6088649;'détective en fauteuil';777;0
+e;10621606;'Équipe de France de rugby à XIII en fauteuil roulant';777;0
+e;9963005;'Un fauteuil pour deux';777;0
+e;15370721;'en fauteuil roulant';1;2
+e;10578977;'rugby à XIII en fauteuil roulant';777;0
+e;10578972;'football australien en fauteuil roulant';777;0
+e;10578971;'danse en fauteuil roulant';777;0
+e;10578942;'Tennis en fauteuil roulant aux Jeux paralympiques d'été de 2016';777;0
+e;16087313;'en fauteuil';1;8
+e;14109294;'championnat de France de basket-ball en fauteuil roulant de Nationale A 2019-2020';777;0
+e;15494380;'arriver dans un fauteuil';1;0
+e;10928906;'tennis en fauteuil roulant des Jeux paralympiques d'été de 2012';777;0
+e;14476047;'Rugby-fauteuil';1;0
+e;15494373;'affalé dans un fauteuil';1;0
+e;10831845;'foot fauteuil';777;0
+e;10929878;'tennis en fauteuil roulant des Jeux paralympiques d'été de 2016';777;0
+e;10929873;'tournoi paralympique féminin 2016 de basket-ball en fauteuil roulant';777;0
+e;10929872;'tournoi paralympique masculin 2016 de basket-ball en fauteuil roulant';777;0
+e;12078971;'fauteuil coquille';1;0
+e;10903890;'championnat de France de basket-ball en fauteuil roulant de Nationale A 2016-2017';777;0
+e;5710525;'1er fauteuil de l'Académie française';777;0
+e;5686240;'41e fauteuil';777;0
+e;5896808;'fauteuil inclinable';777;0
+e;5896747;'fauteuil à la Reine';777;0
+e;10928896;'basket-ball en fauteuil roulant des Jeux paralympiques d'été de 2012';777;0
+e;10935172;'championnat d'Europe de basket-ball en fauteuil roulant';777;0
+e;11155173;'fauteuil monte escalier';777;0
+e;10929871;'basket-ball en fauteuil roulant des Jeux paralympiques d'été de 2016';777;0
+e;11361649;'championnat du monde de basket-ball en fauteuil roulant 2014';777;0
+e;5896762;'fauteuil Barcelona';777;0
+e;8734220;'se faire les griffes sur le fauteuil';1;0
+e;9804071;'fauteuil capitonné';1;0
+e;10437520;'championnat de France de basket-ball en fauteuil roulant';777;0
+e;10437512;'Coupe d'Europe des clubs de basket-ball en fauteuil roulant 2009';777;0
+e;10437519;'Championnat de France de basket-ball en fauteuil roulant de Nationale A 2016-2017';777;0
+e;10444647;'Coupe d'Europe des clubs de basket-ball en fauteuil roulant';777;0
+e;10444646;'Coupe d'Europe des clubs de basket-ball en fauteuil roulant 2017';777;0
+e;10621966;'Championnat d'Europe de basket-ball en fauteuil roulant féminin 2015';777;0
+e;10621964;'Championnat d'Europe de basket-ball en fauteuil roulant masculin 2015';777;0
+e;11118677;'Championnat d'Allemagne de basket-ball en fauteuil roulant';777;0
+e;11362475;'Coupe d'Europe des clubs de basket-ball en fauteuil roulant 2013';777;0
+e;11361636;'Coupe d'Europe des clubs de basket-ball en fauteuil roulant 2014';777;0
+e;12731177;'fauteuil 37';1;0
+e;14097068;'Coupe de France de basket-ball en fauteuil roulant 2019';777;0
+e;14097062;'Championnat de France de basket-ball en fauteuil roulant de Nationale A 2019-2020';777;0
+e;14097069;'Coupe de France de basket-ball en fauteuil roulant';777;0
+e;15308937;'Fred paressait dans un fauteuil relax.';1;0
+e;1763351;'le fauteuil';777;0
+e;353559;'fauteuil ministériel';1;50
+e;353563;'fauteuil vide';1;50
+e;353562;'fauteuil sénatorial';1;50
+e;353557;'fauteuil en paille';1;50
+e;353556;'fauteuil doré';1;50
+e;348190;'dossier de fauteuil';1;50
+e;353553;'fauteuil de direction';1;50
+e;345328;'croisillon de fauteuil';1;50
+e;353561;'fauteuil présidentiel';1;50
+e;353560;'fauteuil métallique';1;50
+e;346536;'dans un fauteuil roulant';1;50
+e;353564;'fauteuil volant';1;50
+e;353558;'fauteuil gériatrique';1;50
+e;353554;'fauteuil de président';1;50
+e;353567;'fauteuil pivotant';1;50
+e;353566;'fauteuil à oreilles';1;50
+e;353565;'fauteuil à capitons';1;50
+e;353555;'fauteuil de velours';1;50
+e;353552;'fauteuil de directeur';1;50
+e;353551;'fauteuil bas';1;50
+e;105858;'fauteuil-lit';1;50
+e;325051;'rugby-fauteuil';1;50
+e;317040;'fauteuil de dentiste';1;50
+e;255982;'fauteuil en osier';1;4
+e;256007;'fauteuil Emmanuelle';1;50
+e;256018;'fauteuil en rotin';1;50
+e;164771;'petit fauteuil';1;54
+e;263705;'fauteuil dentaire';1;50
+e;154267;'fauteuil roulant';1;88
+e;154578;'fauteuil de jardin';1;50
+e;154581;'fauteuil électrique';1;50
+e;179677;'basket-ball en fauteuil roulant';1;50
+e;179680;'escrime en fauteuil roulant';1;50
+e;179687;'tennis en fauteuil roulant';1;50
+e;182409;'fauteuil à voile';1;50
+e;184151;'rugby en fauteuil roulant';1;50
+e;187525;'bras de fauteuil';1;50
+e;280482;'basket fauteuil';777;50
+e;137268;'fauteuil d'orchestre';1;50
+e;200810;'fauteuil club';1;52
+e;164314;'fauteuil de cuir';1;50
+e;59298;'dans un fauteuil';1;52
+e;155474;'fauteuil crapaud';1;50
+e;154580;'fauteuil à bascule';1;56
+e;154579;'fauteuil pliant';1;52
+r;301555177;4533;6345687;11;25
+r;343512790;4533;13550172;11;25
+r;349206528;4533;6287241;11;25
+r;370204775;4533;14564134;11;25
+r;434255216;4533;16510080;11;25
+r;399481798;4533;6325124;11;25
+r;299321620;4533;6302243;11;26
+r;305024519;4533;6396893;11;26
+r;305051457;4533;6397559;11;26
+r;368763293;4533;14536240;11;26
+r;374237685;4533;14718943;11;26
+r;374612616;4533;14734015;11;26
+r;419479162;4533;16087307;11;26
+r;267340179;4533;10621622;11;27
+r;267340191;4533;10621621;11;27
+r;119664312;4533;6088649;11;28
+r;267340357;4533;10621606;11;28
+r;221148233;4533;9963005;11;30
+r;419839544;4533;15370721;11;30
+r;263702866;4533;10578977;11;31
+r;263702883;4533;10578972;11;31
+r;263702890;4533;10578971;11;31
+r;263703082;4533;10578942;11;32
+r;419479227;4533;16087313;11;32
+r;419697888;4533;14109294;11;32
+r;419607946;4533;15494380;11;33
+r;274966400;4533;10928906;11;34
+r;419536739;4533;14476047;11;34
+r;419579501;4533;15494373;11;34
+r;270761864;4533;10831845;11;35
+r;274961708;4533;10929878;11;35
+r;274961779;4533;10929873;11;35
+r;274961793;4533;10929872;11;35
+r;315120485;4533;12078971;11;35
+r;274293279;4533;10903890;11;38
+r;112178440;4533;5710525;11;39
+r;112197124;4533;5686240;11;39
+r;115109113;4533;5896808;11;40
+r;115109420;4533;5896747;11;42
+r;274966521;4533;10928896;11;42
+r;275366697;4533;10935172;11;42
+r;283660705;4533;11155173;11;42
+r;274961799;4533;10929871;11;43
+r;291988830;4533;11361649;11;43
+r;115109358;4533;5896762;11;44
+r;169732559;4533;8734220;11;50
+r;218706090;4533;9804071;11;50
+r;256289009;4533;10437520;11;50
+r;256289057;4533;10437512;11;50
+r;256289021;4533;10437519;11;50
+r;258727946;4533;10444647;11;50
+r;258727958;4533;10444646;11;50
+r;267338355;4533;10621966;11;50
+r;267338378;4533;10621964;11;50
+r;282252457;4533;11118677;11;50
+r;291987900;4533;11362475;11;50
+r;291988884;4533;11361636;11;50
+r;327320739;4533;12731177;11;50
+r;357023789;4533;14097068;11;50
+r;357036754;4533;14097062;11;50
+r;395018362;4533;14097069;11;50
+r;399663811;4533;15308937;11;50
+r;28976509;4533;1763351;11;56
+r;12688993;4533;353559;11;101
+r;12688977;4533;353563;11;102
+r;12688981;4533;353562;11;102
+r;12689001;4533;353557;11;102
+r;12689005;4533;353556;11;102
+r;12710545;4533;348190;11;103
+r;12689017;4533;353553;11;104
+r;12723139;4533;345328;11;105
+r;12688985;4533;353561;11;107
+r;12688989;4533;353560;11;107
+r;12717427;4533;346536;11;107
+r;12688973;4533;353564;11;108
+r;12688997;4533;353558;11;108
+r;12689013;4533;353554;11;108
+r;12688961;4533;353567;11;109
+r;12688965;4533;353566;11;109
+r;12688969;4533;353565;11;110
+r;12689009;4533;353555;11;110
+r;12689021;4533;353552;11;110
+r;12689025;4533;353551;11;110
+r;11862818;4533;105858;11;122
+r;11846246;4533;325051;11;124
+r;8921305;4533;317040;11;151
+r;8720557;4533;255982;11;161
+r;8720589;4533;256007;11;161
+r;8720603;4533;256018;11;161
+r;8629246;4533;164771;11;162
+r;8731007;4533;263705;11;162
+r;8623845;4533;154267;11;163
+r;8624007;4533;154578;11;163
+r;8624011;4533;154581;11;163
+r;8636182;4533;179677;11;163
+r;8636185;4533;179680;11;163
+r;8636188;4533;179687;11;163
+r;8640082;4533;182409;11;163
+r;8643010;4533;184151;11;163
+r;8648522;4533;187525;11;163
+r;8747889;4533;280482;11;163
+r;8617803;4533;137268;11;164
+r;8669283;4533;200810;11;165
+r;395345;4533;164314;11;183
+r;386948;4533;59298;11;188
+r;189063;4533;155474;11;189
+r;395346;4533;154580;11;189
+r;395347;4533;154579;11;189

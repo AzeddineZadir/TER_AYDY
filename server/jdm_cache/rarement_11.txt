@@ -1,0 +1,20 @@
+
+e;123543;'rarement';1;190
+e;14655885;'plus rarement';1;0
+e;6299006;'diffus à petites cellules clivées ou rarement diffus mixte nodulaire ou à grandes cellules stade 4';1;0
+e;6346183;'diffus à petites cellules clivées ou rarement diffus mixte nodulaire ou à grandes cellules clivées';1;0
+e;15389061;'On laisse rarement entrer les journalistes dans cette région.';1;0
+e;16156722;'Plus rarement utilisés';777;0
+e;15274036;'La permanence de la gare est rarement assurée dans la soirée.';1;0
+e;15274032;'Il pleut rarement là-bas.';1;0
+e;15274034;'Il hausse rarement le ton.';1;0
+e;4315004;'très rarement';1;0
+r;372658173;123543;14655885;11;25
+r;299067740;123543;6299006;11;27
+r;301561070;123543;6346183;11;27
+r;419518639;123543;15389061;11;34
+r;423887364;123543;16156722;11;34
+r;417032629;123543;15274036;11;44
+r;402108944;123543;15274032;11;50
+r;402107220;123543;15274034;11;50
+r;98029135;123543;4315004;11;53

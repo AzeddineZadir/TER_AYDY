@@ -1,0 +1,14 @@
+
+e;26673;'accueillant';1;146
+e;15294331;'accueillant chaleureusement';1;0
+e;15294334;'accueillant de nouveau';1;0
+e;15321497;'accueillant les animaux domestiques';1;0
+e;10193367;'Les Confidences érotiques d'un lit trop accueillant';777;0
+e;11175371;'liste des gares françaises accueillant plus d'un million de voyageurs par an';777;0
+e;136747;'pas accueillant';1;50
+r;419570934;26673;15294331;11;25
+r;419570938;26673;15294334;11;25
+r;419570942;26673;15321497;11;25
+r;243208610;26673;10193367;11;38
+r;286037385;26673;11175371;11;42
+r;8617362;26673;136747;11;163

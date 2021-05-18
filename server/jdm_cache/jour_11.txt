@@ -1,0 +1,1465 @@
+
+e;88543;'jour';1;4440
+e;62822;'jours sereins';1;50
+e;98339;'jours fastes';1;50
+e;202408;'jours heureux';1;50
+e;6304475;'soins de relève du patient pendant un jour férié';1;0
+e;6317231;'soins de jour donnés dans les établissements';1;0
+e;6338063;'soins psychiatriques quotidiens de jour';1;0
+e;6355601;'vision de jour';1;0
+e;6395328;'unité de chirurgie d'un jour d'un hôpital';1;0
+e;11840183;'jour-amende';777;0
+e;12172425;'mesure de nombre de cigarettes fumées / jour';1;0
+e;13541990;'jour-clé';1;0
+e;13549969;'La Rivière du sixième jour';777;0
+e;13594678;'Le 6e jour';777;0
+e;6303140;'lis d'un jour';1;0
+e;14033276;'baptistes du septième jour';777;0
+e;14159852;'être le jour et la nuit';1;0
+e;14250564;'en l'espace d'un jour';1;0
+e;14434550;'s'applique sur le jour de la semaine';1;0
+e;14452496;'mesure d'activité de jour';1;0
+e;14452791;'assignation à jour fixe';1;0
+e;14491501;'cueille le jour';777;0
+e;14530903;'Moralité pour le jour Saint Antoine';777;0
+e;14549155;'à ce jour';1;0
+e;14549209;'pas à jour';1;0
+e;14581863;'jour du Cordeau';777;0
+e;14585746;'deux extrémités du jour';777;0
+e;14586121;'jour de l'Asperge';777;0
+e;14589095;'jour du persil';777;0
+e;14612045;'comprimés par jour';1;0
+e;14635591;'un jour aussi chaud';1;0
+e;14635590;'un jour aussi froid';1;0
+e;14652992;'avaleresses Point du jour';777;0
+e;14652993;'les avaleresses Point du jour';777;0
+e;14725396;'crème de jour anti U.V';1;0
+e;14752048;'jour du Cerfeuil';777;0
+e;14883884;'Premier jour';777;0
+e;14883887;'Quatrième jour';777;0
+e;14883889;'Sixième jour';777;0
+e;14883886;'Troisième jour';777;0
+e;14884163;'enveloppes premier jour';777;0
+e;15392486;'on recense à ce jour ...';1;0
+e;15440908;'remis au goût du jour';1;0
+e;6327565;'intoxication par le lis d'un jour';1;0
+e;16154828;'jour du Platane';777;0
+e;16317107;'jour de la Pâquerette';777;0
+e;16573033;'Le jour revenu';777;0
+e;6365466;'clinique indépendante de chirurgie d'un jour';1;0
+e;6366050;'soins généraux de jour à un adulte';1;0
+e;12979904;'jour important';1;0
+e;14486329;'apparaître sous son meilleur jour';1;0
+e;14510842;'prendre un plat du jour';1;18
+e;14537173;'jour à marquer d'une pierre blanche';1;0
+e;14585125;'date du jour';1;8
+e;14629319;'prendre le plat du jour';1;18
+e;14635314;'scout un jour, scout toujours';1;0
+e;14727847;'se tromper de jour';1;0
+e;14760943;'L'alouette chanta le jour';777;0
+e;14874933;'remettre au goût du jour';1;2
+e;16165591;'jour qui tombe plus tôt';1;0
+e;202409;'jours maigres';1;50
+e;10672936;'Le jour se lève et les conneries commencent';777;0
+e;10664544;'Un jour dans la vie de Billy Lynn';777;0
+e;60770;'de nos jours';1;52
+e;5798487;'Cinq par jour';777;0
+e;6089116;'Tant que brillera le jour';777;0
+e;6375902;'lys d'un jour';1;0
+e;10617844;'Un jour en France';777;0
+e;10873177;'course d'un jour';777;0
+e;11774904;'1 000 francs par jour';777;0
+e;11774903;'100 000 francs par jour';777;0
+e;12101801;'nombre de cigarettes fumées / jour';1;0
+e;6100920;'Un jour tu verras';777;0
+e;11775318;'À ce jour et à cause de la crise économique ce projet est abandonné';777;0
+e;16091947;'de-jour';1;0
+e;16152684;'donner le jour à quelqu'un';1;0
+e;5815078;'jour sidéral';777;0
+e;9962269;'Un jour à la fois';777;0
+e;9963209;'réveillon du jour de l'An';777;0
+e;10601014;'Deux jours avant le jour après demain';777;0
+e;10600314;'Notre jour viendra';777;0
+e;10909554;'jour mondial de la radio';777;0
+e;10914414;'Courses d'un jour';777;0
+e;15376211;'cours du jour';1;0
+e;16042885;'d'un jour';1;0
+e;15417388;'d'un jour à l'autre';1;0
+e;15417392;'dans la journée de + [jour de la semaine]';1;0
+e;16032493;'dans un mauvais jour';1;0
+e;15528523;'daté de ce jour';1;0
+e;15417393;'daté du + [jour]';1;0
+e;15398619;'de jour et de nuit';1;0
+e;15531930;'de toutes les fois, de toutes les époques, de l'histoire, à ce jour';1;0
+e;15522604;'degré-jour-unifié';1;0
+e;15385695;'depuis ce jour';1;0
+e;15195801;'depuis le premier jour';1;0
+e;15582348;'depuis le tout premier jour';1;0
+e;15473957;'devenir célèbre du jour au lendemain';1;0
+e;15282478;'diffuser l'ordre du jour';1;0
+e;16032177;'donner jour à';1;0
+e;15417401;'donner le jour à [qqn]';1;0
+e;15275737;'dresser l'ordre du jour';1;0
+e;15345021;'drôle de jour';1;0
+e;15319747;'du jour où';1;0
+e;15384607;'du premier jusqu'au dernier jour';1;0
+e;15541405;'dès avant ce jour';1;0
+e;15417400;'dévoiler [qch] au grand jour';1;0
+e;15663520;'dévoiler quelque chose au grand jour';1;0
+e;15541403;'en ce jour';1;0
+e;15541401;'en ce jour même';1;0
+e;15541407;'en date de ce jour';1;0
+e;15224041;'en valeur jour';1;0
+e;16103012;'en ce jour que Dieu soit Un et que Son Nom soit Un';777;0
+e;16367152;'coûts de mise à jour';1;0
+e;16367154;'coût de mise à jour';1;0
+e;6282903;'Les Hommes du jour';777;0
+e;9968274;'Quand le jour viendra';777;0
+e;9985085;'Nuit et jour';777;0
+e;9981770;'Un jour une bergère';777;0
+e;9980276;'être son jour';1;0
+e;9979462;'se terminer un jour';1;0
+e;10003816;'Et vint le jour de la vengeance';777;0
+e;9997673;'La Fin du jour';777;0
+e;9994570;'Un jour sur Terre';777;0
+e;10577500;'Le Neuvième jour';777;0
+e;10577372;'Revenir un jour';777;0
+e;10970771;'jour de la République';777;0
+e;11056042;'Un jour dans le monde';777;0
+e;15399136;'citation à l'ordre du jour';1;0
+e;15266196;'clarté du jour';1;0
+e;15502360;'commande de mise à jour';1;0
+e;15582882;'commencer à faire jour';1;0
+e;15492689;'commencé à faire jour';1;0
+e;15355097;'conduite de jour';1;0
+e;16336460;'c'est un jour comme les autres';1;0
+e;16390427;'centre d'accueil de jour pour les personnes âgées';1;0
+e;5908106;'papillons de jour';777;0
+e;10014817;'Le Témoin du troisième jour';777;0
+e;10008660;'Miss Pettigrew et le jour de sa vie';777;0
+e;10579608;'merci d'attendre la fin des matchs pour mettre à jour l'article';777;0
+e;10734018;'Livre pour sortir au jour';777;0
+e;10917157;'jour de l'Armistice';777;0
+e;10917156;'jour du souvenir';777;0
+e;11065602;'neuvième jour du mois d'av';777;0
+e;11801169;'jour de l'armée et de la marine de l'Union soviétique';777;0
+e;11806315;'jour de la démocratie';777;0
+e;5812321;'degré-jour';1;0
+e;15331191;'au jour dit';1;0
+e;15532558;'au jour tombant';1;0
+e;15363183;'au lever du jour';1;0
+e;15486848;'au point du jour';1;0
+e;15411189;'aux premières lueurs du jour';1;0
+e;15253231;'baril par jour';1;0
+e;15210000;'beau jour de mars';1;0
+e;15576066;'beau jour de novembre';1;0
+e;15389289;'belle comme le jour';1;0
+e;15544040;'c'est le grand jour';1;0
+e;15366973;'c'est le jour de relâche';1;0
+e;15417378;'c'est le jour et la nuit';1;0
+e;16029421;'c'est pas mon jour';1;0
+e;15544042;'c'est un grand jour';1;0
+e;15289430;'ce jour particulier';1;0
+e;15482760;'chanson remise au goût du jour';1;0
+e;15417382;'chaque jour apporte son lot de mauvaises nouvelles';1;0
+e;15417385;'chaque jour davantage';1;0
+e;16041562;'chaque jour du bon Dieu';1;0
+e;15497956;'chaque jour ou presque';1;0
+e;15497959;'chaque jour que Dieu fait';1;0
+e;5873438;'poussin d'un jour';777;0
+e;10036695;'Un jour au cirque';777;0
+e;10942554;'jour des forces armées';777;0
+e;11065603;'quinzième jour du mois d'av';777;0
+e;11065592;'dixième jour du mois de tevet';777;0
+e;11065562;'second jour férié - des communautés juives - en diaspora';777;0
+e;11079986;'ont vu le jour au cours de l'ère napoléonienne';777;0
+e;11783875;'jour de la rétrocession';777;0
+e;11801168;'jour du défenseur de la patrie';777;0
+e;11801170;'jour de l'Armée rouge';777;0
+e;16340414;'Une rémunération dès le premier jour du stage de plus de 2 mois';777;0
+e;209489;'un de ces jours';1;50
+e;5955372;'Le jour de gloire';777;0
+e;5953111;'La Grande Dame d'un jour';777;0
+e;10747139;'Comment claquer un Million de dollars par jour';777;0
+e;10865498;'Chaque jour est une fête';777;0
+e;11080912;'faits du jour';777;0
+e;11825437;'Et demain viendra le jour';777;0
+e;12079525;'jour de l'An';1;0
+e;16160213;'Le jour de la fin du monde';777;0
+e;15471433;'On est quel jour ?';1;0
+e;15523572;'On n'est pas à un jour près.';1;0
+e;15332042;'On voyait la lumière du jour à travers les rideaux.';1;0
+e;15771656;'Quel jour sommes-nous ?';1;0
+e;15328148;'Quelle est la suggestion du jour ?';1;0
+e;15433030;'Rome ne s'est pas construite en un jour';1;0
+e;15208783;'Rome ne s'est pas faite en un seul jour';1;0
+e;15778679;'Tableau des actionnaires mis à jour le 16 avril 2020';777;0
+e;15417405;'[jour de la semaine] en huit';1;0
+e;15417407;'[jour de la semaine] en quinze';1;0
+e;15417370;'[jour] après-midi';1;0
+e;15436768;'[jour] matin';1;0
+e;15446491;'[jour] midi';1;0
+e;15198504;'abat jour';1;0
+e;15390307;'ampoule à lumière du jour';1;0
+e;16166915;'Pâques est célébré le dimanche qui suit le quatorzième jour de la lune qui atteint cet âge au 21 mars ou immédiatement après';777;0
+e;1829865;'centre de jour';1;0
+e;5894073;'Outside. Papiers d'un jour';777;0
+e;5923259;'Vidéo du jour';777;0
+e;5923258;'Article du jour';777;0
+e;10252104;'jour des morts';777;0
+e;10558883;'L'Ordre du jour';777;0
+e;10930336;'neuvième et dernier jour';777;0
+e;10930335;'huitième et avant-dernier jour';777;0
+e;10930334;'septième et antépénultième jour';777;0
+e;10934090;'1er jour';777;0
+e;11831059;'algorithme de jour du Jugement dernier';777;0
+e;12079984;'modèle de mise à jour';1;0
+e;12079526;'jour de l'illet';1;0
+e;12078997;'feux de circulation de jour';1;0
+e;12078685;'effacement jour de pointe';1;0
+e;12078302;'créneau de jour';1;0
+e;14564107;'Nombre de nouveaux décès de COVID-19 recensés par jour en Italie';777;0
+e;14564105;'Nombre de nouveaux cas de COVID-19 recensés par jour en Italie';777;0
+e;15639902;'Violence en plein jour';777;0
+e;15550272;'Ma montre perd cinq minutes par jour.';1;0
+e;16073550;'Mesure d'activité de jour';1;0
+e;16318253;'L'Ordre du jour d'Éric Vuillard';777;0
+e;2391550;'sous un nouveau jour';1;0
+e;5895102;'jour de l'année du calendrier grégorien';1;0
+e;5940971;'Le Point du jour';777;0
+e;5982262;'Le Souvenir de ce jour';777;0
+e;10044970;'L'Aube du dernier jour';777;0
+e;10044111;'Milliardaire pour un jour';777;0
+e;11100489;'longueur du jour';777;0
+e;12051316;'communiquer des informations au personnel à propos des menus du jour';1;0
+e;12081489;'tenue à jour';1;0
+e;15544038;'Le grand jour est enfin là';1;0
+e;15516407;'dépôt au jour le jour';1;0
+e;2381165;'demain est un autre jour';1;0
+e;5811930;'degrés jour unifiés';777;0
+e;5809164;'Un jour un chat';777;0
+e;5895103;'jour de l'année';1;0
+e;10749527;'huitième jour';777;0
+e;10749521;'deuxième jour';777;0
+e;10855099;'seizième jour';777;0
+e;10855098;'quinzième jour';777;0
+e;10855097;'quatorzième jour';777;0
+e;10855096;'treizième jour';777;0
+e;10855095;'douzième jour';777;0
+e;10855094;'onzième jour';777;0
+e;10855093;'dixième jour';777;0
+e;10855092;'neuvième jour';777;0
+e;11100488;'durée du jour';777;6
+e;11832503;'jour du dépassement de la Terre';777;0
+e;12050928;'tenir à jour ses connaissances professionnelles';1;0
+e;16321152;'Dernière mise à jour le 23 janvier 2013';777;0
+e;2402822;'jour de triomphe';1;0
+e;2449811;'jour de peine';1;0
+e;5675050;'À l'aube du sixième jour';777;0
+e;5968386;'d'un jour ouvrable au suivant';777;0
+e;6012891;'À l'aube du dernier jour';777;0
+e;10061439;'Le jour où la Terre s'arrêta';777;0
+e;10058419;'Président d'un jour';777;0
+e;10749526;'septième jour';777;0
+e;10749525;'sixième jour';777;0
+e;10749524;'cinquième jour';777;0
+e;10749523;'quatrième jour';777;0
+e;10749522;'troisième jour';777;0
+e;10749520;'premier jour';777;0
+e;10777536;'jour de la Constitution';777;0
+e;10918049;'dix-neuvième jour';777;0
+e;10918048;'dix-huitième jour';777;0
+e;11237245;'jour de l'année du calendrier républicain';1;0
+e;11363699;'jour d'Arafat';777;0
+e;12052474;'tenir à jour un inventaire de fournitures de bureau';1;0
+e;233007;'Jour de la Terre';1;50
+e;2385758;'jour de grâce';1;0
+e;2435559;'ne pas être son jour';1;0
+e;2457402;'jour de peines';1;0
+e;7809347;'premier jour de mai';1;0
+e;10050106;'Les Vestiges du jour';777;0
+e;10188706;'Un jour d'été';777;0
+e;10348000;'Dernière mise à jour le 16 janvier 2013';777;0
+e;10385990;'courses d'un jour';777;0
+e;10754007;'Demain est un autre jour';777;0
+e;11065601;'dix-septième jour du mois de tammouz';777;0
+e;12369051;'jour de Zamenhof';777;0
+e;13406159;'degré jour de croissance';777;0
+e;16156003;'Date de dernière mise à jour';777;0
+e;6100859;'Les différentes lois ci-dessous sont à jour au 12 avril 2009';777;0
+e;9950274;'Un jour à New York';777;0
+e;10190486;'Chaque jour à son secret';777;0
+e;10189287;'Reines d'un jour';777;0
+e;10189140;'jour du Roi';777;0
+e;11250815;'système médical de l'Église adventiste du septième jour';777;0
+e;11250814;'système d'éducation de l'Église adventiste du septième jour';777;0
+e;11302844;'incubation à froid 1 jour';1;0
+e;11334824;'ordre du jour Grandi';777;0
+e;11554950;'jour de la Liberté';777;0
+e;12053199;'date de dernière mise à jour';1;0
+e;4225290;'donne-jour';1;0
+e;10132429;'Long Voyage du jour à la nuit';777;0
+e;10424030;'Un jour aux courses';777;0
+e;11218912;'Brigade du jour promis';777;0
+e;10185610;'Quai du Point du jour';777;0
+e;10185602;'L'Homme du jour';777;0
+e;10498642;'Un jour dans la vie';777;0
+e;10513082;'le sixième jour';777;0
+e;11008551;'mise à jour du système d'exploitation Mac OS X';1;0
+e;11253889;'jour de départ en vacances';1;0
+e;11384233;'jour du double sept';777;0
+e;15516409;'argent au jour le jour';1;0
+e;2384905;'vivre au jour la journée';1;0
+e;2400073;'au premier jour';1;0
+e;2404946;'vulnérabilité jour zéro';1;0
+e;10181605;'Une femme par jour';777;0
+e;10855101;'dix-huitième et dernier jour';777;0
+e;10855100;'dix-septième jour';777;0
+e;11008552;'mise à jour du système d'exploitation';1;0
+e;11161671;'jour de combat';1;0
+e;13301313;'degré jour unifié';777;0
+e;10071589;'mis au goût du jour';1;0
+e;10141853;'Dans la douceur du jour';777;0
+e;10162376;'Un jour mon prince viendra';777;0
+e;10160001;'La Barricade du point du jour';777;0
+e;11160023;'5e jour complémentaire';777;0
+e;11160022;'4e jour complémentaire';777;0
+e;11160020;'3e jour complémentaire';777;0
+e;11160019;'2e jour complémentaire';777;0
+e;11254148;'jour déclinant';1;0
+e;10145152;'Duos d'un jour';777;0
+e;11160024;'6e jour complémentaire';777;0
+e;11160018;'1er jour complémentaire';777;0
+e;5557386;'Un autre jour au paradis';777;0
+e;10436665;'Chaque jour est un long chemin';777;0
+e;5944500;'Héritière d'un jour';777;0
+e;12080297;'opérateur au jour le jour';1;0
+e;12772109;'jour de naissance';1;0
+e;5516374;'arcature à jour';1;0
+e;14581226;'Heures de lumière du jour';777;0
+e;1823968;'syndrome du troisième jour';1;0
+e;3730962;'Contre-jour';777;0
+e;5517666;'jour de festin traditionnel';1;0
+e;5798794;'L'Homme du cinquième jour de Jean-Philippe Arrou-Vignod';777;0
+e;15497153;'C'était le plus beau jour de ma vie.';1;0
+e;9104712;'jour sans';1;0
+e;9161221;'alternance jour nuit';1;0
+e;9576066;'Ces liens ont été visités le 5 avril 2007. Mettre à jour où possible';777;0
+e;10136389;'Ça se discute jour après jour';777;0
+e;10749528;'huitième jour et dernier jour';777;0
+e;10847627;'L'Amour au jour le jour';777;0
+e;11129662;'jour de la mer';777;0
+e;11131732;'liste de personnalités mortes le jour de leur anniversaire';777;0
+e;12247290;'Un jour comme un autre';777;0
+e;12484501;'L'Évangile du jour';777;0
+e;12686784;'jour du salsifis';1;0
+e;14365403;'Faux jour';777;0
+e;14758717;'Dernière mise à jour le 10 décembre 2009';777;0
+e;15398625;'Elle travaille nuit et jour.';1;0
+e;15317361;'Faites ces exercices religieusement chaque jour.';1;0
+e;15417421;'Faisant suite à votre appel de ce jour';1;0
+e;15253977;'Faites de ce jour, un jour merveilleux';1;0
+e;15775439;'Elle marche cinq kilomètres par jour.';1;0
+e;14883885;'Deuxième jour';777;0
+e;14883888;'Cinquième jour';777;0
+e;15480924;'J'imagine que les magasins sont fermés le jour de Noël, non?';1;0
+e;15203313;'3 par jour';1;0
+e;15201911;'A ce jour';1;0
+e;15307807;'Après-demain est un jour férié.';1;0
+e;15326212;'Ce n'est pas mon jour !';1;0
+e;15017461;'Dernière mise à jour le 10 février 2016';777;0
+e;15586923;'Je viendrai un autre jour.';1;0
+e;15684077;'Dernière mise à jour le 3 septembre 2014';777;0
+e;15696770;'Dernière mise à jour le 23 mai 2011';777;0
+e;14529211;'L'Éternité plus un jour de Georges-Emmanuel Clancier';777;0
+e;16072167;'Assignation à jour fixe';1;0
+e;1781291;'de notre jour';1;0
+e;2301728;'un jour que';1;0
+e;2361559;'jour naturel';1;0
+e;5517667;'jour de festin';1;0
+e;1654754;'jour-de-souffrance';1;0
+e;2024593;'bonheurs-du-jour';2;0
+e;2537724;'grand paon du jour';1;0
+e;2603890;'cela ne sert à rien de devenir un jour l'homme le plus riche du cimetière';1;0
+e;3865697;'ordres du jour';1;0
+e;4894643;'jour de la remise des prix';1;0
+e;5126306;'service de jour';1;0
+e;4337074;'Un jour, peut-être';1;0
+e;2540616;'à la fin du jour';1;0
+e;2484432;'remettre au jour';1;0
+e;2600184;'Paris ne s'est pas fait en un jour';1;0
+e;3304498;'Du jour au lendemain';777;0
+e;3442369;'Au jour le jour';777;0
+e;1781633;'tout le jour';1;0
+e;2217821;'le jour où';1;0
+e;2492920;'second jour';1;0
+e;2765770;'tomber du jour';1;0
+e;3260099;'jour du dépassement';1;0
+e;3311649;'Un beau jour';777;0
+e;3341068;'jour du jugement';1;0
+e;4059325;'poste de jour';1;0
+e;567673;'jour julien';777;50
+e;589319;'jour du Plantoir';777;0
+e;2586429;'jour de la cochléaire';777;0
+e;2886290;'Mise à jour';777;0
+e;3182024;'à la lumière du jour';1;0
+e;3336848;'Église adventiste du septième jour';777;0
+e;3408866;'Un jour sans lendemain';777;0
+e;2301727;'un jour qu'';2;0
+e;2552196;'jour des Rois';1;0
+e;2521437;'ni jour ni nuit';1;0
+e;2499271;'jour de récupération';1;0
+e;2579020;'Rome ne s'est pas faite en un jour';1;0
+e;3169715;'Jour après jour';777;0
+e;3343432;'Un jour';777;0
+e;5387803;'5 fruits et légumes par jour';1;0
+e;570487;'jour du Mélèze';777;50
+e;574692;'jour du Cochléaire';777;50
+e;592514;'jour de la Jonquille';777;0
+e;645650;'jour du couvoir';777;0
+e;2600696;'jour de l'indépendance';1;0
+e;2928916;'jour-là';1;0
+e;3698935;'un jour sur deux';1;0
+e;2339800;'le jour que';1;0
+e;2340550;'jour-nuit';1;0
+e;2531786;'adventiste du septième jour';1;0
+e;2581203;'au jour du jour d'aujourd'hui';1;0
+e;3260100;'jour du dépassement global';777;0
+e;3315161;'Le jour des boîtes';777;0
+e;3442756;'Le jour de l'indépendance';777;0
+e;4340157;'Les Vampires sont des morts qui prennent la forme d'humain le jour et la nuit sont des prédateurs redoutable';777;0
+e;968867;'jour de la Romaine';777;0
+e;1805773;'jour-homme';1;0
+e;2010014;'belles-de-jour';2;0
+e;2544862;'jour chez soi';1;0
+e;6528361;'feux de jour';777;0
+e;1815228;'C'est pas mon jour';777;0
+e;1909289;'percé à jour';1;0
+e;2937423;'Les Vampires sont des morts qui prennent la forme d'humain le jour et la nuit sont des préteur redoutable';777;0
+e;1845643;'syndrome dépressif du troisième jour';1;0
+e;380543;'soupe du jour';1;50
+e;371519;'poisson du jour';1;50
+e;368466;'par jour et par personne';1;50
+e;360398;'jour faste';1;50
+e;360308;'jour simple';1;50
+e;360306;'jour noir';1;50
+e;360301;'jour de travail';1;52
+e;360299;'jour de promenade';1;50
+e;360280;'jour chargé';1;50
+e;360279;'jour calendaire';1;50
+e;357775;'heureux du jour';1;50
+e;357716;'heure de jour';1;50
+e;346509;'dans un bon jour';1;50
+e;342110;'ce jour-là';1;50
+e;342109;'ce jour là';1;50
+e;388502;'à la chute du jour';1;50
+e;361078;'le jour même de';1;50
+e;361077;'le jour et la nuit avec';1;50
+e;361075;'le jour de l'anniversaire de';1;50
+e;360402;'jour pair';1;50
+e;360395;'jour de vent';1;50
+e;360292;'jour de joie';1;50
+e;360289;'jour de gala';1;50
+e;358332;'héros du jour';1;50
+e;342233;'cent fois par jour';1;50
+e;361079;'le jour même du';1;50
+e;361073;'le jour de';1;50
+e;360311;'jour vrai';1;50
+e;360297;'jour de pluie';1;50
+e;360295;'jour de marché';1;50
+e;342116;'ce même jour';1;50
+e;342111;'le jour';1;50
+e;380874;'sous un jour nouveau';1;50
+e;361101;'le même jour';1;50
+e;360397;'jour dominical';1;50
+e;360390;'jour de départ';1;50
+e;360309;'jour stellaire';1;50
+e;360304;'jour intercalaire';1;50
+e;360302;'jour du deuil';1;50
+e;360296;'jour de neige';1;50
+e;360288;'jour de deuil';1;50
+e;360287;'jour de canicule';1;50
+e;360282;'jour creux';1;50
+e;342939;'chaque jour';1;58
+e;388718;'à la tombée du jour';1;50
+e;388405;'à l'ordre du jour';1;50
+e;361080;'le jour venu';1;50
+e;360408;'jour à marquer d'un caillou blanc';1;50
+e;360393;'jour de pointe';1;50
+e;360310;'jour utile';1;50
+e;360291;'jour de grève';1;50
+e;360286;'jour de brouillard';1;50
+e;342940;'chaque jour de la semaine';1;50
+e;384435;'train de jour';1;2
+e;367927;'ouvert nuit et jour';1;50
+e;361076;'le jour et la nuit';1;50
+e;360405;'jour préfix';1;50
+e;360307;'jour pour jour';1;50
+e;360303;'jour franc';1;50
+e;355287;'frais du jour';1;52
+e;352305;'escalier à jour';1;50
+e;360638;'l'autre jour';1;50
+e;360406;'jour solaire vrai';1;50
+e;360394;'jour de prison';1;50
+e;360300;'jour de soleil';1;50
+e;360283;'jour d'atelier';1;50
+e;360281;'jour civil';1;50
+e;339590;'bonheur du jour';1;50
+e;387585;'vol de jour';1;50
+e;384798;'travail de mise à jour';1;50
+e;360404;'jour plein';1;50
+e;360312;'jour échelle';1;50
+e;360305;'jour moyen';1;50
+e;360284;'jour d'entrée';1;50
+e;333263;'accueil de jour';1;50
+e;392898;'La rivière du sixième jour';777;50
+e;361074;'le jour de l'anniversaire';1;50
+e;360293;'jour de liesse';1;52
+e;357544;'haut du jour';1;50
+e;346823;'de nuit comme de jour';1;50
+e;72775;'tous les jours';1;172
+e;385588;'un autre jour';1;50
+e;367207;'officier de jour';1;50
+e;361857;'lit de jour';1;50
+e;360391;'jour de gel';1;50
+e;360388;'jour astronomique';1;50
+e;360298;'jour de prison avec sursis';1;50
+e;360294;'jour de marche';1;50
+e;360290;'jour de gloire';1;50
+e;360285;'jour d'ouverture';1;50
+e;355946;'gardien de jour';1;50
+e;342108;'ce jour';1;50
+e;99805;'rabat-jour';1;50
+e;86111;'contre-jour';1;50
+e;38198;'belle-de-jour';1;50
+e;32831;'demi-jour';1;50
+e;18737;'bonheur-du-jour';1;52
+e;10581;'paon-de-jour';1;50
+e;175;'avant-jour';1;50
+e;282261;'jour-de-terre';777;50
+e;174290;'jour-lumière';1;50
+e;137498;'belle-d'un-jour';1;50
+e;102733;'faux-jour';1;50
+e;305753;'Paon-du-jour';777;52
+e;5129;'abat-jour';1;144
+e;319954;'faire grand jour';1;50
+e;329498;'jour maigre';1;50
+e;171083;'à contre-jour';1;50
+e;260754;'avoir l'abat-jour au ras de l'ampoule';1;50
+e;261345;'alternance jour-nuit';1;50
+e;145177;'à l'abat-jour vert';1;50
+e;202400;'jour et nuit';1;50
+e;219024;'le jour le plus long';1;56
+e;233542;'à n'importe quelle heure du jour et de la nuit';1;50
+e;234725;'Un jour sans fin';1;62
+e;256337;'se montrer sous son meilleur jour';1;4
+e;259215;'nu comme au premier jour';1;8
+e;223706;'en plein jour';1;52
+e;212124;'un jour ou l'autre';1;50
+e;210970;'il ne faut pas remettre au lendemain ce qu'on peut faire le jour même';1;50
+e;216274;'jour précédent';1;76
+e;225078;'Meurs un autre jour';1;50
+e;229610;'jour blanc';1;50
+e;248200;'jour des défunts';1;50
+e;248377;'plat du jour';1;62
+e;251296;'début du jour';1;50
+e;251578;'éclater au grand jour';1;50
+e;252657;'chasseur de jour';1;50
+e;253842;'crème de jour';1;82
+e;254125;'travail de jour';1;2
+e;254126;'jour ouvrable';1;26
+e;254128;'travailler jour et nuit';1;50
+e;254130;'travailler de jour';1;2
+e;254135;'jour travaillé';1;50
+e;254413;'carnet du jour';1;50
+e;254508;'jour de carence';1;50
+e;256327;'infirmier de jour';1;50
+e;256328;'infirmière de jour';1;50
+e;256796;'hospitalisation de jour';1;4
+e;261373;'jour de Noël';1;52
+e;261374;'beau jour';1;50
+e;263564;'jour du jugement dernier';1;50
+e;218890;'jour de congé';1;30
+e;233589;'jour de visite';1;50
+e;110687;'le grand jour';1;50
+e;171281;'au petit jour';1;50
+e;222317;'jour des enfants';1;52
+e;239071;'clair comme le jour';1;68
+e;207849;'se mettre au goût du jour';1;50
+e;219613;'milieu du jour';1;6
+e;209653;'venir à jour';1;50
+e;238916;'papillon de jour';1;10
+e;112006;'se faire jour';1;50
+e;209484;'un beau jour';1;50
+e;218915;'partie du jour';1;50
+e;207876;'se montrer sous son vrai jour';1;54
+e;163325;'de jour';1;54
+e;219000;'fin du jour';1;60
+e;219025;'jour J';1;88
+e;35523;'Les Hommes du dernier jour';1;50
+e;41676;'Le jour se lève';1;50
+e;60523;'Belle de jour';1;70
+e;77128;'La Révolution nuit et jour';1;50
+e;98657;'ce jour même';1;50
+e;104156;'jour gras';1;50
+e;140353;'L'Île du jour d'avant';1;50
+e;143694;'L'Éternité et un jour';1;50
+e;162783;'jour anniversaire';1;56
+e;210251;'au jour d'aujourd'hui';1;52
+e;171401;'de jour comme de nuit';1;50
+e;171458;'du jour au lendemain';1;56
+e;171750;'un jour prochain';1;50
+e;180609;'à jour lendemain';1;50
+e;184884;'au gout du jour';1;50
+e;202754;'le jour J';1;50
+e;202755;'le jour même';1;50
+e;215299;'jour ouvré';1;58
+e;239326;'faire jour';1;2
+e;284041;'Le jour de la marmotte';777;50
+e;304318;'La lumière du jour';777;50
+e;307672;'jour polaire';777;50
+e;160776;'jour de fête';1;68
+e;57608;'équipe de jour';1;52
+e;106337;'venir au jour';1;50
+e;140368;'l'astre du jour';1;50
+e;70906;'de chaque jour';1;50
+e;61574;'ordre du jour';1;50
+e;46493;'au grand jour';1;50
+e;64118;'dernier jour';1;52
+e;61599;'lever du jour';1;60
+e;114367;'paon de jour';1;50
+e;184885;'au goût du jour';1;20
+e;206903;'remise à jour';1;50
+e;166163;'menu du jour';1;112
+e;166342;'lumière du jour';1;68
+e;206887;'remettre à jour';1;50
+e;202049;'il y a beau jour';1;50
+e;98498;'par jour';1;50
+e;124536;'à jour';1;50
+e;115408;'mettre au jour';1;50
+e;18506;'La Naissance du jour';1;50
+e;86672;'Demain il fera jour';1;50
+e;125706;'jour chômable';1;50
+e;140805;'jour d'abstinence';1;50
+e;155729;'jour de semaine';1;62
+e;158583;'jour de solidarité';1;54
+e;171333;'comme le jour et la nuit';1;50
+e;182849;'jardin où le soleil luit nuit et jour';1;50
+e;196280;'au jour J';1;50
+e;196281;'au jour la journée';1;50
+e;202323;'jeter un jour nouveau sur';1;50
+e;202394;'jour de fermeture';1;50
+e;202395;'jour de liberté';1;50
+e;202396;'jour de relâche';1;50
+e;202399;'jour douteux';1;50
+e;202401;'jour solaire';1;50
+e;202402;'jour zénithal';1;50
+e;203186;'long comme un jour de jeûne';1;50
+e;264330;'oeuf du jour';1;50
+e;287060;'jour des récompenses';777;50
+e;292955;'À contre jour';777;50
+e;301721;'Les Hommes naissent tous le même jour';777;50
+e;303305;'jour épagomène';777;50
+e;182886;'jour de paye';1;50
+e;158313;'jour de repos';1;80
+e;202397;'jour de sortie';1;50
+e;56938;'goût du jour';1;50
+e;186904;'tenir à jour';1;50
+e;48987;'mettre à jour';1;64
+e;72872;'pointe du jour';1;50
+e;180811;'agonie du jour';1;50
+e;202398;'jour des Morts';1;52
+e;50540;'jour du Seigneur';1;50
+e;96138;'jour du mois';1;50
+e;175176;'paon du jour';1;50
+e;156458;'jour du seigneur';1;52
+e;202393;'jour de chance';1;74
+e;159628;'jour de la semaine';1;70
+e;204166;'naissance du jour';1;50
+e;124310;'chute du jour';1;58
+e;205355;'percer à jour';1;54
+e;203656;'messe du jour';1;50
+e;203891;'mise au jour';1;50
+e;206147;'prendre jour';1;50
+e;151617;'hôpital de jour';1;56
+e;56072;'grand jour';1;60
+e;206529;'puits de jour';1;50
+e;159070;'belle de jour';1;56
+e;96688;'astre du jour';1;74
+e;196279;'au jour';1;50
+e;19932;'du jour';1;56
+e;159228;'long comme un jour sans pain';1;50
+e;83435;'voir le jour';1;72
+e;28504;'152 Proverbes mis au goût du jour';1;50
+e;190721;'jour de souffrance';1;50
+e;311680;'chirurgie d'un jour';777;50
+e;312227;'jour de la marmotte';777;50
+e;312981;'cinq fruits et légumes par jour';1;136
+e;135623;'faux jour';1;50
+e;196694;'avoir son jour';1;50
+e;187046;'voir la Lune en plein jour';1;50
+e;196908;'beau comme le jour';1;50
+e;28687;'mise à jour';1;66
+e;15131;'souverain du jour du Jugement';1;50
+e;198837;'donner le jour à';1;50
+e;11979;'jour de jeûne';1;50
+e;199764;'étaler au grand jour';1;50
+e;17964;'donner le jour';1;54
+e;198495;'déclin du jour';1;50
+e;198266;'dans le grand jour';1;50
+e;200168;'évènement du jour';1;50
+e;102561;'petit jour';1;52
+e;27190;'un jour';1;56
+e;157795;'jour de l'an';1;92
+e;204527;'nuit et jour';1;56
+e;124061;'point du jour';1;56
+e;95726;'jour chômé';1;62
+e;67152;'tombée du jour';1;70
+e;62233;'jour férié';1;214
+e;159517;'à chaque jour suffit sa peine';1;60
+e;160666;'demain il fera jour';1;58
+e;66014;'de jour en jour';1;50
+e;113254;'vivre au jour le jour';1;50
+e;171582;'jour à jour';1;50
+e;200350;'faire de la nuit le jour et du jour la nuit';1;50
+e;171277;'au jour le jour';1;4
+e;202392;'jour après jour';1;56
+r;97322767;88543;62822;11;15
+r;97322768;88543;98339;11;15
+r;97322769;88543;202408;11;15
+r;299481778;88543;6304475;11;25
+r;299792580;88543;6317231;11;25
+r;301451450;88543;6338063;11;25
+r;301803001;88543;6355601;11;25
+r;304999022;88543;6395328;11;25
+r;306705990;88543;11840183;11;25
+r;316652534;88543;12172425;11;25
+r;343142343;88543;13541990;11;25
+r;343462317;88543;13549969;11;25
+r;344370945;88543;13594678;11;25
+r;349312741;88543;6303140;11;25
+r;354463150;88543;14033276;11;25
+r;359719076;88543;14159852;11;25
+r;361462164;88543;14250564;11;25
+r;366515811;88543;14434550;11;25
+r;366862418;88543;14452496;11;25
+r;366874462;88543;14452791;11;25
+r;368254182;88543;14491501;11;25
+r;368637401;88543;14530903;11;25
+r;369826132;88543;14549155;11;25
+r;369828243;88543;14549209;11;25
+r;370558624;88543;14581863;11;25
+r;370648554;88543;14585746;11;25
+r;370673287;88543;14586121;11;25
+r;370693613;88543;14589095;11;25
+r;371418239;88543;14612045;11;25
+r;371748125;88543;14635591;11;25
+r;371748142;88543;14635590;11;25
+r;372378589;88543;14652992;11;25
+r;372378603;88543;14652993;11;25
+r;374371418;88543;14725396;11;25
+r;375011405;88543;14752048;11;25
+r;386043279;88543;14883884;11;25
+r;386043292;88543;14883887;11;25
+r;386044670;88543;14883889;11;25
+r;386045345;88543;14883886;11;25
+r;386045372;88543;14884163;11;25
+r;394922145;88543;15392486;11;25
+r;395471540;88543;15440908;11;25
+r;399490428;88543;6327565;11;25
+r;423720749;88543;16154828;11;25
+r;428840710;88543;16317107;11;25
+r;435410760;88543;16573033;11;25
+r;302186186;88543;6365466;11;26
+r;302188991;88543;6366050;11;26
+r;333256095;88543;12979904;11;26
+r;368127389;88543;14486329;11;26
+r;368488135;88543;14510842;11;26
+r;369391575;88543;14537173;11;26
+r;370599211;88543;14585125;11;26
+r;371598730;88543;14629319;11;26
+r;371743395;88543;14635314;11;26
+r;374421907;88543;14727847;11;26
+r;375237771;88543;14760943;11;26
+r;385040155;88543;14874933;11;26
+r;423715919;88543;16165591;11;26
+r;97322774;88543;202409;11;27
+r;270781223;88543;10672936;11;27
+r;267325832;88543;10664544;11;27
+r;97322773;88543;60770;11;28
+r;113793716;88543;5798487;11;28
+r;119662772;88543;6089116;11;28
+r;209164667;88543;6375902;11;28
+r;266725653;88543;10617844;11;28
+r;272776407;88543;10873177;11;28
+r;303761308;88543;11774904;11;28
+r;303761318;88543;11774903;11;28
+r;315559080;88543;12101801;11;28
+r;119659638;88543;6100920;11;29
+r;302321243;88543;11775318;11;29
+r;434383297;88543;16091947;11;29
+r;434385103;88543;16152684;11;29
+r;113781711;88543;5815078;11;30
+r;221038235;88543;9962269;11;30
+r;221159240;88543;9963209;11;30
+r;264437755;88543;10601014;11;30
+r;264439626;88543;10600314;11;30
+r;274267594;88543;10909554;11;30
+r;274591457;88543;10914414;11;30
+r;419747565;88543;15376211;11;30
+r;419759459;88543;16042885;11;30
+r;419759461;88543;15417388;11;30
+r;419763136;88543;15417392;11;30
+r;419764650;88543;16032493;11;30
+r;419765503;88543;15528523;11;30
+r;419765507;88543;15417393;11;30
+r;419767603;88543;15398619;11;30
+r;419770456;88543;15531930;11;30
+r;419770809;88543;15522604;11;30
+r;419772712;88543;15385695;11;30
+r;419772804;88543;15195801;11;30
+r;419772835;88543;15582348;11;30
+r;419777869;88543;15473957;11;30
+r;419780081;88543;15282478;11;30
+r;419790200;88543;16032177;11;30
+r;419790913;88543;15417401;11;30
+r;419799219;88543;15275737;11;30
+r;419800514;88543;15345021;11;30
+r;419801138;88543;15319747;11;30
+r;419801471;88543;15384607;11;30
+r;419803249;88543;15541405;11;30
+r;419829818;88543;15417400;11;30
+r;419829836;88543;15663520;11;30
+r;419837912;88543;15541403;11;30
+r;419837914;88543;15541401;11;30
+r;419838739;88543;15541407;11;30
+r;419843938;88543;15224041;11;30
+r;420222238;88543;16103012;11;30
+r;432388725;88543;16367152;11;30
+r;432389846;88543;16367154;11;30
+r;119877130;88543;6282903;11;31
+r;221478622;88543;9968274;11;31
+r;222096986;88543;9985085;11;31
+r;222101675;88543;9981770;11;31
+r;222104106;88543;9980276;11;31
+r;222105250;88543;9979462;11;31
+r;227658658;88543;10003816;11;31
+r;227671862;88543;9997673;11;31
+r;227674309;88543;9994570;11;31
+r;263706546;88543;10577500;11;31
+r;263706816;88543;10577372;11;31
+r;277053280;88543;10970771;11;31
+r;280011657;88543;11056042;11;31
+r;419711493;88543;15399136;11;31
+r;419712297;88543;15266196;11;31
+r;419719882;88543;15502360;11;31
+r;419721449;88543;15582882;11;31
+r;419721527;88543;15492689;11;31
+r;419729821;88543;15355097;11;31
+r;434376639;88543;16336460;11;31
+r;434377786;88543;16390427;11;31
+r;115871473;88543;5908106;11;32
+r;227646115;88543;10014817;11;32
+r;227652408;88543;10008660;11;32
+r;263700599;88543;10579608;11;32
+r;269417838;88543;10734018;11;32
+r;274575542;88543;10917157;11;32
+r;274575547;88543;10917156;11;32
+r;280529433;88543;11065602;11;32
+r;303981525;88543;11801169;11;32
+r;304371979;88543;11806315;11;32
+r;335939383;88543;5812321;11;32
+r;419619451;88543;15331191;11;32
+r;419619457;88543;15532558;11;32
+r;419619497;88543;15363183;11;32
+r;419620516;88543;15486848;11;32
+r;419624901;88543;15411189;11;32
+r;419647023;88543;15253231;11;32
+r;419650116;88543;15210000;11;32
+r;419650125;88543;15576066;11;32
+r;419650709;88543;15389289;11;32
+r;419670872;88543;15544040;11;32
+r;419670874;88543;15366973;11;32
+r;419670878;88543;15417378;11;32
+r;419671209;88543;16029421;11;32
+r;419671814;88543;15544042;11;32
+r;419691092;88543;15289430;11;32
+r;419699814;88543;15482760;11;32
+r;419700432;88543;15417382;11;32
+r;419700446;88543;15417385;11;32
+r;419700454;88543;16041562;11;32
+r;419700463;88543;15497956;11;32
+r;419700471;88543;15497959;11;32
+r;114438325;88543;5873438;11;33
+r;227615513;88543;10036695;11;33
+r;275682689;88543;10942554;11;33
+r;280516315;88543;11065603;11;33
+r;280516598;88543;11065592;11;33
+r;280528924;88543;11065562;11;33
+r;281013879;88543;11079986;11;33
+r;302901174;88543;11783875;11;33
+r;303826985;88543;11801168;11;33
+r;303833634;88543;11801170;11;33
+r;434365828;88543;16340414;11;33
+r;2289587;88543;209489;11;34
+r;116581467;88543;5955372;11;34
+r;116588561;88543;5953111;11;34
+r;269389066;88543;10747139;11;34
+r;272521476;88543;10865498;11;34
+r;281072438;88543;11080912;11;34
+r;305426938;88543;11825437;11;34
+r;315117568;88543;12079525;11;34
+r;434348901;88543;16160213;11;34
+r;419518481;88543;15471433;11;34
+r;419518844;88543;15523572;11;34
+r;419519350;88543;15332042;11;34
+r;419531572;88543;15771656;11;34
+r;419531700;88543;15328148;11;34
+r;419536052;88543;15433030;11;34
+r;419536060;88543;15208783;11;34
+r;419550629;88543;15778679;11;34
+r;419564959;88543;15417405;11;34
+r;419564971;88543;15417407;11;34
+r;419564983;88543;15417370;11;34
+r;419564987;88543;15436768;11;34
+r;419564992;88543;15446491;11;34
+r;419566272;88543;15198504;11;34
+r;419592204;88543;15390307;11;34
+r;425017535;88543;16166915;11;34
+r;29946108;88543;1829865;11;35
+r;114749401;88543;5894073;11;35
+r;115836057;88543;5923259;11;35
+r;115836061;88543;5923258;11;35
+r;247440640;88543;10252104;11;35
+r;263277487;88543;10558883;11;35
+r;274959332;88543;10930336;11;35
+r;274959338;88543;10930335;11;35
+r;274959344;88543;10930334;11;35
+r;275103773;88543;10934090;11;35
+r;305853602;88543;11831059;11;35
+r;315115202;88543;12079984;11;35
+r;315117563;88543;12079526;11;35
+r;315120364;88543;12078997;11;35
+r;315122006;88543;12078685;11;35
+r;315123986;88543;12078302;11;35
+r;370233671;88543;14564107;11;35
+r;370236154;88543;14564105;11;35
+r;401756720;88543;15639902;11;35
+r;419502490;88543;15550272;11;35
+r;419507108;88543;16073550;11;35
+r;428865190;88543;16318253;11;35
+r;53128528;88543;2391550;11;36
+r;114747128;88543;5895102;11;36
+r;116318407;88543;5940971;11;36
+r;117905790;88543;5982262;11;36
+r;227595398;88543;10044970;11;36
+r;227598763;88543;10044111;11;36
+r;282621189;88543;11100489;11;36
+r;313764461;88543;12051316;11;36
+r;315107280;88543;12081489;11;36
+r;419492148;88543;15544038;11;36
+r;419814245;88543;15516407;11;36
+r;52748210;88543;2381165;11;37
+r;113271558;88543;5811930;11;37
+r;113281528;88543;5809164;11;37
+r;114747123;88543;5895103;11;37
+r;269382387;88543;10749527;11;37
+r;269382411;88543;10749521;11;37
+r;272172150;88543;10855099;11;37
+r;272172162;88543;10855098;11;37
+r;272172175;88543;10855097;11;37
+r;272172184;88543;10855096;11;37
+r;272172197;88543;10855095;11;37
+r;272172205;88543;10855094;11;37
+r;272172217;88543;10855093;11;37
+r;272172225;88543;10855092;11;37
+r;281480731;88543;11100488;11;37
+r;305959495;88543;11832503;11;37
+r;313711946;88543;12050928;11;37
+r;429219663;88543;16321152;11;37
+r;53537549;88543;2402822;11;38
+r;55446334;88543;2449811;11;38
+r;111330339;88543;5675050;11;38
+r;116951494;88543;5968386;11;38
+r;118503475;88543;6012891;11;38
+r;232108010;88543;10061439;11;38
+r;232110477;88543;10058419;11;38
+r;269382391;88543;10749526;11;38
+r;269382395;88543;10749525;11;38
+r;269382399;88543;10749524;11;38
+r;269382403;88543;10749523;11;38
+r;269382407;88543;10749522;11;38
+r;269382415;88543;10749520;11;38
+r;269874155;88543;10777536;11;38
+r;274573732;88543;10918049;11;38
+r;274573736;88543;10918048;11;38
+r;287955031;88543;11237245;11;38
+r;291814185;88543;11363699;11;38
+r;313761684;88543;12052474;11;38
+r;1927174;88543;233007;11;39
+r;53008479;88543;2385758;11;39
+r;55117365;88543;2435559;11;39
+r;55612977;88543;2457402;11;39
+r;126393425;88543;7809347;11;39
+r;227579315;88543;10050106;11;39
+r;242261387;88543;10188706;11;39
+r;254175308;88543;10348000;11;39
+r;255393332;88543;10385990;11;39
+r;269374732;88543;10754007;11;39
+r;280516350;88543;11065601;11;39
+r;320428162;88543;12369051;11;39
+r;340516136;88543;13406159;11;39
+r;423826552;88543;16156003;11;39
+r;119659877;88543;6100859;11;40
+r;220609803;88543;9950274;11;40
+r;242256469;88543;10190486;11;40
+r;242259748;88543;10189287;11;40
+r;242260167;88543;10189140;11;40
+r;288236874;88543;11250815;11;40
+r;288238753;88543;11250814;11;40
+r;289319318;88543;11302844;11;40
+r;290386551;88543;11334824;11;40
+r;296852873;88543;11554950;11;40
+r;313745608;88543;12053199;11;40
+r;95198563;88543;4225290;11;41
+r;236692331;88543;10132429;11;41
+r;255382557;88543;10424030;11;41
+r;287737220;88543;11218912;11;41
+r;240918430;88543;10185610;11;42
+r;240918468;88543;10185602;11;42
+r;261003402;88543;10498642;11;42
+r;262041602;88543;10513082;11;42
+r;278735637;88543;11008551;11;42
+r;288440130;88543;11253889;11;42
+r;292108309;88543;11384233;11;42
+r;419606714;88543;15516409;11;42
+r;52994809;88543;2384905;11;43
+r;53284272;88543;2400073;11;43
+r;53792528;88543;2404946;11;43
+r;240635839;88543;10181605;11;43
+r;272172125;88543;10855101;11;43
+r;272172140;88543;10855100;11;43
+r;278707381;88543;11008552;11;43
+r;285657578;88543;11161671;11;43
+r;338931493;88543;13301313;11;43
+r;231816756;88543;10071589;11;44
+r;236661727;88543;10141853;11;44
+r;238094083;88543;10162376;11;44
+r;238101829;88543;10160001;11;44
+r;285042622;88543;11160023;11;44
+r;285042626;88543;11160022;11;44
+r;285042634;88543;11160020;11;44
+r;285042638;88543;11160019;11;44
+r;288416858;88543;11254148;11;44
+r;236655461;88543;10145152;11;45
+r;285034145;88543;11160024;11;45
+r;285034713;88543;11160018;11;45
+r;109879252;88543;5557386;11;47
+r;256291800;88543;10436665;11;47
+r;116306722;88543;5944500;11;48
+r;315113560;88543;12080297;11;48
+r;327710257;88543;12772109;11;48
+r;108344984;88543;5516374;11;49
+r;370524323;88543;14581226;11;49
+r;29782470;88543;1823968;11;50
+r;211398561;88543;9245695;11;50
+r;93122833;88543;3730962;11;50
+r;108611975;88543;5517666;11;50
+r;113792473;88543;5798794;11;50
+r;397134647;88543;15497153;11;50
+r;211399776;88543;9245696;11;50
+r;202495548;88543;9104712;11;50
+r;205952941;88543;9161221;11;50
+r;214948853;88543;9576066;11;50
+r;236676610;88543;10136389;11;50
+r;269382379;88543;10749528;11;50
+r;271769640;88543;10847627;11;50
+r;282729099;88543;11129662;11;50
+r;282843247;88543;11131732;11;50
+r;317756830;88543;12247290;11;50
+r;320920327;88543;12484501;11;50
+r;324957655;88543;12686784;11;50
+r;365017869;88543;14365403;11;50
+r;375185049;88543;14758717;11;50
+r;397500445;88543;15398625;11;50
+r;397505224;88543;15317361;11;50
+r;397505202;88543;15417421;11;50
+r;397505228;88543;15253977;11;50
+r;412521630;88543;15775439;11;50
+r;386044139;88543;14883885;11;50
+r;386044657;88543;14883888;11;50
+r;402151481;88543;15480924;11;50
+r;395008861;88543;15203313;11;50
+r;395009077;88543;15201911;11;50
+r;395009735;88543;15307807;11;50
+r;395012719;88543;15326212;11;50
+r;395032049;88543;15017461;11;50
+r;402274933;88543;15586923;11;50
+r;403046165;88543;15684077;11;50
+r;411717262;88543;15696770;11;50
+r;414848584;88543;14529211;11;50
+r;418898819;88543;16072167;11;50
+r;29225945;88543;1781291;11;51
+r;33103942;88543;2301728;11;51
+r;50168993;88543;2361559;11;51
+r;108610321;88543;5517667;11;51
+r;16130786;88543;440775;11;52
+r;27145960;88543;1654754;11;52
+r;32524418;88543;2024593;11;52
+r;52458656;88543;2537724;11;52
+r;55459479;88543;2603890;11;52
+r;77593702;88543;3223972;11;52
+r;95174994;88543;3865697;11;52
+r;102052996;88543;4894643;11;52
+r;105821355;88543;5126306;11;52
+r;85848424;88543;3348617;11;53
+r;85849712;88543;3348616;11;53
+r;88754192;88543;3554538;11;53
+r;98949658;88543;4337074;11;53
+r;16130782;88543;440776;11;54
+r;52457330;88543;2540616;11;54
+r;52483702;88543;2484432;11;54
+r;55139330;88543;2600184;11;54
+r;76981880;88543;3183242;11;54
+r;82858063;88543;3304498;11;54
+r;87944461;88543;3442369;11;54
+r;88752930;88543;3554539;11;54
+r;29224885;88543;1781633;11;55
+r;33095973;88543;2217821;11;55
+r;52479684;88543;2492920;11;55
+r;63172564;88543;2765770;11;55
+r;78778319;88543;3260099;11;55
+r;83379158;88543;3311649;11;55
+r;84432332;88543;3341068;11;55
+r;95163801;88543;4059325;11;55
+r;17134238;88543;567673;11;56
+r;18494933;88543;589319;11;56
+r;53896697;88543;2586429;11;56
+r;71472952;88543;2886290;11;56
+r;76920047;88543;3182024;11;56
+r;77593835;88543;3223971;11;56
+r;84283766;88543;3336848;11;56
+r;87250364;88543;3408866;11;56
+r;33103946;88543;2301727;11;57
+r;52451719;88543;2552196;11;57
+r;52466348;88543;2521437;11;57
+r;52476792;88543;2499271;11;57
+r;52580664;88543;2579020;11;57
+r;76185427;88543;3169715;11;57
+r;76980848;88543;3183241;11;57
+r;85603649;88543;3343432;11;57
+r;107363826;88543;5387803;11;57
+r;17396452;88543;570487;11;58
+r;17796995;88543;574692;11;58
+r;18406151;88543;586460;11;58
+r;18591128;88543;592514;11;58
+r;19034314;88543;645650;11;58
+r;55145415;88543;2600696;11;58
+r;71826751;88543;2928916;11;58
+r;91966072;88543;3698935;11;58
+r;18406882;88543;586459;11;59
+r;34310882;88543;2339800;11;59
+r;34339225;88543;2340550;11;59
+r;52461517;88543;2531786;11;59
+r;53131781;88543;2581203;11;59
+r;78800630;88543;3260100;11;59
+r;83499167;88543;3315161;11;59
+r;87945536;88543;3442368;11;59
+r;87947996;88543;3442756;11;59
+r;99031841;88543;4340157;11;59
+r;20729900;88543;968867;11;60
+r;29538066;88543;1805773;11;60
+r;32524524;88543;2010014;11;60
+r;52455219;88543;2544862;11;60
+r;121439617;88543;6528361;11;60
+r;29628581;88543;1815228;11;61
+r;30751942;88543;1909289;11;62
+r;72295258;88543;2937423;11;64
+r;29882604;88543;1845643;11;69
+r;12579339;88543;380543;11;101
+r;12616141;88543;371519;11;101
+r;12628505;88543;368466;11;101
+r;12661151;88543;360398;11;101
+r;12661513;88543;360308;11;101
+r;12661519;88543;360306;11;101
+r;12661539;88543;360301;11;101
+r;12661547;88543;360299;11;101
+r;12661629;88543;360280;11;101
+r;12661633;88543;360279;11;101
+r;12671763;88543;357775;11;101
+r;12672001;88543;357716;11;101
+r;12717595;88543;346509;11;101
+r;12736651;88543;342110;11;101
+r;12736657;88543;342109;11;101
+r;12547699;88543;388502;11;102
+r;12658425;88543;361078;11;102
+r;12658433;88543;361077;11;102
+r;12658449;88543;361075;11;102
+r;12661139;88543;360402;11;102
+r;12661163;88543;360395;11;102
+r;12661581;88543;360292;11;102
+r;12661593;88543;360289;11;102
+r;12669491;88543;358332;11;102
+r;12736131;88543;342233;11;102
+r;12658417;88543;361079;11;103
+r;12658465;88543;361073;11;103
+r;12661501;88543;360311;11;103
+r;12661561;88543;360297;11;103
+r;12661569;88543;360295;11;103
+r;12736637;88543;342116;11;103
+r;12736649;88543;342111;11;103
+r;12577799;88543;380874;11;104
+r;12658311;88543;361101;11;104
+r;12661155;88543;360397;11;104
+r;12661183;88543;360390;11;104
+r;12661509;88543;360309;11;104
+r;12661527;88543;360304;11;104
+r;12661535;88543;360302;11;104
+r;12661565;88543;360296;11;104
+r;12661597;88543;360288;11;104
+r;12661601;88543;360287;11;104
+r;12661621;88543;360282;11;104
+r;12732981;88543;342939;11;104
+r;12547013;88543;388718;11;105
+r;12547993;88543;388405;11;105
+r;12658411;88543;361080;11;105
+r;12661109;88543;360408;11;105
+r;12661171;88543;360393;11;105
+r;12661505;88543;360310;11;105
+r;12661585;88543;360291;11;105
+r;12661605;88543;360286;11;105
+r;12732973;88543;342940;11;105
+r;12563715;88543;384435;11;106
+r;12630559;88543;367927;11;106
+r;12658443;88543;361076;11;106
+r;12661129;88543;360405;11;106
+r;12661517;88543;360307;11;106
+r;12661531;88543;360303;11;106
+r;12682001;88543;355287;11;106
+r;12694067;88543;352305;11;106
+r;12660213;88543;360638;11;107
+r;12661121;88543;360406;11;107
+r;12661167;88543;360394;11;107
+r;12661543;88543;360300;11;107
+r;12661617;88543;360283;11;107
+r;12661625;88543;360281;11;107
+r;12747089;88543;339590;11;107
+r;12551057;88543;387585;11;108
+r;12562247;88543;384798;11;108
+r;12661133;88543;360404;11;108
+r;12661497;88543;360312;11;108
+r;12661523;88543;360305;11;108
+r;12661613;88543;360284;11;108
+r;12772359;88543;333263;11;108
+r;13249911;88543;392898;11;108
+r;12658457;88543;361074;11;109
+r;12661577;88543;360293;11;109
+r;12672745;88543;357544;11;109
+r;12716149;88543;346823;11;109
+r;244287;88543;72775;11;110
+r;12558935;88543;385588;11;110
+r;12633375;88543;367207;11;110
+r;12655207;88543;361857;11;110
+r;12661179;88543;360391;11;110
+r;12661189;88543;360388;11;110
+r;12661551;88543;360298;11;110
+r;12661573;88543;360294;11;110
+r;12661589;88543;360290;11;110
+r;12661609;88543;360285;11;110
+r;12679357;88543;355946;11;110
+r;12736661;88543;342108;11;110
+r;11863677;88543;99805;11;121
+r;11865642;88543;86111;11;121
+r;11872730;88543;38198;11;121
+r;11873514;88543;32831;11;121
+r;11875570;88543;18737;11;121
+r;11876664;88543;10581;11;121
+r;11878023;88543;175;11;121
+r;11849440;88543;282261;11;122
+r;11854816;88543;174290;11;122
+r;11858254;88543;137498;11;122
+r;11863269;88543;102733;11;122
+r;11847596;88543;305753;11;123
+r;202371;88543;5129;11;142
+r;9044559;88543;319954;11;148
+r;11644484;88543;329498;11;148
+r;8875721;88543;171083;11;151
+r;8881867;88543;260754;11;151
+r;8881910;88543;261345;11;151
+r;8874883;88543;145177;11;152
+r;8671919;88543;202400;11;159
+r;8691363;88543;219024;11;160
+r;8701637;88543;233542;11;160
+r;8702284;88543;234725;11;160
+r;8721078;88543;256337;11;160
+r;8725244;88543;259215;11;160
+r;1927140;88543;223706;11;161
+r;8634271;88543;212124;11;161
+r;8685971;88543;210970;11;161
+r;8690235;88543;216274;11;161
+r;8695378;88543;225078;11;161
+r;8698395;88543;229610;11;161
+r;8711574;88543;248200;11;161
+r;8711748;88543;248377;11;161
+r;8714860;88543;251296;11;161
+r;8715262;88543;251578;11;161
+r;8716280;88543;252657;11;161
+r;8717642;88543;253842;11;161
+r;8717967;88543;254125;11;161
+r;8717968;88543;254126;11;161
+r;8717973;88543;254128;11;161
+r;8717978;88543;254130;11;161
+r;8717986;88543;254135;11;161
+r;8718431;88543;254413;11;161
+r;8718551;88543;254508;11;161
+r;8721057;88543;256327;11;161
+r;8721059;88543;256328;11;161
+r;8721783;88543;256796;11;161
+r;8728052;88543;261373;11;161
+r;8728055;88543;261374;11;161
+r;8730794;88543;263564;11;161
+r;1908079;88543;218890;11;162
+r;1908083;88543;233589;11;162
+r;1927107;88543;110687;11;162
+r;1927117;88543;171281;11;162
+r;1927119;88543;222317;11;162
+r;1927120;88543;239071;11;162
+r;1927139;88543;207849;11;162
+r;1927141;88543;219613;11;162
+r;1927144;88543;209653;11;162
+r;1927145;88543;238916;11;162
+r;1927147;88543;112006;11;162
+r;1927152;88543;209484;11;162
+r;1927160;88543;218915;11;162
+r;1927161;88543;207876;11;162
+r;1927162;88543;163325;11;162
+r;1927177;88543;219000;11;162
+r;2286520;88543;219025;11;162
+r;8581786;88543;35523;11;162
+r;8583876;88543;41676;11;162
+r;8590499;88543;60523;11;162
+r;8596062;88543;77128;11;162
+r;8603696;88543;98657;11;162
+r;8605594;88543;104156;11;162
+r;8619633;88543;140353;11;162
+r;8621063;88543;143694;11;162
+r;8628103;88543;162783;11;162
+r;8633668;88543;210251;11;162
+r;8633859;88543;171401;11;162
+r;8633921;88543;171458;11;162
+r;8634272;88543;171750;11;162
+r;8637033;88543;180609;11;162
+r;8644200;88543;184884;11;162
+r;8672459;88543;202754;11;162
+r;8672460;88543;202755;11;162
+r;8689769;88543;215299;11;162
+r;8706078;88543;239326;11;162
+r;8751192;88543;284041;11;162
+r;8770586;88543;304318;11;162
+r;8773369;88543;307672;11;162
+r;1908078;88543;160776;11;163
+r;1927104;88543;57608;11;163
+r;1927105;88543;106337;11;163
+r;1927110;88543;140368;11;163
+r;1927118;88543;70906;11;163
+r;1927126;88543;61574;11;163
+r;1927127;88543;46493;11;163
+r;1927131;88543;64118;11;163
+r;1927137;88543;61599;11;163
+r;1927146;88543;114367;11;163
+r;1927148;88543;184885;11;163
+r;1927151;88543;206903;11;163
+r;1927153;88543;166163;11;163
+r;1927155;88543;166342;11;163
+r;1927159;88543;206887;11;163
+r;1927166;88543;202049;11;163
+r;1927170;88543;98498;11;163
+r;1927172;88543;124536;11;163
+r;1927173;88543;115408;11;163
+r;8576059;88543;18506;11;163
+r;8599426;88543;86672;11;163
+r;8613382;88543;125706;11;163
+r;8619859;88543;140805;11;163
+r;8624645;88543;155729;11;163
+r;8625814;88543;158583;11;163
+r;8633748;88543;171333;11;163
+r;8640816;88543;182849;11;163
+r;8661196;88543;196280;11;163
+r;8661197;88543;196281;11;163
+r;8671772;88543;202323;11;163
+r;8671910;88543;202394;11;163
+r;8671912;88543;202395;11;163
+r;8671914;88543;202396;11;163
+r;8671917;88543;202399;11;163
+r;8671921;88543;202401;11;163
+r;8671923;88543;202402;11;163
+r;8673182;88543;203186;11;163
+r;8731873;88543;264330;11;163
+r;8754617;88543;287060;11;163
+r;8760659;88543;292955;11;163
+r;8768240;88543;301721;11;163
+r;8769727;88543;303305;11;163
+r;1908076;88543;182886;11;164
+r;1908080;88543;158313;11;164
+r;1908082;88543;202397;11;164
+r;1927106;88543;56938;11;164
+r;1927111;88543;186904;11;164
+r;1927113;88543;48987;11;164
+r;1927114;88543;72872;11;164
+r;1927121;88543;180811;11;164
+r;1927122;88543;202398;11;164
+r;1927123;88543;50540;11;164
+r;1927124;88543;96138;11;164
+r;1927125;88543;175176;11;164
+r;1927128;88543;156458;11;164
+r;1927129;88543;202393;11;164
+r;1927132;88543;159628;11;164
+r;1927134;88543;204166;11;164
+r;1927135;88543;124310;11;164
+r;1927136;88543;205355;11;164
+r;1927142;88543;203656;11;164
+r;1927143;88543;203891;11;164
+r;1927157;88543;206147;11;164
+r;1927163;88543;151617;11;164
+r;1927169;88543;56072;11;164
+r;1927171;88543;206529;11;164
+r;1927175;88543;159070;11;164
+r;1927176;88543;96688;11;164
+r;1927178;88543;196279;11;164
+r;1927179;88543;19932;11;164
+r;2286611;88543;159228;11;164
+r;2288493;88543;83435;11;164
+r;8579427;88543;28504;11;164
+r;8653154;88543;190721;11;164
+r;8777758;88543;311680;11;164
+r;8778406;88543;312227;11;164
+r;8779356;88543;312981;11;164
+r;1927109;88543;135623;11;165
+r;1927138;88543;196694;11;165
+r;1927149;88543;187046;11;165
+r;1927154;88543;196908;11;165
+r;1927164;88543;28687;11;165
+r;8575005;88543;15131;11;165
+r;8665754;88543;198837;11;165
+r;1908081;88543;11979;11;166
+r;1927112;88543;199764;11;166
+r;1927116;88543;17964;11;166
+r;1927130;88543;198495;11;166
+r;1927158;88543;198266;11;166
+r;1927165;88543;200168;11;166
+r;1927108;88543;102561;11;173
+r;1927115;88543;27190;11;173
+r;1908077;88543;157795;11;174
+r;1927133;88543;204527;11;174
+r;1908075;88543;124061;11;184
+r;2285859;88543;95726;11;194
+r;361331;88543;67152;11;199
+r;244850;88543;62233;11;218
+r;244286;88543;159517;11;238
+r;262361;88543;160666;11;238
+r;1927167;88543;66014;11;299
+r;1927150;88543;113254;11;301
+r;8634055;88543;171582;11;302
+r;8668280;88543;200350;11;306
+r;1927156;88543;171277;11;309
+r;1927168;88543;202392;11;333

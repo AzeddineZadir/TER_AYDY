@@ -1,0 +1,8 @@
+
+e;1985190;'agréables';2;0
+e;13991613;'souvenirs agréables';1;0
+e;15025946;'agréables à l'oeil';1;0
+e;10096471;'classements des villes les plus agréables à vivre';777;0
+r;352489532;1985190;13991613;11;25
+r;392487533;1985190;15025946;11;26
+r;234230141;1985190;10096471;11;42

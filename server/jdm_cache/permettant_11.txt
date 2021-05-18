@@ -1,0 +1,28 @@
+
+e;2242077;'permettant';2;0
+e;6309216;'systèmes permettant le maintien de vie';1;0
+e;6309692;'échantillon permettant un diagnostic';1;0
+e;6314364;'spécimen ne permettant pas un diagnostic certain';1;0
+e;6328508;'spécimen ne permettant pas un diagnostic certain par absence de renseignements cliniques';1;0
+e;6330697;'échantillon ne permettant pas une interprétation de certitude';1;0
+e;6374612;'spécimen permettant une interprétation';1;0
+e;6381717;'échantillon permettant une interprétation';1;0
+e;6395041;'spécimen permettant un diagnostic';1;0
+e;6301549;'spécimen ne permettant pas une interprétation certaine';1;0
+e;6351066;'échantillon ne permettant pas un diagnostic de certitude par absence de renseignements cliniques';1;0
+e;10993264;'un outil permettant de générer la bonne clé capable de déchiffrer les données de chaque utilisateur sans avoir à payer de rançon';777;0
+e;10435280;'Loi permettant aux étudiants de recevoir l'enseignement dispensé par les établissements de niveau postsecondaire qu'ils fréquentent';777;0
+e;3185838;'plan visuel permettant l'identification d'un produit';777;0
+r;299576980;2242077;6309216;11;25
+r;299578375;2242077;6309692;11;25
+r;299634079;2242077;6314364;11;25
+r;300218056;2242077;6328508;11;25
+r;300960109;2242077;6330697;11;25
+r;303313440;2242077;6374612;11;25
+r;303852679;2242077;6381717;11;25
+r;304996971;2242077;6395041;11;25
+r;299223285;2242077;6301549;11;26
+r;301739644;2242077;6351066;11;26
+r;277793397;2242077;10993264;11;32
+r;256295283;2242077;10435280;11;46
+r;77278922;2242077;3185838;11;53

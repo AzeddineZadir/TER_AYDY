@@ -1,0 +1,1562 @@
+
+e;13943;'place';1;1178
+e;15686883;'place Saint-Remacle';777;0
+e;6291093;'mise en place et ajustement d'un oeil artificiel';1;0
+e;6290600;'mise en place et ajustement d'une iléostomie et autres dispositifs intestinaux';1;0
+e;6347983;'prise en charge pour mise en place et ajustement d'autres appareils';1;0
+e;6308586;'incapacité à rester en place';1;0
+e;6325456;'remise en place de procidence du cordon ombilical';1;0
+e;6342781;'prise en charge pour mise en place et ajustement d'une iléostomie et autres dispositifs intestinaux';1;0
+e;6358214;'remise en place de vaisseaux rénaux aberrants';1;0
+e;6359987;'remise en place de la lentille oculaire';1;0
+e;6371296;'remise en place du testicule dans le scrotum';1;0
+e;6374689;'prise en charge pour mise en place et ajustement d'autres appareils précisés';1;0
+e;6386981;'prise en charge pour mise en place et ajustement d'une prothèse externe du sein';1;0
+e;6394124;'prise en charge pour mise en place et ajustement d'une prothèse dentaire';1;0
+e;6406152;'prise en charge pour mise en place et ajustement d'autres appareils de prothèse externe';1;0
+e;6411225;'mettre en place une contention';1;0
+e;15976600;'place de l'étoile de David';777;0
+e;12981500;'place des Martyrs-Juifs-du-Vélodrome-d'Hiver';777;0
+e;6392623;'remise en place d'une artère rénale aberrante';1;0
+e;6413787;'guidage radiologique pour mise en place percutanée d'un tube pour entéroclyse';1;0
+e;13635609;'questionner la place de l'Homme dans notre société';1;0
+e;13641518;'place des terreaux';777;0
+e;13736649;'place Lise-et-Artur-London';777;0
+e;13811096;'place de Barcelone';777;0
+e;13814779;'grand place';777;0
+e;13853943;'place du Pont-Neuf';777;0
+e;13994948;'place Jean-Ferrat';777;0
+e;14020446;'treizième place';777;0
+e;14020453;'quatrième place';777;0
+e;14048629;'place Simone-Veil';777;0
+e;14097106;'place des corporations';777;0
+e;14159668;'baucher en place';1;0
+e;14159696;'changer le mal de place';1;0
+e;14258005;'place Dumoustier';777;0
+e;14321437;'place Jacques-Bainville';777;0
+e;14377296;'Les Enfants sur la place publique';777;0
+e;14400611;'place Bertin';777;0
+e;14452970;'conditions de mise en place';1;0
+e;14454662;'place d'hébergement pour les personnes sans domicile';1;0
+e;16151904;'la place de l'Europe-Simone Veil';777;0
+e;14561409;'place Belle-Maison';777;0
+e;14564194;'La place de l'Émissaire';777;0
+e;14581071;'Selon sa place dans le projet';777;0
+e;14609254;'mis à la place';777;0
+e;14654877;'place dans le service';1;0
+e;14654918;'être en place';1;0
+e;14669711;'place arrière';1;0
+e;14730926;'faire de la place';1;2
+e;14769198;'place Colignon';777;0
+e;14774437;'place passager';1;0
+e;14778867;'ne pas parler à la place d'un autre';1;0
+e;6339952;'mise en place d'un dispositif intra-utérin';1;0
+e;14902956;'place du Salin';777;0
+e;15433786;'faire place à [qch/qqn]';1;0
+e;15433842;'prendre la place de [qqn]';1;0
+e;6306109;'mise en place et ajustement d'autres appareils précisés';1;0
+e;6306668;'mise en place d'une sonde gastrique ou duodénale';1;0
+e;6315915;'mise en place et ajustement d'une prothèse externe du sein';1;0
+e;6343186;'mise en place et ajustement d'un appareil auditif';1;0
+e;6361643;'mise en place et ajustement d'autres appareils de prothèse externe';1;0
+e;6375268;'mise en place et ajustement de lunettes et verres de contact';1;0
+e;6415726;'mise en place et ajustement d'une prothèse dentaire';1;0
+e;15830949;'ne doit pas résoudre le problème à la place des étudiants';777;0
+e;15941950;'place du Docteur-Hayem';777;0
+e;16018248;'place Bassompierre';777;0
+e;13569103;'place du Trocadéro';1;0
+e;16138450;'place Pierre-Vauboin';777;0
+e;16144130;'place Tartini';777;0
+e;16154760;'place Saint-Fargeau';777;0
+e;16291647;'idoles de la place publique';777;0
+e;6424535;'mise en place de bandage velpeau';1;0
+e;10672182;'place du Parlement-de-Bretagne';777;0
+e;6284427;'prise en charge pour mise en place et ajustement d'un appareil urinaire';1;0
+e;6293225;'prise en charge pour mise en place et ajustement d'un appareil de prothèse externe non précisé';1;0
+e;6313171;'prise en charge pour mise en place et ajustement d'un appareil orthodontique';1;0
+e;6321366;'prise en charge pour mise en place et ajustement d'un appareil auditif';1;0
+e;12199567;'place Lahdim';777;0
+e;12199791;'place Omónia';777;0
+e;13541942;'place des changes';1;0
+e;14317037;'marque-place';1;0
+e;14485998;'place handicapé';1;0
+e;14486350;'pas à sa place';1;18
+e;14530026;'réserver une place';1;0
+e;14566606;'qui ne tient pas en place';1;0
+e;14584126;'place Stéphanie';1;0
+e;14635388;'avoir des parpaings à la place des pieds';1;0
+e;14653788;'manger sur place';1;0
+e;14670881;'place Gambetta';1;8
+e;14671078;'vouloir devenir calife à la place du calife';1;0
+e;14671079;'devenir calife à la place du calife';1;0
+e;14679331;'cloué sur place';1;2
+e;14716910;'place de l'Etoile';1;0
+e;14716938;'place du Colonel Fabien';1;2
+e;14725478;'place européenne';1;0
+e;14871175;'match pour la troisième place';777;0
+e;15032985;'artilleries de place';1;0
+e;6429454;'mise en place d'un cathéter central';1;0
+e;10676505;'place des Cordeliers';777;0
+e;10671420;'place des Allobrogres et le jardin du 8-Mai-1945';777;0
+e;10620969;'place du marché de Wazemmes';777;0
+e;12981419;'place dominante';1;0
+e;12981420;'place dominante au niveau institutionnel';1;0
+e;12990122;'place Jean-Macé';777;0
+e;13535940;'place semi-circulaire';1;0
+e;6427638;'prise en charge pour mise en place et ajustement d'un oeil artificiel';1;0
+e;10876344;'deuxième place';777;0
+e;10876077;'place Reine Astrid';777;0
+e;13527486;'place Bernard-Halpern';777;0
+e;10591293;'place Émile-Chanoux';777;0
+e;10901656;'place Saint-Lambert';777;0
+e;10966779;'tour de mise en place';777;0
+e;6441611;'mise en place d'électrodes pour une électrocorticographie';1;0
+e;6431156;'mise en place et ajustement d'autres appareils';1;0
+e;6427360;'mise en place percutanée de tube de gastrostomie';1;0
+e;6425888;'mise en place d'une prothèse mammaire';1;0
+e;6425415;'mise en place et ajustement d'un appareil orthodontique';1;0
+e;9958159;'massacre de la place Tian'anmen';777;0
+e;9958305;'place de la Vieille-Ville';777;0
+e;9959198;'place de la Pointe Saint-Eustache';777;0
+e;9959438;'place du Palais-Bourbon';777;0
+e;9959440;'place Saint-Thomas-d'Aquin';777;0
+e;9961945;'square de la place de la Nation';777;0
+e;9962288;'Les Végétaloufs dans la place';777;0
+e;9962084;'jardin de la place de la Porte Maillot';777;0
+e;9977719;'place de Varsovie';777;0
+e;10599490;'place du Château-d'Eau';777;0
+e;10599476;'place de la Fontaine-aux-Lions';777;0
+e;10599268;'place Charles-Garnier';777;0
+e;10914308;'place de la Monnaie';777;0
+e;10969635;'place Constantin-Pecqueur';777;0
+e;11055932;'place de Paris';1;0
+e;11030974;'place Dailly';777;0
+e;11030706;'place de Brouckère';777;0
+e;11030527;'place fortifiée de Besançon';777;0
+e;11030520;'place fortifiée de Verdun';777;0
+e;11030513;'place forte de Toul';777;0
+e;11030483;'place fortifiée de Belfort';777;0
+e;15592868;'céder la place à';1;0
+e;15433760;'céder la place à [qqn]';1;0
+e;15592867;'céder la place à quelqu'un';1;0
+e;15490995;'céder sa place';1;0
+e;15592873;'céder sa place à';1;0
+e;15433761;'céder sa place à [qqn]';1;0
+e;15572913;'céder sa place à qn';1;0
+e;15592872;'céder sa place à quelqu'un';1;0
+e;15494207;'cédé la place';1;0
+e;15226946;'dans un étang, il n'y a pas de place pour deux dragons';1;0
+e;15543785;'de la place';1;0
+e;15596072;'donner sa place à';1;0
+e;15433775;'donner sa place à [qqn]';1;0
+e;15592884;'donner sa place à quelqu'un';1;0
+e;15433769;'défendre sa place';1;0
+e;15333078;'détenir une place';1;0
+e;15386993;'effet sur place';1;0
+e;15573896;'elle te piquent ta place';1;0
+e;15209376;'en bonne place';1;0
+e;15428588;'en lieu et place de [qch]';1;0
+e;15572907;'en lieu et place de qch';1;0
+e;15596078;'en lieu et place de quelque chose';1;0
+e;15428589;'en mes lieu et place';1;0
+e;15354048;'en restant cloué sur place';1;0
+e;2374684;'grand-place';1;0
+e;5574187;'La mise en place du Jaconas';777;0
+e;5574186;'La mise en place de la garniture';777;0
+e;6443429;'mise en place d'un bandage plâtré en huit de l'épaule au bras';1;0
+e;9966650;'square de la place Étienne-Pernet';777;0
+e;9960504;'place de l'Orient';777;0
+e;9963908;'square de la place de la Bataille-de-Stalingrad';777;0
+e;9963909;'square de la place de Bitche';777;0
+e;9966604;'place Jacques-Marette';777;0
+e;9966871;'jardin de la place Rodin';777;0
+e;9972714;'place de la Porte-d'Auteuil';777;0
+e;9980437;'trouver une place de parking';1;0
+e;9980433;'tenir en place';1;0
+e;9980169;'avoir des places';1;0
+e;9980147;'avoir assez de place';1;0
+e;10000227;'place de l'Église-de-l'Assomption';777;0
+e;9998655;'place Komsomolskaïa';777;0
+e;10591471;'ne pas trouver de place';1;2
+e;10914056;'parvis Notre-Dame - place Jean-Paul-II';777;0
+e;10993398;'place de l'Europe';777;0
+e;10991482;'place du Panthéon';777;0
+e;11055897;'place de la Nation';777;2
+e;11030548;'place fortifiée de Dijon';777;0
+e;11030507;'place fortifiée d'Épinal';777;0
+e;11030768;'place au soleil';777;0
+e;11358590;'place du 22-Novembre-1943';777;0
+e;11358589;'place du Vingt-Deux-Novembre-1943';777;0
+e;11358581;'place du Père-Teilhard-de-Chardin';777;0
+e;11806482;'place du Président-Wilson';777;0
+e;14020449;'dix-septième place';777;0
+e;15433002;'chercher sa place';1;0
+e;15433765;'clouer [qqn] sur place';1;0
+e;15592881;'clouer quelqu'un sur place';1;0
+e;15433766;'consulter sur place';1;0
+e;15387003;'contrôle sur place';1;0
+e;6435329;'mise en place d'endoprothèses dans l'artère coronaire';1;0
+e;6423645;'manipulation et mise en place d'un plâtre ou d'une attelle';1;0
+e;10015363;'place Camille-Claudel';777;0
+e;10015362;'place Paul-Claudel';777;0
+e;10742782;'place des femmes dans l'Égypte antique';777;0
+e;10869784;'Bienvenue place Beauvau';777;0
+e;10869445;'place Rihour';777;0
+e;10921498;'Les Perroquets de la place d'Arezzo';777;0
+e;11061393;'place de la Dictature du prolétariat';777;0
+e;11354100;'place de Mai';777;0
+e;11353877;'place Flandres-Dunkerque';777;0
+e;11353423;'Tout le monde veut prendre sa place';777;0
+e;11407378;'jardin de la place Raymond-Losserand';777;0
+e;11407375;'jardin de la place Jules-Hénaffe';777;0
+e;11785236;'place de la Constitution';777;0
+e;11784350;'place de Fontenoy';777;0
+e;11806483;'place Wilson';777;0
+e;11806481;'place du Président-Thomas-Wilson';777;0
+e;11822671;'place Bolívar';777;0
+e;11822746;'place Saint-Tugal';777;0
+e;11994411;'place de l'Île-de-la-Réunion';777;0
+e;11994431;'place Pasteur';777;0
+e;11994451;'place du Bataillon-du-Pacifique';777;0
+e;15401928;'autorité de place';1;0
+e;15380411;'autorité qui gouverne, gouvernement en place';1;0
+e;15420282;'avoir un petit pois à la place du cerveau';1;2
+e;15415242;'avoir un sexe à la place du cerveau';1;0
+e;15394531;'changement de place';1;0
+e;15592876;'changer de place avec';1;0
+e;15433763;'changer de place avec [qqn]';1;0
+e;15592875;'changer de place avec quelqu'un';1;0
+e;15592879;'chauffer la place à';1;0
+e;15433764;'chauffer la place à [qqn]';1;0
+e;15592878;'chauffer la place à quelqu'un';1;0
+e;2495459;'laisser-sur-place';1;0
+e;5874331;'place de chant';777;0
+e;10037455;'Mystère place Vendôme';777;0
+e;10033586;'place du Colonel-Fabien';777;0
+e;10033583;'place des États-Unis';777;0
+e;10033579;'place Franz-Liszt';777;0
+e;10033578;'place Colette';777;0
+e;10033575;'place du Palais-Royal';777;0
+e;10942800;'place Charles II';777;0
+e;10942448;'place Balard';777;0
+e;10962150;'place de la Daurade';777;0
+e;11071234;'place Masséna';777;0
+e;11076796;'place du Pont-Saint-Michel';777;0
+e;11079791;'place Fédérale';777;0
+e;11079929;'place Napoléon';777;0
+e;11348612;'place du Bourg';777;0
+e;11406883;'place Henri Maus';777;0
+e;11807801;'6ee place';777;0
+e;11924761;'monument de la place d'Austerlitz';777;0
+e;15569436;'consultation sur place';1;0
+e;15263010;'arc de triomphe de la place de l'étoile';1;0
+e;2386756;'chauffer la place';1;6
+e;5918126;'Nettoyage en place';777;0
+e;5955652;'Cory est dans la place';777;0
+e;6431159;'mise en place d'un plâtre cylindrique de la cuisse à la cheville';1;0
+e;10954176;'square de la place André-Masson';777;0
+e;10954215;'place Duchesse-Anne';777;0
+e;10833811;'Sur place ou à emporter';777;0
+e;10865861;'place D'Youville';777;0
+e;10929217;'place Jourdan';777;0
+e;10936642;'place de la République de Caen';777;0
+e;10935761;'place Jean-Gabin';777;0
+e;11080949;'place du village';1;6
+e;11083267;'place Henri-Mondor';777;0
+e;11083528;'place Gérard-Oury';777;0
+e;11089606;'place du Pérou';777;0
+e;11083529;'place de Rio-de-Janeiro';777;0
+e;11083517;'place Prosper-Goubaux';777;0
+e;11083484;'place de Séoul';777;0
+e;11410598;'place de Lenche';777;0
+e;11698728;'place de la Révolution';777;0
+e;11788421;'place du Dam';777;0
+e;11814395;'place des Invalides';777;0
+e;12032922;'manifestations de la place Tian'anmen';777;0
+e;16310575;'La place de l'homme dans l'univers';777;0
+e;15439970;'Qui va à la chasse perd sa place';1;0
+e;15317899;'Si vous ne trouvez pas de poireaux, servez-vous d'oignons nouveaux à la place.';1;0
+e;15740146;'Sur place ou à emporter ?';1;0
+e;15304674;'Une législation similaire est déjà en place au Pays de Galles.';1;0
+e;15472654;'Vincent a eu la troisième place au concours.';1;0
+e;15255037;'accompagner qn jusqu'à sa place';1;0
+e;15384353;'accorder peu de place';1;0
+e;15389517;'accorder une place de premier plan à qch';1;0
+e;5794223;'boulangerie-pâtisserie place Henri-Krasucki';777;0
+e;6432196;'remise en place manuelle d'inversion utérine obstétricale';1;0
+e;10039743;'3e place';777;0
+e;10039429;'obélisque de la place Saint-Jean-de-Latran';777;0
+e;10039398;'place d'Espagne';777;0
+e;10039343;'place Navone';777;0
+e;10039327;'place du Capitole';777;0
+e;10748810;'place Jacques-Cartier';777;0
+e;10841534;'place des Abbesses';777;0
+e;10839580;'place Thiers';777;0
+e;10839577;'place Maubert';777;0
+e;10850416;'7e place';777;0
+e;10930796;'place des Petits-Pères';777;0
+e;10930620;'place d'Alliance';777;0
+e;10930619;'place de la Carrière';777;0
+e;11021914;'se mettre à la place';777;0
+e;11287201;'Mères de la place de Mai';777;0
+e;11694513;'place Abbé-Larue';777;0
+e;11694719;'place des femmes dans la création musicale';777;0
+e;12049261;'place du Commerce';777;0
+e;12289629;'place Fontainas';777;0
+e;12289668;'faire un demi-tour sur place';1;0
+e;12863359;'place Neuve';777;0
+e;13439896;'place des femmes en politique en France';777;0
+e;15352093;'Mettez-les chacun à sa place.';1;0
+e;16153813;'Mise en place de l'intrigue';777;0
+e;16315920;'La place des spectateurs';777;0
+e;16318481;'Musée de la place Royale';777;0
+e;16325127;'Match pour la 3e place';777;0
+e;10039401;'place Farnèse';777;0
+e;10312167;'place d'Armes';777;0
+e;10334658;'place du Général-de-Gaulle';777;0
+e;10334657;'place Villeneuve-Bargemon';777;0
+e;10334651;'place Jules-Guesde';777;0
+e;10334647;'place Castellane';777;0
+e;10328785;'danses de procession ou de place';777;0
+e;10849291;'place de la Sorbonne';777;0
+e;11095257;'place fortifiée de Strasbourg';777;0
+e;11095068;'place du Colonel-Bourgoin';777;0
+e;11453841;'place Darcy';777;0
+e;12005974;'La Maison de la place Troubnaïa';777;0
+e;12006236;'Le Parti cesse d'exister pour laisser place au Parti du socialisme démocratique';777;0
+e;12051114;'mettre en place des procédures de sécurité côté piste';1;0
+e;12051612;'mettre en place les tables';1;0
+e;12051426;'mettre en place des appareils dentaires';1;0
+e;2374762;'qui part à la chasse perd sa place';1;0
+e;2399390;'avoir un pois chiche à la place du cerveau';1;0
+e;5988636;'mise en place de réseaux et de couloirs écologiques aux niveaux national et régional';777;0
+e;5985317;'place de la Mairie';777;0
+e;6684979;'ne pas avoir de place';1;0
+e;6427191;'prise en charge pour mise en place et ajustement d'autres appareils en rapport avec le système nerveux et les organes des sens';1;0
+e;10847895;'place de la Trinité';777;0
+e;11286017;'attribuer une place';1;0
+e;11341908;'place Saint-Sulpice';777;0
+e;11392920;'place d'Aligre';777;0
+e;12043570;'mettre en place quelque chose';1;0
+e;12043567;'mettre en place un réseau privé virtuel';1;0
+e;2408397;'place au doute';1;0
+e;5624435;'fontaine de la place des Quirites';777;0
+e;5624425;'fontaine de la place Sainte-Marie-Majeure';777;0
+e;11236807;'place Mohamed-Bouazizi';777;0
+e;11364038;'place Saint-Louis';777;0
+e;11364011;'place Mazelle';777;0
+e;11363700;'place de la Perle';777;0
+e;11393704;'place Jacques-Rueff';777;0
+e;11590496;'place des femmes en médecine';777;0
+e;12057397;'place Félix Govaert';777;0
+e;5624424;'fontaine de la place Santa Maria Maggiore';777;0
+e;6065243;'place de Bitche';777;0
+e;10050443;'place Saint-François';777;0
+e;10050442;'place de la Riponne';777;0
+e;10050441;'place de la Palud';777;0
+e;10050440;'place de la Louve';777;0
+e;10352539;'place Flagey';777;0
+e;10346740;'place Boieldieu';777;0
+e;10787445;'place d'Acadie';777;0
+e;11224040;'place Étienne-Pernet';777;0
+e;11248802;'place de la Cathédrale';777;0
+e;11330414;'place Venceslas';777;0
+e;11364718;'place Kléber';777;0
+e;11364281;'place Raymond-Mondon';777;0
+e;11364280;'place de la Gare';777;0
+e;11364279;'place du Roi-George';777;0
+e;11364277;'place des charrons';777;0
+e;11383737;'place Bellecour';777;0
+e;13388058;'place Romaine';777;0
+e;13388059;'place Rosetti';777;0
+e;13388060;'place de l'Union';777;0
+e;13388061;'place de l'université';777;0
+e;13388062;'place de la Victoire';777;0
+e;16070727;'La place de la gare centrale d'Helsinki';777;0
+e;2384816;'battre une place';1;0
+e;5624423;'fontaine de la place du Maréchal-Lyautey';777;0
+e;6445233;'mise en place précoce d'implant dentaire';1;0
+e;6444252;'incision du col de l'utérus pour remise en place d'inversion utérine';1;0
+e;6681496;'prendre le plus de place possible';1;0
+e;10186616;'Livre sur la place';777;0
+e;10546941;'service de place';777;0
+e;11012278;'place de Palestine';777;0
+e;11248720;'place Saint-Denis';777;0
+e;11248812;'place des Guillemins';777;0
+e;11248807;'place des Déportés';777;0
+e;11248808;'place Émile Dupont';777;0
+e;11248804;'place Cockerill';777;0
+e;11248810;'place du Général Leman';777;0
+e;11248805;'place du Congrès';777;0
+e;11248817;'place de la République française';777;0
+e;11248822;'place Saint-Pholien';777;0
+e;11248818;'place Saint-Barthélemy';777;0
+e;11248811;'place Georges Ista';777;0
+e;11248819;'place Saint-Christophe';777;0
+e;11248813;'place Joseph de Bronckart';777;0
+e;11248816;'place Pierre Clerdent';777;0
+e;11248800;'place des Béguinages';777;0
+e;11248799;'place du Batty';777;0
+e;11248824;'place Xavier Neujean';777;0
+e;11248821;'place Saint-Paul';777;0
+e;11248815;'place de l'Opéra';777;4
+e;11248803;'place Cathédrale';777;0
+e;11248820;'place Saint-Étienne';777;0
+e;11248806;'place Delcour';777;0
+e;11248823;'place Sainte-Véronique';777;0
+e;11248825;'place de l'Yser';777;0
+e;11248814;'place du Marché';777;0
+e;11248801;'place des Carmes';777;0
+e;11250522;'place Syntagma';777;0
+e;11250852;'place de la Contrescarpe';777;0
+e;11326743;'place du drapeau national';777;0
+e;11334458;'place Pey-Berland';777;0
+e;11364283;'place Coislin';777;0
+e;11364282;'place de Maud'huy';777;0
+e;11364203;'place de Chambre';777;0
+e;11572262;'place d'Iéna';777;0
+e;12053259;'mettre en place une infrastructure temporaire sur un chantier de construction';1;0
+e;12278071;'place Graslin';777;0
+e;12278043;'place du Port-Communeau';777;0
+e;12278114;'place du Change';777;0
+e;12278075;'place Général-Mellinet';777;0
+e;12792438;'Gouvernement en place';777;0
+e;10069241;'place des femmes dans l'hindouisme';777;0
+e;10083388;'place du Trocadéro-et-du-11-Novembre';777;0
+e;10083305;'place de l'Alma';777;0
+e;10081735;'place d'Alésia';777;0
+e;10088654;'place Denfert-Rochereau';777;2
+e;10132643;'place André-Malraux';777;0
+e;10186197;'place des Restauradores';777;0
+e;10369715;'place des Quirites';777;0
+e;10459156;'place Newton';777;0
+e;10459151;'place Sainte-Catherine';777;0
+e;10459065;'place Saint-Michel';777;0
+e;11156351;'place Saint-Sauveur';777;0
+e;11216782;'place Maurice-Mollard';777;0
+e;11248809;'place des Franchises';777;0
+e;11253758;'place de parking libre';1;0
+e;11305731;'place de la Liberté';777;0
+e;11305728;'place d'Orange';777;0
+e;11305727;'place des Barricades';777;0
+e;11305726;'place Charles Rogier';777;0
+e;11305725;'place des Martyrs';777;0
+e;11381897;'place Octave-Chanute';777;0
+e;11617043;'place Madou';777;0
+e;11968879;'place de l'Europe - Simone Veil';777;0
+e;12278131;'place des Volontaires-de-la-Défense-Passive';777;0
+e;12278132;'place Canclaux';777;0
+e;12278154;'place Viarme';777;0
+e;16387549;'Assurer la place de la France maritime dans le monde et la mettre en mesure d'assumer ses responsabilités';777;0
+e;2413289;'aux lieu et place de';1;0
+e;2449275;'quart de place';1;0
+e;10081734;'place Victor-et-Hélène-Basch';777;0
+e;10185971;'place Don Pedro IV';777;0
+e;10446430;'place Carnot';777;0
+e;11008054;'place des Palmistes';777;0
+e;11175290;'place Valhubert';777;0
+e;12278214;'place de l'Édit-de-Nantes';777;0
+e;12278206;'place Waldeck-Rousseau';777;0
+e;12278291;'place Aristide-Briand';777;0
+e;12278189;'place Roger-Salengro';777;0
+e;12278306;'place Édouard-Normand';777;0
+e;12278288;'place Maréchal-Foch';777;0
+e;12278413;'place Jemaa el-Fna';777;0
+e;2434050;'remettre les idées en place';1;0
+e;6063556;'maison du 5 place du Change';777;0
+e;6447919;'prise en charge pour mise en place et ajustement d'appareils de prothèse externe';1;0
+e;10444438;'place Jussieu';777;0
+e;11010634;'place des femmes dans l'attribution du prix Nobel';777;0
+e;11158121;'place Pogge';777;0
+e;11162210;'place Robert-Guillemard';777;0
+e;11179293;'Une place sur la Terre';777;0
+e;2368874;'au lieu et place de';1;0
+e;5938068;'entre la place Dumon et la rue Édouard Gersis';777;0
+e;6064077;'maison située au 1 place de l'Église à Ensisheim';777;0
+e;6684977;'ne pas avoir assez de place';1;0
+e;10137060;'1 place';777;0
+e;10160818;'place de la Rotonde';777;0
+e;10159242;'place Édith-Piaf';777;0
+e;11924433;'Panorama de la place Saint-Marc pris d'un bateau';777;0
+e;15525834;'La rue débouche sur une place.';1;0
+e;5989526;'place du Bouffay';777;0
+e;11105405;'place Alexis-Ricordeau';777;0
+e;15399912;'La foire va se tenir place du marché.';1;0
+e;2474593;'trouver place';1;0
+e;5557351;'Amour sur place ou à emporter';777;0
+e;6448620;'mise en place d'endoprothèse du canal cholédoque';1;0
+e;6529200;'census-designated place';1;0
+e;12775366;'place Édouard-Renard';777;0
+e;12775334;'place Félix-Éboué';777;0
+e;15952112;'La Grande place';777;0
+e;12770839;'place Raoul-Dautry';777;0
+e;12768170;'place Leicester';777;0
+e;6451931;'mise en place immédiate d'implant dentaire';1;0
+e;10441923;'Une place à prendre';777;0
+e;12266873;'place des Vins-de-France';777;0
+e;12770838;'place du 18-Juin-1940';777;0
+e;8462621;'remettre en place';1;16
+e;8462626;'se faire remettre en place';1;0
+e;6450906;'mise en place et ajustement d'appareils de prothèse externe';1;0
+e;6681495;'prendre le moins de place possible';1;0
+e;9245538;'place Georges-Pompidou';777;0
+e;5990866;'Jean Marie Farina vis-à-vis de la place Juliers';777;0
+e;15500930;''Quelle place voulez-vous?' -- 'Celle-là.'';1;0
+e;9805944;'place Louis-Armand';777;0
+e;8936751;'place Général Meiser';777;0
+e;9022514;'place Saint-Epvre';777;0
+e;9102210;'place Saint-Jacques';777;0
+e;9597043;'place Stanislas';777;0
+e;9699282;'place de Helmet';777;0
+e;9770085;'place des femmes dans la société étrusque';777;0
+e;11119392;'place du Carrousel';777;0
+e;11119491;'jardin de la place Souham';777;0
+e;11119659;'place Sainte-Anne';777;0
+e;11119489;'jardin de la place Louis-Armstrong';777;0
+e;11119511;'square de la place d'Italie';777;0
+e;11119599;'place de la Bourse';777;0
+e;11119628;'place Paul-Verlaine';777;0
+e;11126607;'place Pablo-Picasso';777;0
+e;11126642;'place de la Buire';777;0
+e;11126641;'place Bir-Hakeim';777;0
+e;11126616;'place des Fêtes';777;0
+e;11129905;'place Saint-Isaac';777;0
+e;11131659;'La place Santissima Annunziata';777;0
+e;15343052;'Il n'a pas payé sa place.';1;0
+e;12484187;'place Rapp';777;0
+e;12634067;'prendre une place importante';1;0
+e;12634066;'prendre une place importante dans la famille';1;0
+e;12616761;'place Naghch-e Djahan';777;0
+e;12701154;'place de la Madeleine';777;0
+e;12734325;'place de la Foire';777;0
+e;12734250;'place Antonin-Chastel';777;0
+e;12729826;'place du Pilori';1;0
+e;13550264;'8e place';777;0
+e;13636468;'5e place';777;0
+e;14435993;'2e place';777;0
+e;14564100;'Adjudant de place';777;0
+e;14610675;'Entre le boulevard Saint-Marcel et la place d'Italie';777;0
+e;14721457;'1re place';777;0
+e;14721458;'2de place';777;0
+e;14721459;'4e place';777;0
+e;15286053;'Je le place sixième.';1;0
+e;14540652;'Grands-Mères de la place de Mai';777;0
+e;15337817;'Est-ce à manger sur place ou à emporter ?';1;0
+e;15273956;'Est-ce à consommer sur place ou à emporter ?';1;0
+e;15306375;'Il était littéralement impossible de trouver une place.';1;0
+e;15500903;'Il y est allé à la place de Peter.';1;0
+e;15364083;'Il a changé de place avec Thierry.';1;0
+e;15329361;'Il n'y a guère de place pour l'originalité.';1;0
+e;15571321;'Cette place est occupée.';1;0
+e;15399910;'Il occupait la place du coin.';1;0
+e;15571323;'Cette place est-elle occupée ?';1;0
+e;15409916;'Ils ont mis en place un service de bus supplémentaire.';1;0
+e;15976834;'Il y a plein de place.';1;0
+e;15352095;'Chaque chose à sa place.';1;0
+e;15522875;'Cette place est retenue.';1;0
+e;15522877;'Est-ce que cette place est libre?';1;0
+e;15522879;'Est-ce que cette place est occupée?';1;0
+e;15522881;'Est-ce que cette place est prise?';1;0
+e;15314416;'Je suis désolé, cette place est réservée.';1;0
+e;16072510;'Conditions de mise en place';1;0
+e;4496080;'place militaire fortifiée';1;0
+e;1645218;'dormir sur place';1;2
+e;2493741;'en place de';1;0
+e;2581602;'fronton place libre';777;0
+e;5331231;'galérer à trouver une place';1;0
+e;1766456;'mettre à la place';1;0
+e;2526389;'courbette en place';1;0
+e;3706177;'chercher une place de parking';1;4
+e;589046;'changer de place';1;0
+e;1490266;'occuper une place centrale';1;0
+e;1746709;'être à sa place';1;0
+e;2517833;'faire du sur place';1;0
+e;3176668;'place Royale';777;0
+e;5332150;'ne pas être à sa place';1;0
+e;2950153;'rester en place';1;0
+e;572584;'place des palmistes';777;50
+e;3706178;'ne pas trouver une place de parking';1;0
+e;460912;'troisième place';777;50
+e;1655670;'maître de place';1;0
+e;3750541;'place d'Italie';777;0
+e;4290602;'remettre quelqu'un à sa place';1;4
+e;465001;'the right patient to the right place at the right time';777;50
+e;1888123;'place-parvis';777;0
+e;4266871;'laisser place à';1;0
+e;4304697;'place de la science dans la société';1;0
+e;461670;'place des';777;50
+e;578194;'Chacun sa place !';777;0
+e;1755645;'remis en place';1;0
+e;2926265;'place de Clichy';777;0
+e;3663990;'ne pas rester en place';1;0
+e;1574961;'place Clichy';777;0
+e;3173760;'place de Catalogne';777;0
+e;3210711;'place fortifiée';1;0
+e;1490174;'un portefeuille à la place du coeur';1;0
+e;1703570;'manque de place';1;4
+e;1794754;'à sa place';1;2
+e;436106;'prendre sa place';1;50
+e;1630219;'voler sur place';1;0
+e;1894821;'première place du classement';1;0
+e;1966209;'se mettre à la place de quelqu'un';1;0
+e;2538437;'faire place à';1;0
+e;2537473;'avoir une pierre à la place du coeur';1;0
+e;3374739;'impossibilité de la mise en place d'une sonde nasogastrique';1;0
+e;3750531;'place Monge';777;0
+e;3170986;'place de l'Hôtel-de-Ville - Esplanade de la Libération';777;0
+e;381862;'sur la place publique';1;50
+e;379021;'seconde place';1;50
+e;370744;'place payante';1;50
+e;370742;'place de banque';1;50
+e;370713;'place de finance';1;50
+e;361831;'lit à une place';1;52
+e;381861;'sur la place de';1;50
+e;370712;'place de choix';1;50
+e;370706;'place avant';1;50
+e;368661;'parc de place';1;50
+e;356648;'grande place financière';1;50
+e;351057;'en place pour';1;50
+e;370743;'place de guerre';1;50
+e;370724;'place principale';1;50
+e;370708;'place bancaire';1;50
+e;369336;'payable dans une autre place';1;50
+e;370725;'place à table';1;50
+e;369337;'payable sur place';1;50
+e;379509;'service à la place';1;50
+e;370741;'place d'avion';1;50
+e;370721;'place internationale';1;50
+e;351056;'en place dans';1;50
+e;388866;'à proximité de la place';1;50
+e;370740;'place commerçante';1;50
+e;370716;'place de première';1;50
+e;379520;'service de consommation sur place';1;50
+e;370720;'place gratuite';1;50
+e;370710;'place d'assurance';1;50
+e;370707;'place bancable';1;50
+e;377982;'réservation de place';1;50
+e;370719;'place financière internationale';1;50
+e;370717;'place de seconde';1;50
+e;370709;'place boursière';1;50
+e;375947;'remise en place';1;50
+e;370723;'place piétonne';1;50
+e;370722;'place manufacturière';1;50
+e;370718;'place enviable';1;50
+e;352505;'essai sur place';1;50
+e;370715;'place de premier plan';1;50
+e;370714;'place de premier ordre';1;50
+e;370711;'place de bus';1;50
+e;350213;'en bonne place pour';1;50
+e;349059;'dégustation sur place';1;50
+e;336665;'artillerie de place';1;50
+e;115327;'garde-place';1;50
+e;110753;'demi-place';1;50
+e;41544;'sur-place';1;50
+e;330834;'rester à sa place';1;60
+e;318126;'place des Pyramides';666;50
+e;322150;'place du Peyrou';1;50
+e;322152;'place royale du Peyrou';777;50
+e;329919;'place Saint Marc';1;50
+e;316208;'perdre sa place';1;50
+e;221333;'the right man at the right place';1;50
+e;260691;'manquer de place';1;50
+e;167107;'place du mort';1;54
+e;167779;'place Tian'anmen';1;50
+e;207770;'se faire une place au soleil';1;50
+e;207842;'se mettre à la place de qqn';1;50
+e;210119;'à la place d'honneur';1;50
+e;217399;'place Saint-Marc';1;24
+e;220539;'place de Grève';1;50
+e;223621;'place de village';666;50
+e;225558;'place Vendôme';666;50
+e;225560;'place de l'Étoile';666;4
+e;226075;'place de la Concorde';1;52
+e;228104;'place de marché';1;52
+e;230458;'corps de place';1;50
+e;230936;'place Tahrir';1;50
+e;230939;'place Saint-Pierre';1;4
+e;230941;'place du Vieux Marché';1;50
+e;230942;'place du Tertre';1;66
+e;231028;'place de la République';1;64
+e;237820;'place de parking';1;132
+e;239086;'prendre toute la place';1;50
+e;242860;'place de concert';1;52
+e;244186;'place de l'Hôtel de Ville';1;50
+e;246461;'place de la mairie';1;50
+e;249479;'place de théâtre';1;10
+e;249864;'place libre';1;36
+e;249865;'trouver une place';1;46
+e;249866;'place de stationnement';1;30
+e;249973;'place Beauvau';1;108
+e;253366;'place de la Bastille';1;58
+e;255431;'tenir sa place';1;50
+e;255829;'première place';1;36
+e;256985;'place vacante';1;14
+e;257005;'place réservée';1;50
+e;257010;'chercher une place';1;74
+e;258729;'avoir une bite à la place du cerveau';1;50
+e;260103;'gain de place';1;50
+e;262856;'place Pigalle';1;58
+e;263995;'à une place';1;50
+e;52289;'A place Among the Nations: Israël and The World';1;50
+e;59661;'voiture de place';1;50
+e;60657;'place du Latran';1;50
+e;77255;'sur place';1;72
+e;108066;'tenir place de';1;50
+e;115548;'place Dauphine';1;50
+e;161774;'place aux jeunes';1;52
+e;162948;'place financière';1;54
+e;163542;'place de cinéma';1;56
+e;164936;'petite place';1;50
+e;165962;'place des Vosges';1;58
+e;171721;'sur la place';1;50
+e;204287;'ne pas tenir en place';1;50
+e;206616;'qui va à la chasse perd sa place';1;50
+e;207088;'rester cloué sur place';1;50
+e;211421;'occuper la place d'honneur';1;50
+e;211527;'place d'armes';1;50
+e;215407;'place de la Comédie';1;4
+e;275980;'Ma place au soleil';777;50
+e;81313;'à la place de';1;70
+e;34951;'prendre place';1;52
+e;40988;'position de place';1;50
+e;93151;'mettre en place';1;66
+e;122861;'remettre à sa place';1;84
+e;125226;'place des mots';1;50
+e;126714;'vider la place';1;50
+e;136654;'à cette place';1;50
+e;151615;'deux place';1;50
+e;152930;'place Rouge';1;58
+e;181295;'calife à la place du calife';1;50
+e;182055;'dévot de place';1;50
+e;183702;'place extraterritoriale';1;50
+e;184612;'travailleur en place';1;50
+e;205598;'place debout';1;50
+e;206154;'prendre la place de';1;58
+e;206633;'quitter sa place';1;50
+e;211528;'place d'honneur';1;50
+e;265178;'consommer sur place';1;58
+e;265569;'pouvoir en place';1;54
+e;267216;'place Taksim';1;4
+e;270239;'place de la république';1;50
+e;275958;'place de spectacle';777;50
+e;275998;'Une place au soleil';777;50
+e;276070;'place Drouet-d'Erlon';777;50
+e;276071;'place d'Erlon';777;50
+e;278662;'place royale';777;50
+e;279624;'place du Vieux-Marché';777;50
+e;286837;'place du Châtelet';777;52
+e;288986;'place de l'Hôtel-de-Ville';777;50
+e;289879;'place de l'Hôtel-de-Ville - esplanade de la Libération';777;50
+e;295703;'place des Lices';777;50
+e;296991;'place ronde';777;50
+e;304633;'place Charles-de-Gaulle';777;50
+e;306041;'finale pour la troisième place';777;50
+e;310668;'avancée de corps de place';777;50
+e;76326;'place forte';1;66
+e;24395;'mis en place';1;52
+e;137126;'Choeur de l'église des Capucins de la place Barberini';1;50
+e;159623;'place du marché';1;54
+e;185728;'avoir une pierre à la place du cur';1;50
+e;196455;'avoir de la place';1;52
+e;197351;'céder la place';1;50
+e;197453;'change de place';1;50
+e;197670;'clouer sur place';1;50
+e;199305;'en lieu et place de';1;50
+e;199910;'être dans la place';1;50
+e;205597;'place assise';1;54
+e;20949;'mise en place';1;70
+e;199346;'en place';1;54
+e;365;'tenir la place';1;50
+e;166099;'en lieu et place';1;50
+e;155404;'être à la place de';1;50
+e;166098;'chaque chose à sa place';1;88
+e;166100;'laisser sa place';1;50
+e;166101;'prendre la place';1;50
+e;157826;'place de l'église';1;52
+e;159181;'faire place nette';1;50
+e;220033;'chacun sa place';1;52
+e;159180;'à la place';1;52
+e;154659;'faire place';1;54
+e;157825;'place publique';1;80
+e;127686;'de place en place';1;50
+r;403376383;13943;15686883;11;25
+r;396755370;13943;6291093;11;25
+r;396714842;13943;6290600;11;25
+r;301690876;13943;6347983;11;25
+r;299570810;13943;6308586;11;25
+r;300191509;13943;6325456;11;25
+r;301493394;13943;6342781;11;25
+r;302032355;13943;6358214;11;25
+r;302085157;13943;6359987;11;25
+r;302988760;13943;6371296;11;25
+r;303465537;13943;6374689;11;25
+r;304478134;13943;6386981;11;25
+r;304902430;13943;6394124;11;25
+r;305311207;13943;6406152;11;25
+r;305472637;13943;6411225;11;25
+r;416983475;13943;15976600;11;25
+r;337349785;13943;12981500;11;25
+r;341194344;13943;6392623;11;25
+r;341246075;13943;6413787;11;25
+r;345828464;13943;13635609;11;25
+r;346149123;13943;13641518;11;25
+r;348287746;13943;13736649;11;25
+r;349261024;13943;13811096;11;25
+r;349450766;13943;13814779;11;25
+r;350105750;13943;13853943;11;25
+r;352642488;13943;13994948;11;25
+r;354085184;13943;14020446;11;25
+r;354097654;13943;14020453;11;25
+r;355290965;13943;14048629;11;25
+r;357038793;13943;14097106;11;25
+r;359710246;13943;14159668;11;25
+r;359710676;13943;14159696;11;25
+r;361557431;13943;14258005;11;25
+r;364459630;13943;14321437;11;25
+r;365192367;13943;14377296;11;25
+r;365961888;13943;14400611;11;25
+r;366881010;13943;14452970;11;25
+r;366947999;13943;14454662;11;25
+r;423520703;13943;16151904;11;25
+r;369980156;13943;14561409;11;25
+r;370236476;13943;14564194;11;25
+r;370552302;13943;14581071;11;25
+r;371244636;13943;14609254;11;25
+r;372585907;13943;14654877;11;25
+r;372588808;13943;14654918;11;25
+r;372999464;13943;14669711;11;25
+r;374541734;13943;14730926;11;25
+r;375378765;13943;14769198;11;25
+r;375485841;13943;14774437;11;25
+r;375569722;13943;14778867;11;25
+r;399681053;13943;6339952;11;25
+r;389745645;13943;14902956;11;25
+r;395428478;13943;15433786;11;25
+r;395474377;13943;15433842;11;25
+r;397849996;13943;6306109;11;25
+r;397874784;13943;6306668;11;25
+r;398499951;13943;6315915;11;25
+r;399921651;13943;6343186;11;25
+r;400111486;13943;6361643;11;25
+r;400575953;13943;6375268;11;25
+r;401740819;13943;6415726;11;25
+r;412542306;13943;15830949;11;25
+r;414833383;13943;15941950;11;25
+r;417587432;13943;16018248;11;25
+r;419853947;13943;13569103;11;25
+r;423418867;13943;16138450;11;25
+r;423432858;13943;16144130;11;25
+r;423720339;13943;16154760;11;25
+r;427470237;13943;16291647;11;25
+r;122738079;13943;6424535;11;26
+r;270782167;13943;10672182;11;26
+r;297667631;13943;6284427;11;26
+r;298506289;13943;6293225;11;26
+r;299612270;13943;6313171;11;26
+r;300109463;13943;6321366;11;26
+r;316354532;13943;12199567;11;26
+r;316354921;13943;12199791;11;26
+r;343139875;13943;13541942;11;26
+r;364332871;13943;14317037;11;26
+r;368123351;13943;14485998;11;26
+r;368127672;13943;14486350;11;26
+r;368590761;13943;14530026;11;26
+r;370160581;13943;14566606;11;26
+r;370560289;13943;14584126;11;26
+r;371745009;13943;14635388;11;26
+r;372563198;13943;14653788;11;26
+r;373064351;13943;14670881;11;26
+r;373069447;13943;14671078;11;26
+r;373069460;13943;14671079;11;26
+r;373218199;13943;14679331;11;26
+r;374050935;13943;14716910;11;26
+r;374051283;13943;14716938;11;26
+r;374373363;13943;14725478;11;26
+r;384970639;13943;14871175;11;26
+r;393608867;13943;15032985;11;26
+r;122699927;13943;6429454;11;27
+r;270769754;13943;10676505;11;27
+r;267316627;13943;10671420;11;27
+r;267342372;13943;10620969;11;27
+r;333342386;13943;12981419;11;27
+r;333342552;13943;12981420;11;27
+r;333829082;13943;12990122;11;27
+r;343042376;13943;13535940;11;27
+r;122714091;13943;6427638;11;28
+r;273222181;13943;10876344;11;28
+r;273222984;13943;10876077;11;28
+r;342715632;13943;13527486;11;28
+r;264462473;13943;10591293;11;29
+r;274300279;13943;10901656;11;29
+r;277232239;13943;10966779;11;29
+r;121513589;13943;6441611;11;30
+r;122686849;13943;6431156;11;30
+r;122716296;13943;6427360;11;30
+r;122727600;13943;6425888;11;30
+r;122731265;13943;6425415;11;30
+r;220807816;13943;9958159;11;30
+r;220812814;13943;9958305;11;30
+r;220843820;13943;9959198;11;30
+r;220867438;13943;9959438;11;30
+r;220867967;13943;9959440;11;30
+r;220985062;13943;9961945;11;30
+r;221034304;13943;9962288;11;30
+r;221040957;13943;9962084;11;30
+r;222106055;13943;9977719;11;30
+r;264441652;13943;10599490;11;30
+r;264441715;13943;10599476;11;30
+r;264442208;13943;10599268;11;30
+r;274591781;13943;10914308;11;30
+r;277228413;13943;10969635;11;30
+r;280286832;13943;11055932;11;30
+r;280289737;13943;11030974;11;30
+r;280290628;13943;11030706;11;30
+r;280290776;13943;11030527;11;30
+r;280290794;13943;11030520;11;30
+r;280290807;13943;11030513;11;30
+r;280290893;13943;11030483;11;30
+r;419757682;13943;15592868;11;30
+r;419757688;13943;15433760;11;30
+r;419757698;13943;15592867;11;30
+r;419757743;13943;15490995;11;30
+r;419757747;13943;15592873;11;30
+r;419757753;13943;15433761;11;30
+r;419757763;13943;15572913;11;30
+r;419757771;13943;15592872;11;30
+r;419757851;13943;15494207;11;30
+r;419764726;13943;15226946;11;30
+r;419768034;13943;15543785;11;30
+r;419791471;13943;15596072;11;30
+r;419791475;13943;15433775;11;30
+r;419791483;13943;15592884;11;30
+r;419807642;13943;15433769;11;30
+r;419816507;13943;15333078;11;30
+r;419833136;13943;15386993;11;30
+r;419834058;13943;15573896;11;30
+r;419837652;13943;15209376;11;30
+r;419840460;13943;15428588;11;30
+r;419840472;13943;15572907;11;30
+r;419840482;13943;15596078;11;30
+r;419840866;13943;15428589;11;30
+r;419842708;13943;15354048;11;30
+r;52210138;13943;2374684;11;31
+r;110595131;13943;5574187;11;31
+r;110593754;13943;5574186;11;31
+r;121497225;13943;6443429;11;31
+r;221341326;13943;9966650;11;31
+r;220884779;13943;9960504;11;31
+r;221213594;13943;9963908;11;31
+r;221257179;13943;9963909;11;31
+r;221333683;13943;9966604;11;31
+r;221419402;13943;9966871;11;31
+r;221469132;13943;9972714;11;31
+r;222103276;13943;9980437;11;31
+r;222103296;13943;9980433;11;31
+r;222104664;13943;9980169;11;31
+r;222104768;13943;9980147;11;31
+r;227667329;13943;10000227;11;31
+r;227669677;13943;9998655;11;31
+r;263898025;13943;10591471;11;31
+r;274351482;13943;10914056;11;31
+r;277924593;13943;10993398;11;31
+r;277927291;13943;10991482;11;31
+r;279995177;13943;11055897;11;31
+r;279596710;13943;11030548;11;31
+r;279598647;13943;11030507;11;31
+r;279610481;13943;11030768;11;31
+r;291993186;13943;11358590;11;31
+r;291993190;13943;11358589;11;31
+r;291993221;13943;11358581;11;31
+r;305014945;13943;11806482;11;31
+r;354105251;13943;14020449;11;31
+r;419705412;13943;15433002;11;31
+r;419714540;13943;15433765;11;31
+r;419714610;13943;15592881;11;31
+r;419734720;13943;15433766;11;31
+r;419738206;13943;15387003;11;31
+r;121569799;13943;6435329;11;32
+r;122745095;13943;6423645;11;32
+r;227645980;13943;10015363;11;32
+r;227645996;13943;10015362;11;32
+r;269409833;13943;10742782;11;32
+r;272640883;13943;10869784;11;32
+r;272642488;13943;10869445;11;32
+r;274974295;13943;10921498;11;32
+r;280531821;13943;11061393;11;32
+r;291211348;13943;11354100;11;32
+r;291212317;13943;11353877;11;32
+r;291214042;13943;11353423;11;32
+r;293503689;13943;11407378;11;32
+r;293503705;13943;11407375;11;32
+r;303719812;13943;11785236;11;32
+r;303722346;13943;11784350;11;32
+r;304371671;13943;11806483;11;32
+r;304372104;13943;11806481;11;32
+r;305191685;13943;11822671;11;32
+r;305221718;13943;11822746;11;32
+r;312445687;13943;11994411;11;32
+r;312454430;13943;11994431;11;32
+r;312455017;13943;11994451;11;32
+r;419623612;13943;15401928;11;32
+r;419623687;13943;15380411;11;32
+r;419637704;13943;15420282;11;32
+r;419637841;13943;15415242;11;32
+r;419699287;13943;15394531;11;32
+r;419699541;13943;15592876;11;32
+r;419699549;13943;15433763;11;32
+r;419699561;13943;15592875;11;32
+r;419702948;13943;15592879;11;32
+r;419702954;13943;15433764;11;32
+r;419702964;13943;15592878;11;32
+r;52525948;13943;2495459;11;33
+r;114434955;13943;5874331;11;33
+r;227614727;13943;10037455;11;33
+r;227626365;13943;10033586;11;33
+r;227626382;13943;10033583;11;33
+r;227626402;13943;10033579;11;33
+r;227626406;13943;10033578;11;33
+r;227626419;13943;10033575;11;33
+r;275681322;13943;10942800;11;33
+r;275683310;13943;10942448;11;33
+r;276628441;13943;10962150;11;33
+r;280679094;13943;11071234;11;33
+r;280846346;13943;11076796;11;33
+r;281000174;13943;11079791;11;33
+r;281011469;13943;11079929;11;33
+r;290756672;13943;11348612;11;33
+r;293265569;13943;11406883;11;33
+r;304472949;13943;11807801;11;33
+r;309083172;13943;11924761;11;33
+r;399120301;13943;15569436;11;33
+r;419606128;13943;15263010;11;33
+r;53026925;13943;2386756;11;34
+r;115851782;13943;5918126;11;34
+r;116580697;13943;5955652;11;34
+r;122686819;13943;6431159;11;34
+r;275823361;13943;10954176;11;34
+r;275823208;13943;10954215;11;34
+r;270918478;13943;10833811;11;34
+r;272520470;13943;10865861;11;34
+r;274965020;13943;10929217;11;34
+r;275361519;13943;10936642;11;34
+r;275365453;13943;10935761;11;34
+r;281079194;13943;11080949;11;34
+r;281206715;13943;11083267;11;34
+r;281244570;13943;11083528;11;34
+r;281253349;13943;11089606;11;34
+r;281254010;13943;11083529;11;34
+r;281254314;13943;11083517;11;34
+r;281258586;13943;11083484;11;34
+r;293499912;13943;11410598;11;34
+r;300954197;13943;11698728;11;34
+r;303717468;13943;11788421;11;34
+r;304854138;13943;11814395;11;34
+r;313357351;13943;12032922;11;34
+r;434348043;13943;16310575;11;34
+r;419532295;13943;15439970;11;34
+r;419545359;13943;15317899;11;34
+r;419549505;13943;15740146;11;34
+r;419558209;13943;15304674;11;34
+r;419561063;13943;15472654;11;34
+r;419569491;13943;15255037;11;34
+r;419570104;13943;15384353;11;34
+r;419570232;13943;15389517;11;34
+r;114452410;13943;5794223;11;35
+r;122678061;13943;6432196;11;35
+r;227609137;13943;10039743;11;35
+r;227611178;13943;10039429;11;35
+r;227611319;13943;10039398;11;35
+r;227611500;13943;10039343;11;35
+r;227611592;13943;10039327;11;35
+r;269384598;13943;10748810;11;35
+r;271593336;13943;10841534;11;35
+r;271600042;13943;10839580;11;35
+r;271600054;13943;10839577;11;35
+r;272189442;13943;10850416;11;35
+r;274956919;13943;10930796;11;35
+r;274957834;13943;10930620;11;35
+r;274957838;13943;10930619;11;35
+r;279221728;13943;11021914;11;35
+r;289904663;13943;11287201;11;35
+r;299795469;13943;11694513;11;35
+r;300066435;13943;11694719;11;35
+r;313649971;13943;12049261;11;35
+r;319167709;13943;12289629;11;35
+r;319169294;13943;12289668;11;35
+r;329492364;13943;12863359;11;35
+r;340894221;13943;13439896;11;35
+r;419507300;13943;15352093;11;35
+r;423681393;13943;16153813;11;35
+r;428811817;13943;16315920;11;35
+r;428882501;13943;16318481;11;35
+r;430371283;13943;16325127;11;35
+r;227611304;13943;10039401;11;36
+r;252678094;13943;10312167;11;36
+r;253388685;13943;10334658;11;36
+r;253388689;13943;10334657;11;36
+r;253388719;13943;10334651;11;36
+r;253388739;13943;10334647;11;36
+r;253391490;13943;10328785;11;36
+r;271825230;13943;10849291;11;36
+r;281389585;13943;11095257;11;36
+r;281397495;13943;11095068;11;36
+r;294388907;13943;11453841;11;36
+r;312894317;13943;12005974;11;36
+r;312909081;13943;12006236;11;36
+r;313724714;13943;12051114;11;36
+r;313762993;13943;12051612;11;36
+r;313763746;13943;12051426;11;36
+r;52210569;13943;2374762;11;37
+r;53273651;13943;2399390;11;37
+r;117876383;13943;5988636;11;37
+r;117892022;13943;5985317;11;37
+r;122645449;13943;6684979;11;37
+r;122717658;13943;6427191;11;37
+r;271768187;13943;10847895;11;37
+r;288775944;13943;11286017;11;37
+r;290549571;13943;11341908;11;37
+r;292662284;13943;11392920;11;37
+r;313578552;13943;12043570;11;37
+r;313606351;13943;12043567;11;37
+r;53875536;13943;2408397;11;38
+r;110808087;13943;5624435;11;38
+r;110808129;13943;5624425;11;38
+r;287917546;13943;11236807;11;38
+r;291813329;13943;11364038;11;38
+r;291813431;13943;11364011;11;38
+r;291814181;13943;11363700;11;38
+r;292652052;13943;11393704;11;38
+r;297879051;13943;11590496;11;38
+r;313819085;13943;12057397;11;38
+r;110808136;13943;5624424;11;39
+r;118933124;13943;6065243;11;39
+r;227577816;13943;10050443;11;39
+r;227577820;13943;10050442;11;39
+r;227577824;13943;10050441;11;39
+r;227577828;13943;10050440;11;39
+r;254168059;13943;10352539;11;39
+r;254179481;13943;10346740;11;39
+r;269867101;13943;10787445;11;39
+r;287787930;13943;11224040;11;39
+r;288382969;13943;11248802;11;39
+r;290257939;13943;11330414;11;39
+r;291809205;13943;11364718;11;39
+r;291812331;13943;11364281;11;39
+r;291812335;13943;11364280;11;39
+r;291812339;13943;11364279;11;39
+r;291812343;13943;11364277;11;39
+r;292067272;13943;11383737;11;39
+r;340517848;13943;13388058;11;39
+r;340517844;13943;13388059;11;39
+r;340517840;13943;13388060;11;39
+r;340517836;13943;13388061;11;39
+r;340517832;13943;13388062;11;39
+r;418744596;13943;16070727;11;39
+r;52992444;13943;2384816;11;40
+r;110808146;13943;5624423;11;40
+r;121481164;13943;6445233;11;40
+r;121489811;13943;6444252;11;40
+r;122529629;13943;6681496;11;40
+r;241516681;13943;10186616;11;40
+r;262894045;13943;10546941;11;40
+r;278894361;13943;11012278;11;40
+r;288113971;13943;11248720;11;40
+r;288116582;13943;11248812;11;40
+r;288116593;13943;11248807;11;40
+r;288116635;13943;11248808;11;40
+r;288116752;13943;11248804;11;40
+r;288116763;13943;11248810;11;40
+r;288116807;13943;11248805;11;40
+r;288116818;13943;11248817;11;40
+r;288116832;13943;11248822;11;40
+r;288117021;13943;11248818;11;40
+r;288117066;13943;11248811;11;40
+r;288117128;13943;11248819;11;40
+r;288117294;13943;11248813;11;40
+r;288117314;13943;11248816;11;40
+r;288117489;13943;11248800;11;40
+r;288117977;13943;11248799;11;40
+r;288118184;13943;11248824;11;40
+r;288118315;13943;11248821;11;40
+r;288118907;13943;11248815;11;40
+r;288119300;13943;11248803;11;40
+r;288119442;13943;11248820;11;40
+r;288119769;13943;11248806;11;40
+r;288119783;13943;11248823;11;40
+r;288119958;13943;11248825;11;40
+r;288120443;13943;11248814;11;40
+r;288121035;13943;11248801;11;40
+r;288221091;13943;11250522;11;40
+r;288237468;13943;11250852;11;40
+r;290163516;13943;11326743;11;40
+r;290377050;13943;11334458;11;40
+r;291686979;13943;11364283;11;40
+r;291687040;13943;11364282;11;40
+r;291687835;13943;11364203;11;40
+r;297258065;13943;11572262;11;40
+r;313745482;13943;12053259;11;40
+r;318920158;13943;12278071;11;40
+r;318921343;13943;12278043;11;40
+r;318922236;13943;12278114;11;40
+r;318936275;13943;12278075;11;40
+r;328319900;13943;12792438;11;40
+r;232087962;13943;10069241;11;41
+r;232468276;13943;10083388;11;41
+r;232468428;13943;10083305;11;41
+r;232472794;13943;10081735;11;41
+r;233035462;13943;10088654;11;41
+r;236692162;13943;10132643;11;41
+r;240952835;13943;10186197;11;41
+r;254701541;13943;10369715;11;41
+r;261018395;13943;10459156;11;41
+r;261018403;13943;10459151;11;41
+r;261018760;13943;10459065;11;41
+r;283752658;13943;11156351;11;41
+r;287439569;13943;11216782;11;41
+r;288118647;13943;11248809;11;41
+r;288440464;13943;11253758;11;41
+r;289659821;13943;11305731;11;41
+r;289659825;13943;11305728;11;41
+r;289659829;13943;11305727;11;41
+r;289659835;13943;11305726;11;41
+r;289659841;13943;11305725;11;41
+r;291982570;13943;11381897;11;41
+r;298034627;13943;11617043;11;41
+r;308824777;13943;11968879;11;41
+r;318923969;13943;12278131;11;41
+r;318925658;13943;12278132;11;41
+r;318926985;13943;12278154;11;41
+r;432896628;13943;16387549;11;41
+r;54291167;13943;2413289;11;42
+r;55435227;13943;2449275;11;42
+r;232472801;13943;10081734;11;42
+r;240917205;13943;10185971;11;42
+r;258722926;13943;10446430;11;42
+r;278607636;13943;11008054;11;42
+r;286019845;13943;11175290;11;42
+r;318928023;13943;12278214;11;42
+r;318928814;13943;12278206;11;42
+r;318932191;13943;12278291;11;42
+r;318935486;13943;12278189;11;42
+r;318936420;13943;12278306;11;42
+r;318936532;13943;12278288;11;42
+r;318937442;13943;12278413;11;42
+r;55081204;13943;2434050;11;43
+r;118937267;13943;6063556;11;43
+r;121456816;13943;6447919;11;43
+r;256670655;13943;10444438;11;43
+r;278800129;13943;11010634;11;43
+r;283986481;13943;11158121;11;43
+r;285742902;13943;11162210;11;43
+r;286767367;13943;11179293;11;43
+r;50763323;13943;2368874;11;44
+r;115911928;13943;5938068;11;44
+r;118934615;13943;6064077;11;44
+r;122645437;13943;6684977;11;44
+r;236672782;13943;10137060;11;44
+r;238098327;13943;10160818;11;44
+r;238108602;13943;10159242;11;44
+r;307620948;13943;11924433;11;44
+r;417033451;13943;15525834;11;44
+r;117872690;13943;5989526;11;45
+r;282496787;13943;11105405;11;45
+r;417032005;13943;15399912;11;45
+r;55939548;13943;2474593;11;46
+r;109879376;13943;5557351;11;46
+r;121060027;13943;6448620;11;46
+r;121396558;13943;6529200;11;46
+r;327885759;13943;12775366;11;46
+r;327885910;13943;12775334;11;46
+r;417030895;13943;15952112;11;46
+r;327621732;13943;12770839;11;47
+r;327622046;13943;12768170;11;47
+r;121029785;13943;6451931;11;47
+r;256471409;13943;10441923;11;47
+r;318504497;13943;12266873;11;47
+r;327621738;13943;12770838;11;47
+r;143621098;13943;8462621;11;48
+r;143629265;13943;8462626;11;48
+r;121039262;13943;6450906;11;49
+r;122529301;13943;6681495;11;49
+r;211401220;13943;9245538;11;50
+r;117598820;13943;5990866;11;50
+r;397020705;13943;15500930;11;50
+r;218749046;13943;9805944;11;50
+r;193349682;13943;8936751;11;50
+r;195521902;13943;9022514;11;50
+r;200682997;13943;9102210;11;50
+r;215882332;13943;9597043;11;50
+r;217430102;13943;9699282;11;50
+r;218311673;13943;9770085;11;50
+r;282295319;13943;11119392;11;50
+r;282295404;13943;11119491;11;50
+r;282301511;13943;11119659;11;50
+r;282302297;13943;11119489;11;50
+r;282302391;13943;11119511;11;50
+r;282305332;13943;11119599;11;50
+r;282312109;13943;11119628;11;50
+r;282532215;13943;11126607;11;50
+r;282543663;13943;11126642;11;50
+r;282591027;13943;11126641;11;50
+r;282591042;13943;11126616;11;50
+r;282739052;13943;11129905;11;50
+r;282839016;13943;11131659;11;50
+r;402108086;13943;15343052;11;50
+r;320907563;13943;12484187;11;50
+r;323626548;13943;12634067;11;50
+r;323626625;13943;12634066;11;50
+r;324937926;13943;12616761;11;50
+r;325691352;13943;12701154;11;50
+r;327319531;13943;12734325;11;50
+r;327319783;13943;12734250;11;50
+r;327321805;13943;12729826;11;50
+r;343508141;13943;13550264;11;50
+r;346029055;13943;13636468;11;50
+r;366573215;13943;14435993;11;50
+r;370184911;13943;14564100;11;50
+r;371292800;13943;14610675;11;50
+r;374294137;13943;14721457;11;50
+r;374294141;13943;14721458;11;50
+r;374294143;13943;14721459;11;50
+r;402154548;13943;15286053;11;50
+r;400715689;13943;14540652;11;50
+r;397503276;13943;15337817;11;50
+r;397503268;13943;15273956;11;50
+r;402111260;13943;15306375;11;50
+r;402111050;13943;15500903;11;50
+r;402102614;13943;15364083;11;50
+r;402108276;13943;15329361;11;50
+r;399503606;13943;15571321;11;50
+r;402108814;13943;15399910;11;50
+r;399503612;13943;15571323;11;50
+r;402112719;13943;15409916;11;50
+r;416996964;13943;15976834;11;50
+r;395014359;13943;15352095;11;50
+r;397847934;13943;15522875;11;50
+r;397848644;13943;15522877;11;50
+r;397848652;13943;15522879;11;50
+r;397848660;13943;15522881;11;50
+r;402273911;13943;15314416;11;50
+r;418900870;13943;16072510;11;50
+r;100086488;13943;4496080;11;51
+r;26080955;13943;1645218;11;51
+r;52479321;13943;2493741;11;51
+r;53152984;13943;2581602;11;51
+r;106887256;13943;5331231;11;51
+r;16130379;13943;455335;11;52
+r;29050988;13943;1766456;11;52
+r;52464167;13943;2526389;11;52
+r;92513807;13943;3706177;11;52
+r;18486719;13943;589046;11;53
+r;24632124;13943;1490266;11;53
+r;28739499;13943;1746709;11;53
+r;52468039;13943;2517833;11;53
+r;76572399;13943;3176668;11;53
+r;106892411;13943;5332150;11;53
+r;72689132;13943;2950153;11;54
+r;17697049;13943;572584;11;54
+r;92514021;13943;3706178;11;54
+r;16159583;13943;460912;11;55
+r;27281476;13943;1655670;11;55
+r;93566974;13943;3750541;11;55
+r;95757399;13943;4290602;11;55
+r;16363194;13943;465001;11;56
+r;30454127;13943;1888123;11;56
+r;95151854;13943;4266871;11;56
+r;96313653;13943;4304697;11;56
+r;16243081;13943;461670;11;57
+r;17921982;13943;578194;11;57
+r;28899830;13943;1755645;11;57
+r;71719034;13943;2926265;11;57
+r;91420042;13943;3663990;11;57
+r;25359557;13943;1574961;11;58
+r;76384068;13943;3173760;11;58
+r;77441289;13943;3210711;11;58
+r;24630066;13943;1490174;11;59
+r;28112607;13943;1703570;11;59
+r;29419419;13943;1794754;11;59
+r;14371696;13943;436106;11;60
+r;16130375;13943;455336;11;60
+r;25718466;13943;1630219;11;60
+r;30552836;13943;1894821;11;60
+r;31666959;13943;1966209;11;60
+r;52458274;13943;2538437;11;60
+r;52458779;13943;2537473;11;60
+r;86329649;13943;3374739;11;60
+r;93567098;13943;3750531;11;60
+r;76270486;13943;3170986;11;63
+r;12573949;13943;381862;11;101
+r;12585557;13943;379021;11;101
+r;12619429;13943;370744;11;101
+r;12619437;13943;370742;11;101
+r;12619569;13943;370713;11;101
+r;12655315;13943;361831;11;101
+r;12573955;13943;381861;11;102
+r;12619573;13943;370712;11;102
+r;12619597;13943;370706;11;102
+r;12627843;13943;368661;11;102
+r;12676415;13943;356648;11;102
+r;12699217;13943;351057;11;102
+r;12619433;13943;370743;11;103
+r;12619519;13943;370724;11;103
+r;12619589;13943;370708;11;103
+r;12625267;13943;369336;11;103
+r;12619515;13943;370725;11;104
+r;12625259;13943;369337;11;104
+r;12583465;13943;379509;11;105
+r;12619441;13943;370741;11;105
+r;12619529;13943;370721;11;105
+r;12699221;13943;351056;11;105
+r;12546479;13943;388866;11;106
+r;12619445;13943;370740;11;106
+r;12619553;13943;370716;11;106
+r;12583403;13943;379520;11;107
+r;12619533;13943;370720;11;107
+r;12619581;13943;370710;11;107
+r;12619593;13943;370707;11;107
+r;12589899;13943;377982;11;108
+r;12619537;13943;370719;11;108
+r;12619549;13943;370717;11;108
+r;12619585;13943;370709;11;108
+r;12598121;13943;375947;11;109
+r;12619523;13943;370723;11;109
+r;12619527;13943;370722;11;109
+r;12619545;13943;370718;11;109
+r;12693231;13943;352505;11;109
+r;12619557;13943;370715;11;110
+r;12619563;13943;370714;11;110
+r;12619577;13943;370711;11;110
+r;12702377;13943;350213;11;110
+r;12706975;13943;349059;11;110
+r;12758955;13943;336665;11;110
+r;11861367;13943;115327;11;122
+r;11862048;13943;110753;11;122
+r;11872261;13943;41544;11;122
+r;12019626;13943;330834;11;126
+r;8991570;13943;318126;11;148
+r;9095096;13943;322150;11;148
+r;9095098;13943;322152;11;148
+r;11749056;13943;329919;11;148
+r;8871246;13943;316208;11;154
+r;8692801;13943;221333;11;160
+r;8727206;13943;260691;11;160
+r;8630865;13943;167107;11;161
+r;8631227;13943;167779;11;161
+r;8680754;13943;207770;11;161
+r;8680881;13943;207842;11;161
+r;8684814;13943;210119;11;161
+r;8690589;13943;217399;11;161
+r;8692298;13943;220539;11;161
+r;8694451;13943;223621;11;161
+r;8695655;13943;225558;11;161
+r;8695658;13943;225560;11;161
+r;8695927;13943;226075;11;161
+r;8697303;13943;228104;11;161
+r;8699004;13943;230458;11;161
+r;8699460;13943;230936;11;161
+r;8699463;13943;230939;11;161
+r;8699466;13943;230941;11;161
+r;8699468;13943;230942;11;161
+r;8699548;13943;231028;11;161
+r;8705039;13943;237820;11;161
+r;8705919;13943;239086;11;161
+r;8707901;13943;242860;11;161
+r;8708535;13943;244186;11;161
+r;8710079;13943;246461;11;161
+r;8712756;13943;249479;11;161
+r;8713098;13943;249864;11;161
+r;8713101;13943;249865;11;161
+r;8713102;13943;249866;11;161
+r;8713247;13943;249973;11;161
+r;8717044;13943;253366;11;161
+r;8719770;13943;255431;11;161
+r;8720339;13943;255829;11;161
+r;8722069;13943;256985;11;161
+r;8722104;13943;257005;11;161
+r;8722115;13943;257010;11;161
+r;8724493;13943;258729;11;161
+r;8726496;13943;260103;11;161
+r;8729854;13943;262856;11;161
+r;8731435;13943;263995;11;161
+r;8587608;13943;52289;11;162
+r;8590195;13943;59661;11;162
+r;8590548;13943;60657;11;162
+r;8596109;13943;77255;11;162
+r;8607090;13943;108066;11;162
+r;8609806;13943;115548;11;162
+r;8627603;13943;161774;11;162
+r;8628161;13943;162948;11;162
+r;8628472;13943;163542;11;162
+r;8629341;13943;164936;11;162
+r;8629859;13943;165962;11;162
+r;8634225;13943;171721;11;162
+r;8675126;13943;204287;11;162
+r;8678757;13943;206616;11;162
+r;8679633;13943;207088;11;162
+r;8686643;13943;211421;11;162
+r;8686780;13943;211527;11;162
+r;8689850;13943;215407;11;162
+r;8744022;13943;275980;11;162
+r;3142325;13943;81313;11;163
+r;8581574;13943;34951;11;163
+r;8583655;13943;40988;11;163
+r;8601711;13943;93151;11;163
+r;8612378;13943;122861;11;163
+r;8613191;13943;125226;11;163
+r;8613770;13943;126714;11;163
+r;8617322;13943;136654;11;163
+r;8622354;13943;151615;11;163
+r;8623027;13943;152930;11;163
+r;8638122;13943;181295;11;163
+r;8639461;13943;182055;11;163
+r;8642216;13943;183702;11;163
+r;8643763;13943;184612;11;163
+r;8677160;13943;205598;11;163
+r;8678007;13943;206154;11;163
+r;8678781;13943;206633;11;163
+r;8686781;13943;211528;11;163
+r;8732767;13943;265178;11;163
+r;8733232;13943;265569;11;163
+r;8735126;13943;267216;11;163
+r;8737922;13943;270239;11;163
+r;8743993;13943;275958;11;163
+r;8744047;13943;275998;11;163
+r;8744137;13943;276070;11;163
+r;8744138;13943;276071;11;163
+r;8746287;13943;278662;11;163
+r;8747097;13943;279624;11;163
+r;8754369;13943;286837;11;163
+r;8756952;13943;288986;11;163
+r;8757843;13943;289879;11;163
+r;8762956;13943;295703;11;163
+r;8764011;13943;296991;11;163
+r;8770908;13943;304633;11;163
+r;8771896;13943;306041;11;163
+r;8776535;13943;310668;11;163
+r;3142321;13943;76326;11;164
+r;8578044;13943;24395;11;164
+r;8617684;13943;137126;11;164
+r;8626462;13943;159623;11;164
+r;8645300;13943;185728;11;164
+r;8661493;13943;196455;11;164
+r;8663256;13943;197351;11;164
+r;8663407;13943;197453;11;164
+r;8663762;13943;197670;11;164
+r;8666489;13943;199305;11;164
+r;8667472;13943;199910;11;164
+r;8677158;13943;205597;11;164
+r;8576803;13943;20949;11;165
+r;8666539;13943;199346;11;165
+r;8570049;13943;365;11;170
+r;426333;13943;166099;11;187
+r;186911;13943;155404;11;188
+r;426332;13943;166098;11;188
+r;426334;13943;166100;11;188
+r;426335;13943;166101;11;188
+r;222003;13943;157826;11;189
+r;240048;13943;159181;11;189
+r;1630184;13943;220033;11;197
+r;240047;13943;159180;11;198
+r;170922;13943;154659;11;209
+r;222002;13943;157825;11;229
+r;8614119;13943;127686;11;300

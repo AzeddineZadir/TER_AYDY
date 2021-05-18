@@ -1,0 +1,762 @@
+
+e;116395;'rapport';1;354
+e;6371651;'rapport de laboratoire avec commentaires';1;0
+e;6289594;'rapport de laboratoire';1;0
+e;6293528;'consultation en soins infirmiers et rapport';1;0
+e;6293529;'rapport de laboratoire par ordinateur';1;0
+e;6296689;'rapport de laboratoire par téléphone';1;0
+e;6300946;'rapport de laboratoire avec cumul des observations';1;0
+e;6301287;'autopsie avec rapport imprimé et codification';1;0
+e;6302431;'rapport perfusions ventilations';1;0
+e;6303912;'rapport interne de laboratoire';1;0
+e;6304131;'consultation et rapport par le radiologiste';1;0
+e;6306996;'rapport ventilation perfusion';1;0
+e;6309598;'rapport complet d'un patient psychiatrique pour un tiers';1;0
+e;6317672;'rapport hanches taille';1;0
+e;6321691;'rapport de laboratoire par télécopieur';1;0
+e;6322612;'consultation en physiatrie et rapport';1;0
+e;6323207;'consultation endodontique et rapport';1;0
+e;6328014;'rapport tour de taille sur tour de hanches';1;0
+e;6327902;'cas hors normes par rapport aux groupes homogènes de malades';1;0
+e;6338065;'rapport des soins infirmiers';1;0
+e;6339487;'rapport taille hanches';1;0
+e;6339498;'enregistrement du rapport des maxillaires';1;0
+e;6342624;'consultation en dermatologie et rapport';1;0
+e;6345708;'consultation dentaire prothétique et rapport';1;0
+e;6347012;'rapport évaluatif';1;0
+e;6351439;'cas atypiques par rapport aux groupes homogènes de malades';1;0
+e;6353657;'patients atypiques par rapport aux groupes homogènes de malades';1;0
+e;6354214;'rapport de laboratoire verbal';1;0
+e;6354758;'consultation en dermatologie et rapport bref';1;0
+e;6368624;'mesure du rapport de la clairance';1;0
+e;6379115;'rapport imprimé de cytopathologie incluant la codification';1;0
+e;6381859;'consultation dentaire et rapport';1;0
+e;6382901;'rapport cardiothoracique augmenté';1;0
+e;6386426;'détermination du rapport entre deux résultats de laboratoire';1;0
+e;6400929;'consultation et rapport sur matériel référé exigeant une préparation de lames';1;0
+e;6403358;'acheminement du rapport de test microbiologique';1;0
+e;6414835;'consultation dentaire orthodontique et rapport';1;0
+e;12192637;'détermination de la présence de traitement demande de rapport';1;0
+e;12192633;'détermination de la présence de traitement décharge demande de rapport';1;0
+e;12192627;'détermination de la présence de traitement administré demande de rapport';1;0
+e;12192621;'détermination de la présence de traitement actuel demande de rapport';1;0
+e;6307411;'rapport de laboratoire par moyen électronique';1;0
+e;6420882;'consultation et rapport de pathologie chirurgicale sur lames de provenance extérieure';1;0
+e;6349831;'rapport lactate sur pyruvate';1;0
+e;6372094;'rapport normalisé international diminué';1;0
+e;6385236;'autopsie avec rapport imprimé';1;0
+e;6327274;'rapport de laboratoire écrit';1;0
+e;6401587;'rapport normalisé international augmenté';1;0
+e;6414979;'entrevue psychiatrique effectuée avant la signature du contrat thérapeutique et rapport';1;0
+e;13595020;'rapport Condon';777;0
+e;13683647;'consentement au rapport sexuel';1;0
+e;13985998;'par rapport à un point quelconque';1;0
+e;14012591;'rapport sexuel de deux personnes dans l'espace';777;0
+e;14452953;'faits en rapport direct avec la situation de surendettement';1;0
+e;14453712;'rapport social unique';1;0
+e;14454178;'rapport annuel du Conseil d'État';1;0
+e;14454512;'rapport d'orientations budgétaires';1;0
+e;14454878;'rapport annuel du Conseil d'état';1;0
+e;14572645;'immeubles de rapport';1;0
+e;14589792;'rapport entre la télédiaphonie et l'affaiblissement';777;0
+e;14610689;'rapport poids/puissance';1;0
+e;14611633;'rapport air-essence';1;0
+e;14653820;'modifier un rapport de vitesse';1;0
+e;14655608;'rapport de réduction';1;0
+e;14730914;'rapport contraint';1;0
+e;14749694;'rapport en marche arrière';1;0
+e;14776236;'rapport LH/FSH';1;0
+e;14778873;'rapport d'e&#769;valuation';1;0
+e;6408157;'infection en rapport avec le cathéter';1;0
+e;15560559;'rapport de format';777;0
+e;6374996;'douleur psychogène ressentie par la femme lors d'un rapport sexuel';1;0
+e;15958731;'rapport nucléo-cytoplasmique';1;0
+e;16313916;'pathologies en rapport avec une haploinsuffisance du gène SHOX';777;0
+e;16573267;'Le premier va-t-il vraiment à la vitesse de la lumière par rapport au photon qui le suit';777;0
+e;16573266;'chacune d'elles qui est censée retarder par rapport à l'autre';777;0
+e;6294135;'rapport lactate sur pyruvate anormal';1;0
+e;6365270;'rapport taille sur hanches';1;0
+e;6374640;'rapport lactate sur pyruvate normal';1;0
+e;6392440;'rapport normalisé international anormal';1;0
+e;6404208;'rapport normalisé international normal';1;0
+e;6414470;'fluctuation du rapport normalisé international';1;0
+e;6417858;'bébé petit par rapport aux dates';1;0
+e;14584288;'rapport d'identité';1;4
+e;14637131;'rapport intime';1;22
+e;14730915;'rapport forcé';1;0
+e;5795042;'rapport Grin';777;0
+e;6298977;'mauvais rapport ventilation-perfusion';1;0
+e;6357512;'désorientation par rapport aux personnes';1;0
+e;6366883;'fréquence des rapport sexuels';1;0
+e;6418471;'troubles en rapport avec la détresse respiratoire du nouveau-né';1;0
+e;6440088;'préparation d'un rapport d'évaluation d'incapacité';1;0
+e;6427802;'rapport perfusion ventilation';1;0
+e;6427191;'prise en charge pour mise en place et ajustement d'autres appareils en rapport avec le système nerveux et les organes des sens';1;0
+e;10987990;'rapport Stroop';777;0
+e;12107806;'traitement demande de rapport';1;0
+e;12107804;'traitement décharge demande de rapport';1;0
+e;12107802;'traitement administré demande de rapport';1;0
+e;12107801;'traitement actuel demande de rapport';1;0
+e;13034229;'rapport du GIEC';1;0
+e;16319243;'disproportionné par rapport à quelque chose';1;0
+e;5574115;'rapport d'avancement';777;0
+e;6443880;'aspiration à l'aiguille fine avec interprétation et rapport immédiats';1;0
+e;6437762;'déclin cognitif en rapport avec l'âge';1;0
+e;6437319;'syndrome d'aménorrhée-galactorrhée sans rapport avec une grossesse';1;0
+e;10732856;'rapport Valech';777;0
+e;13031302;'approche du rapport à l'espace matériel';1;0
+e;15519631;'culture de rapport';1;0
+e;13742722;'cytopathologie, révision des lames et rapport par le médecin, liquide céphalo-rachidien (lcr)';1;0
+e;15592976;'dans un rapport de 1 à 10';1;0
+e;15344365;'disproportionné par rapport à qch';1;0
+e;15479725;'distance du trou de goupille par rapport à la face d'appui';1;0
+e;13741765;'dosage du rapport 2-pyridone/n'-méthylnicotinamide';1;0
+e;13743971;'dosage du rapport gamma-glutamyltransférase/aspartate amino transférase';1;0
+e;15372162;'décalé par rapport à la réalité';1;0
+e;13798016;'déterminatin du rapport t4-t8';1;0
+e;15596061;'déviation par rapport à la norme';1;0
+e;15347211;'en oblique {or} en biais par rapport à qch';1;0
+e;16036899;'en plein rapport';1;0
+e;15501009;'en rapport avec l'entreprise';1;0
+e;5689018;'rapport de cadre';777;0
+e;6443216;'rapport d'investigation';1;0
+e;6434147;'rapport d'évaluation';1;0
+e;11027337;'rapport Palmer';777;0
+e;11783541;'rapport final de la commission nationale sur les attaques terroristes contre les États-Unis';777;0
+e;15391233;'cherche le rapport !';1;0
+e;6440168;'situation par rapport à l'emploi';1;0
+e;6436198;'prélèvement sans rapport avec l'acte chirurgical';1;0
+e;10870714;'Le secret du rapport Quiller';777;0
+e;15408561;'bien situé par rapport à';1;0
+e;15542349;'bon rapport qualité prix';1;0
+e;15258055;'ce rapport est fait n'importe comment';1;0
+e;5837693;'dysplasies osseuses en rapport avec le gène SOST';777;0
+e;6441780;'trouble de l'orientation par rapport aux personnes';1;0
+e;6427907;'rapport ventilations perfusions';1;0
+e;6423337;'consultation générale en radiothérapie et rapport';1;0
+e;10743758;'rapport de la commission spéciale sur la sécurité nationale américaine et les préoccupations militaires et/ou commerciales sur la République Populaire de Chine';777;0
+e;11064618;'rapport sur la richesse mondiale';777;0
+e;16257494;'Sur les concepts philosophiques en rapport avec le cartésianisme';777;0
+e;1830962;'rapport des cotes';1;0
+e;5838544;'hypertrophie musculaire en rapport avec un trouble de la myostatine';777;0
+e;5884347;'rapport périodique actualisé relatif à la sécurité';777;0
+e;5919947;'rapport gaz-pétrole';777;0
+e;6068185;'maison de rapport Isakov';777;0
+e;6441316;'localisation par rapport a la papille de l'implantation du canal cystique';1;0
+e;15366412;'Oxford est une petite ville par rapport à Londres.';1;0
+e;15391943;'Tu as regardé le rapport de Martin?';1;0
+e;16130516;'Sur les concepts philosophiques en rapport avec la foi et la raison';777;0
+e;1829593;'rapport ou index cardiothoracique';1;0
+e;1836388;'rapport I /E';1;0
+e;5733540;'rapport d'aspect d'un pixel';777;0
+e;5940303;'rapport C/H';777;0
+e;5982662;'rapport cyclique';777;0
+e;6422973;'consultation en gastro-entérologie avec rapport';1;0
+e;15482243;'Le rapport a omis plusieurs faits pertinents.';1;0
+e;15958199;'Le rapport au lieu';777;0
+e;15572667;'Le rapport d'enquête comprenait 55 recommandations.';1;0
+e;15243784;'Le rapport était entaché de racisme.';1;0
+e;16313172;'Le rapport de la Commission chargée d'examiner les pouvoirs constitutionnels du Roi de 1949 argumente pour limiter le pouvoir du Roi en tant que commandant des armées';777;0
+e;10745174;'rapport administratif';1;0
+e;12051566;'remplir des fiches de rapport d'activité';1;0
+e;12081126;'rapport de conversion';1;0
+e;15350171;'Le cours du peso est fixé par rapport au dollar.';1;0
+e;5987097;'rapport Stern sur l'économie du changement climatique';777;0
+e;11363136;'rapport signal sur brouillage';777;0
+e;11363135;'rapport signal sur interférence';777;0
+e;5803358;'rapport Hite';777;0
+e;5893930;'aucun rapport';777;0
+e;6004275;'rapport poussée/poids';777;0
+e;10821579;'écrire un rapport';1;0
+e;11393397;'rapport de Strehl';777;0
+e;11656434;'rapport Leuchter';777;0
+e;12052279;'rapport clinique';1;0
+e;2463953;'rapport géométrique';1;0
+e;5537442;'moment de la force par rapport à l'axe';777;0
+e;5537441;'moment d'une force par rapport à un point';777;0
+e;6436625;'rapport de reduction de l'urée';1;0
+e;10351713;'rapport Allaire';777;0
+e;10385357;'rapport Taylor';777;0
+e;5811788;'mythe de guérison du sida par rapport sexuel avec une vierge';777;0
+e;10191032;'rapport de mer';777;0
+e;11553928;'rapport Beveridge';777;0
+e;11183497;'sixième édition de ce rapport';777;0
+e;2379807;'rapport de contraste';1;0
+e;5810164;'dérivée logarithmique d'une grandeur physique par rapport à la température';1;0
+e;6006603;'rapport de mélange';777;0
+e;6433769;'mesures de l'amplitude des mouvements de la main et rapport';1;0
+e;6438094;'aspiration à l'aiguille fine avec interprétation et rapport de routine';1;0
+e;2452006;'rapport arithmétique';1;0
+e;5948291;'rapport Brundtland';777;0
+e;6006604;'rapport d'expansion';777;0
+e;6451125;'dosage du rapport entre l'albumine du lcr et l'albumine plasmatique';1;0
+e;6448143;'protection de l'entourage par rapport au patient';1;0
+e;11104824;'rapport taille/hanches';777;0
+e;6000298;'rapport masse sur charge';777;0
+e;15572684;'La commission doit faire son rapport en 2006.';1;0
+e;15546561;'La compagnie a publié son rapport annuel.';1;0
+e;10429773;'rapport Flora';777;0
+e;5553449;'homothétie de centre O et de rapport k';777;0
+e;7555412;'rapport de vitesse';1;0
+e;2365367;'rapport de forme';1;0
+e;5556857;'Anatomie d'un rapport';777;0
+e;8879855;'rapport sexuel à risque';1;0
+e;9617688;'distributivité de la multiplication par rapport à l'addition';777;0
+e;8879851;'saignement pendant le rapport sexuel';1;0
+e;8879852;'rapport sexuel douloureux chez l'homme';1;0
+e;8879854;'rapport sexuel douloureux chez la femme';1;0
+e;8879856;'premier rapport sexuel';1;0
+e;9021738;'rapport non simulé';1;0
+e;9627941;'rapport Parent';777;0
+e;12701195;'rapport bénéfice/risque';1;0
+e;12701194;'rapport bénéfice/risque d'un traitement';1;0
+e;15334350;'Elle a tapé le rapport sur son PC.';1;0
+e;15294390;'Il a écarté le rapport en le reléguant au rang de spéculation.';1;0
+e;15334341;'Il a tapé le rapport sur son PC.';1;0
+e;15446016;'Au rapport !';1;0
+e;15571770;'Je ne vois pas le rapport.';1;0
+e;15692580;'Données démographiques en rapport avec Périgueux';777;0
+e;15712583;'Je dois refaire ce rapport.';1;0
+e;15408565;'L'hôtel est bien situé par rapport à l'aéroport.';1;0
+e;16073066;'Faits en rapport direct avec la situation de surendettement';1;0
+e;567890;'rapport de Bouguer-Weber';777;50
+e;1559734;'rapport vaginal';1;0
+e;1843224;'rapport AC/A';1;0
+e;5153482;'rapport buccal';1;0
+e;1753422;'ttrop bas par rapport à la normale';1;0
+e;1965407;'rapport au vitriol';1;0
+e;5338618;'rapport diastéréomérique';777;0
+e;5517748;'rapport obtenu par exploration fonctionnelle respiratoire';1;0
+e;1801912;'maladies en rapport avec le collagène type VI';1;0
+e;1844741;'rapport de similitude';1;0
+e;5304394;'rapport anal';1;0
+e;1846222;'coefficient de, rapport de Tiffeneau';1;0
+e;1821777;'rapport nucléoplasmatique';1;0
+e;2359748;'rapport d'aspect';1;0
+e;3275656;'maladie en rapport avec la mutation du gène PLP1';1;0
+e;2561722;'contre-rapport';1;0
+e;1307443;'rapport taille-hanche';1;0
+e;1843225;'rapport CA/C';1;0
+e;1821775;'rapport corticopapillaire';1;0
+e;1843229;'rapport tissu maximum';1;0
+e;1966132;'mettre en rapport quelqu'un avec quelqu'un';1;0
+e;2520904;'aucun rapport avec la choucroute';1;0
+e;2516900;'rapport de visite';1;0
+e;5338617;'rapport énantiomérique';777;0
+e;1821776;'rapport d'Arden';1;0
+e;1826615;'rapport acide palmitique-acide oléique';1;0
+e;3244916;'rapport isotopique';777;0
+e;1802199;'maladies en rapport avec le';777;0
+e;1843230;'rapport ventilation-perfusion';1;0
+e;1843227;'rapport I/E';1;0
+e;1843226;'rapport cardiothoracique';1;0
+e;1843221;'rapport deValsalva';1;0
+e;1851938;'rapport corticodiaphysaire';1;0
+e;1847385;'rapport de Valsalva';1;0
+e;5350261;'rapport qualité/prix';1;0
+e;1801913;'maladies en rapport avec la mutation du gène PLP1';1;0
+e;1858762;'rapport des chances';777;0
+e;1843228;'rapport tissu air';1;0
+e;380661;'sous ce rapport';1;50
+e;375351;'rapport annuel de la cour des comptes';1;50
+e;375342;'rapport qualité prix';1;56
+e;375326;'rapport de police';1;50
+e;375350;'rapport analytique';1;50
+e;375340;'rapport parlementaire';1;50
+e;375338;'rapport nucléocytoplasmique';1;50
+e;375329;'rapport de tendance';1;50
+e;375321;'rapport d'inspection';1;50
+e;375355;'rapport humain';1;50
+e;375343;'rapport secret';1;50
+e;375335;'rapport judiciaire';1;50
+e;375322;'rapport de dépendance';1;50
+e;375313;'rapport alarmant';1;50
+e;347565;'direction fixe par rapport aux étoiles';1;50
+e;375346;'rapport écrit';1;54
+e;375330;'rapport de valeur';1;50
+e;375328;'rapport de synthèse';1;50
+e;375315;'rapport circonstancié';1;50
+e;373911;'propriété de rapport';1;50
+e;364769;'moment d'inertie par rapport à une droite';1;50
+e;364749;'moment d'inertie par rapport à un point';1;50
+e;364413;'mise en rapport';1;50
+e;351272;'en rapport avec';1;50
+e;377861;'réponse au rapport';1;50
+e;375357;'rapport numérique';1;50
+e;375318;'rapport d'audit';1;50
+e;375316;'rapport complet';1;50
+e;375337;'rapport moral';1;50
+e;375333;'rapport financier';1;52
+e;375332;'rapport final';1;50
+e;375325;'rapport de mission';1;50
+e;375324;'rapport de masse';1;50
+e;351319;'en retrait par rapport à';1;50
+e;380787;'sous le rapport de';1;50
+e;375341;'rapport préfectoral';1;50
+e;375331;'rapport familial';1;50
+e;350164;'en avancée par rapport à';1;50
+e;375359;'rapport quantitatif';1;50
+e;375345;'rapport économique annuel';1;50
+e;375327;'rapport de production';1;50
+e;375323;'rapport de gendarmerie';1;50
+e;375319;'rapport d'expertise';1;50
+e;375317;'rapport confidentiel';1;50
+e;375314;'rapport à';1;50
+e;380786;'sous le rapport';1;50
+e;375352;'rapport de bon voisinage';1;50
+e;375344;'rapport à faillite';1;50
+e;375336;'rapport leucocytaire';1;50
+e;375334;'rapport intérimaire';1;50
+e;375320;'rapport d'homothétie';1;50
+e;375339;'rapport officiel';1;50
+e;318713;'rapport signal sur bruit';1;50
+e;329781;'rapport conflictuel';1;50
+e;248028;'par rapport';1;52
+e;108050;'par rapport à';1;52
+e;159890;'immeuble de rapport';1;54
+e;163626;'le rapport à l'autre';1;50
+e;165951;'le rapport hiérarchique';1;50
+e;168510;'rapport sexuel';1;502
+e;207861;'se mettre en rapport avec';1;50
+e;220256;'rapport C/N';1;50
+e;236023;'rapport de stage';1;28
+e;238873;'rapport médical';1;50
+e;240804;'rapport de force';1;2
+e;242954;'rapport d'activité';1;52
+e;252074;'rapport amoureux';1;50
+e;254429;'rapport non protégé';1;76
+e;254476;'rapport à risque';1;54
+e;254477;'premier rapport';1;12
+e;254490;'rapport protégé';1;12
+e;254587;'rapport fécondant';1;4
+e;254808;'rapport annuel';1;50
+e;256495;'rapport sexuel non consenti';1;2
+e;256722;'rapport amour-haine';1;52
+e;258177;'rapport sexuel imposé';1;6
+e;258178;'rapport sexuel forcé';1;8
+e;259172;'rapport sexuel contraint';1;10
+e;259466;'faire un rapport';1;50
+e;259467;'rendre un rapport';1;50
+e;263239;'rapport sexuel douloureux';1;50
+e;263240;'rapport douloureux';1;50
+e;307597;'le rapport de la masse d'eau dans l'air sur la masse d'air humide';777;50
+e;313622;'rapport d'agrandissement';1;2
+e;313627;'rapport hiérarchique';1;50
+e;313630;'rapport sado-masochiste';1;50
+e;313633;'rapport sado-maso';1;52
+e;313679;'rapport technique';1;50
+e;28161;'être en rapport de symétrie';1;50
+e;63756;'mettre en rapport';1;62
+e;81783;'être en rapport avec';1;50
+e;95105;'se mettre en rapport';1;50
+e;104163;'tables de rapport';1;50
+e;214031;'avoir un rapport sexuel';1;12
+e;263867;'rapport de domination';1;50
+e;32512;'maison de rapport';1;50
+e;46196;'avoir rapport';1;50
+e;73422;'avoir un rapport';1;84
+e;97920;'c2:le rapport hiérarchique';5;50
+e;140232;'Mémoire et rapport sur Victor de l'Aveyron';1;50
+e;146224;'c2:le rapport à l'autre';5;50
+e;183672;'pièce de rapport';1;50
+e;183972;'rapport de flux thermique critique';1;50
+e;183973;'rapport de tournage';1;50
+e;183974;'rapport d'onde stationnaire';1;50
+e;183975;'rapport social';1;56
+e;203766;'mettre en rapport qqn avec qqn';1;50
+e;206688;'rapport de Tiffeneau';1;50
+e;265980;'sans rapport';1;50
+e;283760;'chien de rapport';777;50
+e;288244;'dérivée par rapport au temps';777;50
+e;293585;'hôtel de rapport';777;50
+e;295282;'rapport des sexes';777;50
+e;295283;'rapport de masculinité';777;50
+e;296131;'rapport anharmonique';777;50
+e;297963;'Par rapport aux autres unités de longueur';777;50
+e;306181;'rapport d'ondes stationnaires';777;50
+e;309216;'rapport minoritaire';777;50
+e;187758;'rapport gyromagnétique';1;50
+e;196667;'avoir rapport à';1;50
+e;311505;'rapport volumétrique';777;50
+e;200836;'faux rapport';1;50
+e;4761;'être en rapport';1;50
+r;302992513;116395;6371651;11;25
+r;298405194;116395;6289594;11;25
+r;298511304;116395;6293528;11;25
+r;298609148;116395;6293529;11;25
+r;298949272;116395;6296689;11;25
+r;299167034;116395;6300946;11;25
+r;299296748;116395;6301287;11;25
+r;299307917;116395;6302431;11;25
+r;299343938;116395;6303912;11;25
+r;299348152;116395;6304131;11;25
+r;299521675;116395;6306996;11;25
+r;299587505;116395;6309598;11;25
+r;299798957;116395;6317672;11;25
+r;300123244;116395;6321691;11;25
+r;300127765;116395;6322612;11;25
+r;300136325;116395;6323207;11;25
+r;300213721;116395;6328014;11;25
+r;300219933;116395;6327902;11;25
+r;301442843;116395;6338065;11;25
+r;301455867;116395;6339487;11;25
+r;301460951;116395;6339498;11;25
+r;301491467;116395;6342624;11;25
+r;301555693;116395;6345708;11;25
+r;301606850;116395;6347012;11;25
+r;301740535;116395;6351439;11;25
+r;301752381;116395;6353657;11;25
+r;301756325;116395;6354214;11;25
+r;301763234;116395;6354758;11;25
+r;302969852;116395;6368624;11;25
+r;303642331;116395;6379115;11;25
+r;303920553;116395;6381859;11;25
+r;303979198;116395;6382901;11;25
+r;304383225;116395;6386426;11;25
+r;305165973;116395;6400929;11;25
+r;305288895;116395;6403358;11;25
+r;305647702;116395;6414835;11;25
+r;316569570;116395;12192637;11;25
+r;316569593;116395;12192633;11;25
+r;316569625;116395;12192627;11;25
+r;316569657;116395;12192621;11;25
+r;319058844;116395;6307411;11;25
+r;319069490;116395;6420882;11;25
+r;341133101;116395;6349831;11;25
+r;341160677;116395;6372094;11;25
+r;341181001;116395;6385236;11;25
+r;341015514;116395;6327274;11;25
+r;341211224;116395;6401587;11;25
+r;341252553;116395;6414979;11;25
+r;344409519;116395;13595020;11;25
+r;347430586;116395;13683647;11;25
+r;352185933;116395;13985998;11;25
+r;353744497;116395;14012591;11;25
+r;366881337;116395;14452953;11;25
+r;366912959;116395;14453712;11;25
+r;366930939;116395;14454178;11;25
+r;366946434;116395;14454512;11;25
+r;366961451;116395;14454878;11;25
+r;370346408;116395;14572645;11;25
+r;370713465;116395;14589792;11;25
+r;371289380;116395;14610689;11;25
+r;371367702;116395;14611633;11;25
+r;372568252;116395;14653820;11;25
+r;372650854;116395;14655608;11;25
+r;374541744;116395;14730914;11;25
+r;374986712;116395;14749694;11;25
+r;375515422;116395;14776236;11;25
+r;375570033;116395;14778873;11;25
+r;400985629;116395;6408157;11;25
+r;398501690;116395;15560559;11;25
+r;400583805;116395;6374996;11;25
+r;416735227;116395;15958731;11;25
+r;428701577;116395;16313916;11;25
+r;435410731;116395;16573267;11;25
+r;435414114;116395;16573266;11;25
+r;298785878;116395;6294135;11;26
+r;302184819;116395;6365270;11;26
+r;303415972;116395;6374640;11;26
+r;304857182;116395;6392440;11;26
+r;305300504;116395;6404208;11;26
+r;305623507;116395;6414470;11;26
+r;305689621;116395;6417858;11;26
+r;370567758;116395;14584288;11;26
+r;371814590;116395;14637131;11;26
+r;374540177;116395;14730915;11;26
+r;114450137;116395;5795042;11;27
+r;299056656;116395;6298977;11;27
+r;302028163;116395;6357512;11;27
+r;302202601;116395;6366883;11;27
+r;305696238;116395;6418471;11;27
+r;121527210;116395;6440088;11;29
+r;122712804;116395;6427802;11;29
+r;122717666;116395;6427191;11;29
+r;277413564;116395;10987990;11;29
+r;315500024;116395;12107806;11;29
+r;315500043;116395;12107804;11;29
+r;315500060;116395;12107802;11;29
+r;315500072;116395;12107801;11;29
+r;337339538;116395;13034229;11;29
+r;434384403;116395;16319243;11;29
+r;110604596;116395;5574115;11;30
+r;121493205;116395;6443880;11;30
+r;121548017;116395;6437762;11;30
+r;121552037;116395;6437319;11;30
+r;269462513;116395;10732856;11;30
+r;334344311;116395;13031302;11;30
+r;419755615;116395;15519631;11;30
+r;419757068;116395;13742722;11;30
+r;419764684;116395;15592976;11;30
+r;419784903;116395;15344365;11;30
+r;419785954;116395;15479725;11;30
+r;419796725;116395;13741765;11;30
+r;419796731;116395;13743971;11;30
+r;419804591;116395;15372162;11;30
+r;419816674;116395;13798016;11;30
+r;419829736;116395;15596061;11;30
+r;419841308;116395;15347211;11;30
+r;419841892;116395;16036899;11;30
+r;419842645;116395;15501009;11;30
+r;112187666;116395;5689018;11;31
+r;121499106;116395;6443216;11;31
+r;121580389;116395;6434147;11;31
+r;279363337;116395;11027337;11;31
+r;303725332;116395;11783541;11;31
+r;419705195;116395;15391233;11;31
+r;121526551;116395;6440168;11;32
+r;121562075;116395;6436198;11;32
+r;272638899;116395;10870714;11;32
+r;419652858;116395;15408561;11;32
+r;419658247;116395;15542349;11;32
+r;419691663;116395;15258055;11;32
+r;114015115;116395;5837693;11;33
+r;121512123;116395;6441780;11;33
+r;122711968;116395;6427907;11;33
+r;122747537;116395;6423337;11;33
+r;269397809;116395;10743758;11;33
+r;280466336;116395;11064618;11;33
+r;434363718;116395;16257494;11;33
+r;29958832;116395;1830962;11;34
+r;114012658;116395;5838544;11;34
+r;114758752;116395;5884347;11;34
+r;115844675;116395;5919947;11;34
+r;118958844;116395;6068185;11;34
+r;121516245;116395;6441316;11;34
+r;419520472;116395;15366412;11;34
+r;419555253;116395;15391943;11;34
+r;423149005;116395;16130516;11;34
+r;29941413;116395;1829593;11;35
+r;30008727;116395;1836388;11;35
+r;112663780;116395;5733540;11;35
+r;116320335;116395;5940303;11;35
+r;117903888;116395;5982662;11;35
+r;122750327;116395;6422973;11;35
+r;419493357;116395;15482243;11;35
+r;419493367;116395;15958199;11;35
+r;419493371;116395;15572667;11;35
+r;419493379;116395;15243784;11;35
+r;428558557;116395;16313172;11;35
+r;268842522;116395;10745174;11;36
+r;313763229;116395;12051566;11;36
+r;315109120;116395;12081126;11;36
+r;419491589;116395;15350171;11;36
+r;117883474;116395;5987097;11;37
+r;291816015;116395;11363136;11;37
+r;291816022;116395;11363135;11;37
+r;113305077;116395;5803358;11;38
+r;114749797;116395;5893930;11;38
+r;118527556;116395;6004275;11;38
+r;270205693;116395;10821579;11;38
+r;292640334;116395;11393397;11;38
+r;298588288;116395;11656434;11;38
+r;313732735;116395;12052279;11;38
+r;55736264;116395;2463953;11;39
+r;109663695;116395;5537442;11;39
+r;109663704;116395;5537441;11;39
+r;121558228;116395;6436625;11;39
+r;254170516;116395;10351713;11;39
+r;255395388;116395;10385357;11;39
+r;113272019;116395;5811788;11;40
+r;242255316;116395;10191032;11;40
+r;296653387;116395;11553928;11;40
+r;287129951;116395;11183497;11;41
+r;52244109;116395;2379807;11;42
+r;113277732;116395;5810164;11;42
+r;118524958;116395;6006603;11;42
+r;122663892;116395;6433769;11;42
+r;121545129;116395;6438094;11;43
+r;55508128;116395;2452006;11;44
+r;116299962;116395;5948291;11;44
+r;118524954;116395;6006604;11;44
+r;121037206;116395;6451125;11;44
+r;121454793;116395;6448143;11;44
+r;282591395;116395;11104824;11;44
+r;118542527;116395;6000298;11;45
+r;417031651;116395;15572684;11;45
+r;417031681;116395;15546561;11;45
+r;256308551;116395;10429773;11;46
+r;109887278;116395;5553449;11;47
+r;125286774;116395;7555412;11;47
+r;50437570;116395;2365367;11;48
+r;109880811;116395;5556857;11;48
+r;190855291;116395;8879855;11;50
+r;216722992;116395;9617688;11;50
+r;190855224;116395;8879851;11;50
+r;190855237;116395;8879852;11;50
+r;190855265;116395;8879854;11;50
+r;190855323;116395;8879856;11;50
+r;195503103;116395;9021738;11;50
+r;216797902;116395;9627941;11;50
+r;325692659;116395;12701195;11;50
+r;325703026;116395;12701194;11;50
+r;397497080;116395;15334350;11;50
+r;402104224;116395;15294390;11;50
+r;402103952;116395;15334341;11;50
+r;395567234;116395;15446016;11;50
+r;402273215;116395;15571770;11;50
+r;411717804;116395;15692580;11;50
+r;414592268;116395;15712583;11;50
+r;414848226;116395;15408565;11;50
+r;419102011;116395;16073066;11;50
+r;17162226;116395;567890;11;51
+r;25177181;116395;1559734;11;51
+r;29894197;116395;1843224;11;51
+r;106010453;116395;5153482;11;51
+r;28838761;116395;1753422;11;52
+r;31649856;116395;1965407;11;52
+r;106936519;116395;5338618;11;52
+r;108611942;116395;5517748;11;52
+r;29488950;116395;1801912;11;53
+r;29886506;116395;1844741;11;53
+r;106717795;116395;5304394;11;53
+r;29880241;116395;1846222;11;54
+r;29755833;116395;1821777;11;55
+r;50070108;116395;2359748;11;55
+r;80095969;116395;3275656;11;56
+r;52490572;116395;2561722;11;57
+r;22925957;116395;1307443;11;58
+r;29894193;116395;1843225;11;58
+r;29756128;116395;1821775;11;59
+r;29894173;116395;1843229;11;59
+r;31666445;116395;1966132;11;59
+r;52466588;116395;2520904;11;59
+r;52468541;116395;2516900;11;59
+r;106957913;116395;5338617;11;59
+r;29757666;116395;1821776;11;60
+r;29839246;116395;1826615;11;60
+r;78484328;116395;3244916;11;60
+r;29499440;116395;1802199;11;61
+r;29894167;116395;1843230;11;61
+r;29894185;116395;1843227;11;62
+r;29894189;116395;1843226;11;63
+r;29894209;116395;1843221;11;63
+r;29851976;116395;1851938;11;65
+r;29874707;116395;1847385;11;65
+r;107022643;116395;5350261;11;65
+r;29488940;116395;1801913;11;67
+r;30046936;116395;1858762;11;67
+r;29894179;116395;1843228;11;68
+r;12578867;116395;380661;11;101
+r;12600511;116395;375351;11;101
+r;12600557;116395;375342;11;101
+r;12600621;116395;375326;11;101
+r;12600521;116395;375350;11;102
+r;12600567;116395;375340;11;102
+r;12600575;116395;375338;11;102
+r;12600609;116395;375329;11;102
+r;12600641;116395;375321;11;102
+r;12600495;116395;375355;11;103
+r;12600553;116395;375343;11;103
+r;12600585;116395;375335;11;103
+r;12600637;116395;375322;11;103
+r;12600671;116395;375313;11;103
+r;12713081;116395;347565;11;103
+r;12600537;116395;375346;11;104
+r;12600605;116395;375330;11;104
+r;12600613;116395;375328;11;104
+r;12600665;116395;375315;11;104
+r;12606303;116395;373911;11;104
+r;12643185;116395;364769;11;104
+r;12643277;116395;364749;11;104
+r;12644699;116395;364413;11;104
+r;12698173;116395;351272;11;104
+r;12590481;116395;377861;11;105
+r;12600487;116395;375357;11;105
+r;12600653;116395;375318;11;105
+r;12600661;116395;375316;11;105
+r;12600577;116395;375337;11;106
+r;12600593;116395;375333;11;106
+r;12600597;116395;375332;11;106
+r;12600625;116395;375325;11;106
+r;12600629;116395;375324;11;106
+r;12698017;116395;351319;11;106
+r;12578231;116395;380787;11;107
+r;12600563;116395;375341;11;107
+r;12600601;116395;375331;11;107
+r;12702591;116395;350164;11;107
+r;12600479;116395;375359;11;108
+r;12600541;116395;375345;11;108
+r;12600617;116395;375327;11;108
+r;12600633;116395;375323;11;108
+r;12600649;116395;375319;11;108
+r;12600657;116395;375317;11;108
+r;12600669;116395;375314;11;108
+r;12578237;116395;380786;11;109
+r;12600505;116395;375352;11;109
+r;12600547;116395;375344;11;109
+r;12600581;116395;375336;11;109
+r;12600589;116395;375334;11;109
+r;12600645;116395;375320;11;109
+r;12600571;116395;375339;11;110
+r;9009190;116395;318713;11;148
+r;11699154;116395;329781;11;148
+r;8711421;116395;248028;11;160
+r;8607079;116395;108050;11;161
+r;8626617;116395;159890;11;161
+r;8628514;116395;163626;11;161
+r;8629855;116395;165951;11;161
+r;8631651;116395;168510;11;161
+r;8680925;116395;207861;11;161
+r;8692031;116395;220256;11;161
+r;8703541;116395;236023;11;161
+r;8705739;116395;238873;11;161
+r;8706798;116395;240804;11;161
+r;8707956;116395;242954;11;161
+r;8715649;116395;252074;11;161
+r;8718447;116395;254429;11;161
+r;8718502;116395;254476;11;161
+r;8718505;116395;254477;11;161
+r;8718526;116395;254490;11;161
+r;8718673;116395;254587;11;161
+r;8719001;116395;254808;11;161
+r;8721296;116395;256495;11;161
+r;8721665;116395;256722;11;161
+r;8723657;116395;258177;11;161
+r;8723660;116395;258178;11;161
+r;8725179;116395;259172;11;161
+r;8725623;116395;259466;11;161
+r;8725625;116395;259467;11;161
+r;8730381;116395;263239;11;161
+r;8730384;116395;263240;11;161
+r;8773272;116395;307597;11;161
+r;8811796;116395;313622;11;161
+r;8811803;116395;313627;11;161
+r;8811807;116395;313630;11;161
+r;8811809;116395;313633;11;161
+r;8811870;116395;313679;11;161
+r;8579321;116395;28161;11;162
+r;8591594;116395;63756;11;162
+r;8597684;116395;81783;11;162
+r;8602341;116395;95105;11;162
+r;8605601;116395;104163;11;162
+r;8689057;116395;214031;11;162
+r;8731243;116395;263867;11;162
+r;8580743;116395;32512;11;163
+r;8585408;116395;46196;11;163
+r;8594855;116395;73422;11;163
+r;8603425;116395;97920;11;163
+r;8619574;116395;140232;11;163
+r;8621991;116395;146224;11;163
+r;8642176;116395;183672;11;163
+r;8642645;116395;183972;11;163
+r;8642649;116395;183973;11;163
+r;8642651;116395;183974;11;163
+r;8642653;116395;183975;11;163
+r;8674191;116395;203766;11;163
+r;8678871;116395;206688;11;163
+r;8733693;116395;265980;11;163
+r;8750926;116395;283760;11;163
+r;8756146;116395;288244;11;163
+r;8761191;116395;293585;11;163
+r;8762527;116395;295282;11;163
+r;8762529;116395;295283;11;163
+r;8763306;116395;296131;11;163
+r;8764871;116395;297963;11;163
+r;8772050;116395;306181;11;163
+r;8775075;116395;309216;11;163
+r;8648839;116395;187758;11;164
+r;8662042;116395;196667;11;164
+r;8777515;116395;311505;11;164
+r;8669338;116395;200836;11;165
+r;8571567;116395;4761;11;166

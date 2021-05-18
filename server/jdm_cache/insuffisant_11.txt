@@ -1,0 +1,80 @@
+
+e;49629;'insuffisant';1;142
+e;6399127;'approvisionnement insuffisant en eau potable';1;0
+e;6413955;'spécimen insuffisant pour établir un diagnostic';1;0
+e;6296915;'développement insuffisant';1;0
+e;6293223;'échantillon insuffisant pour établir un diagnostic';1;0
+e;6346770;'gain pondéral insuffisant';1;0
+e;6361912;'épiphora due à un drainage insuffisant';1;0
+e;6284596;'poids insuffisant';1;0
+e;6409740;'exercice insuffisant';1;0
+e;14174689;'être insuffisant';1;0
+e;14583969;'travail insuffisant';1;0
+e;6432684;'remplissage insuffisant de l'emballage';1;0
+e;15298907;'débit cardiaque insuffisant';1;0
+e;15298900;'débit insuffisant';1;0
+e;15298906;'au débit insuffisant';1;0
+e;15357962;'apport insuffisant en calories d'origine protéique';1;0
+e;6443365;'nouveau-né ayant un poids insuffisant pour l'âge gestationnel';1;0
+e;13135785;'apport en sang insuffisant';1;0
+e;11254577;'insuffisant pour vivre';1;0
+e;15480412;''travail insuffisant'';1;0
+e;359521;'insuffisant rénal aigu anurique';1;50
+e;359517;'insuffisant hépatique';1;50
+e;359526;'insuffisant vertébro-basilaire';1;50
+e;391127;'insuffisant cardiaque';1;52
+e;359525;'insuffisant cardiovasculaire';1;50
+e;359519;'insuffisant placentaire';1;50
+e;359518;'insuffisant musculaire';1;50
+e;359516;'insuffisant coronarien';1;50
+e;359515;'insuffisant aortique';1;50
+e;359527;'insuffisant hypophysaire';1;50
+e;359523;'insuffisant veineux';1;50
+e;359529;'insuffisant organique';1;50
+e;359522;'insuffisant thyroïdien';1;50
+e;359520;'insuffisant rénal';1;52
+e;359524;'insuffisant médullo-surrénal';1;50
+e;359530;'insuffisant valvulaire';1;50
+e;359528;'insuffisant mitral';1;50
+e;255137;'niveau insuffisant';1;50
+e;212640;'insuffisant respiratoire';1;2
+r;305130555;49629;6399127;11;25
+r;305616393;49629;6413955;11;25
+r;397464065;49629;6296915;11;25
+r;298508137;49629;6293223;11;26
+r;301578427;49629;6346770;11;26
+r;302127549;49629;6361912;11;26
+r;340925367;49629;6284596;11;26
+r;349219635;49629;6409740;11;26
+r;360412539;49629;14174689;11;26
+r;370557698;49629;14583969;11;26
+r;122673640;49629;6432684;11;29
+r;419803594;49629;15298907;11;30
+r;419803726;49629;15298900;11;30
+r;419618964;49629;15298906;11;32
+r;419603781;49629;15357962;11;33
+r;121497834;49629;6443365;11;34
+r;337337988;49629;13135785;11;36
+r;288439116;49629;11254577;11;41
+r;397020852;49629;15480412;11;50
+r;18521387;49629;590073;11;52
+r;18521394;49629;590072;11;59
+r;12664717;49629;359521;11;101
+r;12664739;49629;359517;11;102
+r;12664697;49629;359526;11;103
+r;13035126;49629;391127;11;103
+r;12664701;49629;359525;11;104
+r;12664731;49629;359519;11;104
+r;12664735;49629;359518;11;105
+r;12664743;49629;359516;11;105
+r;12664747;49629;359515;11;105
+r;12664693;49629;359527;11;106
+r;12664709;49629;359523;11;106
+r;12664685;49629;359529;11;107
+r;12664713;49629;359522;11;108
+r;12664727;49629;359520;11;108
+r;12664705;49629;359524;11;109
+r;12664681;49629;359530;11;110
+r;12664689;49629;359528;11;110
+r;8719426;49629;255137;11;161
+r;8688124;49629;212640;11;162

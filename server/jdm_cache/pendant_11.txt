@@ -1,0 +1,776 @@
+
+e;108262;'pendant';1;120
+e;6294786;'tissu égaré pendant la préparation';1;0
+e;6300189;'pneumomédiastin survenant pendant la période périnatale';1;0
+e;6304475;'soins de relève du patient pendant un jour férié';1;0
+e;6305499;'maladies respiratoires chroniques survenant pendant la période périnatale';1;0
+e;6307609;'assistance pendant les repas';1;0
+e;6319414;'visualisation améliorée des tissus malins pendant la chirurgie';1;0
+e;6332455;'atélectasie primitive survenant pendant la période périnatale';1;0
+e;6346869;'bactériurie asymptomatique pendant la grossesse';1;0
+e;6357804;'rubéole pendant la grossesse';1;0
+e;6361212;'vomissements dus à une maladie organique pendant la grossesse';1;0
+e;6361485;'anoxie cérébrale pendant ou après une intervention';1;0
+e;6366897;'cardionéphropathie hypertensive préexistante compliquant ou cause de soins obstétricaux pendant la puerpéralité';1;0
+e;6367532;'néphropathie hypertensive préexistante compliquant ou cause de soins obstétricaux pendant la grossesse';1;0
+e;6369832;'pyrexie maternelle pendant le travail';1;0
+e;6377932;'choc pendant ou après une intervention chirurgicale';1;0
+e;6378974;'cardionéphropathie hypertensive préexistante compliquant ou cause de soins obstétricaux pendant la grossesse';1;0
+e;6379162;'bilan musculaire avec courbe de puissance pendant un exercice isométrique et isocinétique';1;0
+e;6386891;'glycosurie pendant la grossesse';1;0
+e;6396243;'prise en charge pendant les vacances';1;0
+e;6396317;'chute pendant un déraillement sans collision préalable';1;0
+e;6404346;'néphropathie hypertensive préexistante compliquant ou cause de soins obstétricaux pendant la puerpéralité';1;0
+e;6408955;'contractions utérines pendant la grossesse';1;0
+e;6411337;'hypoxie cérébrale pendant ou après une intervention';1;0
+e;6414570;'commotion avec perte de conscience pendant 1 à 24 heures';1;0
+e;6421667;'pneumothorax survenant pendant la période périnatale';1;0
+e;6307764;'saignement pendant la grossesse';1;0
+e;6309538;'fixation de sein pendant';1;0
+e;6321141;'saignement pendant les rapports sexuels';1;0
+e;13738042;'collaboration biélorusse pendant la Seconde Guerre mondiale';777;0
+e;6388435;'cancer pendant grossesse';1;0
+e;6400854;'épisode de soins non précisé pyrexie d'origine inconnue pendant les suites de couches';1;0
+e;6354235;'changement de couleur pendant la formation de la dent';1;0
+e;6292427;'épisode de soins non précisé fièvre maternelle de type non précisé pendant le travail';1;0
+e;6414695;'épisode de soins non précisé obstruction par des tissus mous anormaux du bassin pendant le travail';1;0
+e;6333209;'emphysème interstitiel survenant pendant la période périnatale';1;0
+e;13990135;'pendant des semaines';1;0
+e;13990137;'pendant des secondes';1;0
+e;13990134;'pendant des mois';1;0
+e;13990138;'pendant des millénaires';1;0
+e;13990131;'pendant des années';1;0
+e;13990136;'pendant des minutes';1;0
+e;13990133;'pendant des jours';1;0
+e;6339290;'emphysème interstitiel et affections apparentées survenant pendant la période périnatale';1;0
+e;14452999;'pension alimentaire due entre époux pendant la procédure';1;0
+e;14572220;'pendant de longues périodes';1;0
+e;14571911;'Zéro alcool pendant la grossesse';777;0
+e;14609845;'pendant la saison d'hiver';1;0
+e;14654090;'pendant 15 ans';1;0
+e;14654091;'pendant 10 ans';1;0
+e;14654093;'pendant 20 ans';1;0
+e;14654092;'pendant 25 ans';1;0
+e;14654775;'pendant 60 min';1;0
+e;14654774;'pendant 50 min';1;0
+e;14654771;'pendant 20 min';1;0
+e;14654770;'pendant 10 min';1;0
+e;14654772;'pendant 30 min';1;0
+e;14654773;'pendant 40 min';1;0
+e;6298958;'exposition à un produit non précisé pendant la grossesse';1;0
+e;16510070;'occupation allemande du Luxembourg pendant la Première Guerre mondiale';777;0
+e;6386648;'obstruction par le bassin pendant le travail';1;0
+e;15259674;'pendant tout le temps que';1;0
+e;15381978;'pendant la dernière moitié du XVIIe siècle';1;0
+e;6284794;'non précisée, fièvre maternelle pendant le travail';1;0
+e;6285254;'pression veineuse élevée pendant la dialyse';1;0
+e;6313283;'obstruction par des tissus mous pelviens anormaux pendant le travail';1;0
+e;6317971;'diabète pendant la grossesse';1;0
+e;15563031;'parler pendant son sommeil';1;0
+e;6352246;'affection rénale pendant la grossesse';1;0
+e;6359098;'épisode de soins non précisé infection généralisée pendant le travail';1;0
+e;15921859;'pendant la guerre froide';1;0
+e;16154214;'qui a été préparée pendant plusieurs années';777;0
+e;16285898;'somnolence pendant la journée';1;0
+e;6425394;'hypertension chronique compliquant ou cause de soins obstétricaux pendant la puerpéralité';1;0
+e;6289875;'commotion avec perte de conscience pendant plus de 24 heures avec rétablissement complet';1;0
+e;6290023;'pyrexie d'origine inconnue pendant les suites de couches';1;0
+e;6293356;'pyrexie d'origine inconnue pendant les suites de couches postpartum';1;0
+e;6324779;'coagulation artificielle du rein pendant la dialyse';1;0
+e;6328337;'troubles cérébro-vasculaires pendant les suites de couches';1;0
+e;6330519;'commotion avec perte de conscience pendant moins d'une heure';1;0
+e;6341430;'collapsus pendant ou après un acte à visée diagnostique et thérapeutique';1;0
+e;6348335;'bactériurie pendant la grossesse';1;0
+e;6380488;'autres affections transitoires de la coagulation pendant la période néonatale';1;0
+e;6384607;'trauma pendant grossesse';1;0
+e;6394893;'seuil épileptique plus bas pendant le tec';1;0
+e;6400629;'survenant pendant ou à la suite d'un acte médical à visée diagnostique et thérapeutique';1;0
+e;6418349;'avec accouchement, obstruction par des tissus mous pelviens anormaux pendant le travail';1;0
+e;6369109;'antepartum infection généralisée pendant le travail';1;0
+e;14562221;'jouer pendant des heures';1;0
+e;14670831;'travailler pendant les vacances';1;6
+e;14874912;'Recueil des observations et des recherches qui ont été faites en Égypte pendant l'expédition de l'Armée française, publi';1;0
+e;3751986;'fruits secs mélangés trempés dans de l'eau tiède';1;0
+e;6434779;'dystocie des épaules pendant le travail et l'accouchement';1;0
+e;6431295;'hémorragie pendant la grossesse';1;0
+e;6286999;'antepartum obstruction par des tissus mous anormaux du bassin pendant le travail';1;0
+e;6292094;'antepartum fièvre maternelle de type non précisé pendant le travail';1;0
+e;6298573;'blessures causées à des militaires et à des civils pendant une guerre et une insurrection';1;0
+e;6320241;'parler pendant le sommeil';1;0
+e;6343303;'autres affections respiratoires survenant pendant la période périnatale';1;0
+e;6368408;'autre menace pendant le travail';1;0
+e;6378335;'avec mention de complication postpartum insuffisance rénale aiguë pendant le travail';1;0
+e;6395239;'antepartum obstruction par le bassin osseux pendant le travail';1;0
+e;6399047;'mauvaise étiquette placée sur le médicament pendant la distribution';1;0
+e;6405220;'chez un enfant né vivant souffrance foetale remarquée d'abord pendant le travail';1;0
+e;6356015;'avec accouchement, fièvre maternelle de type non précisé pendant le travail';1;0
+e;6373463;'avec accouchement, infection généralisée pendant le travail';1;0
+e;6381593;'avec accouchement, obstruction par le bassin osseux pendant le travail';1;0
+e;13519850;'pendant quelques instants';1;0
+e;6440380;'déchirure du périnée du quatrième degré pendant l'accouchement';1;0
+e;6433832;'mort foetale d'asphyxie ou d'anoxie pendant le travail';1;0
+e;6422512;'déchirure vaginale haute pendant et après le travail';1;0
+e;10605345;'désertion pendant Première guerre mondiale';777;0
+e;3751360;'aubergine finement ciselée et mise au sel';1;0
+e;6437826;'exposition aux drogues avant et pendant la grossesse par l'intermédiaire du père';1;0
+e;6434317;'épis de soins au cours de la gross non précisé ou sans objet rupture de l'utérus pendant le travail';1;0
+e;6433581;'non précisée, quant à l'épisode de soin obstruction par le bassin osseux pendant le travail';1;0
+e;6433167;'foetus ou nouveau-né affecté par une autre affection ou procédure utilisée pendant le travail et l'accouchement';1;0
+e;6432683;'hémorragie importante pendant l'accouchement';1;0
+e;11770359;'Rennes pendant la Seconde Guerre mondiale';777;0
+e;6443465;'hémorragie pendant l'accouchement associée à une afibrinogénémie';1;0
+e;6443313;'hématome vulvaire et périnéal pendant l'accouchement';1;0
+e;6439794;'réactions et intoxications dues à des opiacés et des tranquillisants administrés à la mère pendant le travail et l'accouchement';1;0
+e;6437061;'dégénérescences cérébrales se manifestant généralement pendant l'enfance';1;0
+e;6432065;'liée à l'anesthésie complication circulatoire pendant le travail ou l'accouchement';1;0
+e;6423629;'surveillance foetale pendant le travail au moyen d'un moniteur à capteur interne';1;0
+e;9989165;'fièvre maternelle pendant le travail non précisée';1;0
+e;10903567;'cavalerie française pendant la Première Guerre mondiale';777;0
+e;12313611;'occupation allemande de la France pendant la Seconde Guerre mondiale';777;0
+e;15234328;'dormir pendant douze heures d'affilée';1;0
+e;15504768;'douleur pendant le sommeil';1;0
+e;13755700;'détresse foetale intra-utérine constatée pour la première fois pendant le travail ou l'accouchement, chez un nouveau-né vivant';1;0
+e;16325086;'désertion pendant la Première Guerre mondiale';777;0
+e;5827083;'tolérance immunitaire pendant la grossesse';777;0
+e;6440617;'déchirure du périnée du deuxième degré pendant l'accouchement';1;0
+e;6432466;'avec condition ou complication postpartum rupture de l'utérus pendant le travail';1;0
+e;6431474;'autre traumatisme obstétrical précisé du périnée et de la vulve pendant l'accouchement';1;0
+e;9972651;'Tchécoslovaquie pendant la Seconde Guerre mondiale';777;0
+e;5836933;'utilisation de médicaments pendant la grossesse';777;0
+e;6447553;'rupture de l'utérus pendant le travail';1;0
+e;6446192;'prise de conscience pendant l'anesthésie';1;0
+e;6443369;'foetus ou nouveau-né affecté par des opiacés ou tranquilisants administrés à la mère pendant le travail ou l'accouchement';1;0
+e;6442516;'vol pendant l'enfance';1;0
+e;6440781;'liée à l'anesthésie complication pulmonaire pendant le travail ou l'accouchement';1;0
+e;6440268;'exposition maternelle pendant l'accouchement';1;0
+e;6432458;'hémorragie pendant l'accouchement';1;0
+e;6432300;'décès maternel pendant l'accouchement';1;0
+e;6429742;'autres maladies respiratoires chroniques survenant pendant la période périnatale';1;0
+e;9972649;'relations germano-soviétiques pendant l'entre-deux-guerres';777;0
+e;9989325;'quant à l'épisode de soin obstruction par le bassin osseux pendant le travail non précisée';1;0
+e;9989323;'quant à l'épisode de soin infection généralisée pendant le travail non précisée';1;0
+e;11029795;'artillerie française pendant la Première Guerre mondiale';777;0
+e;11356846;'mouvement de résistance polonaise pendant la Seconde Guerre mondiale';777;0
+e;11359215;'évacuations des civils au Japon pendant la Seconde Guerre mondiale';777;0
+e;15409571;'battre le fer pendant qu'il est encore chaud';1;0
+e;6443623;'traumatisme non précisé du périnée et de la vulve pendant l'accouchement';1;0
+e;6433471;'cerclage du col de l'utérus pendant la grossesse par voie vaginale';1;0
+e;6428552;'chute pendant un déraillement avec collision préalable';1;0
+e;11356743;'de compositeurs persécutés pendant le nazisme';777;0
+e;11406427;'François Mitterrand pendant la Seconde Guerre mondiale';777;0
+e;16366318;'Remuez la sauce pendant deux minutes.';1;0
+e;6445018;'non précisée, quant à l'épisode de soin infection généralisée pendant le travail';1;0
+e;6444807;'hémorragie pendant l'accouchement associée à une hypofibrinogénémie';1;0
+e;6439178;'récupération des cellules sanguines pendant l'opération';1;0
+e;6436789;'avec mention de complication postpartum varices des membres inférieurs pendant l'accouchement';1;0
+e;6429698;'obstruction par le bassin osseux pendant le travail';1;0
+e;6423297;'pneumopéricarde survenant pendant la période périnatale';1;0
+e;10850632;'opérations aériennes pendant la bataille de Normandie';777;0
+e;10849889;'histoire militaire de Gibraltar pendant la Seconde Guerre mondiale';777;0
+e;10849880;'histoire du Venezuela pendant la Seconde Guerre mondiale';777;0
+e;10849879;'histoire de la Guyane britannique pendant la Seconde Guerre mondiale';777;0
+e;10919424;'se lever pendant la nuit';1;0
+e;12334668;'histoire de la marine française en Indochine française pendant la période 1939-1945';777;0
+e;15302886;'Nous avions travaillé ensemble pendant deux années entières.';1;0
+e;15520580;'Nous avons discuté pendant des heures.';1;0
+e;15763426;'Nous avons marché pendant des kilomètres!';1;0
+e;15257275;'Nous sommes toujours surveillés pendant la récréation.';1;0
+e;15284995;'On a travaillé dur pendant deux ans.';1;0
+e;16073801;'Pension alimentaire due entre époux pendant la procédure';1;0
+e;15488918;'Plusieurs personnes sont passées pendant que vous n'étiez pas là.';1;0
+e;15328034;'Qu'est-ce que tu fais pendant ton temps libre?';1;0
+e;15772418;'Que faisaient les femmes pendant que l'homme marchait sur la Lune';777;0
+e;15633825;'Suppression de l'évêché pendant 21 ans';777;0
+e;15346265;'Tiens la lampe électrique pendant que je regarde à l'intérieur.';1;0
+e;15319472;'Un bateau a coulé pendant la tempête.';1;0
+e;15633823;'Vacance du siège épiscopal pendant 20 ans';777;0
+e;13775257;'acidose foetale constatée pour la première fois pendant le travail ou l'accouchement, chez un nouveau-né vivant';1;0
+e;13775258;'acidose intra-utérine constatée pour la première fois pendant le travail ou l'accouchement, chez un nouveau-né vivant';1;0
+e;13760926;'anomalie du rythme cardiaque foetal constatée pour la première fois pendant le travail ou l'accouchement, chez un nouveau-né vivant';1;0
+e;13750960;'anoxie ou hypoxie foetale constatée pour la première fois pendant le travail ou l'accouchement, chez un nouveau-né vivant';1;0
+e;13750961;'anoxie ou hypoxie intra-utérine constatée pour la première fois pendant le travail ou l'accouchement, chez un nouveau-né vivant';1;0
+e;6067866;'pertes de livres pendant l'Antiquité tardive';777;0
+e;6448217;'cardiopathie hypertensive préexistante compliquant ou cause de soins obstétricaux pendant l'accouchement';1;0
+e;6437438;'rupture de l'utérus pendant et après le travail';1;0
+e;6436812;'hémorragie pendant l'accouchement associée à une afibrinémie';1;0
+e;6434575;'complication non précisée du cordon pendant le travail et l'accouchement';1;0
+e;6433025;'liée à l'anesthésie complication cardiaque pendant le travail ou l'accouchement';1;0
+e;6431643;'conscience indésirable pendant l'anesthésie';1;0
+e;10850032;'Ghettos de Biélorussie pendant la Seconde Guerre mondiale';777;0
+e;11081399;'pendant les cours';1;0
+e;6381699;'autres affections cardio-vasculaires survenant pendant la période périnatale';1;0
+e;6396060;'ante-partum obstruction par des tissus mous pelviens anormaux pendant le travail';1;0
+e;12862958;'pendant quelques secondes';1;0
+e;12862959;'pendant quelques heures';1;0
+e;12862964;'pendant quelques semaines';1;0
+e;12862962;'pendant quelques années';1;0
+e;12862961;'pendant quelques jours';1;0
+e;12862963;'pendant quelques mois';1;0
+e;6403992;'ante-partum infection généralisée pendant le travail';1;0
+e;13449164;'décès de la mère pendant l'accouchement';1;0
+e;15366206;'Mettez le gâteau au four pendant cinquante minutes.';1;0
+e;15527811;'Military Police : police militaire qui apparaît plus pendant les conflits.';1;0
+e;6450087;'choc pendant ou après le travail et l'accouchement';1;0
+e;6448663;'choc antepartum choc pendant ou après le travail et l'accouchement';1;0
+e;6443185;'exposition accidentelle pendant l'administration du médicament';1;0
+e;6436117;'suicide pendant l'incarcération';1;0
+e;6436069;'examen de routine pendant la croissance du nourrisson ou de l'enfant';1;0
+e;10039775;'La littérature pendant la Première Guerre mondiale';777;0
+e;10313990;'président pendant une journée ou moins';777;0
+e;10935813;'pendant des heures';1;0
+e;11095116;'Suisse pendant la Première Guerre mondiale';777;0
+e;11095456;'combats navals sporadiques dans la Méditerranée pendant la Première Guerre mondiale';777;0
+e;11095458;'Rhodésie du Sud pendant la Première Guerre mondiale';777;0
+e;11095461;'Brésil pendant la Première Guerre mondiale';777;0
+e;11095735;'occupation allemande de la Belgique pendant la Seconde Guerre mondiale';777;0
+e;6388511;'affections cardio-vasculaires survenant pendant la période périnatale';1;0
+e;6403335;'ante-partum obstruction par le bassin osseux pendant le travail';1;0
+e;12006512;'histoire de l'Amérique latine pendant la Seconde Guerre mondiale';777;0
+e;12049989;'déterminer les facteurs d'altération des denrées alimentaires pendant leur conservation';1;0
+e;12050138;'pendant numbers';777;0
+e;12050918;'supporter de rester assis pendant de longues périodes';1;0
+e;12050914;'rester concentré pendant de longues périodes';1;0
+e;14767009;'Le port du masque pendant la pandémie de Covid-19';777;0
+e;15633824;'Le diocèse est alors administré pendant dix ans';777;0
+e;15497481;'Le film projeté pendant le vol était Casablanca.';1;0
+e;6447068;'hypertension chronique compliquant ou cause de soins obstétricaux pendant l'accouchement';1;0
+e;6443972;'injection pendant un cathétérisme cardiaque incluant l'utilisation d'injecteurs automatiques sous pression';1;0
+e;6443438;'mort maternelle pendant l'accouchement';1;0
+e;6437924;'épisode de soins non précisé choc pendant ou après le travail et l'accouchement';1;0
+e;6434683;'mort pendant l'induction anesthésique';1;0
+e;6357594;'dysplasie broncho-pulmonaire survenant pendant la période périnatale';1;0
+e;10821433;'intervention alliée pendant la guerre civile russe';777;0
+e;6447927;'chez l'enfant né vivant souffrance foetale observée initialement pendant le travail';1;0
+e;9929898;'infection généralisée pendant le travail avec accouchement';1;0
+e;10353919;'mouvement de résistance polonais pendant la Seconde Guerre mondiale';777;0
+e;10353916;'résistance au Luxembourg pendant la Seconde Guerre mondiale';777;0
+e;10353915;'Résistance juive pendant la Shoah';777;0
+e;10353914;'résistance en Italie pendant la Seconde Guerre mondiale';777;0
+e;10353725;'Colombie pendant la Seconde Guerre mondiale';777;0
+e;10353724;'histoire militaire du Canada pendant la Seconde Guerre mondiale';777;0
+e;10353722;'histoire de la Belgique pendant la Seconde Guerre mondiale';777;0
+e;6450218;'traumatisme obstétrical non précisé du périnée et de la vulve pendant l'accouchement';1;0
+e;6445831;'hémorragie pendant l'accouchement associée à une hypofibrinémie';1;0
+e;10346833;'La musique classique pendant la Seconde Guerre mondiale';777;0
+e;6451993;'autres hémorragies pendant l'accouchement';1;0
+e;6444618;'lysosome secondaire pendant l'exocytose';1;0
+e;6440796;'hémorragie pendant l'accouchement avec anomalie de la coagulation';1;0
+e;6435493;'implantation d'électrode pour système de stimulateur cardiaque transveineux temporaire pendant et immédiatement après une chirurgie cardiaque';1;0
+e;9929915;'obstruction par des tissus mous pelviens anormaux pendant le travail avec accouchement';1;0
+e;9929916;'obstruction par le bassin osseux pendant le travail avec accouchement';1;0
+e;9929914;'obstruction par des tissus mous anormaux du bassin pendant le travail avec accouchement';1;0
+e;9929866;'fièvre maternelle de type non précisé pendant le travail avec accouchement';1;0
+e;16105414;'Histoire militaire de l'Italie pendant la Seconde Guerre mondiale';777;0
+e;6450657;'hémorragie pendant l'accouchement associée à une hyperfibrinolyse';1;0
+e;6439371;'insertion d'électrode pour système de stimulateur cardiaque transveineux temporaire pendant et immédiatement après une chirurgie cardiaque';1;0
+e;10083511;'La littérature pendant la Seconde Guerre mondiale';777;0
+e;11559282;'tentatives de paix pendant la Première Guerre mondiale';777;0
+e;11622328;'unités des Guards britanniques pendant la Seconde Guerre mondiale';777;0
+e;12278156;'pendant la Révolution française';777;0
+e;6447288;'prise de conscience non voulue pendant l'anesthésie';1;0
+e;6446751;'autres affections apparentées à l'emphysème interstitiel survenant pendant la période périnatale';1;0
+e;6439741;'sans mention d'hypertension oedème ou gain de poids excessif pendant la grossesse';1;0
+e;2394090;'signal pendant';1;0
+e;6444591;'exposition accidentelle pendant la préparation du médicament pour l'administration';1;0
+e;6439126;'déchirure du périnée du troisième degré pendant l'accouchement';1;0
+e;6437940;'victime de sévices sexuels pendant l'enfance';1;0
+e;6435832;'décès foetal dû à l'asphyxie ou l'anoxie pendant le travail';1;0
+e;6434580;'récupération du sang pendant l'opération';1;0
+e;10444783;'La musique classique pendant la Première Guerre mondiale';777;0
+e;5539066;'utilisation de médicaments pendant l'allaitement';777;0
+e;6450658;'déchirure non précisée du périnée pendant l'accouchement';1;0
+e;10174514;'histoire de la France pendant la Seconde Guerre mondiale';777;0
+e;15958506;'La région de Walcourt-Beaumont pendant la seconde guerre mondiale';777;0
+e;6446570;'déchirure du périnée du premier degré pendant l'accouchement';1;0
+e;6432937;'cerclage du col de l'utérus pendant la grossesse par voie abdominale';1;0
+e;6449086;'complications pulmonaires pendant le travail et l'accouchement liées à l'anesthésie ou aux sédatifs';1;0
+e;11363496;'confrontations israélo-syriennes pendant la guerre civile syrienne';777;0
+e;6446827;'pneumopathie infectieuse acquise in utero ou pendant l'accouchement';1;0
+e;5557973;'liste des navires perdus par l'US Navy pendant la Seconde Guerre mondiale';777;0
+e;6451262;'choc postpartum choc pendant ou après le travail et l'accouchement';1;0
+e;6447306;'cardionéphropathie hypertensive préexistante compliquant ou cause de soins obstétricaux pendant l'accouchement';1;0
+e;6451110;'conscience pendant l'anesthésie';1;0
+e;6450593;'néphropathie hypertensive préexistante compliquant ou cause de soins obstétricaux pendant l'accouchement';1;0
+e;11383840;'armée française pendant les Cent-Jours';777;0
+e;6445624;'ante-partum complication non précisée du cordon pendant le travail et l'accouchement';1;0
+e;8879851;'saignement pendant le rapport sexuel';1;0
+e;9012716;'pigeons voyageurs de l'armée française pendant la Première Guerre mondiale';777;0
+e;11107940;'Tunisie pendant la Première Guerre mondiale';777;0
+e;11176391;'Liste des flottilles de sous-marins allemands de la Kriegsmarine pendant la Seconde Guerre mondiale';777;0
+e;12714592;'souffrir pendant des jours';1;0
+e;14108863;'Chronologie de la France pendant les Cent-Jours';777;0
+e;14162930;'Bombardement de Berlin pendant la Seconde Guerre mondiale';777;0
+e;15771950;'Il a plu pendant tout le temps que nous étions là-bas.';1;0
+e;15770917;'Il a parlé pendant deux heures sans interruption.';1;0
+e;14585329;'Engins utilisés pendant la construction';777;0
+e;15499738;'Grangemouth a mené pendant 20 minutes.';1;0
+e;15355307;'Elle est resté silencieuse pendant tout le petit déjeuner.';1;0
+e;15262030;'Faites frire les oignons pendant cinq minutes.';1;0
+e;15214910;'Faire chauffer à feu doux pendant cinq minutes.';1;0
+e;15500246;'J'ai lu pendant deux heures d'affilée.';1;0
+e;15392633;'Il a vécu à Paris pendant dix ans.';1;0
+e;15513711;'Il a neigé pendant la nuit.';1;0
+e;15570747;'J'ai bien dormi pendant le vol aller.';1;0
+e;15539109;'Ils sont restés parqués là pendant des semaines.';1;0
+e;15513713;'J'ai pris des notes pendant la conférence.';1;0
+e;15310693;'Ils ont préparé leur évasion pendant des mois.';1;0
+e;15284997;'Il a travaillé en France pendant deux ans.';1;0
+e;15373948;'Il est resté sans parler pendant une semaine entière.';1;0
+e;15220165;'Faites cuire les pâtes pendant dix minutes.';1;0
+e;15541619;'Elle est capable de marcher pendant des heures.';1;0
+e;15524780;'Je pars en vacances pendant quinze jours.';1;0
+e;15787067;'Avant et pendant la seconde guerre mondiale';777;0
+e;463036;'anomalies des canaux de Müller pendant la grossesse';1;50
+e;3759132;'brochettes en bambou trempées dans l'eau pendant minutes';1;0
+e;3751988;'branche de céleri taillée en bâtonnets blanchis pendant minutes';1;0
+e;3792134;'pendant de cou';1;0
+e;463514;'abdomen aigu pendant la grossesse';1;50
+e;3758488;'noix de pécan trempées préalablement dans l'eau pendant au moins heures';1;0
+e;3752746;'piques à brochettes en bois trempés dans l'eau pendant minutes';1;0
+e;1970388;'pendant au moins';1;0
+e;2566163;'arc pendant';1;0
+e;3755355;'noix de cajou préalablement trempées dans l'eau pendant à heures';1;0
+e;2355641;'volume maximal expiré pendant la première seconde';1;0
+e;2490243;'sommet pendant';1;0
+e;3751371;'pois chiches trempés dans l'eau pendant heures sans la peau';1;0
+e;3758894;'noix de cajou ayant trempé pendant environ heures';1;0
+e;3758484;'morue dessalée dans de l'eau froide pendant heures';1;0
+e;1841809;'syndrome des pointes-ondes continues pendant le sommeil';1;0
+e;3755112;'brochettes en bois trempées dans l'eau pendant minutes';1;0
+e;3705745;'rester sous la douche pendant des heures';1;0
+e;463897;'tumeur maligne pendant la grossesse';1;50
+e;1817889;'dissuasion nucléaire pendant la guerre froide';1;0
+e;3755024;'soja trempé dans l'eau pendant quelques heures';1;0
+e;3751200;'pois chiches trempés pendant heures';1;0
+e;4337101;'Esclave pendant douze ans';777;0
+e;6449619;'réactions et intoxications dues à des opiacés et tranquillisants administrés à la mère pendant le travail et l'accouchement';1;0
+e;567826;'pendant toute la durée';777;50
+e;2241201;'pendant qu'';2;0
+e;5138204;'pendant un instant';1;0
+e;4401249;'jouer pendant les heures de travail';1;8
+e;2355215;'pendant une heure';1;0
+e;369583;'pendant un certain temps';1;50
+e;369577;'pendant tout le temps';1;50
+e;369566;'pendant ce temps-là';1;50
+e;355505;'fruit pendant par les branches';1;50
+e;351017;'en pendant de';1;50
+e;369582;'pendant toute la vie de';1;50
+e;369575;'pendant longtemps';1;50
+e;369569;'pendant des siècles';1;50
+e;369568;'pendant des années et des années';1;50
+e;369585;'pendant un petit moment';1;50
+e;369570;'pendant la guerre';1;50
+e;369584;'pendant un long moment';1;50
+e;369574;'pendant les premiers temps';1;50
+e;369586;'pendant un temps';1;50
+e;369573;'pendant les derniers temps';1;50
+e;369572;'pendant le temps qu'il falloir';1;50
+e;369581;'pendant toute l'existence de';1;50
+e;369580;'pendant toute l'existence';1;50
+e;369579;'pendant tout le temps voulu';1;50
+e;369567;'pendant cent sept ans';1;50
+e;378843;'sceau pendant';1;50
+e;373302;'procès pendant';1;50
+e;369587;'pendant une grande heure';1;50
+e;369578;'pendant tout le temps de';1;50
+e;369571;'pendant le temps nécessaire';1;50
+e;369576;'pendant quelques minutes';1;50
+e;258793;'battre le fer pendant qu'il est chaud';1;50
+e;210966;'il faut battre le fer pendant qu'il est chaud';1;50
+e;118671;'pendant que';1;62
+e;130214;'La Vie quotidienne en Gaule pendant la paix romaine, Ier-IIIe s. apr. J.-C';1;50
+e;211499;'pendant d'oreille';1;50
+e;292733;'pas pendant la grossesse';777;50
+e;99482;'Voyage à la Terre Australe pendant les années 1801, 1802, 1803';1;50
+e;142834;'Clérambault, histoire d'une conscience libre pendant la guerre';1;50
+e;171657;'pendant ce temps';1;54
+e;30357;'pendant la semaine des quatre jeudis';1;50
+e;200587;'faire pendant à';1;50
+r;397139273;108262;6294786;11;25
+r;299130292;108262;6300189;11;25
+r;299481776;108262;6304475;11;25
+r;299490476;108262;6305499;11;25
+r;299565726;108262;6307609;11;25
+r;299885492;108262;6319414;11;25
+r;301009252;108262;6332455;11;25
+r;301601121;108262;6346869;11;25
+r;302067937;108262;6357804;11;25
+r;302113931;108262;6361212;11;25
+r;302115338;108262;6361485;11;25
+r;302199359;108262;6366897;11;25
+r;302956848;108262;6367532;11;25
+r;302977226;108262;6369832;11;25
+r;303636095;108262;6377932;11;25
+r;303641901;108262;6378974;11;25
+r;303642567;108262;6379162;11;25
+r;304389064;108262;6386891;11;25
+r;305015558;108262;6396243;11;25
+r;305044520;108262;6396317;11;25
+r;305297898;108262;6404346;11;25
+r;305460973;108262;6408955;11;25
+r;305472475;108262;6411337;11;25
+r;305627884;108262;6414570;11;25
+r;305711693;108262;6421667;11;25
+r;340995807;108262;6307764;11;25
+r;341001083;108262;6309538;11;25
+r;341009319;108262;6321141;11;25
+r;348394807;108262;13738042;11;25
+r;349145827;108262;6388435;11;25
+r;349203881;108262;6400854;11;25
+r;349208946;108262;6354235;11;25
+r;349226906;108262;6292427;11;25
+r;349261492;108262;6414695;11;25
+r;349309461;108262;6333209;11;25
+r;352394961;108262;13990135;11;25
+r;352394974;108262;13990137;11;25
+r;352395004;108262;13990134;11;25
+r;352395027;108262;13990138;11;25
+r;352395039;108262;13990131;11;25
+r;352395051;108262;13990136;11;25
+r;352395065;108262;13990133;11;25
+r;358820805;108262;6339290;11;25
+r;366880872;108262;14452999;11;25
+r;370333351;108262;14572220;11;25
+r;370384416;108262;14571911;11;25
+r;371248228;108262;14609845;11;25
+r;372567956;108262;14654090;11;25
+r;372568008;108262;14654091;11;25
+r;372568295;108262;14654093;11;25
+r;372568318;108262;14654092;11;25
+r;372583073;108262;14654775;11;25
+r;372583107;108262;14654774;11;25
+r;372583204;108262;14654771;11;25
+r;372583216;108262;14654770;11;25
+r;372583241;108262;14654772;11;25
+r;372583296;108262;14654773;11;25
+r;397512710;108262;6298958;11;25
+r;434254630;108262;16510070;11;25
+r;400728702;108262;6386648;11;25
+r;394341598;108262;15259674;11;25
+r;394908318;108262;15381978;11;25
+r;396192927;108262;6284794;11;25
+r;396268851;108262;6285254;11;25
+r;398422891;108262;6313283;11;25
+r;398526386;108262;6317971;11;25
+r;398934408;108262;15563031;11;25
+r;400010117;108262;6352246;11;25
+r;400109220;108262;6359098;11;25
+r;414458591;108262;15921859;11;25
+r;423681435;108262;16154214;11;25
+r;427209867;108262;16285898;11;25
+r;122731468;108262;6425394;11;26
+r;298404463;108262;6289875;11;26
+r;298412071;108262;6290023;11;26
+r;298509082;108262;6293356;11;26
+r;300187028;108262;6324779;11;26
+r;300215602;108262;6328337;11;26
+r;300961281;108262;6330519;11;26
+r;301489132;108262;6341430;11;26
+r;301720956;108262;6348335;11;26
+r;303836033;108262;6380488;11;26
+r;303999950;108262;6384607;11;26
+r;304996873;108262;6394893;11;26
+r;305144922;108262;6400629;11;26
+r;312959994;108262;6418349;11;26
+r;341158303;108262;6369109;11;26
+r;369981067;108262;14562221;11;26
+r;373063474;108262;14670831;11;26
+r;385039893;108262;14874912;11;26
+r;93717845;108262;3751986;11;27
+r;121574706;108262;6434779;11;27
+r;122685789;108262;6431295;11;27
+r;298195275;108262;6286999;11;27
+r;298487051;108262;6292094;11;27
+r;299035575;108262;6298573;11;27
+r;299944823;108262;6320241;11;27
+r;301505061;108262;6343303;11;27
+r;302959358;108262;6368408;11;27
+r;303642119;108262;6378335;11;27
+r;305003138;108262;6395239;11;27
+r;305133227;108262;6399047;11;27
+r;305304148;108262;6405220;11;27
+r;312959068;108262;6356015;11;27
+r;312960190;108262;6373463;11;27
+r;312962623;108262;6381593;11;27
+r;343043544;108262;13519850;11;27
+r;121524669;108262;6440380;11;28
+r;122663339;108262;6433832;11;28
+r;122753816;108262;6422512;11;28
+r;266731695;108262;10605345;11;28
+r;93627881;108262;3751360;11;29
+r;121547436;108262;6437826;11;29
+r;121578848;108262;6434317;11;29
+r;122665631;108262;6433581;11;29
+r;122669309;108262;6433167;11;29
+r;122673649;108262;6432683;11;29
+r;301915441;108262;11770359;11;29
+r;121496898;108262;6443465;11;30
+r;121498266;108262;6443313;11;30
+r;121529869;108262;6439794;11;30
+r;121554386;108262;6437061;11;30
+r;122679236;108262;6432065;11;30
+r;122745222;108262;6423629;11;30
+r;222592079;108262;9989165;11;30
+r;274294593;108262;10903567;11;30
+r;320429927;108262;12313611;11;30
+r;419793888;108262;15234328;11;30
+r;419798452;108262;15504768;11;30
+r;419829109;108262;13755700;11;30
+r;430369522;108262;16325086;11;30
+r;113767268;108262;5827083;11;31
+r;121522502;108262;6440617;11;31
+r;122675613;108262;6432466;11;31
+r;122684430;108262;6431474;11;31
+r;221469582;108262;9972651;11;31
+r;114017864;108262;5836933;11;32
+r;121460223;108262;6447553;11;32
+r;121472447;108262;6446192;11;32
+r;121497791;108262;6443369;11;32
+r;121505464;108262;6442516;11;32
+r;121521005;108262;6440781;11;32
+r;121525655;108262;6440268;11;32
+r;122675673;108262;6432458;11;32
+r;122677103;108262;6432300;11;32
+r;122697796;108262;6429742;11;32
+r;221469605;108262;9972649;11;32
+r;222603112;108262;9989325;11;32
+r;222644080;108262;9989323;11;32
+r;279578994;108262;11029795;11;32
+r;291207059;108262;11356846;11;32
+r;291279771;108262;11359215;11;32
+r;419649726;108262;15409571;11;32
+r;121495487;108262;6443623;11;33
+r;122666585;108262;6433471;11;33
+r;122707007;108262;6428552;11;33
+r;291204540;108262;11356743;11;33
+r;293138545;108262;11406427;11;33
+r;434359958;108262;16366318;11;33
+r;121483048;108262;6445018;11;34
+r;121484909;108262;6444807;11;34
+r;121535365;108262;6439178;11;34
+r;121556795;108262;6436789;11;34
+r;122698092;108262;6429698;11;34
+r;122747832;108262;6423297;11;34
+r;272188505;108262;10850632;11;34
+r;272191585;108262;10849889;11;34
+r;272191652;108262;10849880;11;34
+r;272191671;108262;10849879;11;34
+r;274599737;108262;10919424;11;34
+r;320229233;108262;12334668;11;34
+r;419514343;108262;15302886;11;34
+r;419514531;108262;15520580;11;34
+r;419514855;108262;15763426;11;34
+r;419516347;108262;15257275;11;34
+r;419518211;108262;15284995;11;34
+r;419523870;108262;16073801;11;34
+r;419526414;108262;15488918;11;34
+r;419530701;108262;15328034;11;34
+r;419531232;108262;15772418;11;34
+r;419549399;108262;15633825;11;34
+r;419552722;108262;15346265;11;34
+r;419557453;108262;15319472;11;34
+r;419559246;108262;15633823;11;34
+r;419573188;108262;13775257;11;34
+r;419573237;108262;13775258;11;34
+r;419597242;108262;13760926;11;34
+r;419597552;108262;13750960;11;34
+r;419597596;108262;13750961;11;34
+r;118960189;108262;6067866;11;35
+r;121454148;108262;6448217;11;35
+r;121550970;108262;6437438;11;35
+r;121556573;108262;6436812;11;35
+r;121576496;108262;6434575;11;35
+r;122670604;108262;6433025;11;35
+r;122682962;108262;6431643;11;35
+r;272191100;108262;10850032;11;35
+r;281093995;108262;11081399;11;35
+r;303853108;108262;6381699;11;35
+r;305012915;108262;6396060;11;35
+r;329462728;108262;12862958;11;35
+r;329462893;108262;12862959;11;35
+r;329462954;108262;12862964;11;35
+r;329463061;108262;12862962;11;35
+r;329463341;108262;12862961;11;35
+r;329463354;108262;12862963;11;35
+r;341227754;108262;6403992;11;35
+r;341348072;108262;13449164;11;35
+r;419507282;108262;15366206;11;35
+r;419507932;108262;15527811;11;35
+r;121046727;108262;6450087;11;36
+r;121059647;108262;6448663;11;36
+r;121499384;108262;6443185;11;36
+r;121562781;108262;6436117;11;36
+r;121563188;108262;6436069;11;36
+r;227608807;108262;10039775;11;36
+r;252671503;108262;10313990;11;36
+r;275220127;108262;10935813;11;36
+r;281392682;108262;11095116;11;36
+r;281407091;108262;11095456;11;36
+r;281413659;108262;11095458;11;36
+r;281417819;108262;11095461;11;36
+r;281418124;108262;11095735;11;36
+r;304519017;108262;6388511;11;36
+r;305276969;108262;6403335;11;36
+r;312937469;108262;12006512;11;36
+r;313687589;108262;12049989;11;36
+r;313696807;108262;12050138;11;36
+r;313706741;108262;12050918;11;36
+r;313713340;108262;12050914;11;36
+r;375343860;108262;14767009;11;36
+r;419491679;108262;15633824;11;36
+r;419491964;108262;15497481;11;36
+r;121464691;108262;6447068;11;37
+r;121492411;108262;6443972;11;37
+r;121497168;108262;6443438;11;37
+r;121546582;108262;6437924;11;37
+r;121575558;108262;6434683;11;37
+r;126196845;108262;6357594;11;37
+r;270206442;108262;10821433;11;37
+r;121456725;108262;6447927;11;38
+r;219833486;108262;9929898;11;38
+r;254266657;108262;10353919;11;38
+r;254266681;108262;10353916;11;38
+r;254266693;108262;10353915;11;38
+r;254266702;108262;10353914;11;38
+r;254266864;108262;10353725;11;38
+r;254266882;108262;10353724;11;38
+r;254266905;108262;10353722;11;38
+r;121045511;108262;6450218;11;39
+r;121475702;108262;6445831;11;39
+r;254179145;108262;10346833;11;39
+r;121029232;108262;6451993;11;40
+r;121486535;108262;6444618;11;40
+r;121520851;108262;6440796;11;40
+r;121568335;108262;6435493;11;40
+r;219834475;108262;9929915;11;40
+r;219832411;108262;9929916;11;40
+r;219832378;108262;9929914;11;40
+r;219831061;108262;9929866;11;40
+r;420433092;108262;16105414;11;40
+r;121041502;108262;6450657;11;41
+r;121533679;108262;6439371;11;41
+r;232467696;108262;10083511;11;41
+r;296961108;108262;11559282;11;41
+r;298130336;108262;11622328;11;41
+r;318926197;108262;12278156;11;41
+r;121462668;108262;6447288;11;42
+r;121467489;108262;6446751;11;42
+r;121530339;108262;6439741;11;42
+r;53177939;108262;2394090;11;43
+r;121486765;108262;6444591;11;43
+r;121535831;108262;6439126;11;43
+r;121546418;108262;6437940;11;43
+r;121565295;108262;6435832;11;43
+r;121576449;108262;6434580;11;43
+r;258727267;108262;10444783;11;43
+r;109889560;108262;5539066;11;44
+r;121041495;108262;6450658;11;44
+r;238092583;108262;10174514;11;44
+r;417033491;108262;15958506;11;44
+r;121469076;108262;6446570;11;45
+r;122671431;108262;6432937;11;45
+r;121055837;108262;6449086;11;46
+r;291687673;108262;11363496;11;46
+r;121466811;108262;6446827;11;47
+r;109877191;108262;5557973;11;48
+r;121035940;108262;6451262;11;48
+r;121462514;108262;6447306;11;48
+r;121037351;108262;6451110;11;49
+r;121042084;108262;6450593;11;49
+r;292084447;108262;11383840;11;49
+r;121477544;108262;6445624;11;50
+r;190855222;108262;8879851;11;50
+r;195334516;108262;9012716;11;50
+r;282187134;108262;11107940;11;50
+r;286109968;108262;11176391;11;50
+r;326214376;108262;12714592;11;50
+r;357131987;108262;14108863;11;50
+r;360166262;108262;14162930;11;50
+r;412565371;108262;15771950;11;50
+r;412565357;108262;15770917;11;50
+r;370674677;108262;14585329;11;50
+r;400715709;108262;15499738;11;50
+r;397498559;108262;15355307;11;50
+r;397505254;108262;15262030;11;50
+r;397505082;108262;15214910;11;50
+r;402120990;108262;15500246;11;50
+r;402104214;108262;15392633;11;50
+r;402103454;108262;15513711;11;50
+r;402120328;108262;15570747;11;50
+r;402118191;108262;15539109;11;50
+r;402121256;108262;15513713;11;50
+r;402112909;108262;15310693;11;50
+r;402104030;108262;15284997;11;50
+r;402106168;108262;15373948;11;50
+r;394173536;108262;15220165;11;50
+r;398926701;108262;15541619;11;50
+r;402273267;108262;15524780;11;50
+r;411712999;108262;15787067;11;50
+r;16357543;108262;463036;11;51
+r;93650054;108262;3759132;11;51
+r;93717815;108262;3751988;11;51
+r;95179196;108262;3792134;11;51
+r;96359605;108262;4306963;11;51
+r;16354916;108262;463514;11;52
+r;93656405;108262;3758488;11;53
+r;93710736;108262;3752746;11;53
+r;31747636;108262;1970388;11;54
+r;52445224;108262;2566163;11;54
+r;93686568;108262;3755355;11;54
+r;47587264;108262;2355641;11;55
+r;52480865;108262;2490243;11;55
+r;93627785;108262;3751371;11;55
+r;93652363;108262;3758894;11;55
+r;93656457;108262;3758484;11;55
+r;29902441;108262;1841809;11;56
+r;93688749;108262;3755112;11;56
+r;92508258;108262;3705745;11;57
+r;16352837;108262;463897;11;58
+r;29718746;108262;1817889;11;58
+r;93689554;108262;3755024;11;58
+r;93722108;108262;3751200;11;58
+r;98950800;108262;4337101;11;58
+r;121051022;108262;6449619;11;58
+r;17160394;108262;567826;11;59
+r;33104505;108262;2241201;11;59
+r;105897128;108262;5138204;11;59
+r;99452782;108262;4401249;11;60
+r;47260858;108262;2355215;11;60
+r;96359981;108262;4306964;11;60
+r;12624219;108262;369583;11;101
+r;12624261;108262;369577;11;101
+r;12624317;108262;369566;11;101
+r;12681121;108262;355505;11;101
+r;12699363;108262;351017;11;101
+r;12624225;108262;369582;11;102
+r;12624273;108262;369575;11;102
+r;12624301;108262;369569;11;102
+r;12624305;108262;369568;11;102
+r;12624207;108262;369585;11;103
+r;12624297;108262;369570;11;103
+r;12624213;108262;369584;11;104
+r;12624277;108262;369574;11;104
+r;12624203;108262;369586;11;105
+r;12624281;108262;369573;11;105
+r;12624285;108262;369572;11;105
+r;12624231;108262;369581;11;106
+r;12624237;108262;369580;11;106
+r;12624243;108262;369579;11;107
+r;12624309;108262;369567;11;107
+r;12586311;108262;378843;11;108
+r;12608849;108262;373302;11;108
+r;12624197;108262;369587;11;108
+r;12624253;108262;369578;11;109
+r;12624291;108262;369571;11;109
+r;12624267;108262;369576;11;110
+r;8724584;108262;258793;11;160
+r;8685958;108262;210966;11;161
+r;8610900;108262;118671;11;162
+r;8615013;108262;130214;11;162
+r;8686741;108262;211499;11;162
+r;8760465;108262;292733;11;162
+r;8603985;108262;99482;11;163
+r;8620764;108262;142834;11;163
+r;8634133;108262;171657;11;163
+r;8580097;108262;30357;11;164
+r;8668795;108262;200587;11;165

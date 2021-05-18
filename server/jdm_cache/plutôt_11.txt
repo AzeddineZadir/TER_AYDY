@@ -1,0 +1,86 @@
+
+e;66049;'plutôt';1;56
+e;14535150;'elle ressemble plutôt à une lanterne à laquelle il manquerait la peau qui doit en recouvrir l'armature';777;0
+e;14571650;'trois principes fondamentaux pour lesquels le Juif doit être prêt à mourir plutôt que de les transgresser';777;0
+e;14851644;'Voir plutôt l'article sur l'Union sportive Tyrosse rugby Côte sud';777;0
+e;15465943;'contraction orale négative pop plutôt US remplaçant 'there is no', 'I have no'... et par trituration 'I am not'';1;0
+e;15692253;'avoir plutôt froid';1;0
+e;15692255;'ayant plutôt froid';1;0
+e;15368038;'Ses résultats sont plutôt décevants.';1;0
+e;15363491;'agir en amont plutôt qu'en aval';1;0
+e;15363488;'anticiper les événements plutôt que d'y réagir';1;0
+e;15312968;'Le livre est un tissu d'absurdités plutôt divertissant.';1;0
+e;15358770;'Les sièges sont plutôt inconfortables.';1;0
+e;11573187;'Convention plutôt que configuration';777;0
+e;15528357;'La plupart des professeurs sont plutôt bien.';1;0
+e;10143067;'Un armistice plutôt mouvementé';777;0
+e;15488524;'Demande-leur plutôt de venir avec toi.';1;0
+e;15227691;'Elle est plutôt jolie.';1;0
+e;15351270;'Je le trouve plutôt antipathique.';1;0
+e;15583367;'Il vaut mieux téléphoner plutôt que d'écrire.';1;0
+e;15480690;'Il serait écarté plutôt que démis de ses fonctions.';1;0
+e;15490747;'J'ai trouvé son comportement plutôt limite.';1;0
+e;15271702;'Invite Marie plutôt que Nathalie.';1;0
+e;15284595;'Il est plutôt lunatique.';1;0
+e;15306011;'Il était plutôt gai après l'arrosage au bureau.';1;0
+e;14903931;'Effets plutôt négatifs';777;0
+e;15280476;'J'étais plutôt déçu.';1;0
+e;15307976;'Bob préfère peindre des ?uvres originales plutôt que faire des reproductions.';1;0
+e;15298497;'C'est plutôt gênant.';1;0
+e;15475607;'Je suis plutôt moyenne en langues.';1;0
+e;15340361;'L'eau est plutôt froide.';1;0
+e;15348492;'L'homme avait un physique plutôt ingrat et était trop gros.';1;0
+e;2247367;'plutôt que de';1;0
+e;2529832;'plutôt mourir';1;0
+e;3372198;'plutôt sans danger';1;0
+e;3366171;'panna cotta à la rose, compote de quetsches épicées et tuiles plutôt girly';1;0
+e;3318388;'panna Cotta à la rose, compote de quetsches épicées et tuiles plutôt girly';1;0
+e;3372197;'plutôt inoffensif';1;0
+e;2247364;'plutôt que';1;0
+e;2247365;'plutôt que d'';2;0
+e;2488367;'plutôt crever';1;0
+e;2247363;'plutôt qu'';2;0
+e;211549;'plutôt deux fois qu'une';1;58
+r;368734757;66049;14535150;11;25
+r;370364501;66049;14571650;11;25
+r;384757909;66049;14851644;11;25
+r;419735727;66049;15465943;11;31
+r;419635354;66049;15692253;11;32
+r;419640639;66049;15692255;11;32
+r;419544676;66049;15368038;11;34
+r;419582078;66049;15363491;11;34
+r;419598211;66049;15363488;11;34
+r;419492454;66049;15312968;11;35
+r;419497371;66049;15358770;11;35
+r;297606671;66049;11573187;11;40
+r;417032863;66049;15528357;11;44
+r;236659843;66049;10143067;11;45
+r;397139043;66049;15488524;11;50
+r;397498513;66049;15227691;11;50
+r;402154554;66049;15351270;11;50
+r;402110234;66049;15583367;11;50
+r;402109994;66049;15480690;11;50
+r;402121670;66049;15490747;11;50
+r;402119518;66049;15271702;11;50
+r;402106016;66049;15284595;11;50
+r;402111308;66049;15306011;11;50
+r;389768788;66049;14903931;11;50
+r;402151601;66049;15280476;11;50
+r;395010421;66049;15307976;11;50
+r;395011095;66049;15298497;11;50
+r;402274081;66049;15475607;11;50
+r;414847872;66049;15340361;11;50
+r;414848148;66049;15348492;11;50
+r;33099334;66049;2247367;11;51
+r;52462500;66049;2529832;11;53
+r;86131257;66049;3372198;11;53
+r;86180908;66049;3366171;11;53
+r;83651033;66049;3318388;11;55
+r;86131261;66049;3372197;11;55
+r;33099789;66049;2247364;11;57
+r;33104471;66049;2247365;11;58
+r;18425925;66049;586939;11;59
+r;52481695;66049;2488367;11;59
+r;18426104;66049;586938;11;60
+r;33104475;66049;2247363;11;60
+r;8686809;66049;211549;11;162

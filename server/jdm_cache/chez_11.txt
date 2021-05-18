@@ -1,0 +1,1938 @@
+
+e;115973;'chez';1;74
+e;15513530;'rhabdomyosarcome chez l'enfant';1;0
+e;15513528;'leïomyosarcome chez l'adulte';1;0
+e;6293678;'carence partielle en androgène chez l'homme âgé';1;0
+e;6285363;'drainage du péritoine pelvien chez la femme par incision';1;0
+e;6287486;'médecine dentaire chez les personnes handicapées';1;0
+e;6288156;'lactation chez l'homme';1;0
+e;6289993;'lactation chez la femme';1;0
+e;6295664;'expérimentation thérapeutique chez l'homme';1;0
+e;6296261;'etats ménopausiques ou climatériques chez la femme';1;0
+e;6297604;'hématocèle chez la femme';1;0
+e;6302178;'tumeurs du sein chez l'homme';1;0
+e;6306443;'site non précisé tumeur bénigne d'un organe génital chez l'homme';1;0
+e;6307531;'pelvipéritonite chronique chez la femme';1;0
+e;6307161;'lésions traumatiques chez le sportif';1;0
+e;6308750;'urétrectomie totale incluant une cystostomie chez l'homme';1;0
+e;6310416;'démangeaisons génitales chez l'homme';1;0
+e;6311424;'rapports sexuels douloureux chez l'homme';1;0
+e;6311953;'goitre par surcharge iodée chez les poulains';1;0
+e;6318105;'rameaux superficiels du nerf périnéal chez l'homme';1;0
+e;6320821;'ganglions nerveux chez les invertébrés';1;0
+e;6321349;'lobe optique chez l'homme';1;0
+e;6321916;'entraînement physique chez l'homme';1;0
+e;6323008;'viviparité chez les non mammifères';1;0
+e;6322900;'galactorrhée chez la femme';1;0
+e;6323774;'incontinence de stress chez l'homme';1;0
+e;6324786;'résultat non concluant du test de recherche du vih chez les nourrissons';1;0
+e;6325078;'phlegmon pelvien chez la femme précisé aigu';1;0
+e;6326586;'eruption génitale chez l'homme';1;0
+e;6331044;'site non précisé tumeur bénigne d'un organe génital chez la femme';1;0
+e;6331985;'eruption génitale chez la femme';1;0
+e;6332293;'engorgement du sein chez le nouveau-né';1;0
+e;6337625;'transsexualisme chez un individu antérieurement homosexuel';1;0
+e;6339308;'site non précisé tumeur maligne des organes génitaux chez l'homme';1;0
+e;6339128;'type de conjugant chez les champignons';1;0
+e;6341077;'soins dentaires chez les sujets âgés';1;0
+e;6341449;'menstruation peu abondante et peu fréquente chez une femme ayant déjà eu des règles normales';1;0
+e;6343713;'blessures chez le sportif';1;0
+e;6345625;'kératectomie chez le donneur';1;0
+e;6349507;'entraînement de la condition physique chez l'homme';1;0
+e;6349636;'méthodes contraceptives chez l'homme';1;0
+e;6354117;'incision du prépuce chez le nouveau-né';1;0
+e;6357836;'sexage chirurgical chez la femelle';1;0
+e;6361891;'site non précisé tumeur maligne des organes génitaux chez la femme';1;0
+e;6362208;'transsexualisme chez un individu antérieurement hétérosexuel';1;0
+e;6364375;'blessures chez les athlètes';1;0
+e;6365686;'trouble de réponse sexuelle chez la femme';1;0
+e;6372979;'techniques de double hybride chez la levure';1;0
+e;6375306;'entretien d'un drain thoracique chez un nouveau-né';1;0
+e;6378933;'trouble vasculaire génital chez l'homme';1;0
+e;6380740;'macrogénitosomie précoce chez l'homme';1;0
+e;6383419;'expérimentation non thérapeutique chez l'homme';1;0
+e;6389563;'examen ou soins chez une femme non enceinte';1;0
+e;6392395;'maturation sexuelle retardée chez la femme';1;0
+e;6394719;'effet mutagène chez l'homme';1;0
+e;6395275;'adhérence pelvienne chez l'homme';1;0
+e;6396462;'fécondité augmentée chez la femme';1;0
+e;6397250;'néphrectomie chez le donneur';1;0
+e;6397668;'troubles de la nutrition chez le nourrisson';1;0
+e;6399871;'urétrocèle chez la femme';1;0
+e;6400202;'trouble de érection chez l'homme';1;0
+e;6401325;'incontinence de stress chez la femme';1;0
+e;6403502;'urétrectomie totale incluant une cystostomie chez la femme';1;0
+e;6403478;'déclanchement du vomissement chez un animal';1;0
+e;6404411;'maturation sexuelle retardée chez l'homme';1;0
+e;6408410;'précocité sexuelle avec hyperplasie surrénale chez l'homme';1;0
+e;6410005;'trouble neurologique chez les plongeurs en eau profonde';1;0
+e;6413618;'triangle de la paroi latérale du pelvis chez la femme';1;0
+e;6414191;'rameaux superficiels du nerf périnéal chez la femme';1;0
+e;6415828;'démangeaisons génitales chez la femme';1;0
+e;6419881;'rapports sexuels douloureux chez la femme';1;0
+e;6394317;'non précisée, infertilité chez l'homme';1;0
+e;6340482;'non précisée, tumeur maligne du sein chez la femme';1;0
+e;12175315;'mesure de panel métabolique chez patient dialysé';1;0
+e;12152294;'mesure de filtration glomérulaire corrigée/1,73m2 calculée chez l'homme';1;0
+e;12152292;'mesure de filtration glomérulaire corrigée/1,73m2 calculée chez les femmes';1;0
+e;12142137;'mesure de créatinine clairance corrigée/1,73m2 calculée chez l'homme';1;0
+e;12142135;'mesure de créatinine clairance corrigée/1,73m2 calculée chez la femme';1;0
+e;6323196;'méatotomie chez un nourrisson';1;0
+e;6391793;'techniques de simple hybride chez la levure';1;0
+e;6343359;'néphrectomie chez le receveur';1;0
+e;6308478;'méthodes contraceptives chez la femme';1;0
+e;6328057;'sexage chirurgical chez l'homme';1;0
+e;6291647;'soins dentaires chez les malades chroniques';1;0
+e;6393371;'gonadectomie chez l'homme';1;0
+e;6417326;'pancytopénie provoquée par le chloramphénicol chez le nourrisson';1;0
+e;13542124;'Valhardi chez les Êtres de la forêt';777;0
+e;13730160;'Réveillon chez Bob';777;0
+e;6290034;'prurit génital chez l'homme';1;0
+e;6415567;'prurit génital chez la femme';1;0
+e;6355901;'dysfonctionnement sexuel chez l'homme';1;0
+e;6421639;'dysfonctionnement sexuel chez la femme';1;0
+e;6407316;'phénomènes physiologiques nutritionnels chez le nourrisson';1;0
+e;6389600;'phénomènes physiologiques de la nutrition chez le nourrisson';1;0
+e;6339548;'manque de désir sexuel chez la femme lié à un état pathologique général';1;0
+e;6399340;'test de double hybride chez la levure';1;0
+e;6391731;'test de triple hybride chez la levure';1;0
+e;6315683;'carcinome in situ des organes génitaux autres et non précisés chez l'homme';1;0
+e;6392971;'carcinome in situ des organes génitaux autres et non précisés chez la femme';1;0
+e;13865261;'Un visiteur chez le roi Arthur';777;0
+e;13866356;'la dépression chez l'enfant et l'adolescent';777;0
+e;14005776;'maladie professionnelle chez les agriculteurs';1;0
+e;6335814;'glaucome limite chez des répondeurs aux stéroïdes';1;0
+e;6405162;'manque de désir sexuel chez l'homme lié à un état pathologique général';1;0
+e;6307344;'cancer du sein chez l'homme';1;0
+e;14159549;'aller chez Plumeau';1;0
+e;14159555;'aller se faire voir chez Plumeau';1;0
+e;14159999;'habiller chez Francur le sucre et la cannelle';1;0
+e;14452743;'résidence de l'enfant chez l'un des parents';1;0
+e;14653092;'comme chez';1;0
+e;14670366;'chez vous';1;0
+e;14670365;'chez toi';1;0
+e;14670364;'chez eux';1;0
+e;14670367;'chez nous';1;0
+e;14727840;'ne pas travailler chez soi';1;0
+e;14754166;'chez les cavistes de France et de Navarre';777;0
+e;14764307;'Le Repas chez Levi';777;0
+e;14769714;'Ma nuit chez';777;0
+e;6381243;'douleur du mamelon chez la femme';1;0
+e;6387145;'augmentation bilatérale du volume mammaire chez l'homme';1;0
+e;6406029;'infection chez un patient leucémique';1;0
+e;6409656;'mastite aiguë chez la femme';1;0
+e;6395918;'syndrome de détresse respiratoire chez adulte';1;0
+e;14871273;'Parcours en Grand Chelem chez les juniors en 2003 et 2004';777;0
+e;6397829;'hypertrophie mammaire unilatérale chez la femme';1;0
+e;15341499;'s'embaucher chez';1;0
+e;15434972;'se sentir comme chez soi';1;0
+e;15457359;'se rendre chez [qqn]';1;0
+e;6288442;'infection chez un receveur d'une greffe de moelle';1;0
+e;6287462;'mastite chez la femme';1;0
+e;6304620;'syndrome de détresse respiratoire chez nouveau-né';1;0
+e;6305685;'affection du sein chez l'homme';1;0
+e;6311220;'infection chez un patient présentant une lésion de la moelle épinière';1;0
+e;6315451;'douleur périnéale chez la femme';1;0
+e;6320877;'infection chez un patient présentant une tumeur solide';1;0
+e;6322547;'augmentation du volume mammaire chez la femme';1;0
+e;6323501;'douleur du mamelon chez l'homme';1;0
+e;6325714;'infection du mamelon chez l'homme';1;0
+e;6325768;'douleur périnéale chez l'homme';1;0
+e;6337194;'ecoulement mammaire infecté chez l'homme';1;0
+e;6354397;'infection chez un patient immunodéprimé';1;0
+e;6370421;'mastite chez l'homme';1;0
+e;6373813;'douleur mammaire chez l'homme';1;0
+e;6382131;'fièvre chez le nouveau-né';1;0
+e;6381039;'mastite aigue chez la femme';1;0
+e;6413753;'douleur mammaire chez la femme';1;0
+e;16316088;'interdiction de recevoir des gens chez soi';1;0
+e;16329199;'syndrome inflammatoire multisystémique chez les enfants';1;0
+e;3371248;'terrine de légumes';1;0
+e;5788802;'anorexie mentale chez des adolescents de sexe masculin';777;0
+e;6431854;'avortement chez l'animal';1;0
+e;6286367;'entérotoxémie à colibacille hémolytique chez le porc';1;0
+e;6287317;'moniliase génitale chez la femme';1;0
+e;6287670;'chez la femme d'origine utérine infertilité';1;0
+e;6291156;'dérèglement climactère chez l'homme';1;0
+e;6296879;'systole du canal artériel chez le foetus';1;0
+e;6302452;'paresthésie des organes génitaux chez l'homme';1;0
+e;6308328;'traumatismes chez le sportif';1;0
+e;6313506;'présence anormale de cellules endométriales chez une femme ménopausée';1;0
+e;6315410;'pseudo-puberté hétérosexuelle précoce chez la femme';1;0
+e;6316000;'type sexuel chez les champignons';1;0
+e;6317093;'maladies parasitaires chez les animaux';1;0
+e;6316914;'raréfaction des cheveux caractéristique chez la femme';1;0
+e;6323638;'transsexualisme chez un individu antérieurement asexué';1;0
+e;6324172;'hypoxie chez un nouveau-né vivant';1;0
+e;6326658;'paresthésie des organes génitaux chez la femme';1;0
+e;6327664;'symptômes de sevrage dus à utilisation thérapeutique de médicaments chez le nouveau-né';1;0
+e;6330321;'foetus ou nouveau-né affecté par une complication de la grossesse chez la mère';1;0
+e;6337257;'remodelage de la paroi bronchique chez les asthmatiques';1;0
+e;6346707;'nausées et vomissements chez la mère';1;0
+e;6346856;'maladies chez les jumeaux';1;0
+e;6348648;'toxoplasmose chez les animaux';1;0
+e;6355875;'foetus et nouveau-né affectés par complications de la grossesse chez la mère';1;0
+e;6364125;'effet carcinogène chez les descendants';1;0
+e;6366500;'chez la femme d'origine cervicale ou vaginale infertilité';1;0
+e;6367157;'thrombopénie du nouveau-né avec purpura thrombopénique idiopathique chez la mère';1;0
+e;6369406;'jeu excessif chez des patients maniaques';1;0
+e;6372760;'confirmée par culture bactérienne tuberculose d'autres organes génitaux chez la femme';1;0
+e;6374418;'trouble érectile chez l'homme lié à un état pathologique général';1;0
+e;6376314;'inversion chromosomique chez un sujet normal';1;0
+e;6384271;'gonadopathie sai chez la femme';1;0
+e;6389838;'montée laiteuse chez l'homme';1;0
+e;6399899;'troubles neurologiques chez les plongeurs en eau profonde';1;0
+e;6402072;'tuberculose d'autres organes génitaux chez l'homme, confirmée par histologie';1;0
+e;6405584;'pseudo-hermaphrodisme surrénalien chez la femme';1;0
+e;6411923;'réarrangement autosomique équilibré chez un sujet anormal';1;0
+e;6417259;'effet mutagène chez la femme';1;0
+e;6417426;'chez la femme péritonite pelvienne aiguë ou non précisée';1;0
+e;12197714;'stress thermique chez les végétaux';777;0
+e;6284268;'sécrétions mammaires chez la femme';1;0
+e;6284185;'problèmes d'alimentation chez le nouveau-né';1;0
+e;6411720;'montée laiteuse chez la femme';1;0
+e;6402474;'écoulement du mamelon chez l'homme';1;0
+e;6286756;'écoulement du mamelon chez la femme';1;0
+e;14205779;'dormir chez l'habitant';1;0
+e;14232461;'dormir chez un pote';1;0
+e;14558098;'rester chacun chez soi';1;0
+e;14563676;'habiter chez son chat';1;0
+e;14571033;'chez Régine';1;0
+e;14584068;'aller chez l'ophtalmologiste';1;0
+e;14722219;'aller chez Emmaüs';1;14
+e;14731055;'se sentir chez soi';1;2
+e;6402954;'anomalie congénitale chez la descendance';1;0
+e;6374256;'hypertrophie mammaire unilatérale chez l'homme';1;0
+e;14972188;'Le Repas chez Simon le pharisien';1;0
+e;6441339;'trouble neurologique dû à l'intoxication au plomb chez l'adulte';1;0
+e;6439939;'synovite gommeuse syphilitique symétrique des genoux chez l'enfant';1;0
+e;6432050;'déficit isolé en hormone de croissance chez l'enfant';1;0
+e;6430995;'malnutrition chez les enfants';1;0
+e;6422562;'oedème génital chez l'homme';1;0
+e;10673174;'Une souris chez les hommes';777;0
+e;10674287;'La Dame de chez Maxim's';777;0
+e;10672811;'L'Expression des émotions chez l'homme et les animaux';777;0
+e;10676384;'Bienvenue chez moi';777;0
+e;10665536;'Panique chez les Crandell';777;0
+e;6326663;'foetus ou nouveau-né affecté par la radiologie chez la mère';1;0
+e;6326914;'foetus et nouveau-né affectés par d'autres complications de la grossesse chez la mère';1;0
+e;6327258;'non classée ailleurs hématocèle chez la femme';1;0
+e;6340839;'pseudo-puberté isosexuelle précoce chez l'homme';1;0
+e;6341235;'chez la femme autre péritonite pelvienne chronique';1;0
+e;6342036;'fugue post-critique chez les épileptiques';1;0
+e;6345066;'confirmée par inoculation animale tuberculose d'autres organes génitaux chez l'homme';1;0
+e;6356847;'troubles intéressants la peau et la régulation de la température chez le foetus et le nouveau-né';1;0
+e;6368281;'foetus et nouveau-né affectés par les complications de la grossesse chez la mère';1;0
+e;6372490;'pelvipéritonite aiguë chez la femme';1;0
+e;6373013;'chez un enfant né vivant souffrance foetale avant le début du travail';1;0
+e;6382141;'autres affections des organes génitaux chez la femme';1;0
+e;6382965;'symptômes de privation d'une utilisation thérapeutique de médicaments chez le nouveau-né';1;0
+e;6391253;'foetus et nouveau-né affectés par une intervention chirurgicale chez la mère';1;0
+e;6394418;'confirmée par culture bactérienne tuberculose d'autres organes génitaux chez l'homme';1;0
+e;6398123;'chez un enfant né vivant souffrance foetale de début non précisé';1;0
+e;6405220;'chez un enfant né vivant souffrance foetale remarquée d'abord pendant le travail';1;0
+e;6405447;'sécrétions mammaires chez l'homme';1;0
+e;6409409;'hermaphroditisme chez la femme';1;0
+e;6417664;'autre maladie inflammatoire précisée des organes et tissus pelviens chez la gemme';1;0
+e;6421158;'confirmée par histologie tuberculose d'autres organes génitaux chez la femme';1;0
+e;12096320;'filtration glomérulaire corrigée/1,73m2 calculée chez l'homme';1;0
+e;12096319;'filtration glomérulaire corrigée/1,73m2 calculée chez les femmes';1;0
+e;12094471;'créatinine clairance corrigée/1,73m2 calculée chez l'homme';1;0
+e;12094470;'créatinine clairance corrigée/1,73m2 calculée chez la femme';1;0
+e;15016187;'chez le notaire';1;0
+e;5799738;'d'alcool chez les jeunes en France';777;0
+e;6083296;'Du rififi chez les hommes';777;0
+e;6443512;'soins dentaires chez l'enfant';1;0
+e;6442431;'troubles neurologiques dû à une intoxication au plomb chez l'adulte';1;0
+e;6441667;'trouble neurologique dû à une intoxication par du plomb chez l'adulte';1;0
+e;6440824;'troubles neurologiques dû à des intoxications par le plomb chez l'adulte';1;0
+e;6437565;'troubles neurologiques dû à une intoxication par le plomb chez l'adulte';1;0
+e;6435612;'sténose pylorique hypertrophique chez l'adulte';1;0
+e;6434309;'pancytopénie provoquée par l'administration de chloramphénicol chez le nouveau-né';1;0
+e;6433734;'trouble neurologique dû à une intoxication au plomb chez l'enfant';1;0
+e;6433373;'trouble neurologique de l'intoxication au plomb chez l'enfant';1;0
+e;6433039;'facteurs d'initiation chez les eucaryotes 4e';1;0
+e;6432547;'régulation de l'expression génique chez les bactéries';1;0
+e;6432110;'virus de l'anémie infectieuse chez le poulet';1;0
+e;6431797;'chez la femme d'autre origine précisée infertilité';1;0
+e;10617915;'Une journée chez ma mère';777;0
+e;6300417;'autres affections des organes génitaux chez l'homme';1;0
+e;12102408;'panel métabolique chez patient dialysé';1;0
+e;6443883;'muscle compresseur de l'urètre chez l'homme';1;0
+e;6441492;'troubles neurologiques dû à des intoxications par du plomb chez l'adulte';1;0
+e;6439843;'trouble neurologique dû à l'intoxication par le plomb chez l'enfant';1;0
+e;6439535;'comportement dyssocial chez l'enfant ou l'adolescent';1;0
+e;6438751;'zone érogène cutanée chez l'animal';1;0
+e;6437208;'déviance sexuelle chez l'enfant';1;0
+e;6436740;'paralysie bénigne du nerf abducens chez l'enfant';1;0
+e;6436254;'troubles neurologiques dû à une intoxication par du plomb chez l'adulte';1;0
+e;6434481;'masturbation habituelle chez l'adulte';1;0
+e;6433493;'audiométrie normale chez l'enfant';1;0
+e;6433479;'globuline fixatrice d'hormone sexuelle chez la femme diminuée';1;0
+e;6432358;'facteur d'initiation chez les procaryotes 2';1;0
+e;6431722;'trouble de l'excitation sexuelle chez la femme';1;0
+e;6424221;'tumeur mammaire sai chez l'homme';1;0
+e;10589663;'Ceux de chez nous';777;0
+e;10589126;'Jerry chez les cinoques';777;0
+e;16316677;'divination chez les Étrusques';777;0
+e;5573835;'intervention précoce chez l'enfant';777;0
+e;5573822;'douleur chez l'enfant';777;0
+e;6441962;'trouble neurologique dû à des intoxications au plomb chez l'enfant';1;0
+e;6441922;'maladie de still survenant chez l'adulte';1;0
+e;6441500;'trouble neurologique de l'intoxication au plomb chez l'adulte';1;0
+e;6441355;'hépatite chez l'animal';1;0
+e;6441309;'troubles névrotiques chez l'enfant';1;0
+e;6441233;'troubles neurologiques dû à l'intoxication au plomb chez l'enfant';1;0
+e;6440190;'troubles neurologiques de l'intoxication par le plomb chez l'enfant';1;0
+e;6439780;'ostéochondrose du rachis chez l'adulte';1;0
+e;6437555;'intolérance au lactose chez l'enfant sans déficit en lactase';1;0
+e;6437500;'trouble neurologique dû à l'intoxications par du plomb chez l'adulte';1;0
+e;6437320;'chez la femme associée à l'anovulation infertilité';1;0
+e;6437285;'troubles neurologiques dû à des intoxications par le plomb chez l'enfant';1;0
+e;6437025;'troubles neurologiques dû à une intoxication par du plomb chez l'enfant';1;0
+e;6436308;'paralysie bénigne de la sixième paire crânienne chez l'enfant';1;0
+e;6436216;'inhibition de l'orgasme chez la femme ou chez l'homme';1;0
+e;6435096;'muscle sphincter interne de l'urètre chez l'homme';1;0
+e;6432103;'trouble neurologique de l'intoxication par du plomb chez l'adulte';1;0
+e;6430638;'grippe chez les oiseaux';1;0
+e;6425411;'maturation sexuelle accélérée chez la femme';1;0
+e;9989419;'tumeur maligne du sein chez la femme non précisée';1;0
+e;10587056;'Venez donc prendre le café chez nous';777;0
+e;10602647;'Je retourne chez ma mère';777;0
+e;13768805;'cysto-urétroscopie avec urétrotomie interne chez l'homme';1;0
+e;13790802;'cysto-urétroscopie avec urétrotomie interne chez la femme';1;0
+e;13778256;'d-90 syndromes d'intoxication essentiellement chez les animaux termes généraux';1;0
+e;16042988;'de chez eux';1;0
+e;16042989;'de chez lui';1;0
+e;15442661;'de chez moi';1;0
+e;16042990;'de chez nous';1;0
+e;16042991;'de chez toi';1;0
+e;16042992;'de chez vous';1;0
+e;15370062;'de retour chez elle';1;0
+e;15662211;'de retour chez vous';1;0
+e;15391214;'devenir un incontournable chez qn';1;0
+e;15835679;'devenir un incontournable chez quelqu'un';1;0
+e;6326458;'dilatation du prépuce chez le nouveau-né';1;0
+e;13777099;'dilatation du prépuce, sauf chez le nouveau-né';1;0
+e;15347041;'dyspnée chez un cardiaque';1;0
+e;15342692;'débarquer chez qn';1;0
+e;6383948;'dépistage chez les nouveau-nés';1;0
+e;13768478;'dépistage de la t4 chez le nouveau-né';1;0
+e;6290977;'dépistage sur la thyroïde chez le nouveau-né';1;0
+e;13751344;'détresse foetale intra-utérine constatée avant le début du travail, chez un nouveau-né vivant';1;0
+e;13755700;'détresse foetale intra-utérine constatée pour la première fois pendant le travail ou l'accouchement, chez un nouveau-né vivant';1;0
+e;13746464;'détresse foetale intra-utérine, sans précision quant au moment où celle-ci a été constatée, avant ou après le début du travail, chez un nouveau-né vivant';1;0
+e;15381960;'en dessous de chez';1;0
+e;15475918;'en service chez';1;0
+e;15440283;'en vente chez votre marchand de journaux';1;0
+e;16321262;'douleur chez l'adulte';1;0
+e;16161893;'chez le cheval';777;0
+e;5573831;'hypercholestérolémie chez l'enfant';777;0
+e;5687356;'adaptation à la haute altitude chez l'homme';777;0
+e;5828701;'Donald chez les écureuils';777;0
+e;6446350;'troubles neurologiques dû à une intoxication par le plomb chez l'enfant';1;0
+e;6444555;'syndrome de l'arrière-train asymétrique chez le porc';1;0
+e;6443830;'régulation de l'expression génique chez les champignons';1;0
+e;6442303;'régulation de l'expression génique chez les virus';1;0
+e;6442026;'pancytopénie provoquée par l'administration de chloramphénicol chez le nourrisson';1;0
+e;6440406;'trouble neurologique dû à l'intoxication par du plomb chez l'adulte';1;0
+e;6440327;'facteur d'initiation chez les eucaryotes 4e';1;0
+e;6440187;'nodules vocaux chez l'enfant';1;0
+e;6440047;'polyartérite noueuse chez l'enfant';1;0
+e;6438859;'trouble neurologique dû à l'intoxication au plomb chez l'enfant';1;0
+e;6437000;'facteur d'initiation chez les eucaryotes 2';1;0
+e;6436203;'trouble de l'identité sexuelle chez un adolescent antérieurement asexué';1;0
+e;6435847;'facteur d'initiation chez les eucaryotes 6';1;0
+e;6433555;'facteurs d'initiation chez les eucaryotes 4';1;0
+e;6432942;'excision d'hydatide de morgagni chez l'homme';1;0
+e;6432670;'trouble de l'identité sexuelle chez un adulte antérieurement homosexuel';1;0
+e;6432068;'facteurs d'initiation chez les procaryotes 3';1;0
+e;6431566;'vol chez l'enfant';1;0
+e;6430686;'écoulement mammaire chez l'homme';1;0
+e;9963594;'Bienvenue chez les Robinson';777;0
+e;9967374;'Bienvenue chez les Huang';777;0
+e;9982746;'Deux nigauds chez les barbus';777;0
+e;9980422;'sortir de chez soi';1;8
+e;9980355;'pouvoir rentrer chez soi';1;0
+e;9989218;'infertilité chez l'homme non précisée';1;0
+e;10007532;'Daffy chez les indiens';777;0
+e;10003768;'La Dame de chez Maxim';777;0
+e;9993260;'douleur chez les animaux';777;0
+e;10963546;'Spirou chez les esquimaux';777;0
+e;10599719;'Charlot chez l'usurier';777;0
+e;6293003;'cul-de-sac de douglas chez l'homme';1;0
+e;6320152;'dépistage chez le nouveau-né';1;0
+e;6397856;'détresse foetale chez un nouveau-né vivant';1;0
+e;15198435;'chez Pierre';1;0
+e;15198316;'chez Racine';1;0
+e;15531567;'chez de nombreux patients';1;0
+e;15484053;'chez des patients prédisposés';1;0
+e;15198625;'chez l'animal';1;0
+e;15381082;'chez l'homme';1;0
+e;14490645;'chez l'imprimeur Michel Charles Le Cène - version de Harmonices Mundi - Claudio Astronio - recording 6-8 septembre 2004';777;0
+e;15483449;'chez l'opticien';1;0
+e;15410670;'chez la femme';1;0
+e;15476790;'chez la femme ménopausée';1;0
+e;15277378;'chez la personne âgée';1;0
+e;15286088;'chez le donneur';1;0
+e;15300703;'chez le marchand de fruits et légumes';1;0
+e;15286092;'chez le receveur';1;0
+e;15253062;'chez le sujet âgé';1;0
+e;15286090;'chez le traiteur';1;0
+e;15627978;'chez les Français';1;0
+e;15627977;'chez les adultes';1;0
+e;15286724;'chez les enfants';1;0
+e;15312656;'chez les femmes blanches';1;0
+e;15588307;'chez les femmes ménopausées';1;0
+e;15276413;'chez les hommes';1;0
+e;15500534;'chez les nouveaux-nés';1;0
+e;15246655;'chez les patients';1;0
+e;15500166;'chez les patients légèrement ou modérément atteints';1;0
+e;16071193;'chez les personnes';1;0
+e;15296564;'chez les renards';1;0
+e;15529733;'chez les uns';1;0
+e;15381230;'chez qn';1;0
+e;15630166;'chez qui';1;0
+e;16041657;'chez-eux';1;0
+e;16041658;'chez-lui';1;0
+e;16041659;'chez-nous';1;0
+e;15525342;'chez-soi loin de chez soi';1;0
+e;16041660;'chez-vous';1;0
+e;6311462;'circoncision par clamp chez le nouveau-né';1;0
+e;6421476;'circoncision par excision chirurgicale chez le nouveau-né';1;0
+e;13757508;'civd chez le nouveau-né';1;0
+e;15263773;'coincé chez soi';1;0
+e;2374970;'chez-les-autres';1;0
+e;5634610;'utilisation d'outils chez les animaux';777;0
+e;5837669;'mammite chez les animaux domestiques';777;0
+e;5836254;'problème de différenciation du tissu ectodermique chez l'embryon';1;0
+e;6444162;'hypoesthésie de l'organe génital chez l'homme';1;0
+e;6443982;'maladie de l'oedème chez le porcelet';1;0
+e;6442970;'régulation de l'expression des gènes chez les bactéries';1;0
+e;6441027;'développement embryonnaire préimplantatoire chez l'animal';1;0
+e;6440440;'trouble neurologique dû à des intoxications par le plomb chez l'adulte';1;0
+e;6440331;'incontinence chez l'enfant';1;0
+e;6439736;'phénomènes physiologiques nutritionnels chez l'enfant';1;0
+e;6439666;'insuffisance leydigienne chez l'adulte';1;0
+e;6436809;'tumeur à evolution imprévisible ou inconnue d'organes génitaux autres et non précisés chez l'homme';1;0
+e;6434939;'troubles neurologiques dû à une intoxication au plomb chez l'enfant';1;0
+e;6434394;'troubles neurologiques dû à l'intoxication par le plomb chez l'enfant';1;0
+e;6432539;'infection chez un receveur d'une greffe d'organe solide';1;0
+e;6432028;'trouble du comportement chez l'enfant';1;0
+e;6431970;'fermeture d'urétrostomie chez l'homme';1;0
+e;6428626;'soins dentaires chez les personnes âgées';1;0
+e;6422789;'état de la maturité sexuelle chez l'homme';1;0
+e;9983423;'excision de kyste du canal de müller chez l'homme';1;0
+e;10963571;'Spirou chez les Pygmées';777;0
+e;11356949;'La Flic chez les poulets';777;0
+e;6309317;'coagulation intravasculaire disséminée chez le foetus et le nouveau-né';1;0
+e;6344090;'coagulation intravasculaire disséminée chez le nouveau-né';1;0
+e;15370064;'au bas de chez elle';1;0
+e;15411339;'au-dessous de chez';1;0
+e;15323709;'au-dessus de chez';1;0
+e;15272846;'avoir qn chez soi';1;0
+e;15396624;'avoir rendez-vous chez le coiffeur';1;0
+e;15293473;'avoir ses entrées chez';1;0
+e;15400722;'avoir un rendez-vous chez le coiffeur';1;0
+e;15582439;'bien de chez';1;0
+e;15421541;'bien de chez nous';1;0
+e;15350948;'bienvenue chez';1;0
+e;15442638;'bienvenue chez moi !';1;0
+e;15352889;'blindé de chez blindé';1;0
+e;15445487;'bonjour chez vous !';1;0
+e;6323325;'carence en vitamine k chez le nouveau-né';1;0
+e;15229517;'catarrhe du pharynx et du larynx chez le fumeur';1;0
+e;15250021;'charbonnier est maître chez soi';1;0
+e;15357587;'chassé de chez moi';1;0
+e;1835121;'grossesse chez une patiente psychiatrique chronique';1;26
+e;5563885;'Sang bleu chez les Bleus';777;0
+e;6446771;'cardiectomie et pneumonectomie chez le donneur avec préparation et entretien de l'homogreffe';1;0
+e;6444584;'toxoplasmose chez l'animal';1;0
+e;6443168;'audiométrie anormale chez l'enfant';1;0
+e;6436599;'maladies parasitaires chez l'animal';1;0
+e;6432809;'paresthésie de l'organe génital chez l'homme';1;0
+e;6424438;'urétrorraphie chez la femme';1;0
+e;10035607;'Bienvenue chez les Ronks !';777;0
+e;10743458;'Du côté de chez Fran';777;0
+e;6389240;'autres affections respiratoires précisées chez le nouveau-né';1;0
+e;6398627;'autres troubles de la régulation de la température chez le nouveau-né';1;0
+e;6414395;'coma hyperosmolaire sans acido-cétose chez un diabétique';1;0
+e;6391870;'chez le nouveau-né';1;0
+e;15392588;'aphtes de Riga chez les sujets cachectiques';1;0
+e;6346097;'apnée du sommeil chez le nouveau-né';1;0
+e;6351424;'apnée primitive du sommeil chez le nouveau-né';1;0
+e;13784724;'asphyxie foetale constatée avant le début du travail, chez un nouveau-né vivant';1;0
+e;13769695;'asphyxie foetale constatée avant ou après le début du travail, chez un nouveau-né vivant';1;0
+e;13784725;'asphyxie intra-utérine constatée avant le début du travail, chez un nouveau-né vivant';1;0
+e;13769696;'asphyxie intra-utérine constatée avant ou après le début du travail, chez un nouveau-né vivant';1;0
+e;13794887;'association toxoplasmose, rubéole, cytomégalovirus et herpès chez un nouveau-né';1;0
+e;1831757;'dépression chez un traumatisé cranioencéphalique';1;0
+e;1836740;'infections respiratoires chez l'immuno­déprimé: diagnostic et causes';1;0
+e;1839377;'mutisme chez l'enfant';1;0
+e;5898410;'taille du pénis chez l'homme';777;0
+e;5918771;'Héritage mendélien chez l'Homme';777;0
+e;5961679;'Deux nigauds chez les tueurs';777;0
+e;5961107;'Dans une galaxie près de chez vous 2';777;0
+e;5960702;'L'introuvable rentre chez lui';777;0
+e;5960571;'Du grabuge chez les veuves';777;0
+e;5960183;'Chacun chez soi';777;0
+e;5953175;'Dans une galaxie près de chez vous';777;0
+e;5974850;'dystonie chez l'enfant';777;0
+e;6449833;'troubles neurologiques dû à l'intoxication par du plomb chez l'enfant';1;0
+e;6449529;'excision de diverticule de l'urètre chez la femme';1;0
+e;6448911;'régulation de l'expression des gènes chez les champignons';1;0
+e;6447875;'prophylaxie dentaire chez l'adulte';1;0
+e;6447326;'trouble de l'identité sexuelle chez un adolescent antérieurement hétérosexuel';1;0
+e;6447291;'facteur d'initiation chez les procaryotes 3';1;0
+e;6444967;'troubles neurologiques dû à l'intoxication par du plomb chez l'adulte';1;0
+e;6444954;'troubles neurologiques dû à l'intoxications par du plomb chez l'adulte';1;0
+e;6442326;'nodules vocaux chez l'adulte';1;0
+e;6436881;'comportement sexuel aberrant chez l'adolescent';1;0
+e;6432202;'ganglion lymphatique de l'intestin chez l'animal';1;0
+e;6431987;'psychose chez l'enfant';1;0
+e;10934812;'Direct chez vous !';777;0
+e;11347301;'Trois mille ans chez les microbes';777;0
+e;6371347;'auto-incompatibilité chez les angiospermes';1;0
+e;6330438;'asphyxie chez un nouveau-né vivant';1;0
+e;6391884;'coma et autres signes cérébraux anormaux chez le foetus ou le nouveau-né dépression cérébrale';1;0
+e;6392899;'auto-incompatibilité chez les plantes à fleurs';1;0
+e;11826754;'orientation chez les oiseaux';777;0
+e;12019461;'interprétation des rêves chez les Amérindiens';777;0
+e;6327693;'apnée primitive du sommeil chez les nouveau-nés';1;0
+e;15367975;'Nous avons logé chez des amis.';1;0
+e;15335222;'Nous sommes allés chez mes grands-parents à Pâques.';1;0
+e;15370077;'Peut-être qu'elle est chez elle.';1;0
+e;15283462;'Restez chez vous si vous êtes contagieux.';1;0
+e;16074301;'Résidence de l'enfant chez l'un des parents';1;0
+e;15373901;'Sa méticulosité devint prétexte à rire chez ses collègues.';1;0
+e;15388635;'Ses réflexions continuelles l'ont fait partir de chez lui.';1;0
+e;15370078;'Sharon s'est dépêchée de rentrer chez elle.';1;0
+e;15283778;'Tarzan chez les singes';1;0
+e;15317579;'Tout est toujours impeccable chez elle.';1;0
+e;15422693;'Va te faire voir chez les Grecs !';1;0
+e;15575568;'Vous emportez vos cahiers chez vous?';1;0
+e;15630228;'Vous êtes ici chez vous !';1;0
+e;6394447;'acidose foetale constatée avant le début du travail chez un nouveau-né vivant';1;0
+e;13748366;'acidose foetale constatée avant ou après le début du travail, chez un nouveau-né vivant';1;0
+e;13775257;'acidose foetale constatée pour la première fois pendant le travail ou l'accouchement, chez un nouveau-né vivant';1;0
+e;13748367;'acidose intra-utérine constatée avant ou après le début du travail, chez un nouveau-né vivant';1;0
+e;13775258;'acidose intra-utérine constatée pour la première fois pendant le travail ou l'accouchement, chez un nouveau-né vivant';1;0
+e;15370071;'allant chez elle';1;0
+e;15282846;'aller chez Claude';1;0
+e;15286086;'aller en journée chez les autres';1;0
+e;15370066;'allé chez elle';1;0
+e;15771460;'allé chez eux';1;0
+e;13756784;'anomalie du rythme cardiaque foetal constatée avant le début du travail, chez un nouveau-né vivant';1;0
+e;13760926;'anomalie du rythme cardiaque foetal constatée pour la première fois pendant le travail ou l'accouchement, chez un nouveau-né vivant';1;0
+e;13743585;'anomalie du rythme cardiaque foetal, constatée avant ou après le début du travail chez un nouveau-né vivant';1;0
+e;13753652;'anoxie ou hypoxie foetale constatée avant ou après le début du travail, chez un nouveau-né vivant';1;0
+e;13750960;'anoxie ou hypoxie foetale constatée pour la première fois pendant le travail ou l'accouchement, chez un nouveau-né vivant';1;0
+e;13753653;'anoxie ou hypoxie intra-utérine constatée avant ou après le début du travail, chez un nouveau-né vivant';1;0
+e;13750961;'anoxie ou hypoxie intra-utérine constatée pour la première fois pendant le travail ou l'accouchement, chez un nouveau-né vivant';1;0
+e;16103823;'Quelques livres aperçus chez Fleury et Bott';777;0
+e;16136028;'anorexie mentale chez des individus de sexe masculin';777;0
+e;16165326;'Réédité 13 fois chez Dunod';777;0
+e;16315699;'Un salon chez Gardefeu';777;0
+e;16391668;'Un marin rentre chez lui après 78 jours en mer';777;0
+e;1826536;'accident chez l'enfant';1;0
+e;1827668;'anorexie mentale chez l'enfant prépubère';1;0
+e;1828911;'manifestations psychiques chez les blessés';1;0
+e;1829689;'cataracte totale congénitale avec opacités des sutures postérieures chez les femmes vectrices';1;0
+e;1832620;'échelle objective d'évaluation de la douleur chez l'enfant';1;0
+e;1832517;'dyspraxie chez l'enfant et l'adolescent';1;0
+e;1834473;'fugue chez l'enfant et l'adolescent';1;0
+e;1836196;'hypoacousie chez l'enfant';1;0
+e;1836794;'inhalation d'un corps étranger chez l'enfant';1;0
+e;1837581;'laryngite chez l'enfant';1;0
+e;1838722;'mensonge chez l'enfant';1;0
+e;1839178;'morosité chez l'adolescent';1;0
+e;2388992;'habiller chez Francoeur le poivre et la cannelle';1;0
+e;5946920;'construction du nombre chez l'enfant';777;0
+e;5954462;'C'est arrivé près de chez vous';777;2
+e;5977023;'rentrer chez soi';1;16
+e;6451980;'trouble neurologique dû à une intoxication au plomb chez l'adulte';1;0
+e;6450615;'tumeur maligne du mamelon et de l'auréole chez la femme';1;0
+e;6450345;'plastie d'urétrocèle chez la femme';1;0
+e;6443852;'trouble neurologique dû à des intoxications au plomb chez l'adulte';1;0
+e;6443408;'mal d'altitude chez l'animal';1;0
+e;6441515;'phénomènes physiologiques nutritionnels chez l'adolescent';1;0
+e;6437773;'troubles de l'orgasme chez la femme';1;0
+e;6437264;'dilatation initiale de l'urètre chez la femme';1;0
+e;6436938;'torsion de l'hydatide de morgagni chez la femme';1;0
+e;6436634;'trouble neurologique de l'intoxication par le plomb chez l'adulte';1;0
+e;6435611;'trouble de la nutrition chez l'enfant';1;0
+e;6434879;'trouble neurologique dû à l'intoxications par du plomb chez l'enfant';1;0
+e;6433512;'dilatation de l'urètre chez la femme avec anesthésie';1;0
+e;6431707;'dysfonctionnement psychosexuel avec inhibition de l'orgasme chez la femme';1;0
+e;6430763;'techniques de triple hybride chez la levure';1;0
+e;6428906;'infection chez un patient toxicomane';1;0
+e;6427602;'soins dentaires chez les vieillards';1;0
+e;6423566;'confirmée par inoculation animale tuberculose d'autres organes génitaux chez la femme';1;0
+e;10251298;'Diablesses chez Ned.com';777;0
+e;10558747;'Maigret chez le ministre';777;0
+e;10838726;'vie quotidienne chez les Étrusques';777;0
+e;6336591;'autres troubles intéressants la peau chez le foetus et le nouveau-né';1;0
+e;6294548;'autres anomalies transitoires du métabolisme des glucides chez le foetus et le nouveau-né';1;0
+e;6296385;'anoxie ou hypoxie foetale constatée avant le début du travail chez un nouveau-né vivant';1;0
+e;6300623;'anoxie ou hypoxie intra-utérine constatée avant le début du travail chez un nouveau-né vivant';1;0
+e;6332815;'autres troubles transitoires de la coagulation chez le nouveau-né';1;0
+e;6366198;'autres fistules intestino-génitales chez la femme';1;0
+e;12049228;'Carrefour Livré chez vous';777;0
+e;6329627;'acidose intra-utérine constatée avant le début du travail chez un nouveau-né vivant';1;0
+e;6386993;'amnésie post-critique chez les épileptiques';1;0
+e;15166644;'SARS-CoV-2 chez les animaux non humains';1;0
+e;6323925;'alimentation au sein difficile chez le nouveau-né';1;0
+e;15751197;'Loin de chez nous';777;0
+e;1826869;'répercussions psychiques d'un handicap somatique majeur chez l'adolescent';1;0
+e;1832480;'dysorthographie chez l'enfant';1;0
+e;5688771;'La Paix chez soi';777;0
+e;5801831;'Du côté de chez Poje';777;0
+e;6450832;'trouble neurologique dû à une intoxication par du plomb chez l'enfant';1;0
+e;6446335;'trouble de l'identité sexuelle chez l'adulte';1;0
+e;6444960;'autres troubles précisés de la personnalité et du comportement chez l'adulte';1;0
+e;6443055;'facteurs d'initiation chez les eucaryotes 2';1;0
+e;6442989;'infection d'hydrocèle chez l'homme';1;0
+e;6442561;'trouble neurologique de l'intoxication par du plomb chez l'enfant';1;0
+e;6440701;'trouble de l'érection chez l'homme';1;0
+e;6439987;'prophylaxie dentaire chez l'enfant';1;0
+e;6439265;'facteur d'initiation chez les procaryotes 1';1;0
+e;6436513;'trouble neurologique dû à des intoxications par du plomb chez l'enfant';1;0
+e;6432346;'ostéochondrite du semi-lunaire chez l'adulte';1;0
+e;10327814;'Du rififi chez les femmes';777;0
+e;10929307;'chez sa mère';1;0
+e;11090043;'rivière chez Binet';777;0
+e;11409114;'écoulement mammaire infecté chez l'homme';1;0
+e;6324035;'anoxie chez un nouveau-né vivant';1;0
+e;14530009;'aller chez ses grands-parents';1;4
+e;5634537;'agressivité chez les animaux';777;0
+e;6449076;'changement de la voix chez l'adolescent';1;0
+e;6448414;'trouble neurologique dû à l'intoxication par du plomb chez l'enfant';1;0
+e;6447803;'comportement dyssocial chez l'adulte';1;0
+e;6446783;'abus de la voix chez l'enfant';1;0
+e;6444054;'hospitalisme chez l'enfant';1;0
+e;6443679;'troubles neurologiques de l'intoxication au plomb chez l'adulte';1;0
+e;6443273;'cardiectomie chez le donneur avec préparation et entretien de l'homogreffe';1;0
+e;6436891;'insuffisance des tubes séminifères chez l'adulte';1;0
+e;6436352;'troubles neurologiques de l'intoxication par le plomb chez l'adulte';1;0
+e;6435877;'dépression médullaire chez l'adulte';1;0
+e;6434206;'régulation de l'expression des gènes chez les virus';1;0
+e;11362992;'Le Repas chez Simon';777;0
+e;6304589;'adhérences pelvi-péritonéales chez la femme';1;0
+e;6449864;'troubles neurologiques de l'intoxication au plomb chez l'enfant';1;0
+e;6448101;'troubles neurologiques du saturnisme chez l'enfant';1;0
+e;6444738;'facteurs d'initiation chez les procaryotes 1';1;0
+e;6444326;'globuline fixatrice d'hormone sexuelle chez l'homme diminuée';1;0
+e;6442901;'audiométrie chez l'enfant';1;0
+e;6442049;'audiométrie chez l'enfant anormale';1;0
+e;6441207;'agressivité chez l'enfant';1;0
+e;6439704;'asphyxie obstétricale non précisée chez l'enfant né vivant';1;0
+e;6438083;'expérimentation chez l'animal';1;0
+e;6437115;'facteurs d'initiation chez les procaryotes 2';1;0
+e;6436983;'trouble de l'identité sexuelle chez un adulte antérieurement asexué';1;0
+e;6435672;'infections à protozoaires chez l'animal';1;0
+e;6432819;'phénomènes physiologiques de la nutrition chez l'enfant';1;0
+e;6427385;'tolérance altérée au glucose dans le diabète sucré de la maturité chez un sujet jeune';1;0
+e;10056318;'Bienvenue chez les Loud';777;0
+e;10057867;'Deux nigauds chez Vénus';777;0
+e;10195489;'Un écureuil chez moi';777;0
+e;10298047;'trouble de l'identité de genre chez les enfants';777;0
+e;10298046;'dysphorie de genre chez les enfants';777;0
+e;10753178;'Patof chez les dinosaures';777;0
+e;10753157;'Patof chez les cowboys';777;0
+e;10753156;'Patof chez les petits hommes verts';777;0
+e;10753154;'Patof chez les coupeurs de têtes';777;0
+e;10753153;'Patof chez les esquimaux';777;0
+e;11237003;'Astérix chez les Pictes';777;0
+e;11236998;'Astérix chez Rahàzade';777;0
+e;11393747;'Différence de la philosophie de la nature chez Démocrite et Épicure';777;0
+e;11595172;'maladie des membranes hyalines chez le prématuré';1;0
+e;11839527;'vivre chez papa maman';1;0
+e;15381240;'chez moi ou chez toi';1;0
+e;15381242;'chez moi ou chez vous';1;0
+e;15381238;'chez toi ou chez moi';1;0
+e;15381243;'chez vous ou chez moi';1;0
+e;5899131;'différences de genre chez l'humain';777;0
+e;6450505;'trouble d'alimentation chez l'enfant';1;0
+e;6450224;'incontinence urinaire d'effort chez la femme';1;0
+e;6447889;'hépatectomie chez le donneur avec préparation et conservation de l'homogreffe';1;0
+e;6445393;'facteur d'initiation chez les eucaryotes 1';1;0
+e;6444255;'facteurs d'initiation chez les eucaryotes 6';1;0
+e;6443510;'audiométrie chez l'enfant normale';1;0
+e;6443274;'promiscuité sexuelle chez l'adolescente';1;0
+e;6439579;'syndrome de carence en surfactants chez l'adulte';1;0
+e;6439183;'autres troubles de la personnalité et du comportement chez l'adulte';1;0
+e;6438927;'trouble de l'identité sexuelle chez un adolescent antérieurement homosexuel';1;0
+e;6435020;'troubles neurologiques dû à des intoxications au plomb chez l'enfant';1;0
+e;6422309;'infection chez une personne âgée';1;0
+e;10525160;'Un cosmonaute chez le roi Arthur';777;0
+e;10590394;'Un pique-nique chez Osiris';777;0
+e;11577009;'troubles graves du comportement chez les enfants';1;0
+e;11957169;'Héritage mendélien chez l'humain';777;0
+e;2474792;'habiller chez Francoeur le sucre et la cannelle';1;0
+e;5989896;'Mon curé chez les nudistes';777;0
+e;6452017;'inhibition de l'orgasme chez la femme';1;0
+e;6446150;'syndrome de détresse respiratoire chez l'adulte';1;0
+e;6445417;'trouble neurologique dû à des intoxications par le plomb chez l'enfant';1;0
+e;6444247;'comportement agressif chez l'enfant';1;0
+e;6443809;'trouble neurologique dû à une intoxication par le plomb chez l'adulte';1;0
+e;6440907;'trouble neurologique de l'intoxication par le plomb chez l'enfant';1;0
+e;6426543;'mesure du drainage thoracique chez un nouveau-né';1;0
+e;10190296;'Fais comme chez toi !';777;0
+e;10190125;'La Noce chez les petits bourgeois';777;0
+e;10517744;'Nuit de noce chez les fantômes';777;0
+e;10596271;'Vingt-quatre heures chez les Martiens';777;0
+e;10754420;'L'Espion qui venait de chez moi';777;0
+e;11577052;'troubles du comportement chez les enfants';1;0
+e;5539070;'Évaluation chez la Femme Enceinte des MÉdicaments et de leurs RISques';777;0
+e;6449774;'troubles neurologiques dû à l'intoxication au plomb chez l'adulte';1;0
+e;6449641;'immunisation chez l'enfant';1;0
+e;6447420;'trouble des conduites chez l'enfant';1;0
+e;6446880;'trouble de l'identité sexuelle chez un adulte antérieurement hétérosexuel';1;0
+e;6433625;'troubles neurologiques dû à des intoxications par du plomb chez l'enfant';1;0
+e;10133102;'Je retourne chez maman';777;0
+e;13270267;'tumeur intrarachidienne chez l'enfant';1;0
+e;2433444;'chacun chez soi et les moutons seront bien gardés';1;0
+e;6448347;'troubles neurologiques de l'intoxication par du plomb chez l'enfant';1;0
+e;6447927;'chez l'enfant né vivant souffrance foetale observée initialement pendant le travail';1;0
+e;6447804;'mort subite inattendue chez l'adulte';1;0
+e;6444944;'facteurs d'initiation chez les eucaryotes 1';1;0
+e;6444597;'troubles de l'orgasme chez l'homme';1;0
+e;6442805;'troubles neurologiques dû à l'intoxication par le plomb chez l'adulte';1;0
+e;6435084;'trouble de l'orgasme chez la femme';1;0
+e;10089989;'Mon curé chez les Thaïlandaises';777;0
+e;10180363;'Je voulais juste rentrer chez moi';777;0
+e;10185848;'Coup dur chez les mous';777;0
+e;10186682;'chez l'habitant';1;2
+e;10186683;'aller chez Jules';1;4
+e;10458643;'Je suis chez moi';777;0
+e;10462800;'César chez les Gaulois';777;0
+e;11103472;'être convoqué chez le directeur';1;0
+e;11103469;'être convoqué chez le dirlo';1;0
+e;11325400;'organes génitaux chez l'homme';1;0
+e;11374405;'parenté chez les Aborigènes d'Australie';777;0
+e;13269918;'maladie du motoneurone chez l'adulte';1;0
+e;5944283;'Bienvenue chez Joe';777;0
+e;5977190;'audition des Beatles chez Decca';777;0
+e;6446086;'physiologie de la nutrition chez l'animal';1;0
+e;6445584;'trouble neurologique dû à une intoxication par le plomb chez l'enfant';1;0
+e;6443627;'dépression chez l'enfant';1;0
+e;6442204;'syndrome toxique chez l'animal';1;0
+e;6439979;'tumeur à evolution imprévisible ou inconnue d'organes génitaux autres et non précisés chez la femme';1;0
+e;6438432;'phénomènes physiologiques nutritionnels chez l'animal';1;0
+e;10094377;'Faites comme chez vous !';777;0
+e;10176478;'Le Fils de l'oncle Sam chez nos aïeux';777;0
+e;10185078;'Marie chez les loups';777;0
+e;10184830;'Mon curé chez les pauvres';777;0
+e;10184819;'Le Chasseur de chez Maxim's';777;0
+e;10181586;'Mon curé chez les riches';777;0
+e;10462239;'esclavage chez les Amérindiens aux États-Unis';777;0
+e;11222297;'viens chez moi, je te montrerai mes estampes japonaises';1;50
+e;11325403;'intoxication par du plomb chez l'enfant';1;0
+e;11325422;'intoxications par le plomb chez l'enfant';1;0
+e;13269917;'maladies du motoneurone chez l'adulte';1;0
+e;13270223;'tumeurs intrarachidiennes chez l'enfant';1;0
+e;5883674;'chez les bryozoaires';777;0
+e;6449998;'kyste de l'urètre chez la femme';1;0
+e;6449787;'physiologie de la nutrition chez l'adolescent';1;0
+e;6449780;'accès de colère chez l'enfant';1;0
+e;6448898;'dysfonctionnement psychosexuel avec inhibition de l'orgasme chez l'homme';1;0
+e;6448640;'phénomènes physiologiques de la nutrition chez l'animal';1;0
+e;6446757;'inhibition de l'orgasme chez l'homme';1;0
+e;6434713;'peau érogène chez l'animal';1;0
+e;6430322;'gonadopathie sai chez l'homme';1;0
+e;10160868;'Ce soir je dors chez toi';777;0
+e;13294123;'chez l'adulte';1;0
+e;13294122;'chez l'enfant';1;0
+e;2476478;'on est pas chez mémé';1;0
+e;5553080;'alchimie chez Mircea Eliade';777;0
+e;6450409;'maladie bulleuse chronique chez l'enfant';1;0
+e;6449908;'grossesse chez une femme d'âge maternel jeune';1;0
+e;6448086;'troubles neurologiques de l'intoxication par du plomb chez l'adulte';1;0
+e;6448041;'troubles neurologiques dû à l'intoxications par du plomb chez l'enfant';1;0
+e;6446028;'trouble de l'identité sexuelle chez l'adulte attiré sexuellement par les femmes';1;0
+e;6445275;'troubles neurologiques du saturnisme chez l'adulte';1;0
+e;6442604;'troubles de la nutrition chez l'enfant';1;0
+e;6437477;'gravité d'asphyxie à la naissance non précisée chez un enfant né vivant';1;0
+e;6434617;'troubles neurologiques dû à des intoxications au plomb chez l'adulte';1;0
+e;6562786;'urètre chez l'homme';1;0
+e;10143081;'Surprise partie chez Tom et Jerry';777;0
+e;6445951;'goitre dû à un excès d'iode chez les poulains';1;0
+e;6445943;'trouble neurologique dû à des intoxications par du plomb chez l'adulte';1;0
+e;6449482;'trouble neurologique dû à l'intoxication par le plomb chez l'adulte';1;0
+e;6448135;'facteur d'initiation chez les eucaryotes 4';1;0
+e;5945455;'cheval chez les peuples celtes';777;0
+e;5939783;'défaut d'adhérence des leucocytes chez les bovins';777;0
+e;10298305;'Rendez-vous chez Max's';777;0
+e;6450127;'phénomènes physiologiques de la nutrition chez l'adolescent';1;0
+e;6448897;'trouble de l'identité sexuelle chez l'adulte attiré sexuellement par les deux sexes';1;0
+e;6432952;'développement embryonnaire pré-implantatoire chez l'animal';1;0
+e;2482229;'chez les Bisounours';1;0
+e;5943492;'Langelot chez les Pa-pous';777;0
+e;6448078;'trouble de l'orgasme chez l'homme';1;0
+e;15494589;'Ces huiles peuvent provoquer des irritations chez les personnes à la peau sensible.';1;0
+e;8718665;'chez les voisins';1;0
+e;8758367;'avoir peur de sortir de chez soi';1;0
+e;8853526;'ne pas sortir de chez soi';1;0
+e;8879852;'rapport sexuel douloureux chez l'homme';1;0
+e;8879854;'rapport sexuel douloureux chez la femme';1;0
+e;8914942;'développement chez l'humain';1;0
+e;9247853;'gonadopathie chez l'homme';1;0
+e;9247854;'gonadopathie chez la femme';1;0
+e;9248011;'tumeur mammaire chez l'homme';1;0
+e;9453499;'races chez le cheval';777;0
+e;9614956;'chez papa maman';1;0
+e;10160602;'Week-end chez les Toquées';777;0
+e;10189722;'Week-end chez Bernie';777;0
+e;10790302;'Guet-apens chez les Sioux';777;0
+e;12246612;'Un enfant chez les Schtroumpfs';777;0
+e;12247397;'Retour chez ma mère';777;0
+e;12626366;'différences de genre et de sexe chez l'humain';777;0
+e;12661993;'vieillissement chez le chien';777;0
+e;12682507;'chacun chez soi';1;12
+e;13789306;'82 symptômes et fonctions de reproduction chez l'homme';1;0
+e;15662213;'Faites comme chez vous';1;0
+e;15388943;'Je l'ai revu chez lui.';1;0
+e;15370080;'Elle est partie de chez elle l'an dernier.';1;0
+e;15228920;'Elle a invité des copines à dormir chez elle.';1;0
+e;15272152;'Elle se chausse chez X.';1;0
+e;15370058;'Je l'ai raccompagnée jusque chez elle.';1;0
+e;15338701;'Il parle flamand chez lui.';1;0
+e;15372421;'Il est rentré directement chez lui.';1;0
+e;15528792;'Il est rentré chez lui vers cinq heures.';1;0
+e;15625769;'J'ai pris rendez-vous chez le médecin.';1;0
+e;15318093;'J'ai oublié mon sac chez Sabine.';1;0
+e;15625771;'J'ai attendu une éternité chez le médecin.';1;0
+e;15379165;'J'ai passé trois jours chez mes cousins.';1;0
+e;15774917;'Elle est rentrée chez elle en larmes, s'apprêtant à affronter ses parents.';1;0
+e;15317885;'J'ai attendu longtemps chez le dentiste.';1;0
+e;15322082;'Il y a eu un braquage de banque près de chez moi.';1;0
+e;15312324;'Il a été transféré chez les parachutistes.';1;0
+e;15630197;'Fais comme chez toi';1;0
+e;15391310;'Il m'a suivie jusque chez moi.';1;0
+e;15627980;'Il est chez les grands maintenant.';1;0
+e;15273393;'Il travaille chez Renault.';1;0
+e;15395511;'Il vit chez ses parents.';1;0
+e;15349804;'Il est représentant chez Harper Collins.';1;0
+e;15378430;'J'ai rendez-vous chez le dentiste.';1;0
+e;15370075;'Elle est peut-être chez elle.';1;0
+e;15166194;'Consultation chez un ORL';1;0
+e;15391217;'Bali est devenu un incontournable chez les voyageurs.';1;0
+e;15350950;'Bienvenue chez nous';1;0
+e;15354987;'C'est un message qui trouve un écho chez les électeurs.';1;0
+e;15382730;'Caroline a fait un stage chez Collins.';1;0
+e;15335218;'Dimanche, nous allons déjeuner chez mes grands-parents.';1;0
+e;15513661;'Je te conduirai chez le docteur.';1;0
+e;15317883;'Je vais chez le dentiste.';1;0
+e;15324678;'Je vais porter ce manteau chez le teinturier.';1;0
+e;15583959;'Je vais rentrer d'abord chez moi.';1;0
+e;15775772;'Ce sont les soldes chez Harrods.';1;0
+e;16281373;'4/ Tapage chez les mal-logés';777;0
+e;464093;'accident vasculaire cérébral chez l'enfant';1;50
+e;3705998;'emmener son enfant chez le médecin';1;0
+e;5386727;'ne pas pouvoir rentrer chez soi';1;2
+e;5944629;'guerre chez les Celtes';777;0
+e;464231;'hypoglycémie chez l'adulte';1;50
+e;1664823;'aller se faire voir chez les Grecs';1;0
+e;1664809;'aller chez le bonhomme';1;0
+e;2167351;'de chez';1;0
+e;2681873;'chez quelqu'un';1;0
+e;3185675;'chez ma tante';1;0
+e;3368708;'salade composée de "chez sib"';1;0
+e;3752902;'pâte à pain achetée chez le boulanger';1;0
+e;735736;'chez moi';1;56
+e;465099;'ciné chez soi';777;50
+e;2358551;'envoyer chez le bonhomme';1;0
+e;6450357;'chez l'enfant né vivant souffrance foetale avant le début du travail';1;0
+e;568666;'retourner chez soi';1;50
+e;1842150;'prépsychose chez l'enfant';1;0
+e;3158531;'comportement homosexuel chez les animaux';777;0
+e;6449505;'trouble de l'identité sexuelle chez l'adulte attiré sexuellement par les hommes';1;0
+e;464447;'mal de dos chez l'enfant';1;50
+e;463301;'hémorragie surrénalienne chez le nouveau-né';1;50
+e;586697;'distinguent chez';777;0
+e;1966023;'avoir ses petites et ses grandes entrées chez quelqu'un';1;0
+e;2530599;'va chez le diable';1;0
+e;3415893;'hormone de croissance chez l'homme';777;0
+e;463466;'pneumonie chez les immunodéprimés';1;50
+e;1659555;'chez les champignons';777;0
+e;3365397;'colombo au cabri des îles comme chez mami, guadeloupe';1;0
+e;1659556;'chez les';777;0
+e;464232;'hypoglycémie chez l'enfant';1;50
+e;2544862;'jour chez soi';1;0
+e;5331248;'chez ces gens là';1;0
+e;1846556;'traumatisme psychique chez les enfants';1;0
+e;1846549;'troubles psychiques immédiats chez un traumatisé cranioencéphalique';1;0
+e;1843393;'reflux gastro-sophagien chez l'enfant';1;0
+e;1841964;'anesthésie chez un patient atteint de porphyrie';1;0
+e;3367047;'poireautée poétique de chez oun';1;0
+e;3713297;'devoir aller chez le dentiste';1;0
+e;6450159;'tumeur maligne du mamelon et de l'auréole chez l'homme';1;0
+e;464148;'AVC chez l'adulte jeune';1;50
+e;1822410;'démence chez un traumatisé cranioencéphalique';1;0
+e;1833884;'chez l'homme feuillet ischio-bulbaire de Jarjavay';1;0
+e;3295622;'Petit déjeuner chez Tiffany';777;0
+e;4323103;'couleur de la peau chez l'être humain';777;0
+e;5095758;'Chanter pour ceux qui sont loin de chez eux';1;0
+e;1801566;'troubles psychiques chez un boxeur';1;0
+e;1846797;'troubles caractériels chez un traumatisé cranioencéphalique';1;0
+e;1850827;'infections chez les toxicomanes';1;0
+e;1841607;'plaie du cuir chevelu chez l'enfant';1;0
+e;1842581;'psychotropes chez l'enfant';1;0
+e;2931407;'vivre chez ses parents';1;6
+e;3174209;'stress chez l'humain';777;0
+e;375236;'raisonnement chez l'animal';1;50
+e;343641;'chez les curés';1;50
+e;343640;'chez le teinturier';1;50
+e;374358;'puberté chez le garçon';1;50
+e;385706;'une manie chez';1;50
+e;343634;'chez le boulanger';1;50
+e;385682;'une coutume chez';1;50
+e;343639;'chez le pâtissier';1;50
+e;343636;'chez le dentiste';1;74
+e;343632;'chez l'épicier';1;50
+e;372750;'première cause de mortalité chez les femmes';1;50
+e;369920;'petit chez soi';1;50
+e;343643;'chez les non fumeurs';1;50
+e;343642;'chez les frères';1;50
+e;343638;'chez le médecin';1;58
+e;350509;'en discrédit chez';1;50
+e;343633;'chez le boucher';1;50
+e;385703;'une habitude chez';1;50
+e;343637;'chez le fleuriste';1;50
+e;343635;'chez le crêmier';1;50
+e;391069;'chez des amis';1;52
+e;24116;'chez-moi';1;50
+e;8300;'chez-soi';1;68
+e;147008;'chez-toi';1;50
+e;320724;'épilepsie chez l'enfant';1;50
+e;320986;'se terrer chez soi';1;52
+e;314038;'doute chez Descartes';777;50
+e;218161;'Ce que j'aime chez toi';1;50
+e;230293;'à la mode de chez nous';1;54
+e;100552;'Les Symboles chez Verhaeren';1;50
+e;107422;'Ma nuit chez Maud';1;54
+e;223550;'Bienvenue chez les ch'tis';1;50
+e;223552;'Bienvenue chez les Ch'tis';666;52
+e;237254;'Fantasia chez les ploucs';1;52
+e;254121;'travailler chez soi';1;50
+e;255148;'rester chez soi';1;354
+e;255752;'chez le barbier';1;50
+e;256253;'retourner chez sa mère';1;54
+e;258600;'aller chez le kiné';1;62
+e;259571;'aller chez le médecin';1;20
+e;260014;'vivre chacun chez soi';1;56
+e;261652;'loger chez l'habitant';1;52
+e;261653;'chambre chez l'habitant';1;68
+e;261987;'faire comme chez soi';1;52
+e;31663;'Le Repas chez Lévi';1;50
+e;58833;'Astérix chez les Belges';1;52
+e;60852;'Du côté de chez Swann';1;66
+e;108780;'OEdipe chez Admète';1;50
+e;112903;'Petit Déjeuner chez Tiffany';1;50
+e;121661;'Dame de chez Maxim';1;50
+e;145374;'La Discorde chez l'ennemi';1;50
+e;155792;'aller se faire voir chez les grecs';1;84
+e;160350;'aller chez le docteur';1;58
+e;161520;'chez le coiffeur';1;54
+e;162344;'chez lui';1;62
+e;162379;'aller chez le coiffeur';1;164
+e;162904;'chez un ami';1;52
+e;171419;'de plus en plus fort comme chez Nicolet';1;50
+e;297238;'Un dîner chez la';777;50
+e;31596;'Huit Jours chez Monsieur Renan';1;50
+e;35135;'Sorcellerie, Oracles et Magie chez les Azandé';1;50
+e;41857;'Parenté et Mariage chez les Nuers';1;50
+e;56022;'Printemps chez les ombres';1;50
+e;136918;'L'Organisation sociale chez les Dogons';1;50
+e;137799;'Le Développement mental chez l'enfant et dans la race';1;50
+e;143961;'Bal chez Temporel, l'Eau vive, Chandernagor';1;50
+e;146775;'chez soi';1;196
+e;155287;'aller chez le dentiste';1;118
+e;180100;'Astérix chez les Bretons';1;50
+e;180108;'Astérix chez les Helvètes';1;50
+e;268834;'louer chez l'habitant';1;50
+e;268863;'logement chez l'habitant';1;50
+e;271461;'location chez l'habitant';1;50
+e;281166;'Stress chez l'humain';777;50
+e;282768;'Exemple de polyéthisme d'âge chez';777;50
+e;282769;'Exemple de polyéthisme de castes chez les';777;50
+e;29047;'Sorcellerie, Oracles et Magie chez les Azandés';1;50
+e;138091;'audition chez l'homme';1;50
+e;185014;'nul de chez nul';1;50
+e;194994;'chez elle';1;76
+e;196686;'avoir ses petites et ses grandes entrées chez qqn';1;50
+e;311050;'cinéma chez soi';777;50
+e;312831;'chez sa nounou';1;60
+e;10043;'Problème esthétique chez';1;50
+e;311354;'Viens chez moi, j'habite chez une copine';666;50
+r;397133372;115973;15513530;11;25
+r;397133306;115973;15513528;11;25
+r;397131709;115973;6293678;11;25
+r;297986622;115973;6285363;11;25
+r;298245333;115973;6287486;11;25
+r;298293735;115973;6288156;11;25
+r;298425597;115973;6289993;11;25
+r;298881944;115973;6295664;11;25
+r;298888426;115973;6296261;11;25
+r;299026082;115973;6297604;11;25
+r;299270779;115973;6302178;11;25
+r;299519730;115973;6306443;11;25
+r;299563540;115973;6307531;11;25
+r;299565066;115973;6307161;11;25
+r;299571511;115973;6308750;11;25
+r;299581277;115973;6310416;11;25
+r;299588004;115973;6311424;11;25
+r;299590622;115973;6311953;11;25
+r;299795907;115973;6318105;11;25
+r;300080918;115973;6320821;11;25
+r;300112267;115973;6321349;11;25
+r;300118294;115973;6321916;11;25
+r;300132456;115973;6323008;11;25
+r;300132503;115973;6322900;11;25
+r;300138466;115973;6323774;11;25
+r;300182364;115973;6324786;11;25
+r;300191548;115973;6325078;11;25
+r;300199254;115973;6326586;11;25
+r;300962174;115973;6331044;11;25
+r;300969452;115973;6331985;11;25
+r;300973442;115973;6332293;11;25
+r;301438297;115973;6337625;11;25
+r;301453871;115973;6339308;11;25
+r;301457902;115973;6339128;11;25
+r;301481503;115973;6341077;11;25
+r;301482431;115973;6341449;11;25
+r;301505278;115973;6343713;11;25
+r;301556686;115973;6345625;11;25
+r;301727029;115973;6349507;11;25
+r;301728735;115973;6349636;11;25
+r;301755124;115973;6354117;11;25
+r;302029918;115973;6357836;11;25
+r;302134345;115973;6361891;11;25
+r;302134916;115973;6362208;11;25
+r;302183964;115973;6364375;11;25
+r;302189310;115973;6365686;11;25
+r;303024455;115973;6372979;11;25
+r;303619169;115973;6375306;11;25
+r;303641960;115973;6378933;11;25
+r;303847584;115973;6380740;11;25
+r;303984143;115973;6383419;11;25
+r;304573663;115973;6389563;11;25
+r;304857696;115973;6392395;11;25
+r;304995972;115973;6394719;11;25
+r;304998458;115973;6395275;11;25
+r;305018440;115973;6396462;11;25
+r;305049545;115973;6397250;11;25
+r;305055917;115973;6397668;11;25
+r;305135849;115973;6399871;11;25
+r;305138487;115973;6400202;11;25
+r;305202586;115973;6401325;11;25
+r;305289061;115973;6403502;11;25
+r;305290359;115973;6403478;11;25
+r;305297811;115973;6404411;11;25
+r;305331332;115973;6408410;11;25
+r;305464869;115973;6410005;11;25
+r;305502488;115973;6413618;11;25
+r;305615772;115973;6414191;11;25
+r;305670546;115973;6415828;11;25
+r;305702145;115973;6419881;11;25
+r;313059677;115973;6394317;11;25
+r;313062096;115973;6340482;11;25
+r;316645737;115973;12175315;11;25
+r;316717939;115973;12152294;11;25
+r;316717952;115973;12152292;11;25
+r;316751160;115973;12142137;11;25
+r;316751182;115973;12142135;11;25
+r;319051257;115973;6323196;11;25
+r;319078681;115973;6391793;11;25
+r;319081275;115973;6343359;11;25
+r;319099141;115973;6308478;11;25
+r;319110259;115973;6328057;11;25
+r;340942411;115973;6291647;11;25
+r;341195036;115973;6393371;11;25
+r;341262769;115973;6417326;11;25
+r;343162011;115973;13542124;11;25
+r;348173534;115973;13730160;11;25
+r;349146717;115973;6290034;11;25
+r;349153431;115973;6415567;11;25
+r;349167156;115973;6355901;11;25
+r;349169095;115973;6421639;11;25
+r;349247517;115973;6407316;11;25
+r;349247894;115973;6389600;11;25
+r;349263070;115973;6339548;11;25
+r;349280014;115973;6399340;11;25
+r;349281162;115973;6391731;11;25
+r;349358972;115973;6315683;11;25
+r;349363990;115973;6392971;11;25
+r;350321465;115973;13865261;11;25
+r;350492761;115973;13866356;11;25
+r;353142954;115973;14005776;11;25
+r;356335745;115973;6335814;11;25
+r;356711832;115973;6405162;11;25
+r;358727811;115973;6307344;11;25
+r;359718260;115973;14159549;11;25
+r;359718570;115973;14159555;11;25
+r;359719506;115973;14159999;11;25
+r;366866426;115973;14452743;11;25
+r;372426653;115973;14653092;11;25
+r;373022212;115973;14670366;11;25
+r;373022224;115973;14670365;11;25
+r;373022237;115973;14670364;11;25
+r;373022273;115973;14670367;11;25
+r;374426430;115973;14727840;11;25
+r;375063592;115973;14754166;11;25
+r;375287285;115973;14764307;11;25
+r;375392537;115973;14769714;11;25
+r;400608254;115973;6381243;11;25
+r;400745950;115973;6387145;11;25
+r;400888335;115973;6406029;11;25
+r;400987283;115973;6409656;11;25
+r;400816690;115973;6395918;11;25
+r;384998489;115973;14871273;11;25
+r;400823687;115973;6397829;11;25
+r;394666799;115973;15341499;11;25
+r;395413024;115973;15434972;11;25
+r;395475952;115973;15457359;11;25
+r;396617478;115973;6288442;11;25
+r;396624670;115973;6287462;11;25
+r;397824276;115973;6304620;11;25
+r;397848850;115973;6305685;11;25
+r;398382342;115973;6311220;11;25
+r;398430775;115973;6315451;11;25
+r;399010604;115973;6320877;11;25
+r;399115784;115973;6322547;11;25
+r;399119343;115973;6323501;11;25
+r;399487211;115973;6325714;11;25
+r;399491832;115973;6325768;11;25
+r;399664461;115973;6337194;11;25
+r;400053242;115973;6354397;11;25
+r;400477113;115973;6370421;11;25
+r;400573885;115973;6373813;11;25
+r;400614340;115973;6382131;11;25
+r;400617504;115973;6381039;11;25
+r;401545025;115973;6413753;11;25
+r;428748581;115973;16316088;11;25
+r;431569239;115973;16329199;11;25
+r;86138431;115973;3371248;11;26
+r;114457984;115973;5788802;11;26
+r;122681047;115973;6431854;11;26
+r;298131954;115973;6286367;11;26
+r;298204161;115973;6287317;11;26
+r;298252242;115973;6287670;11;26
+r;298437995;115973;6291156;11;26
+r;298952050;115973;6296879;11;26
+r;299313276;115973;6302452;11;26
+r;299569934;115973;6308328;11;26
+r;299637203;115973;6313506;11;26
+r;299652182;115973;6315410;11;26
+r;299664880;115973;6316000;11;26
+r;299782935;115973;6317093;11;26
+r;299791018;115973;6316914;11;26
+r;300155150;115973;6323638;11;26
+r;300176176;115973;6324172;11;26
+r;300203891;115973;6326658;11;26
+r;300211446;115973;6327664;11;26
+r;300266340;115973;6330321;11;26
+r;301440802;115973;6337257;11;26
+r;301565246;115973;6346707;11;26
+r;301576639;115973;6346856;11;26
+r;301721822;115973;6348648;11;26
+r;301804593;115973;6355875;11;26
+r;302180871;115973;6364125;11;26
+r;302191649;115973;6366500;11;26
+r;302439081;115973;6367157;11;26
+r;302972497;115973;6369406;11;26
+r;303004948;115973;6372760;11;26
+r;303465902;115973;6374418;11;26
+r;303627333;115973;6376314;11;26
+r;303991483;115973;6384271;11;26
+r;304585417;115973;6389838;11;26
+r;305134434;115973;6399899;11;26
+r;305223243;115973;6402072;11;26
+r;305306060;115973;6405584;11;26
+r;305480248;115973;6411923;11;26
+r;305686482;115973;6417259;11;26
+r;305686866;115973;6417426;11;26
+r;316325712;115973;12197714;11;26
+r;340925103;115973;6284268;11;26
+r;340925267;115973;6284185;11;26
+r;341244306;115973;6411720;11;26
+r;349174453;115973;6402474;11;26
+r;349188828;115973;6286756;11;26
+r;360760926;115973;14205779;11;26
+r;361302867;115973;14232461;11;26
+r;369908177;115973;14558098;11;26
+r;370048903;115973;14563676;11;26
+r;370283153;115973;14571033;11;26
+r;370559562;115973;14584068;11;26
+r;374309106;115973;14722219;11;26
+r;374542197;115973;14731055;11;26
+r;400877834;115973;6402954;11;26
+r;400568683;115973;6374256;11;26
+r;419490601;115973;14972188;11;26
+r;121516005;115973;6441339;11;27
+r;121528524;115973;6439939;11;27
+r;122679367;115973;6432050;11;27
+r;122688145;115973;6430995;11;27
+r;122753447;115973;6422562;11;27
+r;270780701;115973;10673174;11;27
+r;270776173;115973;10674287;11;27
+r;270781800;115973;10672811;11;27
+r;270769919;115973;10676384;11;27
+r;267324775;115973;10665536;11;27
+r;300199483;115973;6326663;11;27
+r;300205305;115973;6326914;11;27
+r;300206319;115973;6327258;11;27
+r;301470350;115973;6340839;11;27
+r;301483718;115973;6341235;11;27
+r;301488747;115973;6342036;11;27
+r;301550998;115973;6345066;11;27
+r;301810066;115973;6356847;11;27
+r;302968042;115973;6368281;11;27
+r;303002968;115973;6372490;11;27
+r;303108034;115973;6373013;11;27
+r;303932841;115973;6382141;11;27
+r;303980763;115973;6382965;11;27
+r;304604022;115973;6391253;11;27
+r;304993754;115973;6394418;11;27
+r;305060555;115973;6398123;11;27
+r;305304134;115973;6405220;11;27
+r;305305188;115973;6405447;11;27
+r;305462525;115973;6409409;11;27
+r;305689748;115973;6417664;11;27
+r;305710092;115973;6421158;11;27
+r;315605510;115973;12096320;11;27
+r;315605532;115973;12096319;11;27
+r;315619458;115973;12094471;11;27
+r;315619480;115973;12094470;11;27
+r;392171591;115973;15016187;11;27
+r;113788167;115973;5799738;11;28
+r;119673341;115973;6083296;11;28
+r;121496494;115973;6443512;11;28
+r;121506256;115973;6442431;11;28
+r;121513133;115973;6441667;11;28
+r;121520584;115973;6440824;11;28
+r;121549830;115973;6437565;11;28
+r;121567272;115973;6435612;11;28
+r;121578927;115973;6434309;11;28
+r;122664227;115973;6433734;11;28
+r;122667446;115973;6433373;11;28
+r;122670468;115973;6433039;11;28
+r;122674825;115973;6432547;11;28
+r;122678844;115973;6432110;11;28
+r;122681550;115973;6431797;11;28
+r;266725493;115973;10617915;11;28
+r;299131111;115973;6300417;11;28
+r;315555055;115973;12102408;11;28
+r;121493183;115973;6443883;11;29
+r;121514662;115973;6441492;11;29
+r;121529422;115973;6439843;11;29
+r;121532222;115973;6439535;11;29
+r;121539179;115973;6438751;11;29
+r;121553103;115973;6437208;11;29
+r;121557260;115973;6436740;11;29
+r;121561556;115973;6436254;11;29
+r;121577342;115973;6434481;11;29
+r;122666398;115973;6433493;11;29
+r;122666514;115973;6433479;11;29
+r;122676604;115973;6432358;11;29
+r;122682228;115973;6431722;11;29
+r;122740503;115973;6424221;11;29
+r;264467373;115973;10589663;11;29
+r;264469095;115973;10589126;11;29
+r;434384811;115973;16316677;11;29
+r;110579764;115973;5573835;11;30
+r;110579228;115973;5573822;11;30
+r;121510426;115973;6441962;11;30
+r;121510801;115973;6441922;11;30
+r;121514598;115973;6441500;11;30
+r;121515875;115973;6441355;11;30
+r;121516303;115973;6441309;11;30
+r;121516939;115973;6441233;11;30
+r;121526332;115973;6440190;11;30
+r;121530006;115973;6439780;11;30
+r;121549904;115973;6437555;11;30
+r;121550426;115973;6437500;11;30
+r;121552020;115973;6437320;11;30
+r;121552362;115973;6437285;11;30
+r;121554693;115973;6437025;11;30
+r;121561046;115973;6436308;11;30
+r;121561916;115973;6436216;11;30
+r;121571889;115973;6435096;11;30
+r;122678902;115973;6432103;11;30
+r;122690902;115973;6430638;11;30
+r;122731312;115973;6425411;11;30
+r;222628939;115973;9989419;11;30
+r;263796613;115973;10587056;11;30
+r;264433508;115973;10602647;11;30
+r;419756957;115973;13768805;11;30
+r;419756967;115973;13790802;11;30
+r;419761112;115973;13778256;11;30
+r;419766161;115973;16042988;11;30
+r;419766167;115973;16042989;11;30
+r;419766173;115973;15442661;11;30
+r;419766179;115973;16042990;11;30
+r;419766185;115973;16042991;11;30
+r;419766191;115973;16042992;11;30
+r;419769949;115973;15370062;11;30
+r;419769957;115973;15662211;11;30
+r;419778115;115973;15391214;11;30
+r;419778121;115973;15835679;11;30
+r;419780587;115973;6326458;11;30
+r;419780597;115973;13777099;11;30
+r;419802955;115973;15347041;11;30
+r;419803408;115973;15342692;11;30
+r;419813101;115973;6383948;11;30
+r;419813130;115973;13768478;11;30
+r;419813210;115973;6290977;11;30
+r;419829088;115973;13751344;11;30
+r;419829115;115973;13755700;11;30
+r;419829148;115973;13746464;11;30
+r;419838869;115973;15381960;11;30
+r;419843008;115973;15475918;11;30
+r;419844016;115973;15440283;11;30
+r;429091909;115973;16321262;11;30
+r;434378771;115973;16161893;11;30
+r;110579332;115973;5573831;11;31
+r;112192740;115973;5687356;11;31
+r;113762680;115973;5828701;11;31
+r;121471018;115973;6446350;11;31
+r;121487079;115973;6444555;11;31
+r;121493701;115973;6443830;11;31
+r;121507433;115973;6442303;11;31
+r;121509878;115973;6442026;11;31
+r;121524417;115973;6440406;11;31
+r;121525140;115973;6440327;11;31
+r;121526366;115973;6440187;11;31
+r;121527578;115973;6440047;11;31
+r;121538216;115973;6438859;11;31
+r;121554902;115973;6437000;11;31
+r;121562032;115973;6436203;11;31
+r;121565170;115973;6435847;11;31
+r;122665844;115973;6433555;11;31
+r;122671380;115973;6432942;11;31
+r;122673744;115973;6432670;11;31
+r;122679207;115973;6432068;11;31
+r;122683632;115973;6431566;11;31
+r;122690558;115973;6430686;11;31
+r;221217015;115973;9963594;11;31
+r;221482363;115973;9967374;11;31
+r;222100176;115973;9982746;11;31
+r;222103346;115973;9980422;11;31
+r;222103723;115973;9980355;11;31
+r;222568848;115973;9989218;11;31
+r;227655012;115973;10007532;11;31
+r;227659032;115973;10003768;11;31
+r;227677378;115973;9993260;11;31
+r;276739284;115973;10963546;11;31
+r;264441450;115973;10599719;11;31
+r;298504244;115973;6293003;11;31
+r;349244467;115973;6320152;11;31
+r;400820843;115973;6397856;11;31
+r;419706147;115973;15198435;11;31
+r;419706151;115973;15198316;11;31
+r;419706155;115973;15531567;11;31
+r;419706161;115973;15484053;11;31
+r;419706167;115973;15198625;11;31
+r;419706171;115973;15381082;11;31
+r;419706175;115973;14490645;11;31
+r;419706203;115973;15483449;11;31
+r;419706207;115973;15410670;11;31
+r;419706211;115973;15476790;11;31
+r;419706219;115973;15277378;11;31
+r;419706225;115973;15286088;11;31
+r;419706229;115973;15300703;11;31
+r;419706237;115973;15286092;11;31
+r;419706241;115973;15253062;11;31
+r;419706247;115973;15286090;11;31
+r;419706251;115973;15627978;11;31
+r;419706257;115973;15627977;11;31
+r;419706262;115973;15286724;11;31
+r;419706267;115973;15312656;11;31
+r;419706275;115973;15588307;11;31
+r;419706283;115973;15276413;11;31
+r;419706289;115973;15500534;11;31
+r;419706295;115973;15246655;11;31
+r;419706301;115973;15500166;11;31
+r;419706315;115973;16071193;11;31
+r;419706321;115973;15296564;11;31
+r;419706327;115973;15529733;11;31
+r;419706349;115973;15381230;11;31
+r;419706351;115973;15630166;11;31
+r;419706369;115973;16041657;11;31
+r;419706375;115973;16041658;11;31
+r;419706381;115973;16041659;11;31
+r;419706391;115973;15525342;11;31
+r;419706395;115973;16041660;11;31
+r;419710515;115973;6311462;11;31
+r;419710525;115973;6421476;11;31
+r;419711761;115973;13757508;11;31
+r;419716863;115973;15263773;11;31
+r;52439627;115973;2374970;11;32
+r;111355751;115973;5634610;11;32
+r;114015162;115973;5837669;11;32
+r;114021262;115973;5836254;11;32
+r;121490659;115973;6444162;11;32
+r;121492343;115973;6443982;11;32
+r;121501305;115973;6442970;11;32
+r;121518798;115973;6441027;11;32
+r;121524113;115973;6440440;11;32
+r;121525109;115973;6440331;11;32
+r;121530388;115973;6439736;11;32
+r;121531049;115973;6439666;11;32
+r;121556614;115973;6436809;11;32
+r;121573258;115973;6434939;11;32
+r;121578162;115973;6434394;11;32
+r;122674908;115973;6432539;11;32
+r;122679559;115973;6432028;11;32
+r;122680044;115973;6431970;11;32
+r;122706319;115973;6428626;11;32
+r;122751738;115973;6422789;11;32
+r;221990421;115973;9983423;11;32
+r;276720109;115973;10963571;11;32
+r;291206609;115973;11356949;11;32
+r;299577091;115973;6309317;11;32
+r;301530213;115973;6344090;11;32
+r;419618235;115973;15370064;11;32
+r;419621463;115973;15411339;11;32
+r;419621510;115973;15323709;11;32
+r;419635516;115973;15272846;11;32
+r;419635994;115973;15396624;11;32
+r;419636079;115973;15293473;11;32
+r;419637786;115973;15400722;11;32
+r;419651985;115973;15582439;11;32
+r;419651991;115973;15421541;11;32
+r;419653217;115973;15350948;11;32
+r;419653221;115973;15442638;11;32
+r;419656055;115973;15352889;11;32
+r;419658633;115973;15445487;11;32
+r;419686445;115973;6323325;11;32
+r;419689854;115973;15229517;11;32
+r;419700647;115973;15250021;11;32
+r;419702586;115973;15357587;11;32
+r;29996423;115973;1835121;11;33
+r;110207319;115973;5563885;11;33
+r;121467295;115973;6446771;11;33
+r;121486825;115973;6444584;11;33
+r;121499543;115973;6443168;11;33
+r;121558465;115973;6436599;11;33
+r;122672565;115973;6432809;11;33
+r;122738832;115973;6424438;11;33
+r;227618330;115973;10035607;11;33
+r;269399264;115973;10743458;11;33
+r;304566485;115973;6389240;11;33
+r;305128449;115973;6398627;11;33
+r;305616338;115973;6414395;11;33
+r;400804330;115973;6391870;11;33
+r;419601313;115973;15392588;11;33
+r;419601430;115973;6346097;11;33
+r;419601471;115973;6351424;11;33
+r;419611675;115973;13784724;11;33
+r;419611693;115973;13769695;11;33
+r;419611714;115973;13784725;11;33
+r;419611735;115973;13769696;11;33
+r;419613480;115973;13794887;11;33
+r;29963070;115973;1831757;11;34
+r;30011186;115973;1836740;11;34
+r;30036169;115973;1839377;11;34
+r;115104823;115973;5898410;11;34
+r;115849209;115973;5918771;11;34
+r;116574356;115973;5961679;11;34
+r;116576794;115973;5961107;11;34
+r;116578432;115973;5960702;11;34
+r;116578737;115973;5960571;11;34
+r;116579962;115973;5960183;11;34
+r;116588308;115973;5953175;11;34
+r;116938650;115973;5974850;11;34
+r;121049074;115973;6449833;11;34
+r;121051857;115973;6449529;11;34
+r;121057395;115973;6448911;11;34
+r;121457315;115973;6447875;11;34
+r;121462335;115973;6447326;11;34
+r;121462634;115973;6447291;11;34
+r;121483485;115973;6444967;11;34
+r;121483599;115973;6444954;11;34
+r;121507214;115973;6442326;11;34
+r;121555987;115973;6436881;11;34
+r;122678004;115973;6432202;11;34
+r;122679901;115973;6431987;11;34
+r;275368139;115973;10934812;11;34
+r;290724891;115973;11347301;11;34
+r;302987507;115973;6371347;11;34
+r;300959284;115973;6330438;11;34
+r;304617751;115973;6391884;11;34
+r;304859355;115973;6392899;11;34
+r;305557509;115973;11826754;11;34
+r;313228597;115973;12019461;11;34
+r;399490705;115973;6327693;11;34
+r;419514787;115973;15367975;11;34
+r;419516069;115973;15335222;11;34
+r;419524621;115973;15370077;11;34
+r;419534607;115973;15283462;11;34
+r;419537619;115973;16074301;11;34
+r;419538705;115973;15373901;11;34
+r;419544666;115973;15388635;11;34
+r;419544966;115973;15370078;11;34
+r;419551129;115973;15283778;11;34
+r;419553863;115973;15317579;11;34
+r;419559196;115973;15422693;11;34
+r;419562032;115973;15575568;11;34
+r;419562322;115973;15630228;11;34
+r;419573148;115973;6394447;11;34
+r;419573169;115973;13748366;11;34
+r;419573194;115973;13775257;11;34
+r;419573221;115973;13748367;11;34
+r;419573243;115973;13775258;11;34
+r;419586779;115973;15370071;11;34
+r;419587342;115973;15282846;11;34
+r;419587751;115973;15286086;11;34
+r;419589506;115973;15370066;11;34
+r;419589512;115973;15771460;11;34
+r;419597222;115973;13756784;11;34
+r;419597248;115973;13760926;11;34
+r;419597270;115973;13743585;11;34
+r;419597534;115973;13753652;11;34
+r;419597558;115973;13750960;11;34
+r;419597578;115973;13753653;11;34
+r;419597602;115973;13750961;11;34
+r;420266373;115973;16103823;11;34
+r;423329700;115973;16136028;11;34
+r;424993734;115973;16165326;11;34
+r;428816032;115973;16315699;11;34
+r;433078677;115973;16391668;11;34
+r;29812477;115973;1826536;11;35
+r;29920973;115973;1827668;11;35
+r;29932983;115973;1828911;11;35
+r;29942651;115973;1829689;11;35
+r;29971158;115973;1832620;11;35
+r;29971540;115973;1832517;11;35
+r;29989019;115973;1834473;11;35
+r;30005221;115973;1836196;11;35
+r;30012012;115973;1836794;11;35
+r;30019091;115973;1837581;11;35
+r;30029084;115973;1838722;11;35
+r;30032751;115973;1839178;11;35
+r;53071508;115973;2388992;11;35
+r;116301638;115973;5946920;11;35
+r;116584412;115973;5954462;11;35
+r;116900953;115973;5977023;11;35
+r;121029368;115973;6451980;11;35
+r;121041880;115973;6450615;11;35
+r;121044305;115973;6450345;11;35
+r;121493481;115973;6443852;11;35
+r;121497402;115973;6443408;11;35
+r;121514463;115973;6441515;11;35
+r;121547918;115973;6437773;11;35
+r;121552551;115973;6437264;11;35
+r;121555478;115973;6436938;11;35
+r;121558155;115973;6436634;11;35
+r;121567283;115973;6435611;11;35
+r;121573824;115973;6434879;11;35
+r;122666205;115973;6433512;11;35
+r;122682366;115973;6431707;11;35
+r;122690019;115973;6430763;11;35
+r;122704146;115973;6428906;11;35
+r;122714385;115973;6427602;11;35
+r;122745766;115973;6423566;11;35
+r;247442840;115973;10251298;11;35
+r;263277701;115973;10558747;11;35
+r;271603331;115973;10838726;11;35
+r;301411579;115973;6336591;11;35
+r;298861661;115973;6294548;11;35
+r;298894815;115973;6296385;11;35
+r;299137179;115973;6300623;11;35
+r;301133206;115973;6332815;11;35
+r;302191981;115973;6366198;11;35
+r;313646791;115973;12049228;11;35
+r;399498980;115973;6329627;11;35
+r;400732846;115973;6386993;11;35
+r;393763344;115973;15166644;11;35
+r;399193133;115973;6323925;11;35
+r;419500354;115973;15751197;11;35
+r;29843309;115973;1826869;11;36
+r;29974290;115973;1832480;11;36
+r;112188436;115973;5688771;11;36
+r;113308961;115973;5801831;11;36
+r;121039929;115973;6450832;11;36
+r;121471158;115973;6446335;11;36
+r;121483547;115973;6444960;11;36
+r;121500562;115973;6443055;11;36
+r;121501146;115973;6442989;11;36
+r;121505074;115973;6442561;11;36
+r;121521685;115973;6440701;11;36
+r;121528036;115973;6439987;11;36
+r;121534637;115973;6439265;11;36
+r;121559218;115973;6436513;11;36
+r;122676698;115973;6432346;11;36
+r;253393437;115973;10327814;11;36
+r;274806221;115973;10929307;11;36
+r;281271128;115973;11090043;11;36
+r;293421699;115973;11409114;11;36
+r;300159704;115973;6324035;11;36
+r;368590561;115973;14530009;11;36
+r;111355861;115973;5634537;11;37
+r;121055920;115973;6449076;11;37
+r;121452354;115973;6448414;11;37
+r;121457945;115973;6447803;11;37
+r;121467209;115973;6446783;11;37
+r;121491666;115973;6444054;11;37
+r;121495003;115973;6443679;11;37
+r;121498596;115973;6443273;11;37
+r;121555899;115973;6436891;11;37
+r;121560602;115973;6436352;11;37
+r;121564924;115973;6435877;11;37
+r;121579880;115973;6434206;11;37
+r;291816610;115973;11362992;11;37
+r;299378831;115973;6304589;11;37
+r;121048760;115973;6449864;11;38
+r;121455146;115973;6448101;11;38
+r;121485508;115973;6444738;11;38
+r;121489097;115973;6444326;11;38
+r;121501911;115973;6442901;11;38
+r;121509680;115973;6442049;11;38
+r;121517193;115973;6441207;11;38
+r;121530707;115973;6439704;11;38
+r;121545222;115973;6438083;11;38
+r;121553925;115973;6437115;11;38
+r;121555057;115973;6436983;11;38
+r;121566703;115973;6435672;11;38
+r;122672476;115973;6432819;11;38
+r;122716071;115973;6427385;11;38
+r;228983182;115973;10056318;11;38
+r;232112337;115973;10057867;11;38
+r;243201223;115973;10195489;11;38
+r;247436156;115973;10298047;11;38
+r;247436168;115973;10298046;11;38
+r;269376170;115973;10753178;11;38
+r;269376266;115973;10753157;11;38
+r;269376272;115973;10753156;11;38
+r;269376286;115973;10753154;11;38
+r;269376294;115973;10753153;11;38
+r;287940151;115973;11237003;11;38
+r;287940613;115973;11236998;11;38
+r;292657248;115973;11393747;11;38
+r;298267353;115973;11595172;11;38
+r;306436258;115973;11839527;11;38
+r;419706333;115973;15381240;11;38
+r;419706341;115973;15381242;11;38
+r;419706353;115973;15381238;11;38
+r;419706361;115973;15381243;11;38
+r;115101682;115973;5899131;11;39
+r;121042869;115973;6450505;11;39
+r;121045447;115973;6450224;11;39
+r;121457152;115973;6447889;11;39
+r;121479629;115973;6445393;11;39
+r;121489786;115973;6444255;11;39
+r;121496510;115973;6443510;11;39
+r;121498589;115973;6443274;11;39
+r;121531823;115973;6439579;11;39
+r;121535324;115973;6439183;11;39
+r;121537588;115973;6438927;11;39
+r;121572574;115973;6435020;11;39
+r;122755394;115973;6422309;11;39
+r;262521669;115973;10525160;11;39
+r;264464700;115973;10590394;11;39
+r;297614381;115973;11577009;11;39
+r;308547287;115973;11957169;11;39
+r;56400125;115973;2474792;11;40
+r;117872341;115973;5989896;11;40
+r;120228015;115973;6452017;11;40
+r;121472868;115973;6446150;11;40
+r;121479395;115973;6445417;11;40
+r;121489867;115973;6444247;11;40
+r;121493884;115973;6443809;11;40
+r;121519807;115973;6440907;11;40
+r;122722524;115973;6426543;11;40
+r;242256978;115973;10190296;11;40
+r;242257516;115973;10190125;11;40
+r;262202939;115973;10517744;11;40
+r;264449906;115973;10596271;11;40
+r;269373625;115973;10754420;11;40
+r;297614363;115973;11577052;11;40
+r;109889538;115973;5539070;11;41
+r;121049685;115973;6449774;11;41
+r;121050832;115973;6449641;11;41
+r;121461509;115973;6447420;11;41
+r;121466352;115973;6446880;11;41
+r;122665219;115973;6433625;11;41
+r;236690728;115973;10133102;11;41
+r;338932967;115973;13270267;11;41
+r;55045561;115973;2433444;11;42
+r;121452953;115973;6448347;11;42
+r;121456711;115973;6447927;11;42
+r;121457936;115973;6447804;11;42
+r;121483692;115973;6444944;11;42
+r;121486709;115973;6444597;11;42
+r;121502710;115973;6442805;11;42
+r;121572002;115973;6435084;11;42
+r;233032934;115973;10089989;11;42
+r;240638161;115973;10180363;11;42
+r;240917611;115973;10185848;11;42
+r;241262191;115973;10186682;11;42
+r;241262597;115973;10186683;11;42
+r;258745904;115973;10458643;11;42
+r;261005296;115973;10462800;11;42
+r;282618288;115973;11103472;11;42
+r;282618296;115973;11103469;11;42
+r;290061124;115973;11325400;11;42
+r;291776900;115973;11374405;11;42
+r;337604122;115973;13269918;11;42
+r;116307497;115973;5944283;11;43
+r;116934822;115973;5977190;11;43
+r;121473464;115973;6446086;11;43
+r;121477915;115973;6445584;11;43
+r;121495449;115973;6443627;11;43
+r;121508262;115973;6442204;11;43
+r;121528113;115973;6439979;11;43
+r;121542163;115973;6438432;11;43
+r;233277542;115973;10094377;11;43
+r;238926660;115973;10176478;11;43
+r;240634127;115973;10185078;11;43
+r;240635050;115973;10184830;11;43
+r;240635104;115973;10184819;11;43
+r;240635923;115973;10181586;11;43
+r;261007120;115973;10462239;11;43
+r;287748513;115973;11222297;11;43
+r;290061042;115973;11325403;11;43
+r;290061063;115973;11325422;11;43
+r;337604189;115973;13269917;11;43
+r;337618035;115973;13270223;11;43
+r;114760546;115973;5883674;11;44
+r;121047497;115973;6449998;11;44
+r;121049557;115973;6449787;11;44
+r;121049624;115973;6449780;11;44
+r;121057539;115973;6448898;11;44
+r;121059861;115973;6448640;11;44
+r;121467430;115973;6446757;11;44
+r;121575312;115973;6434713;11;44
+r;122693323;115973;6430322;11;44
+r;238098098;115973;10160868;11;44
+r;338118625;115973;13294123;11;44
+r;338121032;115973;13294122;11;44
+r;57998936;115973;2476478;11;45
+r;109888947;115973;5553080;11;45
+r;121043690;115973;6450409;11;45
+r;121048358;115973;6449908;11;45
+r;121455277;115973;6448086;11;45
+r;121455689;115973;6448041;11;45
+r;121473968;115973;6446028;11;45
+r;121480778;115973;6445275;11;45
+r;121504644;115973;6442604;11;45
+r;121550635;115973;6437477;11;45
+r;121576135;115973;6434617;11;45
+r;121755685;115973;6562786;11;45
+r;236659761;115973;10143081;11;45
+r;121474692;115973;6445951;11;46
+r;121474776;115973;6445943;11;46
+r;121052260;115973;6449482;11;47
+r;121454855;115973;6448135;11;47
+r;116303775;115973;5945455;11;48
+r;116321536;115973;5939783;11;48
+r;247435259;115973;10298305;11;48
+r;121046325;115973;6450127;11;49
+r;121057549;115973;6448897;11;49
+r;122671300;115973;6432952;11;49
+r;52484688;115973;2482229;11;50
+r;116309319;115973;5943492;11;50
+r;121455342;115973;6448078;11;50
+r;397134993;115973;15494589;11;50
+r;166568412;115973;8718665;11;50
+r;180161218;115973;8758367;11;50
+r;190302629;115973;8853526;11;50
+r;190855250;115973;8879852;11;50
+r;190855278;115973;8879854;11;50
+r;193006154;115973;8914942;11;50
+r;211471412;115973;9247853;11;50
+r;211471900;115973;9247854;11;50
+r;211488494;115973;9248011;11;50
+r;213793414;115973;9453499;11;50
+r;216670241;115973;9614956;11;50
+r;238099067;115973;10160602;11;50
+r;242258620;115973;10189722;11;50
+r;269957912;115973;10790302;11;50
+r;317577278;115973;12246612;11;50
+r;317757798;115973;12247397;11;50
+r;323226743;115973;12626366;11;50
+r;324017035;115973;12661993;11;50
+r;324931244;115973;12682507;11;50
+r;348995648;115973;13789306;11;50
+r;402254507;115973;15662213;11;50
+r;402154454;115973;15388943;11;50
+r;397498455;115973;15370080;11;50
+r;397496770;115973;15228920;11;50
+r;397500197;115973;15272152;11;50
+r;402154440;115973;15370058;11;50
+r;402108844;115973;15338701;11;50
+r;402106120;115973;15372421;11;50
+r;402106100;115973;15528792;11;50
+r;402121270;115973;15625769;11;50
+r;402121148;115973;15318093;11;50
+r;402120260;115973;15625771;11;50
+r;402121174;115973;15379165;11;50
+r;412521590;115973;15774917;11;50
+r;402120252;115973;15317885;11;50
+r;402110534;115973;15322082;11;50
+r;402104550;115973;15312324;11;50
+r;400821050;115973;15630197;11;50
+r;402107798;115973;15391310;11;50
+r;402105478;115973;15627980;11;50
+r;402110078;115973;15273393;11;50
+r;402110336;115973;15395511;11;50
+r;402106138;115973;15349804;11;50
+r;402121418;115973;15378430;11;50
+r;397498479;115973;15370075;11;50
+r;394001082;115973;15166194;11;50
+r;395010221;115973;15391217;11;50
+r;395010399;115973;15350950;11;50
+r;395011387;115973;15354987;11;50
+r;395012427;115973;15382730;11;50
+r;395033468;115973;15335218;11;50
+r;402274387;115973;15513661;11;50
+r;402274513;115973;15317883;11;50
+r;402274643;115973;15324678;11;50
+r;402274699;115973;15583959;11;50
+r;411714543;115973;15775772;11;50
+r;427098100;115973;16281373;11;50
+r;16351587;115973;464093;11;51
+r;92511272;115973;3705998;11;51
+r;107337404;115973;5386727;11;51
+r;116306315;115973;5944629;11;51
+r;16350704;115973;464231;11;52
+r;27659196;115973;1664823;11;52
+r;27659275;115973;1664809;11;52
+r;32930990;115973;2167351;11;52
+r;61460515;115973;2681873;11;52
+r;77268445;115973;3185675;11;52
+r;86159911;115973;3368708;11;52
+r;93709369;115973;3752902;11;52
+r;19616670;115973;735736;11;53
+r;16371539;115973;465099;11;54
+r;50062693;115973;2358551;11;54
+r;121044184;115973;6450357;11;54
+r;17238547;115973;568666;11;55
+r;29901073;115973;1842150;11;55
+r;75938646;115973;3158531;11;55
+r;121052060;115973;6449505;11;55
+r;16349495;115973;464447;11;56
+r;16356078;115973;463301;11;56
+r;18416789;115973;586697;11;56
+r;31663318;115973;1966023;11;56
+r;52462135;115973;2530599;11;56
+r;85849715;115973;3348616;11;56
+r;87305605;115973;3415893;11;56
+r;16355138;115973;463466;11;57
+r;27572133;115973;1659555;11;57
+r;78602455;115973;3246503;11;57
+r;85848427;115973;3348617;11;57
+r;86188403;115973;3365397;11;57
+r;27571506;115973;1659556;11;58
+r;16350698;115973;464232;11;58
+r;52455222;115973;2544862;11;58
+r;78602693;115973;3246504;11;58
+r;106887330;115973;5331248;11;58
+r;29878772;115973;1846556;11;59
+r;29878822;115973;1846549;11;59
+r;29893383;115973;1843393;11;59
+r;29901788;115973;1841964;11;59
+r;86173688;115973;3367047;11;59
+r;92746144;115973;3713297;11;59
+r;121046042;115973;6450159;11;59
+r;16351223;115973;464148;11;60
+r;29764221;115973;1822410;11;60
+r;29915276;115973;1833884;11;60
+r;82023985;115973;3295622;11;60
+r;98603180;115973;4323103;11;60
+r;105566130;115973;5095758;11;60
+r;29484578;115973;1801566;11;61
+r;29877532;115973;1846797;11;61
+r;72534748;115973;2948265;11;61
+r;29857118;115973;1850827;11;64
+r;29903332;115973;1841607;11;65
+r;29899441;115973;1842581;11;66
+r;71872204;115973;2931407;11;66
+r;72534144;115973;2948266;11;66
+r;76428645;115973;3174209;11;67
+r;12601001;115973;375236;11;101
+r;12730041;115973;343641;11;101
+r;12730045;115973;343640;11;101
+r;12604455;115973;374358;11;102
+r;12558491;115973;385706;11;103
+r;12730067;115973;343634;11;103
+r;12558603;115973;385682;11;104
+r;12730049;115973;343639;11;104
+r;12730061;115973;343636;11;104
+r;12730075;115973;343632;11;104
+r;12611175;115973;372750;11;105
+r;12622839;115973;369920;11;105
+r;12730031;115973;343643;11;106
+r;12730037;115973;343642;11;106
+r;12730053;115973;343638;11;107
+r;12701167;115973;350509;11;108
+r;12730071;115973;343633;11;109
+r;12558503;115973;385703;11;110
+r;12730057;115973;343637;11;110
+r;12730065;115973;343635;11;110
+r;13026986;115973;391069;11;110
+r;11874814;115973;24116;11;121
+r;11876989;115973;8300;11;121
+r;11857648;115973;147008;11;122
+r;9060306;115973;320724;11;148
+r;9062602;115973;320986;11;148
+r;8818460;115973;314038;11;159
+r;8630386;115973;218161;11;160
+r;8698875;115973;230293;11;160
+r;8604333;115973;100552;11;161
+r;8606820;115973;107422;11;161
+r;8694404;115973;223550;11;161
+r;8694406;115973;223552;11;161
+r;8704581;115973;237254;11;161
+r;8717958;115973;254121;11;161
+r;8719445;115973;255148;11;161
+r;8720221;115973;255752;11;161
+r;8720941;115973;256253;11;161
+r;8724302;115973;258600;11;161
+r;8725774;115973;259571;11;161
+r;8726355;115973;260014;11;161
+r;8728372;115973;261652;11;161
+r;8728374;115973;261653;11;161
+r;8728763;115973;261987;11;161
+r;8580484;115973;31663;11;162
+r;8589910;115973;58833;11;162
+r;8590619;115973;60852;11;162
+r;8607373;115973;108780;11;162
+r;8608853;115973;112903;11;162
+r;8611963;115973;121661;11;162
+r;8621719;115973;145374;11;162
+r;8624683;115973;155792;11;162
+r;8626844;115973;160350;11;162
+r;8627500;115973;161520;11;162
+r;8627936;115973;162344;11;162
+r;8627957;115973;162379;11;162
+r;8628145;115973;162904;11;162
+r;8633881;115973;171419;11;162
+r;8764220;115973;297238;11;162
+r;8580465;115973;31596;11;163
+r;8581636;115973;35135;11;163
+r;8583942;115973;41857;11;163
+r;8588938;115973;56022;11;163
+r;8617520;115973;136918;11;163
+r;8618188;115973;137799;11;163
+r;8621178;115973;143961;11;163
+r;8622179;115973;146775;11;163
+r;8624410;115973;155287;11;163
+r;8636631;115973;180100;11;163
+r;8636644;115973;180108;11;163
+r;8736607;115973;268834;11;163
+r;8736644;115973;268863;11;163
+r;8738974;115973;271461;11;163
+r;8748541;115973;281166;11;163
+r;8750023;115973;282768;11;163
+r;8750026;115973;282769;11;163
+r;8579627;115973;29047;11;164
+r;8618394;115973;138091;11;164
+r;8644431;115973;185014;11;164
+r;8659595;115973;194994;11;164
+r;8662091;115973;196686;11;164
+r;8776992;115973;311050;11;164
+r;8779219;115973;312831;11;164
+r;8573289;115973;10043;11;168
+r;8777339;115973;311354;11;304

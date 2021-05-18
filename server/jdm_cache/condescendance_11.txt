@@ -1,0 +1,8 @@
+
+e;28503;'condescendance';1;98
+e;15342499;'avec condescendance';1;0
+e;1773782;'traiter avec condescendance';1;0
+e;3681110;'condescendance coloniale';1;0
+r;419626013;28503;15342499;11;32
+r;29132799;28503;1773782;11;57
+r;91584978;28503;3681110;11;58

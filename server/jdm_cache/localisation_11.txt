@@ -1,0 +1,156 @@
+
+e;76117;'localisation';1;158
+e;6291044;'épanchement articulaire d'une localisation précisée';1;0
+e;6327494;'examen échographique pour localisation de corps étranger';1;0
+e;6330394;'localisation auditive';1;0
+e;6349461;'dérivation du ventricule cérébral à une localisation extracrânienne';1;0
+e;6368470;'point de localisation';1;0
+e;6395447;'localisation de la ligne z dans une hernie hiatale oesophagienne';1;0
+e;6396202;'phlyctène par frottement d'une localisation non précisée avec infection';1;0
+e;6404799;'localisation des sons';1;0
+e;12194619;'identification de variant structurel localisation cytogénétique';1;0
+e;13588428;'localisation mobile avancée';1;0
+e;6356003;'Épilepsie de localisation amygdalo-hyppocampique';1;0
+e;14165359;'Mouvement de la localisation taïwanaise';777;0
+e;14735299;'Typologie par la localisation';777;0
+e;6348463;'gelure d'une autre localisation';1;0
+e;6381089;'lésion du cartilage articulaire d'une localisation précisée';1;0
+e;6380259;'infection amibienne de localisation précisée';1;0
+e;6340363;'complication d'une lésion traumatique de localisation non précisée';1;0
+e;6407147;'lésion due à un corps étranger superficiel d'une localisation non précisée sans plaie ouverte importante ni infection';1;0
+e;6319852;'hémarthrose d'une localisation précisée';1;0
+e;6320401;'complication précoce d'un traumatisme d'une localisation non précisée';1;0
+e;6295571;'pseudomyxome du péritoine avec localisation primitive inconnue';1;0
+e;6300483;'phlyctène par frottement d'une localisation non précisée sans infection';1;0
+e;6307224;'ostéo-arthrose primaire d'une localisation précisée';1;0
+e;6335121;'fluoroscopie pour localisation de corps étranger';1;0
+e;6344343;'localisation de tumeur par radio-isotopes';1;0
+e;6349519;'contracture articulaire d'une localisation précisée';1;0
+e;6363727;'amibiase de localisation précisée';1;0
+e;6368990;'toxoplasmose de localisation précisée';1;0
+e;6401157;'voir le point 5 du tableau de la localisation des tumeurs';1;0
+e;6416910;'périostite aiguë d'une localisation précisée';1;0
+e;6421013;'varices de localisation non précisée';1;0
+e;6295006;'ankylose articulaire d'une localisation précisée';1;0
+e;6297786;'tumeurs par localisation';1;0
+e;6362207;'ostéo-arthrose secondaire d'une localisation précisée';1;0
+e;12108283;'variant structurel localisation cytogénétique';1;0
+e;2489800;'chrono-localisation';1;0
+e;6439350;'entorse d'une autre localisation précisée du coude et de l'avant-bras';1;0
+e;6424969;'varices sans localisation spécifique';1;0
+e;15285824;'dispositif de localisation';1;0
+e;6425076;'enthésopathie de localisation non précisée';1;0
+e;9958372;'identifiant de localisation';777;0
+e;5669778;'localisation et cartographie simultanées';777;0
+e;6431980;'processus de localisation cellulaire de l'arn';1;0
+e;6428217;'plaie ouverte de localisation non précisée avec complication';1;0
+e;6422734;'luxation récidivante d'une localisation précisée';1;0
+e;11353799;'mouvement de la localisation taïwanaise';777;0
+e;6441316;'localisation par rapport a la papille de l'implantation du canal cystique';1;0
+e;6438893;'piqûre d'insecte non venimeux d'une localisation non précisée sans infection';1;0
+e;15544095;'appareil de localisation de câbles';1;0
+e;6443123;'localisation de l'orifice diaphragmatique dans une hernie hiatale oesophagienne';1;0
+e;1838013;'localisation placentaire thermo­graphique';1;0
+e;1838012;'localisation placentaire radiographique';1;0
+e;1838014;'localisation placentaire ultrasono­graphique';1;0
+e;1834013;'ou de localisation film de repérage';1;0
+e;1838011;'localisation placentaire isotopique';1;0
+e;6443589;'processus de localisation cellulaire de l'arn messager';1;0
+e;6421970;'répertoire et panneaux de localisation';1;0
+e;11544352;'radiobalise de localisation des sinistres';777;0
+e;6444444;'piqûre d'insecte non venimeux d'une localisation non précisée avec infection';1;0
+e;6444624;'localisation du placenta par injection d'albumine sérique radioiodée';1;0
+e;12052810;'utiliser des outils de localisation';1;0
+e;14665157;'Hypothèses de localisation';777;0
+e;6451229;'entorse d'une autre localisation de l'épaule et du bras';1;0
+e;5897139;'signal de localisation nucléaire';777;0
+e;12690718;'localisation linguistique';777;0
+e;464109;'localisation d'un saignement gastro-intestinal';1;50
+e;1801922;'maladie de l'oeil par localisation';1;0
+e;1718616;'localisation physique';1;0
+e;1801916;'maladie en pneumologie par localisation';1;0
+e;2948950;'signes de localisation';1;0
+e;362006;'localisation graisseuse';1;50
+e;368632;'paramnésie de localisation';1;50
+e;372909;'prime de localisation d'activités de recherche';1;50
+e;362007;'localisation géographique';1;50
+e;260625;'système de localisation';1;2
+e;183042;'localisation par satellite';1;50
+e;190702;'facteur de localisation';1;50
+r;298437396;76117;6291044;11;25
+r;300207861;76117;6327494;11;25
+r;300963526;76117;6330394;11;25
+r;301726449;76117;6349461;11;25
+r;302964886;76117;6368470;11;25
+r;305001616;76117;6395447;11;25
+r;305018087;76117;6396202;11;25
+r;305300400;76117;6404799;11;25
+r;316563627;76117;12194619;11;25
+r;344115446;76117;13588428;11;25
+r;349342514;76117;6356003;11;25
+r;360213216;76117;14165359;11;25
+r;374648091;76117;14735299;11;25
+r;399970415;76117;6348463;11;25
+r;400607742;76117;6381089;11;25
+r;400606047;76117;6380259;11;25
+r;399684973;76117;6340363;11;25
+r;400913969;76117;6407147;11;25
+r;398553874;76117;6319852;11;25
+r;398898006;76117;6320401;11;25
+r;298881699;76117;6295571;11;26
+r;299129884;76117;6300483;11;26
+r;299566673;76117;6307224;11;26
+r;301220525;76117;6335121;11;26
+r;301541968;76117;6344343;11;26
+r;301725752;76117;6349519;11;26
+r;302152866;76117;6363727;11;26
+r;302975805;76117;6368990;11;26
+r;305201383;76117;6401157;11;26
+r;305687548;76117;6416910;11;26
+r;305709958;76117;6421013;11;26
+r;298864727;76117;6295006;11;27
+r;299026877;76117;6297786;11;27
+r;302135503;76117;6362207;11;27
+r;315496487;76117;12108283;11;29
+r;62170940;76117;2489800;11;30
+r;121533857;76117;6439350;11;30
+r;122734749;76117;6424969;11;30
+r;419784500;76117;15285824;11;30
+r;122733873;76117;6425076;11;31
+r;220810516;76117;9958372;11;31
+r;111346711;76117;5669778;11;32
+r;122679959;76117;6431980;11;32
+r;122709547;76117;6428217;11;32
+r;122752202;76117;6422734;11;32
+r;291212644;76117;11353799;11;32
+r;121516242;76117;6441316;11;33
+r;121537898;76117;6438893;11;33
+r;419601883;76117;15544095;11;33
+r;121499957;76117;6443123;11;34
+r;30022834;76117;1838013;11;35
+r;30023484;76117;1838012;11;35
+r;30025258;76117;1838014;11;35
+r;29984688;76117;1834013;11;36
+r;30023884;76117;1838011;11;36
+r;121495822;76117;6443589;11;37
+r;122757980;76117;6421970;11;37
+r;296475842;76117;11544352;11;38
+r;121488074;76117;6444444;11;39
+r;121486470;76117;6444624;11;40
+r;313737675;76117;12052810;11;40
+r;372939210;76117;14665157;11;43
+r;121036231;76117;6451229;11;44
+r;115108105;76117;5897139;11;46
+r;325495780;76117;12690718;11;50
+r;16351467;76117;464109;11;57
+r;29488884;76117;1801922;11;59
+r;28288373;76117;1718616;11;60
+r;29488918;76117;1801916;11;60
+r;72589441;76117;2948950;11;66
+r;12654559;76117;362006;11;105
+r;12627953;76117;368632;11;106
+r;12610513;76117;372909;11;107
+r;12654555;76117;362007;11;107
+r;8727118;76117;260625;11;161
+r;8641126;76117;183042;11;163
+r;8653120;76117;190702;11;164

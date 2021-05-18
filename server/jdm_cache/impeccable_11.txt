@@ -1,0 +1,18 @@
+
+e;25695;'impeccable';1;116
+e;15232124;'d'une propreté impeccable';1;0
+e;15317579;'Tout est toujours impeccable chez elle.';1;0
+e;15317573;'Elle est toujours impeccable.';1;0
+e;15317575;'Il a fait un travail impeccable.';1;0
+e;15309855;'Il s'épuise à garder un jardin impeccable.';1;0
+e;15317583;'Il faut que tout soit impeccable pour elle.';1;0
+e;15317581;'Comme toujours, sa mise était impeccable.';1;0
+e;355332;'français impeccable';1;50
+r;419760198;25695;15232124;11;30
+r;419553861;25695;15317579;11;34
+r;397498665;25695;15317573;11;50
+r;402103076;25695;15317575;11;50
+r;402109656;25695;15309855;11;50
+r;402106988;25695;15317583;11;50
+r;395016711;25695;15317581;11;50
+r;12681837;25695;355332;11;105

@@ -1,0 +1,24 @@
+
+e;127828;'équipée';1;60
+e;15249594;'cuisine entièrement équipée';1;0
+e;15392920;'diamètre sous billes d'une cage radiale équipée';1;0
+e;15392916;'diamètre sous rouleaux d'une cage radiale équipée';1;0
+e;15392918;'diamètre sur billes d'une cage radiale équipée';1;0
+e;15392922;'diamètre sur rouleaux d'une cage radiale équipée';1;0
+e;16156499;'La tourelle peut en effet être équipée de deux types de motorisations';777;0
+e;15230497;'Chaque caravane est équipée pour accueillir quatre personnes.';1;0
+e;3053813;'sous-équipée';1;0
+e;354566;'folle équipée';1;50
+e;257805;'cuisine équipée';1;58
+r;310673387;127828;5387115;11;23
+r;310672708;127828;5387116;11;25
+r;419755023;127828;15249594;11;30
+r;419779394;127828;15392920;11;30
+r;419779412;127828;15392916;11;30
+r;419779447;127828;15392918;11;30
+r;419779480;127828;15392922;11;30
+r;423874640;127828;16156499;11;35
+r;395014337;127828;15230497;11;50
+r;74946663;127828;3053813;11;68
+r;12684895;127828;354566;11;103
+r;8723157;127828;257805;11;161

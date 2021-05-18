@@ -1,0 +1,108 @@
+
+e;141708;'laisse';1;198
+e;14502888;'garder son chien en laisse';1;2
+e;14502889;'chien en laisse';1;18
+e;14557768;'tenir son chien en laisse';1;0
+e;16323311;'cela me laisse pensif';1;0
+e;16364839;'cela me laisse rêveur';1;0
+e;15335513;'ceci laisse supposer que ...';1;0
+e;15329294;'cela vous rend perplexe, cela vous laisse songeur, cela vous fait vous poser des questions';1;0
+e;5960951;'Maman ne se laisse pas marcher sur les pieds';777;0
+e;15389061;'On laisse rarement entrer les journalistes dans cette région.';1;0
+e;15345246;'Si on les laisse se propager, les mauvaises herbes prospéreront.';1;0
+e;15493576;'Tenez votre chien en laisse.';1;0
+e;15341267;'Tout laisse penser à un crime crapuleux.';1;0
+e;12079557;'laisse de pleine mer';1;0
+e;15282190;'Le laisse pas tomber';1;0
+e;15282192;'Les laisse pas tomber';1;0
+e;15282188;'Me laisse pas tomber';1;0
+e;15400286;'Ne laisse pas ta chambre en désordre.';1;0
+e;15276693;'Ne laisse pas tes affaires n'importe où.';1;0
+e;15389790;'Ne laisse pas traîner tes affaires.';1;0
+e;15349332;'Ne me laisse pas tomber';1;0
+e;15380149;'Ne nous laisse pas tomber';1;0
+e;15580476;'Ne te laisse pas faire, proteste!';1;0
+e;16323056;'Me laisse pas m'en aller';777;0
+e;10047245;'laisse aller... c'est une valse !';777;0
+e;10047244;'laisse aller... c'est une valse';777;0
+e;2473332;'laisse de basse mer';1;0
+e;10143050;'Jerry ne se laisse pas faire';777;0
+e;12246672;'Grand mère ne s'en laisse pas conter';777;0
+e;15315421;'Elle se laisse aller.';1;0
+e;15486000;'Il se laisse facilement entraîner par les autres.';1;0
+e;15573187;'Il se laisse manger, ton coq au vin.';1;0
+e;15531517;'Il ne laisse jamais tomber ses amis.';1;0
+e;15286570;'Buster m'a brusquement arraché la laisse des mains.';1;0
+e;15265133;'Ce bordeaux se laisse boire.';1;0
+e;15260073;'Cela ne laisse pas de surprendre.';1;0
+e;15693583;'Il faut l'admettre, ça me laisse vraiment perplexe.';1;0
+e;2434139;'laisse brûler ce qui ne cuit pas pour toi';1;0
+e;3185976;'L'Astrologue qui se laisse tomber dans un puits';1;0
+e;2796627;'laisse rétractable';777;0
+e;3369507;'sot- l'y- laisse';1;0
+e;2497319;'laisse bruler ce qui ne cuit pas pour toi';1;0
+e;2796626;'laisse à enrouleur';1;0
+e;2931377;'laisse-moi';1;0
+e;360755;'laisse-moi rire';1;50
+e;360754;'laisse monorime';1;50
+e;23982;'tire-laisse';1;50
+e;137389;'sot-l'y-laisse';1;86
+e;132007;'y-laisse';1;50
+e;329523;'tenir en laisse';1;66
+e;261516;'en laisse';1;62
+e;247198;'laisse béton';1;50
+e;254164;'laisse de mer';1;50
+e;302704;'Je laisse le temps faire';777;50
+r;368325523;141708;14502888;11;26
+r;368325535;141708;14502889;11;26
+r;369891782;141708;14557768;11;26
+r;434377652;141708;16323311;11;31
+r;434377659;141708;16364839;11;31
+r;419691791;141708;15335513;11;32
+r;419692626;141708;15329294;11;32
+r;116577432;141708;5960951;11;34
+r;419518637;141708;15389061;11;34
+r;419545293;141708;15345246;11;34
+r;419551450;141708;15493576;11;34
+r;419553901;141708;15341267;11;34
+r;315117392;141708;12079557;11;35
+r;419492344;141708;15282190;11;35
+r;419496318;141708;15282192;11;35
+r;419506274;141708;15282188;11;35
+r;419511908;141708;15400286;11;35
+r;419511914;141708;15276693;11;35
+r;419511922;141708;15389790;11;35
+r;419511999;141708;15349332;11;35
+r;419512017;141708;15380149;11;35
+r;419512217;141708;15580476;11;35
+r;429668860;141708;16323056;11;35
+r;227586034;141708;10047245;11;39
+r;227586041;141708;10047244;11;39
+r;55913922;141708;2473332;11;41
+r;236659933;141708;10143050;11;45
+r;317608746;141708;12246672;11;50
+r;397500221;141708;15315421;11;50
+r;402109780;141708;15486000;11;50
+r;402109788;141708;15573187;11;50
+r;402108528;141708;15531517;11;50
+r;395010667;141708;15286570;11;50
+r;395012489;141708;15265133;11;50
+r;395013269;141708;15260073;11;50
+r;413897032;141708;15693583;11;50
+r;55084549;141708;2434139;11;51
+r;77288657;141708;3185976;11;53
+r;68371355;141708;2796627;11;58
+r;86152863;141708;3369507;11;58
+r;52477628;141708;2497319;11;60
+r;65384411;141708;2796626;11;60
+r;71870482;141708;2931377;11;63
+r;12659739;141708;360755;11;101
+r;12659745;141708;360754;11;109
+r;11874828;141708;23982;11;121
+r;11858272;141708;137389;11;122
+r;11858980;141708;132007;11;122
+r;11644405;141708;329523;11;148
+r;8728206;141708;261516;11;160
+r;8710683;141708;247198;11;161
+r;8718025;141708;254164;11;161
+r;8769162;141708;302704;11;163

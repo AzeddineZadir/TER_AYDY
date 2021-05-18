@@ -1,0 +1,92 @@
+
+e;262061;'originale';1;66
+e;14557189;'Version originale des mondines';777;0
+e;14756660;'Victoire de la musique de la chanson originale de l'année';777;0
+e;14871164;'Photos des acteurs principaux prêtant leur voix dans la version originale';777;0
+e;14902695;'Photos de certains des acteurs prêtant leur voix dans la version originale';777;0
+e;15950072;'Équipe de développement originale';777;0
+e;14636928;'oeuvre originale';1;6
+e;10623446;'trilogie originale';777;0
+e;10604883;'bande originale du film Le Roi Lion';777;0
+e;10604875;'Voix originale';777;0
+e;10605538;'Bande originale produite en 2006 pour accompagner le film muet Les Vampires de Louis Feuillade réalisé en 1915';777;0
+e;9990072;'Oscar de la meilleure chanson originale';777;0
+e;15240984;'création originale';1;0
+e;15366391;'en version originale';1;0
+e;9984559;'César de la meilleure musique originale';777;0
+e;11056038;'La Bande originale';777;0
+e;15692274;'bande originale du film Les Chariots de feu';777;0
+e;10743121;'prix Goya de la meilleure musique originale';777;0
+e;15470179;'approche originale';1;0
+e;15325708;'approche originale et intelligente, angle intelligent,';1;0
+e;12079100;'forme originale';1;0
+e;11089996;'série originale';1;0
+e;10044788;'Oscar de la meilleure histoire originale';777;0
+e;10044767;'Golden Globe de la meilleure chanson originale';777;0
+e;10314345;'+ histoire originale';777;0
+e;11577586;'musée du dessin et de l'estampe originale de Gravelines';777;0
+e;15165246;'Le Petit Nicolas - La bande dessinée originale';777;0
+e;10792469;'Critics' Choice Movie Award de la meilleure chanson originale';777;0
+e;10054823;'Satellite Award de la meilleure chanson originale';777;0
+e;5944395;'la bande originale';777;0
+e;10192447;'numérotation originale';777;0
+e;11179208;'Magritte de la meilleure musique originale';777;0
+e;10138182;'British Academy Film Award de la meilleure chanson originale';777;0
+e;10137371;'Saga originale';777;0
+e;14539223;'Chanson originale de l'année';777;0
+e;594535;'D'après l'histoire originale de';777;0
+e;3365603;'francesinha originale, portugal';1;0
+e;3370941;'tarte originale pommes, fraises, fruits secs et chocolat!';1;0
+e;3746539;'salade originale au poulet';1;0
+e;375912;'reliure originale';1;50
+e;389596;'édition originale';1;50
+e;356755;'gravure originale';1;50
+e;219531;'personne originale';1;52
+e;234695;'bande originale';1;8
+e;250921;'idée originale';1;50
+e;161622;'version originale';1;78
+r;369932447;262061;14557189;11;25
+r;375118385;262061;14756660;11;25
+r;384976759;262061;14871164;11;25
+r;389698846;262061;14902695;11;25
+r;415082346;262061;15950072;11;25
+r;371812783;262061;14636928;11;26
+r;267335148;262061;10623446;11;28
+r;264505555;262061;10604883;11;29
+r;264505592;262061;10604875;11;29
+r;266731256;262061;10605538;11;29
+r;226817429;262061;9990072;11;30
+r;419753605;262061;15240984;11;30
+r;419844044;262061;15366391;11;30
+r;222097803;262061;9984559;11;31
+r;280003755;262061;11056038;11;31
+r;403480564;262061;15692274;11;33
+r;269400026;262061;10743121;11;33
+r;419604599;262061;15470179;11;33
+r;419604604;262061;15325708;11;33
+r;315119793;262061;12079100;11;34
+r;281264447;262061;11089996;11;35
+r;227596599;262061;10044788;11;36
+r;227596753;262061;10044767;11;36
+r;252670283;262061;10314345;11;36
+r;297666199;262061;11577586;11;36
+r;419490539;262061;15165246;11;36
+r;270209320;262061;10792469;11;37
+r;228280591;262061;10054823;11;38
+r;116307132;262061;5944395;11;39
+r;242357470;262061;10192447;11;39
+r;286760266;262061;11179208;11;43
+r;236668407;262061;10138182;11;44
+r;236671552;262061;10137371;11;44
+r;393993410;262061;14539223;11;50
+r;18642461;262061;594535;11;52
+r;86186242;262061;3365603;11;54
+r;86140963;262061;3370941;11;55
+r;93495430;262061;3746539;11;58
+r;12598263;262061;375912;11;102
+r;12543593;262061;389596;11;108
+r;12675943;262061;356755;11;109
+r;8691665;262061;219531;11;161
+r;8702242;262061;234695;11;161
+r;8714416;262061;250921;11;161
+r;8627550;262061;161622;11;162

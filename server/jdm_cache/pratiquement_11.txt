@@ -1,0 +1,12 @@
+
+e;86313;'pratiquement';1;72
+e;14739701;'La recherche de ce signe n'est pratiquement plus utilisé en pratique clinique devant sa difficulté de mise en oeuvre et l'utilisation de moyen diagnostic plus fiable comme l'échocardiographie';777;0
+e;15382009;'J'ai pratiquement fini.';1;0
+e;15750821;'C'est pratiquement impossible.';1;0
+e;15750826;'Il n'y a pratiquement pas de routes par ici.';1;0
+e;1972050;'réduire pratiquement à sec';1;0
+r;374699511;86313;14739701;11;25
+r;402121248;86313;15382009;11;50
+r;405571901;86313;15750821;11;50
+r;413897138;86313;15750826;11;50
+r;31792021;86313;1972050;11;56

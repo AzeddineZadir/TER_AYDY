@@ -1,0 +1,152 @@
+
+e;162832;'isolée';1;108
+e;6291241;'déchirure obstétricale vaginale haute isolée';1;0
+e;6298245;'hypomagnésiémie rénale familiale isolée';1;0
+e;6325028;'lévocardie isolée';1;0
+e;6338916;'non-compaction ventriculaire isolée';1;0
+e;6341833;'non-compaction isolée du ventricule gauche';1;0
+e;6395760;'hypoparathyroïdie néonatale persistante isolée';1;0
+e;6368802;'hypomagnésiémie intestinale familiale isolée';1;0
+e;6374054;'cystinurie isolée';1;0
+e;6386959;'hypoparathyroïdie tardive isolée';1;0
+e;6394224;'polyglobulie isolée';1;0
+e;6408933;'discordance ventriculoartérielle isolée';1;0
+e;6410102;'non-compaction isolée du ventricule gauche à transmission liée au chromosome x';1;0
+e;14718927;'mère isolée';1;0
+e;6348997;'protéinurie isolée avec autres lésions morphologiques précisées';1;0
+e;6356234;'analyse bactériologique ou histologique non connue tuberculose isolée trachéale ou bronchique';1;0
+e;6361108;'séquence isolée de la lissencéphalie';1;0
+e;6395178;'non-compaction isolée du ventricule gauche liée au chromosome x';1;0
+e;6300443;'examen non précisé, tuberculose isolée trachéale ou bronchique';1;0
+e;14532430;'être isolée';1;2
+e;14532433;'personne isolée';1;2
+e;6319878;'confirmée par histologie tuberculose isolée trachéale ou bronchique';1;0
+e;6406098;'confirmée par inoculation animale tuberculose isolée trachéale ou bronchique';1;0
+e;12116622;'spermatozoïdes à tête isolée';1;0
+e;6441163;'fracture isolée du plancher de l'orbite';1;0
+e;6438045;'réduction ouverte de fracture isolée du plancher de l'orbite par voies combinées';1;0
+e;6431035;'non-compaction isolée du ventricule myocardique';1;0
+e;6319945;'non-compaction isolée du ventricule du myocarde';1;0
+e;6409410;'confirmée par culture bactérienne tuberculose isolée trachéale ou bronchique';1;0
+e;6437632;'fracture fermée isolée du plancher de l'orbite';1;0
+e;6437545;'luxation isolée de l'os semi-lunaire';1;0
+e;6427316;'hypomagnésémie intestinale familiale isolée';1;0
+e;6442923;'fracture ouverte isolée du plancher de l'orbite';1;0
+e;9959153;'ville isolée';777;0
+e;9992152;'tuberculose isolée trachéale ou bronchique examen non précisé';1;0
+e;15323453;'diamètre isolée d'un rouleau';1;0
+e;15323455;'dimension isolée axiale d'un arrondi';1;0
+e;15302201;'dimension isolée radiale d'un arrondi';1;0
+e;15323441;'dyskératome folliculaire isolée';1;0
+e;6387564;'discordance ventriculo-artérielle isolée';1;0
+e;15323457;'communication interventriculaire isolée';1;0
+e;6426473;'bactérie pathogène isolée non identifiée';1;0
+e;15323449;'campagne isolée';1;0
+e;1826502;'absence congénitale isolée du clitoris';1;0
+e;1827881;'aplasie vaginale isolée avec utérus fonctionnel';1;0
+e;1829332;'calcification nodulaire isolée de Winer';1;0
+e;1832689;'ectopie isolée et congénitale du cristallin';1;0
+e;1833973;'fibrose avec rétraction isolée du droit inférieur';1;0
+e;1832690;'ectopie isolée et congénitale du cristallin récessive';1;0
+e;1832691;'ectopie isolée et secondaire ou tardive du cristallin';1;0
+e;6448009;'réduction ouverte de fracture isolée du plancher de l'orbite par voie transantrale';1;0
+e;6427637;'protéinurie isolée avec lésions morphologiques précisées';1;0
+e;6441137;'réduction ouverte de fracture isolée du plancher de l'orbite par voie périorbitaire';1;0
+e;6447942;'non-compaction ventriculaire gauche isolée à transmission liée à l'x';1;0
+e;1836094;'hyperplasie adénomateuse isolée du sein';1;0
+e;6443181;'non-compaction isolée du ventricule gauche liée à l'x';1;0
+e;6449771;'insuffisance isolée de l'hormone lutéinisante';1;0
+e;6439827;'non-compaction isolée du ventricule gauche à transmission liée à l'x';1;0
+e;15321848;'La maison se dresse isolée sur la colline.';1;0
+e;6447002;'insuffisance isolée de l'hormone folliculostimulante';1;0
+e;3225328;'fracture isolée de la diaphyse du radius';1;0
+e;1849962;'dyskératose folliculaire isolée';1;0
+e;3416022;'transistor à effet de champ à grille isolée';777;0
+e;4490008;'hyperkératose palmoplantaire diffuse isolée autosomique dominante';1;0
+e;1848533;'calcification nodulaire isolée de la peau de Winer';1;0
+e;2527558;'langue isolée';1;0
+e;2602828;'transistor bipolaire à grille isolée';777;0
+e;3225323;'fracture isolée de la diaphyse de l'ulna';1;0
+e;1848903;'angéite isolée du système nerveux central';1;0
+e;1804577;'amylose cutanée primitive isolée de Gutmann-Freudenthal';1;0
+e;1858906;'dolichocéphalie isolée';777;0
+e;388048;'zone isolée';1;50
+e;151514;'dextrocardie isolée';1;50
+e;182105;'dommage par une particule isolée';1;50
+e;182246;'effet d'une particule isolée';1;50
+e;183638;'perturbation par une particule isolée';1;50
+r;396790774;162832;6291241;11;25
+r;299030016;162832;6298245;11;25
+r;300185417;162832;6325028;11;25
+r;301453945;162832;6338916;11;25
+r;301487131;162832;6341833;11;25
+r;305006681;162832;6395760;11;25
+r;302969070;162832;6368802;11;25
+r;303265814;162832;6374054;11;25
+r;304476822;162832;6386959;11;25
+r;304994953;162832;6394224;11;25
+r;305458954;162832;6408933;11;25
+r;305467070;162832;6410102;11;25
+r;374236709;162832;14718927;11;25
+r;399981606;162832;6348997;11;25
+r;400053430;162832;6356234;11;25
+r;302133250;162832;6361108;11;26
+r;304998381;162832;6395178;11;26
+r;313063591;162832;6300443;11;26
+r;368703076;162832;14532430;11;26
+r;368703143;162832;14532433;11;26
+r;299913762;162832;6319878;11;27
+r;305308919;162832;6406098;11;27
+r;315693202;162832;12116622;11;27
+r;121517577;162832;6441163;11;28
+r;121545562;162832;6438045;11;28
+r;122687813;162832;6431035;11;28
+r;299914623;162832;6319945;11;28
+r;305461699;162832;6409410;11;28
+r;121549188;162832;6437632;11;29
+r;121550011;162832;6437545;11;29
+r;122716707;162832;6427316;11;29
+r;121501708;162832;6442923;11;30
+r;220868150;162832;9959153;11;30
+r;222658972;162832;9992152;11;30
+r;419779326;162832;15323453;11;30
+r;419780765;162832;15323455;11;30
+r;419780774;162832;15302201;11;30
+r;419802607;162832;15323441;11;30
+r;304487698;162832;6387564;11;31
+r;419723704;162832;15323457;11;31
+r;122723098;162832;6426473;11;32
+r;419678118;162832;15323449;11;32
+r;29841180;162832;1826502;11;33
+r;29922498;162832;1827881;11;34
+r;29939500;162832;1829332;11;34
+r;29972844;162832;1832689;11;34
+r;29984487;162832;1833973;11;34
+r;29971671;162832;1832690;11;35
+r;29973254;162832;1832691;11;35
+r;121455980;162832;6448009;11;35
+r;122714101;162832;6427637;11;35
+r;121517853;162832;6441137;11;36
+r;121456570;162832;6447942;11;37
+r;30005236;162832;1836094;11;38
+r;121499427;162832;6443181;11;40
+r;121049709;162832;6449771;11;43
+r;121529553;162832;6439827;11;43
+r;417032317;162832;15321848;11;45
+r;121465277;162832;6447002;11;47
+r;77656304;162832;3225328;11;51
+r;29861343;162832;1849962;11;53
+r;87307227;162832;3416022;11;56
+r;100013796;162832;4490008;11;58
+r;29868098;162832;1848533;11;58
+r;52463586;162832;2527558;11;58
+r;55566354;162832;2602828;11;58
+r;77655917;162832;3225323;11;60
+r;29866447;162832;1848903;11;61
+r;29524072;162832;1804577;11;67
+r;30090909;162832;1858906;11;69
+r;12549213;162832;388048;11;103
+r;8622296;162832;151514;11;163
+r;8639544;162832;182105;11;163
+r;8639773;162832;182246;11;163
+r;8642121;162832;183638;11;163

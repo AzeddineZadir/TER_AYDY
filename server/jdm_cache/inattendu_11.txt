@@ -1,0 +1,28 @@
+
+e;16822;'inattendu';1;170
+e;6356121;'effet thérapeutique inattendu';1;0
+e;6352997;'effet inattendu de médicaments thérapeutiques';1;0
+e;6357849;'inattendu favorable effet médicamenteux positif';1;0
+e;1773276;'de manière inattendue';1;0
+e;15283022;'effet indésirable grave inattendu';1;0
+e;11359034;'Visiteur inattendu';777;0
+e;1832737;'effet indésirable inattendu';1;0
+e;10459202;'Le Visiteur inattendu';777;0
+e;10135679;'Quelque chose d'inattendu';777;0
+e;353322;'fait inattendu';1;50
+e;349580;'détail inattendu';1;50
+e;390666;'événement inattendu';1;50
+e;226915;'avantage inattendu';1;54
+r;301804543;16822;6356121;11;25
+r;301748908;16822;6352997;11;26
+r;302034105;16822;6357849;11;27
+r;29134205;16822;1773276;11;28
+r;419832990;16822;15283022;11;30
+r;291262975;16822;11359034;11;32
+r;29974276;16822;1832737;11;34
+r;261018176;16822;10459202;11;41
+r;236680977;16822;10135679;11;42
+r;12689965;16822;353322;11;102
+r;12704897;16822;349580;11;103
+r;12539339;16822;390666;11;104
+r;8696547;16822;226915;11;161

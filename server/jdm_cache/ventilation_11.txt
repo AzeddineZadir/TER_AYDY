@@ -1,0 +1,296 @@
+
+e;124000;'ventilation';1;104
+e;6292022;'complication d'une ventilation thérapeutique';1;0
+e;6347565;'ventilation volontaire maximale basse';1;0
+e;6286569;'ventilation artificielle invasive';1;0
+e;6288686;'différences de la ventilation régionale dues à la compliance inégale';1;0
+e;6291680;'ventilation en relaxation de pression';1;0
+e;6294913;'ventilation obligatoire intermittente synchronisée';1;0
+e;6296373;'ventilation en pression positive non effractive';1;0
+e;6300751;'ventilation en pression positive continue biphasique';1;0
+e;6300795;'ventilation à haute fréquence';1;0
+e;6301201;'ventilation cpap';1;0
+e;6301590;'différences de la ventilation régionale dues à des voies bronchiques de longueur inégale';1;0
+e;6303340;'ventilation liquide totale';1;0
+e;6304380;'ventilation passive';1;0
+e;6306996;'rapport ventilation perfusion';1;0
+e;6308293;'assistance interactive à la ventilation';1;0
+e;6308317;'ventilation liquide par fluorocarbone';1;0
+e;6315097;'ventilation diminuée';1;0
+e;6323753;'ventilation à relâchements de pression';1;0
+e;6327029;'ventilation sous pression positive continue';1;0
+e;6327609;'répartition anormale de la ventilation';1;0
+e;6334012;'ventilation de l'oreille moyenne';1;0
+e;6341237;'ventilation spontanée en pression positive variable';1;0
+e;6343754;'ventilation liquidienne partielle';1;0
+e;6344572;'ventilation inégale';1;0
+e;6351500;'différences de la ventilation régionale dues à la résistance locale des voies respiratoires';1;0
+e;6354186;'ventilation par oscillations';1;0
+e;6355505;'ventilation sous pression positive non effractive';1;0
+e;6355637;'sevrage de la ventilation artificielle';1;0
+e;6355859;'différences de la ventilation régionale dues à la pesanteur';1;0
+e;6362013;'rapports ventilation perfusion';1;0
+e;6365746;'rapports perfusion ventilation';1;0
+e;6366447;'différences de la ventilation régionale dues au stress inégalement réparti';1;0
+e;6370420;'ventilation en oscillation haute fréquence';1;0
+e;6377161;'répartition de la ventilation';1;0
+e;6377843;'ventilation volontaire maximale élevée';1;0
+e;6380142;'ventilation en pression positive intermittente';1;0
+e;6382705;'ventilation avec oscillation';1;0
+e;6384284;'ventilation assistée en pression positive variable';1;0
+e;6386545;'ventilation en pression positive à haute fréquence';1;0
+e;6395964;'ventilation active';1;0
+e;6404612;'ventilation nasale en pression positive continue';1;0
+e;6406696;'sevrage de la ventilation mécanique';1;0
+e;6407081;'ventilation sous pression positive intermittente';1;0
+e;6407681;'trouble de la ventilation';1;0
+e;6409801;'ventilation proportionnelle assistée';1;0
+e;6410959;'ventilation spontanée en pression positive à deux niveaux';1;0
+e;6411583;'ventilation avec oscillations';1;0
+e;6411978;'ventilation liquidienne totale';1;0
+e;12193854;'identification du type de type de ventilation';1;0
+e;6356255;'ventilation non effractive en pression positive';1;0
+e;6292807;'ventilation nasale spontanée en pression positive continue';1;0
+e;6317913;'ventilation par jet';1;0
+e;6303049;'ventilation liquide partielle';1;0
+e;6366797;'contrôle neural de la ventilation mécanique';1;0
+e;6308193;'ventilation liquidienne par fluorocarbone';1;0
+e;6385868;'ventilation artificielle non invasive';1;0
+e;6345887;'ventilation obligatoire intermittente';1;0
+e;6341652;'différences de la ventilation régionale';1;0
+e;6371352;'ventilation volontaire maximale';1;0
+e;13683753;'ventilation industrielle';777;0
+e;6355143;'ventilation en pression positive';1;0
+e;6317857;'jet ventilation haute fréquence';1;0
+e;14653489;'Système de ventilation';777;0
+e;6409008;'complication de ventilation artificielle';1;0
+e;15472565;'ventilation spontanée';1;0
+e;6300488;'lésion pulmonaire due à la ventilation mécanique';1;0
+e;6319320;'pression de ventilation artificielle haute';1;0
+e;6346985;'appareil de ventilation spontanée à pression expiratoire positive';1;0
+e;16156760;'ventilation mécanique assistée';777;0
+e;6303024;'ventilation volontaire maximale anormale';1;0
+e;6325718;'appareils de ventilation à pression négative';1;0
+e;6341432;'ventilation maximale volontaire';1;0
+e;6344076;'ventilation difficile';1;0
+e;6375749;'ventilation à pression positive à haute fréquence';1;0
+e;6290569;'appareils de ventilation artificielle';1;0
+e;6342596;'poumon de ventilation du nouveau-né';1;0
+e;5837174;'jet-ventilation';777;0
+e;6427802;'rapport perfusion ventilation';1;0
+e;6431753;'conductrice d'installation de chauffage et de ventilation';1;0
+e;6431060;'ventilation spontanée à aide inspiratoire';1;0
+e;6424176;'lésion pulmonaire induite par la ventilation mécanique';1;0
+e;12108098;'type de ventilation';1;0
+e;5574257;'ventilation assistée proportionnelle';777;0
+e;6425405;'différences de la ventilation régionale dues à la pression pleurale';1;0
+e;15332417;'cheminée de ventilation';1;0
+e;15332414;'conduit de ventilation';1;0
+e;15332418;'conduite de ventilation';1;0
+e;6430633;'ventilation ppc';1;0
+e;6422664;'tests de ventilation';1;0
+e;15472567;'canal de ventilation';1;0
+e;1837200;'jet ventilation';1;0
+e;15263697;'On les entassait dans des cachots minuscules sans ventilation.';1;0
+e;1831979;'diagramme ventilation x fréquence';1;0
+e;5979784;'ventilation mécanique contrôlée';777;0
+e;1832282;'dommages dus à la ventilation mécanique';1;0
+e;6426806;'répartition normale de la ventilation';1;0
+e;6444655;'conducteur d'installation de chauffage et de ventilation';1;0
+e;11391016;'ventilation par insufflation';777;0
+e;11932621;'système de ventilation';1;8
+e;6533204;'ventilation maxima-minute';1;0
+e;13302366;'ventilation buccale';1;0
+e;13302367;'ventilation mixte';1;0
+e;13302368;'ventilation nasale';1;0
+e;13775036;'253 différences de la ventilation régionale';1;0
+e;2355651;'valve mitrale ou ventilation mécanique';1;0
+e;3248519;'pneumopathie infectieuse sous ventilation assistée';1;0
+e;1848006;'ventilation assistée contrôlée intermittente';1;0
+e;1848004;'méthodes de ventilation artificielle';1;0
+e;2322696;'ventilation-perfusion';1;0
+e;1848007;'ventilation avec pression positive expiratoire';1;0
+e;1848017;'ventilation par bouche à bouche';1;0
+e;2355648;'ventilation invasive';1;0
+e;2580000;'gaine de ventilation';1;0
+e;1848016;'ventilation minute';1;0
+e;1848015;'ventilation mécanique en pression positive';1;0
+e;1848014;'ventilation maximale indirecte';1;0
+e;1848012;'ventilation manuelle';1;0
+e;2355252;'ventilation à pression positive';777;0
+e;1848011;'ventilation imposée variable';1;0
+e;2355660;'ventilation spontanée avec aide inspiratoire';1;0
+e;1822957;'ventilation maximale minute';1;0
+e;1848010;'ventilation en pression assistée';1;0
+e;2354795;'ventilation assistée contrôlée';1;0
+e;1848005;'réglage de la ventilation artificielle';1;0
+e;1844288;'scintigraphie pulmonaire par ventilation';1;0
+e;1848013;'ventilation maximale';1;0
+e;1848009;'ventilation contrôlée intermittente';1;0
+e;1848003;'ventilation artificielle à haute fréquence par oscillations';1;0
+e;1848018;'ventilation par haute fréquence';1;0
+e;1848008;'ventilation contrôlée';1;0
+e;1843230;'rapport ventilation-perfusion';1;0
+e;385359;'tunnel à ventilation forcée';1;50
+e;386446;'ventilation en hyperpression';1;50
+e;386445;'ventilation ascendante';1;50
+e;386449;'ventilation secondaire';1;50
+e;386448;'ventilation naturelle';1;50
+e;386447;'ventilation forcée';1;50
+e;313884;'ventilation assistée';1;2
+e;313885;'ventilation mécanique';777;2
+e;313892;'ventilation artificielle des poumons';1;2
+e;313895;'ventilation pulmonaire';777;2
+e;166792;'air de ventilation';1;50
+e;236843;'ventilation en pression positive continue';1;50
+e;313713;'ventilation non invasive';1;2
+e;209671;'ventilation alvéolaire';1;50
+e;277758;'ventilation artificielle';777;50
+e;197684;'coefficient de ventilation pulmonaire de Grehant';1;50
+r;396795362;124000;6292022;11;25
+r;301688870;124000;6347565;11;25
+r;298183400;124000;6286569;11;25
+r;298370945;124000;6288686;11;25
+r;298483097;124000;6291680;11;25
+r;298864124;124000;6294913;11;25
+r;298888990;124000;6296373;11;25
+r;299132884;124000;6300751;11;25
+r;299136531;124000;6300795;11;25
+r;299167173;124000;6301201;11;25
+r;299220266;124000;6301590;11;25
+r;299347656;124000;6303340;11;25
+r;299364637;124000;6304380;11;25
+r;299521678;124000;6306996;11;25
+r;299568951;124000;6308293;11;25
+r;299569420;124000;6308317;11;25
+r;299650415;124000;6315097;11;25
+r;300156286;124000;6323753;11;25
+r;300204916;124000;6327029;11;25
+r;300208998;124000;6327609;11;25
+r;301194510;124000;6334012;11;25
+r;301482575;124000;6341237;11;25
+r;301513146;124000;6343754;11;25
+r;301540959;124000;6344572;11;25
+r;301740253;124000;6351500;11;25
+r;301756209;124000;6354186;11;25
+r;301801843;124000;6355505;11;25
+r;301803753;124000;6355637;11;25
+r;301803790;124000;6355859;11;25
+r;302134158;124000;6362013;11;25
+r;302188046;124000;6365746;11;25
+r;302191468;124000;6366447;11;25
+r;302978154;124000;6370420;11;25
+r;303630683;124000;6377161;11;25
+r;303635364;124000;6377843;11;25
+r;303763998;124000;6380142;11;25
+r;303977809;124000;6382705;11;25
+r;303987936;124000;6384284;11;25
+r;304383675;124000;6386545;11;25
+r;305009208;124000;6395964;11;25
+r;305299100;124000;6404612;11;25
+r;305312421;124000;6406696;11;25
+r;305316822;124000;6407081;11;25
+r;305318166;124000;6407681;11;25
+r;305463126;124000;6409801;11;25
+r;305470206;124000;6410959;11;25
+r;305473875;124000;6411583;11;25
+r;305481232;124000;6411978;11;25
+r;316565662;124000;12193854;11;25
+r;319053109;124000;6356255;11;25
+r;319059941;124000;6292807;11;25
+r;319061920;124000;6317913;11;25
+r;319073257;124000;6303049;11;25
+r;319073758;124000;6366797;11;25
+r;319074690;124000;6308193;11;25
+r;319076358;124000;6385868;11;25
+r;341101239;124000;6345887;11;25
+r;341088236;124000;6341652;11;25
+r;341161436;124000;6371352;11;25
+r;347436903;124000;13683753;11;25
+r;349085583;124000;6355143;11;25
+r;349253789;124000;6317857;11;25
+r;372571626;124000;14653489;11;25
+r;400991461;124000;6409008;11;25
+r;395794939;124000;15472565;11;25
+r;397525653;124000;6300488;11;25
+r;398553584;124000;6319320;11;25
+r;399975527;124000;6346985;11;25
+r;423909948;124000;16156760;11;25
+r;299338309;124000;6303024;11;26
+r;300191269;124000;6325718;11;26
+r;301482275;124000;6341432;11;26
+r;301523097;124000;6344076;11;26
+r;319108208;124000;6375749;11;26
+r;298433744;124000;6290569;11;27
+r;301492209;124000;6342596;11;27
+r;116499678;124000;5837174;11;28
+r;122712809;124000;6427802;11;28
+r;122681952;124000;6431753;11;29
+r;122687573;124000;6431060;11;29
+r;122740881;124000;6424176;11;29
+r;315497754;124000;12108098;11;29
+r;110609351;124000;5574257;11;30
+r;122731347;124000;6425405;11;31
+r;419704943;124000;15332417;11;31
+r;419729759;124000;15332414;11;31
+r;419729849;124000;15332418;11;31
+r;122690933;124000;6430633;11;32
+r;122752687;124000;6422664;11;32
+r;419678751;124000;15472567;11;32
+r;30015075;124000;1837200;11;34
+r;419518675;124000;15263697;11;34
+r;29965522;124000;1831979;11;35
+r;117915310;124000;5979784;11;35
+r;29967458;124000;1832282;11;36
+r;122720610;124000;6426806;11;36
+r;121486208;124000;6444655;11;38
+r;292526376;124000;11391016;11;38
+r;307764332;124000;11932621;11;38
+r;121911398;124000;6533204;11;42
+r;338395499;124000;13302366;11;44
+r;338396994;124000;13302367;11;44
+r;338400803;124000;13302368;11;44
+r;348984279;124000;13775036;11;50
+r;47587215;124000;2355651;11;51
+r;78642009;124000;3248519;11;52
+r;29870509;124000;1848006;11;53
+r;29870532;124000;1848004;11;54
+r;33710504;124000;2322696;11;54
+r;29870498;124000;1848007;11;55
+r;29870440;124000;1848017;11;56
+r;47587234;124000;2355648;11;56
+r;52983544;124000;2580000;11;56
+r;29870444;124000;1848016;11;57
+r;29870448;124000;1848015;11;57
+r;29870458;124000;1848014;11;57
+r;29870470;124000;1848012;11;57
+r;47115491;124000;2355252;11;58
+r;29870474;124000;1848011;11;59
+r;47587174;124000;2355660;11;59
+r;29768477;124000;1822957;11;60
+r;29870480;124000;1848010;11;60
+r;41255161;124000;2354795;11;60
+r;29870526;124000;1848005;11;61
+r;29888893;124000;1844288;11;62
+r;29870466;124000;1848013;11;63
+r;29870486;124000;1848009;11;63
+r;29870536;124000;1848003;11;63
+r;29870434;124000;1848018;11;66
+r;29870494;124000;1848008;11;66
+r;29894169;124000;1843230;11;68
+r;12559937;124000;385359;11;101
+r;12555593;124000;386446;11;102
+r;12555595;124000;386445;11;104
+r;12555581;124000;386449;11;105
+r;12555585;124000;386448;11;106
+r;12555589;124000;386447;11;107
+r;8814276;124000;313884;11;160
+r;8814278;124000;313885;11;160
+r;8814292;124000;313892;11;160
+r;8814297;124000;313895;11;160
+r;8630447;124000;166792;11;161
+r;8704273;124000;236843;11;161
+r;8811921;124000;313713;11;161
+r;8684038;124000;209671;11;162
+r;8745603;124000;277758;11;163
+r;8663788;124000;197684;11;164

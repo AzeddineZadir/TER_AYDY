@@ -1,0 +1,2024 @@
+
+e;41417;'coup';1;1424
+e;6288696;'phénomène du coup de canif';1;0
+e;6333430;'coup ou heurt contre paroi ou plongeoir de piscine';1;0
+e;6343808;'coup ou heurt contre fond en sautant ou en plongeant dans des eaux peu profondes';1;0
+e;6353788;'coup de soleil du deuxième degré';1;0
+e;6370769;'coup de vent péronier';1;0
+e;6386145;'main en coup de vent';1;0
+e;6401098;'coup de chaleur et insolation';1;0
+e;6416597;'coup de canne ou palet de hockey';1;0
+e;6289832;'coup de fouet cervical antéropostérieur';1;0
+e;13683806;'coup du chapeau à la Gordie Howe';777;0
+e;13685007;'coup d'État de 2019 en Bolivie';777;0
+e;13738123;'coup d'État de la Légion et le pogrom de Bucarest';777;0
+e;6302898;'coup de soleil du premier degré';1;0
+e;14159673;'boire le coup de l'étrier';1;0
+e;14159866;'être sur le coup';1;0
+e;14159768;'donner un coup d'épée dans l'eau';1;0
+e;14566707;'coup de pied de volée';777;0
+e;14638745;'coup au but';1;0
+e;14639334;'départ du coup';1;0
+e;14774311;'un coup d'État';777;0
+e;14903152;'papa t'es plus dans l'coup';777;0
+e;6406957;'douleur en coup de couteau';1;0
+e;15437253;'filer un coup de pouce';1;0
+e;15516128;'un coup de fouet';1;0
+e;6359046;'morsure ou coup donné par un crocodile ou un alligator';1;0
+e;6374542;'morsure ou coup donné par un animal marin';1;0
+e;16243439;'se faire tuer d'un coup de couteau';1;0
+e;6288680;'coup de baïonnette';1;0
+e;6293473;'coup de chaleur et coup de soleil';1;0
+e;6319417;'coup de soleil du troisième degré';1;0
+e;6348760;'lésions en coup de sabre';1;0
+e;6352053;'coup de balle ou ballon lancé';1;0
+e;12990500;'coup de sifflet final';1;4
+e;14323472;'faire un coup d'Etat';1;0
+e;14506257;'attendre un coup de téléphone';1;0
+e;14506258;'attendre un coup de fil';1;0
+e;14510856;'avoir pris un coup de vieux';1;0
+e;14536397;'petit coup vite fait';1;0
+e;14538203;'coup foireux';1;0
+e;14538204;'coup du siècle';1;0
+e;14539988;'prendre un coup sur la tête';1;10
+e;14561338;'coup au moral';1;0
+e;14566620;'coup vite fait';1;0
+e;14566621;'coup en passant';1;0
+e;14584261;'se donner un petit coup de rouge';1;0
+e;14635378;'avoir un coup de moins bien';1;2
+e;14670896;'avoir un coup d'avance';1;0
+e;14671090;'tuer d'un coup de couteau';1;2
+e;14724044;'coup rapide';1;0
+e;15012929;'coup d'État de 2020 au Mali';777;0
+e;15569499;'préparer son coup';1;6
+e;16567392;'coup de force du 3 juin 1907';777;0
+e;5793982;'Boire un petit coup';777;0
+e;13540707;'actions coup de poing';1;0
+e;13540933;'asséner un coup de poing';1;0
+e;6089016;'Au douzième coup de minuit';777;0
+e;6087217;'coup légal';777;0
+e;10589334;'Trois milliards d'un coup';777;0
+e;10589333;'Gros coup à Dodge City';777;0
+e;10897084;'plan coup de faucille';777;0
+e;16243466;'donner un coup de couteau à quelqu'un';1;0
+e;16389474;'donner un coup de fouet à';1;0
+e;16389473;'donner un coup de fouet à quelqu'un';1;0
+e;16276850;'donner un coup de frein à [qch]';1;0
+e;16276853;'donner un coup de frein à quelque chose';1;0
+e;16554929;'donner un coup de torchon';1;0
+e;9958047;'coup d'État au Guatemala en 1954';777;0
+e;9958105;'coup d'État du 11 septembre 1973 au Chili';777;0
+e;10903497;'Un coup d'aile';777;0
+e;15420653;'d'un coup d'?il';1;0
+e;15300908;'d'un coup d'oeil';1;0
+e;15573010;'d'un grand coup de balai';1;0
+e;16031337;'d'un seul coup d'aile';1;0
+e;15375338;'d'un seul coup d'oeil';1;0
+e;15375339;'d'un seul coup d'un seul';1;0
+e;16043000;'de coup de baguette magique';1;0
+e;15575804;'dernier coup de reins';1;0
+e;15210889;'discuter le coup';1;0
+e;15985375;'donnant un coup de corne';1;0
+e;15529538;'donnant un coup de coude dans les côtes';1;0
+e;15325435;'donnant un coup de fil';1;0
+e;15830783;'donnant un coup de pied';1;0
+e;15252618;'donnant un coup de pied dans la fourmilière';1;0
+e;15364323;'donnant un coup de téléphone';1;0
+e;15324506;'donnant un coup de tête';1;0
+e;16043951;'donner coup canif dans le contrat';1;0
+e;16029764;'donner le coup d'envoi de [qch]';1;0
+e;16029766;'donner le coup d'envoi de quelque chose';1;0
+e;16043958;'donner le coup de fion à';1;0
+e;15266526;'donner le coup de grâce à';1;0
+e;15288615;'donner le feu vert, valider, donner le coup d'envoi, lancer, donner le signal du départ, donner une approbation';1;0
+e;15196511;'donner un brusque coup de frein';1;0
+e;15443031;'donner un coup d'arrêt à [qch]';1;0
+e;15490732;'donner un coup d'arrêt à quelque chose';1;0
+e;15523666;'donner un coup d'oeil à';1;0
+e;16043972;'donner un coup de bec à';1;0
+e;15596114;'donner un coup de boule à';1;0
+e;15443979;'donner un coup de boule à [qqn]';1;0
+e;15596113;'donner un coup de boule à quelqu'un';1;0
+e;15441536;'donner un coup de brosse à [qch]';1;0
+e;15379745;'donner un coup de brosse à qch';1;0
+e;15640019;'donner un coup de brosse à quelque chose';1;0
+e;15418656;'donner un coup de canif';1;0
+e;15379565;'donner un coup de chapeau';1;0
+e;15753552;'donner un coup de chapeau à [qqn]';1;0
+e;15531524;'donner un coup de chapeau à qn/qch';1;0
+e;15753554;'donner un coup de chapeau à quelqu'un';1;0
+e;15230794;'donner un coup de chiffon';1;0
+e;15529536;'donner un coup de coude dans les côtes';1;0
+e;15529528;'donner un coup de coude à qn';1;0
+e;15418655;'donner un coup de couteau';1;0
+e;15384925;'donner un coup de couteau à qn';1;0
+e;16043973;'donner un coup de dent à';1;0
+e;16031285;'donner un coup de fil à';1;0
+e;15423522;'donner un coup de fil à [qqn]';1;0
+e;15325429;'donner un coup de fil à qn';1;0
+e;16031284;'donner un coup de fil à quelqu'un';1;0
+e;15444311;'donner un coup de fouet à [qqn]';1;0
+e;15384591;'donner un coup de frein à qch';1;0
+e;16043974;'donner un coup de griffe à';1;0
+e;16043975;'donner un coup de gueule à';1;0
+e;16043976;'donner un coup de langue à';1;0
+e;15354459;'donner un coup de main pour qch';1;0
+e;15660282;'donner un coup de main à';1;0
+e;15414804;'donner un coup de main à [qqn]';1;0
+e;15315654;'donner un coup de main à qn';1;0
+e;15660281;'donner un coup de main à quelqu'un';1;0
+e;15582377;'donner un coup de neuf à';1;0
+e;16043977;'donner un coup de patte à';1;0
+e;15417740;'donner un coup de pied aux fesses';1;0
+e;15342143;'donner un coup de pouce à quelqu'un';1;0
+e;15263509;'donner un coup de sifflet';1;0
+e;16043978;'donner un coup de télép à';1;0
+e;15661878;'donner un coup de tête à';1;0
+e;15415054;'donner un coup de tête à [qqn]';1;0
+e;15324496;'donner un coup de tête à qn';1;0
+e;15661877;'donner un coup de tête à quelqu'un';1;0
+e;15240455;'donner un coup à';1;0
+e;15365827;'donner un coup à qn';1;0
+e;15750976;'donner un coup à quelqu'un';1;0
+e;15573004;'donner un grand coup de balai';1;0
+e;15265960;'donner un grand coup pour frapper qch';1;0
+e;15315661;'donné un coup de main';1;0
+e;15242196;'donné un coup de poing dans la figure';1;0
+e;15364320;'donné un coup de téléphone';1;0
+e;15306256;'double coup de malchance';1;0
+e;16032182;'droit comme un coup de tonnerre';1;0
+e;15324501;'décision sur un coup de tête';1;0
+e;15541811;'décocher un coup à qn';1;0
+e;15313164;'défoncer d'un coup de poing';1;0
+e;15301625;'embrasser qn en coup de vent';1;0
+e;15760112;'embrasser quelqu'un en coup de vent';1;0
+e;15382828;'en cas de coup dur';1;0
+e;16044426;'en coup de fusil';1;0
+e;16044441;'en foutre un coup';1;0
+e;15772744;'en un coup';777;0
+e;15420659;'en un coup d'?il';1;0
+e;15810614;'en un coup d'oeil';1;0
+e;15426793;'en un coup de crayon';1;0
+e;15342676;'en un coup de cuiller à pot';1;0
+e;15342678;'en un coup de cuillère à pot';1;0
+e;15375337;'en un seul coup';1;0
+e;15476240;'en valoir le coup';1;0
+e;16346106;'coup d'oeil furtif';1;0
+e;16341495;'coup d'État de 1999 au Niger';777;0
+e;16168721;'coup d'État de 2021 en Birmanie';777;0
+e;16297001;'coup du droit';1;0
+e;5809141;'Viens boire un p'tit coup à la maison';777;0
+e;9957988;'coup de Prague';777;0
+e;9982208;'tentative de coup d'État en Turquie';777;0
+e;9980444;'valoir un coup de cidre';1;0
+e;9980335;'perdre un coup de dents';1;0
+e;9980241;'en fiche un coup';1;0
+e;10000458;'coup de pied direct';777;0
+e;11776000;'coup d'État de 2015 au Burkina Faso';777;0
+e;11782329;'coup d'État du 19 juin 1965';777;0
+e;15301633;'cheveux coiffés en coup de vent';1;0
+e;15695309;'comme un coup de tonnerre dans un ciel clair';1;0
+e;15319591;'complice après coup';1;0
+e;15375485;'comprendre sur le coup';1;0
+e;15431368;'coup croisé';1;0
+e;15328640;'coup d'?il furtif';1;0
+e;15420650;'coup d'?il rapide';1;0
+e;15363934;'coup d'adrénaline';1;0
+e;16042507;'coup d'air';1;0
+e;15431370;'coup d'approche';1;0
+e;15243134;'coup d'arc';1;0
+e;15288440;'coup d'audace';1;0
+e;15375366;'coup d'essai au hasard';1;0
+e;15379940;'coup d'oeil rapide';1;0
+e;15316228;'coup d'État institutionnel';1;0
+e;15316230;'coup d'État sans effusion de sang';1;0
+e;16032474;'coup de';1;0
+e;16042508;'coup de Bourse';1;0
+e;15251566;'coup de Goudi';777;0
+e;15426486;'coup de baguette magique';1;0
+e;15431378;'coup de bite';1;0
+e;15424294;'coup de c?ur';1;0
+e;15254120;'coup de carabine';1;0
+e;15581671;'coup de chapeau à X!';1;0
+e;15226864;'coup de ciseaux';1;0
+e;15569454;'coup de coude dans les côtes';1;0
+e;15522396;'coup de courant';1;0
+e;15370472;'coup de feu d'essai';1;0
+e;15370470;'coup de feu du réglage';1;0
+e;15325426;'coup de fil anonyme';1;0
+e;15387142;'coup de filet dans le milieu du grand banditisme';1;0
+e;15262387;'coup de foudre sans pluie';1;0
+e;15278866;'coup de golf';1;0
+e;15463511;'coup de jus';1;0
+e;15243949;'coup de karaté';1;0
+e;15452762;'coup de marketing';1;0
+e;15584633;'coup de massue pour le gouvernement';1;0
+e;16042509;'coup de menton';1;0
+e;15767940;'coup de mousqueton';1;0
+e;15278514;'coup de pec';1;0
+e;15570925;'coup de peinture';1;0
+e;15417680;'coup de pied arrêté';1;0
+e;15300680;'coup de pied dans le derrière';1;0
+e;16042510;'coup de pied de Vénus';1;0
+e;15300673;'coup de pied de pénalité';1;0
+e;15300682;'coup de pied placé';1;0
+e;16042511;'coup de pieds à l'étrier';1;0
+e;15242188;'coup de poing dans la figure';1;0
+e;15242190;'coup de poing dans la gueule';1;0
+e;15461326;'coup de pression';1;0
+e;15572563;'coup de queue';1;0
+e;16032160;'coup de reins';1;0
+e;16042512;'coup de saton';1;0
+e;16042513;'coup de tampon';1;0
+e;15569107;'coup de tonnerre dans un ciel bleu';1;0
+e;16042514;'coup de traître';1;0
+e;15294599;'coup de tête en sautant';1;0
+e;15259255;'coup du père françois';1;0
+e;15351085;'coup déloyal';1;0
+e;15447180;'coup en dessous de la ceinture';1;0
+e;15289676;'coup en traître';1;0
+e;15684454;'coup en vache';1;0
+e;15691386;'coup est parti tout seul';1;0
+e;15245159;'coup franc direct';1;0
+e;15685781;'coup gagnant';1;0
+e;15515497;'coup magistral';1;0
+e;15352606;'coup manqué';1;0
+e;15452765;'coup marketing';1;0
+e;15214378;'coup meurtrier';1;0
+e;15479989;'coup pendable';1;0
+e;15310738;'coup qui met K-O';1;0
+e;15289141;'coup raté';1;0
+e;15431353;'coup sacrifice';1;0
+e;15310736;'coup à assommer un b?uf';1;0
+e;15771179;'coup à assommer un boeuf';1;0
+e;15417502;'coup à blanc';1;0
+e;16354823;'coup d'il concupiscent';1;0
+e;16354824;'coup d'oeil concupiscent';1;0
+e;16360685;'avoir un gros coup de fatigue';1;0
+e;16117443;'c'est le coup de barre!';1;0
+e;5837180;'coup de Bath';777;0
+e;15486906;'coup terrible';1;0
+e;10026537;'coup d'État du 18 Brumaire';777;0
+e;10026536;'coup d'État du 18 brumaire an VIII';777;0
+e;10870079;'Un coup de rouge';777;0
+e;11029383;'coup dans les testicules';777;0
+e;11063363;'coup d'État du 28 mai 1926';777;0
+e;11806009;'coup d'État chilien de 1924';777;0
+e;11806021;'coup de Pékin';777;0
+e;11806623;'coup de pied vers l'arrière';777;0
+e;11806621;'coup de pied bas';777;0
+e;11806618;'coup de poing sauté';777;0
+e;11806617;'coup de poing retourné';777;0
+e;11806620;'coup de pied latéral';777;0
+e;11806624;'coup de pied descendant';777;0
+e;11911012;'coup d'État militaire de 2012 au Mali';777;0
+e;6397946;'coup de hache sous-mammaire';1;0
+e;6305455;'coup de fouet cervical antéro-postérieur';1;0
+e;15278519;'attrapant un coup de soleil';1;0
+e;15215220;'attraper le coup';1;0
+e;15278512;'attraper un coup de soleil';1;0
+e;16040339;'au coup de';1;0
+e;15547982;'au même coup';1;0
+e;15420615;'au premier coup d'?il';1;0
+e;15379944;'au premier coup d'oeil';1;0
+e;14625875;'auto-coup';1;0
+e;15375355;'avaler qch d'un seul coup';1;0
+e;15365547;'avoir le coup';1;0
+e;15315656;'avoir le coup de main';1;0
+e;15423155;'avoir un bon coup de pinceau';1;0
+e;15423153;'avoir un bon coup de pédale';1;0
+e;16040532;'avoir un coup dans la jupe';1;0
+e;15422258;'avoir un coup dans le nez';1;0
+e;15423167;'avoir un coup de barre';1;0
+e;15423170;'avoir un coup de blues';1;0
+e;15423171;'avoir un coup de c?ur pour [qch/qqn]';1;0
+e;15346915;'avoir un coup de chance';1;0
+e;15369432;'avoir un coup de coeur pour';1;0
+e;15431357;'avoir un coup de coeur pour [qch/qqn]';1;0
+e;15758170;'avoir un coup de foudre pour';1;0
+e;15423172;'avoir un coup de foudre pour [qqn]';1;0
+e;15489519;'avoir un coup de foudre pour quelqu'un';1;0
+e;15423173;'avoir un coup de mou';1;0
+e;15369424;'avoir... un coup de coeur';1;0
+e;15242192;'bataille au coup de poing';1;0
+e;15291458;'boire un coup de trop';1;0
+e;15291463;'boire un coup en vitesse';1;0
+e;15358530;'bon coup de fourchette';1;0
+e;15314973;'c'est un coup monté contre moi';1;0
+e;15275454;'c'est un coup à se dégoûter !';1;0
+e;15255158;'c'est un coup à se tuer';1;0
+e;15246272;'calculer son coup';1;0
+e;15232157;'campagne coup de poing';1;0
+e;15543739;'cassage de coup';1;0
+e;16165242;'coup-du-foulard';1;0
+e;16166523;'coup de pied de recentrage';1;0
+e;10955967;'coup d'Agadir';777;0
+e;10905805;'coup de speed';1;0
+e;11063360;'coup d'État du 14 mai 1915 au Portugal';777;0
+e;11083182;'mettre un coup de matraque';1;0
+e;11354145;'coup d'État du 19 septembre 2006 en Thaïlande';777;0
+e;11355850;'coup d'État égyptien de 1952';777;0
+e;11812102;'Deux tentatives de coup d'État';777;0
+e;11821076;'coup d'État de 1964 au Gabon';777;0
+e;14726763;'coup-du-crapaud';1;0
+e;14726764;'coup-du-chapeau';1;0
+e;15568985;'coup de révolver';1;0
+e;15296578;'appuyer sur la gâchette, déclencher un coup';1;0
+e;15342151;'aspect en coup de pouce';1;0
+e;16032134;'assener un coup à';1;0
+e;15479475;'assener un coup à qch';1;0
+e;15384192;'assener un coup à qn';1;0
+e;15749835;'assener un coup à quelqu'un';1;0
+e;15749837;'assener un coup à quelque chose';1;0
+e;16032135;'asséner un coup à';1;0
+e;10743982;'coup d'État du 23 février 1981 en Espagne';777;0
+e;12078214;'coup du milieu';1;0
+e;12078212;'coup de latte';1;0
+e;15370476;'Nous avons entendu un seul coup de feu.';1;0
+e;15691886;'Nous sommes sur un gros coup.';1;0
+e;15301631;'Ses cheveux blonds étaient coiffés en coup de vent.';1;0
+e;15350399;'Sois là si tu es dans le coup';1;0
+e;15301096;'Tout à coup elle s'est évanouie.';1;0
+e;15337937;'accorder un coup franc';1;0
+e;15337936;'accorder un coup franc indirect';1;0
+e;15424231;'achat coup de c?ur';1;0
+e;15369422;'achat coup de coeur';1;0
+e;15324508;'acheter qch sur un coup de tête';1;0
+e;15242194;'adresser un coup de poing à qn';1;0
+e;15425361;'agir sous le coup de la colère';1;0
+e;15246319;'aller pisser un coup';1;0
+e;1828502;'ulcération de, coup de poignard de Baclesse';1;0
+e;1831017;'coup de chaleur exogène';1;0
+e;1831018;'coup de fouet laryngien';1;0
+e;6431345;'coup de vent cubital';1;0
+e;6426415;'lésion traumatique du cou incluant le coup du lapin';1;0
+e;8214221;'mettre un coup de rabot';1;0
+e;10832004;'coup d'État militaire de 1960 en Turquie';777;0
+e;10832005;'coup d'État militaire de 1971 en Turquie';777;0
+e;11410313;'Un coup de pied aux cultes';777;0
+e;11978805;'tentative de coup d'État de 2019 au Gabon';777;0
+e;12049274;'coup du microburin';777;0
+e;12076948;'action coup de poing';1;0
+e;12081035;'protéine de coup de froid';1;0
+e;12081034;'protéine de coup de chaleur';1;0
+e;12078579;'douzième coup de midi';1;0
+e;12078213;'coup de tatane';1;0
+e;12078211;'coup de la corde à linge';1;0
+e;12078210;'coup de bonneteau';1;0
+e;15332612;'Les archéologues savaient qu'ils étaient sur un gros coup.';1;0
+e;16329302;'Le coup de poker';777;0
+e;2408524;'coup dans le dos';1;6
+e;6439441;'coup d'épée ou de poignard';1;0
+e;10313987;'coup d'État du 11 avril 2002 au Venezuela';777;0
+e;11095652;'coup d'État de Yanaon';777;0
+e;11577368;'mettre un coup de pied';1;0
+e;11768350;'coup d'État yéménite de 2014-2015';777;0
+e;15387421;'Le chat lui donna un coup de langue.';1;0
+e;15358536;'Le chien s'est gratté un bon coup.';1;0
+e;15354319;'Le coup de poing l'a déséquilibré.';1;0
+e;15283519;'Le coup l'avait rendu inconscient.';1;0
+e;15390288;'Le coup le fit pousser un cri déchirant.';1;0
+e;16169999;'coup par coup';777;0
+e;5621128;'purges suivant la tentative de coup d'État de 2016 en Turquie';777;0
+e;11341881;'coup d'État de Malet';777;0
+e;11835858;'coup d'État de Gapsin';777;0
+e;13135665;'coup à la tête';1;0
+e;1831016;'coup de chaleur d'exercice';1;0
+e;11151763;'gros coup';1;52
+e;11335668;'coup d'État du 3 septembre 1843';777;0
+e;11577220;'coup de poing descendant';777;0
+e;11781217;'coup d'État de la Saint-Sylvestre';777;0
+e;15196015;'coup pour coup';1;0
+e;2474570;'coup franc indirect';1;0
+e;9944374;'coup d'État de septembre 2006 en Thaïlande';777;0
+e;11975878;'faire un coup tordu';1;0
+e;2411027;'coup de patin';1;0
+e;2426870;'coup de rabot';1;0
+e;5811176;'coup par seconde';777;0
+e;10425275;'Coup pour coup';777;0
+e;11383878;'coup d'État du 3 juillet 2013 en Égypte';777;0
+e;11599564;'coup d'état du 13 mai';777;0
+e;12054135;'préparer un mauvais coup';1;2
+e;2396623;'donner un coup de pied dans la fourmilière';1;0
+e;2443865;'coup de gosier';1;0
+e;2445654;'coup de Jean Maillard';1;0
+e;11575231;'tentative de coup d'État de Cao Mao';777;0
+e;2446430;'donner un coup de rabot';1;0
+e;2451118;'faire coup double';1;0
+e;6445597;'coup ou heurt contre surface de l'eau';1;0
+e;11304454;'coup d'État de 2017 au Zimbabwe';777;0
+e;11325977;'coup d'état de 1809 en Suède';777;0
+e;12279450;'coup d'État du 15 juillet 1974 à Chypre';777;0
+e;2395610;'donner un coup de fer';1;0
+e;2430032;'contre-coup';1;0
+e;2461636;'en prendre un coup';1;0
+e;11174883;'coup de com';1;0
+e;10161220;'Son dernier coup d'archet';777;0
+e;10159870;'Un coup de téléphone';777;0
+e;11008299;'coup de pied au derrière';1;0
+e;2420711;'coup dans le nez';1;0
+e;2440896;'passer un coup de fer';1;0
+e;5526766;'coup de tennis de table';1;0
+e;2411418;'au coup par coup';1;0
+e;5526626;'coup de shunt';777;0
+e;5688689;'Chacun son cinéma ou Ce petit coup au coeur quand la lumière s'éteint et que le film commence';777;0
+e;8468260;'donner un coup d'arrêt';1;0
+e;8468259;'donner un coup d'arrêt brutal';1;0
+e;2376579;'sacré coup de patte';1;0
+e;2454793;'coup de plafond';1;0
+e;5557198;'Un coup de tonnerre';777;0
+e;5526625;'coup de doigt';777;0
+e;5526623;'coup du sombrero';777;0
+e;11106585;'coup d'État de Skhirat';777;0
+e;11106584;'coup d'État des aviateurs';777;0
+e;12080386;'paiement au coup par coup';1;0
+e;8749097;'aller boire un coup';1;6
+e;8964757;'un bon coup';1;0
+e;9161224;'coup de fatigue';1;0
+e;9248566;'coup du scorpion';1;0
+e;9665920;'coup d'État du 5 juillet 1977 au Pakistan';777;0
+e;9699250;'organiser un coup d'État';1;0
+e;11107943;'coup d'État du 7 novembre 1987';777;0
+e;12638973;'Le coup droit';777;0
+e;12617425;'tuer quelqu'un à coup de revolver';1;0
+e;12687079;'coup de foudre réciproque';1;0
+e;14451008;'Grand coup';777;0
+e;15770899;'Il a été tué d'un coup de revolver.';1;0
+e;15358538;'Elle s'assit et pleura un bon coup.';1;0
+e;15344695;'Elle lui lança un coup d'oeil malicieux de côté.';1;0
+e;15304843;'Je jette simplement un coup d'?il.';1;0
+e;15479797;'Il prépare quelque mauvais coup.';1;0
+e;15351562;'Il régnait tout à coup un calme quasi surnaturel.';1;0
+e;15370474;'J'ai entendu un coup de feu.';1;0
+e;15358540;'Il a donné un bon coup de pied dans le ballon.';1;0
+e;15278517;'J'ai attrapé un coup de soleil.';1;0
+e;15283674;'J'ai un coup de blues.';1;0
+e;15418885;'Il y a un coup à jouer';1;0
+e;15410273;'Il s'est effondré après avoir reçu un coup à la tête.';1;0
+e;15525107;'Il s'est suicidé d'un coup de revolver.';1;0
+e;15550175;'Il est mort sur le coup.';1;0
+e;15489225;'J'y ai repensé après coup.';1;0
+e;15524987;'Jacqueline jeta un coup d'?il par la fenêtre.';1;0
+e;14228616;'Avis de coup de vent';777;0
+e;15325432;'D'ac. Je te passerai un coup de fil.';1;0
+e;15408044;'C'est un rude coup porté aux pêcheurs britanniques.';1;0
+e;15431358;'C'est un coup pour rien';1;0
+e;15575607;'Elle est solide. Elle tiendra le coup.';1;0
+e;15496884;'Je peux dire à coup sûr ...';1;0
+e;15354456;'Je viendrai te donner un coup de main.';1;0
+e;15781378;'Je jette simplement un coup d'oeil.';1;0
+e;1781266;'coup de chance extraordinaire';1;0
+e;2360041;'coup de mazette';1;0
+e;2554482;'donner un coup de téléphone';1;0
+e;2521007;'donner un coup de fil';1;8
+e;2604686;'coup d'acré';1;0
+e;4324342;'être rayé d'un coup de plume';1;0
+e;1773579;'petit coup';1;0
+e;1773313;'donner un coup de coude';1;0
+e;1773218;'asséner un coup';1;2
+e;2287330;'sous le coup d'';2;0
+e;4228118;'coup de pied en bâton';1;0
+e;4173178;'coup de pied circulaire';1;0
+e;2325380;'coup-ci';1;0
+e;2344166;'douleur en coup de poignard';1;0
+e;3179302;'coup sur la tête';1;20
+e;3232610;'mettre un coup';1;0
+e;4332231;'coup de glaive';1;0
+e;162097;'prendre des coups';1;56
+e;580825;'vecteur d'à-coup';777;0
+e;1773576;'penser après coup';1;0
+e;1844300;'sclérodermie en coup de sabre';1;0
+e;1966140;'monter le coup à quelqu'un';1;0
+e;2552702;'coup du soir';1;0
+e;2520266;'à coup de';1;0
+e;3188299;'coup-de-boulisé';1;0
+e;3706144;'sortir boire un coup';1;0
+e;3911564;'coup de pied en marteau';1;0
+e;205902;'porter coup, porter fruit';1;50
+e;1850094;'encoche en coup d'ongle';1;0
+e;2339998;'faire à coup sûr';1;0
+e;2522565;'donner le coup de Jarnac';1;0
+e;2495445;'coup de calcaire';1;0
+e;4115960;'coup de poing marteau';1;0
+e;396378;'coup de repos';1;50
+e;1483287;'premier coup d'oeil';1;0
+e;1773315;'donner un coup de tête';1;0
+e;1781316;'donner un coup de pied dans';1;0
+e;2325421;'coup-là';1;0
+e;2594043;'porter un coup';1;0
+e;2603914;'coup d'agait';1;0
+e;2721819;'coup de canne';777;0
+e;3842515;'coup de pied retombant';1;0
+e;4490700;'gros coup sur la tête';1;0
+e;566637;'coup de publicité';777;50
+e;1350883;'coup-de-bouliser';1;0
+e;1630216;'coup de fouet cervical';1;0
+e;1773403;'faire un coup amortir';1;0
+e;1773314;'donner un coup de couteau à';1;0
+e;1773312;'donner du coup de canne à';1;0
+e;2566146;'coup de coin';1;58
+e;4085746;'coup de pied crocheté';1;0
+e;3846101;'coup de pied en croissant';1;0
+e;4333160;'coup de lune';1;0
+e;1773175;'porter un coup sec à';1;0
+e;1781317;'donner un petit coup de coude';1;0
+e;1849676;'déformation en coup de vent ulnaire';1;0
+e;2549160;'passer un coup de téléphone';1;0
+e;2495616;'coup de partie';1;0
+e;3230934;'tentative de coup d'État';1;0
+e;3792183;'coup du père François';1;0
+e;4890740;'parer un coup';1;0
+e;394276;'coup de sabot';1;50
+e;1391307;'coup de filet antidjihadiste';1;0
+e;1781497;'petit coup de coude';1;0
+e;2297933;'tout-à-coup';1;0
+e;4307643;'être sous le coup de sanctions';1;0
+e;3354004;'coup d'estoc';1;0
+e;4142783;'coup de pied fouetté';1;0
+e;4010064;'coup de pied semi-circulaire';1;0
+e;5138206;'coup bref';1;0
+e;1773486;'marque de coup';1;0
+e;1773311;'donner du coup de bec';1;0
+e;1906098;'coup de couteau dans le dos';1;4
+e;2600211;'coup-d'oeil';1;0
+e;3179838;'coup de poing direct du bras avant';1;0
+e;4152000;'coup de pied chassé';1;0
+e;2935939;'coup de poing américain';1;0
+e;1817877;'doigts en coup de vent';1;0
+e;2928645;'coup-de';1;0
+e;2937540;'Le coup de grâce';777;0
+e;385605;'un coup monté contre';1;50
+e;385604;'un coup dur pour';1;50
+e;379766;'simple coup de téléphone';1;50
+e;344720;'coup parti';1;50
+e;344655;'coup médiatique';1;50
+e;344642;'coup de serpe';1;50
+e;344641;'coup de rouquin';1;50
+e;344634;'coup de pouce supplémentaire';1;50
+e;344633;'coup de poker';1;50
+e;344622;'coup de garcette';1;50
+e;344603;'coup de bluff';1;50
+e;338886;'beau coup';1;50
+e;344723;'coup à faire';1;50
+e;344659;'coup sourd';1;50
+e;344658;'coup sec';1;50
+e;344654;'coup mortel';1;50
+e;344619;'coup de dé';1;50
+e;344616;'coup de colère';1;50
+e;344600;'coup de baguette';1;50
+e;382022;'sur un coup';1;50
+e;380765;'sous le coup de la loi';1;50
+e;378449;'sale coup pour la fanfare';1;50
+e;368580;'par un coup de baguette magique';1;50
+e;346311;'dans le coup';1;50
+e;344721;'coup politique';1;50
+e;344718;'coup forcé';1;50
+e;344707;'coup d'aile';1;50
+e;344644;'coup de sonnette';1;50
+e;344643;'coup de sonde';1;50
+e;344637;'coup de pub';1;50
+e;344626;'coup de jeune';1;52
+e;344615;'coup de collier';1;50
+e;344601;'coup de bigophone';1;50
+e;342106;'ce coup-là';1;50
+e;361071;'le coup de grâce pour';1;50
+e;344712;'coup de mine';1;50
+e;344660;'coup à tenter';1;50
+e;344656;'coup pour rien';1;50
+e;344653;'coup mixte';1;50
+e;344630;'coup de parade';1;50
+e;344614;'coup de cochon';1;50
+e;385602;'un coup de chapeau à';1;50
+e;380763;'sous le coup d'un mandat d'amener';1;50
+e;360212;'joli coup';1;50
+e;344719;'coup fumant';1;50
+e;344714;'coup de râteau';1;50
+e;344650;'coup de vent de force 6';1;50
+e;344645;'coup de taille';1;50
+e;344632;'coup de piaule';1;50
+e;344621;'coup de fer';1;50
+e;344618;'coup de cravache';1;50
+e;344612;'coup de chiffon';1;50
+e;344609;'coup de canif';1;50
+e;353578;'faux coup';1;50
+e;350472;'en dehors du coup';1;50
+e;344722;'coup suivant';1;50
+e;344716;'coup du destin';1;50
+e;344715;'coup de scie';1;50
+e;344711;'coup de lime';1;50
+e;344709;'coup d'envoi de la campagne électorale';1;50
+e;344652;'coup du ciel';1;50
+e;344648;'coup de téléphone anonyme';1;50
+e;344647;'coup de trique';1;50
+e;344635;'coup de poussier';1;50
+e;344623;'coup de gong';1;50
+e;344620;'coup de désarmement';1;50
+e;344598;'coup d'état fasciste';1;50
+e;344597;'coup d'épieu';1;50
+e;344594;'coup d'archet';1;50
+e;344593;'coup d'accélérateur';1;50
+e;381891;'sur le coup de minuit';1;50
+e;348544;'du premier coup';1;2
+e;344713;'coup de pied à la lune';1;50
+e;344657;'coup rude';1;50
+e;344628;'coup de malchance';1;50
+e;344613;'coup de cisaille';1;50
+e;344605;'coup de boutoir';1;50
+e;344604;'coup de botte';1;50
+e;379000;'sec comme un coup de trique';1;50
+e;345994;'d'un seul coup de un seul';1;50
+e;344651;'coup de vieux';1;50
+e;344649;'coup de téléphone urgent';1;50
+e;344636;'coup de projecteur';1;50
+e;344631;'coup de pelle';1;50
+e;344624;'coup de hache';1;50
+e;344611;'coup de caveçon';1;50
+e;344607;'coup de bélier';1;50
+e;388015;'zone de coup';1;50
+e;385631;'un petit coup';1;50
+e;382024;'sur un coup de poker';1;50
+e;381890;'sur le coup de midi';1;50
+e;380764;'sous le coup d'une sanction';1;50
+e;372713;'premier coup de pioche';1;50
+e;372347;'pour ce coup-ci';1;50
+e;367450;'opération coup de poing';1;50
+e;344710;'coup de brosse';1;50
+e;344708;'coup d'attaque';1;50
+e;344646;'coup de tonnerre dans un ciel serein';1;50
+e;344639;'coup de revolver';1;50
+e;344627;'coup de klaxon';1;50
+e;344617;'coup de corne';1;50
+e;344599;'coup d'étrivière';1;50
+e;344596;'coup d'estramaçon';1;50
+e;385603;'un coup de pouce à';1;50
+e;385601;'un coup';1;58
+e;382640;'sérieux coup de main';1;50
+e;382023;'sur un coup de dé';1;50
+e;372348;'pour ce coup-là';1;50
+e;358037;'hors du coup';1;50
+e;344640;'coup de rosé';1;50
+e;344638;'coup de revers';1;50
+e;344629;'coup de matraque';1;52
+e;344625;'coup de hasard';1;50
+e;344610;'coup de canon';1;50
+e;344608;'coup de cafard';1;50
+e;344606;'coup de bricole';1;50
+e;344602;'coup de bleu';1;50
+e;344595;'coup d'envoi de la campagne présidentielle';1;50
+e;74092;'coup-de-poing';1;54
+e;72259;'après-coup';1;52
+e;40394;'à-coup';1;54
+e;263525;'coup-de-pied';1;4
+e;222036;'coup-franc';1;50
+e;330835;'donner un coup d'éponge';1;64
+e;330794;'donner un coup';1;60
+e;319897;'faire le coup de l'année';1;50
+e;322395;'rater son coup';1;6
+e;324457;'coup de pute';1;74
+e;324548;'céphalée en coup-de tonnerre';1;50
+e;324549;'céphalée en coup de tonnerre';1;50
+e;326432;'tué sur le coup';1;50
+e;329778;'filer un coup de main';1;50
+e;222034;'coup-franc direct';1;50
+e;222035;'coup-franc indirect';1;50
+e;316567;'coup de glotte';1;50
+e;181765;'contre-coup d'État';1;50
+e;197346;'ce coup-ci';1;50
+e;270579;'coup-de-poing américain';1;50
+e;314116;'tuer un âne à coup de figues';1;50
+e;229303;'d'un coup de baguette magique';1;4
+e;238870;'être tué sur le coup';1;54
+e;239448;'être sur un coup';1;50
+e;242257;'un grand coup de balai';1;50
+e;255814;'sur un coup de tête';1;34
+e;259669;'être sûr de son coup';1;50
+e;260720;'d'un coup sec';1;12
+e;262917;'mettre un coup de boule';1;50
+e;103968;'pour le coup';1;50
+e;167786;'coup violent';1;64
+e;168492;'coup d'un soir';1;14
+e;208597;'sur le coup de';1;50
+e;210253;'au premier coup d'il';1;50
+e;218352;'Sept d'un coup';1;4
+e;218478;'sept d'un coup';1;66
+e;220098;'coup de genou';1;50
+e;221203;'coup de pompe';1;12
+e;223879;'coup de blues';1;2
+e;225407;'coup de pierres';1;50
+e;225688;'coup d'État militaire';1;52
+e;229024;'avoir un coup de sang';1;50
+e;230278;'coup de mou';1;6
+e;231473;'coup bas';1;8
+e;231714;'tirer un coup';1;12
+e;231715;'préparer un sale coup';1;52
+e;231716;'sale coup';1;14
+e;233697;'coup tordu';1;50
+e;236586;'faire un coup de pute';1;18
+e;237349;'coup de pied retourné';1;50
+e;237479;'donner un coup de poing';1;50
+e;237480;'donner un coup de pied';1;2
+e;238265;'jeter un coup d'oeil';1;62
+e;238945;'coup d'arrêt';1;50
+e;241131;'coup à boire';1;38
+e;242258;'passer un coup de balai';1;56
+e;244384;'coup de la panne';1;52
+e;245516;'coup de volant';1;62
+e;245517;'donner un coup de volant';1;52
+e;245940;'fort coup de vent';1;50
+e;247403;'passer un coup de fil';1;48
+e;247657;'coup pourri';1;52
+e;247695;'faire un sale coup';1;56
+e;248481;'coup de pied de réparation';1;50
+e;250559;'donner un coup de balai';1;60
+e;250704;'coup de folie';1;18
+e;251739;'tirer son coup';1;32
+e;252302;'coup de bâton';1;70
+e;253021;'tirer un coup de feu';1;52
+e;253102;'coup de rouge';1;24
+e;253104;'payer un coup à boire';1;70
+e;253229;'payer le coup';1;52
+e;253231;'payer un coup';1;64
+e;254350;'avis de coup de vent';1;8
+e;254820;'coup d'ongle';1;6
+e;255640;'donner un coup de bourre';1;50
+e;256073;'coup de pied aux fesses';1;50
+e;256074;'donner un coup de pied au cul';1;50
+e;256075;'prendre un coup de pied au cul';1;50
+e;256076;'coup de pied au cul';1;2
+e;256470;'coup de peigne';1;60
+e;256712;'trace de coup';1;50
+e;257448;'donner un coup de boule';1;68
+e;257647;'coup de bambou';1;52
+e;257649;'coup de marteau';1;4
+e;258614;'coup de canif dans le contrat';1;70
+e;258643;'donner un coup de canif dans le contrat';1;50
+e;258741;'coup de chaud';1;50
+e;258967;'gros coup de mou';1;50
+e;258968;'petit coup de mou';1;50
+e;258969;'petit coup de déprime';1;50
+e;258970;'gros coup de déprime';1;50
+e;258971;'coup de déprime';1;10
+e;259087;'prendre un coup';1;16
+e;259113;'prendre un coup de soleil';1;52
+e;259116;'avoir un coup dans l'aile';1;50
+e;259197;'donner un dernier coup de rein';1;2
+e;259198;'donner un coup de rein';1;2
+e;259199;'coup de rein';1;2
+e;259246;'donner un coup de frein';1;10
+e;259282;'donner un coup d'accélérateur';1;2
+e;260827;'faire le coup de la panne';1;50
+e;260851;'coup de lance';1;52
+e;261316;'coup de palette';1;50
+e;261325;'donner un coup de cul';1;50
+e;261431;'passer un coup d'éponge';1;82
+e;261459;'coup d'éponge';1;20
+e;263004;'avoir un bon coup de crayon';1;50
+e;263005;'coup de crayon';1;50
+e;263524;'coup de racloir';1;50
+e;263663;'mettre un coup de collier';1;50
+e;35224;'sur le coup';1;50
+e;57957;'coup de pouce';1;98
+e;59423;'coup de langue';1;70
+e;59851;'coup de tonnerre';1;60
+e;60605;'prendre un coup de vieux';1;50
+e;63504;'coup de téléphone';1;82
+e;66693;'à coup sûr';1;52
+e;67095;'à coup';1;50
+e;101039;'coup de dent';1;50
+e;101791;'coup monté';1;52
+e;108290;'avoir le coup de foudre';1;50
+e;109520;'coup de dés';1;50
+e;116870;'tenir le coup';1;70
+e;120849;'monter le coup';1;52
+e;140572;'d'un seul coup';1;74
+e;142514;'Un coup de dés jamais n'abolira le hasard';1;50
+e;143023;'d'un coup de baguette';1;50
+e;144274;'d'un coup';1;134
+e;160093;'coup de pédale';1;54
+e;160096;'coup de couteau';1;72
+e;160558;'coup de raquette';1;52
+e;161248;'coup de pioche';1;50
+e;161787;'coup de pinceau';1;62
+e;162767;'coup de veine';1;52
+e;162965;'coup de fourchette';1;58
+e;164977;'coup de boule';1;112
+e;166133;'coup de pistolet';1;68
+e;166251;'grand coup';1;52
+e;171267;'après coup';1;4
+e;171455;'du coup';1;50
+e;171484;'en coup de vent';1;50
+e;204215;'ne pas en fiche un coup';1;50
+e;204246;'ne pas perdre un coup de dents';1;50
+e;206018;'pour un coup';1;50
+e;207149;'réussir son coup';1;50
+e;208401;'sous le coup de';1;52
+e;208942;'tenter le coup';1;54
+e;210545;'coup d'accordéon';1;50
+e;210546;'coup d'arraché';1;50
+e;210547;'coup d'assommoir';1;50
+e;210548;'coup d'encensoir';1;50
+e;210674;'donner le coup d'envoi';1;52
+e;288861;'un seul coup d'oeil';777;50
+e;302968;'au premier coup';777;50
+e;33724;'coup de tabac';1;56
+e;44600;'coup de vent';1;134
+e;46070;'coup de soleil';1;186
+e;49925;'coup de chien';1;50
+e;50046;'coup de grâce';1;50
+e;50110;'coup de froid';1;74
+e;52111;'coup de gueule';1;58
+e;52266;'coup de patte';1;52
+e;55060;'coup de sang';1;78
+e;69621;'coup de balai';1;62
+e;77009;'coup de maître';1;50
+e;80363;'coup de théâtre';1;74
+e;85232;'pêche au coup';1;50
+e;86630;'coup de griffe';1;60
+e;90137;'coup du sort';1;60
+e;90914;'coup de filet';1;66
+e;97061;'monter un coup';1;50
+e;123796;'coup de chance';1;90
+e;124199;'coup de chapeau';1;50
+e;129376;'coup de fouet';1;68
+e;129476;'allonger un coup';1;50
+e;140182;'coup de l'étrier';1;50
+e;141648;'coup d'Etat';1;58
+e;143122;'tout d'un coup';1;102
+e;143614;'coup d'acculée';1;50
+e;144785;'coup d'épaule';1;50
+e;145175;'donner un coup d'épaule';1;50
+e;146479;'coup d'oeil';1;72
+e;152022;'coup de semonce';1;50
+e;152023;'coup d'envoi';1;50
+e;154129;'coup de fusil';1;84
+e;154806;'avoir un coup de pompe';1;58
+e;154890;'coup d'épée dans l'eau';1;50
+e;156012;'avoir un bon coup de fourchette';1;66
+e;158015;'donner un coup de pouce';1;76
+e;158387;'coup d'épée';1;56
+e;159531;'coup de feu';1;98
+e;171546;'encore un coup';1;50
+e;172606;'coup double';1;50
+e;176819;'coup droit';1;4
+e;176820;'coup du chapeau';1;50
+e;179031;'coup de mer';1;52
+e;179197;'coup de piston';1;60
+e;181766;'contre coup d'État';1;50
+e;181826;'coup dans l'eau';1;50
+e;181827;'coup d'autorité';1;50
+e;181828;'coup de bourre';1;14
+e;181829;'coup de cur';1;50
+e;181830;'coup de force';1;52
+e;181831;'coup de godiche';1;50
+e;181832;'coup de Jarnac';1;54
+e;181833;'coup de pied de coin';1;50
+e;181834;'coup de pied de l'âne';1;142
+e;181835;'coup de talon';1;50
+e;181836;'coup de Trafalgar';1;50
+e;181837;'coup d'éclat';1;50
+e;181838;'coup d'essai';1;50
+e;181839;'coup d'il';1;50
+e;181840;'coup sûr';1;50
+e;181841;'coup unique';1;50
+e;183832;'premier coup d'il';1;50
+e;186102;'être étourdi comme le premier coup de matines';1;50
+e;186601;'ne pas valoir un coup de cidre';1;50
+e;195783;'agir sur un coup de sa tête';1;50
+e;195784;'agir sur un coup de tête';1;52
+e;203454;'marquer le coup';1;78
+e;204020;'monter le coup à';1;50
+e;204021;'monter le coup à qqn';1;50
+e;205190;'passer en coup de vent';1;50
+e;206160;'prendre le coup de main';1;50
+e;264147;'avoir le coup d'oeil';1;50
+e;264696;'avoir un petit coup dans l'aile';1;50
+e;267946;'coup fatal';1;50
+e;268889;'coup droit à deux mains';1;50
+e;272921;'coup de poussière';777;50
+e;273308;'coup d'État du 18 fructidor an V';777;50
+e;290161;'coup de circuit';777;50
+e;292194;'coup d'État du 2 décembre 1851';777;50
+e;303399;'coup d'ais';777;50
+e;132368;'coup fourré';1;62
+e;133938;'coup de bec';1;50
+e;136729;'coup de bol';1;61
+e;137468;'coup d'état';1;126
+e;137514;'coup d'État';1;50
+e;138870;'coup d'épingle';1;50
+e;185630;'avoir le coup d'il';1;50
+e;185706;'avoir un coup de foudre';1;18
+e;185707;'avoir un coup de marteau';1;50
+e;185965;'donner un coup de patte à quelqu'un';1;50
+e;186217;'faire le coup de fusil';1;50
+e;186218;'faire le coup de poing';1;50
+e;186284;'faire un mauvais coup';1;50
+e;186327;'frapper un grand coup';1;54
+e;186382;'jeter un coup d'il';1;50
+e;186450;'manquer son coup';1;50
+e;186738;'porter coup';1;50
+e;186918;'tirer à coup perdu';1;50
+e;187013;'valoir le coup';1;50
+e;195685;'accuser le coup';1;58
+e;196005;'aplatir le coup';1;50
+e;196035;'appliquer un coup';1;50
+e;196141;'assener un coup';1;50
+e;196585;'avoir le coup de foudre pour';1;52
+e;196669;'avoir reçu un coup de bambou';1;50
+e;196721;'avoir un joli coup de fourchette';1;50
+e;198945;'du même coup';1;50
+e;200113;'être sous le coup';1;50
+e;311269;'avis ou avertissement de coup de vent';777;50
+e;312652;'coup de pierre';1;50
+e;11789;'tout à coup';1;88
+e;15927;'mauvais coup';1;66
+e;17538;'coup de pot';1;94
+e;19562;'donner un coup de main';1;86
+e;23012;'coup de chaleur';1;52
+e;198038;'coup de barre';1;60
+e;198039;'coup de coude';1;56
+e;198040;'coup de fil';1;106
+e;198041;'coup de fion';1;50
+e;198042;'coup de frein';1;70
+e;198043;'coup de génie';1;50
+e;198044;'coup de grisou';1;64
+e;198045;'coup de massue';1;50
+e;198046;'coup de pied en vache';1;50
+e;198047;'coup de poignard dans le dos';1;54
+e;198048;'coup de raclette';1;50
+e;198049;'coup de serviette';1;50
+e;198050;'coup de sifflet';1;82
+e;198051;'coup de torchon';1;54
+e;198052;'coup de vague';1;50
+e;198053;'coup du berger';1;50
+e;198054;'coup en dessous';1;50
+e;198864;'donner un coup de bec';1;50
+e;198865;'donner un coup de chapeau à';1;50
+e;198866;'donner un coup de cloche à';1;50
+e;198867;'donner un coup de collier';1;50
+e;198868;'donner un coup de fouet';1;58
+e;198869;'donner un coup de fourchette';1;50
+e;198870;'donner un coup de peigne';1;52
+e;200516;'faire le coup de feu';1;50
+e;7937;'en mettre un coup';1;52
+e;2215;'coup de coeur';1;78
+e;4050;'avoir un coup de coeur';1;68
+e;161118;'coup de poignard';1;74
+e;162401;'sans coup férir';1;52
+e;74052;'coup de tête';1;108
+e;164889;'coup du lapin';1;50
+e;161910;'bon coup';1;82
+e;97160;'coup de foudre';1;236
+e;152965;'coup de poing';1;368
+e;46054;'coup dur';1;72
+e;153766;'coup franc';1;120
+e;22147;'coup de main';1;120
+e;185772;'boire un coup';1;150
+e;260664;'tirer au coup par coup';1;50
+e;206931;'rendre coup pour coup';1;50
+e;76932;'coup sur coup';1;54
+e;75511;'coup de pied';1;292
+r;104317386;41417;317065;11;16
+r;298382780;41417;6288696;11;25
+r;301148120;41417;6333430;11;25
+r;301512904;41417;6343808;11;25
+r;301755589;41417;6353788;11;25
+r;302984410;41417;6370769;11;25
+r;304384058;41417;6386145;11;25
+r;305199498;41417;6401098;11;25
+r;305682289;41417;6416597;11;25
+r;340940778;41417;6289832;11;25
+r;347638813;41417;13683806;11;25
+r;347878801;41417;13685007;11;25
+r;348394747;41417;13738123;11;25
+r;349206685;41417;6302898;11;25
+r;359716945;41417;14159673;11;25
+r;359718240;41417;14159866;11;25
+r;359719182;41417;14159768;11;25
+r;370210584;41417;14566707;11;25
+r;371983220;41417;14638745;11;25
+r;372101616;41417;14639334;11;25
+r;375506479;41417;14774311;11;25
+r;389746215;41417;14903152;11;25
+r;400938456;41417;6406957;11;25
+r;395468493;41417;15437253;11;25
+r;397364701;41417;15516128;11;25
+r;400090956;41417;6359046;11;25
+r;400568632;41417;6374542;11;25
+r;425166824;41417;13683813;11;25
+r;425166835;41417;13683815;11;25
+r;426186036;41417;16243439;11;25
+r;298387123;41417;6288680;11;26
+r;298594985;41417;6293473;11;26
+r;299888441;41417;6319417;11;26
+r;301722318;41417;6348760;11;26
+r;301743378;41417;6352053;11;26
+r;337341842;41417;12990500;11;26
+r;364498554;41417;14323472;11;26
+r;368356039;41417;14506257;11;26
+r;368356058;41417;14506258;11;26
+r;368488344;41417;14510856;11;26
+r;368766004;41417;14536397;11;26
+r;369446793;41417;14538203;11;26
+r;369446805;41417;14538204;11;26
+r;369563886;41417;14539988;11;26
+r;369970738;41417;14561338;11;26
+r;370160763;41417;14566620;11;26
+r;370160779;41417;14566621;11;26
+r;370566078;41417;14584261;11;26
+r;371744878;41417;14635378;11;26
+r;373064512;41417;14670896;11;26
+r;373069528;41417;14671090;11;26
+r;374342128;41417;14724044;11;26
+r;392086157;41417;15012929;11;26
+r;399120656;41417;15569499;11;26
+r;435287574;41417;16567392;11;26
+r;114453033;41417;5793982;11;27
+r;343055591;41417;13540707;11;27
+r;343074113;41417;13540933;11;27
+r;119663205;41417;6089016;11;28
+r;119670166;41417;6087217;11;28
+r;264468610;41417;10589334;11;29
+r;264468614;41417;10589333;11;29
+r;273206214;41417;10897084;11;29
+r;434385156;41417;16243466;11;29
+r;434385170;41417;16389474;11;29
+r;434385182;41417;16389473;11;29
+r;434385196;41417;16276850;11;29
+r;434385210;41417;16276853;11;29
+r;434959583;41417;16554929;11;29
+r;220802806;41417;9958047;11;30
+r;220807024;41417;9958105;11;30
+r;274295016;41417;10903497;11;30
+r;419759416;41417;15420653;11;30
+r;419759420;41417;15300908;11;30
+r;419759451;41417;15573010;11;30
+r;419759549;41417;16031337;11;30
+r;419759555;41417;15375338;11;30
+r;419759561;41417;15375339;11;30
+r;419766389;41417;16043000;11;30
+r;419773243;41417;15575804;11;30
+r;419783826;41417;15210889;11;30
+r;419788861;41417;15985375;11;30
+r;419788867;41417;15529538;11;30
+r;419788875;41417;15325435;11;30
+r;419788881;41417;15830783;11;30
+r;419788887;41417;15252618;11;30
+r;419788897;41417;15364323;11;30
+r;419788903;41417;15324506;11;30
+r;419789199;41417;16043951;11;30
+r;419790745;41417;16029764;11;30
+r;419790753;41417;16029766;11;30
+r;419790763;41417;16043958;11;30
+r;419790769;41417;15266526;11;30
+r;419790875;41417;15288615;11;30
+r;419791765;41417;15196511;11;30
+r;419791813;41417;15443031;11;30
+r;419791823;41417;15490732;11;30
+r;419791835;41417;15523666;11;30
+r;419791843;41417;16043972;11;30
+r;419791853;41417;15596114;11;30
+r;419791863;41417;15443979;11;30
+r;419791877;41417;15596113;11;30
+r;419791891;41417;15441536;11;30
+r;419791903;41417;15379745;11;30
+r;419791913;41417;15640019;11;30
+r;419791925;41417;15418656;11;30
+r;419791933;41417;15379565;11;30
+r;419791940;41417;15753552;11;30
+r;419791954;41417;15531524;11;30
+r;419791966;41417;15753554;11;30
+r;419791980;41417;15230794;11;30
+r;419791988;41417;15529536;11;30
+r;419792000;41417;15529528;11;30
+r;419792010;41417;15418655;11;30
+r;419792018;41417;15384925;11;30
+r;419792030;41417;16043973;11;30
+r;419792038;41417;16031285;11;30
+r;419792048;41417;15423522;11;30
+r;419792062;41417;15325429;11;30
+r;419792074;41417;16031284;11;30
+r;419792088;41417;15444311;11;30
+r;419792100;41417;15384591;11;30
+r;419792112;41417;16043974;11;30
+r;419792120;41417;16043975;11;30
+r;419792128;41417;16043976;11;30
+r;419792136;41417;15354459;11;30
+r;419792148;41417;15660282;11;30
+r;419792158;41417;15414804;11;30
+r;419792171;41417;15315654;11;30
+r;419792183;41417;15660281;11;30
+r;419792196;41417;15582377;11;30
+r;419792204;41417;16043977;11;30
+r;419792212;41417;15417740;11;30
+r;419792224;41417;15342143;11;30
+r;419792236;41417;15263509;11;30
+r;419792244;41417;16043978;11;30
+r;419792252;41417;15661878;11;30
+r;419792262;41417;15415054;11;30
+r;419792276;41417;15324496;11;30
+r;419792288;41417;15661877;11;30
+r;419792302;41417;15240455;11;30
+r;419792308;41417;15365827;11;30
+r;419792316;41417;15750976;11;30
+r;419792346;41417;15573004;11;30
+r;419792355;41417;15265960;11;30
+r;419793393;41417;15315661;11;30
+r;419793399;41417;15242196;11;30
+r;419793407;41417;15364320;11;30
+r;419797728;41417;15306256;11;30
+r;419799589;41417;16032182;11;30
+r;419805468;41417;15324501;11;30
+r;419806027;41417;15541811;11;30
+r;419809365;41417;15313164;11;30
+r;419834762;41417;15301625;11;30
+r;419834800;41417;15760112;11;30
+r;419837824;41417;15382828;11;30
+r;419838360;41417;16044426;11;30
+r;419840008;41417;16044441;11;30
+r;419843845;41417;15772744;11;30
+r;419843847;41417;15420659;11;30
+r;419843853;41417;15810614;11;30
+r;419843858;41417;15426793;11;30
+r;419843864;41417;15342676;11;30
+r;419843872;41417;15342678;11;30
+r;419843899;41417;15375337;11;30
+r;419843952;41417;15476240;11;30
+r;434381616;41417;16346106;11;30
+r;434381623;41417;16341495;11;30
+r;434381632;41417;16168721;11;30
+r;434381641;41417;16153220;11;30
+r;434381644;41417;16153221;11;30
+r;434381650;41417;16297001;11;30
+r;113281706;41417;5809141;11;31
+r;220802105;41417;9957988;11;31
+r;222101008;41417;9982208;11;31
+r;222103242;41417;9980444;11;31
+r;222103825;41417;9980335;11;31
+r;222104242;41417;9980241;11;31
+r;227667219;41417;10000458;11;31
+r;277925470;41417;10992516;11;31
+r;302364887;41417;11776000;11;31
+r;303728557;41417;11782329;11;31
+r;419706005;41417;15301633;11;31
+r;419720970;41417;15695309;11;31
+r;419725279;41417;15319591;11;31
+r;419725926;41417;15375485;11;31
+r;419743683;41417;15431368;11;31
+r;419743688;41417;15328640;11;31
+r;419743695;41417;15420650;11;31
+r;419743702;41417;15363934;11;31
+r;419743707;41417;16042507;11;31
+r;419743711;41417;15431370;11;31
+r;419743716;41417;15243134;11;31
+r;419743721;41417;15288440;11;31
+r;419743726;41417;15375366;11;31
+r;419743730;41417;15379940;11;31
+r;419743737;41417;15316228;11;31
+r;419743744;41417;15316230;11;31
+r;419743753;41417;16032474;11;31
+r;419743756;41417;16042508;11;31
+r;419743763;41417;15251566;11;31
+r;419743770;41417;15426486;11;31
+r;419743782;41417;15431378;11;31
+r;419743789;41417;15424294;11;31
+r;419743796;41417;15254120;11;31
+r;419743803;41417;15581671;11;31
+r;419743813;41417;15226864;11;31
+r;419743820;41417;15569454;11;31
+r;419743832;41417;15522396;11;31
+r;419743839;41417;15370472;11;31
+r;419743851;41417;15370470;11;31
+r;419743863;41417;15325426;11;31
+r;419743875;41417;15387142;11;31
+r;419743891;41417;15262387;11;31
+r;419743905;41417;15278866;11;31
+r;419743914;41417;15463511;11;31
+r;419743921;41417;15243949;11;31
+r;419743928;41417;15452762;11;31
+r;419743935;41417;15584633;11;31
+r;419743947;41417;16042509;11;31
+r;419743954;41417;15767940;11;31
+r;419743961;41417;15278514;11;31
+r;419743968;41417;15570925;11;31
+r;419743975;41417;15417680;11;31
+r;419743987;41417;15300680;11;31
+r;419743999;41417;16042510;11;31
+r;419744011;41417;15300673;11;31
+r;419744023;41417;15300682;11;31
+r;419744035;41417;16042511;11;31
+r;419744044;41417;15242188;11;31
+r;419744055;41417;15242190;11;31
+r;419744066;41417;15461326;11;31
+r;419744073;41417;15572563;11;31
+r;419744080;41417;16032160;11;31
+r;419744089;41417;16042512;11;31
+r;419744096;41417;16042513;11;31
+r;419744103;41417;15569107;11;31
+r;419744117;41417;16042514;11;31
+r;419744124;41417;15294599;11;31
+r;419744136;41417;15259255;11;31
+r;419744143;41417;15351085;11;31
+r;419744148;41417;15447180;11;31
+r;419744158;41417;15289676;11;31
+r;419744163;41417;15684454;11;31
+r;419744168;41417;15691386;11;31
+r;419744177;41417;15245159;11;31
+r;419744187;41417;15685781;11;31
+r;419744192;41417;15515497;11;31
+r;419744197;41417;15352606;11;31
+r;419744202;41417;15452765;11;31
+r;419744207;41417;15214378;11;31
+r;419744212;41417;15479989;11;31
+r;419744220;41417;15310738;11;31
+r;419744226;41417;15289141;11;31
+r;419744231;41417;15431353;11;31
+r;419744236;41417;15310736;11;31
+r;419744243;41417;15771179;11;31
+r;419744250;41417;15417502;11;31
+r;431925618;41417;16354823;11;31
+r;431925586;41417;16354824;11;31
+r;434373850;41417;16360685;11;31
+r;434376609;41417;16117443;11;31
+r;114016706;41417;5837180;11;32
+r;396710852;41417;15486906;11;32
+r;227641046;41417;10026537;11;32
+r;227641075;41417;10026536;11;32
+r;272639953;41417;10870079;11;32
+r;277925476;41417;10992515;11;32
+r;279576114;41417;11029383;11;32
+r;280530765;41417;11063363;11;32
+r;304190064;41417;11806009;11;32
+r;304208354;41417;11806021;11;32
+r;304373050;41417;11806623;11;32
+r;304373084;41417;11806621;11;32
+r;304374055;41417;11806618;11;32
+r;304374240;41417;11806617;11;32
+r;304374785;41417;11806620;11;32
+r;304375397;41417;11806624;11;32
+r;307493717;41417;11911012;11;32
+r;318165705;41417;6397946;11;32
+r;340965521;41417;6305455;11;32
+r;419617763;41417;15278519;11;32
+r;419617806;41417;15215220;11;32
+r;419617866;41417;15278512;11;32
+r;419618744;41417;16040339;11;32
+r;419619919;41417;15547982;11;32
+r;419620548;41417;15420615;11;32
+r;419620557;41417;15379944;11;32
+r;419622959;41417;14625875;11;32
+r;419625191;41417;15375355;11;32
+r;419633483;41417;15365547;11;32
+r;419633487;41417;15315656;11;32
+r;419636802;41417;15423155;11;32
+r;419636810;41417;15423153;11;32
+r;419636949;41417;16040532;11;32
+r;419636954;41417;15422258;11;32
+r;419636959;41417;15423167;11;32
+r;419636963;41417;15423170;11;32
+r;419636968;41417;15423171;11;32
+r;419636974;41417;15346915;11;32
+r;419636979;41417;15369432;11;32
+r;419636987;41417;15431357;11;32
+r;419636997;41417;15758170;11;32
+r;419637005;41417;15423172;11;32
+r;419637017;41417;15489519;11;32
+r;419637029;41417;15423173;11;32
+r;419639513;41417;15369424;11;32
+r;419648833;41417;15242192;11;32
+r;419657270;41417;15291458;11;32
+r;419657278;41417;15291463;11;32
+r;419657932;41417;15358530;11;32
+r;419671775;41417;15314973;11;32
+r;419671784;41417;15275454;11;32
+r;419671788;41417;15255158;11;32
+r;419677154;41417;15246272;11;32
+r;419677896;41417;15232157;11;32
+r;419689058;41417;15543739;11;32
+r;423699703;41417;16165242;11;32
+r;423813866;41417;16166523;11;32
+r;276017149;41417;10955967;11;33
+r;273700798;41417;10905805;11;33
+r;280418683;41417;11063360;11;33
+r;283109339;41417;11083182;11;33
+r;291078214;41417;11354145;11;33
+r;291158028;41417;11355850;11;33
+r;304713532;41417;11812102;11;33
+r;305044209;41417;11821076;11;33
+r;374411383;41417;14726763;11;33
+r;374411393;41417;14726764;11;33
+r;399117133;41417;15568985;11;33
+r;419605021;41417;15296578;11;33
+r;419611469;41417;15342151;11;33
+r;419612254;41417;16032134;11;33
+r;419612260;41417;15479475;11;33
+r;419612270;41417;15384192;11;33
+r;419612278;41417;15749835;11;33
+r;419612288;41417;15749837;11;33
+r;419614757;41417;16032135;11;33
+r;269396589;41417;10743982;11;34
+r;315124485;41417;12078214;11;34
+r;315124495;41417;12078212;11;34
+r;419514613;41417;15370476;11;34
+r;419516329;41417;15691886;11;34
+r;419544360;41417;15301631;11;34
+r;419546454;41417;15350399;11;34
+r;419554119;41417;15301096;11;34
+r;419570157;41417;15337937;11;34
+r;419570163;41417;15337936;11;34
+r;419572044;41417;15424231;11;34
+r;419572051;41417;15369422;11;34
+r;419572361;41417;15324508;11;34
+r;419578791;41417;15242194;11;34
+r;419582160;41417;15425361;11;34
+r;419587944;41417;15246319;11;34
+r;29927962;41417;1828502;11;35
+r;29956374;41417;1831017;11;35
+r;29956496;41417;1831018;11;35
+r;122685404;41417;6431345;11;35
+r;122723535;41417;6426415;11;35
+r;138743589;41417;8214221;11;35
+r;270761500;41417;10832004;11;35
+r;270761489;41417;10832005;11;35
+r;293475535;41417;11410313;11;35
+r;311540741;41417;11978805;11;35
+r;313649882;41417;12049274;11;35
+r;314746100;41417;12076948;11;35
+r;315109568;41417;12081035;11;35
+r;315109575;41417;12081034;11;35
+r;315122542;41417;12078579;11;35
+r;315124490;41417;12078213;11;35
+r;315124500;41417;12078211;11;35
+r;315124507;41417;12078210;11;35
+r;419495001;41417;15332612;11;35
+r;431588528;41417;16329302;11;35
+r;53879383;41417;2408524;11;36
+r;121533024;41417;6439441;11;36
+r;196762524;41417;9044202;11;36
+r;252671528;41417;10313987;11;36
+r;281418569;41417;11095652;11;36
+r;297642811;41417;11577368;11;36
+r;301774144;41417;11768350;11;36
+r;419491217;41417;15387421;11;36
+r;419491313;41417;15358536;11;36
+r;419491530;41417;15354319;11;36
+r;419491536;41417;15283519;11;36
+r;419491544;41417;15390288;11;36
+r;434381655;41417;16169999;11;36
+r;110813739;41417;5621128;11;37
+r;290546044;41417;11341881;11;37
+r;306355322;41417;11835858;11;37
+r;337338005;41417;13135665;11;37
+r;29955756;41417;1831016;11;38
+r;196760757;41417;9044201;11;38
+r;283545691;41417;11151763;11;38
+r;290432583;41417;11335668;11;38
+r;297619971;41417;11577220;11;38
+r;303731582;41417;11781217;11;38
+r;419744217;41417;15196015;11;38
+r;55938807;41417;2474570;11;39
+r;220214803;41417;9944374;11;39
+r;310778404;41417;11975878;11;39
+r;54242886;41417;2411027;11;40
+r;54602211;41417;2426870;11;40
+r;113274440;41417;5811176;11;40
+r;256494470;41417;10425275;11;40
+r;292091490;41417;11383878;11;40
+r;297915543;41417;11599564;11;40
+r;313787587;41417;12054135;11;40
+r;53223327;41417;2396623;11;41
+r;55315206;41417;2443865;11;41
+r;55359037;41417;2445654;11;41
+r;297505488;41417;11575231;11;41
+r;55372608;41417;2446430;11;42
+r;55487869;41417;2451118;11;42
+r;121477764;41417;6445597;11;42
+r;289478334;41417;11304454;11;42
+r;290110804;41417;11325977;11;42
+r;319010363;41417;12279450;11;42
+r;53206269;41417;2395610;11;43
+r;54936765;41417;2430032;11;43
+r;55690355;41417;2461636;11;43
+r;285990701;41417;11174883;11;43
+r;238096970;41417;10161220;11;44
+r;238102813;41417;10159870;11;44
+r;278658666;41417;11008299;11;44
+r;54471078;41417;2420711;11;45
+r;55256904;41417;2440896;11;45
+r;109436354;41417;5526766;11;45
+r;54251280;41417;2411418;11;46
+r;109432977;41417;5526626;11;46
+r;112188733;41417;5688689;11;46
+r;146519764;41417;8468260;11;46
+r;146519772;41417;8468259;11;46
+r;52223062;41417;2376579;11;47
+r;55566720;41417;2454793;11;47
+r;109879883;41417;5557198;11;47
+r;109432913;41417;5526625;11;48
+r;109432543;41417;5526623;11;48
+r;282475783;41417;11106585;11;48
+r;282475790;41417;11106584;11;48
+r;315113085;41417;12080386;11;48
+r;178699120;41417;8749097;11;50
+r;193805501;41417;8964757;11;50
+r;205952982;41417;9161224;11;50
+r;211504748;41417;9248566;11;50
+r;217080443;41417;9665920;11;50
+r;217429664;41417;9699250;11;50
+r;282183402;41417;11107943;11;50
+r;323778773;41417;12638973;11;50
+r;324937250;41417;12617425;11;50
+r;324969382;41417;12687079;11;50
+r;366732403;41417;14451008;11;50
+r;412565426;41417;15770899;11;50
+r;397500025;41417;15358538;11;50
+r;397499191;41417;15344695;11;50
+r;402154276;41417;15304843;11;50
+r;402109084;41417;15479797;11;50
+r;402109256;41417;15351562;11;50
+r;402120648;41417;15370474;11;50
+r;402102742;41417;15358540;11;50
+r;402120266;41417;15278517;11;50
+r;402121732;41417;15283674;11;50
+r;402110720;41417;15418885;11;50
+r;402109444;41417;15410273;11;50
+r;402109598;41417;15525107;11;50
+r;402105858;41417;15550175;11;50
+r;402151521;41417;15489225;11;50
+r;402152059;41417;15524987;11;50
+r;393807893;41417;14228616;11;50
+r;395028749;41417;15325432;11;50
+r;395180075;41417;15408044;11;50
+r;395582691;41417;15431358;11;50
+r;399661875;41417;15575607;11;50
+r;402273329;41417;15496884;11;50
+r;402274913;41417;15354456;11;50
+r;414592275;41417;15781378;11;50
+r;14071404;41417;396260;11;51
+r;29226041;41417;1781266;11;51
+r;50076071;41417;2360041;11;51
+r;52450646;41417;2554482;11;51
+r;52466514;41417;2521007;11;51
+r;53828232;41417;2586001;11;51
+r;55473817;41417;2604686;11;51
+r;78440649;41417;3239810;11;51
+r;78440652;41417;3239809;11;51
+r;98652124;41417;4324342;11;51
+r;29133347;41417;1773579;11;52
+r;29134097;41417;1773313;11;52
+r;29134401;41417;1773218;11;52
+r;33104223;41417;2287330;11;52
+r;95154001;41417;4228118;11;52
+r;95157092;41417;4173178;11;52
+r;23501030;41417;1391311;11;53
+r;23501095;41417;1391312;11;53
+r;33837809;41417;2325380;11;53
+r;34489761;41417;2344166;11;53
+r;76705541;41417;3179302;11;53
+r;76978159;41417;3183036;11;53
+r;78376524;41417;3232610;11;53
+r;85845793;41417;3348494;11;53
+r;98822559;41417;4332231;11;53
+r;360520;41417;162097;11;54
+r;18170846;41417;580825;11;54
+r;29133355;41417;1773576;11;54
+r;29888843;41417;1844300;11;54
+r;31663821;41417;1966140;11;54
+r;52451501;41417;2552702;11;54
+r;52466841;41417;2520266;11;54
+r;53828219;41417;2586000;11;54
+r;77162548;41417;3184622;11;54
+r;77366774;41417;3188299;11;54
+r;92512666;41417;3706144;11;54
+r;95172381;41417;3911564;11;54
+r;14343098;41417;205902;11;55
+r;29860514;41417;1850094;11;55
+r;34316656;41417;2339998;11;55
+r;52465858;41417;2522565;11;55
+r;52478560;41417;2495445;11;55
+r;86895829;41417;3385381;11;55
+r;95160403;41417;4115960;11;55
+r;14071401;41417;396262;11;56
+r;14120718;41417;396378;11;56
+r;24521762;41417;1483287;11;56
+r;29134081;41417;1773315;11;56
+r;29225851;41417;1781316;11;56
+r;33843808;41417;2325421;11;56
+r;54875954;41417;2594043;11;56
+r;55459778;41417;2603914;11;56
+r;62236512;41417;2721819;11;56
+r;85845913;41417;3348498;11;56
+r;85845924;41417;3348499;11;56
+r;95176378;41417;3842515;11;56
+r;100020976;41417;4490700;11;57
+r;16975276;41417;566637;11;57
+r;23150039;41417;1350883;11;57
+r;25718351;41417;1630216;11;57
+r;29133821;41417;1773403;11;57
+r;29134089;41417;1773314;11;57
+r;29134105;41417;1773312;11;57
+r;52445234;41417;2566146;11;57
+r;76978180;41417;3183037;11;57
+r;77092914;41417;3184621;11;57
+r;95162386;41417;4085746;11;57
+r;95176151;41417;3846101;11;57
+r;98859973;41417;4333160;11;57
+r;103585056;41417;4938150;11;57
+r;14071402;41417;396261;11;58
+r;23501109;41417;1391310;11;58
+r;29134509;41417;1773175;11;58
+r;29225845;41417;1781317;11;58
+r;29862696;41417;1849676;11;58
+r;52453158;41417;2549160;11;58
+r;52478477;41417;2495616;11;58
+r;78312838;41417;3230934;11;58
+r;86895815;41417;3385382;11;58
+r;95179187;41417;3792183;11;58
+r;101994904;41417;4890740;11;58
+r;103584879;41417;4938151;11;58
+r;13702159;41417;394276;11;59
+r;18396307;41417;586263;11;59
+r;23500954;41417;1391307;11;59
+r;29225259;41417;1781497;11;59
+r;33107719;41417;2297933;11;59
+r;96367497;41417;4307643;11;59
+r;85845972;41417;3348495;11;59
+r;85949755;41417;3354004;11;59
+r;95158964;41417;4142783;11;59
+r;95166713;41417;4010064;11;59
+r;105889684;41417;5138206;11;59
+r;18396744;41417;586262;11;60
+r;29133575;41417;1773486;11;60
+r;29134111;41417;1773311;11;60
+r;30708410;41417;1906098;11;60
+r;55139910;41417;2600211;11;60
+r;76738594;41417;3179838;11;60
+r;95158375;41417;4152000;11;60
+r;13701301;41417;394254;11;61
+r;13701299;41417;394255;11;61
+r;72208428;41417;2935939;11;61
+r;30709658;41417;1906153;11;62
+r;30709670;41417;1906154;11;64
+r;29718916;41417;1817877;11;65
+r;71811302;41417;2928645;11;65
+r;72298828;41417;2937540;11;65
+r;12558865;41417;385605;11;101
+r;12558873;41417;385604;11;101
+r;12582409;41417;379766;11;101
+r;12725583;41417;344720;11;101
+r;12725873;41417;344655;11;101
+r;12725945;41417;344642;11;101
+r;12725949;41417;344641;11;101
+r;12725977;41417;344634;11;101
+r;12725985;41417;344633;11;101
+r;12726029;41417;344622;11;101
+r;12726103;41417;344603;11;101
+r;12750071;41417;338886;11;101
+r;13210459;41417;392775;11;101
+r;12725571;41417;344723;11;102
+r;12725857;41417;344659;11;102
+r;12725861;41417;344658;11;102
+r;12725877;41417;344654;11;102
+r;12726041;41417;344619;11;102
+r;12726051;41417;344616;11;102
+r;12726115;41417;344600;11;102
+r;13210460;41417;392774;11;102
+r;12073330;41417;331202;11;103
+r;12573491;41417;382022;11;103
+r;12578349;41417;380765;11;103
+r;12588055;41417;378449;11;103
+r;12628147;41417;368580;11;103
+r;12718753;41417;346311;11;103
+r;12725579;41417;344721;11;103
+r;12725591;41417;344718;11;103
+r;12725651;41417;344707;11;103
+r;12725937;41417;344644;11;103
+r;12725941;41417;344643;11;103
+r;12725965;41417;344637;11;103
+r;12726013;41417;344626;11;103
+r;12726055;41417;344615;11;103
+r;12726111;41417;344601;11;103
+r;12736665;41417;342106;11;103
+r;12658473;41417;361071;11;104
+r;12725627;41417;344712;11;104
+r;12725853;41417;344660;11;104
+r;12725869;41417;344656;11;104
+r;12725881;41417;344653;11;104
+r;12725997;41417;344630;11;104
+r;12726059;41417;344614;11;104
+r;12558885;41417;385602;11;105
+r;12578363;41417;380763;11;105
+r;12661919;41417;360212;11;105
+r;12725587;41417;344719;11;105
+r;12725615;41417;344714;11;105
+r;12725893;41417;344650;11;105
+r;12725933;41417;344645;11;105
+r;12725989;41417;344632;11;105
+r;12726033;41417;344621;11;105
+r;12726043;41417;344618;11;105
+r;12726067;41417;344612;11;105
+r;12726079;41417;344609;11;105
+r;12688909;41417;353578;11;106
+r;12701347;41417;350472;11;106
+r;12725575;41417;344722;11;106
+r;12725607;41417;344716;11;106
+r;12725611;41417;344715;11;106
+r;12725631;41417;344711;11;106
+r;12725639;41417;344709;11;106
+r;12725885;41417;344652;11;106
+r;12725909;41417;344648;11;106
+r;12725917;41417;344647;11;106
+r;12725973;41417;344635;11;106
+r;12726025;41417;344623;11;106
+r;12726037;41417;344620;11;106
+r;12726123;41417;344598;11;106
+r;12726129;41417;344597;11;106
+r;12726145;41417;344594;11;106
+r;12726149;41417;344593;11;106
+r;12573853;41417;381891;11;107
+r;12709039;41417;348544;11;107
+r;12725619;41417;344713;11;107
+r;12725865;41417;344657;11;107
+r;12726005;41417;344628;11;107
+r;12726063;41417;344613;11;107
+r;12726095;41417;344605;11;107
+r;12726099;41417;344604;11;107
+r;12585669;41417;379000;11;108
+r;12720493;41417;345994;11;108
+r;12725889;41417;344651;11;108
+r;12725901;41417;344649;11;108
+r;12725969;41417;344636;11;108
+r;12725993;41417;344631;11;108
+r;12726021;41417;344624;11;108
+r;12726071;41417;344611;11;108
+r;12726087;41417;344607;11;108
+r;12073328;41417;331203;11;109
+r;12549339;41417;388015;11;109
+r;12558787;41417;385631;11;109
+r;12573481;41417;382024;11;109
+r;12573861;41417;381890;11;109
+r;12578357;41417;380764;11;109
+r;12611353;41417;372713;11;109
+r;12612739;41417;372347;11;109
+r;12632431;41417;367450;11;109
+r;12725635;41417;344710;11;109
+r;12725647;41417;344708;11;109
+r;12725921;41417;344646;11;109
+r;12725957;41417;344639;11;109
+r;12726009;41417;344627;11;109
+r;12726047;41417;344617;11;109
+r;12726119;41417;344599;11;109
+r;12726133;41417;344596;11;109
+r;12558879;41417;385603;11;110
+r;12558891;41417;385601;11;110
+r;12570987;41417;382640;11;110
+r;12573487;41417;382023;11;110
+r;12612737;41417;372348;11;110
+r;12670675;41417;358037;11;110
+r;12725953;41417;344640;11;110
+r;12725961;41417;344638;11;110
+r;12726001;41417;344629;11;110
+r;12726017;41417;344625;11;110
+r;12726075;41417;344610;11;110
+r;12726083;41417;344608;11;110
+r;12726091;41417;344606;11;110
+r;12726107;41417;344602;11;110
+r;12726137;41417;344595;11;110
+r;11867368;41417;74092;11;121
+r;11867610;41417;72259;11;121
+r;11872412;41417;40394;11;121
+r;11850431;41417;263525;11;122
+r;11852346;41417;222036;11;122
+r;12019618;41417;330835;11;126
+r;12015396;41417;330794;11;131
+r;9044460;41417;319897;11;148
+r;9105768;41417;322395;11;148
+r;9349602;41417;324457;11;148
+r;9349660;41417;324548;11;148
+r;9349664;41417;324549;11;148
+r;11492468;41417;326432;11;148
+r;11699166;41417;329778;11;148
+r;8879937;41417;222034;11;151
+r;8879939;41417;222035;11;151
+r;8920964;41417;316567;11;151
+r;8876062;41417;181765;11;153
+r;8877679;41417;197346;11;153
+r;8882434;41417;270579;11;153
+r;8825863;41417;314116;11;158
+r;8698188;41417;229303;11;160
+r;8705733;41417;238870;11;160
+r;8706170;41417;239448;11;160
+r;8707443;41417;242257;11;160
+r;8720312;41417;255814;11;160
+r;8725917;41417;259669;11;160
+r;8727238;41417;260720;11;160
+r;8729952;41417;262917;11;160
+r;8605532;41417;103968;11;161
+r;8631238;41417;167786;11;161
+r;8631640;41417;168492;11;161
+r;8682215;41417;208597;11;161
+r;8684939;41417;210253;11;161
+r;8690979;41417;218352;11;161
+r;8691094;41417;218478;11;161
+r;8691921;41417;220098;11;161
+r;8692661;41417;221203;11;161
+r;8694610;41417;223879;11;161
+r;8695284;41417;224963;11;161
+r;8695285;41417;224964;11;161
+r;8695286;41417;224965;11;161
+r;8695580;41417;225407;11;161
+r;8695761;41417;225688;11;161
+r;8696178;41417;226462;11;161
+r;8696179;41417;226463;11;161
+r;8697493;41417;228405;11;161
+r;8697845;41417;229024;11;161
+r;8698865;41417;230278;11;161
+r;8699576;41417;231053;11;161
+r;8699577;41417;231054;11;161
+r;8699578;41417;231055;11;161
+r;8699579;41417;231056;11;161
+r;8699891;41417;231473;11;161
+r;8700102;41417;231714;11;161
+r;8700105;41417;231715;11;161
+r;8700107;41417;231716;11;161
+r;8701711;41417;233697;11;161
+r;8704021;41417;236586;11;161
+r;8704689;41417;237349;11;161
+r;8704808;41417;237479;11;161
+r;8704811;41417;237480;11;161
+r;8705334;41417;238265;11;161
+r;8705800;41417;238945;11;161
+r;8706937;41417;241131;11;161
+r;8706946;41417;241159;11;161
+r;8706947;41417;241160;11;161
+r;8707035;41417;241298;11;161
+r;8707036;41417;241299;11;161
+r;8707446;41417;242258;11;161
+r;8708685;41417;244384;11;161
+r;8709488;41417;245516;11;161
+r;8709490;41417;245517;11;161
+r;8709686;41417;245940;11;161
+r;8710902;41417;247403;11;161
+r;8711134;41417;247657;11;161
+r;8711171;41417;247695;11;161
+r;8711873;41417;248481;11;161
+r;8713933;41417;250559;11;161
+r;8714108;41417;250704;11;161
+r;8715353;41417;251737;11;161
+r;8715354;41417;251738;11;161
+r;8715356;41417;251739;11;161
+r;8715873;41417;252302;11;161
+r;8716648;41417;253021;11;161
+r;8716750;41417;253102;11;161
+r;8716754;41417;253104;11;161
+r;8716892;41417;253229;11;161
+r;8716895;41417;253231;11;161
+r;8717837;41417;254006;11;161
+r;8717838;41417;254007;11;161
+r;8717839;41417;254008;11;161
+r;8718330;41417;254350;11;161
+r;8719020;41417;254820;11;161
+r;8719903;41417;255527;11;161
+r;8719904;41417;255528;11;161
+r;8720067;41417;255640;11;161
+r;8720694;41417;256073;11;161
+r;8720698;41417;256074;11;161
+r;8720702;41417;256075;11;161
+r;8720705;41417;256076;11;161
+r;8721253;41417;256470;11;161
+r;8721651;41417;256712;11;161
+r;8722666;41417;257448;11;161
+r;8722904;41417;257647;11;161
+r;8722908;41417;257649;11;161
+r;8724326;41417;258614;11;161
+r;8724373;41417;258643;11;161
+r;8724520;41417;258741;11;161
+r;8724844;41417;258967;11;161
+r;8724847;41417;258968;11;161
+r;8724850;41417;258969;11;161
+r;8724853;41417;258970;11;161
+r;8724855;41417;258971;11;161
+r;8725053;41417;259087;11;161
+r;8725093;41417;259113;11;161
+r;8725100;41417;259116;11;161
+r;8725213;41417;259197;11;161
+r;8725216;41417;259198;11;161
+r;8725218;41417;259199;11;161
+r;8725288;41417;259246;11;161
+r;8725348;41417;259282;11;161
+r;8727483;41417;260827;11;161
+r;8727508;41417;260851;11;161
+r;8727896;41417;261202;11;161
+r;8727899;41417;261203;11;161
+r;8727966;41417;261316;11;161
+r;8727980;41417;261325;11;161
+r;8728112;41417;261431;11;161
+r;8728160;41417;261459;11;161
+r;8729036;41417;262220;11;161
+r;8729037;41417;262221;11;161
+r;8730085;41417;263004;11;161
+r;8730087;41417;263005;11;161
+r;8730732;41417;263524;11;161
+r;8730943;41417;263663;11;161
+r;8581673;41417;35224;11;162
+r;8589612;41417;57957;11;162
+r;8590101;41417;59423;11;162
+r;8590246;41417;59851;11;162
+r;8590522;41417;60605;11;162
+r;8591514;41417;63504;11;162
+r;8592519;41417;66693;11;162
+r;8592685;41417;67095;11;162
+r;8604512;41417;101039;11;162
+r;8604765;41417;101791;11;162
+r;8607180;41417;108290;11;162
+r;8607656;41417;109520;11;162
+r;8610304;41417;116870;11;162
+r;8611673;41417;120849;11;162
+r;8619741;41417;140572;11;162
+r;8620596;41417;142514;11;162
+r;8620850;41417;143023;11;162
+r;8621295;41417;144274;11;162
+r;8626739;41417;160093;11;162
+r;8626741;41417;160096;11;162
+r;8626947;41417;160558;11;162
+r;8627344;41417;161248;11;162
+r;8627610;41417;161787;11;162
+r;8628098;41417;162767;11;162
+r;8628170;41417;162965;11;162
+r;8629364;41417;164977;11;162
+r;8629967;41417;166133;11;162
+r;8630039;41417;166251;11;162
+r;8633653;41417;171267;11;162
+r;8633916;41417;171455;11;162
+r;8633951;41417;171484;11;162
+r;8674992;41417;204215;11;162
+r;8675047;41417;204246;11;162
+r;8677808;41417;206018;11;162
+r;8679748;41417;207149;11;162
+r;8681874;41417;208401;11;162
+r;8682795;41417;208942;11;162
+r;8685377;41417;210545;11;162
+r;8685378;41417;210546;11;162
+r;8685379;41417;210547;11;162
+r;8685380;41417;210548;11;162
+r;8685535;41417;210674;11;162
+r;8756837;41417;288861;11;162
+r;8769408;41417;302968;11;162
+r;8581127;41417;33724;11;163
+r;8584847;41417;44600;11;163
+r;8585347;41417;46070;11;163
+r;8586717;41417;49925;11;163
+r;8586758;41417;50046;11;163
+r;8586787;41417;50110;11;163
+r;8587550;41417;52111;11;163
+r;8587599;41417;52266;11;163
+r;8588598;41417;55060;11;163
+r;8593549;41417;69621;11;163
+r;8596027;41417;77009;11;163
+r;8597213;41417;80363;11;163
+r;8598935;41417;85232;11;163
+r;8599408;41417;86630;11;163
+r;8600655;41417;90137;11;163
+r;8600966;41417;90914;11;163
+r;8603067;41417;97061;11;163
+r;8612678;41417;123796;11;163
+r;8612807;41417;124199;11;163
+r;8614719;41417;129376;11;163
+r;8614763;41417;129476;11;163
+r;8619544;41417;140182;11;163
+r;8620237;41417;141648;11;163
+r;8620883;41417;143122;11;163
+r;8621039;41417;143614;11;163
+r;8621508;41417;144785;11;163
+r;8621651;41417;145175;11;163
+r;8622062;41417;146479;11;163
+r;8622570;41417;152022;11;163
+r;8622572;41417;152023;11;163
+r;8623744;41417;154129;11;163
+r;8624139;41417;154806;11;163
+r;8624188;41417;154890;11;163
+r;8624811;41417;156012;11;163
+r;8625528;41417;158015;11;163
+r;8625680;41417;158387;11;163
+r;8626388;41417;159531;11;163
+r;8634024;41417;171546;11;163
+r;8634473;41417;172606;11;163
+r;8635553;41417;176819;11;163
+r;8635555;41417;176820;11;163
+r;8636048;41417;179031;11;163
+r;8636078;41417;179197;11;163
+r;8638938;41417;181766;11;163
+r;8639034;41417;181826;11;163
+r;8639036;41417;181827;11;163
+r;8639038;41417;181828;11;163
+r;8639040;41417;181829;11;163
+r;8639042;41417;181830;11;163
+r;8639044;41417;181831;11;163
+r;8639046;41417;181832;11;163
+r;8639048;41417;181833;11;163
+r;8639051;41417;181834;11;163
+r;8639053;41417;181835;11;163
+r;8639055;41417;181836;11;163
+r;8639057;41417;181837;11;163
+r;8639058;41417;181838;11;163
+r;8639059;41417;181839;11;163
+r;8639060;41417;181840;11;163
+r;8639062;41417;181841;11;163
+r;8642421;41417;183832;11;163
+r;8646060;41417;186102;11;163
+r;8647166;41417;186601;11;163
+r;8660409;41417;195783;11;163
+r;8660411;41417;195784;11;163
+r;8673624;41417;203454;11;163
+r;8674653;41417;204020;11;163
+r;8674655;41417;204021;11;163
+r;8676482;41417;205190;11;163
+r;8678018;41417;206160;11;163
+r;8731652;41417;264147;11;163
+r;8732289;41417;264696;11;163
+r;8734505;41417;266797;11;163
+r;8734506;41417;266798;11;163
+r;8735863;41417;267946;11;163
+r;8736679;41417;268889;11;163
+r;8740584;41417;272921;11;163
+r;8741078;41417;273308;11;163
+r;8758119;41417;290161;11;163
+r;8759965;41417;292194;11;163
+r;8769808;41417;303399;11;163
+r;8615780;41417;132368;11;164
+r;8616319;41417;133938;11;164
+r;8617345;41417;136729;11;164
+r;8617947;41417;137468;11;164
+r;8617981;41417;137514;11;164
+r;8618878;41417;138870;11;164
+r;8645028;41417;185630;11;164
+r;8645228;41417;185706;11;164
+r;8645231;41417;185707;11;164
+r;8645798;41417;185965;11;164
+r;8646315;41417;186217;11;164
+r;8646318;41417;186218;11;164
+r;8646451;41417;186284;11;164
+r;8646549;41417;186327;11;164
+r;8646675;41417;186382;11;164
+r;8646823;41417;186450;11;164
+r;8647427;41417;186738;11;164
+r;8647748;41417;186918;11;164
+r;8647887;41417;187013;11;164
+r;8660265;41417;195685;11;164
+r;8660743;41417;196005;11;164
+r;8660797;41417;196035;11;164
+r;8660969;41417;196141;11;164
+r;8661824;41417;196585;11;164
+r;8662047;41417;196669;11;164
+r;8662183;41417;196721;11;164
+r;8665958;41417;198945;11;164
+r;8667817;41417;200113;11;164
+r;8777244;41417;311269;11;164
+r;8778975;41417;312652;11;164
+r;8573883;41417;11789;11;165
+r;8575269;41417;15927;11;165
+r;8575763;41417;17538;11;165
+r;8576369;41417;19562;11;165
+r;8577528;41417;23012;11;165
+r;8664389;41417;198038;11;165
+r;8664390;41417;198039;11;165
+r;8664392;41417;198040;11;165
+r;8664393;41417;198041;11;165
+r;8664395;41417;198042;11;165
+r;8664396;41417;198043;11;165
+r;8664398;41417;198044;11;165
+r;8664400;41417;198045;11;165
+r;8664402;41417;198046;11;165
+r;8664405;41417;198047;11;165
+r;8664408;41417;198048;11;165
+r;8664410;41417;198049;11;165
+r;8664412;41417;198050;11;165
+r;8664414;41417;198051;11;165
+r;8664416;41417;198052;11;165
+r;8664418;41417;198053;11;165
+r;8664420;41417;198054;11;165
+r;8665811;41417;198864;11;165
+r;8665814;41417;198865;11;165
+r;8665817;41417;198866;11;165
+r;8665820;41417;198867;11;165
+r;8665823;41417;198868;11;165
+r;8665826;41417;198869;11;165
+r;8665829;41417;198870;11;165
+r;8668627;41417;200516;11;165
+r;8572591;41417;7937;11;166
+r;8570736;41417;2215;11;168
+r;8571312;41417;4050;11;168
+r;270246;41417;161118;11;188
+r;365466;41417;162401;11;188
+r;2004310;41417;74052;11;189
+r;404437;41417;164889;11;193
+r;357961;41417;161910;11;198
+r;270245;41417;97160;11;199
+r;273301;41417;152965;11;229
+r;1743352;41417;46054;11;279
+r;1743354;41417;153766;11;279
+r;1743353;41417;22147;11;281
+r;1743355;41417;185772;11;290
+r;8727164;41417;260664;11;298
+r;8679332;41417;206931;11;300
+r;8595998;41417;76932;11;302
+r;159426;41417;75511;11;319

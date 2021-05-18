@@ -1,0 +1,440 @@
+
+e;41415;'gel';1;636
+e;12157434;'électrophorèse gel agar citraté';1;0
+e;12142552;'électrophorèse gel d'agarose';1;0
+e;12235132;'détermination de la sensiblité à minocycline | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12235114;'détermination de la sensiblité à midécamycine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12235063;'détermination de la sensiblité à miconazole | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12235048;'détermination de la sensiblité à mezlocilline+sulbactam | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12235044;'détermination de la sensiblité à mezlocilline | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12235023;'détermination de la sensiblité à métronidazole | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12235005;'détermination de la sensiblité à méticilline | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12234598;'détermination de la sensiblité à métacycline | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12234554;'détermination de la sensiblité à méropénème | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12234395;'détermination de la sensiblité à méclocycline | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12234360;'détermination de la sensiblité à marbofloxacine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12233955;'détermination de la sensiblité à lymécycline | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12233865;'détermination de la sensiblité à loracarbef | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12233850;'détermination de la sensiblité à loméfloxacine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12233731;'détermination de la sensiblité à linopristine+flopristine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12233728;'détermination de la sensiblité à linézolide | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12233714;'détermination de la sensiblité à lincomycine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12233612;'détermination de la sensiblité à lévofloxacine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12233260;'identification de leishmania identifié | Électrophorèse gel de polyacrylamide | tissu | ponctuel | résultat nominal | identification';1;0
+e;12232987;'détermination de la sensiblité à latamoxef | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12232752;'détermination de la sensiblité à kétoconazole | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12232689;'détermination de la sensiblité à kanamycine à large spectre | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12232684;'détermination de la sensiblité à kanamycine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12232649;'détermination de la sensiblité à josamycine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12232543;'détermination de la sensiblité à itraconazole | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12232504;'détermination de la sensiblité à isoniazide | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12232457;'détermination de la sensiblité à isoconazole | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12232443;'détermination de la sensiblité à isépamicine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12231625;'détermination de la sensiblité à imipénème+edta | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12231620;'détermination de la sensiblité à imipénème | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;6391825;'gel au silicone';1;0
+e;14653060;'résister au gel';1;0
+e;14882936;'hors-gel';1;0
+e;15018470;'gel des retraites complémentaires';1;0
+e;15018469;'gel des retraites complémentaires du privé';1;0
+e;6322206;'temps de gel';1;0
+e;12238097;'détermination de la sensiblité à pénicilline+novobiocine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12238091;'détermination de la sensiblité à pénicilline v | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12238085;'détermination de la sensiblité à pénicilline parentérale | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12238079;'détermination de la sensiblité à pénicilline g | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12238057;'détermination de la sensiblité à péfloxacine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12237893;'détermination de la sensiblité à paromomycine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12237650;'détermination de la sensiblité à para aminosalicylate | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12237484;'détermination de la sensiblité à oxytétracycline | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12237328;'détermination de la sensiblité à oxolinate | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12237253;'détermination de la sensiblité à oxacilline | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12237177;'détermination de la sensiblité à ornidazole | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12237173;'détermination de la sensiblité à ormétroprime+sulfaméthoxazole | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12237164;'détermination de la sensiblité à oritavancine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12237008;'détermination de la sensiblité à orbifloxacine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12236935;'détermination de la sensiblité à omadacycline | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12236919;'détermination de la sensiblité à oléandomycine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12236893;'détermination de la sensiblité à ofloxacine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12236838;'détermination de la sensiblité à nystatine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12236690;'détermination de la sensiblité à novobiocine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12236540;'détermination de la sensiblité à norfloxacine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12236284;'détermination de la sensiblité à nitroxoline | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12236277;'détermination de la sensiblité à nitrofurantoïne | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12236240;'détermination de la sensiblité à nitazoxanide | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12236112;'détermination de la sensiblité à nétilmicine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12236093;'détermination de la sensiblité à néomycine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12235878;'détermination de la sensiblité à nalidixate | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12235859;'détermination de la sensiblité à nafcilline | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12235449;'détermination de la sensiblité à mupirocine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12235418;'détermination de la sensiblité à moxifloxacine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;14529779;'gel capillaire';1;0
+e;14596746;'gel désinfectant';1;10
+e;14671054;'gel au sol';1;0
+e;14731074;'gel pour les mains';1;4
+e;12238988;'détermination de la sensiblité à plazomycine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12238797;'détermination de la sensiblité à pivampicilline | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12238790;'détermination de la sensiblité à piromidate | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12238786;'détermination de la sensiblité à pirlimycine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12238779;'détermination de la sensiblité à pipéracilline+tazobactam | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12238775;'détermination de la sensiblité à pipéracilline+sulbactam | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12238770;'détermination de la sensiblité à pipéracilline | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12238761;'détermination de la sensiblité à pipémidate | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12238418;'détermination de la sensiblité à phénéthicilline | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;6087876;'Avant le gel';777;0
+e;12240344;'détermination de la sensiblité à razupénem | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12240335;'détermination de la sensiblité à ramoplanine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12240268;'détermination de la sensiblité à quinupristine+dalfopristine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12240190;'détermination de la sensiblité à pyrazinamide | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12239660;'détermination de la sensiblité à pristinamycine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12239640;'détermination de la sensiblité à prémafloxacine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12239489;'détermination de la sensiblité à posaconazole | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12239168;'détermination de la sensiblité à polymyxine b | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;5713606;'gel des fonctionnalités';777;0
+e;6441444;'gel d'hydroxyde d'aluminium';1;0
+e;10589849;'gel des droits de scolarité';777;0
+e;12241799;'détermination de la sensiblité à spectinomycine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12241793;'détermination de la sensiblité à sparfloxacine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12241685;'détermination de la sensiblité à solithromycine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12241624;'détermination de la sensiblité à sisomicine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12241322;'détermination de la sensiblité à sarafloxacine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12241208;'détermination de la sensiblité à salinomycine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12241049;'détermination de la sensiblité à roxithromycine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12240958;'identification de rotavirus arn double brin | Électrophorèse gel de polyacrylamide | selles | ponctuel | résultat nominal | identification';1;0
+e;12240957;'identification de rotavirus arn double brin | Électrophorèse gel de polyacrylamide | isolat | ponctuel | résultat nominal | identification';1;0
+e;12240931;'détermination de la sensiblité à rosoxacine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12240927;'détermination de la sensiblité à rosamicine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12240922;'détermination de la sensiblité à rolitétracycline | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12240888;'détermination de la sensiblité à ristocétine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12240812;'détermination de la sensiblité à rifaximine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12240807;'détermination de la sensiblité à rifampicine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12240798;'détermination de la sensiblité à rifabutine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;15444651;'craindre le gel';1;0
+e;12210643;'détermination de la sensiblité à 5-fluorocytosine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;16070336;'en gel de polyacrylamide';1;0
+e;2374374;'gel-douche';1;0
+e;6442487;'test de migration leucocytaire sur gel d'agarose';1;0
+e;12241875;'détermination de la sensiblité à spiramycine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;5818342;'ongles en gel';777;0
+e;5909641;'ce cultivar peut induire une sensibilité au gel';777;0
+e;13091710;'gel hydroalcoolique';1;44
+e;15375552;'aspect d'un gel homogène';1;0
+e;1832834;'électrophorèse en gel de polyacrylamide';1;0
+e;11695742;'chromatographie liquide à haute performance sur gel dénaturant';777;0
+e;12079199;'gel de rasage';1;0
+e;12242641;'détermination de la sensiblité à sulopénème | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12242625;'détermination de la sensiblité à sulfonamide | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12242614;'détermination de la sensiblité à sulfisoxazole | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12242553;'détermination de la sensiblité à sulfaméthoxazole | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12242534;'détermination de la sensiblité à sulfadiazine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12242523;'détermination de la sensiblité à sulbactam | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12242461;'détermination de la sensiblité à streptomycine à large spectre | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12242456;'détermination de la sensiblité à streptomycine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;1834672;'gel de couplage';1;0
+e;5984677;'électrophorèse sur gel en gradient dénaturant';777;0
+e;5984675;'électrophorèse en gel de polyacrylamide contenant du laurylsulfate de sodium';777;0
+e;12079198;'gel à raser';1;0
+e;12289523;'altération par le gel';1;0
+e;5984669;'électrophorèse sur gel de polyacrylamide';777;0
+e;6442599;'prothèse en gel pour examen d'imagerie';1;0
+e;12242918;'détermination de la sensiblité à témocilline | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12242883;'détermination de la sensiblité à témafloxacine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12242867;'détermination de la sensiblité à télithromycine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12242863;'détermination de la sensiblité à télavancine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12242854;'détermination de la sensiblité à téicoplanine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12242844;'détermination de la sensiblité à tédizolide | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12242829;'détermination de la sensiblité à tazobactam | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12242789;'détermination de la sensiblité à talampicilline | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12243460;'détermination de la sensiblité à tobramycine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12243446;'détermination de la sensiblité à tizoxanide | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12243412;'détermination de la sensiblité à tinidazole | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12243405;'détermination de la sensiblité à tilmicosine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12243402;'détermination de la sensiblité à tildipirosine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12243396;'détermination de la sensiblité à tigécycline | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12243391;'détermination de la sensiblité à ticarcilline+sulbactam | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12243386;'détermination de la sensiblité à ticarcilline+clavulanate | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12243379;'détermination de la sensiblité à ticarcilline | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12243371;'détermination de la sensiblité à tiamuline | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12243255;'détermination de la sensiblité à thiamphénicol | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12243245;'détermination de la sensiblité à thiacétazone | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12243116;'détermination de la sensiblité à tétracycline | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12826833;'ligne de gel';777;0
+e;6448556;'gel d'hydroxyde d'aluminium déshydraté';1;0
+e;6443285;'gel de l'épaule exacerbé';1;0
+e;12244069;'détermination de la sensiblité à trovafloxine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12244059;'détermination de la sensiblité à trospectinomycine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12244039;'détermination de la sensiblité à troléandomycine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12243980;'détermination de la sensiblité à triméthoprime+sulfaméthoxazole | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12243970;'détermination de la sensiblité à triméthoprime | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;11302796;'électrophorèse gel de polyacrylamide';1;0
+e;11302784;'diffusion gel Agar';1;0
+e;11302794;'électrophorèse gel Agar citraté';1;0
+e;11302795;'électrophorèse gel d'Agarose';1;0
+e;2438727;'gel du cerveau';1;0
+e;11376668;'single cell gel electrophoresis assay';777;0
+e;12244195;'détermination de la sensiblité à tylosine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;5897025;'électrophorèse sur gel d'agarose';777;0
+e;6436130;'test de migration des leucocytes sur gel d'agarose';1;0
+e;12244443;'détermination de la sensiblité à vancomycine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;6449092;'test d'électrophorèse sur gel de cellules isolées en conditions alcalines';1;0
+e;12244798;'détermination de la sensiblité à virginiamycine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12244793;'détermination de la sensiblité à viomycine | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;8738331;'gel d'un compte en banque';1;0
+e;12246649;'gel agar';1;0
+e;12245110;'détermination de la sensiblité à voriconazole | diffusion gel agar | isolat | ponctuel | résultat alphanumérique | sensibilité';1;0
+e;12508867;'gel muqueux';1;0
+e;14510228;'Chromatographie liquide à haute performance sur gel dénaturant';777;0
+e;5983470;'électrophorèse sur gel';777;0
+e;1850418;'gel de contact';1;0
+e;3758544;'colorant alimentaire rouge en gel';1;0
+e;1746120;'gel chimique';1;0
+e;3763806;'gel alimentaire';1;0
+e;1746119;'gel physique';1;0
+e;3346598;'gel de cellulose';1;0
+e;3177000;'garde-au-gel';1;0
+e;3750982;'gel alimentaire rouge';1;0
+e;566257;'gel de l'image';777;50
+e;3757216;'smarties et du gel alimentaire coloré';1;0
+e;3176999;'Hors-gel';1;0
+e;3753009;'gel alimentaire coloré et des bonbons';1;0
+e;1663114;'gel d'amidon';1;0
+e;356034;'gel hivernal';1;50
+e;360391;'jour de gel';1;50
+e;356036;'gel masculin';1;50
+e;356032;'gel de lavage';1;50
+e;354228;'filtration sur gel';1;50
+e;356033;'gel de silicone';1;50
+e;356035;'gel revitalisant';1;50
+e;379587;'shampoing gel';1;50
+e;313936;'gel de polyacrylamide';1;50
+e;242432;'gel des salaires';1;50
+e;252127;'gel nettoyant intime';1;50
+e;152446;'gel douche';1;130
+e;271594;'gel d'agarose';1;50
+e;284758;'électrophorèse en gel d'agarose';777;50
+e;298465;'susceptibilité au gel';777;50
+e;298466;'sensibilité au gel';777;50
+e;299321;'gel de silice';777;50
+e;201404;'gel spermicide';1;50
+e;166551;'gel des crédits';1;50
+e;160157;'gel coiffant';1;54
+e;161080;'gel des prix';1;52
+e;282103;'Hors-gel ou garde-au-gel';777;50
+r;316699343;41415;12157434;11;25
+r;316749541;41415;12142552;11;25
+r;318610427;41415;12235132;11;25
+r;318610795;41415;12235114;11;25
+r;318611822;41415;12235063;11;25
+r;318612129;41415;12235048;11;25
+r;318612211;41415;12235044;11;25
+r;318612619;41415;12235023;11;25
+r;318612959;41415;12235005;11;25
+r;318620652;41415;12234598;11;25
+r;318621502;41415;12234554;11;25
+r;318624708;41415;12234395;11;25
+r;318625472;41415;12234360;11;25
+r;318634119;41415;12233955;11;25
+r;318635912;41415;12233865;11;25
+r;318636186;41415;12233850;11;25
+r;318638814;41415;12233731;11;25
+r;318638872;41415;12233728;11;25
+r;318639152;41415;12233714;11;25
+r;318641295;41415;12233612;11;25
+r;318649812;41415;12233260;11;25
+r;318656229;41415;12232987;11;25
+r;318661743;41415;12232752;11;25
+r;318663072;41415;12232689;11;25
+r;318663194;41415;12232684;11;25
+r;318663954;41415;12232649;11;25
+r;318666537;41415;12232543;11;25
+r;318667239;41415;12232504;11;25
+r;318668103;41415;12232457;11;25
+r;318668367;41415;12232443;11;25
+r;318684058;41415;12231625;11;25
+r;318684158;41415;12231620;11;25
+r;349340514;41415;6391825;11;25
+r;372425552;41415;14653060;11;25
+r;385970270;41415;14882936;11;25
+r;392304732;41415;15018470;11;25
+r;392304746;41415;15018469;11;25
+r;399116189;41415;6322206;11;25
+r;318546578;41415;12238097;11;26
+r;318546708;41415;12238091;11;26
+r;318546852;41415;12238085;11;26
+r;318547014;41415;12238079;11;26
+r;318547435;41415;12238057;11;26
+r;318551199;41415;12237893;11;26
+r;318556855;41415;12237650;11;26
+r;318560774;41415;12237484;11;26
+r;318563732;41415;12237328;11;26
+r;318564984;41415;12237253;11;26
+r;318566336;41415;12237177;11;26
+r;318566420;41415;12237173;11;26
+r;318566586;41415;12237164;11;26
+r;318569892;41415;12237008;11;26
+r;318571105;41415;12236935;11;26
+r;318571419;41415;12236919;11;26
+r;318571899;41415;12236893;11;26
+r;318573030;41415;12236838;11;26
+r;318576413;41415;12236690;11;26
+r;318579183;41415;12236540;11;26
+r;318584425;41415;12236284;11;26
+r;318584579;41415;12236277;11;26
+r;318585275;41415;12236240;11;26
+r;318587961;41415;12236112;11;26
+r;318588329;41415;12236093;11;26
+r;318593327;41415;12235878;11;26
+r;318593705;41415;12235859;11;26
+r;318603753;41415;12235449;11;26
+r;318604447;41415;12235418;11;26
+r;368584552;41415;14529779;11;26
+r;370900342;41415;14596746;11;26
+r;373069164;41415;14671054;11;26
+r;374542427;41415;14731074;11;26
+r;318479608;41415;12238988;11;27
+r;318484588;41415;12238797;11;27
+r;318484738;41415;12238790;11;27
+r;318484826;41415;12238786;11;27
+r;318484964;41415;12238779;11;27
+r;318485036;41415;12238775;11;27
+r;318485136;41415;12238770;11;27
+r;318485324;41415;12238761;11;27
+r;318492206;41415;12238418;11;27
+r;119667243;41415;6087876;11;28
+r;318449750;41415;12240344;11;28
+r;318449944;41415;12240335;11;28
+r;318451486;41415;12240268;11;28
+r;318453018;41415;12240190;11;28
+r;318464239;41415;12239660;11;28
+r;318464629;41415;12239640;11;28
+r;318467928;41415;12239489;11;28
+r;318475406;41415;12239168;11;28
+r;112173572;41415;5713606;11;29
+r;121515073;41415;6441444;11;29
+r;264467114;41415;10589849;11;29
+r;318416492;41415;12241799;11;29
+r;318416628;41415;12241793;11;29
+r;318418939;41415;12241685;11;29
+r;318420193;41415;12241624;11;29
+r;318426347;41415;12241322;11;29
+r;318429001;41415;12241208;11;29
+r;318432659;41415;12241049;11;29
+r;318435013;41415;12240958;11;29
+r;318435042;41415;12240957;11;29
+r;318435673;41415;12240931;11;29
+r;318435761;41415;12240927;11;29
+r;318435873;41415;12240922;11;29
+r;318436621;41415;12240888;11;29
+r;318438692;41415;12240812;11;29
+r;318438800;41415;12240807;11;29
+r;318438988;41415;12240798;11;29
+r;419750192;41415;15444651;11;30
+r;419828779;41415;12210643;11;30
+r;419840068;41415;16070336;11;30
+r;52208508;41415;2374374;11;31
+r;121505721;41415;6442487;11;31
+r;318320506;41415;12241875;11;31
+r;113770127;41415;5818342;11;32
+r;115867521;41415;5909641;11;33
+r;335029372;41415;13091710;11;33
+r;419611450;41415;15375552;11;33
+r;29973624;41415;1832834;11;34
+r;300957825;41415;11695742;11;34
+r;315119282;41415;12079199;11;34
+r;318283348;41415;12242641;11;34
+r;318283694;41415;12242625;11;34
+r;318283916;41415;12242614;11;34
+r;318285224;41415;12242553;11;34
+r;318285600;41415;12242534;11;34
+r;318285822;41415;12242523;11;34
+r;318287039;41415;12242461;11;34
+r;318287172;41415;12242456;11;34
+r;29992654;41415;1834672;11;35
+r;117894830;41415;5984677;11;35
+r;117894842;41415;5984675;11;35
+r;315119287;41415;12079198;11;35
+r;319163583;41415;12289523;11;35
+r;117894892;41415;5984669;11;36
+r;121504697;41415;6442599;11;36
+r;318277660;41415;12242918;11;36
+r;318278324;41415;12242883;11;36
+r;318278622;41415;12242867;11;36
+r;318278710;41415;12242863;11;36
+r;318278910;41415;12242854;11;36
+r;318279110;41415;12242844;11;36
+r;318279474;41415;12242829;11;36
+r;318280269;41415;12242789;11;36
+r;318265904;41415;12243460;11;37
+r;318266194;41415;12243446;11;37
+r;318266855;41415;12243412;11;37
+r;318266995;41415;12243405;11;37
+r;318267061;41415;12243402;11;37
+r;318267179;41415;12243396;11;37
+r;318267293;41415;12243391;11;37
+r;318267385;41415;12243386;11;37
+r;318267513;41415;12243379;11;37
+r;318267677;41415;12243371;11;37
+r;318270047;41415;12243255;11;37
+r;318270249;41415;12243245;11;37
+r;318272853;41415;12243116;11;37
+r;329358100;41415;12826833;11;37
+r;121060609;41415;6448556;11;38
+r;121498496;41415;6443285;11;38
+r;318252495;41415;12244069;11;39
+r;318252709;41415;12244059;11;39
+r;318253170;41415;12244039;11;39
+r;318254392;41415;12243980;11;39
+r;318254568;41415;12243970;11;39
+r;289318078;41415;11302796;11;40
+r;289319072;41415;11302784;11;40
+r;289320400;41415;11302794;11;40
+r;289320706;41415;11302795;11;40
+r;55216701;41415;2438727;11;41
+r;291855288;41415;11376668;11;41
+r;318247498;41415;12244195;11;41
+r;115108589;41415;5897025;11;42
+r;121562659;41415;6436130;11;43
+r;318242618;41415;12244443;11;43
+r;121055763;41415;6449092;11;45
+r;318233863;41415;12244798;11;46
+r;318233975;41415;12244793;11;46
+r;171865705;41415;8738331;11;50
+r;317974145;41415;12246649;11;50
+r;317985430;41415;12245110;11;50
+r;322144453;41415;12508867;11;50
+r;393996599;41415;14510228;11;50
+r;117900563;41415;5983470;11;51
+r;29858926;41415;1850418;11;52
+r;93655841;41415;3758544;11;53
+r;28727905;41415;1746120;11;54
+r;93988460;41415;3763806;11;54
+r;28727893;41415;1746119;11;55
+r;85771682;41415;3346598;11;55
+r;76591553;41415;3177000;11;56
+r;93621702;41415;3750982;11;57
+r;16930298;41415;566257;11;58
+r;93668217;41415;3757216;11;58
+r;76591713;41415;3176999;11;59
+r;93708441;41415;3753009;11;59
+r;27636183;41415;1663114;11;60
+r;12678995;41415;356034;11;101
+r;12661181;41415;360391;11;102
+r;12678987;41415;356036;11;102
+r;12679003;41415;356032;11;102
+r;12686267;41415;354228;11;102
+r;12678999;41415;356033;11;104
+r;12678991;41415;356035;11;105
+r;12583137;41415;379587;11;107
+r;8818312;41415;313936;11;159
+r;8707590;41415;242432;11;161
+r;8715709;41415;252127;11;161
+r;8622788;41415;152446;11;163
+r;8739127;41415;271594;11;163
+r;8751988;41415;284758;11;163
+r;8765276;41415;298465;11;163
+r;8765278;41415;298466;11;163
+r;8766102;41415;299321;11;163
+r;8670314;41415;201404;11;165
+r;437220;41415;166551;11;188
+r;254147;41415;160157;11;198
+r;268567;41415;161080;11;198
+r;8883522;41415;282103;11;282

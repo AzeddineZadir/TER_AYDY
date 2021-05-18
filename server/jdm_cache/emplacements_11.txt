@@ -1,0 +1,8 @@
+
+e;2024365;'emplacements';2;0
+e;6376295;'emplacements anatomiques multiples';1;0
+e;6391179;'emplacements géographiques historiques';1;0
+e;6422204;'emplacements géographiques';1;0
+r;303627049;2024365;6376295;11;25
+r;304632324;2024365;6391179;11;25
+r;122756221;2024365;6422204;11;35

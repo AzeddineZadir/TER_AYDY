@@ -1,0 +1,80 @@
+
+e;105689;'moutons';1;214
+e;6288612;'balanoposthite enzootique des moutons';1;0
+e;6304843;'entérotoxémie hémorragique des moutons';1;0
+e;6319806;'lymphadénite caséeuse des moutons';1;0
+e;6361263;'actinobacillose nasale des moutons';1;0
+e;6378409;'bouche baveuse des moutons';1;0
+e;6401634;'entérotoxémie des moutons à clostridium perfringens type c';1;0
+e;6402552;'balanoposthite des moutons';1;0
+e;6420251;'agalactie contagieuse des chèvres et des moutons';1;0
+e;13634375;'les moutons électriques';777;0
+e;6376717;'moutons domestiques';1;0
+e;14636614;'troupeaux de moutons';1;0
+e;6318884;'hépatite nécrosante suraiguë des moutons';1;0
+e;6337338;'fièvre catarrhale des moutons';1;0
+e;11770513;'Mais les travailleurs ne sont pas des moutons';777;0
+e;6425952;'adénomatose pulmonaire des moutons';1;0
+e;9980183;'avoir gardé les moutons ensemble';1;0
+e;15267502;'comme des moutons';1;0
+e;15460086;'comme des moutons de Panurge';1;0
+e;15372980;'comme les moutons de Panurge';1;0
+e;15267510;'comptant les moutons';1;0
+e;10868140;'traité des moutons d'or';777;0
+e;10007588;'Ras-le-bol des moutons';777;0
+e;5939958;'race de moutons';1;0
+e;11158283;'pieds de moutons à la rouennaise';777;0
+e;2433444;'chacun chez soi et les moutons seront bien gardés';1;0
+e;15431019;'Chacun son métier et les moutons seront bien gardés';1;0
+e;2284039;'saute-moutons';2;0
+e;2517629;'ne pas avoir gardé les moutons ensemble';1;0
+e;3294374;'tondeur de moutons';1;0
+e;4180122;'retourner à ses moutons';1;0
+e;2512473;'revenons à nos moutons';1;0
+e;1654398;'croque-moutons';1;0
+e;2928590;'troupeau de moutons';1;4
+e;368679;'parc à moutons';1;50
+e;354540;'foire aux moutons';1;50
+e;242231;'Les androïdes rêvent-ils de moutons électriques ?';666;50
+e;186853;'revenir à ses moutons';1;50
+e;309030;'Les androïdes rêvent-ils de moutons électriques';777;50
+e;197859;'compter les moutons';1;52
+r;298387096;105689;6288612;11;25
+r;299465709;105689;6304843;11;25
+r;299908357;105689;6319806;11;25
+r;302113777;105689;6361263;11;25
+r;303639693;105689;6378409;11;25
+r;305205515;105689;6401634;11;25
+r;305265037;105689;6402552;11;25
+r;305705955;105689;6420251;11;25
+r;345781623;105689;13634375;11;25
+r;349268056;105689;6376717;11;25
+r;371802613;105689;14636614;11;25
+r;398926269;105689;6318884;11;25
+r;399665619;105689;6337338;11;25
+r;301932628;105689;11770513;11;29
+r;122727108;105689;6425952;11;30
+r;222104590;105689;9980183;11;31
+r;419720573;105689;15267502;11;31
+r;419720577;105689;15460086;11;31
+r;419720777;105689;15372980;11;31
+r;419726370;105689;15267510;11;31
+r;272513801;105689;10868140;11;35
+r;227654672;105689;10007588;11;42
+r;116321132;105689;5939958;11;43
+r;283999974;105689;11158283;11;45
+r;55045565;105689;2433444;11;47
+r;395582881;105689;15431019;11;50
+r;33108771;105689;2284039;11;52
+r;52468181;105689;2517629;11;55
+r;81972049;105689;3294374;11;57
+r;95156714;105689;4180122;11;57
+r;52470517;105689;2512473;11;59
+r;27098827;105689;1654398;11;60
+r;71805579;105689;2928590;11;65
+r;12627771;105689;368679;11;104
+r;12684999;105689;354540;11;109
+r;8707414;105689;242231;11;161
+r;8647627;105689;186853;11;163
+r;8774860;105689;309030;11;163
+r;8664101;105689;197859;11;165

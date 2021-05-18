@@ -1,0 +1,265 @@
+
+e;69550;'travailler';1;3026
+e;14669607;'se forcer pour travailler';1;0
+e;14727840;'ne pas travailler chez soi';1;0
+e;12200523;'se lever le matin pour aller travailler';1;0
+e;12200834;'venir travailler à vélo';1;0
+e;14677959;'travailler en entreprise';1;12
+e;14177592;'travailler dans le social';1;0
+e;14559807;'travailler trop';1;16
+e;14563625;'aller travailler en voiture';1;2
+e;14563627;'aller travailler en vélo';1;6
+e;14563630;'aller travailler à pied';1;6
+e;14626584;'travailler en shift';1;0
+e;14626585;'travailler non-stop';1;0
+e;14626587;'travailler sans relâche';1;0
+e;14637006;'se remettre à travailler';1;0
+e;14670163;'travailler au MacDo';1;8
+e;14670830;'travailler ponctuellement';1;0
+e;14670831;'travailler pendant les vacances';1;6
+e;14670832;'travailler l'été';1;6
+e;14670833;'travailler en alternance';1;8
+e;14670834;'travailler en intérim';1;14
+e;14753170;'travailler plus pour gagner moins';1;2
+e;14775244;'travailler le fer';1;0
+e;10663748;'nécessité de travailler';1;0
+e;10876057;'travailler dans l'informatique';1;0
+e;7928811;'bien travailler';1;4
+e;9982890;'travailler sur un ordinateur';1;0
+e;15547610;'cessant de travailler';1;0
+e;15350663;'cesser de travailler';1;0
+e;15421223;'apte à travailler';1;0
+e;13516216;'ne pas pouvoir aller travailler';1;0
+e;12049041;'travailler au sein des communautés';1;0
+e;12048844;'travailler de façon ergonomique';1;0
+e;12049043;'travailler en partenariat avec les usagers des services sociaux';1;0
+e;12049042;'travailler dans un environnement multiculturel dans le secteur de la santé';1;0
+e;12048964;'travailler avec des environnements d'apprentissage virtuels';1;0
+e;15209192;'M. Barnett commença à travailler comme instituteur.';1;0
+e;12049880;'travailler de façon organisée';1;0
+e;12049994;'évaluer la compatibilité entre des individus et des animaux destinés à travailler ensemble';1;0
+e;12050417;'travailler en équipe dans le secteur de l'hébergement de loisirs';1;0
+e;12050929;'travailler au sein d'une équipe de transport ferroviaire';1;0
+e;12051743;'travailler avec des solistes';1;0
+e;12051728;'travailler avec des compositeurs';1;0
+e;12051689;'travailler de façon indépendante en tant qu'artiste';1;0
+e;12051477;'travailler au sein d'équipes de production textile';1;0
+e;12051446;'travailler au sein d'équipes médicales pluridisciplinaires';1;0
+e;12051372;'travailler dans un environnement international';1;0
+e;11839504;'travailler la souplesse';1;0
+e;12040826;'travailler de manière efficace';1;0
+e;12040825;'travailler de manière autonome';1;0
+e;12040836;'travailler avec la forme et l'espace';1;0
+e;12051175;'travailler au sein d'une équipe de transport aérien';1;0
+e;12052355;'travailler en milieu froid';1;0
+e;12052354;'travailler au sein d'une équipe dans la transformation d'aliments';1;0
+e;10821359;'travailler dans un restaurant';1;0
+e;12053262;'travailler au sein d'une équipe de construction';1;0
+e;12053284;'travailler avec les usagers sous traitement médicamenteux';1;0
+e;12053257;'travailler en toute sécurité avec des produits chimiques';1;0
+e;11572584;'ne pas aller travailler';1;0
+e;13378697;'travailler ensemble';1;0
+e;12425321;'avoir du mal à travailler';1;0
+e;2361900;'co-travailler';1;0
+e;8822322;'travailler sur écran';1;0
+e;9259558;'gagner de l'argent sans travailler';1;0
+e;9564513;'mal travailler';1;0
+e;9729344;'sans travailler';1;0
+e;15521322;'Il n'y a rien qui incite à travailler.';1;0
+e;15363645;'Il devrait travailler davantage.';1;0
+e;15561082;'Comment arrives-tu à travailler dans ce bruit?';1;0
+e;15571380;'Je ne peux pas travailler autant que ça.';1;0
+e;1770688;'ne plus aller travailler';1;0
+e;581328;'se mettre à travailler';1;0
+e;626485;'commencer à travailler';1;12
+e;4336419;'travailler à temps complet';1;0
+e;3492042;'travailler par intermittence';1;0
+e;1781642;'travailler en indépendant';1;0
+e;2565600;'travailler pour le roi de Prusse';1;0
+e;1770684;'ne plus travailler';1;0
+e;2545558;'télé-travailler';1;0
+e;3705831;'faire semblant de travailler';1;8
+e;391734;'travailler à l'étranger';1;50
+e;318443;'travailler pour des haricots';1;50
+e;224275;'travailler à la chaîne';1;6
+e;240226;'travailler au noir';1;94
+e;250872;'travailler à mi-temps';1;14
+e;252270;'travailler en libéral';1;18
+e;253421;'travailler en conditions stériles';1;50
+e;254120;'travailler à domicile';1;6
+e;254121;'travailler chez soi';1;50
+e;254122;'aller travailler';1;64
+e;254128;'travailler jour et nuit';1;50
+e;254129;'travailler de nuit';1;8
+e;254130;'travailler de jour';1;2
+e;255248;'travailler en binôme';1;50
+e;256282;'travailler à 80%';1;52
+e;256285;'travailler à temps partiel';1;10
+e;256329;'travailler en horaires décalés';1;50
+e;256862;'arrêter de travailler';1;52
+e;257406;'travailler au black';1;8
+e;257456;'travailler à la pige';1;4
+e;257576;'travailler sous hotte';1;50
+e;258960;'travailler à plein temps';1;52
+e;259279;'travailler comme un forçat';1;50
+e;262338;'travailler le bois';1;50
+e;263430;'travailler à la maison';1;50
+e;237453;'travailler pour des clous';1;50
+e;226148;'travailler à perdre haleine';1;50
+e;77616;'se travailler';1;50
+e;165746;'travailler en équipe';1;64
+e;209344;'travailler la terre';1;62
+e;212108;'travailler d'après nature';1;50
+e;212109;'travailler d'arrache-pied';1;60
+e;265545;'y travailler';1;50
+e;268539;'ne pas travailler';1;116
+e;160674;'travailler dur';1;58
+e;32877;'travailler à';1;50
+e;53082;'travailler sa voix';1;50
+e;55712;'travailler son style';1;50
+e;82878;'travailler sans filet';1;64
+e;155169;'travailler à l'usine';1;52
+e;158862;'travailler dans un laboratoire';1;50
+e;265607;'travailler sur';1;50
+e;265609;'travailler à quelque chose';1;50
+e;265610;'travailler en';1;50
+e;265611;'travailler dans';1;50
+e;267538;'travailler le cuir';1;50
+e;270516;'travailler en groupe';1;52
+e;186994;'travailler comme un nègre';1;4
+e;311962;'travailler au corps';1;50
+e;185930;'donner à travailler';1;50
+e;186995;'travailler du chapeau';1;4
+e;200665;'faire travailler';1;60
+r;372993710;69550;14669607;11;25
+r;374426426;69550;14727840;11;25
+r;316358664;69550;12200523;11;26
+r;316381164;69550;12200834;11;26
+r;373170301;69550;14677959;11;26
+r;360492181;69550;14177592;11;26
+r;369956281;69550;14559807;11;26
+r;370047611;69550;14563625;11;26
+r;370047641;69550;14563627;11;26
+r;370047686;69550;14563630;11;26
+r;371525113;69550;14626584;11;26
+r;371525128;69550;14626585;11;26
+r;371525152;69550;14626587;11;26
+r;371813493;69550;14637006;11;26
+r;373013190;69550;14670163;11;26
+r;373063449;69550;14670830;11;26
+r;373063472;69550;14670831;11;26
+r;373063504;69550;14670832;11;26
+r;373063517;69550;14670833;11;26
+r;373063543;69550;14670834;11;26
+r;375035178;69550;14753170;11;26
+r;375493236;69550;14775244;11;26
+r;267328156;69550;10663748;11;28
+r;272786712;69550;10876057;11;29
+r;129591081;69550;7928811;11;31
+r;222099889;69550;9982890;11;31
+r;419696004;69550;15547610;11;32
+r;419696158;69550;15350663;11;32
+r;419605422;69550;15421223;11;33
+r;342230076;69550;13516216;11;34
+r;313628035;69550;12049041;11;35
+r;313628062;69550;12048844;11;35
+r;313628090;69550;12049043;11;35
+r;313629002;69550;12049042;11;35
+r;313629112;69550;12048964;11;35
+r;419502206;69550;15209192;11;35
+r;313683412;69550;12049880;11;36
+r;313684981;69550;12049994;11;36
+r;313692865;69550;12050417;11;36
+r;313703620;69550;12050929;11;36
+r;313762389;69550;12051743;11;36
+r;313762469;69550;12051728;11;36
+r;313762573;69550;12051689;11;36
+r;313763475;69550;12051477;11;36
+r;313763578;69550;12051446;11;36
+r;313764092;69550;12051372;11;36
+r;306440061;69550;11839504;11;37
+r;313551701;69550;12040826;11;37
+r;313552822;69550;12040825;11;37
+r;313553660;69550;12040836;11;37
+r;313725832;69550;12051175;11;37
+r;313762103;69550;12052355;11;37
+r;313762111;69550;12052354;11;37
+r;270206795;69550;10821359;11;38
+r;313744116;69550;12053262;11;40
+r;313745452;69550;12053284;11;40
+r;313746567;69550;12053257;11;40
+r;297294027;69550;11572584;11;42
+r;339244272;69550;13378697;11;42
+r;320907957;69550;12425321;11;43
+r;50174498;69550;2361900;11;47
+r;188879621;69550;8822322;11;50
+r;211708913;69550;9259558;11;50
+r;214844238;69550;9564513;11;50
+r;217794876;69550;9729344;11;50
+r;402108358;69550;15521322;11;50
+r;402105188;69550;15363645;11;50
+r;398926342;69550;15561082;11;50
+r;402272949;69550;15571380;11;50
+r;29102160;69550;1770688;11;52
+r;18192584;69550;581328;11;53
+r;18919116;69550;626485;11;54
+r;98938231;69550;4336419;11;54
+r;88355036;69550;3492042;11;55
+r;97334961;69550;265640;11;55
+r;29224847;69550;1781642;11;56
+r;52445507;69550;2565600;11;57
+r;29102113;69550;1770684;11;58
+r;52499175;69550;2545558;11;60
+r;92509912;69550;3705831;11;60
+r;13076502;69550;391734;11;107
+r;9003591;69550;318443;11;148
+r;8694825;69550;224275;11;161
+r;8706579;69550;240226;11;161
+r;8714339;69550;250872;11;161
+r;8715843;69550;252270;11;161
+r;8717140;69550;253421;11;161
+r;8717955;69550;254120;11;161
+r;8717957;69550;254121;11;161
+r;8717961;69550;254122;11;161
+r;8717972;69550;254128;11;161
+r;8717975;69550;254129;11;161
+r;8717977;69550;254130;11;161
+r;8719551;69550;255248;11;161
+r;8720989;69550;256282;11;161
+r;8720995;69550;256285;11;161
+r;8721060;69550;256329;11;161
+r;8721885;69550;256862;11;161
+r;8722606;69550;257406;11;161
+r;8722677;69550;257456;11;161
+r;8722817;69550;257576;11;161
+r;8724825;69550;258960;11;161
+r;8725341;69550;259279;11;161
+r;8729174;69550;262338;11;161
+r;8730605;69550;263430;11;161
+r;1924203;69550;237453;11;162
+r;1924208;69550;226148;11;162
+r;8596245;69550;77616;11;162
+r;8629760;69550;165746;11;162
+r;8683478;69550;209344;11;162
+r;8687548;69550;212108;11;162
+r;8687551;69550;212109;11;162
+r;8733204;69550;265545;11;162
+r;8736382;69550;268539;11;162
+r;1924207;69550;160674;11;163
+r;8580857;69550;32877;11;163
+r;8587875;69550;53082;11;163
+r;8588809;69550;55712;11;163
+r;8598074;69550;82878;11;163
+r;8624335;69550;155169;11;163
+r;8625964;69550;158862;11;163
+r;8733275;69550;265607;11;163
+r;8733277;69550;265609;11;163
+r;8733280;69550;265610;11;163
+r;8733281;69550;265611;11;163
+r;8735463;69550;267538;11;163
+r;8738112;69550;270516;11;163
+r;8647860;69550;186994;11;164
+r;8778138;69550;311962;11;164
+r;1924204;69550;185930;11;165
+r;1924206;69550;186995;11;165
+r;1924205;69550;200665;11;166

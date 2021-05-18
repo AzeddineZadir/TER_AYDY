@@ -1,0 +1,388 @@
+
+e;117828;'difficile';1;822
+e;6305864;'focalisation difficile';1;0
+e;6319925;'toxine a du clostridium difficile';1;0
+e;6321927;'sommeil difficile';1;0
+e;6323964;'abord veineux difficile';1;0
+e;6365622;'démarche difficile';1;0
+e;6381780;'toxine du clostridium difficile';1;0
+e;6393986;'toxine b du clostridium difficile';1;0
+e;6401757;'stridor d'une respiration difficile';1;0
+e;12204488;'clostridium difficile toxine';1;0
+e;12204368;'clostridium difficile toxine ag';1;0
+e;12138963;'détermination de la présence de clostridium difficile toxines a+b';1;0
+e;12138959;'mesure de clostridium difficile toxines a+b';1;0
+e;12138957;'détermination de la présence de clostridium difficile toxine b tcdb gène';1;0
+e;12138954;'détermination de la présence de clostridium difficile toxine b';1;0
+e;12138951;'mesure de clostridium difficile toxine b';1;0
+e;12138948;'mesure de clostridium difficile toxine ac';1;0
+e;12138946;'détermination de la présence de clostridium difficile toxine a';1;0
+e;12138943;'mesure de clostridium difficile toxine a';1;0
+e;12138939;'détermination de la présence de clostridium difficile glutamate déhydrogénase et toxines a+b';1;0
+e;12138936;'détermination de la présence de clostridium difficile glutamate déhydrogénase';1;0
+e;12138934;'détermination de la présence de clostridium difficile gènes toxine';1;0
+e;12138932;'détermination de la présence de clostridium difficile adn';1;0
+e;12138930;'mesure de clostridium difficile ac igm';1;0
+e;12138928;'mesure de clostridium difficile ac igg';1;0
+e;12138926;'mesure de clostridium difficile ac iga';1;0
+e;12138923;'mesure de clostridium difficile ac';1;0
+e;12138917;'détermination de la présence de clostridium difficile';1;0
+e;6350857;'test clostridium difficile positif';1;0
+e;6415517;'test de la toxine de clostridium difficile';1;0
+e;6308454;'test de la toxine de clostridium difficile positif';1;0
+e;14599267;'Les deux avions continuent de remonter la piste. Mais le 747 de la Pan Am est perdu dans le brouillard. Il est très difficile de distinguer les bretelles de sortie. La tour a cependant confirmé que le 747 devra sortir de la piste à la troisième bretelle';777;0
+e;14631240;'météo difficile';1;0
+e;14669608;'plus difficile';1;0
+e;14774441;'terrain difficile';1;0
+e;6299034;'concentration mentale difficile';1;0
+e;6407037;'insertion de dispositif difficile';1;0
+e;15547096;'se préparer au pire/à une période difficile';1;0
+e;6318604;'diarrhée due à clostridium difficile';1;0
+e;6416843;'ablation de dispositif difficile';1;0
+e;12117287;'adn de clostridium difficile';1;0
+e;6290846;'réveil difficile';1;0
+e;6343732;'expectoration difficile';1;0
+e;6344076;'ventilation difficile';1;0
+e;6360462;'miction difficile';1;0
+e;6370739;'mue difficile';1;0
+e;14488994;'accouchement difficile';1;0
+e;14488995;'grossesse difficile';1;2
+e;14506226;'tâche difficile';1;6
+e;16165582;'mot difficile à écrire';1;12
+e;16165586;'mot difficile';1;6
+e;6345850;'erection difficile';1;0
+e;12093562;'clostridium difficile toxines a+b';1;0
+e;12093561;'clostridium difficile toxine b tcdb gène';1;0
+e;12093560;'clostridium difficile toxine b';1;0
+e;12093559;'clostridium difficile toxine ac';1;0
+e;12093558;'clostridium difficile toxine a';1;0
+e;12093556;'clostridium difficile glutamate déhydrogénase et toxines a+b';1;0
+e;12093555;'clostridium difficile glutamate déhydrogénase';1;0
+e;12093554;'clostridium difficile gènes toxine';1;0
+e;12093553;'clostridium difficile adn';1;0
+e;12093552;'clostridium difficile ac igm';1;0
+e;12093551;'clostridium difficile ac igg';1;0
+e;12093550;'clostridium difficile ac iga';1;0
+e;12093549;'clostridium difficile ac';1;0
+e;12093548;'clostridium difficile';1;0
+e;6431391;'clostridium difficile isolé dans les selles';1;0
+e;10592776;'Cohabitation difficile';777;0
+e;12109693;'clostridium difficile ag';1;0
+e;15570346;'critique est aisée mais l'art est difficile';1;0
+e;15570347;'critique est aisée, mais l'art est difficile';1;0
+e;15660495;'critique est facile mais l'art est difficile';1;0
+e;15921635;'d'approche difficile';1;0
+e;15574462;'d'un abord difficile';1;0
+e;15247724;'de plus en plus difficile';1;0
+e;15278713;'devenir progressivement plus difficile';1;0
+e;16043695;'difficile à';1;0
+e;15215774;'difficile à cerner';1;0
+e;15404165;'difficile à convaincre';1;0
+e;15277789;'difficile à diagnostiquer';1;0
+e;15268727;'difficile à guérir';1;0
+e;15391378;'difficile à résoudre';1;0
+e;15478714;'difficile à satisfaire';1;0
+e;15381025;'décision difficile';1;0
+e;15580840;'défaite difficile à digérer';1;0
+e;15215769;'délivrance difficile';1;0
+e;11055941;'Clostridioides difficile';777;0
+e;12138941;'détermination de la présence de clostridium difficile souche bi-nap1-027 adn';1;0
+e;15381024;'choix difficile';1;0
+e;15497372;'conjoncture difficile';1;0
+e;16165589;'difficile à écrire';1;6
+e;5676074;'Il est difficile d'être un dieu';777;0
+e;6427916;'fermeture du produit difficile à retirer';1;0
+e;11065363;'trop difficile';1;0
+e;15473960;'ce n'est pas si difficile';1;0
+e;10959154;'problème difficile de la conscience';1;0
+e;15381026;'appel difficile';1;0
+e;15395427;'article difficile à vendre';1;0
+e;15342758;'ascension difficile';1;0
+e;15215765;'assez difficile';1;0
+e;12117553;'clostridium difficile souche bi-nap1-027';1;0
+e;12093557;'clostridium difficile souche bi-nap1-027 adn';1;0
+e;15835444;'Pas difficile';777;0
+e;15375492;'Son accent est difficile à comprendre.';1;0
+e;15215763;'année difficile';1;0
+e;10850510;'difficile à faire';1;0
+e;12009013;'difficile à obtenir';1;0
+e;12079594;'lendemain difficile';1;0
+e;6323925;'alimentation au sein difficile chez le nouveau-né';1;0
+e;15647117;'Le russe est difficile à prononcer.';1;0
+e;8150834;'difficile à traiter';1;0
+e;10850540;'difficile à dire';1;0
+e;12117286;'adn de clostridium difficile souche bi-nap1-027';1;0
+e;12828544;'difficile à prendre';1;0
+e;11575038;'déglutition difficile et douloureuse';1;0
+e;10512574;'Âge difficile obscur';777;0
+e;10506818;'Une déclaration difficile';777;0
+e;11387306;'difficile à trouver';1;0
+e;11254110;'gamin au parcours difficile';1;0
+e;13198465;'difficile à évaluer';1;0
+e;13271588;'situation difficile à accepter';1;0
+e;13792240;'Clostridium difficile culture';1;0
+e;6451100;'soins médicaux ou infirmiers ou surveillance médicale d'enfants en bonne santé selon des circonstances telles que situation socio-économique difficile de la famille';1;0
+e;13293969;'avulsion difficile';1;0
+e;9816794;'colite à Clostridium difficile';1;0
+e;9660080;'lendemain de fête difficile';1;0
+e;12261525;'articulation des mots difficile';1;0
+e;12635668;'difficile à définir';1;0
+e;12701236;'difficile à produire';1;0
+e;14573302;'Forer un trou a été un travail difficile';777;0
+e;14599266;'De nombreux bruits parasites dans la tour rendent la compréhension difficile';777;0
+e;15574450;'C'est plus difficile à la descente.';1;0
+e;15362899;'Il leur est difficile de se mettre d'accord là-dessus.';1;0
+e;15317015;'Il est difficile à contenter.';1;0
+e;15224641;'Il est difficile de séparer la réalité de la légende.';1;0
+e;15347680;'Ce n'est pas spécialement difficile.';1;0
+e;15921022;'2005 - Âge difficile obscur';777;0
+e;3262959;'difficile à contenter';1;0
+e;4309945;'colite à clostridium difficile';1;0
+e;4338786;'caractère difficile';1;0
+e;2603550;'la critique est aisée mais l'art est difficile';1;0
+e;4344552;'difficile à comprendre';1;24
+e;3456995;'difficile à interpréter';1;0
+e;1706908;'région difficile d'accès';1;0
+e;2604038;'digestion difficile';1;6
+e;4467500;'difficile à dénicher';1;0
+e;5293825;'enfance difficile';1;0
+e;3186010;'Contre ceux qui ont le goût difficile';1;0
+e;4306872;'endroit difficile';1;0
+e;4315828;'difficile à éradiquer';1;0
+e;3290454;'déglutition difficile';1;0
+e;389055;'à une période difficile de';1;50
+e;386840;'vie difficile';1;50
+e;376251;'respiration difficile';1;50
+e;347372;'difficile à gérer';1;50
+e;347371;'difficile à digérer';1;50
+e;369045;'pas plus difficile que ça';1;50
+e;351802;'enfant difficile';1;50
+e;351409;'en situation financière difficile';1;50
+e;347242;'devant un choix difficile';1;50
+e;332656;'difficile à accepter';1;50
+e;388995;'à un moment difficile de';1;50
+e;369096;'passage difficile';1;50
+e;368736;'pari difficile';1;50
+e;364761;'moment difficile';1;50
+e;369124;'passe difficile';1;50
+e;333309;'accès difficile';1;50
+e;331104;'Clostridium difficile';1;50
+e;346612;'dans une situation financière difficile';1;50
+e;389003;'à un passage difficile de';1;50
+e;374674;'période difficile';1;60
+e;351173;'en position difficile';1;50
+e;347370;'difficile à avaler';1;54
+e;330980;'difficile d'accès';1;56
+e;330979;'endroit difficile d'accès';1;50
+e;234809;'NP-difficile';1;50
+e;320514;'d'accès difficile';1;50
+e;322450;'fin de mois difficile';1;20
+e;323064;'difficile à croire';1;54
+e;323065;'difficile à admettre';1;50
+e;238749;'situation difficile';1;54
+e;255669;'difficile à supporter';1;50
+e;259790;'quartier difficile';1;50
+e;118284;'Mort difficile';1;50
+e;216126;'question difficile';1;6
+e;47814;'élocution difficile';1;50
+e;266562;'difficile à vivre';1;52
+e;280215;'jeunesse difficile';1;50
+e;200011;'être en posture difficile';1;50
+e;198707;'difficile à ferrer';1;50
+e;200518;'faire le difficile';1;60
+r;299488177;117828;6305864;11;25
+r;299932887;117828;6319925;11;25
+r;300119458;117828;6321927;11;25
+r;300158420;117828;6323964;11;25
+r;302187497;117828;6365622;11;25
+r;303930578;117828;6381780;11;25
+r;304988162;117828;6393986;11;25
+r;305208100;117828;6401757;11;25
+r;316535561;117828;12204488;11;25
+r;316536365;117828;12204368;11;25
+r;316763379;117828;12138963;11;25
+r;316763391;117828;12138959;11;25
+r;316763402;117828;12138957;11;25
+r;316763423;117828;12138954;11;25
+r;316763435;117828;12138951;11;25
+r;316763444;117828;12138948;11;25
+r;316763455;117828;12138946;11;25
+r;316763467;117828;12138943;11;25
+r;316763495;117828;12138939;11;25
+r;316763516;117828;12138936;11;25
+r;316763532;117828;12138934;11;25
+r;316763548;117828;12138932;11;25
+r;316763560;117828;12138930;11;25
+r;316763572;117828;12138928;11;25
+r;316763584;117828;12138926;11;25
+r;316763596;117828;12138923;11;25
+r;316763605;117828;12138917;11;25
+r;349194932;117828;6350857;11;25
+r;349199462;117828;6415517;11;25
+r;349199994;117828;6308454;11;25
+r;371012427;117828;14599267;11;25
+r;371669254;117828;14631240;11;25
+r;372993723;117828;14669608;11;25
+r;375486512;117828;14774441;11;25
+r;397513004;117828;6299034;11;25
+r;400913782;117828;6407037;11;25
+r;398410129;117828;15547096;11;25
+r;398535471;117828;6318604;11;25
+r;401847586;117828;6416843;11;25
+r;315689091;117828;12117287;11;26
+r;298437054;117828;6290846;11;26
+r;301509159;117828;6343732;11;26
+r;301523103;117828;6344076;11;26
+r;302097932;117828;6360462;11;26
+r;302983816;117828;6370739;11;26
+r;368204413;117828;14488994;11;26
+r;368204428;117828;14488995;11;26
+r;368355593;117828;14506226;11;26
+r;423715790;117828;16165582;11;26
+r;423715853;117828;16165586;11;26
+r;301559075;117828;6345850;11;27
+r;315627278;117828;12093562;11;27
+r;315627290;117828;12093561;11;27
+r;315627307;117828;12093560;11;27
+r;315627317;117828;12093559;11;27
+r;315627327;117828;12093558;11;27
+r;315627350;117828;12093556;11;27
+r;315627369;117828;12093555;11;27
+r;315627381;117828;12093554;11;27
+r;315627393;117828;12093553;11;27
+r;315627403;117828;12093552;11;27
+r;315627416;117828;12093551;11;27
+r;315627429;117828;12093550;11;27
+r;315627442;117828;12093549;11;27
+r;315627450;117828;12093548;11;27
+r;122685046;117828;6431391;11;29
+r;264459381;117828;10592776;11;29
+r;315489187;117828;12109693;11;29
+r;419751677;117828;15570346;11;30
+r;419751689;117828;15570347;11;30
+r;419751699;117828;15660495;11;30
+r;419758747;117828;15921635;11;30
+r;419759175;117828;15574462;11;30
+r;419769433;117828;15247724;11;30
+r;419778037;117828;15278713;11;30
+r;419779902;117828;16043695;11;30
+r;419779904;117828;15215774;11;30
+r;419779910;117828;15404165;11;30
+r;419779916;117828;15277789;11;30
+r;419779922;117828;15268727;11;30
+r;419779928;117828;15391378;11;30
+r;419779934;117828;15478714;11;30
+r;419805366;117828;15381025;11;30
+r;419807366;117828;15580840;11;30
+r;419810830;117828;15215769;11;30
+r;279998867;117828;11055941;11;31
+r;316763477;117828;12138941;11;31
+r;419707893;117828;15381024;11;31
+r;419731494;117828;15497372;11;31
+r;423715893;117828;16165589;11;31
+r;111466935;117828;5676074;11;32
+r;122711914;117828;6427916;11;32
+r;280529581;117828;11065363;11;32
+r;419691260;117828;15473960;11;32
+r;276090377;117828;10959154;11;33
+r;419602955;117828;15381026;11;33
+r;419610351;117828;15395427;11;33
+r;419611300;117828;15342758;11;33
+r;419612393;117828;15215765;11;33
+r;315687193;117828;12117553;11;34
+r;315627336;117828;12093557;11;34
+r;419522681;117828;15835444;11;34
+r;419546700;117828;15375492;11;34
+r;419596811;117828;15215763;11;34
+r;272016207;117828;10850510;11;35
+r;313144050;117828;12009013;11;35
+r;315117213;117828;12079594;11;35
+r;399193130;117828;6323925;11;35
+r;419493481;117828;15647117;11;35
+r;137593080;117828;8150834;11;36
+r;272031991;117828;10850540;11;36
+r;315689097;117828;12117286;11;36
+r;329357761;117828;12828544;11;38
+r;297600468;117828;11575038;11;40
+r;262043037;117828;10512574;11;41
+r;262053973;117828;10506818;11;41
+r;292327969;117828;11387306;11;41
+r;288439747;117828;11254110;11;42
+r;337337574;117828;13198465;11;42
+r;337657718;117828;13271588;11;43
+r;393998082;117828;13792240;11;43
+r;121037465;117828;6451100;11;44
+r;338113682;117828;13293969;11;45
+r;218955048;117828;9816794;11;50
+r;217021489;117828;9660080;11;50
+r;318184408;117828;12261525;11;50
+r;324934798;117828;12635668;11;50
+r;327329905;117828;12701236;11;50
+r;370454912;117828;14573302;11;50
+r;371012257;117828;14599266;11;50
+r;399503368;117828;15574450;11;50
+r;402107490;117828;15362899;11;50
+r;402105620;117828;15317015;11;50
+r;402105612;117828;15224641;11;50
+r;395012727;117828;15347680;11;50
+r;414440887;117828;15921022;11;50
+r;79544095;117828;3262959;11;51
+r;96504525;117828;4309945;11;51
+r;98989883;117828;4338786;11;51
+r;55454203;117828;2603550;11;52
+r;29340635;117828;1787208;11;53
+r;99105650;117828;4344552;11;53
+r;88096398;117828;3456995;11;54
+r;28192248;117828;1706908;11;56
+r;55462010;117828;2604038;11;56
+r;99824072;117828;4467500;11;56
+r;71832728;117828;2929007;11;56
+r;106666103;117828;5293825;11;56
+r;29340765;117828;1787207;11;58
+r;71832813;117828;2929006;11;58
+r;71832575;117828;2929008;11;59
+r;77287656;117828;3186010;11;59
+r;96357462;117828;4306872;11;59
+r;98347516;117828;4315828;11;59
+r;80709648;117828;3290454;11;60
+r;71832777;117828;2929009;11;63
+r;12545699;117828;389055;11;101
+r;12554019;117828;386840;11;101
+r;12596903;117828;376251;11;101
+r;12713869;117828;347372;11;102
+r;12713873;117828;347371;11;102
+r;12626419;117828;369045;11;103
+r;12696167;117828;351802;11;103
+r;12697671;117828;351409;11;103
+r;12714393;117828;347242;11;103
+r;12437688;117828;332656;11;105
+r;12545935;117828;388995;11;105
+r;12626237;117828;369096;11;105
+r;12627533;117828;368736;11;105
+r;12643227;117828;364761;11;105
+r;12626119;117828;369124;11;106
+r;12772175;117828;333309;11;106
+r;12068612;117828;331104;11;107
+r;12717001;117828;346612;11;107
+r;12545885;117828;389003;11;109
+r;12603197;117828;374674;11;109
+r;12698593;117828;351173;11;109
+r;12713877;117828;347370;11;109
+r;12053169;117828;330980;11;116
+r;12053175;117828;330979;11;116
+r;11851586;117828;234809;11;122
+r;9060145;117828;320514;11;148
+r;9107940;117828;322450;11;148
+r;9188783;117828;323064;11;148
+r;9188785;117828;323065;11;148
+r;8705638;117828;238749;11;161
+r;8720093;117828;255669;11;161
+r;8726075;117828;259790;11;161
+r;8610741;117828;118284;11;162
+r;8690167;117828;216126;11;162
+r;8585973;117828;47814;11;163
+r;8734270;117828;266562;11;163
+r;8747618;117828;280215;11;163
+r;8667648;117828;200011;11;164
+r;8665506;117828;198707;11;165
+r;8668632;117828;200518;11;165

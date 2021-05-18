@@ -1,0 +1,330 @@
+
+e;63192;'transports';1;258
+e;6290623;'transports respiratoires';1;0
+e;6302399;'autres receveurs de transports';1;0
+e;6306917;'transports ioniques';1;0
+e;6313275;'mal des transports par wagon';1;0
+e;6383842;'transports sanitaires';1;0
+e;6386348;'transports biologiques';1;0
+e;6390885;'autres receveuses de transports';1;0
+e;13594537;'Société des transports du bassin chellois';777;0
+e;13884255;'transports en commun angevins';777;0
+e;14119388;'transports urbains de Bourg-en-Bresse Agglomération';777;0
+e;14388072;'Syndicat mixte des transports pour le Rhône et l'agglomération lyonnaise';777;0
+e;14388048;'Société lyonnaise de transports en commun';777;0
+e;14454654;'versement destiné aux transports en commun';1;0
+e;14632835;'porter un masque dans les transports en commun';1;84
+e;14761208;'les transports dans la commune du Chaffaut-Saint-Jurson';777;0
+e;15773900;'transports du pays voironnais';777;0
+e;16143608;'lettre de transports aérien';777;0
+e;16075162;'transports individuels';1;0
+e;16437489;'ingénierie des transports';777;0
+e;16565551;'transports de la ville de New York';777;0
+e;6369218;'bruits des transports';1;0
+e;12199597;'Compagnie de transports au Maroc';777;0
+e;12200826;'transports de marchandises';1;0
+e;12200825;'transports de marchandise';1;0
+e;14557770;'prendre les transports';1;8
+e;14594462;'plan national contre le harcèlement sexuel dans les transports';1;0
+e;14632838;'porter un masque dans les transports publics';1;72
+e;14670126;'porter un masque dans les transports';1;12
+e;15011292;'Service des transports urbains de Brive';777;0
+e;10672836;'Loi d'orientation des transports intérieurs';777;0
+e;10673517;'compagnie des transports strasbourgeois';777;0
+e;10671482;'code des transports';777;0
+e;10671469;'Union sportive métropolitaine des transports';777;0
+e;6353580;'bruit des transports';1;0
+e;10676357;'musée des transports';777;0
+e;10590122;'médaille d'honneur des transports routiers';777;0
+e;10732315;'transports ferroviaires au Royaume-Uni';777;0
+e;10874842;'Société nationale des transports ferroviaires';777;0
+e;9991518;'Office fédéral des transports';777;0
+e;10598910;'Société de transports en commun de Limoges Métropole';777;0
+e;5816689;'politique européenne des transports ferroviaires';777;0
+e;5816405;'politique des transports de l'Union européenne';777;0
+e;5816123;'autorité organisatrice de transports';777;0
+e;6080385;'Union de transports aériens';777;0
+e;6430288;'fièvre des transports';1;0
+e;9976803;'transports en commun d'Île-de-France';777;0
+e;9991474;'transports publics de la région lausannoise';777;0
+e;10970261;'transports en Norvège';777;0
+e;10992383;'Forum international des transports';777;0
+e;10992049;'accompagnateur de transports en commun';777;0
+e;5815703;'Arborescence des transports en commun';777;0
+e;9967219;'grève des transports en commun de New York 2005';777;0
+e;10958931;'Syndicat mixte des transports en commun de l'agglomération grenobloise';777;0
+e;10954936;'transports en Dracénie';777;0
+e;10954925;'Régie des transports urbains dignois';777;0
+e;10992050;'contrôleurs des transports terrestres';777;0
+e;10992045;'transports guidés urbains automatiques';777;0
+e;10992404;'système de gestion des transports';777;0
+e;11784974;'Conseil national de la sécurité des transports';777;0
+e;15319721;'avoir le mal des transports';1;0
+e;16530038;'Société des transports intercommunaux de l'agglomération liégeoise';777;0
+e;11063038;'transports de l'agglomération orléanaise';777;0
+e;11071420;'transports et communications aux îles Féroé';777;0
+e;11079966;'Compagnie des transports du Yonnais';777;0
+e;11811806;'transports au Pakistan';777;0
+e;11812163;'transports au Liban';777;0
+e;11812158;'transports au Bangladesh';777;0
+e;11821521;'transports en Colombie';777;0
+e;10934979;'Ministre des transports';777;0
+e;10940198;'schéma régional des infrastructures et des transports';777;0
+e;13594584;'Société de transports interurbains du Val-d'Oise';777;0
+e;16076149;'Syndicat mixte des transports urbains de la Sambre';777;0
+e;5561431;'Société de contrôle et d'exploitation des transports auxiliaires';777;0
+e;10841334;'Commissaire européen aux transports';777;0
+e;10854761;'société de transports automobiles et de voyages';777;0
+e;10929889;'service des transports en commun de l'agglomération rennaise';777;0
+e;11830978;'liste de catastrophes de transports de personnes';777;0
+e;11831772;'sécurité des transports';777;0
+e;12067226;'transports doux';1;0
+e;15695122;'Union internationale des transports routiers';777;0
+e;6526197;'receveurs de transports';1;0
+e;6526127;'superviseurs des transports et des communications';1;0
+e;10315864;'Bureau de la sécurité des transports du Canada';777;0
+e;10334572;'Régie des transports de Marseille';777;0
+e;10334570;'Régie des transports métropolitains';777;0
+e;11978423;'wagon pour transports exceptionnels';777;0
+e;12005658;'transports en commun de la communauté urbaine d'Alençon';777;0
+e;12051143;'appliquer des concepts de gestion des transports';1;0
+e;12067556;'moyens de transports non polluants';1;0
+e;5807496;'Arborescence des transports';777;0
+e;10829781;'transports à Londres';777;0
+e;14174809;'Institut supérieur de l'automobile et des transports de Nevers';777;0
+e;10195348;'Service d'information pour les transports publics LITRA';777;0
+e;10195341;'musée suisse des transports';777;0
+e;10195220;'transports en commun dans l'aire de la communauté tarifaire de la Suisse du Nord-Ouest';777;0
+e;11237175;'efficacité énergétique dans les transports';777;0
+e;11544004;'transports ferroviaires aux États-Unis';777;0
+e;11151720;'transports en Inde';777;0
+e;11223913;'art public dans les transports';777;0
+e;12792561;'géographie des transports';777;0
+e;10050485;'transports publics genevois';777;0
+e;10367082;'organisation professionnelle des transports d'Île-de-France';777;0
+e;10553845;'Musée hongrois de la technologie et des transports';777;0
+e;11155779;'Société des transports en commun de la région parisienne';777;0
+e;11574541;'transports en Antarctique';777;0
+e;12278087;'transports à Nantes';777;0
+e;12278091;'histoire des transports en commun de Nantes';777;0
+e;11374546;'Union des transports publics et ferroviaires';777;0
+e;11575509;'L'Institut supérieur de l'automobile et des transports de Nevers';777;0
+e;11175424;'ligne C du réseau de transports en commun de Toulouse';777;0
+e;11175547;'émissions de CO2 des transports ferroviaires';777;0
+e;11175425;'ligne D du réseau de transports en commun de Toulouse';777;0
+e;11175625;'transports interurbains de la Loire';777;0
+e;11175956;'transports dans l'Eure';777;0
+e;11176067;'Société générale des transports aériens';777;0
+e;11176094;'service de transports de l'agglomération creilloise';777;0
+e;11176272;'Société générale de chemins de fer et de transports automobiles';777;0
+e;11373166;'gratuité des transports en commun';777;0
+e;11373155;'Fédération nationale des associations d'usagers des transports';777;0
+e;11374568;'Réseau pour l'abolition des transports payants';777;0
+e;10457327;'Société d'économie mixte des transports publics de l'agglomération grenobloise';777;0
+e;11315692;'transports au Cameroun';777;0
+e;11388412;'Société publique locale d'exploitation des transports publics et des services à la mobilité de l'agglomération paloise';777;0
+e;10430670;'L'Institut supérieur de l'automobile et des transports';777;0
+e;12267046;'transports en commun du Grand Reims';777;0
+e;11554996;'chemins de fer de la Société organisatrice des transports basse-autrichienne';777;0
+e;11131945;'transports en Slovénie';777;0
+e;12723229;'transports maritimes';1;0
+e;13773475;'35 superviseurs des transports et des communications';1;0
+e;13791273;'359 superviseurs des services de transports et de communications n.c.a.';1;0
+e;13740318;'36 receveurs de transports';1;0
+e;14753601;'Communication et transports';777;0
+e;14763834;'Gendarmerie des transports aériens';777;0
+e;15392099;'Conseil des ministres des transports';1;0
+e;567603;'impacts environnementaux des transports routiers';777;50
+e;568043;'transports à la demande';777;50
+e;3320067;'accord relatif aux transports internationaux de denrées périssables et aux engins spéciaux à utiliser pour ces transports';1;0
+e;3316902;'Société des transports intercommunaux de Bruxelles';777;0
+e;3140498;'transports en commun de l'agglomération mulhousienne';777;0
+e;351567;'en transports';1;50
+e;384748;'transports publics';1;54
+e;384749;'transports scolaires';1;52
+e;391295;'transports collectifs';1;6
+e;384747;'transports parisiens';1;50
+e;162405;'les transports';1;50
+e;240475;'transports en commun';1;214
+e;258518;'prendre les transports en commun';1;52
+e;209326;'transports aériens';1;50
+e;209327;'transports combinés';1;50
+e;209328;'transports fluviaux';1;50
+e;209329;'transports terrestres';1;50
+e;49185;'Institut national de recherche sur les transports et leur sécurité';1;50
+e;56226;'transports maritimes et fluviaux';1;68
+e;154813;'grève des transports';1;82
+e;180961;'autorité des transports maritimes';1;50
+e;203321;'mal des transports';1;68
+e;284201;'Régie autonome des transports parisiens';777;104
+e;290426;'accidentologie des transports';777;50
+e;304568;'Syndicat des transports d'Île-de-France';777;50
+e;25459;'c3:les transports';5;50
+e;191874;'transports par rail';1;6
+e;191882;'transports par air';1;6
+e;191883;'transports par route';1;4
+e;21481;'transports urbains';1;108
+r;298435865;63192;6290623;11;25
+r;299301954;63192;6302399;11;25
+r;299547212;63192;6306917;11;25
+r;299612561;63192;6313275;11;25
+r;303984398;63192;6383842;11;25
+r;304379892;63192;6386348;11;25
+r;304602400;63192;6390885;11;25
+r;344368255;63192;13594537;11;25
+r;351438471;63192;13884255;11;25
+r;357709064;63192;14119388;11;25
+r;365412636;63192;14388072;11;25
+r;365566248;63192;14388048;11;25
+r;366960910;63192;14454654;11;25
+r;371700597;63192;14632835;11;25
+r;375237749;63192;14761208;11;25
+r;409660438;63192;15773900;11;25
+r;423582450;63192;16143608;11;25
+r;418859612;63192;16075162;11;25
+r;433500875;63192;16437489;11;25
+r;435162216;63192;16565551;11;25
+r;302971889;63192;6369218;11;26
+r;316346907;63192;12199597;11;26
+r;316382565;63192;12200826;11;26
+r;316382582;63192;12200825;11;26
+r;369891813;63192;14557770;11;26
+r;370811565;63192;14594462;11;26
+r;371699977;63192;14632838;11;26
+r;373012754;63192;14670126;11;26
+r;392058467;63192;15011292;11;26
+r;270781621;63192;10672836;11;27
+r;270779601;63192;10673517;11;27
+r;267316203;63192;10671482;11;27
+r;267316287;63192;10671469;11;27
+r;301752785;63192;6353580;11;27
+r;270770027;63192;10676357;11;28
+r;264466174;63192;10590122;11;29
+r;269880819;63192;10732315;11;29
+r;272773462;63192;10874842;11;29
+r;227682603;63192;9991518;11;30
+r;264443362;63192;10598910;11;30
+r;113775227;63192;5816689;11;31
+r;113776534;63192;5816405;11;31
+r;113777521;63192;5816123;11;31
+r;119191719;63192;6080385;11;31
+r;122693562;63192;6430288;11;31
+r;222106608;63192;9976803;11;31
+r;227682755;63192;9991474;11;31
+r;277020198;63192;10970261;11;31
+r;277925702;63192;10992383;11;31
+r;277926229;63192;10992049;11;31
+r;113779324;63192;5815703;11;32
+r;221483037;63192;9967219;11;32
+r;276643769;63192;10958931;11;32
+r;276020549;63192;10954936;11;32
+r;276020582;63192;10954925;11;32
+r;277702305;63192;10992050;11;32
+r;277705752;63192;10992045;11;32
+r;277713912;63192;10992404;11;32
+r;303720872;63192;11784974;11;32
+r;419633801;63192;15319721;11;32
+r;434615112;63192;16530038;11;32
+r;280401329;63192;11063038;11;33
+r;280689227;63192;11071420;11;33
+r;281012848;63192;11079966;11;33
+r;304706938;63192;11811806;11;33
+r;304765819;63192;11812163;11;33
+r;304767753;63192;11812158;11;33
+r;305084079;63192;11821521;11;33
+r;275367411;63192;10934979;11;34
+r;275479949;63192;10940198;11;34
+r;419546266;63192;13594584;11;34
+r;419549826;63192;16076149;11;34
+r;109978266;63192;5561431;11;35
+r;271594081;63192;10841334;11;35
+r;272173989;63192;10854761;11;35
+r;274961623;63192;10929889;11;35
+r;305867177;63192;11830978;11;35
+r;305929000;63192;11831772;11;35
+r;313975771;63192;12067226;11;35
+r;403607249;63192;15695122;11;35
+r;121449875;63192;6526197;11;36
+r;121450365;63192;6526127;11;36
+r;252665815;63192;10315864;11;36
+r;253389151;63192;10334572;11;36
+r;253389162;63192;10334570;11;36
+r;311203815;63192;11978423;11;36
+r;312876797;63192;12005658;11;36
+r;313722492;63192;12051143;11;36
+r;314022742;63192;12067556;11;36
+r;113289141;63192;5807496;11;37
+r;270406158;63192;10829781;11;37
+r;360538171;63192;14174809;11;37
+r;243201938;63192;10195348;11;38
+r;243201973;63192;10195341;11;38
+r;243202252;63192;10195220;11;38
+r;287952180;63192;11237175;11;38
+r;296434827;63192;11544004;11;38
+r;283491678;63192;11151720;11;39
+r;287764765;63192;11223913;11;39
+r;329051325;63192;12792561;11;39
+r;227577670;63192;10050485;11;40
+r;254592592;63192;10367082;11;40
+r;263064069;63192;10553845;11;40
+r;283720223;63192;11155779;11;40
+r;297602501;63192;11574541;11;40
+r;318921851;63192;12278087;11;40
+r;318924080;63192;12278091;11;40
+r;291798797;63192;11374546;11;41
+r;297524109;63192;11575509;11;41
+r;286025683;63192;11175424;11;42
+r;286033534;63192;11175547;11;42
+r;286035984;63192;11175425;11;42
+r;286037588;63192;11175625;11;42
+r;286057788;63192;11175956;11;42
+r;286060070;63192;11176067;11;42
+r;286062439;63192;11176094;11;42
+r;286070066;63192;11176272;11;42
+r;291748967;63192;11373166;11;42
+r;291752035;63192;11373155;11;42
+r;291792431;63192;11374568;11;42
+r;258719404;63192;10457327;11;43
+r;289886648;63192;11315692;11;43
+r;292399920;63192;11388412;11;43
+r;256305223;63192;10430670;11;46
+r;318520200;63192;12267046;11;47
+r;296721459;63192;11554996;11;48
+r;282857662;63192;11131945;11;50
+r;327324776;63192;12723229;11;50
+r;348986341;63192;13773475;11;50
+r;348986494;63192;13791273;11;50
+r;348986502;63192;13740318;11;50
+r;375047747;63192;14753601;11;50
+r;375282631;63192;14763834;11;50
+r;395017012;63192;15392099;11;50
+r;17123380;63192;567603;11;52
+r;17192972;63192;568043;11;53
+r;83668224;63192;3320067;11;53
+r;83579265;63192;3316902;11;55
+r;75948341;63192;3140498;11;64
+r;12697083;63192;351567;11;103
+r;12562443;63192;384748;11;106
+r;12562439;63192;384749;11;107
+r;13048889;63192;391295;11;107
+r;12562445;63192;384747;11;108
+r;8627970;63192;162405;11;161
+r;8706707;63192;240475;11;161
+r;8724162;63192;258518;11;161
+r;8683448;63192;209326;11;162
+r;8683450;63192;209327;11;162
+r;8683451;63192;209328;11;162
+r;8683452;63192;209329;11;162
+r;8586455;63192;49185;11;163
+r;8589005;63192;56226;11;163
+r;8624150;63192;154813;11;163
+r;8637542;63192;180961;11;163
+r;8673408;63192;203321;11;163
+r;8751341;63192;284201;11;163
+r;8758371;63192;290426;11;163
+r;8770831;63192;304568;11;163
+r;8578416;63192;25459;11;164
+r;8654365;63192;191874;11;164
+r;8654375;63192;191882;11;164
+r;8654377;63192;191883;11;164
+r;8576990;63192;21481;11;165

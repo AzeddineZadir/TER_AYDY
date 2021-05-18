@@ -1,0 +1,92 @@
+
+e;79346;'original';1;286
+e;13628982;'original animation DVD';777;0
+e;6295781;'noyau original';1;0
+e;14485306;'Titre original';777;0
+e;9987136;'César du meilleur scénario original ou adaptation';777;0
+e;9982781;'César du meilleur scénario original';777;0
+e;10003261;'Oscar du meilleur scénario original';777;0
+e;15444086;'copie certifiée conforme à l'original';1;0
+e;10032635;'British Academy Film Award du meilleur scénario original';777;0
+e;15463109;'certifié conforme à l'original';1;0
+e;10743118;'prix Goya du meilleur scénario original';777;0
+e;15687819;'Texte original allemand';777;0
+e;15785884;'Texte original en cyrillique roumain';777;0
+e;11831104;'Image utilisée dans le papier original de Dvorak montrant l'évolution de trois systèmes';777;0
+e;15904033;'Pentium original';777;0
+e;10315960;'Critics' Choice Movie Award du meilleur scénario original';777;0
+e;10057900;'meilleur scénario original';777;0
+e;10132928;'AFI Award du meilleur scénario original';777;0
+e;10132927;'AACTA Award du meilleur scénario original';777;0
+e;10458945;'Chlotrudis Award du meilleur scénario original';777;0
+e;10458301;'Satellite Award du meilleur scénario original';777;0
+e;11179146;'Magritte du meilleur scénario original ou adaptation';777;0
+e;2363644;'porte-original';1;0
+e;14891922;'CD original';777;0
+e;15252834;'L'original est au Louvre.';1;0
+e;1773600;'peu original';1;0
+e;3744259;'clafoutis aux abricots original';1;0
+e;3744479;'couscous marocain original';1;0
+e;3322492;'original animation video';777;0
+e;3371815;'un très original sorbet poire vanille';1;0
+e;436957;'Dijon original';1;50
+e;3365218;'bobotie original de mme joubert, afrique du sud';1;0
+e;2362315;'Brevet original international déposé en 2004';777;0
+e;3368700;'salade "chou original"';1;0
+e;2952989;'Campo Formio dans le texte original du traité';777;0
+e;378992;'scénario original';1;50
+e;363212;'manuscrit original';1;50
+e;348009;'document original';1;50
+e;386905;'vieil original';1;50
+e;228212;'Werther's original';1;50
+e;239569;'texte original';1;50
+e;183294;'montage sur original';1;50
+e;274348;'Doublage original';777;50
+e;276176;'nom original';777;50
+e;276391;'Nom original';777;50
+r;310759858;79346;3185771;11;15
+r;310759859;79346;3185772;11;15
+r;345491735;79346;13628982;11;25
+r;349202723;79346;6295781;11;25
+r;368104924;79346;14485306;11;25
+r;222151419;79346;9987136;11;30
+r;222100102;79346;9982781;11;31
+r;227660738;79346;10003261;11;31
+r;419740146;79346;15444086;11;31
+r;227629320;79346;10032635;11;32
+r;419695938;79346;15463109;11;32
+r;269400067;79346;10743118;11;33
+r;419551754;79346;15687819;11;34
+r;419551762;79346;15785884;11;34
+r;305865042;79346;11831104;11;35
+r;414113208;79346;15904033;11;35
+r;252665161;79346;10315960;11;36
+r;232112135;79346;10057900;11;38
+r;236691396;79346;10132928;11;41
+r;236691406;79346;10132927;11;41
+r;261019319;79346;10458945;11;41
+r;258746248;79346;10458301;11;42
+r;286768130;79346;11179146;11;43
+r;50241129;79346;2363644;11;46
+r;388288745;79346;14891922;11;50
+r;414848478;79346;15252834;11;50
+r;29133267;79346;1773600;11;51
+r;93464699;79346;3744259;11;51
+r;93465807;79346;3744479;11;51
+r;83718874;79346;3322492;11;54
+r;86133859;79346;3371815;11;56
+r;14690890;79346;436957;11;57
+r;86190182;79346;3365218;11;58
+r;50187224;79346;2362315;11;59
+r;86159990;79346;3368700;11;60
+r;72892435;79346;2952989;11;68
+r;12585703;79346;378992;11;102
+r;12649593;79346;363212;11;103
+r;12711289;79346;348009;11;105
+r;12553765;79346;386905;11;110
+r;8697379;79346;228212;11;161
+r;8706253;79346;239569;11;161
+r;8641553;79346;183294;11;163
+r;8742243;79346;274348;11;163
+r;8744279;79346;276176;11;163
+r;8744496;79346;276391;11;163

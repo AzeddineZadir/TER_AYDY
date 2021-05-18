@@ -1,0 +1,30 @@
+
+e;31334;'correct';1;210
+e;6308407;'produit incorrect et produit correct dans le même conteneur';1;0
+e;15312139;'cette poussée absurde du politiquement correct';1;0
+e;15270252;'accueil correct';1;0
+e;15270257;'accueil très correct';1;0
+e;15411196;'anglais correct, anglais châtié, anglais britannique';1;0
+e;10851465;'Viril mais correct';777;0
+e;15804546;'Le repas était tout à fait correct.';1;0
+e;5712059;'algorithme est correct';777;0
+e;5710442;'probably approximately correct';777;0
+e;15270265;'Est-ce correct ?';1;0
+e;209336;'travail correct';1;50
+e;183779;'politiquement correct';1;8
+e;197846;'comportement correct';1;50
+e;199050;'effort correct';1;50
+r;299569664;31334;6308407;11;27
+r;419696382;31334;15312139;11;32
+r;419570850;31334;15270252;11;34
+r;419570907;31334;15270257;11;34
+r;419594861;31334;15411196;11;34
+r;272184380;31334;10851465;11;35
+r;419493395;31334;15804546;11;35
+r;112175795;31334;5712059;11;36
+r;112178713;31334;5710442;11;41
+r;397502932;31334;15270265;11;50
+r;8683464;31334;209336;11;162
+r;8642331;31334;183779;11;163
+r;8664077;31334;197846;11;165
+r;8666128;31334;199050;11;165

@@ -1,0 +1,586 @@
+
+e;48513;'qualité';1;392
+e;6363692;'contrôle qualité soins infirmiers';1;0
+e;6316283;'assurance de la qualité des soins infirmiers';1;0
+e;6338539;'qualité vocale normale';1;0
+e;6342086;'spécimen dont la qualité ne permet pas un diagnostic';1;0
+e;6394331;'échantillon dont la qualité ne permet pas un diagnostic';1;0
+e;12183508;'identification du type de raison pour la non satisfaction du spécimen non lié à la qualité de l'échantillon de sang séché';1;0
+e;6402826;'contrôle qualité soins médicaux';1;0
+e;6284815;'contrôle qualité gestion';1;0
+e;6390384;'amélioration de la qualité d'une image radiographique';1;0
+e;6398609;'sondage par lots en assurance qualité';1;0
+e;14412806;'qualité du miroir d'un télescope';777;0
+e;14452201;'qualité du demandeur et du déclarant';1;0
+e;14452828;'efficacité et qualité de la justice';1;0
+e;14453515;'qualité de fonctionnaire';1;0
+e;14558211;'Les archives plastiques de qualité';777;0
+e;14562683;'améliorer la qualité de l'air';1;0
+e;14562682;'améliorer la qualité de l'air urbain';1;0
+e;14609276;'de basse qualité';1;0
+e;14631463;'L'égal accès à des activités de prévention et des soins de qualité';777;0
+e;14639879;'qualité médiocre';1;0
+e;14653876;'site web de qualité';1;0
+e;14653875;'sites web de qualité';1;0
+e;14669588;'Nombre et qualité des attributs';777;0
+e;6332039;'administration d'un vaccin de mauvaise qualité';1;0
+e;15915174;'test de qualité';1;0
+e;6300546;'sommeil de mauvaise qualité';1;0
+e;6301571;'mauvaise qualité de sommeil';1;0
+e;6302823;'qualité vocale anormale';1;0
+e;6352702;'qualité de vie diminuée';1;0
+e;6358180;'vérificateur de la qualité de fabrication';1;0
+e;6396287;'vérificatrice de la qualité de fabrication';1;0
+e;12200248;'perdre en qualité';1;0
+e;14585170;'qualité de coeur';1;0
+e;14727842;'maxime de qualité';1;6
+e;16530255;'vins mousseux de qualité produits dans des régions délimitées';1;0
+e;12104924;'raison pour la non satisfaction du spécimen non lié à la qualité de l'échantillon de sang séché';1;0
+e;16507875;'directeur de l'assurance qualité';1;0
+e;16360944;'en qualité de [qqn]';1;0
+e;16360946;'en qualité de quelqu'un';1;0
+e;5574312;'qualité métrologique';777;0
+e;15769678;'critères de qualité';1;0
+e;15439487;'cuir de qualité supérieure';1;0
+e;15377301;'cuisine de qualité';1;0
+e;15235954;'de faible qualité';1;0
+e;15763382;'de la qualité la plus haute';1;0
+e;15385259;'de meilleure qualité';1;0
+e;15362562;'de plus mauvaise qualité';1;0
+e;15206432;'de qualité entreprise';1;0
+e;15377297;'de qualité inférieure';1;0
+e;15377282;'de qualité moindre';1;0
+e;15257689;'de qualité médiocre / inférieure';1;0
+e;15377284;'de qualité supérieure';1;0
+e;15354053;'de seconde qualité';1;0
+e;15296210;'des collèges où la qualité de l'enseignement est inacceptable';1;0
+e;15497863;'des critères de qualité';1;0
+e;15301080;'des ingrédients de bonne qualité';1;0
+e;15377299;'effort de qualité';1;0
+e;16169951;'coopter qn en qualité de {or} en tant que quelque chose';1;0
+e;16169952;'coopter quelqu'un en qualité de {or} en tant que quelque chose';1;0
+e;5827691;'certificat qualité de l'air';777;0
+e;5817514;'qualité de réception en télévision terrestre';777;0
+e;6445573;'sondage par lots appliqué à l'assurance qualité';1;0
+e;11054399;'système de management de la qualité';777;0
+e;15486884;'contrôle de qualité assisté par ordinateur';1;0
+e;15377291;'contrôleur de qualité';1;0
+e;15455016;'contrôleur qualité';1;0
+e;15455017;'contrôleuse qualité';1;0
+e;15502403;'coopter qn en qualité de {or} en tant que qch';1;0
+e;16360942;'audit-qualité';1;0
+e;5679367;'Articles de qualité dans toutes les langues';777;0
+e;5729151;'qualité des données';777;0
+e;15238617;'audit qualité';1;0
+e;15706002;'audit qualité de produit';1;0
+e;15317399;'auditeur de qualité';1;0
+e;14572001;'bio-indicateur de la qualité de l'environnement';1;0
+e;14572000;'bio-indicateurs de la qualité de l'environnement';1;0
+e;15542349;'bon rapport qualité prix';1;0
+e;15325643;'bonne qualité marchande';1;0
+e;15787516;'cadre de qualité';1;0
+e;15301805;'caillot de mauvaise qualité';1;0
+e;15341013;'charte qualité';1;0
+e;1830784;'contrôle de qualité des analyses biologiques';1;0
+e;1830783;'contrôle de qualité';1;0
+e;5622953;'qualité d'enduit';1;0
+e;10579227;'qualité juridique';1;0
+e;15785673;'bonne qualité gustative';1;0
+e;15327335;'assureur qualité';1;0
+e;15752509;'atteindre le niveau de qualité souhaité';1;0
+e;1828831;'assurance de la qualité d'une biométrie';1;0
+e;1840035;'norme de qualité';1;0
+e;5979458;'Fonds d'intervention pour la qualité de la vie';777;0
+e;11911527;'classes de qualité des sites touristiques de Chine';777;0
+e;11995201;'appellation d'origine vin délimité de qualité supérieure';777;0
+e;15033770;'assurance-qualité';1;0
+e;15646839;'Prix de la qualité architecturale';777;0
+e;15585238;'Qui contrôle la qualité de nos aliments?';1;0
+e;15584703;'acier de haute qualité';1;0
+e;15696196;'agrément qualité';777;0
+e;1831702;'démarche de qualité et d'accréditation';1;0
+e;1836679;'indice de qualité de survie';1;0
+e;2384792;'qualité totale';1;0
+e;5981722;'associations agréées de surveillance de la qualité de l'air';777;0
+e;15695021;'améliorer la qualité de vie d'un patient';1;0
+e;15695022;'améliorer la qualité de vie de patients';1;0
+e;15695023;'améliorer la qualité de vie des patients';1;0
+e;10838457;'qualité logicielle';777;0
+e;12033823;'minéralisation osseuse de mauvaise qualité';1;0
+e;12048989;'appliquer des normes de qualité dans les services sociaux';1;0
+e;12049399;'tenir un registre de données de production pour le contrôle de la qualité';1;0
+e;12079740;'management par la qualité';1;0
+e;12977429;'bio-indicateur de la qualité de l'eau';1;0
+e;16087157;'Ressources pour assurer la qualité';777;0
+e;16167795;'La qualité de la vapeur';777;0
+e;16167797;'La qualité de l'eau';777;0
+e;1833672;'L facteur de qualité';1;0
+e;1836678;'d'un rayonnement indice de qualité';1;0
+e;10557822;'24 articles de qualité';777;0
+e;10997974;'loi no 2002-303 du 4 mars 2002 relative aux droits des malades et à la qualité du système de santé';777;0
+e;12049692;'appliquer des normes de qualité';1;0
+e;12050083;'vérifier la qualité de produits sur une ligne de production';1;0
+e;12050044;'effectuer un contrôle de la qualité du contenu';1;0
+e;12050454;'garantir un service client de qualité';1;0
+e;12050889;'superviser la qualité de la nourriture';1;0
+e;12051750;'préserver la qualité artistique d'un spectacle';1;0
+e;12051495;'gérer la qualité du cuir tout au long du processus de production';1;0
+e;12051430;'respecter des normes de qualité en lien avec la pratique des soins de santé';1;0
+e;12051353;'gérer des analyses de qualité de l'eau';1;0
+e;12081098;'qualité d'homme';1;0
+e;12081097;'qualité de l'ajustement';1;0
+e;5810638;'source de qualité';777;0
+e;5989448;'qualité des eaux de baignade';777;0
+e;11268846;'impact sur la qualité de vie';1;0
+e;11268845;'impact majeur sur la qualité de vie';1;0
+e;12040822;'gérer la qualité';1;0
+e;12051550;'qualité d'articles en cuir';1;0
+e;5810096;'Vin de qualité produit dans une région déterminée';777;0
+e;5981759;'indice de la qualité de l'air';777;0
+e;6445114;'procédure d'assurance de la qualité des soins infirmiers';1;0
+e;12051553;'gérer des systèmes de gestion de la qualité d'articles chaussants';1;0
+e;5982327;'surveillance de la qualité de l'air';777;0
+e;11178559;'plan qualité';777;0
+e;5624607;'mesure de la qualité de l'eau';1;0
+e;11178560;'plan d'assurance qualité';777;0
+e;5982349;'station de mesure de la qualité de l'air';777;0
+e;5981809;'objectif de qualité';777;0
+e;5981793;'qualité de l'air rencontrée dans le milieu professionnel';777;0
+e;5981731;'plans régionaux pour la qualité de l'air';777;0
+e;6451723;'procédure de qualité ou d'évaluation des soins médicaux';1;0
+e;2461901;'manuel qualité';1;0
+e;5985258;'Articles de qualité';777;0
+e;6447902;'technique de sondage par lots appliquée à l'assurance qualité';1;0
+e;15705997;'La qualité est inégale.';1;0
+e;15338831;'La qualité varie du tout au tout.';1;0
+e;5782392;'langue à registres de qualité de voix';777;0
+e;6527050;'procédures d'évaluation et de qualité des soins médicaux';1;0
+e;5999800;'scores de qualité phred';777;0
+e;8853010;'qualité sanitaire';1;0
+e;9267656;'Contenus de qualité';777;0
+e;9528700;'piètre qualité';1;0
+e;9659958;'démarche de qualité';1;0
+e;9696643;'être de mauvaise qualité';1;0
+e;11122478;'label de qualité touristique';1;0
+e;12701096;'qualité méthodologique';1;0
+e;12701095;'bonne qualité méthodologique';1;0
+e;13767675;'0-805-806 procédures d'évaluation et de qualité des soins médicaux';1;0
+e;14590415;'Assurance de la qualité';777;0
+e;14590416;'Contrôle de la qualité';777;0
+e;15370365;'Dans notre travail, la qualité est primordiale.';1;0
+e;15529461;'Comme qualité, c'est n'importe quoi.';1;0
+e;16072952;'Efficacité et qualité de la justice';1;0
+e;578098;'management de la qualité';777;0
+e;3321098;'vin de qualité produit dans des régions déterminées';1;0
+e;3319743;'seigle de qualité panifiable';1;0
+e;3758907;'poudre de cacao de bonne qualité';1;0
+e;3755239;'thon frais de très bonne qualité coupé en petits dés';1;0
+e;572693;'qualité d'image';777;50
+e;2607602;'appellation d'origine vin de qualité supérieure';1;0
+e;3321289;'vin mousseux de qualité de type aromatique';1;0
+e;3750989;'cacao non sucré de qualité';1;0
+e;5517401;'altération de la qualité de l'air';1;0
+e;466031;'norme de qualité de l'air';777;50
+e;1858868;'assurance qualité';777;0
+e;1948516;'en qualité d'adjoint';1;0
+e;3321291;'vin mousseux aromatique de qualité';1;0
+e;3319708;'de qualité panifiable';1;0
+e;3754996;'rhum de bonne qualité';1;0
+e;3754991;'cacao amer de très bonne qualité';1;0
+e;3753528;'chocolat de bonne qualité';1;0
+e;5517402;'altération de la qualité';1;0
+e;2557491;'la qualité se paie';1;0
+e;3320164;'vin de qualité produit dans une région déterminée';1;0
+e;3319728;'qualité standard';1;0
+e;3754164;'vin rouge de bonne qualité';1;0
+e;572694;'qualité de la visibilité';777;50
+e;3424986;'qualité d'expérience';777;0
+e;3753627;'cacao de bonne qualité';1;0
+e;1844331;'score de qualité de vie';1;0
+e;1842726;'qualité d'un rayonnement';1;0
+e;3321662;'qualité, service et propreté';1;0
+e;3321506;'vin d'appellation d'origine de qualité supérieure';1;0
+e;3753169;'chocolat noir de qualité';1;0
+e;1569618;'améliorer la qualité de vie';1;0
+e;1633167;'article de qualité';777;0
+e;1842725;'assurance de la qualité';1;0
+e;3346618;'huile minérale de qualité alimentaire';1;0
+e;3756795;'jus d'orange de bonne qualité';1;0
+e;3755354;'chocolat noir de bonne qualité';1;0
+e;435865;'charte de qualité';1;50
+e;1842724;'amélioration continue de la qualité';1;0
+e;3319727;'qualité type';1;0
+e;3751870;'bouillon de poisson de bonne qualité';1;0
+e;2934548;'qualité sonore';1;0
+e;3132797;'haute qualité';1;0
+e;389153;'ès qualité';1;50
+e;374823;'qualité première';1;50
+e;390462;'étiquette de qualité';1;50
+e;387041;'vin de qualité';1;50
+e;374827;'qualité de vie en phase terminale';1;50
+e;374813;'qualité courrier';1;50
+e;353661;'femme de qualité';1;50
+e;388872;'à qualité égale';1;50
+e;387066;'vin délimité de qualité supérieure';1;50
+e;346903;'de toute première qualité';1;50
+e;384355;'tradition de qualité';1;50
+e;377250;'règlement de qualité';1;50
+e;375342;'rapport qualité prix';1;56
+e;374825;'qualité supérieure';1;50
+e;374811;'qualité architecturale';1;50
+e;374810;'qualité acquise';1;50
+e;372871;'prestation de qualité';1;50
+e;374829;'qualité maîtresse';1;50
+e;374819;'qualité laitière';1;50
+e;374814;'qualité de l'eau';1;50
+e;351244;'en qualité';1;50
+e;346725;'de haute qualité';1;50
+e;374826;'qualité technique';1;50
+e;374818;'qualité graphique';1;50
+e;374817;'qualité diététique';1;50
+e;374815;'qualité de l'environnement';1;50
+e;374812;'qualité boulangère';1;50
+e;388871;'à qualité similaire';1;50
+e;388870;'à qualité comparable';1;50
+e;374824;'qualité routière';1;50
+e;380755;'sous label de qualité';1;50
+e;374828;'qualité journalistique';1;50
+e;374820;'qualité littéraire';1;50
+e;356100;'gens de qualité';1;50
+e;346719;'de grande qualité';1;50
+e;374830;'qualité naturelle';1;50
+e;374822;'qualité nutritive';1;50
+e;374816;'qualité de la vie';1;50
+e;369791;'personne de qualité';1;50
+e;366903;'objet de qualité';1;50
+e;355886;'garantie de qualité';1;50
+e;374821;'qualité nutritionnelle';1;50
+e;320643;'qualité humaine';1;50
+e;326172;'qualité de l'air';1;52
+e;254323;'de première qualité';1;50
+e;254324;'de bonne qualité';1;16
+e;254325;'de mauvaise qualité';1;12
+e;260306;'être de bonne qualité';1;60
+e;260362;'de moindre qualité';1;50
+e;263582;'de la meilleure qualité';1;50
+e;228962;'contrôle qualité';1;50
+e;231205;'gestion de la qualité';1;52
+e;234746;'qualité de vie';1;24
+e;235869;'qualité de service';1;50
+e;247938;'qualité environnementale';1;50
+e;253786;'bonne qualité';1;52
+e;257444;'démarche qualité';1;50
+e;258472;'qualité organoleptique';1;50
+e;51524;'de qualité';1;74
+e;97772;'en qualité de';1;50
+e;164558;'qualité de bourgeois';1;50
+e;202552;'la quantité ne fait pas la qualité';1;50
+e;48001;'qualité du bonheur';1;50
+e;75660;'label de qualité';1;50
+e;154716;'mauvaise qualité';1;80
+e;179781;'cercle de qualité';1;50
+e;265566;'qualité gustative';1;50
+e;267266;'qualité morale';1;50
+e;268623;'grande qualité';1;50
+e;269125;'homme de qualité';1;50
+e;275670;'qualité sanitaire de la nourriture';777;50
+e;300231;'Institut national de l'origine et de la qualité';777;50
+e;190710;'haute qualité environnementale';1;50
+e;196664;'avoir qualité pour';1;50
+e;198339;'de deuxième qualité';1;50
+e;199684;'ès qualité de';1;50
+e;312712;'qualité nutritionelle';1;50
+e;199784;'état de qualité';1;50
+r;357720214;48513;6363692;11;25
+r;299786853;48513;6316283;11;25
+r;301446192;48513;6338539;11;25
+r;301487475;48513;6342086;11;25
+r;304994061;48513;6394331;11;25
+r;316606019;48513;12183508;11;25
+r;319056594;48513;6402826;11;25
+r;319071502;48513;6284815;11;25
+r;341190560;48513;6390384;11;25
+r;349201348;48513;6398609;11;25
+r;366183603;48513;14412806;11;25
+r;366815684;48513;14452201;11;25
+r;366879110;48513;14452828;11;25
+r;366903992;48513;14453515;11;25
+r;369947301;48513;14558211;11;25
+r;369993002;48513;14562683;11;25
+r;369993016;48513;14562682;11;25
+r;371235986;48513;14609276;11;25
+r;371687161;48513;14631463;11;25
+r;372242573;48513;14639879;11;25
+r;372568747;48513;14653876;11;25
+r;372568901;48513;14653875;11;25
+r;373022101;48513;14669588;11;25
+r;399504202;48513;6332039;11;25
+r;414352794;48513;15915174;11;25
+r;299130532;48513;6300546;11;26
+r;299220239;48513;6301571;11;26
+r;299333020;48513;6302823;11;26
+r;301747779;48513;6352702;11;26
+r;302033003;48513;6358180;11;26
+r;305035951;48513;6396287;11;26
+r;316342733;48513;12200248;11;26
+r;370599658;48513;14585170;11;26
+r;374421802;48513;14727842;11;26
+r;434556307;48513;16530255;11;26
+r;315528029;48513;12104924;11;28
+r;434384212;48513;16507875;11;29
+r;434387976;48513;16360944;11;29
+r;434387984;48513;16360946;11;29
+r;110597829;48513;5574312;11;30
+r;419751871;48513;15769678;11;30
+r;419754785;48513;15439487;11;30
+r;419754993;48513;15377301;11;30
+r;419766618;48513;15235954;11;30
+r;419768102;48513;15763382;11;30
+r;419768741;48513;15385259;11;30
+r;419769563;48513;15362562;11;30
+r;419769714;48513;15206432;11;30
+r;419769720;48513;15377297;11;30
+r;419769726;48513;15377282;11;30
+r;419769732;48513;15257689;11;30
+r;419769740;48513;15377284;11;30
+r;419770064;48513;15354053;11;30
+r;419773956;48513;15296210;11;30
+r;419774026;48513;15497863;11;30
+r;419774545;48513;15301080;11;30
+r;419833358;48513;15377299;11;30
+r;434381295;48513;16169951;11;30
+r;434381313;48513;16169952;11;30
+r;113765573;48513;5827691;11;31
+r;113771714;48513;5817514;11;31
+r;121477999;48513;6445573;11;31
+r;279946461;48513;11054399;11;31
+r;419737947;48513;15486884;11;31
+r;419738359;48513;15377291;11;31
+r;419738405;48513;15455016;11;31
+r;419738444;48513;15455017;11;31
+r;419739893;48513;15502403;11;31
+r;434372868;48513;16360942;11;31
+r;111461482;48513;5679367;11;32
+r;112664145;48513;5729151;11;32
+r;419621789;48513;15238617;11;32
+r;419621793;48513;15706002;11;32
+r;419621836;48513;15317399;11;32
+r;419654083;48513;14572001;11;32
+r;419654089;48513;14572000;11;32
+r;419658249;48513;15542349;11;32
+r;419658921;48513;15325643;11;32
+r;419675784;48513;15787516;11;32
+r;419676473;48513;15301805;11;32
+r;419702109;48513;15341013;11;32
+r;29953808;48513;1830784;11;33
+r;29954620;48513;1830783;11;33
+r;110724026;48513;5622953;11;33
+r;263701520;48513;10579227;11;33
+r;410087385;48513;15785673;11;33
+r;419614730;48513;15327335;11;33
+r;419616295;48513;15752509;11;33
+r;29931777;48513;1828831;11;34
+r;30041516;48513;1840035;11;34
+r;117916646;48513;5979458;11;34
+r;307498990;48513;11911527;11;34
+r;312590476;48513;11995201;11;34
+r;393614098;48513;15033770;11;34
+r;419528514;48513;15646839;11;34
+r;419532148;48513;15585238;11;34
+r;419573361;48513;15584703;11;34
+r;419582788;48513;15696196;11;34
+r;29962436;48513;1831702;11;35
+r;30018129;48513;1836679;11;35
+r;52997020;48513;2384792;11;35
+r;117906958;48513;5981722;11;35
+r;403527254;48513;15695021;11;35
+r;403527202;48513;15695022;11;35
+r;403527117;48513;15695023;11;35
+r;271604148;48513;10838457;11;35
+r;313607008;48513;12033823;11;35
+r;313626769;48513;12048989;11;35
+r;313654023;48513;12049399;11;35
+r;315116429;48513;12079740;11;35
+r;332114433;48513;12977429;11;35
+r;419485274;48513;16087157;11;35
+r;425017446;48513;16167795;11;35
+r;425067763;48513;16167797;11;35
+r;29981113;48513;1833672;11;36
+r;30009814;48513;1836678;11;36
+r;263233947;48513;10557822;11;36
+r;278047683;48513;10997974;11;36
+r;313669962;48513;12049692;11;36
+r;313688724;48513;12050083;11;36
+r;313689079;48513;12050044;11;36
+r;313697823;48513;12050454;11;36
+r;313703392;48513;12050889;11;36
+r;313762349;48513;12051750;11;36
+r;313763443;48513;12051495;11;36
+r;313763706;48513;12051430;11;36
+r;313764216;48513;12051353;11;36
+r;315109241;48513;12081098;11;36
+r;315109246;48513;12081097;11;36
+r;113276759;48513;5810638;11;37
+r;117873106;48513;5989448;11;37
+r;288774029;48513;11268846;11;37
+r;288774037;48513;11268845;11;37
+r;313552453;48513;12040822;11;37
+r;313728447;48513;12051550;11;38
+r;113277798;48513;5810096;11;39
+r;117906784;48513;5981759;11;39
+r;121482237;48513;6445114;11;39
+r;313728675;48513;12051553;11;39
+r;117905571;48513;5982327;11;41
+r;286806219;48513;11178559;11;41
+r;110767683;48513;5624607;11;42
+r;286713709;48513;11178560;11;42
+r;117905413;48513;5982349;11;43
+r;117906531;48513;5981809;11;43
+r;117906622;48513;5981793;11;43
+r;117906894;48513;5981731;11;43
+r;121031722;48513;6451723;11;43
+r;55696779;48513;2461901;11;44
+r;117892260;48513;5985258;11;44
+r;121457040;48513;6447902;11;44
+r;417033303;48513;15705997;11;44
+r;417033307;48513;15338831;11;44
+r;112657036;48513;5782392;11;45
+r;121443951;48513;6527050;11;49
+r;118544226;48513;5999800;11;50
+r;190282438;48513;8853010;11;50
+r;212858889;48513;9267656;11;50
+r;214486992;48513;9528700;11;50
+r;217023623;48513;9659958;11;50
+r;217371644;48513;9696643;11;50
+r;282394886;48513;11122478;11;50
+r;325690913;48513;12701096;11;50
+r;327329974;48513;12701095;11;50
+r;348970694;48513;13767675;11;50
+r;370770634;48513;14590415;11;50
+r;370771333;48513;14590416;11;50
+r;395030069;48513;15370365;11;50
+r;397848119;48513;15529461;11;50
+r;419101521;48513;16072952;11;50
+r;17918459;48513;578098;11;51
+r;18261115;48513;582995;11;51
+r;83663459;48513;3321098;11;51
+r;83669946;48513;3319743;11;51
+r;93652250;48513;3758907;11;52
+r;93687604;48513;3755239;11;52
+r;17696859;48513;572693;11;53
+r;55689587;48513;2607602;11;53
+r;83662403;48513;3321289;11;53
+r;93597415;48513;3750989;11;53
+r;108408794;48513;5517401;11;53
+r;16874083;48513;466031;11;54
+r;18260999;48513;582994;11;54
+r;30073044;48513;1858868;11;54
+r;31503664;48513;1948516;11;54
+r;83662393;48513;3321291;11;54
+r;83670121;48513;3319708;11;54
+r;93689817;48513;3754996;11;54
+r;93689847;48513;3754991;11;54
+r;93703630;48513;3753528;11;54
+r;108499035;48513;5517402;11;54
+r;52449129;48513;2557491;11;55
+r;83667661;48513;3320164;11;55
+r;83670033;48513;3319728;11;56
+r;93697471;48513;3754164;11;56
+r;17696855;48513;572694;11;57
+r;87381254;48513;3424986;11;57
+r;93702700;48513;3753627;11;57
+r;29888675;48513;1844331;11;58
+r;29898937;48513;1842726;11;58
+r;83660410;48513;3321662;11;58
+r;83661388;48513;3321506;11;58
+r;93706907;48513;3753169;11;58
+r;25265906;48513;1569618;11;59
+r;25755266;48513;1633167;11;59
+r;29898943;48513;1842725;11;59
+r;85774098;48513;3346618;11;59
+r;93672129;48513;3756795;11;59
+r;93686581;48513;3755354;11;59
+r;14367488;48513;435865;11;60
+r;29898949;48513;1842724;11;60
+r;83670038;48513;3319727;11;60
+r;93718914;48513;3751870;11;60
+r;72077215;48513;2934548;11;61
+r;75948399;48513;3132797;11;61
+r;12545327;48513;389153;11;101
+r;12602619;48513;374823;11;101
+r;12540119;48513;390462;11;102
+r;12553215;48513;387041;11;102
+r;12602597;48513;374827;11;102
+r;12602655;48513;374813;11;102
+r;12688551;48513;353661;11;102
+r;12546449;48513;388872;11;103
+r;12553103;48513;387066;11;103
+r;12715821;48513;346903;11;103
+r;12564045;48513;384355;11;104
+r;12592961;48513;377250;11;104
+r;12600559;48513;375342;11;104
+r;12602611;48513;374825;11;104
+r;12602663;48513;374811;11;104
+r;12602665;48513;374810;11;104
+r;12610669;48513;372871;11;104
+r;12602589;48513;374829;11;105
+r;12602631;48513;374819;11;105
+r;12602651;48513;374814;11;105
+r;12698291;48513;351244;11;105
+r;12716569;48513;346725;11;105
+r;12602607;48513;374826;11;106
+r;12602635;48513;374818;11;106
+r;12602639;48513;374817;11;106
+r;12602647;48513;374815;11;106
+r;12602659;48513;374812;11;106
+r;12546453;48513;388871;11;107
+r;12546457;48513;388870;11;107
+r;12602615;48513;374824;11;107
+r;12578403;48513;380755;11;108
+r;12602593;48513;374828;11;108
+r;12602627;48513;374820;11;108
+r;12678717;48513;356100;11;108
+r;12716595;48513;346719;11;108
+r;12602585;48513;374830;11;109
+r;12602623;48513;374822;11;109
+r;12602643;48513;374816;11;109
+r;12623387;48513;369791;11;109
+r;12634583;48513;366903;11;109
+r;12679599;48513;355886;11;109
+r;12602625;48513;374821;11;110
+r;9060223;48513;320643;11;148
+r;11280953;48513;326172;11;148
+r;8718289;48513;254323;11;160
+r;8718291;48513;254324;11;160
+r;8718293;48513;254325;11;160
+r;8726763;48513;260306;11;160
+r;8726821;48513;260362;11;160
+r;8730821;48513;263582;11;160
+r;8697790;48513;228962;11;161
+r;8699704;48513;231205;11;161
+r;8702304;48513;234746;11;161
+r;8703445;48513;235869;11;161
+r;8711322;48513;247938;11;161
+r;8717579;48513;253786;11;161
+r;8722660;48513;257444;11;161
+r;8724083;48513;258472;11;161
+r;8587325;48513;51524;11;162
+r;8603361;48513;97772;11;162
+r;8629087;48513;164558;11;162
+r;8672138;48513;202552;11;162
+r;8586046;48513;48001;11;163
+r;8595586;48513;75660;11;163
+r;8624086;48513;154716;11;163
+r;8636264;48513;179781;11;163
+r;8733227;48513;265566;11;163
+r;8735192;48513;267266;11;163
+r;8736432;48513;268623;11;163
+r;8736962;48513;269125;11;163
+r;8743605;48513;275670;11;163
+r;8766931;48513;300231;11;163
+r;8653135;48513;190710;11;164
+r;8662035;48513;196664;11;164
+r;8664917;48513;198339;11;164
+r;8667093;48513;199684;11;164
+r;8779055;48513;312712;11;164
+r;8667273;48513;199784;11;165

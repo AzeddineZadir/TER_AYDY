@@ -1,0 +1,1151 @@
+
+e;16930;'prise';1;558
+e;6347983;'prise en charge pour mise en place et ajustement d'autres appareils';1;0
+e;6347974;'prise en charge pour surveillance d'une grossesse normale';1;0
+e;6348028;'prise en charge pour soins palliatifs';1;0
+e;6362135;'prise en charge pour conseils et avis généraux en matière de procréation';1;0
+e;6285222;'facilitation de la prise de greffon';1;0
+e;6299383;'prise en charge pour conseil et surveillance pour toxicomanie et pharmacodépendance';1;0
+e;6308337;'prise de poids médiocre';1;0
+e;6312806;'photothérapie uva avec prise de psoralènes';1;0
+e;6315226;'examen médical et prise de contact à des fins administratives';1;0
+e;6316184;'prise du pouls apical';1;0
+e;6316051;'prise en charge pour ajustement et entretien d'autres prothèses internes';1;0
+e;6317845;'anamnèse et examen physique avec prise en charge du patient';1;0
+e;6321031;'réévaluation périodique et prise en charge d'une personne en bonne santé';1;0
+e;6325098;'prise en charge pour ajustement et entretien d'une prothèse de conduction osseuse';1;0
+e;6325780;'prise en charge pour perçage du lobe de l'oreille';1;0
+e;6326609;'prise en charge pour tuboplastie ou vasoplastie après stérilisation';1;0
+e;6326691;'prise en charge pour grossesse constatée fortuitement';1;0
+e;6327209;'prise en charge pour changement de pansement';1;0
+e;6326488;'encouragement à la prise de liquide';1;0
+e;6328078;'prise en charge pour surveillance de contraceptifs';1;0
+e;6330505;'prise en charge pour surveillance des sutures et pansements chirurgicaux';1;0
+e;6333807;'prise en charge pour soins de contrôle comprenant une opération plastique du sein';1;0
+e;6334516;'prise en charge pour contrôle de routine au cours du post-partum';1;0
+e;6335691;'prise en charge pour d'autres thérapies sans raison médicale';1;0
+e;6339568;'prise en charge pour surveillance d'autres stomies';1;0
+e;6341331;'prise en charge pour surveillance médicale et soins médicaux des enfants trouvés';1;0
+e;6342781;'prise en charge pour mise en place et ajustement d'une iléostomie et autres dispositifs intestinaux';1;0
+e;6344300;'prise en charge d'un cathéter péritonéal';1;0
+e;6345236;'facilitation immunologique de la prise du greffon';1;0
+e;6345118;'prise en charge pour ajustement et entretien d'un stimulateur cardiaque';1;0
+e;6345687;'prise en charge pour fauteuil roulant';1;0
+e;6347984;'prise en charge pour ajustement et entretien d'une prothèse cochléaire';1;0
+e;6348473;'prise en charge pour renouvellement d'une ordonnance';1;0
+e;6351264;'anamnèse et examen physique avec prise en charge du nouveau patient';1;0
+e;6353818;'prise en charge des voies aériennes';1;0
+e;6354600;'prise en charge par un médecin des services d'urgence';1;0
+e;6355163;'prise en charge pour surveillance d'autres stomies des voies urinaires';1;0
+e;6357552;'prise en charge pour surveillance et conseils diététiques';1;0
+e;6361929;'prise en charge pour mesures procréatives';1;0
+e;6362147;'prise en charge pour surveillance de cystostomie';1;0
+e;6363259;'prise en charge pour d'autres formes précisées de soins médicaux';1;0
+e;6366018;'prise en charge de la maladie';1;0
+e;6369384;'prise en charge post-natale';1;0
+e;6373773;'anamnèse et examen physique avec prise en charge du patient connu';1;0
+e;6374689;'prise en charge pour mise en place et ajustement d'autres appareils précisés';1;0
+e;6374955;'prise en charge nécessitée par lit non disponible dans un autre établissement adéquat';1;0
+e;6378685;'anamnèse et examen physique avec prise en charge du patient à domicile ou d'une maison de repos';1;0
+e;6378996;'prise en charge des cas individuels';1;0
+e;6380211;'prise en charge pour ajustement et entretien d'une prothèse auditive implantée';1;0
+e;6382129;'prise en charge du comportement';1;0
+e;6382305;'prise en charge pour surveillance d'une stomie non précisée';1;0
+e;6383399;'prise en charge du deuil';1;0
+e;6383636;'prise en charge anténatale';1;0
+e;6384354;'prise en charge pour surveillance de colostomie';1;0
+e;6384136;'prise en charge pour surveillance de vagin artificiel';1;0
+e;6386981;'prise en charge pour mise en place et ajustement d'une prothèse externe du sein';1;0
+e;6387298;'prise en charge pour d'autres soins de contrôle orthopédiques précisés';1;0
+e;6387375;'prise en charge postnatale';1;0
+e;6390127;'régulation de la prise alimentaire';1;0
+e;6393095;'prise en charge pour stérilisation';1;0
+e;6394124;'prise en charge pour mise en place et ajustement d'une prothèse dentaire';1;0
+e;6394492;'prise en charge pour ajustement et entretien d'une prothèse interne non précisée';1;0
+e;6396243;'prise en charge pendant les vacances';1;0
+e;6396611;'prise en charge pour surveillance d'une première grossesse normale';1;0
+e;6398617;'prise en charge pour ajustement et entretien d'une pompe à perfusion';1;0
+e;6401909;'prise en charge pour d'autres opérations plastiques pour raisons esthétiques';1;0
+e;6403438;'prise en charge préconceptionnelle';1;0
+e;6406152;'prise en charge pour mise en place et ajustement d'autres appareils de prothèse externe';1;0
+e;6406365;'prise en charge pour séance de radiothérapie';1;0
+e;6408992;'prise en charge pour séance de chimiothérapie pour tumeur';1;0
+e;6409376;'prise en charge pour ajustement et entretien d'une prothèse interne';1;0
+e;6410358;'prise en charge pour examen et test de grossesse';1;0
+e;6410627;'prise en charge pour d'autres soins médicaux';1;0
+e;6410886;'prise en charge pour conseil génétique';1;0
+e;6415363;'encouragement à la prise de nourriture';1;0
+e;6414935;'prise en charge pour conseil et surveillance pour alcoolisme';1;0
+e;6415286;'prise en charge pour surveillance de trachéostomie';1;0
+e;6419773;'prise de poids excessive au cours de la grossesse sans hypertension';1;0
+e;12158800;'mesure d'heure prise suivante';1;0
+e;12158762;'mesure d'heure de la dernière prise';1;0
+e;12143791;'mesure de date de la dernière prise';1;0
+e;12140417;'mesure de corticotropine heure de prise';1;0
+e;6309985;'prise en charge prénatale';1;0
+e;6343255;'prise en charge des voies respiratoires';1;0
+e;6385290;'prise de la température par voie rectale';1;0
+e;6284418;'prise en charge d'un abcès';1;0
+e;6314337;'prise en charge des soins infirmiers';1;0
+e;6344250;'anamnèse et examen physique avec prise en charge du patient hospitalisé';1;0
+e;6322099;'prise en charge pour soins de contrôle comprenant une opération plastique';1;0
+e;6394526;'prise en charge de traitement en radiothérapie';1;0
+e;6407676;'prise en charge pour ablation de sutures';1;0
+e;6414443;'anamnèse et examen physique avec prise en charge du patient d'un établissement de soins infirmiers';1;0
+e;13709310;'prise du fort d'Eben-Emael';777;0
+e;13731056;'prise en charge par le SAMU';1;0
+e;6381944;'échec de prise';1;0
+e;6328851;'prise en charge pour surveillance d'une dialyse';1;0
+e;6394694;'prise en charge pour dépistage prénatal';1;0
+e;6381427;'prise de poids excessive au cours de la grossesse';1;0
+e;14070510;'aire de prise de contact';1;0
+e;14159595;'avoir dormi les doigts dans la prise';1;0
+e;14453001;'prise en compte dans les revenus du débiteur';1;0
+e;14454328;'prise en charge d'un mandat ou d'un titre';1;0
+e;14530679;'prise de transformateur';777;0
+e;14538355;'prise de Constantine';777;0
+e;14612059;'prise en charge initiale';1;0
+e;14612315;'prise de plongée';1;0
+e;14612207;'prise de responsabilité';1;0
+e;14631462;'La permanence de l'accueil et de la prise en charge';777;0
+e;14655075;'prise de vue réelle';777;0
+e;14669504;'La prise de Carhaix en février 1489';777;0
+e;14679707;'prise comme référence';1;0
+e;14773822;'prise de décision publique';1;0
+e;15451628;'prise en charge de [qch]';1;0
+e;15451626;'prise en charge de [qch/qqn]';1;0
+e;15696347;'sable à prise chimique';777;0
+e;6284427;'prise en charge pour mise en place et ajustement d'un appareil urinaire';1;0
+e;6288142;'dose mensuelle prise moins fréquemment';1;0
+e;6293225;'prise en charge pour mise en place et ajustement d'un appareil de prothèse externe non précisé';1;0
+e;6289899;'prise en charge d'une contraception';1;0
+e;6290591;'prise en charge pour surveillance d'une autre grossesse normale';1;0
+e;6290862;'prise en charge pour d'autres opérations prophylactiques';1;0
+e;6294046;'prise en charge pour surveillance de gastrostomie';1;0
+e;6295671;'prise en charge pour d'autres mesures procréatives';1;0
+e;6296380;'prise en charge pour d'autres soins de contrôle orthopédiques';1;0
+e;6299332;'prise en charge pour surveillance médicale et soins médicaux d'autres nourrissons et enfants en bonne santé';1;0
+e;6306837;'prise régulière de laxatifs';1;0
+e;6309389;'prise en charge pour circoncision rituelle et de routine';1;0
+e;6308941;'prise en charge pour soins de contrôle comprenant une opération plastique d'autres parties du corps';1;0
+e;6310566;'prise en charge pour opération prophylactique pour facteur de risque de tumeurs malignes';1;0
+e;6313171;'prise en charge pour mise en place et ajustement d'un appareil orthodontique';1;0
+e;6314428;'prise en charge pour soins et examens du post-partum';1;0
+e;6315524;'prise en charge pour recherches et tests en vue d'une procréation';1;0
+e;6315969;'dose mensuelle prise plus fréquemment';1;0
+e;6316739;'prise en charge pour surveillance de stomies';1;0
+e;6318967;'prise en charge pour surveillance de néphrostomie';1;0
+e;6319140;'prise en charge pour d'autres soins de contrôle chirurgicaux précisés';1;0
+e;6321366;'prise en charge pour mise en place et ajustement d'un appareil auditif';1;0
+e;6321880;'Évaluation et prise en charge du patient à domicile';1;0
+e;6324845;'prise en charge pour conseil relatif aux attitudes en matière de sexualité';1;0
+e;6326110;'prise de boisson';1;0
+e;6339397;'prise de la trayeuse';1;0
+e;6362437;'dose hebdomadaire prise plus fréquemment';1;0
+e;6364233;'dose hebdomadaire prise moins fréquemment';1;0
+e;6374408;'dose quotidienne prise moins fréquemment';1;0
+e;6380623;'dose quotidienne prise plus fréquemment';1;0
+e;6395669;'prise de la température par voie orale';1;0
+e;6410300;'prise du pouls pédieux';1;0
+e;6420741;'conseil ou prise en charge de pratique actuelle d'une contraception';1;0
+e;6421449;'faible prise de poids au cours de la grossesse';1;0
+e;6379026;'prise en charge du cycle menstruel';1;0
+e;6396347;'syndrome de prise de greffe';1;0
+e;6352191;'échec de prise des plaquettes';1;0
+e;14241992;'prise USB';1;0
+e;14252121;'prise allume-cigare';1;0
+e;14530589;'prise du pouvoir';1;0
+e;14530737;'prise usb';1;0
+e;14726796;'ne pas lâcher prise';1;0
+e;14914980;'prise d'otages du vol 8969 Air France';777;0
+e;6428460;'évaluation et prise en charge du patient externe connu au cabinet ou à un autre établissement de consultation externe';1;0
+e;6423217;'échec de prise des neutrophiles';1;0
+e;6302017;'prise accidentelle d'un médicament par un enfant';1;0
+e;6310585;'prise orale réduite';1;0
+e;6359942;'prise de greffe retardée';1;0
+e;12116693;'traitement délai prise';1;0
+e;12098134;'heure prise suivante';1;0
+e;12098119;'heure de la dernière prise';1;0
+e;12094861;'date de la dernière prise';1;0
+e;12093973;'corticotropine heure de prise';1;0
+e;6427638;'prise en charge pour mise en place et ajustement d'un oeil artificiel';1;0
+e;6393970;'prise en charge pour soins préparatoires en vue d'une dialyse';1;0
+e;10732355;'prise de soumission';777;0
+e;6320857;'prise de drogues illicites par la mère';1;0
+e;12116347;'délai prise';1;0
+e;6431633;'Épilepsie réflexe à la prise d'aliment';1;0
+e;11768353;'prise de contrôle de Socotra par les Émirats arabes unis';777;0
+e;6424671;'prise en charge personnalisée du patient';1;0
+e;9986989;'retardateur de prise';777;0
+e;10595486;'prise d'otages de Niamey de janvier 2011';777;0
+e;10903048;'troisième prise échappée';777;0
+e;10903047;'troisième prise non attrapée';777;0
+e;10965928;'éviter une prise de tête';1;0
+e;11771186;'prise d'otages d'Ouvéa';777;0
+e;15451606;'demande de prise en charge';1;0
+e;15402667;'depuis la prise de pouvoir, depuis l'accession au pouvoir, depuis qu'ils sont en responsabilité';1;0
+e;15490940;'débrancher la prise de';1;0
+e;15324505;'décision prise de manière impromptue';1;0
+e;15324503;'décision prise sans réfléchir';1;0
+e;15324504;'décision prise sur le moment';1;0
+e;15323864;'décision prise à un niveau bien plus haut que le mien';1;0
+e;15337638;'eau prise';1;0
+e;15525123;'elle n'aime pas être prise en photo';1;0
+e;15513217;'en prise avec [qch]';1;0
+e;15513219;'en prise avec quelque chose';1;0
+e;15225596;'en prise directe';1;0
+e;16044461;'en prise directe avec';1;0
+e;15211572;'en prise quotidienne';1;0
+e;15513221;'en une seule prise';1;0
+e;6441898;'prise en charge pour soins et examens de l'allaitement maternel';1;0
+e;6441428;'prise d'empreintes du pied du nouveau-né';1;0
+e;6441230;'prise en charge pour soins et examens immédiatement après l'accouchement';1;0
+e;6431600;'prise d'empreinte génétique';1;0
+e;6430756;'dermite due à une substance non précisée prise par voie interne';1;0
+e;8012088;'prise de fonctions';1;0
+e;9999776;'opérateur de prise de vues';777;0
+e;11035117;'prise d'otages du vol Air France 8969';777;0
+e;12321275;'prise de contrôle par emprunt';777;0
+e;15226897;'ciment à prise rapide';1;0
+e;15573618;'colle à prise rapide';1;0
+e;6441361;'prise en charge pour surveillance d'urétérostomie';1;0
+e;6439378;'soins médicaux ou infirmiers ou surveillance médicale d'enfants en bonne santé selon des circonstances telles que enfants trop nombreux à la maison pour pouvoir en assurer la prise en charge normale';1;0
+e;6434334;'technique de prise d'empreinte';1;0
+e;6429611;'facilitation immunitaire de la prise du greffon';1;0
+e;10585264;'prise de Béjaïa';777;0
+e;10874780;'prise de contraste de la paroi de l`abcès';1;0
+e;11828274;'prise d'anti-inflammatoires';1;0
+e;11828273;'prise d'analgésiques';1;0
+e;15397590;'avec prise en charge par la Sécurité sociale';1;0
+e;15489409;'avoir la gorge prise';1;0
+e;15452419;'avoir prise sur [qqn]';1;0
+e;15752695;'avoir prise sur qn';1;0
+e;15513216;'avoir prise sur quelqu'un';1;0
+e;15434539;'belle prise';1;0
+e;15426433;'bon de prise en charge';1;0
+e;15397105;'bonne prise';1;0
+e;15323742;'cache prise';1;0
+e;15441830;'changement de prise';1;0
+e;15388083;'changeur de prise';1;0
+e;16519969;'accord de prise en pension';1;0
+e;5567159;'procédé à prise chimique';777;0
+e;6446192;'prise de conscience pendant l'anesthésie';1;0
+e;6444143;'prise d'aliment';1;0
+e;6422825;'prise du pouls radial';1;0
+e;6752142;'qui offre prise';1;0
+e;10742892;'siège et prise de Gaza';777;0
+e;10742885;'siège et prise de Tyr';777;0
+e;11060908;'prise d'otages du théâtre de Moscou';777;0
+e;11349651;'prise d'otages de la maternelle de Neuilly';777;0
+e;11901273;'prise d'otages de Sydney';777;0
+e;15593442;'appareil de prise de vue';1;0
+e;5919747;'prise d'otages de Tiguentourine';777;0
+e;5919746;'prise d'otages d'In Amenas';777;0
+e;5919241;'prise d'otages du siège de l'OPEP à Vienne';777;0
+e;10747796;'ville de Verneuil fut prise';777;0
+e;10747765;'prise de Paris';777;0
+e;10747721;'prise de Mantes';777;0
+e;10850582;'prise de Fort l'Écluse';777;0
+e;11081733;'prise de l'île de France';777;0
+e;11347893;'prise du Peñon de Velez';777;0
+e;11825284;'prise de Moscou';777;0
+e;16073732;'Ordonnance de prise de corps';1;0
+e;15520710;'Plus de femmes devraient être associées à la prise de décision.';1;0
+e;15951136;'Sur la prise en compte de l'équilibre bénéfice et risque';777;0
+e;1827186;'prise en charge d'un malade alzheimérien';1;0
+e;1827470;'angéite associée à la prise de médicaments ou de drogues';1;0
+e;1832350;'prise en charge globale de la douleur';1;0
+e;5832137;'prise de puissance';777;0
+e;6429610;'prise en charge pour thérapie sans raison médicale';1;0
+e;6425676;'prise en charge pour d'autres soins de contrôle chirurgicaux';1;0
+e;6422563;'prise en charge pour conseil pour tabagisme';1;0
+e;6422420;'prise en charge pour d'autres formes de conseils en matière de sexualité';1;0
+e;10850927;'prise de Bougie';777;0
+e;10850926;'prise de Bône';777;0
+e;10850921;'prise d'Oran';777;0
+e;11347892;'prise de Mers el-Kébir';777;0
+e;11347897;'prise du Peñon d'Alger';777;0
+e;11347895;'prise d'Alger';777;0
+e;12049019;'mettre en uvre la prise de décision dans le cadre de l'action sociale';1;0
+e;12080953;'prise d'acte';1;0
+e;12080952;'prise accessoire';1;0
+e;15688330;'Marche pour la prise de Paris';777;0
+e;15937837;'Mme Jermyn s'était prise d'une grande affection pour lui.';1;0
+e;6447288;'prise de conscience non voulue pendant l'anesthésie';1;0
+e;6424510;'prise en charge d'un patient';1;0
+e;10834262;'personne responsable de la prise de vues';1;0
+e;11014518;'prise de Gibraltar';777;0
+e;11017541;'prise de Turin';777;0
+e;12049781;'prendre en considération les critères économiques dans la prise de décisions';1;0
+e;12067925;'prise de contraceptifs';1;0
+e;12067924;'prise de contraceptifs oraux';1;0
+e;12080955;'prise porte plume';1;0
+e;12080954;'prise de décision collaborative';1;0
+e;6449971;'prise en charge pour ajustement et entretien d'un dispositif d'accès vasculaire';1;0
+e;6526175;'Évaluation et prise en charge du patient';1;0
+e;6436296;'prise en charge pour surveillance d'urétrostomie';1;0
+e;6427446;'prise en charge pour conseils et avis généraux concernant la contraception';1;0
+e;6427191;'prise en charge pour mise en place et ajustement d'autres appareils en rapport avec le système nerveux et les organes des sens';1;0
+e;8245776;'prise chronique de médicament';1;0
+e;11017742;'prise de Cadix';777;0
+e;10850974;'prise du Teniah de Mouzaïa';777;0
+e;11095781;'prise du fort d'Ében-Émael';777;0
+e;2433550;'prise de becs';1;0
+e;2436183;'prise marteau';1;0
+e;5804261;'procédé de prise de vues';1;0
+e;6442309;'prise en charge pour conseil relatif au comportement et à l'orientation du sujet en matière de sexualité';1;0
+e;6442276;'prise en charge d'oedème cérébral';1;0
+e;6436093;'commission d'evaluation de la prise en charge';1;0
+e;10298053;'Société française d'études et de prise en charge de la transidentité';777;0
+e;11233341;'prise d'otages de Tilff';777;0
+e;6450917;'prise d'empreintes sur l'adn';1;0
+e;6526816;'Évaluation et prise en charge - nouveaux patients';1;0
+e;6447919;'prise en charge pour mise en place et ajustement d'appareils de prothèse externe';1;0
+e;6428294;'prise en charge du patient';1;0
+e;11155673;'prise d'otages des Jeux olympiques de Munich';777;0
+e;6670809;'mode de prise en charge';1;0
+e;5892991;'systèmes de prise de décision';777;0
+e;6526611;'Évaluation et prise en charge - patients hospitalisés';1;0
+e;6432220;'lésion du cuir chevelu due à une incision pour prise d'échantillon en obstétrique';1;0
+e;10088281;'prise de vues réelle';777;0
+e;11011762;'prise d'otages du magasin Hyper Cacher de la porte de Vincennes';777;0
+e;11304188;'prise d'otages de Gladbeck';777;0
+e;11384014;'prise de Capri';777;0
+e;11573076;'prise médicamenteuse de thyroxine';1;0
+e;11958080;'prise d'otages du Maersk Alabama';777;0
+e;10458322;'prise d'otages de Beslan';777;0
+e;11104214;'prise de la Grande Mosquée';777;0
+e;11175052;'réseaux de prévention et de prise en charge de l'obésité pédiatrique';777;0
+e;11175053;'prise en charge d'une détresse respiratoire';1;0
+e;11208709;'prise de La Gravelle';777;0
+e;11374407;'une prise en charge judiciaire';777;0
+e;11384767;'prise gigogne';777;0
+e;11575618;'marionnette à prise directe';1;0
+e;12279455;'prise de vues réelles';777;0
+e;6440308;'commissions d'evaluation de la prise en charge';1;0
+e;6427471;'prise en charge pour d'autres conseils précisés';1;0
+e;11157872;'prise en otage de Denis Allex';777;0
+e;11208826;'prise de Fort la Latte';777;0
+e;11384765;'prise en T';777;0
+e;11384944;'prise de Rome';777;0
+e;6449547;'prise d'empreintes protéiques';1;0
+e;6670808;'mode de prise en charge des personnes';1;0
+e;6431820;'prise d'empreintes de protéines';1;0
+e;6422576;'chaise pour prise de sang';1;0
+e;15217185;'La rue était prise d'assaut par les chalands.';1;0
+e;2388977;'prise de pince';1;0
+e;6451427;'encouragement par l'infirmière à la prise de décisions';1;0
+e;6449045;'incision pour prise d'échantillons';1;0
+e;6527149;'évaluation et prise en charge - patients connus';1;0
+e;6436040;'prise d'empreinte de dents';1;0
+e;6434622;'prise en charge pour surveillance d'autres stomies de l'appareil digestif';1;0
+e;8372899;'prise chronique';1;0
+e;11158459;'prise d'otages à l'ambassade d'Allemagne de l'Ouest à Stockholm';777;0
+e;6526952;'Évaluation et prise en charge du patient à domicile ou d'une maison de repos';1;0
+e;6449830;'prise d'empreinte d'adn';1;0
+e;11136830;'technique de prise en charge';1;0
+e;6448319;'prise en charge pour conseil relatif au comportement et à l'orientation d'un tiers en matière de sexualité';1;0
+e;12763774;'prise de Valdivia';777;0
+e;5557976;'Date de prise de commandement';777;0
+e;6526891;'Évaluation et prise en charge du patient d'un établissement de soins infirmiers';1;0
+e;11136829;'technique de prise en charge des personnes';1;0
+e;15503282;'100 jours de la prise de fonction';1;0
+e;8732209;'mettre ses doigts dans la prise électrique';1;0
+e;8796422;'prise de Grenade';777;0
+e;8930411;'prise d'eau dans un réseau';1;0
+e;9179022;'prise de la pilule';1;0
+e;9471934;'prise en charge hospitalière';1;0
+e;9802965;'prise de la ville';777;0
+e;11130670;'prise cinch';777;0
+e;11130668;'prise RCA';777;0
+e;12627662;'prise prolongée d'antibiotiques';1;0
+e;12627661;'prise prolongée de corticoïdes';1;0
+e;12676131;'appareil de prise de vues';1;0
+e;12683366;'prise illégale d'intérêts';1;0
+e;12629060;'être prise en charge';1;0
+e;12627660;'prise prolongée de corticoïdes en inhalation';1;0
+e;12731483;'plus grande prise de risque';1;0
+e;12731484;'grande prise de risque';1;0
+e;12736150;'prise de conscience environnementale';1;0
+e;12699362;'prise de la Martinique';777;0
+e;13748913;'2-10-11 évaluation et prise en charge du patient';1;0
+e;13753888;'2-101 évaluation et prise en charge - nouveaux patients';1;0
+e;13757913;'2-102 évaluation et prise en charge - patients connus';1;0
+e;13771486;'2-103 évaluation et prise en charge - patients hospitalisés';1;0
+e;13802370;'2-110 évaluation et prise en charge du patient d'un établissement de soins infirmiers';1;0
+e;13754848;'2-112 évaluation et prise en charge du patient à domicile ou d'une maison de repos';1;0
+e;13776484;'2-114 évaluation et prise en charge du patient à domicile';1;0
+e;15334779;'Elle a adapté une prise au sèche-cheveux.';1;0
+e;4511161;'prise du greffon';1;0
+e;2351208;'faire une prise de sang';1;0
+e;2533365;'prise de congé';1;0
+e;3232156;'La prise de notes';777;0
+e;3365923;'mousse au chocolat à prise rapide, 2 h';1;0
+e;3706174;'être prise pour une prostituée';1;0
+e;4314608;'changer une prise';1;0
+e;6450990;'prise en charge pour surveillance d'iléostomie';1;0
+e;567640;'prise de téléphone';777;50
+e;1836937;'interface-fabricant d'une prise murale de gaz';1;0
+e;2954291;'prise de terrain en 8';777;0
+e;3355976;'prise de vues cinématographique';777;0
+e;3321342;'temps de prise';1;0
+e;1488850;'Le 5000 doit laisser la part belle à la prise de risque';777;0
+e;1844237;'prise en soins schizophrénie';1;0
+e;3361105;'crème prise aux pêches';1;0
+e;5116364;'prise de vue aérienne';1;0
+e;396380;'pièce en prise';1;50
+e;584558;'prise d'Ypres';777;0
+e;2352820;'prise en charge psychologique des familles de victimes';1;0
+e;3232956;'prise de la température';1;0
+e;3245255;'prise de médicaments';1;48
+e;3413896;'zone de prise';777;0
+e;2954226;'prise de terrain';1;0
+e;3335642;'prise d'otages du Vol 8969 Air France';1;0
+e;5012729;'prise par derrière';1;0
+e;1582523;'angle d'une prise de vue';777;0
+e;2954290;'prise de terrain en S';777;0
+e;2954289;'prise de terrain en U';777;0
+e;1846340;'prise en soins au long cours d'un toxicomane';1;0
+e;1842224;'prise de forceps asymétrique';1;0
+e;2508731;'donner prise';1;0
+e;3321343;'durée de prise';1;0
+e;1676146;'prise secteur';777;0
+e;1773628;'prise de vertige';1;0
+e;1842225;'raccord de prise rapide';1;0
+e;2352821;'prise en charge psychologique';1;0
+e;2463522;'prise péritel';1;0
+e;2928695;'multi-prise';1;0
+e;4340419;'ne pas donner prise à';1;0
+e;576417;'opérateur de prise de vue';777;50
+e;3169744;'prise de contraste lobulée';1;0
+e;2953390;'inflammation lymphocytaire chronique avec prise de contraste pontique périvasculaire sensible aux stéroïdes';1;0
+e;2953391;'inflammation lymphocytaire chronique avec prise de contraste pontique périvasculaire cortico-sensible';1;0
+e;1846559;'prise en charge d'un traumatisme psychique';1;0
+e;2923537;'prise du pouls';1;0
+e;394139;'avec prise de contraste';1;2
+e;1846039;'tête de prise murale spécifique à un gaz';1;0
+e;3171710;'Surprise sur prise';777;0
+e;393765;'être prise';1;50
+e;373030;'prise médicamenteuse';1;50
+e;356321;'gorge prise';1;50
+e;373039;'prise illégale d'intérêt';1;50
+e;373035;'prise d'étranglement';1;50
+e;373022;'prise directe';1;50
+e;373040;'prise silencieuse';1;50
+e;373019;'prise de poste';1;50
+e;382972;'taux de prise en pension';1;50
+e;373033;'prise buccale';1;50
+e;373015;'prise de fer';1;50
+e;373028;'prise ferme';1;50
+e;373026;'prise en main';1;50
+e;373013;'prise de conscience individuelle';1;50
+e;373010;'prise de chasse';1;50
+e;373007;'prise alimentaire';1;66
+e;351196;'en prise directe sur';1;50
+e;387563;'voix prise';1;50
+e;373031;'prise raccordable';1;50
+e;373025;'prise en considération';1;50
+e;373023;'prise du cobra';1;50
+e;373017;'prise de mesures';1;50
+e;373012;'prise de conscience collective';1;50
+e;348786;'décision prise';1;50
+e;331105;'prise d'antibiotique';1;50
+e;373038;'prise en charge de la santé mentale';1;50
+e;373029;'prise multiple';1;50
+e;373011;'prise de commande';1;50
+e;351195;'en prise';1;50
+e;373037;'prise en charge de dépenses';1;50
+e;373027;'prise en pension';1;50
+e;373024;'prise en charge de frais';1;50
+e;373021;'prise de vapeur';1;50
+e;373008;'prise d'antenne';1;50
+e;385396;'tuyau de prise de vapeur';1;50
+e;373020;'prise de rasoir';1;50
+e;373018;'prise de participation majoritaire';1;50
+e;373009;'prise de capital';1;50
+e;351197;'en prise sur';1;50
+e;391273;'prise en charge médicale';1;50
+e;373036;'prise de bénéfices';1;50
+e;373032;'prise téléphonique';1;50
+e;373014;'prise de conscience tardive';1;50
+e;333323;'accélération de prise';1;50
+e;57298;'cache-prise';1;50
+e;326087;'pince multi-prise';1;50
+e;330421;'prise en charge immédiate';1;50
+e;258731;'pas prise de tête';1;50
+e;262861;'à prise de contraste périphérique';1;50
+e;167160;'prise électrique';1;96
+e;168161;'prise rapide';1;50
+e;218828;'prise de la Bastille';1;116
+e;222325;'prise de tabac';1;56
+e;222326;'prise de terre';1;66
+e;224590;'prise de mousse';1;50
+e;224683;'surprise sur prise';1;56
+e;224926;'prise de distance';1;52
+e;228125;'prise de décision';1;12
+e;230492;'prise en charge';1;56
+e;235598;'prise Péritel';1;6
+e;235683;'prise de notes';1;50
+e;235702;'prise de risque';1;10
+e;236781;'prise anti-moustique';1;50
+e;237317;'prise de poids';1;168
+e;241546;'prise au vent';1;50
+e;242387;'prise de parole';1;6
+e;242574;'prise de catch';1;10
+e;244040;'prise en compte';1;52
+e;247379;'prise de fonction';1;50
+e;249390;'prise d'otages';1;38
+e;250764;'prise de Constantinople';1;50
+e;253473;'prise de Troie';1;50
+e;254244;'prise de parole en public';1;16
+e;258732;'sans prise de tête';1;50
+e;262010;'mettre les doigts dans la prise';1;50
+e;262449;'faire une prise';1;50
+e;262623;'prise de contraste';1;50
+e;262627;'prise de contraste périphérique';1;50
+e;262634;'prise de contraste sous forme de flaques';1;50
+e;262938;'prise de contraste en motte';1;50
+e;263497;'prise de contraste en couronne';1;50
+e;62851;'lâcher prise';1;144
+e;145061;'L'Épave prise dans les glaces';1;50
+e;161808;'prise de courant';1;80
+e;166527;'prise de judo';1;92
+e;184936;'de bonne prise';1;50
+e;211618;'prise d'habit';1;50
+e;212135;'vanne de prise d'eau';1;50
+e;212231;'prise d'otage';1;96
+e;263736;'prise de médicament';1;50
+e;263997;'sans prise de contraste';1;50
+e;263998;'prise de pouvoir';1;60
+e;264253;'pas de prise de contraste';1;50
+e;33056;'opérateur de la prise de vues';1;50
+e;44830;'avoir prise';1;50
+e;93201;'Sur la prise de Khotine';1;50
+e;145663;'prise d'armes';1;50
+e;152042;'prise de conscience';1;58
+e;152043;'prise de position';1;82
+e;158499;'prise de son';1;68
+e;175023;'part de prise';1;50
+e;180868;'angle de prise de vue';1;50
+e;183862;'prise en passant';1;50
+e;183863;'prise ombilicale';1;50
+e;184401;'syndicat de prise ferme';1;50
+e;204767;'ordonnance de prise de corps';1;50
+e;206365;'prise à partie';1;50
+e;206366;'prise de contact';1;52
+e;206367;'prise de contrôle';1;64
+e;206368;'prise de corps';1;50
+e;206369;'prise de guerre';1;52
+e;206370;'prise de participation';1;50
+e;206371;'prise de participation financière';1;50
+e;206372;'prise de piste';1;50
+e;206373;'prise de possession';1;52
+e;206374;'prise de tête';1;68
+e;206375;'prise de volume';1;50
+e;206376;'prise de vue';1;62
+e;206377;'prise murale';1;50
+e;264287;'avec prise de contraste périphérique';1;50
+e;275398;'prise de raquette';777;50
+e;284344;'prise de ris';777;50
+e;285828;'principe de prise de décision';777;50
+e;286006;'prise médiane';777;50
+e;288607;'prise au tas';777;50
+e;288608;'prise sur le tas';777;50
+e;288612;'prise de force';777;50
+e;288616;'prise de vue photographique';777;50
+e;288618;'prise d'escalade';777;50
+e;308435;'parts de prise';777;50
+e;196662;'avoir prise sur';1;50
+e;196826;'barrage de prise';1;50
+e;313005;'prise de température';1;56
+e;12892;'prise de vues';1;50
+e;198849;'donner prise à';1;50
+e;151860;'prise d'air';1;50
+e;151861;'prise d'eau';1;52
+e;151862;'prise de sang';1;132
+e;77435;'prise de bec';1;60
+r;310761963;16930;3749291;11;15
+r;301690867;16930;6347983;11;25
+r;301690642;16930;6347974;11;25
+r;301691163;16930;6348028;11;25
+r;302130772;16930;6362135;11;25
+r;298009673;16930;6285222;11;25
+r;299071619;16930;6299383;11;25
+r;299571265;16930;6308337;11;25
+r;299596339;16930;6312806;11;25
+r;299652100;16930;6315226;11;25
+r;299679909;16930;6316184;11;25
+r;299681425;16930;6316051;11;25
+r;299793208;16930;6317845;11;25
+r;300082486;16930;6321031;11;25
+r;300189155;16930;6325098;11;25
+r;300191985;16930;6325780;11;25
+r;300199054;16930;6326609;11;25
+r;300199592;16930;6326691;11;25
+r;300206109;16930;6327209;11;25
+r;300206271;16930;6326488;11;25
+r;300213687;16930;6328078;11;25
+r;300254858;16930;6330505;11;25
+r;301147910;16930;6333807;11;25
+r;301204193;16930;6334516;11;25
+r;301235702;16930;6335691;11;25
+r;301459325;16930;6339568;11;25
+r;301488717;16930;6341331;11;25
+r;301493385;16930;6342781;11;25
+r;301525990;16930;6344300;11;25
+r;301550050;16930;6345236;11;25
+r;301554457;16930;6345118;11;25
+r;301555170;16930;6345687;11;25
+r;301715018;16930;6347984;11;25
+r;301718833;16930;6348473;11;25
+r;301737801;16930;6351264;11;25
+r;301753413;16930;6353818;11;25
+r;301761107;16930;6354600;11;25
+r;301791454;16930;6355163;11;25
+r;302030658;16930;6357552;11;25
+r;302130475;16930;6361929;11;25
+r;302135419;16930;6362147;11;25
+r;302147112;16930;6363259;11;25
+r;302190238;16930;6366018;11;25
+r;302975073;16930;6369384;11;25
+r;303190053;16930;6373773;11;25
+r;303465528;16930;6374689;11;25
+r;303471456;16930;6374955;11;25
+r;303640223;16930;6378685;11;25
+r;303641766;16930;6378996;11;25
+r;303831715;16930;6380211;11;25
+r;303932887;16930;6382129;11;25
+r;303933466;16930;6382305;11;25
+r;303981615;16930;6383399;11;25
+r;303983186;16930;6383636;11;25
+r;303988334;16930;6384354;11;25
+r;303991325;16930;6384136;11;25
+r;304478125;16930;6386981;11;25
+r;304481737;16930;6387298;11;25
+r;304489280;16930;6387375;11;25
+r;304585463;16930;6390127;11;25
+r;304860281;16930;6393095;11;25
+r;304902421;16930;6394124;11;25
+r;304998062;16930;6394492;11;25
+r;305015551;16930;6396243;11;25
+r;305018593;16930;6396611;11;25
+r;305129836;16930;6398617;11;25
+r;305222691;16930;6401909;11;25
+r;305289208;16930;6403438;11;25
+r;305311198;16930;6406152;11;25
+r;305311851;16930;6406365;11;25
+r;305462048;16930;6408992;11;25
+r;305463266;16930;6409376;11;25
+r;305468962;16930;6410358;11;25
+r;305469879;16930;6410627;11;25
+r;305471677;16930;6410886;11;25
+r;305661898;16930;6415363;11;25
+r;305661974;16930;6414935;11;25
+r;305662190;16930;6415286;11;25
+r;305706788;16930;6419773;11;25
+r;316695550;16930;12158800;11;25
+r;316695698;16930;12158762;11;25
+r;316745437;16930;12143791;11;25
+r;316758015;16930;12140417;11;25
+r;319062125;16930;6309985;11;25
+r;319062551;16930;6343255;11;25
+r;319068030;16930;6385290;11;25
+r;319072480;16930;6284418;11;25
+r;319074815;16930;6314337;11;25
+r;341098309;16930;6344250;11;25
+r;341011004;16930;6322099;11;25
+r;341205616;16930;6394526;11;25
+r;341234661;16930;6407676;11;25
+r;341248472;16930;6414443;11;25
+r;347983844;16930;13709310;11;25
+r;348206873;16930;13731056;11;25
+r;349220432;16930;6381944;11;25
+r;349263798;16930;6328851;11;25
+r;349266167;16930;6394694;11;25
+r;349321877;16930;6381427;11;25
+r;355730987;16930;14070510;11;25
+r;359716705;16930;14159595;11;25
+r;366884544;16930;14453001;11;25
+r;366933643;16930;14454328;11;25
+r;368649811;16930;14530679;11;25
+r;369561258;16930;14538355;11;25
+r;371418659;16930;14612059;11;25
+r;371485572;16930;14612315;11;25
+r;371491294;16930;14612207;11;25
+r;371689286;16930;14631462;11;25
+r;372661014;16930;14655075;11;25
+r;373036829;16930;14669504;11;25
+r;373247194;16930;14679707;11;25
+r;375479487;16930;14773822;11;25
+r;395474828;16930;15451628;11;25
+r;395475733;16930;15451626;11;25
+r;403800467;16930;15696347;11;25
+r;297667622;16930;6284427;11;26
+r;298254618;16930;6288142;11;26
+r;298506280;16930;6293225;11;26
+r;298404719;16930;6289899;11;26
+r;298435583;16930;6290591;11;26
+r;298437227;16930;6290862;11;26
+r;298743140;16930;6294046;11;26
+r;298881786;16930;6295671;11;26
+r;298948406;16930;6296380;11;26
+r;299071758;16930;6299332;11;26
+r;299519945;16930;6306837;11;26
+r;299577518;16930;6309389;11;26
+r;299579932;16930;6308941;11;26
+r;299582965;16930;6310566;11;26
+r;299612261;16930;6313171;11;26
+r;299632071;16930;6314428;11;26
+r;299653220;16930;6315524;11;26
+r;299664781;16930;6315969;11;26
+r;299755483;16930;6316739;11;26
+r;299851525;16930;6318967;11;26
+r;299868200;16930;6319140;11;26
+r;300109454;16930;6321366;11;26
+r;300134265;16930;6321880;11;26
+r;300183786;16930;6324845;11;26
+r;300198148;16930;6326110;11;26
+r;301459193;16930;6339397;11;26
+r;302139846;16930;6362437;11;26
+r;302182123;16930;6364233;11;26
+r;303316223;16930;6374408;11;26
+r;303840157;16930;6380623;11;26
+r;305001150;16930;6395669;11;26
+r;305466307;16930;6410300;11;26
+r;305706724;16930;6420741;11;26
+r;305713587;16930;6421449;11;26
+r;319054200;16930;6379026;11;26
+r;349142503;16930;6396347;11;26
+r;349254142;16930;6352191;11;26
+r;361341624;16930;14241992;11;26
+r;361482124;16930;14252121;11;26
+r;368615395;16930;14530589;11;26
+r;368618303;16930;14530737;11;26
+r;374411781;16930;14726796;11;26
+r;389930722;16930;14914980;11;26
+r;122707706;16930;6428460;11;27
+r;122748447;16930;6423217;11;27
+r;299240435;16930;6302017;11;27
+r;299583732;16930;6310585;11;27
+r;302084024;16930;6359942;11;27
+r;315692522;16930;12116693;11;27
+r;315590553;16930;12098134;11;27
+r;315590681;16930;12098119;11;27
+r;315616506;16930;12094861;11;27
+r;315623831;16930;12093973;11;27
+r;122714082;16930;6427638;11;28
+r;216905462;16930;6393970;11;28
+r;269880625;16930;10732355;11;28
+r;300098971;16930;6320857;11;28
+r;315685990;16930;12116347;11;28
+r;122683053;16930;6431633;11;29
+r;301772689;16930;11768353;11;29
+r;122737085;16930;6424671;11;30
+r;222151877;16930;9986989;11;30
+r;264451273;16930;10595486;11;30
+r;274297176;16930;10903048;11;30
+r;274297182;16930;10903047;11;30
+r;277233872;16930;10965928;11;30
+r;301983664;16930;11771186;11;30
+r;419771075;16930;15451606;11;30
+r;419772770;16930;15402667;11;30
+r;419804193;16930;15490940;11;30
+r;419805395;16930;15324505;11;30
+r;419805407;16930;15324503;11;30
+r;419805417;16930;15324504;11;30
+r;419805427;16930;15323864;11;30
+r;419832136;16930;15337638;11;30
+r;419833942;16930;15525123;11;30
+r;419842271;16930;15513217;11;30
+r;419842277;16930;15513219;11;30
+r;419842285;16930;15225596;11;30
+r;419842291;16930;16044461;11;30
+r;419842299;16930;15211572;11;30
+r;419843924;16930;15513221;11;30
+r;121511047;16930;6441898;11;31
+r;121515211;16930;6441428;11;31
+r;121516969;16930;6441230;11;31
+r;122683360;16930;6431600;11;31
+r;122690085;16930;6430756;11;31
+r;134816812;16930;8012088;11;31
+r;227667806;16930;9999776;11;31
+r;279749308;16930;11035117;11;31
+r;320428866;16930;12321275;11;31
+r;419710040;16930;15226897;11;31
+r;419717384;16930;15573618;11;31
+r;121515835;16930;6441361;11;32
+r;121533610;16930;6439378;11;32
+r;121578704;16930;6434334;11;32
+r;122698700;16930;6429611;11;32
+r;263666490;16930;10585264;11;32
+r;272756916;16930;10874780;11;32
+r;306360005;16930;11828274;11;32
+r;306360009;16930;11828273;11;32
+r;419626569;16930;15397590;11;32
+r;419632698;16930;15489409;11;32
+r;419635440;16930;15452419;11;32
+r;419635450;16930;15752695;11;32
+r;419635458;16930;15513216;11;32
+r;419650737;16930;15434539;11;32
+r;419658007;16930;15426433;11;32
+r;419658917;16930;15397105;11;32
+r;419675327;16930;15323742;11;32
+r;419699292;16930;15441830;11;32
+r;419699754;16930;15388083;11;32
+r;434615245;16930;16519969;11;32
+r;110203343;16930;5567159;11;33
+r;121472440;16930;6446192;11;33
+r;121490838;16930;6444143;11;33
+r;122751480;16930;6422825;11;33
+r;123101985;16930;6752142;11;33
+r;269409613;16930;10742892;11;33
+r;269409620;16930;10742885;11;33
+r;280338886;16930;11060908;11;33
+r;290832018;16930;11349651;11;33
+r;307379264;16930;11901273;11;33
+r;419602003;16930;15593442;11;33
+r;115845540;16930;5919747;11;34
+r;115845546;16930;5919746;11;34
+r;115847550;16930;5919241;11;34
+r;269386821;16930;10747796;11;34
+r;269387023;16930;10747765;11;34
+r;269387275;16930;10747721;11;34
+r;272188732;16930;10850582;11;34
+r;281114117;16930;11081733;11;34
+r;290723628;16930;11347893;11;34
+r;305411280;16930;11825284;11;34
+r;419519647;16930;16073732;11;34
+r;419526302;16930;15520710;11;34
+r;419549471;16930;15951136;11;34
+r;29846665;16930;1827186;11;35
+r;29919540;16930;1827470;11;35
+r;29967990;16930;1832350;11;35
+r;113750842;16930;5832137;11;35
+r;122698704;16930;6429610;11;35
+r;122729225;16930;6425676;11;35
+r;122753429;16930;6422563;11;35
+r;122754542;16930;6422420;11;35
+r;272186696;16930;10850927;11;35
+r;272186700;16930;10850926;11;35
+r;272186728;16930;10850921;11;35
+r;290722301;16930;11347892;11;35
+r;290723288;16930;11347897;11;35
+r;290723444;16930;11347895;11;35
+r;313627351;16930;12049019;11;35
+r;315110017;16930;12080953;11;35
+r;315110021;16930;12080952;11;35
+r;419503967;16930;15688330;11;35
+r;419508517;16930;15937837;11;35
+r;121462659;16930;6447288;11;36
+r;122738237;16930;6424510;11;36
+r;270917595;16930;10834262;11;36
+r;279046893;16930;11014518;11;36
+r;279115407;16930;11017541;11;36
+r;313687655;16930;12049781;11;36
+r;314064199;16930;12067925;11;36
+r;314064581;16930;12067924;11;36
+r;315110002;16930;12080955;11;36
+r;315110008;16930;12080954;11;36
+r;121047752;16930;6449971;11;37
+r;121450024;16930;6526175;11;37
+r;121561174;16930;6436296;11;37
+r;122715545;16930;6427446;11;37
+r;122717649;16930;6427191;11;37
+r;140025970;16930;8245776;11;37
+r;279107099;16930;11017742;11;37
+r;272186268;16930;10850974;11;37
+r;281418602;16930;11095781;11;37
+r;55063775;16930;2433550;11;38
+r;55130363;16930;2436183;11;38
+r;113300076;16930;5804261;11;38
+r;121507368;16930;6442309;11;38
+r;121507648;16930;6442276;11;38
+r;121562981;16930;6436093;11;38
+r;247436113;16930;10298053;11;38
+r;287851114;16930;11233341;11;38
+r;121039154;16930;6450917;11;39
+r;121445555;16930;6526816;11;39
+r;121456805;16930;6447919;11;39
+r;122708928;16930;6428294;11;39
+r;285044479;16930;11155673;11;39
+r;122475533;16930;6670809;11;40
+r;114753274;16930;5892991;11;41
+r;121446944;16930;6526611;11;41
+r;122677840;16930;6432220;11;41
+r;233035931;16930;10088281;11;41
+r;278874008;16930;11011762;11;41
+r;289471099;16930;11304188;11;41
+r;292084855;16930;11384014;11;41
+r;297606907;16930;11573076;11;41
+r;308650124;16930;11958080;11;41
+r;258746095;16930;10458322;11;42
+r;282617605;16930;11104214;11;42
+r;285993892;16930;11175052;11;42
+r;286002016;16930;11175053;11;42
+r;287267339;16930;11208709;11;42
+r;291789361;16930;11374407;11;42
+r;292320587;16930;11384767;11;42
+r;297599421;16930;11575618;11;42
+r;319013737;16930;12279455;11;42
+r;121525344;16930;6440308;11;43
+r;122715342;16930;6427471;11;43
+r;283874500;16930;11157872;11;43
+r;287273406;16930;11208826;11;43
+r;292134827;16930;11384765;11;43
+r;292150165;16930;11384944;11;43
+r;121051687;16930;6449547;11;44
+r;122476812;16930;6670808;11;44
+r;122681343;16930;6431820;11;44
+r;122753343;16930;6422576;11;44
+r;417033463;16930;15217185;11;44
+r;53069759;16930;2388977;11;45
+r;121034398;16930;6451427;11;45
+r;121056229;16930;6449045;11;45
+r;121443246;16930;6527149;11;45
+r;121563461;16930;6436040;11;45
+r;121576074;16930;6434622;11;45
+r;141257921;16930;8372899;11;45
+r;284009791;16930;11158459;11;45
+r;121444586;16930;6526952;11;46
+r;121049106;16930;6449830;11;47
+r;283138428;16930;11136830;11;47
+r;121453199;16930;6448319;11;48
+r;327460084;16930;12763774;11;48
+r;109877165;16930;5557976;11;49
+r;121445031;16930;6526891;11;49
+r;283136981;16930;11136829;11;49
+r;397028079;16930;15503282;11;50
+r;218944660;16930;9815632;11;50
+r;218944613;16930;9815633;11;50
+r;169732676;16930;8732209;11;50
+r;187421714;16930;8796422;11;50
+r;193126258;16930;8930411;11;50
+r;207168515;16930;9179022;11;50
+r;213808627;16930;9456132;11;50
+r;213808773;16930;9456133;11;50
+r;213908956;16930;9471934;11;50
+r;218696623;16930;9802965;11;50
+r;282859224;16930;11130670;11;50
+r;282859231;16930;11130668;11;50
+r;323298001;16930;12627662;11;50
+r;323345400;16930;12627661;11;50
+r;324538880;16930;12676131;11;50
+r;324931089;16930;12683366;11;50
+r;324935433;16930;12629060;11;50
+r;324935463;16930;12627660;11;50
+r;326999174;16930;12731483;11;50
+r;327022682;16930;12731484;11;50
+r;327317821;16930;12736150;11;50
+r;327330538;16930;12699362;11;50
+r;348982537;16930;13748913;11;50
+r;348982547;16930;13753888;11;50
+r;348982559;16930;13757913;11;50
+r;348982571;16930;13771486;11;50
+r;348982645;16930;13802370;11;50
+r;348982661;16930;13754848;11;50
+r;348982677;16930;13776484;11;50
+r;397496454;16930;15334779;11;50
+r;100223222;16930;4511161;11;51
+r;34725173;16930;2351208;11;51
+r;52460775;16930;2533365;11;51
+r;78339616;16930;3232156;11;51
+r;86183035;16930;3365923;11;51
+r;92513125;16930;3706174;11;51
+r;97125778;16930;262451;11;51
+r;98016261;16930;4314608;11;51
+r;121038489;16930;6450990;11;51
+r;17127277;16930;567640;11;52
+r;29913074;16930;1836937;11;52
+r;73562497;16930;2954291;11;52
+r;85990290;16930;3355976;11;52
+r;34538865;16930;2346919;11;53
+r;78306687;16930;3230704;11;53
+r;78308118;16930;3230855;11;53
+r;83662142;16930;3321342;11;53
+r;98873953;16930;4333615;11;53
+r;18638493;16930;594370;11;54
+r;24618550;16930;1488850;11;54
+r;29889193;16930;1844237;11;54
+r;34539706;16930;2346918;11;54
+r;86242347;16930;3361105;11;54
+r;98873955;16930;4333614;11;54
+r;105660787;16930;5116364;11;54
+r;14120712;16930;396380;11;55
+r;18331680;16930;584558;11;55
+r;34761588;16930;2352820;11;55
+r;78384329;16930;3232956;11;55
+r;78498477;16930;3245255;11;55
+r;87286052;16930;3413896;11;55
+r;93789960;16930;3760926;11;55
+r;73007651;16930;2954226;11;56
+r;78307535;16930;3230856;11;56
+r;84245465;16930;3335642;11;56
+r;104526095;16930;5012729;11;56
+r;25434540;16930;1582523;11;57
+r;73562504;16930;2954290;11;57
+r;73562511;16930;2954289;11;57
+r;18638491;16930;594371;11;58
+r;29879731;16930;1846340;11;58
+r;29900682;16930;1842224;11;58
+r;52472335;16930;2508731;11;58
+r;78307204;16930;3230703;11;58
+r;83662137;16930;3321343;11;58
+r;86011571;16930;3357399;11;58
+r;93789837;16930;3760927;11;58
+r;27775763;16930;1676146;11;59
+r;29133163;16930;1773628;11;59
+r;29900678;16930;1842225;11;59
+r;34761572;16930;2352821;11;59
+r;55725130;16930;2463522;11;59
+r;71811627;16930;2928695;11;59
+r;86011369;16930;3357401;11;59
+r;99034053;16930;4340419;11;59
+r;17843027;16930;576417;11;60
+r;76195060;16930;3169744;11;60
+r;86011136;16930;3357400;11;60
+r;72924165;16930;2953390;11;62
+r;72924281;16930;2953391;11;63
+r;29878736;16930;1846559;11;64
+r;71575236;16930;2923537;11;64
+r;13695315;16930;394139;11;68
+r;29880844;16930;1846039;11;69
+r;76297719;16930;3171710;11;70
+r;13677098;16930;393765;11;90
+r;12609965;16930;373030;11;101
+r;12677851;16930;356321;11;101
+r;12609921;16930;373039;11;102
+r;12609947;16930;373035;11;102
+r;12610001;16930;373022;11;102
+r;12609917;16930;373040;11;103
+r;12610013;16930;373019;11;103
+r;12569645;16930;382972;11;104
+r;12609955;16930;373033;11;104
+r;12610037;16930;373015;11;104
+r;12609973;16930;373028;11;105
+r;12609981;16930;373026;11;105
+r;12610049;16930;373013;11;105
+r;12610069;16930;373010;11;105
+r;12610081;16930;373007;11;105
+r;12698491;16930;351196;11;105
+r;12551141;16930;387563;11;106
+r;12609963;16930;373031;11;106
+r;12609985;16930;373025;11;106
+r;12609997;16930;373023;11;106
+r;12610025;16930;373017;11;106
+r;12610057;16930;373012;11;106
+r;12708081;16930;348786;11;106
+r;12068608;16930;331105;11;107
+r;12609927;16930;373038;11;107
+r;12609969;16930;373029;11;107
+r;12610065;16930;373011;11;107
+r;12698497;16930;351195;11;107
+r;12609937;16930;373037;11;108
+r;12609977;16930;373027;11;108
+r;12609989;16930;373024;11;108
+r;12610005;16930;373021;11;108
+r;12610077;16930;373008;11;108
+r;12559775;16930;385396;11;109
+r;12610009;16930;373020;11;109
+r;12610017;16930;373018;11;109
+r;12610073;16930;373009;11;109
+r;12698487;16930;351197;11;109
+r;13048906;16930;391273;11;109
+r;12609945;16930;373036;11;110
+r;12609959;16930;373032;11;110
+r;12610041;16930;373014;11;110
+r;12772115;16930;333323;11;110
+r;11869861;16930;57298;11;121
+r;11279464;16930;326087;11;148
+r;11941529;16930;330421;11;148
+r;8724495;16930;258731;11;160
+r;8729866;16930;262861;11;160
+r;8630885;16930;167160;11;161
+r;8631364;16930;168161;11;161
+r;8691277;16930;218828;11;161
+r;8693696;16930;222325;11;161
+r;8693698;16930;222326;11;161
+r;8695044;16930;224590;11;161
+r;8695116;16930;224683;11;161
+r;8695272;16930;224926;11;161
+r;8697315;16930;228125;11;161
+r;8699023;16930;230492;11;161
+r;8703181;16930;235598;11;161
+r;8703261;16930;235683;11;161
+r;8703284;16930;235702;11;161
+r;8704204;16930;236781;11;161
+r;8704645;16930;237317;11;161
+r;8707171;16930;241546;11;161
+r;8707544;16930;242387;11;161
+r;8707729;16930;242574;11;161
+r;8708438;16930;244040;11;161
+r;8710889;16930;247379;11;161
+r;8712675;16930;249390;11;161
+r;8714190;16930;250764;11;161
+r;8717200;16930;253473;11;161
+r;8718170;16930;254244;11;161
+r;8724498;16930;258732;11;161
+r;8728792;16930;262010;11;161
+r;8729289;16930;262449;11;161
+r;8729505;16930;262623;11;161
+r;8729513;16930;262627;11;161
+r;8729527;16930;262634;11;161
+r;8729981;16930;262938;11;161
+r;8730683;16930;263497;11;161
+r;8591300;16930;62851;11;162
+r;8621604;16930;145061;11;162
+r;8627624;16930;161808;11;162
+r;8630226;16930;166527;11;162
+r;8644303;16930;184936;11;162
+r;8686874;16930;211618;11;162
+r;8687593;16930;212135;11;162
+r;8687707;16930;212231;11;162
+r;8731044;16930;263736;11;162
+r;8731439;16930;263997;11;162
+r;8731441;16930;263998;11;162
+r;8731790;16930;264253;11;162
+r;8580917;16930;33056;11;163
+r;8584916;16930;44830;11;163
+r;8601735;16930;93201;11;163
+r;8621802;16930;145663;11;163
+r;8622587;16930;152042;11;163
+r;8622589;16930;152043;11;163
+r;8625746;16930;158499;11;163
+r;8635067;16930;175023;11;163
+r;8637375;16930;180868;11;163
+r;8642472;16930;183862;11;163
+r;8642474;16930;183863;11;163
+r;8643429;16930;184401;11;163
+r;8675865;16930;204767;11;163
+r;8678339;16930;206365;11;163
+r;8678341;16930;206366;11;163
+r;8678343;16930;206367;11;163
+r;8678345;16930;206368;11;163
+r;8678347;16930;206369;11;163
+r;8678349;16930;206370;11;163
+r;8678351;16930;206371;11;163
+r;8678354;16930;206372;11;163
+r;8678356;16930;206373;11;163
+r;8678358;16930;206374;11;163
+r;8678359;16930;206375;11;163
+r;8678361;16930;206376;11;163
+r;8678363;16930;206377;11;163
+r;8731826;16930;264287;11;163
+r;8743287;16930;275398;11;163
+r;8751466;16930;284344;11;163
+r;8752985;16930;285828;11;163
+r;8753176;16930;286006;11;163
+r;8756608;16930;288607;11;163
+r;8756610;16930;288608;11;163
+r;8756617;16930;288612;11;163
+r;8756622;16930;288616;11;163
+r;8756626;16930;288618;11;163
+r;8774177;16930;308435;11;163
+r;8662030;16930;196662;11;164
+r;8662383;16930;196826;11;164
+r;8779385;16930;313005;11;164
+r;8574264;16930;12892;11;165
+r;8665780;16930;198849;11;165
+r;74252;16930;151860;11;189
+r;74253;16930;151861;11;189
+r;74254;16930;151862;11;189
+r;69428;16930;77435;11;199

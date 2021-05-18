@@ -1,58 +1,516 @@
 
-e;416620;'Situation';1;50
-e;13656084;'La Situation de la classe ouvrière en Angleterre en 1844';777;0
-e;14657346;'Situation géographique descommunes de l'agglomération de Vesoul';777;0
-e;14728120;'Situation de la guerre au 1er juin 2020';777;0
-e;14769913;'Situation actuelle';777;0
-e;16566984;'Situation de la guerre en avril 2021';777;0
-e;9962772;'Situation aérienne générale';777;0
-e;11350040;'White House Situation Room';777;0
-e;11911282;'Situation géographique';777;0
-e;16074387;'Situation fiscale et sociale';1;0
-e;15190564;'Situation en fin de mandat';777;0
-e;15461298;'Situation de la guerre en septembre 2020';777;0
-e;5621129;'Situation en Afghanistan au 19 février 2017';777;0
-e;11393761;'La Situation des classes ouvrières en Angleterre en 1844';777;0
-e;10790212;'Situation au Yémen en mars 2018';777;0
-e;12285094;'Situation au Yémen en février 2019';777;0
-e;11156529;'The Situation Room';777;0
-e;9942469;'Situation au Yémen en décembre 2017';777;0
-e;11218933;'Situation au Yémen en juillet 2018';777;0
-e;11218936;'Situation au Sinaï en janvier 2016';777;0
-e;5621130;'Situation au Yémen en février 2017';777;0
-e;9660327;'Situation en fin de mandat au Sénat';777;0
-e;142786;'Situation de l'art moderne';1;50
-e;3319536;'Situation mondiale de l'alimentation et de l'agriculture';1;0
+e;48104;'situation';1;378
+e;6359260;'situation nutritionnelle';1;0
+e;6361576;'situation parentale';1;0
+e;6392863;'testicule en situation anormale';1;0
+e;6398462;'situation de catastrophe médicale';1;0
+e;14452966;'examen de la situation personnelle de chacun';1;0
+e;13998172;'Renversement de situation';777;0
+e;14094109;'état de la situation financière';777;0
+e;14428093;'estimate of the situation';777;0
+e;14452965;'examen de la situation personnelle de chaque époux';1;0
+e;14452953;'faits en rapport direct avec la situation de surendettement';1;0
+e;14453252;'attestation de situation familiale';1;0
+e;14453268;'certificat de situation et composition familiale';1;0
+e;14454052;'situation fiscale et sociale';1;0
+e;14453950;'normes d'accès aux personnes en situation de handicap';1;0
+e;14590186;'le certificat de situation administrative détaillé';777;0
+e;14590185;'le certificat de situation administrative simple';777;0
+e;14594775;'Le comique de situation';777;0
+e;14626454;'situation des plus fragiles';1;0
+e;15834267;'situation tragi-comique';1;0
+e;16073653;'Normes d'accès aux personnes en situation de handicap';1;0
+e;15304659;'Une situation similaire a cours en Amérique.';1;0
+e;15255350;'abuser de la situation';1;0
+e;15525102;'accepter une situation telle qu'elle est';1;0
+e;15367813;'aggraver son sort, sa situation';1;0
+e;15367810;'aggraver une situation';1;0
+e;15414752;'avoir la situation bien en main';1;0
+e;15434541;'belle situation';1;0
+e;15243392;'bonne situation';1;0
+e;15247431;'brosser un tableau sinistre de la situation';1;0
+e;15241951;'bulletin de situation';1;0
+e;15377587;'comment t'es-tu fourré dans une telle situation ?';1;0
+e;15485068;'contrôle la situation';1;0
+e;15238731;'contrôler la situation';1;0
+e;15253863;'en situation HLA identique';1;0
+e;15496356;'en situation d'échec';1;0
+e;15373102;'en situation d'échec scolaire';1;0
+e;15530628;'en situation de surachat';1;0
+e;16124097;'contexte de situation';777;0
+e;16159731;'La situation au début de l'année 1861';777;0
+e;6298717;'situation alimentaire anormale';1;0
+e;6373565;'situation alimentaire normale';1;0
+e;12200250;'personnes en situation de handicap';1;0
+e;13568700;'situation qui tourne mal';1;0
+e;14488400;'personne en situation irrégulière';1;0
+e;14532340;'avoir une bonne situation';1;0
+e;14532344;'situation enviable';1;0
+e;14532347;'avoir la situation en main';1;0
+e;14532455;'être dans une situation délicate';1;0
+e;14563684;'arranger la situation';1;2
+e;14563686;'être à la hauteur de la situation';1;2
+e;14717659;'renverser une situation';1;0
+e;14885082;'être en situation irrégulière';1;0
+e;15953245;'régulariser la situation';1;0
+e;12980014;'situation pré-hospitalière';1;0
+e;16087318;'en situation de handicap';1;8
+e;6087051;'test de situation';777;0
+e;16239099;'Créer des opportunités pour les producteurs qui sont judiciairement en situation de désavantage';777;0
+e;5782840;'situation linguistique du bailliage de Guernesey';777;0
+e;10987728;'situation de dépendance';1;0
+e;15399064;'La situation a encore empiré.';1;0
+e;15246464;'La situation de la ville est magnifique.';1;0
+e;15334332;'La situation ne va pas s'améliorer.';1;0
+e;15373531;'La situation reste tendue.';1;0
+e;15340781;'La situation s'est calmée lorsque la police est intervenue.';1;0
+e;15338835;'La situation varie d'une zone à l'autre.';1;0
+e;15297323;'La situation évolue d'heure en heure.';1;0
+e;8005132;'situation avantageuse';1;0
+e;9959527;'situation politique dans les territoires français d'Afrique';777;0
+e;8012799;'situation d'attente';1;8
+e;10992097;'loi no85-677 du 5 juillet 1985 tendant à l'amélioration de la situation des victimes d'accidents de la circulation et à l'accélération des procédures d'indemnisation';777;0
+e;5856002;'situation de la Terre dans l'Univers';777;0
+e;5815610;'situation d'un assemblage';1;0
+e;11780850;'situation chaotique';1;0
+e;1831921;'situation de détresse vitale';1;0
+e;5916896;'situation problématique';1;0
+e;10943355;'bouleverser en profondeur une situation';1;0
+e;11356960;'situation économique mondiale';1;0
+e;11697332;'situation de dépendance d'un homme libre';1;0
+e;11824436;'La situation sociale sous le Second Empire';777;0
+e;5921262;'situation de référence';777;0
+e;10943420;'situation irrégulière';1;6
+e;11287623;'situation des droits de l'homme au Bhoutan';777;0
+e;12048799;'rédiger des rapports de situation';1;0
+e;12049047;'évaluer la situation d'un usager des services sociaux';1;0
+e;12049020;'mettre en uvre une intervention en situation de crise';1;0
+e;5710292;'États généraux sur la situation et l'avenir de la langue française au Québec';777;0
+e;12007909;'situation socio-économique';1;0
+e;12077621;'carte de situation';1;0
+e;12077668;'carton de situation';1;0
+e;5621126;'situation de famine au Soudan du Sud';777;0
+e;11839757;'situation insurrectionnelle';1;0
+e;12005740;'situation d'urgence économique et humanitaire';1;0
+e;12051170;'s'adapter à des changements de situation';1;0
+e;6440168;'situation par rapport à l'emploi';1;0
+e;11153521;'situation d'apprentissage et d'évaluation';777;0
+e;11329725;'situation d'alerte';1;0
+e;12057425;'situation individuelle';1;0
 e;273750;'situation actuelle';777;50
-e;2589474;'Situation en 1830';777;0
-e;2951292;'Situation administrative et démographique';777;0
-e;2717275;'Situation en 1829';777;0
-e;2932668;'Situation critique';777;0
-r;346910944;416620;13656084;11;25
-r;372887892;416620;14657346;11;25
-r;374440800;416620;14728120;11;25
-r;375401275;416620;14769913;11;25
-r;435273267;416620;16566984;11;26
-r;221122684;416620;9962772;11;31
-r;291215064;416620;11350040;11;32
-r;307501205;416620;11911282;11;32
-r;419545932;416620;16074387;11;34
-r;394030240;416620;15190564;11;35
-r;395482558;416620;15461298;11;35
-r;110813724;416620;5621129;11;38
-r;292656997;416620;11393761;11;38
-r;269958032;416620;10790212;11;39
-r;319100911;416620;12285094;11;40
-r;283779086;416620;11156529;11;41
-r;220094766;416620;9942469;11;42
-r;287604594;416620;11218933;11;42
-r;287608108;416620;11218936;11;42
-r;110813716;416620;5621130;11;44
-r;217023999;416620;9660327;11;50
-r;14293933;416620;142786;11;51
-r;83671029;416620;3319536;11;57
-r;14260837;416620;273750;11;58
-r;54729068;416620;2589474;11;59
-r;72769277;416620;2951292;11;59
-r;62193124;416620;2717275;11;60
-r;71957274;416620;2932668;11;63
+e;6449887;'situation dans l'emploi';1;0
+e;11002434;'situation de concurrence';777;0
+e;11002433;'situation de compétition';777;0
+e;16073011;'Examen de la situation personnelle de chacun';1;0
+e;16073012;'Examen de la situation personnelle de chaque époux';1;0
+e;16073066;'Faits en rapport direct avec la situation de surendettement';1;0
+e;2372592;'situation intéressante';1;0
+e;5782954;'situation linguistique du Luxembourg';777;0
+e;11005822;'situation nette';777;0
+e;11175048;'adaptation scolaire et scolarisation des élèves en situation de handicap';777;0
+e;13378678;'se préparer en fonction de la situation';1;0
+e;13378677;'se préparer en fonction de la situation anticipée';1;0
+e;6451100;'soins médicaux ou infirmiers ou surveillance médicale d'enfants en bonne santé selon des circonstances telles que situation socio-économique difficile de la famille';1;0
+e;13271588;'situation difficile à accepter';1;0
+e;6451032;'situation d'emploi';1;0
+e;6649165;'Étranger ou une étrangère en situation irrégulière';777;0
+e;10436364;'situation sécuritaire';1;0
+e;8852965;'empirer la situation';1;0
+e;9125946;'situation de handicap';1;0
+e;9637047;'mauvaise situation';1;0
+e;11129132;'Comité spécial chargé d'étudier la situation en ce qui concerne l'application de la Déclaration sur l'octroi de l'indépendance aux pays et aux peuples coloniaux';777;0
+e;12616781;'situation insupportable';1;0
+e;12685777;'situation menaçante';1;0
+e;15473535;'Déploiement de petits satellites de reconnaissance pour répondre à une situation de crise';777;0
+e;15321572;'Elle m'a expliqué la situation.';1;0
+e;15581860;'Il faut faire le bilan de la situation.';1;0
+e;15317035;'Ce pays est dans une situation économique catastrophique.';1;0
+e;15260049;'Cette situation a ému la communauté internationale.';1;0
+e;15385803;'Des sanctions économiques ne feraient qu'empirer la situation.';1;0
+e;16027290;'Créer des opportunités pour les producteurs qui sont économiquement en situation de désavantage';777;0
+e;16238394;'C'est une situation vraiment triste';1;0
+e;1379698;'situation périlleuse';1;0
+e;2347072;'situation troublée';1;0
+e;3230683;'situation louche';1;0
+e;3320054;'sous-comité consultatif de la situation du marché';1;0
+e;3352865;'situation désagréable';1;0
+e;3760732;'situation instable';1;0
+e;1649722;'aggraver la situation';1;0
+e;2352758;'situation sanitaire exceptionnelle';1;0
+e;3352866;'situation ennuyeuse';1;0
+e;5141466;'situation inconfortable';1;2
+e;3731224;'situation antérieure';1;0
+e;3304561;'situation de mobilité';1;0
+e;1457409;'situation particulière';1;0
+e;3170341;'situation d'urgence';1;0
+e;3320055;'Sous-comité de la situation du marché';1;0
+e;3562511;'étrangers en situation irrégulière';1;0
+e;5324049;'évolution de la situation';1;0
+e;3181084;'situation embrouillée';1;0
+e;437721;'situation traumatisante';1;50
+e;1881730;'situation fâcheuse';1;0
+e;2866994;'analyser la situation';1;0
+e;5498573;'situation bloquée';1;0
+e;2945153;'ne plus supporter la situation';1;0
+e;2771026;'situation désavantageuse';1;0
+e;394030;'situation dégradante';1;50
+e;332255;'situation sociale';1;52
+e;379880;'situation théâtrale';1;50
+e;379877;'situation préoccupante';1;50
+e;379875;'situation politique';1;50
+e;379868;'situation juridique';1;50
+e;379867;'situation internationale';1;50
+e;379863;'situation géographique';1;50
+e;375951;'remise en situation';1;50
+e;365002;'morale de situation';1;50
+e;332133;'situation dangereuse';1;50
+e;379879;'situation stratégique';1;50
+e;379873;'situation monétaire';1;50
+e;379870;'situation légale apparente';1;50
+e;379851;'situation critique';1;50
+e;351410;'en situation irrégulière';1;50
+e;346612;'dans une situation financière difficile';1;50
+e;379874;'situation pathologique';1;50
+e;379858;'situation explosive';1;50
+e;379855;'situation de monopole';1;50
+e;379845;'situation absurde';1;50
+e;356748;'gravité de la situation';1;50
+e;351409;'en situation financière difficile';1;50
+e;346269;'dans la situation contraire';1;50
+e;342795;'changement de situation';1;50
+e;379878;'situation sanitaire';1;50
+e;379857;'situation délicate';1;56
+e;350998;'en pareille situation';1;50
+e;346614;'dans une telle situation';1;50
+e;346271;'dans la situation présente';1;50
+e;346270;'dans la situation de';1;50
+e;391310;'profiter de la situation';1;50
+e;379871;'situation militaire';1;50
+e;379848;'situation assise';1;50
+e;357890;'homme de la situation';1;50
+e;379866;'situation insulaire';1;50
+e;379860;'situation financière';1;54
+e;379859;'situation familiale';1;50
+e;379854;'situation de fortune';1;50
+e;370847;'plan de situation';1;50
+e;351411;'en situation régulière';1;50
+e;388583;'à la hauteur de la situation';1;50
+e;379882;'situation épidémiologique';1;50
+e;379861;'situation fiscale';1;50
+e;379856;'situation de trésorerie';1;50
+e;379849;'situation budgétaire';1;50
+e;385863;'urgence de la situation';1;50
+e;379872;'situation mondiale';1;50
+e;379852;'situation de blocage';1;50
+e;379846;'situation administrative';1;50
+e;346613;'dans une situation semblable';1;50
+e;379865;'situation immobilière';1;50
+e;379862;'situation grave';1;50
+e;379850;'situation conflictuelle';1;50
+e;379847;'situation alarmante';1;50
+e;379881;'situation économique';1;56
+e;379876;'situation précaire';1;50
+e;379869;'situation limite';1;50
+e;379864;'situation historique';1;50
+e;379853;'situation de fait';1;50
+e;324507;'situation répétitive';1;50
+e;326187;'mauvaise appréciation de la situation';1;50
+e;326186;'appréciation de la situation';1;50
+e;65317;'en situation de';1;50
+e;211844;'se mettre en situation d'infériorité';1;50
+e;216558;'situation pénible';1;74
+e;216916;'situation professionnelle';1;50
+e;220719;'situation initiale';1;50
+e;232021;'situation tactique';1;50
+e;232571;'situation de crise';1;50
+e;234703;'étranger en situation irrégulière';1;20
+e;238749;'situation difficile';1;54
+e;240375;'redresser la situation';1;50
+e;242991;'mise en situation';1;50
+e;250128;'évaluer la situation';1;50
+e;252859;'haute situation';1;50
+e;254241;'situation stressante';1;50
+e;254280;'renversement de situation';1;50
+e;263553;'situation désespérée';1;52
+e;263612;'situation géopolitique';1;50
+e;119496;'situation extrême';1;50
+e;170200;'situation d'énonciation';1;50
+e;170201;'situation dramatique';1;50
+e;206956;'rente de situation';1;50
+e;207136;'retournement de situation';1;52
+e;208241;'situation de famille';1;50
+e;213698;'situation lucrative';1;62
+e;263873;'situation à risques';1;50
+e;264046;'situation matrimoniale';1;50
+e;266236;'en situation précaire';1;50
+e;97594;'situation de tout repos';1;50
+e;153236;'comique de situation';1;62
+e;181631;'comédie de situation';1;50
+e;265037;'situation agréable';1;50
+e;309264;'situation de vulnérabilité';1;50
+e;199406;'en situation';1;50
+e;199941;'être dans une situation fausse';1;50
+e;14509;'situation alimentaire mondiale';1;50
+e;198299;'dans une situation alarmante';1;50
+e;198791;'dominer la situation';1;54
+e;200803;'fausse situation';1;50
+e;201425;'géométrie de situation';1;50
+e;4107;'être en situation de';1;50
+r;302080427;48104;6359260;11;25
+r;302116376;48104;6361576;11;25
+r;304859140;48104;6392863;11;25
+r;305128661;48104;6398462;11;25
+r;366879517;48104;14452966;11;25
+r;352720911;48104;13998172;11;25
+r;356571407;48104;14094109;11;25
+r;366427633;48104;14428093;11;25
+r;366879676;48104;14452965;11;25
+r;366881341;48104;14452953;11;25
+r;366895325;48104;14453252;11;25
+r;366895569;48104;14453268;11;25
+r;366926601;48104;14454052;11;25
+r;366927630;48104;14453950;11;25
+r;370727127;48104;14590186;11;25
+r;370779464;48104;14590185;11;25
+r;370876917;48104;14594775;11;25
+r;371522700;48104;14626454;11;25
+r;412653260;48104;15834267;11;25
+r;419513510;48104;16073653;11;25
+r;419558338;48104;15304659;11;25
+r;419568315;48104;15255350;11;25
+r;419568801;48104;15525102;11;25
+r;419581935;48104;15367813;11;25
+r;419581939;48104;15367810;11;25
+r;419633162;48104;15414752;11;25
+r;419650743;48104;15434541;11;25
+r;419658964;48104;15243392;11;25
+r;419665799;48104;15247431;11;25
+r;419667218;48104;15241951;11;25
+r;419721759;48104;15377587;11;25
+r;419738094;48104;15485068;11;25
+r;419738268;48104;15238731;11;25
+r;419843065;48104;15253863;11;25
+r;419843073;48104;15496356;11;25
+r;419843079;48104;15373102;11;25
+r;419843087;48104;15530628;11;25
+r;423066799;48104;16124097;11;25
+r;424868442;48104;16159731;11;25
+r;299045115;48104;6298717;11;26
+r;303132646;48104;6373565;11;26
+r;316345143;48104;12200250;11;26
+r;343630437;48104;13568700;11;26
+r;368169552;48104;14488400;11;26
+r;368701879;48104;14532340;11;26
+r;368701927;48104;14532344;11;26
+r;368701954;48104;14532347;11;26
+r;368703418;48104;14532455;11;26
+r;370049000;48104;14563684;11;26
+r;370049028;48104;14563686;11;26
+r;374214960;48104;14717659;11;26
+r;386598873;48104;14885082;11;26
+r;416129996;48104;15953245;11;26
+r;333264813;48104;12980014;11;27
+r;419479253;48104;16087318;11;27
+r;119670920;48104;6087051;11;28
+r;425938089;48104;16239099;11;28
+r;112656197;48104;5782840;11;29
+r;277403589;48104;10987728;11;29
+r;417155150;48104;15399064;11;29
+r;417155156;48104;15246464;11;29
+r;417155162;48104;15334332;11;29
+r;417155166;48104;15373531;11;29
+r;417155172;48104;15340781;11;29
+r;417155182;48104;15338835;11;29
+r;417155190;48104;15297323;11;29
+r;134751447;48104;8005132;11;30
+r;220874277;48104;9959527;11;30
+r;134821081;48104;8012799;11;31
+r;277926129;48104;10992097;11;31
+r;114442478;48104;5856002;11;32
+r;113779719;48104;5815610;11;33
+r;302524185;48104;11780850;11;33
+r;29965538;48104;1831921;11;34
+r;115856143;48104;5916896;11;34
+r;275679024;48104;10943355;11;34
+r;291175194;48104;11356960;11;34
+r;300957310;48104;11697332;11;34
+r;305394923;48104;11824436;11;34
+r;115840716;48104;5921262;11;35
+r;275668633;48104;10943420;11;35
+r;289904212;48104;11287623;11;35
+r;313619831;48104;12048799;11;35
+r;313630619;48104;12049047;11;35
+r;313630751;48104;12049020;11;35
+r;112179066;48104;5710292;11;36
+r;313144225;48104;12007909;11;36
+r;315094248;48104;12077621;11;36
+r;315095705;48104;12077668;11;36
+r;110813754;48104;5621126;11;37
+r;306667755;48104;11839757;11;37
+r;312886456;48104;12005740;11;37
+r;313716993;48104;12051170;11;37
+r;121526548;48104;6440168;11;38
+r;283551632;48104;11153521;11;38
+r;290402520;48104;11329725;11;39
+r;313820915;48104;12057425;11;39
+r;76842276;48104;273750;11;40
+r;121048538;48104;6449887;11;40
+r;278738956;48104;11002434;11;40
+r;278738961;48104;11002433;11;40
+r;419101784;48104;16073011;11;41
+r;419101792;48104;16073012;11;41
+r;419102015;48104;16073066;11;41
+r;52043440;48104;2372592;11;42
+r;112655885;48104;5782954;11;42
+r;278411192;48104;11005822;11;42
+r;285995750;48104;11175048;11;42
+r;339243133;48104;13378678;11;42
+r;339243347;48104;13378677;11;42
+r;121037461;48104;6451100;11;43
+r;337657714;48104;13271588;11;43
+r;121038117;48104;6451032;11;47
+r;122383555;48104;6649165;11;47
+r;256254858;48104;10436364;11;47
+r;190281086;48104;8852965;11;50
+r;204275658;48104;9125946;11;50
+r;216862397;48104;9637047;11;50
+r;282681944;48104;11129132;11;50
+r;323050424;48104;12616781;11;50
+r;324928537;48104;12685777;11;50
+r;395808104;48104;15473535;11;50
+r;397499257;48104;15321572;11;50
+r;402106874;48104;15581860;11;50
+r;395012789;48104;15317035;11;50
+r;395014175;48104;15260049;11;50
+r;395032377;48104;15385803;11;50
+r;417637727;48104;16027290;11;50
+r;425893573;48104;16238394;11;50
+r;23398270;48104;1379698;11;51
+r;34543106;48104;2347072;11;51
+r;78303505;48104;3230683;11;51
+r;83668313;48104;3320054;11;51
+r;85932247;48104;3352865;11;51
+r;93787775;48104;3760732;11;51
+r;26406564;48104;1649722;11;52
+r;34759084;48104;2352758;11;52
+r;85932419;48104;3352866;11;53
+r;105901416;48104;5141466;11;53
+r;93131727;48104;3731224;11;55
+r;82886747;48104;3304561;11;56
+r;23875826;48104;1457409;11;57
+r;76230521;48104;3170341;11;57
+r;16128128;48104;457680;11;58
+r;83668305;48104;3320055;11;58
+r;88849745;48104;3562511;11;58
+r;106849768;48104;5324049;11;58
+r;16128124;48104;457681;11;59
+r;76816332;48104;3181084;11;59
+r;15089008;48104;437721;11;60
+r;30396001;48104;1881730;11;60
+r;71054878;48104;2866994;11;60
+r;108013739;48104;5498573;11;60
+r;72388481;48104;2945153;11;62
+r;63172329;48104;2771026;11;68
+r;13692498;48104;394030;11;74
+r;12131096;48104;332255;11;101
+r;12581937;48104;379880;11;101
+r;12581949;48104;379877;11;101
+r;12581955;48104;379875;11;101
+r;12581985;48104;379868;11;101
+r;12581989;48104;379867;11;101
+r;12582003;48104;379863;11;101
+r;12598105;48104;375951;11;101
+r;12642261;48104;365002;11;101
+r;12124516;48104;332133;11;102
+r;12581941;48104;379879;11;102
+r;12581963;48104;379873;11;102
+r;12581975;48104;379870;11;102
+r;12582049;48104;379851;11;102
+r;12697659;48104;351410;11;102
+r;12716997;48104;346612;11;102
+r;12581959;48104;379874;11;103
+r;12582021;48104;379858;11;103
+r;12582033;48104;379855;11;103
+r;12582071;48104;379845;11;103
+r;12675971;48104;356748;11;103
+r;12697665;48104;351409;11;103
+r;12718999;48104;346269;11;103
+r;12733555;48104;342795;11;103
+r;12581945;48104;379878;11;104
+r;12582025;48104;379857;11;104
+r;12699443;48104;350998;11;104
+r;12716987;48104;346614;11;104
+r;12718985;48104;346271;11;104
+r;12718993;48104;346270;11;104
+r;13048853;48104;391310;11;104
+r;12581971;48104;379871;11;105
+r;12582061;48104;379848;11;105
+r;12671297;48104;357890;11;105
+r;12581993;48104;379866;11;106
+r;12582013;48104;379860;11;106
+r;12582017;48104;379859;11;106
+r;12582037;48104;379854;11;106
+r;12619003;48104;370847;11;106
+r;12697653;48104;351411;11;106
+r;12547471;48104;388583;11;107
+r;12581929;48104;379882;11;107
+r;12582011;48104;379861;11;107
+r;12582029;48104;379856;11;107
+r;12582057;48104;379849;11;107
+r;12557895;48104;385863;11;108
+r;12581967;48104;379872;11;108
+r;12582045;48104;379852;11;108
+r;12582067;48104;379846;11;108
+r;12716991;48104;346613;11;108
+r;12581997;48104;379865;11;109
+r;12582007;48104;379862;11;109
+r;12582053;48104;379850;11;109
+r;12582065;48104;379847;11;109
+r;12581933;48104;379881;11;110
+r;12581951;48104;379876;11;110
+r;12581981;48104;379869;11;110
+r;12581999;48104;379864;11;110
+r;12582041;48104;379853;11;110
+r;9349636;48104;324507;11;148
+r;11280983;48104;326187;11;148
+r;11280987;48104;326186;11;148
+r;8592076;48104;65317;11;161
+r;8687199;48104;211844;11;161
+r;8690347;48104;216558;11;161
+r;8690414;48104;216916;11;161
+r;8692378;48104;220719;11;161
+r;8700444;48104;232021;11;161
+r;8701050;48104;232571;11;161
+r;8702250;48104;234703;11;161
+r;8705637;48104;238749;11;161
+r;8706656;48104;240375;11;161
+r;8707985;48104;242991;11;161
+r;8713431;48104;250128;11;161
+r;8716459;48104;252859;11;161
+r;8718164;48104;254241;11;161
+r;8718228;48104;254280;11;161
+r;8730775;48104;263553;11;161
+r;8730870;48104;263612;11;161
+r;8611194;48104;119496;11;162
+r;8632423;48104;170200;11;162
+r;8632424;48104;170201;11;162
+r;8679383;48104;206956;11;162
+r;8679725;48104;207136;11;162
+r;8681587;48104;208241;11;162
+r;8688949;48104;213698;11;162
+r;8731252;48104;263873;11;162
+r;8731518;48104;264046;11;162
+r;8733885;48104;266236;11;162
+r;8603299;48104;97594;11;163
+r;8623201;48104;153236;11;163
+r;8638681;48104;181631;11;163
+r;8732650;48104;265037;11;163
+r;8775138;48104;309264;11;163
+r;8666617;48104;199406;11;164
+r;8667542;48104;199941;11;164
+r;8574797;48104;14509;11;165
+r;8664859;48104;198299;11;165
+r;8665647;48104;198791;11;165
+r;8669268;48104;200803;11;165
+r;8670350;48104;201425;11;165
+r;8571323;48104;4107;11;166

@@ -1,0 +1,134 @@
+
+e;401330;'font';1;52
+e;10558738;'font-aux-cabres';777;0
+e;5794890;'Les brebis font de la résistance';777;0
+e;9991983;'Les deux font la père';777;0
+e;10595264;'Celles qui s'en font';777;0
+e;10595263;'Ceux qui ne s'en font pas';777;0
+e;15581719;'d'avril les ondées, font les fleurs de mai';1;0
+e;15581028;'deux font la paire';1;0
+e;10577661;'Un et un font six';777;0
+e;15575483;'chiens ne font pas des chats';1;0
+e;15760824;'bons comptes font les bons amis';1;0
+e;15391670;'ceux-ci font l'affaire';1;0
+e;10743438;'Sarah et Julie n'en font qu'à leur tête';777;0
+e;5961563;'Nos désirs font désordre';777;0
+e;5955490;'Les trois font la paire';777;0
+e;10934853;'Ainsi font';777;0
+e;5919798;'Des femmes qui font refondre leurs maris';777;0
+e;10559145;'Les Charlots font l'Espagne';777;0
+e;15560963;'Les deux font la paire.';1;0
+e;15324765;'Les films d'horreur lui font peur.';1;0
+e;15571148;'Les garçons lui en font voir de toutes les couleurs.';1;0
+e;15288799;'Les limaces font des ravages sur les jeunes plantes.';1;0
+e;15486959;'Les nouvelles recrues font de bons progrès.';1;0
+e;15351548;'Les pèlerinages font partie intégrante de la vie hindoue.';1;0
+e;15499279;'Les travailleurs des NTIC font preuve de beaucoup de mobilité.';1;0
+e;16316300;'Les Miss font leur cinéma';777;0
+e;11502542;'Les gorilles font les fous';777;0
+e;13140841;'Zack et Miri font un porno';777;0
+e;10324079;'Forum des 100 personnalités qui font la Suisse romande';777;0
+e;5855661;'ne font pas';777;0
+e;10515941;'Les Wampas font la gueule';777;0
+e;10160678;'Quand quatre font la même chose';777;0
+e;15531012;'La plupart de mes déplacements en voiture se font en ville.';1;0
+e;10143098;'Tom et Jerry font la sieste';777;0
+e;10143071;'Tom et Jerry font le ménage';777;0
+e;2368851;'les bons maitres font les bons valets';1;0
+e;16085416;'Ils font trop de bruit.';1;0
+e;9695712;'bruit des voisins qui font la fête';1;0
+e;15571142;'Il y a plus de filles que de garçons qui font du français.';1;0
+e;15504917;'Ils font du patin tous les mercredis.';1;0
+e;15574938;'2 et 2 font 4.';1;0
+e;15581023;'Ils font une pause.';1;0
+e;15292110;'Ils font un vacarme de tous les diables.';1;0
+e;15330461;'Deux fois deux font quatre.';1;0
+e;15264975;'Certains parents se font vraiment une montagne de l'adoption.';1;0
+e;15330475;'Ces chiffres font apparaître la perte de compétitivité comme plus grave qu'elle ne l'est réellement.';1;0
+e;15581029;'2 et 2 font 4';1;0
+e;16326272;'Ces pièces font partie d'un ensemble.';1;0
+e;212747;'Les Bronzés font du ski';666;50
+e;3962306;'dire et faire font deux';1;0
+e;337612;'aussi vrai que deux et deux font quatre';1;50
+e;2526388;'les bons maîtres font les bons valets';1;0
+e;3223747;'Les chiens ne font pas des chats';777;0
+e;314104;'les belles plumes font les beaux oiseaux';1;50
+e;202910;'les petits ruisseaux font les grandes rivières';1;50
+e;202884;'les gros larrons font pendre les petits';1;50
+e;2605729;'nous l'attendrons comme les moines font l'abbé';1;0
+e;158500;'les deux font la paire';1;58
+e;202926;'les receleurs font les voleurs';1;50
+e;184911;'clair comme deux et deux font quatre';1;50
+e;157958;'deux et deux font quatre';1;64
+e;2360300;'les chiens ne font pas des chats';1;0
+e;202854;'les bons comptes font les bons amis';1;52
+e;2953775;'Les deux font la paire';777;0
+e;3161805;'Les cigognes n'en font qu'à leur tête';777;0
+e;1813672;'îles qui lui font face';1;0
+e;3170563;'Les bronzés font du ski';777;0
+r;274712921;401330;10558738;11;25
+r;114450520;401330;5794890;11;27
+r;227680863;401330;9991983;11;30
+r;264451709;401330;10595264;11;30
+r;264451713;401330;10595263;11;30
+r;419758841;401330;15581719;11;30
+r;419777311;401330;15581028;11;30
+r;263706354;401330;10577661;11;31
+r;419706692;401330;15575483;11;31
+r;419659136;401330;15760824;11;32
+r;419696436;401330;15391670;11;32
+r;269399378;401330;10743438;11;33
+r;116574844;401330;5961563;11;34
+r;116581175;401330;5955490;11;34
+r;275367984;401330;10934853;11;34
+r;115845373;401330;5919798;11;35
+r;263276873;401330;10559145;11;35
+r;419495539;401330;15560963;11;35
+r;419495898;401330;15324765;11;35
+r;419495973;401330;15571148;11;35
+r;419496376;401330;15288799;11;35
+r;419496702;401330;15486959;11;35
+r;419497118;401330;15351548;11;35
+r;419497606;401330;15499279;11;35
+r;428829280;401330;16316300;11;35
+r;295467016;401330;11502542;11;37
+r;335882495;401330;13140841;11;37
+r;252661048;401330;10324079;11;38
+r;114443588;401330;5855661;11;40
+r;262208389;401330;10515941;11;40
+r;238098672;401330;10160678;11;44
+r;417032811;401330;15531012;11;44
+r;236659673;401330;10143098;11;45
+r;236659827;401330;10143071;11;45
+r;50762751;401330;2368851;11;46
+r;419118638;401330;16085416;11;46
+r;217363584;401330;9695712;11;50
+r;402110630;401330;15571142;11;50
+r;402111727;401330;15504917;11;50
+r;399502949;401330;15574938;11;50
+r;402111743;401330;15581023;11;50
+r;402111735;401330;15292110;11;50
+r;394615503;401330;15330461;11;50
+r;395013467;401330;15264975;11;50
+r;395013521;401330;15330475;11;50
+r;399661350;401330;15581029;11;50
+r;431653480;401330;16326272;11;50
+r;14277055;401330;212747;11;51
+r;95169414;401330;3962306;11;51
+r;14215258;401330;337612;11;52
+r;52464173;401330;2526388;11;52
+r;77576840;401330;3223747;11;52
+r;14223275;401330;314104;11;53
+r;14279457;401330;202910;11;54
+r;14279483;401330;202884;11;54
+r;55492639;401330;2605729;11;54
+r;14292139;401330;158500;11;55
+r;14279439;401330;202926;11;56
+r;14286831;401330;184911;11;57
+r;14292161;401330;157958;11;57
+r;50119479;401330;2360300;11;58
+r;14279521;401330;202854;11;60
+r;72950890;401330;2953775;11;60
+r;76028030;401330;3161805;11;63
+r;29603054;401330;1813672;11;65
+r;76244528;401330;3170563;11;68

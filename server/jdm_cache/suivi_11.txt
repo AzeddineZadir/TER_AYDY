@@ -1,0 +1,238 @@
+
+e;5323;'suivi';1;130
+e;15695015;'suivi normal d'un patient';1;0
+e;6395642;'test de suivi visuel';1;0
+e;6309089;'suivi thérapeutique des médicaments';1;0
+e;6337108;'suivi des soins';1;0
+e;6325498;'suivi patient';1;0
+e;6334908;'incendie volontaire au cours de suivi d'une mise en observation pour suspicion de trouble mental';1;0
+e;6344267;'comités de surveillance et de suivi des essais cliniques';1;0
+e;6352293;'visites de suivi';1;0
+e;6379620;'suivi des traitements pharmacologiques';1;0
+e;6385553;'absent au contrôle de suivi';1;0
+e;6392075;'suivi intensif de proximité en santé mentale';1;0
+e;6391545;'suivi du soin';1;0
+e;6416945;'suivi intensif dans la communauté en santé mentale';1;0
+e;12195885;'mesure de warfarine suivi panel';1;0
+e;12182906;'identification de protocole de suivi';1;0
+e;12161168;'mesure d'immunodéficience suivi panel';1;0
+e;12144509;'mesure de dépistage néonatal suivi recommandé';1;0
+e;6299961;'visite de consultation avec un patient hospitalisé pour suivi';1;0
+e;6310180;'analyses du suivi thérapeutique';1;0
+e;6346632;'débridement de plaie suivi de suture';1;0
+e;6327156;'test de suivi visuel normal';1;0
+e;6365183;'test de suivi visuel anormal';1;0
+e;14452531;'suivi socio-judiciaire';1;0
+e;14452888;'suivi du dossier';1;0
+e;14453941;'suivi des travaux';1;0
+e;14572252;'suivi de la santé d'une population';1;0
+e;14916103;'protocole de suivi dendrométrique';777;0
+e;16170714;'suivi des contacts';1;0
+e;16317155;'le suivi des élèves';777;0
+e;6297704;'suivi du patient';1;0
+e;6300596;'suivi de convalescence';1;0
+e;6322042;'Études de suivi';1;0
+e;6327099;'soins de suivi';1;0
+e;6351932;'absents aux contrôles de suivi';1;0
+e;6357563;'absents aux visites de suivi';1;0
+e;6398356;'suivi thérapeutique pharmacologique';1;0
+e;6414074;'perdus de suivi';1;0
+e;6418879;'suivi psychiatrique';1;0
+e;6419750;'erreurs de suivi médicamenteux';1;0
+e;6362554;'toxicologie et suivi thérapeutique';1;0
+e;14730924;'effectuer le suivi';1;0
+e;6350733;'absent à la visite de suivi';1;0
+e;12098797;'immunodéficience suivi panel';1;0
+e;12095073;'dépistage néonatal suivi recommandé';1;0
+e;5723325;'logiciels de suivi de problèmes';777;0
+e;12104763;'protocole de suivi';1;0
+e;12240097;'identification de protocole de suivi | coloration cellulaire | prélèvement cervicovaginal | ponctuel | résultat nominal | identification';1;0
+e;12240096;'identification de protocole de suivi | technique indéterminée | patient | ponctuel | résultat nominal | identification';1;0
+e;12108588;'warfarine suivi panel';1;0
+e;15561192;'dans l'heure qui a suivi';1;0
+e;15769914;'de suivi';1;0
+e;15411749;'département des média et suivi de l'opinion';1;0
+e;5679365;'suivi des dernières modifications de ces articles';777;0
+e;15769911;'colis suivi';1;0
+e;15768110;'comité local d'information et de suivi';777;0
+e;5619522;'radar de suivi de terrain';777;0
+e;5837745;'Système de suivi des ressources halieutiques';777;0
+e;15200938;'campagne de suivi';1;0
+e;15548301;'assurer le suivi de';1;0
+e;15454627;'assurer le suivi de [qch]';1;0
+e;15504448;'assurer le suivi de quelque chose';1;0
+e;6424166;'intervention de crise avec suivi';1;0
+e;11353477;'suivi orthophonique';1;0
+e;11407809;'séisme suivi d'un tsunami';777;0
+e;5723323;'logiciel de suivi de problèmes';777;0
+e;6428509;'incendie volontaire suivi d'une mise en observation pour suspicion de trouble mental';1;0
+e;16341667;'Gregory Mankiw suivi assez brièvement de Harvey S. Rosen';777;0
+e;16367375;'Le Comité de suivi';777;0
+e;12050015;'assurer le suivi du traitement des patients';1;0
+e;12050102;'assurer le suivi des rapports de réclamation';1;0
+e;11837618;'pas de suivi';1;0
+e;11840861;'système de radar de suivi de terrain';1;0
+e;12052283;'suivi de soins';1;0
+e;11008537;'système de suivi d'anomalies logicielles';1;0
+e;11376843;'Programme international pour le suivi des acquis des élèves';777;0
+e;11254039;'suivi psychologique';1;0
+e;6448625;'suivi d'expression de gènes';1;0
+e;11008538;'suivi d'anomalies logicielles';1;0
+e;2415111;'bordereau de suivi des déchets';1;0
+e;16076458;'J'ai suivi ses instructions.';1;0
+e;14567988;'Exemple de suivi graphique';777;0
+e;15377222;'Jane a suivi le sentier à travers la forêt.';1;0
+e;15768112;'Commissions de suivi des sites';777;0
+e;3280816;'suivi post-opératoire';1;0
+e;1654036;'être suivi psychologiquement';1;0
+e;1678466;'suivi de terrain automatique';1;0
+e;2570609;'entre-suivi';1;0
+e;1687768;'suivi évolutif';1;0
+e;1718626;'suivi de la glycémie';1;0
+e;3290720;'suivi thérapeutique';1;0
+e;5232603;'suivi à long terme';1;0
+e;3319473;'Réseau de suivi et d'information sur l'aide alimentaire';1;0
+e;1444857;'se sentir suivi';1;0
+e;1789069;'suivi de près';1;0
+e;1789067;'suivi de loin';1;0
+e;381666;'suivi des dossiers';1;50
+e;381668;'suivi d'effet';1;50
+e;381667;'suivi sanitaire';1;50
+e;381665;'suivi clinique';1;50
+e;347665;'discours suivi';1;50
+e;336638;'article suivi';1;50
+e;277997;'suivi-vers';777;50
+e;323962;'aucun suivi';1;50
+e;232030;'comité de suivi';1;50
+e;237815;'suivi médical';1;20
+e;246048;'suivi client';1;50
+e;250897;'comité de surveillance et de suivi';1;50
+e;208553;'suivi scolaire';1;50
+e;16028;'être suivi de';1;50
+e;182501;'fonctionnement en suivi de charge';1;50
+e;184380;'suivi de marché';1;50
+e;184381;'suivi du terrain';1;50
+e;268634;'manque de suivi';1;50
+e;295819;'suivi de charge';777;50
+e;312870;'être suivi';1;50
+r;403527218;5323;15695015;11;25
+r;349191952;5323;6395642;11;25
+r;299576213;5323;6309089;11;25
+r;301415423;5323;6337108;11;25
+r;300189900;5323;6325498;11;25
+r;301220134;5323;6334908;11;25
+r;301512790;5323;6344267;11;25
+r;301745603;5323;6352293;11;25
+r;303649791;5323;6379620;11;25
+r;303999546;5323;6385553;11;25
+r;304702085;5323;6392075;11;25
+r;304605224;5323;6391545;11;25
+r;305685430;5323;6416945;11;25
+r;316559194;5323;12195885;11;25
+r;316607946;5323;12182906;11;25
+r;316689373;5323;12161168;11;25
+r;316742904;5323;12144509;11;25
+r;319074655;5323;6299961;11;25
+r;319102592;5323;6310180;11;25
+r;341101509;5323;6346632;11;25
+r;349204467;5323;6327156;11;25
+r;349239463;5323;6365183;11;25
+r;366866916;5323;14452531;11;25
+r;366878557;5323;14452888;11;25
+r;366925616;5323;14453941;11;25
+r;370334038;5323;14572252;11;25
+r;391011057;5323;14916103;11;25
+r;424061983;5323;16170714;11;25
+r;428843871;5323;16317155;11;25
+r;299027874;5323;6297704;11;26
+r;299135716;5323;6300596;11;26
+r;300120525;5323;6322042;11;26
+r;300205629;5323;6327099;11;26
+r;301741959;5323;6351932;11;26
+r;302030118;5323;6357563;11;26
+r;305066245;5323;6398356;11;26
+r;305615873;5323;6414074;11;26
+r;305697874;5323;6418879;11;26
+r;305702098;5323;6419750;11;26
+r;319064009;5323;6362554;11;26
+r;374540608;5323;14730924;11;26
+r;301735122;5323;6350733;11;27
+r;315587509;5323;12098797;11;27
+r;315614902;5323;12095073;11;27
+r;112671498;5323;5723325;11;28
+r;315529099;5323;12104763;11;28
+r;318454881;5323;12240097;11;28
+r;318454903;5323;12240096;11;28
+r;315493573;5323;12108588;11;29
+r;419762955;5323;15561192;11;30
+r;419770222;5323;15769914;11;30
+r;419812404;5323;15411749;11;30
+r;111461492;5323;5679365;11;31
+r;419717123;5323;15769911;11;31
+r;419719665;5323;15768110;11;31
+r;110816237;5323;5619522;11;32
+r;114014961;5323;5837745;11;32
+r;419678080;5323;15200938;11;32
+r;419614583;5323;15548301;11;33
+r;419614587;5323;15454627;11;33
+r;419614595;5323;15504448;11;33
+r;122740969;5323;6424166;11;34
+r;291213773;5323;11353477;11;34
+r;293418509;5323;11407809;11;34
+r;112671508;5323;5723323;11;35
+r;122707315;5323;6428509;11;35
+r;431846146;5323;16341667;11;35
+r;432575308;5323;16367375;11;35
+r;313690022;5323;12050015;11;36
+r;313691933;5323;12050102;11;36
+r;306354958;5323;11837618;11;38
+r;306770712;5323;11840861;11;38
+r;313731682;5323;12052283;11;38
+r;278735707;5323;11008537;11;41
+r;291866643;5323;11376843;11;41
+r;288439944;5323;11254039;11;42
+r;121059989;5323;6448625;11;43
+r;278708432;5323;11008538;11;43
+r;54356630;5323;2415111;11;45
+r;50717835;5323;2368089;11;47
+r;419103222;5323;16076458;11;47
+r;50599944;5323;2368088;11;48
+r;50721765;5323;2367818;11;49
+r;50719510;5323;2367819;11;50
+r;216675189;5323;9614891;11;50
+r;216678635;5323;9614892;11;50
+r;370351247;5323;14567988;11;50
+r;402153318;5323;15377222;11;50
+r;411716316;5323;15768112;11;50
+r;80276921;5323;3280816;11;51
+r;26689550;5323;1654036;11;55
+r;27803387;5323;1678466;11;55
+r;52485961;5323;2570609;11;55
+r;27889822;5323;1687768;11;56
+r;28288609;5323;1718626;11;57
+r;80838046;5323;3290720;11;57
+r;106373160;5323;5232603;11;57
+r;83671425;5323;3319473;11;58
+r;23782155;5323;1444857;11;59
+r;29357249;5323;1789069;11;59
+r;29357223;5323;1789067;11;61
+r;12574647;5323;381666;11;101
+r;12574639;5323;381668;11;102
+r;12574643;5323;381667;11;103
+r;12574651;5323;381665;11;104
+r;12712681;5323;347665;11;104
+r;12759063;5323;336638;11;106
+r;11849703;5323;277997;11;122
+r;9310016;5323;323962;11;148
+r;8700459;5323;232030;11;161
+r;8705033;5323;237815;11;161
+r;8709817;5323;246048;11;161
+r;8714376;5323;250897;11;161
+r;8682143;5323;208553;11;162
+r;8575311;5323;16028;11;163
+r;8640225;5323;182501;11;163
+r;8643392;5323;184380;11;163
+r;8643394;5323;184381;11;163
+r;8736439;5323;268634;11;163
+r;8763038;5323;295819;11;163
+r;8779261;5323;312870;11;163

@@ -1,0 +1,94 @@
+
+e;22700;'prestation';1;70
+e;6398373;'prestation de soins de santé intégrés';1;0
+e;14452324;'principe de liberté d'établissement et de libre prestation des services';1;0
+e;14453977;'prestation intellectuelle';1;0
+e;14454123;'prestation sur le territoire';1;0
+e;14453968;'prestation réalisée à titre gratuit';1;0
+e;14563516;'prestation sexuelle';1;0
+e;16381499;'prestation de serment des recrues';777;0
+e;5715552;'interface de prestation de service';777;0
+e;16367259;'contrat de prestation de service';1;0
+e;16367260;'contrat de prestation de services';1;0
+e;6446816;'demandes de prestation d'invalidité d'anciens combattants';1;0
+e;16073922;'Principe de liberté d'établissement et de libre prestation des services';1;0
+e;12051747;'guider l'analyse d'une prestation enregistrée';1;0
+e;12051354;'contrôler la prestation de services';1;0
+e;10174489;'Grammy Award de la meilleure prestation rock';777;0
+e;10174488;'Grammy Award de la meilleure prestation vocale rock par un groupe ou un duo';777;0
+e;10174487;'Grammy Award de la meilleure prestation metal';777;0
+e;10174486;'Grammy Award de la meilleure prestation hard rock';777;0
+e;10174474;'Grammy Award de la meilleure prestation vocale pop d'un duo ou groupe';777;0
+e;11158886;'prestation de protection sociale';777;0
+e;6594955;'prestation d'accueil du jeune enfant';777;0
+e;15489851;'L'équipe a réalisé une bonne prestation.';1;0
+e;1842199;'prestation familiale';1;0
+e;1842201;'prestation en nature';1;0
+e;1842202;'prestation non contributive';1;0
+e;1842198;'prestation en espèces';1;0
+e;1842203;'prestation obligatoire';1;0
+e;1842204;'prestation sanitaire';1;0
+e;1842200;'prestation légale';1;0
+e;372872;'prestation de vieillesse';1;50
+e;372871;'prestation de qualité';1;50
+e;372869;'prestation amicale de travail';1;50
+e;372875;'prestation technique';1;50
+e;372874;'prestation médicale';1;50
+e;372873;'prestation interministérielle';1;50
+e;372876;'prestation télévisée';1;50
+e;372878;'prestation médiatique';1;50
+e;372870;'prestation d'invalidité';1;50
+e;43840;'contre-prestation';1;50
+e;232074;'niveau de prestation';1;50
+e;228243;'prestation sociale';1;4
+e;230773;'prestation de service';1;50
+e;230994;'prestation de services';1;52
+e;126835;'prestation compensatoire';1;72
+e;206285;'prestation de serment';1;50
+e;290104;'prestation de';777;50
+r;305130382;22700;6398373;11;25
+r;366857236;22700;14452324;11;25
+r;366926351;22700;14453977;11;25
+r;366929099;22700;14454123;11;25
+r;366932916;22700;14453968;11;25
+r;370039649;22700;14563516;11;25
+r;432737110;22700;16381499;11;25
+r;112171845;22700;5715552;11;29
+r;434381078;22700;16367259;11;30
+r;434381085;22700;16367260;11;30
+r;121466917;22700;6446816;11;32
+r;419528142;22700;16073922;11;34
+r;313762367;22700;12051747;11;36
+r;313764208;22700;12051354;11;36
+r;238092699;22700;10174489;11;44
+r;238092711;22700;10174488;11;44
+r;238092729;22700;10174487;11;44
+r;238092741;22700;10174486;11;44
+r;238092841;22700;10174474;11;44
+r;284048260;22700;11158886;11;45
+r;122104949;22700;6594955;11;48
+r;414848777;22700;15489851;11;50
+r;29900796;22700;1842199;11;52
+r;29900788;22700;1842201;11;54
+r;29900784;22700;1842202;11;60
+r;29900800;22700;1842198;11;60
+r;29900780;22700;1842203;11;61
+r;29900776;22700;1842204;11;67
+r;29900792;22700;1842200;11;67
+r;12610659;22700;372872;11;102
+r;12610665;22700;372871;11;102
+r;12610675;22700;372869;11;102
+r;12610649;22700;372875;11;106
+r;12610653;22700;372874;11;107
+r;12610657;22700;372873;11;107
+r;12610645;22700;372876;11;109
+r;12610639;22700;372878;11;110
+r;12610671;22700;372870;11;110
+r;11871876;22700;43840;11;121
+r;8700519;22700;232074;11;160
+r;8697391;22700;228243;11;161
+r;8699304;22700;230773;11;161
+r;8699523;22700;230994;11;161
+r;8613805;22700;126835;11;163
+r;8678200;22700;206285;11;163
+r;8758071;22700;290104;11;163

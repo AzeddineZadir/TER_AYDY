@@ -91,7 +91,7 @@ e;14639280;'munition de petit calibre';1;0
 e;14639371;'munitions de petit calibre';1;0
 e;14653914;'petit être';1;0
 e;14655497;'petit tas';1;0
-e;14669806;'préparer le petit déjeuner';1;74
+e;14669806;'préparer le petit déjeuner';1;76
 e;14760944;'Le petit chien de laine';777;0
 e;14772997;'le petit moulin';777;0
 e;14773134;'Liste de créatures du petit peuple';777;0
@@ -99,58 +99,10 @@ e;14895450;'petit reblochon de Savoie';777;0
 e;15349154;'je bois du petit lait';1;0
 e;15420300;'être le petit toutou de [qqn]';1;0
 e;15787363;'petit ordinateur pour Internet';777;0
-e;15560987;'Le petit de Sylvie a une mauvaise grippe.';1;0
-e;15288468;'Le petit déjeuner consistait en une tranche de pain grillé.';1;0
-e;15498168;'Le petit déjeuner est servi à partir de 6 h.';1;0
-e;15771712;'Le petit secrétaire occupait l'angle opposé.';1;0
-e;15761119;'Mon petit coeur,';1;0
-e;15254822;'Nicolas, c'est le petit.';1;0
-e;15322296;'Patience, petit scarabée!';1;0
-e;15343509;'Quand j'étais petit, j'étais hyperactif.';1;0
-e;15401844;'Quand j'étais petit.';1;0
-e;15272862;'Quel petit égoïste, celui-là!';1;0
-e;15788987;'Record du monde du 50 m nage libre en petit bassin';777;0
-e;15448326;'Un petit alcool?';1;0
-e;15295608;'Un petit garçon m'a tiré la langue.';1;0
-e;15420270;'aborder un problème par le petit bout de la lorgnette';1;0
-e;15368972;'aller au petit galop';1;0
-e;15285742;'aller mon petit bonhomme de chemin';1;0
-e;15302956;'aller votre petit bonhomme de chemin';1;0
-e;15252595;'ange, petit ange, angelot';1;0
-e;13754200;'arrière-arrière-petit-enfant';1;0
-e;15335213;'au petit galop';1;0
-e;16040352;'au petit poil';1;0
-e;15550495;'avant le petit matin';1;0
-e;15370025;'avoir un petit faible';1;0
-e;15370027;'avoir un petit je-ne-sais-quoi';1;0
-e;15420282;'avoir un petit pois à la place du cerveau';1;2
-e;15330756;'beau parleur, petit faiseur';1;0
-e;15543409;'bien plus petit';1;0
-e;15241698;'brioche ou petit pain au sirop de sucre';1;0
-e;15226174;'buffet du petit déjeuner';1;0
-e;15226162;'buffet petit déjeuner';1;0
-e;15226170;'buffet petit déjeuner à volonté';1;0
-e;15337789;'c'est au petit bonheur la chance';1;0
-e;15234631;'c'est le petit Jésus en culotte de velours!';1;0
-e;16029443;'c'est pas un petit saint';1;0
-e;15414494;'ce n?est pas la mort du petit cheval';1;0
-e;15306069;'cet espèce de petit vicieux';1;0
-e;15226176;'chambre avec petit déjeuner';1;0
-e;15365942;'chaque petit poisson espère devenir une baleine';1;0
-e;15201587;'coin salon, petit salon';1;0
-e;16042227;'comme un petit beurre';1;0
-e;15262361;'de moins en moins petit';1;0
-e;15420287;'de petit calibre';1;0
-e;15303705;'de petit diamètre';1;0
-e;16085502;'de petit tirage';1;0
-e;15247735;'de plus en plus petit';1;0
-e;15420292;'depuis que je suis tout petit';1;0
-e;15420295;'dès tout petit';1;0
-e;16043205;'démener comme un petit pied';1;0
-e;15550298;'en petit groupe';1;0
-e;16044459;'en plus petit';1;0
-e;16153801;'Mignon petit canari';777;0
 e;16309391;'petit déplacement';1;0
+e;14731110;'prendre son petit déjeuner au lit';1;0
+e;16322116;'petit train du Cap-Ferret';777;0
+e;16575676;'petit Saint-Nicolas';777;0
 e;6286146;'petit ténébrion mat';1;0
 e;6305650;'petit langrayen';1;0
 e;6306770;'petit arn non traduit';1;0
@@ -198,12 +150,6 @@ e;14753126;'petit volant';1;0
 e;14753195;'petit four sucré';1;0
 e;14753379;'petit soldat de plomb';1;0
 e;14755595;'sortir avec un petit jeune';1;0
-e;15804748;'en petit bassin';777;0
-e;15302323;'arriver petit à petit';1;0
-e;15302332;'augmentant petit à petit';1;0
-e;15302330;'augmenter petit à petit';1;0
-e;15302326;'avançant petit à petit';1;0
-e;15302328;'descendre petit à petit';1;0
 e;5793982;'Boire un petit coup';777;0
 e;6430848;'tendon extenseur du petit doigt';1;0
 e;10666018;'Trop petit mon ami';777;0
@@ -251,6 +197,16 @@ e;9990938;'Les Vacances du petit Nicolas';777;0
 e;9991437;'Un petit Indien';777;0
 e;11056688;'petit icosidodécaèdre ditrigonal';777;0
 e;11771280;'Un petit carrousel de fête';777;0
+e;15262361;'de moins en moins petit';1;0
+e;15420287;'de petit calibre';1;0
+e;15303705;'de petit diamètre';1;0
+e;16085502;'de petit tirage';1;0
+e;15247735;'de plus en plus petit';1;0
+e;15420292;'depuis que je suis tout petit';1;0
+e;15420295;'dès tout petit';1;0
+e;16043205;'démener comme un petit pied';1;0
+e;15550298;'en petit groupe';1;0
+e;16044459;'en plus petit';1;0
 e;2421871;'petit-boutisme';1;0
 e;2439942;'petit-russe';1;0
 e;5700048;'Colibri à petit bec';777;0
@@ -268,8 +224,9 @@ e;9980211;'bouger le petit doigt';1;0
 e;10002145;'Le petit Nicky';777;0
 e;10963153;'Surplouf le petit corsaire';777;0
 e;11782083;'Un petit cercle d'amis';777;0
-e;1833370;'syndrome du petit estomac';1;0
-e;1834621;'gangrène gazeuse du petit bassin';1;0
+e;15804748;'en petit bassin';777;0
+e;15201587;'coin salon, petit salon';1;0
+e;16042227;'comme un petit beurre';1;0
 e;1839336;'muscle petit scalène d'Albinus et Winslow';1;0
 e;2388134;'beau-petit-fils';1;0
 e;2448109;'hardi-petit';1;0
@@ -298,7 +255,28 @@ e;10992199;'petit rhinanthe';1;0
 e;11049791;'petit rorqual de l'Antarctique';1;0
 e;11078754;'petit Bugey';777;0
 e;11354496;'petit temple d'Abou Simbel';777;0
-e;1838414;'margelle du petit bassin';1;0
+e;15335213;'au petit galop';1;0
+e;16040352;'au petit poil';1;0
+e;15550495;'avant le petit matin';1;0
+e;15370025;'avoir un petit faible';1;0
+e;15370027;'avoir un petit je-ne-sais-quoi';1;0
+e;15420282;'avoir un petit pois à la place du cerveau';1;2
+e;15330756;'beau parleur, petit faiseur';1;0
+e;15543409;'bien plus petit';1;0
+e;15241698;'brioche ou petit pain au sirop de sucre';1;0
+e;15226174;'buffet du petit déjeuner';1;0
+e;15226162;'buffet petit déjeuner';1;0
+e;15226170;'buffet petit déjeuner à volonté';1;0
+e;15337789;'c'est au petit bonheur la chance';1;0
+e;15234631;'c'est le petit Jésus en culotte de velours!';1;0
+e;16029443;'c'est pas un petit saint';1;0
+e;15414494;'ce n?est pas la mort du petit cheval';1;0
+e;15306069;'cet espèce de petit vicieux';1;0
+e;15226176;'chambre avec petit déjeuner';1;0
+e;15365942;'chaque petit poisson espère devenir une baleine';1;0
+e;16319323;'au petit bonheur de';1;0
+e;1833370;'syndrome du petit estomac';1;0
+e;1834621;'gangrène gazeuse du petit bassin';1;0
 e;5680253;'race de petit cheval de trait';1;0
 e;5830425;'petit tabac';777;0
 e;6432554;'soins maternels pour foetus petit pour l'âge gestationnel';1;0
@@ -306,8 +284,9 @@ e;10037128;'championnats du monde de natation en petit bassin';777;0
 e;10037127;'Championnats du monde de natation en petit bassin 2016';777;0
 e;10956426;'Le petit Sammy éternue';777;0
 e;11061623;'petit bourg';777;0
-e;1827667;'anorexie du petit enfant';1;0
-e;1834531;'gaine du tendon du muscle court extenseur du petit doigt';1;0
+e;13754200;'arrière-arrière-petit-enfant';1;0
+e;16310653;'Snoopy et le petit monde des Peanuts';777;0
+e;1838414;'margelle du petit bassin';1;0
 e;5896816;'petit déjeuner irlandais';777;0
 e;5960788;'petit scolyte de l'orme';777;0
 e;5953326;'petit bac';777;0
@@ -319,6 +298,21 @@ e;10934849;'Il était un petit homme';777;0
 e;10939923;'petit séminaire de Belley';777;0
 e;11082355;'Les Combattants du petit bonheur de Alphonse Boudard';777;0
 e;11925319;'petit ring de Mons';777;0
+e;15254822;'Nicolas, c'est le petit.';1;0
+e;15322296;'Patience, petit scarabée!';1;0
+e;15343509;'Quand j'étais petit, j'étais hyperactif.';1;0
+e;15401844;'Quand j'étais petit.';1;0
+e;15272862;'Quel petit égoïste, celui-là!';1;0
+e;15788987;'Record du monde du 50 m nage libre en petit bassin';777;0
+e;15448326;'Un petit alcool?';1;0
+e;15295608;'Un petit garçon m'a tiré la langue.';1;0
+e;15420270;'aborder un problème par le petit bout de la lorgnette';1;0
+e;15368972;'aller au petit galop';1;0
+e;15285742;'aller mon petit bonhomme de chemin';1;0
+e;15302956;'aller votre petit bonhomme de chemin';1;0
+e;15252595;'ange, petit ange, angelot';1;0
+e;1827667;'anorexie du petit enfant';1;0
+e;1834531;'gaine du tendon du muscle court extenseur du petit doigt';1;0
 e;4907615;'petit-chanteur';1;0
 e;5916589;'petit pain spécial';1;0
 e;5912322;'poudre de petit lait';1;0
@@ -332,6 +326,13 @@ e;12080539;'petit Blanc';1;0
 e;12080537;'petit ARN nucléaire';1;0
 e;12080536;'petit ARN interférent';1;0
 e;13446634;'petit autre';777;0
+e;15560987;'Le petit de Sylvie a une mauvaise grippe.';1;0
+e;15288468;'Le petit déjeuner consistait en une tranche de pain grillé.';1;0
+e;15498168;'Le petit déjeuner est servi à partir de 6 h.';1;0
+e;15771712;'Le petit secrétaire occupait l'angle opposé.';1;0
+e;15761119;'Mon petit coeur,';1;0
+e;16153801;'Mignon petit canari';777;0
+e;16496656;'Le petit bleu antique';777;0
 e;2371962;'petit monsieur';1;0
 e;2380959;'petit anglo-français';1;0
 e;2399016;'petit vite';1;0
@@ -361,6 +362,7 @@ e;12080538;'petit bec-en-fourreau';1;0
 e;12080535;'petit apartheid';1;0
 e;12882923;'état épileptique de petit mal';1;0
 e;14972164;'La Sainte Famille avec sainte Barbe et le petit saint Jean';1;0
+e;15302328;'descendre petit à petit';1;0
 e;2371834;'petit chevalier à pattes jaunes';1;0
 e;3746924;'petit-suisse';1;0
 e;6427113;'petit fourmilier';1;0
@@ -421,6 +423,9 @@ e;10524368;'14es Championnats d'Europe de natation en petit bassin';777;0
 e;10524346;'15es Championnats d'Europe de natation en petit bassin';777;0
 e;10524337;'Championnats d'Europe de natation en petit bassin 2015';777;0
 e;11576375;'petit escargot';1;0
+e;15302332;'augmentant petit à petit';1;0
+e;15302330;'augmenter petit à petit';1;0
+e;15302326;'avançant petit à petit';1;0
 e;2379489;'petit esturgeon';1;0
 e;2440891;'lever le petit doigt';1;0
 e;2465519;'petit chien courant suisse';1;0
@@ -435,7 +440,6 @@ e;11002667;'petit spitz';777;0
 e;11254082;'vouloir enculer un petit garçon';1;0
 e;11254080;'enculer un petit garçon';1;0
 e;13252264;'Marge et son petit voleur';777;0
-e;2374969;'mieux vaut un petit chez-soi qu'un grand chez-les-autres';1;0
 e;2378214;'petit grèbe';1;0
 e;2418963;'porter le petit collet';1;0
 e;2427669;'petit père des peuples';1;0
@@ -457,7 +461,8 @@ e;11160866;'petit ministère';777;0
 e;11178872;'Le Joyau du petit homme';777;0
 e;11325035;'tendon petit rond';1;0
 e;11373530;'le petit train';777;0
-e;2371789;'petit ruban';1;0
+e;15302323;'arriver petit à petit';1;0
+e;2374969;'mieux vaut un petit chez-soi qu'un grand chez-les-autres';1;0
 e;4908670;'petit-deuil';1;0
 e;5802847;'la farine de petit épeautre';777;0
 e;6440674;'nouveau-né petit pour l'âge gestationnel';1;0
@@ -468,6 +473,7 @@ e;11000923;'petit protégé';1;0
 e;11000938;'petit accident';1;0
 e;11162333;'petit château de Bellevue';777;0
 e;11179192;'Un petit boulot';777;0
+e;2371789;'petit ruban';1;0
 e;2432736;'petit-enghiennois';1;0
 e;5558861;'Jay Jay le petit avion';777;0
 e;5688689;'Chacun son cinéma ou Ce petit coup au coeur quand la lumière s'éteint et que le film commence';777;0
@@ -1249,13 +1255,13 @@ e;183644;'petit-déj'';1;50
 e;179169;'petit-enfant';1;6
 e;179156;'arrière-petit-cousin';1;50
 e;168069;'petit-duc';1;52
-e;155458;'petit-déjeuner';1;248
+e;155458;'petit-déjeuner';1;252
 e;129359;'petit-four';1;52
 e;122896;'petit-maître';1;50
 e;119640;'petit-père';1;50
 e;117026;'petit-beurre';1;72
 e;111026;'petit-fils';1;108
-e;103395;'petit-lait';1;102
+e;103395;'petit-lait';1;104
 e;306348;'petit-déj';777;50
 e;304965;'petit-boutiste';777;50
 e;293499;'tsar-petit-père';777;50
@@ -1763,58 +1769,10 @@ r;389609840;55222;14895450;11;25
 r;394716933;55222;15349154;11;25
 r;395274915;55222;15420300;11;25
 r;410362180;55222;15787363;11;25
-r;419492977;55222;15560987;11;25
-r;419492985;55222;15288468;11;25
-r;419492997;55222;15498168;11;25
-r;419493007;55222;15771712;11;25
-r;419509102;55222;15761119;11;25
-r;419512727;55222;15254822;11;25
-r;419523013;55222;15322296;11;25
-r;419530967;55222;15343509;11;25
-r;419530975;55222;15401844;11;25
-r;419531578;55222;15272862;11;25
-r;419533556;55222;15788987;11;25
-r;419557758;55222;15448326;11;25
-r;419557762;55222;15295608;11;25
-r;419567533;55222;15420270;11;25
-r;419587050;55222;15368972;11;25
-r;419587891;55222;15285742;11;25
-r;419588228;55222;15302956;11;25
-r;419594632;55222;15252595;11;25
-r;419608274;55222;13754200;11;25
-r;419620265;55222;15335213;11;25
-r;419620269;55222;16040352;11;25
-r;419625673;55222;15550495;11;25
-r;419637688;55222;15370025;11;25
-r;419637694;55222;15370027;11;25
-r;419637700;55222;15420282;11;25
-r;419650150;55222;15330756;11;25
-r;419652564;55222;15543409;11;25
-r;419664823;55222;15241698;11;25
-r;419667031;55222;15226174;11;25
-r;419667048;55222;15226162;11;25
-r;419667055;55222;15226170;11;25
-r;419669879;55222;15337789;11;25
-r;419670910;55222;15234631;11;25
-r;419671289;55222;16029443;11;25
-r;419691390;55222;15414494;11;25
-r;419696319;55222;15306069;11;25
-r;419696971;55222;15226176;11;25
-r;419700536;55222;15365942;11;25
-r;419716795;55222;15201587;11;25
-r;419721082;55222;16042227;11;25
-r;419768897;55222;15262361;11;25
-r;419769273;55222;15420287;11;25
-r;419769277;55222;15303705;11;25
-r;419769281;55222;16085502;11;25
-r;419769511;55222;15247735;11;25
-r;419772903;55222;15420292;11;25
-r;419803374;55222;15420295;11;25
-r;419811544;55222;16043205;11;25
-r;419841561;55222;15550298;11;25
-r;419842095;55222;16044459;11;25
-r;423650838;55222;16153801;11;25
 r;428106820;55222;16309391;11;25
+r;428817231;55222;14731110;11;25
+r;429624518;55222;16322116;11;25
+r;435645801;55222;16575676;11;25
 r;298129217;55222;6286146;11;26
 r;299486767;55222;6305650;11;26
 r;299521001;55222;6306770;11;26
@@ -1862,12 +1820,6 @@ r;375034473;55222;14753126;11;26
 r;375035457;55222;14753195;11;26
 r;375040190;55222;14753379;11;26
 r;375097656;55222;14755595;11;26
-r;411610975;55222;15804748;11;26
-r;419608001;55222;15302323;11;26
-r;419621953;55222;15302332;11;26
-r;419622320;55222;15302330;11;26
-r;419625892;55222;15302326;11;26
-r;419775926;55222;15302328;11;26
 r;114453031;55222;5793982;11;27
 r;122689310;55222;6430848;11;27
 r;267322354;55222;10666018;11;27
@@ -1916,6 +1868,16 @@ r;226998025;55222;9990938;11;30
 r;227682943;55222;9991437;11;30
 r;280286181;55222;11056688;11;30
 r;302015330;55222;11771280;11;30
+r;419768897;55222;15262361;11;30
+r;419769273;55222;15420287;11;30
+r;419769277;55222;15303705;11;30
+r;419769281;55222;16085502;11;30
+r;419769511;55222;15247735;11;30
+r;419772903;55222;15420292;11;30
+r;419803374;55222;15420295;11;30
+r;419811544;55222;16043205;11;30
+r;419841561;55222;15550298;11;30
+r;419842095;55222;16044459;11;30
 r;54494472;55222;2421871;11;31
 r;55239905;55222;2439942;11;31
 r;112185946;55222;5700048;11;31
@@ -1933,8 +1895,9 @@ r;222104393;55222;9980211;11;31
 r;227663567;55222;10002145;11;31
 r;276739686;55222;10963153;11;31
 r;303729285;55222;11782083;11;31
-r;29978181;55222;1833370;11;32
-r;29990594;55222;1834621;11;32
+r;411610975;55222;15804748;11;31
+r;419716795;55222;15201587;11;31
+r;419721082;55222;16042227;11;31
 r;30034785;55222;1839336;11;32
 r;53057587;55222;2388134;11;32
 r;55413661;55222;2448109;11;32
@@ -1963,7 +1926,28 @@ r;277709312;55222;10992199;11;32
 r;279845036;55222;11049791;11;32
 r;283111663;55222;11078754;11;32
 r;291210422;55222;11354496;11;32
-r;30026400;55222;1838414;11;33
+r;419620265;55222;15335213;11;32
+r;419620269;55222;16040352;11;32
+r;419625673;55222;15550495;11;32
+r;419637688;55222;15370025;11;32
+r;419637694;55222;15370027;11;32
+r;419637700;55222;15420282;11;32
+r;419650150;55222;15330756;11;32
+r;419652564;55222;15543409;11;32
+r;419664823;55222;15241698;11;32
+r;419667031;55222;15226174;11;32
+r;419667048;55222;15226162;11;32
+r;419667055;55222;15226170;11;32
+r;419669879;55222;15337789;11;32
+r;419670910;55222;15234631;11;32
+r;419671289;55222;16029443;11;32
+r;419691390;55222;15414494;11;32
+r;419696319;55222;15306069;11;32
+r;419696971;55222;15226176;11;32
+r;419700536;55222;15365942;11;32
+r;428910402;55222;16319323;11;32
+r;29978181;55222;1833370;11;33
+r;29990594;55222;1834621;11;33
 r;111458295;55222;5680253;11;33
 r;113757352;55222;5830425;11;33
 r;122674766;55222;6432554;11;33
@@ -1971,8 +1955,9 @@ r;227615125;55222;10037128;11;33
 r;227615137;55222;10037127;11;33
 r;276015294;55222;10956426;11;33
 r;280360392;55222;11061623;11;33
-r;29920247;55222;1827667;11;34
-r;29990039;55222;1834531;11;34
+r;419608274;55222;13754200;11;33
+r;434362904;55222;16310653;11;33
+r;30026400;55222;1838414;11;34
 r;115109066;55222;5896816;11;34
 r;116578066;55222;5960788;11;34
 r;116587837;55222;5953326;11;34
@@ -1984,6 +1969,21 @@ r;275368006;55222;10934849;11;34
 r;275481654;55222;10939923;11;34
 r;281153029;55222;11082355;11;34
 r;307646768;55222;11925319;11;34
+r;419512727;55222;15254822;11;34
+r;419523013;55222;15322296;11;34
+r;419530967;55222;15343509;11;34
+r;419530975;55222;15401844;11;34
+r;419531578;55222;15272862;11;34
+r;419533556;55222;15788987;11;34
+r;419557758;55222;15448326;11;34
+r;419557762;55222;15295608;11;34
+r;419567533;55222;15420270;11;34
+r;419587050;55222;15368972;11;34
+r;419587891;55222;15285742;11;34
+r;419588228;55222;15302956;11;34
+r;419594632;55222;15252595;11;34
+r;29920247;55222;1827667;11;35
+r;29990039;55222;1834531;11;35
 r;103079437;55222;4907615;11;35
 r;115856924;55222;5916589;11;35
 r;115859453;55222;5912322;11;35
@@ -1998,6 +1998,13 @@ r;315112306;55222;12080539;11;35
 r;315112314;55222;12080537;11;35
 r;315112320;55222;12080536;11;35
 r;341211338;55222;13446634;11;35
+r;419492977;55222;15560987;11;35
+r;419492985;55222;15288468;11;35
+r;419492997;55222;15498168;11;35
+r;419493007;55222;15771712;11;35
+r;419509102;55222;15761119;11;35
+r;423650838;55222;16153801;11;35
+r;434157889;55222;16496656;11;35
 r;52038629;55222;2371962;11;36
 r;52693910;55222;2380959;11;36
 r;53264637;55222;2399016;11;36
@@ -2027,6 +2034,7 @@ r;315112310;55222;12080538;11;36
 r;315112326;55222;12080535;11;36
 r;329900133;55222;12882923;11;36
 r;391286070;55222;14972164;11;36
+r;419775926;55222;15302328;11;36
 r;52037794;55222;2371834;11;37
 r;93505242;55222;3746924;11;37
 r;122718231;55222;6427113;11;37
@@ -2089,6 +2097,9 @@ r;262525825;55222;10524368;11;40
 r;262525968;55222;10524346;11;40
 r;262526030;55222;10524337;11;40
 r;297597691;55222;11576375;11;40
+r;419621953;55222;15302332;11;40
+r;419622320;55222;15302330;11;40
+r;419625892;55222;15302326;11;40
 r;52241988;55222;2379489;11;41
 r;55258141;55222;2440891;11;41
 r;55763035;55222;2465519;11;41
@@ -2103,7 +2114,6 @@ r;278291161;55222;11002667;11;41
 r;288439849;55222;11254082;11;41
 r;288439855;55222;11254080;11;41
 r;338933318;55222;13252264;11;41
-r;52211899;55222;2374969;11;42
 r;52234382;55222;2378214;11;42
 r;54435536;55222;2418963;11;42
 r;54648276;55222;2427669;11;42
@@ -2125,7 +2135,8 @@ r;285604555;55222;11160866;11;42
 r;286745828;55222;11178872;11;42
 r;290037101;55222;11325035;11;42
 r;291755572;55222;11373530;11;42
-r;52037330;55222;2371789;11;43
+r;419608001;55222;15302323;11;42
+r;52211899;55222;2374969;11;43
 r;103106208;55222;4908670;11;43
 r;113306346;55222;5802847;11;43
 r;121521923;55222;6440674;11;43
@@ -2136,6 +2147,7 @@ r;278154279;55222;11000923;11;43
 r;278155229;55222;11000938;11;43
 r;285748519;55222;11162333;11;43
 r;286759935;55222;11179192;11;43
+r;52037330;55222;2371789;11;44
 r;55027145;55222;2432736;11;44
 r;109948690;55222;5558861;11;44
 r;112188731;55222;5688689;11;44

@@ -1,0 +1,128 @@
+
+e;46914;'nécessaire';1;144
+e;6303031;'visite de relance lorsque et si nécessaire';1;0
+e;14070530;'distance d'atterrissage nécessaire';1;0
+e;15636514;'nécessaire au quotidien';1;0
+e;14571555;'La nécessaire formalisation des processus d'exécution des ordres';777;0
+e;6370393;'nécessaire à phlébotomie';1;0
+e;6394822;'nécessaire pour anesthésie locale';1;0
+e;13736437;'faire le nécessaire';1;0
+e;14585179;'non nécessaire';1;0
+e;15447350;'il est nécessaire que + [subjonctif]';1;0
+e;15301522;'délai nécessaire';1;0
+e;5672234;'créer autant d'objets que nécessaire';777;0
+e;15333056;'avoir le savoir-faire nécessaire pour faire qch';1;0
+e;11981275;'nécessaire césure';777;0
+e;12033052;'production de l'énergie nécessaire au fonctionnement de la cellule';1;0
+e;12078945;'facteur nécessaire à la réplication';1;0
+e;15377087;'Seule une quantité infime est nécessaire.';1;0
+e;15304012;'Somme nécessaire';1;0
+e;15341929;'Un redémarrage est nécessaire pour relancer.';1;0
+e;15629146;'N'emportez que le strict nécessaire.';1;0
+e;13376392;'nécessaire de survie';1;0
+e;11159885;'nécessaire non assemblé';777;0
+e;11159886;'nécessaire en pièces détachées';777;0
+e;2406759;'référence nécessaire';1;0
+e;12699768;'évacuation nécessaire';1;0
+e;15228285;'Il est parfois nécessaire de se taire pour délivrer une parole juste.';1;0
+e;15253479;'Il est aussi nécessaire de se souvenir que ...';1;0
+e;15345747;'Il est nécessaire d'examiner cette assertion.';1;0
+e;15253481;'Il est également nécessaire de se souvenir que ...';1;0
+e;3755980;'huile d'olive autant que nécessaire';1;0
+e;3757575;'farine plus si nécessaire';1;0
+e;3756488;'boudoirs ou biscuits de Savoie ou à la cuillère autant que nécessaire';1;0
+e;3753770;'lait chaud si nécessaire';1;0
+e;1969850;'autant de fois que nécessaire';1;0
+e;3229850;'privation du nécessaire';1;0
+e;3756376;'sel si nécessaire';1;0
+e;4891916;'peu nécessaire';1;0
+e;3754274;'eau ou plus si nécessaire';1;0
+e;366792;'nécessaire et suffisant';1;50
+e;384265;'tout le temps nécessaire';1;50
+e;371259;'plus que nécessaire';1;50
+e;361116;'le temps nécessaire';1;50
+e;369571;'pendant le temps nécessaire';1;50
+e;341493;'capital nécessaire';1;50
+e;366793;'nécessaire à couture';1;50
+e;366795;'nécessaire à la compréhension du texte';1;50
+e;337623;'autant que nécessaire';1;50
+e;381337;'strict nécessaire';1;50
+e;344274;'condition nécessaire';1;52
+e;366794;'nécessaire à ongles';1;50
+e;366791;'nécessaire de voyage';1;50
+e;316553;'conséquence nécessaire';1;50
+e;232348;'La Minute nécessaire de Monsieur Cyclopède';1;28
+e;113643;'si nécessaire';1;50
+e;211137;'L'Être nécessaire';1;50
+e;256208;'nécessaire à maquillage';1;8
+e;258527;'mal nécessaire';1;50
+e;259190;'nécessaire à manucure';1;50
+e;74800;'être nécessaire';1;50
+e;209694;'vérité nécessaire';1;50
+e;275803;'La Minute nécessaire de monsieur Cyclopède';777;50
+e;183353;'nécessaire de toilette';1;50
+e;297389;'nécessaire et suffisante';777;50
+e;197882;'condition nécessaire et suffisante';1;50
+r;299336703;46914;6303031;11;25
+r;355755796;46914;14070530;11;25
+r;401067955;46914;15636514;11;25
+r;370349942;46914;14571555;11;25
+r;302978382;46914;6370393;11;26
+r;304996690;46914;6394822;11;26
+r;348280033;46914;13736437;11;26
+r;370599741;46914;14585179;11;26
+r;395471848;46914;15447350;11;27
+r;419810621;46914;15301522;11;30
+r;111339767;46914;5672234;11;32
+r;419634028;46914;15333056;11;32
+r;311790277;46914;11981275;11;33
+r;313607702;46914;12033052;11;34
+r;315120617;46914;12078945;11;34
+r;419544800;46914;15377087;11;34
+r;419546644;46914;15304012;11;34
+r;419557852;46914;15341929;11;34
+r;419510924;46914;15629146;11;35
+r;339245078;46914;13376392;11;41
+r;285042660;46914;11159885;11;44
+r;285028248;46914;11159886;11;45
+r;53840455;46914;2406759;11;46
+r;327330398;46914;12699768;11;50
+r;402105922;46914;15228285;11;50
+r;402105418;46914;15253479;11;50
+r;402105898;46914;15345747;11;50
+r;402106418;46914;15253481;11;50
+r;93679562;46914;3755980;11;51
+r;93664882;46914;3757575;11;52
+r;93674912;46914;3756488;11;52
+r;93701344;46914;3753770;11;52
+r;31737176;46914;1969850;11;53
+r;77958414;46914;3229850;11;53
+r;93984903;46914;3756376;11;55
+r;102011633;46914;4891916;11;58
+r;93696354;46914;3754274;11;60
+r;12635003;46914;366792;11;101
+r;12564425;46914;384265;11;103
+r;12617319;46914;371259;11;103
+r;12658221;46914;361116;11;103
+r;12624295;46914;369571;11;105
+r;12739111;46914;341493;11;106
+r;12634999;46914;366793;11;107
+r;12634989;46914;366795;11;108
+r;12755173;46914;337623;11;108
+r;12575905;46914;381337;11;109
+r;12727435;46914;344274;11;109
+r;12634995;46914;366794;11;110
+r;12635007;46914;366791;11;110
+r;8920941;46914;316553;11;151
+r;8700812;46914;232348;11;160
+r;8609118;46914;113643;11;161
+r;8686215;46914;211137;11;161
+r;8720882;46914;256208;11;161
+r;8724180;46914;258527;11;161
+r;8725196;46914;259190;11;161
+r;8595288;46914;74800;11;162
+r;8684074;46914;209694;11;162
+r;8743788;46914;275803;11;162
+r;8641653;46914;183353;11;163
+r;8764370;46914;297389;11;163
+r;8664141;46914;197882;11;165

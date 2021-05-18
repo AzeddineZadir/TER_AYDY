@@ -1,0 +1,2131 @@
+
+e;142623;'classe';1;1946
+e;6344018;'récepteurs éboueurs de classe a';1;0
+e;6285719;'récepteurs scavenger de classe a type 2';1;0
+e;6287237;'récepteurs scavenger de classe c type 1';1;0
+e;6293159;'classe 6 des protéines tyrosine phosphatases de type récepteur';1;0
+e;6371322;'récepteurs éboueurs de classe a type 1';1;0
+e;6290222;'histone désacétylases de classe ii';1;0
+e;6295467;'récepteurs éboueurs de classe e type 1';1;0
+e;6298345;'récepteurs scavenger de classe c type i';1;0
+e;6300383;'sous-unité régulatrice de la phosphatidylinositol 3-kinase de classe iii';1;0
+e;6302363;'récepteurs scavenger de classe a type i';1;0
+e;6305483;'sémaphorines de classe 5';1;0
+e;6309215;'récepteurs scavenger de classe e type 1';1;0
+e;6313569;'récepteurs éboueurs de classe d';1;0
+e;6336437;'malocclusion de classe ii';1;0
+e;6324853;'malocclusion de classe i d'angle';1;0
+e;6326241;'antigène de classe ii';1;0
+e;6330253;'récepteurs scavenger de classe b et de type 1';1;0
+e;6330717;'antigènes de classe ii';1;0
+e;6331005;'malocclusion de classe iii d'angle';1;0
+e;6335585;'statut économique de classe moyenne inférieure';1;0
+e;6337883;'commutation de classe des ig';1;0
+e;6349099;'récepteurs éboueurs de classe a type i';1;0
+e;6350823;'histone désacétylases de classe i';1;0
+e;6354079;'sémaphorines de classe 3';1;0
+e;6359257;'récepteurs scavenger de classe e type i';1;0
+e;6368290;'classe 3 d'angle';1;0
+e;6374949;'sémaphorines de classe 7';1;0
+e;6376540;'récepteurs éboueurs de classe e type i';1;0
+e;6377184;'commutation de classe des immunoglobulines';1;0
+e;6381757;'classe 2 d'angle';1;0
+e;6382767;'classe 1 des protéines tyrosine phosphatases de type récepteur';1;0
+e;6383157;'malocclusion de classe 1';1;0
+e;6389934;'récepteurs éboueurs de classe c type 1';1;0
+e;6390430;'récepteurs éboueurs de classe c type i';1;0
+e;6390759;'récepteurs scavenger de classe b et de type i';1;0
+e;6392178;'statut économique de classe supérieure';1;0
+e;6393439;'récepteurs scavenger de classe a type 1';1;0
+e;6395784;'antigènes humains de classe 1';1;0
+e;6397193;'malocclusion de classe 3';1;0
+e;6404362;'malocclusion de classe 2';1;0
+e;6405273;'histones désacétylases de classe i';1;0
+e;6407721;'population de classe moyenne';1;0
+e;6410653;'malocclusion de classe ii d'angle';1;0
+e;6411109;'antigène humain de classe i';1;0
+e;6415479;'statut économique de classe inférieure';1;0
+e;6418809;'récepteurs éboueurs de classe f';1;0
+e;6420976;'histone désacétylases de classe iii';1;0
+e;12159613;'identification d'hla-dp et dq et dr (classe ii) anticorps igg panel';1;0
+e;12159265;'identification d'hla-a et b et c (classe i) anticorps igg panel';1;0
+e;12159257;'mesure d'hla classe i et ii anticorps igg panel';1;0
+e;12159255;'mesure d'hla classe i et ii anticorps igg';1;0
+e;12138656;'identification du type de classe';1;0
+e;6349595;'détermination de la classe rast';1;0
+e;6351627;'malocclusion de classe i';1;0
+e;6348103;'malocclusion de classe iii';1;0
+e;6342204;'récepteurs scavenger de classe a';1;0
+e;6340980;'commutation de classe';1;0
+e;6284696;'sémaphorines de classe 1';1;0
+e;13588235;'classe Balao';777;0
+e;13549300;'classe 8';777;0
+e;13588234;'sous-marins de classe Gato';777;0
+e;13595714;'voiture de tourisme classe 1';777;0
+e;13632419;'classe Ohio';1;0
+e;13634037;'classe Catinat';777;0
+e;13634320;'classe Kolberg';777;0
+e;13634321;'classe Karlsruhe';777;0
+e;13634317;'classe Magdeburg';777;0
+e;13656084;'La Situation de la classe ouvrière en Angleterre en 1844';777;0
+e;13884742;'classe I d'Angle';1;0
+e;13884755;'occlusion de classe II';1;0
+e;13884744;'classe III d'Angle';1;0
+e;13884743;'classe II d'Angle';1;0
+e;13884756;'occlusion de classe III';1;0
+e;13999226;'classe cristalline';777;2
+e;14033921;'classe Arleigh Burke';1;0
+e;14097174;'classe biologique';1;0
+e;14096952;'classe Luigi Durand de la Penne';777;0
+e;14464422;'classe Endurance';777;0
+e;14464409;'classe Bay';777;0
+e;14468812;'classe Mogador';777;0
+e;14536856;'classe de navire';1;0
+e;14580416;'classe lexicale fermée';1;0
+e;14580470;'classe de destroyers';1;0
+e;14581731;'Vedette de 3e classe';777;0
+e;14581730;'Vedette de 2e classe';777;0
+e;14581732;'Vedettes de 4e classe';777;0
+e;14581729;'Vedettes de 1re classe';777;0
+e;14594679;'enseignes de vaisseau de deuxième classe';777;0
+e;14598726;'classe travail';777;0
+e;14631490;'classe Yorktown';777;0
+e;14636430;'Sous classe';777;0
+e;14655111;'classe Reina Regente';777;0
+e;14655116;'classe Aragón';777;0
+e;14655122;'classe Ariete';777;0
+e;14655118;'classe Furor';777;0
+e;14655108;'classe Victoria Louise';777;0
+e;14655112;'classe Isla de Luzón';777;0
+e;14655685;'classe de problèmes';1;0
+e;14655113;'classe Reina Cristina';777;0
+e;14655115;'classe Velasco';777;0
+e;14680410;'classe de 3e';1;66
+e;14680407;'classe de 6e';1;70
+e;14680408;'classe de 5e';1;70
+e;14740537;'classe I molaire';1;0
+e;14740538;'classe I canine';1;0
+e;14740536;'classe II complète';1;0
+e;14740610;'classe 2';1;0
+e;14778392;'classe 2 squelettique';1;0
+e;14850829;'élastiques inter-maxillaires de classe III';1;0
+e;14850828;'élastiques inter-maxillaires de classe II';1;0
+e;14871022;'classe préparatoire physique et chimie';777;0
+e;14873204;'classe préparatoire physique et sciences de l'ingénieur';777;0
+e;14890718;'classe 1';777;0
+e;14890719;'classe 4';777;0
+e;15884891;'premier maître de 1re classe';777;0
+e;16572848;'classe E1';777;0
+e;15024663;'administratrices civiles hors classe';1;0
+e;6305591;'classe i des protéines tyrosine phosphatases de type récepteur';1;0
+e;6313811;'matelot de 3e classe';1;0
+e;6318962;'sous-unité catalytique de la phosphatidylinositol 3-kinase de classe iii';1;0
+e;6326276;'classe de globules blancs anormale';1;0
+e;6331996;'classe iii des protéines tyrosine phosphatases de type récepteur';1;0
+e;6341086;'récepteurs scavenger de classe f';1;0
+e;6347184;'classe des mollicutes';1;0
+e;6348047;'classe iii d'angle';1;0
+e;6359799;'classe 1 d'angle';1;0
+e;6377525;'classe ii d'angle';1;0
+e;6382704;'antigènes humains de classe i';1;0
+e;6388239;'sémaphorines de classe v';1;0
+e;6388643;'classe i d'angle';1;0
+e;6392611;'récepteurs éboueurs de classe b';1;0
+e;6399174;'classe 4 des protéines tyrosine phosphatases de type récepteur';1;0
+e;6406182;'antigènes de classe i';1;0
+e;6409142;'classe ii des protéines tyrosine phosphatases de type récepteur';1;0
+e;6412560;'frottis cervical positif classe iii à v';1;0
+e;6419818;'antigènes humains de classe ii';1;0
+e;12989277;'classe Jaguar';777;0
+e;13642322;'sauter une classe';1;2
+e;14159512;'compte rendu du conseil de classe';1;0
+e;14159514;'avis du conseil de classe';1;0
+e;14172132;'avec classe';1;0
+e;14532519;'classe rousse';1;0
+e;14536502;'première de la classe';1;4
+e;14584143;'soldat de 2e classe';1;0
+e;14585987;'classe travailleuse';1;0
+e;14635292;'classe privilégiée';1;2
+e;14716884;'aller en classe prépa';1;6
+e;14722212;'faire une classe prépa';1;0
+e;14723092;'ranger la classe';1;0
+e;14727833;'passer dans la classe supérieure';1;0
+e;14753268;'classe noble';1;0
+e;14776070;'classe affaire';1;0
+e;15031567;'appartements de classe';1;0
+e;6440500;'antigènes d'histocompatibilité de classe i';1;0
+e;6424405;'récepteurs scavenger de classe e';1;0
+e;10623268;'Destroyer Stellaire classe';777;0
+e;12116977;'classe ZPP';777;0
+e;12116978;'classe BPP';777;0
+e;12098344;'hla-dp et dq et dr (classe ii) anticorps igg panel';1;0
+e;12098222;'hla-a et b et c (classe i) anticorps igg panel';1;0
+e;12098218;'hla classe i et ii anticorps igg panel';1;0
+e;12098217;'hla classe i et ii anticorps igg';1;0
+e;12200874;'classe Cape Ducato';777;0
+e;12204872;'classe Erzherzog Karl';777;0
+e;12989276;'classe Chacal';1;0
+e;10619718;'classe Resolution';777;0
+e;10730277;'classe Amour';777;0
+e;10730276;'classe Kilo';777;0
+e;10730275;'classe S1000';777;0
+e;10730274;'classe Sauro';777;0
+e;10730273;'classe Gotland';777;0
+e;10730272;'classe Västergötland';777;0
+e;10730271;'classe Sjöormen';777;0
+e;10730270;'classe Walrus';777;0
+e;10730263;'classe Ula';777;0
+e;10730259;'classe Marlin';777;0
+e;6434989;'désacétylases d'histones de classe iii';1;0
+e;6439594;'antigènes de classe i du complexe majeur d'histocompatibilité';1;0
+e;6433608;'antigènes majeurs d'histocompatibilité de classe ii';1;0
+e;10971816;'classe Joffre';777;0
+e;12313376;'classe Luigi Cadorna';777;0
+e;15203664;'de classe I';1;0
+e;15203656;'de classe i';1;0
+e;15261439;'de classe ii';1;0
+e;15299052;'de classe iii';1;0
+e;15426256;'de classe internationale';1;0
+e;15281462;'de classe iv';1;0
+e;15426259;'de classe mondiale';1;0
+e;15210767;'de grande classe';1;0
+e;15352076;'de la classe moyenne supérieure';1;0
+e;15491192;'de première classe';1;0
+e;15426261;'de seconde classe';1;0
+e;15204087;'déléguée de classe';1;0
+e;16312939;'classe Aréthuse';777;0
+e;16163471;'classe Buckley';777;0
+e;16163472;'classe Cannon';777;0
+e;16163485;'classe Commandant Rivière';777;0
+e;16163473;'classe Hunt';777;0
+e;16163487;'classe L'Adroit';777;0
+e;16163481;'classe Le Corse';777;0
+e;16163486;'classe Le Fougueux';777;0
+e;16163482;'classe Le Normand';777;0
+e;16163476;'classe PC-461';777;0
+e;16163480;'classe T 53';777;0
+e;16365034;'classe d'accueil';777;0
+e;16365035;'classe d'initiation pour non francophones';777;0
+e;16327508;'classe de formation';1;0
+e;16159580;'classe découverte';1;0
+e;5598181;'classe ATC A13';777;0
+e;5598183;'classe ATC A15';777;0
+e;5598180;'classe ATC A';777;0
+e;5805037;'Nouvelle classe';777;0
+e;5827044;'classe ATC J07';777;0
+e;5820102;'complexe majeur d'histocompatibilité de classe II';777;0
+e;5819948;'complexe majeur d'histocompatibilité de classe I';777;0
+e;5817047;'classe Provence';777;0
+e;5817045;'classe Rubis';777;0
+e;5816088;'classe ED75';777;0
+e;6080903;'classe Izumo';777;0
+e;6080848;'classe Haruna';777;0
+e;6080847;'classe Shirane';777;0
+e;6080740;'classe Andrea Doria';777;0
+e;6080701;'classe Osumi';777;0
+e;6080698;'classe Iwo Jima';777;0
+e;6080283;'classe Juan Carlos I';777;0
+e;6442747;'déficit en complexe majeur d'histocompatibilité classe ii';1;0
+e;6438067;'désacétylases d'histone de classe ii';1;0
+e;9969412;'classe I';777;0
+e;10992108;'classe de quatrième';777;24
+e;10992018;'classe Zoubr';777;0
+e;11030294;'classe Liberté';777;0
+e;13518256;'classe préparatoire scientifique';1;0
+e;16365017;'classe préparatoire ENS Cachan D2';777;0
+e;15166179;'classe 2 dentaire';1;0
+e;15166183;'classe 2 dentaire gauche';1;0
+e;15166177;'classe 2 dentaire résiduelle';1;0
+e;15166182;'classe 2 dentaire subdivision droite';1;0
+e;15166186;'classe 2 dentaire subdivision gauche';1;0
+e;15166184;'classe 2 dentaire à gauche';1;0
+e;15166180;'classe 3 dentaire';1;0
+e;15166181;'classe 3 squelettique';1;0
+e;15686109;'classe 56';777;0
+e;15686116;'classe 66';777;0
+e;15204068;'classe Java';1;0
+e;15349876;'classe bourgeoise';1;0
+e;15245275;'classe club';1;0
+e;15336227;'classe combinée';1;0
+e;15393790;'classe d'actif';1;0
+e;15276049;'classe d'adaptation';1;0
+e;15204083;'classe d'adressage';1;0
+e;15339121;'classe d'employés';1;0
+e;15401955;'classe d'essai';1;0
+e;15318851;'classe d'exactitude';1;0
+e;15401953;'classe d'histoire';1;0
+e;15295548;'classe d'isolant';1;0
+e;15276906;'classe d'isolation';1;0
+e;15204081;'classe d'objet';1;0
+e;15378018;'classe d'étanchéité';1;0
+e;15782412;'classe d'étudiants désireux d'apprendre';1;0
+e;15474499;'classe de 1ère';1;0
+e;15581404;'classe de 2de';1;0
+e;15374484;'classe de 3ème';1;0
+e;15374486;'classe de 4ème';1;0
+e;15204075;'classe de 5ème';1;0
+e;15204078;'classe de 6ème';1;0
+e;15581407;'classe de CM1';1;0
+e;15501214;'classe de CM1/CM2';1;0
+e;15390632;'classe de CP';1;0
+e;15528487;'classe de SVT';1;0
+e;15482218;'classe de bille';1;0
+e;15234240;'classe de maternelle';1;0
+e;15205730;'classe de nature';1;0
+e;15290997;'classe de notation';1;0
+e;15204073;'classe de port';1;0
+e;15356132;'classe de rattrapage';1;0
+e;15364438;'classe de revenus';1;0
+e;15465180;'classe de rouleau';1;0
+e;15584185;'classe de transition';1;0
+e;15319819;'classe de travaux dirigés';1;0
+e;15569863;'classe des petits';1;0
+e;15573025;'classe entière';1;0
+e;15426238;'classe européenne anglais';1;0
+e;15426241;'classe modeste';1;0
+e;15327142;'classe passerelle';1;0
+e;15204070;'classe primaire';1;0
+e;15331924;'classe prépa HEC';1;0
+e;15331925;'classe prépa littéraire';1;0
+e;15331926;'classe prépa scientifique';1;0
+e;15331927;'classe prépa économique et commerciale';1;0
+e;15348461;'classe préparatoire HEC';1;0
+e;15426247;'classe préparatoire intégrée';1;0
+e;15387655;'classe préparatoire littéraire';1;0
+e;15387656;'classe préparatoire économique et commerciale';1;0
+e;15572111;'classe soudée';1;0
+e;15530421;'classe sous-prolétariat';1;0
+e;15222993;'classe touristes';1;0
+e;15426251;'classe unique';1;0
+e;15385009;'classe à deux niveaux';1;0
+e;15525408;'classe à double niveau';1;0
+e;15426229;'classe à horaires renforcés en anglais';1;0
+e;15228901;'copine de classe';1;0
+e;15407399;'costume très classe';1;0
+e;16117705;'classe Téméraire';777;0
+e;5569789;'classe Kasagi';777;0
+e;5569348;'classe Gueydon';777;0
+e;5567085;'classe Ouragan';777;0
+e;5619190;'classe Aoba';777;0
+e;5673328;'classe VC';777;0
+e;5673322;'classe de Donsker';777;0
+e;5673304;'groupement des données par classe';777;0
+e;5831300;'médicament antifongique de la classe des échinocandines';1;0
+e;5831089;'classe ATC V20';777;0
+e;5831087;'classe ATCvet QI';777;0
+e;5831062;'classe ATC C03';777;0
+e;5831060;'classe ATC C07';777;0
+e;5831058;'classe ATC C08';777;0
+e;5831056;'classe ATC C10';777;0
+e;5831055;'classe ATC J06';777;0
+e;5831053;'classe ATC L02';777;0
+e;5831051;'classe ATC L03';777;0
+e;5831049;'classe ATC L04';777;0
+e;5831047;'classe ATC M01';777;0
+e;5831045;'classe ATC M02';777;0
+e;5831043;'classe ATC M03';777;0
+e;5831041;'classe ATC M04';777;0
+e;5831039;'classe ATC M09';777;0
+e;5831034;'classe ATC S01';777;0
+e;5831032;'classe ATC S02';777;0
+e;5831030;'classe ATC S03';777;0
+e;5831027;'classe ATC V01';777;0
+e;5831025;'classe ATC V03';777;0
+e;5831023;'classe ATC V04';777;0
+e;5831021;'classe ATC V06';777;0
+e;5831019;'classe ATC V07';777;0
+e;5831017;'classe ATC V08';777;0
+e;5831015;'classe ATC V09';777;0
+e;5831013;'classe ATC V10';777;0
+e;5831011;'classe ATC B01';777;0
+e;5831009;'classe ATC P01';777;0
+e;5831007;'classe ATC P02';777;0
+e;5831005;'classe ATC P03';777;0
+e;5831002;'classe ATC B02';777;0
+e;5831000;'classe ATC B03';777;0
+e;5830997;'classe ATC B05';777;0
+e;5830995;'classe ATC B06';777;0
+e;5830993;'classe ATC G01';777;0
+e;5830990;'classe ATC G02';777;0
+e;5830981;'classe ATC G03';777;0
+e;5830979;'classe ATC G04';777;0
+e;5830946;'classe ATC D04';777;0
+e;5830933;'classe ATC D03';777;0
+e;5830931;'classe ATC D02';777;0
+e;5830929;'classe ATC D05';777;0
+e;5830927;'classe ATC D09';777;0
+e;5830925;'classe ATC D11';777;0
+e;5830922;'classe ATC D01';777;0
+e;5830920;'classe ATC D07';777;0
+e;5830611;'classe ATC A16';777;0
+e;5830609;'classe ATC A14';777;0
+e;5830608;'classe ATC A12';777;0
+e;5830599;'classe ATC C05';777;0
+e;5830595;'classe ATC D10';777;0
+e;5830587;'classe ATC A10';777;0
+e;5830585;'classe ATC D06';777;0
+e;5830583;'classe ATC L01';777;0
+e;5830555;'classe ATC A09';777;0
+e;5830410;'classe ATC M05';777;0
+e;5829619;'classe ATC C04';777;0
+e;5829609;'classe ATC A08';777;0
+e;5829607;'classe ATC A06';777;0
+e;5829605;'classe ATC A05';777;0
+e;5829582;'classe ATC R07';777;0
+e;5829580;'classe ATC R06';777;0
+e;5829578;'classe ATC R05';777;0
+e;5829576;'classe ATC R03';777;0
+e;5829574;'classe ATC R02';777;0
+e;5829572;'classe ATC R01';777;0
+e;5829570;'classe ATC N07';777;0
+e;5829566;'classe ATC N05';777;0
+e;5829564;'classe ATC N04';777;0
+e;5829562;'classe ATC N03';777;0
+e;5829560;'classe ATC N02';777;0
+e;5829558;'classe ATC N01';777;0
+e;5829507;'classe ATC A04';777;0
+e;5829464;'classe ATC D08';777;0
+e;5829455;'classe ATC C02';777;0
+e;5829447;'classe ATC A11';777;0
+e;5829444;'classe ATC A07';777;0
+e;5829422;'classe ATC A03';777;0
+e;5829415;'classe ATC A02';777;0
+e;5829412;'classe ATC A01';777;0
+e;5829409;'classe ATC L';777;0
+e;5829408;'classe ATC J';777;0
+e;5829405;'classe ATC H';777;0
+e;5829404;'classe ATC S';777;0
+e;5829400;'classe ATC V';777;0
+e;5829395;'classe ATC D';777;0
+e;5829392;'classe ATC B';777;0
+e;5829387;'classe ATC P';777;0
+e;5829386;'classe ATC G';777;0
+e;5829380;'classe ATC M';777;0
+e;5829374;'classe ATC N';777;0
+e;5829372;'classe ATC R';777;0
+e;5829331;'classe ATC C01';777;0
+e;5829327;'classe ATC C09';777;0
+e;5829316;'classe ATC C';777;0
+e;5837027;'Enseigne de vaisseau de 1re classe';777;0
+e;5837026;'Enseigne de vaisseau de 2e classe';777;0
+e;6080699;'classe Dokdo';777;0
+e;6080693;'classe Tarawa';777;0
+e;6080692;'classe Wasp';777;0
+e;6447248;'antigènes de classe ii du complexe majeur d'histocompatibilité';1;0
+e;6437153;'désacétylases d'histone de classe iii';1;0
+e;9993548;'classe Acheron';777;0
+e;10992107;'classe de sixième';777;22
+e;11061014;'classe Arktika';777;0
+e;11060728;'classe Boreï';777;0
+e;11060727;'classe Yankee';777;0
+e;11060681;'classe Fidonisi';777;0
+e;11060680;'classe Iziaslav';777;0
+e;11060675;'classe Izmail';777;0
+e;11060674;'classe Peresvet';777;0
+e;11060606;'classe Tarentul';777;0
+e;11060437;'classe Gangut';777;0
+e;11069306;'classe de fonctions calculables';1;0
+e;13603031;'classe T-43';777;0
+e;13634039;'classe Duguay-Trouin';777;0
+e;15909725;'classe t';777;0
+e;15351585;'classe de salaire';1;0
+e;15909726;'classe TD';777;0
+e;15361679;'au fond de la classe';1;0
+e;15283210;'au fond de la salle de classe';1;0
+e;15227635;'avec de la classe';1;0
+e;15426214;'avoir classe';1;0
+e;15426222;'avoir trop de classe';1;0
+e;15426224;'avoir une classe folle';1;0
+e;15362519;'avoir une tête de premier de la classe';1;0
+e;13783083;'b0-b1 classe amphibia';1;0
+e;13788724;'b2-b7 classe reptilia';1;0
+e;16029385;'c'est la classe';1;0
+e;13787223;'c01-c02 classe agnatha - poissons sans mâchoires';1;0
+e;13776194;'c03-c17 classe chondrichthyens - poissons cartilagineux';1;0
+e;13771897;'c18-cd9 classe osteichthyens - poissons osseux';1;0
+e;5569620;'classe L';777;0
+e;6437951;'antigènes d'histocompatibilité majeurs de classe ii';1;0
+e;10009470;'classe Nelson';777;0
+e;11060480;'classe Impératrice Maria';777;0
+e;11060607;'classe Sonya';777;0
+e;11060602;'classe Buyan';777;0
+e;11060801;'classe Victor';777;0
+e;11060677;'classe Baïan';777;0
+e;11060679;'classe Bogatyr';777;0
+e;11060673;'classe Borodino';777;0
+e;11061008;'classe Kirov';777;0
+e;11065399;'classe pour l'inclusion scolaire';777;0
+e;13753263;'anémie par déficit d'une variante de classe i de la g-6-pd';1;0
+e;13747662;'anémie par déficit d'une variante de classe ii de la g-6-pd';1;0
+e;13753524;'anémie par déficit d'une variante de classe iii de la g-6-pd';1;0
+e;13777638;'anémie par déficit d'une variante de classe iv de la g-6-pd';1;0
+e;13776446;'anémie par déficit d'une variante de classe v de la g-6-pd';1;0
+e;1830303;'classe de différenciation';1;0
+e;1830304;'classe thérapeutique';1;0
+e;5941955;'classe Kasatka';777;0
+e;5941564;'classe November';777;0
+e;5940440;'classe Scorpène';777;0
+e;5961914;'Trop la classe verte !';777;0
+e;5955660;'Trop la classe !';777;0
+e;6446687;'antigènes majeurs d'histocompatibilité de classe i';1;0
+e;11359914;'classe Town';777;0
+e;11359919;'classe Sheffield';777;0
+e;11788614;'classe LCF';777;0
+e;15166198;'Plaques à Pistes Planas de classe 2';1;0
+e;15166193;'Plaques à Pistes de Planas de classe 2';1;0
+e;15166195;'Plaques à Pistes de Planas de classe 3';1;0
+e;15650922;'Un tiers de la classe était pour.';1;0
+e;15378406;'aller en classe de mer';1;0
+e;15378408;'aller en classe de neige';1;0
+e;15378404;'aller en classe verte';1;0
+e;15383718;'antiarythmique de la classe IA';1;0
+e;16136246;'Présentation de l'album à la classe';777;0
+e;2404984;'2e classe';1;0
+e;2415556;'3ème classe';1;0
+e;5562979;'classe Sangamon';777;0
+e;5943569;'classe Tripartite';777;0
+e;5943326;'classe Fletcher';777;0
+e;5941992;'classe Narval';777;0
+e;5940644;'classe Daring';777;0
+e;5940500;'classe PCC';777;0
+e;5963442;'Deuxième classe';777;0
+e;6446520;'antigènes d'histocompatibilité de classe 2';1;0
+e;6444531;'antigènes d'histocompatibilité de classe ii';1;0
+e;10849759;'classe River';777;0
+e;10852888;'classe de cinquième';777;20
+e;10997473;'entité de première classe';777;0
+e;10997471;'objet de première classe';777;0
+e;11021324;'classe d'adresse IP';777;0
+e;11831133;'classe Harpers Ferry';777;0
+e;12048944;'gérer une classe';1;0
+e;12050671;'classe Undine';777;0
+e;12077908;'classe étoile';1;0
+e;12077906;'classe de propreté';1;0
+e;12077907;'classe de sûreté';1;0
+e;12077904;'classe complémentée';1;0
+e;12077909;'classe inversée';1;0
+e;12077905;'classe de caractères';1;0
+e;12079475;'intervalle de classe';1;0
+e;14669068;'Quartier-maître de seconde classe';777;0
+e;14757523;'Quartier-maître de première classe';777;0
+e;5715578;'invariant de classe';777;0
+e;5809927;'classe de Laue';777;0
+e;5943670;'classe Flower';777;0
+e;5943587;'classe Pluviôse';777;0
+e;5943577;'classe Algerine';777;0
+e;5943573;'classe M';777;0
+e;5943515;'classe Andrasta';777;0
+e;5943506;'classe Algol';777;0
+e;5943443;'classe Foudre';777;0
+e;6448918;'antigènes d'histocompatibilité majeure de classe i';1;0
+e;6424345;'classe frottis cervical positif';1;0
+e;10730352;'classe de sous-marin d'attaque à propulsion diesel-électrique';1;0
+e;10730354;'classe de sous-marin d'attaque';1;0
+e;10730355;'classe de sous-marin';1;0
+e;10997474;'objets de seconde classe';777;0
+e;10997472;'valeur de première classe';777;0
+e;11494765;'classe Admiralty M';777;0
+e;12006199;'indice du vote de classe';777;0
+e;12050133;'classe V';777;0
+e;12050136;'classe W et Z';777;0
+e;12050132;'classe U';777;0
+e;12050658;'classe W';777;0
+e;12050672;'classe Umpire';777;0
+e;12050637;'classe S';777;0
+e;12050636;'classe Q et R';777;0
+e;12051094;'classe Pathfinder';777;0
+e;12058489;'classe ANZAC';777;0
+e;12058488;'classe Anzac';777;0
+e;15373051;'Le joueur britannique se classe déjà vingtième.';1;0
+e;5917306;'RNR de classe II';777;0
+e;6011230;'classe de luminosité';777;0
+e;6526084;'classe des blastomycètes';1;0
+e;6443728;'désacétylases d'histones de classe i';1;0
+e;6435078;'antigène d'histocompatibilité de classe i';1;0
+e;6564445;'Sous-classe';1;0
+e;10791512;'classe Benjamin Franklin';777;0
+e;10791033;'installations de troisième classe du Titanic';777;0
+e;10791032;'installations de seconde classe du Titanic';777;0
+e;10791029;'installations de première classe du Titanic';777;0
+e;10922589;'participerà un conseil de classe';1;0
+e;11343493;'classe T 56';777;0
+e;11390780;'classe Hawkins';777;0
+e;11503140;'classe Olympic';777;0
+e;11839411;'classe Royal Sovereign';777;0
+e;11840312;'classe Whidbey Island';777;0
+e;11840320;'classe San Antonio';777;0
+e;12058702;'classe Legend';777;0
+e;12058807;'classe Meko 200';777;0
+e;2395877;'2ème classe';1;0
+e;5558807;'classe Independence';777;0
+e;5558806;'classe Implacable';777;0
+e;10061541;'classe Kiev/Krechyet';777;0
+e;10061537;'classe Maestrale';777;0
+e;10778421;'classe Micro';777;0
+e;11836609;'classe Yuan Wang';777;0
+e;12058726;'classe Adelaide';777;0
+e;2405679;'classe ouverte';1;0
+e;5558810;'classe Lexington';777;0
+e;5558798;'classe Audacious';777;0
+e;5673327;'classe de Vapnik-Chervonenkis';777;0
+e;5673323;'classe de Glivenko-Cantelli';777;0
+e;5917307;'RNR de classe III';777;0
+e;5941463;'classe FREMM';777;0
+e;6526130;'classe diplopoda';1;0
+e;6446165;'antigène d'histocompatibilité de classe ii';1;0
+e;10188698;'Première classe vol. 1';777;0
+e;10764218;'classe Evstafii';777;0
+e;11249323;'vaisseaux de classe Dédale';777;0
+e;11777640;'classe de Ciné-Sup';777;0
+e;11957339;'classe Ticonderoga';777;0
+e;5829568;'classe ATC N06';777;0
+e;2404158;'1re classe';1;2
+e;5539028;'classe médicamenteuse';777;0
+e;5558801;'classe Centaur';777;0
+e;5892140;'la classe des flavanols';777;0
+e;5900381;'classe Mini';777;0
+e;5940534;'classe Type 209';777;0
+e;6450934;'désacétylases d'histone de classe i';1;0
+e;9944396;'Trop la classe café !';777;0
+e;10425431;'classe moyenne supérieure';777;2
+e;10425430;'classe moyenne inférieure';777;0
+e;11335067;'classe Alger';777;0
+e;11506767;'classe El Moudarib';777;0
+e;11506760;'classe C28A';777;0
+e;11506765;'classe Baglietto';777;0
+e;11506768;'classe El Mounkid';777;0
+e;11506766;'classe Baglietto Mangusta';777;0
+e;11506848;'classe Majectic';777;0
+e;11507196;'classe L et M';777;0
+e;5917305;'RNR de classe I';777;0
+e;5942148;'classe Marksman/Kemperfelt';777;0
+e;5940576;'classe Djebel Chenoua';777;0
+e;6531378;'antigène HLA de classe I';1;0
+e;10132500;'Mon copain de classe est un singe';777;0
+e;11559274;'classe Marshal Ney';777;0
+e;11958069;'classe Alaska';777;0
+e;5557978;'classe Léon Gambetta';777;0
+e;5557906;'classe Knud Rasmussen';777;0
+e;5557785;'classe Vanguard';777;0
+e;5553386;'classe propre';777;0
+e;5558805;'classe Glorious';777;0
+e;5558804;'classe Courageous';777;0
+e;5943541;'classe Wielingen';777;0
+e;5942059;'classe Bars';777;0
+e;5941971;'classe Morj';777;0
+e;6434921;'déficit en complexe majeur d'histocompatibilité classe i';1;0
+e;10180057;'classe Iowa';777;0
+e;10180054;'classe Seawolf';777;0
+e;11178739;'classe de complexité';777;0
+e;11220574;'classe Knox';777;0
+e;11220572;'classe Austin';777;0
+e;11220573;'classe Belknap';777;0
+e;11220571;'classe Charles F. Adams';777;0
+e;11220575;'classe Hewes';777;0
+e;11385287;'classe des problèmes de décision';1;0
+e;13247018;'intercuspidation en classe I par le port de TIM';1;0
+e;2439384;'cahier de classe';1;0
+e;5557786;'classe Valemax';777;0
+e;5557780;'classe Neptune';777;0
+e;5943572;'classe Karel Doorman';777;0
+e;5943340;'classe Foxtrot';777;0
+e;5941561;'classe Alfa';777;0
+e;5940671;'classe Charlemagne';777;0
+e;5940526;'classe Collins';777;0
+e;6526106;'classe hydrozoa';1;0
+e;10177583;'gestion de classe';777;0
+e;10177558;'discipline en classe';777;0
+e;10177546;'classe virtuelle';777;0
+e;11010772;'classe Kingston';777;0
+e;11011347;'classe Skjold';777;0
+e;11317418;'classe Le Fantasque';777;0
+e;11385286;'classe des problèmes de décision décidées par une machine de Turing';1;0
+e;11385605;'classe Bellerophon';777;0
+e;13198508;'classe préparatoire ENS Rennes D1';777;0
+e;2422702;'1ère classe';1;0
+e;5553688;'lemme de classe monotone';777;0
+e;5558813;'classe Clemenceau';777;0
+e;5558803;'classe Colossus';777;0
+e;5943671;'classe Gladiolus';777;0
+e;5942752;'classe Daphné';777;0
+e;5941464;'classe Aquitaine';777;0
+e;5940975;'classe Osa';777;0
+e;5940969;'classe Trafalgar';777;0
+e;5940743;'classe Los Angeles';777;0
+e;6450639;'antigènes d'histocompatibilité de classe 1';1;0
+e;6526739;'classe monogenea';1;0
+e;6526043;'classe gastropoda';1;0
+e;10159649;'classe Cigale';777;0
+e;10159643;'classe Loire';777;0
+e;10159642;'classe Durance';777;0
+e;10159641;'classe Antarès';777;0
+e;10159639;'classe Vulcain';777;0
+e;10159635;'classe OPV 54';777;0
+e;10159633;'classe La Confiance';777;0
+e;10159631;'classe d'Entrecasteaux';777;0
+e;10159630;'classe Georges Leygues';777;0
+e;10159629;'classe Floréal';777;0
+e;10159628;'classe Cassard';777;0
+e;10177400;'La classe ouvrière va au paradis';777;0
+e;11160355;'classe Le Redoutable';777;0
+e;13302117;'activateur rigide de classe III';1;0
+e;13302115;'activateur rigide de classe II';1;0
+e;13302118;'activateur rigide de classe III d'Andresen';1;0
+e;13302158;'classe II';1;0
+e;13302161;'classe squelettique';1;0
+e;13302159;'classe III';1;0
+e;13302116;'activateur rigide de classe II d'Andresen';1;0
+e;13302160;'classe occlusale d'Angle';1;0
+e;5539027;'classe pharmacologique';777;0
+e;6526853;'classe crustacea';1;0
+e;6526177;'classe turbellaria';1;0
+e;10143070;'Tom fait la classe';777;0
+e;10159640;'classe Lapérouse';777;0
+e;10430658;'voiture de tourisme classe 2';777;0
+e;15426202;'La classe !';1;0
+e;15686075;'La classe de 1984';777;0
+e;15361777;'La classe s'est divisée en groupes de cinq personnes.';1;0
+e;5557787;'classe Maersk triple E';777;0
+e;5557783;'classe Suffren';777;0
+e;5557782;'classe Odin';777;0
+e;5558802;'classe Chitose';777;0
+e;5901134;'classe 3';777;0
+e;5943542;'classe E-71';777;0
+e;5943047;'classe X';777;0
+e;6447980;'désacétylases d'histones de classe ii';1;0
+e;6446333;'antigène d'histocompatibilité classe i';1;0
+e;5558814;'classe Queen Elizabeth';777;0
+e;5558799;'classe Avenger';777;0
+e;5940573;'classe Koni';777;0
+e;5993336;'Théorie de la classe de loisir';777;0
+e;5557829;'classe Edgar Quinet';777;0
+e;5941722;'classe Horizon';777;0
+e;5940567;'classe Nanuchka';777;0
+e;5558812;'classe de porte-avions Majestic';777;0
+e;5941960;'classe Kaïman';777;0
+e;6540065;'protéine du complexe majeur d'histocompatibilité de classe II';1;0
+e;5942968;'classe Chungmugong Yi Sun-sin';777;0
+e;6527100;'classe insecta - insectes';1;0
+e;15496110;'Des flots d'enfants sortaient des salles de classe.';1;0
+e;8568282;'classe B';1;0
+e;8568286;'classe C';1;0
+e;8568287;'classe A';1;0
+e;8749321;'avoir la classe';1;10
+e;8879608;'classe Admiral';777;0
+e;8915613;'classe Dolphin';777;0
+e;8958047;'classe Spruance';777;0
+e;9161124;'aller en classe';1;76
+e;9274055;'classe Aigrette';777;0
+e;9509810;'classe Victoria';777;0
+e;9509811;'classe Upholder';777;0
+e;9553967;'redoubler de classe';1;0
+e;9617717;'Un collège de classe';777;0
+e;11129067;'classe Ethan Allen';777;0
+e;11129066;'classe George Washington';777;0
+e;11129064;'classe Hotel';777;0
+e;11130095;'classe Duke';777;0
+e;11130090;'classe Iron Duke';777;0
+e;11130146;'classe Océan';777;0
+e;11130217;'classe Richelieu';777;0
+e;11130204;'classe Alma';777;0
+e;11130212;'classe Courbet';777;0
+e;11130195;'classe Tempête';777;0
+e;11130187;'classe Dévastation';777;0
+e;11130186;'classe Colbert';777;0
+e;11130194;'classe Tonnerre';777;0
+e;11130214;'classe Normandie';777;0
+e;11130198;'classe Bouvines';777;0
+e;11130209;'classe Marceau';777;0
+e;11130193;'classe Cerbère';777;0
+e;11130189;'classe Arrogante';777;0
+e;11130224;'classe C et D';777;0
+e;11130222;'classe Desperate';777;0
+e;11130202;'classe Gauloise';777;0
+e;11130197;'classe Indomptable';777;0
+e;11130207;'classe Charles Martel';777;0
+e;11130215;'classe Lyon';777;0
+e;11130201;'classe Magenta';777;0
+e;11130199;'classe Valmy';777;0
+e;11130188;'classe Palestro';777;0
+e;11130205;'classe La Galissonnière';777;0
+e;11130305;'classe D'Iberville';777;0
+e;11130304;'classe D'Estrées';777;0
+e;11130216;'classe Dunkerque';777;0
+e;11130213;'classe Bretagne';777;0
+e;11130323;'classe Voltigeur';777;0
+e;11130301;'classe D'Assas';777;0
+e;11130329;'classe Émeraude';777;0
+e;11130200;'classe Gloire';777;0
+e;11130298;'classe Linois';777;0
+e;11130296;'classe Forbin';777;0
+e;11130208;'classe Amiral Baudin';777;0
+e;11130327;'classe Aventurier';777;0
+e;11130297;'classe Troude';777;0
+e;11130219;'classe Alsace';777;0
+e;11130331;'classe Brumaire';777;0
+e;11130300;'classe Descartes';777;0
+e;11130299;'classe Friant';777;0
+e;11130306;'classe Dunois';777;0
+e;11130190;'classe Embuscade';777;0
+e;11130292;'classe Amiral Charner';777;0
+e;11130330;'classe Circé';777;0
+e;11130223;'classe Danae';777;0
+e;11130328;'classe Sirène';777;0
+e;11130294;'classe Dupleix';777;0
+e;11130221;'classe d';777;0
+e;11130196;'classe Terrible';777;0
+e;11130192;'classe Bélier';777;0
+e;11130145;'classe Commerce-de-Marseille';777;0
+e;11136821;'routine membre d'une classe';1;0
+e;12616788;'ancien camarade de classe';1;0
+e;12682379;'classe U-139';1;0
+e;12709463;'classe Narvik';777;0
+e;12709470;'classe Type 1937';777;0
+e;12709466;'classe Raubvogel';777;0
+e;12709462;'classe Type 1936A';777;0
+e;12709459;'classe Admiral Hipper';777;0
+e;12709469;'classe Type 1935';777;0
+e;12709465;'classe Type 1923';777;0
+e;12709468;'classe Raubtier';777;0
+e;12709460;'classe Type 1934A';777;0
+e;12709467;'classe Type 1924';777;0
+e;12711108;'classe Type 1939';777;0
+e;12709464;'classe Type 1936B';777;0
+e;12711104;'classe Type 1934';777;0
+e;12711109;'classe Elbing';777;0
+e;12716218;'classe RP';777;0
+e;12725975;'classe d'espace aérien';1;0
+e;12721603;'classe Redoutable';777;0
+e;12721601;'sous-marins de première classe';777;0
+e;12711124;'classe M1938';777;0
+e;12711123;'classe M1935';777;0
+e;12711102;'classe Leipzig';777;0
+e;12711100;'classe Königsberg';777;0
+e;12711092;'classe H';777;0
+e;12711091;'classe Scharnhorst';777;0
+e;12711090;'classe Graf Zeppelin';777;0
+e;12709461;'classe Type 1936';777;0
+e;13783693;'2f1-2f3 classe des scotobacteria';1;0
+e;13769817;'2f4 classe des anoxyphotobacteria';1;0
+e;13767649;'2f5 classe des oxyphotobacteria';1;0
+e;13779312;'401-409 classe des zygomycetes';1;0
+e;13782965;'43 classe des blastomycètes';1;0
+e;13780880;'44-45 classe des hyphomycetes';1;0
+e;13754729;'46 classe des coelomycetes';1;0
+e;13755120;'520-52a classe sporozoea - sous-classe coccidia';1;0
+e;13786755;'52b-52d classe sporozoea - sous-classe piroplasmia';1;0
+e;13778246;'52e classe perkinsea';1;0
+e;13787031;'542 classe myxosporea';1;0
+e;13776010;'543 classe actinosporea';1;0
+e;13785141;'551-56e classe secernentea';1;0
+e;13758964;'570-578 classe adenophorea';1;0
+e;13761519;'58-5a classe trematoda';1;0
+e;13778229;'5b0-5c8 classe cestoidea - sous-classe cestoda';1;0
+e;13776515;'5d0-5d1 classe cestoidea - sous-classe cestodaria';1;0
+e;13777829;'5d2 classe turbellaria';1;0
+e;13769031;'5d5-5d7 classe monogenea';1;0
+e;13740467;'5e1-5e5 classe palaeacanthocephala';1;0
+e;13798597;'5e7 classe eocanthocephala';1;0
+e;13742821;'5f1 classe hirudinea - sangsues';1;0
+e;13748203;'60-65 classe insecta - insectes';1;0
+e;13759304;'66-68 classe arachnida';1;0
+e;13763818;'68 classe arachnida';1;0
+e;13796453;'690 classe chilopoda';1;0
+e;13793228;'691 classe diplopoda';1;0
+e;13795531;'693 classe pentastomida';1;0
+e;13785605;'696-698 classe crustacea';1;0
+e;13749864;'70-72 classe gastropoda';1;0
+e;13787721;'731 classe hydrozoa';1;0
+e;13790358;'83-8c classe mammalia - mammifères';1;0
+e;14319290;'1ere classe';1;0
+e;15775576;'Enseigne de vaisseaude première classe';777;0
+e;15426268;'En quelle classe es-tu ?';1;0
+e;15336157;'Il a été puni pour avoir parlé en classe.';1;0
+e;15300892;'Il y avait du chahut dans la classe.';1;0
+e;15474643;'Il était la risée de la classe.';1;0
+e;14850831;'EIM de classe III';1;0
+e;14850830;'EIM de classe II';1;0
+e;15340841;'C'est le plus mauvais élève de la classe.';1;0
+e;15426291;'2nde classe';1;0
+e;15528055;'C'est la meilleure élève de la classe.';1;0
+e;15763445;'Cliff s'habillait très classe.';1;0
+e;15361781;'L'école peut s'occuper des enfants après la classe.';1;0
+e;16163490;'Corvettes de classe Flower';777;0
+e;1388988;'ekranoplane de classe Lun';777;0
+e;3987126;'classe locale';1;0
+e;3943281;'classe amie';1;0
+e;5376783;'corvette de la classe Flower';1;0
+e;6539653;'gène du complexe majeur d'histocompatibilité de classe II';1;0
+e;566691;'classe Deutschland';777;50
+e;1665036;'classe anonyme';1;0
+e;2539233;'enseigne de vaisseau de première classe';1;0
+e;4109105;'classe wrapper';1;0
+e;3797080;'classe générique';1;0
+e;1665035;'classe abstraite';1;0
+e;1752497;'classe capitaliste';1;0
+e;1787643;'soldat de 1ère classe';1;0
+e;3867581;'classe finale';1;0
+e;568085;'classe modale';777;50
+e;1665038;'classe fille';1;0
+e;1787642;'soldat de 2ème classe';1;0
+e;1849769;'déficit d'expression des molécules HLA de classe II';1;0
+e;4106772;'classe concrète';1;0
+e;4078985;'classe membre';1;0
+e;4050739;'classe de principes';1;0
+e;3920077;'classe de base';1;0
+e;6540656;'gène du complexe majeur d'histocompatibilité de classe I';1;0
+e;1665037;'classe dérivée';1;0
+e;1665170;'pseudo-classe';1;0
+e;3706138;'aller à un conseil de classe';1;0
+e;3805832;'classe externe';1;0
+e;5376795;'classe Oliver Hazard Perry';1;0
+e;1665041;'classe statique';1;0
+e;1665289;'classe mixin';777;0
+e;2505566;'enseigne de vaisseau de deuxième classe';1;0
+e;3294770;'Ennemi de classe';777;0
+e;3789937;'classe de maître';1;0
+e;6540097;'protéine du complexe majeur d'histocompatibilité de classe I';1;0
+e;579564;'classe Rotterdam';777;0
+e;2553820;'quartier-maître de première classe';1;0
+e;3177629;'classe Arquebuse';777;0
+e;3225319;'classe Galicia';777;0
+e;4898653;'mépris de classe';1;0
+e;4315792;'classe Invincible';1;0
+e;5377133;'classe de frégate';1;0
+e;1568039;'classe Triomphant';1;0
+e;1665211;'variable de classe';1;0
+e;2360245;'3e classe';1;0
+e;3928258;'classe éco';1;0
+e;5522416;'classe Bismarck';777;0
+e;465220;'classe de terminale STI2D';777;50
+e;572028;'classe Kebir';777;50
+e;1665039;'classe interne';1;0
+e;1701071;'Voir la sous-classe';777;0
+e;1741552;'classe de navires';1;0
+e;2520462;'quartier-maître de deuxième classe';1;0
+e;3181026;'classe préparatoire aux grandes écoles ATS';777;0
+e;4315795;'classe Drake';1;0
+e;4315796;'classe Duke of Edinburgh';1;0
+e;5323540;'dernier de la classe';1;4
+e;566607;'citoyen de seconde classe';777;50
+e;1665040;'classe mère';1;0
+e;3176326;'classe Tonnant';777;0
+e;385055;'troisième classe';1;50
+e;380883;'sous-classe des brachiopodes';1;50
+e;378033;'résidence de grande classe';1;50
+e;351188;'en première classe';1;50
+e;344558;'couchette de première classe';1;50
+e;341459;'capitaine de deuxième classe de la navigation maritime';1;50
+e;380045;'société sans classe';1;50
+e;370238;'photographie de classe';1;50
+e;357436;'haine de classe';1;50
+e;356593;'grande classe';1;50
+e;351386;'en seconde classe';1;50
+e;346754;'de la classe';1;50
+e;392273;'classe Nimitz';1;50
+e;383707;'ticket de seconde classe';1;50
+e;378300;'sac de classe';1;50
+e;352024;'ensemble de la classe politique';1;50
+e;350323;'en classe touriste';1;50
+e;343996;'classe sociale défavorisée';1;50
+e;335878;'appartement de classe';1;50
+e;367668;'organe de classe';1;50
+e;350322;'en classe de';1;50
+e;349190;'délégué de classe';1;50
+e;335894;'appel de la classe';1;50
+e;360576;'justice de classe';1;50
+e;344557;'couchette de seconde classe';1;50
+e;343988;'classe de philo';1;50
+e;387909;'wagon de première classe';1;50
+e;357760;'heure de classe';1;50
+e;351919;'ennemi de classe';1;50
+e;351581;'en troisième classe';1;50
+e;350490;'en deuxième classe';1;50
+e;343990;'classe politique';1;50
+e;372778;'premier de classe';1;66
+e;346794;'de la sous-classe de';1;50
+e;343989;'classe maternelle';1;50
+e;334013;'administrateur civil hors classe';1;50
+e;383712;'ticket de première classe';1;50
+e;347046;'dernier de classe';1;50
+e;346755;'de la classe de';1;50
+e;392272;'classe Gerald R. Ford';1;50
+e;350321;'en classe affaires';1;50
+e;343995;'classe préprofessionnelle';1;50
+e;343991;'classe terminale';1;50
+e;341463;'capitaine de première classe de la navigation maritime';1;50
+e;380160;'soldat de deuxième classe';1;50
+e;360316;'journal de classe';1;50
+e;355980;'garçon de classe';1;50
+e;339619;'bon pour la classe';1;50
+e;101009;'sous-classe';1;60
+e;285743;'infra-classe';1;50
+e;265653;'super-classe';1;50
+e;322062;'classe d'âge';1;52
+e;316539;'classe fermée';1;50
+e;316540;'classe lexicale';1;50
+e;316541;'classe lexicale ouverte';1;50
+e;316542;'classe sémantique';1;50
+e;315696;'classe de troisième';777;76
+e;314214;'classe d'équivalence';1;50
+e;313654;'en classe';1;14
+e;167556;'classe dirigeante';1;52
+e;168557;'classe bay';1;50
+e;168558;'classe champlain';1;50
+e;168559;'classe endurance';1;50
+e;168560;'classe galicia';1;50
+e;208986;'tête de classe';1;52
+e;219293;'première classe';1;6
+e;223901;'photo de classe';666;56
+e;239197;'classe verte';1;28
+e;247266;'conscience de classe';1;10
+e;248193;'copain de classe';1;50
+e;251400;'classe dominante';1;4
+e;252276;'classe populaire';1;14
+e;252576;'classe prépa';1;34
+e;253981;'camarade de classe';1;18
+e;254433;'classe transplantée';1;8
+e;254443;'classe de mer';1;12
+e;255290;'classe de découverte';1;58
+e;256378;'classe préparatoire aux grandes écoles';1;28
+e;256497;'domination de classe';1;2
+e;258977;'classe supérieure';1;54
+e;261613;'classe de seconde';1;58
+e;262282;'classe dominée';1;50
+e;313186;'classe de terminale';1;12
+e;313366;'classe Zumwalt';777;50
+e;122772;'La Dernière classe';1;50
+e;157133;'de classe';1;50
+e;161606;'salle de classe';1;170
+e;162075;'soldat de première classe';1;50
+e;164557;'classe sociale';1;154
+e;169734;'classe j';1;50
+e;203123;'livre de classe';1;50
+e;208014;'seconde classe';1;50
+e;210478;'classe d'éveil';1;50
+e;212288;'classe Virginia';1;50
+e;212960;'classe de neige';1;28
+e;216170;'classe préparatoire';1;40
+e;263866;'conflit de classe';1;2
+e;287881;'la haute classe supérieure';777;50
+e;287882;'la basse classe supérieure';777;50
+e;287883;'la haute classe moyenne';777;50
+e;287884;'la basse classe moyenne';777;50
+e;287885;'la haute classe inférieure';777;50
+e;287886;'la basse classe inférieure';777;50
+e;296401;'la classe des';777;50
+e;34845;'deuxième classe';1;50
+e;85732;'avoir de la classe';1;50
+e;155156;'premier de la classe';1;80
+e;180005;'classe de personnage';1;50
+e;202130;'indice de classe';1;50
+e;205341;'pemière classe';1;50
+e;267833;'classe économique';1;56
+e;273411;'classe de terminale littéraire';777;50
+e;275811;'classe Formidable';777;50
+e;275822;'classe La Fayette';777;50
+e;275950;'classe Illustrious';777;50
+e;282911;'membre de classe';777;50
+e;285463;'classe du nom';777;50
+e;287865;'classe grammaticale';777;64
+e;288198;'classe Mistral';777;50
+e;290293;'classe de terminale scientifique';777;50
+e;305070;'classe de première économique et sociale';777;50
+e;305371;'classe aisée';1;50
+e;308118;'classe de';777;50
+e;27175;'Histoire et Conscience de classe';1;50
+e;191787;'petite classe';1;50
+e;197508;'chef de classe';1;50
+e;197608;'classe affaires';1;50
+e;197609;'classe de mots';1;56
+e;197610;'classe laborieuse';1;52
+e;197611;'classe moyenne';1;86
+e;197612;'classe nominale';1;50
+e;197613;'classe touriste';1;50
+e;198338;'de deuxième classe';1;50
+e;309766;'classe de première scientifique';777;50
+e;310912;'classe nature';777;50
+e;311641;'classe de première littéraire';777;50
+e;311726;'classe de première';777;56
+e;311770;'classe de terminale économique et sociale';777;50
+e;311849;'classe aristocratique';1;50
+e;312301;'croiseurs de deuxième classe';777;50
+e;312303;'croiseurs de première classe';777;50
+e;312638;'classe Le Triomphant';1;50
+e;312898;'classe Essex';777;50
+e;312903;'classe Typhoon';1;50
+e;20705;'classe ouvrière';1;76
+e;197921;'conseil de classe';1;106
+e;200483;'faire la classe';1;50
+e;5170;'Il est classe';1;50
+e;6062;'hors classe';1;50
+e;9703;'Pierre est le plus paresseux de la classe';1;50
+r;301532649;142623;6344018;11;25
+r;298105631;142623;6285719;11;25
+r;298245678;142623;6287237;11;25
+r;298506037;142623;6293159;11;25
+r;302987572;142623;6371322;11;25
+r;298412438;142623;6290222;11;25
+r;298882594;142623;6295467;11;25
+r;299056331;142623;6298345;11;25
+r;299213745;142623;6300383;11;25
+r;299308785;142623;6302363;11;25
+r;299490567;142623;6305483;11;25
+r;299576464;142623;6309215;11;25
+r;299615624;142623;6313569;11;25
+r;301410790;142623;6336437;11;25
+r;300183548;142623;6324853;11;25
+r;300197174;142623;6326241;11;25
+r;300248472;142623;6330253;11;25
+r;300959117;142623;6330717;11;25
+r;300962364;142623;6331005;11;25
+r;301262308;142623;6335585;11;25
+r;301442530;142623;6337883;11;25
+r;301723409;142623;6349099;11;25
+r;301735971;142623;6350823;11;25
+r;301757451;142623;6354079;11;25
+r;302079903;142623;6359257;11;25
+r;302970604;142623;6368290;11;25
+r;303470355;142623;6374949;11;25
+r;303629754;142623;6376540;11;25
+r;303631646;142623;6377184;11;25
+r;303930445;142623;6381757;11;25
+r;303979523;142623;6382767;11;25
+r;303980937;142623;6383157;11;25
+r;304585435;142623;6389934;11;25
+r;304588930;142623;6390430;11;25
+r;304600969;142623;6390759;11;25
+r;304671284;142623;6392178;11;25
+r;304882018;142623;6393439;11;25
+r;305010674;142623;6395784;11;25
+r;305049656;142623;6397193;11;25
+r;305300589;142623;6404362;11;25
+r;305303598;142623;6405273;11;25
+r;305324910;142623;6407721;11;25
+r;305468470;142623;6410653;11;25
+r;305471388;142623;6411109;11;25
+r;305662340;142623;6415479;11;25
+r;305695441;142623;6418809;11;25
+r;305709308;142623;6420976;11;25
+r;310675363;142623;579099;11;25
+r;310675364;142623;579100;11;25
+r;310675365;142623;5323909;11;25
+r;316693759;142623;12159613;11;25
+r;316694543;142623;12159265;11;25
+r;316694570;142623;12159257;11;25
+r;316694583;142623;12159255;11;25
+r;316764442;142623;12138656;11;25
+r;319103506;142623;6349595;11;25
+r;341107925;142623;6351627;11;25
+r;341104768;142623;6348103;11;25
+r;341089838;142623;6342204;11;25
+r;341081523;142623;6340980;11;25
+r;340926468;142623;6284696;11;25
+r;344110789;142623;13588235;11;25
+r;343442758;142623;13549300;11;25
+r;344110996;142623;13588234;11;25
+r;344403588;142623;13595714;11;25
+r;345621994;142623;13632419;11;25
+r;345744929;142623;13634037;11;25
+r;345765927;142623;13634320;11;25
+r;345766464;142623;13634321;11;25
+r;345800079;142623;13634317;11;25
+r;346910946;142623;13656084;11;25
+r;351442773;142623;13884742;11;25
+r;351442965;142623;13884755;11;25
+r;351443038;142623;13884744;11;25
+r;351443068;142623;13884743;11;25
+r;351443108;142623;13884756;11;25
+r;352984171;142623;13999226;11;25
+r;354484267;142623;14033921;11;25
+r;356698442;142623;14097174;11;25
+r;356880225;142623;14096952;11;25
+r;366981969;142623;14464422;11;25
+r;366981995;142623;14464409;11;25
+r;367331189;142623;14468812;11;25
+r;369388516;142623;14536856;11;25
+r;370455992;142623;14580416;11;25
+r;370466133;142623;14580470;11;25
+r;370541505;142623;14581731;11;25
+r;370560727;142623;14581730;11;25
+r;370581522;142623;14581732;11;25
+r;370583282;142623;14581729;11;25
+r;370859589;142623;14594679;11;25
+r;371047201;142623;14598726;11;25
+r;371679460;142623;14631490;11;25
+r;371808343;142623;14636430;11;25
+r;372612241;142623;14655111;11;25
+r;372612275;142623;14655116;11;25
+r;372619445;142623;14655122;11;25
+r;372619581;142623;14655118;11;25
+r;372620110;142623;14655108;11;25
+r;372620134;142623;14655112;11;25
+r;372657636;142623;14655685;11;25
+r;372658284;142623;14655113;11;25
+r;372660989;142623;14655115;11;25
+r;373263281;142623;14680410;11;25
+r;373263339;142623;14680407;11;25
+r;373263378;142623;14680408;11;25
+r;374721665;142623;14740537;11;25
+r;374722118;142623;14740538;11;25
+r;374722157;142623;14740536;11;25
+r;374722642;142623;14740610;11;25
+r;375560565;142623;14778392;11;25
+r;384639791;142623;14850829;11;25
+r;384639823;142623;14850828;11;25
+r;384976781;142623;14871022;11;25
+r;385009045;142623;14873204;11;25
+r;388247652;142623;14890718;11;25
+r;388249995;142623;14890719;11;25
+r;413956215;142623;15884891;11;25
+r;435377040;142623;16572848;11;25
+r;392469586;142623;15024663;11;26
+r;299486010;142623;6305591;11;26
+r;299616820;142623;6313811;11;26
+r;299828850;142623;6318962;11;26
+r;300196652;142623;6326276;11;26
+r;300969298;142623;6331996;11;26
+r;301472920;142623;6341086;11;26
+r;301609301;142623;6347184;11;26
+r;301716418;142623;6348047;11;26
+r;302085558;142623;6359799;11;26
+r;303635762;142623;6377525;11;26
+r;303978030;142623;6382704;11;26
+r;304496849;142623;6388239;11;26
+r;304546165;142623;6388643;11;26
+r;304858381;142623;6392611;11;26
+r;305130153;142623;6399174;11;26
+r;305309035;142623;6406182;11;26
+r;305459975;142623;6409142;11;26
+r;305483170;142623;6412560;11;26
+r;305703368;142623;6419818;11;26
+r;337342116;142623;12989277;11;26
+r;346166803;142623;13642322;11;26
+r;359706343;142623;14159512;11;26
+r;359706369;142623;14159514;11;26
+r;360215964;142623;14172132;11;26
+r;368704178;142623;14532519;11;26
+r;368767739;142623;14536502;11;26
+r;370560493;142623;14584143;11;26
+r;370645767;142623;14585987;11;26
+r;371743044;142623;14635292;11;26
+r;374050665;142623;14716884;11;26
+r;374308105;142623;14722212;11;26
+r;374322248;142623;14723092;11;26
+r;374421717;142623;14727833;11;26
+r;375036558;142623;14753268;11;26
+r;375513699;142623;14776070;11;26
+r;393558511;142623;15031567;11;26
+r;121523588;142623;6440500;11;27
+r;122739092;142623;6424405;11;27
+r;267335850;142623;10623268;11;27
+r;315684110;142623;12116977;11;27
+r;315678842;142623;12116978;11;27
+r;315589933;142623;12098344;11;27
+r;315590043;142623;12098222;11;27
+r;315590060;142623;12098218;11;27
+r;315590074;142623;12098217;11;27
+r;316388363;142623;12200874;11;27
+r;316515490;142623;12204872;11;27
+r;333748314;142623;12989276;11;27
+r;266719738;142623;10619718;11;28
+r;269889719;142623;10730277;11;28
+r;269889723;142623;10730276;11;28
+r;269889727;142623;10730275;11;28
+r;269889731;142623;10730274;11;28
+r;269889735;142623;10730273;11;28
+r;269889739;142623;10730272;11;28
+r;269889743;142623;10730271;11;28
+r;269889747;142623;10730270;11;28
+r;269889775;142623;10730263;11;28
+r;269889795;142623;10730259;11;28
+r;121572831;142623;6434989;11;29
+r;121531675;142623;6439594;11;30
+r;122665387;142623;6433608;11;30
+r;277227173;142623;10971816;11;30
+r;320430094;142623;12313376;11;30
+r;419766237;142623;15203664;11;30
+r;419766241;142623;15203656;11;30
+r;419766245;142623;15261439;11;30
+r;419766249;142623;15299052;11;30
+r;419766255;142623;15426256;11;30
+r;419766261;142623;15281462;11;30
+r;419766265;142623;15426259;11;30
+r;419767464;142623;15210767;11;30
+r;419767834;142623;15352076;11;30
+r;419769623;142623;15491192;11;30
+r;419770054;142623;15426261;11;30
+r;419811156;142623;15204087;11;30
+r;434379363;142623;16312939;11;30
+r;434379367;142623;16163471;11;30
+r;434379371;142623;16163472;11;30
+r;434379375;142623;16163485;11;30
+r;434379381;142623;16163473;11;30
+r;434379385;142623;16163487;11;30
+r;434379392;142623;16163481;11;30
+r;434379396;142623;16163486;11;30
+r;434379400;142623;16163482;11;30
+r;434379404;142623;16163476;11;30
+r;434379408;142623;16163480;11;30
+r;434379410;142623;16365034;11;30
+r;434379417;142623;16365035;11;30
+r;434379426;142623;16327508;11;30
+r;434379432;142623;16159580;11;30
+r;110687064;142623;5598181;11;31
+r;110688617;142623;5598183;11;31
+r;110695408;142623;5598180;11;31
+r;113297063;142623;5805037;11;31
+r;113767421;142623;5827044;11;31
+r;113767963;142623;5820102;11;31
+r;113767974;142623;5819948;11;31
+r;113773539;142623;5817047;11;31
+r;113773545;142623;5817045;11;31
+r;113777680;142623;5816088;11;31
+r;119190203;142623;6080903;11;31
+r;119190436;142623;6080848;11;31
+r;119190440;142623;6080847;11;31
+r;119190960;142623;6080740;11;31
+r;119191123;142623;6080701;11;31
+r;119191131;142623;6080698;11;31
+r;119191908;142623;6080283;11;31
+r;121503280;142623;6442747;11;31
+r;121545373;142623;6438067;11;31
+r;221472733;142623;9969412;11;31
+r;277926104;142623;10992108;11;31
+r;277926325;142623;10992018;11;31
+r;279614466;142623;11030294;11;31
+r;342384101;142623;13518256;11;31
+r;432135098;142623;16365017;11;31
+r;419712313;142623;15166179;11;31
+r;419712318;142623;15166183;11;31
+r;419712332;142623;15166177;11;31
+r;419712342;142623;15166182;11;31
+r;419712354;142623;15166186;11;31
+r;419712366;142623;15166184;11;31
+r;419712376;142623;15166180;11;31
+r;419712381;142623;15166181;11;31
+r;419712385;142623;15686109;11;31
+r;419712387;142623;15686116;11;31
+r;419712389;142623;15204068;11;31
+r;419712393;142623;15349876;11;31
+r;419712396;142623;15245275;11;31
+r;419712400;142623;15336227;11;31
+r;419712404;142623;15393790;11;31
+r;419712411;142623;15276049;11;31
+r;419712418;142623;15204083;11;31
+r;419712425;142623;15339121;11;31
+r;419712432;142623;15401955;11;31
+r;419712439;142623;15318851;11;31
+r;419712446;142623;15401953;11;31
+r;419712453;142623;15295548;11;31
+r;419712460;142623;15276906;11;31
+r;419712467;142623;15204081;11;31
+r;419712474;142623;15378018;11;31
+r;419712481;142623;15782412;11;31
+r;419712492;142623;15474499;11;31
+r;419712498;142623;15581404;11;31
+r;419712504;142623;15374484;11;31
+r;419712510;142623;15374486;11;31
+r;419712516;142623;15204075;11;31
+r;419712522;142623;15204078;11;31
+r;419712528;142623;15581407;11;31
+r;419712534;142623;15501214;11;31
+r;419712538;142623;15390632;11;31
+r;419712542;142623;15528487;11;31
+r;419712548;142623;15482218;11;31
+r;419712554;142623;15234240;11;31
+r;419712560;142623;15205730;11;31
+r;419712566;142623;15290997;11;31
+r;419712572;142623;15204073;11;31
+r;419712578;142623;15356132;11;31
+r;419712584;142623;15364438;11;31
+r;419712590;142623;15465180;11;31
+r;419712596;142623;15584185;11;31
+r;419712602;142623;15319819;11;31
+r;419712610;142623;15569863;11;31
+r;419712614;142623;15573025;11;31
+r;419712618;142623;15426238;11;31
+r;419712624;142623;15426241;11;31
+r;419712628;142623;15327142;11;31
+r;419712632;142623;15204070;11;31
+r;419712636;142623;15331924;11;31
+r;419712645;142623;15331925;11;31
+r;419712654;142623;15331926;11;31
+r;419712663;142623;15331927;11;31
+r;419712674;142623;15348461;11;31
+r;419712683;142623;15426247;11;31
+r;419712692;142623;15387655;11;31
+r;419712701;142623;15387656;11;31
+r;419712712;142623;15572111;11;31
+r;419712716;142623;15530421;11;31
+r;419712720;142623;15222993;11;31
+r;419712724;142623;15426251;11;31
+r;419712728;142623;15385009;11;31
+r;419712734;142623;15525408;11;31
+r;419712740;142623;15426229;11;31
+r;419740296;142623;15228901;11;31
+r;419742341;142623;15407399;11;31
+r;421191504;142623;16117705;11;31
+r;110201360;142623;5569789;11;32
+r;110201459;142623;5569348;11;32
+r;110203440;142623;5567085;11;32
+r;110816602;142623;5619190;11;32
+r;111336424;142623;5673328;11;32
+r;111336453;142623;5673322;11;32
+r;111336529;142623;5673304;11;32
+r;113754604;142623;5831300;11;32
+r;113755260;142623;5831089;11;32
+r;113755281;142623;5831087;11;32
+r;113755367;142623;5831062;11;32
+r;113755384;142623;5831060;11;32
+r;113755397;142623;5831058;11;32
+r;113755408;142623;5831056;11;32
+r;113755421;142623;5831055;11;32
+r;113755429;142623;5831053;11;32
+r;113755435;142623;5831051;11;32
+r;113755441;142623;5831049;11;32
+r;113755447;142623;5831047;11;32
+r;113755453;142623;5831045;11;32
+r;113755459;142623;5831043;11;32
+r;113755465;142623;5831041;11;32
+r;113755471;142623;5831039;11;32
+r;113755483;142623;5831034;11;32
+r;113755489;142623;5831032;11;32
+r;113755495;142623;5831030;11;32
+r;113755502;142623;5831027;11;32
+r;113755513;142623;5831025;11;32
+r;113755523;142623;5831023;11;32
+r;113755536;142623;5831021;11;32
+r;113755551;142623;5831019;11;32
+r;113755565;142623;5831017;11;32
+r;113755580;142623;5831015;11;32
+r;113755589;142623;5831013;11;32
+r;113755599;142623;5831011;11;32
+r;113755612;142623;5831009;11;32
+r;113755626;142623;5831007;11;32
+r;113755639;142623;5831005;11;32
+r;113755649;142623;5831002;11;32
+r;113755659;142623;5831000;11;32
+r;113755674;142623;5830997;11;32
+r;113755680;142623;5830995;11;32
+r;113755686;142623;5830993;11;32
+r;113755692;142623;5830990;11;32
+r;113755710;142623;5830981;11;32
+r;113755716;142623;5830979;11;32
+r;113755727;142623;5830946;11;32
+r;113755733;142623;5830933;11;32
+r;113755739;142623;5830931;11;32
+r;113755745;142623;5830929;11;32
+r;113755751;142623;5830927;11;32
+r;113755757;142623;5830925;11;32
+r;113755763;142623;5830922;11;32
+r;113755769;142623;5830920;11;32
+r;113756556;142623;5830611;11;32
+r;113756570;142623;5830609;11;32
+r;113756583;142623;5830608;11;32
+r;113756646;142623;5830599;11;32
+r;113756664;142623;5830595;11;32
+r;113756736;142623;5830587;11;32
+r;113756756;142623;5830585;11;32
+r;113756772;142623;5830583;11;32
+r;113756905;142623;5830555;11;32
+r;113757404;142623;5830410;11;32
+r;113759377;142623;5829619;11;32
+r;113759395;142623;5829609;11;32
+r;113759401;142623;5829607;11;32
+r;113759411;142623;5829605;11;32
+r;113759497;142623;5829582;11;32
+r;113759503;142623;5829580;11;32
+r;113759509;142623;5829578;11;32
+r;113759515;142623;5829576;11;32
+r;113759521;142623;5829574;11;32
+r;113759527;142623;5829572;11;32
+r;113759534;142623;5829570;11;32
+r;113759552;142623;5829566;11;32
+r;113759558;142623;5829564;11;32
+r;113759564;142623;5829562;11;32
+r;113759570;142623;5829560;11;32
+r;113759576;142623;5829558;11;32
+r;113759598;142623;5829507;11;32
+r;113759729;142623;5829464;11;32
+r;113759790;142623;5829455;11;32
+r;113759822;142623;5829447;11;32
+r;113759828;142623;5829444;11;32
+r;113759896;142623;5829422;11;32
+r;113759929;142623;5829415;11;32
+r;113759941;142623;5829412;11;32
+r;113759955;142623;5829409;11;32
+r;113759961;142623;5829408;11;32
+r;113759977;142623;5829405;11;32
+r;113759983;142623;5829404;11;32
+r;113759997;142623;5829400;11;32
+r;113760045;142623;5829395;11;32
+r;113760058;142623;5829392;11;32
+r;113760078;142623;5829387;11;32
+r;113760082;142623;5829386;11;32
+r;113760095;142623;5829380;11;32
+r;113760124;142623;5829374;11;32
+r;113760132;142623;5829372;11;32
+r;113760317;142623;5829331;11;32
+r;113760334;142623;5829327;11;32
+r;113760376;142623;5829316;11;32
+r;114017435;142623;5837027;11;32
+r;114017441;142623;5837026;11;32
+r;119191127;142623;6080699;11;32
+r;119191161;142623;6080693;11;32
+r;119191165;142623;6080692;11;32
+r;121462994;142623;6447248;11;32
+r;121553608;142623;6437153;11;32
+r;227676865;142623;9993548;11;32
+r;277704440;142623;10992107;11;32
+r;280532709;142623;11061014;11;32
+r;280533272;142623;11060728;11;32
+r;280533276;142623;11060727;11;32
+r;280533354;142623;11060681;11;32
+r;280533358;142623;11060680;11;32
+r;280533362;142623;11060675;11;32
+r;280533366;142623;11060674;11;32
+r;280533551;142623;11060606;11;32
+r;280533672;142623;11060437;11;32
+r;280553285;142623;11069306;11;32
+r;345087733;142623;13603031;11;32
+r;345750524;142623;13634039;11;32
+r;414341016;142623;15909725;11;32
+r;394792423;142623;15351585;11;32
+r;414328373;142623;15909726;11;32
+r;419619187;142623;15361679;11;32
+r;419619201;142623;15283210;11;32
+r;419626043;142623;15227635;11;32
+r;419628859;142623;15426214;11;32
+r;419636553;142623;15426222;11;32
+r;419638235;142623;15426224;11;32
+r;419639124;142623;15362519;11;32
+r;419641702;142623;13783083;11;32
+r;419641878;142623;13788724;11;32
+r;419670719;142623;16029385;11;32
+r;419672783;142623;13787223;11;32
+r;419672815;142623;13776194;11;32
+r;419673134;142623;13771897;11;32
+r;110201380;142623;5569620;11;33
+r;121546340;142623;6437951;11;33
+r;227650642;142623;10009470;11;33
+r;280309046;142623;11060480;11;33
+r;280313484;142623;11060607;11;33
+r;280313585;142623;11060602;11;33
+r;280325528;142623;11060801;11;33
+r;280325648;142623;11060677;11;33
+r;280326968;142623;11060679;11;33
+r;280329279;142623;11060673;11;33
+r;280342179;142623;11061008;11;33
+r;280508588;142623;11065399;11;33
+r;419600789;142623;13753263;11;33
+r;419600799;142623;13747662;11;33
+r;419600809;142623;13753524;11;33
+r;419600821;142623;13777638;11;33
+r;419600831;142623;13776446;11;33
+r;29947851;142623;1830303;11;34
+r;29949107;142623;1830304;11;34
+r;116314872;142623;5941955;11;34
+r;116316177;142623;5941564;11;34
+r;116319835;142623;5940440;11;34
+r;116573589;142623;5961914;11;34
+r;116580667;142623;5955660;11;34
+r;121468004;142623;6446687;11;34
+r;291310251;142623;11359914;11;34
+r;291321076;142623;11359919;11;34
+r;303717211;142623;11788614;11;34
+r;419526183;142623;15166198;11;34
+r;419526194;142623;15166193;11;34
+r;419526204;142623;15166195;11;34
+r;419557936;142623;15650922;11;34
+r;419587717;142623;15378406;11;34
+r;419587725;142623;15378408;11;34
+r;419587733;142623;15378404;11;34
+r;419598171;142623;15383718;11;34
+r;423384606;142623;16136246;11;34
+r;53795195;142623;2404984;11;35
+r;54366819;142623;2415556;11;35
+r;110002052;142623;5562979;11;35
+r;116309050;142623;5943569;11;35
+r;116309909;142623;5943326;11;35
+r;116314800;142623;5941992;11;35
+r;116319222;142623;5940644;11;35
+r;116319637;142623;5940500;11;35
+r;116571365;142623;5963442;11;35
+r;121469520;142623;6446520;11;35
+r;121487291;142623;6444531;11;35
+r;271836439;142623;10849759;11;35
+r;272178269;142623;10852888;11;35
+r;278150057;142623;10997473;11;35
+r;278150064;142623;10997471;11;35
+r;279195588;142623;11021324;11;35
+r;305864441;142623;11831133;11;35
+r;313625685;142623;12048944;11;35
+r;313764867;142623;12050671;11;35
+r;315100129;142623;12077908;11;35
+r;315100251;142623;12077906;11;35
+r;315100336;142623;12077907;11;35
+r;315100426;142623;12077904;11;35
+r;315101788;142623;12077909;11;35
+r;315104957;142623;12077905;11;35
+r;315117833;142623;12079475;11;35
+r;373005105;142623;14669068;11;35
+r;375135124;142623;14757523;11;35
+r;112171734;142623;5715578;11;36
+r;113278646;142623;5809927;11;36
+r;116308664;142623;5943670;11;36
+r;116308976;142623;5943587;11;36
+r;116309018;142623;5943577;11;36
+r;116309034;142623;5943573;11;36
+r;116309225;142623;5943515;11;36
+r;116309266;142623;5943506;11;36
+r;116309527;142623;5943443;11;36
+r;121057341;142623;6448918;11;36
+r;122739560;142623;6424345;11;36
+r;268705827;142623;10730352;11;36
+r;268709651;142623;10730354;11;36
+r;268712425;142623;10730355;11;36
+r;277965668;142623;10997474;11;36
+r;277966093;142623;10997472;11;36
+r;295260266;142623;11494765;11;36
+r;312903943;142623;12006199;11;36
+r;313692451;142623;12050133;11;36
+r;313694047;142623;12050136;11;36
+r;313694213;142623;12050132;11;36
+r;313698433;142623;12050658;11;36
+r;313698631;142623;12050672;11;36
+r;313700329;142623;12050637;11;36
+r;313701043;142623;12050636;11;36
+r;313716632;142623;12051094;11;36
+r;313898611;142623;12058489;11;36
+r;313898615;142623;12058488;11;36
+r;419492274;142623;15373051;11;36
+r;115854858;142623;5917306;11;37
+r;118509229;142623;6011230;11;37
+r;121450670;142623;6526084;11;37
+r;121494602;142623;6443728;11;37
+r;121572063;142623;6435078;11;37
+r;121932023;142623;6564445;11;37
+r;270211309;142623;10791512;11;37
+r;270211819;142623;10791033;11;37
+r;270211834;142623;10791032;11;37
+r;270211846;142623;10791029;11;37
+r;274726311;142623;10922589;11;37
+r;290613935;142623;11343493;11;37
+r;292546054;142623;11390780;11;37
+r;295551707;142623;11503140;11;37
+r;306382677;142623;11839411;11;37
+r;306720647;142623;11840312;11;37
+r;306724579;142623;11840320;11;37
+r;313895764;142623;12058702;11;37
+r;313896775;142623;12058807;11;37
+r;53209373;142623;2395877;11;38
+r;109948996;142623;5558807;11;38
+r;109949000;142623;5558806;11;38
+r;232107514;142623;10061541;11;38
+r;232107521;142623;10061537;11;38
+r;269870797;142623;10778421;11;38
+r;306197638;142623;11836609;11;38
+r;313897489;142623;12058726;11;38
+r;53809703;142623;2405679;11;39
+r;109948987;142623;5558810;11;39
+r;109949033;142623;5558798;11;39
+r;111336428;142623;5673327;11;39
+r;111336447;142623;5673323;11;39
+r;115854852;142623;5917307;11;39
+r;116316658;142623;5941463;11;39
+r;121450348;142623;6526130;11;39
+r;121472717;142623;6446165;11;39
+r;242261419;142623;10188698;11;39
+r;269460369;142623;10764218;11;39
+r;288382658;142623;11249323;11;39
+r;302437706;142623;11777640;11;39
+r;308570055;142623;11957339;11;39
+r;113759543;142623;5829568;11;40
+r;53622568;142623;2404158;11;40
+r;109889768;142623;5539028;11;40
+r;109949020;142623;5558801;11;40
+r;114755570;142623;5892140;11;40
+r;115096171;142623;5900381;11;40
+r;116319513;142623;5940534;11;40
+r;121039000;142623;6450934;11;40
+r;220214889;142623;9944396;11;40
+r;256493765;142623;10425431;11;40
+r;256493781;142623;10425430;11;40
+r;285043963;142623;11156754;11;40
+r;285043967;142623;11156753;11;40
+r;290399268;142623;11335067;11;40
+r;295728081;142623;11506767;11;40
+r;295729795;142623;11506760;11;40
+r;295731579;142623;11506765;11;40
+r;295732015;142623;11506768;11;40
+r;295732954;142623;11506766;11;40
+r;295736249;142623;11506848;11;40
+r;295763831;142623;11507196;11;40
+r;115854862;142623;5917305;11;41
+r;116314191;142623;5942148;11;41
+r;116319340;142623;5940576;11;41
+r;121917324;142623;6531378;11;41
+r;236692180;142623;10132500;11;41
+r;296959804;142623;11559274;11;41
+r;308649813;142623;11958069;11;41
+r;109877157;142623;5557978;11;42
+r;109877606;142623;5557906;11;42
+r;109877959;142623;5557785;11;42
+r;109887601;142623;5553386;11;42
+r;109949004;142623;5558805;11;42
+r;109949008;142623;5558804;11;42
+r;116309125;142623;5943541;11;42
+r;116314543;142623;5942059;11;42
+r;116314848;142623;5941971;11;42
+r;121573436;142623;6434921;11;42
+r;240639086;142623;10180057;11;42
+r;240639109;142623;10180054;11;42
+r;286734443;142623;11178739;11;42
+r;287694472;142623;11220574;11;42
+r;287700813;142623;11220572;11;42
+r;287700859;142623;11220573;11;42
+r;287704398;142623;11220571;11;42
+r;287704579;142623;11220575;11;42
+r;292320299;142623;11385287;11;42
+r;337337058;142623;13247018;11;42
+r;55232079;142623;2439384;11;43
+r;109877955;142623;5557786;11;43
+r;109877971;142623;5557780;11;43
+r;116309036;142623;5943572;11;43
+r;116309872;142623;5943340;11;43
+r;116316187;142623;5941561;11;43
+r;116319116;142623;5940671;11;43
+r;116319529;142623;5940526;11;43
+r;121450516;142623;6526106;11;43
+r;238923116;142623;10177583;11;43
+r;238923197;142623;10177558;11;43
+r;238923264;142623;10177546;11;43
+r;278811008;142623;11010772;11;43
+r;278846245;142623;11011347;11;43
+r;289935178;142623;11317418;11;43
+r;292209543;142623;11385286;11;43
+r;292256132;142623;11385605;11;43
+r;336643158;142623;13198508;11;43
+r;54504161;142623;2422702;11;44
+r;109886196;142623;5553688;11;44
+r;109948975;142623;5558813;11;44
+r;109949012;142623;5558803;11;44
+r;116308660;142623;5943671;11;44
+r;116312187;142623;5942752;11;44
+r;116316654;142623;5941464;11;44
+r;116318389;142623;5940975;11;44
+r;116318413;142623;5940969;11;44
+r;116318918;142623;5940743;11;44
+r;121041683;142623;6450639;11;44
+r;121446076;142623;6526739;11;44
+r;121450913;142623;6526043;11;44
+r;238104597;142623;10159649;11;44
+r;238104630;142623;10159643;11;44
+r;238104635;142623;10159642;11;44
+r;238104641;142623;10159641;11;44
+r;238104655;142623;10159639;11;44
+r;238104692;142623;10159635;11;44
+r;238104698;142623;10159633;11;44
+r;238104704;142623;10159631;11;44
+r;238104709;142623;10159630;11;44
+r;238104719;142623;10159629;11;44
+r;238104724;142623;10159628;11;44
+r;238923570;142623;10177400;11;44
+r;285407037;142623;11160355;11;44
+r;338378759;142623;13302117;11;44
+r;338379441;142623;13302115;11;44
+r;338388065;142623;13302118;11;44
+r;338389966;142623;13302158;11;44
+r;338390159;142623;13302161;11;44
+r;338390988;142623;13302159;11;44
+r;338391773;142623;13302116;11;44
+r;338395644;142623;13302160;11;44
+r;109889772;142623;5539027;11;45
+r;121445297;142623;6526853;11;45
+r;121450014;142623;6526177;11;45
+r;236659835;142623;10143070;11;45
+r;238104648;142623;10159640;11;45
+r;256305288;142623;10430658;11;45
+r;417031609;142623;15426202;11;45
+r;417031611;142623;15686075;11;45
+r;417031615;142623;15361777;11;45
+r;109877949;142623;5557787;11;46
+r;109877963;142623;5557783;11;46
+r;109877967;142623;5557782;11;46
+r;109949016;142623;5558802;11;46
+r;115094044;142623;5901134;11;46
+r;116309121;142623;5943542;11;46
+r;116310929;142623;5943047;11;46
+r;121456221;142623;6447980;11;46
+r;121471176;142623;6446333;11;46
+r;109948969;142623;5558814;11;47
+r;109949029;142623;5558799;11;47
+r;116319357;142623;5940573;11;47
+r;117864609;142623;5993336;11;47
+r;109877801;142623;5557829;11;48
+r;116315696;142623;5941722;11;48
+r;116319385;142623;5940567;11;48
+r;109948979;142623;5558812;11;49
+r;116314860;142623;5941960;11;49
+r;121835818;142623;6540065;11;49
+r;116311259;142623;5942968;11;50
+r;121443603;142623;6527100;11;50
+r;397139079;142623;15496110;11;50
+r;149180452;142623;8568282;11;50
+r;149180548;142623;8568286;11;50
+r;149180558;142623;8568287;11;50
+r;178699005;142623;8749321;11;50
+r;190254350;142623;8851055;11;50
+r;190255375;142623;8851054;11;50
+r;190850078;142623;8879608;11;50
+r;193027096;142623;8915613;11;50
+r;193689092;142623;8958047;11;50
+r;205952210;142623;9161124;11;50
+r;209821729;142623;9215071;11;50
+r;209822766;142623;9215072;11;50
+r;212939007;142623;9274055;11;50
+r;214235676;142623;9509810;11;50
+r;214238383;142623;9509811;11;50
+r;214707441;142623;9553967;11;50
+r;216729721;142623;9617717;11;50
+r;282676629;142623;11129067;11;50
+r;282680201;142623;11129066;11;50
+r;282680207;142623;11129064;11;50
+r;282747161;142623;11130095;11;50
+r;282747321;142623;11130090;11;50
+r;282751694;142623;11130146;11;50
+r;282754046;142623;11130217;11;50
+r;282754058;142623;11130204;11;50
+r;282754094;142623;11130212;11;50
+r;282754124;142623;11130195;11;50
+r;282754150;142623;11130187;11;50
+r;282754217;142623;11130186;11;50
+r;282754264;142623;11130194;11;50
+r;282754285;142623;11130214;11;50
+r;282754403;142623;11130198;11;50
+r;282754421;142623;11130209;11;50
+r;282754433;142623;11130193;11;50
+r;282754450;142623;11130189;11;50
+r;282754476;142623;11130224;11;50
+r;282754489;142623;11130222;11;50
+r;282754505;142623;11130202;11;50
+r;282754578;142623;11130197;11;50
+r;282755027;142623;11130207;11;50
+r;282755061;142623;11130215;11;50
+r;282755110;142623;11130201;11;50
+r;282755132;142623;11130199;11;50
+r;282756838;142623;11130188;11;50
+r;282760213;142623;11130205;11;50
+r;282760594;142623;11130305;11;50
+r;282760798;142623;11130304;11;50
+r;282760809;142623;11130216;11;50
+r;282760829;142623;11130213;11;50
+r;282760847;142623;11130323;11;50
+r;282760878;142623;11130301;11;50
+r;282760948;142623;11130329;11;50
+r;282760961;142623;11130200;11;50
+r;282761102;142623;11130298;11;50
+r;282761166;142623;11130296;11;50
+r;282761379;142623;11130208;11;50
+r;282761989;142623;11130327;11;50
+r;282762054;142623;11130297;11;50
+r;282762224;142623;11130219;11;50
+r;282762439;142623;11130331;11;50
+r;282762664;142623;11130300;11;50
+r;282763006;142623;11130299;11;50
+r;282763245;142623;11130306;11;50
+r;282764281;142623;11130190;11;50
+r;282766641;142623;11130292;11;50
+r;282768991;142623;11130330;11;50
+r;282772906;142623;11130223;11;50
+r;282775986;142623;11130328;11;50
+r;282776002;142623;11130294;11;50
+r;282776047;142623;11130221;11;50
+r;282776056;142623;11130196;11;50
+r;282776060;142623;11130192;11;50
+r;282776111;142623;11130145;11;50
+r;283137337;142623;11136821;11;50
+r;323050578;142623;12616788;11;50
+r;324931299;142623;12682379;11;50
+r;325962671;142623;12709463;11;50
+r;325962732;142623;12709470;11;50
+r;325968760;142623;12709466;11;50
+r;325992639;142623;12709462;11;50
+r;326016487;142623;12709459;11;50
+r;326050624;142623;12709469;11;50
+r;326057193;142623;12709465;11;50
+r;326064029;142623;12709468;11;50
+r;326064584;142623;12709460;11;50
+r;326064727;142623;12709467;11;50
+r;326130649;142623;12711108;11;50
+r;326139578;142623;12709464;11;50
+r;326160293;142623;12711104;11;50
+r;326296122;142623;12711109;11;50
+r;326523657;142623;12716218;11;50
+r;326772621;142623;12725975;11;50
+r;327325853;142623;12721603;11;50
+r;327325865;142623;12721601;11;50
+r;327328432;142623;12711124;11;50
+r;327328436;142623;12711123;11;50
+r;327328444;142623;12711102;11;50
+r;327328448;142623;12711100;11;50
+r;327328452;142623;12711092;11;50
+r;327328454;142623;12711091;11;50
+r;327328458;142623;12711090;11;50
+r;327329471;142623;12709461;11;50
+r;348984650;142623;13783693;11;50
+r;348984662;142623;13769817;11;50
+r;348984668;142623;13767649;11;50
+r;348988408;142623;13779312;11;50
+r;348988597;142623;13782965;11;50
+r;348988681;142623;13780880;11;50
+r;348988785;142623;13754729;11;50
+r;348989844;142623;13755120;11;50
+r;348989928;142623;13786755;11;50
+r;348989950;142623;13778246;11;50
+r;348990180;142623;13787031;11;50
+r;348990210;142623;13776010;11;50
+r;348990319;142623;13785141;11;50
+r;348990586;142623;13758964;11;50
+r;348990671;142623;13761519;11;50
+r;348991007;142623;13778229;11;50
+r;348991091;142623;13776515;11;50
+r;348991101;142623;13777829;11;50
+r;348991107;142623;13769031;11;50
+r;348991119;142623;13740467;11;50
+r;348991149;142623;13798597;11;50
+r;348991173;142623;13742821;11;50
+r;348991720;142623;13748203;11;50
+r;348992841;142623;13759304;11;50
+r;348993075;142623;13763818;11;50
+r;348993163;142623;13796453;11;50
+r;348993181;142623;13793228;11;50
+r;348993197;142623;13795531;11;50
+r;348993237;142623;13785605;11;50
+r;348993630;142623;13749864;11;50
+r;348994188;142623;13787721;11;50
+r;348995676;142623;13790358;11;50
+r;364418401;142623;14319290;11;50
+r;412521890;142623;15775576;11;50
+r;397501549;142623;15426268;11;50
+r;402104458;142623;15336157;11;50
+r;402110892;142623;15300892;11;50
+r;402111250;142623;15474643;11;50
+r;384639774;142623;14850831;11;50
+r;384639805;142623;14850830;11;50
+r;395011005;142623;15340841;11;50
+r;395566705;142623;15426291;11;50
+r;397847653;142623;15528055;11;50
+r;405572811;142623;15763445;11;50
+r;414848640;142623;15361781;11;50
+r;426796155;142623;16163490;11;50
+r;23483660;142623;1388988;11;51
+r;95168044;142623;3987126;11;51
+r;95170489;142623;3943281;11;51
+r;107196191;142623;5376783;11;51
+r;121840086;142623;6539653;11;51
+r;16975058;142623;566691;11;52
+r;27664873;142623;1665036;11;52
+r;52457957;142623;2539233;11;52
+r;95160798;142623;4109105;11;52
+r;95178910;142623;3797080;11;52
+r;27664714;142623;1665035;11;53
+r;28812175;142623;1752497;11;53
+r;29343184;142623;1787643;11;53
+r;95174870;142623;3867581;11;53
+r;17192824;142623;568085;11;54
+r;27663268;142623;1665038;11;54
+r;29343135;142623;1787642;11;54
+r;29862234;142623;1849769;11;54
+r;95160932;142623;4106772;11;54
+r;95162764;142623;4078985;11;54
+r;95164213;142623;4050739;11;54
+r;95171824;142623;3920077;11;54
+r;121829647;142623;6540656;11;54
+r;27663387;142623;1665037;11;55
+r;27666341;142623;1665170;11;55
+r;92512422;142623;3706138;11;55
+r;95178415;142623;3805832;11;55
+r;107196471;142623;5376795;11;55
+r;27663404;142623;1665041;11;56
+r;27667025;142623;1665289;11;56
+r;52473881;142623;2505566;11;56
+r;81984973;142623;3294770;11;56
+r;95179348;142623;3789937;11;56
+r;121835493;142623;6540097;11;56
+r;18058517;142623;579564;11;57
+r;52450924;142623;2553820;11;57
+r;76627602;142623;3177629;11;57
+r;77655900;142623;3225319;11;57
+r;102161417;142623;4898653;11;57
+r;98347001;142623;4315792;11;57
+r;107213578;142623;5377133;11;57
+r;25236965;142623;1568039;11;58
+r;27665558;142623;1665211;11;58
+r;50117477;142623;2360245;11;58
+r;95171306;142623;3928258;11;58
+r;109341066;142623;5522416;11;58
+r;16383497;142623;465220;11;59
+r;17698040;142623;572028;11;59
+r;27665754;142623;1665039;11;59
+r;28018751;142623;1701071;11;59
+r;28623418;142623;1741552;11;59
+r;52466765;142623;2520462;11;59
+r;76815541;142623;3181026;11;59
+r;98347051;142623;4315795;11;59
+r;98347064;142623;4315796;11;59
+r;106843097;142623;5323540;11;59
+r;16975428;142623;566607;11;60
+r;27663285;142623;1665040;11;60
+r;76545309;142623;3176326;11;65
+r;12561185;142623;385055;11;101
+r;12577753;142623;380883;11;101
+r;12589715;142623;378033;11;101
+r;12698531;142623;351188;11;101
+r;12726293;142623;344558;11;101
+r;12739257;142623;341459;11;101
+r;12581257;142623;380045;11;102
+r;12621481;142623;370238;11;102
+r;12673171;142623;357436;11;102
+r;12676667;142623;356593;11;102
+r;12697773;142623;351386;11;102
+r;12716479;142623;346754;11;102
+r;13164900;142623;392273;11;102
+r;12566721;142623;383707;11;103
+r;12588677;142623;378300;11;103
+r;12695245;142623;352024;11;103
+r;12701975;142623;350323;11;103
+r;12728573;142623;343996;11;103
+r;12762165;142623;335878;11;103
+r;12631563;142623;367668;11;104
+r;12701981;142623;350322;11;104
+r;12706455;142623;349190;11;104
+r;12762097;142623;335894;11;104
+r;12660443;142623;360576;11;105
+r;12726299;142623;344557;11;105
+r;12728603;142623;343988;11;105
+r;12549737;142623;387909;11;106
+r;12671821;142623;357760;11;106
+r;12695659;142623;351919;11;106
+r;12697031;142623;351581;11;106
+r;12701263;142623;350490;11;106
+r;12728595;142623;343990;11;106
+r;12611035;142623;372778;11;107
+r;12716275;142623;346794;11;107
+r;12728599;142623;343989;11;107
+r;12769633;142623;334013;11;107
+r;12566699;142623;383712;11;108
+r;12715261;142623;347046;11;108
+r;12716473;142623;346755;11;108
+r;13164904;142623;392272;11;108
+r;12701985;142623;350321;11;109
+r;12728579;142623;343995;11;109
+r;12728591;142623;343991;11;109
+r;12739235;142623;341463;11;109
+r;12580813;142623;380160;11;110
+r;12661483;142623;360316;11;110
+r;12679221;142623;355980;11;110
+r;12746967;142623;339619;11;110
+r;11863499;142623;101009;11;121
+r;11849216;142623;285743;11;122
+r;11850333;142623;265653;11;122
+r;9086188;142623;322062;11;148
+r;8920920;142623;316539;11;151
+r;8920922;142623;316540;11;151
+r;8920924;142623;316541;11;151
+r;8920927;142623;316542;11;151
+r;8870753;142623;315696;11;154
+r;8825951;142623;314214;11;158
+r;8811830;142623;313654;11;160
+r;8630970;142623;167556;11;161
+r;8631702;142623;168557;11;161
+r;8631703;142623;168558;11;161
+r;8631704;142623;168559;11;161
+r;8631706;142623;168560;11;161
+r;8682870;142623;208986;11;161
+r;8691531;142623;219293;11;161
+r;8694626;142623;223901;11;161
+r;8705990;142623;239197;11;161
+r;8710750;142623;247266;11;161
+r;8711569;142623;248193;11;161
+r;8715018;142623;251400;11;161
+r;8715855;142623;252276;11;161
+r;8716176;142623;252576;11;161
+r;8717791;142623;253981;11;161
+r;8718453;142623;254433;11;161
+r;8718462;142623;254443;11;161
+r;8719609;142623;255290;11;161
+r;8721117;142623;256378;11;161
+r;8721304;142623;256497;11;161
+r;8724866;142623;258977;11;161
+r;8728327;142623;261613;11;161
+r;8729096;142623;262282;11;161
+r;8811325;142623;313186;11;161
+r;8811528;142623;313366;11;161
+r;8612351;142623;122772;11;162
+r;8625349;142623;157133;11;162
+r;8627540;142623;161606;11;162
+r;8627808;142623;162075;11;162
+r;8629085;142623;164557;11;162
+r;8632187;142623;169734;11;162
+r;8673059;142623;203123;11;162
+r;8681205;142623;208014;11;162
+r;8685283;142623;210478;11;162
+r;8687785;142623;212288;11;162
+r;8688436;142623;212960;11;162
+r;8690187;142623;216170;11;162
+r;8731242;142623;263866;11;162
+r;8755254;142623;287881;11;162
+r;8755674;142623;287882;11;162
+r;8755677;142623;287883;11;162
+r;8755680;142623;287884;11;162
+r;8755683;142623;287885;11;162
+r;8755686;142623;287886;11;162
+r;8763509;142623;296401;11;162
+r;8581542;142623;34845;11;163
+r;8599108;142623;85732;11;163
+r;8624327;142623;155156;11;163
+r;8636527;142623;180005;11;163
+r;8671439;142623;202130;11;163
+r;8676741;142623;205341;11;163
+r;8735737;142623;267833;11;163
+r;8741179;142623;273411;11;163
+r;8743797;142623;275811;11;163
+r;8743815;142623;275822;11;163
+r;8743980;142623;275950;11;163
+r;8750145;142623;282911;11;163
+r;8752635;142623;285463;11;163
+r;8755646;142623;287865;11;163
+r;8756077;142623;288198;11;163
+r;8758252;142623;290293;11;163
+r;8771274;142623;305070;11;163
+r;8771396;142623;305371;11;163
+r;8773833;142623;308118;11;163
+r;8579006;142623;27175;11;164
+r;8654306;142623;191787;11;164
+r;8663501;142623;197508;11;164
+r;8663658;142623;197608;11;164
+r;8663660;142623;197609;11;164
+r;8663662;142623;197610;11;164
+r;8663663;142623;197611;11;164
+r;8663665;142623;197612;11;164
+r;8663667;142623;197613;11;164
+r;8664915;142623;198338;11;164
+r;8771210;142623;309766;11;164
+r;8776829;142623;310912;11;164
+r;8777695;142623;311641;11;164
+r;8777827;142623;311726;11;164
+r;8777866;142623;311770;11;164
+r;8777980;142623;311849;11;164
+r;8778499;142623;312301;11;164
+r;8778501;142623;312303;11;164
+r;8778955;142623;312638;11;164
+r;8779286;142623;312898;11;164
+r;8779295;142623;312903;11;164
+r;8576725;142623;20705;11;165
+r;8664207;142623;197921;11;165
+r;8668560;142623;200483;11;165
+r;8571680;142623;5170;11;166
+r;8571980;142623;6062;11;168
+r;8573171;142623;9703;11;168

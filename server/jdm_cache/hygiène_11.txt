@@ -1,0 +1,244 @@
+
+e;12605;'hygiène';1;894
+e;6318311;'hygiène de sommeil inappropriée';1;0
+e;6318472;'hygiène de la peau';1;0
+e;6398542;'hygiène cutanée';1;0
+e;14454727;'comité d'hygiène et de sécurité';1;0
+e;14572251;'hygiène personnelle';1;0
+e;14609259;'masque d'hygiène';777;0
+e;14629107;'hygiène préventive';1;0
+e;16170673;'hygiène respiratoire';1;0
+e;6292387;'responsables en hygiène hospitalière';1;0
+e;6294380;'praticiens en hygiène hospitalière';1;0
+e;6311922;'mauvaise hygiène du sommeil';1;0
+e;14486348;'hygiène déplorable';1;2
+e;14510613;'mesures d'hygiène';1;190
+e;14540140;'conditions d'hygiène';1;0
+e;14566562;'hygiène élémentaire';1;118
+e;14566563;'hygiène rigoureuse';1;0
+e;14594412;'mesure d'hygiène élémentaire';1;0
+e;14594418;'mesure d'hygiène';1;128
+e;14753137;'mauvaise hygiène alimentaire';1;0
+e;6432022;'erreur d'hygiène de sommeil';1;0
+e;6432743;'appareils d'hygiène buccodentaire à usage domestique';1;0
+e;6424708;'hygiène personnelle très défectueuse';1;0
+e;10590102;'médaille de l'hygiène';777;0
+e;6442382;'produits d'hygiène liés à la menstruation';1;0
+e;6437351;'besoin d'assistance et de soins d'hygiène provoquant une dépendance envers la personne qui donne les soins';1;0
+e;15229436;'diplôme d'hygiène';1;0
+e;15561570;'conseil en hygiène et sécurité';1;0
+e;16327534;'bonne hygiène bucco-dentaire';1;0
+e;16327535;'bonne hygiène dentaire';1;0
+e;5818436;'hypothèse de l'hygiène';777;0
+e;5818147;'Institut de microbiologie et d'hygiène de Montréal';777;0
+e;5835690;'paquet hygiène';777;0
+e;15789460;'comité d'hygiène';1;0
+e;1830558;'comité d'hygiène, de sécurité et des conditions de travail';1;0
+e;5598513;'produit d'hygiène féminine';1;0
+e;5836909;'hygiène intime féminine';777;0
+e;6438956;'recommandation sur l'hygiène buccale';1;0
+e;1836009;'hygiène sociale';1;0
+e;1836007;'hygiène du travail';1;0
+e;1836006;'hygiène du milieu';1;0
+e;6438062;'dispensaires d'hygiène mentale';1;0
+e;1829878;'centre d'hygiène mentale';1;0
+e;1830719;'conseil supérieur d'hygiène publique de France';1;0
+e;1830713;'conseil départemental d'hygiène';1;0
+e;1836008;'hygiène hospitalière';1;0
+e;12048830;'appliquer des normes d'hygiène personnelle lors d'opérations de nettoyage';1;0
+e;12049032;'respecter les précautions d'hygiène et de sécurité dans les pratiques d'action sociale';1;0
+e;12049560;'bonne hygiène de vie';1;0
+e;6449851;'responsables d'hygiène en établissement de santé';1;0
+e;6444465;'dispositifs d'hygiène buccodentaire à usage domestique';1;0
+e;12048819;'législation sur la santé, la sécurité et l'hygiène';1;0
+e;12049691;'surveiller des procédures d'hygiène en milieu agricole';1;0
+e;12050415;'respecter les normes de santé sécurité et hygiène et les autres législations relatives aux aliments';1;0
+e;12051577;'respecter les normes d'hygiène personnelle';1;0
+e;5598511;'marque de produits d'hygiène féminine';1;0
+e;6432060;'problème d'hygiène';1;2
+e;12040828;'veiller à l'hygiène';1;0
+e;12051568;'mesures d'hygiène et de sécurité dans l'industrie du nettoyage';1;0
+e;12052352;'suivre des procédures en matière d'hygiène lors de la transformation de denrées alimentaires';1;0
+e;12051502;'hygiène et sécurité sur le lieu de travail';1;0
+e;6448978;'produits d'hygiène pour la menstruation';1;0
+e;6447423;'besoin d'assistance et de soins d'hygiène';1;0
+e;6433343;'dispositifs d'hygiène bucco-dentaire à usage domestique';1;0
+e;6432139;'enseignement sur l'hygiène';1;0
+e;7333444;'manquer d'hygiène';1;52
+e;13302268;'hygiène buccodentaire';1;0
+e;6433101;'produits d'hygiène liés aux règles';1;0
+e;11105066;'hygiène raciale';777;0
+e;5598512;'produits d'hygiène féminine';1;0
+e;6450327;'matériels d'hygiène buccodentaire à usage domestique';1;0
+e;5515503;'marque d'hygiène féminine';1;0
+e;9209814;'indice d'hygiène buccodentaire';1;0
+e;16072418;'Comité d'hygiène';1;0
+e;16072416;'Comité d'hygiène et de sécurité';1;0
+e;3319821;'hygiène des denrées alimentaires';1;0
+e;1701994;'hygiène irréprochable';1;0
+e;5059369;'hygiène féminine';1;0
+e;639898;'comités d'hygiène et de sécurité';777;0
+e;4302641;'mauvaise hygiène buccale';1;0
+e;3323747;'bonnes pratiques d'hygiène';1;0
+e;592726;'comité d'hygiène de sécurité et des conditions de travail';1;0
+e;1804882;'hygiène et sécurité du travail';1;0
+e;1844547;'service communal d'hygiène et santé';1;0
+e;358184;'hygiène industrielle';1;50
+e;380110;'soins d'hygiène';1;50
+e;373443;'produit d'hygiène';1;50
+e;358181;'hygiène individuelle';1;50
+e;358183;'hygiène veineuse';1;50
+e;358182;'hygiène scolaire';1;50
+e;358180;'hygiène capillaire';1;50
+e;358186;'hygiène vocale';1;50
+e;358185;'hygiène sexuelle';1;50
+e;258730;'pour l'hygiène';1;2
+e;163458;'la santé, l'hygiène et les maladies';1;50
+e;221369;'facteurs d'hygiène';1;50
+e;257571;'défaut d'hygiène';1;56
+e;257575;'manque d'hygiène';1;72
+e;258194;'règles d'hygiène élémentaires';1;50
+e;258195;'règles d'hygiène';1;52
+e;258196;'règle d'hygiène';1;50
+e;303284;'agent de propreté et d'hygiène';777;50
+e;137167;'c3:la santé, l'hygiène et les maladies';5;50
+e;231708;'hygiène bucco-dentaire';1;134
+e;234708;'hygiène de vie';1;106
+e;236640;'hygiène buccale';1;22
+e;237770;'hygiène dentaire';1;104
+e;238604;'hygiène intime';1;92
+e;243856;'hygiène mentale';1;2
+e;250290;'mauvaise hygiène';1;22
+e;253055;'hygiène corporelle';1;142
+e;253594;'commission hygiène et sécurité';1;50
+e;257762;'avoir une mauvaise hygiène';1;54
+e;257763;'avoir une bonne hygiène';1;18
+e;257764;'bonne hygiène';1;32
+e;257766;'hygiène douteuse';1;60
+e;258247;'hygiène du corps';1;4
+e;258473;'hygiène alimentaire';1;94
+e;261029;'hygiène et sécurité';1;2
+e;201965;'hygiène publique';1;50
+e;280449;'hygiène des mains';777;52
+e;311599;'hygiène des aliments';777;8
+r;299796236;12605;6318311;11;25
+r;299798985;12605;6318472;11;25
+r;319054304;12605;6398542;11;25
+r;366955284;12605;14454727;11;25
+r;370334142;12605;14572251;11;25
+r;371244586;12605;14609259;11;25
+r;371592306;12605;14629107;11;25
+r;424060866;12605;16170673;11;25
+r;298495118;12605;6292387;11;26
+r;298849038;12605;6294380;11;26
+r;299593357;12605;6311922;11;26
+r;368127618;12605;14486348;11;26
+r;368470880;12605;14510613;11;26
+r;369565751;12605;14540140;11;26
+r;370160096;12605;14566562;11;26
+r;370160110;12605;14566563;11;26
+r;370809178;12605;14594412;11;26
+r;370809242;12605;14594418;11;26
+r;375034622;12605;14753137;11;26
+r;122679607;12605;6432022;11;28
+r;122673118;12605;6432743;11;29
+r;122736805;12605;6424708;11;29
+r;264466311;12605;10590102;11;29
+r;121506697;12605;6442382;11;30
+r;121551751;12605;6437351;11;30
+r;419781212;12605;15229436;11;30
+r;419732645;12605;15561570;11;31
+r;434375702;12605;16327534;11;31
+r;434375711;12605;16327535;11;31
+r;113769769;12605;5818436;11;32
+r;113770629;12605;5818147;11;32
+r;114023853;12605;5835690;11;32
+r;410424312;12605;15789460;11;32
+r;29951099;12605;1830558;11;33
+r;110408138;12605;5598513;11;33
+r;114017964;12605;5836909;11;33
+r;121537316;12605;6438956;11;33
+r;30003677;12605;1836009;11;34
+r;30004575;12605;1836007;11;34
+r;30007062;12605;1836006;11;34
+r;121545410;12605;6438062;11;34
+r;29943931;12605;1829878;11;35
+r;29953559;12605;1830719;11;35
+r;29955044;12605;1830713;11;35
+r;30003780;12605;1836008;11;35
+r;313621824;12605;12048830;11;35
+r;313628700;12605;12049032;11;35
+r;313659470;12605;12049560;11;35
+r;121048888;12605;6449851;11;36
+r;121487864;12605;6444465;11;36
+r;313620890;12605;12048819;11;36
+r;313669842;12605;12049691;11;36
+r;313700104;12605;12050415;11;36
+r;313763153;12605;12051577;11;36
+r;110405002;12605;5598511;11;37
+r;122679283;12605;6432060;11;37
+r;313551926;12605;12040828;11;37
+r;313731147;12605;12051568;11;37
+r;313762141;12605;12052352;11;37
+r;313731961;12605;12051502;11;38
+r;121056829;12605;6448978;11;39
+r;121461481;12605;6447423;11;41
+r;122667695;12605;6433343;11;41
+r;122678600;12605;6432139;11;42
+r;124393600;12605;7333444;11;43
+r;338393537;12605;13302268;11;44
+r;122669879;12605;6433101;11;45
+r;281782175;12605;11105066;11;45
+r;110411317;12605;5598512;11;47
+r;121044475;12605;6450327;11;49
+r;108306849;12605;5515503;11;50
+r;209748628;12605;9209814;11;50
+r;418900400;12605;16072418;11;50
+r;418900404;12605;16072416;11;50
+r;83669547;12605;3319821;11;52
+r;28036675;12605;1701994;11;53
+r;105074408;12605;5059369;11;53
+r;18993118;12605;639898;11;56
+r;95935158;12605;4302641;11;56
+r;83796257;12605;3323747;11;58
+r;18594708;12605;592726;11;60
+r;29527520;12605;1804882;11;62
+r;29887499;12605;1844547;11;65
+r;12670061;12605;358184;11;101
+r;12581001;12605;380110;11;103
+r;12608265;12605;373443;11;104
+r;12670071;12605;358181;11;105
+r;12670065;12605;358183;11;106
+r;12670067;12605;358182;11;107
+r;12670075;12605;358180;11;107
+r;12670053;12605;358186;11;109
+r;12670057;12605;358185;11;110
+r;8881717;12605;258730;11;150
+r;8875412;12605;163458;11;151
+r;8879861;12605;221369;11;151
+r;8881615;12605;257571;11;151
+r;8881616;12605;257575;11;151
+r;8881669;12605;258194;11;151
+r;8881670;12605;258195;11;151
+r;8881671;12605;258196;11;151
+r;8885500;12605;303284;11;153
+r;8872871;12605;137167;11;154
+r;8700095;12605;231708;11;161
+r;8702259;12605;234708;11;161
+r;8704064;12605;236640;11;161
+r;8705003;12605;237770;11;161
+r;8705527;12605;238604;11;161
+r;8708310;12605;243856;11;161
+r;8713689;12605;250290;11;161
+r;8716692;12605;253055;11;161
+r;8717354;12605;253594;11;161
+r;8723108;12605;257762;11;161
+r;8723111;12605;257763;11;161
+r;8723113;12605;257764;11;161
+r;8723116;12605;257766;11;161
+r;8723761;12605;258247;11;161
+r;8724085;12605;258473;11;161
+r;8727715;12605;261029;11;161
+r;8671205;12605;201965;11;163
+r;8747852;12605;280449;11;163
+r;8777641;12605;311599;11;164

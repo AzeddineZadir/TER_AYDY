@@ -1,0 +1,18 @@
+
+e;428764;'sentait';1;50
+e;6321015;'se sentait malade';1;0
+e;6360579;'se sentait malade en général';1;0
+e;16358212;'elle ne se sentait pas dans son assiette';1;0
+e;15326770;'La pièce sentait le moisi.';1;0
+e;15300255;'Elle se sentait complètement impuissante.';1;0
+e;15290036;'Il se sentait détendu et en forme après ses vacances.';1;0
+e;15485255;'Il se sentait vivifié par l'air marin.';1;0
+e;93082;'il se sentait la femme de Dieu';1;50
+r;300089198;428764;6321015;11;26
+r;302097829;428764;6360579;11;26
+r;434387441;428764;16358212;11;29
+r;417032701;428764;15326770;11;44
+r;397500295;428764;15300255;11;50
+r;402109894;428764;15290036;11;50
+r;402109902;428764;15485255;11;50
+r;14308181;428764;93082;11;60

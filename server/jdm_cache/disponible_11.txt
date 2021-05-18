@@ -1,0 +1,88 @@
+
+e;100702;'disponible';1;80
+e;6374955;'prise en charge nécessitée par lit non disponible dans un autre établissement adéquat';1;0
+e;14434552;'langue disponible';1;0
+e;14454398;'absence de fonds disponible';1;0
+e;14609436;'oxygène disponible dans l'organisme';1;0
+e;14537074;'pas disponible';1;0
+e;10988076;'Nom non disponible';777;0
+e;15376119;'cours du disponible';1;0
+e;15688918;'disponible au verre';1;0
+e;15228355;'disponible en librairie';1;0
+e;15349375;'disponible en livre de poche';1;0
+e;15323202;'disponible en parapharmacie';1;0
+e;15272826;'disponible pour parler';1;0
+e;15688886;'disponible sur demande';1;0
+e;15443514;'disponible à compter du';1;0
+e;15429081;'disponible à partir du';1;0
+e;15688882;'disponible à tous';1;0
+e;15329602;'cash flow disponible';1;0
+e;15503078;'cash-flow disponible';1;0
+e;15361518;'actif disponible et réalisable';1;0
+e;15775845;'actif disponible à court terme';1;0
+e;15775846;'actif financier disponible à la vente';1;0
+e;15361517;'actif réalisable et disponible';1;0
+e;11065289;'avoir comme sens disponible';1;0
+e;15360516;'Le bouton Gestion des filtres n'est pas disponible en mode Avancé et les filtres ne peuvent donc pas être configurés sur les hôt';1;0
+e;5987938;'meilleure technique disponible';777;0
+e;10423599;'joueur disponible';777;0
+e;1748594;'A ne pas confondre avec la définition de revenu disponible suivant le code général des impôts';777;0
+e;4165834;'quotité disponible';1;0
+e;1277366;'énergie disponible';1;0
+e;1813584;'énergie potentielle de convection disponible';1;0
+e;386105;'valeur disponible';1;50
+e;341477;'capital disponible';1;50
+e;336270;'argent disponible';1;50
+e;333722;'actif disponible';1;50
+e;376497;'revenu disponible';1;50
+e;354639;'fonctionnaire disponible';1;50
+e;347717;'disponible dans le commerce';1;50
+e;239305;'être disponible';1;110
+e;246064;'se rendre disponible';1;50
+e;209668;'vente en disponible';1;50
+e;265527;'temps de cerveau disponible';1;70
+e;292516;'temps de cerveau humain disponible';777;50
+e;185010;'non disponible';1;50
+r;303471467;100702;6374955;11;25
+r;366522799;100702;14434552;11;25
+r;366937949;100702;14454398;11;25
+r;371244744;100702;14609436;11;25
+r;369390409;100702;14537074;11;26
+r;277416755;100702;10988076;11;29
+r;419747555;100702;15376119;11;30
+r;419784189;100702;15688918;11;30
+r;419784193;100702;15228355;11;30
+r;419784197;100702;15349375;11;30
+r;419784203;100702;15323202;11;30
+r;419784207;100702;15272826;11;30
+r;419784211;100702;15688886;11;30
+r;419784215;100702;15443514;11;30
+r;419784219;100702;15429081;11;30
+r;403354193;100702;15688882;11;31
+r;419688870;100702;15329602;11;32
+r;419688883;100702;15503078;11;32
+r;419574641;100702;15361518;11;34
+r;419574650;100702;15775845;11;34
+r;419574678;100702;15775846;11;34
+r;419574789;100702;15361517;11;34
+r;280494229;100702;11065289;11;35
+r;419490864;100702;15360516;11;36
+r;117879118;100702;5987938;11;37
+r;255384532;100702;10423599;11;41
+r;28767088;100702;1748594;11;56
+r;95157466;100702;4165834;11;57
+r;22774042;100702;1277366;11;59
+r;29601878;100702;1813584;11;60
+r;12556927;100702;386105;11;103
+r;12739175;100702;341477;11;103
+r;12760577;100702;336270;11;106
+r;12770743;100702;333722;11;107
+r;12595941;100702;376497;11;108
+r;12684617;100702;354639;11;108
+r;12712473;100702;347717;11;109
+r;8706055;100702;239305;11;160
+r;8709832;100702;246064;11;160
+r;8684033;100702;209668;11;162
+r;8733182;100702;265527;11;163
+r;8760267;100702;292516;11;163
+r;8644423;100702;185010;11;164

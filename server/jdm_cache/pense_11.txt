@@ -1,0 +1,54 @@
+
+e;408673;'pense';1;50
+e;14566576;'dire ce que l'on pense';1;0
+e;14566580;'dire ce qu'on pense';1;0
+e;10590266;'Chacun pense à soi';777;0
+e;9987228;'Je pense à vous';777;0
+e;15435236;'dire tout haut ce que tout le monde pense tout bas';1;0
+e;15411965;'dont on pense';1;0
+e;16325311;'Je pense souvent à eux.';1;0
+e;15790339;'Soyons réalistes, je ne pense pas que l'Écosse va gagner.';1;0
+e;15342109;'Moi-même, je pense que ...';1;0
+e;10046554;'C'est beau la vie quand on y pense';777;0
+e;11573886;'quelqu'un qui pense';1;0
+e;10133096;'Honni soit qui mal y pense';777;0
+e;2447440;'honi soit qui mal y pense';1;0
+e;5961307;'San-Antonio ne pense qu'à ça';777;0
+e;15484712;'Il ne pense qu'à la gaudriole.';1;0
+e;15668302;'Avec le recul, je pense que nous nous y serions pris autrement.';1;0
+e;15519817;'Elle ne pense à rien d'autre';1;0
+e;15543091;'Contrairement à ce que l'on pense à Londres, ...';1;0
+e;15319388;'Je pense honnêtement que nous pouvons gagner.';1;0
+e;15244147;'Je pense qu'il va geler ce soir.';1;0
+e;15780515;'Chacun pense à soi par Ortal';777;0
+e;15694656;'Je pense à mes vacances.';1;0
+e;2241373;'pense-bêtes';2;0
+e;302703;'C'est le soir que je pense ma vie';777;50
+e;39467;'pense-bête';1;74
+e;2571315;'honni soit qui mal y pense';1;0
+r;370160281;408673;14566576;11;26
+r;370160329;408673;14566580;11;26
+r;264465098;408673;10590266;11;29
+r;222151210;408673;9987228;11;30
+r;419782162;408673;15435236;11;30
+r;419793727;408673;15411965;11;30
+r;434345336;408673;16325311;11;34
+r;419548065;408673;15790339;11;34
+r;419508775;408673;15342109;11;35
+r;227588325;408673;10046554;11;39
+r;297605361;408673;11573886;11;40
+r;236690764;408673;10133096;11;41
+r;55398683;408673;2447440;11;44
+r;116575873;408673;5961307;11;44
+r;402108552;408673;15484712;11;50
+r;402673063;408673;15668302;11;50
+r;397848484;408673;15519817;11;50
+r;398504331;408673;15543091;11;50
+r;402273303;408673;15319388;11;50
+r;402273313;408673;15244147;11;50
+r;411714658;408673;15780515;11;50
+r;414592438;408673;15694656;11;50
+r;33109965;408673;2241373;11;56
+r;14235540;408673;302703;11;57
+r;14339667;408673;39467;11;58
+r;52442809;408673;2571315;11;58

@@ -1,0 +1,1482 @@
+
+e;130626;'premier';1;1496
+e;11003645;'pseudo-premier';777;0
+e;11356086;'premier-mars';777;0
+e;6290802;'première facette articulaire cunéiforme du premier métatarsien';1;0
+e;6336313;'hémorroïdes du premier degré';1;0
+e;6304460;'rameau dorsal du premier nerf cervical';1;0
+e;6306554;'corps du premier métacarpien';1;0
+e;6307101;'corps du premier métatarsien';1;0
+e;6316731;'spermatocytes du premier ordre';1;0
+e;6318666;'premier orteil';1;0
+e;6319390;'première facette métatarsienne du premier cunéiforme';1;0
+e;6323399;'brûlures du premier degré';1;0
+e;6327886;'premier officier mécanicien de navire';1;0
+e;6334028;'premier arc aortique droit';1;0
+e;6351767;'premier stade d'une chirurgie en plusieurs temps';1;0
+e;6365610;'personnes en quête de leur premier emploi';1;0
+e;6366149;'premier arc branchial';1;0
+e;6365531;'brûlures multiples au premier degré du poignet et de la main';1;0
+e;6368941;'brûlures multiples au premier degré du tronc';1;0
+e;6374228;'lésions du premier nerf crânien';1;0
+e;6383467;'brûlures multiples au premier degré du membre supérieur';1;0
+e;6387374;'index de pression systolique au premier orteil';1;0
+e;6390607;'hémorroïdes de premier degré';1;0
+e;6373006;'premier arc aortique';1;0
+e;6370824;'piliers de premier ordre';1;0
+e;6284274;'ventriculographie radioisotopique de premier passage';1;0
+e;13630421;'premier roi de Norvège';777;0
+e;13639002;'premier duc de Ciudad Rodrigo';777;0
+e;6302898;'coup de soleil du premier degré';1;0
+e;6378019;'épisode de soins au cours de la grossesse non précisé déchirure du périnée du premier degré';1;0
+e;6289250;'enseignement médical premier cycle';1;0
+e;14475037;'Le premier des deux chiffres';777;0
+e;13884280;'premier pont de Plougastel';777;0
+e;13989399;'domaine de premier niveau national internationalisé';777;0
+e;13989402;'domaine de premier niveau parrainé';777;0
+e;14108820;'premier président de la cour d'appel de Paris';777;0
+e;14163559;'l'ensemble des énoncés universellement valides du calcul des prédicats du premier ordre est-il décidable';777;0
+e;14318767;'premier gouvernement Hariri';777;0
+e;14452674;'jugement en premier ressort';1;0
+e;14452645;'premier président de la cour d'appel';1;0
+e;14452473;'juridiction du premier degré';1;0
+e;14485318;'bataille du premier contact';777;0
+e;14547997;'premier lauréat';777;0
+e;14557648;'premier bord';1;0
+e;14558999;'Le premier panneau';777;0
+e;14567713;'premier temps scratch';777;0
+e;14573755;'quintuplet premier';777;0
+e;14573754;'quadruplet premier';777;0
+e;14573753;'triplet premier';777;0
+e;14609243;'premier Moyen Âge';777;0
+e;14626932;'premier modèle';1;0
+e;14636523;'premier consul';1;0
+e;14656596;'premier cheveu blanc';1;52
+e;14669503;'non-premier';777;0
+e;14721220;'premier vol habité';777;0
+e;14726652;'Le premier pont';777;0
+e;14757568;'Variante du premier cas';777;0
+e;6386414;'anomalie du premier bruit du coeur';1;0
+e;14884163;'enveloppes premier jour';777;0
+e;14917308;'premier ministre britannique';1;0
+e;15195153;'ses faits et gestes le premier juillet de l'année dernière';1;0
+e;6301111;'déchirure du périnée du premier degré postpartum';1;0
+e;6417276;'brûlure du premier degré de la cheville et du pied';1;0
+e;15884891;'premier maître de 1re classe';777;0
+e;16103962;'premier temple de Dioné';777;0
+e;16154119;'premier romantisme allemand';777;0
+e;16155192;'premier lanceur européen';777;0
+e;16159502;'premier Congrès National des élus au numérique le 29 janvier 2019';777;0
+e;16307562;'premier moment';777;0
+e;16307748;'premier point de Vecten';777;0
+e;16307743;'premier point isogonique';777;0
+e;16314446;'premier live CD';777;0
+e;16573267;'Le premier va-t-il vraiment à la vitesse de la lumière par rapport au photon qui le suit';777;0
+e;6303106;'deuxième facette articulaire métatarsienne du premier métatarsien';1;0
+e;6341301;'brûlures multiples au premier degré de localisations précisées';1;0
+e;6374895;'premier métacarpien';1;0
+e;6393460;'Études médicales premier cycle';1;0
+e;6396436;'premier métatarsien';1;0
+e;6404140;'premier arc aortique gauche';1;0
+e;6417682;'deuxième facette métatarsienne du premier cunéiforme';1;0
+e;12197398;'premier siège de Constantinople par les Arabes';777;0
+e;12980747;'Éliminé au premier tour';777;0
+e;6413199;'syndrome de premier usage';1;0
+e;14319295;'premier épisode';1;0
+e;14322019;'premier tome';1;0
+e;14530426;'premier mercredi du mois';1;0
+e;14536472;'premier travail';1;10
+e;14536475;'premier boulot';1;0
+e;14557809;'être premier';1;40
+e;14566509;'premier poste';1;30
+e;14571144;'premier époux';1;0
+e;14571145;'d'un premier lit';1;0
+e;14584112;'premier contrat';1;2
+e;14670842;'premier essai';1;44
+e;14679329;'premier job';1;8
+e;14716860;'premier salaire';1;18
+e;14720184;'enseigner dans le premier degré';1;80
+e;14724047;'vêtement premier âge';1;12
+e;14724048;'vêtements premier âge';1;0
+e;14727850;'premier prix de littérature';1;0
+e;14727851;'premier prix de version latine';1;0
+e;15018497;'Pour le premier point';777;0
+e;16087350;'premier jouet';1;0
+e;16170695;'premier décès';1;0
+e;5794351;'premier congrès international de la langue catalane';777;0
+e;6424602;'tête du premier métatarsien';1;0
+e;10672879;'premier front balte';777;0
+e;10675196;'ordre impérial de Saint-André Apôtre le premier nommé';777;0
+e;10673325;'article premier';777;0
+e;6368808;'premier épisode de crises';1;0
+e;16567381;'Annonce publique de la formation du premier gouvernement provisoire';777;0
+e;6087324;'vice-président placé auprès du premier président de la cour d'appel';777;0
+e;6087321;'juge placé auprès du premier président d'une cour d'appel';777;0
+e;10877986;'premier album éponyme';777;0
+e;10876330;'premier rang du classement des nations';777;0
+e;10985345;'premier amalgame';777;0
+e;10987278;'premier peuplement de l'Amérique';777;0
+e;10986600;'unités administrative locale de premier niveau';777;0
+e;11770222;'premier régiment de fusiliers marins';777;0
+e;13518091;'premier ministre français';1;0
+e;2413395;'premier-ministrer';1;0
+e;6438681;'premier rameau postérolatéral droit de l'artère interventriculaire postérieure';1;0
+e;6426509;'ostéotomie pour correction rotatoire de la phalange proximale du premier orteil';1;0
+e;9957158;'premier concile du Latran';777;0
+e;9959603;'premier empire colonial français';777;0
+e;9991509;'premier temple de Jérusalem';777;0
+e;10590174;'un premier amour';777;0
+e;10590171;'Un premier amour par Isabelle Aubret';777;0
+e;10905310;'premier chemin de fer transcontinental';777;0
+e;10902993;'Instructeur au premier but';777;0
+e;10902922;'premier élargissement de la Communauté économique européenne';777;0
+e;11771074;'premier gouvernement René Pleven';777;0
+e;11771077;'premier gouvernement Robert Schuman';777;0
+e;11771170;'premier gouvernement Henri Queuille';777;0
+e;15195799;'dans le premier cas';1;0
+e;15352416;'de premier prix';1;0
+e;15290936;'de premier rang';1;0
+e;15195801;'depuis le premier jour';1;0
+e;15582348;'depuis le tout premier jour';1;0
+e;15333787;'diviseur premier';1;0
+e;15384159;'du lait premier âge';1;0
+e;15388824;'du premier';1;0
+e;15243673;'du premier degré';1;0
+e;15388826;'du premier entrant';1;0
+e;15384607;'du premier jusqu'au dernier jour';1;0
+e;15346127;'du premier tour';1;0
+e;16043365;'dès le premier moment';1;0
+e;15246951;'délinquant premier';1;0
+e;15411661;'en premier et dernier ressort';1;0
+e;15403006;'en tout premier lieu';1;0
+e;4231912;'semi-premier';1;0
+e;6443246;'brûlure au premier degré de l'aisselle';1;0
+e;9984236;'César du meilleur premier film';777;0
+e;9980220;'connaître le premier mot de qqch';1;0
+e;10007379;'Premier au moulin premier au grain';777;0
+e;9995841;'premier concile de Braga';777;0
+e;10578477;'premier gouvernement Pierre Mauroy';777;0
+e;10578343;'premier gouvernement de Jacques Chirac';777;0
+e;10578341;'premier gouvernement Raymond Barre';777;0
+e;10578337;'premier gouvernement Michel Rocard';777;0
+e;10971683;'Bavarois et de leur premier duché';777;0
+e;15447828;'chirurgien de premier ordre';1;0
+e;16105383;'c'est le premier pas qui compte';1;0
+e;5873192;'Le premier envol';777;0
+e;6423653;'premier bruit du coeur anormal';1;0
+e;10027963;'tomber du premier étage';1;0
+e;10026511;'chronologie de la Révolution française et du premier Empire';777;0
+e;10584941;'Prix Lumières du meilleur premier film';777;0
+e;10584942;'Prix Heike Hurst du meilleur premier film';777;0
+e;10734215;'premier ministre de l'Ossétie du Sud';777;0
+e;10869392;'premier gouvernement Charles de Gaulle';777;0
+e;10871846;'premier principe';1;14
+e;10921674;'premier gouvernement de Croatie';777;0
+e;10921493;'prix du premier roman de l'université d'Artois';777;0
+e;10992062;'Attestation scolaire de sécurité routière de premier niveau';777;0
+e;11354690;'premier congrès de Paris';777;0
+e;11353728;'parti du peuple en premier';777;0
+e;11359206;'premier arbitrage de Vienne';777;0
+e;11359469;'premier mai';777;0
+e;11359486;'premier incident de Shanghai';777;0
+e;11783595;'le premier timbre-poste émis en France';777;0
+e;11806356;'premier vice-président';777;0
+e;11911048;'premier combat de Ténenkou';777;0
+e;11994739;'principe premier';777;0
+e;15379944;'au premier coup d'oeil';1;0
+e;15227408;'au premier acte';1;0
+e;15420615;'au premier coup d'?il';1;0
+e;15274339;'au premier poteau';1;0
+e;15290923;'au premier rang';1;0
+e;15219785;'au premier semestre';1;0
+e;15206615;'au premier tour';1;0
+e;15206618;'au premier étage';1;0
+e;15362519;'avoir une tête de premier de la classe';1;0
+e;15397390;'bloc auriculo-ventriculaire du premier degré';1;0
+e;15353126;'bronche de premier ordre';1;0
+e;15360395;'bronches de premier ordre';1;0
+e;15397391;'br¹lure du premier degré';1;0
+e;13802846;'brûlure au premier degré de l'attache gingivo-mandibulaire';1;0
+e;13779493;'brûlure au premier degré de l'attache gingivo-maxillaire';1;0
+e;15389810;'cabinet du premier ministre';1;0
+e;15353369;'candidat de premier plan';1;0
+e;15207532;'carie dentaire du premier degré';1;0
+e;15587282;'centre au premier poteau';1;0
+e;15587272;'centrer au premier poteau';1;0
+e;5563783;'premier prince du sang';777;0
+e;5836210;'gestes de premier secours';777;0
+e;10956056;'prix Jeune Mousquetaire du premier roman';777;0
+e;10741973;'premier âge du fer';777;0
+e;10956021;'premier gouvernement Gaston Doumergue';777;0
+e;11064679;'premier théorème d'incomplétude';777;0
+e;11348578;'premier interroi';777;0
+e;11355129;'premier traité d'Asti';777;0
+e;11788264;'premier ministre de France';777;0
+e;12087596;'le premier producteur d'huile d'olive du monde';777;0
+e;15397387;'apparenté du premier degré';1;0
+e;15397388;'apparentés du premier degré';1;0
+e;15352430;'article de premier prix';1;0
+e;15521251;'assourdissement du premier bruit';1;0
+e;16340414;'Une rémunération dès le premier jour du stage de plus de 2 mois';777;0
+e;6067894;'premier secours évacuation';777;0
+e;6425569;'corrosion du premier degré de la tête et du cou';1;0
+e;7997290;'coucher le premier soir';1;0
+e;10833873;'prix du premier roman';777;0
+e;10994451;'premier ministère du règne de Louis-Philippe Ier';777;0
+e;11926278;'premier ravage du Palatinat';777;0
+e;15367714;'Notre premier single est beaucoup passé à la radio.';1;0
+e;15904142;'Que chescun deulx en son an me tiendraDont sainct Bonnet le premier obtiendra';777;0
+e;15389517;'accorder une place de premier plan à qch';1;0
+e;15352278;'acteur de premier plan';1;0
+e;15647110;'action de premier ordre';1;0
+e;1831555;'condition de premier défaut';1;0
+e;1837430;'kyste du premier arc';1;0
+e;5980121;'premier massacre de Cana';777;0
+e;6437745;'prolapsus de l'utérus du premier degré';1;0
+e;6427020;'facette naviculaire du premier cunéiforme';1;0
+e;10311610;'premier ministre du Québec';777;0
+e;10842743;'nombre premier de Ramanujan';777;0
+e;10867519;'premier gouvernement René Viviani';777;0
+e;10867509;'premier gouvernement Alexandre Millerand';777;0
+e;10867506;'premier gouvernement Édouard Daladier';777;0
+e;10867499;'premier gouvernement d'Albert Sarraut';777;0
+e;10933477;'Un premier amour';777;0
+e;10933347;'premier gouvernement';777;0
+e;11021875;'premier gouvernement Odilon Barrot';777;0
+e;11455839;'premier avion électrique au monde';777;0
+e;12078453;'dernier entré, premier sorti';1;0
+e;12078268;'cousin au premier degré';1;0
+e;12301832;'effet de premier passage';777;0
+e;12881972;'premier vol homologué d'un appareil autopropulsé plus lourd que l'air';777;0
+e;13120135;'premier muscle lombrical de la main';1;0
+e;15688938;'Livre premier';777;0
+e;15276579;'Mon premier instinct fut de démissionner.';1;0
+e;16492217;'L'être-premier';777;0
+e;5562502;'premier stade de la vie d'un individu';1;0
+e;6445318;'premier rameau septal perforant de la branche descendante antérieure de l'artère coronaire gauche';1;0
+e;10314122;'premier gouvernement de Robert Bourassa';777;0
+e;10831830;'premier gouvernement Soro';777;0
+e;10316285;'premier gouvernement François Fillon';777;0
+e;10316349;'premier gouvernement Jean-Marc Ayrault';777;0
+e;10313292;'premier gouvernement d'Adélard Godbout';777;0
+e;10313267;'premier gouvernement de Maurice Duplessis';777;0
+e;10831850;'premier gouvernement Amadou Gon Coulibaly';777;0
+e;10747849;'premier traité de Guérande';777;0
+e;10823163;'Prix du meilleur premier film de la Berlinale';777;0
+e;11344025;'premier gouvernement de la République démocratique allemande';777;0
+e;11344018;'premier cabinet Brüning';777;0
+e;11344013;'premier cabinet Luther';777;0
+e;11344011;'premier cabinet Marx';777;0
+e;11344009;'premier cabinet Stresemann';777;0
+e;11344006;'premier cabinet Wirth';777;0
+e;11344004;'premier gouvernement Müller';777;0
+e;11454051;'premier groupe d'homotopie';777;0
+e;12007939;'meilleur premier roman';777;0
+e;12289014;'premier siège';777;0
+e;12007928;'Prix Locus du meilleur premier roman';777;0
+e;12005818;'premier congrès des peuples d'orient';777;0
+e;12006395;'premier front biélorusse';777;0
+e;12006396;'premier front de Biélorussie';777;0
+e;12080921;'premier cité';1;0
+e;12080920;'premier accessit';1;0
+e;12080193;'nombre premier jumeau';1;0
+e;16087408;'Membres du premier conseil d'administration de 1852';777;0
+e;15775686;'Le Continent premier - Au-delà des montagnes';777;0
+e;5711542;'Certification de sécurité de premier niveau';777;0
+e;6446570;'déchirure du périnée du premier degré pendant l'accouchement';1;0
+e;6430909;'tumeur maligne du premier cunéiforme';1;0
+e;6427636;'deuxième facette cunéiforme du premier cunéiforme';1;0
+e;10077814;'Vice-premier';1;0
+e;10775556;'premier vice-président du gouvernement russe';777;0
+e;10848030;'premier Black Talon';777;0
+e;11256469;'prix Goncourt du premier roman';777;0
+e;11362827;'premier ministre du Nunavut';777;0
+e;11394359;'certification de sécurité de premier niveau';777;0
+e;11416026;'prix Senghor du premier roman francophone et francophile';777;0
+e;11933780;'premier président du parlement de Paris';777;0
+e;5801764;'premier vignoble professionnel Wallon';777;0
+e;6533693;'diaphyse du premier métatarsien';1;0
+e;9942492;'premier partage de la Pologne';777;0
+e;10056432;'Prix Gémeau du meilleur premier rôle masculin';777;0
+e;10750165;'premier Match des étoiles de la Ligue nationale de hockey';777;0
+e;10749520;'premier jour';777;0
+e;10847870;'premier championnat du monde de hockey sur glace féminin';777;0
+e;11233800;'premier front ukrainien';777;0
+e;11290823;'premier amendement de la Constitution des États-Unis d'Amérique';777;0
+e;11295787;'premier titulaire';777;0
+e;11836492;'premier combat de Boom';777;0
+e;11836500;'premier combat de Diest';777;0
+e;5893293;'percolation de premier passage';777;0
+e;7809347;'premier jour de mai';1;0
+e;10062654;'premier ministre du Manitoba';777;0
+e;10384369;'premier gouvernement Alain Juppé';777;0
+e;10592740;'Un premier rendez-vous manqué';777;0
+e;2385954;'premier poteau';1;0
+e;5896805;'Le premier planétarium';777;0
+e;10064228;'Mon premier amour';777;0
+e;10515655;'premier concile de Constantinople';777;0
+e;10515497;'premier livre des Maccabées';777;0
+e;10555107;'Festival du premier film francophone de La Ciotat';777;0
+e;10763474;'premier gouvernement Édouard Philippe';777;0
+e;10763471;'premier gouvernement Jean-Pierre Raffarin';777;0
+e;10763467;'premier gouvernement Pierre Messmer';777;0
+e;10763461;'premier gouvernement Georges Pompidou';777;0
+e;11003643;'nombre d'Eisenstein premier';777;0
+e;11003641;'plus grand nombre premier connu';777;0
+e;11003639;'méga-nombre premier';777;0
+e;11003616;'nombre premier palindrome';777;0
+e;11003564;'nombre premier de Gauss';777;0
+e;11003540;'nombre premier pythagoricien';777;0
+e;11011950;'premier concile de Mâcon';777;0
+e;11250837;'principe du premier réviseur';777;0
+e;11237683;'dirigeant de premier plan';1;0
+e;11250507;'premier mode';777;0
+e;11250840;'Principe du premier réviseur';777;0
+e;11334733;'premier gouvernement Joseph Laniel';777;0
+e;2395258;'peuple premier';1;0
+e;6441782;'premier rameau marginal obtus de l'artère auriculoventriculaire';1;0
+e;6434365;'premier degré d'incoordination utérine';1;0
+e;10069572;'Jamais le premier soir';777;0
+e;10458862;'En route vers mon premier gala Juste pour Rire';777;0
+e;10514233;'premier gouvernement André Tardieu';777;0
+e;10514181;'premier gouvernement Camille Chautemps';777;0
+e;10516010;'Inscriptions en premier cycle';777;0
+e;10516006;'Inscription du premier cycle';777;0
+e;10548496;'premier dimanche de l'Avent';777;0
+e;11003382;'nombre premier de Sophie Germain';777;0
+e;11003537;'nombre premier primoriel';777;0
+e;11003539;'nombre premier de Pythagore';777;0
+e;11003589;'nombre premier illégal';777;0
+e;11003541;'premier quatrain';777;0
+e;11003582;'bon nombre premier';777;0
+e;11003609;'nombre premier supersingulier';777;0
+e;11003573;'nombre premier de Wagstaff';777;0
+e;11003610;'nombre premier de Wall-Sun-Sun';777;0
+e;11003620;'nombre premier permutable';777;0
+e;11003644;'nombre premier d'Eisenstein';777;0
+e;11003646;'k-presque premier';777;0
+e;11003614;'nombre premier de Wilson';777;0
+e;11003536;'nombre premier factoriel';777;0
+e;11003623;'nombre premier minimal';777;0
+e;11003638;'premier gigantesque';777;0
+e;11003627;'nombre premier de Chen';777;0
+e;11003650;'nombre premier probable';777;0
+e;11003611;'nombre premier de Wieferich';777;0
+e;11003637;'nombre premier titanesque';777;0
+e;11003584;'nombre premier chanceux';777;0
+e;11003591;'nombre premier de Stern';777;0
+e;11003615;'nombre premier de Wolstenholme';777;0
+e;11003628;'nombre premier équilibré';777;0
+e;11003621;'nombre premier circulaire';777;0
+e;11003587;'nombre premier de Higgs';777;0
+e;11003590;'nombre premier de Pillai';777;0
+e;11003624;'nombre premier long';777;0
+e;11160905;'premier gouvernement Maurice Rouvier';777;0
+e;11160895;'premier gouvernement Charles de Freycinet';777;0
+e;11182282;'article premier de la Constitution de la Belgique';777;0
+e;11557673;'spectre premier d'un anneau';777;0
+e;11560861;'premier concile oecuménique du Vatican';777;0
+e;11970871;'premier président de la Cour des comptes';777;0
+e;2393165;'premier ministrable';1;0
+e;2399138;'premier du nom';1;0
+e;2400073;'au premier jour';1;0
+e;4145819;'bi-premier';1;0
+e;6449368;'menace d'avortement au cours du premier trimestre';1;0
+e;6444425;'premier rameau postérolatéral gauche de l'artère auriculoventriculaire';1;0
+e;10099686;'premier gouvernement May';777;0
+e;10185868;'Comment épouser un premier ministre';777;0
+e;10514155;'premier gouvernement Blum';777;0
+e;10514110;'premier gouvernement Pierre Laval';777;0
+e;11003388;'nombre premier cubain';777;0
+e;11003576;'nombre premier de Fibonacci';777;0
+e;11104210;'premier État saoudien';777;0
+e;11160906;'premier gouvernement Pierre Tirard';777;0
+e;11160882;'premier gouvernement Albert de Broglie';777;0
+e;11160839;'premier ministère d'Armand-Emmanuel du Plessis de Richelieu';777;0
+e;11160902;'premier gouvernement Henri Brisson';777;0
+e;11160871;'premier gouvernement Louis-Napoléon Bonaparte';777;0
+e;11160879;'premier gouvernement Jules Dufaure';777;0
+e;11160856;'premier ministère Molé';777;0
+e;11160911;'premier gouvernement Alexandre Ribot';777;0
+e;11160896;'premier gouvernement Jules Ferry';777;0
+e;11160850;'premier ministère Soult';777;0
+e;11160913;'premier gouvernement Charles Dupuy';777;0
+e;11160930;'premier gouvernement Raymond Poincaré';777;0
+e;11160855;'premier ministère Thiers';777;0
+e;11221882;'premier gouvernement Paul Ramadier';777;0
+e;11221872;'premier gouvernement Édouard Herriot';777;0
+e;12789830;'premier salon de l'automobile';777;0
+e;16073360;'Jugement en premier ressort';1;0
+e;16073378;'Juridiction du premier degré';1;0
+e;5686675;'premier réseau culturel mondial';777;0
+e;10177617;'médaille d'honneur de l'enseignement du premier degré';777;0
+e;11103623;'premier cycle de la série télévisée Pokémon';777;0
+e;11154940;'idéal premier';777;0
+e;11173124;'premier monde';777;0
+e;11179219;'Magritte du premier film';777;0
+e;13198650;'première année du premier cycle des études de médecine';777;0
+e;16385077;'Candidat arrivé en second au premier tour par département';777;0
+e;16385076;'Candidat arrivé en tête au premier tour par département';777;0
+e;1840579;'ovocyte de premier ordre';1;0
+e;2447820;'premier nez';1;0
+e;5554154;'premier théorème de Poncelet';777;0
+e;6010882;'premier point de Brocard';777;0
+e;6444884;'brûlure au premier degré de l'avant-bras';1;0
+e;6563297;'premier stade';1;0
+e;10160391;'Les Suites d'un premier lit';777;0
+e;6540806;'vascularisation du premier os métacarpien droit';1;0
+e;6536939;'métaphyse du premier métatarsien droit';1;0
+e;6536928;'métaphyse du premier métatarsien';1;0
+e;6536900;'métaphyse du premier métacarpien droit';1;0
+e;10142857;'Django tire le premier';777;0
+e;11158706;'premier gouvernement Staaff';777;0
+e;6536940;'métaphyse du premier métatarsien gauche';1;0
+e;10436478;'premier gouvernement du travailliste Kevin Rudd';777;0
+e;12080922;'premier entré, premier sorti';1;0
+e;6533678;'diaphyse du premier métacarpien';1;0
+e;5554130;'premier théorème de Noether';777;0
+e;10438842;'Prix Gémeau du meilleur premier rôle féminin';777;0
+e;10436668;'premier album';777;0
+e;6450736;'brûlure au premier degré de l'épaule';1;0
+e;2366107;'il n'y a que le premier pas qui coute';1;0
+e;15486924;'1000 livres en guise de premier prix';1;0
+e;8878755;'liste des domaines de premier niveau';777;0
+e;8879856;'premier rapport sexuel';1;0
+e;8888587;'premier Enterprise';777;0
+e;8956593;'premier concile bouddhique';777;0
+e;9252298;'premier dimanche du Carême';777;0
+e;9526050;'levier du premier genre';777;0
+e;9532133;'fracture extra-articulaire de la base du premier métacarpien';1;0
+e;9661577;'premier Aries';777;0
+e;9677124;'premier os métacarpien gauche';1;0
+e;9677123;'premier os métacarpien droit';1;0
+e;9677122;'premier os métacarpien';1;0
+e;11003648;'2-presque premier';777;0
+e;11107960;'premier millénair';777;0
+e;11118405;'premier gouvernement Habib Bourguiba';777;0
+e;11130089;'premier rang';777;0
+e;11454952;'Festival du premier roman de Chambéry-Savoie';777;0
+e;12617035;'premier acte';1;0
+e;12675641;'premier exportateur mondial';1;0
+e;12710623;'premier gouvernement du maréchal Soult';777;0
+e;12729128;'premier attentat de Nyanya';777;0
+e;12727160;'en premier chef';1;0
+e;14130920;'Chronologie de la France sous le premier Empire';777;0
+e;14572286;'Chapitre premier';777;0
+e;15238866;'Hammond fut le premier lièvre.';1;0
+e;15388505;'Il réussi à soutirer des places au premier rang pour le concert.';1;0
+e;15587285;'Il est redescendu au premier étage.';1;0
+e;15491874;'Il est remonté au premier étage.';1;0
+e;15271801;'Il a gagné le premier set.';1;0
+e;15429795;'Il n'y a que le premier pas qui coûte';1;0
+e;15352428;'Il a obtenu le premier prix.';1;0
+e;15271324;'Il a été le premier à les filmer.';1;0
+e;15787685;'Brevet d'études du premier cycle du second degré';777;0
+e;16219288;'Caractéristiques du premier modèle';777;0
+e;16357832;'Après un premier diplôme du métier';777;0
+e;1076987;'long fléchisseur propre du premier doigt';777;0
+e;2326057;'vice-premier';1;0
+e;2554732;'premier vertical';1;0
+e;3183648;'être au premier plan';1;0
+e;3228626;'base du premier métacarpien';1;0
+e;5526498;'revue premier article';777;0
+e;6541004;'vascularisation du premier os métacarpien gauche';1;0
+e;6539981;'vascularisation du premier os métacarpien';1;0
+e;6536894;'diaphyse du premier métacarpien gauche';1;0
+e;461063;'domaine de premier niveau national';777;50
+e;2858996;'premier mois de l'année';1;0
+e;3364593;'mon premier gâteau d'anniversaire';1;0
+e;2545495;'manger son pain blanc le premier';1;0
+e;2823626;'domaine de premier niveau générique';777;0
+e;3571011;'premier niveau';1;0
+e;5305925;'arriver premier';1;0
+e;1483283;'le tout premier';1;0
+e;1526037;'au premier degré';1;0
+e;1820942;'muscle premier radial externe';1;0
+e;2537910;'le premier mouvement est toujours le bon';1;0
+e;3232613;'premier croissant';777;0
+e;5526497;'contrôle premier article';777;0
+e;4314604;'premier contact';1;4
+e;6539767;'vascularisation des parties osseuses du premier os métacarpien droit';1;0
+e;1483285;'premier doigt';1;0
+e;1804599;'alarme de premier défaut';1;0
+e;1914838;'premier cartilage costal';1;0
+e;2533150;'se croire le premier moutardier du pape';1;0
+e;6540154;'vascularisation des parties osseuses du premier os métacarpien gauche';1;0
+e;6536914;'diaphyse du premier métatarsien gauche';1;0
+e;460080;'premier ou moyen adducteur';1;50
+e;1781369;'études de premier cycle';1;0
+e;1844845;'soins de premier recours';1;0
+e;2542540;'tout le premier';1;0
+e;3192852;'premier-ministré';1;0
+e;4312645;'échographie au premier trimestre de la grossesse';1;0
+e;1112702;'Tout ce qu'on peut apprendre d'une femme au premier regard';777;0
+e;1483282;'le premier venu';1;0
+e;1483287;'premier coup d'oeil';1;0
+e;1773381;'être le premier touché par';1;0
+e;1831249;'premier-cunéïforme';1;0
+e;1903873;'premier achat immobilier';1;0
+e;1970598;'premier rayon';1;0
+e;2556287;'banque de premier rang';1;0
+e;3902079;'premier orthant';1;0
+e;460079;'premier cunéiforme';1;50
+e;2516259;'meurtre au premier degré';1;0
+e;6536901;'métaphyse du premier métacarpien gauche';1;0
+e;566235;'argent premier titre';777;50
+e;1483284;'premier arrivé, premier servi';1;0
+e;1842135;'premier nerf lombaire de Haller';1;0
+e;2587873;'premier moteur';777;0
+e;4207737;'premier flic de France';1;0
+e;4048277;'premier quadrant';1;0
+e;4324346;'premier mandat';1;0
+e;6536899;'métaphyse du premier métacarpien';1;0
+e;1846875;'tubérosité du premier os métatarsien';1;0
+e;3174577;'Au premier regard';777;0
+e;1852330;'syndrome du premier arc';1;0
+e;1842133;'syndrome du premier arc branchial';1;0
+e;1844718;'premier sillon orbitaire';1;0
+e;393774;'premier secrétaire du Parti socialiste';777;50
+e;372778;'premier de classe';1;66
+e;372731;'premier tour des élections présidentielles';1;50
+e;372720;'premier quartier de lune';1;50
+e;372711;'premier chanteur';1;50
+e;369778;'personnalité de premier plan';1;50
+e;355850;'ganglion premier thoracique';1;50
+e;348545;'du premier jet';1;50
+e;346897;'de tout premier plan';1;50
+e;345061;'coût premier';1;50
+e;340495;'brûlure du premier degré';1;50
+e;383157;'temps premier';1;50
+e;380994;'spermatocyte de premier ordre';1;50
+e;372729;'premier tour de table';1;50
+e;372718;'premier parti';1;50
+e;372710;'premier balcon';1;50
+e;351989;'enseignant de premier cycle';1;50
+e;347499;'diplôme de premier cycle';1;50
+e;345992;'d'un premier pressage';1;50
+e;337458;'au premier acte de';1;50
+e;372730;'premier tour des élections législatives';1;50
+e;372721;'premier résultat';1;50
+e;372709;'premier au classement général';1;50
+e;370288;'physique de jeune premier';1;52
+e;369034;'pas le premier à';1;50
+e;390560;'étudiant de premier cycle';1;50
+e;384680;'transition de phase du premier ordre';1;50
+e;372748;'premier adjoint au maire';1;50
+e;372732;'premier trimestre';1;54
+e;372717;'premier occupant';1;50
+e;347506;'diplômé de premier cycle';1;50
+e;372734;'premier échelon';1;50
+e;372722;'premier secrétaire fédéral';1;50
+e;372713;'premier coup de pioche';1;50
+e;366863;'objectif premier';1;50
+e;337461;'au premier rang de';1;50
+e;337460;'au premier niveau';1;50
+e;389009;'à un premier niveau';1;50
+e;388749;'à le premier niveau de';1;50
+e;372774;'premier à l'école';1;50
+e;372719;'premier président';1;50
+e;348544;'du premier coup';1;2
+e;346896;'de tout premier ordre';1;50
+e;340274;'brevet d'études du premier cycle';1;50
+e;372733;'premier volet d'un accord';1;50
+e;372726;'premier tirage';1;50
+e;372708;'premier arrivé';1;50
+e;370715;'place de premier plan';1;50
+e;344887;'cours de premier cycle';1;50
+e;385645;'un premier pas vers';1;50
+e;372745;'premier à un concours';1;50
+e;372740;'premier de stick';1;50
+e;361147;'lecture au premier degré';1;50
+e;351089;'en plein premier acte de';1;50
+e;346367;'dans le premier rôle';1;50
+e;386056;'vainqueur au premier tour des élections';1;50
+e;378238;'rôle de premier plan';1;50
+e;372728;'premier tour de scrutin';1;50
+e;372727;'premier tour de l'élection présidentielle';1;50
+e;372715;'premier maître';1;50
+e;346553;'dans un premier temps';1;50
+e;335281;'ancien premier ministre';1;50
+e;388748;'à le premier niveau';1;50
+e;386773;'vice-premier ministre';1;50
+e;372725;'premier suspect';1;50
+e;372724;'premier service';1;52
+e;372723;'premier septennat';1;50
+e;372716;'premier membre';1;50
+e;372714;'premier garçon venu';1;50
+e;372712;'premier choix';1;50
+e;370714;'place de premier ordre';1;50
+e;337462;'au premier signe';1;50
+e;337459;'au premier bouillon';1;50
+e;335713;'aoriste premier';1;50
+e;49944;'premier-ministrable';1;50
+e;33060;'premier-né';1;70
+e;291304;'premier-n';777;50
+e;330846;'nombre de Mersenne premier';777;50
+e;330845;'nombre premier de Mersenne';1;50
+e;330682;'premier triumvirat';1;50
+e;322270;'premier communiant';1;50
+e;323827;'premier record de vitesse';1;50
+e;330296;'premier vol';1;50
+e;330404;'premier mariage';1;16
+e;330403;'premier lit';1;52
+e;330402;'premier mari';1;54
+e;317673;'premier volet';1;50
+e;315572;'premier groupe';1;54
+e;314257;'facteur premier';1;50
+e;218736;'Le premier accroc coûte 200 francs';1;50
+e;256232;'au premier regard';1;50
+e;259215;'nu comme au premier jour';1;8
+e;101026;'de premier jet';1;50
+e;210253;'au premier coup d'il';1;50
+e;210990;'il n'y a que le premier pas qui coûte';1;50
+e;223870;'premier concile de Nicée';666;50
+e;225461;'verbe du premier groupe';1;12
+e;234511;'premier degré';1;54
+e;238807;'faire le premier pas';1;52
+e;244302;'logique du premier ordre';1;6
+e;254246;'premier rendez-vous';1;14
+e;254269;'premier émoi';1;50
+e;254477;'premier rapport';1;12
+e;255101;'premier magistrat';1;50
+e;255102;'premier magistrat de France';1;50
+e;255104;'premier citoyen de France';1;50
+e;255849;'premier ex-aequo';1;50
+e;256935;'premier bébé';1;50
+e;256937;'premier enfant';1;14
+e;257460;'premier emploi';1;92
+e;257499;'premier cycle';1;4
+e;257863;'jouet premier âge';1;72
+e;262004;'premier cru classé';1;2
+e;262005;'premier cru bourgeois';1;50
+e;262006;'premier cru';1;50
+e;27369;'Le Temps premier';1;50
+e;92246;'au premier abord';1;50
+e;130449;'en premier lieu';1;50
+e;160673;'premier adjoint';1;52
+e;163367;'premier semestre';1;52
+e;163375;'premier janvier';1;50
+e;202783;'le premier';1;50
+e;204205;'ne pas connaître le premier mot de qqch';1;50
+e;208430;'spermatocyte du premier ordre';1;50
+e;211586;'premier de l'an';1;50
+e;263751;'pousser son premier cri';1;50
+e;263752;'premier cri';1;14
+e;286016;'Un premier exemple';777;50
+e;290928;'le premier violon';777;50
+e;297861;'calcul des prédicats du premier ordre';777;50
+e;302968;'au premier coup';777;50
+e;307677;'premier avec';777;50
+e;307678;'premier à';777;50
+e;45196;'premier jet';1;86
+e;47308;'jeune premier';1;52
+e;84789;'premier âge';1;60
+e;87298;'premier assistant opérateur';1;50
+e;147186;'premier secrétaire';1;52
+e;154221;'premier prix';1;92
+e;177076;'premier art';1;50
+e;182019;'dernier entré premier sorti';1;50
+e;182882;'joueur de premier but';1;50
+e;183831;'premier but';1;50
+e;183832;'premier coup d'il';1;50
+e;183834;'premier venu';1;50
+e;184685;'valeur de premier ordre';1;50
+e;186102;'être étourdi comme le premier coup de matines';1;50
+e;187297;'au premier chef';1;50
+e;196319;'au premier plan';1;50
+e;206079;'premier clerc';1;50
+e;206080;'premier crayon';1;50
+e;206081;'premier danseur';1;50
+e;206082;'premier de cordée';1;62
+e;206083;'premier étage';1;58
+e;206084;'premier globule polaire';1;50
+e;206086;'premier mobile';1;50
+e;206087;'premier plan';1;56
+e;206088;'premier quadrille';1;50
+e;206089;'premier quartier';1;50
+e;206090;'premier sommeil';1;50
+e;206091;'premier sujet';1;50
+e;206092;'premier tour';1;92
+e;206093;'premier tour de manivelle';1;50
+e;206094;'premier violon';1;50
+e;264171;'premier rôle';1;56
+e;264273;'premier principe de la thermodynamique';1;2
+e;265498;'premier roman';1;50
+e;267873;'premier millénaire';1;50
+e;269001;'premier tiers';1;52
+e;269012;'premier méridien';1;50
+e;272524;'Article premier';777;50
+e;273589;'Députés élus au premier tour des élections législatives françaises de 2012';777;50
+e;275031;'domaine de premier niveau';777;50
+e;278439;'premier dimanche du';777;50
+e;284878;'premier choc pétrolier';1;50
+e;287383;'domaine national de premier niveau';777;50
+e;307761;'moteur premier';777;50
+e;309044;'art premier';777;52
+e;310567;'premier concile';777;50
+e;132088;'premier homme';1;50
+e;198410;'de premier choix';1;50
+e;198411;'de premier ordre';1;50
+e;198412;'de premier plan';1;50
+e;311733;'premier cycle universitaire';777;2
+e;3706;'en premier';1;64
+e;5482;'premier exemplaire';1;50
+e;188;'premier pinistre';1;50
+e;155155;'premier amour';1;64
+e;143630;'premier ministre';1;262
+e;155882;'nombre premier';1;138
+e;164205;'premier baiser';1;52
+e;164204;'être le premier';1;90
+e;28129;'premier pas';1;56
+e;155156;'premier de la classe';1;80
+e;183833;'premier entré premier sorti';1;50
+r;278364421;130626;11003645;11;25
+r;291167816;130626;11356086;11;25
+r;298451987;130626;6290802;11;25
+r;301413088;130626;6336313;11;25
+r;299369137;130626;6304460;11;25
+r;299492008;130626;6306554;11;25
+r;299546663;130626;6307101;11;25
+r;299696256;130626;6316731;11;25
+r;299828129;130626;6318666;11;25
+r;299877875;130626;6319390;11;25
+r;300136119;130626;6323399;11;25
+r;300211311;130626;6327886;11;25
+r;301191693;130626;6334028;11;25
+r;301741794;130626;6351767;11;25
+r;302187093;130626;6365610;11;25
+r;302190508;130626;6366149;11;25
+r;302191756;130626;6365531;11;25
+r;302970918;130626;6368941;11;25
+r;303288082;130626;6374228;11;25
+r;303982966;130626;6383467;11;25
+r;304486010;130626;6387374;11;25
+r;304600495;130626;6390607;11;25
+r;341162451;130626;6373006;11;25
+r;341159262;130626;6370824;11;25
+r;340925236;130626;6284274;11;25
+r;345554819;130626;13630421;11;25
+r;346079330;130626;13639002;11;25
+r;349206693;130626;6302898;11;25
+r;349211150;130626;6378019;11;25
+r;349267791;130626;6289250;11;25
+r;367947315;130626;14475037;11;25
+r;351288198;130626;13884280;11;25
+r;352322106;130626;13989399;11;25
+r;352322157;130626;13989402;11;25
+r;357290790;130626;14108820;11;25
+r;360135057;130626;14163559;11;25
+r;364422395;130626;14318767;11;25
+r;366865840;130626;14452674;11;25
+r;366866485;130626;14452645;11;25
+r;366888569;130626;14452473;11;25
+r;368118609;130626;14485318;11;25
+r;369827830;130626;14547997;11;25
+r;369890285;130626;14557648;11;25
+r;369982424;130626;14558999;11;25
+r;370340415;130626;14567713;11;25
+r;370440914;130626;14573755;11;25
+r;370444459;130626;14573754;11;25
+r;370466361;130626;14573753;11;25
+r;371245962;130626;14609243;11;25
+r;371529633;130626;14626932;11;25
+r;371800960;130626;14636523;11;25
+r;372740035;130626;14656596;11;25
+r;373019134;130626;14669503;11;25
+r;374283832;130626;14721220;11;25
+r;374436932;130626;14726652;11;25
+r;375147864;130626;14757568;11;25
+r;400741865;130626;6386414;11;25
+r;386045370;130626;14884163;11;25
+r;390920719;130626;14917308;11;25
+r;394060843;130626;15195153;11;25
+r;397526227;130626;6301111;11;25
+r;401916091;130626;6417276;11;25
+r;413956205;130626;15884891;11;25
+r;420261642;130626;16103962;11;25
+r;423681520;130626;16154119;11;25
+r;423733657;130626;16155192;11;25
+r;424836119;130626;16159502;11;25
+r;427736713;130626;16307562;11;25
+r;427737704;130626;16307748;11;25
+r;427737760;130626;16307743;11;25
+r;428704097;130626;16314446;11;25
+r;435410721;130626;16573267;11;25
+r;299338826;130626;6303106;11;26
+r;301486549;130626;6341301;11;26
+r;303466494;130626;6374895;11;26
+r;304876285;130626;6393460;11;26
+r;305018063;130626;6396436;11;26
+r;305296692;130626;6404140;11;26
+r;305688102;130626;6417682;11;26
+r;316243904;130626;12197398;11;26
+r;333419315;130626;12980747;11;26
+r;349132576;130626;6413199;11;26
+r;364418457;130626;14319295;11;26
+r;364489573;130626;14322019;11;26
+r;368613398;130626;14530426;11;26
+r;368767288;130626;14536472;11;26
+r;368767321;130626;14536475;11;26
+r;369898202;130626;14557809;11;26
+r;370159231;130626;14566509;11;26
+r;370285389;130626;14571144;11;26
+r;370285401;130626;14571145;11;26
+r;370560064;130626;14584112;11;26
+r;373063674;130626;14670842;11;26
+r;373218177;130626;14679329;11;26
+r;374050381;130626;14716860;11;26
+r;374260759;130626;14720184;11;26
+r;374342171;130626;14724047;11;26
+r;374342185;130626;14724048;11;26
+r;374421950;130626;14727850;11;26
+r;374421966;130626;14727851;11;26
+r;392308460;130626;15018497;11;26
+r;419479684;130626;16087350;11;26
+r;424060423;130626;16170695;11;26
+r;114452149;130626;5794351;11;27
+r;122737556;130626;6424602;11;27
+r;270781431;130626;10672879;11;27
+r;270773730;130626;10675196;11;27
+r;270780430;130626;10673325;11;27
+r;302968866;130626;6368808;11;27
+r;435287240;130626;16567381;11;27
+r;119669629;130626;6087324;11;28
+r;119669655;130626;6087321;11;28
+r;273217387;130626;10877986;11;28
+r;273222229;130626;10876330;11;28
+r;277368809;130626;10985345;11;28
+r;278967388;130626;10987278;11;28
+r;277361962;130626;10986600;11;29
+r;301893806;130626;11770222;11;29
+r;342420869;130626;13518091;11;29
+r;54292649;130626;2413395;11;30
+r;121539834;130626;6438681;11;30
+r;122722785;130626;6426509;11;30
+r;220755939;130626;9957158;11;30
+r;220873415;130626;9959603;11;30
+r;227682641;130626;9991509;11;30
+r;264465790;130626;10590174;11;30
+r;264465812;130626;10590171;11;30
+r;274288863;130626;10905310;11;30
+r;274297447;130626;10902993;11;30
+r;274297907;130626;10902922;11;30
+r;301974300;130626;11771074;11;30
+r;301978994;130626;11771077;11;30
+r;301979667;130626;11771170;11;30
+r;419763778;130626;15195799;11;30
+r;419769611;130626;15352416;11;30
+r;419769615;130626;15290936;11;30
+r;419772802;130626;15195801;11;30
+r;419772833;130626;15582348;11;30
+r;419787271;130626;15333787;11;30
+r;419801158;130626;15384159;11;30
+r;419801449;130626;15388824;11;30
+r;419801451;130626;15243673;11;30
+r;419801457;130626;15388826;11;30
+r;419801463;130626;15384607;11;30
+r;419801473;130626;15346127;11;30
+r;419803322;130626;16043365;11;30
+r;419810724;130626;15246951;11;30
+r;419842183;130626;15411661;11;30
+r;419843583;130626;15403006;11;30
+r;95196146;130626;4231912;11;31
+r;121498835;130626;6443246;11;31
+r;222098476;130626;9984236;11;31
+r;222104351;130626;9980220;11;31
+r;227655677;130626;10007379;11;31
+r;227673090;130626;9995841;11;31
+r;263704399;130626;10578477;11;31
+r;263705155;130626;10578343;11;31
+r;263705167;130626;10578341;11;31
+r;263705195;130626;10578337;11;31
+r;277126614;130626;10971683;11;31
+r;419707404;130626;15447828;11;31
+r;434376613;130626;16105383;11;31
+r;114439029;130626;5873192;11;32
+r;122745005;130626;6423653;11;32
+r;224443234;130626;10027963;11;32
+r;227641222;130626;10026511;11;32
+r;263667100;130626;10584941;11;32
+r;263667090;130626;10584942;11;32
+r;269416473;130626;10734215;11;32
+r;272642840;130626;10869392;11;32
+r;272674515;130626;10871846;11;32
+r;274973522;130626;10921674;11;32
+r;274974325;130626;10921493;11;32
+r;277703587;130626;10992062;11;32
+r;291210000;130626;11354690;11;32
+r;291212897;130626;11353728;11;32
+r;291275104;130626;11359206;11;32
+r;291289417;130626;11359469;11;32
+r;291290265;130626;11359486;11;32
+r;302901492;130626;11783595;11;32
+r;304372396;130626;11806356;11;32
+r;307469279;130626;11911048;11;32
+r;312559952;130626;11994739;11;32
+r;419620555;130626;15379944;11;32
+r;419620542;130626;15227408;11;32
+r;419620546;130626;15420615;11;32
+r;419620562;130626;15274339;11;32
+r;419620566;130626;15290923;11;32
+r;419620570;130626;15219785;11;32
+r;419620574;130626;15206615;11;32
+r;419620578;130626;15206618;11;32
+r;419639122;130626;15362519;11;32
+r;419656106;130626;15397390;11;32
+r;419665536;130626;15353126;11;32
+r;419665553;130626;15360395;11;32
+r;419666328;130626;15397391;11;32
+r;419666693;130626;13802846;11;32
+r;419666706;130626;13779493;11;32
+r;419675161;130626;15389810;11;32
+r;419679574;130626;15353369;11;32
+r;419686614;130626;15207532;11;32
+r;419693998;130626;15587282;11;32
+r;419695353;130626;15587272;11;32
+r;110207575;130626;5563783;11;33
+r;114021485;130626;5836210;11;33
+r;276016801;130626;10956056;11;33
+r;269411623;130626;10741973;11;33
+r;276016933;130626;10956021;11;33
+r;280469209;130626;11064679;11;33
+r;290746729;130626;11348578;11;33
+r;291140685;130626;11355129;11;33
+r;303718109;130626;11788264;11;33
+r;315180076;130626;12087596;11;33
+r;419602500;130626;15397387;11;33
+r;419602514;130626;15397388;11;33
+r;419610330;130626;15352430;11;33
+r;419613698;130626;15521251;11;33
+r;434365826;130626;16340414;11;33
+r;118960073;130626;6067894;11;34
+r;122729983;130626;6425569;11;34
+r;134650904;130626;7997290;11;34
+r;270918232;130626;10833873;11;34
+r;277881200;130626;10994451;11;34
+r;309082964;130626;11926278;11;34
+r;419513867;130626;15367714;11;34
+r;419531166;130626;15904142;11;34
+r;419570234;130626;15389517;11;34
+r;419574533;130626;15352278;11;34
+r;419575209;130626;15647110;11;34
+r;29960580;130626;1831555;11;35
+r;30019246;130626;1837430;11;35
+r;117914148;130626;5980121;11;35
+r;121548169;130626;6437745;11;35
+r;122718948;130626;6427020;11;35
+r;252680533;130626;10311610;11;35
+r;271591177;130626;10842743;11;35
+r;272515711;130626;10867519;11;35
+r;272515772;130626;10867509;11;35
+r;272515792;130626;10867506;11;35
+r;272515837;130626;10867499;11;35
+r;275106401;130626;10933477;11;35
+r;275106924;130626;10933347;11;35
+r;279220850;130626;11021875;11;35
+r;295154364;130626;11455839;11;35
+r;315123204;130626;12078453;11;35
+r;315124193;130626;12078268;11;35
+r;319522202;130626;12301832;11;35
+r;329836735;130626;12881972;11;35
+r;335443044;130626;13120135;11;35
+r;419500115;130626;15688938;11;35
+r;419509132;130626;15276579;11;35
+r;433907153;130626;16492217;11;35
+r;109977470;130626;5562502;11;36
+r;121480345;130626;6445318;11;36
+r;252671075;130626;10314122;11;36
+r;270761935;130626;10831830;11;36
+r;252664099;130626;10316285;11;36
+r;252663942;130626;10316349;11;36
+r;252673686;130626;10313292;11;36
+r;252673792;130626;10313267;11;36
+r;270761829;130626;10831850;11;36
+r;269386516;130626;10747849;11;36
+r;270358823;130626;10823163;11;36
+r;290675930;130626;11344025;11;36
+r;290675993;130626;11344018;11;36
+r;290676022;130626;11344013;11;36
+r;290676034;130626;11344011;11;36
+r;290676046;130626;11344009;11;36
+r;290676063;130626;11344006;11;36
+r;290676074;130626;11344004;11;36
+r;294396662;130626;11454051;11;36
+r;312983562;130626;12007939;11;36
+r;319149876;130626;12289014;11;36
+r;312983038;130626;12007928;11;36
+r;312895299;130626;12005818;11;36
+r;312917522;130626;12006395;11;36
+r;312917775;130626;12006396;11;36
+r;315110183;130626;12080921;11;36
+r;315110187;130626;12080920;11;36
+r;315114073;130626;12080193;11;36
+r;419485070;130626;16087408;11;36
+r;419490243;130626;15775686;11;36
+r;112176589;130626;5711542;11;37
+r;121469072;130626;6446570;11;37
+r;122688838;130626;6430909;11;37
+r;122714116;130626;6427636;11;37
+r;234115584;130626;10077814;11;37
+r;269879430;130626;10775556;11;37
+r;271767647;130626;10848030;11;37
+r;288554941;130626;11256469;11;37
+r;291817281;130626;11362827;11;37
+r;292685374;130626;11394359;11;37
+r;293753601;130626;11416026;11;37
+r;308011181;130626;11933780;11;37
+r;113309259;130626;5801764;11;38
+r;121908719;130626;6533693;11;38
+r;220170451;130626;9942492;11;38
+r;228982911;130626;10056432;11;38
+r;269379533;130626;10750165;11;38
+r;269382413;130626;10749520;11;38
+r;271768338;130626;10847870;11;38
+r;287879024;130626;11233800;11;38
+r;288983496;130626;11290823;11;38
+r;289891295;130626;11295787;11;38
+r;306187641;130626;11836492;11;38
+r;306189524;130626;11836500;11;38
+r;114751935;130626;5893293;11;39
+r;126393423;130626;7809347;11;39
+r;232103398;130626;10062654;11;39
+r;255398718;130626;10384369;11;39
+r;264459561;130626;10592740;11;39
+r;53014168;130626;2385954;11;40
+r;115109125;130626;5896805;11;40
+r;232098937;130626;10064228;11;40
+r;262209146;130626;10515655;11;40
+r;262210097;130626;10515497;11;40
+r;263058014;130626;10555107;11;40
+r;269406766;130626;10763474;11;40
+r;269406789;130626;10763471;11;40
+r;269406820;130626;10763467;11;40
+r;269406867;130626;10763461;11;40
+r;278737978;130626;11003643;11;40
+r;278737989;130626;11003641;11;40
+r;278737995;130626;11003639;11;40
+r;278738017;130626;11003616;11;40
+r;278738045;130626;11003564;11;40
+r;278738055;130626;11003540;11;40
+r;278883483;130626;11011950;11;40
+r;288255377;130626;11250837;11;40
+r;287980530;130626;11237683;11;40
+r;288221683;130626;11250507;11;40
+r;288244149;130626;11250840;11;40
+r;290384013;130626;11334733;11;40
+r;53199045;130626;2395258;11;41
+r;121512102;130626;6441782;11;41
+r;121578422;130626;6434365;11;41
+r;232086103;130626;10069572;11;41
+r;261019667;130626;10458862;11;41
+r;262038470;130626;10514233;11;41
+r;262038556;130626;10514181;11;41
+r;262208023;130626;10516010;11;41
+r;262208070;130626;10516006;11;41
+r;262887684;130626;10548496;11;41
+r;278321941;130626;11003382;11;41
+r;278327622;130626;11003537;11;41
+r;278328358;130626;11003539;11;41
+r;278333147;130626;11003589;11;41
+r;278333826;130626;11003541;11;41
+r;278333897;130626;11003582;11;41
+r;278333992;130626;11003609;11;41
+r;278334081;130626;11003573;11;41
+r;278334443;130626;11003610;11;41
+r;278334770;130626;11003620;11;41
+r;278334962;130626;11003644;11;41
+r;278335022;130626;11003646;11;41
+r;278335136;130626;11003614;11;41
+r;278335261;130626;11003536;11;41
+r;278335815;130626;11003623;11;41
+r;278335975;130626;11003638;11;41
+r;278336013;130626;11003627;11;41
+r;278336031;130626;11003650;11;41
+r;278336431;130626;11003611;11;41
+r;278337134;130626;11003637;11;41
+r;278337208;130626;11003584;11;41
+r;278337233;130626;11003591;11;41
+r;278337588;130626;11003615;11;41
+r;278354666;130626;11003628;11;41
+r;278354775;130626;11003621;11;41
+r;278354802;130626;11003587;11;41
+r;278354827;130626;11003590;11;41
+r;278359504;130626;11003624;11;41
+r;285981358;130626;11160905;11;41
+r;285981368;130626;11160895;11;41
+r;286943221;130626;11182282;11;41
+r;296850455;130626;11557673;11;41
+r;297120962;130626;11560861;11;41
+r;308924794;130626;11970871;11;41
+r;53160152;130626;2393165;11;42
+r;53268435;130626;2399138;11;42
+r;53284270;130626;2400073;11;42
+r;95815209;130626;4145819;11;42
+r;121053277;130626;6449368;11;42
+r;121488237;130626;6444425;11;42
+r;234226901;130626;10099686;11;42
+r;240917486;130626;10185868;11;42
+r;262038718;130626;10514155;11;42
+r;262038971;130626;10514110;11;42
+r;278323406;130626;11003388;11;42
+r;278338908;130626;11003576;11;42
+r;282617623;130626;11104210;11;42
+r;285603664;130626;11160906;11;42
+r;285603882;130626;11160882;11;42
+r;285603901;130626;11160839;11;42
+r;285604000;130626;11160902;11;42
+r;285604508;130626;11160871;11;42
+r;285604566;130626;11160879;11;42
+r;285604689;130626;11160856;11;42
+r;285605751;130626;11160911;11;42
+r;285605880;130626;11160896;11;42
+r;285606193;130626;11160850;11;42
+r;285606242;130626;11160913;11;42
+r;285606301;130626;11160930;11;42
+r;285606622;130626;11160855;11;42
+r;287721851;130626;11221882;11;42
+r;287725596;130626;11221872;11;42
+r;328193511;130626;12789830;11;42
+r;419106528;130626;16073360;11;42
+r;419106608;130626;16073378;11;42
+r;112195737;130626;5686675;11;43
+r;238923006;130626;10177617;11;43
+r;281711915;130626;11103623;11;43
+r;283649162;130626;11154940;11;43
+r;285876369;130626;11173124;11;43
+r;286759805;130626;11179219;11;43
+r;336646326;130626;13198650;11;43
+r;432804253;130626;16385077;11;43
+r;432805249;130626;16385076;11;43
+r;29907626;130626;1840579;11;44
+r;55408839;130626;2447820;11;44
+r;109883579;130626;5554154;11;44
+r;118510410;130626;6010882;11;44
+r;121484237;130626;6444884;11;44
+r;121801368;130626;6563297;11;44
+r;238099909;130626;10160391;11;44
+r;121828099;130626;6540806;11;45
+r;121870321;130626;6536939;11;45
+r;121870431;130626;6536928;11;45
+r;121870725;130626;6536900;11;45
+r;236660208;130626;10142857;11;45
+r;284018675;130626;11158706;11;45
+r;121870309;130626;6536940;11;46
+r;256292325;130626;10436478;11;46
+r;315110175;130626;12080922;11;46
+r;121908852;130626;6533678;11;47
+r;109883726;130626;5554130;11;48
+r;256283908;130626;10438842;11;48
+r;256291786;130626;10436668;11;48
+r;121040803;130626;6450736;11;49
+r;50463012;130626;2366107;11;50
+r;397028214;130626;15486924;11;50
+r;190836556;130626;8878755;11;50
+r;190855320;130626;8879856;11;50
+r;191764772;130626;8888587;11;50
+r;193656910;130626;8956593;11;50
+r;209755058;130626;9210340;11;50
+r;209757604;130626;9210341;11;50
+r;211562277;130626;9252298;11;50
+r;213775799;130626;9453495;11;50
+r;213784218;130626;9453494;11;50
+r;214420995;130626;9526050;11;50
+r;214517491;130626;9532133;11;50
+r;217052111;130626;9661577;11;50
+r;217233613;130626;9677124;11;50
+r;217233622;130626;9677123;11;50
+r;217233631;130626;9677122;11;50
+r;278737968;130626;11003648;11;50
+r;282204757;130626;11107960;11;50
+r;282249883;130626;11118405;11;50
+r;282747993;130626;11130089;11;50
+r;294500099;130626;11454952;11;50
+r;323057766;130626;12617035;11;50
+r;324523479;130626;12675641;11;50
+r;326160200;130626;12710623;11;50
+r;327321963;130626;12729128;11;50
+r;327322893;130626;12727160;11;50
+r;358072788;130626;14130920;11;50
+r;370468155;130626;14572286;11;50
+r;400717934;130626;15238866;11;50
+r;402109276;130626;15388505;11;50
+r;402106088;130626;15587285;11;50
+r;402106094;130626;15491874;11;50
+r;402103146;130626;15271801;11;50
+r;402108344;130626;15429795;11;50
+r;402103486;130626;15352428;11;50
+r;402104362;130626;15271324;11;50
+r;410385219;130626;15787685;11;50
+r;425790118;130626;16219288;11;50
+r;431992570;130626;16357832;11;50
+r;18600027;130626;592961;11;51
+r;21481491;130626;1076987;11;51
+r;33906453;130626;2326057;11;51
+r;52450528;130626;2554732;11;51
+r;76998151;130626;3183648;11;51
+r;77829441;130626;3228626;11;51
+r;88236327;130626;3476877;11;51
+r;109428916;130626;5526498;11;51
+r;121826084;130626;6541004;11;51
+r;77424030;130626;3204335;11;52
+r;121836723;130626;6539981;11;52
+r;121870786;130626;6536894;11;52
+r;16176135;130626;461063;11;53
+r;70139455;130626;2858996;11;53
+r;77000978;130626;3183686;11;53
+r;86195304;130626;3364593;11;53
+r;86889016;130626;3385144;11;53
+r;52454923;130626;2545495;11;54
+r;68370901;130626;2823626;11;54
+r;89088249;130626;3571011;11;54
+r;106725001;130626;5305925;11;54
+r;18600035;130626;592962;11;55
+r;20809472;130626;981871;11;55
+r;24521694;130626;1483283;11;55
+r;24943642;130626;1526037;11;55
+r;29748770;130626;1820942;11;55
+r;52458540;130626;2537910;11;55
+r;78376462;130626;3232613;11;55
+r;109433188;130626;5526497;11;55
+r;98016137;130626;4314604;11;55
+r;121838868;130626;6539767;11;55
+r;24521900;130626;1483285;11;56
+r;25231222;130626;1567330;11;56
+r;29525225;130626;1804599;11;56
+r;30807519;130626;1914838;11;56
+r;52460879;130626;2533150;11;56
+r;121834867;130626;6540154;11;56
+r;121870575;130626;6536914;11;56
+r;16140777;130626;460080;11;57
+r;25231482;130626;1567331;11;57
+r;29225685;130626;1781369;11;57
+r;29886059;130626;1844845;11;57
+r;52456347;130626;2542540;11;57
+r;77365398;130626;3192852;11;57
+r;97635729;130626;4312645;11;57
+r;21703050;130626;1112702;11;58
+r;24521725;130626;1483282;11;58
+r;24521761;130626;1483287;11;58
+r;29133907;130626;1773381;11;58
+r;29916774;130626;1831249;11;58
+r;30677763;130626;1903873;11;58
+r;31756647;130626;1970598;11;58
+r;52449707;130626;2556287;11;58
+r;76965702;130626;3182380;11;58
+r;77001583;130626;3183687;11;58
+r;86889014;130626;3385145;11;58
+r;95172878;130626;3902079;11;58
+r;16140783;130626;460079;11;59
+r;52468764;130626;2516259;11;59
+r;76966743;130626;3182381;11;59
+r;77424028;130626;3204336;11;59
+r;88250959;130626;3476876;11;59
+r;121870713;130626;6536901;11;59
+r;16930361;130626;566235;11;60
+r;20810674;130626;981872;11;60
+r;24521907;130626;1483284;11;60
+r;29901091;130626;1842135;11;60
+r;54422995;130626;2587873;11;60
+r;95155072;130626;4207737;11;60
+r;95164364;130626;4048277;11;60
+r;98648109;130626;4324346;11;60
+r;121870737;130626;6536899;11;60
+r;29877125;130626;1846875;11;61
+r;76446446;130626;3174577;11;61
+r;29850157;130626;1852330;11;64
+r;29901109;130626;1842133;11;64
+r;29886644;130626;1844718;11;65
+r;13678629;130626;393774;11;88
+r;12611033;130626;372778;11;101
+r;12611243;130626;372731;11;101
+r;12611317;130626;372720;11;101
+r;12611361;130626;372711;11;101
+r;12623441;130626;369778;11;101
+r;12679741;130626;355850;11;101
+r;12709033;130626;348545;11;101
+r;12715847;130626;346897;11;101
+r;12724221;130626;345061;11;101
+r;12743253;130626;340495;11;101
+r;12568917;130626;383157;11;102
+r;12577277;130626;380994;11;102
+r;12611263;130626;372729;11;102
+r;12611329;130626;372718;11;102
+r;12611365;130626;372710;11;102
+r;12695387;130626;351989;11;102
+r;12713359;130626;347499;11;102
+r;12720499;130626;345992;11;102
+r;12755773;130626;337458;11;102
+r;12611253;130626;372730;11;103
+r;12611313;130626;372721;11;103
+r;12611369;130626;372709;11;103
+r;12621301;130626;370288;11;103
+r;12626437;130626;369034;11;103
+r;12539759;130626;390560;11;104
+r;12562715;130626;384680;11;104
+r;12611183;130626;372748;11;104
+r;12611239;130626;372732;11;104
+r;12611333;130626;372717;11;104
+r;12713327;130626;347506;11;104
+r;12611227;130626;372734;11;105
+r;12611305;130626;372722;11;105
+r;12611351;130626;372713;11;105
+r;12634739;130626;366863;11;105
+r;12755761;130626;337461;11;105
+r;12755765;130626;337460;11;105
+r;12545861;130626;389009;11;106
+r;12546909;130626;388749;11;106
+r;12611047;130626;372774;11;106
+r;12611325;130626;372719;11;106
+r;12709037;130626;348544;11;106
+r;12715853;130626;346896;11;106
+r;12744169;130626;340274;11;106
+r;12611231;130626;372733;11;107
+r;12611289;130626;372726;11;107
+r;12611375;130626;372708;11;107
+r;12619559;130626;370715;11;107
+r;12724921;130626;344887;11;107
+r;12558723;130626;385645;11;108
+r;12611193;130626;372745;11;108
+r;12611207;130626;372740;11;108
+r;12658079;130626;361147;11;108
+r;12698995;130626;351089;11;108
+r;12718451;130626;346367;11;108
+r;12557117;130626;386056;11;109
+r;12588911;130626;378238;11;109
+r;12611271;130626;372728;11;109
+r;12611279;130626;372727;11;109
+r;12611341;130626;372715;11;109
+r;12717327;130626;346553;11;109
+r;12764595;130626;335281;11;109
+r;12546915;130626;388748;11;110
+r;12554293;130626;386773;11;110
+r;12611293;130626;372725;11;110
+r;12611297;130626;372724;11;110
+r;12611301;130626;372723;11;110
+r;12611337;130626;372716;11;110
+r;12611345;130626;372714;11;110
+r;12611357;130626;372712;11;110
+r;12619565;130626;370714;11;110
+r;12755757;130626;337462;11;110
+r;12755769;130626;337459;11;110
+r;12762865;130626;335713;11;110
+r;11870934;130626;49944;11;121
+r;11873456;130626;33060;11;121
+r;11848728;130626;291304;11;122
+r;12019938;130626;330846;11;125
+r;12019942;130626;330845;11;125
+r;12009817;130626;330682;11;139
+r;9105624;130626;322270;11;148
+r;9301511;130626;323827;11;148
+r;11883224;130626;330296;11;148
+r;11936799;130626;330404;11;148
+r;11936803;130626;330403;11;148
+r;11936807;130626;330402;11;148
+r;8934542;130626;317673;11;149
+r;8870593;130626;315572;11;154
+r;8825982;130626;314257;11;158
+r;8691246;130626;218736;11;160
+r;8720903;130626;256232;11;160
+r;8725243;130626;259215;11;160
+r;8604507;130626;101026;11;161
+r;8684938;130626;210253;11;161
+r;8686014;130626;210990;11;161
+r;8694604;130626;223870;11;161
+r;8695605;130626;225461;11;161
+r;8702103;130626;234511;11;161
+r;8705678;130626;238807;11;161
+r;8708616;130626;244302;11;161
+r;8718175;130626;254246;11;161
+r;8718210;130626;254269;11;161
+r;8718504;130626;254477;11;161
+r;8719368;130626;255101;11;161
+r;8719370;130626;255102;11;161
+r;8719375;130626;255104;11;161
+r;8720369;130626;255849;11;161
+r;8721994;130626;256935;11;161
+r;8721998;130626;256937;11;161
+r;8722683;130626;257460;11;161
+r;8722736;130626;257499;11;161
+r;8723231;130626;257863;11;161
+r;8728777;130626;262004;11;161
+r;8728780;130626;262005;11;161
+r;8728783;130626;262006;11;161
+r;8579053;130626;27369;11;162
+r;8601407;130626;92246;11;162
+r;8615111;130626;130449;11;162
+r;8627006;130626;160673;11;162
+r;8628379;130626;163367;11;162
+r;8628385;130626;163375;11;162
+r;8672507;130626;202783;11;162
+r;8674973;130626;204205;11;162
+r;8681932;130626;208430;11;162
+r;8686840;130626;211586;11;162
+r;8731069;130626;263751;11;162
+r;8731071;130626;263752;11;162
+r;8753180;130626;286016;11;162
+r;8758825;130626;290928;11;162
+r;8764795;130626;297861;11;162
+r;8769407;130626;302968;11;162
+r;8773377;130626;307677;11;162
+r;8773379;130626;307678;11;162
+r;8585039;130626;45196;11;163
+r;8585769;130626;47308;11;163
+r;8598766;130626;84789;11;163
+r;8599655;130626;87298;11;163
+r;8622250;130626;147186;11;163
+r;8623806;130626;154221;11;163
+r;8635671;130626;177076;11;163
+r;8639390;130626;182019;11;163
+r;8640878;130626;182882;11;163
+r;8642418;130626;183831;11;163
+r;8642420;130626;183832;11;163
+r;8642425;130626;183834;11;163
+r;8643883;130626;184685;11;163
+r;8646059;130626;186102;11;163
+r;8648185;130626;187297;11;163
+r;8661259;130626;196319;11;163
+r;8677907;130626;206079;11;163
+r;8677909;130626;206080;11;163
+r;8677911;130626;206081;11;163
+r;8677913;130626;206082;11;163
+r;8677915;130626;206083;11;163
+r;8677916;130626;206084;11;163
+r;8677920;130626;206086;11;163
+r;8677922;130626;206087;11;163
+r;8677924;130626;206088;11;163
+r;8677926;130626;206089;11;163
+r;8677928;130626;206090;11;163
+r;8677930;130626;206091;11;163
+r;8677932;130626;206092;11;163
+r;8677934;130626;206093;11;163
+r;8677937;130626;206094;11;163
+r;8731685;130626;264171;11;163
+r;8731810;130626;264273;11;163
+r;8733137;130626;265498;11;163
+r;8735787;130626;267873;11;163
+r;8736840;130626;269001;11;163
+r;8736864;130626;269012;11;163
+r;8740057;130626;272524;11;163
+r;8741401;130626;273589;11;163
+r;8742962;130626;275031;11;163
+r;8746102;130626;278439;11;163
+r;8752134;130626;284878;11;163
+r;8755006;130626;287383;11;163
+r;8773469;130626;307761;11;163
+r;8774878;130626;309044;11;163
+r;8776431;130626;310567;11;163
+r;8615680;130626;132088;11;164
+r;8665018;130626;198410;11;164
+r;8665020;130626;198411;11;164
+r;8665022;130626;198412;11;164
+r;8777835;130626;311733;11;164
+r;8571172;130626;3706;11;166
+r;8571768;130626;5482;11;168
+r;8570009;130626;188;11;169
+r;181962;130626;155155;11;189
+r;181964;130626;143630;11;189
+r;402161;130626;155882;11;189
+r;393366;130626;164205;11;198
+r;393365;130626;164204;11;207
+r;356258;130626;28129;11;210
+r;181963;130626;155156;11;259
+r;8642422;130626;183833;11;302

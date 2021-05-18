@@ -1,0 +1,3002 @@
+
+e;131040;'prix';1;1344
+e;6343440;'récompenses et prix';1;0
+e;12209303;'prix Lumières du meilleur film francophone';777;0
+e;12981327;'prix Hugo de la meilleure nouvelle courte';777;0
+e;12979476;'prix August';777;0
+e;6344534;'employée au calcul des coûts et prix de revient';1;0
+e;13545429;'prix Iznogoud';777;0
+e;13628489;'prix Lester R. Ford';777;0
+e;13628488;'prix Paul R. Halmos - Lester R. Ford';777;0
+e;13643019;'prix Valery-Larbaud';777;0
+e;13643018;'prix Femina Vacaresco';777;0
+e;13643545;'prix de la National Cartoonists Society';777;0
+e;13654886;'prix Yunus Nadi';777;0
+e;13656735;'prix Sainte-Beuve';777;0
+e;13656702;'prix Boccace';777;0
+e;13709068;'prix international Alfonso Reyes';777;0
+e;13808650;'prix Valz';777;0
+e;13809116;'en Iran pour protester contre l'augmentation du prix du carburant';777;0
+e;13809389;'prix littéraire Adrienne-Choquette';777;0
+e;13809967;'prix Roger-Caillois';777;0
+e;13809966;'prix Femina essai';777;0
+e;13817994;'prix John von Neumann';777;0
+e;13818051;'prix de théorie John-von-Neumann';777;0
+e;13982029;'prix Pfizer';777;0
+e;13985895;'prix Orizzonti du meilleur film';777;0
+e;13989485;'Les dates mentionnées ici ne sont donc pas celles de la cérémonie mais celles du prix';777;0
+e;13989489;'prix du film Mainichi';777;0
+e;14030800;'prix Stella';777;0
+e;14048698;'évolution du prix du carburant';1;0
+e;14078293;'prix Sophia';777;0
+e;14078276;'prix des Cent Fleurs';777;0
+e;14078279;'prix de l'académie japonaise';777;0
+e;14094048;'prix littéraires décernés au cours de l'année 2019';777;0
+e;14094237;'prix W. O. Mitchell';777;0
+e;14094080;'prix Campiello';777;0
+e;14119884;'prix Palle Rosenkrantz';777;0
+e;14146316;'prix Tony Conigliaro';777;0
+e;14304689;'liquider des positions à n'importe quel prix';1;0
+e;14346317;'prix de littérature féminine';777;0
+e;14428175;'prix France Culture';777;0
+e;14428176;'prix du Roman des étudiants France Culture-Télérama';777;0
+e;14431782;'prix Monroe H. Martin';777;0
+e;14452312;'fixation du prix d'un bien préempté';1;0
+e;14453722;'prix comme critère unique';1;0
+e;14453738;'clause de variation du prix';1;0
+e;14453867;'prix comme critère non pertinent';1;0
+e;14453874;'prix mixtes';1;0
+e;14453895;'réfaction du prix';1;0
+e;14453948;'bordereau des prix unitaires';1;0
+e;14454066;'prix provisoire';1;0
+e;14454179;'prix aberrant';1;0
+e;14454161;'révision d'un prix';1;0
+e;14454185;'prix ajustable';1;0
+e;14454155;'révision provisoire des prix';1;0
+e;16145284;'prix Henri-Hertz';777;0
+e;14530664;'prix minimum';777;0
+e;14530663;'prix maximum';777;0
+e;14530666;'Surveillance des prix';777;0
+e;14580468;'Le mécanisme des prix';777;0
+e;14605334;'obtenir des prix plus bas';1;0
+e;14605335;'obtenir un prix plus bas';1;0
+e;14626693;'prix de la première oeuvre';777;0
+e;14626663;'prix courants';777;0
+e;14626694;'prix André Arfvidson';777;0
+e;14626695;'prix Paul Arfvidson';777;0
+e;14637929;'grand prix Inserm';1;0
+e;14653242;'Remise de prix littéraires';777;0
+e;14665954;'prix ado-lisant';777;0
+e;14726727;'Les prix Roman et Essai France Télévisions';777;0
+e;14893646;'prix Gaston-Gouin';777;0
+e;14895536;'prix Napoli pour la culture et la langue italienne';777;0
+e;11957331;'prix-Mauchly';1;0
+e;15432312;'être dans les prix de [qqn]';1;0
+e;15462540;'prix John-Wood-Campbell du meilleur nouvel écrivain';777;0
+e;15782150;'prix Seiun';777;0
+e;15791336;'prix Pierre-Delano';777;0
+e;15966304;'prix Thomas Merton';777;0
+e;16070820;'prix de la biographie de l'Académie française';777;0
+e;16133187;'nouveau prix Montyon de littérature et de philosophie';777;0
+e;16133188;'prix Leconte';777;0
+e;16159021;'prix Anaïs-Ségalas';777;0
+e;16159028;'prix littéraire Québec-France Marie-Claire Blais';777;0
+e;16241626;'prix Psychologies-Fnac';777;0
+e;16307151;'prix littéraires de la Fédération Wallonie-Bruxelles';777;0
+e;16318409;'prix Dizengoff';777;0
+e;16318459;'prix Sang d'Encre';777;0
+e;16344181;'est un prix';777;0
+e;16389662;'prix Combourg Chateaubriand';777;0
+e;16492425;'l'élasticité-prix';777;0
+e;16558500;'prix Lucien Mallet';777;0
+e;16573181;'Un prix de poésie l'Altra metà del cielo';777;0
+e;5787754;'prix culinaire international Le Taittinger';777;0
+e;5787753;'prix culinaire international Pierre Taittinger';777;0
+e;6335360;'employé au calcul des coûts et prix de revient';1;0
+e;12199994;'prix du Livre incorrect';777;0
+e;12985659;'prix de l'écrit intime';777;0
+e;13541912;'baisse des prix du pétrole';1;0
+e;13542107;'prix Saint-Michel';777;0
+e;14529926;'décrocher un prix';1;4
+e;14530747;'remettre un prix';1;0
+e;14531687;'bon prix';1;2
+e;14532459;'gagner à tout prix';1;2
+e;14538126;'prix du baril';1;0
+e;14540136;'faire baisser le prix';1;2
+e;14558085;'prix astronomique';1;0
+e;14589879;'prix Rapallo-Carige';1;0
+e;14589883;'prix Stresa';1;0
+e;14637009;'prix littéraires';1;6
+e;14637010;'période des prix littéraires';1;6
+e;14718282;'prix au litre';1;0
+e;14718934;'remporter un prix';1;0
+e;14722249;'prix Rapallo-Carige pour la femme écrivaine';1;0
+e;14722282;'offre de prix';1;4
+e;14727850;'premier prix de littérature';1;0
+e;14727851;'premier prix de version latine';1;0
+e;15034401;'au prix des';1;0
+e;15034402;'au prix du';1;0
+e;15034684;'augmentations de prix';1;0
+e;16168745;'prix de l'heure de vol';1;2
+e;16391602;'prix Nobel de Physiologie et de Médecine';1;0
+e;5724184;'grand prix de littérature';777;0
+e;5724109;'prix Michel-Monpetit';777;0
+e;5794667;'prix Tropiques';777;0
+e;5794661;'prix Théophile-Gautier';777;0
+e;5794658;'prix Sony-Labou-Tansi';777;0
+e;5794657;'prix Séraphin-Marion';777;0
+e;5794652;'prix SACD de la dramaturgie francophone';777;0
+e;5794642;'prix Richelieu';777;0
+e;5794641;'prix René-Clair';777;0
+e;5794630;'prix Montyon';777;0
+e;5794629;'prix Maurice-Genevoix';777;0
+e;5794622;'prix Martinus-Nijhoff';777;0
+e;5794607;'prix Lumières du meilleur acteur';777;0
+e;5794553;'prix Philippe-Rossillon';777;0
+e;5794551;'prix littéraire France-Québec';777;0
+e;5794540;'prix littéraire Alain Decaux de la francophonie';777;0
+e;5794530;'prix Joseph-Kessel';777;0
+e;5794527;'prix Jean-Leduc';777;0
+e;5794526;'prix Jean-Le-Duc';777;0
+e;5794522;'Le prix Ivoire pour la littérature Africaine d'expression francophone';777;0
+e;5794503;'prix Georges-Goyau';777;0
+e;5794501;'prix Georges-Émile-Lapalme';777;0
+e;5794497;'prix Georges-Dupau';777;0
+e;5794495;'prix François-Millepierres';777;0
+e;5794489;'prix François-Mauriac';777;0
+e;5794486;'prix Feydeau de Brou';777;0
+e;5794482;'prix européen de littérature';777;0
+e;5794480;'prix Émile-Ollivier';777;0
+e;5794478;'prix Émile Faguet';777;0
+e;5794471;'prix Émile-Augier';777;0
+e;5794468;'prix du rayonnement français';777;0
+e;5794463;'prix du jeune théâtre';777;0
+e;5794458;'prix du Cardinal-Grente';777;0
+e;5794428;'prix du cardinal-Lustiger';777;0
+e;5794401;'prix de l'essai';777;0
+e;5794398;'prix d'histoire';777;0
+e;5794386;'prix Botta';777;0
+e;5794384;'prix Biguet';777;0
+e;5794381;'prix Antony-Valabrègue';777;0
+e;5793699;'prix Nathan Katz du patrimoine';777;0
+e;10704251;'prix du meilleur jeune économiste';777;0
+e;10675724;'prix Sant Jordi du cinéma';777;0
+e;10675720;'prix Goya d'honneur';777;0
+e;10662960;'prix Balzan';777;0
+e;10662959;'prix Bagutta';777;0
+e;10624526;'grand prix du roman métis';777;0
+e;10624525;'prix Wepler';777;0
+e;12200837;'prix de l'abonnement';1;0
+e;13537105;'prix Sydney de la paix';777;0
+e;12917149;'prix Grace Murray Hopper';777;0
+e;12917150;'prix ACM Software System';777;0
+e;12992520;'à petit prix';1;0
+e;5724187;'grand prix de poésie de l'Académie française';777;0
+e;5724185;'grand prix de littérature Paul-Morand';777;0
+e;5794669;'prix littéraire de l'AFD';777;0
+e;5794645;'prix SACD';777;0
+e;5794639;'prix Rapsat-Lelièvre';777;0
+e;5794588;'prix littéraires de traduction';777;0
+e;5794402;'prix de la langue française';777;0
+e;5794396;'prix Canada-France';777;0
+e;5794390;'prix broquette-gonin';777;0
+e;6087269;'prix unique du livre';777;0
+e;6083162;'discrimination par les prix';777;0
+e;10665158;'Liste de récompenses et prix culturels';777;0
+e;10662958;'prix Antonio-Feltrinelli';777;0
+e;10623934;'prix internationaux de la paix';777;0
+e;10873459;'Grand prix de Catalogne';777;0
+e;10873458;'Grand prix d'Italie';777;0
+e;10873453;'Grand prix d'Espagne';777;0
+e;10879517;'prix Inkwell';777;0
+e;10900970;'prix Saint-Simon';777;0
+e;13527560;'prix Václav-Havel';777;0
+e;13534248;'prix des droits de l'homme Václav-Havel';777;0
+e;13534645;'prix Spinoza';777;0
+e;13537103;'prix H. C. Recktenwald en économie';777;0
+e;5778173;'prix Nobel de Physique';1;0
+e;5724183;'Grand prix de la francophonie';777;0
+e;6100948;'prix prédateurs';777;0
+e;6088492;'imposition du prix de revente';777;0
+e;9988868;'prix Madame Victor Noury';777;0
+e;10589294;'Harry à tout prix';777;0
+e;10901943;'prix Killam';777;0
+e;10901940;'prix Acfas Léo-Pariseau';777;0
+e;10901906;'prix George-Polk';777;0
+e;10901857;'prix en mémoire de Billy DeBeck';777;0
+e;10901856;'prix Reuben';777;0
+e;10987889;'prix du musée européen de l'année';777;0
+e;10988461;'Grand prix littéraire d'Afrique noire';777;0
+e;10989833;'prix Jack-Kirby';777;0
+e;11775378;'prix BD du livre politique';777;0
+e;12903445;'prix Ahmadou-Kourouma';777;0
+e;5806354;'prix Ampère';777;0
+e;9962722;'prix Romy-Schneider';777;0
+e;9962733;'prix Jean-Vigo';777;0
+e;9962732;'prix Méliès';777;0
+e;9962726;'prix Saint-Germain';777;0
+e;9962725;'prix Patrick-Dewaere';777;0
+e;9962748;'prix du cinéma européen';777;0
+e;9962750;'prix LUX';777;0
+e;9962731;'prix du meilleur film français du syndicat de la critique de cinéma';777;0
+e;9979108;'prix Archestrate';777;0
+e;9986882;'Grand prix du meilleur scénariste';777;0
+e;9990080;'prix France Musique - Sacem de la musique de film';777;0
+e;10600978;'prix Armand-Tallier';777;0
+e;10600977;'prix littéraire du Syndicat français de la critique de cinéma';777;0
+e;10598363;'prix de musique Polaris';777;0
+e;10598299;'prix Miroir';777;0
+e;10596466;'prix Blumenthal';777;0
+e;10595622;'Un chien de prix';777;0
+e;10871424;'liste des prix littéraires québécois';777;0
+e;10871389;'prix littéraires décernés au cours de l'année 2014';777;0
+e;10871385;'prix littéraires décernés au cours de l'année 2012';777;0
+e;10871383;'prix littéraires décernés au cours de l'année 2011';777;0
+e;10871380;'prix littéraires décernés au cours de l'année 2010';777;0
+e;10871379;'prix littéraires décernés au cours de l'année 2009';777;0
+e;10871377;'prix littéraires décernés au cours de l'année 2008';777;0
+e;10871376;'prix littéraires décernés au cours de l'année 2007';777;0
+e;10871374;'prix littéraires décernés au cours de l'année 2006';777;0
+e;10871371;'prix littéraires décernés au cours de l'année 2005';777;0
+e;10871370;'prix littéraires décernés au cours de l'année 2004';777;0
+e;10871368;'prix littéraires décernés au cours de l'année 2003';777;0
+e;10871364;'prix littéraires décernés au cours de l'année 2002';777;0
+e;10871358;'prix littéraires décernés au cours de l'année 2000';777;0
+e;10871357;'prix littéraires décernés au cours de l'année 1999';777;0
+e;10871354;'prix littéraires décernés au cours de l'année 1998';777;0
+e;10871352;'prix littéraires décernés au cours de l'année 1997';777;0
+e;10871347;'prix littéraires décernés au cours de l'année 1996';777;0
+e;10871342;'prix littéraires décernés au cours de l'année 1995';777;0
+e;10871329;'prix littéraires décernés au cours de l'année 2015';777;0
+e;10871296;'prix des libraires';777;0
+e;10907947;'prix de l'École de l'image';777;0
+e;10907944;'prix René-Goscinny';777;0
+e;10907937;'prix des partenaires du festival d'Angoulême';777;0
+e;10907936;'prix Schlingo';777;0
+e;10905530;'prix Subaru de littérature';777;0
+e;10971512;'prix Chateaubriand';777;0
+e;10968549;'remporter un grand prix';1;0
+e;10989800;'prix Alley';777;0
+e;11771268;'prix international Charlemagne d'Aix-la-Chapelle';777;0
+e;15428195;'coûter un prix fou';1;0
+e;15432300;'dans mes prix';1;0
+e;15522561;'dans quelle gamme de prix';1;0
+e;15358924;'dans quels prix';1;0
+e;15539288;'de grandes variations entre les prix';1;0
+e;15352416;'de premier prix';1;0
+e;15208293;'demande de prix';1;0
+e;15594223;'demander le prix';1;0
+e;15544149;'des primo-accédants exclus des banlieues avoisinantes à cause de la hausse des prix';1;0
+e;15382567;'des prix inabordables';1;0
+e;15409537;'des prix prohibitifs';1;0
+e;15392641;'deux pour le prix d'un';1;0
+e;15432305;'dicter les prix';1;0
+e;15237191;'différence de prix';1;0
+e;15542931;'différences de prix';1;0
+e;15491599;'diminution des prix';1;0
+e;15324709;'dispersion de prix';1;0
+e;15492877;'distribuer les prix';1;0
+e;15210480;'donner comme prix';1;0
+e;15753550;'donner un prix pour';1;0
+e;15753543;'donner un prix pour qch';1;0
+e;15753547;'donner un prix pour quelque chose';1;0
+e;15594259;'double du prix normal';1;0
+e;15208297;'déblocage des prix';1;0
+e;15528811;'déblocages des prix';1;0
+e;15320324;'dérapage des prix';1;0
+e;15330784;'déterminant des prix';1;0
+e;5679146;'prix Femina étranger';777;0
+e;5679129;'prix Pulitzer de la fiction';777;0
+e;5679100;'prix Nadal';777;0
+e;5679087;'prix des Libraires';777;0
+e;5679085;'prix des Deux Magots';777;0
+e;5678888;'prix Ray Bradbury';777;0
+e;5783933;'prix Laure-Bataillon';777;0
+e;5815453;'prix Wolf';777;0
+e;9966169;'prix Staline';777;0
+e;9966457;'prix Staline pour la paix';777;0
+e;9966458;'prix Lénine pour la paix';777;0
+e;9971536;'prix d'État de la Fédération de Russie';777;0
+e;9968515;'prix Jacques-Prévert du scénario';777;0
+e;9968106;'prix de la Banque de Suède en sciences économiques en mémoire d'Alfred Nobel';777;0
+e;9967796;'prix Pacem in Terris de la Paix et de la Liberté';777;0
+e;9984693;'Grand prix de la FIPRESCI';777;0
+e;9984315;'prix Michel-Simon';777;0
+e;9984207;'18e cérémonie des prix Lumières';777;0
+e;9982733;'prix Henri-Jeanson';777;0
+e;9990075;'Grands prix Sacem';777;0
+e;9999366;'prix national Taras Chevtchenko';777;0
+e;10578546;'19e cérémonie des prix Lumières';777;0
+e;10578280;'prix Charles-Exbrayat';777;0
+e;10596468;'prix Ruth-Lyttle-Satter';777;0
+e;10733122;'prix des Incorruptibles';777;0
+e;10971513;'grand prix d'histoire Chateaubriand';777;0
+e;10993130;'prix national de littérature narrative';777;0
+e;11054654;'lauréats du prix de Rome en peinture';777;0
+e;11782448;'prix Roberto-Rossellini';777;0
+e;11782444;'Grand prix technique';777;0
+e;11782443;'prix Vulcain de l'artiste technicien';777;0
+e;11782438;'prix de la jeunesse';777;0
+e;12313334;'prix Van Wijngaarden';777;0
+e;15377487;'choc devant le prix affiché';1;0
+e;15364305;'cohérence de prix';1;0
+e;15265999;'comparer les prix avant de choisir';1;0
+e;15266001;'comparer les prix avant de décider';1;0
+e;15282413;'condition de prix';1;0
+e;15376668;'conditions et prix';1;0
+e;15485264;'cotation à prix unique';1;0
+e;5678855;'prix British Science Fiction';777;0
+e;2428317;'prix-choc';1;0
+e;5563790;'prix Sang d'encre';777;0
+e;5635081;'prix Grammont';777;0
+e;5679150;'prix Victor-Rossel';777;0
+e;5679149;'prix de Flore';777;0
+e;5679141;'prix Louis-Guilloux';777;0
+e;5679104;'prix Strega';777;0
+e;5679097;'prix Miguel de Cervantes';777;0
+e;5679093;'prix Büchner';777;0
+e;5679092;'prix Georg-Büchner';777;0
+e;5679083;'prix Théophraste Renaudot';777;0
+e;5678874;'prix Julia-Verlanger';777;0
+e;5678865;'prix Rosny aîné';777;0
+e;5678861;'grand prix de l'Imaginaire';777;0
+e;5678858;'prix World Fantasy';777;0
+e;5678856;'prix Bram-Stoker';777;0
+e;5678853;'prix Arthur-C.-Clarke';777;0
+e;5678851;'prix Locus';777;0
+e;5678847;'prix Philip-K.-Dick';777;0
+e;5688824;'prix Stanislavski';777;0
+e;5688815;'prix du Brigadier';777;0
+e;5686949;'anciens prix décernés par l'Académie française';777;0
+e;5725814;'prix Paris-Kanellakis';777;0
+e;5723958;'grand prix Gobert';777;0
+e;5835553;'scandale des prix du vin';777;0
+e;9966170;'prix d'État de l'URSS';777;0
+e;9968107;'prix Nobel d'économie';777;0
+e;9985782;'20e cérémonie des prix Lumières';777;0
+e;9982730;'prix d'interprétation masculine';777;0
+e;10584991;'prix du prince Claus';777;0
+e;10733757;'prix Lara';777;0
+e;10733756;'prix Planeta';777;0
+e;10910583;'grand prix du disque Produit en Bretagne';777;0
+e;10910582;'prix musical Produit en Bretagne';777;0
+e;10918176;'prix Victor-Barbeau';777;0
+e;10921930;'prix de l'amitié franco-arabe';777;0
+e;10921522;'prix Jean-Perrin';777;0
+e;10921493;'prix du premier roman de l'université d'Artois';777;0
+e;10993419;'prix Erwin Plein Nemmers d'économie';777;0
+e;10993522;'prix Frederic Esser Nemmers de mathématiques';777;0
+e;10993417;'prix Claude-Lévi-Strauss';777;0
+e;10993521;'prix Nemmers';777;0
+e;11061112;'prix culturel du ministère des Affaires étrangères';777;0
+e;11061111;'prix du jeune artiste';777;0
+e;11060853;'prix Demidoff';777;0
+e;11356055;'rentes à prix d'argent';777;0
+e;11358501;'prix de la BnF';777;0
+e;11358578;'prix de l'Union européenne pour l'architecture contemporaine Mies van der Rohe';777;0
+e;11753783;'prix Giovanni-Mauro';777;0
+e;11753785;'prix Mauro';777;0
+e;11783732;'indices des prix de Laspeyres-Paasche';777;0
+e;11784412;'prix mondial de la liberté de la presse Guillermo Cano';777;0
+e;11822255;'prix Gottfried Keller';777;0
+e;11822249;'prix de l'État autrichien pour la littérature européenne';777;0
+e;11822266;'prix Michel-Dentan';777;0
+e;11822256;'prix Schiller';777;0
+e;11822248;'prix Kossuth';777;0
+e;11822554;'prix Adonáis de poésie';777;0
+e;11822551;'prix national de la jeune poésie';777;0
+e;11823811;'prix mondial Cino-Del-Duca';777;0
+e;11910733;'prix Mauvais genres';777;0
+e;11993284;'prix de la page 112';777;0
+e;13535265;'Cinéastes à tout prix';777;0
+e;12053645;'compétitivité-prix';1;0
+e;15493768;'au plus juste prix';1;0
+e;15432293;'au prix de [qch]';1;0
+e;15493935;'au prix de cession';1;0
+e;15493934;'au prix de marché';1;0
+e;15594195;'au prix de quelque chose';1;0
+e;15396054;'au prix du marché';1;0
+e;15493931;'au prix où c'est';1;0
+e;15594232;'augmentant le prix';1;0
+e;15490675;'augmentant les prix';1;0
+e;15531545;'augmentation des prix';1;0
+e;15594230;'augmenter le prix';1;0
+e;15594226;'baissant le prix';1;0
+e;15265138;'baisse de prix';1;6
+e;15410647;'barème de prix';1;0
+e;15410654;'barème des prix';1;0
+e;15574204;'blocage des prix et des salaires';1;0
+e;15542349;'bon rapport qualité prix';1;0
+e;15513435;'bordereau de prix unitaires';1;0
+e;15336476;'brusque augmentation du prix';1;0
+e;15411249;'calcul des prix';1;0
+e;15303954;'cassant les prix';1;0
+e;15432295;'casseur de prix';1;0
+e;15377086;'centre commercial à prix d'usine';1;0
+e;5566125;'prix Torii de musique';777;0
+e;5565250;'grands prix nationaux de musique des patronages';777;0
+e;5678079;'prix littéraires de science-fiction';777;0
+e;9949403;'prix Pulitzer de la biographie ou de l'autobiographie';777;0
+e;10035996;'37e cérémonie de remise des prix des Oscars';777;0
+e;10035264;'prix Bob-Morane';777;0
+e;10035263;'prix Ignotus';777;0
+e;10035181;'prix Dadasaheb Phalke';777;0
+e;10034552;'prix Don Balón';777;0
+e;10033911;'17e cérémonie des prix Lumières';777;0
+e;10031263;'prix Mishima';777;0
+e;10029651;'prix littéraires décernés au cours de l'année 2001';777;0
+e;10958218;'prix Albert-Lasker';777;0
+e;10956056;'prix Jeune Mousquetaire du premier roman';777;0
+e;10951584;'prix Robert-Cliche';777;0
+e;10577052;'prix Polar';777;0
+e;10743118;'prix Goya du meilleur scénario original';777;0
+e;10744097;'prix Gondecourt';777;0
+e;10743121;'prix Goya de la meilleure musique originale';777;0
+e;10743114;'prix Goya du meilleur espoir masculin';777;0
+e;10743110;'prix Goya de la meilleure actrice';777;0
+e;10743108;'prix Goya du meilleur réalisateur';777;0
+e;10955937;'prix de bande dessinée';777;0
+e;10913990;'prix de la Ligue majeure de baseball';1;0
+e;10918307;'édition 2007 du grand prix d'été de combiné nordique';777;0
+e;10918306;'édition 2006 du grand prix d'été de combiné nordique';777;0
+e;10918305;'édition 2005 du grand prix d'été de combiné nordique';777;0
+e;10918304;'édition 2004 du grand prix d'été de combiné nordique';777;0
+e;11082889;'prix Fénéon';777;0
+e;11354723;'prix Hugo du meilleur roman';777;0
+e;11406405;'prix Maurice-Yvain';777;0
+e;11782434;'prix un certain regard';777;0
+e;11807331;'grand prix de la Critique littéraire';777;0
+e;11807967;'prix Émile-Nelligan';777;0
+e;11807971;'prix littéraires du Journal de Montréal';777;0
+e;11815570;'prix Novembre';777;0
+e;11821821;'prix Willie Mays du Joueur par excellence de la Série mondiale';777;0
+e;11827977;'prix Orange du Livre';777;0
+e;15352430;'article de premier prix';1;0
+e;15213524;'attacher du prix à';1;0
+e;5920796;'prix Tortoni';777;0
+e;5919545;'prix spot';777;0
+e;5919150;'prix du fioul domestique en France';777;0
+e;5918153;'prix mondial de l'alimentation';777;0
+e;5962255;'Un père à tout prix';777;0
+e;5953539;'prix Olivar-Asselin';777;0
+e;9949381;'prix Pulitzer d'histoire';777;0
+e;9936760;'prix Enrico-Fermi';777;0
+e;10035177;'prix Nandi';777;0
+e;10833873;'prix du premier roman';777;0
+e;10834425;'prix Eisner';777;0
+e;10943346;'prix Busiris';777;0
+e;10833872;'prix littéraire de la vocation';777;0
+e;10746376;'prix Louis Pergaud';777;0
+e;10745093;'prix de Mercure';777;0
+e;10834424;'prix Will Eisner de l'industrie de la bande dessinée';777;0
+e;10850010;'prix Une autre Terre';777;0
+e;10865521;'prix Henri-Langlois';777;0
+e;10865166;'prix Elaine-Bennett pour la recherche';777;0
+e;11021623;'prix Kenneth O. May';777;0
+e;11020413;'prix Sigmund Freud de la Deutsche Akademie für Sprache und Dichtung';777;0
+e;11082327;'prix Abd-el-Tif';777;0
+e;11083091;'prix littéraire et artistique';1;0
+e;11412182;'prix Mouammar Kadhafi des droits de l'homme';777;0
+e;11695781;'prix de la Souris Mathusalem';777;0
+e;11813711;'prix du Syndicat de la critique';777;0
+e;11815569;'prix Décembre';777;0
+e;11816287;'lauréats du prix de Rome en gravure';777;0
+e;11824331;'prix Grimm international';777;0
+e;11825335;'prix du jury oecuménique';777;0
+e;11830330;'prix Claude-Seignolle';777;0
+e;16143403;'Le prix pourrait augmenter substantiellement.';1;0
+e;16133097;'Les prix ont encore monté.';1;0
+e;15401916;'On l'a désignée pour remettre le prix.';1;0
+e;15392635;'Peu importe le prix.';1;0
+e;16074251;'Réfaction du prix';1;0
+e;16074320;'Révision d'un prix';1;0
+e;16074321;'Révision provisoire des prix';1;0
+e;15384560;'Sa tête est mise à prix.';1;0
+e;15779515;'Trophée photo du prix Bayeux-Calvados des correspondants de guerre';777;0
+e;15362001;'accord sur la chose et le prix';1;0
+e;15362003;'accord sur la chose et sur le prix';1;0
+e;15356899;'achetant à vil prix';1;0
+e;15424956;'acheter [qch] à prix d'or';1;0
+e;15594210;'acheter au meilleur prix';1;0
+e;15594191;'acheter quelque chose à prix d'or';1;0
+e;15408868;'acheter à prix coûtant';1;0
+e;15356897;'acheter à vil prix';1;0
+e;15580792;'action en réduction du prix';1;0
+e;15432287;'alignement des prix';1;0
+e;15432289;'aligner les prix';1;0
+e;15432291;'aller chercher dans les [prix]';1;0
+e;16239101;'Le paiement d'un prix injuste';777;0
+e;5724186;'grand prix de philosophie';777;0
+e;5724108;'prix Monpetit';777;0
+e;5966904;'prix Tour Eiffel de science-fiction';777;0
+e;5982994;'prix Paul Duvigneaud';777;0
+e;9936707;'prix Enrico Fermi';777;0
+e;10042087;'prix Ciné Roman Carte Noire';777;0
+e;10040583;'prix Daniel Toscan du Plantier';777;0
+e;10832426;'Championnes à tout prix';777;0
+e;10252487;'prix Pritzker';777;0
+e;10843615;'prix Guillaume-Apollinaire';777;0
+e;10558313;'prix Adolf-Grimme';777;0
+e;10830944;'prix Yrjö-Jahnsson';777;0
+e;10843771;'prix Servant';777;0
+e;10843614;'prix Antonin-Artaud';777;0
+e;10843338;'prix Loève';777;0
+e;10843336;'prix international Line et Michel Loève pour la théorie des probabilités';777;0
+e;10843253;'liste des français lauréats du prix Nobel';777;0
+e;10843242;'prix Jean-Ricard';777;0
+e;10843223;'prix japonais';777;0
+e;10843095;'prix Mergier-Bourdeix';777;0
+e;10842989;'prix Eugène-Catalan';777;0
+e;10842746;'prix ICTP Ramanujan pour les jeunes mathématiciens des pays en développement';777;0
+e;10842213;'prix Pólya';777;0
+e;10842212;'prix Naylor';777;0
+e;10842211;'prix Fröhlich';777;0
+e;10842209;'prix Whitehead Senior';777;0
+e;10842208;'prix Whitehead';777;0
+e;10839453;'prix Imaginales';777;0
+e;10853686;'prix Shamus';777;0
+e;10852588;'prix Damon Knight Memorial Grand Master';777;0
+e;10852585;'prix Andre-Norton';777;0
+e;10851669;'prix Yellow-Kid';777;0
+e;10867410;'prix Bernard-Mazières du livre politique';777;0
+e;11020412;'prix Sigmund-Freud pour la prose scientifique';777;0
+e;11347222;'prix commémoratif Albert Leon Whiteman';777;0
+e;11347200;'prix littéraires de la Communauté française';777;0
+e;11347195;'prix Leroy P. Steele';777;0
+e;11347181;'prix national de la culture et de l'art';777;0
+e;11360640;'prix Miguel-de-Cervantes';777;0
+e;11409826;'prix impérial de l'Académie japonaise';777;0
+e;11454163;'prix Charles Stark Draper';777;0
+e;11831413;'prix Kalinga';777;0
+e;11831412;'prix Anisfield-Wolf';777;0
+e;11980963;'prix Acfas Thérèse Gouin-Décarie';777;0
+e;11980967;'prix Armand-Frappier';777;0
+e;11980966;'prix Innovation';777;0
+e;12049085;'prix Édouard Rod';777;0
+e;12049089;'prix Meret Oppenheim';777;0
+e;12050144;'prix e.o.plauen';777;0
+e;12067703;'rémunérer au juste prix';1;0
+e;12080964;'prix public conseillé';1;0
+e;12080961;'prix de réserve';1;0
+e;12080959;'prix de Diane';1;0
+e;12080957;'prix d'éviction';1;0
+e;12302097;'prix Nijinski';777;0
+e;12880541;'prix Hudson';777;0
+e;13429416;'grand prix de la ville d'Angoulême';777;0
+e;13447379;'prix Aymé Poirson';777;0
+e;16027893;'Répercussions financières sur le prix de l'eau';777;0
+e;15409541;'Le prix de la viande et du beurre était prohibitif.';1;0
+e;15392646;'Le prix des CD a baissé.';1;0
+e;15560811;'Le prix des ordinateurs a baissé.';1;0
+e;15338829;'Le prix du logiciel varie.';1;0
+e;15392639;'Le prix est trop élevé.';1;0
+e;15490196;'Les prix des maisons avaient effroyablement grimpé.';1;0
+e;15582515;'Les prix seront attribués par tirage au sort.';1;0
+e;15353597;'Les repas sont hors de prix ici!';1;0
+e;15570475;'Les restaurants sont tenus, de par la loi, à afficher leurs prix';1;0
+e;15357779;'Leurs prix sont scandaleux.';1;0
+e;16358828;'Josh remporte le prix';777;0
+e;5704006;'prix Raymond-Devos';777;0
+e;5688589;'prix Louis-Delluc';777;0
+e;5724188;'grand prix du théâtre';777;0
+e;5977199;'prix Nobel de physiologie';1;0
+e;10044833;'prix Jules-Fournier';777;0
+e;10044808;'prix de la critique internationale';777;0
+e;10044807;'prix FIPRESCI';777;0
+e;10044781;'prix humanitaire Jean Hersholt';777;0
+e;10044222;'48e cérémonie de remise des prix des Oscars du cinéma américain';777;0
+e;10044207;'46e cérémonie de remise des prix des Oscars du cinéma';777;0
+e;10044182;'44e cérémonie de remise des prix des Oscars du cinéma';777;0
+e;10044166;'43e cérémonie de remise des prix des Oscars du cinéma';777;0
+e;10044159;'42e cérémonie de remise des prix des Oscars du cinéma';777;0
+e;10044150;'41e cérémonie de remise des prix des Oscars du cinéma';777;0
+e;10044120;'36e cérémonie de remise des prix des Oscars';777;0
+e;10044095;'31e cérémonie de remise des prix des Oscars';777;0
+e;10044012;'22e cérémonie de remise des prix des Oscars';777;0
+e;10042228;'prix littéraires décernés au cours de l'année 1994';777;0
+e;10039894;'prix Lambda Literary';777;0
+e;10302275;'prix Jeunes diplômés';777;0
+e;10315684;'prix Suzanne-Bianchetti';777;0
+e;10316272;'prix Aujourd'hui';777;0
+e;10311909;'prix Etrog';777;0
+e;10311910;'prix Albert-Tessier';777;0
+e;10843340;'prix Sophie-Germain';777;0
+e;10843335;'prix Rollo-Davidson';777;0
+e;10855446;'prix Tony Gwynn';777;0
+e;10855444;'prix Rod Carew';777;0
+e;10933557;'obtenir un prix';1;0
+e;10935846;'recevoir un prix';1;0
+e;10936916;'réclamer un prix';1;0
+e;11014007;'prix Compasso d'Oro';777;0
+e;11288114;'prix de littérature contemporaine';777;0
+e;11343760;'grand prix national des Lettres';777;0
+e;11346744;'grand prix du livre de Montréal';777;0
+e;11346737;'prix du poète';777;0
+e;11346736;'prix des lecteurs du Marché de la poésie de Montréal';777;0
+e;11346735;'prix Gilles-Corbeil';777;0
+e;11346734;'prix Alain-Grandbois';777;0
+e;11346733;'prix Ludger-Duvernay';777;0
+e;11346732;'prix Québec-Paris';777;0
+e;11344075;'prix des Ambassadeurs';777;0
+e;11362390;'prix Ariane de Rothschild';777;0
+e;11416027;'prix Senghor';777;0
+e;11479352;'prix Levi L. Conant';777;0
+e;11577400;'prix d'un véhicule';1;0
+e;11578438;'prix Eugène-Dabit du roman populiste';777;0
+e;11938232;'Le prix de la Mémoire';777;0
+e;12009106;'prix Marconi';777;0
+e;12009173;'prix Sarah-Siddons';777;0
+e;12049917;'identifier des opportunités de prix';1;0
+e;12050131;'prix Hans-Christian-Andersen';777;0
+e;12050145;'prix d'encouragement e.o.plauen';777;0
+e;12050459;'définir les prix des menus';1;0
+e;12050582;'prix littéraires décernés au cours de l'année 1960';777;0
+e;12080963;'prix prédateur';1;0
+e;12080962;'prix magique';1;0
+e;12080960;'prix de discompte';1;0
+e;12080958;'prix d'acceptabilité';1;0
+e;15392010;'Le prix a doublé en dix ans.';1;0
+e;16027294;'Le paiement d'un prix juste';777;0
+e;5688442;'prix d'interprétation féminine';777;0
+e;9942193;'payer le prix du sang';1;0
+e;10045889;'Grand prix';777;0
+e;10044834;'prix René-Lévesque';777;0
+e;10325378;'prix du scénario';777;0
+e;10324641;'prix Artis';777;0
+e;10341499;'prix littéraires décernés au cours de l'année 1993';777;0
+e;10341495;'grand prix catholique de littérature';777;0
+e;10776493;'prix Jean-Jacques-Lerrant';777;0
+e;10792019;'prix Génie du meilleur acteur dans un second rôle';777;0
+e;10792018;'prix Génie du meilleur réalisateur';777;0
+e;10792017;'prix Génie de la meilleure actrice dans un second rôle';777;0
+e;10791493;'prix Miles-Franklin';777;0
+e;10828645;'1re cérémonie des prix Écrans canadiens';777;0
+e;10829691;'prix Jabuti';777;0
+e;10846996;'prix Urhunden';777;0
+e;10846994;'prix Adamson';777;0
+e;11258575;'prix Thiers';777;0
+e;11256469;'prix Goncourt du premier roman';777;0
+e;11256467;'prix littéraires décernés au cours de l'année 2018';777;0
+e;11256466;'prix littéraires décernés au cours de l'année 2013';777;0
+e;11256455;'prix littéraires décernés au cours de l'année 1992';777;0
+e;11256454;'prix littéraires décernés au cours de l'année 1991';777;0
+e;11256452;'prix littéraires décernés au cours de l'année 1990';777;0
+e;11256450;'prix littéraires décernés au cours de l'année 1989';777;0
+e;11256448;'prix littéraires décernés au cours de l'année 1988';777;0
+e;11256447;'prix littéraires décernés au cours de l'année 1987';777;0
+e;11256446;'prix littéraires décernés au cours de l'année 1986';777;0
+e;11256444;'prix littéraires décernés au cours de l'année 1985';777;0
+e;11256443;'prix littéraires décernés au cours de l'année 1984';777;0
+e;11256442;'prix littéraires décernés au cours de l'année 1973';777;0
+e;11256441;'prix littéraires décernés au cours de l'année 1982';777;0
+e;11256440;'prix littéraires décernés au cours de l'année 1981';777;0
+e;11256438;'prix littéraires décernés au cours de l'année 1980';777;0
+e;11256437;'prix littéraires décernés au cours de l'année 1979';777;0
+e;11256436;'prix littéraires décernés au cours de l'année 1978';777;0
+e;11256434;'prix littéraires décernés au cours de l'année 1977';777;0
+e;11256433;'prix littéraires décernés au cours de l'année 1976';777;0
+e;11256432;'prix littéraires décernés au cours de l'année 1975';777;0
+e;11256431;'prix littéraires décernés au cours de l'année 1974';777;0
+e;11256412;'prix Marcel-Couture';777;0
+e;11256411;'prix Richard-Arès';777;0
+e;11256223;'prix Marguerite-Audoux';777;0
+e;11343183;'prix Holweck';777;0
+e;11343198;'prix Hugo du meilleur roman court';777;0
+e;11393904;'prix Georg-Trakl';777;0
+e;11392947;'prix Riverton';777;0
+e;11416026;'prix Senghor du premier roman francophone et francophile';777;0
+e;11545237;'prix Akatsuka';777;0
+e;11552722;'prix Descartes-Huygens';777;0
+e;11552720;'prix Vetlesen';777;0
+e;11577406;'prix d'un appartement';1;0
+e;11577405;'prix d'une maison';1;0
+e;11577404;'prix d'un avion';1;0
+e;11577403;'prix d'une moto';1;0
+e;11577402;'prix d'une automobile';1;0
+e;11577401;'prix d'une voiture';1;0
+e;11590136;'prix Raoul-Breton';777;0
+e;11590007;'prix du Komsomol';777;0
+e;11840640;'prix Quadriga';777;0
+e;11937621;'prix Opus';777;0
+e;11938128;'prix Robert F. Kennedy des droits de l'homme';777;0
+e;12010236;'grand prix du meilleur scénariste';777;0
+e;12010237;'prix Arlequin';777;0
+e;2448510;'mettre la tête à prix';1;0
+e;5536568;'parabole de la perle de grand prix';777;0
+e;5893975;'prix Gemini';777;0
+e;10773278;'grand prix de la critique';777;0
+e;10773279;'prix Bloody Mary';777;0
+e;10773280;'prix Tournesol';777;0
+e;10046375;'30e gala des prix Félix';777;0
+e;10046348;'prix Félix-Leclerc de la poésie';777;0
+e;10046346;'prix Félix-Leclerc de la chanson';777;0
+e;10046280;'36e gala des prix Félix';777;0
+e;10046270;'37e gala des prix Félix';777;0
+e;10046266;'32e gala des prix Félix';777;0
+e;10046263;'35e gala des prix Félix';777;0
+e;10046262;'31e gala des prix Félix';777;0
+e;10046260;'33e gala des prix Félix';777;0
+e;10046230;'34e gala des prix Félix';777;0
+e;10046140;'Le Gagnant du grand prix';777;0
+e;10046076;'prix Michel d'Ornano';777;0
+e;10046074;'prix d'Ornano-Valenti';777;0
+e;10045260;'prix littéraires décernés au cours de l'année 2017';777;0
+e;10056548;'prix Gémeaux';777;0
+e;10056431;'prix Victor-Morin';777;0
+e;10775160;'grand prix du théâtre du Syndicat de la critique';777;0
+e;10061938;'5e cérémonie des prix Lumières';777;0
+e;10059772;'La Vie à tout prix';777;0
+e;10325037;'L'honneur à tout prix';777;0
+e;10343936;'prix DiaspAura';777;0
+e;10346137;'prix Ariel';777;0
+e;10345943;'prix Pictet';777;0
+e;10363706;'grand prix de l'héroïne Madame Figaro';777;0
+e;10552298;'Grand prix du disque';777;0
+e;10778390;'prix Prince des Asturies';777;0
+e;10778389;'prix Princesse des Asturies';777;0
+e;10776742;'prix Alexis-de-Tocqueville';777;0
+e;10936217;'prix faible';1;0
+e;11101194;'prix Ig Nobel';777;0
+e;11147571;'prix Pilgrim';777;0
+e;11152449;'prix Filmfare de la meilleure actrice en télougou';777;0
+e;11152181;'prix du Meilleur Livre étranger';777;0
+e;11152109;'liste des lauréats du prix Booker en fiction';777;0
+e;11152104;'prix de poésie Kenneth Slessor';777;0
+e;11151893;'prix Médicis étranger';777;0
+e;11233441;'prix de la culture asiatique de Fukuoka';777;0
+e;11233929;'prix Rumelhart';777;0
+e;11234001;'prix de Pardieu';777;0
+e;11248086;'prix Sant Jordi du roman';777;0
+e;11256224;'prix Goncourt de la nouvelle';777;0
+e;11302226;'prix Calixa-Lavallée';777;0
+e;11296445;'Premier prix';777;0
+e;11392948;'prix Clé de Verre';777;0
+e;11504109;'prix Wolf de médecine';777;0
+e;11532940;'prix Albert-Einstein';777;0
+e;11552724;'prix du livre Science pour tous';777;0
+e;11590937;'prix Jules-Janssen';777;0
+e;11659538;'prix Templeton';777;0
+e;11833596;'prix Gassman';777;0
+e;11838241;'prix RTL grand public';777;0
+e;11955443;'prix du carburant';1;0
+e;11955250;'prix Fitzgerald';777;0
+e;5686238;'1re cérémonie des prix Lumières';777;0
+e;10047115;'prix de la critique allemande';777;0
+e;10046807;'prix Génie du meilleur film';777;0
+e;10046794;'prix Claude-Jutra';777;0
+e;10046793;'prix Génie de la meilleure actrice';777;0
+e;10046654;'prix France Info de la Bande dessinée d'actualité et de reportage';777;0
+e;10046650;'grand prix RTL de la bande dessinée';777;0
+e;10046642;'prix Harvey';777;0
+e;10046373;'lauréats des prix Félix en 2007';777;0
+e;10046372;'lauréats des prix Félix en 2006';777;0
+e;10046368;'lauréats des prix Félix en 2004';777;0
+e;10046367;'lauréats des prix Félix en 2000';777;0
+e;10046364;'lauréats des prix Félix en 1994';777;0
+e;10046363;'lauréats des prix Félix en 1990';777;0
+e;10046360;'Lauréats des prix Félix en 1989';777;0
+e;10046358;'Lauréats des prix Félix en 1987';777;0
+e;10046357;'Lauréats des prix Félix en 1984';777;0
+e;10046354;'lauréats des prix Félix en 1981';777;0
+e;10046286;'Lauréats des prix Félix en 1988';777;0
+e;10046277;'les lauréats du prix Félix de la chanson de l'année';777;0
+e;10046274;'Lauréats des prix Félix en 1985';777;0
+e;10046268;'Lauréats des prix Félix 1982';777;0
+e;10046257;'lauréats des prix Félix en 2003';777;0
+e;10046255;'lauréats des prix Félix en 1991';777;0
+e;10046253;'Lauréats des prix Félix en 1983';777;0
+e;10046251;'Lauréats des prix Félix en 1992';777;0
+e;10046248;'lauréats des prix Félix en 1999';777;0
+e;10046245;'lauréats des prix Félix en 1995';777;0
+e;10046243;'lauréats des prix Félix en 1996';777;0
+e;10046236;'lauréats des prix Félix en 2005';777;0
+e;10046235;'Lauréats des prix Félix en 1986';777;0
+e;10046232;'lauréats des prix Félix en 2002';777;0
+e;10046231;'lauréats des prix Félix en 1997';777;0
+e;10344668;'prix Yomiuri';777;0
+e;10349397;'prix Shaw';777;0
+e;10348167;'prix Eugène-Colas';777;0
+e;10348166;'prix Médicis essai';777;0
+e;10348012;'prix Lobatchevski';777;0
+e;10347899;'prix Wolf de mathématiques';777;0
+e;10347898;'prix Junior Berwick';777;0
+e;10347897;'prix Senior Berwick';777;0
+e;10347896;'prix Berwick';777;0
+e;10347889;'prix Henri-Poincaré';777;0
+e;10347885;'prix Cole';777;0
+e;10347884;'prix Frank Nelson Cole';777;0
+e;10347876;'prix de l'Académie des sciences du Japon';777;0
+e;10347875;'prix Asahi';777;0
+e;10347693;'prix André-Lichnerowicz pour la géométrie de Poisson';777;0
+e;10385175;'prix Anthony';777;0
+e;10385171;'grand prix des lectrices de Elle';777;0
+e;10385169;'prix des libraires du Québec';777;0
+e;10385160;'prix Mystère de la critique';777;0
+e;10385159;'prix Dilys';777;0
+e;10385158;'prix Barry';777;0
+e;10385157;'prix Nero';777;0
+e;10553213;'prix Manhae';777;0
+e;10553204;'prix Yi Sang';777;0
+e;10552304;'Grand prix du disque du Télégramme';777;0
+e;10552303;'Grand prix du disque Produit en Bretagne';777;0
+e;10552302;'Grand prix international du disque';777;0
+e;10552301;'Grand prix du disque de l'Association de la presse phonographique';777;0
+e;10552300;'prix Candide';777;0
+e;10552299;'Grand prix du disque de la Fondation Candide';777;0
+e;11151775;'prix du Gouverneur général';777;0
+e;11152105;'Le prix littéraire international IMPAC';777;0
+e;11224010;'prix des Dames';777;0
+e;11224009;'prix Paul Doistau-Émile Blutet de l'information scientifique';777;0
+e;11237553;'prix Constantin';777;0
+e;11248080;'prix Lletra d'Or';777;0
+e;11255551;'prix de l'Âge d'or';777;0
+e;11255331;'prix Jacques-Normand';777;0
+e;11255327;'prix Archon-Despérouses';777;0
+e;11255320;'prix littéraire 30 millions d'amis';777;0
+e;11255315;'grand prix de poésie de la SGDL';777;0
+e;11255313;'prix de poésie Pierrette-Micheloud';777;0
+e;11255311;'prix Goncourt de la poésie';777;0
+e;11255310;'prix Max-Jacob';777;0
+e;11334469;'prix Henri-Malherbe';777;0
+e;11364733;'taxe sur le prix des entrées aux séances organisées par les exploitants d'établissements de spectacles cinématographiques';777;0
+e;11364410;'prix Galilée';777;0
+e;11590847;'prix Albert-Uderzo';777;0
+e;11957699;'prix Hugo de la meilleure histoire graphique';777;0
+e;2396368;'prix Cognacq';1;0
+e;5553446;'grand prix des sciences mathématiques';777;0
+e;5566124;'prix Suntory de musique';777;0
+e;5566123;'prix Candide ou Grand prix du disque';777;0
+e;9950846;'prix Bancroft';777;0
+e;10047165;'prix Nestroy';777;0
+e;10046658;'prix Micheluzzi';777;0
+e;10046366;'lauréats des prix Félix en 1998';777;0
+e;10046264;'lauréats des prix Félix en 2001';777;0
+e;10046259;'Lauréats des prix Félix en 1980';777;0
+e;10046240;'lauréats des prix Félix en 1993';777;0
+e;10191295;'prix Adami';777;0
+e;10190772;'prix Écrans canadiens';777;0
+e;10190194;'prix de la meilleure comédienne du syndicat de la critique';777;0
+e;10189366;'prix Lumières du meilleur espoir masculin';777;0
+e;10189338;'10e cérémonie des prix Lumières';777;0
+e;10369078;'prix anciennement remis au festival d'Angoulême';777;0
+e;10368713;'grand prix du Manga';777;0
+e;10423068;'prix Joe-Shuster';777;0
+e;10423066;'prix Inkpot';777;0
+e;10515960;'prix Vautrin-Lud';777;0
+e;10549989;'prix de l'Association des poètes coréens';777;0
+e;10549453;'prix spécial Albert-Lasker';777;0
+e;10549447;'prix de Kyoto';777;0
+e;10549395;'prix Louisa-Gross-Horwitz';777;0
+e;10549389;'liste des récipiendaires du prix Nobel';777;0
+e;10548932;'prix Varenne de la radio';777;0
+e;10548922;'grand prix RTL-Lire';777;0
+e;10548910;'prix France Culture-Télérama';777;0
+e;10554998;'prix de l'Humour noir';777;0
+e;11223808;'prix Raymond-Klibansky';777;0
+e;11249335;'prix européen Utopiales des pays de la Loire';777;0
+e;11249750;'prix Lalande';777;0
+e;11249850;'prix Sproing';777;0
+e;11249849;'prix Ignatz';777;0
+e;11251657;'grand prix suisse de théâtre/Anneau Hans Rheinhardt';777;0
+e;11303343;'prix Aleksis-Kivi';777;0
+e;11571877;'prix Sakharov';777;0
+e;11575833;'prix de l'Équerre d'argent d'Architecture du Moniteur';777;0
+e;11575770;'prix Erasmus';777;0
+e;11575768;'prix Yakir Yeroushalayim';777;0
+e;2376429;'chacun vaut son prix';1;0
+e;5704005;'prix Raymond-Devos de la langue française';777;0
+e;10074025;'prix Peccot-Vimont';777;0
+e;10074024;'prix Peccot';777;0
+e;10074002;'prix Crafoord';777;0
+e;10083515;'prix Arthur-Ellis';777;0
+e;10135533;'prix ARCA CinemaGiovani';777;0
+e;10135526;'prix Jaeger-LeCoultre Glory to the Filmmaker';777;0
+e;10135525;'prix Robert-Bresson';777;0
+e;10135524;'prix Osella pour la meilleure contribution technique';777;0
+e;10135512;'prix Marcello-Mastroianni';777;0
+e;10135511;'prix Osella pour le meilleur scénario';777;0
+e;10135510;'prix du meilleur scénario de la Mostra de Venise';777;0
+e;10135362;'prix Sebastiane';777;0
+e;10135349;'Lion d'argent pour le Grand prix du jury';777;0
+e;10135348;'Grand prix du jury';777;0
+e;10135324;'prix François-Chalais';777;0
+e;10368353;'prix du jury';777;0
+e;10368344;'prix national de la République démocratique allemande';777;0
+e;10513063;'prix de Rome américain';777;0
+e;10512952;'prix Pushcart';777;0
+e;10509558;'liste des prix';777;0
+e;10506437;'prix Sorcières';777;0
+e;10515959;'prix international de géographie Vautrin-Lud';777;0
+e;10549454;'prix spécial Lasker-Koshland en science médicale';777;0
+e;10549399;'prix Gairdner';777;0
+e;10549393;'prix Albert-Lasker pour la recherche médicale fondamentale';777;0
+e;10548931;'prix Roland-Dorgelès';777;0
+e;10548907;'prix littéraires décernés au cours de l'année 2016';777;0
+e;10761340;'prix Denise-Pelletier';777;0
+e;10754393;'prix Judith-Jasmin';777;0
+e;11146868;'prix international de poésie francophone Yvan-Goll';777;0
+e;11153616;'attaque grand prix';777;0
+e;11178772;'prix Tristan-Tzara';777;0
+e;11216256;'prix Roger-Nimier';777;0
+e;11216269;'prix Paul-Léautaud';777;0
+e;11304634;'grands prix des associations littéraires';777;0
+e;11376249;'prix Goethe';777;0
+e;11575474;'prix Viareggio';777;0
+e;11575771;'prix Wolf en art';777;0
+e;11575832;'prix de l'Équerre d'argent';777;0
+e;11575769;'prix Érasme';777;0
+e;11576080;'prix Schock';777;0
+e;11968696;'prix Nessim-Habif';777;0
+e;11957952;'prix Alfred-Döblin';777;0
+e;12787335;'prix Marie-Victorin';777;0
+e;2370489;'payer le prix fort';1;0
+e;5534080;'prix Booker';777;0
+e;5919941;'baisse du prix du pétrole de 2014-2016';777;0
+e;5944459;'prix Ondas';777;0
+e;9949390;'prix Pulitzer de Poésie';777;0
+e;9946140;'prix Francqui';777;0
+e;10074242;'prix d'un billet d'avion';1;0
+e;10091135;'prix Courteline';777;0
+e;10090980;'grand prix de littérature du Conseil nordique';777;0
+e;10089963;'prix du Quai des orfèvres';777;0
+e;10089919;'prix littéraires décernés au cours de l'année 1961';777;0
+e;10093993;'compagnie à bas prix';777;0
+e;10093739;'prix Athanase-David';777;0
+e;10093738;'prix David-Borwein';777;0
+e;10093737;'prix David';777;0
+e;10098802;'prix Claude-Jutra pour la relève';777;0
+e;10129292;'Harvard à tout prix';777;0
+e;10118905;'L'Amour à tout prix';777;0
+e;10118835;'Hôtesse à tout prix';777;0
+e;10181009;'grand prix de la semaine de la critique';777;0
+e;10180528;'prix MacArthur';777;0
+e;10458630;'prix Talent Tout 9';777;0
+e;10458629;'prix Talents W9';777;0
+e;10462638;'30e cérémonie des prix du cinéma européen';777;0
+e;10462636;'29e cérémonie des prix du cinéma européen';777;0
+e;10462635;'28e cérémonie des prix du cinéma européen';777;0
+e;10462634;'26e cérémonie des prix du cinéma européen';777;0
+e;10462633;'25e cérémonie des prix du cinéma européen';777;0
+e;10462630;'24e cérémonie des prix du cinéma européen';777;0
+e;10462629;'23e cérémonie des prix du cinéma européen';777;0
+e;10462628;'22e cérémonie des prix du cinéma européen';777;0
+e;10462627;'21e cérémonie des prix du cinéma européen';777;0
+e;10462616;'prix du cinéma européen du meilleur compositeur';777;0
+e;10461865;'23e cérémonie des prix Lumières';777;0
+e;10461859;'Ours d'argent pour le Grand prix du jury';777;0
+e;10461857;'grand prix du jury';777;0
+e;10460463;'27e cérémonie des prix du cinéma européen';777;0
+e;10459092;'prix Newton Lacy Pierce en astronomie';777;0
+e;10512637;'prix Haxtur';777;0
+e;10509127;'prix du grand public du Salon du livre de Montréal - La Presse';777;0
+e;10507747;'prix à la mémoire de James Tait Black';777;0
+e;10506438;'prix Tam-Tam';777;0
+e;10505990;'prix Agatha';777;0
+e;10550324;'prix Ho-Am en médecine';777;0
+e;11009507;'comparateur de prix';777;0
+e;11157549;'prix A. H. Heineken pour les sciences cognitives';777;0
+e;11160991;'Grand prix Jacques Herbrand';777;0
+e;11161375;'prix Kendall Company';777;0
+e;11161466;'prix Victor-Rossel des jeunes';777;0
+e;11178943;'Le prix du Roman France Télévisions';777;0
+e;11219831;'prix littéraires décernés au cours de l'année 1970';777;0
+e;11252609;'prix littéraire Marcel-Panneton';777;0
+e;11374491;'prix Roberval';777;0
+e;11385751;'prix littéraire Nike';777;0
+e;11387917;'prix littéraire de féerie Oriande';777;0
+e;12790022;'prix Frederick W. Lanchester';777;0
+e;2373510;'prix en trompe-l'oeil';1;0
+e;5898606;'prix Molson du roman';777;0
+e;10074241;'prix d'un billet de bus';1;0
+e;10074240;'prix d'un billet de train';1;0
+e;10074235;'prix d'un billet';1;0
+e;10105984;'prix Kleist';777;0
+e;10178923;'prix Amanda';777;0
+e;10504114;'prix du fair play UEFA';777;0
+e;10503267;'prix européen d'architecture Philippe Rotthier';777;0
+e;10459326;'prix Polar Music';777;0
+e;10870858;'Le prix Raymond-Chandler';777;0
+e;11010634;'place des femmes dans l'attribution du prix Nobel';777;0
+e;11157548;'prix C. L. de Carvalho-Heineken pour les sciences cognitives';777;0
+e;11179021;'prix Joseph-Plateau';777;0
+e;11179022;'prix du mérite';777;0
+e;11179072;'prix André-Cavens';777;0
+e;11326259;'prix Rumford';777;0
+e;5553731;'prix Nebula';777;0
+e;5944457;'prix Goya';777;0
+e;5989487;'signal prix';777;0
+e;6011349;'prix Peter-Gruber de cosmologie';777;0
+e;10137951;'prix CRM-Fields-PIMS';777;0
+e;10136840;'prix du Québec';777;0
+e;10174387;'Grand prix International de la Couleur';777;0
+e;10161979;'prix du roman d'aventures';777;0
+e;10161089;'prix Le Vaudeville';777;0
+e;10161088;'prix La Coupole';777;0
+e;10160972;'prix littéraires gastronomiques et culinaires';777;0
+e;10159439;'Grand prix IAAF';777;0
+e;10159434;'Super grand prix IAAF';777;0
+e;10159367;'grand prix de littérature policière';777;0
+e;10444255;'prix de la critique';777;0
+e;12268022;'prix British Fantasy';777;0
+e;5553224;'prix Wolf de chimie';777;0
+e;5987283;'prix Goldman pour l'environnement';777;0
+e;10433682;'prix Gascon-Roux du TNM';777;0
+e;12268084;'Le New York Times à un prix spécial';777;0
+e;12779707;'prix Bourgeon';777;0
+e;15248756;'La célébrité a un prix.';1;0
+e;15271188;'La loi oblige les restaurateurs à afficher leurs prix.';1;0
+e;2474186;'prix de fabrique';1;0
+e;5901782;'prix Langhe Ceretto';777;0
+e;5980067;'prix Sophie';777;0
+e;10435882;'prix Goya du meilleur film étranger en langue espagnole';777;0
+e;10435589;'prix Hank Aaron';777;0
+e;10435439;'21e cérémonie des prix Lumières';777;0
+e;10433681;'prix Gascon-Roux';777;0
+e;12772080;'prix de la Pléiade';777;0
+e;12779706;'prix Orange';777;0
+e;12779705;'prix Citron';777;0
+e;6487692;'prix de vente conseillé';1;0
+e;10436578;'prix Macavity';777;0
+e;10435889;'prix Sud';777;0
+e;2376356;'prix pour prix';1;0
+e;5944456;'prix Génie';777;0
+e;5985547;'prix hommage';777;0
+e;10438029;'prix Merlin';777;0
+e;10438021;'édition 2008 du grand prix d'été de combiné nordique';777;0
+e;5982734;'prix Nobel alternatif';777;0
+e;15486924;'1000 livres en guise de premier prix';1;0
+e;8852780;'éviter à tout prix';1;0
+e;8854664;'enregistrer le prix d'un article';1;0
+e;8902572;'prix Edgar-Allan-Poe';777;0
+e;9212109;'prix de l'électricité';1;0
+e;9212107;'prix de l'énergie';1;0
+e;9212105;'prix du diesel';1;0
+e;9212102;'prix du tabac';1;0
+e;9212237;'prix marianne';777;0
+e;9250607;'prix Albert-Dauzat';777;0
+e;9259333;'prix Max-Pol-Fouchet';777;0
+e;9490451;'prix Juno';777;0
+e;9570990;'prix Roberto Clemente';777;0
+e;9580652;'prix Cognacq-Jay';777;0
+e;9592160;'prix Prometheus';777;0
+e;9643746;'augmentation du prix du tabac';1;0
+e;9653832;'prix Germaine-Huot';777;0
+e;9747247;'prix John-Llewellyn-Rhys';777;0
+e;10873464;'Grand prix de Grande-Bretagne';777;0
+e;10873460;'Grand prix des Pays-Bas';777;0
+e;11121995;'prix Artémisia';777;0
+e;11122764;'prix Stanislas-Julien';777;0
+e;11126555;'prix Ernst-von-Siemens';777;0
+e;11128650;'prix Nobel de la paix 2012';777;0
+e;11128665;'prix international de la Fondation Hasselblad';777;0
+e;11128668;'prix HCB';777;0
+e;11128669;'prix Cornell Capa';777;0
+e;11128667;'prix Henri-Cartier-Bresson';777;0
+e;11132391;'prix international du manga';777;0
+e;12489470;'prix littéraires décernés au cours de l'année 1954';777;0
+e;12246566;'prix cassés';1;4
+e;12489218;'prix Pulitzer du service public';777;0
+e;12489519;'prix littéraires décernés au cours de l'année 1972';777;0
+e;12489499;'prix littéraires décernés au cours de l'année 1957';777;0
+e;12489498;'prix littéraires décernés au cours de l'année 1956';777;0
+e;12489500;'prix littéraires décernés au cours de l'année 1958';777;0
+e;12489506;'prix littéraires décernés au cours de l'année 1962';777;0
+e;12489226;'prix Pulitzer de la photographie d'actualité';777;0
+e;12489228;'prix Pulitzer de l'essai';777;0
+e;12489512;'prix littéraires décernés au cours de l'année 1968';777;0
+e;12489501;'prix littéraires décernés au cours de l'année 1959';777;0
+e;12489525;'prix littéraires décernés au cours de l'année 1983';777;0
+e;12489465;'prix littéraires décernés au cours de l'année 1953';777;0
+e;12489518;'prix littéraires décernés au cours de l'année 1971';777;0
+e;12489430;'prix littéraires décernés au cours de l'année 1951';777;0
+e;12489409;'prix littéraires décernés au cours de l'année 1950';777;0
+e;12489510;'prix littéraires décernés au cours de l'année 1966';777;0
+e;12489453;'prix littéraires décernés au cours de l'année 1952';777;0
+e;12489225;'prix Pulitzer du reportage télégraphique - National';777;0
+e;12489507;'prix littéraires décernés au cours de l'année 1963';777;0
+e;12493718;'prix Whitbread';777;0
+e;12493717;'prix Costa';777;0
+e;12489699;'prix commémoratif Joseph Pulitzer';777;0
+e;12489516;'prix littéraires décernés au cours de l'année 1969';777;0
+e;12489511;'prix littéraires décernés au cours de l'année 1967';777;0
+e;12489509;'prix littéraires décernés au cours de l'année 1965';777;0
+e;12489508;'prix littéraires décernés au cours de l'année 1964';777;0
+e;12489471;'prix littéraires décernés au cours de l'année 1955';777;0
+e;12489229;'prix Pulitzer de musique';777;0
+e;12489227;'prix Pulitzer du roman';777;0
+e;12549858;'prix Apollo';777;0
+e;12616819;'prix scientifique Kwamé-Nkrumah de l'Union africaine';777;0
+e;12636212;'prix Loebner';777;0
+e;12640480;'recevoir le prix Nobel';1;0
+e;12617678;'remporter de nombreux prix';1;0
+e;12692301;'prix Ernest-Orlando-Lawrence';777;0
+e;12694320;'prix Humboldt de la recherche';777;0
+e;12694318;'prix de recherche Humboldt';777;0
+e;12694315;'prix Panofsky';777;0
+e;12722026;'prix de Gaulle-Adenauer';777;0
+e;12735257;'grand prix du cinéma français';777;0
+e;12722034;'15e cérémonie des prix Lumières';777;0
+e;12722031;'7e cérémonie des prix Lumières';777;0
+e;12710524;'prix des carburants routiers en France';777;0
+e;15980112;'Autres prix';777;0
+e;15804556;'Il a remporté un prix.';1;0
+e;14636454;'Grand prix de l'Imaginaire - Roman francophone';777;0
+e;14062307;'Grand prix international de Venise';777;0
+e;15311547;'Ils vendent à bas prix des marchandises présentant de légères imperfections.';1;0
+e;15296959;'Ils ont fixé un prix pour la voiture.';1;0
+e;15400494;'Ils ont réduit leurs prix.';1;0
+e;15352428;'Il a obtenu le premier prix.';1;0
+e;15664140;'Grand prix de l'Imaginaire';777;0
+e;15370426;'C'est un petit prix à payer pour ...';1;0
+e;15485108;'Je n'irai là-bas à aucun prix.';1;0
+e;15383905;'Je veux éviter ça à tout prix.';1;0
+e;15772199;'Grand prix Mannheim-Heidelberg du nouveau venu';777;0
+e;15787683;'Grand prix RTL-Lire';777;0
+e;15790170;'Grand prix Saint-Michel';777;0
+e;15409790;'L'augmentation des prix frappera les retraités le plus durement.';1;0
+e;16072277;'Bordereau des prix unitaires';1;0
+e;16072398;'Clause de variation du prix';1;0
+e;16073113;'Fixation du prix d'un bien préempté';1;0
+e;459777;'prix spécial du jury';1;54
+e;461271;'Le prix de la fiancée';777;50
+e;1650687;'à n'importe quel prix';1;0
+e;1672034;'prix catalogue';1;0
+e;2339814;'petits prix';1;0
+e;2557944;'chaque chose vaut son prix';1;0
+e;3356353;'réduction de prix';1;0
+e;3669799;'Hors de prix';777;0
+e;566444;'Caisse de stabilisation et de soutien des prix des productions agricoles';777;50
+e;565884;'grand prix du roman';777;50
+e;1128586;'prix des carburants';1;0
+e;2324604;'prix d'Académie';777;0
+e;3727111;'prix de la mise en scène';777;0
+e;4333087;'prix au mètre carré';1;0
+e;1641405;'prix Sakharov pour la liberté de l'esprit';777;0
+e;1818877;'lauréat soviétique du prix Nobel';1;0
+e;3177579;'prix de la libre expression';777;0
+e;4333088;'prix au m2';1;0
+e;4893472;'cérémonie de remise des prix';1;0
+e;5128105;'baissée de prix';1;0
+e;5521662;'niveau de prix d'échanges';1;0
+e;459778;'prix du meilleur acteur';1;50
+e;3298206;'prix très bas';1;0
+e;3319859;'prix minima';1;0
+e;4854128;'prix de l'Académie du disque français';1;0
+e;5521661;'niveau de prix d'échanges sur un marché';1;0
+e;1021301;'prix Sakharov pour la liberté d'expression';777;0
+e;1704279;'laisser à bon prix';1;0
+e;3319858;'prix minimaux';1;0
+e;3725790;'hausse du prix du pétrole';1;0
+e;4306888;'hôtels à bas prix';1;0
+e;4874295;'entente sur les prix';1;0
+e;568084;'prix relatif';777;50
+e;1338354;'prix Darwin';777;0
+e;1372878;'refuser un prix';1;0
+e;1746997;'prix Goncourt des lycéens';1;0
+e;2332227;'prix élevés';1;0
+e;3725789;'baisse du prix du pétrole';1;0
+e;567637;'à prix courants';777;50
+e;1490048;'faire décoller les prix';1;0
+e;1706555;'prix Abel';1;0
+e;1766789;'fixer le prix';1;0
+e;1842231;'prix de journée';1;0
+e;3319860;'prix social';1;0
+e;3439600;'preneurs de prix';777;0
+e;3460826;'prix d'Amérique';1;0
+e;4894643;'jour de la remise des prix';1;0
+e;567638;'à prix constants';777;50
+e;1818875;'lauréat français du prix Nobel';1;0
+e;3169819;'Mise à prix';777;0
+e;3321573;'facilité de réponse rapide à la flambée des prix alimentaires dans les pays en développement';1;0
+e;3341531;'fixer les prix';1;0
+e;4306889;'hôtel à bas prix';1;0
+e;567372;'prix de l'Académie';777;50
+e;1678454;'à prix cassé';1;0
+e;3298207;'à prix très bas';1;0
+e;3351283;'fixer un prix';1;0
+e;3371868;'velouté de champignons express et à petit prix';1;0
+e;5526521;'compagnie aérienne à bas prix';1;0
+e;5128106;'baissé de prix';1;0
+e;1818881;'lauréat du prix Nobel de la paix';1;0
+e;1818883;'lauréat du prix Nobel de physiologie ou médecine';1;0
+e;1818882;'lauréat du prix Nobel de littérature';1;0
+e;1818878;'lauréat suisse du prix Nobel';1;0
+e;1818876;'lauréat russe du prix Nobel';1;0
+e;3174576;'prix Femina';777;0
+e;394125;'décerner un prix';1;54
+e;394123;'prix du Livre Inter';1;54
+e;394109;'prix bas';1;52
+e;389011;'à un prix imbattable';1;50
+e;389010;'à un prix défiant toute concurrence';1;50
+e;388863;'à prix unique';1;50
+e;388862;'à prix réduit';1;50
+e;373165;'prix à la consommation';1;50
+e;373158;'prix standard';1;50
+e;373150;'prix moyen';1;50
+e;373132;'prix exempt d'indétermination';1;50
+e;373123;'prix discount';1;50
+e;373112;'prix de poésie';1;50
+e;373096;'prix courant';1;50
+e;373092;'prix constant';1;50
+e;373089;'prix charter';1;50
+e;373085;'prix alimentaire';1;50
+e;371632;'politique de prix élevés';1;50
+e;354698;'fondation de prix';1;50
+e;352292;'escalade des prix';1;50
+e;337466;'au prix coûtant';1;50
+e;389659;'élasticité des prix';1;50
+e;375941;'remise de prix';1;52
+e;373144;'prix hôteliers';1;50
+e;373110;'prix de pension';1;50
+e;373087;'prix amical';1;50
+e;361425;'libération des prix';1;50
+e;349893;'effondrement des prix';1;50
+e;375942;'remise des prix';1;50
+e;373162;'prix unique';1;50
+e;373161;'prix troisième âge';1;50
+e;373156;'prix sacrifié';1;50
+e;373148;'prix marchand';1;50
+e;373139;'prix forfaitaire';1;50
+e;373133;'prix exorbitant';1;52
+e;373127;'prix défiant toute concurrence';1;50
+e;373098;'prix d'achat';1;50
+e;373088;'prix au kilo';1;52
+e;373080;'prix abordable';1;50
+e;372457;'pour prix de';1;50
+e;366886;'objet de prix';1;50
+e;358882;'indice de prix';1;50
+e;353185;'facteur prix';1;50
+e;373164;'prix à l'unité';1;52
+e;373135;'prix fantôme';1;50
+e;373109;'prix de peinture';1;50
+e;373106;'prix de location';1;50
+e;373086;'prix alimentaires';1;50
+e;363832;'meilleurs prix';1;50
+e;358885;'indice des prix à la consommation';1;50
+e;356554;'grand prix de formule 1';1;50
+e;346469;'dans les prix de';1;50
+e;388794;'à moindre prix';1;50
+e;373167;'prix étudié';1;50
+e;373160;'prix touristique';1;50
+e;373155;'prix radiophonique';1;50
+e;373141;'prix franco';1;50
+e;373140;'prix fort';1;50
+e;373131;'prix excessif';1;50
+e;373130;'prix exagéré';1;50
+e;373126;'prix du sang';1;50
+e;373105;'prix de littérature';1;50
+e;348905;'décrocheur de prix';1;50
+e;347886;'distribution de prix';1;50
+e;344431;'contrôle des prix';1;50
+e;388119;'à aucun prix';1;50
+e;378649;'sans supplément de prix';1;50
+e;373151;'prix prohibitif';1;50
+e;373149;'prix marqué';1;50
+e;373146;'prix indicatif';1;50
+e;373142;'prix honnête';1;50
+e;373138;'prix flexible';1;50
+e;373128;'prix enfant';1;50
+e;373124;'prix du baril de pétrole';1;52
+e;373122;'prix dirigé';1;50
+e;373120;'prix de vente hors taxe';1;50
+e;373116;'prix de soutien';1;50
+e;373111;'prix de piano';1;50
+e;373102;'prix de départ';1;50
+e;337468;'au prix où est le beurre';1;50
+e;337467;'au prix de gros';1;50
+e;389016;'à un tel prix';1;50
+e;388861;'à prix coûtant';1;50
+e;375342;'rapport qualité prix';1;56
+e;373157;'prix scientifique';1;50
+e;373152;'prix promotionnel';1;50
+e;373145;'prix inabordable';1;50
+e;373143;'prix hors taxe';1;50
+e;373117;'prix de série';1;50
+e;373108;'prix de monopole';1;50
+e;373091;'prix concurrentiel';1;50
+e;372456;'pour prix';1;50
+e;364715;'moitié prix';1;50
+e;362835;'majoration de prix';1;50
+e;337589;'augmentation de prix';1;50
+e;373163;'prix unitaire';1;50
+e;373153;'prix pédestre';1;50
+e;373136;'prix ferme';1;50
+e;373119;'prix de vente';1;60
+e;373118;'prix de transport';1;50
+e;373114;'prix de seuil';1;50
+e;373113;'prix de présence';1;50
+e;373107;'prix de marché';1;50
+e;373104;'prix de la vie';1;50
+e;373099;'prix d'architecture';1;50
+e;373095;'prix convenu';1;50
+e;373093;'prix constaté';1;50
+e;373081;'prix administré';1;50
+e;361376;'liberté des prix';1;50
+e;355123;'fourchette de prix';1;50
+e;335718;'aperçu des prix';1;50
+e;389162;'écart de prix';1;50
+e;388139;'à ce prix';1;50
+e;374295;'prêt à payer le prix fort';1;50
+e;373154;'prix pétroliers';1;50
+e;373147;'prix limite';1;50
+e;373121;'prix de violon';1;50
+e;373115;'prix de souscription';1;50
+e;373103;'prix de groupe';1;50
+e;373101;'prix de consolation';1;50
+e;373097;'prix cycliste';1;50
+e;373094;'prix conventionnel';1;50
+e;373084;'prix agricoles';1;50
+e;373083;'prix agricole';1;50
+e;371644;'politique des prix agricoles';1;50
+e;366381;'niveau des prix';1;50
+e;361952;'livre de prix';1;50
+e;357524;'hausse de prix';1;54
+e;337469;'au prix que être les choses';1;50
+e;387871;'vérité des prix';1;50
+e;373166;'prix à réclamer';1;50
+e;373159;'prix total';1;50
+e;373137;'prix fixé';1;50
+e;373134;'prix extravagant';1;50
+e;373129;'prix escompté';1;50
+e;373125;'prix du marché';1;52
+e;373100;'prix de concurrence';1;50
+e;373090;'prix compétitif';1;50
+e;373082;'prix adulte';1;50
+e;393006;'prix non décerné';777;50
+e;4345;'prix-courant';1;50
+e;318788;'juste prix';1;50
+e;318820;'prix Hugo';1;50
+e;329586;'guerre des prix';1;50
+e;329841;'Grand prix du roman de l'Académie française';1;50
+e;237268;'de grand prix';1;2
+e;246463;'faire baisser les prix';1;56
+e;256573;'être hors de prix';1;50
+e;58161;'au prix de';1;50
+e;102922;'à bon prix';1;50
+e;105765;'de prix';1;50
+e;110158;'au juste prix';1;50
+e;113173;'au prix fort';1;52
+e;166752;'Parents à tout prix';1;50
+e;210082;'y mettre le prix';1;50
+e;210190;'à prix d'argent';1;50
+e;210191;'à prix d'or';1;50
+e;220832;'prix Nobel de littérature';1;56
+e;222463;'prix Nobel de Littérature';1;56
+e;222952;'prix Renaudot';1;22
+e;226628;'prix de transfert';1;50
+e;230583;'prix de la carpette anglaise';1;50
+e;231685;'prix exceptionnel';1;50
+e;235086;'prix de beauté';1;54
+e;244149;'prix Albert-Londres';666;50
+e;245353;'chute des prix';1;56
+e;246766;'prix à la pompe';1;52
+e;251587;'prix record';1;50
+e;251782;'transparence des prix';1;50
+e;252129;'donner le prix';1;60
+e;252601;'prix de l'essence';1;50
+e;253234;'prix Turing';1;10
+e;254252;'prix Gödel';1;66
+e;254254;'prix Knuth';1;66
+e;254839;'prix d'appel';1;50
+e;254840;'prix de lancement';1;50
+e;255505;'prix Nobel de chimie';1;56
+e;255506;'prix Nobel de médecine';1;4
+e;255638;'prix cassé';1;52
+e;255945;'prix Interallié';1;50
+e;255946;'prix Fémina';1;10
+e;263547;'prix élevé';1;50
+e;30105;'à prix fait';1;50
+e;30252;'à prix convenu';1;50
+e;78403;'hors de prix';1;96
+e;86267;'à haut prix';1;50
+e;109965;'prix de détail';1;50
+e;160932;'petit prix';1;76
+e;161080;'gel des prix';1;52
+e;163472;'prix réduit';1;66
+e;164679;'prix Nobel de la paix';1;68
+e;170184;'prix et récompenses';1;50
+e;204197;'ne pas avoir de prix';1;50
+e;210535;'convenir d'un prix';1;50
+e;210617;'débattre d'un prix';1;50
+e;211485;'payer à prix d'or';1;50
+e;211619;'prix d'ami';1;54
+e;213189;'flambée des prix';1;50
+e;213201;'prix Pulitzer';666;60
+e;297527;'la politique de prix';777;50
+e;34990;'faire son prix';1;50
+e;38743;'bas prix';1;50
+e;38821;'avilissement des prix';1;50
+e;42730;'prix Médicis';1;54
+e;52471;'prix Goncourt';1;88
+e;82701;'mettre à prix';1;52
+e;84598;'prix Lénine';1;50
+e;90584;'Georges a distribué les prix';1;50
+e;100480;'prix littéraires français';1;50
+e;121762;'prix Nobel';1;158
+e;132777;'à bas prix';1;52
+e;142114;'grand prix';1;60
+e;146879;'prix nobel';1;50
+e;159084;'prix Nobel de physique';1;62
+e;159490;'prix littéraire';1;76
+e;176778;'prix d'intervention';1;50
+e;179774;'prix de revient';1;58
+e;182367;'évaluation au prix de marché';1;50
+e;182368;'évalué à prix de marché';1;50
+e;182479;'fixeur de prix';1;50
+e;182798;'indication de prix';1;50
+e;183070;'magasin à prix unique';1;50
+e;183840;'preneur de prix';1;50
+e;183866;'prix de famine';1;50
+e;183867;'prix de la rue';1;50
+e;183868;'prix de rétrocession';1;50
+e;183869;'prix demandé';1;50
+e;183870;'prix d'excellence';1;50
+e;183871;'prix d'exercice';1;50
+e;183872;'prix d'honneur';1;6
+e;183873;'prix discompté';1;50
+e;183874;'prix en trompe-l'il';1;50
+e;183875;'prix net';1;50
+e;183876;'prix offert';1;50
+e;183877;'prix virtuels';1;50
+e;184336;'sous-détail de prix';1;50
+e;195531;'à moitié prix';1;50
+e;195622;'à vil prix';1;50
+e;196287;'au meilleur prix';1;50
+e;201615;'gros prix';1;50
+e;201713;'hausse des prix';1;74
+e;201724;'haut prix';1;50
+e;202124;'indexation des prix';1;50
+e;202133;'indice des prix';1;50
+e;203889;'mise à prix';1;70
+e;206393;'prix affiché';1;50
+e;206394;'prix brut';1;50
+e;206395;'prix coûtant';1;50
+e;206396;'prix de faveur';1;50
+e;206397;'prix de gros';1;58
+e;206398;'prix de Rome';1;52
+e;206399;'prix de vertu';1;50
+e;206400;'prix fixe';1;50
+e;206401;'prix garanti';1;50
+e;206402;'prix imposé';1;50
+e;206403;'prix libre';1;50
+e;206404;'prix plafond';1;50
+e;206405;'prix plancher';1;52
+e;265001;'distribution des prix';1;50
+e;265180;'comparer les prix';1;60
+e;266978;'prix du livre Inter';1;54
+e;267019;'Mary à tout prix';1;50
+e;271178;'prix Nobel de physiologie ou médecine';1;50
+e;272074;'problèmes du prix du millénaire';777;50
+e;274242;'bulle de prix';777;50
+e;278385;'Admis à tout prix';777;50
+e;286415;'saison des prix Nobel';1;50
+e;289928;'prix de la fiancée';777;50
+e;290145;'Mi$e à prix';777;50
+e;295181;'prix Sakharov pour la liberté de penser';777;50
+e;297526;'politique de prix';777;54
+e;306131;'magasins à prix uniques';777;50
+e;308100;'prix naturel';777;50
+e;137210;'prix d'usine';1;50
+e;190766;'prix de l'immobilier';1;50
+e;196783;'baisse des prix';1;56
+e;196786;'baisser le prix';1;60
+e;197006;'blocage des prix';1;50
+e;197007;'bloquer les prix';1;50
+e;197311;'casser les prix';1;68
+e;199929;'être dans les prix de';1;50
+e;311267;'prix du travail';777;50
+e;198609;'dernier prix';1;50
+e;198740;'dire un prix';1;56
+e;198871;'donner un prix';1;50
+e;198905;'doubler les prix';1;50
+e;199026;'écraser les prix';1;50
+e;200700;'faire un prix';1;50
+e;201057;'fluctuation des prix';1;50
+e;1187;'a distribué les prix';1;50
+e;9591;'établir le prix';1;50
+e;154222;'sans prix';1;50
+e;63370;'à tout prix';1;88
+e;154221;'premier prix';1;92
+r;301495927;131040;6343440;11;25
+r;317036112;131040;12209303;11;25
+r;337349965;131040;12981327;11;25
+r;337351462;131040;12979476;11;25
+r;341100979;131040;6344534;11;25
+r;343176159;131040;13545429;11;25
+r;345442436;131040;13628489;11;25
+r;345452750;131040;13628488;11;25
+r;346241470;131040;13643019;11;25
+r;346244714;131040;13643018;11;25
+r;346258702;131040;13643545;11;25
+r;346400335;131040;13654886;11;25
+r;346952797;131040;13656735;11;25
+r;346953839;131040;13656702;11;25
+r;347974898;131040;13709068;11;25
+r;349022665;131040;13808650;11;25
+r;349078447;131040;13809116;11;25
+r;349141743;131040;13809389;11;25
+r;349186973;131040;13809967;11;25
+r;349237197;131040;13809966;11;25
+r;349633401;131040;13817994;11;25
+r;349668184;131040;13818051;11;25
+r;352031997;131040;13982029;11;25
+r;352158556;131040;13985895;11;25
+r;352333874;131040;13989485;11;25
+r;352335395;131040;13989489;11;25
+r;354335724;131040;14030800;11;25
+r;354995466;131040;14048698;11;25
+r;356220597;131040;14078293;11;25
+r;356222720;131040;14078276;11;25
+r;356249412;131040;14078279;11;25
+r;356486521;131040;14094048;11;25
+r;356583905;131040;14094237;11;25
+r;356613450;131040;14094080;11;25
+r;357708681;131040;14119884;11;25
+r;359043163;131040;14146316;11;25
+r;364196189;131040;14304689;11;25
+r;364765828;131040;14346317;11;25
+r;366341243;131040;14428175;11;25
+r;366384834;131040;14428176;11;25
+r;366497594;131040;14431782;11;25
+r;366816855;131040;14452312;11;25
+r;366919288;131040;14453722;11;25
+r;366922307;131040;14453738;11;25
+r;366922418;131040;14453867;11;25
+r;366923677;131040;14453874;11;25
+r;366924839;131040;14453895;11;25
+r;366924984;131040;14453948;11;25
+r;366930631;131040;14454066;11;25
+r;366931456;131040;14454179;11;25
+r;366931875;131040;14454161;11;25
+r;366933149;131040;14454185;11;25
+r;366933449;131040;14454155;11;25
+r;423473746;131040;16145284;11;25
+r;368625639;131040;14530664;11;25
+r;368628855;131040;14530663;11;25
+r;368662871;131040;14530666;11;25
+r;370513480;131040;14580468;11;25
+r;371176490;131040;14605334;11;25
+r;371176519;131040;14605335;11;25
+r;371527133;131040;14626693;11;25
+r;371527486;131040;14626663;11;25
+r;371528528;131040;14626694;11;25
+r;371529458;131040;14626695;11;25
+r;371852405;131040;14637929;11;25
+r;372501800;131040;14653242;11;25
+r;372949815;131040;14665954;11;25
+r;374410950;131040;14726727;11;25
+r;388749316;131040;14893646;11;25
+r;389613871;131040;14895536;11;25
+r;417153503;131040;11957331;11;25
+r;395412028;131040;15432312;11;25
+r;395577335;131040;15462540;11;25
+r;410194115;131040;15782150;11;25
+r;411328822;131040;15791336;11;25
+r;416973261;131040;15966304;11;25
+r;418744771;131040;16070820;11;25
+r;423284283;131040;16133187;11;25
+r;423348469;131040;16133188;11;25
+r;424131036;131040;16159021;11;25
+r;424813030;131040;16159028;11;25
+r;426030818;131040;16241626;11;25
+r;427654964;131040;16307151;11;25
+r;428871748;131040;16318409;11;25
+r;428882601;131040;16318459;11;25
+r;431870875;131040;16344181;11;25
+r;432969153;131040;16389662;11;25
+r;433917041;131040;16492425;11;25
+r;434983367;131040;16558500;11;25
+r;435411066;131040;16573181;11;25
+r;114459827;131040;5787754;11;26
+r;114459836;131040;5787753;11;26
+r;301237264;131040;6335360;11;26
+r;316351228;131040;12199994;11;26
+r;333726345;131040;12985659;11;26
+r;343136860;131040;13541912;11;26
+r;343157566;131040;13542107;11;26
+r;368586216;131040;14529926;11;26
+r;368618392;131040;14530747;11;26
+r;368676541;131040;14531687;11;26
+r;368703496;131040;14532459;11;26
+r;369445969;131040;14538126;11;26
+r;369565702;131040;14540136;11;26
+r;369907941;131040;14558085;11;26
+r;370714295;131040;14589879;11;26
+r;370714337;131040;14589883;11;26
+r;371813557;131040;14637009;11;26
+r;371813573;131040;14637010;11;26
+r;374223521;131040;14718282;11;26
+r;374237495;131040;14718934;11;26
+r;374309426;131040;14722249;11;26
+r;374309721;131040;14722282;11;26
+r;374421952;131040;14727850;11;26
+r;374421968;131040;14727851;11;26
+r;393620827;131040;15034401;11;26
+r;393621318;131040;15034402;11;26
+r;393626191;131040;15034684;11;26
+r;423941785;131040;16168745;11;26
+r;433043884;131040;16391602;11;26
+r;112669487;131040;5724184;11;27
+r;112669621;131040;5724109;11;27
+r;114451111;131040;5794667;11;27
+r;114451136;131040;5794661;11;27
+r;114451140;131040;5794658;11;27
+r;114451144;131040;5794657;11;27
+r;114451174;131040;5794652;11;27
+r;114451230;131040;5794642;11;27
+r;114451235;131040;5794641;11;27
+r;114451273;131040;5794630;11;27
+r;114451277;131040;5794629;11;27
+r;114451301;131040;5794622;11;27
+r;114451397;131040;5794607;11;27
+r;114451509;131040;5794553;11;27
+r;114451517;131040;5794551;11;27
+r;114451541;131040;5794540;11;27
+r;114451577;131040;5794530;11;27
+r;114451591;131040;5794527;11;27
+r;114451595;131040;5794526;11;27
+r;114451619;131040;5794522;11;27
+r;114451711;131040;5794503;11;27
+r;114451719;131040;5794501;11;27
+r;114451736;131040;5794497;11;27
+r;114451744;131040;5794495;11;27
+r;114451764;131040;5794489;11;27
+r;114451776;131040;5794486;11;27
+r;114451794;131040;5794482;11;27
+r;114451805;131040;5794480;11;27
+r;114451813;131040;5794478;11;27
+r;114451830;131040;5794471;11;27
+r;114451842;131040;5794468;11;27
+r;114451875;131040;5794463;11;27
+r;114451913;131040;5794458;11;27
+r;114451918;131040;5794428;11;27
+r;114451988;131040;5794401;11;27
+r;114451997;131040;5794398;11;27
+r;114452037;131040;5794386;11;27
+r;114452042;131040;5794384;11;27
+r;114452061;131040;5794381;11;27
+r;114453580;131040;5793699;11;27
+r;270766753;131040;10704251;11;27
+r;270772273;131040;10675724;11;27
+r;270772299;131040;10675720;11;27
+r;267330094;131040;10662960;11;27
+r;267330098;131040;10662959;11;27
+r;267331335;131040;10624526;11;27
+r;267331347;131040;10624525;11;27
+r;316381833;131040;12200837;11;27
+r;343041763;131040;13537105;11;27
+r;331451007;131040;12917149;11;27
+r;331451130;131040;12917150;11;27
+r;337341442;131040;12992520;11;27
+r;112669451;131040;5724187;11;28
+r;112669473;131040;5724185;11;28
+r;114451097;131040;5794669;11;28
+r;114451215;131040;5794645;11;28
+r;114451247;131040;5794639;11;28
+r;114451486;131040;5794588;11;28
+r;114451981;131040;5794402;11;28
+r;114452006;131040;5794396;11;28
+r;114452020;131040;5794390;11;28
+r;119669901;131040;6087269;11;28
+r;119673882;131040;6083162;11;28
+r;267325088;131040;10665158;11;28
+r;267330103;131040;10662958;11;28
+r;267333120;131040;10623934;11;28
+r;272775351;131040;10873459;11;28
+r;272775359;131040;10873458;11;28
+r;272775391;131040;10873453;11;28
+r;273212609;131040;10879517;11;28
+r;274301897;131040;10900970;11;28
+r;342715765;131040;13527560;11;28
+r;342759130;131040;13534248;11;28
+r;342795705;131040;13534645;11;28
+r;342992893;131040;13537103;11;28
+r;112553328;131040;5778173;11;29
+r;112669496;131040;5724183;11;29
+r;119659524;131040;6100948;11;29
+r;119664752;131040;6088492;11;29
+r;226232385;131040;9988868;11;29
+r;264468788;131040;10589294;11;29
+r;274299789;131040;10901943;11;29
+r;274299804;131040;10901940;11;29
+r;274299899;131040;10901906;11;29
+r;274299907;131040;10901857;11;29
+r;274299914;131040;10901856;11;29
+r;277412159;131040;10987889;11;29
+r;277431027;131040;10988461;11;29
+r;277928394;131040;10989833;11;29
+r;302327253;131040;11775378;11;29
+r;331152905;131040;12903445;11;29
+r;113293624;131040;5806354;11;30
+r;221106465;131040;9962722;11;30
+r;221107092;131040;9962733;11;30
+r;221107212;131040;9962732;11;30
+r;221109926;131040;9962726;11;30
+r;221115173;131040;9962725;11;30
+r;221143728;131040;9962748;11;30
+r;221148178;131040;9962750;11;30
+r;221165655;131040;9962731;11;30
+r;222105388;131040;9979108;11;30
+r;222152237;131040;9986882;11;30
+r;226936789;131040;9990080;11;30
+r;264437767;131040;10600978;11;30
+r;264437771;131040;10600977;11;30
+r;264444342;131040;10598363;11;30
+r;264444598;131040;10598299;11;30
+r;264449129;131040;10596466;11;30
+r;264451065;131040;10595622;11;30
+r;272708013;131040;10871424;11;30
+r;272708159;131040;10871389;11;30
+r;272708186;131040;10871385;11;30
+r;272708205;131040;10871383;11;30
+r;272708226;131040;10871380;11;30
+r;272708239;131040;10871379;11;30
+r;272708256;131040;10871377;11;30
+r;272708269;131040;10871376;11;30
+r;272708286;131040;10871374;11;30
+r;272708309;131040;10871371;11;30
+r;272708322;131040;10871370;11;30
+r;272708339;131040;10871368;11;30
+r;272708365;131040;10871364;11;30
+r;272708408;131040;10871358;11;30
+r;272708421;131040;10871357;11;30
+r;272708442;131040;10871354;11;30
+r;272708459;131040;10871352;11;30
+r;272708490;131040;10871347;11;30
+r;272708517;131040;10871342;11;30
+r;272708598;131040;10871329;11;30
+r;272708763;131040;10871296;11;30
+r;274275078;131040;10907947;11;30
+r;274275093;131040;10907944;11;30
+r;274275126;131040;10907937;11;30
+r;274275135;131040;10907936;11;30
+r;274288124;131040;10905530;11;30
+r;277227344;131040;10971512;11;30
+r;277229543;131040;10968549;11;30
+r;277558581;131040;10989800;11;30
+r;301987807;131040;11771268;11;30
+r;419749925;131040;15428195;11;30
+r;419764368;131040;15432300;11;30
+r;419764402;131040;15522561;11;30
+r;419764410;131040;15358924;11;30
+r;419767492;131040;15539288;11;30
+r;419769613;131040;15352416;11;30
+r;419771082;131040;15208293;11;30
+r;419771428;131040;15594223;11;30
+r;419775133;131040;15544149;11;30
+r;419775135;131040;15382567;11;30
+r;419775139;131040;15409537;11;30
+r;419777421;131040;15392641;11;30
+r;419779713;131040;15432305;11;30
+r;419780224;131040;15237191;11;30
+r;419780261;131040;15542931;11;30
+r;419780948;131040;15491599;11;30
+r;419784172;131040;15324709;11;30
+r;419786161;131040;15492877;11;30
+r;419789145;131040;15210480;11;30
+r;419792437;131040;15753550;11;30
+r;419792443;131040;15753543;11;30
+r;419792453;131040;15753547;11;30
+r;419797751;131040;15594259;11;30
+r;419803987;131040;15208297;11;30
+r;419803992;131040;15528811;11;30
+r;419814612;131040;15320324;11;30
+r;419816666;131040;15330784;11;30
+r;111462657;131040;5679146;11;31
+r;111462731;131040;5679129;11;31
+r;111462813;131040;5679100;11;31
+r;111462911;131040;5679087;11;31
+r;111462924;131040;5679085;11;31
+r;111463895;131040;5678888;11;31
+r;112655111;131040;5783933;11;31
+r;113780381;131040;5815453;11;31
+r;221251604;131040;9966169;11;31
+r;221301526;131040;9966457;11;31
+r;221305527;131040;9966458;11;31
+r;221471170;131040;9971536;11;31
+r;221476177;131040;9968515;11;31
+r;221479512;131040;9968106;11;31
+r;221480772;131040;9967796;11;31
+r;222097626;131040;9984693;11;31
+r;222098308;131040;9984315;11;31
+r;222098549;131040;9984207;11;31
+r;222100261;131040;9982733;11;31
+r;226900409;131040;9990075;11;31
+r;227668028;131040;9999366;11;31
+r;263704135;131040;10578546;11;31
+r;263705256;131040;10578280;11;31
+r;264449115;131040;10596468;11;31
+r;269420611;131040;10733122;11;31
+r;277113571;131040;10971513;11;31
+r;277924864;131040;10993130;11;31
+r;279951821;131040;11054654;11;31
+r;303728040;131040;11782448;11;31
+r;303728067;131040;11782444;11;31
+r;303728072;131040;11782443;11;31
+r;303728089;131040;11782438;11;31
+r;319831454;131040;12313334;11;31
+r;419707667;131040;15377487;11;31
+r;419716571;131040;15364305;11;31
+r;419724470;131040;15265999;11;31
+r;419724481;131040;15266001;11;31
+r;419729086;131040;15282413;11;31
+r;419729298;131040;15376668;11;31
+r;419742469;131040;15485264;11;31
+r;434372724;131040;16241997;11;31
+r;111464043;131040;5678855;11;32
+r;54682259;131040;2428317;11;32
+r;110207541;131040;5563790;11;32
+r;111354505;131040;5635081;11;32
+r;111462625;131040;5679150;11;32
+r;111462636;131040;5679149;11;32
+r;111462681;131040;5679141;11;32
+r;111462774;131040;5679104;11;32
+r;111462841;131040;5679097;11;32
+r;111462866;131040;5679093;11;32
+r;111462875;131040;5679092;11;32
+r;111462935;131040;5679083;11;32
+r;111463956;131040;5678874;11;32
+r;111463976;131040;5678865;11;32
+r;111464005;131040;5678861;11;32
+r;111464026;131040;5678858;11;32
+r;111464039;131040;5678856;11;32
+r;111464058;131040;5678853;11;32
+r;111464067;131040;5678851;11;32
+r;111464096;131040;5678847;11;32
+r;112188194;131040;5688824;11;32
+r;112188233;131040;5688815;11;32
+r;112193949;131040;5686949;11;32
+r;112665428;131040;5725814;11;32
+r;112670181;131040;5723958;11;32
+r;114024436;131040;5835553;11;32
+r;221254462;131040;9966170;11;32
+r;221479498;131040;9968107;11;32
+r;222096332;131040;9985782;11;32
+r;222100278;131040;9982730;11;32
+r;263666984;131040;10584991;11;32
+r;269418365;131040;10733757;11;32
+r;269418370;131040;10733756;11;32
+r;274263255;131040;10910583;11;32
+r;274263266;131040;10910582;11;32
+r;274572767;131040;10918176;11;32
+r;274971975;131040;10921930;11;32
+r;274974198;131040;10921522;11;32
+r;274974322;131040;10921493;11;32
+r;277806864;131040;10993419;11;32
+r;277808973;131040;10993522;11;32
+r;277809482;131040;10993417;11;32
+r;277827164;131040;10993521;11;32
+r;280532546;131040;11061112;11;32
+r;280532555;131040;11061111;11;32
+r;280533051;131040;11060853;11;32
+r;291207467;131040;11356055;11;32
+r;291245822;131040;11358501;11;32
+r;291246357;131040;11358578;11;32
+r;301264956;131040;11753783;11;32
+r;301264951;131040;11753785;11;32
+r;302896727;131040;11783732;11;32
+r;303722073;131040;11784412;11;32
+r;305145472;131040;11822255;11;32
+r;305146291;131040;11822249;11;32
+r;305149449;131040;11822266;11;32
+r;305155204;131040;11822256;11;32
+r;305196732;131040;11822248;11;32
+r;305197068;131040;11822554;11;32
+r;305197200;131040;11822551;11;32
+r;305338338;131040;11823811;11;32
+r;307457983;131040;11910733;11;32
+r;312345136;131040;11993284;11;32
+r;343042476;131040;13535265;11;32
+r;417595844;131040;12053645;11;32
+r;419620401;131040;15493768;11;32
+r;419620582;131040;15432293;11;32
+r;419620588;131040;15493935;11;32
+r;419620594;131040;15493934;11;32
+r;419620600;131040;15594195;11;32
+r;419620608;131040;15396054;11;32
+r;419620614;131040;15493931;11;32
+r;419621941;131040;15594232;11;32
+r;419621949;131040;15490675;11;32
+r;419622117;131040;15531545;11;32
+r;419622312;131040;15594230;11;32
+r;419644227;131040;15594226;11;32
+r;419644293;131040;15265138;11;32
+r;419647725;131040;15410647;11;32
+r;419647740;131040;15410654;11;32
+r;419656532;131040;15574204;11;32
+r;419658251;131040;15542349;11;32
+r;419659524;131040;15513435;11;32
+r;419666247;131040;15336476;11;32
+r;419677008;131040;15411249;11;32
+r;419689074;131040;15303954;11;32
+r;419689451;131040;15432295;11;32
+r;419694030;131040;15377086;11;32
+r;110203796;131040;5566125;11;33
+r;110204171;131040;5565250;11;33
+r;111465913;131040;5678079;11;33
+r;220578702;131040;9949403;11;33
+r;227617505;131040;10035996;11;33
+r;227619927;131040;10035264;11;33
+r;227619938;131040;10035263;11;33
+r;227620131;131040;10035181;11;33
+r;227623231;131040;10034552;11;33
+r;227625734;131040;10033911;11;33
+r;227634921;131040;10031263;11;33
+r;227635647;131040;10029651;11;33
+r;276014581;131040;10958218;11;33
+r;276016794;131040;10956056;11;33
+r;275828569;131040;10951584;11;33
+r;263403313;131040;10577052;11;33
+r;269400050;131040;10743118;11;33
+r;269396109;131040;10744097;11;33
+r;269400003;131040;10743121;11;33
+r;269400083;131040;10743114;11;33
+r;269400135;131040;10743110;11;33
+r;269400166;131040;10743108;11;33
+r;276017308;131040;10955937;11;33
+r;274351815;131040;10913990;11;33
+r;274571832;131040;10918307;11;33
+r;274571847;131040;10918306;11;33
+r;274571864;131040;10918305;11;33
+r;274571881;131040;10918304;11;33
+r;283109591;131040;11082889;11;33
+r;291110808;131040;11354723;11;33
+r;293136635;131040;11406405;11;33
+r;302882322;131040;11782434;11;33
+r;304442508;131040;11807331;11;33
+r;304478986;131040;11807967;11;33
+r;304479753;131040;11807971;11;33
+r;305012442;131040;11815570;11;33
+r;305105182;131040;11821821;11;33
+r;305631632;131040;11827977;11;33
+r;419610332;131040;15352430;11;33
+r;419615907;131040;15213524;11;33
+r;115841677;131040;5920796;11;34
+r;115846389;131040;5919545;11;34
+r;115847807;131040;5919150;11;34
+r;115851666;131040;5918153;11;34
+r;116572349;131040;5962255;11;34
+r;116587413;131040;5953539;11;34
+r;220584120;131040;9949381;11;34
+r;219933069;131040;9936760;11;34
+r;227620160;131040;10035177;11;34
+r;270918229;131040;10833873;11;34
+r;270917387;131040;10834425;11;34
+r;275679059;131040;10943346;11;34
+r;270918236;131040;10833872;11;34
+r;269390565;131040;10746376;11;34
+r;269392795;131040;10745093;11;34
+r;270917392;131040;10834424;11;34
+r;272191155;131040;10850010;11;34
+r;272521382;131040;10865521;11;34
+r;272522578;131040;10865166;11;34
+r;279319999;131040;11021623;11;34
+r;279320457;131040;11020413;11;34
+r;281150761;131040;11082327;11;34
+r;281188084;131040;11083091;11;34
+r;293541492;131040;11412182;11;34
+r;300957801;131040;11695781;11;34
+r;304847020;131040;11813711;11;34
+r;304891976;131040;11815569;11;34
+r;304958184;131040;11816287;11;34
+r;305376635;131040;11824331;11;34
+r;305433396;131040;11825335;11;34
+r;305817293;131040;11830330;11;34
+r;434349017;131040;16143403;11;34
+r;434349588;131040;16133097;11;34
+r;419518601;131040;15401916;11;34
+r;419524585;131040;15392635;11;34
+r;419537058;131040;16074251;11;34
+r;419537815;131040;16074320;11;34
+r;419537821;131040;16074321;11;34
+r;419538803;131040;15384560;11;34
+r;419554916;131040;15779515;11;34
+r;419569909;131040;15362001;11;34
+r;419569916;131040;15362003;11;34
+r;419572246;131040;15356899;11;34
+r;419572265;131040;15424956;11;34
+r;419572275;131040;15594210;11;34
+r;419572405;131040;15594191;11;34
+r;419572431;131040;15408868;11;34
+r;419572447;131040;15356897;11;34
+r;419575429;131040;15580792;11;34
+r;419586072;131040;15432287;11;34
+r;419586090;131040;15432289;11;34
+r;419587297;131040;15432291;11;34
+r;434348965;131040;16239101;11;34
+r;112669464;131040;5724186;11;35
+r;112669625;131040;5724108;11;35
+r;116952039;131040;5966904;11;35
+r;117902757;131040;5982994;11;35
+r;219932442;131040;9936707;11;35
+r;227600847;131040;10042087;11;35
+r;227604811;131040;10040583;11;35
+r;270759246;131040;10832426;11;35
+r;247439631;131040;10252487;11;35
+r;271587821;131040;10843615;11;35
+r;263279290;131040;10558313;11;35
+r;270435809;131040;10830944;11;35
+r;271586519;131040;10843771;11;35
+r;271587826;131040;10843614;11;35
+r;271589293;131040;10843338;11;35
+r;271589303;131040;10843336;11;35
+r;271589768;131040;10843253;11;35
+r;271589797;131040;10843242;11;35
+r;271589889;131040;10843223;11;35
+r;271590518;131040;10843095;11;35
+r;271590764;131040;10842989;11;35
+r;271591153;131040;10842746;11;35
+r;271591915;131040;10842213;11;35
+r;271591920;131040;10842212;11;35
+r;271591924;131040;10842211;11;35
+r;271591935;131040;10842209;11;35
+r;271591945;131040;10842208;11;35
+r;271600277;131040;10839453;11;35
+r;272174626;131040;10853686;11;35
+r;272179630;131040;10852588;11;35
+r;272179675;131040;10852585;11;35
+r;272183784;131040;10851669;11;35
+r;272516098;131040;10867410;11;35
+r;279152007;131040;11020412;11;35
+r;290681729;131040;11347222;11;35
+r;290681850;131040;11347200;11;35
+r;290681872;131040;11347195;11;35
+r;290681914;131040;11347181;11;35
+r;291357112;131040;11360640;11;35
+r;293442327;131040;11409826;11;35
+r;295155257;131040;11454163;11;35
+r;305878534;131040;11831413;11;35
+r;305889421;131040;11831412;11;35
+r;311586502;131040;11980963;11;35
+r;311586948;131040;11980967;11;35
+r;311588296;131040;11980966;11;35
+r;313634425;131040;12049085;11;35
+r;313634652;131040;12049089;11;35
+r;313764941;131040;12050144;11;35
+r;314033191;131040;12067703;11;35
+r;315109955;131040;12080964;11;35
+r;315109972;131040;12080961;11;35
+r;315109982;131040;12080959;11;35
+r;315109992;131040;12080957;11;35
+r;319555032;131040;12302097;11;35
+r;329759920;131040;12880541;11;35
+r;340811730;131040;13429416;11;35
+r;341251032;131040;13447379;11;35
+r;417653700;131040;16027893;11;35
+r;419493137;131040;15409541;11;35
+r;419493147;131040;15392646;11;35
+r;419493151;131040;15560811;11;35
+r;419493157;131040;15338829;11;35
+r;419493163;131040;15392639;11;35
+r;419496998;131040;15490196;11;35
+r;419497008;131040;15582515;11;35
+r;419497189;131040;15353597;11;35
+r;419497205;131040;15570475;11;35
+r;419498301;131040;15357779;11;35
+r;432015988;131040;16358828;11;35
+r;112181490;131040;5704006;11;36
+r;112189127;131040;5688589;11;36
+r;112669442;131040;5724188;11;36
+r;116911571;131040;5977199;11;36
+r;227596359;131040;10044833;11;36
+r;227596455;131040;10044808;11;36
+r;227596462;131040;10044807;11;36
+r;227596639;131040;10044781;11;36
+r;227598248;131040;10044222;11;36
+r;227598320;131040;10044207;11;36
+r;227598437;131040;10044182;11;36
+r;227598494;131040;10044166;11;36
+r;227598538;131040;10044159;11;36
+r;227598578;131040;10044150;11;36
+r;227598722;131040;10044120;11;36
+r;227598829;131040;10044095;11;36
+r;227599052;131040;10044012;11;36
+r;227600687;131040;10042228;11;36
+r;227608005;131040;10039894;11;36
+r;248114861;131040;10302275;11;36
+r;252666304;131040;10315684;11;36
+r;252664115;131040;10316272;11;36
+r;252679375;131040;10311909;11;36
+r;252679371;131040;10311910;11;36
+r;271589284;131040;10843340;11;36
+r;271589318;131040;10843335;11;36
+r;272168969;131040;10855446;11;36
+r;272168997;131040;10855444;11;36
+r;275035334;131040;10933557;11;36
+r;275222201;131040;10935846;11;36
+r;275276610;131040;10936916;11;36
+r;279010524;131040;11014007;11;36
+r;289897720;131040;11288114;11;36
+r;290638590;131040;11343760;11;36
+r;290675391;131040;11346744;11;36
+r;290675418;131040;11346737;11;36
+r;290675423;131040;11346736;11;36
+r;290675435;131040;11346735;11;36
+r;290675439;131040;11346734;11;36
+r;290675443;131040;11346733;11;36
+r;290675447;131040;11346732;11;36
+r;290675656;131040;11344075;11;36
+r;291595972;131040;11362390;11;36
+r;294009149;131040;11416027;11;36
+r;294969097;131040;11479352;11;36
+r;297642763;131040;11577400;11;36
+r;297683165;131040;11578438;11;36
+r;309081516;131040;11938232;11;36
+r;313028524;131040;12009106;11;36
+r;313033410;131040;12009173;11;36
+r;313681186;131040;12049917;11;36
+r;313690330;131040;12050131;11;36
+r;313692991;131040;12050145;11;36
+r;313696600;131040;12050459;11;36
+r;313700774;131040;12050582;11;36
+r;315109962;131040;12080963;11;36
+r;315109967;131040;12080962;11;36
+r;315109977;131040;12080960;11;36
+r;315109987;131040;12080958;11;36
+r;394922180;131040;15392010;11;36
+r;417637453;131040;16027294;11;36
+r;112189590;131040;5688442;11;37
+r;220021833;131040;9942193;11;37
+r;227592280;131040;10045889;11;37
+r;227596355;131040;10044834;11;37
+r;252656835;131040;10325378;11;37
+r;252659019;131040;10324641;11;37
+r;253380131;131040;10341499;11;37
+r;253380166;131040;10341495;11;37
+r;269877641;131040;10776493;11;37
+r;270210374;131040;10792019;11;37
+r;270210390;131040;10792018;11;37
+r;270210402;131040;10792017;11;37
+r;270211422;131040;10791493;11;37
+r;270355740;131040;10828645;11;37
+r;270406503;131040;10829691;11;37
+r;271770964;131040;10846996;11;37
+r;271770979;131040;10846994;11;37
+r;288554849;131040;11258575;11;37
+r;288554933;131040;11256469;11;37
+r;288554949;131040;11256467;11;37
+r;288554962;131040;11256466;11;37
+r;288555015;131040;11256455;11;37
+r;288555028;131040;11256454;11;37
+r;288555045;131040;11256452;11;37
+r;288555062;131040;11256450;11;37
+r;288555079;131040;11256448;11;37
+r;288555092;131040;11256447;11;37
+r;288555105;131040;11256446;11;37
+r;288555122;131040;11256444;11;37
+r;288555135;131040;11256443;11;37
+r;288555148;131040;11256442;11;37
+r;288555161;131040;11256441;11;37
+r;288555174;131040;11256440;11;37
+r;288555191;131040;11256438;11;37
+r;288555204;131040;11256437;11;37
+r;288555217;131040;11256436;11;37
+r;288555234;131040;11256434;11;37
+r;288555247;131040;11256433;11;37
+r;288555260;131040;11256432;11;37
+r;288555273;131040;11256431;11;37
+r;288555358;131040;11256412;11;37
+r;288555362;131040;11256411;11;37
+r;288555757;131040;11256223;11;37
+r;290604471;131040;11343183;11;37
+r;290604577;131040;11343198;11;37
+r;292661546;131040;11393904;11;37
+r;292662206;131040;11392947;11;37
+r;293753594;131040;11416026;11;37
+r;296499805;131040;11545237;11;37
+r;296658572;131040;11552722;11;37
+r;296658582;131040;11552720;11;37
+r;297642733;131040;11577406;11;37
+r;297642738;131040;11577405;11;37
+r;297642743;131040;11577404;11;37
+r;297642748;131040;11577403;11;37
+r;297642753;131040;11577402;11;37
+r;297642758;131040;11577401;11;37
+r;298273144;131040;11590136;11;37
+r;298273790;131040;11590007;11;37
+r;306738373;131040;11840640;11;37
+r;308230975;131040;11937621;11;37
+r;308383647;131040;11938128;11;37
+r;313068314;131040;12010236;11;37
+r;313068961;131040;12010237;11;37
+r;55421584;131040;2448510;11;38
+r;109652180;131040;5536568;11;38
+r;114749667;131040;5893975;11;38
+r;269537950;131040;10773278;11;38
+r;269537942;131040;10773279;11;38
+r;269537938;131040;10773280;11;38
+r;227588991;131040;10046375;11;38
+r;227589275;131040;10046348;11;38
+r;227589320;131040;10046346;11;38
+r;227589768;131040;10046280;11;38
+r;227589831;131040;10046270;11;38
+r;227589860;131040;10046266;11;38
+r;227589889;131040;10046263;11;38
+r;227589900;131040;10046262;11;38
+r;227589918;131040;10046260;11;38
+r;227590233;131040;10046230;11;38
+r;227590861;131040;10046140;11;38
+r;227591378;131040;10046076;11;38
+r;227591390;131040;10046074;11;38
+r;227594191;131040;10045260;11;38
+r;228982614;131040;10056548;11;38
+r;228982917;131040;10056431;11;38
+r;269532808;131040;10775160;11;38
+r;232105930;131040;10061938;11;38
+r;232109896;131040;10059772;11;38
+r;252657193;131040;10325037;11;38
+r;253377612;131040;10343936;11;38
+r;254181116;131040;10346137;11;38
+r;254181501;131040;10345943;11;38
+r;254596894;131040;10363706;11;38
+r;263068412;131040;10552298;11;38
+r;269870956;131040;10778390;11;38
+r;269870963;131040;10778389;11;38
+r;269876864;131040;10776742;11;38
+r;275236390;131040;10936217;11;38
+r;281500994;131040;11101194;11;38
+r;283376076;131040;11147571;11;38
+r;283543661;131040;11152449;11;38
+r;283544500;131040;11152181;11;38
+r;283544707;131040;11152109;11;38
+r;283544767;131040;11152104;11;38
+r;283545508;131040;11151893;11;38
+r;287860650;131040;11233441;11;38
+r;287884683;131040;11233929;11;38
+r;287890800;131040;11234001;11;38
+r;288385388;131040;11248086;11;38
+r;288519047;131040;11256224;11;38
+r;289888891;131040;11302226;11;38
+r;289889859;131040;11296445;11;38
+r;292630243;131040;11392948;11;38
+r;295602123;131040;11504109;11;38
+r;296200222;131040;11532940;11;38
+r;296586479;131040;11552724;11;38
+r;298268296;131040;11590937;11;38
+r;298592091;131040;11659538;11;38
+r;306002014;131040;11833596;11;38
+r;306354938;131040;11838241;11;38
+r;309079023;131040;11955443;11;38
+r;309079422;131040;11955250;11;38
+r;112197138;131040;5686238;11;39
+r;227586369;131040;10047115;11;39
+r;227587167;131040;10046807;11;39
+r;227587278;131040;10046794;11;39
+r;227587282;131040;10046793;11;39
+r;227587797;131040;10046654;11;39
+r;227587827;131040;10046650;11;39
+r;227587868;131040;10046642;11;39
+r;227589013;131040;10046373;11;39
+r;227589027;131040;10046372;11;39
+r;227589087;131040;10046368;11;39
+r;227589099;131040;10046367;11;39
+r;227589129;131040;10046364;11;39
+r;227589141;131040;10046363;11;39
+r;227589161;131040;10046360;11;39
+r;227589179;131040;10046358;11;39
+r;227589191;131040;10046357;11;39
+r;227589214;131040;10046354;11;39
+r;227589683;131040;10046286;11;39
+r;227589777;131040;10046277;11;39
+r;227589801;131040;10046274;11;39
+r;227589845;131040;10046268;11;39
+r;227589944;131040;10046257;11;39
+r;227589976;131040;10046255;11;39
+r;227589994;131040;10046253;11;39
+r;227590011;131040;10046251;11;39
+r;227590035;131040;10046248;11;39
+r;227590084;131040;10046245;11;39
+r;227590106;131040;10046243;11;39
+r;227590160;131040;10046236;11;39
+r;227590172;131040;10046235;11;39
+r;227590190;131040;10046232;11;39
+r;227590216;131040;10046231;11;39
+r;253374899;131040;10344668;11;39
+r;254174280;131040;10349397;11;39
+r;254174834;131040;10348167;11;39
+r;254174838;131040;10348166;11;39
+r;254175246;131040;10348012;11;39
+r;254175780;131040;10347899;11;39
+r;254175791;131040;10347898;11;39
+r;254175798;131040;10347897;11;39
+r;254175805;131040;10347896;11;39
+r;254175838;131040;10347889;11;39
+r;254175853;131040;10347885;11;39
+r;254175858;131040;10347884;11;39
+r;254175894;131040;10347876;11;39
+r;254175903;131040;10347875;11;39
+r;254176160;131040;10347693;11;39
+r;255396004;131040;10385175;11;39
+r;255396021;131040;10385171;11;39
+r;255396034;131040;10385169;11;39
+r;255396079;131040;10385160;11;39
+r;255396086;131040;10385159;11;39
+r;255396091;131040;10385158;11;39
+r;255396096;131040;10385157;11;39
+r;263067325;131040;10553213;11;39
+r;263067398;131040;10553204;11;39
+r;263068341;131040;10552304;11;39
+r;263068353;131040;10552303;11;39
+r;263068367;131040;10552302;11;39
+r;263068377;131040;10552301;11;39
+r;263068391;131040;10552300;11;39
+r;263068398;131040;10552299;11;39
+r;283517898;131040;11151775;11;39
+r;283525564;131040;11152105;11;39
+r;287764308;131040;11224010;11;39
+r;287764313;131040;11224009;11;39
+r;287980548;131040;11237553;11;39
+r;288073980;131040;11248080;11;39
+r;288474204;131040;11255551;11;39
+r;288474606;131040;11255331;11;39
+r;288474615;131040;11255327;11;39
+r;288474631;131040;11255320;11;39
+r;288474649;131040;11255315;11;39
+r;288474664;131040;11255313;11;39
+r;288474677;131040;11255311;11;39
+r;288474687;131040;11255310;11;39
+r;290401448;131040;11334469;11;39
+r;291809128;131040;11364733;11;39
+r;291811280;131040;11364410;11;39
+r;297917273;131040;11590847;11;39
+r;308648138;131040;11957699;11;39
+r;53222789;131040;2396368;11;40
+r;109887296;131040;5553446;11;40
+r;110203803;131040;5566124;11;40
+r;110203810;131040;5566123;11;40
+r;220619269;131040;9950846;11;40
+r;227586328;131040;10047165;11;40
+r;227587780;131040;10046658;11;40
+r;227589111;131040;10046366;11;40
+r;227589874;131040;10046264;11;40
+r;227589926;131040;10046259;11;40
+r;227590130;131040;10046240;11;40
+r;242254709;131040;10191295;11;40
+r;242255811;131040;10190772;11;40
+r;242257216;131040;10190194;11;40
+r;242259378;131040;10189366;11;40
+r;242259505;131040;10189338;11;40
+r;254703808;131040;10369078;11;40
+r;254704555;131040;10368713;11;40
+r;255386526;131040;10423068;11;40
+r;255386539;131040;10423066;11;40
+r;262208274;131040;10515960;11;40
+r;262882476;131040;10549989;11;40
+r;262883407;131040;10549453;11;40
+r;262883437;131040;10549447;11;40
+r;262883617;131040;10549395;11;40
+r;262883658;131040;10549389;11;40
+r;262885420;131040;10548932;11;40
+r;262885471;131040;10548922;11;40
+r;262885542;131040;10548910;11;40
+r;263058362;131040;10554998;11;40
+r;287752421;131040;11223808;11;40
+r;288157557;131040;11249335;11;40
+r;288179739;131040;11249750;11;40
+r;288186308;131040;11249850;11;40
+r;288186355;131040;11249849;11;40
+r;288284886;131040;11251657;11;40
+r;289400516;131040;11303343;11;40
+r;297226927;131040;11571877;11;40
+r;297598473;131040;11575833;11;40
+r;297598747;131040;11575770;11;40
+r;297598757;131040;11575768;11;40
+r;52222253;131040;2376429;11;41
+r;112181495;131040;5704005;11;41
+r;232076964;131040;10074025;11;41
+r;232076983;131040;10074024;11;41
+r;232077084;131040;10074002;11;41
+r;232467651;131040;10083515;11;41
+r;236682314;131040;10135533;11;41
+r;236682386;131040;10135526;11;41
+r;236682407;131040;10135525;11;41
+r;236682414;131040;10135524;11;41
+r;236682554;131040;10135512;11;41
+r;236682564;131040;10135511;11;41
+r;236682578;131040;10135510;11;41
+r;236683860;131040;10135362;11;41
+r;236683980;131040;10135349;11;41
+r;236683990;131040;10135348;11;41
+r;236684186;131040;10135324;11;41
+r;254589459;131040;10368353;11;41
+r;254589493;131040;10368344;11;41
+r;262041658;131040;10513063;11;41
+r;262042232;131040;10512952;11;41
+r;262045842;131040;10509558;11;41
+r;262055828;131040;10506437;11;41
+r;262208278;131040;10515959;11;41
+r;262883397;131040;10549454;11;41
+r;262883594;131040;10549399;11;41
+r;262883631;131040;10549393;11;41
+r;262885426;131040;10548931;11;41
+r;262885560;131040;10548907;11;41
+r;269372715;131040;10761340;11;41
+r;269373748;131040;10754393;11;41
+r;283258142;131040;11146868;11;41
+r;283584194;131040;11153616;11;41
+r;286806121;131040;11178772;11;41
+r;287352033;131040;11216256;11;41
+r;287356740;131040;11216269;11;41
+r;289662323;131040;11304634;11;41
+r;291822285;131040;11376249;11;41
+r;297520318;131040;11575474;11;41
+r;297542975;131040;11575771;11;41
+r;297549103;131040;11575832;11;41
+r;297555313;131040;11575769;11;41
+r;297558464;131040;11576080;11;41
+r;308817742;131040;11968696;11;41
+r;308648494;131040;11957952;11;41
+r;328214061;131040;12787335;11;41
+r;50950350;131040;2370489;11;42
+r;109478016;131040;5534080;11;42
+r;115844712;131040;5919941;11;42
+r;116306873;131040;5944459;11;42
+r;220579072;131040;9949390;11;42
+r;220411337;131040;9946140;11;42
+r;232076328;131040;10074242;11;42
+r;233027525;131040;10091135;11;42
+r;233027673;131040;10090980;11;42
+r;233033049;131040;10089963;11;42
+r;233033126;131040;10089919;11;42
+r;233278968;131040;10093993;11;42
+r;233279275;131040;10093739;11;42
+r;233279279;131040;10093738;11;42
+r;233279283;131040;10093737;11;42
+r;234227205;131040;10098802;11;42
+r;234737336;131040;10129292;11;42
+r;234741210;131040;10118905;11;42
+r;234741734;131040;10118835;11;42
+r;240637542;131040;10181009;11;42
+r;240637823;131040;10180528;11;42
+r;258745972;131040;10458630;11;42
+r;258745979;131040;10458629;11;42
+r;261005685;131040;10462638;11;42
+r;261005695;131040;10462636;11;42
+r;261005705;131040;10462635;11;42
+r;261005715;131040;10462634;11;42
+r;261005725;131040;10462633;11;42
+r;261005735;131040;10462630;11;42
+r;261005745;131040;10462629;11;42
+r;261005755;131040;10462628;11;42
+r;261005765;131040;10462627;11;42
+r;261005862;131040;10462616;11;42
+r;261008472;131040;10461865;11;42
+r;261008506;131040;10461859;11;42
+r;261008518;131040;10461857;11;42
+r;261012944;131040;10460463;11;42
+r;261018664;131040;10459092;11;42
+r;262042960;131040;10512637;11;42
+r;262046711;131040;10509127;11;42
+r;262050658;131040;10507747;11;42
+r;262055824;131040;10506438;11;42
+r;262057584;131040;10505990;11;42
+r;262880706;131040;10550324;11;42
+r;278848080;131040;11009507;11;42
+r;285043527;131040;11157549;11;42
+r;285610475;131040;11160991;11;42
+r;285644160;131040;11161375;11;42
+r;285653099;131040;11161466;11;42
+r;286748546;131040;11178943;11;42
+r;287641785;131040;11219831;11;42
+r;288351117;131040;11252609;11;42
+r;291789221;131040;11374491;11;42
+r;292319987;131040;11385751;11;42
+r;292370990;131040;11387917;11;42
+r;328199990;131040;12790022;11;42
+r;52127954;131040;2373510;11;43
+r;115104215;131040;5898606;11;43
+r;232076340;131040;10074241;11;43
+r;232076351;131040;10074240;11;43
+r;232076364;131040;10074235;11;43
+r;234222143;131040;10105984;11;43
+r;238919762;131040;10178923;11;43
+r;260996302;131040;10504114;11;43
+r;261000432;131040;10503267;11;43
+r;261017837;131040;10459326;11;43
+r;272638665;131040;10870858;11;43
+r;278800137;131040;11010634;11;43
+r;283860105;131040;11157548;11;43
+r;286750715;131040;11179021;11;43
+r;286751562;131040;11179022;11;43
+r;286752229;131040;11179072;11;43
+r;290110649;131040;11326259;11;43
+r;109885951;131040;5553731;11;44
+r;116306877;131040;5944457;11;44
+r;117872819;131040;5989487;11;44
+r;118508705;131040;6011349;11;44
+r;236670045;131040;10137951;11;44
+r;236674483;131040;10136840;11;44
+r;238093344;131040;10174387;11;44
+r;238095150;131040;10161979;11;44
+r;238097382;131040;10161089;11;44
+r;238097387;131040;10161088;11;44
+r;238097818;131040;10160972;11;44
+r;238106350;131040;10159439;11;44
+r;238106390;131040;10159434;11;44
+r;238107077;131040;10159367;11;44
+r;256665879;131040;10444255;11;44
+r;318734509;131040;12268022;11;44
+r;109888217;131040;5553224;11;45
+r;117882510;131040;5987283;11;45
+r;256300995;131040;10433682;11;45
+r;318733825;131040;12268084;11;45
+r;327953318;131040;12779707;11;45
+r;417031831;131040;15248756;11;45
+r;417032231;131040;15271188;11;45
+r;55931783;131040;2474186;11;46
+r;115092219;131040;5901782;11;46
+r;117914398;131040;5980067;11;46
+r;256292930;131040;10435882;11;46
+r;256294032;131040;10435589;11;46
+r;256294640;131040;10435439;11;46
+r;256301003;131040;10433681;11;46
+r;327887909;131040;12772080;11;46
+r;327932810;131040;12779706;11;46
+r;327932838;131040;12779705;11;46
+r;121028681;131040;6487692;11;47
+r;256292001;131040;10436578;11;47
+r;256292903;131040;10435889;11;47
+r;52221876;131040;2376356;11;48
+r;116306882;131040;5944456;11;48
+r;117890839;131040;5985547;11;48
+r;256287066;131040;10438029;11;48
+r;256287099;131040;10438021;11;49
+r;117903655;131040;5982734;11;50
+r;397028219;131040;15486924;11;50
+r;190278832;131040;8852780;11;50
+r;190335924;131040;8854664;11;50
+r;192830589;131040;8902572;11;50
+r;209778870;131040;9212109;11;50
+r;209778916;131040;9212107;11;50
+r;209779160;131040;9212105;11;50
+r;209781483;131040;9212102;11;50
+r;209784442;131040;9212237;11;50
+r;211539461;131040;9250607;11;50
+r;211706641;131040;9259333;11;50
+r;214062086;131040;9490451;11;50
+r;214905834;131040;9570990;11;50
+r;214991640;131040;9580652;11;50
+r;215774525;131040;9592160;11;50
+r;216897550;131040;9643746;11;50
+r;216966358;131040;9653832;11;50
+r;218053560;131040;9747247;11;50
+r;272775297;131040;10873464;11;50
+r;272775343;131040;10873460;11;50
+r;282370448;131040;11121995;11;50
+r;282412842;131040;11122764;11;50
+r;282528286;131040;11126555;11;50
+r;282652145;131040;11128650;11;50
+r;282657672;131040;11128665;11;50
+r;282660715;131040;11128668;11;50
+r;282661216;131040;11128669;11;50
+r;282680411;131040;11128667;11;50
+r;282876247;131040;11132391;11;50
+r;321096869;131040;12489470;11;50
+r;317561684;131040;12246566;11;50
+r;321080068;131040;12489218;11;50
+r;321080087;131040;12489519;11;50
+r;321080189;131040;12489499;11;50
+r;321080402;131040;12489498;11;50
+r;321080423;131040;12489500;11;50
+r;321080621;131040;12489506;11;50
+r;321080667;131040;12489226;11;50
+r;321083044;131040;12489228;11;50
+r;321083271;131040;12489512;11;50
+r;321085304;131040;12489501;11;50
+r;321086846;131040;12489525;11;50
+r;321089439;131040;12489465;11;50
+r;321089471;131040;12489518;11;50
+r;321092309;131040;12489430;11;50
+r;321120137;131040;12489409;11;50
+r;321547985;131040;12489510;11;50
+r;322152437;131040;12489453;11;50
+r;322163552;131040;12489225;11;50
+r;322165452;131040;12489507;11;50
+r;322165792;131040;12493718;11;50
+r;322165797;131040;12493717;11;50
+r;322165846;131040;12489699;11;50
+r;322165931;131040;12489516;11;50
+r;322165944;131040;12489511;11;50
+r;322165957;131040;12489509;11;50
+r;322165970;131040;12489508;11;50
+r;322165995;131040;12489471;11;50
+r;322166022;131040;12489229;11;50
+r;322166032;131040;12489227;11;50
+r;322258401;131040;12549858;11;50
+r;323098516;131040;12616819;11;50
+r;323765856;131040;12636212;11;50
+r;323794444;131040;12640480;11;50
+r;324936618;131040;12617678;11;50
+r;325335106;131040;12692301;11;50
+r;325494716;131040;12694320;11;50
+r;325494733;131040;12694318;11;50
+r;325494755;131040;12694315;11;50
+r;327245487;131040;12722026;11;50
+r;327318125;131040;12735257;11;50
+r;327325701;131040;12722034;11;50
+r;327325707;131040;12722031;11;50
+r;327329158;131040;12710524;11;50
+r;417075566;131040;15980112;11;50
+r;412565395;131040;15804556;11;50
+r;400715351;131040;14636454;11;50
+r;400715363;131040;14062307;11;50
+r;402118365;131040;15311547;11;50
+r;402112583;131040;15296959;11;50
+r;402112999;131040;15400494;11;50
+r;402103488;131040;15352428;11;50
+r;402667430;131040;15664140;11;50
+r;395011419;131040;15370426;11;50
+r;402272809;131040;15485108;11;50
+r;402274907;131040;15383905;11;50
+r;405991622;131040;15772199;11;50
+r;412543917;131040;15787683;11;50
+r;412543925;131040;15790170;11;50
+r;414847756;131040;15409790;11;50
+r;418899369;131040;16072277;11;50
+r;418900312;131040;16072398;11;50
+r;419102238;131040;16073113;11;50
+r;16135160;131040;459777;11;51
+r;16199882;131040;461271;11;51
+r;26569724;131040;1650687;11;51
+r;27731203;131040;1672034;11;51
+r;34310717;131040;2339814;11;51
+r;52448934;131040;2557944;11;51
+r;86000025;131040;3356353;11;51
+r;91466560;131040;3669799;11;51
+r;16960244;131040;566444;11;52
+r;16885394;131040;565884;11;52
+r;21781843;131040;1128586;11;52
+r;33765760;131040;2324604;11;52
+r;77784529;131040;3227261;11;53
+r;93017395;131040;3727111;11;53
+r;98849832;131040;4333087;11;53
+r;25939187;131040;1641405;11;54
+r;29730276;131040;1818877;11;54
+r;76625584;131040;3177579;11;54
+r;98849847;131040;4333088;11;54
+r;102035785;131040;4893472;11;54
+r;105839071;131040;5128105;11;54
+r;109315332;131040;5521662;11;54
+r;16135167;131040;459778;11;55
+r;82360417;131040;3298206;11;55
+r;82362207;131040;3298211;11;55
+r;83669297;131040;3319859;11;55
+r;101711980;131040;4854128;11;55
+r;109291770;131040;5521661;11;55
+r;21170196;131040;1021301;11;56
+r;28135064;131040;1704279;11;56
+r;83669302;131040;3319858;11;56
+r;92970149;131040;3725790;11;56
+r;96360143;131040;4306888;11;56
+r;101909246;131040;4874295;11;56
+r;17192828;131040;568084;11;57
+r;18199736;131040;581468;11;57
+r;23086538;131040;1338354;11;57
+r;23330986;131040;1372878;11;57
+r;28746764;131040;1746997;11;57
+r;34056787;131040;2332227;11;57
+r;93008918;131040;3725789;11;57
+r;17131242;131040;567637;11;58
+r;24629298;131040;1490048;11;58
+r;28185666;131040;1706555;11;58
+r;29057729;131040;1766789;11;58
+r;29900656;131040;1842231;11;58
+r;77783121;131040;3227260;11;58
+r;82362256;131040;3298210;11;58
+r;83669292;131040;3319860;11;58
+r;87884883;131040;3439600;11;58
+r;88104183;131040;3460826;11;58
+r;102053001;131040;4894643;11;58
+r;17131238;131040;567638;11;59
+r;29731539;131040;1818875;11;59
+r;76198289;131040;3169819;11;59
+r;83661006;131040;3321573;11;59
+r;85145519;131040;3341531;11;59
+r;96358924;131040;4306889;11;59
+r;17092486;131040;567372;11;60
+r;27803235;131040;1678454;11;60
+r;82360216;131040;3298207;11;60
+r;85901464;131040;3351283;11;60
+r;86133493;131040;3371868;11;60
+r;109429889;131040;5526521;11;60
+r;105830692;131040;5128106;11;60
+r;29735368;131040;1818881;11;61
+r;29730466;131040;1818883;11;62
+r;29730246;131040;1818882;11;65
+r;29730262;131040;1818878;11;66
+r;29731396;131040;1818876;11;67
+r;76446063;131040;3174576;11;67
+r;13694418;131040;394125;11;70
+r;13694422;131040;394123;11;70
+r;13694082;131040;394109;11;71
+r;12545849;131040;389011;11;101
+r;12545853;131040;389010;11;101
+r;12546497;131040;388863;11;101
+r;12546501;131040;388862;11;101
+r;12609403;131040;373165;11;101
+r;12609433;131040;373158;11;101
+r;12609463;131040;373150;11;101
+r;12609535;131040;373132;11;101
+r;12609579;131040;373123;11;101
+r;12609629;131040;373112;11;101
+r;12609693;131040;373096;11;101
+r;12609709;131040;373092;11;101
+r;12609721;131040;373089;11;101
+r;12609737;131040;373085;11;101
+r;12615683;131040;371632;11;101
+r;12684387;131040;354698;11;101
+r;12694119;131040;352292;11;101
+r;12755737;131040;337466;11;101
+r;12543345;131040;389659;11;102
+r;12598145;131040;375941;11;102
+r;12609487;131040;373144;11;102
+r;12609637;131040;373110;11;102
+r;12609729;131040;373087;11;102
+r;12656953;131040;361425;11;102
+r;12703649;131040;349893;11;102
+r;12598141;131040;375942;11;103
+r;12609415;131040;373162;11;103
+r;12609419;131040;373161;11;103
+r;12609441;131040;373156;11;103
+r;12609471;131040;373148;11;103
+r;12609507;131040;373139;11;103
+r;12609531;131040;373133;11;103
+r;12609557;131040;373127;11;103
+r;12609685;131040;373098;11;103
+r;12609725;131040;373088;11;103
+r;12609757;131040;373080;11;103
+r;12612349;131040;372457;11;103
+r;12634647;131040;366886;11;103
+r;12667299;131040;358882;11;103
+r;12690535;131040;353185;11;103
+r;12609407;131040;373164;11;104
+r;12609523;131040;373135;11;104
+r;12609641;131040;373109;11;104
+r;12609653;131040;373106;11;104
+r;12609733;131040;373086;11;104
+r;12647085;131040;363832;11;104
+r;12667279;131040;358885;11;104
+r;12676851;131040;356554;11;104
+r;12717839;131040;346469;11;104
+r;12546785;131040;388794;11;105
+r;12609395;131040;373167;11;105
+r;12609425;131040;373160;11;105
+r;12609445;131040;373155;11;105
+r;12609499;131040;373141;11;105
+r;12609503;131040;373140;11;105
+r;12609541;131040;373131;11;105
+r;12609545;131040;373130;11;105
+r;12609565;131040;373126;11;105
+r;12609657;131040;373105;11;105
+r;12707599;131040;348905;11;105
+r;12711769;131040;347886;11;105
+r;12726821;131040;344431;11;105
+r;12548929;131040;388119;11;106
+r;12587143;131040;378649;11;106
+r;12609459;131040;373151;11;106
+r;12609467;131040;373149;11;106
+r;12609479;131040;373146;11;106
+r;12609495;131040;373142;11;106
+r;12609511;131040;373138;11;106
+r;12609553;131040;373128;11;106
+r;12609573;131040;373124;11;106
+r;12609583;131040;373122;11;106
+r;12609591;131040;373120;11;106
+r;12609613;131040;373116;11;106
+r;12609633;131040;373111;11;106
+r;12609669;131040;373102;11;106
+r;12755727;131040;337468;11;106
+r;12755731;131040;337467;11;106
+r;12545837;131040;389016;11;107
+r;12546505;131040;388861;11;107
+r;12600561;131040;375342;11;107
+r;12609437;131040;373157;11;107
+r;12609455;131040;373152;11;107
+r;12609483;131040;373145;11;107
+r;12609489;131040;373143;11;107
+r;12609609;131040;373117;11;107
+r;12609645;131040;373108;11;107
+r;12609713;131040;373091;11;107
+r;12612353;131040;372456;11;107
+r;12643417;131040;364715;11;107
+r;12651141;131040;362835;11;107
+r;12755311;131040;337589;11;107
+r;12609411;131040;373163;11;108
+r;12609451;131040;373153;11;108
+r;12609519;131040;373136;11;108
+r;12609601;131040;373119;11;108
+r;12609605;131040;373118;11;108
+r;12609621;131040;373114;11;108
+r;12609625;131040;373113;11;108
+r;12609649;131040;373107;11;108
+r;12609661;131040;373104;11;108
+r;12609681;131040;373099;11;108
+r;12609697;131040;373095;11;108
+r;12609705;131040;373093;11;108
+r;12609753;131040;373081;11;108
+r;12657169;131040;361376;11;108
+r;12682653;131040;355123;11;108
+r;12762845;131040;335718;11;108
+r;12545293;131040;389162;11;109
+r;12548849;131040;388139;11;109
+r;12604715;131040;374295;11;109
+r;12609449;131040;373154;11;109
+r;12609475;131040;373147;11;109
+r;12609587;131040;373121;11;109
+r;12609617;131040;373115;11;109
+r;12609665;131040;373103;11;109
+r;12609673;131040;373101;11;109
+r;12609689;131040;373097;11;109
+r;12609701;131040;373094;11;109
+r;12609741;131040;373084;11;109
+r;12609745;131040;373083;11;109
+r;12615631;131040;371644;11;109
+r;12636687;131040;366381;11;109
+r;12654793;131040;361952;11;109
+r;12672839;131040;357524;11;109
+r;12755723;131040;337469;11;109
+r;12549885;131040;387871;11;110
+r;12609399;131040;373166;11;110
+r;12609429;131040;373159;11;110
+r;12609515;131040;373137;11;110
+r;12609527;131040;373134;11;110
+r;12609549;131040;373129;11;110
+r;12609569;131040;373125;11;110
+r;12609677;131040;373100;11;110
+r;12609717;131040;373090;11;110
+r;12609749;131040;373082;11;110
+r;13249622;131040;393006;11;110
+r;11877500;131040;4345;11;121
+r;9015088;131040;318788;11;148
+r;9015134;131040;318820;11;148
+r;11652122;131040;329586;11;148
+r;11737709;131040;329841;11;148
+r;8704599;131040;237268;11;160
+r;8710083;131040;246463;11;160
+r;8721412;131040;256573;11;160
+r;8589684;131040;58161;11;161
+r;8605140;131040;102922;11;161
+r;8606199;131040;105765;11;161
+r;8607886;131040;110158;11;161
+r;8608953;131040;113173;11;161
+r;8630413;131040;166752;11;161
+r;8684771;131040;210082;11;161
+r;8684850;131040;210190;11;161
+r;8684852;131040;210191;11;161
+r;8692418;131040;220832;11;161
+r;8693801;131040;222463;11;161
+r;8694076;131040;222952;11;161
+r;8696265;131040;226628;11;161
+r;8699102;131040;230583;11;161
+r;8700053;131040;231685;11;161
+r;8702777;131040;235086;11;161
+r;8708501;131040;244149;11;161
+r;8709396;131040;245353;11;161
+r;8710325;131040;246766;11;161
+r;8715273;131040;251587;11;161
+r;8715384;131040;251782;11;161
+r;8715715;131040;252129;11;161
+r;8716204;131040;252601;11;161
+r;8716900;131040;253234;11;161
+r;8718186;131040;254252;11;161
+r;8718188;131040;254254;11;161
+r;8719046;131040;254839;11;161
+r;8719047;131040;254840;11;161
+r;8719872;131040;255505;11;161
+r;8719875;131040;255506;11;161
+r;8720063;131040;255638;11;161
+r;8720518;131040;255945;11;161
+r;8720520;131040;255946;11;161
+r;8730763;131040;263547;11;161
+r;8580020;131040;30105;11;162
+r;8580076;131040;30252;11;162
+r;8596532;131040;78403;11;162
+r;8599293;131040;86267;11;162
+r;8607822;131040;109965;11;162
+r;8627143;131040;160932;11;162
+r;8627244;131040;161080;11;162
+r;8628422;131040;163472;11;162
+r;8629175;131040;164679;11;162
+r;8632398;131040;170184;11;162
+r;8674953;131040;204197;11;162
+r;8685359;131040;210535;11;162
+r;8685456;131040;210617;11;162
+r;8686725;131040;211485;11;162
+r;8686875;131040;211619;11;162
+r;8688685;131040;213189;11;162
+r;8688694;131040;213201;11;162
+r;8764506;131040;297527;11;162
+r;8581587;131040;34990;11;163
+r;8582863;131040;38743;11;163
+r;8582892;131040;38821;11;163
+r;8584241;131040;42730;11;163
+r;8587672;131040;52471;11;163
+r;8598022;131040;82701;11;163
+r;8598680;131040;84598;11;163
+r;8600837;131040;90584;11;163
+r;8604318;131040;100480;11;163
+r;8611992;131040;121762;11;163
+r;8615942;131040;132777;11;163
+r;8620429;131040;142114;11;163
+r;8622249;131040;146879;11;163
+r;8626101;131040;159084;11;163
+r;8626370;131040;159490;11;163
+r;8635521;131040;176778;11;163
+r;8636256;131040;179774;11;163
+r;8640000;131040;182367;11;163
+r;8640002;131040;182368;11;163
+r;8640187;131040;182479;11;163
+r;8640725;131040;182798;11;163
+r;8641170;131040;183070;11;163
+r;8642438;131040;183840;11;163
+r;8642480;131040;183866;11;163
+r;8642482;131040;183867;11;163
+r;8642484;131040;183868;11;163
+r;8642486;131040;183869;11;163
+r;8642488;131040;183870;11;163
+r;8642489;131040;183871;11;163
+r;8642490;131040;183872;11;163
+r;8642492;131040;183873;11;163
+r;8642493;131040;183874;11;163
+r;8642495;131040;183875;11;163
+r;8642497;131040;183876;11;163
+r;8642499;131040;183877;11;163
+r;8643315;131040;184336;11;163
+r;8660007;131040;195531;11;163
+r;8660156;131040;195622;11;163
+r;8661205;131040;196287;11;163
+r;8670677;131040;201615;11;163
+r;8670824;131040;201713;11;163
+r;8670845;131040;201724;11;163
+r;8671430;131040;202124;11;163
+r;8671445;131040;202133;11;163
+r;8674431;131040;203889;11;163
+r;8678386;131040;206393;11;163
+r;8678388;131040;206394;11;163
+r;8678390;131040;206395;11;163
+r;8678392;131040;206396;11;163
+r;8678394;131040;206397;11;163
+r;8678396;131040;206398;11;163
+r;8678398;131040;206399;11;163
+r;8678400;131040;206400;11;163
+r;8678402;131040;206401;11;163
+r;8678404;131040;206402;11;163
+r;8678406;131040;206403;11;163
+r;8678408;131040;206404;11;163
+r;8678410;131040;206405;11;163
+r;8732608;131040;265001;11;163
+r;8732771;131040;265180;11;163
+r;8734848;131040;266978;11;163
+r;8734895;131040;267019;11;163
+r;8738694;131040;271178;11;163
+r;8739582;131040;272074;11;163
+r;8742107;131040;274242;11;163
+r;8746064;131040;278385;11;163
+r;8753751;131040;286415;11;163
+r;8757896;131040;289928;11;163
+r;8758103;131040;290145;11;163
+r;8762442;131040;295181;11;163
+r;8764504;131040;297526;11;163
+r;8772000;131040;306131;11;163
+r;8773820;131040;308100;11;163
+r;8617753;131040;137210;11;164
+r;8653240;131040;190766;11;164
+r;8662316;131040;196783;11;164
+r;8662322;131040;196786;11;164
+r;8662689;131040;197006;11;164
+r;8662691;131040;197007;11;164
+r;8663196;131040;197311;11;164
+r;8667512;131040;199929;11;164
+r;8777238;131040;311267;11;164
+r;8665356;131040;198609;11;165
+r;8665563;131040;198740;11;165
+r;8665832;131040;198871;11;165
+r;8665891;131040;198905;11;165
+r;8666087;131040;199026;11;165
+r;8669048;131040;200700;11;165
+r;8669723;131040;201057;11;165
+r;8570348;131040;1187;11;167
+r;8573129;131040;9591;11;168
+r;161690;131040;154222;11;189
+r;161691;131040;63370;11;197
+r;161689;131040;154221;11;199

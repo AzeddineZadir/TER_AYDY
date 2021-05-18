@@ -1,0 +1,38 @@
+
+e;8066;'proposer';1;150
+e;14505137;'proposer que';1;0
+e;14696932;'proposer de';1;0
+e;15459830;'se proposer de faire [qch]';1;0
+e;15459831;'se proposer pour faire [qch]';1;0
+e;14561372;'proposer du café';1;14
+e;15459824;'proposer [qch] à [qqn]';1;0
+e;12050101;'proposer des concepts en matière de santé psychologique';1;0
+e;12050468;'proposer des offres spéciales';1;0
+e;12050925;'proposer des services flexibles';1;0
+e;12051429;'proposer des stratégies de traitement pour les problèmes de santé humaine';1;0
+e;12052446;'proposer des boissons alcoolisées et non alcoolisées';1;0
+e;3175129;'proposer à';1;0
+e;3298163;'proposer un café';1;0
+e;254381;'proposer son aide';1;50
+e;82806;'se proposer de';1;50
+e;13578;'se proposer';1;50
+e;186798;'proposer la botte';1;50
+r;368347000;8066;14505137;11;25
+r;373872485;8066;14696932;11;25
+r;395475965;8066;15459830;11;25
+r;395477829;8066;15459831;11;25
+r;369972390;8066;14561372;11;26
+r;395477857;8066;15459824;11;26
+r;313690841;8066;12050101;11;36
+r;313694671;8066;12050468;11;36
+r;313707848;8066;12050925;11;36
+r;313763716;8066;12051429;11;36
+r;313761877;8066;12052446;11;37
+r;76471150;8066;3175129;11;55
+r;82354426;8066;3298163;11;58
+r;76471672;8066;3175131;11;59
+r;76471296;8066;3175130;11;70
+r;8718383;8066;254381;11;161
+r;8598047;8066;82806;11;162
+r;8574495;8066;13578;11;163
+r;8647509;8066;186798;11;164

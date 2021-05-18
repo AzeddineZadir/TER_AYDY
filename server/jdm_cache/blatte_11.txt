@@ -1,0 +1,100 @@
+
+e;58183;'blatte';1;136
+e;6332105;'blatte du surinam';1;0
+e;6353812;'blatte des cuisines';1;0
+e;6359144;'blatte domestique';1;0
+e;6368126;'blatte cendrée africaine';1;0
+e;6389683;'blatte brune';1;0
+e;6395429;'blatte australienne';1;0
+e;6408040;'blatte verte américaine';1;0
+e;12197248;'blatte germanique ac';1;0
+e;12091024;'blatte orientale ac ige classification rast';1;0
+e;12091023;'blatte orientale ac ige';1;0
+e;12091022;'blatte germanique rbla g5 (recombinant) ac ige';1;0
+e;12091021;'blatte germanique rbla g4 (recombinant) ac ige';1;0
+e;12091020;'blatte germanique rbla g2 (recombinant) ac ige';1;0
+e;12091019;'blatte germanique rbla g1 (recombinant) ac ige';1;0
+e;12091018;'blatte germanique nbla g7 (natif) ac ige';1;0
+e;12091017;'blatte germanique libération des leucotriènes';1;0
+e;12091015;'blatte germanique ac igg';1;0
+e;12091014;'blatte germanique ac ige classification rast';1;0
+e;12091013;'blatte germanique ac ige';1;0
+e;12091010;'blatte américaine ac ige';1;0
+e;12090265;'(blatte germanique+dermatophagoides farinae+dermatophagoides pteronyssinus+poussières de maison hollister stier) ac ige';1;0
+e;12090263;'(blatte germanique+dermatophagoides farinae+dermatophagoides pteronyssinus+poussières de maison greer) ac ige';1;0
+e;12202196;'blatte germanique rbla g1 (recombinant)';1;0
+e;12202195;'blatte germanique rbla g2 (recombinant)';1;0
+e;12201884;'blatte germanique nbla g7 (natif)';1;0
+e;12201883;'blatte germanique rbla g4 (recombinant)';1;0
+e;12201882;'blatte germanique rbla g5 (recombinant)';1;0
+e;12090266;'(blatte germanique+dermatophagoides farinae+dermatophagoides pteronyssinus+poussières de maison hollister stier) ac ige classification rast';1;0
+e;12090267;'(blatte germanique+dermatophagoides farinae+dermatophagoides pteronyssinus+poussières de maison hollister stier) ac igg4';1;0
+e;12091012;'blatte américaine ac igg4';1;0
+e;12091011;'blatte américaine ac ige classification rast';1;0
+e;12091016;'blatte germanique ac igg4';1;0
+e;12109477;'blatte orientale ag';1;0
+e;12109476;'blatte germanique rbla g5 (recombinant) ag';1;0
+e;12109475;'blatte germanique rbla g4 (recombinant) ag';1;0
+e;12109474;'blatte germanique rbla g2 (recombinant) ag';1;0
+e;12109473;'blatte germanique rbla g1 (recombinant) ag';1;0
+e;12109472;'blatte germanique nbla g7 (natif) ag';1;0
+e;12109471;'blatte germanique ag';1;0
+e;12109470;'blatte américaine ag';1;0
+e;12109235;'(blatte germanique+dermatophagoides farinae+dermatophagoides pteronyssinus+poussières de maison hollister stier) ag';1;0
+e;12109234;'(blatte germanique+dermatophagoides farinae+dermatophagoides pteronyssinus+poussières de maison greer) ag';1;0
+e;11353847;'blatte des meubles';777;0
+e;11353846;'blatte rayée';777;0
+e;11353832;'blatte de Madagascar';777;0
+e;11353830;'blatte rhinocéros';777;0
+e;12202221;'(blatte germanique+dermatophagoides farinae+dermatophagoides pteronyssinus+poussières de maison greer)';1;0
+e;12202125;'(blatte germanique+dermatophagoides farinae+dermatophagoides pteronyssinus+poussières de maison hollister stier)';1;0
+e;261051;'blatte américaine';1;50
+r;300981798;58183;6332105;11;25
+r;301753446;58183;6353812;11;25
+r;302085019;58183;6359144;11;25
+r;302955642;58183;6368126;11;25
+r;304559091;58183;6389683;11;25
+r;305001931;58183;6395429;11;25
+r;305321208;58183;6408040;11;25
+r;316553928;58183;12197248;11;25
+r;315645324;58183;12091024;11;26
+r;315645341;58183;12091023;11;26
+r;315645351;58183;12091022;11;26
+r;315645365;58183;12091021;11;26
+r;315645379;58183;12091020;11;26
+r;315645393;58183;12091019;11;26
+r;315645407;58183;12091018;11;26
+r;315645421;58183;12091017;11;26
+r;315645433;58183;12091015;11;26
+r;315645443;58183;12091014;11;26
+r;315645460;58183;12091013;11;26
+r;315645470;58183;12091010;11;26
+r;315647180;58183;12090265;11;26
+r;315647197;58183;12090263;11;26
+r;316541190;58183;12202196;11;26
+r;316541202;58183;12202195;11;26
+r;316543102;58183;12201884;11;26
+r;316543114;58183;12201883;11;26
+r;316543126;58183;12201882;11;26
+r;315478763;58183;12090266;11;27
+r;315477712;58183;12090267;11;27
+r;315571834;58183;12091012;11;27
+r;315571852;58183;12091011;11;27
+r;315591985;58183;12091016;11;27
+r;315490477;58183;12109477;11;29
+r;315490485;58183;12109476;11;29
+r;315490497;58183;12109475;11;29
+r;315490509;58183;12109474;11;29
+r;315490521;58183;12109473;11;29
+r;315490533;58183;12109472;11;29
+r;315490545;58183;12109471;11;29
+r;315490553;58183;12109470;11;29
+r;315491921;58183;12109235;11;29
+r;315491936;58183;12109234;11;29
+r;291212418;58183;11353847;11;32
+r;291212423;58183;11353846;11;32
+r;291212475;58183;11353832;11;32
+r;291212484;58183;11353830;11;32
+r;316541079;58183;12202221;11;32
+r;316541654;58183;12202125;11;32
+r;8727748;58183;261051;11;161

@@ -1,0 +1,98 @@
+
+e;65002;'ainsi';1;90
+e;10986346;'Les armoiries de la Picardie se blasonnent ainsi';777;0
+e;15347872;'disons le ainsi';1;0
+e;15347868;'disons-le ainsi';1;0
+e;15342043;'considérer ainsi';1;0
+e;15296561;'c'est ainsi qu'il faut + Verb';1;0
+e;15397821;'c'est ainsi que';1;0
+e;15397830;'c'est bien ainsi que';1;0
+e;15397828;'c'est mieux ainsi';1;0
+e;15397838;'ce n'est certainement pas ainsi que';1;0
+e;15397835;'ce n'est pas ainsi que';1;0
+e;15356775;'ce n'est sûrement pas ainsi que';1;0
+e;15582821;'cela se fait ainsi';1;0
+e;11082248;'les différentes séries de téléphones ainsi que de tablettes';777;0
+e;15546278;'Nous sommes allés à Paris ainsi qu'à Chartres.';1;0
+e;15266030;'ainsi du reste';1;0
+e;15488552;'ainsi qu'il est précisé ci-dessous';1;0
+e;15411567;'ainsi que je le disais';1;0
+e;15629163;'ainsi va le monde';1;0
+e;16152637;'Origine du nom ainsi que de celui de certaines rues de ce hameau';777;0
+e;16393117;'ainsi que la choline';777;0
+e;10047498;'Les armes du département de l'Isère se blasonnent ainsi';777;0
+e;10553657;'résultats des matches ainsi que le classement du groupe A des éliminatoires de l'Euro 2012';777;0
+e;11108712;'résultats des matches ainsi que le classement du groupe E des éliminatoires de l'Euro 2016';777;0
+e;15411400;'Il faut faire ainsi.';1;0
+e;15325165;'Il a été éduqué à penser ainsi.';1;0
+e;15411574;'Il faisait preuve de détermination ainsi que d'un remarquable talent oratoire.';1;0
+e;15379317;'... ainsi que deux nouveaux romans';1;0
+e;15353718;'C'est ainsi qu'il a réussi.';1;0
+e;15822660;'Ils seraient malavisés de procéder ainsi.';1;0
+e;2123981;'ainsi qu'';2;0
+e;3182854;'répression ait été ainsi limitée d'une façon arbitraire';777;0
+e;3230108;'La syénite à néphéline désigne une roche ignée plutonique constituée essentiellement de feldspaths alcalins et sodiques ainsi que de néphéline';777;0
+e;2357764;'procéder ainsi';1;0
+e;1969983;'ainsi composé';1;0
+e;3321718;'règlement du Parlement européen et du Conseil concernant les contrôles officiels et les autres activités officielles servant à assurer le respect de la législation sur les denrées alimentaires et les aliments pour animaux ainsi que des règles relatives à ';1;0
+e;352581;'et ainsi de suite';1;50
+e;334573;'ainsi donc';1;50
+e;372362;'pour dire ainsi';1;50
+e;186801;'qu'ainsi ne soit';1;2
+e;58989;'pour ainsi dire';1;50
+e;68525;'Pain, amour, ainsi soit-il';1;50
+e;137034;'C'est ainsi que cela';1;50
+e;7091;'ainsi que';1;52
+e;106430;'ainsi de suite';1;60
+e;218926;'c'est ainsi';1;54
+e;218927;'ainsi va la vie';1;52
+e;46011;'ainsi soit-il';1;66
+r;277363317;65002;10986346;11;28
+r;419783900;65002;15347872;11;30
+r;419783906;65002;15347868;11;30
+r;419733579;65002;15342043;11;31
+r;419669859;65002;15296561;11;32
+r;419669865;65002;15397821;11;32
+r;419669909;65002;15397830;11;32
+r;419671046;65002;15397828;11;32
+r;419691143;65002;15397838;11;32
+r;419691155;65002;15397835;11;32
+r;419691354;65002;15356775;11;32
+r;419692497;65002;15582821;11;32
+r;434369419;65002;16175602;11;33
+r;434369421;65002;16175603;11;33
+r;281143691;65002;11082248;11;34
+r;419516123;65002;15546278;11;34
+r;419583814;65002;15266030;11;34
+r;419583818;65002;15488552;11;34
+r;419583826;65002;15411567;11;34
+r;419583832;65002;15629163;11;34
+r;423610631;65002;16152637;11;34
+r;433195399;65002;16393117;11;34
+r;227585474;65002;10047498;11;40
+r;263065559;65002;10553657;11;41
+r;282197176;65002;11108712;11;50
+r;402106868;65002;15411400;11;50
+r;402104606;65002;15325165;11;50
+r;402106536;65002;15411574;11;50
+r;395008723;65002;15379317;11;50
+r;395010709;65002;15353718;11;50
+r;413897420;65002;15822660;11;50
+r;33106784;65002;2123981;11;54
+r;76974070;65002;3182854;11;55
+r;77978446;65002;3230108;11;55
+r;50018019;65002;2357764;11;58
+r;31741508;65002;1969983;11;60
+r;83659999;65002;3321718;11;60
+r;12692931;65002;352581;11;104
+r;12767377;65002;334573;11;105
+r;12612693;65002;372362;11;109
+r;8876662;65002;186801;11;153
+r;8589959;65002;58989;11;161
+r;8593190;65002;68525;11;163
+r;8617614;65002;137034;11;163
+r;8572306;65002;7091;11;168
+r;1630183;65002;106430;11;188
+r;1608049;65002;218926;11;196
+r;1608051;65002;218927;11;197
+r;1608050;65002;46011;11;199

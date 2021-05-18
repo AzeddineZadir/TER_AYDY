@@ -1,0 +1,966 @@
+
+e;34659;'gestion';1;235
+e;15695030;'gestion de données de santé';1;0
+e;15688933;'gestion solidaire et soutenable de l'eau';777;0
+e;6286820;'gestion de la maladie';1;0
+e;6289139;'gestion thérapeutique';1;0
+e;6304347;'régimes de gestion intégrée des soins de santé';1;0
+e;6294616;'gestion des voies aériennes';1;0
+e;6303280;'gestion des équipements et fournitures d'hôpital';1;0
+e;6309605;'gestion du soi';1;0
+e;6321455;'gestion des lignes de produits';1;0
+e;6325403;'gestion de traitements médicamenteux';1;0
+e;6327585;'gestion du personnel d'hôpital';1;0
+e;6327374;'programmes de gestion coordonnée des soins de santé';1;0
+e;6334507;'Équipe gestion institutionnelle';1;0
+e;6341428;'gestion des soins infirmiers';1;0
+e;6350890;'programmes de gestion intégrée des soins de santé';1;0
+e;6352861;'gestion cabinet médical';1;0
+e;6358725;'gestion du personnel des hôpitaux';1;0
+e;6374541;'gestion des soins aux patients';1;0
+e;6383462;'gestion des pharmacothérapies';1;0
+e;6390462;'gestion financière d'hôpital';1;0
+e;6390238;'gestion de la douleur';1;0
+e;6393242;'gestion des soins aux malades';1;0
+e;6396306;'gestion financière des hôpitaux';1;0
+e;6398081;'gestion du financement d'hôpital';1;0
+e;6401069;'gestion du personnel hospitalier';1;0
+e;6402443;'gestion coordonnée des soins de santé';1;0
+e;6406030;'gestion de la pharmacothérapie';1;0
+e;6420449;'gestion intégrée des soins de santé';1;0
+e;6414117;'gestion de la sonde à demeure';1;0
+e;6284815;'contrôle qualité gestion';1;0
+e;6409271;'gestion intégrée de cas';1;0
+e;6339584;'gestion des voies respiratoires';1;0
+e;6343699;'gestion de cathéter intraveineux';1;0
+e;6367937;'gestion des soins du patient';1;0
+e;6326922;'gestion des équipements et fournitures hospitaliers';1;0
+e;6416810;'gestion financière hospitalière';1;0
+e;6415802;'gestion de la pharmacologie psychiatrique';1;0
+e;6321766;'gestion de cas';1;0
+e;6362075;'audit gestion';1;0
+e;6338596;'gestion cabinet dentaire';1;0
+e;6324964;'système gestion base de données';1;0
+e;14012102;'gestion du patrimoine de l'État';1;0
+e;14096882;'cycles en gestion et en organisation';777;0
+e;14139337;'gestion de crises';1;0
+e;14432865;'gestion clanique';1;0
+e;14452498;'mesure judiciaire d'aide à la gestion du budget familial';1;0
+e;14452566;'gestion des biens';1;0
+e;14452576;'reddition des comptes de gestion';1;0
+e;14452975;'dispense des comptes de gestion';1;0
+e;14453402;'gestion et entretien d'une concession';1;0
+e;14453384;'gestion et entretien d'un cimetière';1;0
+e;14454236;'dérive de gestion';1;0
+e;14454262;'gestion courante';1;0
+e;14454211;'gestion de fait';1;0
+e;14454517;'observatoire des finances et de la gestion publique locales';1;0
+e;14454759;'organe de gestion';1;0
+e;14454760;'gestion de personnel';1;0
+e;14483294;'La gestion du réseau de distribution';777;0
+e;14538734;'gestion foncière';1;0
+e;14538737;'gestion des ressources naturelles';1;0
+e;14571581;'gestion sous mandat';777;0
+e;14572327;'gestion privée';777;0
+e;14630778;'gestion de l'ordre public';1;0
+e;14631878;'unité de gestion des stocks';777;0
+e;14632901;'gestion politique d'une crise';1;0
+e;14637742;'gestion du capital humain';777;0
+e;14670242;'gestion intégrée des sols';777;0
+e;15009457;'la gestion de la sortie du centre';777;0
+e;15039623;'systèmes gestion base de données';1;0
+e;15039625;'systèmes de gestion base de données';1;0
+e;16154411;'gestion de la performance organisationnelle';777;0
+e;16366988;'gestion des sauvegardes';1;0
+e;14727965;'gestion du temps de parole';1;0
+e;15039624;'système de gestion base de données';1;0
+e;15569512;'ingénieur de gestion';1;0
+e;5672406;'micro-gestion';777;0
+e;12200509;'gestion des fonds publics';1;0
+e;12917456;'société de gestion des droits d'auteur';777;0
+e;5729102;'Développer les pratiques de gestion durable des ressources naturelles et de l'énergie';777;0
+e;5723315;'logiciel de gestion de projets';777;0
+e;5723312;'logiciel de gestion bibliographique';777;0
+e;13527378;'gestion électronique de la régulation du trafic routier urbain défiant les embouteillages';777;0
+e;16519742;'de gestion des erreurs';1;0
+e;5713637;'gestion des actifs logiciels';777;0
+e;5713634;'gestion de la capacité';777;0
+e;5804436;'gestion de contenu web';777;0
+e;6440938;'gestion d'établissement de santé';1;0
+e;16365014;'diplôme de comptabilité et de gestion';777;0
+e;5573952;'gestion des câbles';777;0
+e;5711964;'logiciel de gestion de contenu';1;0
+e;10598513;'gestion des clubs sportifs';777;0
+e;11031021;'système intégré de gestion de bibliothèque';777;0
+e;15593074;'dispositif de gestion de crise';1;0
+e;15647841;'domaine de gestion d'administration';1;0
+e;15529051;'démarche de gestion';1;0
+e;15331295;'en confier la gestion';1;0
+e;16391618;'de contrôleur de gestion';777;0
+e;16316994;'chiffre d'affaires de la gestion d'actifs';1;0
+e;16493037;'conseillère en gestion de patrimoine';1;0
+e;6069845;'Code international de gestion de la sécurité';777;0
+e;6068869;'schéma d'aménagement et de gestion des eaux';777;0
+e;10733562;'gestion électronique des documents';777;0
+e;10970457;'Direction norvégienne pour la gestion de la nature';777;0
+e;10990298;'droit de la gestion des cours d'eau en France';777;0
+e;11030785;'gestion des exigences';777;0
+e;11031114;'système de gestion de règles métier';777;0
+e;14454376;'décret no 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique';1;0
+e;15266736;'comptabilité de gestion';1;0
+e;15446110;'conseil de gestion';1;0
+e;15193805;'conseil en gestion';1;0
+e;15561572;'conseil en organisation et gestion des risques';1;0
+e;15374578;'contrat de gestion d'aéroport';1;0
+e;15453483;'contrôleuse de gestion';1;0
+e;16241881;'commission nationale d'aide et de contrôle de gestion';777;0
+e;5564946;'infrastructure de gestion de clés';777;0
+e;5564742;'Informatique de gestion HES';777;0
+e;5673905;'gestion des connaissances personnelles';777;0
+e;5723740;'gestion des langues';777;0
+e;5837723;'plan simple de gestion';777;0
+e;5835839;'document de gestion de l'espace agricole et forestier';777;0
+e;6442956;'système d'information de gestion';1;0
+e;10025857;'idée de gestion et de pilotage';777;0
+e;10958933;'gestion multimodale centralisée des déplacements';777;0
+e;10584738;'agence européenne pour la gestion de la coopération opérationnelle aux frontières extérieures des États membres de l'Union européenne';777;0
+e;10992404;'système de gestion des transports';777;0
+e;10992527;'gestion de versions';777;0
+e;11028672;'technique de gestion du risque de change';1;0
+e;11028671;'technique non financière de gestion du risque de change';1;0
+e;11031182;'modèle conceptuel de gestion de projet';1;0
+e;11353961;'gestion des flux de trafic aérien';777;0
+e;11353451;'application de gestion des dossiers des ressortissants étrangers en France';777;0
+e;11353411;'institut de gestion du patrimoine architectural et archéologique';777;0
+e;11353394;'Association de gestion du fonds pour l'insertion des personnes handicapées';777;0
+e;11359551;'Bureau de la gestion et du budget';777;0
+e;11776899;'institution de gestion sociale des armées';777;0
+e;15402848;'audit de gestion';1;0
+e;15487993;'automatisation de la gestion';1;0
+e;15769903;'base de données de gestion';1;0
+e;15650647;'cabinet de conseil en gestion';1;0
+e;15329669;'cabinets de conseil en gestion';1;0
+e;15400024;'cellule de gestion de crise';1;0
+e;15580702;'chargé de gestion RH';1;0
+e;15580704;'chargée de gestion RH';1;0
+e;5564786;'Institut supérieur d'informatique et gestion';777;0
+e;5776685;'stratégie de gestion de l'information';1;4
+e;8043965;'sciences et technologies de la gestion';1;0
+e;10962058;'gestion du risque météorologique en entreprise';777;0
+e;11811676;'gestion du trafic aérien';777;0
+e;13517409;'gestion de l'eau en France';777;0
+e;15453482;'assistante de gestion';1;0
+e;15770217;'association française des sociétés de gestion de portefeuille';1;0
+e;16365056;'agrégation d'économie et gestion';777;0
+e;1826921;'agence nationale pour la gestion des déchets radioactifs';1;0
+e;5980426;'gestion différenciée';777;0
+e;10836555;'Communications et Progiciels d'aide à la gestion';777;0
+e;11013714;'gestion des données';777;0
+e;11022295;'gestion des plaintes';777;2
+e;11078173;'Conseil de gestion';777;0
+e;12071006;'gestion des déchets dans le Loiret';777;0
+e;12071007;'gestion de l'eau et des milieux aquatiques dans le Loiret';777;0
+e;12079236;'gestion des ressources du poste de pilotage';1;0
+e;12079235;'gestion des ressources de la patrouille d'aéronefs de combat';1;0
+e;12079234;'gestion des ressources de la patrouille d'aéronefs';1;0
+e;12079232;'gestion des données de la production';1;0
+e;12079231;'gestion de l'archivage';1;0
+e;12079230;'gestion de la consommation électrique';1;0
+e;12079229;'gestion de la circulation spatiale';1;0
+e;12079228;'gestion de la batterie';1;0
+e;12079227;'gestion d'affaires';1;0
+e;12079226;'gestion consultative';1;0
+e;12079225;'gestion centralisée de la trésorerie';1;0
+e;12079224;'gestion au plus juste';1;0
+e;12079223;'gestion atypique';1;0
+e;16073745;'Organe de gestion';1;0
+e;16074123;'Reddition des comptes de gestion';1;0
+e;15790017;'activité de gestion collective';1;0
+e;16367024;'algorithme de gestion';1;0
+e;5782164;'unité de gestion mémoire';777;0
+e;5831457;'principe de gestion des parcelles agricoles';1;0
+e;5940640;'gestion raisonnable des ressources naturelles';777;0
+e;5979974;'Alliance internationale pour la gestion de l'eau de pluie';777;0
+e;6425330;'gestion de thérapies médicamenteuses';1;0
+e;15688939;'Principes de gestion des forêts';777;0
+e;10838461;'gestion de configuration logicielle';777;0
+e;11022294;'gestion des réclamations';777;0
+e;11831757;'gestion des risques sociétaux';777;0
+e;11831834;'gestion de la sécurité';777;0
+e;11831832;'gestion des risques d'un projet';777;0
+e;11831837;'gestion par affaire';777;0
+e;12033446;'gestion de l'eau dans Orléans Métropole';777;0
+e;12033476;'système de gestion de vol';777;0
+e;12049026;'pratiquer une gestion individualisée';1;0
+e;12049601;'bureau de gestion de patrimoine';777;0
+e;12079242;'gestion spécifique du risque de change';1;0
+e;12079241;'gestion partagée des stocks';1;0
+e;12079240;'gestion optimisée de la consommation électrique';1;0
+e;12079239;'gestion optimisée de la batterie';1;0
+e;12079238;'gestion fondée sur la demande';1;0
+e;12079237;'gestion du cycle de vie du produit';1;0
+e;12079233;'gestion des évènements de la chaîne logistique';1;0
+e;16073559;'Mesure judiciaire d'aide à la gestion du budget familial';1;0
+e;16367023;'algorithmes de gestion';1;0
+e;5713633;'gestion concurrente de versions';777;0
+e;5804442;'gestion des ressources numériques';777;0
+e;5831458;'principe de gestion';1;0
+e;5986517;'Institut bruxellois pour la gestion de l'environnement';777;0
+e;5981263;'gestion intégrée des zones côtières';777;0
+e;10315777;'Commission d'enquête sur l'octroi et la gestion des contrats publics dans l'industrie de la construction';777;0
+e;10334482;'Institut supérieur de gestion';777;0
+e;10929251;'progiciel de gestion d'entreprise';1;0
+e;10929249;'gamme de progiciels de gestion d'entreprise';1;0
+e;11268741;'gestion des ressources humaines en Belgique';777;0
+e;11439921;'gestion de configuration';777;0
+e;11442410;'gestion des données de référence';777;0
+e;12049728;'prendre des décisions concernant la gestion de forêts';1;0
+e;12049763;'prendre des décisions concernant la gestion d'animaux d'élevage';1;0
+e;12050364;'Conseils en gestion de patrimoine';777;0
+e;12051143;'appliquer des concepts de gestion des transports';1;0
+e;12051065;'responsable de la gestion de l'espace aérien';1;0
+e;12051570;'assurer une gestion administrative professionnelle';1;0
+e;12051365;'assurer la gestion de projets';1;0
+e;12051337;'superviser la gestion d'animaux';1;0
+e;12051331;'diriger une équipe dans la gestion de l'eau';1;0
+e;12051329;'gestion d'un parc de véhicules';1;0
+e;12051326;'dispenser une formation au personnel en gestion d'entrepôts';1;0
+e;12051308;'coordonner des procédures de gestion des déchets';1;0
+e;12051297;'principes de gestion d'entreprise';1;0
+e;12081330;'simulation de gestion d'entreprise';1;0
+e;5781168;'gestion de snippets';777;0
+e;6526123;'perception et gestion de la santé';1;0
+e;10929250;'progiciels de gestion d'entreprise';1;0
+e;11147632;'gestion des déchets radioactifs en France';777;0
+e;11147631;'gestion des déchets en France';777;0
+e;11442411;'gestion des données maîtres';777;0
+e;11839441;'Haute École de gestion du canton de Vaud';777;0
+e;11839437;'École des sciences de la gestion de l'université du Québec à Montréal';777;0
+e;12049889;'pratiquer une gestion par regroupement de cas';1;0
+e;12051266;'gérer les aspects de la gestion de l'espace aérien';1;0
+e;12051286;'surveiller la gestion d'une marque';1;0
+e;2403471;'gestion de la production assistée par ordinateur';1;0
+e;2419655;'gestion de portefeuille';1;0
+e;5713639;'gestion des ressources humaines en ligne';777;0
+e;5723326;'logiciel de gestion de cabinet médical';777;0
+e;5946786;'gestion d'entreprise';777;0
+e;6424130;'gestion par ligne de produits';1;0
+e;11237101;'système de gestion de versions';1;0
+e;11518996;'Fondation nationale pour l'enseignement de la gestion des entreprises';777;0
+e;12051261;'gestion des interactions médicamenteuses';1;0
+e;12051373;'gestion des réseaux sociaux';1;0
+e;5624986;'schéma directeur d'aménagement et de gestion des eaux';777;0
+e;5624459;'gestion intégrée des ressources en eau';777;0
+e;10350682;'gestion du temps en Russie';777;0
+e;11237096;'programme de gestion de paquet';1;0
+e;11237097;'programme de gestion de paquets';1;0
+e;11249646;'gestion de l'impression';777;0
+e;12051553;'gérer des systèmes de gestion de la qualité d'articles chaussants';1;0
+e;5713643;'gestion des spécifications';777;0
+e;5804308;'système de gestion de couleurs';1;0
+e;5894122;'Entreprises de gestion de parcs de loisirs';777;0
+e;5898722;'syndicat mixte d'aménagement et de gestion des étangs et rigoles';777;0
+e;6528433;'outil de gestion des couleurs';777;0
+e;6446129;'gestion et interprétation médicale du mécanisme d'appréciation des risques pour la santé';1;0
+e;6425604;'difficultés et mauvaise gestion de l'alimentation';1;0
+e;11572430;'gestion des flux de documents';777;0
+e;11572470;'système de gestion de base de données relationnel-objet';777;0
+e;12052753;'utiliser la gestion thermique';1;0
+e;12053015;'utiliser un logiciel de gestion locative';1;0
+e;12053051;'utiliser un système de gestion de concession';1;0
+e;11002421;'système de gestion de la sécurité de l'information';777;0
+e;11156973;'groupe de gestion d'actifs et de patrimoine';1;0
+e;11175584;'Société de gestion et valorisation de matériel de traction';777;0
+e;11183326;'gestion durable des forêts';777;0
+e;11216947;'schéma régional de gestion sylvicole';777;0
+e;11219838;'gestion d'une société';1;0
+e;11219837;'contrôle de gestion';1;0
+e;12053341;'logiciel de gestion locative';1;0
+e;12053362;'système de gestion de concession';1;0
+e;2445401;'gestion des idées';1;0
+e;5624165;'brevet de technicien supérieur agricole en gestion et maîtrise de l'eau';777;0
+e;10093989;'gestion de la sécurité aérienne';777;0
+e;10447543;'Pôle européen de gestion et d'économie';777;0
+e;10459717;'Direction nationale du contrôle de gestion';777;0
+e;11009142;'gestion par volumes logiques';777;0
+e;11156974;'groupe de gestion d'actifs';1;0
+e;11161753;'Centre national de gestion';777;0
+e;11222151;'gestion automatique de la mémoire';1;0
+e;11219843;'solution de gestion d'e-mails';1;0
+e;11555049;'liste de systèmes de gestion de contenu';777;0
+e;12274378;'système de gestion de l'information du laboratoire';777;0
+e;5987873;'plan de gestion';777;0
+e;10094984;'Faculté des sciences économiques et de gestion';777;0
+e;10177639;'système d'information de gestion de l'éducation';777;0
+e;10177583;'gestion de classe';777;0
+e;10444900;'DUT gestion administrative et commerciale des organisations';777;0
+e;11154393;'gestion du cycle de vie des produits';777;0
+e;11161740;'centres de gestion agréés';777;0
+e;11161739;'centre national de gestion';777;0
+e;11161754;'Centre national de gestion des praticiens hospitaliers et des personnels de direction de la fonction publique hospitalière';777;0
+e;11161738;'centre de gestion de la fonction publique territoriale';777;0
+e;11161758;'centres de gestion de la fonction publique territoriale';777;0
+e;11161737;'centre de gestion agréé';777;0
+e;11207586;'Société anonyme de gestion des eaux de Paris';777;0
+e;13233453;'technique de gestion du temps';1;0
+e;13302127;'gestion de l'ancrage';1;0
+e;2366760;'auto-gestion';1;0
+e;2376670;'gestion technique centralisée';1;0
+e;12051402;'assurer une bonne gestion des rendez-vous';1;0
+e;15774298;'La gestion de configuration';777;0
+e;5980641;'loi n° 91-1381 du 30 décembre 1991 relative aux recherches sur la gestion des déchets radioactifs';777;0
+e;5980414;'gestion environnementale';777;0
+e;5524491;'gestion des services de publication';777;0
+e;5516046;'logiciel de gestion de bases de données';1;0
+e;5516053;'logiciel de gestion de calendrier';1;0
+e;5524493;'gestion des services d'impression';777;0
+e;5988231;'techniques alternatives pour la gestion des eaux de ruissellement urbain';777;0
+e;5988030;'gestion conservatoire';777;0
+e;6528219;'Les plates-formes de gestion';777;0
+e;8930409;'plan de gestion des risques d'inondation';1;0
+e;8930421;'stratégie locale de gestion du risque d'inondation';1;0
+e;9019235;'sciences de gestion';777;0
+e;9695643;'tableau de bord de gestion';777;0
+e;9695644;'de gestion';777;0
+e;9757509;'Institut supérieur d'économie et de gestion';777;0
+e;9770333;'gestion de marchéage';777;0
+e;10324052;'HEC-École de gestion de l'université de Liège';777;0
+e;11128634;'certification gestion durable';777;0
+e;11128882;'Département de l'Assemblée générale et de la gestion des conférences';777;0
+e;12626197;'Maîtrise des outils de gestion de l'environnement pour le développement';777;0
+e;13094086;'HEC Liège- École de gestion de l'université de Liège';777;0
+e;13761688;'0a1 perception et gestion de la santé';1;0
+e;14657313;'Kumitatjiet Amministrattivi - Comités de gestion de l'île de Gozo';777;0
+e;14657311;'Kumitatjiet Amministrattivi - Comités de gestion de l'île de Malte';777;0
+e;14590169;'Centres de gestion agréés';777;0
+e;15389995;'Conseil de discipline de la gestion financière';1;0
+e;15387824;'Conseil pour la bonne gestion des mers';1;0
+e;16072471;'Compte de gestion';1;0
+e;16072737;'Dispense des comptes de gestion';1;0
+e;1578296;'gestion halieutique';777;0
+e;3883384;'système de gestion de base de données objet';1;0
+e;2523900;'gestion de maintenance assistée par ordinateur';1;0
+e;436125;'gestion des ressources';1;52
+e;567095;'Un informaticien de gestion';777;50
+e;583645;'La gestion technique de la bibliothèque';777;0
+e;2491524;'gestion technique de bâtiment';1;0
+e;3320046;'Comité de gestion du programme spécial de lutte contre la faim dans le monde';1;0
+e;4335551;'gestion de conflits';1;2
+e;582180;'discipline scolaire de gestion des ventes des produits de grande consommation';777;0
+e;593082;'gestion des risques';1;6
+e;1012260;'Association pour la gestion des informations sur le risque automobile';777;0
+e;4306151;'nouvelle gestion publique';1;0
+e;4332264;'gestion des conflits';1;6
+e;5061307;'société de gestion';1;0
+e;461114;'système de gestion d'exceptions';777;50
+e;465615;'gestion de l';777;50
+e;1841619;'plan de gestion des risques';1;0
+e;3176988;'Association pour la gestion des informations sur le risque en assurance';777;0
+e;3824043;'système de gestion de base de données relationnelles';1;0
+e;1657708;'didactique de l'économie et de la gestion';1;0
+e;3320466;'Groupe international de gestion';1;0
+e;3419536;'logiciel de gestion de';777;0
+e;4307554;'gestion numérique des restrictions';777;0
+e;3319533;'Système d'informatique de gestion du PAM';1;0
+e;4874103;'gestion de la forêt';1;0
+e;1579027;'gestion de contenu d'entreprise';777;0
+e;1649720;'gestion de la connaissance';1;0
+e;2570705;'logiciel de gestion de versions';1;0
+e;2532660;'gestion de la relation vendeur';1;0
+e;4469492;'gestion du temps';1;0
+e;2971767;'gestion des données de santé';1;0
+e;1797687;'gestion du trafic';1;0
+e;1820241;'gestion autonomique';777;0
+e;356169;'gestion viticole';1;50
+e;356164;'gestion patrimoniale';1;50
+e;332181;'gestion actif-passif';1;50
+e;362077;'logiciel de gestion de courrier';1;50
+e;362060;'logiciel de gestion industrielle';1;50
+e;356155;'gestion familiale';1;50
+e;356153;'gestion de l'espace rural';1;50
+e;356150;'gestion de capitaux';1;50
+e;356162;'gestion municipale';1;50
+e;356158;'gestion hôtelière';1;50
+e;336911;'assistant de gestion';1;50
+e;379459;'service de gestion des portefeuilles';1;50
+e;362078;'logiciel de gestion de réseau';1;50
+e;362059;'logiciel de gestion';1;50
+e;356168;'gestion socialiste';1;50
+e;356166;'gestion publique';1;50
+e;356144;'gestion automatisée';1;50
+e;333652;'acte de gestion';1;50
+e;392098;'gestion de fichiers';1;50
+e;382456;'système de gestion de documents';1;50
+e;380174;'solde intermédiaire de gestion';1;50
+e;356159;'gestion industrielle';1;50
+e;356157;'gestion hospitalière';1;50
+e;356146;'gestion communale';1;50
+e;352250;'erreur de gestion';1;50
+e;392100;'système de gestion de fichiers';1;50
+e;385780;'unité de gestion';1;50
+e;382352;'système de gestion de réseau';1;50
+e;382351;'système de gestion';1;50
+e;373601;'progiciel de gestion';1;50
+e;356149;'gestion de base de données';1;50
+e;356148;'gestion cynégétique';1;50
+e;335259;'analyste de gestion';1;50
+e;356173;'gestion prévisionnelle à moyen terme';1;50
+e;356165;'gestion piscicole';1;50
+e;356147;'gestion comptable';1;50
+e;356145;'gestion clientélaire';1;50
+e;344083;'comité de gestion';1;50
+e;342323;'centre de gestion';1;50
+e;364552;'mode de gestion';1;50
+e;362076;'logiciel de gestion comptable';1;50
+e;356161;'gestion monétaire';1;50
+e;356156;'gestion gouvernementale';1;50
+e;356151;'gestion de documentation';1;50
+e;355266;'frais de gestion';1;50
+e;344233;'compte de gestion';1;50
+e;356170;'gestion économique';1;50
+e;356167;'gestion sanitaire';1;50
+e;356163;'gestion notariale';1;50
+e;356160;'gestion ministérielle';1;50
+e;356152;'gestion de dépenses';1;50
+e;354638;'fonctionnaire de gestion';1;50
+e;379781;'simulation de gestion';1;50
+e;359086;'informaticien de gestion';1;50
+e;356154;'gestion de stock';1;50
+e;340041;'boutique de gestion';1;50
+e;319139;'gestion de l'eau';1;50
+e;326184;'gestion des affaires publiques';1;50
+e;223024;'gestion des déchets';1;54
+e;230505;'gestion de projet';1;52
+e;231205;'gestion de la qualité';1;52
+e;234845;'informatique de gestion';1;50
+e;234977;'gestion de programme';1;54
+e;234992;'système de gestion de contenu';1;64
+e;236461;'gestion des connaissances';1;50
+e;236966;'gestion de crise';1;50
+e;245017;'gestion durable';1;50
+e;245858;'gestion du stress';1;50
+e;247859;'gestion de la relation client';1;50
+e;255348;'mauvaise gestion';1;6
+e;255734;'gestion de l'imprévu';1;50
+e;260433;'gestion administrative';1;50
+e;263103;'gestion des émotions';1;50
+e;263347;'gestion des eaux';1;50
+e;176559;'système de gestion de base de données';1;2
+e;181653;'commission de gestion';1;50
+e;182614;'gestion de déchets radioactifs';1;50
+e;182615;'gestion de risques';1;4
+e;182616;'gestion de taux';1;50
+e;182617;'gestion de trésorerie';1;50
+e;182618;'gestion des ressources humaines';1;2
+e;182619;'gestion du risque d'entreprise';1;2
+e;182620;'gestion du savoir';1;50
+e;182621;'gestion optimale des commandes';1;50
+e;183888;'progiciel de gestion intégré';1;50
+e;264167;'gestion de fortune';1;50
+e;270694;'gestion de patrimoine';1;52
+e;273295;'gestion de contenu';777;50
+e;275531;'jeu de gestion';777;50
+e;282632;'gestion du personnel';777;50
+e;282889;'gestion de la paie';777;50
+e;283450;'système de gestion de contenu dynamique';777;50
+e;287154;'gestion numérique des droits';777;50
+e;287156;'gestion des droits numériques';777;50
+e;288281;'gestion restauratoire';777;50
+e;291302;'gestion paritaire';777;50
+e;293158;'gestion des relations avec les clients';777;50
+e;294833;'gestion du risque';1;6
+e;306259;'gestion de la chaîne logistique';777;50
+e;306931;'gestion d'actifs';777;50
+e;308052;'système de gestion de';777;50
+e;308204;'gestion alternative';777;50
+e;309405;'conseiller en gestion de patrimoine';777;50
+e;190307;'contrôleur de gestion';1;50
+e;190351;'gestion financière';1;52
+e;190708;'gestion immobilière';1;50
+e;311482;'crèche à gestion parentale';777;50
+e;311859;'gestion intégrée';777;50
+e;312237;'gestion de la production';1;50
+e;201087;'fonds commun de gestion de trésorerie';1;50
+r;403526479;34659;15695030;11;25
+r;403402449;34659;15688933;11;25
+r;298193327;34659;6286820;11;25
+r;298388090;34659;6289139;11;25
+r;299370221;34659;6304347;11;25
+r;298859315;34659;6294616;11;25
+r;299339442;34659;6303280;11;25
+r;299576518;34659;6309605;11;25
+r;300115243;34659;6321455;11;25
+r;300192190;34659;6325403;11;25
+r;300209066;34659;6327585;11;25
+r;300211781;34659;6327374;11;25
+r;301203024;34659;6334507;11;25
+r;301485555;34659;6341428;11;25
+r;301738988;34659;6350890;11;25
+r;301748281;34659;6352861;11;25
+r;302046637;34659;6358725;11;25
+r;303325512;34659;6374541;11;25
+r;303985924;34659;6383462;11;25
+r;304599710;34659;6390462;11;25
+r;304601626;34659;6390238;11;25
+r;304868146;34659;6393242;11;25
+r;305018288;34659;6396306;11;25
+r;305057222;34659;6398081;11;25
+r;305205357;34659;6401069;11;25
+r;305261261;34659;6402443;11;25
+r;305308546;34659;6406030;11;25
+r;305706661;34659;6420449;11;25
+r;319069514;34659;6414117;11;25
+r;319071507;34659;6284815;11;25
+r;319083921;34659;6409271;11;25
+r;319102796;34659;6339584;11;25
+r;341098006;34659;6343699;11;25
+r;341156253;34659;6367937;11;25
+r;341015032;34659;6326922;11;25
+r;341255193;34659;6416810;11;25
+r;341259593;34659;6415802;11;25
+r;349111517;34659;6321766;11;25
+r;349150653;34659;6362075;11;25
+r;349253712;34659;6338596;11;25
+r;349267873;34659;6324964;11;25
+r;353470634;34659;14012102;11;25
+r;356877990;34659;14096882;11;25
+r;358643006;34659;14139337;11;25
+r;366469261;34659;14432865;11;25
+r;366860976;34659;14452498;11;25
+r;366864024;34659;14452566;11;25
+r;366875269;34659;14452576;11;25
+r;366879103;34659;14452975;11;25
+r;366901959;34659;14453402;11;25
+r;366903892;34659;14453384;11;25
+r;366931631;34659;14454236;11;25
+r;366932388;34659;14454262;11;25
+r;366937845;34659;14454211;11;25
+r;366942345;34659;14454517;11;25
+r;366962202;34659;14454759;11;25
+r;366963714;34659;14454760;11;25
+r;368026026;34659;14483294;11;25
+r;369485640;34659;14538734;11;25
+r;369488808;34659;14538737;11;25
+r;370351180;34659;14571581;11;25
+r;370377851;34659;14572327;11;25
+r;371667084;34659;14630778;11;25
+r;371695775;34659;14631878;11;25
+r;371700709;34659;14632901;11;25
+r;371852271;34659;14637742;11;25
+r;373031404;34659;14670242;11;25
+r;391869634;34659;15009457;11;25
+r;393966473;34659;15039623;11;25
+r;393966650;34659;15039625;11;25
+r;423690678;34659;16154411;11;25
+r;432231839;34659;16366988;11;25
+r;374423770;34659;14727965;11;26
+r;393966527;34659;15039624;11;26
+r;399120938;34659;15569512;11;26
+r;112130330;34659;5672406;11;27
+r;316358180;34659;12200509;11;27
+r;331462167;34659;12917456;11;27
+r;112664396;34659;5729102;11;28
+r;112671534;34659;5723315;11;28
+r;112671553;34659;5723312;11;28
+r;342707693;34659;13527378;11;28
+r;434997502;34659;16519742;11;28
+r;112173434;34659;5713637;11;29
+r;112173449;34659;5713634;11;29
+r;113299045;34659;5804436;11;29
+r;121519547;34659;6440938;11;29
+r;434384186;34659;16365014;11;29
+r;110583023;34659;5573952;11;30
+r;112090706;34659;5711964;11;30
+r;264443951;34659;10598513;11;30
+r;280289649;34659;11031021;11;30
+r;419784493;34659;15593074;11;30
+r;419788349;34659;15647841;11;30
+r;419811292;34659;15529051;11;30
+r;419838168;34659;15331295;11;30
+r;433077165;34659;16391618;11;30
+r;434378802;34659;16316994;11;30
+r;434380853;34659;16493037;11;30
+r;119193768;34659;6069845;11;31
+r;119196600;34659;6068869;11;31
+r;269418972;34659;10733562;11;31
+r;277037692;34659;10970457;11;31
+r;277583054;34659;10990298;11;31
+r;279612215;34659;11030785;11;31
+r;279628161;34659;11031114;11;31
+r;366945993;34659;14454376;11;31
+r;419726228;34659;15266736;11;31
+r;419732507;34659;15446110;11;31
+r;419732640;34659;15193805;11;31
+r;419732674;34659;15561572;11;31
+r;419736387;34659;15374578;11;31
+r;419738416;34659;15453483;11;31
+r;426057539;34659;16241881;11;31
+r;110204694;34659;5564946;11;32
+r;110205284;34659;5564742;11;32
+r;111334143;34659;5673905;11;32
+r;112670618;34659;5723740;11;32
+r;114015029;34659;5837723;11;32
+r;114023228;34659;5835839;11;32
+r;121501444;34659;6442956;11;32
+r;227642670;34659;10025857;11;32
+r;276643756;34659;10958933;11;32
+r;263667523;34659;10584738;11;32
+r;277713907;34659;10992404;11;32
+r;277723227;34659;10992527;11;32
+r;279437945;34659;11028672;11;32
+r;279555387;34659;11028671;11;32
+r;279629872;34659;11031182;11;32
+r;291212054;34659;11353961;11;32
+r;291213890;34659;11353451;11;32
+r;291214142;34659;11353411;11;32
+r;291214208;34659;11353394;11;32
+r;291992351;34659;11359551;11;32
+r;302402050;34659;11776899;11;32
+r;419621765;34659;15402848;11;32
+r;419623249;34659;15487993;11;32
+r;419648089;34659;15769903;11;32
+r;419675081;34659;15650647;11;32
+r;419675209;34659;15329669;11;32
+r;419692868;34659;15400024;11;32
+r;419701590;34659;15580702;11;32
+r;419701729;34659;15580704;11;32
+r;110205108;34659;5564786;11;33
+r;112661929;34659;5776685;11;33
+r;135326927;34659;8043965;11;33
+r;276624593;34659;10962058;11;33
+r;304666470;34659;11811676;11;33
+r;342320622;34659;13517409;11;33
+r;419613061;34659;15453482;11;33
+r;419613385;34659;15770217;11;33
+r;434369361;34659;16365056;11;33
+r;29842821;34659;1826921;11;34
+r;117912914;34659;5980426;11;34
+r;270946276;34659;10836555;11;34
+r;279116065;34659;11013714;11;34
+r;279319775;34659;11022295;11;34
+r;280914119;34659;11078173;11;34
+r;314263211;34659;12071006;11;34
+r;314268571;34659;12071007;11;34
+r;315119056;34659;12079236;11;34
+r;315119068;34659;12079235;11;34
+r;315119082;34659;12079234;11;34
+r;315119103;34659;12079232;11;34
+r;315119113;34659;12079231;11;34
+r;315119120;34659;12079230;11;34
+r;315119127;34659;12079229;11;34
+r;315119134;34659;12079228;11;34
+r;315119139;34659;12079227;11;34
+r;315119144;34659;12079226;11;34
+r;315119149;34659;12079225;11;34
+r;315119156;34659;12079224;11;34
+r;315119161;34659;12079223;11;34
+r;419519769;34659;16073745;11;34
+r;419533729;34659;16074123;11;34
+r;419576175;34659;15790017;11;34
+r;432293201;34659;16367024;11;34
+r;112657545;34659;5782164;11;35
+r;113753883;34659;5831457;11;35
+r;116319238;34659;5940640;11;35
+r;117914682;34659;5979974;11;35
+r;122731930;34659;6425330;11;35
+r;403399333;34659;15688939;11;35
+r;271604126;34659;10838461;11;35
+r;279230100;34659;11022294;11;35
+r;305916396;34659;11831757;11;35
+r;305918207;34659;11831834;11;35
+r;305918231;34659;11831832;11;35
+r;305928559;34659;11831837;11;35
+r;313414110;34659;12033446;11;35
+r;313416114;34659;12033476;11;35
+r;313629558;34659;12049026;11;35
+r;313678332;34659;12049601;11;35
+r;315119008;34659;12079242;11;35
+r;315119017;34659;12079241;11;35
+r;315119024;34659;12079240;11;35
+r;315119033;34659;12079239;11;35
+r;315119040;34659;12079238;11;35
+r;315119047;34659;12079237;11;35
+r;315119094;34659;12079233;11;35
+r;419507154;34659;16073559;11;35
+r;432292923;34659;16367023;11;35
+r;112173454;34659;5713633;11;36
+r;113298996;34659;5804442;11;36
+r;113753878;34659;5831458;11;36
+r;117886343;34659;5986517;11;36
+r;117909091;34659;5981263;11;36
+r;252666096;34659;10315777;11;36
+r;253389704;34659;10334482;11;36
+r;274812625;34659;10929251;11;36
+r;274897171;34659;10929249;11;36
+r;288664588;34659;11268741;11;36
+r;294162087;34659;11439921;11;36
+r;294339715;34659;11442410;11;36
+r;313665564;34659;12049728;11;36
+r;313688256;34659;12049763;11;36
+r;313696750;34659;12050364;11;36
+r;313722489;34659;12051143;11;36
+r;313728020;34659;12051065;11;36
+r;313763213;34659;12051570;11;36
+r;313764138;34659;12051365;11;36
+r;313764324;34659;12051337;11;36
+r;313764350;34659;12051331;11;36
+r;313764360;34659;12051329;11;36
+r;313764389;34659;12051326;11;36
+r;313764511;34659;12051308;11;36
+r;313764574;34659;12051297;11;36
+r;315108138;34659;12081330;11;36
+r;112659675;34659;5781168;11;37
+r;121450398;34659;6526123;11;37
+r;274814031;34659;10929250;11;37
+r;283548138;34659;11147632;11;37
+r;283548150;34659;11147631;11;37
+r;294244515;34659;11442411;11;37
+r;306385730;34659;11839441;11;37
+r;306386081;34659;11839437;11;37
+r;313683454;34659;12049889;11;37
+r;313725784;34659;12051266;11;37
+r;313730414;34659;12051286;11;37
+r;53560599;34659;2403471;11;38
+r;54448453;34659;2419655;11;38
+r;112173412;34659;5713639;11;38
+r;112671485;34659;5723326;11;38
+r;116302041;34659;5946786;11;38
+r;122741260;34659;6424130;11;38
+r;287945956;34659;11237101;11;38
+r;295986349;34659;11518996;11;38
+r;313726105;34659;12051261;11;38
+r;313729109;34659;12051373;11;38
+r;110806736;34659;5624986;11;39
+r;110807971;34659;5624459;11;39
+r;254171991;34659;10350682;11;39
+r;287945660;34659;11237096;11;39
+r;287950522;34659;11237097;11;39
+r;288382433;34659;11249646;11;39
+r;313728673;34659;12051553;11;39
+r;112173399;34659;5713643;11;40
+r;113299827;34659;5804308;11;40
+r;114749196;34659;5894122;11;40
+r;115103659;34659;5898722;11;40
+r;121439350;34659;6528433;11;40
+r;121473052;34659;6446129;11;40
+r;122729736;34659;6425604;11;40
+r;297303489;34659;11572430;11;40
+r;297609481;34659;11572470;11;40
+r;313736729;34659;12052753;11;40
+r;313739639;34659;12053015;11;40
+r;313743416;34659;12053051;11;40
+r;278283593;34659;11002421;11;41
+r;283809351;34659;11156973;11;41
+r;286808166;34659;11175584;11;41
+r;287130456;34659;11183326;11;41
+r;287459111;34659;11216947;11;41
+r;287736768;34659;11219838;11;41
+r;287736776;34659;11219837;11;41
+r;313746590;34659;12053341;11;41
+r;313747434;34659;12053362;11;41
+r;55354482;34659;2445401;11;42
+r;110808908;34659;5624165;11;42
+r;233278990;34659;10093989;11;42
+r;258721854;34659;10447543;11;42
+r;261016209;34659;10459717;11;42
+r;278734800;34659;11009142;11;42
+r;283808713;34659;11156974;11;42
+r;285981133;34659;11161753;11;42
+r;287735107;34659;11222151;11;42
+r;287736760;34659;11219843;11;42
+r;296802119;34659;11555049;11;42
+r;318838896;34659;12274378;11;42
+r;117879422;34659;5987873;11;43
+r;233276269;34659;10094984;11;43
+r;238922911;34659;10177639;11;43
+r;238923113;34659;10177583;11;43
+r;258726657;34659;10444900;11;43
+r;283605933;34659;11154393;11;43
+r;285693089;34659;11161740;11;43
+r;285693122;34659;11161739;11;43
+r;285693232;34659;11161754;11;43
+r;285693650;34659;11161738;11;43
+r;285693728;34659;11161758;11;43
+r;285696722;34659;11161737;11;43
+r;287218575;34659;11207586;11;43
+r;337071007;34659;13233453;11;43
+r;338389978;34659;13302127;11;44
+r;50467013;34659;2366760;11;45
+r;52223615;34659;2376670;11;45
+r;313763956;34659;12051402;11;45
+r;417032069;34659;15774298;11;45
+r;117911948;34659;5980641;11;46
+r;117912953;34659;5980414;11;46
+r;109372371;34659;5524491;11;47
+r;108341856;34659;5516046;11;49
+r;108348928;34659;5516053;11;49
+r;109373618;34659;5524493;11;49
+r;117877734;34659;5988231;11;49
+r;117878682;34659;5988030;11;49
+r;121440117;34659;6528219;11;50
+r;193126497;34659;8930409;11;50
+r;193128872;34659;8930421;11;50
+r;195390274;34659;9019235;11;50
+r;217356766;34659;9695643;11;50
+r;217358720;34659;9695644;11;50
+r;218181036;34659;9757509;11;50
+r;218315763;34659;9770333;11;50
+r;252661070;34659;10324052;11;50
+r;282646187;34659;11128634;11;50
+r;282670693;34659;11128882;11;50
+r;323186235;34659;12626197;11;50
+r;335080443;34659;13094086;11;50
+r;348971552;34659;13761688;11;50
+r;372882004;34659;14657313;11;50
+r;372915171;34659;14657311;11;50
+r;393990644;34659;14590169;11;50
+r;395016970;34659;15389995;11;50
+r;395017025;34659;15387824;11;50
+r;418900703;34659;16072471;11;50
+r;419100514;34659;16072737;11;50
+r;96333105;34659;4306153;11;51
+r;96333246;34659;4306154;11;51
+r;25390836;34659;1578296;11;52
+r;95173923;34659;3883384;11;52
+r;52465298;34659;2523900;11;53
+r;14372920;34659;436125;11;54
+r;17051116;34659;567095;11;55
+r;18291324;34659;583645;11;55
+r;52480295;34659;2491524;11;55
+r;83668344;34659;3320046;11;55
+r;98924862;34659;4335551;11;55
+r;18229409;34659;582180;11;56
+r;18604243;34659;593082;11;56
+r;21011350;34659;1012260;11;56
+r;96332909;34659;4306151;11;56
+r;98823520;34659;4332264;11;56
+r;105107680;34659;5061307;11;56
+r;16182289;34659;461114;11;57
+r;16424041;34659;465615;11;57
+r;29903264;34659;1841619;11;57
+r;76589800;34659;3176988;11;57
+r;95177386;34659;3824043;11;57
+r;27519519;34659;1657708;11;58
+r;83666386;34659;3320466;11;58
+r;87332912;34659;3419536;11;58
+r;96367234;34659;4307554;11;59
+r;83671055;34659;3319533;11;59
+r;101906907;34659;4874103;11;59
+r;25402369;34659;1579027;11;60
+r;26406439;34659;1649720;11;60
+r;52443080;34659;2570705;11;60
+r;52461094;34659;2532660;11;60
+r;99847329;34659;4469492;11;60
+r;73892980;34659;2971767;11;61
+r;29449318;34659;1797687;11;64
+r;29741271;34659;1820241;11;67
+r;12678445;34659;356169;11;101
+r;12678465;34659;356164;11;101
+r;12126088;34659;332181;11;102
+r;12654253;34659;362077;11;102
+r;12654345;34659;362060;11;102
+r;12678489;34659;356155;11;102
+r;12678497;34659;356153;11;102
+r;12678511;34659;356150;11;102
+r;12678469;34659;356162;11;103
+r;12678483;34659;356158;11;103
+r;12757981;34659;336911;11;103
+r;12583719;34659;379459;11;104
+r;12654245;34659;362078;11;104
+r;12654353;34659;362059;11;104
+r;12678449;34659;356168;11;104
+r;12678457;34659;356166;11;104
+r;12678535;34659;356144;11;104
+r;12771041;34659;333652;11;104
+r;13141328;34659;392098;11;104
+r;12571717;34659;382456;11;105
+r;12580755;34659;380174;11;105
+r;12678479;34659;356159;11;105
+r;12678485;34659;356157;11;105
+r;12678529;34659;356146;11;105
+r;12694283;34659;352250;11;105
+r;13141322;34659;392100;11;105
+r;12558219;34659;385780;11;106
+r;12572191;34659;382352;11;106
+r;12572201;34659;382351;11;106
+r;12607597;34659;373601;11;106
+r;12678515;34659;356149;11;106
+r;12678521;34659;356148;11;106
+r;12764683;34659;335259;11;106
+r;12678425;34659;356173;11;107
+r;12678461;34659;356165;11;107
+r;12678525;34659;356147;11;107
+r;12678533;34659;356145;11;107
+r;12728223;34659;344083;11;107
+r;12735645;34659;342323;11;107
+r;12644077;34659;364552;11;108
+r;12654261;34659;362076;11;108
+r;12678473;34659;356161;11;108
+r;12678487;34659;356156;11;108
+r;12678507;34659;356151;11;108
+r;12682085;34659;355266;11;108
+r;12727603;34659;344233;11;108
+r;12678441;34659;356170;11;109
+r;12678453;34659;356167;11;109
+r;12678467;34659;356163;11;109
+r;12678477;34659;356160;11;109
+r;12678503;34659;356152;11;109
+r;12684621;34659;354638;11;109
+r;12582347;34659;379781;11;110
+r;12666497;34659;359086;11;110
+r;12678493;34659;356154;11;110
+r;12745197;34659;340041;11;110
+r;9023406;34659;319139;11;148
+r;11280993;34659;326184;11;148
+r;8694120;34659;223024;11;161
+r;8699034;34659;230505;11;161
+r;8699703;34659;231205;11;161
+r;8702479;34659;234845;11;161
+r;8702668;34659;234977;11;161
+r;8702691;34659;234992;11;161
+r;8703915;34659;236461;11;161
+r;8704392;34659;236966;11;161
+r;8709162;34659;245017;11;161
+r;8709634;34659;245858;11;161
+r;8711255;34659;247859;11;161
+r;8719679;34659;255348;11;161
+r;8720193;34659;255734;11;161
+r;8726909;34659;260433;11;161
+r;8730201;34659;263103;11;161
+r;8730530;34659;263347;11;161
+r;8635468;34659;176559;11;163
+r;8638729;34659;181653;11;163
+r;8640431;34659;182614;11;163
+r;8640433;34659;182615;11;163
+r;8640434;34659;182616;11;163
+r;8640436;34659;182617;11;163
+r;8640438;34659;182618;11;163
+r;8640441;34659;182619;11;163
+r;8640444;34659;182620;11;163
+r;8640446;34659;182621;11;163
+r;8642520;34659;183888;11;163
+r;8731677;34659;264167;11;163
+r;8738220;34659;270694;11;163
+r;8741066;34659;273295;11;163
+r;8743405;34659;275531;11;163
+r;8749882;34659;282632;11;163
+r;8750124;34659;282889;11;163
+r;8750645;34659;283450;11;163
+r;8754734;34659;287154;11;163
+r;8754737;34659;287156;11;163
+r;8756207;34659;288281;11;163
+r;8759123;34659;291302;11;163
+r;8760813;34659;293158;11;163
+r;8762163;34659;294833;11;163
+r;8772114;34659;306259;11;163
+r;8772784;34659;306931;11;163
+r;8773776;34659;308052;11;163
+r;8773914;34659;308204;11;163
+r;8775315;34659;309405;11;163
+r;8652605;34659;190307;11;164
+r;8652657;34659;190351;11;164
+r;8653131;34659;190708;11;164
+r;8777494;34659;311482;11;164
+r;8777990;34659;311859;11;164
+r;8778418;34659;312237;11;164
+r;8669769;34659;201087;11;165

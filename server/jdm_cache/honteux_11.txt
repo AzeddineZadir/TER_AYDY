@@ -1,0 +1,46 @@
+
+e;134268;'honteux';1;82
+e;6410910;'section transversale du nerf honteux';1;0
+e;6376108;'noyau de nerf honteux';1;0
+e;6404685;'bloc du nerf honteux interne';1;0
+e;6436619;'injection d'agent anesthésique dans le nerf honteux';1;0
+e;16326849;'c'est honteux';1;0
+e;6438542;'test d'attente de mouvement de terminaison du nerf honteux';1;0
+e;1827330;'analgésie des nerfs honteux internes';1;0
+e;6446824;'test d'attente de mouvement de terminaison du nerf honteux anormal';1;0
+e;15362996;'air honteux';1;0
+e;1828934;'bloc des nerfs honteux internes';1;0
+e;6423361;'avulsion du nerf honteux';1;0
+e;1835864;'honteux, euse';1;0
+e;6447825;'test d'attente de mouvement de terminaison du nerf honteux normal';1;0
+e;15362999;'C'est vraiment honteux.';1;0
+e;1781834;'nerf honteux interne';777;0
+e;1821817;'névralgie du nerf honteux interne';1;0
+e;1822811;'potentiels évoqués somesthésiques du nerf honteux';1;0
+e;1485461;'nerf honteux externe';777;0
+e;1851387;'nerf honteux';1;0
+e;1802094;'canal honteux';1;0
+e;371164;'plexus honteux';1;50
+e;212650;'C'est honteux !';1;50
+r;341239017;134268;6410910;11;25
+r;349208810;134268;6376108;11;25
+r;355281678;134268;6404685;11;25
+r;121558291;134268;6436619;11;29
+r;434376584;134268;16326849;11;31
+r;121541144;134268;6438542;11;33
+r;29867144;134268;1827330;11;34
+r;121466850;134268;6446824;11;34
+r;419584030;134268;15362996;11;34
+r;29932338;134268;1828934;11;35
+r;122747352;134268;6423361;11;35
+r;30002579;134268;1835864;11;36
+r;121457760;134268;6447825;11;36
+r;395011787;134268;15362999;11;50
+r;29237838;134268;1781834;11;52
+r;29758285;134268;1821817;11;52
+r;29769115;134268;1822811;11;53
+r;24587460;134268;1485461;11;57
+r;29854377;134268;1851387;11;63
+r;29495902;134268;1802094;11;70
+r;12617725;134268;371164;11;101
+r;8688139;134268;212650;11;161

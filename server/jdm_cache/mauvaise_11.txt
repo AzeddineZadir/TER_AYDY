@@ -1,0 +1,580 @@
+
+e;96449;'mauvaise';1;604
+e;669;'acte de mauvaise foi';1;50
+e;3139;'mauvaise humeur';1;448
+e;22350;'mauvaise graine';1;56
+e;24975;'être de mauvaise humeur';1;194
+e;26188;'mauvaise tête';1;50
+e;38318;'mauvaise foi';1;100
+e;38806;'faire contre mauvaise fortune bon coeur';1;66
+e;43160;'mauvaise fortune';1;62
+e;46134;'de mauvaise grâce';1;50
+e;69807;'femme de mauvaise vie';1;66
+e;97489;'avoir une mauvaise odeur';1;52
+e;103274;'fille de mauvaise vie';1;50
+e;104387;'mauvaise odeur';1;156
+e;105042;'mauvaise langue';1;78
+e;121625;'mauvaise passe';1;54
+e;126644;'mauvaise volonté';1;54
+e;127269;'de mauvaise humeur';1;50
+e;133778;'faire une mauvaise rencontre';1;52
+e;154716;'mauvaise qualité';1;80
+e;155654;'mauvaise mémoire';1;54
+e;156029;'mauvaise idée';1;56
+e;157275;'mauvaise herbe';1;118
+e;157325;'avoir mauvaise mine';1;78
+e;160069;'mauvaise météo';1;76
+e;161040;'mauvaise mine';1;76
+e;163355;'mauvaise santé';1;126
+e;163964;'mauvaise conduite';1;72
+e;165029;'en mauvaise santé';1;52
+e;186142;'être sur une mauvaise pente';1;52
+e;186173;'faire contre mauvaise fortune bon cur';1;50
+e;191593;'mauvaise conscience';1;54
+e;196650;'avoir mauvaise conscience';1;50
+e;196651;'avoir mauvaise presse';1;66
+e;196743;'avoir une mauvaise vue';1;56
+e;198383;'de mauvaise compagnie';1;50
+e;198384;'de mauvaise foi';1;50
+e;199940;'être dans une mauvaise passe';1;50
+e;200006;'être en mauvaise posture';1;56
+e;200069;'être né sous une mauvaise étoile';1;50
+e;200120;'être sur la mauvaise pente';1;50
+e;202498;'la colère est mauvaise conseillère';1;50
+e;202529;'la mauvaise saison';1;50
+e;203491;'mauvaise étoile';1;50
+e;203492;'mauvaise nouvelle';1;168
+e;203493;'mauvaise plaisanterie';1;50
+e;203494;'mauvaise raison';1;50
+e;203495;'mauvaise surprise';1;64
+e;203734;'mettre de la mauvaise grâce';1;50
+e;204324;'né sous une mauvaise étoile';1;50
+e;206178;'prendre mauvaise tournure';1;50
+e;206224;'prendre une mauvaise tournure';1;50
+e;218881;'mauvaise note';1;174
+e;226750;'avoir mauvaise haleine';1;82
+e;230835;'mauvaise haleine';1;168
+e;237056;'mauvaise réputation';1;58
+e;239273;'faire mauvaise impression';1;52
+e;242621;'mauvaise blague';1;4
+e;242776;'en route, mauvaise troupe';1;50
+e;244042;'mauvaise nuit';1;162
+e;244955;'mauvaise compagnie';1;50
+e;244957;'être de mauvaise compagnie';1;50
+e;245775;'mauvaise cuisine';1;16
+e;246634;'mauvaise visibilité';1;50
+e;250290;'mauvaise hygiène';1;22
+e;251169;'mauvaise vue';1;28
+e;252007;'mauvaise ambiance';1;8
+e;253799;'traverser une mauvaise passe';1;50
+e;254319;'être de mauvaise foi';1;8
+e;254325;'de mauvaise qualité';1;12
+e;254327;'faire preuve de mauvaise foi';1;50
+e;254495;'mauvaise utilisation';1;68
+e;254819;'mauvaise conservation';1;56
+e;255026;'être mauvaise langue';1;50
+e;255348;'mauvaise gestion';1;6
+e;255630;'mauvaise posture';1;50
+e;255643;'mauvaise organisation';1;50
+e;255771;'avoir une mauvaise note';1;60
+e;257762;'avoir une mauvaise hygiène';1;54
+e;259401;'mauvaise récolte';1;50
+e;261832;'avoir une mauvaise image';1;50
+e;261833;'avoir mauvaise réputation';1;54
+e;261835;'mauvaise image';1;52
+e;262033;'mauvaise action';1;24
+e;262410;'l'avoir mauvaise';1;50
+e;263017;'mauvaise mère';1;50
+e;263088;'mauvaise réponse';1;16
+e;265959;'annoncer une mauvaise nouvelle';1;50
+e;267775;'mauvaise direction';1;50
+e;269829;'mauvaise honte';1;50
+e;270367;'mauvaise circulation';1;50
+e;270749;'chose mauvaise';1;50
+e;271077;'mauvaise fréquentation';1;52
+e;315408;'mauvaise pêche';1;50
+e;320089;'mauvaise balle';1;50
+e;321836;'mauvaise nourriture';1;50
+e;326187;'mauvaise appréciation de la situation';1;50
+e;326188;'mauvaise appréciation';1;50
+e;332573;'mauvaise saison';1;70
+e;346223;'dans la mauvaise file';1;50
+e;346595;'dans une mauvaise passe';1;50
+e;346812;'de mauvaise composition';1;50
+e;350910;'en mauvaise condition';1;50
+e;350911;'en mauvaise posture';1;50
+e;363717;'mauvaise affaire';1;50
+e;363719;'mauvaise fée';1;50
+e;363720;'mauvaise graisse';1;50
+e;363721;'mauvaise grâce';1;50
+e;363722;'mauvaise pensée';1;50
+e;363723;'mauvaise pente';1;50
+e;363724;'mauvaise querelle';1;50
+e;363725;'mauvaise rencontre';1;52
+e;363726;'mauvaise renommée';1;50
+e;363727;'mauvaise santé financière';1;50
+e;363728;'mauvaise tenue';1;50
+e;363731;'mauvaise donne';1;50
+e;368062;'paiement de mauvaise foi';1;50
+e;372102;'possesseur de mauvaise foi';1;50
+e;381857;'sur la mauvaise route';1;50
+e;381858;'sur la mauvaise voie';1;50
+e;382037;'sur une mauvaise pente';1;50
+e;382038;'sur une mauvaise voie';1;50
+e;386359;'vendeur de mauvaise foi';1;50
+e;388603;'à la mauvaise saison';1;50
+e;391246;'mauvaise estime de soi';1;2
+e;391247;'mauvaise image de soi';1;2
+e;394311;'mauvaise éducation';1;50
+e;1189375;'mauvaise laine';1;0
+e;1504437;'mauvaise correction oculaire';1;0
+e;1553935;'mauvaise habitude';1;12
+e;1675317;'mauvaise herbe nuisible';1;0
+e;1773280;'de mauvaise réputation';1;0
+e;1773363;'envahi par la mauvaise herbe';1;0
+e;1873820;'mauvaise musique';1;0
+e;2347094;'mauvaise viande';1;0
+e;2358325;'prendre en mauvaise part';1;0
+e;2389125;'mauvaise garde permet au loup de se repaître';1;0
+e;2392349;'mauvaise herbe croît toujours';1;0
+e;2440571;'prendre la mauvaise voie';1;0
+e;2450663;'mauvaise limonade';1;0
+e;2499755;'mauvaise joie';1;0
+e;2500748;'mauvaise tête et bon coeur';1;0
+e;2502280;'avoir une mauvaise presse';1;0
+e;2512851;'avoir mauvaise grâce à';1;0
+e;2535026;'joie mauvaise';1;0
+e;2604687;'on n'a jamais bon marché de mauvaise marchandise';1;0
+e;2605013;'faire contre mauvaise fortune, bon coeur';1;0
+e;3183681;'mauvaise influence';1;6
+e;3225583;'action mauvaise';1;0
+e;3567387;'mauvaise auberge';1;0
+e;3700075;'mauvaise chose';1;2
+e;4302641;'mauvaise hygiène buccale';1;0
+e;4338353;'mauvaise interprétation';1;0
+e;5141608;'mauvaise solution';1;2
+e;5297606;'mauvaise pioche';1;0
+e;5332114;'mauvaise journée';1;18
+e;5710386;'mise en oeuvre d'une mauvaise obfuscation';777;0
+e;5953119;'la mauvaise monnaie chasse la bonne';777;0
+e;5977029;'mauvaise soirée';1;2
+e;6261835;'mauvaise impression';1;0
+e;6285204;'mauvaise adaptation au travail';1;0
+e;6287536;'antepartum mauvaise position ou mauvaise présentation du foetus non précisée';1;0
+e;6293852;'mauvaise perception du sommeil';1;0
+e;6300546;'sommeil de mauvaise qualité';1;0
+e;6301571;'mauvaise qualité de sommeil';1;0
+e;6302216;'déficits en disaccharides intestinaux et mauvaise absorption des disaccharides';1;0
+e;6306684;'mauvaise vision';1;0
+e;6308819;'avec accouchement, autre mauvaise position ou mauvaise présentation précisée du foetus';1;0
+e;6311922;'mauvaise hygiène du sommeil';1;0
+e;6312516;'obstruction provenant d'une mauvaise position du foetus au début du travail';1;0
+e;6313032;'autre mauvaise position ou mauvaise présentation précisée du foetus';1;0
+e;6313450;'difficultés liées à une mauvaise adaptation éducative et à des difficultés avec les enseignants et les autres élèves';1;0
+e;6321692;'avec accouchement, gestation multiple avec mauvaise présentation d'un ou plusieurs foetus';1;0
+e;6328200;'mauvaise puissance de médicament sélectionnée';1;0
+e;6330918;'mauvaise solution utilisée pour la reconstitution médicamenteuse';1;0
+e;6332039;'administration d'un vaccin de mauvaise qualité';1;0
+e;6347199;'avec accouchement, mauvaise position ou mauvaise présentation du foetus non précisée';1;0
+e;6350083;'antepartum autre mauvaise position ou mauvaise présentation précisée du foetus';1;0
+e;6351093;'antepartum gestation multiple avec mauvaise présentation d'un ou plusieurs foetus';1;0
+e;6352371;'ante-partum obstruction causée par une mauvaise position du foetus au début du travail';1;0
+e;6359141;'mauvaise position foetale';1;0
+e;6361994;'gestation multiple avec mauvaise présentation d'un ou plusieurs foetus';1;0
+e;6363359;'mauvaise présentation foetale';1;0
+e;6363809;'autre mauvaise absorption intestinale précisée';1;0
+e;6369924;'mauvaise présentation avant le travail affectant le foetus ou le nouveau-né';1;0
+e;6370520;'présentation par le siège ou autre mauvaise prés manoeuvrée avec succès en présentation céphalique';1;0
+e;6370671;'mauvaise absorption intestinale non précisée';1;0
+e;6370967;'avec accouchement, obstruction causée par une mauvaise position du foetus au début du travail';1;0
+e;6375470;'antepartum obstruction provenant d'une mauvaise position du foetus au début du travail';1;0
+e;6377740;'distribution d'une mauvaise puissance médicamenteuse';1;0
+e;6383219;'mauvaise position et mauvaise présentation du foetus';1;0
+e;6388743;'épisode de soins non précisé mauvaise position ou mauvaise présentation du foetus non précisée';1;0
+e;6391832;'mauvaise position ou mauvaise présentation du foetus non précisée';1;0
+e;6393549;'épisode de soins non précisé autre mauvaise position ou présentation précisée';1;0
+e;6393907;'mauvaise concentration';1;0
+e;6399047;'mauvaise étiquette placée sur le médicament pendant la distribution';1;0
+e;6401867;'mauvaise adaptation éducative et difficultés avec les enseignants et les autres élèves';1;0
+e;6402570;'mauvaise coupe de lambeau cornéen';1;0
+e;6412121;'mauvaise notice patient sélectionnée lors de la distribution au patient';1;0
+e;6415221;'difficultés liées à une mauvaise adaptation au travail';1;0
+e;6418084;'mauvaise administration d'un médicament';1;0
+e;6425604;'difficultés et mauvaise gestion de l'alimentation';1;0
+e;6425755;'obstruction causée par une mauvaise position du foetus au début du travail';1;0
+e;6430098;'avec accouchement, obstruction provenant d'une mauvaise position du foetus au début du travail';1;0
+e;6441191;'distribution par une mauvaise voie d'aministration';1;0
+e;6449960;'mauvaise position de l'utérus';1;0
+e;7846156;'mauvaise position';1;0
+e;7924961;'mauvaise absorption';1;0
+e;9232297;'très mauvaise';1;0
+e;9239485;'mauvaise vascularisation du bulbe pileux';1;0
+e;9239501;'mauvaise vascularisation';1;0
+e;9637047;'mauvaise situation';1;0
+e;9696643;'être de mauvaise qualité';1;0
+e;9929802;'autre mauvaise position ou mauvaise présentation précisée du foetus avec accouchement';1;0
+e;9929871;'gestation multiple avec mauvaise présentation d'un ou plusieurs foetus avec accouchement';1;0
+e;9929907;'mauvaise position ou mauvaise présentation du foetus non précisée avec accouchement';1;0
+e;9929912;'obstruction causée par une mauvaise position du foetus au début du travail avec accouchement';1;0
+e;9929917;'obstruction provenant d'une mauvaise position du foetus au début du travail avec accouchement';1;0
+e;10091460;'Une femme trop honnête ou l'École de la mauvaise foi';777;0
+e;10834343;'mauvaise chute';1;4
+e;10834348;'faire une mauvaise chute';1;0
+e;11030826;'mauvaise pratique d'ingénierie';1;0
+e;11030827;'mauvaise pratique';1;0
+e;11146855;'mauvaise copie';1;0
+e;11347205;'Cette mauvaise réputation';777;0
+e;11387998;'être en mauvaise santé';1;2
+e;11698114;'mauvaise expérience';1;0
+e;12033823;'minéralisation osseuse de mauvaise qualité';1;0
+e;12077423;'bonne à rien, mauvaise à tout';1;0
+e;12732455;'La mauvaise monnaie chasse la bonne';777;0
+e;12977315;'mauvaise vie';1;0
+e;13301092;'mauvaise alimentation';1;0
+e;14474526;'faire mauvaise figure';1;0
+e;14529862;'donner la mauvaise réponse';1;4
+e;14561261;'mauvaise communication';1;0
+e;14566891;'Les Chroniques de mauvaise compagnie';777;0
+e;14584031;'passer une mauvaise nuit';1;0
+e;14596818;'mauvaise condition';1;0
+e;14656593;'mauvaise période';1;58
+e;14721845;'mauvaise critique';1;4
+e;14721847;'mauvaise presse';1;6
+e;14753137;'mauvaise hygiène alimentaire';1;0
+e;15234723;'de très mauvaise humeur';1;0
+e;15234727;'accès de mauvaise humeur';1;0
+e;15243925;'avec mauvaise foi';1;0
+e;15258038;'Ron a une mauvaise vue.';1;0
+e;15274794;'avec mauvaise humeur, les nerfs en pelote';1;0
+e;15283924;'annoncer la mauvaise nouvelle à qn';1;0
+e;15301805;'caillot de mauvaise qualité';1;0
+e;15316064;'Il est en mauvaise santé.';1;0
+e;15319494;'de mauvaise augure';1;2
+e;15344256;'Il est maintenant en plus mauvaise posture qu'avant.';1;0
+e;15358276;'avoir mauvaise mémoire';1;0
+e;15358279;'avoir mauvaise opinion de';1;0
+e;15362562;'de plus mauvaise qualité';1;0
+e;15366482;'avoir mauvaise grâce de faire quelque chose';1;0
+e;15370388;'Tu as mauvaise mine.';1;0
+e;15370390;'Il a mauvaise mine.';1;0
+e;15370392;'avoir très mauvaise mine';1;0
+e;15383462;'avoir une mauvaise conduite';1;0
+e;15384317;'avoir très mauvaise mémoire';1;0
+e;15384319;'avoir très mauvaise conscience';1;0
+e;15396452;'avoir une mauvaise adhérence';1;0
+e;15396454;'avoir une mauvaise tenue de route';1;0
+e;15399361;'avoir mauvaise conscience à faire qch';1;0
+e;15399365;'des accès de mauvaise conscience';1;0
+e;15426535;'de mauvaise vie';1;0
+e;15430736;'donner une mauvaise image de [qch]';1;0
+e;15436507;'mauvaise payeuse';1;0
+e;15468411;'Vous avez arrêté la mauvaise personne.';1;0
+e;15482559;'Ne fais pas la mauvaise tête!';1;0
+e;15544070;'Il exerce une mauvaise influence sur elle.';1;0
+e;15560987;'Le petit de Sylvie a une mauvaise grippe.';1;0
+e;15570403;'colère est mauvaise conseillère';1;0
+e;15571973;'blanchi des accusations de mauvaise conduite,';1;0
+e;15582835;'La mer est mauvaise.';1;0
+e;15626404;'donner une mauvaise image de quelque chose';1;0
+e;16032381;'avoir de la mauvaise volonté';1;0
+e;16032417;'avoir mauvaise humeur';1;0
+e;16042195;'comme de la mauvaise herbe';1;0
+e;16043965;'donner mauvaise presse à';1;0
+e;16044447;'en mauvaise intelligence avec';1;0
+e;16044448;'en mauvaise part';1;0
+e;16325188;'dans la mauvaise direction';1;0
+e;16355012;'Elle était de mauvaise humeur.';1;0
+e;16355014;'Je te préviens, il est de mauvaise humeur.';1;0
+r;8570163;96449;669;11;169
+r;8570989;96449;3139;11;168
+r;8577290;96449;22350;11;165
+r;8578250;96449;24975;11;162
+r;8578646;96449;26188;11;164
+r;8582736;96449;38318;11;163
+r;8582880;96449;38806;11;163
+r;8584377;96449;43160;11;163
+r;8585374;96449;46134;11;162
+r;8593620;96449;69807;11;163
+r;8603255;96449;97489;11;163
+r;8605266;96449;103274;11;161
+r;8605690;96449;104387;11;162
+r;8605940;96449;105042;11;162
+r;8611951;96449;121625;11;162
+r;8613741;96449;126644;11;163
+r;8613964;96449;127269;11;162
+r;8616259;96449;133778;11;164
+r;8624085;96449;154716;11;163
+r;8624599;96449;155654;11;163
+r;8624824;96449;156029;11;163
+r;8625377;96449;157275;11;163
+r;8625386;96449;157325;11;163
+r;8626722;96449;160069;11;162
+r;8627214;96449;161040;11;162
+r;8628369;96449;163355;11;162
+r;8628692;96449;163964;11;162
+r;8629384;96449;165029;11;161
+r;8646133;96449;186142;11;163
+r;8646206;96449;186173;11;164
+r;8654111;96449;191593;11;164
+r;8661999;96449;196650;11;164
+r;8662002;96449;196651;11;164
+r;8662248;96449;196743;11;164
+r;8664979;96449;198383;11;164
+r;8664981;96449;198384;11;164
+r;8667539;96449;199940;11;164
+r;8667639;96449;200006;11;164
+r;8667736;96449;200069;11;164
+r;8667827;96449;200120;11;164
+r;8672051;96449;202498;11;162
+r;8672099;96449;202529;11;162
+r;8673694;96449;203491;11;163
+r;8673696;96449;203492;11;163
+r;8673698;96449;203493;11;163
+r;8673700;96449;203494;11;163
+r;8673702;96449;203495;11;163
+r;8674123;96449;203734;11;163
+r;8675203;96449;204324;11;162
+r;8678041;96449;206178;11;163
+r;8678093;96449;206224;11;163
+r;8691295;96449;218881;11;161
+r;8696371;96449;226750;11;161
+r;8699353;96449;230835;11;161
+r;8704448;96449;237056;11;161
+r;8706039;96449;239273;11;161
+r;8707753;96449;242621;11;161
+r;8707859;96449;242776;11;160
+r;8708442;96449;244042;11;161
+r;8709098;96449;244955;11;161
+r;8709102;96449;244957;11;160
+r;8709599;96449;245775;11;161
+r;8710226;96449;246634;11;161
+r;8713688;96449;250290;11;161
+r;8714718;96449;251169;11;161
+r;8715574;96449;252007;11;161
+r;8717590;96449;253799;11;161
+r;8718281;96449;254319;11;160
+r;8718292;96449;254325;11;160
+r;8718298;96449;254327;11;160
+r;8718530;96449;254495;11;161
+r;8719018;96449;254819;11;161
+r;8719280;96449;255026;11;160
+r;8719678;96449;255348;11;161
+r;8720046;96449;255630;11;161
+r;8720072;96449;255643;11;161
+r;8720241;96449;255771;11;161
+r;8723107;96449;257762;11;161
+r;8725519;96449;259401;11;161
+r;8728576;96449;261832;11;161
+r;8728579;96449;261833;11;161
+r;8728584;96449;261835;11;161
+r;8728835;96449;262033;11;161
+r;8729231;96449;262410;11;160
+r;8730099;96449;263017;11;161
+r;8730184;96449;263088;11;161
+r;8733676;96449;265959;11;163
+r;8735662;96449;267775;11;163
+r;8737577;96449;269829;11;163
+r;8738017;96449;270367;11;163
+r;8738277;96449;270749;11;163
+r;8738593;96449;271077;11;163
+r;8838739;96449;315408;11;155
+r;9050888;96449;320089;11;148
+r;9082464;96449;321836;11;148
+r;11280977;96449;326187;11;148
+r;11280973;96449;326188;11;148
+r;12416233;96449;332573;11;101
+r;12719325;96449;346223;11;103
+r;12717089;96449;346595;11;109
+r;12716193;96449;346812;11;105
+r;12699761;96449;350910;11;105
+r;12699757;96449;350911;11;110
+r;12647543;96449;363717;11;110
+r;12647535;96449;363719;11;105
+r;12647531;96449;363720;11;101
+r;12647527;96449;363721;11;108
+r;12647523;96449;363722;11;101
+r;12647519;96449;363723;11;103
+r;12647515;96449;363724;11;104
+r;12647511;96449;363725;11;105
+r;12647507;96449;363726;11;104
+r;12647499;96449;363727;11;108
+r;12647495;96449;363728;11;110
+r;12647481;96449;363731;11;105
+r;12630007;96449;368062;11;102
+r;12613707;96449;372102;11;101
+r;12573969;96449;381857;11;104
+r;12573965;96449;381858;11;102
+r;12573439;96449;382037;11;108
+r;12573435;96449;382038;11;108
+r;12555953;96449;386359;11;108
+r;12547389;96449;388603;11;110
+r;13042754;96449;391246;11;104
+r;13042746;96449;391247;11;107
+r;13705099;96449;394311;11;55
+r;22246844;96449;1189375;11;60
+r;24803575;96449;1504437;11;56
+r;25139689;96449;1553935;11;57
+r;26099167;96449;1645740;11;56
+r;26099037;96449;1645741;11;53
+r;26420840;96449;1649835;11;53
+r;26420607;96449;1649836;11;57
+r;27768460;96449;1675317;11;60
+r;29138028;96449;1773280;11;52
+r;29138012;96449;1773363;11;53
+r;30323201;96449;1873820;11;58
+r;34543488;96449;2347094;11;54
+r;50061131;96449;2358325;11;51
+r;53073716;96449;2389125;11;37
+r;53148217;96449;2392349;11;40
+r;55249675;96449;2440571;11;39
+r;55469344;96449;2450663;11;40
+r;52476540;96449;2499755;11;52
+r;52476039;96449;2500748;11;54
+r;52475305;96449;2502280;11;53
+r;52470371;96449;2512851;11;59
+r;52460051;96449;2535026;11;56
+r;55473843;96449;2604687;11;60
+r;55478861;96449;2605013;11;60
+r;72312070;96449;2937923;11;57
+r;72311318;96449;2937924;11;60
+r;77000449;96449;3183681;11;57
+r;77693049;96449;3225583;11;60
+r;88843326;96449;3561770;11;51
+r;88843316;96449;3561771;11;52
+r;88979223;96449;3567387;11;53
+r;91977553;96449;3700075;11;60
+r;95935156;96449;4302641;11;55
+r;98979856;96449;4338353;11;59
+r;105902644;96449;5141608;11;54
+r;106685760;96449;5297606;11;56
+r;106891956;96449;5332114;11;54
+r;112178972;96449;5710386;11;36
+r;116588514;96449;5953119;11;35
+r;116901774;96449;5977029;11;38
+r;119721713;96449;6261835;11;29
+r;298001494;96449;6285204;11;27
+r;298236115;96449;6287536;11;34
+r;298676684;96449;6293852;11;25
+r;299130529;96449;6300546;11;26
+r;299220236;96449;6301571;11;26
+r;299332337;96449;6302216;11;26
+r;299519231;96449;6306684;11;26
+r;312959804;96449;6308819;11;30
+r;299593355;96449;6311922;11;26
+r;398412327;96449;6312516;11;25
+r;299604835;96449;6313032;11;32
+r;299613303;96449;6313450;11;27
+r;312959453;96449;6321692;11;27
+r;300214312;96449;6328200;11;27
+r;300960811;96449;6330918;11;27
+r;399504200;96449;6332039;11;25
+r;312964531;96449;6347199;11;30
+r;301729112;96449;6350083;11;30
+r;301736982;96449;6351093;11;27
+r;301745288;96449;6352371;11;36
+r;341134752;96449;6359141;11;26
+r;302135961;96449;6361994;11;26
+r;302148293;96449;6363359;11;27
+r;302164599;96449;6363809;11;27
+r;302978003;96449;6369924;11;27
+r;302978744;96449;6370520;11;25
+r;349291413;96449;6370671;11;25
+r;400483094;96449;6370967;11;25
+r;303608157;96449;6375470;11;25
+r;303634775;96449;6377740;11;26
+r;303982289;96449;6383219;11;30
+r;349206722;96449;6388743;11;26
+r;304606736;96449;6391832;11;28
+r;349208391;96449;6393549;11;25
+r;304896749;96449;6393907;11;27
+r;305133219;96449;6399047;11;27
+r;305208555;96449;6401867;11;25
+r;305265697;96449;6402570;11;27
+r;305481249;96449;6412121;11;27
+r;305635402;96449;6415221;11;26
+r;305690543;96449;6418084;11;25
+r;122729734;96449;6425604;11;31
+r;122728598;96449;6425755;11;32
+r;122695058;96449;6430098;11;33
+r;121517311;96449;6441191;11;30
+r;121047880;96449;6449960;11;39
+r;126452349;96449;7846156;11;38
+r;126987503;96449;7924961;11;38
+r;210452350;96449;9232297;11;50
+r;210505757;96449;9239485;11;50
+r;210506348;96449;9239501;11;50
+r;216862395;96449;9637047;11;50
+r;217371642;96449;9696643;11;50
+r;219830853;96449;9929802;11;50
+r;219830940;96449;9929871;11;40
+r;219840046;96449;9929907;11;50
+r;219832580;96449;9929912;11;40
+r;219834069;96449;9929917;11;40
+r;233027219;96449;10091460;11;42
+r;270846767;96449;10834343;11;37
+r;270846938;96449;10834348;11;37
+r;279605592;96449;11030826;11;32
+r;280290288;96449;11030827;11;32
+r;283283098;96449;11146855;11;40
+r;290681830;96449;11347205;11;35
+r;292419976;96449;11387998;11;41
+r;300866288;96449;11698114;11;35
+r;313607006;96449;12033823;11;35
+r;314841130;96449;12077423;11;36
+r;327320245;96449;12732455;11;50
+r;332114470;96449;12977315;11;27
+r;338931582;96449;13301092;11;43
+r;367695640;96449;14474526;11;25
+r;368585449;96449;14529862;11;26
+r;369968862;96449;14561261;11;26
+r;370283533;96449;14566891;11;25
+r;370558947;96449;14584031;11;26
+r;370902839;96449;14596818;11;25
+r;372739999;96449;14656593;11;25
+r;374296965;96449;14721845;11;26
+r;374296986;96449;14721847;11;26
+r;375034620;96449;14753137;11;26
+r;419770570;96449;15234723;11;30
+r;419571667;96449;15234727;11;34
+r;419626459;96449;15243925;11;32
+r;419536104;96449;15258038;11;34
+r;419626463;96449;15274794;11;32
+r;419596506;96449;15283924;11;34
+r;419676471;96449;15301805;11;32
+r;402105642;96449;15316064;11;50
+r;419768727;96449;15319494;11;30
+r;402105824;96449;15344256;11;50
+r;419635102;96449;15358276;11;32
+r;419635108;96449;15358279;11;32
+r;419769561;96449;15362562;11;30
+r;394778579;96449;15366482;11;33
+r;419555207;96449;15370388;11;34
+r;402103414;96449;15370390;11;50
+r;419636627;96449;15370392;11;32
+r;419638712;96449;15383462;11;32
+r;419636633;96449;15384317;11;32
+r;419636621;96449;15384319;11;32
+r;419638706;96449;15396452;11;32
+r;419638718;96449;15396454;11;32
+r;419635086;96449;15399361;11;32
+r;419773521;96449;15399365;11;30
+r;419768731;96449;15426535;11;30
+r;395412940;96449;15430736;11;31
+r;395449025;96449;15436507;11;25
+r;419561856;96449;15468411;11;34
+r;419511862;96449;15482559;11;35
+r;402106454;96449;15544070;11;50
+r;419492981;96449;15560987;11;35
+r;419718710;96449;15570403;11;31
+r;419655569;96449;15571973;11;32
+r;417032387;96449;15582835;11;45
+r;419792694;96449;15626404;11;30
+r;419629329;96449;16032381;11;32
+r;419635096;96449;16032417;11;32
+r;419720533;96449;16042195;11;31
+r;419791270;96449;16043965;11;30
+r;419840814;96449;16044447;11;30
+r;419840818;96449;16044448;11;30
+r;434382845;96449;16325188;11;29
+r;432057104;96449;16355012;11;35
+r;434345362;96449;16355014;11;34

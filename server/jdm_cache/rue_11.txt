@@ -1,0 +1,2358 @@
+
+e;20564;'rue';1;6853
+e;16151906;'rue François-Ponsard';777;0
+e;15692069;'rue de Lanneau';777;0
+e;15688731;'rue de l'Égout-Saint-Germain';777;0
+e;6339168;'alcooliques de la rue';1;0
+e;6341703;'laissés-pour-compte de la rue';1;0
+e;6374045;'gens vivant dans la rue';1;0
+e;6376140;'jeunes de la rue';1;0
+e;6398650;'drogues de rue';1;0
+e;12209504;'rue de l'Oratoire';777;0
+e;12983193;'rue de Montreuil';777;0
+e;12978443;'rue Broca';777;0
+e;12978432;'rue des Bernardins';777;0
+e;12978415;'rue Jean-de-Beauvais';777;0
+e;12978377;'Histoires du coin de la rue';777;0
+e;13547668;'rue de La Planche';777;0
+e;13588401;'rue du Dragon';1;0
+e;13588402;'rue du Moulin-Vert';1;0
+e;13588400;'rue Jonquoy';1;0
+e;13588680;'rue Portalis';777;0
+e;13629080;'rue Hippolyte-Maindron';777;0
+e;13634349;'rue de la Ruche';777;0
+e;13656022;'rue d'Anjou';777;0
+e;13656026;'rue Saint-Bernard';777;0
+e;13656633;'rue Paul-de-Kock';777;0
+e;13665327;'Observatoire astronomique de la rue Serpente';777;0
+e;13666374;'rue Émile Vandervelde';777;0
+e;13677812;'rue Duhesme';777;0
+e;13736686;'rue Eugène-Reisz';777;0
+e;13763479;'rue Cabanis';777;0
+e;13805752;'rue Émile-Richard';777;0
+e;13811098;'rue Mirabeau';777;0
+e;13814778;'rue de la Taillerie';777;0
+e;13853940;'rue Trop-Va-Qui-Dure';777;0
+e;13854283;'rue des Plâtrières';777;0
+e;13988730;'Théâtre de rue';777;0
+e;14048194;'massacre de la rue d'Isly';777;0
+e;14119741;'rue Béatrix-Dussane';777;0
+e;14132892;'Petite rue';777;0
+e;14152380;'square de la rue Ortolan';777;0
+e;14159402;'gaz de combat de rue';1;0
+e;14163118;'rue du Cercueil';777;0
+e;14250659;'rue de Monttessuy';777;0
+e;14317948;'rue Affre';777;0
+e;14365971;'rue Lacretelle';777;0
+e;14376845;'rue Chauchat';777;0
+e;14400478;'rue Cadet';777;0
+e;14400473;'rue Férou';777;0
+e;14400503;'rue Chalgrin';777;0
+e;14400486;'rue Madame';777;0
+e;14400471;'rue de Berri';777;0
+e;14567204;'Les Garçons de la rue Paul';777;0
+e;14567517;'rue du roi Fayçal';777;0
+e;14630576;'rue de la Santé';1;0
+e;14668474;'rue Jan Blockx';777;0
+e;14861300;'rue Goubet';777;0
+e;15164959;'rue Hancart';777;0
+e;15469557;'rue Jules-Chaplain';777;0
+e;15695404;'rue Quincampoix';777;0
+e;15941070;'rue Verhas';777;0
+e;16070782;'rue Ernest Allard';777;0
+e;16084266;'rue Visconti';777;0
+e;14485690;'Le laboratoire de la rue Galande 1674-1683';777;0
+e;15688709;'Petite rue Taranne';777;0
+e;15779680;'Pont de la rue Louis-Blanc';777;0
+e;15941156;'Théâtre français et italien de la rue Feydeau';777;0
+e;15941159;'Théâtre lyrique de la rue Feydeau';777;0
+e;15387569;'Traversez la rue.';1;0
+e;15295051;'Un bataillon écossais marchait au pas dans la rue.';1;0
+e;15943741;'Une couche de neige fraîche recouvrait la rue.';1;0
+e;15521306;'action de traverser la rue en courant';1;0
+e;15315589;'aliments vendus dans la rue';1;0
+e;15361734;'allant au coin de la rue';1;0
+e;15361732;'aller au coin de la rue';1;0
+e;15523466;'ameuter toute la rue';1;0
+e;15198891;'basket de rue';1;0
+e;15245502;'bataille de rue';1;0
+e;15254231;'carnaval de rue';1;0
+e;15200346;'chanson de rue';1;0
+e;15256750;'conteur de rue';1;0
+e;15414568;'côté rue';1;0
+e;15543795;'de la rue';1;0
+e;15685750;'de la rue d'Ulm';777;0
+e;15569033;'dernière maison de la rue';1;0
+e;15414574;'descendre la rue';1;0
+e;15570467;'en bas de la rue';1;0
+e;16105641;'rue de La Reynie';777;0
+e;16133189;'rue de l'Arsenal';777;0
+e;16272583;'rue Georges-Leygues';777;0
+e;16272584;'Soldats nord-africains dans une rue d'Odessa';777;0
+e;16288758;'incident sur la rue King';777;0
+e;16311472;'rue de Rochechouart';777;0
+e;16311717;'rue du Marché-aux-Porcs';777;0
+e;16314988;'Pont levant de la rue de Crimée';777;0
+e;16316421;'Pont de la rue de l'Ourcq';777;0
+e;16318070;'rue de la Colombe';777;0
+e;16358874;'Sages Poètes de la rue';777;0
+e;12198512;'rue Jean-et-Marie-Moinon';777;0
+e;12917151;'rue du Logiciel-Libre';777;0
+e;12990880;'rue de l'Ouest';777;0
+e;6375379;'accident de la rue';1;0
+e;14536169;'dormir dans la rue';1;0
+e;14677907;'rue de Tocqueville';1;2
+e;14590066;'de rue';1;2
+e;14670937;'rue de Ménilmontant';1;0
+e;14716912;'rue de Paris';1;0
+e;14716937;'rue du Faubourg Saint-Denis';1;2
+e;14722199;'rue du Faubourg du Temple';1;0
+e;15039325;'bagarres de rue';1;0
+e;15594508;'rue d'Armenonville';777;0
+e;15941158;'Théâtre français de la rue Feydeau';777;0
+e;15361738;'Le bus est apparu au coin de la rue.';1;0
+e;10673112;'rue Brignole';777;0
+e;10665529;'rue Jean-Mermoz';777;0
+e;10664264;'rue La Vacquerie';777;0
+e;10663322;'rue Laffitte';777;0
+e;10624527;'rue du Général-Guillaumat';777;0
+e;10621605;'rue de l'Échiquier';777;0
+e;10621604;'rue Jules-Breton';777;0
+e;10621603;'rue Coquillière';777;0
+e;10621602;'rue Sainte-Anne';777;0
+e;10621601;'rue Marbeuf';777;0
+e;10621599;'rue Drouot';777;0
+e;10620967;'rue de la Digue';777;0
+e;6402793;'vivant dans la rue';1;0
+e;12953102;'Le Bagarreur de rue';777;0
+e;12990133;'rue Mercière';777;0
+e;13534641;'rue Hubert-Jean Coenen';777;0
+e;13534853;'rue Willem Kuhnen';777;0
+e;6089225;'Panique dans la rue';777;0
+e;10620966;'rue des stations';777;0
+e;10901469;'rue du Général-Deslestraint';777;0
+e;10986468;'rue de Neufchâtel';777;0
+e;10987768;'milieu de la rue';1;0
+e;12903349;'rue Lacépède';1;0
+e;13024366;'rue Saint-Bon';777;0
+e;13527258;'La Ville sans rue';777;0
+e;13534474;'rue Spinoza';777;0
+e;10590391;'Le Double Assassinat de la rue Morgue';777;0
+e;10589768;'rue de Madrid';777;0
+e;10589767;'rue du Conservatoire';777;0
+e;10603119;'Foot 2 rue';777;0
+e;10874702;'gare de la rue Rogier';777;0
+e;10874701;'gare de la rue des Palais';777;0
+e;10874523;'rue Victor-Massé';777;0
+e;10986674;'rue de la Bidassoa';777;0
+e;10987639;'Festival international de théâtre de rue';777;0
+e;10988570;'rue de Rennes';777;0
+e;11769797;'rue de la Croix-Faubin';777;0
+e;11769986;'rue Maître-Albert';777;0
+e;11770300;'maison de la rue des Avocats';777;0
+e;11769710;'couvent des Jacobins de la rue Saint-Jacques';777;0
+e;11775349;'rue des Entrepreneurs';777;0
+e;12904601;'rue sauvage';777;0
+e;13518394;'course de rue';777;0
+e;14895414;'La rue Taiping';777;0
+e;6431248;'dépistage des drogues de la rue';1;0
+e;9959136;'rue Montmartre';777;0
+e;9959147;'rue du Temple';777;0
+e;9959137;'rue du Faubourg-Poissonnière';777;0
+e;9959182;'rue Étienne-Marcel';777;0
+e;9959146;'rue du Faubourg-du-Temple';777;2
+e;9959145;'rue Saint-Martin';777;0
+e;9959139;'rue Saint-Antoine';777;0
+e;9959144;'rue du Faubourg-Saint-Martin';777;0
+e;9959183;'rue Réaumur';777;0
+e;9959141;'rue Saint-Honoré';777;0
+e;9959216;'rue Comtesse-d'Artois';777;0
+e;9959203;'rue Traînée';777;0
+e;9959143;'rue Saint-Jacques';777;0
+e;9959197;'rue de la Pointe Saint-Eustache';777;0
+e;9959142;'rue du Faubourg-Saint-Jacques';777;0
+e;9959192;'rue Montorgueil';777;0
+e;9959234;'rue Léopold-Bellan';777;0
+e;9959263;'rue Saint-Marc';777;0
+e;9959135;'rue du Faubourg-Montmartre';777;0
+e;9959243;'rue du Croissant';777;0
+e;9959241;'rue de la Jussienne';777;0
+e;9959242;'rue Saint-Joseph';777;0
+e;9959229;'rue d'Aboukir';777;0
+e;9959138;'rue Poissonnière';777;0
+e;9959415;'rue Taranne';777;0
+e;9959420;'rue Pirouette';777;0
+e;9959394;'rue de l'Université';777;0
+e;9959441;'rue de Bourgogne';777;0
+e;9959443;'rue de la Chaise';777;0
+e;9959419;'rue de la Fromagerie';777;0
+e;9959447;'rue de Poitiers';777;0
+e;9959445;'rue de Luynes';777;0
+e;9959396;'rue Saint-Dominique';777;0
+e;9959413;'rue des Saints-Pères';777;6
+e;9959426;'chapelle de la rue du Bac';777;0
+e;9959401;'rue de Babylone';777;0
+e;9959265;'rue Tiquetonne';777;0
+e;9959397;'rue de Grenelle';777;0
+e;9959435;'rue Baltard';777;0
+e;9959427;'rue Berger';777;0
+e;9959457;'rue de la Poissonnerie-des-Halles';777;0
+e;9959402;'rue de Sèvres';777;0
+e;9959418;'rue du Pont-Neuf';777;0
+e;9959191;'rue Rambuteau';777;0
+e;9959452;'rue Saint-Thomas-d'Aquin';777;0
+e;9959642;'rue du Louvre';777;0
+e;9959643;'rue de Palestro';777;0
+e;9959468;'rue Chabanais';777;0
+e;9959644;'rue de Turbigo';777;0
+e;9959662;'rue Bachaumont';777;0
+e;9959646;'rue de la Chanvrerie';777;0
+e;9959442;'rue de Gribeauval';777;0
+e;9959663;'rue Française';777;0
+e;9959439;'rue de Lille';777;0
+e;9960602;'rue de Cléry';777;0
+e;9959647;'La rue Mondétour';777;0
+e;9960601;'rue Saint-Sauveur';777;0
+e;9960990;'rue du Sahel';777;0
+e;9961702;'rue de Picpus';777;0
+e;9961754;'rue de Reuilly';777;0
+e;9961753;'rue Montgallet';777;0
+e;9961924;'jardin 54 rue de Fécamp';777;0
+e;9961778;'rue Édouard-Lartet';777;0
+e;9976823;'rue Jouffroy-d'Abbans';777;0
+e;9986325;'rue de l'Odéon';777;0
+e;9991396;'rue du Général-Anselin';777;0
+e;10000218;'rue de Boulainvilliers';777;4
+e;10587860;'rue Haute';777;0
+e;10601981;'rue De Bleury';777;0
+e;10599896;'rue de Gramont';777;0
+e;10599292;'rue Francis-Garnier';777;0
+e;10595107;'56 rue Pigalle';777;0
+e;10594962;'27 rue de la Paix';777;0
+e;10594952;'L'Affaire de la rue Mouffetard';777;0
+e;10594674;'rue de l'Estrapade';777;0
+e;10732967;'rue Saint-Vincent';777;0
+e;10909482;'rue d'Hoogvorst';777;0
+e;10969653;'rue Henri-Rochefort';777;0
+e;10989575;'rue Monsigny';777;0
+e;11771337;'Le Bureau de poste de la rue Dupin et autres entretiens';777;0
+e;11771387;'rue Jeannin';777;0
+e;11771309;'rue de Bièvre';777;0
+e;13034291;'se trouver à la rue';1;0
+e;6425208;'gens de la rue';1;0
+e;9959140;'rue du Faubourg-Saint-Denis';777;0
+e;9959215;'rue de la Tonnellerie';777;0
+e;9959400;'rue de Varenne';777;0
+e;9959645;'rue des Petits-Carreaux';777;0
+e;9959411;'rue de Bellechasse';777;0
+e;9960605;'rue du Nil';777;0
+e;9963539;'14e rue';777;0
+e;9963558;'34e rue';777;0
+e;9963719;'rue Piat';777;0
+e;9963880;'jardin d'immeubles de la rue de la Marseillaise';777;0
+e;9966585;'rue Santos-Dumont';777;0
+e;9966485;'rue de la Roquette';777;0
+e;9966823;'rue Raffet';777;0
+e;9973212;'rue de l'Assomption';777;0
+e;9972724;'rue Poussin';777;0
+e;9972711;'rue d'Auteuil';777;0
+e;9972696;'rue de Lourmel';777;0
+e;9972695;'rue de la Convention';777;0
+e;9967488;'église baptiste de la 16e rue';777;0
+e;9980415;'se rencontrer à tous les coins de rue';1;0
+e;9979541;'attentat de l'église baptiste de la 16e rue';777;0
+e;10004852;'Une femme dans la rue';777;0
+e;10001503;'rue d'Assas';777;0
+e;10000226;'rue du Docteur-Blanche';777;0
+e;10000224;'rue Davioud';777;0
+e;10000210;'rue Jean-de-La-Fontaine';777;0
+e;10968676;'rue Léon-Delagrange';777;0
+e;10584646;'Toute la rue chante';777;0
+e;10578833;'Gestapo française de la rue Lauriston';777;0
+e;10871176;'rue de Lancry';777;0
+e;10969634;'rue Girardon';777;0
+e;10969624;'rue de la Glacière';777;0
+e;10969695;'ancienne rue de la Glacière';777;0
+e;10971677;'rue de Téhéran';777;0
+e;11055760;'rue Teniers';777;0
+e;11034699;'rue d'Avron';777;0
+e;11035119;'attentat de la rue de Rennes';777;0
+e;11035118;'attentat de la rue des Rosiers';777;0
+e;11035091;'attentat de la rue Nicaise';777;0
+e;11776254;'rafle de la rue Sainte-Catherine';777;0
+e;12320422;'rue Bretonneau';777;0
+e;12321321;'rue Duphot';777;0
+e;5564487;'rue Vandermeersch';777;0
+e;5564423;'rue du Marché aux Peaux';777;0
+e;5564089;'rue McGill';777;0
+e;5678822;'Miracle sur la 8e rue';777;0
+e;9944770;'rue de la Marne';777;0
+e;9966794;'rue Guy-Môquet';777;0
+e;9966828;'rue du Ranelagh';777;6
+e;10031252;'École de la rue Blanche';777;0
+e;10011564;'rue Boileau';777;0
+e;10961252;'rue du Prince Michel';777;0
+e;10959014;'rue Saint-Lazare';777;0
+e;10584999;'rue Thomassin';777;0
+e;10955700;'rue Auguste-Vacquerie';777;0
+e;10910380;'rue Darwin';777;0
+e;10921681;'Le Cercle de la rue Royale';777;0
+e;10921316;'rue Hénon';777;0
+e;10921314;'grande rue de la Croix-Rousse';777;0
+e;10920219;'rue Jean-du-Bellay';777;0
+e;10991759;'rue de Madagascar';777;0
+e;11028865;'rue Pré-aux-Clercs';777;0
+e;11060754;'rue Boucher';777;0
+e;11060753;'rue de la Chaussée-d'Antin';777;0
+e;11060752;'rue de la Cossonnerie';777;0
+e;11079128;'Grande rue des Capucins';777;0
+e;11357043;'rue Vivienne';777;0
+e;11358509;'rue Colbert';777;0
+e;11358797;'rue Corvetto';777;0
+e;11407376;'jardinet de la rue de l'Amiral-Mouchez';777;0
+e;11407275;'rue Henri Maus';777;0
+e;11784402;'rue Miollis';777;0
+e;11822748;'rue des Déportés';777;0
+e;11823789;'rue de l'École-de-Médecine';777;0
+e;11981377;'rue Lochet';777;0
+e;11994434;'rue Pasteur';777;0
+e;11994450;'rue de Bercy';777;0
+e;11994505;'rue Louis Ernotte';777;0
+e;12321510;'rue Coypel';777;0
+e;12321311;'rue Louis-Boilly';777;0
+e;10037421;'rue Cavendish';777;0
+e;10037420;'rue Armand-Carrel';777;0
+e;10037417;'rue Rennequin';777;0
+e;10033584;'rue du Bouquet-de-Longchamp';777;0
+e;10033582;'rue de Belzunce';777;0
+e;10033581;'rue d'Abbeville';777;0
+e;10033576;'rue Molière';777;0
+e;10032908;'rue de Santeuil';777;0
+e;10032907;'rue Santeuil';777;0
+e;10961441;'rue du Kosovo';777;0
+e;10942355;'rue Duret';777;0
+e;10942353;'rue Decamps';777;0
+e;10942349;'rue Ramey';777;0
+e;10942351;'rue Mesnil';777;0
+e;10942352;'rue Boissière';777;0
+e;10577025;'rue de la Gaîté';777;0
+e;10994639;'rue Berzélius';777;0
+e;11063211;'Observatoire de la rue Serpente';777;0
+e;11072506;'rue Saint-Charles';777;0
+e;11076846;'pont tournant de la rue Dieu';777;0
+e;11076798;'rue de la Barillerie';777;0
+e;11076833;'pont de la rue de l'Ourcq';777;0
+e;11076836;'pont de la rue Louis-Blanc';777;0
+e;11076834;'pont levant de la rue de Crimée';777;0
+e;11076639;'Les Enfants des ténèbres et les Anges de la rue';777;0
+e;11077017;'rue Saint-André-des-Arts';777;0
+e;11077018;'rue de l'Hirondelle';777;0
+e;11076985;'rue Louis-Blanc';777;0
+e;11077015;'rue du Hurepoix';777;0
+e;11079124;'rue des Capucins';777;0
+e;11079129;'rue du Trésorier';777;0
+e;11089871;'rue Auguste-Cain';777;0
+e;11083511;'rue Médéric';777;0
+e;11083406;'rue de l'Exposition';777;0
+e;11082977;'rue Ordener';777;0
+e;11082941;'rue Mouffetard';777;0
+e;11082897;'rue Camille-Tahan';777;0
+e;11082859;'rue Hallé';777;0
+e;11349192;'rue Cernuschi';777;0
+e;11349551;'rue Piet-Mondrian';777;0
+e;11354708;'rue Yonge';777;0
+e;11405351;'rue de la Poste';777;0
+e;11405335;'rue des Déchargeurs';777;0
+e;11406574;'rue Guynemer';777;0
+e;11786229;'rue aux Laines';777;0
+e;11787650;'rue des ravissantes';777;0
+e;11826413;'rue de Steinkerque';777;0
+e;11994925;'rue des Amandiers';777;0
+e;11994926;'rue de la Chine';777;0
+e;12032752;'rue du Caire';777;0
+e;12032747;'rue Jean-Beausire';777;0
+e;12330367;'rue Danton';777;0
+e;16358876;'Code d'honneur du foot de rue';777;0
+e;5922249;'31 rue Cambon';777;0
+e;5962236;'L'aventure est au coin de la rue';777;0
+e;10954207;'rue Léon-Maître';777;0
+e;10954205;'rue de Strasbourg';777;0
+e;10747056;'rue de Sully';777;0
+e;10747055;'rue Sully';777;0
+e;10744975;'rue de la Bienfaisance';777;0
+e;10850744;'rue des Rosiers';777;0
+e;10850720;'immeuble de la rue des Contreforts';777;0
+e;10866789;'rue Keller';777;0
+e;10865446;'rue Dupin';777;0
+e;10865126;'rue Van Hove';777;0
+e;10928956;'Ali Zaoua prince de la rue';777;0
+e;10937591;'jouer dans la rue';1;0
+e;10994253;'rue Bignon';777;0
+e;11082805;'rue Daguerre';777;0
+e;11082942;'rue Henri-Barbusse';777;0
+e;11082863;'rue des Écoles';777;0
+e;11083045;'rue La Boétie';777;0
+e;11083044;'rue de Seine';777;0
+e;11083113;'rue Jacob';777;0
+e;11083051;'rue des Mathurins';777;0
+e;11083187;'rue du Four';777;0
+e;11083192;'rue Notre-Dame-des-Champs';777;0
+e;11083277;'rue du Roule';777;0
+e;11083315;'rue Campagne-Première';777;0
+e;11083512;'rue Guyot';777;0
+e;11083515;'rue de Monceau';777;0
+e;11083536;'rue Rembrandt';777;0
+e;11083527;'rue du Rocher';777;0
+e;11083531;'rue de Valois-Saint-Honoré';777;0
+e;11083530;'rue de Courcelles';777;0
+e;11089711;'rue Pasquier';777;0
+e;11089607;'rue Murillo';777;0
+e;11083539;'rue de Lisbonne';777;0
+e;11089608;'rue de Rome';777;0
+e;11347686;'rue du Général-Archinard';777;0
+e;11360916;'rue d'Argenteuil';777;0
+e;11360915;'rue de la Bibliothèque';777;0
+e;11752133;'rue Geoffroy-Saint-Hilaire';777;0
+e;11709638;'rue Buffon';777;0
+e;11815224;'rue Sarasate';777;0
+e;11815229;'rue Oscar-Roty';777;0
+e;11815230;'rue Marguerite-Boucicaut';777;0
+e;11824410;'rue du Cirque';777;0
+e;11824937;'rue Quentin-Bauchart';777;0
+e;11825179;'rue Godot-de-Mauroy';777;0
+e;11825178;'rue Vignon';777;0
+e;11825177;'rue de Sèze';777;0
+e;11827826;'rue du Chevalier-de-La-Barre';777;0
+e;12032746;'La rue des Tournelles';777;0
+e;12032745;'rue des Forges';777;0
+e;12032761;'rue de la Petite-Truanderie';777;0
+e;12032744;'rue de l'Hôtel-de-Ville';777;0
+e;12032760;'rue de la Grande-Truanderie';777;0
+e;12032749;'rue de l'Échelle';777;0
+e;12303788;'rue Morgue';777;0
+e;12863268;'rue du Chêne';777;0
+e;12863266;'rue de l'Étuve';777;0
+e;15525834;'La rue débouche sur une place.';1;0
+e;15561135;'La rue est pleine de gens.';1;0
+e;15217185;'La rue était prise d'assaut par les chalands.';1;0
+e;5809058;'rue du Chat-qui-Pêche';777;0
+e;6064022;'Maison du 11 rue Teynière';777;0
+e;10835501;'rue Ledra';777;0
+e;10831808;'rue Bank';777;0
+e;10748900;'rue de Verdun';777;0
+e;10748896;'rue Wellington';777;0
+e;10748895;'rue de la Commune';777;0
+e;10748894;'rue Saint-Paul';777;0
+e;10748893;'rue Le Royer';777;0
+e;10748892;'rue Saint-Amable';777;0
+e;10748891;'rue Le Moyne';777;0
+e;10748890;'rue des Récollets';777;0
+e;10748889;'rue du Saint-Sacrement';777;0
+e;10748887;'rue Saint-Patrick';777;0
+e;10748886;'rue Notre-Dame';777;0
+e;10748885;'rue Saint-Louis';777;0
+e;10748882;'rue De La Gauchetière';777;0
+e;10748880;'rue Hochelaga';777;0
+e;10748879;'rue Sherbrooke';777;0
+e;10748878;'rue Prince-Arthur';777;0
+e;10748873;'rue Rachel';777;0
+e;10748867;'rue Saint-Viateur';777;0
+e;10748859;'rue Saint-Zotique';777;0
+e;10748858;'rue Bélanger';777;0
+e;10748857;'rue Jean-Talon';777;0
+e;10748856;'rue Jarry';777;0
+e;10748839;'rue University';777;0
+e;10748829;'rue Dickson';777;0
+e;10748823;'rue D'Iberville';777;0
+e;10748822;'rue Fullum';777;0
+e;10748821;'rue Messier';777;0
+e;10748818;'rue Beaudry';777;0
+e;10748817;'rue Amherst';777;0
+e;10748814;'rue Saint-Hubert';777;0
+e;10748813;'rue Lajeunesse';777;0
+e;10748812;'rue Berri';777;0
+e;10748811;'rue de Bonsecours';777;0
+e;10748808;'rue Clark';777;0
+e;10748807;'rue Saint-Gabriel';777;0
+e;10748806;'rue Saint-Alexis';777;0
+e;10748805;'rue Saint-Sulpice';777;0
+e;10748802;'rue Saint-Jean';777;0
+e;10748797;'rue Jeanne-Mance';777;0
+e;10748795;'rue Sainte-Hélène';777;0
+e;10748791;'rue Mansfield';777;0
+e;10748789;'rue Metcalfe';777;0
+e;10748788;'rue Peel';777;0
+e;10748787;'rue Stanley';777;0
+e;10748786;'rue de la Montagne';777;0
+e;10748785;'rue Crescent';777;0
+e;10748784;'rue Bishop';777;0
+e;10748783;'rue Guy';777;0
+e;10748774;'rue Victoria';777;0
+e;10748760;'rue Saint-Urbain';777;0
+e;10842402;'rue de la Main-d'Or';777;0
+e;10842400;'rue de Charonne';777;0
+e;10840806;'rue Taitbout';777;0
+e;10840034;'rue Saint-Florentin';777;0
+e;10839981;'rue du Château-d'Eau';777;0
+e;10839478;'rue Feydeau';777;0
+e;10852217;'rue Féry';777;0
+e;10851787;'synagogue de la rue de Montevideo';777;0
+e;10851681;'synagogue de la rue Saint-Isaure';777;0
+e;10851678;'synagogue de la rue Pavée';777;0
+e;10851663;'rue de la Victoire';777;0
+e;10930346;'rue Lauriston';777;0
+e;10930234;'rue des Beaux-Arts';777;0
+e;10930233;'rue des Éperonniers';777;0
+e;10930232;'rue Saint-Roch';777;0
+e;10929913;'rue Harrouys';777;0
+e;10929912;'rue Désiré-Colombe';777;0
+e;10929697;'rue Michal';777;0
+e;10997087;'rue du Chaume';777;0
+e;10997086;'rue Clisson';777;0
+e;11021558;'rue Scribe';777;0
+e;11021735;'rue Saint-Georges';777;0
+e;11083117;'rue de Buci';777;0
+e;11362333;'rue de Provence';777;0
+e;11361609;'rue du Surmelin';777;0
+e;11361608;'rue Darcy';777;0
+e;11361607;'rue Saint-Fargeau';777;0
+e;11360923;'rue Cortot';777;0
+e;11455691;'rue La Fayette';777;0
+e;11997303;'rue de Châteaudun';777;0
+e;11996345;'rue Le Peletier';777;2
+e;12005270;'rue du Mont-Thabor';777;0
+e;12033380;'rue des Envierges';777;0
+e;12067879;'rue Alphonse-Karr';777;0
+e;12074220;'rue Floris';777;0
+e;12074995;'rue Hubert-Colombier';777;0
+e;12081214;'rue d'Égypte';1;0
+e;12289628;'rue Fontainas';777;0
+e;12303008;'rue de Martignac';777;0
+e;12303097;'rue Ballainvilliers';777;0
+e;12303285;'rue Kuhn';777;0
+e;12863293;'rue Neuve';777;0
+e;12863280;'rue des Bouchers';777;0
+e;13133610;'rue Notre-Dame-de-Nazareth';777;0
+e;13133555;'rue Caumartin';777;0
+e;13133554;'rue de Caumartin';777;0
+e;15207250;'La boulangerie est de l'autre côté de la rue.';1;0
+e;5938068;'entre la place Dumon et la rue Édouard Gersis';777;0
+e;5980030;'attentat de la rue Saint-Nicaise';777;0
+e;10316067;'Miracle sur la 34e rue';777;0
+e;10317344;'rue du Théâtre';777;0
+e;10316441;'rue Victor-Gelez';777;0
+e;10313129;'rue des prairies';777;0
+e;10335710;'rue Drummond';777;0
+e;10334655;'rue Paradis';777;0
+e;10334654;'rue Saint-Ferréol';777;0
+e;10334653;'rue de la République';777;0
+e;10328005;'rue Vernier';777;0
+e;10747861;'rue Ontario';777;0
+e;10828112;'rue des Marais-Saint-Martin';777;0
+e;10828110;'rue des Marais';777;0
+e;10830974;'bloquer une rue';1;0
+e;10849298;'rue Malebranche';777;0
+e;10849297;'rue Saint-Hyacinthe-Saint-Michel';777;0
+e;10849295;'rue de Cluny';777;0
+e;10849294;'rue des Cordiers';777;0
+e;10849293;'rue des Poirées';777;0
+e;10849290;'rue du Cloître-Saint-Benoît';777;0
+e;10849289;'rue de la Sorbonne';777;0
+e;10849288;'rue Champollion';777;0
+e;10849287;'rue Du Sommerard';777;0
+e;10849286;'rue du Foin';777;0
+e;10849285;'rue du Foin-Saint-Jacques';777;0
+e;10849284;'rue Boutebrie';777;0
+e;10849283;'rue des prêtres';777;0
+e;10849282;'rue Saint-Séverin';777;0
+e;10849281;'rue Xavier-Privas';777;0
+e;10849280;'rue Royer-Collard';777;0
+e;10849279;'rue d'Enfer';777;0
+e;10849278;'rue Monsieur-le-Prince';777;0
+e;10849277;'rue de la Harpe';777;0
+e;10849272;'rue des Orteaux';777;0
+e;10849264;'rue des Plantes';777;0
+e;10849113;'rue du Général-Leclerc-de-Hauteclocque';777;0
+e;10997251;'rue Turgot';777;0
+e;11022941;'patrouille de rue';1;0
+e;11022942;'organisation de patrouille de rue';1;0
+e;11094873;'rue de Longchamp';777;0
+e;11344081;'rue Carreterie';777;0
+e;11361668;'massacre de la rue Transnonain';777;0
+e;11453840;'rue de la liberté';777;0
+e;11454278;'rue de Lodi';777;0
+e;11454277;'rue Dauphine';777;0
+e;11501501;'rue Victor Oudart';777;0
+e;11502808;'rue Daviel';777;0
+e;11577567;'rue Dobrée';777;0
+e;12006520;'rue Gluck';777;0
+e;12006870;'rue Blomet';777;0
+e;12006864;'rue de Fleurus';777;0
+e;12034050;'rue de Harlay';777;0
+e;12049250;'rue du Commerce';777;0
+e;12081065;'publicité de rue';1;0
+e;12080708;'planche de rue';1;0
+e;13133558;'rue Le Sueur';777;0
+e;5688356;'rue Pierre-Fontaine';777;0
+e;5808044;'rue de la Boucherie';777;0
+e;6064019;'Maison du 17 rue Bourgmayer';777;0
+e;10045521;'rue Pierre-Demours';777;0
+e;10335977;'rue Falguière';777;0
+e;10821334;'rue de Richelieu';777;0
+e;10821170;'rue Jeanne-d'Arc';777;0
+e;10791489;'rue Franklin';777;0
+e;10791481;'rue Benjamin-Franklin';777;0
+e;10828111;'rue des Marais-du-Temple';777;0
+e;10847479;'233e rue est';777;0
+e;10847478;'161e rue';777;0
+e;10847166;'Meurtres dans la 110e rue';777;0
+e;11258572;'rue Thiers';777;0
+e;11341812;'rue Thubaneau';777;0
+e;11341953;'rue du Roi-de-Sicile';777;0
+e;11343184;'rue Fernand-Holweck';777;0
+e;11362967;'rue Gambetta';777;0
+e;11362960;'rue de Feltre';777;0
+e;11362959;'rue Georges-Clemenceau';777;0
+e;11393219;'rue Alexandre-Dumas';777;0
+e;11393218;'rue Monte-Cristo';777;0
+e;11392919;'rue d'Aligre';777;0
+e;11416106;'rue des Acacias';777;0
+e;11502025;'rue Louis Socquet';777;0
+e;11543762;'rue Auguste Lambiotte';777;0
+e;11543761;'rue Frans Binjé';777;0
+e;11543759;'rue Fontaine d'Amour';777;0
+e;11543757;'rue des Pâquerettes';777;0
+e;11590611;'rue des Martyrs';777;0
+e;11834629;'metteur en rue';1;0
+e;11840121;'rue Choderlos-de-Laclos';777;0
+e;11932707;'rue du Repos';777;0
+e;11938004;'rue Roger-Verlomme';777;0
+e;12058753;'Chalon dans la rue';777;0
+e;13135949;'rue Pierre-Bourdan';777;0
+e;13424698;'rue Vonck';777;0
+e;9931023;'rue de l'Amigo';777;0
+e;10773899;'Le Miracle de la 34e rue';777;0
+e;10193619;'rue Fabert';777;0
+e;10297985;'rue du Général-Foy';777;0
+e;10343600;'13e rue';777;0
+e;10346523;'rue Balzac';777;0
+e;10345602;'rue de la Loi';777;0
+e;10353603;'rue d'Alésia';777;0
+e;10364091;'rue de Berne';777;0
+e;11248629;'rue Souverain-Pont';777;0
+e;11248609;'rue Pont d'Île';777;0
+e;11248608;'rue des Dominicains';777;0
+e;11248591;'rue des Carmes';777;0
+e;11248446;'rue Godefroid Guffens';777;0
+e;11248445;'rue Godefroid Devreese';777;0
+e;11248112;'rue Hors-Château';777;0
+e;11247968;'rue Albert de Cuyck';777;0
+e;11256027;'Groupe de la rue de Lille';777;0
+e;11255992;'rue de Tournon';777;0
+e;11255989;'rue Ravignan';777;0
+e;11255980;'rue Caulaincourt';777;0
+e;11295310;'rue Galande';777;0
+e;11296068;'rue des Anglais';777;0
+e;11296025;'rue de l'Arbalète';777;0
+e;11329731;'rue du square Montsouris';777;0
+e;11335584;'rue Gabrielle';777;0
+e;11341952;'rue Malher';777;0
+e;11341951;'rue Pavée';777;0
+e;11342105;'rue Barre-du-Bec';777;0
+e;11342106;'rue de la Chanverrerie';777;0
+e;11342325;'rue Dostoïevski';777;0
+e;11364088;'rue des Tanneurs';777;0
+e;11364087;'rue Haute-Seille';777;0
+e;11392473;'sages poètes de la rue';777;0
+e;11393591;'rue Bourdaloue';777;0
+e;11393712;'rue Pirandello';777;0
+e;11393824;'rue du Poteau';777;0
+e;11518905;'rue Girardet';777;0
+e;11519069;'rue de Gergovie';777;0
+e;11543742;'rue Pelouze';777;0
+e;11543753;'rue Josse Impens';777;0
+e;11838232;'rue Ferdinand-Flocon';777;0
+e;5536688;'Le Serpent de la rue de la lune';777;0
+e;5808260;'rue Vieille-Boucherie';777;0
+e;10050452;'rue de Bourg';777;0
+e;10049606;'L'Ange de la rue';777;0
+e;10046575;'rue Hermel';777;0
+e;10046545;'rue Sivel';777;0
+e;10063698;'rue Frontenac';777;0
+e;10352562;'rue Lamartine';777;0
+e;10352550;'rue de Maubeuge';777;2
+e;10352541;'rue Choron';777;0
+e;10351074;'125e rue';777;0
+e;10351073;'110e rue';777;0
+e;10351072;'96e rue';777;0
+e;10351070;'79e rue';777;0
+e;10351067;'74e rue';777;0
+e;10351066;'72e rue';777;0
+e;10351065;'66e rue';777;0
+e;10351063;'57e rue';777;0
+e;10351056;'55e rue';777;0
+e;10351055;'54e rue';777;0
+e;10351053;'53e rue';777;0
+e;10351052;'52e rue Ouest';777;0
+e;10351051;'52e rue';777;0
+e;10351050;'51e rue';777;0
+e;10351048;'50e rue';777;0
+e;10351047;'47e rue';777;0
+e;10351046;'23e rue';777;0
+e;10351023;'4e rue';777;0
+e;10350867;'59e rue';777;0
+e;10349545;'8e rue';777;0
+e;10347799;'rue Vieille-du-Temple';777;0
+e;10347797;'rue Volta';777;0
+e;10347560;'rue Véron';777;0
+e;10347553;'rue des Abbesses';777;0
+e;10347039;'rue de Thionville';777;0
+e;10346544;'rue de La Tour-d'Auvergne';777;0
+e;10346543;'rue de l'Isly';777;0
+e;10346374;'rue d'Hauteville';777;0
+e;10364377;'rue Beaubien';777;0
+e;10422318;'Le Crime de la rue de Chantilly';777;0
+e;10557099;'rue Napoléon';777;0
+e;10752880;'l'amour dans la rue';777;0
+e;10787548;'rue du Lombard';777;0
+e;11012562;'rue Charles Lemaire';777;0
+e;11250185;'rue de Lübeck';777;0
+e;11248696;'rue Sébastien Laruelle';777;0
+e;11248695;'rue Saint-Adalbert';777;0
+e;11248694;'rue Gérardrie';777;0
+e;11248689;'rue Puits-en-Sock';777;0
+e;11248688;'rue Cathédrale';777;0
+e;11248687;'rue de la Cathédrale';777;0
+e;11248685;'rue du Vertbois';777;0
+e;11248679;'rue Sainte-Walburge';777;0
+e;11248672;'rue de la Casquette';777;0
+e;11248667;'rue Sur-la-Fontaine';777;0
+e;11248662;'rue Saint-Gilles';777;0
+e;11248655;'rue des Célestines';777;0
+e;11255386;'rue Édouard-Manet';777;0
+e;11255383;'rue des Hospitalières-Saint-Gervais';777;0
+e;11255382;'rue François-Miron';777;0
+e;11255218;'rue Malus';777;0
+e;11295322;'rue Gît-le-Coeur';777;0
+e;11329775;'rue Roger-Bissière';777;0
+e;11330089;'rue Frédéric-Sauton';777;0
+e;11330550;'rue Burnouf';777;0
+e;11330596;'rue Botzaris';777;0
+e;11335587;'rue Hégésippe-Moreau';777;0
+e;11335583;'rue Lepic';777;0
+e;11335585;'rue Joseph-Bara';777;0
+e;11335582;'rue Delambre';777;0
+e;11335594;'rue Foyatier';777;0
+e;11364276;'rue de Montmorency';777;0
+e;11364266;'rue du Grenier-Saint-Lazare';777;0
+e;11364265;'rue Beaubourg';777;0
+e;11364264;'rue au Maire';777;0
+e;11364263;'rue Michel-le-Comte';777;0
+e;11364262;'rue Chapon';777;0
+e;11364261;'rue Transnonain';777;0
+e;11364260;'Le Massacre de la rue Transnonain';777;0
+e;11364196;'rue aux Ours';777;0
+e;11364135;'rue Serp';777;0
+e;11364134;'rue Serpenoise';777;0
+e;11383657;'rue Saint-Nicaise';777;0
+e;11518243;'rue Jean-Pierre-Bloch';777;0
+e;11518754;'rue Herman Richir';777;0
+e;11519000;'rue Nationale';777;0
+e;13388064;'rue Lipscani';777;0
+e;9913139;'rue Zénobe Gramme';777;0
+e;10046790;'20h17 rue Darling';777;0
+e;10383452;'rue Jean-Marie-Jégo';777;0
+e;10383280;'Luge de rue';777;0
+e;10518207;'arc de triomphe de la rue Augusta';777;0
+e;10548825;'rue Bayard';777;0
+e;10548818;'rue François-Ier';777;0
+e;10553879;'rue Crespin-du-Gast';777;0
+e;10553814;'rue Pierre-Charron';777;0
+e;10553813;'rue de Port-Mahon';777;0
+e;10754270;'rue Pierre-Leroux';777;0
+e;11012279;'rue de Palestine';777;0
+e;11012364;'rue du Conseiller-Collignon';777;0
+e;11101734;'rue Faidherbe';777;0
+e;11155655;'rue Censier';777;0
+e;11248723;'rue Pierreuse';777;0
+e;11248666;'rue des Clarisses';777;0
+e;11248951;'rue de Sclessin';777;0
+e;11248953;'rue de l'Yser';777;0
+e;11251212;'rue de Miromesnil';777;0
+e;11251305;'gare de la rue York';777;0
+e;11251529;'rue du Radium';777;0
+e;11251335;'rue Daunou';777;0
+e;11251713;'rue Louis-le-Grand';777;0
+e;11251716;'rue Saint-Augustin';777;0
+e;11251715;'rue Volney';777;0
+e;11303402;'rue Dolomieu';777;0
+e;11335134;'rue du Cardinal-Tisserant';777;0
+e;11554678;'rue Émilio-Castelar';777;0
+e;11574740;'rue du Prado';777;0
+e;11599582;'fusillade de la rue d'Isly';777;0
+e;11975724;'rue Pouchet';777;0
+e;12053076;'utiliser des balayeuses de rue motorisées';1;0
+e;12278076;'rue de Gigant';777;0
+e;12278113;'rue Bossuet';777;0
+e;12278111;'rue Sainte-Croix';777;0
+e;12278110;'rue de la Juiverie';777;0
+e;12278112;'rue de la Bâclerie';777;0
+e;12792278;'rue Bochart-de-Saron';777;0
+e;5539008;'rue Serpente';777;0
+e;10073282;'rue de Clichy';777;0
+e;10073269;'rue Blanche';777;0
+e;10083255;'rue de l'Avenir';777;0
+e;10080131;'rue Huysmans';777;0
+e;10080039;'rue Rodier';777;0
+e;10135343;'rue Parrot';777;0
+e;10133395;'rue Sainte-Catherine';777;0
+e;10132647;'rue Saint-Thomas-du-Louvre';777;0
+e;10132646;'rue Fromenteau';777;0
+e;10132645;'rue Froidmanteau';777;0
+e;10132644;'rue du Musée';777;0
+e;10368365;'rue Grand-Pont';777;0
+e;10368363;'rue du Gros-Horloge';777;0
+e;10459157;'rue Newton';777;0
+e;10459073;'rue de la Huchette';777;0
+e;11011760;'attentat de la rue Copernic';777;0
+e;11001855;'rue des Grands-Augustins';777;0
+e;11007855;'rue du Rempart';777;0
+e;11004889;'rue militaire';777;0
+e;11248950;'rue Auguste Buisseret';777;0
+e;11326613;'rue Neglinnaïa';777;0
+e;11326809;'rue Abovyan';777;0
+e;11334987;'rue de l'Abbé-Didelot';777;0
+e;11378560;'rue Knapen';777;0
+e;11384167;'Bénédictines de la rue Monsieur';777;0
+e;11388885;'rue Le Vau';777;0
+e;11554069;'rue Henry-Farman';777;0
+e;11968670;'rue Vondel';777;0
+e;11958061;'rue Botanique';777;0
+e;11970751;'rue Drevet';777;0
+e;11971252;'rue Vitruve';777;0
+e;11971284;'rue Saint-Blaise';777;0
+e;12278125;'rue Crébillon';777;0
+e;12278124;'rue d'Orléans';777;0
+e;12278130;'rue du Calvaire';777;0
+e;12278436;'rue de Briord';777;0
+e;12278168;'rue du Roi-Albert';777;0
+e;12790762;'rue Albinoni';777;0
+e;11975211;'être dans la rue';1;0
+e;5564535;'rue à sens unique';1;6
+e;5992685;'photographie de mode de rue';777;0
+e;10090259;'rue Albert-Thomas';777;0
+e;10089560;'rue Talma';777;0
+e;10096757;'Le Miracle sur la 34e rue';777;0
+e;10096080;'rue des Arts';777;0
+e;10118825;'rue du Dessous-des-Berges';777;0
+e;10136057;'rue des Vignes';777;0
+e;10181196;'La rue Jean Wellens';777;0
+e;10370349;'rue Caffarelli';777;0
+e;11004890;'rue du rempart';777;0
+e;11007856;'rue des Remparts';777;0
+e;11161004;'rue de Prony';777;0
+e;11161334;'rue d'Artois';777;0
+e;11175289;'rue Jouffroy';777;0
+e;11175330;'rue Van-Gogh';777;0
+e;11175288;'rue Poliveau';777;0
+e;11175331;'rue de Tolbiac';777;0
+e;11208420;'rue Leredde';777;0
+e;11218559;'rue de l'Arcade';777;0
+e;11326347;'rue Henri Evenepoel';777;0
+e;11326438;'rue des Mouettes';777;0
+e;12278193;'rue Garde-Dieu';777;0
+e;12278222;'rue du Landreau';777;0
+e;12278192;'rue Saint-Léonard';777;0
+e;12278216;'rue de la Mainguais';777;0
+e;12278294;'rue Juiverie';777;0
+e;12278218;'rue Descartes';777;0
+e;12278289;'rue du Général-Buat';777;0
+e;12278277;'rue d'Allonville';777;0
+e;12278437;'rue du Chêne-d'Aron';777;0
+e;12278296;'rue Kervégan';777;0
+e;12278711;'rue du Sergent-Blandan';777;0
+e;13257762;'rue Cunin-Gridaine';777;0
+e;5778572;'rue Boulard';777;0
+e;6011011;'rue de Presbourg';777;0
+e;6063723;'maison située rue des Juifs';777;0
+e;10094933;'rue Pavillon';777;0
+e;10094932;'rue du Pavillon';777;0
+e;10178729;'rue Claude-Tillier';777;0
+e;10176288;'arènes de la rue Pergolèse';777;0
+e;10184994;'Le Rembrandt de la rue Lepic';777;0
+e;10184704;'rue de l'Abbaye';777;0
+e;10184700;'rue de Chanaleilles';777;0
+e;10181582;'L'Or dans la rue';777;0
+e;11103597;'rue Jussieu';777;0
+e;11137748;'rue Albert-Willemetz';777;0
+e;11162208;'rue Leblanc';777;0
+e;11162206;'rue Vasco-de-Gama';777;0
+e;11162207;'rue Lecourbe';777;2
+e;11207718;'rue Lefrancq';777;0
+e;11385079;'rue de Condé';777;0
+e;12278285;'rue Copernic';777;0
+e;13339050;'rue Fulton';777;0
+e;5557477;'Rois de la rue';777;0
+e;5623487;'rue de la Soif';777;0
+e;5938069;'entre la rue Édouard Gersis et le square Roi Baudouin';777;0
+e;6063687;'maison de la rue Armstrong';777;0
+e;6048201;'rue Léon Mignon';777;0
+e;6528581;'Festival international des arts de la rue de Chassepierre';777;0
+e;10141531;'Le Fantôme de la rue Morgue';777;0
+e;10160817;'rue du Cinéma';777;0
+e;10159740;'rue Lhomond';777;0
+e;10158114;'rue Pascal';777;0
+e;11160662;'rue Verte';777;0
+e;13297145;'rue François-Bonvin';777;0
+e;13313554;'rue Benouville';777;0
+e;13313547;'Salon de la rue des Moulins';777;0
+e;2373816;'rue barrée';1;0
+e;6012006;'rue parisienne';1;0
+e;10143651;'Scène de la rue';777;0
+e;10143576;'rue Barbet-de-Jouy';777;0
+e;10433662;'rue Mazarine';777;0
+e;10443912;'rue Michelet';777;0
+e;11105533;'rue Stanislas';777;0
+e;11105411;'rue Gaston-Veil';777;0
+e;11105407;'rue du Vieil-Hôpital';777;0
+e;11105406;'rue de l'Emery';777;0
+e;2468143;'faire la rue Thubaneau';1;0
+e;5557126;'42e rue';777;0
+e;5900733;'rue de Meudon';777;0
+e;11105621;'rue de Rieux';777;0
+e;12775386;'rue Beccaria';777;0
+e;12775372;'rue Lacuée';777;0
+e;12775365;'rue du Colonel-Oudot';777;0
+e;12775364;'rue de la Véga';777;0
+e;12775362;'rue de Fécamp';777;0
+e;12775361;'rue de Toul';777;0
+e;12775360;'rue Gossec';777;0
+e;12775359;'rue Tourneux';777;0
+e;12775358;'rue Sidi-Brahim';777;0
+e;12775357;'rue Cannebière';777;0
+e;12775356;'rue Raoul';777;0
+e;12775355;'rue Brahms';777;0
+e;12775354;'rue Dugommier';777;2
+e;12775353;'rue Dubrunfaut';777;0
+e;12775352;'rue Élisa-Lemonnier';777;0
+e;12775351;'rue Antoine-Julien-Hénard';777;0
+e;12775350;'rue du Congo';777;0
+e;12775349;'rue du Charolais';777;0
+e;12775348;'rue de Rambouillet';777;0
+e;12775347;'rue Chrétien-de-Troyes';777;0
+e;12775344;'rue Guillaumot';777;0
+e;12775343;'rue Hector-Malot';777;0
+e;12775342;'rue Abel';777;0
+e;12775341;'rue Michel-Chasles';777;0
+e;12775340;'rue Traversière';777;0
+e;12775339;'rue Moreau';777;0
+e;12775336;'rue de Lyon';777;0
+e;12774344;'rue des Cascades';777;0
+e;5990332;'rue de Trévise';777;0
+e;10436654;'rue Joseph-Wauters';777;0
+e;11105620;'rue Fouré';777;0
+e;12267130;'rue Mademoiselle';777;0
+e;12770874;'rue du Montparnasse';777;0
+e;12770864;'journaux de rue';777;0
+e;12770837;'rue de l'Arrivée';777;0
+e;12770835;'rue du Départ';777;0
+e;12770830;'rue Rousselet';777;0
+e;6010977;'rue de Tilsitt';777;0
+e;6064021;'Maison du 30 rue de la République';777;0
+e;2461630;'grande rue';1;0
+e;8779429;'se retrouver à la rue';1;0
+e;8887145;'rue Diard';777;0
+e;8900561;'rue Dupont';777;0
+e;8934393;'gare de la rue Royale Sainte-Marie';777;0
+e;8968180;'rue Alfred-Stevens';777;0
+e;9018948;'rue Monsieur';777;0
+e;9020731;'rue Sainte-Anastase';777;0
+e;9023773;'rue Alibert';777;0
+e;9024559;'harcèlement de rue';1;0
+e;9024705;'rue Mariotte';777;0
+e;9050866;'rue Cardan';777;0
+e;9071758;'rue Magin';777;0
+e;9071802;'rue Soufflot';777;0
+e;9178985;'rue Froissart';777;0
+e;9179005;'rue de Chabrol';777;0
+e;9179751;'rue Cacheux';777;0
+e;9580650;'rue Cognacq-Jay';777;0
+e;9596255;'rue de Solférino';777;0
+e;9598367;'rue Stijn Streuvels';777;0
+e;9613953;'108 rue Piron';777;0
+e;9740190;'émeute de la 12e rue';777;0
+e;9757392;'rue de Charenton';777;0
+e;9758522;'rue Rampon';777;0
+e;9787684;'rue Le Brix-et-Mesmin';777;0
+e;10833784;'2-22 rue Sainte-Catherine Est';777;0
+e;11107939;'congrès de la rue du Tribunal';777;0
+e;11119302;'rue de la Providence';777;0
+e;11119307;'rue de la Banque';777;0
+e;11119494;'jardin de la rue Gandon';777;0
+e;11119303;'rue Damesme';777;0
+e;11119277;'rue Jean-Poulmarch';777;0
+e;11119600;'rue des Petits-Champs';777;0
+e;11119658;'rue de Ventadour';777;0
+e;11119630;'rue du Moulinet';777;0
+e;11119644;'rue Brillat-Savarin';777;0
+e;11119631;'rue du Moulin-des-Prés';777;0
+e;11119651;'rue Croix-des-Petits-Champs';777;0
+e;11119649;'rue La Vrillière';777;0
+e;11119603;'rue Notre-Dame-des-Victoires';777;0
+e;11119604;'rue Paul-Lelong';777;0
+e;11119876;'rue Francis-de-Miomandre';777;0
+e;11119875;'rue Thomire';777;0
+e;11119568;'rue Bonaparte';777;0
+e;11119629;'rue Bobillot';777;0
+e;11119905;'rue Arthur Roland';777;0
+e;11126605;'rue Vavin';777;0
+e;11126619;'rue des Boulets';777;0
+e;11126890;'rue Hamra';777;0
+e;11129544;'rue de la monnaie';777;0
+e;11129904;'rue Sadovaïa';777;0
+e;11129911;'rue Saint-Serge';777;0
+e;11129914;'rue des Décembristes';777;0
+e;11129915;'rue Bolchaïa Morskaïa';777;0
+e;11129910;'rue Tchaïkovski';777;0
+e;11129826;'rue Raoul-Dufy';777;0
+e;12261873;'rue de l'Argonne';777;0
+e;12484162;'rue Chaptal';777;0
+e;12484322;'rue des Colonels-Renard';777;0
+e;12484301;'rue René-Goscinny';777;0
+e;12484186;'rue Rapp';777;0
+e;12600243;'rue des Capucines';777;0
+e;12634386;'rue Émile Verhaeren';777;0
+e;12645571;'rue René-Leynaud';777;0
+e;12667505;'rue Fernand-Braudel';777;0
+e;12645572;'rue Vieille-Monnaie';777;0
+e;12623572;'traverser une rue';1;0
+e;12689074;'la loi de la rue';777;0
+e;12694113;'rue de l'Abbé-de-L'Épée';777;0
+e;12694112;'rue Gandon';777;0
+e;12717428;'rue Suffren';777;0
+e;12734327;'rue du Bourg';777;0
+e;12734313;'rue Conchette';777;0
+e;12730134;'rue du Palais-Grillet';777;0
+e;12722391;'Festival international de musique de rue de Thiers';777;0
+e;12714406;'rue en pente';1;0
+e;12710628;'rue Godefroy-Cavaignac';777;0
+e;12701153;'rue Eugène-Poubelle';777;0
+e;14174277;'Double Assassinat dans la rue Morgue';777;0
+e;15330041;'Elle a traversé la rue en courant.';1;0
+e;15364101;'Ils ont changé le nom de la rue.';1;0
+e;14324678;'Cinq femmes dans la rue';777;0
+e;15310903;'Il habite au douze bis rue des Fleurs.';1;0
+e;15791250;'1964 - Dans ma rue';777;0
+e;567781;'rue Militaire';777;50
+e;569781;'Combats de rue';777;50
+e;2484013;'rue à feuilles étroites';1;0
+e;2579893;'basket-ball de rue';777;0
+e;2604128;'hirondelle de la rue Tapis-Vert';1;0
+e;3712809;'traverser la rue';1;2
+e;3911442;'au coin de la rue';1;0
+e;1918548;'fête de rue';1;0
+e;2562043;'micro-rue';1;0
+e;1243026;'Le bagarreur de rue';777;0
+e;2332597;'rue des Lices';777;0
+e;2541741;'faire la rue Michel';1;0
+e;2532364;'rue puante';1;4
+e;2600202;'rue d'Alep';1;0
+e;4232238;'luge de rue';1;0
+e;440930;'petite rue';1;50
+e;2548909;'tout-à-la-rue';1;0
+e;3290098;'rue d'Egypte';1;0
+e;7648394;'La Maison au bout de la rue';1;0
+e;570974;'rue Saint-Pierre';777;50
+e;2485161;'rue vineuse';1;4
+e;4317063;'rue Mstislav-Rostropovitch';777;0
+e;2531867;'pignon à rue';1;0
+e;2499446;'rue de Chalep';1;0
+e;2498997;'herbe de la rue';1;0
+e;2587387;'danse de rue';1;0
+e;5128795;'rue Saint-Guillaume';1;0
+e;1675302;'rue du Faubourg-Saint-Antoine';1;0
+e;1695824;'jeter à la rue';1;0
+e;2357184;'rue de Belleville';1;0
+e;5521463;'groupe de musique de rue';1;0
+e;91709;'Scène de rue: le Kurfürstendamm';1;50
+e;1748850;'village-rue';777;0
+e;2535504;'rue des jardiniers';1;4
+e;2522388;'rue de Jérusalem';1;0
+e;2604154;'l'homme de la rue';1;0
+e;2902407;'rue de Syrie';777;0
+e;3750452;'rue Saint-Maur';777;0
+e;458744;'nom de rue';1;52
+e;1190114;'photographe de rue';1;0
+e;1918646;'la ville en rue libre';777;0
+e;3367598;'poulet en gelée façon rue de la concorde';1;0
+e;3750650;'rue du Bac';777;0
+e;6596561;'rue de la Jeunesse';777;0
+e;2927722;'rue domestique';1;50
+e;3304599;'Art de rue';777;0
+e;1894815;'contesté dans la rue';1;0
+e;386992;'village rue';1;50
+e;363069;'manifestation de rue';1;50
+e;343328;'chaîne de rue';1;50
+e;388932;'à tous les coins de rue';1;50
+e;338123;'bagarre de rue';1;50
+e;382001;'sur rue';1;50
+e;377135;'rue adjacente';1;50
+e;346263;'dans la rue';1;10
+e;371048;'plaque de rue';1;50
+e;377138;'rue de village';1;50
+e;335349;'angle de rue';1;50
+e;377141;'rue passante';1;50
+e;377140;'rue marchande';1;50
+e;340473;'bruits de la rue';1;50
+e;377139;'rue déserte';1;50
+e;377136;'rue chaude';1;50
+e;384190;'tournant de rue';1;50
+e;377145;'rue traversière';1;50
+e;377143;'rue animée';1;50
+e;377142;'rue principale';1;50
+e;377137;'rue de traverse';1;50
+e;365337;'mouvement de rue';1;50
+e;393219;'rue de Paradis';1;50
+e;114072;'grand-rue';1;50
+e;311765;'rue-balise';777;50
+e;330729;'rue d'Ulm';1;52
+e;330730;'rue de la Pompe';1;50
+e;329382;'scène de rue';1;50
+e;317622;'rue de Vaugirard';1;50
+e;317632;'rue du Cherche-Midi';1;50
+e;231444;'La rue Kétanou';1;50
+e;248239;'en pleine rue';1;50
+e;100856;'à chaque coin de rue';1;50
+e;168423;'rue de nuages';1;50
+e;220537;'rue de la Ferronnerie';1;50
+e;228575;'arts de la rue';1;4
+e;231102;'art de rue';1;50
+e;231177;'artiste de rue';1;6
+e;236623;'homme de la rue';1;4
+e;239500;'rue Saint-Denis';1;50
+e;241311;'rue commerçante';1;56
+e;241724;'rue de Valois';1;50
+e;242379;'rue de Rivoli';1;58
+e;245379;'coin de la rue';1;2
+e;245621;'spectacle de rue';1;4
+e;247156;'rue Watt';1;50
+e;252528;'rue Royale';1;50
+e;255153;'rue du Faubourg-Saint-Honoré';1;50
+e;256377;'rue pavée';1;52
+e;263209;'Double assassinat dans la rue Morgue';1;50
+e;263620;'coin de rue';1;50
+e;55233;'à la rue';1;70
+e;95139;'La Légion de la rue';1;50
+e;123527;'Le Crime de la rue des Notables';1;50
+e;141411;'L'Assassinat de la rue Morgue';1;50
+e;142594;'L'Étranger, Mon légionnaire, Elle descendait la rue Pigalle';1;50
+e;142798;'L'Accordéoniste, De l'autre côté d'la rue';1;50
+e;161058;'bord de rue';1;54
+e;165184;'rue de la Paix';1;64
+e;166446;'rue piétonne';1;86
+e;170670;'rue fétide';1;54
+e;204279;'ne pas se rencontrer à tous les coins de rue';1;50
+e;215056;'rue des murailles';1;50
+e;289480;'L'Homme de la rue';1;50
+e;41497;'588 rue Paradis';1;50
+e;42368;'27, rue Jacob';1;50
+e;81359;'rue sans issue';1;52
+e;84993;'Cinq Femmes dans la rue';1;50
+e;152989;'chanteur de rue';1;50
+e;157913;'théâtre de rue';1;82
+e;183260;'mobilier de rue';1;50
+e;183263;'mode de la rue';1;50
+e;183867;'prix de la rue';1;50
+e;184149;'rue fermée';1;50
+e;184150;'rue piétonnière';1;8
+e;184562;'tout à la rue';1;50
+e;265339;'cuisine de rue';1;8
+e;268080;'pression de la rue';1;50
+e;271089;'art de la rue';1;50
+e;279637;'Asplénie rue des murailles';777;50
+e;281457;'120 rue de la Gare';1;50
+e;305805;'rue des jardins';777;52
+e;185687;'avoir pignon sur rue';1;16
+e;185910;'descendre dans la rue';1;54
+e;190057;'rue officinale';1;54
+e;197746;'combat de rue';1;50
+e;200801;'fausse rue';1;50
+e;152323;'être à la rue';1;82
+r;423482229;20564;16151906;11;25
+r;403450575;20564;15692069;11;25
+r;403402483;20564;15688731;11;25
+r;301450915;20564;6339168;11;25
+r;301484946;20564;6341703;11;25
+r;303534565;20564;6374045;11;25
+r;303624859;20564;6376140;11;25
+r;305129382;20564;6398650;11;25
+r;317047187;20564;12209504;11;25
+r;337348400;20564;12983193;11;25
+r;337352431;20564;12978443;11;25
+r;337352464;20564;12978432;11;25
+r;337352511;20564;12978415;11;25
+r;337352551;20564;12978377;11;25
+r;343391189;20564;13547668;11;25
+r;344116694;20564;13588401;11;25
+r;344123914;20564;13588402;11;25
+r;344124479;20564;13588400;11;25
+r;344140204;20564;13588680;11;25
+r;345468155;20564;13629080;11;25
+r;345762211;20564;13634349;11;25
+r;346902923;20564;13656022;11;25
+r;346902962;20564;13656026;11;25
+r;346973929;20564;13656633;11;25
+r;347131984;20564;13665327;11;25
+r;347178370;20564;13666374;11;25
+r;347298456;20564;13677812;11;25
+r;348298183;20564;13736686;11;25
+r;348739489;20564;13763479;11;25
+r;348948090;20564;13805752;11;25
+r;349256752;20564;13811098;11;25
+r;349382742;20564;13814778;11;25
+r;350105720;20564;13853940;11;25
+r;350123700;20564;13854283;11;25
+r;352236710;20564;13988730;11;25
+r;354987960;20564;14048194;11;25
+r;357629875;20564;14119741;11;25
+r;358270485;20564;14132892;11;25
+r;359146050;20564;14152380;11;25
+r;359703836;20564;14159402;11;25
+r;360135008;20564;14163118;11;25
+r;361475333;20564;14250659;11;25
+r;364355837;20564;14317948;11;25
+r;365045811;20564;14365971;11;25
+r;365163473;20564;14376845;11;25
+r;365857376;20564;14400478;11;25
+r;365857781;20564;14400473;11;25
+r;365860900;20564;14400503;11;25
+r;365960716;20564;14400486;11;25
+r;365962372;20564;14400471;11;25
+r;370289108;20564;14567204;11;25
+r;370336352;20564;14567517;11;25
+r;371660568;20564;14630576;11;25
+r;372979806;20564;14668474;11;25
+r;384834385;20564;14861300;11;25
+r;393557704;20564;15164959;11;25
+r;395703319;20564;15469557;11;25
+r;403721057;20564;15695404;11;25
+r;414783797;20564;15941070;11;25
+r;418744974;20564;16070782;11;25
+r;419103258;20564;16084266;11;25
+r;419492310;20564;14485690;11;25
+r;419524429;20564;15688709;11;25
+r;419526796;20564;15779680;11;25
+r;419552626;20564;15941156;11;25
+r;419552644;20564;15941159;11;25
+r;419554555;20564;15387569;11;25
+r;419557447;20564;15295051;11;25
+r;419558016;20564;15943741;11;25
+r;419575298;20564;15521306;11;25
+r;419586572;20564;15315589;11;25
+r;419586743;20564;15361734;11;25
+r;419586966;20564;15361732;11;25
+r;419591177;20564;15523466;11;25
+r;419648423;20564;15198891;11;25
+r;419648919;20564;15245502;11;25
+r;419686682;20564;15254231;11;25
+r;419699767;20564;15200346;11;25
+r;419735356;20564;15256750;11;25
+r;419758589;20564;15414568;11;25
+r;419768114;20564;15543795;11;25
+r;419768118;20564;15685750;11;25
+r;419773443;20564;15569033;11;25
+r;419775916;20564;15414574;11;25
+r;419837528;20564;15570467;11;25
+r;420330583;20564;16105641;11;25
+r;423304163;20564;16133189;11;25
+r;426924730;20564;16272583;11;25
+r;426939339;20564;16272584;11;25
+r;427335879;20564;16288758;11;25
+r;428459303;20564;16311472;11;25
+r;428483293;20564;16311717;11;25
+r;428777214;20564;16314988;11;25
+r;428837574;20564;16316421;11;25
+r;428878709;20564;16318070;11;25
+r;432018892;20564;16358874;11;25
+r;316336480;20564;12198512;11;26
+r;332115818;20564;12917151;11;26
+r;337341667;20564;12990880;11;26
+r;349217499;20564;6375379;11;26
+r;368762411;20564;14536169;11;26
+r;373169563;20564;14677907;11;26
+r;370723791;20564;14590066;11;26
+r;373064906;20564;14670937;11;26
+r;374050960;20564;14716912;11;26
+r;374051270;20564;14716937;11;26
+r;374307697;20564;14722199;11;26
+r;393964478;20564;15039325;11;26
+r;400074241;20564;15594508;11;26
+r;414797681;20564;15941158;11;26
+r;419491032;20564;15361738;11;26
+r;270780949;20564;10673112;11;27
+r;267324801;20564;10665529;11;27
+r;267326717;20564;10664264;11;27
+r;267329172;20564;10663322;11;27
+r;267331323;20564;10624527;11;27
+r;267340361;20564;10621605;11;27
+r;267340365;20564;10621604;11;27
+r;267340369;20564;10621603;11;27
+r;267340374;20564;10621602;11;27
+r;267340378;20564;10621601;11;27
+r;267340390;20564;10621599;11;27
+r;267342389;20564;10620967;11;27
+r;305269019;20564;6402793;11;27
+r;331855865;20564;12953102;11;27
+r;333832660;20564;12990133;11;27
+r;343042753;20564;13534641;11;27
+r;343042674;20564;13534853;11;27
+r;119662266;20564;6089225;11;28
+r;267342394;20564;10620966;11;28
+r;274300474;20564;10901469;11;28
+r;277362637;20564;10986468;11;28
+r;278967078;20564;10987768;11;28
+r;331241919;20564;12903349;11;28
+r;337340361;20564;13024366;11;28
+r;342703099;20564;13527258;11;28
+r;342786459;20564;13534474;11;28
+r;264464718;20564;10590391;11;29
+r;264467301;20564;10589768;11;29
+r;264467306;20564;10589767;11;29
+r;264507183;20564;10603119;11;29
+r;272773838;20564;10874702;11;29
+r;272773844;20564;10874701;11;29
+r;272774597;20564;10874523;11;29
+r;277361718;20564;10986674;11;29
+r;277400905;20564;10987639;11;29
+r;277449360;20564;10988570;11;29
+r;301855930;20564;11769797;11;29
+r;301864498;20564;11769986;11;29
+r;301898656;20564;11770300;11;29
+r;302080540;20564;11769710;11;29
+r;302319919;20564;11775349;11;29
+r;331188159;20564;12904601;11;29
+r;342420703;20564;13518394;11;29
+r;389609858;20564;14895414;11;29
+r;122686101;20564;6431248;11;30
+r;220842873;20564;9959136;11;30
+r;220843158;20564;9959147;11;30
+r;220843657;20564;9959137;11;30
+r;220843723;20564;9959182;11;30
+r;220844326;20564;9959146;11;30
+r;220844518;20564;9959145;11;30
+r;220844545;20564;9959139;11;30
+r;220844587;20564;9959144;11;30
+r;220844654;20564;9959183;11;30
+r;220844734;20564;9959141;11;30
+r;220845045;20564;9959216;11;30
+r;220846323;20564;9959203;11;30
+r;220847398;20564;9959143;11;30
+r;220847747;20564;9959197;11;30
+r;220848494;20564;9959142;11;30
+r;220848679;20564;9959192;11;30
+r;220850564;20564;9959234;11;30
+r;220850932;20564;9959263;11;30
+r;220851681;20564;9959135;11;30
+r;220852525;20564;9959243;11;30
+r;220852868;20564;9959241;11;30
+r;220853713;20564;9959242;11;30
+r;220854826;20564;9959229;11;30
+r;220855004;20564;9959138;11;30
+r;220856320;20564;9959415;11;30
+r;220857448;20564;9959420;11;30
+r;220857906;20564;9959394;11;30
+r;220858164;20564;9959441;11;30
+r;220858631;20564;9959443;11;30
+r;220860116;20564;9959419;11;30
+r;220861724;20564;9959447;11;30
+r;220862988;20564;9959445;11;30
+r;220864102;20564;9959396;11;30
+r;220864588;20564;9959413;11;30
+r;220864975;20564;9959426;11;30
+r;220865257;20564;9959401;11;30
+r;220865574;20564;9959265;11;30
+r;220867060;20564;9959397;11;30
+r;220867300;20564;9959435;11;30
+r;220867309;20564;9959427;11;30
+r;220867518;20564;9959457;11;30
+r;220868910;20564;9959402;11;30
+r;220870474;20564;9959418;11;30
+r;220873577;20564;9959191;11;30
+r;220878349;20564;9959452;11;30
+r;220878531;20564;9959642;11;30
+r;220879735;20564;9959643;11;30
+r;220879952;20564;9959468;11;30
+r;220880963;20564;9959644;11;30
+r;220881748;20564;9959662;11;30
+r;220884177;20564;9959646;11;30
+r;220884203;20564;9959442;11;30
+r;220884335;20564;9959663;11;30
+r;220887792;20564;9959439;11;30
+r;220888313;20564;9960602;11;30
+r;220889376;20564;9959647;11;30
+r;220890994;20564;9960601;11;30
+r;220937323;20564;9960990;11;30
+r;220967604;20564;9961702;11;30
+r;220972353;20564;9961754;11;30
+r;220986203;20564;9961753;11;30
+r;220986945;20564;9961924;11;30
+r;220992233;20564;9961778;11;30
+r;222106496;20564;9976823;11;30
+r;222152804;20564;9986325;11;30
+r;227094337;20564;9991396;11;30
+r;227667364;20564;10000218;11;30
+r;263795114;20564;10587860;11;30
+r;264435440;20564;10601981;11;30
+r;264441013;20564;10599896;11;30
+r;264442102;20564;10599292;11;30
+r;264452035;20564;10595107;11;30
+r;264452317;20564;10594962;11;30
+r;264452373;20564;10594952;11;30
+r;264452678;20564;10594674;11;30
+r;269461844;20564;10732967;11;30
+r;274267958;20564;10909482;11;30
+r;277228345;20564;10969653;11;30
+r;277546610;20564;10989575;11;30
+r;301999013;20564;11771337;11;30
+r;302010514;20564;11771387;11;30
+r;302010698;20564;11771309;11;30
+r;337339492;20564;13034291;11;30
+r;122732865;20564;6425208;11;31
+r;220852919;20564;9959140;11;31
+r;220852954;20564;9959215;11;31
+r;220859158;20564;9959400;11;31
+r;220882838;20564;9959645;11;31
+r;220888963;20564;9959411;11;31
+r;220891373;20564;9960605;11;31
+r;221175721;20564;9963539;11;31
+r;221191401;20564;9963558;11;31
+r;221201739;20564;9963719;11;31
+r;221204153;20564;9963880;11;31
+r;221290439;20564;9966585;11;31
+r;221310079;20564;9966485;11;31
+r;221327654;20564;9966823;11;31
+r;221468858;20564;9973212;11;31
+r;221469108;20564;9972724;11;31
+r;221469142;20564;9972711;11;31
+r;221469193;20564;9972696;11;31
+r;221469200;20564;9972695;11;31
+r;221481971;20564;9967488;11;31
+r;222103396;20564;9980415;11;31
+r;222105104;20564;9979541;11;31
+r;227658049;20564;10004852;11;31
+r;227665347;20564;10001503;11;31
+r;227667335;20564;10000226;11;31
+r;227667343;20564;10000224;11;31
+r;227667387;20564;10000210;11;31
+r;276894621;20564;10968676;11;31
+r;263694362;20564;10584646;11;31
+r;263703662;20564;10578833;11;31
+r;272652440;20564;10871176;11;31
+r;276977847;20564;10969634;11;31
+r;276979549;20564;10969624;11;31
+r;276981287;20564;10969695;11;31
+r;277122616;20564;10971677;11;31
+r;279995004;20564;11055760;11;31
+r;279733190;20564;11034699;11;31
+r;279747054;20564;11035119;11;31
+r;279748808;20564;11035118;11;31
+r;279749521;20564;11035091;11;31
+r;302370879;20564;11776254;11;31
+r;319950775;20564;12320422;11;31
+r;320428794;20564;12321321;11;31
+r;110206020;20564;5564487;11;32
+r;110206161;20564;5564423;11;32
+r;110207088;20564;5564089;11;32
+r;111464217;20564;5678822;11;32
+r;220277475;20564;9944770;11;32
+r;221346461;20564;9966794;11;32
+r;221484173;20564;9966828;11;32
+r;227635019;20564;10031252;11;32
+r;227647584;20564;10011564;11;32
+r;276639904;20564;10961252;11;32
+r;276643638;20564;10959014;11;32
+r;263666945;20564;10584999;11;32
+r;276018242;20564;10955700;11;32
+r;274264536;20564;10910380;11;32
+r;274973502;20564;10921681;11;32
+r;274975148;20564;10921316;11;32
+r;274975160;20564;10921314;11;32
+r;274980955;20564;10920219;11;32
+r;277685691;20564;10991759;11;32
+r;279449556;20564;11028865;11;32
+r;280533206;20564;11060754;11;32
+r;280533211;20564;11060753;11;32
+r;280533217;20564;11060752;11;32
+r;283111490;20564;11079128;11;32
+r;291206266;20564;11357043;11;32
+r;291246454;20564;11358509;11;32
+r;291253658;20564;11358797;11;32
+r;293503699;20564;11407376;11;32
+r;293504118;20564;11407275;11;32
+r;303722125;20564;11784402;11;32
+r;305218309;20564;11822748;11;32
+r;305335915;20564;11823789;11;32
+r;311871047;20564;11981377;11;32
+r;312453777;20564;11994434;11;32
+r;312454241;20564;11994450;11;32
+r;312459722;20564;11994505;11;32
+r;320010862;20564;12321510;11;32
+r;320157231;20564;12321311;11;32
+r;227614775;20564;10037421;11;33
+r;227614780;20564;10037420;11;33
+r;227614784;20564;10037417;11;33
+r;227626378;20564;10033584;11;33
+r;227626388;20564;10033582;11;33
+r;227626393;20564;10033581;11;33
+r;227626414;20564;10033576;11;33
+r;227628545;20564;10032908;11;33
+r;227628550;20564;10032907;11;33
+r;276218333;20564;10961441;11;33
+r;275683774;20564;10942355;11;33
+r;275683785;20564;10942353;11;33
+r;275683813;20564;10942349;11;33
+r;275683795;20564;10942351;11;33
+r;275683790;20564;10942352;11;33
+r;263403405;20564;10577025;11;33
+r;277922208;20564;10994639;11;33
+r;280419088;20564;11063211;11;33
+r;280749798;20564;11072506;11;33
+r;280843930;20564;11076846;11;33
+r;280844097;20564;11076798;11;33
+r;280844350;20564;11076833;11;33
+r;280844580;20564;11076836;11;33
+r;280845937;20564;11076834;11;33
+r;280846050;20564;11076639;11;33
+r;280850735;20564;11077017;11;33
+r;280851350;20564;11077018;11;33
+r;280851458;20564;11076985;11;33
+r;280855583;20564;11077015;11;33
+r;280971667;20564;11079124;11;33
+r;280974740;20564;11079129;11;33
+r;283108809;20564;11089871;11;33
+r;283108927;20564;11083511;11;33
+r;283109059;20564;11083406;11;33
+r;283109410;20564;11082977;11;33
+r;283109520;20564;11082941;11;33
+r;283109586;20564;11082897;11;33
+r;283109636;20564;11082859;11;33
+r;290791406;20564;11349192;11;33
+r;290826437;20564;11349551;11;33
+r;291107822;20564;11354708;11;33
+r;293017376;20564;11405351;11;33
+r;293018199;20564;11405335;11;33
+r;293189974;20564;11406574;11;33
+r;302968734;20564;11786229;11;33
+r;303649020;20564;11787650;11;33
+r;305632612;20564;11826413;11;33
+r;312577635;20564;11994925;11;33
+r;312578666;20564;11994926;11;33
+r;313607959;20564;12032752;11;33
+r;313607964;20564;12032747;11;33
+r;320428417;20564;12330367;11;33
+r;432018733;20564;16358876;11;33
+r;115838182;20564;5922249;11;34
+r;116572396;20564;5962236;11;34
+r;275823240;20564;10954207;11;34
+r;275823249;20564;10954205;11;34
+r;269389252;20564;10747056;11;34
+r;269389257;20564;10747055;11;34
+r;269393305;20564;10744975;11;34
+r;272188008;20564;10850744;11;34
+r;272188146;20564;10850720;11;34
+r;272518110;20564;10866789;11;34
+r;272521664;20564;10865446;11;34
+r;272522621;20564;10865126;11;34
+r;274966147;20564;10928956;11;34
+r;275358447;20564;10937591;11;34
+r;277856059;20564;10994253;11;34
+r;281175728;20564;11082805;11;34
+r;281179005;20564;11082942;11;34
+r;281179095;20564;11082863;11;34
+r;281185806;20564;11083045;11;34
+r;281186720;20564;11083044;11;34
+r;281189142;20564;11083113;11;34
+r;281191336;20564;11083051;11;34
+r;281194720;20564;11083187;11;34
+r;281195328;20564;11083192;11;34
+r;281204289;20564;11083277;11;34
+r;281206678;20564;11083315;11;34
+r;281211667;20564;11083512;11;34
+r;281212388;20564;11083515;11;34
+r;281242382;20564;11083536;11;34
+r;281244886;20564;11083527;11;34
+r;281248611;20564;11083531;11;34
+r;281248708;20564;11083530;11;34
+r;281248959;20564;11089711;11;34
+r;281252867;20564;11089607;11;34
+r;281252920;20564;11083539;11;34
+r;281257224;20564;11089608;11;34
+r;290724036;20564;11347686;11;34
+r;291991534;20564;11360916;11;34
+r;291991539;20564;11360915;11;34
+r;300953137;20564;11752133;11;34
+r;300954006;20564;11709638;11;34
+r;304868758;20564;11815224;11;34
+r;304871484;20564;11815229;11;34
+r;304873758;20564;11815230;11;34
+r;305372438;20564;11824410;11;34
+r;305391537;20564;11824937;11;34
+r;305407515;20564;11825179;11;34
+r;305413530;20564;11825178;11;34
+r;305432961;20564;11825177;11;34
+r;305630124;20564;11827826;11;34
+r;313342587;20564;12032746;11;34
+r;313342611;20564;12032745;11;34
+r;313342681;20564;12032761;11;34
+r;313343126;20564;12032744;11;34
+r;313343207;20564;12032760;11;34
+r;313343541;20564;12032749;11;34
+r;319704677;20564;12303788;11;34
+r;330764437;20564;12863268;11;34
+r;330764442;20564;12863266;11;34
+r;417033447;20564;15525834;11;34
+r;417033453;20564;15561135;11;34
+r;417033459;20564;15217185;11;34
+r;113282403;20564;5809058;11;35
+r;118934974;20564;6064022;11;35
+r;270914511;20564;10835501;11;35
+r;270762025;20564;10831808;11;35
+r;269384252;20564;10748900;11;35
+r;269384268;20564;10748896;11;35
+r;269384273;20564;10748895;11;35
+r;269384276;20564;10748894;11;35
+r;269384280;20564;10748893;11;35
+r;269384283;20564;10748892;11;35
+r;269384286;20564;10748891;11;35
+r;269384289;20564;10748890;11;35
+r;269384292;20564;10748889;11;35
+r;269384299;20564;10748887;11;35
+r;269384303;20564;10748886;11;35
+r;269384306;20564;10748885;11;35
+r;269384316;20564;10748882;11;35
+r;269384324;20564;10748880;11;35
+r;269384329;20564;10748879;11;35
+r;269384332;20564;10748878;11;35
+r;269384351;20564;10748873;11;35
+r;269384375;20564;10748867;11;35
+r;269384410;20564;10748859;11;35
+r;269384414;20564;10748858;11;35
+r;269384419;20564;10748857;11;35
+r;269384422;20564;10748856;11;35
+r;269384487;20564;10748839;11;35
+r;269384532;20564;10748829;11;35
+r;269384560;20564;10748823;11;35
+r;269384563;20564;10748822;11;35
+r;269384566;20564;10748821;11;35
+r;269384572;20564;10748818;11;35
+r;269384575;20564;10748817;11;35
+r;269384582;20564;10748814;11;35
+r;269384585;20564;10748813;11;35
+r;269384590;20564;10748812;11;35
+r;269384595;20564;10748811;11;35
+r;269384606;20564;10748808;11;35
+r;269384611;20564;10748807;11;35
+r;269384614;20564;10748806;11;35
+r;269384617;20564;10748805;11;35
+r;269384620;20564;10748802;11;35
+r;269384623;20564;10748797;11;35
+r;269384631;20564;10748795;11;35
+r;269384640;20564;10748791;11;35
+r;269384643;20564;10748789;11;35
+r;269384646;20564;10748788;11;35
+r;269384649;20564;10748787;11;35
+r;269384652;20564;10748786;11;35
+r;269384655;20564;10748785;11;35
+r;269384660;20564;10748784;11;35
+r;269384665;20564;10748783;11;35
+r;269384703;20564;10748774;11;35
+r;269384765;20564;10748760;11;35
+r;271591501;20564;10842402;11;35
+r;271591509;20564;10842400;11;35
+r;271595738;20564;10840806;11;35
+r;271599192;20564;10840034;11;35
+r;271599374;20564;10839981;11;35
+r;271600202;20564;10839478;11;35
+r;272181644;20564;10852217;11;35
+r;272183373;20564;10851787;11;35
+r;272183686;20564;10851681;11;35
+r;272183722;20564;10851678;11;35
+r;272183813;20564;10851663;11;35
+r;274959235;20564;10930346;11;35
+r;274959770;20564;10930234;11;35
+r;274959774;20564;10930233;11;35
+r;274959780;20564;10930232;11;35
+r;274961539;20564;10929913;11;35
+r;274961544;20564;10929912;11;35
+r;274962753;20564;10929697;11;35
+r;278150303;20564;10997087;11;35
+r;278150307;20564;10997086;11;35
+r;279199365;20564;11021558;11;35
+r;279214585;20564;11021735;11;35
+r;281193266;20564;11083117;11;35
+r;291988413;20564;11362333;11;35
+r;291989018;20564;11361609;11;35
+r;291989023;20564;11361608;11;35
+r;291989028;20564;11361607;11;35
+r;291991501;20564;11360923;11;35
+r;295154592;20564;11455691;11;35
+r;312714884;20564;11997303;11;35
+r;312702239;20564;11996345;11;35
+r;312862933;20564;12005270;11;35
+r;313407371;20564;12033380;11;35
+r;314059323;20564;12067879;11;35
+r;314446923;20564;12074220;11;35
+r;314488707;20564;12074995;11;35
+r;315108692;20564;12081214;11;35
+r;319167673;20564;12289628;11;35
+r;319624915;20564;12303008;11;35
+r;319626415;20564;12303097;11;35
+r;319638457;20564;12303285;11;35
+r;329488375;20564;12863293;11;35
+r;329488601;20564;12863280;11;35
+r;337338258;20564;13133610;11;35
+r;337338268;20564;13133555;11;35
+r;337338273;20564;13133554;11;35
+r;417031401;20564;15207250;11;35
+r;115911932;20564;5938068;11;36
+r;117914569;20564;5980030;11;36
+r;252664587;20564;10316067;11;36
+r;252661375;20564;10317344;11;36
+r;252663596;20564;10316441;11;36
+r;252674430;20564;10313129;11;36
+r;253384397;20564;10335710;11;36
+r;253388701;20564;10334655;11;36
+r;253388706;20564;10334654;11;36
+r;253388710;20564;10334653;11;36
+r;253392972;20564;10328005;11;36
+r;268996249;20564;10747861;11;36
+r;270357297;20564;10828112;11;36
+r;270357305;20564;10828110;11;36
+r;270435709;20564;10830974;11;36
+r;271825194;20564;10849298;11;36
+r;271825202;20564;10849297;11;36
+r;271825211;20564;10849295;11;36
+r;271825216;20564;10849294;11;36
+r;271825221;20564;10849293;11;36
+r;271825234;20564;10849290;11;36
+r;271825238;20564;10849289;11;36
+r;271825243;20564;10849288;11;36
+r;271825248;20564;10849287;11;36
+r;271825253;20564;10849286;11;36
+r;271825258;20564;10849285;11;36
+r;271825262;20564;10849284;11;36
+r;271825267;20564;10849283;11;36
+r;271825272;20564;10849282;11;36
+r;271825277;20564;10849281;11;36
+r;271825281;20564;10849280;11;36
+r;271825285;20564;10849279;11;36
+r;271825291;20564;10849278;11;36
+r;271825297;20564;10849277;11;36
+r;271825335;20564;10849272;11;36
+r;271825378;20564;10849264;11;36
+r;271826066;20564;10849113;11;36
+r;277947971;20564;10997251;11;36
+r;279246614;20564;11022941;11;36
+r;279319549;20564;11022942;11;36
+r;281361816;20564;11094873;11;36
+r;290675619;20564;11344081;11;36
+r;291570630;20564;11361668;11;36
+r;294386343;20564;11453840;11;36
+r;294422164;20564;11454278;11;36
+r;294429298;20564;11454277;11;36
+r;295325335;20564;11501501;11;36
+r;295628439;20564;11502808;11;36
+r;297668587;20564;11577567;11;36
+r;312941744;20564;12006520;11;36
+r;312951882;20564;12006870;11;36
+r;312953642;20564;12006864;11;36
+r;313457572;20564;12034050;11;36
+r;313649167;20564;12049250;11;36
+r;315109406;20564;12081065;11;36
+r;315111344;20564;12080708;11;36
+r;335746295;20564;13133558;11;36
+r;112189825;20564;5688356;11;37
+r;113286865;20564;5808044;11;37
+r;118934990;20564;6064019;11;37
+r;227593670;20564;10045521;11;37
+r;253383433;20564;10335977;11;37
+r;270206864;20564;10821334;11;37
+r;270207571;20564;10821170;11;37
+r;270211438;20564;10791489;11;37
+r;270211490;20564;10791481;11;37
+r;270357301;20564;10828111;11;37
+r;271770094;20564;10847479;11;37
+r;271770098;20564;10847478;11;37
+r;271770824;20564;10847166;11;37
+r;288554863;20564;11258572;11;37
+r;290538966;20564;11341812;11;37
+r;290572773;20564;11341953;11;37
+r;290604313;20564;11343184;11;37
+r;291816718;20564;11362967;11;37
+r;291816754;20564;11362960;11;37
+r;291816758;20564;11362959;11;37
+r;292662047;20564;11393219;11;37
+r;292662051;20564;11393218;11;37
+r;292662288;20564;11392919;11;37
+r;293770097;20564;11416106;11;37
+r;295377571;20564;11502025;11;37
+r;296500374;20564;11543762;11;37
+r;296500380;20564;11543761;11;37
+r;296500386;20564;11543759;11;37
+r;296500398;20564;11543757;11;37
+r;298270533;20564;11590611;11;37
+r;306355543;20564;11834629;11;37
+r;306701144;20564;11840121;11;37
+r;307767005;20564;11932707;11;37
+r;308240348;20564;11938004;11;37
+r;313896308;20564;12058753;11;37
+r;335870483;20564;13135949;11;37
+r;340719577;20564;13424698;11;37
+r;219852368;20564;9931023;11;38
+r;269536822;20564;10773899;11;38
+r;243207354;20564;10193619;11;38
+r;247436388;20564;10297985;11;38
+r;253378540;20564;10343600;11;38
+r;254179961;20564;10346523;11;38
+r;254181981;20564;10345602;11;38
+r;254267165;20564;10353603;11;38
+r;254596541;20564;10364091;11;38
+r;288383451;20564;11248629;11;38
+r;288383553;20564;11248609;11;38
+r;288383560;20564;11248608;11;38
+r;288383648;20564;11248591;11;38
+r;288384377;20564;11248446;11;38
+r;288384384;20564;11248445;11;38
+r;288385337;20564;11248112;11;38
+r;288385627;20564;11247968;11;38
+r;288505976;20564;11256027;11;38
+r;288506240;20564;11255992;11;38
+r;288506253;20564;11255989;11;38
+r;288506288;20564;11255980;11;38
+r;289064585;20564;11295310;11;38
+r;289890777;20564;11296068;11;38
+r;289890902;20564;11296025;11;38
+r;290402513;20564;11329731;11;38
+r;290432630;20564;11335584;11;38
+r;290550303;20564;11341952;11;38
+r;290552562;20564;11341951;11;38
+r;290557640;20564;11342105;11;38
+r;290560507;20564;11342106;11;38
+r;290568838;20564;11342325;11;38
+r;291813134;20564;11364088;11;38
+r;291813138;20564;11364087;11;38
+r;292553496;20564;11392473;11;38
+r;292646429;20564;11393591;11;38
+r;292653072;20564;11393712;11;38
+r;292660717;20564;11393824;11;38
+r;295986559;20564;11518905;11;38
+r;295992293;20564;11519069;11;38
+r;296412767;20564;11543742;11;38
+r;296413153;20564;11543753;11;38
+r;306338072;20564;11838232;11;38
+r;109651693;20564;5536688;11;39
+r;113285892;20564;5808260;11;39
+r;227577788;20564;10050452;11;39
+r;227582895;20564;10049606;11;39
+r;227588180;20564;10046575;11;39
+r;227588377;20564;10046545;11;39
+r;232100337;20564;10063698;11;39
+r;254167965;20564;10352562;11;39
+r;254168022;20564;10352550;11;39
+r;254168049;20564;10352541;11;39
+r;254171170;20564;10351074;11;39
+r;254171174;20564;10351073;11;39
+r;254171178;20564;10351072;11;39
+r;254171186;20564;10351070;11;39
+r;254171200;20564;10351067;11;39
+r;254171204;20564;10351066;11;39
+r;254171208;20564;10351065;11;39
+r;254171212;20564;10351063;11;39
+r;254171257;20564;10351056;11;39
+r;254171263;20564;10351055;11;39
+r;254171275;20564;10351053;11;39
+r;254171279;20564;10351052;11;39
+r;254171287;20564;10351051;11;39
+r;254171291;20564;10351050;11;39
+r;254171299;20564;10351048;11;39
+r;254171303;20564;10351047;11;39
+r;254171307;20564;10351046;11;39
+r;254171325;20564;10351023;11;39
+r;254171687;20564;10350867;11;39
+r;254173740;20564;10349545;11;39
+r;254176016;20564;10347799;11;39
+r;254176024;20564;10347797;11;39
+r;254176803;20564;10347560;11;39
+r;254176828;20564;10347553;11;39
+r;254178394;20564;10347039;11;39
+r;254179868;20564;10346544;11;39
+r;254179874;20564;10346543;11;39
+r;254180579;20564;10346374;11;39
+r;254595350;20564;10364377;11;39
+r;255388850;20564;10422318;11;39
+r;263166308;20564;10557099;11;39
+r;269376819;20564;10752880;11;39
+r;269867024;20564;10787548;11;39
+r;278923416;20564;11012562;11;39
+r;288382139;20564;11250185;11;39
+r;288383140;20564;11248696;11;39
+r;288383147;20564;11248695;11;39
+r;288383151;20564;11248694;11;39
+r;288383176;20564;11248689;11;39
+r;288383181;20564;11248688;11;39
+r;288383186;20564;11248687;11;39
+r;288383191;20564;11248685;11;39
+r;288383218;20564;11248679;11;39
+r;288383272;20564;11248672;11;39
+r;288383303;20564;11248667;11;39
+r;288383315;20564;11248662;11;39
+r;288383346;20564;11248655;11;39
+r;288474376;20564;11255386;11;39
+r;288474392;20564;11255383;11;39
+r;288474396;20564;11255382;11;39
+r;288475046;20564;11255218;11;39
+r;289017769;20564;11295322;11;39
+r;290210459;20564;11329775;11;39
+r;290227102;20564;11330089;11;39
+r;290265208;20564;11330550;11;39
+r;290278715;20564;11330596;11;39
+r;290421999;20564;11335587;11;39
+r;290422409;20564;11335583;11;39
+r;290424701;20564;11335585;11;39
+r;290424916;20564;11335582;11;39
+r;290425244;20564;11335594;11;39
+r;291812350;20564;11364276;11;39
+r;291812395;20564;11364266;11;39
+r;291812399;20564;11364265;11;39
+r;291812404;20564;11364264;11;39
+r;291812408;20564;11364263;11;39
+r;291812412;20564;11364262;11;39
+r;291812416;20564;11364261;11;39
+r;291812423;20564;11364260;11;39
+r;291812701;20564;11364196;11;39
+r;291812952;20564;11364135;11;39
+r;291812957;20564;11364134;11;39
+r;292062366;20564;11383657;11;39
+r;295856014;20564;11518243;11;39
+r;295959923;20564;11518754;11;39
+r;295986144;20564;11519000;11;39
+r;340517823;20564;13388064;11;39
+r;219618726;20564;9913139;11;40
+r;227587308;20564;10046790;11;40
+r;254918997;20564;10383452;11;40
+r;254919285;20564;10383280;11;40
+r;262201504;20564;10518207;11;40
+r;262885945;20564;10548825;11;40
+r;262885968;20564;10548818;11;40
+r;263063902;20564;10553879;11;40
+r;263064206;20564;10553814;11;40
+r;263064210;20564;10553813;11;40
+r;269373968;20564;10754270;11;40
+r;278901212;20564;11012279;11;40
+r;278904433;20564;11012364;11;40
+r;281569629;20564;11101734;11;40
+r;283714595;20564;11155655;11;40
+r;288116604;20564;11248723;11;40
+r;288117166;20564;11248666;11;40
+r;288119660;20564;11248951;11;40
+r;288120589;20564;11248953;11;40
+r;288260100;20564;11251212;11;40
+r;288261514;20564;11251305;11;40
+r;288274591;20564;11251529;11;40
+r;288280305;20564;11251335;11;40
+r;288284227;20564;11251713;11;40
+r;288285319;20564;11251716;11;40
+r;288285896;20564;11251715;11;40
+r;289404571;20564;11303402;11;40
+r;290396088;20564;11335134;11;40
+r;296853962;20564;11554678;11;40
+r;297601500;20564;11574740;11;40
+r;297918076;20564;11599582;11;40
+r;310696890;20564;11975724;11;40
+r;313744312;20564;12053076;11;40
+r;318921007;20564;12278076;11;40
+r;318922583;20564;12278113;11;40
+r;318926680;20564;12278111;11;40
+r;318931861;20564;12278110;11;40
+r;318933641;20564;12278112;11;40
+r;328289669;20564;12792278;11;40
+r;109889829;20564;5539008;11;41
+r;232079113;20564;10073282;11;41
+r;232079159;20564;10073269;11;41
+r;232468607;20564;10083255;11;41
+r;232473088;20564;10080131;11;41
+r;232473097;20564;10080039;11;41
+r;236684026;20564;10135343;11;41
+r;236689929;20564;10133395;11;41
+r;236692143;20564;10132647;11;41
+r;236692147;20564;10132646;11;41
+r;236692152;20564;10132645;11;41
+r;236692157;20564;10132644;11;41
+r;254589409;20564;10368365;11;41
+r;254589418;20564;10368363;11;41
+r;261018390;20564;10459157;11;41
+r;261018731;20564;10459073;11;41
+r;278874054;20564;11011760;11;41
+r;278246538;20564;11001855;11;41
+r;278736968;20564;11007855;11;41
+r;278737492;20564;11004889;11;41
+r;288120485;20564;11248950;11;41
+r;290162634;20564;11326613;11;41
+r;290162922;20564;11326809;11;41
+r;290392431;20564;11334987;11;41
+r;291966205;20564;11378560;11;41
+r;292093177;20564;11384167;11;41
+r;292428766;20564;11388885;11;41
+r;296652729;20564;11554069;11;41
+r;308817360;20564;11968670;11;41
+r;308649612;20564;11958061;11;41
+r;308899031;20564;11970751;11;41
+r;308938789;20564;11971252;11;41
+r;308948713;20564;11971284;11;41
+r;318922883;20564;12278125;11;41
+r;318927098;20564;12278124;11;41
+r;318929879;20564;12278130;11;41
+r;319038785;20564;12278436;11;41
+r;319038883;20564;12278168;11;41
+r;328232480;20564;12790762;11;41
+r;310259993;20564;11975211;11;42
+r;110075522;20564;5564535;11;42
+r;117867173;20564;5992685;11;42
+r;233030580;20564;10090259;11;42
+r;233034370;20564;10089560;11;42
+r;234229719;20564;10096757;11;42
+r;234230880;20564;10096080;11;42
+r;234741808;20564;10118825;11;42
+r;236679593;20564;10136057;11;42
+r;240637414;20564;10181196;11;42
+r;254700386;20564;10370349;11;42
+r;278420224;20564;11004890;11;42
+r;278465338;20564;11007856;11;42
+r;285612323;20564;11161004;11;42
+r;285646079;20564;11161334;11;42
+r;286018152;20564;11175289;11;42
+r;286020611;20564;11175330;11;42
+r;286020809;20564;11175288;11;42
+r;286024709;20564;11175331;11;42
+r;287245868;20564;11208420;11;42
+r;287575284;20564;11218559;11;42
+r;290116765;20564;11326347;11;42
+r;290121013;20564;11326438;11;42
+r;318927288;20564;12278193;11;42
+r;318933382;20564;12278222;11;42
+r;318934303;20564;12278192;11;42
+r;318934725;20564;12278216;11;42
+r;318935138;20564;12278294;11;42
+r;318936547;20564;12278218;11;42
+r;318936827;20564;12278289;11;42
+r;318937798;20564;12278277;11;42
+r;318938206;20564;12278437;11;42
+r;318939010;20564;12278296;11;42
+r;318957942;20564;12278711;11;42
+r;337474376;20564;13257762;11;42
+r;112660450;20564;5778572;11;43
+r;118509960;20564;6011011;11;43
+r;118936497;20564;6063723;11;43
+r;233276385;20564;10094933;11;43
+r;233276390;20564;10094932;11;43
+r;238920123;20564;10178729;11;43
+r;238927358;20564;10176288;11;43
+r;240634575;20564;10184994;11;43
+r;240635630;20564;10184704;11;43
+r;240635640;20564;10184700;11;43
+r;240635941;20564;10181582;11;43
+r;281704768;20564;11103597;11;43
+r;283178132;20564;11137748;11;43
+r;285738933;20564;11162208;11;43
+r;285743838;20564;11162206;11;43
+r;285747787;20564;11162207;11;43
+r;287221737;20564;11207718;11;43
+r;292168670;20564;11385079;11;43
+r;318936325;20564;12278285;11;43
+r;338929218;20564;13339050;11;43
+r;109879001;20564;5557477;11;44
+r;110809399;20564;5623487;11;44
+r;115911914;20564;5938069;11;44
+r;118936664;20564;6063687;11;44
+r;118938457;20564;6048201;11;44
+r;121398794;20564;6528581;11;44
+r;236661963;20564;10141531;11;44
+r;238098331;20564;10160817;11;44
+r;238103925;20564;10159740;11;44
+r;238114311;20564;10158114;11;44
+r;285408440;20564;11160662;11;44
+r;338237911;20564;13297145;11;44
+r;338506215;20564;13313554;11;44
+r;338507595;20564;13313547;11;44
+r;52182842;20564;2373816;11;45
+r;118506273;20564;6012006;11;45
+r;236658515;20564;10143651;11;45
+r;236658789;20564;10143576;11;45
+r;256301071;20564;10433662;11;45
+r;256658209;20564;10443912;11;45
+r;282496595;20564;11105533;11;45
+r;282496777;20564;11105411;11;45
+r;282496781;20564;11105407;11;45
+r;282496784;20564;11105406;11;45
+r;55816289;20564;2468143;11;46
+r;109880149;20564;5557126;11;46
+r;115095392;20564;5900733;11;46
+r;282477317;20564;11105621;11;46
+r;327885643;20564;12775386;11;46
+r;327885731;20564;12775372;11;46
+r;327885763;20564;12775365;11;46
+r;327885767;20564;12775364;11;46
+r;327885776;20564;12775362;11;46
+r;327885781;20564;12775361;11;46
+r;327885786;20564;12775360;11;46
+r;327885791;20564;12775359;11;46
+r;327885796;20564;12775358;11;46
+r;327885800;20564;12775357;11;46
+r;327885805;20564;12775356;11;46
+r;327885810;20564;12775355;11;46
+r;327885815;20564;12775354;11;46
+r;327885820;20564;12775353;11;46
+r;327885825;20564;12775352;11;46
+r;327885829;20564;12775351;11;46
+r;327885833;20564;12775350;11;46
+r;327885838;20564;12775349;11;46
+r;327885843;20564;12775348;11;46
+r;327885848;20564;12775347;11;46
+r;327885862;20564;12775344;11;46
+r;327885867;20564;12775343;11;46
+r;327885871;20564;12775342;11;46
+r;327885876;20564;12775341;11;46
+r;327885880;20564;12775340;11;46
+r;327885885;20564;12775339;11;46
+r;327885901;20564;12775336;11;46
+r;327887142;20564;12774344;11;46
+r;117871418;20564;5990332;11;47
+r;256291848;20564;10436654;11;47
+r;281833860;20564;11105620;11;47
+r;318534637;20564;12267130;11;47
+r;327621622;20564;12770874;11;47
+r;327621656;20564;12770864;11;47
+r;327621742;20564;12770837;11;47
+r;327621747;20564;12770835;11;47
+r;327621788;20564;12770830;11;47
+r;118510044;20564;6010977;11;48
+r;118934980;20564;6064021;11;48
+r;55694567;20564;2461630;11;49
+r;183023131;20564;8779429;11;50
+r;191744283;20564;8887145;11;50
+r;192798654;20564;8900561;11;50
+r;193239169;20564;8934393;11;50
+r;193854102;20564;8968180;11;50
+r;195372883;20564;9018948;11;50
+r;195416347;20564;9020731;11;50
+r;195749416;20564;9023773;11;50
+r;195811853;20564;9024559;11;50
+r;195815211;20564;9024705;11;50
+r;197534798;20564;9050866;11;50
+r;198315669;20564;9071758;11;50
+r;198319167;20564;9071802;11;50
+r;207167274;20564;9178985;11;50
+r;207168266;20564;9179005;11;50
+r;207193061;20564;9179751;11;50
+r;214990634;20564;9580650;11;50
+r;215858861;20564;9596255;11;50
+r;216162911;20564;9598367;11;50
+r;216652776;20564;9613953;11;50
+r;217987352;20564;9740190;11;50
+r;218177227;20564;9757392;11;50
+r;218201666;20564;9758522;11;50
+r;218536453;20564;9787684;11;50
+r;270918585;20564;10833784;11;50
+r;282187246;20564;11107939;11;50
+r;282293065;20564;11119302;11;50
+r;282296416;20564;11119307;11;50
+r;282296982;20564;11119494;11;50
+r;282299500;20564;11119303;11;50
+r;282300586;20564;11119277;11;50
+r;282300657;20564;11119600;11;50
+r;282301532;20564;11119658;11;50
+r;282301894;20564;11119630;11;50
+r;282303013;20564;11119644;11;50
+r;282305103;20564;11119631;11;50
+r;282307202;20564;11119651;11;50
+r;282307514;20564;11119649;11;50
+r;282309100;20564;11119603;11;50
+r;282310027;20564;11119604;11;50
+r;282312397;20564;11119876;11;50
+r;282312660;20564;11119875;11;50
+r;282312987;20564;11119568;11;50
+r;282313355;20564;11119629;11;50
+r;282323231;20564;11119905;11;50
+r;282532207;20564;11126605;11;50
+r;282532703;20564;11126619;11;50
+r;282552504;20564;11126890;11;50
+r;282718762;20564;11129544;11;50
+r;282734536;20564;11129904;11;50
+r;282734542;20564;11129911;11;50
+r;282734565;20564;11129914;11;50
+r;282735653;20564;11129915;11;50
+r;282776202;20564;11129910;11;50
+r;282859504;20564;11129826;11;50
+r;318221992;20564;12261873;11;50
+r;320899687;20564;12484162;11;50
+r;320907485;20564;12484322;11;50
+r;320907519;20564;12484301;11;50
+r;320907567;20564;12484186;11;50
+r;322958961;20564;12600243;11;50
+r;323644102;20564;12634386;11;50
+r;323914321;20564;12645571;11;50
+r;324932000;20564;12667505;11;50
+r;324934118;20564;12645572;11;50
+r;324936411;20564;12623572;11;50
+r;325087880;20564;12689074;11;50
+r;325494877;20564;12694113;11;50
+r;325494883;20564;12694112;11;50
+r;326817719;20564;12717428;11;50
+r;327319521;20564;12734327;11;50
+r;327319560;20564;12734313;11;50
+r;327321705;20564;12730134;11;50
+r;327325542;20564;12722391;11;50
+r;327327955;20564;12714406;11;50
+r;327328956;20564;12710628;11;50
+r;327329923;20564;12701153;11;50
+r;360416204;20564;14174277;11;50
+r;397497142;20564;15330041;11;50
+r;402112247;20564;15364101;11;50
+r;393997002;20564;14324678;11;50
+r;394543271;20564;15310903;11;50
+r;411263117;20564;15791250;11;50
+r;17160586;20564;567781;11;51
+r;17303415;20564;569781;11;51
+r;52483889;20564;2484013;11;51
+r;52985290;20564;2579893;11;51
+r;55463098;20564;2604128;11;51
+r;92726261;20564;3712809;11;51
+r;95172397;20564;3911442;11;51
+r;30972398;20564;1918548;11;52
+r;52490438;20564;2562043;11;52
+r;22592804;20564;1243026;11;53
+r;34064214;20564;2332597;11;53
+r;52456764;20564;2541741;11;53
+r;52461210;20564;2532364;11;53
+r;55139551;20564;2600202;11;53
+r;95153798;20564;4232238;11;53
+r;16130740;20564;440930;11;54
+r;52497461;20564;2548909;11;54
+r;80660032;20564;3290098;11;54
+r;125597562;20564;7648394;11;54
+r;17542967;20564;570974;11;55
+r;52483300;20564;2485161;11;55
+r;98455324;20564;4317063;11;55
+r;52461466;20564;2531867;11;56
+r;52476692;20564;2499446;11;56
+r;52476935;20564;2498997;11;56
+r;54323315;20564;2587387;11;56
+r;105830367;20564;5128795;11;56
+r;27767952;20564;1675302;11;57
+r;27961735;20564;1695824;11;57
+r;49502836;20564;2357184;11;57
+r;109046661;20564;5521463;11;58
+r;14368102;20564;91709;11;59
+r;28778279;20564;1748850;11;59
+r;52459775;20564;2535504;11;59
+r;52465941;20564;2522388;11;59
+r;55463656;20564;2604154;11;59
+r;71472627;20564;2902407;11;59
+r;93566564;20564;3750452;11;59
+r;16112229;20564;458744;11;60
+r;22252234;20564;1190114;11;60
+r;30974160;20564;1918646;11;60
+r;86169092;20564;3367598;11;60
+r;93568139;20564;3750650;11;60
+r;122162100;20564;6596561;11;60
+r;71769110;20564;2927722;11;61
+r;82887528;20564;3304599;11;63
+r;30552748;20564;1894815;11;65
+r;12553417;20564;386992;11;101
+r;12650189;20564;363069;11;102
+r;12731321;20564;343328;11;102
+r;12546201;20564;388932;11;104
+r;12753161;20564;338123;11;104
+r;12573565;20564;382001;11;105
+r;12593427;20564;377135;11;105
+r;12719047;20564;346263;11;105
+r;12618213;20564;371048;11;106
+r;12593415;20564;377138;11;107
+r;12764325;20564;335349;11;107
+r;12593403;20564;377141;11;108
+r;12593407;20564;377140;11;108
+r;12743347;20564;340473;11;108
+r;12593411;20564;377139;11;109
+r;12593423;20564;377136;11;109
+r;12564773;20564;384190;11;110
+r;12593389;20564;377145;11;110
+r;12593395;20564;377143;11;110
+r;12593399;20564;377142;11;110
+r;12593419;20564;377137;11;110
+r;12640873;20564;365337;11;110
+r;13348529;20564;393219;11;110
+r;11861532;20564;114072;11;122
+r;11847197;20564;311765;11;123
+r;12013526;20564;330729;11;138
+r;12013524;20564;330730;11;138
+r;11603361;20564;329382;11;148
+r;8934485;20564;317622;11;149
+r;8934498;20564;317632;11;149
+r;8699876;20564;231444;11;160
+r;8711607;20564;248239;11;160
+r;8604439;20564;100856;11;161
+r;8631576;20564;168423;11;161
+r;8692296;20564;220537;11;161
+r;8697579;20564;228575;11;161
+r;8699611;20564;231102;11;161
+r;8699685;20564;231177;11;161
+r;8704047;20564;236623;11;161
+r;8706226;20564;239500;11;161
+r;8707044;20564;241311;11;161
+r;8707206;20564;241724;11;161
+r;8707533;20564;242379;11;161
+r;8709411;20564;245379;11;161
+r;8709532;20564;245621;11;161
+r;8710656;20564;247156;11;161
+r;8716137;20564;252528;11;161
+r;8719455;20564;255153;11;161
+r;8721115;20564;256377;11;161
+r;8730358;20564;263209;11;161
+r;8730887;20564;263620;11;161
+r;8588655;20564;55233;11;162
+r;8602361;20564;95139;11;162
+r;8612585;20564;123527;11;162
+r;8620138;20564;141411;11;162
+r;8620655;20564;142594;11;162
+r;8620745;20564;142798;11;162
+r;8627228;20564;161058;11;162
+r;8629470;20564;165184;11;162
+r;8630150;20564;166446;11;162
+r;8633031;20564;170670;11;162
+r;8675113;20564;204279;11;162
+r;8689620;20564;215056;11;162
+r;8757452;20564;289480;11;162
+r;8583823;20564;41497;11;163
+r;8584114;20564;42368;11;163
+r;8597556;20564;81359;11;163
+r;8598840;20564;84993;11;163
+r;8623070;20564;152989;11;163
+r;8625494;20564;157913;11;163
+r;8641488;20564;183260;11;163
+r;8641494;20564;183263;11;163
+r;8642483;20564;183867;11;163
+r;8643005;20564;184149;11;163
+r;8643007;20564;184150;11;163
+r;8643677;20564;184562;11;163
+r;8732928;20564;265339;11;163
+r;8735954;20564;268080;11;163
+r;8738609;20564;271089;11;163
+r;8747108;20564;279637;11;163
+r;8748809;20564;281457;11;163
+r;8771699;20564;305805;11;163
+r;8645175;20564;185687;11;164
+r;8645675;20564;185910;11;164
+r;8652165;20564;190057;11;164
+r;8663891;20564;197746;11;165
+r;8669264;20564;200801;11;165
+r;104505;20564;152323;11;188

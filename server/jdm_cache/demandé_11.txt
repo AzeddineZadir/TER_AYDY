@@ -1,0 +1,50 @@
+
+e;144661;'demandé';1;58
+e;14453344;'copie et extrait d'acte d'état civil demandé par un tiers';1;0
+e;15522939;'dans la mesure où cela est demandé';1;0
+e;15761341;'demandé par le client';1;0
+e;15356017;'elle m'a demandé de sortir avec elle.';1;0
+e;15460084;'comme demandé';1;0
+e;6446159;'avis demandé sur le comportement et l'orientation sexuelle de enfant';1;0
+e;15217934;'article très demandé';1;0
+e;15752476;'Une dame a demandé après vous.';1;0
+e;15525268;'Les députés ont demandé l'ouverture d'une enquête.';1;0
+e;6448884;'avis demandé sur le comportement et l'orientation sexuelle de conjoint';1;0
+e;6448315;'avis demandé sur le comportement et l'orientation sexuelle de partenaire';1;0
+e;15328582;'Il leur a demandé pardon.';1;0
+e;15542134;'Je lui ai demandé un renseignement concernant ...';1;0
+e;15306791;'Elle lui a demandé de faire les courses.';1;0
+e;15356015;'Il lui a demandé de sortir avec lui.';1;0
+e;15399478;'Il a demandé un permis de séjour en Grande-Bretagne.';1;0
+e;15329178;'J'ai demandé ce qui avait motivé la décision.';1;0
+e;15340589;'Il a demandé une tasse de thé.';1;0
+e;3201621;'entre-demandé';1;0
+e;3201201;'auto-demandé';1;0
+e;344892;'cours demandé';1;50
+e;183869;'prix demandé';1;50
+r;366906077;144661;14453344;11;25
+r;310672859;144661;3221980;11;30
+r;310672860;144661;3221272;11;30
+r;310673875;144661;3221271;11;30
+r;310673876;144661;3221979;11;30
+r;419763238;144661;15522939;11;30
+r;419771764;144661;15761341;11;30
+r;419833918;144661;15356017;11;30
+r;419720543;144661;15460084;11;31
+r;121472769;144661;6446159;11;33
+r;419610449;144661;15217934;11;33
+r;419558032;144661;15752476;11;34
+r;419495650;144661;15525268;11;35
+r;121057672;144661;6448884;11;38
+r;121453248;144661;6448315;11;45
+r;402107484;144661;15328582;11;50
+r;402154646;144661;15542134;11;50
+r;397499171;144661;15306791;11;50
+r;402107530;144661;15356015;11;50
+r;402102682;144661;15399478;11;50
+r;402120468;144661;15329178;11;50
+r;402102690;144661;15340589;11;50
+r;77362522;144661;3201621;11;58
+r;77362658;144661;3201201;11;59
+r;12724899;144661;344892;11;102
+r;8642487;144661;183869;11;163

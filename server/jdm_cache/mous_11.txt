@@ -1,0 +1,316 @@
+
+e;154601;'mous';1;82
+e;6294596;'lésion à localisations contiguës du tissu conjonctif et des autres tissus mous';1;0
+e;6285772;'interventions thérapeutiques des tissus mous';1;0
+e;6287128;'ongles mous';1;0
+e;6287394;'tissus mous de la face';1;0
+e;6288242;'paresthésie des tissus mous de la bouche';1;0
+e;6291764;'torchons mous';1;0
+e;6299227;'tissus mous de la fesse';1;0
+e;6309418;'histologie non précisée sarcomes des tissus mous';1;0
+e;6310358;'tissus mous du membre inférieur';1;0
+e;6316238;'tissus mous du thorax';1;0
+e;6323329;'tissus mous de la région inguinale';1;0
+e;6345793;'tissus mous de la tête et du cou';1;0
+e;6348498;'phlegmon des tissus mous de la bouche';1;0
+e;6358194;'mobilisation des tissus mous';1;0
+e;6358404;'dysesthésie des tissus mous de la bouche';1;0
+e;6373405;'tissus mous du bassin';1;0
+e;6375360;'tissus mous de la hanche';1;0
+e;6383890;'site non précisé autre tumeur bénigne des tissus conjonctifs et autres tissus mous';1;0
+e;6387902;'douleurs et paresthésies des tissus mous buccaux';1;0
+e;6393884;'libération des tissus mous avec transfert du tendon du court péronier latéral';1;0
+e;6409450;'tissus mous du tronc';1;0
+e;6410521;'autres troubles des tissus mous';1;0
+e;6415950;'autres affections des tissus mous par sollicitation excessive';1;0
+e;6420252;'tumeurs du tissu conjonctif et des tissus mous';1;0
+e;6361680;'anomalies des tissus mous maternels';1;0
+e;13763748;'tissus mous d'orbite';1;0
+e;6346389;'autres tumeurs bénignes du tissu conjonctif et des autres tissus mous';1;0
+e;6389684;'tissu conjonctif et autres tissus mous du thorax';1;0
+e;6369125;'granulome éosinophile des tissus mous';1;0
+e;6333340;'traumatisme des tissus mous';1;0
+e;6346169;'relâchement des tissus mous';1;0
+e;6287342;'sarcome alvéolaire des tissus mous métastatique';1;0
+e;6410018;'sarcome alvéolaire des tissus mous récidivant';1;0
+e;6414695;'épisode de soins non précisé obstruction par des tissus mous anormaux du bassin pendant le travail';1;0
+e;6304880;'exsudats rétiniens mous';1;0
+e;6400812;'palais mous';1;0
+e;6289271;'cellulite des tissus mous buccaux';1;0
+e;6305377;'tissu conjonctif et autres tissus mous du bassin';1;0
+e;6312416;'cellulite et abcès des tissus mous buccaux';1;0
+e;6313283;'obstruction par des tissus mous pelviens anormaux pendant le travail';1;0
+e;6327930;'corps étranger résiduel dans les tissus mous';1;0
+e;6354327;'douleur psychogène des tissus mous';1;0
+e;6365313;'masse des tissus mous';1;0
+e;6383767;'accouchement ou suites de couches anomalie des organes et tissus mous du bassin comp grossesse';1;0
+e;6427821;'tumeur métastatique des tissus mous du bassin';1;0
+e;6289648;'tumeurs bénignes des tissus mous';1;0
+e;6293461;'traumatismes de tissus mous';1;0
+e;6322620;'tumeurs des tissus mous';1;0
+e;6329334;'gonflements et oedèmes des tissus mous buccaux';1;0
+e;6354636;'autres affections précisées des tissus mous';1;0
+e;6401371;'lésions multiples des tissus mous';1;0
+e;6403307;'tumeurs malignes et non précisées des tissus mous';1;0
+e;6418349;'avec accouchement, obstruction par des tissus mous pelviens anormaux pendant le travail';1;0
+e;6439120;'tumeur métastatique des tissus mous de l'épaule';1;0
+e;6437143;'tumeur métastatique des tissus mous de l'abdomen';1;0
+e;6435764;'affections des tissus mous par sollicitation excessive de l'articulation';1;0
+e;6425090;'chancres mous';1;0
+e;6286999;'antepartum obstruction par des tissus mous anormaux du bassin pendant le travail';1;0
+e;6306602;'foetus ou nouveau-né affecté par une anomalie des tissus mous maternels';1;0
+e;6312731;'autre tumeur bénigne des tissus conjonctifs et autres tissus mous d'autres sites précisés';1;0
+e;6315516;'autres troubles non précisés des tissus mous';1;0
+e;6347832;'autres maladies non précisées des tissus mous buccaux';1;0
+e;6317346;'autre tumeur bénigne des tissus conjonctifs et autres tissus mous du bassin';1;0
+e;6320197;'troubles des tissus mous buccaux';1;0
+e;6328952;'foetus ou nouveau-né affecté par des anomalies des tissus mous maternels';1;0
+e;6331786;'autre tumeur bénigne des tissus conjonctifs et autres tissus mous du thorax';1;0
+e;6391989;'tumeurs des tissus conjonctifs et mous';1;0
+e;6397459;'avec accouchement, anomalie autre et non précisée des organes et des tissus mous du bassin';1;0
+e;6400795;'non précisée, autre tumeur bénigne des tissus conjonctifs et autres tissus mous du tronc';1;0
+e;12978850;'oedème des tissus mous';1;0
+e;6433983;'tumeur maligne des tissus mous de l'aisselle';1;0
+e;6426765;'tumeur secondaire des tissus mous de la tête';1;0
+e;6422467;'tumeur maligne à cellules géantes des tissus mous';1;0
+e;6362813;'kystes des tissus mous buccaux';1;0
+e;6440920;'tissus mous de l'épaule';1;0
+e;6426016;'radiographie diagnostique des tissus mous';1;0
+e;6444184;'tumeur maligne du tissu conjonctif et des autres tissus mous de l'abdomen';1;0
+e;6441672;'tumeur maligne du tissu conjonctif et autres tissus mous de l'hypocondre';1;0
+e;6439661;'tumeur secondaire des tissus mous de l'abdomen';1;0
+e;6428191;'tumeur maligne du tissu conjonctif et autres tissus mous du périnée';1;0
+e;6423416;'néoplasme des tissus mous';1;0
+e;9989082;'autre tumeur bénigne des tissus conjonctifs et autres tissus mous du tronc non précisée';1;0
+e;15311070;'des tissus mous';1;0
+e;6433323;'ablation d'implant dans les tissus mous profonds';1;0
+e;15358803;'cicatrisation des tissus mous';1;0
+e;6447167;'tissu conjonctif et autres tissus mous de l'abdomen';1;0
+e;6441154;'tissus mous de l'aisselle';1;0
+e;6441020;'tumeur bénigne des tissus mous de l'épaule';1;0
+e;6434888;'tumeur maligne du tissu conjonctif et autres tissus mous de l'aisselle';1;0
+e;6426443;'radiographie des tissus mous de la paroi thoracique';1;0
+e;6423273;'tumeur bénigne des tissus mous du périnée';1;0
+e;6422280;'tumeur maligne des tissus mous du bassin';1;0
+e;13776565;'cbc famille icosteidae - icostéidés - torchons mous';1;0
+e;6427633;'lésions des tissus mous';1;0
+e;6448030;'tumeur bénigne du tissu conjonctif et des autres tissus mous de l'abdomen';1;0
+e;6444791;'tumeur maligne des tissus mous de l'abdomen';1;0
+e;6432063;'résection radicale de tumeur des tissus mous de la région de l'épaule';1;0
+e;6427336;'tumeur bénigne des tissus mous de la fesse';1;0
+e;6425830;'tumeur maligne des tissus mous de la fesse';1;0
+e;6294613;'ablation d'un corps étranger inclus des tissus mous dento-alvéolaires';1;0
+e;6319366;'anomalie des tissus mous maternels affectant le foetus ou le nouveau-né';1;0
+e;16318516;'Sièges mous';777;0
+e;6438721;'radiographie des tissus mous de l'épaule';1;0
+e;6396060;'ante-partum obstruction par des tissus mous pelviens anormaux pendant le travail';1;0
+e;1829361;'calculs mous';1;0
+e;5685446;'Crabe araignée des coraux mous';777;0
+e;6446701;'tumeur bénigne des tissus mous de l'abdomen';1;0
+e;6438259;'ablation d'implant dans les tissus mous superficiels';1;0
+e;6435938;'radiographie des tissus mous de l'épaule et du membre supérieur';1;0
+e;11013762;'coraux mous et durs d'eau froide';777;0
+e;11057481;'crabe-araignée des coraux mous';777;0
+e;6449083;'radiographie des tissus mous de l'avant-bras';1;0
+e;6443551;'tumeur maligne des tissus mous de l'épaule';1;0
+e;6432791;'affections des tissus mous liées à une sollicitation excessive de l'articulation';1;0
+e;6442063;'incision et drainage d'abcès profond de tissus mous du cou';1;0
+e;6446874;'résection radicale de tumeurs de tissus mous de la région de l'avant-bras';1;0
+e;9929915;'obstruction par des tissus mous pelviens anormaux pendant le travail avec accouchement';1;0
+e;9929914;'obstruction par des tissus mous anormaux du bassin pendant le travail avec accouchement';1;0
+e;6447380;'incision et drainage d'hématome profond de tissus mous du thorax';1;0
+e;9929784;'anomalie autre et non précisée des organes et des tissus mous du bassin avec accouchement';1;0
+e;10774178;'exérèse des tissus mous';1;0
+e;10185848;'Coup dur chez les mous';777;0
+e;6451283;'tumeur maligne du tissu conjonctif et autres tissus mous de l'aine';1;0
+e;6448295;'tissus mous de l'abdomen';1;0
+e;6436225;'incision et drainage d'abcès profond de tissus mous du thorax';1;0
+e;11320656;'tumeur secondaire des tissus mous';1;0
+e;11320661;'tumeur métastatique des tissus mous';1;0
+e;11320662;'radiographie des tissus mous';1;0
+e;11325417;'tissus mous de la tête';1;0
+e;6451397;'tumeur secondaire des tissus mous de l'épaule';1;0
+e;6449889;'tumeur métastatique des tissus mous de l'aisselle';1;0
+e;6448804;'incision et drainage d'hématome profond de tissus mous du cou';1;0
+e;11317581;'tissus mous buccaux';1;0
+e;12788837;'densité des tissus mous';1;0
+e;6435786;'tissus mous de l'orbite';1;0
+e;6449681;'autre tumeur bénigne des tissus conjonctifs et autres tissus mous de l'abdomen';1;0
+e;6527084;'tumeurs à cellules granuleuses et sarcomes alvéolaires des tissus mous';1;0
+e;6526372;'maladies des tissus mous de la bouche';1;0
+e;6445355;'tumeur bénigne des tissus mous de l'aisselle';1;0
+e;6444418;'tumeur secondaire des tissus mous de l'aisselle';1;0
+e;6526712;'tumeurs des tissus mous et sarcomes';1;0
+e;13774479;'1a tissus mous, muscle lisse et tissus cartilagineux';1;0
+e;13800150;'1a0-1a4 tissus mous';1;0
+e;13767455;'5-21 maladies des tissus mous de la bouche';1;0
+e;13752131;'880 tumeurs des tissus mous et sarcomes, sai';1;0
+e;13772504;'958 tumeurs à cellules granuleuses et sarcomes alvéolaires des tissus mous';1;0
+e;15358795;'Cancer des tissus mous';1;0
+e;463493;'abcès des tissus mous';1;50
+e;3245207;'os mous';1;0
+e;396015;'tissus mous';1;50
+e;463492;'infection des tisus mous';1;50
+e;1844149;'sarcome alvéolaire des tissus mous';1;0
+e;356889;'gros seins mous';1;50
+e;326440;'tumeur des tissus mous';1;50
+e;316094;'sarcome des tissus mous';1;50
+e;316095;'sarcomes des tissus mous';777;50
+e;309916;'caramels mous';777;50
+r;397138227;154601;6294596;11;25
+r;298036286;154601;6285772;11;25
+r;298198560;154601;6287128;11;25
+r;298204186;154601;6287394;11;25
+r;298254882;154601;6288242;11;25
+r;298483780;154601;6291764;11;25
+r;299072786;154601;6299227;11;25
+r;299576055;154601;6309418;11;25
+r;299585303;154601;6310358;11;25
+r;299668125;154601;6316238;11;25
+r;300136587;154601;6323329;11;25
+r;301561771;154601;6345793;11;25
+r;301720111;154601;6348498;11;25
+r;302032858;154601;6358194;11;25
+r;302055101;154601;6358404;11;25
+r;303131776;154601;6373405;11;25
+r;303623556;154601;6375360;11;25
+r;303985880;154601;6383890;11;25
+r;304493201;154601;6387902;11;25
+r;304896548;154601;6393884;11;25
+r;305461374;154601;6409450;11;25
+r;305468292;154601;6410521;11;25
+r;305674311;154601;6415950;11;25
+r;305704426;154601;6420252;11;25
+r;341139481;154601;6361680;11;25
+r;348675018;154601;13763748;11;25
+r;349082176;154601;6346389;11;25
+r;349120111;154601;6389684;11;25
+r;349151677;154601;6369125;11;25
+r;349178558;154601;6333340;11;25
+r;349199129;154601;6346169;11;25
+r;349233364;154601;6287342;11;25
+r;349242800;154601;6410018;11;25
+r;349261486;154601;6414695;11;25
+r;349303082;154601;6304880;11;25
+r;349344350;154601;6400812;11;25
+r;396650772;154601;6289271;11;25
+r;397904636;154601;6305377;11;25
+r;398415436;154601;6312416;11;25
+r;398422885;154601;6313283;11;25
+r;399491154;154601;6327930;11;25
+r;400039133;154601;6354327;11;25
+r;400292050;154601;6365313;11;25
+r;400700020;154601;6383767;11;25
+r;122712666;154601;6427821;11;26
+r;298417004;154601;6289648;11;26
+r;298511121;154601;6293461;11;26
+r;300130547;154601;6322620;11;26
+r;300238536;154601;6329334;11;26
+r;301760638;154601;6354636;11;26
+r;305205009;154601;6401371;11;26
+r;305271641;154601;6403307;11;26
+r;312959988;154601;6418349;11;26
+r;121535883;154601;6439120;11;27
+r;121553695;154601;6437143;11;27
+r;121565856;154601;6435764;11;27
+r;122733778;154601;6425090;11;27
+r;298195269;154601;6286999;11;27
+r;299519192;154601;6306602;11;27
+r;299595766;154601;6312731;11;27
+r;299651472;154601;6315516;11;27
+r;301690014;154601;6347832;11;27
+r;299787800;154601;6317346;11;27
+r;299932986;154601;6320197;11;27
+r;300228432;154601;6328952;11;27
+r;300970446;154601;6331786;11;27
+r;304633184;154601;6391989;11;27
+r;312958255;154601;6397459;11;27
+r;313060282;154601;6400795;11;27
+r;332575788;154601;12978850;11;27
+r;121581902;154601;6433983;11;28
+r;122720870;154601;6426765;11;28
+r;122754152;154601;6422467;11;28
+r;302139364;154601;6362813;11;28
+r;121519696;154601;6440920;11;29
+r;122726619;154601;6426016;11;29
+r;121490443;154601;6444184;11;30
+r;121513089;154601;6441672;11;30
+r;121531087;154601;6439661;11;30
+r;122709751;154601;6428191;11;30
+r;122746909;154601;6423416;11;30
+r;222552258;154601;9989082;11;30
+r;419775525;154601;15311070;11;30
+r;122667863;154601;6433323;11;31
+r;419709866;154601;15358803;11;31
+r;121463728;154601;6447167;11;32
+r;121517665;154601;6441154;11;32
+r;121518865;154601;6441020;11;32
+r;121573742;154601;6434888;11;32
+r;122723324;154601;6426443;11;32
+r;122748005;154601;6423273;11;32
+r;122755647;154601;6422280;11;32
+r;419690784;154601;13776565;11;32
+r;122714143;154601;6427633;11;33
+r;121455788;154601;6448030;11;34
+r;121485049;154601;6444791;11;34
+r;122679258;154601;6432063;11;34
+r;122716521;154601;6427336;11;34
+r;122728027;154601;6425830;11;34
+r;419567232;154601;6294613;11;34
+r;419597166;154601;6319366;11;34
+r;428876597;154601;16318516;11;34
+r;121539464;154601;6438721;11;35
+r;305012906;154601;6396060;11;35
+r;29938944;154601;1829361;11;36
+r;112199673;154601;5685446;11;36
+r;121467871;154601;6446701;11;36
+r;121543682;154601;6438259;11;36
+r;121564387;154601;6435938;11;36
+r;279009927;154601;11013762;11;36
+r;280285840;154601;11057481;11;36
+r;121055871;154601;6449083;11;37
+r;121496167;154601;6443551;11;37
+r;122672723;154601;6432791;11;37
+r;121509550;154601;6442063;11;39
+r;121466410;154601;6446874;11;40
+r;219834469;154601;9929915;11;40
+r;219832372;154601;9929914;11;40
+r;121461873;154601;6447380;11;41
+r;219831512;154601;9929784;11;41
+r;269492147;154601;10774178;11;41
+r;240917614;154601;10185848;11;42
+r;121035740;154601;6451283;11;43
+r;121453438;154601;6448295;11;43
+r;121561838;154601;6436225;11;43
+r;289987385;154601;11320656;11;43
+r;289990179;154601;11320661;11;43
+r;289995728;154601;11320662;11;43
+r;290063149;154601;11325417;11;43
+r;121034713;154601;6451397;11;44
+r;121048525;154601;6449889;11;44
+r;121058387;154601;6448804;11;44
+r;289960626;154601;11317581;11;44
+r;328147836;154601;12788837;11;44
+r;121565697;154601;6435786;11;45
+r;121050466;154601;6449681;11;46
+r;121443714;154601;6527084;11;46
+r;121448654;154601;6526372;11;47
+r;121479991;154601;6445355;11;47
+r;121488304;154601;6444418;11;47
+r;121446268;154601;6526712;11;50
+r;348981907;154601;13774479;11;50
+r;348981929;154601;13800150;11;50
+r;348989075;154601;13767455;11;50
+r;348996624;154601;13752131;11;50
+r;348998543;154601;13772504;11;50
+r;395012379;154601;15358795;11;50
+r;16355028;154601;463493;11;53
+r;78497140;154601;3245207;11;56
+r;14038592;154601;396015;11;57
+r;16355034;154601;463492;11;59
+r;29889555;154601;1844149;11;60
+r;12675395;154601;356889;11;101
+r;11492460;154601;326440;11;148
+r;8871134;154601;316094;11;154
+r;8871136;154601;316095;11;154
+r;8775783;154601;309916;11;163

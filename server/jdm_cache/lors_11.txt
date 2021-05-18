@@ -1,0 +1,324 @@
+
+e;40797;'lors';1;62
+e;6324252;'tests systématiques lors d'une admission';1;0
+e;6337929;'occupant d'un train ou d'un véhicule ferroviaire blessé lors dune explosion ou incendie';1;0
+e;6343065;'prélèvements sanguins lors d'un cathétérisme des sinus pétreux';1;0
+e;6350916;'occupant d'un train ou d'un véhicule ferroviaire blessé lors d'un heurt par chute de terre';1;0
+e;6358000;'occupant d'un train ou d'un véhicule ferroviaire blessé lors d'un heurt par chute de arbre';1;0
+e;6380007;'hypertensions lors de la grossesse';1;0
+e;6382346;'assister le médecin lors d'une intervention';1;0
+e;6411103;'occupant d'un train ou d'un véhicule ferroviaire blessé lors d'autres accidents de chemin de fer précisés';1;0
+e;12118179;'natation lors des Jeux olympiques de 1900';777;0
+e;12192641;'détermination de la présence de traitement lors de l'admission';1;0
+e;6330870;'pancréatographie lors d'une chirurgie';1;0
+e;6358516;'prélèvements sanguins lors d'un cathétérisme bilatéral des sinus pétreux inférieurs';1;0
+e;6357602;'soins infirmiers lors d'une circoncision';1;0
+e;6382209;'nystagmus inhibé lors du détachement du regard';1;0
+e;6400576;'conditions relative à la chaîne de garde d'un échantillon de laboratoire lors sa manutention';1;0
+e;6405064;'nystagmus inchangé lors du détachement du regard';1;0
+e;13598454;'imposition des plus-values latentes lors du transfert par les contribuables de leur domicile fiscal hors de France';777;0
+e;13635723;'Équipe de France féminine de handball lors du Championnat d'Europe 2018';777;0
+e;13635722;'Équipe de France masculine de handball lors du Championnat du monde 2019';777;0
+e;13636498;'Équipe de France féminine de handball lors du Championnat du monde 2017';777;0
+e;13736786;'équipe de France de football lors de la Coupe du monde de football de 2018';777;0
+e;14131170;'Poursuites judiciaires contre les crimes commis lors de la dictature argentine';777;0
+e;14452916;'difficultés lors de la mesure';1;0
+e;14453085;'droits et libertés mis en cause lors des opérations électorales';1;0
+e;14454020;'difficultés survenues lors d'un précédent marché';1;0
+e;6410420;'douleur lors du mouvement';1;0
+e;6287866;'complication lors de la grossesse';1;0
+e;6344447;'accident lors de la pratique d'une activité sportive';1;0
+e;6371590;'réaction à une incompatibilité de groupes sanguins lors d'une perfusion ou d'une transfusion';1;0
+e;6374996;'douleur psychogène ressentie par la femme lors d'un rapport sexuel';1;0
+e;6379740;'erreur de liquide utilisé lors d'une perfusion';1;0
+e;15772881;'résultats de l'équipe de Suisse de football lors de l'année 1927';777;0
+e;15772885;'résultats de l'équipe de Suisse de football lors de l'année 1960';777;0
+e;15772878;'résultats de l'équipe de Suisse de football lors de l'année 1926';777;0
+e;15772883;'résultats de l'équipe de Suisse de football lors de l'année 1930';777;0
+e;15772887;'résultats de l'équipe de Suisse de football lors de l'année 1963';777;0
+e;6289944;'collapsus lors du passage en orthostatisme';1;0
+e;6318365;'tierces personnes lors des examens médicaux';1;0
+e;6325775;'trouble psychotique bref avec début lors du post-partum';1;0
+e;6346545;'occupant d'un tramway blessé lors d'une chute d'un tramway';1;0
+e;6369433;'trouble des échanges gazeux lors de la respiration pulmonaire';1;0
+e;6379227;'tierces personnes lors des consultations médicales';1;0
+e;6421016;'trouble dépressif majeur récurrent avec début lors du post-partum';1;0
+e;6284957;'effets de la pression barométrique lors d'une plongée';1;0
+e;6285260;'conduite anormale lors d'une maladie physique';1;0
+e;6301187;'complications lors de la grossesse';1;0
+e;6317284;'occupant d'un tramway blessé lors d'un déraillement sans collision préalable';1;0
+e;6322597;'occupant d'un train ou d'un véhicule ferroviaire blessé lors d'une chute dans un train ou un véhicule ferroviaire';1;0
+e;6326635;'occupant d'un train ou d'un véhicule ferroviaire blessé lors d'un heurt par chute de roches';1;0
+e;6400747;'occupant d'un tramway blessé lors d'une chute dans un tramway';1;0
+e;6412121;'mauvaise notice patient sélectionnée lors de la distribution au patient';1;0
+e;6414166;'occupant d'un train ou d'un véhicule ferroviaire blessé lors d'un déraillement sans collision préalable';1;0
+e;12088932;'âge lors du diagnostic de la pathologie';1;0
+e;12088930;'âge lors du décès';1;0
+e;6423006;'tests de routine lors d'une admission';1;0
+e;10986512;'forces militaires en présence lors de la bataille de Valmy';777;0
+e;6423999;'présence de sang lors de la mesure du contenu gastrique';1;0
+e;10897128;'forces militaires en présence lors de la bataille de Moscou';777;0
+e;10986808;'forces militaires en présence lors de la bataille de Fontenoy';777;0
+e;12107809;'traitement lors de l'admission';1;0
+e;6430488;'coupure lors d'une intervention de la force publique';1;0
+e;10907756;'équipe du Mali lors de la Coupe d'Afrique des nations 2010';777;0
+e;10903565;'forces militaires en présence lors de la bataille de Vauchamps';777;0
+e;10903564;'forces militaires en présence lors de la bataille d'Eylau';777;0
+e;10903562;'forces militaires en présence lors de la bataille d'Iéna';777;0
+e;10903558;'forces militaires en présence lors de la Bataille de Wissembourg';777;0
+e;10914912;'équipe de France de football lors de la Coupe du monde de football 2014';777;0
+e;10914909;'grève des joueurs français lors de la Coupe du monde de football 2010';777;0
+e;10914907;'équipe de France de football lors de la Coupe du monde de football 2010';777;0
+e;10914903;'Équipe de France de football lors de la Coupe du monde de football de 1978';777;0
+e;15860029;'de personnalités françaises ayant combattu lors de la guerre d'indépendance des États-Unis';777;0
+e;10871116;'parcours de l'équipe d'Angleterre de football lors du Championnat d'Europe de football 2016';777;0
+e;10871113;'équipe d'Angleterre de football lors de la Coupe du monde de football 2018';777;0
+e;10871112;'équipe d'Angleterre de football lors de la Coupe du monde de football 2014';777;0
+e;10871111;'parcours de l'Équipe d'Angleterre de football lors de la Coupe du monde de football 2010';777;0
+e;10871095;'parcours de l'équipe d'Allemagne de football lors du championnat d'Europe de football 2008';777;0
+e;10871090;'Équipe d'Allemagne de football lors de la Coupe du monde de football 2018';777;0
+e;10871089;'Équipe d'Allemagne de football lors de la Coupe du monde de football 2014';777;0
+e;10871088;'équipe d'Allemagne lors de la Coupe du monde de football 2010';777;0
+e;11755314;'coopération lors de la reproduction';777;0
+e;11755313;'système de coopération lors de la reproduction';777;0
+e;6447185;'dégradation de l'adn lors de la nécrose';1;0
+e;6436506;'dégradation de l'adn lors de l'apoptose';1;0
+e;10583260;'parcours de l'équipe du pays de Galles de football lors du Championnat d'Europe de football 2016';777;0
+e;6432923;'tierce personne lors de l'examen médical';1;0
+e;10942344;'compétitions d'athlétisme lors des Jeux de l'Asie de l'Est';777;0
+e;10942673;'arbitres ayant officialisé au moins un match lors des épreuves de football aux Jeux olympiques d'été';777;0
+e;11829860;'équipe de Turquie de football lors du Championnat d'Europe de football 2016';777;0
+e;14112708;'bien-être des travailleurs lors de l'exécution de leur travail';777;0
+e;6432973;'accident lors d'une activité reliée à l'emploi';1;0
+e;6431179;'occupant d'un train ou d'un véhicule ferroviaire blessé lors d'une chute d'un train ou d'un véhicule ferroviaire';1;0
+e;15466689;'Sa présence en pointillé lors des débats parlementaires';1;0
+e;15353474;'Une arme factice a été utilisée lors du vol.';1;0
+e;5963596;'liste des opérations lors de la Seconde Guerre mondiale';777;0
+e;6439884;'accident lors de l'exécution d'une tâche domestique';1;0
+e;6422133;'nystagmus augmenté lors du détachement du regard';1;0
+e;10850460;'historique de l'AS Saint-Étienne lors des compétitions européennes de football';777;0
+e;11021219;'forces militaires en présence lors de la bataille de la Poche de Falaise';777;0
+e;12033816;'contractions de l'utérus lors d'un accouchement';1;0
+e;12048830;'appliquer des normes d'hygiène personnelle lors d'opérations de nettoyage';1;0
+e;10557621;'campagne de l'Équipe d'Arabie saoudite de football lors de la phase finale de la Coupe du monde 1994';777;0
+e;12006366;'forces militaires en présence lors de l'opération Iskra';777;0
+e;14635233;'Introduits lors de la première saison';777;0
+e;14635235;'Introduits lors de la troisième saison';777;0
+e;14635234;'Introduits lors de la deuxième saison';777;0
+e;14635236;'Introduits lors de la quatrième saison';777;0
+e;10750045;'équipe de République d'Irlande de football lors du Championnat d'Europe de football 2016';777;0
+e;11502783;'natation lors des Jeux olympiques d'été de 1928';777;0
+e;11840616;'conflits d'intérêts lors de l'édition de Wikipédia';777;0
+e;11933565;'poursuites judiciaires en Argentine contre les crimes commis lors de la dictature';777;0
+e;12051196;'superviser des employés lors de l'utilisation de pompes à carburant';1;0
+e;12052381;'gérer des conditions de travail difficiles lors d'opérations de transformation de denrées alimentaires';1;0
+e;12052352;'suivre des procédures en matière d'hygiène lors de la transformation de denrées alimentaires';1;0
+e;10774126;'liste des députés de la Gironde élus lors des différentes élections législatives françaises';777;0
+e;10774202;'liste des députés du Pas-de-Calais élus lors des différentes élections législatives françaises';777;0
+e;10055640;'équipe d' Uruguay lors de la Coupe du monde de football de 2010';777;0
+e;11590080;'SMUR en représentation lors du défilé national du 21 juillet 2018';777;0
+e;10385371;'équipe du Brésil de football lors de la Coupe du monde de football 1966';777;0
+e;6528728;'mouvements oculaires lors de la lecture';777;0
+e;11302771;'culture lors d'une détresse respiratoire aigue';1;0
+e;12053111;'protéger des surfaces lors de travaux de construction';1;0
+e;6441334;'tests lors de l'admission à l'hôpital';1;0
+e;10553674;'parcours de l'équipe d'Angleterre de football lors du Championnat d'Europe de football 2012';777;0
+e;10553671;'parcours de l'équipe d'Allemagne de football lors du Championnat d'Europe de football 2012';777;0
+e;11385524;'difficulté mécanique lors d'un accouchement';1;0
+e;11385522;'difficulté lors d'un accouchement';1;0
+e;5974391;'thrombectomie mécanique des artères intercrâniennes lors d'un accident vasculaire cérébral';777;0
+e;10445075;'Commission nationale consultative de prévention des violences lors des manifestations sportives';777;0
+e;10460797;'épreuves d'aviron lors des Jeux olympiques d'été de 2016';777;0
+e;10506619;'parcours de l'équipe d'Allemagne de football lors du Championnat d'Europe 2016';777;0
+e;10137434;'équipe des États-Unis lors de la Coupe du monde de football de 2006';777;0
+e;10159300;'triple saut lors des Coupes d'Europe des nations d'athlétisme';777;0
+e;10502968;'équipe d'Espagne de football lors de la Coupe du monde de football 2014';777;0
+e;10437837;'équipe du Cameroun de football lors de la Coupe du monde de football 2014';777;0
+e;9657203;'Loi de 1931 visant à donner effet à des résolutions adoptées lors des conférences impériales de 1926 et 1930';777;0
+e;11109166;'Équipe du Japon de football lors de la Coupe du monde de football 2010';777;0
+e;11109168;'équipe du Japon de football lors de la Coupe du monde de football 2018';777;0
+e;12617404;'lors de la journée';1;0
+e;14474879;'Couleur politique des listes arrivées en première position lors des élections municipales françaises';777;0
+e;15521245;'Jeune saumon venant de s'adapter physiologiquement au passage dans l'eau de mer lors de sa migration';1;0
+e;15528003;'Ils ont perdu tous leurs biens lors du tremblement de terre.';1;0
+e;15377890;'Ils sont tombés dans une embuscade lors d'une patrouille.';1;0
+e;15528005;'Ils ont perdu tout ce qu'ils possédaient lors du tremblement de terre.';1;0
+e;16072721;'Difficultés lors de la mesure';1;0
+e;16072722;'Difficultés survenues lors d'un précédent marché';1;0
+e;16072809;'Droits et libertés mis en cause lors des opérations électorales';1;0
+e;566218;'Appelé du contingent lors de la guerre d'Algérie';777;50
+e;2339806;'lors que';1;0
+e;2170952;'dès lors qu'';2;0
+e;3706202;'accompagner ses enfants lors d'une sortie scolaire';1;0
+e;2218985;'lors d'';2;0
+e;2339807;'lors même que';1;0
+e;1751492;'transmis lors des divisions cellulaires';777;0
+e;465898;'Kay brisant son épée lors d'un tournoi';777;50
+e;463167;'anomalie lors de la segmentation vertébrale';1;50
+e;119281;'pour lors';1;50
+e;84769;'lors de';1;50
+e;171436;'depuis lors';1;50
+e;187081;'dès lors que';1;50
+e;6191;'dès lors';1;50
+r;300177506;40797;6324252;11;25
+r;301444876;40797;6337929;11;25
+r;301494442;40797;6343065;11;25
+r;301737867;40797;6350916;11;25
+r;302031309;40797;6358000;11;25
+r;303744948;40797;6380007;11;25
+r;303933692;40797;6382346;11;25
+r;305471302;40797;6411103;11;25
+r;315751664;40797;12118179;11;25
+r;316569548;40797;12192641;11;25
+r;319064530;40797;6330870;11;25
+r;319107104;40797;6358516;11;25
+r;341133249;40797;6357602;11;25
+r;341178284;40797;6382209;11;25
+r;341211208;40797;6400576;11;25
+r;341229240;40797;6405064;11;25
+r;344916544;40797;13598454;11;25
+r;345915548;40797;13635723;11;25
+r;345933965;40797;13635722;11;25
+r;345954958;40797;13636498;11;25
+r;348296909;40797;13736786;11;25
+r;358071599;40797;14131170;11;25
+r;366878705;40797;14452916;11;25
+r;366885310;40797;14453085;11;25
+r;366929984;40797;14454020;11;25
+r;400991606;40797;6410420;11;25
+r;396492155;40797;6287866;11;25
+r;399953438;40797;6344447;11;25
+r;400483325;40797;6371590;11;25
+r;400583803;40797;6374996;11;25
+r;400603814;40797;6379740;11;25
+r;406399363;40797;15772881;11;25
+r;406426444;40797;15772885;11;25
+r;406432013;40797;15772878;11;25
+r;406432115;40797;15772883;11;25
+r;406475727;40797;15772887;11;25
+r;298423350;40797;6289944;11;26
+r;299797117;40797;6318365;11;26
+r;300191685;40797;6325775;11;26
+r;301586370;40797;6346545;11;26
+r;302975396;40797;6369433;11;26
+r;303644473;40797;6379227;11;26
+r;305708016;40797;6421016;11;26
+r;297682393;40797;6284957;11;27
+r;297971808;40797;6285260;11;27
+r;299212682;40797;6301187;11;27
+r;299784064;40797;6317284;11;27
+r;300132731;40797;6322597;11;27
+r;300201022;40797;6326635;11;27
+r;305158992;40797;6400747;11;27
+r;305481257;40797;6412121;11;27
+r;305615013;40797;6414166;11;27
+r;315461440;40797;12088932;11;27
+r;315465378;40797;12088930;11;27
+r;122750059;40797;6423006;11;28
+r;277362414;40797;10986512;11;28
+r;122742344;40797;6423999;11;29
+r;273206016;40797;10897128;11;29
+r;277361353;40797;10986808;11;29
+r;315500004;40797;12107809;11;29
+r;122692029;40797;6430488;11;30
+r;274276160;40797;10907756;11;30
+r;274294615;40797;10903565;11;30
+r;274294628;40797;10903564;11;30
+r;274294649;40797;10903562;11;30
+r;274294682;40797;10903558;11;30
+r;274588587;40797;10914912;11;30
+r;274588615;40797;10914909;11;30
+r;274588640;40797;10914907;11;30
+r;274588691;40797;10914903;11;30
+r;419769263;40797;15860029;11;30
+r;272652500;40797;10871116;11;31
+r;272652524;40797;10871113;11;31
+r;272652539;40797;10871112;11;31
+r;272652556;40797;10871111;11;31
+r;272652702;40797;10871095;11;31
+r;272652738;40797;10871090;11;31
+r;272652754;40797;10871089;11;31
+r;272652767;40797;10871088;11;31
+r;301556293;40797;11755314;11;31
+r;301556304;40797;11755313;11;31
+r;121463570;40797;6447185;11;32
+r;121559283;40797;6436506;11;32
+r;263697019;40797;10583260;11;32
+r;122671544;40797;6432923;11;33
+r;275683875;40797;10942344;11;33
+r;275682043;40797;10942673;11;33
+r;305822404;40797;11829860;11;33
+r;357277051;40797;14112708;11;33
+r;122671093;40797;6432973;11;34
+r;122686676;40797;6431179;11;34
+r;419538729;40797;15466689;11;34
+r;419558002;40797;15353474;11;34
+r;116570876;40797;5963596;11;35
+r;121529037;40797;6439884;11;35
+r;122756774;40797;6422133;11;35
+r;272189253;40797;10850460;11;35
+r;279184688;40797;11021219;11;35
+r;313607034;40797;12033816;11;35
+r;313621832;40797;12048830;11;35
+r;263234540;40797;10557621;11;36
+r;312919605;40797;12006366;11;36
+r;371741698;40797;14635233;11;36
+r;371741982;40797;14635235;11;36
+r;371745886;40797;14635234;11;36
+r;371747119;40797;14635236;11;36
+r;269380098;40797;10750045;11;37
+r;295486938;40797;11502783;11;37
+r;306735455;40797;11840616;11;37
+r;307985037;40797;11933565;11;37
+r;313725865;40797;12051196;11;37
+r;313762041;40797;12052381;11;37
+r;313762143;40797;12052352;11;37
+r;269536326;40797;10774126;11;38
+r;269535940;40797;10774202;11;38
+r;228987048;40797;10055640;11;38
+r;297916517;40797;11590080;11;38
+r;255395247;40797;10385371;11;39
+r;121398156;40797;6528728;11;40
+r;289321320;40797;11302771;11;40
+r;313747165;40797;12053111;11;40
+r;121516053;40797;6441334;11;41
+r;263065431;40797;10553674;11;41
+r;263065452;40797;10553671;11;41
+r;292320180;40797;11385524;11;42
+r;292320187;40797;11385522;11;42
+r;116940751;40797;5974391;11;43
+r;258725608;40797;10445075;11;43
+r;261011811;40797;10460797;11;43
+r;262054708;40797;10506619;11;43
+r;236671187;40797;10137434;11;44
+r;238108026;40797;10159300;11;44
+r;261001813;40797;10502968;11;44
+r;256287815;40797;10437837;11;48
+r;217004736;40797;9657203;11;50
+r;282214194;40797;11109166;11;50
+r;282204051;40797;11109168;11;50
+r;323096896;40797;12617404;11;50
+r;367992123;40797;14474879;11;50
+r;414755744;40797;15521245;11;50
+r;402112847;40797;15528003;11;50
+r;402118223;40797;15377890;11;50
+r;402112865;40797;15528005;11;50
+r;419100432;40797;16072721;11;50
+r;419100440;40797;16072722;11;50
+r;419100849;40797;16072809;11;50
+r;16930422;40797;566218;11;51
+r;34310747;40797;2339806;11;51
+r;33105583;40797;2170952;11;52
+r;92514569;40797;3706202;11;53
+r;33104727;40797;2218985;11;54
+r;34310985;40797;2339807;11;55
+r;16131458;40797;439712;11;56
+r;16131460;40797;439711;11;56
+r;28801047;40797;1751492;11;58
+r;16465838;40797;465898;11;59
+r;16356857;40797;463167;11;60
+r;8611117;40797;119281;11;161
+r;8598756;40797;84769;11;163
+r;8633902;40797;171436;11;163
+r;8648004;40797;187081;11;164
+r;8572028;40797;6191;11;168

@@ -1,0 +1,343 @@
+
+e;1384;'vivant';1;766
+e;6289715;'vivant et bien-portant';1;0
+e;6350144;'organisme vivant inconnu';1;0
+e;6374045;'gens vivant dans la rue';1;0
+e;6389591;'enterré vivant';1;8
+e;6414778;'organisme vivant sans assignation à une catégorie scientifique';1;0
+e;12206559;'organisme vivant microscopique';1;0
+e;14462640;'Une proposition de fusion est en cours entre Naissance du vivant et Origine de la vie';777;0
+e;14638088;'extinction du vivant';1;0
+e;14670387;'diversité du vivant';1;0
+e;14670529;'non-vivant';1;0
+e;14715195;'utilisation du vivant comme capteur';777;0
+e;14916240;'compréhension de l'unité du vivant';1;0
+e;6321399;'vivant dans un logement humide';1;0
+e;16492218;'le vivant';777;0
+e;6324172;'hypoxie chez un nouveau-né vivant';1;0
+e;6392480;'enfant né vivant';1;0
+e;14506222;'unité du vivant';1;0
+e;14585128;'donation au dernier vivant';1;2
+e;14585129;'donation de son vivant';1;4
+e;6308543;'vivant dans un logement avec des vices techniques';1;0
+e;6315582;'vivant dans un logement non chauffé';1;0
+e;6320563;'vivant dans un environnement non satisfaisant';1;0
+e;6327087;'aucun organisme vivant identifié';1;0
+e;6337575;'vivant dans un logement surpeuplé';1;0
+e;6373013;'chez un enfant né vivant souffrance foetale avant le début du travail';1;0
+e;6374203;'vivant dans un logement sans électricité';1;0
+e;6398123;'chez un enfant né vivant souffrance foetale de début non précisé';1;0
+e;6402793;'vivant dans la rue';1;0
+e;6405220;'chez un enfant né vivant souffrance foetale remarquée d'abord pendant le travail';1;0
+e;6439704;'asphyxie obstétricale non précisée chez l'enfant né vivant';1;0
+e;16322508;'domaine du spectacle vivant';1;0
+e;10905291;'bouddha vivant';777;0
+e;14883391;'animal vivant';1;0
+e;15441846;'de mon vivant';1;0
+e;15441849;'du vivant de [qqn]';1;0
+e;15660445;'du vivant de qn';1;0
+e;15550133;'du vivant de quelqu'un';1;0
+e;6397856;'détresse foetale chez un nouveau-né vivant';1;0
+e;13751344;'détresse foetale intra-utérine constatée avant le début du travail, chez un nouveau-né vivant';1;0
+e;13755700;'détresse foetale intra-utérine constatée pour la première fois pendant le travail ou l'accouchement, chez un nouveau-né vivant';1;0
+e;13746464;'détresse foetale intra-utérine, sans précision quant au moment où celle-ci a été constatée, avant ou après le début du travail, chez un nouveau-né vivant';1;0
+e;15441850;'emmuré vivant';1;0
+e;10005784;'Le Décapité vivant';777;0
+e;9999783;'Le Cadavre vivant';777;0
+e;10583529;'Le Désert vivant';777;0
+e;12313631;'altération de la santé d'un organisme vivant';1;0
+e;12313630;'altération des fonctions d'un organisme vivant';1;0
+e;5816570;'Arborescence de l'origine et évolution du vivant';777;0
+e;6441932;'foetus ou nouveau-né affecté par une intervention destructrice sur le foetus vivant pour faciliter l'accouchement';1;0
+e;15830790;'bien vivant';1;0
+e;15204274;'biologie du vivant';1;0
+e;15204302;'capturer vivant';1;0
+e;5836709;'Institut des sciences et industries du vivant et de l'environnement';777;0
+e;11080548;'être vivant hétérotrophe';1;0
+e;13784724;'asphyxie foetale constatée avant le début du travail, chez un nouveau-né vivant';1;0
+e;13769695;'asphyxie foetale constatée avant ou après le début du travail, chez un nouveau-né vivant';1;0
+e;13784725;'asphyxie intra-utérine constatée avant le début du travail, chez un nouveau-né vivant';1;0
+e;13769696;'asphyxie intra-utérine constatée avant ou après le début du travail, chez un nouveau-né vivant';1;0
+e;16170052;'Rassemblement des écologistes pour le vivant';777;0
+e;16170053;'Révolution écologique pour le vivant';777;0
+e;6330438;'asphyxie chez un nouveau-né vivant';1;0
+e;6394447;'acidose foetale constatée avant le début du travail chez un nouveau-né vivant';1;0
+e;13748366;'acidose foetale constatée avant ou après le début du travail, chez un nouveau-né vivant';1;0
+e;13775257;'acidose foetale constatée pour la première fois pendant le travail ou l'accouchement, chez un nouveau-né vivant';1;0
+e;13748367;'acidose intra-utérine constatée avant ou après le début du travail, chez un nouveau-né vivant';1;0
+e;13775258;'acidose intra-utérine constatée pour la première fois pendant le travail ou l'accouchement, chez un nouveau-né vivant';1;0
+e;13756784;'anomalie du rythme cardiaque foetal constatée avant le début du travail, chez un nouveau-né vivant';1;0
+e;13760926;'anomalie du rythme cardiaque foetal constatée pour la première fois pendant le travail ou l'accouchement, chez un nouveau-né vivant';1;0
+e;13743585;'anomalie du rythme cardiaque foetal, constatée avant ou après le début du travail chez un nouveau-né vivant';1;0
+e;13753652;'anoxie ou hypoxie foetale constatée avant ou après le début du travail, chez un nouveau-né vivant';1;0
+e;13750960;'anoxie ou hypoxie foetale constatée pour la première fois pendant le travail ou l'accouchement, chez un nouveau-né vivant';1;0
+e;13753653;'anoxie ou hypoxie intra-utérine constatée avant ou après le début du travail, chez un nouveau-né vivant';1;0
+e;13750961;'anoxie ou hypoxie intra-utérine constatée pour la première fois pendant le travail ou l'accouchement, chez un nouveau-né vivant';1;0
+e;5962117;'le monstre est vivant';777;0
+e;6296385;'anoxie ou hypoxie foetale constatée avant le début du travail chez un nouveau-né vivant';1;0
+e;6300623;'anoxie ou hypoxie intra-utérine constatée avant le début du travail chez un nouveau-né vivant';1;0
+e;12079797;'matière noire du vivant';1;0
+e;12880505;'baccalauréat sciences et technologies de l'agronomie et du vivant';777;0
+e;6329627;'acidose intra-utérine constatée avant le début du travail chez un nouveau-né vivant';1;0
+e;15441853;'Moi vivant ? Jamais !';1;0
+e;15441854;'Moi vivant ? Ça Jamais !';1;0
+e;5899725;'plus grand homme vivant';777;0
+e;6447927;'chez l'enfant né vivant souffrance foetale observée initialement pendant le travail';1;0
+e;6440610;'absence d'organisme vivant';1;0
+e;6428958;'organisme vivant non identifié';1;0
+e;10316830;'Molière de l'auteur francophone vivant';777;0
+e;10558132;'manifestation de théâtre et de spectacle vivant';1;0
+e;11414819;'être vivant unicellulaire';1;0
+e;6324035;'anoxie chez un nouveau-né vivant';1;0
+e;10847941;'arbre vivant';777;0
+e;11394275;'appel aux étrangers vivant en France';777;0
+e;15660335;'Le Monument vivant de Biron';777;0
+e;10363200;'musée vivant de la plante aquatique';777;0
+e;10848037;'laser vivant';777;0
+e;6450357;'chez l'enfant né vivant souffrance foetale avant le début du travail';1;0
+e;12285236;'tissu vivant';1;0
+e;12285235;'mort prématurée des cellules dans le tissu vivant';1;0
+e;11155644;'Un vivant qui passe';1;0
+e;11966090;'mort prématurée et non programmée des cellules dans le tissu vivant';1;0
+e;10072530;'L'application de la pensée complexe à la naissance du vivant';777;0
+e;10072529;'naissance du vivant';777;0
+e;10083020;'Classification phylogénétique du vivant';777;0
+e;11178968;'Grand Prix national des arts du spectacle vivant';777;0
+e;11558995;'don d'organe de son vivant';777;0
+e;10457293;'L'Enterré vivant';777;0
+e;5554516;'Théorème vivant';777;0
+e;6437477;'gravité d'asphyxie à la naissance non précisée chez un enfant né vivant';1;0
+e;10144985;'producteur de spectacle vivant';777;0
+e;12784186;'sciences du vivant';1;0
+e;10341497;'Sade vivant de Jean-Jacques Pauvert';777;0
+e;8741488;'être vivant mâle';1;0
+e;8741484;'être vivant femelle';1;0
+e;12497879;'être vivant doué d'intelligence';1;0
+e;12634740;'variabilité du monde vivant';1;0
+e;12634824;'phénomène vivant';1;0
+e;12719379;'enterrement vivant';777;0
+e;15950413;'Je suis vivant et vous êtes morts';777;0
+e;1658551;'de son vivant';1;0
+e;3177874;'histoire évolutive du vivant';777;0
+e;1490003;'Tout corps vivant branché sur le secteur étant appelé à s'émouvoir';1;6
+e;2543435;'moi vivant jamais';1;0
+e;1690982;'enterrer vivant';1;0
+e;1483990;'être vivant non humain';1;4
+e;1766290;'origine et évolution du vivant';1;0
+e;3225585;'Rester vivant';777;0
+e;316315;'T'es vivant... ?';1;50
+e;580186;'monstre mort-vivant';777;0
+e;2923612;'tout corps vivant branché sur le secteur étant appelé à s'émouvoir';777;0
+e;3174555;'d'après modèle vivant';777;0
+e;465360;'T'es vivant';777;50
+e;1847337;'vaccin vivant atténué';1;4
+e;1899094;'latin vivant';777;0
+e;1852584;'vaccin vivant';1;2
+e;372036;'portrait vivant';1;50
+e;381081;'squelette vivant';1;50
+e;352739;'exemple vivant';1;50
+e;340849;'cadavre vivant';1;50
+e;385842;'univers vivant';1;50
+e;348559;'du vivant de';1;50
+e;368102;'pain vivant';1;50
+e;348114;'donneur vivant';1;50
+e;336592;'art vivant';1;50
+e;371736;'polymère vivant';1;50
+e;132838;'mort-vivant';1;228
+e;325706;'monde vivant';1;54
+e;227207;'marchandisation du vivant';1;50
+e;227210;'brevetage du vivant';1;50
+e;228572;'spectacle vivant';1;2
+e;233861;'science du vivant';1;58
+e;238587;'maintenir vivant';1;4
+e;246796;'étude du vivant';1;60
+e;247812;'non vivant';1;58
+e;255407;'modèle vivant';1;6
+e;65081;'organisme vivant';1;144
+e;170206;'tableau vivant';1;50
+e;305833;'l'amour de tout ce qui est vivant';777;50
+e;69458;'Dieu vivant';1;50
+e;152104;'mort vivant';1;70
+e;153500;'dieu vivant';1;50
+e;182529;'fossile vivant';1;2
+e;267249;'classification du vivant';1;50
+e;274623;'brevetabilité du vivant';777;50
+e;280797;'don d'organes de son vivant';777;50
+e;288477;'Histoire évolutive du vivant';777;50
+e;306997;'mur vivant';777;50
+e;199102;'emmurer vivant';1;50
+e;154135;'rester vivant';1;50
+e;71624;'être vivant';1;1882
+e;104538;'bon vivant';1;62
+r;310767721;1384;610120;11;15
+r;298409408;1384;6289715;11;25
+r;301732877;1384;6350144;11;25
+r;303534560;1384;6374045;11;25
+r;304557843;1384;6389591;11;25
+r;305649161;1384;6414778;11;25
+r;316815727;1384;12206559;11;25
+r;366882656;1384;14462640;11;25
+r;371855283;1384;14638088;11;25
+r;373022627;1384;14670387;11;25
+r;373038241;1384;14670529;11;25
+r;374007369;1384;14715195;11;25
+r;389984971;1384;14916240;11;25
+r;398957409;1384;6321399;11;25
+r;433908048;1384;16492218;11;25
+r;300176180;1384;6324172;11;26
+r;304857283;1384;6392480;11;26
+r;368355551;1384;14506222;11;26
+r;370599253;1384;14585128;11;26
+r;370599267;1384;14585129;11;26
+r;299570938;1384;6308543;11;27
+r;299655378;1384;6315582;11;27
+r;299945831;1384;6320563;11;27
+r;300208025;1384;6327087;11;27
+r;301437411;1384;6337575;11;27
+r;303108038;1384;6373013;11;27
+r;303464518;1384;6374203;11;27
+r;305060559;1384;6398123;11;27
+r;305269017;1384;6402793;11;27
+r;305304138;1384;6405220;11;27
+r;121530711;1384;6439704;11;29
+r;434384960;1384;16322508;11;29
+r;274288930;1384;10905291;11;30
+r;385987135;1384;14883391;11;30
+r;419768935;1384;15441846;11;30
+r;419801669;1384;15441849;11;30
+r;419801675;1384;15660445;11;30
+r;419801679;1384;15550133;11;30
+r;419829069;1384;6397856;11;30
+r;419829092;1384;13751344;11;30
+r;419829119;1384;13755700;11;30
+r;419829152;1384;13746464;11;30
+r;419835093;1384;15441850;11;30
+r;227656797;1384;10005784;11;31
+r;227667780;1384;9999783;11;31
+r;263696265;1384;10583529;11;31
+r;319847752;1384;12313631;11;31
+r;319847769;1384;12313630;11;31
+r;113775763;1384;5816570;11;32
+r;121510692;1384;6441932;11;32
+r;419652996;1384;15830790;11;32
+r;419654157;1384;15204274;11;32
+r;419681544;1384;15204302;11;32
+r;114019003;1384;5836709;11;33
+r;283110916;1384;11080548;11;33
+r;419611679;1384;13784724;11;33
+r;419611697;1384;13769695;11;33
+r;419611718;1384;13784725;11;33
+r;419611739;1384;13769696;11;33
+r;434359734;1384;16170052;11;33
+r;434361281;1384;16170053;11;33
+r;300959288;1384;6330438;11;34
+r;419573152;1384;6394447;11;34
+r;419573173;1384;13748366;11;34
+r;419573198;1384;13775257;11;34
+r;419573225;1384;13748367;11;34
+r;419573247;1384;13775258;11;34
+r;419597226;1384;13756784;11;34
+r;419597252;1384;13760926;11;34
+r;419597274;1384;13743585;11;34
+r;419597538;1384;13753652;11;34
+r;419597562;1384;13750960;11;34
+r;419597582;1384;13753653;11;34
+r;419597606;1384;13750961;11;34
+r;116572908;1384;5962117;11;35
+r;298894819;1384;6296385;11;35
+r;299137183;1384;6300623;11;35
+r;315116141;1384;12079797;11;35
+r;329760709;1384;12880505;11;35
+r;399498984;1384;6329627;11;35
+r;419508763;1384;15441853;11;35
+r;419508769;1384;15441854;11;35
+r;115098916;1384;5899725;11;36
+r;121456715;1384;6447927;11;36
+r;121522582;1384;6440610;11;36
+r;122703768;1384;6428958;11;36
+r;252662665;1384;10316830;11;36
+r;263279508;1384;10558132;11;36
+r;293649105;1384;11414819;11;36
+r;300159710;1384;6324035;11;36
+r;271768017;1384;10847941;11;37
+r;292678109;1384;11394275;11;37
+r;402210457;1384;15660335;11;37
+r;254597932;1384;10363200;11;38
+r;271767629;1384;10848037;11;38
+r;121044188;1384;6450357;11;39
+r;319125604;1384;12285236;11;39
+r;319125617;1384;12285235;11;39
+r;283720176;1384;11155644;11;40
+r;308763669;1384;11966090;11;41
+r;232081038;1384;10072530;11;41
+r;232081074;1384;10072529;11;41
+r;232469002;1384;10083020;11;41
+r;286806084;1384;11178968;11;42
+r;296914872;1384;11558995;11;42
+r;258719607;1384;10457293;11;43
+r;109881190;1384;5554516;11;44
+r;121550639;1384;6437477;11;45
+r;236655949;1384;10144985;11;45
+r;327986186;1384;12784186;11;45
+r;253380154;1384;10341497;11;47
+r;177402970;1384;8741488;11;50
+r;177402976;1384;8741484;11;50
+r;322165637;1384;12497879;11;50
+r;323640946;1384;12634740;11;50
+r;323642526;1384;12634824;11;50
+r;327327003;1384;12719379;11;50
+r;416570374;1384;15950413;11;50
+r;27556803;1384;1658551;11;52
+r;76639328;1384;3177874;11;52
+r;24628629;1384;1490003;11;54
+r;52455932;1384;2543435;11;54
+r;27921014;1384;1690982;11;56
+r;24534618;1384;1483990;11;57
+r;29047529;1384;1766290;11;57
+r;77696329;1384;3225585;11;57
+r;93796144;1384;3761101;11;58
+r;14342497;1384;316315;11;59
+r;18149166;1384;580186;11;59
+r;71581867;1384;2923612;11;59
+r;76447050;1384;3174555;11;59
+r;16399756;1384;465360;11;60
+r;29874925;1384;1847337;11;60
+r;93795164;1384;3761100;11;60
+r;30597477;1384;1899094;11;61
+r;29849119;1384;1852584;11;67
+r;12613965;1384;372036;11;101
+r;12576945;1384;381081;11;102
+r;12692307;1384;352739;11;102
+r;12741773;1384;340849;11;102
+r;12557981;1384;385842;11;104
+r;12708987;1384;348559;11;105
+r;12629849;1384;368102;11;108
+r;12710863;1384;348114;11;108
+r;12759257;1384;336592;11;108
+r;12615259;1384;371736;11;110
+r;132071;1384;132838;11;142
+r;11227803;1384;325706;11;148
+r;8696716;1384;227207;11;161
+r;8696721;1384;227210;11;161
+r;8697575;1384;228572;11;161
+r;8701772;1384;233861;11;161
+r;8705509;1384;238587;11;161
+r;8710353;1384;246796;11;161
+r;8711223;1384;247812;11;161
+r;8719735;1384;255407;11;161
+r;8592001;1384;65081;11;162
+r;8632429;1384;170206;11;162
+r;8771724;1384;305833;11;162
+r;8593508;1384;69458;11;163
+r;8622612;1384;152104;11;163
+r;8623363;1384;153500;11;163
+r;8640277;1384;182529;11;163
+r;8735162;1384;267249;11;163
+r;8742574;1384;274623;11;163
+r;8748205;1384;280797;11;163
+r;8756477;1384;288477;11;163
+r;8772850;1384;306997;11;163
+r;8666219;1384;199102;11;165
+r;160066;1384;154135;11;189
+r;128080;1384;71624;11;198
+r;170899;1384;104538;11;208

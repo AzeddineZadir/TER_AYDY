@@ -1,0 +1,128 @@
+
+e;89066;'impossible';1;350
+e;14231819;'rendre la vie impossible à';1;0
+e;14452738;'renonciation impossible';1;0
+e;14585585;'tout ce qui n'est pas optimisé est évolutivement impossible';777;0
+e;14654464;'impossible à arrêter';1;0
+e;14654462;'impossible à stopper';1;0
+e;6361372;'erection impossible';1;0
+e;5814926;'cube impossible';777;0
+e;10913921;'L'impossible Monsieur Pipelet';777;0
+e;15243119;'chose impossible';1;0
+e;5803695;'Le Déshabillage impossible';777;0
+e;15835167;'cela m'est impossible. Je ne peux vraiment pas.';1;0
+e;10747052;'Rénovation impossible';777;0
+e;16316368;'Il est impossible de le faire.';1;0
+e;15398084;'Nous ferons l'impossible pour finir à temps.';1;0
+e;16074148;'Renonciation impossible';1;0
+e;15293470;'Tu es un homme impossible à satisfaire.';1;0
+e;12080029;'montée impossible';1;0
+e;16492052;'Le Voyage à travers l'impossible';777;0
+e;11590371;'Le Tribunal de l'impossible';777;0
+e;6529159;'impossible de franchir';777;0
+e;10519171;'Enquête dans l'impossible';777;0
+e;11572606;'vouloir vivre un amour impossible';1;0
+e;11572604;'vivre un amour impossible';1;0
+e;11009662;'cryptanalyse différentielle impossible';777;0
+e;2435466;'rendre la vie impossible';1;0
+e;11220010;'connexion impossible';1;0
+e;5521425;'Mission impossible 2';777;0
+e;5521430;'Mission impossible 6';777;0
+e;9635760;'réparation impossible';1;0
+e;15306375;'Il était littéralement impossible de trouver une place.';1;0
+e;15373645;'C'est carrément impossible.';1;0
+e;15750821;'C'est pratiquement impossible.';1;0
+e;15771979;'Il m'est impossible de le faire.';1;0
+e;16316371;'C'est impossible.';1;0
+e;2605289;'à coeur vaillant rien d'impossible';1;0
+e;3759435;'gâteau impossible (le gâteau flan mexicain)';1;0
+e;1773446;'impossible à distinguer';1;0
+e;3312035;'impossible à réfréner';1;0
+e;586871;'À coeur vaillant rien d'impossible';777;0
+e;3700336;'attendre l'impossible';1;0
+e;5141607;'choix impossible';1;2
+e;4856536;'La Ballade de l'impossible';1;0
+e;386851;'vie impossible';1;50
+e;352808;'existence impossible';1;50
+e;314367;'quasi-impossible';1;50
+e;318856;'Notre besoin de consolation est impossible à rassasier';1;50
+e;326422;'impossible de rester impassible';1;50
+e;210115;'à cur vaillant rien d'impossible';1;50
+e;210168;'à l'impossible nul n'est tenu';1;50
+e;212069;'tenter l'impossible';1;54
+e;210629;'demander l'impossible';1;50
+e;144161;'faire l'impossible';1;52
+e;231216;'amour impossible';1;12
+e;231758;'mission impossible';1;62
+e;247890;'objet impossible';1;52
+e;254036;'impossible équation';1;50
+e;67651;'Se taire est impossible';1;50
+e;205003;'par impossible';1;50
+e;137628;'c'est impossible';1;50
+e;154759;'impossible n'est pas français';1;52
+e;131983;'Mission impossible';1;54
+e;312908;'Mission impossible 3';777;50
+r;310760613;89066;3183175;11;15
+r;310760615;89066;3183176;11;15
+r;361286140;89066;14231819;11;25
+r;366874788;89066;14452738;11;25
+r;370652597;89066;14585585;11;25
+r;372574608;89066;14654464;11;25
+r;372574664;89066;14654462;11;25
+r;302114686;89066;6361372;11;27
+r;113782179;89066;5814926;11;30
+r;274352124;89066;10913921;11;31
+r;419708454;89066;15243119;11;31
+r;113302172;89066;5803695;11;32
+r;419692099;89066;15835167;11;32
+r;269389274;89066;10747052;11;34
+r;434343980;89066;16316368;11;34
+r;419515425;89066;15398084;11;34
+r;419534153;89066;16074148;11;34
+r;419555462;89066;15293470;11;34
+r;315114948;89066;12080029;11;35
+r;433899443;89066;16492052;11;35
+r;298272050;89066;11590371;11;37
+r;121396562;89066;6529159;11;39
+r;262197685;89066;10519171;11;40
+r;297608865;89066;11572606;11;40
+r;297608874;89066;11572604;11;40
+r;278847896;89066;11009662;11;42
+r;55114530;89066;2435466;11;43
+r;287675558;89066;11220010;11;43
+r;109043441;89066;5521425;11;49
+r;109046230;89066;5521430;11;49
+r;216855767;89066;9635760;11;50
+r;402111256;89066;15306375;11;50
+r;395010725;89066;15373645;11;50
+r;405571903;89066;15750821;11;50
+r;413897106;89066;15771979;11;50
+r;431517737;89066;16316371;11;50
+r;55482873;89066;2605289;11;53
+r;93647877;89066;3759435;11;53
+r;29133667;89066;1773446;11;54
+r;83385557;89066;3312035;11;54
+r;18423645;89066;586871;11;55
+r;91978937;89066;3700336;11;55
+r;105902632;89066;5141607;11;55
+r;101802240;89066;4856536;11;59
+r;12553975;89066;386851;11;109
+r;12692009;89066;352808;11;109
+r;11847053;89066;314367;11;123
+r;9015180;89066;318856;11;148
+r;11436274;89066;326422;11;148
+r;8877989;89066;210115;11;151
+r;1918892;89066;210168;11;152
+r;8879418;89066;212069;11;152
+r;1918893;89066;210629;11;153
+r;8874694;89066;144161;11;153
+r;8699715;89066;231216;11;161
+r;8700169;89066;231758;11;161
+r;8711276;89066;247890;11;161
+r;8717861;89066;254036;11;161
+r;8592914;89066;67651;11;162
+r;8676204;89066;205003;11;162
+r;8618062;89066;137628;11;163
+r;1918894;89066;154759;11;164
+r;8615645;89066;131983;11;164
+r;8779305;89066;312908;11;164

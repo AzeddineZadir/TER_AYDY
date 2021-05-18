@@ -1,0 +1,2931 @@
+
+e;25705;'terre';1;4214
+e;6330502;'hôpitaux de l'armée de terre';1;0
+e;6350916;'occupant d'un train ou d'un véhicule ferroviaire blessé lors d'un heurt par chute de terre';1;0
+e;6364112;'couleuvre de terre';1;0
+e;6375631;'heurt par chute de terre';1;0
+e;6406959;'hôpital de l'armée de terre';1;0
+e;12196959;'pomme de terre ac';1;0
+e;12181213;'mesure de pomme de terre activation des basophiles';1;0
+e;12181211;'mesure de pomme de terre ac igg4';1;0
+e;12181209;'détermination de la présence de pomme de terre ac igg classification rast';1;0
+e;12181206;'mesure de pomme de terre ac igg';1;0
+e;12181204;'détermination de la présence de pomme de terre ac ige classification rast';1;0
+e;12181202;'mesure de pomme de terre ac ige';1;0
+e;12688709;'terre-papier';777;0
+e;12978355;'Avaler la terre';777;0
+e;13643688;'nématodes à kyste de la pomme de terre';777;0
+e;13644118;'nématode à kyste de la pomme de terre';1;0
+e;13684191;'terre de Morrell';777;0
+e;13722920;'brique en terre crue';777;0
+e;14114574;'Signe terre';777;0
+e;14114573;'signes de terre';777;0
+e;14159552;'aller en terre jaune';1;0
+e;14159829;'être de la terre jaune';1;0
+e;16162838;'spécialité à base de pommes de terre';1;0
+e;14242089;'revenir sur terre';1;0
+e;14242088;'retomber sur terre';1;0
+e;14374297;'armée de terre américaine';1;0
+e;14389319;'liste des formations en activité dans l'Armée de terre française';777;0
+e;14474936;'voiturier par terre';777;0
+e;14424286;'Le mélange de terre';777;0
+e;14428065;'balle à terre';777;0
+e;14431614;'Les deux pieds sur terre';777;0
+e;14538730;'produit à base de pomme de terre';1;0
+e;14572644;'terre hypothéquée';1;0
+e;14580286;'terre inconnue';1;0
+e;14581673;'Route bloquée / homme à terre';777;0
+e;14609807;'pommes de terre transgéniques';1;0
+e;14609808;'recettes à base de pomme de terre';1;0
+e;14611741;'pomme de terre à la braise';1;0
+e;14631063;'armées françaises de terre et de mer';1;0
+e;14632412;'tirs contre terre';1;0
+e;14632567;'vases en terre cuite';1;0
+e;14632571;'objet de terre';1;0
+e;14637662;'terre labourable';1;0
+e;14638101;'jeter de la terre';1;0
+e;14740086;'farine de pommes de terre';1;0
+e;14769121;'dragon de terre';777;0
+e;14769124;'année du dragon de terre';777;0
+e;14769999;'année du buffle de terre';777;0
+e;14774431;'armée de terre française';1;0
+e;14777630;'mois du rat de terre';777;0
+e;14777625;'rat de terre';777;0
+e;15830875;'terre-battue';1;0
+e;14852134;'masse de terre';1;0
+e;14909362;'monceau de terre';1;0
+e;6303059;'exposition non professionnelle à de la terre polluée';1;0
+e;15536910;'terre pauvre';1;0
+e;6325604;'contamination du produit par la terre';1;0
+e;6365708;'empoisonnement par la pomme de terre';1;0
+e;15789100;'statuettes de terre cuite';777;0
+e;16154231;'tuyau en terre cuite';777;0
+e;16155177;'ver de terre amoureux d'une étoile';777;0
+e;294731;'bien avant dans les terres';1;50
+e;5791782;'association européenne pour la recherche sur la pomme de terre';777;0
+e;6413003;'frappé par la chute d'un amas de terre';1;0
+e;12090284;'(carotte+mogette+pois+pomme de terre) ac ige';1;0
+e;12197451;'guillon-terre-plaine';777;0
+e;12979910;'amender une terre';1;0
+e;14003819;'La Formation de la terre végétale par l'action des vers de terre';777;0
+e;14486296;'pot en terre cuite';1;4
+e;14486297;'terre réfractaire';1;0
+e;14562183;'sac à pommes de terre';1;0
+e;14562822;'pommes de terre à la dauphine';1;0
+e;14568828;'mise à terre';1;0
+e;14594427;'noisette de pomme de terre';1;0
+e;14596743;'se mettre plus bas que terre';1;0
+e;14606412;'rester à terre';1;0
+e;14629315;'travaux de la terre';1;0
+e;14636997;'mises plus bas que terre';1;12
+e;14670143;'rotation de la terre';1;4
+e;14718273;'révolution de la terre';1;0
+e;14722234;'pommes de terre bouillies';1;0
+e;14722257;'face contre terre';1;2
+e;14722983;'traîner par terre';1;0
+e;14725417;'centre à ras de terre';1;2
+e;14775205;'terre d'ombre brûlée';1;0
+e;15027958;'amandes de terre';1;0
+e;15032649;'armées de terre';1;0
+e;15032669;'arpents de terre';1;0
+e;15978821;'tortues de terre';1;0
+e;16163781;'fricassée de pintade aux morilles & pommes et terre façon salardaise';1;0
+e;16166010;'lapin en papillote aux pommes de terre et champignons';1;0
+e;5792577;'La Bataille des pommes de terre';777;0
+e;5792554;'base de données européenne des pommes de terre cultivées';777;0
+e;5788798;'année internationale de la pomme de terre';777;0
+e;10624439;'Ma terre et mon peuple';777;0
+e;12090285;'(carotte+mogette+pois+pomme de terre) ac ige classification rast';1;0
+e;5799740;'consortium de séquençage du génome de la pomme de terre';777;0
+e;5799629;'Comité national interprofessionnel de la pomme de terre';777;0
+e;5798702;'code BBCH de la pomme de terre';777;0
+e;5798462;'cicadelle de la pomme de terre';777;0
+e;5796749;'Centre international de la pomme de terre';777;0
+e;5796746;'Centre de recherches sur la pomme de terre';777;0
+e;5796187;'canular de la pomme de terre Maggie Murphy';777;0
+e;5794691;'production de pommes de terre';1;0
+e;5788673;'altise de la pomme de terre';777;0
+e;10985544;'division d'infanterie de l'armée de terre française';1;0
+e;12104280;'pomme de terre activation des basophiles';1;0
+e;12104279;'pomme de terre ac igg4';1;0
+e;12104278;'pomme de terre ac igg classification rast';1;0
+e;12104277;'pomme de terre ac igg';1;0
+e;12104276;'pomme de terre ac ige classification rast';1;0
+e;12104275;'pomme de terre ac ige';1;0
+e;12239440;'mesure de pomme de terre ac igg | technique indéterminée | sérum | ponctuel | résultat numérique | masse/volume';1;0
+e;12239439;'mesure de pomme de terre ac igg | technique indéterminée | sérum | ponctuel | résultat numérique | arbitraire/volume';1;0
+e;13534743;'saison 2016 de l'équipe cycliste Armée de terre';777;0
+e;5808018;'tour à pommes de terre';777;0
+e;5797211;'charançons andins de la pomme de terre';777;0
+e;10589426;'Quand la terre s'entrouvrira';777;0
+e;10985341;'histoire de l'Armée de terre française';777;0
+e;10986731;'cracher par terre';1;0
+e;10986668;'armée de terre française sur le front occidental en 1914';777;0
+e;12110380;'pomme de terre ag';1;0
+e;12109246;'(carotte+mogette+pois+pomme de terre) ag';1;0
+e;5810865;'virus V de la pomme de terre';777;0
+e;5806098;'histoire de la pomme de terre';777;0
+e;5804057;'gangrène de la pomme de terre';777;0
+e;5802802;'Famine de la pomme de terre en Europe';777;0
+e;9959383;'terre de la Reine-Élisabeth';777;0
+e;9986815;'mortier de terre';777;0
+e;9986802;'béton de terre';777;0
+e;10591383;'132e bataillon cynophile de l'Armée de terre';777;0
+e;10985545;'division d'infanterie de l'armée de terre';1;0
+e;15520689;'course de la terre';1;0
+e;15305857;'court de tennis en terre battue';1;0
+e;15305856;'court de terre battue';1;0
+e;15305840;'court en terre battue';1;0
+e;16036804;'couvre-terre';1;0
+e;15217077;'croquette de pomme de terre';1;0
+e;15240415;'croquette de pommes de terre';1;0
+e;15219296;'cultiver une plante en pleine terre';1;0
+e;15418178;'culture de la terre';1;0
+e;15548164;'câble de terre';1;0
+e;15543789;'de la terre';1;0
+e;15240407;'de pommes de terre';1;0
+e;15212271;'des paysans sans terre';1;0
+e;15378662;'des pommes de terre en robe des champs';1;0
+e;15384162;'descendre à terre';1;0
+e;15482009;'descendu à terre';1;0
+e;15571284;'dieu de la terre';1;0
+e;15213611;'déesse terre';1;0
+e;15482339;'délinéament de la terre';1;0
+e;15418181;'en rester le cul par terre';1;0
+e;15418185;'en terre battue';1;0
+e;15255568;'en terre cuite';1;0
+e;294733;'chasser sur les terres d'autrui';1;50
+e;5810866;'Virus X de la pomme de terre';777;0
+e;5810858;'Virus T de la pomme de terre';777;0
+e;5828086;'sirop de poire de terre';777;0
+e;5832560;'sans-terre';1;0
+e;6080926;'École de l'aviation légère de l'Armée de terre';777;0
+e;6080916;'écrasement d'un Mil Mi-8 de l'armée de terre russe près de Vladikavkaz';777;0
+e;6080790;'béret de l'aviation légère de l'Armée de terre';777;0
+e;6068977;'Entre terre et mer';777;0
+e;9980435;'toucher la terre';1;0
+e;9986814;'matériau terre';777;0
+e;9986813;'terre crue';777;0
+e;10005720;'Menace sous la terre';777;0
+e;10577824;'Tous les biens de la terre';777;0
+e;10599483;'Magiciens de la terre';777;0
+e;11030403;'unité du génie de l'armée de terre française';1;0
+e;11047926;'En terre étrangère';777;0
+e;11069059;'corps d'armée de l'armée de terre';1;0
+e;12320457;'Grades de l'Armée de terre';777;0
+e;15318035;'congé à terre';1;0
+e;15240405;'corvée de pommes de terre';1;0
+e;15539095;'couche de terre arable';1;0
+e;15280922;'couché à terre';1;0
+e;15390118;'couchée à terre';1;0
+e;16381815;'avoir un genou à terre';1;0
+e;2462149;'perce-terre';1;0
+e;5619432;'général de division de l'armée de terre';1;0
+e;5623352;'maladie fongique de la pomme de terre';1;0
+e;5621003;'pommes de terre ridées des Canaries';777;0
+e;5619661;'pomme de terre primeur du Roussillon';777;0
+e;5806589;'inhibiteur de carboxypeptidase de pomme de terre';777;0
+e;5829482;'terre cuite provençale';777;0
+e;5828274;'mets à base de pommes de terre';777;0
+e;5816449;'grand tremblement de terre de Hanshin-Awaji';777;0
+e;5910035;'teigne guatémaltèque de la pomme de terre';777;0
+e;5910023;'teigne de la pomme de terre';777;0
+e;6080250;'forces aéromobiles de l'armée de terre';777;0
+e;10008564;'Californie terre promise';777;0
+e;10955161;'Armée de terre serbe';777;0
+e;11030404;'unité du génie de l'armée de terre';1;0
+e;11054318;'vase en terre cuite';1;0
+e;11069058;'corps d'armée de l'armée de terre allemande';1;0
+e;11069061;'pommes de terre noisette';777;0
+e;11069983;'Collège d'enseignement supérieur de l'Armée de terre';777;0
+e;11069860;'unité de l'armée de terre française';1;0
+e;11069272;'division de l'Armée de terre';1;0
+e;11354019;'commissariat de l'Armée de terre de Strasbourg';777;0
+e;11354015;'région terre Nord-Ouest';777;0
+e;12202119;'(carotte+mogette+pois+pomme de terre)';1;0
+e;15287739;'avoir envie de rentrer sous terre';1;0
+e;15531960;'avoir le mal de terre';1;0
+e;15241317;'balayer par terre';1;0
+e;15581206;'balle à ras de terre';1;0
+e;15263519;'bancs de terre neuve';1;0
+e;15397248;'borne de mise à la terre';1;0
+e;15199772;'borne de terre';1;0
+e;15214969;'boucle de terre';1;0
+e;15418175;'bout de terre';1;0
+e;15272891;'brise de terre';1;0
+e;15761144;'c'est à s'en taper le derrière par terre';1;0
+e;15354884;'c'est à se rouler par terre !';1;0
+e;15322117;'c'est à se taper le cul par terre';1;0
+e;15322122;'c'est à se taper le derrière par terre';1;0
+e;15761145;'c'était à s'en taper le derrière par terre';1;0
+e;15322121;'c'était à se taper le cul par terre';1;0
+e;15322119;'c'était à se taper le derrière par terre';1;0
+e;15255559;'carreau en terre cuite';1;0
+e;15255561;'carreaux en terre cuite';1;0
+e;16037510;'cession de terre';1;0
+e;15777082;'chef d'état-major de l'armée de terre des États-Unis';777;0
+e;5623388;'variété ancienne de pomme de terre';1;0
+e;5623396;'cultivar de pomme de terre';1;0
+e;5807918;'jarre de terre cuite';1;0
+e;5816913;'ravageur de la pomme de terre';1;0
+e;10028698;'briques de terre comprimée';777;0
+e;10959213;'angelets de la terre';777;0
+e;11059382;'arme de l'armée de terre';1;0
+e;11069967;'direction des ressources humaines de l'Armée de terre';777;0
+e;11069972;'commandement des forces spéciales terre';777;0
+e;11070131;'commandement terre pour le territoire national';777;0
+e;11070201;'liste des formations en activité dans l'armée de terre';777;0
+e;11995567;'ver de terre commun';777;0
+e;15264036;'assaisonnement pour salade de pommes de terre';1;0
+e;15232068;'atmosphère de la terre';1;0
+e;5840665;'Pomme de terre de Pertuis';777;0
+e;5840659;'pomme de terre de Breux';777;0
+e;5840033;'secteur de la pomme de terre';777;0
+e;5839975;'cuisine de la pomme de terre';777;0
+e;5839967;'parc de la pomme de terre';777;0
+e;5839962;'planteuse de pommes de terre';777;0
+e;5839961;'récolteuse de pommes de terre';777;0
+e;5839920;'liste de variétés de pommes de terre';777;0
+e;5839138;'Les Mangeurs de pommes de terre';777;0
+e;10936971;'Le Grand Divorce entre le ciel et la terre';777;0
+e;10994405;'terre alcaline';777;0
+e;11697915;'étroite bande de terre';1;0
+e;15308984;'Son assaillant le jeta à terre.';1;0
+e;15401219;'Un cargo pétrolier a touché terre à l'est de Plymouth.';1;0
+e;15788224;'action contre la terre';777;0
+e;15220432;'aller {or} se déplacer par voie de terre';1;0
+e;16315706;'Vous êtes le sel de la terre';777;0
+e;1832810;'électrode de terre';1;0
+e;2386656;'terre diatomée';1;0
+e;5802945;'Fédération nationale des producteurs de plants de pommes de terre';777;0
+e;5840733;'mouvement de la pomme de terre';777;0
+e;5840721;'la récolte des pommes de terre';777;0
+e;5840138;'noms donnés à la pomme de terre';777;0
+e;5840124;'pommes de terre à chair colorée';777;0
+e;5840034;'liste des fêtes de la pomme de terre';777;0
+e;5840027;'pommes de terre de Chiloé';777;0
+e;5839955;'maladies de la pomme de terre';777;0
+e;5839172;'musées de la pomme de terre';777;0
+e;6705739;'pomme de terre à chair farineuse';1;0
+e;5912357;'pommes de terre en flocons';1;0
+e;5912355;'pommes de terre instantanées';1;0
+e;5980505;'terre électrique';777;0
+e;10832074;'armée de terre des Émirats arabes unis';777;0
+e;10832043;'Armée de terre saoudienne';777;0
+e;10832170;'armée de terre moldave';777;0
+e;10831908;'armée de terre turque';777;0
+e;10832078;'armée de terre d'Iran';777;0
+e;10850542;'unité de l'armée de terre';1;0
+e;10864174;'terre haute';777;0
+e;10868187;'terre déserte';777;0
+e;10929116;'récipient en terre cuite';1;0
+e;11360688;'route huit de terre';777;0
+e;11494316;'armée de terre italienne';777;0
+e;15409325;'Le papier est tombé par terre en tourbillonnant.';1;0
+e;15294572;'Les taupes vivent sous terre.';1;0
+e;15193055;'Ne laissez pas la terre s'assécher.';1;0
+e;16108994;'Le guide UTE C 15-443 préconise une longueur totale maximale de 50 cm pour le câblage d'un parafoudre en dérivation entre une phase de l'alimentation et le répartiteur de terre principal du coffret';777;0
+e;16121988;'La mise en terre au Québec';777;0
+e;5623288;'virus de la fasciation de la pomme de terre';777;0
+e;5623242;'secteur de la pomme de terre au Pérou';777;0
+e;5623177;'gélose dextrosée à la pomme de terre';777;0
+e;5623160;'dégénérescence de la pomme de terre';777;0
+e;5623149;'butteuse à pommes de terre';777;0
+e;5623144;'banque de gènes de la pomme de terre';777;0
+e;5810867;'virus X de la pomme de terre';777;0
+e;5805282;'Groupement d'agriculteurs producteurs de pommes de terre pour l'industrie McCain';777;0
+e;5803474;'fourchette à pomme de terre';777;0
+e;5912360;'pommes de terre dauphinoises';1;0
+e;10832113;'Armée de terre koweïtienne';777;0
+e;10334562;'commissariat de l'Armée de terre';777;0
+e;10998037;'saison 2017 de l'équipe cycliste Armée de terre';777;0
+e;12006155;'le décret sur la terre';777;0
+e;12019202;'année du cochon de terre';777;0
+e;12058452;'armée de terre soviétique';777;0
+e;12058426;'armée de terre togolaise';777;0
+e;12058425;'armée de terre gabonaise';777;0
+e;12058423;'Armée de terre algérienne';777;0
+e;12058421;'Armée de terre d'Afrique du Sud';777;0
+e;5623301;'virus de la mosaïque jaune de la pomme de terre';777;0
+e;5623234;'puceron des germes de la pomme de terre';777;0
+e;5623162;'émeutes des pommes de terre';777;0
+e;5619930;'pommes de terre de primeur';777;0
+e;5810861;'Virus U de la pomme de terre';777;0
+e;5810859;'virus T de la pomme de terre';777;0
+e;5810801;'virus A de la pomme de terre';777;0
+e;5806348;'aviation légère de l'armée de terre';777;0
+e;5806101;'histoire de la pomme de terre au Luxembourg';777;0
+e;5853047;'cresson de terre';777;0
+e;6436795;'accident de transport par collision avec une masse de neige ou de terre par suite d'avalanche ou de glissement de terrain';1;0
+e;10327954;'Le Feu sur la terre';777;0
+e;11148092;'Ombre terre';777;0
+e;11290341;'pont de terre';777;0
+e;11438910;'charançon andin de la pomme de terre';777;0
+e;11502645;'Pomme de terre Rooster';777;0
+e;11545229;'anguilles vers de terre';777;0
+e;11938065;'codes OTAN des grades des officiers des armées de terre';777;0
+e;12058255;'composante terre';777;0
+e;12058444;'armée de terre espagnole';777;0
+e;12058446;'L'armée de terre grecque';777;0
+e;12058424;'armée de terre de Djibouti';777;0
+e;12058439;'armée de terre chinoise';777;0
+e;12081496;'terre jaune';1;0
+e;12242986;'mesure de temps de coagulation activé | coagulation induite par la terre de diatomée | sang | ponctuel | résultat numérique | temps';1;0
+e;13148816;'aviation légère de l'Armée de terre';777;0
+e;2372189;'terre d'infusoire';1;0
+e;2467470;'mettre à terre';1;0
+e;5623294;'virus de la marbrure de la pomme de terre des Andes';777;0
+e;5623243;'semences véritables de pomme de terre';777;0
+e;5623236;'ravageurs de la pomme de terre';777;0
+e;5623227;'flétrissement bactérien de la pomme de terre';777;0
+e;5623194;'liste d'entreprises du secteur de la pomme de terre';777;0
+e;5623136;'Arborescence pomme de terre';777;0
+e;5810864;'Virus V de la pomme de terre';777;0
+e;5810851;'virus M de la pomme de terre';777;0
+e;5803245;'Filière wallonne de la pomme de terre';777;0
+e;5832249;'guerre des pommes de terre';777;0
+e;5884422;'Inocybe à lames couleur de terre';777;0
+e;11151598;'Grand tremblement de terre de Jiajing';777;0
+e;11248440;'Le Brugeron ou Brunengeruz est défini comme une île liégeoise en terre brabançonne';777;0
+e;5623307;'virus des anneaux noirs de la pomme de terre';777;0
+e;5623191;'jus de pomme de terre';777;0
+e;5619943;'La râpe à pommes de terre';777;0
+e;5810868;'Virus Y de la pomme de terre';777;0
+e;5810850;'Virus M de la pomme de terre';777;0
+e;5802800;'Famine de la pomme de terre dans les Highlands';777;0
+e;5841774;'secteur de la pomme de terre en Corée du Nord';777;0
+e;9931157;'6 pieds sous terre';777;0
+e;10196509;'vêtements par terre';1;0
+e;10421342;'terre d'Ellsworth';777;0
+e;10546936;'Armée de terre canadienne';777;0
+e;10753843;'équipe cycliste Armée de terre';777;0
+e;11302624;'coagulation induite par la terre de diatomée';1;0
+e;11518357;'armée de terre de la république de Chine';777;0
+e;11553616;'pommes de terre de la lande de Lunebourg';777;0
+e;11553036;'nématode blanc de la pomme de terre';777;0
+e;11553034;'nématode doré de la pomme de terre';777;0
+e;11572382;'terre du roi Christian IX';777;0
+e;5623298;'virus de la mosaïque de la pomme de terre sauvage';777;0
+e;5623165;'étuveuse à pommes de terre';777;0
+e;5810856;'virus S de la pomme de terre';777;0
+e;5810855;'Virus S de la pomme de terre';777;0
+e;5810844;'virus du jaunissement de la pomme de terre';777;0
+e;5806679;'équipements de l'Armée de terre française';777;0
+e;5884027;'rouille commune de la pomme de terre';777;0
+e;10425960;'rallye terre de l'Auxerrois';777;0
+e;11000049;'saison 2015 de l'équipe cycliste Armée de terre';777;0
+e;11001762;'Le Torero est assis par terre';777;0
+e;11249778;'terre Enderby';777;0
+e;11249777;'terre d'Enderby';777;0
+e;11383191;'le sel de la terre';777;0
+e;11574503;'terre Adélie';777;0
+e;11574502;'île ou terre Alexandre';777;0
+e;5563232;'Le Sang de la terre';777;0
+e;5623312;'virus des nervures jaunes de la pomme de terre';777;0
+e;5623277;'virus andin latent de la pomme de terre';777;0
+e;5623230;'flétrissure bactérienne de la pomme de terre';777;0
+e;5623209;'Noctuelle de la pomme de terre';777;0
+e;5623183;'L'Histoire merveilleuse de la pomme de terre';777;0
+e;5623161;'distillerie de pommes de terre';777;0
+e;5621828;'farine de pomme de terre';777;0
+e;5810869;'virus Y de la pomme de terre';777;0
+e;5855305;'figure de la terre';777;0
+e;9983861;'Son domaine n'est pas accessible aux mortels et est relié à la terre par un arc-en-ciel que seuls les dieux peuvent apercevoir';777;0
+e;10071072;'Sur la terre de nos ancêtres';777;0
+e;10071071;'Sur la terre des monstres disparus';777;0
+e;10071069;'Sur la terre des dinosaures';777;0
+e;10071068;'Sur la terre des géants';777;0
+e;10133110;'Cette terre qui est mienne';777;0
+e;10133095;'Les Corsaires de la terre';777;0
+e;10344497;'pommes de terre sous la cendre';1;2
+e;11069966;'chef d'état-major de l'Armée de terre';777;0
+e;11155304;'figurines en terre cuite';1;0
+e;11254414;'élévation de potentiel de terre';777;0
+e;11254413;'barrette de terre';777;0
+e;11387591;'chemins de terre';777;0
+e;11575376;'terre d'Arnhem';777;0
+e;12279210;'creuser la terre';1;0
+e;12790771;'terre du Nord';777;0
+e;13273378;'colonisation espagnole de la terre ferme d'Amérique';777;0
+e;2365133;'super-terre';777;0
+e;2386081;'fonds de terre';1;0
+e;2422048;'avoir les deux pieds sur terre';1;0
+e;5540479;'serpent de terre';777;0
+e;5623314;'virus latent de la pomme de terre';777;0
+e;5623296;'virus de la mosaïque aucuba de la pomme de terre';777;0
+e;5623291;'virus de la jaunisse nanisante de la pomme de terre';777;0
+e;5623283;'virus de l'enroulement de la pomme de terre';777;0
+e;5623222;'pommes de terre amères';777;0
+e;5623206;'nématode de la pomme de terre';777;0
+e;5623153;'charbon de la pomme de terre';777;0
+e;5619929;'pomme de terre de Merville';777;0
+e;5619928;'pomme de terre de l'île de Ré';777;0
+e;5810862;'virus U de la pomme de terre';777;0
+e;5810800;'Virus A de la pomme de terre';777;0
+e;5802809;'Famine des pommes des terre';777;0
+e;5971408;'Écureuil de terre du Cap';777;0
+e;11178736;'maladies virales de la pomme de terre';777;0
+e;11222338;'terre idyllique';1;0
+e;11254268;'salade pomme de terre thon';1;0
+e;12278681;'en terre inconnue';777;0
+e;12278682;'Retour en terre inconnue';777;0
+e;5556906;'terre giboyeuse';1;0
+e;5619907;'pomme de terre de la Sila';777;0
+e;5802111;'édit des pommes de terre';777;0
+e;5884951;'champignon pomme de terre';777;0
+e;10092667;'se rouler par terre en hurlant';1;0
+e;10178400;'Le Grand Tremblement de terre de Los Angeles';777;0
+e;10177366;'La terre sera rouge';777;0
+e;11172802;'Journal des voyages et des aventures de terre et de mer';777;0
+e;11173110;'objets en terre cuite';1;0
+e;11173111;'objet en terre cuite';1;0
+e;11173108;'objets en terre cuits';1;0
+e;2478607;'signe de terre';1;0
+e;6002718;'lever de terre';777;0
+e;6449441;'maladie de la terre d'infusoires';1;0
+e;11010445;'monticule de terre';1;0
+e;11160356;'réacteur d'essais à terre';777;0
+e;11160354;'prototype à terre';777;0
+e;11173109;'objet en terre cuit';1;0
+e;11938066;'codes OTAN des grades des sous-officiers et militaires du rang des armées de terre';777;0
+e;2365346;'terre-neuva';1;0
+e;2460328;'cerise de terre';1;0
+e;5623164;'éplucheuse à pommes de terre';777;0
+e;6018072;'hutte de terre';777;0
+e;6451065;'couleuvre de terre de l'ouest';1;0
+e;2451125;'souris de terre';1;0
+e;5623237;'Règles et usages du commerce intereuropéen des pommes de terre';777;0
+e;7598137;'récipient en terre';1;0
+e;12058420;'armée de terre sud-africaine';777;0
+e;2363302;'courlis de terre';1;0
+e;2458404;'ancre de terre';1;0
+e;6532914;'terre silicieuse';1;0
+e;11559425;'décorations de l'armée de terre des États-Unis';777;0
+e;5897962;'Pommes de terre de l'Île-du-Prince-Édouard';777;0
+e;5970819;'Écureuil de terre à quatre raies';777;0
+e;9946647;'Corps du génie de l'armée de terre des États-Unis';777;0
+e;8731979;'mollarder par terre';1;0
+e;8738779;'envahir la terre';1;0
+e;8854591;'tout foutre par terre';1;0
+e;9101988;'pierrade terre et mer';1;0
+e;9102130;'chtitha batata : pommes de terre algériennes en sauce rouge';1;0
+e;9102033;'pommes de terre de noirmoutier à la fleur de sel de guérande';1;0
+e;9102020;'gratin de pommes de terre au gouda';1;0
+e;9179050;'se taper le cul par terre';1;0
+e;9464322;'pomme de terre samba';1;0
+e;9464321;'pomme de terre monalisa';1;0
+e;9464317;'pomme de terre agria';1;0
+e;9464316;'pomme de terre agata';1;0
+e;9464319;'pomme de terre belle de fontenay';1;0
+e;9464320;'pomme de terre bintje';1;0
+e;9464318;'pomme de terre BF 15';1;0
+e;9464906;'pomme de terre sèche traitée par une friture une cuisson';1;0
+e;9491635;'flocon de pomme de terre';1;0
+e;9491813;'pomme de terre en chips';1;0
+e;9492034;'pomme de terre bF15';1;0
+e;9491815;'pomme de terre taillée en noisettes';1;0
+e;9491811;'pomme de terre en bâtonnets';1;0
+e;9563667;'Clair de terre';777;0
+e;9605535;'pommes de terre à la poêle';1;0
+e;9605529;'pomme de terre à la poêle';1;0
+e;9651340;'Dalle de céramique ou de terre cuite';777;0
+e;11118310;'École des sous-officiers de l'armée de terre';777;0
+e;11118265;'armée de terre tunisienne';777;0
+e;11129317;'armée de terre cuite';777;0
+e;11131727;'Vingt mille lieues sur la terre';777;0
+e;11394425;'CEMAT - Chef d'état-major de l'armée de terre';777;0
+e;12278680;'Rendez-vous en terre inconnue';777;0
+e;12622797;'la paix sur terre';777;0
+e;12657261;'cassole en terre cuite';1;0
+e;12657260;'cassole en terre cuite émaillée';1;0
+e;12718386;'de pomme de terre de';777;0
+e;12718398;'puceron tacheté de la pomme de terre';777;0
+e;12736132;'exploitation de la terre';1;0
+e;12730391;'cratère de la terre de Wilkes';777;0
+e;12730279;'terre de Lars Christensen';777;0
+e;12730278;'terre de Mac. Robertson';777;0
+e;12730276;'terre de Coats';777;0
+e;12730264;'terre de la Reine-Maud';777;0
+e;12730259;'terre de Charcot';777;0
+e;14009062;'Beignet de pommes de terre';777;0
+e;15293672;'Il a bouché le trou avec de la terre.';1;0
+e;15528003;'Ils ont perdu tous leurs biens lors du tremblement de terre.';1;0
+e;15390789;'Il jetait des pelletées de terre dans la tombe.';1;0
+e;15528005;'Ils ont perdu tout ce qu'ils possédaient lors du tremblement de terre.';1;0
+e;14127787;'Armée de terre espagnole';777;0
+e;14326694;'Armée de terre française';1;0
+e;15294326;'C'est une terre accueillante.';1;0
+e;15521888;'C'est une bonne terre pour la vigne.';1;0
+e;15778420;'Assis par terre';777;0
+e;15950486;'En terre étrangère par Robert A. Heinlein';777;0
+e;589325;'pomme de terre à chair ferme';1;0
+e;1657690;'didactique des sciences de la vie et de la terre';1;0
+e;1781413;'haute terre';1;0
+e;1846575;'médecine de catastrophe au cours d'un tremblement de terre';1;0
+e;2296058;'terre-neuvienne';2;0
+e;3186122;'Le Pot de terre et le Pot de fer';1;0
+e;3230656;'charbons de terre';1;0
+e;3319919;'Association des obtenteurs de pommes de terre du Marché commun';1;0
+e;3359246;'beignets croustillants de pommes de terre';1;0
+e;3371554;'tortilla de pommes de terre';1;2
+e;3370640;'tarte aux pommes de terre, recette du champsaur';1;0
+e;3370638;'tarte aux pommes de terre et st-nectaire';1;0
+e;3369292;'saumon aux pommes de terre de ma marraine';1;0
+e;3368507;'rouelle de porc sur son lit de chou et pommes de terre aux lardons';1;0
+e;3368415;'rôti de dinde tomate-pomme de terre';1;0
+e;3368007;'quiche poireaux - pommes de terre';1;0
+e;3367349;'potée de choux vert pommes de terre et roquefort';1;0
+e;3367210;'pommes de terre sautées aux oignons';1;0
+e;3367199;'pommes de terre fromagères';1;0
+e;3367191;'pommes de terre farcies';1;0
+e;3367175;'pommes de terre à la bière et au gouda';1;0
+e;3367022;'poêlée de pommes de terre aux légumes et au porc';1;0
+e;3365416;'corned-beef pour jeanne et talina, miroton avec pommes de terre';1;0
+e;3363584;'gratin de pommes de terre au camembert';1;0
+e;3363573;'gratin de pomme de terre et foie gras';1;0
+e;3363349;'gourmandise au chocolat 'à tomber par terre'';1;0
+e;3362659;'galettes de pommes de terre de pontivy';1;0
+e;3362613;'galette de pommes de terre et poitrine fumée';1;0
+e;3359803;'cabillaud sauce estivale et petit pressé de pommes de terre';1;0
+e;3360147;'cari de porc aux pommes de terre';1;0
+e;3360754;'coquelet aux courgettes et pommes de terre';1;0
+e;3361480;'cuisse de dinde aux poivrons et pommes de terre';1;0
+e;3361604;'daurade aux pommes de terre et tomates farcies';1;0
+e;3744400;'pommes de terre en moussaka';1;0
+e;3744674;'salade de pommes de terre au zatar';1;0
+e;3745967;'pommes de terre dauphine';1;0
+e;3745652;'ragoût de pommes de terre';1;0
+e;3751394;'pommes de terre ratte du Touquet';1;0
+e;3758516;'grosses pommes de terre coupées en dés';1;0
+e;3758258;'pommes de terre mélangées';1;0
+e;3758043;'pomme de terre de environ';1;0
+e;3757709;'pommes de terre farineuses pelées en dés';1;0
+e;3756701;'pommes de terre coupées en frites';1;0
+e;3755541;'pommes de terre coupées en petits dés';1;0
+e;3755516;'pommes de terre rattes';1;0
+e;3754854;'pommes de terre nouvelles coupées en cubes';1;0
+e;3754551;'pommes de terre brossées';1;0
+e;3754498;'pommes de terre pelées finement râpées et égouttées';1;0
+e;3754082;'petites pommes de terre nouvelles grattées et coupées en deux';1;0
+e;3753810;'belles pommes de terre bintje';1;0
+e;3752456;'pommes de terre pelées et coupées en dés';1;0
+e;3752169;'belles pommes de terre';1;0
+e;5507660;'plus bas que terre';1;0
+e;143846;'Conseils supérieurs de l'armée de terre, de la marine et de l'armée de l'air';1;50
+e;570293;'terre du Japon';777;50
+e;2296061;'terre-neuviers';2;0
+e;2533483;'pomme de terre de conservation';1;0
+e;2514752;'gland de terre';1;0
+e;2581102;'auxiliaires féminines de l'armée de terre';777;0
+e;3318422;'moussaka version Caro, aux pommes de terre';1;0
+e;3318463;'boeuf sauté, pommes de terre et champignons';1;0
+e;3318609;'ecrasée de pomme de terre aux rillettes';1;0
+e;3319956;'terre retirée';1;0
+e;3359033;'andouillettes aux pommes de terre';1;0
+e;3370947;'tarte poireau, pomme de terre, lardons';1;0
+e;3369809;'soupe hivernale : chou vert frisé et pomme de terre';1;0
+e;3369298;'saumon de norvège en écailles de pommes de terre';1;0
+e;3368961;'salade de pommes de terre froides au jambon';1;0
+e;3368956;'salade de pommes de terre au curry à la so';1;0
+e;3368412;'rôti de chevreau aux pommes de terre';1;0
+e;3367988;'quiche fromage, oignons, lardons et pommes de terre';1;0
+e;3367803;'purée rose carotte pomme de terre';1;0
+e;3367209;'pommes de terre sautées aux artichauts';1;0
+e;3367194;'pommes de terre farcies aux escargots';1;0
+e;3367181;'pommes de terre au saucisson à l'ail';1;0
+e;3367180;'pommes de terre au haddock en salade';1;0
+e;3367179;'pommes de terre au chorizo et fromage blanc';1;0
+e;3366827;'petit soufflé de pommes de terre';1;0
+e;3366397;'pâté de pommes de terre feuilleté';1;0
+e;3366394;'pâté de pommes de terre brioché';1;0
+e;3365413;'coquilles st jacques armor argoat, mer et terre';1;0
+e;3364607;'morue aux pommes de terre et sauce blanche';1;0
+e;3362259;'filets de soles crêmés au citron sur lit de pommes de terre et langoustines zestées de citron vert';1;0
+e;3359802;'cabillaud en robe d'ardenne sur lit d'épinards et pommes de terre';1;0
+e;3360145;'cari de lard aux pommes de terre';1;0
+e;3707554;'s'asseoir par terre';1;14
+e;3744619;'salade de pommes de terre estivale';1;0
+e;3744603;'potage poulet-pommes de terre';1;0
+e;3744645;'soupe à l'oignon et aux pommes de terre';1;0
+e;3747411;'Pierrade terre et mer';1;0
+e;3746333;'bortsch aux pommes de terre';1;0
+e;3745791;'pommes de terre de Noirmoutier à la fleur de sel de Guérande';1;0
+e;3757402;'pommes de terre à chair ferme coupées en gros morceaux';1;0
+e;3757331;'pommes de terre lavées brossée et coupées en quartiers';1;0
+e;3757207;'pommes de terre coupées en ou selon grosseur et dans le sens de la longueur';1;0
+e;3756231;'pommes de terre nouvelles épluchées et coupées en fines lamelles';1;0
+e;3756042;'belles pommes de terre coupées en cubes';1;0
+e;3755119;'grosses pommes de terre pelées et grossièrement coupées en morceaux';1;0
+e;3754869;'grosse pomme de terre';1;0
+e;3754846;'pommes de terre de même calibre épluchées et coupées en rondelles';1;0
+e;3753975;'pommes de terre épluchées et coupées en dés';1;0
+e;3753921;'pommes de terre pelées et coupées en petits dés';1;0
+e;3753870;'petites pommes de terre rouges coupées en quatre';1;0
+e;3753295;'restes de purée de pommes de terre';1;0
+e;3753081;'pommes de terre à chair ferme coupées en cubes';1;0
+e;3753017;'pommes de terre de taille moyenne';1;0
+e;3752539;'pomme de terre coupée en petits dés';1;0
+e;3751958;'pommes de terre bonnottes';1;0
+e;4302202;'grosse pomme de terre coupée en quartiers';1;0
+e;5127276;'sous la terre';1;0
+e;1392006;'pommes de terre vapeur';1;2
+e;1963220;'pomme de terre rissolée';1;0
+e;2570638;'faire de la terre le fossé';1;0
+e;3318784;'rata pommes de terre, petits pois, saucisses';1;0
+e;3359212;'barquettes de pommes de terre fromagères';1;0
+e;3359270;'beignets de pommes de terre et maïs';1;0
+e;3371948;'velouté poireaux pommes de terre façon jojo';1;0
+e;3371642;'tourte aux pommes de terre façon tartiflette de ma maman';1;0
+e;3370788;'tarte d'hiver chou/pommes de terre';1;0
+e;3369793;'soupe fenouil et pomme de terre';1;0
+e;3369777;'soupe d'halloween, avec lardons et pommes de terre';1;0
+e;3369547;'soufflé pomme de terre jambon gratinée';1;0
+e;3369126;'salade pommes de terre saucisson';1;0
+e;3368959;'salade de pommes de terre comme en alsace';1;0
+e;3368109;'râpées de pommes de terre aux mirabelles';1;0
+e;3368108;'rapée de pommes de terre, auvergne';1;0
+e;3368082;'ragout de poulet aux topinambours et pommes de terre';1;0
+e;3367183;'pommes de terre aux oignons et au lard';1;0
+e;3367178;'pommes de terre à la soubressade et au chorizo';1;0
+e;3367020;'poêlée de pommes de terre au lard';1;0
+e;3365748;'hamburger du capitaine, galettes de pommes de terre et poulet';1;0
+e;3365613;'galette de pommes de terre au chèvre, spécialité berrichonne';1;0
+e;3363593;'gratin de pommes de terre et saucisson à l'ail';1;0
+e;3362873;'gâteau aux pommes à tomber par terre';1;0
+e;3743823;'fabuleux gratin de pommes de terre';1;0
+e;3744178;'soupe de pommes de terre au saumon fumé';1;0
+e;3744402;'boxty irlandais - galettes de pommes de terre';1;0
+e;3745308;'purée de pommes de terre décadente';1;0
+e;3745429;'tourte viande et pomme de terre';1;0
+e;3746542;'salade de pommes de terre oeufs et prosciutto';1;0
+e;3759460;'roti de buf sauce au madère et à la badiane - pommes de terre au romarin';1;0
+e;3759162;'grosses pommes de terre cuites à l'eau et épluchées';1;0
+e;3758910;'pomme de terre épluchée et coupée en cubes';1;0
+e;3757826;'pommes de terre épluchées et taillées en petits dés';1;0
+e;3756924;'grosses pommes de terre épluchées et coupées en petits dés';1;0
+e;3756883;'pommes de terre coupées en tranches';1;0
+e;3755966;'pommes de terre pelées et coupées en cubes';1;0
+e;3755473;'pommes de terre rouges pelées et coupées en cubes';1;0
+e;3755269;'pommes de terre épluchées coupées en morceaux';1;0
+e;3755054;'petit kilo de pommes de terre épluchées et coupées en rondelles épaisses';1;0
+e;3754901;'pommes de terre hachées';1;0
+e;3754594;'grosses pommes de terre';1;0
+e;5984966;'Les Tremblements de terre';777;0
+e;593321;'La terre-Adélie';777;0
+e;1781229;'basse terre';1;0
+e;1935964;'pommes de terre à chair ferme';1;0
+e;1963200;'pain de pommes de terre';1;0
+e;2296059;'terre-neuviennes';2;0
+e;2951732;'sans terre';777;0
+e;2600689;'tant vaut l'homme, tant vaut sa terre';1;0
+e;2674426;'four en terre';1;0
+e;3284317;'pommes de terre frites';1;6
+e;3319957;'terre gelée';1;0
+e;3319319;'terre de diatomée purifiée';1;0
+e;3358992;'ailerons de poulet et confit pommes de terre carottes';1;0
+e;3371641;'tourte aux pommes de terre';1;0
+e;3371277;'terrine de pommes de terre et thon à la tomate';1;0
+e;3370637;'tarte aux pommes de terre et aux lardons';1;0
+e;3370426;'tarte au saumon et aux pommes de terre';1;0
+e;3368962;'salade de pommes de terre goûteuse';1;0
+e;3368952;'salade de pomme de terre et gambas au lard fumé';1;0
+e;3367198;'pommes de terre fondantes aux pruneaux';1;0
+e;3367176;'pommes de terre à l'andalouse';1;0
+e;3365266;'brochettes de st jacques, pomme de terre et lard';1;0
+e;3365256;'bricks au saumon fumé, pomme de terre et petits oignons caramélisés';1;0
+e;3365105;'omelette aux saucisses et aux pommes de terre';1;0
+e;3363667;'gratin pommes de terre et chorizo';1;0
+e;3363655;'gratin épinard pomme de terre';1;0
+e;3363624;'gratin de saumon / pommes de terre';1;0
+e;3363609;'gratin de purées de carotte et pomme de terre';1;0
+e;3363589;'gratin de pommes de terre aux lardons et fromage';1;0
+e;3363588;'gratin de pommes de terre aux lardons';1;0
+e;3359535;'boulettes de viandes et pommes de terre façon maman';1;0
+e;3360571;'clafoutis de pommes de terre au chèvre cendré';1;0
+e;3360855;'côtes de porc sur lit de pommes de terre à l'ail';1;0
+e;3361311;'croquettes de pomme de terre et viande hachée';1;0
+e;3744290;'purée de pommes de terre à l'huile de truffe';1;0
+e;3744213;'carottes et pommes de terre sautées';1;0
+e;3744729;'soupe poireaupomme de terre en cocotte-minute';1;0
+e;3745021;'pommes de terre nouvelles au four';1;0
+e;3746582;'chou-fleur et pommes de terre façon aloo gobi';1;0
+e;3745803;'ragoût de pommes de terre à la cocotte-minute';1;0
+e;3758303;'pommes de terre non pelées coupées en dés';1;0
+e;3756636;'pommes de terre détaillées en cubes';1;0
+e;3756569;'pommes de terre à chair ferme cuites dans leur peau';1;0
+e;3756502;'grosses pommes de terre coupées en rondelles';1;0
+e;3755845;'grosse pomme de terre pelée et coupée en dés';1;0
+e;3755615;'pomme de terre de taille moyenne';1;0
+e;3755274;'petites pommes de terre nouvelles d'égale grosseur';1;0
+e;3755243;'grosses pommes de terre type Roseval pelées et coupées en dés';1;0
+e;3754346;'grosses pommes de terre pelées et coupées en tranches';1;0
+e;3754252;'pommes de terre nouvelles coupées en dés de côté';1;0
+e;3753749;'pommes de terre rouges coupées en dés';1;0
+e;3753202;'belles pommes de terre épluchées et coupées en cubes';1;0
+e;3751785;'pommes de terre coupées en dés';1;0
+e;3751652;'pommes de terre pelées et coupées en tranches très fines';1;0
+e;3755202;'pommes de terre à chair ferme pelées et coupées en deux';1;0
+e;3869304;'terre à diatomées';1;0
+e;566943;'gale commune de la pomme de terre';777;50
+e;1963210;'pâté aux pommes de terre';1;0
+e;1963273;'saucisse aux pommes de terre';1;0
+e;2089407;'terre-pleins';2;0
+e;2532043;'terre cérique';1;0
+e;2542693;'terre-grièpe';1;0
+e;2587822;'terre-céleri';1;0
+e;3318556;'tarte aux pommes de terre, cougettes et lardons';1;0
+e;5506895;'mis plus bas que terre';1;0
+e;3359207;'barquette d'endives saumon-pomme de terre';1;0
+e;3370635;'tarte aux pommes de terre et au thon';1;0
+e;3370634;'tarte aux pommes de terre et au roquefort';1;0
+e;3370249;'tarte à la purée de pommes de terre';1;0
+e;3368683;'salade aux oignons et pommes de terre';1;0
+e;3368107;'râpé de pommes de terre';1;0
+e;3368059;'râgout aux oeufs et aux pommes de terre';1;0
+e;3367786;'purée carottes/pommes de terre';1;0
+e;3367258;'porc aux piments et ses galettes de pommes de terre';1;0
+e;3367193;'pommes de terre farcies au thon fumé';1;0
+e;3367188;'pommes de terre et carottes écrasées en gratin';1;0
+e;3367151;'pomme de terre rose';1;0
+e;3367023;'poêlée de pommes de terre aux oeufs';1;0
+e;3366364;'pâté aux pommes de terre de mon enfance';1;0
+e;3366361;'pâté au thon et pommes de terre';1;0
+e;3365772;'kartoffelpuffer, galettes de pomme de terre';1;0
+e;3365722;'gratin de céleri rave, pommes de terre et saumon fumé';1;0
+e;3364032;'lasagnes de pommes de terre provençales';1;0
+e;3363930;'lapin aux herbes et ses pommes de terre';1;0
+e;3363572;'gratin de pomme de terre au comté et lardons';1;0
+e;3363545;'gratin de pieds de porc et pommes de terre au comté';1;0
+e;3363402;'gratin de carottes et pommes de terre au boursin';1;0
+e;3363363;'gratin agneau et pomme de terre à la provençale';1;0
+e;3362666;'galettes légères pommes de terre et chèvre';1;0
+e;3373229;'terre-épinard';1;0
+e;3744296;'poulet et pommes de terre en croûte de sel';1;0
+e;3744573;'purée à l'ail et aux pommes de terre rouges';1;0
+e;3744620;'pommes de terre au four au romarin';1;0
+e;3746875;'purée de pommes de terre au fromage à tartiner';1;0
+e;3746366;'cailles farcies aux champignons sur les pommes de terre';1;0
+e;3746273;'cailles aux pruneaux et aux pommes de terre';1;0
+e;3746081;'galettes de pommes de terre au bacon';1;0
+e;3746075;'pain brioché à la purée de pommes de terre';1;0
+e;3745867;'gratin de pommes de terre au Gouda';1;0
+e;3745563;'gratin de fenouil et de pommes de terre';1;0
+e;3759359;'boxty irlandais - Galettes de pommes de terre';1;0
+e;3758547;'pomme de terre de taille moyenne coupée en tranches';1;0
+e;3758357;'petites pommes de terre nouvelles';1;0
+e;3758188;'grosses pommes de terre pelées et coupées en petits morceaux';1;0
+e;3757909;'pommes de terre épluchées et coupés en cubes';1;0
+e;3757625;'petites pommes de terre coupées en deux et réservées dans l'eau froide';1;0
+e;3757416;'grosses pommes de terre à chair ferme';1;0
+e;3757354;'pommes de terre à chair ferme pelées et râpées';1;0
+e;3757211;'pommes de terre écrasées';1;0
+e;3757045;'grosses pommes de terre épluchées et coupées en rondelles';1;0
+e;3756902;'petites pommes de terre nouvelles de même calibre coupées en deux';1;0
+e;3756572;'pommes de terre épluchées et coupées en petits cubes';1;0
+e;3756142;'pommes de terre à chair ferme épluchées';1;0
+e;3755660;'pomme de terre épluchée et coupée en rondelles';1;0
+e;3755079;'petites pommes de terre nouvelles coupées en deux';1;0
+e;3755023;'belles pommes de terre épluchées et coupées en petits dés';1;0
+e;3754134;'belles pommes de terre à chair ferme';1;0
+e;3753739;'pommes de terre moyennes épluchées et coupées en fines lamelles';1;0
+e;3753314;'pommes de terre moyennes';1;0
+e;3752375;'tranches de fromage à raclette par pommes de terre';1;0
+e;3752340;'pommes de terre nouvelles';1;0
+e;3751992;'grosses pommes de terre à chair ferme cuites pelées et taillées en dés';1;0
+e;5059375;'porté en terre';1;0
+e;4402042;'aérer la terre';1;0
+e;566359;'beignets de pommes de terre';777;50
+e;1909404;'terre sans homme';777;0
+e;1971745;'plat en terre';1;0
+e;2296060;'terre-neuviens';2;0
+e;2359056;'terre brulée';1;0
+e;2522618;'cheval de terre';1;0
+e;2498111;'pomme de terre nouvelle';1;0
+e;2581103;'arme féminine de l'armée de terre';777;0
+e;3318461;'gratin de pommes de terre, panais et carottes';1;0
+e;3318589;'gratin brocolis blettes et pommes de terre';1;0
+e;3371695;'tourte poulet tandoori pomme de terre';1;0
+e;3370639;'tarte aux pommes de terre, poireaux et chèvre';1;0
+e;3369850;'soupe veloutée de potimarron et pommes de terre';1;0
+e;3369583;'soupe au lait et pommes de terre';1;0
+e;3368954;'salade de pommes de terre à la souabe';1;0
+e;3367972;'quiche chorizo-pommes de terre';1;0
+e;3367215;'pommes de terre surprises';1;0
+e;3367206;'pommes de terre rissolées et dindonneau';1;0
+e;3367202;'pommes de terre gratinées au chèvre et aux herbes';1;0
+e;3367196;'pommes de terre farcies, chair à saucisse et poitrine fumée';1;0
+e;3367187;'pommes de terre en salade très simple';1;0
+e;3367186;'pommes de terre écrasées au poireau, fromage de chèvre et chorizo';1;0
+e;3367138;'poivrons jaunes, galette de pommes de terre et mâche';1;0
+e;3365104;'omelette aux pommes de terre et lardons';1;0
+e;3364505;'mille-feuilles de pommes de terre au chèvre';1;0
+e;3363607;'gratin de poulet aux pommes de terre et aux poireaux au bleu';1;0
+e;3363592;'gratin de pommes de terre et champignons au parmesan';1;0
+e;3363378;'gratin courgettes et pommes de terre à la mozzarella';1;0
+e;3363317;'gnocchi de pommes de terre façon alsacienne';1;0
+e;3362657;'galettes de pomme de terre';1;0
+e;3362559;'fricassée de pommes de terre campagnarde';1;0
+e;3359609;'bricks de poulet pommes de terre carottes et pruneaux';1;0
+e;3361312;'croquettes de pommes de terre à ma façon';1;0
+e;3361572;'curry rapide de thon et pommes de terre';1;0
+e;3461020;'galettes de pommes de terre';1;0
+e;3743836;'pommes de terre nouvelles au thym';1;0
+e;3746512;'soupe de poireaux et pommes de terre';1;0
+e;3746495;'roti de boeuf sauce au madère et à la badiane - pommes de terre au romarin';1;0
+e;3746442;'pita fourrée aux pommes de terre sautées et à l'uf';1;0
+e;3746336;'Pierrade terre et mer';1;0
+e;3746107;'pommes de terre aux escargots';1;0
+e;3751085;'pommes de terre épluchées';1;0
+e;3759472;'paillassons de pommes de terre (platski)';1;0
+e;3759379;'biscuits sucrés aux pomme de terre (Galicyjskie)';1;0
+e;3758960;'grosses pommes de terre râpées';1;0
+e;3758686;'grosse pomme de terre épluchée et coupée en cubes';1;0
+e;3758429;'belles pommes de terre coupées en tranches';1;0
+e;3758097;'pommes de terre moyennes épluchées et coupées en dés';1;0
+e;3757962;'grosses pommes de terre épluchées';1;0
+e;3757659;'pommes de terre cuites à l'eau et coupées en tranches';1;0
+e;3757089;'petites pommes de terre nouvelles non pelées';1;0
+e;3756762;'purée de pommes de terre froide';1;0
+e;3756147;'pommes de terre émincées';1;0
+e;3755996;'pommes de terre pelées et râpées';1;0
+e;3755892;'pomme de terre pelée';1;0
+e;3754376;'grosse pomme de terre coupée en dés';1;0
+e;3754010;'grosses pommes de terre rosa coupées en cubes';1;0
+e;3753491;'pommes de terre moyennes coupées en dés';1;0
+e;3753407;'pommes de terre épluchées et coupées en lamelles';1;0
+e;3753335;'pommes de terre pelées';1;0
+e;3752794;'belle pomme de terre épluchée et coupée en bâtonnets';1;0
+e;3751707;'petites pommes de terre nouvelles lavées';1;0
+e;3751643;'pommes de terre lavées et coupées en dés';1;0
+e;5059374;'mis en terre';1;0
+e;5334725;'Un monde sans terre';777;0
+e;1657585;'science de la terre';1;0
+e;1781626;'terre boisée';1;0
+e;1963221;'pommes de terre ridées des canaries';1;0
+e;1963176;'gaufre de pommes de terre';1;0
+e;1963219;'pommes de terre à la mode de prague';1;0
+e;2505711;'jambe de terre';1;0
+e;2605794;'bonne terre, mauvais chemins';1;0
+e;2975584;'croc à pommes de terre';1;0
+e;3318752;'crousti galettes de pommes de terre coeur de fromage fondant';1;0
+e;3319633;'plant de pomme de terre';1;0
+e;3319632;'pomme de terre de semence';1;0
+e;3323029;'sirop de pomme de terre';1;0
+e;3359206;'bar en croûte au roquefort et sa purée de pommes de terre';1;0
+e;3371093;'tartiflette aux pommes de terre et carottes';1;0
+e;3370118;'tajine de kefta aux pommes de terre et petits pois';1;0
+e;3369620;'soupe aux vermicelles, poulet, carottes, pommes de terre';1;0
+e;3369365;'sauté de potiron et de pommes de terre au coulis de persil';1;0
+e;3369256;'saucisses et pommes de terre fondantes';1;0
+e;3368963;'salade de pommes de terre "isa"';1;0
+e;3368958;'salade de pommes de terre aux poissons fumés, lituanie';1;0
+e;3368957;'salade de pommes de terre au saumon fumé';1;0
+e;3368841;'salade de haddock et pommes de terre';1;4
+e;3367950;'quiche aux quenelles de veau et pommes de terre';1;0
+e;3367201;'pommes de terre gratinées au carré frais';1;0
+e;3367195;'pommes de terre farcies, chair à saucisse et champignons';1;0
+e;3367190;'pommes de terre farcie chili con carne';1;0
+e;3367177;'pommes de terre à l'ardennaise';1;0
+e;3367024;'poêlée de pommes de terre, champignon, bacon';1;0
+e;3365920;'moussaka version caro, aux pommes de terre';1;0
+e;3365768;'jacket potato, pomme de terre fourrée au thon';1;0
+e;3365619;'galettes de pommes de terre à la viande, pour utiliser les restes';1;0
+e;3359495;'bouillabaisse de pommes de terre aux oeufs';1;0
+e;3364304;'magret de canard et pommes de terre au chèvre';1;0
+e;3359557;'brandade de morue sans pommes de terre';1;0
+e;3363591;'gratin de pommes de terre en béchamel';1;0
+e;3363585;'gratin de pommes de terre au reblochon';1;0
+e;3362658;'galettes de pommes de terre aux navets';1;0
+e;3744666;'soupe de pommes de terre et topinambour';1;0
+e;3744682;'couscous de pommes de terre et de courge';1;0
+e;3751145;'pommes de terre épluchées lavées et coupées en petits morceaux';1;0
+e;3759443;'chtitha batata : Pommes de terre algériennes en sauce rouge';1;0
+e;3758374;'petites pommes de terre épluchées et coupées en dés';1;0
+e;3757886;'pommes de terre à chair ferme coupées en dés';1;0
+e;3757094;'petite pomme de terre cuite à l'eau';1;0
+e;3757072;'bon kilo de pommes de terre épluchées lavées et coupées en rondelles';1;0
+e;3756352;'pommes de terre épluchées coupées en larges rondelles';1;0
+e;3755460;'pommes de terre nouvelles grattées';1;0
+e;3755076;'pommes de terre pelées et coupées en rondelles';1;0
+e;3754342;'pommes de terre épluchées et coupées en morceaux';1;0
+e;3754304;'pommes de terre coupées en morceaux';1;0
+e;3754289;'pommes de terre de taille moyenne coupées en frites';1;0
+e;3754079;'pommes de terre pelées et coupées en batonnets';1;0
+e;3752102;'petites pommes de terre cuites en dés';1;0
+e;566658;'crabe de terre commun';777;50
+e;1906576;'croquettes de pommes de terre au roquefort';1;0
+e;1963352;'pommes de terre rissolées';777;6
+e;2324440;'terre-Adélie';1;0
+e;2496045;'ne plus toucher terre';1;0
+e;2600319;'tant vaut l'homme, tant vaut la terre';1;0
+e;2936261;'Armée de terre';777;0
+e;3230371;'éminence de terre';1;0
+e;3301225;'pipe en terre';1;0
+e;3359158;'baconburger à la galette de pommes de terre';1;0
+e;3359419;'boeuf aux courgettes et pommes de terre';1;0
+e;3371923;'velouté de potimarron, pommes de terre, carottes';1;0
+e;3371917;'velouté de poireaux, lardons et pommes de terre';1;0
+e;3371755;'trio de légumes fumés, choux, poireaux, pommes de terre';1;0
+e;3371666;'tourte de pommes de terre auvergnate';1;0
+e;3371640;'tourte aux pomme de terre';1;0
+e;3371276;'terrine de pommes de terre aux cèpes';1;0
+e;3371097;'tartiflette de pommes de terre et courgettes';1;0
+e;3370381;'tarte au fromage de chèvre et pommes de terre';1;0
+e;3369830;'soupe repas de pommes de terre et de persil au pesto';1;0
+e;3369529;'soufflé aux carottes et aux pommes de terre';1;0
+e;3369308;'saumon fumé sur galettes de pommes de terre';1;0
+e;3369196;'samoussa - feta - pomme de terre - persil';1;0
+e;3369162;'salade tiède au thon, pomme de terre et cerfeuil';1;0
+e;3369080;'salade haricots verts et pommes de terre au saucisson sec';1;0
+e;3368955;'salade de pommes de terre au comté et aux noix';1;0
+e;3368649;'saint-jacques terre et mer';1;0
+e;3368191;'ris de veau aux pommes de terre';1;0
+e;3368112;'"rata" de pommes de terre aux knackis';1;0
+e;3367668;'poulet paysan et pommes de terre rissolées';1;0
+e;3367327;'potage velouté poireaux pommes de terre';1;0
+e;3367211;'pommes de terre sautées aux tomates';1;0
+e;3367208;'pommes de terre sautées au basilic';1;0
+e;3367192;'pommes de terre farcies au jambon fumé';1;0
+e;3367182;'pommes de terre au thon';1;0
+e;3367103;'poisson sur lit de poireaux pommes de terre';1;0
+e;3366363;'pâté aux pommes de terre, bourbonnais';1;0
+e;3365906;'mojo picon : pommes de terre au sel et sauce piquante';1;0
+e;3365113;'omelette épicée aux pommes de terre';1;0
+e;3364466;'mijoté morue-pommes de terre';1;0
+e;3363590;'gratin de pommes de terre complet';1;0
+e;3363562;'gratin de poisson aux pommes de terre';1;0
+e;3363005;'gâteau de pommes de terre à la tomme';1;0
+e;3362609;'galette aux pommes de terre vierzonnaise';1;0
+e;3359647;'brioches moelleuses de pommes de terre au fromage';1;0
+e;3373257;'terre-haricots';1;0
+e;3461019;'galettes de pommes de terre aux lardons';1;0
+e;3741964;'remplir de terre';1;0
+e;3744314;'paupiettes de veau aux pommes de terre';1;0
+e;3745184;'pomme de terre à la crème fraîche';1;0
+e;3746563;'frittata aux pommes de terre';1;0
+e;3745660;'ragoût de buf au céleri et aux pommes de terre';1;0
+e;3745379;'chouquettes de pommes de terre au gruyère';1;0
+e;3759373;'pommes de terre au four à la suédoise (hasselback potatoes)';1;0
+e;3759081;'pommes de terre épluchées et coupées en gros cubes';1;0
+e;3759026;'fécule de pomme de terre ou de maïs';1;0
+e;3757632;'grosse pomme de terre ou petites épluchées et coupées en dés';1;0
+e;3756556;'pommes de terre coupées en cubes';1;0
+e;3756252;'pommes de terre cuites et coupées en fines tranches';1;0
+e;3755629;'pomme de terre lavée et épluchée';1;0
+e;3754797;'pommes de terre pas trop grosses épluchées et coupées en cubes';1;0
+e;3754706;'pomme de terre épluchée et coupée en dés';1;0
+e;3754133;'pommes de terre épluchées et coupées en gros morceaux';1;0
+e;3752412;'pommes de terre cuites à l'eau et coupées en rondelles';1;0
+e;5518387;'bâtonnet de pomme de terre';1;0
+e;566157;'airelle à pomme de terre';777;50
+e;567604;'pommes de terre duchesse';777;50
+e;1175808;'La terre est bleue comme une orange';1;0
+e;2500998;'soulevé de terre';1;0
+e;3230660;'cultiver la terre';1;0
+e;3318429;'camembert et pomme de terre';1;0
+e;3318380;'poêlée délicieuse de fenouil, chorizo et pomme de terre';1;0
+e;3344200;'Airelle à pomme de terre';777;0
+e;3359203;'bar aux langoustines tuilé de pommes de terre';1;0
+e;3371947;'velouté petits pois-pommes de terre';1;0
+e;3371555;'tortilla de pommes de terre et basilic';1;0
+e;3371095;'tartiflette citrouille et pomme de terre';1;0
+e;3370853;'tarte gratinée de pomme de terre et jambon';1;0
+e;3370787;'tarte d'hiver aux pommmes de terre';1;0
+e;3370783;'tarte de pommes de terre aux trois fromages d'elvire';1;0
+e;3370636;'tarte aux pommes de terre et aux 4 fromages';1;0
+e;3370149;'tajine de veau aux pommes de terre et olives';1;0
+e;3369780;'soupe d'hiver aux pommes de terre';1;0
+e;3369574;'soupe au céleri, pomme de terre et ail';1;0
+e;3368960;'salade de pommes de terre et cornichons';1;0
+e;3368711;'salade composée, pomme de terre, oeuf et surimi';1;0
+e;3368085;'ragoût de saucisses fumées aux pommes de terre et à la tomate';1;0
+e;3367978;'quiche de pommes de terre';1;0
+e;3367555;'poulet aux poivrons et pommes de terre';1;0
+e;3367205;'pommes de terre nouvelles à l'ail et au laurier';1;0
+e;3367189;'pommes de terre façon normande';1;0
+e;3367021;'poêlée de pommes de terre aux knacks';1;0
+e;3367015;'poêlée d'endives, pommes de terre et lardons';1;0
+e;3366395;'pâte de pommes de terre';1;0
+e;3366295;'parmentier de pommes de terre aux champignons';1;0
+e;3364531;'mini chipolatas aux chicons et purée de pommes de terre';1;0
+e;3363657;'gratin fondant aux pommes de terre et poireaux';1;0
+e;3363654;'gratinée terre et mer';1;0
+e;3363586;'gratin de pommes de terre au surimi';1;0
+e;3363571;'gratin de pomme de terre au camembert';1;0
+e;3363556;'gratin de poisson au brocolis et pommes de terre';1;0
+e;3362418;'foie gras fondant sur lit de pommes de terre';1;0
+e;3359707;'brochettes poulet et pommes de terre de nono';1;0
+e;3360357;'charlottes de pomme de terre au saumon fumé';1;0
+e;3360810;'corned beef aux pommes de terre et oignon';1;0
+e;3745966;'croissants de pommes de terre';1;0
+e;3745712;'purée de pommes de terre et céleri-rave';1;0
+e;3751350;'grandes pommes de terre';1;4
+e;3751224;'petites pommes de terre';1;0
+e;3751419;'grosses pommes de terre pelées et coupées en dés';1;0
+e;3759249;'crudités des pommes de terre à l'eau du raisin';1;0
+e;3758764;'petites pommes de terre non pelées';1;0
+e;3758143;'pommes de terre cuites et coupées en dés';1;0
+e;3756711;'pommes de terre nouvelles de Noirmoutier';1;0
+e;3756396;'pommes de terre à chair farineuse';1;0
+e;3755951;'pommes de terre farineuses';1;0
+e;3755275;'grosses pommes de terre entières lavées et avec la peau';1;0
+e;3755167;'pommes de terre moyennes détaillées en dés';1;0
+e;3754410;'grosses pommes de terre pelées et coupées en cubes';1;0
+e;3754047;'pommes de terre nouvelles moyennes non pelées';1;0
+e;3753725;'pommes de terre nouvelles coupées en quartiers';1;0
+e;3753070;'pommes de terre pelées et coupées en gros dés';1;0
+e;465557;'terre creuse';1;50
+e;1630221;'figurine en terre cuite';1;0
+e;1963241;'scone de pommes de terre';1;0
+e;1963181;'soupe de pommes de terre';1;0
+e;2356056;'mordre la terre';1;0
+e;2545178;'marron de terre';1;0
+e;3180738;'variétés de pommes de terre';777;0
+e;3289810;'pomme de terre du Soudan';1;0
+e;3318723;'gratin de pommes de terre au chèvre';1;0
+e;3359126;'aumônière de pommes de terre';1;0
+e;3370123;'tajine de mouton aux pommes de terre et figues';1;0
+e;3369822;'soupe poireaux, pommes de terre et céleri branche';1;0
+e;3367974;'quiche courgette-pomme-pomme de terre';1;0
+e;3367840;'quenelles de pommes de terre';1;0
+e;3367204;'pommes de terre nouchette';1;0
+e;3367200;'pommes de terre garnies';1;0
+e;3367185;'pommes de terre campagnardes';1;0
+e;3367184;'pommes de terre aux rousses';1;0
+e;3367025;'poêlée de pommes de terre paysannes';1;0
+e;3366396;'pâté de pommes de terre et viande';1;0
+e;3366072;'pain de thon facile aux pommes de terre';1;0
+e;3365117;'omelette gourmande au boeuf et aux pommes de terre';1;0
+e;3364338;'maquereau fumé et pommes de terre en chemise';1;0
+e;3363594;'gratin de pommes de terre et tomates à la ricotta';1;0
+e;3363587;'gratin de pommes de terre aux deux saumons';1;0
+e;3363583;'gratin de pommes de terre au bleu et lardons';1;0
+e;3363375;'gratin aux pommes de terre à la russe';1;0
+e;3363328;'gnocchis aux pommes de terre';1;0
+e;3362880;'gâteau aux pommes de terre façon limousine';1;0
+e;3372775;'terre-jambon';1;0
+e;3361145;'crêpes de pommes de terre au fromage et aux lardons';1;0
+e;3474916;'paillasson de pommes de terre';1;0
+e;3744762;'gratin de pommes de terre franc-comtois';1;0
+e;3745136;'ragoût de pommes de terre au chorizo';1;0
+e;3746064;'pommes de terre au romarin';1;0
+e;3758822;'pommes de terre brossées et coupées en deux si elles sont grosses';1;0
+e;3758285;'pommes de terre de taille moyenne épluchées et coupées en dés';1;0
+e;3758139;'grosse pomme de terre épluchée et détaillée en cubes';1;0
+e;3758083;'pommes de terre épluchées et coupé en morceaux';1;0
+e;3758028;'pommes de terre pelées et coupées en morceaux';1;0
+e;3757765;'grosses pommes de terre coupées en quartiers';1;0
+e;3756743;'pommes de terre roseval coupées en rondelles épaisses';1;0
+e;3756370;'pommes de terre à chair ferme coupées en gros dés';1;0
+e;3755842;'pommes de terre épluchées et coupées en rondelles';1;0
+e;3755508;'pomme de terre coupée en dés';1;0
+e;3754437;'pomme de terre pelée et coupée en morceaux';1;0
+e;3754395;'pommes de terre nouvelles coupées en deux';1;0
+e;3754233;'pomme de terre moyenne épluchée et coupée en dés';1;0
+e;3754177;'petites pommes de terre nouvelles à chair ferme de même calibre grattées';1;0
+e;3754016;'grosses pommes de terre coupées en morceaux';1;0
+e;3753985;'pommes de terre cuites épluchées et râpées';1;0
+e;3753445;'pomme de terre émincée';1;0
+e;3753029;'pommes de terre lavées';1;0
+e;3752852;'pommes de terre épluchées et coupées en petits morceaux';1;0
+e;3752228;'petite pomme de terre pelée et cuite dans l'eau bouillante';1;0
+e;3752099;'pommes de terre cuites';1;0
+e;3751556;'pommes de terre épluchées et coupées en cubes';1;0
+e;3760090;'terre à';1;0
+e;4306342;'saucisson de pommes de terre';1;0
+e;7598140;'récipient de terre';1;0
+e;1963222;'pommes de terre à la lyonnaise';1;0
+e;1905071;'Types culinaires des pommes de terre';777;0
+e;2927610;'pâté de pomme de terre';777;0
+e;3170418;'commissariat de l'armée de terre';777;0
+e;2950162;'piquet de terre';777;0
+e;393784;'terre de Victoria';777;50
+e;393783;'terre Victoria';777;50
+e;393782;'terre de Marie Byrd';777;50
+e;393719;'La terre des morts';777;50
+e;383393;'terre sèche';1;50
+e;377066;'route de terre';1;50
+e;371780;'pommes de terre à la vapeur';1;50
+e;348683;'déblai de terre';1;50
+e;344045;'coin de terre';1;50
+e;383411;'terre décolorante';1;50
+e;383403;'terre-plein central';1;58
+e;383398;'terre à céréales';1;50
+e;383397;'terre à blé';1;50
+e;383395;'terre verte';1;50
+e;383383;'terre de passage';1;50
+e;383380;'terre de culture';1;50
+e;383377;'terre cultivée';1;50
+e;382006;'sur terre battue';1;50
+e;355503;'fruits de la terre';1;50
+e;383416;'terre à pâturage';1;50
+e;383391;'terre lointaine';1;50
+e;383390;'terre inculte';1;50
+e;383385;'terre des ancêtres';1;50
+e;383382;'terre de liberté';1;50
+e;379151;'sein de la terre';1;50
+e;378306;'sac de pommes de terre';1;50
+e;371778;'pommes de terre râpées';1;50
+e;351505;'en terre';1;52
+e;340662;'buttage de la pomme de terre';1;50
+e;388716;'à la terre';1;50
+e;383417;'terre à vigne';1;50
+e;383410;'terre d'élevage';1;50
+e;383396;'terre volcanique';1;50
+e;383394;'terre tufière';1;50
+e;383376;'terre cuite émaillée';1;50
+e;371024;'planète terre';1;56
+e;364210;'mildiou de la pomme de terre';1;50
+e;354741;'fond de terre';1;50
+e;336449;'arpent de terre';1;50
+e;390005;'épluchure de pomme de terre';1;50
+e;383408;'terre australe';1;50
+e;383401;'terre à seigle';1;50
+e;383379;'terre de contrastes';1;50
+e;383373;'terre boréale';1;50
+e;381206;'statuette en terre cuite';1;50
+e;361465;'lie de la terre';1;50
+e;355806;'galle verruqueuse de la pomme de terre';1;50
+e;346047;'damnés de la terre';1;50
+e;344524;'couche de terre';1;50
+e;340890;'cadre spécial de l'armée de terre';1;50
+e;383389;'terre habitée';1;50
+e;378364;'sac à pomme de terre';1;50
+e;371779;'pommes de terre à l'anglaise';1;50
+e;368392;'paquet de terre';1;50
+e;363550;'massif de terre';1;50
+e;357220;'gâteau de pommes de terre';1;50
+e;352085;'entrailles de la terre';1;50
+e;351757;'endiguement de terre';1;50
+e;383414;'terre usée';1;50
+e;383409;'terre d'exil';1;50
+e;383402;'terre étrangère';1;50
+e;383387;'terre fertile';1;50
+e;383386;'terre entière';1;50
+e;383375;'terre cuite à décor peint';1;50
+e;375367;'ras de terre';1;54
+e;371161;'pleine terre';1;50
+e;340665;'butte de terre';1;50
+e;338929;'beignet de pommes de terre';1;50
+e;338239;'balai de sorcière de la pomme de terre';1;50
+e;336659;'artillerie de terre';1;50
+e;388884;'à ras de terre';1;50
+e;384144;'tour de terre';1;50
+e;383400;'terre à poêle';1;50
+e;383392;'terre stabilisée';1;50
+e;383378;'terre d'origine';1;50
+e;383371;'terre antarctique';1;50
+e;378423;'salade de pommes de terre';1;76
+e;367289;'omelette aux pommes de terre';1;50
+e;354035;'figurine de terre cuite';1;50
+e;388901;'à se rouler par terre';1;50
+e;383399;'terre à froment';1;50
+e;383388;'terre froide';1;50
+e;383384;'terre de roches';1;50
+e;383374;'terre crue polychrome';1;50
+e;378310;'sac de terre';1;50
+e;369872;'perte à la terre';1;50
+e;361592;'ligne de terre';1;50
+e;345296;'croc à pomme de terre';1;50
+e;345077;'crabe de terre';1;50
+e;384796;'travail de la terre';1;66
+e;383381;'terre de larmes';1;50
+e;383372;'terre armée';1;50
+e;383370;'terre activée';1;50
+e;381872;'sur la terre ferme';1;50
+e;371777;'pommes de terre en purée';1;50
+e;368612;'paradis sur terre';1;56
+e;345665;'culture de la pomme de terre';1;50
+e;344836;'courbure de la terre';1;50
+e;35756;'tire-terre';1;50
+e;19016;'terre-neuvas';1;52
+e;7499;'terre-neuvien';1;50
+e;282261;'jour-de-terre';777;50
+e;181456;'charbon-de-terre';1;50
+e;175099;'basse-terre';1;50
+e;167325;'arc-en-terre';1;50
+e;145171;'terre-neuve';1;56
+e;134074;'terre-plein';1;56
+e;131753;'pied-à-terre';1;54
+e;122361;'terre-neuvier';1;50
+e;308061;'terre-noix';777;50
+e;294758;'rez-terre';1;50
+e;294753;'avant-terre';1;50
+e;329632;'dormir par terre';1;50
+e;321092;'terre émergée';1;54
+e;316429;'tomber par terre';1;10
+e;316766;'la terre est basse';1;68
+e;316768;'se traîner par terre';1;68
+e;212458;'français terre-neuvien';1;50
+e;313954;'six pieds sous terre';1;50
+e;218174;'Ma terre d'ailleurs';1;50
+e;222803;'se rouler par terre';1;84
+e;235520;'sciences de la vie et de la terre';1;6
+e;258838;'en vouloir à la terre entière';1;16
+e;259583;'à se taper le cul par terre';1;52
+e;105282;'sur terre';1;50
+e;112690;'La terre qui meurt';1;50
+e;121461;'se foutre par terre';1;54
+e;161199;'centre de la terre';1;74
+e;162798;'la terre';1;50
+e;166696;'Six pieds sous terre';1;56
+e;167830;'terre ensemencée en blé';1;52
+e;167836;'pistache de terre';1;50
+e;168346;'fécule de pommes de terre';1;50
+e;211309;'n'avoir pas les pieds sur terre';1;50
+e;216934;'purée de pomme de terre';1;10
+e;218744;'bande de terre';1;54
+e;219786;'pointe de terre';1;50
+e;221667;'étendue de terre';1;50
+e;221868;'noix de terre';1;52
+e;222326;'prise de terre';1;66
+e;229801;'cochon de terre';1;2
+e;231489;'terre d'islam';1;50
+e;232052;'terre d'accueil';1;50
+e;233588;'chemin de terre';1;52
+e;234758;'technique de la terre brûlée';1;50
+e;237522;'mettre à la terre';1;50
+e;237523;'mise à la terre';1;54
+e;238761;'tomber à terre';1;50
+e;239072;'clair de terre';1;70
+e;239526;'levée de terre';1;50
+e;239537;'espace de terre';1;52
+e;242238;'pot de terre';1;30
+e;242480;'pommes de terre à la braise';1;50
+e;244358;'terre brûlée';1;58
+e;246371;'expédier à terre';1;50
+e;246726;'fécule de pomme de terre';1;56
+e;249142;'amidon de pomme de terre';1;50
+e;250817;'pommes de terre au four';1;6
+e;253106;'pomme de terre en robe de chambre';1;2
+e;253182;'motte de terre';1;50
+e;253940;'terre de Sommières';1;30
+e;256811;'sciences de la terre';1;12
+e;257000;'pomme de terre au four';1;50
+e;257002;'pommes de terre sarladaises';1;12
+e;257003;'pomme de terre sautée';1;50
+e;257004;'pommes de terre sautées';1;12
+e;258087;'vouloir rentrer sous terre';1;50
+e;260107;'purée de pommes de terre';1;56
+e;260118;'gratin de pommes de terre';1;66
+e;261068;'tirer hors de terre';1;50
+e;313171;'variétés de pomme de terre';777;50
+e;24155;'mettre un genou à terre';1;50
+e;24688;'La terre tremble';1;50
+e;27510;'Le Chariot de terre cuite';1;50
+e;38492;'Les Couleurs de la terre';1;50
+e;41243;'Les Fruits de la terre';1;50
+e;41888;'se mettre par terre';1;52
+e;67859;'aller à terre';1;50
+e;68852;'se ficher par terre';1;50
+e;95623;'sortir de terre';1;50
+e;107170;'mettre en terre';1;82
+e;108338;'troupes de terre';1;50
+e;111509;'Fruits de la terre';1;50
+e;112846;'terre de pipe';1;50
+e;112967;'terre emblavée';1;50
+e;114301;'Ils posséderont la terre';1;50
+e;122440;'Le Sel de la terre';1;50
+e;125791;'Au dernier soir sur cette terre';1;50
+e;128892;'se poser à terre';1;50
+e;139842;'L'Amour par terre';1;50
+e;142751;'L'Âge de la terre';1;50
+e;152156;'de terre';1;64
+e;162119;'ventre à terre';1;60
+e;170253;'châtaigne de terre';1;50
+e;170309;'poire de terre';1;50
+e;170527;'tricholome couleur de terre';1;50
+e;202781;'le pot de terre contre le pot de fer';1;50
+e;206613;'qui terre a guerre a';1;50
+e;206964;'rentrer sous terre';1;50
+e;208364;'souhaiter être à cent pieds sous terre';1;50
+e;208790;'tant vaut la terre';1;50
+e;208960;'terre à foulon';1;50
+e;208961;'terre à pipes';1;50
+e;208962;'terre anglaise';1;50
+e;208963;'terre arable';1;50
+e;208964;'terre de barre';1;50
+e;208965;'terre de Cassel';1;50
+e;208966;'terre de Lorraine';1;50
+e;208967;'terre de Sienne naturelle';1;50
+e;208969;'terre grasse';1;62
+e;208970;'terre légère';1;50
+e;208971;'terre lourde';1;50
+e;208972;'terre maigre';1;50
+e;208973;'terre mère';1;50
+e;208974;'terre natale';1;54
+e;208975;'terre neuve';1;50
+e;208976;'terre nourricière';1;50
+e;208977;'terre pourrie';1;50
+e;209153;'tomber face contre terre';1;50
+e;209158;'tomber plus bas que terre';1;50
+e;209344;'travailler la terre';1;62
+e;209955;'voie de terre';1;50
+e;210511;'Commissariat de l'armée de terre';1;50
+e;211765;'saluer jusqu'à terre';1;50
+e;212071;'terre d'asile';1;50
+e;212072;'terre d'élection';1;50
+e;212686;'frapper à terre';1;50
+e;212935;'terre humide';1;50
+e;214172;'galette de pommes de terre';1;62
+e;214989;'langue de terre';1;50
+e;278528;'de la neige qui blanchit la terre de décembre en janvier';777;50
+e;294729;'à cent pieds sous terre';1;50
+e;294734;'de pleine terre';1;50
+e;294736;'être sur terre';1;50
+e;294739;'n'avoir pas un pouce de terre';1;50
+e;294740;'ne pas toucher la terre';1;50
+e;294741;'par mer et par terre';1;50
+e;13085;'se flanquer par terre';1;50
+e;34681;'porter en terre';1;50
+e;43209;'toucher terre';1;50
+e;43662;'terre à tuile';1;50
+e;49325;'Dix Ans sous terre';1;50
+e;51990;'Tremblement de terre';1;50
+e;52925;'Esprit de la terre';1;50
+e;67385;'terre à pipe';1;50
+e;72466;'noir de terre';1;50
+e;75655;'terre glaise';1;86
+e;76541;'terre de Baffin';1;50
+e;78899;'terre à potier';1;60
+e;93399;'Jean sans terre';1;50
+e;95456;'fil de terre';1;50
+e;123152;'terre de bruyère';1;62
+e;127217;'écureuil de terre';1;50
+e;129900;'puce de terre';1;50
+e;130077;'terre à brique';1;50
+e;137531;'J'appartiens à la terre';1;50
+e;140341;'terre d'ombre';1;50
+e;152248;'terre battue';1;92
+e;152348;'vers de terre';1;60
+e;154151;'politique de la terre brûlée';1;52
+e;155296;'lopin de terre';1;62
+e;155606;'pied à terre';1;86
+e;156608;'sous terre';1;56
+e;158591;'pommes de terre';1;384
+e;159634;'terre meuble';1;58
+e;172947;'aplatissement de la terre';1;50
+e;173945;'pomme de terre en robe des champs';1;30
+e;176791;'terre franche';1;50
+e;181455;'charbon de terre';1;50
+e;182238;'écume de terre';1;50
+e;182660;'grande terre';1;50
+e;184192;'schéma de liaison à la terre';1;50
+e;184493;'terre bouloise';1;50
+e;184494;'terre mélienne';1;50
+e;184495;'terre rare';1;10
+e;184496;'terre samienne';1;50
+e;203673;'mesurer la terre';1;50
+e;203799;'mettre plus bas que terre';1;86
+e;203916;'mise en terre';1;54
+e;206067;'pratiquer la politique de la terre brûlée';1;50
+e;206701;'rayé de la surface de la terre';1;50
+e;206704;'rayer de la surface de la terre';1;50
+e;264505;'terre agricole';1;50
+e;265295;'parcelle de terre';1;50
+e;265641;'retourner la terre';1;54
+e;266003;'pommes de terre en robe des champs';1;54
+e;268256;'jeter à terre';1;52
+e;268259;'amas de terre';1;50
+e;269724;'terre de Sienne';1;50
+e;269725;'terre de Sienne brûlée';1;50
+e;270025;'armée de terre des États-Unis';1;50
+e;270210;'couleur terre';1;50
+e;273348;'Terre à terre';777;50
+e;274606;'pomme de terre transgénique';777;50
+e;274607;'pomme de terre génétiquement modifiée';777;50
+e;276507;'terre de noble tenure';777;50
+e;277839;'pommes de terre à l'eau';1;54
+e;282412;'dartrose de la pomme de terre';777;50
+e;283238;'cerises de terre';777;50
+e;283355;'pommes de terre en robe de chambre';777;50
+e;284860;'terre de diatomée';777;50
+e;284861;'terre d'infusoires';777;50
+e;287266;'stockage des pommes de terre';777;50
+e;287809;'magnitude d'un tremblement de terre';777;50
+e;288579;'vent de terre';777;50
+e;291114;'pois de terre';777;50
+e;293564;'terre François-Joseph';777;52
+e;294575;'nouvelle terre';777;50
+e;294757;'retour à la terre';1;50
+e;294759;'terre de la Couronne';1;50
+e;294760;'terre domaniale';1;50
+e;294761;'terre publique';1;50
+e;295771;'Souris de terre';777;50
+e;301190;'doryphore de la pomme de terre';777;50
+e;305870;'pommes de terre à la dauphinoise';777;50
+e;310199;'omelette de pommes de terre';777;50
+e;310223;'terre noire';777;50
+e;313076;'variété de pomme de terre';1;54
+e;294730;'aller ventre à terre';1;50
+e;294732;'cent pieds sous terre';1;50
+e;294735;'entre ciel et terre';1;50
+e;294737;'frapper un ennemi à terre';1;50
+e;294738;'mettre genou à terre';1;52
+e;294742;'prendre terre';1;50
+e;294743;'perdre terre';1;50
+e;294744;'raser la terre';1;50
+e;294745;'remuer de la terre';1;50
+e;294746;'remuer la terre';1;50
+e;294747;'sac à terre';1;50
+e;29793;'terre de sienne';1;50
+e;132757;'pomme de terre';1;1096
+e;134852;'Sel de la terre';1;50
+e;135193;'chasse sous terre';1;50
+e;135448;'terre de Wilkes';1;50
+e;185668;'avoir les pieds sur terre';1;50
+e;196830;'barre à terre';1;50
+e;13393;'tremblements de terre';1;52
+e;198095;'courir ventre à terre';1;50
+e;199037;'effacé de la surface de la terre';1;50
+e;146843;'par terre';1;212
+e;114037;'pièce de terre';1;50
+e;206918;'remuer ciel et terre';1;50
+e;57388;'terre végétale';1;52
+e;208978;'terre promise';1;50
+e;208968;'terre ferme';1;58
+e;111012;'ver de terre';1;112
+e;9256;'estrapade de terre';1;50
+e;195594;'à terre';1;66
+e;152402;'armée de terre';1;118
+e;122993;'terre vierge';1;50
+e;232746;'terre rapportée';1;2
+e;143631;'tremblement de terre';1;262
+e;73;'amande de terre';1;50
+e;199359;'en pleine terre';1;50
+e;203798;'mettre pied à terre';1;50
+e;294748;'terre sainte';1;50
+e;110045;'terre-à-terre';1;50
+e;103256;'terre cuite';1;140
+e;123978;'terre à terre';1;72
+r;300254692;25705;6330502;11;25
+r;301737873;25705;6350916;11;25
+r;302174796;25705;6364112;11;25
+r;303622079;25705;6375631;11;25
+r;305319993;25705;6406959;11;25
+r;316555372;25705;12196959;11;25
+r;316613479;25705;12181213;11;25
+r;316613490;25705;12181211;11;25
+r;316613501;25705;12181209;11;25
+r;316613514;25705;12181206;11;25
+r;316613525;25705;12181204;11;25
+r;316613538;25705;12181202;11;25
+r;325045609;25705;12688709;11;25
+r;337352627;25705;12978355;11;25
+r;346266408;25705;13643688;11;25
+r;346268448;25705;13644118;11;25
+r;347664773;25705;13684191;11;25
+r;348088214;25705;13722920;11;25
+r;357507263;25705;14114574;11;25
+r;357517340;25705;14114573;11;25
+r;359709597;25705;14159552;11;25
+r;359717924;25705;14159829;11;25
+r;423563131;25705;16162838;11;25
+r;361348105;25705;14242089;11;25
+r;361348162;25705;14242088;11;25
+r;365108207;25705;14374297;11;25
+r;365487002;25705;14389319;11;25
+r;367726961;25705;14474936;11;25
+r;366293790;25705;14424286;11;25
+r;366341174;25705;14428065;11;25
+r;366468999;25705;14431614;11;25
+r;369485888;25705;14538730;11;25
+r;370346267;25705;14572644;11;25
+r;370453474;25705;14580286;11;25
+r;370545880;25705;14581673;11;25
+r;371249765;25705;14609807;11;25
+r;371250095;25705;14609808;11;25
+r;371369854;25705;14611741;11;25
+r;371667126;25705;14631063;11;25
+r;371693740;25705;14632412;11;25
+r;371699109;25705;14632567;11;25
+r;371699374;25705;14632571;11;25
+r;371841723;25705;14637662;11;25
+r;371855728;25705;14638101;11;25
+r;374707334;25705;14740086;11;25
+r;375378729;25705;14769121;11;25
+r;375384996;25705;14769124;11;25
+r;375401253;25705;14769999;11;25
+r;375485779;25705;14774431;11;25
+r;375542100;25705;14777630;11;25
+r;375542165;25705;14777625;11;25
+r;412535868;25705;15830875;11;25
+r;384758713;25705;14852134;11;25
+r;389903187;25705;14909362;11;25
+r;397539924;25705;6303059;11;25
+r;397904554;25705;15536910;11;25
+r;399378054;25705;6325604;11;25
+r;400241765;25705;6365708;11;25
+r;411524669;25705;15789100;11;25
+r;423686042;25705;16154231;11;25
+r;423729688;25705;16155177;11;25
+r;6750910;25705;294731;11;26
+r;114457126;25705;5791782;11;26
+r;305494257;25705;6413003;11;26
+r;315647102;25705;12090284;11;26
+r;316247531;25705;12197451;11;26
+r;333257038;25705;12979910;11;26
+r;353054822;25705;14003819;11;26
+r;368126938;25705;14486296;11;26
+r;368126950;25705;14486297;11;26
+r;369980722;25705;14562183;11;26
+r;369999758;25705;14562822;11;26
+r;370270418;25705;14568828;11;26
+r;370809327;25705;14594427;11;26
+r;370900205;25705;14596743;11;26
+r;371192569;25705;14606412;11;26
+r;371598683;25705;14629315;11;26
+r;371813379;25705;14636997;11;26
+r;373012966;25705;14670143;11;26
+r;374223415;25705;14718273;11;26
+r;374309280;25705;14722234;11;26
+r;374309502;25705;14722257;11;26
+r;374319920;25705;14722983;11;26
+r;374371192;25705;14725417;11;26
+r;375492629;25705;14775205;11;26
+r;393273137;25705;15027958;11;26
+r;393576574;25705;15032649;11;26
+r;393600438;25705;15032669;11;26
+r;417022324;25705;15978821;11;26
+r;423616316;25705;16163781;11;26
+r;423732630;25705;16166010;11;26
+r;114455574;25705;5792577;11;27
+r;114455688;25705;5792554;11;27
+r;114458011;25705;5788798;11;27
+r;267331508;25705;10624439;11;27
+r;315477976;25705;12090285;11;27
+r;113788147;25705;5799740;11;28
+r;113788569;25705;5799629;11;28
+r;113792895;25705;5798702;11;28
+r;113793827;25705;5798462;11;28
+r;113798501;25705;5796749;11;28
+r;113798509;25705;5796746;11;28
+r;113799446;25705;5796187;11;28
+r;114450980;25705;5794691;11;28
+r;114458205;25705;5788673;11;28
+r;277367994;25705;10985544;11;28
+r;315532601;25705;12104280;11;28
+r;315532612;25705;12104279;11;28
+r;315532621;25705;12104278;11;28
+r;315532637;25705;12104277;11;28
+r;315532646;25705;12104276;11;28
+r;315532662;25705;12104275;11;28
+r;318468831;25705;12239440;11;28
+r;318468853;25705;12239439;11;28
+r;342801563;25705;13534743;11;28
+r;113287008;25705;5808018;11;29
+r;113797634;25705;5797211;11;29
+r;264468188;25705;10589426;11;29
+r;277330792;25705;10985341;11;29
+r;277361586;25705;10986731;11;29
+r;277361740;25705;10986668;11;29
+r;315485319;25705;12110380;11;29
+r;315491864;25705;12109246;11;29
+r;113276112;25705;5810865;11;30
+r;113294761;25705;5806098;11;30
+r;113300477;25705;5804057;11;30
+r;113306388;25705;5802802;11;30
+r;220865147;25705;9959383;11;30
+r;222152454;25705;9986815;11;30
+r;222152513;25705;9986802;11;30
+r;264462317;25705;10591383;11;30
+r;277310872;25705;10985545;11;30
+r;419747910;25705;15520689;11;30
+r;419748219;25705;15305857;11;30
+r;419748225;25705;15305856;11;30
+r;419748231;25705;15305840;11;30
+r;419749281;25705;16036804;11;30
+r;419752614;25705;15217077;11;30
+r;419752621;25705;15240415;11;30
+r;419755541;25705;15219296;11;30
+r;419755600;25705;15418178;11;30
+r;419757322;25705;15548164;11;30
+r;419768162;25705;15543789;11;30
+r;419769597;25705;15240407;11;30
+r;419774978;25705;15212271;11;30
+r;419775101;25705;15378662;11;30
+r;419775959;25705;15384162;11;30
+r;419775977;25705;15482009;11;30
+r;419779786;25705;15571284;11;30
+r;419807243;25705;15213611;11;30
+r;419810747;25705;15482339;11;30
+r;419842717;25705;15418181;11;30
+r;419843405;25705;15418185;11;30
+r;419843410;25705;15255568;11;30
+r;6750912;25705;294733;11;31
+r;113276103;25705;5810866;11;31
+r;113276156;25705;5810858;11;31
+r;113764456;25705;5828086;11;31
+r;114400836;25705;5832560;11;31
+r;119190099;25705;6080926;11;31
+r;119190143;25705;6080916;11;31
+r;119190676;25705;6080790;11;31
+r;119196313;25705;6068977;11;31
+r;222103288;25705;9980435;11;31
+r;222152459;25705;9986814;11;31
+r;222152461;25705;9986813;11;31
+r;227656817;25705;10005720;11;31
+r;263706044;25705;10577824;11;31
+r;264441691;25705;10599483;11;31
+r;279598589;25705;11030403;11;31
+r;279839850;25705;11047926;11;31
+r;283116551;25705;11069059;11;31
+r;319945866;25705;12320457;11;31
+r;419731281;25705;15318035;11;31
+r;419742050;25705;15240405;11;31
+r;419742982;25705;15539095;11;31
+r;419743237;25705;15280922;11;31
+r;419743247;25705;15390118;11;31
+r;434373840;25705;16381815;11;31
+r;55699315;25705;2462149;11;32
+r;110610777;25705;5619432;11;32
+r;110723760;25705;5623352;11;32
+r;110813945;25705;5621003;11;32
+r;110816022;25705;5619661;11;32
+r;113292513;25705;5806589;11;32
+r;113759674;25705;5829482;11;32
+r;113763996;25705;5828274;11;32
+r;113776358;25705;5816449;11;32
+r;115866227;25705;5910035;11;32
+r;115866238;25705;5910023;11;32
+r;119192052;25705;6080250;11;32
+r;227652681;25705;10008564;11;32
+r;276020266;25705;10955161;11;32
+r;279592191;25705;11030404;11;32
+r;279932180;25705;11054318;11;32
+r;280545693;25705;11069058;11;32
+r;280548912;25705;11069061;11;32
+r;283115331;25705;11069983;11;32
+r;283115506;25705;11069860;11;32
+r;283116047;25705;11069272;11;32
+r;291211822;25705;11354019;11;32
+r;291211834;25705;11354015;11;32
+r;316541670;25705;12202119;11;32
+r;419631178;25705;15287739;11;32
+r;419633795;25705;15531960;11;32
+r;419644884;25705;15241317;11;32
+r;419645128;25705;15581206;11;32
+r;419645481;25705;15263519;11;32
+r;419659697;25705;15397248;11;32
+r;419659727;25705;15199772;11;32
+r;419660341;25705;15214969;11;32
+r;419662128;25705;15418175;11;32
+r;419664924;25705;15272891;11;32
+r;419672186;25705;15761144;11;32
+r;419672190;25705;15354884;11;32
+r;419672204;25705;15322117;11;32
+r;419672210;25705;15322122;11;32
+r;419672405;25705;15761145;11;32
+r;419672423;25705;15322121;11;32
+r;419672431;25705;15322119;11;32
+r;419686858;25705;15255559;11;32
+r;419686870;25705;15255561;11;32
+r;419696244;25705;16037510;11;32
+r;419704256;25705;15777082;11;32
+r;110724860;25705;5623388;11;33
+r;110724003;25705;5623396;11;33
+r;113287538;25705;5807918;11;33
+r;113773957;25705;5816913;11;33
+r;227637461;25705;10028698;11;33
+r;276093883;25705;10959213;11;33
+r;280284713;25705;11059382;11;33
+r;280604046;25705;11069967;11;33
+r;280610966;25705;11069972;11;33
+r;280613229;25705;11070131;11;33
+r;280616625;25705;11070201;11;33
+r;313145419;25705;11995567;11;33
+r;419612036;25705;15264036;11;33
+r;419615322;25705;15232068;11;33
+r;114009296;25705;5840665;11;34
+r;114009327;25705;5840659;11;34
+r;114010003;25705;5840033;11;34
+r;114010236;25705;5839975;11;34
+r;114010275;25705;5839967;11;34
+r;114010292;25705;5839962;11;34
+r;114010298;25705;5839961;11;34
+r;114010480;25705;5839920;11;34
+r;114010943;25705;5839138;11;34
+r;275360476;25705;10936971;11;34
+r;277885549;25705;10994405;11;34
+r;300955315;25705;11697915;11;34
+r;419546756;25705;15308984;11;34
+r;419557489;25705;15401219;11;34
+r;419574988;25705;15788224;11;34
+r;419588257;25705;15220432;11;34
+r;428811849;25705;16315706;11;34
+r;29972796;25705;1832810;11;35
+r;53024453;25705;2386656;11;35
+r;113306190;25705;5802945;11;35
+r;114009211;25705;5840733;11;35
+r;114009266;25705;5840721;11;35
+r;114009601;25705;5840138;11;35
+r;114009661;25705;5840124;11;35
+r;114009996;25705;5840034;11;35
+r;114010027;25705;5840027;11;35
+r;114010318;25705;5839955;11;35
+r;114010788;25705;5839172;11;35
+r;122933305;25705;6705739;11;35
+r;115859385;25705;5912357;11;35
+r;115859395;25705;5912355;11;35
+r;117912589;25705;5980505;11;35
+r;270761107;25705;10832074;11;35
+r;270761287;25705;10832043;11;35
+r;270760514;25705;10832170;11;35
+r;270761797;25705;10831908;11;35
+r;270761080;25705;10832078;11;35
+r;272008738;25705;10850542;11;35
+r;272261417;25705;10864174;11;35
+r;272513537;25705;10868187;11;35
+r;274965392;25705;10929116;11;35
+r;291357425;25705;11360688;11;35
+r;295238356;25705;11494316;11;35
+r;419492911;25705;15409325;11;35
+r;419497481;25705;15294572;11;35
+r;419511960;25705;15193055;11;35
+r;420442763;25705;16108994;11;35
+r;422980555;25705;16121988;11;35
+r;110809966;25705;5623288;11;36
+r;110810190;25705;5623242;11;36
+r;110810482;25705;5623177;11;36
+r;110810537;25705;5623160;11;36
+r;110810587;25705;5623149;11;36
+r;110810614;25705;5623144;11;36
+r;113276097;25705;5810867;11;36
+r;113296628;25705;5805282;11;36
+r;113304452;25705;5803474;11;36
+r;115859375;25705;5912360;11;36
+r;270760881;25705;10832113;11;36
+r;253389197;25705;10334562;11;36
+r;278031085;25705;10998037;11;36
+r;312904252;25705;12006155;11;36
+r;313208669;25705;12019202;11;36
+r;313898721;25705;12058452;11;36
+r;313898779;25705;12058426;11;36
+r;313898788;25705;12058425;11;36
+r;313898797;25705;12058423;11;36
+r;313898806;25705;12058421;11;36
+r;110809857;25705;5623301;11;37
+r;110810237;25705;5623234;11;37
+r;110810523;25705;5623162;11;37
+r;110815357;25705;5619930;11;37
+r;113276137;25705;5810861;11;37
+r;113276150;25705;5810859;11;37
+r;113276416;25705;5810801;11;37
+r;113293665;25705;5806348;11;37
+r;113294733;25705;5806101;11;37
+r;114444942;25705;5853047;11;37
+r;121556731;25705;6436795;11;37
+r;253393017;25705;10327954;11;37
+r;283547208;25705;11148092;11;37
+r;289893035;25705;11290341;11;37
+r;294012940;25705;11438910;11;37
+r;295479045;25705;11502645;11;37
+r;296499826;25705;11545229;11;37
+r;308238892;25705;11938065;11;37
+r;313869046;25705;12058255;11;37
+r;313891592;25705;12058444;11;37
+r;313894432;25705;12058446;11;37
+r;313895659;25705;12058424;11;37
+r;313896595;25705;12058439;11;37
+r;315107242;25705;12081496;11;37
+r;318275957;25705;12242986;11;37
+r;336077205;25705;13148816;11;37
+r;52040180;25705;2372189;11;38
+r;55801111;25705;2467470;11;38
+r;110809919;25705;5623294;11;38
+r;110810183;25705;5623243;11;38
+r;110810222;25705;5623236;11;38
+r;110810281;25705;5623227;11;38
+r;110810417;25705;5623194;11;38
+r;110810645;25705;5623136;11;38
+r;113276118;25705;5810864;11;38
+r;113276194;25705;5810851;11;38
+r;113305769;25705;5803245;11;38
+r;113750397;25705;5832249;11;38
+r;114758454;25705;5884422;11;38
+r;283514935;25705;11151598;11;38
+r;288384421;25705;11248440;11;38
+r;110809818;25705;5623307;11;39
+r;110810431;25705;5623191;11;39
+r;110815321;25705;5619943;11;39
+r;113276089;25705;5810868;11;39
+r;113276200;25705;5810850;11;39
+r;113306401;25705;5802800;11;39
+r;114445096;25705;5841774;11;39
+r;219856621;25705;9931157;11;39
+r;243240634;25705;10196509;11;39
+r;255391676;25705;10421342;11;39
+r;262894071;25705;10546936;11;39
+r;269375223;25705;10753843;11;39
+r;289317582;25705;11302624;11;39
+r;295873347;25705;11518357;11;39
+r;296655085;25705;11553616;11;39
+r;296657357;25705;11553036;11;39
+r;296657369;25705;11553034;11;39
+r;297609821;25705;11572382;11;39
+r;110809881;25705;5623298;11;40
+r;110810506;25705;5623165;11;40
+r;113276169;25705;5810856;11;40
+r;113276175;25705;5810855;11;40
+r;113276217;25705;5810844;11;40
+r;113292117;25705;5806679;11;40
+r;114759506;25705;5884027;11;40
+r;256492906;25705;10425960;11;40
+r;278119165;25705;11000049;11;40
+r;278739720;25705;11001762;11;40
+r;288182335;25705;11249778;11;40
+r;288185258;25705;11249777;11;40
+r;292045027;25705;11383191;11;40
+r;297602728;25705;11574503;11;40
+r;297602735;25705;11574502;11;40
+r;110000986;25705;5563232;11;41
+r;110809797;25705;5623312;11;41
+r;110810042;25705;5623277;11;41
+r;110810262;25705;5623230;11;41
+r;110810371;25705;5623209;11;41
+r;110810459;25705;5623183;11;41
+r;110810530;25705;5623161;11;41
+r;110812609;25705;5621828;11;41
+r;113276083;25705;5810869;11;41
+r;114444350;25705;5855305;11;41
+r;222098947;25705;9983861;11;41
+r;232082736;25705;10071072;11;41
+r;232082742;25705;10071071;11;41
+r;232082763;25705;10071069;11;41
+r;232082771;25705;10071068;11;41
+r;236690684;25705;10133110;11;41
+r;236690768;25705;10133095;11;41
+r;253345040;25705;10344497;11;41
+r;280607536;25705;11069966;11;41
+r;283672966;25705;11155304;11;41
+r;288439287;25705;11254414;11;41
+r;288439292;25705;11254413;11;41
+r;292360776;25705;11387591;11;41
+r;297522956;25705;11575376;11;41
+r;319038529;25705;12279210;11;41
+r;328232341;25705;12790771;11;41
+r;338932690;25705;13273378;11;41
+r;50465513;25705;2365133;11;42
+r;53016499;25705;2386081;11;42
+r;54494857;25705;2422048;11;42
+r;109889180;25705;5540479;11;42
+r;110809786;25705;5623314;11;42
+r;110809908;25705;5623296;11;42
+r;110809942;25705;5623291;11;42
+r;110810014;25705;5623283;11;42
+r;110810303;25705;5623222;11;42
+r;110810381;25705;5623206;11;42
+r;110810568;25705;5623153;11;42
+r;110815366;25705;5619929;11;42
+r;110815375;25705;5619928;11;42
+r;113276131;25705;5810862;11;42
+r;113276424;25705;5810800;11;42
+r;113306382;25705;5802809;11;42
+r;116945940;25705;5971408;11;42
+r;286735007;25705;11178736;11;42
+r;287741840;25705;11222338;11;42
+r;288439565;25705;11254268;11;42
+r;318954393;25705;12278681;11;42
+r;318954920;25705;12278682;11;42
+r;109828176;25705;5556906;11;43
+r;110815457;25705;5619907;11;43
+r;113308590;25705;5802111;11;43
+r;114756921;25705;5884951;11;43
+r;233025116;25705;10092667;11;43
+r;238921113;25705;10178400;11;43
+r;238923708;25705;10177366;11;43
+r;285847948;25705;11172802;11;43
+r;285871784;25705;11173110;11;43
+r;285872013;25705;11173111;11;43
+r;285980420;25705;11173108;11;43
+r;59989848;25705;2478607;11;44
+r;118533285;25705;6002718;11;44
+r;121052622;25705;6449441;11;44
+r;278792512;25705;11010445;11;44
+r;285156562;25705;11160356;11;44
+r;285156592;25705;11160354;11;44
+r;285872107;25705;11173109;11;44
+r;308323427;25705;11938066;11;44
+r;50437397;25705;2365346;11;45
+r;55666444;25705;2460328;11;45
+r;110810512;25705;5623164;11;45
+r;118939755;25705;6018072;11;45
+r;121037792;25705;6451065;11;45
+r;55485764;25705;2451125;11;46
+r;110810216;25705;5623237;11;46
+r;125517046;25705;7598137;11;46
+r;313895933;25705;12058420;11;46
+r;50230727;25705;2363302;11;47
+r;55632752;25705;2458404;11;48
+r;121912468;25705;6532914;11;48
+r;296966581;25705;11559425;11;48
+r;115105309;25705;5897962;11;49
+r;116947506;25705;5970819;11;49
+r;220490201;25705;9946647;11;50
+r;166981806;25705;8731979;11;50
+r;171865433;25705;8738779;11;50
+r;190323357;25705;8854591;11;50
+r;200623325;25705;9101988;11;50
+r;200683228;25705;9102130;11;50
+r;200683989;25705;9102033;11;50
+r;200684065;25705;9102020;11;50
+r;207180598;25705;9179050;11;50
+r;213866268;25705;9464322;11;50
+r;213866349;25705;9464321;11;50
+r;213866415;25705;9464317;11;50
+r;213866750;25705;9464316;11;50
+r;213866869;25705;9464319;11;50
+r;213866921;25705;9464320;11;50
+r;213867085;25705;9464318;11;50
+r;213868037;25705;9464906;11;50
+r;214087869;25705;9491635;11;50
+r;214091099;25705;9491813;11;50
+r;214091761;25705;9492034;11;50
+r;214091818;25705;9491815;11;50
+r;214091829;25705;9491811;11;50
+r;214808870;25705;9563667;11;50
+r;216442969;25705;9605535;11;50
+r;216446784;25705;9605529;11;50
+r;216953038;25705;9651340;11;50
+r;282231169;25705;11118310;11;50
+r;282233252;25705;11118265;11;50
+r;282712294;25705;11129317;11;50
+r;282841115;25705;11131727;11;50
+r;292701404;25705;11394425;11;50
+r;318954516;25705;12278680;11;50
+r;323172039;25705;12622797;11;50
+r;323952525;25705;12657261;11;50
+r;323952552;25705;12657260;11;50
+r;326560435;25705;12718386;11;50
+r;326852498;25705;12718398;11;50
+r;327317851;25705;12736132;11;50
+r;327321262;25705;12730391;11;50
+r;327321550;25705;12730279;11;50
+r;327321556;25705;12730278;11;50
+r;327321567;25705;12730276;11;50
+r;327321579;25705;12730264;11;50
+r;327321589;25705;12730259;11;50
+r;353942295;25705;14009062;11;50
+r;402102588;25705;15293672;11;50
+r;402112851;25705;15528003;11;50
+r;402107268;25705;15390789;11;50
+r;402112869;25705;15528005;11;50
+r;393805226;25705;14127787;11;50
+r;393805234;25705;14326694;11;50
+r;395011731;25705;15294326;11;50
+r;397847694;25705;15521888;11;50
+r;411712858;25705;15778420;11;50
+r;416558604;25705;15950486;11;50
+r;16146716;25705;460635;11;51
+r;18494556;25705;589325;11;51
+r;27516129;25705;1657690;11;51
+r;29225509;25705;1781413;11;51
+r;29878664;25705;1846575;11;51
+r;33107861;25705;2296058;11;51
+r;77289838;25705;3186122;11;51
+r;78301610;25705;3230656;11;51
+r;83668939;25705;3319919;11;51
+r;86128580;25705;3359246;11;51
+r;86135888;25705;3371554;11;51
+r;86143334;25705;3370640;11;51
+r;86143360;25705;3370638;11;51
+r;86154548;25705;3369292;11;51
+r;86161479;25705;3368507;11;51
+r;86162409;25705;3368415;11;51
+r;86165732;25705;3368007;11;51
+r;86171081;25705;3367349;11;51
+r;86172160;25705;3367210;11;51
+r;86172298;25705;3367199;11;51
+r;86172428;25705;3367191;11;51
+r;86172622;25705;3367175;11;51
+r;86173875;25705;3367022;11;51
+r;86188208;25705;3365416;11;51
+r;86202732;25705;3363584;11;51
+r;86202834;25705;3363573;11;51
+r;86204693;25705;3363349;11;51
+r;86210193;25705;3362659;11;51
+r;86210630;25705;3362613;11;51
+r;86223410;25705;3359803;11;51
+r;86227287;25705;3360147;11;51
+r;86236268;25705;3360754;11;51
+r;86247300;25705;3361480;11;51
+r;86259029;25705;3361604;11;51
+r;93464949;25705;3744400;11;51
+r;93469114;25705;3744674;11;51
+r;93500095;25705;3745967;11;51
+r;93502743;25705;3745652;11;51
+r;93630981;25705;3751394;11;51
+r;93656142;25705;3758516;11;51
+r;93658542;25705;3758258;11;51
+r;93660589;25705;3758043;11;51
+r;93663639;25705;3757709;11;51
+r;93672899;25705;3756701;11;51
+r;93683846;25705;3755541;11;51
+r;93684063;25705;3755516;11;51
+r;93691094;25705;3754854;11;51
+r;93693809;25705;3754551;11;51
+r;93694307;25705;3754498;11;51
+r;93698241;25705;3754082;11;51
+r;93700931;25705;3753810;11;51
+r;93713482;25705;3752456;11;51
+r;93716138;25705;3752169;11;51
+r;108230056;25705;5507660;11;51
+r;14345984;25705;143846;11;52
+r;17544182;25705;570293;11;52
+r;17826772;25705;575842;11;52
+r;18280008;25705;583415;11;52
+r;18329404;25705;584517;11;52
+r;33107849;25705;2296061;11;52
+r;52460736;25705;2533483;11;52
+r;52469552;25705;2514752;11;52
+r;53130665;25705;2581102;11;52
+r;83647559;25705;3318422;11;52
+r;83635225;25705;3318463;11;52
+r;83642554;25705;3318609;11;52
+r;83668803;25705;3319956;11;52
+r;86124166;25705;3359033;11;52
+r;86140924;25705;3370947;11;52
+r;86150264;25705;3369809;11;52
+r;86154508;25705;3369298;11;52
+r;86157299;25705;3368961;11;52
+r;86157367;25705;3368956;11;52
+r;86162431;25705;3368412;11;52
+r;86165902;25705;3367988;11;52
+r;86167359;25705;3367803;11;52
+r;86172175;25705;3367209;11;52
+r;86172379;25705;3367194;11;52
+r;86172552;25705;3367181;11;52
+r;86172564;25705;3367180;11;52
+r;86172576;25705;3367179;11;52
+r;86175375;25705;3366827;11;52
+r;86178948;25705;3366397;11;52
+r;86178972;25705;3366394;11;52
+r;86188239;25705;3365413;11;52
+r;86195223;25705;3364607;11;52
+r;86213527;25705;3362259;11;52
+r;86222246;25705;3359802;11;52
+r;86227547;25705;3360145;11;52
+r;92541407;25705;3707554;11;52
+r;93468268;25705;3744619;11;52
+r;93469904;25705;3744603;11;52
+r;93486308;25705;3744645;11;52
+r;93492413;25705;3747411;11;52
+r;93497126;25705;3746333;11;52
+r;93501610;25705;3745791;11;52
+r;93666450;25705;3757402;11;52
+r;93667088;25705;3757331;11;52
+r;93668294;25705;3757207;11;52
+r;93677188;25705;3756231;11;52
+r;93678991;25705;3756042;11;52
+r;93688668;25705;3755119;11;52
+r;93690977;25705;3754869;11;52
+r;93691186;25705;3754846;11;52
+r;93699317;25705;3753975;11;52
+r;93699826;25705;3753921;11;52
+r;93700367;25705;3753870;11;52
+r;93705789;25705;3753295;11;52
+r;93707756;25705;3753081;11;52
+r;93708362;25705;3753017;11;52
+r;93712692;25705;3752539;11;52
+r;93718078;25705;3751958;11;52
+r;95860322;25705;4302202;11;52
+r;105823984;25705;5127276;11;52
+r;23510584;25705;1392006;11;53
+r;31604185;25705;1963220;11;53
+r;52443107;25705;2570638;11;53
+r;83652452;25705;3318784;11;53
+r;86125595;25705;3359212;11;53
+r;86130334;25705;3359270;11;53
+r;86132926;25705;3371948;11;53
+r;86135188;25705;3371642;11;53
+r;86142153;25705;3370788;11;53
+r;86150427;25705;3369793;11;53
+r;86150569;25705;3369777;11;53
+r;86152571;25705;3369547;11;53
+r;86155811;25705;3369126;11;53
+r;86157325;25705;3368959;11;53
+r;86164929;25705;3368109;11;53
+r;86164937;25705;3368108;11;53
+r;86165142;25705;3368082;11;53
+r;86172530;25705;3367183;11;53
+r;86172590;25705;3367178;11;53
+r;86173893;25705;3367020;11;53
+r;86184711;25705;3365748;11;53
+r;86186145;25705;3365613;11;53
+r;86202595;25705;3363593;11;53
+r;86208396;25705;3362873;11;53
+r;93456057;25705;3743823;11;53
+r;93464046;25705;3744178;11;53
+r;93465289;25705;3744402;11;53
+r;93490057;25705;3745308;11;53
+r;93491501;25705;3745429;11;53
+r;93495406;25705;3746542;11;53
+r;93647634;25705;3759460;11;53
+r;93649733;25705;3759162;11;53
+r;93652202;25705;3758910;11;53
+r;93662569;25705;3757826;11;53
+r;93670954;25705;3756924;11;53
+r;93671351;25705;3756883;11;53
+r;93679694;25705;3755966;11;53
+r;93684466;25705;3755473;11;53
+r;93687316;25705;3755269;11;53
+r;93689291;25705;3755054;11;53
+r;93690653;25705;3754901;11;53
+r;93693436;25705;3754594;11;53
+r;117893596;25705;5984966;11;53
+r;18280574;25705;583417;11;54
+r;18612443;25705;593321;11;54
+r;29226175;25705;1781229;11;54
+r;31425508;25705;1935964;11;54
+r;31604849;25705;1963200;11;54
+r;33107857;25705;2296059;11;54
+r;72790605;25705;2951732;11;54
+r;55145232;25705;2600689;11;54
+r;61301471;25705;2674426;11;54
+r;80314278;25705;3284317;11;54
+r;83668798;25705;3319957;11;54
+r;83672205;25705;3319319;11;54
+r;86124289;25705;3358992;11;54
+r;86135207;25705;3371641;11;54
+r;86138170;25705;3371277;11;54
+r;86143371;25705;3370637;11;54
+r;86145166;25705;3370426;11;54
+r;86157287;25705;3368962;11;54
+r;86157412;25705;3368952;11;54
+r;86172308;25705;3367198;11;54
+r;86172612;25705;3367176;11;54
+r;86189698;25705;3365266;11;54
+r;86189804;25705;3365256;11;54
+r;86191169;25705;3365105;11;54
+r;86202059;25705;3363667;11;54
+r;86202133;25705;3363655;11;54
+r;86202343;25705;3363624;11;54
+r;86202451;25705;3363609;11;54
+r;86202655;25705;3363589;11;54
+r;86202674;25705;3363588;11;54
+r;86208969;25705;3359535;11;54
+r;86234704;25705;3360571;11;54
+r;86239223;25705;3360855;11;54
+r;86246461;25705;3361311;11;54
+r;93463452;25705;3744290;11;54
+r;93465418;25705;3744213;11;54
+r;93470531;25705;3744729;11;54
+r;93487707;25705;3745021;11;54
+r;93495090;25705;3746582;11;54
+r;93501512;25705;3745803;11;54
+r;93658105;25705;3758303;11;54
+r;93673516;25705;3756636;11;54
+r;93674120;25705;3756569;11;54
+r;93674767;25705;3756502;11;54
+r;93680873;25705;3755845;11;54
+r;93683219;25705;3755615;11;54
+r;93687266;25705;3755274;11;54
+r;93687555;25705;3755243;11;54
+r;93695725;25705;3754346;11;54
+r;93696565;25705;3754252;11;54
+r;93701553;25705;3753749;11;54
+r;93706587;25705;3753202;11;54
+r;93719650;25705;3751785;11;54
+r;93720920;25705;3751652;11;54
+r;93985013;25705;3755202;11;54
+r;95174777;25705;3869304;11;54
+r;16146988;25705;460495;11;55
+r;17037282;25705;566943;11;55
+r;17826696;25705;575841;11;55
+r;18280193;25705;583416;11;55
+r;31600910;25705;1963210;11;55
+r;31604739;25705;1963273;11;55
+r;32523241;25705;2089407;11;55
+r;52461377;25705;2532043;11;55
+r;52500721;25705;2542693;11;55
+r;54423758;25705;2587822;11;55
+r;83640498;25705;3318556;11;55
+r;108207986;25705;5506895;11;55
+r;86126681;25705;3359207;11;55
+r;86143393;25705;3370635;11;55
+r;86143404;25705;3370634;11;55
+r;86146728;25705;3370249;11;55
+r;86160134;25705;3368683;11;55
+r;86164945;25705;3368107;11;55
+r;86165331;25705;3368059;11;55
+r;86167480;25705;3367786;11;55
+r;86171773;25705;3367258;11;55
+r;86172394;25705;3367193;11;55
+r;86172466;25705;3367188;11;55
+r;86172835;25705;3367151;11;55
+r;86173867;25705;3367023;11;55
+r;86179230;25705;3366364;11;55
+r;86179263;25705;3366361;11;55
+r;86184456;25705;3365772;11;55
+r;86184978;25705;3365722;11;55
+r;86199248;25705;3364032;11;55
+r;86200017;25705;3363930;11;55
+r;86202844;25705;3363572;11;55
+r;86203052;25705;3363545;11;55
+r;86204321;25705;3363402;11;55
+r;86204594;25705;3363363;11;55
+r;86210145;25705;3362666;11;55
+r;86220642;25705;3373229;11;55
+r;93462612;25705;3744296;11;55
+r;93468513;25705;3744573;11;55
+r;93469081;25705;3744620;11;55
+r;93492754;25705;3746875;11;55
+r;93496861;25705;3746366;11;55
+r;93497614;25705;3746273;11;55
+r;93499199;25705;3746081;11;55
+r;93499260;25705;3746075;11;55
+r;93500942;25705;3745867;11;55
+r;93503479;25705;3745563;11;55
+r;93648546;25705;3759359;11;55
+r;93655795;25705;3758547;11;55
+r;93657616;25705;3758357;11;55
+r;93659203;25705;3758188;11;55
+r;93661805;25705;3757909;11;55
+r;93664395;25705;3757625;11;55
+r;93666323;25705;3757416;11;55
+r;93666871;25705;3757354;11;55
+r;93668251;25705;3757211;11;55
+r;93669780;25705;3757045;11;55
+r;93671150;25705;3756902;11;55
+r;93674078;25705;3756572;11;55
+r;93678041;25705;3756142;11;55
+r;93682664;25705;3755660;11;55
+r;93689041;25705;3755079;11;55
+r;93689565;25705;3755023;11;55
+r;93697710;25705;3754134;11;55
+r;93701657;25705;3753739;11;55
+r;93705591;25705;3753314;11;55
+r;93714277;25705;3752375;11;55
+r;93714588;25705;3752340;11;55
+r;93717735;25705;3751992;11;55
+r;105074508;25705;5059375;11;55
+r;99466689;25705;4402042;11;56
+r;16944588;25705;566359;11;56
+r;18937174;25705;629527;11;56
+r;30754315;25705;1909404;11;56
+r;31786675;25705;1971745;11;56
+r;33107853;25705;2296060;11;56
+r;50065654;25705;2359056;11;56
+r;52465840;25705;2522618;11;56
+r;52477294;25705;2498111;11;56
+r;53130657;25705;2581103;11;56
+r;83632656;25705;3318461;11;56
+r;83640254;25705;3318589;11;56
+r;86134785;25705;3371695;11;56
+r;86143347;25705;3370639;11;56
+r;86149926;25705;3369850;11;56
+r;86152296;25705;3369583;11;56
+r;86157393;25705;3368954;11;56
+r;86166034;25705;3367972;11;56
+r;86172093;25705;3367215;11;56
+r;86172215;25705;3367206;11;56
+r;86172260;25705;3367202;11;56
+r;86172339;25705;3367196;11;56
+r;86172480;25705;3367187;11;56
+r;86172492;25705;3367186;11;56
+r;86172927;25705;3367138;11;56
+r;86191176;25705;3365104;11;56
+r;86195932;25705;3364505;11;56
+r;86202467;25705;3363607;11;56
+r;86202611;25705;3363592;11;56
+r;86204502;25705;3363378;11;56
+r;86204895;25705;3363317;11;56
+r;86210211;25705;3362657;11;56
+r;86211064;25705;3362559;11;56
+r;86219255;25705;3359609;11;56
+r;86246486;25705;3361312;11;56
+r;86252573;25705;3361572;11;56
+r;88105197;25705;3461020;11;56
+r;93457171;25705;3743836;11;56
+r;93495661;25705;3746512;11;56
+r;93495808;25705;3746495;11;56
+r;93496237;25705;3746442;11;56
+r;93497101;25705;3746336;11;56
+r;93498987;25705;3746107;11;56
+r;93585684;25705;3751085;11;56
+r;93647524;25705;3759472;11;56
+r;93648333;25705;3759379;11;56
+r;93651736;25705;3758960;11;56
+r;93654445;25705;3758686;11;56
+r;93656933;25705;3758429;11;56
+r;93660040;25705;3758097;11;56
+r;93661352;25705;3757962;11;56
+r;93664086;25705;3757659;11;56
+r;93669372;25705;3757089;11;56
+r;93672381;25705;3756762;11;56
+r;93677984;25705;3756147;11;56
+r;93679430;25705;3755996;11;56
+r;93680408;25705;3755892;11;56
+r;93695432;25705;3754376;11;56
+r;93698978;25705;3754010;11;56
+r;93703951;25705;3753491;11;56
+r;93704695;25705;3753407;11;56
+r;93705381;25705;3753335;11;56
+r;93710318;25705;3752794;11;56
+r;93720402;25705;3751707;11;56
+r;93721000;25705;3751643;11;56
+r;105074496;25705;5059374;11;56
+r;106906310;25705;5334725;11;56
+r;27516279;25705;1657585;11;57
+r;29224903;25705;1781626;11;57
+r;31602195;25705;1963221;11;57
+r;31603395;25705;1963176;11;57
+r;31603932;25705;1963219;11;57
+r;52473792;25705;2505711;11;57
+r;55493720;25705;2605794;11;57
+r;73899548;25705;2975584;11;57
+r;83651966;25705;3318752;11;57
+r;83670514;25705;3319633;11;57
+r;83670518;25705;3319632;11;57
+r;83750689;25705;3323029;11;57
+r;86125510;25705;3359206;11;57
+r;86139726;25705;3371093;11;57
+r;86147785;25705;3370118;11;57
+r;86151976;25705;3369620;11;57
+r;86153912;25705;3369365;11;57
+r;86154801;25705;3369256;11;57
+r;86157275;25705;3368963;11;57
+r;86157337;25705;3368958;11;57
+r;86157353;25705;3368957;11;57
+r;86158613;25705;3368841;11;57
+r;86166199;25705;3367950;11;57
+r;86172274;25705;3367201;11;57
+r;86172360;25705;3367195;11;57
+r;86172438;25705;3367190;11;57
+r;86172602;25705;3367177;11;57
+r;86173857;25705;3367024;11;57
+r;86183074;25705;3365920;11;57
+r;86184501;25705;3365768;11;57
+r;86186066;25705;3365619;11;57
+r;86193598;25705;3359495;11;57
+r;86197383;25705;3364304;11;57
+r;86198107;25705;3359557;11;57
+r;86202627;25705;3363591;11;57
+r;86202718;25705;3363585;11;57
+r;86210202;25705;3362658;11;57
+r;93468708;25705;3744666;11;57
+r;93468853;25705;3744682;11;57
+r;93587769;25705;3751145;11;57
+r;93647804;25705;3759443;11;57
+r;93657430;25705;3758374;11;57
+r;93662027;25705;3757886;11;57
+r;93669330;25705;3757094;11;57
+r;93669542;25705;3757072;11;57
+r;93676127;25705;3756352;11;57
+r;93685539;25705;3755460;11;57
+r;93689081;25705;3755076;11;57
+r;93695761;25705;3754342;11;57
+r;93696105;25705;3754304;11;57
+r;93696226;25705;3754289;11;57
+r;93698275;25705;3754079;11;57
+r;93716737;25705;3752102;11;57
+r;16146722;25705;460634;11;58
+r;16975172;25705;566658;11;58
+r;18328655;25705;584516;11;58
+r;18941309;25705;629526;11;58
+r;30716436;25705;1906576;11;58
+r;31604335;25705;1963352;11;58
+r;33729344;25705;2324440;11;58
+r;52478222;25705;2496045;11;58
+r;55140978;25705;2600319;11;58
+r;72223700;25705;2936261;11;58
+r;78169160;25705;3230371;11;58
+r;82636167;25705;3301225;11;58
+r;86124996;25705;3359158;11;58
+r;86130441;25705;3359419;11;58
+r;86133095;25705;3371923;11;58
+r;86133138;25705;3371917;11;58
+r;86134271;25705;3371755;11;58
+r;86135001;25705;3371666;11;58
+r;86135214;25705;3371640;11;58
+r;86138181;25705;3371276;11;58
+r;86139697;25705;3371097;11;58
+r;86145526;25705;3370381;11;58
+r;86150099;25705;3369830;11;58
+r;86152697;25705;3369529;11;58
+r;86154427;25705;3369308;11;58
+r;86155257;25705;3369196;11;58
+r;86155530;25705;3369162;11;58
+r;86156212;25705;3369080;11;58
+r;86157379;25705;3368955;11;58
+r;86160412;25705;3368649;11;58
+r;86164309;25705;3368191;11;58
+r;86164910;25705;3368112;11;58
+r;86168453;25705;3367668;11;58
+r;86171242;25705;3367327;11;58
+r;86172145;25705;3367211;11;58
+r;86172190;25705;3367208;11;58
+r;86172411;25705;3367192;11;58
+r;86172542;25705;3367182;11;58
+r;86173231;25705;3367103;11;58
+r;86179243;25705;3366363;11;58
+r;86183197;25705;3365906;11;58
+r;86191099;25705;3365113;11;58
+r;86196211;25705;3364466;11;58
+r;86202641;25705;3363590;11;58
+r;86202924;25705;3363562;11;58
+r;86207210;25705;3363005;11;58
+r;86210673;25705;3362609;11;58
+r;86217733;25705;3359647;11;58
+r;86220592;25705;3373257;11;58
+r;88105916;25705;3461019;11;58
+r;93417074;25705;3741964;11;58
+r;93466923;25705;3744314;11;58
+r;93488140;25705;3745184;11;58
+r;93495249;25705;3746563;11;58
+r;93502688;25705;3745660;11;58
+r;93504588;25705;3745379;11;58
+r;93648386;25705;3759373;11;58
+r;93650573;25705;3759081;11;58
+r;93651114;25705;3759026;11;58
+r;93664334;25705;3757632;11;58
+r;93674254;25705;3756556;11;58
+r;93677006;25705;3756252;11;58
+r;93683092;25705;3755629;11;58
+r;93691612;25705;3754797;11;58
+r;93692408;25705;3754706;11;58
+r;93697722;25705;3754133;11;58
+r;93713938;25705;3752412;11;58
+r;108737746;25705;5518387;11;58
+r;16146990;25705;460494;11;59
+r;16918632;25705;566157;11;59
+r;17123370;25705;567604;11;59
+r;22154335;25705;1175808;11;59
+r;52475883;25705;2500998;11;59
+r;78301718;25705;3230660;11;59
+r;83635278;25705;3318429;11;59
+r;83641760;25705;3318380;11;59
+r;85631307;25705;3344200;11;59
+r;86128410;25705;3359203;11;59
+r;86132938;25705;3371947;11;59
+r;86135876;25705;3371555;11;59
+r;86139714;25705;3371095;11;59
+r;86141659;25705;3370853;11;59
+r;86142161;25705;3370787;11;59
+r;86142195;25705;3370783;11;59
+r;86143382;25705;3370636;11;59
+r;86147500;25705;3370149;11;59
+r;86150542;25705;3369780;11;59
+r;86152381;25705;3369574;11;59
+r;86157313;25705;3368960;11;59
+r;86159873;25705;3368711;11;59
+r;86165115;25705;3368085;11;59
+r;86165984;25705;3367978;11;59
+r;86169448;25705;3367555;11;59
+r;86172230;25705;3367205;11;59
+r;86172454;25705;3367189;11;59
+r;86173885;25705;3367021;11;59
+r;86173937;25705;3367015;11;59
+r;86178964;25705;3366395;11;59
+r;86179867;25705;3366295;11;59
+r;86195756;25705;3364531;11;59
+r;86202117;25705;3363657;11;59
+r;86202137;25705;3363654;11;59
+r;86202704;25705;3363586;11;59
+r;86202854;25705;3363571;11;59
+r;86202968;25705;3363556;11;59
+r;86212213;25705;3362418;11;59
+r;86221429;25705;3359707;11;59
+r;86230558;25705;3360357;11;59
+r;86240113;25705;3360810;11;59
+r;93500106;25705;3745966;11;59
+r;93502272;25705;3745712;11;59
+r;93626637;25705;3751350;11;59
+r;93629343;25705;3751224;11;59
+r;93630795;25705;3751419;11;59
+r;93649226;25705;3759249;11;59
+r;93653687;25705;3758764;11;59
+r;93659648;25705;3758143;11;59
+r;93672811;25705;3756711;11;59
+r;93675730;25705;3756396;11;59
+r;93679831;25705;3755951;11;59
+r;93687251;25705;3755275;11;59
+r;93688213;25705;3755167;11;59
+r;93695099;25705;3754410;11;59
+r;93698609;25705;3754047;11;59
+r;93701785;25705;3753725;11;59
+r;93707849;25705;3753070;11;59
+r;16416394;25705;465557;11;60
+r;25718488;25705;1630221;11;60
+r;31602379;25705;1963241;11;60
+r;31603162;25705;1963181;11;60
+r;47903960;25705;2356056;11;60
+r;52455090;25705;2545178;11;60
+r;76799525;25705;3180738;11;60
+r;80637468;25705;3289810;11;60
+r;83647630;25705;3318723;11;60
+r;86126929;25705;3359126;11;60
+r;86147745;25705;3370123;11;60
+r;86150166;25705;3369822;11;60
+r;86166017;25705;3367974;11;60
+r;86167102;25705;3367840;11;60
+r;86172244;25705;3367204;11;60
+r;86172288;25705;3367200;11;60
+r;86172510;25705;3367185;11;60
+r;86172520;25705;3367184;11;60
+r;86173849;25705;3367025;11;60
+r;86178956;25705;3366396;11;60
+r;86181716;25705;3366072;11;60
+r;86191066;25705;3365117;11;60
+r;86197073;25705;3364338;11;60
+r;86202579;25705;3363594;11;60
+r;86202688;25705;3363587;11;60
+r;86202746;25705;3363583;11;60
+r;86204522;25705;3363375;11;60
+r;86204823;25705;3363328;11;60
+r;86208320;25705;3362880;11;60
+r;86220856;25705;3372775;11;60
+r;86246865;25705;3361145;11;60
+r;88207937;25705;3474916;11;60
+r;93482492;25705;3744762;11;60
+r;93486711;25705;3745136;11;60
+r;93499346;25705;3746064;11;60
+r;93653029;25705;3758822;11;60
+r;93658301;25705;3758285;11;60
+r;93659697;25705;3758139;11;60
+r;93660186;25705;3758083;11;60
+r;93660756;25705;3758028;11;60
+r;93663147;25705;3757765;11;60
+r;93672557;25705;3756743;11;60
+r;93675950;25705;3756370;11;60
+r;93680914;25705;3755842;11;60
+r;93684146;25705;3755508;11;60
+r;93694851;25705;3754437;11;60
+r;93695246;25705;3754395;11;60
+r;93696760;25705;3754233;11;60
+r;93697350;25705;3754177;11;60
+r;93698921;25705;3754016;11;60
+r;93699219;25705;3753985;11;60
+r;93704355;25705;3753445;11;60
+r;93708250;25705;3753029;11;60
+r;93709801;25705;3752852;11;60
+r;93715571;25705;3752228;11;60
+r;93716760;25705;3752099;11;60
+r;93721618;25705;3751556;11;60
+r;93984566;25705;3760090;11;60
+r;96341628;25705;4306342;11;60
+r;125517023;25705;7598140;11;60
+r;31604554;25705;1963222;11;61
+r;30696798;25705;1905071;11;62
+r;71755426;25705;2927610;11;63
+r;76235431;25705;3170418;11;63
+r;72690412;25705;2950162;11;68
+r;13678597;25705;393784;11;88
+r;13678601;25705;393783;11;88
+r;13678605;25705;393782;11;88
+r;13652634;25705;393719;11;95
+r;12567973;25705;383393;11;101
+r;12593697;25705;377066;11;101
+r;12615071;25705;371780;11;101
+r;12708485;25705;348683;11;101
+r;12728379;25705;344045;11;101
+r;12567905;25705;383411;11;102
+r;12567933;25705;383403;11;102
+r;12567955;25705;383398;11;102
+r;12567959;25705;383397;11;102
+r;12567967;25705;383395;11;102
+r;12568011;25705;383383;11;102
+r;12568023;25705;383380;11;102
+r;12568033;25705;383377;11;102
+r;12573541;25705;382006;11;102
+r;12681131;25705;355503;11;102
+r;12567891;25705;383416;11;103
+r;12567979;25705;383391;11;103
+r;12567983;25705;383390;11;103
+r;12568003;25705;383385;11;103
+r;12568015;25705;383382;11;103
+r;12584987;25705;379151;11;103
+r;12588653;25705;378306;11;103
+r;12615087;25705;371778;11;103
+r;12697317;25705;351505;11;103
+r;12742517;25705;340662;11;103
+r;12547019;25705;388716;11;104
+r;12567887;25705;383417;11;104
+r;12567907;25705;383410;11;104
+r;12567963;25705;383396;11;104
+r;12567971;25705;383394;11;104
+r;12568037;25705;383376;11;104
+r;12618307;25705;371024;11;104
+r;12645539;25705;364210;11;104
+r;12684183;25705;354741;11;104
+r;12759833;25705;336449;11;104
+r;12541951;25705;390005;11;105
+r;12567915;25705;383408;11;105
+r;12567943;25705;383401;11;105
+r;12568027;25705;383379;11;105
+r;12568061;25705;383373;11;105
+r;12576443;25705;381206;11;105
+r;12656777;25705;361465;11;105
+r;12679915;25705;355806;11;105
+r;12720281;25705;346047;11;105
+r;12726437;25705;344524;11;105
+r;12741615;25705;340890;11;105
+r;12567987;25705;383389;11;106
+r;12588429;25705;378364;11;106
+r;12615079;25705;371779;11;106
+r;12628713;25705;368392;11;106
+r;12648229;25705;363550;11;106
+r;12674023;25705;357220;11;106
+r;12695001;25705;352085;11;106
+r;12696345;25705;351757;11;106
+r;12567897;25705;383414;11;107
+r;12567911;25705;383409;11;107
+r;12567939;25705;383402;11;107
+r;12567995;25705;383387;11;107
+r;12567999;25705;383386;11;107
+r;12568045;25705;383375;11;107
+r;12600455;25705;375367;11;107
+r;12617741;25705;371161;11;107
+r;12742503;25705;340665;11;107
+r;12749887;25705;338929;11;107
+r;12752697;25705;338239;11;107
+r;12758983;25705;336659;11;107
+r;12546405;25705;388884;11;108
+r;12564965;25705;384144;11;108
+r;12567947;25705;383400;11;108
+r;12567977;25705;383392;11;108
+r;12568029;25705;383378;11;108
+r;12568069;25705;383371;11;108
+r;12588189;25705;378423;11;108
+r;12633057;25705;367289;11;108
+r;12687047;25705;354035;11;108
+r;12546355;25705;388901;11;109
+r;12567951;25705;383399;11;109
+r;12567991;25705;383388;11;109
+r;12568007;25705;383384;11;109
+r;12568055;25705;383374;11;109
+r;12588635;25705;378310;11;109
+r;12623041;25705;369872;11;109
+r;12656245;25705;361592;11;109
+r;12723279;25705;345296;11;109
+r;12724157;25705;345077;11;109
+r;12562257;25705;384796;11;110
+r;12568019;25705;383381;11;110
+r;12568065;25705;383372;11;110
+r;12568073;25705;383370;11;110
+r;12573919;25705;381872;11;110
+r;12615093;25705;371777;11;110
+r;12628027;25705;368612;11;110
+r;12721817;25705;345665;11;110
+r;12725119;25705;344836;11;110
+r;11873074;25705;35756;11;121
+r;11875531;25705;19016;11;121
+r;11877094;25705;7499;11;121
+r;11849442;25705;282261;11;122
+r;11853830;25705;181456;11;122
+r;11854655;25705;175099;11;122
+r;11856216;25705;167325;11;122
+r;11857751;25705;145171;11;122
+r;11858696;25705;134074;11;122
+r;11859027;25705;131753;11;122
+r;11860363;25705;122361;11;122
+r;11847420;25705;308061;11;123
+r;11848417;25705;294758;11;123
+r;11848420;25705;294753;11;123
+r;11684593;25705;329632;11;148
+r;9066129;25705;321092;11;148
+r;8920778;25705;316429;11;151
+r;8921262;25705;316766;11;151
+r;8921268;25705;316768;11;151
+r;8879537;25705;212458;11;152
+r;8818328;25705;313954;11;159
+r;8690919;25705;218174;11;160
+r;8693999;25705;222803;11;160
+r;8703096;25705;235520;11;160
+r;8724671;25705;258838;11;160
+r;8725797;25705;259583;11;160
+r;8606029;25705;105282;11;161
+r;8608782;25705;112690;11;161
+r;8611892;25705;121461;11;161
+r;8627320;25705;161199;11;161
+r;8628110;25705;162798;11;161
+r;8630358;25705;166696;11;161
+r;8631277;25705;167830;11;161
+r;8631287;25705;167836;11;161
+r;8631478;25705;168346;11;161
+r;8686459;25705;211309;11;161
+r;8690428;25705;216934;11;161
+r;8691253;25705;218744;11;161
+r;8691753;25705;219786;11;161
+r;8693194;25705;221667;11;161
+r;8693366;25705;221868;11;161
+r;8693699;25705;222326;11;161
+r;8698507;25705;229801;11;161
+r;8699915;25705;231489;11;161
+r;8700487;25705;232052;11;161
+r;8701654;25705;233588;11;161
+r;8702327;25705;234758;11;161
+r;8704849;25705;237522;11;161
+r;8704851;25705;237523;11;161
+r;8705639;25705;238761;11;161
+r;8705912;25705;239072;11;161
+r;8706242;25705;239526;11;161
+r;8706244;25705;239537;11;161
+r;8707423;25705;242238;11;161
+r;8707653;25705;242480;11;161
+r;8708666;25705;244358;11;161
+r;8710042;25705;246371;11;161
+r;8710291;25705;246726;11;161
+r;8712417;25705;249142;11;161
+r;8714264;25705;250817;11;161
+r;8716760;25705;253106;11;161
+r;8716843;25705;253182;11;161
+r;8717728;25705;253940;11;161
+r;8721812;25705;256811;11;161
+r;8722092;25705;257000;11;161
+r;8722098;25705;257002;11;161
+r;8722100;25705;257003;11;161
+r;8722103;25705;257004;11;161
+r;8723521;25705;258087;11;161
+r;8726505;25705;260107;11;161
+r;8726527;25705;260118;11;161
+r;8727772;25705;261068;11;161
+r;8811310;25705;313171;11;161
+r;8577958;25705;24155;11;162
+r;8578142;25705;24688;11;162
+r;8579101;25705;27510;11;162
+r;8582794;25705;38492;11;162
+r;8583735;25705;41243;11;162
+r;8583953;25705;41888;11;162
+r;8592972;25705;67859;11;162
+r;8593294;25705;68852;11;162
+r;8602559;25705;95623;11;162
+r;8606704;25705;107170;11;162
+r;8607201;25705;108338;11;162
+r;8608348;25705;111509;11;162
+r;8608834;25705;112846;11;162
+r;8608884;25705;112967;11;162
+r;8609360;25705;114301;11;162
+r;8612216;25705;122440;11;162
+r;8613415;25705;125791;11;162
+r;8614538;25705;128892;11;162
+r;8619383;25705;139842;11;162
+r;8620722;25705;142751;11;162
+r;8622646;25705;152156;11;162
+r;8627838;25705;162119;11;162
+r;8632498;25705;170253;11;162
+r;8632570;25705;170309;11;162
+r;8632831;25705;170527;11;162
+r;8672502;25705;202781;11;162
+r;8678747;25705;206613;11;162
+r;8679400;25705;206964;11;162
+r;8681797;25705;208364;11;162
+r;8682484;25705;208790;11;162
+r;8682825;25705;208960;11;162
+r;8682827;25705;208961;11;162
+r;8682828;25705;208962;11;162
+r;8682830;25705;208963;11;162
+r;8682832;25705;208964;11;162
+r;8682834;25705;208965;11;162
+r;8682836;25705;208966;11;162
+r;8682838;25705;208967;11;162
+r;8682842;25705;208969;11;162
+r;8682844;25705;208970;11;162
+r;8682846;25705;208971;11;162
+r;8682848;25705;208972;11;162
+r;8682850;25705;208973;11;162
+r;8682852;25705;208974;11;162
+r;8682853;25705;208975;11;162
+r;8682855;25705;208976;11;162
+r;8682857;25705;208977;11;162
+r;8683121;25705;209153;11;162
+r;8683129;25705;209158;11;162
+r;8683479;25705;209344;11;162
+r;8684533;25705;209955;11;162
+r;8685327;25705;210511;11;162
+r;8687096;25705;211765;11;162
+r;8687498;25705;212071;11;162
+r;8687499;25705;212072;11;162
+r;8688176;25705;212686;11;162
+r;8688411;25705;212935;11;162
+r;8689156;25705;214172;11;162
+r;8689593;25705;214989;11;162
+r;8746166;25705;278528;11;162
+r;6750908;25705;294729;11;163
+r;6750913;25705;294734;11;163
+r;6750915;25705;294736;11;163
+r;6750918;25705;294739;11;163
+r;6750919;25705;294740;11;163
+r;6750920;25705;294741;11;163
+r;8574331;25705;13085;11;163
+r;8581470;25705;34681;11;163
+r;8584398;25705;43209;11;163
+r;8584552;25705;43662;11;163
+r;8586506;25705;49325;11;163
+r;8587500;25705;51990;11;163
+r;8587827;25705;52925;11;163
+r;8592798;25705;67385;11;163
+r;8594544;25705;72466;11;163
+r;8595583;25705;75655;11;163
+r;8595857;25705;76541;11;163
+r;8596718;25705;78899;11;163
+r;8601790;25705;93399;11;163
+r;8602480;25705;95456;11;163
+r;8612458;25705;123152;11;163
+r;8613941;25705;127217;11;163
+r;8614883;25705;129900;11;163
+r;8614956;25705;130077;11;163
+r;8617996;25705;137531;11;163
+r;8619623;25705;140341;11;163
+r;8622701;25705;152248;11;163
+r;8622757;25705;152348;11;163
+r;8623763;25705;154151;11;163
+r;8624414;25705;155296;11;163
+r;8624573;25705;155606;11;163
+r;8625201;25705;156608;11;163
+r;8625827;25705;158591;11;163
+r;8626467;25705;159634;11;163
+r;8634560;25705;172947;11;163
+r;8634834;25705;173945;11;163
+r;8635531;25705;176791;11;163
+r;8638388;25705;181455;11;163
+r;8639755;25705;182238;11;163
+r;8640502;25705;182660;11;163
+r;8643078;25705;184192;11;163
+r;8643570;25705;184493;11;163
+r;8643571;25705;184494;11;163
+r;8643572;25705;184495;11;163
+r;8643574;25705;184496;11;163
+r;8673997;25705;203673;11;163
+r;8674277;25705;203799;11;163
+r;8674484;25705;203916;11;163
+r;8677887;25705;206067;11;163
+r;8678894;25705;206701;11;163
+r;8678900;25705;206704;11;163
+r;8732047;25705;264505;11;163
+r;8732865;25705;265295;11;163
+r;8733318;25705;265641;11;163
+r;8733709;25705;266003;11;163
+r;8736149;25705;268256;11;163
+r;8736151;25705;268259;11;163
+r;8737444;25705;269724;11;163
+r;8737446;25705;269725;11;163
+r;8737723;25705;270025;11;163
+r;8737896;25705;270210;11;163
+r;8741113;25705;273348;11;163
+r;8742544;25705;274606;11;163
+r;8742547;25705;274607;11;163
+r;8744603;25705;276507;11;163
+r;8745670;25705;277839;11;163
+r;8749720;25705;282412;11;163
+r;8750454;25705;283238;11;163
+r;8750561;25705;283355;11;163
+r;8752102;25705;284860;11;163
+r;8752104;25705;284861;11;163
+r;8754864;25705;287266;11;163
+r;8755557;25705;287809;11;163
+r;8756568;25705;288579;11;163
+r;8758984;25705;291114;11;163
+r;8761168;25705;293564;11;163
+r;8761951;25705;294575;11;163
+r;8762083;25705;294757;11;163
+r;8762084;25705;294759;11;163
+r;8762086;25705;294760;11;163
+r;8762088;25705;294761;11;163
+r;8763005;25705;295771;11;163
+r;8767756;25705;301190;11;163
+r;8771747;25705;305870;11;163
+r;8776095;25705;310199;11;163
+r;8776125;25705;310223;11;163
+r;8781784;25705;313076;11;163
+r;6750909;25705;294730;11;164
+r;6750911;25705;294732;11;164
+r;6750914;25705;294735;11;164
+r;6750916;25705;294737;11;164
+r;6750917;25705;294738;11;164
+r;6750921;25705;294742;11;164
+r;6750922;25705;294743;11;164
+r;6750923;25705;294744;11;164
+r;6750924;25705;294745;11;164
+r;6750925;25705;294746;11;164
+r;6750926;25705;294747;11;164
+r;8579907;25705;29793;11;164
+r;8615937;25705;132757;11;164
+r;8616672;25705;134852;11;164
+r;8616797;25705;135193;11;164
+r;8616876;25705;135448;11;164
+r;8645123;25705;185668;11;164
+r;8662390;25705;196830;11;164
+r;8574436;25705;13393;11;165
+r;8664487;25705;198095;11;165
+r;8666104;25705;199037;11;165
+r;6750853;25705;146843;11;168
+r;6750855;25705;114037;11;168
+r;6750858;25705;206918;11;168
+r;6750862;25705;57388;11;168
+r;6750865;25705;208978;11;168
+r;6750868;25705;208968;11;168
+r;6750870;25705;111012;11;168
+r;8573037;25705;9256;11;168
+r;6750849;25705;195594;11;169
+r;6750851;25705;152402;11;169
+r;6750863;25705;122993;11;169
+r;6750864;25705;232746;11;169
+r;6750869;25705;143631;11;169
+r;8569975;25705;73;11;169
+r;6750852;25705;199359;11;170
+r;6750598;25705;203798;11;174
+r;6750866;25705;294748;11;174
+r;11862189;25705;110045;11;184
+r;1369667;25705;103256;11;198
+r;6750860;25705;123978;11;308

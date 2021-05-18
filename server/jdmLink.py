@@ -25,9 +25,7 @@ def cacheExists(filename):
 
 # pour un terme et une relation enregistrer dans un fichier les donnés retourner par la requet sur JDM
 def saveWords(terme, numRel, words_dict):
-    chars = [",","/",";","\\"]
-    if (item in terme for item in chars) :
-        return False
+ 
     try:
         filename = terme+"_"+str(numRel)+".txt"
         # print(filename)

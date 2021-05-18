@@ -1,0 +1,1337 @@
+
+e;64681;'niveau';1;342
+e;6294791;'gêne au niveau du sinus paranasal';1;0
+e;6294303;'lésion traumatique d'autres muscles et tendons au niveau de la jambe';1;0
+e;6292331;'lésion traumatique de muscles et de tendons postérieurs au niveau de la cuisse';1;0
+e;6292386;'brûlure au niveau du site du cathéter';1;0
+e;6291771;'réaction au niveau du site chirurgical';1;0
+e;6291597;'lésion traumatique des nerfs au niveau de la cheville et du pied';1;0
+e;6306347;'interventions thérapeutiques au niveau de la lèvre';1;0
+e;6310573;'retards au niveau du developpement foetal';1;0
+e;6317478;'fécondité inférieure au niveau de remplacement';1;0
+e;6323183;'niveau de scolarité';1;0
+e;6326355;'eruption au niveau du site exposé';1;0
+e;6331787;'niveau à faible revenu';1;0
+e;6340502;'interventions thérapeutiques au niveau du tissu lymphoïde';1;0
+e;6345977;'ulcération au niveau du site de perfusion';1;0
+e;6366341;'interventions thérapeutiques au niveau de l'oreille interne';1;0
+e;6367181;'autres éducatrices du niveau préscolaire';1;0
+e;6370728;'niveau de médicament immunodépresseur diminué';1;0
+e;6370928;'rougeur au niveau du site du cathéter';1;0
+e;6372470;'interventions thérapeutiques au niveau des membres';1;0
+e;6378240;'interventions thérapeutiques au niveau du larynx';1;0
+e;6384109;'autres professeurs du niveau primaire';1;0
+e;6389779;'niveau de soutien envers le patient';1;0
+e;6391343;'niveau à la limite de la pauvreté';1;0
+e;6407298;'commotion avec perte de connaissance prolongée et retour au niveau de conscience préexistant';1;0
+e;6411211;'sans retour au niveau de conscience préexistant commotion avec perte de connaissance prolongée';1;0
+e;6416306;'caecostomie au niveau de la peau';1;0
+e;6331909;'section du nerf trijumeau au niveau du foramen ovale';1;0
+e;6391753;'niveau de médicament agissant sur le coeur';1;0
+e;6308800;'libération du nerf médian au niveau du canal carpien';1;0
+e;6399966;'niveau de médicament pour la chimiothérapie';1;0
+e;13664820;'Le niveau d'élaboration';777;0
+e;13737996;'gêne au niveau de la gorge';1;0
+e;13743511;'retour du niveau de conscience pré-existant';1;0
+e;6311670;'nerf musculo cutané au niveau du bras';1;0
+e;6416992;'abcès au niveau du site de perfusion';1;0
+e;13854257;'génération aléatoire de niveau de jeu';1;0
+e;13884126;'indicateur de niveau de liquide';1;0
+e;13989399;'domaine de premier niveau national internationalisé';777;0
+e;13989402;'domaine de premier niveau parrainé';777;0
+e;14048688;'niveau atomique';1;0
+e;14252660;'courbes de niveau';777;0
+e;14446317;'niveau kéraunique';777;0
+e;14451371;'niveau d'énergie du vide';777;0
+e;14491953;'niveau 1';777;0
+e;14510571;'niveau secouriste';777;0
+e;14567992;'leur montant réévalué à un niveau comparable à la rémunération d'un jeune chercheur ou ingénieur débutant';777;0
+e;14583857;'niveau sémantique';777;0
+e;14611509;'niveau abdomino pelvien';1;0
+e;14612288;'niveau actuel de la mer';1;0
+e;14639035;'niveau de maturité';1;0
+e;14688327;'L'examen du niveau 4 est organisé à l'échelon fédéral';777;0
+e;14747353;'le niveau de hauteur';777;0
+e;14773740;'niveau national';1;0
+e;14773823;'niveau hiérarchique pertinent';1;0
+e;6392153;'lésion traumatique du nerf médian au niveau du poignet et de la main';1;0
+e;6391262;'desquamation au niveau du site de vaccination';1;0
+e;6387607;'lésion traumatique d'un nerf cutané sensitif au niveau de la cheville et du pied';1;0
+e;6398988;'lésion traumatique d'autres nerfs au niveau de la jambe';1;0
+e;6297128;'lésion traumatique d'un muscle et d'un tendon intrinsèques au niveau de la cheville et du pied';1;0
+e;6298379;'lésion traumatique du nerf tibial antérieur au niveau de la cheville et du pied';1;0
+e;6396121;'lésion traumatique du nerf fémoral au niveau de la hanche et de la cuisse';1;0
+e;6404197;'niveau de conscience altéré';1;0
+e;6299893;'lésion traumatique des nerfs au niveau de la jambe';1;0
+e;6386055;'lésion traumatique du muscle et du tendon longs fléchisseurs du pouce au niveau du poignet et de la main';1;0
+e;14779731;'niveau acceptable';777;0
+e;6330802;'écoulement au niveau du cathéter';1;0
+e;6401053;'lésion traumatique du nerf sciatique au niveau de la hanche et de la cuisse';1;0
+e;15909723;'niveau sonore maximal';777;0
+e;6408524;'lésion traumatique du nerf cubital au niveau du bras';1;0
+e;6387936;'lésion traumatique de muscles et de tendons au niveau du poignet ou en dessous';1;0
+e;6389795;'lésion traumatique d'autres vaisseaux sanguins au niveau de la hanche et de la cuisse';1;0
+e;6408346;'lésion traumatique du nerf médian au niveau du bras';1;0
+e;15418298;'niveau en langue';1;0
+e;6287269;'lésion traumatique d'autres nerfs au niveau de la hanche et de la cuisse';1;0
+e;6288386;'perte de sang foetal au niveau de la section du cordon d'un jumeau';1;0
+e;6289548;'lésion traumatique de vaisseaux sanguins au niveau du poignet et de la main';1;0
+e;6297135;'infection au niveau du site de perfusion';1;0
+e;6303404;'lésion traumatique de vaisseaux sanguins au niveau de la jambe';1;0
+e;6306147;'lésion traumatique des vaisseaux sanguins au niveau du cou';1;0
+e;15536376;'niveau de plomb';1;0
+e;6308179;'lésion traumatique de muscles et de tendons intrinsèques d'un autre doigt au niveau du poignet et de la main';1;0
+e;6311970;'lésion traumatique du nerf sciatique poplité interne au niveau de la jambe';1;0
+e;6312466;'lésion traumatique du muscle et du tendon fléchisseurs d'un autre doigt au niveau du poignet et de la main';1;0
+e;6314430;'douleur au niveau du dispositif médical';1;0
+e;6316009;'lésion traumatique de muscles et de tendons au niveau du poignet et de la main';1;0
+e;6318964;'lésion traumatique du muscle et du tendon extenseurs du pouce au niveau du poignet et de la main';1;0
+e;6324141;'lésion traumatique de muscles et de tendons au niveau de la cheville ou en dessous';1;0
+e;6328682;'lésion traumatique de nerfs au niveau de la hanche et de la cuisse';1;0
+e;6336700;'niveau de médicament immunodépresseur sai augmenté';1;0
+e;6334032;'lésion traumatique de la veine saphène interne au niveau de la hanche et de la cuisse';1;0
+e;6338811;'réaction au niveau de la stomie';1;0
+e;6345660;'lésion traumatique des muscles et des tendons au niveau du cou';1;0
+e;6361677;'lésion traumatique d'autres nerfs au niveau de la cheville et du pied';1;0
+e;6363149;'lésion traumatique d'autres vaisseaux sanguins au niveau du cou';1;0
+e;6366192;'faiblesse spinale au niveau moteur';1;0
+e;6374935;'paralysie de la moelle épinière au niveau moteur';1;0
+e;6376860;'lésion traumatique d'autres vaisseaux sanguins au niveau du poignet et de la main';1;0
+e;6379206;'réaction au niveau du site de perfusion';1;0
+e;6383390;'augmentation du niveau de protéines sériques';1;0
+e;6385961;'lésion traumatique d'un nerf cutané sensitif au niveau de la hanche et de la cuisse';1;0
+e;6392226;'lésion traumatique de muscles et de tendons intrinsèques du pouce au niveau du poignet et de la main';1;0
+e;6416592;'lésion traumatique d'autres muscles et tendons au niveau de la cheville et du pied';1;0
+e;6417906;'lésion traumatique d'autres muscles et tendons au niveau du poignet et de la main';1;0
+e;6419988;'lésion traumatique du nerf sciatique poplité externe au niveau de la jambe';1;0
+e;6421614;'lésion traumatique de muscles et de tendons au niveau de la cheville et du pied';1;0
+e;15791450;'l'atteinte d'un certain niveau de compétence en espéranto est nettement plus rapide que pour toute autre langue';777;0
+e;16168475;'haut niveau de preuve';1;0
+e;16290042;'spasmes douloureux au niveau du visage';1;0
+e;16321256;'lésions au niveau du menton';1;0
+e;16496766;'modulaire et intégrée au niveau des traitements offerts';777;0
+e;6370555;'candida au niveau de la stomie';1;0
+e;6293349;'inhibiteurs du transport de l'acide gamma-aminobutyrique au niveau de la membrane plasmique';1;0
+e;6297026;'niveau médicamenteux altéré par substitution de médicament générique';1;0
+e;6309283;'analphabétisme et faible niveau éducatif';1;0
+e;6312476;'diagnostic au niveau du colon';1;0
+e;6315872;'métastases au niveau de la glande pituitaire';1;0
+e;6336347;'niveau sensoriel normal';1;0
+e;6318906;'césarienne au niveau du segment inférieur';1;0
+e;6324390;'niveau de médicament immunodépresseur sai diminué';1;0
+e;6332236;'niveau non précisé fracture ouverte d'une vertèbre cervicale';1;0
+e;6337263;'incident au niveau d'un implant';1;0
+e;6337913;'niveau de conscience diminué';1;0
+e;6338987;'autre chute d'un niveau à un autre';1;0
+e;6363366;'bouffées vasomotrices au niveau du thorax';1;0
+e;6369448;'métastases au niveau de la moëlle osseuse';1;0
+e;6373673;'niveau non précisé fracture fermée d'une vertèbre cervicale';1;0
+e;6377742;'infiltration au niveau du site de perfusion';1;0
+e;6381049;'métastases au niveau du sein';1;0
+e;6381622;'métastases au niveau de la paroi thoracique';1;0
+e;6398379;'diagnostic au niveau du pancreas';1;0
+e;6411514;'communication interauriculaire au niveau du trou de botal';1;0
+e;6413030;'métastases au niveau du tractus gastrointestinal';1;0
+e;6415250;'métastases au niveau de la trompe de fallope';1;0
+e;6420717;'diagnostics au niveau des voies biliaires';1;0
+e;6420762;'ostéopathie à bas niveau de remodelage';1;0
+e;14259020;'athlète de haut niveau';1;0
+e;14529706;'niveau de vigilance';1;12
+e;14730134;'niveau de difficulté';1;0
+e;15039835;'Zone de sismicité de niveau 1';777;0
+e;15034378;'au niveau d'';1;0
+e;15034379;'au niveau le plus élevé des';1;0
+e;15034448;'au top niveau d'';1;0
+e;15034449;'au top niveau du';1;0
+e;6317111;'lésion traumatique d'autres vaisseaux sanguins au niveau de la cheville et du pied';1;0
+e;6363207;'douleur au niveau de la gorge et du thorax';1;0
+e;6365080;'phlébite au niveau du site de perfusion';1;0
+e;6434582;'lésion traumatique de muscles et de tendons extenseurs et abducteurs du pouce au niveau de l'avant-bras';1;0
+e;6434361;'lésion traumatique d'une veine superficielle au niveau de l'épaule et du bras';1;0
+e;6297029;'complications liées à la procédure au niveau du tractus respiratoire et de la cavité thoracique';1;0
+e;6299588;'métastases au niveau du système respiratoire';1;0
+e;6300388;'métastases au niveau du système nerveux périphérique';1;0
+e;6304161;'métastases au niveau de sites précisés';1;0
+e;6309233;'gastro-entérite à campylobacter au niveau du jéjunum';1;0
+e;6315362;'métastases au niveau des sinus paranasaux';1;0
+e;6326287;'autres professeurs du niveau secondaire';1;0
+e;6343502;'complications liées à la procédure au niveau de la peau';1;0
+e;6357607;'métastases au niveau de la cavité abdominale';1;0
+e;6374894;'complications liées à la procédure au niveau endocrinien';1;0
+e;6380162;'complications liées à la procédure au niveau neurologique et psychiatrique';1;0
+e;6380847;'métastases au niveau de la paroi abdominale';1;0
+e;6391067;'autres signes et symptômes observés au niveau du sein';1;0
+e;6396228;'complications liées à la procédure au niveau cardiaque et vasculaire';1;0
+e;6400696;'métastases au niveau de la glande salivaire';1;0
+e;6401377;'métastases au niveau du système vasculaire périphérique';1;0
+e;6404930;'métastases au niveau du tractus biliaire';1;0
+e;12200244;'niveau de vie convenable';1;0
+e;12981420;'place dominante au niveau institutionnel';1;0
+e;5778289;'objectifs de niveau de services';777;0
+e;6440255;'lésion traumatique de vaisseaux sanguins au niveau de l'avant-bras';1;0
+e;6439598;'lésion traumatique de l'artère radiale au niveau de l'avant-bras';1;0
+e;6438717;'niveau d'amino-acide de l'urine';1;0
+e;6436414;'cicatrice au niveau du site d'application';1;0
+e;6434048;'lésion traumatique d'autres nerfs au niveau de l'avant-bras';1;0
+e;6432962;'coloration au niveau du site d'injection';1;0
+e;6431979;'lésion traumatique d'une veine au niveau de l'avant-bras';1;0
+e;6430992;'douleurs au niveau du flanc';1;0
+e;6430625;'malformations au niveau de la machoire';1;0
+e;6430527;'amputation de la jambe au niveau du tibia et du péroné';1;0
+e;6426059;'amputation de la jambe au niveau des articulations de la cheville';1;0
+e;6420186;'abcès au niveau de la stomie';1;0
+e;10649655;'obstruction au niveau de la partie distale de l'estomac';1;0
+e;6334406;'métastases au niveau de la vésicule biliaire';1;0
+e;13519851;'boss de fin de niveau';1;0
+e;5562559;'mono-niveau';1;0
+e;5711961;'langage de bas niveau';1;0
+e;6440600;'lésion traumatique de nerfs au niveau de l'épaule et du bras';1;0
+e;6438679;'amputation du bras au niveau de l'humérus';1;0
+e;6435301;'transposition du nerf ulnaire au niveau de l'épaule';1;0
+e;6432920;'lésion traumatique d'autres nerfs au niveau de l'épaule et du bras';1;0
+e;6426970;'niveau de conscience limité';1;0
+e;6425005;'ligature et section de la grande veine saphène au niveau de la jonction saphéno-fémorale';1;0
+e;6424274;'amputation traumatique du pied au niveau de la cheville';1;0
+e;10619514;'niveau de classification';1;0
+e;10986602;'unités administratives locales de second niveau';777;0
+e;10986600;'unités administrative locale de premier niveau';777;0
+e;6441729;'métastases au niveau de l'appareil reproductif';1;0
+e;6441645;'pustule au niveau du site d'injection';1;0
+e;6440348;'lésion traumatique de l'artère radiale au niveau du poignet et de la main';1;0
+e;6438612;'lésion traumatique d'autres muscles et de tendons au niveau de l'épaule et du bras';1;0
+e;6438296;'lésion traumatique de l'artère cubitale au niveau du poignet et de la main';1;0
+e;6435242;'hypersécrétion d'acth au niveau hypophysaire';1;0
+e;6431860;'vésicules au niveau du site d'injection';1;0
+e;6431329;'lésion traumatique de muscles et de tendons au niveau du coude ou en dessous';1;0
+e;6431200;'chute intentionnelle d'un niveau à un autre';1;0
+e;6428291;'lésion traumatique du muscle et du tendon extenseurs d'un autre doigt au niveau du poignet et de la main';1;0
+e;6426596;'résine diminuant le niveau de calcium';1;0
+e;6422345;'lésion traumatique de muscles et de tendons au niveau de la hanche et de la cuisse';1;0
+e;10619513;'niveau de classification des protéines';1;0
+e;11049826;'langage de programmation de haut niveau';1;0
+e;11049824;'langage de programmation de haut niveau typé dynamiquement';1;0
+e;15294227;'d'un niveau plus élevé, plus gradé';1;0
+e;15265841;'de niveau débutant';1;0
+e;15247286;'de niveau supérieur';1;0
+e;15263328;'de quatrième niveau';1;0
+e;15234523;'de troisième niveau';1;0
+e;15330079;'de très haut niveau';1;0
+e;15349778;'des leçons qui ont mal marché parce que je ne les avais pas adaptées au niveau de mes élèves';1;0
+e;15506196;'diminuer le niveau d'entropie';1;0
+e;15330081;'discussion au plus haut niveau';1;0
+e;15384571;'douleur au niveau de la glande lacrymale';1;0
+e;15323864;'décision prise à un niveau bien plus haut que le mien';1;0
+e;15431188;'en cours de mise à niveau';1;0
+e;15237358;'en dessous du niveau investment grade';1;0
+e;16420076;'contacteur de niveau';1;0
+e;5714799;'architecture de haut niveau';777;0
+e;6447303;'sensibilité au niveau du site d'injection';1;0
+e;6446106;'lésion traumatique d'autres vaisseaux sanguins au niveau de l'avant-bras';1;0
+e;6443039;'complications liées à la procédure au niveau de l'appareil génital et des seins';1;0
+e;6436289;'neuroplastie et transposition du nerf ulnaire au niveau de l'épaule';1;0
+e;6433459;'candida au niveau de l'anus';1;0
+e;6433290;'niveau d'éducation';1;2
+e;6424147;'lésion traumatique d'autres nerfs au niveau du poignet et de la main';1;0
+e;9959107;'lignes de niveau';777;0
+e;10992063;'Attestation scolaire de sécurité routière de deuxième niveau';777;0
+e;11049825;'langage de programmation de haut niveau typé';1;0
+e;11054204;'Le niveau de généricité';777;0
+e;15525408;'classe à double niveau';1;0
+e;15389230;'compatible au niveau binaire';1;0
+e;13746427;'contusion cérébelleuse avec plaie intracrânienne ouverte et perte de conscience prolongée (plus de 24 heures), sans retour du niveau de conscience pré-existant';1;0
+e;13740548;'contusion cérébelleuse avec plaie intracrânienne ouverte, perte de conscience prolongée (plus de 24 heures) et retour du niveau de conscience pré-existant';1;0
+e;13793794;'contusion cérébelleuse sans plaie intracrânienne ouverte, avec perte de conscience prolongée (plus de 24 heures) et retour du niveau de conscience pré-existant';1;0
+e;13788504;'contusion cérébelleuse sans plaie intracrânienne ouverte, avec perte de conscience prolongée (plus de 24 heures), sans retour du niveau de conscience pré-existant';1;0
+e;13796947;'contusion du cortex cérébral avec plaie intracrânienne ouverte et perte de conscience prolongée (plus de 24 heures) sans retour du niveau de conscience pré-existant';1;0
+e;13802426;'contusion du cortex cérébral avec plaie intracrânienne ouverte, perte de conscience prolongée (plus de 24 heures) et retour du niveau de conscience pré-existant';1;0
+e;13797138;'contusion du cortex cérébral sans plaie intracrânienne ouverte, avec perte de conscience prolongée (plus de 24 heures) et retour du niveau de conscience pré-existant';1;0
+e;13791822;'contusion du cortex cérébral sans plaie intracrânienne ouverte, avec perte de conscience prolongée (plus de 24 heures), sans retour du niveau de conscience pré-existant';1;0
+e;13781321;'contusion du tronc cérébral avec plaie intracrânienne ouverte, perte de conscience prolongée (plus de 24 heures) et retour du niveau de conscience pré-existant';1;0
+e;13799270;'contusion du tronc cérébral sans plaie intracrânienne ouverte, avec perte de conscience prolongée (plus de 24 heures) et retour du niveau de conscience pré-existant';1;0
+e;13793700;'contusion du tronc cérébral sans plaie intracrânienne ouverte, avec perte de conscience prolongée (plus de 24 heures), sans retour du niveau de conscience pré-existant';1;0
+e;4217192;'multi-niveau';1;0
+e;5634010;'langage de programmation haut niveau impératif et orienté objet';1;0
+e;5634011;'langage de programmation haut niveau impératif';1;0
+e;5634012;'langage de programmation haut niveau';1;0
+e;5672249;'éditeur de niveau';777;0
+e;5816634;'niveau de compensation des carbonates';777;0
+e;6444913;'neuroplastie du nerf cubital au niveau de l'épaule';1;0
+e;6439289;'excoriation au niveau du site d'application';1;0
+e;6437872;'éruption bulleuse au niveau du site d'injection';1;0
+e;6433193;'lésion traumatique d'autres vaisseaux sanguins au niveau de l'épaule et du bras';1;0
+e;6431339;'transposition du nerf ulnaire au niveau du poignet';1;0
+e;10992062;'Attestation scolaire de sécurité routière de premier niveau';777;0
+e;15389235;'au niveau commercial';1;0
+e;15447375;'au niveau de [qch/qqn]';1;0
+e;15447374;'au niveau de [qch]';1;0
+e;15479226;'au niveau de la carte';1;0
+e;15321388;'au niveau de la mer';1;0
+e;15339062;'au niveau de la phrase ou de parties de phrases';1;0
+e;15650734;'au niveau de quelque chose';1;0
+e;15479233;'au niveau du sol';1;0
+e;15479234;'au niveau du visage';1;0
+e;15303122;'au niveau international';1;0
+e;15528188;'au niveau le plus bas';1;0
+e;15302656;'au niveau local';1;0
+e;15389229;'au niveau national';1;0
+e;15316236;'au niveau olympique';1;0
+e;15389232;'au niveau opérationnel';1;0
+e;15389239;'au niveau organisationnel';1;0
+e;15389237;'au niveau phrastique';1;0
+e;15389241;'au niveau pratique';1;0
+e;15308626;'au niveau régional';1;0
+e;15277855;'au top niveau';1;0
+e;15323860;'au-delà/au-dessus de mon niveau';1;0
+e;15321381;'au-dessous du niveau de la mer';1;0
+e;15469444;'au-dessus du niveau du sol';1;0
+e;15773983;'autorité au niveau mondial';1;0
+e;15389379;'avoir un bon niveau en';1;0
+e;15650745;'avoir un bon niveau en quelque chose';1;0
+e;15318619;'baisse du niveau de vie';1;0
+e;15316637;'barrière d'un passage à niveau';1;0
+e;15316635;'barrière de passage à niveau';1;0
+e;15426454;'bon niveau en [qch]';1;0
+e;15650746;'bon niveau en quelque chose';1;0
+e;15397566;'carte avec courbes de niveau';1;0
+e;5834529;'niveau de Clark';777;0
+e;6428940;'niveau sensoriel anormal';1;0
+e;6423857;'résine diminuant le niveau de potassium';1;0
+e;11077057;'niveau 2';777;0
+e;13743500;'contusion du tronc cérébral avec plaie intracrânienne ouverte et perte de conscience prolongée (plus de 24 heures), sans retour du niveau de conscience pré-existant';1;0
+e;15632991;'au niveau de la bouche';777;0
+e;15423160;'avoir un bon niveau en [qch]';1;0
+e;15544329;'antémémoire de deuxième niveau';1;0
+e;15752509;'atteindre le niveau de qualité souhaité';1;0
+e;5918828;'niveau de pression acoustique';777;0
+e;6446194;'endofuite au niveau de l'endoprothèse';1;0
+e;6440360;'lésion traumatique du nerf cubital au niveau de l'avant-bras';1;0
+e;6438059;'Évaluation du niveau d'anxiété';1;0
+e;6424394;'douleur au niveau du flanc';1;0
+e;6290868;'commotion avec perte de conscience prolongée sans retour du niveau de conscience pré-existant';1;0
+e;11696930;'culture en courbes de niveau';777;0
+e;11788371;'niveau normal d'Amsterdam';777;0
+e;6392760;'complications liées à la procédure au niveau musculo-squelettique';1;0
+e;12988069;'certificat Informatique et Internet niveau 2 - Enseignant';777;0
+e;15952706;'Super Saiyan de niveau 2';777;0
+e;15952707;'Super Saiyan de niveau 3';777;0
+e;15774591;'Un politique et parlementaire doublé d'expériences en sécurité et défense au niveau mondial';777;0
+e;15316758;'adhérer, être posé directement sur, être au même niveau, bien s'insérer';1;0
+e;15238463;'alarme de niveau';1;0
+e;15321382;'altitude au-dessus du niveau de la mer';1;0
+e;13748191;'amputation de l'avant-bras au niveau du radius et du cubitus, réamputation';1;0
+e;6332133;'amputation traumatique unilatérale au niveau du coude ou au-dessus du coude avec complication';1;0
+e;6342112;'amputation traumatique unilatérale au niveau du coude ou au-dessus du coude sans complication';1;0
+e;6351593;'amputation traumatique unilatérale de la jambe au niveau du genou ou au-dessus du genou avec complication';1;0
+e;6311809;'amputation traumatique unilatérale de la jambe au niveau du genou ou au-dessus du genou sans complication';1;0
+e;15318621;'améliorer le niveau de vie';1;0
+e;5983375;'niveau de condensation par ascendance';777;0
+e;6448553;'niveau d'analgésique sai diminué';1;0
+e;6445003;'niveau d'antidépresseur diminué';1;0
+e;6444517;'niveau d'antidépresseur augmenté';1;0
+e;6442008;'masse au niveau de l'annexe utérine';1;0
+e;6441148;'lésion traumatique de nerfs au niveau de l'avant-bras';1;0
+e;6439870;'niveau d'amino-acide de l'urine augmenté';1;0
+e;6437482;'perspiration au niveau du site d'application';1;0
+e;6434932;'niveau d'amino-acide de l'urine anormal';1;0
+e;6432945;'lésion traumatique du nerf médian au niveau de l'avant-bras';1;0
+e;6430234;'analphabétisme de bas niveau';1;0
+e;6426966;'sensibilité au niveau du site de perfusion';1;0
+e;6425736;'lésion traumatique d'un nerf cutané sensitif au niveau de la jambe';1;0
+e;6423968;'neuroplastie et transposition du nerf ulnaire au niveau du poignet';1;0
+e;11022931;'langage de programmation de bas niveau';777;0
+e;11413285;'principaux sites protégés pour leur valeur culturelle et historique au niveau national';777;0
+e;12048999;'coopérer au niveau interprofessionnel';1;0
+e;15791207;'Sécurités au niveau des portes et vitres';777;0
+e;15582676;'Le niveau de l'eau a baissé.';1;0
+e;16242998;'G pour la signalisation de position des passages à niveau';777;0
+e;1839808;'niveau liquide';1;0
+e;6448775;'niveau d'antidépresseur sai augmenté';1;0
+e;6438266;'hypersensibilité au niveau du site d'injection';1;0
+e;6434393;'lésion traumatique d'un autre muscle et d'un autre tendon fléchisseurs au niveau de l'avant-bras';1;0
+e;6430010;'métastases au niveau du tissu mou';1;0
+e;6427596;'complications liées à la procédure au niveau gastro-intestinal et hépatobiliaire';1;0
+e;11287605;'districts et les gouvernements de niveau local';777;0
+e;11362542;'bus à haut niveau de service de Belfort';777;0
+e;12049749;'participer à des décisions stratégiques de haut niveau en matière de santé';1;0
+e;12050470;'surveiller le niveau de stocks';1;0
+e;12051019;'matelot deuxième niveau en navigation fluviale';1;0
+e;12080138;'niveau de réduction';1;0
+e;6450423;'atrophie au niveau du point d'application';1;0
+e;6447848;'complications liées à la procédure au niveau de l'oeil et de l'oreille';1;0
+e;6446137;'augmentation du niveau de l'activité physique';1;0
+e;6444947;'réaction de photosensibilité au niveau du site d'application';1;0
+e;6442014;'niveau d'antidépresseur sai diminué';1;0
+e;6440564;'diagnostics au niveau de l'estomac';1;0
+e;6439719;'atrophie au niveau du point d'injection';1;0
+e;6436553;'difficultés liées à l'analphabétisme et à un faible niveau éducatif';1;0
+e;11394359;'certification de sécurité de premier niveau';777;0
+e;11543796;'niveau international';777;0
+e;5985524;'bus à haut niveau de service';777;0
+e;6449181;'gêne au niveau du site d'application';1;0
+e;6529114;'nerf musculo cutané au niveau';1;0
+e;6446391;'gonflement au niveau du site d'application';1;0
+e;6444780;'lésion traumatique de muscles et de tendons au niveau de l'avant-bras';1;0
+e;6441725;'sensibilité de l'articulation au niveau du site d'injection';1;0
+e;6440642;'lésion traumatique d'un autre muscle et d'un autre tendon extenseurs au niveau de l'avant-bras';1;0
+e;6439623;'niveau d'audition de la parole';1;0
+e;6422839;'fuite au niveau d'un dispositif';1;0
+e;11342040;'Mise à niveau en Arts Appliqués';777;0
+e;12057438;'niveau licence';1;0
+e;12057439;'niveau master';1;0
+e;6445682;'lésion des vaisseaux sanguins au niveau de l'épaule et du bras';1;0
+e;6445507;'ecchymose au niveau du point d'injection';1;0
+e;6437286;'niveau d'analgésique sai augmenté';1;0
+e;11363495;'niveau de vol';777;0
+e;11957521;'niveau I';777;0
+e;12057447;'niveau bac +4';1;0
+e;12057449;'niveau bac +5';1;0
+e;12057448;'niveau bac +3';1;0
+e;12057442;'niveau doctorat';1;0
+e;13406152;'niveau de condensation';777;0
+e;6451252;'coloration au niveau du site d'application';1;0
+e;6450355;'lésion traumatique du muscle et du tendon fléchisseurs du pouce au niveau de l'avant-bras';1;0
+e;6447556;'test de retour capillaire au niveau du lit de l'ongle anormal';1;0
+e;6445608;'métastases au niveau de la trompe d'eustache';1;0
+e;6444559;'niveau d'amino-acide de l'urine diminué';1;0
+e;6437364;'diagnostics au niveau de l'oesophage';1;0
+e;11217803;'épanchement au niveau d'une articulation non précisée';1;0
+e;13406154;'niveau d'équilibre convectif';777;0
+e;13406153;'niveau de condensation par convection';777;0
+e;16391217;'Apporter une diversification au niveau des objectifs';777;0
+e;5711542;'Certification de sécurité de premier niveau';777;0
+e;6526051;'résines diminuant le niveau de calcium';1;0
+e;6443932;'gêne au niveau de l'uretérostomie';1;0
+e;11182242;'niveau minimal de revenu';1;0
+e;2471457;'bas niveau';1;2
+e;6445117;'hypersécrétions d'acth au niveau hypophysaire';1;0
+e;6434194;'chaleur au niveau du site d'injection';1;0
+e;6595255;'stage de remise à niveau';1;0
+e;6595254;'stage de remise à niveau des connaissances';1;0
+e;6424692;'commotion avec perte de conscience prolongée et retour du niveau de conscience pré-existant';1;0
+e;11373279;'niveau 3';777;2
+e;11385016;'poire de niveau';777;0
+e;13198614;'plongeur niveau 4';777;0
+e;5810827;'comparaison du niveau acoustique des bruits';777;0
+e;5895100;'niveau intermédiaire';1;0
+e;5896946;'Figure 2. Localisation et rôles physiologiques du récepteur GABAB au niveau des synapses';777;0
+e;6451297;'lésion traumatique d'autres muscles et tendons au niveau de l'épaule et du bras';1;0
+e;11009643;'niveau d'attaque';777;0
+e;11155050;'niveau d'un';777;0
+e;6000272;'niveau 4';777;0
+e;6451876;'lésion traumatique de muscles et de tendons au niveau de l'épaule et du bras';1;0
+e;6449096;'douleur au niveau de l'annexe utérine';1;0
+e;6448561;'lésion traumatique d'un nerf cutané sensitif au niveau de l'épaule et du bras';1;0
+e;6448380;'alopécie au niveau du site d'application';1;0
+e;6438343;'irritation au niveau de l'instillation';1;0
+e;6437934;'lésion traumatique du nerf radial au niveau de l'avant-bras';1;0
+e;6434655;'gêne au niveau du site d'injection';1;0
+e;6431562;'hypersensibilité au niveau du site d'application';1;0
+e;13302294;'niveau de preuve';1;0
+e;5988778;'niveau d'élimination';777;0
+e;5981716;'variation du niveau moyen';1;0
+e;6451298;'lésion traumatique d'un nerf sensitif cutané au niveau de l'avant-bras';1;0
+e;6450877;'douleur au niveau du site d'injection';1;0
+e;6451653;'diminution du niveau de l'activité physique';1;0
+e;6450958;'calcification au niveau du site d'injection';1;0
+e;6442046;'niveau d'analgésique diminué';1;0
+e;10435280;'Loi permettant aux étudiants de recevoir l'enseignement dispensé par les établissements de niveau postsecondaire qu'ils fréquentent';777;0
+e;5983365;'niveau de convection libre';777;0
+e;5982912;'contrôleur de niveau';777;0
+e;6451121;'métastases au niveau de l'intestin grêle';1;0
+e;6526573;'résines diminuant le niveau de potassium';1;0
+e;6435921;'niveau d'amino-acide de l'urine normal';1;0
+e;12771264;'parti politique au niveau européen';777;0
+e;5981717;'variation du niveau';1;0
+e;6527710;'création de niveau en 3D';777;0
+e;6447457;'niveau d'analgésique augmenté';1;0
+e;9733363;'niveau de plongée';1;0
+e;5517735;'baisse du niveau piézométrique';1;0
+e;6445895;'pétéchie au niveau du site d'injection';1;0
+e;8764881;'amélioration du niveau de vie';1;0
+e;8878755;'liste des domaines de premier niveau';777;0
+e;8930404;'niveau de vigilance crue';1;0
+e;8930405;'niveau de vigilance météo';1;0
+e;9202031;'excès de sérotonine au niveau cérébral';1;0
+e;9723844;'niveau IV capacitaire';777;0
+e;11128014;'niveau de congélation';777;0
+e;11129137;'domaine de deuxième niveau';777;0
+e;11129496;'sites historiques et culturels majeurs protégés au niveau national';777;0
+e;11131360;'prévention et secours civiques de niveau 1';777;0
+e;11131986;'Convention sur la participation des étrangers à la vie publique au niveau local';777;0
+e;12246810;'droit à un niveau de vie suffisant';777;0
+e;12616685;'niveau élevé de handicap';1;0
+e;13759335;'134 éducateurs du niveau préscolaire';1;0
+e;13751716;'712 résines diminuant le niveau de calcium';1;0
+e;13754075;'714 résines diminuant le niveau de potassium';1;0
+e;15317554;'Ce n'est pas Byzance niveau choix!';1;0
+e;16366883;'Au niveau d'une racine de plant de soja';777;0
+e;922853;'surfaces de niveau';777;0
+e;922852;'Verticale et surfaces de niveau';777;0
+e;2526692;'niveau du sol';1;0
+e;3323809;'niveau d'activité physique';1;0
+e;3323811;'niveau maximum autorisé';1;0
+e;5517734;'baisse du niveau piézométrique zéro';1;0
+e;461469;'au niveau du pont et du mésencéphale';777;50
+e;573878;'Paysages de France est la seule association de défense du paysage agréée au niveau national';777;50
+e;1842243;'processus de bas niveau';1;0
+e;3296445;'plongeur niveau II';1;0
+e;3296450;'Le niveau 5 de plongée';777;0
+e;3296447;'plongeur niveau';777;0
+e;3571011;'premier niveau';1;0
+e;1671575;'niveau liquide-graisse';1;0
+e;2543900;'niveau de chantier';1;0
+e;5521662;'niveau de prix d'échanges';1;0
+e;1814490;'élévation du niveau des mers';1;0
+e;2344972;'dépendant du niveau d'oxygène sanguin';1;0
+e;2952796;'niveau liquide-gaz';1;0
+e;5061120;'niveau d'émission de polluants';1;0
+e;3178733;'Au niveau du pont et du mésencéphale';777;0
+e;5070868;'vérifier le niveau';1;14
+e;5158782;'sous le niveau de la mer';1;0
+e;461468;'au niveau du bulbe';777;50
+e;461063;'domaine de premier niveau national';777;50
+e;3129378;'atteindre un niveau record';1;0
+e;3311254;'ne pas être au niveau';1;0
+e;3178732;'Au niveau du bulbe';777;0
+e;3296448;'plongeur niveau IV';1;0
+e;3323810;'niveau d'apport maximal tolérable';1;0
+e;5518596;'voie d'administration de médicaments au niveau de la peau';1;0
+e;2353727;'niveau de l'eau';1;0
+e;3296449;'plongeur niveau V';1;0
+e;3323808;'niveau admissible';1;0
+e;4340417;'augmenter son niveau de vie';1;0
+e;5521661;'niveau de prix d'échanges sur un marché';1;0
+e;6448670;'lésion traumatique de l'artère cubitale au niveau de l'avant-bras';1;0
+e;566135;'adaptation au niveau lumineux';777;50
+e;1650255;'lithiase biliaire à faible niveau de phospholipides';1;0
+e;3296446;'plongeur niveau III';1;0
+e;3319994;'niveau maximal de résidus';1;0
+e;1644878;'autisme de haut niveau';1;0
+e;1737301;'image de niveau';1;0
+e;1737327;'niveau liquide-liquide';1;0
+e;1814489;'élévation du niveau moyen des mers';1;0
+e;2561582;'passage à niveau protégé';1;0
+e;1842244;'processus de haut niveau';1;0
+e;2823626;'domaine de premier niveau générique';777;0
+e;393978;'niveau hydro-aérique';1;6
+e;376232;'repère de niveau';1;50
+e;369115;'passage à niveau gardé';1;50
+e;366380;'niveau des océans';1;50
+e;366376;'niveau de référence';1;50
+e;366373;'niveau de production';1;50
+e;366371;'niveau de performance';1;50
+e;350485;'en dessous du niveau de la mer';1;50
+e;346722;'de haut niveau';1;50
+e;337428;'au niveau le plus élevé de';1;50
+e;366374;'niveau de rentabilité';1;50
+e;342783;'changement de niveau';1;50
+e;337460;'au premier niveau';1;50
+e;388876;'à quelque niveau que ce soit';1;50
+e;388749;'à le premier niveau de';1;50
+e;366390;'niveau de gris';1;50
+e;366387;'niveau sportif';1;50
+e;366379;'niveau de technicité';1;50
+e;366372;'niveau de pression';1;50
+e;366365;'niveau d'intelligence';1;50
+e;388875;'à quelque niveau où l'on se trouve';1;50
+e;366378;'niveau de segmentation';1;50
+e;349045;'dégradation du niveau de vie';1;50
+e;337424;'au niveau du vécu';1;50
+e;392447;'niveau record';1;50
+e;366388;'niveau vocal';1;50
+e;366367;'niveau de concentration';1;50
+e;337425;'au niveau le plus haut';1;50
+e;375925;'relèvement de niveau';1;50
+e;366386;'niveau socioculturel';1;50
+e;366383;'niveau intellectuel';1;50
+e;366381;'niveau des prix';1;50
+e;366375;'niveau de richesse';1;50
+e;335334;'angle au niveau';1;50
+e;389009;'à un premier niveau';1;50
+e;366392;'niveau structural';1;50
+e;366389;'niveau crustal';1;50
+e;366377;'niveau de salaire';1;50
+e;366370;'niveau de lecture';1;50
+e;359831;'inégalité de niveau de vie';1;50
+e;341557;'capteur de niveau';1;50
+e;337427;'au niveau le plus élevé';1;50
+e;388959;'à un certain niveau';1;50
+e;366369;'niveau de culture';1;50
+e;366364;'niveau d'audition';1;50
+e;366363;'niveau culturel';1;50
+e;358851;'indicateur de niveau';1;50
+e;346821;'de niveau avec';1;50
+e;337528;'au top niveau de';1;50
+e;388748;'à le premier niveau';1;50
+e;366391;'niveau seuil';1;50
+e;366385;'niveau narratif';1;50
+e;366368;'niveau de confort';1;50
+e;366366;'niveau d'évolution';1;50
+e;359178;'ingénieur de haut niveau';1;50
+e;357554;'haut niveau de responsabilité';1;50
+e;389814;'élévation du niveau de vie';1;50
+e;388960;'à un certain niveau de';1;50
+e;385304;'tube à niveau';1;50
+e;366384;'niveau marin';1;50
+e;366382;'niveau des stocks';1;50
+e;346668;'de bas niveau';1;50
+e;341322;'canne de niveau';1;50
+e;337450;'au plus haut niveau de responsabilité';1;50
+e;337426;'au niveau le plus haut de';1;50
+e;329641;'langage de haut niveau';1;50
+e;319609;'au niveau mondial';1;50
+e;326068;'niveau optique';1;50
+e;326067;'niveau d'angle, appelé aussi inclinomètre.';1;50
+e;326066;'niveau à eau';1;50
+e;232074;'niveau de prestation';1;50
+e;250788;'être au niveau';1;50
+e;250791;'au-dessus du niveau de la mer';1;50
+e;251035;'sportive de haut niveau';1;50
+e;251532;'niveau de développement';1;50
+e;253518;'niveau scolaire';1;54
+e;255121;'niveau trophique';1;50
+e;255126;'niveau global';1;50
+e;255142;'groupe de niveau';1;50
+e;255184;'niveau d'enseignement';1;50
+e;255185;'au plus haut niveau';1;50
+e;262289;'opérations de haut niveau';1;50
+e;262290;'opérations de bas niveau';1;50
+e;218991;'sport de haut niveau';1;60
+e;250786;'niveau bac';1;2
+e;255128;'niveau d'instruction';1;50
+e;255127;'niveau moyen';1;50
+e;261044;'chute de niveau';1;50
+e;255139;'niveau de sécurité';1;50
+e;165513;'niveau de blanc';1;50
+e;171412;'de niveau';1;52
+e;214409;'surface de niveau';1;50
+e;248717;'courbe de niveau';1;50
+e;255122;'niveau de maçon';1;50
+e;255123;'haut niveau';1;58
+e;255124;'niveau social';1;52
+e;255125;'niveau zéro';1;50
+e;255133;'baisse de niveau';1;52
+e;255134;'niveau de conscience';1;50
+e;255136;'niveau sonore';1;50
+e;255137;'niveau insuffisant';1;50
+e;255150;'formatage de haut niveau';1;52
+e;255151;'formatage de bas niveau';1;52
+e;255188;'niveau laser';1;50
+e;261041;'niveau d'essence';1;50
+e;261043;'niveau de langage';1;50
+e;263987;'niveau hydro aérique';1;50
+e;275666;'le niveau neutre';777;50
+e;291760;'au niveau des';777;50
+e;293293;'au même niveau';777;50
+e;306318;'Au niveau européen';777;50
+e;68266;'top niveau';1;50
+e;127323;'mettre de niveau';1;50
+e;180038;'niveau de santé';1;50
+e;180039;'niveau de blessure';1;50
+e;203045;'ligne de niveau';1;50
+e;203715;'mettre au même niveau';1;50
+e;264257;'niveau d'alerte';1;76
+e;264258;'niveau d'alerte militaire';1;50
+e;264808;'niveau de confiance';1;50
+e;275031;'domaine de premier niveau';777;50
+e;281775;'partie de chromatine inactive au niveau transcriptionnel';777;50
+e;281872;'vérification du niveau d'huile moteur';777;50
+e;284391;'niveau de risque d'extinction croissant';777;50
+e;287383;'domaine national de premier niveau';777;50
+e;293994;'niveau de';777;50
+e;309037;'élévation du niveau de la mer';777;50
+e;26020;'niveau de base';1;50
+e;183371;'niveau piézométrique';1;50
+e;187743;'niveau de Fermi';1;50
+e;196188;'atteindre le niveau de';1;50
+e;196189;'atteindre le top niveau';1;50
+e;250789;'niveau de jeu';1;2
+e;261040;'remettre à niveau';1;2
+e;261042;'niveau bas';1;2
+e;196301;'au niveau de';1;56
+e;250787;'niveau d'études';1;20
+e;244444;'niveau d'étude';1;8
+e;176458;'mise à niveau';1;6
+e;154379;'sportif de haut niveau';1;104
+e;250790;'niveau de formation';1;10
+e;255138;'bon niveau';1;8
+e;248586;'à niveau';1;58
+e;251154;'niveau d'huile';1;50
+e;236430;'remise à niveau';1;16
+e;245357;'au niveau';1;68
+e;248429;'niveau d'énergie';1;72
+e;204390;'niveau de langue';1;78
+e;248005;'niveau d'eau';1;80
+e;244443;'niveau de la mer';1;126
+e;248428;'mettre à niveau';1;96
+e;101618;'niveau de vie';1;114
+e;90996;'passage à niveau';1;116
+e;153465;'niveau à bulle';1;138
+r;397147496;64681;6294791;11;25
+r;397138096;64681;6294303;11;25
+r;397091659;64681;6292331;11;25
+r;397091588;64681;6292386;11;25
+r;397086835;64681;6291771;11;25
+r;396789885;64681;6291597;11;25
+r;299546758;64681;6306347;11;25
+r;299588019;64681;6310573;11;25
+r;299789555;64681;6317478;11;25
+r;300154453;64681;6323183;11;25
+r;300197067;64681;6326355;11;25
+r;300973468;64681;6331787;11;25
+r;301467733;64681;6340502;11;25
+r;301559103;64681;6345977;11;25
+r;302198854;64681;6366341;11;25
+r;302406983;64681;6367181;11;25
+r;302984357;64681;6370728;11;25
+r;302985065;64681;6370928;11;25
+r;303002318;64681;6372470;11;25
+r;303640684;64681;6378240;11;25
+r;303988108;64681;6384109;11;25
+r;304562722;64681;6389779;11;25
+r;304603941;64681;6391343;11;25
+r;305316582;64681;6407298;11;25
+r;305473151;64681;6411211;11;25
+r;305681575;64681;6416306;11;25
+r;319051300;64681;6331909;11;25
+r;319069122;64681;6391753;11;25
+r;319092848;64681;6308800;11;25
+r;341208093;64681;6399966;11;25
+r;347107220;64681;13664820;11;25
+r;348382122;64681;13737996;11;25
+r;348482835;64681;13743511;11;25
+r;349107255;64681;6311670;11;25
+r;349262905;64681;6416992;11;25
+r;350119117;64681;13854257;11;25
+r;351268343;64681;13884126;11;25
+r;352322108;64681;13989399;11;25
+r;352322159;64681;13989402;11;25
+r;354995292;64681;14048688;11;25
+r;361497724;64681;14252660;11;25
+r;366675610;64681;14446317;11;25
+r;366759383;64681;14451371;11;25
+r;368332224;64681;14491953;11;25
+r;368491226;64681;14510571;11;25
+r;370349790;64681;14567992;11;25
+r;370552923;64681;14583857;11;25
+r;371339743;64681;14611509;11;25
+r;371491185;64681;14612288;11;25
+r;371985231;64681;14639035;11;25
+r;373449901;64681;14688327;11;25
+r;374950555;64681;14747353;11;25
+r;375478153;64681;14773740;11;25
+r;375479472;64681;14773823;11;25
+r;400792148;64681;6392153;11;25
+r;400792348;64681;6391262;11;25
+r;400746429;64681;6387607;11;25
+r;400829578;64681;6398988;11;25
+r;397489442;64681;6297128;11;25
+r;397506386;64681;6298379;11;25
+r;400817846;64681;6396121;11;25
+r;400877761;64681;6404197;11;25
+r;397513220;64681;6299893;11;25
+r;400727108;64681;6386055;11;25
+r;381947218;64681;14779731;11;25
+r;399499641;64681;6330802;11;25
+r;400847686;64681;6401053;11;25
+r;414340970;64681;15909723;11;25
+r;400946433;64681;6408524;11;25
+r;400746395;64681;6387936;11;25
+r;400774450;64681;6389795;11;25
+r;400947042;64681;6408346;11;25
+r;395246776;64681;15418298;11;25
+r;396479828;64681;6287269;11;25
+r;396620064;64681;6288386;11;25
+r;396636956;64681;6289548;11;25
+r;397467079;64681;6297135;11;25
+r;397538607;64681;6303404;11;25
+r;397849581;64681;6306147;11;25
+r;397876930;64681;15536376;11;25
+r;398138062;64681;6308179;11;25
+r;398385453;64681;6311970;11;25
+r;398408407;64681;6312466;11;25
+r;398430751;64681;6314430;11;25
+r;398497494;64681;6316009;11;25
+r;398534705;64681;6318964;11;25
+r;399137257;64681;6324141;11;25
+r;399494384;64681;6328682;11;25
+r;399660613;64681;6336700;11;25
+r;399661478;64681;6334032;11;25
+r;399678724;64681;6338811;11;25
+r;399962445;64681;6345660;11;25
+r;400112756;64681;6361677;11;25
+r;400151768;64681;6363149;11;25
+r;400269821;64681;6366192;11;25
+r;400574926;64681;6374935;11;25
+r;400589928;64681;6376860;11;25
+r;400600901;64681;6379206;11;25
+r;400687826;64681;6383390;11;25
+r;400705355;64681;6385961;11;25
+r;400803048;64681;6392226;11;25
+r;401761632;64681;6416592;11;25
+r;401869949;64681;6417906;11;25
+r;402044477;64681;6419988;11;25
+r;402055288;64681;6421614;11;25
+r;411422229;64681;15791450;11;25
+r;423967279;64681;16168475;11;25
+r;427321354;64681;16290042;11;25
+r;429090209;64681;16321256;11;25
+r;434174043;64681;16496766;11;25
+r;302988494;64681;6370555;11;26
+r;298507793;64681;6293349;11;26
+r;298954092;64681;6297026;11;26
+r;299574815;64681;6309283;11;26
+r;299596012;64681;6312476;11;26
+r;299658168;64681;6315872;11;26
+r;301411973;64681;6336347;11;26
+r;299828144;64681;6318906;11;26
+r;300177481;64681;6324390;11;26
+r;300973554;64681;6332236;11;26
+r;301439024;64681;6337263;11;26
+r;301445090;64681;6337913;11;26
+r;301449916;64681;6338987;11;26
+r;302152425;64681;6363366;11;26
+r;302973171;64681;6369448;11;26
+r;303174833;64681;6373673;11;26
+r;303634848;64681;6377742;11;26
+r;303850514;64681;6381049;11;26
+r;303852393;64681;6381622;11;26
+r;305066108;64681;6398379;11;26
+r;305473629;64681;6411514;11;26
+r;305490692;64681;6413030;11;26
+r;305638581;64681;6415250;11;26
+r;305707210;64681;6420717;11;26
+r;305708172;64681;6420762;11;26
+r;361590059;64681;14259020;11;26
+r;368583762;64681;14529706;11;26
+r;374523168;64681;14730134;11;26
+r;392432748;64681;15039835;11;26
+r;393620877;64681;15034378;11;26
+r;393621475;64681;15034379;11;26
+r;393622264;64681;15034448;11;26
+r;393627114;64681;15034449;11;26
+r;398500579;64681;6317111;11;26
+r;400153712;64681;6363207;11;26
+r;400227162;64681;6365080;11;26
+r;121576433;64681;6434582;11;27
+r;121578479;64681;6434361;11;27
+r;299014391;64681;6297029;11;27
+r;299082659;64681;6299588;11;27
+r;299128166;64681;6300388;11;27
+r;299365070;64681;6304161;11;27
+r;299574670;64681;6309233;11;27
+r;299676067;64681;6315362;11;27
+r;300197654;64681;6326287;11;27
+r;301510449;64681;6343502;11;27
+r;302029326;64681;6357607;11;27
+r;303465822;64681;6374894;11;27
+r;303764943;64681;6380162;11;27
+r;303850057;64681;6380847;11;27
+r;304604673;64681;6391067;11;27
+r;305010606;64681;6396228;11;27
+r;305160586;64681;6400696;11;27
+r;305201737;64681;6401377;11;27
+r;305300801;64681;6404930;11;27
+r;316342871;64681;12200244;11;27
+r;333342559;64681;12981420;11;27
+r;112660725;64681;5778289;11;28
+r;121525777;64681;6440255;11;28
+r;121531641;64681;6439598;11;28
+r;121539494;64681;6438717;11;28
+r;121560077;64681;6436414;11;28
+r;121581282;64681;6434048;11;28
+r;122671198;64681;6432962;11;28
+r;122679974;64681;6431979;11;28
+r;122688170;64681;6430992;11;28
+r;122690982;64681;6430625;11;28
+r;122691755;64681;6430527;11;28
+r;122726284;64681;6426059;11;28
+r;145527480;64681;6420186;11;28
+r;267331051;64681;10649655;11;28
+r;301201291;64681;6334406;11;28
+r;342563422;64681;13519851;11;28
+r;110025856;64681;5562559;11;29
+r;112108444;64681;5711961;11;29
+r;121522664;64681;6440600;11;29
+r;121539864;64681;6438679;11;29
+r;121570083;64681;6435301;11;29
+r;122671577;64681;6432920;11;29
+r;122719342;64681;6426970;11;29
+r;122734439;64681;6425005;11;29
+r;122740107;64681;6424274;11;29
+r;266720643;64681;10619514;11;29
+r;277361951;64681;10986602;11;29
+r;277361964;64681;10986600;11;29
+r;121512561;64681;6441729;11;30
+r;121513316;64681;6441645;11;30
+r;121524947;64681;6440348;11;30
+r;121540471;64681;6438612;11;30
+r;121543332;64681;6438296;11;30
+r;121570625;64681;6435242;11;30
+r;122681009;64681;6431860;11;30
+r;122685544;64681;6431329;11;30
+r;122686492;64681;6431200;11;30
+r;122708968;64681;6428291;11;30
+r;122722127;64681;6426596;11;30
+r;122755130;64681;6422345;11;30
+r;266720650;64681;10619513;11;30
+r;280287974;64681;11049826;11;30
+r;280287989;64681;11049824;11;30
+r;419759473;64681;15294227;11;30
+r;419769050;64681;15265841;11;30
+r;419769056;64681;15247286;11;30
+r;419769752;64681;15263328;11;30
+r;419770522;64681;15234523;11;30
+r;419770562;64681;15330079;11;30
+r;419774599;64681;15349778;11;30
+r;419780831;64681;15506196;11;30
+r;419783732;64681;15330081;11;30
+r;419798273;64681;15384571;11;30
+r;419805432;64681;15323864;11;30
+r;419838449;64681;15431188;11;30
+r;419838883;64681;15237358;11;30
+r;434380930;64681;16420076;11;30
+r;112172460;64681;5714799;11;31
+r;121462536;64681;6447303;11;31
+r;121473296;64681;6446106;11;31
+r;121500699;64681;6443039;11;31
+r;121561250;64681;6436289;11;31
+r;122666713;64681;6433459;11;31
+r;122668176;64681;6433290;11;31
+r;122741112;64681;6424147;11;31
+r;220838802;64681;9959107;11;31
+r;277926194;64681;10992063;11;31
+r;279850535;64681;11049825;11;31
+r;279933694;64681;11054204;11;31
+r;419712738;64681;15525408;11;31
+r;419724767;64681;15389230;11;31
+r;419738527;64681;13746427;11;31
+r;419738554;64681;13740548;11;31
+r;419738604;64681;13793794;11;31
+r;419738631;64681;13788504;11;31
+r;419738717;64681;13796947;11;31
+r;419738752;64681;13802426;11;31
+r;419738818;64681;13797138;11;31
+r;419738853;64681;13791822;11;31
+r;419738919;64681;13781321;11;31
+r;419738979;64681;13799270;11;31
+r;419739011;64681;13793700;11;31
+r;95201384;64681;4217192;11;32
+r;111205662;64681;5634010;11;32
+r;111206022;64681;5634011;11;32
+r;111206470;64681;5634012;11;32
+r;111339728;64681;5672249;11;32
+r;113775501;64681;5816634;11;32
+r;121483968;64681;6444913;11;32
+r;121534411;64681;6439289;11;32
+r;121547036;64681;6437872;11;32
+r;122669051;64681;6433193;11;32
+r;122685453;64681;6431339;11;32
+r;277703589;64681;10992062;11;32
+r;419619979;64681;15389235;11;32
+r;419619985;64681;15447375;11;32
+r;419619991;64681;15447374;11;32
+r;419619999;64681;15479226;11;32
+r;419620007;64681;15321388;11;32
+r;419620015;64681;15339062;11;32
+r;419620027;64681;15650734;11;32
+r;419620037;64681;15479233;11;32
+r;419620042;64681;15479234;11;32
+r;419620048;64681;15303122;11;32
+r;419620054;64681;15528188;11;32
+r;419620060;64681;15302656;11;32
+r;419620066;64681;15389229;11;32
+r;419620071;64681;15316236;11;32
+r;419620077;64681;15389232;11;32
+r;419620083;64681;15389239;11;32
+r;419620089;64681;15389237;11;32
+r;419620095;64681;15389241;11;32
+r;419620101;64681;15308626;11;32
+r;419621204;64681;15277855;11;32
+r;419621455;64681;15323860;11;32
+r;419621489;64681;15321381;11;32
+r;419621548;64681;15469444;11;32
+r;419623575;64681;15773983;11;32
+r;419636827;64681;15389379;11;32
+r;419636833;64681;15650745;11;32
+r;419644417;64681;15318619;11;32
+r;419647623;64681;15316637;11;32
+r;419647630;64681;15316635;11;32
+r;419658150;64681;15426454;11;32
+r;419658159;64681;15650746;11;32
+r;419687205;64681;15397566;11;32
+r;114025598;64681;5834529;11;33
+r;122703905;64681;6428940;11;33
+r;122743438;64681;6423857;11;33
+r;280853655;64681;11077057;11;33
+r;348482570;64681;13743500;11;33
+r;400845949;64681;15632991;11;33
+r;395312089;64681;15423160;11;33
+r;419600296;64681;15544329;11;33
+r;419616291;64681;15752509;11;33
+r;115848973;64681;5918828;11;34
+r;121472431;64681;6446194;11;34
+r;121524839;64681;6440360;11;34
+r;121545436;64681;6438059;11;34
+r;122739179;64681;6424394;11;34
+r;298437210;64681;6290868;11;34
+r;300957660;64681;11696930;11;34
+r;303717693;64681;11788371;11;34
+r;304875676;64681;6392760;11;34
+r;337343048;64681;12988069;11;34
+r;419549253;64681;15952706;11;34
+r;419549261;64681;15952707;11;34
+r;419557814;64681;15774591;11;34
+r;419577295;64681;15316758;11;34
+r;419585348;64681;15238463;11;34
+r;419590371;64681;15321382;11;34
+r;419592287;64681;13748191;11;34
+r;419592398;64681;6332133;11;34
+r;419592418;64681;6342112;11;34
+r;419592476;64681;6351593;11;34
+r;419592497;64681;6311809;11;34
+r;419592896;64681;15318621;11;34
+r;117901001;64681;5983375;11;35
+r;121060636;64681;6448553;11;35
+r;121483171;64681;6445003;11;35
+r;121487397;64681;6444517;11;35
+r;121510042;64681;6442008;11;35
+r;121517730;64681;6441148;11;35
+r;121529158;64681;6439870;11;35
+r;121550584;64681;6437482;11;35
+r;121573325;64681;6434932;11;35
+r;122671356;64681;6432945;11;35
+r;122693971;64681;6430234;11;35
+r;122719378;64681;6426966;11;35
+r;122728760;64681;6425736;11;35
+r;122742598;64681;6423968;11;35
+r;279246648;64681;11022931;11;35
+r;293616008;64681;11413285;11;35
+r;313627383;64681;12048999;11;35
+r;411258366;64681;15791207;11;35
+r;419492829;64681;15582676;11;35
+r;432058703;64681;16242998;11;35
+r;30038738;64681;1839808;11;36
+r;121058619;64681;6448775;11;36
+r;121543610;64681;6438266;11;36
+r;121578181;64681;6434393;11;36
+r;122695746;64681;6430010;11;36
+r;122714426;64681;6427596;11;36
+r;288827996;64681;11287605;11;36
+r;291604004;64681;11362542;11;36
+r;313678041;64681;12049749;11;36
+r;313694935;64681;12050470;11;36
+r;313710480;64681;12051019;11;36
+r;315114363;64681;12080138;11;36
+r;121043564;64681;6450423;11;37
+r;121457552;64681;6447848;11;37
+r;121472980;64681;6446137;11;37
+r;121483663;64681;6444947;11;37
+r;121509982;64681;6442014;11;37
+r;121523017;64681;6440564;11;37
+r;121530540;64681;6439719;11;37
+r;121558843;64681;6436553;11;37
+r;292685376;64681;11394359;11;37
+r;296500331;64681;11543796;11;37
+r;117890938;64681;5985524;11;38
+r;121054986;64681;6449181;11;38
+r;121396754;64681;6529114;11;38
+r;121470664;64681;6446391;11;38
+r;121485147;64681;6444780;11;38
+r;121512605;64681;6441725;11;38
+r;121522250;64681;6440642;11;38
+r;121531417;64681;6439623;11;38
+r;122751377;64681;6422839;11;38
+r;290558205;64681;11342040;11;38
+r;313821491;64681;12057438;11;38
+r;313821680;64681;12057439;11;38
+r;121477062;64681;6445682;11;39
+r;121478569;64681;6445507;11;39
+r;121552340;64681;6437286;11;39
+r;291667741;64681;11363495;11;39
+r;308638252;64681;11957521;11;39
+r;313821148;64681;12057447;11;39
+r;313821663;64681;12057449;11;39
+r;313822097;64681;12057448;11;39
+r;313825544;64681;12057442;11;39
+r;340516156;64681;13406152;11;39
+r;121036026;64681;6451252;11;40
+r;121044222;64681;6450355;11;40
+r;121460184;64681;6447556;11;40
+r;121477662;64681;6445608;11;40
+r;121487033;64681;6444559;11;40
+r;121551643;64681;6437364;11;40
+r;287581732;64681;11217803;11;40
+r;340231898;64681;13406154;11;40
+r;340231839;64681;13406153;11;40
+r;433076323;64681;16391217;11;40
+r;112176591;64681;5711542;11;41
+r;121450867;64681;6526051;11;41
+r;121492769;64681;6443932;11;41
+r;287145670;64681;11182242;11;41
+r;55878374;64681;2471457;11;42
+r;121482210;64681;6445117;11;42
+r;121579990;64681;6434194;11;42
+r;122104218;64681;6595255;11;42
+r;122104225;64681;6595254;11;42
+r;122736940;64681;6424692;11;42
+r;291740824;64681;11373279;11;42
+r;292320497;64681;11385016;11;42
+r;337337487;64681;13198614;11;42
+r;113276282;64681;5810827;11;43
+r;114747151;64681;5895100;11;43
+r;115108919;64681;5896946;11;43
+r;121035587;64681;6451297;11;43
+r;278752921;64681;11009643;11;43
+r;283656226;64681;11155050;11;43
+r;118542659;64681;6000272;11;44
+r;121030301;64681;6451876;11;44
+r;121055730;64681;6449096;11;44
+r;121060558;64681;6448561;11;44
+r;121452653;64681;6448380;11;44
+r;121542954;64681;6438343;11;44
+r;121546482;64681;6437934;11;44
+r;121575794;64681;6434655;11;44
+r;122683669;64681;6431562;11;44
+r;338399903;64681;13302294;11;44
+r;117875835;64681;5988778;11;45
+r;117906999;64681;5981716;11;45
+r;121035569;64681;6451298;11;45
+r;121039538;64681;6450877;11;45
+r;121032369;64681;6451653;11;46
+r;121038771;64681;6450958;11;46
+r;121509699;64681;6442046;11;46
+r;256295305;64681;10435280;11;46
+r;117901052;64681;5983365;11;47
+r;117903072;64681;5982912;11;47
+r;121037240;64681;6451121;11;47
+r;121447236;64681;6526573;11;47
+r;121564535;64681;6435921;11;47
+r;327679943;64681;12771264;11;47
+r;117906991;64681;5981717;11;48
+r;121442154;64681;6527710;11;49
+r;121461140;64681;6447457;11;49
+r;217928972;64681;9733363;11;50
+r;108612535;64681;5517735;11;50
+r;121475194;64681;6445895;11;50
+r;180161045;64681;8764881;11;50
+r;190836558;64681;8878755;11;50
+r;193126321;64681;8930404;11;50
+r;193126753;64681;8930405;11;50
+r;209607138;64681;9202031;11;50
+r;217581243;64681;9723844;11;50
+r;282611770;64681;11128014;11;50
+r;282681903;64681;11129137;11;50
+r;282718981;64681;11129496;11;50
+r;282819278;64681;11131360;11;50
+r;282857899;64681;11131986;11;50
+r;317683370;64681;12246810;11;50
+r;323032724;64681;12616685;11;50
+r;348980613;64681;13759335;11;50
+r;348993880;64681;13751716;11;50
+r;348993914;64681;13754075;11;50
+r;395012689;64681;15317554;11;50
+r;432539983;64681;16366883;11;50
+r;18645107;64681;594663;11;51
+r;20493527;64681;922853;11;51
+r;20497302;64681;922852;11;51
+r;52464026;64681;2526692;11;51
+r;83797088;64681;3323809;11;51
+r;83797151;64681;3323811;11;51
+r;108806980;64681;5517734;11;51
+r;16221414;64681;461469;11;52
+r;17750686;64681;573878;11;52
+r;29900634;64681;1842243;11;52
+r;82140137;64681;3296445;11;52
+r;82146340;64681;3296450;11;52
+r;82149201;64681;3296447;11;52
+r;89088251;64681;3571011;11;52
+r;27721354;64681;1671575;11;53
+r;52455703;64681;2543900;11;53
+r;109315327;64681;5521662;11;53
+r;29619105;64681;1814490;11;54
+r;34503099;64681;2344972;11;54
+r;72876022;64681;2952796;11;54
+r;105096217;64681;5061120;11;54
+r;76670991;64681;3178733;11;55
+r;105249944;64681;5070868;11;55
+r;106043346;64681;5158782;11;55
+r;16221422;64681;461468;11;56
+r;16176137;64681;461063;11;56
+r;75319857;64681;3129378;11;56
+r;83358432;64681;3311254;11;56
+r;76670826;64681;3178732;11;57
+r;82140170;64681;3296448;11;57
+r;83798806;64681;3323810;11;57
+r;108808244;64681;5518596;11;57
+r;34791215;64681;2353727;11;58
+r;82140193;64681;3296449;11;58
+r;83803664;64681;3323808;11;58
+r;99036098;64681;4340417;11;58
+r;109291765;64681;5521661;11;58
+r;121059597;64681;6448670;11;58
+r;16918716;64681;566135;11;59
+r;26553125;64681;1650255;11;59
+r;82140155;64681;3296446;11;59
+r;83668610;64681;3319994;11;59
+r;26060204;64681;1644878;11;60
+r;28532355;64681;1737301;11;60
+r;28532602;64681;1737327;11;60
+r;29619768;64681;1814489;11;60
+r;52447322;64681;2561582;11;60
+r;29900628;64681;1842244;11;61
+r;68370903;64681;2823626;11;63
+r;13687763;64681;393978;11;77
+r;12596985;64681;376232;11;101
+r;12626155;64681;369115;11;101
+r;12636689;64681;366380;11;101
+r;12636711;64681;366376;11;101
+r;12636729;64681;366373;11;101
+r;12636741;64681;366371;11;101
+r;12701289;64681;350485;11;101
+r;12716583;64681;346722;11;101
+r;12755883;64681;337428;11;101
+r;12636723;64681;366374;11;102
+r;12733603;64681;342783;11;102
+r;12755767;64681;337460;11;102
+r;12546433;64681;388876;11;103
+r;12546911;64681;388749;11;103
+r;12636649;64681;366390;11;103
+r;12636661;64681;366387;11;103
+r;12636693;64681;366379;11;103
+r;12636735;64681;366372;11;103
+r;12636775;64681;366365;11;103
+r;12546439;64681;388875;11;104
+r;12636699;64681;366378;11;104
+r;12707031;64681;349045;11;104
+r;12755919;64681;337424;11;104
+r;13180627;64681;392447;11;104
+r;12636657;64681;366388;11;105
+r;12636765;64681;366367;11;105
+r;12755911;64681;337425;11;105
+r;12598211;64681;375925;11;106
+r;12636665;64681;366386;11;106
+r;12636677;64681;366383;11;106
+r;12636685;64681;366381;11;106
+r;12636717;64681;366375;11;106
+r;12764387;64681;335334;11;106
+r;12545863;64681;389009;11;107
+r;12636641;64681;366392;11;107
+r;12636655;64681;366389;11;107
+r;12636705;64681;366377;11;107
+r;12636747;64681;366370;11;107
+r;12663469;64681;359831;11;107
+r;12738859;64681;341557;11;107
+r;12755893;64681;337427;11;107
+r;12546091;64681;388959;11;108
+r;12636753;64681;366369;11;108
+r;12636779;64681;366364;11;108
+r;12636783;64681;366363;11;108
+r;12667421;64681;358851;11;108
+r;12716155;64681;346821;11;108
+r;12755545;64681;337528;11;108
+r;12546917;64681;388748;11;109
+r;12636645;64681;366391;11;109
+r;12636669;64681;366385;11;109
+r;12636759;64681;366368;11;109
+r;12636771;64681;366366;11;109
+r;12666127;64681;359178;11;109
+r;12672689;64681;357554;11;109
+r;12542719;64681;389814;11;110
+r;12546085;64681;388960;11;110
+r;12560161;64681;385304;11;110
+r;12636673;64681;366384;11;110
+r;12636681;64681;366382;11;110
+r;12716771;64681;346668;11;110
+r;12739801;64681;341322;11;110
+r;12755815;64681;337450;11;110
+r;12755901;64681;337426;11;110
+r;11684576;64681;329641;11;148
+r;9034526;64681;319609;11;148
+r;11279542;64681;326068;11;148
+r;11279546;64681;326067;11;148
+r;11279552;64681;326066;11;148
+r;8700518;64681;232074;11;161
+r;8714224;64681;250788;11;161
+r;8714228;64681;250791;11;161
+r;8714565;64681;251035;11;161
+r;8715202;64681;251532;11;161
+r;8717250;64681;253518;11;161
+r;8719400;64681;255121;11;161
+r;8719410;64681;255126;11;161
+r;8719434;64681;255142;11;161
+r;8719480;64681;255184;11;161
+r;8719483;64681;255185;11;161
+r;8729106;64681;262289;11;161
+r;8729109;64681;262290;11;161
+r;2259415;64681;218991;11;162
+r;2288454;64681;250786;11;162
+r;3138360;64681;255128;11;162
+r;3141715;64681;255127;11;162
+r;3142101;64681;261044;11;162
+r;3142104;64681;255139;11;162
+r;8629645;64681;165513;11;162
+r;8633872;64681;171412;11;162
+r;8689325;64681;214409;11;162
+r;8712079;64681;248717;11;162
+r;8719402;64681;255122;11;162
+r;8719405;64681;255123;11;162
+r;8719406;64681;255124;11;162
+r;8719408;64681;255125;11;162
+r;8719419;64681;255133;11;162
+r;8719420;64681;255134;11;162
+r;8719423;64681;255136;11;162
+r;8719425;64681;255137;11;162
+r;8719450;64681;255150;11;162
+r;8719453;64681;255151;11;162
+r;8719486;64681;255188;11;162
+r;8727736;64681;261041;11;162
+r;8727739;64681;261043;11;162
+r;8731420;64681;263987;11;162
+r;8743599;64681;275666;11;162
+r;8759573;64681;291760;11;162
+r;8760937;64681;293293;11;162
+r;8772171;64681;306318;11;162
+r;8593109;64681;68266;11;163
+r;8613987;64681;127323;11;163
+r;8636564;64681;180038;11;163
+r;8636566;64681;180039;11;163
+r;8672942;64681;203045;11;163
+r;8674078;64681;203715;11;163
+r;8731794;64681;264257;11;163
+r;8731795;64681;264258;11;163
+r;8732439;64681;264808;11;163
+r;8742963;64681;275031;11;163
+r;8749109;64681;281775;11;163
+r;8749221;64681;281872;11;163
+r;8751545;64681;284391;11;163
+r;8755007;64681;287383;11;163
+r;8761495;64681;293994;11;163
+r;8774868;64681;309037;11;163
+r;8578594;64681;26020;11;164
+r;8641680;64681;183371;11;164
+r;8648811;64681;187743;11;164
+r;8661053;64681;196188;11;164
+r;8661056;64681;196189;11;164
+r;2288446;64681;250789;11;172
+r;8727735;64681;261040;11;172
+r;8727737;64681;261042;11;172
+r;2286525;64681;196301;11;174
+r;2291344;64681;250787;11;182
+r;2291351;64681;244444;11;182
+r;2308700;64681;176458;11;184
+r;8623905;64681;154379;11;184
+r;2289273;64681;250790;11;202
+r;8719428;64681;255138;11;202
+r;2201835;64681;248586;11;226
+r;3097650;64681;251154;11;227
+r;2286923;64681;236430;11;242
+r;2110268;64681;245357;11;276
+r;2198010;64681;248429;11;297
+r;2198009;64681;204390;11;319
+r;2178657;64681;248005;11;337
+r;2070769;64681;244443;11;397
+r;2198008;64681;248428;11;407
+r;2070768;64681;101618;11;408
+r;2069404;64681;90996;11;449
+r;2069536;64681;153465;11;499

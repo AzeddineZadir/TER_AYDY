@@ -1,0 +1,66 @@
+
+e;399255;'détails';1;60
+e;6357535;'corps identifié par détails radiologiques spécifiques';1;0
+e;12145781;'détermination de la présence de détails des variants génétiques';1;0
+e;6323704;'prolixité et détails masquant les raisons de la consultation et gênant le contact';1;0
+e;12095134;'détails des variants génétiques';1;0
+e;15761602;'dans ses moindres détails';1;0
+e;15494859;'donnant des détails circonstanciés';1;0
+e;15494858;'donner des détails circonstanciés';1;0
+e;15305136;'détails croustillants';1;0
+e;15380447;'détails pratiques';1;0
+e;15380450;'détails techniques';1;0
+e;15277069;'détails triviaux';1;0
+e;15569386;'attention minutieuse aux détails';1;0
+e;15383762;'avec des détails explicites';1;0
+e;15245720;'analyser qch dans les moindres détails';1;0
+e;12049400;'veiller aux détails dans des processus de moulage';1;0
+e;12050897;'veiller aux détails en ce qui concerne les repas et les boissons';1;0
+e;15380459;'détails récents, détails très récents';1;0
+e;12040827;'veiller aux détails';1;0
+e;15377862;'Il a noté tous les détails dans son carnet.';1;0
+e;239174;'avec force détails';1;50
+e;35403;'se perdre dans les détails';1;50
+e;2587353;'plan de détails';777;0
+e;1969303;'rentrer dans les détails';1;0
+e;83505;'soigner les détails';1;50
+e;4894285;'Niveau de détails';777;0
+e;365488;'multitude de menus détails';1;50
+e;259624;'dans les moindres détails';1;2
+e;355082;'foule de petits détails';1;50
+e;2555626;'le diable est dans les détails';1;0
+e;378606;'sans grands détails';1;50
+e;1969289;'donner des détails';1;0
+e;1969296;'entrer dans les détails';1;0
+r;302029196;399255;6357535;11;25
+r;316738018;399255;12145781;11;25
+r;300140433;399255;6323704;11;26
+r;315614402;399255;12095134;11;27
+r;419764450;399255;15761602;11;30
+r;419788759;399255;15494859;11;30
+r;419789577;399255;15494858;11;30
+r;419816150;399255;15305136;11;30
+r;419816155;399255;15380447;11;30
+r;419816165;399255;15380450;11;30
+r;419816170;399255;15277069;11;30
+r;419617184;399255;15569386;11;32
+r;419626049;399255;15383762;11;32
+r;419593492;399255;15245720;11;34
+r;313654915;399255;12049400;11;36
+r;313703645;399255;12050897;11;36
+r;419816160;399255;15380459;11;36
+r;313554570;399255;12040827;11;37
+r;402103460;399255;15377862;11;50
+r;14269821;399255;239174;11;51
+r;14322673;399255;35403;11;51
+r;54423262;399255;2587353;11;51
+r;31724777;399255;1969303;11;52
+r;14310637;399255;83505;11;55
+r;102049217;399255;4894285;11;55
+r;14210414;399255;365488;11;57
+r;14265969;399255;259624;11;57
+r;14212342;399255;355082;11;59
+r;52450069;399255;2555626;11;59
+r;14207960;399255;378606;11;60
+r;31724549;399255;1969289;11;60
+r;31724715;399255;1969296;11;60

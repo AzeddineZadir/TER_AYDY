@@ -32,3 +32,10 @@
     background: url(../../assets/spinner.gif);
     background-size: 100%;
   }
+.blue{
+    color:  #3399FF;
+}
+
+.large{
+    font-weight: bolder;
+}

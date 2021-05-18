@@ -1,0 +1,650 @@
+
+e;117325;'environnement';1;796
+e;6366502;'environnement des centres de santé';1;0
+e;6370963;'interaction entre gènes et environnement';1;0
+e;13867234;'environnement en Irlande';777;0
+e;14428773;'l'instrument financier pour l'environnement';777;0
+e;14432361;'police de l'environnement';777;0
+e;14452173;'défense de l'environnement';1;0
+e;14452343;'incidence sur l'environnement';1;0
+e;14476234;'actions physiques des joueurs dans un environnement physique';777;0
+e;14476237;'Joueurs contre environnement';777;0
+e;14584227;'l'interaction humaine avec l'environnement';777;0
+e;14610731;'pollution (environnement)';1;56
+e;14631340;'environnement de crise';1;0
+e;14715197;'surveillance de l'environnement';777;0
+e;6398564;'environnement des structures de santé';1;0
+e;15768111;'installations classées pour la protection de l'environnement';777;0
+e;16156601;'observatoires de l'environnement';777;0
+e;16565448;'environnement à New York';777;0
+e;6295726;'environnement des établissements de santé';1;0
+e;6300534;'environnement contrôlé';1;0
+e;6312504;'environnement des établissements sanitaires';1;0
+e;6340845;'expositions a un environnement';1;0
+e;6354022;'environnement extraterrestre';1;0
+e;12977825;'Direction générale de l'environnement';777;0
+e;6391550;'environnement des structures sanitaires';1;0
+e;14716495;'menace pour l'environnement';1;8
+e;14753246;'micro-environnement';1;0
+e;15033653;'associations de défense de l'environnement';1;0
+e;10078337;'environnement-Les';1;0
+e;6320563;'vivant dans un environnement non satisfaisant';1;0
+e;6438935;'polluants de l'environnement';1;0
+e;10878981;'environnement aux États-Unis';777;0
+e;6441711;'biodégradation et technologies de l'environnement';1;0
+e;6439726;'hyperthermie du nouveau-né due à l'environnement';1;0
+e;6433748;'dépollution de l'environnement';1;0
+e;6441468;'pyrexie du nouveau-né due à l'environnement';1;0
+e;10989009;'Mutualisation interministérielle pour un environnement de travail ouvert';777;0
+e;15650718;'direction de l'environnement';1;0
+e;15580709;'direction régionale de l'environnement';1;0
+e;15441472;'dommageable pour l'environnement';1;0
+e;5573704;'maladies liées à l'environnement';777;0
+e;6443261;'produits toxiques pour l'environnement';1;0
+e;9954761;'Service des avions français instrumentés pour la recherche en environnement';777;0
+e;10970212;'environnement en Norvège';777;0
+e;11031115;'perception de l'environnement';777;0
+e;13033387;'destruction de l'environnement';1;0
+e;15647742;'commissaire à l'environnement';1;0
+e;15769424;'commission de protection de l'environnement';1;0
+e;15584640;'commission mondiale sur l'environnement et le développement';1;0
+e;5679204;'la théologie de l'environnement';777;0
+e;5836330;'Forum des agriculteurs responsables respectueux de l'environnement';777;0
+e;5855621;'science de l'environnement ou environnementale';777;0
+e;6437041;'carcinogènes de l'environnement';1;0
+e;6435512;'insatisfaction de l'environnement scolaire';1;0
+e;6434112;'exposition à la pollution et autres difficultés liées à l'environnement physique';1;0
+e;6433999;'autres difficultés liées à l'environnement social';1;0
+e;10955072;'tirer matière et énergie de l'environnement';1;0
+e;11354028;'syndicat national de l'environnement';777;0
+e;11359307;'environnement au Japon';777;0
+e;11823749;'Office pour les insectes et leur environnement';777;0
+e;14572001;'bio-indicateur de la qualité de l'environnement';1;0
+e;14572000;'bio-indicateurs de la qualité de l'environnement';1;0
+e;15650726;'bureau européen de l'environnement';1;0
+e;5830999;'effets des pesticides sur l'environnement';777;0
+e;5836709;'Institut des sciences et industries du vivant et de l'environnement';777;0
+e;5835554;'Arborescence de l'environnement';777;0
+e;6440544;'pollution de l'environnement par la fumée de tabac';1;0
+e;6431718;'troubles liés à l'environnement';1;0
+e;11808655;'système de corrélation entre l'homme et son environnement';777;0
+e;16162204;'Sensibiliser à l'environnement';777;0
+e;5981244;'Fondation pour l'éducation à l'environnement';777;0
+e;6443868;'allergie liée à l'environnement';1;0
+e;6432762;'mécontentement de l'environnement scolaire';1;0
+e;10835050;'environnement au Viêt Nam';777;0
+e;10745534;'sociologie de l'environnement';777;0
+e;10866562;'environnement réel';777;0
+e;10994196;'conséquences sur l'environnement et la santé dans le monde';777;0
+e;11789107;'environnement aux Pays-Bas';777;0
+e;11824973;'environnement au Danemark';777;0
+e;11832252;'Association pour le développement des outils multimédias appliqués à l'environnement';777;0
+e;15539189;'Programme régional océanien de l'environnement';1;0
+e;1833094;'environnement allergénique';1;0
+e;1833095;'environnement épigénétique';1;0
+e;5562373;'Cellule interrégionale de l'environnement';777;0
+e;5987567;'nature et l'environnement';777;0
+e;5982401;'Convention pour la protection des ressources naturelles et de l'environnement dans la région du Pacifique sud';777;0
+e;5980059;'environnement en France';777;0
+e;6441480;'maladie pulmonaire liée à l'environnement';1;0
+e;6440761;'dépollution biologique de l'environnement';1;0
+e;6432175;'polluants atmosphériques de l'environnement';1;0
+e;9944308;'inspection de l'environnement';777;0
+e;10841321;'commissaire européen à l'environnement';777;0
+e;10867920;'loi no 2010-788 du 12 juillet 2010 portant engagement national pour l'environnement';777;0
+e;11832187;'environnement en Indonésie';777;0
+e;12049042;'travailler dans un environnement multiculturel dans le secteur de la santé';1;0
+e;12048900;'évaluer l'incidence sur l'environnement';1;0
+e;12079215;'génie de l'environnement';1;0
+e;12078897;'évaluation d'incidences sur l'environnement';1;0
+e;12078889;'étude d'incidences sur l'environnement';1;0
+e;12078888;'étude d'impact sur l'environnement';1;0
+e;12078503;'diplomatie de l'environnement';1;0
+e;13494986;'sciences de l'environnement';1;0
+e;15409367;'Les produits chimiques nuisent à l'environnement.';1;0
+e;15475001;'Liste de films documentaires sur l'environnement';777;0
+e;1826919;'agence nationale de sécurité sanitaire de l'alimentation de l'environnement et du travail';1;0
+e;6450744;'simulation d'environnement spatial';1;0
+e;6446876;'exposition a l'environnement';1;0
+e;10855702;'Bureau d'audiences publiques sur l'environnement';777;0
+e;11440048;'environnement de pré-installation Windows';777;0
+e;12048849;'maintenir un environnement de travail sûr hygiénique et sécurisé';1;0
+e;12050508;'technicien environnement aéroportuaire';1;0
+e;12050509;'technicienne environnement aéroportuaire';1;0
+e;12051571;'mener des opérations de nettoyage dans le respect de l'environnement';1;0
+e;12051372;'travailler dans un environnement international';1;0
+e;5712787;'environnement virtuel pour l'apprentissage humain';777;0
+e;5712785;'environnement en mode texte';777;0
+e;5987283;'prix Goldman pour l'environnement';777;0
+e;5982747;'code de l'environnement';777;0
+e;5979468;'Programme des Nations unies pour l'environnement';777;0
+e;6526120;'maladies pulmonaires liées à l'environnement et pneumopathies professionnelles';1;0
+e;6445347;'cancérigènes de l'environnement';1;0
+e;6441431;'troubles lies a l'environnement';1;0
+e;6439665;'trouble lie a l'environnement';1;0
+e;6432928;'psychothérapie basée sur l'environnement social et physique';1;0
+e;10791581;'énergie et environnement';777;0
+e;11342836;'ministre de l'environnement et de l'eau';777;0
+e;11539918;'Agence de protection de l'environnement';777;0
+e;12040838;'respecter des pratiques de travail respectueuses de l'environnement';1;0
+e;12050118;'évaluer l'environnement d'un animal';1;0
+e;12051207;'assumer la responsabilité de préserver la sécurité de l'environnement d'un navire';1;0
+e;12052353;'suivre une politique respectueuse de l'environnement dans la transformation de denrées alimentaires';1;0
+e;5989402;'agence de protection de l'environnement';777;0
+e;5985707;'mouvements sud-coréens de défense de l'environnement';777;0
+e;6436982;'culture d'une surface de l'environnement';1;0
+e;11391010;'Association santé environnement France';777;0
+e;12051690;'environnement juridique dans la musique';1;0
+e;12051674;'tâches administratives dans un environnement médical';1;0
+e;5854123;'Agence européenne pour l'environnement';777;0
+e;5983839;'Centre international de recherche sur l'environnement et le développement';777;0
+e;5979448;'directions régionales de l'environnement';777;0
+e;6450874;'exposition à l'environnement';1;0
+e;6445979;'cancérogènes de l'environnement';1;0
+e;10063477;'plan national santé environnement';777;0
+e;11151661;'environnement en Inde';777;0
+e;11597844;'Parti de l'environnement et du développement durable';777;0
+e;13596373;'Agir pour l'environnement';777;0
+e;16100845;'L'étude de l'environnement';777;0
+e;5874716;'association de protection de l'environnement';1;0
+e;5988619;'École nationale du génie de l'eau et de l'environnement de Strasbourg';777;0
+e;5985128;'Guy Dauphin environnement';777;0
+e;5980750;'Protocole au Traité sur l'Antarctique relatif à la protection de l'environnement en Antarctique';777;0
+e;6451381;'exposition à des rayonnements dans l'environnement physique';1;0
+e;6449432;'difficultés liées à l'environnement social';1;0
+e;10552527;'environnement interactif multimédia';777;0
+e;11157017;'conférence des Nations unies sur l'environnement';777;0
+e;11183394;'observatoire de l'environnement';777;0
+e;11302909;'ruban adhésif pour les champignons de l'environnement';1;0
+e;11576384;'registre d'environnement';1;0
+e;5988382;'organisation mondiale de l'environnement';777;0
+e;5985545;'Prix canadiens de l'environnement';777;0
+e;5984624;'histoire de l'environnement';777;0
+e;5980095;'Association nationale pour la protection du ciel et de l'environnement nocturnes';777;0
+e;11254389;'Conseil général de l'environnement et du développement durable';777;0
+e;5538471;'effets des croissances démographique et économique sur l'environnement';777;0
+e;5672377;'joueur contre l'environnement';777;0
+e;5981065;'éthique de l'environnement';777;0
+e;5979177;'Institut français de l'environnement';777;0
+e;6450986;'expositions a l'environnement';1;0
+e;6446891;'effets indésirables de l'environnement professionnel';1;0
+e;10129853;'école des métiers de l'environnement';777;0
+e;11102603;'École des métiers de l'environnement';777;0
+e;11373154;'Fédération européenne pour le transport et l'environnement';777;0
+e;11373453;'direction régionale et interdépartementale de l'environnement et de l'énergie';777;0
+e;11373172;'Étude d'environnement d'un projet routier';777;0
+e;5987062;'Institut pour la protection de l'environnement';777;0
+e;5986559;'environnement en Iran';777;0
+e;6449779;'toxiques pour l'environnement';1;0
+e;6445183;'foetus et nouveau-né affectés par l'exposition de la mère à des substances chimiques de l'environnement';1;0
+e;11158212;'Laboratoire de glaciologie et géophysique de l'environnement';777;0
+e;11172650;'Association des journalistes de l'environnement';777;0
+e;13518358;'Assemblée des Nations unies pour l'environnement';777;0
+e;5988821;'Bureau européen de l'environnement';777;0
+e;5985040;'journée mondiale de l'environnement';777;0
+e;5982855;'effets du commerce international sur l'environnement';777;0
+e;5980550;'Ingénierie pour la protection de l'environnement';777;0
+e;6451880;'dangers pour l'environnement';1;0
+e;6448652;'nettoyage de l'environnement';1;0
+e;6444703;'substances toxiques pour l'environnement';1;0
+e;11160324;'centrée sur le développement et la commercialisation de produits et de services innovants destinés à la santé des populations et à l'environnement';777;0
+e;13293954;'placage d'environnement';777;0
+e;13302156;'chirurgie de l'environnement musculaire';1;0
+e;13301029;'transformation de l'environnement';1;0
+e;13301024;'transformations de l'environnement';1;0
+e;5985699;'chronologie du droit de l'environnement';777;0
+e;6451659;'restauration de l'environnement';1;0
+e;6451416;'troubles du sommeil liés à l'environnement';1;0
+e;5985158;'Biennales de l'environnement';777;0
+e;5553193;'Laboratoire de physique et chimie de l'environnement et de l'espace';777;0
+e;5988224;'Institut national de l'environnement industriel et des risques';777;0
+e;5986599;'Laboratoire des sciences du climat et l'environnement';777;0
+e;12773757;'environnement extérieur';1;0
+e;5986517;'Institut bruxellois pour la gestion de l'environnement';777;0
+e;5986375;'éducation à l'environnement et au développement durable';777;0
+e;5982523;'Office fédéral de l'environnement';777;0
+e;6447690;'difficultés liées à l'environnement physique';1;0
+e;11342738;'Ministre de l'environnement et du tourisme 1984-1987';777;0
+e;16073220;'Incidence sur l'environnement';1;0
+e;5988750;'environnement au Sénégal';777;0
+e;5981240;'ministre de l'environnement et du tourisme';777;0
+e;5979972;'Agence régionale de l'environnement et des nouvelles énergies';777;0
+e;10063029;'Parti de l'environnement - Les Verts';777;0
+e;5553185;'Institut des sciences analytiques et de physico-chimie pour l'environnement et les matériaux';777;0
+e;5989469;'Association pour la protection de l'environnement du lac Saint-Charles et des marais du Nord';777;0
+e;15693610;'Conséquences sur l'environnement';777;0
+e;8852986;'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail';1;0
+e;8930436;'direction régionale de l'environnement, de l'aménagement et du logement';1;0
+e;8974570;'environnement informatique';1;0
+e;9669975;'défenseurs de l'environnement';1;0
+e;12626167;'environnement historique';1;0
+e;12626168;'environnement culturel';1;0
+e;12626197;'Maîtrise des outils de gestion de l'environnement pour le développement';777;0
+e;12695520;'adaptation à l'environnement';1;0
+e;12695492;'modifier l'environnement';1;0
+e;12695491;'s'adapter à l'environnement';1;0
+e;12737030;'répondre aux stimuli de son environnement';1;0
+e;12724948;'environnement au Royaume-Uni';777;0
+e;13787345;'2-52 maladies pulmonaires liées à l'environnement et pneumopathies professionnelles affections générales';1;0
+e;14094435;'Agence française de sécurité sanitaire de l'environnement et du travail';777;0
+e;14130720;'10 outils de protection de l'environnement';777;0
+e;14483062;'Code de l'environnement';777;0
+e;15166740;'Institut national de la santé publique et de l'environnement';777;0
+e;14541201;'Cartes de l'environnement de Mexico';777;0
+e;14580568;'Conférence des Nations unies sur l'environnement et le développement';777;0
+e;13989890;'France nature environnement Auvergne-Rhône-Alpes';777;0
+e;16072854;'Défense de l'environnement';1;0
+e;16319875;'Agence de protection de l'environnement des États-Unis';777;0
+e;4289798;'environnement d'exécution Java';777;0
+e;461143;'environnement de développement';777;50
+e;1007525;'Directive 2001/18/CE du Parlement européen et du Conseil du 12 mars 2001 relative à la dissémination volontaire d'organismes génétiquement modifiés dans l'environnement et abrogeant la directive 90/220/CEE du Conseil';777;0
+e;1128594;'crime contre l'environnement';777;0
+e;1657644;'économie de l'environnement';1;0
+e;1665214;'variable d'environnement';1;0
+e;1684908;'risques sur l'environnement';1;0
+e;3320725;'environnement propice';1;0
+e;5113727;'Loi no 95-101 du 2 février 1995 relative au renforcement de la protection de l'environnement';777;0
+e;1657682;'psychologie de l'environnement';1;0
+e;2315730;'Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture';777;0
+e;4324349;'agence de la protection de l'environnement';1;0
+e;1665244;'variables d'environnement';777;0
+e;1684909;'risques pour l'environnement';1;0
+e;1814469;'émissions dans l'environnement';1;0
+e;394240;'santé-environnement';1;50
+e;461144;'environnement de développement intégré';777;50
+e;1657694;'science de l'environnement';1;0
+e;1763420;'produit chimique dangereux pour l'environnement';1;14
+e;5984066;'France nature environnement';777;0
+e;2663384;'préserver l'environnement';1;0
+e;3177649;'Charte de l'environnement';777;0
+e;726157;'environnement d'exécution';777;0
+e;2917700;'Centre permanent d'initiatives pour l'environnement';777;0
+e;3159422;'Agence de l'environnement et de la maîtrise de l'énergie';777;0
+e;1858119;'installation classée pour la protection de l'environnement';777;0
+e;1794834;'environnement nocturne';1;0
+e;1873615;'conférence des Nations unies sur l'environnement et le développement';777;0
+e;352216;'environnement hormonal';1;50
+e;352213;'environnement côtier';1;50
+e;352225;'environnement tissulaire';1;50
+e;352224;'environnement technologique sophistiqué';1;50
+e;346533;'dans un environnement hostile';1;50
+e;390924;'environnement favorable';1;50
+e;371706;'pollution de l'environnement';1;50
+e;352219;'environnement marin';1;50
+e;352214;'environnement de travail';1;50
+e;336962;'association de défense de l'environnement';1;50
+e;374815;'qualité de l'environnement';1;50
+e;352223;'environnement socio-économique';1;50
+e;348977;'défenseur de l'environnement';1;50
+e;352221;'environnement professionnel';1;50
+e;352215;'environnement familial';1;50
+e;350619;'en environnement hostile';1;50
+e;371625;'politique de l'environnement';1;50
+e;367740;'organisation de défense de l'environnement';1;50
+e;352226;'environnement économique';1;50
+e;352222;'environnement psychologique';1;50
+e;352220;'environnement proche';1;50
+e;352218;'environnement industriel';1;50
+e;352217;'environnement immédiat';1;50
+e;348420;'droit international de l'environnement';1;50
+e;47971;'paléo-environnement';1;50
+e;318115;'Institut de recherche en sciences et technologies pour l'environnement et l'agriculture';777;50
+e;319772;'environnement numérique';1;50
+e;321861;'environnement spatial';1;50
+e;317617;'environnement biophysique';1;50
+e;221297;'principe d'adaptation à l'environnement';1;50
+e;232443;'impact sur l'environnement';1;50
+e;246375;'respect de l'environnement';1;50
+e;252743;'protection de l'environnement';1;28
+e;161186;'ministre de l'environnement';1;50
+e;274568;'l'éthique de l'environnement';777;50
+e;273621;'droit de l'environnement';777;50
+e;274636;'Directive relative à la dissémination volontaire d'organismes génétiquement modifiés dans l'environnement';777;50
+e;275784;'agence française de sécurité sanitaire de l'environnement et du travail';777;50
+e;275786;'agence française de sécurité sanitaire de l'environnement';777;50
+e;286488;'Comité français pour l'environnement et le développement durable';777;50
+e;287197;'charte de l'environnement';777;50
+e;288155;'loi n° 2010-788 du 12 juillet 2010 portant engagement national pour l'environnement';777;50
+e;138950;'c3:l'environnement terrestre';5;50
+e;190656;'agence de l'environnement et de la maîtrise de l'énergie';1;50
+e;235452;'environnement graphique';1;50
+e;236090;'environnement informatique pour l'apprentissage humain';1;50
+e;237402;'environnement naturel';1;52
+e;240321;'environnement urbain';1;56
+e;243507;'environnement hostile';1;50
+e;261361;'environnement bruyant';1;50
+e;215161;'environnement social';1;50
+e;49235;'routes et environnement';1;50
+e;273637;'veolia environnement';777;50
+e;289714;'environnement numérique de travail';777;50
+e;300486;'environnement interactif';777;50
+e;303584;'environnement linguistique';777;50
+e;305843;'environnement pervasif';777;50
+e;308858;'environnement de bureau';777;50
+e;152799;'Grenelle de l'environnement';1;66
+r;302193602;117325;6366502;11;25
+r;302984798;117325;6370963;11;25
+r;350567540;117325;13867234;11;25
+r;366489686;117325;14428773;11;25
+r;366518703;117325;14432361;11;25
+r;366811537;117325;14452173;11;25
+r;366856595;117325;14452343;11;25
+r;367829221;117325;14476234;11;25
+r;367992071;117325;14476237;11;25
+r;370595005;117325;14584227;11;25
+r;371293400;117325;14610731;11;25
+r;371669228;117325;14631340;11;25
+r;374007401;117325;14715197;11;25
+r;400821824;117325;6398564;11;25
+r;405714500;117325;15768111;11;25
+r;423885652;117325;16156601;11;25
+r;435147405;117325;16565448;11;25
+r;298881549;117325;6295726;11;26
+r;299141430;117325;6300534;11;26
+r;299595288;117325;6312504;11;26
+r;301473450;117325;6340845;11;26
+r;301754871;117325;6354022;11;26
+r;332114286;117325;12977825;11;26
+r;349225187;117325;6391550;11;26
+r;374047443;117325;14716495;11;26
+r;375036343;117325;14753246;11;26
+r;393613139;117325;15033653;11;26
+r;234201262;117325;10078337;11;27
+r;299945833;117325;6320563;11;27
+r;121537509;117325;6438935;11;28
+r;273214919;117325;10878981;11;28
+r;121512736;117325;6441711;11;29
+r;121530495;117325;6439726;11;29
+r;122664090;117325;6433748;11;29
+r;121514867;117325;6441468;11;30
+r;277498726;117325;10989009;11;30
+r;419782674;117325;15650718;11;30
+r;419782934;117325;15580709;11;30
+r;419788547;117325;15441472;11;30
+r;110579558;117325;5573704;11;31
+r;121498728;117325;6443261;11;31
+r;220659624;117325;9954761;11;31
+r;277032170;117325;10970212;11;31
+r;279622587;117325;11031115;11;31
+r;334370955;117325;13033387;11;31
+r;419722715;117325;15647742;11;31
+r;419722971;117325;15769424;11;31
+r;419723190;117325;15584640;11;31
+r;111462338;117325;5679204;11;32
+r;114020894;117325;5836330;11;32
+r;114443740;117325;5855621;11;32
+r;121554549;117325;6437041;11;32
+r;121568142;117325;6435512;11;32
+r;121580701;117325;6434112;11;32
+r;121581726;117325;6433999;11;32
+r;276020413;117325;10955072;11;32
+r;291211786;117325;11354028;11;32
+r;291288998;117325;11359307;11;32
+r;305335116;117325;11823749;11;32
+r;419654085;117325;14572001;11;32
+r;419654091;117325;14572000;11;32
+r;419667634;117325;15650726;11;32
+r;113755672;117325;5830999;11;33
+r;114019005;117325;5836709;11;33
+r;114024432;117325;5835554;11;33
+r;121523185;117325;6440544;11;33
+r;122682255;117325;6431718;11;33
+r;304667099;117325;11808655;11;33
+r;434362251;117325;16162204;11;33
+r;117909189;117325;5981244;11;34
+r;121493314;117325;6443868;11;34
+r;122672973;117325;6432762;11;34
+r;270915457;117325;10835050;11;34
+r;269391708;117325;10745534;11;34
+r;272518879;117325;10866562;11;34
+r;277855796;117325;10994196;11;34
+r;303757484;117325;11789107;11;34
+r;305411750;117325;11824973;11;34
+r;306357341;117325;11832252;11;34
+r;419528967;117325;15539189;11;34
+r;29975202;117325;1833094;11;35
+r;29976571;117325;1833095;11;35
+r;109978084;117325;5562373;11;35
+r;117880925;117325;5987567;11;35
+r;117905109;117325;5982401;11;35
+r;117914433;117325;5980059;11;35
+r;121514769;117325;6441480;11;35
+r;121521161;117325;6440761;11;35
+r;122678249;117325;6432175;11;35
+r;220215052;117325;9944308;11;35
+r;271594188;117325;10841321;11;35
+r;272514233;117325;10867920;11;35
+r;305939157;117325;11832187;11;35
+r;313629006;117325;12049042;11;35
+r;313630314;117325;12048900;11;35
+r;315119201;117325;12079215;11;35
+r;315120862;117325;12078897;11;35
+r;315120902;117325;12078889;11;35
+r;315120909;117325;12078888;11;35
+r;315122941;117325;12078503;11;35
+r;342215137;117325;13494986;11;35
+r;419497034;117325;15409367;11;35
+r;419499309;117325;15475001;11;35
+r;29846376;117325;1826919;11;36
+r;121040723;117325;6450744;11;36
+r;121466391;117325;6446876;11;36
+r;272167941;117325;10855702;11;36
+r;294179154;117325;11440048;11;36
+r;313627435;117325;12048849;11;36
+r;313699603;117325;12050508;11;36
+r;313699629;117325;12050800;11;36
+r;313699695;117325;12050801;11;36
+r;313699894;117325;12050509;11;36
+r;313699919;117325;12050807;11;36
+r;313699930;117325;12050808;11;36
+r;313763209;117325;12051571;11;36
+r;313764096;117325;12051372;11;36
+r;112174849;117325;5712787;11;37
+r;112174858;117325;5712785;11;37
+r;117882514;117325;5987283;11;37
+r;117903615;117325;5982747;11;37
+r;117916601;117325;5979468;11;37
+r;121450423;117325;6526120;11;37
+r;121480069;117325;6445347;11;37
+r;121515193;117325;6441431;11;37
+r;121531057;117325;6439665;11;37
+r;122671503;117325;6432928;11;37
+r;270211036;117325;10791581;11;37
+r;290585845;117325;11342836;11;37
+r;296332052;117325;11539918;11;37
+r;313552696;117325;12040838;11;37
+r;313692934;117325;12050118;11;37
+r;313724954;117325;12051207;11;37
+r;313762127;117325;12052353;11;37
+r;117873436;117325;5989402;11;38
+r;117890090;117325;5985707;11;38
+r;121555070;117325;6436982;11;38
+r;292526563;117325;11391010;11;38
+r;313728648;117325;12051690;11;38
+r;313730406;117325;12051674;11;38
+r;114444813;117325;5854123;11;39
+r;117899018;117325;5983839;11;39
+r;117916693;117325;5979448;11;39
+r;121039574;117325;6450874;11;39
+r;121474418;117325;6445979;11;39
+r;232100797;117325;10063477;11;39
+r;283483231;117325;11151661;11;39
+r;298265999;117325;11597844;11;39
+r;393795635;117325;13596373;11;39
+r;420150584;117325;16100845;11;39
+r;114434611;117325;5874716;11;40
+r;117876496;117325;5988619;11;40
+r;117892855;117325;5985128;11;40
+r;117911484;117325;5980750;11;40
+r;121034857;117325;6451381;11;40
+r;121052711;117325;6449432;11;40
+r;263067593;117325;10552527;11;40
+r;285043836;117325;11157017;11;40
+r;287145157;117325;11183394;11;40
+r;289319171;117325;11302909;11;40
+r;297597669;117325;11576384;11;40
+r;117877060;117325;5988382;11;41
+r;117890856;117325;5985545;11;41
+r;117895189;117325;5984624;11;41
+r;117914268;117325;5980095;11;41
+r;288439408;117325;11254389;11;41
+r;109659780;117325;5538471;11;42
+r;111339311;117325;5672377;11;42
+r;117910011;117325;5981065;11;42
+r;117917417;117325;5979177;11;42
+r;121038522;117325;6450986;11;42
+r;121466248;117325;6446891;11;42
+r;234736648;117325;10129853;11;42
+r;281596718;117325;11102603;11;42
+r;291736424;117325;11373154;11;42
+r;291746969;117325;11373453;11;42
+r;291754694;117325;11373172;11;42
+r;117883683;117325;5987062;11;43
+r;117886135;117325;5986559;11;43
+r;121049630;117325;6449779;11;43
+r;121481648;117325;6445183;11;43
+r;283994158;117325;11158212;11;43
+r;285837033;117325;11172650;11;43
+r;342391275;117325;13518358;11;43
+r;117875712;117325;5988821;11;44
+r;117893254;117325;5985040;11;44
+r;117903283;117325;5982855;11;44
+r;117912372;117325;5980550;11;44
+r;121030261;117325;6451880;11;44
+r;121059745;117325;6448652;11;44
+r;121485789;117325;6444703;11;44
+r;285132775;117325;11160324;11;44
+r;338118514;117325;13293954;11;44
+r;338378909;117325;13302156;11;44
+r;338931636;117325;13301029;11;44
+r;338931641;117325;13301024;11;44
+r;117890124;117325;5985699;11;45
+r;121032328;117325;6451659;11;45
+r;121034515;117325;6451416;11;45
+r;117892715;117325;5985158;11;46
+r;109888358;117325;5553193;11;47
+r;117877760;117325;5988224;11;47
+r;117885936;117325;5986599;11;47
+r;327778959;117325;12773757;11;47
+r;117886345;117325;5986517;11;48
+r;117886955;117325;5986375;11;48
+r;117904522;117325;5982523;11;48
+r;121459008;117325;6447690;11;48
+r;290585241;117325;11342738;11;48
+r;419102823;117325;16073220;11;48
+r;117876000;117325;5988750;11;49
+r;117909208;117325;5981240;11;49
+r;117914698;117325;5979972;11;49
+r;232102304;117325;10063029;11;49
+r;109888403;117325;5553185;11;50
+r;117872967;117325;5989469;11;50
+r;403525360;117325;15693610;11;50
+r;190281856;117325;8852986;11;50
+r;193127732;117325;8930436;11;50
+r;193939842;117325;8974570;11;50
+r;217162610;117325;9669975;11;50
+r;323182256;117325;12626167;11;50
+r;323182597;117325;12626168;11;50
+r;323186237;117325;12626197;11;50
+r;325493791;117325;12695520;11;50
+r;325493839;117325;12695492;11;50
+r;325493843;117325;12695491;11;50
+r;327239562;117325;12737030;11;50
+r;327323979;117325;12724948;11;50
+r;348982891;117325;13787345;11;50
+r;356667560;117325;14094435;11;50
+r;358092252;117325;14130720;11;50
+r;368026249;117325;14483062;11;50
+r;393829827;117325;15166740;11;50
+r;393989712;117325;14541201;11;50
+r;394000404;117325;14580568;11;50
+r;399662353;117325;13989890;11;50
+r;419101065;117325;16072854;11;50
+r;429091283;117325;16319875;11;50
+r;95758800;117325;4289798;11;51
+r;16188410;117325;461143;11;52
+r;20962298;117325;1007525;11;52
+r;21782738;117325;1128594;11;53
+r;27514596;117325;1657644;11;53
+r;27665490;117325;1665214;11;53
+r;27865090;117325;1684908;11;53
+r;83665225;117325;3320725;11;53
+r;105648655;117325;5113727;11;53
+r;27514482;117325;1657682;11;54
+r;33121181;117325;2315730;11;54
+r;98648056;117325;4324349;11;54
+r;27665912;117325;1665244;11;55
+r;27865105;117325;1684909;11;55
+r;29618859;117325;1814469;11;55
+r;13699871;117325;394240;11;56
+r;16188402;117325;461144;11;56
+r;27515161;117325;1657694;11;56
+r;28977795;117325;1763420;11;56
+r;117897906;117325;5984066;11;58
+r;61095931;117325;2663384;11;59
+r;76630196;117325;3177649;11;59
+r;19558002;117325;726157;11;60
+r;71613619;117325;2917700;11;61
+r;75985199;117325;3159422;11;61
+r;30016887;117325;1858119;11;62
+r;29420040;117325;1794834;11;63
+r;30319379;117325;1873615;11;67
+r;12694427;117325;352216;11;101
+r;12694439;117325;352213;11;101
+r;12694387;117325;352225;11;102
+r;12694391;117325;352224;11;102
+r;12717449;117325;346533;11;102
+r;12996063;117325;390924;11;102
+r;12615371;117325;371706;11;103
+r;12694415;117325;352219;11;103
+r;12694435;117325;352214;11;103
+r;12757757;117325;336962;11;103
+r;12602649;117325;374815;11;105
+r;12694397;117325;352223;11;105
+r;12707305;117325;348977;11;105
+r;12694407;117325;352221;11;106
+r;12694431;117325;352215;11;106
+r;12700815;117325;350619;11;106
+r;12615717;117325;371625;11;107
+r;12631291;117325;367740;11;107
+r;12694383;117325;352226;11;107
+r;12694403;117325;352222;11;108
+r;12694411;117325;352220;11;109
+r;12694419;117325;352218;11;109
+r;12694423;117325;352217;11;109
+r;12709591;117325;348420;11;109
+r;11871191;117325;47971;11;121
+r;8991551;117325;318115;11;148
+r;9040056;117325;319772;11;148
+r;9082499;117325;321861;11;148
+r;8934476;117325;317617;11;149
+r;8879852;117325;221297;11;151
+r;8880384;117325;232443;11;151
+r;8880862;117325;246375;11;151
+r;8881231;117325;252743;11;151
+r;8875354;117325;161186;11;152
+r;8882868;117325;274568;11;152
+r;8882722;117325;273621;11;153
+r;8882875;117325;274636;11;153
+r;8882965;117325;275784;11;153
+r;8882966;117325;275786;11;153
+r;8883929;117325;286488;11;153
+r;8884046;117325;287197;11;153
+r;8884185;117325;288155;11;153
+r;8873510;117325;138950;11;154
+r;8877064;117325;190656;11;154
+r;8703040;117325;235452;11;161
+r;8703583;117325;236090;11;161
+r;8704746;117325;237402;11;161
+r;8706613;117325;240321;11;161
+r;8708071;117325;243507;11;161
+r;8728028;117325;261361;11;161
+r;8689674;117325;215161;11;162
+r;8586472;117325;49235;11;163
+r;8741470;117325;273637;11;163
+r;8757684;117325;289714;11;163
+r;8767181;117325;300486;11;163
+r;8769942;117325;303584;11;163
+r;8771730;117325;305843;11;163
+r;8774652;117325;308858;11;163
+r;140709;117325;152799;11;179

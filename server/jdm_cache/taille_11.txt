@@ -1,0 +1,752 @@
+
+e;142267;'taille';1;712
+e;6292743;'anomalie de relation non précisée entre la taille de la mâchoire et la base du crâne';1;0
+e;6284919;'taille d'un organe';1;0
+e;6285291;'taille des globules rouges';1;0
+e;6317672;'rapport hanches taille';1;0
+e;6328014;'rapport tour de taille sur tour de hanches';1;0
+e;11696952;'pré-taille';777;0
+e;6334940;'taille désirée de la famille';1;0
+e;6337593;'anomalies de relation entre la taille de la mâchoire et la base du crâne';1;0
+e;6339608;'taille des cellules';1;0
+e;6339487;'rapport taille hanches';1;0
+e;6351739;'taille familiale idéale';1;0
+e;6355066;'perception de la taille';1;0
+e;6357246;'rapports hanches taille';1;0
+e;6363927;'anomalies congénitales de la taille et de la forme de la cornée';1;0
+e;6368169;'taille familiale désirée';1;0
+e;6368260;'neurone de petite taille';1;0
+e;6369653;'taille du sabot';1;0
+e;6372569;'taille moyenne de la famille';1;0
+e;6385817;'taille des plumes';1;0
+e;6392885;'taille attendue de la famille';1;0
+e;6395209;'taille familiale attendue';1;0
+e;6397076;'taille idéale de la famille';1;0
+e;6401908;'taille du corps';1;0
+e;6404470;'inégalité de taille des reins';1;0
+e;6408399;'taille moyenne familiale';1;0
+e;6414936;'neurone de taille moyenne';1;0
+e;6416686;'taille cellulaire';1;0
+e;12190181;'identification du type de taille du patient dans des circonstances spéciales';1;0
+e;12190174;'mesure de taille du patient';1;0
+e;12190172;'mesure de taille du caillot après 30min d'incubation';1;0
+e;12190170;'mesure de taille';1;0
+e;12187800;'spermatozoïdes à taille de tête anormale/&#8203';1;0
+e;12187798;'mesure de spermatozoïdes à taille de tête anormale/&#8203';1;0
+e;12168877;'identification du type de méthode de détermination taille du patient';1;0
+e;12148624;'détermination de la forme d'érythrocytes taille';1;0
+e;12137755;'identification de cholestérol ldl taille réelle profil';1;0
+e;6378679;'taille du bec';1;0
+e;6357682;'taille familiale';1;0
+e;6385398;'poids et taille normaux';1;0
+e;6295469;'échocardiographie pour déterminer la taille des chambres ventriculaires';1;0
+e;6297895;'taille du poil d'un animal';1;0
+e;6307711;'développement de la taille cellulaire';1;0
+e;6331804;'lipome colique de moyenne taille';1;0
+e;6295822;'lipome colique de grande taille';1;0
+e;6405819;'lipome colique de petite taille';1;0
+e;14113777;'longue taille';777;0
+e;14491460;'taille du parc de logement';777;0
+e;14572127;'Sa taille réelle';777;0
+e;14580538;'taille de la pierre';777;0
+e;14609521;'de taille et de morphologie normale';1;0
+e;14611111;'avoir augmenté de taille';1;0
+e;14632881;'bâtiment de taille moyenne';1;0
+e;14635943;'taille à facettes';777;0
+e;14653770;'de taille significative';1;0
+e;14654068;'taille brute';1;0
+e;14735301;'Typologie par la taille';777;0
+e;6407669;'diminution de la taille corporelle';1;0
+e;14916110;'Records de taille';777;0
+e;16169932;'pont en pierres de taille';777;0
+e;6427193;'tumeur duodenale de moyenne taille';1;0
+e;6275882;'taille-haies';1;0
+e;6291209;'taille de la famille';1;0
+e;6309392;'syndromes congénitaux malformatifs associés principalement à une petite taille';1;0
+e;6357869;'taille érythrocytaire';1;0
+e;6328248;'distorsions visuelles de forme et de taille';1;0
+e;6330495;'hématémèse de grande taille';1;0
+e;6333002;'taille corporelle en-dessous de la normale';1;0
+e;6345640;'taille corporelle anormale';1;0
+e;6355466;'taille des colonies bactériennes';1;0
+e;6365270;'rapport taille sur hanches';1;0
+e;6377454;'taille corporelle diminuée';1;0
+e;6385216;'taille corporelle augmentée';1;0
+e;6389475;'circonférence de taille augmentée';1;0
+e;6401198;'anomalies majeures de la taille de la mâchoire';1;0
+e;6417882;'taille corporelle normale';1;0
+e;6412827;'taille des érythrocytes';1;0
+e;14156037;'avoir une taille de guêpe';1;0
+e;14174678;'prendre la taille au-dessus';1;2
+e;14529834;'prendre par la taille';1;0
+e;14734023;'taille 44';1;0
+e;6284387;'petit taille idiopathique';1;0
+e;6412555;'anomalies de la taille et de la forme des dents';1;0
+e;6334571;'autre anomalie précisée de la taille de la mâchoire';1;0
+e;6344830;'autre anomalie de relation précisée entre la taille de la mâchoire et la base du crâne';1;0
+e;6362132;'taille du conteneur du produit incorrecte';1;0
+e;6406821;'moyenne taille de polype gastrique';1;0
+e;6409586;'grande taille de polype gastrique';1;0
+e;6412821;'taille hépatique réduite';1;0
+e;12116617;'spermatozoïdes à taille de tête anormale';1;0
+e;12095815;'érythrocytes taille';1;0
+e;12093246;'cholestérol ldl taille réelle profil';1;0
+e;12100908;'méthode de détermination taille du patient';1;0
+e;13537934;'taille maximale';1;0
+e;5834432;'taille-poids';1;0
+e;12107091;'taille du patient dans des circonstances spéciales';1;0
+e;12107090;'taille du patient';1;0
+e;12107089;'taille du caillot après 30min d'incubation';1;0
+e;12106278;'spermatozoïdes à taille de tête anormale/?100 spermatozoïdes';1;0
+e;5573856;'taille cible corrigée';777;0
+e;5711971;'taille de stockage';777;0
+e;6426404;'anomalie de la taille de la mâchoire non précisée';1;0
+e;15549189;'cristal taille Y';1;0
+e;16031843;'d'estoc et de taille';1;0
+e;15394594;'de bonne taille';1;0
+e;15295659;'de la taille d'un paquet de cigarettes';1;0
+e;15635001;'de moyenne taille';1;0
+e;15531882;'de petite et moyenne taille';1;0
+e;15635002;'de petite ou moyenne taille';1;0
+e;15229993;'de taille douce';1;0
+e;15684143;'de taille industrielle';1;0
+e;15684144;'de taille intermédiaire';1;0
+e;15684145;'de taille internationale';1;0
+e;15407857;'de taille irrégulière';1;0
+e;15443570;'de taille modeste';1;0
+e;15684139;'de taille mondiale';1;0
+e;15388982;'de taille moyenne';1;0
+e;15384869;'des robes taille haute';1;0
+e;15488901;'diamant de taille en étoile';1;0
+e;15522319;'doublant de taille';1;0
+e;15251513;'doubler de taille';1;0
+e;15295488;'défi de taille';1;0
+e;15574754;'défi est de taille';1;0
+e;2377427;'taille-plume';1;0
+e;5573858;'taille mère';777;0
+e;6435719;'taille complète de l'unité familiale';1;0
+e;11781531;'Un homme à ma taille';777;0
+e;15569113;'chemise lâchement nouée à la taille';1;0
+e;15443566;'cintré à la taille';1;0
+e;16180393;'corrélation entre taille critique d'une discontinuité et contrainte de rupture';777;0
+e;16420795;'case contrôle de la taille';1;0
+e;5673675;'négligence de la taille de l'échantillon';777;0
+e;5836179;'taille en vert';777;0
+e;5836178;'taille de mise en forme';777;0
+e;15215372;'avoir la taille mannequin';1;0
+e;15443561;'bouleversement de taille';1;0
+e;15203616;'cambrer la taille';1;0
+e;15388997;'centrale électrique de taille moyenne';1;0
+e;8106028;'taille du vagin humain';1;0
+e;11063124;'taille d'épargne';777;0
+e;11063460;'taille d'effet';777;0
+e;15565948;'arme d'estoc et de taille';1;0
+e;16162118;'Vascularite de taille de vaisseaux variable';777;0
+e;5839886;'taille en cordon';777;0
+e;5839171;'taille des arbres fruitiers';777;0
+e;6438787;'taille d'organe';1;0
+e;6424911;'rapports taille hanches';1;0
+e;8122471;'jean slim taille 34';1;0
+e;12049586;'être obsédé par la taille de son sexe';1;0
+e;13049662;'taille maximale adulte';1;0
+e;15539132;'Nous sommes sensiblement de la même taille.';1;0
+e;15693942;'Quelle taille fait-il?';1;0
+e;16075225;'Réduction de la taille';777;0
+e;15270083;'Sa robe faisait ressortir la finesse de sa taille.';1;0
+e;15297436;'accroissement de taille';1;0
+e;15388987;'agglomération de taille moyenne';1;0
+e;15476330;'agrégat de taille ajustable';1;0
+e;15476328;'agrégat de taille implicite';1;0
+e;5920833;'orthétrum à taille fine';777;0
+e;6426298;'chromatographie par exclusion de taille';1;0
+e;8122470;'jeans slim taille 34';1;0
+e;15290351;'Les gâteaux sont mauvais pour votre tour de taille.';1;0
+e;1828908;'blépharophimosis avec ptosis, syndactylie et petite taille';1;0
+e;11693044;'marionnette de taille humaine';1;0
+e;12242786;'mesure de taille du patient | technique indéterminée | père | ponctuel | résultat numérique | longueur';1;0
+e;12242785;'mesure de taille du patient | résultat mesuré | patient | ponctuel | résultat numérique | longueur';1;0
+e;12242784;'mesure de taille du patient | résultat estimé | patient | ponctuel | résultat numérique | longueur';1;0
+e;12242783;'mesure de taille du patient | déclaré | patient | ponctuel | résultat numérique | longueur';1;0
+e;12242782;'mesure de taille du patient | technique indéterminée | patient | ponctuel | résultat numérique | longueur';1;0
+e;12242781;'mesure de taille du patient | technique indéterminée | mère | ponctuel | résultat numérique | longueur';1;0
+e;10325113;'planète de taille terrestre';777;0
+e;14536080;'Impact de la taille';777;0
+e;10778173;'taille d'un tremplin';777;0
+e;11577382;'planètes de grande taille';1;0
+e;11577381;'détection de planètes de grande taille';1;0
+e;12052285;'taille patient';1;0
+e;5805976;'taille longue';1;0
+e;5898410;'taille du pénis chez l'homme';777;0
+e;6425207;'tumeur gastrique de petite taille';1;0
+e;12052564;'trier des découpes de tabac par taille';1;0
+e;2437413;'taille réelle';1;0
+e;2478193;'taille de';1;0
+e;6429339;'petite taille de polype gastrique';1;0
+e;6011248;'taille décroissante';777;0
+e;11175217;'Sur le nombre de nombres premiers inférieurs à une taille donnée';777;0
+e;12278594;'à taille humaine';1;0
+e;13271335;'personne de petite taille';1;0
+e;11154364;'taille de bloc';777;0
+e;6450922;'petite taille pour l'âge gestationnel';1;0
+e;6440800;'taille normale pour l'âge';1;0
+e;10159646;'frégates de taille intermédiaire';777;0
+e;5992371;'mannequin grande taille';777;0
+e;15392027;'La compagnie a doublé de taille en neuf ans.';1;0
+e;6448384;'bébé d'exceptionnellement grande taille liée à une longue gestation';1;0
+e;9241299;'écart de taille';1;0
+e;9241296;'dimorphisme sexuel de taille';1;0
+e;12686335;'maitrisant la taille des pierres';1;0
+e;12686334;'maitrisant la taille des pierres et le feu';1;0
+e;12691407;'problème de la taille du proton';777;0
+e;14534768;'De même pour les oiseaux de taille moyenne';777;0
+e;15388985;'Elle est de taille moyenne.';1;0
+e;15325289;'Elle a la taille fine.';1;0
+e;15574438;'Ces chaussures ne sont pas à la bonne taille.';1;0
+e;15691807;'Ils sont à peu près de la même taille.';1;0
+e;566753;'taille apparente';777;50
+e;1845808;'taille du ftus';1;0
+e;3751140;'oignons de taille moyenne coupés en tranches';1;0
+e;3758528;'oignons de taille moyenne coupés en quartiers';1;0
+e;3754289;'pommes de terre de taille moyenne coupées en frites';1;0
+e;3754254;'feuilles de pâte filo de grande taille';1;0
+e;1703505;'taille en dessous';1;0
+e;2521173;'taille-pré';1;0
+e;2450968;'basset griffon vendéen de grande taille';1;0
+e;2796954;'entreprise de taille intermédiaire';1;0
+e;3757595;'betteraves rouges de taille moyenne';1;0
+e;3756972;'crevettes de taille moyenne décortiquées';1;0
+e;3756960;'ananas frais de taille moyenne';1;0
+e;3752235;'jus d'un citron de taille moyenne';1;0
+e;3757637;'avocats de taille moyenne épluchés et sans noyau';1;0
+e;3756968;'pommes de taille moyenne lavées et séchées';1;0
+e;3756845;'oignons de taille moyenne hachés';1;0
+e;3752778;'courgettes de taille moyenne coupées en rondelles fines';1;0
+e;1706909;'de taille suffisante';1;0
+e;1803890;'être de taille à';1;0
+e;2565068;'taille au garrot';1;0
+e;3755615;'pomme de terre de taille moyenne';1;0
+e;3753857;'poivron vert de taille moyenne coupé finement';1;0
+e;566754;'taille angulaire';777;50
+e;1490262;'reste une inconnue de taille';1;0
+e;2464124;'basset griffon vendéen de petite taille';1;0
+e;3758610;'beignets de la taille d'une noix type pets-de-nonne';1;0
+e;3756984;'tête de chou de taille moyenne émincée';1;0
+e;3752713;'oignon de taille moyenne';1;0
+e;3756918;'tortillas de blé de grande taille';1;0
+e;1801622;'pantalon taille abaissée';1;0
+e;2324333;'taille-hanche';1;0
+e;3751359;'carotte de taille moyenne épluchée et coupée en dés';1;0
+e;3759050;'moitié d'un oignon de taille moyenne haché';1;0
+e;3756758;'poires de taille moyenne';1;0
+e;3755798;'oignon rouge de taille moyenne coupé';1;0
+e;3753414;'oignons de taille moyenne coupés en deux puis tranchés';1;0
+e;567975;'taille de la';777;50
+e;1307443;'rapport taille-hanche';1;0
+e;1703413;'taille de soutien-gorge';1;6
+e;1703508;'taille en dessus';1;0
+e;1801621;'pantalon taille descendue';1;0
+e;3354003;'coups de taille';1;0
+e;3758336;'oignon rouge de taille moyenne haché grossièrement';1;0
+e;3753017;'pommes de terre de taille moyenne';1;0
+e;1703507;'taille au-dessus';1;2
+e;3758134;'huîtres fraîches de taille moyenne';1;0
+e;1663244;'taille de pierre';1;0
+e;1703504;'taille au-dessous';1;0
+e;1818543;'kératocône postérieur-fente labiale-petite taille';1;0
+e;2353858;'régression en taille';1;0
+e;2544954;'entre-taille';1;0
+e;3751393;'crevettes de taille moyenne';1;0
+e;3758285;'pommes de terre de taille moyenne épluchées et coupées en dés';1;0
+e;3754805;'oignon de taille moyenne coupé en tranches fines';1;0
+e;3753389;'belles endives de bonne taille';1;0
+e;3751410;'oignon de taille moyenne émincé';1;0
+e;5317728;'personne de grande taille';1;0
+e;2962641;'taille haie';1;0
+e;1490263;'inconnue de taille';1;0
+e;1690120;'de taille normale';1;0
+e;2353820;'taille centimétrique';1;0
+e;3758547;'pomme de terre de taille moyenne coupée en tranches';1;0
+e;3758536;'oignon de taille moyenne haché';1;0
+e;2857723;'taille micrométrique';1;0
+e;2862786;'taille du génome';777;0
+e;2796885;'entreprises de taille intermédiaire';777;0
+e;1834804;'glaucome-ectopie lenticulaire-microsphérophakie-raideur-petite taille';1;0
+e;1845809;'d'une matrice taille';1;0
+e;1850484;'syndrome goniodysgénésie-retard mental-petite taille';1;0
+e;1787637;'pantalon taille haute';1;2
+e;1841248;'petite taille, hyperextensibilité, hernie et dépression oculaire';1;0
+e;3170264;'grande taille';1;4
+e;382797;'taille moyenne';1;68
+e;382786;'taille de la vigne';1;50
+e;382784;'taille adulte';1;54
+e;376834;'robe à taille basse';1;50
+e;369924;'petit de taille';1;50
+e;382807;'taille fruitière';1;50
+e;382800;'taille royale';1;50
+e;353607;'façade en pierre de taille';1;50
+e;346832;'de petite taille';1;50
+e;382806;'taille croisée';1;50
+e;382789;'taille extra-large';1;50
+e;382787;'taille demi-patron';1;50
+e;369015;'pas de taille';1;50
+e;382791;'taille garçonnet';1;50
+e;362801;'maison en pierre de taille';1;50
+e;356503;'grand de taille';1;50
+e;346669;'de belle taille';1;50
+e;337058;'atelier de taille de silex';1;50
+e;382808;'taille homme';1;50
+e;382802;'taille standard';1;50
+e;382798;'taille mémoire';1;50
+e;341733;'carrière de taille';1;50
+e;388711;'à la taille';1;50
+e;382811;'taille talotée';1;50
+e;382804;'taille épaisse';1;50
+e;382801;'taille seigneuriale';1;50
+e;382795;'taille marchande';1;50
+e;368844;'partenaire de taille';1;50
+e;336357;'arme de taille';1;50
+e;382809;'taille ronde';1;50
+e;382788;'taille en relief';1;50
+e;376824;'robe à taille haute';1;50
+e;368549;'par rang de taille';1;50
+e;358572;'immeuble en pierre de taille';1;50
+e;388712;'à la taille de';1;50
+e;382805;'taille bâtarde';1;50
+e;382792;'taille gratteuse';1;50
+e;382790;'taille fine';1;4
+e;379418;'serré à la taille';1;50
+e;382799;'taille personnelle';1;50
+e;382794;'taille impressionnante';1;50
+e;382793;'taille imposante';1;50
+e;382785;'taille de formation';1;50
+e;346726;'de haute taille';1;50
+e;344645;'coup de taille';1;50
+e;337739;'autour de la taille de';1;50
+e;382810;'taille sciée';1;50
+e;382803;'taille tranchée';1;50
+e;382796;'taille mince';1;50
+e;357903;'homme de taille';1;50
+e;346720;'de grande taille';1;50
+e;95873;'taille-mer';1;50
+e;68364;'basse-taille';1;50
+e;67112;'contre-taille';1;50
+e;62624;'taille-ongles';1;50
+e;47320;'taille-douce';1;50
+e;41019;'taille-vent';1;50
+e;7772;'taille-bordure';1;50
+e;6141;'taille-mèche';1;50
+e;242424;'serre-taille';1;50
+e;185157;'haute-taille';1;50
+e;150824;'taille-crayons';1;50
+e;125852;'taille-haie';1;80
+e;104177;'taille-buissons';1;50
+e;103568;'taille-crayon';1;100
+e;324586;'augmentation de taille';1;50
+e;218592;'taille-haie électrique';1;54
+e;238426;'être de taille';1;50
+e;101795;'de taille à';1;50
+e;165215;'qui modifie la taille des vaisseaux sanguins';1;50
+e;167669;'haute taille';1;50
+e;235366;'taille de guêpe';1;22
+e;251207;'taille du pénis';1;4
+e;260027;'petite taille';1;4
+e;262444;'taille basse';1;50
+e;262445;'pantalon taille basse';1;10
+e;262781;'taille de bonnet';1;50
+e;263494;'taille variable';1;50
+e;103354;'taille directe';1;50
+e;159938;'tour de taille';1;66
+e;160829;'taille mannequin';1;92
+e;208764;'taille adoucie';1;50
+e;208765;'taille en baguette';1;50
+e;208766;'taille en buisson';1;50
+e;208767;'taille en carré';1;50
+e;208768;'taille en réserve';1;50
+e;211188;'loi d'augmentation de la taille';1;50
+e;43170;'taille en gobelet';1;50
+e;97819;'taille par mise aux points';1;50
+e;180911;'ARN nucléaire de grande taille';1;50
+e;184436;'taille critique';1;50
+e;184437;'taille minimale de capture';1;50
+e;264809;'taille d'un échantillon';1;50
+e;264900;'bateau de petite taille';1;50
+e;272532;'bâton de taille';777;50
+e;276592;'taille humaine';777;50
+e;299058;'taille de fructification';777;50
+e;190742;'pierre de taille';1;40
+e;198442;'de taille';1;50
+r;397091901;142267;6292743;11;25
+r;297683194;142267;6284919;11;25
+r;297974050;142267;6285291;11;25
+r;299798962;142267;6317672;11;25
+r;300213730;142267;6328014;11;25
+r;300493221;142267;11696952;11;25
+r;301217599;142267;6334940;11;25
+r;301438472;142267;6337593;11;25
+r;301455315;142267;6339608;11;25
+r;301455870;142267;6339487;11;25
+r;301745156;142267;6351739;11;25
+r;301762822;142267;6355066;11;25
+r;301815896;142267;6357246;11;25
+r;302163740;142267;6363927;11;25
+r;302954879;142267;6368169;11;25
+r;302956911;142267;6368260;11;25
+r;302973635;142267;6369653;11;25
+r;303004186;142267;6372569;11;25
+r;304395240;142267;6385817;11;25
+r;304859262;142267;6392885;11;25
+r;305002334;142267;6395209;11;25
+r;305048279;142267;6397076;11;25
+r;305264151;142267;6401908;11;25
+r;305298866;142267;6404470;11;25
+r;305349553;142267;6408399;11;25
+r;305634817;142267;6414936;11;25
+r;305686772;142267;6416686;11;25
+r;316578909;142267;12190181;11;25
+r;316578920;142267;12190174;11;25
+r;316578930;142267;12190172;11;25
+r;316578944;142267;12190170;11;25
+r;316588775;142267;12187800;11;25
+r;316588787;142267;12187798;11;25
+r;316663971;142267;12168877;11;25
+r;316730117;142267;12148624;11;25
+r;316767484;142267;12137755;11;25
+r;319053477;142267;6378679;11;25
+r;341134227;142267;6357682;11;25
+r;341183320;142267;6385398;11;25
+r;340946305;142267;6295469;11;25
+r;340951480;142267;6297895;11;25
+r;349262110;142267;6307711;11;25
+r;349329090;142267;6331804;11;25
+r;349334728;142267;6295822;11;25
+r;349371973;142267;6405819;11;25
+r;357376749;142267;14113777;11;25
+r;368245717;142267;14491460;11;25
+r;370377667;142267;14572127;11;25
+r;370477407;142267;14580538;11;25
+r;371244805;142267;14609521;11;25
+r;371306323;142267;14611111;11;25
+r;371700497;142267;14632881;11;25
+r;371802451;142267;14635943;11;25
+r;372567981;142267;14653770;11;25
+r;372568698;142267;14654068;11;25
+r;374648081;142267;14735301;11;25
+r;400946020;142267;6407669;11;25
+r;390023990;142267;14916110;11;25
+r;425067128;142267;16169932;11;25
+r;122717638;142267;6427193;11;26
+r;297277622;142267;6275882;11;26
+r;298441478;142267;6291209;11;26
+r;299576027;142267;6309392;11;26
+r;302065607;142267;6357869;11;26
+r;300213997;142267;6328248;11;26
+r;300958685;142267;6330495;11;26
+r;301128840;142267;6333002;11;26
+r;301554292;142267;6345640;11;26
+r;301800904;142267;6355466;11;26
+r;302184822;142267;6365270;11;26
+r;303635563;142267;6377454;11;26
+r;303994570;142267;6385216;11;26
+r;304559651;142267;6389475;11;26
+r;305208559;142267;6401198;11;26
+r;305689335;142267;6417882;11;26
+r;319058456;142267;6412827;11;26
+r;359286573;142267;14156037;11;26
+r;360411654;142267;14174678;11;26
+r;368585149;142267;14529834;11;26
+r;374612706;142267;14734023;11;26
+r;297668507;142267;6284387;11;27
+r;305487290;142267;6412555;11;27
+r;301204729;142267;6334571;11;27
+r;301543773;142267;6344830;11;27
+r;302138223;142267;6362132;11;27
+r;305316350;142267;6406821;11;27
+r;305462868;142267;6409586;11;27
+r;305489162;142267;6412821;11;27
+r;315693235;142267;12116617;11;27
+r;315609727;142267;12095815;11;27
+r;315629849;142267;12093246;11;27
+r;315565555;142267;12100908;11;28
+r;343010960;142267;13537934;11;28
+r;115443206;142267;5834432;11;29
+r;315506544;142267;12107091;11;29
+r;315506556;142267;12107090;11;29
+r;315506561;142267;12107089;11;29
+r;315516570;142267;12106278;11;29
+r;110579256;142267;5573856;11;30
+r;112176140;142267;5711971;11;30
+r;122723629;142267;6426404;11;30
+r;419751602;142267;15549189;11;30
+r;419758881;142267;16031843;11;30
+r;419766038;142267;15394594;11;30
+r;419768154;142267;15295659;11;30
+r;419768952;142267;15635001;11;30
+r;419769297;142267;15531882;11;30
+r;419769303;142267;15635002;11;30
+r;419770240;142267;15229993;11;30
+r;419770246;142267;15684143;11;30
+r;419770252;142267;15684144;11;30
+r;419770258;142267;15684145;11;30
+r;419770264;142267;15407857;11;30
+r;419770270;142267;15443570;11;30
+r;419770276;142267;15684139;11;30
+r;419770282;142267;15388982;11;30
+r;419775298;142267;15384869;11;30
+r;419779169;142267;15488901;11;30
+r;419797679;142267;15522319;11;30
+r;419798058;142267;15251513;11;30
+r;419807795;142267;15295488;11;30
+r;419807807;142267;15574754;11;30
+r;52228642;142267;2377427;11;31
+r;110579708;142267;5573858;11;31
+r;121566274;142267;6435719;11;31
+r;303730414;142267;11781531;11;31
+r;419705027;142267;15569113;11;31
+r;419710376;142267;15443566;11;31
+r;425079356;142267;16180393;11;31
+r;434377411;142267;16420795;11;31
+r;111334994;142267;5673675;11;32
+r;114021616;142267;5836179;11;32
+r;114021621;142267;5836178;11;32
+r;419633174;142267;15215372;11;32
+r;419660983;142267;15443561;11;32
+r;419677543;142267;15203616;11;32
+r;419693948;142267;15388997;11;32
+r;136364207;142267;8106028;11;33
+r;280415491;142267;11063124;11;33
+r;280433863;142267;11063460;11;33
+r;419606957;142267;15565948;11;33
+r;434366256;142267;16162118;11;33
+r;114010568;142267;5839886;11;34
+r;114010791;142267;5839171;11;34
+r;121538859;142267;6438787;11;34
+r;122735235;142267;6424911;11;34
+r;136745226;142267;8122471;11;34
+r;313765057;142267;12049586;11;34
+r;334601917;142267;13049662;11;34
+r;419516321;142267;15539132;11;34
+r;419531812;142267;15693942;11;34
+r;419537031;142267;16075225;11;34
+r;419538757;142267;15270083;11;34
+r;419570811;142267;15297436;11;34
+r;419581847;142267;15388987;11;34
+r;419582696;142267;15476330;11;34
+r;419582705;142267;15476328;11;34
+r;115841561;142267;5920833;11;35
+r;122724424;142267;6426298;11;35
+r;136723284;142267;8122470;11;35
+r;419496126;142267;15290351;11;35
+r;29932950;142267;1828908;11;36
+r;299547364;142267;11693044;11;36
+r;318280328;142267;12242786;11;36
+r;318280353;142267;12242785;11;36
+r;318280374;142267;12242784;11;36
+r;318280395;142267;12242783;11;36
+r;318280416;142267;12242782;11;36
+r;318280439;142267;12242781;11;36
+r;252657062;142267;10325113;11;37
+r;369396245;142267;14536080;11;37
+r;269871574;142267;10778173;11;38
+r;297641665;142267;11577382;11;38
+r;297642449;142267;11577381;11;38
+r;313736025;142267;12052285;11;38
+r;113295521;142267;5805976;11;39
+r;115104815;142267;5898410;11;39
+r;122732876;142267;6425207;11;39
+r;313735391;142267;12052564;11;39
+r;55187261;142267;2437413;11;40
+r;59224510;142267;2478193;11;41
+r;122700819;142267;6429339;11;41
+r;118509144;142267;6011248;11;42
+r;286017472;142267;11175217;11;42
+r;318946763;142267;12278594;11;42
+r;338932834;142267;13271335;11;42
+r;283606003;142267;11154364;11;43
+r;121039111;142267;6450922;11;44
+r;121520812;142267;6440800;11;44
+r;238104619;142267;10159646;11;44
+r;117868382;142267;5992371;11;45
+r;417031665;142267;15392027;11;45
+r;121452626;142267;6448384;11;49
+r;210645852;142267;9241299;11;50
+r;210648296;142267;9241296;11;50
+r;324946679;142267;12686335;11;50
+r;324948837;142267;12686334;11;50
+r;325174498;142267;12691407;11;50
+r;368720641;142267;14534768;11;50
+r;397498257;142267;15388985;11;50
+r;397496800;142267;15325289;11;50
+r;399503545;142267;15574438;11;50
+r;413897438;142267;15691807;11;50
+r;16985346;142267;566753;11;51
+r;29881779;142267;1845808;11;51
+r;93586779;142267;3751140;11;51
+r;93656006;142267;3758528;11;51
+r;93696231;142267;3754289;11;51
+r;94044280;142267;3754254;11;51
+r;28108880;142267;1703505;11;52
+r;52512237;142267;2521173;11;52
+r;55481791;142267;2450968;11;52
+r;65427333;142267;2796954;11;52
+r;93664682;142267;3757595;11;52
+r;93670507;142267;3756972;11;52
+r;93670626;142267;3756960;11;52
+r;93715511;142267;3752235;11;52
+r;93664282;142267;3757637;11;53
+r;93670542;142267;3756968;11;53
+r;93671687;142267;3756845;11;53
+r;93710463;142267;3752778;11;53
+r;28192260;142267;1706909;11;54
+r;29513333;142267;1803890;11;54
+r;52445717;142267;2565068;11;54
+r;93683224;142267;3755615;11;54
+r;93700487;142267;3753857;11;54
+r;16979155;142267;566754;11;55
+r;24631980;142267;1490262;11;55
+r;55736813;142267;2464124;11;55
+r;93655142;142267;3758610;11;55
+r;93670379;142267;3756984;11;55
+r;93711027;142267;3752713;11;55
+r;93984853;142267;3756918;11;55
+r;29485285;142267;1801622;11;56
+r;33729739;142267;2324333;11;56
+r;93632107;142267;3751359;11;56
+r;93650864;142267;3759050;11;56
+r;93672410;142267;3756758;11;56
+r;93681321;142267;3755798;11;56
+r;93704614;142267;3753414;11;56
+r;17175414;142267;567975;11;57
+r;22925959;142267;1307443;11;57
+r;28103024;142267;1703413;11;57
+r;28108912;142267;1703508;11;57
+r;29485291;142267;1801621;11;57
+r;85950778;142267;3354003;11;57
+r;93657826;142267;3758336;11;57
+r;93708367;142267;3753017;11;57
+r;28108895;142267;1703507;11;58
+r;93659756;142267;3758134;11;58
+r;27639630;142267;1663244;11;59
+r;28108866;142267;1703504;11;59
+r;29733492;142267;1818543;11;59
+r;34890609;142267;2353858;11;59
+r;52499497;142267;2544954;11;59
+r;93629059;142267;3751393;11;59
+r;93658306;142267;3758285;11;59
+r;93691546;142267;3754805;11;59
+r;93704867;142267;3753389;11;59
+r;93722004;142267;3751410;11;59
+r;106808186;142267;5317728;11;59
+r;73562058;142267;2962641;11;60
+r;24631989;142267;1490263;11;60
+r;27909626;142267;1690120;11;60
+r;34890635;142267;2353820;11;60
+r;93655800;142267;3758547;11;60
+r;93655924;142267;3758536;11;60
+r;70609168;142267;2857723;11;61
+r;70608981;142267;2862786;11;62
+r;68371351;142267;2796885;11;63
+r;29914560;142267;1834804;11;64
+r;29881777;142267;1845809;11;65
+r;29858709;142267;1850484;11;66
+r;29342987;142267;1787637;11;67
+r;29904511;142267;1841248;11;67
+r;76227242;142267;3170264;11;68
+r;12570355;142267;382797;11;101
+r;12570399;142267;382786;11;101
+r;12570407;142267;382784;11;101
+r;12594629;142267;376834;11;101
+r;12622813;142267;369924;11;101
+r;12570317;142267;382807;11;102
+r;12570343;142267;382800;11;102
+r;12688773;142267;353607;11;102
+r;12716119;142267;346832;11;102
+r;12570321;142267;382806;11;103
+r;12570383;142267;382789;11;103
+r;12570393;142267;382787;11;103
+r;12626485;142267;369015;11;103
+r;12570375;142267;382791;11;104
+r;12651279;142267;362801;11;104
+r;12677105;142267;356503;11;104
+r;12716767;142267;346669;11;104
+r;12757345;142267;337058;11;104
+r;12570313;142267;382808;11;105
+r;12570337;142267;382802;11;105
+r;12570351;142267;382798;11;105
+r;12738173;142267;341733;11;105
+r;12547035;142267;388711;11;106
+r;12570303;142267;382811;11;106
+r;12570329;142267;382804;11;106
+r;12570341;142267;382801;11;106
+r;12570363;142267;382795;11;106
+r;12627119;142267;368844;11;106
+r;12760225;142267;336357;11;106
+r;12570309;142267;382809;11;107
+r;12570389;142267;382788;11;107
+r;12594673;142267;376824;11;107
+r;12628247;142267;368549;11;107
+r;12668549;142267;358572;11;107
+r;12547031;142267;388712;11;108
+r;12570325;142267;382805;11;108
+r;12570373;142267;382792;11;108
+r;12570379;142267;382790;11;108
+r;12583891;142267;379418;11;108
+r;12570347;142267;382799;11;109
+r;12570367;142267;382794;11;109
+r;12570371;142267;382793;11;109
+r;12570403;142267;382785;11;109
+r;12716565;142267;346726;11;109
+r;12725935;142267;344645;11;109
+r;12754739;142267;337739;11;109
+r;12570305;142267;382810;11;110
+r;12570333;142267;382803;11;110
+r;12570359;142267;382796;11;110
+r;12671247;142267;357903;11;110
+r;12716591;142267;346720;11;110
+r;11864296;142267;95873;11;121
+r;11868186;142267;68364;11;121
+r;11868333;142267;67112;11;121
+r;11868955;142267;62624;11;121
+r;11871293;142267;47320;11;121
+r;11872320;142267;41019;11;121
+r;11877072;142267;7772;11;121
+r;11877253;142267;6141;11;121
+r;11851320;142267;242424;11;122
+r;11853662;142267;185157;11;122
+r;11857030;142267;150824;11;122
+r;11859833;142267;125852;11;122
+r;11863085;142267;104177;11;122
+r;11863151;142267;103568;11;122
+r;9349701;142267;324586;11;148
+r;8879748;142267;218592;11;151
+r;8705434;142267;238426;11;160
+r;8604768;142267;101795;11;161
+r;8629488;142267;165215;11;161
+r;8631115;142267;167669;11;161
+r;8702978;142267;235366;11;161
+r;8714749;142267;251207;11;161
+r;8726369;142267;260027;11;161
+r;8729280;142267;262444;11;161
+r;8729283;142267;262445;11;161
+r;8729762;142267;262781;11;161
+r;8730677;142267;263494;11;161
+r;8605293;142267;103354;11;162
+r;8626651;142267;159938;11;162
+r;8627094;142267;160829;11;162
+r;8682432;142267;208764;11;162
+r;8682434;142267;208765;11;162
+r;8682436;142267;208766;11;162
+r;8682438;142267;208767;11;162
+r;8682440;142267;208768;11;162
+r;8686266;142267;211188;11;162
+r;8584380;142267;43170;11;163
+r;8603376;142267;97819;11;163
+r;8637455;142267;180911;11;163
+r;8643467;142267;184436;11;163
+r;8643469;142267;184437;11;163
+r;8732441;142267;264809;11;163
+r;8732552;142267;264900;11;163
+r;8740071;142267;272532;11;163
+r;8744715;142267;276592;11;163
+r;8765848;142267;299058;11;163
+r;8653196;142267;190742;11;164
+r;8665061;142267;198442;11;164

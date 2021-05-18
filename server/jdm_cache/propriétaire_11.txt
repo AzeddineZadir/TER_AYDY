@@ -1,0 +1,104 @@
+
+e;13946;'propriétaire';1;552
+e;5792367;'propriétaire-viticulteur';1;0
+e;16320284;'enfermement propriétaire';777;0
+e;6318024;'discorde avec le propriétaire';1;0
+e;3804937;'non-propriétaire';1;0
+e;5728332;'protocole propriétaire';777;0
+e;8053010;'devenir propriétaire dans le neuf';1;0
+e;15266564;'de propriétaire';1;0
+e;3907835;'multi-propriétaire';1;0
+e;11359238;'Récit d'un propriétaire';777;0
+e;15574535;'aux risques et périls du propriétaire';1;0
+e;5567518;'client propriétaire de messagerie instantanée';1;0
+e;15395402;'Le propriétaire exige d'être payé immédiatement.';1;0
+e;15680137;'Le père de Julie était propriétaire d'un pub.';1;0
+e;12081017;'propriétaire accédant';1;0
+e;12883811;'propriétaire d'écurie de course';1;0
+e;5900766;'propriétaire du bot';777;0
+e;11833997;'licence propriétaire';777;0
+e;11518167;'ne doivent pas être prises par le propriétaire des objets concernés';777;0
+e;5781429;'format de fichier propriétaire';1;0
+e;3913632;'format propriétaire';1;0
+e;4470301;'avoir un ventre de propriétaire';1;2
+e;2318552;'ventre de propriétaire';1;0
+e;5526769;'suite bureautique propriétaire';1;0
+e;2069099;'nue-propriétaire';2;0
+e;5061195;'propriétaire de voiture';1;0
+e;373898;'propriétaire légal des biens';1;50
+e;369963;'petit propriétaire';1;50
+e;373895;'propriétaire des lieux';1;50
+e;356558;'grand propriétaire';1;50
+e;373894;'propriétaire bailleur';1;50
+e;338676;'base de données propriétaire';1;50
+e;333336;'achat direct au propriétaire';1;50
+e;373902;'propriétaire exploitant';1;50
+e;373901;'propriétaire éleveur';1;50
+e;388498;'à la charge du propriétaire';1;50
+e;373900;'propriétaire sylvicole';1;50
+e;373899;'propriétaire privé';1;50
+e;373896;'propriétaire immobilier';1;50
+e;376610;'riche propriétaire terrien';1;50
+e;373897;'propriétaire institutionnel';1;50
+e;356559;'grand propriétaire terrien';1;50
+e;342789;'changement de propriétaire';1;50
+e;33346;'nu-propriétaire';1;52
+e;258212;'être propriétaire';1;50
+e;252869;'système propriétaire';1;54
+e;142469;'La Matinée d'un propriétaire';1;50
+e;176435;'logiciel propriétaire';1;6
+e;163501;'faire le tour du propriétaire';1;52
+e;101013;'propriétaire foncier';1;60
+e;163469;'propriétaire terrien';1;60
+e;64683;'devenir propriétaire';1;68
+r;294290444;13946;5792367;11;25
+r;429095415;13946;16320284;11;25
+r;299798673;13946;6318024;11;26
+r;95254919;13946;3804937;11;29
+r;112664532;13946;5728332;11;30
+r;135982375;13946;8053010;11;30
+r;419769660;13946;15266564;11;30
+r;95614578;13946;3907835;11;31
+r;291281590;13946;11359238;11;32
+r;419624977;13946;15574535;11;32
+r;110170168;13946;5567518;11;33
+r;419493269;13946;15395402;11;35
+r;419493331;13946;15680137;11;35
+r;315109657;13946;12081017;11;36
+r;330280686;13946;12883811;11;36
+r;115095280;13946;5900766;11;38
+r;306051961;13946;11833997;11;38
+r;295853688;13946;11518167;11;39
+r;112659000;13946;5781429;11;40
+r;95172221;13946;3913632;11;54
+r;99915657;13946;4470301;11;56
+r;33178041;13946;2318552;11;57
+r;109436342;13946;5526769;11;58
+r;32523585;13946;2069099;11;60
+r;105109753;13946;5061195;11;60
+r;12606347;13946;373898;11;101
+r;12622643;13946;369963;11;101
+r;12606361;13946;373895;11;102
+r;12676833;13946;356558;11;102
+r;12606365;13946;373894;11;103
+r;12750945;13946;338676;11;103
+r;12772067;13946;333336;11;105
+r;12606331;13946;373902;11;106
+r;12606335;13946;373901;11;106
+r;12547713;13946;388498;11;107
+r;12606339;13946;373900;11;107
+r;12606343;13946;373899;11;107
+r;12606357;13946;373896;11;107
+r;12595499;13946;376610;11;108
+r;12606353;13946;373897;11;108
+r;12676825;13946;356559;11;109
+r;12733579;13946;342789;11;109
+r;363828;13946;33346;11;142
+r;8723712;13946;258212;11;160
+r;8716479;13946;252869;11;161
+r;8620564;13946;142469;11;162
+r;8635410;13946;176435;11;163
+r;382528;13946;163501;11;197
+r;363827;13946;101013;11;218
+r;381937;13946;163469;11;218
+r;381938;13946;64683;11;228

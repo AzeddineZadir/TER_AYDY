@@ -1,0 +1,538 @@
+
+e;42645;'complet';1;326
+e;6293348;'bloc de branche gauche complet';1;0
+e;6287893;'placenta praevia complet avec hémorragie intrapartum';1;0
+e;6292582;'albinisme universel complet';1;0
+e;6293491;'infertilité par blocage complet de la spermatogénèse';1;0
+e;6309598;'rapport complet d'un patient psychiatrique pour un tiers';1;0
+e;6322744;'examen audiométrique complet de base';1;0
+e;6340185;'examen oculaire complet';1;0
+e;6344293;'blocage congénital complet';1;0
+e;6343956;'bilan métabolique complet';1;0
+e;6347264;'examen radiologique complet de la clavicule';1;0
+e;6360705;'squelette complet normal';1;0
+e;6382486;'avortement complet incomplet manqué etc.';1;0
+e;6388791;'présentation du siège complet avec procidence d'un pied';1;0
+e;6397813;'pancreas divisum complet';1;0
+e;6398487;'testicule féminisant complet';1;0
+e;6418386;'présentation du siège complet avec procidence des deux pieds';1;0
+e;6418843;'dentier complet';1;0
+e;12170691;'détermination de la présence de mycobacterium complexe abscessus résistance à la clarithromycine erm(41) gène complet';1;0
+e;12163954;'détermination de la présence de kir3dp1 gène complet variant';1;0
+e;12163950;'détermination de la présence de kir2ds4 gène complet variant';1;0
+e;12161854;'mesure d'influenza virus a génome complet';1;0
+e;12151770;'mesure de synthèse du compte rendu de dépistage néonatal complet pour l'affichage ou l'impression';1;0
+e;12149446;'mesure d'examen urinaire complet panel';1;0
+e;6340828;'sia complet';1;0
+e;6294979;'myélographie du canal rachidien au complet';1;0
+e;6371427;'hémogramme complet';1;0
+e;6337520;'appareil dentaire complet';1;0
+e;6340937;'avortement thérapeutique complet';1;0
+e;6326898;'avortement spontané complet';1;0
+e;6317067;'bloc de branche complet droit';1;0
+e;6401746;'avortement complet compliqué';1;0
+e;6400355;'bloc de branche complet gauche';1;0
+e;6288402;'avortement spontané complet compliqué';1;0
+e;6407795;'bloc av complet transitoire';1;0
+e;6393540;'déficit enzymatique complet en argininosuccinate synthase';1;0
+e;14436126;'tour complet';1;0
+e;14454713;'agent à temps non complet';1;0
+e;6390801;'déficit enzymatique complet en argininosuccinate synthétase';1;0
+e;6403342;'bloc av complet avec syncope';1;0
+e;6287532;'bloc de branche droit et bloc de branche gauche complet';1;0
+e;6344432;'déficit complet en argininosuccinate synthétase';1;0
+e;6418917;'complication d'un avortement thérapeutique complet';1;0
+e;16325983;'recevra le pardon complet de ses fautes et la remise de leur peine';777;0
+e;5069636;'quasi-complet';1;0
+e;6318420;'spermogramme complet';1;0
+e;15024220;'activités à temps complet';1;0
+e;6289875;'commotion avec perte de conscience pendant plus de 24 heures avec rétablissement complet';1;0
+e;6302829;'complet, compliqué d'une hémorragie tardive ou excessive, avortement non précisé';1;0
+e;6338255;'complet bloc auriculoventriculaire';1;0
+e;6387215;'squelette complet anormal';1;0
+e;6388257;'sondes adn génomique complet';1;0
+e;6347735;'complet compliqué d'une lésion des organes ou des tissus pelviens avortement non précisé';1;0
+e;6301855;'complet sans mention de complication avortement non précisé';1;0
+e;6304328;'complet compliqué d'un choc avortement provoqué légal';1;0
+e;6305799;'complet compliqué d'une hémorragie tardive ou excessive avortement spontané';1;0
+e;6306335;'complet compliqué d'une lésion des organes ou des tissus pelviens avortement provoqué légal';1;0
+e;6306223;'complet compliqué d'une hémorragie tardive ou excessive avortement provoqué légal';1;0
+e;6313566;'complet compliqué d'une infection pelvienne et des voies génitales avortement provoqué légal';1;0
+e;6314889;'complet avec d'autres complications précisées avortement provoqué illégal';1;0
+e;6316017;'complet avec complication non précisée avortement provoqué légal';1;0
+e;6335669;'complet compliqué d'une hémorragie tardive ou excessive avortement provoqué illégal';1;0
+e;6317425;'complet compliqué d'une embolie avortement provoqué illégal';1;0
+e;6319473;'complet compliqué d'une lésion des organes ou des tissus pelviens avortement provoqué illégal';1;0
+e;6322534;'complet avec d'autres complications précisées avortement provoqué légal';1;0
+e;6331196;'complet compliqué d'une embolie avortement provoqué légal';1;0
+e;6334778;'complet compliqué d'une embolie avortement non précisé';1;0
+e;6341315;'complet compliqué d'une insuffisance rénale avortement spontané';1;0
+e;6341827;'complet compliqué d'une insuffisance rénale avortement non précisé';1;0
+e;6351645;'complet sans mention de complication avortement provoqué illégal';1;0
+e;6355851;'complet compliqué d'un choc avortement spontané';1;0
+e;6395855;'complet compliqué d'une lésion des organes ou des tissus pelviens avortement spontané';1;0
+e;6369217;'complet sans mention de complication avortement provoqué légal';1;0
+e;6369815;'complet compliqué d'un choc avortement non précisé';1;0
+e;6372168;'unilatéral complet bec-de-lièvre';1;0
+e;6375006;'complet avec d'autres complications précisées avortement spontané';1;0
+e;6374828;'complet compliqué d'un choc avortement provoqué illégal';1;0
+e;6385644;'complet compliqué d'une infection pelvienne et des voies génitales avortement non précisé';1;0
+e;6395135;'complet compliqué d'une affection métabolique avortement provoqué légal';1;0
+e;6404596;'complet avec complication non précisée avortement provoqué illégal';1;0
+e;6406119;'complet compliqué d'une embolie avortement spontané';1;0
+e;6406646;'complet compliqué d'une infection pelvienne et des voies génitales avortement provoqué illégal';1;0
+e;6411859;'complet avec complication non précisée avortement spontané';1;0
+e;6414397;'complet compliqué d'une affection métabolique avortement non précisé';1;0
+e;6416502;'complet avec d'autres complications précisées avortement non précisé';1;0
+e;6417641;'complet compliqué d'une insuffisance rénale avortement provoqué illégal';1;0
+e;6419072;'complet sans mention de complication avortement spontané';1;0
+e;6420958;'complet compliqué d'une infection pelvienne et des voies génitales avortement spontané';1;0
+e;12099615;'kir3dp1 gène complet variant';1;0
+e;12099613;'kir2ds4 gène complet variant';1;0
+e;12098954;'influenza virus a génome complet';1;0
+e;12096019;'examen urinaire complet panel';1;0
+e;12988440;'historique complet des matchs de coupes d'Europe disputés par le Racing Club de Lens';777;0
+e;6425745;'prolapsus utérovaginal complet';1;0
+e;12101364;'mycobacterium complexe abscessus résistance à la clarithromycine erm(41) gène complet';1;0
+e;6352938;'bloc auriculoventriculaire complet';1;0
+e;10619943;'système quasi complet';777;0
+e;10619942;'système complet';777;0
+e;12106979;'synthèse du compte rendu de dépistage néonatal complet pour l'affichage ou l'impression';1;0
+e;6431016;'prolapsus rectal interne complet avec intussusception recto-sigmoïdienne';1;0
+e;10598358;'Le Compte complet';777;0
+e;15547124;'coût de revient complet';1;0
+e;15479721;'distance du dernier filet complet à la face d'appui';1;0
+e;15447457;'dossier complet';1;0
+e;15195161;'du pain complet';1;0
+e;15494701;'effectif au complet';1;0
+e;16343162;'complet avec les 9 maisons';777;0
+e;6439137;'régime d'assurance médicale complet';1;0
+e;6426240;'colpocléisis complet';1;0
+e;11028474;'cavalier de concours complet d'équitation';1;0
+e;11031381;'championnats d'Europe de concours complet d'équitation';777;0
+e;15447450;'chômeur complet indemnisé';1;0
+e;15529375;'complet deux pièces';1;0
+e;15385291;'complet trois pièces';1;0
+e;6705604;'Nom complet';777;0
+e;5725344;'ordre partiel complet';777;0
+e;6428987;'prolapsus utéro-vaginal complet';1;0
+e;10918094;'Concours complet par équipes';777;0
+e;10918093;'Concours complet individuel';777;0
+e;10917214;'Coupe des nations de concours complet d'équitation 2016';777;0
+e;15648089;'avant l'arrêt complet de l'appareil';1;0
+e;15278430;'avec un complet dédain pour qch';1;0
+e;15387211;'avoir l'assortiment complet';1;0
+e;15387209;'ayant l'assortiment complet';1;0
+e;13739374;'bec-de-lièvre unilatéral complet';1;0
+e;15447967;'c'est complet';1;0
+e;15201288;'calendrier complet';1;0
+e;15334916;'chargement inférieur à un container complet';1;0
+e;5916629;'pâtes sèches au blé complet';1;0
+e;10939467;'palmarès complet du Tournoi des Six Nations';777;0
+e;6287522;'bec-de-lièvre bilatéral complet';1;0
+e;6316569;'bec-de-lièvre complet';1;0
+e;15494705;'assistance au complet';1;0
+e;5911941;'riz complet cru';1;0
+e;5971649;'radiothérapie cerveau complet';1;0
+e;10994843;'train complet';1;0
+e;16074479;'Temps complet';1;0
+e;15299802;'afficher complet';1;0
+e;15206496;'aliment complet';1;0
+e;15461974;'antigène complet';1;0
+e;1838995;'milieu complet';1;0
+e;2376624;'parasite complet';1;0
+e;5922167;'complet anglais';777;0
+e;10039744;'Catalogue complet';777;0
+e;11080741;'noir complet';1;0
+e;12061564;'sang complet';1;0
+e;12078270;'coût complet d'un bien';1;0
+e;15904034;'Support complet des entiers 64 bits';777;0
+e;16071001;'Titre complet';777;0
+e;5991656;'L'Homme au complet blanc';777;0
+e;11100438;'historique complet des matchs européens disputés par le Stade lavallois';777;0
+e;11504378;'tableau disjonctif complet';777;0
+e;10553504;'coupe des nations de concours complet';777;0
+e;10553503;'Coupe des nations de concours complet d'équitation 2017';777;0
+e;10459172;'L'Homme au complet marron';777;0
+e;2458781;'graphe biparti complet';1;0
+e;2406168;'infinitif complet';1;0
+e;6533013;'déficit complet en HGPRT';1;0
+e;10448121;'Playback complet';777;0
+e;11154780;'espace métrique complet';777;0
+e;10139760;'L'Homme au complet gris';777;0
+e;6527967;'quadrilatère complet';777;0
+e;10430389;'match complet';777;0
+e;15240913;'La maison est dans un bazar complet.';1;0
+e;12779376;'complet au sens de Turing';777;0
+e;2402245;'concours complet';1;0
+e;6532201;'adjuvant complet de Freund';1;0
+e;5670710;'IA-complet';777;0
+e;8913202;'catalogue complet';777;0
+e;13750987;'180-181 signes, symptômes et manoeuvres liés à un membre inférieur au complet';1;0
+e;15331451;'C'est un désastre complet.';1;0
+e;15782471;'E-mail - Récapitulatif complet';777;0
+e;16072076;'Agent à temps non complet';1;0
+e;4470329;'plat complet';1;12
+e;596553;'auteur complet';777;0
+e;3230457;'squelette complet';1;0
+e;3744908;'risotto à la macédoine et au riz complet';1;0
+e;3754840;'tranches de pain de mie nature ou complet sans les bords c'est l'idéal';1;0
+e;3319839;'lait complet';1;0
+e;3368338;'riz complet aux tomates et épices';1;0
+e;3363590;'gratin de pommes de terre complet';1;0
+e;3758321;'sucre de canne complet ou de sucre roux';1;0
+e;4335174;'temps complet';1;2
+e;3363439;'gratin de courgettes complet';1;0
+e;3755402;'spaghettis au blé complet';1;0
+e;3754475;'farine de riz complet';1;0
+e;3751699;'chapelure fine de pain complet';1;0
+e;2548403;'coût complet';1;0
+e;3368339;'riz complet et curry-coco de pommes et maïs';1;0
+e;3746660;'pain complet à la banane';1;0
+e;3756992;'pain complet coupé en cubes';1;0
+e;3756119;'riz complet cuit';1;0
+e;3753001;'tranches de pain de mie complet';1;0
+e;2583437;'concours complet d'équitation';777;0
+e;3745553;'gruau au riz complet';1;0
+e;3755988;'flocons d'avoine complet';1;0
+e;3754804;'farine de blé complet';1;0
+e;3751908;'riz complet non cuit';1;0
+e;3763530;'galettes au blé complet';1;0
+e;3964903;'cout complet';1;0
+e;3319288;'lait complet en poudre';1;0
+e;3756099;'tranches de pain complet';1;0
+e;3754643;'mélange de riz sauvage et de riz complet';1;0
+e;2473609;'parasitisme complet';1;0
+e;3372113;'welsh complet, grande-bretagne';1;0
+e;3730973;'groupe de symétrie complet';777;0
+e;3744879;'risotto de riz complet aux asperges et au champagne';1;0
+e;3754864;'mie de pain complet émiettée';1;0
+e;3751623;'tranches de pain complet coupées en cubes';1;0
+e;3763531;'galette au blé complet';1;2
+e;1711665;'mésentère commun complet';1;0
+e;1842163;'présentation du siège complet';1;0
+e;3318468;'salade au riz complet et lentilles noires';1;0
+e;3369829;'soupe repas complet';1;0
+e;3363418;'gratin de complet au chou-fleur';1;0
+e;3744097;'couscous marocain au blé complet au poulet';1;0
+e;3757665;'mie de pain complet émiettée finement';1;0
+e;3756290;'sucre de canne complet';1;2
+e;3753843;'tranche de pain complet';1;0
+e;5003273;'rayonnement complet';777;0
+e;2348367;'riz basmati complet';1;0
+e;2348369;'riz complet brun';1;0
+e;2579000;'blé complet';1;0
+e;3365964;'oeufs mornay, repas complet pour un soir';1;0
+e;3743903;'salade de riz complet à l'orange';1;0
+e;3754572;'riz complet ou sauvage';1;0
+e;4336419;'travailler à temps complet';1;0
+e;1844634;'siège complet';1;0
+e;2607266;'biparti complet';777;0
+e;3758216;'wrap ou galettes au blé complet';1;0
+e;3753628;'mie de pain complet fraîche';1;0
+e;1899869;'espace complet';1;0
+e;1816559;'apport nutritionnel complet';1;0
+e;384844;'travail à temps complet';1;50
+e;360066;'jeu complet';1;50
+e;356705;'graphe complet';1;50
+e;350023;'emploi à temps complet';1;50
+e;346516;'dans un chaos complet';1;50
+e;387917;'wagon complet';1;50
+e;383897;'titre alcalimétrique complet';1;50
+e;388911;'à temps complet';1;50
+e;380107;'soin complet';1;50
+e;378442;'salarié à temps complet';1;50
+e;333924;'activité à temps complet';1;50
+e;375316;'rapport complet';1;50
+e;344215;'complet noir';1;50
+e;340905;'café complet';1;50
+e;339162;'bilan médical complet';1;50
+e;350024;'emploi à temps non complet';1;50
+e;346298;'dans le chaos le plus complet';1;50
+e;333042;'abruti complet';1;50
+e;379729;'silence complet';1;66
+e;346528;'dans un désordre complet';1;50
+e;67434;'complet-veston';1;50
+e;234785;'NP-complet';1;6
+e;220446;'Turing-complet';1;50
+e;234796;'problème NP-complet';1;50
+e;60190;'au complet';1;50
+e;260196;'sucre complet';1;4
+e;160422;'repas complet';1;58
+e;161669;'pain complet';1;142
+e;153259;'riz complet';1;66
+e;158620;'nom complet';1;54
+e;181735;'connaissement complet';1;50
+e;181759;'conteneur complet';1;50
+e;196271;'au grand complet';1;50
+e;291754;'examen hématologique complet';777;50
+e;291757;'hémato complet';777;50
+e;2132;'Théâtre complet';1;50
+r;397129464;42645;6293348;11;25
+r;298254586;42645;6287893;11;25
+r;298500182;42645;6292582;11;25
+r;298598359;42645;6293491;11;25
+r;299587508;42645;6309598;11;25
+r;300129775;42645;6322744;11;25
+r;301465092;42645;6340185;11;25
+r;301515856;42645;6344293;11;25
+r;301527358;42645;6343956;11;25
+r;301607946;42645;6347264;11;25
+r;302098294;42645;6360705;11;25
+r;303953644;42645;6382486;11;25
+r;304550202;42645;6388791;11;25
+r;305057404;42645;6397813;11;25
+r;305129135;42645;6398487;11;25
+r;305692358;42645;6418386;11;25
+r;305694807;42645;6418843;11;25
+r;316658148;42645;12170691;11;25
+r;316680195;42645;12163954;11;25
+r;316680221;42645;12163950;11;25
+r;316687703;42645;12161854;11;25
+r;316720312;42645;12151770;11;25
+r;316727882;42645;12149446;11;25
+r;318332858;42645;6340828;11;25
+r;319090034;42645;6294979;11;25
+r;319104027;42645;6371427;11;25
+r;349110404;42645;6337520;11;25
+r;349185517;42645;6340937;11;25
+r;349189591;42645;6326898;11;25
+r;349193022;42645;6317067;11;25
+r;349195455;42645;6401746;11;25
+r;349219789;42645;6400355;11;25
+r;349229247;42645;6288402;11;25
+r;349254182;42645;6407795;11;25
+r;349318075;42645;6393540;11;25
+r;366559172;42645;14436126;11;25
+r;366954760;42645;14454713;11;25
+r;400782022;42645;6390801;11;25
+r;400854252;42645;6403342;11;25
+r;396490042;42645;6287532;11;25
+r;399953811;42645;6344432;11;25
+r;402043702;42645;6418917;11;25
+r;430817301;42645;16325983;11;25
+r;105147470;42645;5069636;11;26
+r;126176753;42645;6318420;11;26
+r;392467069;42645;15024220;11;26
+r;298404469;42645;6289875;11;26
+r;299337672;42645;6302829;11;26
+r;301447105;42645;6338255;11;26
+r;304483205;42645;6387215;11;26
+r;304496149;42645;6388257;11;26
+r;301690218;42645;6347735;11;27
+r;299284296;42645;6301855;11;27
+r;299366490;42645;6304328;11;27
+r;299487472;42645;6305799;11;27
+r;299490846;42645;6306335;11;27
+r;299519466;42645;6306223;11;27
+r;299617025;42645;6313566;11;27
+r;299636589;42645;6314889;11;27
+r;299665528;42645;6316017;11;27
+r;301407046;42645;6335669;11;27
+r;299791187;42645;6317425;11;27
+r;299908388;42645;6319473;11;27
+r;300126122;42645;6322534;11;27
+r;300963753;42645;6331196;11;27
+r;301217330;42645;6334778;11;27
+r;301481603;42645;6341315;11;27
+r;301485483;42645;6341827;11;27
+r;301740306;42645;6351645;11;27
+r;301805264;42645;6355851;11;27
+r;305005339;42645;6395855;11;27
+r;302971868;42645;6369217;11;27
+r;302975980;42645;6369815;11;27
+r;303001013;42645;6372168;11;27
+r;303470175;42645;6375006;11;27
+r;303573601;42645;6374828;11;27
+r;304377590;42645;6385644;11;27
+r;304997471;42645;6395135;11;27
+r;305299730;42645;6404596;11;27
+r;305308809;42645;6406119;11;27
+r;305312638;42645;6406646;11;27
+r;305478918;42645;6411859;11;27
+r;305621873;42645;6414397;11;27
+r;305681294;42645;6416502;11;27
+r;305688835;42645;6417641;11;27
+r;305698041;42645;6419072;11;27
+r;305708077;42645;6420958;11;27
+r;315580392;42645;12099615;11;27
+r;315580408;42645;12099613;11;27
+r;315586082;42645;12098954;11;27
+r;315608197;42645;12096019;11;27
+r;333770847;42645;12988440;11;27
+r;122728684;42645;6425745;11;28
+r;315562556;42645;12101364;11;28
+r;217372667;42645;6352938;11;29
+r;266719042;42645;10619943;11;29
+r;266719047;42645;10619942;11;29
+r;315507448;42645;12106979;11;29
+r;122687993;42645;6431016;11;30
+r;264444376;42645;10598358;11;30
+r;419749665;42645;15547124;11;30
+r;419785930;42645;15479721;11;30
+r;419797404;42645;15447457;11;30
+r;419801325;42645;15195161;11;30
+r;419832451;42645;15494701;11;30
+r;434380337;42645;16343162;11;30
+r;121535735;42645;6439137;11;31
+r;122724863;42645;6426240;11;31
+r;279555571;42645;11028474;11;31
+r;279652340;42645;11031381;11;31
+r;419709649;42645;15447450;11;31
+r;419724885;42645;15529375;11;31
+r;419724891;42645;15385291;11;31
+r;122937164;42645;6705604;11;32
+r;112667283;42645;5725344;11;32
+r;122703579;42645;6428987;11;32
+r;274573275;42645;10918094;11;32
+r;274573281;42645;10918093;11;32
+r;274575368;42645;10917214;11;32
+r;419625499;42645;15648089;11;32
+r;419626828;42645;15278430;11;32
+r;419631952;42645;15387211;11;32
+r;419640392;42645;15387209;11;32
+r;419650465;42645;13739374;11;32
+r;419670114;42645;15447967;11;32
+r;419677203;42645;15201288;11;32
+r;419701202;42645;15334916;11;32
+r;115856836;42645;5916629;11;33
+r;275484526;42645;10939467;11;33
+r;298236264;42645;6287522;11;33
+r;398500054;42645;6316569;11;33
+r;419612838;42645;15494705;11;33
+r;115860090;42645;5911941;11;34
+r;116752162;42645;5971649;11;34
+r;277921956;42645;10994843;11;34
+r;419551392;42645;16074479;11;34
+r;419580160;42645;15299802;11;34
+r;419586170;42645;15206496;11;34
+r;419599136;42645;15461974;11;34
+r;30032353;42645;1838995;11;35
+r;52223290;42645;2376624;11;35
+r;115838481;42645;5922167;11;35
+r;227609134;42645;10039744;11;35
+r;281055301;42645;11080741;11;35
+r;313926276;42645;12061564;11;35
+r;315124178;42645;12078270;11;35
+r;414133063;42645;15904034;11;35
+r;418762298;42645;16071001;11;35
+r;117870865;42645;5991656;11;36
+r;281475648;42645;11100438;11;37
+r;295626966;42645;11504378;11;38
+r;263066237;42645;10553504;11;39
+r;263066245;42645;10553503;11;40
+r;261018328;42645;10459172;11;41
+r;55638353;42645;2458781;11;42
+r;53825964;42645;2406168;11;43
+r;121912092;42645;6533013;11;43
+r;258721575;42645;10448121;11;43
+r;283640021;42645;11154780;11;43
+r;236663266;42645;10139760;11;44
+r;121441119;42645;6527967;11;45
+r;256306635;42645;10430389;11;45
+r;417032299;42645;15240913;11;45
+r;327916908;42645;12779376;11;46
+r;53329000;42645;2402245;11;48
+r;121914979;42645;6532201;11;48
+r;112033120;42645;5670710;11;50
+r;192948382;42645;8913202;11;50
+r;348981695;42645;13750987;11;50
+r;395011295;42645;15331451;11;50
+r;410010244;42645;15782471;11;50
+r;418898410;42645;16072076;11;50
+r;99915865;42645;4470329;11;51
+r;18690646;42645;596553;11;51
+r;78285143;42645;3230457;11;51
+r;93486745;42645;3744908;11;51
+r;93691263;42645;3754840;11;51
+r;83669430;42645;3319839;11;52
+r;86163066;42645;3368338;11;52
+r;86202646;42645;3363590;11;52
+r;93657963;42645;3758321;11;52
+r;98917329;42645;4335174;11;52
+r;86204008;42645;3363439;11;53
+r;93686070;42645;3755402;11;53
+r;93694522;42645;3754475;11;53
+r;93720497;42645;3751699;11;53
+r;52453464;42645;2548403;11;54
+r;86163052;42645;3368339;11;54
+r;93494471;42645;3746660;11;54
+r;93670285;42645;3756992;11;54
+r;93678273;42645;3756119;11;54
+r;93708530;42645;3753001;11;54
+r;53783790;42645;2583437;11;55
+r;93503543;42645;3745553;11;55
+r;93679505;42645;3755988;11;55
+r;93691567;42645;3754804;11;55
+r;93718593;42645;3751908;11;55
+r;93962277;42645;3763530;11;55
+r;95169233;42645;3964903;11;55
+r;83672390;42645;3319288;11;56
+r;93678470;42645;3756099;11;56
+r;93692930;42645;3754643;11;56
+r;55920555;42645;2473609;11;57
+r;86131552;42645;3372113;11;57
+r;93121574;42645;3730973;11;57
+r;93475634;42645;3744879;11;57
+r;93691002;42645;3754864;11;57
+r;93721156;42645;3751623;11;57
+r;93961063;42645;3763531;11;57
+r;28250804;42645;1711665;11;58
+r;29901025;42645;1842163;11;58
+r;83640284;42645;3318468;11;58
+r;86150110;42645;3369829;11;58
+r;86204205;42645;3363418;11;58
+r;93459777;42645;3744097;11;58
+r;93664024;42645;3757665;11;58
+r;93676627;42645;3756290;11;58
+r;93700616;42645;3753843;11;58
+r;104418794;42645;5003273;11;58
+r;34661816;42645;2348367;11;59
+r;34662487;42645;2348369;11;59
+r;52573922;42645;2579000;11;59
+r;86182627;42645;3365964;11;59
+r;93461416;42645;3743903;11;59
+r;93693611;42645;3754572;11;59
+r;98938237;42645;4336419;11;59
+r;29887154;42645;1844634;11;60
+r;58034368;42645;2607266;11;60
+r;93658950;42645;3758216;11;60
+r;93702692;42645;3753628;11;60
+r;30611118;42645;1899869;11;61
+r;29642803;42645;1816559;11;62
+r;12562059;42645;384844;11;101
+r;12662553;42645;360066;11;101
+r;12676153;42645;356705;11;101
+r;12703129;42645;350023;11;102
+r;12717549;42645;346516;11;102
+r;12549701;42645;387917;11;103
+r;12565933;42645;383897;11;103
+r;12546319;42645;388911;11;104
+r;12581011;42645;380107;11;104
+r;12588099;42645;378442;11;104
+r;12769983;42645;333924;11;105
+r;12600663;42645;375316;11;106
+r;12727673;42645;344215;11;106
+r;12741553;42645;340905;11;106
+r;12748921;42645;339162;11;106
+r;12703123;42645;350024;11;107
+r;12718817;42645;346298;11;108
+r;12773289;42645;333042;11;108
+r;12582551;42645;379729;11;110
+r;12717481;42645;346528;11;110
+r;11868294;42645;67434;11;121
+r;11851588;42645;234785;11;122
+r;11852503;42645;220446;11;122
+r;8880469;42645;234796;11;151
+r;8590373;42645;60190;11;161
+r;8726625;42645;260196;11;161
+r;8626876;42645;160422;11;162
+r;8627583;42645;161669;11;162
+r;8623220;42645;153259;11;163
+r;8625845;42645;158620;11;163
+r;8638878;42645;181735;11;163
+r;8638925;42645;181759;11;163
+r;8661184;42645;196271;11;163
+r;8759563;42645;291754;11;163
+r;8759567;42645;291757;11;163
+r;8570706;42645;2132;11;168

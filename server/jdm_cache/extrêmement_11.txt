@@ -1,0 +1,34 @@
+
+e;47316;'extrêmement';1;76
+e;6284506;'ondes à extrêmement haute fréquence';1;0
+e;6340090;'poids extrêmement faible à la naissance';1;0
+e;6365339;'nourrisson de poids extrêmement faible à la naissance';1;0
+e;6357117;'enfant de poids extrêmement faible à la naissance';1;0
+e;5816755;'extrêmement haute fréquence';777;0
+e;5816750;'extrêmement basse fréquence';777;0
+e;11025272;'extrêmement long';1;0
+e;5515194;'extrêmement dense';1;0
+e;6008361;'galaxie extrêmement lumineuse en infrarouge';777;0
+e;8568367;'champ extrêmement profond de Hubble';777;0
+e;12630283;'cyclone extrêmement sévère Fani';777;0
+e;1663240;'extrêmement loin';1;0
+e;567358;'produit extrêmement agressif';777;50
+e;1667524;'extrêmement rare';1;0
+e;452294;'extrêmement inflammable';1;50
+e;1773387;'extrêmement pénible';1;0
+r;297671863;47316;6284506;11;26
+r;301459484;47316;6340090;11;26
+r;302189212;47316;6365339;11;26
+r;301811260;47316;6357117;11;27
+r;113774911;47316;5816755;11;31
+r;113774931;47316;5816750;11;31
+r;279319382;47316;11025272;11;34
+r;108301657;47316;5515194;11;49
+r;118518397;47316;6008361;11;50
+r;153088502;47316;8568367;11;50
+r;323537005;47316;12630283;11;50
+r;27639177;47316;1663240;11;52
+r;17092546;47316;567358;11;56
+r;27686159;47316;1667524;11;56
+r;15997328;47316;452294;11;57
+r;29133889;47316;1773387;11;59

@@ -1,0 +1,116 @@
+
+e;191742;'aucune';1;10
+e;6344316;'aucune efficacité';1;0
+e;6373338;'aucune relance planifiée suite au congé de routine du patient';1;0
+e;14483427;'aucune consistance ni réalité';777;0
+e;14538028;'sans aucune dilution préalable';777;0
+e;15835343;'n'avoir aucune intelligence';1;0
+e;15267252;'On n'a aucune certitude quant à l'identité du responsable.';1;0
+e;15772002;'Vous n'avez aucune preuve.';1;0
+e;15494080;'aucune d'entre elles';1;0
+e;15497464;'aucune des parties ne sera responsable vis-à-vis de l'autre, la responsabilité des parties l'une vis-à-vis de l'autre est exclue';1;0
+e;15326378;'aucune raison de se plaindre';1;0
+e;15297131;'aucune échappatoire! aucun moyen de s'échapper!';1;0
+e;15231946;'avoir aucune trace';1;0
+e;15253267;'ayant aucune gratitude';1;0
+e;15400210;'ayant aucune idée';1;0
+e;15231944;'ayant aucune trace';1;0
+e;15345786;'emplois sans aucune qualification';1;0
+e;15320861;'en aucune sorte';1;0
+e;16133479;'aucune existence officielle';777;0
+e;16325892;'aucune des cibles';777;0
+e;6344773;'aucune perception de la lumière';1;0
+e;14300646;'n'avoir aucune chance';1;0
+e;15014779;'aucune mention';777;0
+e;6289966;'aucune maladie décelée';1;0
+e;10251168;'aucune équipe';777;0
+e;6682690;'n'avoir aucune empathie';1;0
+e;6427220;'aucune formation de liquide céphalorachidien';1;0
+e;10838999;'aucune source fiable trouvée';777;0
+e;7846339;'aucune cause retrouvée';1;0
+e;5559002;'aucune assurance complémentaire payante';777;0
+e;6450211;'aucune tumeur aux marges d'excision';1;0
+e;12764035;'Cet article ne cite aucune source et peut contenir des informations erronées';777;0
+e;8857594;'sans aucune supervision humaine';1;0
+e;12662553;'n'avoir aucune confiance';1;0
+e;15831227;'Il a accepté sans aucune hésitation.';1;0
+e;15502716;'Elle n'a soulevé aucune objection.';1;0
+e;15304057;'Il n'y avait aucune trace des voleurs.';1;0
+e;15400212;'Je n'en ai aucune idée.';1;0
+e;2355245;'avoir aucune raison de croire que';1;0
+e;3304523;'n'avoir aucune valeur';1;0
+e;1006303;'sans aucune exception';777;0
+e;3655626;'aucune importance';1;2
+e;2586142;'aucune norme supérieure à la loi ne doit se glisser entre le juge et le législateur';777;0
+e;332169;'aucune valeur';777;50
+e;378561;'sans aucune illusion';1;50
+e;378559;'sans aucune complaisance';1;50
+e;378595;'sans façon aucune';1;50
+e;350154;'en aucune manière';1;50
+e;378563;'sans aucune vergogne';1;50
+e;345958;'d'aucune manière';1;50
+e;378560;'sans aucune cérémonie';1;50
+e;350153;'en aucune circonstance';1;50
+e;378562;'sans aucune surprise';1;50
+e;249999;'sans aucune réserve';1;50
+e;164802;'aucune idée';1;54
+e;204181;'ne faire aucune différence';1;50
+e;135247;'aucune chose';1;56
+e;199136;'en aucune façon';1;50
+r;301512985;191742;6344316;11;25
+r;303131537;191742;6373338;11;25
+r;368106434;191742;14483427;11;25
+r;369491500;191742;14538028;11;25
+r;412791575;191742;15835343;11;25
+r;419518817;191742;15267252;11;25
+r;419562056;191742;15772002;11;25
+r;419621631;191742;15494080;11;25
+r;419621637;191742;15497464;11;25
+r;419621653;191742;15326378;11;25
+r;419621659;191742;15297131;11;25
+r;419628260;191742;15231946;11;25
+r;419640136;191742;15253267;11;25
+r;419640143;191742;15400210;11;25
+r;419640150;191742;15231944;11;25
+r;419835570;191742;15345786;11;25
+r;419836990;191742;15320861;11;25
+r;423347085;191742;16133479;11;25
+r;430768736;191742;16325892;11;25
+r;301547029;191742;6344773;11;26
+r;364096184;191742;14300646;11;26
+r;392144523;191742;15014779;11;26
+r;298410589;191742;6289966;11;27
+r;247443411;191742;10251168;11;34
+r;122622379;191742;6682690;11;36
+r;122717425;191742;6427220;11;36
+r;271602166;191742;10838999;11;36
+r;126453000;191742;7846339;11;41
+r;109947967;191742;5559002;11;43
+r;121045564;191742;6450211;11;47
+r;327622731;191742;12764035;11;47
+r;190417542;191742;8857594;11;50
+r;324024543;191742;12662553;11;50
+r;412565309;191742;15831227;11;50
+r;397499523;191742;15502716;11;50
+r;402108368;191742;15304057;11;50
+r;402272793;191742;15400212;11;50
+r;46967530;191742;2355245;11;51
+r;82859175;191742;3304523;11;51
+r;20949094;191742;1006303;11;53
+r;91371259;191742;3655626;11;53
+r;53855937;191742;2586142;11;59
+r;12124437;191742;332169;11;101
+r;12587591;191742;378561;11;103
+r;12587603;191742;378559;11;103
+r;12587419;191742;378595;11;104
+r;12702633;191742;350154;11;104
+r;12587579;191742;378563;11;106
+r;12720615;191742;345958;11;107
+r;12587597;191742;378560;11;108
+r;12702637;191742;350153;11;108
+r;12587585;191742;378562;11;110
+r;8713278;191742;249999;11;161
+r;8629265;191742;164802;11;162
+r;8674930;191742;204181;11;162
+r;8616822;191742;135247;11;164
+r;8666263;191742;199136;11;164

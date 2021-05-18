@@ -1,0 +1,1413 @@
+
+e;125695;'nombre';1;4538
+e;16152008;'nombre de planètes';777;0
+e;6324591;'répétitions en tandem en nombre variable';1;0
+e;6359996;'répétitions à faible nombre de copies';1;0
+e;14639059;'nombre total de calories';1;0
+e;12201628;'hantavirus sin nombre';1;0
+e;12197814;'détermination de la présence d'hantavirus sin nombre';1;0
+e;12194615;'mesure de variant structurel génomique nombre de copies';1;0
+e;12194577;'identification du type de variabilité nombre de copies chromosomiques';1;0
+e;12172453;'mesure de nombre d'heures après repas';1;0
+e;12172451;'mesure de nombre d'échantillon de sang occulte recommandé par le kit';1;0
+e;12172448;'mesure de nombre de prélèvements testés';1;0
+e;12172445;'mesure de nombre de prélèvements reçus';1;0
+e;12172443;'mesure de nombre de prélèvements obtenus';1;0
+e;12172441;'mesure de nombre de copies du chromosome changement panel';1;0
+e;12172427;'mesure de nombre de colonies';1;0
+e;12172425;'mesure de nombre de cigarettes fumées / jour';1;0
+e;12172423;'mesure de nombre';1;0
+e;12164348;'mesure de lactobacillus acidophilus nombre de colonies';1;0
+e;12163041;'nombre (log ratio)';1;0
+e;12156720;'détermination de la présence d'hantavirus sin nombre ac igm';1;0
+e;12156718;'mesure d'hantavirus sin nombre ac igm';1;0
+e;12156715;'détermination de la présence d'hantavirus sin nombre ac igg';1;0
+e;12156713;'mesure d'hantavirus sin nombre ac igg';1;0
+e;12156711;'détermination de la présence d'hantavirus sin nombre ac';1;0
+e;12139470;'mesure de coliforme nombre de colonies';1;0
+e;12138152;'mesure de chromosome 21 nombre présent';1;0
+e;12138143;'mesure de chromosome 18 nombre présent';1;0
+e;12138117;'mesure de chromosome 13 nombre présent';1;0
+e;12136399;'mesure de champignon nombre de colonies';1;0
+e;12135786;'mesure de cellules nombre total';1;0
+e;12234607;'mesure de métamyélocytes | comptage manuel | liquide céphalorachidien | ponctuel | résultat numérique | nombre';1;0
+e;12234606;'mesure de métamyélocytes | comptage manuel | liquide biologique | ponctuel | résultat numérique | nombre';1;0
+e;12234046;'mesure de lymphocytes totaux | comptage manuel | liquide céphalorachidien | ponctuel | résultat numérique | nombre';1;0
+e;12234045;'mesure de lymphocytes totaux | comptage manuel | liquide biologique | ponctuel | résultat numérique | nombre';1;0
+e;12232409;'mesure d'inv(16)(p13.1 | technique indéterminée | sang/tissu | ponctuel | résultat numérique | nombre (log ratio)';1;0
+e;6293851;'nombre total de lymphocytes t';1;0
+e;13731533;'nombre de Görtler';777;0
+e;6362464;'déficit immunitaire commun variable avec anomalies prédominantes du nombre et de la fonction des lymphocytes b';1;0
+e;6285110;'nombre de taches gastriques';1;0
+e;6356774;'nombre de gestations';1;0
+e;6373172;'nombre de plaques oesophagiennes';1;0
+e;6337432;'nombre de globules rouges diminué';1;0
+e;6380937;'nombre de lymphocytes t diminué';1;0
+e;6297511;'nombre de polypes du colon';1;0
+e;6332949;'nombre de spermatozoïdes augmenté ou diminué';1;0
+e;6321879;'nombre de polypes gastriques';1;0
+e;6394725;'nombre de calculs des voies biliaires';1;0
+e;6306450;'nombre de nodules oesophagiens';1;0
+e;6289591;'nombre de doigts non précisé polydactylie';1;0
+e;13993813;'nombre grammatical';777;0
+e;6407350;'nombre de papules gastriques';1;0
+e;14093460;'nombre bicomplexe';777;0
+e;14093468;'nombre dual';777;0
+e;6350065;'nombre de ectopie de muqueuse gastrique';1;0
+e;6372042;'nombre de cicatrices coliques';1;0
+e;6307742;'nombre de diverticules coliques';1;0
+e;6396556;'nombre de granulomes sur suture coliques';1;0
+e;14143378;'baisse du nombre de pinealocytes';1;0
+e;14143377;'nombre de pinealocytes';1;0
+e;14159180;'nombre de Niven';777;0
+e;14159171;'nombre hautement composé';777;0
+e;14159175;'nombre brésilien';777;0
+e;14159177;'nombre de Motzkin';777;0
+e;14159174;'nombre de Smith';777;0
+e;14303151;'nombre de victimes';777;18
+e;14434604;'nombre de personnes minimum requis';1;0
+e;14434603;'nombre de personnes maximum requis';1;0
+e;14434607;'nombre de places assises';1;0
+e;14454053;'nombre maximal de candidats';1;0
+e;14468436;'nombre congruent';777;0
+e;14482691;'Le plus grand nombre de grilles';777;0
+e;14490537;'nombre d'onde de Compton';777;0
+e;14558155;'Évolution du nombre de billets vendus';777;0
+e;14563009;'Évolution du nombre de visiteurs du Toulouse Game Show';777;0
+e;14573788;'nombre parfait multiple';777;0
+e;14573786;'nombre presque parfait';777;0
+e;14573790;'nombre hyperparfait';777;0
+e;14573808;'nombre équidigital';777;0
+e;14573805;'nombre sublime';777;0
+e;14573796;'nombre hautement abondant';777;0
+e;14573794;'nombre semi-parfait primitif';777;0
+e;14573806;'nombre à moyenne harmonique entière';777;0
+e;14573787;'nombre quasi parfait';777;0
+e;14573801;'nombre déficient';777;0
+e;14573791;'nombre unitairement parfait';777;0
+e;14573793;'nombre pseudoparfait';777;0
+e;14573803;'nombre sociable';777;0
+e;14573807;'nombre frugal';777;0
+e;14590075;'nombre 115';777;0
+e;14606313;'un grand nombre de fois';1;0
+e;14606724;'course au nombre de publications';1;0
+e;14610837;'nombre tauique';777;0
+e;14610836;'nombre muonique';777;0
+e;14610840;'nombre rectangle';777;0
+e;14610835;'nombre électronique';777;0
+e;14629031;'nombre total';1;0
+e;14630901;'supérieures en nombre';1;0
+e;14630911;'supérieurs en nombre';1;0
+e;14633398;'nombre de masse nucléaire';777;0
+e;14633397;'nombre de masse atomique';777;0
+e;14633399;'nombre de nucléons';777;0
+e;14655134;'nombre d'échelons administratifs';777;0
+e;14726739;'Évolution du nombre de logements par catégorie';777;0
+e;6373770;'modification du nombre des chromosomes';1;0
+e;14890699;'véhicules transportant un nombre minimal d'occupants';777;0
+e;6374692;'augmentation du nombre des plaquettes';1;0
+e;15787046;'nombre total de nouveaux cas';1;0
+e;15915728;'nombre de jours';1;0
+e;15921662;'être du nombre';1;0
+e;15921665;'nombre de personnes infectées';1;0
+e;15950696;'nombre de personnes malades';1;0
+e;15958180;'plus grand nombre de buts inscrits';777;0
+e;15958183;'plus grand nombre de victoires à l'extérieur';777;0
+e;16109541;'Évolution mensuelle du nombre d'applications sur le Samsung Apps';777;0
+e;16158292;'nombre de stomates';777;0
+e;16158293;'nombre de feuilles';777;0
+e;16159928;'Évolution du nombre de visiteurs';777;0
+e;16162942;'nombre six';777;0
+e;16183915;'nombre de parts possédées';1;0
+e;16282859;'nombre d'hospitalisations';1;0
+e;16282858;'nombre d'hospitalisations et de décès';1;0
+e;16282860;'nombre de décès';1;0
+e;16317992;'nombre 365';777;0
+e;16335910;'grand nombre de données';1;0
+e;16389634;'nombre deux';777;0
+e;16389633;'nombre 2';777;0
+e;16545739;'nombre quatre';777;0
+e;16573651;'un grand nombre de ...';1;0
+e;15023373;'accords en genre et en nombre';1;0
+e;12116490;'nombre de cigarettes fumées';1;0
+e;12092782;'cellules nombre total';1;0
+e;12199423;'nombre de Juifs par pays';777;0
+e;12236345;'mesure de nombre de colonies | technique indéterminée | urine | ponctuel | résultat numérique | nombre/volume';1;0
+e;12236344;'mesure de nombre de colonies | comptage visuel | milieux divers | ponctuel | résultat numérique | nombre/volume';1;0
+e;12236343;'mesure de nombre de colonies | technique indéterminée | liquide de dialyse | ponctuel | résultat numérique | nombre/volume';1;0
+e;12236342;'mesure de nombre de colonies | comptage plaque sur culture standard | lait | ponctuel | résultat numérique | nombre/volume';1;0
+e;12236341;'mesure de nombre de colonies | culture | implant | ponctuel | résultat numérique | nombre/volume';1;0
+e;12236340;'mesure de nombre de colonies | culture | cathéter | ponctuel | résultat numérique | nombre/volume';1;0
+e;12236339;'mesure de nombre de colonies | comptage visuel | milieux divers | ponctuel | résultat numérique | nombre/masse';1;0
+e;12236338;'mesure de nombre de colonies | viabilité .fda | milieux divers | ponctuel | résultat numérique | arbitraire/volume';1;0
+e;12236337;'mesure de nombre de colonies | comptage visuel | milieux divers | ponctuel | résultat numérique | arbitraire/volume';1;0
+e;12235759;'mesure de myélocytes | comptage manuel | liquide céphalorachidien | ponctuel | résultat numérique | nombre';1;0
+e;12235758;'mesure de myélocytes | comptage manuel | liquide biologique | ponctuel | résultat numérique | nombre';1;0
+e;12235328;'mesure de monocytes+macrophages | comptage manuel | liquide céphalorachidien | ponctuel | résultat numérique | nombre';1;0
+e;12235327;'mesure de monocytes+macrophages | comptage manuel | liquide biologique | ponctuel | résultat numérique | nombre';1;0
+e;12978773;'polynôme minimal d'un nombre algébrique';777;0
+e;6321441;'nombre total des spermatozoïdes diminué';1;0
+e;11009334;'méga-nombre';1;0
+e;14321910;'nombre de pages';1;2
+e;14530454;'nombre de lettres';1;0
+e;14530460;'nombre de votants';1;6
+e;14530519;'nombre d'inscrits';1;8
+e;14530520;'nombre de suffrages';1;0
+e;14722193;'nombre d'exemplaires';1;0
+e;14726586;'nombre de morts';1;0
+e;14733224;'s'accorder en genre et en nombre';1;0
+e;15039837;'Répartition du nombre de conseillers municipaux selon les groupes';777;0
+e;15953361;'nombre de minutes';1;0
+e;5786115;'par nombre total de locuteurs natifs';777;0
+e;6433086;'nombre d'enfants envisagé';1;0
+e;12088752;'actinomycètes thermophiles nombre de colonies';1;0
+e;12099717;'lactobacillus acidophilus nombre de colonies';1;0
+e;12097636;'hantavirus sin nombre ac igm';1;0
+e;12097635;'hantavirus sin nombre ac igg';1;0
+e;12097634;'hantavirus sin nombre ac';1;0
+e;12093680;'coliforme nombre de colonies';1;0
+e;12093341;'chromosome 21 nombre présent';1;0
+e;12093338;'chromosome 18 nombre présent';1;0
+e;12093329;'chromosome 13 nombre présent';1;0
+e;12092942;'champignon nombre de colonies';1;0
+e;12988985;'nombre chanceux d'Euler';1;0
+e;14573798;'nombre superabondant';777;0
+e;6439788;'nombre d'abcès du système nerveux central';1;0
+e;12101808;'nombre d'heures après repas';1;0
+e;12101807;'nombre d'échantillon de sang occulte recommandé par le kit';1;0
+e;12101806;'nombre de prélèvements testés';1;0
+e;12101805;'nombre de prélèvements reçus';1;0
+e;12101804;'nombre de prélèvements obtenus';1;0
+e;12101803;'nombre de copies du chromosome changement panel';1;0
+e;12101802;'nombre de colonies';1;0
+e;12101801;'nombre de cigarettes fumées / jour';1;0
+e;12240072;'mesure de protéines fractions oligoclonales | technique indéterminée | sérum/plasma | ponctuel | résultat numérique | nombre';1;0
+e;12240071;'mesure de protéines fractions oligoclonales | isoélectrofocalisation | liquide céphalorachidien | ponctuel | résultat numérique | nombre';1;0
+e;12240070;'mesure de protéines fractions oligoclonales | Électrophorèse | liquide céphalorachidien | ponctuel | résultat numérique | nombre';1;0
+e;12239828;'mesure de promyélocytes | comptage manuel | liquide céphalorachidien | ponctuel | résultat numérique | nombre';1;0
+e;12239827;'mesure de promyélocytes | comptage manuel | liquide biologique | ponctuel | résultat numérique | nombre';1;0
+e;12239492;'mesure de position sur la bande iscn | biologie moléculaire | villosités choriales | ponctuel | résultat qualitatif | nombre';1;0
+e;12239491;'mesure de position sur la bande iscn | biologie moléculaire | sang/tissu | ponctuel | résultat qualitatif | nombre';1;0
+e;12239490;'mesure de position sur la bande iscn | biologie moléculaire | liquide amniotique | ponctuel | résultat qualitatif | nombre';1;0
+e;12239341;'mesure de polynucléaires neutrophiles à noyau peu segmenté | comptage manuel | liquide céphalorachidien | ponctuel | résultat numérique | nombre';1;0
+e;12239340;'mesure de polynucléaires neutrophiles à noyau peu segmenté | comptage manuel | liquide biologique | ponctuel | résultat numérique | nombre';1;0
+e;12239327;'mesure de polynucléaires neutrophiles | comptage manuel | liquide céphalorachidien | ponctuel | résultat numérique | nombre';1;0
+e;12239326;'mesure de polynucléaires neutrophiles | comptage manuel | liquide biologique | ponctuel | résultat numérique | nombre';1;0
+e;12239238;'mesure de polynucléaires éosinophiles | comptage manuel | liquide céphalorachidien | ponctuel | résultat numérique | nombre';1;0
+e;12239237;'mesure de polynucléaires éosinophiles | comptage manuel | liquide biologique | ponctuel | résultat numérique | nombre';1;0
+e;12239188;'mesure de polynucléaires basophiles | comptage manuel | liquide céphalorachidien | ponctuel | résultat numérique | nombre';1;0
+e;12239187;'mesure de polynucléaires basophiles | comptage manuel | liquide biologique | ponctuel | résultat numérique | nombre';1;0
+e;12236352;'mesure de nombre de prélèvements testés | technique indéterminée | milieux divers | ponctuel | résultat numérique | nombre';1;0
+e;12236351;'mesure de nombre de prélèvements testés | technique indéterminée | selles | Étude | résultat numérique | nombre';1;0
+e;12236350;'mesure de nombre de prélèvements reçus | technique indéterminée | milieux divers | ponctuel | résultat numérique | nombre';1;0
+e;12236349;'mesure de nombre de prélèvements reçus | technique indéterminée | selles | Étude | résultat numérique | nombre';1;0
+e;12236348;'mesure de nombre de colonies | comptage visuel | urine | ponctuel | résultat numérique | nombre';1;0
+e;12236347;'mesure de nombre de colonies | comptage visuel | milieux divers | ponctuel | résultat qualitatif | nombre';1;0
+e;12236346;'mesure de nombre de colonies | comptage visuel | milieux divers | ponctuel | résultat numérique | nombre';1;0
+e;12988977;'nombre pseudo-premier d'Euler';1;0
+e;12988984;'nombre eulérien';1;0
+e;5686728;'nombre de Dottie';777;0
+e;5724598;'nombre dénormalisé';777;0
+e;6431497;'nombre d'aphtes coliques';1;0
+e;12109928;'hantavirus sin nombre ag';1;0
+e;11770365;'agglomérations de Japon par nombre d'habitants';777;0
+e;12108281;'variant structurel génomique nombre de copies';1;0
+e;12108265;'variabilité nombre de copies chromosomiques';1;0
+e;6440833;'variations de nombre de copies de segment d'adn';1;0
+e;9955490;'nombre de Strahler';777;0
+e;9958847;'liste des principales villes d'Italie par nombre d'habitants';777;0
+e;9959009;'liste des villes d'Australie par nombre d'habitants';777;0
+e;10909175;'nombre de chiffres précis';777;0
+e;10903754;'nombre 21';777;0
+e;11049449;'nombre écrit en chiffres romains';1;0
+e;15660467;'depuis nombre d'années';1;0
+e;15574759;'diminution du nombre';1;0
+e;15574767;'diminution du nombre de chômeurs';1;0
+e;15199370;'en nombre infini';1;0
+e;15417060;'en nombre réduit';1;0
+e;15355000;'en très grand nombre';1;0
+e;5816827;'nombre de Grashof';777;0
+e;5816762;'nombre de Froude';777;0
+e;5816647;'nombre de Prandtl';777;0
+e;5816642;'nombre de Nusselt';777;0
+e;5816247;'nombre de Knudsen';777;0
+e;6431677;'nombre de copies d'arn du vih diminué';1;0
+e;10971045;'nombre d'Arméniens morts entre 1914 et 1923 durant le génocide arménien';777;0
+e;12241860;'mesure de spermatozoïdes progressifs | comptage automate | sperme | ponctuel | résultat numérique | nombre';1;0
+e;12241849;'mesure de spermatozoïdes mobiles | comptage automate | sperme | ponctuel | résultat numérique | nombre';1;0
+e;15574772;'convention de calcul du nombre de jours';1;0
+e;5671153;'nombre mille';777;0
+e;5669110;'nombre de Cullen';777;0
+e;5724619;'nombre arbitraire';1;0
+e;5815476;'Roue à nombre variable de dents';777;0
+e;10968799;'principaux accidents aériens au regard du nombre de victimes';777;0
+e;11049450;'nombre écrit en chiffres arabes';1;0
+e;15789836;'contenir en grand nombre';1;0
+e;15760236;'au nombre de mes amis';1;0
+e;15574762;'augmentation du nombre des abonnés';1;0
+e;15574771;'augmentation massive du nombre de qch';1;0
+e;15524255;'avoir l'avantage du nombre';1;0
+e;15300787;'bon nombre';1;0
+e;15660464;'bon nombre d'entre';1;0
+e;15379816;'chauves-souris volant en grand nombre, annoncent le beau temps dans la nuit noire';1;0
+e;11063458;'nombre de sujets nécessaires';777;0
+e;11064981;'nombre de Delannoy';777;0
+e;11077640;'nombre i';777;0
+e;11406029;'nombre de Graham';777;0
+e;11807003;'nombre de communes en France';777;0
+e;13091421;'un grand nombre de';1;0
+e;13091420;'un grand nombre d'';1;0
+e;15417058;'chausser du + [nombre]';1;0
+e;15290750;'arrondir au nombre le plus proche';1;0
+e;1840009;'nombre de liaisons de l'ADN';1;0
+e;1840008;'nombre de base';1;0
+e;1840011;'nombre de torsions de l'adn';1;0
+e;1840010;'nombre d'enroulements de l'adn';1;0
+e;5784787;'liste de langues par nombre total de locuteurs';777;0
+e;5840181;'nombre d'équilibre de l'endosperme';777;0
+e;5954292;'nombre de traits';777;0
+e;5953142;'nombre 90';777;0
+e;9937342;'nombre constructible à la règle et au compas';777;0
+e;10936712;'nombre d'Ursell';777;0
+e;11080756;'nombre exponentiel';777;0
+e;11080755;'nombre e';777;0
+e;12078241;'courrier en nombre';1;0
+e;16133681;'Ils sont au nombre de 50.';1;0
+e;15246674;'Treize est un nombre impair.';1;0
+e;15854667;'Un certain nombre de critiques et des partisans';777;0
+e;5894317;'nombre pseudo-réel';777;0
+e;10842983;'nombre de rotation';777;0
+e;10842743;'nombre premier de Ramanujan';777;0
+e;10995052;'module d'un nombre complexe';777;0
+e;11361135;'nombre de Dunbar';777;0
+e;11414463;'Aéroports norvégiens classés par le nombre de passagers';777;0
+e;13426613;'nombre 171';777;0
+e;12068013;'nombre d'habitants';777;0
+e;12068955;'dans un bon nombre de cas';1;0
+e;12080191;'nombre d'états de spin';1;0
+e;12080190;'nombre de DPA';1;0
+e;12080189;'nombre de déplacements par atome';1;0
+e;12871186;'nombre 7';777;0
+e;15748753;'Le nombre d'activités';777;0
+e;15392023;'Le nombre d'agressions a doublé.';1;0
+e;15691499;'Le nombre d'employés s'élève à 20.';1;0
+e;15523410;'Le nombre de chômeurs augmente.';1;0
+e;15271694;'Le nombre de victimes était élevé.';1;0
+e;15447825;'Les chirurgiennes sont toujours en nombre lamentablement peu élevé.';1;0
+e;16437720;'Fréquentation du château de Cheverny de 2011 à 2016en nombre de visiteurs annuels';777;0
+e;5782415;'représentation d'un nombre en virgule fixe';777;0
+e;5946919;'acquisition du nombre';777;0
+e;5983543;'nombre de Richardson';777;0
+e;11288121;'classés par nombre de passagers';777;0
+e;11440227;'nombre 366';777;0
+e;12049795;'fraction de nombre';1;0
+e;12067911;'augmentation du nombre des plaquettes sanguines';1;0
+e;12080193;'nombre premier jumeau';1;0
+e;12080192;'nombre malheureux';1;0
+e;15782586;'Nation ayant disputé le plus grand nombre de finales d'affilée';777;0
+e;15782587;'Nation ayant gagné le plus grand nombre de titres consécutifs';777;0
+e;5999646;'variabilité du nombre de copies';777;0
+e;6444025;'nombre d'enfants désiré';1;0
+e;6434489;'variants de nombre de copies de segment d'adn';1;0
+e;11288416;'aéroports les plus fréquentés du monde par nombre de passagers';777;0
+e;11590412;'nombre de doublets';777;0
+e;11590411;'nombre stérique';777;0
+e;11839681;'liste des 101 départements français classés par nombre décroissant de communes';777;0
+e;11840000;'nombre 47';777;0
+e;6437083;'modifications de nombre de copies de segment d'adn';1;0
+e;11289762;'100 aéroports en Europe ayant le plus important nombre annuel de passagers';777;0
+e;2422621;'nombre de Gödel';1;0
+e;5896697;'nombre 13';777;0
+e;7333994;'métrique nombre';1;0
+e;10524478;'nombre de Deborah';777;0
+e;11237653;'nombre 110';777;0
+e;11237781;'baisse du nombre de leucocytes';1;0
+e;11957341;'reclassification d'un grand nombre de ses bâtiments de surface';777;0
+e;12053797;'nombre taxicab';777;0
+e;10364789;'nombre intouchable';777;0
+e;11003643;'nombre d'Eisenstein premier';777;0
+e;11003641;'plus grand nombre premier connu';777;0
+e;11003616;'nombre premier palindrome';777;0
+e;11003564;'nombre premier de Gauss';777;0
+e;11003540;'nombre premier pythagoricien';777;0
+e;11003530;'nombre 109';777;0
+e;11003432;'nombre cyclique';777;0
+e;11003391;'nombre ennéagonal';777;0
+e;11003385;'nombre tétraédrique';777;0
+e;11002526;'nombre 1';777;0
+e;11249463;'persistance d'un nombre';777;0
+e;11976416;'nombre octogonal';777;0
+e;2386718;'nombre magique';1;0
+e;5553553;'racine n-ième d'un nombre';777;0
+e;5946889;'développement du nombre';777;0
+e;6450246;'nombre de copies d'arn du vih augmenté';1;0
+e;11002528;'nombre 40';777;0
+e;11003382;'nombre premier de Sophie Germain';777;0
+e;11003433;'nombre phénix';777;0
+e;11003414;'nombre 243';777;0
+e;11003417;'nombre 36';777;0
+e;11003386;'nombre pyramidal triangulaire';777;0
+e;11003418;'nombre 216';777;0
+e;11003394;'nombre ennéagonal centré';777;0
+e;11003383;'nombre décagonal';777;0
+e;11003396;'puissance d'un nombre';777;0
+e;11003381;'nombre octogonal centré';777;0
+e;11003392;'nombre nonagonal';777;0
+e;11003395;'nombre de Kaprekar';777;0
+e;11003390;'nombre heptagonal centré';777;0
+e;11003387;'nombre octaédrique';777;0
+e;11003389;'nombre étrange';777;0
+e;11003393;'nombre pyramidal carré';777;0
+e;11003384;'nombre pyramidal pentagonal';777;0
+e;11003528;'nombre hexagonal centré';777;0
+e;11003537;'nombre premier primoriel';777;0
+e;11003539;'nombre premier de Pythagore';777;0
+e;11003571;'nombre de Kynea';777;0
+e;11003579;'nombre de Perrin';777;0
+e;11003589;'nombre premier illégal';777;0
+e;11003582;'bon nombre premier';777;0
+e;11003609;'nombre premier supersingulier';777;0
+e;11003573;'nombre premier de Wagstaff';777;0
+e;11003586;'nombre fortuné';777;0
+e;11003626;'nombre de Smarandache-Wellin';777;0
+e;11003610;'nombre premier de Wall-Sun-Sun';777;0
+e;11003620;'nombre premier permutable';777;0
+e;11003647;'nombre semi-premier';777;0
+e;11003644;'nombre premier d'Eisenstein';777;0
+e;11003583;'nombre chanceux';777;0
+e;11003614;'nombre premier de Wilson';777;0
+e;11003536;'nombre premier factoriel';777;0
+e;11003623;'nombre premier minimal';777;0
+e;11003578;'nombre de Bell';777;0
+e;11003627;'nombre premier de Chen';777;0
+e;11003650;'nombre premier probable';777;0
+e;11003581;'nombre de Newman-Shanks-Williams';777;0
+e;11003611;'nombre premier de Wieferich';777;0
+e;11003575;'nombre de Woodall';777;0
+e;11003637;'nombre premier titanesque';777;0
+e;11003380;'nombre cubique centré';777;0
+e;11003584;'nombre premier chanceux';777;0
+e;11003591;'nombre premier de Stern';777;0
+e;11003649;'nombre interpremier';777;0
+e;11003615;'nombre premier de Wolstenholme';777;0
+e;11003568;'nombre double de Mersenne';777;0
+e;11003570;'nombre de Carol';777;0
+e;11003628;'nombre premier équilibré';777;0
+e;11003621;'nombre premier circulaire';777;0
+e;11003587;'nombre premier de Higgs';777;0
+e;11003590;'nombre premier de Pillai';777;0
+e;11003560;'nombre de Pythagore';777;0
+e;11003512;'nombre heptagonal';777;0
+e;11003624;'nombre premier long';777;0
+e;11174971;'nombre de puissance';777;0
+e;11174931;'nombre de Davies';777;0
+e;11174914;'nombre de Rouse';777;0
+e;11174895;'nombre d'Archimède';777;0
+e;11237780;'baisse du nombre de leucocytes totaux';1;0
+e;5946920;'construction du nombre chez l'enfant';777;0
+e;5981310;'nombre de Lewis';777;0
+e;11003388;'nombre premier cubain';777;0
+e;11003693;'nombre 563';777;0
+e;11003576;'nombre premier de Fibonacci';777;0
+e;11012155;'augmentation du nombre de migrants';1;0
+e;11155015;'nombre réel calculable';777;0
+e;11161296;'nombre de Kimberling';777;0
+e;11174903;'nombre de Fedorov';777;0
+e;11174863;'nombre de Goulard';777;0
+e;11174930;'nombre de Best';777;0
+e;11174911;'nombre de Kutateladze';777;0
+e;11174897;'nombre de Bond';777;0
+e;11174908;'nombre de Hersey';777;0
+e;11174913;'nombre de Reech';777;0
+e;11174928;'nombre de Bejan';777;0
+e;11174905;'nombre de Goucher';777;0
+e;11174947;'nombre de Cowling';777;0
+e;11174968;'nombre de Mach critique';777;0
+e;11174926;'nombre de Bagnold';777;0
+e;11174969;'nombre de Marangoni';777;0
+e;11174956;'nombre de Gukhman';777;0
+e;11174962;'nombre de Kirpichev';777;0
+e;11174865;'nombre de Péclet';777;0
+e;11174921;'nombre de Weber';777;0
+e;11174972;'nombre de Newton';777;0
+e;11174934;'nombre de Blake';777;0
+e;11174898;'nombre de Boussinesq';777;0
+e;11174918;'nombre d'absorption';777;0
+e;11174960;'nombre de Joule';777;0
+e;11174946;'nombre de condensation';777;0
+e;11174906;'nombre de Hartmann';777;0
+e;11174970;'nombre de Morton';777;0
+e;11174943;'nombre de cavitation';777;0
+e;11174916;'nombre de Stewart';777;0
+e;11174942;'nombre de Cauchy';777;0
+e;11174915;'nombre de Schmidt';777;0
+e;11174976;'nombre de Stanton';777;0
+e;11174949;'nombre de Damköhler';777;0
+e;11174900;'nombre capillaire';777;0
+e;11174907;'nombre de Hedström';777;0
+e;11174965;'nombre de Laplace';777;0
+e;11174958;'nombre de Hagen';777;0
+e;11174954;'nombre d'Eötvös';777;0
+e;11174920;'nombre de Taylor';777;0
+e;11174941;'nombre de capillarité';777;0
+e;11174948;'nombre de Crocco';777;0
+e;11174950;'nombre de Dean';777;0
+e;11174923;'nombre d'Alfven';777;0
+e;11174922;'nombre d'accélération';777;0
+e;11174955;'nombre de Graetz';777;0
+e;11174978;'nombre de Womersley';777;0
+e;11174904;'nombre de Galilée';777;0
+e;11174936;'nombre de Thring';777;0
+e;11174951;'nombre d'Eckert';777;0
+e;11174899;'nombre de Bulygin';777;0
+e;11174901;'nombre d'Ekman';777;0
+e;11174973;'nombre de Reynolds magnétique';777;0
+e;11174910;'nombre de Karlovitz';777;0
+e;11174912;'nombre d'Ohnesorge';777;0
+e;11174977;'nombre de Stokes';777;0
+e;11174917;'nombre de Stuart';777;0
+e;11174902;'nombre d'Ellis';777;0
+e;11174935;'nombre de Bodenstein';777;0
+e;11174957;'nombre de Hatta';777;0
+e;11174974;'nombre de Schiller';777;0
+e;11174944;'nombre de Clausius';777;0
+e;11174939;'nombre de Boltzmann';777;0
+e;11174967;'nombre de Lundquist';777;0
+e;11175217;'Sur le nombre de nombres premiers inférieurs à une taille donnée';777;0
+e;11175023;'nombre adimensionnel';1;0
+e;12283269;'nombre 54';777;0
+e;5526910;'nombre de Rayleigh';777;0
+e;5984445;'nombre de Rossby';777;0
+e;5980293;'nombre d'onde';777;0
+e;6443749;'nombre de copies d'arn du vih indétectable';1;0
+e;10462072;'le nombre 23';777;0
+e;11155014;'nombre de Liouville';777;0
+e;11174864;'nombre de Strouhal';777;0
+e;11174940;'nombre de Brinkman';777;0
+e;11174959;'nombre de Jeffreys';777;0
+e;11174925;'nombre d'Atwood';777;0
+e;11174927;'nombre de Bansen';777;0
+e;11174953;'nombre d'Elsasser';777;0
+e;11174963;'nombre de Kirpitcheff';777;0
+e;11174975;'nombre de Sherwood';777;0
+e;2386067;'nombre abondant';1;0
+e;16365016;'Classement des CPGE selon le nombre d'admis à l'ENS Rennes en 2019';777;0
+e;15417085;'[nombre] + parmi + [nombre]';1;0
+e;5557091;'nombre presque entier';777;0
+e;5946915;'apprentissage du nombre';777;0
+e;2416476;'nombre domatique';1;0
+e;5981301;'nombre de Biot';777;0
+e;5946890;'construction du nombre';777;0
+e;8462601;'augmentation du nombre de globules rouges';1;0
+e;5673373;'Le nombre de degré de liberté est égal au nombre d'observations moins le nombre de relations entre ces observations';777;0
+e;15502860;'Choisissez un nombre supérieur à cent.';1;0
+e;8568668;'racine d'un nombre';777;0
+e;9824716;'nombre de places';1;14
+e;8857597;'nombre de kilomètres parcourus';1;0
+e;8900195;'nombre 4';777;0
+e;9022635;'nombre 48';777;0
+e;9028011;'nombre heureux';777;0
+e;9199756;'nombre primaire';777;0
+e;9253747;'nombre 96';777;0
+e;9570579;'nombre constructible';1;0
+e;9661109;'nombre 29';777;0
+e;9698320;'nombre 32';777;0
+e;9739954;'nombre 64';777;0
+e;9747208;'nombre de portes';1;52
+e;9747175;'nombre de chevaux';1;16
+e;11127135;'nombre d'enfants par femme';1;0
+e;12247985;'mesure de t(9;22)(q34.1;q11)(abl1,bcr) transcrit de fusion/transcrit de référence | biologie moléculaire | sang/tissu | ponctuel | résultat numérique | nombre (log ratio)';1;0
+e;12247984;'mesure de t(9;22)(q34.1;q11)(abl1,bcr) transcrit de fusion/transcrit de référence | biologie moléculaire | moelle osseuse | ponctuel | résultat numérique | nombre (log ratio)';1;0
+e;12618729;'grand nombre de participants';1;0
+e;12680924;'nombre 0';777;0
+e;12635870;'poser nombre de questions';1;0
+e;12617287;'rassembler un grand nombre de participants';1;0
+e;12617286;'rassembler un grand nombre de discussions';1;0
+e;12715676;'nombre de clique';777;0
+e;15220806;'Ils sont venus en nombre.';1;0
+e;15380957;'C'est lamentable que le nombre de chirurgiennes soit toujours aussi faible.';1;0
+e;14543831;'Corrélation de l'âge du début de la maladie et du nombre de CAG';777;0
+e;15885104;'Augmenter le nombre de dioptres';777;0
+e;15904052;'Courbe d'évolution du nombre de communes du département de la Vendée depuis 1789';777;0
+e;16319978;'4 fois le nombre 6';777;0
+e;5521666;'cas particulier de nombre polygonal';1;0
+e;2951166;'Évolution mensuelle du nombre d'applications sur Google Play';777;0
+e;584696;'nombre dix';777;0
+e;566493;'nombre 102';777;50
+e;584317;'nombre 60';777;0
+e;1139033;'nombre hexagonal';1;0
+e;2952690;'nombre d'ouverture';777;0
+e;3568056;'nombre 6';777;0
+e;79138;'loi des grands nombres';1;68
+e;1781465;'nombre de passagers';1;0
+e;2361052;'nombre moyen de respirations';1;0
+e;1781620;'surpasser en nombre';1;0
+e;2549530;'nombre sécant';1;0
+e;2512272;'nombre zig-zag';1;0
+e;5116986;'nombre baryonique';1;0
+e;566496;'nombre 160';777;50
+e;2951168;'Évolution mensuelle du nombre de téléchargements d'applications sur Google Play';777;0
+e;3171891;'nombre d'individus';1;0
+e;2490661;'nombre à virgule flottante';1;0
+e;2627404;'nombre d'Euler';1;0
+e;3175912;'nombre d';777;0
+e;3319997;'nombre le plus probable';1;0
+e;566502;'nombre 104';777;50
+e;2356034;'nombre pentagonal';1;0
+e;569652;'nombre 20';777;50
+e;1799002;'nombre de Fermat';1;0
+e;2587857;'problème du nombre domatique';777;0
+e;2918835;'nombre d'atomes';1;0
+e;5521667;'nombre polygonal';1;0
+e;2513328;'nombre gordien';1;0
+e;2583465;'Evolution démographique - évolution du nombre d'habitants';777;0
+e;3230521;'considérable en nombre';1;0
+e;1887316;'nombre 12';777;0
+e;2924684;'Sin nombre';777;0
+e;3173096;'automate avec un nombre fini d'états';777;0
+e;1858922;'sin nombre';777;0
+e;366516;'nombre pyramidal';1;50
+e;366511;'nombre fantastique';1;50
+e;357528;'hausse du nombre des demandeurs d'emploi';1;50
+e;351028;'en petit nombre';1;50
+e;350661;'en faible nombre';1;50
+e;348537;'du nombre de';1;50
+e;338210;'baisse du nombre des demandeurs d'emploi';1;50
+e;371245;'plus grand nombre';1;50
+e;366506;'nombre non négligeable';1;50
+e;366497;'nombre astronomique';1;50
+e;366509;'nombre d'ondes';1;50
+e;333232;'accord en genre et en nombre';1;52
+e;366518;'nombre rompu';1;50
+e;366517;'nombre record de demandes d'emplois';1;50
+e;366513;'nombre leptonique';1;50
+e;366502;'nombre exact';1;50
+e;366519;'nombre triadique';1;50
+e;366514;'nombre nul';1;50
+e;366503;'nombre grandissant';1;50
+e;366510;'nombre des immatriculations';1;50
+e;366507;'nombre négligeable';1;50
+e;366498;'nombre concret';1;50
+e;347454;'diminution du nombre des demandeurs d'emploi';1;50
+e;366508;'nombre pythagorique';1;50
+e;366499;'nombre cubique';1;50
+e;366505;'nombre nombrant';1;50
+e;366504;'nombre incroyable';1;50
+e;366501;'nombre diviseur';1;50
+e;366500;'nombre de degrés de liberté';1;50
+e;350742;'en grand nombre';1;50
+e;64075;'nombre-guide';1;50
+e;330846;'nombre de Mersenne premier';777;50
+e;330845;'nombre premier de Mersenne';1;50
+e;323242;'nombre d'années';1;50
+e;329432;'nombre d'animaux';777;50
+e;329618;'envoi en nombre';1;50
+e;325221;'nombre de cordes';777;50
+e;314304;'nombre de Fibonacci';1;50
+e;314305;'nombre de Mersenne';1;50
+e;314306;'nombre entier naturel';1;50
+e;314307;'nombre entier relatif';1;50
+e;314308;'nombre lisse';1;50
+e;314309;'nombre normal';1;50
+e;314310;'nombre univers';1;50
+e;314484;'nombre polymonadique';777;50
+e;101807;'un grand nombre';1;50
+e;221625;'nombre d'Abbe';1;62
+e;230107;'petit nombre';1;56
+e;230172;'nombre irrationnel';1;54
+e;232193;'nombre gnomonique';1;50
+e;232368;'nombre triangulaire';1;50
+e;234126;'nombre de la Bête';1;4
+e;260181;'nombre dérivé';1;2
+e;313757;'nombre sans dimension';1;50
+e;313800;'nombre quantique de spin';1;50
+e;65468;'nombre complexe';1;56
+e;100600;'nombre caractéristique';1;50
+e;124643;'un certain nombre';1;50
+e;171459;'du nombre';1;50
+e;210803;'extraire la racine d'un nombre';1;50
+e;211392;'nième d'un nombre';1;50
+e;211404;'nombre d'Avogadro';1;60
+e;211405;'nombre d'étoiles';1;50
+e;16101;'le plus grand nombre';1;50
+e;44328;'nombre figuré';1;54
+e;87022;'nombre de Reynolds';1;50
+e;128387;'nombre atomique';1;50
+e;155541;'nombre réel';1;56
+e;171365;'dans le nombre';1;50
+e;171701;'sans nombre';1;50
+e;172524;'nombre naturel';1;50
+e;173815;'nombre de charge';1;4
+e;173816;'nombre de masse';1;4
+e;180590;'nombre quantique';1;50
+e;183388;'nombre abstrait';1;50
+e;183389;'nombre rond';1;50
+e;203164;'loi de diminution du nombre des organes';1;50
+e;204421;'nom de nombre';1;50
+e;204427;'nombre aléatoire';1;50
+e;204428;'nombre algébrique';1;50
+e;204429;'nombre aliquante';1;50
+e;204430;'nombre aliquote';1;50
+e;204431;'nombre amiable';1;50
+e;204432;'nombre arithmétique';1;50
+e;204433;'nombre cardinal';1;50
+e;204434;'nombre congru';1;50
+e;204435;'nombre de Mach';1;50
+e;204436;'nombre divisible';1;50
+e;204437;'nombre fractionnaire';1;50
+e;204438;'nombre homogène';1;50
+e;204439;'nombre hypercomplexe';1;50
+e;204440;'nombre infini';1;50
+e;204441;'nombre infinitésimal';1;50
+e;204442;'nombre multiple';1;50
+e;204443;'nombre ordinal';1;50
+e;204444;'nombre parfait';1;50
+e;204445;'nombre pi';1;50
+e;204446;'nombre positif';1;50
+e;204447;'nombre pur';1;50
+e;204448;'nombre relatif';1;64
+e;204449;'nombre scalaire';1;50
+e;204450;'nombre transcendant';1;50
+e;265204;'nombre composé';1;50
+e;266974;'nombre de parts';1;50
+e;266975;'nombre d'enfants';1;50
+e;268195;'nombre négatif';1;50
+e;269978;'nombre de chambres allouées';1;50
+e;271197;'anomalie de nombre';1;50
+e;280042;'nombre imaginaire pur';777;50
+e;281624;'nombre de coordination';777;50
+e;288382;'nombre cyclomatique';1;50
+e;290413;'nombre chromatique';777;50
+e;306561;'nombre quantique tertiaire';777;50
+e;308149;'nombre d'oxydation';777;50
+e;308724;'nombre quantique azimutal';777;50
+e;309140;'nombre de moles';777;50
+e;313018;'nombre de Pell';1;50
+e;187744;'nombre quantique magnétique';1;50
+e;187745;'nombre quantique principal';1;50
+e;187746;'nombre quantique secondaire';1;50
+e;197047;'bon nombre de';1;50
+e;199325;'en nombre';1;50
+e;15727;'nombre carré';1;50
+e;21123;'nombre imaginaire';1;52
+e;22017;'nombre de';1;50
+e;199075;'élever un nombre au carré';1;50
+e;200571;'faire nombre';1;50
+e;200981;'figurer au nombre des';1;50
+e;1362;'au nombre de';1;50
+e;163917;'nombre impair';1;78
+e;165287;'nombre rationnel';1;50
+e;166081;'nombre décimal';1;56
+e;166082;'nombre pair';1;52
+e;165288;'nombre entier';1;84
+e;140642;'nombre d'or';1;60
+e;37506;'grand nombre';1;84
+e;155882;'nombre premier';1;138
+r;423482969;125695;16152008;11;25
+r;300179653;125695;6324591;11;25
+r;302086736;125695;6359996;11;25
+r;371985582;125695;14639059;11;25
+r;316544845;125695;12201628;11;25
+r;316553033;125695;12197814;11;25
+r;316563656;125695;12194615;11;25
+r;316563843;125695;12194577;11;25
+r;316652428;125695;12172453;11;25
+r;316652440;125695;12172451;11;25
+r;316652458;125695;12172448;11;25
+r;316652470;125695;12172445;11;25
+r;316652482;125695;12172443;11;25
+r;316652494;125695;12172441;11;25
+r;316652515;125695;12172427;11;25
+r;316652525;125695;12172425;11;25
+r;316652539;125695;12172423;11;25
+r;316678908;125695;12164348;11;25
+r;316683176;125695;12163041;11;25
+r;316701574;125695;12156720;11;25
+r;316701585;125695;12156718;11;25
+r;316701598;125695;12156715;11;25
+r;316701609;125695;12156713;11;25
+r;316701622;125695;12156711;11;25
+r;316761818;125695;12139470;11;25
+r;316766245;125695;12138152;11;25
+r;316766279;125695;12138143;11;25
+r;316766367;125695;12138117;11;25
+r;316772113;125695;12136399;11;25
+r;316774067;125695;12135786;11;25
+r;318620477;125695;12234607;11;25
+r;318620499;125695;12234606;11;25
+r;318632113;125695;12234046;11;25
+r;318632137;125695;12234045;11;25
+r;318668941;125695;12232409;11;25
+r;340942540;125695;6293851;11;25
+r;348246286;125695;13731533;11;25
+r;349137480;125695;6362464;11;25
+r;349218755;125695;6285110;11;25
+r;349220144;125695;6356774;11;25
+r;349222511;125695;6373172;11;25
+r;349231469;125695;6337432;11;25
+r;349241806;125695;6380937;11;25
+r;349244397;125695;6297511;11;25
+r;349250803;125695;6332949;11;25
+r;349254741;125695;6321879;11;25
+r;349261937;125695;6394725;11;25
+r;349282694;125695;6306450;11;25
+r;349313894;125695;6289591;11;25
+r;352593431;125695;13993813;11;25
+r;356283993;125695;6407350;11;25
+r;356462429;125695;14093460;11;25
+r;356470770;125695;14093468;11;25
+r;356837761;125695;6350065;11;25
+r;356854646;125695;6372042;11;25
+r;356866907;125695;6307742;11;25
+r;357571277;125695;6396556;11;25
+r;358825903;125695;14143378;11;25
+r;358826854;125695;14143377;11;25
+r;359692336;125695;14159180;11;25
+r;359692664;125695;14159171;11;25
+r;359692739;125695;14159175;11;25
+r;359697333;125695;14159177;11;25
+r;359697469;125695;14159174;11;25
+r;364172268;125695;14303151;11;25
+r;366518583;125695;14434604;11;25
+r;366519922;125695;14434603;11;25
+r;366524470;125695;14434607;11;25
+r;366930070;125695;14454053;11;25
+r;367323632;125695;14468436;11;25
+r;368022911;125695;14482691;11;25
+r;368237445;125695;14490537;11;25
+r;369934537;125695;14558155;11;25
+r;370017892;125695;14563009;11;25
+r;370445243;125695;14573788;11;25
+r;370445395;125695;14573786;11;25
+r;370455002;125695;14573790;11;25
+r;370455338;125695;14573808;11;25
+r;370458407;125695;14573805;11;25
+r;370465529;125695;14573796;11;25
+r;370466270;125695;14573794;11;25
+r;370467766;125695;14573806;11;25
+r;370467850;125695;14573787;11;25
+r;370467880;125695;14573801;11;25
+r;370467893;125695;14573791;11;25
+r;370468136;125695;14573793;11;25
+r;370468275;125695;14573803;11;25
+r;370468307;125695;14573807;11;25
+r;370724150;125695;14590075;11;25
+r;371190869;125695;14606313;11;25
+r;371205080;125695;14606724;11;25
+r;371297313;125695;14610837;11;25
+r;371297497;125695;14610836;11;25
+r;371297509;125695;14610840;11;25
+r;371297890;125695;14610835;11;25
+r;371591848;125695;14629031;11;25
+r;371667303;125695;14630901;11;25
+r;371670091;125695;14630911;11;25
+r;371741809;125695;14633398;11;25
+r;371747133;125695;14633397;11;25
+r;371750590;125695;14633399;11;25
+r;372712382;125695;14655134;11;25
+r;374438204;125695;14726739;11;25
+r;400536656;125695;6373770;11;25
+r;388254468;125695;14890699;11;25
+r;400584539;125695;6374692;11;25
+r;410286289;125695;15787046;11;25
+r;414380003;125695;15915728;11;25
+r;414449369;125695;15921662;11;25
+r;414450023;125695;15921665;11;25
+r;414949947;125695;15950696;11;25
+r;416698646;125695;15958180;11;25
+r;416712272;125695;15958183;11;25
+r;420420503;125695;16109541;11;25
+r;424032439;125695;16158292;11;25
+r;424051260;125695;16158293;11;25
+r;424882952;125695;16159928;11;25
+r;424973717;125695;16162942;11;25
+r;425336830;125695;16183915;11;25
+r;427109363;125695;16282859;11;25
+r;427109384;125695;16282858;11;25
+r;427109401;125695;16282860;11;25
+r;428857015;125695;16317992;11;25
+r;431633148;125695;16335910;11;25
+r;432959321;125695;16389634;11;25
+r;432959381;125695;16389633;11;25
+r;434858760;125695;16545739;11;25
+r;435421440;125695;16573651;11;25
+r;392453193;125695;15023373;11;26
+r;315694537;125695;12116490;11;26
+r;315633836;125695;12092782;11;26
+r;316340513;125695;12199423;11;26
+r;318583100;125695;12236345;11;26
+r;318583123;125695;12236344;11;26
+r;318583148;125695;12236343;11;26
+r;318583173;125695;12236342;11;26
+r;318583200;125695;12236341;11;26
+r;318583221;125695;12236340;11;26
+r;318583242;125695;12236339;11;26
+r;318583267;125695;12236338;11;26
+r;318583292;125695;12236337;11;26
+r;318595809;125695;12235759;11;26
+r;318595831;125695;12235758;11;26
+r;318606420;125695;12235328;11;26
+r;318606438;125695;12235327;11;26
+r;332572754;125695;12978773;11;26
+r;341009623;125695;6321441;11;26
+r;345241327;125695;11009334;11;26
+r;364486143;125695;14321910;11;26
+r;368613951;125695;14530454;11;26
+r;368614030;125695;14530460;11;26
+r;368614835;125695;14530519;11;26
+r;368614848;125695;14530520;11;26
+r;374307474;125695;14722193;11;26
+r;374403158;125695;14726586;11;26
+r;374573552;125695;14733224;11;26
+r;392432672;125695;15039837;11;26
+r;416132450;125695;15953361;11;26
+r;114462220;125695;5786115;11;27
+r;122670030;125695;6433086;11;27
+r;315451483;125695;12088752;11;27
+r;315579577;125695;12099717;11;27
+r;315595206;125695;12097636;11;27
+r;315595218;125695;12097635;11;27
+r;315595230;125695;12097634;11;27
+r;315626309;125695;12093680;11;27
+r;315629086;125695;12093341;11;27
+r;315629112;125695;12093338;11;27
+r;315629187;125695;12093329;11;27
+r;315632638;125695;12092942;11;27
+r;333731448;125695;12988985;11;27
+r;370451289;125695;14573798;11;28
+r;121529914;125695;6439788;11;28
+r;315558998;125695;12101808;11;28
+r;315559008;125695;12101807;11;28
+r;315559024;125695;12101806;11;28
+r;315559033;125695;12101805;11;28
+r;315559042;125695;12101804;11;28
+r;315559051;125695;12101803;11;28
+r;315559064;125695;12101802;11;28
+r;315559071;125695;12101801;11;28
+r;318455420;125695;12240072;11;28
+r;318455447;125695;12240071;11;28
+r;318455474;125695;12240070;11;28
+r;318460805;125695;12239828;11;28
+r;318460827;125695;12239827;11;28
+r;318467867;125695;12239492;11;28
+r;318467889;125695;12239491;11;28
+r;318467915;125695;12239490;11;28
+r;318471444;125695;12239341;11;28
+r;318471477;125695;12239340;11;28
+r;318471831;125695;12239327;11;28
+r;318471855;125695;12239326;11;28
+r;318473857;125695;12239238;11;28
+r;318473881;125695;12239237;11;28
+r;318474983;125695;12239188;11;28
+r;318475007;125695;12239187;11;28
+r;318582923;125695;12236352;11;28
+r;318582950;125695;12236351;11;28
+r;318582975;125695;12236350;11;28
+r;318583002;125695;12236349;11;28
+r;318583027;125695;12236348;11;28
+r;318583050;125695;12236347;11;28
+r;318583075;125695;12236346;11;28
+r;333731698;125695;12988977;11;28
+r;333731720;125695;12988984;11;28
+r;112195541;125695;5686728;11;29
+r;112668444;125695;5724598;11;29
+r;122684204;125695;6431497;11;29
+r;315487857;125695;12109928;11;29
+r;301915119;125695;11770365;11;29
+r;315496511;125695;12108281;11;29
+r;315496633;125695;12108265;11;29
+r;121520486;125695;6440833;11;30
+r;220729877;125695;9955490;11;30
+r;220833477;125695;9958847;11;30
+r;220837779;125695;9959009;11;30
+r;274269591;125695;10909175;11;30
+r;274293634;125695;10903754;11;30
+r;280288124;125695;11049449;11;30
+r;419772877;125695;15660467;11;30
+r;419780963;125695;15574759;11;30
+r;419780968;125695;15574767;11;30
+r;419841236;125695;15199370;11;30
+r;419841242;125695;15417060;11;30
+r;419843711;125695;15355000;11;30
+r;113774342;125695;5816827;11;31
+r;113774879;125695;5816762;11;31
+r;113775447;125695;5816647;11;31
+r;113775470;125695;5816642;11;31
+r;113776978;125695;5816247;11;31
+r;122682610;125695;6431677;11;31
+r;277065542;125695;10971045;11;31
+r;318320848;125695;12241860;11;31
+r;318321141;125695;12241849;11;31
+r;419739227;125695;15574772;11;31
+r;111341392;125695;5671153;11;32
+r;111349028;125695;5669110;11;32
+r;112668355;125695;5724619;11;32
+r;113780290;125695;5815476;11;32
+r;276955572;125695;10968799;11;32
+r;279850043;125695;11049450;11;32
+r;410464562;125695;15789836;11;32
+r;419620179;125695;15760236;11;32
+r;419622168;125695;15574762;11;32
+r;419622232;125695;15574771;11;32
+r;419632020;125695;15524255;11;32
+r;419658169;125695;15300787;11;32
+r;419658172;125695;15660464;11;32
+r;419703398;125695;15379816;11;32
+r;280425736;125695;11063458;11;33
+r;280481928;125695;11064981;11;33
+r;280891606;125695;11077640;11;33
+r;293121638;125695;11406029;11;33
+r;304412916;125695;11807003;11;33
+r;335023522;125695;13091421;11;33
+r;335028886;125695;13091420;11;33
+r;395225116;125695;15417058;11;33
+r;419608433;125695;15290750;11;33
+r;30041119;125695;1840009;11;34
+r;30041187;125695;1840008;11;34
+r;30041455;125695;1840011;11;34
+r;30041874;125695;1840010;11;34
+r;112654349;125695;5784787;11;34
+r;114009412;125695;5840181;11;34
+r;116585078;125695;5954292;11;34
+r;116588429;125695;5953142;11;34
+r;219940379;125695;9937342;11;34
+r;275361258;125695;10936712;11;34
+r;281056912;125695;11080756;11;34
+r;281056953;125695;11080755;11;34
+r;315124365;125695;12078241;11;34
+r;434344192;125695;16133681;11;34
+r;419554573;125695;15246674;11;34
+r;419557505;125695;15854667;11;34
+r;114748408;125695;5894317;11;35
+r;271590794;125695;10842983;11;35
+r;271591174;125695;10842743;11;35
+r;277921645;125695;10995052;11;35
+r;291990872;125695;11361135;11;35
+r;293646379;125695;11414463;11;35
+r;340776182;125695;13426613;11;35
+r;314084764;125695;12068013;11;35
+r;314137955;125695;12068955;11;35
+r;315114085;125695;12080191;11;35
+r;315114095;125695;12080190;11;35
+r;315114102;125695;12080189;11;35
+r;329696974;125695;12871186;11;35
+r;419492853;125695;15748753;11;35
+r;419492857;125695;15392023;11;35
+r;419492863;125695;15691499;11;35
+r;419492869;125695;15523410;11;35
+r;419492875;125695;15271694;11;35
+r;419495259;125695;15447825;11;35
+r;433514365;125695;16437720;11;35
+r;112656915;125695;5782415;11;36
+r;116301645;125695;5946919;11;36
+r;117900271;125695;5983543;11;36
+r;289897714;125695;11288121;11;36
+r;294186782;125695;11440227;11;36
+r;313765016;125695;12049795;11;36
+r;314063339;125695;12067911;11;36
+r;315114070;125695;12080193;11;36
+r;315114080;125695;12080192;11;36
+r;410060143;125695;15782586;11;36
+r;410071636;125695;15782587;11;36
+r;118544726;125695;5999646;11;37
+r;121491932;125695;6444025;11;37
+r;121577270;125695;6434489;11;37
+r;288880505;125695;11288416;11;37
+r;298271711;125695;11590412;11;37
+r;298271730;125695;11590411;11;37
+r;306473299;125695;11839681;11;37
+r;306697328;125695;11840000;11;37
+r;121554193;125695;6437083;11;38
+r;288981189;125695;11289762;11;38
+r;54505939;125695;2422621;11;39
+r;115109663;125695;5896697;11;39
+r;124394636;125695;7333994;11;39
+r;262525447;125695;10524478;11;39
+r;287978550;125695;11237653;11;39
+r;288028585;125695;11237781;11;39
+r;308610703;125695;11957341;11;39
+r;313769579;125695;12053797;11;39
+r;254593766;125695;10364789;11;40
+r;278737970;125695;11003643;11;40
+r;278737984;125695;11003641;11;40
+r;278738014;125695;11003616;11;40
+r;278738042;125695;11003564;11;40
+r;278738052;125695;11003540;11;40
+r;278738073;125695;11003530;11;40
+r;278738127;125695;11003432;11;40
+r;278738165;125695;11003391;11;40
+r;278738173;125695;11003385;11;40
+r;278738906;125695;11002526;11;40
+r;288166922;125695;11249463;11;40
+r;310742686;125695;11976416;11;40
+r;53025455;125695;2386718;11;41
+r;109886865;125695;5553553;11;41
+r;116301664;125695;5946889;11;41
+r;121045218;125695;6450246;11;41
+r;278286376;125695;11002528;11;41
+r;278321938;125695;11003382;11;41
+r;278322060;125695;11003433;11;41
+r;278322294;125695;11003414;11;41
+r;278322364;125695;11003417;11;41
+r;278322453;125695;11003386;11;41
+r;278322512;125695;11003418;11;41
+r;278322555;125695;11003394;11;41
+r;278322753;125695;11003383;11;41
+r;278323493;125695;11003396;11;41
+r;278323948;125695;11003381;11;41
+r;278323987;125695;11003392;11;41
+r;278324023;125695;11003395;11;41
+r;278325005;125695;11003390;11;41
+r;278325079;125695;11003387;11;41
+r;278325332;125695;11003389;11;41
+r;278325369;125695;11003393;11;41
+r;278327423;125695;11003384;11;41
+r;278327575;125695;11003528;11;41
+r;278327619;125695;11003537;11;41
+r;278328355;125695;11003539;11;41
+r;278332358;125695;11003571;11;41
+r;278332999;125695;11003579;11;41
+r;278333140;125695;11003589;11;41
+r;278333894;125695;11003582;11;41
+r;278333989;125695;11003609;11;41
+r;278334078;125695;11003573;11;41
+r;278334157;125695;11003586;11;41
+r;278334284;125695;11003626;11;41
+r;278334439;125695;11003610;11;41
+r;278334767;125695;11003620;11;41
+r;278334827;125695;11003647;11;41
+r;278334959;125695;11003644;11;41
+r;278335076;125695;11003583;11;41
+r;278335132;125695;11003614;11;41
+r;278335258;125695;11003536;11;41
+r;278335812;125695;11003623;11;41
+r;278335866;125695;11003578;11;41
+r;278336010;125695;11003627;11;41
+r;278336028;125695;11003650;11;41
+r;278336169;125695;11003581;11;41
+r;278336428;125695;11003611;11;41
+r;278336714;125695;11003575;11;41
+r;278337131;125695;11003637;11;41
+r;278337151;125695;11003380;11;41
+r;278337205;125695;11003584;11;41
+r;278337230;125695;11003591;11;41
+r;278337300;125695;11003649;11;41
+r;278337585;125695;11003615;11;41
+r;278337750;125695;11003568;11;41
+r;278350373;125695;11003570;11;41
+r;278354663;125695;11003628;11;41
+r;278354772;125695;11003621;11;41
+r;278354799;125695;11003587;11;41
+r;278354824;125695;11003590;11;41
+r;278355069;125695;11003560;11;41
+r;278359360;125695;11003512;11;41
+r;278359501;125695;11003624;11;41
+r;286808675;125695;11174971;11;41
+r;286808686;125695;11174931;11;41
+r;286808691;125695;11174914;11;41
+r;286808696;125695;11174895;11;41
+r;287987473;125695;11237780;11;41
+r;116301634;125695;5946920;11;42
+r;117908863;125695;5981310;11;42
+r;278323403;125695;11003388;11;42
+r;278337784;125695;11003693;11;42
+r;278338905;125695;11003576;11;42
+r;278885857;125695;11012155;11;42
+r;283656255;125695;11155015;11;42
+r;285639528;125695;11161296;11;42
+r;285989159;125695;11174903;11;42
+r;285989258;125695;11174863;11;42
+r;285989260;125695;11174930;11;42
+r;285989395;125695;11174911;11;42
+r;285989472;125695;11174897;11;42
+r;285989598;125695;11174908;11;42
+r;285989631;125695;11174913;11;42
+r;285989670;125695;11174928;11;42
+r;285989708;125695;11174905;11;42
+r;285989812;125695;11174947;11;42
+r;285989866;125695;11174968;11;42
+r;285990110;125695;11174926;11;42
+r;285990125;125695;11174969;11;42
+r;285990138;125695;11174956;11;42
+r;285990153;125695;11174962;11;42
+r;285990224;125695;11174865;11;42
+r;285990346;125695;11174921;11;42
+r;285990362;125695;11174972;11;42
+r;285990383;125695;11174934;11;42
+r;285990401;125695;11174898;11;42
+r;285990480;125695;11174918;11;42
+r;285990556;125695;11174960;11;42
+r;285990595;125695;11174946;11;42
+r;285990659;125695;11174906;11;42
+r;285990685;125695;11174970;11;42
+r;285990713;125695;11174943;11;42
+r;285990930;125695;11174916;11;42
+r;285991265;125695;11174942;11;42
+r;285991328;125695;11174915;11;42
+r;285991439;125695;11174976;11;42
+r;285992466;125695;11174949;11;42
+r;285992813;125695;11174900;11;42
+r;285992839;125695;11174907;11;42
+r;285992870;125695;11174965;11;42
+r;285992883;125695;11174958;11;42
+r;285992937;125695;11174954;11;42
+r;285992952;125695;11174920;11;42
+r;285992991;125695;11174941;11;42
+r;285993123;125695;11174948;11;42
+r;285993164;125695;11174950;11;42
+r;285993200;125695;11174923;11;42
+r;285993666;125695;11174922;11;42
+r;285993682;125695;11174955;11;42
+r;285993802;125695;11174978;11;42
+r;285994991;125695;11174904;11;42
+r;285995033;125695;11174936;11;42
+r;285995316;125695;11174951;11;42
+r;285995425;125695;11174899;11;42
+r;285995656;125695;11174901;11;42
+r;285995687;125695;11174973;11;42
+r;285995706;125695;11174910;11;42
+r;285995726;125695;11174912;11;42
+r;285995762;125695;11174977;11;42
+r;285995775;125695;11174917;11;42
+r;285995806;125695;11174902;11;42
+r;285995835;125695;11174935;11;42
+r;285996224;125695;11174957;11;42
+r;285997617;125695;11174974;11;42
+r;285997653;125695;11174944;11;42
+r;285997746;125695;11174939;11;42
+r;286000270;125695;11174967;11;42
+r;286017463;125695;11175217;11;42
+r;286808504;125695;11175023;11;42
+r;319038345;125695;12283269;11;42
+r;109440652;125695;5526910;11;43
+r;117896086;125695;5984445;11;43
+r;117913394;125695;5980293;11;43
+r;121494426;125695;6443749;11;43
+r;261007957;125695;10462072;11;43
+r;283648702;125695;11155014;11;43
+r;285988648;125695;11174864;11;43
+r;285990831;125695;11174940;11;43
+r;285990913;125695;11174959;11;43
+r;285991308;125695;11174925;11;43
+r;285992239;125695;11174927;11;43
+r;285992826;125695;11174953;11;43
+r;285993016;125695;11174963;11;43
+r;286002275;125695;11174975;11;43
+r;53016307;125695;2386067;11;44
+r;432133186;125695;16365016;11;44
+r;419564997;125695;15417085;11;44
+r;109880343;125695;5557091;11;45
+r;116301654;125695;5946915;11;45
+r;54387937;125695;2416476;11;46
+r;117908893;125695;5981301;11;46
+r;116301659;125695;5946890;11;47
+r;143613531;125695;8462601;11;48
+r;111336207;125695;5673373;11;50
+r;397135157;125695;15502860;11;50
+r;153087587;125695;8568668;11;50
+r;219008791;125695;9824716;11;50
+r;190414635;125695;8857597;11;50
+r;192786933;125695;8900195;11;50
+r;195524951;125695;9022635;11;50
+r;195871833;125695;9028011;11;50
+r;209512131;125695;9199756;11;50
+r;211597745;125695;9253747;11;50
+r;214898915;125695;9570579;11;50
+r;217035900;125695;9661109;11;50
+r;217411829;125695;9698320;11;50
+r;217983888;125695;9739954;11;50
+r;218059279;125695;9747208;11;50
+r;218059286;125695;9747175;11;50
+r;282559685;125695;11127135;11;50
+r;317972293;125695;12247985;11;50
+r;317972320;125695;12247984;11;50
+r;323130020;125695;12618729;11;50
+r;324931443;125695;12680924;11;50
+r;324934738;125695;12635870;11;50
+r;324937488;125695;12617287;11;50
+r;324937496;125695;12617286;11;50
+r;326473055;125695;12715676;11;50
+r;402118285;125695;15220806;11;50
+r;395010949;125695;15380957;11;50
+r;395017698;125695;14543831;11;50
+r;413930593;125695;15885104;11;50
+r;414277021;125695;15904052;11;50
+r;429086815;125695;16319978;11;50
+r;18146471;125695;580085;11;51
+r;109315264;125695;5521666;11;51
+r;72757449;125695;2951166;11;52
+r;18341921;125695;584696;11;52
+r;16960047;125695;566493;11;53
+r;18315838;125695;584317;11;53
+r;21894145;125695;1139033;11;53
+r;72865591;125695;2952690;11;53
+r;88983558;125695;3568056;11;53
+r;398017;125695;79138;11;54
+r;29225345;125695;1781465;11;54
+r;50159137;125695;2361052;11;54
+r;29224919;125695;1781620;11;55
+r;52452957;125695;2549530;11;55
+r;52470640;125695;2512272;11;55
+r;105663245;125695;5116986;11;55
+r;16130573;125695;452708;11;56
+r;16960043;125695;566496;11;56
+r;72757496;125695;2951168;11;56
+r;76305983;125695;3171891;11;56
+r;16130575;125695;452707;11;57
+r;18146301;125695;580084;11;57
+r;52480702;125695;2490661;11;57
+r;59536204;125695;2627404;11;57
+r;76518468;125695;3175912;11;57
+r;83668595;125695;3319997;11;57
+r;16960027;125695;566502;11;58
+r;47904263;125695;2356034;11;58
+r;17303462;125695;569652;11;59
+r;18146140;125695;580083;11;59
+r;29463178;125695;1799002;11;59
+r;54423004;125695;2587857;11;59
+r;71613585;125695;2918835;11;59
+r;109314073;125695;5521667;11;59
+r;52470168;125695;2513328;11;60
+r;53783781;125695;2583465;11;60
+r;78304334;125695;3230521;11;60
+r;30449007;125695;1887316;11;62
+r;71661452;125695;2924684;11;64
+r;76360188;125695;3173096;11;67
+r;30090865;125695;1858922;11;70
+r;12636127;125695;366516;11;101
+r;12636143;125695;366511;11;101
+r;12672819;125695;357528;11;101
+r;12699325;125695;351028;11;101
+r;12700699;125695;350661;11;101
+r;12709065;125695;348537;11;102
+r;12752817;125695;338210;11;102
+r;12617393;125695;371245;11;103
+r;12636161;125695;366506;11;103
+r;12636201;125695;366497;11;103
+r;12636149;125695;366509;11;104
+r;12772497;125695;333232;11;104
+r;12636117;125695;366518;11;105
+r;12636121;125695;366517;11;105
+r;12636137;125695;366513;11;105
+r;12636177;125695;366502;11;105
+r;12636113;125695;366519;11;106
+r;12636133;125695;366514;11;106
+r;12636173;125695;366503;11;106
+r;12636147;125695;366510;11;107
+r;12636157;125695;366507;11;107
+r;12636197;125695;366498;11;107
+r;12713549;125695;347454;11;107
+r;12636153;125695;366508;11;108
+r;12636193;125695;366499;11;108
+r;12636167;125695;366505;11;109
+r;12636169;125695;366504;11;109
+r;12636181;125695;366501;11;109
+r;12636185;125695;366500;11;109
+r;12700387;125695;350742;11;110
+r;11868753;125695;64075;11;121
+r;12019930;125695;330846;11;125
+r;12019940;125695;330845;11;125
+r;9188902;125695;323242;11;148
+r;11618235;125695;329432;11;148
+r;11662014;125695;329618;11;148
+r;11737736;125695;325221;11;148
+r;8826007;125695;314304;11;158
+r;8826009;125695;314305;11;158
+r;8826011;125695;314306;11;158
+r;8826014;125695;314307;11;158
+r;8826017;125695;314308;11;158
+r;8826019;125695;314309;11;158
+r;8826021;125695;314310;11;158
+r;8826152;125695;314484;11;158
+r;8604771;125695;101807;11;161
+r;8693149;125695;221625;11;161
+r;8698723;125695;230107;11;161
+r;8698769;125695;230172;11;161
+r;8700655;125695;232193;11;161
+r;8700844;125695;232368;11;161
+r;8701918;125695;234126;11;161
+r;8726599;125695;260181;11;161
+r;8812002;125695;313757;11;161
+r;8812069;125695;313800;11;161
+r;8592124;125695;65468;11;162
+r;8604350;125695;100600;11;162
+r;8612962;125695;124643;11;162
+r;8633923;125695;171459;11;162
+r;8685707;125695;210803;11;162
+r;8686601;125695;211392;11;162
+r;8686618;125695;211404;11;162
+r;8686619;125695;211405;11;162
+r;8575334;125695;16101;11;163
+r;8584757;125695;44328;11;163
+r;8599559;125695;87022;11;163
+r;8614332;125695;128387;11;163
+r;8624524;125695;155541;11;163
+r;8633811;125695;171365;11;163
+r;8634190;125695;171701;11;163
+r;8634457;125695;172524;11;163
+r;8634709;125695;173815;11;163
+r;8634711;125695;173816;11;163
+r;8637008;125695;180590;11;163
+r;8641709;125695;183388;11;163
+r;8641711;125695;183389;11;163
+r;8673138;125695;203164;11;163
+r;8675353;125695;204421;11;163
+r;8675363;125695;204427;11;163
+r;8675365;125695;204428;11;163
+r;8675367;125695;204429;11;163
+r;8675369;125695;204430;11;163
+r;8675371;125695;204431;11;163
+r;8675373;125695;204432;11;163
+r;8675375;125695;204433;11;163
+r;8675377;125695;204434;11;163
+r;8675379;125695;204435;11;163
+r;8675381;125695;204436;11;163
+r;8675383;125695;204437;11;163
+r;8675385;125695;204438;11;163
+r;8675387;125695;204439;11;163
+r;8675388;125695;204440;11;163
+r;8675390;125695;204441;11;163
+r;8675392;125695;204442;11;163
+r;8675394;125695;204443;11;163
+r;8675396;125695;204444;11;163
+r;8675398;125695;204445;11;163
+r;8675399;125695;204446;11;163
+r;8675401;125695;204447;11;163
+r;8675403;125695;204448;11;163
+r;8675405;125695;204449;11;163
+r;8675407;125695;204450;11;163
+r;8732788;125695;265204;11;163
+r;8734843;125695;266974;11;163
+r;8734844;125695;266975;11;163
+r;8736076;125695;268195;11;163
+r;8737698;125695;269978;11;163
+r;8738713;125695;271197;11;163
+r;8747465;125695;280042;11;163
+r;8748977;125695;281624;11;163
+r;8756349;125695;288382;11;163
+r;8758358;125695;290413;11;163
+r;8772476;125695;306561;11;163
+r;8773856;125695;308149;11;163
+r;8774469;125695;308724;11;163
+r;8774984;125695;309140;11;163
+r;8781718;125695;313018;11;163
+r;8648813;125695;187744;11;164
+r;8648816;125695;187745;11;164
+r;8648819;125695;187746;11;164
+r;8662771;125695;197047;11;164
+r;8666516;125695;199325;11;164
+r;8575205;125695;15727;11;165
+r;8576858;125695;21123;11;165
+r;8577161;125695;22017;11;165
+r;8666175;125695;199075;11;165
+r;8668760;125695;200571;11;165
+r;8669590;125695;200981;11;165
+r;8570412;125695;1362;11;167
+r;389289;125695;163917;11;188
+r;411920;125695;165287;11;188
+r;426111;125695;166081;11;188
+r;426112;125695;166082;11;188
+r;411921;125695;165288;11;198
+r;199622;125695;140642;11;199
+r;398018;125695;37506;11;199
+r;199623;125695;155882;11;209

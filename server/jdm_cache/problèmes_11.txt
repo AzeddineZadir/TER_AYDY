@@ -1,0 +1,348 @@
+
+e;60784;'problèmes';1;126
+e;14596816;'avoir des problèmes psychiatriques';1;0
+e;6325908;'dossiers médicaux orientés vers les problèmes';1;0
+e;6361724;'programme basé sur la résolution de problèmes';1;0
+e;6365532;'dossiers médicaux basés sur les problèmes';1;0
+e;6382046;'dossiers médicaux axés sur les problèmes';1;0
+e;6400114;'autres spécialistes des problèmes de personnel et du travail';1;0
+e;6290939;'apprentissage basé sur la résolution de problèmes';1;0
+e;6343537;'épisode de soins non précisé autres problèmes associés à la cavité amniotique et aux membranes';1;0
+e;14653804;'souffrir de problèmes';1;0
+e;14432862;'problèmes de gouvernance';1;0
+e;14537274;'problèmes digestifs';1;0
+e;14589336;'problèmes abdominaux';1;0
+e;14606835;'problèmes techniques';1;0
+e;14609113;'problèmes de sécurité alimentaire';1;0
+e;14610203;'problèmes moins graves que ceux évoqués par le mot pollution';777;0
+e;14632968;'problèmes de jeunesse';1;0
+e;14635674;'problèmes organisationnels';1;0
+e;14635672;'problèmes humains et organisationnels';1;0
+e;14637928;'problèmes de financement';1;0
+e;14653803;'souffrir de nombreux problèmes';1;0
+e;14655685;'classe de problèmes';1;0
+e;14715187;'avoir des problèmes';1;0
+e;15787423;'problèmes de discipline';1;0
+e;16508711;'fille à problèmes';1;0
+e;14596815;'problèmes psychiatriques';1;0
+e;6300216;'problèmes psychosexuels';1;0
+e;6328613;'problèmes avec des prêteurs';1;0
+e;6369357;'problèmes physiques du produit';1;0
+e;6374467;'problèmes émotionnels';1;0
+e;6375916;'spécialiste des problèmes de personnel';1;0
+e;6392516;'dossier médical orienté vers les problèmes';1;0
+e;6417943;'dossier médical axé sur les problèmes';1;0
+e;6284185;'problèmes d'alimentation chez le nouveau-né';1;0
+e;14281522;'problèmes mentaux';1;0
+e;14510743;'problèmes intestinaux';1;0
+e;14538987;'avoir des problèmes de fric';1;0
+e;14635673;'problèmes humains';1;0
+e;14718289;'problèmes psy';1;2
+e;14718766;'poser des problèmes';1;0
+e;14726585;'problèmes psychologiques';1;0
+e;6285159;'problèmes liés au deuil';1;0
+e;6290904;'autres problèmes précisés se rapportant à la cavité amniotique et aux membranes';1;0
+e;6301172;'problèmes avec des beaux-parents âgés';1;0
+e;6303722;'autres problèmes foetaux et placentaires précisés affectant les soins de la mère';1;0
+e;6324762;'autres problèmes foetaux et placentaires affectant les soins de la mère';1;0
+e;6384957;'antepartum autres problèmes associés à la cavité amniotique et aux membranes';1;0
+e;6261778;'problèmes alimentaires du nouveau-né';1;0
+e;6427591;'problèmes au travail';1;0
+e;6366440;'problèmes psychologiques et comportementaux associés au développement sexuel et à son orientation';1;0
+e;6404544;'problèmes de famille et de partenaire';1;0
+e;6306885;'avec accouchement, autres problèmes associés à la cavité amniotique et aux membranes';1;0
+e;6422067;'problèmes menstruels';1;0
+e;15400189;'des problèmes liés à l'exposition au soleil';1;0
+e;15306259;'deux problèmes successifs';1;0
+e;15261730;'dissimuler les problèmes';1;0
+e;6431683;'dossiers médicaux basés sur l'identification des problèmes';1;0
+e;15432997;'chercher les problèmes';1;0
+e;5673715;'méthode générique de résolution de problèmes';1;0
+e;5723325;'logiciels de suivi de problèmes';777;0
+e;5723323;'logiciel de suivi de problèmes';777;0
+e;6425644;'autres problèmes associés à la cavité amniotique et aux membranes';1;0
+e;15367889;'avoir des problèmes affectifs';1;0
+e;15424244;'avoir des problèmes de c?ur';1;0
+e;15646617;'avoir des problèmes de coeur';1;0
+e;15771322;'avoir des problèmes de communication';1;0
+e;15451120;'avoir des problèmes à régler';1;0
+e;15396366;'ayant pris conscience des problèmes politiques';1;0
+e;15290717;'causer des problèmes';1;0
+e;15771325;'cela m'a valu des problèmes';1;0
+e;15315214;'certains problèmes spécifiques';1;0
+e;5673714;'méthode générique de résolution de problèmes d'optimisation combinatoire';1;0
+e;6434647;'problèmes de relation particuliers à l'enfance et l'adolescence';1;0
+e;6423998;'dossier médical basé sur les problèmes';1;0
+e;9945225;'problèmes respiratoires';1;18
+e;10962787;'problèmes cardiovasculaires';1;0
+e;6433962;'problèmes d'éducation';1;0
+e;11020494;'en cas de problèmes';1;0
+e;12076019;'problèmes sanitaires';1;0
+e;16342704;'Méthodes orientées problèmes';777;0
+e;15571382;'Nous avons rencontré quelques problèmes ponctuels.';1;0
+e;10843276;'problèmes non résolus en mathématiques';777;0
+e;10922595;'succession de problèmes';1;0
+e;6299038;'autres problèmes alimentaires du nouveau-né';1;0
+e;12048987;'aborder des problèmes avec un esprit critique';1;0
+e;12049037;'résoudre des problèmes dans les services sociaux';1;0
+e;12049030;'prévenir les problèmes sociaux';1;0
+e;12048861;'trouver des solutions aux problèmes';1;0
+e;13449123;'diagnostic de problèmes oculaires';1;0
+e;15366464;'Les premières réunions se sont passées sans problèmes.';1;0
+e;12049995;'diagnostiquer des problèmes scolaires';1;0
+e;12049916;'analyser des problèmes pour faire émerger des possibilités d'affaires';1;0
+e;12050061;'détecter des problèmes de condensation';1;0
+e;12050122;'diagnostiquer des problèmes avec les véhicules';1;0
+e;12050872;'gérer les problèmes des enfants';1;0
+e;12051117;'régler les problèmes mécaniques d'avions';1;0
+e;12051444;'traiter les problèmes de ronflement';1;0
+e;12051429;'proposer des stratégies de traitement pour les problèmes de santé humaine';1;0
+e;12040816;'élaborer une stratégie pour résoudre les problèmes';1;0
+e;6526955;'température corporelle et problèmes apparentés';1;0
+e;10829659;'problèmes cardiaques';1;0
+e;6430877;'autres problèmes respiratoires du nouveau-né';1;0
+e;10789698;'manière de traiter les problèmes';1;0
+e;11957203;'problèmes de Smale';777;0
+e;11957204;'trois grands problèmes de l'Antiquité';777;0
+e;9929811;'autres problèmes associés à la cavité amniotique et aux membranes avec accouchement';1;0
+e;10789697;'manière de traiter les problèmes dépendant du temps';1;0
+e;10829660;'gros problèmes cardiaques';1;0
+e;11326457;'prendre à bras-le-corps les problèmes';1;0
+e;11957205;'problèmes de Landau';777;0
+e;6526729;'État et problèmes mentaux';1;0
+e;11385427;'problèmes relatifs à une vie solitaire';1;0
+e;11385426;'problèmes relatifs à la solitude';1;0
+e;11385287;'classe des problèmes de décision';1;0
+e;10446733;'Comprendre les problèmes';777;0
+e;11385286;'classe des problèmes de décision décidées par une machine de Turing';1;0
+e;13300833;'problèmes de la planète';1;0
+e;6526243;'phases et problèmes de l'enfance et de l'adolescence';1;0
+e;6012654;'problèmes non résolus de la physique';777;0
+e;5553944;'problèmes de Hilbert';777;0
+e;6526744;'spécialistes des problèmes de personnel et du travail';1;0
+e;7594555;'problèmes de sommeil';1;0
+e;8779423;'avoir des problèmes d'argent';1;8
+e;9659964;'résoudre des problèmes';1;0
+e;9696712;'problèmes de coeur';1;0
+e;11136579;'problèmes de fric';1;0
+e;12617052;'problèmes d'argent';1;16
+e;12620246;'problèmes de fiabilité';1;0
+e;12645847;'problèmes financiers';1;2
+e;12645848;'problèmes dans les relations humaines';1;0
+e;12715660;'21 problèmes NP-complets de Karp';777;0
+e;13800802;'01 problèmes corporels généraux';1;0
+e;13771505;'010-015 problèmes généraux et plaintes';1;0
+e;13750198;'018-019 problèmes de poids et de croissance corporels';1;0
+e;13771951;'030-034 température corporelle et problèmes apparentés';1;0
+e;13765963;'194 spécialistes des problèmes de personnel et du travail';1;0
+e;13782986;'9b3-9b4 phases et problèmes de l'enfance et de l'adolescence';1;0
+e;13771086;'9b7 problèmes reliés à la sexualité';1;0
+e;14531080;'3. La résolution de problèmes';777;0
+e;15570209;'Ces deux problèmes sont étroitement liés.';1;0
+e;15365608;'Il a évoqué divers problèmes dans son discours.';1;0
+e;15502106;'Il se fiche complètement de vos problèmes.';1;0
+e;14869885;'Fondation française pour l'étude des problèmes humains';777;0
+e;15530204;'Ces problèmes sont de nature économique.';1;0
+e;15771329;'Elle a des problèmes de circulation.';1;0
+e;284425;'Cet article présente de multiples problèmes.';777;50
+e;4324080;'parler de ses problèmes';1;0
+e;6526025;'problèmes reliés à la sexualité';1;0
+e;4317987;'problèmes successifs';1;0
+e;4317986;'série de problèmes';1;0
+e;4338348;'problèmes personnels';1;0
+e;566002;'Cet article présente de multiples problèmes';777;50
+e;3515442;'problèmes d'humidité';1;0
+e;4338782;'problèmes de couple';1;0
+e;5355778;'problèmes budgétaires';1;0
+e;2928578;'classification statistique internationale des maladies et des problèmes de santé connexes';777;0
+e;5331485;'problèmes de poids';1;0
+e;3673612;'apprentissage par problèmes';1;0
+e;5498548;'problèmes cardio-vasculaires';1;0
+e;1877891;'régler des problèmes';1;2
+e;378654;'sans trop de problèmes';1;50
+e;360706;'labyrinthe de problèmes';1;50
+e;356730;'graves problèmes';1;50
+e;380585;'source de problèmes';1;50
+e;373233;'problèmes sentimentaux';1;50
+e;320783;'Classification statistique internationale des maladies et des problèmes de santé connexes';777;50
+e;252860;'jeune à problèmes';1;50
+e;256877;'problèmes de peau';1;50
+e;256881;'problèmes de santé';1;10
+e;256882;'avoir des problèmes de santé';1;50
+e;272074;'problèmes du prix du millénaire';777;50
+e;292918;'problèmes de vue';777;50
+e;310918;'problèmes de satisfaction de contraintes';777;50
+r;370902863;60784;14596816;11;25
+r;300196465;60784;6325908;11;25
+r;302120592;60784;6361724;11;25
+r;302187209;60784;6365532;11;25
+r;303933101;60784;6382046;11;25
+r;305136108;60784;6400114;11;25
+r;318504700;60784;6290939;11;25
+r;349213221;60784;6343537;11;25
+r;372567710;60784;14653804;11;25
+r;366469206;60784;14432862;11;25
+r;369393139;60784;14537274;11;25
+r;370704647;60784;14589336;11;25
+r;371205863;60784;14606835;11;25
+r;371225906;60784;14609113;11;25
+r;371266759;60784;14610203;11;25
+r;371710798;60784;14632968;11;25
+r;371755024;60784;14635674;11;25
+r;371755068;60784;14635672;11;25
+r;371852316;60784;14637928;11;25
+r;372566866;60784;14653803;11;25
+r;372657640;60784;14655685;11;25
+r;374004358;60784;14715187;11;25
+r;410324210;60784;15787423;11;25
+r;434184769;60784;16508711;11;25
+r;370903008;60784;14596815;11;26
+r;299130708;60784;6300216;11;26
+r;300218143;60784;6328613;11;26
+r;302975590;60784;6369357;11;26
+r;303290209;60784;6374467;11;26
+r;303624233;60784;6375916;11;26
+r;304858472;60784;6392516;11;26
+r;305689645;60784;6417943;11;26
+r;340925263;60784;6284185;11;26
+r;363886898;60784;14281522;11;26
+r;368487025;60784;14510743;11;26
+r;369512140;60784;14538987;11;26
+r;371754967;60784;14635673;11;26
+r;374223597;60784;14718289;11;26
+r;374232156;60784;14718766;11;26
+r;374403135;60784;14726585;11;26
+r;297964324;60784;6285159;11;27
+r;298436870;60784;6290904;11;27
+r;299179509;60784;6301172;11;27
+r;299343972;60784;6303722;11;27
+r;300182672;60784;6324762;11;27
+r;304017875;60784;6384957;11;27
+r;119720071;60784;6261778;11;28
+r;122714463;60784;6427591;11;28
+r;302194355;60784;6366440;11;28
+r;305299060;60784;6404544;11;28
+r;312959487;60784;6306885;11;28
+r;122757255;60784;6422067;11;30
+r;419775143;60784;15400189;11;30
+r;419777431;60784;15306259;11;30
+r;419785798;60784;15261730;11;30
+r;122682564;60784;6431683;11;31
+r;419705337;60784;15432997;11;31
+r;111303896;60784;5673715;11;32
+r;112671500;60784;5723325;11;32
+r;112671510;60784;5723323;11;32
+r;122729453;60784;6425644;11;32
+r;419630222;60784;15367889;11;32
+r;419630230;60784;15424244;11;32
+r;419630238;60784;15646617;11;32
+r;419630246;60784;15771322;11;32
+r;419630254;60784;15451120;11;32
+r;419640650;60784;15396366;11;32
+r;419690338;60784;15290717;11;32
+r;419692063;60784;15771325;11;32
+r;419695634;60784;15315214;11;32
+r;111298309;60784;5673714;11;33
+r;121575856;60784;6434647;11;33
+r;122742362;60784;6423998;11;33
+r;220322941;60784;9945225;11;33
+r;276648476;60784;10962787;11;33
+r;122662103;60784;6433962;11;34
+r;279320423;60784;11020494;11;34
+r;315125753;60784;12076019;11;34
+r;434354489;60784;16342704;11;34
+r;419515027;60784;15571382;11;34
+r;271589606;60784;10843276;11;35
+r;274726371;60784;10922595;11;35
+r;299064281;60784;6299038;11;35
+r;313626189;60784;12048987;11;35
+r;313627538;60784;12049037;11;35
+r;313627972;60784;12049030;11;35
+r;313628687;60784;12048861;11;35
+r;341341776;60784;13449123;11;35
+r;419496946;60784;15366464;11;35
+r;313685453;60784;12049995;11;36
+r;313686453;60784;12049916;11;36
+r;313689211;60784;12050061;11;36
+r;313693317;60784;12050122;11;36
+r;313705212;60784;12050872;11;36
+r;313715609;60784;12051117;11;36
+r;313763598;60784;12051444;11;36
+r;313763722;60784;12051429;11;36
+r;313553388;60784;12040816;11;37
+r;121444569;60784;6526955;11;38
+r;270406616;60784;10829659;11;38
+r;122689081;60784;6430877;11;39
+r;269959445;60784;10789698;11;39
+r;308555966;60784;11957203;11;39
+r;308559211;60784;11957204;11;39
+r;219831083;60784;9929811;11;40
+r;269959455;60784;10789697;11;40
+r;270406612;60784;10829660;11;40
+r;290164406;60784;11326457;11;40
+r;308634468;60784;11957205;11;40
+r;121446143;60784;6526729;11;41
+r;292320205;60784;11385427;11;42
+r;292320214;60784;11385426;11;42
+r;292320301;60784;11385287;11;42
+r;258722681;60784;10446733;11;43
+r;292209545;60784;11385286;11;43
+r;338931663;60784;13300833;11;44
+r;121449539;60784;6526243;11;45
+r;118504338;60784;6012654;11;46
+r;109884749;60784;5553944;11;48
+r;121446045;60784;6526744;11;49
+r;125517127;60784;7594555;11;50
+r;183023160;60784;8779423;11;50
+r;217020631;60784;9659964;11;50
+r;217371760;60784;9696712;11;50
+r;217371771;60784;9696714;11;50
+r;217371784;60784;9696713;11;50
+r;283129981;60784;11136579;11;50
+r;323059397;60784;12617052;11;50
+r;323142497;60784;12620246;11;50
+r;323860675;60784;12645847;11;50
+r;323860893;60784;12645848;11;50
+r;326546713;60784;12715660;11;50
+r;348970798;60784;13800802;11;50
+r;348970822;60784;13771505;11;50
+r;348970888;60784;13750198;11;50
+r;348971076;60784;13771951;11;50
+r;348981857;60784;13765963;11;50
+r;348999335;60784;13782986;11;50
+r;348999359;60784;13771086;11;50
+r;368708920;60784;14531080;11;50
+r;399503565;60784;15570209;11;50
+r;402104636;60784;15365608;11;50
+r;402109760;60784;15502106;11;50
+r;384936750;60784;14869885;11;50
+r;397847902;60784;15530204;11;50
+r;411718679;60784;15771329;11;50
+r;14342745;60784;284425;11;51
+r;98615818;60784;4324080;11;51
+r;121451048;60784;6526025;11;51
+r;98468481;60784;4317987;11;52
+r;98468474;60784;4317986;11;53
+r;98979780;60784;4338348;11;54
+r;16896101;60784;566002;11;56
+r;88516866;60784;3515442;11;56
+r;98989839;60784;4338782;11;56
+r;107051268;60784;5355778;11;56
+r;71804603;60784;2928578;11;57
+r;106888889;60784;5331485;11;58
+r;91521599;60784;3673612;11;59
+r;108008687;60784;5498548;11;59
+r;30364172;60784;1877891;11;62
+r;12587113;60784;378654;11;101
+r;12659935;60784;360706;11;104
+r;12676053;60784;356730;11;104
+r;12579171;60784;380585;11;108
+r;12609127;60784;373233;11;109
+r;9060388;60784;320783;11;148
+r;8716461;60784;252860;11;161
+r;8721909;60784;256877;11;161
+r;8721917;60784;256881;11;161
+r;8721920;60784;256882;11;161
+r;8739581;60784;272074;11;163
+r;8760627;60784;292918;11;163
+r;8776836;60784;310918;11;164

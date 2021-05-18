@@ -1,0 +1,56 @@
+
+e;399990;'faites';1;50
+e;6335317;'plaies faites par des armes blanches';1;0
+e;6369495;'plaies faites par une arme a feu';1;0
+e;14529937;'faites de beaux rêves';1;0
+e;14874912;'Recueil des observations et des recherches qui ont été faites en Égypte pendant l'expédition de l'Armée française, publi';1;0
+e;10597506;'violences sexuelles faites aux femmes au travail';777;0
+e;11054710;'mouvement de lutte contre les violences faites aux femmes';1;0
+e;11054709;'mouvements de lutte contre les violences faites aux femmes';1;0
+e;9954647;'journée internationale pour l'élimination des violences faites aux travailleurs du sexe';777;0
+e;15316047;'blessures faites à soi-même';1;0
+e;10748131;'Ne faites confiance à personne';777;0
+e;16085418;'Ne faites pas de bruit, il dort.';1;0
+e;15783147;'Ne faites pas le délicat.';1;0
+e;15384533;'Ne me faites pas perdre mon temps!';1;0
+e;2415522;'les règles sont faites pour être transgressées';1;0
+e;6429783;'plaies faites par une arme blanche';1;0
+e;10161665;'J'aime beaucoup ce que vous faites';777;0
+e;2378697;'faites ce que je dis, pas ce que je fais';1;0
+e;2375521;'faites ce que je dis, ne faites pas ce que je fais';1;0
+e;14602911;'Association européenne contre les violences faites aux femmes au travail';777;0
+e;15572844;'Est-ce que vous faites partie d'un club?';1;0
+e;258174;'violences faites aux femmes';1;34
+e;2549744;'vous me faites rire';1;0
+e;366212;'ne vous en faites pas';1;50
+e;200778;'faites excuse';1;50
+e;258173;'violences faites aux enfants';1;12
+e;3490836;'Elles sont faites pour vous';777;0
+e;3845386;'faites chauffer la colle';1;0
+r;301219792;399990;6335317;11;25
+r;302973144;399990;6369495;11;25
+r;368586339;399990;14529937;11;26
+r;385039889;399990;14874912;11;26
+r;264445681;399990;10597506;11;31
+r;279947241;399990;11054710;11;31
+r;279949282;399990;11054709;11;31
+r;220656505;399990;9954647;11;32
+r;419655893;399990;15316047;11;32
+r;269385568;399990;10748131;11;35
+r;419511874;399990;16085418;11;35
+r;419511880;399990;15783147;11;35
+r;419511993;399990;15384533;11;35
+r;54361575;399990;2415522;11;37
+r;122697487;399990;6429783;11;41
+r;238095896;399990;10161665;11;44
+r;52237420;399990;2378697;11;47
+r;52215830;399990;2375521;11;50
+r;393806359;399990;14602911;11;50
+r;399662103;399990;15572844;11;50
+r;14266225;399990;258174;11;51
+r;52452870;399990;2549744;11;51
+r;14210273;399990;366212;11;56
+r;14280189;399990;200778;11;57
+r;14266227;399990;258173;11;58
+r;88346997;399990;3490836;11;59
+r;95176192;399990;3845386;11;59

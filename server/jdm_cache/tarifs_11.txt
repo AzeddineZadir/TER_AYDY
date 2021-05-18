@@ -1,0 +1,34 @@
+
+e;399006;'tarifs';1;50
+e;14156887;'tarifs d'utilisation des réseaux publics d'électricité';777;0
+e;14454507;'encadrement des tarifs';1;0
+e;14631464;'L'absence de facturation de dépassements des tarifs fixés par l'autorité administrative';777;0
+e;16168548;'tarifs préférentiels';1;0
+e;10962799;'tarifs réglementés';1;0
+e;15499792;'applications des tarifs';1;0
+e;15544849;'Les compagnies aériennes sont soumis à des pressions intenses pour baisser leurs tarifs.';1;0
+e;12049759;'déterminer les tarifs des services offerts aux clients';1;0
+e;8914069;'accord général sur les tarifs douaniers et le commerce';777;0
+e;12729869;'hausse des tarifs d'électricité';1;0
+e;356821;'grille de tarifs';1;50
+e;357115;'guerre des tarifs';1;50
+e;382937;'tarifs publics';1;50
+e;462126;'Accord général sur les tarifs douaniers et le commerce';777;50
+e;1787149;'tarifs bancaires';1;0
+e;2031101;'demi-tarifs';2;0
+r;359658573;399006;14156887;11;25
+r;366942721;399006;14454507;11;25
+r;371698834;399006;14631464;11;25
+r;423951702;399006;16168548;11;25
+r;276649821;399006;10962799;11;33
+r;419603609;399006;15499792;11;33
+r;419495405;399006;15544849;11;35
+r;313664487;399006;12049759;11;36
+r;192980260;399006;8914069;11;50
+r;327321784;399006;12729869;11;50
+r;14212074;399006;356821;11;54
+r;14212028;399006;357115;11;55
+r;14207259;399006;382937;11;57
+r;16288409;399006;462126;11;58
+r;29338580;399006;1787149;11;58
+r;32524246;399006;2031101;11;60

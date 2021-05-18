@@ -28,15 +28,77 @@ e;14610066;'chambre intérieure';1;0
 e;6371065;'dégénérescence de la chambre antérieure';1;0
 e;6416330;'inflammation de la chambre antérieure';1;0
 e;16064559;'faire une chambre';1;0
-e;15332040;'Ma chambre a du papier peint et des rideaux assortis.';1;0
-e;15400286;'Ne laisse pas ta chambre en désordre.';1;0
-e;15304123;'Nous avons logé dans une chambre d'hôte.';1;0
-e;15790041;'Orchestre de chambre de Tallinn';777;0
-e;15932135;'Orchestre de chambre de la radiodiffusion française';777;0
-e;15343107;'Sa chambre est toujours en désordre.';1;0
-e;15343112;'Va ranger ta chambre.';1;0
-e;15199122;'alpiniste en chambre';1;0
-e;15236294;'athlète en chambre';1;0
+e;6432026;'aspiration thérapeutique de la chambre antérieure de l'oeil';1;0
+e;10672414;'chambre régionale de commerce et d'industrie Auvergne';777;0
+e;6294756;'chambre malade';1;0
+e;6297046;'chambre stérile';1;0
+e;6343392;'cristallisation de la chambre antérieure';1;0
+e;6346255;'chambre d'entrée du ventricule gauche';1;0
+e;6356384;'saignements et troubles vasculaires de la chambre antérieure';1;0
+e;6359644;'chambre d'entrée du ventricule droit';1;0
+e;6364891;'autres développeuses de photographies en chambre noire';1;0
+e;6377711;'trouble de la chambre antérieure';1;0
+e;6395371;'dépôt et dégénérescence de la chambre antérieure changement structurel';1;0
+e;6418298;'autres développeurs de photographies en chambre noire';1;0
+e;6418846;'exécution judiciaire par chambre à gaz';1;0
+e;14300641;'dame de chambre';1;0
+e;14540167;'chambre en cité universitaire';1;6
+e;14561230;'ne pas chauffer sa chambre';1;0
+e;14571140;'en robe de chambre';1;0
+e;14585184;'dans sa chambre';1;0
+e;14594500;'chambre avec douche';1;0
+e;14635365;'service en chambre';1;0
+e;14716554;'Le journal d'une femme de chambre';1;0
+e;6441466;'reformation de la chambre de l'oeil';1;0
+e;6299011;'chambre antérieure peu profonde';1;0
+e;12936231;'renouvellement par moitié de la chambre des conseillers';777;0
+e;12939428;'élections à la chambre des conseillers du Japon de 2019';777;0
+e;5797040;'chambre de dégrisement';777;0
+e;6088302;'chambre civique';777;0
+e;6082630;'Le Mystère de la chambre jaune';777;0
+e;6441146;'glaucome associé à des anomalies de l'angle de la chambre';1;0
+e;6435840;'acte chirurgical sur la chambre antérieure de l'oeil';1;0
+e;6441183;'femme de chambre d'établissement';1;0
+e;6439438;'autres malformations congénitales de la chambre antérieure de l'oeil';1;0
+e;6437055;'malformations congénitales de la chambre postérieure de l'oeil';1;0
+e;6433418;'fibrose de la chambre antérieure de l'oeil';1;0
+e;6426441;'angle étroit de la chambre antérieure';1;0
+e;11769863;'cantates de chambre d'Alessandro Scarlatti';777;0
+e;16172723;'décor de chambre de poupée';1;0
+e;5808724;'chambre de Schmidt';777;0
+e;5814941;'chambre d'Ames';777;0
+e;6440671;'chambre antérieure de l'oeil';1;0
+e;6440205;'aplatissement de la chambre antérieure de l'oeil';1;0
+e;6438409;'chambre antérieure de l'oeil aplatie';1;0
+e;6437789;'kystes exsudatifs de l'iris ou de la chambre antérieure';1;0
+e;6435542;'malformations congénitales de la chambre antérieure de l'oeil';1;0
+e;8011750;'finir la chambre';1;0
+e;10600117;'chambre des notaires';777;0
+e;15395500;'dès que j'ai quitté ma chambre';1;0
+e;15199118;'décor de chambre';1;0
+e;15243895;'décor de chambre à coucher';1;0
+e;15379367;'décoration de la chambre';1;0
+e;5688110;'La chambre claire. Note sur la photographie';777;0
+e;6442095;'évacuation thérapeutique de la chambre antérieure de l'oeil';1;0
+e;6439966;'irrigation de la chambre antérieure de l'oeil';1;0
+e;6439192;'extraction magnétique de corps étranger intra-oculaire de la chambre antérieure de l'oeil';1;0
+e;6438736;'anomalie congénitale de la chambre postérieure de l'oeil';1;0
+e;6438220;'kyste de la chambre antérieure de l'oeil';1;0
+e;6433239;'magnétique dans la chambre antérieure de l'oeil corps étranger';1;0
+e;9985000;'Le Mystère de la chambre close';777;0
+e;9994814;'première chambre civile';777;0
+e;15260472;'choeur de chambre';1;0
+e;15560772;'clé de chambre';1;0
+e;15391561;'coin chambre';1;0
+e;16102378;'chambre de compensation de Londres';1;0
+e;16172727;'chambre de compensation des instruments financiers';1;0
+e;2454620;'arrière-chambre';1;0
+e;5836002;'chambre supérieure de discipline';777;0
+e;6441900;'paracenthèse de la chambre antérieure de l'oeil avec aspiration diagnostique de l'humeur aqueuse';1;0
+e;6437130;'extraction de corps étranger de la chambre antérieure de l'oeil par incision';1;0
+e;10963873;'Le Mystère de la chambre 43';777;0
+e;10741544;'jazz de chambre';777;0
+e;10734006;'chambre des ancêtres';777;0
 e;15265726;'camarade de chambre';1;0
 e;15411926;'chambre adjacente';1;0
 e;15416537;'chambre avec cabinet de toilette';1;0
@@ -90,102 +152,39 @@ e;15416560;'chambre à expansion';1;0
 e;15522431;'chambre à injection implantable avec membrane siliconée';1;0
 e;15571632;'chambre à quatre lits';1;0
 e;15241812;'chambre à un lit';1;0
-e;15260472;'choeur de chambre';1;0
-e;15560772;'clé de chambre';1;0
-e;15391561;'coin chambre';1;0
-e;15395500;'dès que j'ai quitté ma chambre';1;0
-e;15199118;'décor de chambre';1;0
-e;15243895;'décor de chambre à coucher';1;0
-e;15379367;'décoration de la chambre';1;0
 e;16168524;'chambre non fumeurs';1;0
 e;16168519;'chambre avec lit supplémentaire';1;0
 e;16168545;'chambre à blanc';1;0
 e;16168546;'chambre en recouche';1;0
 e;16168518;'chambre à un grand lit';1;0
 e;16170648;'chambre à pression négative';1;0
-e;6432026;'aspiration thérapeutique de la chambre antérieure de l'oeil';1;0
-e;10672414;'chambre régionale de commerce et d'industrie Auvergne';777;0
-e;6294756;'chambre malade';1;0
-e;6297046;'chambre stérile';1;0
-e;6343392;'cristallisation de la chambre antérieure';1;0
-e;6346255;'chambre d'entrée du ventricule gauche';1;0
-e;6356384;'saignements et troubles vasculaires de la chambre antérieure';1;0
-e;6359644;'chambre d'entrée du ventricule droit';1;0
-e;6364891;'autres développeuses de photographies en chambre noire';1;0
-e;6377711;'trouble de la chambre antérieure';1;0
-e;6395371;'dépôt et dégénérescence de la chambre antérieure changement structurel';1;0
-e;6418298;'autres développeurs de photographies en chambre noire';1;0
-e;6418846;'exécution judiciaire par chambre à gaz';1;0
-e;14300641;'dame de chambre';1;0
-e;14540167;'chambre en cité universitaire';1;6
-e;14561230;'ne pas chauffer sa chambre';1;0
-e;14571140;'en robe de chambre';1;0
-e;14585184;'dans sa chambre';1;0
-e;14594500;'chambre avec douche';1;0
-e;14635365;'service en chambre';1;0
-e;14716554;'Le journal d'une femme de chambre';1;0
-e;15835376;'chambre des lords';1;0
-e;6441466;'reformation de la chambre de l'oeil';1;0
-e;6299011;'chambre antérieure peu profonde';1;0
-e;12936231;'renouvellement par moitié de la chambre des conseillers';777;0
-e;12939428;'élections à la chambre des conseillers du Japon de 2019';777;0
-e;5797040;'chambre de dégrisement';777;0
-e;6088302;'chambre civique';777;0
-e;6082630;'Le Mystère de la chambre jaune';777;0
-e;6441146;'glaucome associé à des anomalies de l'angle de la chambre';1;0
-e;6435840;'acte chirurgical sur la chambre antérieure de l'oeil';1;0
-e;6441183;'femme de chambre d'établissement';1;0
-e;6439438;'autres malformations congénitales de la chambre antérieure de l'oeil';1;0
-e;6437055;'malformations congénitales de la chambre postérieure de l'oeil';1;0
-e;6433418;'fibrose de la chambre antérieure de l'oeil';1;0
-e;6426441;'angle étroit de la chambre antérieure';1;0
-e;11769863;'cantates de chambre d'Alessandro Scarlatti';777;0
-e;16070312;'La chambre des secrets';1;0
-e;5808724;'chambre de Schmidt';777;0
-e;5814941;'chambre d'Ames';777;0
-e;6440671;'chambre antérieure de l'oeil';1;0
-e;6440205;'aplatissement de la chambre antérieure de l'oeil';1;0
-e;6438409;'chambre antérieure de l'oeil aplatie';1;0
-e;6437789;'kystes exsudatifs de l'iris ou de la chambre antérieure';1;0
-e;6435542;'malformations congénitales de la chambre antérieure de l'oeil';1;0
-e;8011750;'finir la chambre';1;0
-e;10600117;'chambre des notaires';777;0
-e;5688110;'La chambre claire. Note sur la photographie';777;0
-e;6442095;'évacuation thérapeutique de la chambre antérieure de l'oeil';1;0
-e;6439966;'irrigation de la chambre antérieure de l'oeil';1;0
-e;6439192;'extraction magnétique de corps étranger intra-oculaire de la chambre antérieure de l'oeil';1;0
-e;6438736;'anomalie congénitale de la chambre postérieure de l'oeil';1;0
-e;6438220;'kyste de la chambre antérieure de l'oeil';1;0
-e;6433239;'magnétique dans la chambre antérieure de l'oeil corps étranger';1;0
-e;9985000;'Le Mystère de la chambre close';777;0
-e;9994814;'première chambre civile';777;0
-e;2454620;'arrière-chambre';1;0
-e;5836002;'chambre supérieure de discipline';777;0
-e;6441900;'paracenthèse de la chambre antérieure de l'oeil avec aspiration diagnostique de l'humeur aqueuse';1;0
-e;6437130;'extraction de corps étranger de la chambre antérieure de l'oeil par incision';1;0
-e;10963873;'Le Mystère de la chambre 43';777;0
-e;10741544;'jazz de chambre';777;0
-e;10734006;'chambre des ancêtres';777;0
-e;1829985;'chambre postérieure du bulbe de l'il';1;0
-e;1829982;'chambre antérieure du bulbe de l'il';1;0
-e;1829988;'chambre vitrée du bulbe de l'il';1;0
 e;6433131;'réouverture de l'iris dans la chambre antérieure de l'oeil';1;0
 e;10960028;'chambre de commerce et d'industrie de Caen';777;0
 e;10874779;'ranger la chambre';1;0
 e;13044398;'chambre annulaire';1;0
-e;1829049;'chambre de Boyden';1;0
-e;1829984;'chambre intervilleuse';1;0
-e;1829986;'chambre puits';1;0
-e;1836553;'implant de chambre postérieure';1;0
+e;15835376;'chambre des lords';1;0
+e;15236294;'athlète en chambre';1;0
+e;1829985;'chambre postérieure du bulbe de l'il';1;0
+e;1829982;'chambre antérieure du bulbe de l'il';1;0
+e;1829988;'chambre vitrée du bulbe de l'il';1;0
 e;1836552;'implant de chambre antérieure sur il phaque';1;0
 e;5921382;'chambre à vide';777;0
 e;5961219;'chambre de Madame Récamier';777;0
 e;6445052;'insertion initiale d'appareil cardiaque double chambre';1;0
 e;6443816;'injection de liquide dans la chambre antérieure de l'oeil';1;0
-e;11079020;'Rencontres artistiques de musique de chambre de Bel-Air';777;0
 e;11090008;'tombe à chambre';1;0
 e;12071946;'chambre des comptes de Bretagne';777;0
+e;15304123;'Nous avons logé dans une chambre d'hôte.';1;0
+e;15790041;'Orchestre de chambre de Tallinn';777;0
+e;15932135;'Orchestre de chambre de la radiodiffusion française';777;0
+e;15343107;'Sa chambre est toujours en désordre.';1;0
+e;15343112;'Va ranger ta chambre.';1;0
+e;15199122;'alpiniste en chambre';1;0
+e;1829049;'chambre de Boyden';1;0
+e;1829984;'chambre intervilleuse';1;0
 e;1829983;'chambre de chasse du ventricule';1;0
+e;1829986;'chambre puits';1;0
+e;1836553;'implant de chambre postérieure';1;0
 e;6450255;'implantation initiale d'appareil cardiaque double chambre';1;0
 e;6447957;'kyste exsudatif de la chambre antérieure de l'oeil';1;0
 e;6439751;'injection de médicament dans la chambre antérieure de l'oeil';1;0
@@ -197,7 +196,8 @@ e;11029238;'tombes à chambre';1;0
 e;12077748;'chambre d'opération';1;0
 e;12077749;'chambre du conseil';1;0
 e;12077743;'chambre ardente';1;0
-e;15531721;'La chambre était austèrement meublée.';1;0
+e;15332040;'Ma chambre a du papier peint et des rideaux assortis.';1;0
+e;15400286;'Ne laisse pas ta chambre en désordre.';1;0
 e;5975218;'Dans ma chambre';777;0
 e;6448474;'évacuation de la chambre antérieure de l'oeil pour hyphéma';1;0
 e;6446021;'du corps ciliaire et de la chambre antérieure kystes de l'iris';1;0
@@ -225,19 +225,19 @@ e;11290639;'chambre des représentants du Delaware';777;0
 e;11290635;'chambre des représentants du Dakota du Sud';777;0
 e;11290617;'chambre des représentants de l'Arkansas';777;0
 e;11290609;'chambre des représentants de l'Alabama';777;0
-e;2373397;'chambre secrète';1;0
 e;2471136;'chambre des Lords';1;0
 e;5808718;'chambre à dérive';777;0
 e;6437744;'néovascularisation de l'angle de la chambre antérieure';1;0
 e;6436902;'prolifération épithéliale de la chambre antérieure de l'oeil';1;0
-e;10335975;'chambre de commerce et d'industrie de région Paris - Île-de-France';777;0
 e;11237061;'chambre d'écho';777;0
 e;11290714;'chambre de délégués';777;0
 e;11505138;'troisième chambre civile';777;0
+e;2373397;'chambre secrète';1;0
 e;5880814;'chambre de culture stérile';1;0
 e;6437870;'paracenthèse de la chambre antérieure de l'oeil avec extraction du sang par irrigation';1;0
 e;10787105;'chambre 666';777;0
 e;11364349;'préposite de la chambre sacrée';777;0
+e;16070312;'La chambre des secrets';1;0
 e;5983368;'chambre creuse';777;0
 e;6446167;'insertion de cathéter dans la chambre antérieure de l'oeil pour drainage permanent dans le cas de glaucome';1;0
 e;6446128;'acte diagnostique sur la chambre antérieure de l'oeil';1;0
@@ -246,7 +246,6 @@ e;6442090;'destruction de prolifération épithéliale de la chambre antérieure
 e;6424785;'pigmentation de la chambre antérieure';1;0
 e;10196511;'chambre d'adolescent';1;0
 e;11975710;'chambre du parlement';1;0
-e;2372345;'chambre à vannes';1;0
 e;2422434;'chambre antérieure';1;0
 e;5880815;'chambre de culture';1;0
 e;6451212;'paracenthèse de la chambre antérieure de l'oeil avec libération thérapeutique de l'humeur aqueuse';1;0
@@ -266,6 +265,7 @@ e;10187675;'chambre en désordre';1;0
 e;10553713;'aérer la chambre';1;0
 e;11011614;'chambre des conseillers';777;0
 e;11373262;'Orchestre de chambre de Stuttgart';777;0
+e;2372345;'chambre à vannes';1;0
 e;5976925;'pop/rock de chambre';777;0
 e;5990626;'École de la chambre syndicale de la couture parisienne';777;0
 e;6450264;'hémorragie de la chambre antérieure de l'oeil';1;0
@@ -274,6 +274,7 @@ e;6449089;'hydropisie aiguë de la chambre antérieure de l'oeil';1;0
 e;6526074;'développeurs de photographies en chambre noire';1;0
 e;7414011;'chambre en cité U';1;24
 e;10177409;'la chambre du fils';777;0
+e;11079020;'Rencontres artistiques de musique de chambre de Bel-Air';777;0
 e;11103902;'chambre de commerce et d'industrie de Grenoble';777;0
 e;11254144;'aller dans sa chambre';1;4
 e;11326484;'veste de chambre';1;0
@@ -286,8 +287,10 @@ e;10427909;'chambre des communes irlandaise';777;0
 e;11160690;'chambre de commerce et d'industrie de Bayonne Pays basque';777;0
 e;6452034;'autres malformations congénitales de la chambre postérieure de l'oeil';1;0
 e;10089735;'chambre du vitré';1;0
+e;10335975;'chambre de commerce et d'industrie de région Paris - Île-de-France';777;0
 e;11158275;'Nouvel orchestre de chambre de Rouen';777;0
 e;11158778;'Président de la chambre haute du Riksdag';777;0
+e;15531721;'La chambre était austèrement meublée.';1;0
 e;6451156;'chambre postérieure de l'oeil';1;0
 e;6451138;'extraction de corps étranger de la chambre antérieure de l'oeil par incision avec utilisation d'aimant';1;0
 e;10435426;'Le Secret de la chambre noire';777;0
@@ -295,7 +298,7 @@ e;6451500;'chambre d'inhalation';1;0
 e;6451074;'endothélium de la chambre antérieure de l'oeil';1;0
 e;6538232;'chambre de l'oeil gauche';1;0
 e;8918812;'chambre d'enfants';1;0
-e;8918810;'chambre d'ado';1;86
+e;8918810;'chambre d'ado';1;88
 e;8971043;'chambre universitaire';1;0
 e;9012473;'chambre de remplissage du ventricule droit';1;0
 e;9605853;'Directeur artistique de l'orchestre de chambre de Lausanne';777;0
@@ -326,6 +329,7 @@ e;15380241;'Je suis allé dans ma chambre pour défaire mes valises.';1;0
 e;15399111;'Je vais vous conduire à votre chambre.';1;0
 e;16103896;'Chef de l'opposition parlementaire à la chambre de l'Assemblée de l'Union d'Afrique du Sud 1910-1912';777;0
 e;16172725;'Avez-vous une chambre de libre?';1;0
+e;16321214;'Chef de la majorité à la chambre des représentants1989-1995';777;0
 e;1778414;'chambre antérieure du bulbe de l'oeil';1;0
 e;1778416;'chambre vitrée du bulbe de l'oeil';1;0
 e;3937717;'homme de chambre';1;0
@@ -536,7 +540,7 @@ e;154006;'chambre d'amis';1;100
 e;197440;'chambre forte';1;72
 e;20649;'femme de chambre';1;208
 e;4718;'musique de chambre';1;98
-e;114779;'robe de chambre';1;220
+e;114779;'robe de chambre';1;222
 e;154007;'chambre d'hôte';1;136
 e;238379;'chambre simple';1;78
 e;154008;'chambre d'hôtel';1;188
@@ -572,81 +576,6 @@ r;371253021;90075;14610066;11;25
 r;400483077;90075;6371065;11;25
 r;401763890;90075;6416330;11;25
 r;418410369;90075;16064559;11;25
-r;419502426;90075;15332040;11;25
-r;419511910;90075;15400286;11;25
-r;419514797;90075;15304123;11;25
-r;419519603;90075;15790041;11;25
-r;419519609;90075;15932135;11;25
-r;419538505;90075;15343107;11;25
-r;419559172;90075;15343112;11;25
-r;419590284;90075;15199122;11;25
-r;419615290;90075;15236294;11;25
-r;419677527;90075;15265726;11;25
-r;419696953;90075;15411926;11;25
-r;419696957;90075;15416537;11;25
-r;419696963;90075;15571626;11;25
-r;419696969;90075;15226176;11;25
-r;419696975;90075;15251149;11;25
-r;419696985;90075;15415272;11;25
-r;419696991;90075;15483479;11;25
-r;419696995;90075;15416540;11;25
-r;419696999;90075;15416541;11;25
-r;419697003;90075;15299273;11;25
-r;419697009;90075;15276581;11;25
-r;419697013;90075;15416558;11;25
-r;419697019;90075;15522171;11;25
-r;419697025;90075;15309715;11;25
-r;419697031;90075;14173478;11;25
-r;419697044;90075;15498054;11;25
-r;419697055;90075;15337103;11;25
-r;419697066;90075;15306094;11;25
-r;419697072;90075;15385840;11;25
-r;419697078;90075;15309711;11;25
-r;419697084;90075;15309713;11;25
-r;419697090;90075;15416555;11;25
-r;419697096;90075;15377774;11;25
-r;419697102;90075;15416557;11;25
-r;419697108;90075;15268756;11;25
-r;419697114;90075;15333208;11;25
-r;419697120;90075;15391009;11;25
-r;419697126;90075;15305739;11;25
-r;419697129;90075;15514840;11;25
-r;419697133;90075;15240268;11;25
-r;419697137;90075;15416561;11;25
-r;419697141;90075;15392900;11;25
-r;419697144;90075;15400288;11;25
-r;419697150;90075;15416565;11;25
-r;419697153;90075;15383303;11;25
-r;419697157;90075;15393987;11;25
-r;419697161;90075;15416566;11;25
-r;419697165;90075;15199110;11;25
-r;419697169;90075;15326483;11;25
-r;419697175;90075;15396541;11;25
-r;419697184;90075;15416574;11;25
-r;419697188;90075;15613614;11;25
-r;419697192;90075;15537753;11;25
-r;419697198;90075;15645666;11;25
-r;419697202;90075;15228373;11;25
-r;419697206;90075;15388673;11;25
-r;419697210;90075;15290321;11;25
-r;419697214;90075;15277419;11;25
-r;419697218;90075;15416560;11;25
-r;419697222;90075;15522431;11;25
-r;419697232;90075;15571632;11;25
-r;419697238;90075;15241812;11;25
-r;419707740;90075;15260472;11;25
-r;419714846;90075;15560772;11;25
-r;419716713;90075;15391561;11;25
-r;419803350;90075;15395500;11;25
-r;419806437;90075;15199118;11;25
-r;419806442;90075;15243895;11;25
-r;419806505;90075;15379367;11;25
-r;423937572;90075;16168524;11;25
-r;423939228;90075;16168519;11;25
-r;423939347;90075;16168545;11;25
-r;423940121;90075;16168546;11;25
-r;423967301;90075;16168518;11;25
-r;424063004;90075;16170648;11;25
 r;122679575;90075;6432026;11;26
 r;270782036;90075;10672414;11;26
 r;298848937;90075;6294756;11;26
@@ -668,7 +597,6 @@ r;370599788;90075;14585184;11;26
 r;370813412;90075;14594500;11;26
 r;371744685;90075;14635365;11;26
 r;374048152;90075;14716554;11;26
-r;413025957;90075;15835376;11;26
 r;121514883;90075;6441466;11;27
 r;299065635;90075;6299011;11;27
 r;331562778;90075;12936231;11;27
@@ -684,7 +612,7 @@ r;121554445;90075;6437055;11;29
 r;122667042;90075;6433418;11;29
 r;122723339;90075;6426441;11;29
 r;301853634;90075;11769863;11;29
-r;419106702;90075;16070312;11;29
+r;434385868;90075;16172723;11;29
 r;113283717;90075;5808724;11;30
 r;113782074;90075;5814941;11;30
 r;121521945;90075;6440671;11;30
@@ -694,6 +622,10 @@ r;121547760;90075;6437789;11;30
 r;121567875;90075;6435542;11;30
 r;134821371;90075;8011750;11;30
 r;264440012;90075;10600117;11;30
+r;419803350;90075;15395500;11;30
+r;419806437;90075;15199118;11;30
+r;419806442;90075;15243895;11;30
+r;419806505;90075;15379367;11;30
 r;112190253;90075;5688110;11;31
 r;121509247;90075;6442095;11;31
 r;121528253;90075;6439966;11;31
@@ -703,6 +635,11 @@ r;121544018;90075;6438220;11;31
 r;122668608;90075;6433239;11;31
 r;222097086;90075;9985000;11;31
 r;227673229;90075;9994814;11;31
+r;419707740;90075;15260472;11;31
+r;419714846;90075;15560772;11;31
+r;419716713;90075;15391561;11;31
+r;434378077;90075;16102378;11;31
+r;434378088;90075;16172727;11;31
 r;55561938;90075;2454620;11;32
 r;114022427;90075;5836002;11;32
 r;121511022;90075;6441900;11;32
@@ -710,26 +647,92 @@ r;121553808;90075;6437130;11;32
 r;276738053;90075;10963873;11;32
 r;269413811;90075;10741544;11;32
 r;269417917;90075;10734006;11;32
-r;29946468;90075;1829985;11;33
-r;29946608;90075;1829982;11;33
-r;29950120;90075;1829988;11;33
+r;419677527;90075;15265726;11;32
+r;419696953;90075;15411926;11;32
+r;419696957;90075;15416537;11;32
+r;419696963;90075;15571626;11;32
+r;419696969;90075;15226176;11;32
+r;419696975;90075;15251149;11;32
+r;419696985;90075;15415272;11;32
+r;419696991;90075;15483479;11;32
+r;419696995;90075;15416540;11;32
+r;419696999;90075;15416541;11;32
+r;419697003;90075;15299273;11;32
+r;419697009;90075;15276581;11;32
+r;419697013;90075;15416558;11;32
+r;419697019;90075;15522171;11;32
+r;419697025;90075;15309715;11;32
+r;419697031;90075;14173478;11;32
+r;419697044;90075;15498054;11;32
+r;419697055;90075;15337103;11;32
+r;419697066;90075;15306094;11;32
+r;419697072;90075;15385840;11;32
+r;419697078;90075;15309711;11;32
+r;419697084;90075;15309713;11;32
+r;419697090;90075;15416555;11;32
+r;419697096;90075;15377774;11;32
+r;419697102;90075;15416557;11;32
+r;419697108;90075;15268756;11;32
+r;419697114;90075;15333208;11;32
+r;419697120;90075;15391009;11;32
+r;419697126;90075;15305739;11;32
+r;419697129;90075;15514840;11;32
+r;419697133;90075;15240268;11;32
+r;419697137;90075;15416561;11;32
+r;419697141;90075;15392900;11;32
+r;419697144;90075;15400288;11;32
+r;419697150;90075;15416565;11;32
+r;419697153;90075;15383303;11;32
+r;419697157;90075;15393987;11;32
+r;419697161;90075;15416566;11;32
+r;419697165;90075;15199110;11;32
+r;419697169;90075;15326483;11;32
+r;419697175;90075;15396541;11;32
+r;419697184;90075;15416574;11;32
+r;419697188;90075;15613614;11;32
+r;419697192;90075;15537753;11;32
+r;419697198;90075;15645666;11;32
+r;419697202;90075;15228373;11;32
+r;419697206;90075;15388673;11;32
+r;419697210;90075;15290321;11;32
+r;419697214;90075;15277419;11;32
+r;419697218;90075;15416560;11;32
+r;419697222;90075;15522431;11;32
+r;419697232;90075;15571632;11;32
+r;419697238;90075;15241812;11;32
+r;423937572;90075;16168524;11;32
+r;423939228;90075;16168519;11;32
+r;423939347;90075;16168545;11;32
+r;423940121;90075;16168546;11;32
+r;423967301;90075;16168518;11;32
+r;424063004;90075;16170648;11;32
 r;122669638;90075;6433131;11;33
 r;276171920;90075;10960028;11;33
 r;272756880;90075;10874779;11;33
 r;334547612;90075;13044398;11;33
-r;29934084;90075;1829049;11;34
-r;29944414;90075;1829984;11;34
-r;29946490;90075;1829986;11;34
-r;30008353;90075;1836553;11;34
+r;413025957;90075;15835376;11;33
+r;419615290;90075;15236294;11;33
+r;29946468;90075;1829985;11;34
+r;29946608;90075;1829982;11;34
+r;29950120;90075;1829988;11;34
 r;30009806;90075;1836552;11;34
 r;115840571;90075;5921382;11;34
 r;116576285;90075;5961219;11;34
 r;121482784;90075;6445052;11;34
 r;121493813;90075;6443816;11;34
-r;280965078;90075;11079020;11;34
 r;283108718;90075;11090008;11;34
 r;314311019;90075;12071946;11;34
+r;419514797;90075;15304123;11;34
+r;419519603;90075;15790041;11;34
+r;419519609;90075;15932135;11;34
+r;419538505;90075;15343107;11;34
+r;419559172;90075;15343112;11;34
+r;419590284;90075;15199122;11;34
+r;29934084;90075;1829049;11;35
+r;29944414;90075;1829984;11;35
 r;29946215;90075;1829983;11;35
+r;29946490;90075;1829986;11;35
+r;30008353;90075;1836553;11;35
 r;121045140;90075;6450255;11;35
 r;121456442;90075;6447957;11;35
 r;121530249;90075;6439751;11;35
@@ -741,7 +744,8 @@ r;279553116;90075;11029238;11;35
 r;315097138;90075;12077748;11;35
 r;315097225;90075;12077749;11;35
 r;315097417;90075;12077743;11;35
-r;417031499;90075;15531721;11;35
+r;419502426;90075;15332040;11;35
+r;419511910;90075;15400286;11;35
 r;116936848;90075;5975218;11;36
 r;121451838;90075;6448474;11;36
 r;121474038;90075;6446021;11;36
@@ -769,19 +773,19 @@ r;289892479;90075;11290639;11;37
 r;289892493;90075;11290635;11;37
 r;289892580;90075;11290617;11;37
 r;289892615;90075;11290609;11;37
-r;52122420;90075;2373397;11;38
 r;55873462;90075;2471136;11;38
 r;113283752;90075;5808718;11;38
 r;121548178;90075;6437744;11;38
 r;121555794;90075;6436902;11;38
-r;253383442;90075;10335975;11;38
 r;287945982;90075;11237061;11;38
 r;288983381;90075;11290714;11;38
 r;295686635;90075;11505138;11;38
+r;52122420;90075;2373397;11;39
 r;114763371;90075;5880814;11;39
 r;121547049;90075;6437870;11;39
 r;269868229;90075;10787105;11;39
 r;291811820;90075;11364349;11;39
+r;419106702;90075;16070312;11;39
 r;117901047;90075;5983368;11;40
 r;121472688;90075;6446167;11;40
 r;121473075;90075;6446128;11;40
@@ -790,7 +794,6 @@ r;121509304;90075;6442090;11;40
 r;122736205;90075;6424785;11;40
 r;243240682;90075;10196511;11;40
 r;310691799;90075;11975710;11;40
-r;52040809;90075;2372345;11;41
 r;54500900;90075;2422434;11;41
 r;114763365;90075;5880815;11;41
 r;121036390;90075;6451212;11;41
@@ -810,6 +813,7 @@ r;241365041;90075;10187675;11;42
 r;262960899;90075;10553713;11;42
 r;278862520;90075;11011614;11;42
 r;291743915;90075;11373262;11;42
+r;52040809;90075;2372345;11;43
 r;116935752;90075;5976925;11;43
 r;117595157;90075;5990626;11;43
 r;121045024;90075;6450264;11;43
@@ -818,6 +822,7 @@ r;121055805;90075;6449089;11;43
 r;121450730;90075;6526074;11;43
 r;124489294;90075;7414011;11;43
 r;238923532;90075;10177409;11;43
+r;280965078;90075;11079020;11;43
 r;281741514;90075;11103902;11;43
 r;288416814;90075;11254144;11;43
 r;290129165;90075;11326484;11;43
@@ -830,8 +835,10 @@ r;256485685;90075;10427909;11;44
 r;285412062;90075;11160690;11;44
 r;121028877;90075;6452034;11;45
 r;232662022;90075;10089735;11;45
+r;253383442;90075;10335975;11;45
 r;284000008;90075;11158275;11;45
 r;284022527;90075;11158778;11;45
+r;417031499;90075;15531721;11;45
 r;121036913;90075;6451156;11;46
 r;121037102;90075;6451138;11;46
 r;256294692;90075;10435426;11;46
@@ -870,6 +877,7 @@ r;402273799;90075;15380241;11;50
 r;402274785;90075;15399111;11;50
 r;420260442;90075;16103896;11;50
 r;425304018;90075;16172725;11;50
+r;429222500;90075;16321214;11;50
 r;29210558;90075;1778414;11;51
 r;29211001;90075;1778416;11;51
 r;95170760;90075;3937717;11;51

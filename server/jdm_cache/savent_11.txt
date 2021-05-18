@@ -1,0 +1,14 @@
+
+e;431550;'savent';1;50
+e;15366952;'ceux qui savent';1;0
+e;15338493;'Les hôpitaux ne savent pas collecter l'information comme il se doit.';1;0
+e;10188708;'C'est toujours pour ceux qui savent';777;0
+e;10426639;'les blancs ne savent pas sauter';777;0
+e;2558811;'ils ne savent plus quoi inventer';1;0
+e;40004;'Pour ceux qui savent';1;50
+r;419696426;431550;15366952;11;32
+r;419496174;431550;15338493;11;35
+r;242261381;431550;10188708;11;39
+r;256489992;431550;10426639;11;41
+r;52448587;431550;2558811;11;54
+r;14321637;431550;40004;11;58

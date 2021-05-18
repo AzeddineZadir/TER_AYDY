@@ -1,0 +1,62 @@
+
+e;156079;'récente';1;74
+e;6287871;'syphilis symptomatique récente secondaire';1;0
+e;6308101;'communication interventriculaire comme complication récente d'un infarctus aigu du myocarde';1;0
+e;6324772;'mémoire récente';1;0
+e;6346062;'hémopéricarde comme complication récente d'un infarctus aigu du myocarde';1;0
+e;6381776;'incision et réexploration d'une opération récente';1;0
+e;6385883;'syphilis symptomatique récente primaire';1;0
+e;6388236;'communication interauriculaire comme complication récente d'un infarctus aigu du myocarde';1;0
+e;6405283;'torticolis lésion traumatique récente - voir lésion traumatique selon les localisations anatomiques';1;0
+e;6397343;'syphilis symptomatique récente';1;0
+e;14558511;'période géométrique récente';777;0
+e;14669883;'semi-récente';1;0
+e;14763159;'être de survenue récente';1;0
+e;6372954;'rupture des cordages tendineux comme complication récente d'un infarctus aigu du myocarde';1;0
+e;6312786;'blessure récente';1;0
+e;16366718;'la plus récente';1;0
+e;6402433;'rupture du muscle papillaire comme complication récente d'un infarctus aigu du myocarde';1;0
+e;6324508;'lésion traumatique récente - voir index alphabétique';1;0
+e;6296082;'états suivants non précisés comme complication récente d'un infarctus aigu du myocarde';1;0
+e;6340004;'trouble de la mémoire récente';1;0
+e;15206223;'de construction récente';1;0
+e;15243248;'de construction très récente';1;0
+e;6383223;'chirurgie plastique comme traitement d'une lésion traumatique récente - coder à cette lésion traumatique - voir index alphabétique';1;0
+e;6430095;'déchirure récente du cartilage articulaire du genou';1;0
+e;15243250;'bâtiment de construction récente';1;0
+e;1831510;'déchirure obstétricale récente';1;0
+e;6425058;'révision plastique d'une opération récente';1;0
+e;11325474;'déchirure récente';1;0
+e;9946089;'1. L'évolution récente d'Outre-mers. Revue d'histoire';777;0
+e;1689381;'apparition récente';1;0
+e;360559;'jusqu'à une date récente';1;50
+r;298254039;156079;6287871;11;25
+r;299569012;156079;6308101;11;25
+r;300184653;156079;6324772;11;25
+r;301559234;156079;6346062;11;25
+r;303931028;156079;6381776;11;25
+r;304382528;156079;6385883;11;25
+r;304503440;156079;6388236;11;25
+r;305303396;156079;6405283;11;25
+r;341206173;156079;6397343;11;25
+r;369985937;156079;14558511;11;25
+r;373006097;156079;14669883;11;25
+r;375265655;156079;14763159;11;25
+r;400528383;156079;6372954;11;25
+r;398413974;156079;6312786;11;25
+r;432180253;156079;16366718;11;25
+r;400853575;156079;6402433;11;25
+r;399322867;156079;6324508;11;25
+r;298885831;156079;6296082;11;26
+r;301459357;156079;6340004;11;26
+r;419766319;156079;15206223;11;30
+r;419766323;156079;15243248;11;30
+r;419707339;156079;6383223;11;31
+r;122695086;156079;6430095;11;32
+r;419668566;156079;15243250;11;32
+r;29961282;156079;1831510;11;34
+r;122734015;156079;6425058;11;35
+r;290068368;156079;11325474;11;42
+r;220412349;156079;9946089;11;50
+r;27904665;156079;1689381;11;59
+r;12660511;156079;360559;11;110

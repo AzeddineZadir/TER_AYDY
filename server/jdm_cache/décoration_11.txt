@@ -1,0 +1,84 @@
+
+e;1346;'décoration';1;668
+e;14453217;'décoration et distinction';1;0
+e;14585173;'remise de décoration';1;0
+e;15033887;'ateliers de décoration';1;0
+e;10590276;'décoration internationale';777;0
+e;10590228;'décoration du Lys';777;0
+e;15220875;'décoration d'extérieur';1;0
+e;15406839;'décoration d'extérieur et d'intérieur';1;0
+e;15406837;'décoration d'intérieur et d'extérieur';1;0
+e;15379367;'décoration de la chambre';1;0
+e;15220876;'décoration de noël';1;0
+e;15220873;'décoration de table';1;0
+e;15220886;'décoration des blasons';1;0
+e;15220869;'décoration extérieure';1;0
+e;15484716;'décoration extérieure et intérieure';1;0
+e;15484717;'décoration intérieure et extérieure';1;0
+e;11069056;'décoration allemande';1;0
+e;11755670;'pièce de décoration';1;0
+e;15434564;'boutique de décoration';1;0
+e;16182591;'Ruban de la décoration';777;0
+e;5921574;'décoration végétale';777;0
+e;10844648;'décoration pour la bravoure et le mérite des volontaires de l'Est';777;0
+e;10748391;'décoration de fête';1;0
+e;5993704;'Art et décoration';777;0
+e;5517137;'style de décoration';1;0
+e;5519011;'décoration militaire américaine';1;0
+e;14436012;'Fonds municipal de décoration';777;0
+e;5519006;'décoration militaire allemande';1;0
+e;3185788;'décoration vestimentaire';1;0
+e;597818;'décoration d'intérieur';777;4
+e;1801817;'décoration militaire de la Seconde Guerre mondiale';1;0
+e;1801816;'décoration militaire française';1;0
+e;348865;'décoration militaire';1;52
+e;337049;'atelier de décoration';1;50
+e;389781;'élément de décoration';1;50
+e;348866;'décoration zoomorphe';1;50
+e;231241;'décoration de Noël';1;56
+e;251995;'décoration florale';1;20
+e;252535;'décoration honorifique';1;50
+e;181979;'décoration urbaine';1;50
+e;270899;'objet de décoration';1;50
+e;198502;'décoration intérieure';1;50
+r;366896640;1346;14453217;11;25
+r;370599685;1346;14585173;11;26
+r;393615610;1346;15033887;11;26
+r;264465024;1346;10590276;11;29
+r;264465382;1346;10590228;11;29
+r;419806483;1346;15220875;11;30
+r;419806488;1346;15406839;11;30
+r;419806495;1346;15406837;11;30
+r;419806502;1346;15379367;11;30
+r;419806507;1346;15220876;11;30
+r;419806510;1346;15220873;11;30
+r;419806515;1346;15220886;11;30
+r;419806520;1346;15220869;11;30
+r;419806525;1346;15484716;11;30
+r;419806535;1346;15484717;11;30
+r;283116559;1346;11069056;11;31
+r;301556160;1346;11755670;11;31
+r;419662369;1346;15434564;11;32
+r;434361002;1346;16182591;11;33
+r;115839950;1346;5921574;11;34
+r;271581912;1346;10844648;11;36
+r;268985912;1346;10748391;11;37
+r;117863120;1346;5993704;11;46
+r;108404808;1346;5517137;11;49
+r;108808891;1346;5519011;11;50
+r;397509787;1346;14436012;11;50
+r;108809775;1346;5519006;11;51
+r;77275821;1346;3185788;11;56
+r;18719528;1346;597818;11;58
+r;29489402;1346;1801817;11;59
+r;29489414;1346;1801816;11;63
+r;12707763;1346;348865;11;102
+r;12757383;1346;337049;11;103
+r;12542845;1346;389781;11;106
+r;12707759;1346;348866;11;110
+r;8699745;1346;231241;11;161
+r;8715555;1346;251995;11;161
+r;8716138;1346;252535;11;161
+r;8639312;1346;181979;11;163
+r;8738429;1346;270899;11;163
+r;8665162;1346;198502;11;165

@@ -1,0 +1,1878 @@
+
+e;141683;'petite';1;1318
+e;10845095;'petite-patrie';777;0
+e;11571962;'petite-commune';777;0
+e;6301157;'petite lèvre de la vulve';1;0
+e;6301815;'petite sous-unité du ribosome des archées';1;0
+e;6305399;'petite protéine riche en proline de type iid';1;0
+e;6310053;'analyses en petite superficie';1;0
+e;6310836;'nanisme hypophysaire avec petite selle turcique';1;0
+e;6310972;'petite protéine riche en proline de type 2d';1;0
+e;6312167;'petite scissure interlobaire du poumon droit';1;0
+e;6319678;'petite poule de mer arctique';1;0
+e;6322203;'petite protéine riche en proline de type iii';1;0
+e;6322848;'petite sous-unité du ribosome bactérien';1;0
+e;6324157;'petite sous-unité ribosomale des eucaryotes';1;0
+e;6333783;'petite sous-unité ribosomique';1;0
+e;6333981;'petite corne du coccyx';1;0
+e;6338612;'petite berle';1;0
+e;6345198;'petite sous-unité du ribosome archéen';1;0
+e;6349178;'petite sous-unité du ribosome des bactéries';1;0
+e;6354640;'petite protéine riche en proline de type 2e';1;0
+e;6361839;'petite sous-unité du ribosome des archéobactéries';1;0
+e;6364915;'serpent-jarretière à petite tête';1;0
+e;6368260;'neurone de petite taille';1;0
+e;6374490;'petite poule de mer atlantique';1;0
+e;6375294;'petite sous-unité du ribosome des eucaryotes';1;0
+e;6385917;'petite chauve-souris brune';1;0
+e;6389169;'petite aile du sphénoïde';1;0
+e;6389174;'petite poule de mer ronde';1;0
+e;6389664;'petite ouverture ischiatique';1;0
+e;6391128;'petite sous-unité ribosomique des eucaryotes';1;0
+e;6392799;'Épilepsie myoclonique de la petite enfance';1;0
+e;6395542;'petite ribonucléoprotéine nucléaire b';1;0
+e;6399839;'chabot à petite voile';1;0
+e;6403693;'procédures de petite chirurgie';1;0
+e;6407191;'petite sous-unité ribosomique des archéobactéries';1;0
+e;6407765;'lycode à petite tête';1;0
+e;6418665;'petite sous-unité ribosomique des bactéries';1;0
+e;6421528;'petite courbure du corps gastrique';1;0
+e;12048785;'petite-rochelle';777;0
+e;12196988;'petite oseille ac';1;0
+e;12177058;'mesure de petite oseille activation des basophiles';1;0
+e;12177056;'mesure de petite oseille ac igg4';1;0
+e;12177054;'mesure de petite oseille ac igg';1;0
+e;12177052;'détermination de la présence de petite oseille ac ige classification rast';1;0
+e;12177049;'mesure de petite oseille ac ige';1;0
+e;12166182;'mesure de lipoprotéine bêta petite sous particule';1;0
+e;12978348;'Unico la petite licorne';777;0
+e;6326128;'petite sous-unité ribosomale';1;0
+e;6398349;'petite caroncule duodénale';1;0
+e;6419992;'petite cavité péritonéale';1;0
+e;13595622;'parc national de la petite Fatra';777;0
+e;6356182;'ulcère gastrique de la petite courbure';1;0
+e;6286816;'polypeptide f de la petite ribonucléoprotéine nucléaire';1;0
+e;6404633;'petite cellule lutéale';1;0
+e;6405819;'lipome colique de petite taille';1;0
+e;13855791;'une toute petite partie';777;0
+e;14030593;'petite capitale E barré';777;0
+e;14530630;'sortir en petite tenue';1;0
+e;14559879;'petite embarcation à moteur';1;0
+e;14590336;'pays de petite gabelle';777;0
+e;14602707;'petite portion';1;0
+e;14606618;'Ma petite lyrique muse';777;0
+e;14629742;'petite parcelle';1;0
+e;14653088;'petite tête';1;0
+e;14769914;'petite Russie';777;0
+e;14770268;'raoul petite';777;0
+e;14779438;'petite lande';777;0
+e;15039607;'petite Suisse';777;0
+e;14916372;'Les Zinzinverses de la petite dame Lovekins et du vieux Muffaroo';777;0
+e;14987911;'petite-france';777;0
+e;15013902;'petite brochette';1;0
+e;15420338;'petite conne';1;0
+e;15420361;'petite joueuse';1;0
+e;15695392;'la petite mer de Gâvres';777;0
+e;15695391;'petite mer de Gâvres';777;0
+e;15789306;'petite pression';1;0
+e;15834120;'petite capitale l culbuté';777;0
+e;16269640;'petite-rosselle';777;0
+e;16318360;'voiture de petite remise';777;0
+e;16437139;'petite flanelle';1;0
+e;3750979;'un petit peu de sel';1;0
+e;3755736;'crevette fraîche décortiquée et déveinée';1;0
+e;3754681;'petits clous de girofle moulus';1;0
+e;3754473;'petits clous de girofle';1;0
+e;5786857;'petite duchesse';777;0
+e;6425207;'tumeur gastrique de petite taille';1;0
+e;6285246;'petite lacération';1;0
+e;6289170;'petite apophyse du calcanéum';1;0
+e;6298658;'psychose de la petite enfance';1;0
+e;6309392;'syndromes congénitaux malformatifs associés principalement à une petite taille';1;0
+e;6337261;'trouble néonatal et de la petite enfance';1;0
+e;6325628;'petite musquée';1;0
+e;6339990;'petite artère';1;0
+e;6358093;'petite ouverture sciatique';1;0
+e;6365275;'protéines coeur de la petite ribonucléoprotéine nucléaire';1;0
+e;6386452;'petite cellule encochée';1;0
+e;6387238;'petite herbe à poux';1;0
+e;6399483;'petite protéine riche en proline de type 4';1;0
+e;6412590;'petite cavité péricardique';1;0
+e;6295595;'carcinomes à petite cellule';1;0
+e;12200833;'petite ligne de train';1;0
+e;11559037;'petite-paye';1;0
+e;14166768;'petite bourgeoise';1;2
+e;14486278;'petite embarcation';1;0
+e;14486335;'petite friture';1;42
+e;14529787;'avoir une petite retraite';1;8
+e;14536257;'petite faute';1;0
+e;14558035;'petite plaie';1;24
+e;14571050;'petite crotte';1;0
+e;14584125;'petite fugue';1;0
+e;14722211;'passage de la petite souris';1;6
+e;14724427;'la plus petite';1;0
+e;14755587;'petite barbe';1;10
+e;15569463;'à petite occasion, le loup prend le mouton';1;0
+e;3756199;'tout petit piment';1;0
+e;6423138;'méningiome de la petite aile du sphénoïde';1;0
+e;10666021;'Une si gentille petite fille';777;0
+e;6287530;'petite stature';1;0
+e;6328216;'petite plaie ouverte';1;0
+e;6353412;'petite papule';1;0
+e;12100204;'lipoprotéine bêta petite sous particule';1;0
+e;12238300;'mesure de petite oseille ac ige | technique indéterminée | sérum | ponctuel | résultat numérique | ratio';1;0
+e;12238299;'mesure de petite oseille ac ige | technique indéterminée | sérum | ponctuel | résultat numérique | arbitraire/volume';1;0
+e;10731418;'Sally la petite sorcière / Minifée';777;0
+e;11769725;'petite Sorbonne';777;0
+e;12102907;'petite oseille activation des basophiles';1;0
+e;12102906;'petite oseille ac igg4';1;0
+e;12102905;'petite oseille ac igg';1;0
+e;12102904;'petite oseille ac ige classification rast';1;0
+e;12102903;'petite oseille ac ige';1;0
+e;6422215;'petite protéine riche en proline de type 3';1;0
+e;12110300;'petite oseille ag';1;0
+e;6437269;'tumeur maligne de la petite courbure de l'estomac';1;0
+e;6430184;'canal excréteur d'une petite glande salivaire';1;0
+e;9987239;'Grande petite';777;0
+e;9989399;'tumeur maligne de la petite courbure de l'estomac non précisée';1;0
+e;10598437;'Printemps dans une petite ville';777;0
+e;10909811;'écrire à sa petite amie';1;0
+e;10907219;'petite Kabylie';777;0
+e;11057097;'Marasme petite roue';777;0
+e;15499208;'dans une petite heure';1;0
+e;15383388;'de la petite bière';1;0
+e;16085507;'de petite diffusion';1;0
+e;15265200;'de petite dimension';1;0
+e;15531882;'de petite et moyenne taille';1;0
+e;15635002;'de petite ou moyenne taille';1;0
+e;15247737;'de plus en plus petite';1;0
+e;15340030;'donner une petite pièce';1;0
+e;2379652;'belle-petite-fille';1;0
+e;5828617;'Une petite poule avisée';777;0
+e;6435134;'angle de la petite courbure de l'estomac';1;0
+e;9967138;'petite veine mésaraïque';777;0
+e;10004603;'Cathy la petite chenille';777;0
+e;10963134;'Rions avec la petite Lucie';777;0
+e;10991680;'Pourpre petite pierre';777;0
+e;15349253;'cherchant la petite bête';1;0
+e;2386304;'petite-olonne';1;0
+e;3752614;'lentilles au naturel';1;0
+e;6432769;'petite courbure de l'antre';1;0
+e;6431929;'programme de prévention et d'aide gouvernementale à la petite enfance défavorisée';1;0
+e;10963133;'Joue avec la petite Lucie';777;0
+e;13049457;'petite squille';1;0
+e;13044341;'petite pomme de la mort';1;0
+e;16032602;'avoir la petite quarantaine';1;0
+e;15408985;'avoir la plus petite part du gâteau';1;0
+e;15446230;'avoir une petite faim';1;0
+e;15432443;'avoir une petite voix';1;0
+e;6352460;'carcinome intra-épithélial de la petite courbure gastrique';1;0
+e;16091579;'arrière-petite';1;0
+e;5908921;'petite hyponomeute du fusain';777;0
+e;6428338;'petite raie électrique';1;0
+e;9980980;'petite ligne SNCF';1;0
+e;13049458;'petite cigale de mer';1;0
+e;16389573;'angle de la petite courbure gastrique';1;0
+e;5685574;'La petite Teigne';777;0
+e;5839941;'petite altise des crucifères';777;0
+e;6446162;'carcinome in situ de la petite courbure de l'estomac';1;0
+e;11814412;'La Prose du Transsibérien et de la petite Jehanne de France';777;0
+e;11825206;'petite Bourse des Italiens';777;0
+e;12049577;'avoir une petite bite';1;0
+e;12049568;'verge trop petite';1;0
+e;15295674;'Nous organisons une petite fête pour son anniversaire.';1;0
+e;15366414;'Oxford est une petite ville en comparaison de Londres.';1;0
+e;15366412;'Oxford est une petite ville par rapport à Londres.';1;0
+e;15860060;'Paris et la petite couronne';777;0
+e;15227697;'Phyllis a une jolie petite maison.';1;0
+e;15366404;'Sonia habite une petite ville.';1;0
+e;15228917;'Trouve-toi une petite amie';1;0
+e;15299563;'Une petite vague vint s'écraser sur mon visage.';1;0
+e;15273344;'aide à la petite enfance';1;0
+e;15744412;'amoureux de la petite reine';1;0
+e;1828070;'artère petite saphène de Salvi';1;0
+e;1839549;'nanisme hypophysaire et petite selle turcique';1;0
+e;2377589;'petite tubérosité';1;0
+e;5984613;'petite centrale hydroélectrique';777;0
+e;6431977;'petite courbure de l'estomac';1;0
+e;6429339;'petite taille de polype gastrique';1;0
+e;10748119;'Une petite ville tranquille';777;0
+e;10866862;'faire une petite pipe a son mari';1;0
+e;11693238;'petite silhouette articulée';1;0
+e;12075718;'petite chapelle';777;0
+e;15372710;'Ma petite s?ur fait constamment des bêtises.';1;0
+e;16158808;'La petite Rhune';1;0
+e;16284625;'La petite RhuneCol d'Ibardin';777;0
+e;1828908;'blépharophimosis avec ptosis, syndactylie et petite taille';1;0
+e;2383173;'petite vite';1;0
+e;10317003;'Une petite zone de turbulences';777;0
+e;11090550;'certificat d'aptitude professionnelle de petite enfance';777;0
+e;11417638;'ministère de l'Éducation et du Développement de la petite enfance du Nouveau-Brunswick';777;0
+e;12005507;'La petite taupe';777;0
+e;11978608;'petite jüz';777;0
+e;12005510;'la petite taupe';777;0
+e;12050483;'éducatrice en petite enfance';1;0
+e;12050482;'éducateur en petite enfance';1;0
+e;12058527;'petite capitale kappa';777;0
+e;12077595;'carte aéronautique de navigation à petite échelle';1;0
+e;12080554;'petite vinette';1;0
+e;12080553;'petite molgule';1;0
+e;12080552;'petite merde';1;0
+e;12080551;'petite chèvre d'Afrique de l'Est';1;0
+e;12080503;'perche d'Amérique à petite bouche';1;0
+e;14972151;'La Vierge à l'Enfant avec une petite martyre et saint Pierre';1;0
+e;15014338;'La petite sirène';1;4
+e;2372075;'petite calorie';1;0
+e;2393757;'petite lucarne';1;0
+e;2463164;'petite feuille morte';1;0
+e;5884446;'marasme petite roue';777;0
+e;5917334;'petite GTPase';777;0
+e;6443939;'tumeur bénigne de la petite courbure de l'estomac';1;0
+e;10775831;'Denis la petite peste';777;0
+e;10828705;'Reviens petite Sheba';777;0
+e;10830016;'Une sale petite guerre';777;0
+e;14032832;'Demain la petite fille sera en retard à l'école';777;0
+e;15835477;'Le Retour de la petite Josette';777;0
+e;16279597;'Depuis petite';777;0
+e;2379748;'à la petite cuillère';1;0
+e;6448373;'nerf postérieur de la petite courbure de l'estomac';1;0
+e;6448350;'nerf antérieur de la petite courbure de l'estomac';1;0
+e;6435705;'petite sous-unité du ribosome d'eucaryote';1;0
+e;10778213;'réserve naturelle nationale de la petite Camargue alsacienne';777;0
+e;11236814;'base d'essais de la petite ceinture';777;0
+e;11392044;'petite glaciation';777;0
+e;11392043;'petite période glaciaire';777;0
+e;11417661;'Ministère de l'Éducation et du Développement de la petite enfance';777;0
+e;11519001;'petite ou moyennes entreprise';777;0
+e;11519188;'petite consoude';777;0
+e;11590689;'petite presse';777;0
+e;12058006;'Cathy la petite fermière';777;0
+e;2415589;'petite manech';1;0
+e;2420270;'petite centaurée mince';1;0
+e;6444793;'tumeur secondaire de la petite courbure de l'estomac';1;0
+e;6442409;'petite particule d'arn cytoplasmique';1;0
+e;10049677;'Une petite ville sans histoire';777;0
+e;10546811;'Denis la petite peste 2';777;0
+e;11364796;'la petite sixtine Lorraine';777;0
+e;12054128;'toute petite retraite';1;4
+e;2462378;'petite glande vestibulaire';1;0
+e;6434933;'ganglion lymphatique de la petite courbure de l'estomac';1;0
+e;10047739;'la petite vertu';777;0
+e;10187944;'Ma petite marquise';777;0
+e;10776855;'petite délurée';1;0
+e;10791034;'petite gourmande';1;0
+e;11000830;'petite magouille';1;0
+e;11147069;'petite oie blanche';1;0
+e;2395801;'la petite bête ne mangera pas la grosse';1;0
+e;6440893;'tumeur métastatique de la petite courbure de l'estomac';1;0
+e;6534722;'petite ouverture ischiatique gauche';1;0
+e;6649273;'petite ceinture de Berlin';777;0
+e;10194514;'petite gouge';1;0
+e;10550591;'Ma petite chatte';777;0
+e;11254084;'vouloir enculer une petite fille';1;0
+e;11254078;'enculer une petite fille';1;0
+e;11575508;'petite ou moyenne entreprise';777;0
+e;2392098;'petite aigrette';1;0
+e;2407052;'petite argentine';1;0
+e;2427708;'petite centaurée maritime';1;0
+e;5989290;'petite astrance';777;0
+e;6012297;'petite tache rouge';777;0
+e;6534676;'petite incisure ischiatique droite';1;0
+e;10095930;'petite mer d'Aral';777;0
+e;10185755;'Une si jolie petite plage';777;0
+e;10346014;'petite culotte sale';1;0
+e;10462353;'petite citadine';777;0
+e;11160788;'petite voiture familiale';1;0
+e;11385257;'petite fourmi de feu';777;0
+e;13271335;'personne de petite taille';1;0
+e;2379158;'petite baguette';1;0
+e;2407420;'petite belette';1;0
+e;2424936;'strophaire à petite couronne';1;0
+e;5942470;'petite molécule';777;0
+e;6534723;'petite ouverture ischiatique droite';1;0
+e;2374820;'petite violette';1;0
+e;2381876;'petite marouette';1;0
+e;2421279;'petite fleur soleil';1;0
+e;2421392;'petite-ilien';1;0
+e;2446602;'petite centaurée commune';1;0
+e;10159063;'Pauvre petite fille riche';777;0
+e;10510111;'petite surface';1;0
+e;15580819;'La petite aiguille indique les heures.';1;0
+e;2462852;'clitopile petite prune';1;0
+e;2466137;'petite euphorbe';1;0
+e;6000544;'terminal à très petite ouverture';777;0
+e;6537949;'face intérieure de la petite aile du sphénoïde droit';1;0
+e;6537945;'face supérieure de la petite aile du sphénoïde';1;0
+e;2361165;'petite-main';1;0
+e;2463901;'petite joubarbe';1;0
+e;2464124;'basset griffon vendéen de petite taille';1;0
+e;5685293;'Pseudo-hippocampe pygmée à petite poche';777;0
+e;6000143;'plus petite';1;0
+e;6449334;'noeud lymphatique de la petite courbure de l'estomac';1;0
+e;6448970;'non précisée, tumeur maligne de la petite courbure de l'estomac';1;0
+e;6538280;'petite circonférence de l'iris droit';1;0
+e;6537946;'face supérieure de la petite aile du sphénoïde droit';1;0
+e;6537253;'petite fosse supraclaviculaire gauche';1;0
+e;6533821;'petite courbure gastrique de l'estomac';1;0
+e;11105585;'réserve naturelle régionale du vallon de la petite Becque';777;0
+e;2366275;'grivette petite';1;0
+e;2501165;'petite-centaurée';1;0
+e;2428755;'petite vieille';1;4
+e;2440262;'petite épeiche';1;0
+e;5989204;'petite Île de la Guerre';777;0
+e;6450922;'petite taille pour l'âge gestationnel';1;0
+e;6538873;'petite corne gauche';1;0
+e;6649188;'Ligne de petite ceinture de Berlin';777;0
+e;10435274;'centres de la petite enfance';777;0
+e;10441936;'Une petite mort';777;0
+e;2363797;'petite lentille';1;0
+e;2397046;'petite bécassine';1;0
+e;6538406;'petite corne droite';1;0
+e;6534675;'petite incisure ischiatique gauche';1;0
+e;2363701;'petite outarde';1;0
+e;5517003;'petite ville touristique';1;0
+e;8732050;'petite allumeuse';1;0
+e;8731318;'petite tapette';1;0
+e;8796628;'petite moto';1;0
+e;9514208;'petite ribonucléoprotéine nucléaire';1;0
+e;9749563;'cuire au four une petite quantité d'aliments';1;0
+e;9749551;'petite broche';1;0
+e;11129321;'petite pagode de l'oie sauvage';777;0
+e;11130946;'salade petite jardinière';1;0
+e;12617056;'petite souris grise';1;0
+e;15761711;'Il continua son chemin à petite allure.';1;0
+e;15571975;'Il dirige une petite entreprise.';1;0
+e;15349251;'Il faut toujours qu'il cherche la petite bête.';1;0
+e;15039608;'C'est une petite Suisse pour les habitants de Falaise';777;0
+e;13989505;'Boro la petite chenille';777;0
+e;15273228;'Arrête de chercher la petite bête.';1;0
+e;15317672;'Cette petite voiture est économique.';1;0
+e;15561434;'Cette petite maison a beaucoup de cachet.';1;0
+e;456319;'nerf de la petite courbure postérieure';1;50
+e;566191;'petite annonce de rencontre';777;50
+e;573087;'petite aile';1;50
+e;575421;'petite incisure ischiatique';1;50
+e;582239;'petite veine saphène';1;0
+e;1655756;'petite tectrice';1;0
+e;1665028;'petite cousine';1;0
+e;1732077;'petite queue fourchue';1;0
+e;1778951;'incisure angulaire de la petite courbure gastrique';1;0
+e;1780219;'petite corne de l'os hyoïde';1;0
+e;1779612;'nerf antérieur de la petite courbure';1;0
+e;1821297;'petite échancrure sciatique';1;0
+e;2323804;'labiale-petite';1;0
+e;2555250;'passage petite faune';1;0
+e;2518447;'petite coudée';1;0
+e;2492028;'être à ramasser à la petite cuiller';1;0
+e;3757153;'petite tomate';1;0
+e;3757101;'petite courgette coupée en dés';1;0
+e;3756226;'petite huile';1;0
+e;3754988;'petite échalote hachée';1;0
+e;3753590;'petite dizaine de baies de piment de la Jamaïque';1;0
+e;3751852;'petite banane';1;0
+e;5145778;'petite sur';1;0
+e;5313285;'À la petite semaine';777;0
+e;6537943;'face de la petite aile du sphénoïde droit';1;0
+e;438387;'petite circulation';1;50
+e;1801345;'artère petite méningée';1;0
+e;1821296;'petite corne du cartilage thyroïde';1;0
+e;1821294;'petite apophyse de l'ethmoïde';1;0
+e;2297934;'toute-petite';2;0
+e;2242884;'petite-maîtresses';2;0
+e;2499175;'zygène de la petite coronille';1;0
+e;2489286;'petite éclaire';1;0
+e;3439952;'Zygène de la petite coronille';777;0
+e;3751134;'petite boîte d'ananas en morceaux au naturel';1;0
+e;3758512;'petite poignée de gruyère râpé';1;0
+e;3757473;'petite poignée d'amandes effilées grillées';1;0
+e;3756610;'petite gousse d'ail pelée et grossièrement hachée';1;0
+e;4641006;'dame de petite vertu';1;0
+e;5500811;'petite caroncule du duodénum';1;0
+e;1779999;'petite papille duodénale';1;0
+e;1841242;'petite scissure interlobaire';1;0
+e;1970818;'petite casserole';1;0
+e;1976275;'la plus petite possible';1;0
+e;2242882;'petite-bourgeoise';2;0
+e;2542665;'érythrée petite centaurée';1;0
+e;2508952;'petite aiguille de mer';1;0
+e;2563758;'petite-ilois';1;0
+e;2600512;'ce n'est pas de la petite bière';1;0
+e;3758565;'petite boule de céleri-rave';1;0
+e;3757745;'petite brique de crème liquide';1;0
+e;3757353;'petite boîte de foie gras cuit';1;0
+e;3757038;'petite boîte d'ananas en morceaux';1;0
+e;3756229;'petite graisse d'oie';1;0
+e;3755341;'petite aubergine';1;0
+e;3754900;'petite cannelle';1;0
+e;3753847;'petite courgette coupée en rondelles épaisses';1;0
+e;3753306;'petite boîte de lait concentré sucré';1;0
+e;3752221;'petite paprika en poudre';1;0
+e;3751664;'petite paprika';1;0
+e;6537944;'face de la petite aile du sphénoïde gauche';1;0
+e;395593;'petite fosse supraclaviculaire';1;50
+e;566115;'petite cigu';777;50
+e;1463964;'farine de petite épeautre';777;0
+e;1679212;'petite tache';1;0
+e;2359063;'ophrys petite araignée';777;0
+e;2488976;'petite messe';1;0
+e;2488697;'en passer une petite vite';1;0
+e;2503101;'petite-bourgeoisie';1;0
+e;3316388;'toute petite section';777;0
+e;3744468;'radis petite souris';1;0
+e;3756322;'petite boîte de champignons égouttés';1;0
+e;3755287;'petite pomme coupée en dés';1;0
+e;3755106;'petite carotte coupée en julienne';1;0
+e;3754964;'petite boîte de tomates concassées';1;0
+e;3753600;'petite gingembre en poudre';1;0
+e;3751783;'petite cumin';1;0
+e;4314949;'petite bande magnétique';777;0
+e;4334729;'mieux vaut une petite travailleuse qu'une grosse fainéante';1;0
+e;4900629;'petite lampe';1;0
+e;6537950;'face intérieure de la petite aile du sphénoïde gauche';1;0
+e;6537942;'face de la petite aile du sphénoïde';1;0
+e;6537815;'petite aile du sphénoïde gauche';1;0
+e;581097;'Prose du Transsibérien et de la petite Jeanne de France';777;0
+e;1213214;'petite voiture rouge';1;0
+e;1655755;'petite couverture';1;0
+e;1821295;'petite circonférence de l'iris';1;0
+e;1841250;'petite veine mésentérique';1;0
+e;2571233;'faire petite chère';1;0
+e;2687401;'petite Suisse du Mâconnais';777;0
+e;3366716;'petite marmite de saumon';1;0
+e;3744740;'caviar à la petite cuillère';1;0
+e;3751023;'petite tomate coupée en dés';1;0
+e;3758364;'petite gousse d'ail';1;0
+e;3758079;'petite courgette coupée en rondelles';1;0
+e;3757817;'petite brique de crème de coco';1;0
+e;3757220;'petite casserole d'eau bouillante';1;0
+e;3756377;'petite boîte de tomates entières';1;0
+e;3755738;'petite livre de noix de St Jacques rincées et égouttées';1;0
+e;3755703;'petite boîte de pelures de truffes';1;0
+e;3754934;'petite barquette de myrtilles fraîches';1;0
+e;3754400;'zeste râpé et le jus d'une petite orange sanguine non traitée';1;0
+e;3753886;'petite carotte';1;0
+e;3752996;'petite brique de crème fraiche liquide';1;0
+e;4334598;'petite annonce matrimoniale';777;0
+e;4902868;'héliange petite';1;0
+e;463115;'petite base du crâne';1;50
+e;1223372;'petite vive';1;0
+e;1463633;'veine petite saphène';1;0
+e;1665029;'petite cousine germaine';1;0
+e;1777724;'petite aile de l'os sphénoïde';1;0
+e;1924516;'petite arvine';777;0
+e;2323090;'lenticulaire-microsphérophakie-raideur-petite';1;0
+e;2359103;'à la petite cuiller';1;0
+e;2517165;'petite coryphène';1;0
+e;2510864;'petite marguerite';1;0
+e;2482926;'petite centaurée en épi';1;0
+e;3179796;'petite-allemande';1;0
+e;3366717;'petite mousse de saumon d'ecosse';1;0
+e;3578363;'petite Boukharie';777;0
+e;3758422;'petite poule en chocolat';1;0
+e;3758206;'petite tomate épépinée et grossièrement concassée';1;0
+e;3757367;'petite poignée d'estragon frais';1;0
+e;3757094;'petite pomme de terre cuite à l'eau';1;0
+e;3757016;'petite sucre';1;0
+e;3756552;'petite tête de laitue';1;0
+e;3755978;'petite tasse de lait bien chaud';1;0
+e;3755825;'petite tranche de saumon fumé coupée en lanières';1;0
+e;3754775;'petite gousse d'ail écrasée';1;0
+e;3755245;'petite barquette de lardons';1;0
+e;3753602;'petite noix de muscade';1;0
+e;3752532;'petite gousse d'ail émincée';1;0
+e;4903206;'petite Ortalide';1;0
+e;6537814;'petite aile du sphénoïde droit';1;0
+e;1770712;'petite loge';1;0
+e;1822536;'sinus de la petite aile';1;0
+e;1841245;'petite extraction du siège';1;0
+e;2566561;'petite émeraude';1;0
+e;2533954;'black-bass à petite bouche';1;0
+e;2533875;'petite nyctale';1;0
+e;2603430;'petite minime à bande';1;0
+e;3366715;'petite charlotte de carottes';1;0
+e;3665289;'petite part';1;0
+e;3755977;'petite tasse de café';1;0
+e;3755770;'petite cuillère de vanille liquide';1;0
+e;3755528;'petite lollo rossa';1;0
+e;3754863;'petite pomme pelée épépinée et coupée en dés';1;0
+e;3753469;'petite barquette de fraises';1;0
+e;3753337;'petite boîte de pois chiche égoutés et rincés';1;0
+e;3752228;'petite pomme de terre pelée et cuite dans l'eau bouillante';1;0
+e;3767930;'ma petite dame';1;0
+e;4332402;'petite fourche';1;0
+e;7633397;'petite retraite';1;8
+e;6538281;'petite circonférence de l'iris gauche';1;0
+e;6537948;'face intérieure de la petite aile du sphénoïde';1;0
+e;440930;'petite rue';1;50
+e;594157;'La petite fille de Michel Strogoff';777;0
+e;1223382;'petite sole jaune';1;0
+e;1821298;'petite fontanelle';1;0
+e;1841251;'petite vessie';1;0
+e;1834804;'glaucome-ectopie lenticulaire-microsphérophakie-raideur-petite taille';1;0
+e;2242883;'petite-maîtresse';1;0
+e;2322161;'mental-petite';1;0
+e;2554172;'clématite petite flamme';1;0
+e;2523988;'petite enfant';1;0
+e;2491552;'petite gesse';1;0
+e;3298591;'La Prose du Transsibérien et de la petite Jeanne de France';777;0
+e;3462963;'Clitopile petite prune';777;0
+e;3728360;'petite pyrole';1;0
+e;3757128;'petite cuillère à café d'extrait d'amande';1;0
+e;3757017;'petite sauce nuoc mam';1;0
+e;3756946;'petite pomme pelée et coupée en lamelles';1;0
+e;3756206;'petite laitue lavée et essorée';1;0
+e;3755737;'petite livre de chair de crabe cuite';1;0
+e;3755735;'petite boîte de champignons de Paris égouttés';1;0
+e;3754359;'petite cuillère d'eau';1;0
+e;3752119;'petite laitue feuille de chêne';1;0
+e;3752072;'petite boîte de concentré de tomates';1;0
+e;3751746;'petite olive noire';1;0
+e;4332394;'petite brosse';1;0
+e;456318;'nerf de la petite courbure antérieure';1;50
+e;465255;'petite axe';777;50
+e;1223296;'porte-écuelle à petite tête';1;0
+e;1665011;'arrière-petite-cousine germaine';1;0
+e;1777535;'petite épine tympanique';1;0
+e;1841247;'petite scissure du poumon droit';1;0
+e;1841243;'petite valve de la mitrale';1;0
+e;2359301;'petite coronille';1;0
+e;2568821;'petite ésule';1;0
+e;2563171;'petite pêche';1;0
+e;2537154;'petite Seine';1;0
+e;2459368;'petite dorade coryphène';1;0
+e;3303291;'de petite envergure';1;0
+e;3366714;'petite casserole de lotte aux asperges';1;0
+e;3759010;'petite botte de navets nouveaux';1;0
+e;3757934;'petite moitié de piment rouge coupé en dés';1;0
+e;3757290;'petite botte de persil plat';1;0
+e;3757067;'petite barquette de framboises';1;0
+e;3753968;'petite boîte de pêches au sirop égouttées et coupées en petits morceaux';1;0
+e;3753338;'petite boîte d'olives noires dénoyautées et égouttées';1;0
+e;3752950;'petite courgette râpée';1;0
+e;5304085;'petite lumière';1;0
+e;460077;'petite cavité sigmoïde';1;50
+e;1486342;'artère petite saphène';1;0
+e;1779670;'nerf postérieur de la petite courbure';1;0
+e;1847726;'veine petite azygos inférieure';1;0
+e;1843766;'rétraction de la petite courbure';1;0
+e;2539731;'petite centaurée rouge';1;0
+e;3166281;'petite sterne';777;0
+e;3171659;'petite gentiane';1;0
+e;3366115;'pakoras et leur petite sauce qui va bien';1;0
+e;3751322;'petite noix de beurre';1;0
+e;3759237;'petite courge butternut épluchée coeur évidé et chair coupée en petits dés';1;0
+e;3759085;'petite côte de céleri débitée en tranches fines';1;0
+e;3758005;'petite boîte de pois chiches rincés';1;0
+e;3757085;'petite sauce saja';1;0
+e;3757008;'petite brique de soupe d'asperges chaude mélangée à la même quantité d'eau chaude';1;0
+e;3755924;'petite barquette de framboises lavées et séchées';1;0
+e;3754483;'petite feuille de laurier fraiche';1;0
+e;3753951;'petite échalote hachée menu';1;0
+e;3753575;'petite poignée d'amandes effilées';1;0
+e;3752948;'petite boîte de maïs égoutté';1;0
+e;3752897;'petite courge butternut épluchée cur évidé et chair coupée en petits dés';1;0
+e;6537947;'face supérieure de la petite aile du sphénoïde gauche';1;0
+e;6537252;'petite fosse supraclaviculaire droite';1;0
+e;1826997;'petite- aile de l'os sphénoïde';1;0
+e;3167180;'petite hirondelle';777;0
+e;1847575;'petite veine cardiaque';1;0
+e;1890146;'se taper une petite jeune';1;0
+e;1850484;'syndrome goniodysgénésie-retard mental-petite taille';1;0
+e;1841248;'petite taille, hyperextensibilité, hernie et dépression oculaire';1;0
+e;1841249;'petite veine azygos';1;0
+e;1841246;'petite respiration cardiaque';1;0
+e;1818543;'kératocône postérieur-fente labiale-petite taille';1;0
+e;1829733;'petite cavité sigmoïde du cubitus';1;0
+e;1846871;'petite tubérosité de l'humérus';1;0
+e;370009;'petite marée';1;50
+e;370002;'petite goutte';1;50
+e;369999;'petite flûte';1;50
+e;369992;'petite chaudronnerie';1;50
+e;369988;'petite bonne';1;50
+e;369304;'pauvre petite fille';1;50
+e;346831;'de petite noblesse';1;50
+e;370018;'petite terreur';1;50
+e;370026;'petite jeune fille';1;50
+e;370012;'petite personne';1;50
+e;370005;'petite idée';1;50
+e;369994;'petite criminalité';1;50
+e;369990;'petite boutique';1;50
+e;369986;'petite année';1;50
+e;360216;'jolie petite ville';1;50
+e;351029;'en petite forme';1;50
+e;385716;'une petite heure';1;50
+e;370029;'petite pluie fine';1;50
+e;369985;'petite annonce gratuite';1;50
+e;338957;'belle petite ville';1;50
+e;370008;'petite maison blanchie à la chaux';1;50
+e;370004;'petite horreur';1;50
+e;370001;'petite fortune';1;50
+e;369998;'petite fille sage';1;50
+e;360214;'jolie petite fille';1;50
+e;346243;'dans la petite enfance';1;50
+e;372400;'pour la petite histoire';1;50
+e;370022;'petite coupure';1;50
+e;370016;'petite soeur des pauvres';1;50
+e;370006;'petite industrie';1;50
+e;369997;'petite femme';1;50
+e;369993;'petite couronne';1;50
+e;369989;'petite bonne femme';1;50
+e;389053;'à une petite échelle';1;50
+e;388830;'à petite échelle';1;50
+e;382042;'sur une petite échelle';1;50
+e;370021;'petite économie';1;50
+e;370015;'petite seconde';1;50
+e;370013;'petite phrase assassine';1;50
+e;370007;'petite madame';1;50
+e;369991;'petite cervelle';1;50
+e;334044;'adorable petite fille';1;50
+e;390947;'petite corde';1;52
+e;370032;'petite somme d'argent';1;50
+e;370024;'petite demi-heure de retard';1;50
+e;370020;'petite échoppe';1;50
+e;370017;'petite tape amicale';1;50
+e;369996;'petite famille';1;50
+e;369995;'petite cylindrée';1;50
+e;356112;'gentille petite fille';1;50
+e;338945;'belle petite fille';1;50
+e;386055;'vaillante petite fille';1;50
+e;370014;'petite rousse';1;50
+e;370011;'petite minute';1;50
+e;370010;'petite merveille';1;50
+e;370003;'petite heure';1;50
+e;369987;'petite banlieue';1;50
+e;370019;'petite ville de province';1;50
+e;370000;'petite folie';1;50
+e;346986;'demoiselle de petite vertu';1;50
+e;346833;'de petite vertu';1;50
+e;346832;'de petite taille';1;50
+e;331008;'petite courbure';1;50
+e;331015;'petite courbure gastrique';1;50
+e;97924;'arrière-petite-fille';1;70
+e;55220;'petite-fille';1;96
+e;44792;'arrière-petite-nièce';1;50
+e;902;'petite-nièce';1;56
+e;179170;'petite-cousine';1;50
+e;179157;'arrière-petite-cousine';1;50
+e;317824;'petite blague';1;52
+e;319197;'anastomose de la petite courbure';777;50
+e;320316;'petite dépense';1;50
+e;321745;'petite chambre';1;50
+e;321798;'petite règle';1;50
+e;324003;'petite religieuse';1;50
+e;329687;'petite poule';1;58
+e;303446;'solution petite-allemande';777;50
+e;166706;'La petite maison dans la prairie';1;50
+e;219858;'La petite Poucette';1;52
+e;231371;'une dame toute petite';666;50
+e;233829;'en petite quantité';1;14
+e;249131;'sa petite personne';1;60
+e;313264;'de petite abondance';1;50
+e;168194;'petite roussette';1;50
+e;208740;'ta petite personne';1;50
+e;212799;'la petite maison dans la prairie';666;50
+e;216608;'petite barre';1;80
+e;216979;'petite sirène';1;58
+e;218268;'petite ferme';1;50
+e;218368;'Cendrillon ou la petite pantoufle de verre';1;4
+e;218593;'petite avenue';1;62
+e;219091;'petite fenêtre';1;52
+e;219923;'petite caille';1;64
+e;221880;'oxalide petite oseille';1;50
+e;222591;'petite valise';1;58
+e;222911;'petite chaîne';1;54
+e;223335;'petite copine';1;96
+e;229702;'petite laine';1;130
+e;231445;'petite voiture';1;114
+e;231881;'petite pipe';1;52
+e;232757;'petite herbe';1;50
+e;233627;'petite section';1;26
+e;235227;'petite salope';1;6
+e;235669;'petite bourgeoisie';1;52
+e;235734;'petite foulée';1;50
+e;237283;'petite bande';1;58
+e;238262;'petite soeur';1;66
+e;239141;'petite dose';1;56
+e;244041;'petite nuit';1;84
+e;245936;'petite brise';1;52
+e;245998;'petite ourse';1;52
+e;246221;'petite bite';1;10
+e;246827;'petite corne';1;50
+e;247279;'petite frappe';666;12
+e;247494;'petite cuve';1;50
+e;248355;'petite vertu';1;4
+e;248802;'chemin de petite randonnée';1;8
+e;248803;'petite randonnée';1;52
+e;249026;'petite paille';1;50
+e;249074;'petite commission';1;50
+e;249103;'Kiki la petite sorcière';1;52
+e;249169;'petite pierre';1;50
+e;249214;'petite toilette';1;50
+e;249461;'petite délinquance';1;8
+e;249575;'petite boîte';1;60
+e;249590;'petite banque';1;50
+e;250256;'petite grippe';1;28
+e;250289;'petite fièvre';1;8
+e;250421;'petite feuille';1;56
+e;250680;'petite route';1;70
+e;254046;'petite ceinture';1;50
+e;254127;'petite journée';1;50
+e;254981;'petite musique';1;56
+e;255393;'petite blonde';1;4
+e;256087;'mettre une petite laine';1;32
+e;256150;'très petite entreprise';1;4
+e;256584;'petite employée';1;50
+e;256750;'petite question';1;2
+e;256777;'petite attention';1;50
+e;256778;'avoir une petite attention';1;58
+e;257272;'petite sous-unité';1;50
+e;257816;'faire sa petite cuisine';1;50
+e;257936;'petite poitrine';1;24
+e;257952;'CAP petite enfance';1;50
+e;257953;'BEP petite enfance';1;50
+e;258633;'petite coquine';1;2
+e;258679;'petite cochonne';1;4
+e;258860;'petite robe noire';1;4
+e;258861;'petite robe';1;8
+e;259017;'petite dépression';1;50
+e;259765;'petite maroquinerie';1;50
+e;260027;'petite taille';1;4
+e;260155;'petite tarte';1;50
+e;260502;'petite pute';1;2
+e;75213;'à une petite distance';1;50
+e;102096;'petite vérole';1;54
+e;105712;'petite couronne Île-de-France';1;50
+e;114279;'petite bardane';1;50
+e;155767;'à la petite semaine';1;54
+e;159909;'petite jambe';1;60
+e;159943;'petite mort';1;62
+e;160110;'petite maison';1;62
+e;160992;'petite semaine';1;50
+e;161002;'petite île';1;50
+e;161049;'petite bête';1;88
+e;161065;'petite église';1;64
+e;161372;'petite douleur';1;50
+e;161800;'petite grotte';1;52
+e;161833;'petite annonce';1;88
+e;161886;'petite usine';1;54
+e;163001;'petite souris';1;84
+e;163047;'petite ville';1;78
+e;163129;'petite cloche';1;50
+e;163232;'petite tape';1;54
+e;163490;'petite boulangerie';1;52
+e;163737;'petite oreille';1;50
+e;163910;'petite assiette';1;54
+e;163911;'petite mine';1;62
+e;163975;'petite entreprise';1;56
+e;164135;'petite sieste';1;80
+e;164243;'petite décision';1;62
+e;164266;'petite racine';1;60
+e;164321;'petite voile';1;50
+e;164355;'petite abeille';1;64
+e;164577;'petite veste';1;70
+e;164831;'petite chose';1;56
+e;164936;'petite place';1;50
+e;165005;'petite partie';1;50
+e;165038;'petite bille';1;50
+e;165054;'petite quantité';1;64
+e;165222;'petite victoire';1;56
+e;165260;'petite douche';1;50
+e;165316;'petite douve de tonneau';1;52
+e;165380;'petite mesure';1;50
+e;165826;'petite fleur';1;86
+e;165836;'petite action';1;50
+e;165883;'petite maladie';1;50
+e;169438;'petite tige';1;50
+e;169439;'petite roue';1;56
+e;169659;'chauffeur de petite remise';1;50
+e;170551;'petite pervenche';1;50
+e;170645;'ortie petite';1;50
+e;202546;'la petite épargne';1;50
+e;203240;'ma petite personne';1;50
+e;213829;'petite plume';1;50
+e;213830;'petite coupe';1;50
+e;216152;'petite rose';1;50
+e;263826;'petite armoire';1;52
+e;267374;'fille de petite vertu';1;50
+e;298519;'Ma petite entreprise';777;2
+e;307605;'Black-bass à petite bouche';777;50
+e;47469;'Prose du Transsibérien et de la petite Jehanne de France';1;50
+e;48034;'petite monnaie';1;88
+e;48375;'chercher la petite bête';1;208
+e;50977;'petite centaurée';1;50
+e;68443;'petite main';1;72
+e;78404;'petite douve';1;62
+e;125873;'petite amie';1;252
+e;152483;'petite variole';1;54
+e;152823;'petite cuillère';1;182
+e;153514;'petite planète';1;50
+e;153652;'petite chanson';1;52
+e;153727;'petite vache';1;50
+e;153741;'petite peur';1;68
+e;153769;'petite pelle';1;72
+e;153887;'petite chèvre';1;62
+e;154120;'petite lame';1;84
+e;154121;'petite erreur';1;54
+e;154274;'petite cuisine';1;60
+e;154794;'petite pomme';1;60
+e;155393;'petite fille';1;306
+e;155899;'petite table';1;76
+e;156946;'petite dent';1;58
+e;158128;'petite salle';1;52
+e;158198;'petite lèvre';1;66
+e;158424;'petite pyramide';1;68
+e;158638;'petite bouteille';1;70
+e;158684;'petite réforme';1;64
+e;158716;'petite vipère';1;58
+e;158949;'petite histoire';1;78
+e;159185;'petite aiguille';1;60
+e;159249;'petite crevette';1;54
+e;159726;'petite plante';1;60
+e;159737;'petite école';1;56
+e;175187;'achigan à petite bouche';1;50
+e;176845;'petite finale';1;50
+e;179929;'petite biche';1;50
+e;179960;'petite vrillette';1;50
+e;179962;'petite tortue';1;52
+e;183652;'petite bière';1;22
+e;183653;'petite capitale';1;50
+e;183654;'petite capitalisation';1;50
+e;183655;'petite culotte';1;50
+e;183656;'petite émiaule';1;50
+e;183657;'petite noblesse';1;52
+e;183658;'petite oie';1;166
+e;183659;'petite oseille';1;50
+e;186793;'prêter à la petite semaine';1;50
+e;195548;'à petite vitesse';1;50
+e;205464;'petite bouche';1;50
+e;205465;'petite caroncule';1;50
+e;205466;'petite chirurgie';1;68
+e;205467;'petite cuiller';1;50
+e;205468;'petite enfance';1;206
+e;205469;'petite guerre';1;50
+e;205470;'petite montagne';1;50
+e;205471;'petite peste';1;50
+e;205472;'petite phrase';1;50
+e;205473;'petite pluie';1;56
+e;205474;'petite pluie abat grand vent';1;50
+e;205475;'petite poste';1;50
+e;205476;'petite sculpture';1;50
+e;205477;'petite Sur des pauvres';1;50
+e;205636;'planter la petite graine';1;50
+e;264900;'bateau de petite taille';1;50
+e;266593;'petite jupe';1;52
+e;267792;'petite Camargue';1;2
+e;268378;'petite voix';1;56
+e;270494;'petite somme';1;50
+e;271602;'avoir une petite mine';1;52
+e;271772;'petite poire';1;52
+e;274367;'Oxalide petite Oseille';777;50
+e;278352;'petite plaine de Hongrie';777;50
+e;281053;'Une petite musique de nuit';777;50
+e;283162;'petite castagnole';777;50
+e;283514;'petite hantise';777;50
+e;288585;'petite révérence';777;50
+e;289426;'petite communion';777;50
+e;291466;'petite naïade';777;50
+e;294132;'petite cuscute';777;50
+e;294813;'petite douve du foie';1;8
+e;304493;'petite distance';1;50
+e;304998;'petite hépiale du houblon';777;50
+e;309343;'petite Thérèse';777;50
+e;23884;'petite tenue';1;112
+e;27445;'faire la petite commission';1;52
+e;27616;'petite ciguë';1;50
+e;189849;'petite clinique';1;50
+e;191336;'anglo-français de petite vénerie';1;50
+e;191787;'petite classe';1;50
+e;194158;'petite Buse';1;50
+e;194159;'petite Hirondelle';1;50
+e;194160;'petite Nyctale';1;50
+e;194161;'petite Spatule';1;50
+e;194162;'petite Sterne';1;50
+e;199344;'en petite tenue';1;54
+e;199836;'être à ramasser à la petite cuillère';1;50
+e;310904;'petite section de maternelle';777;58
+e;312469;'rumex petite oseille';1;50
+e;15895;'petite nature';1;52
+e;16708;'petite reine';1;60
+e;200854;'femme de petite vertu';1;60
+e;200980;'figure petite nature';1;50
+e;4701;'à petite distance';1;50
+e;1931;'petite vitesse';1;50
+e;6193;'Sur la petite île';1;50
+r;275892836;141683;10845095;11;25
+r;297239056;141683;11571962;11;25
+r;299179100;141683;6301157;11;25
+r;299284366;141683;6301815;11;25
+r;299486151;141683;6305399;11;25
+r;299582553;141683;6310053;11;25
+r;299584069;141683;6310836;11;25
+r;299585630;141683;6310972;11;25
+r;299592932;141683;6312167;11;25
+r;299927102;141683;6319678;11;25
+r;300121693;141683;6322203;11;25
+r;300131613;141683;6322848;11;25
+r;300175063;141683;6324157;11;25
+r;301159149;141683;6333783;11;25
+r;301197384;141683;6333981;11;25
+r;301448299;141683;6338612;11;25
+r;301554439;141683;6345198;11;25
+r;301724582;141683;6349178;11;25
+r;301764795;141683;6354640;11;25
+r;302127321;141683;6361839;11;25
+r;302183904;141683;6364915;11;25
+r;302956909;141683;6368260;11;25
+r;303469920;141683;6374490;11;25
+r;303623648;141683;6375294;11;25
+r;304377514;141683;6385917;11;25
+r;304553209;141683;6389169;11;25
+r;304555424;141683;6389174;11;25
+r;304598639;141683;6389664;11;25
+r;304603405;141683;6391128;11;25
+r;304858312;141683;6392799;11;25
+r;305017062;141683;6395542;11;25
+r;305135379;141683;6399839;11;25
+r;305292627;141683;6403693;11;25
+r;305316475;141683;6407191;11;25
+r;305319731;141683;6407765;11;25
+r;305695368;141683;6418665;11;25
+r;305710684;141683;6421528;11;25
+r;313620588;141683;12048785;11;25
+r;316555248;141683;12196988;11;25
+r;316639500;141683;12177058;11;25
+r;316639511;141683;12177056;11;25
+r;316639520;141683;12177054;11;25
+r;316639531;141683;12177052;11;25
+r;316639544;141683;12177049;11;25
+r;316672270;141683;12166182;11;25
+r;337352649;141683;12978348;11;25
+r;341015500;141683;6326128;11;25
+r;341209353;141683;6398349;11;25
+r;341269451;141683;6419992;11;25
+r;344382140;141683;13595622;11;25
+r;349202738;141683;6356182;11;25
+r;349242696;141683;6286816;11;25
+r;349278919;141683;6404633;11;25
+r;349371971;141683;6405819;11;25
+r;350306373;141683;13855791;11;25
+r;354327523;141683;14030593;11;25
+r;368615804;141683;14530630;11;25
+r;369958132;141683;14559879;11;25
+r;370767924;141683;14590336;11;25
+r;371078540;141683;14602707;11;25
+r;371201441;141683;14606618;11;25
+r;371612861;141683;14629742;11;25
+r;372426478;141683;14653088;11;25
+r;375392402;141683;14769914;11;25
+r;375417146;141683;14770268;11;25
+r;375586929;141683;14779438;11;25
+r;392423908;141683;15039607;11;25
+r;391011022;141683;14916372;11;25
+r;391718406;141683;14987911;11;25
+r;392117945;141683;15013902;11;25
+r;395278720;141683;15420338;11;25
+r;395279115;141683;15420361;11;25
+r;403604868;141683;15695392;11;25
+r;403718415;141683;15695391;11;25
+r;410414528;141683;15789306;11;25
+r;412615780;141683;15834120;11;25
+r;417535439;141683;12019518;11;25
+r;417548386;141683;12019519;11;25
+r;426855270;141683;16269640;11;25
+r;428875038;141683;14547951;11;25
+r;428875045;141683;14547955;11;25
+r;428875052;141683;14547954;11;25
+r;428877430;141683;16318360;11;25
+r;433482998;141683;16437139;11;25
+r;93585078;141683;3750979;11;26
+r;93681941;141683;3755736;11;26
+r;93692600;141683;3754681;11;26
+r;93694534;141683;3754473;11;26
+r;114460918;141683;5786857;11;26
+r;122732874;141683;6425207;11;26
+r;297945649;141683;6285246;11;26
+r;298390502;141683;6289170;11;26
+r;299035804;141683;6298658;11;26
+r;299576025;141683;6309392;11;26
+r;301416397;141683;6337261;11;26
+r;300191719;141683;6325628;11;26
+r;301458131;141683;6339990;11;26
+r;302031554;141683;6358093;11;26
+r;302186848;141683;6365275;11;26
+r;304384352;141683;6386452;11;26
+r;304479865;141683;6387238;11;26
+r;305135108;141683;6399483;11;26
+r;305489861;141683;6412590;11;26
+r;313021789;141683;6295595;11;26
+r;316404528;141683;12200833;11;26
+r;346251136;141683;11559037;11;26
+r;359993930;141683;14166768;11;26
+r;368126716;141683;14486278;11;26
+r;368127464;141683;14486335;11;26
+r;368584662;141683;14529787;11;26
+r;368763480;141683;14536257;11;26
+r;369907309;141683;14558035;11;26
+r;370283335;141683;14571050;11;26
+r;370560278;141683;14584125;11;26
+r;374308075;141683;14722211;11;26
+r;374351314;141683;14724427;11;26
+r;375097560;141683;14755587;11;26
+r;399120444;141683;15569463;11;26
+r;93677512;141683;3756199;11;27
+r;122749016;141683;6423138;11;27
+r;267322340;141683;10666021;11;27
+r;298245345;141683;6287530;11;27
+r;300215314;141683;6328216;11;27
+r;301751989;141683;6353412;11;27
+r;315575794;141683;12100204;11;27
+r;318494732;141683;12238300;11;27
+r;318494756;141683;12238299;11;27
+r;269884385;141683;10731418;11;28
+r;302080522;141683;11769725;11;28
+r;315550808;141683;12102907;11;28
+r;315550819;141683;12102906;11;28
+r;315550828;141683;12102905;11;28
+r;315550837;141683;12102904;11;28
+r;315550853;141683;12102903;11;28
+r;122756141;141683;6422215;11;29
+r;315485823;141683;12110300;11;29
+r;121552492;141683;6437269;11;30
+r;122694373;141683;6430184;11;30
+r;222151188;141683;9987239;11;30
+r;222646699;141683;9989399;11;30
+r;264444212;141683;10598437;11;30
+r;274266510;141683;10909811;11;30
+r;274279712;141683;10907219;11;30
+r;280285912;141683;11057097;11;30
+r;419764787;141683;15499208;11;30
+r;419768028;141683;15383388;11;30
+r;419769285;141683;16085507;11;30
+r;419769289;141683;15265200;11;30
+r;419769293;141683;15531882;11;30
+r;419769299;141683;15635002;11;30
+r;419769517;141683;15247737;11;30
+r;419792719;141683;15340030;11;30
+r;52243188;141683;2379652;11;31
+r;113763009;141683;5828617;11;31
+r;121571560;141683;6435134;11;31
+r;221483610;141683;9967138;11;31
+r;227658246;141683;10004603;11;31
+r;276739702;141683;10963134;11;31
+r;277927008;141683;10991680;11;31
+r;419705172;141683;15349253;11;31
+r;53020105;141683;2386304;11;32
+r;93711996;141683;3752614;11;32
+r;122672903;141683;6432769;11;32
+r;122680393;141683;6431929;11;32
+r;276685588;141683;10963133;11;32
+r;334599958;141683;13049457;11;32
+r;337339380;141683;13044341;11;32
+r;419632970;141683;16032602;11;32
+r;419632976;141683;15408985;11;32
+r;419638825;141683;15446230;11;32
+r;419638831;141683;15432443;11;32
+r;419684138;141683;6352460;11;32
+r;434372017;141683;16091579;11;32
+r;115869603;141683;5908921;11;33
+r;122708609;141683;6428338;11;33
+r;222102987;141683;9980980;11;33
+r;334599971;141683;13049458;11;33
+r;434370766;141683;16389573;11;33
+r;112199128;141683;5685574;11;34
+r;114010375;141683;5839941;11;34
+r;121472744;141683;6446162;11;34
+r;304854587;141683;11814412;11;34
+r;305409472;141683;11825206;11;34
+r;313765062;141683;12049577;11;34
+r;313765080;141683;12049568;11;34
+r;419515887;141683;15295674;11;34
+r;419520458;141683;15366414;11;34
+r;419520468;141683;15366412;11;34
+r;419521761;141683;15860060;11;34
+r;419524994;141683;15227697;11;34
+r;419547588;141683;15366404;11;34
+r;419554954;141683;15228917;11;34
+r;419558267;141683;15299563;11;34
+r;419583089;141683;15273344;11;34
+r;419591830;141683;15744412;11;34
+r;29923951;141683;1828070;11;35
+r;30037161;141683;1839549;11;35
+r;52229933;141683;2377589;11;35
+r;117895272;141683;5984613;11;35
+r;122679983;141683;6431977;11;35
+r;122700817;141683;6429339;11;35
+r;269385600;141683;10748119;11;35
+r;272444240;141683;10866862;11;35
+r;300958377;141683;11693238;11;35
+r;314548998;141683;12075718;11;35
+r;419502564;141683;15372710;11;35
+r;423289148;141683;16158808;11;35
+r;427267731;141683;16284625;11;35
+r;29932948;141683;1828908;11;36
+r;52953069;141683;2383173;11;36
+r;252662319;141683;10317003;11;36
+r;281297683;141683;11090550;11;36
+r;294008869;141683;11417638;11;36
+r;312870372;141683;12005507;11;36
+r;311365478;141683;11978608;11;36
+r;312871858;141683;12005510;11;36
+r;313213566;141683;12018907;11;36
+r;313213568;141683;12018906;11;36
+r;313692526;141683;12050483;11;36
+r;313692551;141683;12050618;11;36
+r;313692562;141683;12050619;11;36
+r;313693070;141683;12050482;11;36
+r;313693095;141683;12050629;11;36
+r;313693120;141683;12050630;11;36
+r;313898531;141683;12058527;11;36
+r;315094755;141683;12077595;11;36
+r;315112219;141683;12080554;11;36
+r;315112223;141683;12080553;11;36
+r;315112227;141683;12080552;11;36
+r;315112231;141683;12080551;11;36
+r;315112505;141683;12080503;11;36
+r;391286618;141683;14972151;11;36
+r;392124048;141683;15014338;11;36
+r;52039431;141683;2372075;11;37
+r;53174065;141683;2393757;11;37
+r;55719007;141683;2463164;11;37
+r;114758357;141683;5884446;11;37
+r;115854738;141683;5917334;11;37
+r;121492706;141683;6443939;11;37
+r;269879009;141683;10775831;11;37
+r;270355690;141683;10828705;11;37
+r;270405124;141683;10830016;11;37
+r;354433625;141683;14032832;11;37
+r;413042421;141683;15835477;11;37
+r;427322546;141683;16279597;11;37
+r;52243711;141683;2379748;11;38
+r;121452707;141683;6448373;11;38
+r;121452913;141683;6448350;11;38
+r;121566375;141683;6435705;11;38
+r;269871309;141683;10778213;11;38
+r;287918332;141683;11236814;11;38
+r;292542829;141683;11392044;11;38
+r;292542833;141683;11392043;11;38
+r;293830993;141683;11417661;11;38
+r;295986329;141683;11519001;11;38
+r;296006445;141683;11519188;11;38
+r;297879308;141683;11590689;11;38
+r;313826720;141683;12058006;11;38
+r;54362753;141683;2415589;11;39
+r;54460202;141683;2420270;11;39
+r;121485030;141683;6444793;11;39
+r;121506464;141683;6442409;11;39
+r;227582345;141683;10049677;11;39
+r;262894260;141683;10546811;11;39
+r;291808766;141683;11364796;11;39
+r;313790035;141683;12054128;11;39
+r;55705429;141683;2462378;11;40
+r;121573319;141683;6434933;11;40
+r;227584883;141683;10047739;11;40
+r;241515535;141683;10187944;11;40
+r;269876825;141683;10776855;11;40
+r;270211810;141683;10791034;11;40
+r;278740720;141683;11000830;11;40
+r;283282977;141683;11147069;11;40
+r;319039192;141683;12277692;11;40
+r;319039194;141683;12277691;11;40
+r;53209117;141683;2395801;11;41
+r;121519927;141683;6440893;11;41
+r;121897237;141683;6534722;11;41
+r;122470294;141683;6649273;11;41
+r;242895937;141683;10194514;11;41
+r;262879395;141683;10550591;11;41
+r;288439841;141683;11254084;11;41
+r;288439861;141683;11254078;11;41
+r;297523600;141683;11575508;11;41
+r;53140192;141683;2392098;11;42
+r;53851029;141683;2407052;11;42
+r;54651348;141683;2427708;11;42
+r;117874107;141683;5989290;11;42
+r;118505287;141683;6012297;11;42
+r;121897723;141683;6534676;11;42
+r;234230934;141683;10095930;11;42
+r;240918029;141683;10185755;11;42
+r;253411246;141683;10346014;11;42
+r;261006530;141683;10462353;11;42
+r;285603605;141683;11160788;11;42
+r;292320314;141683;11385257;11;42
+r;338932832;141683;13271335;11;42
+r;52240223;141683;2379158;11;43
+r;53850716;141683;2407420;11;43
+r;54552542;141683;2424936;11;43
+r;116313151;141683;5942470;11;43
+r;121897226;141683;6534723;11;43
+r;52211094;141683;2374820;11;44
+r;52873044;141683;2381876;11;44
+r;54478507;141683;2421279;11;44
+r;54480653;141683;2421392;11;44
+r;55378579;141683;2446602;11;44
+r;238109270;141683;10159063;11;44
+r;261414898;141683;10510111;11;44
+r;417032635;141683;15580819;11;44
+r;55712571;141683;2462852;11;45
+r;55774258;141683;2466137;11;45
+r;118541825;141683;6000544;11;45
+r;121858085;141683;6537949;11;45
+r;121858153;141683;6537945;11;45
+r;50159744;141683;2361165;11;46
+r;55734763;141683;2463901;11;46
+r;55736811;141683;2464124;11;46
+r;112200237;141683;5685293;11;46
+r;118543250;141683;6000143;11;46
+r;121053576;141683;6449334;11;46
+r;121056901;141683;6448970;11;46
+r;121854447;141683;6538280;11;46
+r;121858134;141683;6537946;11;46
+r;121866193;141683;6537253;11;46
+r;121907722;141683;6533821;11;46
+r;282477419;141683;11105585;11;46
+r;50464022;141683;2366275;11;47
+r;52522948;141683;2501165;11;47
+r;54716570;141683;2428755;11;47
+r;55244336;141683;2440262;11;47
+r;117874637;141683;5989204;11;47
+r;121039109;141683;6450922;11;47
+r;121847769;141683;6538873;11;47
+r;122383837;141683;6649188;11;47
+r;256295337;141683;10435274;11;47
+r;256471357;141683;10441936;11;47
+r;50243675;141683;2363797;11;48
+r;53231223;141683;2397046;11;48
+r;125516533;141683;7620944;11;48
+r;125516515;141683;7620945;11;48
+r;121852972;141683;6538406;11;48
+r;121897734;141683;6534675;11;48
+r;50242167;141683;2363701;11;49
+r;108351834;141683;5517003;11;50
+r;169732805;141683;8732050;11;50
+r;169732872;141683;8731318;11;50
+r;187421573;141683;8796628;11;50
+r;214254966;141683;9514208;11;50
+r;218079382;141683;9749563;11;50
+r;218080536;141683;9749551;11;50
+r;282710187;141683;11129321;11;50
+r;282792973;141683;11130946;11;50
+r;323058839;141683;12617056;11;50
+r;412565456;141683;15761711;11;50
+r;402105208;141683;15571975;11;50
+r;402107032;141683;15349251;11;50
+r;392423464;141683;15039608;11;50
+r;393835669;141683;13989505;11;50
+r;395009777;141683;15273228;11;50
+r;395014007;141683;15317672;11;50
+r;398506964;141683;15561434;11;50
+r;16129234;141683;456319;11;51
+r;16918520;141683;566191;11;51
+r;17695533;141683;573087;11;51
+r;17816695;141683;575421;11;51
+r;18230788;141683;582239;11;51
+r;22405962;141683;1213781;11;51
+r;27281390;141683;1655756;11;51
+r;27663044;141683;1665028;11;51
+r;28451144;141683;1732077;11;51
+r;29217603;141683;1778951;11;51
+r;29231273;141683;1780219;11;51
+r;29235707;141683;1779612;11;51
+r;29751198;141683;1821297;11;51
+r;33726704;141683;2323804;11;51
+r;34752527;141683;2352546;11;51
+r;52450208;141683;2555250;11;51
+r;52467752;141683;2518447;11;51
+r;52480075;141683;2492028;11;51
+r;87038923;141683;3397345;11;51
+r;93668800;141683;3757153;11;51
+r;93669265;141683;3757101;11;51
+r;93677241;141683;3756226;11;51
+r;93689866;141683;3754988;11;51
+r;93703043;141683;3753590;11;51
+r;93719056;141683;3751852;11;51
+r;105981587;141683;5145778;11;51
+r;106790090;141683;5313285;11;51
+r;121858176;141683;6537943;11;51
+r;15776580;141683;438387;11;52
+r;29487037;141683;1801345;11;52
+r;29751004;141683;1821296;11;52
+r;29751729;141683;1821294;11;52
+r;33107713;141683;2297934;11;52
+r;33109945;141683;2242884;11;52
+r;52476857;141683;2499175;11;52
+r;52481298;141683;2489286;11;52
+r;87888677;141683;3439952;11;52
+r;87906360;141683;3440593;11;52
+r;93621343;141683;3751134;11;52
+r;93656178;141683;3758512;11;52
+r;93665797;141683;3757473;11;52
+r;93673744;141683;3756610;11;52
+r;100804016;141683;4641006;11;52
+r;108097645;141683;5500811;11;52
+r;22401489;141683;1213780;11;53
+r;29233303;141683;1779999;11;53
+r;29904555;141683;1841242;11;53
+r;31761590;141683;1970818;11;53
+r;32046604;141683;1976275;11;53
+r;33109949;141683;2242882;11;53
+r;52456299;141683;2542665;11;53
+r;52472246;141683;2508952;11;53
+r;52489551;141683;2563758;11;53
+r;55143236;141683;2600512;11;53
+r;76411946;141683;3173998;11;53
+r;77265591;141683;3185634;11;53
+r;77300989;141683;3186402;11;53
+r;87898793;141683;3440392;11;53
+r;88221289;141683;3476109;11;53
+r;93655626;141683;3758565;11;53
+r;93663321;141683;3757745;11;53
+r;93666887;141683;3757353;11;53
+r;93669843;141683;3757038;11;53
+r;93677214;141683;3756229;11;53
+r;93686707;141683;3755341;11;53
+r;93690660;141683;3754900;11;53
+r;93700569;141683;3753847;11;53
+r;93705674;141683;3753306;11;53
+r;93715642;141683;3752221;11;53
+r;93720813;141683;3751664;11;53
+r;121858162;141683;6537944;11;53
+r;13999146;141683;395593;11;54
+r;16918776;141683;566115;11;54
+r;24261978;141683;1463964;11;54
+r;27808288;141683;1679212;11;54
+r;50071639;141683;2359063;11;54
+r;52481422;141683;2488976;11;54
+r;52481554;141683;2488697;11;54
+r;52521944;141683;2503101;11;54
+r;77090240;141683;3184569;11;54
+r;83558921;141683;3316388;11;54
+r;93465904;141683;3744468;11;54
+r;93676383;141683;3756322;11;54
+r;93687150;141683;3755287;11;54
+r;93688786;141683;3755106;11;54
+r;93690087;141683;3754964;11;54
+r;93702951;141683;3753600;11;54
+r;93719668;141683;3751783;11;54
+r;98026837;141683;4314949;11;54
+r;98898196;141683;4334729;11;54
+r;102265536;141683;4900629;11;54
+r;121858069;141683;6537950;11;54
+r;121858190;141683;6537942;11;54
+r;121859529;141683;6537815;11;54
+r;14125009;141683;396412;11;55
+r;18181924;141683;581097;11;55
+r;22396604;141683;1213214;11;55
+r;27281394;141683;1655755;11;55
+r;29751709;141683;1821295;11;55
+r;29904497;141683;1841250;11;55
+r;52442861;141683;2571233;11;55
+r;61468892;141683;2687401;11;55
+r;77089976;141683;3184570;11;55
+r;85723143;141683;3345299;11;55
+r;86176311;141683;3366716;11;55
+r;88235046;141683;3476108;11;55
+r;93470232;141683;3744740;11;55
+r;93597437;141683;3751023;11;55
+r;93657536;141683;3758364;11;55
+r;93660238;141683;3758079;11;55
+r;93662673;141683;3757817;11;55
+r;93668184;141683;3757220;11;55
+r;93675881;141683;3756377;11;55
+r;93681919;141683;3755738;11;55
+r;93682225;141683;3755703;11;55
+r;93690315;141683;3754934;11;55
+r;93695199;141683;3754400;11;55
+r;93700190;141683;3753886;11;55
+r;93708564;141683;3752996;11;55
+r;98895139;141683;4334598;11;55
+r;102402853;141683;4902868;11;55
+r;16357109;141683;463115;11;56
+r;22443020;141683;1223372;11;56
+r;24254329;141683;1463633;11;56
+r;27663314;141683;1665029;11;56
+r;29193694;141683;1777724;11;56
+r;31150023;141683;1924516;11;56
+r;33715691;141683;2323090;11;56
+r;34752525;141683;2352547;11;56
+r;50065825;141683;2359103;11;56
+r;52468392;141683;2517165;11;56
+r;52471407;141683;2510864;11;56
+r;52484342;141683;2482926;11;56
+r;76736786;141683;3179796;11;56
+r;77010699;141683;3183835;11;56
+r;77301053;141683;3186403;11;56
+r;86176303;141683;3366717;11;56
+r;90646466;141683;3578363;11;56
+r;93656999;141683;3758422;11;56
+r;93659033;141683;3758206;11;56
+r;93666762;141683;3757367;11;56
+r;93669323;141683;3757094;11;56
+r;93670063;141683;3757016;11;56
+r;93674303;141683;3756552;11;56
+r;93679576;141683;3755978;11;56
+r;93681088;141683;3755825;11;56
+r;93779807;141683;3754775;11;56
+r;93687531;141683;3755245;11;56
+r;93702932;141683;3753602;11;56
+r;93712776;141683;3752532;11;56
+r;102411115;141683;4903206;11;56
+r;121859543;141683;6537814;11;56
+r;16131503;141683;439472;11;57
+r;16131505;141683;439471;11;57
+r;29102643;141683;1770712;11;57
+r;29766045;141683;1822536;11;57
+r;29904537;141683;1841245;11;57
+r;34752529;141683;2352545;11;57
+r;52445029;141683;2566561;11;57
+r;52460560;141683;2533954;11;57
+r;52460584;141683;2533875;11;57
+r;55451444;141683;2603430;11;57
+r;77266952;141683;3185633;11;57
+r;77575778;141683;3223735;11;57
+r;77576048;141683;3223734;11;57
+r;85723805;141683;3345300;11;57
+r;86176317;141683;3366715;11;57
+r;87906938;141683;3440391;11;57
+r;91442350;141683;3665289;11;57
+r;93679586;141683;3755977;11;57
+r;93681590;141683;3755770;11;57
+r;93683945;141683;3755528;11;57
+r;93691006;141683;3754863;11;57
+r;93704144;141683;3753469;11;57
+r;93705356;141683;3753337;11;57
+r;93715564;141683;3752228;11;57
+r;94156133;141683;3767930;11;57
+r;98827723;141683;4332402;11;57
+r;125597593;141683;7633397;11;57
+r;121854439;141683;6538281;11;57
+r;121858101;141683;6537948;11;57
+r;14125011;141683;396411;11;58
+r;16130738;141683;440930;11;58
+r;18632892;141683;594157;11;58
+r;22443115;141683;1223382;11;58
+r;29753421;141683;1821298;11;58
+r;29904493;141683;1841251;11;58
+r;29914558;141683;1834804;11;58
+r;33098857;141683;2242883;11;58
+r;33699637;141683;2322161;11;58
+r;52450767;141683;2554172;11;58
+r;52465241;141683;2523988;11;58
+r;52480280;141683;2491552;11;58
+r;77010594;141683;3183836;11;58
+r;82482639;141683;3298591;11;58
+r;88132357;141683;3462963;11;58
+r;93050933;141683;3728360;11;58
+r;93669017;141683;3757128;11;58
+r;93670055;141683;3757017;11;58
+r;93670742;141683;3756946;11;58
+r;93677443;141683;3756206;11;58
+r;93681931;141683;3755737;11;58
+r;93681953;141683;3755735;11;58
+r;93695614;141683;3754359;11;58
+r;93716574;141683;3752119;11;58
+r;93717003;141683;3752072;11;58
+r;93720038;141683;3751746;11;58
+r;98856557;141683;4332394;11;58
+r;16129242;141683;456318;11;59
+r;16391428;141683;465255;11;59
+r;22443064;141683;1223296;11;59
+r;27662990;141683;1665011;11;59
+r;29184542;141683;1777535;11;59
+r;29904523;141683;1841247;11;59
+r;29904549;141683;1841243;11;59
+r;50066948;141683;2359301;11;59
+r;52443940;141683;2568821;11;59
+r;52446589;141683;2563171;11;59
+r;52458957;141683;2537154;11;59
+r;55648220;141683;2459368;11;59
+r;82725558;141683;3303291;11;59
+r;86176323;141683;3366714;11;59
+r;87043871;141683;3397344;11;59
+r;87935260;141683;3440594;11;59
+r;93651219;141683;3759010;11;59
+r;93661587;141683;3757934;11;59
+r;93667496;141683;3757290;11;59
+r;93669589;141683;3757067;11;59
+r;93699390;141683;3753968;11;59
+r;93705341;141683;3753338;11;59
+r;93708961;141683;3752950;11;59
+r;106716170;141683;5304085;11;59
+r;16140791;141683;460077;11;60
+r;24599166;141683;1486342;11;60
+r;29235565;141683;1779670;11;60
+r;29872412;141683;1847726;11;60
+r;29891220;141683;1843766;11;60
+r;52457729;141683;2539731;11;60
+r;69048178;141683;2845275;11;60
+r;76130517;141683;3166281;11;60
+r;76292532;141683;3171659;11;60
+r;86181312;141683;3366115;11;60
+r;93622463;141683;3751322;11;60
+r;93649313;141683;3759237;11;60
+r;93650523;141683;3759085;11;60
+r;93660964;141683;3758005;11;60
+r;93669421;141683;3757085;11;60
+r;93670135;141683;3757008;11;60
+r;93680068;141683;3755924;11;60
+r;93694464;141683;3754483;11;60
+r;93699545;141683;3753951;11;60
+r;93703186;141683;3753575;11;60
+r;93708973;141683;3752948;11;60
+r;93709414;141683;3752897;11;60
+r;121858115;141683;6537947;11;60
+r;121866204;141683;6537252;11;60
+r;76412224;141683;3173999;11;61
+r;69048166;141683;2845276;11;62
+r;29843339;141683;1826997;11;63
+r;76140778;141683;3167180;11;63
+r;29873609;141683;1847575;11;64
+r;30478403;141683;1890146;11;64
+r;29858707;141683;1850484;11;65
+r;29904509;141683;1841248;11;65
+r;29904503;141683;1841249;11;66
+r;29904531;141683;1841246;11;66
+r;29733490;141683;1818543;11;67
+r;29917363;141683;1829733;11;68
+r;29877143;141683;1846871;11;69
+r;12622421;141683;370009;11;101
+r;12622455;141683;370002;11;101
+r;12622467;141683;369999;11;101
+r;12622499;141683;369992;11;101
+r;12622519;141683;369988;11;101
+r;12625395;141683;369304;11;101
+r;12716121;141683;346831;11;101
+r;12622373;141683;370018;11;102
+r;12622331;141683;370026;11;103
+r;12622409;141683;370012;11;103
+r;12622443;141683;370005;11;103
+r;12622491;141683;369994;11;103
+r;12622507;141683;369990;11;103
+r;12622527;141683;369986;11;103
+r;12661897;141683;360216;11;103
+r;12699317;141683;351029;11;103
+r;12558459;141683;385716;11;104
+r;12622317;141683;370029;11;104
+r;12622531;141683;369985;11;104
+r;12749759;141683;338957;11;104
+r;12622425;141683;370008;11;105
+r;12622447;141683;370004;11;105
+r;12622459;141683;370001;11;105
+r;12622471;141683;369998;11;105
+r;12661907;141683;360214;11;105
+r;12719187;141683;346243;11;105
+r;12612577;141683;372400;11;106
+r;12622353;141683;370022;11;106
+r;12622385;141683;370016;11;106
+r;12622439;141683;370006;11;106
+r;12622479;141683;369997;11;106
+r;12622495;141683;369993;11;106
+r;12622511;141683;369989;11;106
+r;12545705;141683;389053;11;107
+r;12546649;141683;388830;11;107
+r;12573419;141683;382042;11;107
+r;12622357;141683;370021;11;107
+r;12622393;141683;370015;11;107
+r;12622401;141683;370013;11;107
+r;12622435;141683;370007;11;107
+r;12622503;141683;369991;11;107
+r;12769509;141683;334044;11;107
+r;13017914;141683;390947;11;107
+r;12622301;141683;370032;11;108
+r;12622341;141683;370024;11;108
+r;12622361;141683;370020;11;108
+r;12622377;141683;370017;11;108
+r;12622483;141683;369996;11;108
+r;12622487;141683;369995;11;108
+r;12678665;141683;356112;11;108
+r;12749811;141683;338945;11;108
+r;12557123;141683;386055;11;109
+r;12622397;141683;370014;11;109
+r;12622413;141683;370011;11;109
+r;12622417;141683;370010;11;109
+r;12622451;141683;370003;11;109
+r;12622523;141683;369987;11;109
+r;12622365;141683;370019;11;110
+r;12622463;141683;370000;11;110
+r;12715501;141683;346986;11;110
+r;12716113;141683;346833;11;110
+r;12716117;141683;346832;11;110
+r;12063644;141683;331026;11;113
+r;12063646;141683;331025;11;113
+r;12059833;141683;331008;11;114
+r;12059799;141683;331015;11;114
+r;11863947;141683;97924;11;121
+r;11870172;141683;55220;11;121
+r;11871663;141683;44792;11;121
+r;11877936;141683;902;11;121
+r;11853993;141683;179170;11;122
+r;11854028;141683;179157;11;122
+r;8941620;141683;317824;11;148
+r;9028207;141683;319197;11;148
+r;9060024;141683;320316;11;148
+r;9060101;141683;320386;11;148
+r;9060102;141683;320387;11;148
+r;9060103;141683;320388;11;148
+r;9060105;141683;320389;11;148
+r;9060106;141683;320390;11;148
+r;9077582;141683;321621;11;148
+r;9077583;141683;321622;11;148
+r;9077672;141683;321745;11;148
+r;9077713;141683;321798;11;148
+r;9116764;141683;322610;11;148
+r;9116766;141683;322611;11;148
+r;9301539;141683;323858;11;148
+r;9301541;141683;323859;11;148
+r;9310058;141683;324003;11;148
+r;11693161;141683;329687;11;148
+r;8885513;141683;303446;11;153
+r;8630367;141683;166706;11;160
+r;8691777;141683;219858;11;160
+r;8699807;141683;231371;11;160
+r;8701757;141683;233829;11;160
+r;8712403;141683;249131;11;160
+r;8811427;141683;313264;11;160
+r;8631398;141683;168194;11;161
+r;8682399;141683;208740;11;161
+r;8688282;141683;212799;11;161
+r;8690352;141683;216608;11;161
+r;8690462;141683;216979;11;161
+r;8690954;141683;218268;11;161
+r;8690994;141683;218368;11;161
+r;8691173;141683;218593;11;161
+r;8691397;141683;219091;11;161
+r;8691816;141683;219923;11;161
+r;8693386;141683;221880;11;161
+r;8693859;141683;222591;11;161
+r;8694055;141683;222911;11;161
+r;8694293;141683;223335;11;161
+r;8698446;141683;229702;11;161
+r;8699877;141683;231445;11;161
+r;8700283;141683;231881;11;161
+r;8701204;141683;232757;11;161
+r;8701687;141683;233627;11;161
+r;8702886;141683;235227;11;161
+r;8703244;141683;235669;11;161
+r;8703317;141683;235734;11;161
+r;8704617;141683;237283;11;161
+r;8705329;141683;238262;11;161
+r;8705951;141683;239141;11;161
+r;8708440;141683;244041;11;161
+r;8709676;141683;245936;11;161
+r;8709746;141683;245998;11;161
+r;8709964;141683;246221;11;161
+r;8710372;141683;246827;11;161
+r;8710765;141683;247279;11;161
+r;8711004;141683;247494;11;161
+r;8711726;141683;248355;11;161
+r;8712159;141683;248802;11;161
+r;8712161;141683;248803;11;161
+r;8712320;141683;249026;11;161
+r;8712359;141683;249074;11;161
+r;8712397;141683;249103;11;161
+r;8712438;141683;249169;11;161
+r;8712480;141683;249214;11;161
+r;8712732;141683;249461;11;161
+r;8712855;141683;249575;11;161
+r;8712874;141683;249590;11;161
+r;8713623;141683;250256;11;161
+r;8713686;141683;250289;11;161
+r;8713768;141683;250421;11;161
+r;8714074;141683;250680;11;161
+r;8717879;141683;254046;11;161
+r;8717970;141683;254127;11;161
+r;8719220;141683;254981;11;161
+r;8719710;141683;255393;11;161
+r;8720728;141683;256087;11;161
+r;8720821;141683;256150;11;161
+r;8721428;141683;256584;11;161
+r;8721702;141683;256750;11;161
+r;8721760;141683;256777;11;161
+r;8721763;141683;256778;11;161
+r;8722480;141683;257272;11;161
+r;8723173;141683;257816;11;161
+r;8723309;141683;257936;11;161
+r;8723326;141683;257952;11;161
+r;8723329;141683;257953;11;161
+r;8724354;141683;258633;11;161
+r;8724427;141683;258679;11;161
+r;8724710;141683;258860;11;161
+r;8724713;141683;258861;11;161
+r;8724934;141683;259017;11;161
+r;8726042;141683;259765;11;161
+r;8726368;141683;260027;11;161
+r;8726571;141683;260155;11;161
+r;8726773;141683;260318;11;161
+r;8726987;141683;260502;11;161
+r;8728957;141683;262149;11;161
+r;8728958;141683;262150;11;161
+r;8595442;141683;75213;11;162
+r;8604873;141683;102096;11;162
+r;8606183;141683;105712;11;162
+r;8609353;141683;114279;11;162
+r;8624663;141683;155767;11;162
+r;8626632;141683;159909;11;162
+r;8626655;141683;159943;11;162
+r;8626747;141683;160110;11;162
+r;8627196;141683;160992;11;162
+r;8627197;141683;161002;11;162
+r;8627218;141683;161049;11;162
+r;8627232;141683;161065;11;162
+r;8627417;141683;161372;11;162
+r;8627617;141683;161800;11;162
+r;8627642;141683;161833;11;162
+r;8627685;141683;161886;11;162
+r;8628191;141683;163001;11;162
+r;8628217;141683;163047;11;162
+r;8628254;141683;163129;11;162
+r;8628309;141683;163232;11;162
+r;8628440;141683;163490;11;162
+r;8628576;141683;163737;11;162
+r;8628668;141683;163910;11;162
+r;8628669;141683;163911;11;162
+r;8628697;141683;163975;11;162
+r;8628804;141683;164135;11;162
+r;8628872;141683;164243;11;162
+r;8628879;141683;164266;11;162
+r;8628910;141683;164321;11;162
+r;8628934;141683;164355;11;162
+r;8629105;141683;164577;11;162
+r;8629280;141683;164831;11;162
+r;8629340;141683;164936;11;162
+r;8629375;141683;165005;11;162
+r;8629386;141683;165038;11;162
+r;8629392;141683;165054;11;162
+r;8629495;141683;165222;11;162
+r;8629508;141683;165260;11;162
+r;8629539;141683;165316;11;162
+r;8629575;141683;165380;11;162
+r;8629804;141683;165826;11;162
+r;8629807;141683;165836;11;162
+r;8629825;141683;165883;11;162
+r;8632030;141683;169438;11;162
+r;8632032;141683;169439;11;162
+r;8632114;141683;169659;11;162
+r;8632863;141683;170551;11;162
+r;8633000;141683;170645;11;162
+r;8672124;141683;202546;11;162
+r;8673269;141683;203240;11;162
+r;8688982;141683;213829;11;162
+r;8688984;141683;213830;11;162
+r;8690180;141683;216152;11;162
+r;8731181;141683;263826;11;162
+r;8735303;141683;267374;11;162
+r;8765334;141683;298519;11;162
+r;8773290;141683;307605;11;162
+r;8585829;141683;47469;11;163
+r;8586056;141683;48034;11;163
+r;8586179;141683;48375;11;163
+r;8587116;141683;50977;11;163
+r;8593169;141683;68443;11;163
+r;8596533;141683;78404;11;163
+r;8613444;141683;125873;11;163
+r;8622803;141683;152483;11;163
+r;8622980;141683;152823;11;163
+r;8623374;141683;153514;11;163
+r;8623459;141683;153652;11;163
+r;8623498;141683;153727;11;163
+r;8623509;141683;153741;11;163
+r;8623521;141683;153769;11;163
+r;8623601;141683;153887;11;163
+r;8623734;141683;154120;11;163
+r;8623736;141683;154121;11;163
+r;8623851;141683;154274;11;163
+r;8624134;141683;154794;11;163
+r;8624473;141683;155393;11;163
+r;8624735;141683;155899;11;163
+r;8625317;141683;156946;11;163
+r;8625568;141683;158128;11;163
+r;8625583;141683;158198;11;163
+r;8625710;141683;158424;11;163
+r;8625858;141683;158638;11;163
+r;8625880;141683;158684;11;163
+r;8625894;141683;158716;11;163
+r;8626017;141683;158949;11;163
+r;8626160;141683;159185;11;163
+r;8626213;141683;159249;11;163
+r;8626517;141683;159726;11;163
+r;8626527;141683;159737;11;163
+r;8635128;141683;175187;11;163
+r;8635572;141683;176845;11;163
+r;8636455;141683;179929;11;163
+r;8636491;141683;179960;11;163
+r;8636496;141683;179962;11;163
+r;8642139;141683;183652;11;163
+r;8642140;141683;183653;11;163
+r;8642142;141683;183654;11;163
+r;8642144;141683;183655;11;163
+r;8642146;141683;183656;11;163
+r;8642147;141683;183657;11;163
+r;8642149;141683;183658;11;163
+r;8642151;141683;183659;11;163
+r;8647499;141683;186793;11;163
+r;8660036;141683;195548;11;163
+r;8676950;141683;205464;11;163
+r;8676952;141683;205465;11;163
+r;8676954;141683;205466;11;163
+r;8676956;141683;205467;11;163
+r;8676958;141683;205468;11;163
+r;8676960;141683;205469;11;163
+r;8676962;141683;205470;11;163
+r;8676964;141683;205471;11;163
+r;8676966;141683;205472;11;163
+r;8676967;141683;205473;11;163
+r;8676968;141683;205474;11;163
+r;8676971;141683;205475;11;163
+r;8676973;141683;205476;11;163
+r;8676975;141683;205477;11;163
+r;8677228;141683;205636;11;163
+r;8732551;141683;264900;11;163
+r;8733976;141683;266344;11;163
+r;8733977;141683;266345;11;163
+r;8734014;141683;266390;11;163
+r;8734289;141683;266593;11;163
+r;8735686;141683;267792;11;163
+r;8736284;141683;268378;11;163
+r;8736360;141683;268473;11;163
+r;8736361;141683;268474;11;163
+r;8736583;141683;268782;11;163
+r;8736584;141683;268783;11;163
+r;8736587;141683;268802;11;163
+r;8736588;141683;268803;11;163
+r;8736589;141683;268804;11;163
+r;8738094;141683;270494;11;163
+r;8739135;141683;271602;11;163
+r;8739275;141683;271772;11;163
+r;8742271;141683;274367;11;163
+r;8746033;141683;278352;11;163
+r;8748431;141683;281053;11;163
+r;8750377;141683;283162;11;163
+r;8750711;141683;283514;11;163
+r;8756578;141683;288585;11;163
+r;8757400;141683;289426;11;163
+r;8759289;141683;291466;11;163
+r;8761593;141683;294132;11;163
+r;8762139;141683;294813;11;163
+r;8770759;141683;304493;11;163
+r;8771199;141683;304998;11;163
+r;8775226;141683;309343;11;163
+r;8577850;141683;23884;11;164
+r;8579076;141683;27445;11;164
+r;8579132;141683;27616;11;164
+r;8651927;141683;189849;11;164
+r;8653717;141683;191336;11;164
+r;8654305;141683;191787;11;164
+r;8658242;141683;194158;11;164
+r;8658243;141683;194159;11;164
+r;8658244;141683;194160;11;164
+r;8658246;141683;194161;11;164
+r;8658247;141683;194162;11;164
+r;8666535;141683;199344;11;164
+r;8667350;141683;199836;11;164
+r;8776821;141683;310904;11;164
+r;8778761;141683;312469;11;164
+r;8575256;141683;15895;11;165
+r;8575527;141683;16708;11;165
+r;8669363;141683;200854;11;165
+r;8669587;141683;200980;11;165
+r;8571543;141683;4701;11;166
+r;8570629;141683;1931;11;168
+r;8572029;141683;6193;11;168

@@ -1,0 +1,62 @@
+
+e;8786;'seulement';1;142
+e;6333706;'tympanosclérose intéressant le tympan seulement';1;0
+e;6387826;'tympanosclérose impliquant seulement la membrane tympanique';1;0
+e;14653163;'seulement indicatif';1;0
+e;14896327;'Un élément m de E est le maximum de A si et seulement si m est la borne supérieure de A et m appartient à A';777;0
+e;16155209;'puis et seulement puis';777;0
+e;16389621;'seulement 4000 patients soient officiellement diagnostiqués sur le territoire français';777;0
+e;6418998;'description morphologique seulement';1;0
+e;2372509;'non-seulement';1;0
+e;15489876;'délivré seulement sur ordonnance';1;0
+e;11780885;'en saison seulement';777;0
+e;10036491;'Une nuit seulement';777;0
+e;15342572;'Non seulement c'est acceptable, mais c'est même vivement recommandé.';1;0
+e;15448590;'Si seulement !';1;0
+e;15683946;'Titres présents sur version spéciale seulement';777;0
+e;5899718;'dédicace seulement';777;0
+e;15762013;'La chasse n'est pas seulement une question de lutte contre les nuisibles.';1;0
+e;15407038;'Il pleuviote seulement.';1;0
+e;14488372;'Cet exemple fonctionne seulement si on émule la carte graphique car on ne recopie pas les données sur la carte';777;0
+e;15203438;'5 seulement';1;0
+e;204466;'non seulement... mais encore';1;50
+e;3755256;'citron jus seulement';1;0
+e;3755862;'petits poireaux partie blanche seulement émincés en rondelles';1;0
+e;4317084;'Si seulement';777;0
+e;3753693;'citron le zeste seulement';1;0
+e;3919509;'il faut quarante-sept muscles pour froncer les sourcils et seulement treize pour sourire';1;0
+e;366552;'non seulement';1;50
+e;314386;'si et seulement si';1;52
+e;119632;'si seulement';1;52
+e;138652;'L'homme ne vit pas seulement de pain';1;50
+e;171709;'seulement si';1;50
+r;301147887;8786;6333706;11;25
+r;304490725;8786;6387826;11;25
+r;372428346;8786;14653163;11;25
+r;389621713;8786;14896327;11;25
+r;423733482;8786;16155209;11;25
+r;432959343;8786;16389621;11;25
+r;305696413;8786;6418998;11;26
+r;52041909;8786;2372509;11;30
+r;419810906;8786;15489876;11;30
+r;302859263;8786;11780885;11;32
+r;227615681;8786;10036491;11;33
+r;419513224;8786;15342572;11;34
+r;419545329;8786;15448590;11;34
+r;403045942;8786;15683946;11;35
+r;115098941;8786;5899718;11;39
+r;417031533;8786;15762013;11;45
+r;402108972;8786;15407038;11;50
+r;393990780;8786;14488372;11;50
+r;395008917;8786;15203438;11;50
+r;14343106;8786;204466;11;52
+r;93687454;8786;3755256;11;54
+r;93680727;8786;3755862;11;55
+r;98455881;8786;4317084;11;55
+r;93702082;8786;3753693;11;56
+r;95171848;8786;3919509;11;56
+r;12635977;8786;366552;11;101
+r;8826085;8786;314386;11;157
+r;8611246;8786;119632;11;161
+r;8618734;8786;138652;11;163
+r;8634208;8786;171709;11;163

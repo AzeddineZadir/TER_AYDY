@@ -1,0 +1,52 @@
+
+e;122490;'parfaitement';1;144
+e;16066198;'parfaitement déformable';1;0
+e;16066197;'parfaitement déformables';1;0
+e;15389515;'Mon plan a parfaitement marché.';1;0
+e;15350494;'Ses personnages sont dépeints de façon réaliste et sont parfaitement crédibles.';1;0
+e;15357843;'Son score était parfaitement honorable.';1;0
+e;15294820;'aller parfaitement';1;0
+e;15498021;'connaître parfaitement';1;0
+e;15294827;'convenant parfaitement';1;0
+e;15294824;'convenir parfaitement';1;0
+e;15294822;'convenu parfaitement';1;0
+e;15303596;'convient parfaitement';1;0
+e;15400380;'correspondre parfaitement';1;0
+e;15356734;'en caractères parfaitement lisibles';1;0
+e;5810049;'collision parfaitement inélastique';777;0
+e;12068952;'aller parfaitement bien';1;0
+e;12068949;'sembler aller parfaitement bien';1;0
+e;5811167;'couche absorbante parfaitement adaptée';777;0
+e;16066217;'Il parle parfaitement l'arabe.';1;0
+e;15481914;'Cela me convient parfaitement.';1;0
+e;8792464;'mauvais goût parfaitement assumé';1;0
+e;437316;'parfaitement diététique';1;50
+e;437317;'parfaitement doré';1;50
+e;1964212;'distribution parfaitement symétrique';1;0
+e;3743678;'soupe à l'oignon parfaitement gratinée';1;0
+e;368723;'parfaitement étanche';1;50
+r;418477349;122490;16066198;11;25
+r;418477362;122490;16066197;11;25
+r;419509110;122490;15389515;11;25
+r;419544620;122490;15350494;11;25
+r;419547280;122490;15357843;11;25
+r;419587934;122490;15294820;11;25
+r;419731839;122490;15498021;11;25
+r;419739130;122490;15294827;11;25
+r;419739167;122490;15294824;11;25
+r;419739412;122490;15294822;11;25
+r;419739676;122490;15303596;11;25
+r;419741779;122490;15400380;11;25
+r;419837774;122490;15356734;11;25
+r;113277948;122490;5810049;11;30
+r;314138217;122490;12068952;11;35
+r;314138234;122490;12068949;11;35
+r;113274491;122490;5811167;11;38
+r;418497273;122490;16066217;11;42
+r;397134913;122490;15481914;11;50
+r;184478763;122490;8792464;11;50
+r;14689530;122490;437316;11;53
+r;14689526;122490;437317;11;56
+r;31625718;122490;1964212;11;57
+r;93454915;122490;3743678;11;58
+r;12627583;122490;368723;11;110

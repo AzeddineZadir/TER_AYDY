@@ -1,0 +1,172 @@
+
+e;2005089;'fermetures';2;0
+e;6387175;'fermetures de l'espace orthodontique';1;0
+e;6358177;'fermetures des espaces orthodontiques';1;0
+e;6526215;'fermetures congénitales incomplètes';1;0
+e;6527044;'fermetures chirurgicales';1;0
+e;13796167;'1-08 réparations, fermetures et reconstructions chirurgicales';1;0
+e;13769736;'1-084 fermetures chirurgicales';1;0
+e;13792251;'1-108-10a appareil locomoteur réparations, fermetures et reconstructions chirurgicales';1;0
+e;13792155;'1-118-11a os de la face réparations, fermetures et reconstructions chirurgicales';1;0
+e;13789028;'1-128 cou et tronc réparations, fermetures et reconstructions chirurgicales';1;0
+e;13794365;'1-138-139 colonne vertébrale réparations, fermetures et reconstructions chirurgicales';1;0
+e;13791272;'1-148-149 bassin et hanche réparations, fermetures et reconstructions chirurgicales';1;0
+e;13784516;'1-168-16b épaule et bras réparations, fermetures et reconstructions chirurgicales';1;0
+e;13782450;'1-178-17b poignet et main réparations, fermetures et reconstructions chirurgicales';1;0
+e;13779575;'1-188-18b cuisse et jambe réparations, fermetures et reconstructions chirurgicales';1;0
+e;13775758;'1-198-19b cheville et pied réparations, fermetures et reconstructions chirurgicales';1;0
+e;13759890;'1-218-21a nez et rhino-pharynx réparations, fermetures et reconstructions chirurgicales';1;0
+e;13753862;'1-238 sinus accessoires réparations, fermetures et reconstructions chirurgicales';1;0
+e;13747772;'1-258-25a larynx réparations, fermetures et reconstructions chirurgicales';1;0
+e;13744255;'1-268-269 trachée et bronches réparations, fermetures et reconstructions chirurgicales';1;0
+e;13750052;'1-288 poumons et plèvre réparations, fermetures et reconstructions chirurgicales';1;0
+e;13766192;'1-308-309 appareil cardiovasculaire réparations, fermetures et reconstructions chirurgicales';1;0
+e;13762868;'1-318-319 coeur réparations, fermetures et reconstructions chirurgicales';1;0
+e;13760291;'1-328-329 valvules cardiaques réparations, fermetures et reconstructions chirurgicales';1;0
+e;13757224;'1-338 artères coronaires réparations, fermetures et reconstructions chirurgicales';1;0
+e;13754309;'1-348-349 aorte réparations, fermetures et reconstructions chirurgicales';1;0
+e;13759413;'1-358-359 artères de la tête et du cou réparations, fermetures et reconstructions chirurgicales';1;0
+e;13748014;'1-368-36a artères thoraciques et abdominales réparations, fermetures et reconstructions chirurgicales';1;0
+e;13748070;'1-378-379 artères des extrémités réparations, fermetures et reconstructions chirurgicales';1;0
+e;13752504;'1-388-389 veines réparations, fermetures et reconstructions chirurgicales';1;0
+e;13749419;'1-398 péricarde réparations, fermetures et reconstructions chirurgicales';1;0
+e;13768731;'1-408-409 système tégumentaire réparations, fermetures et reconstructions chirurgicales';1;0
+e;13766533;'1-418 cuir chevelu et cou réparations, fermetures et reconstructions chirurgicales';1;0
+e;13759643;'1-438 peau du tronc réparations, fermetures et reconstructions chirurgicales';1;0
+e;13757493;'1-458 peau des extrémités réparations, fermetures et reconstructions chirurgicales';1;0
+e;13746852;'1-488-489 sein réparations, fermetures et reconstructions chirurgicales';1;0
+e;13798271;'1-518-519 bouche et lèvres réparations, fermetures et reconstructions chirurgicales';1;0
+e;13798115;'1-528 langue réparations, fermetures et reconstructions chirurgicales';1;0
+e;13795117;'1-538 pharynx réparations, fermetures et reconstructions chirurgicales';1;0
+e;13792301;'1-548-549 oesophage réparations, fermetures et reconstructions chirurgicales';1;0
+e;13789318;'1-558-55a estomac réparations, fermetures et reconstructions chirurgicales';1;0
+e;13786169;'1-568-569 intestin grêle réparations, fermetures et reconstructions chirurgicales';1;0
+e;13791417;'1-578-579 gros intestin réparations, fermetures et reconstructions chirurgicales';1;0
+e;13780558;'1-588-589 rectum et anus réparations, fermetures et reconstructions chirurgicales';1;0
+e;13764069;'1-5a8 glandes salivaires réparations, fermetures et reconstructions chirurgicales';1;0
+e;13760701;'1-5b8 foie réparations, fermetures et reconstructions chirurgicales';1;0
+e;13766219;'1-5c8-5c9 vésicule biliaire et voies biliaires réparations, fermetures et reconstructions chirurgicales';1;0
+e;13751797;'1-5e8 pancréas réparations, fermetures et reconstructions chirurgicales';1;0
+e;13796317;'1-608 système endocrinien réparations, fermetures et reconstructions chirurgicales';1;0
+e;13796258;'1-618 glande thyroïde réparations, fermetures et reconstructions chirurgicales';1;0
+e;13791618;'1-658 système lymphatique réparations, fermetures et reconstructions chirurgicales';1;0
+e;13788518;'1-668 amygdales et végétations adénoïdes réparations, fermetures et reconstructions chirurgicales';1;0
+e;13786371;'1-678 rate, thymus et moelle osseuse réparations, fermetures et reconstructions chirurgicales';1;0
+e;13741873;'1-718 rein réparations, fermetures et reconstructions chirurgicales';1;0
+e;13766309;'1-738-739 uretère réparations, fermetures et reconstructions chirurgicales';1;0
+e;13763166;'1-748 vessie réparations, fermetures et reconstructions chirurgicales';1;0
+e;13752001;'1-758-759 urètre réparations, fermetures et reconstructions chirurgicales';1;0
+e;13754411;'1-778 pénis réparations, fermetures et reconstructions chirurgicales';1;0
+e;13754334;'1-788 prostate réparations, fermetures et reconstructions chirurgicales';1;0
+e;13746912;'1-798 testicule et épididyme réparations, fermetures et reconstructions chirurgicales';1;0
+e;13798691;'1-7a8 scrotum, canal déférent et vésicule séminal réparations, fermetures et reconstructions chirurgicales';1;0
+e;13775448;'1-818 vulve réparations, fermetures et reconstructions chirurgicales';1;0
+e;13764509;'1-828-829 vagin réparations, fermetures et reconstructions chirurgicales';1;0
+e;13761103;'1-838-839 utérus et col de l'utérus réparations, fermetures et reconstructions chirurgicales';1;0
+e;13765642;'1-848 ovaires et trompes de fallope réparations, fermetures et reconstructions chirurgicales';1;0
+e;13752412;'1-868 obstétrique réparations, fermetures et reconstructions chirurgicales';1;0
+e;13770549;'1-918-919 cerveau réparations fermetures et reconstructions chirurgicales';1;0
+e;13763867;'1-938 moelle épinière réparations, fermetures et reconstructions chirurgicales';1;0
+e;13766051;'1-958-959 nerfs réparations, fermetures et reconstructions chirurgicales';1;0
+e;13747965;'1-a18 orbite et globe oculaire réparations, fermetures et reconstructions chirurgicales';1;0
+e;13744342;'1-a28-a2a paupière et appareil lacrymal réparations, fermetures et reconstructions chirurgicales';1;0
+e;13744167;'1-a38 cornée réparations, fermetures et reconstructions chirurgicales';1;0
+e;13750245;'1-a48 segment antérieur de l'oeil réparations, fermetures et reconstructions chirurgicales';1;0
+e;13746533;'1-a58 cristallin réparations, fermetures et reconstructions chirurgicales';1;0
+e;13800113;'1-a68 segment postérieur de l'oeil réparations, fermetures et reconstructions chirurgicales';1;0
+e;13799271;'1-a98 muscles extra-oculaires réparations, fermetures et reconstructions chirurgicales';1;0
+e;13782627;'1-ab8-ab9 oreille externe réparations, fermetures et reconstructions chirurgicales';1;0
+e;13779969;'1-ac8-ac9 oreille moyenne réparations, fermetures et reconstructions chirurgicales';1;0
+e;13776882;'1-ad8 oreille interne réparations, fermetures et reconstructions chirurgicales';1;0
+e;13754333;'1-b18-b19 thorax et paroi thoracique réparations, fermetures et reconstructions chirurgicales';1;0
+e;13746902;'1-b28 médiastin réparations, fermetures et reconstructions chirurgicales';1;0
+e;13748214;'1-b38 diaphragme réparations, fermetures et reconstructions chirurgicales';1;0
+e;13745935;'1-b68-b6a abdomen réparations, fermetures et reconstructions chirurgicales';1;0
+e;13800550;'1-b78 péritoine, rétropéritoine et mésentère réparations, fermetures et reconstructions chirurgicales';1;0
+e;13767107;'1-b98-b9a région inguinale, bassin et périnée réparations, fermetures et reconstructions chirurgicales';1;0
+e;13750280;'219 fermetures congénitales incomplètes';1;0
+r;304479830;2005089;6387175;11;25
+r;349329320;2005089;6358177;11;25
+r;121449737;2005089;6526215;11;38
+r;121443990;2005089;6527044;11;47
+r;348971798;2005089;13796167;11;50
+r;348971812;2005089;13769736;11;50
+r;348971920;2005089;13792251;11;50
+r;348972002;2005089;13792155;11;50
+r;348972090;2005089;13789028;11;50
+r;348972184;2005089;13794365;11;50
+r;348972286;2005089;13791272;11;50
+r;348972392;2005089;13784516;11;50
+r;348972498;2005089;13782450;11;50
+r;348972604;2005089;13779575;11;50
+r;348972710;2005089;13775758;11;50
+r;348972856;2005089;13759890;11;50
+r;348972980;2005089;13753862;11;50
+r;348973068;2005089;13747772;11;50
+r;348973164;2005089;13744255;11;50
+r;348973266;2005089;13750052;11;50
+r;348973370;2005089;13766192;11;50
+r;348973458;2005089;13762868;11;50
+r;348973554;2005089;13760291;11;50
+r;348973656;2005089;13757224;11;50
+r;348973744;2005089;13754309;11;50
+r;348973854;2005089;13759413;11;50
+r;348973976;2005089;13748014;11;50
+r;348974084;2005089;13748070;11;50
+r;348974172;2005089;13752504;11;50
+r;348974254;2005089;13749419;11;50
+r;348974352;2005089;13768731;11;50
+r;348974468;2005089;13766533;11;50
+r;348974576;2005089;13759643;11;50
+r;348974678;2005089;13757493;11;50
+r;348974766;2005089;13746852;11;50
+r;348974896;2005089;13798271;11;50
+r;348974984;2005089;13798115;11;50
+r;348975066;2005089;13795117;11;50
+r;348975148;2005089;13792301;11;50
+r;348975230;2005089;13789318;11;50
+r;348975327;2005089;13786169;11;50
+r;348975429;2005089;13791417;11;50
+r;348975531;2005089;13780558;11;50
+r;348975633;2005089;13764069;11;50
+r;348975721;2005089;13760701;11;50
+r;348975845;2005089;13766219;11;50
+r;348975945;2005089;13751797;11;50
+r;348976041;2005089;13796317;11;50
+r;348976143;2005089;13796258;11;50
+r;348976245;2005089;13791618;11;50
+r;348976361;2005089;13788518;11;50
+r;348976497;2005089;13786371;11;50
+r;348976623;2005089;13741873;11;50
+r;348976705;2005089;13766309;11;50
+r;348976787;2005089;13763166;11;50
+r;348976869;2005089;13752001;11;50
+r;348976981;2005089;13754411;11;50
+r;348977063;2005089;13754334;11;50
+r;348977159;2005089;13746912;11;50
+r;348977303;2005089;13798691;11;50
+r;348977439;2005089;13775448;11;50
+r;348977521;2005089;13764509;11;50
+r;348977617;2005089;13761103;11;50
+r;348977733;2005089;13765642;11;50
+r;348977827;2005089;13752412;11;50
+r;348977943;2005089;13770549;11;50
+r;348978039;2005089;13763867;11;50
+r;348978127;2005089;13766051;11;50
+r;348978215;2005089;13747965;11;50
+r;348978327;2005089;13744342;11;50
+r;348978415;2005089;13744167;11;50
+r;348978519;2005089;13750245;11;50
+r;348978587;2005089;13746533;11;50
+r;348978673;2005089;13800113;11;50
+r;348978753;2005089;13799271;11;50
+r;348978847;2005089;13782627;11;50
+r;348978933;2005089;13779969;11;50
+r;348979009;2005089;13776882;11;50
+r;348979159;2005089;13754333;11;50
+r;348979253;2005089;13746902;11;50
+r;348979329;2005089;13748214;11;50
+r;348979411;2005089;13745935;11;50
+r;348979521;2005089;13800550;11;50
+r;348979657;2005089;13767107;11;50
+r;348983858;2005089;13750280;11;50

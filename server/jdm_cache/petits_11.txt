@@ -28,25 +28,8 @@ e;14655496;'petits tas';1;0
 e;14655576;'petits bruns';1;0
 e;15013320;'pousser des petits miaulements';1;0
 e;15958858;'petits points';1;0
-e;15530603;'Les touristes se mirent à retourner vers les cars par petits groupes.';1;0
-e;16066070;'amplification de petits signaux';1;0
-e;15922752;'avoir des petits';1;0
-e;15418535;'avoir des petits yeux';1;0
-e;15567904;'boîte de petits pois';1;0
-e;15316956;'c'est dans les petits pots que sont les bons onguents';1;0
-e;15297002;'canard aux petits pois';1;0
-e;15569863;'classe des petits';1;0
-e;15571312;'clauses imprimées en petits caractères';1;0
-e;15571987;'cochon n'y retrouverait pas ses petits';1;0
-e;15325866;'criblé de petits trous';1;0
-e;16042954;'dans les petits papiers de';1;0
-e;15316952;'dans les petits pots, les bons onguents';1;0
-e;15264511;'dans leurs petits souliers';1;0
-e;15194222;'des petits pois';1;0
-e;15297005;'des petits pois en boîte';1;0
-e;15303694;'des petits pois en conserve';1;0
-e;15321304;'des petits riens';1;0
 e;16309390;'petits déplacements';1;0
+e;16318359;'économie des petits boulots';777;0
 e;15024675;'adorables petits garçons';1;0
 e;6288121;'petits vaisseaux sous-cutanés';1;0
 e;6292184;'petits membres de la famille maf';1;0
@@ -77,8 +60,6 @@ e;16166466;'petits légumes';1;4
 e;6290782;'maladies des petits vaisseaux cérébraux';1;0
 e;6312280;'petits corps du système solaire';1;0
 e;12100471;'lymphocytes t activés/100 petits lymphocytes';1;0
-e;15463604;'défendre ses petits';1;0
-e;5812516;'Peste-des-petits-ruminants';1;0
 e;13519354;'petits groupes';1;0
 e;13519395;'envol de petits ballons';1;0
 e;6425959;'lymphome b à petits lymphocytes stade 4';1;0
@@ -86,8 +67,19 @@ e;10731021;'Jeux des petits États d'Europe';777;0
 e;10731020;'Jeux des petits États d'Europe 2019';777;0
 e;6422876;'lymphome b à petits lymphocytes stade 2';1;0
 e;11772874;'Les petits garnements';777;0
+e;15325866;'criblé de petits trous';1;0
+e;16042954;'dans les petits papiers de';1;0
+e;15316952;'dans les petits pots, les bons onguents';1;0
+e;15264511;'dans leurs petits souliers';1;0
+e;15194222;'des petits pois';1;0
+e;15297005;'des petits pois en boîte';1;0
+e;15303694;'des petits pois en conserve';1;0
+e;15321304;'des petits riens';1;0
 e;5804895;'petits pôles';777;0
 e;5908460;'muscat noir à petits grains';777;0
+e;15569863;'classe des petits';1;0
+e;15571312;'clauses imprimées en petits caractères';1;0
+e;15571987;'cochon n'y retrouverait pas ses petits';1;0
 e;5837647;'muscat rose à petits grains';777;0
 e;5837643;'muscat à petits grains Rg';777;0
 e;5837639;'muscat rouge à petits grains';777;0
@@ -96,18 +88,28 @@ e;6433715;'petits arn d'interférence';1;0
 e;10014100;'Dix petits Indiens';777;0
 e;10963091;'les petits hommes';777;0
 e;14890794;'L'hirondelle et les petits oiseaux';777;0
+e;15463604;'défendre ses petits';1;0
+e;15922752;'avoir des petits';1;0
+e;15418535;'avoir des petits yeux';1;0
+e;15567904;'boîte de petits pois';1;0
+e;15316956;'c'est dans les petits pots que sont les bons onguents';1;0
+e;15297002;'canard aux petits pois';1;0
+e;16169504;'appropriée aux petits jardins familiaux';777;0
 e;10036689;'Trois petits orphelins';777;0
 e;10960045;'Peste des petits ruminants';777;0
 e;11063227;'diffusion des rayons X aux petits angles';777;0
 e;11407982;'genre éteint de petits dinosaures théropodes';1;0
+e;16162117;'Vascularites de petits vaisseaux';777;0
 e;5673785;'petits oiseaux limicoles';1;0
 e;5954844;'Les nains aussi ont commencé petits';777;0
 e;10834981;'Salut les petits loups';777;0
 e;10940704;'Jeux des petits États d'Europe 2011';777;0
 e;11407981;'genre éteint de petits dinosaures';1;0
 e;12302363;'Danse des petits cygnes';777;0
+e;16066070;'amplification de petits signaux';1;0
 e;10841308;'Parti indépendant des petits propriétaires';777;0
 e;10841307;'Parti civique indépendant des petits propriétaires et des travailleurs agraires';777;0
+e;15530603;'Les touristes se mirent à retourner vers les cars par petits groupes.';1;0
 e;5620379;'frairie des petits ventres';777;0
 e;10044881;'L'Île de la raison ou les petits hommes';777;0
 e;12080913;'précurseur de petits ARN interférents';1;0
@@ -116,6 +118,7 @@ e;12080217;'noyer à petits fruits';1;0
 e;2379774;'oxyure des petits ruminants';1;0
 e;10750429;'Bonjour les petits loups';777;0
 e;10750405;'Debout les petits bouts';777;0
+e;5812516;'Peste-des-petits-ruminants';1;0
 e;5716141;'Laissez venir à moi les petits enfants';777;0
 e;5999735;'petits ARN en épingle à cheveux';777;0
 e;5999613;'petits ARN interférents';777;0
@@ -933,7 +936,7 @@ e;202910;'les petits ruisseaux font les grandes rivières';1;50
 e;214918;'pays des petits poneys';1;50
 e;266392;'faire des petits';1;50
 e;274948;'être aux petits oignons';1;50
-e;13963;'être aux petits soins';1;98
+e;13963;'être aux petits soins';1;106
 e;47820;'Lettre ouverte aux parents des petits écoliers';1;50
 e;54028;'petits soins';1;50
 e;78530;'soigner aux petits oignons';1;50
@@ -989,25 +992,8 @@ r;372645720;7914;14655496;11;25
 r;372650870;7914;14655576;11;25
 r;392094109;7914;15013320;11;25
 r;416739986;7914;15958858;11;25
-r;419497586;7914;15530603;11;25
-r;419592058;7914;16066070;11;25
-r;419630173;7914;15922752;11;25
-r;419630178;7914;15418535;11;25
-r;419662966;7914;15567904;11;25
-r;419670170;7914;15316956;11;25
-r;419679116;7914;15297002;11;25
-r;419712612;7914;15569863;11;25
-r;419713201;7914;15571312;11;25
-r;419715460;7914;15571987;11;25
-r;419750905;7914;15325866;11;25
-r;419764279;7914;16042954;11;25
-r;419764285;7914;15316952;11;25
-r;419764358;7914;15264511;11;25
-r;419775014;7914;15194222;11;25
-r;419775018;7914;15297005;11;25
-r;419775026;7914;15303694;11;25
-r;419775035;7914;15321304;11;25
 r;428106796;7914;16309390;11;25
+r;428869702;7914;16318359;11;25
 r;392469263;7914;15024675;11;26
 r;298254968;7914;6288121;11;26
 r;298493961;7914;6292184;11;26
@@ -1038,8 +1024,6 @@ r;423813145;7914;16166466;11;26
 r;298434771;7914;6290782;11;27
 r;299592894;7914;6312280;11;27
 r;315573376;7914;12100471;11;27
-r;395565856;7914;15463604;11;27
-r;294430583;7914;5812516;11;28
 r;342464012;7914;13519354;11;28
 r;342465068;7914;13519395;11;28
 r;122727049;7914;6425959;11;29
@@ -1047,8 +1031,19 @@ r;269885983;7914;10731021;11;29
 r;269885991;7914;10731020;11;29
 r;122751104;7914;6422876;11;30
 r;302046256;7914;11772874;11;30
+r;419750905;7914;15325866;11;30
+r;419764279;7914;16042954;11;30
+r;419764285;7914;15316952;11;30
+r;419764358;7914;15264511;11;30
+r;419775014;7914;15194222;11;30
+r;419775018;7914;15297005;11;30
+r;419775026;7914;15303694;11;30
+r;419775035;7914;15321304;11;30
 r;113297611;7914;5804895;11;31
 r;115870913;7914;5908460;11;31
+r;419712612;7914;15569863;11;31
+r;419713201;7914;15571312;11;31
+r;419715460;7914;15571987;11;31
 r;114015237;7914;5837647;11;32
 r;114015254;7914;5837643;11;32
 r;114015266;7914;5837639;11;32
@@ -1057,18 +1052,28 @@ r;122664385;7914;6433715;11;32
 r;227646665;7914;10014100;11;32
 r;276725258;7914;10963091;11;32
 r;388254021;7914;14890794;11;32
+r;395565856;7914;15463604;11;32
+r;419630173;7914;15922752;11;32
+r;419630178;7914;15418535;11;32
+r;419662966;7914;15567904;11;32
+r;419670170;7914;15316956;11;32
+r;419679116;7914;15297002;11;32
+r;434371447;7914;16169504;11;32
 r;227615547;7914;10036689;11;33
 r;276171403;7914;10960045;11;33
 r;280413421;7914;11063227;11;33
 r;293502716;7914;11407982;11;33
+r;434366272;7914;16162117;11;33
 r;111334632;7914;5673785;11;34
 r;116583288;7914;5954844;11;34
 r;270915804;7914;10834981;11;34
 r;275476895;7914;10940704;11;34
 r;293502732;7914;11407981;11;34
 r;319705002;7914;12302363;11;34
+r;419592058;7914;16066070;11;34
 r;271594244;7914;10841308;11;35
 r;271594254;7914;10841307;11;35
+r;419497586;7914;15530603;11;35
 r;110814387;7914;5620379;11;36
 r;227596159;7914;10044881;11;36
 r;315110223;7914;12080913;11;36
@@ -1077,6 +1082,7 @@ r;315113960;7914;12080217;11;36
 r;52243793;7914;2379774;11;37
 r;269378971;7914;10750429;11;37
 r;269379067;7914;10750405;11;37
+r;294430583;7914;5812516;11;37
 r;112170957;7914;5716141;11;38
 r;118544388;7914;5999735;11;38
 r;118544839;7914;5999613;11;38

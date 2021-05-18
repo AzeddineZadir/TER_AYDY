@@ -1,0 +1,98 @@
+
+e;143257;'occulte';1;88
+e;6416515;'sang occulte fécal positif';1;0
+e;12185787;'mesure de sang occulte';1;0
+e;12172451;'mesure de nombre d'échantillon de sang occulte recommandé par le kit';1;0
+e;12132132;'détermination de la présence de cancer colorectal non invasif adn+sang occulte dépistage';1;0
+e;12132130;'mesure de cancer colorectal non invasif adn+sang occulte dépistage';1;0
+e;6325921;'syphilis occulte';1;0
+e;6317329;'vomissement de sang occulte positif';1;0
+e;6355233;'spina bifida occulte';1;0
+e;6370586;'sang occulte fécal négatif';1;0
+e;6299410;'sang occulte positif';1;0
+e;6325580;'sang occulte dans les selles absent';1;0
+e;6331287;'sang occulte dans les selles présent';1;0
+e;6348964;'positif sang occulte sai';1;0
+e;6366071;'sang occulte fécal';1;0
+e;6409795;'sang occulte sai négatif';1;0
+e;6410143;'sang occulte négatif';1;0
+e;6417341;'sang occulte urinaire positif';1;0
+e;12091780;'cancer colorectal non invasif adn+sang occulte dépistage';1;0
+e;6374899;'test de recherche de saignement occulte positif';1;0
+e;6350599;'sang occulte gastrique positif';1;0
+e;12101807;'nombre d'échantillon de sang occulte recommandé par le kit';1;0
+e;16911;'sciences occultes';1;52
+e;6445195;'analyse chimique de l'urine pour sang occulte';1;0
+e;15333106;'caisse occulte';1;0
+e;5635419;'philosophie occulte';1;0
+e;1835567;'mesure radio isotopique d'une hémorragie digestive occulte';1;0
+e;1826275;'néovaisseau occulte';1;0
+e;11130833;'science occulte de l'invocation d'entités démoniaques';1;0
+e;12246347;'mesure de sang occulte | immunoanalyse | selles | ponctuel | -';1;0
+e;12246346;'mesure de sang occulte | technique indéterminée | selles | ponctuel | -';1;0
+e;12246345;'mesure de sang occulte | technique indéterminée | liquide gastrique | ponctuel | -';1;0
+e;3259594;'hydrocéphalie occulte à pression normale';1;0
+e;463022;'méningocèle intra-sacrée occulte';1;50
+e;1857784;'recherche de sang occulte';777;0
+e;1857783;'saignement occulte fécal';777;0
+e;344228;'comptabilité occulte';1;50
+e;354275;'financement occulte des partis politiques';1;50
+e;354274;'financement occulte';1;52
+e;354283;'financement politique occulte';1;50
+e;344176;'commission occulte';1;50
+e;333210;'accord occulte';1;50
+e;236340;'compte occulte';1;2
+e;242525;'science occulte';1;58
+e;121465;'pratique occulte';1;50
+e;206873;'religion occulte';1;50
+e;207041;'réserve occulte';1;50
+e;126562;'cause occulte';1;50
+e;311264;'plaisanterie occulte';777;50
+r;305683156;143257;6416515;11;25
+r;316597071;143257;12185787;11;25
+r;316652449;143257;12172451;11;25
+r;316783840;143257;12132132;11;25
+r;316783853;143257;12132130;11;25
+r;318178140;143257;6325921;11;25
+r;349263340;143257;6317329;11;25
+r;349296924;143257;6355233;11;25
+r;302982838;143257;6370586;11;26
+r;299071303;143257;6299410;11;26
+r;300190627;143257;6325580;11;26
+r;300962566;143257;6331287;11;26
+r;301722797;143257;6348964;11;26
+r;302190913;143257;6366071;11;26
+r;305464770;143257;6409795;11;26
+r;305472304;143257;6410143;11;26
+r;305686185;143257;6417341;11;26
+r;315639052;143257;12091780;11;26
+r;349263133;143257;6374899;11;26
+r;301734084;143257;6350599;11;28
+r;315559018;143257;12101807;11;28
+r;2305390;143257;16911;11;29
+r;121481532;143257;6445195;11;32
+r;419676707;143257;15333106;11;32
+r;111235214;143257;5635419;11;33
+r;30002919;143257;1835567;11;35
+r;29809292;143257;1826275;11;36
+r;282789159;143257;11130833;11;50
+r;317974756;143257;12246347;11;50
+r;317974769;143257;12246346;11;50
+r;317974784;143257;12246345;11;50
+r;78802218;143257;3259594;11;55
+r;16357607;143257;463022;11;57
+r;30006334;143257;1857784;11;58
+r;30006338;143257;1857783;11;63
+r;12727623;143257;344228;11;102
+r;12686061;143257;354275;11;103
+r;12686071;143257;354274;11;104
+r;12686019;143257;354283;11;105
+r;12727835;143257;344176;11;108
+r;12772595;143257;333210;11;109
+r;8703796;143257;236340;11;161
+r;2289294;143257;242525;11;162
+r;8611898;143257;121465;11;162
+r;8679235;143257;206873;11;162
+r;8679544;143257;207041;11;162
+r;8613718;143257;126562;11;163
+r;8777233;143257;311264;11;164

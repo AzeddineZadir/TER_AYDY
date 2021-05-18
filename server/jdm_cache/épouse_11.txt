@@ -1,0 +1,116 @@
+
+e;140056;'épouse';1;1138
+e;13684792;'épouse de Ponce Pilate';777;0
+e;14231842;'épouse maltraitée';1;0
+e;14549156;'première épouse';1;0
+e;14735805;'Petite amie puis épouse';777;0
+e;14670140;'épouse et mère';1;4
+e;15014334;'épouse soumise';1;0
+e;16166502;'épouse du fils';1;0
+e;5046014;'ex-épouse';1;10
+e;6433782;'suicide de l'épouse';1;0
+e;10595099;'N'épouse pas ta fille';777;0
+e;15378565;'d'une bonne épouse';1;0
+e;9985743;'Son épouse';777;0
+e;15229529;'choisissez votre épouse avec l'oeil du vieillard, choisissez votre cheval avec l'oeil du jeune homme';1;0
+e;15378556;'bonne épouse';1;0
+e;10956256;'épouse de Pilate';777;0
+e;11995765;'épouse du président de la République italienne';777;0
+e;10252751;'grande épouse royale';777;0
+e;11089985;'meurtre de son épouse';1;0
+e;11995782;'épouse du président du Pérou';777;0
+e;15352887;'Le navire est baptisé du nom de son épouse.';1;0
+e;15394675;'Le navire tient son nom de celui de son épouse.';1;0
+e;2418190;'donner pour épouse';1;0
+e;10849681;'première épouse de Jean-Sébastien Bach';777;0
+e;12049599;'épouse légitime';1;0
+e;6448034;'violence envers l'épouse';1;0
+e;11394157;'épouse du président de la République fédérale d'Allemagne';777;0
+e;10773671;'Une épouse trop parafaite';777;0
+e;10790499;'épouse du prétendant légitimiste';777;0
+e;10790502;'épouse du prétendant bonapartiste';777;0
+e;10049676;'Mon épouse favorite';777;0
+e;13666557;'Anna Maria Walburga Pertl épouse Mozart';777;0
+e;13405940;'Virginie Boissière épouse Guyot';777;0
+e;11198894;'épouse ou la compagne du président de la République de Colombie';777;0
+e;11384364;'épouse du président de la République d'Égypte';777;0
+e;5992560;'Cynthia Carmen Burbridge épouse Bishop';777;0
+e;11972396;'Liliane Schorils épouse Funcken';777;0
+e;10176861;'J'épouse mon mari';777;0
+e;8694529;'cocufier son épouse';1;0
+e;8694533;'tromper son épouse';1;0
+e;9264408;'quitter son épouse';1;0
+e;9617477;'épouse du roi';1;0
+e;10998572;'Gunn-Rita Dahle épouse Flesjå';777;0
+e;15431772;'Acceptez-vous de prendre ? pour épouse ?';1;0
+e;15941463;'Anne-Catherine de Ligniville d'Autricourt épouse Helvétius';777;0
+e;587791;'épouse du président de la République française';777;0
+e;1240490;'épouse ou la compagne du président de la République française';777;0
+e;3736489;'épouse ou de compagne du président de la République française';777;0
+e;390034;'épouse délaissée';1;50
+e;391726;'épouse morganatique';777;18
+e;135070;'co-épouse';1;50
+e;248467;'nom d'épouse';1;12
+e;258645;'épouse cocue';1;50
+e;258649;'épouse volage';1;8
+e;258650;'épouse infidèle';1;54
+e;129366;'épouse de Jésus-Christ';1;50
+e;199627;'épouse du Christ';1;50
+e;206606;'qui épouse la veuve épouse les dettes';1;50
+r;347873742;140056;13684792;11;25
+r;361286089;140056;14231842;11;25
+r;369826538;140056;14549156;11;25
+r;374653939;140056;14735805;11;25
+r;373012927;140056;14670140;11;26
+r;392124022;140056;15014334;11;26
+r;423813594;140056;16166502;11;26
+r;104962737;140056;5046014;11;27
+r;122663777;140056;6433782;11;29
+r;264452067;140056;10595099;11;30
+r;419759713;140056;15378565;11;30
+r;222096342;140056;9985743;11;31
+r;419707848;140056;15229529;11;31
+r;419659016;140056;15378556;11;32
+r;276015968;140056;10956256;11;33
+r;313145282;140056;11995765;11;34
+r;247439171;140056;10252751;11;35
+r;281264358;140056;11089985;11;35
+r;312632089;140056;11995782;11;35
+r;419492815;140056;15352887;11;35
+r;419492825;140056;15394675;11;35
+r;54421007;140056;2418190;11;36
+r;271836618;140056;10849681;11;36
+r;313659825;140056;12049599;11;36
+r;121455742;140056;6448034;11;37
+r;292670961;140056;11394157;11;37
+r;269537156;140056;10773671;11;38
+r;269957571;140056;10790499;11;38
+r;269957544;140056;10790502;11;38
+r;227582360;140056;10049676;11;39
+r;347195070;140056;13666557;11;39
+r;340199136;140056;13405940;11;40
+r;287143773;140056;11198894;11;41
+r;292320933;140056;11384364;11;41
+r;117867656;140056;5992560;11;42
+r;309077285;140056;11972396;11;42
+r;238925550;140056;10176861;11;43
+r;165404746;140056;8694529;11;50
+r;165442196;140056;8694533;11;50
+r;212773081;140056;9264408;11;50
+r;216695767;140056;9617477;11;50
+r;278149271;140056;10998572;11;50
+r;395566973;140056;15431772;11;50
+r;414794254;140056;15941463;11;50
+r;18453336;140056;587791;11;52
+r;22579362;140056;1240490;11;55
+r;93227240;140056;3736489;11;56
+r;12541843;140056;390034;11;101
+r;13074931;140056;391726;11;103
+r;11858553;140056;135070;11;122
+r;8880959;140056;248467;11;151
+r;8724378;140056;258645;11;161
+r;8724380;140056;258649;11;161
+r;8724382;140056;258650;11;161
+r;8614714;140056;129366;11;163
+r;8666996;140056;199627;11;165
+r;8678732;140056;206606;11;300

@@ -1,0 +1,2035 @@
+
+e;36372;'point';1;790
+e;183759;'points de suspension';1;46
+e;15504773;'trajectoire d'un point';777;0
+e;6288447;'détermination du point limite';1;0
+e;6296417;'séquence de point de cassure chromosomique';1;0
+e;6307089;'titrage à point final par test cutané';1;0
+e;6321244;'titrage à point final cutané';1;0
+e;6352114;'incision snip du point lacrymal';1;0
+e;6362200;'point de contact focal';1;0
+e;6364135;'point de contrôle start du cycle cellulaire';1;0
+e;6368470;'point de localisation';1;0
+e;6411556;'mise au point de programmes';1;0
+e;12180222;'mesure de point de congélation';1;0
+e;12207339;'t(9;22)(q34.1;q11)(ABL1,BCR) transcrit de fusion point de rupture majeur';1;0
+e;12207294;'t(14;18)(q32;q21.3)(IGH,BCL2) transcrit de fusion point de rupture mineur';1;0
+e;12207293;'t(14;18)(q32;q21.3)(IGH,BCL2) transcrit de fusion point de rupture majeur';1;0
+e;12207340;'t(9;22)(q34.1;q11)(ABL1,BCR) transcrit de fusion point de rupture mineur';1;0
+e;6284812;'détermination de point de rupture de susceptibilité antibactérienne';1;0
+e;6329513;'cautérisation du point lacrymal pour éversion';1;0
+e;6353794;'irrigation du point lacrymal';1;0
+e;6367519;'détermination du point final';1;0
+e;6373980;'incision du point lacrymal';1;0
+e;6327011;'point de surveillance de la phase m';1;0
+e;6416876;'oblitération du point lacrymal';1;0
+e;13635645;'sans danger d'un point de vue sanitaire';1;0
+e;13641783;'point d'auto-inflammation du papier';1;0
+e;13684853;'point and click';777;0
+e;13738230;'point de ressuyage';777;0
+e;6365009;'gonflement au point de perfusion';1;0
+e;6315879;'abcès au point de ponction';1;0
+e;13985998;'par rapport à un point quelconque';1;0
+e;14070565;'point d'attente de circulation';1;0
+e;14093787;'abaisseur du point de congélation';777;0
+e;14139335;'mise au point de méthodes organisationnelles';1;0
+e;14434584;'a comme point d'intérêt';1;0
+e;14453008;'point de départ du délai de deux ans';1;0
+e;14454017;'mise au point du marché public abusive';1;0
+e;14484514;'son moment résultant est indépendant du point choisi pour le calculer';777;0
+e;14530994;'point de vue existentiel';777;0
+e;14558642;'Terminaux point de vente et bornes libre service';777;0
+e;14572111;'point méchante';1;0
+e;14585518;'continue au point a';777;0
+e;14599228;'Équivalence de la continuité en tout point et de la continuité globale';777;0
+e;14605438;'le point essentiel';1;0
+e;14611337;'point d'embarquement';777;0
+e;14628324;'peu au point';1;0
+e;14631163;'fort mal en point';1;0
+e;14630521;'un point';777;0
+e;14655246;'méthode du point médian';777;0
+e;14711056;'point à préciser';1;0
+e;14711055;'point à améliorer';1;0
+e;14776043;'point triangulaire';777;0
+e;15976283;'point d'offre';777;0
+e;6406229;'réaction au point d'entrée de la canule';1;0
+e;14896531;'physique du point';777;0
+e;15432598;'question de point de vue';1;0
+e;6302263;'déplacement acquis du point lacrymal';1;0
+e;6326640;'corps étranger dans le point lacrymal';1;0
+e;6348796;'agénésie du point lacrymal';1;0
+e;12775402;'point-clé';1;0
+e;16154292;'point chaud de La Réunion';777;0
+e;16158501;'point-fighting';777;0
+e;16194528;'le point de vue en première personne';777;0
+e;16307763;'point de Brianchon';777;0
+e;16307764;'point de Kiepert';777;0
+e;16307750;'second point de Vecten';777;0
+e;16307751;'point intérieur de Vecten';777;0
+e;16307748;'premier point de Vecten';777;0
+e;16307743;'premier point isogonique';777;0
+e;16307568;'une marche aléatoire isotrope sur la droite repasse presque surement au moins une fois à son point de départ';777;0
+e;16307749;'point extérieur de Vecten';777;0
+e;16310439;'point terrestre';777;0
+e;16326431;'point de rosée 1';777;0
+e;16385116;'mettre à point';1;0
+e;16389604;'point de vue psychologique';1;0
+e;6432334;'inflammation d'un point d'injection';1;0
+e;6382023;'point de contrôle de la formation du fuseau';1;0
+e;6401157;'voir le point 5 du tableau de la localisation des tumeurs';1;0
+e;6406410;'chaleur au point de perfusion';1;0
+e;6384338;'méthode en point final';1;0
+e;12980666;'point de Schelling';777;0
+e;12987777;'point d'accès réseau';777;0
+e;11412038;'two-point';1;0
+e;14505966;'faire la mise au point';1;0
+e;14584000;'être sur le point d'accoucher';1;0
+e;15018497;'Pour le premier point';777;0
+e;15034399;'au point des';1;0
+e;15770658;'mise au point d'un vaccin';1;0
+e;15835296;'point-to-point';777;0
+e;16087391;'tendre vers un même point';1;0
+e;16319146;'invariante point par point';777;0
+e;16320196;'point d'endurance';777;0
+e;5778234;'point d'accès au service';777;0
+e;5792973;'point de vue neutre';777;0
+e;6439121;'ecchymose au point d'injection';1;0
+e;6436122;'point de contrôle de l'assemblage du fuseau';1;0
+e;6433563;'irritation au point d'application';1;0
+e;6421969;'douleur au point de déclenchement';1;0
+e;10424128;'three-point';1;0
+e;6414999;'point de vaccination douloureux';1;0
+e;5725312;'opération point à point';777;0
+e;6440098;'réaction d'un point d'injection';1;0
+e;6439576;'dermatite au point d'injection';1;0
+e;6436871;'oedème au point d'injection';1;0
+e;6431869;'douleur articulaire au point d'injection';1;0
+e;10608589;'point de vue cognitif';777;0
+e;11756061;'tribunal du point d'honneur';777;0
+e;6443027;'dermatite d'un point d'injection';1;0
+e;6442466;'brûlure au point d'injection';1;0
+e;6441408;'réaction au point d'application';1;0
+e;6438387;'brûlure au point d'application';1;0
+e;6438180;'malabsorption d'un point d'injection';1;0
+e;6436743;'abcès d'un point d'injection';1;0
+e;6433317;'ecchymose d'un point d'injection';1;0
+e;6432646;'sensation de tension au point d'i';1;0
+e;12107052;'t(9;22)(q34.1;q11)(abl1,bcr) transcrit de fusion point de rupture mineur';1;0
+e;12107051;'t(9;22)(q34.1;q11)(abl1,bcr) transcrit de fusion point de rupture majeur';1;0
+e;12107005;'t(14;18)(q32;q21.3)(igh,bcl2) transcrit de fusion point de rupture mineur';1;0
+e;12107004;'t(14;18)(q32;q21.3)(igh,bcl2) transcrit de fusion point de rupture majeur';1;0
+e;16342811;'d'un point d'audience';777;0
+e;5716083;'liaison point à point';777;0
+e;5812883;'point de libration';777;0
+e;6441554;'éruption au point d'injection';1;0
+e;6441256;'fibrose au point d'injection';1;0
+e;6441115;'infection au point d'injection';1;0
+e;6440858;'chaleur articulaire au point d'injection';1;0
+e;6440431;'modification de la pigmentation au point d'injection';1;0
+e;6440167;'phlébite au point d'injection';1;0
+e;6439212;'douleur au point d'application';1;0
+e;6437796;'hémorragie d'un point d'injection';1;0
+e;6437634;'anesthésie d'un point d'injection';1;0
+e;6433395;'fibrose d'un point d'injection';1;0
+e;9976806;'point kilométrique';777;0
+e;10902593;'point de vue touristique';777;0
+e;10902592;'point de vue aménagé';777;0
+e;10902591;'point de vue panoramique';777;0
+e;11774341;'poisson-papillon à point caudal';1;0
+e;15277311;'cuisant à point';1;0
+e;15244214;'cuit à point';1;0
+e;15432540;'d'un point de vue professionnel';1;0
+e;15324196;'d'un point de vue rhétorique';1;0
+e;15285910;'de ce point de vue';1;0
+e;15432543;'de mon point de vue';1;0
+e;15285921;'de point de vue organisationnel';1;0
+e;15325330;'demi-angle au point extérieur de zone de contact unique';1;0
+e;15386399;'distance de mise au point';1;0
+e;15445271;'distribution de point';1;0
+e;15285908;'du point de vue de';1;0
+e;15285912;'du point de vue diagnostic';1;0
+e;15285917;'du point de vue financier';1;0
+e;15285923;'du point de vue géographique';1;0
+e;15285925;'du point de vue opérationnel';1;0
+e;15432550;'du point de vue technique';1;0
+e;15285919;'du point de vue éditorial';1;0
+e;15277835;'en point d'orgue de';1;0
+e;15485988;'en point de comparaison';1;0
+e;15441307;'en point de mire';1;0
+e;15574872;'en un point';1;0
+e;15339072;'en un point arbitraire';1;0
+e;2379293;'contre-point';1;0
+e;5809887;'cinématique du point';777;0
+e;5817334;'point de trouble';777;0
+e;5817326;'point d'écoulement';777;0
+e;6442880;'thrombose au point d'injection';1;0
+e;6442563;'anesthésie au point d'injection';1;0
+e;6439719;'atrophie au niveau du point d'injection';1;0
+e;6438847;'éruption au point d'application';1;0
+e;6438164;'atrophie au point d'application';1;0
+e;6437190;'irritation d'un point d'injection';1;0
+e;6435178;'prurit au point d'application';1;0
+e;6434701;'gonflement au point d'injection';1;0
+e;6425089;'point de contrôle de la phase m';1;0
+e;10597152;'point d'un programme informatique';1;0
+e;15979974;'duel du point d'honneur';777;0
+e;15770403;'coeur a ses raisons que la raison ne connaît point';1;0
+e;15441302;'constituer un point de départ';1;0
+e;2393205;'point-arrière';1;0
+e;2427728;'arrière-point';1;0
+e;2458254;'point-voyelle';1;0
+e;2487490;'serre-point';1;0
+e;5580611;'Cette section ne respecte pas la neutralité de point de vue';777;0
+e;5619332;'point stratotypique mondial';777;0
+e;5829341;'point de fumée';777;0
+e;5909162;'Noctuelle à point blanc';777;0
+e;6446435;'réaction au point d'injection';1;0
+e;6445886;'brûlure d'un point d'injection';1;0
+e;6441615;'kyste au point d'injection';1;0
+e;6441110;'point d'injection de l'anesthésie';1;0
+e;6439148;'granulome au point d'injection';1;0
+e;6435805;'extravasation d'un point d'injection';1;0
+e;6434416;'oedème au point d'application';1;0
+e;6432695;'tuméfaction d'un point d'injection';1;0
+e;6432512;'oedème d'un point d'injection';1;0
+e;11049898;'liste des pays et territoires à statut spécial par point culminant';777;0
+e;15482089;'au point de + V';1;0
+e;15634509;'au point de départ';1;0
+e;15430150;'au point de faire [qch]';1;0
+e;15482095;'au point de faire qch';1;0
+e;15713162;'au point de faire quelque chose';1;0
+e;15486848;'au point du jour';1;0
+e;16040358;'au point où choses sont';1;0
+e;15395518;'au point où en sont les choses';1;0
+e;16040359;'au point où on en est';1;0
+e;15441300;'avoir un point de côté';1;0
+e;15485987;'bien mal en point';1;0
+e;15485289;'c'est le point clé';1;0
+e;5808780;'point dynamique';1;0
+e;6434870;'abcès au point d'injection';1;0
+e;10959128;'point zéro des routes de France';777;0
+e;11070966;'0 point';777;0
+e;11071399;'point chaud d'Islande';777;0
+e;15277315;'arrivant à point nommé';1;0
+e;15277313;'arrivé à point nommé';1;0
+e;15495590;'article de point de stock';1;0
+e;15493415;'atteindre le point de non-retour';1;0
+e;15423107;'atteindre un point critique';1;0
+e;16090133;'Three-point';1;0
+e;16365291;'aller d'un point à l'autre';1;0
+e;16492342;'angle d'incidence apparent en un point';1;0
+e;16492344;'angle d'incidence du pignon en un point quelconque';1;0
+e;16492340;'angle d'incidence normal en un point';1;0
+e;1831439;'date de point';1;0
+e;1832668;'point de vue économique';1;0
+e;2373213;'couche-point';1;0
+e;5808740;'point d'application de la résultante des forces';1;0
+e;5921828;'point de Bayeux';777;0
+e;5919393;'point de ramollissement';777;0
+e;5918858;'point de ramollissement Vicat';777;0
+e;6446940;'kyste d'un point d'injection';1;0
+e;6445861;'point saignant au site d'injection';1;0
+e;6437155;'sécheresse au point d'application';1;0
+e;6434611;'point d'administration de l'anesthésie';1;0
+e;6434008;'reaction au point d'injection';1;0
+e;6432602;'correction de l'éversion du point lacrymal';1;0
+e;6432506;'modification de la pigmentation au point d'application';1;0
+e;6431592;'tuméfaction au point d'injection';1;0
+e;6422222;'détermination de point de rupture de susceptibilité antimicrobienne';1;0
+e;10936342;'faire un point rapide';1;0
+e;11411991;'extra point';777;0
+e;13101532;'point barbares';777;0
+e;13516733;'point chaud des Galápagos';777;0
+e;15395520;'Permettez-moi de mettre les choses au point.';1;0
+e;15323841;'Son point de vue est différent du mien.';1;0
+e;15438734;'Tout vient à point à qui sait attendre';1;0
+e;15530100;'Vous avez raison sur ce point.';1;0
+e;15306110;'abaissement du point de congélation';1;0
+e;15478346;'abondance de biens ne nuit point';1;0
+e;15574876;'angle d'incidence en un point';1;0
+e;15349611;'angles d'incidence apparents en un point';1;0
+e;16154298;'S point souscrit';777;0
+e;5562438;'cellule détectrice du point de rosée';777;0
+e;5562437;'cellule à point de rosée';777;0
+e;6451358;'affection d'un point d'injection ou d'une zone d'application';1;0
+e;6451253;'modification de la pigmentation d'un point d'injection';1;0
+e;6447137;'abcès stérile au point d'injection';1;0
+e;6446243;'vésicules au point d'injection';1;0
+e;6442854;'sclérose au point d'injection';1;0
+e;6441106;'anesthésie au point d'application';1;0
+e;6440769;'saignement au point d'application';1;0
+e;6440424;'urticaire au point d'injection';1;0
+e;6440062;'affection d'un point d'injection';1;0
+e;11410138;'extraction au point trouble';777;0
+e;11410139;'cloud point extraction';777;0
+e;11830975;'inhibiteur de point de contrôle';777;0
+e;12033671;'distance d'un point à un plan';777;0
+e;12080807;'point pica';1;4
+e;12080806;'point Nemo';1;0
+e;12080805;'point isosbestique';1;0
+e;12080803;'point d'équilibre';1;0
+e;12080799;'point de trame';1;0
+e;12080798;'point de sortie';1;0
+e;12080789;'point de corde';1;0
+e;12080788;'point de clivage';1;0
+e;12080784;'point coté';1;0
+e;12301115;'point de fusion congruent';777;0
+e;6333572;'abcès post-opératoire d'un point de suture';1;0
+e;15316672;'Le projet est tout à fait sensé d'un point de vue économique.';1;0
+e;15525279;'Le sport me passionne au plus haut point.';1;0
+e;16073561;'Mise au point';1;0
+e;16073562;'Mise au point du marché public abusive';1;0
+e;16289431;'Féminisme du point de vue';777;0
+e;1838506;'point de McBurney';1;0
+e;5725725;'point d'accès sans fil';777;0
+e;5724623;'notation décimale à point';777;0
+e;6008301;'point froid';777;0
+e;6447317;'point d'injection';1;0
+e;6446314;'atrophie d'un point d'injection';1;0
+e;6445033;'inflammation au point d'application';1;0
+e;6444539;'dermite d'un point d'injection';1;0
+e;6444019;'nécrose d'un point d'injection';1;0
+e;6443634;'nécrose au point d'application';1;0
+e;6440830;'cheveux en point d'exclamation';1;0
+e;6439821;'ulcère d'un point d'injection';1;0
+e;6437523;'affaiblissement du mouvement au point d'injection';1;0
+e;6437458;'lésion nerveuse au point d'injection';1;0
+e;6434424;'douleur d'un point d'injection';1;0
+e;11026920;'point adhérent';777;0
+e;12058538;'viseur point rouge';777;0
+e;12077009;'allumage par point chaud';1;0
+e;12080810;'point topographique';1;0
+e;12080809;'point sous satellite';1;0
+e;12080808;'point récurrent';1;0
+e;12080804;'point du mari';1;0
+e;12080802;'point d'enregistrement';1;0
+e;12080801;'point de trilatération';1;0
+e;12080800;'point de triangulation';1;0
+e;12080797;'point de sonde';1;0
+e;12080796;'point de retrait express';1;0
+e;12080795;'point de retrait automobile';1;0
+e;12080794;'point de retrait auto';1;0
+e;12080793;'point de raccordement mutualisé';1;0
+e;12080792;'point de polygonation';1;0
+e;12080791;'point de nivellement';1;0
+e;12080790;'point de Laplace';1;0
+e;12080787;'point de chainette';1;0
+e;12080786;'point de braquage';1;0
+e;12080785;'point d'Argentan';1;0
+e;12080783;'point chaud de recombinaison';1;0
+e;12080782;'point chaud de mutation';1;0
+e;12080781;'point chaud de gaine';1;0
+e;15325790;'Le caméraman a réglé la mise au point sur l'oiseau.';1;0
+e;16133477;'Du point de vue physico-chimique';777;0
+e;1833443;'éversion du point lacrymal';1;0
+e;2374790;'point suscrit';777;0
+e;5711150;'point disjonctif';777;0
+e;6451641;'douleur au point d'injection';1;0
+e;6450212;'tuméfaction articulaire au point d'injection';1;0
+e;6450073;'douleur au point d'instillation';1;0
+e;6447583;'hydrarthrose au point d'injection';1;0
+e;6443673;'atrophie au point d'injection';1;0
+e;6442015;'ulcère au point d'application';1;0
+e;6436303;'rougeur articulaire au point d'injection';1;0
+e;6432013;'prurit au point d'injection';1;0
+e;11147965;'point col';777;0
+e;11363279;'point d'annulation';777;0
+e;11363247;'point de ramollissement Kraemer-Sarnow';777;0
+e;11840377;'fonction point d'interrogation';777;0
+e;12051205;'mettre au point des tactiques militaires';1;0
+e;12058515;'zeta point suscrit';777;0
+e;12058519;'pi point suscrit';777;0
+e;12058523;'chi point suscrit';777;0
+e;12058517;'lambda point suscrit';777;0
+e;12058520;'rho point suscrit';777;0
+e;12058516;'kappa point suscrit';777;0
+e;12058513;'delta point suscrit';777;0
+e;12058512;'gamma point suscrit';777;0
+e;12058521;'sigma point suscrit';777;0
+e;12058518;'nu point suscrit';777;0
+e;5886309;'point de restriction';1;0
+e;5809894;'cinétique du point matériel ou sans masse';777;0
+e;5807985;'point quantique';777;0
+e;10055421;'21 point';777;0
+e;11152072;'point chaud de biodiversité';777;0
+e;11393398;'fonction d'étalement du point';777;0
+e;11394316;'percentage in point';777;0
+e;15216856;'connexion point à point';1;0
+e;5537503;'zero-tilting moment point';777;0
+e;5537441;'moment d'une force par rapport à un point';777;0
+e;5554202;'point de Steiner';777;0
+e;5898926;'point d'angle postéro-interne';777;0
+e;6010882;'premier point de Brocard';777;0
+e;6000137;'point de l'orbite d'un objet céleste';1;0
+e;6448690;'nécrose au point d'injection';1;0
+e;6527991;'L'élargissement du point de trame';777;0
+e;6446910;'extravasation au point d'injection';1;0
+e;6446426;'inflammation au point d'injection';1;0
+e;6446087;'hémorragie au point d'injection';1;0
+e;6437034;'pustules au point d'application';1;0
+e;10347968;'franchir le point de non-retour';1;0
+e;11335431;'3 point';777;0
+e;2374789;'point en chef';1;0
+e;2411885;'peu ou point';1;0
+e;2419486;'point de concentration';1;0
+e;2453987;'point exclarrogatif';1;0
+e;5554390;'théorèmes du point fixe de Kleene';777;0
+e;5725551;'recovery point objective';777;0
+e;6528029;'point Didot';777;0
+e;6447355;'oedème au point d'introduction du cathéter';1;0
+e;6446244;'induration d'un point d'injection';1;0
+e;6445507;'ecchymose au niveau du point d'injection';1;0
+e;6444359;'desquamation au point d'application';1;0
+e;6443927;'réaction au point d'introduction du cathéter';1;0
+e;6437387;'infection d'un point d'injection';1;0
+e;11001151;'point de prolongation';777;0
+e;11574757;'faire changer de point de vue';1;0
+e;12053132;'avoir comme point d'intérêt';1;0
+e;12277842;'terminal de point de vente';777;0
+e;15216847;'balayage point par point';1;0
+e;2395702;'point par pouce';1;0
+e;5554483;'théorème du point fixe de Ryll-Nardzewski';777;0
+e;5554480;'théorème du point fixe de Kakutani';777;0
+e;5855668;'un point bleu pâle';777;0
+e;6446197;'abcès stérile d'un point d'injection';1;0
+e;6444456;'induration au point d'injection';1;0
+e;6441804;'point d'égale pression';1;0
+e;6435616;'réaction au point d'implantation';1;0
+e;11003141;'point singulier d'une courbe';777;0
+e;11003463;'point de flétrissement permanent';777;0
+e;11182191;'point de gelée';777;0
+e;11182189;'point de givrage';777;0
+e;11217471;'point d'équivalence';777;0
+e;12788796;'point d'aniline';777;0
+e;2371386;'point presse';1;0
+e;2416625;'de tout point';1;0
+e;6003658;'point d'intérêt';777;0
+e;6448201;'ischémie au point d'injection';1;0
+e;6447575;'rash au point d'injection';1;0
+e;6444240;'urticaire d'un point d'injection';1;0
+e;6594525;'À la rencontre de divers aspects du monde contemporain ayant pour point commun leur illustration sur support audiovisuel';777;0
+e;10097056;'Tu n'aimeras point';777;0
+e;11010141;'point d'interrogation culbuté';777;0
+e;11161223;'deux droites distinctes se coupent en un point et un seul';777;0
+e;11182190;'température du point givrage';777;0
+e;12274424;'point de vue littéraire';777;0
+e;2376145;'point typographique';1;0
+e;5554484;'théorème du point fixe de Schauder';777;0
+e;5554169;'point de Radon';777;0
+e;5554073;'théorème du point fixe de Markov-Kakutani';777;0
+e;5894196;'point de passage de Kissoufim';777;0
+e;6450423;'atrophie au niveau du point d'application';1;0
+e;6446147;'papules au point d'application';1;0
+e;6444121;'ecchymose au point d'application';1;0
+e;11010142;'point d'exclamation culbuté';777;0
+e;11010304;'I sans point';777;0
+e;11011105;'point d'emport';777;0
+e;12274254;'la neutralité de point de vue';777;0
+e;2471296;'point zigzag';1;0
+e;5554479;'théorème du point fixe de Browder';777;0
+e;5554478;'théorème du point fixe de Brouwer';777;0
+e;5554050;'théorème du point fixe de Lefschetz';777;0
+e;5984114;'expérience de contournement du point critique';777;0
+e;6451164;'hypersensibilité d'un point d'injection';1;0
+e;6436731;'saignement au point d'injection';1;0
+e;10160001;'La Barricade du point du jour';777;0
+e;10503240;'point fixe de f';777;0
+e;2412501;'point de pourcentage';1;0
+e;5554477;'théorème de point fixe';777;0
+e;5981479;'Un point de l'abaque représente une impédance';777;0
+e;6447601;'paresthésie d'un point d'injection';1;0
+e;10430378;'point produit';777;0
+e;10430336;'point mérité';777;0
+e;11010535;'point de corner';1;0
+e;5554203;'point de Torricelli';777;0
+e;6450873;'ulcère au point d'injection';1;0
+e;6449845;'réparation du point lacrymal pour correction d'éversion';1;0
+e;6449052;'dermatite au point d'application';1;0
+e;6448796;'paresthésie au point d'application';1;0
+e;6445362;'lésion nerveuse d'un point d'injection';1;0
+e;6444393;'thrombose d'un point d'injection';1;0
+e;5554101;'point de Miquel';777;0
+e;5991795;'tapis point de Sedan';777;0
+e;6010884;'second point de Brocard';777;0
+e;6451682;'chaleur au point d'application';1;0
+e;6447181;'réaction d'un point d'implantation';1;0
+e;6444460;'paresthésie au point d'injection';1;0
+e;5554481;'théorème du point fixe de Kleene';777;0
+e;5553922;'point de Frégier';777;0
+e;5553887;'point de Fermat';777;0
+e;6451964;'trouble de la résorption à partir du point d'injection';1;0
+e;2363973;'point d'éclair';1;0
+e;6445744;'vésicules au point d'application';1;0
+e;2479193;'point to point steeplechase';1;0
+e;5517098;'point errant unique';1;0
+e;5902707;'Poisson-papillon à point caudal';777;0
+e;6003240;'Notez que celle-ci exige que le séparateur décimal soit un point au lieu de la virgule habituelle';777;0
+e;9825626;'algorithme du point proximal';777;0
+e;9634964;'power point';1;0
+e;9726647;'oreille en forme de point d'interrogation';1;0
+e;9958416;'Check-point';777;0
+e;11129844;'point à l'infini';777;0
+e;12247877;'mesure de t(9;22)(q34.1;q11)(abl1,bcr) transcrit de fusion point de rupture mineur';1;0
+e;12247964;'mesure de t(14;18)(q32;q21.3)(igh,bcl2) transcrit de fusion point de rupture mineur | biologie moléculaire | sang/tissu | ponctuel | résultat qualitatif | arbitraire';1;0
+e;12247963;'mesure de t(14;18)(q32;q21.3)(igh,bcl2) transcrit de fusion point de rupture mineur | biologie moléculaire | moelle osseuse | ponctuel | résultat qualitatif | arbitraire';1;0
+e;12247962;'mesure de t(14;18)(q32;q21.3)(igh,bcl2) transcrit de fusion point de rupture mineur | biologie moléculaire | liquide céphalorachidien | ponctuel | résultat qualitatif | arbitraire';1;0
+e;12247961;'mesure de t(14;18)(q32;q21.3)(igh,bcl2) transcrit de fusion point de rupture majeur | biologie moléculaire | sang/tissu | ponctuel | résultat qualitatif | arbitraire';1;0
+e;12247960;'mesure de t(14;18)(q32;q21.3)(igh,bcl2) transcrit de fusion point de rupture majeur | biologie moléculaire | moelle osseuse | ponctuel | résultat qualitatif | arbitraire';1;0
+e;12247959;'mesure de t(14;18)(q32;q21.3)(igh,bcl2) transcrit de fusion point de rupture majeur | biologie moléculaire | liquide céphalorachidien | ponctuel | résultat qualitatif | arbitraire';1;0
+e;12247876;'mesure de t(9;22)(q34.1;q11)(abl1,bcr) transcrit de fusion point de rupture majeur';1;0
+e;12247852;'mesure de t(14;18)(q32;q21.3)(igh,bcl2) transcrit de fusion point de rupture mineur';1;0
+e;12247851;'mesure de t(14;18)(q32;q21.3)(igh,bcl2) transcrit de fusion point de rupture majeur';1;0
+e;12618036;'Cet article adopte un point de vue régional ou culturel particulier';777;0
+e;12681211;'point d'annulation d'une fonction';1;0
+e;12635068;'difficulté de mise au point';1;0
+e;12617530;'sur le point';1;0
+e;12701193;'point de vue statistique';1;0
+e;12715173;'les autorités taïwanaises ont tenté de mettre au point une bombe atomique';777;0
+e;12981144;'1 point';777;0
+e;13641443;'15 point';777;0
+e;13641446;'9 point';777;0
+e;14242083;'Cet article ne respecte pas la neutralité de point de vue';777;0
+e;14537441;'Du point de vue gustatif';777;0
+e;14537440;'Du point de vue médical';777;0
+e;15574550;'A tel point que';1;0
+e;15230917;'Essaye de mettre les jumelles au point.';1;0
+e;14884848;'D'un point de vue pratique';777;0
+e;15408691;'J'étais sur le point de sortir.';1;0
+e;15408681;'J'étais sur le point de te téléphoner.';1;0
+e;15016796;'Abaisseur du point d'écoulement';777;0
+e;15198245;'C'est comme un volcan sur le point d'entrer en éruption.';1;0
+e;15408156;'1988, point culminant du boum des années 80';1;0
+e;15514756;'Dernier point et non des moindres';1;0
+e;15342280;'Jusqu'à quel point peut-on lui faire confiance?';1;0
+e;16322378;'C'est-à-dire que le ROS n'est fonction que de ce qui se passe en amont du point de mesure et pas de l'impédance Zs de l'émetteur';777;0
+e;2360314;'point de montage';1;0
+e;2362127;'point d'inflammabilité';1;0
+e;2493029;'point solsticial';1;0
+e;2606130;'point d'auto-ignition';1;0
+e;3179793;'point de vue des sept meuses';777;0
+e;4034797;'point à point';1;0
+e;567302;'point de vue narratif';777;50
+e;1288529;'point d'auto-inflammation';777;0
+e;2247783;'point pour point';1;0
+e;2129204;'au point d'';2;0
+e;2362442;'à méchant ouvrier, point de bon outil';1;0
+e;2562502;'point de sublimation';1;0
+e;2599936;'faute d'un point, Martin perdit son âne';1;0
+e;2605224;'l'argent n'a point de maître';1;0
+e;1739663;'point d'arrêt';1;0
+e;1841811;'point moyen d'égalisation';1;0
+e;2314947;'point de contrôle';777;0
+e;2129207;'au point qu'';2;0
+e;2535511;'point de rancune';1;0
+e;2483031;'point compté';1;0
+e;2600780;'point d'accumulation';1;0
+e;3320736;'zone perturbée du point de vue écologique';1;0
+e;5067437;'point de vue politique';1;0
+e;6451341;'irritation au point d'injection';1;0
+e;567597;'point mort bas';777;50
+e;1813604;'énergie du point zéro';1;0
+e;1821144;'point d'ossification de Tapon';1;0
+e;1849094;'atrésie du point lacrymal';1;0
+e;3182776;'point de Mac Burney';1;0
+e;3320794;'point de contact pour le Codex';1;0
+e;5145900;'ne faire point de mal';1;0
+e;465419;'point constricteur';777;50
+e;1288530;'point d'allumage spontané';777;0
+e;1657579;'mécanique du point';1;0
+e;1851785;'point graisseux';1;0
+e;1847040;'point de Twining';1;0
+e;1841804;'point d'ossification huméral supérieur';1;0
+e;1841799;'point d'ossification';1;0
+e;2129208;'au point que';1;0
+e;2143803;'check-point';1;0
+e;4236675;'point de tangence';1;0
+e;3894192;'point de sellier';1;0
+e;667093;'La perspective ne dépend que du point de vue';777;0
+e;1473429;'point d'indice';1;14
+e;1821151;'point rubis';1;0
+e;1899668;'point de construction';777;0
+e;1966217;'se séparer sur un point de quelqu'un';1;0
+e;2143799;'check point';1;0
+e;2305750;'à ce point qu'';2;0
+e;2315585;'point de contrôle d'application';777;0
+e;2339749;'non point que';1;0
+e;2540199;'mettre un point final';1;0
+e;2519032;'point de conduite';1;0
+e;2516151;'point blanc';1;0
+e;2507294;'point to point';1;0
+e;2482694;'point souscrit';1;0
+e;4328210;'point vital';777;0
+e;586635;'point fixe de';777;0
+e;1758470;'point de fragilité';1;0
+e;1821145;'point d'ossification tibial supérieur';1;0
+e;1843945;'rond-point bullaire';1;0
+e;1899667;'point K';1;0
+e;2581219;'point d'inflammation';1;0
+e;2605195;'point d'expérience';1;0
+e;5067439;'point de vue intellectuel';1;0
+e;5165180;'mettre un point d'honneur';1;0
+e;608946;'volcan de point chaud';1;50
+e;2305749;'à ce point';1;0
+e;2506743;'point de goutte';1;0
+e;3320716;'point de contrôle critique';1;0
+e;2305751;'à ce point que';1;0
+e;2516701;'à ne point mentir';1;0
+e;2604739;'à chemin battu il ne croît point d'herbe';1;0
+e;2606442;'point-retrait';777;0
+e;3323328;'point bourdon';1;0
+e;3734748;'marquer un point de rupture';1;0
+e;3752872;'gros avocat mûr à point';1;0
+e;6451879;'hypertrophie au point d'injection';1;0
+e;186506;'mettre les points sur les i';1;18
+e;655924;'mise au point automatique';777;0
+e;981870;'terminal au point de vente';777;0
+e;1665153;'point de code';1;0
+e;1665154;'point d'entrée';1;0
+e;2923778;'énergie du point zéro du vide quantique';777;0
+e;1821146;'point de Lanz';1;0
+e;1852360;'point de Tapon';1;0
+e;2305831;'à tel point qu'';2;0
+e;2345257;'cuisson à point';777;0
+e;2563540;'avoir le point';1;0
+e;2589156;'point unique de défaillance';777;0
+e;4934776;'point haut';1;0
+e;5985600;'point vert';777;0
+e;1821143;'point acromial';1;0
+e;1851783;'point alvéolaire supérieur';1;0
+e;1841816;'point tangentiel';1;0
+e;1841813;'point rétinien non correspondant';1;0
+e;1841812;'point rétinien disparate';1;0
+e;1841803;'point d'ossification de Béclard';1;0
+e;1841802;'point d'ossification coracoïdien';1;0
+e;1841801;'point d'ossification calcanéen';1;0
+e;1841798;'point de rosée';1;0
+e;1900228;'point crânial';1;0
+e;3172383;'point de vue bien-pensant';1;0
+e;1849702;'point de Crouzat';1;0
+e;1821150;'point proximal de convergence';1;0
+e;1846263;'point d'ossification de Todd';1;0
+e;1851786;'point lacrymal surnuméraire';1;0
+e;1794391;'mis au point';1;0
+e;1821147;'point lipidique';1;0
+e;1821149;'point oculomoteur zéro';1;0
+e;1821148;'point nasal';1;0
+e;1841800;'point d'ossification astragalien';1;0
+e;371478;'point fantaisie';1;50
+e;371468;'point d'ironie';1;50
+e;371436;'point vélique';1;50
+e;371424;'point lancé';1;50
+e;371413;'point délicat';1;50
+e;371409;'point des taux de base bancaires';1;50
+e;371399;'point de rayonnement';1;50
+e;371395;'point de passage obligé';1;50
+e;371393;'point de froid';1;50
+e;371390;'point de désaccord';1;50
+e;371383;'point d'éclatement';1;50
+e;371373;'point capital';1;50
+e;371369;'point accidentel';1;50
+e;365752;'mécanique du point matériel';1;50
+e;389006;'à un point critique de';1;50
+e;371477;'point douloureux';1;50
+e;371463;'point conjugué';1;50
+e;371421;'point indifférent';1;50
+e;371416;'point fort';1;50
+e;371394;'point de partage';1;50
+e;371388;'point de discorde';1;50
+e;367901;'outil de mise au point';1;50
+e;388909;'à tel point';1;50
+e;385643;'un point de départ pour';1;50
+e;384797;'travail de mise au point';1;50
+e;371480;'point hyperbolique';1;50
+e;371472;'point de ravitaillement';1;50
+e;371469;'point d'ébullition normal de l'eau';1;50
+e;371425;'point limite';1;50
+e;371419;'point identifié';1;50
+e;371415;'point focal';1;54
+e;371385;'point de base';1;50
+e;371376;'point courant';1;50
+e;371370;'point alvéolaire';1;50
+e;358189;'hygromètre à point de rosée';1;50
+e;343915;'chute au point';1;50
+e;337453;'au point que en être les choses';1;50
+e;389007;'à un point exagéré';1;50
+e;371471;'point de liquéfaction';1;50
+e;371467;'point d'interjection';1;50
+e;371437;'point équinoxial';1;50
+e;371431;'point radiant';1;50
+e;371428;'point nodal';1;50
+e;371423;'point jugulaire';1;50
+e;371418;'point géodésique';1;50
+e;371408;'point de visée';1;50
+e;371405;'point de référence';1;50
+e;371403;'point de réflexion';1;50
+e;371397;'point de rabattement';1;50
+e;371387;'point de croissance';1;50
+e;371379;'point d'amure';1;52
+e;371377;'point d'accord';1;50
+e;365148;'moteur de mise au point';1;50
+e;363694;'matériel de mise au point';1;50
+e;381916;'sur le point de faire une bêtise';1;50
+e;371484;'point multiple';1;50
+e;371483;'point moteur';1;50
+e;371434;'point triple';1;50
+e;371411;'point double de la strophoïde droite';1;50
+e;371406;'point de réparation';1;50
+e;371391;'point de détail';1;50
+e;371384;'point de baisse';1;50
+e;371380;'point d'augmentation';1;50
+e;371371;'point anguleux';1;50
+e;340063;'bouton de mise au point';1;54
+e;390919;'point de Mc Burney';1;50
+e;371487;'point suspensif';1;50
+e;371466;'point d'aspect';1;50
+e;371464;'point cyclique';1;50
+e;371461;'point chaud du globe';1;52
+e;371435;'point vertical';1;50
+e;371433;'point trichrome';1;50
+e;371420;'point imaginaire';1;50
+e;371414;'point elliptique';1;50
+e;371392;'point de friction';1;50
+e;371386;'point de capture';1;50
+e;364100;'metteur au point';1;50
+e;348945;'défaut de mise au point';1;50
+e;371482;'point mort haut';1;50
+e;371476;'point des taux de base bancaire';1;50
+e;371474;'point de réunion';1;50
+e;371473;'point de recoupement';1;50
+e;371432;'point régulier';1;50
+e;371427;'point mobile';1;50
+e;371422;'point invariant';1;50
+e;371412;'point du taux interbancaire';1;50
+e;371372;'point astronomique';1;50
+e;381797;'sur ce point';1;50
+e;371485;'point objectif';1;50
+e;371481;'point lacrymal';1;50
+e;371479;'point géométrique';1;50
+e;371470;'point de couture';1;50
+e;371465;'point d'accumulation d'une suite';1;50
+e;371382;'point d'ordre';1;50
+e;371375;'point costal';1;50
+e;371374;'point conducteur';1;50
+e;364749;'moment d'inertie par rapport à un point';1;50
+e;363711;'mauvais point';1;52
+e;371488;'point à l'aiguille';1;50
+e;371460;'point anglais';1;50
+e;371430;'point océanique';1;50
+e;371426;'point mathématique';1;50
+e;371417;'point gamma';1;50
+e;371389;'point de droit';1;50
+e;371381;'point d'horizon';1;50
+e;371378;'point d'affleurement';1;50
+e;351158;'en point d'orgue';1;50
+e;371429;'point névralgique';1;50
+e;371410;'point double';1;50
+e;371407;'point de taux d'escompte';1;50
+e;371404;'point de réfraction';1;50
+e;371402;'point de rupture de charge';1;50
+e;371401;'point de remplissage';1;50
+e;371400;'point de refus';1;50
+e;371398;'point de ralliement';1;50
+e;371396;'point de pénalité';1;50
+e;365789;'mécanisme de mise au point';1;50
+e;347851;'distance la plus courte d'un point à un autre';1;50
+e;340382;'broderie au petit point';1;50
+e;83224;'mal-en-point';1;50
+e;63753;'tiers-point';1;50
+e;35961;'demi-point';1;50
+e;35142;'tire-point';1;50
+e;314338;'point-selle';1;50
+e;314337;'point-col';1;50
+e;102225;'point-virgule';1;62
+e;49219;'rond-point';1;82
+e;319964;'mettre les choses au point';1;54
+e;320232;'point jury';1;50
+e;323318;'à quel point';1;50
+e;326031;'gradine à point d'orge';1;50
+e;329731;'point d'indice des fonctionnaires';1;50
+e;329730;'point d'indice salarial';1;50
+e;317410;'Va, je ne te hais point';1;52
+e;316666;'point d'articulation';1;50
+e;231925;'point d'ancrage';1;50
+e;241787;'être au point mort';1;50
+e;242924;'au point mort';1;50
+e;251354;'se coucher à point d'heure';1;50
+e;251579;'à tel point que';1;50
+e;113839;'à point nommé';1;70
+e;165805;'tu ne tueras point';1;50
+e;171211;'à point d'heure';1;50
+e;171271;'au dernier point';1;50
+e;207961;'se séparer sur un point de qqn';1;50
+e;210114;'à bon vin point d'enseigne';1;50
+e;210694;'d'un certain point de vue';1;50
+e;210977;'il n'est point de sot métier';1;50
+e;211655;'qui n'a point d'argent en bourse, ait miel en bouche';1;50
+e;211838;'se faire un point d'honneur de';1;50
+e;217275;'point visé';1;50
+e;221956;'point de rebroussement';1;50
+e;222042;'point de pénalty';1;50
+e;223023;'point de collecte';1;50
+e;224221;'point de doctrine';1;50
+e;228103;'point relais';1;50
+e;230602;'point le plus haut';1;54
+e;231790;'point d'action';1;50
+e;233623;'point d'attache';1;50
+e;233815;'point précis';1;50
+e;233948;'point de penalty';1;50
+e;237457;'point Poste';1;50
+e;241881;'point inexploré';1;50
+e;244400;'point d'insertion';1;50
+e;252880;'point commun';1;10
+e;252978;'point rencontre';1;50
+e;253294;'point d'immersion';1;50
+e;254786;'faire un point téléphonique';1;50
+e;254787;'point téléphonique';1;50
+e;255925;'avoir pour point commun';1;50
+e;255939;'tomber à point nommé';1;68
+e;256182;'point d'Alençon';1;50
+e;257842;'point de compression';1;18
+e;261059;'broderie au point de croix';1;50
+e;261062;'point de tige';1;50
+e;261576;'point stratégique';1;52
+e;217402;'point de Gräfenberg';1;10
+e;24805;'au point de';1;50
+e;35936;'sur le point de';1;52
+e;61291;'gold point';1;50
+e;129282;'au point';1;50
+e;171536;'en tout point';1;50
+e;171540;'en un point donné';1;50
+e;212126;'un point c'est tout';1;64
+e;203822;'mettre un point final à';1;50
+e;204305;'ne point';1;50
+e;209250;'tout vient à point à qui sait attendre';1;50
+e;209434;'trouver un point de chute';1;50
+e;211246;'mettre son point d'honneur à';1;50
+e;211599;'prendre tout au point d'honneur';1;50
+e;212140;'ventre affamé n'a point d'oreilles';1;50
+e;220182;'point faible';1;62
+e;221012;'rond point';1;50
+e;231109;'point de suture';1;64
+e;232983;'point barre';1;12
+e;245905;'point de contact';1;6
+e;250276;'point à la ligne';1;8
+e;254722;'point d'acupuncture';1;4
+e;258088;'marquer un point';1;50
+e;260923;'point chaud';1;54
+e;263851;'point de fuite';1;50
+e;263933;'point d'honneur';1;52
+e;273815;'Au point';777;50
+e;307599;'point d'ébullition standard';777;50
+e;59024;'point aveugle';1;52
+e;105681;'point cardinal';1;258
+e;114651;'point culminant';1;86
+e;211550;'point d'Angleterre';1;50
+e;211556;'point d'Espagne';1;50
+e;211551;'point d'application';1;50
+e;211553;'point d'arrivée';1;50
+e;211552;'point d'arête';1;50
+e;211557;'point d'esprit';1;50
+e;211558;'point d'impact';1;52
+e;211559;'point d'intersection';1;50
+e;211560;'point d'origine';1;50
+e;211561;'point d'ourlet';1;50
+e;211554;'point d'ébullition';1;62
+e;211555;'point d'épine';1;50
+e;61104;'point de Curie';1;50
+e;104841;'point de Paris';1;50
+e;108639;'point de fougère';1;50
+e;213882;'point de vente';1;4
+e;106914;'point initial';1;50
+e;12069;'être mis au point';1;50
+e;18363;'Tu ne tueras point';1;50
+e;19891;'être sur le point';1;50
+e;51954;'point lumineux';1;50
+e;121589;'mettre au point';1;64
+e;144156;'Idée d'une histoire universelle d'un point de vue cosmopolitique';1;50
+e;155540;'point réel';1;50
+e;161288;'bon point';1;86
+e;172531;'point stationnaire';1;50
+e;183755;'point médian';1;50
+e;183756;'point zéro';1;50
+e;195361;'à cheval donné, il ne faut point regarder la bouche';1;50
+e;195617;'à un point de non-retour';1;50
+e;195618;'à un point inimaginable';1;50
+e;196275;'au gros point';1;50
+e;196308;'au petit point';1;50
+e;204306;'ne... point';1;50
+e;205458;'petit point';1;50
+e;205751;'point à temps';1;50
+e;205799;'point mariage';1;50
+e;205801;'point noué';1;50
+e;205803;'point rentré';1;50
+e;205804;'point réseau';1;50
+e;205805;'point turc';1;50
+e;205806;'point vernal';1;52
+e;265928;'cuite à point';1;8
+e;266012;'aller d'un point à un autre';1;4
+e;267057;'point de passage';1;50
+e;274818;'point de vie';777;50
+e;277655;'point de Lagrange';1;56
+e;277656;'point de';777;50
+e;278984;'double point';777;50
+e;280024;'point de l'équinoxe vernal';777;50
+e;280025;'point de l'équinoxe de printemps';777;50
+e;280159;'point crépusculaire';777;50
+e;280160;'point à midi';777;50
+e;282778;'Idée d'une histoire universelle au point de vue';777;50
+e;286007;'point en haut';777;50
+e;286194;'point d'intersection des';777;50
+e;293826;'point de vue topique';777;50
+e;298753;'point équant';777;50
+e;298832;'point d';777;50
+e;298833;'point d'écoute';777;50
+e;300018;'point de concours';777;50
+e;301013;'point de consigne';777;50
+e;302393;'mise au point télémétrique';777;50
+e;305721;'point amphidromique';777;50
+e;306172;'point de virage';777;50
+e;183742;'point Godwin';1;50
+e;205802;'point Renaissance';1;50
+e;205752;'point arrière';1;50
+e;205753;'point auriculaire';1;50
+e;205754;'point central';1;58
+e;205755;'point coupé';1;50
+e;183743;'point d'accès';1;2
+e;183754;'point d'admiration';1;50
+e;183752;'point d'eutexie';1;50
+e;179754;'point d'orgue';1;50
+e;205757;'point de Binche';1;50
+e;205759;'point de Bruges';1;50
+e;205760;'point de Bruxelles';1;50
+e;205772;'point de France';1;50
+e;205773;'point de Gênes';1;50
+e;205775;'point de Hongrie';1;50
+e;205776;'point de Jersey';1;52
+e;205778;'point de Malines';1;50
+e;205791;'point de Tulle';1;50
+e;205792;'point de Valenciennes';1;50
+e;205793;'point de Venise';1;50
+e;183744;'point de bascule';1;50
+e;205758;'point de boutonnière';1;50
+e;205756;'point de bâti';1;50
+e;183745;'point de canevas';1;50
+e;205762;'point de chausson';1;50
+e;205761;'point de chaînette';1;50
+e;183746;'point de cheminement';1;50
+e;205763;'point de chute';1;50
+e;205764;'point de condensation';1;50
+e;205765;'point de confluence';1;50
+e;56615;'point de congélation';1;52
+e;205766;'point de convergence';1;50
+e;183747;'point de coupure';1;50
+e;205768;'point de côtes';1;50
+e;205767;'point de côté';1;50
+e;82430;'point de devant';1;50
+e;205770;'point de distance';1;50
+e;205771;'point de feston';1;50
+e;183748;'point de fusion';1;62
+e;205774;'point de grille';1;50
+e;205777;'point de jonction';1;50
+e;32589;'point de mire';1;50
+e;205779;'point de natte';1;50
+e;205780;'point de non-retour';1;50
+e;205781;'point de piqûre';1;50
+e;183750;'point de presse';1;50
+e;205782;'point de rencontre';1;50
+e;205783;'point de reprise';1;50
+e;183751;'point de repère';1;50
+e;205784;'point de riz';1;50
+e;205785;'point de rupture';1;50
+e;205786;'point de surfil';1;50
+e;205787;'point de surjet';1;50
+e;205789;'point de tapisserie';1;50
+e;205790;'point de toile';1;50
+e;205794;'point des Gobelins';1;50
+e;183753;'point diplomatique';1;50
+e;205795;'point du Puy';1;50
+e;124061;'point du jour';1;56
+e;36895;'point du tout';1;50
+e;205796;'point eutectique';1;50
+e;205797;'point filet';1;50
+e;205798;'point fixe';1;50
+e;67197;'mal en point';1;60
+e;134383;'point russe';1;50
+e;137525;'Idée d'une histoire universelle au point de vue cosmopolitique';1;52
+e;190645;'point singulier';1;50
+e;193995;'pardalote à point jaune';1;50
+e;196764;'bague de mise au point';1;50
+e;200054;'être le point de mire';1;50
+e;200062;'être mal en point';1;50
+e;205800;'point mousse';1;54
+e;264548;'point d'inflexion';1;4
+e;271375;'point jersey';1;52
+e;285709;'point critique';1;50
+e;311695;'point par';777;50
+e;311764;'point Wi-Fi';777;50
+e;139253;'point d'ombre';1;50
+e;136666;'point de départ';1;54
+e;132535;'point isoélectrique';1;50
+e;200126;'être sur le point de';1;50
+e;200699;'faire un point à';1;50
+e;22634;'point de Dieppe';1;50
+e;21271;'point de solidification';1;50
+e;2244;'arriver à point nommé';1;50
+e;7429;'au plus haut point';1;50
+e;10494;'tombant à point';1;50
+e;166264;'point G';1;194
+e;111340;'point de vue';1;160
+e;183749;'point de non retour';1;2
+e;205769;'point de croix';1;58
+e;34191;'point noir';1;114
+e;99201;'mise au point';1;78
+e;186226;'faire le point';1;52
+e;13890;'à point';1;186
+e;140789;'point d'exclamation';1;126
+e;173824;'point mort';1;50
+e;153891;'point virgule';1;88
+e;138407;'point d'appui';1;50
+e;63068;'de point en point';1;50
+e;114010;'point par point';1;50
+e;156310;'point d'interrogation';1;130
+e;205788;'point de suspension';1;50
+e;245627;'point sensible';1;50
+e;87552;'point final';1;90
+e;137550;'point d'eau';1;80
+r;310767427;36372;455727;11;15
+r;310767428;36372;3314134;11;15
+r;310767429;36372;3355904;11;15
+r;310767430;36372;456066;11;15
+r;310767431;36372;441259;11;15
+r;310767432;36372;455611;11;15
+r;310767433;36372;455725;11;15
+r;310767434;36372;3314133;11;15
+r;96924410;36372;183759;11;22
+r;397092270;36372;15504773;11;25
+r;298336968;36372;6288447;11;25
+r;298894032;36372;6296417;11;25
+r;299521552;36372;6307089;11;25
+r;300111649;36372;6321244;11;25
+r;301743152;36372;6352114;11;25
+r;302136264;36372;6362200;11;25
+r;302178293;36372;6364135;11;25
+r;302964882;36372;6368470;11;25
+r;305473798;36372;6411556;11;25
+r;316619368;36372;12180222;11;25
+r;316878245;36372;12207339;11;25
+r;316878459;36372;12207294;11;25
+r;316880443;36372;12207293;11;25
+r;316923204;36372;12207340;11;25
+r;319057098;36372;6284812;11;25
+r;319066857;36372;6329513;11;25
+r;319082396;36372;6353794;11;25
+r;341157865;36372;6367519;11;25
+r;341164392;36372;6373980;11;25
+r;341015238;36372;6327011;11;25
+r;341257481;36372;6416876;11;25
+r;345828294;36372;13635645;11;25
+r;346139232;36372;13641783;11;25
+r;347873966;36372;13684853;11;25
+r;348417869;36372;13738230;11;25
+r;349123225;36372;6365009;11;25
+r;349207184;36372;6315879;11;25
+r;352185939;36372;13985998;11;25
+r;355730913;36372;14070565;11;25
+r;356463621;36372;14093787;11;25
+r;358643289;36372;14139335;11;25
+r;366516362;36372;14434584;11;25
+r;366881450;36372;14453008;11;25
+r;366925417;36372;14454017;11;25
+r;368104955;36372;14484514;11;25
+r;368648650;36372;14530994;11;25
+r;369967535;36372;14558642;11;25
+r;370330105;36372;14572111;11;25
+r;370644197;36372;14585518;11;25
+r;371012136;36372;14599228;11;25
+r;371179938;36372;14605438;11;25
+r;371329276;36372;14611337;11;25
+r;371563858;36372;14628324;11;25
+r;371668865;36372;14631163;11;25
+r;371695789;36372;14630521;11;25
+r;372656022;36372;14655246;11;25
+r;373971399;36372;14711056;11;25
+r;373971412;36372;14711055;11;25
+r;375518754;36372;14776043;11;25
+r;416989109;36372;15976283;11;25
+r;400888398;36372;6406229;11;25
+r;389628659;36372;14896531;11;25
+r;395412849;36372;15432598;11;25
+r;397537458;36372;6302263;11;25
+r;399488283;36372;6326640;11;25
+r;399980069;36372;6348796;11;25
+r;419116005;36372;12775402;11;25
+r;423690584;36372;16154292;11;25
+r;424122076;36372;16158501;11;25
+r;425774205;36372;16194528;11;25
+r;427735617;36372;16307763;11;25
+r;427735669;36372;16307764;11;25
+r;427735705;36372;16307750;11;25
+r;427736723;36372;16307751;11;25
+r;427737706;36372;16307748;11;25
+r;427737762;36372;16307743;11;25
+r;427737829;36372;16307568;11;25
+r;427738668;36372;16307749;11;25
+r;428398485;36372;16310439;11;25
+r;431150176;36372;16326431;11;25
+r;432825351;36372;16385116;11;25
+r;432958148;36372;16389604;11;25
+r;122676822;36372;6432334;11;26
+r;303931415;36372;6382023;11;26
+r;305201379;36372;6401157;11;26
+r;305311773;36372;6406410;11;26
+r;319082379;36372;6384338;11;26
+r;333332182;36372;12980666;11;26
+r;333768556;36372;12987777;11;26
+r;346125499;36372;11412038;11;26
+r;368353638;36372;14505966;11;26
+r;370558117;36372;14584000;11;26
+r;392308462;36372;15018497;11;26
+r;393620763;36372;15034399;11;26
+r;405848402;36372;15770658;11;26
+r;413026272;36372;15835296;11;26
+r;419480617;36372;16087391;11;26
+r;428906052;36372;16319146;11;26
+r;429095227;36372;16320196;11;26
+r;112660780;36372;5778234;11;27
+r;114454881;36372;5792973;11;27
+r;121535870;36372;6439121;11;27
+r;121562720;36372;6436122;11;27
+r;122665768;36372;6433563;11;27
+r;122757985;36372;6421969;11;27
+r;255903954;36372;10424128;11;27
+r;305633531;36372;6414999;11;27
+r;112667395;36372;5725312;11;28
+r;121527138;36372;6440098;11;28
+r;121531847;36372;6439576;11;28
+r;121556068;36372;6436871;11;28
+r;122680946;36372;6431869;11;28
+r;266728851;36372;10608589;11;28
+r;302081104;36372;11756061;11;28
+r;121500821;36372;6443027;11;29
+r;121505918;36372;6442466;11;29
+r;121515396;36372;6441408;11;29
+r;121542563;36372;6438387;11;29
+r;121544347;36372;6438180;11;29
+r;121557225;36372;6436743;11;29
+r;122667921;36372;6433317;11;29
+r;122673960;36372;6432646;11;29
+r;315506854;36372;12107052;11;29
+r;315506866;36372;12107051;11;29
+r;315507257;36372;12107005;11;29
+r;315507269;36372;12107004;11;29
+r;434382490;36372;16342811;11;29
+r;112171029;36372;5716083;11;30
+r;113783201;36372;5812883;11;30
+r;121514105;36372;6441554;11;30
+r;121516725;36372;6441256;11;30
+r;121518046;36372;6441115;11;30
+r;121520237;36372;6440858;11;30
+r;121524210;36372;6440431;11;30
+r;121526558;36372;6440167;11;30
+r;121535088;36372;6439212;11;30
+r;121547706;36372;6437796;11;30
+r;121549171;36372;6437634;11;30
+r;122667243;36372;6433395;11;30
+r;222106600;36372;9976806;11;30
+r;274298684;36372;10902593;11;30
+r;274298695;36372;10902592;11;30
+r;274298706;36372;10902591;11;30
+r;302220894;36372;11774341;11;30
+r;419754930;36372;15277311;11;30
+r;419755202;36372;15244214;11;30
+r;419759509;36372;15432540;11;30
+r;419759515;36372;15324196;11;30
+r;419766105;36372;15285910;11;30
+r;419768931;36372;15432543;11;30
+r;419769587;36372;15285921;11;30
+r;419771898;36372;15325330;11;30
+r;419785897;36372;15386399;11;30
+r;419786468;36372;15445271;11;30
+r;419801388;36372;15285908;11;30
+r;419801392;36372;15285912;11;30
+r;419801398;36372;15285917;11;30
+r;419801404;36372;15285923;11;30
+r;419801410;36372;15285925;11;30
+r;419801416;36372;15432550;11;30
+r;419801423;36372;15285919;11;30
+r;419842123;36372;15277835;11;30
+r;419842127;36372;15485988;11;30
+r;419842131;36372;15441307;11;30
+r;419843890;36372;15574872;11;30
+r;419843892;36372;15339072;11;30
+r;52241039;36372;2379293;11;31
+r;113278847;36372;5809887;11;31
+r;113772536;36372;5817334;11;31
+r;113772561;36372;5817326;11;31
+r;121502078;36372;6442880;11;31
+r;121505050;36372;6442563;11;31
+r;121530542;36372;6439719;11;31
+r;121538320;36372;6438847;11;31
+r;121544492;36372;6438164;11;31
+r;121553248;36372;6437190;11;31
+r;121571179;36372;6435178;11;31
+r;121575413;36372;6434701;11;31
+r;122733780;36372;6425089;11;31
+r;264246910;36372;10597152;11;31
+r;417101007;36372;15979974;11;31
+r;419716225;36372;15770403;11;31
+r;419734307;36372;15441302;11;31
+r;53163409;36372;2393205;11;32
+r;54651735;36372;2427728;11;32
+r;55628699;36372;2458254;11;32
+r;61890857;36372;2487490;11;32
+r;110665811;36372;5580611;11;32
+r;110816563;36372;5619332;11;32
+r;113760271;36372;5829341;11;32
+r;115869066;36372;5909162;11;32
+r;121470238;36372;6446435;11;32
+r;121475266;36372;6445886;11;32
+r;121513556;36372;6441615;11;32
+r;121518085;36372;6441110;11;32
+r;121535632;36372;6439148;11;32
+r;121565527;36372;6435805;11;32
+r;121577935;36372;6434416;11;32
+r;122673546;36372;6432695;11;32
+r;122675165;36372;6432512;11;32
+r;279858214;36372;11049898;11;32
+r;419620470;36372;15482089;11;32
+r;419620476;36372;15634509;11;32
+r;419620484;36372;15430150;11;32
+r;419620494;36372;15482095;11;32
+r;419620502;36372;15713162;11;32
+r;419620512;36372;15486848;11;32
+r;419620518;36372;16040358;11;32
+r;419620526;36372;15395518;11;32
+r;419620534;36372;16040359;11;32
+r;419637724;36372;15441300;11;32
+r;419652340;36372;15485987;11;32
+r;419670926;36372;15485289;11;32
+r;113283588;36372;5808780;11;33
+r;121573902;36372;6434870;11;33
+r;276072149;36372;10959128;11;33
+r;280659160;36372;11070966;11;33
+r;280691323;36372;11071399;11;33
+r;419607882;36372;15277315;11;33
+r;419608183;36372;15277313;11;33
+r;419610323;36372;15495590;11;33
+r;419616307;36372;15493415;11;33
+r;419616365;36372;15423107;11;33
+r;434364745;36372;16090133;11;33
+r;434369918;36372;16365291;11;33
+r;434370685;36372;16492342;11;33
+r;434370694;36372;16492344;11;33
+r;434370705;36372;16492340;11;33
+r;29961765;36372;1831439;11;34
+r;29972889;36372;1832668;11;34
+r;52106428;36372;2373213;11;34
+r;113283652;36372;5808740;11;34
+r;115839105;36372;5921828;11;34
+r;115846955;36372;5919393;11;34
+r;115848875;36372;5918858;11;34
+r;121465801;36372;6446940;11;34
+r;121475463;36372;6445861;11;34
+r;121553595;36372;6437155;11;34
+r;121576183;36372;6434611;11;34
+r;121581647;36372;6434008;11;34
+r;122674324;36372;6432602;11;34
+r;122675225;36372;6432506;11;34
+r;122683424;36372;6431592;11;34
+r;122756074;36372;6422222;11;34
+r;275362515;36372;10936342;11;34
+r;293522626;36372;11411991;11;34
+r;335188070;36372;13101532;11;34
+r;342265134;36372;13516733;11;34
+r;419523987;36372;15395520;11;34
+r;419547154;36372;15323841;11;34
+r;419554107;36372;15438734;11;34
+r;419561938;36372;15530100;11;34
+r;419566142;36372;15306110;11;34
+r;419567392;36372;15478346;11;34
+r;419594966;36372;15574876;11;34
+r;419595396;36372;15349611;11;34
+r;423696728;36372;16154298;11;34
+r;109977782;36372;5562438;11;35
+r;109977789;36372;5562437;11;35
+r;121035042;36372;6451358;11;35
+r;121036019;36372;6451253;11;35
+r;121464016;36372;6447137;11;35
+r;121472001;36372;6446243;11;35
+r;121502286;36372;6442854;11;35
+r;121518120;36372;6441106;11;35
+r;121521100;36372;6440769;11;35
+r;121524262;36372;6440424;11;35
+r;121527445;36372;6440062;11;35
+r;293455276;36372;11410138;11;35
+r;293459085;36372;11410139;11;35
+r;305867696;36372;11830975;11;35
+r;313428077;36372;12033671;11;35
+r;315110778;36372;12080807;11;35
+r;315110782;36372;12080806;11;35
+r;315110786;36372;12080805;11;35
+r;315110794;36372;12080803;11;35
+r;315110820;36372;12080799;11;35
+r;315110826;36372;12080798;11;35
+r;315110888;36372;12080789;11;35
+r;315110894;36372;12080788;11;35
+r;315110919;36372;12080784;11;35
+r;319544003;36372;12301115;11;35
+r;349250017;36372;6333572;11;35
+r;419493263;36372;15316672;11;35
+r;419493763;36372;15525279;11;35
+r;419508284;36372;16073561;11;35
+r;419508288;36372;16073562;11;35
+r;432058658;36372;16289431;11;35
+r;30027715;36372;1838506;11;36
+r;112665751;36372;5725725;11;36
+r;112668338;36372;5724623;11;36
+r;118518687;36372;6008301;11;36
+r;121462402;36372;6447317;11;36
+r;121471345;36372;6446314;11;36
+r;121482930;36372;6445033;11;36
+r;121487230;36372;6444539;11;36
+r;121492008;36372;6444019;11;36
+r;121495386;36372;6443634;11;36
+r;121520514;36372;6440830;11;36
+r;121529617;36372;6439821;11;36
+r;121550219;36372;6437523;11;36
+r;121550816;36372;6437458;11;36
+r;121577862;36372;6434424;11;36
+r;279314022;36372;11026920;11;36
+r;313898527;36372;12058538;11;36
+r;314744869;36372;12077009;11;36
+r;315110766;36372;12080810;11;36
+r;315110770;36372;12080809;11;36
+r;315110774;36372;12080808;11;36
+r;315110790;36372;12080804;11;36
+r;315110801;36372;12080802;11;36
+r;315110808;36372;12080801;11;36
+r;315110814;36372;12080800;11;36
+r;315110832;36372;12080797;11;36
+r;315110838;36372;12080796;11;36
+r;315110846;36372;12080795;11;36
+r;315110854;36372;12080794;11;36
+r;315110862;36372;12080793;11;36
+r;315110870;36372;12080792;11;36
+r;315110876;36372;12080791;11;36
+r;315110882;36372;12080790;11;36
+r;315110900;36372;12080787;11;36
+r;315110906;36372;12080786;11;36
+r;315110912;36372;12080785;11;36
+r;315110923;36372;12080783;11;36
+r;315110932;36372;12080782;11;36
+r;315110941;36372;12080781;11;36
+r;419491166;36372;15325790;11;36
+r;423384894;36372;16133477;11;36
+r;29980763;36372;1833443;11;37
+r;52440192;36372;2374790;11;37
+r;112177637;36372;5711150;11;37
+r;121032474;36372;6451641;11;37
+r;121045560;36372;6450212;11;37
+r;121046861;36372;6450073;11;37
+r;121459940;36372;6447583;11;37
+r;121495061;36372;6443673;11;37
+r;121509978;36372;6442015;11;37
+r;121561089;36372;6436303;11;37
+r;122679689;36372;6432013;11;37
+r;283547395;36372;11147965;11;37
+r;291815512;36372;11363279;11;37
+r;291815598;36372;11363247;11;37
+r;306729721;36372;11840377;11;37
+r;313724820;36372;12051205;11;37
+r;313897700;36372;12058515;11;37
+r;313886614;36372;12058519;11;37
+r;313887787;36372;12058523;11;37
+r;313890189;36372;12058517;11;37
+r;313890281;36372;12058520;11;37
+r;313894227;36372;12058516;11;37
+r;313894616;36372;12058513;11;37
+r;313895183;36372;12058512;11;37
+r;313896166;36372;12058521;11;37
+r;313896789;36372;12058518;11;37
+r;114551160;36372;5886309;11;38
+r;113278814;36372;5809894;11;38
+r;113287178;36372;5807985;11;38
+r;228988140;36372;10055421;11;38
+r;283544965;36372;11152072;11;38
+r;292640874;36372;11393398;11;38
+r;292682596;36372;11394316;11;38
+r;419732141;36372;15216856;11;38
+r;109663461;36372;5537503;11;39
+r;109663706;36372;5537441;11;39
+r;109883281;36372;5554202;11;39
+r;115102696;36372;5898926;11;39
+r;118510412;36372;6010882;11;39
+r;118543276;36372;6000137;11;39
+r;121059383;36372;6448690;11;39
+r;121441039;36372;6527991;11;39
+r;121466070;36372;6446910;11;39
+r;121470339;36372;6446426;11;39
+r;121473454;36372;6446087;11;39
+r;121554617;36372;6437034;11;39
+r;254175464;36372;10347968;11;39
+r;290420040;36372;11335431;11;39
+r;52210740;36372;2374789;11;40
+r;54261372;36372;2411885;11;40
+r;54445786;36372;2419486;11;40
+r;55549033;36372;2453987;11;40
+r;109882041;36372;5554390;11;40
+r;112666532;36372;5725551;11;40
+r;121440888;36372;6528029;11;40
+r;121462076;36372;6447355;11;40
+r;121471994;36372;6446244;11;40
+r;121478571;36372;6445507;11;40
+r;121488839;36372;6444359;11;40
+r;121492816;36372;6443927;11;40
+r;121551433;36372;6437387;11;40
+r;122585828;36372;6681773;11;40
+r;278198619;36372;11001151;11;40
+r;283369348;36372;11147311;11;40
+r;283369350;36372;11147310;11;40
+r;297601382;36372;11574757;11;40
+r;313761420;36372;12053132;11;40
+r;318908922;36372;12277842;11;40
+r;419644838;36372;15216847;11;40
+r;53206191;36372;2395702;11;41
+r;109881417;36372;5554483;11;41
+r;109881435;36372;5554480;11;41
+r;114443562;36372;5855668;11;41
+r;121472405;36372;6446197;11;41
+r;121487945;36372;6444456;11;41
+r;121511917;36372;6441804;11;41
+r;121567233;36372;6435616;11;41
+r;278313424;36372;11003141;11;41
+r;278327795;36372;11003463;11;41
+r;286849047;36372;11182191;11;41
+r;286849053;36372;11182189;11;41
+r;287460967;36372;11217471;11;41
+r;328213922;36372;12788796;11;41
+r;52034717;36372;2371386;11;42
+r;54391787;36372;2416625;11;42
+r;118530056;36372;6003658;11;42
+r;121454281;36372;6448201;11;42
+r;121460018;36372;6447575;11;42
+r;121489923;36372;6444240;11;42
+r;122105520;36372;6594525;11;42
+r;234229146;36372;10097056;11;42
+r;278847510;36372;11010141;11;42
+r;285636837;36372;11161223;11;42
+r;286848704;36372;11182190;11;42
+r;318841675;36372;12274424;11;42
+r;52220640;36372;2376145;11;43
+r;109881409;36372;5554484;11;43
+r;109883482;36372;5554169;11;43
+r;109884059;36372;5554073;11;43
+r;114748862;36372;5894196;11;43
+r;121043566;36372;6450423;11;43
+r;121472893;36372;6446147;11;43
+r;121491039;36372;6444121;11;43
+r;278773660;36372;11010142;11;43
+r;278783095;36372;11010304;11;43
+r;278843224;36372;11011105;11;43
+r;318826987;36372;12274254;11;43
+r;55878343;36372;2471296;11;44
+r;109881444;36372;5554479;11;44
+r;109881453;36372;5554478;11;44
+r;109884188;36372;5554050;11;44
+r;117897673;36372;5984114;11;44
+r;121036858;36372;6451164;11;44
+r;121557354;36372;6436731;11;44
+r;238101825;36372;10160001;11;44
+r;261000552;36372;10503240;11;44
+r;54272163;36372;2412501;11;45
+r;109881464;36372;5554477;11;45
+r;117908092;36372;5981479;11;45
+r;121459793;36372;6447601;11;45
+r;122585833;36372;6681772;11;45
+r;256306676;36372;10430378;11;45
+r;256306902;36372;10430336;11;45
+r;278795956;36372;11010535;11;45
+r;109883275;36372;5554203;11;46
+r;121039579;36372;6450873;11;46
+r;121048940;36372;6449845;11;46
+r;121056141;36372;6449052;11;46
+r;121058459;36372;6448796;11;46
+r;121479935;36372;6445362;11;46
+r;121488524;36372;6444393;11;46
+r;109883895;36372;5554101;11;47
+r;117870459;36372;5991795;11;47
+r;118510402;36372;6010884;11;47
+r;121032120;36372;6451682;11;47
+r;121463604;36372;6447181;11;47
+r;121487907;36372;6444460;11;47
+r;109881426;36372;5554481;11;48
+r;109884889;36372;5553922;11;48
+r;109885095;36372;5553887;11;48
+r;121029511;36372;6451964;11;48
+r;50246933;36372;2363973;11;49
+r;121476490;36372;6445744;11;49
+r;60117762;36372;2479193;11;50
+r;108352502;36372;5517098;11;50
+r;115089963;36372;5902707;11;50
+r;118531497;36372;6003240;11;50
+r;219033711;36372;9825626;11;50
+r;216841946;36372;9634964;11;50
+r;217696869;36372;9726647;11;50
+r;218019268;36372;9744064;11;50
+r;218021597;36372;9744065;11;50
+r;220813150;36372;9958416;11;50
+r;282736571;36372;11129844;11;50
+r;317855259;36372;12247877;11;50
+r;317972697;36372;12247964;11;50
+r;317972722;36372;12247963;11;50
+r;317972751;36372;12247962;11;50
+r;317972780;36372;12247961;11;50
+r;317972805;36372;12247960;11;50
+r;317972834;36372;12247959;11;50
+r;317973347;36372;12247876;11;50
+r;317973467;36372;12247852;11;50
+r;317973480;36372;12247851;11;50
+r;323132071;36372;12618036;11;50
+r;324798471;36372;12681211;11;50
+r;324934949;36372;12635068;11;50
+r;324937047;36372;12617530;11;50
+r;325692679;36372;12701193;11;50
+r;326411326;36372;12715173;11;50
+r;333435837;36372;12981144;11;50
+r;346143812;36372;13641443;11;50
+r;346156155;36372;13641446;11;50
+r;361377392;36372;14242083;11;50
+r;369465544;36372;14537441;11;50
+r;369500769;36372;14537440;11;50
+r;399503016;36372;15574550;11;50
+r;397502858;36372;15230917;11;50
+r;386416851;36372;14884848;11;50
+r;402151623;36372;15408691;11;50
+r;402151629;36372;15408681;11;50
+r;392230761;36372;15016796;11;50
+r;395010741;36372;15198245;11;50
+r;395179917;36372;15408156;11;50
+r;397419819;36372;15514756;11;50
+r;414795755;36372;15342280;11;50
+r;429624579;36372;16322378;11;50
+r;50120480;36372;2360314;11;51
+r;50177648;36372;2362127;11;51
+r;52479642;36372;2493029;11;51
+r;55499342;36372;2606130;11;51
+r;74379693;36372;2981753;11;51
+r;76736704;36372;3179793;11;51
+r;95165318;36372;4034797;11;51
+r;16127404;36372;458607;11;52
+r;17080587;36372;567302;11;52
+r;22829623;36372;1288529;11;52
+r;30610392;36372;1899666;11;52
+r;33099323;36372;2247783;11;52
+r;33106397;36372;2129204;11;52
+r;50187832;36372;2362442;11;52
+r;52446871;36372;2562502;11;52
+r;55135809;36372;2599936;11;52
+r;55481851;36372;2605224;11;52
+r;28580477;36372;1739663;11;53
+r;29902415;36372;1841811;11;53
+r;33103417;36372;2314947;11;53
+r;33106381;36372;2129207;11;53
+r;52459765;36372;2535511;11;53
+r;52484306;36372;2483031;11;53
+r;55146605;36372;2600780;11;53
+r;72181127;36372;2935247;11;53
+r;77006371;36372;3183767;11;53
+r;83665175;36372;3320736;11;53
+r;93561734;36372;3750160;11;53
+r;105135531;36372;5067437;11;53
+r;121035186;36372;6451341;11;53
+r;16128274;36372;456952;11;54
+r;16128278;36372;456951;11;54
+r;17123398;36372;567597;11;54
+r;29602763;36372;1813604;11;54
+r;29749471;36372;1821144;11;54
+r;29865533;36372;1849094;11;54
+r;30610630;36372;1899665;11;54
+r;76970472;36372;3182776;11;54
+r;77007449;36372;3183768;11;54
+r;83664801;36372;3320794;11;54
+r;105981575;36372;5145900;11;54
+r;16399622;36372;465419;11;55
+r;22831746;36372;1288530;11;55
+r;27513732;36372;1657579;11;55
+r;29852622;36372;1851785;11;55
+r;29875937;36372;1847040;11;55
+r;29902465;36372;1841804;11;55
+r;29902507;36372;1841799;11;55
+r;32652809;36372;2129208;11;55
+r;32929423;36372;2143803;11;55
+r;82839611;36372;3304177;11;55
+r;95153527;36372;4236675;11;55
+r;95173327;36372;3894192;11;55
+r;19213826;36372;667093;11;56
+r;24385027;36372;1473429;11;56
+r;28580593;36372;1739666;11;56
+r;29749431;36372;1821151;11;56
+r;30609816;36372;1899668;11;56
+r;31667239;36372;1966217;11;56
+r;32929516;36372;2143799;11;56
+r;33103846;36372;2305750;11;56
+r;33117636;36372;2315585;11;56
+r;34309970;36372;2339749;11;56
+r;52457530;36372;2540199;11;56
+r;52467462;36372;2519032;11;56
+r;52468852;36372;2516151;11;56
+r;52473041;36372;2507294;11;56
+r;52484445;36372;2482694;11;56
+r;72180647;36372;2935248;11;56
+r;82839268;36372;3304178;11;56
+r;98723886;36372;4328210;11;56
+r;16127398;36372;458608;11;57
+r;18413999;36372;586635;11;57
+r;28580531;36372;1739667;11;57
+r;28932112;36372;1758470;11;57
+r;29749461;36372;1821145;11;57
+r;29890574;36372;1843945;11;57
+r;30609774;36372;1899667;11;57
+r;53131972;36372;2581219;11;57
+r;55481531;36372;2605195;11;57
+r;77256150;36372;3185401;11;57
+r;85895005;36372;3350950;11;57
+r;96410208;36372;4308545;11;57
+r;105136746;36372;5067439;11;57
+r;106075415;36372;5165180;11;57
+r;18818048;36372;608946;11;58
+r;28580569;36372;1739665;11;58
+r;33103850;36372;2305749;11;58
+r;52473275;36372;2506743;11;58
+r;77256210;36372;3185402;11;58
+r;83665271;36372;3320716;11;58
+r;85895314;36372;3350951;11;58
+r;96411030;36372;4308544;11;58
+r;33103842;36372;2305751;11;59
+r;52468600;36372;2516701;11;59
+r;55474583;36372;2604739;11;59
+r;55566833;36372;2606442;11;59
+r;83755370;36372;3323328;11;59
+r;93195282;36372;3734748;11;59
+r;93560906;36372;3750159;11;59
+r;93709639;36372;3752872;11;59
+r;121030266;36372;6451879;11;59
+r;3191621;36372;186506;11;60
+r;19121809;36372;655924;11;60
+r;20810975;36372;981870;11;60
+r;27664692;36372;1665153;11;60
+r;27666164;36372;1665154;11;60
+r;71594822;36372;2923778;11;60
+r;29749455;36372;1821146;11;60
+r;29850007;36372;1852360;11;60
+r;33103478;36372;2305831;11;60
+r;34508582;36372;2345257;11;60
+r;52446429;36372;2563540;11;60
+r;54567895;36372;2589156;11;60
+r;74379687;36372;2981756;11;60
+r;103424621;36372;4934776;11;60
+r;117890583;36372;5985600;11;60
+r;29749479;36372;1821143;11;61
+r;29852633;36372;1851783;11;61
+r;29902389;36372;1841816;11;61
+r;29902403;36372;1841813;11;61
+r;29902409;36372;1841812;11;61
+r;29902475;36372;1841803;11;61
+r;30611031;36372;1899664;11;61
+r;29902483;36372;1841802;11;62
+r;29902491;36372;1841801;11;62
+r;29902513;36372;1841798;11;62
+r;30615221;36372;1900228;11;62
+r;72181170;36372;2935249;11;62
+r;74379691;36372;2981754;11;62
+r;76331536;36372;3172383;11;62
+r;29862580;36372;1849702;11;63
+r;29749435;36372;1821150;11;64
+r;29880085;36372;1846263;11;64
+r;29852614;36372;1851786;11;65
+r;74379689;36372;2981755;11;65
+r;29416734;36372;1794391;11;67
+r;29749451;36372;1821147;11;68
+r;29749441;36372;1821149;11;69
+r;29749447;36372;1821148;11;69
+r;29902499;36372;1841800;11;70
+r;12616305;36372;371478;11;101
+r;12616369;36372;371468;11;101
+r;12616507;36372;371436;11;101
+r;12616555;36372;371424;11;101
+r;12616599;36372;371413;11;101
+r;12616623;36372;371409;11;101
+r;12616689;36372;371399;11;101
+r;12616713;36372;371395;11;101
+r;12616729;36372;371393;11;101
+r;12616747;36372;371390;11;101
+r;12616789;36372;371383;11;101
+r;12616843;36372;371373;11;101
+r;12616859;36372;371369;11;101
+r;12639239;36372;365752;11;101
+r;12545873;36372;389006;11;102
+r;12616309;36372;371477;11;102
+r;12616399;36372;371463;11;102
+r;12616567;36372;371421;11;102
+r;12616587;36372;371416;11;102
+r;12616723;36372;371394;11;102
+r;12616759;36372;371388;11;102
+r;12630663;36372;367901;11;102
+r;12546327;36372;388909;11;103
+r;12558731;36372;385643;11;103
+r;12562253;36372;384797;11;103
+r;12616297;36372;371480;11;103
+r;12616341;36372;371472;11;103
+r;12616359;36372;371469;11;103
+r;12616551;36372;371425;11;103
+r;12616575;36372;371419;11;103
+r;12616591;36372;371415;11;103
+r;12616777;36372;371385;11;103
+r;12616831;36372;371376;11;103
+r;12616855;36372;371370;11;103
+r;12670041;36372;358189;11;103
+r;12728935;36372;343915;11;103
+r;12755791;36372;337453;11;103
+r;12545869;36372;389007;11;104
+r;12616347;36372;371471;11;104
+r;12616375;36372;371467;11;104
+r;12616503;36372;371437;11;104
+r;12616527;36372;371431;11;104
+r;12616539;36372;371428;11;104
+r;12616559;36372;371423;11;104
+r;12616579;36372;371418;11;104
+r;12616629;36372;371408;11;104
+r;12616649;36372;371405;11;104
+r;12616661;36372;371403;11;104
+r;12616701;36372;371397;11;104
+r;12616765;36372;371387;11;104
+r;12616813;36372;371379;11;104
+r;12616825;36372;371377;11;104
+r;12641659;36372;365148;11;104
+r;12647651;36372;363694;11;104
+r;12573777;36372;381916;11;105
+r;12616277;36372;371484;11;105
+r;12616281;36372;371483;11;105
+r;12616515;36372;371434;11;105
+r;12616609;36372;371411;11;105
+r;12616643;36372;371406;11;105
+r;12616741;36372;371391;11;105
+r;12616783;36372;371384;11;105
+r;12616807;36372;371380;11;105
+r;12616851;36372;371371;11;105
+r;12745109;36372;340063;11;105
+r;12989853;36372;390919;11;105
+r;12616267;36372;371487;11;106
+r;12616381;36372;371466;11;106
+r;12616395;36372;371464;11;106
+r;12616407;36372;371461;11;106
+r;12616511;36372;371435;11;106
+r;12616519;36372;371433;11;106
+r;12616571;36372;371420;11;106
+r;12616595;36372;371414;11;106
+r;12616735;36372;371392;11;106
+r;12616771;36372;371386;11;106
+r;12646015;36372;364100;11;106
+r;12707445;36372;348945;11;106
+r;12616285;36372;371482;11;107
+r;12616313;36372;371476;11;107
+r;12616329;36372;371474;11;107
+r;12616335;36372;371473;11;107
+r;12616523;36372;371432;11;107
+r;12616543;36372;371427;11;107
+r;12616563;36372;371422;11;107
+r;12616603;36372;371412;11;107
+r;12616847;36372;371372;11;107
+r;12574133;36372;381797;11;108
+r;12616273;36372;371485;11;108
+r;12616293;36372;371481;11;108
+r;12616301;36372;371479;11;108
+r;12616353;36372;371470;11;108
+r;12616387;36372;371465;11;108
+r;12616795;36372;371382;11;108
+r;12616835;36372;371375;11;108
+r;12616839;36372;371374;11;108
+r;12643279;36372;364749;11;108
+r;12647573;36372;363711;11;108
+r;12616263;36372;371488;11;109
+r;12616415;36372;371460;11;109
+r;12616531;36372;371430;11;109
+r;12616547;36372;371426;11;109
+r;12616583;36372;371417;11;109
+r;12616753;36372;371389;11;109
+r;12616801;36372;371381;11;109
+r;12616819;36372;371378;11;109
+r;12698677;36372;351158;11;109
+r;12616535;36372;371429;11;110
+r;12616619;36372;371410;11;110
+r;12616635;36372;371407;11;110
+r;12616655;36372;371404;11;110
+r;12616667;36372;371402;11;110
+r;12616677;36372;371401;11;110
+r;12616683;36372;371400;11;110
+r;12616695;36372;371398;11;110
+r;12616707;36372;371396;11;110
+r;12639091;36372;365789;11;110
+r;12711919;36372;347851;11;110
+r;12743725;36372;340382;11;110
+r;11866127;36372;83224;11;121
+r;11868792;36372;63753;11;121
+r;11873037;36372;35961;11;121
+r;11873168;36372;35142;11;121
+r;11847071;36372;314338;11;123
+r;11847075;36372;314337;11;123
+r;3191622;36372;102225;11;142
+r;8537380;36372;49219;11;142
+r;9044569;36372;319964;11;148
+r;9051017;36372;320232;11;148
+r;9188952;36372;323318;11;148
+r;11279700;36372;326031;11;148
+r;11697087;36372;329731;11;148
+r;11697095;36372;329730;11;148
+r;8929802;36372;317410;11;150
+r;8921113;36372;316666;11;151
+r;8700330;36372;231925;11;156
+r;8707224;36372;241787;11;160
+r;8707931;36372;242924;11;160
+r;8714955;36372;251354;11;160
+r;8715264;36372;251579;11;160
+r;8609188;36372;113839;11;161
+r;8629797;36372;165805;11;161
+r;8633589;36372;171211;11;161
+r;8633661;36372;171271;11;161
+r;8681106;36372;207961;11;161
+r;8684804;36372;210114;11;161
+r;8685567;36372;210694;11;161
+r;8685989;36372;210977;11;161
+r;8686935;36372;211655;11;161
+r;8687190;36372;211838;11;161
+r;8690563;36372;217275;11;161
+r;8693474;36372;221956;11;161
+r;8693527;36372;222042;11;161
+r;8694118;36372;223023;11;161
+r;8694795;36372;224221;11;161
+r;8697301;36372;228103;11;161
+r;8699129;36372;230602;11;161
+r;8700194;36372;231790;11;161
+r;8701681;36372;233623;11;161
+r;8701751;36372;233815;11;161
+r;8701823;36372;233948;11;161
+r;8704490;36372;237116;11;161
+r;8704492;36372;237117;11;161
+r;8704795;36372;237457;11;161
+r;8707257;36372;241881;11;161
+r;8708705;36372;244400;11;161
+r;8710089;36372;246480;11;161
+r;8710090;36372;246481;11;161
+r;8716494;36372;252880;11;161
+r;8716608;36372;252978;11;161
+r;8716960;36372;253294;11;161
+r;8718964;36372;254786;11;161
+r;8718966;36372;254787;11;161
+r;8720495;36372;255925;11;161
+r;8720506;36372;255939;11;161
+r;8720852;36372;256182;11;161
+r;8723203;36372;257842;11;161
+r;8727761;36372;261059;11;161
+r;8727763;36372;261062;11;161
+r;8728270;36372;261576;11;161
+r;1608756;36372;217402;11;162
+r;8578188;36372;24805;11;162
+r;8581935;36372;35936;11;162
+r;8590792;36372;61291;11;162
+r;8614671;36372;129282;11;162
+r;8634011;36372;171536;11;162
+r;8634016;36372;171540;11;162
+r;8634274;36372;212126;11;162
+r;8674335;36372;203822;11;162
+r;8675162;36372;204305;11;162
+r;8683308;36372;209250;11;162
+r;8683652;36372;209434;11;162
+r;8686340;36372;211246;11;162
+r;8686849;36372;211599;11;162
+r;8687607;36372;212140;11;162
+r;8691975;36372;220182;11;162
+r;8692576;36372;221012;11;162
+r;8699619;36372;231109;11;162
+r;8701402;36372;232983;11;162
+r;8709661;36372;245905;11;162
+r;8713659;36372;250276;11;162
+r;8718866;36372;254722;11;162
+r;8723523;36372;258088;11;162
+r;8727604;36372;260923;11;162
+r;8731220;36372;263851;11;162
+r;8731343;36372;263933;11;162
+r;8741694;36372;273815;11;162
+r;8773280;36372;307599;11;162
+r;1608724;36372;59024;11;163
+r;1608725;36372;105681;11;163
+r;1608728;36372;114651;11;163
+r;1608729;36372;211550;11;163
+r;1608730;36372;211556;11;163
+r;1608733;36372;211551;11;163
+r;1608735;36372;211553;11;163
+r;1608736;36372;211552;11;163
+r;1608738;36372;211557;11;163
+r;1608741;36372;211558;11;163
+r;1608743;36372;211559;11;163
+r;1608746;36372;211560;11;163
+r;1608747;36372;211561;11;163
+r;1608748;36372;211554;11;163
+r;1608749;36372;211555;11;163
+r;1608753;36372;61104;11;163
+r;1608761;36372;104841;11;163
+r;1608785;36372;108639;11;163
+r;1608806;36372;213882;11;163
+r;1608818;36372;106914;11;163
+r;8573996;36372;12069;11;163
+r;8576008;36372;18363;11;163
+r;8576471;36372;19891;11;163
+r;8587483;36372;51954;11;163
+r;8611934;36372;121589;11;163
+r;8621255;36372;144156;11;163
+r;8624523;36372;155540;11;163
+r;8627374;36372;161288;11;163
+r;8634459;36372;172531;11;163
+r;8642290;36372;183755;11;163
+r;8642292;36372;183756;11;163
+r;8659803;36372;195361;11;163
+r;8660148;36372;195617;11;163
+r;8660150;36372;195618;11;163
+r;8661191;36372;196275;11;163
+r;8661239;36372;196308;11;163
+r;8675163;36372;204306;11;163
+r;8676939;36372;205458;11;163
+r;8677430;36372;205751;11;163
+r;8677478;36372;205799;11;163
+r;8677481;36372;205801;11;163
+r;8677484;36372;205803;11;163
+r;8677486;36372;205804;11;163
+r;8677488;36372;205805;11;163
+r;8677490;36372;205806;11;163
+r;8733631;36372;265928;11;163
+r;8733723;36372;266012;11;163
+r;8734934;36372;267057;11;163
+r;8742705;36372;274818;11;163
+r;8745531;36372;277655;11;163
+r;8745533;36372;277656;11;163
+r;8746578;36372;278984;11;163
+r;8747446;36372;280024;11;163
+r;8747448;36372;280025;11;163
+r;8747564;36372;280159;11;163
+r;8747566;36372;280160;11;163
+r;8750033;36372;282778;11;163
+r;8753178;36372;286007;11;163
+r;8753426;36372;286194;11;163
+r;8761368;36372;293826;11;163
+r;8765561;36372;298753;11;163
+r;8765619;36372;298832;11;163
+r;8765620;36372;298833;11;163
+r;8766739;36372;300018;11;163
+r;8767600;36372;301013;11;163
+r;8768855;36372;302393;11;163
+r;8771658;36372;305721;11;163
+r;8772038;36372;306172;11;163
+r;1608720;36372;183742;11;164
+r;1608721;36372;205802;11;164
+r;1608722;36372;205752;11;164
+r;1608723;36372;205753;11;164
+r;1608726;36372;205754;11;164
+r;1608727;36372;205755;11;164
+r;1608731;36372;183743;11;164
+r;1608732;36372;183754;11;164
+r;1608739;36372;183752;11;164
+r;1608745;36372;179754;11;164
+r;1608750;36372;205757;11;164
+r;1608751;36372;205759;11;164
+r;1608752;36372;205760;11;164
+r;1608755;36372;205772;11;164
+r;1608757;36372;205773;11;164
+r;1608758;36372;205775;11;164
+r;1608759;36372;205776;11;164
+r;1608760;36372;205778;11;164
+r;1608762;36372;205791;11;164
+r;1608763;36372;205792;11;164
+r;1608764;36372;205793;11;164
+r;1608765;36372;183744;11;164
+r;1608766;36372;205758;11;164
+r;1608767;36372;205756;11;164
+r;1608768;36372;183745;11;164
+r;1608769;36372;205762;11;164
+r;1608770;36372;205761;11;164
+r;1608771;36372;183746;11;164
+r;1608772;36372;205763;11;164
+r;1608773;36372;205764;11;164
+r;1608774;36372;205765;11;164
+r;1608775;36372;56615;11;164
+r;1608776;36372;205766;11;164
+r;1608777;36372;183747;11;164
+r;1608779;36372;205768;11;164
+r;1608780;36372;205767;11;164
+r;1608781;36372;82430;11;164
+r;1608782;36372;205770;11;164
+r;1608784;36372;205771;11;164
+r;1608786;36372;183748;11;164
+r;1608787;36372;205774;11;164
+r;1608788;36372;205777;11;164
+r;1608789;36372;32589;11;164
+r;1608790;36372;205779;11;164
+r;1608792;36372;205780;11;164
+r;1608793;36372;205781;11;164
+r;1608794;36372;183750;11;164
+r;1608795;36372;205782;11;164
+r;1608796;36372;205783;11;164
+r;1608797;36372;183751;11;164
+r;1608798;36372;205784;11;164
+r;1608799;36372;205785;11;164
+r;1608801;36372;205786;11;164
+r;1608802;36372;205787;11;164
+r;1608804;36372;205789;11;164
+r;1608805;36372;205790;11;164
+r;1608808;36372;205794;11;164
+r;1608809;36372;183753;11;164
+r;1608810;36372;205795;11;164
+r;1608811;36372;124061;11;164
+r;1608812;36372;36895;11;164
+r;1608814;36372;205796;11;164
+r;1608815;36372;205797;11;164
+r;1608817;36372;205798;11;164
+r;8592717;36372;67197;11;164
+r;8616472;36372;134383;11;164
+r;8617990;36372;137525;11;164
+r;8653021;36372;190645;11;164
+r;8657960;36372;193995;11;164
+r;8662279;36372;196764;11;164
+r;8667703;36372;200054;11;164
+r;8667723;36372;200062;11;164
+r;8677480;36372;205800;11;164
+r;8732101;36372;264548;11;164
+r;8738878;36372;271375;11;164
+r;8752875;36372;285709;11;164
+r;8777785;36372;311695;11;164
+r;8777861;36372;311764;11;164
+r;1608744;36372;139253;11;165
+r;1608783;36372;136666;11;165
+r;8615846;36372;132535;11;165
+r;8667835;36372;200126;11;165
+r;8669046;36372;200699;11;165
+r;1608754;36372;22634;11;166
+r;1608800;36372;21271;11;166
+r;8570748;36372;2244;11;166
+r;8572424;36372;7429;11;166
+r;8573443;36372;10494;11;168
+r;1608719;36372;166264;11;173
+r;1608807;36372;111340;11;173
+r;1608791;36372;183749;11;174
+r;1608778;36372;205769;11;184
+r;8537381;36372;34191;11;190
+r;8537382;36372;99201;11;190
+r;3191620;36372;186226;11;200
+r;2115862;36372;13890;11;274
+r;1608740;36372;140789;11;284
+r;2115863;36372;173824;11;294
+r;2115865;36372;153891;11;294
+r;1608734;36372;138407;11;295
+r;8591379;36372;63068;11;298
+r;8609253;36372;114010;11;300
+r;1608742;36372;156310;11;304
+r;1608803;36372;205788;11;314
+r;2115864;36372;245627;11;322
+r;1608816;36372;87552;11;334
+r;1608737;36372;137550;11;335

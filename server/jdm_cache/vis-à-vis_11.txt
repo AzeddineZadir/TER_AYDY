@@ -1,0 +1,60 @@
+
+e;83995;'vis-à-vis';1;56
+e;15378594;'démissionner de ses responsabilités vis-à-vis de qn/qch';1;0
+e;15276575;'démissionner vis-à-vis de qn/qch';1;0
+e;15346722;'dépendance vis-à-vis du pH';1;0
+e;1776145;'en vis-à-vis';1;0
+e;13439266;'spécialisation des virus vis-à-vis de leur hôte';1;0
+e;15031575;'appartements sans vis-à-vis';1;0
+e;14171148;'Peugeot type 9 vis-à-vis';777;0
+e;6441024;'comportement vis-à-vis de la boisson épisodique intoxication alcoolique aiguë dans l'alcoolisme';1;0
+e;12051415;'faire preuve d'empathie vis-à-vis du patient';1;0
+e;12051360;'endosser vis-à-vis de collègues un rôle de meneur, cherchant avant tout à atteindre les objectifs';1;0
+e;15192431;'Liberté vis-à-vis d'alternatives irrelevantes';777;0
+e;15328097;'Le dollar s'est apprécié vis-à-vis du yen.';1;0
+e;6439300;'comportement vis-à-vis de la boisson épisodique autre dépendance à l'alcool non précisée';1;0
+e;15497464;'aucune des parties ne sera responsable vis-à-vis de l'autre, la responsabilité des parties l'une vis-à-vis de l'autre est exclue';1;0
+e;6433176;'comportement vis-à-vis de la boisson non précisé autre dépendance à l'alcool non précisée';1;0
+e;68914;'vis-à-vis de';1;50
+e;6448441;'spécificité vis-à-vis de l'hôte';1;0
+e;6447842;'comportement vis-à-vis de la boisson continu intoxication alcoolique aiguë dans l'alcoolisme';1;0
+e;335882;'appartement sans vis-à-vis';1;50
+e;6438985;'comportement vis-à-vis de la boisson non précisé intoxication alcoolique aiguë dans l'alcoolisme';1;0
+e;6444440;'comportement vis-à-vis de la boisson non précisé abus d'alcool';1;0
+e;6444159;'comportement vis-à-vis de la boisson continu abus d'alcool';1;0
+e;6431879;'comportement vis-à-vis de la boisson épisodique abus d'alcool';1;0
+e;6438050;'comportement vis-à-vis de la boisson continu autre dépendance à l'alcool non précisée';1;0
+e;5990866;'Jean Marie Farina vis-à-vis de la place Juliers';777;0
+e;6451093;'spécificité vis-à-vis de l'espèce hôte';1;0
+e;2303941;'vis-à-vis d'';2;0
+e;180139;'vis à vis';1;52
+e;7608;'vis';1;644
+r;419811631;83995;15378594;11;30
+r;419811635;83995;15276575;11;30
+r;419812721;83995;15346722;11;30
+r;33695018;83995;1776145;11;34
+r;342216477;83995;13439266;11;34
+r;393559313;83995;15031575;11;34
+r;419524605;83995;14171148;11;34
+r;121518822;83995;6441024;11;35
+r;313763840;83995;12051415;11;36
+r;313764166;83995;12051360;11;36
+r;394027280;83995;15192431;11;36
+r;419491715;83995;15328097;11;36
+r;121534311;83995;6439300;11;37
+r;419621645;83995;15497464;11;40
+r;122669220;83995;6433176;11;41
+r;8593317;83995;68914;11;42
+r;121452142;83995;6448441;11;42
+r;121457603;83995;6447842;11;43
+r;71819739;83995;335882;11;44
+r;121537057;83995;6438985;11;44
+r;121488110;83995;6444440;11;47
+r;121490691;83995;6444159;11;47
+r;122680849;83995;6431879;11;47
+r;121545505;83995;6438050;11;49
+r;117598818;83995;5990866;11;50
+r;121037528;83995;6451093;11;50
+r;33686215;83995;2303941;11;52
+r;11866002;180139;83995;11;121
+r;11866000;7608;83995;11;184

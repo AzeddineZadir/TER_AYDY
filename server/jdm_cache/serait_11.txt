@@ -1,0 +1,58 @@
+
+e;426966;'serait';1;50
+e;15449573;'ce ne serait pas raisonnable';1;0
+e;15361527;'ce ne serait pas réalisable de faire qch';1;0
+e;15499665;'ce serait de la folie de faire ...';1;0
+e;15296385;'ce serait manquer de modestie que de ...';1;0
+e;15283741;'Toute discussion politique serait synonyme de désastre.';1;0
+e;10997763;'Un homme violé par une femme serait chanceux';777;0
+e;15279464;'La vie sans elle serait insupportable.';1;0
+e;2378530;'il serait possible que';1;0
+e;16103676;'Il serait plus sage d'attendre.';1;0
+e;15487705;'Ce serait malvenu de ma part de m'en mêler.';1;0
+e;15479245;'Il serait malvenu de faire des commentaires.';1;0
+e;15224628;'Il serait impoli de décliner l'invitation.';1;0
+e;15480690;'Il serait écarté plutôt que démis de ses fonctions.';1;0
+e;15392000;'Il serait inapproprié de faire des conjectures à ce sujet.';1;0
+e;15260424;'Il serait déplacé de faire des conjectures à ce sujet.';1;0
+e;15249180;'Ce morceau serait plus adapté à une salle de concert.';1;0
+e;15333858;'Ce serait exagéré.';1;0
+e;15333391;'Ce serait meilleur avec du fromage râpé.';1;0
+e;15283292;'Cela serait un suicide politique que de s'abstenir.';1;0
+e;15396373;'Dire que je suis déçu serait un euphémisme.';1;0
+e;15317224;'L'avion se serait écrasé.';1;0
+e;122417;'le plus sûr serait de';1;50
+e;2234413;'ne serait-ce qu'';2;0
+e;2234414;'ne serait-ce que';1;0
+e;3053466;'serait-ce';1;0
+e;3053468;'serait-il';1;0
+e;3053469;'serait-on';1;0
+e;3053467;'serait-elle';1;0
+r;419691398;426966;15449573;11;32
+r;419691402;426966;15361527;11;32
+r;419691671;426966;15499665;11;32
+r;419691675;426966;15296385;11;32
+r;419554141;426966;15283741;11;34
+r;277992925;426966;10997763;11;36
+r;417155840;426966;15279464;11;38
+r;52236212;426966;2378530;11;39
+r;420269822;426966;16103676;11;42
+r;397134838;426966;15487705;11;50
+r;402109984;426966;15479245;11;50
+r;402109968;426966;15224628;11;50
+r;402109990;426966;15480690;11;50
+r;402109976;426966;15392000;11;50
+r;402109960;426966;15260424;11;50
+r;395012653;426966;15249180;11;50
+r;395012869;426966;15333858;11;50
+r;395012873;426966;15333391;11;50
+r;395013325;426966;15283292;11;50
+r;395033602;426966;15396373;11;50
+r;414847834;426966;15317224;11;50
+r;14300349;426966;122417;11;51
+r;33104643;426966;2234413;11;51
+r;33097823;426966;2234414;11;54
+r;74946787;426966;3053466;11;56
+r;74946781;426966;3053468;11;58
+r;74946779;426966;3053469;11;59
+r;74946783;426966;3053467;11;61

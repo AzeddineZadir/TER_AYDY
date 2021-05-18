@@ -1,0 +1,14 @@
+
+e;2000970;'faudrait';2;0
+e;14510748;'pas là où il faudrait';1;6
+e;15236434;'Il faudrait une teinte dans les bleus.';1;0
+e;15278436;'Il te faudrait un look plus jeune.';1;0
+e;15951278;'Il ne faudrait pas une si prodigieuse diversité de lois pour gouverner les hommes. Celle de Dieu suffirait à elle seule pour cet effet';777;0
+e;2600329;'si Dieu n'existait pas, il faudrait l'inventer';1;0
+e;2945491;'il faudrait';1;0
+r;368487077;2000970;14510748;11;26
+r;402106786;2000970;15236434;11;50
+r;402110054;2000970;15278436;11;50
+r;416566265;2000970;15951278;11;50
+r;55141103;2000970;2600329;11;51
+r;72394990;2000970;2945491;11;55

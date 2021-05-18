@@ -1,14 +1,176 @@
 
-e;425329;'Séjour';1;50
-e;10586991;'Beau Séjour';777;0
-e;11815334;'Achille Pierre Dionis du Séjour';777;0
-e;11157898;'Jean Dionis du Séjour';777;0
-e;5835112;'Beau-Séjour';1;0
-e;12738401;'Franc-Séjour';1;0
-e;145092;'Le Séjour d'honneur';1;50
-r;263796755;425329;10586991;11;30
-r;304888761;425329;11815334;11;34
-r;283876647;425329;11157898;11;43
-r;115560001;425329;5835112;11;50
-r;399662295;425329;12738401;11;50
-r;14293119;425329;145092;11;56
+e;26597;'séjour';1;206
+e;6303440;'installations de soins de long séjour';1;0
+e;6309306;'vie ou séjour prolongé en haute altitude entraînant anoxie';1;0
+e;6343724;'hospitalisation de court séjour';1;0
+e;6371043;'centres de soins de long séjour';1;0
+e;6385578;'vie ou séjour prolongé en haute altitude entraînant mal des montagnes';1;0
+e;6411908;'établissements de soins de long séjour';1;0
+e;14454209;'frais de déplacement et de séjour';1;0
+e;15647318;'séjour de vacances';777;0
+e;15953420;'séjour de courte durée';1;0
+e;15196766;'Nous avons fait un séjour randonnée dans le Tyrol.';1;0
+e;15787983;'Son séjour en France l'a transformé.';1;0
+e;15521602;'bon séjour';1;0
+e;15569917;'bref séjour aux USA';1;0
+e;15269753;'double séjour';1;0
+e;15429353;'droit de séjour';1;0
+e;15269754;'durée de séjour';1;0
+e;6296443;'vie ou séjour prolongé en haute altitude entraînant otite barotraumatique';1;0
+e;6361480;'centres de long séjour';1;0
+e;6389548;'séjour prolongé en apesanteur';1;0
+e;15037573;'autorisations de séjour';1;0
+e;6383115;'vie ou séjour prolongé en haute altitude entraînant barodontalgie';1;0
+e;6430832;'unité de chirurgie de court séjour d'un hôpital';1;0
+e;6427307;'vie ou séjour prolongé en haute altitude entraînant hypoxie';1;0
+e;1829867;'centre de moyen séjour';1;0
+e;10934888;'code de l'entrée et du séjour des étrangers et du droit d'asile';777;0
+e;1829866;'centre de long séjour';1;0
+e;6428401;'établissements de long séjour';1;0
+e;16073295;'Interdiction de séjour';1;0
+e;10384484;'loi n° 98-349 du 11 mai 1998 relative à l'entrée et au séjour des étrangers en France et au droit d'asile';777;0
+e;11383590;'séjour de Napoléon Bonaparte à Auxonne';777;0
+e;12053163;'auberge de jeunesse et centre international de séjour';1;0
+e;5977512;'séjour des Beatles en Inde';777;0
+e;11008815;'séjour au ski';1;0
+e;9076315;'séjour prolongé au sol';1;0
+e;12617190;'séjour utile';1;0
+e;12617189;'séjour inutile';1;0
+e;15352546;'Il est interdit de séjour aux États Unis.';1;0
+e;15399478;'Il a demandé un permis de séjour en Grande-Bretagne.';1;0
+e;2989640;'titre de séjour temporaire';1;0
+e;790663;'groupe homogène de séjour';1;0
+e;2929769;'Interdit de séjour';777;0
+e;2955386;'séjour inoubliable';1;18
+e;382551;'séjour gériatrique';1;50
+e;382546;'séjour à l'hôpital';1;50
+e;382545;'séjour solitaire';1;50
+e;382541;'séjour en prison';1;50
+e;382552;'séjour hospitalier';1;54
+e;382548;'séjour éternel';1;50
+e;382540;'séjour en maison de retraite';1;50
+e;382538;'séjour balnéaire';1;50
+e;382549;'séjour culturel';1;50
+e;382547;'séjour à la campagne';1;50
+e;342340;'centre de séjour estival';1;50
+e;342339;'centre de séjour';1;50
+e;382550;'séjour en maison de santé';1;50
+e;382543;'séjour privé';1;50
+e;377495;'récépissé de demande de titre de séjour';1;50
+e;387142;'visa de séjour';1;50
+e;382544;'séjour psychiatrique';1;50
+e;361517;'lieu de séjour';1;50
+e;337680;'autorisation de séjour';1;50
+e;382542;'séjour forcé';1;50
+e;382539;'séjour climatique';1;50
+e;359584;'interdit de séjour';1;50
+e;273253;'séjour à thèmes';777;50
+e;318853;'moyen séjour';1;50
+e;220294;'séjour des damnés';1;2
+e;232049;'titre de séjour';1;30
+e;235069;'long séjour';1;50
+e;254748;'séjour touristique';1;50
+e;254805;'frais de séjour';1;50
+e;256612;'séjour au pair';1;50
+e;256613;'séjour linguistique';1;2
+e;263258;'séjour à la montagne';1;50
+e;104807;'interdiction de séjour';1;50
+e;109113;'séjour des bienheureux';1;50
+e;208049;'séjour céleste';1;50
+e;208050;'séjour des dieux';1;50
+e;208051;'séjour des morts';1;50
+e;208052;'séjour des ombres';1;50
+e;98365;'salle de séjour';1;60
+e;129385;'séjour des élus';1;50
+e;154486;'taxe de séjour';1;54
+e;273283;'séjour à thème';666;50
+e;187234;'permis de séjour';1;54
+e;197292;'carte de séjour';1;56
+e;12436;'céleste séjour';1;50
+r;299340101;26597;6303440;11;25
+r;299576124;26597;6309306;11;25
+r;301509379;26597;6343724;11;25
+r;302985052;26597;6371043;11;25
+r;304001756;26597;6385578;11;25
+r;305478823;26597;6411908;11;25
+r;366931055;26597;14454209;11;25
+r;402097188;26597;15647318;11;25
+r;416133303;26597;15953420;11;25
+r;419514691;26597;15196766;11;25
+r;419547302;26597;15787983;11;25
+r;419658327;26597;15521602;11;25
+r;419664277;26597;15569917;11;25
+r;419797900;26597;15269753;11;25
+r;419799991;26597;15429353;11;25
+r;419802229;26597;15269754;11;25
+r;298950537;26597;6296443;11;26
+r;302116180;26597;6361480;11;26
+r;304558374;26597;6389548;11;26
+r;393784815;26597;15037573;11;26
+r;303980408;26597;6383115;11;27
+r;122689456;26597;6430832;11;28
+r;122716773;26597;6427307;11;30
+r;29943992;26597;1829867;11;34
+r;275367784;26597;10934888;11;34
+r;29944075;26597;1829866;11;35
+r;122708110;26597;6428401;11;35
+r;419103075;26597;16073295;11;38
+r;255398129;26597;10384484;11;39
+r;292069875;26597;11383590;11;39
+r;313744973;26597;12053163;11;40
+r;116933533;26597;5977512;11;43
+r;278710638;26597;11008815;11;45
+r;198487866;26597;9076315;11;50
+r;323064363;26597;12617190;11;50
+r;323064720;26597;12617189;11;50
+r;402105760;26597;15352546;11;50
+r;402102686;26597;15399478;11;50
+r;74379514;26597;2989640;11;55
+r;19873198;26597;790663;11;57
+r;71859250;26597;2929769;11;61
+r;73148175;26597;2955386;11;62
+r;12571311;26597;382551;11;101
+r;12571333;26597;382546;11;101
+r;12571337;26597;382545;11;101
+r;12571353;26597;382541;11;101
+r;12571307;26597;382552;11;102
+r;12571325;26597;382548;11;102
+r;12571357;26597;382540;11;102
+r;12571367;26597;382538;11;102
+r;12571321;26597;382549;11;104
+r;12571329;26597;382547;11;104
+r;12735531;26597;342340;11;104
+r;12735541;26597;342339;11;104
+r;12571315;26597;382550;11;105
+r;12571345;26597;382543;11;105
+r;12591943;26597;377495;11;105
+r;12552803;26597;387142;11;106
+r;12571341;26597;382544;11;106
+r;12656561;26597;361517;11;106
+r;12754943;26597;337680;11;106
+r;12571349;26597;382542;11;107
+r;12571363;26597;382539;11;109
+r;12664471;26597;359584;11;110
+r;9188694;26597;273253;11;147
+r;9015177;26597;318853;11;148
+r;8692068;26597;220294;11;161
+r;8700483;26597;232049;11;161
+r;8702761;26597;235069;11;161
+r;8718901;26597;254748;11;161
+r;8718996;26597;254805;11;161
+r;8721485;26597;256612;11;161
+r;8721487;26597;256613;11;161
+r;8730414;26597;263258;11;161
+r;8605857;26597;104807;11;162
+r;8607502;26597;109113;11;162
+r;8681260;26597;208049;11;162
+r;8681262;26597;208050;11;162
+r;8681264;26597;208051;11;162
+r;8681266;26597;208052;11;162
+r;8603593;26597;98365;11;163
+r;8614723;26597;129385;11;163
+r;8623960;26597;154486;11;163
+r;8741045;26597;273283;11;163
+r;8648117;26597;187234;11;164
+r;8663159;26597;197292;11;164
+r;8574116;26597;12436;11;165

@@ -1,0 +1,3266 @@
+
+e;151711;'grande';1;1082
+e;18839;'colossale';1;50
+e;9699;'basse';1;510
+e;139340;'mesure';1;1122
+e;53661;'petitesse';1;188
+e;152239;'grande fille';1;56
+e;15253069;'enfant plus âgé';1;0
+e;320313;'big';777;50
+e;126640;'prolixe';1;94
+e;160277;'spacieuse';1;64
+e;117458;'Grande';1;50
+e;154948;'éternelle';1;58
+e;87222;'avenue';1;694
+e;23178;'grand';1;2254
+e;157525;'talons';1;86
+e;156331;'élancée';1;70
+e;111705;'grandeur';1;258
+e;112154;'vaste';1;114
+e;58170;'hauteur';1;524
+e;77315;'vitesse';1;1352
+e;95245;'fille';1;5956
+e;16612;'large';1;380
+e;412634;'Big';1;50
+e;158667;'géante';1;72
+e;118945;'gigantesque';1;236
+e;61490;'femme';1;30500
+e;67773;'haute';1;164
+e;146483;'longue';1;790
+e;141683;'petite';1;1318
+e;134624;'soeur';1;1082
+e;38828;'cuiller';1;218
+e;10500;'thaumaturgie';1;50
+e;11284;'somptuosité';1;52
+e;6433510;'infection à la grande douve de l'intestin';1;0
+e;6425005;'ligature et section de la grande veine saphène au niveau de la jonction saphéno-fémorale';1;0
+e;10091054;'grande-commune';777;0
+e;10787227;'grande-anse';777;0
+e;6285505;'grande sous-unité ribosomique des bactéries';1;0
+e;6285770;'grande sous-unité du ribosome bactérien';1;0
+e;6288809;'grande ouverture sciatique';1;0
+e;6289491;'grande scissure interlobaire du poumon droit';1;0
+e;6294392;'grande caroncule duodénale';1;0
+e;6298631;'grande sous-unité ribosomale 60s des eucaryotes';1;0
+e;6298814;'sous-unités alpha des canaux potassiques de grande conductance activés par le calcium';1;0
+e;6307269;'grande veine du coeur';1;0
+e;6309811;'techniques dentaires à grande vitesse';1;0
+e;6312403;'grande sous-unité du ribosome des archéobactéries';1;0
+e;6312912;'canaux potassiques de grande conductance activés par le calcium';1;0
+e;6323448;'grande sous-unité du ribosome archéen';1;0
+e;6331883;'grande salsepareille';1;0
+e;6334963;'grande sous-unité ribosomique des archéobactéries';1;0
+e;6339373;'grande salamandre';1;0
+e;6340583;'grande sirène';1;0
+e;6345213;'grande sous-unité 60s du ribosome';1;0
+e;6348145;'méné à grande bouche';1;0
+e;6351657;'grande lèvre de la vulve';1;0
+e;6357287;'grande sous-unité ribosomique 60s des eucaryotes';1;0
+e;6357216;'grande musaraigne';1;0
+e;6360938;'canaux potassiques calcium sensibles de grande conductance';1;0
+e;6362333;'grande sous-unité du ribosome des archées';1;0
+e;6366515;'chabot à grande voile';1;0
+e;6369058;'grande douve du foie de mouton';1;0
+e;6389349;'grande sous-unité ribosomique des eucaryotes';1;0
+e;6392764;'canaux potassiques dépendants du calcium de grande conductance';1;0
+e;6393806;'grande ouverture ischiatique';1;0
+e;6398053;'grande courbure du corps gastrique';1;0
+e;6408927;'plie à grande bouche';1;0
+e;6414984;'grande caroncule du duodénum';1;0
+e;6417452;'grande sous-unité ribosomique des archées';1;0
+e;6421236;'grande sous-unité 60s du ribosome des eucaryotes';1;0
+e;6420950;'grande sous-unité du ribosome des eucaryotes';1;0
+e;6421626;'hêtre à grande feuille';1;0
+e;12156247;'mesure de grande marguerite ac igg4';1;0
+e;12156245;'détermination de la présence de grande marguerite ac ige classification rast';1;0
+e;12156243;'mesure de grande marguerite ac ige';1;0
+e;6392670;'grande cellule alvéolaire';1;0
+e;9097;'Black Hawk';1;50
+e;11577;'Dahlak';1;50
+e;6377309;'grande sous-unité du ribosome des bactéries';1;0
+e;6368225;'grande sous-unité ribosomique 60s';1;0
+e;6416852;'grande sous-unité ribosomale';1;0
+e;13629938;'déplacements à grande vitesse';777;0
+e;13629941;'grande vitesse ferroviaire en Italie';777;0
+e;13641529;'grande rebeyne';777;0
+e;6345800;'canal potassique de grande conductance activé par le calcium';1;0
+e;6343080;'ulcère gastrique de la grande courbure';1;0
+e;6295822;'lipome colique de grande taille';1;0
+e;14165356;'plus grande zone volcanique de Taïwan';777;0
+e;14453332;'dépôt au greffe du tribunal de grande instance';1;0
+e;14482690;'La plus grande grille sans case noire';777;0
+e;9716;'colobe guéréza';1;50
+e;14540630;'sortie de piste à grande vitesse';1;0
+e;14584313;'la grande ceinture';777;0
+e;14590335;'pays de grande gabelle';777;0
+e;14604521;'grande baume';1;0
+e;14606317;'grande diversité';1;0
+e;14606575;'grande pente';1;0
+e;14609434;'grande quantité d'eau';1;0
+e;14655889;'une grande partie des';1;0
+e;14655890;'une grande partie de';1;0
+e;14677773;'la plus grande partie';1;0
+e;14717628;'grande profondeur';1;0
+e;14763837;'sentier de grande randonnée 56';777;0
+e;15910114;'électrons accélérés à grande vitesse';1;0
+e;400018;'rousseauiste';1;50
+e;14869805;'une grande variété de types';777;0
+e;6330268;'avec la grossesse actuelle, avec accouchement grande multiparité';1;0
+e;15404558;'grande brasserie moderne';777;0
+e;15166659;'grande accélération';777;0
+e;15192395;'grande race';777;0
+e;15424494;'grande couturière';1;0
+e;17689;'Toamasina';1;50
+e;6370628;'empoisonnement par la chélidoine grande éclaire';1;0
+e;10676;'catholicisme social';1;50
+e;15684778;'monuments culturels de grande importance';777;0
+e;15787605;'monument commémoratif de la grande bataille de Hwangsan';777;0
+e;15910113;'faisceau d'électrons accélérés à grande vitesse';1;0
+e;31653;'Christian X';1;50
+e;16389;'vroum';1;50
+e;16067145;'`Abd al-Muttalib';777;0
+e;228729;'Invincible Armada';666;4
+e;16102474;'Richard Coeur de Lion au Trifels';777;0
+e;16103360;'St Edmund's Bury';777;0
+e;16104802;'Franz Anton Hermann';777;0
+e;33;'aliboron';1;50
+e;16108938;'préposé général';777;0
+e;1127;'Bélisaire';1;50
+e;1237;'seille';1;50
+e;1506;'battude';1;50
+e;1279;'enhydre';1;50
+e;1616;'Samsun';1;50
+e;1610;'pépiement';1;58
+e;2243;'Trinidad';1;54
+e;2686;'ténacité';1;110
+e;2866;'granularité';1;50
+e;16127286;'parc national des Écrins';777;0
+e;16126169;'Mergenthaler Linotype Company';777;0
+e;4525;'incitatif';1;50
+e;6599;'Mazar-i Charif';1;50
+e;7678;'Zapotèques';1;52
+e;15400;'fraîchement';1;62
+e;18297;'volubile';1;96
+e;18913;'niquedouille';1;54
+e;18941;'art scandinave';1;50
+e;26476;'Ayyubides';1;50
+e;16156304;'grande cascade';777;0
+e;31275;'ringardise';1;50
+e;16156619;'mata-toros';777;0
+e;41061;'acerbité';1;50
+e;51862;'Hyménomycètes';1;50
+e;53283;'affabilité';1;90
+e;16237445;'La production de café dans les Philippines';777;0
+e;16241612;'sentier de grande randonnée 13';777;0
+e;58321;'malhonnêteté';1;130
+e;60273;'sextupler';1;50
+e;62887;'La Grande Mademoiselle';1;50
+e;16259651;'Perruche à collier';777;0
+e;66289;'tarissement';1;68
+e;79977;'supergéante';1;50
+e;16295316;'grande occultation chiite';777;0
+e;88936;'potentialiser';1;50
+e;173634;'cheminée de fée';1;2
+e;173642;'demoiselle coiffée';1;50
+e;139471;'pyramide';1;960
+e;15318;'hallebreda';1;50
+e;110155;'se durcir';1;50
+e;114126;'dépeupler';1;80
+e;124969;'Santa Anna';1;52
+e;125491;'roidir';1;52
+e;128212;'néolibéralisme';1;58
+e;144782;'Free Jazz';1;50
+e;177844;'acrisie';1;50
+e;179783;'secteur secondaire';1;50
+e;230206;'oueb';666;50
+e;16327331;'grande parade';777;0
+e;227839;'EPC';1;58
+e;336198;'archipel arctique';1;50
+e;16391101;'grande Baie du Nord';777;0
+e;16491524;'Bruno Martini';777;0
+e;232461;'canton de Vaud';666;28
+e;16565416;'CUNY';777;0
+e;1847748;'veine saphène antérieure de Loder';1;0
+e;1850227;'facteur Prower';1;0
+e;1851505;'oscillations du rythme cardiaque ftal';1;0
+e;1874686;'perdre la respiration';1;0
+e;2358351;'remorfondre';1;0
+e;2359592;'grenouille arboricole';1;0
+e;2374267;'gavioli';1;0
+e;5724193;'grande médaille de la francophonie';777;0
+e;6441944;'tumeur secondaire de la grande courbure de l'estomac';1;0
+e;6441754;'grande outarde de l'inde';1;0
+e;6438450;'tumeur maligne de la grande courbure de l'estomac';1;0
+e;6438219;'carcinome in situ de la grande courbure de l'estomac';1;0
+e;6438075;'tumeur métastatique de la grande courbure de l'estomac';1;0
+e;6436675;'anémie hémolytique grande affinité pour l'haptène';1;0
+e;6430870;'dérivation ventriculaire vers la grande citerne';1;0
+e;113669;'Russie';1;1376
+e;6294533;'sous-unités bêta des canaux potassiques de grande conductance activés par le calcium';1;0
+e;6299543;'grande convulsion';1;0
+e;6306205;'techniques dentaires grande vitesse';1;0
+e;6307158;'sous-unités alpha du canal potassique de grande conductance activé par le calcium';1;0
+e;6322378;'grande cellule non encochée';1;0
+e;6330495;'hématémèse de grande taille';1;0
+e;6330208;'grande cellule lutéale';1;0
+e;6352315;'hémitriptère à grande bouche';1;0
+e;6377781;'grande cavité sigmoïde du cubitus';1;0
+e;6389392;'rougeur de la grande lèvre';1;0
+e;6401368;'purulence de la grande lèvre';1;0
+e;14677913;'grande surface alimentaire';1;4
+e;12090349;'(grande marquerite+pissenlit+plantain lancéolé+chénopode blanc+solidage) ac ige';1;0
+e;12979338;'données non labellisées à grande échelle';1;0
+e;13541896;'grande influence';1;0
+e;11317156;'grande-allemande';1;0
+e;14535472;'aile à grande vitesse';777;0
+e;14558075;'grande braderie';1;0
+e;14571094;'fermer sa grande gueule';1;0
+e;14670846;'production à grande échelle';1;52
+e;14670847;'produire à grande échelle';1;48
+e;225087;'Shinkansen';666;50
+e;15034902;'aussi grande que l'on voudra';1;0
+e;223360;'rafle du Vel' d'Hiv';666;50
+e;3136;'bassette';1;50
+e;3578;'inlandsis';1;56
+e;16160695;'se marier en grande pompe';1;0
+e;37018;'autofinancer';1;50
+e;37445;'Ragnarök';1;50
+e;111825;'alfange';1;50
+e;111673;'moissonnage';1;50
+e;6443664;'noeud lymphatique de la grande courbure de l'estomac';1;0
+e;6431565;'non précisée, tumeur maligne de la grande courbure de l'estomac';1;0
+e;6425727;'grande veine cérébrale de galien';1;0
+e;10674627;'grande vitesse ferroviaire en France';777;0
+e;10675892;'jeu de grande stratégie';777;0
+e;6329354;'grande chauve-souris brune';1;0
+e;6370217;'grande plaie ouverte';1;0
+e;6409586;'grande taille de polype gastrique';1;0
+e;12090350;'(grande marquerite+pissenlit+plantain lancéolé+chénopode blanc+solidage) ac ige classification rast';1;0
+e;6301986;'carcinomes à grande cellule';1;0
+e;6350054;'avec la grossesse actuelle, antepartum grande multiparité';1;0
+e;6321852;'avec la grossesse actuelle, grande multiparité';1;0
+e;6306203;'avec la grossesse actuelle, épisode de soins non précisé grande multiparité';1;0
+e;12097488;'grande marguerite ac igg4';1;0
+e;12097487;'grande marguerite ac ige classification rast';1;0
+e;12097486;'grande marguerite ac ige';1;0
+e;12914842;'grande vitesse ferroviaire en Chine';777;0
+e;285070;'bataille de Crécy';666;50
+e;259785;'bataille d'Actium';666;50
+e;4288;'camoufler';1;84
+e;80762;'pissoir';1;56
+e;5688996;'grande raie';777;0
+e;6442188;'grande circonférence de l'iris';1;0
+e;6441561;'grande courbure de l'antre';1;0
+e;9972600;'grande-principauté';1;0
+e;13519781;'ligne à grande vitesse Pékin-Tianjin';1;0
+e;223508;'brasucade';666;50
+e;248359;'table de travail';1;50
+e;5809050;'grande unification';777;0
+e;5808547;'Une grande excursion';777;0
+e;5801559;'grande igname';777;0
+e;6444350;'grande courbure de l'estomac';1;0
+e;6443232;'grande sous-unité du ribosome d'eucaryote';1;0
+e;10989488;'grande voile d'étai';777;0
+e;11162778;'collégiale Saint-Pierre';777;0
+e;11768674;'grande ordonnance de 1357';777;0
+e;12109912;'grande marguerite ag';1;0
+e;12109281;'(grande marquerite+pissenlit+plantain lancéolé+chénopode blanc+solidage) ag';1;0
+e;82147;'rond';1;1016
+e;247418;'grande barrière de corail';1;10
+e;5574250;'usinage à grande vitesse';777;0
+e;5804952;'grande famine';777;0
+e;5815074;'automoteur à grande capacité';777;0
+e;6444832;'tumeur bénigne de la grande courbure de l'estomac';1;0
+e;9958807;'grande mosquée de Niamey';777;0
+e;9989397;'tumeur maligne de la grande courbure de l'estomac non précisée';1;0
+e;10600325;'Dans la peau d'une grande';777;0
+e;10599474;'Établissement public du parc et de la grande halle de la Villette';777;0
+e;10597716;'réacteur de grande puissance à tube de force';777;0
+e;10596377;'ligne à grande vitesse de Galice';777;0
+e;10596376;'ligne à grande vitesse Olmedo - Zamora - Santiago de Compostela';777;0
+e;10969594;'grande fresque de la gare de Lyon';777;0
+e;10990804;'grande Sauldre';777;0
+e;11029971;'artillerie lourde à grande puissance';777;0
+e;11130164;'bateau-trésor';777;0
+e;13032357;'turboréacteur double flux avec grande soufflante';1;0
+e;11866;'porte-avions';1;190
+e;15456658;'d'une grande facilité d'utilisation';1;0
+e;15309425;'d'une grande force de persuasion';1;0
+e;15356999;'d'une grande longévité';1;0
+e;15329357;'d'une grande originalité';1;0
+e;15487696;'d'une grande portée';1;0
+e;15416335;'dans la plus grande discrétion';1;0
+e;15528415;'dans ma plus grande forme';1;0
+e;15395221;'dans un état de grande agitation';1;0
+e;15529264;'de grande capacité';1;0
+e;15210767;'de grande classe';1;0
+e;15250962;'de grande consommation';1;0
+e;15685410;'de grande diffusion';1;0
+e;15265198;'de grande dimension';1;0
+e;15413518;'de grande maison';1;0
+e;15262363;'de moins en moins grande';1;0
+e;15247739;'de plus en plus grande';1;0
+e;15771473;'de très grande portée';1;0
+e;15240452;'donner une grande gifle à';1;0
+e;15236145;'en grande conversation';1;0
+e;15210772;'en grande cuisine';1;0
+e;15460767;'en grande détresse';1;0
+e;15282889;'en grande surface';1;0
+e;15210770;'en grande vitesse';1;0
+e;5580601;'grande lobélie';777;0
+e;5818715;'grande mosaïque de Lillebonne';777;0
+e;5817872;'grande herbe à poux';777;0
+e;5817244;'grande déchirure';777;0
+e;5815181;'intégration à très grande échelle';777;0
+e;5815072;'autorail à grande capacité';777;0
+e;9967140;'grande veine mésentérique';777;0
+e;10003800;'La grande année';777;0
+e;9994721;'grande récession';777;0
+e;10963218;'Le Mystère de la grande barrière';777;0
+e;10915995;'grande coalition';777;0
+e;11028593;'zone de grande concentration d'industries de hautes technologies';1;0
+e;11057105;'grande synascidie-urne';777;0
+e;11781349;'attentat de la grande mosquée de Québec';777;0
+e;12313540;'grande île de la Terre de Feu';777;0
+e;12313393;'grande plaine du Nord de la Chine';777;0
+e;212464;'Tim Burton';666;68
+e;15882813;'circuit de grande diffusion';1;0
+e;15323245;'circuit de grande distribution';1;0
+e;15217981;'client grande entreprise';1;0
+e;1832965;'de la grande courbure encoche spasmodique';1;0
+e;1835031;'grande veine mésaraïque';1;0
+e;5568351;'grande performance de masse gymnastique et artistique Arirang';777;0
+e;5634834;'grande claveline';777;0
+e;5827573;'grande capucine';777;0
+e;5855935;'grande comète';777;0
+e;5897351;'grande famine de 1315-1317';777;0
+e;5897242;'grande famine de 1709';777;0
+e;5897187;'grande famine en Chine';777;0
+e;5897165;'grande famine de 1693-1694';777;0
+e;5909896;'grande pervenche';777;0
+e;5979192;'Barbe la grande martyre';777;0
+e;8069966;'grande mosquée d'al-Nuri';1;0
+e;9951004;'grande guerre d'Afrique/africaine';777;0
+e;9950735;'plus grande gare d'Europe';777;0
+e;9949956;'grande révolte arabe de 1936-1939 en Palestine mandataire';777;0
+e;9951742;'grande boucle';777;0
+e;10001662;'ligne de la grande ceinture de Paris';777;0
+e;10961090;'grande guerre turque';777;0
+e;10955239;'grand ordre du Roi Tomislav avec cordon et grande étoile du matin';777;0
+e;10921666;'sentier de grande randonnée 7';777;0
+e;10921663;'sentier de grande randonnée 533';777;0
+e;10921660;'sentier de grande randonnée 532';777;0
+e;10921657;'sentier de grande randonnée 531';777;0
+e;10921648;'sentier de grande randonnée 53';777;0
+e;10921645;'sentier de grande randonnée 5';777;0
+e;10921314;'grande rue de la Croix-Rousse';777;0
+e;11028594;'zone de grande concentration d'industries';1;0
+e;11031825;'grande agglo';777;0
+e;11354359;'grande palette de Hiérakonpolis';777;0
+e;11783993;'grande grève des mineurs d'Anzin';777;0
+e;12202023;'(grande marquerite+pissenlit+plantain lancéolé+chénopode blanc+solidage)';1;0
+e;12900597;'grande fête internationale de la mer, des bateaux et des marins';1;0
+e;15305561;'avec la plus grande compassion';1;0
+e;15325123;'avec la plus grande prévenance';1;0
+e;15483911;'belle / bonne / grande / excellente / formidable / super occasion';1;0
+e;15483909;'belle / bonne / grande / excellente / formidable / super opportunité';1;0
+e;15396816;'bien de grande consommation';1;0
+e;15389659;'c'est d'une grande utilité';1;0
+e;15348042;'c'est une grande gueule, c'est une personne qui parle plus qu'elle n'agit';1;0
+e;6397421;'carcinome intra-épithélial de la grande courbure gastrique';1;0
+e;15368051;'ce n'est pas une trop grande déception';1;0
+e;2380445;'grande nasse';1;0
+e;2406307;'grande lingue';1;0
+e;2414349;'grande lysimaque';1;0
+e;5621222;'Fourches de la grande Justice de Paris';777;0
+e;5815667;'rame automotrice à grande vitesse';1;0
+e;5874364;'grande grue des cavernes';777;0
+e;5855445;'grande procession météorique de 1913';777;0
+e;5882419;'grande chaîne de la vie';777;0
+e;5897475;'Les années de grande faim';777;0
+e;6449203;'ganglion lymphatique de la grande courbure de l'estomac';1;0
+e;6526166;'groupe des virus bahia grande';1;0
+e;10960085;'sentier de grande randonnée 14';777;0
+e;10956312;'grande prostituée';777;0
+e;10993803;'à moyenne et grande distance';777;0
+e;11901324;'grande mosquée de Lyon';777;0
+e;12019358;'grande tache blanche';777;0
+e;15396820;'article de grande consommation';1;0
+e;15298637;'attendu avec une grande impatience : attendu avec fébrilité';1;0
+e;1835026;'grande extraction du siège';1;0
+e;1835029;'grande veine azygos';1;0
+e;2391806;'grande natice';1;0
+e;2396358;'grande cigüe';1;0
+e;5894441;'grande stagnation';777;0
+e;5954430;'la grande saperde';777;0
+e;9938287;'1 grande classique';777;0
+e;11027092;'sentier de grande randonnée 1';777;0
+e;11347785;'grande révolte illyrienne';777;0
+e;11409364;'grande queue-de-cheval';777;0
+e;11409363;'grande prêle';777;0
+e;11824955;'grande synagogue';777;0
+e;11825560;'grande comète de 1577';777;0
+e;11925351;'grande berce';777;0
+e;12079282;'grande aunée';1;0
+e;3298201;'Grande Table';777;0
+e;3183277;'Grande Fougère';777;0
+e;388741;'à large échelle';1;50
+e;15276626;'éternel, éternelle';1;0
+e;203535;'Méditerranéen';1;50
+e;82864;'garderie';1;148
+e;15231590;'bien jeune fille';1;0
+e;137932;'s'allumer';1;50
+e;2581184;'bout d'chou';1;0
+e;197117;'bout de chou';1;50
+e;15774838;'compiler [qch]';1;0
+e;15774839;'compiler quelque chose';1;0
+e;350745;'en grand uniforme';1;50
+e;15203260;'haut de taille';1;0
+e;15240515;'marguerite des prés';1;0
+e;3183467;'visage allongé';1;0
+e;388242;'à grand renfort de';1;50
+e;239145;'à haute dose';1;50
+e;15991289;'à la douzaine';1;0
+e;28939;'à tire-larigot';1;52
+e;60162;'abondamment';1;94
+e;15752682;'Nous prenons part à votre grande douleur.';1;0
+e;15486871;'On lui a attribué une plus grande part de responsabilité qu'à tous les autres.';1;0
+e;15348040;'Sa grande gueule lui attirait souvent de sérieux ennuis.';1;0
+e;15229829;'Ses cheveux sont sa grande fierté.';1;0
+e;15572619;'Son histoire est en grande partie vraie.';1;0
+e;15252780;'année de grande sécheresse';1;0
+e;15333821;'de haute stature';1;0
+e;346726;'de haute taille';1;50
+e;15235238;'sécher l'école';1;0
+e;15471328;'la miss';1;0
+e;4314275;'tribunal pénal';777;0
+e;15636638;'secteur de la distribution';1;0
+e;260638;'ma biche';1;50
+e;15308147;'la Première Guerre mondiale';1;0
+e;26327;'dans son ensemble';1;50
+e;15238291;'gamin, gamine';1;0
+e;1834580;'grande veine de Galien';1;0
+e;1835027;'grande faux du péritoine';1;0
+e;1835032;'grande veine sagittale du foie';1;0
+e;1835030;'grande veine coronaire';1;0
+e;1835028;'grande rotation instrumentale';1;0
+e;2372205;'grande violette';1;0
+e;2435349;'grande grive';1;0
+e;2438199;'grande marjolaine';1;0
+e;2450968;'basset griffon vendéen de grande taille';1;0
+e;2467591;'grande sériole';1;0
+e;2474557;'grande lamproie';1;0
+e;5989496;'grande inondation de mélasse de Boston';777;0
+e;6006691;'grande oreille';777;0
+e;6066374;'camion citerne grande capacité';777;0
+e;6017083;'grande commanderie des Vieux-Joncs';777;0
+e;6448384;'bébé d'exceptionnellement grande taille liée à une longue gestation';1;0
+e;10039635;'la grande beauté';777;0
+e;10039634;'La grande bellezza';777;0
+e;10252751;'grande épouse royale';777;0
+e;10849648;'grande enquête sur la noblesse';777;0
+e;10851823;'grande synagogue de Marseille';777;0
+e;10851716;'grande synagogue de Lyon';777;0
+e;10851713;'grande synagogue de Bordeaux';777;0
+e;10851705;'grande synagogue de la Paix';777;0
+e;10930315;'automotrice à grande vitesse';777;0
+e;11698205;'grande serre';1;0
+e;12033453;'sentier de grande randonnée 3';777;0
+e;12049602;'gestionnaire de grande fortune';777;0
+e;12079470;'interférométrie à très grande base';1;0
+e;12079287;'grande roue spatiale';1;0
+e;12079286;'grande restauration';1;0
+e;12079285;'grande mulette';1;0
+e;12079283;'grande compagnie';1;0
+e;12078784;'ensemble routier de grande capacité';1;0
+e;12301273;'grande migration afro-américaine';777;0
+e;12863408;'grande muraille de sable';777;0
+e;12880471;'Casimir mène la grande vie';777;0
+e;13449168;'La plus grande aventure de Tarzan';777;0
+e;15471481;'Une grande découverte';777;0
+e;22017;'nombre de';1;50
+e;120507;'pléthore';1;94
+e;2247304;'plus de';1;0
+e;50825;'pouilleux';1;84
+e;56335;'profusion';1;96
+e;117265;'regorger';1;54
+e;16059355;'un amas de';1;0
+e;16059356;'un amoncellement de';1;0
+e;16059357;'un arsenal de';1;0
+e;15267336;'un déluge de';1;0
+e;16059375;'un essaim de';1;0
+e;16059376;'un faisceau de';1;0
+e;16059377;'un fatras de';1;0
+e;16059379;'un fleuve de';1;0
+e;16059381;'un flot de';1;0
+e;16059383;'un flux de';1;0
+e;15232327;'un luxe de';1;0
+e;16059389;'un monceau de';1;0
+e;16059390;'un monde de';1;0
+e;16059392;'un océan de';1;0
+e;16059398;'un peuple de';1;0
+e;16059408;'un ruisseau de';1;0
+e;16059411;'un stock de';1;0
+e;118732;'un tas de';1;50
+e;16059412;'un tissu de';1;0
+e;15256079;'un torrent de';1;0
+e;15241263;'une abondance de';1;0
+e;16059429;'une accumulation de';1;0
+e;16059434;'une armada de';1;0
+e;16059435;'une armée de';1;0
+e;16059437;'une avalanche de';1;0
+e;16059439;'une bardée de';1;0
+e;16059447;'une bordée de';1;0
+e;15317352;'une brassée de';1;0
+e;16059456;'une charibotée de';1;0
+e;16059457;'une charretée de';1;0
+e;16059458;'une charrette de';1;0
+e;16059460;'une chiée de';1;0
+e;16059463;'une collection de';1;0
+e;16059464;'une craquée de';1;0
+e;16059473;'une flambée de';1;0
+e;15357322;'une flopée de';1;0
+e;15383627;'une foison de';1;0
+e;16059475;'une forêt de';1;0
+e;16059477;'une fourmilière de';1;0
+e;16059486;'une gerbe de';1;0
+e;16059491;'une grappe de';1;0
+e;16059492;'une grêle de';1;0
+e;15322680;'une infinité de';1;0
+e;15372416;'une kyrielle de';1;0
+e;16059503;'une légion de';1;0
+e;16059508;'une marée de';1;0
+e;15230924;'une masse de';1;0
+e;16059510;'une mer de';1;0
+e;16059511;'une meute de';1;0
+e;16059513;'une mine de';1;0
+e;16059515;'une montagne de';1;0
+e;16059516;'une mosaïque de';1;0
+e;15261383;'une multitude de';1;0
+e;15273900;'une nuée de';1;0
+e;16059525;'une orgie de';1;0
+e;16059533;'une pelletée de';1;0
+e;16059534;'une pétée de';1;0
+e;16059536;'une pile de';1;0
+e;16059538;'une platée de';1;0
+e;16059539;'une plâtrée de';1;0
+e;16059540;'une pléiade de';1;0
+e;15200581;'une pluie de';1;0
+e;16059546;'une profusion de';1;0
+e;15228878;'une quantité de';1;0
+e;15807576;'une ribambelle de';1;0
+e;16059551;'une richesse de';1;0
+e;16059553;'une saignée de';1;0
+e;16059555;'une secouée de';1;0
+e;16059561;'une tapée de';1;0
+e;16059564;'une tinée de';1;0
+e;16059567;'une tonne de';1;0
+e;16059573;'une tripotée de';1;0
+e;15265539;'une troupe de';1;0
+e;16059574;'une vague de';1;0
+e;52022;'volatilité';1;52
+e;15397574;'Les gens vivent cela comme une grande occasion.';1;0
+e;15937837;'Mme Jermyn s'était prise d'une grande affection pour lui.';1;0
+e;16278835;'Le choc de la grande grève';777;0
+e;1833582;'face infratemporale de la grande aile de l'os sphénoïde';1;0
+e;1835025;'grande corne du cartilage thyroïde';1;0
+e;2371994;'grande argentine';1;0
+e;2415792;'grande noix';1;0
+e;2465104;'grande euphorbe des garrigues';1;0
+e;5944792;'grande écurie';777;0
+e;5992371;'mannequin grande taille';777;0
+e;5992353;'grande cape en peau de phalanger';777;0
+e;6009715;'grande quantité de poussière';1;0
+e;10043607;'grande multiparité avec la grossesse actuelle';1;0
+e;10043608;'épisode de soins non précisé grande multiparité avec la grossesse actuelle';1;0
+e;10043609;'grande multiparité avec la grossesse actuelle avec accouchement';1;0
+e;10043606;'avec accouchement, grande multiparité avec la grossesse actuelle';1;0
+e;10822491;'sentier de grande randonnée de pays';777;0
+e;10849149;'liste d'enseignes de la grande distribution en Suisse';777;0
+e;10849148;'liste d'enseignes de la grande distribution en Albanie';777;0
+e;10849145;'liste d'enseignes de la grande distribution au Royaume-Uni';777;0
+e;10849144;'liste non exhaustive d'enseignes de la grande distribution en Pologne';777;0
+e;10849143;'liste d'enseignes de la grande distribution aux Pays-Bas';777;0
+e;10849135;'liste d'enseignes de la grande distribution en Italie';777;0
+e;10849134;'liste d'enseignes de la grande distribution en France';777;0
+e;10849132;'liste d'enseignes de la grande distribution en Croatie';777;0
+e;10849131;'liste d'enseignes de la grande distribution en Belgique';777;0
+e;10849129;'liste d'enseignes de la grande distribution en Allemagne';777;0
+e;10849122;'liste d'enseignes de la grande distribution en Europe';777;0
+e;10849117;'liste d'enseignes de la grande distribution en Amérique du Sud';777;0
+e;10849116;'liste d'enseignes de la grande distribution en Amérique du Nord';777;0
+e;10849114;'liste d'enseignes de la grande distribution en Afrique';777;0
+e;10936442;'éolienne de très grande puissance';1;0
+e;11017877;'la grande mosquée';777;0
+e;11017876;'grande mosquée de Paris';777;0
+e;11094839;'sentier de grande randonnée 30';777;0
+e;11095034;'grande unité';777;0
+e;11693230;'grande silhouette non articulée';1;0
+e;13426582;'grande quantité de liquide répandu';1;0
+e;12050105;'analyser des données à grande échelle dans le domaine de la santé';1;0
+e;12863000;'approche grande pente';1;0
+e;14677937;'la plus grande distinction';1;2
+e;16037171;'une pâtée de';1;0
+e;15018189;'La grande soeur de Chico';777;0
+e;15684779;'Monuments culturels de grande importance en Serbie';777;0
+e;2239797;'pas mal de';1;0
+e;15500039;'une volée de coups';1;0
+e;60512;'déterré';1;104
+e;145727;'élevé';1;192
+e;147923;'émanche';1;50
+e;69618;'être sur des charbons ardents';1;50
+e;16045340;'femme de confiance';1;0
+e;95807;'forcené';1;110
+e;128752;'génois';1;56
+e;28356;'gondole';1;90
+e;63406;'gratte-ciel';1;152
+e;16046655;'hors tout';1;0
+e;178401;'hyperlaxité';1;52
+e;202751;'le gros de';1;50
+e;87702;'mince';1;414
+e;66517;'monstre';1;744
+e;16052646;'mou comme un plat de nouilles';1;0
+e;2538036;'sérieux comme un pape';1;0
+e;166397;'serviette de bain';1;94
+e;16058130;'sur une grde échelle';1;0
+e;171728;'tant de';1;50
+e;11070;'temps fort';1;50
+e;2297923;'tout plein de';1;0
+e;2480637;'black-bass à grande bouche';1;0
+e;5558971;'caissier d'une grande surface';1;0
+e;6011402;'ère de grande unification';777;0
+e;6533822;'grande courbure gastrique de l'estomac';1;0
+e;10043605;'antepartum grande multiparité avec la grossesse actuelle';1;0
+e;10829677;'grande pelouse et mare aux tortues';777;0
+e;10849127;'les enseignes de la grande distribution au Maroc';777;0
+e;10849126;'Liste d'enseignes de la grande distribution au Maroc';777;0
+e;11237167;'rayonnement sortant à grande longueur d'onde';777;0
+e;11504154;'ligne à grande vitesse de Chênée à Hergenrath';777;0
+e;11504151;'ligne à grande vitesse de Louvain à Ans';777;0
+e;11504148;'ligne à grande vitesse de Hal à la frontière française';777;0
+e;135938;'hallebarde';1;60
+e;27982;'profondeur';1;180
+e;129732;'puissant';1;258
+e;16032908;'regarder comme un fils';1;0
+e;126158;'ultrasensible';1;50
+e;16033006;'viser haut';1;0
+e;1781742;'suprarénal';1;0
+e;174206;'tonsillaire';1;50
+e;229010;'aux cent coups';1;50
+e;16040535;'avoir un mal de chien avec';1;0
+e;196913;'beaucoup de';1;50
+e;16040721;'bien de';1;0
+e;340452;'bruit d'enfer';1;50
+e;340674;'buveur de sang';1;54
+e;54328;'cd';1;84
+e;92051;'cd-rom';1;60
+e;141583;'d'enfer';1;54
+e;15363640;'davantage de';1;0
+e;15363641;'davantage que';1;0
+e;181955;'de haut vol';1;50
+e;346723;'de haute lignée';1;50
+e;161387;'de neige';1;58
+e;16043361;'des kilos de';1;0
+e;15478007;'des masses de';1;0
+e;198629;'des mille et des cents';1;50
+e;15324133;'un chapelet de';1;0
+e;16059448;'une botte de';1;0
+e;16059478;'une fournée de';1;0
+e;16059518;'une myriade de';1;0
+e;5553100;'polymères de grande consommation';777;0
+e;5553099;'polymères de grande diffusion';777;0
+e;5540523;'Yarará grande';777;0
+e;10055188;'La Terre de la grande promesse';777;0
+e;10363710;'grande synagogue de la Victoire';777;0
+e;10363708;'grande synagogue de Paris';777;0
+e;10775836;'la grande vallée';777;0
+e;11247853;'sentier de grande randonnée 57';777;0
+e;11247477;'grande sauterelle verte';777;0
+e;11363784;'grande utriculaire';777;0
+e;11363509;'grande mosquée d'Ispahan';777;0
+e;11577382;'planètes de grande taille';1;0
+e;11577381;'détection de planètes de grande taille';1;0
+e;11590393;'grande halle';777;0
+e;11933784;'potentiels d'unité motrice isolés de grande amplitude';1;0
+e;11955969;'jouir d'une grande fortune';1;0
+e;12054255;'grande crevette nettoyeuse';777;0
+e;2219603;'macabrement';1;0
+e;5570402;'magnocellulaire';1;0
+e;93589;'claymore';1;50
+e;20274;'écorché';1;54
+e;16032620;'faire froid dans le dos à';1;0
+e;2135;'hypernerveux';1;50
+e;250866;'drap de plage';1;2
+e;69699;'boulimie';1;168
+e;4070;'conflagration';1;52
+e;16040338;'au compas';1;0
+e;6534720;'grande ouverture ischiatique gauche';1;0
+e;6534672;'grande incisure ischiatique droite';1;0
+e;6534671;'grande incisure ischiatique gauche';1;0
+e;10062732;'Sur la piste de la grande caravane';777;0
+e;10352555;'liste d'enseignes de la grande distribution';777;0
+e;10347348;'tribunal de grande instance de Paris';777;0
+e;10821606;'recueil de données à grande échelle';1;0
+e;11363724;'grande faille est-africaine';777;0
+e;11391883;'imagerie à grande gamme dynamique';777;0
+e;3128;'aveuglant';1;58
+e;16032390;'avoir froid dans le dos';1;0
+e;185882;'crever les yeux';1;50
+e;16032501;'débordant de';1;0
+e;131046;'déchaîné';1;98
+e;119392;'douloureusement';1;94
+e;129045;'apert';1;52
+e;16050561;'la multitude';1;0
+e;10047569;'grande peur';777;0
+e;10064336;'Jerry la grande gueule';777;0
+e;11376755;'grande sauterelle';1;0
+e;11382875;'temple de la grande compassion';777;0
+e;13405105;'grande chaleur de midi';1;0
+e;102355;'ample';1;106
+e;10083239;'grande exposition universelle des travaux de l'industrie de toutes les nations';777;0
+e;10083204;'grande exposition industrielle de Berlin';777;0
+e;10350690;'agénésie de la grande aile de l'os sphénoïde';1;0
+e;11004702;'sentier de grande randonnée 10';777;0
+e;11004704;'sentier de grande randonnée 11';777;0
+e;11254283;'période de grande chaleur';1;0
+e;11254196;'grande marche du retour';777;0
+e;11305584;'grande lèvre vulvaire';1;0
+e;11610913;'sentier de grande randonnée 121';777;0
+e;11968925;'sentier de grande randonnée 124';777;0
+e;12283263;'Comme une grande';777;0
+e;62762;'angélique';1;72
+e;229198;'sur des charbons ardents';1;50
+e;10509173;'la grande prairie';777;0
+e;11161456;'la grande encyclopédie';777;0
+e;11175355;'nouvelles gares sur lignes à grande vitesse';777;0
+e;11176062;'transport express régional à grande vitesse';777;0
+e;15991390;'à tomber à genoux';1;0
+e;6538872;'grande corne gauche';1;0
+e;6538862;'grande circonférence de l'iris gauche';1;0
+e;6538813;'partie temporale de la grande aile gauche du sphénoïde';1;0
+e;6538805;'grande aile du sphénoïde droit';1;0
+e;6538405;'grande corne droite';1;0
+e;6537940;'face de la grande aile du sphénoïde droit';1;0
+e;6537939;'face orbitale de la grande aile du sphénoïde gauche';1;0
+e;6537937;'face maxillaire de la grande aile gauche du sphénoïde';1;0
+e;6537936;'face maxillaire de la grande aile droite du sphénoïde';1;0
+e;6537934;'face temporale de la grande aile gauche du sphénoïde';1;0
+e;6537896;'partie temporale de la grande aile droite du sphénoïde';1;0
+e;6537895;'partie temporale de la grande aile du sphénoïde';1;0
+e;6537892;'partie orbitale de la grande aile du sphénoïde gauche';1;0
+e;6537890;'partie orbitale de la grande aile du sphénoïde';1;0
+e;6537813;'grande aile du sphénoïde gauche';1;0
+e;6537255;'grande fosse supraclaviculaire gauche';1;0
+e;10177308;'L'amour est une grande aventure';777;0
+e;10175882;'sentier de grande randonnée 51';777;0
+e;10516556;'enseigne du secteur de la grande distribution';1;0
+e;11004866;'grande outarde indienne';777;0
+e;11181974;'système de train à grande vitesse';1;0
+e;91908;'abondance';1;368
+e;80859;'affectif';1;90
+e;15214755;'de long';1;0
+e;46195;'sans fin';1;120
+e;388941;'à toutes les sauces';1;50
+e;249901;'industrie lourde';666;50
+e;113941;'à tout bout de champ';1;54
+e;15460237;'mon grand';1;0
+e;109386;'sans cesse';1;72
+e;95550;'gamine';1;166
+e;2371962;'petit monsieur';1;0
+e;15683829;'ma grande';1;0
+e;369913;'petit bonhomme';1;50
+e;15021133;'Grande ceinture';1;0
+e;258984;'petit homme';1;6
+e;15394806;'la Grande Guerre';1;0
+e;139179;'jardin d'enfants';1;76
+e;259489;'ma chérie';1;8
+e;15449409;'ma mie';1;0
+e;15475159;'ma douce';1;0
+e;254324;'de bonne qualité';1;16
+e;10679;'Première Guerre mondiale';1;128
+e;100136;'généralement';1;92
+e;260661;'grand de ce monde';1;50
+e;6538279;'grande circonférence de l'iris droit';1;0
+e;10350691;'absence congénitale de la grande aile de l'os sphénoïde';1;0
+e;11104644;'grande mosquée d'Alger';777;0
+e;299932;'pyrèthre doré';777;50
+e;15769618;'La grande finale';1;0
+e;15790390;'La grande offensive parthe';777;0
+e;6537796;'face temporale de la grande aile du sphénoïde';1;0
+e;11105635;'sentier de grande randonnée 128';777;0
+e;11160687;'sentier de grande randonnée 360';777;0
+e;12772460;'télégraphie à grande vitesse';777;0
+e;14677939;'grande distinction';1;0
+e;167543;'Grande Guerre';1;58
+e;294055;'voie express';777;64
+e;25397;'haridelle';1;66
+e;6537254;'grande fosse supraclaviculaire droite';1;0
+e;11160553;'sentier de grande randonnée 4';777;0
+e;11494371;'Poisson-clown de la grande barrière';777;0
+e;12773368;'Record de la plus grande victoire de l'histoire du football';777;0
+e;12813;'Grande Illusion';1;50
+e;198360;'de haute volée';1;60
+e;6538939;'face infra-temporale de la grande aile droite du sphénoïde';1;0
+e;6537933;'face temporale de la grande aile droite du sphénoïde';1;0
+e;11106525;'grande révolte berbère';777;0
+e;179734;'drap de bain';1;30
+e;295183;'grande Chélidoine';777;50
+e;45291;'grand-mère';1;1024
+e;114072;'grand-rue';1;50
+e;146105;'mer';1;9176
+e;4026845;'Grande Idée';1;0
+e;117759;'Grande Bouffe';1;50
+e;6537938;'face orbitale de la grande aile du sphénoïde droit';1;0
+e;12720716;'capitulation de la grande Anse';777;0
+e;198359;'de haute tenue';1;50
+e;2443424;'grande nayade';1;0
+e;6537941;'face de la grande aile du sphénoïde gauche';1;0
+e;11129320;'grande pagode de l'oie sauvage';777;0
+e;11590392;'grande halle de la Villette';777;0
+e;12618722;'trop grande quantité de données';1;0
+e;12730408;'évoluer à grande vitesse';1;0
+e;13301450;'fourgon mousse grande puissance';777;0
+e;2363455;'berce très grande';777;0
+e;3228611;'Grande nayade';777;0
+e;12618721;'grande quantité de données';1;0
+e;12731483;'plus grande prise de risque';1;0
+e;12731484;'grande prise de risque';1;0
+e;92675;'bringue';1;70
+e;6537798;'face maxillaire de la grande aile du sphénoïde';1;0
+e;11008260;'grande corne de Haller';1;0
+e;12079284;'grande grallaire';1;0
+e;12675642;'plus grande armée du monde';1;0
+e;2437896;'Grande Loge';1;0
+e;10187640;'Grande halle de la Villette';777;0
+e;6017955;'Grande Maison';777;0
+e;232029;'Grande Muette';1;50
+e;155393;'petite fille';1;306
+e;380082;'soeur aînée';1;2
+e;15776059;'heure de grande audience';1;0
+e;242393;'sécher les cours';1;64
+e;186233;'faire l'école buissonnière';1;2
+e;276744;'école enfantine';777;50
+e;198411;'de premier ordre';1;50
+e;15206823;'mille tendresses';1;0
+e;30166;'extra-fin';1;50
+e;190776;'schéma directeur';1;50
+e;15526698;'Grande Dame';1;0
+e;339523;'bon an mal an';1;50
+e;15209855;'belle pépée';1;0
+e;111690;'à la pelle';1;54
+e;15460238;'mon pote';1;0
+e;15451650;'mon gars';1;0
+e;15460234;'mon gaillard';1;0
+e;14567067;'Largage à grande vitesse';777;0
+e;16074353;'Schéma directeur';1;0
+e;198368;'de la plus haute importance';1;50
+e;55433;'girafe';1;278
+e;2362896;'grande listère';777;0
+e;12245939;'Transport à grande vitesse';777;0
+e;15337820;'un paquet de';1;0
+e;1820219;'grande scissure du poumon droit';1;0
+e;2377060;'grande cuiller';1;0
+e;2462812;'grande aigrette';1;0
+e;15978267;'Jusqu'à la dernière grande bataille';777;0
+e;236657;'fille de l'est';1;50
+e;160829;'taille mannequin';1;92
+e;45179;'maison';1;12514
+e;12248011;'grande plaine européenne';777;0
+e;10934063;'grande région';777;0
+e;11122608;'voie de la grande paix';777;0
+e;2411985;'Grande Tache rouge';1;0
+e;2483887;'grande coryphène';1;0
+e;10429512;'secteur de la grande distribution';777;0
+e;165454;'grand cru';1;96
+e;6537891;'partie orbitale de la grande aile du sphénoïde droit';1;0
+e;2366993;'passage grande faune';1;0
+e;2374831;'grande consoude';1;2
+e;10596886;'Grande région';777;0
+e;140435;'Grande nébuleuse d'Andromède';1;50
+e;10349441;'Grande Banlieue';777;0
+e;10186257;'Grande Région';777;0
+e;6649155;'Grande Ceinture';777;0
+e;74059;'structurer';1;54
+e;198410;'de premier choix';1;50
+e;342593;'chambre correctionnelle';1;50
+e;152592;'boules';1;118
+e;144493;'dans l'ensemble';1;52
+e;228315;'mon chéri';1;82
+e;5165132;'belle nana';1;0
+e;15210765;'la grande bleue';1;0
+e;16072367;'Chambre correctionnelle';1;0
+e;1820220;'grande échancrure sciatique';1;0
+e;2361884;'grande saperde du peuplier';1;0
+e;2485789;'grande écoute';1;0
+e;2461630;'grande rue';1;0
+e;1816089;'face endocrânienne de la grande aile du sphénoïde';1;0
+e;2357504;'grande peste';1;0
+e;10778552;'grande nébuleuse d'Andromède';777;0
+e;1814572;'grande arche';777;0
+e;11698727;'Grande Rue';777;0
+e;165458;'ma poule';1;50
+e;10344491;'en avoir une grande';1;2
+e;2353743;'grande assiette';1;0
+e;8852735;'grande braderie annuelle';1;0
+e;9264340;'grande ligue de Souabe';777;0
+e;9741415;'grande cuillère plate percée de trous';1;0
+e;10905361;'2 - La grande section';777;0
+e;13800791;'334 groupe des virus bahia grande';1;0
+e;14631060;'1er corps de la grande Armée';1;0
+e;15307262;'Il y a une grande gamme de coloris.';1;0
+e;15288307;'J'ai fait une grande partie de la peinture et de la tapisserie moi-même.';1;0
+e;15229831;'Ils tirent grande fierté de leur héritage culturel.';1;0
+e;15355297;'Ils se sont mariés en grande pompe.';1;0
+e;15526793;'Il y a une grande variété d'opinions.';1;0
+e;15348959;'C'est sa grande s?ur.';1;0
+e;15237143;'C'est un homme d'une grande gentillesse.';1;0
+e;15409772;'C'est la plus grande ?uvre de Rembrandt.';1;0
+e;15536720;'Est-ce que vous voulez une tasse normale ou une grande tasse?';1;0
+e;350744;'en grand tralala';1;50
+e;15249499;'haute capacité';1;0
+e;15782087;'Front de la grande union nationale démocratique patriotique du Kampuchéa';777;0
+e;15779995;'C'est sa grande soeur.';1;0
+e;15460231;'élue de mon coeur';1;0
+e;15460230;'élu de mon coeur';1;0
+e;1812940;'cellule géante';1;0
+e;144907;'ombellifères';1;50
+e;177571;'sur';1;2
+e;139115;'demeure';1;156
+e;1379451;'vin de grande garde';1;0
+e;565938;'grande extinction';777;50
+e;1778173;'bord frontal de la grande aile de l'os sphénoïde';1;0
+e;1971943;'grande casserole d'eau froide';1;0
+e;2512116;'grande férule';1;0
+e;2587039;'Doronic à grande fleurs';777;0
+e;3181754;'grande distance';777;0
+e;3755811;'grande cuillère à mélanger';1;0
+e;4937692;'grande muraille États-Unis-Mexique';777;0
+e;260375;'bander dur';1;50
+e;14680403;'grande section de maternelle';1;72
+e;321400;'grand occipital';1;50
+e;456175;'artère grande pancréatique';1;50
+e;578656;'grande casserole';1;0
+e;1778925;'grande artère pancréatique';1;0
+e;1820904;'muscle de la grande incisure de Santorini';1;0
+e;1971723;'grande poêle';1;0
+e;2521086;'grande vrillée';1;0
+e;2517257;'grande coulemelle';1;0
+e;3227782;'personne grande';1;0
+e;3229851;'grande pauvreté';1;0
+e;3751837;'grande tranche de pain de mie frais';1;0
+e;395597;'grande fosse supraclaviculaire';1;50
+e;573017;'grande aile';1;50
+e;575405;'grande incisure ischiatique';1;50
+e;586518;'grande-plage';777;0
+e;106376;'citerne';1;102
+e;1635520;'grande folle';1;0
+e;1665102;'grande boule de boue';1;0
+e;1675264;'Tizi Ouzou en grande kabylie';777;0
+e;1778926;'grande corne de l'os hyoïde';1;0
+e;2510780;'grande anguille marbrée';1;0
+e;2627330;'grande chélidoine';1;0
+e;3321263;'grande airelle rouge';1;2
+e;3757121;'grande barquette de fraises';1;0
+e;4902784;'grande Grallaire';1;0
+e;4891683;'grande puissance de feu';1;0
+e;102585;'ambition';1;258
+e;463016;'méga grande citerne';1;56
+e;582180;'discipline scolaire de gestion des ventes des produits de grande consommation';777;0
+e;586517;'quarante-cinq tours grande plage';777;0
+e;1476346;'grande étendue';1;0
+e;1973828;'grande feuille de papier aluminium';1;0
+e;3372236;'grande-bretagne';1;0
+e;3757919;'grande boîte de pulpe de tomates';1;0
+e;3754254;'feuilles de pâte filo de grande taille';1;0
+e;4332389;'grande corbeille d'osier';1;0
+e;5059307;'lavé à grande eau';1;0
+e;1667667;'à grande profondeur';1;0
+e;567834;'grande pimprenelle';777;50
+e;440594;'grande courbure gastrique';1;50
+e;577324;'grande citerne';1;50
+e;1778225;'bord squameux de la grande aile du sphénoïde';1;0
+e;1778788;'face temporale de la grande aile de l'os sphénoïde';1;0
+e;1778769;'face cérébrale de la grande aile de l'os sphénoïde';1;0
+e;1898750;'face exocrânienne de la grande aile du sphénoïde';1;0
+e;2567685;'grande brème';1;0
+e;2538699;'grande tubérosité';1;0
+e;2581081;'grande coudée';777;0
+e;3632534;'sentiers de grande randonnée';777;0
+e;3728222;'grassette à grande fleur';1;0
+e;1639730;'immeubles de grande hauteur';1;0
+e;2949544;'la très grande';777;0
+e;462577;'grande veine cérébrale';1;50
+e;582528;'grande cigu';777;0
+e;1308088;'grande cornemuse écossaise';777;0
+e;1778782;'face orbitale de la grande aile de l'os sphénoïde';1;0
+e;1778637;'crête infratemporale de la grande aile de l'os sphénoïde';1;0
+e;1779998;'grande papille duodénale';1;0
+e;2527570;'ramo grande';1;0
+e;2603051;'baryogénèse de grande unification';777;0
+e;2948721;'grande illusion';777;0
+e;3353708;'grande charte d'Angleterre';1;0
+e;3363353;'grande assiette italienne';1;0
+e;3758989;'grande pâte feuilletée surgelée décongelée';1;0
+e;3758798;'grande boîte de thon saumon ou saumon en cubes';1;0
+e;4332390;'grande corbeille';1;0
+e;153681;'courte';1;482
+e;1667668;'vivre à grande profondeur';1;0
+e;1355683;'Une grande partie de cet article provient de la traduction de l'article anglais';777;0
+e;1778211;'bord pariétal de la grande aile de l'os sphénoïde';1;0
+e;1801391;'artère grande anastomotique';1;0
+e;1833622;'face temporo-zygomatique de la grande aile de l'os sphénoïde';1;0
+e;1902218;'grande apophyse du calcanéum';1;0
+e;1971721;'grande poêle anti-adhésive';1;0
+e;2569968;'grande glande vestibulaire';1;0
+e;2510952;'grande absinthe';1;0
+e;2605647;'il y a grande différence d'homme à homme';1;0
+e;30030;'entreprise';1;1537
+e;1777536;'grande épine tympanique';1;0
+e;1778457;'citerne de la grande veine cérébrale';1;0
+e;1792551;'la grande révolution russe';777;0
+e;1801338;'grande artère radiculaire antérieure';1;0
+e;1973827;'grande feuille de papier';1;0
+e;1976277;'la plus grande possible';1;0
+e;2560982;'grande gesse';1;0
+e;2504670;'grande allache';1;0
+e;2636907;'grande balsamite';777;0
+e;2787434;'ligne à grande vitesse';777;0
+e;3232043;'être dans une grande forme';1;0
+e;3755915;'grande feuille de laurier';1;0
+e;3751934;'grande branche de céleri coupée en lamelles';1;0
+e;4901219;'grande Aigrette';1;0
+e;5306606;'faire de grande phrases';1;0
+e;395938;'grande corne';1;50
+e;1672029;'bimoteur de grande capacité';1;0
+e;1778924;'grande artère palatine';1;0
+e;1844291;'grande- scissure du poumon';1;0
+e;1916523;'grande incisure de Santorini';1;0
+e;2517923;'grande harpie';1;0
+e;3011794;'grande incisure de santorini';1;0
+e;1779441;'muscle de l'incisure terminale de l'auricule';1;0
+e;3170346;'effort de grande ampleur';1;0
+e;3319418;'Association internationale de la distribution des produits alimentaires et des produits de grande consommation';1;0
+e;287813;'Grande harpie';777;50
+e;3756918;'tortillas de blé de grande taille';1;0
+e;5317728;'personne de grande taille';1;0
+e;154833;'Carla Bruni';1;66
+e;219493;'tortue géante';1;18
+e;567421;'grande loge';777;50
+e;1223502;'grande raie-guitare';777;0
+e;1777723;'grande aile de l'os sphénoïde';1;0
+e;1846335;'grande aphtose de Touraine';1;0
+e;1835033;'grande veine sus-hépatique gauche';1;0
+e;1935087;'grande casserole d'eau';1;0
+e;2322993;'grande-incisure';1;0
+e;2531153;'grande saperde';1;0
+e;3175787;'grande mosquée';1;0
+e;3175788;'Grande mosquée';777;0
+e;3363354;'grande galette sablée bretonne';1;0
+e;3360287;'chapon rôti en grande marinade';1;0
+e;3728219;'grande Consoude';1;0
+e;5126370;'grande ouverte';1;0
+e;5145777;'grande sur';1;0
+e;12198404;'Grande Mosquée';777;0
+e;15460220;'mon bouchon';1;0
+e;15341002;'mon coco';1;0
+e;15412681;'mon petit coco';1;0
+e;224048;'mon chou';1;52
+e;15266819;'ma chère';1;0
+e;15226270;'mon petit chou';1;0
+e;228548;'mon trésor';1;52
+e;15220487;'mon cher';1;0
+e;260681;'mon coeur';1;50
+e;266118;'mon ange';1;50
+e;16161871;'Grande mosquée de Cordoue';777;0
+e;51905;'cuillère';1;1408
+e;1846894;'tumeur bénigne de la grande lèvre';1;0
+e;1845488;'surface orbitaire de la grande aile de l'os sphénoïde';1;0
+e;1836598;'grande-incisure ischiatique';1;0
+e;1832608;'grande- échancrure sciatique';1;0
+e;2928824;'arrière-grande';1;0
+e;1847650;'veine grande coronaire';1;0
+e;1845485;'surface infratemporale de la grande aile de l'os sphénoïde';1;0
+e;6537935;'face infra-temporale de la grande aile gauche du sphénoïde';1;0
+e;1801390;'artère grande gastrique de Winslow';1;0
+e;1845484;'surface cérébrale de la grande aile de l'os sphénoïde';1;0
+e;1877899;'nettoyer à grande eau';1;0
+e;2787433;'LGV';1;0
+e;1834218;'grande-fontanelle';1;0
+e;1857400;'grande douve de l'intestin';777;0
+e;2954949;'muscle de la grande incisure de santorini';1;0
+e;1845491;'surface temporale de la grande aile de l'os sphénoïde';1;0
+e;1920415;'grande rivière artificielle';1;0
+e;2949543;'la plus grande';777;0
+e;6537797;'face infra-temporale de la grande aile du sphénoïde';1;0
+e;1849006;'grande aphtose';1;0
+e;9564340;'sentier de grande randonnée 20';777;0
+e;5970;'nana';1;284
+e;215308;'ma puce';1;58
+e;15198946;'ma choute';1;0
+e;260637;'ma cocotte';1;4
+e;11105471;'grande galerie de l'Évolution';777;0
+e;3728220;'grande Mauve';1;0
+e;3170264;'grande taille';1;4
+e;3728218;'grande Astrance';1;0
+e;15334692;'mon biquet';1;0
+e;15640013;'brosser quelque chose';1;0
+e;15441533;'brosser [qch]';1;0
+e;370819;'plan d'ensemble';1;50
+e;15427973;'le gros de [qch]';1;0
+e;15634418;'gros de [qch]';1;0
+e;344710;'coup de brosse';1;50
+e;158161;'brosse à cheveux';1;140
+e;393386;'Une grande année';777;50
+e;14201666;'mon petit';1;0
+e;2410398;'fougère-aigle';1;0
+e;408559;'small';1;50
+e;303298;'Pteridium aquilinum';777;50
+e;92579;'famille nombreuse';1;148
+e;1655607;'grande couverture';1;0
+e;11217492;'grande scissure médiane du cervelet';1;0
+e;331009;'grande courbure';1;2
+e;356624;'grande presse';1;50
+e;356605;'grande faucheuse';1;50
+e;356593;'grande classe';1;50
+e;346720;'de grande taille';1;50
+e;1761249;'veine saphène interne';1;0
+e;15413533;'La grande maison';1;0
+e;385700;'une grande heure';1;50
+e;360646;'la bouche grande ouverte';1;50
+e;356654;'grande tape amicale';1;50
+e;356632;'grande verte';1;50
+e;356618;'grande maison bourgeoise';1;50
+e;356614;'grande industrie';1;50
+e;356613;'grande inconnue';1;50
+e;356606;'grande figure';1;50
+e;356601;'grande dame du cinéma';1;50
+e;356600;'grande dame de la chanson';1;50
+e;356598;'grande couronne';1;50
+e;356595;'grande confusion';1;50
+e;355355;'fraude à grande échelle';1;50
+e;350748;'en grande difficulté';1;50
+e;388574;'à la grande honte de';1;50
+e;388573;'à la grande honte';1;50
+e;388245;'à grande eau';1;56
+e;388244;'à grande distance de';1;50
+e;368813;'parquet du tribunal de grande instance';1;50
+e;358936;'industrie de grande série';1;50
+e;356655;'grande tape dans le dos';1;50
+e;356648;'grande place financière';1;50
+e;356644;'grande liberté d'expression';1;50
+e;356597;'grande corruption';1;50
+e;356589;'grande cavité péritonéale';1;50
+e;356585;'grande banque';1;50
+e;356584;'grande baleine bleue';1;50
+e;356581;'grande attention';1;50
+e;346719;'de grande qualité';1;50
+e;9834;'grande-rose';1;50
+e;378033;'résidence de grande classe';1;50
+e;372403;'pour la plus grande joie de';1;50
+e;357714;'heure de grande affluence';1;50
+e;356649;'grande première médicale';1;50
+e;356629;'grande saucisse';1;50
+e;356621;'grande partition';1;50
+e;356620;'grande nouvelle';1;50
+e;356608;'grande force d'âme';1;50
+e;356588;'grande cause';1;56
+e;356587;'grande capitale';1;50
+e;356583;'grande baie vitrée';1;50
+e;356580;'grande artère';1;50
+e;350747;'en grande banlieue';1;50
+e;346591;'dans une grande école';1;50
+e;388575;'à la grande école';1;50
+e;372404;'pour la plus grande satisfaction';1;50
+e;357715;'heure de grande circulation';1;50
+e;356776;'greffe du tribunal de grande instance';1;50
+e;356652;'grande surface de meubles';1;50
+e;356635;'grande vogue';1;50
+e;356626;'grande prudence';1;50
+e;356623;'grande première';1;50
+e;356604;'grande entreprise';1;50
+e;356599;'grande criminalité';1;50
+e;356594;'grande commission';1;50
+e;350750;'en grande tenue';1;50
+e;346010;'d'une grande fraîcheur';1;50
+e;341202;'caméra à grande vitesse';1;50
+e;14657039;'Grande Entreprise';777;0
+e;379334;'sentier de grande randonnée';1;50
+e;356638;'grande école de commerce';1;50
+e;356634;'grande virtuosité';1;50
+e;356628;'grande salle';1;66
+e;356627;'grande route';1;50
+e;356616;'grande latitude';1;50
+e;344140;'comme une grande';1;50
+e;336476;'arrière-grande tante maternelle';1;50
+e;135891;'grande-venise';1;50
+e;385360;'tunnel à grande vitesse d'air';1;50
+e;361584;'ligne de plus grande pente';1;50
+e;356617;'grande littérature';1;50
+e;356615;'grande jeune fille';1;50
+e;356610;'grande fresque';1;50
+e;356596;'grande coquette';1;50
+e;356586;'grande bique';1;50
+e;355375;'frein à disque à grande capacité';1;50
+e;352928;'explosif à grande brisance';1;50
+e;350749;'en grande forme';1;52
+e;347492;'diplôme grande école';1;50
+e;346590;'dans une grande mesure';1;50
+e;385701;'une grande première pour';1;50
+e;372405;'pour la plus grande satisfaction de';1;50
+e;372401;'pour la plus grande gloire de';1;50
+e;356637;'grande école d'ingénieurs';1;50
+e;356636;'grande vérole';1;50
+e;356631;'grande valeur';1;52
+e;356607;'grande fille toute simple';1;50
+e;356591;'grande chaîne';1;50
+e;356582;'grande aventure';1;50
+e;347508;'diplômé grande école';1;50
+e;340496;'brûlé de grande surface';1;50
+e;93438;'grande-duchesse';1;52
+e;389041;'à une grande échelle';1;50
+e;372484;'pour une grande part';1;50
+e;372402;'pour la plus grande joie';1;50
+e;369587;'pendant une grande heure';1;50
+e;356651;'grande puissance nucléaire';1;50
+e;356633;'grande vie';1;2
+e;356622;'grande porte';1;50
+e;356590;'grande centrale syndicale';1;50
+e;346721;'de grande valeur';1;50
+e;1655608;'grande tectrice';1;0
+e;379345;'sentiment de grande détresse';1;50
+e;377079;'route à grande circulation';1;50
+e;373448;'produit de grande diffusion';1;50
+e;356625;'grande propriété';1;50
+e;356612;'grande importance';1;50
+e;356609;'grande fortune';1;52
+e;356592;'grande clarté';1;50
+e;15626161;'le gros de quelque chose';1;0
+e;15634419;'gros de quelque chose';1;0
+e;330754;'externalisation à grande échelle';1;50
+e;6534721;'grande ouverture ischiatique droite';1;0
+e;330583;'Piège à grande vitesse';1;50
+e;6537799;'face orbitale de la grande aile du sphénoïde';1;0
+e;15312680;'grande Muette';1;0
+e;356619;'grande muette';1;50
+e;1777938;'artère grande palatine';1;0
+e;6537932;'face de la grande aile du sphénoïde';1;0
+e;39630;'grande perche';1;50
+e;15379;'grande éclaire';1;50
+e;17060;'grande chère';1;50
+e;19095;'trains à grande vitesse';1;50
+e;19583;'grande pêche';1;50
+e;35785;'grande tasse';1;54
+e;41137;'grande gueule';1;90
+e;47296;'la grande Rome';1;50
+e;47509;'grande puissance';1;50
+e;51424;'la grande parade du cirque';1;50
+e;54126;'grande surface';1;184
+e;3382099;'Grande pêche';777;0
+e;70115;'grande lavande';1;50
+e;84960;'grande couronne Île-de-France';1;50
+e;86701;'grande camomille';1;52
+e;97351;'grande banlieue';1;52
+e;111824;'grande ortie';1;50
+e;117873;'grande calorie';1;50
+e;120196;'boire à la grande tasse';1;50
+e;123724;'grande fougère';1;50
+e;127712;'Casa grande et Senzala';1;50
+e;131097;'grande douve';1;50
+e;136788;'TGV';1;516
+e;145581;'grande bouffe';1;56
+e;146809;'grande ville';1;114
+e;151555;'train à grande vitesse';1;118
+e;151652;'grande vitesse';1;52
+e;151854;'train grande vitesse';1;54
+e;153106;'tribunal de grande instance';1;100
+e;153341;'grande forme';1;54
+e;153416;'grande roue';1;76
+e;154805;'en grande pompe';1;94
+e;154997;'grande construction';1;52
+e;155028;'de grande instance';1;62
+e;156093;'grande école';1;140
+e;156779;'grande cuisine';1;90
+e;157322;'à grande vitesse';1;50
+e;157503;'grande amitié';1;54
+e;157695;'grande avenue';1;52
+e;158827;'grande lame';1;50
+e;159218;'grande ligne';1;54
+e;159454;'grande armoire';1;78
+e;160208;'grande table';1;54
+e;160605;'grande tarte';1;52
+e;160699;'grande clinique';1;50
+e;160742;'grande gare';1;50
+e;161371;'grande douleur';1;54
+e;161857;'grande page';1;56
+e;162678;'grande famille';1;88
+e;163083;'grande usine';1;58
+e;164290;'grande armée';1;66
+e;164370;'grande manifestation';1;52
+e;164424;'grande ouverture';1;50
+e;164637;'grande dent';1;54
+e;164722;'grande actrice';1;50
+e;164749;'grande bouteille';1;80
+e;165401;'grande voilure';1;52
+e;165434;'grande histoire';1;64
+e;165930;'grande lettre';1;56
+e;165931;'grande boutique';1;62
+e;166055;'grande reine';1;50
+e;166058;'grande salle à manger';1;54
+e;166265;'grande guerre';1;52
+e;166320;'grande image';1;50
+e;166546;'grande année';1;60
+e;167535;'grande ferme';1;50
+e;167753;'grande jupe';1;52
+e;167853;'grande énergie';1;50
+e;168630;'navire à grande vitesse';1;50
+e;169658;'chauffeur de grande remise';1;50
+e;170631;'grande mauve';1;50
+e;170644;'ortie grande';1;50
+e;170944;'grande alose';1;50
+e;171028;'grande vive';1;50
+e;33262;'tgv';1;84
+e;187641;'NVG';1;50
+e;97927;'alose';1;54
+e;3395143;'Grande mauve';777;0
+e;4890758;'Tribunal de grande instance';777;0
+e;14463958;'Grande Ferme';777;0
+e;14433734;'Grande Ligne';777;0
+e;15358835;'Tribunal de Grande Instance';1;0
+e;57956;'grande bringue';1;50
+e;175173;'grande tortue';1;52
+e;180911;'ARN nucléaire de grande taille';1;50
+e;182658;'grande bleue';1;50
+e;182659;'grande émiaule';1;50
+e;182660;'grande terre';1;50
+e;182720;'heure de grande écoute';1;50
+e;184390;'sur une grande échelle';1;50
+e;187311;'grande gigue';1;50
+e;582213;'grande veine saphène';1;0
+e;212930;'grande asperge';1;52
+e;188406;'Catherine II la grande';1;50
+e;189844;'grande pyramide';1;54
+e;190715;'immeuble de grande hauteur';1;60
+e;190852;'chemin de grande randonnée';1;78
+e;191259;'grande roussette';1;50
+e;191283;'requin grande gueule';1;50
+e;191778;'grande bardane';1;50
+e;193946;'grande outarde';1;50
+e;195137;'grande cuillère';1;56
+e;195166;'grande forêt';1;52
+e;195284;'grande aiguille';1;56
+e;199587;'entrer par la grande porte';1;50
+e;199662;'ère de la grande occultation';1;50
+e;201548;'grande caroncule';1;50
+e;201549;'grande chaleur';1;50
+e;201550;'grande circulation';1;50
+e;201552;'grande date';1;50
+e;201553;'grande échelle';1;56
+e;201554;'grande marée';1;54
+e;201556;'grande poste';1;50
+e;201557;'grande randonnée';1;58
+e;201558;'grande veine lymphatique';1;50
+e;202519;'la grande muette';1;52
+e;202697;'laver à grande eau';1;52
+e;203298;'maître de la grande soupière';1;50
+e;203577;'mener grande vie';1;50
+e;205707;'plus grande dimension';1;50
+e;205708;'plus grande élongation';1;50
+e;208339;'sortir par la grande porte';1;50
+e;208894;'tenir en grande considération';1;50
+e;209987;'voiture de grande remise';1;50
+e;211836;'se faire d'une grande rareté';1;50
+e;213880;'grande distribution';1;116
+e;215970;'grande quantité';1;62
+e;216273;'grande salle de bain';1;54
+e;217744;'grande chanteuse';1;50
+e;221805;'grande passerage';1;50
+e;222379;'grande série';1;50
+e;223311;'grande joie';1;56
+e;226511;'grande muraille verte';1;50
+e;229969;'grande tache rouge';1;50
+e;230242;'grande occasion';1;66
+e;231360;'grande culture';1;58
+e;233629;'grande section';1;40
+e;237157;'grande toile';1;52
+e;242017;'de grande envergure';1;50
+e;242172;'grande plage';1;52
+e;245128;'en grande hâte';1;50
+e;245999;'grande ourse';1;52
+e;247132;'produit de grande consommation';1;54
+e;247547;'grande marguerite';1;50
+e;249460;'grande délinquance';1;4
+e;250246;'grande ampleur';1;50
+e;250619;'en grande quantité';1;50
+e;250701;'grande idée';1;50
+e;252115;'grande bourgeoisie';1;30
+e;253099;'largage à grande vitesse';1;50
+e;253134;'grande fatigue';1;56
+e;254009;'grande gorgée';1;50
+e;254047;'grande ceinture';1;50
+e;256403;'de grande ampleur';1;50
+e;257271;'grande sous-unité';1;50
+e;259444;'grande maison';1;6
+e;260850;'grande tendresse';1;50
+e;260932;'grande dame de fer';1;50
+e;261651;'ouvrir sa grande gueule';1;50
+e;264916;'grande routière';1;50
+e;268623;'grande qualité';1;50
+e;270188;'grande marque';1;50
+e;270563;'grande capacité';1;50
+e;272021;'grande mosquée de Cordoue';777;50
+e;274273;'grande pyramide de Gizeh';777;50
+e;274427;'navires à grande vitesse';777;50
+e;280578;'grande ciguë';777;50
+e;282402;'grande révolution culturelle prolétarienne';777;50
+e;282403;'grande révolution culturelle';777;50
+e;283513;'grande hantise';777;50
+e;284671;'grande galerie de l'évolution';1;50
+e;285444;'la grande distribution';777;50
+e;286588;'grande Île de la guerre';777;50
+e;288586;'grande révérence';777;50
+e;291289;'grande digitale';777;50
+e;292425;'grande déesse';777;50
+e;293934;'grande airelle rouge d'Amérique du Nord';777;50
+e;294815;'grande douve du foie';1;14
+e;295005;'grande guerre du Nord';777;50
+e;297825;'grande pieuvre';777;50
+e;299970;'grande plaine de Hongrie';777;50
+e;306308;'grande radiaire';777;52
+e;170611;'gentiane jaune';1;50
+e;438534;'circulation systémique';1;50
+e;3171889;'Grande muraille verte';777;0
+e;308983;'Sentier de grande randonnée 20';777;50
+e;309587;'grande nacre';777;50
+e;310224;'sentiers de grande';777;50
+e;311131;'grande communion';777;50
+e;312859;'grande boîte';1;52
+e;313639;'grande beauté';1;58
+e;313669;'grande beaut';777;50
+e;315724;'grande marche';1;52
+e;316254;'grande aile du sphénoïde';1;52
+e;316422;'grande estime';1;50
+e;317321;'grande musique';1;50
+e;320536;'sans grande importance';1;50
+e;321744;'grande chambre';1;50
+e;321829;'grande surprise';1;50
+e;321845;'grande vénerie';1;50
+e;324871;'grande conjonction';1;50
+e;324997;'grande castagnole';1;50
+e;329383;'enseigne de grande distribution';1;50
+e;4309025;'Grande castagnole';777;0
+e;171105;'à grande échelle';1;50
+e;182657;'grande astrance';1;50
+e;238484;'grande gentiane';1;50
+e;156668;'GR';1;128
+e;317677;'grande production hollywoodienne';1;50
+e;329384;'grande enseigne';1;54
+e;11415077;'Grande gentiane';777;0
+e;57238;'grande personne';1;78
+e;1463634;'veine grande saphène';1;0
+e;201551;'grande dame';1;52
+e;218992;'grande soeur';1;88
+e;223574;'grande plante';1;50
+e;256749;'grande question';1;50
+e;199312;'en majeure partie';1;50
+e;199281;'en grande partie';1;50
+e;158199;'grande lèvre';1;64
+e;1778777;'face maxillaire de la grande aile de l'os sphénoïde';1;0
+e;1845486;'surface maxillaire de la grande aile de l'os sphénoïde';1;0
+e;14136087;'Achigan à grande bouche';777;0
+e;175186;'achigan à grande bouche';1;50
+r;5381272;151711;18839;0;5
+r;5512694;151711;9699;0;5
+r;8553118;151711;139340;0;5
+r;429484163;151711;15085662;0;5
+r;429484165;151711;15082532;0;5
+r;429484167;151711;14947421;0;5
+r;429484169;151711;15085661;0;5
+r;429484171;151711;6950374;0;5
+r;5344079;151711;53661;0;10
+r;435244796;151711;152239;0;10
+r;435245302;151711;15253069;0;10
+r;398984351;151711;320313;0;25
+r;415805683;151711;14940624;0;25
+r;435589809;151711;15424420;0;25
+r;435589811;151711;15424419;0;25
+r;435589813;151711;15424418;0;25
+r;435589815;151711;15424417;0;25
+r;435589816;151711;15415341;0;25
+r;435589818;151711;15421193;0;25
+r;435589820;151711;7016195;0;25
+r;435589822;151711;15424416;0;25
+r;435589824;151711;15424415;0;25
+r;882735;151711;126640;0;41
+r;12165141;151711;160277;0;42
+r;14478343;151711;117458;0;42
+r;882734;151711;154948;0;44
+r;389623;151711;87222;0;55
+r;620717;151711;23178;0;56
+r;3083512;151711;157525;0;56
+r;3131803;151711;156331;0;56
+r;11734957;151711;111705;0;56
+r;11734958;151711;112154;0;56
+r;11734959;151711;58170;0;56
+r;405847;151711;77315;0;60
+r;442998;151711;95245;0;60
+r;2589307;151711;16612;0;60
+r;398984354;151711;412634;0;60
+r;378409;151711;158667;0;80
+r;397382;151711;118945;0;90
+r;423380;151711;61490;0;90
+r;375382;151711;67773;0;140
+r;265752;151711;146483;0;161
+r;241597;151711;141683;0;240
+r;23932982;151711;239128;0;1000000
+r;10649713;134624;151711;0;1
+r;10658777;38828;151711;0;1
+r;423474268;10500;151711;0;1
+r;423505861;11284;151711;0;1
+r;122666220;6433510;151711;0;1
+r;122734434;6425005;151711;0;1
+r;254881964;10091054;151711;0;1
+r;275811675;10787227;151711;0;1
+r;297990164;6285505;151711;0;1
+r;298048737;6285770;151711;0;1
+r;298390615;6288809;151711;0;1
+r;298397958;6289491;151711;0;1
+r;298858768;6294392;151711;0;1
+r;299035512;6298631;151711;0;1
+r;299036832;6298814;151711;0;1
+r;299547663;6307269;151711;0;1
+r;299579005;6309811;151711;0;1
+r;299595186;6312403;151711;0;1
+r;299597353;6312912;151711;0;1
+r;300135244;6323448;151711;0;1
+r;300968481;6331883;151711;0;1
+r;301216925;6334963;151711;0;1
+r;301454241;6339373;151711;0;1
+r;301467768;6340583;151711;0;1
+r;301551073;6345213;151711;0;1
+r;301719699;6348145;151711;0;1
+r;301741522;6351657;151711;0;1
+r;301815945;6357287;151711;0;1
+r;301837871;6357216;151711;0;1
+r;302107149;6360938;151711;0;1
+r;302136381;6362333;151711;0;1
+r;302204516;6366515;151711;0;1
+r;302972429;6369058;151711;0;1
+r;304556297;6389349;151711;0;1
+r;304861287;6392764;151711;0;1
+r;304894090;6393806;151711;0;1
+r;305057430;6398053;151711;0;1
+r;305460307;6408927;151711;0;1
+r;305635318;6414984;151711;0;1
+r;305687517;6417452;151711;0;1
+r;305709075;6421236;151711;0;1
+r;305709181;6420950;151711;0;1
+r;305713794;6421626;151711;0;1
+r;316703225;12156247;151711;0;1
+r;316703236;12156245;151711;0;1
+r;316703249;12156243;151711;0;1
+r;318523877;6392670;151711;0;1
+r;423460109;9097;151711;0;1
+r;423504415;11577;151711;0;1
+r;341170384;6377309;151711;0;1
+r;341156076;6368225;151711;0;1
+r;341253971;6416852;151711;0;1
+r;345538378;13629938;151711;0;1
+r;345538419;13629941;151711;0;1
+r;346134946;13641529;151711;0;1
+r;349109738;6345800;151711;0;1
+r;349190474;6343080;151711;0;1
+r;349334727;6295822;151711;0;1
+r;360223971;14165356;151711;0;1
+r;366901344;14453332;151711;0;1
+r;368026313;14482690;151711;0;1
+r;423463571;9716;151711;0;1
+r;369598266;14540630;151711;0;1
+r;370580711;14584313;151711;0;1
+r;370733346;14590335;151711;0;1
+r;371138276;14604521;151711;0;1
+r;371190887;14606317;151711;0;1
+r;371196588;14606575;151711;0;1
+r;371246174;14609434;151711;0;1
+r;372657348;14655889;151711;0;1
+r;372657500;14655890;151711;0;1
+r;373165795;14677773;151711;0;1
+r;374214416;14717628;151711;0;1
+r;375281936;14763837;151711;0;1
+r;414340819;15910114;151711;0;1
+r;434551715;400018;151711;0;1
+r;384928160;14869805;151711;0;1
+r;399499271;6330268;151711;0;1
+r;395020802;15404558;151711;0;1
+r;393826186;15166659;151711;0;1
+r;394028403;15192395;151711;0;1
+r;395466955;15424494;151711;0;1
+r;423655834;17689;151711;0;1
+r;400481756;6370628;151711;0;1
+r;423474685;10676;151711;0;1
+r;403082881;15684778;151711;0;1
+r;410379358;15787605;151711;0;1
+r;414328471;15910113;151711;0;1
+r;420271014;31653;151711;0;1
+r;423635961;16389;151711;0;1
+r;418497880;16067145;151711;0;1
+r;418507598;228729;151711;0;1
+r;419482831;15922712;151711;0;1
+r;420173591;16102474;151711;0;1
+r;420205733;16103360;151711;0;1
+r;420286637;16104802;151711;0;1
+r;420362459;33;151711;0;1
+r;420388339;16108938;151711;0;1
+r;421164904;1127;151711;0;1
+r;421180441;1237;151711;0;1
+r;421493891;1506;151711;0;1
+r;421558426;1279;151711;0;1
+r;421679373;1616;151711;0;1
+r;422226661;1610;151711;0;1
+r;422921147;2243;151711;0;1
+r;422996231;2686;151711;0;1
+r;423036401;2866;151711;0;1
+r;423115123;16127286;151711;0;1
+r;423153508;16126169;151711;0;1
+r;423222082;4525;151711;0;1
+r;423370944;6599;151711;0;1
+r;423403757;7678;151711;0;1
+r;423621745;15400;151711;0;1
+r;423667451;18297;151711;0;1
+r;423677257;18913;151711;0;1
+r;423680992;18941;151711;0;1
+r;423829439;26476;151711;0;1
+r;423846930;16156304;151711;0;1
+r;423875644;31275;151711;0;1
+r;423888894;16156619;151711;0;1
+r;424848152;41061;151711;0;1
+r;425207118;51862;151711;0;1
+r;425791367;53283;151711;0;1
+r;425869838;16237445;151711;0;1
+r;426011952;16241612;151711;0;1
+r;426046378;58321;151711;0;1
+r;426545985;60273;151711;0;1
+r;426651709;62887;151711;0;1
+r;426710949;16259651;151711;0;1
+r;426759827;66289;151711;0;1
+r;427208970;79977;151711;0;1
+r;427474891;16295316;151711;0;1
+r;427504530;88936;151711;0;1
+r;427877142;173634;151711;0;1
+r;427877144;173642;151711;0;1
+r;427877146;139471;151711;0;1
+r;427928210;15318;151711;0;1
+r;428056158;110155;151711;0;1
+r;428467309;114126;151711;0;1
+r;428538853;124969;151711;0;1
+r;428546342;125491;151711;0;1
+r;428577688;128212;151711;0;1
+r;428809903;144782;151711;0;1
+r;429081555;177844;151711;0;1
+r;429203133;179783;151711;0;1
+r;432047330;230206;151711;0;1
+r;431480444;16327331;151711;0;1
+r;431645407;227839;151711;0;1
+r;433016300;336198;151711;0;1
+r;433065350;16391101;151711;0;1
+r;433896699;16491524;151711;0;1
+r;434541115;232461;151711;0;1
+r;435165681;16565416;151711;0;1
+r;435289773;1847748;151711;0;1
+r;435375729;1850227;151711;0;1
+r;435393907;1851505;151711;0;1
+r;435442338;1874686;151711;0;1
+r;435567569;2358351;151711;0;1
+r;435576099;2359592;151711;0;1
+r;435688862;2374267;151711;0;1
+r;112669401;5724193;151711;0;2
+r;121510580;6441944;151711;0;2
+r;121512342;6441754;151711;0;2
+r;121541981;6438450;151711;0;2
+r;121544033;6438219;151711;0;2
+r;121545295;6438075;151711;0;2
+r;121557836;6436675;151711;0;2
+r;122689146;6430870;151711;0;2
+r;267351036;113669;151711;0;2
+r;298845940;6294533;151711;0;2
+r;299088046;6299543;151711;0;2
+r;299489768;6306205;151711;0;2
+r;299547785;6307158;151711;0;2
+r;300125832;6322378;151711;0;2
+r;300958684;6330495;151711;0;2
+r;300958991;6330208;151711;0;2
+r;301745628;6352315;151711;0;2
+r;303634893;6377781;151711;0;2
+r;304557501;6389392;151711;0;2
+r;305216568;6401368;151711;0;2
+r;373169635;14677913;151711;0;2
+r;315646795;12090349;151711;0;2
+r;337351631;12979338;151711;0;2
+r;343136245;13541896;151711;0;2
+r;345887152;11317156;151711;0;2
+r;368760897;14535472;151711;0;2
+r;369907806;14558075;151711;0;2
+r;370283848;14571094;151711;0;2
+r;373063756;14670846;151711;0;2
+r;373063770;14670847;151711;0;2
+r;418561677;225087;151711;0;2
+r;393628188;15034902;151711;0;2
+r;418503683;223360;151711;0;2
+r;420020148;3136;151711;0;2
+r;423112596;3578;151711;0;2
+r;423422823;16160695;151711;0;2
+r;424006180;37018;151711;0;2
+r;424017465;37445;151711;0;2
+r;428330082;111825;151711;0;2
+r;428347440;111673;151711;0;2
+r;121495132;6443664;151711;0;3
+r;122683643;6431565;151711;0;3
+r;122728836;6425727;151711;0;3
+r;270775595;10674627;151711;0;3
+r;270771968;10675892;151711;0;3
+r;300233004;6329354;151711;0;3
+r;302977586;6370217;151711;0;3
+r;305462867;6409586;151711;0;3
+r;315480251;12090350;151711;0;3
+r;313022188;6301986;151711;0;3
+r;313069012;6350054;151711;0;3
+r;313069216;6321852;151711;0;3
+r;313069667;6306203;151711;0;3
+r;315596380;12097488;151711;0;3
+r;315596389;12097487;151711;0;3
+r;315596405;12097486;151711;0;3
+r;331443624;12914842;151711;0;3
+r;418902217;285070;151711;0;3
+r;419856866;259785;151711;0;3
+r;423197411;4288;151711;0;3
+r;427530134;80762;151711;0;3
+r;112187723;5688996;151711;0;4
+r;121508389;6442188;151711;0;4
+r;121514040;6441561;151711;0;4
+r;221647649;9972600;151711;0;4
+r;342560630;13519781;151711;0;4
+r;419488834;223508;151711;0;4
+r;2314432;248359;151711;0;5
+r;113282454;5809050;151711;0;5
+r;113284653;5808547;151711;0;5
+r;113309813;5801559;151711;0;5
+r;121488903;6444350;151711;0;5
+r;121498959;6443232;151711;0;5
+r;277928510;10989488;151711;0;5
+r;293180366;11162778;151711;0;5
+r;301783019;11768674;151711;0;5
+r;315487966;12109912;151711;0;5
+r;315491615;12109281;151711;0;5
+r;414321123;14940660;151711;0;5
+r;418473895;82147;151711;0;5
+r;76389336;247418;151711;0;6
+r;110596779;5574250;151711;0;6
+r;113297285;5804952;151711;0;6
+r;113781727;5815074;151711;0;6
+r;121484673;6444832;151711;0;6
+r;220830226;9958807;151711;0;6
+r;222625339;9989397;151711;0;6
+r;264439601;10600325;151711;0;6
+r;264441726;10599474;151711;0;6
+r;264445336;10597716;151711;0;6
+r;264449593;10596377;151711;0;6
+r;264449603;10596376;151711;0;6
+r;277228522;10969594;151711;0;6
+r;277927759;10990804;151711;0;6
+r;280292027;11029971;151711;0;6
+r;282777856;11130164;151711;0;6
+r;334357901;13032357;151711;0;6
+r;418479390;11866;151711;0;6
+r;419759871;15456658;151711;0;6
+r;419759877;15309425;151711;0;6
+r;419759883;15356999;151711;0;6
+r;419759887;15329357;151711;0;6
+r;419759891;15487696;151711;0;6
+r;419763341;15416335;151711;0;6
+r;419764363;15528415;151711;0;6
+r;419764743;15395221;151711;0;6
+r;419767459;15529264;151711;0;6
+r;419767463;15210767;151711;0;6
+r;419767467;15250962;151711;0;6
+r;419767471;15685410;151711;0;6
+r;419767475;15265198;151711;0;6
+r;419767479;15413518;151711;0;6
+r;419768850;15262363;151711;0;6
+r;419769458;15247739;151711;0;6
+r;419770553;15771473;151711;0;6
+r;419792631;15240452;151711;0;6
+r;419840079;15236145;151711;0;6
+r;419840083;15210772;151711;0;6
+r;419840087;15460767;151711;0;6
+r;419840091;15282889;151711;0;6
+r;419840095;15210770;151711;0;6
+r;110666463;5580601;151711;0;7
+r;113768760;5818715;151711;0;7
+r;113770972;5817872;151711;0;7
+r;113772799;5817244;151711;0;7
+r;113781331;5815181;151711;0;7
+r;113781734;5815072;151711;0;7
+r;221483605;9967140;151711;0;7
+r;227658743;10003800;151711;0;7
+r;227673701;9994721;151711;0;7
+r;276739654;10963218;151711;0;7
+r;274582376;10915995;151711;0;7
+r;279555491;11028593;151711;0;7
+r;280145464;11057105;151711;0;7
+r;303731086;11781349;151711;0;7
+r;319887011;12313540;151711;0;7
+r;319837719;12313393;151711;0;7
+r;418485816;212464;151711;0;7
+r;419710741;15882813;151711;0;7
+r;419710748;15323245;151711;0;7
+r;419713711;15217981;151711;0;7
+r;29974998;1832965;151711;0;8
+r;29995536;1835031;151711;0;8
+r;110201967;5568351;151711;0;8
+r;111355121;5634834;151711;0;8
+r;113765822;5827573;151711;0;8
+r;114442773;5855935;151711;0;8
+r;115107264;5897351;151711;0;8
+r;115107753;5897242;151711;0;8
+r;115107946;5897187;151711;0;8
+r;115108015;5897165;151711;0;8
+r;115866532;5909896;151711;0;8
+r;117917350;5979192;151711;0;8
+r;136047413;8069966;151711;0;8
+r;220621587;9951004;151711;0;8
+r;220618225;9950735;151711;0;8
+r;220604637;9949956;151711;0;8
+r;220654616;9951742;151711;0;8
+r;227664603;10001662;151711;0;8
+r;276640002;10961090;151711;0;8
+r;276019968;10955239;151711;0;8
+r;274973564;10921666;151711;0;8
+r;274973582;10921663;151711;0;8
+r;274973600;10921660;151711;0;8
+r;274973618;10921657;151711;0;8
+r;274973664;10921648;151711;0;8
+r;274973678;10921645;151711;0;8
+r;274975159;10921314;151711;0;8
+r;279434762;11028594;151711;0;8
+r;279660926;11031825;151711;0;8
+r;291210745;11354359;151711;0;8
+r;303723551;11783993;151711;0;8
+r;316542228;12202023;151711;0;8
+r;330970576;12900597;151711;0;8
+r;419626351;15305561;151711;0;8
+r;419626355;15325123;151711;0;8
+r;419650609;15483911;151711;0;8
+r;419650623;15483909;151711;0;8
+r;419652002;15396816;151711;0;8
+r;419670141;15389659;151711;0;8
+r;419672033;15348042;151711;0;8
+r;419684006;6397421;151711;0;8
+r;419691313;15368051;151711;0;8
+r;52656771;2380445;151711;0;9
+r;53828010;2406307;151711;0;9
+r;54334991;2414349;151711;0;9
+r;110813565;5621222;151711;0;9
+r;113779470;5815667;151711;0;9
+r;114434806;5874364;151711;0;9
+r;114443967;5855445;151711;0;9
+r;114762915;5882419;151711;0;9
+r;115106908;5897475;151711;0;9
+r;121054789;6449203;151711;0;9
+r;121450087;6526166;151711;0;9
+r;276175986;10960085;151711;0;9
+r;276015793;10956312;151711;0;9
+r;277825168;10993803;151711;0;9
+r;307380707;11901324;151711;0;9
+r;313608240;12019358;151711;0;9
+r;419610287;15396820;151711;0;9
+r;419616995;15298637;151711;0;9
+r;29994989;1835026;151711;0;10
+r;29995293;1835029;151711;0;10
+r;53139576;2391806;151711;0;10
+r;53218946;2396358;151711;0;10
+r;114748044;5894441;151711;0;10
+r;116584530;5954430;151711;0;10
+r;396988229;15293643;151711;0;10
+r;219961832;9938287;151711;0;10
+r;279325012;11027092;151711;0;10
+r;290723936;11347785;151711;0;10
+r;293500406;11409364;151711;0;10
+r;293500410;11409363;151711;0;10
+r;305393821;11824955;151711;0;10
+r;305439661;11825560;151711;0;10
+r;307648392;11925351;151711;0;10
+r;315118812;12079282;151711;0;10
+r;369195084;3298201;151711;0;10
+r;369209819;3183277;151711;0;10
+r;396588253;15212656;151711;0;10
+r;397557679;15273264;151711;0;10
+r;397577421;15134605;151711;0;10
+r;398019876;15194613;151711;0;10
+r;398242806;388741;151711;0;10
+r;399191601;15237686;151711;0;10
+r;399311212;15276626;151711;0;10
+r;399866270;15283934;151711;0;10
+r;399866280;15136112;151711;0;10
+r;399866342;15314550;151711;0;10
+r;399866405;15314551;151711;0;10
+r;399866624;15330092;151711;0;10
+r;402909695;203535;151711;0;10
+r;403935356;15322173;151711;0;10
+r;403943942;82864;151711;0;10
+r;405136073;15569852;151711;0;10
+r;408888165;15231590;151711;0;10
+r;408892341;15539197;151711;0;10
+r;408991659;15210753;151711;0;10
+r;408991680;15210754;151711;0;10
+r;408991843;14940651;151711;0;10
+r;409125715;137932;151711;0;10
+r;409481170;2581184;151711;0;10
+r;409481883;197117;151711;0;10
+r;409537821;15774838;151711;0;10
+r;409538110;15774839;151711;0;10
+r;411233558;350745;151711;0;10
+r;412261444;14943414;151711;0;10
+r;414623839;15235250;151711;0;10
+r;414624028;15286746;151711;0;10
+r;414624200;15286747;151711;0;10
+r;414624788;15566565;151711;0;10
+r;414625004;15522048;151711;0;10
+r;414625217;15522049;151711;0;10
+r;414672590;15203260;151711;0;10
+r;414678506;15240515;151711;0;10
+r;414688915;14935556;151711;0;10
+r;416752654;3183467;151711;0;10
+r;417598509;388242;151711;0;10
+r;417598957;239145;151711;0;10
+r;417601474;15991289;151711;0;10
+r;417604866;28939;151711;0;10
+r;417607866;60162;151711;0;10
+r;419515978;15752682;151711;0;10
+r;419518708;15486871;151711;0;10
+r;419538608;15348040;151711;0;10
+r;419544389;15229829;151711;0;10
+r;419546977;15572619;151711;0;10
+r;419596761;15252780;151711;0;10
+r;426303748;15394400;151711;0;10
+r;428259625;15219076;151711;0;10
+r;428351312;15692353;151711;0;10
+r;430598167;15199368;151711;0;10
+r;430598183;6905242;151711;0;10
+r;430711837;14956384;151711;0;10
+r;430711920;14956385;151711;0;10
+r;430792131;14929935;151711;0;10
+r;430843559;14919348;151711;0;10
+r;430843604;15333821;151711;0;10
+r;430843638;346726;151711;0;10
+r;430860318;15235238;151711;0;10
+r;430952435;15215362;151711;0;10
+r;430976286;16068408;151711;0;10
+r;430983100;15441036;151711;0;10
+r;430986590;15471328;151711;0;10
+r;431108638;15197093;151711;0;10
+r;431108692;14935697;151711;0;10
+r;431416050;4314275;151711;0;10
+r;432221590;15636638;151711;0;10
+r;432225482;7049581;151711;0;10
+r;432229315;15437146;151711;0;10
+r;432230211;14939184;151711;0;10
+r;432240140;260638;151711;0;10
+r;432289492;15434522;151711;0;10
+r;432298172;15308147;151711;0;10
+r;432322392;15420326;151711;0;10
+r;432323187;15420325;151711;0;10
+r;432331726;26327;151711;0;10
+r;432367488;15200582;151711;0;10
+r;432434326;15258064;151711;0;10
+r;432833919;15238291;151711;0;10
+r;432850012;14939238;151711;0;10
+r;432850175;14939917;151711;0;10
+r;435243107;15198600;151711;0;10
+r;435456996;15196319;151711;0;10
+r;435458166;15210935;151711;0;10
+r;435458167;15210933;151711;0;10
+r;29990533;1834580;151711;0;11
+r;29994920;1835027;151711;0;11
+r;29995013;1835032;151711;0;11
+r;29995471;1835030;151711;0;11
+r;29996412;1835028;151711;0;11
+r;52040252;2372205;151711;0;11
+r;55114929;2435349;151711;0;11
+r;55201100;2438199;151711;0;11
+r;55481790;2450968;151711;0;11
+r;55807418;2467591;151711;0;11
+r;55938786;2474557;151711;0;11
+r;117872776;5989496;151711;0;11
+r;118524610;6006691;151711;0;11
+r;118931250;6066374;151711;0;11
+r;118943714;6017083;151711;0;11
+r;121452625;6448384;151711;0;11
+r;227609652;10039635;151711;0;11
+r;227609662;10039634;151711;0;11
+r;247439170;10252751;151711;0;11
+r;271836793;10849648;151711;0;11
+r;272183293;10851823;151711;0;11
+r;272183451;10851716;151711;0;11
+r;272183473;10851713;151711;0;11
+r;272183509;10851705;151711;0;11
+r;274959422;10930315;151711;0;11
+r;300515362;11698205;151711;0;11
+r;313414318;12033453;151711;0;11
+r;313681860;12049602;151711;0;11
+r;315117859;12079470;151711;0;11
+r;315118787;12079287;151711;0;11
+r;315118796;12079286;151711;0;11
+r;315118800;12079285;151711;0;11
+r;315118808;12079283;151711;0;11
+r;315121479;12078784;151711;0;11
+r;319503650;12301273;151711;0;11
+r;329496042;12863408;151711;0;11
+r;329759943;12880471;151711;0;11
+r;341351862;13449168;151711;0;11
+r;395747179;15471481;151711;0;11
+r;418223904;22017;151711;0;11
+r;418271027;120507;151711;0;11
+r;418272060;2247304;151711;0;11
+r;418279049;50825;151711;0;11
+r;418284656;56335;151711;0;11
+r;418301488;117265;151711;0;11
+r;418370967;16059355;151711;0;11
+r;418370976;16059356;151711;0;11
+r;418370984;16059357;151711;0;11
+r;418371172;15267336;151711;0;11
+r;418371207;16059375;151711;0;11
+r;418371215;16059376;151711;0;11
+r;418371223;16059377;151711;0;11
+r;418371240;16059379;151711;0;11
+r;418371257;16059381;151711;0;11
+r;418371273;16059383;151711;0;11
+r;418371332;15232327;151711;0;11
+r;418371351;16059389;151711;0;11
+r;418371359;16059390;151711;0;11
+r;418371382;16059392;151711;0;11
+r;418371450;16059398;151711;0;11
+r;418371545;16059408;151711;0;11
+r;418371594;16059411;151711;0;11
+r;418371617;118732;151711;0;11
+r;418371640;16059412;151711;0;11
+r;418371648;15256079;151711;0;11
+r;418371858;15241263;151711;0;11
+r;418371867;16059429;151711;0;11
+r;418371914;16059434;151711;0;11
+r;418371922;16059435;151711;0;11
+r;418371940;16059437;151711;0;11
+r;418371960;16059439;151711;0;11
+r;418372024;16059447;151711;0;11
+r;418372063;15317352;151711;0;11
+r;418372122;16059456;151711;0;11
+r;418372131;16059457;151711;0;11
+r;418372140;16059458;151711;0;11
+r;418372158;16059460;151711;0;11
+r;418372194;16059463;151711;0;11
+r;418372203;16059464;151711;0;11
+r;418372316;16059473;151711;0;11
+r;418372327;15357322;151711;0;11
+r;418372351;15383627;151711;0;11
+r;418372359;16059475;151711;0;11
+r;418372385;16059477;151711;0;11
+r;418372484;16059486;151711;0;11
+r;418372536;16059491;151711;0;11
+r;418372544;16059492;151711;0;11
+r;418372592;15322680;151711;0;11
+r;418372618;15372416;151711;0;11
+r;418372665;16059503;151711;0;11
+r;418372713;16059508;151711;0;11
+r;418372730;15230924;151711;0;11
+r;418372739;16059510;151711;0;11
+r;418372748;16059511;151711;0;11
+r;418372768;16059513;151711;0;11
+r;418372784;16059515;151711;0;11
+r;418372792;16059516;151711;0;11
+r;418372811;15261383;151711;0;11
+r;418372875;15273900;151711;0;11
+r;418372898;16059525;151711;0;11
+r;418372982;16059533;151711;0;11
+r;418372991;16059534;151711;0;11
+r;418373007;16059536;151711;0;11
+r;418373030;16059538;151711;0;11
+r;418373041;16059539;151711;0;11
+r;418373049;16059540;151711;0;11
+r;418373057;15200581;151711;0;11
+r;418373113;16059546;151711;0;11
+r;418373134;15228878;151711;0;11
+r;418373166;15807576;151711;0;11
+r;418373176;16059551;151711;0;11
+r;418373193;16059553;151711;0;11
+r;418373208;16059555;151711;0;11
+r;418373272;16059561;151711;0;11
+r;418373321;16059564;151711;0;11
+r;418373346;16059567;151711;0;11
+r;418373400;16059573;151711;0;11
+r;418373409;15265539;151711;0;11
+r;418373417;16059574;151711;0;11
+r;418383231;52022;151711;0;11
+r;419496085;15397574;151711;0;11
+r;419508520;15937837;151711;0;11
+r;427023055;16278835;151711;0;11
+r;29980077;1833582;151711;0;12
+r;29994421;1835025;151711;0;12
+r;52038756;2371994;151711;0;12
+r;54367285;2415792;151711;0;12
+r;55754907;2465104;151711;0;12
+r;116305765;5944792;151711;0;12
+r;117868381;5992371;151711;0;12
+r;117868458;5992353;151711;0;12
+r;118514465;6009715;151711;0;12
+r;227551182;10043607;151711;0;12
+r;227552905;10043608;151711;0;12
+r;227599938;10043609;151711;0;12
+r;227599955;10043606;151711;0;12
+r;270360917;10822491;151711;0;12
+r;271825787;10849149;151711;0;12
+r;271825798;10849148;151711;0;12
+r;271825820;10849145;151711;0;12
+r;271825844;10849144;151711;0;12
+r;271825855;10849143;151711;0;12
+r;271825870;10849135;151711;0;12
+r;271825881;10849134;151711;0;12
+r;271825902;10849132;151711;0;12
+r;271825913;10849131;151711;0;12
+r;271825924;10849129;151711;0;12
+r;271825991;10849122;151711;0;12
+r;271826028;10849117;151711;0;12
+r;271826041;10849116;151711;0;12
+r;271826061;10849114;151711;0;12
+r;275271839;10936442;151711;0;12
+r;279134462;11017877;151711;0;12
+r;279147690;11017876;151711;0;12
+r;281355799;11094839;151711;0;12
+r;281371695;11095034;151711;0;12
+r;297642775;11577396;151711;0;12
+r;300958392;11693230;151711;0;12
+r;340772245;13426582;151711;0;12
+r;313690704;12050105;151711;0;12
+r;329464164;12863000;151711;0;12
+r;373169992;14677937;151711;0;12
+r;417889196;16037171;151711;0;12
+r;392302505;15018189;151711;0;12
+r;403084966;15684779;151711;0;12
+r;417705557;2239797;151711;0;12
+r;417749650;15500039;151711;0;12
+r;418058324;60512;151711;0;12
+r;418076070;145727;151711;0;12
+r;418076501;147923;151711;0;12
+r;418092954;69618;151711;0;12
+r;418102012;16045340;151711;0;12
+r;418108244;95807;151711;0;12
+r;418117637;128752;151711;0;12
+r;418121933;28356;151711;0;12
+r;418124402;63406;151711;0;12
+r;418136872;16046655;151711;0;12
+r;418140456;178401;151711;0;12
+r;418185921;202751;151711;0;12
+r;418209118;87702;151711;0;12
+r;418213022;66517;151711;0;12
+r;418214758;16052646;151711;0;12
+r;418325870;2538036;151711;0;12
+r;418326439;166397;151711;0;12
+r;418342812;16058130;151711;0;12
+r;418348152;171728;151711;0;12
+r;418350981;11070;151711;0;12
+r;418360274;2297923;151711;0;12
+r;61350122;2480637;151711;0;13
+r;109948147;5558971;151711;0;13
+r;118508477;6011402;151711;0;13
+r;121907709;6533822;151711;0;13
+r;227599965;10043605;151711;0;13
+r;270406567;10829677;151711;0;13
+r;271825938;10849127;151711;0;13
+r;271825948;10849126;151711;0;13
+r;288029458;11237167;151711;0;13
+r;295627489;11504154;151711;0;13
+r;295627505;11504151;151711;0;13
+r;295627521;11504148;151711;0;13
+r;297642773;11577397;151711;0;13
+r;417738313;135938;151711;0;13
+r;417766453;27982;151711;0;13
+r;417766777;129732;151711;0;13
+r;417767384;16032908;151711;0;13
+r;417770589;126158;151711;0;13
+r;417770916;16033006;151711;0;13
+r;417906585;1781742;151711;0;13
+r;417906932;174206;151711;0;13
+r;417975681;229010;151711;0;13
+r;417978003;16040535;151711;0;13
+r;417981452;196913;151711;0;13
+r;417984580;16040721;151711;0;13
+r;417996237;340452;151711;0;13
+r;417997934;340674;151711;0;13
+r;418003200;54328;151711;0;13
+r;418003206;92051;151711;0;13
+r;418040051;141583;151711;0;13
+r;418042282;15363640;151711;0;13
+r;418042289;15363641;151711;0;13
+r;418042724;181955;151711;0;13
+r;418042729;346723;151711;0;13
+r;418042965;161387;151711;0;13
+r;418053980;16043361;151711;0;13
+r;418054049;15478007;151711;0;13
+r;418054058;198629;151711;0;13
+r;418371095;15324133;151711;0;13
+r;418372037;16059448;151711;0;13
+r;418372394;16059478;151711;0;13
+r;418372822;16059518;151711;0;13
+r;109888836;5553100;151711;0;14
+r;109888842;5553099;151711;0;14
+r;109889120;5540523;151711;0;14
+r;228279623;10055188;151711;0;14
+r;254596867;10363710;151711;0;14
+r;254596878;10363708;151711;0;14
+r;269878983;10775836;151711;0;14
+r;288385872;11247853;151711;0;14
+r;288386892;11247477;151711;0;14
+r;291813900;11363784;151711;0;14
+r;291814868;11363509;151711;0;14
+r;297641664;11577382;151711;0;14
+r;297642448;11577381;151711;0;14
+r;297944012;11590393;151711;0;14
+r;308014919;11933784;151711;0;14
+r;309078826;11955969;151711;0;14
+r;313805385;12054255;151711;0;14
+r;417509732;2219603;151711;0;14
+r;417514614;5570402;151711;0;14
+r;417735842;93589;151711;0;14
+r;417756923;20274;151711;0;14
+r;417759223;16032620;151711;0;14
+r;417761059;2135;151711;0;14
+r;417823131;250866;151711;0;14
+r;417865983;69699;151711;0;14
+r;417899549;4070;151711;0;14
+r;417972674;16040338;151711;0;14
+r;121897263;6534720;151711;0;15
+r;121897766;6534672;151711;0;15
+r;121897777;6534671;151711;0;15
+r;232103182;10062732;151711;0;15
+r;254167994;10352555;151711;0;15
+r;254177167;10347348;151711;0;15
+r;270205600;10821606;151711;0;15
+r;291672223;11363724;151711;0;15
+r;292539533;11391883;151711;0;15
+r;417752261;3128;151711;0;15
+r;417752476;16032390;151711;0;15
+r;417754706;185882;151711;0;15
+r;417755245;16032501;151711;0;15
+r;417755281;131046;151711;0;15
+r;417756690;119392;151711;0;15
+r;417850644;129045;151711;0;15
+r;418179111;16050561;151711;0;15
+r;428244850;14058716;151711;0;15
+r;429133473;15397966;151711;0;15
+r;227585411;10047569;151711;0;16
+r;232098464;10064336;151711;0;16
+r;291987084;11376755;151711;0;16
+r;292037172;11382875;151711;0;16
+r;340516284;13405105;151711;0;16
+r;417835320;102355;151711;0;16
+r;232468692;10083239;151711;0;17
+r;232468779;10083204;151711;0;17
+r;254085736;10350690;151711;0;17
+r;278383380;11004702;151711;0;17
+r;278383505;11004704;151711;0;17
+r;288439558;11254283;151711;0;17
+r;288439615;11254196;151711;0;17
+r;289660478;11305584;151711;0;17
+r;298008429;11610913;151711;0;17
+r;308830135;11968925;151711;0;17
+r;319038427;12283263;151711;0;17
+r;417775942;62762;151711;0;17
+r;418342506;229198;151711;0;17
+r;262046624;10509173;151711;0;18
+r;285651848;11161456;151711;0;18
+r;286023940;11175355;151711;0;18
+r;286065497;11176062;151711;0;18
+r;417604935;15991390;151711;0;18
+r;121847779;6538872;151711;0;19
+r;121847896;6538862;151711;0;19
+r;121848510;6538813;151711;0;19
+r;121848574;6538805;151711;0;19
+r;121852982;6538405;151711;0;19
+r;121858214;6537940;151711;0;19
+r;121858230;6537939;151711;0;19
+r;121858265;6537937;151711;0;19
+r;121858281;6537936;151711;0;19
+r;121858306;6537934;151711;0;19
+r;121858691;6537896;151711;0;19
+r;121858703;6537895;151711;0;19
+r;121858737;6537892;151711;0;19
+r;121858767;6537890;151711;0;19
+r;121859558;6537813;151711;0;19
+r;121866172;6537255;151711;0;19
+r;238923947;10177308;151711;0;19
+r;238929079;10175882;151711;0;19
+r;262206811;10516556;151711;0;19
+r;278385744;11004866;151711;0;19
+r;286817391;11181974;151711;0;19
+r;417607892;91908;151711;0;19
+r;417750822;80859;151711;0;19
+r;405085390;7016227;151711;0;20
+r;408208028;7612037;151711;0;20
+r;408208285;7053724;151711;0;20
+r;408208540;15449048;151711;0;20
+r;408269333;14930495;151711;0;20
+r;408565981;15051155;151711;0;20
+r;409303326;15091037;151711;0;20
+r;409548673;15431245;151711;0;20
+r;409548810;15431246;151711;0;20
+r;409548945;15431247;151711;0;20
+r;409959789;15413145;151711;0;20
+r;409973310;15214755;151711;0;20
+r;410119064;15148208;151711;0;20
+r;410119065;14966353;151711;0;20
+r;410732532;15284351;151711;0;20
+r;410765472;46195;151711;0;20
+r;411340381;15326960;151711;0;20
+r;411340456;14943778;151711;0;20
+r;411340529;15274534;151711;0;20
+r;411340573;15274522;151711;0;20
+r;411340618;15425182;151711;0;20
+r;411340702;14929934;151711;0;20
+r;411341072;15426857;151711;0;20
+r;411341135;15426858;151711;0;20
+r;412684668;388941;151711;0;20
+r;412705162;15274521;151711;0;20
+r;412866970;249901;151711;0;20
+r;412875971;113941;151711;0;20
+r;412882658;15425183;151711;0;20
+r;413324929;15848534;151711;0;20
+r;413386374;15460237;151711;0;20
+r;413391176;15424221;151711;0;20
+r;413395781;14925873;151711;0;20
+r;413555942;15425181;151711;0;20
+r;413817979;13204592;151711;0;20
+r;413821127;109386;151711;0;20
+r;414606784;95550;151711;0;20
+r;426361963;14502827;151711;0;20
+r;426361996;15308148;151711;0;20
+r;426362003;14956386;151711;0;20
+r;426496145;15471329;151711;0;20
+r;426497067;15198815;151711;0;20
+r;428095554;2371962;151711;0;20
+r;428203944;15292673;151711;0;20
+r;428229023;15683829;151711;0;20
+r;428357464;369913;151711;0;20
+r;429108181;15194695;151711;0;20
+r;429109789;7487614;151711;0;20
+r;429189063;15021133;151711;0;20
+r;429973335;258984;151711;0;20
+r;430711975;15394806;151711;0;20
+r;431094269;15210931;151711;0;20
+r;431099623;14954186;151711;0;20
+r;431115227;139179;151711;0;20
+r;431183632;15133621;151711;0;20
+r;431184536;14058718;151711;0;20
+r;432238767;259489;151711;0;20
+r;432242697;15449409;151711;0;20
+r;432246039;15475159;151711;0;20
+r;432289349;254324;151711;0;20
+r;432297906;10679;151711;0;20
+r;432368438;15135494;151711;0;20
+r;432756839;15357308;151711;0;20
+r;432773586;100136;151711;0;20
+r;432776777;15806491;151711;0;20
+r;432807465;260661;151711;0;20
+r;14478344;117458;151711;0;21
+r;121854456;6538279;151711;0;21
+r;396837672;14921540;151711;0;21
+r;254085759;10350691;151711;0;21
+r;281769305;11104644;151711;0;21
+r;294097425;299932;151711;0;21
+r;397769410;15328861;151711;0;21
+r;401720678;15101239;151711;0;21
+r;417032074;15769618;151711;0;21
+r;417032080;15790390;151711;0;21
+r;121859725;6537796;151711;0;22
+r;282477292;11105635;151711;0;22
+r;285420967;11160687;151711;0;22
+r;327887784;12772460;151711;0;22
+r;373170014;14677939;151711;0;22
+r;369364437;167543;151711;0;22
+r;432752734;14935550;151711;0;22
+r;417865751;294055;151711;0;22
+r;1050885;154948;151711;0;23
+r;97144909;25397;151711;0;23
+r;121866183;6537254;151711;0;23
+r;285407069;11160553;151711;0;23
+r;295228281;11494371;151711;0;23
+r;327783505;12773368;151711;0;23
+r;369386634;12813;151711;0;23
+r;398146808;14941614;151711;0;23
+r;418042733;198360;151711;0;23
+r;121847017;6538939;151711;0;24
+r;121858319;6537933;151711;0;24
+r;282475958;11106525;151711;0;24
+r;432753706;15194124;151711;0;24
+r;417823125;179734;151711;0;24
+r;103669003;295183;151711;0;25
+r;373852532;45291;151711;0;25
+r;432756565;15320704;151711;0;25
+r;415805682;14940624;151711;0;25
+r;426259501;114072;151711;0;25
+r;432276473;15337823;151711;0;25
+r;434915590;246817;151711;0;25
+r;435589808;15424420;151711;0;25
+r;435589810;15424419;151711;0;25
+r;435589812;15424418;151711;0;25
+r;435589814;15424417;151711;0;25
+r;435589817;15421193;151711;0;25
+r;435589819;7016195;151711;0;25
+r;435589821;15424416;151711;0;25
+r;435589823;15424415;151711;0;25
+r;220018661;7665332;151711;0;26
+r;274827940;146105;151711;0;26
+r;369160735;4026845;151711;0;26
+r;369375208;117759;151711;0;26
+r;969650;126640;151711;0;27
+r;121858246;6537938;151711;0;27
+r;261025490;6761770;151711;0;27
+r;326895638;12720716;151711;0;27
+r;432756704;198359;151711;0;27
+r;55306411;2443424;151711;0;28
+r;121858200;6537941;151711;0;28
+r;282719396;11129320;151711;0;28
+r;298271918;11590392;151711;0;28
+r;324936511;12618722;151711;0;28
+r;326998602;12730408;151711;0;28
+r;338376798;13301450;151711;0;28
+r;395888080;15046745;151711;0;28
+r;50250619;2363455;151711;0;29
+r;107726907;3228611;151711;0;29
+r;323130122;12618721;151711;0;29
+r;326999171;12731483;151711;0;29
+r;327022680;12731484;151711;0;29
+r;397577412;15210932;151711;0;29
+r;401720772;15413307;151711;0;29
+r;1915455;92675;151711;0;30
+r;121859704;6537798;151711;0;30
+r;278658057;11008260;151711;0;30
+r;315118804;12079284;151711;0;30
+r;324523538;12675642;151711;0;30
+r;368861208;2437896;151711;0;30
+r;368996779;10187640;151711;0;30
+r;369052801;6017955;151711;0;30
+r;369333813;232029;151711;0;30
+r;414128696;15209853;151711;0;30
+r;414130172;15209854;151711;0;30
+r;396022874;15138896;151711;0;30
+r;396330128;14947863;151711;0;30
+r;398168931;15203154;151711;0;30
+r;398969290;155393;151711;0;30
+r;399866261;15314549;151711;0;30
+r;403007284;380082;151711;0;30
+r;407021805;15776059;151711;0;30
+r;407030372;7053921;151711;0;30
+r;408063507;14938353;151711;0;30
+r;408351546;242393;151711;0;30
+r;408423871;15198740;151711;0;30
+r;408424019;15235237;151711;0;30
+r;408424168;14925376;151711;0;30
+r;409146097;186233;151711;0;30
+r;409148141;276744;151711;0;30
+r;409469566;15429784;151711;0;30
+r;409469777;198411;151711;0;30
+r;409548409;15286742;151711;0;30
+r;409548542;15090855;151711;0;30
+r;410739878;15206823;151711;0;30
+r;410767560;30166;151711;0;30
+r;411240369;190776;151711;0;30
+r;412705955;15429785;151711;0;30
+r;412705956;15416355;151711;0;30
+r;412722214;15526698;151711;0;30
+r;413178138;14952156;151711;0;30
+r;413178241;15344340;151711;0;30
+r;413618822;339523;151711;0;30
+r;413818082;14934594;151711;0;30
+r;413978203;15209855;151711;0;30
+r;417603001;111690;151711;0;30
+r;418860718;15226272;151711;0;30
+r;428017464;15460238;151711;0;30
+r;428018478;15451650;151711;0;30
+r;428020773;15460234;151711;0;30
+r;428246247;15053091;151711;0;30
+r;429176785;14567067;151711;0;30
+r;429192995;16074353;151711;0;30
+r;430384342;16322665;151711;0;30
+r;430384783;16322664;151711;0;30
+r;430479818;15786273;151711;0;30
+r;430598156;14923386;151711;0;30
+r;430710419;15383567;151711;0;30
+r;430921878;15259772;151711;0;30
+r;430962399;15196409;151711;0;30
+r;430976339;15210766;151711;0;30
+r;431291212;198368;151711;0;30
+r;431319563;15298411;151711;0;30
+r;431319683;15335464;151711;0;30
+r;431319801;14931688;151711;0;30
+r;432203614;15421709;151711;0;30
+r;432203712;15303771;151711;0;30
+r;432276487;15337821;151711;0;30
+r;2195513;55433;151711;0;31
+r;50205000;2362896;151711;0;31
+r;125597579;7633539;151711;0;31
+r;125597574;7633540;151711;0;31
+r;317513121;12245939;151711;0;31
+r;418371397;15337820;151711;0;31
+r;1705796;225760;151711;0;32
+r;29738801;1820219;151711;0;32
+r;52226052;2377060;151711;0;32
+r;55711429;2462812;151711;0;33
+r;3099318;248370;151711;0;34
+r;417026372;15978267;151711;0;34
+r;1886150;236657;151711;0;35
+r;2050108;160829;151711;0;35
+r;2235836;45179;151711;0;35
+r;297067338;7671993;151711;0;35
+r;317968750;12248011;151711;0;35
+r;413966857;15079839;151711;0;35
+r;413966798;14940702;151711;0;35
+r;426362334;15323252;151711;0;35
+r;430710428;15424495;151711;0;35
+r;275103829;10934063;151711;0;36
+r;282405234;11122608;151711;0;36
+r;368867434;2411985;151711;0;36
+r;52483949;2483887;151711;0;37
+r;256309276;10429512;151711;0;37
+r;418123682;165454;151711;0;37
+r;121858752;6537891;151711;0;38
+r;50471753;2366993;151711;0;39
+r;52211155;2374831;151711;0;40
+r;298381723;10596886;151711;0;40
+r;361283606;14221956;151711;0;40
+r;359961434;140435;151711;0;40
+r;368996291;10349441;151711;0;40
+r;368996792;10186257;151711;0;40
+r;369010876;6649155;151711;0;40
+r;394875481;14934445;151711;0;40
+r;395977484;15473856;151711;0;40
+r;398013327;15268513;151711;0;40
+r;405171252;6875494;151711;0;40
+r;406552146;15358836;151711;0;40
+r;406552171;14943110;151711;0;40
+r;406552191;15776058;151711;0;40
+r;406552196;14927712;151711;0;40
+r;406552208;15443568;151711;0;40
+r;406552217;14938721;151711;0;40
+r;406552223;15426856;151711;0;40
+r;406574145;74059;151711;0;40
+r;406724758;15295840;151711;0;40
+r;406859928;15209323;151711;0;40
+r;407082071;198410;151711;0;40
+r;407705631;15199112;151711;0;40
+r;408269327;15149342;151711;0;40
+r;408991869;14940652;151711;0;40
+r;409023709;15396823;151711;0;40
+r;409610418;342593;151711;0;40
+r;409961330;14923399;151711;0;40
+r;410737559;152592;151711;0;40
+r;411994712;14940640;151711;0;40
+r;412850099;15053090;151711;0;40
+r;412896366;144493;151711;0;40
+r;413541304;15635348;151711;0;40
+r;413543372;228315;151711;0;40
+r;413979763;5165132;151711;0;40
+r;426361936;15210765;151711;0;40
+r;428020311;15635340;151711;0;40
+r;429192669;16072367;151711;0;40
+r;29750029;1820220;151711;0;41
+r;50173585;2361884;151711;0;41
+r;52482975;2485789;151711;0;41
+r;55694566;2461630;151711;0;41
+r;29637866;1816089;151711;0;42
+r;49942787;2357504;151711;0;42
+r;269870291;10778552;151711;0;44
+r;29619990;1814572;151711;0;45
+r;368965300;11698727;151711;0;45
+r;414123080;165458;151711;0;45
+r;253344961;10344491;151711;0;46
+r;333100916;7657898;151711;0;47
+r;34798383;2353743;151711;0;48
+r;190276224;8852735;151711;0;50
+r;212627362;9264340;151711;0;50
+r;217998836;9741415;151711;0;50
+r;274288663;10905361;151711;0;50
+r;348986121;13800791;151711;0;50
+r;371691727;14631060;151711;0;50
+r;402110785;15307262;151711;0;50
+r;402120819;15288307;151711;0;50
+r;402118330;15229831;151711;0;50
+r;402117874;15355297;151711;0;50
+r;402110793;15526793;151711;0;50
+r;402752556;12329135;151711;0;50
+r;395011114;15348959;151711;0;50
+r;395011328;15237143;151711;0;50
+r;395180060;15409772;151711;0;50
+r;398926882;15536720;151711;0;50
+r;402562240;15210759;151711;0;50
+r;402562245;15210760;151711;0;50
+r;403947496;15573998;151711;0;50
+r;403948263;350744;151711;0;50
+r;405420139;15249499;151711;0;50
+r;406543396;15070687;151711;0;50
+r;409962867;7029790;151711;0;50
+r;410009111;15782087;151711;0;50
+r;411714055;15779995;151711;0;50
+r;413391960;15424222;151711;0;50
+r;413393504;15460231;151711;0;50
+r;413394357;15460230;151711;0;50
+r;413396617;14925869;151711;0;50
+r;417961354;1812940;151711;0;50
+r;423809680;144907;151711;0;50
+r;1705430;177571;151711;0;51
+r;2576095;139115;151711;0;51
+r;11617514;160277;151711;0;51
+r;23395485;1379451;151711;0;51
+r;16896394;565938;151711;0;51
+r;21982487;1155971;151711;0;51
+r;29208294;1778173;151711;0;51
+r;31790507;1971943;151711;0;51
+r;52470716;2512116;151711;0;51
+r;54259165;2587039;151711;0;51
+r;76839213;3181754;151711;0;51
+r;93681210;3755811;151711;0;51
+r;101789579;4854188;151711;0;51
+r;103571267;4937692;151711;0;51
+r;371559055;260375;151711;0;51
+r;373263306;14680403;151711;0;51
+r;374358440;321400;151711;0;51
+r;16129943;456175;151711;0;52
+r;17939140;578656;151711;0;52
+r;29216993;1778925;151711;0;52
+r;29748173;1820904;151711;0;52
+r;31785899;1971723;151711;0;52
+r;52466484;2521086;151711;0;52
+r;52468358;2517257;151711;0;52
+r;77803700;3227782;151711;0;52
+r;77959210;3229851;151711;0;52
+r;93719205;3751837;151711;0;52
+r;13999125;395597;151711;0;53
+r;16437295;465733;151711;0;53
+r;17695948;573017;151711;0;53
+r;17816237;575405;151711;0;53
+r;18408890;586518;151711;0;53
+r;25266284;106376;151711;0;53
+r;25768765;1635520;151711;0;53
+r;27664931;1665102;151711;0;53
+r;27767249;1675264;151711;0;53
+r;29216867;1778926;151711;0;53
+r;52471468;2510780;151711;0;53
+r;59536239;2627330;151711;0;53
+r;77580605;3223794;151711;0;53
+r;83662536;3321263;151711;0;53
+r;93669076;3757121;151711;0;53
+r;102403210;4902784;151711;0;53
+r;102007367;4891683;151711;0;53
+r;153099;102585;151711;0;54
+r;16357634;463016;151711;0;54
+r;18229416;582180;151711;0;54
+r;18409085;586517;151711;0;54
+r;24443887;1476346;151711;0;54
+r;31833270;1973828;151711;0;54
+r;86221356;3372236;151711;0;54
+r;93685474;3757919;151711;0;54
+r;94044279;3754254;151711;0;54
+r;98856562;4332389;151711;0;54
+r;101789491;4854189;151711;0;54
+r;105074101;5059307;151711;0;54
+r;27687832;1667667;151711;0;55
+r;17160355;567834;151711;0;55
+r;16130850;440594;151711;0;55
+r;17879003;577324;151711;0;55
+r;29208163;1778225;151711;0;55
+r;29213797;1778788;151711;0;55
+r;29216643;1778769;151711;0;55
+r;30591047;1898750;151711;0;55
+r;52444577;2567685;151711;0;55
+r;52458153;2538699;151711;0;55
+r;53130684;2581081;151711;0;55
+r;91219158;3632534;151711;0;55
+r;93047727;3728222;151711;0;55
+r;25877541;1639730;151711;0;56
+r;72645931;2949544;151711;0;56
+r;16322125;462577;151711;0;56
+r;18242656;582528;151711;0;56
+r;22929673;1308088;151711;0;56
+r;29213862;1778782;151711;0;56
+r;29214155;1778637;151711;0;56
+r;29233310;1779998;151711;0;56
+r;52463573;2527570;151711;0;56
+r;55566183;2603051;151711;0;56
+r;72572548;2948721;151711;0;56
+r;77581294;3223795;151711;0;56
+r;85946130;3353708;151711;0;56
+r;86204662;3363353;151711;0;56
+r;86472179;3378080;151711;0;56
+r;93651451;3758989;151711;0;56
+r;93653291;3758798;151711;0;56
+r;98827644;4332390;151711;0;56
+r;386543;153681;151711;0;57
+r;27687844;1667668;151711;0;57
+r;23174575;1355683;151711;0;57
+r;29210455;1778211;151711;0;57
+r;29486678;1801391;151711;0;57
+r;29915529;1833622;151711;0;57
+r;30652365;1902218;151711;0;57
+r;31785520;1971721;151711;0;57
+r;52443435;2569968;151711;0;57
+r;52471344;2510952;151711;0;57
+r;55490526;2605647;151711;0;57
+r;235402;30030;151711;0;58
+r;16437321;465715;151711;0;58
+r;29184509;1777536;151711;0;58
+r;29212188;1778457;151711;0;58
+r;29398449;1792551;151711;0;58
+r;29487082;1801338;151711;0;58
+r;31834222;1973827;151711;0;58
+r;32046544;1976277;151711;0;58
+r;52447580;2560982;151711;0;58
+r;52474232;2504670;151711;0;58
+r;60244026;2636907;151711;0;58
+r;68371613;2787434;151711;0;58
+r;78333898;3232043;151711;0;58
+r;86471022;3378081;151711;0;58
+r;93680161;3755915;151711;0;58
+r;93718327;3751934;151711;0;58
+r;102341851;4901219;151711;0;58
+r;106728366;5306606;151711;0;58
+r;154250504;7657286;151711;0;58
+r;14033805;395938;151711;0;59
+r;16437319;465716;151711;0;59
+r;19526434;721876;151711;0;59
+r;27731080;1672029;151711;0;59
+r;29215646;1778924;151711;0;59
+r;29888874;1844291;151711;0;59
+r;30841150;1916523;151711;0;59
+r;52467994;2517923;151711;0;59
+r;74379237;3011794;151711;0;59
+r;75996362;1779441;151711;0;59
+r;76230626;3170346;151711;0;59
+r;83671707;3319418;151711;0;59
+r;84952614;287813;151711;0;59
+r;93984852;3756918;151711;0;59
+r;106808185;5317728;151711;0;59
+r;386155;154833;151711;0;60
+r;1621595;219493;151711;0;60
+r;16437293;465734;151711;0;60
+r;17102251;567421;151711;0;60
+r;21982920;1156006;151711;0;60
+r;22443866;1223502;151711;0;60
+r;29189931;1777723;151711;0;60
+r;29879764;1846335;151711;0;60
+r;29914360;1835033;151711;0;60
+r;31418960;1935087;151711;0;60
+r;33713427;2322993;151711;0;60
+r;52461803;2531153;151711;0;60
+r;76512811;3175787;151711;0;60
+r;84573997;3175788;151711;0;60
+r;86204654;3363354;151711;0;60
+r;86231872;3360287;151711;0;60
+r;93047589;3728219;151711;0;60
+r;105816760;5126370;151711;0;60
+r;105983795;5145777;151711;0;60
+r;210348213;9228451;151711;0;60
+r;368944823;12198404;151711;0;60
+r;402747613;15300762;151711;0;60
+r;402747610;15300761;151711;0;60
+r;400042141;15198040;151711;0;60
+r;400118152;14917464;151711;0;60
+r;405420143;15249500;151711;0;60
+r;406691459;14944855;151711;0;60
+r;408064773;15415341;151711;0;60
+r;408489905;15460220;151711;0;60
+r;409460244;15341002;151711;0;60
+r;409461016;15412681;151711;0;60
+r;409482989;224048;151711;0;60
+r;410733947;15294644;151711;0;60
+r;411950434;15217247;151711;0;60
+r;412747253;15266819;151711;0;60
+r;413385898;15226270;151711;0;60
+r;413387757;228548;151711;0;60
+r;413388375;15220487;151711;0;60
+r;413389798;260681;151711;0;60
+r;413397210;266118;151711;0;60
+r;426142342;16161871;151711;0;60
+r;174887;51905;151711;0;61
+r;29877041;1846894;151711;0;61
+r;29883301;1845488;151711;0;61
+r;29913252;1836598;151711;0;61
+r;29915984;1832608;151711;0;61
+r;19528561;721877;151711;0;62
+r;71820411;2928824;151711;0;62
+r;29873061;1847650;151711;0;63
+r;29883325;1845485;151711;0;63
+r;121858293;6537935;151711;0;63
+r;29486684;1801390;151711;0;65
+r;29883335;1845484;151711;0;65
+r;210348186;9227204;151711;0;65
+r;30364912;1877899;151711;0;66
+r;71495844;2787433;151711;0;66
+r;29914980;1834218;151711;0;67
+r;30006453;1857400;151711;0;67
+r;73121176;2954949;151711;0;67
+r;29883273;1845491;151711;0;68
+r;31007460;1920415;151711;0;68
+r;72649486;2949543;151711;0;68
+r;121859714;6537797;151711;0;68
+r;29865967;1849006;151711;0;70
+r;214843074;9564340;151711;0;70
+r;398984372;15210761;151711;0;70
+r;399627576;5970;151711;0;70
+r;405156935;15423033;151711;0;70
+r;406534827;15420597;151711;0;70
+r;406535049;15420598;151711;0;70
+r;407897347;15460219;151711;0;70
+r;407898145;14927708;151711;0;70
+r;407899842;15284347;151711;0;70
+r;408254848;15375231;151711;0;70
+r;409336805;215308;151711;0;70
+r;409337714;15198946;151711;0;70
+r;409957426;15284350;151711;0;70
+r;409958185;15413133;151711;0;70
+r;409958965;15226271;151711;0;70
+r;409963882;15198940;151711;0;70
+r;409964624;15198941;151711;0;70
+r;411454452;7743228;151711;0;70
+r;412226490;260637;151711;0;70
+r;281828412;11105471;151711;0;72
+r;93048172;3728220;151711;0;74
+r;361116150;14226802;151711;0;75
+r;76227241;3170264;151711;0;78
+r;164151;87222;151711;0;80
+r;93047754;3728218;151711;0;80
+r;397207913;15224888;151711;0;80
+r;396910453;15245132;151711;0;80
+r;402562252;15210764;151711;0;80
+r;404717306;15417987;151711;0;80
+r;404717312;15417988;151711;0;80
+r;405083031;15334692;151711;0;80
+r;405851440;15640013;151711;0;80
+r;405851572;15441533;151711;0;80
+r;405915808;15640014;151711;0;80
+r;406659345;370819;151711;0;80
+r;407331215;15427973;151711;0;80
+r;407331436;15634418;151711;0;80
+r;407850562;15640015;151711;0;80
+r;407850696;15640016;151711;0;80
+r;407850829;15640017;151711;0;80
+r;407850882;14925377;151711;0;80
+r;407851044;14918475;151711;0;80
+r;407851247;14922704;151711;0;80
+r;407851277;14925174;151711;0;80
+r;408036838;344710;151711;0;80
+r;410504822;158161;151711;0;80
+r;410505153;14930636;151711;0;80
+r;412972866;15413809;151711;0;80
+r;13507552;393386;151711;0;84
+r;195719;141683;151711;0;85
+r;196020993;6875520;151711;0;85
+r;395155091;12503948;151711;0;85
+r;400350117;6950276;151711;0;85
+r;400350869;15257614;151711;0;85
+r;405079234;14201666;151711;0;85
+r;292819762;2410398;151711;0;86
+r;211886572;408559;151711;0;89
+r;140553;23178;151711;0;90
+r;292819672;303298;151711;0;90
+r;401488412;14917017;151711;0;90
+r;402342809;15199804;151711;0;90
+r;402897839;92579;151711;0;90
+r;288942880;11217491;151711;0;95
+r;407279525;15639727;151711;0;95
+r;27281531;1655607;151711;0;97
+r;287468617;11217492;151711;0;98
+r;402747619;14948260;151711;0;100
+r;407279503;15639726;151711;0;100
+r;408349307;15634417;151711;0;100
+r;12059830;331009;151711;0;101
+r;12676520;356624;151711;0;101
+r;12676610;356605;151711;0;101
+r;12676666;356593;151711;0;101
+r;12716590;346720;151711;0;101
+r;28955474;1761249;151711;0;101
+r;408326784;15413533;151711;0;101
+r;12558514;385700;151711;0;102
+r;12660188;360646;151711;0;102
+r;12676378;356654;151711;0;102
+r;12676488;356632;151711;0;102
+r;12676544;356618;151711;0;102
+r;12676566;356614;151711;0;102
+r;12676570;356613;151711;0;102
+r;12676606;356606;151711;0;102
+r;12676626;356601;151711;0;102
+r;12676634;356600;151711;0;102
+r;12676646;356598;151711;0;102
+r;12676658;356595;151711;0;102
+r;12681746;355355;151711;0;102
+r;12700352;350748;151711;0;102
+r;12547502;388574;151711;0;103
+r;12547508;388573;151711;0;103
+r;12548424;388245;151711;0;103
+r;12548428;388244;151711;0;103
+r;12627240;368813;151711;0;103
+r;12667074;358936;151711;0;103
+r;12676370;356655;151711;0;103
+r;12676414;356648;151711;0;103
+r;12676432;356644;151711;0;103
+r;12676650;356597;151711;0;103
+r;12676684;356589;151711;0;103
+r;12676700;356585;151711;0;103
+r;12676704;356584;151711;0;103
+r;12676720;356581;151711;0;103
+r;12716594;346719;151711;0;103
+r;11876791;9834;151711;0;104
+r;12589714;378033;151711;0;104
+r;12612560;372403;151711;0;104
+r;12672012;357714;151711;0;104
+r;12676406;356649;151711;0;104
+r;12676500;356629;151711;0;104
+r;12676532;356621;151711;0;104
+r;12676536;356620;151711;0;104
+r;12676590;356608;151711;0;104
+r;12676688;356588;151711;0;104
+r;12676692;356587;151711;0;104
+r;12676710;356583;151711;0;104
+r;12676724;356580;151711;0;104
+r;12700356;350747;151711;0;104
+r;12717110;346591;151711;0;104
+r;12547498;388575;151711;0;105
+r;12612554;372404;151711;0;105
+r;12672006;357715;151711;0;105
+r;12675860;356776;151711;0;105
+r;12676386;356652;151711;0;105
+r;12676476;356635;151711;0;105
+r;12676512;356626;151711;0;105
+r;12676524;356623;151711;0;105
+r;12676614;356604;151711;0;105
+r;12676642;356599;151711;0;105
+r;12676662;356594;151711;0;105
+r;12700344;350750;151711;0;105
+r;12720430;346010;151711;0;105
+r;12740318;341202;151711;0;105
+r;373034089;14657039;151711;0;105
+r;393650970;14940641;151711;0;105
+r;407278744;15413532;151711;0;105
+r;12584246;379334;151711;0;106
+r;12676456;356638;151711;0;106
+r;12676480;356634;151711;0;106
+r;12676504;356628;151711;0;106
+r;12676508;356627;151711;0;106
+r;12676556;356616;151711;0;106
+r;12727986;344140;151711;0;106
+r;12759728;336476;151711;0;106
+r;11858448;135891;151711;0;107
+r;12559930;385360;151711;0;107
+r;12656280;361584;151711;0;107
+r;12676552;356617;151711;0;107
+r;12676560;356615;151711;0;107
+r;12676582;356610;151711;0;107
+r;12676654;356596;151711;0;107
+r;12676696;356586;151711;0;107
+r;12681664;355375;151711;0;107
+r;12691530;352928;151711;0;107
+r;12700348;350749;151711;0;107
+r;12713396;347492;151711;0;107
+r;12717116;346590;151711;0;107
+r;12558510;385701;151711;0;108
+r;12612546;372405;151711;0;108
+r;12612574;372401;151711;0;108
+r;12676464;356637;151711;0;108
+r;12676472;356636;151711;0;108
+r;12676492;356631;151711;0;108
+r;12676596;356607;151711;0;108
+r;12676674;356591;151711;0;108
+r;12676716;356582;151711;0;108
+r;12713316;347508;151711;0;108
+r;12743248;340496;151711;0;108
+r;11864670;93438;151711;0;109
+r;12545742;389041;151711;0;109
+r;12612244;372484;151711;0;109
+r;12612568;372402;151711;0;109
+r;12624200;369587;151711;0;109
+r;12676394;356651;151711;0;109
+r;12676484;356633;151711;0;109
+r;12676528;356622;151711;0;109
+r;12676678;356590;151711;0;109
+r;12716586;346721;151711;0;109
+r;27281527;1655608;151711;0;109
+r;12584200;379345;151711;0;110
+r;12593648;377079;151711;0;110
+r;12608244;373448;151711;0;110
+r;12676516;356625;151711;0;110
+r;12676574;356612;151711;0;110
+r;12676586;356609;151711;0;110
+r;12676670;356592;151711;0;110
+r;401020891;14934593;151711;0;110
+r;399810433;15272449;151711;0;110
+r;407278700;15227929;151711;0;110
+r;407278722;15238281;151711;0;110
+r;407331114;15626161;151711;0;110
+r;407331335;15634419;151711;0;110
+r;408349408;15626160;151711;0;110
+r;409547735;15506181;151711;0;110
+r;193181;146483;151711;0;111
+r;12013892;330754;151711;0;112
+r;210569210;8013201;151711;0;112
+r;121897249;6534721;151711;0;114
+r;396844815;15210769;151711;0;120
+r;12005049;330583;151711;0;123
+r;226696084;9227209;151711;0;125
+r;121859690;6537799;151711;0;128
+r;395692494;15312680;151711;0;130
+r;154253713;7465803;151711;0;132
+r;12676540;356619;151711;0;133
+r;29205706;1777938;151711;0;134
+r;227443768;9227199;151711;0;135
+r;121858330;6537932;151711;0;138
+r;70116;39630;151711;0;143
+r;9379231;15379;151711;0;143
+r;9379774;17060;151711;0;143
+r;9380412;19095;151711;0;143
+r;9380549;19583;151711;0;143
+r;9386250;35785;151711;0;143
+r;9388100;41137;151711;0;143
+r;9390200;47296;151711;0;143
+r;9390284;47509;151711;0;143
+r;9391821;51424;151711;0;143
+r;9392786;54126;151711;0;143
+r;87025366;3382099;151711;0;143
+r;9398466;70115;151711;0;144
+r;9403806;84960;151711;0;144
+r;9404458;86701;151711;0;144
+r;9408315;97351;151711;0;144
+r;9413803;111824;151711;0;144
+r;9416029;117873;151711;0;144
+r;9416935;120196;151711;0;144
+r;9418181;123724;151711;0;144
+r;9419681;127712;151711;0;144
+r;9420902;131097;151711;0;144
+r;117221;136788;151711;0;145
+r;9429150;145581;151711;0;145
+r;9429718;146809;151711;0;145
+r;9429829;151555;151711;0;145
+r;9429883;151652;151711;0;145
+r;9429984;151854;151711;0;145
+r;9430195;152239;151711;0;145
+r;9430717;153106;151711;0;145
+r;9430880;153341;151711;0;145
+r;9430955;153416;151711;0;145
+r;9432110;154805;151711;0;145
+r;9432247;154997;151711;0;145
+r;9432277;155028;151711;0;145
+r;9433195;156093;151711;0;145
+r;9433854;156779;151711;0;145
+r;9434030;157322;151711;0;145
+r;9434069;157503;151711;0;145
+r;9434116;157695;151711;0;145
+r;9434822;158827;151711;0;145
+r;9435130;159218;151711;0;145
+r;9435341;159454;151711;0;145
+r;9435974;160208;151711;0;145
+r;9436254;160605;151711;0;145
+r;9436327;160699;151711;0;145
+r;9436343;160742;151711;0;145
+r;9436889;161371;151711;0;145
+r;9437226;161857;151711;0;145
+r;9437749;162678;151711;0;145
+r;9437996;163083;151711;0;145
+r;9438911;164290;151711;0;145
+r;9439001;164370;151711;0;145
+r;9439035;164424;151711;0;145
+r;9439241;164637;151711;0;145
+r;9439306;164722;151711;0;145
+r;9439324;164749;151711;0;145
+r;9439783;165401;151711;0;145
+r;9439812;165434;151711;0;145
+r;9440126;165930;151711;0;145
+r;9440128;165931;151711;0;145
+r;9440199;166055;151711;0;145
+r;9440203;166058;151711;0;145
+r;9440360;166265;151711;0;145
+r;9440395;166320;151711;0;145
+r;9440578;166546;151711;0;145
+r;9441301;167535;151711;0;145
+r;9441546;167753;151711;0;145
+r;9441639;167853;151711;0;145
+r;9442123;168630;151711;0;145
+r;9442491;169658;151711;0;145
+r;9443397;170631;151711;0;145
+r;9443419;170644;151711;0;145
+r;9443798;170944;151711;0;145
+r;9443863;171028;151711;0;145
+r;10647717;33262;151711;0;145
+r;21028702;187641;151711;0;145
+r;61527511;97927;151711;0;145
+r;87042656;3395143;151711;0;145
+r;101997327;4890758;151711;0;145
+r;368957420;14463958;151711;0;145
+r;368957779;14433734;151711;0;145
+r;395811658;15358835;151711;0;145
+r;9394205;57956;151711;0;146
+r;9445735;175173;151711;0;146
+r;9448290;180911;151711;0;146
+r;9451618;182658;151711;0;146
+r;9451620;182659;151711;0;146
+r;9451621;182660;151711;0;146
+r;9451730;182720;151711;0;146
+r;9454834;184390;151711;0;146
+r;9460551;187311;151711;0;146
+r;18231554;582213;151711;0;146
+r;1526997;212930;151711;0;147
+r;9462206;188406;151711;0;147
+r;9464580;189844;151711;0;147
+r;9465911;190715;151711;0;147
+r;9466157;190852;151711;0;147
+r;9466452;191259;151711;0;147
+r;9466506;191283;151711;0;147
+r;9467242;191778;151711;0;147
+r;9470798;193946;151711;0;147
+r;9472581;195137;151711;0;147
+r;9472588;195166;151711;0;147
+r;9472665;195284;151711;0;147
+r;9480020;199587;151711;0;147
+r;9480132;199662;151711;0;147
+r;9483785;201548;151711;0;147
+r;9483787;201549;151711;0;147
+r;9483788;201550;151711;0;147
+r;9483792;201552;151711;0;147
+r;9483794;201553;151711;0;147
+r;9483796;201554;151711;0;147
+r;9483799;201556;151711;0;147
+r;9483801;201557;151711;0;147
+r;9483803;201558;151711;0;147
+r;9485231;202519;151711;0;147
+r;9485524;202697;151711;0;147
+r;9486490;203298;151711;0;147
+r;9486961;203577;151711;0;147
+r;9490565;205707;151711;0;147
+r;9490568;205708;151711;0;147
+r;9495396;208339;151711;0;147
+r;9496312;208894;151711;0;147
+r;9498174;209987;151711;0;147
+r;9501582;211836;151711;0;147
+r;9503401;213880;151711;0;147
+r;9504470;215970;151711;0;147
+r;9504580;216273;151711;0;147
+r;9505072;217744;151711;0;147
+r;9507536;221805;151711;0;147
+r;9508020;222379;151711;0;147
+r;9508549;223311;151711;0;147
+r;9510307;226511;151711;0;147
+r;9512625;229969;151711;0;147
+r;9512815;230242;151711;0;147
+r;9513683;231360;151711;0;147
+r;9515334;233629;151711;0;147
+r;9517761;237157;151711;0;147
+r;9520300;242017;151711;0;147
+r;9520362;242172;151711;0;147
+r;9522095;245128;151711;0;147
+r;9522576;245999;151711;0;147
+r;9523370;247132;151711;0;147
+r;9523724;247547;151711;0;147
+r;9525217;249460;151711;0;147
+r;9525959;250246;151711;0;147
+r;9526309;250619;151711;0;147
+r;9526382;250701;151711;0;147
+r;9527686;252115;151711;0;147
+r;9528698;253099;151711;0;147
+r;9528751;253134;151711;0;147
+r;9529776;254009;151711;0;147
+r;9529816;254047;151711;0;147
+r;9533244;256403;151711;0;147
+r;9534593;257261;151711;0;147
+r;9534595;257262;151711;0;147
+r;9534605;257271;151711;0;147
+r;9537760;259444;151711;0;147
+r;9539715;260850;151711;0;147
+r;9539840;260932;151711;0;147
+r;9540630;261651;151711;0;147
+r;9541319;262218;151711;0;147
+r;9541320;262219;151711;0;147
+r;9545073;264916;151711;0;147
+r;9549040;268623;151711;0;147
+r;9550501;270188;151711;0;147
+r;9550762;270563;151711;0;147
+r;9552238;272021;151711;0;147
+r;9555195;274273;151711;0;147
+r;9555403;274427;151711;0;147
+r;9561689;280578;151711;0;147
+r;9563605;282402;151711;0;147
+r;9563609;282403;151711;0;147
+r;9564700;283513;151711;0;147
+r;9566021;284671;151711;0;147
+r;9566862;285444;151711;0;147
+r;9568373;286588;151711;0;147
+r;9571342;288586;151711;0;147
+r;9574205;291289;151711;0;147
+r;9575397;292425;151711;0;147
+r;9576798;293934;151711;0;147
+r;9577588;294815;151711;0;147
+r;9577763;295005;151711;0;147
+r;9580509;297825;151711;0;147
+r;9582646;299970;151711;0;147
+r;9588817;306308;151711;0;147
+r;10635569;170611;151711;0;147
+r;15780936;438534;151711;0;147
+r;84577679;3171889;151711;0;147
+r;9593334;308983;151711;0;148
+r;9594105;309587;151711;0;148
+r;9594833;310224;151711;0;148
+r;9595946;311131;151711;0;148
+r;9598300;312859;151711;0;148
+r;9599153;313639;151711;0;148
+r;9599190;313669;151711;0;148
+r;9601270;315724;151711;0;148
+r;9601836;316254;151711;0;148
+r;9601988;316422;151711;0;148
+r;9602739;317321;151711;0;148
+r;9606336;320536;151711;0;148
+r;9606856;321294;151711;0;148
+r;9606857;321295;151711;0;148
+r;9607257;321744;151711;0;148
+r;9607330;321829;151711;0;148
+r;9607346;321845;151711;0;148
+r;9609084;324267;151711;0;148
+r;9609086;324268;151711;0;148
+r;9609555;324871;151711;0;148
+r;9969509;324997;151711;0;148
+r;11616176;329383;151711;0;148
+r;96460803;4309025;151711;0;148
+r;401872694;15582264;151711;0;150
+r;401872703;15632269;151711;0;150
+r;401873046;15439595;151711;0;150
+r;401873056;15146172;151711;0;150
+r;401873066;15439596;151711;0;150
+r;9443992;171105;151711;0;154
+r;9451617;182657;151711;0;156
+r;9518578;238484;151711;0;157
+r;10680545;156668;151711;0;157
+r;9603132;317677;151711;0;158
+r;11616171;329384;151711;0;158
+r;294292060;11415077;151711;0;160
+r;395820014;14918101;151711;0;160
+r;9393935;57238;151711;0;163
+r;396910364;15245131;151711;0;165
+r;216846137;7681284;151711;0;165
+r;401872934;14931546;151711;0;165
+r;401873035;6905143;151711;0;165
+r;24254375;1463634;151711;0;166
+r;9483790;201551;151711;0;167
+r;9505623;218992;151711;0;167
+r;9508681;223574;151711;0;167
+r;9533818;256749;151711;0;167
+r;406839757;199312;151711;0;168
+r;401872925;14945867;151711;0;170
+r;9479568;199281;151711;0;172
+r;154215032;7219365;151711;0;197
+r;9434335;158199;151711;0;200
+r;29214479;1778777;151711;0;233
+r;29883315;1845486;151711;0;233
+r;154147675;7658917;151711;0;234
+r;358679432;14136087;151711;0;475
+r;9445741;175186;151711;0;476

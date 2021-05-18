@@ -1,0 +1,896 @@
+
+e;1759;'plus';1;374
+e;394271;'plus de transparence';1;50
+e;394272;'lutte pour plus de transparence';1;50
+e;388746;'à le plus fort de';1;50
+e;372430;'pour le plus grand profit';1;50
+e;372401;'pour la plus grande gloire de';1;50
+e;371271;'plus-value immobilière';1;50
+e;371254;'plus que';1;50
+e;379373;'sept pays les plus industrialisés';1;50
+e;371268;'plus vrai que nature';1;50
+e;371266;'plus spécialement';1;50
+e;361109;'le plus vite possible';1;50
+e;361104;'le plus mal';1;50
+e;357184;'guère plus que toi ou moi';1;50
+e;352592;'et qui plus est';1;50
+e;347851;'distance la plus courte d'un point à un autre';1;50
+e;346801;'de les plus';1;50
+e;346081;'dans l'abandon le plus total';1;50
+e;372442;'pour ne dire pas plus';1;50
+e;372403;'pour la plus grande joie de';1;50
+e;371272;'plus-value latente';1;50
+e;371263;'plus que sur';1;50
+e;371256;'plus que de coutume';1;50
+e;371246;'plus généralement';1;50
+e;371241;'plus en détail';1;50
+e;370099;'peut-être plus jamais';1;50
+e;369386;'pays les plus industrialisés';1;50
+e;369049;'pas plus malin que ça';1;50
+e;361108;'le plus tôt possible';1;50
+e;361105;'le plus naturellement possible';1;50
+e;354551;'fois plus que';1;50
+e;351732;'encore plus';1;50
+e;346476;'dans les rêves les plus fous de';1;50
+e;346432;'dans les délais les plus courts';1;50
+e;333057;'absolument plus';1;50
+e;392155;'ne plus rien y voir';1;50
+e;371265;'plus royaliste que le roi';1;50
+e;371257;'plus que honorable';1;50
+e;371253;'plus qu'un peu';1;50
+e;371240;'plus du tout';1;52
+e;370098;'peut-être plus';1;50
+e;369046;'pas plus haut que trois pommes';1;50
+e;358724;'impôt sur les plus-values';1;50
+e;346841;'de plus que';1;50
+e;346431;'dans les délais les plus brefs';1;50
+e;346193;'dans la déchéance la plus totale';1;50
+e;337452;'au plus serré';1;50
+e;337449;'au plus haut de';1;50
+e;391094;'plus grand diviseur commun';1;50
+e;391099;'plus petit commun diviseur';1;50
+e;372429;'pour le plus grand bien de';1;50
+e;371269;'plus à craindre';1;50
+e;371251;'plus pour cela';1;50
+e;371244;'plus facile à dire qu'à faire';1;50
+e;369051;'pas plus que ça';1;50
+e;361102;'le plus bêtement du monde';1;50
+e;346840;'de plus près';1;50
+e;346784;'de la plus haute antiquité';1;50
+e;337428;'au niveau le plus élevé de';1;50
+e;337427;'au niveau le plus élevé';1;50
+e;374780;'pôle plus';1;50
+e;372368;'pour en savoir plus';1;50
+e;371273;'plus-value mobilière';1;50
+e;371267;'plus tard que prévu';1;50
+e;369047;'pas plus mal que ça';1;50
+e;369044;'pas plus bête que ça';1;50
+e;367873;'ou je ne m'y connais plus';1;50
+e;361103;'le plus de';1;50
+e;337891;'avec pas plus de';1;50
+e;337426;'au niveau le plus haut de';1;50
+e;375938;'remerciements les plus vifs';1;50
+e;371258;'plus que jamais';1;50
+e;371252;'plus précisément';1;50
+e;371245;'plus grand nombre';1;50
+e;369045;'pas plus difficile que ça';1;50
+e;361106;'le plus souvent possible';1;50
+e;348542;'du plus mauvais effet';1;50
+e;348540;'du plus bel effet';1;50
+e;346464;'dans les plus brefs délais';1;50
+e;346365;'dans le plus grand secret';1;50
+e;346216;'dans la légalité la plus stricte';1;50
+e;337451;'au plus offrant';1;8
+e;337425;'au niveau le plus haut';1;50
+e;388850;'à plus de frais';1;50
+e;387342;'voeux les plus sincères';1;6
+e;385641;'un plus pour';1;50
+e;382158;'survivance du plus apte';1;50
+e;373180;'probablement plus';1;50
+e;372431;'pour le plus grand profit de';1;50
+e;372428;'pour le plus grand bien';1;50
+e;372405;'pour la plus grande satisfaction de';1;50
+e;371270;'plus à faire';1;50
+e;371262;'plus que quiconque';1;50
+e;371260;'plus que personne';1;50
+e;371249;'plus mal que ça';1;50
+e;371242;'plus en vie';1;50
+e;369052;'pas plus tard qu'hier';1;50
+e;361107;'le plus tard possible';1;50
+e;352589;'et plus';1;50
+e;346842;'de plus que prévu';1;50
+e;346385;'dans le secret le plus total';1;50
+e;346143;'dans l'indifférence la plus totale';1;50
+e;392980;'Celle qui n'était plus';777;50
+e;388747;'à le plus profond de';1;50
+e;378650;'sans tarder plus';1;50
+e;372491;'pour être plus précis';1;50
+e;372402;'pour la plus grande joie';1;50
+e;371264;'plus que tout au monde';1;50
+e;371259;'plus que nécessaire';1;50
+e;371250;'plus ni moins que';1;50
+e;371243;'plus exactement';1;50
+e;371238;'plus de sitôt';1;52
+e;369048;'pas plus malin que le reste';1;50
+e;346298;'dans le chaos le plus complet';1;50
+e;344001;'clause de la nation la plus favorisée';1;50
+e;337746;'autrement plus';1;50
+e;337448;'au plus bas de';1;50
+e;393352;'La Raison du plus faible';1;50
+e;388752;'à les plus beaux jours de la vie de';1;50
+e;387779;'vraiment plus';1;50
+e;378636;'sans plus de façons';1;50
+e;378635;'sans plus';1;50
+e;372454;'pour plus tard';1;50
+e;372404;'pour la plus grande satisfaction';1;50
+e;371261;'plus que probable';1;50
+e;371255;'plus que certain';1;50
+e;371248;'plus haute récompense littéraire';1;50
+e;371247;'plus haute distinction';1;50
+e;371239;'plus des masses';1;50
+e;369050;'pas plus que toi ou moi';1;50
+e;361584;'ligne de plus grande pente';1;50
+e;358641;'imposition des plus-values';1;50
+e;351776;'endroits les plus inaccessibles';1;50
+e;348541;'du plus haut ridicule';1;50
+e;346839;'de plus en plus fort';1;50
+e;346320;'dans le dénuement le plus total';1;50
+e;337450;'au plus haut niveau de responsabilité';1;50
+e;391093;'plus petit diviseur commun';1;50
+e;393381;'production au plus juste';1;50
+e;47732;'plus-value';1;90
+e;14696;'plus-que-parfait';1;94
+e;171324;'ci-plus-haut';1;50
+e;171323;'ci-plus-bas';1;50
+e;149278;'nec-plus-ultra';1;50
+e;321977;'mettre en plus';1;50
+e;323382;'qui n'en finit plus';1;50
+e;323914;'mettre plus haut';1;50
+e;324324;'plus puissant';777;52
+e;329661;'plus haut sommet du monde';1;50
+e;325364;'ne plus donner signe de vie';1;50
+e;325859;'Nos plus belles années';1;50
+e;326521;'être plus fort';1;50
+e;330108;'continuer de plus belle';1;50
+e;315473;'plus de 50 ans';1;50
+e;316000;'et plus si affinités';1;50
+e;314201;'au plus dénombrable';1;50
+e;314335;'plus grand commun diviseur';1;50
+e;314336;'plus petit commun multiple';1;8
+e;314388;'signe plus';1;50
+e;314480;'plus grand commun';777;50
+e;219024;'le jour le plus long';1;56
+e;219605;'et en plus';1;54
+e;236271;'le plus grand cabaret du monde';666;50
+e;239615;'y voir plus clair';1;52
+e;247575;'le plus mauvais';1;50
+e;248894;'ne plus avoir faim';1;114
+e;249512;'ne plus savoir où se mettre';1;12
+e;250279;'ne plus avoir toutes ses facultés';1;50
+e;252425;'la raison du plus fort';1;4
+e;252429;'être le plus fort';1;34
+e;252432;'que le plus fort gagne';1;50
+e;253324;'ne plus y croire';1;10
+e;253325;'ne plus croire en rien';1;50
+e;255185;'au plus haut niveau';1;50
+e;255517;'ne plus avoir de mémoire';1;6
+e;256029;'ne plus avoir un rond';1;6
+e;256035;'ne plus avoir un sou vaillant';1;12
+e;256036;'ne plus avoir un centime';1;50
+e;256037;'ne plus avoir un sou';1;8
+e;258215;'n'être plus bon à rien';1;50
+e;258216;'ne plus être bon à rien';1;50
+e;258836;'ne plus pouvoir se regarder dans un miroir';1;6
+e;259220;'ne plus marcher';1;52
+e;259286;'ne plus en pouvoir';1;98
+e;259327;'ne plus en avoir pour longtemps';1;50
+e;260075;'jouer à qui a la plus grosse';1;50
+e;260210;'ce qui ne tue pas rend plus fort';1;50
+e;261868;'ne plus avoir mal';1;50
+e;263584;'le plus élevé';1;50
+e;313762;'au plus bas';1;50
+e;65378;'au plus';1;60
+e;102312;'Au plus fort de la nuit';1;50
+e;111937;'de plus';1;68
+e;114460;'le plus';1;60
+e;115342;'de la plus belle eau';1;50
+e;160433;'à plus';1;50
+e;163698;'ne tue plus';1;50
+e;171283;'au plus loin';1;50
+e;171284;'au plus sacrant';1;50
+e;210186;'à ne plus savoir qu'en faire';1;50
+e;210187;'à n'en plus finir';1;50
+e;210189;'à plus d'un titre';1;50
+e;210434;'c'est plus fort que de jouer au bouchon';1;50
+e;210965;'il doit plus d'argent qu'il n'est gros';1;50
+e;210976;'il n'est plus temps de';1;50
+e;210987;'il n'y a plus de saison';1;50
+e;210988;'il n'y a plus d'huile dans la lampe';1;50
+e;211315;'n'avoir pas un mot plus haut que l'autre';1;50
+e;211316;'n'avoir plus de jambes';1;50
+e;211362;'n'en jetez plus';1;50
+e;211363;'n'en parlons plus';1;52
+e;211365;'n'en plus finir';1;50
+e;211366;'n'en plus pouvoir';1;56
+e;211382;'n'être plus de ce monde';1;50
+e;211383;'n'être plus que le fantôme de soi-même';1;50
+e;211384;'n'être plus que l'ombre de soi-même';1;50
+e;211426;'on n'en fait plus';1;50
+e;219304;'rendre plus fort';1;166
+e;227746;'moi non plus';1;10
+e;227944;'raison du plus fort';1;50
+e;227945;'survie des plus aptes';1;2
+e;228535;'remettre à plus tard';1;88
+e;229633;'Jamais plus jamais';1;50
+e;230430;'Aimer est plus fort que d'être aimé';1;2
+e;230602;'point le plus haut';1;54
+e;232949;'rendre plus clair';1;2
+e;233485;'désir le plus fou';1;50
+e;233486;'désir le plus cher';1;50
+e;237913;'bit le plus significatif';1;50
+e;238719;'repousser à plus tard';1;26
+e;242439;'sans plus de précision';1;50
+e;243949;'plus rapide que son ombre';1;50
+e;244768;'placer plus haut';1;50
+e;246004;'plus vieux métier du monde';1;50
+e;246615;'méthode du plus fort reste';1;50
+e;246631;'plus que prévu';1;56
+e;247432;'rien ne va plus';1;54
+e;249139;'envie de plus';1;50
+e;250272;'rien de plus';1;2
+e;251380;'plus de peur que de mal';1;50
+e;252427;'parler plus fort';1;10
+e;255475;'voir plus loin que le bout de son nez';1;50
+e;256351;'rendre plus large';1;50
+e;257854;'plus cher';1;52
+e;258001;'rendre plus vif';1;50
+e;258066;'rendre plus gai';1;50
+e;260363;'plus petit';1;50
+e;260749;'plus facile à mettre sur le dos qu'une chèvre sur ses deux cornes';1;50
+e;261166;'partie la plus basse';1;50
+e;261193;'plus l'infini';1;36
+e;261195;'limite en plus l'infini';1;50
+e;263586;'plus grand';1;62
+e;313657;'parler plus bas';1;50
+e;25540;'la raison du plus fort est toujours la meilleure';1;52
+e;31998;'être au plus mal';1;50
+e;33442;'de plus belle';1;50
+e;44149;'au plus vite';1;50
+e;47683;'Le Droit du plus fort';1;50
+e;51224;'au plus juste';1;50
+e;52866;'le plus jeune';1;50
+e;67860;'le plus beau';1;52
+e;77436;'être le plus important';1;50
+e;81604;'le plus tôt';1;50
+e;81765;'le plus souvent';1;54
+e;83128;'une fois de plus';1;50
+e;84126;'en plus';1;70
+e;84549;'au plus faible';1;50
+e;92517;'au plus haut degré';1;50
+e;95420;'à plus forte raison';1;50
+e;101629;'Srebrenica, le scénario le plus sombre';1;50
+e;107860;'bien plus';1;52
+e;108311;'Pierre marche plus';1;50
+e;109407;'plus ancien';1;50
+e;110744;'Et pour quelques dollars de plus';1;74
+e;112498;'plus haut';1;68
+e;118283;'plus mal';1;50
+e;122381;'ne pas voir plus loin que le bout de son nez';1;52
+e;122417;'le plus sûr serait de';1;50
+e;124854;'le plus possible';1;50
+e;128575;'ne plus y tenir';1;50
+e;141077;'L'Événement le plus important depuis que l'homme a marché sur la Lune';1;50
+e;141394;'d'autant plus';1;52
+e;143784;'d'autant plus que';1;76
+e;145881;'L'amour est plus';1;50
+e;153622;'au plus fort';1;50
+e;154359;'la loi du plus fort';1;50
+e;159068;'à plus tard';1;52
+e;163433;'plus que parfait';1;60
+e;163864;'loi du plus fort';1;64
+e;165404;'plus vite';1;58
+e;171518;'en plus de';1;50
+e;211046;'jusqu'à plus ample informé';1;50
+e;211048;'jusqu'à plus soif';1;50
+e;171619;'ni plus ni moins';1;50
+e;171623;'on ne peut plus';1;50
+e;171655;'pas plus que sur la main';1;50
+e;202867;'les cordonniers sont toujours les plus mal chaussés';1;50
+e;202911;'les plaisanteries les plus courtes sont toujours les meilleures';1;50
+e;202912;'les plus grandes fortunes de France';1;50
+e;203237;'ma considération la plus distinguée';1;50
+e;203241;'ma plus respectueuse sympathie';1;50
+e;204299;'ne plus avoir un poil de sec';1;50
+e;204300;'ne plus en dormir';1;50
+e;204301;'ne plus être de première fraîcheur';1;50
+e;204302;'ne plus se posséder';1;50
+e;204303;'ne plus se sentir';1;50
+e;204304;'ne plus se sentir pisser';1;100
+e;205016;'par le plus grand des hasards';1;50
+e;205153;'pas le plus petit';1;50
+e;205156;'pas plus de';1;50
+e;206009;'pour plus de sûreté';1;50
+e;206609;'qui peut le plus peut le moins';1;50
+e;206610;'qui plus est';1;50
+e;206970;'répartition des restes selon le procédé de la plus forte moyenne';1;50
+e;206971;'répartition des restes selon le procédé des plus forts restes';1;50
+e;209158;'tomber plus bas que terre';1;50
+e;209194;'toujours plus';1;60
+e;209642;'vendre au plus offrant';1;50
+e;210048;'vouloir péter plus haut que son cul';1;52
+e;210256;'avant l'heure, c'est pas l'heure, après l'heure, c'est plus l'heure';1;52
+e;210314;'avoir plus d'un tour dans son sac';1;56
+e;211047;'jusqu'à plus faim';1;50
+e;211547;'plus d'une fois';1;50
+e;211548;'plus léger que l'air';1;54
+e;211644;'quand il n'y a plus d'avoine dans le râtelier, les chevaux se battent';1;50
+e;212328;'Je t'aime moi non plus';1;2
+e;264077;'pas un sou de plus';1;50
+e;264080;'ne plus avoir le sou';1;52
+e;266624;'jouer à qui pisse le plus loin';1;50
+e;270280;'au plus près';1;50
+e;271171;'OSS 117 : Rio ne répond plus';666;50
+e;276398;'Le plus grand cabaret du monde';777;50
+e;296537;'le plus grand';777;50
+e;304548;'des pluies qui tombent généralement avec plus d'abondance de janvier en février';777;50
+e;13063;'ne plus se connaître';1;50
+e;16101;'le plus grand nombre';1;50
+e;34829;'plus que tout';1;50
+e;42523;'sans plus tarder';1;50
+e;43917;'sans le plus petit';1;50
+e;46062;'Pierre a une démarche plus';1;50
+e;49202;'aller plus loin';1;50
+e;55780;'plus tôt';1;58
+e;81044;'plus tard';1;100
+e;89012;'plus mauvais';1;52
+e;91068;'tout au plus';1;50
+e;97404;'Vies des plus excellents peintres, sculpteurs et architectes';1;50
+e;123356;'nec plus ultra';1;58
+e;125154;'plus bas';1;58
+e;125944;'raison de plus';1;50
+e;130413;'promettre plus de beurre que de pain';1;50
+e;137340;'n'en pouvoir plus';1;50
+e;139258;'La jarre peut-elle être plus belle que l'eau';1;50
+e;141952;'plus qu'assez';1;50
+e;143545;'Rome n'est plus dans Rome';1;50
+e;155637;'dans le plus simple appareil';1;54
+e;158554;'nommé plus haut';1;74
+e;171666;'plus ou moins';1;62
+e;171729;'tant et plus';1;50
+e;171732;'tant plus que moins';1;50
+e;182731;'homme qui tire plus vite que son ombre';1;50
+e;184536;'tirer plus vite que son ombre';1;50
+e;186126;'être plus catholique que le pape';1;50
+e;186127;'être plus royaliste que le roi';1;50
+e;186357;'il en a plus bu que je ne lui en ai versé';1;50
+e;186416;'le donner au plus habile à mieux faire';1;50
+e;186421;'les yeux plus gros que le ventre';1;50
+e;186609;'ne plus avoir une cenne';1;50
+e;186610;'ne plus savoir quoi inventer';1;50
+e;187084;'du plus loin que';1;50
+e;196312;'au plus fort de';1;50
+e;196313;'au plus fort la poche';1;50
+e;196314;'au plus long';1;50
+e;196315;'au plus profond de son être';1;50
+e;202366;'jouer au plus fin';1;62
+e;203799;'mettre plus bas que terre';1;86
+e;204462;'non plus';1;50
+e;205201;'passer le plus clair de son temps à';1;50
+e;205705;'plus avant';1;50
+e;205706;'plus bête que méchant';1;50
+e;205707;'plus grande dimension';1;50
+e;205708;'plus grande élongation';1;50
+e;205709;'plus mort que vif';1;50
+e;205710;'plus ou moins bien';1;50
+e;205711;'plus personne';1;50
+e;205712;'plus petit dénominateur commun';1;50
+e;205714;'plus tôt que prévu';1;50
+e;265388;'plus fort';1;68
+e;266243;'plus vite qu'il ne faut pour le dire';1;28
+e;266666;'voir qui a la plus grosse';1;50
+e;268571;'plus loin que';1;50
+e;268835;'plus humain';1;50
+e;272324;'mot le plus long en français';777;50
+e;279095;'Dans son acception la plus générale';777;50
+e;279601;'plus large victoire';777;50
+e;279602;'plus large défaite';777;50
+e;283714;'Liste plus complète en anglais';777;50
+e;293122;'plus haut sommet';777;50
+e;294547;'plus grand élément';777;50
+e;294548;'plus petit élément';777;50
+e;305090;'signes plus';777;50
+e;305839;'signe plus ou moins';777;50
+e;313009;'ne plus être visible';1;50
+e;132662;'sans plus attendre';1;50
+e;133226;'plus loin';1;66
+e;135725;'plus que de raison';1;50
+e;185466;'aimer quelqu'un plus que ses yeux';1;50
+e;185486;'aller plus vite que la musique';1;50
+e;185688;'avoir plus facile';1;50
+e;186639;'parer au plus pressé';1;52
+e;186713;'péter plus haut que le trou';1;50
+e;186714;'péter plus haut que son cul';1;26
+e;186733;'plus que ça, tu meurs';1;50
+e;186799;'prouver par a plus b';1;50
+e;195875;'aller plus vite que le vent';1;50
+e;196642;'avoir les yeux plus grands que le ventre';1;58
+e;196643;'avoir les yeux plus gros que le ventre';1;50
+e;196656;'avoir plus de peur que de mal';1;50
+e;198368;'de la plus haute importance';1;50
+e;198633;'des plus huppé';1;50
+e;199746;'et plus vite que ça';1;50
+e;199858;'être au plus bas';1;50
+e;199966;'être du plus mauvais effet';1;50
+e;200079;'être plus mort que vif';1;50
+e;200094;'être promis aux plus hautes destinées';1;50
+e;14520;'vente au plus offrant';1;50
+e;198275;'dans le sens le plus large';1;50
+e;198601;'depuis les temps les plus reculés';1;50
+e;200598;'faire plus de bruit que de besogne';1;50
+e;5931;'un peu plus';1;50
+e;7429;'au plus haut point';1;50
+e;11605;'au plus tôt';1;50
+e;2317;'Mes nuits sont plus belles que vos jours';1;54
+e;3702;'Histoire des plus illustres architectes, dessinateurs, peintres depuis Cimabue';1;50
+e;9703;'Pierre est le plus paresseux de la classe';1;50
+e;183732;'plus-je-vous-vois, plus-je-vous-aime';1;50
+e;47941;'de plus en plus';1;50
+e;171419;'de plus en plus fort comme chez Nicolet';1;50
+e;211546;'plus de son plus d'image';1;50
+e;205713;'plus tôt que plus tard';1;50
+e;43903;'aller de plus en plus mal';1;50
+e;157094;'plus on est de fous plus on rit';1;50
+e;198406;'de plus en plus mal';1;50
+r;310761758;1759;722482;11;15
+r;310761759;1759;3308147;11;15
+r;310761760;1759;582459;11;15
+r;310761761;1759;722365;11;15
+r;310761762;1759;2349927;11;15
+r;310761763;1759;586550;11;15
+r;310761764;1759;584559;11;15
+r;310761765;1759;583357;11;15
+r;13702183;1759;394271;11;59
+r;13702179;1759;394272;11;59
+r;12546923;1759;388746;11;101
+r;12612431;1759;372430;11;101
+r;12612571;1759;372401;11;101
+r;12617247;1759;371271;11;101
+r;12617345;1759;371254;11;101
+r;13066890;1759;391537;11;101
+r;12584083;1759;379373;11;102
+r;12617259;1759;371268;11;102
+r;12617273;1759;371266;11;102
+r;12658247;1759;361109;11;102
+r;12658291;1759;361104;11;102
+r;12674169;1759;357184;11;102
+r;12692903;1759;352592;11;102
+r;12711915;1759;347851;11;102
+r;12716241;1759;346801;11;102
+r;12720123;1759;346081;11;102
+r;13066888;1759;391538;11;102
+r;12612391;1759;372442;11;103
+r;12612557;1759;372403;11;103
+r;12617243;1759;371272;11;103
+r;12617293;1759;371263;11;103
+r;12617333;1759;371256;11;103
+r;12617383;1759;371246;11;103
+r;12617411;1759;371241;11;103
+r;12622009;1759;370099;11;103
+r;12625041;1759;369386;11;103
+r;12626395;1759;369049;11;103
+r;12658255;1759;361108;11;103
+r;12658283;1759;361105;11;103
+r;12684955;1759;354551;11;103
+r;12696449;1759;351732;11;103
+r;12717793;1759;346476;11;103
+r;12718089;1759;346432;11;103
+r;12773217;1759;333057;11;103
+r;13156367;1759;392155;11;103
+r;12617277;1759;371265;11;104
+r;12617327;1759;371257;11;104
+r;12617347;1759;371253;11;104
+r;12617415;1759;371240;11;104
+r;12622013;1759;370098;11;104
+r;12626409;1759;369046;11;104
+r;12667935;1759;358724;11;104
+r;12716071;1759;346841;11;104
+r;12718099;1759;346431;11;104
+r;12719549;1759;346193;11;104
+r;12755797;1759;337452;11;104
+r;12755821;1759;337449;11;104
+r;13030291;1759;391094;11;104
+r;13031091;1759;391099;11;104
+r;12612437;1759;372429;11;105
+r;12617255;1759;371269;11;105
+r;12617355;1759;371251;11;105
+r;12617395;1759;371244;11;105
+r;12626387;1759;369051;11;105
+r;12658301;1759;361102;11;105
+r;12716075;1759;346840;11;105
+r;12716317;1759;346784;11;105
+r;12755887;1759;337428;11;105
+r;12755897;1759;337427;11;105
+r;12602781;1759;374780;11;106
+r;12612665;1759;372368;11;106
+r;12617239;1759;371273;11;106
+r;12617265;1759;371267;11;106
+r;12626405;1759;369047;11;106
+r;12626421;1759;369044;11;106
+r;12630777;1759;367873;11;106
+r;12658297;1759;361103;11;106
+r;12754141;1759;337891;11;106
+r;12755905;1759;337426;11;106
+r;12598157;1759;375938;11;107
+r;12617321;1759;371258;11;107
+r;12617351;1759;371252;11;107
+r;12617387;1759;371245;11;107
+r;12626417;1759;369045;11;107
+r;12658273;1759;361106;11;107
+r;12709043;1759;348542;11;107
+r;12709055;1759;348540;11;107
+r;12717875;1759;346464;11;107
+r;12718461;1759;346365;11;107
+r;12719373;1759;346216;11;107
+r;12755803;1759;337451;11;107
+r;12755915;1759;337425;11;107
+r;12546571;1759;388850;11;108
+r;12552003;1759;387342;11;108
+r;12558737;1759;385641;11;108
+r;12572985;1759;382158;11;108
+r;12609347;1759;373180;11;108
+r;12612423;1759;372431;11;108
+r;12612445;1759;372428;11;108
+r;12612543;1759;372405;11;108
+r;12617251;1759;371270;11;108
+r;12617297;1759;371262;11;108
+r;12617309;1759;371260;11;108
+r;12617363;1759;371249;11;108
+r;12617407;1759;371242;11;108
+r;12626381;1759;369052;11;108
+r;12658265;1759;361107;11;108
+r;12692909;1759;352589;11;108
+r;12716063;1759;346842;11;108
+r;12718363;1759;346385;11;108
+r;12719847;1759;346143;11;108
+r;13249687;1759;392980;11;108
+r;12546919;1759;388747;11;109
+r;12587137;1759;378650;11;109
+r;12612223;1759;372491;11;109
+r;12612565;1759;372402;11;109
+r;12617283;1759;371264;11;109
+r;12617315;1759;371259;11;109
+r;12617359;1759;371250;11;109
+r;12617403;1759;371243;11;109
+r;12617423;1759;371238;11;109
+r;12626399;1759;369048;11;109
+r;12718815;1759;346298;11;109
+r;12728557;1759;344001;11;109
+r;12754703;1759;337746;11;109
+r;12755827;1759;337448;11;109
+r;13386113;1759;393352;11;109
+r;12546895;1759;388752;11;110
+r;12550281;1759;387779;11;110
+r;12587203;1759;378636;11;110
+r;12587211;1759;378635;11;110
+r;12612359;1759;372454;11;110
+r;12612551;1759;372404;11;110
+r;12617303;1759;371261;11;110
+r;12617339;1759;371255;11;110
+r;12617369;1759;371248;11;110
+r;12617377;1759;371247;11;110
+r;12617419;1759;371239;11;110
+r;12626389;1759;369050;11;110
+r;12656277;1759;361584;11;110
+r;12668273;1759;358641;11;110
+r;12696267;1759;351776;11;110
+r;12709049;1759;348541;11;110
+r;12716081;1759;346839;11;110
+r;12718703;1759;346320;11;110
+r;12755809;1759;337450;11;110
+r;13030301;1759;391093;11;110
+r;13507571;1759;393381;11;110
+r;11871231;1759;47732;11;121
+r;11876109;1759;14696;11;121
+r;11855633;1759;171324;11;122
+r;11855637;1759;171323;11;122
+r;11857390;1759;149278;11;122
+r;9034460;1759;319524;11;148
+r;9034462;1759;319525;11;148
+r;9084679;1759;321977;11;148
+r;9188966;1759;323382;11;148
+r;9301557;1759;323914;11;148
+r;9343151;1759;324324;11;148
+r;11684549;1759;329661;11;148
+r;10737246;1759;325364;11;148
+r;11249199;1759;325859;11;148
+r;11495460;1759;326521;11;148
+r;11787030;1759;330108;11;148
+r;8870520;1759;315473;11;154
+r;8871035;1759;316000;11;154
+r;8825938;1759;314201;11;157
+r;8826043;1759;314335;11;158
+r;8826047;1759;314336;11;158
+r;8826087;1759;314388;11;158
+r;8826145;1759;314480;11;158
+r;8691364;1759;219024;11;160
+r;8691691;1759;219605;11;160
+r;8703746;1759;236271;11;160
+r;8706281;1759;239615;11;160
+r;8711052;1759;247575;11;160
+r;8712231;1759;248894;11;160
+r;8712798;1759;249512;11;160
+r;8713664;1759;250279;11;160
+r;8716008;1759;252425;11;160
+r;8716015;1759;252429;11;160
+r;8716020;1759;252432;11;160
+r;8716986;1759;253324;11;160
+r;8716988;1759;253325;11;160
+r;8719481;1759;255185;11;160
+r;8719887;1759;255517;11;160
+r;8720623;1759;256029;11;160
+r;8720639;1759;256035;11;160
+r;8720643;1759;256036;11;160
+r;8720646;1759;256037;11;160
+r;8723717;1759;258215;11;160
+r;8723720;1759;258216;11;160
+r;8724664;1759;258836;11;160
+r;8725250;1759;259220;11;160
+r;8725352;1759;259286;11;160
+r;8725424;1759;259327;11;160
+r;8726454;1759;260075;11;160
+r;8726636;1759;260210;11;160
+r;8728635;1759;261868;11;160
+r;8730824;1759;263584;11;160
+r;8812010;1759;313762;11;160
+r;8592093;1759;65378;11;161
+r;8604960;1759;102312;11;161
+r;8608509;1759;111937;11;161
+r;8609429;1759;114460;11;161
+r;8609726;1759;115342;11;161
+r;8626884;1759;160433;11;161
+r;8628557;1759;163698;11;161
+r;8633678;1759;171283;11;161
+r;8633680;1759;171284;11;161
+r;8684843;1759;210186;11;161
+r;8684846;1759;210187;11;161
+r;8684848;1759;210189;11;161
+r;8685222;1759;210434;11;161
+r;8685952;1759;210965;11;161
+r;8685987;1759;210976;11;161
+r;8686007;1759;210987;11;161
+r;8686009;1759;210988;11;161
+r;8686476;1759;211315;11;161
+r;8686480;1759;211316;11;161
+r;8686561;1759;211362;11;161
+r;8686562;1759;211363;11;161
+r;8686564;1759;211365;11;161
+r;8686566;1759;211366;11;161
+r;8686588;1759;211382;11;161
+r;8686590;1759;211383;11;161
+r;8686593;1759;211384;11;161
+r;8686651;1759;211426;11;161
+r;8691539;1759;219304;11;161
+r;8697046;1759;227746;11;161
+r;8697164;1759;227944;11;161
+r;8697167;1759;227945;11;161
+r;8697552;1759;228535;11;161
+r;8698407;1759;229633;11;161
+r;8698978;1759;230430;11;161
+r;8699130;1759;230602;11;161
+r;8701377;1759;232949;11;161
+r;8701618;1759;233485;11;161
+r;8701621;1759;233486;11;161
+r;8705120;1759;237913;11;161
+r;8705616;1759;238719;11;161
+r;8707605;1759;242439;11;161
+r;8708384;1759;243949;11;161
+r;8708964;1759;244768;11;161
+r;8709756;1759;246004;11;161
+r;8710196;1759;246615;11;161
+r;8710220;1759;246631;11;161
+r;8710937;1759;247432;11;161
+r;8712410;1759;249139;11;161
+r;8713651;1759;250272;11;161
+r;8714985;1759;251380;11;161
+r;8716012;1759;252427;11;161
+r;8719834;1759;255475;11;161
+r;8721094;1759;256351;11;161
+r;8723217;1759;257854;11;161
+r;8723395;1759;258001;11;161
+r;8723486;1759;258066;11;161
+r;8726822;1759;260363;11;161
+r;8727286;1759;260749;11;161
+r;8727880;1759;261166;11;161
+r;8727889;1759;261193;11;161
+r;8727891;1759;261195;11;161
+r;8730826;1759;263586;11;161
+r;8811838;1759;313657;11;161
+r;8578444;1759;25540;11;162
+r;8580580;1759;31998;11;162
+r;8581036;1759;33442;11;162
+r;8584702;1759;44149;11;162
+r;8585907;1759;47683;11;162
+r;8587205;1759;51224;11;162
+r;8587806;1759;52866;11;162
+r;8592973;1759;67860;11;162
+r;8596175;1759;77436;11;162
+r;8597617;1759;81604;11;162
+r;8597677;1759;81765;11;162
+r;8598166;1759;83128;11;162
+r;8598483;1759;84126;11;162
+r;8598662;1759;84549;11;162
+r;8601503;1759;92517;11;162
+r;8602467;1759;95420;11;162
+r;8604719;1759;101629;11;162
+r;8607002;1759;107860;11;162
+r;8607189;1759;108311;11;162
+r;8607621;1759;109407;11;162
+r;8608068;1759;110744;11;162
+r;8608721;1759;112498;11;162
+r;8610738;1759;118283;11;162
+r;8612200;1759;122381;11;162
+r;8612210;1759;122417;11;162
+r;8613063;1759;124854;11;162
+r;8614407;1759;128575;11;162
+r;8619986;1759;141077;11;162
+r;8620133;1759;141394;11;162
+r;8621111;1759;143784;11;162
+r;8621893;1759;145881;11;162
+r;8623439;1759;153622;11;162
+r;8623897;1759;154359;11;162
+r;8626089;1759;159068;11;162
+r;8628407;1759;163433;11;162
+r;8628643;1759;163864;11;162
+r;8629584;1759;165404;11;162
+r;8633987;1759;171518;11;162
+r;8634056;1759;211046;11;162
+r;8634059;1759;211048;11;162
+r;8634098;1759;171619;11;162
+r;8634101;1759;171623;11;162
+r;8634130;1759;171655;11;162
+r;8672629;1759;202867;11;162
+r;8672707;1759;202911;11;162
+r;8672711;1759;202912;11;162
+r;8673265;1759;203237;11;162
+r;8673271;1759;203241;11;162
+r;8675146;1759;204299;11;162
+r;8675150;1759;204300;11;162
+r;8675152;1759;204301;11;162
+r;8675155;1759;204302;11;162
+r;8675157;1759;204303;11;162
+r;8675159;1759;204304;11;162
+r;8676220;1759;205016;11;162
+r;8676428;1759;205153;11;162
+r;8676432;1759;205156;11;162
+r;8677796;1759;206009;11;162
+r;8678737;1759;206609;11;162
+r;8678739;1759;206610;11;162
+r;8679414;1759;206970;11;162
+r;8679421;1759;206971;11;162
+r;8683127;1759;209158;11;162
+r;8683182;1759;209194;11;162
+r;8683987;1759;209642;11;162
+r;8684713;1759;210048;11;162
+r;8684944;1759;210256;11;162
+r;8685050;1759;210314;11;162
+r;8686099;1759;211047;11;162
+r;8686805;1759;211547;11;162
+r;8686807;1759;211548;11;162
+r;8686908;1759;211644;11;162
+r;8687833;1759;212328;11;162
+r;8731567;1759;264077;11;162
+r;8731573;1759;264080;11;162
+r;8734319;1759;266624;11;162
+r;8737945;1759;270280;11;162
+r;8738691;1759;271171;11;162
+r;8744503;1759;276398;11;162
+r;8763609;1759;296537;11;162
+r;8770813;1759;304548;11;162
+r;8574324;1759;13063;11;163
+r;8575332;1759;16101;11;163
+r;8581531;1759;34829;11;163
+r;8584162;1759;42523;11;163
+r;8584641;1759;43917;11;163
+r;8585343;1759;46062;11;163
+r;8586461;1759;49202;11;163
+r;8588828;1759;55780;11;163
+r;8597420;1759;81044;11;163
+r;8600244;1759;89012;11;163
+r;8601011;1759;91068;11;163
+r;8603217;1759;97404;11;163
+r;8612523;1759;123356;11;163
+r;8613169;1759;125154;11;163
+r;8613465;1759;125944;11;163
+r;8615101;1759;130413;11;163
+r;8617858;1759;137340;11;163
+r;8619083;1759;139258;11;163
+r;8620376;1759;141952;11;163
+r;8621011;1759;143545;11;163
+r;8624588;1759;155637;11;163
+r;8625789;1759;158554;11;163
+r;8634141;1759;171666;11;163
+r;8634233;1759;171729;11;163
+r;8634238;1759;171732;11;163
+r;8640613;1759;182731;11;163
+r;8643629;1759;184536;11;163
+r;8646106;1759;186126;11;163
+r;8646109;1759;186127;11;163
+r;8646614;1759;186357;11;163
+r;8646754;1759;186416;11;163
+r;8646768;1759;186421;11;163
+r;8647186;1759;186609;11;163
+r;8647189;1759;186610;11;163
+r;8648007;1759;187084;11;163
+r;8661248;1759;196312;11;163
+r;8661249;1759;196313;11;163
+r;8661252;1759;196314;11;163
+r;8661254;1759;196315;11;163
+r;8671849;1759;202366;11;163
+r;8674275;1759;203799;11;163
+r;8675429;1759;204462;11;163
+r;8676496;1759;205201;11;163
+r;8677348;1759;205705;11;163
+r;8677350;1759;205706;11;163
+r;8677353;1759;205707;11;163
+r;8677356;1759;205708;11;163
+r;8677359;1759;205709;11;163
+r;8677362;1759;205710;11;163
+r;8677365;1759;205711;11;163
+r;8677367;1759;205712;11;163
+r;8677374;1759;205714;11;163
+r;8732977;1759;265388;11;163
+r;8733899;1759;266243;11;163
+r;8734379;1759;266666;11;163
+r;8736398;1759;268571;11;163
+r;8736608;1759;268835;11;163
+r;8739851;1759;272324;11;163
+r;8746655;1759;279095;11;163
+r;8747068;1759;279601;11;163
+r;8747071;1759;279602;11;163
+r;8750885;1759;283714;11;163
+r;8760780;1759;293122;11;163
+r;8761928;1759;294547;11;163
+r;8761931;1759;294548;11;163
+r;8771298;1759;305090;11;163
+r;8771726;1759;305839;11;163
+r;8779387;1759;313009;11;163
+r;8615909;1759;132662;11;164
+r;8616094;1759;133226;11;164
+r;8616987;1759;135725;11;164
+r;8644639;1759;185466;11;164
+r;8644674;1759;185486;11;164
+r;8645177;1759;185688;11;164
+r;8647252;1759;186639;11;164
+r;8647377;1759;186713;11;164
+r;8647380;1759;186714;11;164
+r;8647417;1759;186733;11;164
+r;8647512;1759;186799;11;164
+r;8660541;1759;195875;11;164
+r;8661973;1759;196642;11;164
+r;8661978;1759;196643;11;164
+r;8662014;1759;196656;11;164
+r;8664959;1759;198368;11;164
+r;8665391;1759;198633;11;164
+r;8667200;1759;199746;11;164
+r;8667380;1759;199858;11;164
+r;8667578;1759;199966;11;164
+r;8667755;1759;200079;11;164
+r;8667783;1759;200094;11;164
+r;8574804;1759;14520;11;165
+r;8664801;1759;198275;11;165
+r;8665341;1759;198601;11;165
+r;8668821;1759;200598;11;165
+r;8571933;1759;5931;11;166
+r;8572422;1759;7429;11;166
+r;8573806;1759;11605;11;166
+r;8570779;1759;2317;11;168
+r;8571168;1759;3702;11;168
+r;8573169;1759;9703;11;168
+r;8876303;1759;183732;11;282
+r;8586035;1759;47941;11;300
+r;8633878;1759;171419;11;300
+r;8686804;1759;211546;11;300
+r;8677371;1759;205713;11;301
+r;8584628;1759;43903;11;302
+r;8625333;1759;157094;11;302
+r;8665011;1759;198406;11;304

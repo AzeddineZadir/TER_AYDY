@@ -1,0 +1,22 @@
+
+e;147146;'couloirs';1;54
+e;15355139;'des bruits de couloirs';1;0
+e;15492053;'couloirs en enfilade';1;0
+e;15567560;'bruits de couloirs';1;0
+e;15503964;'arpenter les couloirs';1;0
+e;15363072;'Les couloirs sont passés au balai-brosse.';1;0
+e;10161340;'Des chambres et des couloirs';777;0
+e;12663643;'couloirs aériens';1;0
+e;15525462;'Il est interdit de fumer dans les couloirs.';1;0
+e;5988636;'mise en place de réseaux et de couloirs écologiques aux niveaux national et régional';777;0
+e;348907;'dédale de couloirs';1;50
+r;419773749;147146;15355139;11;30
+r;419743624;147146;15492053;11;31
+r;419666191;147146;15567560;11;32
+r;419607498;147146;15503964;11;33
+r;419495439;147146;15363072;11;35
+r;238096597;147146;10161340;11;44
+r;324932328;147146;12663643;11;50
+r;402105756;147146;15525462;11;50
+r;117876390;147146;5988636;11;53
+r;12707593;147146;348907;11;105

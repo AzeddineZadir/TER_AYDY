@@ -1,0 +1,6 @@
+
+e;4991;'rafraîchissement';1;66
+e;5713513;'fréquence de rafraîchissement';777;0
+e;11334413;'rafraîchissement de la mémoire';777;0
+r;112173871;4991;5713513;11;29
+r;290373071;4991;11334413;11;40

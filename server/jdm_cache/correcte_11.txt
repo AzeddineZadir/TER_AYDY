@@ -1,0 +1,26 @@
+
+e;265667;'correcte';1;84
+e;6375875;'puissance de produit incorrecte et correcte dans le même conteneur';1;0
+e;15354731;'couverture correcte';1;0
+e;16123926;'d'une manière correcte';1;0
+e;15354729;'conduite correcte';1;0
+e;15354738;'conformation tridimensionnelle correcte';1;0
+e;15241459;'Sa dissertation était correcte.';1;0
+e;3175171;'Tenue correcte exigée';777;0
+e;262594;'tenue correcte';1;14
+e;203558;'mémoire correcte';1;50
+e;264353;'tenue correcte de rigueur';1;50
+e;264354;'tenue correcte exigée';1;58
+e;133684;'attention correcte';1;50
+r;303623868;265667;6375875;11;26
+r;419749003;265667;15354731;11;30
+r;420781262;265667;16123926;11;30
+r;419729809;265667;15354729;11;31
+r;419730687;265667;15354738;11;31
+r;419538565;265667;15241459;11;34
+r;76474044;265667;3175171;11;62
+r;8729476;265667;262594;11;161
+r;8673801;265667;203558;11;163
+r;8731898;265667;264353;11;163
+r;8731901;265667;264354;11;163
+r;8616236;265667;133684;11;164

@@ -1,0 +1,132 @@
+
+e;159983;'chambres';1;70
+e;6296334;'chambres privées';1;0
+e;6314471;'chambres des patients';1;0
+e;6315665;'chambres malades';1;0
+e;6331645;'chambres de perfusion veineuses';1;0
+e;6338518;'chambres implantables';1;0
+e;6374486;'chambres à atmosphère contrôlé';1;0
+e;6412165;'chambres stériles';1;0
+e;6295469;'échocardiographie pour déterminer la taille des chambres ventriculaires';1;0
+e;6411088;'lacération du coeur sans pénétration des chambres cardiaques ni plaie ouverte du thorax';1;0
+e;15384954;'Nous voudrions des chambres séparées.';1;0
+e;15384956;'avec cinq chambres';1;0
+e;15561363;'avec deux chambres';1;0
+e;15561365;'avec quatre chambres';1;0
+e;15384958;'avec sept chambres';1;0
+e;15384964;'avec six chambres';1;0
+e;15384960;'avec trois chambres';1;0
+e;15248437;'chambres d'hôte';1;0
+e;15384938;'chambres de métiers';1;0
+e;15384950;'chambres du Parlement';1;0
+e;15384948;'chambres à coucher';1;0
+e;16168522;'chambres communicantes';1;0
+e;6317175;'chambres de retenue valvées';1;0
+e;6324435;'chambres hyperbares';1;0
+e;6331795;'avec plaie ouverte du thorax lacération du coeur sans pénétration des chambres cardiaques';1;0
+e;6349063;'chambres à tissu';1;0
+e;6399395;'chambres de culture à diffusion';1;0
+e;15014351;'faire les chambres';1;0
+e;10674510;'liste des présidents de l'Assemblée nationale française et chambres assimilées';777;0
+e;5703410;'Conférence permanente des chambres consulaires africaines et francophones';777;0
+e;6088698;'Trois chambres à Manhattan';777;0
+e;6378636;'chambres semi-perméables';1;0
+e;6441753;'chambres de l'oeil';1;0
+e;6434813;'chambres d'hospitalisation';1;0
+e;10035579;'Dix mille chambres à coucher';777;0
+e;6437020;'chambres d'exposition à l'atmosphère';1;0
+e;6422751;'chambres d'espacement';1;0
+e;10922815;'liste des présidents du Sénat français et chambres assimilées';777;0
+e;1829987;'chambres du bulbe de l'il';1;0
+e;10933233;'chambres spéciales des tribunaux de district de Dili';777;0
+e;12051559;'entretenir les chambres';1;0
+e;6442810;'chambres d'inhalation';1;0
+e;12052434;'expliquer les caractéristiques des chambres aux clients';1;0
+e;10193237;'chambres de commerce et d'industrie';777;0
+e;11559482;'liste des présidents du Sénat français et des chambres assimilées';777;0
+e;10161340;'Des chambres et des couloirs';777;0
+e;11160510;'méthode des chambres et piliers';777;0
+e;6450960;'chambres d'exposition atmosphérique';1;0
+e;12714808;'liste des présidents de l'Assemblée nationale française et des chambres assimilées';777;0
+e;15478239;'Elle loue des chambres à des étudiants.';1;0
+e;15497488;'Il y dix chambres individuelles au troisième étage.';1;0
+e;15384940;'Il y a trois chambres.';1;0
+e;15384942;'Ils louent des chambres à des étudiants.';1;0
+e;15525076;''chambres d'hôte'';1;0
+e;15561360;''chambres à louer'';1;0
+e;1778417;'chambres du bulbe de l'oeil';1;0
+e;5521177;'contraction des chambres du coeur';1;0
+e;566520;'chambres régionales des comptes';777;50
+e;269978;'nombre de chambres allouées';1;50
+e;71204;'chambres de commerce';1;50
+e;146021;'chambres d'ionisation';1;50
+e;272335;'chambres d'hôtes';777;54
+e;273127;'chambres d'agriculture';777;50
+e;277982;'chambres de Raphaël';777;50
+e;279188;'chambres de rhétorique';777;50
+e;285106;'chambres des comptes';777;50
+r;298890172;159983;6296334;11;25
+r;299632749;159983;6314471;11;25
+r;299654209;159983;6315665;11;25
+r;300969927;159983;6331645;11;25
+r;301456741;159983;6338518;11;25
+r;303316696;159983;6374486;11;25
+r;305481453;159983;6412165;11;25
+r;340946307;159983;6295469;11;25
+r;401057626;159983;6411088;11;25
+r;419516485;159983;15384954;11;25
+r;419626001;159983;15384956;11;25
+r;419626105;159983;15561363;11;25
+r;419626593;159983;15561365;11;25
+r;419626679;159983;15384958;11;25
+r;419626687;159983;15384964;11;25
+r;419626784;159983;15384960;11;25
+r;419697260;159983;15248437;11;25
+r;419697264;159983;15384938;11;25
+r;419697268;159983;15384950;11;25
+r;419697272;159983;15384948;11;25
+r;423967772;159983;16168522;11;25
+r;299786679;159983;6317175;11;26
+r;300186000;159983;6324435;11;26
+r;300968819;159983;6331795;11;26
+r;301723340;159983;6349063;11;26
+r;305131656;159983;6399395;11;26
+r;392124210;159983;15014351;11;26
+r;270775864;159983;10674510;11;27
+r;112183305;159983;5703410;11;28
+r;119664102;159983;6088698;11;28
+r;303639757;159983;6378636;11;28
+r;121512350;159983;6441753;11;32
+r;121574426;159983;6434813;11;32
+r;227618482;159983;10035579;11;33
+r;121554724;159983;6437020;11;34
+r;122752028;159983;6422751;11;34
+r;274969127;159983;10922815;11;34
+r;29945766;159983;1829987;11;35
+r;275107028;159983;10933233;11;35
+r;313763251;159983;12051559;11;36
+r;121502665;159983;6442810;11;37
+r;313761943;159983;12052434;11;37
+r;243209405;159983;10193237;11;38
+r;296974238;159983;11559482;11;42
+r;238096595;159983;10161340;11;44
+r;285185231;159983;11160510;11;44
+r;121038752;159983;6450960;11;45
+r;326435742;159983;12714808;11;50
+r;397499155;159983;15478239;11;50
+r;402111038;159983;15497488;11;50
+r;402110690;159983;15384940;11;50
+r;402111861;159983;15384942;11;50
+r;397846983;159983;15525076;11;50
+r;398506591;159983;15561360;11;50
+r;29211572;159983;1778417;11;56
+r;109033049;159983;5521177;11;56
+r;16959955;159983;566520;11;59
+r;8737699;159983;269978;11;162
+r;8594065;159983;71204;11;163
+r;8621930;159983;146021;11;163
+r;8739858;159983;272335;11;163
+r;8740859;159983;273127;11;163
+r;8745766;159983;277982;11;163
+r;8746735;159983;279188;11;163
+r;8752373;159983;285106;11;163

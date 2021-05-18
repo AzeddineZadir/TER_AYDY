@@ -1,0 +1,988 @@
+
+e;51126;'cheveux';1;3106
+e;6285696;'cheveux décolorés';1;14
+e;6292254;'sécheresse des cheveux';1;0
+e;6336245;'grisonnement prématuré des cheveux';1;0
+e;6325269;'maladies des cheveux';1;0
+e;6335654;'variation de la couleur des cheveux';1;0
+e;6339205;'kératines des cheveux';1;0
+e;6339679;'cheveux crépus acquis progressivement';1;0
+e;6342103;'couleur des cheveux revenue';1;0
+e;6345054;'hétérochromie des cheveux';1;0
+e;6366771;'arrachage des cheveux';1;0
+e;6369966;'cheveux annelés';1;0
+e;6373397;'coloration anormale des cheveux';1;0
+e;6376920;'texture normale des cheveux';1;0
+e;6379266;'séquence en épingle à cheveux';1;0
+e;6382880;'cheveux secs';1;0
+e;6383974;'trouble des cheveux';1;0
+e;6385415;'texture anormale des cheveux';1;0
+e;6386604;'cheveux gris prématurés';1;0
+e;6386986;'cheveux en fourchettes';1;0
+e;6390746;'texture des cheveux';1;0
+e;6390785;'fragilité des cheveux';1;0
+e;6393419;'pousse anormale des cheveux';1;0
+e;6395158;'cheveux en bambou';1;0
+e;6396031;'peignage des cheveux';1;0
+e;6403419;'décolorants pour cheveux';1;0
+e;6411811;'cheveux raides frisés';1;0
+e;6411929;'cheveux assombris';1;0
+e;6420373;'teintures pour les cheveux';1;0
+e;12235087;'mesure de midazolam | technique indéterminée | cheveux | ponctuel | résultat numérique | masse/masse';1;0
+e;12234960;'mesure de méthylphénidate | technique indéterminée | cheveux | ponctuel | résultat numérique | masse/masse';1;0
+e;12234899;'mesure de méthylènedioxymethamphétamine | technique indéterminée | cheveux | ponctuel | résultat numérique | masse/masse';1;0
+e;12234878;'mesure de méthylènedioxyéthylamphétamine | technique indéterminée | cheveux | ponctuel | résultat numérique | masse/masse';1;0
+e;12234854;'mesure de méthylènedioxyamphétamine | technique indéterminée | cheveux | ponctuel | résultat numérique | masse/masse';1;0
+e;12234792;'mesure de méthionine/acides aminés totaux | technique indéterminée | cheveux | ponctuel | résultat numérique | fraction molaire';1;0
+e;12234712;'détermination de la présence de méthamphétamine | dépistage | cheveux | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12234711;'détermination de la présence de méthamphétamine | technique indéterminée | cheveux | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12234683;'détermination de la présence de méthadone | technique indéterminée | cheveux | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12234539;'détermination de la présence de mercure | technique indéterminée | cheveux | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12234527;'mesure de mercure | technique indéterminée | cheveux | ponctuel | résultat numérique | moles/masse';1;0
+e;12234508;'mesure de mercure | technique indéterminée | cheveux | ponctuel | résultat numérique | masse/masse';1;0
+e;12234471;'mesure de méphobarbital | technique indéterminée | cheveux | ponctuel | résultat numérique | masse/masse';1;0
+e;12234381;'mesure de m-chlorophénylpipérazine | technique indéterminée | cheveux | ponctuel | résultat numérique | masse/masse';1;0
+e;12234328;'mesure de manganèse | technique indéterminée | cheveux | ponctuel | résultat numérique | moles/masse';1;0
+e;12234314;'mesure de manganèse | technique indéterminée | cheveux | ponctuel | résultat numérique | masse/masse';1;0
+e;12234135;'mesure de lysine/acides aminés totaux | technique indéterminée | cheveux | ponctuel | résultat numérique | fraction molaire';1;0
+e;12234123;'détermination de la présence de lysergate diéthylamide | technique indéterminée | cheveux | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12233870;'mesure de lorazépam | technique indéterminée | cheveux | ponctuel | résultat numérique | masse/masse';1;0
+e;12233853;'mesure de longueur | technique indéterminée | cheveux | ponctuel | résultat numérique | longueur d'entité';1;0
+e;12233814;'mesure de lithium | technique indéterminée | cheveux | ponctuel | résultat numérique | moles/masse';1;0
+e;12233806;'mesure de lithium | technique indéterminée | cheveux | ponctuel | résultat numérique | masse/masse';1;0
+e;12233434;'mesure de leucine/acides aminés totaux | technique indéterminée | cheveux | ponctuel | résultat numérique | fraction molaire';1;0
+e;12232482;'mesure d'isoleucine/acides aminés totaux | technique indéterminée | cheveux | ponctuel | résultat numérique | fraction molaire';1;0
+e;12232469;'mesure d'isoleucine | technique indéterminée | cheveux | ponctuel | résultat numérique | moles/masse';1;0
+e;12232425;'mesure d'iode | technique indéterminée | cheveux | ponctuel | résultat numérique | moles/masse';1;0
+e;12232416;'mesure d'iode | technique indéterminée | cheveux | ponctuel | résultat numérique | masse/masse';1;0
+e;6329740;'cheveux cassants';1;0
+e;6411611;'raréfaction des cheveux';1;0
+e;6386198;'taux de cuivre dans les cheveux normal';1;0
+e;6303887;'taux de cuivre dans les cheveux anormal';1;0
+e;6302718;'taux de soufre dans les cheveux anormal';1;0
+e;6311161;'taux de soufre dans les cheveux normal';1;0
+e;6309183;'taux de zinc dans les cheveux normal';1;0
+e;6315840;'taux de mercure dans les cheveux normal';1;0
+e;6293057;'syndrome des cheveux anagènes caduques';1;0
+e;6362140;'changement de couleur des cheveux';1;0
+e;6388172;'taux de mercure dans les cheveux anormal';1;0
+e;6305490;'dosage de métal dans le cheveux normal';1;0
+e;6405147;'dosage de métal dans le cheveux anormal';1;0
+e;13996271;'cheveux roses';777;0
+e;6419643;'taux de zinc dans les cheveux anormal';1;0
+e;14400310;'se lisser les cheveux';1;0
+e;6330837;'pigmentation noire des racines des cheveux';1;0
+e;15295951;'Le noir fait ressortir la couleur de tes cheveux.';1;0
+e;15358714;'Les cheveux courts lui vont mieux.';1;0
+e;15301631;'Ses cheveux blonds étaient coiffés en coup de vent.';1;0
+e;15273747;'Ses cheveux ont besoin d'un shampoing.';1;0
+e;15388876;'Ses cheveux ont repoussé.';1;0
+e;15229829;'Ses cheveux sont sa grande fierté.';1;0
+e;15384174;'Tamsin a les cheveux roux.';1;0
+e;15384178;'Vous me reconnaîtrez à mes cheveux roux.';1;0
+e;15384820;'anti-chute des cheveux';1;0
+e;15384818;'antichute des cheveux';1;0
+e;16036097;'arracher les cheveux';1;0
+e;15379778;'attacher les cheveux en queue de cheval';1;0
+e;15291489;'aux cheveux blancs';1;0
+e;15389377;'aux cheveux bruns';1;0
+e;15341353;'aux cheveux châtains';1;0
+e;15525355;'aux cheveux clairs';1;0
+e;15379066;'aux cheveux de jais';1;0
+e;15530836;'aux cheveux frisés';1;0
+e;15197738;'aux cheveux ondulés';1;0
+e;15355984;'aux cheveux serpents';1;0
+e;15383624;'aux cheveux ébouriffés';1;0
+e;15427117;'avoir les cheveux au vent';1;0
+e;15456209;'avoir les cheveux blonds';1;0
+e;15456213;'avoir les cheveux bouclés';1;0
+e;15456215;'avoir les cheveux bruns';1;0
+e;15582764;'avoir les cheveux coiffés en arrière';1;0
+e;15456221;'avoir les cheveux crêpés';1;0
+e;15456223;'avoir les cheveux défrisés';1;0
+e;15300738;'avoir les cheveux en brosse';1;0
+e;15456228;'avoir les cheveux en broussaille';1;0
+e;15424582;'avoir les cheveux en carré court';1;0
+e;15451534;'avoir les cheveux en pétard';1;0
+e;15456229;'avoir les cheveux fatigués';1;0
+e;15456231;'avoir les cheveux fins';1;0
+e;15456233;'avoir les cheveux frisés';1;0
+e;15456235;'avoir les cheveux gominés';1;0
+e;15456239;'avoir les cheveux plaqués';1;0
+e;15429429;'avoir les cheveux poivre et sel';1;0
+e;15456242;'avoir les cheveux raides';1;0
+e;15444614;'avoir les cheveux roux';1;0
+e;15456226;'avoir les cheveux électriques';1;0
+e;15392163;'ayant les cheveux en brosse';1;0
+e;15571598;'cheveux brillants';1;0
+e;15222295;'cheveux châtain clair';1;0
+e;15270900;'cheveux châtain foncé';1;0
+e;15525351;'cheveux clairs';1;0
+e;15494769;'cheveux clairsemés';1;0
+e;15301633;'cheveux coiffés en coup de vent';1;0
+e;15250466;'cheveux colorés';1;0
+e;15358729;'cheveux coupés en brosse';1;0
+e;15358726;'cheveux coupés très courts';1;0
+e;15358728;'cheveux coupés à ras';1;0
+e;15199041;'cheveux d'argent';1;0
+e;15365948;'cheveux d'or';1;0
+e;15333728;'cheveux d'ébène';1;0
+e;15379064;'cheveux de jais';1;0
+e;15537302;'cheveux de neige';1;0
+e;15194359;'cheveux en pétard';1;0
+e;15362531;'cheveux en verre filé';1;0
+e;15538956;'cheveux fourchus';1;0
+e;15197735;'cheveux ombrés';1;0
+e;15376631;'cheveux oxygénés';1;0
+e;15346702;'cheveux peroxydés';1;0
+e;15393462;'cheveux télogènes';1;0
+e;15686433;'cheveux à la brosse';1;0
+e;15317936;'couleur de cheveux naturelle';1;0
+e;15584774;'coupant les cheveux en quatre';1;0
+e;15269350;'coupe de cheveux au carré';1;0
+e;15269353;'coupes de cheveux';1;0
+e;15252341;'crème à épiler les cheveux';1;0
+e;15516595;'des cheveux brillants';1;0
+e;15384821;'des cheveux gras';1;0
+e;15462868;'dégrader les cheveux à [qqn]';1;0
+e;12214721;'détermination de la présence de bêta-bloquants | dépistage | cheveux | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;6296301;'anomalies congénitales précisées des cheveux';1;0
+e;6296850;'fixatif pour cheveux';1;0
+e;6302639;'fragilité capillaire relative aux cheveux';1;0
+e;6303992;'produits de décoloration des cheveux';1;0
+e;6305391;'anomalies de la couleur des cheveux';1;0
+e;6371247;'raréfaction des cheveux dans la région frontopariétale';1;0
+e;6316914;'raréfaction des cheveux caractéristique chez la femme';1;0
+e;6321310;'couleur des cheveux renouvelée';1;0
+e;6330325;'maladies des cheveux et des follicules capillaires';1;0
+e;6330534;'odeur des cheveux';1;0
+e;6334330;'cheveux feutrés et emmêlés';1;0
+e;6334254;'mouvements stéréotypés avec arrachage des cheveux';1;0
+e;6344693;'défrisement de cheveux bouclés';1;0
+e;6375855;'tondeuse électrique pour cheveux';1;0
+e;6376769;'produits de soins des cheveux';1;0
+e;6391011;'couleur des cheveux modifiée';1;0
+e;6400957;'autres anomalies congénitales des cheveux';1;0
+e;6410242;'pousse des cheveux anormale';1;0
+e;6417556;'perruque en cheveux artificiels';1;0
+e;12238278;'détermination de la présence de péthidine | technique indéterminée | cheveux | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12238156;'mesure de pentobarbital | technique indéterminée | cheveux | ponctuel | résultat numérique | masse/masse';1;0
+e;12237520;'mesure de palladium | technique indéterminée | cheveux | ponctuel | résultat numérique | moles/masse';1;0
+e;12237514;'mesure de palladium | technique indéterminée | cheveux | ponctuel | résultat numérique | masse/masse';1;0
+e;12237353;'détermination de la présence d'oxycodone | technique indéterminée | cheveux | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12237339;'mesure d'oxycodone | technique indéterminée | cheveux | ponctuel | résultat numérique | masse/masse';1;0
+e;12237278;'mesure d'oxazépam | technique indéterminée | cheveux | ponctuel | résultat numérique | masse/masse';1;0
+e;12236985;'mesure d'or | technique indéterminée | cheveux | ponctuel | résultat numérique | masse/masse';1;0
+e;12236953;'détermination de la présence d'opiacés | dépistage | cheveux | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12236952;'détermination de la présence d'opiacés | technique indéterminée | cheveux | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12236621;'mesure de norpropoxyphène | technique indéterminée | cheveux | ponctuel | résultat numérique | masse/masse';1;0
+e;12236587;'mesure de normirtazapine | technique indéterminée | cheveux | ponctuel | résultat numérique | masse/masse';1;0
+e;12236466;'mesure de nordiazépam | technique indéterminée | cheveux | ponctuel | résultat numérique | masse/masse';1;0
+e;12236222;'détermination de la présence de nicotine | technique indéterminée | cheveux | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12236212;'mesure de nicotine | technique indéterminée | cheveux | ponctuel | résultat numérique | masse/masse';1;0
+e;12235918;'mesure de n-désalkylflurazépam | technique indéterminée | cheveux | ponctuel | résultat numérique | masse/masse';1;0
+e;12235360;'détermination de la présence de morphine | technique indéterminée | cheveux | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12235239;'mesure de molybdène | technique indéterminée | cheveux | ponctuel | résultat numérique | moles/masse';1;0
+e;12235227;'mesure de molybdène | technique indéterminée | cheveux | ponctuel | résultat numérique | masse/masse';1;0
+e;13637412;'maladie du cheveux';1;0
+e;6408964;'syndrome de tortillement d'une mèche de cheveux';1;0
+e;14486036;'cheveux attachés';1;0
+e;14486063;'attacher les cheveux';1;0
+e;14506245;'pas de cheveux';1;0
+e;14529828;'épingles à cheveux';1;2
+e;14535525;'attacher ses cheveux';1;2
+e;14540179;'cheveux emmêlés';1;26
+e;14669758;'se teindre les cheveux en blond';1;4
+e;14669760;'s'éclaircir les cheveux';1;0
+e;14670924;'teindre ses cheveux gris';1;2
+e;14670925;'cacher ses cheveux gris';1;0
+e;14715177;'blonde aux cheveux teints';1;0
+e;14715178;'cheveu blond';1;0
+e;14775261;'sèche cheveux';1;0
+e;15380428;'Laure a les cheveux raides.';1;0
+e;6284891;'autres maladies précisées des cheveux et des follicules capillaires';1;0
+e;6313309;'anomalies des cheveux';1;0
+e;6335554;'perruque en cheveux naturels';1;0
+e;12238980;'mesure de platine | technique indéterminée | cheveux | ponctuel | résultat numérique | moles/masse';1;0
+e;12238971;'mesure de platine | technique indéterminée | cheveux | ponctuel | résultat numérique | masse/masse';1;0
+e;12238528;'mesure de phénylalanine/acides aminés totaux | technique indéterminée | cheveux | ponctuel | résultat numérique | fraction molaire';1;0
+e;12238516;'détermination de la présence de phentermine | dépistage | cheveux | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12238440;'mesure de phénobarbital | technique indéterminée | cheveux | ponctuel | résultat numérique | masse/masse';1;0
+e;12238434;'détermination de la présence de phenmétrazine | dépistage | cheveux | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12238373;'détermination de la présence de phencyclidine | dépistage | cheveux | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12238372;'détermination de la présence de phencyclidine | technique indéterminée | cheveux | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;6424971;'ternissement des cheveux';1;0
+e;10876296;'La Mariée aux cheveux blancs';777;0
+e;12239776;'mesure de proline/acides aminés totaux | technique indéterminée | cheveux | ponctuel | résultat numérique | fraction molaire';1;0
+e;12239484;'mesure de posaconazole | technique indéterminée | cheveux | ponctuel | résultat numérique | masse/masse';1;0
+e;6435935;'taux d'aluminium dans les cheveux anormal';1;0
+e;6426698;'poux des cheveux';1;0
+e;6424348;'kératines spécifiques des cheveux';1;0
+e;11768987;'Gaule aux longs cheveux';777;0
+e;12241599;'mesure de silicium | technique indéterminée | cheveux | ponctuel | résultat numérique | moles/masse';1;0
+e;12241592;'mesure de silicium | technique indéterminée | cheveux | ponctuel | résultat numérique | masse/masse';1;0
+e;12241491;'mesure de sérine/acides aminés totaux | technique indéterminée | cheveux | ponctuel | résultat numérique | fraction molaire';1;0
+e;12241461;'mesure de sélénium | technique indéterminée | cheveux | ponctuel | résultat numérique | moles/masse';1;0
+e;12241444;'mesure de sélénium | technique indéterminée | cheveux | ponctuel | résultat numérique | masse/masse';1;0
+e;12241409;'mesure de sécobarbital | technique indéterminée | cheveux | ponctuel | résultat numérique | masse/masse';1;0
+e;12241128;'mesure de rubidium | technique indéterminée | cheveux | ponctuel | résultat numérique | masse/masse';1;0
+e;1830040;'maladie des cheveux anagènes caducs';1;0
+e;6427894;'exokératines spécifiques des cheveux';1;0
+e;10002270;'Rien que pour vos cheveux';777;0
+e;8012796;'avoir les cheveux en bataille';1;0
+e;11076939;'cheveux longs et idées courtes';777;0
+e;6429690;'couleur non naturelle des cheveux';1;0
+e;12242478;'mesure de strontium | technique indéterminée | cheveux | ponctuel | résultat numérique | moles/masse';1;0
+e;12242469;'mesure de strontium | technique indéterminée | cheveux | ponctuel | résultat numérique | masse/masse';1;0
+e;1830043;'cheveux tournés';1;0
+e;1830041;'cheveux cassants et retard mental';1;0
+e;1837574;'laque pour cheveux';1;0
+e;5897613;'épingle à cheveux bêta';777;0
+e;6441181;'dosage de l'arsenic dans les cheveux';1;0
+e;6429431;'variations de la couleur des cheveux';1;0
+e;5946124;'cheveux bleus';777;0
+e;6435388;'taux d'aluminium dans les cheveux';1;0
+e;12242885;'mesure de témazépam | technique indéterminée | cheveux | ponctuel | résultat numérique | masse/masse';1;0
+e;12242868;'mesure de tellure | technique indéterminée | cheveux | ponctuel | résultat numérique | masse/masse';1;0
+e;15950429;'La Fille aux cheveux noirs';777;0
+e;11834583;'suspension par les cheveux';1;0
+e;12243520;'identification de toxiques identifiés | dépistage | cheveux | ponctuel | résultat nominal | identification';1;0
+e;12243437;'mesure de titane | technique indéterminée | cheveux | ponctuel | résultat numérique | moles/masse';1;0
+e;12243427;'mesure de titane | technique indéterminée | cheveux | ponctuel | résultat numérique | masse/masse';1;0
+e;12243313;'mesure de thréonine/acides aminés totaux | technique indéterminée | cheveux | ponctuel | résultat numérique | fraction molaire';1;0
+e;12243309;'mesure de thorium | technique indéterminée | cheveux | ponctuel | résultat numérique | moles/masse';1;0
+e;12243306;'mesure de thorium | technique indéterminée | cheveux | ponctuel | résultat numérique | masse/masse';1;0
+e;12243179;'mesure de thallium | technique indéterminée | cheveux | ponctuel | résultat numérique | moles/masse';1;0
+e;12243166;'mesure de thallium | technique indéterminée | cheveux | ponctuel | résultat numérique | masse/masse';1;0
+e;5999829;'ribozyme en épingle à cheveux';777;0
+e;10779030;'Le Garçon aux cheveux verts';777;0
+e;12053831;'stopper la chute des cheveux';1;0
+e;12243790;'mesure de triazolam | technique indéterminée | cheveux | ponctuel | résultat numérique | masse/masse';1;0
+e;10421403;'La Belle aux cheveux roux';777;0
+e;10789752;'couper ses cheveux';1;0
+e;11572400;'Coupons nos cheveux conformément au mode de vie socialiste';777;0
+e;5992158;'décoloration des cheveux';777;0
+e;12285317;'cheveux verts';777;0
+e;5538376;'analyse des cheveux';777;0
+e;6444532;'taux d'aluminium dans les cheveux normal';1;0
+e;12244222;'mesure de tyrosine/acides aminés totaux | technique indéterminée | cheveux | ponctuel | résultat numérique | fraction molaire';1;0
+e;12244178;'mesure de tungstène | technique indéterminée | cheveux | ponctuel | résultat numérique | masse/masse';1;0
+e;2403138;'en cheveux';1;0
+e;11178366;'cheveux clairs et parsemés';1;0
+e;11572574;'se colorer les cheveux';1;0
+e;12244260;'mesure d'uranium | technique indéterminée | cheveux | ponctuel | résultat numérique | moles/masse';1;0
+e;12244253;'mesure d'uranium | technique indéterminée | cheveux | ponctuel | résultat numérique | masse/masse';1;0
+e;5937949;'clonage des cheveux';777;0
+e;5937941;'cheveux maillés';777;0
+e;10498025;'coiffer les cheveux';1;0
+e;10498022;'brosser les cheveux';1;0
+e;12244422;'mesure de vanadium | technique indéterminée | cheveux | ponctuel | résultat numérique | moles/masse';1;0
+e;12244411;'mesure de vanadium | technique indéterminée | cheveux | ponctuel | résultat numérique | masse/masse';1;0
+e;12244391;'mesure de valine/acides aminés totaux | technique indéterminée | cheveux | ponctuel | résultat numérique | fraction molaire';1;0
+e;6440830;'cheveux en point d'exclamation';1;0
+e;10550540;'se faire teindre les cheveux';1;0
+e;2367761;'avoir les cheveux beurrés';1;0
+e;6451921;'produits d'éclaircissement des cheveux';1;0
+e;5999735;'petits ARN en épingle à cheveux';777;0
+e;6527104;'texture et couleur des cheveux';1;0
+e;5999691;'structure en épingle à cheveux';777;0
+e;9245467;'avoir les cheveux emmêlés';1;0
+e;9245465;'se faire tirer les cheveux';1;0
+e;9245466;'avoir des noeuds dans les cheveux';1;0
+e;8568535;'cheveux rebelles';1;0
+e;9824738;'cheveux coupés';1;0
+e;8689418;'syndrome de cheveux laineux-kératodermie palmoplantaire-cardiomyopathie dilatée';1;0
+e;8901945;'cardiomyopathie dilatée avec cheveux laineux et kératodermie';1;0
+e;9239484;'stimuler la repousse des cheveux';1;0
+e;9240326;'teinture des cheveux';1;0
+e;11136563;'aux cheveux courts';1;6
+e;11136564;'aux cheveux longs';1;6
+e;12246293;'mesure de métaux lourds panel | technique indéterminée | cheveux | ponctuel | -';1;0
+e;12245430;'mesure de zopiclone | technique indéterminée | cheveux | ponctuel | résultat numérique | masse/masse';1;0
+e;12245407;'mesure de zirconium | technique indéterminée | cheveux | ponctuel | résultat numérique | masse/masse';1;0
+e;12245395;'détermination de la présence de zinc | technique indéterminée | cheveux | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12245384;'mesure de zinc | technique indéterminée | cheveux | ponctuel | résultat numérique | moles/masse';1;0
+e;12245364;'mesure de zinc | technique indéterminée | cheveux | ponctuel | résultat numérique | masse/masse';1;0
+e;13738786;'4-41 anomalies congénitales des poils, des cheveux et des ongles';1;0
+e;13796882;'419 texture et couleur des cheveux';1;0
+e;15352202;'Elle a les cheveux gris.';1;0
+e;15201807;'Harry a les cheveux roux.';1;0
+e;15308072;'Elle avait relevé ses cheveux en chignon.';1;0
+e;15384176;'Elle a de longs cheveux roux.';1;0
+e;15352500;'Elle a les cheveux longs.';1;0
+e;15308070;'Elle enroula ses cheveux en chignon.';1;0
+e;15389373;'Elle a les cheveux bruns.';1;0
+e;15269351;'Elle est mécontente de sa coupe de cheveux.';1;0
+e;15384485;'Il avait les cheveux trop longs.';1;0
+e;15582317;'Il passa sa main dans ses cheveux.';1;0
+e;15306988;'Il a les cheveux noirs.';1;0
+e;15389375;'Il avait les cheveux bruns frisés.';1;0
+e;15215912;'Elle va se laver les cheveux.';1;0
+e;15269364;'J'aime bien ta nouvelle coupe de cheveux.';1;0
+e;15215910;'Il va se laver les cheveux.';1;0
+e;15268470;'Ils lui ont arraché les cheveux avec leurs racines.';1;0
+e;15389371;'Il a les cheveux bruns.';1;0
+e;15337164;'Il a les cheveux d'un roux flamboyant.';1;0
+e;15396669;'Il a les cheveux gras.';1;0
+e;15370498;'Il a les cheveux blancs.';1;0
+e;15341351;'J'ai les cheveux châtain.';1;0
+e;15383989;'Andrew a les cheveux blond cendré.';1;0
+e;15384172;'Chris a les cheveux roux.';1;0
+e;14655189;'Des milliards de tapis de cheveux';777;0
+e;15369895;'Je vais me faire couper les cheveux.';1;0
+e;15663479;'Il a les cheveux blonds.';1;0
+e;15755098;'Elle a attaché ses cheveux avec un élastique.';1;0
+e;1227663;'greffe de cheveux';1;0
+e;3305403;'lisser les cheveux';1;0
+e;3931131;'mourir dans les cheveux noirs';1;0
+e;1807388;'tenir les cheveux';1;0
+e;2296958;'tirés par les cheveux';2;0
+e;1700378;'manger des cheveux';1;0
+e;2323687;'cheveux-cartilage';1;0
+e;4149600;'en épingle à cheveux';1;0
+e;4310327;'cheveux très courts';1;0
+e;2296956;'tirée par les cheveux';2;0
+e;3363492;'gratin de macaroni et cheveux d'ange';1;0
+e;3387349;'cheveux de Pélé';777;0
+e;3755885;'petit bol de cheveux d'ange';1;0
+e;1666009;'tirer par les cheveux';1;0
+e;2296957;'tirées par les cheveux';2;0
+e;3297118;'laver les cheveux';1;72
+e;3369675;'soupe de chou-fleur aux cheveux d'anges';1;0
+e;1804148;'hypoplasie cartilage-cheveux';777;0
+e;1804310;'cheveux bouclés-ankyloblépharon-dysplasie unguéale';1;0
+e;5389052;'mal aux cheveux';1;14
+e;2581346;'prendre l'occasion aux cheveux';1;0
+e;3706012;'se peigner les cheveux';1;0
+e;3298167;'sécher les cheveux';1;6
+e;2323903;'cartilage-cheveux';1;0
+e;438191;'s'attacher les cheveux';1;60
+e;1600342;'lissage de cheveux';1;0
+e;1803899;'maladie des cheveux crépus';1;0
+e;1850777;'ichtyose érythrodermique avec anomalie des cheveux, retard mental et retard de croissance';1;0
+e;1849529;'cheveux incoiffables, dystrophie rétinienne pigmentée, anomalies dentaires et brachydactylie';1;0
+e;2686192;'implantation postérieure basse des cheveux';1;0
+e;3298164;'démêler les cheveux';1;8
+e;1600584;'extensions de cheveux';777;0
+e;1821412;'syndrome des cheveux incoiffables';1;0
+e;3696102;'jouir dans ses cheveux';1;0
+e;3706425;'avoir du chewing-gum dans les cheveux';1;0
+e;4333746;'relever ses cheveux';1;0
+e;2945382;'se rincer les cheveux';1;4
+e;1804902;'avoir du beurre dans les cheveux';1;0
+e;1821109;'hypoplasie cheveux-cartilage';1;0
+e;1812934;'couleur des cheveux';1;2
+e;1849527;'syndrome des cheveux argentés de Griscelli-Pruniéras';1;0
+e;382263;'syndrome des cheveux laineux';1;50
+e;345103;'crantage de cheveux';1;50
+e;343614;'cheveux huileux';1;50
+e;343622;'cheveux souples';1;50
+e;343606;'cheveux crépus';1;62
+e;343605;'cheveux coupés ras';1;50
+e;332634;'se mouiller les cheveux';1;2
+e;384108;'touffe de cheveux';1;50
+e;354108;'filet à cheveux';1;50
+e;341939;'casque de cheveux';1;50
+e;332690;'avoir les cheveux secs';1;50
+e;389961;'épi de cheveux';1;50
+e;370947;'plantation de cheveux';1;50
+e;343623;'cheveux taillés en brosse';1;50
+e;343615;'cheveux mouillés';1;50
+e;343608;'cheveux drus';1;50
+e;343603;'cheveux blonds filasse';1;50
+e;339971;'bourse à cheveux';1;50
+e;354293;'fins cheveux blonds';1;50
+e;343620;'cheveux ras';1;50
+e;343610;'cheveux frisés';1;50
+e;370038;'petits cheveux';1;50
+e;369854;'perte de cheveux';1;54
+e;355041;'forêt de cheveux';1;50
+e;343624;'cheveux épais';1;50
+e;343616;'cheveux ondulés';1;50
+e;343613;'cheveux hirsutes';1;50
+e;343607;'cheveux de lin';1;50
+e;372737;'premiers cheveux blancs';1;62
+e;358067;'houppette de cheveux';1;50
+e;355327;'frange de cheveux';1;50
+e;343617;'cheveux permanentés';1;50
+e;343612;'cheveux grisonnants';1;56
+e;369864;'perte des cheveux';1;50
+e;343621;'cheveux répandus';1;50
+e;343619;'cheveux raides';1;52
+e;343618;'cheveux platinés';1;50
+e;343611;'cheveux gominés';1;50
+e;343609;'cheveux fins';1;50
+e;343604;'cheveux bouclés';1;50
+e;343602;'cheveux aux reflets cuivrés';1;50
+e;392140;'faire dresser les cheveux';1;50
+e;105017;'sèche-cheveux';1;98
+e;321204;'cheveux sales';1;108
+e;322319;'tirer les cheveux';1;50
+e;329910;'cacher ses cheveux blancs';1;62
+e;237291;'se brosser les cheveux';1;70
+e;254211;'se faire couper les cheveux';1;52
+e;256098;'se teindre les cheveux';1;42
+e;256474;'se couper les cheveux';1;10
+e;257371;'se tresser les cheveux';1;52
+e;259110;'se sécher les cheveux';1;18
+e;263158;'se démêler les cheveux';1;76
+e;207729;'se faire des cheveux';1;50
+e;207821;'se laisser pousser les cheveux';1;50
+e;211788;'s'arracher les cheveux';1;54
+e;215334;'se laver les cheveux';1;146
+e;219108;'couper les cheveux';1;76
+e;224430;'coloration des cheveux';1;50
+e;224431;'mèche de cheveux';1;40
+e;245333;'cheveux poivre et sel';666;16
+e;249695;'cheveux en brosse';1;20
+e;251056;'cheveux plats';1;50
+e;251576;'chute de cheveux';1;50
+e;253050;'cheveux gras';1;54
+e;254216;'cheveux mi-longs';1;50
+e;254217;'avoir les cheveux longs';1;10
+e;254218;'avoir les cheveux courts';1;50
+e;256088;'cheveux roux';1;70
+e;256089;'cheveux bruns';1;10
+e;256090;'cheveux noirs';1;38
+e;256091;'cheveux châtains';1;6
+e;256092;'cheveux blonds';1;26
+e;256094;'avoir des cheveux blancs';1;10
+e;256095;'avoir les cheveux blancs';1;4
+e;256096;'cheveux argentés';1;10
+e;259157;'séchoir à cheveux';1;20
+e;263165;'avoir les cheveux gras';1;50
+e;263169;'avoir les cheveux mouillés';1;22
+e;76429;'La Boucle de cheveux dérobée';1;50
+e;76560;'se prendre aux cheveux';1;50
+e;90881;'se faire des cheveux blancs';1;58
+e;101617;'sortir en cheveux';1;50
+e;112197;'cheveux de Vénus';1;50
+e;163246;'racine des cheveux';1;70
+e;211759;'saisir l'occasion aux cheveux';1;50
+e;271745;'aller se faire couper les cheveux';1;50
+e;48568;'taper les cheveux';1;50
+e;51279;'coupeur de cheveux en quatre';1;50
+e;85431;'couper les cheveux en quatre';1;76
+e;96418;'épingle à cheveux';1;56
+e;122977;'couronne de cheveux';1;50
+e;153400;'couleur de cheveux';1;116
+e;153777;'tondeuse à cheveux';1;54
+e;154424;'cheveux en bataille';1;90
+e;154689;'coupe de cheveux';1;212
+e;159445;'cheveux gris';1;86
+e;181216;'boucle en épingle à cheveux';1;50
+e;181503;'cheveux follets';1;50
+e;181504;'cheveux vifs';1;50
+e;185682;'avoir mal aux cheveux';1;58
+e;187057;'y avoir de quoi s'arracher les cheveux';1;50
+e;205372;'perdre ses cheveux';1;58
+e;205577;'pince à cheveux';1;66
+e;264229;'boucle de cheveux';1;50
+e;268360;'cheveux teints';1;110
+e;275424;'fétichisme des cheveux';777;50
+e;279324;'tonte des cheveux';777;50
+e;289343;'cheveux factices';777;50
+e;293359;'cheveux d'ange';777;52
+e;185058;'tiré par les cheveux';1;2
+e;185646;'avoir les cheveux près de la tête';1;50
+e;196619;'avoir les cheveux qui se dressent sur la tête';1;50
+e;196704;'avoir tous ses cheveux';1;50
+e;197568;'chute des cheveux';1;52
+e;200818;'faux cheveux';1;50
+e;157092;'cheveux courts';1;66
+e;153243;'cheveux longs';1;86
+e;158161;'brosse à cheveux';1;140
+e;157974;'cheveux blancs';1;80
+r;298052929;51126;6285696;11;25
+r;298494017;51126;6292254;11;25
+r;301408503;51126;6336245;11;25
+r;300187294;51126;6325269;11;25
+r;301234727;51126;6335654;11;25
+r;301453226;51126;6339205;11;25
+r;301457273;51126;6339679;11;25
+r;301487491;51126;6342103;11;25
+r;301544169;51126;6345054;11;25
+r;302197864;51126;6366771;11;25
+r;302977600;51126;6369966;11;25
+r;303132448;51126;6373397;11;25
+r;303637129;51126;6376920;11;25
+r;303645337;51126;6379266;11;25
+r;303979346;51126;6382880;11;25
+r;303987840;51126;6383974;11;25
+r;303998729;51126;6385415;11;25
+r;304383851;51126;6386604;11;25
+r;304389187;51126;6386986;11;25
+r;304601964;51126;6390746;11;25
+r;304602457;51126;6390785;11;25
+r;304879862;51126;6393419;11;25
+r;305000353;51126;6395158;11;25
+r;305010511;51126;6396031;11;25
+r;305288396;51126;6403419;11;25
+r;305475573;51126;6411811;11;25
+r;305479498;51126;6411929;11;25
+r;305705112;51126;6420373;11;25
+r;318611303;51126;12235087;11;25
+r;318613821;51126;12234960;11;25
+r;318614948;51126;12234899;11;25
+r;318615332;51126;12234878;11;25
+r;318615775;51126;12234854;11;25
+r;318616963;51126;12234792;11;25
+r;318618575;51126;12234712;11;25
+r;318618595;51126;12234711;11;25
+r;318619094;51126;12234683;11;25
+r;318621800;51126;12234539;11;25
+r;318622018;51126;12234527;11;25
+r;318622367;51126;12234508;11;25
+r;318623049;51126;12234471;11;25
+r;318624981;51126;12234381;11;25
+r;318626086;51126;12234328;11;25
+r;318626345;51126;12234314;11;25
+r;318630120;51126;12234135;11;25
+r;318630386;51126;12234123;11;25
+r;318635818;51126;12233870;11;25
+r;318636142;51126;12233853;11;25
+r;318637076;51126;12233814;11;25
+r;318637222;51126;12233806;11;25
+r;318645147;51126;12233434;11;25
+r;318667663;51126;12232482;11;25
+r;318667887;51126;12232469;11;25
+r;318668693;51126;12232425;11;25
+r;318668836;51126;12232416;11;25
+r;318839057;51126;6329740;11;25
+r;341244285;51126;6411611;11;25
+r;349115775;51126;6386198;11;25
+r;349118595;51126;6303887;11;25
+r;349121010;51126;6302718;11;25
+r;349131640;51126;6311161;11;25
+r;349133309;51126;6309183;11;25
+r;349139468;51126;6315840;11;25
+r;349142552;51126;6293057;11;25
+r;349181941;51126;6362140;11;25
+r;349199413;51126;6388172;11;25
+r;349283755;51126;6305490;11;25
+r;349344874;51126;6405147;11;25
+r;352645167;51126;13996271;11;25
+r;356192248;51126;6419643;11;25
+r;365849901;51126;14400310;11;25
+r;399500141;51126;6330837;11;25
+r;419492845;51126;15295951;11;25
+r;419495243;51126;15358714;11;25
+r;419544352;51126;15301631;11;25
+r;419544366;51126;15273747;11;25
+r;419544376;51126;15388876;11;25
+r;419544384;51126;15229829;11;25
+r;419550932;51126;15384174;11;25
+r;419562048;51126;15384178;11;25
+r;419598004;51126;15384820;11;25
+r;419598187;51126;15384818;11;25
+r;419607632;51126;16036097;11;25
+r;419615911;51126;15379778;11;25
+r;419624483;51126;15291489;11;25
+r;419624487;51126;15389377;11;25
+r;419624491;51126;15341353;11;25
+r;419624495;51126;15525355;11;25
+r;419624499;51126;15379066;11;25
+r;419624503;51126;15530836;11;25
+r;419624507;51126;15197738;11;25
+r;419624511;51126;15355984;11;25
+r;419624515;51126;15383624;11;25
+r;419634330;51126;15427117;11;25
+r;419634336;51126;15456209;11;25
+r;419634342;51126;15456213;11;25
+r;419634348;51126;15456215;11;25
+r;419634354;51126;15582764;11;25
+r;419634362;51126;15456221;11;25
+r;419634368;51126;15456223;11;25
+r;419634374;51126;15300738;11;25
+r;419634380;51126;15456228;11;25
+r;419634385;51126;15424582;11;25
+r;419634393;51126;15451534;11;25
+r;419634398;51126;15456229;11;25
+r;419634404;51126;15456231;11;25
+r;419634410;51126;15456233;11;25
+r;419634416;51126;15456235;11;25
+r;419634422;51126;15456239;11;25
+r;419634428;51126;15429429;11;25
+r;419634436;51126;15456242;11;25
+r;419634442;51126;15444614;11;25
+r;419634448;51126;15456226;11;25
+r;419640558;51126;15392163;11;25
+r;419705977;51126;15571598;11;25
+r;419705981;51126;15222295;11;25
+r;419705987;51126;15270900;11;25
+r;419705993;51126;15525351;11;25
+r;419705997;51126;15494769;11;25
+r;419706001;51126;15301633;11;25
+r;419706009;51126;15250466;11;25
+r;419706013;51126;15358729;11;25
+r;419706022;51126;15358726;11;25
+r;419706031;51126;15358728;11;25
+r;419706040;51126;15199041;11;25
+r;419706044;51126;15365948;11;25
+r;419706046;51126;15333728;11;25
+r;419706050;51126;15379064;11;25
+r;419706054;51126;15537302;11;25
+r;419706058;51126;15194359;11;25
+r;419706062;51126;15362531;11;25
+r;419706068;51126;15538956;11;25
+r;419706072;51126;15197735;11;25
+r;419706076;51126;15376631;11;25
+r;419706080;51126;15346702;11;25
+r;419706084;51126;15393462;11;25
+r;419706088;51126;15686433;11;25
+r;419743391;51126;15317936;11;25
+r;419744323;51126;15584774;11;25
+r;419744663;51126;15269350;11;25
+r;419745495;51126;15269353;11;25
+r;419753247;51126;15252341;11;25
+r;419773892;51126;15516595;11;25
+r;419773896;51126;15384821;11;25
+r;419809918;51126;15462868;11;25
+r;419826511;51126;12214721;11;25
+r;298891754;51126;6296301;11;26
+r;298957043;51126;6296850;11;26
+r;299333104;51126;6302639;11;26
+r;299363545;51126;6303992;11;26
+r;299487155;51126;6305391;11;26
+r;302986986;51126;6371247;11;26
+r;299791012;51126;6316914;11;26
+r;300111580;51126;6321310;11;26
+r;300248089;51126;6330325;11;26
+r;300959900;51126;6330534;11;26
+r;301202091;51126;6334330;11;26
+r;301202578;51126;6334254;11;26
+r;301533824;51126;6344693;11;26
+r;303623354;51126;6375855;11;26
+r;303628501;51126;6376769;11;26
+r;304602412;51126;6391011;11;26
+r;305199226;51126;6400957;11;26
+r;305466092;51126;6410242;11;26
+r;305687930;51126;6417556;11;26
+r;318543035;51126;12238278;11;26
+r;318545498;51126;12238156;11;26
+r;318560066;51126;12237520;11;26
+r;318560174;51126;12237514;11;26
+r;318563346;51126;12237353;11;26
+r;318563556;51126;12237339;11;26
+r;318564564;51126;12237278;11;26
+r;318570247;51126;12236985;11;26
+r;318570795;51126;12236953;11;26
+r;318570813;51126;12236952;11;26
+r;318577681;51126;12236621;11;26
+r;318578337;51126;12236587;11;26
+r;318580562;51126;12236466;11;26
+r;318585631;51126;12236222;11;26
+r;318585811;51126;12236212;11;26
+r;318592581;51126;12235918;11;26
+r;318605695;51126;12235360;11;26
+r;318608311;51126;12235239;11;26
+r;318608531;51126;12235227;11;26
+r;345908679;51126;13637412;11;26
+r;349135437;51126;6408964;11;26
+r;368123846;51126;14486036;11;26
+r;368124160;51126;14486063;11;26
+r;368355898;51126;14506245;11;26
+r;368585090;51126;14529828;11;26
+r;368752510;51126;14535525;11;26
+r;369566591;51126;14540179;11;26
+r;373002145;51126;14669758;11;26
+r;373002177;51126;14669760;11;26
+r;373064766;51126;14670924;11;26
+r;373064780;51126;14670925;11;26
+r;374000909;51126;14715177;11;26
+r;374001013;51126;14715178;11;26
+r;375493427;51126;14775261;11;26
+r;419489943;51126;15380428;11;26
+r;297674387;51126;6284891;11;27
+r;299619222;51126;6313309;11;27
+r;301235310;51126;6335554;11;27
+r;318479764;51126;12238980;11;27
+r;318479929;51126;12238971;11;27
+r;318490158;51126;12238528;11;27
+r;318490404;51126;12238516;11;27
+r;318491798;51126;12238440;11;27
+r;318491918;51126;12238434;11;27
+r;318493063;51126;12238373;11;27
+r;318493083;51126;12238372;11;27
+r;122734726;51126;6424971;11;28
+r;273222383;51126;10876296;11;28
+r;318461801;51126;12239776;11;28
+r;318468032;51126;12239484;11;28
+r;121564417;51126;6435935;11;29
+r;122721384;51126;6426698;11;29
+r;122739544;51126;6424348;11;29
+r;301801215;51126;11768987;11;29
+r;318420707;51126;12241599;11;29
+r;318420835;51126;12241592;11;29
+r;318422927;51126;12241491;11;29
+r;318423499;51126;12241461;11;29
+r;318423814;51126;12241444;11;29
+r;318424472;51126;12241409;11;29
+r;318430639;51126;12241128;11;29
+r;29944987;51126;1830040;11;31
+r;122712068;51126;6427894;11;31
+r;227663196;51126;10002270;11;31
+r;134821024;51126;8012796;11;33
+r;280846310;51126;11076939;11;33
+r;122698151;51126;6429690;11;34
+r;318286712;51126;12242478;11;34
+r;318286874;51126;12242469;11;34
+r;29945387;51126;1830043;11;35
+r;29945520;51126;1830041;11;35
+r;30019439;51126;1837574;11;35
+r;115106366;51126;5897613;11;35
+r;121517400;51126;6441181;11;35
+r;122700127;51126;6429431;11;35
+r;116303088;51126;5946124;11;36
+r;121569310;51126;6435388;11;36
+r;318278282;51126;12242885;11;36
+r;318278604;51126;12242868;11;36
+r;417030795;51126;15950429;11;36
+r;306355702;51126;11834583;11;37
+r;318264821;51126;12243520;11;37
+r;318266364;51126;12243437;11;37
+r;318266546;51126;12243427;11;37
+r;318268959;51126;12243313;11;37
+r;318269037;51126;12243309;11;37
+r;318269089;51126;12243306;11;37
+r;318271688;51126;12243179;11;37
+r;318271925;51126;12243166;11;37
+r;118544145;51126;5999829;11;38
+r;269868800;51126;10779030;11;38
+r;313805593;51126;12053831;11;38
+r;318258435;51126;12243790;11;38
+r;255391598;51126;10421403;11;39
+r;269959369;51126;10789752;11;39
+r;297609740;51126;11572400;11;39
+r;117869183;51126;5992158;11;40
+r;319123100;51126;12285317;11;40
+r;109660271;51126;5538376;11;41
+r;121487282;51126;6444532;11;41
+r;318246910;51126;12244222;11;41
+r;318247849;51126;12244178;11;41
+r;53542810;51126;2403138;11;42
+r;286588952;51126;11178366;11;42
+r;297293894;51126;11572574;11;42
+r;318246173;51126;12244260;11;42
+r;318246291;51126;12244253;11;42
+r;115911962;51126;5937949;11;43
+r;115912001;51126;5937941;11;43
+r;261004700;51126;10498025;11;43
+r;261004704;51126;10498022;11;43
+r;318243026;51126;12244422;11;43
+r;318243230;51126;12244411;11;43
+r;318243624;51126;12244391;11;43
+r;121520511;51126;6440830;11;44
+r;262868922;51126;10550540;11;44
+r;50478434;51126;2367761;11;45
+r;121029875;51126;6451921;11;46
+r;118544394;51126;5999735;11;47
+r;121443573;51126;6527104;11;47
+r;118544537;51126;5999691;11;49
+r;211396782;51126;9245467;11;50
+r;211396766;51126;9245465;11;50
+r;211395340;51126;9245466;11;50
+r;153088153;51126;8568535;11;50
+r;219009583;51126;9824738;11;50
+r;162848857;51126;8689418;11;50
+r;192818154;51126;8901945;11;50
+r;210505627;51126;9239484;11;50
+r;210522509;51126;9240326;11;50
+r;283129768;51126;11136563;11;50
+r;283129777;51126;11136564;11;50
+r;317975778;51126;12246293;11;50
+r;317978777;51126;12245430;11;50
+r;317979183;51126;12245407;11;50
+r;317979404;51126;12245395;11;50
+r;317979607;51126;12245384;11;50
+r;317979979;51126;12245364;11;50
+r;348987728;51126;13738786;11;50
+r;348988526;51126;13796882;11;50
+r;397496822;51126;15352202;11;50
+r;400718520;51126;15201807;11;50
+r;397497514;51126;15308072;11;50
+r;397496550;51126;15384176;11;50
+r;397496828;51126;15352500;11;50
+r;397498047;51126;15308070;11;50
+r;397496816;51126;15389373;11;50
+r;397498409;51126;15269351;11;50
+r;402104888;51126;15384485;11;50
+r;402108868;51126;15582317;11;50
+r;402103326;51126;15306988;11;50
+r;402104880;51126;15389375;11;50
+r;397500483;51126;15215912;11;50
+r;402121940;51126;15269364;11;50
+r;402110174;51126;15215910;11;50
+r;402111873;51126;15268470;11;50
+r;402103312;51126;15389371;11;50
+r;402103316;51126;15337164;11;50
+r;402103322;51126;15396669;11;50
+r;402103308;51126;15370498;11;50
+r;402120952;51126;15341351;11;50
+r;395009555;51126;15383989;11;50
+r;395014548;51126;15384172;11;50
+r;395032293;51126;14655189;11;50
+r;402274591;51126;15369895;11;50
+r;402277126;51126;15663479;11;50
+r;411718671;51126;15755098;11;50
+r;22483653;51126;1227663;11;51
+r;83021400;51126;3305403;11;51
+r;95171189;51126;3931131;11;51
+r;29551165;51126;1807388;11;52
+r;33104129;51126;2296958;11;52
+r;28000201;51126;1700378;11;53
+r;33723573;51126;2323687;11;53
+r;95158536;51126;4149600;11;53
+r;96515031;51126;4310327;11;53
+r;33104137;51126;2296956;11;54
+r;86203547;51126;3363492;11;54
+r;86937640;51126;3387349;11;54
+r;93680494;51126;3755885;11;54
+r;27676867;51126;1666009;11;55
+r;33104133;51126;2296957;11;55
+r;82270181;51126;3297118;11;55
+r;86151477;51126;3369675;11;55
+r;29516710;51126;1804148;11;56
+r;29522017;51126;1804310;11;56
+r;107389704;51126;5389052;11;56
+r;53136191;51126;2581346;11;56
+r;92511152;51126;3706012;11;56
+r;82354519;51126;3298167;11;57
+r;33731286;51126;2323903;11;58
+r;15759062;51126;438191;11;59
+r;25531216;51126;1600342;11;59
+r;29512978;51126;1803899;11;59
+r;29857420;51126;1850777;11;59
+r;29863298;51126;1849529;11;59
+r;61450982;51126;2686192;11;59
+r;82354440;51126;3298164;11;59
+r;25533844;51126;1600584;11;60
+r;29753329;51126;1821412;11;60
+r;91913302;51126;3696102;11;60
+r;92516616;51126;3706425;11;60
+r;98876485;51126;4333746;11;60
+r;72393164;51126;2945382;11;63
+r;29528137;51126;1804902;11;64
+r;29749579;51126;1821109;11;65
+r;29594517;51126;1812934;11;66
+r;29863320;51126;1849527;11;67
+r;12572571;51126;382263;11;101
+r;12724055;51126;345103;11;101
+r;12730133;51126;343614;11;101
+r;12730113;51126;343622;11;102
+r;12730157;51126;343606;11;102
+r;12730159;51126;343605;11;102
+r;12434229;51126;332634;11;103
+r;12565111;51126;384108;11;103
+r;12686751;51126;354108;11;103
+r;12737321;51126;341939;11;103
+r;12456966;51126;332690;11;104
+r;12542127;51126;389961;11;104
+r;12618603;51126;370947;11;104
+r;12730109;51126;343623;11;104
+r;12730131;51126;343615;11;104
+r;12730151;51126;343608;11;104
+r;12730167;51126;343603;11;104
+r;12745487;51126;339971;11;104
+r;12685977;51126;354293;11;105
+r;12730119;51126;343620;11;105
+r;12730143;51126;343610;11;105
+r;12622275;51126;370038;11;106
+r;12623115;51126;369854;11;106
+r;12682993;51126;355041;11;106
+r;12730105;51126;343624;11;107
+r;12730129;51126;343616;11;107
+r;12730137;51126;343613;11;107
+r;12730153;51126;343607;11;107
+r;12611219;51126;372737;11;108
+r;12670561;51126;358067;11;108
+r;12681853;51126;355327;11;108
+r;12730127;51126;343617;11;108
+r;12730139;51126;343612;11;108
+r;12623071;51126;369864;11;109
+r;12730117;51126;343621;11;109
+r;12730123;51126;343619;11;109
+r;12730125;51126;343618;11;109
+r;12730141;51126;343611;11;109
+r;12730147;51126;343609;11;109
+r;12730165;51126;343604;11;109
+r;12730175;51126;343602;11;109
+r;13155866;51126;392140;11;110
+r;11862954;51126;105017;11;122
+r;9066173;51126;321204;11;148
+r;9105683;51126;322319;11;148
+r;11747380;51126;329910;11;148
+r;8704624;51126;237291;11;160
+r;8718108;51126;254211;11;160
+r;8720751;51126;256098;11;160
+r;8721262;51126;256474;11;160
+r;8722572;51126;257371;11;160
+r;8725089;51126;259110;11;160
+r;8730272;51126;263158;11;160
+r;8680667;51126;207729;11;161
+r;8680846;51126;207821;11;161
+r;8687120;51126;211788;11;161
+r;8689800;51126;215334;11;161
+r;8691406;51126;219108;11;161
+r;8694959;51126;224430;11;161
+r;8694961;51126;224431;11;161
+r;8709379;51126;245333;11;161
+r;8712964;51126;249695;11;161
+r;8714594;51126;251056;11;161
+r;8715257;51126;251576;11;161
+r;8716681;51126;253050;11;161
+r;8718117;51126;254216;11;161
+r;8718119;51126;254217;11;161
+r;8718122;51126;254218;11;161
+r;8720730;51126;256088;11;161
+r;8720732;51126;256089;11;161
+r;8720734;51126;256090;11;161
+r;8720736;51126;256091;11;161
+r;8720738;51126;256092;11;161
+r;8720742;51126;256094;11;161
+r;8720745;51126;256095;11;161
+r;8720747;51126;256096;11;161
+r;8725158;51126;259157;11;161
+r;8730287;51126;263165;11;161
+r;8730297;51126;263169;11;161
+r;8595827;51126;76429;11;162
+r;8595864;51126;76560;11;162
+r;8600952;51126;90881;11;162
+r;8604713;51126;101617;11;162
+r;8608608;51126;112197;11;162
+r;8628321;51126;163246;11;162
+r;8687088;51126;211759;11;162
+r;8739251;51126;271745;11;162
+r;8586250;51126;48568;11;163
+r;8587231;51126;51279;11;163
+r;8599004;51126;85431;11;163
+r;8602841;51126;96418;11;163
+r;8612415;51126;122977;11;163
+r;8623312;51126;153400;11;163
+r;8623530;51126;153777;11;163
+r;8623930;51126;154424;11;163
+r;8624070;51126;154689;11;163
+r;8626342;51126;159445;11;163
+r;8637980;51126;181216;11;163
+r;8638466;51126;181503;11;163
+r;8638467;51126;181504;11;163
+r;8645162;51126;185682;11;163
+r;8647969;51126;187057;11;163
+r;8676802;51126;205372;11;163
+r;8677126;51126;205577;11;163
+r;8731762;51126;264229;11;163
+r;8736269;51126;268360;11;163
+r;8743310;51126;275424;11;163
+r;8746855;51126;279324;11;163
+r;8757302;51126;289343;11;163
+r;8760988;51126;293359;11;163
+r;8644511;51126;185058;11;164
+r;8645071;51126;185646;11;164
+r;8661914;51126;196619;11;164
+r;8662136;51126;196704;11;164
+r;8663582;51126;197568;11;164
+r;8669298;51126;200818;11;165
+r;215166;51126;157092;11;189
+r;215167;51126;153243;11;189
+r;245570;51126;158161;11;199
+r;245571;51126;157974;11;199

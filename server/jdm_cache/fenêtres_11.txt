@@ -1,0 +1,58 @@
+
+e;155908;'fenêtres';1;94
+e;5713648;'gestionnaire de fenêtres';777;0
+e;10587439;'La Maison aux fenêtres qui rient';777;0
+e;15214713;'emploi de fenêtres';1;0
+e;5713649;'gestionnaire de fenêtres par pavage';777;0
+e;15400052;'avoir de l'argent à jeter par les fenêtres';1;0
+e;15352317;'cage à fenêtres';1;0
+e;15352320;'argent par les fenêtres';1;0
+e;5954331;'impôt sur les fenêtres';777;0
+e;5954330;'impôt sur les portes et fenêtres';777;0
+e;15352331;'Les fenêtres étaient grandes ouvertes.';1;0
+e;15352333;'Les fenêtres étaient toutes condamnées.';1;0
+e;2419988;'avoir les rideaux qui collent aux fenêtres';1;0
+e;5946851;'Zygielle des fenêtres';777;0
+e;4303625;'sous-fenêtres';1;0
+e;5946848;'Épeire des fenêtres';777;0
+e;15352335;'La peinture des fenêtres s'écaillait.';1;0
+e;15352337;'La pluie faisait des éclaboussures sur les fenêtres.';1;0
+e;2695645;'fenêtres de registres';777;0
+e;4467136;'ouvrir les fenêtres';1;6
+e;2249611;'portes-fenêtres';2;0
+e;2931683;'contribution sur les portes et fenêtres';777;0
+e;380818;'sous les fenêtres de';1;50
+e;260752;'avoir le rideau au bord des fenêtres';1;50
+e;174983;'impôt des portes et fenêtres';1;50
+e;175059;'taxe des portes et fenêtres';1;50
+e;186375;'jeter l'argent par les fenêtres';1;14
+e;186379;'jeter son argent par les fenêtres';1;50
+e;311904;'fenêtres temporales';777;50
+r;112173375;155908;5713648;11;29
+r;263796105;155908;10587439;11;30
+r;419835398;155908;15214713;11;30
+r;112173367;155908;5713649;11;31
+r;419629168;155908;15400052;11;32
+r;419676270;155908;15352317;11;32
+r;419606744;155908;15352320;11;33
+r;116584930;155908;5954331;11;34
+r;116584936;155908;5954330;11;34
+r;419495852;155908;15352331;11;35
+r;419495860;155908;15352333;11;35
+r;54452915;155908;2419988;11;36
+r;116301789;155908;5946851;11;43
+r;95943465;155908;4303625;11;44
+r;116301801;155908;5946848;11;44
+r;417032611;155908;15352335;11;44
+r;417032795;155908;15352337;11;44
+r;61769659;155908;2695645;11;51
+r;99786458;155908;4467136;11;54
+r;33109409;155908;2249611;11;60
+r;71887620;155908;2931683;11;65
+r;12578085;155908;380818;11;109
+r;8727302;155908;260752;11;161
+r;8635048;155908;174983;11;163
+r;8635079;155908;175059;11;163
+r;8646654;155908;186375;11;164
+r;8646666;155908;186379;11;164
+r;8778060;155908;311904;11;164

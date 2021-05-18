@@ -1,0 +1,26 @@
+
+e;45854;'surpris';1;154
+e;14585931;'être agréablement surpris';1;22
+e;15292094;'dit-il nullement surpris.';1;0
+e;15292074;'agréablement surpris';1;0
+e;15292076;'agréablement surpris par';1;0
+e;15292078;'Il a été surpris de me voir.';1;0
+e;15292089;'J'ai été surpris de le voir.';1;0
+e;15292080;'J'ai été surpris qu'elle vienne.';1;0
+e;15292084;'Il me regarda, surpris.';1;0
+e;15292086;'Je ne suis que légèrement surpris.';1;0
+e;15771141;''Bonjour, Swanson' dit-il nullement surpris.';1;0
+e;253921;'être surpris';1;32
+e;200542;'faire le surpris';1;50
+r;370645057;45854;14585931;11;26
+r;419786860;45854;15292094;11;30
+r;419582669;45854;15292074;11;34
+r;419582673;45854;15292076;11;34
+r;402104530;45854;15292078;11;50
+r;402121846;45854;15292089;11;50
+r;402121852;45854;15292080;11;50
+r;402107958;45854;15292084;11;50
+r;402273153;45854;15292086;11;50
+r;411618030;45854;15771141;11;50
+r;8717705;45854;253921;11;160
+r;8668688;45854;200542;11;165

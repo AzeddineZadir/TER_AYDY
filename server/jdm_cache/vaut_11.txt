@@ -1,0 +1,132 @@
+
+e;417336;'vaut';1;50
+e;6088039;'Rien ne vaut la douceur du foyer';777;0
+e;11770514;'Mieux vaut la mort que la misère !';777;0
+e;15337135;'elle les vaut toutes';1;0
+e;9982301;'Tout ça ne vaut pas l'amour';777;0
+e;15477807;'ce climat ne me vaut rien';1;0
+e;15582815;'cela vaut aussi + pour';1;0
+e;15455438;'cela vaut mieux';1;0
+e;15353618;'chaumière où l'on rit vaut mieux que palais où l'on pleure';1;0
+e;16173931;'Mieux vaut s'adresser à Dieu qu'à ses Saints !';1;0
+e;15304047;'Rien ne vaut une bonne tasse de café bien chaud.';1;0
+e;15362137;'Mieux vaut mourir debout que vivre à genoux.';1;0
+e;15402010;'Le film vaut vraiment la peine d'être vu.';1;0
+e;2378068;'savoir ce qu'en vaut l'aune';1;0
+e;2373411;'cela ne vaut pas le diable';1;0
+e;2465917;'il vaut mieux laisser son enfant morveux que de lui arracher le nez';1;0
+e;2374969;'mieux vaut un petit chez-soi qu'un grand chez-les-autres';1;0
+e;2388824;'mieux vaut être seul que mal accompagné';1;0
+e;2394581;'il en vaut que';1;0
+e;2419761;'il vaut mieux faire envie que pitié';1;0
+e;2376429;'chacun vaut son prix';1;0
+e;10161707;'Mieux vaut courir';777;0
+e;5990002;'Mieux vaut être riche et bien portant que fauché et mal foutu';777;0
+e;2364107;'il vaut mieux être marteau qu'enclume';1;0
+e;15575424;'Il vaut mieux que tu appelles ta mère.';1;0
+e;15495504;'Il vaut mieux passer par la côte.';1;0
+e;15583362;'Il vaut mieux jouer la sécurité';1;0
+e;15583365;'Il vaut mieux téléphoner qu'écrire.';1;0
+e;15228282;'Il vaut mieux se taire.';1;0
+e;15583351;'Il vaut mieux que je parte.';1;0
+e;15583354;'Il vaut mieux le faire soi-même.';1;0
+e;15583367;'Il vaut mieux téléphoner plutôt que d'écrire.';1;0
+e;15582817;'Cela n'en vaut pas la peine.';1;0
+e;15751875;'Il vaut mieux s'adresser à Dieu qu'à ses Saints.';1;0
+e;3377680;'ça ne vaut pas un kopeck';1;0
+e;4020975;'autant vaut';1;0
+e;211248;'mieux vaut donner à un ennemi qu'emprunter à un ami';1;50
+e;203837;'mieux vaut tard que jamais';1;50
+e;203836;'mieux vaut prévenir que guérir';1;52
+e;2555094;'le bien-faire vaut mieux que le bien-dire';1;0
+e;2600689;'tant vaut l'homme, tant vaut sa terre';1;0
+e;166159;'un tiens vaut mieux que deux tu l'auras';1;50
+e;203838;'mieux vaut tenir que courir';1;50
+e;2302828;'vaut-riens';2;0
+e;2358473;'il vaut mieux arriver en retard qu'arriver en corbillard';1;0
+e;2557944;'chaque chose vaut son prix';1;0
+e;2600319;'tant vaut l'homme, tant vaut la terre';1;0
+e;211106;'le jeu n'en vaut pas la chandelle';1;50
+e;208790;'tant vaut la terre';1;50
+e;185798;'cela vaut fait';1;50
+e;120387;'un homme averti en vaut deux';1;50
+e;2603789;'mieux vaut tondre l'agneau que le pourceau';1;0
+e;4001700;'il vaut mieux tenir que courir';1;0
+e;57440;'trop ne vaut rien';1;50
+e;186364;'il vaut mieux';1;50
+e;28417;'Mieux vaut moins mais mieux';1;50
+e;2537791;'un méchant accommodement vaut mieux que le meilleur procès';1;0
+e;246007;'mieux vaut faire envie que pitié';1;50
+e;225246;'Paris vaut bien une messe';1;50
+e;197065;'bonne renommée vaut mieux que ceinture dorée';1;50
+e;2490382;'le jeu ne vaut pas la chandelle';1;0
+e;4334729;'mieux vaut une petite travailleuse qu'une grosse fainéante';1;0
+e;269334;'ça ne vaut pas tripette';1;50
+e;208791;'tant vaut le seigneur';1;50
+e;2302827;'vaut-rien';1;0
+e;4243370;'croûte de pâté vaut bien pain';1;0
+r;119666534;417336;6088039;11;28
+r;301930810;417336;11770514;11;29
+r;419833848;417336;15337135;11;30
+r;222100964;417336;9982301;11;31
+r;419691039;417336;15477807;11;32
+r;419692597;417336;15582815;11;32
+r;419692604;417336;15455438;11;32
+r;419703042;417336;15353618;11;32
+r;434353563;417336;16173931;11;34
+r;419535130;417336;15304047;11;34
+r;419507730;417336;15362137;11;35
+r;419491988;417336;15402010;11;36
+r;52233346;417336;2378068;11;40
+r;52122871;417336;2373411;11;41
+r;55769890;417336;2465917;11;41
+r;52211897;417336;2374969;11;42
+r;53066466;417336;2388824;11;43
+r;53187393;417336;2394581;11;43
+r;54449158;417336;2419761;11;43
+r;52222249;417336;2376429;11;44
+r;238095782;417336;10161707;11;44
+r;117872200;417336;5990002;11;45
+r;50249073;417336;2364107;11;49
+r;402110214;417336;15575424;11;50
+r;402110200;417336;15495504;11;50
+r;402110186;417336;15583362;11;50
+r;402110238;417336;15583365;11;50
+r;402110222;417336;15228282;11;50
+r;402110208;417336;15583351;11;50
+r;402110194;417336;15583354;11;50
+r;402110228;417336;15583367;11;50
+r;399661439;417336;15582817;11;50
+r;413897236;417336;15751875;11;50
+r;86466851;417336;3377680;11;51
+r;95166107;417336;4020975;11;51
+r;14277463;417336;211248;11;52
+r;14279207;417336;203837;11;52
+r;14279209;417336;203836;11;52
+r;52450302;417336;2555094;11;52
+r;55145227;417336;2600689;11;52
+r;14291783;417336;166159;11;53
+r;14279205;417336;203838;11;54
+r;33107557;417336;2302828;11;54
+r;50062042;417336;2358473;11;54
+r;52448932;417336;2557944;11;54
+r;55140974;417336;2600319;11;54
+r;14277493;417336;211106;11;55
+r;14278059;417336;208790;11;55
+r;14286701;417336;185798;11;55
+r;14300909;417336;120387;11;55
+r;55457623;417336;2603789;11;55
+r;95167236;417336;4001700;11;55
+r;14317103;417336;57440;11;56
+r;14286587;417336;186364;11;57
+r;14324455;417336;28417;11;57
+r;52458627;417336;2537791;11;57
+r;14268845;417336;246007;11;58
+r;14274309;417336;225246;11;58
+r;14280907;417336;197065;11;58
+r;52480822;417336;2490382;11;58
+r;98898194;417336;4334729;11;58
+r;14263513;417336;269334;11;59
+r;14278057;417336;208791;11;59
+r;33107561;417336;2302827;11;59
+r;95153173;417336;4243370;11;60

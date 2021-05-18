@@ -1,0 +1,50 @@
+
+e;1997176;'faisait';2;0
+e;10676134;'L'Homme qui faisait des miracles';777;0
+e;15270083;'Sa robe faisait ressortir la finesse de sa taille.';1;0
+e;15468417;'Un Britannique faisait partie des personnes arrêtées.';1;0
+e;15493459;'Le vin lui faisait tourner la tête.';1;0
+e;10936832;'ça faisait longtemps';1;0
+e;15304105;'La viande de cheval lui faisait horreur.';1;0
+e;15352337;'La pluie faisait des éclaboussures sur les fenêtres.';1;0
+e;15382509;'Il était si méticuleux dans tout ce qu'il faisait.';1;0
+e;15570382;'Il faisait une chaleur étouffante.';1;0
+e;15302636;'Il faisait trente degrés.';1;0
+e;15340301;'Il faisait trop sombre pour rentrer à pied.';1;0
+e;15398023;'Il faisait souvent de longues promenades dans les collines.';1;0
+e;15309191;'Il faisait preuve d'imprudence en voyageant.';1;0
+e;15411574;'Il faisait preuve de détermination ainsi que d'un remarquable talent oratoire.';1;0
+e;15331320;'Il faisait gris et il y avait du crachin.';1;0
+e;15384652;'Il faisait les cent pas dans le corridor.';1;0
+e;15471671;'Il faisait plus de trente degrés.';1;0
+e;15288153;'Il faisait un temps maussade.';1;0
+e;15634436;'Il faisait une chaleur humide.';1;0
+e;15268133;'Il faisait un temps assez épouvantable.';1;0
+e;15288155;'Il faisait un temps maussade et froid.';1;0
+e;15370509;'Aucun des deux camps ne prenait de prisonnier ou ne faisait de quartier.';1;0
+e;15248303;'Cela faisait bizarre de revenir à Liverpool.';1;0
+e;15309290;'L'interview faisait peine à voir.';1;0
+r;270770456;1997176;10676134;11;27
+r;419538751;1997176;15270083;11;34
+r;419557377;1997176;15468417;11;34
+r;419494175;1997176;15493459;11;35
+r;275271772;1997176;10936832;11;38
+r;417155790;1997176;15304105;11;38
+r;417032791;1997176;15352337;11;44
+r;402111356;1997176;15382509;11;50
+r;402106598;1997176;15570382;11;50
+r;402106554;1997176;15302636;11;50
+r;402106560;1997176;15340301;11;50
+r;402106544;1997176;15398023;11;50
+r;402106522;1997176;15309191;11;50
+r;402106530;1997176;15411574;11;50
+r;402106502;1997176;15331320;11;50
+r;402106510;1997176;15384652;11;50
+r;402106516;1997176;15471671;11;50
+r;402106586;1997176;15288153;11;50
+r;402106592;1997176;15634436;11;50
+r;402106570;1997176;15268133;11;50
+r;402106578;1997176;15288155;11;50
+r;395010013;1997176;15370509;11;50
+r;395013159;1997176;15248303;11;50
+r;414848414;1997176;15309290;11;50

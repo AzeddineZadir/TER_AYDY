@@ -1,0 +1,1402 @@
+
+e;89926;'chef';1;1863
+e;6286875;'infirmières en chef';1;0
+e;6295517;'chef de service de transport ferroviaire';1;0
+e;6302764;'rédactrice en chef de quotidien et de périodique';1;0
+e;6306378;'chef radial du muscle fléchisseur commun superficiel des doigts';1;0
+e;6319451;'chef humérocubital du muscle fléchisseur commun superficiel des doigts';1;0
+e;6322562;'chef de services postaux';1;0
+e;6326005;'chef de train de voyageurs';1;0
+e;6330821;'chef cubital du muscle rond pronateur';1;0
+e;6360366;'chef de train de marchandises';1;0
+e;6374494;'chef huméral du muscle cubital postérieur';1;0
+e;6386120;'rédacteur en chef de quotidien et de périodique';1;0
+e;6394310;'chef de service de télécommunications';1;0
+e;6396995;'chef accessoire du muscle triceps brachial';1;0
+e;6421000;'chef cuisinière';1;0
+e;6421344;'infirmiers en chef';1;0
+e;12981492;'Ministre en chef';777;0
+e;13635901;'Ministre en chef de Gibraltar';777;0
+e;6327236;'chef ou tête';1;0
+e;14005690;'chef de station';777;0
+e;14135855;'commandant en chef de l'armée d'Italie';1;0
+e;14446622;'chef de char';1;0
+e;14452912;'rôle du greffier en chef';1;0
+e;14453569;'congés annuels préalablement autorisés par le chef de service';1;0
+e;14594495;'chef de la réception';1;0
+e;14596940;'lui-même en tant que commandant en chef de la Reichsmarine';777;0
+e;14596939;'lui-même en tant que commandant en chef de la Kriegsmarine';777;0
+e;14638022;'être le chef';1;94
+e;14638011;'devenir chef';1;92
+e;14638005;'être son propre chef';1;98
+e;14638010;'être chef';1;94
+e;14665611;'Médecin en chef du Stargate Command';777;0
+e;14897354;'chef de la maison beylicale';777;0
+e;15789455;'respect des consignes du médecin chef de service';1;0
+e;15921746;'ministres en chef';777;0
+e;11957961;'vice-chef';1;0
+e;16390666;'ingénieurs en chef territoriaux';777;0
+e;14304675;'chef pâtissier';1;2
+e;14529861;'chef de meute';1;0
+e;14584005;'visite d'un chef d'Etat';1;0
+e;14724045;'chef de l'état';1;2
+e;14753234;'chef de cabinet du Premier ministre';1;0
+e;5791921;'rédacteur en chef puis directeur d'une revue trimestrielle d'éducation comparée';777;0
+e;10676015;'chef du Parti conservateur';777;0
+e;10676017;'chef du Parti travailliste';777;0
+e;10676018;'chef de la très loyale opposition de Sa Majesté';777;0
+e;10664270;'Rédacteur en chef';777;0
+e;15039461;'de chef';1;0
+e;6087746;'Bonsoir chef';777;0
+e;10623675;'chef du cabinet';777;0
+e;10623674;'chef du gouvernement provisoire';777;0
+e;11774580;'chef d'expédition';1;0
+e;12913361;'chef traditionnel';1;0
+e;6083572;'Liste des juges en chef de la Cour suprême du Canada';777;0
+e;6442954;'chef d'orchestre et directrice de fanfare';1;0
+e;10589125;'Un chef de rayon explosif';777;0
+e;10988449;'Commandants en chef';777;0
+e;11770409;'lord juge en chef d'Angleterre et du pays de Galles';777;0
+e;16534060;'chef terroriste';1;0
+e;10599712;'Charlot chef de rayon';777;0
+e;10733066;'chef d'État de facto';777;0
+e;10908930;'chef de l'opposition parlementaire';777;0
+e;10903667;'ministre en chef du Territoire de la capitale australienne';777;0
+e;15491741;'couvre chef';1;0
+e;15427058;'directeur en chef';1;0
+e;15427059;'directrice en chef';1;0
+e;15264013;'démocrate en chef';1;0
+e;16091576;'co-chef';1;0
+e;9957653;'chef de l'État de la République socialiste de Roumanie';777;0
+e;9967397;'C'est moi le chef !';777;0
+e;10596421;'chef d'un réseau de résistance';1;0
+e;10596100;'chef d'un réseau criminel pratiquant le trafic de drogue';1;0
+e;10596101;'chef d'un réseau criminel';1;0
+e;10596102;'chef de réseau criminel';1;0
+e;10602301;'chef d'entreprise français';1;0
+e;10909916;'armoiries de Sa Majesté la Reine du chef du Canada';777;0
+e;15427053;'cuisinier en chef';1;0
+e;15427054;'cuisinière en chef';1;0
+e;15281139;'commandement en chef';1;0
+e;15538960;'connaissement chef';1;0
+e;16508258;'chef d'état-major de la Force aérienne des États-Unis';777;0
+e;16493712;'chef de la campagne';1;0
+e;16326561;'chef du service communication';1;0
+e;16326570;'chef du service d'entretien';1;0
+e;16326569;'chef du service de presse';1;0
+e;16355101;'chef italien';1;0
+e;2388730;'chef-mois';1;0
+e;2427230;'chef-mets';1;0
+e;2464051;'inspecteur-chef';1;0
+e;6438257;'chef d'orchestre et directeur de fanfare';1;0
+e;10579210;'chef de formation';1;0
+e;10990042;'chef d'entreprises';1;0
+e;10993390;'a rond en chef';777;0
+e;11031055;'chef de bataillon du Génie';1;0
+e;11993447;'chef de l'exécutif de la région administrative spéciale de Hong Kong';777;0
+e;16152861;'chef de table';777;0
+e;14677599;'co-rédacteur en chef';1;0
+e;14677735;'co-rédacteurs en chef';1;0
+e;15251468;'canton dextre du chef';1;0
+e;15251472;'canton senestre du chef';1;0
+e;15280920;'caporal chef';1;0
+e;15427002;'caporale-chef';1;0
+e;15488995;'chef accessoiriste';1;0
+e;15452127;'chef adjointe';1;0
+e;15259180;'chef barman';1;0
+e;15392226;'chef chicaneur';1;0
+e;15270549;'chef concierge';1;0
+e;15395744;'chef coronoidien du muscle rond pronateur';1;0
+e;15427004;'chef cuistot';1;0
+e;16041611;'chef d'Etat';1;6
+e;15427013;'chef d'exploitation';1;0
+e;15572012;'chef d'un muscle';1;0
+e;15309894;'chef d'État major';1;0
+e;15253706;'chef d'établissement scolaire';1;0
+e;15309896;'chef d'état major de l'armée de l'air';1;0
+e;15492437;'chef d'état-major adjoint';1;0
+e;15777082;'chef d'état-major de l'armée de terre des États-Unis';777;0
+e;13683733;'chef d'état-major des armées';777;0
+e;15492439;'chef d'état-major particulier';1;0
+e;15427016;'chef d?orchestre';1;0
+e;15300819;'chef de cabinet de la Maison Blanche';1;0
+e;15542370;'chef de caisse';1;0
+e;15355186;'chef de campagne';1;0
+e;15571233;'chef de chantier de forage';1;0
+e;16041612;'chef de chorale';1;0
+e;15487015;'chef de comptabilité';1;0
+e;15466199;'chef de délégation';1;0
+e;15274394;'chef de dépense';1;0
+e;15531088;'chef de file apériteur';1;0
+e;15520703;'chef de file associée';1;0
+e;15769546;'chef de groupe marketing';1;0
+e;16041613;'chef de l'Etat';1;0
+e;15492442;'chef de l'état-major';1;0
+e;15366287;'chef de marque';1;0
+e;15771891;'chef de mission comptable';1;0
+e;15529154;'chef de ménage';1;0
+e;15401091;'chef de plateau';1;0
+e;15427028;'chef de produits';1;0
+e;15584510;'chef de produits contrôlés';1;0
+e;15580698;'chef de projet RH';1;0
+e;15574002;'chef de pub';1;0
+e;15427030;'chef de quai';1;0
+e;15399840;'chef de rubrique';1;0
+e;15242046;'chef de rédaction';1;0
+e;15393699;'chef de région';1;0
+e;15366290;'chef de réseau';1;0
+e;15389992;'chef de salle';1;0
+e;15427036;'chef de secteur';1;0
+e;15412167;'chef de service de médecine légale';1;0
+e;15688976;'chef de service des nouvelles locales';1;0
+e;15361664;'chef de site';1;0
+e;15389993;'chef de vente';1;0
+e;15204595;'chef des achats';1;0
+e;15331705;'chef des forces armées';1;0
+e;15465449;'chef des rebelles';1;0
+e;15343172;'chef des services secrets';1;0
+e;15514845;'chef du bureau';1;0
+e;15572778;'chef du contentieux';1;0
+e;15204602;'chef du renseignement';1;0
+e;15572783;'chef du service entretien';1;0
+e;15572782;'chef du service publicité';1;0
+e;15951022;'chef du système judiciaire iranien';777;0
+e;15526594;'chef magasinier';1;0
+e;15342496;'chef populiste';1;0
+e;15427046;'chef restaurateur';1;0
+e;15573922;'chef spirituel du Tibet';1;0
+e;15529859;'chef yakusa';1;0
+e;15502340;'chef éclairagiste';1;0
+e;15281631;'chef économiste';1;0
+e;15279510;'chef électricien';1;0
+e;15395746;'chef épitrochléen du muscle rond pronateur';1;0
+e;14927620;'chef-d'?uvre';1;0
+e;16144600;'chef de l'État du Cambodge';777;0
+e;16168446;'chef de clinique des universités de médecine générale';777;0
+e;16415690;'chef du gouvernement local';1;0
+e;2454308;'Grand-général-commandant-en-chef-Jambe-de-Bouc';1;0
+e;10032884;'La Surprise du chef';777;0
+e;11407175;'offense au chef de l'État';777;0
+e;11408474;'maréchal en chef de l'air';777;0
+e;11807305;'loi de succession du chef de l'État';777;0
+e;14902700;'chef-monteur';777;0
+e;15921753;'chef du gouvernement de la ville de Mexico';777;0
+e;15243195;'architecte en chef';1;0
+e;15934004;'arrangeur chef de file';1;0
+e;16170065;'Whip en chef du gouvernementAssemblée nationale du Québec';777;0
+e;10035434;'chef des opérations navales';777;0
+e;10834758;'chef du pouvoir exécutif de la Nation argentine à titre provisoire';777;0
+e;10866783;'Médecin en chef de l'expédition Atlantis';777;0
+e;11080795;'architecte en chef des monuments historiques nationaux';777;0
+e;12862849;'chef-pilote';1;0
+e;15340399;'Notre chef du service clients par intérim';1;0
+e;16074175;'Respect des consignes du médecin chef de service';1;0
+e;16074325;'Rôle du greffier en chef';1;0
+e;15308929;'adjoint au chef';1;0
+e;15335005;'adjudant chef';1;0
+e;15335007;'adjudante chef';1;0
+e;2396933;'de son chef';1;0
+e;5142923;'facteur-chef';1;0
+e;10831449;'chef du gouvernement tunisien';777;0
+e;10850116;'Commandement en chef français civil et militaire';777;0
+e;11021284;'colonel en chef';777;0
+e;15024598;'adjudante-chef';1;0
+e;11410574;'chef suédois';777;0
+e;11693155;'chef d'orchestre de wayang kulit';1;0
+e;12077805;'chef écailler';1;0
+e;12077806;'chef soigneur';1;0
+e;12077804;'chef de cave';1;0
+e;12077803;'chef d'attaque';1;0
+e;12077802;'chef animalier';1;2
+e;12081416;'surprise du chef';1;0
+e;12078682;'éditrice en chef';1;0
+e;12301456;'juge en chef des États-Unis';777;0
+e;14564101;'Sergent-chef';777;0
+e;15189994;'Souricier en chef du Cabinet';777;0
+e;15427001;'adjointe au chef';1;0
+e;16152967;'Le Commandant chef du secrétariat';777;0
+e;16325089;'L'enquêteur en chef';777;0
+e;5621773;'Cuisinez comme un grand chef';777;0
+e;6424404;'chef de service de transport routier';1;0
+e;10314020;'chef parlementaire';777;0
+e;10748061;'juge en chef du Québec';777;0
+e;10995029;'liste des chef du gouvernement de Cuba';777;0
+e;11343506;'chef de gouvernement du Viêt Nam';777;0
+e;11344053;'chef de la sécurité';777;0
+e;12050517;'chef de partie pâtisserie';1;0
+e;12051031;'chef de cabine';1;0
+e;15921747;'Liste des ministres en chef de l'Uttar Pradesh';777;0
+e;5622062;'Oui chef !';777;0
+e;10775941;'chef du Commonwealth';777;0
+e;11290170;'juge en chef de la Haute Cour d'Australie';777;0
+e;11362779;'chef du Bureau des astronautes';777;0
+e;10185391;'Médecin-chef';1;0
+e;10777456;'Ent. chef';777;0
+e;11236948;'chef de l'exécutif des îles Malouines';777;0
+e;11692697;'chef montreur';1;0
+e;2374789;'point en chef';1;0
+e;5138384;'conducteur-chef';1;0
+e;5801016;'Le Petit chef';777;0
+e;10003126;'chef d'état-major de l'Air Force';777;0
+e;10063297;'chef de l'opposition officielle';777;0
+e;10062674;'juge en chef du Canada';777;0
+e;10347301;'chef du gouvernement suédois';777;0
+e;11394796;'sergent-major chef';777;0
+e;6533707;'chef droit du muscle droit de la cuisse';1;0
+e;11001560;'chef de lidia';777;0
+e;11155744;'Architecte en chef des bâtiments civils et palais nationaux';777;0
+e;11250459;'chef machiniste';777;0
+e;11364619;'chef de nom et d'armes';777;0
+e;11555008;'chef du gouvernement de Yougoslavie';777;0
+e;11784202;'chef d'État-Major des armées des États-Unis';777;0
+e;11977546;'chef tribal amérindien';1;0
+e;11977547;'chef tribal';1;0
+e;2430782;'chef diplo';1;0
+e;11069966;'chef d'état-major de l'Armée de terre';777;0
+e;11070212;'chef d'état-major de l'Armée';777;0
+e;2480216;'superintendant en chef';1;0
+e;6533709;'chef transverse du muscle adducteur de l'hallux';1;0
+e;8852789;'chef-cuisinier';1;0
+e;10097045;'La Fille du chef';777;0
+e;10444704;'conservateur en chef';777;0
+e;10462615;'Prix du cinéma européen du meilleur chef décorateur';777;0
+e;11157358;'Commandant en chef';777;0
+e;5710203;'Rédacteurs en chef';777;0
+e;10105030;'Si j'étais chef de gare';777;0
+e;10185025;'Calino chef de gare';777;0
+e;10516295;'chef de brass band';1;0
+e;11010152;'ligne verticle en chef';777;0
+e;2449765;'chef de coeur';1;0
+e;10160577;'Comme un chef';777;0
+e;11342502;'chef d'État-Major';777;0
+e;2481977;'crochet en chef';1;0
+e;5993612;'chef d'édition';777;0
+e;6066589;'chef d'agrès';777;0
+e;6537281;'chef oblique du muscle adducteur de l'hallux gauche';1;0
+e;6536532;'chef long du muscle biceps brachial gauche';1;0
+e;12781382;'chef de filât';777;0
+e;6538759;'chef inférieur du muscle ptérygoïdien latéral droit';1;0
+e;6537284;'chef profond du muscle court fléchisseur du pouce droit';1;0
+e;6533708;'chef oblique du muscle adducteur de l'hallux';1;0
+e;9831405;'chef étoilée';1;0
+e;10433492;'juge et chef des préposés au courrier';777;0
+e;10433495;'chef des coiffeurs du palais';777;0
+e;11237107;'chef de l'État-major de l'ANP';777;0
+e;11957479;'chef d'État-Major des armées du Royaume-Uni';777;0
+e;2444965;'anneau en chef';1;0
+e;6537480;'chef supérieur du muscle ptérygoïdien latéral gauche';1;0
+e;6537287;'chef oblique du muscle adducteur du pouce gauche';1;0
+e;6537278;'chef réfléchi du muscle droit de la cuisse droite';1;0
+e;11957471;'chef d'État-major de l'Armée nationale populaire';777;0
+e;11957473;'chef d'État-Major de la Défense';777;0
+e;11957468;'chef d'état-major de l'United States Army';777;0
+e;11957476;'chef d'état-major de la Force aérienne';777;0
+e;11957472;'chef d'état-major de l'armée de l'air';777;0
+e;11957478;'chef d'État-Major de l'Armée populaire de Corée';777;0
+e;12772074;'commandant en chef des armées';1;0
+e;2479917;'chef de feux';1;0
+e;6539026;'chef huméral du muscle fléchisseur radial du carpe';1;0
+e;6537285;'chef profond du muscle court fléchisseur du pouce gauche';1;0
+e;6537282;'chef transverse du muscle adducteur de l'hallux droit';1;0
+e;6537272;'chef médial du muscle court fléchisseur de l'hallux droit';1;0
+e;6537266;'chef court du muscle biceps fémoral droit';1;0
+e;6536531;'chef long du muscle biceps brachial droite';1;0
+e;11156491;'chef de cabinet de la Maison-Blanche';777;0
+e;5941909;'chef d'état-major de la Marine';777;0
+e;6537479;'chef supérieur du muscle ptérygoïdien latéral droit';1;0
+e;6537355;'chef claviculaire du muscle sterno-cléido-mastoïdien droit';1;0
+e;6537354;'chef claviculaire du muscle sterno-cléido-mastoïdien';1;0
+e;6537289;'chef transverse du muscle adducteur du pouce gauche';1;0
+e;6537265;'chef long du muscle biceps fémoral gauche';1;0
+e;8803185;'chef de grand restaurant';1;0
+e;9264393;'faire le chef';1;0
+e;9745391;'grand chef cuisinier';1;0
+e;9745590;'chef cuisinier français';1;0
+e;10364491;'Entraîneur-chef';777;0
+e;11057325;'Crabe-chef';777;0
+e;11118282;'chef d'état-major de l'Armée de l'air';777;0
+e;11118466;'chef de l'État du Kenya';777;0
+e;11118508;'chef du gouvernement du Maroc';777;0
+e;11118739;'chef d'État-Major général des armées';777;0
+e;11125303;'chef de piste';777;0
+e;14242657;'16e chef de la famille Shiroishi-Katakura';777;0
+e;12709552;'la chef suprême du Gaming';777;0
+e;12727160;'en premier chef';1;0
+e;13779644;'984 chef de train de marchandises, aiguilleurs et agents de manoeuvre de chemin de fer';1;0
+e;14733176;'Commandant en chef de l'East Indies and China Station';777;0
+e;14585568;'Général en chef';777;0
+e;14745344;'Exécuteur en chef des arrêts criminels de la République française';777;0
+e;14485236;'Inspecteur-chef';1;0
+e;15250776;'Il a l'étoffe d'un chef.';1;0
+e;15774125;'Bibliothécaires en chef de l'Université';777;0
+e;15777289;'Commandant en chef des Forces armées canadiennes';777;0
+e;15774802;'Juge et chef des préposés au courrier';777;0
+e;16072541;'Congés annuels préalablement autorisés par le chef de service';1;0
+e;16162716;'Commandant en chef de l'armée britannique en Nouvelle-France occupée Thomas Gage';777;0
+e;3365529;'epinards du chef, crème, fromage et lardons';1;0
+e;3364330;'ma marmite du chef';1;0
+e;3780745;'red chef';1;0
+e;5521279;'chef du pouvoir exécutif';1;0
+e;6539027;'chef ulnaire du muscle fléchisseur radial du carpe';1;0
+e;6536537;'chef latéral du muscle triceps brachial droit';1;0
+e;6536536;'chef médial du muscle triceps brachial gauche';1;0
+e;6536530;'chef court du muscle biceps brachial gauche';1;0
+e;586053;'chef protestant';777;0
+e;1778430;'chef long du muscle biceps brachial';1;0
+e;1778422;'chef direct du muscle droit fémoral';1;0
+e;1778428;'chef latéral du muscle court fléchisseur de l'hallux';1;0
+e;1781420;'infirmier en chef';1;0
+e;1917010;'chef supérieur';1;0
+e;2562564;'couteau de chef';1;0
+e;3300754;'chef jihadiste';1;0
+e;4216089;'chef sans indiens';1;0
+e;6537288;'chef transverse du muscle adducteur du pouce droit';1;0
+e;6536705;'chef huméral du muscle fléchisseur ulnaire du carpe gauche';1;0
+e;460248;'chef médial du triceps';1;50
+e;1916913;'chef huméro-ulnaire';1;0
+e;1778434;'chef médial du muscle triceps brachial';1;0
+e;1778437;'chef radial du muscle fléchisseur superficiel des doigts';1;0
+e;1778439;'chef réfléchi du muscle droit fémoral';1;0
+e;1917016;'chef réfléchi du muscle droit';1;0
+e;2558553;'chef de partie';1;0
+e;3380494;'ministre en chef';1;0
+e;3704633;'coucher avec son chef';1;0
+e;3824966;'branler du chef';1;0
+e;6537286;'chef oblique du muscle adducteur du pouce droit';1;0
+e;6537277;'chef droit du muscle droit de la cuisse gauche';1;0
+e;6537274;'chef latéral du muscle court fléchisseur de l'hallux droit';1;0
+e;6537273;'chef médial du muscle court fléchisseur de l'hallux gauche';1;0
+e;6537269;'chef médial du muscle gastrocnémien gauche';1;0
+e;6536539;'chef long du muscle triceps brachial droit';1;0
+e;6536529;'chef court du muscle biceps brachial droit';1;0
+e;1917022;'chef radial du muscle fléchisseur superficiel';1;0
+e;437452;'secret de chef';1;50
+e;460157;'chef court du biceps';1;50
+e;1778420;'chef court du muscle biceps fémoral';1;0
+e;1778419;'chef court du muscle biceps brachial';1;0
+e;1778441;'chef supérieur du muscle ptérygoïdien latéral';1;0
+e;1778432;'chef long du muscle triceps brachial';1;0
+e;1778424;'chef huméral du muscle fléchisseur ulnaire du carpe';1;0
+e;1783270;'chef du gouvernement irlandais';777;0
+e;1804305;'chef cubital du muscle cubital antérieur';1;0
+e;1816280;'chef médial du muscle court fléchisseur du pouce';1;0
+e;1917015;'chef infraorbital du muscle quadrilatère';1;0
+e;2555145;'rond en chef';1;0
+e;2510088;'margis-chef';1;0
+e;6537283;'chef transverse du muscle adducteur de l'hallux gauche';1;0
+e;6537279;'chef réfléchi du muscle droit de la cuisse gauche';1;0
+e;592721;'chef de clinique assistant';1;0
+e;1765173;'chef court du biceps fémoral';1;0
+e;1778442;'chef transverse du muscle abducteur de l'hallux';1;0
+e;1778443;'chef transverse du muscle adducteur du pouce';1;0
+e;1778436;'chef oblique du muscle adducteur du pouce';1;0
+e;1778438;'chef réfléchi du muscle droit de la cuisse';1;0
+e;1804303;'chef de gouvernement de la Russie';1;0
+e;1917007;'chef inférieur';1;0
+e;1917000;'chef coracoïdien';1;0
+e;2565608;'chef-boutonnais';1;0
+e;3184791;'chef de soute';1;0
+e;5138386;'chef adjoint';1;0
+e;6537271;'chef latéral du muscle gastrocnémien gauche';1;0
+e;6537268;'chef médial du muscle gastrocnémien droit';1;0
+e;6536540;'chef long du muscle triceps brachial gauche';1;0
+e;460201;'gastrocnémien chef latéral';1;50
+e;1916327;'chef latéral';1;0
+e;1778426;'chef huméro-ulnaire du muscle fléchisseur superficiel des doigts';1;0
+e;1778433;'chef médial du muscle court fléchisseur de l'hallux';1;0
+e;1778435;'chef oblique du muscle abducteur de l'hallux';1;0
+e;1804300;'chef infraorbital du muscle quadrilatère de la lèvre supérieure';1;0
+e;2452679;'opiner du chef';1;2
+e;3361452;'crumble pommes/amande/cannelle du chef';1;0
+e;6537276;'chef droit du muscle droit de la cuisse droite';1;0
+e;6536709;'chef huméro-ulnaire du muscle fléchisseur superficiel des doigts gauche';1;0
+e;460232;'chef long du biceps';1;50
+e;1778421;'chef direct du muscle droit de la cuisse';1;0
+e;2962389;'chef de comptoir';1;0
+e;3724815;'logis-chef';1;0
+e;6538662;'chef superficiel du muscle court fléchisseur du pouce gauche';1;0
+e;6537280;'chef oblique du muscle adducteur de l'hallux droit';1;0
+e;6536708;'chef huméro-ulnaire du muscle fléchisseur superficiel des doigts droit';1;0
+e;460202;'gastrocnémien chef médial';1;50
+e;566556;'chef de';777;50
+e;1778425;'chef huméral du muscle rond pronateur';1;0
+e;1778429;'chef latéral du muscle triceps brachial';1;0
+e;1804306;'chef coracoïdien du muscle biceps brachial';1;0
+e;3296321;'chef d'État-Major des armées';777;0
+e;6538929;'chef inférieur du muscle ptérygoïdien latéral gauche';1;0
+e;6537267;'chef court du muscle biceps fémoral gauche';1;0
+e;6536710;'chef radial du muscle fléchisseur superficiel des doigts droit';1;0
+e;6536704;'chef huméral du muscle fléchisseur ulnaire du carpe droit';1;0
+e;460247;'chef latéral du triceps';1;50
+e;1765179;'chef long du biceps fémoral';1;0
+e;1778431;'chef long du muscle biceps fémoral';1;0
+e;1778446;'chef ulnaire du muscle rond pronateur';1;0
+e;1778444;'chef ulnaire du muscle extenseur ulnaire du carpe';1;0
+e;1778427;'chef inférieur du muscle ptérygoïdien latéral';1;0
+e;2546497;'bureau-chef';1;0
+e;2962388;'chef de chur';1;0
+e;3367859;'queues de langouste à l'américaine façon grand chef';1;0
+e;6538661;'chef superficiel du muscle court fléchisseur du pouce droit';1;0
+e;6537356;'chef claviculaire du muscle sterno-cléido-mastoïdien gauche';1;0
+e;6537270;'chef latéral du muscle gastrocnémien droit';1;0
+e;6537264;'chef long du muscle biceps fémoral droit';1;0
+e;6536711;'chef radial du muscle fléchisseur superficiel des doigts gauche';1;0
+e;6536535;'chef médial du muscle triceps brachial droit';1;0
+e;460233;'long chef du triceps';1;50
+e;1778423;'chef huméral du muscle extenseur ulnaire du carpe';1;0
+e;1778440;'chef superficiel du muscle court fléchisseur du pouce';1;0
+e;1778445;'chef ulnaire du muscle fléchisseur ulnaire du carpe';1;0
+e;1916912;'chef radial';1;0
+e;1917017;'chef latéral du muscle court fléchisseur';1;0
+e;1917005;'chef infraorbital';1;0
+e;2324435;'chef-d';1;0
+e;2565313;'du chef de';1;0
+e;3705469;'se faire engueuler par son chef';1;0
+e;4321569;'chef d'escadrons';777;0
+e;4325743;'chef du gouvernement français';1;0
+e;5339015;'chef du parti républicain';1;0
+e;6537275;'chef latéral du muscle court fléchisseur de l'hallux gauche';1;0
+e;6536538;'chef latéral du muscle triceps brachial gauche';1;0
+e;1804301;'chef du gouvernement d'Andorre';1;0
+e;1804299;'chef profond du muscle court fléchisseur du pouce';1;0
+e;1916328;'chef médial';1;0
+e;1917004;'chef huméral';1;0
+e;1917019;'chef oblique du muscle abducteur';1;0
+e;1804298;'chef ulnaire du muscle ulnaire médial';1;0
+e;1917020;'chef transverse du muscle abducteur';1;0
+e;1917018;'chef médial du muscle court fléchisseur';1;0
+e;1917008;'chef oblique';1;0
+e;1917009;'chef réfléchi';1;0
+e;2962390;'chef de produits voyages';1;0
+e;1917001;'chef cubital';1;0
+e;1917012;'chef ulnaire';1;0
+e;1917021;'chef huméro-ulnaire du muscle fléchisseur superficiel';1;0
+e;1917002;'chef direct';1;0
+e;1917011;'chef transverse';1;0
+e;2923651;'chef du gouvernement d';777;0
+e;1804302;'chef du gouvernement provisoire de la République française';1;0
+e;2927100;'chef d'agence';1;0
+e;1804304;'chef cubital du muscle cubital postérieur';1;0
+e;1917014;'chef direct du muscle droit';1;0
+e;343413;'chef de section de combat';1;50
+e;343412;'chef de peloton';1;50
+e;343408;'chef de chambrée';1;50
+e;343393;'chef des pompiers';1;50
+e;343382;'chef de parc';1;50
+e;343381;'chef de nage';1;50
+e;343380;'chef de musique';1;50
+e;343372;'chef de la diplomatie';1;50
+e;343354;'chef de bord';1;50
+e;343340;'chef ajouré';1;50
+e;374493;'pur chef d'oeuvre';1;50
+e;343411;'chef de marché';1;50
+e;343395;'chef hiérarchique';1;50
+e;343385;'chef de poste';1;50
+e;343378;'chef de la police';1;50
+e;343376;'chef de la diplomatie française';1;50
+e;343375;'chef de la diplomatie anglaise';1;50
+e;343368;'chef de feu';1;50
+e;343364;'chef de doctrine';1;50
+e;343360;'chef de corps';1;50
+e;343359;'chef de convoi';1;50
+e;343358;'chef de claque';1;50
+e;343357;'chef de centre';1;50
+e;343347;'chef d'escadron';1;50
+e;343346;'chef d'escadre';1;50
+e;343344;'chef d'armes';1;50
+e;357273;'général en chef';1;50
+e;356424;'grade de chef d'escadron';1;50
+e;344099;'commandant en chef';1;50
+e;343392;'chef de village';1;50
+e;343386;'chef de quart';1;50
+e;343377;'chef de la majorité';1;50
+e;343403;'chef-lieu de canton';1;56
+e;343401;'chef syndical';1;50
+e;343399;'chef scout';1;50
+e;343384;'chef de police';1;50
+e;343383;'chef de patrouille';1;50
+e;343370;'chef de l'exécutif';1;50
+e;343366;'chef de dépôt';1;50
+e;343363;'chef de division';1;50
+e;343361;'chef de corvée';1;50
+e;343355;'chef de brigands';1;50
+e;343352;'chef de bataillon';1;50
+e;343343;'chef coutumier';1;50
+e;343410;'chef de district';1;50
+e;343402;'chef temporel';1;50
+e;343388;'chef de section';1;50
+e;343374;'chef de la diplomatie américaine';1;50
+e;343371;'chef de l'opposition';1;50
+e;343365;'chef de département';1;50
+e;356048;'gendarme auxiliaire brigadier-chef';1;50
+e;346676;'de ce chef';1;50
+e;345649;'culte du chef';1;50
+e;343397;'chef pilote';1;50
+e;343391;'chef de tribu';1;50
+e;343390;'chef de timonerie';1;50
+e;343362;'chef de diplomatie';1;50
+e;343349;'chef d'opposition';1;50
+e;343406;'chef d'école';1;50
+e;343405;'chef d'oeuvre d'équilibre';1;50
+e;343404;'chef d'armée';1;50
+e;343394;'chef historique';1;50
+e;343387;'chef de secte';1;50
+e;343353;'chef de bloc';1;50
+e;343348;'chef d'oeuvre de bon goût';1;50
+e;343398;'chef rebelle';1;50
+e;343396;'chef navigateur';1;50
+e;343367;'chef de faction';1;50
+e;343351;'chef d'état-major';1;52
+e;343350;'chef d'église';1;50
+e;343342;'chef comptable';1;50
+e;343341;'chef charismatique';1;50
+e;338142;'baguette de chef d'orchestre';1;50
+e;343389;'chef de siège';1;50
+e;343379;'chef de mission';1;56
+e;343356;'chef de bureau';1;50
+e;340697;'bâton de chef';1;50
+e;382828;'talent de chef';1;50
+e;343409;'chef de culture';1;50
+e;343407;'chef de cantonnement';1;50
+e;343400;'chef suprême';1;50
+e;343373;'chef de la diplomatie allemande';1;50
+e;343369;'chef de gamelle';1;50
+e;343345;'chef d'artillerie';1;50
+e;341320;'canne de chef';1;50
+e;90082;'caporal-chef';1;54
+e;73148;'adjudant-chef';1;50
+e;61948;'médecin-chef';1;50
+e;29500;'levain-chef';1;50
+e;23554;'chef-lieu';1;96
+e;21987;'brigadier-chef';1;50
+e;18557;'couvre-chef';1;212
+e;11506;'sous-chef';1;58
+e;3541;'chef-électricien';1;50
+e;191748;'chef-d'uvre';1;50
+e;140733;'chef-d'oeuvre';1;102
+e;136229;'chef-décorateur';1;50
+e;120918;'chef-opérateur';1;50
+e;108085;'sergent-chef';1;60
+e;103048;'chef-garde';1;50
+e;323561;'chef musculaire';1;50
+e;323564;'chef long';1;50
+e;323565;'chef court';1;50
+e;324097;'chef latéral du muscle gastrocnémien';1;50
+e;324098;'chef médial du muscle gastrocnémien';1;50
+e;325294;'chef profond';1;50
+e;325297;'chef superficiel';1;50
+e;172760;'maréchal des logis-chef';1;50
+e;158887;'chef-lieu d'arrondissement';1;50
+e;158889;'chef-lieu de département';1;50
+e;173039;'chef-lieu d'arrondissement départemental';1;50
+e;181485;'chef-lieu de région';1;50
+e;315610;'long chef';1;50
+e;315611;'court chef';1;50
+e;315934;'chef de brigade';1;50
+e;218126;'chef gaulois';1;62
+e;227151;'chef arverne';1;64
+e;230962;'chef politique';1;2
+e;240373;'chef des armées';1;56
+e;247239;'chef de gang';1;50
+e;248095;'chef étoilé';1;46
+e;248381;'chef cuisinier';1;8
+e;253931;'chef de mission diplomatique';1;50
+e;257584;'chef militaire';1;50
+e;258148;'chef d'établissement';1;22
+e;260654;'rédactrice en chef';1;2
+e;261026;'chef d'équipe';1;52
+e;261027;'chef de parti';1;50
+e;261450;'spécialité du chef';1;50
+e;261721;'grand chef indien';1;50
+e;261722;'chef indien';1;50
+e;262157;'chef de travaux';1;50
+e;102310;'chef opérateur';1;50
+e;152582;'de son propre chef';1;72
+e;160565;'grand chef';1;66
+e;162984;'chef d'atelier';1;58
+e;164173;'chef de gare';1;68
+e;165253;'chef du gouvernement';1;52
+e;165312;'chef de clinique';1;50
+e;165642;'chef de choeur';1;78
+e;165709;'chef du personnel';1;52
+e;169651;'chef de rang';1;62
+e;169660;'chef de train funiculaire';1;50
+e;169672;'chef de cabinet';1;54
+e;171479;'en chef';1;54
+e;210472;'chef de l'État';1;52
+e;210473;'chef d'état major';1;50
+e;37443;'chef de pièce';1;50
+e;45378;'chef de file';1;50
+e;68351;'Hitler, chef de guerre';1;50
+e;94594;'chef de production';1;50
+e;124694;'chef monteur';1;50
+e;141650;'chef de l'Église';1;50
+e;146869;'chef d'entreprise';1;222
+e;152494;'chef lieu';1;54
+e;152762;'chef spirituel';1;54
+e;154570;'chef de bande';1;60
+e;155024;'chef d'oeuvre';1;92
+e;156058;'chef de cuisine';1;50
+e;158628;'chef religieux';1;74
+e;158802;'chef de service';1;66
+e;159078;'repas de chef';1;50
+e;181482;'chef de pupitre';1;50
+e;181483;'chef du crédit';1;50
+e;181484;'chef d'inculpation';1;50
+e;181486;'chef magistrat';1;50
+e;184015;'rédacteur en chef';1;84
+e;187297;'au premier chef';1;50
+e;190243;'agent de sécurité chef de poste';1;50
+e;266033;'infirmière chef';1;50
+e;274881;'chef amérindien';1;50
+e;276355;'chef de clinique des universités-assistant des hôpitaux';777;50
+e;278416;'chef costumier';777;50
+e;279964;'chef de groupe';1;50
+e;284409;'chef de la direction';777;50
+e;286553;'chef décorateur';777;50
+e;298807;'chef de l'exil';777;50
+e;304056;'chef de gouvernement';777;50
+e;134420;'chef de projet';1;60
+e;136758;'chef d'orchestre';1;150
+e;136854;'chef d'État';1;58
+e;137263;'chef d'état';1;148
+e;187228;'chef d'accusation';1;6
+e;190287;'chef de fabrication';1;50
+e;190288;'chef de laboratoire';1;50
+e;190289;'chef de produit';1;50
+e;190290;'chef de produit touristique';1;50
+e;190291;'chef de publicité';1;50
+e;190292;'chef de rayon';1;52
+e;190293;'chef équipe des services sécurité incendie';1;50
+e;190400;'pompier d'aérodrome chef de manuvre';1;50
+e;195080;'petit chef';1;106
+e;197126;'branler le chef';1;52
+e;197507;'chef de clan';1;52
+e;197508;'chef de classe';1;50
+e;197509;'chef de famille';1;68
+e;197510;'chef de guerre';1;50
+e;197511;'chef de train';1;50
+e;197512;'chef du protocole';1;52
+e;197513;'chef mécanicien';1;50
+e;12096;'chef de chantier';1;70
+r;298195254;89926;6286875;11;25
+r;298880968;89926;6295517;11;25
+r;299339591;89926;6302764;11;25
+r;299491227;89926;6306378;11;25
+r;299914267;89926;6319451;11;25
+r;300154887;89926;6322562;11;25
+r;300196214;89926;6326005;11;25
+r;300960007;89926;6330821;11;25
+r;302097344;89926;6360366;11;25
+r;303314423;89926;6374494;11;25
+r;304379139;89926;6386120;11;25
+r;304994323;89926;6394310;11;25
+r;305048801;89926;6396995;11;25
+r;305709800;89926;6421000;11;25
+r;305710386;89926;6421344;11;25
+r;337349822;89926;12981492;11;25
+r;345928359;89926;13635901;11;25
+r;349263176;89926;6327236;11;25
+r;353444901;89926;14005690;11;25
+r;358441189;89926;14135855;11;25
+r;366685631;89926;14446622;11;25
+r;366875964;89926;14452912;11;25
+r;366907436;89926;14453569;11;25
+r;370813343;89926;14594495;11;25
+r;370917762;89926;14596940;11;25
+r;370925129;89926;14596939;11;25
+r;371853791;89926;14638022;11;25
+r;371853812;89926;14638011;11;25
+r;371853876;89926;14638005;11;25
+r;371853971;89926;14638010;11;25
+r;372941511;89926;14665611;11;25
+r;389633530;89926;14897354;11;25
+r;410424682;89926;15789455;11;25
+r;414466214;89926;15921746;11;25
+r;417153407;89926;11957961;11;25
+r;433005292;89926;16390666;11;25
+r;364195558;89926;14304675;11;26
+r;368585416;89926;14529861;11;26
+r;370558156;89926;14584005;11;26
+r;374342142;89926;14724045;11;26
+r;375036193;89926;14753234;11;26
+r;114456989;89926;5791921;11;27
+r;270771512;89926;10676015;11;27
+r;270771494;89926;10676017;11;27
+r;270771483;89926;10676018;11;27
+r;267326699;89926;10664270;11;27
+r;392352624;89926;15039461;11;27
+r;119667725;89926;6087746;11;28
+r;267333830;89926;10623675;11;28
+r;267333835;89926;10623674;11;28
+r;303761948;89926;11774580;11;28
+r;331428138;89926;12913361;11;28
+r;97143377;89926;1471224;11;29
+r;119672219;89926;6083572;11;29
+r;121501451;89926;6442954;11;29
+r;264469099;89926;10589125;11;29
+r;277432757;89926;10988449;11;29
+r;301950014;89926;11770409;11;29
+r;434983505;89926;16534060;11;29
+r;264441480;89926;10599712;11;30
+r;269461344;89926;10733066;11;30
+r;274270836;89926;10908930;11;30
+r;274294048;89926;10903667;11;30
+r;310674231;89926;2344910;11;30
+r;310674232;89926;2344911;11;30
+r;419749255;89926;15491741;11;30
+r;419782520;89926;15427058;11;30
+r;419783162;89926;15427059;11;30
+r;419811649;89926;15264013;11;30
+r;434379597;89926;16091576;11;30
+r;220781403;89926;9957653;11;31
+r;221482271;89926;9967397;11;31
+r;264211505;89926;10596421;11;31
+r;264196997;89926;10596100;11;31
+r;264198743;89926;10596101;11;31
+r;264218955;89926;10596102;11;31
+r;264434336;89926;10602301;11;31
+r;274266093;89926;10909916;11;31
+r;395367558;89926;15427053;11;31
+r;395411878;89926;15427054;11;31
+r;419720125;89926;15281139;11;31
+r;419731645;89926;15538960;11;31
+r;434378675;89926;16508258;11;31
+r;434378685;89926;16493712;11;31
+r;434378691;89926;16326561;11;31
+r;434378697;89926;16326570;11;31
+r;434378703;89926;16326569;11;31
+r;434378709;89926;16355101;11;31
+r;53065227;89926;2388730;11;32
+r;54620407;89926;2427230;11;32
+r;55735057;89926;2464051;11;32
+r;121543695;89926;6438257;11;32
+r;263701654;89926;10579210;11;32
+r;277570929;89926;10990042;11;32
+r;277806252;89926;10993390;11;32
+r;279617132;89926;11031055;11;32
+r;312360140;89926;11993447;11;32
+r;423599158;89926;16152861;11;32
+r;373158055;89926;14677599;11;32
+r;373164045;89926;14677735;11;32
+r;419680270;89926;15251468;11;32
+r;419680295;89926;15251472;11;32
+r;419681243;89926;15280920;11;32
+r;419681247;89926;15427002;11;32
+r;419704181;89926;15488995;11;32
+r;419704185;89926;15452127;11;32
+r;419704189;89926;15259180;11;32
+r;419704193;89926;15392226;11;32
+r;419704197;89926;15270549;11;32
+r;419704201;89926;15395744;11;32
+r;419704211;89926;15427004;11;32
+r;419704214;89926;16041611;11;32
+r;419704217;89926;15427013;11;32
+r;419704220;89926;15572012;11;32
+r;419704224;89926;15309894;11;32
+r;419704228;89926;15253706;11;32
+r;419704234;89926;15309896;11;32
+r;419704244;89926;15492437;11;32
+r;419704250;89926;15777082;11;32
+r;419704260;89926;13683733;11;32
+r;419704264;89926;15492439;11;32
+r;419704270;89926;15427016;11;32
+r;419704274;89926;15300819;11;32
+r;419704287;89926;15542370;11;32
+r;419704293;89926;15355186;11;32
+r;419704299;89926;15571233;11;32
+r;419704310;89926;16041612;11;32
+r;419704315;89926;15487015;11;32
+r;419704321;89926;15466199;11;32
+r;419704327;89926;15274394;11;32
+r;419704333;89926;15531088;11;32
+r;419704344;89926;15520703;11;32
+r;419704355;89926;15769546;11;32
+r;419704366;89926;16041613;11;32
+r;419704371;89926;15492442;11;32
+r;419704377;89926;15366287;11;32
+r;419704383;89926;15771891;11;32
+r;419704394;89926;15529154;11;32
+r;419704400;89926;15401091;11;32
+r;419704406;89926;15427028;11;32
+r;419704412;89926;15584510;11;32
+r;419704423;89926;15580698;11;32
+r;419704432;89926;15574002;11;32
+r;419704438;89926;15427030;11;32
+r;419704444;89926;15399840;11;32
+r;419704450;89926;15242046;11;32
+r;419704456;89926;15393699;11;32
+r;419704462;89926;15366290;11;32
+r;419704468;89926;15389992;11;32
+r;419704474;89926;15427036;11;32
+r;419704480;89926;15412167;11;32
+r;419704493;89926;15688976;11;32
+r;419704506;89926;15361664;11;32
+r;419704512;89926;15389993;11;32
+r;419704518;89926;15204595;11;32
+r;419704522;89926;15331705;11;32
+r;419704528;89926;15465449;11;32
+r;419704532;89926;15343172;11;32
+r;419704538;89926;15514845;11;32
+r;419704542;89926;15572778;11;32
+r;419704546;89926;15204602;11;32
+r;419704550;89926;15572783;11;32
+r;419704556;89926;15572782;11;32
+r;419704562;89926;15951022;11;32
+r;419704570;89926;15526594;11;32
+r;419704574;89926;15342496;11;32
+r;419704578;89926;15427046;11;32
+r;419704582;89926;15573922;11;32
+r;419704591;89926;15529859;11;32
+r;419704595;89926;15502340;11;32
+r;419704599;89926;15281631;11;32
+r;419704603;89926;15279510;11;32
+r;419704607;89926;15395746;11;32
+r;419704617;89926;14927620;11;32
+r;423434329;89926;16144600;11;32
+r;425024119;89926;16168446;11;32
+r;433315166;89926;16415690;11;32
+r;55555024;89926;2454308;11;33
+r;227628639;89926;10032884;11;33
+r;293404264;89926;11407175;11;33
+r;293501178;89926;11408474;11;33
+r;304475846;89926;11807305;11;33
+r;389698949;89926;14902700;11;33
+r;414465260;89926;15921753;11;33
+r;419606453;89926;15243195;11;33
+r;419607807;89926;15934004;11;33
+r;434367140;89926;16170065;11;33
+r;227619076;89926;10035434;11;34
+r;270916957;89926;10834758;11;34
+r;272518117;89926;10866783;11;34
+r;281059960;89926;11080795;11;34
+r;329457351;89926;12862849;11;34
+r;419513815;89926;15340399;11;34
+r;419534474;89926;16074175;11;34
+r;419537874;89926;16074325;11;34
+r;419577422;89926;15308929;11;34
+r;419577532;89926;15335005;11;34
+r;419577552;89926;15335007;11;34
+r;53228460;89926;2396933;11;35
+r;105975326;89926;5142923;11;35
+r;270763342;89926;10831449;11;35
+r;272190718;89926;10850116;11;35
+r;279188633;89926;11021284;11;35
+r;392467301;89926;15024598;11;35
+r;293488526;89926;11410574;11;35
+r;300958622;89926;11693155;11;35
+r;315097237;89926;12077805;11;35
+r;315099028;89926;12077806;11;35
+r;315099102;89926;12077804;11;35
+r;315099542;89926;12077803;11;35
+r;315100862;89926;12077802;11;35
+r;315107679;89926;12081416;11;35
+r;315122021;89926;12078682;11;35
+r;319546959;89926;12301456;11;35
+r;370235404;89926;14564101;11;35
+r;394001818;89926;15189994;11;35
+r;395412368;89926;15427001;11;35
+r;423612162;89926;16152967;11;35
+r;430369780;89926;16325089;11;35
+r;110812721;89926;5621773;11;36
+r;122739094;89926;6424404;11;36
+r;252671437;89926;10314020;11;36
+r;269385686;89926;10748061;11;36
+r;277883739;89926;10995029;11;36
+r;290615111;89926;11343506;11;36
+r;290675741;89926;11344053;11;36
+r;313696461;89926;12050517;11;36
+r;313696491;89926;12050713;11;36
+r;313696508;89926;12050714;11;36
+r;313711342;89926;12051031;11;36
+r;414465813;89926;15921747;11;36
+r;110812281;89926;5622062;11;37
+r;269878716;89926;10775941;11;37
+r;289893500;89926;11290170;11;37
+r;291817445;89926;11362779;11;37
+r;244532743;89926;10185391;11;38
+r;269874534;89926;10777456;11;38
+r;287929750;89926;11236948;11;38
+r;299341517;89926;11692697;11;38
+r;52210747;89926;2374789;11;39
+r;105897551;89926;5138384;11;39
+r;113311165;89926;5801016;11;39
+r;227661284;89926;10003126;11;39
+r;232101243;89926;10063297;11;39
+r;232103322;89926;10062674;11;39
+r;254177437;89926;10347301;11;39
+r;292748963;89926;11394796;11;39
+r;121908581;89926;6533707;11;40
+r;278229896;89926;11001560;11;40
+r;283717349;89926;11155744;11;40
+r;288224106;89926;11250459;11;40
+r;291721566;89926;11364619;11;40
+r;296852652;89926;11555008;11;40
+r;303722854;89926;11784202;11;40
+r;310773164;89926;11977546;11;40
+r;310773213;89926;11977547;11;40
+r;54958212;89926;2430782;11;41
+r;280607530;89926;11069966;11;41
+r;280631711;89926;11070212;11;41
+r;60191011;89926;2480216;11;42
+r;121908553;89926;6533709;11;42
+r;190278538;89926;8852789;11;42
+r;234229178;89926;10097045;11;42
+r;258727859;89926;10444704;11;42
+r;261005884;89926;10462615;11;42
+r;283847232;89926;11157358;11;42
+r;112179273;89926;5710203;11;43
+r;234223738;89926;10105030;11;43
+r;240634403;89926;10185025;11;43
+r;262207337;89926;10516295;11;43
+r;278775288;89926;11010152;11;43
+r;55443812;89926;2449765;11;44
+r;238099215;89926;10160577;11;44
+r;290615364;89926;11342502;11;44
+r;52484810;89926;2481977;11;45
+r;117863501;89926;5993612;11;45
+r;118930410;89926;6066589;11;45
+r;121865754;89926;6537281;11;45
+r;121875346;89926;6536532;11;45
+r;327954562;89926;12781382;11;45
+r;121849126;89926;6538759;11;46
+r;121865701;89926;6537284;11;46
+r;121908567;89926;6533708;11;46
+r;219156147;89926;9831405;11;46
+r;256301300;89926;10433492;11;46
+r;256301283;89926;10433495;11;46
+r;287945703;89926;11237107;11;46
+r;309078545;89926;11957479;11;46
+r;55343499;89926;2444965;11;47
+r;121863303;89926;6537480;11;47
+r;121865642;89926;6537287;11;47
+r;121865808;89926;6537278;11;47
+r;308635010;89926;11957471;11;47
+r;308637159;89926;11957473;11;47
+r;308637360;89926;11957468;11;47
+r;308638547;89926;11957476;11;47
+r;308639101;89926;11957472;11;47
+r;308639621;89926;11957478;11;47
+r;327708221;89926;12772074;11;47
+r;59807616;89926;2479917;11;48
+r;121846287;89926;6539026;11;48
+r;121865680;89926;6537285;11;48
+r;121865738;89926;6537282;11;48
+r;121865921;89926;6537272;11;48
+r;121866029;89926;6537266;11;48
+r;121875365;89926;6536531;11;48
+r;283781460;89926;11156491;11;49
+r;116315015;89926;5941909;11;50
+r;121863322;89926;6537479;11;50
+r;121864798;89926;6537355;11;50
+r;121864811;89926;6537354;11;50
+r;121865604;89926;6537289;11;50
+r;121866048;89926;6537265;11;50
+r;187421373;89926;8803185;11;50
+r;212648942;89926;9264393;11;50
+r;218034583;89926;9745391;11;50
+r;218035961;89926;9745590;11;50
+r;272015229;89926;10364491;11;50
+r;280140696;89926;11057325;11;50
+r;282234114;89926;11118282;11;50
+r;282245598;89926;11118466;11;50
+r;282253539;89926;11118508;11;50
+r;282255328;89926;11118739;11;50
+r;282489438;89926;11125303;11;50
+r;361405644;89926;14242657;11;50
+r;326102036;89926;12709552;11;50
+r;327322897;89926;12727160;11;50
+r;348999147;89926;13779644;11;50
+r;374570147;89926;14733176;11;50
+r;400717286;89926;14585568;11;50
+r;397504548;89926;14745344;11;50
+r;402118917;89926;14485236;11;50
+r;402103258;89926;15250776;11;50
+r;411713525;89926;15774125;11;50
+r;411716192;89926;15777289;11;50
+r;414795359;89926;15774802;11;50
+r;418901022;89926;16072541;11;50
+r;425407692;89926;16162716;11;50
+r;18684534;89926;596342;11;51
+r;86187000;89926;3365529;11;51
+r;86197117;89926;3364330;11;51
+r;95179899;89926;3780745;11;51
+r;107410265;89926;5391013;11;51
+r;109031696;89926;5521279;11;51
+r;121846271;89926;6539027;11;51
+r;121875259;89926;6536537;11;51
+r;121875278;89926;6536536;11;51
+r;121875384;89926;6536530;11;51
+r;18378082;89926;586053;11;52
+r;29210546;89926;1778430;11;52
+r;29211748;89926;1778422;11;52
+r;29212796;89926;1778428;11;52
+r;29225491;89926;1781420;11;52
+r;30849572;89926;1917010;11;52
+r;99457181;89926;4401695;11;52
+r;52446843;89926;2562564;11;52
+r;75372349;89926;3138348;11;52
+r;82550996;89926;3300754;11;52
+r;93294746;89926;3737723;11;52
+r;95154653;89926;4216089;11;52
+r;121865623;89926;6537288;11;52
+r;121872955;89926;6536705;11;52
+r;16139863;89926;460248;11;53
+r;30845256;89926;1916913;11;53
+r;29210347;89926;1778434;11;53
+r;29210424;89926;1778437;11;53
+r;29211333;89926;1778439;11;53
+r;99457200;89926;4401694;11;53
+r;30850250;89926;1917016;11;53
+r;52448681;89926;2558553;11;53
+r;83430614;89926;3313317;11;53
+r;86792936;89926;3380494;11;53
+r;92497044;89926;3704633;11;53
+r;95177314;89926;3824966;11;53
+r;104848891;89926;5037750;11;53
+r;121865661;89926;6537286;11;53
+r;121865830;89926;6537277;11;53
+r;121865879;89926;6537274;11;53
+r;121865900;89926;6537273;11;53
+r;121865976;89926;6537269;11;53
+r;121875221;89926;6536539;11;53
+r;121875403;89926;6536529;11;53
+r;30849669;89926;1917022;11;54
+r;14688984;89926;437452;11;54
+r;16140385;89926;460157;11;54
+r;29210468;89926;1778420;11;54
+r;29210946;89926;1778419;11;54
+r;29211555;89926;1778441;11;54
+r;29212137;89926;1778432;11;54
+r;29214571;89926;1778424;11;54
+r;29282719;89926;1783270;11;54
+r;29520585;89926;1804305;11;54
+r;29640464;89926;1816280;11;54
+r;30849502;89926;1917015;11;54
+r;52450272;89926;2555145;11;54
+r;52518310;89926;2510088;11;54
+r;75974917;89926;3159357;11;54
+r;93294756;89926;3737724;11;54
+r;121865722;89926;6537283;11;54
+r;121865786;89926;6537279;11;54
+r;18594579;89926;592721;11;55
+r;29016071;89926;1765173;11;55
+r;29210597;89926;1778442;11;55
+r;29210817;89926;1778443;11;55
+r;29211009;89926;1778436;11;55
+r;29211539;89926;1778438;11;55
+r;29519404;89926;1804303;11;55
+r;30849478;89926;1917007;11;55
+r;30850328;89926;1917000;11;55
+r;52488525;89926;2565608;11;55
+r;77164520;89926;3184791;11;55
+r;105889424;89926;5138386;11;55
+r;121865942;89926;6537271;11;55
+r;121865993;89926;6537268;11;55
+r;121875202;89926;6536540;11;55
+r;16140171;89926;460201;11;56
+r;30834327;89926;1916327;11;56
+r;29210598;89926;1778426;11;56
+r;29210950;89926;1778433;11;56
+r;29211096;89926;1778435;11;56
+r;29522053;89926;1804300;11;56
+r;55526040;89926;2452679;11;56
+r;75372379;89926;3138349;11;56
+r;75968326;89926;3159201;11;56
+r;86247830;89926;3361452;11;56
+r;86442970;89926;3376656;11;56
+r;121865844;89926;6537276;11;56
+r;121872885;89926;6536709;11;56
+r;16139989;89926;460232;11;57
+r;29210865;89926;1778421;11;57
+r;73562202;89926;2962389;11;57
+r;83808724;89926;3324193;11;57
+r;88861817;89926;3563854;11;57
+r;92959905;89926;3724815;11;57
+r;104848879;89926;5037749;11;57
+r;121850127;89926;6538662;11;57
+r;121865770;89926;6537280;11;57
+r;121872908;89926;6536708;11;57
+r;16140165;89926;460202;11;58
+r;16959803;89926;566556;11;58
+r;29210702;89926;1778425;11;58
+r;29212065;89926;1778429;11;58
+r;29523562;89926;1804306;11;58
+r;82136973;89926;3296321;11;58
+r;86975993;89926;3391257;11;58
+r;121847137;89926;6538929;11;58
+r;121866010;89926;6537267;11;58
+r;121872861;89926;6536710;11;58
+r;121872976;89926;6536704;11;58
+r;16139869;89926;460247;11;59
+r;18683731;89926;596341;11;59
+r;29016476;89926;1765179;11;59
+r;29211196;89926;1778431;11;59
+r;29211453;89926;1778446;11;59
+r;29212542;89926;1778444;11;59
+r;29213442;89926;1778427;11;59
+r;52498709;89926;2546497;11;59
+r;73562209;89926;2962388;11;59
+r;75291140;89926;3126307;11;59
+r;83808713;89926;3324192;11;59
+r;84307578;89926;3337605;11;59
+r;86166924;89926;3367859;11;59
+r;121850148;89926;6538661;11;59
+r;121864785;89926;6537356;11;59
+r;121865959;89926;6537270;11;59
+r;121866067;89926;6537264;11;59
+r;121872837;89926;6536711;11;59
+r;121875297;89926;6536535;11;59
+r;16139983;89926;460233;11;60
+r;29211053;89926;1778423;11;60
+r;29211282;89926;1778440;11;60
+r;29211823;89926;1778445;11;60
+r;30845192;89926;1916912;11;60
+r;30849524;89926;1917017;11;60
+r;30850218;89926;1917005;11;60
+r;33729363;89926;2324435;11;60
+r;52445619;89926;2565313;11;60
+r;83430627;89926;3313318;11;60
+r;84307774;89926;3337606;11;60
+r;86442957;89926;3376657;11;60
+r;86976006;89926;3391258;11;60
+r;88861805;89926;3563853;11;60
+r;92508313;89926;3705469;11;60
+r;98585761;89926;4321569;11;60
+r;98673830;89926;4325743;11;60
+r;106931968;89926;5339015;11;60
+r;107410250;89926;5391014;11;60
+r;121865858;89926;6537275;11;60
+r;121875240;89926;6536538;11;60
+r;29522222;89926;1804301;11;61
+r;29523573;89926;1804299;11;61
+r;30835460;89926;1916328;11;61
+r;30849096;89926;1917004;11;61
+r;30850301;89926;1917019;11;61
+r;29522092;89926;1804298;11;62
+r;30849126;89926;1917020;11;62
+r;30849788;89926;1917018;11;62
+r;30849970;89926;1917008;11;62
+r;30850094;89926;1917009;11;62
+r;73562193;89926;2962390;11;62
+r;75505566;89926;3155479;11;62
+r;30849621;89926;1917001;11;63
+r;30849825;89926;1917012;11;63
+r;30849997;89926;1917021;11;63
+r;30850323;89926;1917002;11;63
+r;30849765;89926;1917011;11;64
+r;71584008;89926;2923651;11;64
+r;75291127;89926;3126306;11;64
+r;75968312;89926;3159200;11;64
+r;75968883;89926;3159235;11;64
+r;29521907;89926;1804302;11;65
+r;71744582;89926;2927100;11;65
+r;75505500;89926;3155478;11;65
+r;29522106;89926;1804304;11;66
+r;75968870;89926;3159234;11;66
+r;75974862;89926;3159356;11;66
+r;30849075;89926;1917014;11;68
+r;12730947;89926;343413;11;101
+r;12730955;89926;343412;11;101
+r;12730971;89926;343408;11;101
+r;12731037;89926;343393;11;101
+r;12731081;89926;343382;11;101
+r;12731085;89926;343381;11;101
+r;12731089;89926;343380;11;101
+r;12731137;89926;343372;11;101
+r;12731209;89926;343354;11;101
+r;12731271;89926;343340;11;101
+r;12603945;89926;374493;11;102
+r;12730959;89926;343411;11;102
+r;12731029;89926;343395;11;102
+r;12731069;89926;343385;11;102
+r;12731097;89926;343378;11;102
+r;12731105;89926;343376;11;102
+r;12731113;89926;343375;11;102
+r;12731153;89926;343368;11;102
+r;12731169;89926;343364;11;102
+r;12731185;89926;343360;11;102
+r;12731189;89926;343359;11;102
+r;12731193;89926;343358;11;102
+r;12731197;89926;343357;11;102
+r;12731243;89926;343347;11;102
+r;12731247;89926;343346;11;102
+r;12731255;89926;343344;11;102
+r;12673803;89926;357273;11;103
+r;12677433;89926;356424;11;103
+r;12728159;89926;344099;11;103
+r;12731041;89926;343392;11;103
+r;12731065;89926;343386;11;103
+r;12731101;89926;343377;11;103
+r;12730993;89926;343403;11;104
+r;12731005;89926;343401;11;104
+r;12731013;89926;343399;11;104
+r;12731073;89926;343384;11;104
+r;12731077;89926;343383;11;104
+r;12731145;89926;343370;11;104
+r;12731161;89926;343366;11;104
+r;12731173;89926;343363;11;104
+r;12731181;89926;343361;11;104
+r;12731205;89926;343355;11;104
+r;12731217;89926;343352;11;104
+r;12731259;89926;343343;11;104
+r;12730963;89926;343410;11;105
+r;12731001;89926;343402;11;105
+r;12731057;89926;343388;11;105
+r;12731121;89926;343374;11;105
+r;12731141;89926;343371;11;105
+r;12731165;89926;343365;11;105
+r;12678939;89926;356048;11;106
+r;12716737;89926;346676;11;106
+r;12721883;89926;345649;11;106
+r;12731021;89926;343397;11;106
+r;12731045;89926;343391;11;106
+r;12731049;89926;343390;11;106
+r;12731177;89926;343362;11;106
+r;12731231;89926;343349;11;106
+r;12730979;89926;343406;11;107
+r;12730983;89926;343405;11;107
+r;12730989;89926;343404;11;107
+r;12731033;89926;343394;11;107
+r;12731061;89926;343387;11;107
+r;12731213;89926;343353;11;107
+r;12731235;89926;343348;11;107
+r;12731017;89926;343398;11;108
+r;12731025;89926;343396;11;108
+r;12731157;89926;343367;11;108
+r;12731221;89926;343351;11;108
+r;12731227;89926;343350;11;108
+r;12731263;89926;343342;11;108
+r;12731267;89926;343341;11;108
+r;12753089;89926;338142;11;108
+r;12731053;89926;343389;11;109
+r;12731093;89926;343379;11;109
+r;12731201;89926;343356;11;109
+r;12742379;89926;340697;11;109
+r;12570235;89926;382828;11;110
+r;12730967;89926;343409;11;110
+r;12730975;89926;343407;11;110
+r;12731009;89926;343400;11;110
+r;12731129;89926;343373;11;110
+r;12731149;89926;343369;11;110
+r;12731251;89926;343345;11;110
+r;12739809;89926;341320;11;110
+r;11865157;89926;90082;11;121
+r;11867481;89926;73148;11;121
+r;11869117;89926;61948;11;121
+r;11874024;89926;29500;11;121
+r;11874884;89926;23554;11;121
+r;11875121;89926;21987;11;121
+r;11875595;89926;18557;11;121
+r;11876536;89926;11506;11;121
+r;11877593;89926;3541;11;121
+r;11850313;89926;266385;11;122
+r;11850315;89926;266384;11;122
+r;11850317;89926;266383;11;122
+r;11853222;89926;191748;11;122
+r;11858067;89926;140733;11;122
+r;11858392;89926;136229;11;122
+r;11860580;89926;120918;11;122
+r;11862505;89926;108085;11;122
+r;11863210;89926;103048;11;122
+r;9262426;89926;323561;11;148
+r;9262429;89926;323564;11;148
+r;9262431;89926;323565;11;148
+r;9314796;89926;324097;11;148
+r;9314799;89926;324098;11;148
+r;10734225;89926;325294;11;148
+r;10734201;89926;325297;11;148
+r;8875761;89926;172760;11;152
+r;8875304;89926;158887;11;153
+r;8875307;89926;158889;11;153
+r;8875770;89926;173039;11;153
+r;8876011;89926;181485;11;153
+r;8870650;89926;315610;11;154
+r;8870652;89926;315611;11;154
+r;8870970;89926;315934;11;154
+r;8690890;89926;218126;11;161
+r;8696688;89926;227151;11;161
+r;8699496;89926;230962;11;161
+r;8706651;89926;240373;11;161
+r;8710721;89926;247239;11;161
+r;8711484;89926;248095;11;161
+r;8711753;89926;248381;11;161
+r;8717712;89926;253931;11;161
+r;8722831;89926;257584;11;161
+r;8723605;89926;258148;11;161
+r;8727147;89926;260654;11;161
+r;8727710;89926;261026;11;161
+r;8727711;89926;261027;11;161
+r;8728142;89926;261450;11;161
+r;8728439;89926;261721;11;161
+r;8728441;89926;261722;11;161
+r;8728965;89926;262157;11;161
+r;8604958;89926;102310;11;162
+r;8622842;89926;152582;11;162
+r;8626953;89926;160565;11;162
+r;8628181;89926;162984;11;162
+r;8628827;89926;164173;11;162
+r;8629503;89926;165253;11;162
+r;8629531;89926;165312;11;162
+r;8629693;89926;165642;11;162
+r;8629734;89926;165709;11;162
+r;8632098;89926;169651;11;162
+r;8632115;89926;169660;11;162
+r;8632135;89926;169672;11;162
+r;8633945;89926;171479;11;162
+r;8685277;89926;210472;11;162
+r;8685278;89926;210473;11;162
+r;8582448;89926;37443;11;163
+r;8585091;89926;45378;11;163
+r;8593130;89926;68351;11;163
+r;8602161;89926;94594;11;163
+r;8612987;89926;124694;11;163
+r;8620238;89926;141650;11;163
+r;8622240;89926;146869;11;163
+r;8622806;89926;152494;11;163
+r;8622944;89926;152762;11;163
+r;8624004;89926;154570;11;163
+r;8624259;89926;155024;11;163
+r;8624846;89926;156058;11;163
+r;8625851;89926;158628;11;163
+r;8625941;89926;158802;11;163
+r;8626094;89926;159078;11;163
+r;8638431;89926;181482;11;163
+r;8638433;89926;181483;11;163
+r;8638435;89926;181484;11;163
+r;8638438;89926;181486;11;163
+r;8642743;89926;184015;11;163
+r;8648186;89926;187297;11;163
+r;8652459;89926;190243;11;163
+r;8733736;89926;266033;11;163
+r;8742771;89926;274881;11;163
+r;8744458;89926;276355;11;163
+r;8746090;89926;278416;11;163
+r;8747380;89926;279964;11;163
+r;8751577;89926;284409;11;163
+r;8753927;89926;286553;11;163
+r;8765598;89926;298807;11;163
+r;8770369;89926;304056;11;163
+r;8616486;89926;134420;11;164
+r;8617370;89926;136758;11;164
+r;8617452;89926;136854;11;164
+r;8617797;89926;137263;11;164
+r;8648108;89926;187228;11;164
+r;8652558;89926;190287;11;164
+r;8652560;89926;190288;11;164
+r;8652562;89926;190289;11;164
+r;8652564;89926;190290;11;164
+r;8652567;89926;190291;11;164
+r;8652569;89926;190292;11;164
+r;8652571;89926;190293;11;164
+r;8652728;89926;190400;11;164
+r;8659641;89926;195080;11;164
+r;8662901;89926;197126;11;164
+r;8663498;89926;197507;11;164
+r;8663500;89926;197508;11;164
+r;8663502;89926;197509;11;164
+r;8663503;89926;197510;11;164
+r;8663505;89926;197511;11;164
+r;8663507;89926;197512;11;164
+r;8663509;89926;197513;11;164
+r;8574001;89926;12096;11;165

@@ -1,0 +1,240 @@
+
+e;106608;'extérieur';1;338
+e;6417878;'extérieur de la lèvre';1;0
+e;14159927;'faire l'extérieur';1;0
+e;14452688;'placement à l'extérieur';1;0
+e;14485344;'l'extérieur de la cellule';777;0
+e;14485712;'hottes et sorbonnes à extraction vers l'extérieur';777;0
+e;14585223;'Ornement extérieur';777;0
+e;14635550;'réservoir extérieur';1;0
+e;14638189;'Toute transformation d'un système thermodynamique s'effectue avec augmentation de l'entropie globale incluant l'entropie du système et du milieu extérieur. On dit alors qu'il y a création d'entropie';777;0
+e;14902309;'le balayage extérieur';777;0
+e;6301299;'lèvre inférieure extérieur';1;0
+e;6343659;'lèvre supérieure extérieur';1;0
+e;15958183;'plus grand nombre de victoires à l'extérieur';777;0
+e;16307749;'point extérieur de Vecten';777;0
+e;14308026;'fausser le marché extérieur';1;0
+e;14572096;'communiquer avec l'extérieur';1;0
+e;14635394;'frappe de l'extérieur du pied';1;0
+e;14635395;'extérieur du pied';1;6
+e;14671051;'peinture pour extérieur';1;4
+e;1773772;'toilette extérieure';1;0
+e;16316718;'diamètre extérieur moyen dans un plan isolé';1;0
+e;15325330;'demi-angle au point extérieur de zone de contact unique';1;0
+e;15248158;'diamètre extérieur';1;0
+e;15250873;'diamètre extérieur isolé';1;0
+e;15297635;'diamètre extérieur moyen';1;0
+e;15375800;'donateur de l'extérieur';1;0
+e;15324190;'dribble de l'extérieur du pied';1;0
+e;15220875;'décoration d'extérieur';1;0
+e;15406839;'décoration d'extérieur et d'intérieur';1;0
+e;15406837;'décoration d'intérieur et d'extérieur';1;0
+e;6441446;'tumeur maligne de l'extérieur de la lèvre';1;0
+e;9967709;'Audiovisuel extérieur de la France';777;0
+e;10917943;'joueur de deuxième but extérieur';777;0
+e;15317405;'auditeur de l'extérieur';1;0
+e;6442559;'personne à l'extérieur d'un véhicule spécial de construction blessée dans un accident de la circulation';1;0
+e;11821062;'Ministère des Affaires étrangères et du Commerce extérieur';777;0
+e;6443614;'personne à l'extérieur d'un véhicule spécial de construction blessée dans un accident en dehors de la circulation';1;0
+e;12078736;'emballage extérieur';1;0
+e;16073840;'Placement à l'extérieur';1;0
+e;16074502;'Tour extérieur';1;0
+e;15770779;'amorti de l'extérieur du pied';1;0
+e;16507860;'Provinces de l'extérieur';777;0
+e;10042090;'Une femme d'extérieur';777;0
+e;10251875;'soutien extérieur';777;0
+e;10841339;'commissaire européen pour le commerce extérieur';777;0
+e;12048850;'mener des opérations de nettoyage en extérieur';1;0
+e;15343090;'Les toilettes sont à l'extérieur.';1;0
+e;10316237;'ministre chargé du Commerce extérieur';777;0
+e;12048852;'nettoyer l'extérieur d'un véhicule';1;0
+e;12077670;'carton extérieur';1;0
+e;12081325;'signe extérieur';1;0
+e;6439649;'déviation congénitale vers l'extérieur';1;0
+e;2375227;'équitation d'extérieur';1;0
+e;10364632;'matchs en extérieur de la LNH';777;0
+e;11152778;'commerce extérieur de l'Union européenne';777;0
+e;10427349;'Réseau international des Congolais de l'extérieur';777;0
+e;10505488;'règle des buts marqués à l'extérieur';777;0
+e;6447841;'personne à l'extérieur d'un tramway';1;0
+e;11154788;'produit extérieur';777;0
+e;11158727;'Ministre du Commerce extérieur';777;0
+e;6451426;'les personnes à l'extérieur d'un train';1;0
+e;11105107;'ouvrage extérieur';777;0
+e;12771241;'Service extérieur';777;0
+e;12773757;'environnement extérieur';1;0
+e;5538193;'les îles de l'extérieur';777;0
+e;15691950;'En extérieur';777;0
+e;14109227;'Association professionnelle des agents du Service extérieur';777;0
+e;15759724;'Frôleur intérieur et frôleur extérieur';777;0
+e;1781650;'vers l'extérieur';1;0
+e;2605740;'arc incident vers l'extérieur';1;0
+e;4466062;'extérieur de la maison';1;0
+e;4401862;'jouer en extérieur';1;0
+e;1414585;'mettre à l'extérieur';1;0
+e;1967541;'mobilier d'extérieur';1;0
+e;3230516;'dévié vers l'extérieur';1;0
+e;2557998;'demi-degré extérieur';1;0
+e;3759737;'jeu d'extérieur';1;4
+e;5070595;'escalier extérieur';1;0
+e;1960587;'intervenant extérieur';1;0
+e;2949850;'Banque française du commerce extérieur';777;0
+e;3737230;'organe extérieur';1;0
+e;3170518;'Vu de l'extérieur';777;0
+e;351755;'endettement extérieur';1;50
+e;335176;'aménagement extérieur';1;50
+e;363342;'marché extérieur';1;50
+e;332585;'jeux d'extérieur';777;50
+e;370302;'phénomène extérieur';1;50
+e;352723;'excédent extérieur';1;50
+e;378137;'rétroviseur extérieur';1;50
+e;345970;'d'ordre extérieur à';1;50
+e;384149;'tour extérieur';1;50
+e;349003;'déficit extérieur';1;50
+e;346738;'de l'extérieur';1;50
+e;339887;'boulevard périphérique extérieur';1;50
+e;336000;'appui extérieur';1;50
+e;210148;'à l'extérieur';1;92
+e;210149;'à l'extérieur de';1;50
+e;212174;'vu de l'extérieur';1;50
+e;286054;'Les hottes et sorbonnes à extraction vers l'extérieur';777;50
+e;303956;'match à l'extérieur';777;50
+e;166793;'air extérieur';1;50
+e;166849;'circuit extérieur';1;50
+e;244785;'aspect extérieur';1;54
+e;246427;'signe extérieur de richesse';1;110
+e;254052;'périphérique extérieur';1;58
+e;261408;'revêtement extérieur';1;50
+e;313518;'boulevard extérieur';1;50
+e;181446;'champ extérieur';1;50
+e;182264;'emballage extérieur de matières radioactives';1;50
+e;182878;'joueur de champ extérieur';1;50
+e;203982;'monde extérieur';1;50
+e;206571;'quartier extérieur';1;50
+e;267259;'milieu extérieur';1;50
+e;269083;'emprunt extérieur';1;50
+e;289990;'lampadaire extérieur';777;50
+e;191724;'séparer du milieu extérieur';1;52
+e;199252;'en extérieur';1;50
+e;197803;'commerce extérieur';1;50
+e;200240;'extérieur à';1;50
+e;201099;'for extérieur';1;50
+r;305689776;106608;6417878;11;25
+r;359718915;106608;14159927;11;25
+r;366865478;106608;14452688;11;25
+r;368150354;106608;14485344;11;25
+r;368242632;106608;14485712;11;25
+r;370607135;106608;14585223;11;25
+r;371747327;106608;14635550;11;25
+r;371857071;106608;14638189;11;25
+r;389682408;106608;14902309;11;25
+r;397533338;106608;6301299;11;25
+r;399927856;106608;6343659;11;25
+r;416712283;106608;15958183;11;25
+r;427738670;106608;16307749;11;25
+r;364233313;106608;14308026;11;26
+r;370329332;106608;14572096;11;26
+r;371745093;106608;14635394;11;26
+r;371745106;106608;14635395;11;26
+r;373069125;106608;14671051;11;26
+r;29132825;106608;1773772;11;29
+r;434383944;106608;16316718;11;29
+r;419771900;106608;15325330;11;30
+r;419779291;106608;15248158;11;30
+r;419779296;106608;15250873;11;30
+r;419779306;106608;15297635;11;30
+r;419788700;106608;15375800;11;30
+r;419799437;106608;15324190;11;30
+r;419806486;106608;15220875;11;30
+r;419806491;106608;15406839;11;30
+r;419806500;106608;15406837;11;30
+r;121515063;106608;6441446;11;31
+r;221481132;106608;9967709;11;32
+r;274574325;106608;10917943;11;32
+r;419621832;106608;15317405;11;32
+r;121505090;106608;6442559;11;33
+r;305043023;106608;11821062;11;33
+r;121495580;106608;6443614;11;34
+r;315121727;106608;12078736;11;34
+r;419526059;106608;16073840;11;34
+r;419553535;106608;16074502;11;34
+r;419591570;106608;15770779;11;34
+r;434183910;106608;16507860;11;34
+r;227600839;106608;10042090;11;35
+r;247441070;106608;10251875;11;35
+r;271594044;106608;10841339;11;35
+r;313627298;106608;12048850;11;35
+r;419497554;106608;15343090;11;35
+r;252664365;106608;10316237;11;36
+r;313626067;106608;12048852;11;36
+r;315095607;106608;12077670;11;36
+r;315108165;106608;12081325;11;36
+r;121531191;106608;6439649;11;37
+r;52213614;106608;2375227;11;38
+r;254593932;106608;10364632;11;39
+r;283542646;106608;11152778;11;39
+r;256487480;106608;10427349;11;42
+r;261024653;106608;10505488;11;42
+r;121457619;106608;6447841;11;43
+r;283640631;106608;11154788;11;43
+r;284019537;106608;11158727;11;45
+r;121034404;106608;6451426;11;46
+r;281798897;106608;11105107;11;46
+r;327684030;106608;12771241;11;47
+r;327778962;106608;12773757;11;47
+r;109661005;106608;5538193;11;50
+r;403471900;106608;15691950;11;50
+r;393806481;106608;14109227;11;50
+r;412542803;106608;15759724;11;50
+r;29224835;106608;1781650;11;51
+r;55492816;106608;2605740;11;51
+r;99763562;106608;4466062;11;52
+r;99461233;106608;4401862;11;54
+r;23631644;106608;1414585;11;55
+r;31688374;106608;1967541;11;55
+r;78304163;106608;3230516;11;55
+r;52448907;106608;2557998;11;56
+r;93646144;106608;3759737;11;56
+r;105249107;106608;5070595;11;56
+r;31577476;106608;1960587;11;57
+r;72666228;106608;2949850;11;57
+r;93292237;106608;3737230;11;57
+r;76240619;106608;3170518;11;60
+r;12696355;106608;351755;11;101
+r;12764981;106608;335176;11;101
+r;12649091;106608;363342;11;102
+r;12416617;106608;332585;11;105
+r;12621243;106608;370302;11;105
+r;12692373;106608;352723;11;106
+r;12589307;106608;378137;11;107
+r;12720583;106608;345970;11;107
+r;12564933;106608;384149;11;108
+r;12707193;106608;349003;11;108
+r;12716535;106608;346738;11;109
+r;12745839;106608;339887;11;109
+r;12761661;106608;336000;11;109
+r;8878018;106608;210148;11;151
+r;8878019;106608;210149;11;151
+r;8879506;106608;212174;11;151
+r;8883886;106608;286054;11;153
+r;8885558;106608;303956;11;153
+r;8630449;106608;166793;11;161
+r;8630540;106608;166849;11;161
+r;8708972;106608;244785;11;161
+r;8710065;106608;246427;11;161
+r;8717890;106608;254052;11;161
+r;8728086;106608;261408;11;161
+r;8811690;106608;313518;11;161
+r;8638370;106608;181446;11;163
+r;8639808;106608;182264;11;163
+r;8640867;106608;182878;11;163
+r;8674586;106608;203982;11;163
+r;8678654;106608;206571;11;163
+r;8735180;106608;267259;11;163
+r;8736919;106608;269083;11;163
+r;8757969;106608;289990;11;163
+r;8654245;106608;191724;11;164
+r;8666419;106608;199252;11;164
+r;8664001;106608;197803;11;165
+r;8668043;106608;200240;11;165
+r;8669794;106608;201099;11;165

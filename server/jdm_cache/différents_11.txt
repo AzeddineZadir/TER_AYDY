@@ -1,0 +1,90 @@
+
+e;37280;'différents';1;58
+e;13731176;'Mémoires sur différents sujets de mathématiques';777;0
+e;14571809;'lorsqu'ils sont différents';777;0
+e;14668935;'Les vestales dans différents arts';777;0
+e;15775877;'dans différents domaines';1;0
+e;15377901;'des enfants de milieux radicalement différents';1;0
+e;15353855;'différents objets';1;0
+e;9994815;'l'euthanasie ou du suicide assisté dans la législation des différents pays';777;0
+e;5634607;'différents degrés de sociabilité';777;0
+e;11829180;'2007 dans les différents pays du continent américain';777;0
+e;6334724;'clichés en série des différents segments du tractus gastro-intestinal';1;0
+e;11826560;'2001 dans les différents pays du continent américain';777;0
+e;15692685;'Tableau récapitulatif des différents systèmes de datation en Europe au cours de la période celtique dite de Hallstatt';777;0
+e;15664406;'Les styles très différents détonnaient.';1;0
+e;5903586;'Les différents types de thé';777;0
+e;12006562;'2002 dans les différents pays du continent américain';777;0
+e;12051122;'utiliser différents moyens de communication';1;0
+e;12051293;'coordonner les activités entre les différents secteurs';1;0
+e;12051289;'diriger les responsables de différents services d'une entreprise';1;0
+e;11296020;'table des différents rapports observés en Chimie entre différentes substances';777;0
+e;12052458;'rediriger du courrier vers différents services';1;0
+e;5999653;'différents types d'ARN';777;0
+e;6001040;'Les différents éléments de l'ISS';777;0
+e;12052776;'utiliser différents types d'extincteurs';1;0
+e;5940742;'synthèse de trois différents complexes du nickel';777;0
+e;11011777;'liste les différents types de gouvernements';777;0
+e;10506259;'différents tours préliminaires à la Coupe du monde 1954';777;0
+e;10137411;'différents classements annexes de la Coupe du monde de football de 2006';777;0
+e;5515677;'différents sujets et articles partageant un même nom';777;0
+e;10445198;'Cette liste présente les différents présidents du Paris Saint-Germain';777;0
+e;12247155;'2016 dans les différents pays du continent américain';777;0
+e;12635453;'large éventail de sentiments différents';1;0
+e;12710576;'liste des différents types de gouvernements';777;0
+e;13884817;'2005 dans les différents pays du continent américain';777;0
+e;13884781;'2008 dans les différents pays du continent américain';777;0
+e;14116657;'2010 dans les différents pays du continent américain';777;0
+e;14462830;'2018 dans les différents pays du continent américain';777;0
+e;14499636;'Correspondances des différents systèmes de notation';777;0
+e;14567932;'Classification des différents revenus';777;0
+e;16367277;'2021 dans les différents pays du continent américain';777;0
+e;594921;'populations musulmanes des différents pays du monde';777;0
+e;1842192;'en mm de Hg pressions circulatoires en différents points du corps';1;0
+e;461205;'liste de lieux considérés comme saints par différents groupes religieux';777;50
+e;6002577;'différents types d'orbites';777;0
+e;201682;'habitants des différents pays et régions historiques du monde';1;50
+r;348214981;37280;13731176;11;25
+r;370361684;37280;14571809;11;25
+r;373004668;37280;14668935;11;25
+r;419762873;37280;15775877;11;30
+r;419774253;37280;15377901;11;30
+r;419780336;37280;15353855;11;30
+r;227673209;37280;9994815;11;32
+r;111355760;37280;5634607;11;33
+r;305773366;37280;11829180;11;33
+r;319055383;37280;6334724;11;33
+r;305528317;37280;11826560;11;34
+r;419550647;37280;15692685;11;34
+r;419497421;37280;15664406;11;35
+r;115086793;37280;5903586;11;36
+r;312936882;37280;12006562;11;36
+r;313724627;37280;12051122;11;36
+r;313764600;37280;12051293;11;36
+r;313731763;37280;12051289;11;37
+r;289890925;37280;11296020;11;38
+r;313761801;37280;12052458;11;38
+r;118544687;37280;5999653;11;39
+r;118539888;37280;6001040;11;40
+r;313742471;37280;12052776;11;40
+r;116318929;37280;5940742;11;41
+r;278873905;37280;11011777;11;41
+r;262056536;37280;10506259;11;42
+r;236671409;37280;10137411;11;44
+r;108336179;37280;5515677;11;50
+r;258724996;37280;10445198;11;50
+r;317735205;37280;12247155;11;50
+r;324934864;37280;12635453;11;50
+r;327329091;37280;12710576;11;50
+r;351451331;37280;13884817;11;50
+r;351459903;37280;13884781;11;50
+r;357639171;37280;14116657;11;50
+r;366932180;37280;14462830;11;50
+r;368356184;37280;14499636;11;50
+r;370338929;37280;14567932;11;50
+r;432539821;37280;16367277;11;50
+r;18650725;37280;594921;11;56
+r;29900832;37280;1842192;11;56
+r;16195183;37280;461205;11;57
+r;118533832;37280;6002577;11;60
+r;8670783;37280;201682;11;163

@@ -1,0 +1,1096 @@
+
+e;45989;'surface';1;276
+e;6292533;'cartographie du potentiel de surface';1;0
+e;6298052;'cartographie du potentiel de surface du corps';1;0
+e;6307157;'glycoprotéines variables de surface du trypanosome';1;0
+e;6310707;'coagulation de surface';1;0
+e;6328753;'glycoprotéines de surface cellulaire';1;0
+e;6329135;'immunoglobulines de surface';1;0
+e;6331857;'résonance plasmonique de surface';1;0
+e;6339512;'brûlures couvrant entre 70 et moins de 80% de la surface du corps';1;0
+e;6366088;'convolutions de surface de la paroi cellulaire';1;0
+e;6367085;'glycoprotéines de surface variables du trypanosome';1;0
+e;6370805;'protéines de la surface cellulaire';1;0
+e;6374417;'protéines de la surface de la cellule';1;0
+e;6381544;'protéines de surface';1;0
+e;6383662;'embarcation de surface';1;0
+e;6393195;'photoablation excimère de surface';1;0
+e;6408000;'prolongement distinctif de surface d'une cellule spécialisée';1;0
+e;6408835;'antigènes de surface cellulaire';1;0
+e;6412144;'glycoprotéines variables de surface du manteau du trypanosome';1;0
+e;6413515;'brûlures couvrant entre 20 et moins de 30% de la surface du corps';1;0
+e;6421040;'protéines de surface des cellules';1;0
+e;6381907;'brûlure couvrant 90 à 99 % de la surface du corps avec brûlure du 3e deg sur 20 à 29 %';1;0
+e;12197862;'détermination de la présence d'hépatite b virus surface';1;0
+e;12196835;'hépatite b virus surface';1;0
+e;12189823;'mesure de surface corporelle';1;0
+e;12157826;'détermination de la présence d'hépatite b virus surface ag';1;0
+e;12157822;'mesure d'hépatite b virus surface ag';1;0
+e;12157820;'mesure d'hépatite b virus surface ac signal/cutoff';1;0
+e;12157818;'mesure d'hépatite b virus surface ac patient/contrôle négatif';1;0
+e;12157815;'détermination de la présence d'hépatite b virus surface ac igg';1;0
+e;12157808;'détermination de la présence d'hépatite b virus surface ac';1;0
+e;12157802;'mesure d'hépatite b virus surface ac';1;0
+e;12152848;'identification du type de formule utilisée pour calculer la surface corporelle';1;0
+e;13635079;'surface terrestre continentale';1;0
+e;13763641;'surface antérieure de la lentille';1;0
+e;13763640;'surface antérieure de l'iris';1;0
+e;13763731;'surface postérieure de l'iris';1;0
+e;13763730;'surface postérieure de la cornée';1;0
+e;13763681;'surface intérieure de la sclérotique';1;0
+e;13763732;'surface postérieure de la lentille';1;0
+e;6413245;'cartographie du potentiel de surface corporelle';1;0
+e;14155353;'surface de contact au sol';1;0
+e;6411596;'brûlure couvrant 80 à 89 % de la surface du corps avec brûlure du 3e deg sur 80 à 89 %';1;0
+e;6409776;'brûlure de n'importe quel degré couvrant entre 10 et 19 % de la surface du corps';1;0
+e;14452229;'surface de plancher';1;0
+e;14483472;'Nombre de pixels sur la surface';777;0
+e;14485345;'la surface de la cellule';777;0
+e;14491894;'dyslexie de surface';777;0
+e;14557651;'extrémité d'une surface';1;0
+e;14558724;'protéine de surface cellulaire';1;0
+e;14584450;'surface infectée';1;0
+e;14584448;'contact avec une surface infectée';1;0
+e;14611472;'surface agricole utilisée';777;0
+e;14612269;'bâtiments de surface';1;0
+e;14628383;'surface fourragère';777;0
+e;14635447;'bâtiment de guerre de surface';1;0
+e;14635446;'bâtiment de guerre de surface à propulsion nucléaire';1;0
+e;6331820;'brûlure couvrant 70 à 79 % de la surface du corps avec brûlure du 3e deg sur 30 à 39 %';1;0
+e;6393525;'surface du corps diminuée';1;0
+e;6387120;'brûlure couvrant 70 à 79 % de la surface du corps avec brûlure du 3e deg sur 40 à 49 %';1;0
+e;6392497;'brûlure couvrant 70 à 79 % de la surface du corps avec brûlure du 3e deg sur 50 à 59 %';1;0
+e;6299655;'brûlure couvrant 60 à 69 % de la surface du corps avec brûlure du 3e deg sur 10 à 19 %';1;0
+e;6403510;'brûlure couvrant 90 à 99 % de la surface du corps avec brûlure du 3e deg sur 70 à 79 %';1;0
+e;6409442;'brûlure couvrant 60 à 69 % de la surface du corps avec brûlure du 3e deg sur 60 à 69 %';1;0
+e;6403347;'brûlure couvrant 70 à 79 % de la surface du corps avec brûlure du 3e deg sur 10 à 19 %';1;0
+e;6330193;'brûlure couvrant 90 de la surface du corps ou plus';1;0
+e;15009769;'mesure de surface agraire romaine';1;0
+e;6285071;'brûlure couvrant 80 à 89 % de la surface du corps avec brûlure du 3e deg sur 60 à 69 %';1;0
+e;6286665;'brûlure couvrant 50 à 59 % de la surface du corps avec brûlure du 3e deg sur 40 à 49 %';1;0
+e;6287042;'brûlure couvrant 20 à 29 % de la surface du corps avec brûlure du 3e deg sur 20 à 29 %';1;0
+e;6287996;'brûlure couvrant 80 à 89 % de la surface du corps avec brûlure du 3e deg sur 30 à 39 %';1;0
+e;6301848;'brûlure couvrant 80 à 89 % de la surface du corps avec brûlure du 3e deg sur 50 à 59 %';1;0
+e;6302107;'brûlure couvrant 90 à 99 % de la surface du corps avec brûlure du 3e deg sur 40 à 49 %';1;0
+e;6301623;'brûlure couvrant 90 à 99 % de la surface du corps avec brûlure du 3e deg sur 60 à 69 %';1;0
+e;6306817;'brûlure de n'importe quel degré couvrant entre 80 et 89 % de la surface du corps';1;0
+e;6308173;'brûlure de n'importe quel degré couvrant entre 70 et 79 % de la surface du corps';1;0
+e;6307777;'brûlure de n'importe quel degré couvrant moins de 10 % de la surface du corps';1;0
+e;6309809;'brûlure de n'importe quel degré couvrant entre 30 et 39 % de la surface du corps';1;0
+e;6310735;'brûlure couvrant 40 à 49 % de la surface du corps avec brûlure du 3e deg sur 10 à 19 %';1;0
+e;6319774;'brûlure couvrant 30 à 39 % de la surface du corps avec brûlure du 3e deg sur 10 à 19 %';1;0
+e;6324534;'brûlure couvrant 20 à 29 % de la surface du corps avec brûlure du 3e deg sur 10 à 19 %';1;0
+e;6325396;'brûlure couvrant 80 à 89 % de la surface du corps avec brûlure du 3e deg sur 10 à 19 %';1;0
+e;6334100;'brûlure couvrant 50 à 59 % de la surface du corps avec brûlure du 3e deg sur 30 à 39 %';1;0
+e;6336916;'brûlure couvrant 40 à 49 % de la surface du corps avec brûlure du 3e deg sur 20 à 29 %';1;0
+e;6339754;'brûlure couvrant 80 à 89 % de la surface du corps avec brûlure du 3e deg sur 40 à 49 %';1;0
+e;6340204;'brûlure couvrant 70 à 79 % de la surface du corps avec brûlure du 3e deg sur 60 à 69 %';1;0
+e;6340605;'brûlure couvrant 90 à 99 % de la surface du corps avec brûlure du 3e deg sur 30 à 39 %';1;0
+e;6341381;'brûlure couvrant 10 à 19 % de la surface du corps';1;0
+e;6343600;'brûlure couvrant 90 à 99 % de la surface du corps avec brûlure du 3e deg sur 50 à 59 %';1;0
+e;6344961;'brûlure couvrant 30 à 39 % de la surface du corps avec brûlure du 3e deg sur 20 à 29 %';1;0
+e;6345453;'brûlure de n'importe quel degré couvrant entre 20 et 29 % de la surface du corps';1;0
+e;6349269;'brûlure couvrant 70 à 79 % de la surface du corps avec brûlure du 3e deg sur 70 à 79 %';1;0
+e;6351046;'brûlure couvrant 50 à 59 % de la surface du corps avec brûlure du 3e deg sur 50 à 59 %';1;0
+e;6367337;'brûlure couvrant 50 à 59 % de la surface du corps avec brûlure du 3e deg sur 10 à 19 %';1;0
+e;6378435;'brûlure couvrant 40 à 49 % de la surface du corps avec brûlure du 3e deg sur 30 à 39 %';1;0
+e;6378938;'brûlure couvrant 50 à 59 % de la surface du corps avec brûlure du 3e deg sur 20 à 29 %';1;0
+e;6380130;'brûlure couvrant 60 à 69 % de la surface du corps avec brûlure du 3e deg sur 50 à 59 %';1;0
+e;6382344;'brûlure couvrant 90 à 99 % de la surface du corps avec brûlure du 3e deg sur 10 à 19 %';1;0
+e;6383099;'brûlure de n'importe quel degré couvrant entre 40 et 49 % de la surface du corps';1;0
+e;6388851;'brûlure couvrant 60 à 69 % de la surface du corps avec brûlure du 3e deg sur 20 à 29 %';1;0
+e;6413727;'brûlure couvrant 70 à 79 % de la surface du corps avec brûlure du 3e deg sur 20 à 29 %';1;0
+e;6415311;'surface péritonéale effective augmentée';1;0
+e;6417872;'brûlure couvrant 90 à 99 % de la surface du corps avec brûlure du 3e deg sur 80 à 89 %';1;0
+e;6421071;'brûlure couvrant 10 à 19 % de la surface du corps avec brûlure du 3e deg sur 10 à 19 %';1;0
+e;15953497;'surface foncière';1;0
+e;16158304;'indice de surface foliaire';777;0
+e;16159399;'surface de Peano';777;0
+e;16311704;'se déplacer en surface';1;0
+e;6315344;'corrosions couvrant entre 60 et moins de 70% de la surface du corps';1;0
+e;6323781;'brûlures couvrant entre 50 et moins de 60% de la surface du corps';1;0
+e;6333227;'interactions entre les récepteurs de surface';1;0
+e;6348309;'corrosions couvrant entre 50 et moins de 60% de la surface du corps';1;0
+e;6351508;'récepteurs de surface cellulaire';1;0
+e;6352088;'corrosions couvrant entre 20 et moins de 30% de la surface du corps';1;0
+e;6352993;'brûlures couvrant entre 60 et moins de 70% de la surface du corps';1;0
+e;6354200;'corrosions couvrant entre 70 et moins de 80% de la surface du corps';1;0
+e;6361636;'marqueurs immunologiques de surface';1;0
+e;6369641;'propriétés de surface';1;0
+e;6373191;'apparence de la surface des colonies bactériennes';1;0
+e;6375967;'dépôt sur la surface de la lentille intraoculaire';1;0
+e;6376149;'re en relation avec la surface cellulaire';1;0
+e;6406905;'rougeur de la surface de la langue';1;0
+e;12157756;'mesure d'hépatite b virus core et surface ac et surface ag panel';1;0
+e;6409102;'brûlure couvrant 80 à 89 % de la surface du corps avec brûlure du 3e deg sur 20 à 29 %';1;0
+e;14677913;'grande surface alimentaire';1;4
+e;15029344;'anesthésiques de surface';1;0
+e;15029637;'animations de surface';1;0
+e;15031557;'apparences de surface';1;0
+e;6288644;'brûlure couvrant 60 à 69 % de la surface du corps avec brûlure du 3e deg sur 30 à 39 %';1;0
+e;6306659;'brûlure couvrant 80 à 89 % de la surface du corps avec brûlure du 3e deg sur 70 à 79 %';1;0
+e;6422468;'glycoprotéine de surface à variation antigénique du trypanosome';1;0
+e;10623683;'liste des États souverains classés en fonction de la surface totale de leur territoire';777;0
+e;12116412;'hépatite b virus surface ac signal';1;0
+e;12116411;'hépatite b virus surface ac patient';1;0
+e;12097942;'hépatite b virus surface ag';1;0
+e;12097941;'hépatite b virus surface ac signal/cutoff';1;0
+e;12097940;'hépatite b virus surface ac patient/contrôle négatif';1;0
+e;12097939;'hépatite b virus surface ac igg';1;0
+e;12097938;'hépatite b virus surface ac';1;0
+e;12096489;'formule utilisée pour calculer la surface corporelle';1;0
+e;6428028;'brûlure couvrant 40 à 49 % de la surface du corps avec brûlure du 3e deg sur 40 à 49 %';1;0
+e;6427687;'papillome séreux de surface';1;0
+e;6442260;'antigène de surface de l'immunoglobuline membranaire kappa';1;0
+e;6428935;'diminution de l'exfoliation des cellules de la surface épidermique';1;0
+e;10591843;'surface efficace radar';777;0
+e;10591842;'surface équivalente radar';777;0
+e;5574189;'technique de montage en surface';777;0
+e;5807732;'bilan des tensions de surface';777;0
+e;5814019;'résonance des plasmons de surface';777;0
+e;6441919;'antigène de surface du virus de l'hépatite b positif';1;0
+e;6437658;'anticorps de surface de l'hépatite b négatif';1;0
+e;6432566;'surface articulaire interphalangienne de la phalange de l'annulaire';1;0
+e;6431191;'surface articulaire postérieure du calcanéum';1;0
+e;6429415;'brûlure couvrant 60 à 69 % de la surface du corps avec brûlure du 3e deg sur 40 à 49 %';1;0
+e;10990319;'hydraulique à surface libre';777;0
+e;12097922;'hépatite b virus core et surface ac et surface ag panel';1;0
+e;15495216;'des vaguelettes à la surface de l'eau';1;0
+e;15300004;'disparaître de la surface du globe';1;0
+e;15372003;'drainage de surface';1;0
+e;15282889;'en grande surface';1;0
+e;5827108;'glycoprotéines de surface MUC18';777;0
+e;6069617;'Compagnie des moyens de surface';777;0
+e;6441799;'antigène de surface de l'hépatite b positif';1;0
+e;6432140;'antigènes de surface du virus de l'hépatite b';1;0
+e;10990320;'écoulement en surface libre';777;0
+e;15589073;'couche sous la surface';1;0
+e;5565123;'élément de surface';777;0
+e;5634930;'déplacement animal à la surface de l'eau';777;0
+e;5817828;'surface planétaire';1;0
+e;5816627;'plasmons de surface';777;0
+e;5870762;'couche de surface cristalline';777;0
+e;6444050;'surface articulaire interphalangienne de la phalange de l'index';1;0
+e;6434287;'brûlure et corrosion avec indication de l'étendue de la surface du corps atteinte';1;0
+e;6428498;'surface de plaie déroulée';1;0
+e;6428075;'récepteurs de surface aux hormones';1;0
+e;7928577;'surface hyperbolique';1;0
+e;11911286;'Les eaux de surface';777;0
+e;16040448;'avoir de la surface';1;0
+e;15904531;'balayage de surface';1;0
+e;6445597;'coup ou heurt contre surface de l'eau';1;0
+e;6436483;'intoxication par anesthésiques de surface et d'infiltration';1;0
+e;6425498;'surface du corps augmentée';1;0
+e;7928580;'surface de Riemann';1;0
+e;15623848;'arc de la surface de réparation';1;0
+e;5898699;'hydrologie de surface';777;0
+e;11083137;'surface de gazon';1;0
+e;12242652;'mesure de surface corporelle | résultat mesuré | patient | ponctuel | résultat numérique | aire';1;0
+e;12242651;'mesure de surface corporelle | dérivé | patient | ponctuel | résultat numérique | aire';1;0
+e;12242650;'mesure de surface corporelle | technique indéterminée | patient | ponctuel | résultat numérique | aire';1;0
+e;15575283;'Petite surface, mais maxi ambiance.';1;0
+e;15527453;'activité de surface';1;0
+e;15377806;'agrandissement de surface';1;0
+e;15561839;'antigène de surface du virus de l'hépatite b';1;0
+e;16288482;'Pour les eaux de surface et marines';777;0
+e;1827752;'urothélial antigène de surface';1;0
+e;1838427;'marqueur de surface';1;0
+e;6446662;'surface articulaire interphalangienne de la phalange de l'auriculaire';1;0
+e;6446506;'surface articulaire inférieure de l'atlas';1;0
+e;6437670;'antigènes de surface de l'hépatite b';1;0
+e;6436357;'antigène de surface de l'hépatite b';1;0
+e;11081647;'caractéristique de l'état de surface d'un matériau solide';1;0
+e;11081648;'caractéristique de l'état de surface';1;0
+e;12081413;'surface de référence';1;0
+e;12081412;'surface d'univers';1;0
+e;1836290;'hypothermie de surface';1;0
+e;5918778;'remontée en surface';1;0
+e;6444858;'surface articulaire métacarpienne de la phalange de l'annulaire';1;0
+e;6441227;'surface articulaire supérieure de l'atlas';1;0
+e;6437088;'dosage de l'antigène de surface de l'hépatite b';1;0
+e;6427698;'brûlure couvrant 30 à 39 % de la surface du corps avec brûlure du 3e deg sur 30 à 39 %';1;0
+e;12034254;'par décapage de surface';777;0
+e;12049988;'inspecter la surface d'une pierre';1;0
+e;12076974;'affichage à émission d'électrons par conduction de surface';1;0
+e;12081415;'surface élémentaire';1;0
+e;12081414;'surface de van der Waals';1;0
+e;12081028;'protéase de surface';1;0
+e;5781562;'surface computing';777;0
+e;6003606;'objets artificiels sur la surface de Vénus';777;0
+e;6437512;'anticorps de surface de l'hépatite b positif';1;0
+e;6436982;'culture d'une surface de l'environnement';1;0
+e;11455502;'surface de Véronèse';777;0
+e;11839508;'privilégier une surface souple';1;0
+e;12242939;'mesure de température corporelle | technique indéterminée | surface | ponctuel | résultat numérique | température';1;0
+e;2436911;'surface active';1;0
+e;5806548;'machine à force de surface';777;0
+e;6011348;'surface de dernière diffusion';777;0
+e;6438709;'précurseur de l'antigène de surface majeur de plasmodium falciparum';1;0
+e;6533663;'surface articulaire claviculaire de la scapula';1;0
+e;6429079;'reflet de surface de la lentille intraoculaire';1;0
+e;11391438;'surface d'onde';777;0
+e;12052284;'surface corporelle patient';1;0
+e;6526934;'pour cent et plus de la surface corporelle';1;0
+e;6446349;'surface articulaire métacarpienne de la phalange de l'index';1;0
+e;6441800;'surface articulaire caudale de l'atlas';1;0
+e;6441320;'corrosions classées selon l'étendue de la surface du corps atteinte';1;0
+e;11247536;'surface cylindrique';777;0
+e;11957341;'reclassification d'un grand nombre de ses bâtiments de surface';777;0
+e;5558971;'caissier d'une grande surface';1;0
+e;6439089;'anticorps de surface de l'hépatite b';1;0
+e;6534697;'surface antéro-externe de la branche inférieure du pubis gauche';1;0
+e;6533665;'surface articulaire sternale de la clavicule';1;0
+e;11372695;'surface isobare';777;0
+e;12052597;'polir une surface en bois';1;0
+e;12052951;'utiliser une meuleuse de surface';1;0
+e;12053258;'décaper une surface';1;0
+e;12053255;'préparer une surface pour peindre';1;0
+e;5538310;'analyse syntaxique de surface';777;0
+e;6449644;'surface articulaire craniale de l'atlas';1;0
+e;6526911;'agents de surface et savons';1;0
+e;6447425;'application en surface d'élément radioactif';1;0
+e;6436524;'surface articulaire métacarpienne de la phalange de l'auriculaire';1;0
+e;12053451;'meuleuse de surface';1;0
+e;2371310;'web de surface';1;0
+e;5855239;'température d'équilibre à la surface d'une planète';777;0
+e;6451405;'brûlures classées en fonction de l'étendue de la surface corporelle atteinte';1;0
+e;6535132;'surface antérieure de l'extrémité distale du radius';1;0
+e;6535010;'surface articulaire claviculaire de la scapula droite';1;0
+e;6532529;'antigène de surface de l'hépatite B';1;0
+e;11208275;'navigation de surface';777;0
+e;11252473;'surface de discordance';777;0
+e;11373415;'surface imperméabilisée';777;0
+e;11373376;'surface d'énergie potentielle';777;0
+e;12787579;'molécules cellulaires de surface';1;0
+e;13284649;'tissu de surface';1;0
+e;5986143;'onde élastique de surface';777;0
+e;5983859;'température de surface de la mer';777;0
+e;6002821;'liste d'atterrissages et d'impacts à la surface de corps';777;0
+e;6449536;'surface semilunaire de l'acétabulum';1;0
+e;6449110;'intoxication par anesthésiques de surface et d'inflitration';1;0
+e;6445470;'porteur de l'antigène de surface de l'hépatite b';1;0
+e;6535026;'surface antérieure de la clavicule droite';1;0
+e;11162866;'surface minimale';777;0
+e;6000861;'objets artificiels abandonnés à la surface de la Lune';777;0
+e;6538599;'surface antérieure de la colonne vertébrale lombaire';1;0
+e;6537039;'surface articulaire de la malléole latérale droite';1;0
+e;6535031;'surface articulaire sternale de la clavicule droite';1;0
+e;6432576;'engin spatial destiné à l'exploration de la surface des planètes';1;0
+e;10510111;'petite surface';1;0
+e;13284628;'anomalies des tissus de surface';1;0
+e;1836421;'image 3 D de surface';1;0
+e;6438682;'antigène de surface de l'immunoglobuline membranaire lambda';1;0
+e;6538005;'surface articulaire du cartilage aryténoïde gauche';1;0
+e;6535459;'surface antérieure du genou gauche';1;0
+e;6535454;'surface antérieure du genou';1;0
+e;6535234;'surface articulaire antérieure de la dent de l'axis';1;0
+e;6008494;'galaxie à faible brillance de surface';777;0
+e;6538856;'surface antérieure de la cornée gauche';1;0
+e;6535135;'surface antérieure de l'extrémité distale du radius droit';1;0
+e;6535011;'surface articulaire claviculaire de la scapula gauche';1;0
+e;6534148;'surface antérieure du sternum';1;0
+e;6534146;'surface antérieure du processus xiphoïde';1;0
+e;6450309;'restauration de l'usure de la surface occlusale';1;0
+e;6445019;'antigène de surface de l'hépatite b négatif';1;0
+e;6535027;'surface antérieure de la clavicule gauche';1;0
+e;6003605;'objets artificiels ayant atterri à la surface de corps extraterrestres';777;0
+e;6535136;'surface antérieure de l'extrémité distale du radius gauche';1;0
+e;6534696;'surface antéro-externe de la branche inférieure du pubis';1;0
+e;6534618;'surface iléale de la valvule iléo-caecale';1;0
+e;5538387;'dosage du carbone de surface';777;0
+e;6526075;'à 100 pour cent de la surface corporelle';1;0
+e;6537038;'surface articulaire de la malléole latérale';1;0
+e;6535448;'surface antérieure de la cuisse droite';1;0
+e;6535123;'surface articulaire carpienne du radius gauche';1;0
+e;6535032;'surface articulaire sternale de la clavicule gauche';1;0
+e;9509500;'moyenne surface';1;32
+e;8930397;'masse d'eau de surface';1;0
+e;9021964;'navires de surface';1;0
+e;9024957;'surface superhydrophobe';777;0
+e;9615021;'surface farinée';1;0
+e;9651339;'installations de surface d'une mine';777;0
+e;9733358;'surface cultivable';1;0
+e;12687799;'Grande surface spécialisée';777;0
+e;12699857;'se maintenir à la surface de l'eau';1;0
+e;13785086;'0 à 9 pour cent de la surface corporelle';1;0
+e;13790105;'10 à 19 pour cent de la surface corporelle';1;0
+e;13796514;'20 à 29 pour cent de la surface corporelle';1;0
+e;13766285;'226 agents de surface et savons';1;0
+e;13800793;'30 à 39 pour cent de la surface corporelle';1;0
+e;13776686;'40 à 49 pour cent de la surface corporelle';1;0
+e;13781812;'50 à 59 pour cent de la surface corporelle';1;0
+e;13799008;'60 à 69 pour cent de la surface corporelle';1;0
+e;13796116;'70 à 79 pour cent de la surface corporelle';1;0
+e;13801483;'80 à 89 pour cent de la surface corporelle';1;0
+e;13793241;'90 pour cent et plus de la surface corporelle';1;0
+e;13793242;'90 à 100 pour cent de la surface corporelle';1;0
+e;582257;'surface articulaire antérieure';1;0
+e;1742171;'surface agricole';1;0
+e;1780766;'surface auriculaire de l'ilion';1;0
+e;1780213;'partie vertébrale de la surface costale du poumon';1;0
+e;1845485;'surface infratemporale de la grande aile de l'os sphénoïde';1;0
+e;2353884;'surface cartilagineuse tibiale';1;0
+e;2484324;'surface spécifique';1;0
+e;6535449;'surface antérieure de la cuisse gauche';1;0
+e;575440;'surface poplitée';1;50
+e;582258;'surface articulaire calcanéenne antérieure';1;0
+e;1845476;'surface articulaire carpienne du radius';1;0
+e;2925517;'surface d'échange';1;2
+e;3380897;'antigène de surface';1;0
+e;6535025;'surface antérieure de la clavicule';1;0
+e;6533950;'surface antérieure de la cuisse';1;0
+e;567607;'surface de sustentation';777;50
+e;575437;'surface articulaire inférieure';1;50
+e;749155;'surface hors oeuvre nette';777;0
+e;1655904;'canards de surface';777;0
+e;1843401;'reformation de surface';1;0
+e;6003607;'objets artificiels sur la surface de Mars';777;0
+e;6537247;'surface antérieure de la hanche';1;0
+e;6535458;'surface antérieure du genou droit';1;0
+e;6535122;'surface articulaire carpienne du radius droit';1;0
+e;4405754;'molécule de surface CD20';1;0
+e;575438;'surface articulaire supérieure';1;50
+e;582260;'surface articulaire malléolaire latérale';1;0
+e;582264;'surface articulaire talaire moyenne';1;0
+e;1780770;'surface symphysaire du corps du pubis';1;0
+e;1845491;'surface temporale de la grande aile de l'os sphénoïde';1;0
+e;4324184;'surface synthétique';1;0
+e;6538902;'surface antérieure de la colonne vertébrale dorsale';1;0
+e;6538680;'surface antérieure de la diaphyse du radius gauche';1;0
+e;6535235;'surface articulaire postérieure de la dent de l'axis';1;0
+e;4409060;'augmentation de surface';1;0
+e;575436;'surface articulaire de la malléole médiale';1;50
+e;1481537;'surface mouillée';1;0
+e;1780769;'surface poplitée du fémur';1;0
+e;1845488;'surface orbitaire de la grande aile de l'os sphénoïde';1;0
+e;1845478;'surface articulaire de la fosse mandibulaire';1;0
+e;6539330;'surface antérieure du radius';1;0
+e;6536156;'surface articulaire calcanéenne postérieure gauche';1;0
+e;6535092;'surface antérieure de la diaphyse du radius';1;0
+e;582261;'surface articulaire malléolaire médiale';1;0
+e;582259;'surface articulaire calcanéenne postérieure';1;0
+e;582265;'surface articulaire talaire postérieure';1;0
+e;1655508;'canard de surface';1;0
+e;1759807;'surface élastique';1;0
+e;1780768;'surface lunaire de l'acétabulum';1;0
+e;1780767;'surface auriculaire de l'os sacrum';1;0
+e;1813607;'énergie de surface';1;0
+e;1845477;'surface articulaire cuboïdienne du calcanéum';1;0
+e;3376483;'surface-air';1;0
+e;6538262;'surface antérieure de la cornée droite';1;0
+e;6537040;'surface articulaire de la malléole latérale gauche';1;0
+e;6534555;'surface antérieure de la cornée';1;0
+e;1663110;'remonter à la surface';1;2
+e;1845480;'surface articulaire supérieure du tibia';1;0
+e;1843572;'représentation 3D de surface';1;0
+e;2581088;'surface podotactile';777;0
+e;2602918;'plasmon polariton de surface';777;0
+e;3230177;'surface réfléchissante';1;0
+e;3304048;'unité de mesure de surface';1;0
+e;6537248;'surface antérieure de la hanche droite';1;0
+e;582262;'surface articulaire naviculaire';1;0
+e;582263;'surface articulaire pour le cuboïde';1;0
+e;1848987;'antigène variable de surface';1;0
+e;2525153;'composant monté en surface';1;0
+e;5246805;'surface de travail';1;0
+e;5521275;'surface du sol forestier';1;0
+e;5538477;'analyseur de surface d'onde';777;0
+e;6538004;'surface articulaire du cartilage aryténoïde droit';1;0
+e;6534619;'surface coecale de la valvule iléo-caecale';1;0
+e;575441;'surface symphysaire';1;50
+e;1569271;'surface aérodynamique';1;0
+e;1758326;'surface uniforme';1;0
+e;1965783;'gravité de surface';1;0
+e;2324576;'air-surface';1;0
+e;2678449;'surface apparente';777;0
+e;2936753;'surface-surface';1;0
+e;3665125;'surface de flottaison';1;0
+e;6539410;'surface articulaire de la part calcanéo-naviculaire du ligament bifurqué du talus';1;0
+e;6539371;'surface articulaire naviculaire du talus';1;0
+e;6539366;'surface articulaire de la fosse mandibulaire de l'os temporal';1;0
+e;6534698;'surface antéro-externe de la branche inférieure du pubis droit';1;0
+e;575439;'surface patellaire';1;50
+e;598078;'surface de l'orifice régurgitant';1;0
+e;1845481;'surface articulaire talaire antérieure du calcanéum';1;0
+e;3380896;'antigènes de surface';1;0
+e;5141743;'surface aimantée';1;0
+e;6538679;'surface antérieure de la diaphyse du radius droit';1;0
+e;6537249;'surface antérieure de la hanche gauche';1;0
+e;6536155;'surface articulaire calcanéenne postérieure droite';1;0
+e;6533580;'surface antérieure du corps du sternum';1;0
+e;1845490;'surface préspinale du plateau tibial';1;0
+e;2909910;'surface horizontale';1;0
+e;3174229;'surface égale';1;0
+e;1845492;'surface temporale de l'os frontal';1;0
+e;1845487;'surface mitrale';1;0
+e;1845482;'surface articulaire talaire moyenne du calcanéum';1;0
+e;1845489;'surface patellaire du fémur';1;0
+e;1845486;'surface maxillaire de la grande aile de l'os sphénoïde';1;0
+e;1845484;'surface cérébrale de la grande aile de l'os sphénoïde';1;0
+e;1845479;'surface articulaire de la patella';1;0
+e;2934105;'eaux de surface';777;6
+e;1845483;'surface articulaire talaire postérieure du calcanéum';1;0
+e;3174228;'surface unie';1;0
+e;382085;'surface équipotentielle';1;50
+e;382064;'surface commerciale';1;50
+e;382063;'surface bâtie';1;50
+e;356652;'grande surface de meubles';1;50
+e;349735;'eau de surface';1;50
+e;382089;'surface de chauffe directe';1;50
+e;382084;'surface terrestre';1;50
+e;382083;'surface structurale';1;50
+e;382079;'surface portante';1;52
+e;382075;'surface dégénérée';1;50
+e;382065;'surface construite';1;50
+e;388707;'à la surface de';1;50
+e;382088;'surface corporelle';1;50
+e;382071;'surface d'évaporation';1;50
+e;351453;'en surface';1;54
+e;333975;'adhérence de surface';1;50
+e;384257;'tout en surface';1;50
+e;382090;'surface de rupture';1;50
+e;382074;'surface du sol';1;50
+e;382073;'surface de voilure';1;50
+e;355076;'fouille à la surface';1;50
+e;335436;'animation de surface';1;50
+e;382087;'surface axiale';1;50
+e;382082;'surface sphérique';1;50
+e;382072;'surface de roulement';1;50
+e;382070;'surface d'isodensité';1;50
+e;382068;'surface cutanée';1;50
+e;382067;'surface courbe';1;50
+e;367600;'ordre d'une surface';1;50
+e;351872;'engin de surface';1;50
+e;382873;'tangente à une surface';1;50
+e;382078;'surface osculatrice';1;50
+e;382077;'surface non bâtie';1;50
+e;371528;'poisson de surface';1;50
+e;366063;'métro de surface';1;50
+e;382091;'surface durcie';1;50
+e;382076;'surface financière';1;50
+e;382069;'surface d'aplanissement';1;50
+e;364453;'missile air-surface';1;50
+e;335309;'anesthésique de surface';1;50
+e;382061;'surface acyclique';1;50
+e;340496;'brûlé de grande surface';1;50
+e;339232;'biopsie de surface';1;50
+e;382086;'surface arable';1;50
+e;382080;'surface pulmonaire';1;50
+e;377568;'réforme en surface';1;50
+e;335865;'apparence de surface';1;50
+e;333774;'action en surface';1;50
+e;385792;'unité de surface';1;50
+e;382092;'surface ellipsoïdale';1;50
+e;382081;'surface radiante';1;50
+e;382066;'surface corrigée';1;50
+e;382062;'surface algébrique';1;50
+e;83625;'support-surface';1;50
+e;208583;'Support-surface';1;50
+e;330656;'surface articulaire calcanéenne';1;50
+e;322356;'antenne de surface';1;2
+e;323816;'faire surface';1;50
+e;317178;'surface articulaire';1;50
+e;278911;'missile surface-air';777;50
+e;259473;'bâtiment de combat de surface';1;50
+e;168629;'navire à effet de surface';1;50
+e;226738;'agent de surface';1;50
+e;231749;'bâtiment de surface';1;50
+e;232294;'surface de la mer';1;2
+e;232651;'surface de l'eau';1;4
+e;250613;'traitement de surface';1;50
+e;252826;'navire de surface';1;52
+e;254902;'surface utile';1;50
+e;255672;'surface développable';1;50
+e;261482;'surface plantaire';1;50
+e;161979;'technicienne de surface';1;86
+e;208471;'structure de surface';1;50
+e;208646;'surface de but';1;50
+e;208647;'surface rétrospinale';1;50
+e;208648;'surface sensible';1;50
+e;211437;'ordre d'une surface algébrique';1;50
+e;214409;'surface de niveau';1;50
+e;216041;'surface plane';1;56
+e;264502;'éloigné de la surface';1;50
+e;302796;'d'augmenter la surface habitable';777;50
+e;54126;'grande surface';1;184
+e;142920;'aire d'une surface courbe';1;50
+e;156518;'technicien de surface';1;82
+e;183274;'module de cisaillement de surface';1;50
+e;183276;'module d'élasticité d'extension de surface';1;50
+e;183292;'montage en surface';1;50
+e;184396;'surface de réparation';1;12
+e;184397;'surface de tension';1;50
+e;184398;'surface d'une nappe';1;50
+e;184399;'surface libre';1;50
+e;184400;'surface piézométrique';1;50
+e;184788;'viscosité de cisaillement de surface';1;50
+e;184789;'viscosité d'extension de surface';1;50
+e;187678;'diode laser à cavité verticale émettant par la surface';1;50
+e;206701;'rayé de la surface de la terre';1;50
+e;206704;'rayer de la surface de la terre';1;50
+e;264151;'surface alaire';1;50
+e;271806;'surface de contact';777;50
+e;272230;'courants de surface';777;50
+e;276687;'En surface';777;50
+e;285017;'état de surface';777;50
+e;296025;'surface quadratique';777;50
+e;298978;'traitement de surface imprimée';777;50
+e;301661;'installations de surface d'une';777;50
+e;306544;'surface hors oeuvre brute';777;12
+e;313072;'tension de surface';1;50
+e;190782;'surface hors uvre brute';1;50
+e;190783;'surface hors uvre nette';1;50
+e;190784;'surface habitable';1;2
+e;196701;'avoir telle surface sociale';1;50
+e;311669;'surface agricole utile';777;50
+e;199037;'effacé de la surface de la terre';1;50
+e;1307;'surface préspinale';1;50
+e;277558;'missile surface-surface';1;50
+r;298498412;45989;6292533;11;25
+r;299029123;45989;6298052;11;25
+r;299546828;45989;6307157;11;25
+r;299584478;45989;6310707;11;25
+r;300226489;45989;6328753;11;25
+r;300229447;45989;6329135;11;25
+r;300969915;45989;6331857;11;25
+r;301458270;45989;6339512;11;25
+r;302190191;45989;6366088;11;25
+r;302406959;45989;6367085;11;25
+r;302984343;45989;6370805;11;25
+r;303313672;45989;6374417;11;25
+r;303852564;45989;6381544;11;25
+r;303983361;45989;6383662;11;25
+r;304871021;45989;6393195;11;25
+r;305329205;45989;6408000;11;25
+r;305458477;45989;6408835;11;25
+r;305481961;45989;6412144;11;25
+r;305493526;45989;6413515;11;25
+r;305708100;45989;6421040;11;25
+r;400609641;45989;6381907;11;25
+r;316552600;45989;12197862;11;25
+r;316556058;45989;12196835;11;25
+r;316579920;45989;12189823;11;25
+r;316697960;45989;12157826;11;25
+r;316697969;45989;12157822;11;25
+r;316697978;45989;12157820;11;25
+r;316697987;45989;12157818;11;25
+r;316698000;45989;12157815;11;25
+r;316698013;45989;12157808;11;25
+r;316698022;45989;12157802;11;25
+r;316716293;45989;12152848;11;25
+r;345801192;45989;13635079;11;25
+r;348647746;45989;13763641;11;25
+r;348690693;45989;13763640;11;25
+r;348695535;45989;13763731;11;25
+r;348695777;45989;13763730;11;25
+r;348696162;45989;13763681;11;25
+r;348696273;45989;13763732;11;25
+r;355305257;45989;6413245;11;25
+r;359247514;45989;14155353;11;25
+r;401049377;45989;6411596;11;25
+r;401026859;45989;6409776;11;25
+r;366856084;45989;14452229;11;25
+r;368061311;45989;14483472;11;25
+r;368154057;45989;14485345;11;25
+r;368323726;45989;14491894;11;25
+r;369892181;45989;14557651;11;25
+r;369940342;45989;14558724;11;25
+r;370576593;45989;14584450;11;25
+r;370576837;45989;14584448;11;25
+r;371339684;45989;14611472;11;25
+r;371486357;45989;14612269;11;25
+r;371592177;45989;14628383;11;25
+r;371746046;45989;14635447;11;25
+r;371746091;45989;14635446;11;25
+r;399501931;45989;6331820;11;25
+r;400799400;45989;6393525;11;25
+r;400746564;45989;6387120;11;25
+r;400795889;45989;6392497;11;25
+r;397519995;45989;6299655;11;25
+r;400857444;45989;6403510;11;25
+r;400987138;45989;6409442;11;25
+r;400862421;45989;6403347;11;25
+r;399499965;45989;6330193;11;25
+r;391908744;45989;15009769;11;25
+r;396193687;45989;6285071;11;25
+r;396439839;45989;6286665;11;25
+r;396440229;45989;6287042;11;25
+r;396549270;45989;6287996;11;25
+r;397532161;45989;6301848;11;25
+r;397533056;45989;6302107;11;25
+r;397537365;45989;6301623;11;25
+r;397891092;45989;6306817;11;25
+r;398146520;45989;6308173;11;25
+r;398161001;45989;6307777;11;25
+r;398247049;45989;6309809;11;25
+r;398380954;45989;6310735;11;25
+r;398553943;45989;6319774;11;25
+r;399370649;45989;6324534;11;25
+r;399448395;45989;6325396;11;25
+r;399655522;45989;6334100;11;25
+r;399660956;45989;6336916;11;25
+r;399679720;45989;6339754;11;25
+r;399681627;45989;6340204;11;25
+r;399682222;45989;6340605;11;25
+r;399781604;45989;6341381;11;25
+r;399929047;45989;6343600;11;25
+r;399953705;45989;6344961;11;25
+r;399957520;45989;6345453;11;25
+r;399983557;45989;6349269;11;25
+r;399996579;45989;6351046;11;25
+r;400269124;45989;6367337;11;25
+r;400598769;45989;6378435;11;25
+r;400599128;45989;6378938;11;25
+r;400604732;45989;6380130;11;25
+r;400655166;45989;6382344;11;25
+r;400696405;45989;6383099;11;25
+r;400771838;45989;6388851;11;25
+r;401393822;45989;6413727;11;25
+r;401719039;45989;6415311;11;25
+r;401905532;45989;6417872;11;25
+r;402054959;45989;6421071;11;25
+r;416139952;45989;15953497;11;25
+r;424032534;45989;16158304;11;25
+r;424835197;45989;16159399;11;25
+r;428459252;45989;16311704;11;25
+r;299651379;45989;6315344;11;26
+r;300156856;45989;6323781;11;26
+r;301144423;45989;6333227;11;26
+r;301715863;45989;6348309;11;26
+r;301741538;45989;6351508;11;26
+r;301742928;45989;6352088;11;26
+r;301755069;45989;6352993;11;26
+r;301758107;45989;6354200;11;26
+r;302116705;45989;6361636;11;26
+r;302977885;45989;6369641;11;26
+r;303132778;45989;6373191;11;26
+r;303625484;45989;6375967;11;26
+r;303625793;45989;6376149;11;26
+r;305314203;45989;6406905;11;26
+r;316698213;45989;12157756;11;26
+r;401026805;45989;6409102;11;26
+r;373169636;45989;14677913;11;26
+r;393347186;45989;15029344;11;26
+r;393350677;45989;15029637;11;26
+r;393560248;45989;15031557;11;26
+r;396626062;45989;6288644;11;26
+r;397875588;45989;6306659;11;26
+r;122754129;45989;6422468;11;27
+r;267333784;45989;10623683;11;27
+r;315695073;45989;12116412;11;27
+r;315695091;45989;12116411;11;27
+r;315592477;45989;12097942;11;27
+r;315592487;45989;12097941;11;27
+r;315592502;45989;12097940;11;27
+r;315592519;45989;12097939;11;27
+r;315592534;45989;12097938;11;27
+r;315604295;45989;12096489;11;27
+r;122711025;45989;6428028;11;28
+r;122713685;45989;6427687;11;28
+r;121507807;45989;6442260;11;29
+r;122703953;45989;6428935;11;29
+r;264461636;45989;10591843;11;29
+r;264461643;45989;10591842;11;29
+r;110594436;45989;5574189;11;30
+r;113288258;45989;5807732;11;30
+r;113782724;45989;5814019;11;30
+r;121510832;45989;6441919;11;30
+r;121548948;45989;6437658;11;30
+r;122674639;45989;6432566;11;30
+r;122686572;45989;6431191;11;30
+r;122700249;45989;6429415;11;30
+r;277928063;45989;10990319;11;30
+r;315592726;45989;12097922;11;30
+r;419775637;45989;15495216;11;30
+r;419783918;45989;15300004;11;30
+r;419799047;45989;15372003;11;30
+r;419840092;45989;15282889;11;30
+r;113767188;45989;5827108;11;31
+r;119194425;45989;6069617;11;31
+r;121511964;45989;6441799;11;31
+r;122678588;45989;6432140;11;31
+r;277583337;45989;10990320;11;31
+r;419743119;45989;15589073;11;31
+r;110204416;45989;5565123;11;32
+r;111354953;45989;5634930;11;32
+r;113771132;45989;5817828;11;32
+r;113775539;45989;5816627;11;32
+r;114442223;45989;5870762;11;32
+r;121491695;45989;6444050;11;32
+r;121579134;45989;6434287;11;32
+r;122707395;45989;6428498;11;32
+r;122710667;45989;6428075;11;32
+r;129591155;45989;7928577;11;32
+r;307496487;45989;11911286;11;32
+r;419629431;45989;16040448;11;32
+r;419644803;45989;15904531;11;32
+r;121477777;45989;6445597;11;33
+r;121559503;45989;6436483;11;33
+r;122730544;45989;6425498;11;33
+r;128204231;45989;7928580;11;33
+r;419606096;45989;15623848;11;33
+r;115103752;45989;5898699;11;34
+r;281192880;45989;11083137;11;34
+r;318283133;45989;12242652;11;34
+r;318283153;45989;12242651;11;34
+r;318283173;45989;12242650;11;34
+r;419524437;45989;15575283;11;34
+r;419576204;45989;15527453;11;34
+r;419582449;45989;15377806;11;34
+r;419599150;45989;15561839;11;34
+r;427335896;45989;16288482;11;34
+r;29921670;45989;1827752;11;35
+r;30026381;45989;1838427;11;35
+r;121468230;45989;6446662;11;35
+r;121469626;45989;6446506;11;35
+r;121548843;45989;6437670;11;35
+r;121560540;45989;6436357;11;35
+r;281102357;45989;11081647;11;35
+r;281121561;45989;11081648;11;35
+r;315107695;45989;12081413;11;35
+r;315107700;45989;12081412;11;35
+r;30006248;45989;1836290;11;36
+r;115849175;45989;5918778;11;36
+r;121484448;45989;6444858;11;36
+r;121517007;45989;6441227;11;36
+r;121554133;45989;6437088;11;36
+r;122713597;45989;6427698;11;36
+r;313606652;45989;12034254;11;36
+r;313686038;45989;12049988;11;36
+r;314737940;45989;12076974;11;36
+r;315107681;45989;12081415;11;36
+r;315107686;45989;12081414;11;36
+r;315109609;45989;12081028;11;36
+r;112658905;45989;5781562;11;37
+r;118530300;45989;6003606;11;37
+r;121550319;45989;6437512;11;37
+r;121555068;45989;6436982;11;37
+r;294596105;45989;11455502;11;37
+r;306440859;45989;11839508;11;37
+r;318277191;45989;12242939;11;37
+r;55171985;45989;2436911;11;38
+r;113292717;45989;5806548;11;38
+r;118508711;45989;6011348;11;38
+r;121539569;45989;6438709;11;38
+r;121908952;45989;6533663;11;38
+r;122702862;45989;6429079;11;38
+r;292544780;45989;11391438;11;38
+r;313734047;45989;12052284;11;38
+r;121444729;45989;6526934;11;39
+r;121471022;45989;6446349;11;39
+r;121511949;45989;6441800;11;39
+r;121516206;45989;6441320;11;39
+r;288043183;45989;11247536;11;39
+r;308610707;45989;11957341;11;39
+r;109948148;45989;5558971;11;40
+r;121536149;45989;6439089;11;40
+r;121897511;45989;6534697;11;40
+r;121908935;45989;6533665;11;40
+r;291799983;45989;11372695;11;40
+r;313734486;45989;12052597;11;40
+r;313741926;45989;12052951;11;40
+r;313744291;45989;12053258;11;40
+r;313744698;45989;12053255;11;40
+r;109660567;45989;5538310;11;41
+r;121050798;45989;6449644;11;41
+r;121444905;45989;6526911;11;41
+r;121461458;45989;6447425;11;41
+r;121559095;45989;6436524;11;41
+r;313749423;45989;12053451;11;41
+r;52036425;45989;2371310;11;42
+r;114444544;45989;5855239;11;42
+r;121034632;45989;6451405;11;42
+r;121892586;45989;6535132;11;42
+r;121894012;45989;6535010;11;42
+r;121913652;45989;6532529;11;42
+r;287241493;45989;11208275;11;42
+r;288339876;45989;11252473;11;42
+r;291765882;45989;11373415;11;42
+r;291752821;45989;11373376;11;42
+r;328214028;45989;12787579;11;42
+r;338932640;45989;13284649;11;42
+r;117888191;45989;5986143;11;43
+r;117898918;45989;5983859;11;43
+r;118532913;45989;6002821;11;43
+r;121051797;45989;6449536;11;43
+r;121055596;45989;6449110;11;43
+r;121478935;45989;6445470;11;43
+r;121893802;45989;6535026;11;43
+r;285775692;45989;11162866;11;43
+r;118540631;45989;6000861;11;44
+r;121850817;45989;6538599;11;44
+r;121869015;45989;6537039;11;44
+r;121893733;45989;6535031;11;44
+r;122674554;45989;6432576;11;44
+r;261414902;45989;10510111;11;44
+r;337964163;45989;13284628;11;44
+r;30008525;45989;1836421;11;45
+r;121539823;45989;6438682;11;45
+r;121857508;45989;6538005;11;45
+r;121888797;45989;6535459;11;45
+r;121888861;45989;6535454;11;45
+r;121891372;45989;6535234;11;45
+r;118518040;45989;6008494;11;46
+r;121847973;45989;6538856;11;46
+r;121892543;45989;6535135;11;46
+r;121893995;45989;6535011;11;46
+r;121904939;45989;6534148;11;46
+r;121904958;45989;6534146;11;46
+r;121044610;45989;6450309;11;47
+r;121483027;45989;6445019;11;47
+r;121893790;45989;6535027;11;47
+r;118530313;45989;6003605;11;48
+r;121892530;45989;6535136;11;48
+r;121897526;45989;6534696;11;48
+r;121898457;45989;6534618;11;48
+r;109660213;45989;5538387;11;49
+r;121450721;45989;6526075;11;49
+r;121869032;45989;6537038;11;49
+r;121888940;45989;6535448;11;49
+r;121892697;45989;6535123;11;49
+r;121893716;45989;6535032;11;49
+r;214205707;45989;9509500;11;50
+r;193126801;45989;8930397;11;50
+r;195508061;45989;9021964;11;50
+r;195844270;45989;9024957;11;50
+r;216676154;45989;9615021;11;50
+r;216953204;45989;9651339;11;50
+r;217932114;45989;9733358;11;50
+r;324994020;45989;12687799;11;50
+r;327330377;45989;12699857;11;50
+r;348970454;45989;13785086;11;50
+r;348979887;45989;13790105;11;50
+r;348983534;45989;13796514;11;50
+r;348983998;45989;13766285;11;50
+r;348985578;45989;13800793;11;50
+r;348988382;45989;13776686;11;50
+r;348989570;45989;13781812;11;50
+r;348991714;45989;13799008;11;50
+r;348993624;45989;13796116;11;50
+r;348995328;45989;13801483;11;50
+r;348997390;45989;13793241;11;50
+r;348997398;45989;13793242;11;50
+r;18230638;45989;582257;11;51
+r;28639914;45989;1742171;11;51
+r;29227181;45989;1780766;11;51
+r;29231325;45989;1780213;11;51
+r;29883320;45989;1845485;11;51
+r;35162922;45989;2353884;11;51
+r;52483744;45989;2484324;11;51
+r;121888928;45989;6535449;11;51
+r;17815856;45989;575440;11;52
+r;18230478;45989;582258;11;52
+r;29883420;45989;1845476;11;52
+r;71690219;45989;2925517;11;52
+r;86815787;45989;3380897;11;52
+r;121893814;45989;6535025;11;52
+r;121906801;45989;6533950;11;52
+r;17123356;45989;567607;11;53
+r;17816806;45989;575437;11;53
+r;19687067;45989;749155;11;53
+r;27281153;45989;1655904;11;53
+r;29893329;45989;1843401;11;53
+r;118530291;45989;6003607;11;53
+r;121866259;45989;6537247;11;53
+r;121888809;45989;6535458;11;53
+r;121892714;45989;6535122;11;53
+r;99490308;45989;4405754;11;54
+r;17815816;45989;575438;11;54
+r;18230959;45989;582260;11;54
+r;18231937;45989;582264;11;54
+r;29227151;45989;1780770;11;54
+r;29883268;45989;1845491;11;54
+r;98616389;45989;4324184;11;54
+r;121847423;45989;6538902;11;54
+r;121849944;45989;6538680;11;54
+r;121891358;45989;6535235;11;54
+r;99519347;45989;4409060;11;55
+r;17816878;45989;575436;11;55
+r;24492165;45989;1481537;11;55
+r;29227161;45989;1780769;11;55
+r;29883296;45989;1845488;11;55
+r;29883400;45989;1845478;11;55
+r;121843303;45989;6539330;11;55
+r;121879815;45989;6536156;11;55
+r;121893131;45989;6535092;11;55
+r;18230243;45989;582261;11;56
+r;18230465;45989;582259;11;56
+r;18232136;45989;582265;11;56
+r;24492677;45989;1481538;11;56
+r;27271164;45989;1655508;11;56
+r;28943229;45989;1759807;11;56
+r;29227169;45989;1780768;11;56
+r;29227175;45989;1780767;11;56
+r;29601427;45989;1813607;11;56
+r;29883410;45989;1845477;11;56
+r;86440049;45989;3376483;11;56
+r;121854648;45989;6538262;11;56
+r;121868998;45989;6537040;11;56
+r;121898964;45989;6534555;11;56
+r;27636138;45989;1663110;11;57
+r;29883380;45989;1845480;11;57
+r;29892398;45989;1843572;11;57
+r;53130678;45989;2581088;11;57
+r;55566305;45989;2602918;11;57
+r;77979348;45989;3230177;11;57
+r;82832609;45989;3304048;11;57
+r;121866247;45989;6537248;11;57
+r;18231042;45989;582262;11;58
+r;18231096;45989;582263;11;58
+r;29866026;45989;1848987;11;58
+r;52464696;45989;2525153;11;58
+r;106433947;45989;5246805;11;58
+r;109031791;45989;5521275;11;58
+r;109659740;45989;5538477;11;58
+r;121857522;45989;6538004;11;58
+r;121898449;45989;6534619;11;58
+r;17816091;45989;575441;11;59
+r;24492675;45989;1481539;11;59
+r;25257951;45989;1569271;11;59
+r;28930045;45989;1758326;11;59
+r;31657052;45989;1965783;11;59
+r;33759513;45989;2324576;11;59
+r;61460548;45989;2678449;11;59
+r;72257448;45989;2936753;11;59
+r;91448667;45989;3665125;11;59
+r;121842645;45989;6539410;11;59
+r;121843006;45989;6539371;11;59
+r;121843049;45989;6539366;11;59
+r;121897496;45989;6534698;11;59
+r;17815997;45989;575439;11;60
+r;18722421;45989;598078;11;60
+r;29883368;45989;1845481;11;60
+r;86814693;45989;3380896;11;60
+r;105903828;45989;5141743;11;60
+r;121849958;45989;6538679;11;60
+r;121866235;45989;6537249;11;60
+r;121879835;45989;6536155;11;60
+r;121910073;45989;6533580;11;60
+r;29883278;45989;1845490;11;61
+r;71472456;45989;2909910;11;62
+r;76429432;45989;3174229;11;62
+r;29883262;45989;1845492;11;63
+r;29883306;45989;1845487;11;63
+r;29883354;45989;1845482;11;63
+r;29883288;45989;1845489;11;64
+r;29883310;45989;1845486;11;64
+r;29883330;45989;1845484;11;65
+r;29883392;45989;1845479;11;66
+r;72043243;45989;2934105;11;66
+r;29883340;45989;1845483;11;67
+r;76429753;45989;3174228;11;67
+r;12573259;45989;382085;11;101
+r;12573335;45989;382064;11;101
+r;12573339;45989;382063;11;101
+r;12676387;45989;356652;11;101
+r;12704289;45989;349735;11;101
+r;12573241;45989;382089;11;102
+r;12573263;45989;382084;11;102
+r;12573267;45989;382083;11;102
+r;12573279;45989;382079;11;102
+r;12573291;45989;382075;11;102
+r;12573331;45989;382065;11;102
+r;12547045;45989;388707;11;103
+r;12573247;45989;382088;11;103
+r;12573307;45989;382071;11;103
+r;12697515;45989;351453;11;103
+r;12769793;45989;333975;11;103
+r;12564465;45989;384257;11;104
+r;12573237;45989;382090;11;104
+r;12573295;45989;382074;11;104
+r;12573299;45989;382073;11;104
+r;12682843;45989;355076;11;104
+r;12763975;45989;335436;11;104
+r;12573251;45989;382087;11;105
+r;12573269;45989;382082;11;105
+r;12573303;45989;382072;11;105
+r;12573311;45989;382070;11;105
+r;12573319;45989;382068;11;105
+r;12573323;45989;382067;11;105
+r;12631851;45989;367600;11;105
+r;12695857;45989;351872;11;105
+r;12570055;45989;382873;11;106
+r;12573281;45989;382078;11;106
+r;12573283;45989;382077;11;106
+r;12616105;45989;371528;11;106
+r;12637979;45989;366063;11;106
+r;12573235;45989;382091;11;107
+r;12573287;45989;382076;11;107
+r;12573315;45989;382069;11;107
+r;12644473;45989;364453;11;107
+r;12764479;45989;335309;11;107
+r;12573345;45989;382061;11;108
+r;12743249;45989;340496;11;108
+r;12748619;45989;339232;11;108
+r;12573255;45989;382086;11;109
+r;12573275;45989;382080;11;109
+r;12591651;45989;377568;11;109
+r;12762217;45989;335865;11;109
+r;12770539;45989;333774;11;109
+r;12558171;45989;385792;11;110
+r;12573233;45989;382092;11;110
+r;12573273;45989;382081;11;110
+r;12573327;45989;382066;11;110
+r;12573341;45989;382062;11;110
+r;11866048;45989;83625;11;121
+r;11852944;45989;208583;11;122
+r;12008873;45989;330656;11;141
+r;9105721;45989;322356;11;148
+r;9301490;45989;323816;11;148
+r;8921429;45989;317178;11;151
+r;8883236;45989;278911;11;153
+r;8725636;45989;259473;11;160
+r;8631764;45989;168629;11;161
+r;8696357;45989;226738;11;161
+r;8700160;45989;231749;11;161
+r;8700756;45989;232294;11;161
+r;8701112;45989;232651;11;161
+r;8714004;45989;250613;11;161
+r;8716438;45989;252826;11;161
+r;8719101;45989;254902;11;161
+r;8720098;45989;255672;11;161
+r;8728182;45989;261482;11;161
+r;8627726;45989;161979;11;162
+r;8681993;45989;208471;11;162
+r;8682287;45989;208646;11;162
+r;8682289;45989;208647;11;162
+r;8682290;45989;208648;11;162
+r;8686668;45989;211437;11;162
+r;8689324;45989;214409;11;162
+r;8690122;45989;216041;11;162
+r;8732044;45989;264502;11;162
+r;8769259;45989;302796;11;162
+r;8588243;45989;54126;11;163
+r;8620802;45989;142920;11;163
+r;8625138;45989;156518;11;163
+r;8641519;45989;183274;11;163
+r;8641523;45989;183276;11;163
+r;8641549;45989;183292;11;163
+r;8643419;45989;184396;11;163
+r;8643420;45989;184397;11;163
+r;8643422;45989;184398;11;163
+r;8643424;45989;184399;11;163
+r;8643426;45989;184400;11;163
+r;8644053;45989;184788;11;163
+r;8644055;45989;184789;11;163
+r;8648689;45989;187678;11;163
+r;8678893;45989;206701;11;163
+r;8678899;45989;206704;11;163
+r;8731658;45989;264151;11;163
+r;8739315;45989;271806;11;163
+r;8739761;45989;272230;11;163
+r;8744798;45989;276687;11;163
+r;8752271;45989;285017;11;163
+r;8763211;45989;296025;11;163
+r;8765774;45989;298978;11;163
+r;8768179;45989;301661;11;163
+r;8772459;45989;306544;11;163
+r;8781781;45989;313072;11;163
+r;8653269;45989;190782;11;164
+r;8653273;45989;190783;11;164
+r;8653277;45989;190784;11;164
+r;8662125;45989;196701;11;164
+r;8777738;45989;311669;11;164
+r;8666103;45989;199037;11;165
+r;8570397;45989;1307;11;169
+r;8883127;45989;277558;11;282

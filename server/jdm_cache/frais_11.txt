@@ -1,0 +1,1584 @@
+
+e;53495;'frais';1;730
+e;6357833;'assurance couvrant les frais psychiatriques';1;0
+e;6381531;'assurance frais chirurgicaux';1;0
+e;6387458;'décongélation du plasma frais congelé';1;0
+e;6392588;'assurance frais psychiatriques';1;0
+e;6417050;'assurance concernant les frais dentaires';1;0
+e;12183967;'mesure de résistance globulaire osmotique sur érythrocytes frais';1;0
+e;12233681;'détermination de la présence de levures hyphes | État frais | milieux divers | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12233670;'détermination de la présence de levures | État frais | urètre | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12233665;'détermination de la présence de levures | État frais | prélèvement vaginal | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12233664;'détermination de la présence de levures | État frais | prélèvement génital | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12233658;'détermination de la présence de levures | État frais | milieux divers | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12233652;'détermination de la présence de levures | État frais | col de l'utérus | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12233647;'mesure de levures | État frais | prélèvement vaginal | ponctuel | résultat numérique | nombre/champ';1;0
+e;12233529;'détermination de la présence de leucocytes | État frais | prélèvement vaginal | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12233526;'détermination de la présence de leucocytes | État frais | milieux divers | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12233464;'mesure de leucocytes | État frais | urètre | ponctuel | résultat numérique | nombre/champ';1;0
+e;12233458;'mesure de leucocytes | État frais | prélèvement vaginal | ponctuel | résultat numérique | nombre/champ';1;0
+e;12233456;'mesure de leucocytes | État frais | milieux divers | ponctuel | résultat numérique | nombre/champ';1;0
+e;12233454;'mesure de leucocytes | État frais | col de l'utérus | ponctuel | résultat numérique | nombre/champ';1;0
+e;12232788;'identification de kyste hydatique identifié | État frais | tissu pulmonaire | ponctuel | résultat nominal | identification';1;0
+e;12232787;'identification de kyste hydatique identifié | État frais | milieux divers | ponctuel | résultat nominal | identification';1;0
+e;12232784;'identification de kyste hydatique identifié | État frais | foie | ponctuel | résultat nominal | identification';1;0
+e;6287228;'détermination du volume de plasma frais congelé transfusé';1;0
+e;6417807;'assurance couvrant les frais chirurgicaux';1;0
+e;14452453;'frais irrépétibles';1;0
+e;14452554;'avance des frais';1;0
+e;14452619;'frais et dépens';1;0
+e;14452652;'frais de compensation';1;0
+e;14452565;'frais de procédure';1;0
+e;14452801;'frais non compris dans les dépens';1;0
+e;14452666;'frais d'instance';1;0
+e;14453080;'remboursement des frais de propagande';1;0
+e;14453592;'frais de déplacements';1;0
+e;14453369;'frais d'obsèques';1;0
+e;14453782;'résiliation aux frais et risques';1;0
+e;14454209;'frais de déplacement et de séjour';1;0
+e;14454208;'frais d'acquisition des immobilisations';1;0
+e;14454534;'frais de poursuites';1;0
+e;14454576;'frais d'assiette et de recouvrement';1;0
+e;14454698;'remboursement de frais à des fonctionnaires territoriaux';1;0
+e;14632316;'frais de rénovation';1;0
+e;16491299;'frais de résiliation';1;0
+e;3757426;'gingembre épluché et haché';1;0
+e;3755752;'tranches de gingembre';1;0
+e;3755363;'filet mignon de porc en tranches';1;0
+e;12235852;'identification de naegleria identifié | État frais | tissu | ponctuel | résultat nominal | identification';1;0
+e;14506273;'jus de fruit frais';1;0
+e;14720801;'sang frais';1;34
+e;14755592;'propre et frais';1;0
+e;15038273;'aux frais des';1;0
+e;16163747;'toasts frais au hareng';1;0
+e;3752894;'morceau de gingembre haché';1;0
+e;12116363;'érythrocytes frais';1;0
+e;12200251;'frais dentaires';1;0
+e;6088308;'frais d'interchange';777;0
+e;6082754;'200 dollars plus les frais';777;0
+e;12105102;'résistance globulaire osmotique sur érythrocytes frais';1;0
+e;12240417;'mesure de résistance globulaire osmotique sur érythrocytes frais | technique indéterminée | Érythrocytes témoin | ponctuel | résultat nominal | interprétation';1;0
+e;12240416;'mesure de résistance globulaire osmotique sur érythrocytes frais | technique indéterminée | Érythrocytes | ponctuel | résultat nominal | interprétation';1;0
+e;2484540;'frais-chier';1;0
+e;15287534;'déduction pour frais';1;0
+e;15331725;'en faire les frais';1;0
+e;11028427;'frais de scolarité réduit';1;0
+e;11028437;'réduire des frais';1;0
+e;11028426;'frais de scolarité élevés';1;0
+e;12241846;'mesure de spermatozoïdes mobiles | État frais | prélèvement vaginal | ponctuel | résultat numérique | nombre/champ';1;0
+e;15523296;'comptable notes de frais';1;0
+e;15536279;'compte de frais';1;0
+e;15225015;'conserver dans un endroit frais et sec';1;0
+e;15225013;'conserver qch au frais';1;0
+e;16163634;'courgette farcie au maquereau et au fromage frais';1;0
+e;16491406;'au frais de';1;0
+e;2374275;'beau-frais';1;0
+e;2387948;'faux-frais';1;0
+e;15761933;'aux frais du contribuable';1;0
+e;15276676;'avance de frais';1;0
+e;15582733;'avoir de gros frais';1;0
+e;15389084;'avoir le teint frais';1;0
+e;15417106;'boire frais';1;0
+e;15401499;'bol d'air frais';1;0
+e;15411251;'calcul des frais';1;0
+e;5913042;'raisins frais';1;0
+e;5911995;'gâteau au fromage frais';1;0
+e;15527602;'appel à frais virés';1;0
+e;16036043;'apport de sang frais';1;0
+e;15387213;'assortiment de fruits frais de saison';1;0
+e;15345253;'assumer les frais';1;0
+e;16074142;'Remboursement des frais de propagande';1;0
+e;16074304;'Résiliation aux frais et risques';1;0
+e;15762821;'Une part de frais est remboursable.';1;0
+e;5622898;'Ti frais des Hauts';777;0
+e;10559484;'fond de l'air est frais';777;0
+e;11362416;'Salon frais';777;0
+e;11362415;'Pavillon frais';777;0
+e;12076202;'frais de fonctionnement';1;0
+e;12079114;'frais terminaux';1;0
+e;12079113;'frais d'approche';1;0
+e;15571122;'Les frais de transport sont à votre charge.';1;0
+e;15221669;'Mets le vin au frais dans le réfrigérateur.';1;0
+e;12081658;'ultra frais';1;0
+e;10341504;'frais de copies virtuelles';777;0
+e;10847527;'milieu Columbia au sang frais';1;0
+e;12243893;'détermination de la présence de trichomonas vaginalis | État frais | urètre | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12243890;'détermination de la présence de trichomonas vaginalis | État frais | prélèvement vaginal | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12243888;'détermination de la présence de trichomonas vaginalis | État frais | prélèvement génital | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12243887;'détermination de la présence de trichomonas vaginalis | État frais | milieux divers | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12243884;'détermination de la présence de trichomonas vaginalis | État frais | col de l'utérus | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12243882;'mesure de trichomonas vaginalis | État frais | prélèvement vaginal | ponctuel | résultat numérique | nombre/champ';1;0
+e;10186630;'Cherche fiancé tous frais payés';777;0
+e;11147084;'se mettre au frais';1;0
+e;11302805;'état frais';1;0
+e;12244138;'identification de trypanosoma identifié | État frais | sang | ponctuel | résultat nominal | identification';1;0
+e;12244135;'identification de trypanosoma identifié | État frais | liquide céphalorachidien | ponctuel | résultat nominal | identification';1;0
+e;12244125;'détermination de la présence de trypanosoma evansi | État frais | liquide d'aspiration | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;10186799;'paiement en trois fois sans frais';1;0
+e;2378841;'frais de folle enchère';1;0
+e;2416846;'recommencer sur nouveaux frais';1;0
+e;5557501;'Aux frais de la princesse';777;0
+e;6693795;'potage à base de légumes frais';1;0
+e;11219993;'frais annexes';1;0
+e;13297562;'affaire des frais de campagne';777;0
+e;11158410;'hachis d'ail frais';1;0
+e;4085632;'beurre-frais';1;0
+e;16381847;''servir frais'';1;0
+e;2363751;'faire les frais';1;2
+e;6595058;'On se calme et on boit frais à Saint-Tropez';777;0
+e;8570615;'fruits frais mixés';1;0
+e;8853017;'gras frais landais';1;0
+e;8961996;'béton frais';1;0
+e;9491713;'lait frais pasteurisé';1;0
+e;15395989;'Est-ce qu'il y a des frais de livraison?';1;0
+e;15401505;'L'air frais fait du bien.';1;0
+e;15422525;'?uf frais';1;0
+e;15270208;'Je voudrais participer aux frais.';1;0
+e;16072230;'Avance des frais';1;0
+e;437455;'servir frais';1;50
+e;437343;'persil frais haché';1;50
+e;437342;'persil frais';1;56
+e;437057;'frais haché finement';1;50
+e;437056;'frais haché';1;50
+e;3290693;'Air frais';777;0
+e;3318470;'quatre-quart au fromage frais';1;0
+e;3372049;'verrines de légumes du soleil et de chèvre frais';1;0
+e;3371611;'tourte au saumon frais';1;0
+e;3370185;'tartare de thon frais en manteau d'aubergine sur réduction de balsamique';1;0
+e;3370181;'tartare de saumon frais et fumé, variante';1;0
+e;3369532;'soufflé aux herbes folles et fromage frais';1;0
+e;3368662;'salade au chèvre frais';1;0
+e;3360314;'charlotte aux aubergines et chèvre frais';1;0
+e;3361416;'crumble de fruits frais';1;0
+e;3361676;'dessert frais à la mangue';1;0
+e;3361809;'entrée de saumon frais et de saumon fumé';1;0
+e;3744831;'fromage frais au basilic et aux radis';1;0
+e;3751135;'beurre très frais';1;0
+e;3751005;'rondelles de gingembre frais';1;0
+e;3751294;'gingembre frais rapé';1;0
+e;3751458;'haricots verts frais coupés en petits tronçons';1;0
+e;3759284;'morceau de racine de gingembre frais épluché et émincé';1;0
+e;3759255;'racine de gingembre frais finement hachée';1;0
+e;3758959;'saumon frais sans peau';1;0
+e;3758742;'piment jalapeño frais';1;0
+e;3758202;'café frais';1;0
+e;3758164;'champignons frais avec les pieds coupés';1;0
+e;3757685;'bonne poignée de romarin frais haché';1;0
+e;3757306;'morceau de gingembre frais épluché';1;0
+e;3757047;'bouteille de champagne très frais';1;0
+e;3756960;'ananas frais de taille moyenne';1;0
+e;3756937;'gingembre frais pilé';1;0
+e;3756744;'épinards frais équeutés';1;0
+e;3756664;'fruits rouges frais ou décongelés';1;0
+e;3756653;'petits pois écossés frais ou surgelés';1;0
+e;3756543;'fromage frais ou autre fromage à tartiner';1;0
+e;3756272;'brins de romarin frais hachés';1;0
+e;3756207;'petits pois frais écossés';1;0
+e;3755918;'beurre doux frais et coupé en petits cubes';1;0
+e;3754639;'basilic frais ciselé';1;0
+e;3754493;'fruits rouges frais et pétales de rose';1;0
+e;3754077;'cuillère à café bombée de gingembre frais râpé';1;0
+e;3753727;'haricots verts frais rincés arrangés et blanchis';1;0
+e;3753638;'champignons de Paris frais';1;0
+e;3753580;'petit piment rouge frais épépiné et émincé';1;0
+e;3753470;'sachet de pousses d'épinards frais';1;0
+e;3753116;'rases d'aneth frais finement haché';1;0
+e;3752563;'brin de thym frais effeuillé puis haché';1;0
+e;3752444;'thym frais ciselé';1;0
+e;3752323;'jus de citron vert frais';1;0
+e;3752226;'bouteille de champagne bien frais';1;0
+e;3752034;'branche de thym frais; prendre les feuilles uniquement';1;0
+e;3751691;'saumon frais coupé en petits morceaux';1;0
+e;437481;'thym frais';1;50
+e;437160;'jeune épinard frais';1;50
+e;437134;'haché frais';1;50
+e;436831;'champignon frais';1;50
+e;436752;'aneth frais haché';1;50
+e;1544323;'soja frais';1;0
+e;2487243;'à grand frais';1;0
+e;3318698;'roulés de jambon au fromage frais';1;0
+e;3371379;'tian d'aubergines aux poivrons et chèvre frais';1;0
+e;3371119;'tartine printanière au carré frais';1;0
+e;3371019;'tarte saumon frais et asperges';1;0
+e;3365733;'gratin de poireaux, oignons frais et jambon rouge';1;0
+e;3365503;'dessert frais ananas-coco, verrine';1;0
+e;3364753;'mousse de saumon frais cuit au court-bouillon';1;0
+e;3363737;'haricots blancs frais à la sauce tomate';1;0
+e;3362649;'galettes aux champignons frais et saumon';1;0
+e;3744367;'moussaka au chèvre frais';1;0
+e;3746062;'jus de fruits frais';1;0
+e;3745770;'escalopes de dinde aux champignons jambon de bayonne et thym frais';1;0
+e;3751268;'steaks de thon frais';1;0
+e;3751339;'branches de basilic frais';1;0
+e;3751363;'feuilles d'épinards frais rincées et hachées';1;0
+e;3751047;'gingembre frais coupés en dés';1;0
+e;3759285;'mélange de fruits frais';1;0
+e;3759004;'tranches d'ananas frais de préférence';1;0
+e;3758433;'morceau de gingembre frais râpé';1;0
+e;3756625;'cuillerée à soupe de gingembre frais râpé';1;0
+e;3755579;'rases de basilic frais ciselé ou de basilic sec';1;0
+e;3754987;'petit bouquet de basilic frais ciselé';1;0
+e;3754368;'fromage de chèvre frais émietté';1;0
+e;3754183;'branches de romarin frais hachés';1;0
+e;3753776;'morceau de gingembre frais haché grossièrement';1;0
+e;3753636;'feuilles de thym frais';1;0
+e;3753587;'bouquet de persil frais ciselé';1;0
+e;3753573;'basilic frais finement haché';1;0
+e;3753222;'chèvre frais';1;2
+e;3752895;'épinards frais';1;0
+e;3752674;'champignons frais';1;0
+e;3752571;'brins de persil frais';1;0
+e;3752041;'romarin frais haché';1;0
+e;3751974;'gingembre frais haché';1;0
+e;3751876;'tronçon de gingembre frais';1;0
+e;3751761;'fromage frais aux fines herbes';1;0
+e;3763657;'piments frais Jalapeno';1;0
+e;4320949;'frais d'inscription à l'université';777;18
+e;437196;'lime frais';1;50
+e;436879;'coriandre frais';1;50
+e;1656666;'frais d'inscription';1;8
+e;1970580;'endroit frais';1;0
+e;3306105;'Gournay frais';777;0
+e;3318401;'pizza raclette bacon et fromage frais';1;0
+e;3371238;'terrine de fromage frais aux herbes';1;0
+e;3369022;'salade de tomates cerises aux oignons frais';1;0
+e;3368819;'salade de fèves au chèvre frais et aux oeufs';1;0
+e;3368665;'salade au fromage frais et au saumon fumé agrémenté de noix';1;0
+e;3367948;'quiche aux poireaux et saumon frais';1;0
+e;3367131;'poivrons farcis au thon et fromage frais';1;0
+e;3366968;'pizza raclette bacon et fromage';1;0
+e;3365432;'courgettes farcies aux champignons de Paris et au chèvre frais';1;0
+e;3360209;'car 'tichaut frais au thon';1;0
+e;3744357;'coupes au pêches au sirop et fruits frais';1;0
+e;3751067;'fonds de bouchées à la reine frais';1;0
+e;3751090;'brins de romarin frais';1;0
+e;3759003;'beau morceau de thon rouge bien frais';1;0
+e;3758872;'fruits rouges frais ou congelés';1;0
+e;3758399;'brocolis frais coupés en petits morceaux';1;0
+e;3758361;'petits pois frais en cosse';1;0
+e;3757360;'laguiole frais coupé en lamelles';1;0
+e;3756896;'thon albacore frais coupé en tranches';1;0
+e;3756678;'brin frais de marjolaine';1;0
+e;3756288;'piments jalapeno frais coupés en deux dans la longueur et épépinés';1;0
+e;3756017;'feuilles de basilic frais ciselées';1;0
+e;3755879;'rases de romarin haché frais ou de romarin sec';1;0
+e;3755654;'lobe de foie gras frais préparé';1;0
+e;3755563;'jus de fruits mélangés bien frais';1;0
+e;3755292;'thym frais de romarin';1;0
+e;3754655;'champignons frais tranchés';1;0
+e;3754606;'brins de thym frais hachés menu';1;0
+e;3754367;'fromage blanc frais maigre';1;0
+e;3753957;'saucisses de type chorizo frais ou saucisses fumées';1;0
+e;3753458;'feuilles de basilic frais hachées';1;0
+e;3753302;'petit morceau de gingembre frais';1;0
+e;3753089;'persil frais finement haché';1;0
+e;3752860;'oeufs entiers bien frais';1;0
+e;3752835;'tranche de jambon frais';1;0
+e;3752502;'saumon frais sans peau coupé en gros dés';1;0
+e;3752416;'vin blanc sec bien frais';1;0
+e;3752108;'doigt de gingembre frais râpé';1;0
+e;3751904;'oignons frais';1;0
+e;3751702;'thym frais effeuillé';1;0
+e;437102;'gingembre frais râpé';1;50
+e;436827;'cerfeuil frais';1;50
+e;436770;'basilic frais haché';1;50
+e;1781172;'plus frais';1;0
+e;3318574;'salade de pâtes aux crevettes, concombre et fromage frais';1;0
+e;3360514;'chutney de fruits frais et fruits secs au rhum';1;0
+e;3370448;'tarte au thon et fromage frais';1;0
+e;3370382;'tarte au fromage de chèvre frais';1;0
+e;3370016;'taboulé frais sans huile façon walelia';1;0
+e;3368833;'salade de fruits frais façon été';1;0
+e;3367919;'quiche aux cèpes frais';1;0
+e;3367742;'profiteroles de chèvre frais à la vinaigrette du soleil';1;0
+e;3362594;'fruits frais chauds';1;0
+e;3359944;'cake aux olives et fromage de chèvre frais';1;0
+e;3360434;'chèvre frais en feuilleté';1;0
+e;3361138;'crêpes aux épinards frais et ricotta';1;0
+e;3743677;'rillettes de saumon frais';1;0
+e;3743875;'cake aux épinards frais et au saumon';1;0
+e;3751138;'brins de thym frais';1;0
+e;3751466;'jus de citron frais';1;0
+e;3758323;'marrons frais ou marrons surgelés';1;0
+e;3757533;'brocolis frais ou surgelés';1;0
+e;3756913;'ramures de thym frais';1;0
+e;3756822;'branche de fenouil frais';1;0
+e;3756821;'gingembre frais et râpé';1;0
+e;3755877;'feuilles de laurier frais et brins de romarin';1;0
+e;3755601;'aneth haché surgelé ou frais';1;0
+e;3755239;'thon frais de très bonne qualité coupé en petits dés';1;0
+e;3754115;'estragon frais ciselé';1;0
+e;3754035;'brin de romarin frais';1;0
+e;3753984;'jus de raisin blanc bien frais';1;0
+e;3753927;'saumon frais cuit';1;0
+e;3753831;'brins de thym frais effeuillés ou thym séché';1;0
+e;3753520;'persil frais émincé';1;0
+e;3753496;'chair d'ananas frais détaillée en fins bâtonnets';1;0
+e;3753332;'champignons frais coupés en gros morceaux';1;0
+e;3753195;'gingembre frais épluché et râpé';1;0
+e;3752981;'fromage de brebis ou de chèvre frais';1;0
+e;3752939;'piments Serrano ou piments frais Jalapeno';1;0
+e;3752710;'lard frais grossièrement haché';1;0
+e;3752501;'filets de rouget frais';1;0
+e;3751806;'épinards frais hachés';1;0
+e;4470304;'maroilles blanc frais';1;0
+e;437318;'parmesan frais râpé';1;50
+e;437179;'laissez infuser au frais';1;50
+e;436806;'canneberge frais';1;50
+e;583858;'oignon frais';777;0
+e;1637420;'frais professionnels remboursables';1;0
+e;1657779;'compenser les frais';1;0
+e;3318624;'poivron jaune farci au fromage de chèvre frais';1;0
+e;3359101;'aubergines farcies au fromage frais et à l'oignon';1;0
+e;3371612;'tourte au saumon frais et au riz';1;0
+e;3371401;'timbales d'oeufs au carré frais';1;0
+e;3370322;'tarte au carottes et champignons frais';1;0
+e;3370073;'tagliatelles épinards fromage frais';1;0
+e;3369810;'soupe japonaise au thon frais';1;0
+e;3368832;'salade de fruits frais extra et rafraîchissante';1;0
+e;3368553;'rouleaux de printemps frais et parfumés';1;0
+e;3367906;'quiche au saumon frais et à la courgette';1;0
+e;3365526;'entremet dattes et fromage frais, maroc';1;0
+e;3363653;'gratinée méditerranéenne au carré frais';1;0
+e;3360178;'carpaccio frais de thon rouge';1;0
+e;3361678;'dessert frais aux litchis';1;0
+e;3361884;'escalopes de dinde au carré frais';1;0
+e;3361677;'dessert frais au sésame noir';1;0
+e;3692414;'payer en 3 fois sans frais';1;0
+e;3743986;'tartare de saumon frais au citron vert';1;0
+e;3744474;'fromage blanc déguisé aux fruits frais';1;0
+e;3744571;'verrines de radis au chèvre frais';1;0
+e;3746029;'saumon frais en papillote';1;0
+e;3751020;'carrés de fromage frais';1;0
+e;3751154;'grosse poignée de persil frais';1;0
+e;3751184;'fromage de chèvre frais';1;0
+e;3751219;'petit piment rouge frais épépiné et finement émincé';1;0
+e;3751178;'persil frais ciselé';1;0
+e;3758452;'ail frais écrasé';1;0
+e;3757367;'petite poignée d'estragon frais';1;0
+e;3757251;'oeufs frais';1;0
+e;3757009;'feuilles de laurier frais';1;0
+e;3756988;'petit bouquet de persil frais haché';1;0
+e;3756797;'marrons frais';1;0
+e;3756649;'cuillère à dessert de romarin frais haché';1;0
+e;3756614;'petits piments rouges frais';1;0
+e;3755844;'brins de thym frais hachés';1;0
+e;3757699;'noix de beurre frais';1;0
+e;3755454;'poignée d'aneth frais haché';1;0
+e;3755105;'gros champignon de Paris frais';1;0
+e;3754911;'pousses de soja frais';1;0
+e;3754607;'bouquet de persil frais haché menu';1;0
+e;3754593;'piment habanero frais égrainé et haché';1;0
+e;3754524;'botte d'épinards frais lavés et hachés';1;0
+e;3754343;'beau bouquet de basilic frais';1;0
+e;3753948;'chèvre frais ou St-Morêt';1;0
+e;3753854;'bouteilles de vin blanc sec bien frais';1;0
+e;3753617;'branche de thym frais';1;0
+e;3753312;'filet de saumon frais';1;0
+e;3753103;'bouquet de persil frais';1;0
+e;3752966;'brins de basilic frais';1;0
+e;3752963;'basilic ou estragon frais';1;0
+e;3752389;'thym frais de préférence';1;0
+e;3752165;'chair de crabe frais';1;0
+e;3751805;'saumon frais cuit ou saumon fumé';1;0
+e;3751511;'fromage frais à tartiner type Philadelphia';1;0
+e;437073;'fromage de chêvre frais';1;50
+e;3175145;'Le fond de l'air est frais';777;0
+e;3306060;'gournay frais';1;0
+e;3318642;'roulé au saumon';1;0
+e;3371320;'terrine de tomates et poivrons au fromage frais';1;0
+e;3371253;'terrine de légumes du soleil au chèvre frais, vinaigrette basilic';1;0
+e;3369216;'sandwichs frais pour l'été';1;0
+e;3363469;'gratin de gnocchis frais aux champignons';1;0
+e;3363429;'gratin de courgettes au carré frais';1;0
+e;3359922;'cake aux épinards et chèvre frais';1;0
+e;3361846;'epinards au carré frais';1;0
+e;3743895;'fromage frais au lait ribot';1;0
+e;3746637;'confiture aux pèches-fraises et gingembre frais';1;0
+e;3745566;'saumon frais farci';1;0
+e;3745488;'tagliatelles au saumon et aux épinards frais';1;0
+e;3759006;'brin de thym citron frais haché';1;0
+e;3758913;'feuilles de persil frais ciselé';1;0
+e;3758713;'gingembre frais épluché et haché';1;0
+e;3758475;'gingembre frais émincé';1;0
+e;3758294;'brins de thym et de sauge frais';1;0
+e;3758171;'saumon très frais';1;0
+e;3758011;'romarin frais ciselé';1;0
+e;3757945;'champignons frais coupés en morceaux';1;0
+e;3757566;'brins de persil frais ciselés';1;0
+e;3756568;'haricots verts fins frais';1;0
+e;3756136;'poignée d'épinards frais hachés';1;0
+e;3755808;'pulco ou de jus de citron vert frais';1;0
+e;3755099;'parmesan frais râpé en copeaux';1;0
+e;3755051;'branches d'estragon frais';1;0
+e;3754372;'bonne poignée de basilic frais grossièrement haché';1;0
+e;3753806;'gingembre frais pelé et émincé';1;0
+e;3753563;'haricots beurre frais';1;0
+e;3753232;'bouteille de cidre brut bien frais';1;0
+e;3752808;'champignons frais coupés en tranches';1;0
+e;3752363;'champignons frais hachés';1;0
+e;3752063;'épinards frais en branche';1;0
+e;3752045;'origan frais haché';1;0
+e;3752025;'chorizo frais peau enlevé coupé en morceaux';1;0
+e;3752008;'fromage frais à tartiner type Philadelphia à température ambiante';1;0
+e;3751997;'estragon frais ciselé ou estragon séché';1;0
+e;3751912;'gingembre frais coupé en morceaux';1;0
+e;3751837;'grande tranche de pain de mie frais';1;0
+e;3751766;'cuillerée à café de gingembre frais râpé';1;0
+e;3751743;'filets de saumon frais';1;0
+e;3757048;'lait de coco frais';1;0
+e;5046038;'climat frais';1;0
+e;5317933;'frais de bouche de Chirac';1;0
+e;437345;'persil italien frais';1;50
+e;436985;'épinard frais émincé';1;50
+e;436880;'coriandre frais haché';1;50
+e;436751;'aneth frais';1;50
+e;1568973;'retourner l'oreiller du côté le plus frais';1;0
+e;3359161;'baguette au fromage frais de lucie';1;0
+e;3371200;'terrine crétoise au carré frais';1;0
+e;3369623;'soupe brocolis-fromage frais';1;0
+e;3366963;'pizza poireaux, thon et fromage frais';1;0
+e;3364034;'lasagnes de ratatouille au chèvre frais';1;0
+e;3362593;'fruits exotiques frais à la gelée de thé';1;0
+e;3362419;'foie gras frais aux figues';1;0
+e;3360189;'carré frais d'aubergine';1;0
+e;3360686;'concombre au carré frais';1;0
+e;3361853;'escalope de cerf aux pruneaux frais';1;0
+e;3745501;'cuillères de foie gras frais aux copeaux de chocolat';1;0
+e;3751137;'saumon frais sans peau ni arête';1;0
+e;3751315;'morceaux d'ananas frais';1;0
+e;3759265;'racine de gingembre frais râpée';1;0
+e;3759230;'noix de racine de gingembre frais';1;0
+e;3758386;'morceau de gingembre frais haché';1;0
+e;3758024;'brins d'aneth frais hachés';1;0
+e;3756757;'piment jalapeno frais ou piment vert épépiné et coupé finement';1;0
+e;3756398;'pêches abricots ou pommes frais ou en bocal';1;0
+e;3756203;'brin de persil frais';1;0
+e;3756178;'brin de basilic frais';1;0
+e;3756106;'gingembre frais finement haché';1;0
+e;3755856;'filets de saumon de chacun sans arête et très frais';1;0
+e;3755689;'saumon frais coupé en fines lamelles';1;0
+e;3755485;'beau morceau de thon rouge frais';1;0
+e;3755469;'champignons de Paris frais émincés';1;0
+e;3755585;'noix de gingembre frais';1;0
+e;3755166;'champagne très frais';1;0
+e;3755117;'bonne poignée de persil frais haché';1;0
+e;3754893;'belles feuilles de basilic frais grossièrement hachées';1;0
+e;3754750;'persil frais ou séché';1;0
+e;3754648;'champignons de Paris frais finement émincés';1;0
+e;3754605;'brins de basilic frais hachés menu';1;0
+e;3754538;'champignons de Paris frais coupés en lamelles';1;0
+e;3754096;'branches de basilic frais haché';1;0
+e;3753875;'filets de maquereau frais';1;0
+e;3753761;'estragon frais haché';1;0
+e;3753453;'morceau de gingembre frais émincé';1;0
+e;3753122;'gingembre frais finement râpé';1;0
+e;3753094;'basilic frais ou thym frais';1;0
+e;3752299;'jarret de porc frais';1;0
+e;3752195;'poivre frais du moulin';1;0
+e;3751953;'aneth frais haché grossièrement';1;0
+e;3751909;'épinards frais en branches';1;0
+e;3751825;'gousses d'ail frais ou ail en poudre';1;0
+e;3751663;'bouquet de persil frais haché';1;0
+e;3763659;'piment frais Jalapeno';1;0
+e;5035018;'produits frais';1;52
+e;437207;'maïs frais';1;50
+e;436993;'estragon frais';1;50
+e;436979;'entier concentré frais';1;50
+e;2339210;'carrés frais';1;0
+e;3372059;'verrines de saumon frais et au lait de coco';1;0
+e;3371863;'velouté de brocoli au chèvre frais';1;0
+e;3371041;'tarte tatin au fromage de vache frais';1;0
+e;3370326;'tarte au chèvre frais et tomates séchées de valounette';1;0
+e;3369207;'sandwich frais à l'italienne';1;0
+e;3368850;'salade de jambon cru et fromage frais';1;0
+e;3367993;'quiche légère à la carotte et au fromage frais';1;0
+e;3366622;'pavé de saumon frais en papillotte';1;0
+e;3362345;'flan de courgettes au saumon frais';1;0
+e;3360916;'courgettes farcies au carré frais';1;0
+e;3361334;'croustillant de carré frais et chèvre';1;0
+e;3361473;'cuisiner un jambon frais entier';1;0
+e;3743829;'aumônières de crêpes au chocolat trésor de fruits frais';1;0
+e;3745130;'salade de magrets de canard fumés aux éclats de noix et copeaux de parmesan frais';1;0
+e;3751159;'bol d'épinards frais';1;0
+e;3751354;'origan frais';1;0
+e;3758812;'thym frais ou thym séché';1;0
+e;3758448;'persil haché frais';1;0
+e;3758438;'fromage de frais chèvre';1;0
+e;3758388;'bouquet de persil frais grossièrement haché';1;0
+e;3758257;'champignons de Paris frais coupés en rondelles';1;0
+e;3758045;'buchette de chèvre frais émiettée';1;0
+e;3757917;'germes de soja frais';1;0
+e;3757686;'morceau de gingembre frais';1;0
+e;3757369;'sac d'épinards frais';1;0
+e;3755939;'darnes de saumon frais';1;0
+e;3755688;'piment rouge frais coupé très finement';1;0
+e;3755291;'queues d'oignons frais';1;0
+e;3755283;'épi de maïs frais';1;0
+e;3755002;'oeufs frais pesés avec la coquille';1;0
+e;3754550;'morceau de gingembre frais pelé et écrasé';1;0
+e;3754187;'oignons frais hachés';1;0
+e;3753197;'petit piment frais épépiné et émincé';1;0
+e;3753173;'champignons frais coupés en lamelles';1;0
+e;3753119;'champignons shiitake frais finement émincés';1;0
+e;3753113;'tranches très fines de pain bis frais et moelleux';1;0
+e;3753082;'gingembre frais coupé en tout petits dès';1;0
+e;3752654;'piment vert frais épépiné et émincé';1;0
+e;3752492;'fromages de chèvre frais';1;0
+e;3752261;'brin de thym frais';1;0
+e;3752241;'morceau de racine de gingembre frais coupé en lamelle';1;0
+e;3751669;'feuilles d'origan frais';1;0
+e;5061173;'remboursement des frais de justice';1;0
+e;437432;'samossas de chèvre frais';1;50
+e;437223;'Medjool frais dénoyauté';1;50
+e;437058;'frais ou surgelé';1;50
+e;437013;'fenouil frais';1;50
+e;2339209;'carré frais';1;0
+e;3318430;'duo frais de saumon';1;0
+e;3371212;'terrine de carrés frais aux poires';1;0
+e;3370392;'tarte au jambon et chèvre frais';1;0
+e;3369071;'salade fraicheur de concombre sauce au carré frais';1;0
+e;3364027;'lasagnes d'aubergines tomates et chèvre frais';1;0
+e;3744209;'tartelettes aux fruits frais';1;0
+e;3745579;'tapenade aux olives noires tomates séchées et basilic frais';1;0
+e;3751043;'jus d'orange frais';1;0
+e;3751027;'petits oignons frais finement émincés';1;0
+e;3750952;'gingembre frais pelé et émincé finement';1;0
+e;3751361;'romarin frais';1;0
+e;3751412;'piment vert frais haché menu';1;0
+e;3751236;'gros chèvre frais';1;0
+e;3758889;'piment vert frais finement haché';1;0
+e;3758726;'belle persil frais ciselé';1;0
+e;3758545;'saumon frais sans peau et sans arête';1;0
+e;3757734;'poignée d'aneth frais';1;0
+e;3757249;'pavé de saumon frais';1;0
+e;3757015;'rondelles de chèvre frais';1;0
+e;3756644;'champignons de Paris frais coupés en morceaux';1;0
+e;3756411;'basilic frais ou persil frais';1;0
+e;3755433;'persil plat frais haché';1;0
+e;3755179;'rosé bien frais';1;0
+e;3754732;'aneth frais ciselé';1;0
+e;3754535;'brins de romarin frais ciselé';1;0
+e;3754517;'haricots verts frais';1;0
+e;3754429;'cébettes émincées mélangées à persil frais ciselé';1;0
+e;3754406;'aneth frais ou séché au goût';1;0
+e;3754226;'basilic frais haché ou basilic séché';1;0
+e;3753325;'morceau de gingembre frais pelé et émincé';1;0
+e;3753220;'feuilles de basilic frais';1;0
+e;3753208;'dizaine de brins de persil frais hachés';1;0
+e;3752879;'bouquet de basilic frais';1;0
+e;3752568;'champignons frais émincés';1;0
+e;3752450;'cuillère à soupe de gingembre frais émincé';1;0
+e;3752208;'belle branche de thym frais';1;0
+e;3752138;'gingembre frais râpée';1;0
+e;3752042;'filet de saumon frais cru sur la peau';1;0
+e;3751819;'chorizos frais';1;0
+e;437482;'thym frais haché';1;50
+e;436783;'bleuet frais';1;50
+e;3301137;'piment frais';1;0
+e;3319608;'produit laitier frais';1;0
+e;3318816;'poivrons farcis au fromage frais';1;0
+e;3359329;'bisque de homard aux raviolis frais';1;0
+e;3371112;'tartine de fromage de chèvre frais';1;0
+e;3370513;'tarte aux endives et saumon frais';1;0
+e;3369505;'sorbet raffiné de carré frais à la ciboulette';1;0
+e;3367201;'pommes de terre gratinées au carré frais';1;0
+e;3365513;'dôme de carré frais au saumon fumé, poireaux et poivrons grillés';1;0
+e;3362587;'fromage frais aux pommes et aux spéculoos';1;0
+e;3360017;'cake moelleux épinards tomate et fromage frais';1;0
+e;3360190;'carré frais et son melon au saumon fumé';1;0
+e;3361685;'dinde aux champignons frais';1;0
+e;3759282;'racine de gingembre frais râpé';1;0
+e;3759201;'estragon frais finement ciselé ou l rase d'estragon sec';1;0
+e;3759199;'feuilles de thym frais ou rase de thym sec émietté';1;0
+e;3759047;'thym frais ou cuillerée à café de thym déshydraté';1;0
+e;3758637;'romarin frais plus brins de romarin';1;0
+e;3758608;'bouteille de vin blanc sec frais';1;0
+e;3758578;'tête de brocoli frais coupé en fleurettes';1;0
+e;3757950;'belles feuilles de basilic frais coupée en chiffonnade';1;0
+e;3757680;'haricots blancs frais';1;0
+e;3757240;'plusieurs branches de thym frais';1;0
+e;3756065;'filet de saumon frais sans peau et coupé en dés';1;0
+e;3755708;'beurre bien frais coupé en dés';1;0
+e;3755580;'cuillères rases de thym frais ciselé ou de thym sec';1;0
+e;3754936;'dizaine de brins de thym frais';1;0
+e;3754811;'pavés de saumon frais ou surgelés';1;0
+e;3754730;'fromage frais à tartiner type St-Morêt ou Philadelphia';1;0
+e;3754652;'brins de persil frais hachés';1;0
+e;3754258;'filets de saumon frais d'environ chacun';1;0
+e;3753787;'moitié d'un bouquet de basilic frais haché';1;0
+e;3753751;'carrés frais gervais';1;0
+e;3753648;'gingembre frais haché finement';1;0
+e;3753411;'brins de persil frais haché';1;0
+e;3752522;'basilic frais lavé et complètement sec';1;0
+e;3752342;'brins d'aneth frais';1;0
+e;3751877;'jus de carotte frais ou en bouteille';1;0
+e;3751706;'branches de thym frais';1;0
+e;4333466;'salade de fruits frais';1;0
+e;388850;'à plus de frais';1;50
+e;384226;'tous frais compris';1;50
+e;355361;'frais de la veille';1;50
+e;355291;'frais forfaitaires';1;50
+e;355283;'frais de transfert';1;50
+e;355282;'frais de traitement';1;50
+e;355277;'frais de repassage';1;50
+e;355265;'frais de gardiennage';1;50
+e;355255;'frais d'habitation';1;50
+e;370054;'petits pois frais';1;50
+e;355284;'frais de vente';1;50
+e;355267;'frais de location';1;50
+e;355250;'frais d'acquisition';1;50
+e;355249;'frais cueilli';1;50
+e;352742;'exempt de frais';1;50
+e;388793;'à moindre frais';1;50
+e;375457;'rayon produits frais';1;50
+e;355294;'frais préjudiciels';1;50
+e;355290;'frais fixes';1;2
+e;355285;'frais de voyage';1;50
+e;355281;'frais de toilette';1;50
+e;355245;'frais auto';1;50
+e;339820;'bouffée d'air frais';1;50
+e;332559;'pain frais';1;96
+e;378599;'sans frais';1;50
+e;369983;'petit vin blanc frais';1;50
+e;368061;'paiement de frais';1;50
+e;355504;'fruits frais';1;62
+e;355293;'frais généraux';1;50
+e;355269;'frais de manutention';1;50
+e;355258;'frais d'établissement';1;50
+e;355254;'frais d'exploitation';1;50
+e;334612;'air frais';1;52
+e;380935;'souvenir frais';1;50
+e;380275;'sommation sans frais';1;50
+e;355278;'frais de restaurant';1;50
+e;355263;'frais de factage';1;50
+e;355262;'frais de fabrication';1;50
+e;355257;'frais d'éloquence';1;50
+e;332532;'fruit frais';1;70
+e;373024;'prise en charge de frais';1;50
+e;355276;'frais de protêt';1;50
+e;355273;'frais de plateau';1;50
+e;355253;'frais d'emmagasinage';1;50
+e;354534;'foie gras frais';1;50
+e;337936;'avertissement sans frais';1;50
+e;337770;'aux frais de';1;50
+e;388833;'à peu de frais';1;50
+e;388796;'à moins de frais';1;50
+e;355275;'frais de production';1;50
+e;355274;'frais de portage';1;50
+e;355272;'frais de personnel';1;50
+e;355271;'frais de nettoyage';1;50
+e;355260;'frais de contrôle';1;50
+e;355259;'frais de constitution';1;50
+e;352748;'exempt de frais de courtage';1;50
+e;356517;'grand frais';1;52
+e;355280;'frais de sécurité';1;50
+e;355279;'frais de réparation';1;50
+e;355261;'frais de dédouanement';1;50
+e;355252;'frais d'aujourd'hui';1;50
+e;355248;'frais courants';1;50
+e;355246;'frais comme la rose';1;50
+e;341481;'capital frais';1;50
+e;362491;'légumes frais';1;52
+e;355292;'frais funéraires';1;50
+e;355288;'frais exceptionnels';1;50
+e;355286;'frais divers';1;54
+e;355264;'frais de garde';1;50
+e;355247;'frais coupé';1;50
+e;353054;'extra frais';1;50
+e;337769;'aux frais de la maison';1;50
+e;384227;'tous frais payés';1;54
+e;355295;'frais supplémentaires';1;50
+e;355289;'frais financiers';1;50
+e;355287;'frais du jour';1;52
+e;355270;'frais de mission';1;50
+e;355268;'frais de maladie';1;50
+e;355266;'frais de gestion';1;50
+e;355256;'frais d'impression';1;50
+e;355251;'frais d'analyse';1;50
+e;336275;'argent frais';1;50
+e;330903;'frais d'expédition';1;50
+e;330902;'frais d'envoi';1;50
+e;263813;'extra-frais';1;50
+e;262399;'ultra-frais';1;50
+e;319441;'engager des frais';1;50
+e;319608;'gratuité des frais de port';1;50
+e;322177;'frais de scolarité';1;72
+e;239785;'au frais';1;12
+e;245939;'grand vent frais';1;50
+e;258995;'pas frais';1;16
+e;108474;'être frais émoulu';1;62
+e;216536;'note de frais';1;12
+e;228294;'produit frais';1;56
+e;228401;'goût frais';1;50
+e;232891;'frais d'hébergement';1;50
+e;235563;'frais de repas';1;2
+e;236874;'petit frais du Vercors';1;50
+e;238029;'garder au frais';1;4
+e;238175;'mettre au frais';1;58
+e;246032;'remboursement des frais';1;50
+e;250132;'frais médicaux';1;50
+e;251327;'rasé de frais';1;6
+e;251389;'oeuf frais';1;50
+e;254182;'frais de bouche';1;62
+e;254191;'frais de déplacement';1;4
+e;254348;'avis de grand frais';1;4
+e;254704;'frais de représentation';1;50
+e;254705;'frais réels';1;50
+e;254746;'frais d'escompte';1;50
+e;254749;'frais d'agence';1;50
+e;254805;'frais de séjour';1;50
+e;255306;'frais communs';1;50
+e;255307;'partager les frais';1;50
+e;255308;'frais partagés';1;50
+e;255545;'frais d'expertise';1;50
+e;255654;'frais d'avocat';1;50
+e;255655;'frais de justice';1;50
+e;257264;'rayon frais';1;46
+e;258211;'frais de succession';1;50
+e;258945;'couverture des frais';1;50
+e;260484;'lait frais';1;2
+e;260924;'thon frais';1;82
+e;101792;'beurre frais';1;82
+e;160871;'vent frais';1;84
+e;160953;'légume frais';1;70
+e;171303;'aux frais de la princesse';1;50
+e;208827;'teint frais';1;50
+e;213224;'hareng frais';1;50
+e;264056;'saumon frais';1;50
+e;264101;'Le Fond de l'air est frais';1;50
+e;266967;'haricot vert frais';1;50
+e;13199;'se mettre en frais';1;50
+e;36033;'frais de port';1;52
+e;55338;'frais et dispos';1;50
+e;158125;'croissant frais';1;62
+e;186182;'faire des frais';1;58
+e;195409;'à grands frais';1;50
+e;206164;'prendre le frais';1;50
+e;264074;'poisson frais';1;18
+e;264241;'rosé frais';1;2
+e;266503;'ail frais';1;50
+e;266514;'ananas frais';1;60
+e;266525;'basilic frais';1;50
+e;266539;'boeuf frais';1;50
+e;266867;'fromage frais nature';1;50
+e;267298;'gingembre frais';1;50
+e;267987;'frais de livraison';1;54
+e;268755;'frais d'entretien';1;50
+e;268994;'frais professionnels';1;50
+e;269092;'frais d'emprunt';1;50
+e;269324;'frais bancaires';1;50
+e;280429;'participation aux frais';777;50
+e;288472;'frais de dossier';1;4
+e;309428;'frais de notaires';777;50
+e;26008;'frais émoulu';1;58
+e;28910;'faux frais';1;52
+e;185508;'arrêter les frais';1;50
+e;186238;'faire les frais de';1;50
+e;190703;'frais de notaire';1;12
+e;190704;'frais de notaire réduits';1;50
+e;198350;'de frais';1;50
+e;199248;'en être pour ses frais';1;50
+e;200142;'être tout frais de';1;50
+e;22253;'fromage frais';1;110
+e;200455;'faire frais';1;58
+e;201207;'frais comme un gardon';1;52
+e;201208;'frais de transport';1;50
+e;6010;'apporter du sang frais';1;50
+r;310759997;53495;3748149;11;15
+r;310759998;53495;587157;11;15
+r;310759999;53495;587158;11;15
+r;310760000;53495;3748150;11;15
+r;302031751;53495;6357833;11;25
+r;303930413;53495;6381531;11;25
+r;304480555;53495;6387458;11;25
+r;304874053;53495;6392588;11;25
+r;305686135;53495;6417050;11;25
+r;316603569;53495;12183967;11;25
+r;318639885;53495;12233681;11;25
+r;318640141;53495;12233670;11;25
+r;318640245;53495;12233665;11;25
+r;318640267;53495;12233664;11;25
+r;318640395;53495;12233658;11;25
+r;318640525;53495;12233652;11;25
+r;318640621;53495;12233647;11;25
+r;318643257;53495;12233529;11;25
+r;318643319;53495;12233526;11;25
+r;318644539;53495;12233464;11;25
+r;318644653;53495;12233458;11;25
+r;318644691;53495;12233456;11;25
+r;318644729;53495;12233454;11;25
+r;318660920;53495;12232788;11;25
+r;318660944;53495;12232787;11;25
+r;318661015;53495;12232784;11;25
+r;340927265;53495;6287228;11;25
+r;341256489;53495;6417807;11;25
+r;366858109;53495;14452453;11;25
+r;366862606;53495;14452554;11;25
+r;366864568;53495;14452619;11;25
+r;366865531;53495;14452652;11;25
+r;366865757;53495;14452565;11;25
+r;366874779;53495;14452801;11;25
+r;366882423;53495;14452666;11;25
+r;366885463;53495;14453080;11;25
+r;366907549;53495;14453592;11;25
+r;366908977;53495;14453369;11;25
+r;366923001;53495;14453782;11;25
+r;366931048;53495;14454209;11;25
+r;366934078;53495;14454208;11;25
+r;366945288;53495;14454534;11;25
+r;366948349;53495;14454576;11;25
+r;366963314;53495;14454698;11;25
+r;371690257;53495;14632316;11;25
+r;433862444;53495;16491299;11;25
+r;93666237;53495;3757426;11;26
+r;93681779;53495;3755752;11;26
+r;93686467;53495;3755363;11;26
+r;318593849;53495;12235852;11;26
+r;368356410;53495;14506273;11;26
+r;374274366;53495;14720801;11;26
+r;375097620;53495;14755592;11;26
+r;393795252;53495;15038273;11;26
+r;423615557;53495;16163747;11;26
+r;93709454;53495;3752894;11;27
+r;315695273;53495;12116363;11;27
+r;316341515;53495;12200251;11;27
+r;119665277;53495;6088308;11;28
+r;119675543;53495;6082754;11;28
+r;315525883;53495;12105102;11;28
+r;318448136;53495;12240417;11;28
+r;318448169;53495;12240416;11;28
+r;61378887;53495;2484540;11;29
+r;419807162;53495;15287534;11;30
+r;419839392;53495;15331725;11;30
+r;279421763;53495;11028427;11;31
+r;279423698;53495;11028437;11;31
+r;279425137;53495;11028426;11;31
+r;318321203;53495;12241846;11;31
+r;419726301;53495;15523296;11;31
+r;419726567;53495;15536279;11;31
+r;419733475;53495;15225015;11;31
+r;419733509;53495;15225013;11;31
+r;423610714;53495;16163634;11;31
+r;434372626;53495;16491406;11;31
+r;52208116;53495;2374275;11;32
+r;53049544;53495;2387948;11;32
+r;419624673;53495;15761933;11;32
+r;419625238;53495;15276676;11;32
+r;419629133;53495;15582733;11;32
+r;419634241;53495;15389084;11;32
+r;419657218;53495;15417106;11;32
+r;419657540;53495;15401499;11;32
+r;419676991;53495;15411251;11;32
+r;115858609;53495;5913042;11;33
+r;115859947;53495;5911995;11;33
+r;419603104;53495;15527602;11;33
+r;419603736;53495;16036043;11;33
+r;419613631;53495;15387213;11;33
+r;419613771;53495;15345253;11;33
+r;419534020;53495;16074142;11;34
+r;419537631;53495;16074304;11;34
+r;419558233;53495;15762821;11;34
+r;110810926;53495;5622898;11;35
+r;263386236;53495;10559484;11;35
+r;291988103;53495;11362416;11;35
+r;291988107;53495;11362415;11;35
+r;314674267;53495;12076202;11;35
+r;315119728;53495;12079114;11;35
+r;315119732;53495;12079113;11;35
+r;419495925;53495;15571122;11;35
+r;419507206;53495;15221669;11;35
+r;315106507;53495;12081658;11;36
+r;253380101;53495;10341504;11;37
+r;271769952;53495;10847527;11;37
+r;318256256;53495;12243893;11;39
+r;318256335;53495;12243890;11;39
+r;318256389;53495;12243888;11;39
+r;318256416;53495;12243887;11;39
+r;318256497;53495;12243884;11;39
+r;318256547;53495;12243882;11;39
+r;241516617;53495;10186630;11;40
+r;283282962;53495;11147084;11;40
+r;289317359;53495;11302805;11;40
+r;318248697;53495;12244138;11;40
+r;318248768;53495;12244135;11;40
+r;318249022;53495;12244125;11;40
+r;241291895;53495;10186799;11;41
+r;52238388;53495;2378841;11;43
+r;54399424;53495;2416846;11;43
+r;109878899;53495;5557501;11;43
+r;122797162;53495;6693795;11;43
+r;287677662;53495;11219993;11;43
+r;338289925;53495;13297562;11;44
+r;284006263;53495;11158410;11;46
+r;95815955;53495;4085632;11;48
+r;432732794;53495;16381847;11;48
+r;50242942;53495;2363751;11;50
+r;122104605;53495;6595058;11;50
+r;149676916;53495;8570615;11;50
+r;190281940;53495;8853017;11;50
+r;193771877;53495;8961996;11;50
+r;214090293;53495;9491713;11;50
+r;397502942;53495;15395989;11;50
+r;414847496;53495;15401505;11;50
+r;395566900;53495;15422525;11;50
+r;402275009;53495;15270208;11;50
+r;418899109;53495;16072230;11;50
+r;14688972;53495;437455;11;51
+r;14689414;53495;437343;11;51
+r;14689422;53495;437342;11;51
+r;14690496;53495;437057;11;51
+r;14690504;53495;437056;11;51
+r;80837294;53495;3290693;11;51
+r;83639475;53495;3318470;11;51
+r;85863919;53495;3349463;11;51
+r;86132090;53495;3372049;11;51
+r;86135462;53495;3371611;11;51
+r;86147203;53495;3370185;11;51
+r;86147246;53495;3370181;11;51
+r;86152673;53495;3369532;11;51
+r;86160330;53495;3368662;11;51
+r;86230266;53495;3360314;11;51
+r;86247016;53495;3361416;11;51
+r;86252656;53495;3361676;11;51
+r;86255392;53495;3361809;11;51
+r;93471650;53495;3744831;11;51
+r;93586890;53495;3751135;11;51
+r;93585780;53495;3751005;11;51
+r;93630119;53495;3751294;11;51
+r;93631167;53495;3751458;11;51
+r;93648909;53495;3759284;11;51
+r;93649178;53495;3759255;11;51
+r;93651745;53495;3758959;11;51
+r;93653912;53495;3758742;11;51
+r;93659082;53495;3758202;11;51
+r;93659441;53495;3758164;11;51
+r;93663858;53495;3757685;11;51
+r;93667351;53495;3757306;11;51
+r;93669763;53495;3757047;11;51
+r;93670621;53495;3756960;11;51
+r;93670817;53495;3756937;11;51
+r;93672548;53495;3756744;11;51
+r;93673203;53495;3756664;11;51
+r;93673338;53495;3756653;11;51
+r;93674389;53495;3756543;11;51
+r;93676795;53495;3756272;11;51
+r;93677436;53495;3756207;11;51
+r;93680134;53495;3755918;11;51
+r;93692973;53495;3754639;11;51
+r;93694371;53495;3754493;11;51
+r;93698311;53495;3754077;11;51
+r;93701759;53495;3753727;11;51
+r;93702612;53495;3753638;11;51
+r;93703142;53495;3753580;11;51
+r;93704142;53495;3753470;11;51
+r;93707403;53495;3753116;11;51
+r;93712489;53495;3752563;11;51
+r;93713615;53495;3752444;11;51
+r;93714757;53495;3752323;11;51
+r;93715595;53495;3752226;11;51
+r;93717333;53495;3752034;11;51
+r;93720543;53495;3751691;11;51
+r;14688894;53495;437481;11;52
+r;14690080;53495;437160;11;52
+r;14690178;53495;437134;11;52
+r;14691382;53495;436831;11;52
+r;14691664;53495;436752;11;52
+r;18403267;53495;586399;11;52
+r;25075569;53495;1544323;11;52
+r;52482253;53495;2487243;11;52
+r;83647569;53495;3318698;11;52
+r;86137335;53495;3371379;11;52
+r;86139525;53495;3371119;11;52
+r;86140366;53495;3371019;11;52
+r;86184841;53495;3365733;11;52
+r;86187281;53495;3365503;11;52
+r;86194073;53495;3364753;11;52
+r;86201482;53495;3363737;11;52
+r;86210268;53495;3362649;11;52
+r;93464038;53495;3744367;11;52
+r;93499370;53495;3746062;11;52
+r;93501802;53495;3745770;11;52
+r;93622177;53495;3751268;11;52
+r;93630175;53495;3751339;11;52
+r;93630674;53495;3751363;11;52
+r;93631550;53495;3751047;11;52
+r;93648900;53495;3759285;11;52
+r;93651296;53495;3759004;11;52
+r;93656898;53495;3758433;11;52
+r;93673605;53495;3756625;11;52
+r;93683508;53495;3755579;11;52
+r;93689881;53495;3754987;11;52
+r;93695528;53495;3754368;11;52
+r;93697289;53495;3754183;11;52
+r;93701278;53495;3753776;11;52
+r;93702629;53495;3753636;11;52
+r;93703079;53495;3753587;11;52
+r;93703201;53495;3753573;11;52
+r;93706411;53495;3753222;11;52
+r;93709447;53495;3752895;11;52
+r;93711400;53495;3752674;11;52
+r;93712409;53495;3752571;11;52
+r;93717278;53495;3752041;11;52
+r;93717948;53495;3751974;11;52
+r;93718857;53495;3751876;11;52
+r;93719876;53495;3751761;11;52
+r;93983120;53495;3763657;11;52
+r;98580090;53495;4320949;11;52
+r;14689958;53495;437196;11;53
+r;14691190;53495;436879;11;53
+r;27495361;53495;1656666;11;53
+r;31755048;53495;1970580;11;53
+r;83074328;53495;3306105;11;53
+r;83637307;53495;3318401;11;53
+r;86138537;53495;3371238;11;53
+r;86156708;53495;3369022;11;53
+r;86158839;53495;3368819;11;53
+r;86160297;53495;3368665;11;53
+r;86166213;53495;3367948;11;53
+r;86172994;53495;3367131;11;53
+r;86174306;53495;3366968;11;53
+r;86188022;53495;3365432;11;53
+r;86227742;53495;3360209;11;53
+r;93463792;53495;3744357;11;53
+r;93585550;53495;3751067;11;53
+r;93597305;53495;3751090;11;53
+r;93651313;53495;3759003;11;53
+r;93652558;53495;3758872;11;53
+r;93657195;53495;3758399;11;53
+r;93657572;53495;3758361;11;53
+r;93666822;53495;3757360;11;53
+r;93671226;53495;3756896;11;53
+r;93673050;53495;3756678;11;53
+r;93676641;53495;3756288;11;53
+r;93679248;53495;3756017;11;53
+r;93680558;53495;3755879;11;53
+r;93682743;53495;3755654;11;53
+r;93683647;53495;3755563;11;53
+r;93687108;53495;3755292;11;53
+r;93692820;53495;3754655;11;53
+r;93693302;53495;3754606;11;53
+r;93695543;53495;3754367;11;53
+r;93699495;53495;3753957;11;53
+r;93704246;53495;3753458;11;53
+r;93705717;53495;3753302;11;53
+r;93707681;53495;3753089;11;53
+r;93709743;53495;3752860;11;53
+r;93709966;53495;3752835;11;53
+r;93713042;53495;3752502;11;53
+r;93713906;53495;3752416;11;53
+r;93716681;53495;3752108;11;53
+r;93718628;53495;3751904;11;53
+r;93720453;53495;3751702;11;53
+r;14690306;53495;437102;11;54
+r;14691398;53495;436827;11;54
+r;14691602;53495;436770;11;54
+r;29226373;53495;1781172;11;54
+r;83639384;53495;3318574;11;54
+r;86233000;53495;3360514;11;54
+r;86144956;53495;3370448;11;54
+r;86145510;53495;3370382;11;54
+r;86148664;53495;3370016;11;54
+r;86158689;53495;3368833;11;54
+r;86166454;53495;3367919;11;54
+r;86167805;53495;3367742;11;54
+r;86210778;53495;3362594;11;54
+r;86224542;53495;3359944;11;54
+r;86231337;53495;3360434;11;54
+r;86243400;53495;3361138;11;54
+r;93450874;53495;3743677;11;54
+r;93456228;53495;3743875;11;54
+r;93622418;53495;3751138;11;54
+r;93632515;53495;3751466;11;54
+r;93657944;53495;3758323;11;54
+r;93665225;53495;3757533;11;54
+r;93671068;53495;3756913;11;54
+r;93671888;53495;3756822;11;54
+r;93671893;53495;3756821;11;54
+r;93680584;53495;3755877;11;54
+r;93683346;53495;3755601;11;54
+r;93687595;53495;3755239;11;54
+r;93697879;53495;3754115;11;54
+r;93698746;53495;3754035;11;54
+r;93699248;53495;3753984;11;54
+r;93699769;53495;3753927;11;54
+r;93700714;53495;3753831;11;54
+r;93703688;53495;3753520;11;54
+r;93703903;53495;3753496;11;54
+r;93705413;53495;3753332;11;54
+r;93706675;53495;3753195;11;54
+r;93708705;53495;3752981;11;54
+r;93709057;53495;3752939;11;54
+r;93711055;53495;3752710;11;54
+r;93713063;53495;3752501;11;54
+r;93719454;53495;3751806;11;54
+r;99915684;53495;4470304;11;55
+r;14689522;53495;437318;11;55
+r;14690028;53495;437179;11;55
+r;14691472;53495;436806;11;55
+r;18300765;53495;583858;11;55
+r;25812542;53495;1637420;11;55
+r;27516750;53495;1657779;11;55
+r;83642450;53495;3318624;11;55
+r;86124603;53495;3359101;11;55
+r;86135447;53495;3371612;11;55
+r;86137142;53495;3371401;11;55
+r;86146146;53495;3370322;11;55
+r;86148212;53495;3370073;11;55
+r;86150249;53495;3369810;11;55
+r;86158703;53495;3368832;11;55
+r;86161118;53495;3368553;11;55
+r;86166549;53495;3367906;11;55
+r;86187043;53495;3365526;11;55
+r;86202147;53495;3363653;11;55
+r;86232173;53495;3360178;11;55
+r;86252805;53495;3361678;11;55
+r;86258496;53495;3361884;11;55
+r;86259232;53495;3361677;11;55
+r;91721273;53495;3692414;11;55
+r;93459648;53495;3743986;11;55
+r;93466340;53495;3744474;11;55
+r;93467613;53495;3744571;11;55
+r;93499605;53495;3746029;11;55
+r;93585006;53495;3751020;11;55
+r;93597646;53495;3751154;11;55
+r;93597764;53495;3751184;11;55
+r;93621525;53495;3751219;11;55
+r;93622312;53495;3751178;11;55
+r;93656719;53495;3758452;11;55
+r;93666768;53495;3757367;11;55
+r;93667864;53495;3757251;11;55
+r;93670133;53495;3757009;11;55
+r;93670338;53495;3756988;11;55
+r;93672104;53495;3756797;11;55
+r;93673388;53495;3756649;11;55
+r;93673720;53495;3756614;11;55
+r;93680892;53495;3755844;11;55
+r;93685485;53495;3757699;11;55
+r;93685604;53495;3755454;11;55
+r;93688803;53495;3755105;11;55
+r;93690561;53495;3754911;11;55
+r;93693282;53495;3754607;11;55
+r;93693446;53495;3754593;11;55
+r;93694097;53495;3754524;11;55
+r;93695756;53495;3754343;11;55
+r;93699572;53495;3753948;11;55
+r;93700520;53495;3753854;11;55
+r;93702799;53495;3753617;11;55
+r;93705614;53495;3753312;11;55
+r;93707534;53495;3753103;11;55
+r;93708832;53495;3752966;11;55
+r;93708852;53495;3752963;11;55
+r;93714142;53495;3752389;11;55
+r;93716175;53495;3752165;11;55
+r;93719462;53495;3751805;11;55
+r;93721791;53495;3751511;11;55
+r;14690434;53495;437073;11;56
+r;76472705;53495;3175145;11;56
+r;83070630;53495;3306060;11;56
+r;83651846;53495;3318642;11;56
+r;86137794;53495;3371320;11;56
+r;86138377;53495;3371253;11;56
+r;86155109;53495;3369216;11;56
+r;86203739;53495;3363469;11;56
+r;86204120;53495;3363429;11;56
+r;86224414;53495;3359922;11;56
+r;86259262;53495;3361846;11;56
+r;93456773;53495;3743895;11;56
+r;93494670;53495;3746637;11;56
+r;93503442;53495;3745566;11;56
+r;93504081;53495;3745488;11;56
+r;93651266;53495;3759006;11;56
+r;93652178;53495;3758913;11;56
+r;93654155;53495;3758713;11;56
+r;93656523;53495;3758475;11;56
+r;93658213;53495;3758294;11;56
+r;93659379;53495;3758171;11;56
+r;93660913;53495;3758011;11;56
+r;93661491;53495;3757945;11;56
+r;93664955;53495;3757566;11;56
+r;93674148;53495;3756568;11;56
+r;93678098;53495;3756136;11;56
+r;93681241;53495;3755808;11;56
+r;93688858;53495;3755099;11;56
+r;93689322;53495;3755051;11;56
+r;93695474;53495;3754372;11;56
+r;93700975;53495;3753806;11;56
+r;93703304;53495;3753563;11;56
+r;93706327;53495;3753232;11;56
+r;93710189;53495;3752808;11;56
+r;93714380;53495;3752363;11;56
+r;93717090;53495;3752063;11;56
+r;93717229;53495;3752045;11;56
+r;93717435;53495;3752025;11;56
+r;93717582;53495;3752008;11;56
+r;93717694;53495;3751997;11;56
+r;93718547;53495;3751912;11;56
+r;93719212;53495;3751837;11;56
+r;93719836;53495;3751766;11;56
+r;93720064;53495;3751743;11;56
+r;93984837;53495;3757048;11;56
+r;104963398;53495;5046038;11;56
+r;106824560;53495;5317933;11;56
+r;14689406;53495;437345;11;57
+r;14690778;53495;436985;11;57
+r;14691182;53495;436880;11;57
+r;14691672;53495;436751;11;57
+r;18193468;53495;581356;11;57
+r;25248190;53495;1568973;11;57
+r;85862336;53495;3349462;11;57
+r;86125073;53495;3359161;11;57
+r;86138917;53495;3371200;11;57
+r;86151948;53495;3369623;11;57
+r;86174345;53495;3366963;11;57
+r;86199234;53495;3364034;11;57
+r;86210790;53495;3362593;11;57
+r;86212192;53495;3362419;11;57
+r;86229035;53495;3360189;11;57
+r;86235948;53495;3360686;11;57
+r;86258291;53495;3361853;11;57
+r;93503974;53495;3745501;11;57
+r;93597608;53495;3751137;11;57
+r;93630349;53495;3751315;11;57
+r;93649080;53495;3759265;11;57
+r;93649392;53495;3759230;11;57
+r;93657345;53495;3758386;11;57
+r;93660801;53495;3758024;11;57
+r;93672419;53495;3756757;11;57
+r;93675718;53495;3756398;11;57
+r;93677480;53495;3756203;11;57
+r;93677696;53495;3756178;11;57
+r;93678409;53495;3756106;11;57
+r;93680782;53495;3755856;11;57
+r;93682372;53495;3755689;11;57
+r;93684346;53495;3755485;11;57
+r;93684520;53495;3755469;11;57
+r;93779731;53495;3755585;11;57
+r;93688229;53495;3755166;11;57
+r;93688694;53495;3755117;11;57
+r;93690719;53495;3754893;11;57
+r;93692010;53495;3754750;11;57
+r;93692884;53495;3754648;11;57
+r;93693319;53495;3754605;11;57
+r;93693939;53495;3754538;11;57
+r;93698063;53495;3754096;11;57
+r;93700320;53495;3753875;11;57
+r;93701434;53495;3753761;11;57
+r;93704281;53495;3753453;11;57
+r;93707342;53495;3753122;11;57
+r;93707625;53495;3753094;11;57
+r;93714953;53495;3752299;11;57
+r;93715868;53495;3752195;11;57
+r;93718134;53495;3751953;11;57
+r;93718584;53495;3751909;11;57
+r;93719303;53495;3751825;11;57
+r;93720825;53495;3751663;11;57
+r;93982997;53495;3763659;11;57
+r;104979444;53495;5035018;11;57
+r;14689914;53495;437207;11;58
+r;14690750;53495;436993;11;58
+r;14690806;53495;436979;11;58
+r;18193475;53495;581357;11;58
+r;34293636;53495;2339210;11;58
+r;61460765;53495;2681633;11;58
+r;61460767;53495;2681632;11;58
+r;86131975;53495;3372059;11;58
+r;86133529;53495;3371863;11;58
+r;86140179;53495;3371041;11;58
+r;86146108;53495;3370326;11;58
+r;86155171;53495;3369207;11;58
+r;86158516;53495;3368850;11;58
+r;86165853;53495;3367993;11;58
+r;86177030;53495;3366622;11;58
+r;86212853;53495;3362345;11;58
+r;86239388;53495;3360916;11;58
+r;86246472;53495;3361334;11;58
+r;86248482;53495;3361473;11;58
+r;93455749;53495;3743829;11;58
+r;93489213;53495;3745130;11;58
+r;93588082;53495;3751159;11;58
+r;93629330;53495;3751354;11;58
+r;93653152;53495;3758812;11;58
+r;93656752;53495;3758448;11;58
+r;93656852;53495;3758438;11;58
+r;93657321;53495;3758388;11;58
+r;93658557;53495;3758257;11;58
+r;93660575;53495;3758045;11;58
+r;93661735;53495;3757917;11;58
+r;93663850;53495;3757686;11;58
+r;93666760;53495;3757369;11;58
+r;93679929;53495;3755939;11;58
+r;93682391;53495;3755688;11;58
+r;93687120;53495;3755291;11;58
+r;93687192;53495;3755283;11;58
+r;93689755;53495;3755002;11;58
+r;93693819;53495;3754550;11;58
+r;93697229;53495;3754187;11;58
+r;93706649;53495;3753197;11;58
+r;93706859;53495;3753173;11;58
+r;93707373;53495;3753119;11;58
+r;93707437;53495;3753113;11;58
+r;93707742;53495;3753082;11;58
+r;93711581;53495;3752654;11;58
+r;93713151;53495;3752492;11;58
+r;93715268;53495;3752261;11;58
+r;93715462;53495;3752241;11;58
+r;93720778;53495;3751669;11;58
+r;105096168;53495;5061173;11;58
+r;14689064;53495;437432;11;59
+r;14689868;53495;437223;11;59
+r;14690492;53495;437058;11;59
+r;14690670;53495;437013;11;59
+r;34293640;53495;2339209;11;59
+r;83641851;53495;3318430;11;59
+r;86138820;53495;3371212;11;59
+r;86145414;53495;3370392;11;59
+r;86156303;53495;3369071;11;59
+r;86199287;53495;3364027;11;59
+r;93464366;53495;3744209;11;59
+r;93503355;53495;3745579;11;59
+r;93585308;53495;3751043;11;59
+r;93585587;53495;3751027;11;59
+r;93598241;53495;3750952;11;59
+r;93627510;53495;3751361;11;59
+r;93631424;53495;3751412;11;59
+r;93631689;53495;3751236;11;59
+r;93652407;53495;3758889;11;59
+r;93654048;53495;3758726;11;59
+r;93655817;53495;3758545;11;59
+r;93663410;53495;3757734;11;59
+r;93667880;53495;3757249;11;59
+r;93670072;53495;3757015;11;59
+r;93673435;53495;3756644;11;59
+r;93675604;53495;3756411;11;59
+r;93685833;53495;3755433;11;59
+r;93688118;53495;3755179;11;59
+r;93692164;53495;3754732;11;59
+r;93693980;53495;3754535;11;59
+r;93694164;53495;3754517;11;59
+r;93694946;53495;3754429;11;59
+r;93695138;53495;3754406;11;59
+r;93696841;53495;3754226;11;59
+r;93705500;53495;3753325;11;59
+r;93706432;53495;3753220;11;59
+r;93706539;53495;3753208;11;59
+r;93709595;53495;3752879;11;59
+r;93712432;53495;3752568;11;59
+r;93713550;53495;3752450;11;59
+r;93715759;53495;3752208;11;59
+r;93716381;53495;3752138;11;59
+r;93717266;53495;3752042;11;59
+r;93719349;53495;3751819;11;59
+r;14688886;53495;437482;11;60
+r;14691554;53495;436783;11;60
+r;18403286;53495;586400;11;60
+r;82632761;53495;3301137;11;60
+r;83670650;53495;3319608;11;60
+r;83674044;53495;3318816;11;60
+r;86128870;53495;3359329;11;60
+r;86139577;53495;3371112;11;60
+r;86144455;53495;3370513;11;60
+r;86152879;53495;3369505;11;60
+r;86172283;53495;3367201;11;60
+r;86187182;53495;3365513;11;60
+r;86210839;53495;3362587;11;60
+r;86225309;53495;3360017;11;60
+r;86228198;53495;3360190;11;60
+r;86254034;53495;3361685;11;60
+r;93648928;53495;3759282;11;60
+r;93649461;53495;3759201;11;60
+r;93649495;53495;3759199;11;60
+r;93650894;53495;3759047;11;60
+r;93654890;53495;3758637;11;60
+r;93655176;53495;3758608;11;60
+r;93655505;53495;3758578;11;60
+r;93661450;53495;3757950;11;60
+r;93663908;53495;3757680;11;60
+r;93667995;53495;3757240;11;60
+r;93678773;53495;3756065;11;60
+r;93682186;53495;3755708;11;60
+r;93683498;53495;3755580;11;60
+r;93690306;53495;3754936;11;60
+r;93691503;53495;3754811;11;60
+r;93692180;53495;3754730;11;60
+r;93692846;53495;3754652;11;60
+r;93696496;53495;3754258;11;60
+r;93701178;53495;3753787;11;60
+r;93701538;53495;3753751;11;60
+r;93702511;53495;3753648;11;60
+r;93704657;53495;3753411;11;60
+r;93712871;53495;3752522;11;60
+r;93714576;53495;3752342;11;60
+r;93718851;53495;3751877;11;60
+r;93720422;53495;3751706;11;60
+r;98867217;53495;4333466;11;60
+r;12546575;53495;388850;11;101
+r;12564613;53495;384226;11;101
+r;12681717;53495;355361;11;101
+r;12681991;53495;355291;11;101
+r;12682015;53495;355283;11;101
+r;12682019;53495;355282;11;101
+r;12682039;53495;355277;11;101
+r;12682087;53495;355265;11;101
+r;12682127;53495;355255;11;101
+r;12622193;53495;370054;11;102
+r;12682011;53495;355284;11;102
+r;12682079;53495;355267;11;102
+r;12682147;53495;355250;11;102
+r;12682151;53495;355249;11;102
+r;12692295;53495;352742;11;102
+r;12546789;53495;388793;11;103
+r;12600089;53495;375457;11;103
+r;12681985;53495;355294;11;103
+r;12681993;53495;355290;11;103
+r;12682007;53495;355285;11;103
+r;12682023;53495;355281;11;103
+r;12682165;53495;355245;11;103
+r;12746109;53495;339820;11;103
+r;12413613;53495;332559;11;104
+r;12587399;53495;378599;11;104
+r;12622551;53495;369983;11;104
+r;12630013;53495;368061;11;104
+r;12681127;53495;355504;11;104
+r;12681987;53495;355293;11;104
+r;12682071;53495;355269;11;104
+r;12682115;53495;355258;11;104
+r;12682131;53495;355254;11;104
+r;12767219;53495;334612;11;104
+r;12577521;53495;380935;11;105
+r;12580367;53495;380275;11;105
+r;12682035;53495;355278;11;105
+r;12682095;53495;355263;11;105
+r;12682099;53495;355262;11;105
+r;12682119;53495;355257;11;105
+r;12411647;53495;332532;11;106
+r;12609995;53495;373024;11;106
+r;12682043;53495;355276;11;106
+r;12682055;53495;355273;11;106
+r;12682135;53495;355253;11;106
+r;12685027;53495;354534;11;106
+r;12753939;53495;337936;11;106
+r;12754633;53495;337770;11;106
+r;12546639;53495;388833;11;107
+r;12546779;53495;388796;11;107
+r;12682047;53495;355275;11;107
+r;12682051;53495;355274;11;107
+r;12682059;53495;355272;11;107
+r;12682063;53495;355271;11;107
+r;12682107;53495;355260;11;107
+r;12682111;53495;355259;11;107
+r;12692261;53495;352748;11;107
+r;12677041;53495;356517;11;108
+r;12682027;53495;355280;11;108
+r;12682031;53495;355279;11;108
+r;12682103;53495;355261;11;108
+r;12682139;53495;355252;11;108
+r;12682153;53495;355248;11;108
+r;12682159;53495;355246;11;108
+r;12739159;53495;341481;11;108
+r;12652519;53495;362491;11;109
+r;12681989;53495;355292;11;109
+r;12681997;53495;355288;11;109
+r;12682003;53495;355286;11;109
+r;12682091;53495;355264;11;109
+r;12682155;53495;355247;11;109
+r;12691059;53495;353054;11;109
+r;12754635;53495;337769;11;109
+r;12564609;53495;384227;11;110
+r;12681983;53495;355295;11;110
+r;12681995;53495;355289;11;110
+r;12681999;53495;355287;11;110
+r;12682067;53495;355270;11;110
+r;12682075;53495;355268;11;110
+r;12682083;53495;355266;11;110
+r;12682123;53495;355256;11;110
+r;12682143;53495;355251;11;110
+r;12760557;53495;336275;11;110
+r;12030429;53495;330903;11;120
+r;12030433;53495;330902;11;120
+r;11850416;53495;263813;11;122
+r;11850494;53495;262399;11;122
+r;9030133;53495;319441;11;148
+r;9034524;53495;319608;11;148
+r;9095125;53495;322177;11;148
+r;8706358;53495;239785;11;160
+r;8709684;53495;245939;11;160
+r;8724902;53495;258995;11;160
+r;8607249;53495;108474;11;161
+r;8690336;53495;216536;11;161
+r;8697426;53495;228294;11;161
+r;8697492;53495;228401;11;161
+r;8701326;53495;232891;11;161
+r;8703141;53495;235563;11;161
+r;8704298;53495;236874;11;161
+r;8705187;53495;238029;11;161
+r;8705261;53495;238175;11;161
+r;8709796;53495;246032;11;161
+r;8713437;53495;250132;11;161
+r;8714903;53495;251327;11;161
+r;8714997;53495;251389;11;161
+r;8718052;53495;254182;11;161
+r;8718068;53495;254191;11;161
+r;8718326;53495;254348;11;161
+r;8718839;53495;254704;11;161
+r;8718841;53495;254705;11;161
+r;8718898;53495;254746;11;161
+r;8718903;53495;254749;11;161
+r;8718995;53495;254805;11;161
+r;8719635;53495;255306;11;161
+r;8719638;53495;255307;11;161
+r;8719639;53495;255308;11;161
+r;8719914;53495;255545;11;161
+r;8720083;53495;255654;11;161
+r;8720085;53495;255655;11;161
+r;8722472;53495;257264;11;161
+r;8723710;53495;258211;11;161
+r;8724816;53495;258945;11;161
+r;8726973;53495;260484;11;161
+r;8727607;53495;260924;11;161
+r;8604767;53495;101792;11;162
+r;8627118;53495;160871;11;162
+r;8627157;53495;160953;11;162
+r;8633700;53495;171303;11;162
+r;8682556;53495;208827;11;162
+r;8688714;53495;213224;11;162
+r;8731529;53495;264056;11;162
+r;8731603;53495;264101;11;162
+r;8734835;53495;266967;11;162
+r;8574372;53495;13199;11;163
+r;8581966;53495;36033;11;163
+r;8588696;53495;55338;11;163
+r;8625565;53495;158125;11;163
+r;8646231;53495;186182;11;163
+r;8659872;53495;195409;11;163
+r;8678023;53495;206164;11;163
+r;8731562;53495;264074;11;163
+r;8731777;53495;264241;11;163
+r;8734153;53495;266503;11;163
+r;8734175;53495;266514;11;163
+r;8734198;53495;266525;11;163
+r;8734227;53495;266539;11;163
+r;8734620;53495;266867;11;163
+r;8735228;53495;267298;11;163
+r;8735895;53495;267987;11;163
+r;8736571;53495;268755;11;163
+r;8736829;53495;268994;11;163
+r;8736929;53495;269092;11;163
+r;8737062;53495;269324;11;163
+r;8747815;53495;280429;11;163
+r;8756468;53495;288472;11;163
+r;8775347;53495;309428;11;163
+r;8578587;53495;26008;11;164
+r;8579582;53495;28910;11;164
+r;8644726;53495;185508;11;164
+r;8646358;53495;186238;11;164
+r;8653121;53495;190703;11;164
+r;8653123;53495;190704;11;164
+r;8664932;53495;198350;11;164
+r;8666414;53495;199248;11;164
+r;8667869;53495;200142;11;164
+r;8577243;53495;22253;11;165
+r;8668499;53495;200455;11;165
+r;8669985;53495;201207;11;165
+r;8669988;53495;201208;11;165
+r;8571962;53495;6010;11;168

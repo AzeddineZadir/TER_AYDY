@@ -1,0 +1,30 @@
+
+e;155458;'petit-déjeuner';1;250
+e;5794198;'marque de céréales de petit-déjeuner';1;0
+e;6705772;'prendre son petit-déjeuner';1;0
+e;6705657;'prendre le petit-déjeuner';1;0
+e;195313;'petit-déjeuner au lit';1;80
+e;262435;'prendre le petit-déjeuner au lit';1;50
+e;15263595;'Bon petit-déjeuner !';1;0
+e;15263599;'Bon petit-déjeuner.';1;0
+e;3359989;'cake du petit-déjeuner banane-chocolat';1;0
+e;4312948;'préparer le petit-déjeuner';1;8
+e;3746433;'smoothie pour le petit-déjeuner';1;0
+e;3368834;'salade de fruits simplissime du petit-déjeuner';1;0
+e;55222;'petit';1;3512
+e;47907;'petit déjeuner';1;568
+e;78845;'déjeuner';1;1334
+r;114452519;155458;5794198;11;29
+r;122934345;155458;6705772;11;32
+r;122932430;155458;6705657;11;32
+r;8659753;155458;195313;11;40
+r;8729269;155458;262435;11;42
+r;395010471;155458;15263595;11;50
+r;395010475;155458;15263599;11;50
+r;86216237;155458;3359989;11;51
+r;97760898;155458;4312948;11;53
+r;93496299;155458;3746433;11;57
+r;86158679;155458;3368834;11;59
+r;11856654;55222;155458;11;122
+r;11856656;47907;155458;11;122
+r;2286522;78845;155458;11;123

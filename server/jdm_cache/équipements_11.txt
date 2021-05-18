@@ -1,0 +1,130 @@
+
+e;148027;'équipements';1;50
+e;6303280;'gestion des équipements et fournitures d'hôpital';1;0
+e;6357919;'sécurité des équipements';1;0
+e;6326922;'gestion des équipements et fournitures hospitaliers';1;0
+e;14529977;'Les grands équipements';777;0
+e;16154626;'les équipements étant constants';777;0
+e;16574599;'équipements militaires';1;0
+e;10676546;'équipements de l'Armée suisse';777;0
+e;6435663;'déménagement et transfert d'équipements de santé';1;0
+e;15310763;'directive concernant les équipements sous pression';1;0
+e;10966027;'déploiement de forces et d'équipements militaires';1;0
+e;12311737;'directive 2014/68/UE du Parlement européen et du Conseil du 15 mai 2014 relative à l'harmonisation des législations des États membres concernant la mise à disposition sur le marché des équipements sous pression';777;0
+e;16160110;'Société anonyme de véhicules industriels et d'équipements mécaniques';777;0
+e;13783133;'ajusteur-électricien d'ascenseurs et d'équipements similaires';1;0
+e;13783134;'ajusteuse-électricienne d'ascenseurs et d'équipements similaires';1;0
+e;11996636;'équipements de laboratoire de biologie moléculaire';777;0
+e;12048832;'entretenir des équipements de nettoyage';1;0
+e;13448726;'équipements médicaux';1;0
+e;16180975;'Mise en marche des équipements et étalonnage des instruments';777;0
+e;12048826;'utiliser des équipements de protection individuelle';1;0
+e;12048796;'garantir la disponibilité d'équipements';1;0
+e;12049768;'sélectionner les équipements nécessaires pour les activités de déplacement';1;0
+e;12049762;'sélectionner les équipements photographiques';1;0
+e;12049678;'entretenir des équipements techniques';1;0
+e;12049873;'installer des équipements en temps opportun';1;0
+e;12049970;'tester des équipements électriques';1;0
+e;12050464;'superviser la maintenance régulière des équipements de cuisine';1;0
+e;12050413;'maintenir les équipements de cuisine à la température adéquate';1;0
+e;12050893;'gérer les inspections des équipements';1;0
+e;12040837;'utiliser des outils et équipements mathématiques';1;0
+e;12051218;'surveiller l'utilisation d'équipements militaires';1;0
+e;12051494;'entretenir des équipements';1;0
+e;12051569;'équipements de protection individuelle';1;0
+e;6446617;'fusion d'équipements de santé';1;0
+e;12052725;'utiliser des équipements photographiques';1;0
+e;12052746;'utiliser des équipements d'urgence';1;0
+e;12052734;'utiliser des équipements d'emballage';1;0
+e;12052811;'utiliser des équipements de déneigement';1;0
+e;12052812;'utiliser des équipements de manutention';1;0
+e;12052835;'utiliser des équipements de pompage';1;0
+e;12052830;'utiliser des équipements de télédétection';1;0
+e;12052931;'utiliser des équipements de forage';1;0
+e;12052941;'utiliser des équipements de joaillerie';1;0
+e;12052846;'utiliser des équipements de ramonage';1;0
+e;12052841;'utiliser des équipements de carottage';1;0
+e;12052999;'utiliser des équipements de mesures optiques';1;0
+e;12053078;'utiliser des équipements de traitement d'emballages';1;0
+e;12052985;'utiliser des équipements de mesure scientifique';1;0
+e;12053095;'utiliser des équipements de signalisation de trains';1;0
+e;12052943;'utiliser des équipements de communication';1;0
+e;12053066;'utiliser des équipements lourds en aquaculture';1;0
+e;12052958;'utiliser des équipements de diagnostic automobile';1;0
+e;12052932;'utiliser des équipements de signalisation';1;0
+e;12052975;'utiliser des équipements de communication maritime';1;0
+e;5806679;'équipements de l'Armée de terre française';777;0
+e;5712793;'Les équipements d'interconnexion d'un réseau informatique';777;0
+e;6002675;'case à équipements';777;0
+e;13760563;'2c équipements médicaux divers';1;0
+e;3053815;'sous-équipements';1;0
+e;740110;'liste des instruments et équipements scientifiques';777;0
+e;1662781;'déchets d'équipements électriques et électroniques';777;0
+e;2969121;'ensemble d'équipements';1;0
+e;5339037;'équipements de protection';1;0
+e;182316;'équipements intégrés';1;50
+e;131877;'équipements de transmission';1;50
+r;299339445;148027;6303280;11;25
+r;302030883;148027;6357919;11;25
+r;341015035;148027;6326922;11;25
+r;368626612;148027;14529977;11;25
+r;423701394;148027;16154626;11;25
+r;435549896;148027;16574599;11;25
+r;270769514;148027;10676546;11;27
+r;121566786;148027;6435663;11;30
+r;419783002;148027;15310763;11;30
+r;276845484;148027;10966027;11;31
+r;319802865;148027;12311737;11;31
+r;434362958;148027;16160110;11;33
+r;419584687;148027;13783133;11;34
+r;419584877;148027;13783134;11;34
+r;312704374;148027;11996636;11;35
+r;313623509;148027;12048832;11;35
+r;341331610;148027;13448726;11;35
+r;425201225;148027;16180975;11;35
+r;313625886;148027;12048826;11;36
+r;313626548;148027;12048796;11;36
+r;313671392;148027;12049768;11;36
+r;313672897;148027;12049762;11;36
+r;313676103;148027;12049678;11;36
+r;313679009;148027;12049873;11;36
+r;313688337;148027;12049970;11;36
+r;313692632;148027;12050464;11;36
+r;313693382;148027;12050413;11;36
+r;313704868;148027;12050893;11;36
+r;313552023;148027;12040837;11;37
+r;313725900;148027;12051218;11;37
+r;313727596;148027;12051494;11;37
+r;313729348;148027;12051569;11;37
+r;121468649;148027;6446617;11;39
+r;313735575;148027;12052725;11;40
+r;313736229;148027;12052746;11;40
+r;313736511;148027;12052734;11;40
+r;313736773;148027;12052811;11;40
+r;313736944;148027;12052812;11;40
+r;313737439;148027;12052835;11;40
+r;313738652;148027;12052830;11;40
+r;313738902;148027;12052931;11;40
+r;313739032;148027;12052941;11;40
+r;313739254;148027;12052846;11;40
+r;313740752;148027;12052841;11;40
+r;313741521;148027;12052999;11;40
+r;313742188;148027;12053078;11;40
+r;313743510;148027;12052985;11;40
+r;313743850;148027;12053095;11;40
+r;313744065;148027;12052943;11;40
+r;313744141;148027;12053066;11;40
+r;313744507;148027;12052958;11;40
+r;313744988;148027;12052932;11;40
+r;313746751;148027;12052975;11;40
+r;113292112;148027;5806679;11;42
+r;112174837;148027;5712793;11;43
+r;118533428;148027;6002675;11;45
+r;348984638;148027;13760563;11;50
+r;74946659;148027;3053815;11;53
+r;19645008;148027;740110;11;55
+r;27630296;148027;1662781;11;57
+r;73583235;148027;2969121;11;61
+r;106940098;148027;5339037;11;63
+r;8639913;148027;182316;11;163
+r;8615603;148027;131877;11;164

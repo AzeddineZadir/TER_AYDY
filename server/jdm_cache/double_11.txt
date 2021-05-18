@@ -1,0 +1,2096 @@
+
+e;143934;'double';1;390
+e;10423743;'triple-double';777;0
+e;6285735;'coronaropathie double vaisseau';1;0
+e;6286375;'collage dentaire par double polymérisation';1;0
+e;6289612;'entéroscopie à double ballon';1;0
+e;6290990;'phosphatases à double spécificité';1;0
+e;6293418;'hémoglobinose double hétérozygote se';1;0
+e;6298460;'acide ribonucléique double brin';1;0
+e;6301038;'paracousie double';1;0
+e;6307433;'absorptiométrie radiologique à double énergie';1;0
+e;6310165;'absorptiométrie radiographique en double énergie';1;0
+e;6311336;'ventricule droit à double issue avec communication interventriculaire subaortique';1;0
+e;6314449;'étude en double aveugle';1;0
+e;6316619;'techniques de double hybride inversé';1;0
+e;6323069;'pterygium double';1;0
+e;6328204;'absorptiométrie à rayons x en double énergie';1;0
+e;6337881;'double résonance électronique et nucléaire';1;0
+e;6341905;'vih à double tropisme positif';1;0
+e;6346907;'ptérygion double';1;0
+e;6347363;'absorptiométrie à rayons x à double énergie';1;0
+e;6363054;'hémoglobinose double hétérozygote sc';1;0
+e;6364102;'athétose double';1;0
+e;6364202;'double circulaire cervicale';1;0
+e;6366522;'urètre double';1;0
+e;6370147;'ventricule droit à double issue avec communication interventriculaire à distance des gros vaisseaux';1;0
+e;6372979;'techniques de double hybride chez la levure';1;0
+e;6373877;'utérus double affectant la grossesse';1;0
+e;6376157;'ventricule à double issue';1;0
+e;6378532;'uretère double';1;0
+e;6379275;'protéines télomériques à double brin';1;0
+e;6380061;'stm en double choc';1;0
+e;6380177;'dédoublement du vagin avec utérus double et duplication du col';1;0
+e;6381255;'méthode en double aveugle';1;0
+e;6384319;'ventricule droit à double issue avec communication interventriculaire sous-pulmonaire';1;0
+e;6383845;'transit baryté en double contraste sai normal';1;0
+e;6388636;'technologie de double hybride';1;0
+e;6394130;'amazone à double tête jaune';1;0
+e;6400384;'personnalité double';1;0
+e;6406293;'entérectomie avec entérostomie à double canons';1;0
+e;6411518;'hémoglobinose double hétérozygote sd';1;0
+e;6412975;'voix bitonale - voix double';1;0
+e;6413323;'baryum en double contraste';1;0
+e;6414331;'ventricule droit à double issue avec communication interventriculaire sous-aortique';1;0
+e;6415532;'utérus double avec duplication du col et du vagin';1;0
+e;6420559;'ventricule gauche à double issue';1;0
+e;12185118;'détermination de la présence de rotavirus arn double brin';1;0
+e;12185115;'identification de rotavirus arn double brin';1;0
+e;6316679;'monstre double';1;0
+e;6374639;'transit baryté en double contraste sai anormal';1;0
+e;13590605;'cassures double brin';777;0
+e;13731658;'album double';777;0
+e;6404106;'double diagnostic';1;0
+e;6399340;'test de double hybride chez la levure';1;0
+e;14012945;'double dames de badminton aux Jeux olympiques d'été de 2012';777;0
+e;14012959;'double mixte de badminton aux Jeux olympiques d'été de 2016';777;0
+e;14012957;'double mixte de badminton aux Jeux olympiques d'été de 2012';777;0
+e;14012930;'double hommes de badminton aux Jeux olympiques d'été de 2012';777;0
+e;14012949;'double dames de badminton aux Jeux olympiques d'été de 2016';777;0
+e;14069893;'turboréacteur double flux, double-corps';1;0
+e;14094260;'potentiel de double couche';777;0
+e;14152732;'quadruple-double';777;0
+e;14355953;'double dames de l'édition 1940 des championnats de tennis d'Australie';777;0
+e;14452597;'double degré de juridiction';1;0
+e;14452990;'double signification';1;0
+e;14596285;'égalités du double produit vectoriel';777;0
+e;14610049;'double courbure thoracique';1;0
+e;14636124;'double palimpseste';777;0
+e;14637166;'double paroi de béton';1;0
+e;14637443;'pirogue à double coque';777;0
+e;14904997;'lettres double barre';777;0
+e;15392730;'tanker à double coque';1;0
+e;15392729;'navire-citerne à double coque';1;0
+e;15398695;'message à double sens';1;0
+e;15780933;'type double';1;0
+e;15801576;'essai clinique en double aveugle';1;0
+e;15801575;'essais cliniques en double aveugle';1;0
+e;15846086;'sac à double paroi';1;0
+e;16086539;'turboréacteurs à double flux';777;0
+e;6287129;'voix double';1;0
+e;6301338;'étude à double insu';1;0
+e;6306348;'double pontage vasculaire';1;0
+e;6316593;'transit baryté en double contraste anormal';1;0
+e;6348823;'isomérases double liaison carbone-carbone';1;0
+e;6357793;'double circulaire du cordon ombilical';1;0
+e;6383785;'double uretère';1;0
+e;6395353;'double hétérozygotie drépanocytaire';1;0
+e;6401803;'double polymérisation de ciments dentaires';1;0
+e;12116620;'spermatozoïdes à tête double';1;0
+e;6362807;'absorptiométrie double énergie à rayons x';1;0
+e;6386620;'méat urinaire double';1;0
+e;14307630;'être garé en double file';1;0
+e;14488616;'double burger';1;0
+e;14535442;'double tapis roulant';1;0
+e;14563677;'faire faire un double de clé';1;0
+e;14602951;'turboréacteur double flux et double corps à haut taux de dilution';1;0
+e;14670138;'double cheese';1;4
+e;14716517;'s'enfermer à double tour';1;0
+e;14716923;'essai randomisé en double aveugle';1;16
+e;6430839;'méthode de double hybride';1;0
+e;10676769;'séance double';777;0
+e;10676768;'double programme';777;0
+e;10623255;'Maigrichon et Gras double';777;0
+e;12116606;'spermatozoïdes à flagelle double';1;0
+e;12088856;'adn double brin';1;0
+e;5712553;'double authentification';777;0
+e;6087891;'Quatre ou double';777;0
+e;10732237;'double dames de l'édition 1949 des Internationaux de France de tennis';777;0
+e;10878745;'double mixte de l'édition 2000 de l'US Open de tennis';777;0
+e;10878744;'double messieurs de l'édition 2000 de l'US Open de tennis';777;0
+e;10878741;'double messieurs de l'édition 2000 de l'Open d'Australie';777;0
+e;10878657;'double dames de l'édition 2000 des compétitions de tennis aux Jeux olympiques d'été';777;0
+e;10878509;'double mixte de l'édition 2000 du tournoi de Wimbledon';777;0
+e;10878508;'double dames de l'édition 2001 de l'US Open de tennis';777;0
+e;10878348;'double messieurs de l'édition 2003 de l'Open d'Australie';777;0
+e;10878347;'double messieurs de l'édition 2002 des Internationaux de France de tennis';777;0
+e;10878335;'double messieurs de l'édition 2004 de l'US Open de tennis';777;0
+e;10878333;'double messieurs de l'édition 2002 de l'Open d'Australie';777;0
+e;10877641;'double dames de l'édition 1988 des compétitions de tennis aux Jeux olympiques d'été';777;0
+e;10877639;'double dames de l'édition 1968 des compétitions de tennis aux Jeux olympiques d'été';777;0
+e;10877604;'double dames de l'édition 1996 des compétitions de tennis aux Jeux olympiques d'été';777;0
+e;10877601;'double dames de l'édition 1992 des compétitions de tennis aux Jeux olympiques d'été';777;0
+e;10877539;'double mixte de l'édition 1990 des Internationaux de France de tennis';777;0
+e;10877538;'double mixte de l'édition 1992 de l'US Open de tennis';777;0
+e;10877352;'double mixte de l'édition 1991 de l'Open d'Australie';777;0
+e;10877351;'double mixte de l'édition 1987 du tournoi de Wimbledon';777;0
+e;10877191;'double messieurs de l'édition 1992 des compétitions de tennis aux Jeux olympiques d'été';777;0
+e;10877190;'double messieurs de l'édition 1904 des compétitions de tennis aux Jeux olympiques d'été';777;0
+e;10877189;'double messieurs de l'édition 1900 des compétitions de tennis aux Jeux olympiques d'été';777;0
+e;10877188;'double messieurs de l'édition 1896 des compétitions de tennis aux Jeux olympiques d'été';777;0
+e;10877187;'double messieurs de l'édition 1968 des compétitions de tennis aux Jeux olympiques d'été';777;0
+e;10877186;'double messieurs de l'édition 1906 des compétitions de tennis aux Jeux olympiques d'été';777;0
+e;10877077;'double mixte de l'édition 1991 de l'US Open de tennis';777;0
+e;10877075;'double mixte de l'édition 1987 de l'US Open de tennis';777;0
+e;10877074;'double mixte de l'édition 1987 des Internationaux de France de tennis';777;0
+e;10877072;'double messieurs de l'édition 1988 des compétitions de tennis aux Jeux olympiques d'été';777;0
+e;10876806;'double mixte de l'édition 1998 de l'Open d'Australie';777;0
+e;10876805;'double mixte de l'édition 1995 de l'US Open de tennis';777;0
+e;10876803;'double mixte de l'édition 1995 du tournoi de Wimbledon';777;0
+e;10876801;'double mixte de l'édition 1995 de l'Open d'Australie';777;0
+e;10876799;'double mixte de l'édition 1997 du tournoi de Wimbledon';777;0
+e;10876798;'double mixte de l'édition 1996 du tournoi de Wimbledon';777;0
+e;10876796;'double mixte de l'édition 1992 du tournoi de Wimbledon';777;0
+e;10876794;'double mixte de l'édition 1991 des Internationaux de France de tennis';777;0
+e;10876709;'double mixte de l'édition 1991 du tournoi de Wimbledon';777;0
+e;10876707;'double mixte de l'édition 1990 de l'Open d'Australie';777;0
+e;10876706;'double mixte de l'édition 1989 du tournoi de Wimbledon';777;0
+e;10876705;'double mixte de l'édition 1989 de l'Open d'Australie';777;0
+e;10876703;'double mixte de l'édition 1988 de l'US Open de tennis';777;0
+e;10876702;'double mixte de l'édition 1988 de l'Open d'Australie';777;0
+e;10876105;'double mixte de l'édition 2011 du tournoi de Wimbledon';777;0
+e;10876104;'double mixte de l'édition 2008 de l'Open d'Australie';777;0
+e;10876102;'double mixte de l'édition 2003 des Internationaux de France de tennis';777;0
+e;10876100;'double mixte de l'édition 1998 du tournoi de Wimbledon';777;0
+e;10876098;'double mixte de l'édition 2012 des Internationaux de France de tennis';777;0
+e;10876095;'double mixte de l'édition 2009 de l'Open d'Australie';777;0
+e;10876094;'double mixte de l'édition 2006 de l'Open d'Australie';777;0
+e;10876093;'double mixte de l'édition 2005 du tournoi de Wimbledon';777;0
+e;10876092;'double mixte de l'édition 1999 de l'US Open de tennis';777;0
+e;10876091;'double mixte de l'édition 1997 des Internationaux de France de tennis';777;0
+e;10876069;'double messieurs de l'édition 1999 de l'US Open de tennis';777;0
+e;10876062;'double messieurs de l'édition 2002 de l'US Open de tennis';777;0
+e;10876056;'double messieurs de l'édition 2001 des Internationaux de France de tennis';777;0
+e;10876052;'double messieurs de l'édition 1999 des Internationaux de France de tennis';777;0
+e;12105395;'rotavirus arn double brin';1;0
+e;10674608;'prénom double masculin';1;0
+e;12240958;'identification de rotavirus arn double brin | Électrophorèse gel de polyacrylamide | selles | ponctuel | résultat nominal | identification';1;0
+e;12240957;'identification de rotavirus arn double brin | Électrophorèse gel de polyacrylamide | isolat | ponctuel | résultat nominal | identification';1;0
+e;13032407;'réacteur double flux double-corps';1;0
+e;16323253;'double accès';1;0
+e;16323251;'double commande';1;0
+e;16361824;'double journée';777;0
+e;16508170;'double liaison C=C';1;0
+e;16345377;'double saisie';1;0
+e;16180846;'double ton de traube';1;0
+e;16171797;'double-bémol';777;0
+e;16171800;'double-dièse';777;0
+e;2380681;'double-macreuse';1;0
+e;2427612;'double-souligner';1;0
+e;2459296;'re-double-cliquer';1;0
+e;2460312;'double-licencier';1;0
+e;2479057;'double-catégoriser';1;0
+e;5805820;'Guyot double';777;0
+e;9957721;'double monarchie';777;0
+e;10909031;'double mixte de l'édition 1962 du tournoi de Wimbledon';777;0
+e;10909018;'double dames de l'édition 1958 du tournoi de Wimbledon';777;0
+e;10909016;'double dames de l'édition 1951 du tournoi de Wimbledon';777;0
+e;10909014;'double dames de l'édition 1950 des Internationaux de France de tennis';777;0
+e;10909013;'double dames de l'édition 1947 du tournoi de Wimbledon';777;0
+e;10909008;'double dames de l'édition 1954 du tournoi de Wimbledon';777;0
+e;10909006;'double dames de l'édition 1950 du tournoi de Wimbledon';777;0
+e;10909005;'double dames de l'édition 1949 du tournoi de Wimbledon';777;0
+e;10909003;'double dames de l'édition 1948 du tournoi de Wimbledon';777;0
+e;10909000;'double dames de l'édition 1947 des Internationaux de France de tennis';777;0
+e;10908999;'double dames de l'édition 1946 des Internationaux de France de tennis';777;0
+e;10908998;'double dames de l'édition 1946 du tournoi de Wimbledon';777;0
+e;10903039;'balles à double jeu';777;0
+e;10903038;'double play';777;0
+e;12320545;'double énonciation';777;0
+e;13032348;'turboréacteur double flux mélangés';1;0
+e;13032354;'turboréacteur double flux avec soufflante';1;0
+e;13032357;'turboréacteur double flux avec grande soufflante';1;0
+e;15388020;'coûter le double';1;0
+e;15403591;'dans le double but de';1;0
+e;16043221;'demi-double';1;0
+e;15295335;'densité double';1;0
+e;15295345;'disquette double densité';1;0
+e;15462898;'disquette double face';1;0
+e;15316908;'double affichage';1;0
+e;15367064;'double approche';1;0
+e;15769842;'double citoyenneté';1;0
+e;15326620;'double clic';1;0
+e;15245260;'double cliqu';1;0
+e;15340251;'double cliquer';1;0
+e;15312576;'double coeur';1;0
+e;15319543;'double cognac';1;0
+e;15359377;'double cotation';1;0
+e;15306256;'double coup de malchance';1;0
+e;15769844;'double cursus';1;0
+e;15769833;'double de';1;0
+e;15432813;'double de clef';1;0
+e;15695640;'double de l'holotype';777;0
+e;15594259;'double du prix normal';1;0
+e;15326065;'double décomposition';1;0
+e;15271487;'double défenseur';1;0
+e;15375297;'double détecteur pour ionisation par flamme';1;0
+e;15526682;'double enjeu';1;0
+e;15252015;'double expresso';1;0
+e;15300900;'double frappe';1;0
+e;15292432;'double imposition';1;0
+e;15491229;'double interligne';1;0
+e;15433282;'double lecture';1;0
+e;15485014;'double liaison cis';1;0
+e;15373443;'double majeure';1;0
+e;15340635;'double occupation de cellule';1;0
+e;15277959;'double octet';1;0
+e;15248463;'double page centrale';1;0
+e;15221571;'double pensée';1;0
+e;15527611;'double porte vitrée';1;0
+e;15488687;'double portion';1;0
+e;15264284;'double précision';1;0
+e;15786836;'double pénétration anale';777;0
+e;15786835;'double pénétration vaginale';777;0
+e;15488689;'double ration';1;0
+e;15372039;'double ronde';1;0
+e;6344013;'double résonance électronique-nucléaire';1;0
+e;15373445;'double spécialisation';1;0
+e;13773957;'double step gait - sec';1;0
+e;15269753;'double séjour';1;0
+e;15291373;'double tierce';1;0
+e;15411002;'double vasque';1;0
+e;15319082;'double équerre';1;0
+e;14639262;'double-action';1;0
+e;16043997;'double-as';1;0
+e;14716927;'double-aveugle';1;0
+e;16043998;'double-blanc';1;0
+e;15513687;'double-bêchage';1;0
+e;16043999;'double-caponnière';1;0
+e;16044000;'double-choeur';1;0
+e;16044001;'double-cinq';1;0
+e;16044003;'double-deux';1;0
+e;16044004;'double-doublet';1;0
+e;16044002;'double-dé';1;0
+e;16044005;'double-hunier';1;0
+e;12301122;'double-monarchie';777;0
+e;16044006;'double-pli';1;0
+e;14127099;'double-pont';1;0
+e;16044007;'double-quatre';1;0
+e;15769855;'double-rideau';1;0
+e;16044008;'double-scull';1;0
+e;16044009;'double-toile';1;0
+e;16035211;'double-torsion';1;0
+e;16044010;'double-trois';1;0
+e;16044011;'double-un';1;0
+e;12087304;'double-il';1;0
+e;15291748;'doué de double vue';1;0
+e;15363109;'droit de vote double';1;0
+e;15769857;'du simple au double';1;0
+e;15411502;'décodage du code en double aveugle';1;0
+e;16133112;'double factorielle';777;0
+e;16135879;'délires en partie double';777;0
+e;16161546;'deux double membranes';777;0
+e;16167450;'double à droite';777;0
+e;16167449;'double à gauche';777;0
+e;16276332;'double aubier';777;0
+e;16315740;'double liaison carbone-carbone';1;0
+e;16420061;'double canne';777;0
+e;16325609;'coude double';1;0
+e;2392339;'double-sens';1;0
+e;5828746;'Donald et son double';777;0
+e;5815977;'double pas';777;0
+e;5812570;'sel double';1;0
+e;6436822;'scanner d'absorptiométrie à rayons x en double énergie';1;0
+e;6423137;'soins maternels pour utérus double';1;0
+e;10962782;'membrane à double couche lipidique';1;0
+e;10962793;'virus à ARN double brin';1;0
+e;10992657;'verrouillage à double test';777;0
+e;11030532;'revolver à double action';1;0
+e;11050072;'double déficit';777;0
+e;11050519;'avion d'affaires à double réacteurs';1;0
+e;11782589;'double couche électrique';777;0
+e;11978412;'double-stack';777;0
+e;14611446;'double-poney';1;0
+e;14668527;'double-positifs';1;0
+e;14739726;'double-bidet';1;0
+e;14778157;'double-attentat';777;0
+e;15958804;'double articulation fémoro-tibiale';1;0
+e;12683246;'double-effet';1;0
+e;15525408;'classe à double niveau';1;0
+e;15330037;'clé double de chiffrement de clés notarisée';1;0
+e;15639678;'combe double';777;0
+e;15399388;'commutateur à double rangée de broches';1;0
+e;15307405;'comptabillité en partie double';1;0
+e;15503546;'condenseur à double tube';1;0
+e;15332192;'corde à double';1;0
+e;1832332;'fracture à double étage';1;0
+e;2371702;'double-bouche';1;0
+e;2407867;'double-fonds';1;0
+e;2424744;'chauffe-double';1;0
+e;2430799;'double-chaloupe';1;0
+e;2453865;'double-litre';1;0
+e;2492492;'double-canon';1;0
+e;5669467;'Colombar à double collier';777;0
+e;5691498;'Araçari à double collier';777;0
+e;5684931;'Pagre double bande';777;0
+e;6430409;'transit baryté en double contraste normal';1;0
+e;10011859;'L'Amant double';777;0
+e;10011771;'double débrayage';777;0
+e;10954829;'élément automoteur double';777;0
+e;10911130;'double tournoi';777;0
+e;5903966;'double-queue';1;0
+e;6084501;'double-cortine';1;0
+e;11754963;'double désintégration bêta';777;0
+e;11776803;'double messieurs de l'édition 2018 du tournoi de Wimbledon';777;0
+e;11776840;'double mixte de l'édition 2018 du tournoi de Wimbledon';777;0
+e;11776801;'double messieurs de l'édition 2018 de l'Open d'Australie';777;0
+e;11776837;'double mixte de l'édition 2018 de l'Open d'Australie';777;0
+e;11776841;'double mixte de l'édition 2018 de l'US Open de tennis';777;0
+e;11776838;'double mixte de l'édition 2018 des Internationaux de France de tennis';777;0
+e;11776804;'double messieurs de l'édition 2018 de l'US Open de tennis';777;0
+e;11776964;'palmarès du double messieurs des internationaux d'Australie';777;0
+e;11776802;'double messieurs de l'édition 2018 des Internationaux de France de tennis';777;0
+e;11776935;'double messieurs de l'édition 2017 du tournoi de Wimbledon';777;0
+e;11777292;'double mixte de l'édition 2016 de l'Open d'Australie';777;0
+e;11777296;'double messieurs de l'édition 2016 du tournoi de Wimbledon';777;0
+e;11777297;'double mixte de l'édition 2016 du tournoi de Wimbledon';777;0
+e;11777300;'double messieurs de l'édition 2016 de l'US Open de tennis';777;0
+e;11777294;'double mixte de l'édition 2016 des Internationaux de France de tennis';777;0
+e;11777301;'double mixte de l'édition 2016 de l'US Open de tennis';777;0
+e;11781394;'double référendum constitutionnel';777;0
+e;10992733;'double-checked';1;0
+e;14535118;'double-hélice';1;0
+e;15769839;'avoir en double';1;0
+e;15262072;'avoir la double nationalité';1;0
+e;15245843;'avoir une double casquette';1;0
+e;15216521;'bague extérieure double';1;0
+e;15543758;'biellette à double effet';1;0
+e;15312029;'bobine acoustique double';1;0
+e;15321876;'bretelle double';1;0
+e;15498111;'bus double decker';1;0
+e;15760633;'c'est quitte ou double';1;0
+e;15347297;'carte co-brandée à double vignette';1;0
+e;15214173;'casserole à double fond';1;0
+e;15388078;'changeur de fréquence double';1;0
+e;1832331;'technique du double contraste';1;0
+e;2429182;'double-front';1;0
+e;5673827;'classification double';777;0
+e;5817069;'double triode';1;0
+e;6444069;'pontage double entre l'artère mammaire interne et l'artère coronaire';1;0
+e;6429335;'stimulation magnétique transcrânienne par choc double';1;0
+e;10621332;'double monarchie suédo-norvégienne';777;0
+e;10734598;'monastère double';777;0
+e;6313462;'bassin ilio-fémoral double';1;0
+e;11901261;'double attentat du marathon de Boston';777;0
+e;15295349;'aorte double';1;0
+e;15361575;'apostrophe double';1;0
+e;15483355;'article en double page';1;0
+e;15339362;'atteinte coronaire double';1;0
+e;1827982;'arc aortique double';1;0
+e;1831761;'dépression double';1;0
+e;5960364;'sophisme de la double faute';777;0
+e;5955761;'ferme à poinçon double';777;0
+e;6068227;'affaire du double suicide amoureux de la pagode de Yanaka';777;0
+e;6430634;'phosphatase à double spécificité de type i';1;0
+e;11080879;'double dissimilarité';777;0
+e;12061687;'double hélice de l'ADN';1;0
+e;12079326;'hache à double tranchant';1;0
+e;12078575;'double trait';1;0
+e;12078573;'double personnalité';1;0
+e;12078570;'double corde';1;0
+e;15585231;'VMC double flux';1;0
+e;15501316;'action à vote double';1;0
+e;15456945;'aller du simple au double';1;0
+e;15483348;'annonce double page';1;0
+e;1832334;'double triaxe de Bailey';1;0
+e;1832333;'double hybride';1;0
+e;1832335;'chromosome double Y';1;0
+e;5562462;'double commutant';777;0
+e;5573206;'double-décimètre';1;8
+e;5805094;'théorie de la communication à double étage';777;0
+e;10041824;'pont au double';777;0
+e;10850122;'double censure';777;0
+e;12005070;'double incrimination';777;0
+e;12076506;'double référendum';777;0
+e;12080891;'poudre à double base';1;0
+e;12078662;'écran à double affichage';1;0
+e;12078574;'double tournois';1;0
+e;12078572;'double narine';1;0
+e;12078571;'double dong';1;0
+e;12078569;'double caisse';1;0
+e;16310837;'EPA sous double tutelle du Ministère des Solidarités et de la Santéet du Ministère de l'Économie et des Finances';777;0
+e;1834258;'forceps scie à double chaîne deTarnier';1;0
+e;1838069;'manuvre de double rotation de Lövset';1;0
+e;5620936;'interférométrie par double polarisation';777;0
+e;6444805;'dosage des anticorps dirigés contre l'adn à double brin';1;0
+e;9944038;'double SIM';777;0
+e;10038176;'double mixte de l'édition 1983 des Internationaux de France de tennis';777;0
+e;10329445;'double compilation';1;0
+e;10855069;'épreuve de luge masculine en double des Jeux olympiques d'hiver de 2018';777;0
+e;10931278;'double en quad';777;0
+e;11090263;'double attaque contre Syracuse';777;0
+e;11362012;'Championnats du monde de curling double mixte 2014';777;0
+e;12008241;'Une double vie';777;0
+e;12077378;'boîte de vitesses à double embrayage';1;0
+e;12078156;'cor double';1;0
+e;12081331;'sirène à double queue';1;0
+e;12863091;'turbopropulseur double corps';1;0
+e;2379243;'double accent grave';1;0
+e;2399038;'à double tour';1;6
+e;5674948;'Tourterelle à double collier';777;0
+e;5886303;'double de clé';1;2
+e;5985865;'double hétérostructure';777;0
+e;10329453;'double attaque';1;0
+e;10329452;'double attaque djihadiste';1;0
+e;10847939;'double aspect';777;0
+e;11343199;'snark double étoile';777;0
+e;11504684;'double mixte de l'édition 1993 des Internationaux de France de tennis';777;0
+e;11590671;'double vitrage à film suspendu';777;0
+e;12034270;'double napoléon';777;0
+e;12081820;'double discone';777;0
+e;12081534;'tire-ligne double';1;0
+e;5536441;'double raisin';777;0
+e;5816845;'convertisseur analogique-numérique double rampe';777;0
+e;6440429;'double syndrome d'écrasement';1;0
+e;10046171;'Le Mari à double face';777;0
+e;10423541;'double-double';777;0
+e;11393351;'objectif double Gauss';777;0
+e;2409179;'heure double';1;0
+e;5625461;'arme blanche à double tranchant';1;2
+e;5805015;'gras double à l'albigeoise';777;0
+e;6012434;'planète double';777;0
+e;6444510;'test d'immunofluorescence absorbée par coloration double';1;0
+e;6430389;'phosphatase à double spécificité de type ii';1;0
+e;9950470;'double meurtre du 13 juin 2016 à Magnanville';777;0
+e;10421834;'double mixte de l'édition 2004 de l'US Open de tennis';777;0
+e;10421832;'double mixte de l'édition 2004 du tournoi de Wimbledon';777;0
+e;10421829;'double mixte de l'édition 2003 de l'Open d'Australie';777;0
+e;10421827;'double mixte de l'édition 2000 des Internationaux de France de tennis';777;0
+e;10421824;'double mixte de l'édition 2000 de l'Open d'Australie';777;0
+e;10421823;'double mixte de l'édition 1994 de l'US Open de tennis';777;0
+e;10421821;'double mixte de l'édition 1994 de l'Open d'Australie';777;0
+e;10421818;'double mixte de l'édition 1992 de l'Open d'Australie';777;0
+e;10421815;'double mixte de l'édition 2001 de l'US Open de tennis';777;0
+e;10421813;'double mixte de l'édition 1994 du tournoi de Wimbledon';777;0
+e;10421810;'double mixte de l'édition 1993 de l'US Open de tennis';777;0
+e;10421809;'double mixte de l'édition 1993 de l'Open d'Australie';777;0
+e;10421807;'double mixte de l'édition 1992 des Internationaux de France de tennis';777;0
+e;10421783;'double messieurs de l'édition 2004 du tournoi de Wimbledon';777;0
+e;10421780;'double messieurs de l'édition 2003 de l'US Open de tennis';777;0
+e;10421779;'double messieurs de l'édition 2003 du tournoi de Wimbledon';777;0
+e;10421770;'double messieurs de l'édition 2002 du tournoi de Wimbledon';777;0
+e;10421764;'double messieurs de l'édition 2001 de l'Open d'Australie';777;0
+e;10421761;'double messieurs de l'édition 2000 du tournoi de Wimbledon';777;0
+e;10421760;'double messieurs de l'édition 2000 des Internationaux de France de tennis';777;0
+e;11933147;'double nature du Christ';1;0
+e;2436594;'double vé';1;0
+e;2466367;'double discours';1;0
+e;4315978;'double-hémivagin-agénésie';1;0
+e;5620251;'crème double';777;0
+e;6445052;'insertion initiale d'appareil cardiaque double chambre';1;0
+e;9944300;'poulet à double usage';777;0
+e;10547977;'Championnat de double WTA';777;0
+e;10547976;'championnat de double WTA';777;0
+e;10547933;'double dames de l'édition 1969 de l'US Open de tennis';777;0
+e;10547932;'double dames de l'édition 1969 des Internationaux de France de tennis';777;0
+e;10547931;'double dames de l'édition 1968 des Internationaux de France de tennis';777;0
+e;10547494;'double mixte de l'édition 1966 des Internationaux de France de tennis';777;0
+e;10547490;'double dames de l'édition 1967 des Internationaux de France de tennis';777;0
+e;10547168;'double dames de l'édition 1962 des Internationaux de France de tennis';777;0
+e;10546656;'double mixte de l'édition 1973 de l'US Open de tennis';777;0
+e;10546655;'double mixte de l'édition 1971 du tournoi de Wimbledon';777;0
+e;10546651;'double mixte de l'édition 1980 de l'US Open de tennis';777;0
+e;10546649;'double mixte de l'édition 1975 du tournoi de Wimbledon';777;0
+e;10546648;'double mixte de l'édition 1972 de l'US Open de tennis';777;0
+e;10546647;'double mixte de l'édition 1970 de l'US Open de tennis';777;0
+e;10546645;'double mixte de l'édition 1969 de l'US Open de tennis';777;0
+e;10546644;'double mixte de l'édition 1969 des Internationaux de France de tennis';777;0
+e;10546642;'double mixte de l'édition 1969 de l'Open d'Australie';777;0
+e;11147020;'double victimisation';777;0
+e;12277985;'double data rate';777;0
+e;13399772;'organelle à double membrane';1;0
+e;2384063;'double sulfure de fer et de cuivre à cassure de nickel';1;0
+e;2459324;'double appel';1;0
+e;5941487;'La Transat en double';777;0
+e;6449615;'dosage des anticorps dirigés contre l'adn à brin unique et double';1;0
+e;10130840;'Trouble en double';777;0
+e;10421804;'double mixte de l'édition 1990 de l'US Open de tennis';777;0
+e;10426811;'double phaéton';777;0
+e;10548135;'double mixte de l'édition 1976 des Internationaux de France de tennis';777;0
+e;10548110;'double dames de l'édition 1976 de l'US Open de tennis';777;0
+e;10548062;'double mixte de l'édition 1972 des Internationaux de France de tennis';777;0
+e;10548061;'double mixte de l'édition 1970 des Internationaux de France de tennis';777;0
+e;10548060;'double mixte de l'édition 1976 du tournoi de Wimbledon';777;0
+e;10548058;'double mixte de l'édition 1973 des Internationaux de France de tennis';777;0
+e;10548057;'double mixte de l'édition 1971 des Internationaux de France de tennis';777;0
+e;10548026;'double mixte de l'édition 1968 des Internationaux de France de tennis';777;0
+e;10548014;'double dames de l'édition 1975 du tournoi de Wimbledon';777;0
+e;10548011;'double dames de l'édition 1974 de l'US Open de tennis';777;0
+e;10548009;'double dames de l'édition 1973 du tournoi de Wimbledon';777;0
+e;10548008;'double dames de l'édition 1973 des Internationaux de France de tennis';777;0
+e;10548005;'double dames de l'édition 1972 du tournoi de Wimbledon';777;0
+e;10548000;'double dames de l'édition 1971 de l'US Open de tennis';777;0
+e;10547988;'double dames de l'édition 1970 du tournoi de Wimbledon';777;0
+e;10547987;'double dames de l'édition 1968 du tournoi de Wimbledon';777;0
+e;10547984;'double dames de l'édition 1965 du tournoi de Wimbledon';777;0
+e;10547983;'double dames de l'édition 1965 des Internationaux de France de tennis';777;0
+e;10547947;'double dames de l'édition 1972 de l'US Open de tennis';777;0
+e;10547945;'double dames de l'édition 1971 des Internationaux de France de tennis';777;0
+e;10547934;'double dames de l'édition 1970 des Internationaux de France de tennis';777;0
+e;11003568;'nombre double de Mersenne';777;0
+e;11005831;'comptabilité par partie double';777;0
+e;11374503;'double mixte de l'édition 2014 du tournoi de Wimbledon';777;0
+e;11384239;'Fête du double neuf';777;0
+e;2461255;'double oméga';1;0
+e;5993670;'double boutonnage';777;0
+e;9944299;'poussin à double usage';777;0
+e;10094010;'instrument à vent à anche double';1;0
+e;10118489;'Une double famille';777;0
+e;10462245;'Peugeot type 138 double phaéton';777;0
+e;10462244;'Peugeot type 126 double phaéton';777;0
+e;10462155;'Peugeot type 116 double phaéton';777;0
+e;10462144;'Peugeot type 81 double phaéton';777;0
+e;10459553;'Mariage double';777;0
+e;10548025;'double dames de l'édition 1979 des Internationaux de France de tennis';777;0
+e;11008873;'contenu en double';777;0
+e;11011554;'double majorité';777;0
+e;11374502;'double messieurs de l'édition 2014 du tournoi de Wimbledon';777;0
+e;11374500;'double mixte de l'édition 2014 de l'Open d'Australie';777;0
+e;11374504;'double messieurs de l'édition 2014 de l'US Open de tennis';777;0
+e;11374505;'double mixte de l'édition 2014 de l'US Open de tennis';777;0
+e;11374501;'double mixte de l'édition 2014 des Internationaux de France de tennis';777;0
+e;11384238;'Fête du double yang';777;0
+e;11384233;'jour du double sept';777;0
+e;12788813;'double gouvernement';777;0
+e;2422729;'jouer du manicordion à double semelle';1;0
+e;5977047;'double album';777;0
+e;6532484;'hémoglobinose double hétérozygote SC';1;0
+e;9944301;'poule à double usage';777;0
+e;11004827;'double système d'alignements montagneux';1;0
+e;11009560;'double licence';777;0
+e;11154559;'double substitution';777;0
+e;13199802;'double Viaduc TGV d'Avignon';777;0
+e;2366613;'double-bécassine';1;0
+e;2388617;'en partie double';1;0
+e;9943951;'Pixels à double transistor';777;0
+e;10363530;'double meurtre de Montigny-lès-Metz';777;0
+e;10428633;'double mixte de l'édition 2006 du tournoi de Wimbledon';777;0
+e;2449377;'double casquette';1;0
+e;7464293;'double crème';1;0
+e;2451118;'faire coup double';1;0
+e;5942039;'règle à double rapporteur';1;0
+e;10177446;'double commandement';1;0
+e;10431482;'double dames de l'édition 2012 des compétitions de tennis aux Jeux olympiques d'été';777;0
+e;10431481;'double dames de l'édition 2008 des compétitions de tennis aux Jeux olympiques d'été';777;0
+e;10431480;'double dames de l'édition 2004 des compétitions de tennis aux Jeux olympiques d'été';777;0
+e;10431435;'double mixte de l'édition 2002 du tournoi de Wimbledon';777;0
+e;10431429;'double mixte de l'édition 2002 de l'Open d'Australie';777;0
+e;10431427;'double mixte de l'édition 2001 du tournoi de Wimbledon';777;0
+e;10431433;'double mixte de l'édition 2005 des Internationaux de France de tennis';777;0
+e;10431425;'double dames de l'édition 2009 de l'Open d'Australie';777;0
+e;10431434;'double mixte de l'édition 2005 de l'US Open de tennis';777;0
+e;10431418;'double dames de l'édition 2002 de l'Open d'Australie';777;0
+e;10431423;'double dames de l'édition 2006 des Internationaux de France de tennis';777;0
+e;10546984;'double dames de l'édition 1967 du championnat national de tennis des États-Unis';777;0
+e;11105399;'double fécondation';777;0
+e;12774348;'double boucle';777;0
+e;5536943;'avion de ligne civil très gros-porteur long-courrier quadriréacteur à double pont';1;0
+e;1824521;'technique par double transformation de Fourier';1;0
+e;6450255;'implantation initiale d'appareil cardiaque double chambre';1;0
+e;12765631;'pistons à double effet';1;0
+e;2459044;'semi-double';1;0
+e;12765633;'piston à double effet';1;0
+e;1840695;'papille double';1;0
+e;2502147;'double-barrer';1;0
+e;2471116;'double verlan';1;0
+e;5902749;'Poisson-papillon d'Ulietéa à double selle';777;0
+e;8918195;'double contraste';1;0
+e;9023489;'double amputé';1;0
+e;9072072;'occlusion intestinale double';1;0
+e;9661999;'retard mental par mutation du gène de la "double cortine"';1;0
+e;11127895;'pulsar double';777;0
+e;11129381;'fête du double cinq';777;0
+e;11129717;'lame à double tranchant';777;0
+e;11130933;'double steakhouse';1;0
+e;11130932;'double cheese bacon xxl';1;0
+e;11130943;'double whopper';1;0
+e;11130934;'double whopper® cheese';1;0
+e;11130939;'double whopper cheese';1;0
+e;11131504;'loi double exponentielle';777;0
+e;12246662;'Troubles en double';777;0
+e;12246868;'double irlandais';777;0
+e;12635979;'jouer sur le double sens';1;0
+e;12682872;'double moteur électrique';1;0
+e;12715990;'bardage double peau monobloc';777;0
+e;14140161;'Championnats du monde de tennis de table double messieurs';777;0
+e;14571611;'4. Axiome de la double nature de la communication';777;0
+e;15499170;'Il gagne le double.';1;0
+e;15473649;'EPA sous double tutelle du Ministère des Solidarités et de la Santéet du Ministère de l'Economie et des Finances';777;0
+e;394440;'double couche lipidique';777;50
+e;1700374;'revolver en double action';1;0
+e;2170299;'double-cliquerons';2;0
+e;2170277;'double-cliquai';2;0
+e;2555303;'double tuner';1;0
+e;2517747;'double paire';1;0
+e;2545648;'double-feuille';1;0
+e;3195620;'double-licencié';1;0
+e;3306092;'double Gloucester';1;0
+e;3339542;'double face A';777;0
+e;3349468;'biens et technologies à double usage';777;0
+e;4033286;'escalier à double révolution';1;0
+e;3919240;'double pied de nez';1;0
+e;5070608;'escalier double';1;0
+e;1968022;'double optique';1;0
+e;2170305;'double-cliquons';2;0
+e;2170303;'double-cliquiez';2;0
+e;2170294;'double-cliquerait';2;0
+e;2170289;'double-cliquent';2;0
+e;2170285;'double-cliquasses';2;0
+e;2494595;'double traction';1;0
+e;2492109;'La double colline';1;0
+e;3180191;'Souimanga à double collier';777;0
+e;3196679;'double-catégorisé';1;0
+e;3756427;'gras double de boeuf nettoyé';1;0
+e;3753291;'boîtes de double concentré de tomates de chacune';1;0
+e;4309011;'double marquage';777;0
+e;4326038;'monstre double autosite sycéphalien du groupe des tératodelphes';1;0
+e;4902132;'araçari à double collier';1;0
+e;5522250;'double d'une personne';1;0
+e;1847280;'utérus double';1;0
+e;1844888;'sonde en double J';1;0
+e;1966277;'image double';1;0
+e;2170312;'double-cliquées';2;0
+e;2170295;'double-cliqueras';2;0
+e;2170291;'double-cliquerai';2;0
+e;2170290;'double-cliquera';2;0
+e;2363021;'double disque de platine';1;0
+e;2535696;'double péné';1;0
+e;2523315;'double-chaîne';1;0
+e;3195555;'re-double-cliqué';1;0
+e;3260210;'double batteur métallique';1;0
+e;3263473;'double chambre';1;0
+e;3319991;'tartrate double de sodium et de potassium';1;0
+e;3319614;'variété de colza "double zéro"';1;0
+e;3755407;'double de volume d'eau';1;0
+e;4145834;'double comptabilité';1;0
+e;3974055;'double maléfique';1;0
+e;462906;'double arc aortique';1;50
+e;589669;'étude randomisée en double aveugle';777;0
+e;1817867;'double-brin';1;0
+e;2170311;'double-cliquée';2;0
+e;2170288;'double-clique';2;0
+e;2170284;'double-cliquassent';2;0
+e;2170283;'double-cliquasse';2;0
+e;2170281;'double-cliquant';2;0
+e;2522667;'double-aubier';1;0
+e;2581296;'double-';1;0
+e;3161730;'Carpophage à double huppe';777;0
+e;3349470;'technologies à double usage';777;0
+e;3743870;'double mix cookies et gâteau au chocolat';1;0
+e;4952830;'double meurtre';1;0
+e;5386701;'turboréacteur à double flux';1;0
+e;1196915;'ADN double brin';1;0
+e;1897835;'pince double clip';777;0
+e;2170278;'double-cliquaient';2;0
+e;2359143;'double cousine';1;0
+e;2562841;'bien à double usage';1;0
+e;2484528;'double petit aigle';1;0
+e;3363362;'gras double sauté aux oignons confits à la lyonnaise';1;0
+e;463147;'double perfusion artérielle inversée';1;50
+e;1844646;'signe de la double bulle';1;0
+e;2170300;'double-cliqueront';2;0
+e;2170287;'double-cliquassions';2;0
+e;2521385;'double eagle';1;0
+e;2501094;'double cousin';1;0
+e;2516180;'double-bulbe';1;0
+e;3198046;'double-barré';1;0
+e;3264153;'signe du double contour';1;0
+e;3294694;'double-bulle';1;0
+e;3361711;'double cheesecake anglais et glaçage rouge';1;0
+e;6534129;'double citerne chyle';1;0
+e;462908;'ventricule droit à double sortie';1;50
+e;4489982;'avoir une double vie';1;0
+e;601445;'aile en double delta';1;0
+e;737440;'processeur double coeur';777;0
+e;1476359;'double fracture';1;4
+e;1707122;'voir double';1;16
+e;1851279;'monstre double autosite';1;0
+e;2170313;'double-cliqués';2;0
+e;2170307;'double-cliquât';2;0
+e;2170296;'double-cliquerez';2;0
+e;2170292;'double-cliqueraient';2;0
+e;2170280;'double-cliquait';2;0
+e;2361757;'double bogey';1;0
+e;2496549;'double danda';1;0
+e;2799401;'double-compte';1;0
+e;2922298;'double décathlon';777;0
+e;5389157;'double voie';1;0
+e;3349469;'biens à double usage';777;0
+e;3411648;'scanner double énergie';1;0
+e;3765359;'immunodiffusion double';777;0
+e;4268125;'tableau à double entrée';1;0
+e;4345573;'structure en double hélice';1;0
+e;4896431;'double corps';1;0
+e;1476362;'fracture double';1;0
+e;1852733;'retard mental par mutation du gène de la &quot;double cortine&quot;';1;0
+e;1848032;'ventricule droit à double issue';1;0
+e;1845844;'forceps scie à double chaîne de Tarnier';1;0
+e;1834275;'forceps-scie à double chaine de Tarnier';1;0
+e;2170310;'double-cliqué';2;0
+e;2170309;'double-cliquèrent';2;0
+e;2170308;'double-cliquâtes';2;0
+e;2170304;'double-cliquions';2;0
+e;2170301;'double-cliques';2;0
+e;2170293;'double-cliquerais';2;0
+e;2170282;'double-cliquas';2;0
+e;2170276;'double-cliqua';2;0
+e;2551554;'intervalle double';1;0
+e;2530371;'double-breaker';1;0
+e;3179522;'syndrome du double cortex';1;0
+e;3199723;'double-breaké';1;0
+e;3765360;'immunodiffusion double d'Ouchterlony';777;0
+e;5386702;'double flux';1;0
+e;1737330;'double cousinage';1;0
+e;2170297;'double-cliqueriez';2;0
+e;2170286;'double-cliquassiez';2;0
+e;2170279;'double-cliquais';2;0
+e;3225107;'À double tour';777;0
+e;3230335;'mettre en double';1;0
+e;3365522;'endives au jambon au madère, double gourmandise!, façon funambuline';1;0
+e;3745111;'crevettes à la noix de coco à double cuisson';1;0
+e;3800188;'piste double noire';1;0
+e;5526630;'Coup double';777;0
+e;1822433;'lobectomie pulmonaire double';1;0
+e;2170306;'double-cliquâmes';2;0
+e;2170302;'double-cliquez';2;0
+e;2170298;'double-cliquerions';2;0
+e;2547523;'radar double sens';1;0
+e;3180787;'double-quarte';1;0
+e;3180788;'double-tierce';1;0
+e;3193654;'double-souligné';1;0
+e;3319615;'colza "double zéro"';1;0
+e;3319612;'colza double zéro';1;0
+e;3365354;'cheesecake double amande';1;0
+e;5522249;'double d'une personne vivante';1;0
+e;5534287;'turboréacteur double flux et double corps à postcombustion';1;0
+e;1817868;'double rangée de cils';1;0
+e;1849932;'sonde double J';1;0
+e;1849173;'bassin oblique ovalaire double';1;0
+e;1844886;'sonde d'intubation à double lumière';1;0
+e;3170048;'Quitte ou double';777;0
+e;1845267;'stimulateur à double chambre';1;0
+e;1844457;'théorie de la double interaction Semmlow';1;0
+e;1851280;'monstre double parasite';1;0
+e;1849933;'double lien';1;0
+e;2935438;'Agent double';777;0
+e;3167673;'double-oeil';1;0
+e;1801079;'bassin iliofémoral double';1;0
+e;3161801;'Courvite à double collier';777;0
+e;1852626;'vessie double';1;0
+e;2956022;'À double tranchant';777;0
+e;381572;'substitution à double clé';1;50
+e;371973;'porte à double battant';1;50
+e;354516;'flûte double';1;50
+e;348234;'double scotch';1;50
+e;348227;'double décamètre';1;50
+e;348099;'don de double vue';1;50
+e;340708;'bégonia double retombant';1;50
+e;371410;'point double';1;50
+e;368923;'partie double';1;50
+e;362598;'machine à vapeur à double effet';1;50
+e;354425;'fleur double';1;50
+e;350294;'en chambre double';1;50
+e;340966;'caisse à double fond';1;50
+e;337356;'au double sens du mot';1;50
+e;350529;'en double exemplaire';1;50
+e;348231;'double langage';1;50
+e;348226;'double dames';1;50
+e;341073;'calice double';1;50
+e;388203;'à double entendement';1;50
+e;390120;'équerre double';1;50
+e;389321;'écluse double';1;50
+e;355556;'fugue double';1;50
+e;348224;'double compétence';1;50
+e;389929;'épaisseur double';1;50
+e;389257;'échelle double';1;50
+e;384615;'transat en double';1;50
+e;371411;'point double de la strophoïde droite';1;50
+e;366446;'noeud de pêcheur double';1;50
+e;355692;'fête double';1;50
+e;348228;'double faute';1;50
+e;341370;'canon double';1;50
+e;388201;'à double cloison';1;50
+e;381713;'sulfate double';1;52
+e;378713;'satin double';1;50
+e;376390;'retard double';1;50
+e;368780;'paroi double';1;50
+e;364704;'mois double';1;50
+e;350530;'en double précision';1;50
+e;335957;'appoggiature double';1;50
+e;388205;'à double vitrage';1;50
+e;388202;'à double détente';1;50
+e;386019;'vagotomie double';1;50
+e;376936;'rondeau double';1;50
+e;363565;'match de double';1;50
+e;362694;'maille double';1;50
+e;361333;'liaison double carbone-carbone';1;50
+e;348225;'double concerto';1;50
+e;388204;'à double fond';1;50
+e;386487;'verbe à double passif';1;50
+e;348235;'double saut périlleux';1;50
+e;348233;'double messieurs';1;50
+e;348230;'double génétique';1;50
+e;340670;'butée à double effet';1;50
+e;340134;'boîte à double fond';1;50
+e;384147;'tour du monde en double';1;50
+e;375213;'rail à double champignon';1;50
+e;372149;'poste double';1;50
+e;348232;'double lettre';1;50
+e;348229;'double fond';1;52
+e;348223;'double cloison';1;50
+e;338809;'bateau à double coque';1;50
+e;93497;'double-jeu';1;50
+e;93010;'double-crème';1;50
+e;90762;'double-apprêt';1;50
+e;75114;'double-contrainte';1;50
+e;64087;'double-toit';1;50
+e;60819;'double-fenêtre';1;50
+e;59669;'double-corde';1;50
+e;54917;'double-face';1;60
+e;53995;'double-mètre';1;50
+e;42557;'double-paire';1;50
+e;41951;'double-faute';1;56
+e;36580;'double-rambot';1;50
+e;22533;'gras-double';1;56
+e;243730;'double-cliquer';1;50
+e;243729;'double-clic';1;6
+e;235065;'double-pas';1;50
+e;234197;'double-file';1;50
+e;222142;'double-bec';1;50
+e;182135;'double-fond';1;50
+e;167350;'double-main';1;50
+e;164257;'double-six';1;50
+e;133911;'double-croche';1;50
+e;124495;'double-corps';1;50
+e;122146;'double-flux';1;50
+e;110502;'double-étoffe';1;50
+e;103788;'double-commande';1;50
+e;319422;'double membrane';1;52
+e;319489;'body double';777;50
+e;321072;'vision double';1;50
+e;215059;'à double-sens';1;50
+e;316576;'double accent aigu';1;50
+e;194349;'psittacule double-oeil';1;50
+e;314845;'fièvre double-quarte';1;50
+e;314846;'fièvre double-tierce';1;50
+e;314844;'fièvre double';1;50
+e;315209;'ARN double brin';1;50
+e;168882;'flûte à bec double';1;50
+e;242783;'en double aveugle';1;4
+e;250066;'à double foyer';1;50
+e;257001;'se garer en double file';1;50
+e;259777;'être à double tranchant';1;50
+e;261750;'en double file';1;2
+e;313455;'en double énergie';1;50
+e;170730;'Le Théâtre et son double';1;50
+e;217416;'double face';1;4
+e;222202;'double file';1;52
+e;224851;'double effet';1;2
+e;229866;'anche double';1;50
+e;230025;'feuille double';1;54
+e;231443;'mot compte double';1;58
+e;232351;'double peine';1;8
+e;232966;'épée double';1;50
+e;236418;'faire un double';1;56
+e;238378;'chambre double';1;90
+e;242819;'rendre double';1;50
+e;244000;'double coque';1;50
+e;244162;'café double';1;50
+e;244896;'double hermaphrodisme';1;24
+e;248944;'double hélice';1;10
+e;250063;'double foyer';1;50
+e;250064;'lunettes à double foyer';1;50
+e;250577;'double trace';1;50
+e;250994;'fermé à double tour';1;4
+e;253903;'jouer un double jeu';1;50
+e;255779;'copie double';1;4
+e;256800;'double pontage';1;50
+e;257443;'test en double aveugle';1;10
+e;259661;'double hermaphrodite';1;50
+e;260243;'double mixte';1;54
+e;262746;'aspect de double cible';1;50
+e;313456;'acquisition double énergie';1;50
+e;50615;'le double de';1;50
+e;65260;'double articulation';1;50
+e;78101;'le Théâtre et son double';1;50
+e;120978;'double sens';1;54
+e;161233;'évier double';1;54
+e;165410;'double décimètre';1;62
+e;171040;'étoile double';1;50
+e;171041;'étoile double optique';1;50
+e;184860;'à double tranchant';1;50
+e;202365;'jouer à quitte ou double';1;50
+e;207193;'rime à double couronne';1;50
+e;208926;'tenir un double langage';1;50
+e;215157;'double standard';1;50
+e;274166;'le double';777;50
+e;285043;'à double insu';777;50
+e;295264;'L'embrèvement double';777;50
+e;19462;'à double sens';1;50
+e;36726;'double champignon';1;50
+e;53862;'double filiation';1;50
+e;56649;'double négation';1;50
+e;122445;'Théâtre et son double';1;50
+e;151974;'double liaison';1;56
+e;153552;'double nationalité';1;54
+e;155001;'agent double';1;72
+e;157865;'double vitrage';1;64
+e;158364;'fermer à double tour';1;84
+e;158383;'gras double';1;66
+e;172606;'coup double';1;50
+e;179749;'double croche';1;32
+e;181194;'bôme double';1;50
+e;181256;'brûleur à double débit';1;50
+e;181520;'chromosome minuscule double';1;50
+e;182129;'double Dutch';1;50
+e;182130;'double adultère';1;50
+e;182131;'double couche';1;50
+e;182132;'double déduction';1;50
+e;182133;'double magnum';1;50
+e;182134;'double pénétration';1;36
+e;183982;'réacteur à double flux';1;50
+e;184005;'récession à double creux';1;50
+e;184569;'train double';1;50
+e;195394;'à double effet';1;50
+e;196255;'au double';1;50
+e;202373;'jouer double jeu';1;50
+e;202957;'lettre double';1;50
+e;203132;'livre en partie double';1;50
+e;203588;'mener une double vie';1;124
+e;203792;'mettre les morceaux en double';1;50
+e;206349;'principe de la double négation';1;50
+e;206630;'quitte ou double';1;50
+e;264063;'enfermer à double tour';1;50
+e;265284;'voie à double sens';1;50
+e;266866;'fromage double crème';1;50
+e;267893;'lit double';1;10
+e;267901;'chambre à lit double';1;50
+e;267992;'avoir un double visage';1;50
+e;274250;'double circulation monétaire';777;50
+e;275182;'double concentré de tomates';777;50
+e;278466;'double prédestination';777;50
+e;278984;'double point';777;50
+e;279860;'double contrainte';777;50
+e;282241;'verre double foyer';777;50
+e;283910;'Sporophile à col double';777;50
+e;285041;'double aveugle';1;2
+e;288569;'double brève';777;50
+e;288997;'instrument à anche double';777;50
+e;295122;'double réfraction';777;50
+e;296440;'comptabilité en partie double';777;50
+e;297903;'double vision';777;50
+e;300084;'sulfate double d'aluminium et de potassium';777;50
+e;302375;'liaison double';777;56
+e;302850;'échec double';777;50
+e;304306;'double mortensen';777;50
+e;304494;'double entente';1;50
+e;307365;'double arbre à cames en tête';777;50
+e;308405;'étoile double physique';777;50
+e;310588;'double décennie fasciste';777;50
+e;310589;'double décennie';777;50
+e;310709;'bébé double espoir';777;50
+e;311072;'La double mort des serpents';777;50
+e;187177;'processeur double cur';1;50
+e;190690;'double fenêtre';1;50
+e;192166;'bécassine double';1;50
+e;192478;'carpophage à double huppe';1;50
+e;192758;'courvite à double collier';1;50
+e;194582;'souimanga à double collier';1;50
+e;194594;'sporophile à col double';1;50
+e;197629;'clé double';1;50
+e;197633;'clef à double panneton';1;50
+e;199234;'en double';1;50
+e;199817;'être à double face';1;50
+e;311120;'Preuve de l'élimination de la double négation';777;50
+e;312003;'double action';1;52
+e;312559;'arme à double tranchant';1;50
+e;312824;'double brin';777;56
+e;14142;'pendule double';1;50
+e;15848;'double emploi';1;50
+e;20730;'double bind';1;50
+e;21619;'double page';1;50
+e;22068;'faire double emploi';1;50
+e;198891;'double barre';1;50
+e;198892;'double bémol';1;52
+e;198893;'double chur';1;50
+e;198894;'double dièse';1;50
+e;198895;'double droit';1;50
+e;198896;'double jeu';1;56
+e;198897;'double menton';1;52
+e;198898;'double nature';1;50
+e;198900;'double pesée';1;50
+e;198901;'double vie';1;122
+e;198902;'double vue';1;50
+e;198903;'double zéro';1;50
+e;200217;'exercice à double action';1;50
+e;200794;'fausse double';1;50
+e;4918;'à double entente';1;50
+e;9691;'à double face';1;50
+r;310759547;143934;586688;11;15
+r;273080243;143934;10423743;11;25
+r;298034389;143934;6285735;11;25
+r;298132365;143934;6286375;11;25
+r;298400630;143934;6289612;11;25
+r;298437467;143934;6290990;11;25
+r;298626296;143934;6293418;11;25
+r;299036856;143934;6298460;11;25
+r;299147208;143934;6301038;11;25
+r;299560878;143934;6307433;11;25
+r;299584339;143934;6310165;11;25
+r;299586579;143934;6311336;11;25
+r;299632939;143934;6314449;11;25
+r;299783271;143934;6316619;11;25
+r;300134790;143934;6323069;11;25
+r;300217637;143934;6328204;11;25
+r;301441100;143934;6337881;11;25
+r;301487525;143934;6341905;11;25
+r;301577927;143934;6346907;11;25
+r;301613173;143934;6347363;11;25
+r;302148233;143934;6363054;11;25
+r;302165966;143934;6364102;11;25
+r;302178707;143934;6364202;11;25
+r;302202484;143934;6366522;11;25
+r;302976566;143934;6370147;11;25
+r;303024448;143934;6372979;11;25
+r;303174496;143934;6373877;11;25
+r;303625044;143934;6376157;11;25
+r;303640036;143934;6378532;11;25
+r;303646896;143934;6379275;11;25
+r;303746556;143934;6380061;11;25
+r;303826660;143934;6380177;11;25
+r;303850645;143934;6381255;11;25
+r;303987669;143934;6384319;11;25
+r;303993310;143934;6383845;11;25
+r;304549806;143934;6388636;11;25
+r;304905702;143934;6394130;11;25
+r;305140065;143934;6400384;11;25
+r;305309584;143934;6406293;11;25
+r;305473946;143934;6411518;11;25
+r;305490167;143934;6412975;11;25
+r;305494087;143934;6413323;11;25
+r;305616263;143934;6414331;11;25
+r;305663749;143934;6415532;11;25
+r;305706105;143934;6420559;11;25
+r;316599359;143934;12185118;11;25
+r;316599373;143934;12185115;11;25
+r;318898573;143934;6316679;11;25
+r;341168950;143934;6374639;11;25
+r;344340714;143934;13590605;11;25
+r;348288328;143934;13731658;11;25
+r;349084329;143934;6404106;11;25
+r;349280007;143934;6399340;11;25
+r;353954124;143934;14012945;11;25
+r;353954607;143934;14012959;11;25
+r;353955189;143934;14012957;11;25
+r;353958728;143934;14012930;11;25
+r;353964274;143934;14012949;11;25
+r;355697236;143934;14069893;11;25
+r;356600185;143934;14094260;11;25
+r;359176724;143934;14152732;11;25
+r;364903195;143934;14355953;11;25
+r;366864593;143934;14452597;11;25
+r;366881561;143934;14452990;11;25
+r;370894033;143934;14596285;11;25
+r;371252259;143934;14610049;11;25
+r;371785295;143934;14636124;11;25
+r;371816296;143934;14637166;11;25
+r;371841104;143934;14637443;11;25
+r;389786647;143934;14904997;11;25
+r;394923118;143934;15392730;11;25
+r;394923156;143934;15392729;11;25
+r;394953917;143934;15398695;11;25
+r;409671713;143934;15780933;11;25
+r;411526457;143934;15801576;11;25
+r;411526554;143934;15801575;11;25
+r;413319208;143934;15846086;11;25
+r;419281289;143934;16086539;11;25
+r;298201214;143934;6287129;11;26
+r;299197912;143934;6301338;11;26
+r;299491505;143934;6306348;11;26
+r;299773837;143934;6316593;11;26
+r;301721554;143934;6348823;11;26
+r;302029777;143934;6357793;11;26
+r;303987406;143934;6383785;11;26
+r;305000415;143934;6395353;11;26
+r;305223730;143934;6401803;11;26
+r;315693216;143934;12116620;11;26
+r;319052509;143934;6362807;11;26
+r;341182259;143934;6386620;11;26
+r;364229497;143934;14307630;11;26
+r;368173783;143934;14488616;11;26
+r;368750761;143934;14535442;11;26
+r;370048919;143934;14563677;11;26
+r;371111871;143934;14602951;11;26
+r;373012898;143934;14670138;11;26
+r;374047687;143934;14716517;11;26
+r;374051103;143934;14716923;11;26
+r;122689389;143934;6430839;11;27
+r;270768945;143934;10676769;11;27
+r;270768947;143934;10676768;11;27
+r;267335926;143934;10623255;11;27
+r;315693328;143934;12116606;11;27
+r;315443968;143934;12088856;11;27
+r;112175236;143934;5712553;11;28
+r;119667195;143934;6087891;11;28
+r;269881168;143934;10732237;11;28
+r;273215502;143934;10878745;11;28
+r;273215517;143934;10878744;11;28
+r;273215542;143934;10878741;11;28
+r;273215854;143934;10878657;11;28
+r;273216280;143934;10878509;11;28
+r;273216295;143934;10878508;11;28
+r;273216526;143934;10878348;11;28
+r;273216541;143934;10878347;11;28
+r;273216617;143934;10878335;11;28
+r;273216636;143934;10878333;11;28
+r;273218340;143934;10877641;11;28
+r;273218365;143934;10877639;11;28
+r;273218575;143934;10877604;11;28
+r;273218603;143934;10877601;11;28
+r;273218768;143934;10877539;11;28
+r;273218785;143934;10877538;11;28
+r;273218969;143934;10877352;11;28
+r;273218984;143934;10877351;11;28
+r;273219040;143934;10877191;11;28
+r;273219061;143934;10877190;11;28
+r;273219082;143934;10877189;11;28
+r;273219107;143934;10877188;11;28
+r;273219128;143934;10877187;11;28
+r;273219149;143934;10877186;11;28
+r;273219521;143934;10877077;11;28
+r;273219536;143934;10877075;11;28
+r;273219551;143934;10877074;11;28
+r;273219574;143934;10877072;11;28
+r;273220117;143934;10876806;11;28
+r;273220132;143934;10876805;11;28
+r;273220151;143934;10876803;11;28
+r;273220166;143934;10876801;11;28
+r;273220187;143934;10876799;11;28
+r;273220202;143934;10876798;11;28
+r;273220223;143934;10876796;11;28
+r;273220242;143934;10876794;11;28
+r;273220489;143934;10876709;11;28
+r;273220510;143934;10876707;11;28
+r;273220525;143934;10876706;11;28
+r;273220540;143934;10876705;11;28
+r;273220561;143934;10876703;11;28
+r;273220576;143934;10876702;11;28
+r;273222733;143934;10876105;11;28
+r;273222748;143934;10876104;11;28
+r;273222769;143934;10876102;11;28
+r;273222786;143934;10876100;11;28
+r;273222807;143934;10876098;11;28
+r;273222834;143934;10876095;11;28
+r;273222849;143934;10876094;11;28
+r;273222864;143934;10876093;11;28
+r;273222879;143934;10876092;11;28
+r;273222894;143934;10876091;11;28
+r;273222996;143934;10876069;11;28
+r;273223032;143934;10876062;11;28
+r;273223051;143934;10876056;11;28
+r;273223080;143934;10876052;11;28
+r;315523465;143934;12105395;11;28
+r;268688664;143934;10674608;11;29
+r;318435005;143934;12240958;11;29
+r;318435034;143934;12240957;11;29
+r;337339777;143934;13032407;11;29
+r;434385416;143934;16323253;11;29
+r;434385420;143934;16323251;11;29
+r;434385424;143934;16323870;11;29
+r;434385426;143934;16323869;11;29
+r;434385428;143934;16361824;11;29
+r;434385432;143934;16508170;11;29
+r;434385440;143934;16345377;11;29
+r;434385444;143934;16180846;11;29
+r;434385450;143934;16171797;11;29
+r;434385461;143934;16171800;11;29
+r;52662441;143934;2380681;11;30
+r;54646706;143934;2427612;11;30
+r;55647720;143934;2459296;11;30
+r;55665729;143934;2460312;11;30
+r;59645260;143934;2479057;11;30
+r;113296354;143934;5805820;11;30
+r;220781328;143934;9957721;11;30
+r;274270159;143934;10909031;11;30
+r;274270241;143934;10909018;11;30
+r;274270266;143934;10909016;11;30
+r;274270287;143934;10909014;11;30
+r;274270304;143934;10909013;11;30
+r;274270331;143934;10909008;11;30
+r;274270352;143934;10909006;11;30
+r;274270367;143934;10909005;11;30
+r;274270382;143934;10909003;11;30
+r;274270407;143934;10909000;11;30
+r;274270424;143934;10908999;11;30
+r;274270443;143934;10908998;11;30
+r;274297222;143934;10903039;11;30
+r;274297226;143934;10903038;11;30
+r;310673087;143934;586689;11;30
+r;320429427;143934;12320545;11;30
+r;334357471;143934;13032348;11;30
+r;334357683;143934;13032354;11;30
+r;334357896;143934;13032357;11;30
+r;419749857;143934;15388020;11;30
+r;419763624;143934;15403591;11;30
+r;419772009;143934;16043221;11;30
+r;419772425;143934;15295335;11;30
+r;419785668;143934;15295345;11;30
+r;419785675;143934;15462898;11;30
+r;419797689;143934;15316908;11;30
+r;419797693;143934;15367064;11;30
+r;419797697;143934;15769842;11;30
+r;419797701;143934;15326620;11;30
+r;419797705;143934;15245260;11;30
+r;419797709;143934;15340251;11;30
+r;419797714;143934;15312576;11;30
+r;419797718;143934;15319543;11;30
+r;419797722;143934;15359377;11;30
+r;419797726;143934;15306256;11;30
+r;419797732;143934;15769844;11;30
+r;419797736;143934;15769833;11;30
+r;419797738;143934;15432813;11;30
+r;419797743;143934;15695640;11;30
+r;419797749;143934;15594259;11;30
+r;419797755;143934;15326065;11;30
+r;419797759;143934;15271487;11;30
+r;419797763;143934;15375297;11;30
+r;419797779;143934;15526682;11;30
+r;419797783;143934;15252015;11;30
+r;419797787;143934;15300900;11;30
+r;419797791;143934;15292432;11;30
+r;419797795;143934;15491229;11;30
+r;419797799;143934;15433282;11;30
+r;419797803;143934;15485014;11;30
+r;419797812;143934;15373443;11;30
+r;419797816;143934;15340635;11;30
+r;419797822;143934;15277959;11;30
+r;419797826;143934;15248463;11;30
+r;419797836;143934;15221571;11;30
+r;419797840;143934;15527611;11;30
+r;419797846;143934;15488687;11;30
+r;419797850;143934;15264284;11;30
+r;419797854;143934;15786836;11;30
+r;419797863;143934;15786835;11;30
+r;419797872;143934;15488689;11;30
+r;419797876;143934;15372039;11;30
+r;419797880;143934;6344013;11;30
+r;419797886;143934;15373445;11;30
+r;419797890;143934;13773957;11;30
+r;419797898;143934;15269753;11;30
+r;419797902;143934;15291373;11;30
+r;419797906;143934;15411002;11;30
+r;419797910;143934;15319082;11;30
+r;419797914;143934;14639262;11;30
+r;419797920;143934;16043997;11;30
+r;419797922;143934;14716927;11;30
+r;419797930;143934;16043998;11;30
+r;419797938;143934;15513687;11;30
+r;419797942;143934;16043999;11;30
+r;419797946;143934;16044000;11;30
+r;419797949;143934;16044001;11;30
+r;419797966;143934;11974937;11;30
+r;419797968;143934;16044003;11;30
+r;419797972;143934;16044004;11;30
+r;419797976;143934;16044002;11;30
+r;419797978;143934;16044005;11;30
+r;419797982;143934;12301122;11;30
+r;419797988;143934;16044006;11;30
+r;419797992;143934;14127099;11;30
+r;419797996;143934;16044007;11;30
+r;419798000;143934;15769855;11;30
+r;419798003;143934;16044008;11;30
+r;419798009;143934;16044009;11;30
+r;419798013;143934;16035211;11;30
+r;419798017;143934;16044010;11;30
+r;419798021;143934;16044011;11;30
+r;419798023;143934;12087304;11;30
+r;419798846;143934;15291748;11;30
+r;419800008;143934;15363109;11;30
+r;419801567;143934;15769857;11;30
+r;419806049;143934;15411502;11;30
+r;423232462;143934;16133112;11;30
+r;423329798;143934;16135879;11;30
+r;424993227;143934;16161546;11;30
+r;425000141;143934;16167450;11;30
+r;425016925;143934;16167449;11;30
+r;426941219;143934;16276332;11;30
+r;428708693;143934;16315740;11;30
+r;433439787;143934;16420061;11;30
+r;434381585;143934;16325609;11;30
+r;53144382;143934;2392339;11;31
+r;113762472;143934;5828746;11;31
+r;113778089;143934;5815977;11;31
+r;113783267;143934;5812570;11;31
+r;121556501;143934;6436822;11;31
+r;122749032;143934;6423137;11;31
+r;276739971;143934;10962782;11;31
+r;276739923;143934;10962793;11;31
+r;277925369;143934;10992657;11;31
+r;279600475;143934;11030532;11;31
+r;279864839;143934;11050072;11;31
+r;279929837;143934;11050519;11;31
+r;303727455;143934;11782589;11;31
+r;311204037;143934;11978412;11;31
+r;371338064;143934;14611446;11;31
+r;372938267;143934;14668527;11;31
+r;374701181;143934;14739726;11;31
+r;375561198;143934;14778157;11;31
+r;416737621;143934;15958804;11;31
+r;418812248;143934;12683246;11;31
+r;419712736;143934;15525408;11;31
+r;419714918;143934;15330037;11;31
+r;419718872;143934;15639678;11;31
+r;419724033;143934;15399388;11;31
+r;419726285;143934;15307405;11;31
+r;419729009;143934;15503546;11;31
+r;419740692;143934;15332192;11;31
+r;29970080;143934;1832332;11;32
+r;52036766;143934;2371702;11;32
+r;53860643;143934;2407867;11;32
+r;54547435;143934;2424744;11;32
+r;54961486;143934;2430799;11;32
+r;55547532;143934;2453865;11;32
+r;62342873;143934;2492492;11;32
+r;111347933;143934;5669467;11;32
+r;112186820;143934;5691498;11;32
+r;112201370;143934;5684931;11;32
+r;122692650;143934;6430409;11;32
+r;227647324;143934;10011859;11;32
+r;227647424;143934;10011771;11;32
+r;276021008;143934;10954829;11;32
+r;274262261;143934;10911130;11;32
+r;295315371;143934;5903966;11;32
+r;296884986;143934;6084501;11;32
+r;301469934;143934;11754963;11;32
+r;302395904;143934;11776803;11;32
+r;302396270;143934;11776840;11;32
+r;302398695;143934;11776801;11;32
+r;302400872;143934;11776837;11;32
+r;302400974;143934;11776841;11;32
+r;302401158;143934;11776838;11;32
+r;302401339;143934;11776804;11;32
+r;302401754;143934;11776964;11;32
+r;302403912;143934;11776802;11;32
+r;302405161;143934;11776935;11;32
+r;302408842;143934;11777292;11;32
+r;302410500;143934;11777296;11;32
+r;302421904;143934;11777297;11;32
+r;302426378;143934;11777300;11;32
+r;302429201;143934;11777294;11;32
+r;302437615;143934;11777301;11;32
+r;302875383;143934;11781394;11;32
+r;345195105;143934;10992733;11;32
+r;349889430;143934;11974936;11;32
+r;368726539;143934;14535118;11;32
+r;419631035;143934;15769839;11;32
+r;419632630;143934;15262072;11;32
+r;419638324;143934;15245843;11;32
+r;419643349;143934;15216521;11;32
+r;419651634;143934;15543758;11;32
+r;419656864;143934;15312029;11;32
+r;419664318;143934;15321876;11;32
+r;419667965;143934;15498111;11;32
+r;419671387;143934;15760633;11;32
+r;419687221;143934;15347297;11;32
+r;419689431;143934;15214173;11;32
+r;419699746;143934;15388078;11;32
+r;29968047;143934;1832331;11;33
+r;54869157;143934;2429182;11;33
+r;111334537;143934;5673827;11;33
+r;113773435;143934;5817069;11;33
+r;121491511;143934;6444069;11;33
+r;122700869;143934;6429335;11;33
+r;267341236;143934;10621332;11;33
+r;269415498;143934;10734598;11;33
+r;299615489;143934;6313462;11;33
+r;307380352;143934;11901261;11;33
+r;419601150;143934;15295349;11;33
+r;419601641;143934;15361575;11;33
+r;419610368;143934;15483355;11;33
+r;419616478;143934;15339362;11;33
+r;29924877;143934;1827982;11;34
+r;29962469;143934;1831761;11;34
+r;116579485;143934;5960364;11;34
+r;116580350;143934;5955761;11;34
+r;118958631;143934;6068227;11;34
+r;122690927;143934;6430634;11;34
+r;281077214;143934;11080879;11;34
+r;314234242;143934;12061687;11;34
+r;315118593;143934;12079326;11;34
+r;315122559;143934;12078575;11;34
+r;315122567;143934;12078573;11;34
+r;315122579;143934;12078570;11;34
+r;419559076;143934;15585231;11;34
+r;419575798;143934;15501316;11;34
+r;419587666;143934;15456945;11;34
+r;419596465;143934;15483348;11;34
+r;29968013;143934;1832334;11;35
+r;29968057;143934;1832333;11;35
+r;29969112;143934;1832335;11;35
+r;109977658;143934;5562462;11;35
+r;110227291;143934;5573206;11;35
+r;113296922;143934;5805094;11;35
+r;227601111;143934;10041824;11;35
+r;272190681;143934;10850122;11;35
+r;312836275;143934;12005070;11;35
+r;314718385;143934;12076506;11;35
+r;315110332;143934;12080891;11;35
+r;315122125;143934;12078662;11;35
+r;315122563;143934;12078574;11;35
+r;315122571;143934;12078572;11;35
+r;315122575;143934;12078571;11;35
+r;315122583;143934;12078569;11;35
+r;432056777;143934;16310837;11;35
+r;29986730;143934;1834258;11;36
+r;30025714;143934;1838069;11;36
+r;110814021;143934;5620936;11;36
+r;121484937;143934;6444805;11;36
+r;220187052;143934;9944038;11;36
+r;227613469;143934;10038176;11;36
+r;253390120;143934;10329445;11;36
+r;272172396;143934;10855069;11;36
+r;274954675;143934;10931278;11;36
+r;281279766;143934;11090263;11;36
+r;291596038;143934;11362012;11;36
+r;313009261;143934;12008241;11;36
+r;314840919;143934;12077378;11;36
+r;315105248;143934;12078156;11;36
+r;315108131;143934;12081331;11;36
+r;329467898;143934;12863091;11;36
+r;52240574;143934;2379243;11;37
+r;53264620;143934;2399038;11;37
+r;111330695;143934;5674948;11;37
+r;114551090;143934;5886303;11;37
+r;117889383;143934;5985865;11;37
+r;253390082;143934;10329453;11;37
+r;253390086;143934;10329452;11;37
+r;271768024;143934;10847939;11;37
+r;290607052;143934;11343199;11;37
+r;295661100;143934;11504684;11;37
+r;298270175;143934;11590671;11;37
+r;313468936;143934;12034270;11;37
+r;314796414;143934;12081820;11;37
+r;315107050;143934;12081534;11;37
+r;109638125;143934;5536441;11;38
+r;113774251;143934;5816845;11;38
+r;121524224;143934;6440429;11;38
+r;227590458;143934;10046171;11;38
+r;273031971;143934;10423541;11;38
+r;292635954;143934;11393351;11;38
+r;53892584;143934;2409179;11;39
+r;110767172;143934;5625461;11;39
+r;113297154;143934;5805015;11;39
+r;118505040;143934;6012434;11;39
+r;121487471;143934;6444510;11;39
+r;122692817;143934;6430389;11;39
+r;220613191;143934;9950470;11;39
+r;255389301;143934;10421834;11;39
+r;255389320;143934;10421832;11;39
+r;255389343;143934;10421829;11;39
+r;255389362;143934;10421827;11;39
+r;255389387;143934;10421824;11;39
+r;255389402;143934;10421823;11;39
+r;255389422;143934;10421821;11;39
+r;255389445;143934;10421818;11;39
+r;255389468;143934;10421815;11;39
+r;255389488;143934;10421813;11;39
+r;255389511;143934;10421810;11;39
+r;255389526;143934;10421809;11;39
+r;255389547;143934;10421807;11;39
+r;255389682;143934;10421783;11;39
+r;255389707;143934;10421780;11;39
+r;255389722;143934;10421779;11;39
+r;255389778;143934;10421770;11;39
+r;255389820;143934;10421764;11;39
+r;255389845;143934;10421761;11;39
+r;255389860;143934;10421760;11;39
+r;307792203;143934;11933147;11;39
+r;55168150;143934;2436594;11;40
+r;55779257;143934;2466367;11;40
+r;98388887;143934;4315978;11;40
+r;110814650;143934;5620251;11;40
+r;121482782;143934;6445052;11;40
+r;220197613;143934;9944300;11;40
+r;262890482;143934;10547977;11;40
+r;262890489;143934;10547976;11;40
+r;262890765;143934;10547933;11;40
+r;262890780;143934;10547932;11;40
+r;262890797;143934;10547931;11;40
+r;262892377;143934;10547494;11;40
+r;262892402;143934;10547490;11;40
+r;262893028;143934;10547168;11;40
+r;262894682;143934;10546656;11;40
+r;262894697;143934;10546655;11;40
+r;262894723;143934;10546651;11;40
+r;262894744;143934;10546649;11;40
+r;262894759;143934;10546648;11;40
+r;262894774;143934;10546647;11;40
+r;262894795;143934;10546645;11;40
+r;262894810;143934;10546644;11;40
+r;262894827;143934;10546642;11;40
+r;283283023;143934;11147020;11;40
+r;318918777;143934;12277985;11;40
+r;340517628;143934;13399772;11;40
+r;52969186;143934;2384063;11;41
+r;55645841;143934;2459324;11;41
+r;116316569;143934;5941487;11;41
+r;121051079;143934;6449615;11;41
+r;236693281;143934;10130840;11;41
+r;255389574;143934;10421804;11;41
+r;256489633;143934;10426811;11;41
+r;262889746;143934;10548135;11;41
+r;262889926;143934;10548110;11;41
+r;262890004;143934;10548062;11;41
+r;262890021;143934;10548061;11;41
+r;262890038;143934;10548060;11;41
+r;262890059;143934;10548058;11;41
+r;262890076;143934;10548057;11;41
+r;262890107;143934;10548026;11;41
+r;262890196;143934;10548014;11;41
+r;262890211;143934;10548011;11;41
+r;262890233;143934;10548009;11;41
+r;262890248;143934;10548008;11;41
+r;262890284;143934;10548005;11;41
+r;262890303;143934;10548000;11;41
+r;262890373;143934;10547988;11;41
+r;262890388;143934;10547987;11;41
+r;262890408;143934;10547984;11;41
+r;262890423;143934;10547983;11;41
+r;262890679;143934;10547947;11;41
+r;262890701;143934;10547945;11;41
+r;262890748;143934;10547934;11;41
+r;278337753;143934;11003568;11;41
+r;278737429;143934;11005831;11;41
+r;291798917;143934;11374503;11;41
+r;292321013;143934;11384239;11;41
+r;55683253;143934;2461255;11;42
+r;117863268;143934;5993670;11;42
+r;220200367;143934;9944299;11;42
+r;233278885;143934;10094010;11;42
+r;234743293;143934;10118489;11;42
+r;261007088;143934;10462245;11;42
+r;261007098;143934;10462244;11;42
+r;261007572;143934;10462155;11;42
+r;261007626;143934;10462144;11;42
+r;261016883;143934;10459553;11;42
+r;262890124;143934;10548025;11;42
+r;278734918;143934;11008873;11;42
+r;278855588;143934;11011554;11;42
+r;291786504;143934;11374502;11;42
+r;291787089;143934;11374500;11;42
+r;291787698;143934;11374504;11;42
+r;291789634;143934;11374505;11;42
+r;291795876;143934;11374501;11;42
+r;292102474;143934;11384238;11;42
+r;292108312;143934;11384233;11;42
+r;328180980;143934;12788813;11;42
+r;54506631;143934;2422729;11;43
+r;116935320;143934;5977047;11;43
+r;121913954;143934;6532484;11;43
+r;220199988;143934;9944301;11;43
+r;278384183;143934;11004827;11;43
+r;278752646;143934;11009560;11;43
+r;283625000;143934;11154559;11;43
+r;336859374;143934;13199802;11;43
+r;50466055;143934;2366613;11;44
+r;53066061;143934;2388617;11;44
+r;220146168;143934;9943951;11;44
+r;254597203;143934;10363530;11;44
+r;256483751;143934;10428633;11;44
+r;55436830;143934;2449377;11;45
+r;124603181;143934;7464293;11;45
+r;55487871;143934;2451118;11;46
+r;116314642;143934;5942039;11;46
+r;238441638;143934;10177446;11;46
+r;256302914;143934;10431482;11;46
+r;256302936;143934;10431481;11;46
+r;256302957;143934;10431480;11;46
+r;256303215;143934;10431435;11;46
+r;256303280;143934;10431429;11;46
+r;256303299;143934;10431427;11;46
+r;256303247;143934;10431433;11;46
+r;256303323;143934;10431425;11;46
+r;256303230;143934;10431434;11;46
+r;256303399;143934;10431418;11;46
+r;256303344;143934;10431423;11;46
+r;262893836;143934;10546984;11;46
+r;281812638;143934;11105399;11;46
+r;327887134;143934;12774348;11;46
+r;109611739;143934;5536943;11;47
+r;29789073;143934;1824521;11;48
+r;121045138;143934;6450255;11;48
+r;327622079;143934;12765631;11;48
+r;55640863;143934;2459044;11;49
+r;327546161;143934;12765633;11;49
+r;29907190;143934;1840695;11;50
+r;52522454;143934;2502147;11;50
+r;55872268;143934;2471116;11;50
+r;115089774;143934;5902749;11;50
+r;193053042;143934;8918195;11;50
+r;195546221;143934;9023489;11;50
+r;198340851;143934;9072072;11;50
+r;217055190;143934;9661999;11;50
+r;282605608;143934;11127895;11;50
+r;282710238;143934;11129381;11;50
+r;282732968;143934;11129717;11;50
+r;282791336;143934;11130933;11;50
+r;282791417;143934;11130932;11;50
+r;282791627;143934;11130943;11;50
+r;282791902;143934;11130934;11;50
+r;282794729;143934;11130939;11;50
+r;282827278;143934;11131504;11;50
+r;317591833;143934;12246662;11;50
+r;317675645;143934;12246868;11;50
+r;323665762;143934;12635979;11;50
+r;324824022;143934;12682872;11;50
+r;326507774;143934;12715990;11;50
+r;358915347;143934;14140161;11;50
+r;370553963;143934;14571611;11;50
+r;402107140;143934;15499170;11;50
+r;395805723;143934;15473649;11;50
+r;13708573;143934;394440;11;51
+r;28000057;143934;1700374;11;51
+r;33112031;143934;2170299;11;51
+r;33112119;143934;2170277;11;51
+r;52450187;143934;2555303;11;51
+r;52468115;143934;2517747;11;51
+r;52499141;143934;2545648;11;51
+r;77364561;143934;3195620;11;51
+r;77442125;143934;3210153;11;51
+r;77502768;143934;3214833;11;51
+r;83073396;143934;3306092;11;51
+r;84009504;143934;3329171;11;51
+r;84358851;143934;3339542;11;51
+r;85863900;143934;3349468;11;51
+r;86952664;143934;3388206;11;51
+r;95165423;143934;4033286;11;51
+r;95171867;143934;3919240;11;51
+r;105248057;143934;5070608;11;51
+r;18661457;143934;595380;11;52
+r;18661870;143934;595379;11;52
+r;31699259;143934;1968022;11;52
+r;33112007;143934;2170305;11;52
+r;33112015;143934;2170303;11;52
+r;33112051;143934;2170294;11;52
+r;33112071;143934;2170289;11;52
+r;33112087;143934;2170285;11;52
+r;52478919;143934;2494595;11;52
+r;52480019;143934;2492109;11;52
+r;76760230;143934;3180191;11;52
+r;77364222;143934;3196679;11;52
+r;77575399;143934;3223725;11;52
+r;93675447;143934;3756427;11;52
+r;93705815;143934;3753291;11;52
+r;96424577;143934;4309011;11;52
+r;98676127;143934;4326038;11;52
+r;102379695;143934;4902132;11;52
+r;109334643;143934;5522250;11;52
+r;29875201;143934;1847280;11;53
+r;29885836;143934;1844888;11;53
+r;31668056;143934;1966277;11;53
+r;33111979;143934;2170312;11;53
+r;33112047;143934;2170295;11;53
+r;33112063;143934;2170291;11;53
+r;33112067;143934;2170290;11;53
+r;50198131;143934;2363021;11;53
+r;52459683;143934;2535696;11;53
+r;52510971;143934;2523315;11;53
+r;53784351;143934;2582620;11;53
+r;77018838;143934;3183913;11;53
+r;77364583;143934;3195555;11;53
+r;77442121;143934;3210154;11;53
+r;77442169;143934;3209928;11;53
+r;78800253;143934;3260210;11;53
+r;79961246;143934;3263473;11;53
+r;83668622;143934;3319991;11;53
+r;83670614;143934;3319614;11;53
+r;93686016;143934;3755407;11;53
+r;95158788;143934;4145834;11;53
+r;95168726;143934;3974055;11;53
+r;14073615;143934;396265;11;54
+r;16358222;143934;462906;11;54
+r;18506629;143934;589669;11;54
+r;18631162;143934;594097;11;54
+r;29718854;143934;1817867;11;54
+r;33111983;143934;2170311;11;54
+r;33112075;143934;2170288;11;54
+r;33112091;143934;2170284;11;54
+r;33112095;143934;2170283;11;54
+r;33112103;143934;2170281;11;54
+r;52511307;143934;2522667;11;54
+r;53133239;143934;2581296;11;54
+r;76029982;143934;3161730;11;54
+r;77442171;143934;3209927;11;54
+r;77456643;143934;3212024;11;54
+r;77501644;143934;3218336;11;54
+r;77502764;143934;3214834;11;54
+r;85864361;143934;3349470;11;54
+r;93457865;143934;3743870;11;54
+r;103905321;143934;4952830;11;54
+r;107337019;143934;5386701;11;54
+r;18631160;143934;594098;11;55
+r;22297250;143934;1196915;11;55
+r;30565231;143934;1897835;11;55
+r;33112115;143934;2170278;11;55
+r;50065984;143934;2359143;11;55
+r;52446707;143934;2562841;11;55
+r;52483639;143934;2484528;11;55
+r;77087566;143934;3184489;11;55
+r;84016032;143934;3329172;11;55
+r;86204600;143934;3363362;11;55
+r;14073622;143934;396263;11;56
+r;16356951;143934;463147;11;56
+r;29887102;143934;1844646;11;56
+r;33112027;143934;2170300;11;56
+r;33112079;143934;2170287;11;56
+r;52466382;143934;2521385;11;56
+r;52475839;143934;2501094;11;56
+r;52514821;143934;2516180;11;56
+r;77363774;143934;3198046;11;56
+r;77423656;143934;3206001;11;56
+r;79975407;143934;3264153;11;56
+r;81982899;143934;3294694;11;56
+r;86253152;143934;3361711;11;56
+r;121905128;143934;6534129;11;56
+r;16358214;143934;462908;11;57
+r;100008087;143934;4489982;11;57
+r;18775944;143934;601445;11;57
+r;19629969;143934;737440;11;57
+r;24443997;143934;1476359;11;57
+r;28197626;143934;1707122;11;57
+r;29854938;143934;1851279;11;57
+r;33111975;143934;2170313;11;57
+r;33111999;143934;2170307;11;57
+r;33112043;143934;2170296;11;57
+r;33112059;143934;2170292;11;57
+r;33112107;143934;2170280;11;57
+r;50171272;143934;2361757;11;57
+r;52478021;143934;2496549;11;57
+r;68371930;143934;2799401;11;57
+r;71613487;143934;2922298;11;57
+r;107391102;143934;5389157;11;57
+r;84127733;143934;3330291;11;57
+r;85866962;143934;3349469;11;57
+r;87267011;143934;3411648;11;57
+r;94070107;143934;3765359;11;57
+r;95151739;143934;4268125;11;57
+r;99129636;143934;4345573;11;57
+r;102123669;143934;4896431;11;57
+r;24444054;143934;1476362;11;58
+r;29848505;143934;1852733;11;58
+r;29870364;143934;1848032;11;58
+r;29881619;143934;1845844;11;58
+r;29914933;143934;1834275;11;58
+r;33111987;143934;2170310;11;58
+r;33111991;143934;2170309;11;58
+r;33111995;143934;2170308;11;58
+r;33112011;143934;2170304;11;58
+r;33112023;143934;2170301;11;58
+r;33112055;143934;2170293;11;58
+r;33112099;143934;2170282;11;58
+r;33112123;143934;2170276;11;58
+r;52451983;143934;2551554;11;58
+r;52507267;143934;2530371;11;58
+r;76716563;143934;3179522;11;58
+r;77087511;143934;3184490;11;58
+r;77363175;143934;3199723;11;58
+r;77456639;143934;3212025;11;58
+r;77501646;143934;3218335;11;58
+r;77575242;143934;3223724;11;58
+r;84127015;143934;3330292;11;58
+r;86951267;143934;3388207;11;58
+r;94071527;143934;3765360;11;58
+r;107337056;143934;5386702;11;58
+r;18503731;143934;589539;11;59
+r;28532647;143934;1737330;11;59
+r;33112039;143934;2170297;11;59
+r;33112083;143934;2170286;11;59
+r;33112111;143934;2170279;11;59
+r;53784349;143934;2582621;11;59
+r;77423652;143934;3206002;11;59
+r;77642881;143934;3225107;11;59
+r;78059347;143934;3230335;11;59
+r;86187080;143934;3365522;11;59
+r;93486504;143934;3745111;11;59
+r;95178739;143934;3800188;11;59
+r;109433450;143934;5526630;11;59
+r;18503078;143934;589540;11;60
+r;29765241;143934;1822433;11;60
+r;33112003;143934;2170306;11;60
+r;33112019;143934;2170302;11;60
+r;33112035;143934;2170298;11;60
+r;52453918;143934;2547523;11;60
+r;76803691;143934;3180787;11;60
+r;76804924;143934;3180788;11;60
+r;77015706;143934;3183914;11;60
+r;77365166;143934;3193654;11;60
+r;83670602;143934;3319615;11;60
+r;83670626;143934;3319612;11;60
+r;86188820;143934;3365354;11;60
+r;109334996;143934;5522249;11;60
+r;109485022;143934;5534287;11;60
+r;29719941;143934;1817868;11;61
+r;29861463;143934;1849932;11;61
+r;29865106;143934;1849173;11;61
+r;29885848;143934;1844886;11;61
+r;76221736;143934;3170048;11;61
+r;29884323;143934;1845267;11;62
+r;29887906;143934;1844457;11;62
+r;29854932;143934;1851280;11;63
+r;29861457;143934;1849933;11;63
+r;72182479;143934;2935438;11;63
+r;76141581;143934;3167673;11;63
+r;29483720;143934;1801079;11;65
+r;76028372;143934;3161801;11;65
+r;29848937;143934;1852626;11;68
+r;73174324;143934;2956022;11;69
+r;12575011;143934;381572;11;101
+r;12614237;143934;371973;11;101
+r;12685107;143934;354516;11;101
+r;12710365;143934;348234;11;101
+r;12710393;143934;348227;11;101
+r;12710925;143934;348099;11;101
+r;12742333;143934;340708;11;101
+r;12616621;143934;371410;11;102
+r;12626805;143934;368923;11;102
+r;12652095;143934;362598;11;102
+r;12685465;143934;354425;11;102
+r;12702077;143934;350294;11;102
+r;12741303;143934;340966;11;102
+r;12756149;143934;337356;11;102
+r;12701095;143934;350529;11;103
+r;12710377;143934;348231;11;103
+r;12710397;143934;348226;11;103
+r;12740867;143934;341073;11;103
+r;12548569;143934;388203;11;104
+r;12541503;143934;390120;11;105
+r;12544679;143934;389321;11;105
+r;12680923;143934;355556;11;105
+r;12710405;143934;348224;11;105
+r;12542251;143934;389929;11;106
+r;12544931;143934;389257;11;106
+r;12562957;143934;384615;11;106
+r;12616611;143934;371411;11;106
+r;12636423;143934;366446;11;106
+r;12680375;143934;355692;11;106
+r;12710389;143934;348228;11;106
+r;12739599;143934;341370;11;106
+r;12548577;143934;388201;11;107
+r;12574461;143934;381713;11;107
+r;12586869;143934;378713;11;107
+r;12596387;143934;376390;11;107
+r;12627361;143934;368780;11;107
+r;12643461;143934;364704;11;107
+r;12701089;143934;350530;11;107
+r;12761837;143934;335957;11;107
+r;12548561;143934;388205;11;108
+r;12548573;143934;388202;11;108
+r;12557269;143934;386019;11;108
+r;12594223;143934;376936;11;108
+r;12648169;143934;363565;11;108
+r;12651705;143934;362694;11;108
+r;12657361;143934;361333;11;108
+r;12710401;143934;348225;11;108
+r;12548565;143934;388204;11;109
+r;12555425;143934;386487;11;109
+r;12710359;143934;348235;11;109
+r;12710369;143934;348233;11;109
+r;12710381;143934;348230;11;109
+r;12742483;143934;340670;11;109
+r;12744801;143934;340134;11;109
+r;12564953;143934;384147;11;110
+r;12601085;143934;375213;11;110
+r;12613519;143934;372149;11;110
+r;12710373;143934;348232;11;110
+r;12710385;143934;348229;11;110
+r;12710409;143934;348223;11;110
+r;12750373;143934;338809;11;110
+r;11864656;143934;93497;11;121
+r;11864731;143934;93010;11;121
+r;11865059;143934;90762;11;121
+r;11867234;143934;75114;11;121
+r;11868749;143934;64087;11;121
+r;11869276;143934;60819;11;121
+r;11869487;143934;59669;11;121
+r;11870224;143934;54917;11;121
+r;11870380;143934;53995;11;121
+r;11872065;143934;42557;11;121
+r;11872166;143934;41951;11;121
+r;11872967;143934;36580;11;121
+r;11875026;143934;22533;11;121
+r;11851259;143934;243730;11;122
+r;11851263;143934;243729;11;122
+r;11851582;143934;235065;11;122
+r;11851607;143934;234197;11;122
+r;11852321;143934;222142;11;122
+r;11853818;143934;182135;11;122
+r;11856198;143934;167350;11;122
+r;11856326;143934;164257;11;122
+r;11858713;143934;133911;11;122
+r;11860060;143934;124495;11;122
+r;11860401;143934;122146;11;122
+r;11862099;143934;110502;11;122
+r;11863129;143934;103788;11;122
+r;9030112;143934;319422;11;148
+r;9034437;143934;319489;11;148
+r;9066092;143934;321072;11;148
+r;8879649;143934;215059;11;151
+r;8920980;143934;316576;11;151
+r;8877550;143934;194349;11;154
+r;8886566;143934;314845;11;154
+r;8886568;143934;314846;11;154
+r;8830480;143934;314844;11;157
+r;8830668;143934;315209;11;157
+r;8631895;143934;168882;11;160
+r;8707868;143934;242783;11;160
+r;8713354;143934;250066;11;160
+r;8722095;143934;257001;11;160
+r;8726056;143934;259777;11;160
+r;8728475;143934;261750;11;160
+r;8811608;143934;313455;11;160
+r;8633102;143934;170730;11;161
+r;8690595;143934;217416;11;161
+r;8693607;143934;222202;11;161
+r;8695234;143934;224851;11;161
+r;8698546;143934;229866;11;161
+r;8698670;143934;230025;11;161
+r;8699875;143934;231443;11;161
+r;8700818;143934;232351;11;161
+r;8701389;143934;232966;11;161
+r;8703872;143934;236418;11;161
+r;8705420;143934;238378;11;161
+r;8707893;143934;242819;11;161
+r;8708414;143934;244000;11;161
+r;8708511;143934;244162;11;161
+r;8709062;143934;244896;11;161
+r;8712271;143934;248944;11;161
+r;8713350;143934;250063;11;161
+r;8713352;143934;250064;11;161
+r;8713953;143934;250577;11;161
+r;8714497;143934;250994;11;161
+r;8717685;143934;253903;11;161
+r;8720256;143934;255779;11;161
+r;8721790;143934;256800;11;161
+r;8722657;143934;257443;11;161
+r;8725906;143934;259661;11;161
+r;8726680;143934;260243;11;161
+r;8729699;143934;262746;11;161
+r;8811611;143934;313456;11;161
+r;8586983;143934;50615;11;162
+r;8592057;143934;65260;11;162
+r;8596413;143934;78101;11;162
+r;8611705;143934;120978;11;162
+r;8627339;143934;161233;11;162
+r;8629588;143934;165410;11;162
+r;8633445;143934;171040;11;162
+r;8633447;143934;171041;11;162
+r;8644175;143934;184860;11;162
+r;8671847;143934;202365;11;162
+r;8679816;143934;207193;11;162
+r;8682762;143934;208926;11;162
+r;8689668;143934;215157;11;162
+r;8736338;143934;268438;11;162
+r;8736339;143934;268439;11;162
+r;8742039;143934;274166;11;162
+r;8752300;143934;285043;11;162
+r;8762515;143934;295264;11;162
+r;8576340;143934;19462;11;163
+r;8582207;143934;36726;11;163
+r;8588145;143934;53862;11;163
+r;8589175;143934;56649;11;163
+r;8612217;143934;122445;11;163
+r;8622545;143934;151974;11;163
+r;8623398;143934;153552;11;163
+r;8624247;143934;155001;11;163
+r;8625481;143934;157865;11;163
+r;8625664;143934;158364;11;163
+r;8625677;143934;158383;11;163
+r;8634474;143934;172606;11;163
+r;8636244;143934;179749;11;163
+r;8637942;143934;181194;11;163
+r;8638050;143934;181256;11;163
+r;8638490;143934;181520;11;163
+r;8639585;143934;182129;11;163
+r;8639586;143934;182130;11;163
+r;8639588;143934;182131;11;163
+r;8639590;143934;182132;11;163
+r;8639592;143934;182133;11;163
+r;8639594;143934;182134;11;163
+r;8642666;143934;183982;11;163
+r;8642725;143934;184005;11;163
+r;8643687;143934;184569;11;163
+r;8659850;143934;195394;11;163
+r;8661160;143934;196255;11;163
+r;8671867;143934;202373;11;163
+r;8672780;143934;202957;11;163
+r;8673079;143934;203132;11;163
+r;8673857;143934;203588;11;163
+r;8674258;143934;203792;11;163
+r;8678308;143934;206349;11;163
+r;8678774;143934;206630;11;163
+r;8731542;143934;264063;11;163
+r;8732847;143934;265284;11;163
+r;8734617;143934;266866;11;163
+r;8735814;143934;267893;11;163
+r;8735828;143934;267901;11;163
+r;8735904;143934;267992;11;163
+r;8742117;143934;274250;11;163
+r;8743089;143934;275182;11;163
+r;8746113;143934;278466;11;163
+r;8746577;143934;278984;11;163
+r;8747291;143934;279860;11;163
+r;8749579;143934;282241;11;163
+r;8751074;143934;283910;11;163
+r;8752294;143934;285041;11;163
+r;8756553;143934;288569;11;163
+r;8756962;143934;288997;11;163
+r;8762403;143934;295122;11;163
+r;8763544;143934;296440;11;163
+r;8764820;143934;297903;11;163
+r;8766795;143934;300084;11;163
+r;8768835;143934;302375;11;163
+r;8769312;143934;302850;11;163
+r;8770574;143934;304306;11;163
+r;8770761;143934;304494;11;163
+r;8773063;143934;307365;11;163
+r;8774133;143934;308405;11;163
+r;8776452;143934;310588;11;163
+r;8776455;143934;310589;11;163
+r;8776583;143934;310709;11;163
+r;8777019;143934;311072;11;163
+r;8648059;143934;187177;11;164
+r;8653097;143934;190690;11;164
+r;8654875;143934;192166;11;164
+r;8655421;143934;192478;11;164
+r;8655900;143934;192758;11;164
+r;8658918;143934;194582;11;164
+r;8658933;143934;194594;11;164
+r;8663688;143934;197629;11;164
+r;8663695;143934;197633;11;164
+r;8666397;143934;199234;11;164
+r;8667323;143934;199817;11;164
+r;8777075;143934;311120;11;164
+r;8778181;143934;312003;11;164
+r;8778870;143934;312559;11;164
+r;8779211;143934;312824;11;164
+r;8574672;143934;14142;11;165
+r;8575238;143934;15848;11;165
+r;8576734;143934;20730;11;165
+r;8577030;143934;21619;11;165
+r;8577182;143934;22068;11;165
+r;8665867;143934;198891;11;165
+r;8665869;143934;198892;11;165
+r;8665871;143934;198893;11;165
+r;8665873;143934;198894;11;165
+r;8665875;143934;198895;11;165
+r;8665877;143934;198896;11;165
+r;8665878;143934;198897;11;165
+r;8665880;143934;198898;11;165
+r;8665883;143934;198900;11;165
+r;8665885;143934;198901;11;165
+r;8665887;143934;198902;11;165
+r;8665889;143934;198903;11;165
+r;8668001;143934;200217;11;165
+r;8669251;143934;200794;11;165
+r;8571635;143934;4918;11;166
+r;8573164;143934;9691;11;166

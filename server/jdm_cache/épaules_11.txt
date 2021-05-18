@@ -1,0 +1,100 @@
+
+e;159947;'épaules';1;90
+e;6346609;'paon à épaules noires';1;0
+e;6385204;'genoux et épaules douleur dans les hanches';1;0
+e;6397140;'épisode de soins non précisé dystocie des épaules';1;0
+e;14159631;'avoir les épaules solides';1;0
+e;6289238;'épaules engagées';1;0
+e;6390185;'dépôt de graisse autour des épaules';1;0
+e;6416355;'antepartum dystocie des épaules';1;0
+e;6423844;'raideur des épaules';1;0
+e;16043008;'de la tête et des épaules';1;0
+e;11056045;'Sur les épaules de Darwin';777;0
+e;11994738;'Des nains sur des épaules de géants';777;0
+e;15346346;'aux épaules carrées';1;0
+e;15428120;'cache-épaules';1;0
+e;15197243;'carré d'épaules';1;0
+e;1832531;'dystocie des épaules';1;0
+e;14159630;'avoir les épaules en bouteille de Saint-Galmier';1;0
+e;6430694;'avec accouchement, dystocie des épaules';1;0
+e;15526606;'Sa chemise pendait sur ses maigres épaules.';1;0
+e;15792195;'Tête et épaules';777;0
+e;9929862;'dystocie des épaules avec accouchement';1;0
+e;11255044;'Les Hommes sans épaules';777;0
+e;6434779;'dystocie des épaules pendant le travail et l'accouchement';1;0
+e;2481648;'lever les épaules';1;0
+e;6448917;'manoeuvre d'abaissement des épaules';1;0
+e;12625200;'couper le buste à hauteur des épaules';1;0
+e;12617592;'à hauteur des épaules';1;0
+e;15327460;'Il porte un lourd fardeau sur ses épaules.';1;0
+e;3387614;'Opossum à épaules noires';777;0
+e;2538550;'opossum à épaules noires';1;0
+e;4902823;'grisin à épaules rousses';1;0
+e;3162184;'Euplecte à épaules orangées';777;0
+e;4902047;'alapi à épaules blanches';1;0
+e;1850093;'enclavement des épaules';1;0
+e;1804891;'avoir les épaules en portemanteau';1;0
+e;3162181;'Euplecte à épaules blanches';777;0
+e;389951;'épaules larges';1;50
+e;389949;'épaules carrées';1;50
+e;337742;'autour des épaules de';1;50
+e;220917;'large d'épaules';1;50
+e;263538;'haussement d'épaules';1;50
+e;254882;'avoir les épaules larges';1;50
+e;90419;'hausser les épaules';1;50
+e;203431;'marcher des épaules';1;50
+e;186637;'ouvrir ses épaules';1;50
+e;192885;'euplecte à épaules blanches';1;50
+e;192886;'euplecte à épaules orangées';1;50
+e;196572;'avoir la tête sur les épaules';1;54
+e;197283;'carré des épaules';1;50
+e;199145;'en avoir par-dessus les épaules';1;50
+r;301563915;159947;6346609;11;25
+r;303995603;159947;6385204;11;25
+r;349264239;159947;6397140;11;25
+r;359709656;159947;14159631;11;25
+r;298388452;159947;6289238;11;26
+r;304585006;159947;6390185;11;26
+r;305682458;159947;6416355;11;27
+r;122743547;159947;6423844;11;28
+r;419768170;159947;16043008;11;30
+r;280003741;159947;11056045;11;31
+r;312563874;159947;11994738;11;32
+r;419625110;159947;15346346;11;32
+r;419675390;159947;15428120;11;32
+r;419687048;159947;15197243;11;32
+r;29969871;159947;1832531;11;33
+r;359709468;159947;14159630;11;33
+r;122690505;159947;6430694;11;34
+r;419538517;159947;15526606;11;34
+r;419556371;159947;15792195;11;34
+r;219834636;159947;9929862;11;39
+r;288475644;159947;11255044;11;39
+r;121574702;159947;6434779;11;42
+r;52484966;159947;2481648;11;43
+r;121057348;159947;6448917;11;43
+r;323174449;159947;12625200;11;50
+r;324936836;159947;12617592;11;50
+r;402109004;159947;15327460;11;50
+r;86943100;159947;3387614;11;51
+r;52458210;159947;2538550;11;53
+r;102404114;159947;4902823;11;53
+r;76035104;159947;3162184;11;56
+r;102378338;159947;4902047;11;56
+r;29860520;159947;1850093;11;59
+r;29527632;159947;1804891;11;61
+r;76035788;159947;3162181;11;69
+r;12542163;159947;389951;11;106
+r;12542169;159947;389949;11;107
+r;12754723;159947;337742;11;108
+r;8879838;159947;220917;11;151
+r;8882081;159947;263538;11;151
+r;8719082;159947;254882;11;161
+r;8600771;159947;90419;11;163
+r;8673582;159947;203431;11;163
+r;8647248;159947;186637;11;164
+r;8656110;159947;192885;11;164
+r;8656112;159947;192886;11;164
+r;8661787;159947;196572;11;164
+r;8663143;159947;197283;11;164
+r;8666280;159947;199145;11;164

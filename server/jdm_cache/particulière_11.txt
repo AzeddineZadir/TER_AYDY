@@ -1,0 +1,86 @@
+
+e;132596;'particulière';1;76
+e;6354104;'examen radiologique diagnostique avec étude particulière';1;0
+e;14452867;'conséquences d'une particulière gravité';1;0
+e;14452844;'conséquence d'une particulière gravité';1;0
+e;14453663;'faits d'une particulière gravité';1;0
+e;6395024;'complication particulière de certaines interventions précisées';1;0
+e;14466948;'structure procédurale particulière de réplication virale au sein d'un hôte eucaryote';1;0
+e;10662824;'La Leçon particulière';777;0
+e;15371240;'disposition particulière';1;0
+e;15451944;'donner une saveur particulière à [qch]';1;0
+e;15261977;'donner une saveur particulière à qch';1;0
+e;15760109;'donner une saveur particulière à quelque chose';1;0
+e;15371247;'clause particulière';1;0
+e;6423184;'préparation particulière post-mortem d'un corps';1;0
+e;5678404;'forme particulière de voyage';1;0
+e;5678403;'forme particulière de voyage dans le temps';1;0
+e;1827080;'alimentation particulière';1;0
+e;6013313;'étoile chimiquement particulière';777;0
+e;13341162;'Étoile chimiquement particulière';777;0
+e;6008286;'galaxie particulière';777;0
+e;14779732;'BPH demandant une attention particulière';777;0
+e;16072574;'Conséquence d'une particulière gravité';1;0
+e;16072576;'Conséquences d'une particulière gravité';1;0
+e;16073065;'Faits d'une particulière gravité';1;0
+e;1781242;'cabine particulière';1;0
+e;3319338;'aliment destiné à une alimentation particulière à des fins médicales spéciales';1;0
+e;1457409;'situation particulière';1;0
+e;3319654;'denrée alimentaire destinée à une alimentation particulière';1;0
+e;3319340;'denrée alimentaire diététique destinée à une alimentation particulière';1;0
+e;2751972;'différence de buts particulière';777;0
+e;361326;'leçon particulière';1;50
+e;387334;'vocation de modalité particulière';1;50
+e;335087;'amitié particulière';1;50
+e;337866;'avarie particulière';1;50
+e;337227;'attention particulière';1;50
+e;362811;'maison particulière';1;50
+e;325544;'façon particulière à quelqu'un de voir les choses';1;50
+e;244613;'collection particulière';1;50
+e;254700;'voiture particulière';1;50
+e;261874;'chambre particulière';1;52
+e;55474;'Une journée particulière';1;54
+e;181358;'carte particulière';1;50
+e;206475;'proposition particulière';1;50
+r;301755316;132596;6354104;11;25
+r;366875117;132596;14452867;11;25
+r;366880958;132596;14452844;11;25
+r;366915406;132596;14453663;11;25
+r;400813615;132596;6395024;11;25
+r;367108270;132596;14466948;11;26
+r;267330793;132596;10662824;11;27
+r;419784803;132596;15371240;11;30
+r;419792748;132596;15451944;11;30
+r;419792758;132596;15261977;11;30
+r;419792766;132596;15760109;11;30
+r;419713188;132596;15371247;11;31
+r;122748663;132596;6423184;11;32
+r;111464493;132596;5678404;11;33
+r;111464499;132596;5678403;11;33
+r;29846738;132596;1827080;11;35
+r;118502140;132596;6013313;11;42
+r;338844850;132596;13341162;11;44
+r;118518758;132596;6008286;11;45
+r;376032766;132596;14779732;11;50
+r;418901214;132596;16072574;11;50
+r;418901226;132596;16072576;11;50
+r;419102005;132596;16073065;11;50
+r;29226127;132596;1781242;11;52
+r;83672140;132596;3319338;11;55
+r;23875828;132596;1457409;11;58
+r;83670407;132596;3319654;11;58
+r;83672131;132596;3319340;11;58
+r;62458495;132596;2751972;11;61
+r;12657393;132596;361326;11;101
+r;12552041;132596;387334;11;103
+r;12765321;132596;335087;11;105
+r;12754273;132596;337866;11;107
+r;12756659;132596;337227;11;108
+r;12651237;132596;362811;11;110
+r;10741769;132596;325544;11;148
+r;8708869;132596;244613;11;161
+r;8718832;132596;254700;11;161
+r;8728645;132596;261874;11;161
+r;8588732;132596;55474;11;163
+r;8638234;132596;181358;11;163
+r;8678530;132596;206475;11;163

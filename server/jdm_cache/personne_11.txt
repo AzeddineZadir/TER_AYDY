@@ -1,0 +1,1172 @@
+
+e;116477;'personne';1;10218
+e;15513134;'personne en bonne santé';1;0
+e;6290781;'blessure par chute ou éjection d'une personne montant un animal ou occupant un véhicule dans un capotage sans collision';1;0
+e;6285931;'personne âgée en bonne santé de sexe masculin';1;0
+e;6286360;'personne âgée négligée';1;0
+e;6290108;'personne adoptée';1;0
+e;6298636;'corps d'une personne récemment décédée bien préservé';1;0
+e;6300254;'personne souffrant de trouble mental';1;0
+e;6320104;'éducation spéciale d'une personne handicapée';1;0
+e;6321031;'réévaluation périodique et prise en charge d'une personne en bonne santé';1;0
+e;6321870;'soins dentaires de la personne handicapée';1;0
+e;6326004;'personne souffrant d'un trouble mental';1;0
+e;6344975;'abus d'une personne âgée';1;0
+e;6349487;'personne âgée victime de mauvais traitements';1;0
+e;6364785;'problème relié aux soins d'une personne malade';1;0
+e;6364677;'personne âgée abusée psychologiquement';1;0
+e;6367719;'personne âgée maltraitée';1;0
+e;6373200;'personne religieuse';1;0
+e;6375777;'psychothérapie centrée sur la personne';1;0
+e;6375676;'par une personne non précisée';1;0
+e;6378809;'personne âgée bien-portante de sexe masculin';1;0
+e;6385053;'mauvais traitements envers les personne âgées';1;0
+e;6387862;'confidentialité des données génétiques de la personne';1;0
+e;6393134;'chute ou éjection d'une personne montant un animal ou occupant un véhicule à traction animale dans un accident sans collision';1;0
+e;6394221;'personne sans assurance médicale';1;0
+e;6398188;'ménage d'une personne';1;0
+e;6400358;'physiologie nutritionnelle de la personne âgée';1;0
+e;6412041;'personne souffrant de troubles mentaux';1;0
+e;6414466;'personne âgée bien-portante de sexe féminin';1;0
+e;6417608;'personne âgée en bonne santé de sexe féminin';1;0
+e;6420378;'physiologie de la nutrition de la personne âgée';1;0
+e;6368964;'phénomènes physiologiques nutritionnels de la personne âgée';1;0
+e;6408141;'personne âgée bien-portante';1;0
+e;13684412;'retrouver une personne disparue';1;0
+e;6298445;'sexe de la personne';1;0
+e;13823327;'nom d'une personne physique en France';777;0
+e;14161336;'faire tourner une personne';1;0
+e;6411455;'exposition à une attaque par une autre personne';1;0
+e;14300649;'personne trompée';1;0
+e;14350918;'personne qui mange';1;0
+e;14450830;'personne grossière';1;0
+e;14450831;'personne brutale';1;0
+e;14450832;'personne dépourvue d'intelligence';1;0
+e;14452393;'atteinte à la dignité de la personne';1;0
+e;14452424;'délaissement de personne hors d'état de se protéger';1;0
+e;14452575;'signalement de personne vulnérable';1;0
+e;14452775;'assignation à personne';1;0
+e;14452976;'représentation en justice de la personne en tutelle par son tuteur';1;0
+e;14452902;'personne protégée';1;0
+e;14452991;'assistance de la personne sous curatelle par son curateur';1;0
+e;14452987;'application en matière de protection de la personne sous curatelle';1;0
+e;14452926;'personne habilitée';1;0
+e;14453027;'personne devant informer l'enfant de ses droits';1;0
+e;14453214;'décès d'une personne dont le moment du décès est inconnu';1;0
+e;14453644;'accompagnement d'une personne en fin de vie';1;0
+e;14454082;'personne publique candidate';1;0
+e;14530837;'Positionner la personne';777;0
+e;14530872;'personne 2';777;0
+e;14530834;'Protéger la personne d'autres morsures';777;0
+e;14536870;'personne un peu bête';1;0
+e;14536872;'personne nigaude';1;0
+e;14536871;'personne empotée';1;0
+e;14562540;'personne naturellement immunisée';1;0
+e;14572390;'système de transport d'une personne';1;0
+e;14573122;'personne dominée';1;0
+e;14573121;'personne dominante';1;0
+e;14594496;'personne chargée de l'accueil';1;0
+e;14609313;'personne à la mer';1;0
+e;14637879;'ne laisser personne au bord du chemin';1;0
+e;14638023;'ne dépendre de personne';1;90
+e;14653067;'personne sans intelligence';1;0
+e;14656598;'personne maniaque';1;60
+e;14656594;'personne caractérielle';1;56
+e;14669572;'propre personne';1;0
+e;14669643;'seule et même personne';777;0
+e;14733140;'personne vierge';1;0
+e;6388692;'accident sai de personne montant un animal';1;0
+e;15473664;'personne trouvée morte';1;0
+e;14883285;'mort d'une personne';1;0
+e;15668250;'personne instruite';1;0
+e;14908312;'personne du sexe masculin';1;0
+e;14908311;'personne du sexe féminin';1;0
+e;15473663;'personne inconnue trouvée morte';1;0
+e;15414169;'personne d'autre';1;0
+e;15414168;'personne au foyer';1;0
+e;6313324;'protection des données génétiques de la personne';1;0
+e;6316659;'infection par une personne vaccinée';1;0
+e;6334234;'dépendance envers la personne qui donne les soins';1;0
+e;6344891;'exposition à une personne vaccinée';1;0
+e;15594363;'personne blessée dans une attaque à la bombe';1;0
+e;15594358;'personne blessée dans un attentat';1;0
+e;15594356;'personne blessée dans un accident de la route';1;0
+e;15594362;'personne blessée dans un bombardement';1;0
+e;15594357;'personne blessée dans un accident de la circulation';1;0
+e;6367750;'infection par une personne vaccinée infectée';1;0
+e;6368979;'blessure par chute ou éjection d'une personne montant un animal ou occupant un véhicule dans un capotage';1;0
+e;15789784;'personne agissante';1;0
+e;15811297;'serrer une personne dans ses bras';1;0
+e;15822142;'personne sourde';1;0
+e;15921667;'personne infectée';1;0
+e;16171269;'personne non-binaire';1;0
+e;16194528;'le point de vue en première personne';777;0
+e;16491251;'être sous la responsabilité d'une personne';1;0
+e;16491252;'responsabilité d'une personne';1;0
+e;16491278;'personne à l'origine de quelque chose';1;0
+e;6286743;'personne au sol heurtée et blessée par un objet tombant d'un aéronef';1;0
+e;6288019;'besoin d'une surveillance permanente provoquant une dépendance envers la personne qui donne les soins';1;0
+e;6314017;'personne blessée en montant ou en descendant d'un véhicule spécial utilisé essentiellement pour des travaux agricoles';1;0
+e;6321845;'chute accidentelle de la personne portée';1;0
+e;6327501;'autres mauvais traitements par une personne non précisée';1;0
+e;6352567;'personne mariée';1;0
+e;6378787;'personne non assurée sociale';1;0
+e;6387349;'entré en collision avec une autre personne';1;0
+e;6389110;'enterrement d'une personne vivante';1;0
+e;6397036;'mauvais traitements des personne âgées';1;0
+e;6403014;'autres difficultés liées à une dépendance envers la personne qui donne les soins';1;0
+e;6404657;'personne demandant avorter';1;0
+e;6421477;'personne blessée en montant ou en descendant d'un véhicule spécial de construction';1;0
+e;6290643;'personne au sol aspirée et blessée par un réacteur';1;0
+e;6324918;'personne âgée en bonne santé';1;0
+e;13637992;'personne surdouée';1;0
+e;14166780;'personne grammaticale';1;16
+e;14488400;'personne en situation irrégulière';1;0
+e;14502844;'personne coincée';1;0
+e;14532426;'ne parler à personne';1;4
+e;14532433;'personne isolée';1;2
+e;14558090;'ne faire confiance à personne';1;0
+e;14580292;'personne compétente en radioprotection';1;0
+e;14585974;'n'avoir peur de personne';1;0
+e;14629316;'personne fruste';1;0
+e;15594359;'personne blessée dans un accident du travail';1;0
+e;16087396;'regroupements de personnes';1;0
+e;16170732;'transmission de personne à personne';1;0
+e;6292684;'personne en bonne santé accompagnant un sujet malade';1;0
+e;6308794;'personne montant un animal ou occupant un véhicule à traction animale blessée dans une collision avec animal monté';1;0
+e;6311665;'personne abusée';1;0
+e;6312676;'difficultés liées à une dépendance envers la personne qui donne les soins';1;0
+e;6315130;'personne montant un animal ou occupant un véhicule à traction animale blessée dans une collision avec un cycle';1;0
+e;6320080;'personne blessée en montant ou en descendant d'un véhicule tout-terrain ou autre véhicule à moteur essentiellement conçu pour être utilisé hors d'une route';1;0
+e;6322256;'personne blessée en montant ou en descendant d'un train ou d'un véhicule ferroviaire';1;0
+e;6325036;'personne montant un animal ou occupant un véhicule à traction animale blessée dans une collision avec un autre véhicule à moteur précisé';1;0
+e;6327735;'personne consultant pour le compte d'un tiers';1;0
+e;6341561;'personne montant un animal ou occupant un véhicule à traction animale blessée dans une collision avec un objet fixe ou stationnaire';1;0
+e;6355926;'difficultés liées à une mobilité restreinte provoquant une dépendance envers la personne qui donne les soins';1;0
+e;6368823;'personne montant un animal ou occupant un véhicule à traction animale blessée dans un accident de transport';1;0
+e;6376082;'personne blessée en montant ou en descendant d'un véhicule spécial utilisé essentiellement sur un site industriel';1;0
+e;6400010;'personne montant un animal ou occupant un véhicule à traction animale blessée dans une collision avec un train ou un véhicule ferroviaire';1;0
+e;6403552;'personne montant un animal ou occupant un véhicule à traction animale blessée dans une collision avec un véhicule à moteur à deux ou trois roues';1;0
+e;12200239;'personne jeune et en bonne santé';1;0
+e;6432923;'tierce personne lors de l'examen médical';1;0
+e;6429366;'phénomènes physiologiques de la nutrition de la personne âgée';1;0
+e;6087501;'Toute personne accusée d'une infraction pénale a droit';777;0
+e;6087500;'Toute personne accusée d'une infraction pénale est présumée innocente jusqu'à ce que sa culpabilité ait été légalement établie';777;0
+e;11769776;'Portugal est composer de personne poilue de la tete au pied';777;0
+e;12903560;'mis en examen pour le meurtre d'une personne';1;0
+e;12903559;'enquête sur la mort d'une personne';1;0
+e;5798421;'pronom de la troisième personne du singulier';1;0
+e;5798420;'pronom de la troisième personne du pluriel';1;0
+e;6437351;'besoin d'assistance et de soins d'hygiène provoquant une dépendance envers la personne qui donne les soins';1;0
+e;6422309;'infection chez une personne âgée';1;0
+e;9990038;'La mort n'oublie personne';777;0
+e;10600051;'Commission des droits de la personne et des droits de la jeunesse';777;0
+e;10600052;'Tribunal des droits de la personne';777;0
+e;10989755;'personne sans scrupules';1;0
+e;11049789;'statut d'une personne';1;0
+e;12320531;'Lettre d'un docteur de Sorbonne à une personne de condition sur ce qui est arrivé depuis peu dans une paroisse de Paris à un seigneur de la Cour';777;0
+e;12320530;'Lettre à une personne de condition';777;0
+e;15358743;'crime contre la personne';1;0
+e;15414148;'culte de la personne';1;0
+e;6261601;'personne la plus importante';1;0
+e;6442559;'personne à l'extérieur d'un véhicule spécial de construction blessée dans un accident de la circulation';1;0
+e;6430657;'personne blessée en montant ou en descendant d'un tramway';1;0
+e;9985654;'nom de personne en hongrois';777;0
+e;9980995;'supprimer une personne';1;0
+e;9980231;'diriger le robinet vers une autre personne';1;0
+e;14453213;'décès d'une personne non-identifiée';1;0
+e;15277378;'chez la personne âgée';1;0
+e;15320534;'chien-guide pour personne sourde ou malentendante';1;0
+e;15414146;'comme personne';1;0
+e;15530960;'consommation par personne';1;0
+e;5678975;'jeu vidéo de tir à la troisième personne';1;0
+e;6427703;'personne sans abris';1;0
+e;6427343;'personne blessée dans une collision sai avec un véhicule';1;0
+e;9971283;'personne d'intérêt';777;0
+e;11027136;'personne française';1;0
+e;11031275;'personne collante';1;0
+e;11072515;'personne en dépression';1;0
+e;11405924;'personne en détresse';1;0
+e;15272880;'auguste personne';1;0
+e;15462039;'autoportrait réalisé à partir d'un téléphone portable, souvent pour montrer une expression, un décor, une personne importante à côté';1;0
+e;15383432;'avoir besoin de personne';1;0
+e;15492656;'ayant personne auprès de qui trouver refuge';1;0
+e;15414144;'bien de sa personne';1;0
+e;15414143;'bien fait de sa personne';1;0
+e;15376716;'bonne personne';1;0
+e;15414145;'c'est toi qui + [2e personne du singulier]';1;0
+e;15348042;'c'est une grande gueule, c'est une personne qui parle plus qu'elle n'agit';1;0
+e;15499249;'ce n'est un secret pour personne que';1;0
+e;15645666;'chambre pour une personne';1;0
+e;10992115;'personne niaise';1;0
+e;13117874;'faire du mal à une personne';1;0
+e;15350589;'apparaître en personne';1;0
+e;15369519;'apprendre à ne dépendre de personne';1;0
+e;15343792;'atteinte à l'intégrité de la personne';1;0
+e;16319166;'absolument aucun/aucune, absolument personne';1;0
+e;6422944;'syndrome de la personne battue';1;0
+e;6693791;'personne immuno-déprimée';1;0
+e;11347272;'récit à la première personne';777;0
+e;12305324;'dénomination d'une personne en japonais';777;0
+e;16073641;'Non-assistance à personne en danger';1;0
+e;15414197;'Que personne ne bouge !';1;0
+e;16074168;'Représentation en justice de la personne en tutelle par son tuteur';1;0
+e;15780465;'Services à la personne';777;0
+e;16074378;'Signalement de personne vulnérable';1;0
+e;15390734;'Une personne est toujours recherchée.';1;0
+e;15468411;'Vous avez arrêté la mauvaise personne.';1;0
+e;15360618;'actionnaire personne physique';1;0
+e;15572306;'ami de tous ami de personne';1;0
+e;6431811;'personne blessée en montant ou descendant de l'aéronef';1;0
+e;6430789;'personne montant un animal ou occupant un véhicule à traction animale blessée dans une collision avec un piéton ou un animal';1;0
+e;10748131;'Ne faites confiance à personne';777;0
+e;11347263;'personne hors d'elle';1;0
+e;11407514;'aide à la personne';1;0
+e;6374619;'accident de cerf-volant portant une personne blessant un occupant';1;0
+e;15572524;'Le voyage coûte deux cents euros par personne.';1;0
+e;16327454;'Elle joue du piano comme personne.';1;0
+e;10834262;'personne responsable de la prise de vues';1;0
+e;10748750;'personne responsable';1;0
+e;11022939;'personne privée de liberté';1;0
+e;11287465;'ou sur la personne de l'auteur';777;0
+e;11287429;'personne en surpoids';1;0
+e;11577363;'guider une personne aveugle';1;0
+e;12005619;'éliminer une personne';1;0
+e;12075427;'donner de sa personne';1;4
+e;12080526;'personne politiquement exposée';1;0
+e;12080525;'personne exposée à la corruption';1;0
+e;15198660;'de personne en personne';1;0
+e;6429915;'inhumation d'une personne vivante';1;0
+e;6429337;'personne âgée fragile';1;0
+e;10297866;'Charte des droits et libertés de la personne';777;0
+e;10866638;'personne armée';1;0
+e;10936797;'personne moche';1;0
+e;11932638;'personne squelettique';1;0
+e;6064984;'maltraitance des personne âgées';1;0
+e;10750600;'Que personne ne sorte';777;0
+e;11295338;'personne dure';1;0
+e;11656435;'Commission canadienne des droits de la personne';777;0
+e;2437018;'ne voir personne';1;0
+e;10347886;'personne de mérite culturel';777;0
+e;11237216;'document délivré par une personne compétente';1;0
+e;11302124;'personne atypique';1;0
+e;11978169;'personne astucieuse';1;0
+e;12054246;'personne en recherche d'emploi';1;0
+e;12057481;'personne jeune';1;0
+e;2370874;'personne rusée';1;0
+e;2374834;'de sa personne';1;0
+e;6445321;'violence et négligence à l'égard des personne âgées';1;0
+e;10383258;'personne en grève';1;0
+e;11237695;'personne de médiocre condition';1;0
+e;11237694;'jeune personne de médiocre condition';1;0
+e;11254953;'désigner une personne';1;0
+e;11384058;'personne sans emploi';1;0
+e;11571821;'personne adulte';1;0
+e;2435774;'deuxième personne du pluriel';1;0
+e;6596516;'personne en fin de vie';1;0
+e;11977551;'conception chrétienne de la personne';1;0
+e;13389872;'personne non cisgenre';1;0
+e;13389871;'personne non hétérosexuelle';1;0
+e;13389873;'personne non dyadique';1;0
+e;6594987;'vue à la troisième personne';777;0
+e;10097832;'Le fils de personne';777;0
+e;10427351;'capturer une personne';1;0
+e;11219769;'personne économe';1;0
+e;13271335;'personne de petite taille';1;0
+e;15198662;'appel de personne à personne';1;0
+e;6443614;'personne à l'extérieur d'un véhicule spécial de construction blessée dans un accident en dehors de la circulation';1;0
+e;6423921;'cerf-volant portant une personne';1;0
+e;6447841;'personne à l'extérieur d'un tramway';1;0
+e;11104828;'âge d'une personne';777;0
+e;11304608;'personne blessée';1;0
+e;2428180;'première personne du pluriel';1;6
+e;10144424;'exécuter une personne';1;0
+e;10177460;'personne de la famille';1;0
+e;10177462;'personne cardiaque';1;0
+e;2466489;'troisième personne du singulier';1;0
+e;2445224;'troisième personne du pluriel';1;0
+e;2479749;'personne du sexe';1;0
+e;2480703;'première personne du singulier';1;0
+e;6451627;'personne qui effectue une descente après un accident d'aéronef';1;0
+e;8569185;'personne morte';1;0
+e;8693522;'personne non identifiée';1;0
+e;8738812;'personne ruinée';1;0
+e;8738763;'personne en vacances';1;0
+e;8749242;'personne riche';1;0
+e;8758434;'obséder une personne';1;0
+e;8758323;'égorger une personne';1;0
+e;8752218;'personne angoissée';1;0
+e;8788518;'manger une personne';1;0
+e;8788476;'violer une personne';1;0
+e;8788342;'zigouiller une personne';1;0
+e;8788318;'tuer une personne';1;0
+e;8803919;'personne perfide';1;0
+e;9020319;'personne malade';1;0
+e;9188268;'personne souffrant de malnutrition';1;0
+e;9247734;'accident de personne montant un animal';1;0
+e;9247951;'personne blessée dans une collision avec un véhicule';1;0
+e;9258871;'représentation d'une personne';1;0
+e;9517597;'Téléassistance à la personne';777;0
+e;9726572;'harceler une personne';1;0
+e;9740401;'ne fâcher personne';1;0
+e;11118432;'personne très importante';777;0
+e;11131129;'majoration pour aide constante d'une tierce personne';777;0
+e;11135906;'approche centrée sur la personne';777;0
+e;12247991;'personne active';1;0
+e;12730915;'personne dépressive';1;0
+e;12699209;'personne rousse';1;0
+e;14530835;'Calmer la personne';777;0
+e;15313744;'Elle ne trouve personne qui sache la combler.';1;0
+e;15321622;'Elle est toujours si soignée de sa personne.';1;0
+e;15262086;'Il n'a voulu nommer personne.';1;0
+e;15203325;'3 par personne';1;0
+e;15256783;'Après tout, personne ne peut nous obliger à y aller.';1;0
+e;15400372;'C'est la personne idéale pour ce travail.';1;0
+e;15350593;'C'était Jim Murdoch en personne.';1;0
+e;15395899;'C'était une personne très vigoureuse.';1;0
+e;15549620;'10 euros par personne';1;0
+e;15239436;'Je ne veux citer personne.';1;0
+e;15780476;'3e personne ou lorsqu'on parle d'elle';777;0
+e;16071962;'Accompagnement d'une personne en fin de vie';1;0
+e;16072145;'Application en matière de protection de la personne sous curatelle';1;0
+e;16072168;'Assignation à personne';1;0
+e;16072170;'Assistance de la personne sous curatelle par son curateur';1;0
+e;16072194;'Atteinte à la dignité de la personne';1;0
+e;16072318;'Candidature(s) : personne publique';1;0
+e;16072892;'Délaissement de personne hors d'état de se protéger';1;0
+e;1526384;'jeu de tir à la première personne';777;0
+e;1735731;'personne timide';1;0
+e;1762250;'personne immuno-déprimé';1;0
+e;1781495;'personne qui prie';1;0
+e;1781493;'personne qui change qch';1;0
+e;1781170;'personne sondée';1;0
+e;2356728;'à cette personne';1;0
+e;3185328;'personne malveillante';1;0
+e;3442651;'personne importante';1;0
+e;4342721;'personne prudente';1;0
+e;4898747;'personne de race noire';1;0
+e;5308217;'n'avoir besoin de personne';1;14
+e;1873730;'personne d'esprit fermé';1;0
+e;3232106;'personne compétente';1;0
+e;3298710;'personne laide';1;0
+e;3557388;'personne fortunée';1;0
+e;5386266;'personne en prière';1;0
+e;1524769;'jeu de tir à la troisième personne';777;0
+e;1644726;'personne sans caractère';1;0
+e;2627445;'personne naïve';1;0
+e;3297468;'personne vorace';1;0
+e;3673635;'personne malfaisante';1;0
+e;3714861;'autre personne';1;0
+e;3877171;'personne raisonnable';1;0
+e;1300509;'personne transgenre';777;0
+e;1781494;'personne qui fredonne';1;0
+e;1781492;'personne interrogée';1;0
+e;1864983;'personne gentille';1;0
+e;2353153;'personne fichée';1;0
+e;3286189;'personne chanceuse';1;0
+e;3298388;'personne qui se bronze';1;0
+e;462653;'L'analyse appliqué du comportement d'une personne';777;50
+e;1254193;'personne politique';1;0
+e;1753873;'accident de personne';1;0
+e;2560605;'belle personne';1;0
+e;3294938;'personne insensible';1;0
+e;3298228;'personne irritable';1;0
+e;4340255;'personne sans scrupule';1;0
+e;5317728;'personne de grande taille';1;0
+e;1472100;'personne peu intelligente';1;2
+e;1646527;'droits de la personne';777;0
+e;1649400;'personne louche';1;0
+e;1976563;'personne versatile';1;0
+e;2590974;'personne connue';1;2
+e;2602105;'personne malhonnête';1;0
+e;3469318;'personne intransigeante';1;0
+e;3873248;'cinquième personne';1;0
+e;3848061;'sixième personne';1;0
+e;5507446;'satisfait de sa personne';1;0
+e;593993;'personne fragile';1;0
+e;593997;'personne vulnérable';1;0
+e;5335054;'personne en état de légitime défense';1;0
+e;5522250;'double d'une personne';1;0
+e;2519526;'deuxième personne du singulier';1;0
+e;3437746;'personne en retard';1;0
+e;3492043;'personne crédule';1;0
+e;3556042;'personne bête';1;0
+e;5519324;'jeu vidéo de tir à la première personne';1;0
+e;1761177;'personne à la peau claire';1;0
+e;1773578;'personne qui se dispute';1;0
+e;1894760;'personne excessivement pudique';1;0
+e;2515910;'pas mal de sa personne';1;0
+e;2594054;'jeu de tir à la première personne multijoueur en ligne';1;0
+e;3180305;'L'analyse appliquée du comportement d'une personne';777;0
+e;3298719;'personne qui bronze';1;0
+e;3705725;'ne vouloir voir personne';1;0
+e;5522249;'double d'une personne vivante';1;0
+e;2565348;'quatrième personne';1;0
+e;2519097;'il faut vraiment être le fils de personne';1;0
+e;3227782;'personne grande';1;0
+e;3232059;'personne concernée';1;0
+e;3434692;'personne faible';1;0
+e;3964456;'ne rien devoir à personne';1;46
+e;1841229;'personne-année';1;0
+e;1875611;'personne essentielle';1;0
+e;2949345;'personne sénile';1;0
+e;3017982;'personne remarquable';1;0
+e;2953140;'personne médisante';1;0
+e;332187;'personne célèbre';1;50
+e;332501;'personne honnête';1;50
+e;378573;'sans considération de personne';1;50
+e;370012;'petite personne';1;50
+e;369828;'personne de condition';1;50
+e;369825;'personne aux mobilité réduite';1;50
+e;369799;'personne seule';1;50
+e;369793;'personne déplacée';1;54
+e;369789;'personne de bonne volonté';1;50
+e;350845;'en la personne';1;50
+e;369833;'personne tirée';1;50
+e;369832;'personne présentant bien';1;50
+e;369827;'personne d'ordre';1;50
+e;369800;'personne à la charge';1;50
+e;378631;'sans personne';1;52
+e;369831;'personne morale sociétaire';1;50
+e;369794;'personne morale de droit public';1;50
+e;369788;'personne civile';1;50
+e;332140;'personne inconnue';1;2
+e;369801;'personne à mobilité réduite';1;50
+e;369795;'personne physique ou morale';1;52
+e;369790;'personne de connaissance';1;50
+e;368466;'par jour et par personne';1;50
+e;364192;'mieux que personne d'autre';1;50
+e;364191;'mieux que personne';1;50
+e;360139;'jeune personne';1;50
+e;369830;'personne haut-placée';1;50
+e;369826;'personne avertie';1;50
+e;369027;'pas ici pour personne';1;50
+e;364676;'moins que personne';1;50
+e;369834;'personne à la mobilité réduite';1;50
+e;369798;'personne sensée';1;50
+e;391088;'personne obèse';1;56
+e;387654;'vol commis au préjudice d'une personne vulnérable';1;50
+e;371260;'plus que personne';1;50
+e;369792;'personne de service';1;50
+e;368538;'par personne';1;50
+e;369797;'personne sans défense';1;50
+e;366482;'nom de personne';1;50
+e;359729;'intégrité de la personne humaine';1;50
+e;357952;'honnête personne';1;50
+e;391087;'personne diabétique';1;50
+e;393129;'Erreur sur la personne';1;50
+e;332216;'personne cruelle';1;50
+e;369796;'personne ressource';1;50
+e;369791;'personne de qualité';1;50
+e;350846;'en la personne de';1;50
+e;330958;'respect de la personne humaine';1;50
+e;30327;'pèse-personne';1;62
+e;318218;'personne énergique';1;54
+e;318941;'personne ennuyeuse';1;10
+e;320787;'personne illustre';1;58
+e;321540;'personne douce';1;52
+e;322043;'personne en perte d'autonomie';1;50
+e;322227;'personne insignifiante';1;50
+e;330439;'personne méchante';1;50
+e;330530;'condition d'une personne';1;50
+e;330522;'droit de disposer de sa personne';1;50
+e;260411;'disparition inquiétante d'une personne majeure';1;50
+e;167512;'personne qui énumère';1;50
+e;167610;'deuxième personne';1;52
+e;207916;'se produire en personne';1;50
+e;208740;'ta petite personne';1;50
+e;211289;'n'avoir de compte à rendre à personne';1;50
+e;211290;'n'avoir de comptes à rendre à personne';1;50
+e;216790;'personne géniale';1;2
+e;217944;'personne curieuse';1;50
+e;219531;'personne originale';1;52
+e;224758;'personne fatiguée';1;54
+e;229293;'personne qui lit';1;64
+e;230036;'pèse personne';666;50
+e;230514;'Ne le dis à personne';1;50
+e;232228;'personne privée';1;50
+e;232626;'assistance à la personne';1;50
+e;233132;'personne stupide';1;2
+e;234015;'personne intelligente';1;50
+e;240723;'personne maigre';1;56
+e;242640;'personne sans volonté';1;50
+e;245962;'dignité de la personne humaine';1;50
+e;246465;'personne servile';1;50
+e;250156;'personne sensible s'abstenir';1;2
+e;250157;'personne sensible';1;50
+e;250286;'personne dépendante';1;92
+e;250287;'personne âgée dépendante';1;36
+e;251567;'personne en difficulté';1;6
+e;251763;'personne méprisable';1;52
+e;254104;'personne d'origine étrangère';1;54
+e;256506;'personne handicapée';1;2
+e;256508;'personne mineure';1;54
+e;256509;'personne majeure';1;12
+e;256546;'personne de sexe féminin';1;6
+e;256547;'personne de sexe masculin';1;4
+e;256626;'personne en vue';1;50
+e;259877;'personne à risque';1;72
+e;260294;'services à la personne';1;50
+e;260410;'personne disparue';1;54
+e;261509;'personne lente';1;50
+e;261730;'personne charismatique';1;50
+e;262420;'personne avide';1;50
+e;263492;'personne en deuil';1;50
+e;313444;'personne experte';1;50
+e;313700;'personne peu recommandable';1;50
+e;232162;'personne publique';1;50
+e;53874;'La Rose de personne';1;50
+e;58267;'non-assistance à personne en danger';1;52
+e;101011;'payer de sa personne';1;50
+e;160492;'personne agée';1;54
+e;161497;'personne qui enseigne le catéchisme';1;50
+e;164618;'personne qui sonde';1;52
+e;165726;'personne de couleur';1;50
+e;180603;'2e personne';1;50
+e;180605;'3e personne';1;50
+e;203240;'ma petite personne';1;50
+e;204308;'ne relever de personne';1;50
+e;207053;'respect de la dignité de la personne';1;50
+e;209838;'vieille personne';1;50
+e;211508;'personne d'univers';1;50
+e;213741;'personne sans importance';1;50
+e;213871;'personne molle';1;50
+e;214020;'personne docile';1;50
+e;215621;'personne talentueuse';1;52
+e;233319;'personne aimée';1;12
+e;236595;'personne à charge';1;50
+e;293352;'une personne qui domine';777;50
+e;293631;'Un livre pour tous et pour personne';777;50
+e;306013;'ne pas diriger le robinet vers une autre personne';777;50
+e;38177;'Femmes de personne';1;50
+e;77904;'tierce personne';1;50
+e;158959;'personne âgée';1;186
+e;179377;'première personne';1;16
+e;179449;'troisième personne';1;6
+e;180602;'1re personne';1;50
+e;180633;'acception de personne';1;50
+e;183628;'personne juridique';1;4
+e;183630;'personne prospectable';1;50
+e;183631;'personne prospectée';1;50
+e;184267;'service de recherche de personne';1;50
+e;202149;'infatué de sa personne';1;50
+e;205711;'plus personne';1;50
+e;265280;'personne d'exception';1;50
+e;266139;'personne insupportable';1;50
+e;266612;'personne décédée';1;52
+e;267279;'histoire d'une personne';1;50
+e;268500;'personne à vélo';1;50
+e;269251;'personne assermentée';1;50
+e;281482;'abstention volontaire de porter assistance à une personne en péril';777;50
+e;285230;'personne malvoyante';777;50
+e;291669;'personne bègue';777;50
+e;291670;'personne qui bégaie';777;50
+e;308942;'vue à la première personne';777;50
+e;132352;'Hormis le roi, personne';1;50
+e;135237;'Fils de personne';1;50
+e;196146;'assistance à personne en danger';1;50
+e;200304;'faire arrêt sur la personne de';1;50
+e;200410;'faire don de sa personne';1;50
+e;199683;'erreur sur la personne';1;50
+e;11107;'retournement sur la personne propre';1;50
+e;183629;'personne physique';1;30
+e;96032;'personne morale';1;90
+e;249131;'sa petite personne';1;60
+e;189875;'personne humaine';1;62
+e;189876;'personne de confiance';1;86
+e;205031;'par personne interposée';1;66
+e;57238;'grande personne';1;78
+e;69599;'en personne';1;88
+r;397127816;116477;15513134;11;25
+r;396790015;116477;6290781;11;25
+r;298082879;116477;6285931;11;25
+r;298130650;116477;6286360;11;25
+r;298410973;116477;6290108;11;25
+r;299034477;116477;6298636;11;25
+r;299128462;116477;6300254;11;25
+r;299944452;116477;6320104;11;25
+r;300082490;116477;6321031;11;25
+r;300119392;116477;6321870;11;25
+r;300196881;116477;6326004;11;25
+r;301548794;116477;6344975;11;25
+r;301727288;116477;6349487;11;25
+r;302182849;116477;6364785;11;25
+r;302183583;116477;6364677;11;25
+r;302947560;116477;6367719;11;25
+r;303132429;116477;6373200;11;25
+r;303623928;116477;6375777;11;25
+r;303630809;116477;6375676;11;25
+r;303640895;116477;6378809;11;25
+r;303993750;116477;6385053;11;25
+r;304494314;116477;6387862;11;25
+r;304870477;116477;6393134;11;25
+r;304993001;116477;6394221;11;25
+r;305059414;116477;6398188;11;25
+r;305144528;116477;6400358;11;25
+r;305480106;116477;6412041;11;25
+r;305619459;116477;6414466;11;25
+r;305688421;116477;6417608;11;25
+r;305706372;116477;6420378;11;25
+r;341157113;116477;6368964;11;25
+r;341231951;116477;6408141;11;25
+r;347680018;116477;13684412;11;25
+r;349263377;116477;6298445;11;25
+r;349902610;116477;13823327;11;25
+r;359762024;116477;14161336;11;25
+r;401030371;116477;6411455;11;25
+r;364096415;116477;14300649;11;25
+r;364831770;116477;14350918;11;25
+r;366718691;116477;14450830;11;25
+r;366718700;116477;14450831;11;25
+r;366718709;116477;14450832;11;25
+r;366857341;116477;14452393;11;25
+r;366860933;116477;14452424;11;25
+r;366865228;116477;14452575;11;25
+r;366873758;116477;14452775;11;25
+r;366880110;116477;14452976;11;25
+r;366880950;116477;14452902;11;25
+r;366882184;116477;14452991;11;25
+r;366884756;116477;14452987;11;25
+r;366884771;116477;14452926;11;25
+r;366895770;116477;14453027;11;25
+r;366900806;116477;14453214;11;25
+r;366915825;116477;14453644;11;25
+r;366929852;116477;14454082;11;25
+r;368625742;116477;14530837;11;25
+r;368632879;116477;14530872;11;25
+r;368641155;116477;14530834;11;25
+r;369388136;116477;14536870;11;25
+r;369388148;116477;14536872;11;25
+r;369388501;116477;14536871;11;25
+r;369990778;116477;14562540;11;25
+r;370339832;116477;14572390;11;25
+r;370360997;116477;14573122;11;25
+r;370361335;116477;14573121;11;25
+r;370813369;116477;14594496;11;25
+r;371236210;116477;14609313;11;25
+r;371852092;116477;14637879;11;25
+r;371853982;116477;14638023;11;25
+r;372425653;116477;14653067;11;25
+r;372740024;116477;14656598;11;25
+r;372740047;116477;14656594;11;25
+r;372990896;116477;14669572;11;25
+r;373021852;116477;14669643;11;25
+r;374567856;116477;14733140;11;25
+r;400775162;116477;6388692;11;25
+r;395805396;116477;15473664;11;25
+r;385985110;116477;14883285;11;25
+r;402667737;116477;15668250;11;25
+r;389881968;116477;14908312;11;25
+r;389882004;116477;14908311;11;25
+r;395805430;116477;15473663;11;25
+r;395203491;116477;15414169;11;25
+r;395203527;116477;15414168;11;25
+r;398423074;116477;6313324;11;25
+r;398499277;116477;6316659;11;25
+r;399574197;116477;6334234;11;25
+r;399961703;116477;6344891;11;25
+r;400046731;116477;15594363;11;25
+r;400046804;116477;15594358;11;25
+r;400046806;116477;15594356;11;25
+r;400046831;116477;15594362;11;25
+r;400046901;116477;15594357;11;25
+r;400275833;116477;6367750;11;25
+r;400388533;116477;6368979;11;25
+r;410445379;116477;15789784;11;25
+r;411748175;116477;15811297;11;25
+r;412342504;116477;15822142;11;25
+r;414450042;116477;15921667;11;25
+r;424083060;116477;16171269;11;25
+r;425774211;116477;16194528;11;25
+r;433860412;116477;16491251;11;25
+r;433860424;116477;16491252;11;25
+r;433860695;116477;16491278;11;25
+r;298191908;116477;6286743;11;26
+r;298253077;116477;6288019;11;26
+r;299627466;116477;6314017;11;26
+r;300119172;116477;6321845;11;26
+r;300208584;116477;6327501;11;26
+r;301746025;116477;6352567;11;26
+r;303646728;116477;6378787;11;26
+r;304481901;116477;6387349;11;26
+r;304553374;116477;6389110;11;26
+r;305047636;116477;6397036;11;26
+r;305269039;116477;6403014;11;26
+r;305299975;116477;6404657;11;26
+r;305711980;116477;6421477;11;26
+r;340941278;116477;6290643;11;26
+r;341013931;116477;6324918;11;26
+r;345936265;116477;13637992;11;26
+r;359994466;116477;14166780;11;26
+r;368169550;116477;14488400;11;26
+r;368325027;116477;14502844;11;26
+r;368703032;116477;14532426;11;26
+r;368703141;116477;14532433;11;26
+r;369908001;116477;14558090;11;26
+r;370452498;116477;14580292;11;26
+r;370645609;116477;14585974;11;26
+r;371598694;116477;14629316;11;26
+r;400047007;116477;15594359;11;26
+r;419480719;116477;16087396;11;26
+r;424061775;116477;16170732;11;26
+r;298506017;116477;6292684;11;27
+r;299572918;116477;6308794;11;27
+r;299588858;116477;6311665;11;27
+r;299596942;116477;6312676;11;27
+r;299648248;116477;6315130;11;27
+r;299914635;116477;6320080;11;27
+r;300121322;116477;6322256;11;27
+r;300186929;116477;6325036;11;27
+r;300209230;116477;6327735;11;27
+r;301482617;116477;6341561;11;27
+r;301804063;116477;6355926;11;27
+r;302969035;116477;6368823;11;27
+r;303628467;116477;6376082;11;27
+r;305135527;116477;6400010;11;27
+r;305292515;116477;6403552;11;27
+r;316340469;116477;12200239;11;27
+r;122671539;116477;6432923;11;28
+r;122700626;116477;6429366;11;28
+r;119668830;116477;6087501;11;29
+r;119668842;116477;6087500;11;29
+r;301865824;116477;11769776;11;29
+r;331241837;116477;12903560;11;29
+r;331241844;116477;12903559;11;29
+r;113793942;116477;5798421;11;30
+r;113793951;116477;5798420;11;30
+r;121551759;116477;6437351;11;30
+r;122755396;116477;6422309;11;30
+r;226987255;116477;9990038;11;30
+r;264440153;116477;10600051;11;30
+r;264440147;116477;10600052;11;30
+r;277553734;116477;10989755;11;30
+r;280288107;116477;11049789;11;30
+r;320429510;116477;12320531;11;30
+r;320429530;116477;12320530;11;30
+r;419751125;116477;15358743;11;30
+r;419755487;116477;15414148;11;30
+r;119706879;116477;6261601;11;31
+r;121505088;116477;6442559;11;31
+r;122690766;116477;6430657;11;31
+r;222096676;116477;9985654;11;31
+r;222102975;116477;9980995;11;31
+r;222104301;116477;9980231;11;31
+r;366896993;116477;14453213;11;31
+r;419706221;116477;15277378;11;31
+r;419706665;116477;15320534;11;31
+r;419720848;116477;15414146;11;31
+r;419734063;116477;15530960;11;31
+r;111463563;116477;5678975;11;32
+r;122713549;116477;6427703;11;32
+r;122716447;116477;6427343;11;32
+r;221471396;116477;9971283;11;32
+r;279329481;116477;11027136;11;32
+r;279653033;116477;11031275;11;32
+r;283113060;116477;11072515;11;32
+r;293505409;116477;11405924;11;32
+r;419622367;116477;15272880;11;32
+r;419623336;116477;15462039;11;32
+r;419628516;116477;15383432;11;32
+r;419640609;116477;15492656;11;32
+r;419652009;116477;15414144;11;32
+r;419652197;116477;15414143;11;32
+r;419658901;116477;15376716;11;32
+r;419671563;116477;15414145;11;32
+r;419672036;116477;15348042;11;32
+r;419691362;116477;15499249;11;32
+r;419697200;116477;15645666;11;32
+r;277926100;116477;10992115;11;33
+r;337338298;116477;13117874;11;33
+r;419601684;116477;15350589;11;33
+r;419604338;116477;15369519;11;33
+r;419616552;116477;15343792;11;33
+r;434368263;116477;16319166;11;33
+r;122750562;116477;6422944;11;34
+r;122796216;116477;6693791;11;34
+r;290725001;116477;11347272;11;34
+r;319720672;116477;12305324;11;34
+r;419513268;116477;16073641;11;34
+r;419531316;116477;15414197;11;34
+r;419534432;116477;16074168;11;34
+r;419544258;116477;15780465;11;34
+r;419545459;116477;16074378;11;34
+r;419558259;116477;15390734;11;34
+r;419561858;116477;15468411;11;34
+r;419575852;116477;15360618;11;34
+r;419591184;116477;15572306;11;34
+r;122681416;116477;6431811;11;35
+r;122689797;116477;6430789;11;35
+r;269385572;116477;10748131;11;35
+r;290700183;116477;11347263;11;35
+r;293261405;116477;11407514;11;35
+r;400571962;116477;6374619;11;35
+r;419494259;116477;15572524;11;35
+r;432057060;116477;16327454;11;35
+r;270917585;116477;10834262;11;36
+r;269064803;116477;10748750;11;36
+r;279245561;116477;11022939;11;36
+r;288805763;116477;11287465;11;36
+r;289904501;116477;11287429;11;36
+r;297642834;116477;11577363;11;36
+r;312874974;116477;12005619;11;36
+r;314516101;116477;12075427;11;36
+r;315112368;116477;12080526;11;36
+r;315112374;116477;12080525;11;36
+r;419769271;116477;15198660;11;36
+r;122696487;116477;6429915;11;37
+r;122700833;116477;6429337;11;37
+r;247436785;116477;10297866;11;37
+r;272426157;116477;10866638;11;37
+r;275270196;116477;10936797;11;37
+r;309082683;116477;11932638;11;37
+r;118849268;116477;6064984;11;38
+r;269378371;116477;10750600;11;38
+r;289891532;116477;11295338;11;38
+r;298598941;116477;11656435;11;38
+r;55179240;116477;2437018;11;39
+r;254175847;116477;10347886;11;39
+r;287953938;116477;11237216;11;39
+r;289888922;116477;11302124;11;39
+r;311094278;116477;11978169;11;39
+r;313797006;116477;12054246;11;39
+r;313822432;116477;12057481;11;39
+r;51555492;116477;2370874;11;40
+r;52211167;116477;2374834;11;40
+r;121480327;116477;6445321;11;40
+r;254890193;116477;10383258;11;40
+r;287980484;116477;11237695;11;40
+r;287980605;116477;11237694;11;40
+r;288462175;116477;11254953;11;40
+r;292321136;116477;11384058;11;40
+r;297217951;116477;11571821;11;40
+r;55122948;116477;2435774;11;41
+r;122161662;116477;6596516;11;41
+r;310773376;116477;11977551;11;41
+r;339424773;116477;13389872;11;41
+r;339424799;116477;13389871;11;41
+r;339425053;116477;13389873;11;41
+r;122104847;116477;6594987;11;42
+r;234227904;116477;10097832;11;42
+r;256238317;116477;10427351;11;42
+r;287639370;116477;11219769;11;42
+r;338932830;116477;13271335;11;42
+r;419602940;116477;15198662;11;42
+r;121495578;116477;6443614;11;43
+r;122742920;116477;6423921;11;43
+r;121457617;116477;6447841;11;44
+r;282591385;116477;11104828;11;44
+r;289662357;116477;11304608;11;44
+r;54689428;116477;2428180;11;45
+r;236364891;116477;10144424;11;45
+r;238441730;116477;10177460;11;45
+r;238441744;116477;10177462;11;45
+r;55783973;116477;2466489;11;46
+r;55350958;116477;2445224;11;47
+r;60588033;116477;2479749;11;47
+r;60048287;116477;2480703;11;48
+r;121032625;116477;6451627;11;49
+r;153087214;116477;8569185;11;50
+r;165294236;116477;8693522;11;50
+r;171865269;116477;8738812;11;50
+r;171865543;116477;8738763;11;50
+r;178699007;116477;8749242;11;50
+r;180161121;116477;8758434;11;50
+r;180161295;116477;8758323;11;50
+r;180161649;116477;8752218;11;50
+r;183652350;116477;8788518;11;50
+r;183652358;116477;8788476;11;50
+r;183652389;116477;8788342;11;50
+r;183652395;116477;8788318;11;50
+r;187421360;116477;8803919;11;50
+r;195410689;116477;9020319;11;50
+r;208418851;116477;9188268;11;50
+r;211470645;116477;9247734;11;50
+r;211473090;116477;9247951;11;50
+r;211695019;116477;9258871;11;50
+r;214294024;116477;9517597;11;50
+r;217598913;116477;9726572;11;50
+r;217990530;116477;9740401;11;50
+r;282238972;116477;11118432;11;50
+r;282806236;116477;11131129;11;50
+r;283090868;116477;11135906;11;50
+r;317965600;116477;12247991;11;50
+r;327320786;116477;12730915;11;50
+r;327330611;116477;12699209;11;50
+r;368626929;116477;14530835;11;50
+r;397499657;116477;15313744;11;50
+r;397498681;116477;15321622;11;50
+r;402108142;116477;15262086;11;50
+r;395008863;116477;15203325;11;50
+r;395009705;116477;15256783;11;50
+r;395010937;116477;15400372;11;50
+r;395011835;116477;15350593;11;50
+r;395012125;116477;15395899;11;50
+r;398434799;116477;15549620;11;50
+r;402273187;116477;15239436;11;50
+r;411618464;116477;15780476;11;50
+r;418897942;116477;16071962;11;50
+r;418898721;116477;16072145;11;50
+r;418898825;116477;16072168;11;50
+r;418898832;116477;16072170;11;50
+r;418898948;116477;16072194;11;50
+r;418899735;116477;16072318;11;50
+r;419101266;116477;16072892;11;50
+r;24946629;116477;1526384;11;51
+r;28516761;116477;1735731;11;51
+r;28964403;116477;1762250;11;51
+r;29225269;116477;1781495;11;51
+r;29225277;116477;1781493;11;51
+r;29226379;116477;1781170;11;51
+r;48900987;116477;2356728;11;51
+r;77237928;116477;3185328;11;51
+r;87452484;116477;3434817;11;51
+r;87945765;116477;3442651;11;51
+r;99087440;116477;4342721;11;51
+r;102161888;116477;4898747;11;51
+r;106736512;116477;5308217;11;51
+r;30320733;116477;1873730;11;52
+r;78335466;116477;3232106;11;52
+r;82491412;116477;3298710;11;52
+r;87452500;116477;3434821;11;52
+r;87462026;116477;3435590;11;52
+r;88787427;116477;3557388;11;52
+r;107306132;116477;5386266;11;52
+r;24935660;116477;1524769;11;53
+r;26054371;116477;1644726;11;53
+r;59536154;116477;2627445;11;53
+r;82265338;116477;3297468;11;53
+r;87462049;116477;3434925;11;53
+r;91522735;116477;3673635;11;53
+r;92819844;116477;3714861;11;53
+r;95174294;116477;3877171;11;53
+r;22890849;116477;1300509;11;54
+r;29225273;116477;1781494;11;54
+r;29225283;116477;1781492;11;54
+r;30244028;116477;1864983;11;54
+r;34265602;116477;2338021;11;54
+r;34770398;116477;2353153;11;54
+r;80402591;116477;3286189;11;54
+r;82397384;116477;3298388;11;54
+r;87452361;116477;3434816;11;54
+r;87462046;116477;3435151;11;54
+r;16321753;116477;462653;11;55
+r;22651589;116477;1254193;11;55
+r;28846248;116477;1753873;11;55
+r;34264810;116477;2338022;11;55
+r;52447695;116477;2560605;11;55
+r;81999045;116477;3294938;11;55
+r;82362594;116477;3298228;11;55
+r;87452537;116477;3434707;11;55
+r;87456449;116477;3434924;11;55
+r;99031815;116477;4340255;11;55
+r;106808182;116477;5317728;11;55
+r;24372036;116477;1472100;11;56
+r;26120877;116477;1646527;11;56
+r;26363796;116477;1649400;11;56
+r;32052555;116477;1976563;11;56
+r;54728753;116477;2590974;11;56
+r;55338121;116477;2602105;11;56
+r;87453871;116477;3434820;11;56
+r;88187769;116477;3469318;11;56
+r;95174527;116477;3873248;11;56
+r;95176058;116477;3848061;11;56
+r;108219391;116477;5507446;11;56
+r;18629531;116477;593993;11;57
+r;18629602;116477;593997;11;57
+r;106908546;116477;5335054;11;57
+r;109334645;116477;5522250;11;57
+r;52467225;116477;2519526;11;58
+r;87472818;116477;3437746;11;58
+r;88354619;116477;3492043;11;58
+r;88770220;116477;3556042;11;58
+r;108869939;116477;5519324;11;58
+r;28953177;116477;1761177;11;59
+r;29133349;116477;1773578;11;59
+r;30550189;116477;1894760;11;59
+r;52468958;116477;2515910;11;59
+r;54876479;116477;2594054;11;59
+r;76768505;116477;3180305;11;59
+r;82495035;116477;3298719;11;59
+r;87462059;116477;3434708;11;59
+r;92509294;116477;3705725;11;59
+r;109334998;116477;5522249;11;59
+r;52445610;116477;2565348;11;60
+r;52467431;116477;2519097;11;60
+r;77803696;116477;3227782;11;60
+r;78333987;116477;3232059;11;60
+r;87452104;116477;3434692;11;60
+r;87457187;116477;3435152;11;60
+r;87462023;116477;3435591;11;60
+r;95169276;116477;3964456;11;60
+r;29910840;116477;1841229;11;61
+r;30343464;116477;1875611;11;64
+r;72630399;116477;2949345;11;64
+r;74446963;116477;3017982;11;67
+r;72901052;116477;2953140;11;69
+r;12126066;116477;332187;11;101
+r;12396548;116477;332501;11;101
+r;12587531;116477;378573;11;101
+r;12622411;116477;370012;11;101
+r;12623215;116477;369828;11;101
+r;12623227;116477;369825;11;101
+r;12623341;116477;369799;11;101
+r;12623377;116477;369793;11;101
+r;12623393;116477;369789;11;101
+r;12699993;116477;350845;11;101
+r;12623189;116477;369833;11;102
+r;12623193;116477;369832;11;102
+r;12623219;116477;369827;11;102
+r;12623337;116477;369800;11;102
+r;12587235;116477;378631;11;103
+r;12623197;116477;369831;11;103
+r;12623367;116477;369794;11;103
+r;12623399;116477;369788;11;103
+r;12124501;116477;332140;11;104
+r;12623331;116477;369801;11;104
+r;12623359;116477;369795;11;104
+r;12623389;116477;369790;11;104
+r;12628509;116477;368466;11;104
+r;12645615;116477;364192;11;104
+r;12645625;116477;364191;11;104
+r;12662223;116477;360139;11;104
+r;12623205;116477;369830;11;105
+r;12623223;116477;369826;11;105
+r;12626455;116477;369027;11;105
+r;12643581;116477;364676;11;105
+r;12623183;116477;369834;11;106
+r;12623345;116477;369798;11;106
+r;13029628;116477;391088;11;106
+r;12550783;116477;387654;11;107
+r;12617313;116477;371260;11;107
+r;12623381;116477;369792;11;107
+r;12628279;116477;368538;11;107
+r;12623349;116477;369797;11;108
+r;12636269;116477;366482;11;108
+r;12663875;116477;359729;11;108
+r;12671039;116477;357952;11;108
+r;13029632;116477;391087;11;108
+r;13284736;116477;393129;11;109
+r;12127514;116477;332216;11;110
+r;12623355;116477;369796;11;110
+r;12623385;116477;369791;11;110
+r;12699989;116477;350846;11;110
+r;12032728;116477;330958;11;117
+r;11873862;116477;30327;11;121
+r;8993722;116477;318218;11;148
+r;9015281;116477;318941;11;148
+r;9060396;116477;320787;11;148
+r;9062664;116477;321041;11;148
+r;9062665;116477;321042;11;148
+r;9077556;116477;321540;11;148
+r;9086183;116477;322043;11;148
+r;9097112;116477;322227;11;148
+r;11944340;116477;330439;11;148
+r;11992745;116477;330530;11;148
+r;11992767;116477;330522;11;148
+r;8726881;116477;260411;11;160
+r;8630920;116477;167512;11;161
+r;8631054;116477;167610;11;161
+r;8681024;116477;207916;11;161
+r;8682400;116477;208740;11;161
+r;8686402;116477;211289;11;161
+r;8686406;116477;211290;11;161
+r;8690367;116477;216790;11;161
+r;8690829;116477;217944;11;161
+r;8691664;116477;219531;11;161
+r;8695170;116477;224758;11;161
+r;8698180;116477;229293;11;161
+r;8698678;116477;230036;11;161
+r;8699046;116477;230514;11;161
+r;8700699;116477;232228;11;161
+r;8701092;116477;232626;11;161
+r;8701455;116477;233132;11;161
+r;8701854;116477;234015;11;161
+r;8706767;116477;240723;11;161
+r;8707765;116477;242640;11;161
+r;8709712;116477;245962;11;161
+r;8710084;116477;246465;11;161
+r;8713459;116477;250156;11;161
+r;8713462;116477;250157;11;161
+r;8713679;116477;250286;11;161
+r;8713681;116477;250287;11;161
+r;8715241;116477;251567;11;161
+r;8715369;116477;251763;11;161
+r;8717947;116477;254104;11;161
+r;8721317;116477;256506;11;161
+r;8721321;116477;256508;11;161
+r;8721323;116477;256509;11;161
+r;8721370;116477;256546;11;161
+r;8721373;116477;256547;11;161
+r;8721512;116477;256626;11;161
+r;8726166;116477;259877;11;161
+r;8726748;116477;260294;11;161
+r;8726877;116477;260410;11;161
+r;8728204;116477;261509;11;161
+r;8728451;116477;261730;11;161
+r;8729245;116477;262420;11;161
+r;8730673;116477;263492;11;161
+r;8811596;116477;313444;11;161
+r;8811900;116477;313700;11;161
+r;2289605;116477;232162;11;162
+r;8588152;116477;53874;11;162
+r;8589728;116477;58267;11;162
+r;8604502;116477;101011;11;162
+r;8626917;116477;160492;11;162
+r;8627485;116477;161497;11;162
+r;8629133;116477;164618;11;162
+r;8629752;116477;165726;11;162
+r;8637027;116477;180603;11;162
+r;8637029;116477;180605;11;162
+r;8673270;116477;203240;11;162
+r;8675165;116477;204308;11;162
+r;8679566;116477;207053;11;162
+r;8684333;116477;209838;11;162
+r;8686753;116477;211508;11;162
+r;8688970;116477;213741;11;162
+r;8688997;116477;213871;11;162
+r;8689050;116477;214020;11;162
+r;8689990;116477;215621;11;162
+r;8701544;116477;233319;11;162
+r;8704035;116477;236595;11;162
+r;8760983;116477;293352;11;162
+r;8761226;116477;293631;11;162
+r;8771854;116477;306013;11;162
+r;8582687;116477;38177;11;163
+r;8596344;116477;77904;11;163
+r;8626037;116477;158959;11;163
+r;8636144;116477;179377;11;163
+r;8636154;116477;179449;11;163
+r;8637026;116477;180602;11;163
+r;8637070;116477;180633;11;163
+r;8642104;116477;183628;11;163
+r;8642107;116477;183630;11;163
+r;8642108;116477;183631;11;163
+r;8643195;116477;184267;11;163
+r;8671464;116477;202149;11;163
+r;8677366;116477;205711;11;163
+r;8732841;116477;265280;11;163
+r;8733816;116477;266139;11;163
+r;8734301;116477;266612;11;163
+r;8735216;116477;267279;11;163
+r;8736371;116477;268500;11;163
+r;8737042;116477;269251;11;163
+r;8748837;116477;281482;11;163
+r;8752456;116477;285230;11;163
+r;8759472;116477;291669;11;163
+r;8759474;116477;291670;11;163
+r;8774743;116477;308942;11;163
+r;8615773;116477;132352;11;164
+r;8616818;116477;135237;11;164
+r;8660978;116477;196146;11;164
+r;8668168;116477;200304;11;165
+r;8668396;116477;200410;11;165
+r;2290716;116477;199683;11;166
+r;8573652;116477;11107;11;168
+r;1815409;116477;183629;11;209
+r;1815410;116477;96032;11;209
+r;2215579;116477;249131;11;236
+r;623488;116477;189875;11;240
+r;623490;116477;189876;11;240
+r;1846353;116477;205031;11;258
+r;1815408;116477;57238;11;319
+r;623489;116477;69599;11;358

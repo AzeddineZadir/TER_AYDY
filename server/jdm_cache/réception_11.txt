@@ -1,0 +1,214 @@
+
+e;125901;'réception';1;520
+e;16155311;'réception à titre isolé';777;0
+e;6353790;'seuil de réception de la parole';1;0
+e;6365529;'mesure du seuil de réception de la parole';1;0
+e;12158764;'mesure d'heure de réception au laboratoire';1;0
+e;12143845;'mesure de date réception de la poche';1;0
+e;12143810;'mesure de date de réception du prélèvement au laboratoire';1;0
+e;12143808;'mesure de date de réception de la tique';1;0
+e;14452896;'réception de la requête';1;0
+e;14453928;'réserve à la réception';1;0
+e;14453788;'réception des travaux';1;0
+e;14454006;'réception de fournitures';1;0
+e;14454163;'justificatif des publications avec accusé de réception de saisie';1;0
+e;14454058;'réception des candidatures et des offres';1;0
+e;14594495;'chef de la réception';1;0
+e;16155310;'réception individuelle';777;0
+e;16155309;'réception UE par type';777;0
+e;16155308;'réception CE par type';777;0
+e;6433570;'aphasie d'expression et de réception';1;0
+e;13736445;'préparer une réception';1;0
+e;14718750;'recommandé avec accusé de réception';1;38
+e;14874970;'demander un accusé de réception';1;28
+e;15029947;'antennes de réception';1;0
+e;12098120;'heure de réception au laboratoire';1;0
+e;12094883;'date réception de la poche';1;0
+e;12094869;'date de réception du prélèvement au laboratoire';1;0
+e;12094868;'date de réception de la tique';1;0
+e;15311260;'demande d'accusé de réception';1;0
+e;15753693;'donner une réception en l'honneur de';1;0
+e;15334884;'dont la réception et la validité sont reconnues par les présentes';1;0
+e;5817514;'qualité de réception en télévision terrestre';777;0
+e;15475868;'confirmation de réception';1;0
+e;15298091;'contrôle de réception';1;0
+e;2422209;'réception-cadeaux';1;0
+e;15592770;'bon de confirmation de réception';1;0
+e;15285555;'case de réception';1;0
+e;11063307;'réception des ondes radioélectriques';777;0
+e;11810911;'réception critique';777;0
+e;11809564;'réception et enregistrement de la télévision';777;0
+e;16074298;'Réserve à la réception';1;0
+e;15242131;'accuser réception de';1;0
+e;15454217;'accuser réception de [qch]';1;0
+e;15762916;'accuser réception de quelque chose';1;0
+e;15311256;'accusé de réception de commande';1;0
+e;15311271;'accusé de réception logique';1;0
+e;15528816;'antenne de réception satellite';1;0
+e;15915863;'antenne en coupole de réception de satel';1;0
+e;15882804;'Schéma de principe de la réception du signal QPSK';777;0
+e;12050006;'analyser les caractéristiques de produits alimentaires à leur réception';1;0
+e;12050046;'suivre des procédures d'évaluation de matières premières à leur réception';1;0
+e;12050448;'vérifier les livraisons à leur réception';1;0
+e;12050983;'opérateur de réception du lait';1;0
+e;15334880;'dont la réception en bonne et due forme a été reconnue, dont la réception et la validité ont été ici reconnues';1;0
+e;10196368;'Salle de réception du IIe acte';777;0
+e;12050984;'opératrice de réception du lait';1;0
+e;6449553;'employé de service d'expédition et de réception';1;0
+e;12053127;'traiter des matériaux de construction à leur réception';1;0
+e;11157091;'réception d'un colis';1;0
+e;2455126;'boite de réception';1;12
+e;11157090;'réception des colis';1;0
+e;16073392;'Justificatif des publications avec accusé de réception de saisie';1;0
+e;13301467;'fosse de réception';777;0
+e;9520660;'courrier en recommandé avec accusé de réception';777;0
+e;11132349;'théorie de la réception';777;0
+e;12682776;'réception d'informations visuelles';1;0
+e;12721546;'réception d'une réponse';1;0
+e;12721545;'réception des réponses';1;0
+e;14755121;'Courrier en recommandé avec accusé de réception';777;0
+e;15788655;'Histoire de la réception de Lope de Aguirre et de sa rébellion';777;0
+e;16071969;'Accusé de réception';1;0
+e;566697;'conditions de réception';777;50
+e;1572396;'réception de travaux';777;0
+e;3223373;'dysphasie de réception';1;0
+e;592749;'centre de réception et de régulation des appels';1;0
+e;3321230;'réception de la vendange';1;0
+e;3321231;'réception de la récolte';1;0
+e;566352;'entonnoir de réception';777;50
+e;2950330;'Salle de réception du';777;0
+e;383324;'terminal de réception';1;50
+e;370680;'pièce de réception';1;50
+e;369348;'payable à la réception';1;50
+e;378500;'salon de réception';1;50
+e;377431;'réception de caution';1;50
+e;335611;'antenne de réception';1;50
+e;381180;'station de réception';1;50
+e;333294;'accusé réception';1;50
+e;347640;'discours de réception';1;50
+e;337867;'avec accusé de réception';1;50
+e;388682;'à la réception';1;50
+e;377432;'réception hétérodyne';1;50
+e;338726;'bassin de réception';1;50
+e;257157;'lettre recommandée avec accusé de réception';1;52
+e;260071;'à réception de facture';1;50
+e;250080;'réception officielle';1;50
+e;260070;'payer à réception de facture';1;50
+e;202553;'la réception';1;50
+e;309167;'lettre recommandée avec avis de réception';777;50
+e;82385;'avis de réception';1;62
+e;130198;'accusé de réception';1;124
+e;155327;'salle de réception';1;72
+e;181185;'boîte de réception';1;32
+e;184810;'vol de réception';1;50
+e;197182;'bureau de réception';1;52
+e;275292;'réception d'onde';777;50
+e;279004;'pilote d'essai - réception';777;50
+e;195687;'accuser réception';1;58
+e;200755;'faisceau de réception';1;50
+r;423822833;125901;16155311;11;25
+r;301754544;125901;6353790;11;25
+r;302187592;125901;6365529;11;25
+r;316695687;125901;12158764;11;25
+r;316745216;125901;12143845;11;25
+r;316745360;125901;12143810;11;25
+r;316745371;125901;12143808;11;25
+r;366876926;125901;14452896;11;25
+r;366923812;125901;14453928;11;25
+r;366925558;125901;14453788;11;25
+r;366927925;125901;14454006;11;25
+r;366931271;125901;14454163;11;25
+r;366933460;125901;14454058;11;25
+r;370813348;125901;14594495;11;25
+r;423793011;125901;16155310;11;25
+r;423793024;125901;16155309;11;25
+r;423810927;125901;16155308;11;25
+r;122665715;125901;6433570;11;26
+r;348280425;125901;13736445;11;26
+r;374231950;125901;14718750;11;26
+r;385041037;125901;14874970;11;26
+r;393353532;125901;15029947;11;26
+r;315590672;125901;12098120;11;27
+r;315616335;125901;12094883;11;27
+r;315616443;125901;12094869;11;27
+r;315616452;125901;12094868;11;27
+r;419770941;125901;15311260;11;30
+r;419792740;125901;15753693;11;30
+r;419793658;125901;15334884;11;30
+r;113771719;125901;5817514;11;31
+r;419730404;125901;15475868;11;31
+r;419737964;125901;15298091;11;31
+r;54498593;125901;2422209;11;32
+r;419657991;125901;15592770;11;32
+r;419688771;125901;15285555;11;32
+r;280420514;125901;11063307;11;33
+r;304671103;125901;11810911;11;33
+r;304681469;125901;11809564;11;33
+r;419537602;125901;16074298;11;34
+r;419571460;125901;15242131;11;34
+r;419571466;125901;15454217;11;34
+r;419571476;125901;15762916;11;34
+r;419571538;125901;15311256;11;34
+r;419571547;125901;15311271;11;34
+r;419597759;125901;15528816;11;34
+r;419597776;125901;15915863;11;34
+r;413881939;125901;15882804;11;35
+r;313684951;125901;12050006;11;36
+r;313691772;125901;12050046;11;36
+r;313696635;125901;12050448;11;36
+r;313711360;125901;12050983;11;36
+r;419793635;125901;15334880;11;36
+r;243272732;125901;10196368;11;37
+r;313727036;125901;12050984;11;37
+r;121051634;125901;6449553;11;38
+r;313750588;125901;12053127;11;40
+r;283817435;125901;11157091;11;41
+r;55575560;125901;2455126;11;42
+r;283814494;125901;11157090;11;42
+r;419106674;125901;16073392;11;42
+r;338399613;125901;13301467;11;44
+r;214362721;125901;9520660;11;50
+r;283084655;125901;11132349;11;50
+r;324829055;125901;12682776;11;50
+r;326573209;125901;12721546;11;50
+r;327325905;125901;12721545;11;50
+r;375089667;125901;14755121;11;50
+r;412546147;125901;15788655;11;50
+r;418897975;125901;16071969;11;50
+r;16975038;125901;566697;11;51
+r;25322882;125901;1572396;11;51
+r;77549936;125901;3223373;11;55
+r;18594564;125901;592749;11;58
+r;83662716;125901;3321230;11;58
+r;83662711;125901;3321231;11;59
+r;16944615;125901;566352;11;60
+r;72707811;125901;2950330;11;65
+r;12568255;125901;383324;11;101
+r;12619721;125901;370680;11;101
+r;12625207;125901;369348;11;104
+r;12587849;125901;378500;11;106
+r;12592205;125901;377431;11;106
+r;12763273;125901;335611;11;107
+r;12576547;125901;381180;11;108
+r;12772235;125901;333294;11;108
+r;12712781;125901;347640;11;109
+r;12754269;125901;337867;11;109
+r;12547129;125901;388682;11;110
+r;12592201;125901;377432;11;110
+r;12750739;125901;338726;11;110
+r;8722338;125901;257157;11;160
+r;8726445;125901;260071;11;160
+r;8713363;125901;250080;11;161
+r;8726443;125901;260070;11;161
+r;8672139;125901;202553;11;162
+r;8775024;125901;309167;11;162
+r;8597918;125901;82385;11;163
+r;8615006;125901;130198;11;163
+r;8624440;125901;155327;11;163
+r;8637925;125901;181185;11;163
+r;8644095;125901;184810;11;163
+r;8662985;125901;197182;11;163
+r;8743189;125901;275292;11;163
+r;8746592;125901;279004;11;163
+r;8660269;125901;195687;11;164
+r;8669179;125901;200755;11;165

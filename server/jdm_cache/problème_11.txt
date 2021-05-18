@@ -1,0 +1,758 @@
+
+e;7190;'problème';1;990
+e;6309126;'problème de relation interpersonnelle sans trouble mental';1;0
+e;6350024;'problème social pauvreté';1;0
+e;6352138;'problème ménopausique';1;0
+e;6359540;'problème de logement';1;0
+e;6364785;'problème relié aux soins d'une personne malade';1;0
+e;6367191;'problème légal';1;0
+e;6375098;'problème non précisé associé à la cavité amniotique et aux membranes';1;0
+e;6386961;'consultation pour problème auditif et/ou trouble de la parole';1;0
+e;6391721;'témoignage légal concernant les aspects du problème ou de la condition du patient';1;0
+e;6402397;'problème conjugal';1;0
+e;6421746;'déposition légale concernant le problème ou la condition du patient';1;0
+e;6323434;'apprentissage par problème';1;0
+e;12985647;'problème de correspondance de Post';777;0
+e;6362000;'problème professionnel environnemental';1;0
+e;13628512;'problème des mariages stables';777;0
+e;13737364;'problème de la rotation des galaxies';777;0
+e;6284892;'épisode de soins non précisé problème non précisé associé à la cavité amniotique et aux membranes';1;0
+e;14113544;'seizième problème de Hilbert';777;0
+e;14113543;'neuvième problème de Hilbert';777;0
+e;14113541;'troisième problème de Hilbert';777;0
+e;14113542;'septième problème de Hilbert';777;0
+e;14558152;'problème NPC';777;0
+e;14562919;'problème d'alimentation électrique';1;0
+e;14581150;'détermination du problème';777;0
+e;14584186;'orienté vers le problème';777;0
+e;14609114;'problème de sécurité alimentaire';1;0
+e;14635676;'problème humain';1;0
+e;14635677;'problème organisationnel';1;0
+e;14635675;'problème humain et organisationnel';1;0
+e;14636446;'problème de la base préférée';777;0
+e;14637934;'problème de neutralité';1;0
+e;14704339;'sans aucun problème';1;0
+e;6366509;'problème de lecture';1;0
+e;15830949;'ne doit pas résoudre le problème à la place des étudiants';777;0
+e;16573599;'problème de correspondance de Post circulaire';777;0
+e;16573600;'problème de correspondance de Post borné';777;0
+e;16573603;'problème de plongement régulier de Post';777;0
+e;16573601;'problème de correspondance de Post marqué';777;0
+e;16573602;'problème de plongement de Post';777;0
+e;6347642;'problème spirituel';1;0
+e;6286335;'problème foetal et placentaire non précisé affectant les soins de la mère';1;0
+e;6291415;'problème relié à des soins médicaux';1;0
+e;6298127;'problème d'eau potable';1;0
+e;6299429;'problème de seringue';1;0
+e;6312301;'problème du système de cathéter de largage';1;0
+e;6328797;'problème de capsule';1;0
+e;6334132;'problème relié au milieu professionnel';1;0
+e;6337063;'problème physique du produit';1;0
+e;6338478;'problème de chargement du système';1;0
+e;6340200;'problème physique du produit liquide';1;0
+e;6344900;'problème budgétaire';1;0
+e;6351029;'problème juridique';1;0
+e;6352955;'problème éducationnel';1;0
+e;6360348;'problème de bruit au travail';1;0
+e;6360896;'problème de raccordement de dispositif';1;0
+e;6365389;'problème de déclenchement du dispositif électrique';1;0
+e;6366234;'problème parent-enfant';1;0
+e;6368777;'problème de menstruation';1;0
+e;6384975;'problème relié à des beaux-parents âgés';1;0
+e;6388344;'problème oculaire';1;0
+e;6388550;'problème de choix de carrière';1;0
+e;6388918;'problème social non causé par un trouble mental';1;0
+e;6389327;'problème relié à des parents âgés';1;0
+e;6399680;'problème de fertilité';1;0
+e;6400359;'problème scolaire';1;0
+e;6420847;'problème de dépôt de dispositif';1;0
+e;6421367;'avec accouchement, problème non précisé associé à la cavité amniotique et aux membranes';1;0
+e;14510633;'problème de vision';1;0
+e;14566624;'problème de tension';1;0
+e;14724020;'poser un problème';1;0
+e;14727898;'comédie à problème';1;0
+e;6314819;'problème de blocage d'un connecteur';1;0
+e;6374623;'affectant les soins de la mère antepartum problème foetal et placentaire non précisé';1;0
+e;6406178;'affectant les soins de la mère avec accouchement problème foetal et placentaire non précisé';1;0
+e;6410579;'antepartum problème non précisé associé à la cavité amniotique et aux membranes';1;0
+e;12116980;'problème de l'évaluation d'un circuit';777;0
+e;6261779;'problème alimentaire du nouveau-né';1;0
+e;10732090;'Le Fond du problème';777;0
+e;5725840;'problème des généraux byzantins';777;0
+e;6443632;'problème d'accommodation visuelle';1;0
+e;6434971;'problème lié à l'accommodation';1;0
+e;6431827;'problème relié à l'emploi';1;0
+e;6431708;'problème d'électrode de dispositif';1;0
+e;6425352;'problème physique du comprimé';1;0
+e;5574128;'résolution de problème';777;2
+e;5574293;'problème de Fermi';777;0
+e;6440863;'problème d'adhésion du dispositif';1;0
+e;15437754;'diagnostic du problème de connexion';1;0
+e;15377517;'dilapider de l'argent pour régler un problème';1;0
+e;15306344;'démêler un problème';1;0
+e;15268026;'désigner comme responsable d'un problème';1;0
+e;5816657;'problème de Mengoli';777;0
+e;5816656;'problème de Bâle';777;0
+e;5816617;'problème tautochrone';777;0
+e;5815891;'problème de la résolution par quadrature';777;0
+e;6432060;'problème d'hygiène';1;2
+e;10993500;'problème de partage du gâteau';777;0
+e;10993499;'problème du partage équitable';777;0
+e;10992963;'problème de fonction';777;0
+e;15437752;'contourner un problème';1;0
+e;15221117;'corriger un problème';1;0
+e;5670842;'problème de satisfaisabilité booléenne';777;0
+e;5670841;'problème du cadre';777;0
+e;5679048;'problème d'optimisation combinatoire';1;0
+e;5725826;'problème de l'ange';777;0
+e;5837361;'problème des sept ponts de Königsberg';777;0
+e;5836254;'problème de différenciation du tissu ectodermique chez l'embryon';1;0
+e;10992962;'problème d'optimisation';777;0
+e;10992961;'problème de dénombrement';777;0
+e;10993498;'problème du bar d'El Farol';777;0
+e;11028675;'difficulté à résoudre un problème';1;0
+e;15584653;'c'est bien ça le problème';1;0
+e;15485287;'c'est le vrai problème';1;0
+e;15402870;'c'est là le c?ur du problème';1;0
+e;15402869;'c'est là que réside le problème';1;0
+e;16029417;'c'est pas le problème';1;0
+e;16029456;'c'est son problème';1;0
+e;15424287;'c?ur du problème';1;0
+e;5673740;'problème de l'intelligence artificielle';1;0
+e;5670664;'problème du fondement des symboles';777;0
+e;5679033;'problème d'informatique';1;0
+e;5679032;'problème d'informatique théorique';1;0
+e;5836255;'problème de différenciation du tissu ectodermique';1;0
+e;10959154;'problème difficile de la conscience';1;0
+e;11033520;'problème de Procuste orthogonal';1;0
+e;11063433;'problème des partis';777;0
+e;11064635;'problème de la hauteur d'étoile';777;0
+e;11065297;'problème des producteurs et des consommateurs';777;0
+e;13116028;'problème de l'échiquier mutilé';777;0
+e;6441249;'problème de la conversion d'information';1;0
+e;10850181;'problème de Scunthorpe';777;0
+e;11020493;'en cas de problème';1;0
+e;12076581;'problème sanitaire';1;0
+e;12076580;'problème sanitaire majeur';1;0
+e;12076175;'problème majeur de santé publique';1;0
+e;15520591;'Nous avons discuté du problème de la pollution.';1;0
+e;15192610;'Nous avons discuté sérieusement de cet épineux problème.';1;0
+e;15365884;'Pas de problème,';1;0
+e;15384753;'Seul ce livre peut résoudre votre problème.';1;0
+e;15341931;'Un redémarrage du système s'impose pour résoudre le problème.';1;0
+e;15324088;'aborder un problème';1;0
+e;15420270;'aborder un problème par le petit bout de la lorgnette';1;0
+e;405887;'problème !';1;50
+e;5725831;'problème des deux généraux';777;0
+e;6445696;'problème d'allaitement au sein';1;0
+e;15488635;'Le problème provient peut-être d'une malfaçon.';1;0
+e;15571389;'Le projet a rencontré un problème.';1;0
+e;16389746;'Définir le problème à résoudre';777;0
+e;16390955;'La conscience du problème et de ses conséquences';777;0
+e;5725834;'problème de l'attaque coordonnée';777;0
+e;5725832;'problème des deux armées';777;0
+e;6011545;'problème des neutrinos solaires';777;0
+e;6065399;'problème des huit dames';777;0
+e;10557826;'problème sexuel relationnel';777;0
+e;12080965;'problème de l'uf et de la poule';1;0
+e;6011670;'problème de la hiérarchie';777;0
+e;10056416;'Y'a pas de problème';777;0
+e;10055908;'problème de généralité multiple';777;0
+e;11237233;'formulation implicite ou explicite d'un problème de dynamique';777;0
+e;11691612;'groupe d'études sur le problème du Tibet';777;0
+e;5674620;'problème algorithmique';1;0
+e;6443199;'problème d'alcool';1;0
+e;9929927;'problème non précisé associé à la cavité amniotique et aux membranes avec accouchement';1;0
+e;11383850;'problème de Napoléon';777;0
+e;12277708;'problème d'affectation';777;0
+e;5725827;'problème de l'isomorphisme de sous-graphes';777;0
+e;6443861;'problème d'allaitement';1;0
+e;11002425;'problème des lecteurs et des rédacteurs';777;0
+e;11003661;'problème des trois nombres premiers';777;0
+e;11178407;'problème du passager clandestin';777;0
+e;11326458;'prendre à bras-le-corps un problème';1;0
+e;11968530;'problème de la mesure';777;0
+e;5553426;'problème des chapeaux';777;0
+e;6448013;'problème d'aiguille';1;0
+e;10370193;'problème du mot';777;0
+e;11161308;'problème de Fagnano';777;0
+e;11161384;'problème de Kepler';777;0
+e;11178406;'problème des free-rider';777;0
+e;11385430;'problème relatif à une vie solitaire';1;0
+e;5553424;'problème des rencontres';777;0
+e;6445196;'problème d'allaitement au biberon';1;0
+e;10177939;'problème synoptique';777;0
+e;11154843;'problème universel';777;0
+e;11385429;'problème relatif à la solitude';1;0
+e;14563458;'Il existe une fonction f solution du problème de Cauchy';777;0
+e;6431813;'problème d'équilibre';1;0
+e;5553977;'problème de Waring';777;0
+e;5946580;'problème d'échecs';777;0
+e;6011528;'problème de la formation des structures';777;0
+e;6008673;'problème des galaxies naines';777;0
+e;6000401;'problème à deux corps';777;0
+e;6528389;'problème de dissection';777;0
+e;6438978;'problème de comportement de l'enfance et de l'adolescence';1;0
+e;11104996;'problème de Burnside';777;0
+e;5553425;'problème de Montmort';777;0
+e;5808273;'problème de mécanique classique';1;0
+e;6011264;'problème de l'horizon';777;0
+e;6451095;'problème d'air au travail';1;0
+e;6446806;'problème lié à l'alcool';1;0
+e;6528493;'problème de Molyneux';777;0
+e;10436730;'problème marginal';1;0
+e;9743938;'problème 3x + 1';777;0
+e;11126622;'problème du cercle minimum';777;0
+e;12715682;'problème de la couverture par cliques';777;0
+e;12261516;'avoir un problème avec l'alcool';1;0
+e;12624545;'être averti de l'existence d'un problème';1;0
+e;12691407;'problème de la taille du proton';777;0
+e;12715499;'problème d'ordre éthique';1;0
+e;12715694;'problème de la couverture exacte';777;0
+e;12715717;'problème de l'arbre de Steiner';777;0
+e;12715710;'problème du coupe-cycle de sommets';777;0
+e;12715687;'problème de couverture minimum par sommets';777;0
+e;12715686;'problème de partition';777;0
+e;12715719;'problème de l'ensemble intersectant';777;0
+e;12715689;'problème du transversal minimum';777;0
+e;12715669;'problème 2-SAT';777;0
+e;12699088;'problème du dîner des cryptographes';777;0
+e;14571910;'5 millions de Français ont un problème avec l'alcool. Et si les autres c'était vous';777;0
+e;15581587;'Ils étudient un aspect particulier du problème.';1;0
+e;15343283;'Il y a un sérieux problème de surpeuplement dans nos prisons.';1;0
+e;15626005;'Il a réussi à surmonter le problème.';1;0
+e;15313571;'Ils ont sous-estimé l'ampleur du problème.';1;0
+e;15348136;'Il faut examiner le problème de façon réaliste.';1;0
+e;15296035;'Ce problème lui a causé bien du tourment.';1;0
+e;15321583;'Cela explique en partie le problème.';1;0
+e;15384755;'Cela pose un problème.';1;0
+e;15391134;'Depuis ce problème, il m'évite.';1;0
+e;15530030;'Elle a éludé le problème.';1;0
+e;15561155;'Et si nous passions maintenant au problème de la productivité?';1;0
+e;2345506;'problème de toxicité induit par les munitions';777;0
+e;2356035;'problème des n-reines';1;0
+e;2608719;'problème de Gauss';777;0
+e;3323786;'formulation du problème';1;0
+e;4327641;'problème mécanique';1;0
+e;5522311;'problème de';777;0
+e;2608720;'problème de Lambert';777;0
+e;3245842;'problème corps-esprit';1;0
+e;3316411;'problème du stable maximum';777;0
+e;4406807;'régler un problème';1;0
+e;4338351;'problème de personnes';1;0
+e;5436534;'problème de vue';1;0
+e;574699;'problème à';777;50
+e;2571642;'énoncé du problème';1;0
+e;4333447;'problème hormonal';1;0
+e;5333690;'problème médical';1;4
+e;5518662;'problème de communication';1;0
+e;394330;'contourner le problème';1;50
+e;2587857;'problème du nombre domatique';777;0
+e;5498549;'problème cardio-vasculaire';1;0
+e;567660;'d'adapter la technique au problème du patient';777;50
+e;1006008;'groupe d'études sur le problème du';777;0
+e;2314964;'problème de la démarcation';777;0
+e;4314610;'problème domestique';1;0
+e;5524025;'problème du commis voyageur';777;0
+e;567642;'problème direct';777;50
+e;3173968;'problème du cavalier';1;0
+e;3444738;'problème de plus court chemin';777;0
+e;1700540;'problème électrique';1;8
+e;5518661;'problème de communication lié à la parole';1;0
+e;464540;'Pas de problème !';777;50
+e;1483203;'problème logiciel';1;0
+e;1689039;'problème d'unification';777;0
+e;1856936;'problème du plus proche vecteur';777;0
+e;3385699;'problème de recherche';1;0
+e;3515443;'problème d'humidité';1;0
+e;1483204;'problème informatique';1;6
+e;1706913;'faire face au problème';1;0
+e;2357991;'problème de couverture par ensembles';1;0
+e;3230721;'problème de sommeil';1;0
+e;4338781;'problème de couple';1;0
+e;373206;'problème majeur';1;50
+e;373205;'problème inverse';1;50
+e;373225;'problème de robinet';1;50
+e;373213;'problème purement matériel';1;50
+e;373194;'problème de fond';1;50
+e;373184;'problème cardiaque';1;50
+e;373223;'problème de domestique';1;50
+e;373211;'problème politique';1;50
+e;373202;'problème familial';1;50
+e;373197;'problème de notre temps';1;50
+e;373193;'problème de droit';1;50
+e;373188;'problème d'hypertension';1;50
+e;373187;'problème d'argent';1;60
+e;386281;'vaste problème';1;50
+e;373234;'problème vital';1;50
+e;373222;'problème éthique';1;50
+e;373210;'problème osseux';1;50
+e;373203;'problème financier';1;50
+e;373199;'problème de trésorerie';1;50
+e;369962;'petit problème';1;50
+e;391129;'avoir un problème de santé';1;50
+e;373230;'problème philosophique';1;50
+e;373228;'problème matériel';1;52
+e;373207;'problème monétaire international';1;50
+e;373200;'problème de voisinage';1;54
+e;373189;'problème d'élocution';1;50
+e;373231;'problème psychologique';1;50
+e;373215;'problème rénal';1;50
+e;373195;'problème de forme';1;50
+e;373183;'problème breton';1;50
+e;356885;'gros problème';1;50
+e;373218;'problème stratégique';1;50
+e;373216;'problème sexuel';1;50
+e;373212;'problème professionnel';1;50
+e;373208;'problème moral';1;50
+e;373191;'problème de cul';1;50
+e;373190;'problème de carburation';1;50
+e;373185;'problème corse';1;50
+e;373182;'problème autre';1;50
+e;373226;'problème enfantin';1;50
+e;373220;'problème économique';1;56
+e;373204;'problème humanitaire';1;50
+e;373201;'problème délicat';1;50
+e;373198;'problème de rein';1;50
+e;353589;'faux problème';1;50
+e;344036;'coeur du problème';1;50
+e;373227;'problème mathématique';1;50
+e;373224;'problème de fonctionnement';1;50
+e;373209;'problème métaphysique';1;50
+e;373186;'problème critique';1;50
+e;373232;'problème respiratoire';1;54
+e;373229;'problème personnel';1;50
+e;373221;'problème épineux';1;50
+e;373219;'problème à secret';1;50
+e;373217;'problème social';1;50
+e;373214;'problème relationnel';1;50
+e;373196;'problème de goût';1;50
+e;373192;'problème de dos';1;50
+e;356555;'grand problème de société';1;50
+e;346306;'dans le coeur du problème';1;50
+e;316022;'problème du transport optimal';1;50
+e;259294;'s'attaquer au problème';1;50
+e;220381;'dixième problème de Hilbert';1;50
+e;220419;'problème de la décision';1;50
+e;220420;'problème de la somme de sous-ensembles';1;50
+e;220421;'problème du sac à dos';1;50
+e;229388;'problème de conscience';1;50
+e;234789;'problème de décision';1;2
+e;234790;'problème du voyageur de commerce';1;50
+e;234791;'problème SAT';1;50
+e;234795;'problème de l'arrêt';1;50
+e;234835;'problème de satisfaction de contraintes';1;50
+e;248103;'problème de société';1;54
+e;248908;'problème de santé publique';1;2
+e;252969;'repousser le problème';1;50
+e;253341;'prendre un problème à bras le corps';1;50
+e;254037;'prendre le problème à bras le corps';1;50
+e;255809;'problème d'éthique';1;50
+e;256878;'problème de peau';1;52
+e;256880;'problème de santé';1;30
+e;259528;'problème technique';1;66
+e;28887;'Le Monde naturel comme problème philosophique';1;50
+e;142988;'L'Oraison, problème politique';1;50
+e;234796;'problème NP-complet';1;50
+e;33567;'soulever un problème';1;50
+e;53680;'problème des trois corps';1;50
+e;95231;'Kant et le problème de la métaphysique';1;50
+e;206406;'problème des futurs contingents';1;50
+e;206407;'problème kafkaïen';1;50
+e;273592;'Groupe d'études sur le problème du Tibet';777;50
+e;277424;'problème de la platitude';777;50
+e;277654;'problème à N corps';1;50
+e;282497;'problème de complémentarité';777;50
+e;291748;'problème d'optimisation linéaire';777;50
+e;291749;'problème d'optimisation linéaire en nombres entiers';777;50
+e;310228;'problème 3-SAT';777;50
+e;190648;'problème bien posé';1;50
+e;311447;'problème collectif de santé';777;50
+e;205937;'poser problème';1;64
+e;249778;'c'est un problème';1;58
+e;315811;'problème de mathématique';1;60
+e;252567;'sans problème';1;32
+e;241222;'problème de géométrie';1;60
+e;262376;'problème de mathématiques';1;74
+e;163195;'avoir un problème';1;70
+e;163196;'problème insoluble';1;66
+e;249779;'pas de problème';1;78
+e;164236;'résoudre un problème';1;70
+r;299573989;7190;6309126;11;25
+r;301732303;7190;6350024;11;25
+r;301743974;7190;6352138;11;25
+r;302082021;7190;6359540;11;25
+r;302182842;7190;6364785;11;25
+r;302204034;7190;6367191;11;25
+r;303536057;7190;6375098;11;25
+r;304478608;7190;6386961;11;25
+r;304606144;7190;6391721;11;25
+r;305265272;7190;6402397;11;25
+r;305711877;7190;6421746;11;25
+r;318505758;7190;6323434;11;25
+r;337345418;7190;12985647;11;25
+r;341138834;7190;6362000;11;25
+r;345436471;7190;13628512;11;25
+r;348362150;7190;13737364;11;25
+r;349247002;7190;6284892;11;25
+r;357370154;7190;14113544;11;25
+r;357370288;7190;14113543;11;25
+r;357399952;7190;14113541;11;25
+r;357486547;7190;14113542;11;25
+r;369954934;7190;14558152;11;25
+r;370002950;7190;14562919;11;25
+r;370521963;7190;14581150;11;25
+r;370561469;7190;14584186;11;25
+r;371225597;7190;14609114;11;25
+r;371753454;7190;14635676;11;25
+r;371755163;7190;14635677;11;25
+r;371755433;7190;14635675;11;25
+r;371809821;7190;14636446;11;25
+r;371852427;7190;14637934;11;25
+r;373919451;7190;14704339;11;25
+r;400292832;7190;6366509;11;25
+r;412542304;7190;15830949;11;25
+r;435420552;7190;16573599;11;25
+r;435420903;7190;16573600;11;25
+r;435420933;7190;16573603;11;25
+r;435421570;7190;16573601;11;25
+r;435421591;7190;16573602;11;25
+r;301689945;7190;6347642;11;26
+r;298184999;7190;6286335;11;26
+r;298460499;7190;6291415;11;26
+r;299030118;7190;6298127;11;26
+r;299072096;7190;6299429;11;26
+r;299592841;7190;6312301;11;26
+r;300225627;7190;6328797;11;26
+r;301197443;7190;6334132;11;26
+r;301417446;7190;6337063;11;26
+r;301445288;7190;6338478;11;26
+r;301461853;7190;6340200;11;26
+r;301541452;7190;6344900;11;26
+r;301737139;7190;6351029;11;26
+r;301749564;7190;6352955;11;26
+r;302091304;7190;6360348;11;26
+r;302106107;7190;6360896;11;26
+r;302186233;7190;6365389;11;26
+r;302193317;7190;6366234;11;26
+r;302968567;7190;6368777;11;26
+r;303993070;7190;6384975;11;26
+r;304497953;7190;6388344;11;26
+r;304549049;7190;6388550;11;26
+r;304550953;7190;6388918;11;26
+r;304558248;7190;6389327;11;26
+r;305135473;7190;6399680;11;26
+r;305144329;7190;6400359;11;26
+r;305706625;7190;6420847;11;26
+r;312961138;7190;6421367;11;26
+r;368471130;7190;14510633;11;26
+r;370160805;7190;14566624;11;26
+r;374341884;7190;14724020;11;26
+r;374422788;7190;14727898;11;26
+r;299637023;7190;6314819;11;27
+r;303465412;7190;6374623;11;27
+r;305310237;7190;6406178;11;27
+r;305468727;7190;6410579;11;27
+r;315668014;7190;12116980;11;27
+r;119720086;7190;6261779;11;28
+r;269881543;7190;10732090;11;28
+r;112665328;7190;5725840;11;29
+r;121495401;7190;6443632;11;29
+r;121572983;7190;6434971;11;29
+r;122681281;7190;6431827;11;29
+r;122682348;7190;6431708;11;29
+r;122731777;7190;6425352;11;29
+r;110592986;7190;5574128;11;30
+r;110633146;7190;5574293;11;30
+r;121520191;7190;6440863;11;30
+r;419778947;7190;15437754;11;30
+r;419780492;7190;15377517;11;30
+r;419811803;7190;15306344;11;30
+r;419815570;7190;15268026;11;30
+r;113775387;7190;5816657;11;31
+r;113775400;7190;5816656;11;31
+r;113775585;7190;5816617;11;31
+r;113778330;7190;5815891;11;31
+r;122679280;7190;6432060;11;31
+r;277924318;7190;10993500;11;31
+r;277924326;7190;10993499;11;31
+r;277925267;7190;10992963;11;31
+r;419735611;7190;15437752;11;31
+r;419741837;7190;15221117;11;31
+r;111342483;7190;5670842;11;32
+r;111342492;7190;5670841;11;32
+r;111463128;7190;5679048;11;32
+r;112665406;7190;5725826;11;32
+r;114016113;7190;5837361;11;32
+r;114021248;7190;5836254;11;32
+r;277750495;7190;10992962;11;32
+r;277768410;7190;10992961;11;32
+r;277824981;7190;10993498;11;32
+r;279555381;7190;11028675;11;32
+r;419670030;7190;15584653;11;32
+r;419670940;7190;15485287;11;32
+r;419670980;7190;15402870;11;32
+r;419670994;7190;15402869;11;32
+r;419671197;7190;16029417;11;32
+r;419671536;7190;16029456;11;32
+r;419674660;7190;15424287;11;32
+r;111321236;7190;5673740;11;33
+r;111343231;7190;5670664;11;33
+r;111463220;7190;5679033;11;33
+r;111463228;7190;5679032;11;33
+r;114021237;7190;5836255;11;33
+r;276090374;7190;10959154;11;33
+r;279694818;7190;11033520;11;33
+r;280424350;7190;11063433;11;33
+r;280467423;7190;11064635;11;33
+r;280495270;7190;11065297;11;33
+r;337338300;7190;13116028;11;33
+r;121516781;7190;6441249;11;34
+r;272190389;7190;10850181;11;34
+r;279320431;7190;11020493;11;34
+r;315125232;7190;12076581;11;34
+r;315125237;7190;12076580;11;34
+r;315125680;7190;12076175;11;34
+r;419514521;7190;15520591;11;34
+r;419514547;7190;15192610;11;34
+r;419522669;7190;15365884;11;34
+r;419544782;7190;15384753;11;34
+r;419557848;7190;15341931;11;34
+r;419567525;7190;15324088;11;34
+r;419567529;7190;15420270;11;34
+r;103667672;7190;405887;11;35
+r;112665377;7190;5725831;11;35
+r;121476922;7190;6445696;11;35
+r;419493169;7190;15488635;11;35
+r;419493241;7190;15571389;11;35
+r;432972711;7190;16389746;11;35
+r;433063228;7190;16390955;11;35
+r;112665357;7190;5725834;11;36
+r;112665370;7190;5725832;11;36
+r;118507997;7190;6011545;11;36
+r;118932601;7190;6065399;11;36
+r;263233922;7190;10557826;11;36
+r;315109946;7190;12080965;11;36
+r;118507560;7190;6011670;11;37
+r;228982959;7190;10056416;11;38
+r;228985250;7190;10055908;11;38
+r;287955073;7190;11237233;11;38
+r;299282687;7190;11691612;11;38
+r;111300583;7190;5674620;11;39
+r;121499260;7190;6443199;11;39
+r;219834432;7190;9929927;11;40
+r;292070999;7190;11383850;11;40
+r;318905582;7190;12277708;11;40
+r;112665398;7190;5725827;11;41
+r;121493372;7190;6443861;11;41
+r;278281632;7190;11002425;11;41
+r;278336123;7190;11003661;11;41
+r;286806304;7190;11178407;11;41
+r;290140239;7190;11326458;11;41
+r;308812896;7190;11968530;11;41
+r;109887409;7190;5553426;11;42
+r;121455942;7190;6448013;11;42
+r;254700624;7190;10370193;11;42
+r;285639662;7190;11161308;11;42
+r;285644276;7190;11161384;11;42
+r;286625077;7190;11178406;11;42
+r;292320197;7190;11385430;11;42
+r;109887421;7190;5553424;11;43
+r;121481513;7190;6445196;11;43
+r;238922249;7190;10177939;11;43
+r;283646517;7190;11154843;11;43
+r;292222707;7190;11385429;11;43
+r;370135284;7190;14563458;11;43
+r;122681399;7190;6431813;11;44
+r;109884556;7190;5553977;11;45
+r;116302532;7190;5946580;11;45
+r;118508048;7190;6011528;11;45
+r;118517505;7190;6008673;11;45
+r;118542251;7190;6000401;11;45
+r;121439503;7190;6528389;11;45
+r;121537124;7190;6438978;11;45
+r;281779418;7190;11104996;11;45
+r;109887414;7190;5553425;11;46
+r;113285837;7190;5808273;11;46
+r;118509062;7190;6011264;11;46
+r;121037510;7190;6451095;11;46
+r;121467020;7190;6446806;11;48
+r;121439080;7190;6528493;11;49
+r;256242572;7190;10436730;11;49
+r;218017117;7190;9743938;11;50
+r;282533356;7190;11126622;11;50
+r;326473157;7190;12715682;11;50
+r;318207923;7190;12261516;11;50
+r;323174271;7190;12624545;11;50
+r;325174491;7190;12691407;11;50
+r;326257620;7190;12715499;11;50
+r;326473135;7190;12715694;11;50
+r;326480070;7190;12715717;11;50
+r;326487463;7190;12715710;11;50
+r;326489302;7190;12715687;11;50
+r;326514728;7190;12715686;11;50
+r;327327539;7190;12715719;11;50
+r;327327561;7190;12715689;11;50
+r;327327586;7190;12715669;11;50
+r;327330690;7190;12699088;11;50
+r;370444473;7190;14571910;11;50
+r;402118567;7190;15581587;11;50
+r;402110762;7190;15343283;11;50
+r;402103862;7190;15626005;11;50
+r;402113091;7190;15313571;11;50
+r;402106860;7190;15348136;11;50
+r;395012809;7190;15296035;11;50
+r;395013155;7190;15321583;11;50
+r;395013283;7190;15384755;11;50
+r;395031945;7190;15391134;11;50
+r;397848370;7190;15530030;11;50
+r;398926891;7190;15561155;11;50
+r;34515333;7190;2345506;11;51
+r;47904247;7190;2356035;11;51
+r;58033480;7190;2608719;11;51
+r;83797659;7190;3323786;11;51
+r;98698382;7190;4327641;11;51
+r;109337296;7190;5522311;11;51
+r;58033475;7190;2608720;11;52
+r;78519103;7190;3245842;11;52
+r;83563233;7190;3316411;11;52
+r;99495926;7190;4406807;11;52
+r;98979830;7190;4338351;11;52
+r;107621636;7190;5436534;11;52
+r;17798793;7190;574699;11;53
+r;52442644;7190;2571642;11;53
+r;98866890;7190;4333447;11;53
+r;106900329;7190;5333690;11;53
+r;108786013;7190;5518662;11;53
+r;13705433;7190;394330;11;54
+r;54423001;7190;2587857;11;54
+r;108008578;7190;5498549;11;54
+r;17134286;7190;567660;11;55
+r;20949126;7190;1006008;11;55
+r;33103386;7190;2314964;11;55
+r;98016288;7190;4314610;11;55
+r;109368921;7190;5524025;11;55
+r;17131224;7190;567642;11;57
+r;76410102;7190;3173968;11;57
+r;87995391;7190;3444738;11;57
+r;28003539;7190;1700540;11;58
+r;108786198;7190;5518661;11;58
+r;16349003;7190;464540;11;59
+r;24517722;7190;1483203;11;59
+r;27901383;7190;1689039;11;59
+r;29963846;7190;1856936;11;59
+r;86905141;7190;3385699;11;59
+r;88517633;7190;3515443;11;59
+r;24517727;7190;1483204;11;60
+r;28192333;7190;1706913;11;60
+r;50034747;7190;2357991;11;60
+r;78304730;7190;3230721;11;60
+r;98989825;7190;4338781;11;60
+r;12609239;7190;373206;11;101
+r;12609243;7190;373205;11;101
+r;12609159;7190;373225;11;102
+r;12609207;7190;373213;11;102
+r;12609289;7190;373194;11;102
+r;12609329;7190;373184;11;102
+r;12609167;7190;373223;11;103
+r;12609217;7190;373211;11;103
+r;12609255;7190;373202;11;103
+r;12609275;7190;373197;11;103
+r;12609293;7190;373193;11;103
+r;12609313;7190;373188;11;103
+r;12609317;7190;373187;11;103
+r;12556271;7190;386281;11;104
+r;12609123;7190;373234;11;104
+r;12609171;7190;373222;11;104
+r;12609221;7190;373210;11;104
+r;12609251;7190;373203;11;104
+r;12609267;7190;373199;11;104
+r;12622647;7190;369962;11;104
+r;13035114;7190;391129;11;104
+r;12609139;7190;373230;11;105
+r;12609147;7190;373228;11;105
+r;12609233;7190;373207;11;105
+r;12609263;7190;373200;11;105
+r;12609309;7190;373189;11;105
+r;12609135;7190;373231;11;106
+r;12609199;7190;373215;11;106
+r;12609285;7190;373195;11;106
+r;12609333;7190;373183;11;106
+r;12675411;7190;356885;11;106
+r;12609187;7190;373218;11;107
+r;12609195;7190;373216;11;107
+r;12609213;7190;373212;11;107
+r;12609229;7190;373208;11;107
+r;12609301;7190;373191;11;107
+r;12609305;7190;373190;11;107
+r;12609325;7190;373185;11;107
+r;12609337;7190;373182;11;107
+r;12609155;7190;373226;11;108
+r;12609179;7190;373220;11;108
+r;12609247;7190;373204;11;108
+r;12609259;7190;373201;11;108
+r;12609271;7190;373198;11;108
+r;12688849;7190;353589;11;108
+r;12728417;7190;344036;11;108
+r;12609151;7190;373227;11;109
+r;12609163;7190;373224;11;109
+r;12609225;7190;373209;11;109
+r;12609321;7190;373186;11;109
+r;12609131;7190;373232;11;110
+r;12609143;7190;373229;11;110
+r;12609175;7190;373221;11;110
+r;12609183;7190;373219;11;110
+r;12609191;7190;373217;11;110
+r;12609203;7190;373214;11;110
+r;12609281;7190;373196;11;110
+r;12609297;7190;373192;11;110
+r;12676845;7190;356555;11;110
+r;12718777;7190;346306;11;110
+r;8871058;7190;316022;11;154
+r;8725370;7190;259294;11;160
+r;8692127;7190;220381;11;161
+r;8692186;7190;220419;11;161
+r;8692188;7190;220420;11;161
+r;8692190;7190;220421;11;161
+r;8698221;7190;229388;11;161
+r;8702381;7190;234789;11;161
+r;8702383;7190;234790;11;161
+r;8702386;7190;234791;11;161
+r;8702393;7190;234795;11;161
+r;8702464;7190;234835;11;161
+r;8711496;7190;248103;11;161
+r;8712250;7190;248908;11;161
+r;8716595;7190;252969;11;161
+r;8717022;7190;253341;11;161
+r;8717864;7190;254037;11;161
+r;8720303;7190;255809;11;161
+r;8721911;7190;256878;11;161
+r;8721915;7190;256880;11;161
+r;8725717;7190;259528;11;161
+r;8579572;7190;28887;11;162
+r;8620836;7190;142988;11;162
+r;8702394;7190;234796;11;162
+r;8581075;7190;33567;11;163
+r;8588091;7190;53680;11;163
+r;8602391;7190;95231;11;163
+r;8678412;7190;206406;11;163
+r;8678414;7190;206407;11;163
+r;8741410;7190;273592;11;163
+r;8745291;7190;277424;11;163
+r;8745529;7190;277654;11;163
+r;8749773;7190;282497;11;163
+r;8759547;7190;291748;11;163
+r;8759549;7190;291749;11;163
+r;8776132;7190;310228;11;163
+r;8653025;7190;190648;11;164
+r;8777452;7190;311447;11;164
+r;2288402;7190;205937;11;214
+r;2229603;7190;249778;11;226
+r;8850487;7190;315811;11;230
+r;8716173;7190;252567;11;232
+r;1973255;7190;241222;11;237
+r;2519081;7190;262376;11;257
+r;377616;7190;163195;11;268
+r;377617;7190;163196;11;268
+r;2229604;7190;249779;11;276
+r;394233;7190;164236;11;288

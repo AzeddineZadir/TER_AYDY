@@ -1,0 +1,1353 @@
+
+e;126285;'dos';1;1014
+e;6292989;'partie inférieure du dos';1;0
+e;6287372;'dos raide';1;0
+e;6293964;'réadaptation pour maladie et difformité du dos';1;0
+e;6306329;'soins particuliers au dos';1;0
+e;6311356;'raideur du dos';1;0
+e;6332247;'fatigue du dos';1;0
+e;6338379;'panniculite du cou et du dos';1;0
+e;6342962;'panniculite affectant le dos';1;0
+e;6344807;'chabot à dos rugueux';1;0
+e;6345469;'perche à dos orange';1;0
+e;6347105;'chabot à dos épineux';1;0
+e;6348132;'céphalophe à dos jaune';1;0
+e;6355698;'panniculite affectant le cou et le dos';1;0
+e;6369913;'phlyctène du dos sans infection';1;0
+e;6370817;'trouble du dos';1;0
+e;6378535;'phlyctène du dos avec infection';1;0
+e;6382915;'sébaste à dos épineux';1;0
+e;6383987;'dos de la pointe de la langue';1;0
+e;6395591;'mal de dos psychogène';1;0
+e;6398358;'douleurs chroniques au dos ou aux jambes après chirurgie du rachis';1;0
+e;6400731;'pélican à dos rosé';1;0
+e;6403809;'labre à dos jaunes';1;0
+e;12983376;'vautour à dos blanc';777;0
+e;12983347;'Mário José dos Reis Emiliano';777;0
+e;12979531;'Giovani dos Santos';777;0
+e;6355407;'traumatismes dos';1;0
+e;6335661;'tissu sous-cutané du dos';1;0
+e;6367996;'muscles du dos';1;0
+e;14159622;'avoir le dos de';1;0
+e;14159610;'avoir le bon dos';1;0
+e;14161328;'dos au sol';1;0
+e;14318223;'José António Afonso Rodrigues dos Santos';777;0
+e;14376287;'Quilombo dos Palmares';777;0
+e;14484827;'Las dos líneas de los Señores del Perú y del Quito';777;0
+e;14778262;'Rosana dos Santos Augusto';777;0
+e;6404505;'hypertrophie du dos de la main';1;0
+e;15943664;'pierre tombale en dos d'âne';1;0
+e;6403045;'perte cutanée de pleine épaisseur liée à une brûlure du dos';1;0
+e;15418660;'planter un couteau dans le dos de [qqn]';1;0
+e;15420074;'faire un bébé dans dos à [qqn]';1;0
+e;15420075;'faire un bébé dans le dos à [qqn]';1;0
+e;15437041;'mettre [qch] sur le dos de [qqn]';1;0
+e;15437052;'tourner le dos à [qqn]';1;0
+e;15437038;'être sur le dos de [qqn]';1;0
+e;15437051;'tourner le dos à [qch]';1;0
+e;15437045;'scier le dos à [qqn]';1;0
+e;6284261;'traumatismes de dos';1;0
+e;6288550;'lésion par écrasement du dos';1;0
+e;6325166;'lésion grave du dos';1;0
+e;6362170;'brûlure de degré non précisé du dos de la main';1;0
+e;6416767;'paralysie du sac à dos';1;0
+e;6421104;'douleur du haut du dos';1;0
+e;6336589;'spasmes musculaires du dos';1;0
+e;6298949;'entorses et foulures d'un site non précisé du dos';1;0
+e;6306481;'muscles interépineux du dos';1;0
+e;6323742;'cloque sur le dos de la main';1;0
+e;6324828;'muscles intertransversaires du dos';1;0
+e;6358434;'agone à dos denté';1;0
+e;6374280;'dos rétrofléchi';1;0
+e;6398969;'entorses et foulures de parties autres et non précisées du dos';1;0
+e;6406904;'tension des muscles du dos';1;0
+e;6376568;'avec complication, plaie ouverte du dos';1;0
+e;6421115;'sans mention de complication, plaie ouverte du dos';1;0
+e;12979530;'Giovani Alex dos Santos Ramírez';777;0
+e;6416756;'phlyctènes avec perte épidermique liées à une brûlure du dos';1;0
+e;6398015;'syndrome du dos plat';1;0
+e;14529879;'dos courbé';1;0
+e;14530600;'tir dans le dos';1;0
+e;14532356;'souffrir du dos';1;0
+e;14566632;'éponge qui gratte avec son dos';1;0
+e;14635392;'passe dans le dos de la défense';1;0
+e;15686421;'tir nourri dans le dos';1;0
+e;10675687;'Un vampiro para dos';777;0
+e;6292263;'autres symptômes se rapportant au dos';1;0
+e;6364883;'autres troubles du dos non précisés';1;0
+e;6389284;'autre déformation acquise du dos ou du rachis';1;0
+e;10732188;'Gilberto Galdino dos Santos';777;0
+e;10731509;'Edmar Bernardes dos Santos';777;0
+e;10731505;'João Batista Viana dos Santos';777;0
+e;10877065;'Armação dos Búzios';777;0
+e;10876562;'Daiane Garcia dos Santos';777;0
+e;12990964;'Chapada dos Guimarães';777;0
+e;13010077;'José Mendonça dos Santos';777;0
+e;5802728;'Fábrica dos pastéis de Belém';777;0
+e;10896424;'Ricardo Leal dos Santos';777;0
+e;11774465;'pseudochromis à dos jaune';1;0
+e;16094620;'dos-d';1;0
+e;6272799;'cassis et dos d'âne';1;0
+e;6428610;'dos de la verge';1;0
+e;10598150;'Une balle dans le dos';777;0
+e;10596411;'Valado dos Frades';777;0
+e;10596352;'Rúben Miguel Marques dos Santos Fernandes';777;0
+e;10596149;'Alto dos Moinhos';777;0
+e;10906012;'Marcos dos Santos Assunção';777;0
+e;10914546;'Estádio dos Barreiros';777;0
+e;10914481;'Paulo Jorge dos Santos Futre';777;0
+e;10969164;'Augusto Célestino Farfus dos Santos Júnior';777;0
+e;11774190;'poisson-coffre à dos épineux';1;0
+e;11774134;'poisson-ange nain à dos jaune';1;0
+e;11774207;'poisson-couvreur à dos rouge';1;0
+e;16043355;'derrière le dos de';1;0
+e;15421745;'dire du mal de [qqn] derrière son dos';1;0
+e;15625922;'dire du mal de quelqu'un derrière son dos';1;0
+e;15381294;'donnant des coups de poignard dans le dos';1;0
+e;15435710;'donner des frissons dans le dos';1;0
+e;16032520;'donner froid dans le dos à';1;0
+e;15260103;'donner une tape dans le dos';1;0
+e;15258923;'dos convexe';1;0
+e;15220862;'dos d'âne allongé';1;0
+e;15258924;'dos de carpe';1;0
+e;15437027;'dos de rouget';1;0
+e;15245317;'dos douloureux';1;0
+e;13751288;'dos du deux-tiers antérieur de la langue';1;0
+e;15762572;'dos déjà tourné';1;0
+e;15251064;'dos musclé';1;0
+e;15484404;'douleur au bas du dos';1;0
+e;15494682;'douleur épigastrique rayonnant dans le dos';1;0
+e;15197755;'en dos d'âne';1;0
+e;5680178;'dos du cheval';777;0
+e;5692864;'Batara à dos noir';777;0
+e;6436752;'piqûre d'insecte non venimeux du dos sans infection';1;0
+e;6422823;'excision de tumeur de tissu mou du dos';1;0
+e;7997295;'se tuer le dos';1;0
+e;9980455;'y aller avec le dos de la cuillère';1;0
+e;10596497;'Palmeira dos Índios';777;0
+e;10596067;'Parque Natural dos Tarrafes do Rio Cacheu';777;0
+e;10916585;'Maria Martins dos Reis Silva';777;0
+e;10990131;'Daniel dos Santos';777;0
+e;16329230;'corde de dos';777;0
+e;15605783;'dos Santos Aveiro';777;0
+e;16058924;'dos de cheval';1;0
+e;15385131;'couché sur le dos';1;0
+e;16166007;'dos de cabillaud en papillote';1;0
+e;5675257;'zostérops à dos gris';777;0
+e;5672941;'Oriole à dos orange';777;0
+e;5672590;'Mésange à dos blanc';777;0
+e;5670903;'Grive à dos roux';777;0
+e;5670632;'Gérygone à dos vert';777;0
+e;5670272;'Euplecte à dos d'or';777;0
+e;5669171;'Cassican à dos noir';777;0
+e;5668537;'Beaumarquet à dos jaune';777;0
+e;5697508;'Cassique à dos rouge';777;0
+e;5817849;'Tangara à dos bleu';777;0
+e;5873818;'rougequeue à dos roux';777;0
+e;5873239;'Zostérops à dos gris';777;0
+e;6426548;'tissu sous-cutané de la région scapulaire du dos';1;0
+e;10031341;'Un singe sur le dos';777;0
+e;10018239;'Clube dos 13';777;0
+e;10955818;'Sérgio Cláudio dos Santos';777;0
+e;10955189;'Edson Bispo dos Santos';777;0
+e;10736357;'microrégion de la vallée du Rio dos Bois';777;0
+e;10734699;'microrégion de la Chapada dos Veadeiros';777;0
+e;10910438;'Porto dos Milagres';777;0
+e;10920525;'Oscar dos Santos Emboaba Júnior';777;0
+e;10920501;'André Clarindo dos Santos';777;0
+e;10920482;'Douglas Pereira dos Santos';777;0
+e;10919827;'microrégion de São José dos Campos';777;0
+e;10919675;'São José dos Campos';777;0
+e;11064247;'Fabiele dos Santos Mota';777;0
+e;11064206;'Manoel Francisco dos Santos';777;0
+e;11064166;'Djalma Pereira Dias dos Santos';777;0
+e;11777638;'phare de Ilhéu dos Pássaros';777;0
+e;11784473;'Associação Brasileira dos Produtores de Discos';777;0
+e;11808709;'Marcelino dos Santos';777;0
+e;15365829;'au dos de la feuille';1;0
+e;16032390;'avoir froid dans le dos';1;0
+e;15397096;'avoir le dos au feu et le ventre à table';1;0
+e;15377207;'avoir le dos rond';1;0
+e;15327914;'avoir mal au bas du dos';1;0
+e;15385138;'avoir qn sur le dos';1;0
+e;16040513;'avoir quelqu'un sur le dos';1;0
+e;16040525;'avoir sur le dos';1;0
+e;15352133;'ayant mal au dos';1;0
+e;15197183;'blessure au dos';1;0
+e;6380413;'carcinome intra-épithélial cutané du dos';1;0
+e;15419360;'casser du sucre sur le dos de [qqn]';1;0
+e;15434589;'casser le dos';1;0
+e;10035019;'José Mário dos Santos Félix Mourinho';777;0
+e;10953507;'Marcos Corrêa dos Santos';777;0
+e;10743725;'Eduardo Oliveira dos Santos';777;0
+e;10994715;'José Eduardo dos Santos';777;0
+e;11063403;'António dos Santos Ramalho Eanes';777;0
+e;11063972;'José Domingues dos Santos';777;0
+e;11064121;'Gabriel Rodrigues dos Santos';777;0
+e;11064209;'Nílton Reis dos Santos';777;0
+e;11064521;'Juan Silveira dos Santos';777;0
+e;11071028;'Ianique dos Santos Tavares';777;0
+e;5674312;'Siffleur à dos vert';777;0
+e;5922687;'Sapajou à dos rouge';777;0
+e;5920680;'Sympétrum à dos roux';777;0
+e;5919380;'pointe à dos courbe';777;0
+e;5918400;'João Alfonso Cid dos Santos';777;0
+e;5962301;'Comunidade dos Países de Língua Portuguesa';777;0
+e;6431140;'lésion traumatique du dos';1;0
+e;10940525;'José Wellington Bento dos Santos';777;0
+e;10940293;'Paulo Jorge dos Santos Gomes';777;0
+e;10994714;'Isabel dos Santos';777;0
+e;11697077;'Aristides Josuel dos Santos';777;0
+e;11813775;'65 dos';777;0
+e;11815366;'Ismaily Gonçalves dos Santos';777;0
+e;12032732;'Clarissa dos Santos';777;0
+e;16313708;'Henri Marinho dos Santos';777;0
+e;15688263;'Positif de dos';777;0
+e;15685613;'Wallace Oliveira dos Santos';777;0
+e;15479925;'acné localisée au dos';1;0
+e;15265370;'allongé sur le dos';1;0
+e;16366937;'Secret Story - Casa dos Segredos';777;0
+e;1832324;'dos rond';1;12
+e;5902697;'Chétodon à dos noir';777;0
+e;5946951;'Veuve noire à dos rouge';777;0
+e;10749195;'Alessandro dos Santos';777;0
+e;10934016;'António Fernando Couto dos Santos';777;0
+e;10934015;'Maria Helena dos Santos André';777;0
+e;10934003;'Fernando Teixeira dos Santos';777;0
+e;11269206;'João Carlos dos Santos';777;0
+e;11269188;'Paulo César Batista dos Santos';777;0
+e;11269185;'Luís Henrique Pereira dos Santos';777;0
+e;11269141;'Barra dos Coqueiros';777;0
+e;11268853;'Antônio Carlos dos Santos Aguiar';777;0
+e;11268751;'laguna dos Patos';777;0
+e;11268750;'lagoa dos Patos';777;0
+e;11361177;'Nu couché vu de dos';777;0
+e;12078562;'dos plein';1;0
+e;12078561;'dos brisé';1;0
+e;15327916;'Le lit était bon pour son mal de dos.';1;0
+e;15194913;'Leigh se retourna pour se bronzer le dos.';1;0
+e;14123250;'Martin-chasseur à dos blanc';777;0
+e;15382188;'Mon dos me fait horriblement mal.';1;0
+e;15523656;'Mon dos me tue.';1;0
+e;15336191;'Mon dos pèle.';1;0
+e;15247777;'Mon sac à dos a disparu.';1;0
+e;16154285;'Elle me critique dans mon dos.';1;0
+e;16326843;'Moineau à dos roux';777;0
+e;1832323;'dos plat';1;0
+e;5621877;'Fourchette et sac à dos';777;0
+e;5779357;'Tangara à dos citron';777;0
+e;5831559;'Movimento dos Trabalhadores Rurais Sem Terra';777;0
+e;5969013;'Campagnol à dos roux de Gapper';777;0
+e;5989220;'Parque Nacional da Chapada dos Veadeiros';777;0
+e;8159767;'dos à l'air';1;0
+e;10312772;'Éverton Leandro dos Santos Pinto';777;0
+e;10313495;'José Manuel Cerqueira Afonso dos Santos';777;0
+e;10998398;'Rodrigo dos Santos Quirino';777;0
+e;10998383;'équipe cycliste Funvic-São José dos Campos';777;0
+e;11285779;'Julio Daniel dos Santos Rodríguez';777;0
+e;11288396;'São José dos Pinhais';777;0
+e;11456149;'bécasseau à dos roux';777;0
+e;11479264;'Tortue à dos plat';777;0
+e;12081542;'tortue à dos plat';1;0
+e;15287821;'Le dos des cuisses lui cuisait.';1;0
+e;5674883;'Tocro à dos noir';777;0
+e;5668359;'Arrenga à dos brun';777;0
+e;10055394;'Eduardo dos Reis Carvalho';777;0
+e;10055392;'Eliseu Pereira dos Santos';777;0
+e;10055353;'Rui Pedro dos Santos Patrício';777;0
+e;10055346;'Ricardo Jorge dos Santos Dias';777;0
+e;10846891;'Marco Aurélio Brito dos Prazeres';777;0
+e;11256263;'Josué Modesto dos Passos Subrinho';777;0
+e;11363156;'Fausto dos Santos';777;0
+e;11543909;'Jonathan dos Santos Ramírez';777;0
+e;5674077;'Rougegorge à dos olive';777;0
+e;5970808;'funisciure à dos rayé';777;0
+e;7845371;'se faire faire un enfant dans le dos';1;0
+e;9929301;'plaie ouverte du dos sans mention de complication';1;0
+e;10055257;'Francisco das Chagas Soares dos Santos';777;0
+e;10775840;'se coucher sur le dos';1;0
+e;11503763;'Marcelo dos Santos';777;0
+e;11543910;'Jonathan dos Santos';777;0
+e;11584250;'Nelson Pereira dos Santos';1;0
+e;13634417;'Antonio dos Reis Carneiro';777;0
+e;2375272;'laine lavée à dos';1;0
+e;10188950;'Éverton dos Santos Lopes';777;0
+e;10524834;'Juary Jorge dos Santos Filho';777;0
+e;10524810;'João Justino Amaral dos Santos';777;0
+e;10524807;'Antônio Dias dos Santos';777;0
+e;10524678;'Wladimir Rodrigues dos Santos';777;0
+e;10523605;'Carlos Alberto Carvalho dos Anjos Junior';777;0
+e;10523584;'Márcio Roberto dos Santos';777;0
+e;10523566;'Cristóvão Borges dos Santos';777;0
+e;10519875;'Leandro Damião da Silva dos Santos';777;0
+e;10556468;'université de la Vallée du Rio dos Sinos';777;0
+e;11268943;'derrière le dos';1;0
+e;11383838;'El dos de mayo de 1808 en Madrid';777;0
+e;2457765;'poil au dos';1;0
+e;10191387;'Une cible dans le dos';777;0
+e;10518836;'Nicholas Araújo Dias dos Santos';777;0
+e;10518100;'Oliveira dos Brejinhos';777;0
+e;10518046;'Bartolomeu Fernandes dos Martires';777;0
+e;10523601;'Hamilton Timbirá Dias dos Santos Júnior';777;0
+e;10554521;'Luíz Antônio dos Santos';777;0
+e;10553726;'Marílson Gomes dos Santos';777;0
+e;11237818;'Angra dos Reis';777;0
+e;11383837;'dos de mayo';777;0
+e;11388945;'douleurs au dos';1;0
+e;11975980;'200 mètres dos';777;0
+e;5968831;'Vitor Manuel Fernandes dos Santos';777;0
+e;10134911;'Rodrigo Junqueira dos Reis Santoro';777;0
+e;10186178;'Marisa dos Reis Nunes';777;0
+e;10512872;'Érika Cristiano dos Santos';777;0
+e;10506288;'Douglas dos Santos Justino de Melo';777;0
+e;10518208;'Eugénio dos Santos e Carvalho';777;0
+e;11155385;'Toui à dos noir';777;0
+e;10074850;'Couleuvre à dos rouge';777;0
+e;10118586;'pont en dos de chameau';777;0
+e;10185929;'Padrão dos Descobrimentos';777;0
+e;10448378;'Maurício dos Santos Nascimento';777;0
+e;10460254;'Gylmar dos Santos Neves';777;0
+e;2408524;'coup dans le dos';1;6
+e;5672209;'Martin-pêcheur à dos bleu';777;0
+e;5672204;'Martin-chasseur à dos de feu';777;0
+e;5698215;'Colibri à dos noir';777;0
+e;6450299;'piqûre d'insecte non venimeux du dos avec infection';1;0
+e;6595014;'Central Única dos Trabalhadores';777;0
+e;10105756;'Comment perdre ses amis et se mettre tout le monde à dos';777;0
+e;10503786;'Fernando Lopes dos Santos Varela';777;0
+e;10503578;'António José dos Santos Folha';777;0
+e;10503562;'João Paulo Maio dos Santos';777;0
+e;10502921;'Narciso dos Santos';777;0
+e;11157535;'Arzemiro dos Prazeres';777;0
+e;11157600;'Daniel Lima dos Santos Daio';777;0
+e;11162379;'vrille dos';777;0
+e;5940750;'Arroio dos Ratos';777;0
+e;6538789;'fascia superficiel du dos du pied gauche';1;0
+e;6537861;'poil du dos de la main gauche';1;0
+e;6534777;'dos de la partie libre du membre supérieur';1;0
+e;5989219;'parc national de la Chapada dos Veadeiros';777;0
+e;6540328;'vascularisation du dos de l'abdomen';1;0
+e;6537865;'poil du dos du pied gauche';1;0
+e;2368116;'en dos de fourchette';1;0
+e;2368117;'aspect en dos de fourchette';1;0
+e;6538937;'poil du dos du pied droit';1;0
+e;6537859;'poil du dos de la main';1;0
+e;2365737;'coûter la peau du dos';1;0
+e;5515732;'Serrinha dos Pintos';777;0
+e;6536573;'peau du dos du pied gauche';1;0
+e;6540631;'vascularisation du dos';1;0
+e;5902696;'Poisson-papillon à dos noir';777;0
+e;15479920;''voir au dos'';1;0
+e;8569196;'frotter le dos';1;0
+e;8915196;'douleur au dos';1;0
+e;9211322;'Portugal dos Pequenitos';777;0
+e;9448122;'desarêter par dos poisson à deux filets';1;0
+e;9448203;'desarêter par le dos un poisson à deux filets';1;0
+e;9448204;'desarêter par le dos un poisson à quatre filets';1;0
+e;9448186;'desarêter par dos poisson à quatre filets';1;0
+e;9576305;'Maria de Jesus dos Santos';777;0
+e;9576456;'María de Jesús dos Santos';777;0
+e;9594177;'Rui Miguel Marinho dos Reis';777;0
+e;9607810;'Wallace Fortuna dos Santos';777;0
+e;9677119;'dos de l'abdomen';1;0
+e;9757512;'Paulo Jorge Martins dos Santos Pina';777;0
+e;11108374;'Caio César Alves dos Santos';777;0
+e;11108358;'António Carlos dos Santos';777;0
+e;11118865;'s'allonger sur le dos';1;0
+e;11128033;'dos au vent';777;0
+e;12484152;'cromeleque dos Almendres';777;0
+e;12635799;'le dos courbé';1;0
+e;12689554;'Mélanie de Jesus dos Santos';777;0
+e;14002908;'100 mètres dos';777;0
+e;15247779;'Elle fourragea dans son sac à dos.';1;0
+e;15479922;'Il y a une inscription au dos.';1;0
+e;15247781;'Il fit son sac à dos et s'en alla.';1;0
+e;15018016;'Antonio dos Santos Marto';777;0
+e;14173330;'Alef dos Santos Saldanha';777;0
+e;14242514;'Alfredo Ramos dos Santos';777;0
+e;14242525;'André Alves dos Santos';777;0
+e;14173335;'António Francisco dos Santos';777;0
+e;14606492;'Antônio Lima dos Santos';777;0
+e;14173336;'Artur Lopes dos Santos';777;0
+e;15211683;'DOS à dos';1;0
+e;14173345;'Francileudo dos Santos Silva Lima';777;0
+e;15789770;'Alex Costa dos Santos';777;0
+e;15788713;'Grande Prémio Internacional Paredes Rota dos Móveis';777;0
+e;15880263;'António Eleutério dos Santos';777;0
+e;16174508;'A História dos Judeus em São Paulo';777;0
+e;16174509;'A História dos Judeus no Rio de Janeiro';777;0
+e;595350;'tour de dos';777;6
+e;1779467;'muscle latissimus du dos';1;0
+e;3233074;'se mettre sur le dos';1;0
+e;3568015;'Mésange à dos marron';777;0
+e;4903318;'pitajo à dos brun';1;0
+e;4901801;'troglodyte à dos roux';1;0
+e;4900794;'alapi à dos roux';1;0
+e;4902046;'alapi à dos blanc';1;0
+e;4902391;'colibri à dos noir';1;0
+e;4903592;'tangara à dos noir';1;0
+e;4910547;'Tangara à dos noir';777;0
+e;4909037;'Tangara à dos doré';777;0
+e;395517;'dos du pied';1;50
+e;166662;'Un, dos, tres';1;50
+e;461192;'Celso Dias dos Santos';777;50
+e;1655570;'dos argenté';1;0
+e;1778738;'dos du nez';1;0
+e;1966175;'rejeter qqch sur le dos de quelqu'un';1;0
+e;2489139;'tomber sur le dos';1;0
+e;2506085;'cale-dos';1;0
+e;3171521;'Roselin à dos rouge';777;0
+e;4903109;'oriole à dos orange';1;0
+e;4899631;'Piranga à dos rayé';777;0
+e;4901727;'tangara à dos jaune';1;0
+e;4902174;'batara à dos rayé';1;0
+e;6538811;'poil du dos du pied';1;0
+e;6538225;'fascia superficiel du dos de la main gauche';1;0
+e;6535435;'dos du membre supérieur droit';1;0
+e;1778737;'dos de la langue';1;2
+e;1778739;'dos du pénis';1;0
+e;1780155;'partie postérieure du dos de la langue';1;0
+e;1966211;'se mettre quelqu'un à dos';1;0
+e;4901726;'tangara à dos citron';1;0
+e;3169373;'Zostérops à dos vert';777;0
+e;3361710;'dos de cabillaud vapeur aux petits légumes';1;0
+e;3964899;'Arruda dos Vinhos';1;0
+e;4902822;'grisin à dos roux';1;0
+e;4902912;'manakin à dos bleu';1;0
+e;4902732;'grallaire à dos uni';1;0
+e;4901773;'tohi à dos vert';1;0
+e;4902271;'calliste à dos noir';1;0
+e;4928453;'Capucin à dos marron';777;0
+e;4928241;'Calliste à dos noir';777;0
+e;4930521;'Tisserin à dos d'or';777;0
+e;6536636;'peau du dos de la main gauche';1;0
+e;6535315;'dos du membre supérieur';1;0
+e;2472247;'chacal à dos noir';1;0
+e;4903463;'synallaxe à dos marron';1;0
+e;3397891;'Pic à dos blanc';777;0
+e;3754320;'dos de saumon grillés ou pochés';1;0
+e;4902791;'grimpar à dos olive';1;0
+e;4903217;'phrygile à dos roux';1;0
+e;4902821;'grisin à dos rayé';1;0
+e;4903717;'todirostre à dos noir';1;0
+e;6535471;'face du dos du pied droit';1;0
+e;1017616;'muscle du dos';1;0
+e;1780041;'partie antérieure du dos de la langue';1;0
+e;1966184;'retomber sur le dos de quelqu'un';1;0
+e;1966224;'taper sur le dos de quelqu'un';1;0
+e;2507831;'poignarder dans le dos';1;2
+e;3247015;'Merle à dos roux';777;0
+e;3746881;'dos de cabillaud en papillote au safran';1;0
+e;4903033;'moqueur à dos brun';1;0
+e;4903591;'tangara à dos d'or';1;0
+e;4899492;'cardinal à dos noir';1;0
+e;4903593;'tangara à dos olive';1;0
+e;464447;'mal de dos chez l'enfant';1;50
+e;570739;'Carlos Henrique dos Santos Souza';777;50
+e;1460919;'Francisco José Ribeiro Lopes dos Santos';777;0
+e;1966077;'être sur le dos de quelqu'un';1;0
+e;2513032;'être dos au mur';1;0
+e;3160422;'Bergeronnette à dos noir';777;0
+e;3166452;'Pic à dos noir';777;0
+e;3167964;'Sibia à dos marron';777;0
+e;4901678;'solitaire à dos brun';1;0
+e;4903069;'myrmidon à dos brun';1;0
+e;4902175;'batara à dos roux';1;0
+e;4902246;'buse à dos gris';1;0
+e;6537677;'fascia superficiel du dos du pied droit';1;0
+e;6535447;'face du dos de la main gauche';1;0
+e;1773151;'être constamment sur le dos de';1;0
+e;1966235;'tondre la laine sur le dos de quelqu'un';1;0
+e;2364605;'renvoyer dos à dos';1;14
+e;3247448;'Merle à dos gris';777;0
+e;571131;'José Maria Fidélis dos Santos';777;50
+e;1128799;'se frotter le dos';1;0
+e;1787627;'se laisser manger la laine sur le dos';1;0
+e;1820923;'muscle épineux du dos';1;0
+e;1966097;'faire un enfant dans le dos à quelqu'un';1;0
+e;1966155;'piler du poivre sur le dos de quelqu'un';1;0
+e;2555083;'fuligule à dos blanc';1;0
+e;2544509;'dos carré collé';1;0
+e;3160445;'Brève à dos bleu';777;0
+e;4903242;'pic à dos crème';1;0
+e;3775458;'toui à dos noir';1;0
+e;4900941;'capucin à dos marron';1;0
+e;4902270;'calliste à dos marron';1;0
+e;4904173;'tisserin à dos d'or';1;0
+e;4929692;'Grallaire à dos uni';777;0
+e;6537860;'poil du dos de la main droite';1;0
+e;6537676;'fascia superficiel du dos du pied';1;0
+e;6535472;'face du dos du pied gauche';1;0
+e;395616;'régions du dos';1;50
+e;572985;'dos de la selle';1;50
+e;1775330;'fistule du dos du nez';1;0
+e;1966204;'scier le dos à quelqu'un';1;0
+e;2606308;'Ricardo Izecson dos Santos Leite';777;0
+e;3361709;'dos de cabillaud au vin de chinon';1;0
+e;3691549;'se gratter le dos';1;0
+e;4097096;'Figueiró dos Vinhos';1;0
+e;4903044;'moucherolle à dos noir';1;0
+e;4899534;'tangara à dos rayé';1;0
+e;4902315;'casiorne à dos brun';1;0
+e;4902504;'cordon-noir à dos olive';1;0
+e;4930233;'Todirostre à dos noir';777;0
+e;6535465;'face du dos du pied';1;0
+e;6535436;'dos du membre supérieur gauche';1;0
+e;770880;'albatros fuligineux à dos clair';777;0
+e;1903697;'se tourner le dos';1;0
+e;2539393;'cale dos';1;0
+e;2581228;'c'est assez, dit la baleine, je me cache à l'eau car j'ai le dos fin';1;0
+e;4901450;'oriole à dos rayé';1;0
+e;2927236;'Cristiano Ronaldo dos Santos Aveiro';777;0
+e;2947404;'dos de la selle turcique';1;0
+e;3160900;'dos-bleu';1;0
+e;4901728;'tangara à dos rouge';1;0
+e;4900959;'cassique à dos rouge';1;0
+e;4902173;'batara à dos noir';1;0
+e;4903706;'tocro à dos noir';1;0
+e;4929952;'Pic à dos crème';777;0
+e;6536572;'peau du dos du pied droit';1;0
+e;2926911;'Agrobate à dos brun';777;0
+e;2946511;'Dendrocygne à dos blanc';777;0
+e;3166135;'Pic à dos rayé';777;0
+e;1820988;'muscles rotateurs du dos';1;0
+e;1847479;'du dos vascularite pustuleuse';1;0
+e;1849824;'du dos dermatose neutrophilique';1;0
+e;1906098;'coup de couteau dans le dos';1;4
+e;1908759;'faire un petit dans le dos';1;0
+e;1908754;'faire un enfant dans le dos';1;18
+e;3160168;'Agrobate à dos roux';777;0
+e;3166889;'Pipit à dos olive';777;0
+e;3162734;'Geai à dos violet';777;0
+e;3165279;'Paruline à dos noir';777;0
+e;3163233;'Bihoreau à dos blanc';777;0
+e;341847;'carte de dos';1;50
+e;381897;'sur le dos de';1;50
+e;375914;'reliure à dos long';1;50
+e;348255;'douleur de dos';1;50
+e;348162;'dos cartonné';1;50
+e;367541;'opéré du dos';1;50
+e;348165;'dos droit';1;50
+e;348164;'dos de mulet';1;50
+e;348161;'dos bossu';1;50
+e;388198;'à dos d'âne';1;50
+e;372291;'poudreuse à dos';1;50
+e;388199;'à dos de chameau';1;50
+e;348163;'dos de fourchette';1;50
+e;348168;'dos à dos avec';1;50
+e;348167;'dos tourné';1;50
+e;348166;'dos large';1;50
+e;388200;'à dos de mulet';1;50
+e;373192;'problème de dos';1;50
+e;356655;'grande tape dans le dos';1;50
+e;346317;'dans le dos de';1;50
+e;74767;'dos-vert';1;50
+e;41852;'lave-dos';1;50
+e;30644;'dos-nu';1;50
+e;18741;'dos-de-bahut';1;50
+e;10613;'dos-de-carpe';1;50
+e;236733;'sac-à-dos';1;54
+e;137141;'dos-d'âne';1;62
+e;107475;'gratte-dos';1;52
+e;323032;'casser du sucre sur le dos';1;56
+e;326115;'scie à dos';1;50
+e;316155;'être de dos';1;50
+e;192390;'calliste dos-bleu';1;50
+e;314101;'la bête à deux dos';1;50
+e;219458;'casser du sucre sur le dos de quelqu&#8217;un';1;50
+e;237619;'à dos de cheval';1;50
+e;258595;'avoir mal au dos';1;54
+e;313390;'être sur le dos';1;50
+e;102210;'passer la main dans le dos';1;50
+e;119280;'faire froid dans le dos';1;50
+e;160323;'à dos';1;80
+e;207869;'se mettre qqn à dos';1;50
+e;208795;'taper sur le dos de qqn';1;50
+e;209168;'tondre la laine sur le dos de qqn';1;50
+e;220421;'problème du sac à dos';1;50
+e;221499;'roselin à dos rouge';1;50
+e;235767;'lamelle à dos';1;50
+e;236926;'dos de la main';1;50
+e;250176;'avoir le dos au mur';1;50
+e;251179;'vue de dos';1;30
+e;259001;'dos de cabillaud';1;84
+e;260749;'plus facile à mettre sur le dos qu'une chèvre sur ses deux cornes';1;50
+e;262721;'dos brassé';1;54
+e;23484;'retomber sur le dos de qqn';1;50
+e;40487;'se mettre dos à';1;50
+e;62969;'tourner le dos à';1;50
+e;96833;'à plat dos';1;50
+e;110566;'avoir le dos tourné';1;50
+e;113197;'bas du dos';1;68
+e;165286;'nage sur le dos';1;52
+e;205194;'passer la main dans le dos de';1;50
+e;206853;'rejeter qqch sur le dos de qqn';1;50
+e;207577;'scier le dos';1;50
+e;210290;'avoir l'ennemi à dos';1;50
+e;210679;'dos d'azur';1;50
+e;213233;'bonite à dos rayé';1;50
+e;16277;'au dos';1;50
+e;33330;'Serra dos Carajás';1;50
+e;37590;'Nélson Pereira dos Santos';1;50
+e;50489;'mettre sur le dos de';1;50
+e;52040;'Pereira dos Santos';1;50
+e;132663;'El dos de mayo';1;50
+e;152940;'dos crawlé';1;150
+e;171363;'dans le dos de quelqu'un';1;50
+e;181082;'bête à deux dos';1;2
+e;182116;'dos nu';1;50
+e;185791;'casser du sucre sur le dos de quelqu'un';1;12
+e;185990;'en avoir plein le dos';1;6
+e;186115;'être le dos au mur';1;50
+e;186604;'ne pas y aller avec le dos de la cuillère';1;50
+e;195392;'à dos de';1;50
+e;196254;'au dos de';1;50
+e;197309;'casser du sucre sur le dos de';1;50
+e;205572;'piler du poivre sur le dos de qqn';1;50
+e;281203;'Sterne à dos gris';777;50
+e;282421;'serra dos Carajás';777;50
+e;283417;'Grive à dos olive';777;50
+e;285010;'montrant le dos de la main';777;50
+e;293010;'Márcio Amoroso dos Santos';777;50
+e;294216;'Campos dos Goitacases';777;50
+e;298194;'Ronaldo souza dos Santos';777;50
+e;300364;'bureau dos d'âne';777;50
+e;306644;'Albatros fuligineux à dos sombre';777;50
+e;307300;'Fuligule à dos blanc';777;50
+e;308642;'Camaroptère à dos gris';777;50
+e;308643;'Camaroptère à dos vert';777;50
+e;309571;'Sibia à dos roux';777;50
+e;191950;'agrobate à dos brun';1;50
+e;191951;'agrobate à dos roux';1;50
+e;192175;'bergeronnette à dos noir';1;50
+e;192264;'brève à dos bleu';1;50
+e;192453;'canard à dos blanc';1;50
+e;192803;'dendrocygne à dos blanc';1;50
+e;192868;'érismature à dos blanc';1;50
+e;193043;'geai à dos violet';1;50
+e;193163;'grive à dos olive';1;50
+e;193273;'bihoreau à dos blanc';1;50
+e;193691;'merle à dos gris';1;50
+e;193692;'merle à dos roux';1;50
+e;193843;'mérion à dos rouge';1;50
+e;193860;'mésange à dos marron';1;50
+e;194005;'paruline à dos noir';1;50
+e;194181;'pic à dos blanc';1;50
+e;194209;'pic à dos noir';1;50
+e;194210;'pic à dos rayé';1;50
+e;194286;'pipit à dos olive';1;50
+e;194542;'sibia à dos marron';1;50
+e;194581;'souimanga à dos vert';1;50
+e;194640;'sterne à dos gris';1;50
+e;194977;'zostérops à dos vert';1;50
+e;196589;'avoir le dos à qqch';1;50
+e;196590;'avoir le dos au feu';1;50
+e;198047;'coup de poignard dans le dos';1;54
+e;198340;'de dos';1;52
+e;200123;'être sur le dos de qqn';1;50
+e;200686;'faire un enfant dans le dos à qqn';1;50
+e;17362;'Campos dos Goytacazes';1;50
+e;198081;'courber le dos';1;54
+e;198153;'creuser le dos';1;50
+e;198888;'dos vert';1;56
+e;199619;'épine du dos';1;50
+e;200519;'faire le dos rond';1;50
+e;469;'scier le dos à qqn';1;50
+e;1242;'faire la bête à deux dos';1;96
+e;80145;'dos-à-dos';1;50
+e;165592;'un dos tres';1;50
+e;155982;'sur le dos';1;70
+e;242404;'dos au mur';1;54
+e;186220;'faire le gros dos';1;14
+e;117708;'se mettre à dos';1;70
+e;75059;'dans le dos';1;68
+e;224914;'avoir le dos large';1;58
+e;162932;'mal au dos';1;102
+e;56743;'tourner le dos';1;74
+e;185541;'avoir bon dos';1;12
+e;39607;'sac à dos';1;322
+e;156989;'plein le dos';1;66
+e;153486;'dos d'âne';1;132
+e;156899;'mal de dos';1;112
+e;155983;'dos à dos';1;76
+r;397092055;126285;6292989;11;25
+r;298238545;126285;6287372;11;25
+r;298726636;126285;6293964;11;25
+r;299492239;126285;6306329;11;25
+r;299586963;126285;6311356;11;25
+r;301025804;126285;6332247;11;25
+r;301446300;126285;6338379;11;25
+r;301493141;126285;6342962;11;25
+r;301541488;126285;6344807;11;25
+r;301553142;126285;6345469;11;25
+r;301606071;126285;6347105;11;25
+r;301705832;126285;6348132;11;25
+r;301802280;126285;6355698;11;25
+r;302977501;126285;6369913;11;25
+r;302986500;126285;6370817;11;25
+r;303639430;126285;6378535;11;25
+r;303978460;126285;6382915;11;25
+r;303986849;126285;6383987;11;25
+r;305000329;126285;6395591;11;25
+r;305062202;126285;6398358;11;25
+r;305166546;126285;6400731;11;25
+r;305295932;126285;6403809;11;25
+r;337348021;126285;12983376;11;25
+r;337348065;126285;12983347;11;25
+r;337351429;126285;12979531;11;25
+r;341116636;126285;6355407;11;25
+r;349252961;126285;6335661;11;25
+r;349347778;126285;6367996;11;25
+r;359717370;126285;14159622;11;25
+r;359717893;126285;14159610;11;25
+r;359761738;126285;14161328;11;25
+r;364359429;126285;14318223;11;25
+r;365134794;126285;14376287;11;25
+r;368104880;126285;14484827;11;25
+r;375560885;126285;14778262;11;25
+r;400878886;126285;6404505;11;25
+r;414847247;126285;15943664;11;25
+r;400851653;126285;6403045;11;25
+r;395283495;126285;15418660;11;25
+r;395311119;126285;15420074;11;25
+r;395311771;126285;15420075;11;25
+r;395456476;126285;15437041;11;25
+r;395456504;126285;15437052;11;25
+r;395456533;126285;15437038;11;25
+r;395456860;126285;15437051;11;25
+r;395470740;126285;15437045;11;25
+r;396191692;126285;6284261;11;25
+r;396626290;126285;6288550;11;25
+r;399460405;126285;6325166;11;25
+r;400130081;126285;6362170;11;25
+r;401794809;126285;6416767;11;25
+r;402047299;126285;6421104;11;25
+r;301413381;126285;6336589;11;26
+r;299065705;126285;6298949;11;26
+r;299561715;126285;6306481;11;26
+r;300178169;126285;6323742;11;26
+r;300182624;126285;6324828;11;26
+r;302034682;126285;6358434;11;26
+r;303309846;126285;6374280;11;26
+r;305129593;126285;6398969;11;26
+r;305314460;126285;6406904;11;26
+r;312956192;126285;6376568;11;26
+r;312957496;126285;6421115;11;26
+r;333239067;126285;12979530;11;26
+r;341257121;126285;6416756;11;26
+r;349132335;126285;6398015;11;26
+r;368585645;126285;14529879;11;26
+r;368615507;126285;14530600;11;26
+r;368702076;126285;14532356;11;26
+r;370160908;126285;14566632;11;26
+r;371745065;126285;14635392;11;26
+r;403148166;126285;15686421;11;26
+r;270772365;126285;10675687;11;27
+r;298494420;126285;6292263;11;27
+r;302182419;126285;6364883;11;27
+r;304562661;126285;6389284;11;27
+r;269881235;126285;10732188;11;28
+r;269884052;126285;10731509;11;28
+r;269884078;126285;10731505;11;28
+r;273219636;126285;10877065;11;28
+r;273221293;126285;10876562;11;28
+r;334144603;126285;12990964;11;28
+r;337340924;126285;13010077;11;28
+r;113306704;126285;5802728;11;29
+r;273206960;126285;10896424;11;29
+r;302229845;126285;11774465;11;29
+r;434385382;126285;16094620;11;29
+r;434385384;126285;16167414;11;29
+r;434385390;126285;16167413;11;29
+r;434385396;126285;16285899;11;29
+r;434385398;126285;16285900;11;29
+r;119736720;126285;6272799;11;30
+r;122706497;126285;6428610;11;30
+r;264444705;126285;10598150;11;30
+r;264449447;126285;10596411;11;30
+r;264449731;126285;10596352;11;30
+r;264450031;126285;10596149;11;30
+r;274286227;126285;10906012;11;30
+r;274590604;126285;10914546;11;30
+r;274590970;126285;10914481;11;30
+r;277228669;126285;10969164;11;30
+r;302230494;126285;11774190;11;30
+r;302214233;126285;11774134;11;30
+r;302215402;126285;11774207;11;30
+r;419773491;126285;16043355;11;30
+r;419781784;126285;15421745;11;30
+r;419781806;126285;15625922;11;30
+r;419788755;126285;15381294;11;30
+r;419789589;126285;15435710;11;30
+r;419790162;126285;16032520;11;30
+r;419792800;126285;15260103;11;30
+r;419793943;126285;15258923;11;30
+r;419793948;126285;15220862;11;30
+r;419793955;126285;15258924;11;30
+r;419793960;126285;15437027;11;30
+r;419793965;126285;15245317;11;30
+r;419793970;126285;13751288;11;30
+r;419793978;126285;15762572;11;30
+r;419793985;126285;15251064;11;30
+r;419798268;126285;15484404;11;30
+r;419798618;126285;15494682;11;30
+r;419839086;126285;15197755;11;30
+r;111458548;126285;5680178;11;31
+r;112186675;126285;5692864;11;31
+r;121557139;126285;6436752;11;31
+r;122751505;126285;6422823;11;31
+r;134650995;126285;7997295;11;31
+r;222103182;126285;9980455;11;31
+r;264449013;126285;10596497;11;31
+r;264450438;126285;10596067;11;31
+r;274578815;126285;10916585;11;31
+r;277580616;126285;10990131;11;31
+r;431648157;126285;16329230;11;31
+r;400443668;126285;15605783;11;31
+r;418362018;126285;16058924;11;31
+r;419743223;126285;15385131;11;31
+r;423732573;126285;16166007;11;31
+r;111329618;126285;5675257;11;32
+r;111337663;126285;5672941;11;32
+r;111338861;126285;5672590;11;32
+r;111342228;126285;5670903;11;32
+r;111343383;126285;5670632;11;32
+r;111345052;126285;5670272;11;32
+r;111348828;126285;5669171;11;32
+r;111351001;126285;5668537;11;32
+r;112186507;126285;5697508;11;32
+r;113771043;126285;5817849;11;32
+r;114436814;126285;5873818;11;32
+r;114438848;126285;5873239;11;32
+r;122722480;126285;6426548;11;32
+r;227634389;126285;10031341;11;32
+r;227644807;126285;10018239;11;32
+r;276017704;126285;10955818;11;32
+r;276020174;126285;10955189;11;32
+r;269415291;126285;10736357;11;32
+r;269415360;126285;10734699;11;32
+r;274264301;126285;10910438;11;32
+r;274979364;126285;10920525;11;32
+r;274979510;126285;10920501;11;32
+r;274979618;126285;10920482;11;32
+r;274982824;126285;10919827;11;32
+r;274983643;126285;10919675;11;32
+r;280530289;126285;11064247;11;32
+r;280530372;126285;11064206;11;32
+r;280530388;126285;11064166;11;32
+r;302430232;126285;11777638;11;32
+r;303721994;126285;11784473;11;32
+r;305014254;126285;11808709;11;32
+r;419618948;126285;15365829;11;32
+r;419631424;126285;16032390;11;32
+r;419633583;126285;15397096;11;32
+r;419633595;126285;15377207;11;32
+r;419634944;126285;15327914;11;32
+r;419635522;126285;15385138;11;32
+r;419635602;126285;16040513;11;32
+r;419636251;126285;16040525;11;32
+r;419640583;126285;15352133;11;32
+r;419655837;126285;15197183;11;32
+r;419683376;126285;6380413;11;32
+r;419689181;126285;15419360;11;32
+r;419689275;126285;15434589;11;32
+r;227621174;126285;10035019;11;33
+r;275825499;126285;10953507;11;33
+r;269398021;126285;10743725;11;33
+r;277922069;126285;10994715;11;33
+r;280424312;126285;11063403;11;33
+r;280433420;126285;11063972;11;33
+r;280443740;126285;11064121;11;33
+r;280443918;126285;11064209;11;33
+r;280470420;126285;11064521;11;33
+r;280675458;126285;11071028;11;33
+r;111332609;126285;5674312;11;34
+r;115837016;126285;5922687;11;34
+r;115842048;126285;5920680;11;34
+r;115847024;126285;5919380;11;34
+r;115850737;126285;5918400;11;34
+r;116572137;126285;5962301;11;34
+r;122686962;126285;6431140;11;34
+r;275478045;126285;10940525;11;34
+r;275479520;126285;10940293;11;34
+r;277884159;126285;10994714;11;34
+r;300957395;126285;11697077;11;34
+r;304848646;126285;11813775;11;34
+r;304896354;126285;11815366;11;34
+r;313341405;126285;12032732;11;34
+r;434343173;126285;16313708;11;34
+r;419527097;126285;15688263;11;34
+r;419562739;126285;15685613;11;34
+r;419573507;126285;15479925;11;34
+r;419589159;126285;15265370;11;34
+r;432542023;126285;16366937;11;34
+r;29969558;126285;1832324;11;35
+r;115089998;126285;5902697;11;35
+r;116301529;126285;5946951;11;35
+r;269383403;126285;10749195;11;35
+r;275104187;126285;10934016;11;35
+r;275104195;126285;10934015;11;35
+r;275104287;126285;10934003;11;35
+r;288772373;126285;11269206;11;35
+r;288772449;126285;11269188;11;35
+r;288772469;126285;11269185;11;35
+r;288772680;126285;11269141;11;35
+r;288773999;126285;11268853;11;35
+r;288774263;126285;11268751;11;35
+r;288774270;126285;11268750;11;35
+r;291990709;126285;11361177;11;35
+r;315122616;126285;12078562;11;35
+r;315122621;126285;12078561;11;35
+r;419492392;126285;15327916;11;35
+r;419494424;126285;15194913;11;35
+r;419505327;126285;14123250;11;35
+r;419508882;126285;15382188;11;35
+r;419508892;126285;15523656;11;35
+r;419508898;126285;15336191;11;35
+r;419509226;126285;15247777;11;35
+r;432057066;126285;16154285;11;35
+r;431214673;126285;16326843;11;35
+r;29968613;126285;1832323;11;36
+r;110812527;126285;5621877;11;36
+r;112660141;126285;5779357;11;36
+r;113753417;126285;5831559;11;36
+r;116949225;126285;5969013;11;36
+r;117874513;126285;5989220;11;36
+r;137669610;126285;8159767;11;36
+r;252676255;126285;10312772;11;36
+r;252673001;126285;10313495;11;36
+r;278067729;126285;10998398;11;36
+r;278064785;126285;10998383;11;36
+r;288771679;126285;11285779;11;36
+r;289897412;126285;11288396;11;36
+r;294828246;126285;11456149;11;36
+r;294966557;126285;11479264;11;36
+r;315107009;126285;12081542;11;36
+r;419491719;126285;15287821;11;36
+r;111330975;126285;5674883;11;37
+r;111351649;126285;5668359;11;37
+r;228988362;126285;10055394;11;37
+r;228988396;126285;10055392;11;37
+r;228988705;126285;10055353;11;37
+r;228988795;126285;10055346;11;37
+r;271771237;126285;10846891;11;37
+r;288555641;126285;11256263;11;37
+r;291815958;126285;11363156;11;37
+r;296500254;126285;11543909;11;37
+r;111333520;126285;5674077;11;38
+r;116947546;126285;5970808;11;38
+r;126450430;126285;7845371;11;38
+r;219824873;126285;9929301;11;38
+r;228279014;126285;10055257;11;38
+r;269878978;126285;10775840;11;38
+r;295584714;126285;11503763;11;38
+r;296428772;126285;11543910;11;38
+r;297831228;126285;11584250;11;38
+r;345776812;126285;13634417;11;38
+r;52213912;126285;2375272;11;39
+r;242260810;126285;10188950;11;39
+r;262523497;126285;10524834;11;39
+r;262523609;126285;10524810;11;39
+r;262523621;126285;10524807;11;39
+r;262524180;126285;10524678;11;39
+r;262528389;126285;10523605;11;39
+r;262528565;126285;10523584;11;39
+r;262528680;126285;10523566;11;39
+r;262530896;126285;10519875;11;39
+r;263167528;126285;10556468;11;39
+r;288669129;126285;11268943;11;39
+r;292321606;126285;11383838;11;39
+r;55619585;126285;2457765;11;40
+r;242254455;126285;10191387;11;40
+r;262199515;126285;10518836;11;40
+r;262201750;126285;10518100;11;40
+r;262202018;126285;10518046;11;40
+r;262528415;126285;10523601;11;40
+r;263060394;126285;10554521;11;40
+r;263065310;126285;10553726;11;40
+r;287988310;126285;11237818;11;40
+r;292073873;126285;11383837;11;40
+r;292438036;126285;11388945;11;40
+r;310726604;126285;11975980;11;40
+r;116949915;126285;5968831;11;41
+r;236685820;126285;10134911;11;41
+r;240952936;126285;10186178;11;41
+r;262042407;126285;10512872;11;41
+r;262056298;126285;10506288;11;41
+r;262201478;126285;10518208;11;41
+r;283679740;126285;11155385;11;41
+r;232074954;126285;10074850;11;42
+r;234742805;126285;10118586;11;42
+r;240917384;126285;10185929;11;42
+r;258721316;126285;10448378;11;42
+r;261013703;126285;10460254;11;42
+r;53879386;126285;2408524;11;43
+r;111339898;126285;5672209;11;43
+r;111339916;126285;5672204;11;43
+r;112186465;126285;5698215;11;43
+r;121044708;126285;6450299;11;43
+r;122104752;126285;6595014;11;43
+r;234222837;126285;10105756;11;43
+r;260997856;126285;10503786;11;43
+r;260998792;126285;10503578;11;43
+r;260998894;126285;10503562;11;43
+r;261002028;126285;10502921;11;43
+r;283859631;126285;11157535;11;43
+r;283867723;126285;11157600;11;43
+r;285749837;126285;11162379;11;43
+r;116318891;126285;5940750;11;44
+r;121848754;126285;6538789;11;44
+r;121859052;126285;6537861;11;44
+r;121896678;126285;6534777;11;44
+r;117874529;126285;5989219;11;46
+r;121833163;126285;6540328;11;46
+r;121859015;126285;6537865;11;46
+r;50639440;126285;2368116;11;47
+r;50640358;126285;2368117;11;47
+r;121847037;126285;6538937;11;47
+r;121859076;126285;6537859;11;47
+r;50460718;126285;2365737;11;48
+r;108336396;126285;5515732;11;48
+r;121874814;126285;6536573;11;48
+r;121829901;126285;6540631;11;49
+r;115090004;126285;5902696;11;50
+r;397020859;126285;15479920;11;50
+r;153087204;126285;8569196;11;50
+r;193012021;126285;8915196;11;50
+r;209767028;126285;9211322;11;50
+r;213741076;126285;9448122;11;50
+r;213742956;126285;9448203;11;50
+r;213743134;126285;9448204;11;50
+r;213743439;126285;9448186;11;50
+r;214949717;126285;9576305;11;50
+r;214951076;126285;9576456;11;50
+r;215823924;126285;9594177;11;50
+r;216462450;126285;9607810;11;50
+r;217233640;126285;9677119;11;50
+r;218181532;126285;9757512;11;50
+r;282191734;126285;11108374;11;50
+r;282192882;126285;11108358;11;50
+r;282260791;126285;11118865;11;50
+r;282611694;126285;11128033;11;50
+r;320907680;126285;12484152;11;50
+r;324934756;126285;12635799;11;50
+r;325087852;126285;12689554;11;50
+r;353027593;126285;14002908;11;50
+r;397498915;126285;15247779;11;50
+r;402110802;126285;15479922;11;50
+r;402107090;126285;15247781;11;50
+r;392302940;126285;15018016;11;50
+r;393797806;126285;14173330;11;50
+r;393799157;126285;14242514;11;50
+r;393801556;126285;14242525;11;50
+r;393804212;126285;14173335;11;50
+r;393804252;126285;14606492;11;50
+r;393805905;126285;14173336;11;50
+r;395029048;126285;15211683;11;50
+r;399662448;126285;14173345;11;50
+r;411711860;126285;15789770;11;50
+r;412543947;126285;15788713;11;50
+r;413878201;126285;15880263;11;50
+r;425067012;126285;16174508;11;50
+r;425092761;126285;16174509;11;50
+r;18660652;126285;595350;11;51
+r;19606755;126285;734492;11;51
+r;29221723;126285;1779467;11;51
+r;78390472;126285;3233074;11;51
+r;88983502;126285;3568015;11;51
+r;102415282;126285;4903318;11;51
+r;102363108;126285;4901801;11;51
+r;102303784;126285;4900794;11;51
+r;102377916;126285;4902046;11;51
+r;102396967;126285;4902391;11;51
+r;102559437;126285;4903592;11;51
+r;103175005;126285;4910547;11;51
+r;103175187;126285;4909037;11;51
+r;13994403;126285;395517;11;52
+r;14344050;126285;166662;11;52
+r;16195205;126285;461192;11;52
+r;27276150;126285;1655570;11;52
+r;29214283;126285;1778738;11;52
+r;31667057;126285;1966175;11;52
+r;52481364;126285;2489139;11;52
+r;52520568;126285;2506085;11;52
+r;76285915;126285;3171521;11;52
+r;102406516;126285;4903109;11;52
+r;102178975;126285;4899631;11;52
+r;102362592;126285;4901727;11;52
+r;102380434;126285;4902174;11;52
+r;121848530;126285;6538811;11;52
+r;121855097;126285;6538225;11;52
+r;121889069;126285;6535435;11;52
+r;29214182;126285;1778737;11;53
+r;29215567;126285;1778739;11;53
+r;29231924;126285;1780155;11;53
+r;31666414;126285;1966211;11;53
+r;102361095;126285;4901726;11;53
+r;76168650;126285;3169373;11;53
+r;86252991;126285;3361710;11;53
+r;95169237;126285;3964899;11;53
+r;102402297;126285;4902822;11;53
+r;102404367;126285;4902912;11;53
+r;102401271;126285;4902732;11;53
+r;102362661;126285;4901773;11;53
+r;102301623;126285;4902271;11;53
+r;103202694;126285;4928453;11;53
+r;103203050;126285;4928241;11;53
+r;103208191;126285;4930521;11;53
+r;121874013;126285;6536636;11;53
+r;121890529;126285;6535315;11;53
+r;29111967;126285;1771507;11;54
+r;29111979;126285;1771508;11;54
+r;55894770;126285;2472247;11;54
+r;102419942;126285;4903463;11;54
+r;87047865;126285;3397891;11;54
+r;93695973;126285;3754320;11;54
+r;102402513;126285;4902791;11;54
+r;102412652;126285;4903217;11;54
+r;102403512;126285;4902821;11;54
+r;102653525;126285;4903717;11;54
+r;121888681;126285;6535471;11;54
+r;19606628;126285;734493;11;55
+r;21060678;126285;1017616;11;55
+r;29233023;126285;1780041;11;55
+r;31665605;126285;1966184;11;55
+r;31666305;126285;1966224;11;55
+r;52472776;126285;2507831;11;55
+r;78619953;126285;3247015;11;55
+r;93492685;126285;3746881;11;55
+r;102411868;126285;4903033;11;55
+r;102445428;126285;4903591;11;55
+r;102173950;126285;4899492;11;55
+r;102634197;126285;4903593;11;55
+r;16349491;126285;464447;11;56
+r;17543355;126285;570739;11;56
+r;23913675;126285;1460919;11;56
+r;31667819;126285;1966077;11;56
+r;52470295;126285;2513032;11;56
+r;75995105;126285;3160422;11;56
+r;76130734;126285;3166452;11;56
+r;76144915;126285;3167964;11;56
+r;102360862;126285;4901678;11;56
+r;102406044;126285;4903069;11;56
+r;102393183;126285;4902175;11;56
+r;102393233;126285;4902246;11;56
+r;121860972;126285;6537677;11;56
+r;121888955;126285;6535447;11;56
+r;29134585;126285;1773151;11;57
+r;31666682;126285;1966235;11;57
+r;50260371;126285;2364605;11;57
+r;78620465;126285;3247448;11;57
+r;17542727;126285;571131;11;58
+r;21785291;126285;1128799;11;58
+r;29342838;126285;1787627;11;58
+r;29747523;126285;1820923;11;58
+r;31663687;126285;1966097;11;58
+r;31665381;126285;1966155;11;58
+r;52450316;126285;2555083;11;58
+r;52455393;126285;2544509;11;58
+r;75999054;126285;3160445;11;58
+r;102412967;126285;4903242;11;58
+r;95118966;126285;3775458;11;58
+r;102300831;126285;4900941;11;58
+r;102393282;126285;4902270;11;58
+r;102969064;126285;4904173;11;58
+r;103206888;126285;4929692;11;58
+r;121859064;126285;6537860;11;58
+r;121860989;126285;6537676;11;58
+r;121888669;126285;6535472;11;58
+r;13999060;126285;395616;11;59
+r;17696097;126285;572985;11;59
+r;18393965;126285;586206;11;59
+r;29155051;126285;1775330;11;59
+r;31665769;126285;1966204;11;59
+r;55565610;126285;2606308;11;59
+r;86258473;126285;3361709;11;59
+r;91710079;126285;3691549;11;59
+r;95161656;126285;4097096;11;59
+r;102406467;126285;4903044;11;59
+r;102173844;126285;4899534;11;59
+r;102394182;126285;4902315;11;59
+r;102396498;126285;4902504;11;59
+r;103207281;126285;4930233;11;59
+r;121888738;126285;6535465;11;59
+r;121889057;126285;6535436;11;59
+r;19782996;126285;770880;11;60
+r;30673880;126285;1903697;11;60
+r;52457868;126285;2539393;11;60
+r;53132168;126285;2581228;11;60
+r;102358718;126285;4901450;11;60
+r;71747819;126285;2927236;11;60
+r;72524932;126285;2947404;11;60
+r;76005066;126285;3160900;11;60
+r;102361293;126285;4901728;11;60
+r;102294958;126285;4900959;11;60
+r;102380479;126285;4902173;11;60
+r;102746949;126285;4903706;11;60
+r;103208695;126285;4929952;11;60
+r;121874828;126285;6536572;11;60
+r;71740430;126285;2926911;11;61
+r;72414721;126285;2946511;11;61
+r;76130786;126285;3166135;11;61
+r;29748344;126285;1820988;11;62
+r;29874127;126285;1847479;11;62
+r;29861885;126285;1849824;11;63
+r;30708417;126285;1906098;11;64
+r;30743806;126285;1908759;11;65
+r;30743757;126285;1908754;11;66
+r;75990409;126285;3160168;11;66
+r;76141443;126285;3166889;11;66
+r;76041531;126285;3162734;11;67
+r;76130391;126285;3165279;11;67
+r;76089842;126285;3163233;11;68
+r;12737705;126285;341847;11;101
+r;12573825;126285;381897;11;103
+r;12598253;126285;375914;11;103
+r;12710285;126285;348255;11;103
+r;12710665;126285;348162;11;104
+r;12632077;126285;367541;11;105
+r;12710653;126285;348165;11;105
+r;12710657;126285;348164;11;105
+r;12710669;126285;348161;11;105
+r;12548597;126285;388198;11;106
+r;12612953;126285;372291;11;106
+r;12548589;126285;388199;11;107
+r;12710661;126285;348163;11;108
+r;12710639;126285;348168;11;109
+r;12710645;126285;348167;11;109
+r;12710649;126285;348166;11;109
+r;12548581;126285;388200;11;110
+r;12609299;126285;373192;11;110
+r;12676375;126285;356655;11;110
+r;12718719;126285;346317;11;110
+r;11867296;126285;74767;11;121
+r;11872200;126285;41852;11;121
+r;11873819;126285;30644;11;121
+r;11875565;126285;18741;11;121
+r;11876650;126285;10613;11;121
+r;11851513;126285;236733;11;122
+r;11858287;126285;137141;11;122
+r;11862590;126285;107475;11;122
+r;9060200;126285;320606;11;148
+r;9060205;126285;320607;11;148
+r;9129982;126285;323032;11;148
+r;11279350;126285;326115;11;148
+r;8871186;126285;316155;11;154
+r;8877241;126285;192390;11;154
+r;8825818;126285;314101;11;157
+r;8691605;126285;219458;11;160
+r;8704900;126285;237619;11;160
+r;8724292;126285;258595;11;160
+r;8811564;126285;313390;11;160
+r;8604914;126285;102210;11;161
+r;8611116;126285;119280;11;161
+r;8626832;126285;160323;11;161
+r;8680948;126285;207869;11;161
+r;8682495;126285;208795;11;161
+r;8683144;126285;209168;11;161
+r;8692192;126285;220421;11;161
+r;8693023;126285;221499;11;161
+r;8703351;126285;235767;11;161
+r;8704352;126285;236926;11;161
+r;8713491;126285;250176;11;161
+r;8714732;126285;251179;11;161
+r;8724912;126285;259001;11;161
+r;8727289;126285;260749;11;161
+r;8729652;126285;262721;11;161
+r;8577696;126285;23484;11;162
+r;8583454;126285;40487;11;162
+r;8591356;126285;62969;11;162
+r;8602999;126285;96833;11;162
+r;8608003;126285;110566;11;162
+r;8608962;126285;113197;11;162
+r;8629518;126285;165286;11;162
+r;8676489;126285;205194;11;162
+r;8679199;126285;206853;11;162
+r;8680444;126285;207577;11;162
+r;8685005;126285;210290;11;162
+r;8685544;126285;210679;11;162
+r;8688722;126285;213233;11;162
+r;8575389;126285;16277;11;163
+r;8581008;126285;33330;11;163
+r;8582497;126285;37590;11;163
+r;8586932;126285;50489;11;163
+r;8587530;126285;52040;11;163
+r;8615911;126285;132663;11;163
+r;8623036;126285;152940;11;163
+r;8633807;126285;171363;11;163
+r;8637760;126285;181082;11;163
+r;8639562;126285;182116;11;163
+r;8645441;126285;185791;11;163
+r;8645853;126285;185990;11;163
+r;8646088;126285;186115;11;163
+r;8647174;126285;186604;11;163
+r;8659847;126285;195392;11;163
+r;8661159;126285;196254;11;163
+r;8663191;126285;197309;11;163
+r;8677116;126285;205572;11;163
+r;8748573;126285;281203;11;163
+r;8749725;126285;282421;11;163
+r;8750606;126285;283417;11;163
+r;8752265;126285;285010;11;163
+r;8760709;126285;293010;11;163
+r;8761660;126285;294216;11;163
+r;8765073;126285;298194;11;163
+r;8767059;126285;300364;11;163
+r;8772584;126285;306644;11;163
+r;8773037;126285;307300;11;163
+r;8774411;126285;308642;11;163
+r;8774413;126285;308643;11;163
+r;8775463;126285;309571;11;163
+r;8654498;126285;191950;11;164
+r;8654501;126285;191951;11;164
+r;8654890;126285;192175;11;164
+r;8655012;126285;192264;11;164
+r;8655371;126285;192453;11;164
+r;8655984;126285;192803;11;164
+r;8656086;126285;192868;11;164
+r;8656392;126285;193043;11;164
+r;8656558;126285;193163;11;164
+r;8656762;126285;193273;11;164
+r;8657456;126285;193691;11;164
+r;8657458;126285;193692;11;164
+r;8657742;126285;193843;11;164
+r;8657763;126285;193860;11;164
+r;8657982;126285;194005;11;164
+r;8658281;126285;194181;11;164
+r;8658332;126285;194209;11;164
+r;8658335;126285;194210;11;164
+r;8658483;126285;194286;11;164
+r;8658859;126285;194542;11;164
+r;8658916;126285;194581;11;164
+r;8658971;126285;194640;11;164
+r;8659570;126285;194977;11;164
+r;8661834;126285;196589;11;164
+r;8661837;126285;196590;11;164
+r;8664407;126285;198047;11;164
+r;8664918;126285;198340;11;164
+r;8667830;126285;200123;11;164
+r;8669020;126285;200686;11;164
+r;8575711;126285;17362;11;165
+r;8664456;126285;198081;11;165
+r;8664584;126285;198153;11;165
+r;8665863;126285;198888;11;165
+r;8666988;126285;199619;11;165
+r;8668634;126285;200519;11;165
+r;8570094;126285;469;11;169
+r;8570369;126285;1242;11;169
+r;11866548;126285;80145;11;184
+r;417226;126285;165592;11;187
+r;201619;126285;155982;11;188
+r;2004303;126285;242404;11;197
+r;1693373;126285;186220;11;200
+r;1695131;126285;117708;11;217
+r;247187;126285;75059;11;219
+r;1694902;126285;224914;11;227
+r;372977;126285;162932;11;238
+r;201621;126285;56743;11;239
+r;1694903;126285;185541;11;240
+r;404559;126285;39607;11;249
+r;214738;126285;156989;11;259
+r;203351;126285;153486;11;279
+r;214739;126285;156899;11;289
+r;201620;126285;155983;11;428

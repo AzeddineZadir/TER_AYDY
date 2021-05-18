@@ -1,0 +1,42 @@
+
+e;112165;'désagréable';1;420
+e;6288595;'affect désagréable';1;0
+e;6332882;'odeur désagréable des pieds';1;0
+e;6377792;'goût désagréable d'origine neurologique';1;0
+e;6406527;'odeur désagréable des aisselles';1;0
+e;6352757;'odeur désagréable des organes génitaux';1;0
+e;6411196;'odeur corporelle désagréable';1;0
+e;14535102;'remarque désagréable';1;6
+e;6439058;'perception désagréable anormale d'odeurs fortes';1;0
+e;15245124;'caractère désagréable';1;0
+e;12302091;'odeur désagréable';1;4
+e;15381217;'Le couple Lyle est d'une désagréable hypocrisie.';1;0
+e;9259556;'sensation désagréable';1;0
+e;15245115;'C'est fort désagréable.';1;0
+e;15197721;'C'est un individu désagréable.';1;0
+e;3180242;'être désagréable';1;10
+e;3352865;'situation désagréable';1;0
+e;108736;'femme désagréable';1;50
+e;264625;'impression désagréable';1;50
+e;265144;'réflexion désagréable';1;78
+e;137731;'trancher d'une manière désagréable';1;50
+r;298330006;112165;6288595;11;25
+r;301101821;112165;6332882;11;25
+r;303634593;112165;6377792;11;25
+r;305312378;112165;6406527;11;25
+r;301746873;112165;6352757;11;26
+r;305471773;112165;6411196;11;26
+r;368726357;112165;14535102;11;26
+r;121536421;112165;6439058;11;32
+r;419681831;112165;15245124;11;32
+r;319705166;112165;12302091;11;34
+r;419491558;112165;15381217;11;36
+r;211708656;112165;9259556;11;50
+r;395010847;112165;15245115;11;50
+r;395011345;112165;15197721;11;50
+r;76763271;112165;3180242;11;56
+r;85932250;112165;3352865;11;60
+r;8607356;112165;108736;11;162
+r;8732194;112165;264625;11;163
+r;8732731;112165;265144;11;163
+r;8618142;112165;137731;11;164

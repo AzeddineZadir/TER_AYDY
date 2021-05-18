@@ -1,0 +1,1636 @@
+
+e;61283;'pain';1;3438
+e;10549130;'t-pain';777;0
+e;11414906;'noix-pain';777;0
+e;12202010;'arbre à pain (fruit)';1;0
+e;14678527;'prendre le pain';1;56
+e;13736613;'tranches de pain toastées';1;0
+e;14159313;'pain au cacao';777;0
+e;14159545;'aller au pain';1;12
+e;14159774;'embrasser comme du bon pain';1;0
+e;14159697;'charcher son pain';1;0
+e;14159815;'être au pain quérant';1;0
+e;14159876;'exagérer sur le pain béni';1;0
+e;14604782;'tranche de pain de mie grillée';1;0
+e;14610518;'chercher son pain';1;0
+e;14638942;'cuisson du pain';1;0
+e;14654821;'pain allongé';1;0
+e;14755251;'pain de carabin';777;0
+e;14760379;'Le pain de Pâques à Sepvigny';777;0
+e;15463455;'pain kaiser';1;0
+e;15418450;'ôter le pain de la bouche à [qqn]';1;0
+e;15420005;'filer un pain à [qqn]';1;0
+e;15418456;'retirer le pain de la bouche à [qqn]';1;0
+e;16387279;'pain liquide';1;0
+e;5788266;'affaire du pain maudit';777;0
+e;5787574;'pain brié';777;0
+e;5787556;'musée du pain d'épices et de l'art populaire alsacien';777;0
+e;5786856;'pain à la duchesse';777;0
+e;5786240;'pain coco';777;0
+e;12090597;'arbre à pain (fruit) ac ige';1;0
+e;12989698;'pain turc';777;0
+e;12989696;'pain arabe';777;0
+e;14252100;'pain en tranches';1;0
+e;14252103;'manger du pain';1;0
+e;14252104;'corbeille du pain';1;0
+e;14486214;'faire son pain';1;10
+e;14486215;'pain artisanal';1;0
+e;14486287;'pain aux olives';1;2
+e;14486288;'acheter le pain';1;0
+e;14486289;'prendre du pain';1;12
+e;14488504;'tartine de pain grillé';1;12
+e;14510690;'pain de seigne';1;0
+e;14529689;'beurrer du pain';1;12
+e;14530732;'tartine de pain';1;0
+e;14557755;'pain d'abeille';1;0
+e;14558115;'pain en épi';1;6
+e;14585145;'pain de vesou';1;0
+e;14604616;'pain aux graines';1;2
+e;14670127;'pain de la veille';1;6
+e;14670128;'faire du pain perdu';1;6
+e;14670129;'quignon de pain sec';1;0
+e;14670130;'au pain sec et à l'eau';1;4
+e;14670146;'de pain chaud';1;0
+e;14670147;'de pain grillé';1;0
+e;14716956;'faire griller du pain';1;0
+e;14716958;'tranche de pain grillé';1;2
+e;14717703;'sentir le pain grillé';1;2
+e;14717708;'sentir le pain chaud';1;2
+e;14718281;'croûton de pain';1;0
+e;14718778;'faire son pain soi-même';1;10
+e;14720213;'passer prendre le pain';1;0
+e;14720214;'passer prendre du pain';1;0
+e;15020155;'arbres à pain';1;0
+e;5794151;'bonhomme de pain d'épices';777;0
+e;5787577;'pain paysan';777;0
+e;12090598;'arbre à pain (fruit) ac ige classification rast';1;0
+e;12989697;'pain syrien';777;0
+e;14563672;'pain de mie grillé';1;10
+e;14752811;'petit pain suédois';1;0
+e;5798229;'chicorée pain de sucre';777;0
+e;5801035;'pain au curry';777;0
+e;5799722;'la conquête du pain';777;0
+e;12109395;'arbre à pain (fruit) ag';1;0
+e;5802331;'pain d'épeautre';777;0
+e;10895903;'pain noir de Castelvetrano';1;0
+e;16032524;'du bon pain';1;0
+e;15195161;'du pain complet';1;0
+e;15333919;'du pain de son';1;0
+e;15354665;'du pain et de la confiture';1;0
+e;15288466;'du pain grillé';1;0
+e;5812112;'pain d'épices de Reims';777;0
+e;5812019;'pain crestou';777;0
+e;5828623;'pain d'épices appenzellois';777;0
+e;5827979;'pain à la grecque';777;0
+e;9980321;'manger de ce pain là';1;0
+e;10962932;'pain en forme de couronne';1;0
+e;10895893;'pain italien';1;4
+e;10913827;'faire le pain';1;0
+e;10913822;'fabriquer le pain';1;0
+e;15694062;'coller un pain à';1;0
+e;15694060;'coller un pain à quelqu'un';1;0
+e;15280265;'corbeille de pain';1;0
+e;5812096;'pain de la Sainte-Agathe';777;0
+e;5812050;'pain marqouq';777;0
+e;5837353;'Notre pain quotidien';777;0
+e;5835629;'Terre sans pain';777;0
+e;15420004;'coller un pain à [qqn]';1;0
+e;16032444;'bon comme le pain';1;0
+e;15195165;'boîte à pain';1;0
+e;15241698;'brioche ou petit pain au sirop de sucre';1;0
+e;15256109;'cataplasme à la mie de pain';1;0
+e;11350438;'pain de perdrix';777;0
+e;15200532;'assez de pain';1;0
+e;15205497;'assiette à pain';1;0
+e;5807906;'galette de pain';1;0
+e;5916596;'pain grillé domestique';1;0
+e;5916587;'pain aux céréales et graines';1;0
+e;5916585;'pain de mie brioché';1;0
+e;5916581;'pain de mie courant';1;0
+e;5916579;'pain panini';1;0
+e;10865456;'le pain';777;0
+e;10910202;'chercher le pain';1;0
+e;15277329;'On ne le paye qu'une bouchée de pain.';1;0
+e;15350747;'Sa mère l'a envoyé chercher du pain.';1;0
+e;15584366;'Servez-vous de pain.';1;0
+e;15241523;'Tartiner le pain de fromage.';1;0
+e;15277324;'acheter qch une bouchée de pain';1;0
+e;4940298;'croûte-de-pain';1;0
+e;5916589;'petit pain spécial';1;0
+e;5912835;'pain keiser';1;0
+e;5912833;'pain multigrain';1;0
+e;5912136;'pain de blé';1;0
+e;11027009;'pain baguette';777;0
+e;13426629;'pain medfouna';777;0
+e;12080388;'pain d'épicière';1;0
+e;12080387;'pain d'épicier';1;0
+e;15326761;'Le pain a moisi.';1;0
+e;15288468;'Le petit déjeuner consistait en une tranche de pain grillé.';1;0
+e;2390442;'ça ne mange pas de pain';1;0
+e;5622070;'pain polaire';777;0
+e;5622020;'pain madfouna';777;0
+e;5620351;'pain de fée';777;0
+e;5812094;'pain du Luberon';777;0
+e;5801038;'pain melon';777;0
+e;5916590;'pain pour hamburger';1;0
+e;10317009;'Les Maîtres du pain';777;0
+e;11455204;'something for the pain';777;0
+e;15461430;'du pain sur la planche, beaucoup de pain sur la planche';1;0
+e;2435666;'faire passer le goût du pain';1;0
+e;5622069;'pain de Modane';777;0
+e;5807905;'galette de pain fermenté';1;0
+e;10822405;'pain sucré';1;0
+e;3897719;'coupe-pain';1;0
+e;5812204;'pain d'écorce';777;0
+e;5812189;'pain durant la Rome antique';777;0
+e;5802334;'pain levé';1;0
+e;10834295;'aller gagner son pain';1;0
+e;11295704;'pain cuit';1;0
+e;5812099;'pain au vin rouge';777;0
+e;5812093;'pain paillasse de Lodève';777;0
+e;2434803;'pain à chanter';1;0
+e;2465709;'qui a du pain nargue le chagrin';1;0
+e;5622071;'pain tressé et natté';777;0
+e;5619773;'histoire du pain';777;0
+e;2432889;'faire perdre le goût du pain';1;0
+e;5622151;'pudding au pain';777;0
+e;5812209;'pain paillasse';777;0
+e;5812163;'pain au fromage';777;0
+e;10774152;'aller chercher du pain';1;12
+e;15211250;'découper le pain en tranches, trancher le pain, découper le pain';1;0
+e;2445790;'bon comme le bon pain';1;0
+e;5812198;'pain tandoori';777;0
+e;5812097;'pain de Beaucaire';777;0
+e;5985565;'A little pain';777;0
+e;11154314;'pain bio';1;4
+e;2403584;'pain de guerre';1;0
+e;6449924;'fruit de l'arbre à pain';1;0
+e;12268082;'La Fille pain d'épice';777;0
+e;6563312;'ordalie du fromage et du pain';1;0
+e;2420438;'bon comme du bon pain';1;0
+e;5993408;'grève du pain et des roses';777;0
+e;2403069;'pain de saint Jean-Baptiste';1;0
+e;7633408;'acheter du pain';1;10
+e;2363583;'mettre un pain';1;4
+e;9730145;'griller du pain';1;0
+e;2363869;'pain de chien';1;0
+e;2365163;'pain de ménage';1;0
+e;8788680;'voler du pain';1;0
+e;8854583;'apporter du pain';1;0
+e;9014606;'croûton de pain sec';1;8
+e;9101798;'pain d'épice pour une maison de noël';1;0
+e;9101866;'stollen - pain de noël allemand';1;0
+e;9101828;'maison en pain d'épice pour halloween';1;0
+e;9102157;'pain de Noël';1;0
+e;9102133;'farinata : pain italien';1;0
+e;9102131;'tcheurek : pain arménien de pâques';1;0
+e;9102088;'pain perdu de grand-mère';1;0
+e;9101861;'pain marocain ksra';1;0
+e;9663427;'Prosper le roi du pain d'épices';777;0
+e;10158035;'Grille-pain';1;0
+e;15342078;'Elle beurra abondamment mon pain.';1;0
+e;15322608;'J'ai acheté trop de pain.';1;0
+e;15322601;'J'ai acheté un pain.';1;0
+e;15548227;'Il nous faut plus de pain.';1;0
+e;15350762;'Elle m'a envoyé chercher plus de pain.';1;0
+e;15366239;'Donnez-nous aujourd'hui notre pain quotidien.';1;0
+e;15548224;'Je n'ai plus de pain.';1;0
+e;16336403;'Ca mange pas de pain';1;0
+e;437311;'pain santé';1;50
+e;587837;'pain suisse';777;0
+e;2545495;'manger son pain blanc le premier';1;0
+e;2491986;'ôter le pain de la bouche';1;0
+e;3370649;'tarte aux pommes et pain d'épices';1;0
+e;3368637;'saint-jacques en petit pain';1;0
+e;3367753;'pudding au pain chocobanane';1;0
+e;3367385;'poulet à la bière brune et au pain d'épice';1;0
+e;3366891;'pilons de poulet en croûte de pain';1;0
+e;3366767;'petits croustillants au pain rassis et noix de coco';1;0
+e;3366085;'pain perdu à la fourme d'ambert';1;0
+e;3366084;'pain perdu à la fleur d'oranger et au chocolat blanc';1;0
+e;3366080;'pain léger de colin et courgettes';1;0
+e;3366077;'pain d'hachis accompagné de pommes frites';1;0
+e;3366063;'pain de semoule aux raisins secs';1;0
+e;3366058;'pain de potiron à la normande';1;0
+e;3366057;'pain de poissons à la tomate';1;0
+e;3366048;'pain de poisson aux 2 saumons, sauce citron vert';1;0
+e;3366041;'pain d'épices, recette du moyen-age';1;0
+e;3366040;'pain d'épices rapide';1;0
+e;3366025;'pain d'épices à l'anis';1;0
+e;3366020;'pain de mie à la poêle';1;0
+e;3366011;'pain de courgettes';1;0
+e;3366007;'pain d'aubergines au lard';1;0
+e;3366003;'pain classique à la machine à pain';1;0
+e;3365995;'pain au lait caillé';1;0
+e;3365899;'mini-crumble au foie gras figues, confit d'oignon et pain d'épices';1;0
+e;3365673;'gâteau de fruit à pain, fruit exotique';1;0
+e;3363067;'gâteau fruit à pain';1;0
+e;3362996;'gâteau de pain';1;0
+e;3362898;'gâteau au yaourt au pain d'épices';1;0
+e;3361466;'crumble surprise au pain d'épices';1;0
+e;3743952;'pain brioché allemand aux raisins';1;0
+e;3744361;'confiture de coings à la machine à pain';1;0
+e;3744949;'maison en pain d'épice facile';1;0
+e;3744739;'pain perdu minute';1;0
+e;3744885;'pâte à pizza à la machine à pain';1;0
+e;3745912;'pain aux raisins et à la cannelle';1;2
+e;3745715;'pain marocain Ksra';1;0
+e;3759355;'roomali Roti (pain indien)';1;0
+e;3757958;'pain d'épice nature tranché';1;0
+e;3757481;'bon pain';1;0
+e;3756990;'pain blanc coupé en cubes';1;0
+e;3755621;'mie de pain fraîche';1;0
+e;3755004;'tranche épaisse de pain de seigle';1;0
+e;3754864;'mie de pain complet émiettée';1;0
+e;459767;'aller chercher le pain';1;62
+e;585737;'vrillette du pain';777;0
+e;1917040;'pain crotté';777;0
+e;1963200;'pain de pommes de terre';1;0
+e;2348357;'pain de kamut';1;6
+e;2504545;'plat comme une planche à pain';1;0
+e;3318605;'gâteau à base de pain aux pépites de chocolat';1;0
+e;3318785;'pain de viande, sauce à la bière brune';1;0
+e;3321309;'petit pain du matin';1;0
+e;3319110;'pain croustillant Knäckebrot';1;0
+e;3359520;'boulettes de pain azyme';1;0
+e;3366100;'pain pizza';1;0
+e;3366095;'pain perdu rapide';1;0
+e;3366087;'pain perdu au camembert';1;0
+e;3366074;'pain d'évêque';1;0
+e;3366043;'pain d'épice surprise';1;0
+e;3366042;'pain d'épices, sans oeufs!';1;0
+e;3366030;'pain d'épices aux fruits secs';1;0
+e;3366027;'pain d'épices à trois mains';1;0
+e;3366015;'pain de filets de dinde';1;0
+e;3366014;'pain de feuilles de blettes';1;0
+e;3366012;'pain de courgettes au surimi';1;0
+e;3366002;'pain brioché gratiné';1;0
+e;3365998;'pain aux fruits secs';1;0
+e;3365993;'pain au beurre délicieux';1;0
+e;3365875;'meat loaf aux poivrons et au ketchup, pain de viande américain';1;0
+e;3359602;'bricks aux poires et pain d'épices';1;0
+e;3743833;'pain au piment';1;0
+e;3744975;'pain à la banane et à la cannelle';1;0
+e;3744999;'bonhommes de pain d'épice';1;0
+e;3745018;'maki de pain de mie - roulé de pain de mie';1;0
+e;3745275;'pain brioché tressé facile';1;0
+e;3746364;'amuse-bouches de foie gras poêlé sur pain d'épice';1;0
+e;3746216;'pain d'épices pour foie gras';1;0
+e;3746114;'cuisses de caille purée de céleri crème de foie gras aux épices de pain d'épice';1;0
+e;3759409;'torrijas (pain perdu espagnol)';1;0
+e;3757961;'pain pitas';1;0
+e;3757899;'pain focaccia';1;0
+e;3755725;'pain de campagne un peu rassis';1;0
+e;3754423;'tranches de pain d'épices';1;0
+e;3753628;'mie de pain complet fraîche';1;0
+e;3752473;'tranches de pain de mie toastées';1;0
+e;4939328;'pain perdu espagnol';1;0
+e;1968665;'tranches de pain';1;0
+e;1971747;'tranches de pain de mie';1;0
+e;3246567;'pain russe';777;0
+e;3318691;'pain de viande au cumin et à la menthe';1;0
+e;3366348;'pâte à pizza en map, machine à pain de fanny';1;0
+e;3366099;'pain pita aux tomates et à la crème';1;0
+e;3366096;'pain perdu salé à l'italienne';1;0
+e;3366081;'pain maison à la levure de bière';1;0
+e;3366045;'pain de poisson au crabe';1;0
+e;3366034;'pain d'épices de dijon';1;0
+e;3366033;'pain d'épices corse';1;0
+e;3366029;'pain d'épices au miel';1;0
+e;3366028;'pain d'épices au chocolat et au miel';1;0
+e;3366024;'pain d'épices à la dijonnaise';1;0
+e;3366023;'pain d'epices';1;0
+e;3366008;'pain de banane';1;0
+e;3366006;'pain d'aubergines au coulis de tomate';1;0
+e;3363289;'glace au pain d'épices';1;0
+e;3743925;'pain viennois aux pépites';1;0
+e;3744050;'maison en pain d'épices pour les enfants';1;0
+e;3744214;'pain en machine au chocolat blanc';1;0
+e;3744770;'pain d'épice au beurre et à la farine complète';1;0
+e;3745155;'injera - galette de pain éthiopienne';1;0
+e;3746381;'bonhommes de pain d'épices';1;0
+e;3745668;'pain Pita';1;0
+e;3759117;'tranches de pain rassis';1;0
+e;3758950;'tranches de pain coupés en dés';1;0
+e;3758879;'pain dur haché ou de chapelure';1;0
+e;3758082;'tranches de pain de mie blanc';1;0
+e;3757588;'préparation pour pain sans gluten';1;0
+e;3757506;'tranches de pain de mie aux céréales';1;0
+e;3757437;'cuillère à café d'épices à pain d'épice';1;0
+e;3756234;'tranches de pain d'épice';1;0
+e;3755560;'mie de pain fraîche émiettée';1;0
+e;3754902;'chapelure de pain d'épices';1;0
+e;3752902;'pâte à pain achetée chez le boulanger';1;0
+e;3756374;'tranches de pain de campagne';1;0
+e;4243370;'croûte de pâté vaut bien pain';1;0
+e;4104275;'plates comme une planche à pain';1;0
+e;2348355;'pain intégral';1;0
+e;2604504;'ne valoir pas le pain qu'on mange';1;0
+e;2471962;'ça mange pas de pain';1;0
+e;3072169;'miette de pain';1;0
+e;3318869;'poisson pané façon pain d'épices';1;0
+e;3321157;'pain matze';1;0
+e;3359817;'cailles au pain d'épice clémentines et ananas';1;0
+e;3371415;'tiramisu au pain d'épices et à l'orange';1;0
+e;3367121;'poivrons et tomates grillés et leur pain maison, algérie';1;0
+e;3366083;'pain perdu à la cassonade et à la cannelle';1;0
+e;3366082;'pain perdu à la cannelle et aux noisettes';1;0
+e;3366079;'pain léger aux noix de saint-jacques';1;0
+e;3366062;'pain des bords de mer : thon crevette';1;0
+e;3366054;'pain de poisson, lieu jaune et saumon';1;0
+e;3366035;'pain d'épices de tata coco';1;0
+e;3366004;'pain d'anis , alsace';1;0
+e;3365999;'pain aux fruits secs et séchés';1;0
+e;3365087;'omelette au pain';1;0
+e;3364732;'mousse de foies de volaille au pain d'épices';1;0
+e;3364412;'méli-mélo pomme pain d'épices';1;0
+e;3366101;'pain-pizza';1;0
+e;3743938;'petits bonshommes en pain d'épice';1;0
+e;3746883;'pain de banane aux noix de pécan';1;0
+e;3746434;'pain au chocolat et amandes';1;0
+e;3745841;'pain d'épice pour une maison de Noël';1;0
+e;3751297;'épices à pain d'épices';1;0
+e;3758926;'tranches de pain blanc ou aux céréales';1;0
+e;3758144;'pain pita coupé en deux';1;0
+e;3757420;'tranches de pain d'épices maison';1;0
+e;3756953;'petites tranches de pain de mie';1;0
+e;3756677;'tranches de pain coupées en dés';1;0
+e;3754641;'tranches de pain blanc rassis trempées dans l'eau et bien essorées';1;0
+e;3753843;'tranche de pain complet';1;0
+e;3753598;'tranches de pain italien Ciabatta';1;0
+e;3753346;'baguette ou de pain ciabatta';1;0
+e;3753310;'pain rassis coupé en tranches';1;0
+e;3751693;'levure pour pain';1;0
+e;3751656;'mie de pain rassis';1;0
+e;3751623;'tranches de pain complet coupées en cubes';1;0
+e;2348391;'pain au seigle';1;0
+e;2348341;'pain aux céréales germées';1;0
+e;3318758;'pain de thon, crevettes et moules au cumin';1;0
+e;3320992;'pain fait à la maison';1;0
+e;3369968;'stollen rhénan, pain de noël allemand';1;0
+e;3369523;'soufflé au pain d'épices et noix de cajou';1;0
+e;3369263;'saucisson en brioche pour machine à pain';1;0
+e;3367768;'pudding de pain perdu au parmesan';1;0
+e;3367755;'pudding au pain et pommes';1;0
+e;3367754;'pudding au pain d'épices';1;0
+e;3367533;'poulet aux miettes de pain';1;0
+e;3366090;'pain perdu au saumon fumé';1;0
+e;3366073;'pain de veau au citron';1;0
+e;3366071;'pain de thon et sa salade';1;0
+e;3366065;'pain de st jacques';1;0
+e;3366056;'pain de poisson mousseline';1;0
+e;3366055;'pain de poisson, lieu noir et truite';1;0
+e;3366053;'pain de poisson et de saint-jacques';1;0
+e;3366051;'pain de poisson aux herbes';1;0
+e;3366039;'pain d'épices perdu exotique';1;0
+e;3744377;'pain aux kakis moelleux et épicé';1;0
+e;3744850;'velouté de potiron marron et noisettes et son pain d'épice gaufré';1;0
+e;3745005;'pain aux raisins et au rhum';1;0
+e;3746272;'pain perdu authentique';1;0
+e;3745596;'verrines de pain d'épices croustillants oignons confits et dés de foie gras';1;0
+e;3759439;'Rúgbrauð (pain de seigle islandais)';1;0
+e;3759376;'velouté de potiron marron et noisettes et son pain d'épice';1;0
+e;3759370;'Stollen - pain de Noël allemand';1;0
+e;3758948;'tranche de pain de environ grossièrement émiettée';1;0
+e;3756601;'tranches de pain ciabatta';1;0
+e;3756099;'tranches de pain complet';1;0
+e;3753113;'tranches très fines de pain bis frais et moelleux';1;0
+e;3866108;'plate comme une planche à pain';1;0
+e;1804889;'avoir mangé son pain blanc';1;0
+e;2324858;'pain bruschetta';1;0
+e;3318530;'crumble pommes, pignons, pain d'épices';1;0
+e;3318848;'pomme au four sur pain perdu';1;0
+e;3369246;'saucisse à la mie de pain';1;0
+e;3367772;'pudding pain chocolat';1;0
+e;3366086;'pain perdu à la vanille';1;0
+e;3366066;'pain de surimi';1;0
+e;3366064;'pain de sole à la langouste';1;0
+e;3366060;'pain de saumon';1;0
+e;3366049;'pain de poisson aux baies roses et à la ciboulette';1;0
+e;3366047;'pain de poisson au saumon et surimi';1;0
+e;3365278;'bugnes ou beignets à la map, machine à pain';1;0
+e;3365260;'brioche au goût de coco, machine à pain';1;0
+e;3365259;'brioche à la crème de marron en map, machine à pain';1;0
+e;3364697;'mousse au pain d'épice et à l'orange';1;0
+e;3359981;'cake de pain perdu aux lardons';1;0
+e;3744028;'pain à la banane et aux noix';1;0
+e;3744552;'pain perdu moelleux';1;0
+e;3744642;'pain perdu au four à la rhubarbe et aux noix';1;0
+e;3745375;'pain de thon au naturel';1;0
+e;3746660;'pain complet à la banane';1;0
+e;3745950;'pain indien le naan au fromage';1;0
+e;3745541;'velouté de panais dés de foie gras en chapelure de pain d'épices';1;0
+e;3759389;'maki de pain de mie - Roulé de pain de mie';1;0
+e;3758595;'farine blanche en plus sur le pain';1;0
+e;3757665;'mie de pain complet émiettée finement';1;0
+e;3757301;'tranches de baguette de pain';1;0
+e;3757170;'tranches de pain grillées';1;0
+e;3756992;'pain complet coupé en cubes';1;0
+e;3754840;'tranches de pain de mie nature ou complet sans les bords c'est l'idéal';1;0
+e;3754388;'baguette de pain coupée en croûtons';1;0
+e;3939646;'pain polka';1;0
+e;5501026;'pain au sésame';1;0
+e;440637;'pain et chocolat';1;88
+e;1901362;'vendre du pain';1;0
+e;2362742;'avoir son pain cuit';1;0
+e;2585972;'pain-là';1;0
+e;3314833;'couper du pain';1;0
+e;3318491;'mousse chocolat et crème citron sur lit de pain d'épices';1;0
+e;3319555;'pain de teff';1;0
+e;3372129;'wraps au pain lavash';1;0
+e;3371427;'tiramisu aux framboises et pain d'épices';1;0
+e;3368706;'salade composée au pain d'épices';1;0
+e;3366097;'pain perdu salé tomaté';1;0
+e;3366094;'pain perdu des montagnes';1;0
+e;3366070;'pain de thon au persil';1;0
+e;3366032;'pain d'épices avec machine à pain';1;0
+e;3366021;'pain de mie façon pizza';1;0
+e;3366010;'pain de chou vert à la viande hachée';1;0
+e;3366009;'pain de blettes';1;0
+e;3365992;'pain à la tomate';1;0
+e;3365828;'le patchwork, pudding au pain et pain d'épice';1;0
+e;3365627;'garlic bread, pain à l'ail';1;0
+e;3359624;'brioche à la crème pour machine à pain';1;0
+e;3744284;'maison gourmande en pain d'épices';1;0
+e;3745337;'glaçage au gingembre pour maison en pain d'épice';1;0
+e;3745286;'pain brioché aux raisins';1;0
+e;3746520;'charlotte au foie gras et pain d'épice';1;0
+e;3746245;'pain sans gluten à la machine à pain';1;0
+e;3745691;'pain aux épinards et au fromage';1;0
+e;3745651;'asperges et pain aillé au barbecue';1;0
+e;3751298;'chapelure coréenne ou chapelure de pain';1;0
+e;3759404;'rewena - pain maori';1;0
+e;3759369;'pain irlandais (Spotted Dog Irish Bread)';1;0
+e;3758237;'chapelure ou de pain sec haché';1;0
+e;3757397;'tranche de pain aux céréales';1;0
+e;3757296;'pain sec trempé dans de l'eau';1;0
+e;3754908;'morceaux de pain de mie blanc coupés en cubes';1;0
+e;3754809;'farine spéciale pain';1;0
+e;3753364;'miettes de pain desséchées';1;0
+e;3753027;'toasts de pain de mie';1;0
+e;3753001;'tranches de pain de mie complet';1;0
+e;3752131;'tranches de pain type ciabatta ou pain brioché grillées';1;0
+e;3751837;'grande tranche de pain de mie frais';1;0
+e;3751699;'chapelure fine de pain complet';1;0
+e;3763669;'pain dur';1;10
+e;437120;'grand pain pita';1;50
+e;1655036;'pleure-pain';1;0
+e;2348383;'pain à l'épautre';1;0
+e;2540822;'pain de manioc';1;0
+e;2524472;'rompre le pain';1;12
+e;2609101;'pain oriental';1;0
+e;2609102;'bonhomme en pain d'épices';1;0
+e;3294939;'cuve à pain';1;0
+e;3322624;'pain croquant suédois';777;0
+e;3371435;'tiramisu aux poires et au pain d'épices';1;0
+e;3366104;'pain safrané à la machine à pain';1;0
+e;3366102;'pain plein d'épices';1;0
+e;3366093;'pain perdu aux reines claudes, ou autres prunes';1;0
+e;3366092;'pain perdu aux framboises';1;0
+e;3366091;'pain perdu aux épices';1;0
+e;3366089;'pain perdu au foie gras acidulé';1;0
+e;3366078;'pain doux bigouden';1;0
+e;3366075;'pain de viande aux épinards';1;0
+e;3366069;'pain de thon au basilic et aïoli';1;0
+e;3366067;'pain de thon';1;0
+e;3366052;'pain de poisson, colin';1;0
+e;3366044;'pain de poireaux';1;0
+e;3366026;'pain d'épices, anis et cannelle';1;0
+e;3366018;'pain de légumes allégé';1;0
+e;3366017;'pain de la saint martin';1;0
+e;3366005;'pain d'aubergine au coulis de tomates';1;0
+e;3365994;'pain au crabe';1;0
+e;3365301;'cake fondant au chocolat avec la machine à pain, map';1;0
+e;3363822;'jarrets de porc aux poireaux et pain d'épices';1;0
+e;3363138;'gâteau pomme cannelle pain d'epice';1;0
+e;3362655;'galettes de pain perdu au fromage';1;0
+e;3359874;'cake au citron-amande à la machine à pain';1;0
+e;3707553;'couper le pain';1;0
+e;3744160;'cake à la banane avec une machine à pain';1;0
+e;3744437;'pain sportif';1;0
+e;3744359;'pain à la cannelle et aux raisins';1;0
+e;3744452;'pain aux cerises et raisins secs';1;0
+e;3746235;'maison en pain d'épice';1;0
+e;3746109;'pain d'épices toasté et ses pommes fondantes au cidre';1;0
+e;3746075;'pain brioché à la purée de pommes de terre';1;0
+e;3745473;'maison en pain d'épice pour Halloween';1;0
+e;3745442;'bretzels à la machine à pain';1;0
+e;3759413;'tcheurek : pain arménien de Pâques';1;0
+e;3753238;'tartines de pain tranches de brioche tranches de pain de mie';1;0
+e;3751695;'farine à pain';1;0
+e;2348356;'pain au quinoa';1;10
+e;3305754;'Du pain et des jeux';777;0
+e;3318617;'tarte à la nectarine et au pain d'épices';1;0
+e;3318826;'pain d'asperges sauce mousseline';1;0
+e;3321427;'moule à pain';1;0
+e;3320993;'pain maison';1;4
+e;3359129;'aumonières aux pommes et au pain d'épices';1;0
+e;3371783;'truite en pain zébré';1;0
+e;3371476;'toast fruité de pain perdu';1;0
+e;3371441;'tiramisu banane pain d'épice';1;0
+e;3369180;'saladière de pain';1;0
+e;3366113;'pain surprise';1;0
+e;3366098;'pain perdu soufflé au fromage blanc';1;0
+e;3366088;'pain perdu au caramel de beurre salé';1;0
+e;3366061;'pain de saumon aux crevettes';1;0
+e;3366050;'pain de poisson aux courgettes';1;0
+e;3366046;'pain de poisson au persil';1;0
+e;3366038;'pain d'épices parfumé';1;0
+e;3366031;'pain d'épices aux noisettes et aux fruits';1;0
+e;3366019;'pain de légumes aux couleurs d'été';1;0
+e;3366013;'pain de crabe';1;0
+e;3366001;'pain brioché aux fines herbes et au cumin';1;0
+e;3365997;'pain aux bananes et noix';1;0
+e;3365996;'pain aux bananes et aux fraises, banana and strawberry bread';1;0
+e;3365991;'pain à la farine de châtaigne et au figatelli';1;0
+e;3365747;'hallah, pain de shabbat';1;0
+e;3363430;'gratin de courgettes au pain d'ail';1;0
+e;3362997;'gâteau de pain aux raisins secs';1;0
+e;3359464;'bonhomme et maison en pain d'épices';1;0
+e;3359818;'cailles au pommes et pain d'épices';1;0
+e;3361442;'crumble poire pépites de chocolat au pain d'épices';1;0
+e;3707579;'retourner le pain';1;0
+e;3743711;'stollen à la machine à pain';1;0
+e;3743946;'pain d'épices à la pomme';1;0
+e;3744091;'pain de courgettes sans farine';1;0
+e;3744373;'pain perdu de Grand-Mère';1;0
+e;3745304;'pain au chocolat au lait';1;0
+e;3745436;'pain à burger maison';1;0
+e;3746732;'pains aux raisins à la machine à pain';1;0
+e;3746634;'pain aux noix sans pétrissage';1;0
+e;3746286;'melaoui pain arabe';1;0
+e;3746178;'pain de mie de ma grand-mère';1;0
+e;3746008;'pain aux raisins et aux graines de carvi';1;0
+e;3745987;'pain sans pétrissage';1;0
+e;3751160;'pain sec haché';1;0
+e;3751207;'tranches de pain de mie grillé';1;0
+e;3762464;'bière de pain';1;0
+e;3759396;'injera - Galette de pain éthiopienne';1;0
+e;3754062;'tranches de pain brioché';1;0
+e;3753696;'tranches de pain épaisses';1;0
+e;3753315;'tranches de pain de campagne rassis';1;0
+e;3744653;'stollen - pain de Noël allemand';1;0
+e;437310;'pain et sandwich';1;50
+e;1963201;'pain maori';1;0
+e;1971746;'tranche de pain de mie';1;8
+e;2324856;'pain long brioché';1;0
+e;2606040;'c'est pain bénit';1;0
+e;2475310;'pain bagnat';1;0
+e;3225167;'pain de fantaisie';1;0
+e;3319109;'pain croustillant dit Knäckebröd';1;0
+e;3359366;'blancs de poulet farcis aux fruits secs et pain d'épice';1;0
+e;3371260;'terrine de pain d'épices au chocolat et à l'orange';1;0
+e;3369995;'surprenant pain d'épices pour envies subites';1;0
+e;3369705;'soupe de légumes au pain et au gruyère';1;0
+e;3368029;'quiche sur pain de mie';1;0
+e;3366114;'pain traditionnel';1;0
+e;3366103;'pain pour machine à pain';1;0
+e;3366072;'pain de thon facile aux pommes de terre';1;0
+e;3366068;'pain de thon à la tomate';1;0
+e;3366059;'pain de ratatouille';1;0
+e;3366037;'pain d'épices léger de fanny';1;0
+e;3366036;'pain d'épices façon quatre-quart';1;0
+e;3366022;'pain d'épice à l'orange';1;0
+e;3366016;'pain de jambon aux courgettes et au gouda';1;0
+e;3366000;'pain aux noix et aux raisins vaudois';1;0
+e;3365119;'omelette norvégienne au pain d'épices';1;0
+e;3364642;'mounas à la machine à pain';1;0
+e;3363073;'gâteau glacé au pain d'épice et au chocolat';1;0
+e;3362189;'filet mignon sauce pain d'épices';1;0
+e;3360023;'cake // pain aux aubergines';1;0
+e;3360988;'cramique pour machine à pain';1;0
+e;3744014;'cinnamon rolls à la machine à pain';1;0
+e;3746204;'pain au gingembre glacé';1;0
+e;3758549;'pâte à pain bien fraîche';1;0
+e;3757681;'fines tranches de pain de campagne';1;0
+e;3756708;'pâte à pain conservée au réfrigérateur';1;0
+e;3756589;'chapelure ou pain sec haché';1;0
+e;3755983;'levure à pain';1;0
+e;3754265;'mie de tranches de pain';1;0
+e;3754050;'miettes de pain rassis';1;0
+e;3753914;'tranches de pain rassis coupées en dés';1;0
+e;4111366;'plats comme une planche à pain';1;0
+e;4337111;'pain croustillant';1;0
+e;1805473;'être du pain bien dur à manger';1;0
+e;332559;'pain frais';1;96
+e;372190;'potage au pain';1;50
+e;368100;'pain tranché';1;50
+e;368099;'pain sans sel';1;50
+e;372010;'porteuse de pain';1;50
+e;368111;'pain médicinal';1;50
+e;368101;'pain trempé';1;54
+e;368085;'pain de beurre';1;50
+e;354515;'flûte de pain';1;50
+e;393311;'pain suédois';1;50
+e;378914;'scie à pain';1;50
+e;378321;'sac à pain';1;50
+e;368102;'pain vivant';1;50
+e;368091;'pain de recoupe';1;50
+e;368082;'pain bis';1;62
+e;339877;'boulette de mie de pain';1;50
+e;368103;'pain court';1;50
+e;368089;'pain de liquidation';1;50
+e;368081;'pain biologique';1;50
+e;368080;'pain au beurre';1;50
+e;364147;'miche de pain de seigle';1;50
+e;368088;'pain de fruits';1;50
+e;368086;'pain de chapitre';1;50
+e;368084;'pain d'abeilles';1;50
+e;364146;'miche de pain';1;68
+e;341724;'carrelet de pain';1;50
+e;380537;'soupe au pain';1;50
+e;372474;'pour un morceau de pain';1;50
+e;368106;'pain de crapaud';1;50
+e;368093;'pain de volaille';1;50
+e;368105;'pain de chanoine';1;50
+e;358076;'huche au pain';1;50
+e;340296;'bribes de pain';1;50
+e;339672;'bonhomme de pain d'épice';1;50
+e;368109;'pain de poisson';1;64
+e;368098;'pain mollet';1;50
+e;368087;'pain de dynamite';1;50
+e;361289;'levure de pain';1;50
+e;368112;'pain à la reine';1;50
+e;368108;'pain de pavot';1;50
+e;368107;'pain de fesse';1;50
+e;368097;'pain hypercellullosique';1;50
+e;368096;'pain fourré';1;50
+e;368095;'pain eucharistique';1;50
+e;368094;'pain dermatologique';1;50
+e;368090;'pain de plastic';1;50
+e;368083;'pain béni pour';1;50
+e;339861;'boule de pain';1;50
+e;384587;'tranche de pain d'épice';1;50
+e;368110;'pain fendu';1;50
+e;368104;'pain d'émail';1;50
+e;368092;'pain de sarrasin';1;50
+e;361462;'lichette de pain';1;50
+e;356221;'glace en pain';1;50
+e;98317;'gagne-pain';1;58
+e;93846;'pain-de-pourceau';1;50
+e;93524;'grille-pain';1;100
+e;79485;'claque-pain';1;50
+e;168457;'fruit-à-pain';1;50
+e;168438;'arbre-à-pain';1;50
+e;150281;'riz-pain-sel';1;50
+e;309109;'hébélome croûte-de-pain';777;50
+e;217594;'Le Petit Bonhomme de pain d'épice';1;12
+e;252241;'se prendre un pain';1;50
+e;255286;'être à l'eau et au pain sec';1;50
+e;255287;'à l'eau et au pain sec';1;50
+e;259548;'du pain et des jeux';1;56
+e;59365;'La Conquête du pain';1;50
+e;166353;'dépôt de pain';1;54
+e;212161;'vivre de pain et d'eau';1;50
+e;217338;'pâte à pain';1;84
+e;218294;'morceau de pain';1;44
+e;218480;'maison en pain d'épices';1;52
+e;223459;'petit pain';1;66
+e;224027;'pain plat';1;50
+e;225489;'pain au lait';1;34
+e;227898;'bout de pain';1;22
+e;227968;'quignon de pain';1;66
+e;228308;'tranche de pain';1;60
+e;229423;'croûte de pain';1;6
+e;231735;'pain d'autel';1;50
+e;232183;'pain de singe';1;50
+e;233047;'mie de pain';1;16
+e;239890;'miettes de pain';1;80
+e;242522;'pain de glace';1;70
+e;244083;'pain au son';1;98
+e;248974;'pain libanais';1;50
+e;250032;'gomme mie de pain';1;6
+e;251790;'pain des morts';1;50
+e;251791;'pain de mort';1;50
+e;253853;'pain pita';1;52
+e;255285;'mettre à l'eau et au pain sec';1;50
+e;255904;'petit pain au lait';1;52
+e;255905;'petit pain au chocolat';1;52
+e;257801;'pain de viande';1;50
+e;258272;'corbeille à pain';1;56
+e;217650;'pain chaud';1;66
+e;221881;'pain de couleuvre';1;50
+e;217035;'pain indien';1;58
+e;219664;'pain parisien';1;52
+e;216976;'pain provençal';1;10
+e;217036;'pain sans levain';1;50
+e;168282;'pain à cacheter';1;50
+e;55917;'La Porteuse de pain';1;50
+e;109346;'fraction du pain';1;50
+e;171684;'pour une bouchée de pain';1;50
+e;211540;'pleurer le pain qu'on mange';1;50
+e;215292;'faire du pain';1;50
+e;263993;'pain beurré';1;52
+e;263994;'pain aux noix';1;62
+e;307905;'le petit bonhomme de pain d'épices';777;50
+e;111325;'pain azyme';1;58
+e;211446;'pain d'amande';1;50
+e;211447;'pain d'avoine';1;50
+e;211448;'pain d'orge';1;50
+e;163027;'pain de campagne';1;104
+e;215347;'pain essène';1;50
+e;65846;'pain grillé';1;166
+e;42092;'planche à pain';1;64
+e;89033;'manger du pain du roi';1;50
+e;97875;'huche à pain';1;56
+e;128700;'arbre à pain';1;50
+e;129666;'ôter le goût du pain à';1;50
+e;130413;'promettre plus de beurre que de pain';1;50
+e;138652;'L'homme ne vit pas seulement de pain';1;50
+e;153863;'couteau à pain';1;72
+e;154175;'four à pain';1;100
+e;156482;'baguette de pain';1;52
+e;156563;'machine à pain';1;78
+e;156823;'gros pain';1;94
+e;159228;'long comme un jour sans pain';1;50
+e;181213;'bouchée de pain';1;2
+e;184102;'retaille de pain d'autel';1;50
+e;186047;'être au pain et à l'eau';1;50
+e;186588;'ne pas manger de ce pain là';1;50
+e;189848;'de pain';1;50
+e;264910;'pain rassis';1;62
+e;265463;'pain à l'ail';1;50
+e;278323;'pain tabouna';1;50
+e;278690;'émeutes du pain';1;50
+e;287461;'fabrication du pain';777;50
+e;290011;'pain français';777;56
+e;302021;'pain de Jésus';777;50
+e;302836;'pain Barbari';777;50
+e;303730;'fruit à pain';777;50
+e;204912;'pain au levain';1;66
+e;156579;'pain aux raisins';1;116
+e;204914;'pain brioché';1;82
+e;204913;'pain bénit';1;50
+e;75271;'pain céleste';1;50
+e;183498;'pain d'épice';1;70
+e;144832;'pain d'épices';1;130
+e;69067;'pain de Dieppe';1;50
+e;204917;'pain de Gênes';1;50
+e;204915;'pain de boulanger';1;50
+e;183497;'pain de coucou';1;56
+e;204916;'pain de froment';1;50
+e;204918;'pain de gluten';1;50
+e;177329;'pain de gruau';1;50
+e;130548;'pain de mie';1;144
+e;204919;'pain de munition';1;50
+e;56050;'pain de méteil';1;50
+e;204920;'pain de seigle';1;140
+e;67446;'pain de sel';1;50
+e;204921;'pain de son';1;50
+e;139616;'pain de sucre';1;64
+e;204922;'pain de vie';1;50
+e;91273;'pain des anges';1;50
+e;177274;'pain doré';1;50
+e;175019;'pain du Cardinal';1;50
+e;204923;'pain du ciel';1;50
+e;204924;'pain du roi';1;50
+e;204925;'pain industriel';1;52
+e;123693;'pain long';1;52
+e;204926;'pain moulé';1;50
+e;183499;'pain mousseau';1;50
+e;204927;'pain noir';1;62
+e;177275;'pain perdu';1;60
+e;122581;'pain rond';1;52
+e;204928;'pain sec';1;68
+e;204929;'pain soufflé';1;50
+e;204930;'pain viennois';1;70
+e;185567;'avoir du pain sur la planche';1;10
+e;185638;'avoir le pain et le couteau';1;50
+e;185982;'emprunter un pain sur la fournée';1;50
+e;186443;'manger son pain à la fumée du rôt';1;50
+e;186444;'manger son pain blanc';1;50
+e;186445;'manger son pain noir';1;50
+e;196497;'avoir du pain cuit sur la planche';1;50
+e;137681;'pain d'oiseau';1;50
+e;198194;'cuire le pain';1;50
+e;200530;'faire le pain avec la police';1;50
+e;201046;'flanche à la mie de pain';1;50
+e;201304;'gagner son pain';1;64
+e;201305;'gagner son pain à la sueur de son front';1;50
+e;160122;'pain aux céréales';1;162
+e;161323;'du pain sur la planche';1;50
+e;167803;'pain quotidien';1;78
+e;153047;'pain au chocolat';1;512
+e;158745;'pain de savon';1;50
+e;161669;'pain complet';1;142
+e;158444;'pain blanc';1;102
+r;274051472;61283;10549130;11;25
+r;293652357;61283;11414906;11;25
+r;316542284;61283;12202010;11;25
+r;373189213;61283;14678527;11;25
+r;348284554;61283;13736613;11;25
+r;359697395;61283;14159313;11;25
+r;359710630;61283;14159545;11;25
+r;359717509;61283;14159774;11;25
+r;359718036;61283;14159697;11;25
+r;359719096;61283;14159815;11;25
+r;359719304;61283;14159876;11;25
+r;371158366;61283;14604782;11;25
+r;371280032;61283;14610518;11;25
+r;371983366;61283;14638942;11;25
+r;372584591;61283;14654821;11;25
+r;375092242;61283;14755251;11;25
+r;375215399;61283;14760379;11;25
+r;395562550;61283;15463455;11;25
+r;395267210;61283;15418450;11;25
+r;395271330;61283;15420005;11;25
+r;395304350;61283;15418456;11;25
+r;432874550;61283;16387279;11;25
+r;114458809;61283;5788266;11;26
+r;114460116;61283;5787574;11;26
+r;114460216;61283;5787556;11;26
+r;114460922;61283;5786856;11;26
+r;114461945;61283;5786240;11;26
+r;315646223;61283;12090597;11;26
+r;337342025;61283;12989698;11;26
+r;337342030;61283;12989696;11;26
+r;361481870;61283;14252100;11;26
+r;361481909;61283;14252103;11;26
+r;361481921;61283;14252104;11;26
+r;368126027;61283;14486214;11;26
+r;368126036;61283;14486215;11;26
+r;368126822;61283;14486287;11;26
+r;368126834;61283;14486288;11;26
+r;368126846;61283;14486289;11;26
+r;368172263;61283;14488504;11;26
+r;368486811;61283;14510690;11;26
+r;368583585;61283;14529689;11;26
+r;368618267;61283;14530732;11;26
+r;369891570;61283;14557755;11;26
+r;369908337;61283;14558115;11;26
+r;370599399;61283;14585145;11;26
+r;371142183;61283;14604616;11;26
+r;373012763;61283;14670127;11;26
+r;373012777;61283;14670128;11;26
+r;373012794;61283;14670129;11;26
+r;373012810;61283;14670130;11;26
+r;373013000;61283;14670146;11;26
+r;373013013;61283;14670147;11;26
+r;374051475;61283;14716956;11;26
+r;374051502;61283;14716958;11;26
+r;374215610;61283;14717703;11;26
+r;374215652;61283;14717708;11;26
+r;374223512;61283;14718281;11;26
+r;374232255;61283;14718778;11;26
+r;374261167;61283;14720213;11;26
+r;374261189;61283;14720214;11;26
+r;392354914;61283;15020155;11;26
+r;114452625;61283;5794151;11;27
+r;114460106;61283;5787577;11;27
+r;315568753;61283;12090598;11;27
+r;333776443;61283;12989697;11;27
+r;370048818;61283;14563672;11;27
+r;375028472;61283;14752811;11;27
+r;113794384;61283;5798229;11;28
+r;113311033;61283;5801035;11;29
+r;113788277;61283;5799722;11;29
+r;315490961;61283;12109395;11;29
+r;113307878;61283;5802331;11;30
+r;273092589;61283;10895903;11;30
+r;419800744;61283;16032524;11;30
+r;419801323;61283;15195161;11;30
+r;419801327;61283;15333919;11;30
+r;419801329;61283;15354665;11;30
+r;419801333;61283;15288466;11;30
+r;113270510;61283;5812112;11;31
+r;113271003;61283;5812019;11;31
+r;113762973;61283;5828623;11;31
+r;113764695;61283;5827979;11;31
+r;222103910;61283;9980321;11;31
+r;276739784;61283;10962932;11;31
+r;273089951;61283;10895893;11;31
+r;274352334;61283;10913827;11;31
+r;274352338;61283;10913822;11;31
+r;419717801;61283;15694062;11;31
+r;419717807;61283;15694060;11;31
+r;419740562;61283;15280265;11;31
+r;113270617;61283;5812096;11;32
+r;113270845;61283;5812050;11;32
+r;114016142;61283;5837353;11;32
+r;114024111;61283;5835629;11;32
+r;395262469;61283;15420004;11;32
+r;419657922;61283;16032444;11;32
+r;419663305;61283;15195165;11;32
+r;419664825;61283;15241698;11;32
+r;419689589;61283;15256109;11;32
+r;290895682;61283;11350438;11;33
+r;419612389;61283;15200532;11;33
+r;419612622;61283;15205497;11;33
+r;113287633;61283;5807906;11;34
+r;115856905;61283;5916596;11;34
+r;115856933;61283;5916587;11;34
+r;115856943;61283;5916585;11;34
+r;115856956;61283;5916581;11;34
+r;115856966;61283;5916579;11;34
+r;272521633;61283;10865456;11;34
+r;274207964;61283;10910202;11;34
+r;419518888;61283;15277329;11;34
+r;419538649;61283;15350747;11;34
+r;419544129;61283;15584366;11;34
+r;419551123;61283;15241523;11;34
+r;419572371;61283;15277324;11;34
+r;103670107;61283;4940298;11;35
+r;115856926;61283;5916589;11;35
+r;115858894;61283;5912835;11;35
+r;115858899;61283;5912833;11;35
+r;115859711;61283;5912136;11;35
+r;279315935;61283;11027009;11;35
+r;340780272;61283;13426629;11;35
+r;315113072;61283;12080388;11;35
+r;315113077;61283;12080387;11;35
+r;419492903;61283;15326761;11;35
+r;419492993;61283;15288468;11;35
+r;53103842;61283;2390442;11;36
+r;110812249;61283;5622070;11;36
+r;110812345;61283;5622020;11;36
+r;110814435;61283;5620351;11;36
+r;113270629;61283;5812094;11;36
+r;113311020;61283;5801038;11;36
+r;115856920;61283;5916590;11;36
+r;252662303;61283;10317009;11;36
+r;294536245;61283;11455204;11;36
+r;419801337;61283;15461430;11;36
+r;55120082;61283;2435666;11;37
+r;110812254;61283;5622069;11;37
+r;113287638;61283;5807905;11;37
+r;270361374;61283;10822405;11;37
+r;95405143;61283;3897719;11;38
+r;113270270;61283;5812204;11;38
+r;113270350;61283;5812189;11;38
+r;113307845;61283;5802334;11;38
+r;270845735;61283;10834295;11;38
+r;289891414;61283;11295704;11;38
+r;113270600;61283;5812099;11;39
+r;113270634;61283;5812093;11;39
+r;55100492;61283;2434803;11;40
+r;55766553;61283;2465709;11;40
+r;110812243;61283;5622071;11;40
+r;110815684;61283;5619773;11;40
+r;55031498;61283;2432889;11;41
+r;110812107;61283;5622151;11;41
+r;113270256;61283;5812209;11;41
+r;113270452;61283;5812163;11;41
+r;269491100;61283;10774152;11;41
+r;419806611;61283;15211250;11;42
+r;55360827;61283;2445790;11;43
+r;113270299;61283;5812198;11;43
+r;113270612;61283;5812097;11;43
+r;117890751;61283;5985565;11;43
+r;283606042;61283;11154314;11;43
+r;53562917;61283;2403584;11;44
+r;121048200;61283;6449924;11;44
+r;318734249;61283;12268082;11;44
+r;121801460;61283;6563312;11;45
+r;54461835;61283;2420438;11;46
+r;117864305;61283;5993408;11;46
+r;53558477;61283;2403069;11;47
+r;125597591;61283;7633408;11;48
+r;50240043;61283;2363583;11;49
+r;217815855;61283;9730145;11;50
+r;50244599;61283;2363869;11;50
+r;50420091;61283;2365163;11;50
+r;183841401;61283;8788680;11;50
+r;190323425;61283;8854583;11;50
+r;195355165;61283;9014606;11;50
+r;200557550;61283;9101798;11;50
+r;200557979;61283;9101866;11;50
+r;200581075;61283;9101828;11;50
+r;200683117;61283;9102157;11;50
+r;200683180;61283;9102133;11;50
+r;200683209;61283;9102131;11;50
+r;200683691;61283;9102088;11;50
+r;200684432;61283;9101861;11;50
+r;217070263;61283;9663427;11;50
+r;243049473;61283;10158035;11;50
+r;397497578;61283;15342078;11;50
+r;402120206;61283;15322608;11;50
+r;402120210;61283;15322601;11;50
+r;402108774;61283;15548227;11;50
+r;397499251;61283;15350762;11;50
+r;395034878;61283;15366239;11;50
+r;402272671;61283;15548224;11;50
+r;431653296;61283;16336403;11;50
+r;14689546;61283;437311;11;51
+r;18455412;61283;587837;11;51
+r;52454917;61283;2545495;11;51
+r;52480096;61283;2491986;11;51
+r;77716349;61283;3225646;11;51
+r;86143241;61283;3370649;11;51
+r;86160522;61283;3368637;11;51
+r;86167717;61283;3367753;11;51
+r;86170796;61283;3367385;11;51
+r;86174865;61283;3366891;11;51
+r;86175918;61283;3366767;11;51
+r;86181573;61283;3366085;11;51
+r;86181585;61283;3366084;11;51
+r;86181637;61283;3366080;11;51
+r;86181661;61283;3366077;11;51
+r;86181783;61283;3366063;11;51
+r;86181823;61283;3366058;11;51
+r;86181830;61283;3366057;11;51
+r;86181928;61283;3366048;11;51
+r;86181995;61283;3366041;11;51
+r;86182003;61283;3366040;11;51
+r;86182125;61283;3366025;11;51
+r;86182163;61283;3366020;11;51
+r;86182234;61283;3366011;11;51
+r;86182260;61283;3366007;11;51
+r;86182292;61283;3366003;11;51
+r;86182376;61283;3365995;11;51
+r;86183284;61283;3365899;11;51
+r;86185452;61283;3365673;11;51
+r;86206715;61283;3363067;11;51
+r;86207284;61283;3362996;11;51
+r;86208090;61283;3362898;11;51
+r;86248234;61283;3361466;11;51
+r;93459973;61283;3743952;11;51
+r;93464211;61283;3744361;11;51
+r;93482331;61283;3744949;11;51
+r;93483581;61283;3744739;11;51
+r;93484137;61283;3744885;11;51
+r;93500569;61283;3745912;11;51
+r;93502245;61283;3745715;11;51
+r;93648585;61283;3759355;11;51
+r;93661380;61283;3757958;11;51
+r;93665747;61283;3757481;11;51
+r;93670309;61283;3756990;11;51
+r;93683172;61283;3755621;11;51
+r;93689736;61283;3755004;11;51
+r;93690997;61283;3754864;11;51
+r;16134798;61283;459767;11;52
+r;18365748;61283;585737;11;52
+r;30850231;61283;1917040;11;52
+r;31604844;61283;1963200;11;52
+r;34661258;61283;2348357;11;52
+r;52474327;61283;2504545;11;52
+r;82663908;61283;3301349;11;52
+r;83640654;61283;3318605;11;52
+r;83649944;61283;3318785;11;52
+r;83662285;61283;3321309;11;52
+r;83673126;61283;3319110;11;52
+r;86132581;61283;3359520;11;52
+r;86181402;61283;3366100;11;52
+r;86181457;61283;3366095;11;52
+r;86181553;61283;3366087;11;52
+r;86181692;61283;3366074;11;52
+r;86181981;61283;3366043;11;52
+r;86181988;61283;3366042;11;52
+r;86182082;61283;3366030;11;52
+r;86182107;61283;3366027;11;52
+r;86182205;61283;3366015;11;52
+r;86182212;61283;3366014;11;52
+r;86182224;61283;3366012;11;52
+r;86182299;61283;3366002;11;52
+r;86182347;61283;3365998;11;52
+r;86182391;61283;3365993;11;52
+r;86183485;61283;3365875;11;52
+r;86219956;61283;3359602;11;52
+r;93455569;61283;3743833;11;52
+r;93484760;61283;3744975;11;52
+r;93485945;61283;3744999;11;52
+r;93488747;61283;3745018;11;52
+r;93489453;61283;3745275;11;52
+r;93496877;61283;3746364;11;52
+r;93498064;61283;3746216;11;52
+r;93498921;61283;3746114;11;52
+r;93648098;61283;3759409;11;52
+r;93661359;61283;3757961;11;52
+r;93661903;61283;3757899;11;52
+r;93682045;61283;3755725;11;52
+r;93695006;61283;3754423;11;52
+r;93702687;61283;3753628;11;52
+r;93713348;61283;3752473;11;52
+r;103629992;61283;4939328;11;52
+r;31710582;61283;1968665;11;53
+r;31786766;61283;1971747;11;53
+r;78609994;61283;3246567;11;53
+r;83649843;61283;3318691;11;53
+r;86179426;61283;3366348;11;53
+r;86181407;61283;3366099;11;53
+r;86181445;61283;3366096;11;53
+r;86181625;61283;3366081;11;53
+r;86181966;61283;3366045;11;53
+r;86182052;61283;3366034;11;53
+r;86182059;61283;3366033;11;53
+r;86182091;61283;3366029;11;53
+r;86182098;61283;3366028;11;53
+r;86182132;61283;3366024;11;53
+r;86182139;61283;3366023;11;53
+r;86182255;61283;3366008;11;53
+r;86182267;61283;3366006;11;53
+r;86205104;61283;3363289;11;53
+r;93457681;61283;3743925;11;53
+r;93459760;61283;3744050;11;53
+r;93462312;61283;3744214;11;53
+r;93470313;61283;3744770;11;53
+r;93487282;61283;3745155;11;53
+r;93496741;61283;3746381;11;53
+r;93502628;61283;3745668;11;53
+r;93650194;61283;3759117;11;53
+r;93651832;61283;3758950;11;53
+r;93652484;61283;3758879;11;53
+r;93660201;61283;3758082;11;53
+r;93664747;61283;3757588;11;53
+r;93665506;61283;3757506;11;53
+r;93666168;61283;3757437;11;53
+r;93677165;61283;3756234;11;53
+r;93683662;61283;3755560;11;53
+r;93690646;61283;3754902;11;53
+r;93709362;61283;3752902;11;53
+r;93984905;61283;3756374;11;53
+r;95153177;61283;4243370;11;53
+r;95161127;61283;4104275;11;53
+r;34661501;61283;2348355;11;54
+r;55470890;61283;2604504;11;54
+r;55888616;61283;2471962;11;54
+r;75216984;61283;3072169;11;54
+r;77716185;61283;3225649;11;54
+r;77716449;61283;3225650;11;54
+r;83651799;61283;3318869;11;54
+r;83663120;61283;3321157;11;54
+r;86221973;61283;3359817;11;54
+r;86137046;61283;3371415;11;54
+r;86173082;61283;3367121;11;54
+r;86181601;61283;3366083;11;54
+r;86181613;61283;3366082;11;54
+r;86181646;61283;3366079;11;54
+r;86181792;61283;3366062;11;54
+r;86181861;61283;3366054;11;54
+r;86182043;61283;3366035;11;54
+r;86182285;61283;3366004;11;54
+r;86182335;61283;3365999;11;54
+r;86191297;61283;3365087;11;54
+r;86194230;61283;3364732;11;54
+r;86196562;61283;3364412;11;54
+r;86215239;61283;3366101;11;54
+r;93458103;61283;3743938;11;54
+r;93492666;61283;3746883;11;54
+r;93496287;61283;3746434;11;54
+r;93501156;61283;3745841;11;54
+r;93627836;61283;3751297;11;54
+r;93652044;61283;3758926;11;54
+r;93659633;61283;3758144;11;54
+r;93666283;61283;3757420;11;54
+r;93670690;61283;3756953;11;54
+r;93673057;61283;3756677;11;54
+r;93692942;61283;3754641;11;54
+r;93700611;61283;3753843;11;54
+r;93702968;61283;3753598;11;54
+r;93705255;61283;3753346;11;54
+r;93705622;61283;3753310;11;54
+r;93720534;61283;3751693;11;54
+r;93720884;61283;3751656;11;54
+r;93721151;61283;3751623;11;54
+r;34661382;61283;2348391;11;55
+r;34662195;61283;2348341;11;55
+r;83649925;61283;3318758;11;55
+r;83663998;61283;3320992;11;55
+r;86148975;61283;3369968;11;55
+r;86152733;61283;3369523;11;55
+r;86154752;61283;3369263;11;55
+r;86167605;61283;3367768;11;55
+r;86167703;61283;3367755;11;55
+r;86167710;61283;3367754;11;55
+r;86169639;61283;3367533;11;55
+r;86181513;61283;3366090;11;55
+r;86181697;61283;3366073;11;55
+r;86181718;61283;3366071;11;55
+r;86181771;61283;3366065;11;55
+r;86181837;61283;3366056;11;55
+r;86181847;61283;3366055;11;55
+r;86181875;61283;3366053;11;55
+r;86181894;61283;3366051;11;55
+r;86182010;61283;3366039;11;55
+r;93464343;61283;3744377;11;55
+r;93475283;61283;3744850;11;55
+r;93485962;61283;3745005;11;55
+r;93497616;61283;3746272;11;55
+r;93503195;61283;3745596;11;55
+r;93647842;61283;3759439;11;55
+r;93648364;61283;3759376;11;55
+r;93648419;61283;3759370;11;55
+r;93651853;61283;3758948;11;55
+r;93673820;61283;3756601;11;55
+r;93678465;61283;3756099;11;55
+r;93707433;61283;3753113;11;55
+r;95174984;61283;3866108;11;55
+r;29527538;61283;1804889;11;56
+r;33797186;61283;2324858;11;56
+r;83638807;61283;3318530;11;56
+r;83651203;61283;3318848;11;56
+r;86154886;61283;3369246;11;56
+r;86167577;61283;3367772;11;56
+r;86181563;61283;3366086;11;56
+r;86181766;61283;3366066;11;56
+r;86181776;61283;3366064;11;56
+r;86181813;61283;3366060;11;56
+r;86181914;61283;3366049;11;56
+r;86181944;61283;3366047;11;56
+r;86189597;61283;3365278;11;56
+r;86189760;61283;3365260;11;56
+r;86189773;61283;3365259;11;56
+r;86194467;61283;3364697;11;56
+r;86225076;61283;3359981;11;56
+r;93458919;61283;3744028;11;56
+r;93466778;61283;3744552;11;56
+r;93469566;61283;3744642;11;56
+r;93490952;61283;3745375;11;56
+r;93494468;61283;3746660;11;56
+r;93500227;61283;3745950;11;56
+r;93503649;61283;3745541;11;56
+r;93648235;61283;3759389;11;56
+r;93655307;61283;3758595;11;56
+r;93664019;61283;3757665;11;56
+r;93667404;61283;3757301;11;56
+r;93668647;61283;3757170;11;56
+r;93670282;61283;3756992;11;56
+r;93691251;61283;3754840;11;56
+r;93695314;61283;3754388;11;56
+r;95170656;61283;3939646;11;56
+r;108106707;61283;5501026;11;56
+r;15947466;61283;440637;11;57
+r;30640484;61283;1901362;11;57
+r;50193654;61283;2362742;11;57
+r;53825051;61283;2585972;11;57
+r;83462962;61283;3314833;11;57
+r;83639359;61283;3318491;11;57
+r;83670903;61283;3319555;11;57
+r;86131410;61283;3372129;11;57
+r;86136939;61283;3371427;11;57
+r;86159935;61283;3368706;11;57
+r;86181433;61283;3366097;11;57
+r;86181467;61283;3366094;11;57
+r;86181728;61283;3366070;11;57
+r;86182066;61283;3366032;11;57
+r;86182151;61283;3366021;11;57
+r;86182239;61283;3366010;11;57
+r;86182250;61283;3366009;11;57
+r;86182401;61283;3365992;11;57
+r;86183961;61283;3365828;11;57
+r;86185987;61283;3365627;11;57
+r;86217010;61283;3359624;11;57
+r;93462777;61283;3744284;11;57
+r;93489829;61283;3745337;11;57
+r;93489849;61283;3745286;11;57
+r;93495587;61283;3746520;11;57
+r;93497834;61283;3746245;11;57
+r;93502434;61283;3745691;11;57
+r;93502748;61283;3745651;11;57
+r;93629422;61283;3751298;11;57
+r;93648141;61283;3759404;11;57
+r;93648425;61283;3759369;11;57
+r;93658753;61283;3758237;11;57
+r;93666510;61283;3757397;11;57
+r;93667444;61283;3757296;11;57
+r;93690584;61283;3754908;11;57
+r;93691519;61283;3754809;11;57
+r;93705102;61283;3753364;11;57
+r;93708264;61283;3753027;11;57
+r;93708520;61283;3753001;11;57
+r;93716455;61283;3752131;11;57
+r;93719208;61283;3751837;11;57
+r;93720495;61283;3751699;11;57
+r;93983633;61283;3763669;11;57
+r;14690222;61283;437120;11;58
+r;27200606;61283;1655036;11;58
+r;34662162;61283;2348383;11;58
+r;52457226;61283;2540822;11;58
+r;52465012;61283;2524472;11;58
+r;55918550;61283;2609101;11;58
+r;55918565;61283;2609102;11;58
+r;81999273;61283;3294939;11;58
+r;82663075;61283;3301350;11;58
+r;83732252;61283;3322624;11;58
+r;86136873;61283;3371435;11;58
+r;86181383;61283;3366104;11;58
+r;86181395;61283;3366102;11;58
+r;86181477;61283;3366093;11;58
+r;86181493;61283;3366092;11;58
+r;86181503;61283;3366091;11;58
+r;86181525;61283;3366089;11;58
+r;86181654;61283;3366078;11;58
+r;86181682;61283;3366075;11;58
+r;86181738;61283;3366069;11;58
+r;86181761;61283;3366067;11;58
+r;86181884;61283;3366052;11;58
+r;86181976;61283;3366044;11;58
+r;86182116;61283;3366026;11;58
+r;86182182;61283;3366018;11;58
+r;86182189;61283;3366017;11;58
+r;86182276;61283;3366005;11;58
+r;86182386;61283;3365994;11;58
+r;86189367;61283;3365301;11;58
+r;86200808;61283;3363822;11;58
+r;86206180;61283;3363138;11;58
+r;86210221;61283;3362655;11;58
+r;86216261;61283;3359874;11;58
+r;92540954;61283;3707553;11;58
+r;93462428;61283;3744160;11;58
+r;93465293;61283;3744437;11;58
+r;93466453;61283;3744359;11;58
+r;93466838;61283;3744452;11;58
+r;93497910;61283;3746235;11;58
+r;93498966;61283;3746109;11;58
+r;93499248;61283;3746075;11;58
+r;93504183;61283;3745473;11;58
+r;93504366;61283;3745442;11;58
+r;93648058;61283;3759413;11;58
+r;93706271;61283;3753238;11;58
+r;93720524;61283;3751695;11;58
+r;34661428;61283;2348356;11;59
+r;83057745;61283;3305754;11;59
+r;83649477;61283;3318617;11;59
+r;83651171;61283;3318826;11;59
+r;83661754;61283;3321427;11;59
+r;83663993;61283;3320993;11;59
+r;86126220;61283;3359129;11;59
+r;86134075;61283;3371783;11;59
+r;86136582;61283;3371476;11;59
+r;86136827;61283;3371441;11;59
+r;86155358;61283;3369180;11;59
+r;86181323;61283;3366113;11;59
+r;86181419;61283;3366098;11;59
+r;86181539;61283;3366088;11;59
+r;86181803;61283;3366061;11;59
+r;86181904;61283;3366050;11;59
+r;86181956;61283;3366046;11;59
+r;86182019;61283;3366038;11;59
+r;86182073;61283;3366031;11;59
+r;86182173;61283;3366019;11;59
+r;86182219;61283;3366013;11;59
+r;86182309;61283;3366001;11;59
+r;86182354;61283;3365997;11;59
+r;86182361;61283;3365996;11;59
+r;86182406;61283;3365991;11;59
+r;86184717;61283;3365747;11;59
+r;86204107;61283;3363430;11;59
+r;86207273;61283;3362997;11;59
+r;86223018;61283;3359464;11;59
+r;86226153;61283;3359818;11;59
+r;86247185;61283;3361442;11;59
+r;92541594;61283;3707579;11;59
+r;93455183;61283;3743711;11;59
+r;93458733;61283;3743946;11;59
+r;93463431;61283;3744091;11;59
+r;93467350;61283;3744373;11;59
+r;93489804;61283;3745304;11;59
+r;93492168;61283;3745436;11;59
+r;93493902;61283;3746732;11;59
+r;93494685;61283;3746634;11;59
+r;93497497;61283;3746286;11;59
+r;93498380;61283;3746178;11;59
+r;93499785;61283;3746008;11;59
+r;93499957;61283;3745987;11;59
+r;93588000;61283;3751160;11;59
+r;93597729;61283;3751207;11;59
+r;93883542;61283;3762464;11;59
+r;93648194;61283;3759396;11;59
+r;93698466;61283;3754062;11;59
+r;93702050;61283;3753696;11;59
+r;93705579;61283;3753315;11;59
+r;93722411;61283;3744653;11;59
+r;14689550;61283;437310;11;60
+r;31604136;61283;1963201;11;60
+r;31786875;61283;1971746;11;60
+r;33797250;61283;2324856;11;60
+r;55497500;61283;2606040;11;60
+r;56412223;61283;2475310;11;60
+r;77645352;61283;3225167;11;60
+r;82663087;61283;3301348;11;60
+r;83673133;61283;3319109;11;60
+r;86129644;61283;3359366;11;60
+r;86138318;61283;3371260;11;60
+r;86148789;61283;3369995;11;60
+r;86151220;61283;3369705;11;60
+r;86165562;61283;3368029;11;60
+r;86181318;61283;3366114;11;60
+r;86181390;61283;3366103;11;60
+r;86181704;61283;3366072;11;60
+r;86181750;61283;3366068;11;60
+r;86181818;61283;3366059;11;60
+r;86182026;61283;3366037;11;60
+r;86182035;61283;3366036;11;60
+r;86182144;61283;3366022;11;60
+r;86182196;61283;3366016;11;60
+r;86182323;61283;3366000;11;60
+r;86191044;61283;3365119;11;60
+r;86194985;61283;3364642;11;60
+r;86206661;61283;3363073;11;60
+r;86214176;61283;3362189;11;60
+r;86225053;61283;3360023;11;60
+r;86241450;61283;3360988;11;60
+r;93458325;61283;3744014;11;60
+r;93498176;61283;3746204;11;60
+r;93655778;61283;3758549;11;60
+r;93663896;61283;3757681;11;60
+r;93672847;61283;3756708;11;60
+r;93673930;61283;3756589;11;60
+r;93679536;61283;3755983;11;60
+r;93696436;61283;3754265;11;60
+r;93698584;61283;3754050;11;60
+r;93699898;61283;3753914;11;60
+r;95160644;61283;4111366;11;60
+r;98950680;61283;4337111;11;60
+r;29535387;61283;1805473;11;68
+r;12413611;61283;332559;11;101
+r;12613343;61283;372190;11;101
+r;12629855;61283;368100;11;101
+r;12629859;61283;368099;11;101
+r;12614077;61283;372010;11;102
+r;12629811;61283;368111;11;102
+r;12629851;61283;368101;11;102
+r;12629915;61283;368085;11;102
+r;12685111;61283;354515;11;102
+r;13348295;61283;393311;11;102
+r;12586031;61283;378914;11;103
+r;12588593;61283;378321;11;103
+r;12629847;61283;368102;11;103
+r;12629891;61283;368091;11;103
+r;12629927;61283;368082;11;103
+r;12745883;61283;339877;11;103
+r;12629843;61283;368103;11;104
+r;12629899;61283;368089;11;104
+r;12629931;61283;368081;11;104
+r;12629935;61283;368080;11;104
+r;12645821;61283;364147;11;104
+r;12629903;61283;368088;11;105
+r;12629911;61283;368086;11;105
+r;12629919;61283;368084;11;105
+r;12645829;61283;364146;11;105
+r;12738207;61283;341724;11;105
+r;12579363;61283;380537;11;106
+r;12612277;61283;372474;11;106
+r;12629831;61283;368106;11;106
+r;12629883;61283;368093;11;106
+r;12629835;61283;368105;11;107
+r;12670525;61283;358076;11;107
+r;12744059;61283;340296;11;107
+r;12746701;61283;339672;11;107
+r;12629819;61283;368109;11;108
+r;12629865;61283;368098;11;108
+r;12629907;61283;368087;11;108
+r;12657545;61283;361289;11;108
+r;12629807;61283;368112;11;109
+r;12629823;61283;368108;11;109
+r;12629827;61283;368107;11;109
+r;12629869;61283;368097;11;109
+r;12629871;61283;368096;11;109
+r;12629875;61283;368095;11;109
+r;12629879;61283;368094;11;109
+r;12629895;61283;368090;11;109
+r;12629923;61283;368083;11;109
+r;12745945;61283;339861;11;109
+r;12563063;61283;384587;11;110
+r;12629815;61283;368110;11;110
+r;12629839;61283;368104;11;110
+r;12629887;61283;368092;11;110
+r;12656789;61283;361462;11;110
+r;12678235;61283;356221;11;110
+r;11863882;61283;98317;11;121
+r;11864598;61283;93846;11;121
+r;11864655;61283;93524;11;121
+r;11866643;61283;79485;11;121
+r;11855949;61283;168457;11;122
+r;11855960;61283;168438;11;122
+r;11857116;61283;150281;11;122
+r;8886066;61283;309109;11;153
+r;8690663;61283;217594;11;160
+r;8715804;61283;252241;11;160
+r;8719602;61283;255286;11;160
+r;8719604;61283;255287;11;160
+r;8725739;61283;259548;11;160
+r;8590087;61283;59365;11;161
+r;8630091;61283;166353;11;161
+r;8687642;61283;212161;11;161
+r;8690576;61283;217338;11;161
+r;8690964;61283;218294;11;161
+r;8691096;61283;218480;11;161
+r;8694364;61283;223459;11;161
+r;8694689;61283;224027;11;161
+r;8695622;61283;225489;11;161
+r;8697125;61283;227898;11;161
+r;8697174;61283;227968;11;161
+r;8697436;61283;228308;11;161
+r;8698245;61283;229423;11;161
+r;8700144;61283;231735;11;161
+r;8700642;61283;232183;11;161
+r;8701437;61283;233047;11;161
+r;8706460;61283;239890;11;161
+r;8707692;61283;242522;11;161
+r;8708456;61283;244083;11;161
+r;8712300;61283;248974;11;161
+r;8713317;61283;250032;11;161
+r;8715392;61283;251790;11;161
+r;8715394;61283;251791;11;161
+r;8717647;61283;253853;11;161
+r;8719600;61283;255285;11;161
+r;8720456;61283;255904;11;161
+r;8720459;61283;255905;11;161
+r;8723152;61283;257801;11;161
+r;8723797;61283;258272;11;161
+r;1657288;61283;217650;11;162
+r;1657301;61283;221881;11;162
+r;1657320;61283;217035;11;162
+r;1657326;61283;219664;11;162
+r;1657328;61283;216976;11;162
+r;1657330;61283;217036;11;162
+r;1657334;61283;168282;11;162
+r;8588886;61283;55917;11;162
+r;8607589;61283;109346;11;162
+r;8634162;61283;171684;11;162
+r;8686798;61283;211540;11;162
+r;8689765;61283;215292;11;162
+r;8731431;61283;263993;11;162
+r;8731433;61283;263994;11;162
+r;8773634;61283;307905;11;162
+r;1657285;61283;111325;11;163
+r;1657290;61283;211446;11;163
+r;1657291;61283;211447;11;163
+r;1657293;61283;211448;11;163
+r;1657299;61283;163027;11;163
+r;1657318;61283;215347;11;163
+r;1657319;61283;65846;11;163
+r;8584020;61283;42092;11;163
+r;8600248;61283;89033;11;163
+r;8603405;61283;97875;11;163
+r;8614455;61283;128700;11;163
+r;8614811;61283;129666;11;163
+r;8615103;61283;130413;11;163
+r;8618735;61283;138652;11;163
+r;8623587;61283;153863;11;163
+r;8623772;61283;154175;11;163
+r;8625109;61283;156482;11;163
+r;8625164;61283;156563;11;163
+r;8625277;61283;156823;11;163
+r;8626198;61283;159228;11;163
+r;8637974;61283;181213;11;163
+r;8642926;61283;184102;11;163
+r;8645958;61283;186047;11;163
+r;8647141;61283;186588;11;163
+r;8651926;61283;189848;11;163
+r;8732560;61283;264910;11;163
+r;8733091;61283;265463;11;163
+r;8746009;61283;278323;11;163
+r;8746320;61283;278690;11;163
+r;8755110;61283;287461;11;163
+r;8757990;61283;290011;11;163
+r;8768519;61283;302021;11;163
+r;8769296;61283;302836;11;163
+r;8770051;61283;303730;11;163
+r;1657283;61283;204912;11;164
+r;1657284;61283;156579;11;164
+r;1657286;61283;204914;11;164
+r;1657287;61283;204913;11;164
+r;1657289;61283;75271;11;164
+r;1657294;61283;183498;11;164
+r;1657295;61283;144832;11;164
+r;1657296;61283;69067;11;164
+r;1657297;61283;204917;11;164
+r;1657298;61283;204915;11;164
+r;1657300;61283;183497;11;164
+r;1657302;61283;204916;11;164
+r;1657303;61283;204918;11;164
+r;1657304;61283;177329;11;164
+r;1657305;61283;130548;11;164
+r;1657306;61283;204919;11;164
+r;1657307;61283;56050;11;164
+r;1657308;61283;204920;11;164
+r;1657309;61283;67446;11;164
+r;1657310;61283;204921;11;164
+r;1657311;61283;139616;11;164
+r;1657312;61283;204922;11;164
+r;1657313;61283;91273;11;164
+r;1657314;61283;177274;11;164
+r;1657315;61283;175019;11;164
+r;1657316;61283;204923;11;164
+r;1657317;61283;204924;11;164
+r;1657321;61283;204925;11;164
+r;1657322;61283;123693;11;164
+r;1657323;61283;204926;11;164
+r;1657324;61283;183499;11;164
+r;1657325;61283;204927;11;164
+r;1657327;61283;177275;11;164
+r;1657329;61283;122581;11;164
+r;1657331;61283;204928;11;164
+r;1657332;61283;204929;11;164
+r;1657333;61283;204930;11;164
+r;8644860;61283;185567;11;164
+r;8645051;61283;185638;11;164
+r;8645833;61283;185982;11;164
+r;8646813;61283;186443;11;164
+r;8646816;61283;186444;11;164
+r;8646818;61283;186445;11;164
+r;8661596;61283;196497;11;164
+r;1657292;61283;137681;11;165
+r;8664658;61283;198194;11;165
+r;8668660;61283;200530;11;165
+r;8669706;61283;201046;11;165
+r;8670166;61283;201304;11;165
+r;8670168;61283;201305;11;165
+r;253656;61283;160122;11;174
+r;271529;61283;161323;11;187
+r;465386;61283;167803;11;187
+r;229613;61283;153047;11;189
+r;234097;61283;158745;11;189
+r;277008;61283;161669;11;198
+r;229612;61283;158444;11;209

@@ -1,0 +1,82 @@
+
+e;163546;'cigarettes';1;156
+e;6336365;'autres ouvrières de la fabrication des cigarettes';1;0
+e;6389925;'autres ouvriers de la fabrication des cigarettes';1;0
+e;12172425;'mesure de nombre de cigarettes fumées / jour';1;0
+e;14653020;'cigarettes aux clous de girofle';1;0
+e;14653026;'producteurs de cigarettes';1;0
+e;14653027;'producteur de cigarettes';1;0
+e;14690358;'fume-cigarettes';1;0
+e;6304905;'grand fumeur de cigarettes';1;0
+e;6360719;'briquet à cigarettes';1;0
+e;12116490;'nombre de cigarettes fumées';1;0
+e;14753271;'farde de cigarettes';1;0
+e;14753272;'trafic de cigarettes';1;0
+e;6376930;'fumeur de cigarettes';1;0
+e;12101801;'nombre de cigarettes fumées / jour';1;0
+e;15295659;'de la taille d'un paquet de cigarettes';1;0
+e;15295655;'distributeur automatique de cigarettes';1;0
+e;15295644;'distributeur de cigarettes';1;0
+e;15295646;'distributeurs de cigarettes';1;0
+e;15239802;'cigarettes à faible teneur en goudron';1;0
+e;15295642;'contrebande de cigarettes';1;0
+e;15428108;'cache paquet de cigarettes';1;0
+e;15027428;'allume-cigarettes';1;0
+e;15295652;'Les cigarettes créent une forte dépendance.';1;0
+e;5882314;'Les avertissements sur les paquets de cigarettes';777;0
+e;12050982;'opératrice de machine de production de cigarettes';1;0
+e;12050981;'opérateur de machine de production de cigarettes';1;0
+e;6526307;'ouvriers de la fabrication des cigarettes';1;0
+e;12053037;'utiliser une machine à fabriquer les cigarettes';1;0
+e;12053426;'machine à fabriquer les cigarettes';1;0
+e;5883297;'liste de 599 additifs aux cigarettes';777;0
+e;10144793;'La Femme aux cigarettes blondes';777;0
+e;13781924;'783 ouvriers de la fabrication des cigarettes';1;0
+e;4290805;'paquet de cigarettes neutre';777;0
+e;2970996;'cigarettes blondes';1;10
+e;384416;'trafiquant de cigarettes';1;50
+e;72420;'porte-cigarettes';1;50
+e;70921;'La Femme aux cigarettes';1;50
+e;161362;'cartouche de cigarettes';1;58
+e;213607;'papier à cigarettes';1;52
+e;159337;'paquet de cigarettes';1;102
+r;301409496;163546;6336365;11;25
+r;304576680;163546;6389925;11;25
+r;316652530;163546;12172425;11;25
+r;372424891;163546;14653020;11;25
+r;372425061;163546;14653026;11;25
+r;372425161;163546;14653027;11;25
+r;373814342;163546;14690358;11;25
+r;299468701;163546;6304905;11;26
+r;302097445;163546;6360719;11;26
+r;315694542;163546;12116490;11;26
+r;375036584;163546;14753271;11;26
+r;375036598;163546;14753272;11;26
+r;303629060;163546;6376930;11;27
+r;315559076;163546;12101801;11;28
+r;419768158;163546;15295659;11;30
+r;419786254;163546;15295655;11;30
+r;419786295;163546;15295644;11;30
+r;419786369;163546;15295646;11;30
+r;419709960;163546;15239802;11;31
+r;419737467;163546;15295642;11;31
+r;419675322;163546;15428108;11;32
+r;392791048;163546;15027428;11;35
+r;419495313;163546;15295652;11;35
+r;114763078;163546;5882314;11;36
+r;313705148;163546;12050982;11;36
+r;313707540;163546;12050981;11;36
+r;121449044;163546;6526307;11;37
+r;313741930;163546;12053037;11;40
+r;313749696;163546;12053426;11;41
+r;114761557;163546;5883297;11;43
+r;236656212;163546;10144793;11;45
+r;348994703;163546;13781924;11;50
+r;95757057;163546;4290805;11;52
+r;73858961;163546;2970996;11;53
+r;12563789;163546;384416;11;104
+r;11867581;163546;72420;11;121
+r;8593977;163546;70921;11;162
+r;8627409;163546;161362;11;162
+r;8688915;163546;213607;11;162
+r;8626264;163546;159337;11;163

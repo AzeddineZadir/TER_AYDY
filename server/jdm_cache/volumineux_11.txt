@@ -1,0 +1,10 @@
+
+e;126596;'volumineux';1;76
+e;6290133;'utérus volumineux';1;0
+e;12645595;'trop volumineux';1;0
+e;1827520;'angiome Louis-Philippe biparotidien volumineux';1;0
+e;306024;'peu volumineux';777;50
+r;298413036;126596;6290133;11;25
+r;323851620;126596;12645595;11;50
+r;29918896;126596;1827520;11;63
+r;8771876;126596;306024;11;163

@@ -1,0 +1,310 @@
+
+e;44007;'attention';1;474
+e;14469882;'faire attention à quelqu'un';1;0
+e;14469881;'faire attention à quelque chose';1;0
+e;14469928;'faire attention à qqun';1;0
+e;14631701;'attention enfants';777;0
+e;15835281;'recherche constante d'attention';1;0
+e;14557720;'manque d'attention';1;0
+e;14885062;'faire très attention';1;12
+e;6437581;'déficit de l'attention';1;0
+e;6439568;'altération de l'attention ou syndrome déficitaire de l'attention avec hyperactivité';1;0
+e;6439059;'hyperactivité avec altération de l'attention';1;0
+e;6437669;'troubles de comportement perturbateur et de déficit de l'attention';1;0
+e;15231925;'disperser son attention';1;0
+e;15263551;'distraire l'attention de qn';1;0
+e;15648472;'détourner l'attention de qn';1;0
+e;15456118;'détourner l'attention de qnn';1;0
+e;15648474;'détourner l'attention de quelqu'un';1;0
+e;2395280;'pré-attention';1;0
+e;6442446;'dérèglement simple de l'activité et de l'attention';1;0
+e;6440875;'altération de l'attention syndrome avec hyperactivité';1;0
+e;15360488;'chose à laquelle il faut faire attention';1;0
+e;6446299;'déficit de l'attention et comportement perturbateur';1;0
+e;6443575;'comportement de recherche d'attention';1;0
+e;6441972;'troubles de l'attention';1;0
+e;6441351;'trouble déficitaire de l'attention';1;0
+e;6439689;'perturbation de l'activité et de l'attention';1;0
+e;6435303;'comportement recherchant l'attention';1;0
+e;6433896;'troubles du comportement perturbateur et de déficit de l'attention';1;0
+e;15196056;'attention chien méchant';1;0
+e;15196048;'attention chien méchant !';1;0
+e;15569386;'attention minutieuse aux détails';1;0
+e;15476555;'attention à la marche';1;0
+e;15391360;'attention à la marche entre le train et le quai';1;0
+e;15317903;'attention, chien méchant';1;0
+e;15523681;'attention, peinture fraîche';1;0
+e;15468432;'attention, spoiler!';1;0
+e;15311802;'attirant l'attention';1;0
+e;15449426;'attirer l'attention de [qqn] sur [qch]';1;0
+e;15316210;'attirer l'attention de qn';1;0
+e;15316212;'attirer l'attention de qn sur qch';1;0
+e;15648486;'attirer l'attention de qn sur quelque chose';1;0
+e;15648471;'attirer l'attention de quelqu'un';1;0
+e;15648487;'attirer l'attention de quelqu'un sur quelque chose';1;0
+e;15368365;'attirer l'attention des médias';1;0
+e;15316223;'attirer l'attention sur qch';1;0
+e;15316221;'attirer l'attention sur qn';1;0
+e;15344946;'attiré leur attention';1;0
+e;15353400;'attiré votre attention';1;0
+e;15751133;'capter l'attention';1;0
+e;15442353;'centre d'attention';1;0
+e;6440788;'altération de l'attention trouble avec hyperactivité';1;0
+e;10033043;'recherche d'attention';777;0
+e;10033042;'besoin d'attention';777;0
+e;15835285;'attirer l'attention sur soi';1;0
+e;16036036;'appeler l'attention sur';1;0
+e;16158697;'attention au chien';1;0
+e;6436141;'trouble déficitaire de l'attention de l'enfance';1;0
+e;6435744;'trouble déficitaire de l'attention de l'enfance avec hyperactivité';1;0
+e;6432764;'trouble déficitaire indifférencié de l'attention';1;0
+e;12883868;'détournement d'attention';777;0
+e;15279914;'Nous avons concentré notre attention sur des considérations pratiques.';1;0
+e;15261286;'Tu ferais bien de faire attention.';1;0
+e;15750601;'Votre attention';1;0
+e;15480286;'accaparer toute l'attention';1;0
+e;15650906;'accorder de l'attention';1;0
+e;15384351;'accorder peu d'attention';1;0
+e;15375677;'accordé de l'attention';1;0
+e;1836020;'hyperactivité avec déficit de l'attention';1;0
+e;6443993;'difficulté de l'attention et de la concentration';1;0
+e;13445327;'examiner avec attention';1;0
+e;15390887;'Le procès a beaucoup mobilisé l'attention des médias.';1;0
+e;15769456;'Ne fais pas attention à lui!';1;0
+e;6438286;'modification de l'attention soutenue';1;0
+e;10997720;'attention conjointe';777;0
+e;6437075;'syndrome atypique d'un déficit de l'attention';1;0
+e;11442400;'économie de l'attention';777;0
+e;2409577;'prêter attention';1;0
+e;6450700;'trouble déficitaire de l'attention avec hyperactivité';1;0
+e;6450037;'capacité d'attention diminuée';1;0
+e;6451821;'cécité d'attention';1;0
+e;6450363;'trouble de déficit de l'attention avec hyperactivité';1;0
+e;6432709;'déficit de l'attention avec hyperactivité';1;0
+e;6442888;'déficit d'attention et hyperactivité';1;0
+e;6448300;'altération de l'attention';1;0
+e;6450132;'perturbation de l'attention';1;0
+e;6449964;'déficit de l'attention et perturbations du comportement';1;0
+e;6438792;'trouble d'hyperactivité avec déficit de l'attention';1;0
+e;6450306;'trouble de déficit de l'attention';1;0
+e;6450784;'troubles et perturbations cognitifs et de l'attention';1;0
+e;6439015;'trouble de l'attention sans hyperactivité';1;0
+e;6449027;'trouble déficitaire de l'attention de l'enfance sans mention d'hyperactivité';1;0
+e;6449404;'déficit de l'attention et troubles du comportement perturbateur';1;0
+e;15481653;''attention gravillons'';1;0
+e;13757141;'913 attention et troubles reliés à l'attention';1;0
+e;14779732;'BPH demandant une attention particulière';777;0
+e;15691044;'Fais attention, sinon tu vas te faire écraser!';1;0
+e;15324769;'Elle orienta son attention vers les films.';1;0
+e;15319785;'Fais attention à ne pas brûler les saucisses!';1;0
+e;15523679;'Il s'agit maintenant de faire attention.';1;0
+e;15249662;'L'affaire a mobilisé l'attention des médias au Brésil.';1;0
+e;15349001;'C'est une attention délicate de sa part.';1;0
+e;15550071;''attention, chien méchant'';1;0
+e;15549358;'Fais attention à la marche!';1;0
+e;396238;'manquer d'attention';1;50
+e;1966219;'signaler qqch à l'attention de quelqu'un';1;0
+e;3156890;'trouble du déficit de l'attention avec ou sans hyperactivité';777;0
+e;353532;'faute d'attention';1;50
+e;337223;'attention centrale';1;50
+e;337227;'attention particulière';1;50
+e;337224;'attention délicate';1;52
+e;337228;'attention sensorielle';1;50
+e;388283;'à l'aimable attention de';1;50
+e;356581;'grande attention';1;50
+e;337226;'attention motrice';1;50
+e;337225;'attention expectante';1;50
+e;369312;'pavillon d'attention';1;50
+e;376060;'renouveau d'attention';1;50
+e;210135;'à l'attention de';1;50
+e;242570;'trouble du déficit de l'attention';1;50
+e;242571;'trouble de l'attention';1;4
+e;247932;'monopoliser l'attention';1;2
+e;252979;'perte d'attention';1;50
+e;210245;'attirer l'attention sur';1;50
+e;210628;'demander l'attention';1;50
+e;210743;'endormir l'attention';1;50
+e;210883;'forcer l'attention';1;50
+e;211701;'retenir l'attention';1;50
+e;211951;'signaler à l'attention';1;50
+e;211952;'signaler qqch à l'attention de qqn';1;50
+e;145054;'détourner l'attention';1;56
+e;281104;'trouble du déficit de l'attention avec hyperactivité';777;50
+e;139348;'attirer l'attention';1;116
+e;251108;'ne pas faire attention';1;16
+e;249100;'attention auditive';1;50
+e;254444;'avec attention';1;46
+e;256776;'gentille attention';1;50
+e;256777;'petite attention';1;50
+e;256778;'avoir une petite attention';1;58
+e;116608;'faire attention';1;358
+e;266201;'en faisant attention';1;26
+e;67700;'prêter attention à';1;50
+e;76423;'attention flottante';1;50
+e;266200;'sans faire attention';1;14
+e;267698;'délicate attention';1;50
+e;278147;'appliquer son attention';777;50
+e;24047;'avoir attention';1;50
+e;133684;'attention correcte';1;50
+e;135545;'attention au départ';1;50
+e;185932;'donner attention';1;50
+e;196427;'avoir attention que';1;50
+e;198794;'donner attention à';1;50
+e;200306;'faire attention à';1;52
+e;4605;'avoir attention pour';1;50
+e;6050;'appliquer son attention à';1;50
+r;367243396;44007;14469882;11;25
+r;367243555;44007;14469881;11;25
+r;367247252;44007;14469928;11;25
+r;371681342;44007;14631701;11;25
+r;412705066;44007;15835281;11;25
+r;369891215;44007;14557720;11;26
+r;386578185;44007;14885062;11;26
+r;121549662;44007;6437581;11;28
+r;121531917;44007;6439568;11;30
+r;121536416;44007;6439059;11;30
+r;121548860;44007;6437669;11;30
+r;419784167;44007;15231925;11;30
+r;419786147;44007;15263551;11;30
+r;419828998;44007;15648472;11;30
+r;419829002;44007;15456118;11;30
+r;419829008;44007;15648474;11;30
+r;53200479;44007;2395280;11;31
+r;121506115;44007;6442446;11;31
+r;121520093;44007;6440875;11;31
+r;419708482;44007;15360488;11;31
+r;121471463;44007;6446299;11;32
+r;121495945;44007;6443575;11;32
+r;121510313;44007;6441972;11;32
+r;121515904;44007;6441351;11;32
+r;121530851;44007;6439689;11;32
+r;121570067;44007;6435303;11;32
+r;122662715;44007;6433896;11;32
+r;419617166;44007;15196056;11;32
+r;419617172;44007;15196048;11;32
+r;419617180;44007;15569386;11;32
+r;419617186;44007;15476555;11;32
+r;419617190;44007;15391360;11;32
+r;419617202;44007;15317903;11;32
+r;419617210;44007;15523681;11;32
+r;419617216;44007;15468432;11;32
+r;419617360;44007;15311802;11;32
+r;419617407;44007;15449426;11;32
+r;419617415;44007;15316210;11;32
+r;419617419;44007;15316212;11;32
+r;419617425;44007;15648486;11;32
+r;419617433;44007;15648471;11;32
+r;419617439;44007;15648487;11;32
+r;419617449;44007;15368365;11;32
+r;419617455;44007;15316223;11;32
+r;419617461;44007;15316221;11;32
+r;419617561;44007;15344946;11;32
+r;419617583;44007;15353400;11;32
+r;419681405;44007;15751133;11;32
+r;419694104;44007;15442353;11;32
+r;121520924;44007;6440788;11;33
+r;227628146;44007;10033043;11;33
+r;227628151;44007;10033042;11;33
+r;412721989;44007;15835285;11;33
+r;419603200;44007;16036036;11;33
+r;423278141;44007;16158697;11;33
+r;121562555;44007;6436141;11;34
+r;121566055;44007;6435744;11;34
+r;122672958;44007;6432764;11;34
+r;330762847;44007;12883868;11;34
+r;419514475;44007;15279914;11;34
+r;419555476;44007;15261286;11;34
+r;419561716;44007;15750601;11;34
+r;419568533;44007;15480286;11;34
+r;419570023;44007;15650906;11;34
+r;419570098;44007;15384351;11;34
+r;419570322;44007;15375677;11;34
+r;30004690;44007;1836020;11;35
+r;121492240;44007;6443993;11;35
+r;341112989;44007;13445327;11;35
+r;419493183;44007;15390887;11;35
+r;419511836;44007;15769456;11;35
+r;121543406;44007;6438286;11;36
+r;277992778;44007;10997720;11;36
+r;121554279;44007;6437075;11;37
+r;294244804;44007;11442400;11;37
+r;53897245;44007;2409577;11;38
+r;121041148;44007;6450700;11;38
+r;121047161;44007;6450037;11;38
+r;121030791;44007;6451821;11;39
+r;121044135;44007;6450363;11;39
+r;122673411;44007;6432709;11;39
+r;121502019;44007;6442888;11;40
+r;121453401;44007;6448300;11;41
+r;121046281;44007;6450132;11;42
+r;121047842;44007;6449964;11;43
+r;121538821;44007;6438792;11;43
+r;121044642;44007;6450306;11;45
+r;121040372;44007;6450784;11;46
+r;121536777;44007;6439015;11;46
+r;121056376;44007;6449027;11;48
+r;121052965;44007;6449404;11;49
+r;397020740;44007;15481653;11;50
+r;348997708;44007;13757141;11;50
+r;376032764;44007;14779732;11;50
+r;412530459;44007;15691044;11;50
+r;397499683;44007;15324769;11;50
+r;397505110;44007;15319785;11;50
+r;402109306;44007;15523679;11;50
+r;414847468;44007;15249662;11;50
+r;395011551;44007;15349001;11;50
+r;398434500;44007;15550071;11;50
+r;398927788;44007;15549358;11;50
+r;107368777;44007;5388080;11;51
+r;14064422;44007;396238;11;54
+r;107368606;44007;5388079;11;55
+r;31666310;44007;1966219;11;59
+r;75947697;44007;3156890;11;63
+r;12689113;44007;353532;11;101
+r;12756671;44007;337223;11;101
+r;12756657;44007;337227;11;102
+r;12756667;44007;337224;11;102
+r;12756655;44007;337228;11;104
+r;12548311;44007;388283;11;105
+r;12676721;44007;356581;11;105
+r;12756661;44007;337226;11;106
+r;12756665;44007;337225;11;107
+r;12625363;44007;369312;11;108
+r;12597663;44007;376060;11;109
+r;8878007;44007;210135;11;151
+r;8880748;44007;242570;11;151
+r;8880749;44007;242571;11;151
+r;8880928;44007;247932;11;151
+r;8881251;44007;252979;11;151
+r;8878091;44007;210245;11;152
+r;8878353;44007;210628;11;152
+r;8878420;44007;210743;11;152
+r;8878534;44007;210883;11;152
+r;8879142;44007;211701;11;152
+r;8879324;44007;211951;11;152
+r;8879325;44007;211952;11;152
+r;8874856;44007;145054;11;153
+r;8883439;44007;281104;11;153
+r;8873625;44007;139348;11;154
+r;8714652;44007;251108;11;160
+r;8712392;44007;249100;11;161
+r;8718465;44007;254444;11;161
+r;8721759;44007;256776;11;161
+r;8721761;44007;256777;11;161
+r;8721764;44007;256778;11;161
+r;8610196;44007;116608;11;162
+r;8733859;44007;266201;11;162
+r;8592922;44007;67700;11;163
+r;8595822;44007;76423;11;163
+r;8733857;44007;266200;11;163
+r;8735586;44007;267698;11;163
+r;8745881;44007;278147;11;163
+r;8577918;44007;24047;11;164
+r;8616235;44007;133684;11;164
+r;8616912;44007;135545;11;164
+r;8645721;44007;185932;11;164
+r;8661419;44007;196427;11;164
+r;8665651;44007;198794;11;165
+r;8668172;44007;200306;11;165
+r;8571509;44007;4605;11;168
+r;8571974;44007;6050;11;168

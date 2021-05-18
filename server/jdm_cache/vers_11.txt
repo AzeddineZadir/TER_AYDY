@@ -1,0 +1,968 @@
+
+e;32528;'vers';1;878
+e;6289901;'fuite de sang foetal vers la circulation maternelle';1;0
+e;6294680;'dérivation ventriculaire vers une structure de la tête ou du cou';1;0
+e;6300971;'luciférases des vers luisants';1;0
+e;6311448;'extravasation de sang foetal vers la circulation maternelle';1;0
+e;6316191;'vers segmentés';1;0
+e;6317115;'oeufs de vers';1;0
+e;6319471;'glissement vers la droite';1;0
+e;6323047;'dérivation ventriculaire vers le rhinopharynx';1;0
+e;6324973;'vers annelés';1;0
+e;6325908;'dossiers médicaux orientés vers les problèmes';1;0
+e;6327252;'regard oculaire vers le bas';1;0
+e;6334632;'dérivation ventriculaire vers le système veineux';1;0
+e;6338555;'dérivation ventriculaire cérébrale vers la cavité thoracique';1;0
+e;6340813;'déviation du regard vers le haut';1;0
+e;6348892;'orientation d'un patient vers un établissement spécialisé';1;0
+e;6349608;'regard oculaire vers le haut';1;0
+e;6354404;'dérivation ventriculaire vers le système circulatoire';1;0
+e;6356451;'oeufs infectieux de vers';1;0
+e;6366489;'déviation congénitale vers l'intérieur';1;0
+e;6369461;'larves de vers';1;0
+e;6377408;'myiase cutanée à vers à vis';1;0
+e;6379891;'regard conjugué vers le bas';1;0
+e;6381244;'regard conjugué vers le haut';1;0
+e;6390346;'orientation d'un patient vers un spécialiste';1;0
+e;6395522;'renvoi vers un spécialiste';1;0
+e;6399301;'globes oculaires dirigés vers le haut';1;0
+e;6402507;'vers à soie géants';1;0
+e;6417701;'deviation des yeux vers le haut';1;0
+e;12196662;'vers 1490 av. J.-C';777;0
+e;12165817;'détermination de la présence de leucocytes déviation vers la gauche';1;0
+e;12164211;'réaction : pyruvate vers lactate';1;0
+e;12164209;'réaction : lactate vers pyruvate';1;0
+e;12233594;'détermination de la présence de leucocytes déviation vers la gauche | comptage automate | sang | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;12233593;'détermination de la présence de leucocytes déviation vers la gauche | technique indéterminée | sang | ponctuel | résultat qualitatif | présence/seuil';1;0
+e;6342591;'transition vers les soins pour adultes';1;0
+e;12700432;'être-vers-la-mort';777;0
+e;13587624;'voyage vers l'au-delà';1;0
+e;13587945;'Train rapide et omnibus vers la ligne Musashino';777;0
+e;13995335;'Voyage vers Agartha';777;0
+e;14003819;'La Formation de la terre végétale par l'action des vers de terre';777;0
+e;14485712;'hottes et sorbonnes à extraction vers l'extérieur';777;0
+e;14506998;'Larmor vers 1900';777;0
+e;14532203;'vers 500';777;0
+e;14535963;'Le voyage vers le sud';777;0
+e;14537622;'vers l'ouest';777;0
+e;14537559;'Liens vers des associations d'ergonomie';777;0
+e;14548368;'L'ouverture du pays vers l'étranger';777;0
+e;14564011;'vers 894 - 27 octobre 939';777;0
+e;14583971;'avoir des vers';1;0
+e;14584186;'orienté vers le problème';777;0
+e;14585778;'Évolution vers la féodalité entre Loire et Rhin';777;0
+e;14589459;'vers marins non-segmentés';1;0
+e;14639198;'vers février-mars';1;0
+e;14725533;'vers la gauche';1;0
+e;14728241;'être entraîné vers le bas par son poids';1;0
+e;14778252;'départ vers la WPSL';777;0
+e;16530118;'Évolution du lieu de la bataille vers un lieu-dit et finalement une rue et une association homonymes';777;0
+e;14868286;'Nombre de personnes occupant les différentes professions vers 1899';777;0
+e;14850982;'Rochefort vers 1690';777;0
+e;14902313;'le retour vers l'avant';777;0
+e;14902310;'le balayage vers le bas';777;0
+e;14902312;'le retour des bras vers l'avant';777;0
+e;14902311;'le balayage vers l'intérieur et le haut';777;0
+e;15422321;'tirer les vers du nez à [qqn]';1;0
+e;15435098;'se diriger vers [qch/qqn]';1;0
+e;15437262;'se tourner vers [qqn]';1;0
+e;15435103;'se diriger droit vers [qch]';1;0
+e;15439785;'tendre vers [qch]';1;0
+e;15439776;'s'orienter vers [qch]';1;0
+e;15475012;'objectif de maintien ou de conduite de la forêt vers les mosaïques d'écosystèmes les plus stables';777;0
+e;6287658;'infestation à vers plats';1;0
+e;15921185;'un déplacement des populations vers l'Ouest';777;0
+e;16066146;'écrire en vers';1;0
+e;16313419;'s'être tournée vers';1;0
+e;16313418;'s'être tourné vers';1;0
+e;5787454;'projet de mission habitée vers Mars';777;0
+e;6292780;'sensation de tension vers le haut du globe oculaire';1;0
+e;6347231;'glissement vers la gauche';1;0
+e;6370535;'déviation congénitale vers le bas';1;0
+e;6381174;'crises partielles simples évoluant vers des crises secondairement généralisées';1;0
+e;6381056;'crises partielles complexes évoluant vers des crises secondairement généralisées';1;0
+e;6392516;'dossier médical orienté vers les problèmes';1;0
+e;6393098;'déviation du regard vers le bas';1;0
+e;14718576;'inférence vers l'antonyme';1;2
+e;14721864;'vers ïambique';1;0
+e;15018154;'Ruées vers l'Or dans New Super Mario Bros. U';777;0
+e;15569062;'mauvais vers';1;2
+e;16087391;'tendre vers un même point';1;0
+e;3757319;'poivron vert épépiné et coupé en fines lamelles';1;0
+e;10672940;'Trois filles vers le soleil';777;0
+e;10623998;'Retour vers l'enfer';777;0
+e;6385021;'déviation congénitale vers le haut';1;0
+e;12100112;'leucocytes déviation vers la gauche';1;0
+e;6434064;'utérus basculé vers l'arrière';1;0
+e;6432761;'tronc courbé vers l'arrière';1;0
+e;10900025;'ruée vers l'or du Colorado';777;0
+e;10900024;'ruée vers l'or de Pikes Peak';777;0
+e;13853819;'Encore heureux qu'on va vers l'été';777;0
+e;6422258;'patient dirigé vers le personnel paramédical';1;0
+e;16316698;'diffusion vers l'arrière';1;0
+e;16509994;'droit vers le nord';1;0
+e;16324542;'décalage de deux mètres vers la droite';1;0
+e;10598511;'Unis vers l'uni';777;0
+e;10732845;'transition chilienne vers la démocratie';777;0
+e;16032174;'diriger les yeux vers';1;0
+e;16043845;'diriger ses pas vers';1;0
+e;15353919;'du haut vers le bas';1;0
+e;15336651;'décaler qch vers la droite';1;0
+e;15336653;'décaler qch vers la gauche';1;0
+e;15729250;'décaler quelque chose vers la droite';1;0
+e;15729246;'décaler quelque chose vers la gauche';1;0
+e;15214494;'déclamer des vers';1;0
+e;15687280;'déviation vers la gauche de la formule d'arneth';1;0
+e;15212324;'en marche vers';1;0
+e;15958152;'en route vers';1;0
+e;16509989;'compatible vers le bas';1;0
+e;16100887;'converger vers';1;0
+e;6430870;'dérivation ventriculaire vers la grande citerne';1;0
+e;9954832;'ruée vers l'or de l'Alaska';777;0
+e;9954833;'ruée vers l'or du Yukon';777;0
+e;9954831;'ruée vers l'or du Klondike';777;0
+e;9967339;'Convoi vers la Russie';777;0
+e;9984995;'Ombres vers le sud';777;0
+e;9980274;'être piqué des vers';1;0
+e;9980231;'diriger le robinet vers une autre personne';1;0
+e;6315666;'crises épileptiques partielles simples évoluant vers des crises tonico-cloniques généralisées';1;0
+e;6325772;'dérivation ventriculaire vers l'espace sous-arachnoïdien cervical';1;0
+e;6325992;'crises épileptiques partielles complexes évoluant vers des crises tonico-cloniques généralisées';1;0
+e;15434744;'diriger son regard vers [qqn/qch]';1;0
+e;15625389;'cingler vers quelque chose';1;0
+e;15513284;'compatibilité vers le haut';1;0
+e;15513283;'compatible vers le haut';1;0
+e;15203631;'conduire qn vers';1;0
+e;15750699;'conduire quelqu'un vers';1;0
+e;15257883;'contenir des liens hypertextes vers qch';1;0
+e;15751348;'contenir des liens hypertextes vers quelque chose';1;0
+e;5634998;'ECOlogie du Rural vers l'URBain';777;0
+e;5676796;'Star Trek vers les ténèbres';777;0
+e;5830605;'thé de vers';777;0
+e;10026110;'En route vers Rio';777;0
+e;10962925;'vers marins';1;0
+e;10962914;'vers de velours';777;0
+e;11059324;'vers de Paterson';777;0
+e;11059334;'genre fossile de vers marins';1;0
+e;11357324;'vers plats polyclades';1;0
+e;11806623;'coup de pied vers l'arrière';777;0
+e;11808654;'voie birmane vers le socialisme';777;0
+e;15439768;'cingler vers [qch]';1;0
+e;15569048;'dire des vers';1;4
+e;15547077;'attirer qn vers soi';1;0
+e;15748702;'attirer quelqu'un vers soi';1;0
+e;15353409;'attiré vers le site';1;0
+e;15234519;'au troisième vers';1;0
+e;15497774;'avec une tendance baissière, allant vers le bas';1;0
+e;15403023;'basculer vers l'anglais';1;0
+e;16029426;'c'est pas piqué des vers';1;0
+e;15403022;'changer vers';1;0
+e;6439649;'déviation congénitale vers l'extérieur';1;0
+e;6436676;'dérivation ventriculaire vers l'apophyse mastoïde';1;0
+e;11063036;'pièce de théâtre en vers';1;0
+e;11063034;'pièce de théâtre tragique en cinq actes et en vers';1;0
+e;11812185;'transition vers la télévision numérique';777;0
+e;16509995;'Nous allions vers le nord.';1;0
+e;16133320;'Nous allons vers une faillite certaine.';1;0
+e;16316700;'angle de coupe vers l'arrière';1;0
+e;1828955;'transposition du médius vers le pouce Böhler';1;0
+e;5635888;'vers annélides';1;0
+e;5919441;'La Ruée vers l'Ouest';777;0
+e;5918631;'chirurgie de réattribution sexuelle d'homme vers femme';777;0
+e;5918591;'chirurgie de réattribution sexuelle de femme vers homme';777;0
+e;5961205;'Évasion vers l'Eden';777;0
+e;5960781;'Le Grand Départ vers la lune';777;0
+e;5969291;'ruée vers l'or en Californie';777;0
+e;10954011;'La Ruée vers l'or de Buffalo Creek';777;0
+e;12079733;'maladie des vers du cur';1;0
+e;16393042;'Il inclina son bol de soupe vers sa bouche.';1;0
+e;16509999;'Le camion allait vers le nord sur la M5.';1;0
+e;15528282;'Nos pensées allaient vers Noël.';1;0
+e;15953523;'Nuit Retour vers le Futur';777;0
+e;15494022;'Patterson pointa un doigt vers une boîte en carton.';1;0
+e;15408212;'Tous les regards se sont tournés vers lui.';1;0
+e;15260414;'Un chiffre positif déplace le pic vers la droite.';1;0
+e;15775571;'Une famille de paysans vers 1640';777;0
+e;16014999;'Vues des allées et de la maison de la Villa Valetta vers 1922';777;0
+e;15520747;'affluer vers la côte';1;0
+e;15336602;'aiguiller qn vers';1;0
+e;15752395;'aiguiller quelqu'un vers';1;0
+e;16075059;'allant vers';1;0
+e;15941832;'aller droit vers';1;0
+e;15272423;'aller vers l'affrontement';1;0
+e;15522227;'aller vers le nord';1;0
+e;15330486;'aller vers le sud';1;0
+e;15398973;'angle de coupe vers l'arrière en travail';1;0
+e;15398975;'angle de taillant vers l'arrière en travail';1;0
+e;16317238;'Un grand pas vers le Bon Dieu de Jean Vautrin';777;0
+e;16509997;'La circulation vers le nord avance très lentement.';1;0
+e;11287657;'Ruée vers l'or du Fraser';777;0
+e;5917839;'Nikolaï Korotkov vers 1900';777;0
+e;5942501;'Hermann Eckstein et sa femme Minnie vers 1880';777;0
+e;5960250;'Gilbert Poillerat vers 1935';777;0
+e;6433855;'déviation de l'axe vers la gauche axe q';1;0
+e;11081705;'vers parasitaires';1;0
+e;12050252;'donner envie d'aller vers les autres';1;0
+e;12050247;'aller vers les autres';1;0
+e;12864089;'Josef Kaspar Sattler vers 1910';777;0
+e;15639862;'Passerelle de l'ENS Paris-Saclay vers les ENSA Paris-Malaquais';777;0
+e;15327745;'Les enfants goûtent généralement vers quatre heures.';1;0
+e;15530603;'Les touristes se mirent à retourner vers les cars par petits groupes.';1;0
+e;16324539;'Décale-toi un peu vers la droite.';1;0
+e;6442340;'chirurgie pour reflux anormal d'urine vésicale vers les uretères';1;0
+e;11287609;'ruées vers l'or en Australie';777;0
+e;11287658;'ruée vers l'or de la Big Bend';777;0
+e;11287655;'ruée vers l'or dans les Black Hills';777;0
+e;11287653;'ruée vers l'or au Victoria';777;0
+e;11287660;'ruée vers l'or de l'Altaï';777;0
+e;11287656;'ruée vers l'or du fleuve Fraser';777;0
+e;11287654;'ruée vers l'or de 1828 en Géorgie';777;0
+e;11287659;'ruée vers l'or de l'Oural';777;0
+e;11438965;'vers tubicoles';1;14
+e;11504500;'longue marche vers Bosque Redondo';777;0
+e;11577343;'s'élever vers le ciel';1;0
+e;12007926;'transition d'Apple vers Intel';777;0
+e;13747214;'crises épileptiques partielles simples évoluant vers des crises partielles complexes, et ensuite vers des crises tonico-cloniques généralisées';1;0
+e;5894825;'vers parasites';777;0
+e;10325382;'Long voyage vers la nuit';777;0
+e;11438964;'vers tubicoles marins';1;0
+e;11545229;'anguilles vers de terre';777;0
+e;11937523;'expansion vers le sud de la dynastie Han';777;0
+e;5897646;'vers de farine';777;0
+e;10058496;'Un petit pas vers le bonheur';777;0
+e;10057937;'En route vers Manhattan';777;0
+e;11288886;'ruée vers le zinc et le plomb de Broken Hill';777;0
+e;11391411;'roman en vers';1;0
+e;11438963;'vers tubicoles marins polychètes';1;0
+e;11664409;'vers de cire';777;0
+e;12052458;'rediriger du courrier vers différents services';1;0
+e;5811904;'décalage vers le rouge photométrique';777;0
+e;10420981;'La Pérégrination vers l'Ouest';777;0
+e;5812098;'déviation vers l'est';777;0
+e;5811902;'décalage vers le rouge gravitationnel';777;0
+e;9946531;'marche de Sherman vers la mer';777;0
+e;10426076;'La Caravane vers l'Ouest';777;0
+e;10518227;'Liens vers l'Asie organisés en tutorats et stages d'échange';777;0
+e;12793376;'vers 400';777;0
+e;5897645;'vers de la farine';777;0
+e;6006686;'Retour vers le futur 2';777;0
+e;10084052;'En route vers Singapour';777;0
+e;10132428;'Le Long Voyage vers la nuit';777;0
+e;10368396;'Femme à l'ombrelle tournée vers la gauche';777;0
+e;10368395;'Femme à l'ombrelle tournée vers la droite';777;0
+e;10458862;'En route vers mon premier gala Juste pour Rire';777;0
+e;5675379;'La Course vers la montagne ensorcelée';777;0
+e;5812001;'déplacements vers le rouge';777;0
+e;6006688;'Retour vers le futur 3';777;0
+e;10462078;'En route vers Bali';777;0
+e;11373059;'orienté vers la hausse';1;0
+e;6003092;'liste des vols habités vers la station Mir';777;0
+e;7927482;'vers nématodes';1;0
+e;10177162;'En route vers l'Alaska';777;0
+e;10176481;'En route vers le Maroc';777;0
+e;11174077;'Randonnée vers Trois Roches';777;0
+e;11317454;'Les dix départements métropolitains ayant le plus évolué vers la droite entre 1974 et 1995';777;0
+e;11317455;'Les dix départements métropolitains ayant le plus évolué vers la gauche entre 1974 et 1995';777;0
+e;13197175;'vers marins échiuriens';1;0
+e;5539016;'vers 1782';777;0
+e;10141272;'La Diligence vers l'Ouest';777;0
+e;10514423;'vers de sept syllabes';1;0
+e;11162528;'art européen vers 1400';777;0
+e;15314478;'La route vire vers le sud.';1;0
+e;5946649;'pièce de théâtre tragi-comique en vers';1;0
+e;6003664;'mission spatiale habitée vers Mars';777;0
+e;6537604;'branche de l'artère choroïdienne antérieure gauche vers le corps amygdaloïde gauche';1;0
+e;2368099;'être poussé vers la sortie';1;0
+e;6006394;'mission habitée vers un astéroïde';777;0
+e;10435946;'Voyage vers l'espoir';777;0
+e;10840289;'Mouvement vers le socialisme-Instrument politique pour la souveraineté des peuples';777;0
+e;5900087;'vers de vase rouges';777;0
+e;5553450;'O vers M';777;0
+e;10438660;'Loin vers l'est';777;0
+e;5539004;'vers 1700';777;0
+e;12266449;'vers 30 000';777;0
+e;5998371;'sens 5' vers 3';777;0
+e;15502778;'Ce tableau penche vers la droite.';1;0
+e;9661382;'Pierre Bockel vers 1944';777;0
+e;10252790;'Avant 1450 et vers 1450-1425 av. J.-C';777;0
+e;11130008;'transition d'IPv4 vers IPv6';777;0
+e;11626372;'Compagnie du chemin de fer de Dendre-et-Waes et de Bruxelles vers Gand par Alost';777;0
+e;12628750;'évoluer vers';1;0
+e;12662013;'Contes et nouvelles en vers';777;0
+e;12645624;'éjection de matière vers l'arrière';1;0
+e;12692873;'vers à tête épineuse';777;0
+e;12711847;'liste des jeux vidéo Retour vers le futur';777;0
+e;12711844;'liste des épisodes de Retour vers le futur';777;0
+e;12713747;'offensive soviétique vers l'Ouest';777;0
+e;13641849;'Kaikisen - Retour vers la Mer';777;0
+e;15295038;'Elle commença à s'orienter vers un autre mode de vie.';1;0
+e;15321607;'Gallas rata sa tête, envoyant le ballon vers ses buts.';1;0
+e;15324769;'Elle orienta son attention vers les films.';1;0
+e;15528792;'Il est rentré chez lui vers cinq heures.';1;0
+e;15319817;'Ils se sont dirigés vers l'église.';1;0
+e;15230836;'Il allait vers la gare.';1;0
+e;15516494;'Il habite vers la gare.';1;0
+e;15204561;'Ils dirigèrent leurs télescopes vers d'autres galaxies proches.';1;0
+e;15009443;'Extension vers un cube 3x2x2';777;0
+e;15329496;'Des millions de personnes migraient vers les villes.';1;0
+e;15260804;'Décaler l'ensemble du paragraphe vers la droite.';1;0
+e;15570734;'Elle s'est penchée vers moi par-dessus la table.';1;0
+e;15224302;'Ils s'acheminent vers une démocratie parlementaire.';1;0
+e;15327752;'Je rentre à la maison vers quatre heures.';1;0
+e;1656477;'déplacement vers l'avant';1;0
+e;1781650;'vers l'extérieur';1;0
+e;2608322;'vers macaronique';1;0
+e;3758480;'bonbons gélifiés en forme de vers';1;0
+e;5511588;'tourné vers Dieu';1;0
+e;6450490;'déplacement vers le bas de l'ovaire';1;0
+e;6537603;'branche de l'artère choroïdienne antérieure droite vers le corps amygdaloïde droit';1;0
+e;2588607;'piquer vers';1;0
+e;1656478;'déplacement vers l'arrière';1;0
+e;1781651;'vers l'intérieur';1;0
+e;1970809;'aller vers le bonheur';1;0
+e;2584058;'vers gris';777;0
+e;3152029;'tourné vers lui-même';1;0
+e;5511587;'tournée vers Dieu';1;0
+e;568229;'évolution du latin vers le français';777;50
+e;1928813;'vol contrôlé vers le terrain';777;0
+e;2419488;'herbe aux vers';1;0
+e;1979954;'retourné vers le haut';1;2
+e;2559543;'Prez-vers-Noréaz';1;0
+e;2590471;'conte en vers';1;0
+e;3183147;'le tournant de la médecine galéniste vers la médecine moderne';777;0
+e;4318811;'sourire vers le bas';1;0
+e;1637809;'grouiller de vers';1;0
+e;2949540;'être tourné vers';1;0
+e;3230516;'dévié vers l'extérieur';1;0
+e;4332391;'vers de six pieds';1;0
+e;1859378;'maladie des vers du coeur';777;0
+e;2303256;'vers-librismes';2;0
+e;2600585;'arc incident vers l'intérieur';1;0
+e;2602787;'vers-sur-selle';777;0
+e;2605740;'arc incident vers l'extérieur';1;0
+e;3152031;'tourné vers soi-même';1;0
+e;5518551;'oeuvre en vers';1;0
+e;568122;'vers fil de fer';777;50
+e;1781562;'qui tend vers';1;0
+e;2303257;'vers-libristes';2;0
+e;2641502;'texte en vers';1;0
+e;3953858;'nus comme des vers';1;0
+e;6537602;'branche de l'artère choroïdienne antérieure vers le corps amygdaloïde';1;0
+e;1846531;'transposition du médius vers le pouce, type Böhler';1;0
+e;1848082;'vers intestinaux';1;4
+e;386638;'vers élégiaque';1;52
+e;386636;'vers syncopé';1;50
+e;386629;'vers quadrisyllabique';1;50
+e;386628;'vers périodique';1;50
+e;386623;'vers mesuré';1;50
+e;386614;'vers hexamètre';1;50
+e;386607;'vers concaténé';1;50
+e;385730;'une étape vers';1;50
+e;385630;'un pas vers';1;50
+e;375642;'recueil de vers';1;50
+e;386631;'vers régulier';1;50
+e;386627;'vers palindrome';1;50
+e;386600;'vers acéphale';1;50
+e;386599;'vers acatalectique';1;50
+e;386635;'vers syllabique';1;50
+e;386621;'vers lyrique';1;50
+e;386603;'vers asclépiade';1;50
+e;386626;'vers numéral';1;50
+e;386618;'vers irrégulier';1;50
+e;386617;'vers ionien';1;50
+e;386615;'vers héroïque';1;50
+e;377169;'ruée vers la sortie';1;50
+e;386625;'vers métrique';1;50
+e;386620;'vers les midi';1;50
+e;386619;'vers latin';1;50
+e;386612;'vers féminin';1;50
+e;386611;'vers décasyllabique';1;50
+e;386609;'vers crétique';1;50
+e;386601;'vers adonien';1;50
+e;386610;'vers de mirliton';1;58
+e;386606;'vers catalectique';1;50
+e;386604;'vers blanc';1;50
+e;370549;'piqué des vers';1;50
+e;392472;'envoyer vers une mort certaine';1;50
+e;386639;'vers équivoque';1;50
+e;386633;'vers satirique';1;50
+e;385645;'un premier pas vers';1;50
+e;349372;'déportement vers la droite';1;50
+e;386632;'vers rétrograde';1;50
+e;386637;'vers trochaïque';1;50
+e;386634;'vers spondaïque';1;50
+e;386630;'vers rythmique';1;50
+e;386616;'vers impair';1;50
+e;386613;'vers grec';1;50
+e;386605;'vers boiteux';1;50
+e;386602;'vers alcaïque';1;50
+e;343644;'chiasse de vers';1;50
+e;25703;'vers-librisme';1;50
+e;277997;'suivi-vers';777;50
+e;126526;'vers-libriste';1;50
+e;218070;'plein de vers';1;50
+e;223767;'La Ruée vers l'or';666;50
+e;167501;'Nimitz, retour vers l'enfer';1;50
+e;207694;'se diriger vers';1;50
+e;207994;'se transporter vers';1;50
+e;208879;'tendre les bras vers';1;50
+e;211062;'la ruée vers l'or';1;50
+e;211745;'s'acheminer vers';1;50
+e;211820;'s'avancer vers';1;50
+e;227090;'retour vers le futur';666;2
+e;263513;'vers l'arrière';1;50
+e;263566;'vers le haut';1;52
+e;23738;'se porter vers';1;50
+e;40568;'se tourner vers';1;52
+e;84725;'Les Vers dorés de Pythagore, expliqués et traduits pour la première fois en vers eumolpiques français';1;50
+e;112143;'vers de douze pieds';1;50
+e;113443;'mangé aux vers';1;50
+e;116939;'tirer vers';1;50
+e;165334;'vers libre';1;54
+e;205923;'porter ses pas vers';1;50
+e;209214;'tourner son regard vers';1;50
+e;209215;'tourner toutes ses pensées vers';1;50
+e;209740;'vers blancs';1;50
+e;209741;'vers fescennins';1;50
+e;209742;'vers holorime';1;50
+e;209743;'vers holorimes';1;50
+e;209744;'vers intercalaire';1;50
+e;209745;'vers la droite';1;50
+e;209746;'vers libres';1;50
+e;216011;'Retour vers le futur';666;50
+e;306013;'ne pas diriger le robinet vers une autre personne';777;50
+e;72058;'tourner vers';1;50
+e;74518;'À cheval vers la mer';1;50
+e;77824;'tourner ses pas vers';1;50
+e;79619;'mettre en vers';1;50
+e;128680;'Recueil de vers';1;50
+e;140224;'Les Élans de l'âme vers l'Intelligible';1;50
+e;141956;'Ruée vers l'or';1;50
+e;152348;'vers de terre';1;60
+e;154685;'poème en vers';1;52
+e;155000;'ruée vers l'or';1;54
+e;156318;'poésie en vers';1;50
+e;158953;'vers alexandrin';1;50
+e;184742;'vers bacchiaque';1;50
+e;184743;'vers dactylique';1;50
+e;184744;'vers dochmiaque';1;50
+e;184745;'vers élégiambique';1;50
+e;184746;'vers hypercatalectique';1;50
+e;184747;'vers phérécratien';1;50
+e;184748;'vers à soie';1;52
+e;186580;'ne pas être piqué des vers';1;50
+e;203435;'marcher vers';1;50
+e;205534;'pièce de vers';1;50
+e;265651;'vers ronds';1;52
+e;265652;'vers plats';1;4
+e;273243;'vers mopane';777;50
+e;275618;'Montage d'un vaisseau à Toulon vers 1670';777;50
+e;278241;'vers solitaires';777;50
+e;281833;'vers le large';777;50
+e;284265;'décalage vers le bleu';777;50
+e;286054;'Les hottes et sorbonnes à extraction vers l'extérieur';777;50
+e;297964;'Classique des vers';777;50
+e;300673;'décalage vers le rouge';777;50
+e;304383;'Guderian progresse vers la Somme';777;50
+e;26854;'tendre vers';1;70
+e;134212;'aller vers';1;50
+e;134782;'voguer vers';1;50
+e;186947;'tirer les vers du nez à';1;50
+e;191251;'tirer les vers du nez';1;4
+e;196390;'avancer vers';1;50
+e;196852;'basculer vers';1;50
+e;197518;'cheminer vers';1;50
+e;197575;'cingler vers';1;50
+e;199461;'en vers';1;54
+e;200618;'faire route vers';1;50
+e;200740;'faire voile vers';1;50
+e;201579;'graviter vers';1;50
+e;20119;'conduire vers';1;50
+e;198745;'diriger ses regards vers';1;50
+e;198747;'diriger vers';1;50
+e;200767;'faiseur de vers';1;50
+e;6530;'Fables et Contes en vers';1;50
+r;298406068;32528;6289901;11;25
+r;298860401;32528;6294680;11;25
+r;299147130;32528;6300971;11;25
+r;299591260;32528;6311448;11;25
+r;299679981;32528;6316191;11;25
+r;299792742;32528;6317115;11;25
+r;299888523;32528;6319471;11;25
+r;300133183;32528;6323047;11;25
+r;300184755;32528;6324973;11;25
+r;300196463;32528;6325908;11;25
+r;300206147;32528;6327252;11;25
+r;301206165;32528;6334632;11;25
+r;301446625;32528;6338555;11;25
+r;301470218;32528;6340813;11;25
+r;301722030;32528;6348892;11;25
+r;301725843;32528;6349608;11;25
+r;301758594;32528;6354404;11;25
+r;301806827;32528;6356451;11;25
+r;302198238;32528;6366489;11;25
+r;302985952;32528;6369461;11;25
+r;303642390;32528;6377408;11;25
+r;303667838;32528;6379891;11;25
+r;303850832;32528;6381244;11;25
+r;304585966;32528;6390346;11;25
+r;305004380;32528;6395522;11;25
+r;305131346;32528;6399301;11;25
+r;305262262;32528;6402507;11;25
+r;305689001;32528;6417701;11;25
+r;316557321;32528;12196662;11;25
+r;316673249;32528;12165817;11;25
+r;316679376;32528;12164211;11;25
+r;316679385;32528;12164209;11;25
+r;318641642;32528;12233594;11;25
+r;318641671;32528;12233593;11;25
+r;319110050;32528;6342591;11;25
+r;325636250;32528;12700432;11;25
+r;344046242;32528;13587624;11;25
+r;344088572;32528;13587945;11;25
+r;352644958;32528;13995335;11;25
+r;353054828;32528;14003819;11;25
+r;368242630;32528;14485712;11;25
+r;368492248;32528;14506998;11;25
+r;368701348;32528;14532203;11;25
+r;369479067;32528;14535963;11;25
+r;369514090;32528;14537622;11;25
+r;369516431;32528;14537559;11;25
+r;369911214;32528;14548368;11;25
+r;370135058;32528;14564011;11;25
+r;370557723;32528;14583971;11;25
+r;370561467;32528;14584186;11;25
+r;370684638;32528;14585778;11;25
+r;370709115;32528;14589459;11;25
+r;372101456;32528;14639198;11;25
+r;374375701;32528;14725533;11;25
+r;374438952;32528;14728241;11;25
+r;375562376;32528;14778252;11;25
+r;434551292;32528;16530118;11;25
+r;384876473;32528;14868286;11;25
+r;384712348;32528;14850982;11;25
+r;389682421;32528;14902313;11;25
+r;389682835;32528;14902310;11;25
+r;389682460;32528;14902312;11;25
+r;389683143;32528;14902311;11;25
+r;395412538;32528;15422321;11;25
+r;395448200;32528;15435098;11;25
+r;395455934;32528;15437262;11;25
+r;395456979;32528;15435103;11;25
+r;395467913;32528;15439785;11;25
+r;395471629;32528;15439776;11;25
+r;396190424;32528;15475012;11;25
+r;396619552;32528;6287658;11;25
+r;414442299;32528;15921185;11;25
+r;418470298;32528;16066146;11;25
+r;428560937;32528;16313419;11;25
+r;428560949;32528;16313418;11;25
+r;114460306;32528;5787454;11;26
+r;397128553;32528;6292780;11;26
+r;301690601;32528;6347231;11;26
+r;302983189;32528;6370535;11;26
+r;303850950;32528;6381174;11;26
+r;303931904;32528;6381056;11;26
+r;304858470;32528;6392516;11;26
+r;304874443;32528;6393098;11;26
+r;374226202;32528;14718576;11;26
+r;374297182;32528;14721864;11;26
+r;392301087;32528;15018154;11;26
+r;399117627;32528;15569062;11;26
+r;419480611;32528;16087391;11;26
+r;93667225;32528;3757319;11;27
+r;270781207;32528;10672940;11;27
+r;267333096;32528;10623998;11;27
+r;303993185;32528;6385021;11;27
+r;315576393;32528;12100112;11;27
+r;121581139;32528;6434064;11;28
+r;122672982;32528;6432761;11;28
+r;274303199;32528;10900025;11;28
+r;274303205;32528;10900024;11;28
+r;350105607;32528;13853819;11;28
+r;122755822;32528;6422258;11;29
+r;434384060;32528;16316698;11;29
+r;434385578;32528;16509994;11;29
+r;434385760;32528;16324542;11;29
+r;264443964;32528;10598511;11;30
+r;269462570;32528;10732845;11;30
+r;419783248;32528;16032174;11;30
+r;419783252;32528;16043845;11;30
+r;419801126;32528;15353919;11;30
+r;419804534;32528;15336651;11;30
+r;419804542;32528;15336653;11;30
+r;419804558;32528;15729250;11;30
+r;419804568;32528;15729246;11;30
+r;419805492;32528;15214494;11;30
+r;419829753;32528;15687280;11;30
+r;419840702;32528;15212324;11;30
+r;419842785;32528;15958152;11;30
+r;434380315;32528;16509989;11;30
+r;434381271;32528;16100887;11;30
+r;122689143;32528;6430870;11;31
+r;220660768;32528;9954832;11;31
+r;220665277;32528;9954833;11;31
+r;220665283;32528;9954831;11;31
+r;221482516;32528;9967339;11;31
+r;222097112;32528;9984995;11;31
+r;222104112;32528;9980274;11;31
+r;222104297;32528;9980231;11;31
+r;299652626;32528;6315666;11;31
+r;300191908;32528;6325772;11;31
+r;300196352;32528;6325992;11;31
+r;395413040;32528;15434744;11;31
+r;419710138;32528;15625389;11;31
+r;419724703;32528;15513284;11;31
+r;419724773;32528;15513283;11;31
+r;419729630;32528;15203631;11;31
+r;419729647;32528;15750699;11;31
+r;419735079;32528;15257883;11;31
+r;419735091;32528;15751348;11;31
+r;111354744;32528;5634998;11;32
+r;111466842;32528;5676796;11;32
+r;113756617;32528;5830605;11;32
+r;227641751;32528;10026110;11;32
+r;276670819;32528;10962925;11;32
+r;276667869;32528;10962914;11;32
+r;280252456;32528;11059324;11;32
+r;280284879;32528;11059334;11;32
+r;291206066;32528;11357324;11;32
+r;304373058;32528;11806623;11;32
+r;305014326;32528;11808654;11;32
+r;395456755;32528;15439768;11;32
+r;399117541;32528;15569048;11;32
+r;419617519;32528;15547077;11;32
+r;419617533;32528;15748702;11;32
+r;419617575;32528;15353409;11;32
+r;419621254;32528;15234519;11;32
+r;419626932;32528;15497774;11;32
+r;419648011;32528;15403023;11;32
+r;419671227;32528;16029426;11;32
+r;419699722;32528;15403022;11;32
+r;121531189;32528;6439649;11;33
+r;121557821;32528;6436676;11;33
+r;280400654;32528;11063036;11;33
+r;280402279;32528;11063034;11;33
+r;304715148;32528;11812185;11;33
+r;434355254;32528;16509995;11;33
+r;434355262;32528;16133320;11;33
+r;434370726;32528;16316700;11;33
+r;29932626;32528;1828955;11;34
+r;111207860;32528;5635888;11;34
+r;115846806;32528;5919441;11;34
+r;115849742;32528;5918631;11;34
+r;115849963;32528;5918591;11;34
+r;116576347;32528;5961205;11;34
+r;116578109;32528;5960781;11;34
+r;116948181;32528;5969291;11;34
+r;275823952;32528;10954011;11;34
+r;315116484;32528;12079733;11;34
+r;434344048;32528;16393042;11;34
+r;434348819;32528;16509999;11;34
+r;419513653;32528;15528282;11;34
+r;419516977;32528;15953523;11;34
+r;419523109;32528;15494022;11;34
+r;419553668;32528;15408212;11;34
+r;419557533;32528;15260414;11;34
+r;419558091;32528;15775571;11;34
+r;419562495;32528;16014999;11;34
+r;419580381;32528;15520747;11;34
+r;419583446;32528;15336602;11;34
+r;419583452;32528;15752395;11;34
+r;419586866;32528;16075059;11;34
+r;419587620;32528;15941832;11;34
+r;419588187;32528;15272423;11;34
+r;419588195;32528;15522227;11;34
+r;419588204;32528;15330486;11;34
+r;419595065;32528;15398973;11;34
+r;419595263;32528;15398975;11;34
+r;428852249;32528;16317238;11;34
+r;434347829;32528;16509997;11;34
+r;289904156;32528;11287657;11;35
+r;115853081;32528;5917839;11;35
+r;116313039;32528;5942501;11;35
+r;116579695;32528;5960250;11;35
+r;122663121;32528;6433855;11;35
+r;281113535;32528;11081705;11;35
+r;313764917;32528;12050252;11;35
+r;313764923;32528;12050247;11;35
+r;329530319;32528;12864089;11;35
+r;401755560;32528;15639862;11;35
+r;419495730;32528;15327745;11;35
+r;419497582;32528;15530603;11;35
+r;432056648;32528;16324539;11;35
+r;121507076;32528;6442340;11;36
+r;288811811;32528;11287609;11;36
+r;288817663;32528;11287658;11;36
+r;288818682;32528;11287655;11;36
+r;288822142;32528;11287653;11;36
+r;288823523;32528;11287660;11;36
+r;288826329;32528;11287656;11;36
+r;288826376;32528;11287654;11;36
+r;288838027;32528;11287659;11;36
+r;294089740;32528;11438965;11;36
+r;295966181;32528;11504500;11;36
+r;297642886;32528;11577343;11;36
+r;312982843;32528;12007926;11;36
+r;419751532;32528;13747214;11;36
+r;114747356;32528;5894825;11;37
+r;252656819;32528;10325382;11;37
+r;294089744;32528;11438964;11;37
+r;296499824;32528;11545229;11;37
+r;308179766;32528;11937523;11;37
+r;115106277;32528;5897646;11;38
+r;232110127;32528;10058496;11;38
+r;232112030;32528;10057937;11;38
+r;288914207;32528;11288886;11;38
+r;292544920;32528;11391411;11;38
+r;294020874;32528;11438963;11;38
+r;298864569;32528;11664409;11;38
+r;313761799;32528;12052458;11;38
+r;113271649;32528;5811904;11;39
+r;255392275;32528;10420981;11;39
+r;113270610;32528;5812098;11;40
+r;113271666;32528;5811902;11;40
+r;220437267;32528;9946531;11;40
+r;256492321;32528;10426076;11;40
+r;262201351;32528;10518227;11;40
+r;329049987;32528;12793376;11;40
+r;115106281;32528;5897645;11;41
+r;118524644;32528;6006686;11;41
+r;232466477;32528;10084052;11;41
+r;236692339;32528;10132428;11;41
+r;254589225;32528;10368396;11;41
+r;254589235;32528;10368395;11;41
+r;261019665;32528;10458862;11;41
+r;111329075;32528;5675379;11;42
+r;113271077;32528;5812001;11;42
+r;118524630;32528;6006688;11;42
+r;261007927;32528;10462078;11;42
+r;291799491;32528;11373059;11;42
+r;118532026;32528;6003092;11;43
+r;128003380;32528;7927482;11;43
+r;238924448;32528;10177162;11;43
+r;238926640;32528;10176481;11;43
+r;285888530;32528;11174077;11;43
+r;289938986;32528;11317454;11;43
+r;289940293;32528;11317455;11;43
+r;336627058;32528;13197175;11;43
+r;109889819;32528;5539016;11;44
+r;236662280;32528;10141272;11;44
+r;262037882;32528;10514423;11;44
+r;285754652;32528;11162528;11;44
+r;417033443;32528;15314478;11;44
+r;116302367;32528;5946649;11;45
+r;118530034;32528;6003664;11;45
+r;121861810;32528;6537604;11;45
+r;50653200;32528;2368099;11;46
+r;118525578;32528;6006394;11;46
+r;256292871;32528;10435946;11;46
+r;271598642;32528;10840289;11;46
+r;115097263;32528;5900087;11;47
+r;109887271;32528;5553450;11;48
+r;256284272;32528;10438660;11;48
+r;109889838;32528;5539004;11;49
+r;318362762;32528;12266449;11;49
+r;118544931;32528;5998371;11;50
+r;397134862;32528;15502778;11;50
+r;217046674;32528;9661382;11;50
+r;247439028;32528;10252790;11;50
+r;282740089;32528;11130008;11;50
+r;298193476;32528;11626372;11;50
+r;323389761;32528;12628750;11;50
+r;324010465;32528;12662013;11;50
+r;324934052;32528;12645624;11;50
+r;325495068;32528;12692873;11;50
+r;326397147;32528;12711847;11;50
+r;326472149;32528;12711844;11;50
+r;327328070;32528;12713747;11;50
+r;346143662;32528;13641849;11;50
+r;397497598;32528;15295038;11;50
+r;400711818;32528;15321607;11;50
+r;397499685;32528;15324769;11;50
+r;402106104;32528;15528792;11;50
+r;402117855;32528;15319817;11;50
+r;402104738;32528;15230836;11;50
+r;402107210;32528;15516494;11;50
+r;402111631;32528;15204561;11;50
+r;391869671;32528;15009443;11;50
+r;395032317;32528;15329496;11;50
+r;397423358;32528;15260804;11;50
+r;399661946;32528;15570734;11;50
+r;402113467;32528;15224302;11;50
+r;402273549;32528;15327752;11;50
+r;27491772;32528;1656477;11;51
+r;29224833;32528;1781650;11;51
+r;55802294;32528;2608322;11;51
+r;93656496;32528;3758480;11;52
+r;108262636;32528;5511588;11;52
+r;121043007;32528;6450490;11;52
+r;121861827;32528;6537603;11;52
+r;18306200;32528;584015;11;53
+r;54497104;32528;2588607;11;53
+r;18306429;32528;584016;11;54
+r;27491786;32528;1656478;11;54
+r;29224827;32528;1781651;11;54
+r;31760434;32528;1970809;11;54
+r;53783452;32528;2584058;11;54
+r;75946791;32528;3152029;11;54
+r;108261907;32528;5511587;11;54
+r;17212404;32528;568229;11;55
+r;31202137;32528;1928813;11;55
+r;54446842;32528;2419488;11;55
+r;32107585;32528;1979954;11;56
+r;52491760;32528;2559543;11;56
+r;54728854;32528;2590471;11;56
+r;76981675;32528;3183147;11;56
+r;98482497;32528;4318811;11;56
+r;25852572;32528;1637809;11;57
+r;72645339;32528;2949540;11;57
+r;78304161;32528;3230516;11;57
+r;98828134;32528;4332391;11;57
+r;30145539;32528;1859378;11;58
+r;33107553;32528;2303256;11;58
+r;55144111;32528;2600585;11;58
+r;55567340;32528;2602787;11;58
+r;55492814;32528;2605740;11;59
+r;75944448;32528;3152031;11;59
+r;108773945;32528;5518551;11;59
+r;17201404;32528;568122;11;60
+r;29225077;32528;1781562;11;60
+r;33107549;32528;2303257;11;60
+r;60243985;32528;2641502;11;60
+r;95169924;32528;3953858;11;60
+r;121861844;32528;6537602;11;60
+r;29878895;32528;1846531;11;63
+r;29870164;32528;1848082;11;70
+r;12554817;32528;386638;11;101
+r;12554825;32528;386636;11;101
+r;12554853;32528;386629;11;101
+r;12554857;32528;386628;11;101
+r;12554877;32528;386623;11;102
+r;12554913;32528;386614;11;102
+r;12554941;32528;386607;11;102
+r;12558411;32528;385730;11;102
+r;12558791;32528;385630;11;102
+r;12599309;32528;375642;11;102
+r;12554845;32528;386631;11;103
+r;12554861;32528;386627;11;103
+r;12554965;32528;386600;11;103
+r;12554969;32528;386599;11;103
+r;12554829;32528;386635;11;104
+r;12554885;32528;386621;11;104
+r;12554955;32528;386603;11;104
+r;12554865;32528;386626;11;105
+r;12554897;32528;386618;11;105
+r;12554901;32528;386617;11;105
+r;12554909;32528;386615;11;105
+r;12593297;32528;377169;11;105
+r;12554869;32528;386625;11;106
+r;12554889;32528;386620;11;106
+r;12554893;32528;386619;11;106
+r;12554921;32528;386612;11;106
+r;12554925;32528;386611;11;106
+r;12554933;32528;386609;11;106
+r;12554963;32528;386601;11;106
+r;12554929;32528;386610;11;107
+r;12554943;32528;386606;11;107
+r;12554951;32528;386604;11;107
+r;12620243;32528;370549;11;107
+r;13182199;32528;392472;11;107
+r;12554813;32528;386639;11;108
+r;12554837;32528;386633;11;108
+r;12558725;32528;385645;11;108
+r;12705753;32528;349372;11;108
+r;12554841;32528;386632;11;109
+r;12554821;32528;386637;11;110
+r;12554833;32528;386634;11;110
+r;12554849;32528;386630;11;110
+r;12554905;32528;386616;11;110
+r;12554917;32528;386613;11;110
+r;12554947;32528;386605;11;110
+r;12554959;32528;386602;11;110
+r;12730029;32528;343644;11;110
+r;11874635;32528;25703;11;121
+r;11849705;32528;277997;11;122
+r;11859736;32528;126526;11;122
+r;8690868;32528;218070;11;160
+r;8694537;32528;223767;11;160
+r;8630911;32528;167501;11;161
+r;8680603;32528;207694;11;161
+r;8681170;32528;207994;11;161
+r;8682653;32528;208879;11;161
+r;8686126;32528;211062;11;161
+r;8687069;32528;211745;11;161
+r;8687159;32528;211820;11;161
+r;8696652;32528;227090;11;161
+r;8730717;32528;263513;11;161
+r;8730721;32528;263566;11;161
+r;8577790;32528;23738;11;162
+r;8583494;32528;40568;11;162
+r;8598734;32528;84725;11;162
+r;8608584;32528;112143;11;162
+r;8609051;32528;113443;11;162
+r;8610315;32528;116939;11;162
+r;8629555;32528;165334;11;162
+r;8677671;32528;205923;11;162
+r;8683230;32528;209214;11;162
+r;8683234;32528;209215;11;162
+r;8684162;32528;209740;11;162
+r;8684164;32528;209741;11;162
+r;8684165;32528;209742;11;162
+r;8684167;32528;209743;11;162
+r;8684168;32528;209744;11;162
+r;8684170;32528;209745;11;162
+r;8684172;32528;209746;11;162
+r;8690112;32528;216011;11;162
+r;8771852;32528;306013;11;162
+r;8594385;32528;72058;11;163
+r;8595202;32528;74518;11;163
+r;8596305;32528;77824;11;163
+r;8596969;32528;79619;11;163
+r;8614444;32528;128680;11;163
+r;8619568;32528;140224;11;163
+r;8620379;32528;141956;11;163
+r;8622756;32528;152348;11;163
+r;8624064;32528;154685;11;163
+r;8624245;32528;155000;11;163
+r;8625022;32528;156318;11;163
+r;8626023;32528;158953;11;163
+r;8643979;32528;184742;11;163
+r;8643980;32528;184743;11;163
+r;8643982;32528;184744;11;163
+r;8643983;32528;184745;11;163
+r;8643984;32528;184746;11;163
+r;8643985;32528;184747;11;163
+r;8643986;32528;184748;11;163
+r;8647128;32528;186580;11;163
+r;8673591;32528;203435;11;163
+r;8677064;32528;205534;11;163
+r;8733327;32528;265651;11;163
+r;8733329;32528;265652;11;163
+r;8740994;32528;273243;11;163
+r;8743526;32528;275618;11;163
+r;8745951;32528;278241;11;163
+r;8749174;32528;281833;11;163
+r;8751393;32528;284265;11;163
+r;8753246;32528;286054;11;163
+r;8764875;32528;297964;11;163
+r;8767331;32528;300673;11;163
+r;8770656;32528;304383;11;163
+r;8578906;32528;26854;11;164
+r;8616412;32528;134212;11;164
+r;8616653;32528;134782;11;164
+r;8647783;32528;186947;11;164
+r;8653608;32528;191251;11;164
+r;8661350;32528;196390;11;164
+r;8662428;32528;196852;11;164
+r;8663519;32528;197518;11;164
+r;8663600;32528;197575;11;164
+r;8666689;32528;199461;11;164
+r;8668869;32528;200618;11;164
+r;8669142;32528;200740;11;164
+r;8670610;32528;201579;11;164
+r;8576560;32528;20119;11;165
+r;8665573;32528;198745;11;165
+r;8665578;32528;198747;11;165
+r;8669202;32528;200767;11;165
+r;8572142;32528;6530;11;168

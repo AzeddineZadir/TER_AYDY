@@ -1,0 +1,1579 @@
+
+e;143703;'feu';1;3710
+e;6290851;'arme à feu modifiée';1;0
+e;6309516;'sonneur à ventre de feu';1;0
+e;6290930;'venins de fourmi de feu';1;0
+e;6296347;'arme à feu artisanale';1;0
+e;6320987;'noyade et submersion due à chute ou saut d'un bateau en feu ou fracassé';1;0
+e;6339540;'plaies par arme à feu';1;0
+e;6343062;'objet mis en mouvement par une arme à feu';1;0
+e;6369495;'plaies faites par une arme a feu';1;0
+e;6380758;'coonhound noir et feu';1;0
+e;6386364;'venins de fourmi de feu rouge';1;0
+e;6404921;'arme à feu automatique';1;0
+e;12201635;'fourmi de feu noir';1;0
+e;12152871;'mesure de fourmi de feu noir ac ige';1;0
+e;12143886;'mesure de d-dimères feu et ddu panel';1;0
+e;12143882;'mesure de d-dimères feu';1;0
+e;12980451;'passer sur le feu';1;0
+e;6361337;'mort par le feu';1;0
+e;13596667;'La Petite Catherine de Heilbronn ou l'Épreuve du feu';777;0
+e;14028452;'feu électrique/carburant';1;0
+e;14114572;'Signe feu';777;0
+e;14140045;'Taureaux de feu de Limoges';777;0
+e;14159644;'avoir plusieurs fers au feu';1;0
+e;14159563;'arrêter le feu';1;0
+e;14484828;'coupe de feu';777;0
+e;14538692;'écologie du feu';1;0
+e;14558514;'partie postérieure d'une arme à feu';777;0
+e;14627084;'sélecteur de feu';1;0
+e;14632321;'mise à feu électrique';1;0
+e;14632718;'homicides par arme à feu';1;0
+e;14632719;'homicide par arme à feu';1;0
+e;14654746;'suicides par armes à feu';1;0
+e;14654747;'suicide par arme à feu';1;0
+e;14665166;'feu souterrain';1;0
+e;14759919;'mois du rat de feu';777;0
+e;14766815;'coq de feu';777;0
+e;14766818;'année du coq de feu';777;0
+e;14772978;'année du singe de feu';777;0
+e;14773815;'mois du cochon de feu';777;0
+e;14774436;'feu ennemi';1;0
+e;14775493;'mois du chien de feu';777;0
+e;14775488;'chien de feu';777;0
+e;14776680;'mois du buffle de feu';777;0
+e;14780957;'année du tigre de feu';777;0
+e;14883758;'attaque au feu';777;0
+e;15419955;'mettre le feu à [qch]';1;0
+e;15462261;'oursin de feu';777;0
+e;6320054;'intoxication par le monoxyde de carbone provenant d'un feu';1;0
+e;15014962;'cracheurs de feu';1;0
+e;16308360;'réelle alternative au feu';777;0
+e;16326000;'pompe à feu de Chaillot';777;0
+e;16385132;'mettre la main au feu';1;0
+e;16553577;'transformation par l'action du feu';1;0
+e;16553603;'feu couvant';777;0
+e;5790610;'coraux de feu';777;0
+e;6433107;'fait de guerre impliquant le tir d'armes à feu et autres moyens de type classique';1;0
+e;6431666;'intervention de la force publique impliquant l'usage d'armes à feu';1;0
+e;6315628;'érythème dû au feu';1;0
+e;6317078;'éclats de verre dus à une explosion ou à la décharge d'une arme à feu';1;0
+e;6363877;'perroquet feu';1;0
+e;6385708;'feu dans fourneau';1;0
+e;6406685;'poudre à feu';1;0
+e;6413218;'feu dans cheminée';1;0
+e;14529852;'feu de poubelle';1;0
+e;14530427;'crier au feu';1;0
+e;14532362;'faire un feu';1;24
+e;14532365;'attiser le feu';1;0
+e;14535581;'petit feu';1;0
+e;14609420;'avoir des jambes de feu';1;2
+e;14730147;'être en feu';1;0
+e;15038343;'avaleuse de feu';1;0
+e;15463600;'retirer les marrons du feu';1;0
+e;10674898;'Femme de feu';777;0
+e;12096494;'fourmi de feu noir ac ige';1;0
+e;6087851;'Le Trône de feu';777;0
+e;6434747;'brûlure par poudre d'arme à feu';1;0
+e;10730365;'Les Rues de feu';777;0
+e;6088509;'glace de feu';777;0
+e;6436484;'contusion circulaire de projectile d'arme à feu';1;0
+e;12109846;'fourmi de feu noir ag';1;0
+e;13013514;'crosse d'arme à feu';1;0
+e;16354782;'dalle de feu';777;0
+e;6443563;'plaie par projectile d'arme à feu';1;0
+e;9987380;'Fille de feu';777;0
+e;11028660;'feu havane';777;0
+e;11030399;'arme à feu individuelle';1;0
+e;15211358;'coupe feu';1;0
+e;15417318;'cuit au feu de bois';1;0
+e;15355345;'dans le feu de la campagne électorale';1;0
+e;15359982;'des salves rageuses, entrecoupées de coups de feu isolés';1;0
+e;15339729;'donnant le feu vert';1;0
+e;15786768;'donner le feu vert à';1;0
+e;15419921;'donner le feu vert à [qch]';1;0
+e;15419919;'donner le feu vert à [qqn]';1;0
+e;15339718;'donner le feu vert à qch/qn';1;0
+e;15339722;'donner le feu vert à qn';1;0
+e;15339725;'donner le feu vert à qn/qch';1;0
+e;15786767;'donner le feu vert à quelqu'un';1;0
+e;15786770;'donner le feu vert à quelque chose';1;0
+e;15288615;'donner le feu vert, valider, donner le coup d'envoi, lancer, donner le signal du départ, donner une approbation';1;0
+e;15339714;'donner son feu vert à qch';1;0
+e;15252147;'dragon cracheur de feu';1;0
+e;5828497;'cidre de feu';777;0
+e;6072170;'Tonnerre de feu';777;0
+e;6069025;'corail de feu branchu';777;0
+e;6432359;'frappé par une décharge d'arme à feu';1;0
+e;6752141;'jumeau à pot au feu';1;0
+e;10007282;'Porky combattant du feu';777;0
+e;9997784;'Nuits de feu';777;0
+e;10915994;'coalition en feu tricolore';777;0
+e;11068989;'terrier d'agrément anglais noir et feu';777;0
+e;11781525;'Les Portes de feu';777;0
+e;15419914;'cracheuse de feu';1;0
+e;15225280;'commander le feu';1;0
+e;15398992;'construction en feu';1;0
+e;15370472;'coup de feu d'essai';1;0
+e;15370470;'coup de feu du réglage';1;0
+e;2403587;'croix-de-feu';1;0
+e;2419467;'toque-feu';1;0
+e;2438823;'cure-feu';1;0
+e;5560944;'reconnaissance-feu';1;0
+e;5564587;'Les Insectes de feu';777;0
+e;5673506;'Pic à ventre de feu';777;0
+e;5672629;'Métallure à gorge feu';777;0
+e;5679005;'concepteur d'armes à feu';1;0
+e;5829248;'table à feu';777;0
+e;5816980;'techniques de production de feu';777;0
+e;5835793;'liane de feu';777;0
+e;6432204;'abrasion circulaire de projectile d'arme à feu';1;0
+e;10009703;'Construire un feu';777;0
+e;10007756;'Kansas en feu';777;0
+e;10921500;'La Nuit de feu';777;0
+e;10992070;'un feu ou signal lumineux';777;0
+e;11068990;'toy terrier anglais noir et feu';777;0
+e;15490394;'autorisation de feu';1;0
+e;15233304;'autorisation de port d'arme à feu';1;0
+e;15353986;'avaleur du feu';1;0
+e;15397096;'avoir le dos au feu et le ventre à table';1;0
+e;15419894;'avoir le feu vert';1;0
+e;15419903;'avoir un tempérament de feu';1;0
+e;15581600;'ayant plusieurs fers au feu';1;0
+e;15233311;'bouche de l'arme à feu';1;0
+e;15270442;'c'est l'étincelle qui a mis le feu aux poudres';1;0
+e;15500541;'cabochon de feu arrière';1;0
+e;2381921;'toc-feu';1;0
+e;5827543;'projectile d'arme à feu';1;0
+e;15692274;'bande originale du film Les Chariots de feu';777;0
+e;8012818;'autour du feu';1;0
+e;10959230;'feu fiscal';777;0
+e;11826696;'grand feu de Hull';777;0
+e;12094898;'d-dimères feu et ddu panel';1;0
+e;12094897;'d-dimères feu';1;0
+e;15233297;'arme à feu à répétition';1;0
+e;5884401;'cortinaire à pied de feu';777;0
+e;5920626;'Nymphe au corps de feu';777;0
+e;5942718;'dépilage au feu';777;0
+e;6068217;'croix de feu';777;0
+e;6068154;'domestication du feu par les premiers hommes';777;0
+e;6068153;'maîtrise du feu par les premiers hommes';777;0
+e;6067893;'feu de Tarerach';777;0
+e;6067838;'permis feu';777;0
+e;6067773;'ouragan de feu';777;0
+e;6067772;'tempête de feu';777;0
+e;6067170;'feu de forêt expérimental';777;0
+e;10746801;'Un signe de feu';777;0
+e;10850246;'Mer de feu de Bandung';777;0
+e;10935251;'Le Règne du feu';777;0
+e;11080778;'saint feu';777;0
+e;6291655;'arme à feu semi-automatique';1;0
+e;14631244;'appui-feu';1;0
+e;16171443;'Le feu d'artifice de Luthor';777;0
+e;15370476;'Nous avons entendu un seul coup de feu.';1;0
+e;15571743;'Nous nous sommes groupés autour du feu.';1;0
+e;15686345;'Ryô de l'Étoile céleste du feu';777;0
+e;15549623;'Résistance au feu';1;0
+e;15271739;'Sage envol et feu';1;0
+e;15231321;'Un feu brûlait dans l'âtre.';1;0
+e;15315485;'Un feu nourri accueillit les envahisseurs.';1;0
+e;200942;'feux de route';1;60
+e;5942721;'ouverture par le feu';777;0
+e;6067926;'immole par le feu';777;0
+e;6431514;'projections de feu d'artifice';1;0
+e;10866632;'tirer des coups de feu';1;0
+e;11831569;'cérémonie du feu nouveau';777;0
+e;12007696;'mise à feu statique';1;0
+e;12079960;'mise à feu interétage';1;0
+e;12078995;'feu jaune clignotant';1;0
+e;12078994;'feu girateur';1;0
+e;12078218;'coupeur de feu';1;0
+e;15985557;'Un feu sur l'abîme par Vernor Vinge';777;0
+e;15197993;'Les soldats ont fait feu sans qu'on les ait provoqués.';1;0
+e;15197991;'Les soldats ont ouvert le feu sans sommation.';1;0
+e;16307687;'L'Épreuve du feu par Pat Cadigan';777;0
+e;5835603;'Conspiration des cellules de feu';1;0
+e;6066496;'résistance au feu';777;0
+e;10328210;'Coup de feu au matin';777;0
+e;12080627;'piège à feu';1;0
+e;15785672;'Les universités ont été sous le feu des projecteurs ces derniers temps.';1;0
+e;15284805;'Le feu est passé au rouge.';1;0
+e;15206387;'Le feu s'est déclaré dans la cantine.';1;0
+e;15345243;'Le feu s'est propagé rapidement.';1;0
+e;5893974;'La Source de feu';777;0
+e;5900015;'poisson de feu';777;0
+e;6066495;'réaction au feu';777;0
+e;9938224;'créature de feu';1;0
+e;10821862;'Au feu les pompiers !';777;0
+e;10790984;'Le Fleuve de feu';777;0
+e;10998698;'passer au feu rouge';1;0
+e;11834611;'accessoires de jonglerie de feu';1;0
+e;5945508;'Le Cheval de feu';777;0
+e;10194895;'La Part du feu';777;0
+e;10194188;'Coups de feu dans la Sierra';777;0
+e;10343438;'Le Feu par le feu';777;0
+e;10779009;'Cessez le feu';777;0
+e;10778632;'Les Vendanges de feu';777;0
+e;11363431;'fête du feu';777;0
+e;15231261;'combattre le feu par le feu';1;0
+e;10063749;'registre canadien des armes à feu';777;0
+e;10347766;'Terre de feu';777;0
+e;6004304;'la ceinture de feu';777;0
+e;10189752;'Les Oiseaux de feu';777;0
+e;10518364;'Dialogue de feu';777;0
+e;11002998;'boules de feu des Nâgas';777;0
+e;11250054;'recul d'une arme à feu';777;0
+e;12052808;'utiliser des armes à feu';1;0
+e;2390767;'faire feu des quatre pattes';1;0
+e;5900011;'gobie de feu';777;0
+e;5942703;'feu de mine';777;0
+e;5940337;'feu directionnel';777;0
+e;6526653;'armes à feu et munitions';1;0
+e;10508905;'Le Jour où la Terre prit feu';777;0
+e;11102386;'feu de Saint-Pol';777;0
+e;11155279;'Adonis couleur de feu';777;0
+e;11254033;'camion citerne en feu';1;0
+e;11254031;'véhicule en feu';1;0
+e;11253924;'camion en feu';1;0
+e;2397610;'marcher du feu de Dieu';1;0
+e;2423250;'gravé en lettres de feu';1;0
+e;4277898;'aile-de-feu';1;0
+e;5566242;'partie d'une arme à feu';1;0
+e;5625698;'armes à feu médiévales';777;0
+e;5623395;'feu de l'Etna';777;0
+e;6066382;'feu de véhicule';777;0
+e;10097924;'Le Dragon du lac de feu';777;0
+e;10498633;'L'Homme en feu';777;0
+e;10822417;'cédez-le-passage cycliste au feu';777;0
+e;11178533;'À feu et à cendres';777;0
+e;11254117;'blessé par arme à feu';1;0
+e;11254032;'bus en feu';1;0
+e;11385257;'petite fourmi de feu';777;0
+e;11972441;'L'Eau de feu';777;0
+e;2446201;'feu de croisement';1;0
+e;2470494;'faire feu des quatre pieds';1;0
+e;5538054;'L'Archipel en feu';777;0
+e;5625569;'Le contrôle des armes à feu en France';777;0
+e;5625510;'contrôle des armes à feu';777;0
+e;5672204;'Martin-chasseur à dos de feu';777;0
+e;5943269;'feu à secteurs';777;0
+e;10178278;'De l'huile sur le feu';777;0
+e;10185104;'Coup de feu à l'aube';777;0
+e;11317395;'feu rouge clignotant';777;0
+e;2383869;'racine de feu';1;0
+e;5942853;'feu à occultations';777;0
+e;5942702;'feu de mine de charbon';777;0
+e;5993309;'chemise à feu';777;0
+e;6002853;'La Maitrise du feu';777;0
+e;10137376;'La Coupe de feu';777;0
+e;10161996;'Dame de feu';777;0
+e;10160948;'Une colonne de feu';777;0
+e;10160021;'La Danse du feu';777;0
+e;13339516;'altération par le feu';1;0
+e;2392139;'feu sacré de Saint Antoine';1;0
+e;2419691;'chien noir et feu pour la chasse au raton laveur';1;0
+e;5624902;'Pompe à feu de Chaillot';777;0
+e;5942705;'feu de vieux travaux';777;0
+e;5982565;'Prométhée ou le Poème du feu';777;0
+e;6008135;'galaxie du feu d'artifice';777;0
+e;6066381;'lecture du feu';777;0
+e;6529027;'mangeur de feu';777;0
+e;10143084;'Tom et Jerry au feu d'artifice';777;0
+e;10142095;'temple du feu';777;0
+e;5942720;'abattage par le feu';777;0
+e;11933353;'Prix Hugo du meilleur romanex-æquo avec Un feu sur l'abîme par Vernor Vinge';777;0
+e;14746720;'La Guerre du feu de Jean-Jacques Annaud';777;0
+e;2447342;'opale de feu';1;0
+e;2463685;'signe de feu';1;0
+e;6017472;'feu du Remblai';777;0
+e;15569223;'La Neige et le feu';1;0
+e;6066441;'Société de protection des forêts contre le feu';777;0
+e;8568734;'feu de mât';1;0
+e;8568732;'feu de recul';1;0
+e;8737177;'soldats du feu';1;0
+e;8737166;'attiser un feu';1;0
+e;8751194;'tirer avec une arme à feu';1;0
+e;8796629;'marcher du feu de dieu';1;0
+e;8867374;'feu de garrigue';1;0
+e;8867373;'feu de garrigues';1;0
+e;9101956;'le pot au feu de poté';1;0
+e;9446871;'feu trop vif';1;0
+e;9614479;'Coups de feu';777;0
+e;9696106;'bruit d'un feu qui crépite';1;0
+e;9696101;'bruit du feu qui crépite';1;0
+e;12616603;'bâton de feu';777;0
+e;12620149;'feu à bord';1;0
+e;12620077;'moteur en feu';1;0
+e;12686336;'maitrisant le feu';1;0
+e;12686334;'maitrisant la taille des pierres et le feu';1;0
+e;12696850;'L'Oeil de feu';777;0
+e;12716492;'lexique des armes à feu';777;0
+e;12711336;'L'Âge du feu';777;0
+e;13797810;'31 armes à feu et munitions';1;0
+e;13760251;'310 armes à feu';1;0
+e;14548245;'Katon - Technique suprême de la boule de feu';777;0
+e;14636052;'Dégradation par le feu';777;0
+e;15214910;'Faire chauffer à feu doux pendant cinq minutes.';1;0
+e;15370474;'J'ai entendu un coup de feu.';1;0
+e;15364703;'J'ai ramassé des bouts de bois pour allumer le feu.';1;0
+e;15328686;'Ils ont allumé un feu dans la cheminée.';1;0
+e;14502918;'Cercle de feu';777;0
+e;15419889;'Au feu !';1;0
+e;15287326;'Il a fait du feu pour se réchauffer.';1;0
+e;15218868;'Je vais me réchauffer près du feu.';1;0
+e;15685942;'Avez-vous du feu ?';1;0
+e;15358436;'L'armée a répondu avec des coups de feu et des gaz lacrymogènes.';1;0
+e;16072158;'Arme à feu';1;0
+e;1746850;'rester au coin du feu';1;0
+e;1822771;'pneumonie des cracheurs de feu';1;0
+e;2355236;'à feu fort';1;0
+e;2516133;'tout feu tout flammes';1;0
+e;2929087;'En lettres de feu';777;0
+e;3836908;'adonis couleur de feu';1;0
+e;4891683;'grande puissance de feu';1;0
+e;1976361;'à feu moyen';1;0
+e;2339486;'feu très vif';1;0
+e;2526678;'brachet noir et feu';1;0
+e;2408054;'salamandre de feu';1;0
+e;3367331;'pot au feu aux pois chiches, cocido';1;0
+e;3744820;'pot au feu de poisson';1;0
+e;4903007;'métallure à gorge feu';1;0
+e;5094712;'Du feu dans les veines';777;0
+e;5355866;'cracheurs du feu';1;0
+e;1783631;'cesser le feu';1;0
+e;1973350;'remettre sur le feu';1;0
+e;2484187;'bois de feu';1;0
+e;3225516;'Il n'y a pas de fumée sans feu';777;0
+e;3301438;'blessure par arme à feu';1;0
+e;3352702;'Mise à feu';777;0
+e;3368161;'restes de pot au feu mijoté';1;0
+e;3367338;'pot au feu oriental au couscous';1;0
+e;3367333;'pot au feu de canard';1;0
+e;3692788;'allumer le feu';1;6
+e;5246463;'faire un feu de cheminée';1;16
+e;580048;'La Bataille du feu';777;0
+e;589330;'sur feu doux';1;0
+e;589337;'sur feu très vif';1;0
+e;1969372;'à feu très doux';1;0
+e;1969833;'baisser le feu';1;0
+e;1975867;'à feu très vif';1;0
+e;2324405;'Coupe-feu';1;0
+e;2340430;'lait sur le feu';1;0
+e;2355962;'couper le feu';1;2
+e;2555700;'terrier noir et feu';1;0
+e;3183495;'À feu et à sang';777;0
+e;5315687;'Sur la ligne de feu';777;0
+e;5521675;'système de réarmement des armes à feu';1;0
+e;566249;'herbe de feu';777;50
+e;589047;'au coin du feu';1;30
+e;2356013;'sur feu léger';1;0
+e;2535838;'faire feu des deux fuseaux';1;0
+e;2531366;'y a pas le feu au lac';1;0
+e;4317024;'mise à feu des moteurs';1;0
+e;589329;'sur feu moyen';1;0
+e;589331;'sur feu vif';1;0
+e;1704072;'mur coupe-feu';1;0
+e;1971798;'hors du feu';1;0
+e;2554918;'crisser le feu';1;0
+e;2532188;'cuisiner à petit feu';1;0
+e;2537646;'serre-feu';1;0
+e;2644734;'lèvres en feu';1;0
+e;3385279;'plaie par arme à feu';1;0
+e;5943270;'feu de guidage';777;0
+e;566878;'feu de circulation routière';777;50
+e;1783667;'éteindre un feu';1;0
+e;1971804;'retirer du feu';1;0
+e;2356014;'sur feu fort';1;0
+e;2565636;'le bois tordu fait le feu droit';1;0
+e;2560504;'un feu à rôtir un boeuf';1;0
+e;2522001;'feu de bengale';1;0
+e;2510253;'soldate du feu';1;0
+e;3174592;'À l'épreuve du feu';777;0
+e;3371281;'terrine de pot au feu froid';1;0
+e;3752929;'boeuf à pot au feu';1;0
+e;3828823;'feu du rasoir';1;0
+e;1014718;'droit de faire du feu';1;0
+e;1684107;'Fourmi de feu';666;0
+e;1798985;'propagation rapide du feu';1;0
+e;1971905;'feu très doux';1;0
+e;2561912;'porcelaine à feu';1;0
+e;2559608;'le feu lui sort par les yeux';1;0
+e;3175279;'voiture en feu';1;0
+e;3178358;'munition d'arme à feu';1;0
+e;3290668;'coups de feu';1;6
+e;3318437;'paëlla géante cuite au feu de bois';1;0
+e;3367330;'pot au feu au foie gras';1;0
+e;3568822;'Par le fer et par le feu';777;0
+e;3692925;'Allumer le feu';777;0
+e;3743750;'le pot au feu de Poté';1;0
+e;3755100;'filets de magrets de canards du sud ouest séchés au feu de bois';1;0
+e;3855052;'feu courant';1;0
+e;2349285;'porte-feu';1;0
+e;2352624;'barres de feu';777;0
+e;2360659;'pot à feu';1;0
+e;2553168;'feu de plancher';1;0
+e;2529477;'tourbillon de feu';1;0
+e;2514830;'brachet autrichien noir et feu';1;0
+e;3178828;'brûler un feu rouge';1;46
+e;3267134;'mettre sous le feu des projecteurs';1;0
+e;3564385;'Couvre-feu';777;0
+e;5339010;'au feu !';1;0
+e;5489900;'invention du feu';1;0
+e;658092;'mur de feu';777;0
+e;658093;'Le Coupe-feu';777;0
+e;1668628;'moyen de faire du feu';1;0
+e;1730968;'anti-feu';1;0
+e;2566468;'surveiller comme le lait sur le feu';1;0
+e;2594175;'panier à feu';1;0
+e;2604915;'à feu d'argent';1;0
+e;2605431;'c'est le feu et l'eau';1;0
+e;3178827;'griller un feu rouge';1;2
+e;3169364;'Tête-de-feu';1;0
+e;3169787;'Ligne de feu';777;0
+e;3172283;'Boule de feu';777;0
+e;3171639;'têtes-de-feu';1;0
+e;1897732;'tout feu, tout flamme';1;0
+e;2923711;'fourmi de feu';777;0
+e;2950799;'assassinat par arme à feu';1;0
+e;1841762;'pneumopathie des cracheurs de feu';1;0
+e;2937975;'au feu rouge';1;0
+e;3167670;'oeil-de-feu';1;0
+e;389132;'âme de feu';1;50
+e;383174;'tempérament de feu';1;50
+e;353877;'feu catalan';1;50
+e;353799;'feu roulant';1;50
+e;353779;'feu céleste';1;50
+e;353778;'feu continu';1;50
+e;342056;'causerie au coin du feu';1;50
+e;338064;'azur de deuxième feu';1;50
+e;7237;'pare-feu';1;60
+e;353785;'feu de sarments';1;50
+e;340060;'bouton de feu';1;50
+e;337809;'avaleur de feu';1;50
+e;103745;'contre-feu';1;50
+e;393480;'Coups de feu sur Broadway';1;50
+e;388089;'zone de feu';1;50
+e;381899;'sur le feu';1;50
+e;380872;'sous un feu nourri de questions';1;50
+e;367243;'oiseau de feu';1;50
+e;365766;'mécanisme de mise à feu';1;50
+e;361563;'ligne de cessez-le-feu';1;50
+e;353794;'feu naissant';1;50
+e;350854;'en lettres de feu';1;50
+e;349164;'déluge de feu';1;50
+e;348156;'dorure au feu';1;50
+e;342509;'cessez-le feu unilatéral';1;50
+e;386407;'vente de feu';1;50
+e;358586;'immolation par le feu';1;50
+e;353887;'feu japonais';1;50
+e;353777;'feu bactérien';1;50
+e;337368;'au feu de bois';1;52
+e;374490;'purification par le feu';1;50
+e;372739;'premiers coups de feu';1;50
+e;353789;'feu dévorant';1;50
+e;353786;'feu de stop';1;50
+e;345610;'cuisson à feu doux';1;50
+e;344046;'coin du feu';1;50
+e;340769;'bête à feu';1;50
+e;338678;'base de feu';1;50
+e;380767;'sous le feu de';1;50
+e;371823;'pompe à feu';1;50
+e;360057;'jet de feu';1;50
+e;353801;'feu tournant';1;50
+e;353796;'feu nucléaire';1;50
+e;353795;'feu nouveau';1;50
+e;353791;'feu indicateur de position';1;50
+e;353788;'feu du rasage';1;50
+e;353782;'feu de brindilles';1;50
+e;349163;'déluge de fer et de feu';1;50
+e;346639;'dard à feu';1;50
+e;344976;'couteau à feu';1;50
+e;343685;'chien noir et feu';1;50
+e;336001;'appui feu';1;50
+e;377438;'réchaud à feu';1;50
+e;353886;'feu indien';1;50
+e;353802;'feu à éclats';1;50
+e;353798;'feu rouge fixe';1;50
+e;353797;'feu oxydant';1;50
+e;353784;'feu de bruyères';1;50
+e;353780;'feu d'enfer';1;50
+e;353776;'feu arrière droit';1;50
+e;333181;'accord de cessez-le-feu';1;50
+e;380768;'sous le feu de l'ennemi';1;50
+e;374730;'pêche au feu';1;50
+e;362362;'lutte contre le feu';1;50
+e;361241;'lettres de feu';1;50
+e;353800;'feu roulant de questions';1;50
+e;353790;'feu en rafales';1;50
+e;353783;'feu de brouillard avant';1;50
+e;353781;'feu de braises';1;50
+e;346323;'dans le feu de';1;50
+e;340171;'boîte à feu';1;50
+e;336690;'arts du feu';1;50
+e;389379;'école à feu';1;50
+e;374755;'pêcheur au feu';1;50
+e;353885;'feu indicateur de direction droit';1;50
+e;353884;'feu errant';1;50
+e;353881;'feu de foyer';1;50
+e;353876;'feu arrière gauche';1;50
+e;353793;'feu jaune';1;50
+e;353787;'feu de végétation';1;50
+e;349596;'détecteur de feu';1;50
+e;343368;'chef de feu';1;50
+e;393218;'Les Chariots de feu';1;50
+e;389177;'échange de coups de feu';1;50
+e;368826;'part du feu';1;50
+e;356121;'gerbe de feu';1;50
+e;353792;'feu intérieur';1;50
+e;346324;'dans le feu de la bagarre';1;50
+e;345611;'cuisson à feu vif';1;50
+e;100253;'pique-feu';1;50
+e;67056;'pot-au-feu';1;212
+e;18814;'bateau-feu';1;50
+e;168135;'tête-de-feu';1;50
+e;155444;'feu-follet';1;54
+e;124662;'coin-de-feu';1;50
+e;120863;'tire-feu';1;50
+e;109210;'garde-feu';1;50
+e;103862;'allume-feu';1;88
+e;66389;'cessez-le-feu';1;66
+e;102131;'couvre-feu';1;52
+e;314156;'boute-feu';1;50
+e;104818;'coupe-feu';1;50
+e;280219;'pluie de feu';777;50
+e;324280;'horloge à feu';1;50
+e;329479;'feu de paillasson';1;50
+e;107910;'Prométhée porte-feu';1;50
+e;181673;'compartiment coupe-feu';1;50
+e;183802;'porte coupe-feu';1;54
+e;194892;'tête-de-feu pelucheux';1;50
+e;202424;'jumeau à pot-au-feu';1;50
+e;194389;'pépoaza oeil-de-feu';1;50
+e;196903;'bavette à pot-au-feu';1;50
+e;314098;'domestication du feu';1;50
+e;229135;'plein de feu';1;50
+e;230628;'s'immoler par le feu';1;50
+e;249382;'La Guerre du feu';666;50
+e;253021;'tirer un coup de feu';1;52
+e;259967;'à feu vif';1;6
+e;253369;'à feu doux';1;84
+e;121184;'la Guerre du feu';1;50
+e;210777;'être dans le feu de l'action';1;50
+e;210854;'faute de bois le feu s'éteint';1;50
+e;210972;'il n'est feu que de bois vert';1;50
+e;211295;'n'avoir ni feu ni lieu';1;50
+e;216270;'feu de Bengale';1;30
+e;219104;'pot au feu';1;54
+e;224942;'départ de feu';1;28
+e;228931;'feu au cul';1;16
+e;230132;'feu violent';1;50
+e;230370;'boule de feu';666;50
+e;230471;'feu de Saint-Elme';1;50
+e;234958;'art du feu';1;50
+e;235311;'feu de broussaille';1;50
+e;236021;'radar feu rouge';1;8
+e;239696;'feu de navigation';1;50
+e;241091;'cracher du feu';1;52
+e;249315;'cuire à petit feu';1;50
+e;249316;'cuire à feu doux';1;2
+e;250034;'mourir à petit feu';1;50
+e;253367;'avoir le feu sacré';1;50
+e;253368;'feu de mouillage';1;50
+e;253372;'feu de la saint-Jean';1;52
+e;253952;'griller un feu';1;8
+e;253953;'brûler un feu';1;50
+e;256262;'faire un petit feu';1;52
+e;256810;'à l'épreuve du feu';1;50
+e;257745;'maîtrise du feu';1;50
+e;257746;'découverte du feu';1;50
+e;259240;'feu de frein';1;8
+e;261386;'mouche à feu';1;50
+e;261564;'missions d'appui feu';1;50
+e;261565;'mission d'appui feu';1;50
+e;262159;'avoir du feu';1;56
+e;262160;'demander du feu';1;50
+e;262197;'balle d'arme à feu';1;50
+e;234648;'faire du feu';1;74
+e;164297;'à feu et à sang';1;60
+e;29358;'La Psychanalyse du feu';1;50
+e;47588;'de feu';1;50
+e;57828;'destruction par le feu';1;50
+e;59962;'mettre le feu aux poudres';1;52
+e;74030;'par le fer et par le feu';1;50
+e;108333;'Naples au baiser de feu';1;50
+e;116816;'Chanson du feu follet';1;50
+e;140497;'L'Oiseau de feu';1;50
+e;141396;'les Chevaux de feu';1;50
+e;154243;'pas de fumée sans feu';1;66
+e;155148;'à feu';1;56
+e;164532;'déesse du feu';1;56
+e;165552;'il n'y a pas de fumée sans feu';1;56
+e;226374;'dans le feu de l'action';1;50
+e;171456;'du feu de Dieu';1;6
+e;184644;'un feu à rôtir un buf';1;50
+e;202739;'le feu de la conversation';1;50
+e;207305;'rouge feu';1;56
+e;208218;'signes de feu';1;50
+e;208581;'supplice du feu';1;50
+e;209070;'tir aux armes à feu';1;50
+e;210982;'il n'y a pas le feu';1;50
+e;212909;'feu vif';1;50
+e;214057;'pièce d'arme à feu';1;4
+e;228623;'feu doux';1;10
+e;252640;'donner son feu vert';1;50
+e;253370;'feu de brousse';1;50
+e;253373;'avoir le feu aux fesses';1;50
+e;253375;'feu avant';1;50
+e;253376;'feu antibrouillard';1;50
+e;262161;'donner du feu';1;50
+e;263942;'cuire à feu vif';1;52
+e;307266;'ceinture de feu du Pacifique';777;50
+e;105884;'arme à feu';1;468
+e;35753;'Réflexions sur la puissance motrice du feu';1;50
+e;36324;'puissance de feu';1;50
+e;37009;'essuyer un feu roulant';1;50
+e;46433;'Réflexions sur la puissance motrice du feu et sur les machines propres à développer cette puissance';1;50
+e;53897;'Filles du feu';1;50
+e;69380;'feu de Zeus';1;50
+e;69776;'Histoire des années de feu';1;50
+e;77111;'Les Chevaux de feu';1;50
+e;80935;'feu sacré';1;50
+e;81075;'feu grégeois';1;50
+e;82249;'feu croisé';1;50
+e;84212;'Cuirassier blessé quittant le feu';1;56
+e;93757;'faire la part du feu';1;50
+e;99307;'Oiseau de feu';1;50
+e;100020;'avoir le feu au derrière';1;52
+e;100057;'Danse rituelle du feu';1;50
+e;123776;'feu éternel';1;50
+e;124693;'péter le feu';1;56
+e;127445;'feu de Dieu';1;50
+e;128047;'bouche à feu';1;52
+e;136791;'L'Huile sur le feu';1;50
+e;152025;'cracheur de feu';1;74
+e;152274;'il n'y a pas le feu au lac';1;54
+e;153676;'feu ardent';1;50
+e;156504;'faire feu';1;114
+e;164638;'grand feu';1;50
+e;174908;'chambre à feu';1;50
+e;175027;'pierre à feu';1;8
+e;180904;'armes à feu';1;6
+e;181017;'baptême du feu';1;50
+e;181059;'batte à feu';1;50
+e;182169;'eau de feu';1;50
+e;182309;'épreuve par le feu';1;50
+e;182431;'feu brisou';1;50
+e;182432;'feu de défilade';1;50
+e;182433;'feu fenian';1;50
+e;182434;'feu ouvert';1;50
+e;182435;'feu sauvage';1;50
+e;183598;'pêche à feu';1;50
+e;186584;'ne pas faire long feu';1;50
+e;186631;'n'y voir que du feu';1;50
+e;197354;'ceinture de feu';1;50
+e;201694;'halte au feu';1;50
+e;202314;'jeter feu et flamme';1;50
+e;202658;'langue de feu';1;50
+e;202667;'langues de feu';1;50
+e;203037;'ligne de feu';1;50
+e;203780;'mettre le feu à qqch';1;50
+e;203781;'mettre le feu aux étoupes';1;50
+e;203789;'mettre les fers au feu';1;50
+e;203802;'mettre sa main au feu que';1;50
+e;204881;'ouvrir le feu';1;54
+e;205657;'plat à feu';1;50
+e;205810;'pointe de feu';1;52
+e;216009;'feu de circulation';1;2
+e;266855;'feu moyen';1;56
+e;269896;'couleur feu';1;50
+e;270080;'noir et feu';1;50
+e;276921;'Sans feu ni lieu';777;50
+e;279495;'Les Filles du feu';777;4
+e;280060;'feu vert clignotant';777;50
+e;280662;'alarme à feu';777;50
+e;288687;'feu ami';777;50
+e;289297;'feu de signalisation lumineux';777;50
+e;292381;'feu de Saint-Antoine';777;50
+e;294264;'feu clignotant';777;56
+e;296732;'obtenir le feu vert';777;50
+e;304275;'perte au feu';777;50
+e;311024;'Harry Potter et la Coupe de feu';1;52
+e;154378;'feu de camp';1;146
+e;186001;'en mettre sa main au feu';1;50
+e;83726;'mise à feu';1;62
+e;27472;'soldat du feu';1;64
+e;29250;'Ton nom dans le feu des nuées';1;50
+e;44905;'feu vert';1;96
+e;45924;'feu du ciel';1;70
+e;87000;'faire long feu';1;50
+e;100040;'prendre feu';1;58
+e;138849;'De l'art du feu';1;50
+e;143208;'jeter de l'huile sur le feu';1;56
+e;155612;'feu de joie';1;88
+e;156110;'feu orange';1;54
+e;172440;'avoir le feu au cul';1;62
+e;182436;'feu tricolore';1;30
+e;185475;'aller au feu';1;50
+e;185579;'avoir la bouche en feu';1;50
+e;185635;'avoir le feu au plancher';1;50
+e;185660;'avoir les joues en feu';1;50
+e;185685;'avoir ni feu ni lieu';1;50
+e;185786;'bruler un feu';1;50
+e;185959;'donner le feu vert';1;50
+e;186195;'faire feu des quatre fers';1;50
+e;186196;'faire feu vif';1;50
+e;186389;'jouer avec le feu';1;20
+e;186515;'mettre à feu et à sang';1;50
+e;186932;'tirer du feu d'un caillou';1;50
+e;186944;'tirer les marrons du feu';1;52
+e;187282;'accoutumer un cheval au feu';1;50
+e;187627;'feu de signalisation';1;16
+e;194085;'perroquet à tête couleur de feu';1;50
+e;195893;'allumer un feu';1;56
+e;196406;'avec feu';1;50
+e;196590;'avoir le dos au feu';1;50
+e;196593;'avoir le feu au joues';1;50
+e;197019;'bois tortu fait le feu droit';1;50
+e;197399;'cercle de feu';1;50
+e;197417;'cessez le feu';1;50
+e;199266;'en feu';1;54
+e;199899;'être comme un feu follet';1;50
+e;200114;'être sous le feu des projecteurs';1;50
+e;200141;'être tout feu tout flamme';1;50
+e;267202;'éteindre le feu';1;50
+e;312172;'mèche de mise à feu';777;50
+e;23060;'mettre sa main au feu';1;50
+e;186194;'faire feu de tout bois';1;50
+e;186323;'foutre le feu';1;52
+e;197891;'conduite de feu';1;50
+e;198749;'discipline du feu';1;50
+e;199632;'épreuve du feu';1;50
+e;200450;'faire feu de tous bords';1;50
+e;200451;'faire feu sur';1;50
+e;200516;'faire le coup de feu';1;50
+e;200927;'feu à volonté';1;54
+e;200928;'feu de file';1;52
+e;200930;'feu de peloton';1;50
+e;200931;'feu de position';1;62
+e;200932;'feu de rang';1;50
+e;200933;'feu de salve';1;50
+e;200934;'feu nourri';1;50
+e;200929;'feu de la Saint-Jean';1;50
+e;2350;'sans feu ni lieu';1;50
+e;117260;'feu follet';1;72
+e;160823;'feu de paille';1;56
+e;97901;'feu de bois';1;104
+e;186474;'mettre de l'huile sur le feu';1;6
+e;152269;'feu rouge';1;164
+e;171204;'à petit feu';1;20
+e;253374;'feu arrière';1;2
+e;253380;'feu stop';1;2
+e;110109;'mettre le feu';1;174
+e;180951;'au feu';1;12
+e;154453;'feu de forêt';1;94
+e;136761;'feu d'artifice';1;186
+e;154063;'feu de cheminée';1;200
+e;159531;'coup de feu';1;98
+e;75251;'tout feu tout flamme';1;60
+r;310758363;143703;586702;11;23
+r;310758365;143703;592039;11;24
+r;254150025;143703;6290851;11;25
+r;288679290;143703;6309516;11;25
+r;298435783;143703;6290930;11;25
+r;298889781;143703;6296347;11;25
+r;300098930;143703;6320987;11;25
+r;301454538;143703;6339540;11;25
+r;301505193;143703;6343062;11;25
+r;302973148;143703;6369495;11;25
+r;303849474;143703;6380758;11;25
+r;304383290;143703;6386364;11;25
+r;305300974;143703;6404921;11;25
+r;310758364;143703;440183;11;25
+r;316544796;143703;12201635;11;25
+r;316716226;143703;12152871;11;25
+r;316745072;143703;12143886;11;25
+r;316745088;143703;12143882;11;25
+r;337350694;143703;12980451;11;25
+r;341138138;143703;6361337;11;25
+r;344431576;143703;13596667;11;25
+r;354192226;143703;14028452;11;25
+r;357508097;143703;14114572;11;25
+r;358818359;143703;14140045;11;25
+r;359709458;143703;14159644;11;25
+r;359717147;143703;14159563;11;25
+r;368071845;143703;14484828;11;25
+r;369486079;143703;14538692;11;25
+r;369966740;143703;14558514;11;25
+r;371532616;143703;14627084;11;25
+r;371690457;143703;14632321;11;25
+r;371698932;143703;14632718;11;25
+r;371698976;143703;14632719;11;25
+r;372582160;143703;14654746;11;25
+r;372582217;143703;14654747;11;25
+r;372855439;143703;14665166;11;25
+r;375208033;143703;14759919;11;25
+r;375328334;143703;14766815;11;25
+r;375355327;143703;14766818;11;25
+r;375470823;143703;14772978;11;25
+r;375480075;143703;14773815;11;25
+r;375485859;143703;14774436;11;25
+r;375507488;143703;14775493;11;25
+r;375519893;143703;14775488;11;25
+r;375525060;143703;14776680;11;25
+r;382306585;143703;14780957;11;25
+r;386041836;143703;14883758;11;25
+r;395271811;143703;15419955;11;25
+r;395565777;143703;15462261;11;25
+r;398943510;143703;6320054;11;25
+r;419750137;143703;15014962;11;25
+r;427945555;143703;16308360;11;25
+r;430861586;143703;16326000;11;25
+r;432805121;143703;16385132;11;25
+r;434914972;143703;16553577;11;25
+r;434919958;143703;16553603;11;25
+r;114457882;143703;5790610;11;26
+r;122669834;143703;6433107;11;26
+r;122682738;143703;6431666;11;26
+r;299664899;143703;6315628;11;26
+r;299783321;143703;6317078;11;26
+r;302163051;143703;6363877;11;26
+r;304008053;143703;6385708;11;26
+r;305312771;143703;6406685;11;26
+r;305491883;143703;6413218;11;26
+r;368585340;143703;14529852;11;26
+r;368613411;143703;14530427;11;26
+r;368702161;143703;14532362;11;26
+r;368702213;143703;14532365;11;26
+r;368752984;143703;14535581;11;26
+r;371242086;143703;14609420;11;26
+r;374523439;143703;14730147;11;26
+r;393813730;143703;15038343;11;26
+r;395565818;143703;15463600;11;26
+r;270774711;143703;10674898;11;27
+r;315604274;143703;12096494;11;27
+r;119667361;143703;6087851;11;28
+r;121574988;143703;6434747;11;28
+r;269889539;143703;10730365;11;28
+r;310758362;143703;3315426;11;28
+r;119664673;143703;6088509;11;29
+r;121559494;143703;6436484;11;29
+r;310758360;143703;589608;11;29
+r;310758361;143703;439461;11;29
+r;310758366;143703;3184075;11;29
+r;315488363;143703;12109846;11;29
+r;337340787;143703;13013514;11;29
+r;434382801;143703;16354782;11;29
+r;121496065;143703;6443563;11;30
+r;222150704;143703;9987380;11;30
+r;279555416;143703;11028660;11;30
+r;280291076;143703;11030399;11;30
+r;310674349;143703;3184074;11;30
+r;310674350;143703;589607;11;30
+r;310674351;143703;3315425;11;30
+r;310674352;143703;440182;11;30
+r;310674353;143703;439460;11;30
+r;310674354;143703;586701;11;30
+r;310674355;143703;592038;11;30
+r;419744832;143703;15211358;11;30
+r;419755174;143703;15417318;11;30
+r;419763692;143703;15355345;11;30
+r;419775350;143703;15359982;11;30
+r;419788815;143703;15339729;11;30
+r;419790779;143703;15786768;11;30
+r;419790787;143703;15419921;11;30
+r;419790799;143703;15419919;11;30
+r;419790811;143703;15339718;11;30
+r;419790821;143703;15339722;11;30
+r;419790831;143703;15339725;11;30
+r;419790841;143703;15786767;11;30
+r;419790853;143703;15786770;11;30
+r;419790867;143703;15288615;11;30
+r;419791637;143703;15339714;11;30
+r;419798923;143703;15252147;11;30
+r;113763530;143703;5828497;11;31
+r;119192377;143703;6072170;11;31
+r;119196151;143703;6069025;11;31
+r;122676597;143703;6432359;11;31
+r;123101516;143703;6752141;11;31
+r;227655961;143703;10007282;11;31
+r;227671418;143703;9997784;11;31
+r;274582382;143703;10915994;11;31
+r;283116637;143703;11068989;11;31
+r;303730440;143703;11781525;11;31
+r;395228147;143703;15419914;11;31
+r;419720149;143703;15225280;11;31
+r;419734474;143703;15398992;11;31
+r;419743844;143703;15370472;11;31
+r;419743856;143703;15370470;11;31
+r;53563760;143703;2403587;11;32
+r;54447397;143703;2419467;11;32
+r;55213481;143703;2438823;11;32
+r;110020240;143703;5560944;11;32
+r;110205866;143703;5564587;11;32
+r;111335660;143703;5673506;11;32
+r;111338648;143703;5672629;11;32
+r;111463391;143703;5679005;11;32
+r;113760635;143703;5829248;11;32
+r;113773802;143703;5816980;11;32
+r;114023437;143703;5835793;11;32
+r;122677985;143703;6432204;11;32
+r;227650220;143703;10009703;11;32
+r;227654350;143703;10007756;11;32
+r;274974287;143703;10921500;11;32
+r;277703489;143703;10992070;11;32
+r;280535665;143703;11068990;11;32
+r;419623431;143703;15490394;11;32
+r;419623452;143703;15233304;11;32
+r;419625211;143703;15353986;11;32
+r;419633585;143703;15397096;11;32
+r;419633705;143703;15419894;11;32
+r;419637912;143703;15419903;11;32
+r;419640634;143703;15581600;11;32
+r;419660067;143703;15233311;11;32
+r;419670693;143703;15270442;11;32
+r;419675214;143703;15500541;11;32
+r;52825549;143703;2381921;11;33
+r;113766090;143703;5827543;11;33
+r;403480573;143703;15692274;11;33
+r;134821243;143703;8012818;11;33
+r;276094721;143703;10959230;11;33
+r;305632527;143703;11826696;11;33
+r;315616246;143703;12094898;11;33
+r;315616257;143703;12094897;11;33
+r;419606990;143703;15233297;11;33
+r;114758561;143703;5884401;11;34
+r;115842278;143703;5920626;11;34
+r;116312342;143703;5942718;11;34
+r;118958674;143703;6068217;11;34
+r;118959011;143703;6068154;11;34
+r;118959023;143703;6068153;11;34
+r;118960079;143703;6067893;11;34
+r;118960302;143703;6067838;11;34
+r;118960490;143703;6067773;11;34
+r;118960495;143703;6067772;11;34
+r;118960668;143703;6067170;11;34
+r;269389860;143703;10746801;11;34
+r;272190142;143703;10850246;11;34
+r;275366313;143703;10935251;11;34
+r;281058398;143703;11080778;11;34
+r;298485599;143703;6291655;11;34
+r;371669081;143703;14631244;11;34
+r;434348873;143703;16171443;11;34
+r;419514615;143703;15370476;11;34
+r;419515743;143703;15571743;11;34
+r;419536862;143703;15686345;11;34
+r;419537657;143703;15549623;11;34
+r;419539001;143703;15271739;11;34
+r;419557573;143703;15231321;11;34
+r;419557580;143703;15315485;11;34
+r;3142193;143703;200942;11;35
+r;116312332;143703;5942721;11;35
+r;118959961;143703;6067926;11;35
+r;122684070;143703;6431514;11;35
+r;272448032;143703;10866632;11;35
+r;305913569;143703;11831569;11;35
+r;313144246;143703;12007696;11;35
+r;315115361;143703;12079960;11;35
+r;315120371;143703;12078995;11;35
+r;315120380;143703;12078994;11;35
+r;315124468;143703;12078218;11;35
+r;417152984;143703;15985557;11;35
+r;419497381;143703;15197993;11;35
+r;419497393;143703;15197991;11;35
+r;427738473;143703;16307687;11;35
+r;113809322;143703;5835603;11;36
+r;118930796;143703;6066496;11;36
+r;253392504;143703;10328210;11;36
+r;315111820;143703;12080627;11;36
+r;410084812;143703;15785672;11;36
+r;419491842;143703;15284805;11;36
+r;419491848;143703;15206387;11;36
+r;419491854;143703;15345243;11;36
+r;114749676;143703;5893974;11;37
+r;115097558;143703;5900015;11;37
+r;118930801;143703;6066495;11;37
+r;219960222;143703;9938224;11;37
+r;270205328;143703;10821862;11;37
+r;270211957;143703;10790984;11;37
+r;278066967;143703;10998698;11;37
+r;306355632;143703;11834611;11;37
+r;116303712;143703;5945508;11;38
+r;243203403;143703;10194895;11;38
+r;243205163;143703;10194188;11;38
+r;253379071;143703;10343438;11;38
+r;269868915;143703;10779009;11;38
+r;269870152;143703;10778632;11;38
+r;291815122;143703;11363431;11;38
+r;419718854;143703;15231261;11;38
+r;232100228;143703;10063749;11;39
+r;254176049;143703;10347766;11;39
+r;118527443;143703;6004304;11;40
+r;242258496;143703;10189752;11;40
+r;262200732;143703;10518364;11;40
+r;278738580;143703;11002998;11;40
+r;288193210;143703;11250054;11;40
+r;313739170;143703;12052808;11;40
+r;53108692;143703;2390767;11;41
+r;115097586;143703;5900011;11;41
+r;116312384;143703;5942703;11;41
+r;116320201;143703;5940337;11;41
+r;121446675;143703;6526653;11;41
+r;262047750;143703;10508905;11;41
+r;282620154;143703;11102386;11;41
+r;283669677;143703;11155279;11;41
+r;288439971;143703;11254033;11;41
+r;288439979;143703;11254031;11;41
+r;288440100;143703;11253924;11;41
+r;53238488;143703;2397610;11;42
+r;54516164;143703;2423250;11;42
+r;95779442;143703;4277898;11;42
+r;110123674;143703;5566242;11;42
+r;110805830;143703;5625698;11;42
+r;110809610;143703;5623395;11;42
+r;118931183;143703;6066382;11;42
+r;234227754;143703;10097924;11;42
+r;261003446;143703;10498633;11;42
+r;270361300;143703;10822417;11;42
+r;286713334;143703;11178533;11;42
+r;288439741;143703;11254117;11;42
+r;288439975;143703;11254032;11;42
+r;292320318;143703;11385257;11;42
+r;309077216;143703;11972441;11;42
+r;55369454;143703;2446201;11;43
+r;55861663;143703;2470494;11;43
+r;109661485;143703;5538054;11;43
+r;110805970;143703;5625569;11;43
+r;110806065;143703;5625510;11;43
+r;111339918;143703;5672204;11;43
+r;116310074;143703;5943269;11;43
+r;238921466;143703;10178278;11;43
+r;240634031;143703;10185104;11;43
+r;289930523;143703;11317395;11;43
+r;52965170;143703;2383869;11;44
+r;116311795;143703;5942853;11;44
+r;116312390;143703;5942702;11;44
+r;117864739;143703;5993309;11;44
+r;118532796;143703;6002853;11;44
+r;236671505;143703;10137376;11;44
+r;238095082;143703;10161996;11;44
+r;238097913;143703;10160948;11;44
+r;238101679;143703;10160021;11;44
+r;338809382;143703;13339516;11;44
+r;53142100;143703;2392139;11;45
+r;54451408;143703;2419691;11;45
+r;110807089;143703;5624902;11;45
+r;116312373;143703;5942705;11;45
+r;117904308;143703;5982565;11;45
+r;118518989;143703;6008135;11;45
+r;118931198;143703;6066381;11;45
+r;121397092;143703;6529027;11;45
+r;236659741;143703;10143084;11;45
+r;236661326;143703;10142095;11;45
+r;116312337;143703;5942720;11;46
+r;307884883;143703;11933353;11;47
+r;374942586;143703;14746720;11;47
+r;55396530;143703;2447342;11;48
+r;55729722;143703;2463685;11;48
+r;118942379;143703;6017472;11;48
+r;399118944;143703;15569223;11;48
+r;118930977;143703;6066441;11;49
+r;153087471;143703;8568734;11;50
+r;153087480;143703;8568732;11;50
+r;169732472;143703;8737177;11;50
+r;169732476;143703;8737166;11;50
+r;179114283;143703;8751194;11;50
+r;187421566;143703;8796629;11;50
+r;190728716;143703;8867374;11;50
+r;190731627;143703;8867373;11;50
+r;195391806;143703;9019368;11;50
+r;195391815;143703;9019369;11;50
+r;200561850;143703;9101956;11;50
+r;213712541;143703;9446871;11;50
+r;216664532;143703;9614479;11;50
+r;217361001;143703;9696106;11;50
+r;217362667;143703;9696101;11;50
+r;323032903;143703;12616603;11;50
+r;324936440;143703;12620149;11;50
+r;324936472;143703;12620077;11;50
+r;324946584;143703;12686336;11;50
+r;324948853;143703;12686334;11;50
+r;325493543;143703;12696850;11;50
+r;326550939;143703;12716492;11;50
+r;327328214;143703;12711336;11;50
+r;348985723;143703;13797810;11;50
+r;348985753;143703;13760251;11;50
+r;369911153;143703;14548245;11;50
+r;371789483;143703;14636052;11;50
+r;397505078;143703;15214910;11;50
+r;402120650;143703;15370474;11;50
+r;402121336;143703;15364703;11;50
+r;402112133;143703;15328686;11;50
+r;393990698;143703;14502918;11;50
+r;395567232;143703;15419889;11;50
+r;402102994;143703;15287326;11;50
+r;402274635;143703;15218868;11;50
+r;405571474;143703;15685942;11;50
+r;414847629;143703;15358436;11;50
+r;418898780;143703;16072158;11;50
+r;28745821;143703;1746850;11;51
+r;29769305;143703;1822771;11;51
+r;47133043;143703;2355236;11;51
+r;52468864;143703;2516133;11;51
+r;71839056;143703;2929087;11;51
+r;95176698;143703;3836908;11;51
+r;97054538;143703;244136;11;51
+r;102007373;143703;4891683;11;51
+r;32047624;143703;1976361;11;52
+r;34300893;143703;2339486;11;52
+r;52464036;143703;2526678;11;52
+r;53866512;143703;2408054;11;52
+r;86171196;143703;3367331;11;52
+r;93471491;143703;3744820;11;52
+r;102405664;143703;4903007;11;52
+r;105566346;143703;5094712;11;52
+r;107050148;143703;5355866;11;52
+r;29285898;143703;1783631;11;53
+r;31821140;143703;1973350;11;53
+r;52483806;143703;2484187;11;53
+r;77674946;143703;3225516;11;53
+r;82673364;143703;3301438;11;53
+r;85928036;143703;3352702;11;53
+r;86164554;143703;3368161;11;53
+r;86171150;143703;3367338;11;53
+r;86171182;143703;3367333;11;53
+r;91726685;143703;3692788;11;53
+r;106432084;143703;5246463;11;53
+r;18145378;143703;580048;11;54
+r;18494622;143703;589330;11;54
+r;18494703;143703;589337;11;54
+r;31726100;143703;1969372;11;54
+r;31736034;143703;1969833;11;54
+r;32032203;143703;1975867;11;54
+r;33729473;143703;2324405;11;54
+r;34334977;143703;2340430;11;54
+r;47638248;143703;2355962;11;54
+r;52450033;143703;2555700;11;54
+r;76988909;143703;3183495;11;54
+r;106803984;143703;5315687;11;54
+r;109318756;143703;5521675;11;54
+r;16927122;143703;566249;11;55
+r;18482202;143703;588801;11;55
+r;18486730;143703;589047;11;55
+r;47904095;143703;2356013;11;55
+r;52459618;143703;2535838;11;55
+r;52461675;143703;2531366;11;55
+r;98454532;143703;4317024;11;55
+r;16130545;143703;452748;11;56
+r;17951611;143703;578929;11;56
+r;18494618;143703;589329;11;56
+r;18494640;143703;589331;11;56
+r;28128597;143703;1704072;11;56
+r;31787404;143703;1971798;11;56
+r;52450419;143703;2554918;11;56
+r;52461321;143703;2532188;11;56
+r;52503627;143703;2537646;11;56
+r;60206853;143703;2644734;11;56
+r;86892594;143703;3385279;11;56
+r;116310070;143703;5943270;11;56
+r;17021502;143703;566878;11;57
+r;29286891;143703;1783667;11;57
+r;31787641;143703;1971804;11;57
+r;47790573;143703;2356014;11;57
+r;52445482;143703;2565636;11;57
+r;52447731;143703;2560504;11;57
+r;52466122;143703;2522001;11;57
+r;52471658;143703;2510253;11;57
+r;76448410;143703;3174592;11;57
+r;86138135;143703;3371281;11;57
+r;93709147;143703;3752929;11;57
+r;95177123;143703;3828823;11;57
+r;16130541;143703;452749;11;58
+r;17951639;143703;578928;11;58
+r;21035875;143703;1014718;11;58
+r;27857673;143703;1684107;11;58
+r;29462928;143703;1798985;11;58
+r;31790444;143703;1971905;11;58
+r;52447191;143703;2561912;11;58
+r;52448124;143703;2559608;11;58
+r;76487359;143703;3175279;11;58
+r;76651409;143703;3178358;11;58
+r;80744247;143703;3290668;11;58
+r;83635163;143703;3318437;11;58
+r;86171210;143703;3367330;11;58
+r;88991885;143703;3568822;11;58
+r;91728830;143703;3692925;11;58
+r;93454815;143703;3743750;11;58
+r;93688852;143703;3755100;11;58
+r;95175655;143703;3855052;11;58
+r;34688039;143703;2349285;11;59
+r;34755577;143703;2352624;11;59
+r;50156295;143703;2360659;11;59
+r;52451207;143703;2553168;11;59
+r;52462657;143703;2529477;11;59
+r;52469499;143703;2514830;11;59
+r;76674963;143703;3178828;11;59
+r;80004900;143703;3267134;11;59
+r;88875734;143703;3564385;11;59
+r;106931908;143703;5339010;11;59
+r;107965687;143703;5489900;11;59
+r;19139077;143703;658092;11;60
+r;19140081;143703;658093;11;60
+r;27700199;143703;1668628;11;60
+r;28434436;143703;1730968;11;60
+r;52445056;143703;2566468;11;60
+r;55039325;143703;2594175;11;60
+r;55477530;143703;2604915;11;60
+r;55486539;143703;2605431;11;60
+r;76674928;143703;3178827;11;60
+r;76167516;143703;3169364;11;61
+r;76196776;143703;3169787;11;61
+r;76325195;143703;3172283;11;61
+r;29507011;143703;1803123;11;63
+r;76291126;143703;3171639;11;63
+r;30561570;143703;1897732;11;65
+r;71588285;143703;2923711;11;65
+r;72738892;143703;2950799;11;65
+r;29902647;143703;1841762;11;66
+r;72312383;143703;2937975;11;66
+r;76141589;143703;3167670;11;67
+r;12545399;143703;389132;11;101
+r;12568853;143703;383174;11;101
+r;12687677;143703;353877;11;101
+r;12688005;143703;353799;11;101
+r;12688089;143703;353779;11;101
+r;12688093;143703;353778;11;101
+r;12736859;143703;342056;11;101
+r;12753383;143703;338064;11;101
+r;3140850;143703;7237;11;102
+r;12688065;143703;353785;11;102
+r;12745121;143703;340060;11;102
+r;12754533;143703;337809;11;102
+r;3152331;143703;103745;11;103
+r;13619585;143703;393480;11;103
+r;12549057;143703;388089;11;103
+r;12573821;143703;381899;11;103
+r;12577811;143703;380872;11;103
+r;12633231;143703;367243;11;103
+r;12639183;143703;365766;11;103
+r;12656371;143703;361563;11;103
+r;12688029;143703;353794;11;103
+r;12699975;143703;350854;11;103
+r;12706549;143703;349164;11;103
+r;12710691;143703;348156;11;103
+r;12734801;143703;342509;11;103
+r;12555747;143703;386407;11;104
+r;12668493;143703;358586;11;104
+r;12687633;143703;353887;11;104
+r;12688097;143703;353777;11;104
+r;12756117;143703;337368;11;104
+r;12603957;143703;374490;11;105
+r;12611213;143703;372739;11;105
+r;12688049;143703;353789;11;105
+r;12688061;143703;353786;11;105
+r;12722043;143703;345610;11;105
+r;12728375;143703;344046;11;105
+r;12742083;143703;340769;11;105
+r;12750929;143703;338678;11;105
+r;12578341;143703;380767;11;106
+r;12614873;143703;371823;11;106
+r;12662589;143703;360057;11;106
+r;12687993;143703;353801;11;106
+r;12688021;143703;353796;11;106
+r;12688025;143703;353795;11;106
+r;12688041;143703;353791;11;106
+r;12688053;143703;353788;11;106
+r;12688077;143703;353782;11;106
+r;12706555;143703;349163;11;106
+r;12716889;143703;346639;11;106
+r;12724551;143703;344976;11;106
+r;12729861;143703;343685;11;106
+r;12761657;143703;336001;11;106
+r;12592175;143703;377438;11;107
+r;12687637;143703;353886;11;107
+r;12687991;143703;353802;11;107
+r;12688009;143703;353798;11;107
+r;12688017;143703;353797;11;107
+r;12688067;143703;353784;11;107
+r;12688085;143703;353780;11;107
+r;12688101;143703;353776;11;107
+r;12772725;143703;333181;11;107
+r;12578333;143703;380768;11;108
+r;12602983;143703;374730;11;108
+r;12653039;143703;362362;11;108
+r;12657733;143703;361241;11;108
+r;12687997;143703;353800;11;108
+r;12688047;143703;353790;11;108
+r;12688071;143703;353783;11;108
+r;12688081;143703;353781;11;108
+r;12718689;143703;346323;11;108
+r;12744619;143703;340171;11;108
+r;12758855;143703;336690;11;108
+r;12544451;143703;389379;11;109
+r;12602885;143703;374755;11;109
+r;12687641;143703;353885;11;109
+r;12687649;143703;353884;11;109
+r;12687661;143703;353881;11;109
+r;12687681;143703;353876;11;109
+r;12688033;143703;353793;11;109
+r;12688057;143703;353787;11;109
+r;12704833;143703;349596;11;109
+r;12731155;143703;343368;11;109
+r;13348532;143703;393218;11;109
+r;12545233;143703;389177;11;110
+r;12627187;143703;368826;11;110
+r;12678627;143703;356121;11;110
+r;12688037;143703;353792;11;110
+r;12718681;143703;346324;11;110
+r;12722037;143703;345611;11;110
+r;11863607;143703;100253;11;121
+r;11868339;143703;67056;11;121
+r;11875552;143703;18814;11;121
+r;11856022;143703;168135;11;122
+r;11856658;143703;155444;11;122
+r;11860036;143703;124662;11;122
+r;11860593;143703;120863;11;122
+r;11862353;143703;109210;11;122
+r;11863111;143703;103862;11;122
+r;11868421;143703;66389;11;122
+r;3139483;143703;102131;11;123
+r;11847109;143703;314156;11;123
+r;11862993;143703;104818;11;123
+r;9309973;143703;280219;11;147
+r;9343107;143703;324280;11;148
+r;11640639;143703;329479;11;148
+r;8872402;143703;107910;11;152
+r;8876042;143703;181673;11;153
+r;8876321;143703;183802;11;153
+r;8877599;143703;194892;11;153
+r;8877816;143703;202424;11;153
+r;8877554;143703;194389;11;154
+r;8877672;143703;196903;11;154
+r;8825811;143703;314098;11;158
+r;8698008;143703;229135;11;160
+r;8699162;143703;230628;11;160
+r;8712666;143703;249382;11;160
+r;8716649;143703;253021;11;160
+r;8726301;143703;259967;11;160
+r;3142102;143703;253369;11;161
+r;8611777;143703;121184;11;161
+r;8685674;143703;210777;11;161
+r;8685797;143703;210854;11;161
+r;8685975;143703;210972;11;161
+r;8686420;143703;211295;11;161
+r;8690228;143703;216270;11;161
+r;8691405;143703;219104;11;161
+r;8695280;143703;224942;11;161
+r;8697777;143703;228931;11;161
+r;8698738;143703;230132;11;161
+r;8698925;143703;230370;11;161
+r;8699014;143703;230471;11;161
+r;8702650;143703;234958;11;161
+r;8702935;143703;235311;11;161
+r;8703538;143703;236021;11;161
+r;8706314;143703;239695;11;161
+r;8706315;143703;239696;11;161
+r;8706317;143703;239697;11;161
+r;8706917;143703;241091;11;161
+r;8712588;143703;249315;11;161
+r;8712590;143703;249316;11;161
+r;8713322;143703;250034;11;161
+r;8717047;143703;253367;11;161
+r;8717049;143703;253368;11;161
+r;8717056;143703;253372;11;161
+r;8717749;143703;253952;11;161
+r;8717751;143703;253953;11;161
+r;8720961;143703;256262;11;161
+r;8721810;143703;256810;11;161
+r;8723074;143703;257745;11;161
+r;8723076;143703;257746;11;161
+r;8725278;143703;259240;11;161
+r;8728068;143703;261386;11;161
+r;8728266;143703;261564;11;161
+r;8728269;143703;261565;11;161
+r;8728969;143703;262159;11;161
+r;8728971;143703;262160;11;161
+r;8729009;143703;262197;11;161
+r;1859807;143703;234648;11;162
+r;3140785;143703;164297;11;162
+r;8579722;143703;29358;11;162
+r;8585867;143703;47588;11;162
+r;8589569;143703;57828;11;162
+r;8590289;143703;59962;11;162
+r;8595045;143703;74030;11;162
+r;8607195;143703;108333;11;162
+r;8610276;143703;116816;11;162
+r;8619704;143703;140497;11;162
+r;8620134;143703;141396;11;162
+r;8623820;143703;154243;11;162
+r;8624321;143703;155148;11;162
+r;8629056;143703;164532;11;162
+r;8629661;143703;165552;11;162
+r;8633809;143703;226374;11;162
+r;8633917;143703;171456;11;162
+r;8643812;143703;184644;11;162
+r;8672431;143703;202739;11;162
+r;8680022;143703;207305;11;162
+r;8681555;143703;208218;11;162
+r;8682198;143703;208581;11;162
+r;8682995;143703;209070;11;162
+r;8686002;143703;210982;11;162
+r;8688382;143703;212909;11;162
+r;8689086;143703;214057;11;162
+r;8697613;143703;228623;11;162
+r;8706310;143703;239654;11;162
+r;8706312;143703;239655;11;162
+r;8716263;143703;252640;11;162
+r;8717052;143703;253370;11;162
+r;8717058;143703;253373;11;162
+r;8717061;143703;253375;11;162
+r;8717063;143703;253376;11;162
+r;8728973;143703;262161;11;162
+r;8731352;143703;263942;11;162
+r;8773023;143703;307266;11;162
+r;3139473;143703;105884;11;163
+r;8581875;143703;35753;11;163
+r;8582063;143703;36324;11;163
+r;8582314;143703;37009;11;163
+r;8585489;143703;46433;11;163
+r;8588161;143703;53897;11;163
+r;8593474;143703;69380;11;163
+r;8593616;143703;69776;11;163
+r;8596056;143703;77111;11;163
+r;8597373;143703;80935;11;163
+r;8597435;143703;81075;11;163
+r;8597860;143703;82249;11;163
+r;8598525;143703;84212;11;163
+r;8601897;143703;93757;11;163
+r;8603915;143703;99307;11;163
+r;8604163;143703;100020;11;163
+r;8604180;143703;100057;11;163
+r;8612670;143703;123776;11;163
+r;8612986;143703;124693;11;163
+r;8614038;143703;127445;11;163
+r;8614215;143703;128047;11;163
+r;8617397;143703;136791;11;163
+r;8622575;143703;152025;11;163
+r;8622717;143703;152274;11;163
+r;8623474;143703;153676;11;163
+r;8625127;143703;156504;11;163
+r;8629147;143703;164638;11;163
+r;8635028;143703;174908;11;163
+r;8635070;143703;175027;11;163
+r;8637441;143703;180904;11;163
+r;8637645;143703;181017;11;163
+r;8637726;143703;181059;11;163
+r;8639644;143703;182169;11;163
+r;8639900;143703;182309;11;163
+r;8640111;143703;182431;11;163
+r;8640112;143703;182432;11;163
+r;8640114;143703;182433;11;163
+r;8640116;143703;182434;11;163
+r;8640118;143703;182435;11;163
+r;8642051;143703;183598;11;163
+r;8647136;143703;186584;11;163
+r;8647237;143703;186631;11;163
+r;8663263;143703;197354;11;163
+r;8670800;143703;201694;11;163
+r;8671750;143703;202314;11;163
+r;8672324;143703;202658;11;163
+r;8672333;143703;202667;11;163
+r;8672926;143703;203037;11;163
+r;8674228;143703;203780;11;163
+r;8674231;143703;203781;11;163
+r;8674251;143703;203789;11;163
+r;8674286;143703;203802;11;163
+r;8676048;143703;204881;11;163
+r;8677262;143703;205657;11;163
+r;8677499;143703;205810;11;163
+r;8690110;143703;216009;11;163
+r;8734590;143703;266855;11;163
+r;8737643;143703;269896;11;163
+r;8737792;143703;270080;11;163
+r;8745018;143703;276921;11;163
+r;8746976;143703;279495;11;163
+r;8747480;143703;280060;11;163
+r;8748058;143703;280662;11;163
+r;8756696;143703;288687;11;163
+r;8757256;143703;289297;11;163
+r;8760142;143703;292381;11;163
+r;8761698;143703;294264;11;163
+r;8763790;143703;296732;11;163
+r;8770554;143703;304275;11;163
+r;8776953;143703;311024;11;163
+r;3139480;143703;154378;11;164
+r;3142178;143703;186001;11;164
+r;3192687;143703;83726;11;164
+r;8579084;143703;27472;11;164
+r;8579681;143703;29250;11;164
+r;8584943;143703;44905;11;164
+r;8585291;143703;45924;11;164
+r;8599558;143703;87000;11;164
+r;8604168;143703;100040;11;164
+r;8618861;143703;138849;11;164
+r;8620910;143703;143208;11;164
+r;8624577;143703;155612;11;164
+r;8624871;143703;156110;11;164
+r;8634399;143703;172440;11;164
+r;8640120;143703;182436;11;164
+r;8644656;143703;185475;11;164
+r;8644898;143703;185579;11;164
+r;8645043;143703;185635;11;164
+r;8645104;143703;185660;11;164
+r;8645168;143703;185685;11;164
+r;8645430;143703;185786;11;164
+r;8645784;143703;185959;11;164
+r;8646265;143703;186195;11;164
+r;8646269;143703;186196;11;164
+r;8646691;143703;186389;11;164
+r;8646979;143703;186515;11;164
+r;8647762;143703;186932;11;164
+r;8647779;143703;186944;11;164
+r;8648173;143703;187282;11;164
+r;8648614;143703;187627;11;164
+r;8658129;143703;194085;11;164
+r;8660582;143703;195893;11;164
+r;8661376;143703;196406;11;164
+r;8661838;143703;196590;11;164
+r;8661845;143703;196593;11;164
+r;8662715;143703;197019;11;164
+r;8663318;143703;197399;11;164
+r;8663348;143703;197417;11;164
+r;8666446;143703;199266;11;164
+r;8667449;143703;199899;11;164
+r;8667819;143703;200114;11;164
+r;8667866;143703;200141;11;164
+r;8735113;143703;267202;11;164
+r;8778368;143703;312172;11;164
+r;8577549;143703;23060;11;165
+r;8646261;143703;186194;11;165
+r;8646540;143703;186323;11;165
+r;8664158;143703;197891;11;165
+r;8665582;143703;198749;11;165
+r;8667005;143703;199632;11;165
+r;8668486;143703;200450;11;165
+r;8668490;143703;200451;11;165
+r;8668628;143703;200516;11;165
+r;8669490;143703;200927;11;165
+r;8669492;143703;200928;11;165
+r;8669495;143703;200930;11;165
+r;8669497;143703;200931;11;165
+r;8669499;143703;200932;11;165
+r;8669501;143703;200933;11;165
+r;8669503;143703;200934;11;165
+r;3140847;143703;200929;11;166
+r;8570800;143703;2350;11;168
+r;3140829;143703;117260;11;173
+r;8627090;143703;160823;11;173
+r;8603419;143703;97901;11;174
+r;8646870;143703;186474;11;175
+r;3142237;143703;152269;11;184
+r;3236391;143703;171204;11;188
+r;3236393;143703;253374;11;188
+r;3236394;143703;253380;11;188
+r;372229;143703;110109;11;198
+r;2316997;143703;180951;11;198
+r;3236392;143703;154453;11;200
+r;3236390;143703;136761;11;201
+r;2316998;143703;154063;11;209
+r;2484720;143703;159531;11;209
+r;2484721;143703;75251;11;210

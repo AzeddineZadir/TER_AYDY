@@ -1,0 +1,10 @@
+
+e;50406;'confortable';1;262
+e;15361426;'ajustement confortable';1;0
+e;15308733;'allocation confortable';1;0
+e;9960685;'avenir financier confortable';1;0
+e;261903;'endroit confortable';1;50
+r;419584502;50406;15361426;11;25
+r;419588967;50406;15308733;11;25
+r;220897594;50406;9960685;11;31
+r;8728677;50406;261903;11;161

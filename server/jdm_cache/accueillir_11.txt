@@ -1,0 +1,42 @@
+
+e;63691;'accueillir';1;244
+e;13519725;'accueillir les Jeux olympiques';1;0
+e;15451499;'accueillir [qch]';1;0
+e;15451496;'accueillir [qqn]';1;0
+e;15419389;'accueillir [qqn] à bras ouverts';1;0
+e;15260515;'accueillir chaleureusement';1;0
+e;15260522;'accueillir de nouveau';1;0
+e;15260524;'accueillir défavorablement qch';1;0
+e;15260511;'accueillir en son sein';1;0
+e;15260516;'accueillir qch';1;0
+e;15260526;'accueillir qch avec incrédulité';1;0
+e;15247645;'accueillir qch avec sympathie';1;0
+e;15260513;'accueillir qn à bras ouverts';1;0
+e;15260528;'accueillir qn à son retour';1;0
+e;15199463;'accueillir quelqu'un';1;0
+e;15584129;'accueillir quelqu'un à bras ouverts';1;0
+e;12051557;'accueillir les clients';1;0
+e;15297607;'Le hall peut accueillir quatre cents personnes assises.';1;0
+e;11220508;'accueillir dans';1;0
+e;15230497;'Chaque caravane est équipée pour accueillir quatre personnes.';1;0
+e;250856;'accueillir à bras ouverts';1;8
+r;342557997;63691;13519725;11;28
+r;419570952;63691;15451499;11;34
+r;419570958;63691;15451496;11;34
+r;419570962;63691;15419389;11;34
+r;419570969;63691;15260515;11;34
+r;419570973;63691;15260522;11;34
+r;419570977;63691;15260524;11;34
+r;419570983;63691;15260511;11;34
+r;419570987;63691;15260516;11;34
+r;419570991;63691;15260526;11;34
+r;419570999;63691;15247645;11;34
+r;419571007;63691;15260513;11;34
+r;419571013;63691;15260528;11;34
+r;419571017;63691;15199463;11;34
+r;419571021;63691;15584129;11;34
+r;313763261;63691;12051557;11;36
+r;419492208;63691;15297607;11;36
+r;287691093;63691;11220508;11;43
+r;395014339;63691;15230497;11;50
+r;8714319;63691;250856;11;161

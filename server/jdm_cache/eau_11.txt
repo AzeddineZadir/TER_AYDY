@@ -1,0 +1,3902 @@
+
+e;65012;'eau';1;11017
+e;186531;'nager entre deux eaux';1;50
+e;15688933;'gestion solidaire et soutenable de l'eau';777;0
+e;10959534;'seq-eau';777;0
+e;6284346;'mouvements d'eau';1;0
+e;6285311;'passage de selles eau de riz';1;0
+e;6288079;'couleuvre d'eau brune';1;0
+e;6292759;'buffles d'eau';1;0
+e;6308144;'eau bouillante coulant dans une bassine';1;0
+e;6317918;'couleuvre d'eau';1;0
+e;6340380;'épagneul d'eau américain';1;0
+e;6344617;'privations d'eau';1;0
+e;6345918;'cobra d'eau';1;0
+e;6350622;'selles eau de riz';1;0
+e;6355092;'couleuvre d'eau royale';1;0
+e;6357559;'cobra d'eau rayé';1;0
+e;6361376;'eau du corps';1;0
+e;6362179;'eau bouillante coulant dans un baquet';1;0
+e;6362831;'laitue d'eau';1;0
+e;6364461;'intoxications par eau';1;0
+e;6365989;'cobras d'eau douce';1;0
+e;6371261;'cerf d'eau chinois';1;0
+e;6371678;'eau dans une solution huileuse';1;0
+e;6377200;'eau chauffée sur un fourneau';1;0
+e;6379060;'eau bouillante coulant d'un robinet';1;0
+e;6398747;'varan d'eau';1;0
+e;6399127;'approvisionnement insuffisant en eau potable';1;0
+e;6403555;'contact avec de la vapeur d'eau et des vapeurs brûlantes';1;0
+e;6404525;'privation eau';1;0
+e;6405589;'courant eau';1;0
+e;6407432;'algue d'eau douce';1;0
+e;6408484;'dragon d'eau vert';1;0
+e;6410005;'trouble neurologique chez les plongeurs en eau profonde';1;0
+e;6410431;'eau bouillante coulant dans une baignoire';1;0
+e;6346918;'consommation d'eau';1;2
+e;12202231;'dragon d'eau';777;0
+e;12180277;'détermination de la présence de poisson d'eau de mer ac ige classification rast';1;0
+e;12146941;'mesure d'eau';1;0
+e;12136468;'détermination de la présence de chataîgne d'eau ac ige classification rast';1;0
+e;12136466;'mesure de chataîgne d'eau ac ige';1;0
+e;12234830;'mesure de méthoxychlore | technique indéterminée | eau | ponctuel | résultat numérique | masse/volume';1;0
+e;12234517;'mesure de mercure | technique indéterminée | eau | ponctuel | résultat numérique | masse/volume';1;0
+e;12234319;'mesure de manganèse | technique indéterminée | eau | ponctuel | résultat numérique | masse/volume';1;0
+e;12233718;'mesure de lindane | technique indéterminée | eau | ponctuel | résultat numérique | masse/volume';1;0
+e;12233058;'identification de legionella identifié | culture spécifique | eau | ponctuel | résultat nominal | identification';1;0
+e;12232420;'mesure d'iode | technique indéterminée | eau | ponctuel | résultat numérique | masse/volume';1;0
+e;6371402;'noyade et submersion dans cours d'eau';1;0
+e;13588258;'conduites d'eau de mer';1;0
+e;13635078;'plans d'eau';1;0
+e;13635601;'immergé dans l'eau';1;0
+e;13709321;'attaque de trou d'eau';777;0
+e;13710282;'punaises d'eau';777;0
+e;13710283;'patineurs d'eau';777;0
+e;6383594;'fougère d'eau à quatre feuilles';1;0
+e;6323669;'test de surcharge en eau';1;0
+e;14231824;'faire cuire à l'eau';1;0
+e;13988775;'Histoires d'eau';777;0
+e;14005255;'liste des cours d'eau du Morbihan';777;0
+e;14048668;'fractionnement de l'eau';1;0
+e;14048701;'accès à l'eau';1;0
+e;14113751;'corvée d'eau';1;0
+e;14114578;'Signe eau';777;0
+e;14114577;'signes d'eau';777;0
+e;14116881;'Liste des cours d'eau de la Serbie';777;0
+e;14123737;'Loi du 3 janvier 1992 sur l'eau';777;0
+e;14123736;'Observatoire de l'eau';777;0
+e;14123733;'Prix de l'eau potable';777;0
+e;14151664;'canalisations de distribution d'eau';1;0
+e;14151665;'canalisation de distribution d'eau';1;0
+e;14159579;'avoir bu l'eau des nouilles';1;0
+e;14159666;'battre l'eau dans un mortier';1;0
+e;14159746;'découvrir que l'eau mouille';1;0
+e;14159768;'donner un coup d'épée dans l'eau';1;0
+e;14159993;'garder la tête hors de l'eau';1;2
+e;14304663;'bas sur l'eau';1;0
+e;14317964;'pureté de l'eau';1;0
+e;14319041;'eau impure';1;0
+e;14319043;'filtrer l'eau';1;0
+e;14319040;'filtration de l'eau';1;0
+e;14319044;'faire évaporer de l'eau';1;0
+e;14318838;'Origine de l'eau sur la Terre';777;0
+e;14318837;'origine de l'eau sur Terre';777;0
+e;14318846;'Partenariat mondial de l'eau';777;0
+e;14400352;'Liste des cours d'eau de l'Aube';777;0
+e;14400687;'Liste des cours d'eau en Russie';777;0
+e;14462918;'guerre de l'eau de Cochabamba';777;0
+e;14538694;'écologie d'eau douce';1;0
+e;14537951;'Une Mante à l'eau pour Albéric';777;0
+e;14538321;'une chute d'eau d'une effroyable hauteur';777;0
+e;14538326;'centrales au fil de l'eau';777;0
+e;14549249;'détecteurs à eau lourde';777;0
+e;14549248;'détecteurs à eau ordinaire';777;0
+e;14568542;'Nettoyable à l'eau';777;0
+e;14604601;'lit d'un cours d'eau';1;0
+e;14609000;'émulsion huile dans l'eau';1;0
+e;14609005;'gouttelettes d'eau';1;0
+e;14609006;'gouttelette d'eau';1;0
+e;14609312;'au contact de l'eau';1;0
+e;14609453;'eau à 10°';1;0
+e;14609435;'se retrouver hors de l'eau';1;0
+e;14609434;'grande quantité d'eau';1;0
+e;14611665;'Transport par voie d'eau';777;0
+e;14612316;'admission d' eau';1;0
+e;14629726;'Les colles à eau';777;0
+e;14632338;'variation de pression de l'eau';1;0
+e;14635409;'eau sous pression';1;2
+e;14636417;'installation de récupération d'eau de pluie';777;0
+e;14638948;'eau de distillation';1;0
+e;14638964;'eau aromatique';777;0
+e;14640016;'eau de jasmin';1;0
+e;14640017;'eau de géranium';1;0
+e;14653203;'tremper dans l'eau';1;0
+e;14655447;'dans l'eau chaude';1;0
+e;14655446;'dans l'eau froide';1;0
+e;14655899;'capteur d'eau';1;0
+e;14665182;'plantains d'eau';777;0
+e;14717343;'eau bidistillée';1;0
+e;14718256;'l'eau cherche à s'ouvrir un passage';1;0
+e;14757581;'eau rendue potable par traitement';777;0
+e;14757592;'eau solide';777;0
+e;14757580;'Les entrées d'eau';777;0
+e;14772915;'L'eau';777;0
+e;15013227;'gambas d'eau douce';777;0
+e;15415175;'naviguer à vau-l'eau';1;0
+e;15418445;'mettre l'eau à la bouche à [qqn]';1;0
+e;15422941;'se passer de l'eau sur le visage';1;0
+e;6286621;'adénome mixte à cellules principales et à cellules eau de roche';1;0
+e;6303909;'exposition à une eau potable polluée';1;0
+e;6307809;'exposition à une eau de baignade polluée';1;0
+e;15646245;'réseaux d'adduction d'eau et égouts';1;0
+e;15806632;'respirer dans l'eau';1;0
+e;15806633;'extraie l'oxygène de l'eau';1;0
+e;16071092;'vivre dans l'eau douce';1;0
+e;16071115;'vivre dans l'eau';1;0
+e;16071904;'inhumation en eau';777;0
+e;16087123;'salade d'eau';1;0
+e;16087121;'flamme d'eau';1;0
+e;16095586;'pollution de l'eau par les granulés plastiques';777;0
+e;16103302;'passer son temps dans l'eau';1;0
+e;16158847;'réseaux d'adduction d'eau';1;0
+e;16144156;'paradoxe de l'eau et du diamant';777;0
+e;16169934;'pont au-dessus d'une chute d'eau';777;0
+e;16311705;'se déplacer sous l'eau';1;0
+e;16312219;'lentille d'eau minuscule';1;0
+e;16312856;'tortues d'eau douce cryptodires';1;0
+e;16312857;'tortue d'eau douce cryptodire';1;0
+e;16467307;'réduction de la pollution de l'eau';777;0
+e;16563754;'se déplacer sur l'eau';1;0
+e;16573489;'mise hors-d'eau hors-d'air';777;0
+e;15026887;'alimentations en eau domestique';1;0
+e;15024428;'adductions d'eau';1;0
+e;6298127;'problème d'eau potable';1;0
+e;6298133;'eau bouillante coulant d'un tuyau';1;0
+e;6298998;'eau mer';1;0
+e;6302979;'cours d'eau souterrain';1;0
+e;6319237;'faux cobra d'eau';1;0
+e;6319532;'eau de baignade contaminée';1;0
+e;6335450;'courants d'eau';1;0
+e;6372037;'eau minéralisée';1;0
+e;6380197;'châtaigne d'eau vietnamienne';1;0
+e;6396648;'bleu d'eau';1;0
+e;6399899;'troubles neurologiques chez les plongeurs en eau profonde';1;0
+e;6406446;'troubles neurologiques des plongeurs en eau profonde';1;0
+e;6416009;'cours d'eau souterrains';1;0
+e;6420803;'poche à eau';1;0
+e;12201723;'chataîgne d'eau';1;0
+e;12238128;'mesure de pentachlorophénol | technique indéterminée | eau | ponctuel | résultat numérique | masse/volume';1;0
+e;12237266;'mesure d'oxalate | technique indéterminée | eau | ponctuel | résultat numérique | moles/volume';1;0
+e;12236261;'mesure de nitrites | technique indéterminée | eau | ponctuel | résultat numérique | masse/volume';1;0
+e;12236242;'mesure de nitrate | technique indéterminée | eau | ponctuel | résultat numérique | masse/volume';1;0
+e;6363681;'canaux à eau';1;0
+e;12988965;'meuble d'eau';1;0
+e;14300919;'donner de l'eau';1;0
+e;14469422;'l'eau de la vie et l'eau de la mort';777;0
+e;14486064;'eau qui coule';1;12
+e;14488981;'infltration d'eau';1;0
+e;14510818;'aller dans l'eau';1;0
+e;14530729;'l'eau';1;0
+e;14536458;'faire chauffer l'eau';1;0
+e;14538258;'eau minérale naturellement pétillante';1;2
+e;14540071;'marcher au bord de l'eau';1;0
+e;14571025;'ajouter de l'eau bouillante';1;18
+e;14583996;'économiser l'eau';1;2
+e;14584045;'laver à l'eau et au savon';1;154
+e;14584046;'à l'eau et au savon';1;0
+e;14593848;'eau et savon';1;170
+e;14602655;'faire des ricochets sur l'eau';1;0
+e;14604568;'eau de lavage';1;0
+e;14605240;'avoir peur de l'eau';1;0
+e;14670130;'au pain sec et à l'eau';1;4
+e;14670915;'avoir de l'eau dans les caves';1;0
+e;14716930;'saler l'eau de cuisson';1;0
+e;14722985;'légumes à l'eau';1;4
+e;14722987;'saler l'eau';1;4
+e;14723735;'conduite d'eau';1;0
+e;14724024;'eau turquoise';1;8
+e;14727879;'perdre de l'eau';1;0
+e;14730954;'laver à l'eau claire';1;2
+e;15032797;'arrivées d'eau';1;0
+e;15033366;'aspersions d'eau bénite';1;0
+e;6365205;'exposition à une eau contaminée';1;0
+e;16163719;'à l'eau froide';1;4
+e;16163720;'se laver à l'eau froide';1;2
+e;16165041;'faire sa toilette à l'eau froide';1;0
+e;16165558;'laver à l'eau';1;0
+e;182186;'Eaux et Forêts';1;4
+e;5794387;'bouteille d'eau comestible';777;0
+e;5794175;'marque d'eau minérale';1;0
+e;5793863;'blanchiment à eau';777;0
+e;10672815;'glissade d'eau';777;0
+e;10664166;'eau acidulée';777;0
+e;12092969;'chataîgne d'eau ac ige classification rast';1;0
+e;12092968;'chataîgne d'eau ac ige';1;0
+e;12202236;'année du dragon d'eau';777;0
+e;12239047;'mesure de poids | technique indéterminée | eau | ponctuel | résultat numérique | masse';1;0
+e;12238741;'mesure de picloram | technique indéterminée | eau | ponctuel | résultat numérique | masse/volume';1;0
+e;12238316;'mesure de ph | technique indéterminée | eau | ponctuel | résultat numérique | log de concentration';1;0
+e;12977841;'moins dense que l'eau';1;0
+e;12977840;'plus dense que l'eau';1;0
+e;14665183;'plan d'eau de Plantain';777;0
+e;14874298;'Le moulin à eau de Trinval';777;0
+e;14883609;'bruit de l'eau qui coule';1;0
+e;15014352;'changer l'eau des fleurs';1;0
+e;15031515;'appareils de distillation de l'eau de mer';1;0
+e;5797916;'poisson carnivore d'eau douce';1;0
+e;6089038;'Comme l'eau qui dort';777;0
+e;6443306;'lavage gastrique à l'eau glacée';1;0
+e;6434834;'prothèse d'eau saline pour examen d'imagerie';1;0
+e;6434146;'sensibilité à l'eau de javel et aux produits de nettoyage';1;0
+e;10664174;'kéfir d'eau';777;0
+e;10988578;'réacteur de puissance à caloporteur et modérateur eau';777;0
+e;10988575;'réacteur à eau légère';777;0
+e;12103997;'poisson d'eau de mer ac ige classification rast';1;0
+e;5794187;'marque d'eau en bouteille';1;0
+e;6082700;'larguer de l'eau';1;0
+e;6436955;'effets sur l'oreille des changements de la pression atmosphérique ambiante ou de celle de l'eau';1;0
+e;6434949;'eau d'égout';1;0
+e;6431748;'autres effets de la pression atmosphérique et de la pression de l'eau';1;0
+e;10592798;'La Tête sous l'eau';777;0
+e;12109616;'chataîgne d'eau ag';1;0
+e;12241451;'mesure de sélénium | technique indéterminée | eau | ponctuel | résultat numérique | masse/volume';1;0
+e;16289338;'eau sèche';777;0
+e;5580255;'eau iodée';777;0
+e;6440944;'retenir la nourriture et l'eau de l'animal';1;0
+e;6440713;'clairance de l'eau libre diminuée';1;0
+e;6437815;'trouble du métabolisme de l'eau et des électrolytes';1;0
+e;9959170;'cours d'eau en tresses';777;0
+e;9987035;'haut réducteur d'eau';777;0
+e;9987027;'rétenteur d'eau';777;0
+e;10586284;'L'Épopée du buveur d'eau';777;0
+e;10602638;'J'ai rêvé sous l'eau';777;0
+e;10599487;'fontaine du Château d'eau';777;0
+e;10598344;'réacteur à eau lourde';777;0
+e;10908644;'liste des cours d'eau de Bosnie-Herzégovine';777;0
+e;10905236;'Les cours d'eau';777;0
+e;10987705;'eau carbonatée';1;0
+e;10989490;'chaudière à tubes d'eau';777;0
+e;10990301;'morphologie de cours d'eau';777;0
+e;11056152;'plan d'eau artificiel';1;0
+e;11772040;'liste des cours d'eau de Serbie';777;0
+e;13008905;'eau démaquillante';1;0
+e;15310234;'coupée à l'eau';1;0
+e;15230256;'cours d'eau éphémère';1;0
+e;15410885;'couvercle de bouche à eau';1;0
+e;15347463;'crainte morbide de marcher près de l'eau';1;0
+e;15245915;'cruche à eau';1;0
+e;15272899;'d'eau douce';1;0
+e;15319486;'de l'eau a coulé sous les ponts';1;0
+e;15221411;'de l'eau avec des glaçons';1;0
+e;15299220;'de l'eau bouillante';1;0
+e;15314317;'de l'eau croupie';1;0
+e;15273003;'de l'eau de Javel pure';1;0
+e;15341422;'de l'eau minérale';1;0
+e;15363995;'de l'eau tiède';1;0
+e;15544027;'demi-litre d'eau';1;0
+e;15356679;'des trombes d'eau';1;0
+e;15495216;'des vaguelettes à la surface de l'eau';1;0
+e;15397762;'des zones d'habitat sans éclairage, routes ni eau courante';1;0
+e;15546699;'diamant de la plus belle eau';1;0
+e;15498675;'donner de l'eau au cheval';1;0
+e;15524544;'droit d'usage de l'eau';1;0
+e;15581361;'du vin, de l'eau, des pommes';1;0
+e;15269873;'dégagement de vapeur d'eau';1;0
+e;15389724;'déplétion sévère résultante en eau et en électrolyte';1;0
+e;15782780;'dépôts d'eau à l'état solide';1;0
+e;15488518;'eau ammoniacale';1;0
+e;15197805;'eau calme';1;0
+e;15265285;'eau chaude du robinet';1;0
+e;15197798;'eau d'alimentation';1;0
+e;15339804;'eau d'amidon';1;0
+e;15197789;'eau d'appoint';1;0
+e;15197785;'eau d'aval';1;0
+e;15197796;'eau d'étanchéité';1;0
+e;15254062;'eau de barrage';1;0
+e;15294650;'eau de cale';1;0
+e;15251670;'eau de chaudière';1;0
+e;15197794;'eau de chauffage';1;0
+e;15223638;'eau de circulation';1;0
+e;15197792;'eau de gâchage';1;0
+e;15626155;'eau de la ville';1;0
+e;15197788;'eau de poire';1;0
+e;15529433;'eau de presse';1;0
+e;15240583;'eau de prune';1;0
+e;15197801;'eau de précipitations';1;0
+e;15197787;'eau de puits';1;0
+e;15547088;'eau de refroidissement stator';1;0
+e;15415221;'eau de riz';1;0
+e;15209048;'eau de savon';1;0
+e;15362229;'eau de secours';1;0
+e;15527248;'eau de seltz';1;0
+e;15376240;'eau de soin';1;0
+e;15328087;'eau de/du fossé';1;0
+e;15241567;'eau dentifrice';1;0
+e;15397738;'eau distillée sans pyrogène';1;0
+e;6332641;'eau extra-vasculaire pulmonaire';1;0
+e;15374320;'eau froide du robinet';1;0
+e;15490438;'eau intra et extracellulaire';1;0
+e;15415236;'eau parfumée';1;0
+e;15313730;'eau peu profonde';1;0
+e;15316093;'eau piquante';1;0
+e;15197807;'eau porale';1;0
+e;15337638;'eau prise';1;0
+e;15289555;'eau pétillante aromatisée aux fruits';1;0
+e;15343917;'eau ridée';1;0
+e;15285728;'eau sans dioxyde de carbone';1;0
+e;15197803;'eau soufrée';1;0
+e;15197783;'eau superficielle';1;0
+e;15305130;'eau tropicale';1;0
+e;15349191;'eau usée pluviale';1;0
+e;15782783;'eau à l'état solide';1;0
+e;11958007;'eau-énergie';1;0
+e;15320678;'embarquer de l'eau';1;0
+e;15313737;'en eau profonde';1;0
+e;15339941;'en eau trouble';1;0
+e;16327542;'eau fluorée';1;0
+e;16361019;'collecteur d'eau pluviale';1;0
+e;16328402;'consommation excessive d'eau fluorée';1;0
+e;198974;'eaux territoriales';1;50
+e;21495;'eaux-vannes';1;50
+e;5579935;'eau de luce';777;0
+e;5580471;'liane a de l'eau';777;0
+e;5817085;'moteur à eau';777;0
+e;5816924;'fusée à eau';777;0
+e;5906186;'Chardonneret d'eau';777;0
+e;6069780;'liste des principaux cours d'eau du Nouveau-Brunswick';777;0
+e;6069722;'pente d'eau';777;0
+e;6069556;'traitement de l'eau industrielle';777;0
+e;6069555;'production d'eau potable';777;0
+e;6069180;'pente d'eau de Montech';777;0
+e;6069042;'liste des cours d'eau de Russie';777;0
+e;6068969;'liste des étendues d'eau terrestres';777;0
+e;6068880;'traitement primaire de l'eau';777;0
+e;6437694;'graveur de verre à l'eau forte';1;0
+e;6435972;'mouvements de l'eau';1;0
+e;9980185;'avoir inventé l'eau tiède';1;0
+e;9980184;'avoir inventé l'eau chaude';1;0
+e;9987032;'réducteur d'eau';777;0
+e;10007238;'Un marin d'eau douce';777;0
+e;10966008;'laisser couler l'eau';1;0
+e;10599944;'la bataille de l'eau lourde';777;0
+e;10876417;'être envahi par l'eau';1;0
+e;10971282;'liste des cours d'eau de la Corrèze';777;0
+e;10971835;'liste des cours d'eau du Cantal';777;0
+e;10990298;'droit de la gestion des cours d'eau en France';777;0
+e;10990299;'cours d'eau frontaliers';777;0
+e;10990290;'cours d'eau sans source';777;0
+e;10990812;'liste des cours d'eau des Deux-Sèvres';777;0
+e;10990831;'liste des cours d'eau de la Vienne';777;0
+e;10990819;'liste des cours d'eau de l'Allier';777;0
+e;10990953;'liste des cours d'eau de la Haute-Loire';777;0
+e;10993539;'eau royale';777;0
+e;10993537;'eau tritiée';777;0
+e;11027819;'rat d'eau australien';777;0
+e;11035040;'injection d'eau';777;0
+e;11057833;'se déplacer dans l'eau';1;0
+e;11059374;'crabe d'eau douce';1;0
+e;11358572;'Jeux d'eau';777;0
+e;11755424;'détournement des cours d'eau du Nord';777;0
+e;11776566;'chute d'eau de Nachi';777;0
+e;14558347;'eau profonde nord-atlantique';1;2
+e;15394481;'chemise d'eau';1;0
+e;16087479;'chimie de l'eau';1;0
+e;15362227;'chocolat à l'eau de vie';1;0
+e;16032457;'clair comme l'eau de roche';1;0
+e;15635069;'clairance à l'eau libre';1;0
+e;15415203;'collecteur d'eau de pluie';1;0
+e;15337879;'comme un diable dans l'eau bénite';1;0
+e;15362504;'comme un poisson hors de l'eau';1;0
+e;15582879;'compte dessus et bois de l'eau !';1;0
+e;16154229;'conduites d'eau en bois';777;0
+e;16236014;'controverse sur la fluoration de l'eau';777;0
+e;16326140;'bébé avec l'eau du bain';1;0
+e;146147;'ville d'eaux';1;58
+e;1832596;'eau purifiée';1;0
+e;5634930;'déplacement animal à la surface de l'eau';777;0
+e;5679051;'capacité de rétention maximale en eau';1;0
+e;5829864;'eau de la reine de Hongrie';777;0
+e;5829863;'eau de Hongrie';777;0
+e;5827705;'baume d'eau';777;0
+e;5816072;'Arborescence des lacs et cours d'eau';777;0
+e;5835914;'élevage des crevettes d'eau douce';777;0
+e;5911335;'feuille d'eau';777;0
+e;5906190;'ichtyofaune d'eau douce en France métropolitaine';777;0
+e;6069769;'cours d'eau normands';777;0
+e;6069452;'cours d'eau de l'État de l'Illinois';777;0
+e;6069384;'eau de l'Alhambra';777;0
+e;6069088;'cours d'eau du Bangladesh';777;0
+e;6446307;'adoucir l'eau';1;0
+e;6443928;'courant de l'eau';1;0
+e;6443677;'polluants radioactifs de l'eau';1;0
+e;6442996;'tonographie avec test de stimulation par l'eau';1;0
+e;6440121;'intoxications a l'eau';1;0
+e;6433349;'intoxications par l'eau';1;0
+e;6424878;'eau potable contaminée';1;0
+e;10955771;'Société de distribution d'eau de la Côte d'Ivoire';777;0
+e;10579252;'société spécialisée dans la distribution d'eau';1;0
+e;10971564;'liste des cours d'eau de la Dordogne';777;0
+e;10993550;'forum mondial de l'eau';777;0
+e;10993563;'police de l'eau';777;0
+e;10993561;'alcalinité de l'eau';777;0
+e;10993552;'La Mission interservice de l'eau';777;0
+e;10993543;'origine de l'eau sur la Terre';777;0
+e;10993567;'droit à l'eau';777;0
+e;10992025;'casserole pleine d'eau';1;0
+e;11059373;'crabes d'eau douce';1;0
+e;11354839;'lentille d'eau bossue';777;0
+e;11353511;'escargot d'eau douce';1;0
+e;11353506;'éponges d'eau douce';777;0
+e;11755423;'détournement des cours d'eau de Sibérie';777;0
+e;11823625;'algues d'eau douce';777;0
+e;11994282;'liste des cours d'eau de l'Aveyron';777;0
+e;15415178;'au bord de l'eau';1;0
+e;15341426;'avez-vous de l'eau minérale?';1;0
+e;15415184;'avoir de l'eau jusqu'au genou';1;0
+e;15415186;'avoir l'eau courante';1;0
+e;15399181;'avoir la tête sous l'eau';1;0
+e;16032405;'avoir le bec dans l'eau';1;0
+e;15352011;'ballon d'eau';1;0
+e;15980085;'bassin d'eau salée';1;0
+e;15992772;'bat-l'eau';1;0
+e;15265292;'batterie à eau chaude';1;0
+e;15392590;'batterie à eau refroidie';1;0
+e;15319474;'beaucoup d'eau a coulé sous les ponts';1;0
+e;15363204;'beaucoup d'eau est passée sous le pont';1;0
+e;15650784;'bec dans l'eau';1;0
+e;15224423;'besoin en eau potable';1;0
+e;15546808;'boîte à eau';1;0
+e;15245913;'broc à eau';1;0
+e;15350400;'bâche à eau';1;0
+e;16029354;'c'est de l'eau claire';1;0
+e;15413727;'c'est une goutte d'eau dans l'océan';1;0
+e;15413726;'c'est une goutte d'eau dans la mer';1;0
+e;15415191;'c'est une tempête dans un verre d'eau';1;0
+e;15519826;'cabine des bases à l'eau';1;0
+e;15358655;'caisse à eau';1;0
+e;15286308;'canalisation d'eau';1;0
+e;15258957;'canon à eau lançant de l'encre violette';1;0
+e;15415194;'captage d'eau';1;0
+e;15245916;'carafe à eau';1;0
+e;15362225;'cerise à l'eau de vie';1;0
+e;15528869;'chacun tire l'eau à son moulin';1;0
+e;15317746;'chauffe eau';1;0
+e;16324306;'chauffer de l'eau en vapeur';1;0
+e;16237414;'asperger quelque chose d'eau';1;0
+e;1829853;'centimètre d'eau';1;0
+e;1832591;'eau minérale naturelle';1;4
+e;1832590;'eau liée';1;0
+e;5837032;'Arborescence de l'eau';777;0
+e;5833459;'Listes de plantes d'eau douce';777;0
+e;5916572;'cuit à l'eau';1;0
+e;6441827;'test de la fonction du tronc cérébral à l'eau glacée anormal';1;0
+e;6437671;'noyade dans l'eau salée';1;0
+e;6437107;'polluants de l'eau';1;0
+e;6433676;'noyade dans un liquide autre que l'eau';1;0
+e;10579253;'société de distribution d'eau';1;0
+e;10959533;'Système d'Évaluation de la Qualité de l'eau';777;0
+e;10993797;'eau de cristallisation';777;0
+e;11059433;'refroidi par eau';1;0
+e;11065461;'Société auxiliaire des distributions d'eau';777;0
+e;11354939;'Installation de récupération d'eau de pluie';777;0
+e;13052141;'Le Poids de l'eau';777;0
+e;13105608;'molécules d'eau';1;0
+e;13517405;'droit international de l'eau';777;0
+e;13517403;'Office international de l'eau';777;0
+e;13517409;'gestion de l'eau en France';777;0
+e;15980092;'bassins d'eau salée';1;0
+e;15788935;'boire un verre d'eau';1;60
+e;15811288;'bras d'un cours d'eau';1;0
+e;16087118;'bougie d'eau';1;0
+e;15325760;'apporter de l'eau au moulin';1;0
+e;15743833;'apporter de l'eau au moulin de';1;0
+e;15743832;'apporter de l'eau au moulin de quelqu'un';1;0
+e;15399657;'apporter de l'eau à mon moulin';1;0
+e;15265300;'approvisionnement en eau chaude';1;0
+e;15359765;'arborescence d'eau';1;0
+e;15265290;'arrivée d'eau chaude';1;0
+e;15340355;'arrivée d'eau froide';1;0
+e;15324739;'asperger qch d'eau';1;0
+e;15226706;'aspirateur à eau';1;0
+e;15226711;'aspirateur à eau et poussières';1;0
+e;16286005;'accumulation de l'eau dans les tissus';1;0
+e;16133458;'aillout d'eau';777;0
+e;153331;'eaux usées';1;78
+e;1830291;'clairance efficace de l'eau';1;0
+e;1830290;'clairance de l'eau libre';1;0
+e;1830644;'concentration en eau d'une lentille cornéenne';1;0
+e;1832595;'eau pour préparation injectable';1;0
+e;1832592;'eau osmosée';1;0
+e;1837001;'syndrome d'intoxication par l'eau';1;0
+e;5899888;'eau de Mouzaïa';777;0
+e;5921344;'pression de vapeur saturante de l'eau';777;0
+e;5920986;'réaction du gaz à l'eau';777;0
+e;5920670;'trompe à eau';777;0
+e;5919199;'sac à eau';777;0
+e;5913121;'langouste cuite à l'eau';1;0
+e;5961266;'Trois voyageurs devant une chute d'eau';777;0
+e;5960723;'Tu marcheras sur l'eau';777;0
+e;5953114;'Cadet d'eau douce';777;0
+e;5953041;'Le Miroir de l'eau';777;0
+e;6425982;'couleuvre d'eau du nord';1;0
+e;7333441;'phobie de l'eau';1;70
+e;10936737;'plongée d'eau';777;0
+e;10936699;'écoulements en eau peu profonde';777;0
+e;11082295;'liste des cours d'eau de la Haute-Vienne';777;0
+e;11082352;'Salon du dessin et de la peinture à l'eau';777;0
+e;11083031;'casserole d'eau';1;0
+e;11696941;'culture en eau profonde';777;0
+e;11788388;'Conseil d'administration de l'eau';777;0
+e;11824295;'Dragon d'eau chinois';777;0
+e;11832063;'sauter hors de l'eau';1;0
+e;11996059;'mollusque d'eau douce';1;0
+e;12071007;'gestion de l'eau et des milieux aquatiques dans le Loiret';777;0
+e;12071198;'liste les structures intercommunales chargées de l'alimentation en eau potable dans le Loiret en service au 31 décembre 2016';777;0
+e;12079551;'la goutte d'eau qui fait déborder la vase';1;0
+e;12078621;'eau verte';1;0
+e;12078620;'eau souriante';1;0
+e;12078619;'eau météorique';1;0
+e;12078618;'eau gravitaire';1;0
+e;12078617;'eau enthousiaste';1;0
+e;12078616;'eau embrassée';1;0
+e;12078615;'eau éclairée';1;0
+e;12078614;'eau de ruissellement pluvial';1;0
+e;12078613;'eau de Rabel';1;0
+e;12078612;'eau de la Loire';1;0
+e;12078611;'eau d'arquebusade';1;0
+e;12078610;'eau attisée';1;0
+e;12078609;'eau allante';1;0
+e;12242576;'mesure de sulfates | technique indéterminée | eau | ponctuel | résultat numérique | masse/volume';1;0
+e;12242490;'mesure de styrène | technique indéterminée | eau | ponctuel | résultat numérique | masse/volume';1;0
+e;13106535;'dissoudre un gaz dans l'eau';1;0
+e;16508103;'L'eau chaude est à proscrire';777;0
+e;15415176;'apporter de l'eau au moulin de [qqn]';1;0
+e;15344732;'On l'a maintenu sous l'eau et noyé.';1;0
+e;16076124;'Pollution de l'eau';777;0
+e;15245911;'Pourrions nous avoir une carafe d'eau s'il vous plaît?';1;0
+e;15329895;'Quelqu'un tira la chasse d'eau.';1;0
+e;15245909;'Remplis la carafe d'eau.';1;0
+e;16074296;'Réseaux (eau';1;0
+e;15292064;'Tant va la cruche à l'eau qu'à la fin elle se casse';1;0
+e;15426892;'Tant va la cruche à l'eau qu'à la fin elle se casse.';1;0
+e;15325243;'Une douche consomme moins d'eau qu'un bain.';1;0
+e;15243068;'Viens te baigner, l'eau est vachement chaude.';1;0
+e;15265298;'accumulateur d'eau chaude';1;0
+e;15688931;'accès de base à l'eau';777;0
+e;15647108;'action de l'eau';1;0
+e;15320271;'additionner un produit d'eau';1;0
+e;15536732;'agent de rétention d'eau';1;0
+e;15583292;'alimentation en eau de recyclage';1;0
+e;15523762;'allant à vau-l'eau';1;0
+e;15301699;'aller à la vau-l'eau';1;0
+e;15523707;'allé à vau-l'eau';1;0
+e;1831420;'eau de Dalibour';1;0
+e;1832586;'eau de piscine';1;0
+e;1832594;'eau pour irrigation';1;0
+e;1832589;'eau hautement purifiée';1;0
+e;1832587;'eau destinée à un usage alimentaire';1;0
+e;1832584;'eau de Labarraque';1;0
+e;1832593;'eau pour dilution des solutions concentrées pour hémodialyse';1;0
+e;1832583;'eau conditionnée';1;0
+e;1832585;'eau de loisir';1;0
+e;1832588;'test à l'eau glacée';1;0
+e;1833467;'excrétion rénale de l'eau';1;0
+e;1837185;'javellisation de l'eau';1;0
+e;5625514;'marque d'eau';1;0
+e;5809095;'gravimétrie d'adsorption de vapeur d'eau';777;0
+e;5802072;'eau de vache';777;0
+e;5797439;'château d'eau de Super-Cannes';777;0
+e;5901092;'empreinte eau';777;0
+e;5898855;'prélèvements en eau';777;0
+e;5913110;'palourde cuite à l'eau';1;0
+e;5984454;'compteur d'eau';777;0
+e;6450048;'pollution de l'eau thermale';1;0
+e;6431651;'test de la fonction du tronc cérébral à l'eau glacée normal';1;0
+e;11361424;'réservoir à eau de pluie';777;0
+e;11407872;'facture d'eau';1;0
+e;11410006;'patience d'eau';777;0
+e;11415048;'immersion brutale dans l'eau froide';1;0
+e;11693181;'marionnette sur eau';1;0
+e;13426030;'nappes d'eau';1;0
+e;13426029;'jets d'eau';1;0
+e;11996052;'mollusque gastéropode aquatique d'eau douce';1;0
+e;11996055;'mollusque aquatique herbivore d'eau douce';1;0
+e;11996053;'mollusque gastéropode d'eau douce';1;0
+e;11996058;'mollusque aquatique d'eau douce';1;0
+e;11996049;'mollusque gastéropode aquatique herbivore d'eau douce';1;0
+e;12007948;'boire de l'eau trop froide';1;0
+e;11997676;'ronds dans l'eau';1;0
+e;11997675;'rond dans l'eau';1;0
+e;12033446;'gestion de l'eau dans Orléans Métropole';777;0
+e;12067040;'partage de l'eau';1;0
+e;12077079;'aquarium d'eau douce';1;0
+e;12077078;'aquarium d'eau de mer';1;0
+e;12077952;'cochon d'eau';1;0
+e;12081323;'signe d'eau';1;0
+e;12081016;'proportion d'eau';1;0
+e;12080541;'petit chien hollandais de chasse au gibier d'eau';1;0
+e;12080287;'oiseaux d'eau';1;0
+e;12078981;'fenêtre de l'eau';1;0
+e;12078753;'empreinte en eau';1;0
+e;12078739;'emballage sous eau';1;0
+e;12078735;'emballage en eau';1;0
+e;12078733;'emballage de transport sous eau';1;0
+e;12078219;'coupeur d'eau';1;0
+e;12301611;'jet d'eau du roi Fahd';777;0
+e;12862891;'injection d'eau dans les moteurs';1;0
+e;12862890;'injection d'eau additionnée de méthanol';1;0
+e;12977429;'bio-indicateur de la qualité de l'eau';1;0
+e;14400741;'agence de l'eau Seine-Normandie';777;0
+e;15991421;'abat d'eau';1;0
+e;15684211;'Renouée poivre d'eau';777;0
+e;15791213;'Température de l'eau';777;0
+e;15835440;'Porteuse d'eau';777;0
+e;16027893;'Répercussions financières sur le prix de l'eau';777;0
+e;15773903;'Le musée de l'eau de Pont-en-Royans';777;0
+e;15582676;'Le niveau de l'eau a baissé.';1;0
+e;15774265;'Les Chapardeurs sur l'eau';777;0
+e;15570724;'Les conduites d'eau ont gelé.';1;0
+e;15950711;'Les cours d'eau non domaniaux';777;0
+e;15409369;'Les nitrates sont des substances chimiques qui sont naturellement présentes dans l'eau';1;0
+e;15950716;'Liste des cours d'eau des Ardennes';777;0
+e;15884878;'Liste des cours d'eau du Bas-Rhin';777;0
+e;15214175;'Mettez une casserole d'eau à frémir.';1;0
+e;16153399;'Liste des cours d'eau de l'Inde';777;0
+e;16167797;'La qualité de l'eau';777;0
+e;16235631;'Liste des cours d'eau du Portugal';777;0
+e;16317224;'L'eau entre nos doigts';777;0
+e;16324790;'Les besoins en eau des forages horizontaux pour l'exploitation des gaz de schiste';777;0
+e;160743;'d'eau';1;52
+e;191183;'houl'eau';1;50
+e;3752593;'cube de bouillon de volaille dilué';1;0
+e;5624650;'Journée mondiale de l'eau';777;0
+e;5624318;'eau d'Orezza';777;0
+e;5854489;'pollution de l'eau par les nitrates';777;0
+e;5893409;'chien d'eau portugais';777;0
+e;5918189;'crevette géante d'eau douce';1;0
+e;6442359;'prothèse d'eau pour examen d'imagerie';1;0
+e;6697409;'dragon d'eau australien';777;0
+e;10314562;'panthère d'eau';777;0
+e;10312093;'De l'eau pour les éléphants';777;0
+e;10311954;'Entre la mer et l'eau douce';777;0
+e;10745172;'centrale à eau bouillante';1;0
+e;10936828;'bruit d'eau';1;10
+e;11013762;'coraux mous et durs d'eau froide';777;0
+e;11094758;'le Porteur d'eau de Séville';777;0
+e;11287664;'liste des chutes d'eau d'Australie';777;0
+e;11577521;'eau defleur d'oranger';777;0
+e;12049844;'élaborer des plans de distribution d'eau';1;0
+e;12049884;'respecter des plans de distribution d'eau';1;0
+e;12051353;'gérer des analyses de qualité de l'eau';1;0
+e;12051331;'diriger une équipe dans la gestion de l'eau';1;0
+e;12075595;'cultures peu consommatrices d'eau';1;0
+e;12081544;'tortue d'eau';1;0
+e;12081274;'scierie à eau';1;0
+e;12081270;'scie à eau';1;0
+e;12081256;'sarigue d'eau';1;0
+e;12081250;'sapin d'eau';1;0
+e;12080717;'planche des surfaces d'eau';1;0
+e;12080318;'opossum d'eau';1;0
+e;12080147;'noces d'eau';1;0
+e;12862953;'eau additionnée de méthanol';1;0
+e;14400353;'Liste des cours d'eau de la Haute-Marne';777;0
+e;15883473;'Liste des cours d'eau de Haute-Savoie';777;0
+e;15964252;'Liste des cours d'eau de France par longueur';777;0
+e;15341146;'Le bateau avait subi une voie d'eau.';1;0
+e;15354226;'Le bateau gîtât instantanément, prit l'eau et coula.';1;0
+e;15950709;'Le cours d'eau domanial';777;0
+e;15230253;'Le cours d'eau est sorti de son lit.';1;0
+e;256639;'pédal'eau';1;50
+e;1832216;'distillationde l'eau';1;0
+e;2376118;'anguille d'eau douce';1;0
+e;2378122;'fondre en eau';1;0
+e;3752436;'cubes de bouillon de volaille dilués';1;0
+e;5627838;'liste des poissons d'aquarium d'eau douce';777;0
+e;5625049;'syndicat intercommunal d'adduction d'eau potable de la région d'Ablis';777;0
+e;5624932;'réseau de distribution d'eau';777;0
+e;5624908;'protection de l'eau';777;0
+e;5624306;'droit de l'eau';777;0
+e;5623964;'activité de l'eau';777;0
+e;5670417;'théorie du matelas d'eau';777;0
+e;5802075;'eau minérale de Velleminfroy';777;0
+e;5883652;'L'eau de Rabel';777;0
+e;5898960;'renouvellement de l'eau';777;0
+e;5988012;'puits à eau';777;0
+e;5979614;'eau virtuelle';777;0
+e;6441075;'pollution radioactive de l'eau';1;0
+e;6434593;'exposition à la pollution de l'eau';1;0
+e;8259959;'boire de l'eau';1;20
+e;10993538;'eau super-lourde';777;0
+e;11147834;'naga d'eau';777;0
+e;11237348;'Un dimanche au bord de l'eau';777;0
+e;11342836;'ministre de l'environnement et de l'eau';777;0
+e;12040612;'lac à l'eau claire';777;0
+e;12081460;'taro d'eau';1;0
+e;12243516;'mesure de toxaphène | technique indéterminée | eau | ponctuel | résultat numérique | masse/volume';1;0
+e;12243491;'mesure de toluène | technique indéterminée | eau | ponctuel | résultat numérique | masse/volume';1;0
+e;12243172;'mesure de thallium | technique indéterminée | eau | ponctuel | résultat numérique | masse/volume';1;0
+e;12243097;'mesure de tétrachloréthylène | technique indéterminée | eau | ponctuel | résultat numérique | masse/volume';1;0
+e;13153824;'remplie d'eau';1;0
+e;16158294;'Disponibilité de l'eau';777;0
+e;2373908;'cigales d'eau';777;0
+e;5625570;'étendues d'eau';1;0
+e;5624298;'dimère d'eau';777;0
+e;5900813;'marque d'eau minérale gazeuse';1;0
+e;5899205;'Epée d'eau';777;0
+e;5942206;'Sur l'eau';777;0
+e;6442368;'effets de la pression atmosphérique et de la pression de l'eau';1;0
+e;6438509;'noyade dans l'eau saumâtre';1;0
+e;10058374;'Ouragan sur l'eau plate';777;0
+e;10343692;'De l'eau';777;0
+e;10822483;'ordre de poissons d'eau douce';1;0
+e;10936796;'torture de l'eau';1;0
+e;11147614;'réutilisation des bouteilles d'eau';777;0
+e;11364024;'plan d'eau du Saulcy';777;0
+e;11364023;'plan d'eau de Metz';777;0
+e;11519271;'canne d'eau';777;0
+e;11519613;'Fougère d'eau à quatre feuilles';777;0
+e;11654316;'eau polluée au plomb';1;0
+e;16242405;'De l'eau tiède sous un pont rouge';777;0
+e;16391674;'Château d'eau Lavalette';777;0
+e;1832582;'eau bactériologiquement maîtrisée';1;0
+e;2458505;'eau de violette';1;0
+e;5535780;'bataille de l'eau lourde';777;0
+e;5557858;'volume d'eau déplacé';1;0
+e;5624769;'cours d'eau du Sultanat d'Oman';777;0
+e;5624418;'fontaine à eau';777;0
+e;5623972;'agences de l'eau';777;0
+e;5811001;'contenu en eau liquide';777;0
+e;5942945;'complexe d'oxydation de l'eau';777;0
+e;6448502;'buffle d'eau d'asie';1;0
+e;6444231;'poche à eau pour transducteur d'appareil à ultrasons';1;0
+e;10050204;'La Forme de l'eau';777;0
+e;10347662;'La Dame de l'eau';777;0
+e;10347660;'La Jeune Fille de l'eau';777;0
+e;11247309;'eau de ruissellement';777;0
+e;11364025;'plan d'eau Saint-Symphorien';777;0
+e;11552878;'eau océanique moyenne normalisée de Vienne';777;0
+e;11933133;'eau pulsée';1;0
+e;11957573;'utilisations de l'eau';777;0
+e;11957574;'eau industrielle';777;0
+e;11957518;'techniques de mise à l'eau';777;0
+e;11957578;'stratification de l'eau';777;0
+e;11976005;'plan d'eau de Poule';777;0
+e;12243854;'mesure de trichloroéthane | technique indéterminée | eau | ponctuel | résultat numérique | masse/volume';1;0
+e;12243844;'mesure de trichloréthylène | technique indéterminée | eau | ponctuel | résultat numérique | masse/volume';1;0
+e;13400431;'contenir de l'eau';1;0
+e;2376466;'vive eau';1;0
+e;5624607;'mesure de la qualité de l'eau';1;0
+e;5627825;'ichtyofaune d'eau douce en France';777;0
+e;5624320;'eau domestique';777;0
+e;5624316;'eau d'injection';777;0
+e;5624165;'brevet de technicien supérieur agricole en gestion et maîtrise de l'eau';777;0
+e;5623980;'L'alimentation de Rennes en eau potable';777;0
+e;5893792;'épagneul d'eau irlandais';777;0
+e;5900890;'approvisionnement en eau et l'assainissement en Colombie';777;0
+e;5900785;'Saumon d'eau douce';777;0
+e;5984590;'électrolyse de l'eau';777;0
+e;5984279;'Secrétariat international de l'eau';777;0
+e;6451585;'pression élevée de l'air due à une rapide descente dans l'eau';1;0
+e;6444547;'réabsorption facultative de l'eau';1;0
+e;6443750;'réabsorption obligatoire de l'eau';1;0
+e;6442472;'pollution de l'eau potable';1;0
+e;6435729;'pollution de l'eau de baignade';1;0
+e;6700287;'Dragon d'eau vert';777;0
+e;10189756;'Le Porteur d'eau';777;0
+e;10556981;'Le Bord de l'eau';777;0
+e;10761202;'Un peu de soleil dans l'eau froide';777;0
+e;11147117;'poisson ostéichthyen d'eau douce';1;0
+e;11147086;'boire beaucoup d'eau';1;0
+e;11303297;'eau sur la Lune';777;0
+e;12053000;'utiliser des systèmes de chauffage de l'eau';1;0
+e;12053002;'utiliser des dispositifs de désinfection de l'eau';1;0
+e;13406142;'eau précipitable';777;0
+e;2422078;'eau forte';1;0
+e;5624600;'eau hydroxydase';777;0
+e;5624484;'guerres de l'eau en Californie';777;0
+e;5623221;'poids dans l'eau';777;0
+e;5902963;'tarification sociale de l'eau';777;0
+e;5900333;'eau potable et de l'assainissement en Tunisie';777;0
+e;5899889;'eau minérale naturellement gazeuse';1;0
+e;5989216;'mémoire de l'eau';777;0
+e;6527623;'Galerie du Château d'eau';777;0
+e;6527622;'le château d'eau';777;0
+e;10506909;'La Dernière Goutte d'eau';777;0
+e;10549206;'coq d'eau';777;0
+e;11002942;'chien d'eau américain';777;0
+e;11003464;'réserve utile en eau d'un sol';777;0
+e;11004540;'Gallinule poule d'eau';777;0
+e;11146849;'circuit d'eau';1;0
+e;11254397;'télérelevé d'un compteur d'eau';777;0
+e;11330493;'eau sale';1;0
+e;11573840;'immersion dans l'eau';1;0
+e;11629024;'découpage au jet d'eau';777;0
+e;12277273;'amibe d'eau douce';1;0
+e;2385034;'eau de naphe';1;0
+e;2470283;'eau de process';1;0
+e;5624419;'refroidisseur d'eau';777;0
+e;5624417;'fontaine d'eau fraîche';777;0
+e;5624407;'fluoration de l'eau';777;0
+e;5893790;'chien d'eau espagnol';777;0
+e;5899965;'plan d'eau de la Grande Prairie';777;0
+e;5989335;'Comité national de l'eau';777;0
+e;5981083;'nappes d'eau épisodiques';777;0
+e;5980200;'refroidissement à eau';777;0
+e;5980140;'craquage de l'eau';777;0
+e;5979974;'Alliance internationale pour la gestion de l'eau de pluie';777;0
+e;11174938;'jeu mobile à l'eau de rose';1;0
+e;11174937;'jeux mobiles à l'eau de rose';1;0
+e;11373427;'toilette à chasse d'eau';777;0
+e;11373414;'collecte de l'eau de pluie';777;0
+e;11373412;'eau d'extinction';777;0
+e;11971986;'escalier d'eau de Bingley';777;0
+e;12278209;'miroir d'eau de Nantes';777;0
+e;12278899;'eau de légumineuse';777;0
+e;12283262;'chauffage de l'eau';777;0
+e;13999135;'Coupe d'Europe de nage en eau libre';777;0
+e;13999134;'Coupe d'Europe de natation en eau libre';777;0
+e;16096807;'J'ai plongé ma main dans l'eau.';1;0
+e;2402531;'eau hyperlourde';1;0
+e;2474390;'aspirateur eau et poussière';1;0
+e;5625053;'système d'information sur l'eau';777;0
+e;5624905;'Chaudière à tube d'eau';777;0
+e;5624319;'eau de Saint-Georges';777;0
+e;5624315;'eau agricole';777;0
+e;5624253;'chute d'eau côtière';777;0
+e;5624238;'moulin à eau de Chesapeake Mill';777;0
+e;5624230;'château d'eau de l'Ermite';777;0
+e;5854487;'observatoires de l'eau';777;0
+e;5893794;'chien d'eau irlandais';777;0
+e;5899999;'méthode pour désinfecter l'eau';1;0
+e;5899783;'désinfection solaire de l'eau';777;0
+e;5898061;'crevette d'eau de mer';1;0
+e;5917087;'pyruvate eau dikinase';777;0
+e;5943465;'véronique mouron d'eau';777;0
+e;5988188;'débits des cours d'eau du bassin de la Dordogne';777;0
+e;5980969;'jardin d'eau';777;0
+e;6450895;'test de la fonction du tronc cérébral à l'eau glacée';1;0
+e;6449182;'contact avec de l'eau bouillante provenant d'un robinet';1;0
+e;6438568;'contact avec de l'eau bouillante coulant d'un robinet';1;0
+e;10185120;'Une idée à l'eau';777;0
+e;11208128;'Pavillon de l'eau';777;0
+e;11315695;'cours d'eau du Cameroun';777;0
+e;12402466;'ruissellement de l'eau';1;0
+e;13293941;'température de l'eau';1;0
+e;2426973;'eau des deux champions';1;0
+e;5557854;'poids du volume d'eau déplacé';1;0
+e;5625014;'source d'eau améliorée';777;0
+e;5624459;'gestion intégrée des ressources en eau';777;0
+e;5624386;'économies d'eau';777;0
+e;5624255;'chute d'eau souterraine';777;0
+e;5942217;'coloration des matières organiques dissoutes dans l'eau';777;0
+e;5988005;'lentille d'eau douce';777;0
+e;5987751;'récupération d'eau de pluie';777;0
+e;6450337;'plongée ou saut dans l'eau provoquant une lésion traumatique autre que noyade ou submersion';1;0
+e;6450326;'contamination de l'eau';1;0
+e;6449824;'allumettes à l'épreuve de l'eau et du vent';1;0
+e;6445957;'cadavre d'un noyé hors de l'eau';1;0
+e;10159701;'Une histoire d'eau';777;0
+e;10159655;'La Fille de l'eau';777;0
+e;12244595;'identification de vibrio identifié | culture spécifique | eau | ponctuel | résultat nominal | identification';1;0
+e;5624420;'distributeur d'eau';777;0
+e;5854484;'directive-cadre sur l'eau';777;0
+e;5897336;'serre à eau de mer';777;0
+e;6066395;'technique du film d'eau';777;0
+e;6450052;'cadavre d'un noyé dans l'eau';1;0
+e;6447604;'chute dans l'eau';1;0
+e;6445945;'analyse de l'eau';1;0
+e;6445597;'coup ou heurt contre surface de l'eau';1;0
+e;10145648;'5e édition des Championnats du monde de nage en eau libre';777;0
+e;10145155;'Championnats du monde de nage en eau libre';777;0
+e;10145154;'Championnats du monde de nage en eau libre 2010';777;0
+e;11159187;'cours d'eau d'Égypte';777;0
+e;15835558;'La Porteuse d'eau';777;0
+e;15344935;'La majorité des amphibiens s'accouplent dans l'eau.';1;0
+e;2368260;'lit d'eau';777;0
+e;2419067;'pierre à eau';1;0
+e;5557474;'Au bord de l'eau';777;0
+e;5624776;'cours d'eau de Papouasie-Nouvelle-Guinée';777;0
+e;5903241;'eau minérale naturelle d'Aix-les-Bains';777;0
+e;5900059;'raie géante d'eau douce';777;0
+e;5989307;'modèles d'eau';777;0
+e;5988033;'Conseil mondial de l'eau';777;0
+e;5986592;'eau sur Mars';777;0
+e;6442723;'noyade dans l'eau douce';1;0
+e;11160682;'étendue bordant un plan d'eau';1;0
+e;12776231;'iris d'eau japonais';777;0
+e;2368259;'lit à eau';1;0
+e;2367994;'eau bouillante salée';1;4
+e;2471987;'eau régale';1;0
+e;5988619;'École nationale du génie de l'eau et de l'environnement de Strasbourg';777;0
+e;5999923;'l'eau de saule';777;0
+e;6443906;'pollution chimique de l'eau';1;0
+e;11105648;'Aillout d'eau';777;0
+e;12769500;'ébullition de l'eau';1;0
+e;2379357;'comme le diable dans l'eau bénite';1;0
+e;5685280;'accord sur la conservation des oiseaux d'eau migrateurs d'afrique-eurasie';777;0
+e;5987933;'lame d'eau';777;0
+e;5987526;'loi sur l'eau et les milieux aquatiques';777;0
+e;5981463;'entropie de l'eau';777;0
+e;6450598;'polluants chimiques de l'eau';1;0
+e;6449003;'graveuse de verre à l'eau forte';1;0
+e;10436526;'se poser sur l'eau';1;0
+e;10435845;'se doucher à l'eau froide';1;0
+e;10438833;'Les Bâtisseurs d'eau';777;0
+e;11106208;'liste des cours d'eau en Colombie';777;0
+e;11342736;'Ministre de l'eau 1986-1987';777;0
+e;12244969;'mesure de viscosité | technique indéterminée | eau | ponctuel | résultat numérique | viscosité';1;0
+e;2366204;'remonter sur l'eau';1;0
+e;2367169;'donner l'eau à la bouche';1;0
+e;5624770;'cours d'eau du Cap-Vert';777;0
+e;5624768;'liste de chutes d'eau';777;0
+e;11105802;'réserve naturelle régionale du plan d'eau de Reichshoffen';777;0
+e;1824233;'intoxication par l'eau';1;0
+e;2501685;'eau-bénitier';1;0
+e;5623973;'agence de l'eau Adour-Garonne';777;0
+e;5989561;'Directive-cadre sur l'eau';777;0
+e;8732152;'mélanger le vin et l'eau';1;0
+e;8741798;'facture d'eau déraisonnable';1;0
+e;8751230;'avoir de l'eau';1;0
+e;8751228;'ne pas avoir d'eau';1;0
+e;8751209;'trouver de l'eau';1;0
+e;8751153;'lieu avec de l'eau';1;0
+e;8794093;'être soulevé hors de l'eau';1;0
+e;8794090;'diminution dans le tirant-d'eau';1;0
+e;8794042;'soulever hors de l'eau';1;0
+e;8824302;'pomper de l'eau';1;0
+e;8852848;'retenir l'eau de pluie';1;0
+e;8854584;'apporter de l'eau';1;0
+e;8867375;'avions bombardiers d'eau';1;0
+e;8879919;'chasse au gibier d'eau de nuit';777;0
+e;8895186;'cours d'eau de la Terre du Milieu';777;0
+e;8918857;'entouré d'eau';1;0
+e;8930411;'prise d'eau dans un réseau';1;0
+e;8930396;'masse d'eau côtière';1;0
+e;8930399;'masse d'eau fortement modifiée';1;0
+e;8930418;'restitution d'eau';1;0
+e;8930413;'prélèvement d'eau soumis à redevance';1;0
+e;8930415;'redevance de l'agence de l'eau';1;0
+e;8930397;'masse d'eau de surface';1;0
+e;8930412;'prélèvement d'eau au sens de la police de l'eau';1;0
+e;8930395;'masse d'eau artificielle';1;0
+e;8930398;'masse d'eau de transition';1;0
+e;8930401;'masse d'eau rivière';1;0
+e;8930393;'flux d'eau anthropique';1;0
+e;8930394;'injection d'eau dans un réseau';1;0
+e;8930400;'masse d'eau lac';1;0
+e;8930388;'droit à l'eau et à l'assainissement';1;0
+e;8930389;'eau intérieure';1;0
+e;8969213;'cours d'eau artificiel';1;0
+e;9012897;'franchir un cours d'eau';1;0
+e;9209854;'cuisson à l'eau chaude';1;0
+e;9209859;'cuisson à l'eau froide';1;0
+e;9220979;'bruit de chasse d'eau qui coule';1;0
+e;9220977;'bruit de goutte d'eau';1;0
+e;9239473;'hauteur d'eau insuffisante';1;0
+e;9247663;'eau bleue';1;0
+e;9262417;'insoluble dans l'eau';1;0
+e;9448093;'replonger dans l'eau';1;0
+e;9604534;'changer l'eau en vin';1;0
+e;9604530;'respirer sous l'eau';1;0
+e;9612252;'sauter à l'eau';1;0
+e;9669679;'rats d'eau';777;0
+e;9669680;'campagnols d'eau';777;0
+e;9695710;'bruit de l'eau qui bout';1;0
+e;9740205;'Au fil de l'eau';777;0
+e;9971535;'Jetez-vous à l'eau !';777;0
+e;10993553;'Elles ont été remplacées par les Missions inter-services de l'eau et de la nature';777;0
+e;11109469;'liste des cours d'eau du Royaume-Uni';777;0
+e;11109467;'liste des cours d'eau d'Écosse';777;0
+e;11122067;'obstacle tendu à travers une voie d'eau navigable';1;0
+e;11117721;'épreuve de l'eau amère';777;0
+e;12245372;'mesure de zinc | technique indéterminée | eau | ponctuel | résultat numérique | masse/volume';1;0
+e;12262030;'Service d'administration nationale des données et référentiels sur l'eau';777;0
+e;12495000;'mollusque bivalve d'eau de mer';1;0
+e;12617634;'camion à eau';1;0
+e;12617185;'savoirs et savoir-faire des mesureurs d'eau des foggaras ou aiguadiers du Touat-Tidikelt';777;0
+e;12682826;'évacuer l'eau';1;0
+e;12732925;'évacuer un surplus d'eau';1;0
+e;12734312;'plan d'eau de Courty';777;0
+e;12733795;'ressources en eau';1;0
+e;12699857;'se maintenir à la surface de l'eau';1;0
+e;13800103;'101 hydrogène, oxygène et eau';1;0
+e;13743377;'90 dangers reliés à l'eau et dangers en général';1;0
+e;13777699;'901 dangers reliés à l'eau';1;0
+e;13998223;'Championnats d'Europe de nage en eau libre';777;0
+e;13998224;'Championnats d'Europe de nage en eau libre 2008';777;0
+e;13998225;'Championnats d'Europe de nage en eau libre 2011';777;0
+e;13998958;'Championnats du monde de nage en eau libre 2006';777;0
+e;13998959;'Championnats du monde de nage en eau libre 2008';777;0
+e;13998955;'Championnats du monde de nage en eau libre 2000';777;0
+e;13998957;'Championnats du monde de nage en eau libre 2004';777;0
+e;13998956;'Championnats du monde de nage en eau libre 2002';777;0
+e;14318843;'Forum alternatif mondial de l'eau';777;0
+e;14531073;'Densité - Très faible absorption d'eau';777;0
+e;14571678;'En fonction de la teneur en eau';777;0
+e;14636054;'Dégradation par l'eau';777;0
+e;14636406;'Contamination par les fibres de tuyaux d'adduction d'eau en amiante-ciment';777;0
+e;15521245;'Jeune saumon venant de s'adapter physiologiquement au passage dans l'eau de mer lors de sa migration';1;0
+e;15214177;'Elle a versé de l'eau dans la casserole.';1;0
+e;15560886;'Il peut nager une largeur sous l'eau.';1;0
+e;15583961;'Il ne boit que de l'eau.';1;0
+e;15459013;'J'avais de l'eau jusqu'au cou.';1;0
+e;15452473;'Il faut se méfier de l'eau qui dort.';1;0
+e;15300603;'Il a marché dans une flaque d'eau.';1;0
+e;15372577;'Il a renversé de l'eau partout.';1;0
+e;14481266;'Apparition de l'eau';777;0
+e;14096525;'Bosquet du Théâtre d'eau';777;0
+e;14483113;'Climat et eau';777;0
+e;15341428;'Avez-vous de l'eau minérale?';1;0
+e;15385981;'Cela me met l'eau à la bouche.';1;0
+e;15384727;'Cette séquence a été filmée sous l'eau.';1;0
+e;14483143;'Des récifs artificiels en eau douce';777;0
+e;15561302;'Elle vida l'eau boueuse de ses chaussures.';1;0
+e;15583380;'Désormais, je boirai de l'eau.';1;0
+e;15625412;'Je voudrais un autre verre d'eau.';1;0
+e;15780295;'Approvisionnement en eau en aval';777;0
+e;15789819;'Dépollution de l'eau par les plantes';777;0
+e;15824218;'Championnats d'Europe de nage en eau libre 1989';777;0
+e;15824217;'Championnats d'Europe de nage en eau libre 2016';777;0
+e;15824219;'Championnats d'Europe de nage en eau libre 1991';777;0
+e;15824221;'Championnats d'Europe de nage en eau libre 2012';777;0
+e;15824220;'Championnats d'Europe de nage en eau libre 1993';777;0
+e;15516221;'L'eau a bouilli.';1;0
+e;15314313;'L'eau bout.';1;0
+e;15356246;'L'eau chauffe.';1;0
+e;15214901;'L'eau est en train de chauffer.';1;0
+e;15340361;'L'eau est plutôt froide.';1;0
+e;15294899;'L'eau gazeuse désaltère bien.';1;0
+e;15281391;'L'eau était glacée.';1;0
+e;15952943;'Dissolution de l'or par l'eau régale';777;0
+e;15952944;'Dissolution du platine par l'eau régale';777;0
+e;16084215;'Filtration de l'eau';777;0
+e;16133337;'Bassins versants des principaux cours d'eau de Russie';777;0
+e;16137849;'5 Surfaces en eau';777;0
+e;16154230;'Conduite d'eau en bois';777;0
+e;567334;'moule perlière d'eau douce';777;50
+e;1643924;'réseau d'eau';1;0
+e;2532637;'eau philosophique';1;0
+e;2487692;'vache à eau';1;0
+e;2581253;'de l'eau à boire';1;0
+e;2581434;'saphir d'eau';1;0
+e;2589917;'le gros de l'eau';1;0
+e;2600223;'châtaigne-d'eau';1;0
+e;2603837;'de l'eau est passée sous les ponts';1;0
+e;2950425;'eau pétillante minérale naturelle';1;0
+e;3230919;'dureté de l'eau';777;2
+e;3260268;'Convention relative aux zones humides d'importance internationale particulièrement comme habitats des oiseaux d'eau';777;0
+e;3320062;'approvisionnement en eau potable';1;0
+e;3728167;'flambe d'eau';1;0
+e;3751012;'bon litre d'eau';1;0
+e;3751537;'châtaignes d'eau en boîte';1;0
+e;3758091;'bouchons d'eau de fleur d'oranger';1;0
+e;3757296;'pain sec trempé dans de l'eau';1;0
+e;3757002;'cacao amer dilué dans un peu d'eau chaude';1;0
+e;3755624;'eau tiède environ';1;0
+e;3754132;'eau vapeur dans la cocotte-minute';1;0
+e;3753374;'verre d'eau chaude';1;0
+e;3753191;'petites eau';1;0
+e;3751986;'fruits secs mélangés trempés dans de l'eau tiède';1;0
+e;3751793;'verre d'eau bouillante';1;0
+e;5331579;'gaspiller de l'eau';1;0
+e;566820;'adoucissement de l'eau';777;50
+e;737336;'panic d'eau';777;0
+e;2358712;'tank à eau chaude';1;0
+e;2559707;'eau vanne';1;0
+e;2535168;'eau de senteur';1;0
+e;2534419;'eau de Villée';1;0
+e;2496501;'poire à eau';1;0
+e;2581228;'c'est assez, dit la baleine, je me cache à l'eau car j'ai le dos fin';1;0
+e;2603574;'plantain d'eau commun';1;0
+e;2605389;'lamproie d'eau douce';1;0
+e;2931557;'Chanvre d'eau';777;0
+e;3171791;'non soluble dans l'eau';1;0
+e;3286208;'renouée poivre d'eau';1;0
+e;3725838;'marché de l'eau';1;0
+e;3759162;'grosses pommes de terre cuites à l'eau et épluchées';1;0
+e;3759031;'maïzena diluée dans eau';1;0
+e;3758993;'grosse poignée de petits pois surgelés trempés dans l'eau froide';1;0
+e;3758931;'ml eau';1;0
+e;3757659;'pommes de terre cuites à l'eau et coupées en tranches';1;0
+e;3756696;'jaunes d'oeufs mélangés avec un peu d'eau';1;0
+e;3756464;'botte d'asperges cuites à la vapeur ou à l'eau';1;0
+e;3756146;'bulbes de fenouil cuits à l'eau';1;0
+e;3755355;'noix de cajou préalablement trempées dans l'eau pendant à heures';1;0
+e;3755024;'soja trempé dans l'eau pendant quelques heures';1;0
+e;3755003;'eau tiède précédemment bouillie';1;0
+e;3753663;'feuilles gélatine trempées dans l'eau froide';1;0
+e;3753042;'cubes de bouillon de légumes dilués dans litre d'eau';1;0
+e;3752228;'petite pomme de terre pelée et cuite dans l'eau bouillante';1;0
+e;3752170;'pruneaux dénoyautés et gonflés dans de l'eau';1;0
+e;5153654;'sans eau';1;0
+e;5331494;'vider le ballon d'eau chaude';1;50
+e;1479720;'circuit d'eau chaude';1;0
+e;1483468;'tourner en eau de boudin';1;0
+e;1656355;'recouvert d'eau';1;0
+e;1977592;'eau de Vichy';1;0
+e;2324978;'eau glacée';1;2
+e;2604542;'plantain d'eau';1;0
+e;2691964;'laver à l'eau tiède';1;0
+e;2691962;'laver à l'eau froide';1;0
+e;2932161;'réservoir d'eau chaude';777;0
+e;3159580;'liqueur de melon d'eau';1;0
+e;3179424;'ajouter de l'eau';1;0
+e;3246377;'Porteur d'eau';777;0
+e;3304040;'eau deutérée';777;0
+e;3321552;'fibres de soja solubles dans l'eau';1;0
+e;3705741;'ne plus avoir d'eau chaude';1;0
+e;3758457;'fois leur volume d'eau froide';1;0
+e;3757966;'eau ou bière légère à faire bouillir';1;0
+e;3757222;'café lyophilisé dissoutes dans eau chaude';1;0
+e;3757018;'maïzena liée dans eau';1;0
+e;3755466;'champignons séchés mélangés réhydratés à l'eau bouillante égouttés puis émincés';1;0
+e;3760345;'l'eau libre';777;0
+e;3754628;'brochettes en bois trempées dans de l'eau';1;0
+e;3753982;'eau gazeuse bien fraîche';1;0
+e;3753804;'eau pétillante bien froide';1;0
+e;3753371;'eau froide avec glaçons';1;0
+e;3752931;'un peu d'eau';1;0
+e;3751418;'fumet de poisson dilué dans de l'eau';1;0
+e;5389067;'eau en ébullition';1;0
+e;590535;'ballons d'eau chaude';777;0
+e;1699010;'manche à eau';777;0
+e;1764213;'maladie liée à l'eau';1;0
+e;1850032;'eau destinée à la consommation humaine';1;0
+e;1877903;'eau claire';1;8
+e;1972208;'sous l'eau chaude';1;0
+e;2604967;'tempête dans un verre d'eau';1;0
+e;2605759;'c'est la goutte d'eau qui fait déborder le vase';1;0
+e;4467526;'glace d'eau';1;0
+e;2691963;'laver à l'eau chaude';1;0
+e;2951337;'à l'eau salée';1;0
+e;3223441;'globules d'eau';777;0
+e;3263799;'eau sous forme solide';1;0
+e;3263800;'eau sous forme gazeuse';1;0
+e;3296300;'installation fixe d'extinction automatique à eau';777;0
+e;3319301;'teneur en eau dans le fromage dégraissé';1;0
+e;3372133;'yaourt, 0% à l'eau de rose, diététique et vraiment dé-li-cieux';1;0
+e;3694644;'écoulement de l'eau';1;0
+e;3725843;'distribution d'eau potable';1;0
+e;3758488;'noix de pécan trempées préalablement dans l'eau pendant au moins heures';1;0
+e;3758019;'eau salée bouillante';1;0
+e;3758015;'haricots pinto cuits ou secs préalablement cuits à l'eau';1;0
+e;3757625;'petites pommes de terre coupées en deux et réservées dans l'eau froide';1;0
+e;3757035;'marmite d'eau froide';1;0
+e;3756344;'eau chaude plus ou moins en fonction des besoins';1;0
+e;3754444;'eau environ';1;0
+e;3752976;'brochettes en bois trempées dans l'eau';1;0
+e;3752659;'eau bouillon cube';1;0
+e;3755366;'cube de bouillon de boeuf dilué dans de l'eau';1;0
+e;3751985;'semoule de couscous mise à tremper dans de l'eau tiède';1;0
+e;4225745;'eau végétale';1;0
+e;591844;'Porteur d'eau vive';777;0
+e;1771106;'casserole d'eau bouillante';1;0
+e;1833249;'équivalent-air, équivalent-eau';1;0
+e;1935087;'grande casserole d'eau';1;0
+e;1969407;'fond d'eau';1;0
+e;1970724;'bassine d'eau';1;0
+e;2353727;'niveau de l'eau';1;0
+e;2360805;'eau semi-lourde';1;0
+e;2546178;'eau de légumes';1;0
+e;2513808;'vis à eau';1;0
+e;2604262;'abeille d'eau';1;0
+e;2606115;'il ne faut pas dire, fontaine, je ne boirai pas de ton eau';1;0
+e;2609655;'poisson d'eau de mer';1;0
+e;2950482;'marcher dans l'eau';1;2
+e;3177485;'plan d'eau douce';1;0
+e;3223243;'murmure d'eau';1;0
+e;3308727;'déplacement d'eau';1;0
+e;3759249;'crudités des pommes de terre à l'eau du raisin';1;0
+e;3758644;'châtaignes d'eau en boîte égouttées';1;0
+e;3757925;'vermicelles de riz coupé en deux et trempés dans l'eau';1;0
+e;3757852;'¾ de litres d'eau';1;0
+e;3757152;'châtaignes d'eau';1;0
+e;3756579;'verre d'eau tiède';1;0
+e;3755407;'double de volume d'eau';1;0
+e;3755025;'petit bout de gingembre pilé avec un peu d'eau';1;0
+e;3754274;'eau ou plus si nécessaire';1;0
+e;3753805;'eau et plus';1;0
+e;3753410;'peu d'eau';1;0
+e;3752693;'sel, bouquet garni, eau';1;0
+e;3751562;'cube de fond de volaille dilué dans litre d'eau';1;0
+e;3755432;'càs d'eau';1;0
+e;4901028;'colibri vert-d'eau';1;0
+e;5246459;'renverser l'eau';1;18
+e;1710240;'tenter de sortir la tête hors de l'eau';1;0
+e;1786130;'baptême d'eau';777;0
+e;1846412;'traitement de l'eau destinée à la consommation humaine';1;0
+e;1971943;'grande casserole d'eau froide';1;0
+e;2323190;'équivalent-eau';1;0
+e;2359847;'morte eau';1;0
+e;2519248;'eau mouillante';1;0
+e;2498813;'eau de naffe';1;0
+e;2603460;'tant va la cruche à l'eau qu'à la fin elle se casse';1;0
+e;2605431;'c'est le feu et l'eau';1;0
+e;2627405;'chien d'eau frison';1;0
+e;2932160;'réservoir d'eau potable';777;0
+e;2953713;'Comme un poisson dans l'eau';777;0
+e;4493511;'gibier d'eau';1;0
+e;3249473;'eau corporelle';1;0
+e;3263797;'eau sous forme liquide';1;0
+e;3727359;'ourson d'eau';1;0
+e;3751398;'petit verre d'eau';1;0
+e;3759229;'eau chauffée';1;0
+e;3759132;'brochettes en bambou trempées dans l'eau pendant minutes';1;0
+e;3758484;'morue dessalée dans de l'eau froide pendant heures';1;0
+e;3757928;'maizena mélangé avec une eau';1;0
+e;3757914;'châtaignes d'eau en boîte égouttées et coupées en petits morceaux';1;0
+e;3756688;'càs de tomate concentrée avec de l'eau';1;0
+e;3756225;'maïzena délayée dans une eau';1;0
+e;3755667;'bouillon ou eau';1;0
+e;3755345;'gouttes d'eau ou jus de citron ou de jus d'orange';1;0
+e;3755162;'litre et demi d'eau chaude';1;0
+e;3755112;'brochettes en bois trempées dans l'eau pendant minutes';1;0
+e;3754488;'levure de boulanger délayée dans eau tiède';1;0
+e;3753716;'boîte de châtaignes d'eau au naturel égouttées et émincées';1;0
+e;4335556;'goutte d'eau qui fait déborder le vase';1;6
+e;4338566;'cochons d'eau';777;0
+e;567359;'La dilution acide dans l'eau est obligatoire sous peine d'explosion';777;50
+e;1552581;'vie au bord de l'eau';1;0
+e;1812065;'cours d'eau du Mexique';1;0
+e;1904765;'peste-d'eau';777;0
+e;1936240;'cuire à la goutte d'eau';1;0
+e;1971241;'faire bouillir de l'eau salée';1;0
+e;2340923;'air-eau';1;0
+e;2589933;'vif de l'eau';1;0
+e;2600388;'l'eau va toujours à la rivière';1;0
+e;2787840;'réservoir d'eau naturel';1;0
+e;4389054;'chauffer de l'eau';1;52
+e;3177486;'plan d'eau salée';1;0
+e;3305122;'plonger dans l'eau';1;0
+e;3314077;'Ligne d'eau';777;0
+e;3318931;'cresson d'eau';1;0
+e;3362590;'fruits à l'eau de vie';1;0
+e;3665123;'passer l'eau';1;0
+e;3758634;'l d'eau';1;0
+e;3758505;'boîte de conserve de châtaignes d'eau';1;0
+e;3756958;'tumeric dilué dans eau';1;0
+e;3754740;'yaourt dilué dans eau';1;0
+e;3754042;'bouchon d'eau de fleur d'oranger';1;0
+e;3753218;'lait ou eau';1;0
+e;3753192;'gouttes d'eau';1;0
+e;3752535;'verre moyen de frik trempé dans l'eau';1;0
+e;3752412;'pommes de terre cuites à l'eau et coupées en rondelles';1;0
+e;3751955;'riz basmati rincé à l'eau froide et égoutté';1;0
+e;3756858;'cube de bouillon de volaille dilué dans de l'eau';1;0
+e;3756571;'bouillon de légumes ou à défaut de l'eau';1;0
+e;4223675;'eau de roussie';1;0
+e;4331892;'hydre d'eau douce';1;0
+e;4897855;'eau micellaire';1;0
+e;5324048;'eau de ville';1;0
+e;436130;'eau fossile';1;50
+e;566509;'hydroélectricité au fil de l'eau';777;50
+e;566142;'agence de l'eau en France';777;50
+e;572464;'Cochons d'eau';777;50
+e;1372365;'vert menthe à l'eau';777;0
+e;1654467;'élef-d'eau';1;0
+e;1700909;'eau qui pique';1;0
+e;1816156;'eau résiduaire';1;0
+e;2567516;'eau de Goulard';1;0
+e;2517293;'matelas à eau';1;0
+e;2581341;'en avoir l'eau à la bouche';1;0
+e;2596667;'jeux d'eau';1;8
+e;2600570;'revenir sur l'eau';1;0
+e;2787841;'réservoir d'eau artificiel';1;0
+e;2950504;'à l'eau bouillante';1;0
+e;2951916;'poché à l'eau';1;0
+e;3162449;'poules d'eau';777;0
+e;3751371;'pois chiches trempés dans l'eau pendant heures sans la peau';1;0
+e;3757149;'bon verre d'eau';1;0
+e;3757094;'petite pomme de terre cuite à l'eau';1;0
+e;3757008;'petite brique de soupe d'asperges chaude mélangée à la même quantité d'eau chaude';1;0
+e;3756948;'jaune d'oeuf battu avec eau';1;0
+e;3755758;'châtaignes d'eau en boîte égouttées et finement émincées';1;0
+e;3754971;'chou frisé blanchi min à l'eau bouillante';1;0
+e;3753625;'fond de volaille dilué dans un peu d'eau';1;0
+e;3752746;'piques à brochettes en bois trempés dans l'eau pendant minutes';1;0
+e;3752392;'ml d'eau';1;0
+e;3752237;'eau très froide';1;0
+e;3751757;'châtaignes d'eau entières en conserve';1;0
+e;3751191;'farine diluée dans un bol d'eau';1;0
+e;4904080;'gallinule poule-d'eau';1;0
+e;5333673;'gourde d'eau';1;0
+e;436964;'eau-de-vie de pomme';1;50
+e;1338038;'poisson osseux d'eau douce';1;0
+e;1656354;'plongé dans l'eau';1;0
+e;1796936;'natation en eau libre';777;0
+e;1972207;'sous l'eau froide';1;0
+e;2514783;'eau de repassage';1;0
+e;2586708;'torture par l'eau';777;4
+e;2589914;'gare d'eau';1;0
+e;2952969;'est le nom de plusieurs cours d'eau du';777;0
+e;3202155;'diffusion de l'eau';1;0
+e;3223126;'eau publique';1;0
+e;3321551;'polysaccharides de soja solubles dans l'eau';1;0
+e;3319547;'- méthodes de mesure et fréquence des échantillonnages et de l'analyse des eaux superficielles destinées à la production d'eau alimentaire dans des Etats membres';1;0
+e;3359253;'beignets de carnaval à l'eau de vie';1;0
+e;3365589;'flan libanais à l'eau de fleurs d'oranger, m'halbi';1;0
+e;3488762;'lac d'eau douce';1;0
+e;3567397;'moulins à eau';1;0
+e;3743117;'eau minérale plate salée';1;0
+e;3751306;'eau au besoin';1;0
+e;3759005;'haricots blancs secs trempés dans l'eau toute une nuit';1;0
+e;3758454;'petit litre d'eau';1;0
+e;3758050;'cuillère à dessert d'eau';1;0
+e;3757100;'eau ou de bouillon de poulet santé';1;0
+e;3755809;'eau gazeuse type Perrier';1;0
+e;3754641;'tranches de pain blanc rassis trempées dans l'eau et bien essorées';1;0
+e;3754359;'petite cuillère d'eau';1;0
+e;3753433;'eau gazeuse de type Perrier';1;0
+e;3752786;'bons verres d'eau';1;0
+e;3751535;'maïzena dissoute dans cuillerées à soupe d'eau';1;0
+e;5059307;'lavé à grande eau';1;0
+e;436408;'retenir l'eau';1;50
+e;453247;'marcher sur l'eau';1;52
+e;4344922;'film à l'eau de rose';777;10
+e;1014759;'eau savonneuse';1;2
+e;1840940;'pâte à l'eau';1;0
+e;2326333;'menthe eau de Cologne';777;0
+e;2950505;'cuire à l'eau bouillante';1;0
+e;2508630;'en eau de boudin';1;0
+e;2605337;'il faut se méfier de l'eau qui dort';1;0
+e;3178868;'Cours d'eau';777;0
+e;3185986;'Le Cerf se voyant dans l'eau';1;0
+e;3313527;'eau de végétation';1;0
+e;3725842;'distribution en continu d'eau potable';1;0
+e;3726051;'distribution d'eau';777;0
+e;3743116;'eau minérale gazeuse salée';1;0
+e;3758766;'fécule délayée dans cuillerées à soupe d'eau froide';1;0
+e;3758402;'jaune d'oeuf mélangé avec un filet d'eau';1;0
+e;3757975;'vin blanc sec ou eau';1;0
+e;3757264;'bouillons cubes de poulet dilués dans litres d'eau';1;0
+e;3757220;'petite casserole d'eau bouillante';1;0
+e;3757150;'boîte de châtaignes d'eau égouttées et coupées en rondelles';1;0
+e;3756976;'cubes de bouillon de poulet dilués dans litre d'eau';1;0
+e;3756672;'filaments de safran dissous dans eau bouillante';1;0
+e;3756497;'sucre par litre d'eau';1;0
+e;3754796;'maïzena diluée dans un peu d'eau';1;0
+e;3753719;'eau d'églantine';1;0
+e;6449059;'courants de l'eau';1;0
+e;1795812;'eau de Dakin';777;0
+e;1922884;'ballon à eau';1;0
+e;3171792;'soluble dans l'eau';1;2
+e;1796935;'nage en eau libre';1;0
+e;1877899;'nettoyer à grande eau';1;0
+e;1909314;'aller sous l'eau';1;0
+e;3109826;'aspirer de l'eau';1;0
+e;1918435;'eau anilinée';1;0
+e;1922880;'eau de javelle';1;0
+e;1922881;'dégâts d'eau';1;0
+e;1971662;'verres d'eau';1;0
+e;3159596;'mix de jello au melon d'eau';1;0
+e;1859898;'colonne d'eau';1;0
+e;2950424;'eau minérale gazeuse';1;0
+e;1850033;'eau préemballée';1;0
+e;1976295;'eau très chaude';1;0
+e;1850548;'hamartome pigmentaire en jet d'eau';1;0
+e;1877900;'passer à l'eau claire après une lessive';1;0
+e;3170752;'D'amour et d'eau fraîche';777;0
+e;1858995;'urticaire à l'eau';777;0
+e;390086;'épurateur d'eau';1;50
+e;389959;'épi d'eau';1;50
+e;388334;'à l'eau de pluie';1;50
+e;378997;'seau d'eau';1;58
+e;378021;'réservoir d'eau';1;56
+e;376104;'renvoi d'eau';1;50
+e;371303;'poche d'eau';1;50
+e;366467;'noix d'eau';1;50
+e;349798;'eau sûre';1;50
+e;349755;'eau pétrifiante';1;50
+e;349752;'eau noire';1;50
+e;349751;'eau métabolique';1;50
+e;349748;'eau légère';1;50
+e;349745;'eau gravifique';1;50
+e;346104;'dans l'eau';1;50
+e;343200;'chauffage à eau très chaude';1;50
+e;341060;'cale à eau';1;50
+e;340553;'bulle d'eau';1;50
+e;332678;'mettre la tête sous l'eau';1;2
+e;388335;'à l'eau plate';1;50
+e;371939;'port en eau profonde';1;50
+e;370041;'petit filet d'eau';1;50
+e;364977;'montée en eau';1;50
+e;349793;'eau précieuse';1;50
+e;349775;'eau de baignade';1;50
+e;349771;'eau calcique';1;50
+e;349762;'eau sédative';1;50
+e;349760;'eau sulfatée sodique';1;50
+e;349744;'eau du bain';1;50
+e;349737;'eau de vie de fraise';1;50
+e;349733;'eau de jouvence';1;50
+e;349728;'eau de baryte';1;50
+e;349720;'eau alumineuse';1;50
+e;348876;'découpe au jet d'eau';1;50
+e;347693;'disette d'eau';1;50
+e;345719;'cure d'eau';1;50
+e;341759;'carré d'eau';1;50
+e;341233;'canalisation d'eau potable';1;50
+e;340745;'bétoine d'eau';1;50
+e;390477;'étoile d'eau';1;50
+e;371469;'point d'ébullition normal de l'eau';1;50
+e;356022;'gaz à l'eau réduit';1;50
+e;352087;'entraînement d'eau';1;50
+e;349761;'eau sulfureuse';1;50
+e;349750;'eau miraculeuse';1;50
+e;349731;'eau de coupage';1;50
+e;349725;'eau cuivreuse';1;50
+e;343212;'chauffe-eau à électricité';1;50
+e;343141;'chasse d'eau hydropneumatique';1;50
+e;342452;'cerises à l'eau de vie';1;50
+e;340004;'bouteille d'eau minérale';1;50
+e;336792;'aspersion d'eau bénite';1;50
+e;334812;'alimentation en eau domestique';1;50
+e;334286;'agence de l'eau';1;50
+e;333974;'adduction d'eau';1;50
+e;382845;'tambour d'eau';1;50
+e;370539;'pipe d'eau';1;50
+e;369897;'pesse d'eau';1;50
+e;365974;'métabolisme de l'eau';1;50
+e;349797;'eau sulfurée';1;50
+e;349789;'eau nature';1;50
+e;349784;'eau lithinée';1;50
+e;349757;'eau rougie';1;50
+e;349756;'eau qui dort';1;50
+e;349746;'eau interstitielle';1;50
+e;349739;'eau de vie de mirabelle';1;50
+e;347124;'desserte en eau domestique';1;50
+e;347120;'desserte en eau potable';1;50
+e;345751;'cuve à eau';1;50
+e;342882;'chanvre d'eau';1;50
+e;340679;'buveur d'eau';1;50
+e;388245;'à grande eau';1;56
+e;376835;'robinet d'eau chaude';1;50
+e;375366;'ras de l'eau';1;50
+e;374139;'prélèvement d'eau';1;50
+e;367257;'oiseau d'eau migrateur';1;50
+e;364403;'mise en eau';1;50
+e;362184;'loi sur l'eau';1;50
+e;349796;'eau sulfatée magnésienne';1;50
+e;349769;'eau boriquée';1;50
+e;349735;'eau de surface';1;50
+e;349730;'eau de boudin';1;52
+e;344781;'courant d'eau';1;50
+e;340928;'cage à eau';1;50
+e;389490;'écran d'eau';1;50
+e;381819;'sur l'eau';1;50
+e;374814;'qualité de l'eau';1;50
+e;372186;'pot à eau';1;58
+e;372123;'poste d'eau';1;50
+e;360016;'jaunet d'eau';1;50
+e;353676;'fenouil d'eau';1;50
+e;349779;'eau de vie de pomme';1;50
+e;349753;'eau ordinaire';1;50
+e;349749;'eau maigre';1;50
+e;349723;'eau chlorurée';1;50
+e;349722;'eau boueuse';1;50
+e;349719;'eau adoucie';1;50
+e;347881;'distribution de l'eau';1;50
+e;391265;'amener de l'eau à son moulin';1;50
+e;388213;'à eau';1;50
+e;374738;'pêche en eau douce';1;50
+e;357824;'histoire à l'eau de rose';1;58
+e;349788;'eau morte';1;50
+e;349785;'eau magnésienne';1;50
+e;349766;'eau apyrogène';1;50
+e;349764;'eau torrentielle';1;50
+e;349742;'eau de vie de pêche';1;50
+e;349729;'eau de boisson';1;50
+e;347882;'distribution de l'eau potable';1;50
+e;347857;'distillation de l'eau de mer';1;50
+e;346693;'de corvée d'eau';1;50
+e;343210;'chauffe-eau solaire';1;50
+e;343127;'chasse d'eau à clapet';1;50
+e;342278;'centrale au fil de l'eau';1;50
+e;339867;'boule d'eau';1;50
+e;335837;'appareil de distillation de l'eau de mer';1;50
+e;387309;'vive d'eau';1;50
+e;387036;'vin coupé d'eau';1;50
+e;377296;'réacteur à eau ordinaire bouillante';1;50
+e;376842;'robinet d'eau froide';1;50
+e;371705;'pollution de l'eau';1;50
+e;361707;'lingot d'eau';1;50
+e;353209;'facture de l'eau';1;50
+e;349772;'eau chloroformée';1;50
+e;349765;'eau vulnéraire';1;50
+e;349759;'eau sucrée';1;50
+e;349743;'eau de vie de reine claude';1;50
+e;349738;'eau de vie de framboise';1;50
+e;349736;'eau de vie d'abricot';1;50
+e;349732;'eau de fonte';1;50
+e;349724;'eau chlorée';1;52
+e;349505;'désalinisation de l'eau de mer';1;50
+e;343209;'chauffage à eau chaude';1;50
+e;336473;'arrivée d'eau';1;50
+e;332593;'manquer d'eau';1;56
+e;332601;'pénurie d'eau';1;52
+e;384746;'transport par voie d'eau intérieure';1;50
+e;377287;'réacteur pressurisé à eau lourde';1;50
+e;376940;'rond d'eau';1;50
+e;368372;'paquet d'eau';1;50
+e;368006;'oxydation de l'eau';1;50
+e;361000;'larron d'eau';1;50
+e;349770;'eau buccale';1;50
+e;349758;'eau sodique';1;50
+e;349754;'eau phéniquée';1;50
+e;349747;'eau limpide';1;50
+e;349727;'eau d'iris';1;50
+e;345404;'cruchon d'eau';1;50
+e;343655;'chien d'eau';1;50
+e;391003;'oiseau d'eau';1;50
+e;387034;'vin additionné d'eau';1;50
+e;377968;'réseau d'approvisionnement en eau';1;50
+e;377149;'ruissellement d'eau';1;50
+e;376335;'ressource en eau';1;50
+e;368448;'par eau';1;50
+e;366707;'nuage de vapeur d'eau';1;50
+e;366104;'nappe d'eau';1;50
+e;353048;'extincteur à eau pulvérisée';1;50
+e;349790;'eau océanique';1;50
+e;349777;'eau de fond';1;50
+e;349763;'eau thermale sulfureuse';1;50
+e;349741;'eau de vie de prune';1;50
+e;349740;'eau de vie de poire';1;50
+e;349734;'eau de rinçage';1;50
+e;349726;'eau d'angoisse';1;50
+e;349721;'eau arsenicale';1;50
+e;345403;'cruche d'eau';1;50
+e;343211;'chauffe-eau à accumulation';1;50
+e;337582;'auge à eau';1;50
+e;334803;'alimentation en eau potable';1;50
+e;334802;'alimentation en eau';1;50
+e;98869;'bloc-eau';1;50
+e;14383;'chauffe-eau';1;62
+e;35633;'eau-de-vie';1;142
+e;82482;'eau-forte';1;88
+e;46327;'guide-eau';1;50
+e;11730;'morte-eau';1;50
+e;51164;'vive-eau';1;50
+e;282765;'lentille-d'eau';777;50
+e;282102;'Hors-d'eau';777;50
+e;231756;'pot-à-eau';1;4
+e;222424;'rabat-eau';1;50
+e;140220;'vau-l'eau';1;50
+e;137496;'noyé-d'eau';1;50
+e;137388;'goutte-d'eau';1;50
+e;318273;'lancer à l'eau';1;50
+e;318275;'mettre à l'eau';1;50
+e;318276;'mise à l'eau';1;50
+e;319139;'gestion de l'eau';1;50
+e;321115;'faire bouillir de l'eau';1;66
+e;324618;'eau en bouteille';777;4
+e;324619;'eau embouteillée';777;50
+e;324829;'diffusion des molécules d'eau';1;50
+e;325614;'accès à l'eau potable';1;50
+e;326066;'niveau à eau';1;50
+e;329792;'carafe d'eau';1;60
+e;167166;'la goutte d'eau qui fait déborder le vase';1;52
+e;222425;'tirer de l'eau';1;50
+e;230837;'l'eau de vie';666;50
+e;242774;'cycle de l'eau';1;8
+e;251551;'peur de l'eau';1;44
+e;255286;'être à l'eau et au pain sec';1;50
+e;255287;'à l'eau et au pain sec';1;50
+e;260605;'ne pas avoir inventé l'eau tiède';1;50
+e;260647;'les pieds dans l'eau';1;50
+e;161082;'de l'eau dans le gaz';1;64
+e;161174;'faire des ronds dans l'eau';1;56
+e;166633;'être comme un poisson dans l'eau';1;50
+e;166840;'chaleur air-eau';1;50
+e;167089;'menthe à l'eau';1;60
+e;167735;'adoucisseur d'eau';1;52
+e;210849;'faire venir l'eau à la bouche';1;50
+e;210850;'faire venir l'eau au moulin';1;50
+e;210996;'il y a de l'eau dans l'air';1;50
+e;210997;'il y a de l'eau dans le gaz';1;52
+e;211058;'la lune est dans l'eau';1;50
+e;211071;'laisser courir l'eau';1;50
+e;211847;'se ressembler comme deux gouttes d'eau';1;58
+e;212161;'vivre de pain et d'eau';1;50
+e;216062;'d'amour et d'eau fraîche';1;56
+e;216287;'masse d'eau';1;50
+e;216416;'quantité d'eau';1;50
+e;217432;'bombardier d'eau';1;4
+e;217433;'avion bombardier d'eau';1;50
+e;217717;'bord de l'eau';1;26
+e;218698;'étendue d'eau';1;102
+e;218949;'fuite d'eau';1;68
+e;220515;'hélicoptère bombardier d'eau';1;50
+e;220853;'dauphin d'eau douce';1;50
+e;221416;'source d'eau chaude';1;2
+e;221638;'mettre de l'eau';1;52
+e;221764;'châtaigne d'eau chinoise';1;50
+e;221824;'jacinthe d'eau';1;50
+e;222172;'coupure d'eau';1;50
+e;222423;'filet d'eau';1;20
+e;223816;'volume d'eau';1;50
+e;223867;'source d'eau';1;50
+e;223872;'Couleur menthe à l'eau';666;50
+e;224288;'biologie d'eau douce';1;50
+e;225799;'manque d'eau';1;76
+e;232072;'traitement de l'eau';1;50
+e;232650;'araignée d'eau';1;18
+e;232651;'surface de l'eau';1;4
+e;235593;'buffle d'eau';1;50
+e;236537;'pac à l'eau';1;50
+e;237292;'réserve d'eau';1;50
+e;238341;'glace à l'eau';1;2
+e;239614;'prendre l'eau';1;54
+e;241935;'tenir l'eau';1;50
+e;244803;'haut sur l'eau';1;50
+e;246703;'trombes d'eau';1;62
+e;247710;'absence d'eau';1;88
+e;248005;'niveau d'eau';1;80
+e;252136;'virement d'eau';1;8
+e;252383;'cuisson à l'eau';1;30
+e;254488;'rétention d'eau';1;8
+e;254489;'faire de la rétention d'eau';1;2
+e;255285;'mettre à l'eau et au pain sec';1;50
+e;256888;'brosser à l'eau et au savon';1;50
+e;256903;'jouer dans l'eau';1;4
+e;258084;'supplice de la goutte d'eau';1;50
+e;258554;'accouchement dans l'eau';1;50
+e;259065;'tortue d'eau douce';1;50
+e;263332;'cours d'eau pollué';1;50
+e;307597;'le rapport de la masse d'eau dans l'air sur la masse d'air humide';777;50
+e;171331;'comme deux gouttes d'eau';1;50
+e;316983;'nappe d'eau souterraine';1;50
+e;171101;'à fleur d'eau';1;6
+e;140459;'à vau-l'eau';1;50
+e;158437;'à l'eau';1;90
+e;159908;'vert d'eau';1;62
+e;164041;'chasse d'eau';1;104
+e;165577;'poisson dans l'eau';1;50
+e;170252;'châtaigne d'eau';1;50
+e;170635;'trèfle d'eau';1;50
+e;170658;'poivre d'eau';1;50
+e;179692;'tirer la chasse d'eau';1;50
+e;182961;'l'eau à la bouche';1;54
+e;184648;'une goutte d'eau dans la mer';1;50
+e;184649;'une goutte d'eau dans l'océan';1;50
+e;210218;'allée d'eau';1;50
+e;210287;'avoir l'eau à la bouche';1;56
+e;210319;'ballon d'eau chaude';1;86
+e;210330;'battre l'eau avec un bâton';1;50
+e;210342;'boire l'eau du Léthé';1;50
+e;210465;'chandelier d'eau';1;50
+e;210470;'chat échaudé craint l'eau froide';1;74
+e;210485;'coche d'eau';1;50
+e;210631;'demi-lune d'eau';1;50
+e;210636;'départ d'eau chaude';1;50
+e;210908;'garde d'eau';1;50
+e;210914;'gaz à l'eau';1;50
+e;210923;'gorger d'eau';1;50
+e;210925;'goutte d'eau dans la mer';1;50
+e;210926;'goutte d'eau dans l'océan';1;50
+e;210947;'heureux comme un poisson dans l'eau';1;60
+e;211077;'lance d'eau';1;50
+e;211563;'poissons d'eau douce';1;50
+e;211652;'question de l'eau';1;50
+e;211706;'retour d'eau froide';1;50
+e;211708;'revers d'eau';1;50
+e;211713;'robinet d'eau tiède';1;50
+e;211714;'rocher d'eau';1;50
+e;211716;'roman à l'eau de rose';1;70
+e;212026;'supplice de l'eau';1;50
+e;212075;'théâtre d'eau';1;50
+e;212114;'trombe d'eau';1;52
+e;212135;'vanne de prise d'eau';1;50
+e;213323;'retenue d'eau';1;10
+e;213596;'rat d'eau';1;2
+e;215523;'fond de l'eau';1;54
+e;265655;'sortir de l'eau';1;52
+e;277839;'pommes de terre à l'eau';1;54
+e;279765;'hors de l'eau';1;52
+e;281010;'l'eau du robinet';777;50
+e;215408;'goutte d'eau';1;24
+e;146321;'poule d'eau';1;84
+e;182960;'le vif de l'eau';1;50
+e;137032;'laisser aller à vau-l'eau';1;50
+e;137091;'L'Épée dans l'eau';1;50
+e;137550;'point d'eau';1;80
+e;139258;'La jarre peut-elle être plus belle que l'eau';1;50
+e;140128;'mettre de l'eau dans son vin';1;88
+e;140413;'jeu d'eau';1;52
+e;140465;'punaise d'eau';1;64
+e;140530;'fil de l'eau';1;86
+e;141467;'guib d'eau';1;50
+e;141557;'lâcher de l'eau';1;50
+e;142338;'lentille d'eau';1;52
+e;142438;'tomber de l'eau';1;50
+e;142826;'lis d'eau';1;50
+e;143218;'râle d'eau';1;50
+e;144023;'plan d'eau';1;74
+e;144678;'lune d'eau';1;50
+e;145320;'melon d'eau';1;52
+e;145799;'tirant d'eau';1;50
+e;145821;'requin d'eau douce';1;50
+e;145905;'Poules d'eau';1;50
+e;145932;'Dieu d'eau';1;50
+e;151560;'peinture à l'eau';1;142
+e;152945;'salle d'eau';1;166
+e;153409;'verre d'eau';1;68
+e;153477;'poisson d'eau douce';1;146
+e;154890;'coup d'épée dans l'eau';1;50
+e;155245;'comme un poisson dans l'eau';1;80
+e;157885;'bouteille d'eau';1;88
+e;158283;'sous l'eau';1;68
+e;179060;'faire de l'eau';1;50
+e;181826;'coup dans l'eau';1;50
+e;182235;'écuelle d'eau';1;50
+e;183018;'lignes d'eau';1;2
+e;183994;'réacteur refroidi à l'eau supercritique';1;50
+e;184534;'tirant d'eau critique';1;50
+e;185473;'aller à vau-l'eau';1;50
+e;186047;'être au pain et à l'eau';1;50
+e;186057;'être clair comme de l'eau de roche';1;50
+e;186114;'être le bec dans l'eau';1;50
+e;186361;'il n'y a pas de l'eau à boire';1;50
+e;186369;'se jeter à l'eau';1;12
+e;186457;'se méfier de l'eau qui dort';1;50
+e;186562;'ne pas avoir inventé l'eau chaude';1;50
+e;264346;'aimer l'eau';1;50
+e;264758;'sortir la tête hors de l'eau';1;50
+e;270834;'maintenir hors de l'eau';1;50
+e;271417;'cuire à l'eau';1;16
+e;274336;'molécule d'eau';777;50
+e;275121;'hauteur d'eau';1;50
+e;276713;'puces d'eau';777;50
+e;278250;'défaire à l'eau';777;50
+e;280173;'liseron d'eau';777;50
+e;281054;'flaque d'eau';777;14
+e;281699;'Ményanthe trèfle d'eau';777;50
+e;282892;'Peinture à l'eau';777;50
+e;285054;'captage d'eau potable';1;56
+e;286537;'purification de l'eau';777;50
+e;288655;'araignées d'eau';777;50
+e;289029;'oursons d'eau';777;50
+e;290946;'remontée d'eau';777;50
+e;293805;'poisson-papillon d'eau douce';777;50
+e;293840;'intoxication à l'eau';777;50
+e;293842;'empoisonnement à l'eau';777;50
+e;293908;'cours d'eau de la';777;50
+e;296130;'abeilles d'eau';777;50
+e;300273;'porteur d'eau';777;8
+e;300740;'anguilles d'eau douce';777;50
+e;302291;'escargots d'eau';777;50
+e;303214;'pollutions de l'eau';777;50
+e;304218;'rubanier d'eau';777;50
+e;313396;'faire chauffer de l'eau';1;4
+e;189920;'au fil de l'eau';1;34
+e;185072;'à l'eau de rose';1;60
+e;154294;'chute d'eau';1;84
+e;143960;'jet d'eau';1;88
+e;183013;'ligne d'eau';1;2
+e;153982;'marin d'eau douce';1;82
+e;141477;'miroir d'eau';1;54
+e;143608;'pièce d'eau';1;76
+e;151861;'prise d'eau';1;52
+e;152758;'vapeur d'eau';1;204
+e;136834;'Recherche d'une formule propre à représenter la puissance motrice de la vapeur d'eau';1;50
+e;137179;'dessalement de l'eau de mer';1;50
+e;137294;'moule d'eau douce';1;50
+e;137649;'cierge d'eau';1;50
+e;138236;'régime des cours d'eau';1;50
+e;138445;'tenir le bec dans l'eau';1;50
+e;138816;'mocassin d'eau';1;50
+e;138823;'flèche d'eau';1;50
+e;138857;'puce d'eau';1;50
+e;138981;'scorpion d'eau';1;50
+e;185076;'clair comme de l'eau de roche';1;28
+e;185504;'apporter de l'eau à son moulin';1;50
+e;185550;'avoir de l'eau dans la cave';1;50
+e;185841;'compte là-dessus et bois de l'eau fraîche';1;50
+e;185851;'corrompre l'eau';1;50
+e;186376;'jeter le bébé avec l'eau du bain';1;2
+e;186860;'rompre l'eau à un cheval';1;50
+e;187030;'vivre d'amour et d'eau fraiche';1;50
+e;187031;'vivre d'amour et d'eau fraîche';1;4
+e;187638;'bateau d'eau douce';1;50
+e;191398;'chien d'eau romagnol';1;50
+e;191873;'trou d'eau';1;6
+e;193010;'gallinule poule d'eau';1;50
+e;193653;'merle d'eau';1;50
+e;310989;'planche d'eau vive';777;50
+e;311006;'patates à l'eau';1;50
+e;311318;'dauphins d'eau douce';777;50
+e;138003;'voie d'eau';1;94
+e;185754;'battre l'eau';1;50
+e;137865;'cours d'eau';1;502
+e;186967;'tomber à l'eau';1;36
+e;314796;'eau blanche';1;50
+e;115342;'de la plus belle eau';1;50
+e;161436;'en eau';1;50
+e;207289;'roue à eau';1;50
+e;210703;'d'une belle eau';1;50
+e;211873;'s'en aller en eau de boudin';1;50
+e;217460;'filtre à eau';1;10
+e;219017;'eau de parfum';1;62
+e;219203;'eau de distribution';1;50
+e;220087;'eau gazéifiée';1;50
+e;220264;'teneur en eau';1;50
+e;220508;'extincteur automatique à eau';1;50
+e;222052;'eau de bouleau';1;4
+e;222411;'eau céleste';1;50
+e;222412;'eau chargée';1;50
+e;222413;'eau croupie';1;98
+e;222414;'eau trouble';1;50
+e;222415;'eau distillée';1;54
+e;222416;'eau dormante';1;52
+e;222418;'eau mouillée';1;50
+e;222419;'eau naturelle';1;50
+e;222420;'eau polluée';1;52
+e;223565;'eau gommée';1;50
+e;225088;'eau souterraine';1;52
+e;226138;'pipe à eau';1;10
+e;229419;'eau bouillante';1;150
+e;230509;'eau de cologne';1;74
+e;231082;'eau frémissante';1;64
+e;231337;'eau lustrale';1;52
+e;232070;'eau d'arrosage';1;50
+e;232382;'eau de fleur d'oranger';1;58
+e;232754;'eau grise';1;50
+e;233060;'eau de lavande';1;2
+e;236335;'eau tonique';1;50
+e;238876;'eau contaminée';1;50
+e;241287;'eau stagnante';1;4
+e;244104;'eau froide';1;98
+e;248883;'eau non potable';1;50
+e;253943;'eau écarlate';1;76
+e;255547;'eau chaude sanitaire';1;50
+e;255745;'eau résiduelle';1;50
+e;257352;'eau de Zamzam';1;50
+e;263420;'eau douce tropicale';1;50
+e;168345;'eau de fleurs d'oranger';1;50
+e;218840;'eau dure';1;54
+e;167736;'eau potable';1;578
+e;218233;'eau salée';1;20
+e;141256;'château d'eau';1;70
+e;221418;'eau thermale';1;52
+e;81476;'être en eau';1;54
+e;106586;'horloge à eau';1;50
+e;108251;'suer sang et eau';1;64
+e;110648;'réacteurs à eau pressurisée';1;50
+e;156034;'pompe à eau';1;60
+e;161812;'eau de pluie';1;82
+e;161817;'eau de vie';1;80
+e;169462;'eau fraîche';1;62
+e;163353;'eau gazeuse';1;98
+e;213562;'eau gelée';1;54
+e;161346;'eau oxygénée';1;100
+e;165364;'eau pétillante';1;74
+e;47229;'réacteurs à eau ordinaire';1;50
+e;126876;'bombardier à eau';1;52
+e;152112;'moulin à eau';1;114
+e;152885;'verre à eau';1;62
+e;153694;'pistolet à eau';1;88
+e;179061;'faire eau';1;52
+e;183983;'réacteur à eau bouillante';1;50
+e;183984;'réacteur à eau sous pression';1;50
+e;202697;'laver à grande eau';1;52
+e;265434;'eau tiède';1;54
+e;265554;'eau liquide';1;52
+e;265805;'eau saumâtre';1;54
+e;266721;'eau de cuisson';1;62
+e;267275;'eau propice à la vie';1;50
+e;267745;'canon à eau';1;58
+e;282229;'émulsion eau gazole';777;50
+e;289865;'eau acidule';777;50
+e;289866;'eau effervescente';777;50
+e;301882;'réacteur à eau pressurisée';777;50
+e;302349;'grue à eau';777;50
+e;302350;'colonne à eau';777;50
+e;302459;'tête d'extinction automatique à eau';777;50
+e;303137;'eau baptismale';777;50
+e;303138;'eau grégorienne';777;50
+e;303139;'eau de Lourdes';777;50
+e;308194;'eau déionisée';777;50
+e;308222;'eau de coco';1;50
+e;186629;'se noyer dans un verre d'eau';1;50
+e;155740;'eau bénite';1;96
+e;154108;'eau calcaire';1;66
+e;182164;'eau capillaire';1;50
+e;154720;'eau chaude';1;254
+e;182165;'eau courante';1;26
+e;182176;'eau d'érable';1;50
+e;182168;'eau de Cologne';1;36
+e;182170;'eau de Javel';1;14
+e;171768;'eau de Seltz';1;50
+e;182166;'eau de boule';1;50
+e;182167;'eau de chaux';1;50
+e;182169;'eau de feu';1;50
+e;178257;'eau de goudron';1;50
+e;157807;'eau de javel';1;164
+e;182171;'eau de mer';1;36
+e;178258;'eau de mélisse';1;50
+e;155266;'eau de roche';1;52
+e;182173;'eau de rose';1;2
+e;182172;'eau de rétention';1;50
+e;182174;'eau de source';1;44
+e;154936;'eau de toilette';1;198
+e;53555;'eau de vaisselle';1;54
+e;178259;'eau des Carmes';1;50
+e;146872;'eau douce';1;194
+e;182177;'eau du robinet';1;26
+e;182175;'eau déminéralisée';1;50
+e;154646;'eau ferrugineuse';1;50
+e;182178;'eau impériale';1;50
+e;182179;'eau libre';1;50
+e;182180;'eau mère';1;50
+e;177231;'eau panée';1;50
+e;182181;'eau plate';1;50
+e;182182;'eau pluviale';1;50
+e;182183;'eau stygienne';1;50
+e;182184;'eau usée';1;50
+e;182185;'eau vive';1;96
+e;186309;'finir en eau de boudin';1;6
+e;186687;'pêcher en eau trouble';1;50
+e;197030;'bombe à eau';1;56
+e;310988;'nage en eau vive';777;50
+e;311210;'lance à eau';1;50
+e;312973;'eau de lessive';1;50
+e;190021;'eau de table';1;50
+e;136742;'eau minérale';1;90
+e;191897;'eau pure';1;50
+e;198970;'eau bénite de cour';1;50
+e;198971;'eau de refroidissement';1;50
+e;198972;'eau du ciel';1;50
+e;3657;'réacteurs à eau bouillante';1;50
+e;9614;'réacteurs à eau lourde';1;50
+e;173771;'eau lourde';1;52
+e;210986;'il n'y a pire eau que l'eau qui dort';1;50
+r;97325307;65012;186531;11;15
+r;403402456;65012;15688933;11;25
+r;276131875;65012;10959534;11;25
+r;297669807;65012;6284346;11;25
+r;297952987;65012;6285311;11;25
+r;298253534;65012;6288079;11;25
+r;298503941;65012;6292759;11;25
+r;299569025;65012;6308144;11;25
+r;299794795;65012;6317918;11;25
+r;301464728;65012;6340380;11;25
+r;301528916;65012;6344617;11;25
+r;301557450;65012;6345918;11;25
+r;301736860;65012;6350622;11;25
+r;301788130;65012;6355092;11;25
+r;302033018;65012;6357559;11;25
+r;302113561;65012;6361376;11;25
+r;302138889;65012;6362179;11;25
+r;302140411;65012;6362831;11;25
+r;302179757;65012;6364461;11;25
+r;302188883;65012;6365989;11;25
+r;302986515;65012;6371261;11;25
+r;302993496;65012;6371678;11;25
+r;303631886;65012;6377200;11;25
+r;303644399;65012;6379060;11;25
+r;305130302;65012;6398747;11;25
+r;305130557;65012;6399127;11;25
+r;305292611;65012;6403555;11;25
+r;305299006;65012;6404525;11;25
+r;305305633;65012;6405589;11;25
+r;305318278;65012;6407432;11;25
+r;305361646;65012;6408484;11;25
+r;305464873;65012;6410005;11;25
+r;305468602;65012;6410431;11;25
+r;311210335;65012;6346918;11;25
+r;316541052;65012;12202231;11;25
+r;316619117;65012;12180277;11;25
+r;316735062;65012;12146941;11;25
+r;316771782;65012;12136468;11;25
+r;316771795;65012;12136466;11;25
+r;318616201;65012;12234830;11;25
+r;318622203;65012;12234517;11;25
+r;318626253;65012;12234319;11;25
+r;318639072;65012;12233718;11;25
+r;318654719;65012;12233058;11;25
+r;318668772;65012;12232420;11;25
+r;341160949;65012;6371402;11;25
+r;344108956;65012;13588258;11;25
+r;345801099;65012;13635078;11;25
+r;345828205;65012;13635601;11;25
+r;347966933;65012;13709321;11;25
+r;348006144;65012;13710282;11;25
+r;348006412;65012;13710283;11;25
+r;349097221;65012;6383594;11;25
+r;349191105;65012;6323669;11;25
+r;361286793;65012;14231824;11;25
+r;352227193;65012;13988775;11;25
+r;353222157;65012;14005255;11;25
+r;354993320;65012;14048668;11;25
+r;354995937;65012;14048701;11;25
+r;357358261;65012;14113751;11;25
+r;357500908;65012;14114578;11;25
+r;357513625;65012;14114577;11;25
+r;357706117;65012;14116881;11;25
+r;357792280;65012;14123737;11;25
+r;357792954;65012;14123736;11;25
+r;357794591;65012;14123733;11;25
+r;359040254;65012;14151664;11;25
+r;359040280;65012;14151665;11;25
+r;359709354;65012;14159579;11;25
+r;359716773;65012;14159666;11;25
+r;359716880;65012;14159746;11;25
+r;359719188;65012;14159768;11;25
+r;359719573;65012;14159993;11;25
+r;364195354;65012;14304663;11;25
+r;364407363;65012;14317964;11;25
+r;364407379;65012;14319041;11;25
+r;364407448;65012;14319043;11;25
+r;364407465;65012;14319040;11;25
+r;364407481;65012;14319044;11;25
+r;364414098;65012;14318838;11;25
+r;364416170;65012;14318837;11;25
+r;364416311;65012;14318846;11;25
+r;365960605;65012;14400352;11;25
+r;365961198;65012;14400687;11;25
+r;366905719;65012;14462918;11;25
+r;369485844;65012;14538694;11;25
+r;369489193;65012;14537951;11;25
+r;369537572;65012;14538321;11;25
+r;369566779;65012;14538326;11;25
+r;369966751;65012;14549249;11;25
+r;369967805;65012;14549248;11;25
+r;370355507;65012;14568542;11;25
+r;371142162;65012;14604601;11;25
+r;371223560;65012;14609000;11;25
+r;371223642;65012;14609005;11;25
+r;371223715;65012;14609006;11;25
+r;371236390;65012;14609312;11;25
+r;371244901;65012;14609453;11;25
+r;371245264;65012;14609435;11;25
+r;371246180;65012;14609434;11;25
+r;371368743;65012;14611665;11;25
+r;371491213;65012;14612316;11;25
+r;371659145;65012;14629726;11;25
+r;371691671;65012;14632338;11;25
+r;371745729;65012;14635409;11;25
+r;371791619;65012;14636417;11;25
+r;371983714;65012;14638948;11;25
+r;371983868;65012;14638964;11;25
+r;372244148;65012;14640016;11;25
+r;372244303;65012;14640017;11;25
+r;372498515;65012;14653203;11;25
+r;372645493;65012;14655447;11;25
+r;372645603;65012;14655446;11;25
+r;372657414;65012;14655899;11;25
+r;372897363;65012;14665182;11;25
+r;374211545;65012;14717343;11;25
+r;374224111;65012;14718256;11;25
+r;375147266;65012;14757581;11;25
+r;375149182;65012;14757592;11;25
+r;375149630;65012;14757580;11;25
+r;375468030;65012;14772915;11;25
+r;392092642;65012;15013227;11;25
+r;395199469;65012;15415175;11;25
+r;395288468;65012;15418445;11;25
+r;395311615;65012;15422941;11;25
+r;396416090;65012;6286621;11;25
+r;397594121;65012;6303909;11;25
+r;397985280;65012;6307809;11;25
+r;402072532;65012;15646245;11;25
+r;411635246;65012;15806632;11;25
+r;411635265;65012;15806633;11;25
+r;418727997;65012;16071092;11;25
+r;418728387;65012;16071115;11;25
+r;418903425;65012;16071904;11;25
+r;419424774;65012;16087123;11;25
+r;419427310;65012;16087121;11;25
+r;419903683;65012;16095586;11;25
+r;420204693;65012;16103302;11;25
+r;423293109;65012;16158847;11;25
+r;423435840;65012;16144156;11;25
+r;425051303;65012;16169934;11;25
+r;428459266;65012;16311705;11;25
+r;428487510;65012;16312219;11;25
+r;428522597;65012;16312856;11;25
+r;428523391;65012;16312857;11;25
+r;433717090;65012;16467307;11;25
+r;435097094;65012;16563754;11;25
+r;435419279;65012;16573489;11;25
+r;392577246;65012;15026887;11;26
+r;392465937;65012;15024428;11;26
+r;299030121;65012;6298127;11;26
+r;299031643;65012;6298133;11;26
+r;299063867;65012;6298998;11;26
+r;299338423;65012;6302979;11;26
+r;299881162;65012;6319237;11;26
+r;299914426;65012;6319532;11;26
+r;301220748;65012;6335450;11;26
+r;303000377;65012;6372037;11;26
+r;303763635;65012;6380197;11;26
+r;305041656;65012;6396648;11;26
+r;305134438;65012;6399899;11;26
+r;305311708;65012;6406446;11;26
+r;305675418;65012;6416009;11;26
+r;305708699;65012;6420803;11;26
+r;316544254;65012;12201723;11;26
+r;318546014;65012;12238128;11;26
+r;318564768;65012;12237266;11;26
+r;318584895;65012;12236261;11;26
+r;318585237;65012;12236242;11;26
+r;318830286;65012;6363681;11;26
+r;337342299;65012;12988965;11;26
+r;364112059;65012;14300919;11;26
+r;367366290;65012;14469422;11;26
+r;368124173;65012;14486064;11;26
+r;368204152;65012;14488981;11;26
+r;368487859;65012;14510818;11;26
+r;368618231;65012;14530729;11;26
+r;368767065;65012;14536458;11;26
+r;369448518;65012;14538258;11;26
+r;369564923;65012;14540071;11;26
+r;370283063;65012;14571025;11;26
+r;370558037;65012;14583996;11;26
+r;370559275;65012;14584045;11;26
+r;370559287;65012;14584046;11;26
+r;370774367;65012;14593848;11;26
+r;371077342;65012;14602655;11;26
+r;371141293;65012;14604568;11;26
+r;371171327;65012;14605240;11;26
+r;373012814;65012;14670130;11;26
+r;373064671;65012;14670915;11;26
+r;374051174;65012;14716930;11;26
+r;374319945;65012;14722985;11;26
+r;374320136;65012;14722987;11;26
+r;374330163;65012;14723735;11;26
+r;374341927;65012;14724024;11;26
+r;374422575;65012;14727879;11;26
+r;374541152;65012;14730954;11;26
+r;393602330;65012;15032797;11;26
+r;393611377;65012;15033366;11;26
+r;400268929;65012;6365205;11;26
+r;423615194;65012;16163719;11;26
+r;423615209;65012;16163720;11;26
+r;423688556;65012;16165041;11;26
+r;423715507;65012;16165558;11;26
+r;1655344;65012;182186;11;27
+r;114452033;65012;5794387;11;27
+r;114452577;65012;5794175;11;27
+r;114453423;65012;5793863;11;27
+r;270781776;65012;10672815;11;27
+r;267327093;65012;10664166;11;27
+r;315632416;65012;12092969;11;27
+r;315632426;65012;12092968;11;27
+r;316433518;65012;12202236;11;27
+r;318478216;65012;12239047;11;27
+r;318485750;65012;12238741;11;27
+r;318494406;65012;12238316;11;27
+r;332114217;65012;12977841;11;27
+r;332114221;65012;12977840;11;27
+r;372859906;65012;14665183;11;27
+r;385026257;65012;14874298;11;27
+r;385989439;65012;14883609;11;27
+r;392124221;65012;15014352;11;27
+r;393558404;65012;15031515;11;27
+r;113795394;65012;5797916;11;28
+r;119663101;65012;6089038;11;28
+r;121498327;65012;6443306;11;28
+r;121574235;65012;6434834;11;28
+r;121580397;65012;6434146;11;28
+r;267327091;65012;10664174;11;28
+r;278966638;65012;10988578;11;28
+r;278966642;65012;10988575;11;28
+r;315537033;65012;12103997;11;28
+r;114452551;65012;5794187;11;29
+r;119675734;65012;6082700;11;29
+r;121555333;65012;6436955;11;29
+r;121573154;65012;6434949;11;29
+r;122681993;65012;6431748;11;29
+r;264459291;65012;10592798;11;29
+r;315489631;65012;12109616;11;29
+r;318423684;65012;12241451;11;29
+r;434387289;65012;16289338;11;29
+r;110629205;65012;5580255;11;30
+r;121519491;65012;6440944;11;30
+r;121521591;65012;6440713;11;30
+r;121547550;65012;6437815;11;30
+r;220844606;65012;9959170;11;30
+r;222151836;65012;9987035;11;30
+r;222151867;65012;9987027;11;30
+r;263799609;65012;10586284;11;30
+r;264433556;65012;10602638;11;30
+r;264441675;65012;10599487;11;30
+r;264444445;65012;10598344;11;30
+r;274271997;65012;10908644;11;30
+r;274289111;65012;10905236;11;30
+r;277401860;65012;10987705;11;30
+r;277544480;65012;10989490;11;30
+r;277928080;65012;10990301;11;30
+r;280286567;65012;11056152;11;30
+r;302025996;65012;11772040;11;30
+r;334151044;65012;13008905;11;30
+r;419745890;65012;15310234;11;30
+r;419747179;65012;15230256;11;30
+r;419748741;65012;15410885;11;30
+r;419750255;65012;15347463;11;30
+r;419752893;65012;15245915;11;30
+r;419758847;65012;15272899;11;30
+r;419767692;65012;15319486;11;30
+r;419767698;65012;15221411;11;30
+r;419767702;65012;15299220;11;30
+r;419767706;65012;15314317;11;30
+r;419767710;65012;15273003;11;30
+r;419767716;65012;15341422;11;30
+r;419767720;65012;15363995;11;30
+r;419772108;65012;15544027;11;30
+r;419775583;65012;15356679;11;30
+r;419775639;65012;15495216;11;30
+r;419775703;65012;15397762;11;30
+r;419779164;65012;15546699;11;30
+r;419789296;65012;15498675;11;30
+r;419799715;65012;15524544;11;30
+r;419801651;65012;15581361;11;30
+r;419809619;65012;15269873;11;30
+r;419813506;65012;15389724;11;30
+r;419814554;65012;15782780;11;30
+r;419831937;65012;15488518;11;30
+r;419831942;65012;15197805;11;30
+r;419831945;65012;15265285;11;30
+r;419831955;65012;15197798;11;30
+r;419831960;65012;15339804;11;30
+r;419831965;65012;15197789;11;30
+r;419831970;65012;15197785;11;30
+r;419831975;65012;15197796;11;30
+r;419831980;65012;15254062;11;30
+r;419831985;65012;15294650;11;30
+r;419831990;65012;15251670;11;30
+r;419831995;65012;15197794;11;30
+r;419832000;65012;15223638;11;30
+r;419832005;65012;15197792;11;30
+r;419832010;65012;15626155;11;30
+r;419832013;65012;15197788;11;30
+r;419832017;65012;15529433;11;30
+r;419832022;65012;15240583;11;30
+r;419832027;65012;15197801;11;30
+r;419832032;65012;15197787;11;30
+r;419832037;65012;15547088;11;30
+r;419832047;65012;15415221;11;30
+r;419832052;65012;15209048;11;30
+r;419832057;65012;15362229;11;30
+r;419832062;65012;15527248;11;30
+r;419832065;65012;15376240;11;30
+r;419832070;65012;15328087;11;30
+r;419832075;65012;15241567;11;30
+r;419832080;65012;15397738;11;30
+r;419832090;65012;6332641;11;30
+r;419832096;65012;15374320;11;30
+r;419832106;65012;15490438;11;30
+r;419832113;65012;15415236;11;30
+r;419832118;65012;15313730;11;30
+r;419832125;65012;15316093;11;30
+r;419832130;65012;15197807;11;30
+r;419832133;65012;15337638;11;30
+r;419832138;65012;15289555;11;30
+r;419832150;65012;15343917;11;30
+r;419832155;65012;15285728;11;30
+r;419832162;65012;15197803;11;30
+r;419832165;65012;15197783;11;30
+r;419832170;65012;15305130;11;30
+r;419832175;65012;15349191;11;30
+r;419832185;65012;15782783;11;30
+r;419832209;65012;11958007;11;30
+r;419834424;65012;15320678;11;30
+r;419839266;65012;15313737;11;30
+r;419839272;65012;15339941;11;30
+r;431496587;65012;16327542;11;30
+r;434379756;65012;16361019;11;30
+r;434380914;65012;16328402;11;30
+r;1655346;65012;198974;11;31
+r;1655349;65012;21495;11;31
+r;110651676;65012;5579935;11;31
+r;110669068;65012;5580471;11;31
+r;113773334;65012;5817085;11;31
+r;113773902;65012;5816924;11;31
+r;115875858;65012;5906186;11;31
+r;119194017;65012;6069780;11;31
+r;119194199;65012;6069722;11;31
+r;119194631;65012;6069556;11;31
+r;119194638;65012;6069555;11;31
+r;119195700;65012;6069180;11;31
+r;119196096;65012;6069042;11;31
+r;119196345;65012;6068969;11;31
+r;119196561;65012;6068880;11;31
+r;121548611;65012;6437694;11;31
+r;121564090;65012;6435972;11;31
+r;222104574;65012;9980185;11;31
+r;222104582;65012;9980184;11;31
+r;222151857;65012;9987032;11;31
+r;227656071;65012;10007238;11;31
+r;276788224;65012;10966008;11;31
+r;264440821;65012;10599944;11;31
+r;272826070;65012;10876417;11;31
+r;277091980;65012;10971282;11;31
+r;277128618;65012;10971835;11;31
+r;277583059;65012;10990298;11;31
+r;277583598;65012;10990299;11;31
+r;277583896;65012;10990290;11;31
+r;277635228;65012;10990812;11;31
+r;277639145;65012;10990831;11;31
+r;277645389;65012;10990819;11;31
+r;277649012;65012;10990953;11;31
+r;277924220;65012;10993539;11;31
+r;277924229;65012;10993537;11;31
+r;279397918;65012;11027819;11;31
+r;279740743;65012;11035040;11;31
+r;280167412;65012;11057833;11;31
+r;280284741;65012;11059374;11;31
+r;291993258;65012;11358572;11;31
+r;301556255;65012;11755424;11;31
+r;302387769;65012;11776566;11;31
+r;369917039;65012;14558347;11;31
+r;393603230;65012;15165230;11;31
+r;393603255;65012;15165229;11;31
+r;419704977;65012;15394481;11;31
+r;419707114;65012;16087479;11;31
+r;419707733;65012;15362227;11;31
+r;419711800;65012;16032457;11;31
+r;419711858;65012;15635069;11;31
+r;419717500;65012;15415203;11;31
+r;419720990;65012;15337879;11;31
+r;419721098;65012;15362504;11;31
+r;419726685;65012;15582879;11;31
+r;423701383;65012;16154229;11;31
+r;425806999;65012;16236014;11;31
+r;434376346;65012;16326140;11;31
+r;1655363;65012;146147;11;32
+r;29971952;65012;1832596;11;32
+r;111354955;65012;5634930;11;32
+r;111463118;65012;5679051;11;32
+r;113758568;65012;5829864;11;32
+r;113758575;65012;5829863;11;32
+r;113765517;65012;5827705;11;32
+r;113777747;65012;5816072;11;32
+r;114022890;65012;5835914;11;32
+r;115861767;65012;5911335;11;32
+r;115875836;65012;5906190;11;32
+r;119194068;65012;6069769;11;32
+r;119194968;65012;6069452;11;32
+r;119195186;65012;6069384;11;32
+r;119195953;65012;6069088;11;32
+r;121471405;65012;6446307;11;32
+r;121492811;65012;6443928;11;32
+r;121495028;65012;6443677;11;32
+r;121501082;65012;6442996;11;32
+r;121526951;65012;6440121;11;32
+r;122667638;65012;6433349;11;32
+r;122735493;65012;6424878;11;32
+r;276017955;65012;10955771;11;32
+r;263692506;65012;10579252;11;32
+r;277119278;65012;10971564;11;32
+r;277810267;65012;10993550;11;32
+r;277820651;65012;10993563;11;32
+r;277825312;65012;10993561;11;32
+r;277833500;65012;10993552;11;32
+r;277837279;65012;10993543;11;32
+r;277858150;65012;10993567;11;32
+r;277926317;65012;10992025;11;32
+r;280262998;65012;11059373;11;32
+r;291209907;65012;11354839;11;32
+r;291213645;65012;11353511;11;32
+r;291213675;65012;11353506;11;32
+r;301544725;65012;11755423;11;32
+r;305330802;65012;11823625;11;32
+r;312434966;65012;11994282;11;32
+r;419618304;65012;15415178;11;32
+r;419627194;65012;15341426;11;32
+r;419629196;65012;15415184;11;32
+r;419632028;65012;15415186;11;32
+r;419633214;65012;15399181;11;32
+r;419633270;65012;16032405;11;32
+r;419645212;65012;15352011;11;32
+r;419648553;65012;15980085;11;32
+r;419648824;65012;15992772;11;32
+r;419649541;65012;15265292;11;32
+r;419649548;65012;15392590;11;32
+r;419650210;65012;15319474;11;32
+r;419650219;65012;15363204;11;32
+r;419650374;65012;15650784;11;32
+r;419651084;65012;15224423;11;32
+r;419663206;65012;15546808;11;32
+r;419665177;65012;15245913;11;32
+r;419668434;65012;15350400;11;32
+r;419670222;65012;16029354;11;32
+r;419672022;65012;15413727;11;32
+r;419672028;65012;15413726;11;32
+r;419672086;65012;15415191;11;32
+r;419674948;65012;15519826;11;32
+r;419676715;65012;15358655;11;32
+r;419679061;65012;15286308;11;32
+r;419679993;65012;15258957;11;32
+r;419681388;65012;15415194;11;32
+r;419682271;65012;15245916;11;32
+r;419695573;65012;15362225;11;32
+r;419696603;65012;15528869;11;32
+r;419702878;65012;15317746;11;32
+r;429980420;65012;16324306;11;32
+r;434372195;65012;16237414;11;32
+r;29943817;65012;1829853;11;33
+r;29970213;65012;1832591;11;33
+r;29972075;65012;1832590;11;33
+r;114017406;65012;5837032;11;33
+r;114026032;65012;5833459;11;33
+r;115856992;65012;5916572;11;33
+r;121511720;65012;6441827;11;33
+r;121548836;65012;6437671;11;33
+r;121553984;65012;6437107;11;33
+r;122664743;65012;6433676;11;33
+r;263684535;65012;10579253;11;33
+r;276121840;65012;10959533;11;33
+r;277825322;65012;10993797;11;33
+r;280284546;65012;11059433;11;33
+r;280510198;65012;11065461;11;33
+r;291136537;65012;11354939;11;33
+r;334633992;65012;13052141;11;33
+r;337338506;65012;13105608;11;33
+r;342318435;65012;13517405;11;33
+r;342318682;65012;13517403;11;33
+r;342320637;65012;13517409;11;33
+r;417074521;65012;15980092;11;33
+r;410400082;65012;15788935;11;33
+r;411747724;65012;15811288;11;33
+r;419418968;65012;16087118;11;33
+r;419603811;65012;15325760;11;33
+r;419603817;65012;15743833;11;33
+r;419603823;65012;15743832;11;33
+r;419603831;65012;15399657;11;33
+r;419604719;65012;15265300;11;33
+r;419605787;65012;15359765;11;33
+r;419608193;65012;15265290;11;33
+r;419608199;65012;15340355;11;33
+r;419611643;65012;15324739;11;33
+r;419611801;65012;15226706;11;33
+r;419611805;65012;15226711;11;33
+r;434368614;65012;16286005;11;33
+r;434369409;65012;16133458;11;33
+r;1655348;65012;153331;11;34
+r;29947335;65012;1830291;11;34
+r;29949537;65012;1830290;11;34
+r;29951565;65012;1830644;11;34
+r;29970336;65012;1832595;11;34
+r;29972589;65012;1832592;11;34
+r;30014597;65012;1837001;11;34
+r;115098108;65012;5899888;11;34
+r;115840624;65012;5921344;11;34
+r;115841219;65012;5920986;11;34
+r;115842104;65012;5920670;11;34
+r;115847676;65012;5919199;11;34
+r;115858501;65012;5913121;11;34
+r;116576081;65012;5961266;11;34
+r;116578352;65012;5960723;11;34
+r;116588543;65012;5953114;11;34
+r;116588795;65012;5953041;11;34
+r;122726864;65012;6425982;11;34
+r;124393562;65012;7333441;11;34
+r;275361175;65012;10936737;11;34
+r;275361322;65012;10936699;11;34
+r;281144406;65012;11082295;11;34
+r;281148295;65012;11082352;11;34
+r;283109388;65012;11083031;11;34
+r;300957617;65012;11696941;11;34
+r;303717605;65012;11788388;11;34
+r;305367798;65012;11824295;11;34
+r;306357513;65012;11832063;11;34
+r;313145157;65012;11996059;11;34
+r;314268576;65012;12071007;11;34
+r;314268999;65012;12071198;11;34
+r;315117433;65012;12079551;11;34
+r;315122343;65012;12078621;11;34
+r;315122348;65012;12078620;11;34
+r;315122353;65012;12078619;11;34
+r;315122358;65012;12078618;11;34
+r;315122363;65012;12078617;11;34
+r;315122368;65012;12078616;11;34
+r;315122373;65012;12078615;11;34
+r;315122378;65012;12078614;11;34
+r;315122388;65012;12078613;11;34
+r;315122393;65012;12078612;11;34
+r;315122398;65012;12078611;11;34
+r;315122403;65012;12078610;11;34
+r;315122408;65012;12078609;11;34
+r;318284760;65012;12242576;11;34
+r;318286486;65012;12242490;11;34
+r;335267159;65012;13106535;11;34
+r;434347314;65012;16508103;11;34
+r;395203329;65012;15415176;11;34
+r;419518605;65012;15344732;11;34
+r;419526688;65012;16076124;11;34
+r;419527378;65012;15245911;11;34
+r;419531908;65012;15329895;11;34
+r;419534054;65012;15245909;11;34
+r;419537593;65012;16074296;11;34
+r;419551011;65012;15292064;11;34
+r;419551023;65012;15426892;11;34
+r;419558055;65012;15325243;11;34
+r;419560767;65012;15243068;11;34
+r;419571154;65012;15265298;11;34
+r;419571653;65012;15688931;11;34
+r;419575180;65012;15647108;11;34
+r;419577112;65012;15320271;11;34
+r;419581548;65012;15536732;11;34
+r;419586305;65012;15583292;11;34
+r;419586900;65012;15523762;11;34
+r;419588487;65012;15301699;11;34
+r;419589620;65012;15523707;11;34
+r;29959447;65012;1831420;11;35
+r;29970195;65012;1832586;11;35
+r;29970388;65012;1832594;11;35
+r;29970507;65012;1832589;11;35
+r;29970723;65012;1832587;11;35
+r;29970794;65012;1832584;11;35
+r;29970882;65012;1832593;11;35
+r;29970911;65012;1832583;11;35
+r;29971486;65012;1832585;11;35
+r;29973360;65012;1832588;11;35
+r;29978941;65012;1833467;11;35
+r;30015120;65012;1837185;11;35
+r;110806045;65012;5625514;11;35
+r;113282058;65012;5809095;11;35
+r;113308792;65012;5802072;11;35
+r;113797043;65012;5797439;11;35
+r;115094140;65012;5901092;11;35
+r;115103039;65012;5898855;11;35
+r;115858527;65012;5913110;11;35
+r;117896054;65012;5984454;11;35
+r;121047073;65012;6450048;11;35
+r;122682874;65012;6431651;11;35
+r;291989752;65012;11361424;11;35
+r;293288026;65012;11407872;11;35
+r;293461839;65012;11410006;11;35
+r;294009443;65012;11415048;11;35
+r;300958541;65012;11693181;11;35
+r;340772493;65012;13426030;11;35
+r;340772498;65012;13426029;11;35
+r;312645670;65012;11996052;11;35
+r;312648698;65012;11996055;11;35
+r;312654768;65012;11996053;11;35
+r;312685259;65012;11996058;11;35
+r;312704165;65012;11996049;11;35
+r;313144149;65012;12007948;11;35
+r;313145044;65012;11997676;11;35
+r;313145048;65012;11997675;11;35
+r;313414115;65012;12033446;11;35
+r;313997780;65012;12067040;11;35
+r;314744583;65012;12077079;11;35
+r;314744614;65012;12077078;11;35
+r;315104575;65012;12077952;11;35
+r;315108175;65012;12081323;11;35
+r;315109663;65012;12081016;11;35
+r;315112300;65012;12080541;11;35
+r;315113611;65012;12080287;11;35
+r;315120446;65012;12078981;11;35
+r;315121634;65012;12078753;11;35
+r;315121712;65012;12078739;11;35
+r;315121732;65012;12078735;11;35
+r;315121744;65012;12078733;11;35
+r;315124463;65012;12078219;11;35
+r;319537597;65012;12301611;11;35
+r;329459053;65012;12862891;11;35
+r;329459074;65012;12862890;11;35
+r;332114435;65012;12977429;11;35
+r;365961711;65012;14400741;11;35
+r;417161444;65012;15991421;11;35
+r;403047853;65012;15684211;11;35
+r;411340184;65012;15791213;11;35
+r;413033943;65012;15835440;11;35
+r;417653702;65012;16027893;11;35
+r;419492751;65012;15773903;11;35
+r;419492831;65012;15582676;11;35
+r;419494639;65012;15774265;11;35
+r;419495431;65012;15570724;11;35
+r;419495455;65012;15950711;11;35
+r;419496684;65012;15409369;11;35
+r;419499573;65012;15950716;11;35
+r;419499583;65012;15884878;11;35
+r;419507292;65012;15214175;11;35
+r;423639117;65012;16153399;11;35
+r;425067765;65012;16167797;11;35
+r;425774821;65012;16235631;11;35
+r;428848869;65012;16317224;11;35
+r;430341225;65012;16324790;11;35
+r;17848198;65012;160743;11;36
+r;19690679;65012;191183;11;36
+r;93712186;65012;3752593;11;36
+r;110807686;65012;5624650;11;36
+r;110808305;65012;5624318;11;36
+r;114444635;65012;5854489;11;36
+r;114751432;65012;5893409;11;36
+r;115500411;65012;5918189;11;36
+r;121506906;65012;6442359;11;36
+r;122881392;65012;6697409;11;36
+r;252669684;65012;10314562;11;36
+r;252678575;65012;10312093;11;36
+r;252679170;65012;10311954;11;36
+r;268854459;65012;10745172;11;36
+r;275271608;65012;10936828;11;36
+r;279009931;65012;11013762;11;36
+r;281348598;65012;11094758;11;36
+r;288838554;65012;11287664;11;36
+r;297659409;65012;11577521;11;36
+r;313675420;65012;12049844;11;36
+r;313681712;65012;12049884;11;36
+r;313764218;65012;12051353;11;36
+r;313764352;65012;12051331;11;36
+r;314538403;65012;12075595;11;36
+r;315107001;65012;12081544;11;36
+r;315108427;65012;12081274;11;36
+r;315108447;65012;12081270;11;36
+r;315108517;65012;12081256;11;36
+r;315108549;65012;12081250;11;36
+r;315111294;65012;12080717;11;36
+r;315113439;65012;12080318;11;36
+r;315114322;65012;12080147;11;36
+r;329463281;65012;12862953;11;36
+r;365961085;65012;14400353;11;36
+r;413895007;65012;15883473;11;36
+r;416969271;65012;15964252;11;36
+r;419490774;65012;15341146;11;36
+r;419490796;65012;15354226;11;36
+r;419491564;65012;15950709;11;36
+r;419491570;65012;15230253;11;36
+r;16124347;65012;256639;11;37
+r;29968417;65012;1832216;11;37
+r;52220472;65012;2376118;11;37
+r;52233788;65012;2378122;11;37
+r;93713708;65012;3752436;11;37
+r;110802892;65012;5627838;11;37
+r;110806504;65012;5625049;11;37
+r;110806988;65012;5624932;11;37
+r;110807065;65012;5624908;11;37
+r;110808355;65012;5624306;11;37
+r;110809298;65012;5623964;11;37
+r;111344439;65012;5670417;11;37
+r;113308771;65012;5802075;11;37
+r;114760634;65012;5883652;11;37
+r;115102548;65012;5898960;11;37
+r;117878781;65012;5988012;11;37
+r;117915908;65012;5979614;11;37
+r;121518388;65012;6441075;11;37
+r;121576340;65012;6434593;11;37
+r;140281711;65012;8259959;11;37
+r;277924225;65012;10993538;11;37
+r;283547740;65012;11147834;11;37
+r;288029092;65012;11237348;11;37
+r;290585847;65012;11342836;11;37
+r;313541851;65012;12040612;11;37
+r;315107463;65012;12081460;11;37
+r;318264855;65012;12243516;11;37
+r;318265369;65012;12243491;11;37
+r;318271815;65012;12243172;11;37
+r;318273216;65012;12243097;11;37
+r;337337652;65012;13153824;11;37
+r;424083958;65012;16158294;11;37
+r;52438713;65012;2373908;11;38
+r;110776269;65012;5625570;11;38
+r;110808377;65012;5624298;11;38
+r;115095141;65012;5900813;11;38
+r;115101307;65012;5899205;11;38
+r;116314000;65012;5942206;11;38
+r;121506829;65012;6442368;11;38
+r;121541438;65012;6438509;11;38
+r;232110708;65012;10058374;11;38
+r;253378241;65012;10343692;11;38
+r;270360976;65012;10822483;11;38
+r;275270163;65012;10936796;11;38
+r;283380239;65012;11147614;11;38
+r;291813381;65012;11364024;11;38
+r;291813390;65012;11364023;11;38
+r;296015947;65012;11519271;11;38
+r;296045350;65012;11519613;11;38
+r;299342620;65012;11654316;11;38
+r;426070256;65012;16242405;11;38
+r;434030397;65012;16391674;11;38
+r;29970315;65012;1832582;11;39
+r;55634242;65012;2458505;11;39
+r;109588839;65012;5535780;11;39
+r;109877711;65012;5557858;11;39
+r;110807526;65012;5624769;11;39
+r;110808169;65012;5624418;11;39
+r;110809272;65012;5623972;11;39
+r;113275304;65012;5811001;11;39
+r;116311336;65012;5942945;11;39
+r;121451591;65012;6448502;11;39
+r;121489993;65012;6444231;11;39
+r;227578830;65012;10050204;11;39
+r;254176332;65012;10347662;11;39
+r;254176348;65012;10347660;11;39
+r;288028542;65012;11247309;11;39
+r;291673996;65012;11364025;11;39
+r;296657941;65012;11552878;11;39
+r;307790689;65012;11933133;11;39
+r;308639583;65012;11957573;11;39
+r;308640670;65012;11957574;11;39
+r;308641330;65012;11957518;11;39
+r;308645275;65012;11957578;11;39
+r;310778266;65012;11976005;11;39
+r;318257112;65012;12243854;11;39
+r;318257288;65012;12243844;11;39
+r;340517597;65012;13400431;11;39
+r;52222434;65012;2376466;11;40
+r;110767685;65012;5624607;11;40
+r;110802942;65012;5627825;11;40
+r;110808296;65012;5624320;11;40
+r;110808310;65012;5624316;11;40
+r;110808912;65012;5624165;11;40
+r;110809247;65012;5623980;11;40
+r;114750303;65012;5893792;11;40
+r;115094901;65012;5900890;11;40
+r;115095209;65012;5900785;11;40
+r;117895402;65012;5984590;11;40
+r;117896919;65012;5984279;11;40
+r;121032984;65012;6451585;11;40
+r;121487161;65012;6444547;11;40
+r;121494424;65012;6443750;11;40
+r;121505861;65012;6442472;11;40
+r;121566185;65012;6435729;11;40
+r;122897466;65012;6700287;11;40
+r;242258480;65012;10189756;11;40
+r;263166567;65012;10556981;11;40
+r;269372899;65012;10761202;11;40
+r;283282832;65012;11147117;11;40
+r;283282956;65012;11147086;11;40
+r;289396652;65012;11303297;11;40
+r;313739847;65012;12053000;11;40
+r;313742515;65012;12053002;11;40
+r;340231943;65012;13406142;11;40
+r;54494704;65012;2422078;11;41
+r;110807817;65012;5624600;11;41
+r;110807901;65012;5624484;11;41
+r;110810313;65012;5623221;11;41
+r;115089106;65012;5902963;11;41
+r;115096308;65012;5900333;11;41
+r;115098076;65012;5899889;11;41
+r;117874554;65012;5989216;11;41
+r;121442494;65012;6527623;11;41
+r;121442501;65012;6527622;11;41
+r;262053418;65012;10506909;11;41
+r;262884239;65012;10549206;11;41
+r;278299165;65012;11002942;11;41
+r;278323895;65012;11003464;11;41
+r;278375604;65012;11004540;11;41
+r;283283117;65012;11146849;11;41
+r;288439371;65012;11254397;11;41
+r;290261822;65012;11330493;11;41
+r;297605518;65012;11573840;11;41
+r;298130259;65012;11629024;11;41
+r;318885394;65012;12277273;11;41
+r;52998576;65012;2385034;11;42
+r;55858973;65012;2470283;11;42
+r;110808164;65012;5624419;11;42
+r;110808174;65012;5624417;11;42
+r;110808219;65012;5624407;11;42
+r;114750309;65012;5893790;11;42
+r;115097768;65012;5899965;11;42
+r;117873912;65012;5989335;11;42
+r;117909907;65012;5981083;11;42
+r;117913945;65012;5980200;11;42
+r;117914062;65012;5980140;11;42
+r;117914684;65012;5979974;11;42
+r;285989831;65012;11174938;11;42
+r;285995019;65012;11174937;11;42
+r;291765103;65012;11373427;11;42
+r;291744860;65012;11373414;11;42
+r;291745742;65012;11373412;11;42
+r;309001336;65012;11971986;11;42
+r;318927636;65012;12278209;11;42
+r;318972368;65012;12278899;11;42
+r;319038165;65012;12283262;11;42
+r;395018070;65012;13999135;11;42
+r;395018080;65012;13999134;11;42
+r;420269860;65012;16096807;11;42
+r;53399601;65012;2402531;11;43
+r;55937249;65012;2474390;11;43
+r;110806472;65012;5625053;11;43
+r;110807077;65012;5624905;11;43
+r;110808301;65012;5624319;11;43
+r;110808315;65012;5624315;11;43
+r;110808501;65012;5624253;11;43
+r;110808535;65012;5624238;11;43
+r;110808570;65012;5624230;11;43
+r;114444648;65012;5854487;11;43
+r;114750285;65012;5893794;11;43
+r;115097637;65012;5899999;11;43
+r;115098648;65012;5899783;11;43
+r;115105166;65012;5898061;11;43
+r;115855623;65012;5917087;11;43
+r;116309432;65012;5943465;11;43
+r;117877937;65012;5988188;11;43
+r;117910487;65012;5980969;11;43
+r;121039384;65012;6450895;11;43
+r;121054975;65012;6449182;11;43
+r;121540880;65012;6438568;11;43
+r;240633969;65012;10185120;11;43
+r;287223866;65012;11208128;11;43
+r;289886635;65012;11315695;11;43
+r;320907962;65012;12402466;11;43
+r;338932468;65012;13293941;11;43
+r;54601547;65012;2426973;11;44
+r;109870057;65012;5557854;11;44
+r;110806652;65012;5625014;11;44
+r;110807981;65012;5624459;11;44
+r;110808275;65012;5624386;11;44
+r;110808494;65012;5624255;11;44
+r;116313948;65012;5942217;11;44
+r;117878812;65012;5988005;11;44
+r;117880007;65012;5987751;11;44
+r;121044375;65012;6450337;11;44
+r;121044486;65012;6450326;11;44
+r;121049170;65012;6449824;11;44
+r;121474632;65012;6445957;11;44
+r;238104209;65012;10159701;11;44
+r;238104560;65012;10159655;11;44
+r;318238922;65012;12244595;11;44
+r;110808160;65012;5624420;11;45
+r;114444656;65012;5854484;11;45
+r;115107336;65012;5897336;11;45
+r;118931120;65012;6066395;11;45
+r;121047042;65012;6450052;11;45
+r;121459768;65012;6447604;11;45
+r;121474748;65012;6445945;11;45
+r;121477780;65012;6445597;11;45
+r;236653520;65012;10145648;11;45
+r;236655435;65012;10145155;11;45
+r;236655447;65012;10145154;11;45
+r;284945081;65012;11159187;11;45
+r;417031052;65012;15835558;11;45
+r;417032327;65012;15344935;11;45
+r;50686083;65012;2368260;11;46
+r;54436709;65012;2419067;11;46
+r;109879013;65012;5557474;11;46
+r;110807493;65012;5624776;11;46
+r;115087998;65012;5903241;11;46
+r;115097337;65012;5900059;11;46
+r;117874090;65012;5989307;11;46
+r;117878674;65012;5988033;11;46
+r;117885966;65012;5986592;11;46
+r;121503594;65012;6442723;11;46
+r;285410563;65012;11160682;11;46
+r;327918982;65012;12776231;11;46
+r;50650199;65012;2368259;11;47
+r;50532751;65012;2367994;11;47
+r;55888782;65012;2471987;11;47
+r;117876492;65012;5988619;11;47
+r;118543909;65012;5999923;11;47
+r;121492985;65012;6443906;11;47
+r;281836813;65012;11105648;11;47
+r;327621859;65012;12769500;11;47
+r;52241416;65012;2379357;11;48
+r;112200277;65012;5685280;11;48
+r;117879135;65012;5987933;11;48
+r;117881142;65012;5987526;11;48
+r;117908165;65012;5981463;11;48
+r;121042026;65012;6450598;11;48
+r;121056616;65012;6449003;11;48
+r;256233623;65012;10436526;11;48
+r;256136733;65012;10435845;11;48
+r;256283954;65012;10438833;11;48
+r;282477020;65012;11106208;11;48
+r;290585805;65012;11342736;11;48
+r;317988807;65012;12244969;11;48
+r;50463738;65012;2366204;11;49
+r;50472720;65012;2367169;11;49
+r;110807518;65012;5624770;11;49
+r;110807539;65012;5624768;11;49
+r;281852095;65012;11105802;11;49
+r;29785482;65012;1824233;11;50
+r;52522705;65012;2501685;11;50
+r;110809265;65012;5623973;11;50
+r;117872646;65012;5989561;11;50
+r;169732707;65012;8732152;11;50
+r;177402868;65012;8741798;11;50
+r;180161876;65012;8751230;11;50
+r;180161885;65012;8751228;11;50
+r;180161894;65012;8751209;11;50
+r;180161919;65012;8751153;11;50
+r;184478701;65012;8794093;11;50
+r;184478707;65012;8794090;11;50
+r;184478725;65012;8794042;11;50
+r;188941765;65012;8824302;11;50
+r;190279937;65012;8852848;11;50
+r;190335890;65012;8854584;11;50
+r;190727245;65012;8867375;11;50
+r;190856910;65012;8879919;11;50
+r;191812661;65012;8895186;11;50
+r;193074109;65012;8918857;11;50
+r;193126260;65012;8930411;11;50
+r;193126281;65012;8930396;11;50
+r;193126296;65012;8930399;11;50
+r;193126432;65012;8930418;11;50
+r;193126450;65012;8930413;11;50
+r;193126571;65012;8930415;11;50
+r;193126800;65012;8930397;11;50
+r;193127066;65012;8930412;11;50
+r;193127755;65012;8930395;11;50
+r;193128802;65012;8930398;11;50
+r;193128983;65012;8930401;11;50
+r;193129189;65012;8930393;11;50
+r;193129611;65012;8930394;11;50
+r;193130273;65012;8930400;11;50
+r;193190237;65012;8930388;11;50
+r;193215611;65012;8930389;11;50
+r;193872597;65012;8969213;11;50
+r;195350995;65012;9012897;11;50
+r;209749951;65012;9209854;11;50
+r;209750471;65012;9209859;11;50
+r;209873215;65012;9220979;11;50
+r;209873326;65012;9220977;11;50
+r;210504505;65012;9239473;11;50
+r;211463550;65012;9247663;11;50
+r;211909667;65012;9262417;11;50
+r;213741592;65012;9448093;11;50
+r;216434097;65012;9604534;11;50
+r;216442906;65012;9604530;11;50
+r;216618437;65012;9612252;11;50
+r;217157559;65012;9669679;11;50
+r;217160284;65012;9669680;11;50
+r;217358389;65012;9695710;11;50
+r;217988179;65012;9740205;11;50
+r;221471181;65012;9971535;11;50
+r;277820140;65012;10993553;11;50
+r;282223198;65012;11109469;11;50
+r;282230243;65012;11109467;11;50
+r;282371340;65012;11122067;11;50
+r;282467831;65012;11117721;11;50
+r;317979830;65012;12245372;11;50
+r;318233093;65012;12262030;11;50
+r;322165749;65012;12495000;11;50
+r;323115721;65012;12617634;11;50
+r;323118437;65012;12617185;11;50
+r;324826275;65012;12682826;11;50
+r;327048269;65012;12732925;11;50
+r;327319570;65012;12734312;11;50
+r;327320098;65012;12733795;11;50
+r;327330379;65012;12699857;11;50
+r;348979917;65012;13800103;11;50
+r;348997362;65012;13743377;11;50
+r;348997452;65012;13777699;11;50
+r;352753884;65012;13998223;11;50
+r;352754034;65012;13998224;11;50
+r;352760293;65012;13998225;11;50
+r;352965000;65012;13998958;11;50
+r;352965039;65012;13998959;11;50
+r;352967800;65012;13998955;11;50
+r;352984092;65012;13998957;11;50
+r;353019430;65012;13998956;11;50
+r;364453472;65012;14318843;11;50
+r;368690847;65012;14531073;11;50
+r;370359040;65012;14571678;11;50
+r;371784830;65012;14636054;11;50
+r;371802377;65012;14636406;11;50
+r;414755740;65012;15521245;11;50
+r;397497242;65012;15214177;11;50
+r;402108930;65012;15560886;11;50
+r;402108442;65012;15583961;11;50
+r;402122282;65012;15459013;11;50
+r;402107016;65012;15452473;11;50
+r;402103408;65012;15300603;11;50
+r;402103732;65012;15372577;11;50
+r;393804401;65012;14481266;11;50
+r;393835697;65012;14096525;11;50
+r;393998012;65012;14483113;11;50
+r;395010123;65012;15341428;11;50
+r;395013231;65012;15385981;11;50
+r;395014203;65012;15384727;11;50
+r;395032351;65012;14483143;11;50
+r;398926795;65012;15561302;11;50
+r;399661739;65012;15583380;11;50
+r;402275037;65012;15625412;11;50
+r;411712639;65012;15780295;11;50
+r;411718100;65012;15789819;11;50
+r;412449483;65012;15824218;11;50
+r;412450519;65012;15824217;11;50
+r;412450731;65012;15824219;11;50
+r;412450767;65012;15824221;11;50
+r;412450912;65012;15824220;11;50
+r;414847852;65012;15516221;11;50
+r;414847856;65012;15314313;11;50
+r;414847860;65012;15356246;11;50
+r;414847864;65012;15214901;11;50
+r;414847870;65012;15340361;11;50
+r;414847876;65012;15294899;11;50
+r;414847884;65012;15281391;11;50
+r;416556732;65012;15952943;11;50
+r;416556743;65012;15952944;11;50
+r;419102191;65012;16084215;11;50
+r;423301397;65012;16133337;11;50
+r;423424792;65012;16137849;11;50
+r;423686853;65012;16154230;11;50
+r;17092656;65012;567334;11;51
+r;26040751;65012;1643924;11;51
+r;52461101;65012;2532637;11;51
+r;52482063;65012;2487692;11;51
+r;53132581;65012;2581253;11;51
+r;53136597;65012;2581434;11;51
+r;54728926;65012;2589917;11;51
+r;55140019;65012;2600223;11;51
+r;55458273;65012;2603837;11;51
+r;72714258;65012;2950425;11;51
+r;78316135;65012;3230919;11;51
+r;78800213;65012;3260268;11;51
+r;83668267;65012;3320062;11;51
+r;93039511;65012;3728167;11;51
+r;93585369;65012;3751012;11;51
+r;93632342;65012;3751537;11;51
+r;93660096;65012;3758091;11;51
+r;93667454;65012;3757296;11;51
+r;93670198;65012;3757002;11;51
+r;93683144;65012;3755624;11;51
+r;93697740;65012;3754132;11;51
+r;93705004;65012;3753374;11;51
+r;93706722;65012;3753191;11;51
+r;93717841;65012;3751986;11;51
+r;93719582;65012;3751793;11;51
+r;106889386;65012;5331579;11;51
+r;16993366;65012;566820;11;52
+r;19626735;65012;737336;11;52
+r;50064002;65012;2358712;11;52
+r;52448070;65012;2559707;11;52
+r;52459977;65012;2535168;11;52
+r;52460317;65012;2534419;11;52
+r;52478056;65012;2496501;11;52
+r;53132164;65012;2581228;11;52
+r;55454400;65012;2603574;11;52
+r;55486054;65012;2605389;11;52
+r;71881854;65012;2931557;11;52
+r;76301150;65012;3171791;11;52
+r;80422199;65012;3286208;11;52
+r;93008898;65012;3725838;11;52
+r;93649740;65012;3759162;11;52
+r;93651061;65012;3759031;11;52
+r;93651407;65012;3758993;11;52
+r;93652001;65012;3758931;11;52
+r;93664096;65012;3757659;11;52
+r;93672942;65012;3756696;11;52
+r;93675149;65012;3756464;11;52
+r;93678001;65012;3756146;11;52
+r;93686566;65012;3755355;11;52
+r;93689552;65012;3755024;11;52
+r;93689740;65012;3755003;11;52
+r;93702349;65012;3753663;11;52
+r;93708128;65012;3753042;11;52
+r;93715577;65012;3752228;11;52
+r;93716129;65012;3752170;11;52
+r;106011275;65012;5153654;11;52
+r;106899510;65012;5331494;11;52
+r;24476429;65012;1479720;11;53
+r;24528629;65012;1483468;11;53
+r;27469886;65012;1656355;11;53
+r;32067012;65012;1977592;11;53
+r;33803601;65012;2324978;11;53
+r;55471424;65012;2604542;11;53
+r;61611697;65012;2691964;11;53
+r;61611709;65012;2691962;11;53
+r;71920955;65012;2932161;11;53
+r;75981130;65012;3159580;11;53
+r;76712245;65012;3179424;11;53
+r;78598548;65012;3246377;11;53
+r;82837120;65012;3304040;11;53
+r;83661134;65012;3321552;11;53
+r;92511074;65012;3705741;11;53
+r;93656672;65012;3758457;11;53
+r;93661312;65012;3757966;11;53
+r;93668166;65012;3757222;11;53
+r;93670053;65012;3757018;11;53
+r;93684561;65012;3755466;11;53
+r;93779464;65012;3760345;11;53
+r;93693079;65012;3754628;11;53
+r;93699255;65012;3753982;11;53
+r;93700987;65012;3753804;11;53
+r;93705029;65012;3753371;11;53
+r;93709128;65012;3752931;11;53
+r;94044334;65012;3751418;11;53
+r;107389863;65012;5389067;11;53
+r;18532188;65012;590535;11;54
+r;27986599;65012;1699010;11;54
+r;28988069;65012;1764213;11;54
+r;29860804;65012;1850032;11;54
+r;30364381;65012;1877903;11;54
+r;31795860;65012;1972208;11;54
+r;55478244;65012;2604967;11;54
+r;55493073;65012;2605759;11;54
+r;99824724;65012;4467526;11;54
+r;61611703;65012;2691963;11;54
+r;72773881;65012;2951337;11;54
+r;77555451;65012;3223441;11;54
+r;79968782;65012;3263799;11;54
+r;79970557;65012;3263800;11;54
+r;82133770;65012;3296300;11;54
+r;83672287;65012;3319301;11;54
+r;86131380;65012;3372133;11;54
+r;91771178;65012;3694644;11;54
+r;92970031;65012;3725843;11;54
+r;93656403;65012;3758488;11;54
+r;93660841;65012;3758019;11;54
+r;93660884;65012;3758015;11;54
+r;93664406;65012;3757625;11;54
+r;93669875;65012;3757035;11;54
+r;93676197;65012;3756344;11;54
+r;93694793;65012;3754444;11;54
+r;93708759;65012;3752976;11;54
+r;93711534;65012;3752659;11;54
+r;94044240;65012;3755366;11;54
+r;94044320;65012;3751985;11;54
+r;95154118;65012;4225745;11;54
+r;18569932;65012;591844;11;55
+r;29107840;65012;1771106;11;55
+r;29915707;65012;1833249;11;55
+r;31418966;65012;1935087;11;55
+r;31726621;65012;1969407;11;55
+r;31758328;65012;1970724;11;55
+r;34791220;65012;2353727;11;55
+r;50157558;65012;2360805;11;55
+r;52454523;65012;2546178;11;55
+r;52470009;65012;2513808;11;55
+r;55465394;65012;2604262;11;55
+r;55499107;65012;2606115;11;55
+r;58033097;65012;2609655;11;55
+r;72719229;65012;2950482;11;55
+r;76616837;65012;3177485;11;55
+r;77533628;65012;3223243;11;55
+r;83273379;65012;3308727;11;55
+r;93649228;65012;3759249;11;55
+r;93654830;65012;3758644;11;55
+r;93661675;65012;3757925;11;55
+r;93662347;65012;3757852;11;55
+r;93668807;65012;3757152;11;55
+r;93674011;65012;3756579;11;55
+r;93686020;65012;3755407;11;55
+r;93689545;65012;3755025;11;55
+r;93696351;65012;3754274;11;55
+r;93700984;65012;3753805;11;55
+r;93704666;65012;3753410;11;55
+r;93711230;65012;3752693;11;55
+r;93721573;65012;3751562;11;55
+r;94044238;65012;3755432;11;55
+r;102298831;65012;4901028;11;55
+r;106432039;65012;5246459;11;55
+r;28232642;65012;1710240;11;56
+r;29330839;65012;1786130;11;56
+r;29879375;65012;1846412;11;56
+r;31790513;65012;1971943;11;56
+r;33716453;65012;2323190;11;56
+r;50070965;65012;2359847;11;56
+r;52467368;65012;2519248;11;56
+r;52477006;65012;2498813;11;56
+r;55451970;65012;2603460;11;56
+r;55486541;65012;2605431;11;56
+r;59536200;65012;2627405;11;56
+r;71920912;65012;2932160;11;56
+r;72945932;65012;2953713;11;56
+r;100053840;65012;4493511;11;56
+r;78663912;65012;3249473;11;56
+r;79968857;65012;3263797;11;56
+r;93019626;65012;3727359;11;56
+r;93632443;65012;3751398;11;56
+r;93649394;65012;3759229;11;56
+r;93650052;65012;3759132;11;56
+r;93656453;65012;3758484;11;56
+r;93661642;65012;3757928;11;56
+r;93661759;65012;3757914;11;56
+r;93672989;65012;3756688;11;56
+r;93677250;65012;3756225;11;56
+r;93682604;65012;3755667;11;56
+r;93686668;65012;3755345;11;56
+r;93688265;65012;3755162;11;56
+r;93688747;65012;3755112;11;56
+r;93694420;65012;3754488;11;56
+r;93701865;65012;3753716;11;56
+r;98924928;65012;4335556;11;56
+r;98985739;65012;4338566;11;56
+r;17092536;65012;567359;11;57
+r;25130126;65012;1552581;11;57
+r;29588441;65012;1812065;11;57
+r;30694339;65012;1904765;11;57
+r;31426211;65012;1936240;11;57
+r;31770994;65012;1971241;11;57
+r;34358886;65012;2340923;11;57
+r;54728901;65012;2589933;11;57
+r;55141636;65012;2600388;11;57
+r;68371601;65012;2787840;11;57
+r;99332552;65012;4389054;11;57
+r;76616580;65012;3177486;11;57
+r;83014123;65012;3305122;11;57
+r;83447166;65012;3314077;11;57
+r;83673867;65012;3318931;11;57
+r;86210825;65012;3362590;11;57
+r;91450225;65012;3665123;11;57
+r;93654909;65012;3758634;11;57
+r;93656243;65012;3758505;11;57
+r;93670644;65012;3756958;11;57
+r;93692095;65012;3754740;11;57
+r;93698666;65012;3754042;11;57
+r;93706447;65012;3753218;11;57
+r;93706718;65012;3753192;11;57
+r;93712745;65012;3752535;11;57
+r;93713948;65012;3752412;11;57
+r;93718113;65012;3751955;11;57
+r;94044214;65012;3756858;11;57
+r;94044217;65012;3756571;11;57
+r;95154214;65012;4223675;11;57
+r;98809325;65012;4331892;11;57
+r;102144286;65012;4897855;11;57
+r;106845976;65012;5324048;11;57
+r;14372900;65012;436130;11;58
+r;16959993;65012;566509;11;58
+r;16918692;65012;566142;11;58
+r;17697278;65012;572464;11;58
+r;23327112;65012;1372365;11;58
+r;27122254;65012;1654467;11;58
+r;28011832;65012;1700909;11;58
+r;29639684;65012;1816156;11;58
+r;52444638;65012;2567516;11;58
+r;52468330;65012;2517293;11;58
+r;53136130;65012;2581341;11;58
+r;54998362;65012;2596667;11;58
+r;55143876;65012;2600570;11;58
+r;68371594;65012;2787841;11;58
+r;72721130;65012;2950504;11;58
+r;72794640;65012;2951916;11;58
+r;76039584;65012;3162449;11;58
+r;93627783;65012;3751371;11;58
+r;93668839;65012;3757149;11;58
+r;93669334;65012;3757094;11;58
+r;93670151;65012;3757008;11;58
+r;93670734;65012;3756948;11;58
+r;93681726;65012;3755758;11;58
+r;93690044;65012;3754971;11;58
+r;93702726;65012;3753625;11;58
+r;93710734;65012;3752746;11;58
+r;93714121;65012;3752392;11;58
+r;93715496;65012;3752237;11;58
+r;93719920;65012;3751757;11;58
+r;93722114;65012;3751191;11;58
+r;102847467;65012;4904080;11;58
+r;106900236;65012;5333673;11;58
+r;14690858;65012;436964;11;59
+r;23083997;65012;1338038;11;59
+r;27469868;65012;1656354;11;59
+r;29440493;65012;1796936;11;59
+r;31795373;65012;1972207;11;59
+r;52469526;65012;2514783;11;59
+r;54254536;65012;2586708;11;59
+r;54728930;65012;2589914;11;59
+r;72890336;65012;2952969;11;59
+r;77369172;65012;3202155;11;59
+r;77511957;65012;3223126;11;59
+r;83661143;65012;3321551;11;59
+r;83670969;65012;3319547;11;59
+r;86126351;65012;3359253;11;59
+r;86186379;65012;3365589;11;59
+r;88316935;65012;3488762;11;59
+r;88979290;65012;3567397;11;59
+r;93428824;65012;3743117;11;59
+r;93622856;65012;3751306;11;59
+r;93651285;65012;3759005;11;59
+r;93656702;65012;3758454;11;59
+r;93660527;65012;3758050;11;59
+r;93669273;65012;3757100;11;59
+r;93681221;65012;3755809;11;59
+r;93692953;65012;3754641;11;59
+r;93695618;65012;3754359;11;59
+r;93704454;65012;3753433;11;59
+r;93710400;65012;3752786;11;59
+r;93721678;65012;3751535;11;59
+r;98031447;65012;4315150;11;59
+r;98031470;65012;4315149;11;59
+r;105074102;65012;5059307;11;59
+r;14425748;65012;436408;11;60
+r;16005845;65012;453247;11;60
+r;99128368;65012;4344922;11;60
+r;21036089;65012;1014759;11;60
+r;29905693;65012;1840940;11;60
+r;33917607;65012;2326333;11;60
+r;72721970;65012;2950505;11;60
+r;52472373;65012;2508630;11;60
+r;55485073;65012;2605337;11;60
+r;76679552;65012;3178868;11;60
+r;77289119;65012;3185986;11;60
+r;83435185;65012;3313527;11;60
+r;92970086;65012;3725842;11;60
+r;92970220;65012;3726051;11;60
+r;93429572;65012;3743116;11;60
+r;93653668;65012;3758766;11;60
+r;93657173;65012;3758402;11;60
+r;93661241;65012;3757975;11;60
+r;93667758;65012;3757264;11;60
+r;93668191;65012;3757220;11;60
+r;93668827;65012;3757150;11;60
+r;93670463;65012;3756976;11;60
+r;93673117;65012;3756672;11;60
+r;93674819;65012;3756497;11;60
+r;93691634;65012;3754796;11;60
+r;93701839;65012;3753719;11;60
+r;121056080;65012;6449059;11;60
+r;29428872;65012;1795812;11;61
+r;31134666;65012;1922884;11;61
+r;76301253;65012;3171792;11;61
+r;29439857;65012;1796935;11;62
+r;30364913;65012;1877899;11;62
+r;30752862;65012;1909314;11;62
+r;75216419;65012;3109826;11;62
+r;30967383;65012;1918435;11;63
+r;31132329;65012;1922880;11;63
+r;31134674;65012;1922881;11;63
+r;31782559;65012;1971662;11;63
+r;75983156;65012;3159596;11;63
+r;30186394;65012;1859898;11;64
+r;72712582;65012;2950424;11;64
+r;29860799;65012;1850033;11;65
+r;32046845;65012;1976295;11;65
+r;29858399;65012;1850548;11;67
+r;30364903;65012;1877900;11;67
+r;76253422;65012;3170752;11;68
+r;30094233;65012;1858995;11;69
+r;12541633;65012;390086;11;101
+r;12542135;65012;389959;11;101
+r;12548177;65012;388334;11;101
+r;12585683;65012;378997;11;101
+r;12589765;65012;378021;11;101
+r;12597487;65012;376104;11;101
+r;12617123;65012;371303;11;101
+r;12636331;65012;366467;11;101
+r;12704033;65012;349798;11;101
+r;12704179;65012;349755;11;101
+r;12704187;65012;349752;11;101
+r;12704191;65012;349751;11;101
+r;12704203;65012;349748;11;101
+r;12704213;65012;349745;11;101
+r;12720011;65012;346104;11;101
+r;12731875;65012;343200;11;101
+r;12740919;65012;341060;11;101
+r;12743005;65012;340553;11;101
+r;12439784;65012;332678;11;102
+r;12548173;65012;388335;11;102
+r;12614369;65012;371939;11;102
+r;12622259;65012;370041;11;102
+r;12642363;65012;364977;11;102
+r;12704045;65012;349793;11;102
+r;12704111;65012;349775;11;102
+r;12704125;65012;349771;11;102
+r;12704157;65012;349762;11;102
+r;12704163;65012;349760;11;102
+r;12704217;65012;349744;11;102
+r;12704271;65012;349737;11;102
+r;12704295;65012;349733;11;102
+r;12704315;65012;349728;11;102
+r;12704339;65012;349720;11;102
+r;12707717;65012;348876;11;102
+r;12712573;65012;347693;11;102
+r;12721599;65012;345719;11;102
+r;12738067;65012;341759;11;102
+r;12740179;65012;341233;11;102
+r;12742175;65012;340745;11;102
+r;12540065;65012;390477;11;103
+r;12616367;65012;371469;11;103
+r;12679045;65012;356022;11;103
+r;12694991;65012;352087;11;103
+r;12704159;65012;349761;11;103
+r;12704195;65012;349750;11;103
+r;12704303;65012;349731;11;103
+r;12704327;65012;349725;11;103
+r;12731803;65012;343212;11;103
+r;12732115;65012;343141;11;103
+r;12735053;65012;342452;11;103
+r;12745347;65012;340004;11;103
+r;12758443;65012;336792;11;103
+r;12766445;65012;334812;11;103
+r;12768575;65012;334286;11;103
+r;12769797;65012;333974;11;103
+r;12570167;65012;382845;11;104
+r;12620283;65012;370539;11;104
+r;12622947;65012;369897;11;104
+r;12638349;65012;365974;11;104
+r;12704037;65012;349797;11;104
+r;12704057;65012;349789;11;104
+r;12704073;65012;349784;11;104
+r;12704175;65012;349757;11;104
+r;12704177;65012;349756;11;104
+r;12704211;65012;349746;11;104
+r;12704255;65012;349739;11;104
+r;12714957;65012;347124;11;104
+r;12714975;65012;347120;11;104
+r;12721471;65012;345751;11;104
+r;12733207;65012;342882;11;104
+r;12742447;65012;340679;11;104
+r;12548425;65012;388245;11;105
+r;12594623;65012;376835;11;105
+r;12600459;65012;375366;11;105
+r;12605389;65012;374139;11;105
+r;12633173;65012;367257;11;105
+r;12644743;65012;364403;11;105
+r;12653843;65012;362184;11;105
+r;12704039;65012;349796;11;105
+r;12704133;65012;349769;11;105
+r;12704287;65012;349735;11;105
+r;12704307;65012;349730;11;105
+r;12725335;65012;344781;11;105
+r;12741453;65012;340928;11;105
+r;12544017;65012;389490;11;106
+r;12574071;65012;381819;11;106
+r;12602653;65012;374814;11;106
+r;12613359;65012;372186;11;106
+r;12613627;65012;372123;11;106
+r;12662745;65012;360016;11;106
+r;12688487;65012;353676;11;106
+r;12704091;65012;349779;11;106
+r;12704183;65012;349753;11;106
+r;12704199;65012;349749;11;106
+r;12704331;65012;349723;11;106
+r;12704333;65012;349722;11;106
+r;12704341;65012;349719;11;106
+r;12711791;65012;347881;11;106
+r;13044329;65012;391265;11;106
+r;12548533;65012;388213;11;107
+r;12602949;65012;374738;11;107
+r;12671563;65012;357824;11;107
+r;12704061;65012;349788;11;107
+r;12704071;65012;349785;11;107
+r;12704139;65012;349766;11;107
+r;12704145;65012;349764;11;107
+r;12704231;65012;349742;11;107
+r;12704311;65012;349729;11;107
+r;12711785;65012;347882;11;107
+r;12711891;65012;347857;11;107
+r;12716693;65012;346693;11;107
+r;12731815;65012;343210;11;107
+r;12732179;65012;343127;11;107
+r;12735879;65012;342278;11;107
+r;12745921;65012;339867;11;107
+r;12762351;65012;335837;11;107
+r;12552137;65012;387309;11;108
+r;12553245;65012;387036;11;108
+r;12592749;65012;377296;11;108
+r;12594591;65012;376842;11;108
+r;12615375;65012;371705;11;108
+r;12655803;65012;361707;11;108
+r;12690425;65012;353209;11;108
+r;12704123;65012;349772;11;108
+r;12704141;65012;349765;11;108
+r;12704167;65012;349759;11;108
+r;12704221;65012;349743;11;108
+r;12704263;65012;349738;11;108
+r;12704279;65012;349736;11;108
+r;12704299;65012;349732;11;108
+r;12704329;65012;349724;11;108
+r;12705193;65012;349505;11;108
+r;12731821;65012;343209;11;108
+r;12759747;65012;336473;11;108
+r;12417410;65012;332593;11;109
+r;12417540;65012;332601;11;109
+r;12562453;65012;384746;11;109
+r;12592807;65012;377287;11;109
+r;12594207;65012;376940;11;109
+r;12628793;65012;368372;11;109
+r;12630227;65012;368006;11;109
+r;12658773;65012;361000;11;109
+r;12704129;65012;349770;11;109
+r;12704171;65012;349758;11;109
+r;12704181;65012;349754;11;109
+r;12704207;65012;349747;11;109
+r;12704319;65012;349727;11;109
+r;12722845;65012;345404;11;109
+r;12729981;65012;343655;11;109
+r;13021901;65012;391003;11;109
+r;12553253;65012;387034;11;110
+r;12589973;65012;377968;11;110
+r;12593377;65012;377149;11;110
+r;12596579;65012;376335;11;110
+r;12628549;65012;368448;11;110
+r;12635363;65012;366707;11;110
+r;12637825;65012;366104;11;110
+r;12691085;65012;353048;11;110
+r;12704053;65012;349790;11;110
+r;12704103;65012;349777;11;110
+r;12704149;65012;349763;11;110
+r;12704239;65012;349741;11;110
+r;12704247;65012;349740;11;110
+r;12704291;65012;349734;11;110
+r;12704323;65012;349726;11;110
+r;12704337;65012;349721;11;110
+r;12722849;65012;345403;11;110
+r;12731809;65012;343211;11;110
+r;12755339;65012;337582;11;110
+r;12766487;65012;334803;11;110
+r;12766495;65012;334802;11;110
+r;1655338;65012;98869;11;122
+r;1655340;65012;14383;11;122
+r;1655343;65012;35633;11;122
+r;1655345;65012;82482;11;122
+r;1655351;65012;46327;11;122
+r;1655356;65012;11730;11;122
+r;1655364;65012;51164;11;122
+r;11849402;65012;282765;11;122
+r;11849457;65012;282102;11;122
+r;11851741;65012;231756;11;122
+r;11852299;65012;222424;11;122
+r;11858116;65012;140220;11;122
+r;11858258;65012;137496;11;122
+r;11858276;65012;137388;11;122
+r;9003384;65012;318273;11;148
+r;9003388;65012;318275;11;148
+r;9003390;65012;318276;11;148
+r;9023407;65012;319139;11;148
+r;9066139;65012;321115;11;148
+r;9371706;65012;324618;11;148
+r;9371708;65012;324619;11;148
+r;9371832;65012;324829;11;148
+r;10746357;65012;325614;11;148
+r;11279554;65012;326066;11;148
+r;11713565;65012;329792;11;148
+r;8875536;65012;167166;11;150
+r;8879962;65012;222425;11;150
+r;8880295;65012;230837;11;150
+r;8880755;65012;242774;11;150
+r;8881169;65012;251551;11;150
+r;8881450;65012;255286;11;150
+r;8881451;65012;255287;11;150
+r;8881860;65012;260605;11;150
+r;8881862;65012;260647;11;150
+r;8875350;65012;161082;11;151
+r;8875353;65012;161174;11;151
+r;8875503;65012;166633;11;151
+r;8875515;65012;166840;11;151
+r;8875530;65012;167089;11;151
+r;8875556;65012;167735;11;151
+r;8878510;65012;210849;11;151
+r;8878511;65012;210850;11;151
+r;8878609;65012;210996;11;151
+r;8878611;65012;210997;11;151
+r;8878650;65012;211058;11;151
+r;8878656;65012;211071;11;151
+r;8879262;65012;211847;11;151
+r;8879498;65012;212161;11;151
+r;8879687;65012;216062;11;151
+r;8879691;65012;216287;11;151
+r;8879693;65012;216416;11;151
+r;8879707;65012;217432;11;151
+r;8879708;65012;217433;11;151
+r;8879718;65012;217717;11;151
+r;8879753;65012;218698;11;151
+r;8879757;65012;218949;11;151
+r;8879814;65012;220515;11;151
+r;8879832;65012;220853;11;151
+r;8879864;65012;221416;11;151
+r;8879905;65012;221638;11;151
+r;8879912;65012;221764;11;151
+r;8879921;65012;221824;11;151
+r;8879945;65012;222172;11;151
+r;8879961;65012;222423;11;151
+r;8879999;65012;223816;11;151
+r;8880002;65012;223867;11;151
+r;8880003;65012;223872;11;151
+r;8880017;65012;224288;11;151
+r;8880076;65012;225799;11;151
+r;8880363;65012;232072;11;151
+r;8880399;65012;232650;11;151
+r;8880400;65012;232651;11;151
+r;8880510;65012;235593;11;151
+r;8880554;65012;236537;11;151
+r;8880591;65012;237292;11;151
+r;8880631;65012;238341;11;151
+r;8880676;65012;239614;11;151
+r;8880726;65012;241935;11;151
+r;8880822;65012;244803;11;151
+r;8880872;65012;246703;11;151
+r;8880921;65012;247710;11;151
+r;8880932;65012;248005;11;151
+r;8881192;65012;252136;11;151
+r;8881209;65012;252383;11;151
+r;8881369;65012;254488;11;151
+r;8881370;65012;254489;11;151
+r;8881449;65012;255285;11;151
+r;8881576;65012;256888;11;151
+r;8881579;65012;256903;11;151
+r;8881653;65012;258084;11;151
+r;8881699;65012;258554;11;151
+r;8881737;65012;259065;11;151
+r;8882067;65012;263332;11;151
+r;8885911;65012;307597;11;151
+r;8904747;65012;171331;11;151
+r;8921297;65012;316983;11;151
+r;1655334;65012;171101;11;152
+r;8873912;65012;140459;11;152
+r;8875300;65012;158437;11;152
+r;8875324;65012;159908;11;152
+r;8875427;65012;164041;11;152
+r;8875474;65012;165577;11;152
+r;8875652;65012;170252;11;152
+r;8875676;65012;170635;11;152
+r;8875679;65012;170658;11;152
+r;8875867;65012;179692;11;152
+r;8876215;65012;182961;11;152
+r;8876439;65012;184648;11;152
+r;8876440;65012;184649;11;152
+r;8878068;65012;210218;11;152
+r;8878128;65012;210287;11;152
+r;8878155;65012;210319;11;152
+r;8878161;65012;210330;11;152
+r;8878170;65012;210342;11;152
+r;8878228;65012;210465;11;152
+r;8878233;65012;210470;11;152
+r;8878247;65012;210485;11;152
+r;8878357;65012;210631;11;152
+r;8878359;65012;210636;11;152
+r;8878555;65012;210908;11;152
+r;8878561;65012;210914;11;152
+r;8878570;65012;210923;11;152
+r;8878572;65012;210925;11;152
+r;8878573;65012;210926;11;152
+r;8878588;65012;210947;11;152
+r;8878660;65012;211077;11;152
+r;8879028;65012;211563;11;152
+r;8879104;65012;211652;11;152
+r;8879145;65012;211706;11;152
+r;8879147;65012;211708;11;152
+r;8879152;65012;211713;11;152
+r;8879153;65012;211714;11;152
+r;8879155;65012;211716;11;152
+r;8879384;65012;212026;11;152
+r;8879423;65012;212075;11;152
+r;8879458;65012;212114;11;152
+r;8879474;65012;212135;11;152
+r;8879597;65012;213323;11;152
+r;8879601;65012;213596;11;152
+r;8879674;65012;215523;11;152
+r;8882223;65012;265655;11;152
+r;8883149;65012;277839;11;152
+r;8883310;65012;279765;11;152
+r;8883432;65012;281010;11;152
+r;1655350;65012;215408;11;153
+r;1655358;65012;146321;11;153
+r;1655362;65012;182960;11;153
+r;8872819;65012;137032;11;153
+r;8872842;65012;137091;11;153
+r;8873022;65012;137550;11;153
+r;8873607;65012;139258;11;153
+r;8873838;65012;140128;11;153
+r;8873902;65012;140413;11;153
+r;8873917;65012;140465;11;153
+r;8873934;65012;140530;11;153
+r;8874150;65012;141467;11;153
+r;8874172;65012;141557;11;153
+r;8874344;65012;142338;11;153
+r;8874364;65012;142438;11;153
+r;8874460;65012;142826;11;153
+r;8874524;65012;143218;11;153
+r;8874668;65012;144023;11;153
+r;8874788;65012;144678;11;153
+r;8874909;65012;145320;11;153
+r;8874992;65012;145799;11;153
+r;8874995;65012;145821;11;153
+r;8875010;65012;145905;11;153
+r;8875012;65012;145932;11;153
+r;8875151;65012;151560;11;153
+r;8875183;65012;152945;11;153
+r;8875197;65012;153409;11;153
+r;8875200;65012;153477;11;153
+r;8875231;65012;154890;11;153
+r;8875238;65012;155245;11;153
+r;8875286;65012;157885;11;153
+r;8875295;65012;158283;11;153
+r;8875846;65012;179060;11;153
+r;8876083;65012;181826;11;153
+r;8876127;65012;182235;11;153
+r;8876225;65012;183018;11;153
+r;8876352;65012;183994;11;153
+r;8876424;65012;184534;11;153
+r;8876491;65012;185473;11;153
+r;8876558;65012;186047;11;153
+r;8876559;65012;186057;11;153
+r;8876565;65012;186114;11;153
+r;8876591;65012;186361;11;153
+r;8876592;65012;186369;11;153
+r;8876611;65012;186457;11;153
+r;8876637;65012;186562;11;153
+r;8882154;65012;264346;11;153
+r;8882185;65012;264758;11;153
+r;8882446;65012;270834;11;153
+r;8882495;65012;271417;11;153
+r;8882835;65012;274336;11;153
+r;8882909;65012;275121;11;153
+r;8883083;65012;276713;11;153
+r;8883189;65012;278250;11;153
+r;8883360;65012;280173;11;153
+r;8883436;65012;281054;11;153
+r;8883478;65012;281699;11;153
+r;8883584;65012;282892;11;153
+r;8883798;65012;285054;11;153
+r;8883934;65012;286537;11;153
+r;8884235;65012;288655;11;153
+r;8884262;65012;289029;11;153
+r;8884440;65012;290946;11;153
+r;8884682;65012;293805;11;153
+r;8884686;65012;293840;11;153
+r;8884687;65012;293842;11;153
+r;8884691;65012;293908;11;153
+r;8884869;65012;296130;11;153
+r;8885208;65012;300273;11;153
+r;8885248;65012;300740;11;153
+r;8885404;65012;302291;11;153
+r;8885496;65012;303214;11;153
+r;8885577;65012;304218;11;153
+r;8886474;65012;313396;11;153
+r;1655335;65012;189920;11;154
+r;1655336;65012;185072;11;154
+r;1655341;65012;154294;11;154
+r;1655352;65012;143960;11;154
+r;1655353;65012;183013;11;154
+r;1655354;65012;153982;11;154
+r;1655355;65012;141477;11;154
+r;1655357;65012;143608;11;154
+r;1655359;65012;151861;11;154
+r;1655361;65012;152758;11;154
+r;8872724;65012;136834;11;154
+r;8872877;65012;137179;11;154
+r;8872925;65012;137294;11;154
+r;8873067;65012;137649;11;154
+r;8873275;65012;138236;11;154
+r;8873348;65012;138445;11;154
+r;8873470;65012;138816;11;154
+r;8873472;65012;138823;11;154
+r;8873483;65012;138857;11;154
+r;8873521;65012;138981;11;154
+r;8876478;65012;185076;11;154
+r;8876496;65012;185504;11;154
+r;8876501;65012;185550;11;154
+r;8876537;65012;185841;11;154
+r;8876538;65012;185851;11;154
+r;8876593;65012;186376;11;154
+r;8876668;65012;186860;11;154
+r;8876688;65012;187030;11;154
+r;8876689;65012;187031;11;154
+r;8876754;65012;187638;11;154
+r;8877161;65012;191398;11;154
+r;8877193;65012;191873;11;154
+r;8877297;65012;193010;11;154
+r;8877436;65012;193653;11;154
+r;8886276;65012;310989;11;154
+r;8886278;65012;311006;11;154
+r;8886309;65012;311318;11;154
+r;1613036;65012;138003;11;155
+r;1655337;65012;185754;11;155
+r;1655342;65012;137865;11;155
+r;1655360;65012;186967;11;155
+r;8830460;65012;314796;11;157
+r;8609728;65012;115342;11;161
+r;8627450;65012;161436;11;161
+r;8679993;65012;207289;11;161
+r;8685580;65012;210703;11;161
+r;8687247;65012;211873;11;161
+r;8690610;65012;217460;11;161
+r;8691357;65012;219017;11;161
+r;8691474;65012;219203;11;161
+r;8691906;65012;220087;11;161
+r;8692045;65012;220264;11;161
+r;8692275;65012;220508;11;161
+r;8693535;65012;222052;11;161
+r;8693758;65012;222411;11;161
+r;8693760;65012;222412;11;161
+r;8693762;65012;222413;11;161
+r;8693763;65012;222414;11;161
+r;8693765;65012;222415;11;161
+r;8693766;65012;222416;11;161
+r;8693769;65012;222418;11;161
+r;8693771;65012;222419;11;161
+r;8693773;65012;222420;11;161
+r;8694418;65012;223565;11;161
+r;8695385;65012;225088;11;161
+r;8695959;65012;226138;11;161
+r;8698241;65012;229419;11;161
+r;8699039;65012;230509;11;161
+r;8699600;65012;231082;11;161
+r;8699787;65012;231337;11;161
+r;8700512;65012;232070;11;161
+r;8700861;65012;232382;11;161
+r;8701199;65012;232754;11;161
+r;8701440;65012;233060;11;161
+r;8703789;65012;236335;11;161
+r;8705745;65012;238876;11;161
+r;8707024;65012;241287;11;161
+r;8708478;65012;244104;11;161
+r;8712217;65012;248883;11;161
+r;8717732;65012;253943;11;161
+r;8719917;65012;255547;11;161
+r;8720212;65012;255745;11;161
+r;8722545;65012;257352;11;161
+r;8730597;65012;263420;11;161
+r;1606405;65012;168345;11;162
+r;1606424;65012;218840;11;162
+r;1606439;65012;167736;11;162
+r;1606442;65012;218233;11;162
+r;1655333;65012;141256;11;162
+r;1655347;65012;221418;11;162
+r;8597588;65012;81476;11;162
+r;8606495;65012;106586;11;162
+r;8607158;65012;108251;11;162
+r;8608026;65012;110648;11;162
+r;8624827;65012;156034;11;162
+r;1606410;65012;161812;11;163
+r;1606419;65012;161817;11;163
+r;1606427;65012;169462;11;163
+r;1606428;65012;163353;11;163
+r;1606429;65012;213562;11;163
+r;1606435;65012;161346;11;163
+r;1606441;65012;165364;11;163
+r;8585736;65012;47229;11;163
+r;8613818;65012;126876;11;163
+r;8622617;65012;152112;11;163
+r;8623011;65012;152885;11;163
+r;8623480;65012;153694;11;163
+r;8636056;65012;179061;11;163
+r;8642669;65012;183983;11;163
+r;8642672;65012;183984;11;163
+r;8672371;65012;202697;11;163
+r;8733059;65012;265434;11;163
+r;8733215;65012;265554;11;163
+r;8733480;65012;265805;11;163
+r;8734431;65012;266721;11;163
+r;8735205;65012;267275;11;163
+r;8735626;65012;267745;11;163
+r;8749566;65012;282229;11;163
+r;8757828;65012;289865;11;163
+r;8757830;65012;289866;11;163
+r;8768387;65012;301882;11;163
+r;8768799;65012;302349;11;163
+r;8768801;65012;302350;11;163
+r;8768922;65012;302459;11;163
+r;8769559;65012;303137;11;163
+r;8769560;65012;303138;11;163
+r;8769561;65012;303139;11;163
+r;8773907;65012;308194;11;163
+r;8773935;65012;308222;11;163
+r;8876646;65012;186629;11;163
+r;1606392;65012;155740;11;164
+r;1606394;65012;154108;11;164
+r;1606395;65012;182164;11;164
+r;1606396;65012;154720;11;164
+r;1606397;65012;182165;11;164
+r;1606398;65012;182176;11;164
+r;1606399;65012;182168;11;164
+r;1606400;65012;182170;11;164
+r;1606401;65012;171768;11;164
+r;1606402;65012;182166;11;164
+r;1606403;65012;182167;11;164
+r;1606404;65012;182169;11;164
+r;1606406;65012;178257;11;164
+r;1606407;65012;157807;11;164
+r;1606408;65012;182171;11;164
+r;1606409;65012;178258;11;164
+r;1606412;65012;155266;11;164
+r;1606413;65012;182173;11;164
+r;1606414;65012;182172;11;164
+r;1606415;65012;182174;11;164
+r;1606417;65012;154936;11;164
+r;1606418;65012;53555;11;164
+r;1606420;65012;178259;11;164
+r;1606421;65012;146872;11;164
+r;1606423;65012;182177;11;164
+r;1606425;65012;182175;11;164
+r;1606426;65012;154646;11;164
+r;1606430;65012;182178;11;164
+r;1606431;65012;182179;11;164
+r;1606434;65012;182180;11;164
+r;1606436;65012;177231;11;164
+r;1606437;65012;182181;11;164
+r;1606438;65012;182182;11;164
+r;1606443;65012;182183;11;164
+r;1606444;65012;182184;11;164
+r;1606445;65012;182185;11;164
+r;8646506;65012;186309;11;164
+r;8647325;65012;186687;11;164
+r;8662736;65012;197030;11;164
+r;8776907;65012;310988;11;164
+r;8777177;65012;311210;11;164
+r;8779346;65012;312973;11;164
+r;1606416;65012;190021;11;165
+r;1606433;65012;136742;11;165
+r;1606440;65012;191897;11;165
+r;1606393;65012;198970;11;166
+r;1606411;65012;198971;11;166
+r;1606422;65012;198972;11;166
+r;8571155;65012;3657;11;168
+r;8573143;65012;9614;11;168
+r;1606432;65012;173771;11;184
+r;8686006;65012;210986;11;288

@@ -1,0 +1,1722 @@
+
+e;143613;'porte';1;4210
+e;6293616;'bloqué par la porte ou une autre partie d'un véhicule à trois roues';1;0
+e;6357477;'pyohémie porte';1;0
+e;6360046;'scissure de la veine porte principale';1;0
+e;6363183;'dérivation de la veine porte à la veine cave';1;0
+e;6381999;'pyémie porte';1;0
+e;6393750;'scissure de la veine porte droite';1;0
+e;6410701;'segment ombilical de la veine porte';1;0
+e;6412077;'pyohémie de la veine porte';1;0
+e;6415905;'circulation porte';1;0
+e;6417668;'veines paramédianes de la veine porte';1;0
+e;12071537;'porte-du-quercy';777;0
+e;12199564;'porte du Renégat';777;0
+e;12198356;'porte des Immondices';777;0
+e;12198353;'porte de la Vie éternelle';777;0
+e;12198351;'porte dorée';777;0
+e;12987807;'Derrière la porte verte';777;0
+e;14475049;'sur la porte';777;0
+e;14121887;'porte de Topkap';777;0
+e;14159851;'être la porte ouverte à';1;0
+e;14160508;'sortir par la porte, revenir par la fenêtre';1;0
+e;14748376;'v. porte';777;0
+e;14499707;'À battant ou porte à axe vertical';777;0
+e;14611636;'porte-gicleur';1;0
+e;14636896;'porte-torpilles';1;0
+e;14655605;'porte-satellites';1;0
+e;14669361;'porte-couronne';1;0
+e;14669819;'fermer la porte à clé';1;66
+e;14765645;'porte Maillot';777;0
+e;14774188;'fausse porte';777;0
+e;6309895;'lésion traumatique de la veine porte';1;0
+e;6339818;'lésion traumatique de la veine porte ou splénique';1;0
+e;11978439;'porte-automobile';1;0
+e;11978441;'porte-automobiles';1;0
+e;15485861;'N'oublie pas de fermer la porte.';1;0
+e;15572943;'N'oubliez pas de fermer votre porte à clé.';1;0
+e;15403843;'Nous avons entendu un grattement à la porte.';1;0
+e;15324317;'On a cassé la vitre. La porte idem.';1;0
+e;15397196;'On entendit frapper à la porte.';1;0
+e;15397187;'On frappe à la porte.';1;0
+e;15768100;'Pierrefitte à porte de Clignancourt';777;0
+e;15268415;'Soudain, la porte s'est ouverte.';1;0
+e;15255035;'accompagner qn jusqu'à la porte';1;0
+e;15292578;'allant ouvrir la porte';1;0
+e;15292575;'aller ouvrir la porte';1;0
+e;16066138;'arrêt de bas de porte';1;0
+e;15528614;'arrêt de porte';1;0
+e;15567485;'bas de la porte frotte';1;0
+e;15359928;'battant de porte';1;0
+e;15335779;'bouton de la porte';1;0
+e;16041050;'brider la porte';1;0
+e;15199694;'butoir de porte';1;0
+e;15397606;'butée d'une porte';1;0
+e;15417969;'butée de porte';1;0
+e;15417970;'c'est la porte ouverte à tous les excès';1;0
+e;15750823;'c'est la porte à côté';1;0
+e;16029585;'cale-porte';1;0
+e;15312738;'carillon de porte';1;0
+e;16041277;'carillonner à la porte';1;0
+e;15204813;'carte porte monnaie';1;0
+e;15755003;'ce n'est pas la porte à côté';1;0
+e;15384896;'circuit porte';1;0
+e;15742726;'claquer la porte au nez de';1;0
+e;15417972;'claquer la porte au nez de [qqn]';1;0
+e;15399142;'claquer la porte au nez de qn';1;0
+e;15561775;'claquer la porte au nez de quelqu'un';1;0
+e;15417974;'clef sur porte';1;0
+e;15214847;'clou de porte';1;0
+e;15417973;'clé sur porte';1;0
+e;15399243;'clé à la porte';1;0
+e;15224219;'cogner à la porte';1;0
+e;15306071;'coincé dans une porte tournante';1;0
+e;15417978;'dans l'embrasure de la porte';1;0
+e;15417980;'dans l'encadrement de la porte';1;0
+e;15417981;'dans l'entrebâillement de la porte';1;0
+e;15527611;'double porte vitrée';1;0
+e;15396748;'déblocage de la porte de secours';1;0
+e;15485859;'elle ne porte pas de dessous';1;0
+e;15570765;'embarquement immédiat porte 13';1;0
+e;15483969;'embrasure de la porte';1;0
+e;15483968;'embrasure de porte';1;0
+e;16156153;'héritier du trône ne porte pas le titre de prince héritier';777;0
+e;16316335;'porte sud';777;0
+e;16323067;'La porte est close';777;0
+e;6422880;'occlusion de la veine porte';1;0
+e;10672400;'porte de Pantin';777;0
+e;10620527;'porte-plumes';1;0
+e;11384314;'avant-porte';777;0
+e;5934011;'porte-coupe';1;2
+e;6361234;'débit de veine porte rétrograde';1;0
+e;12198349;'porte des Fleurs';777;0
+e;12198350;'porte des Lions';777;0
+e;12198352;'porte de la Miséricorde';777;0
+e;12198355;'porte des Maghrébins';777;0
+e;12198357;'porte des Tanneurs';777;0
+e;12198347;'porte de Damas';777;0
+e;12198348;'porte d'Hérode';777;0
+e;12198358;'porte de Sion';777;0
+e;14153835;'Porte-à-porte';777;0
+e;14317035;'porte-couvert';1;0
+e;14734027;'ouvrir sa porte';1;0
+e;14734032;'se faire foutre à la porte';1;0
+e;6378346;'veine porte préduodénale';1;0
+e;16043012;'de porte à porte';1;0
+e;15589160;'distance porte à porte';1;0
+e;16160673;'porte anti-effraction';1;2
+e;16160674;'porte de coffre-fort';1;2
+e;10624529;'porte de la Plaine';777;0
+e;10624528;'porte Brancion';777;0
+e;6291607;'occupant blessé en étant bloqué par la porte ou une autre partie d'un véhicule à trois roues';1;0
+e;6381997;'bloqué par la porte ou une autre partie d'un véhicule lourd';1;0
+e;6394152;'gaz dans la veine porte';1;0
+e;6402911;'bloqué par la porte ou une autre partie de la camionnette';1;0
+e;12976915;'porte de Mars';777;0
+e;12977150;'porte Colline';777;0
+e;11219935;'Saint-jean-de-la-porte';1;0
+e;6087658;'La porte s'ouvre';777;0
+e;6083339;'Le Secret derrière la porte';777;0
+e;6424445;'thrombophlébite de la veine porte';1;0
+e;10619906;'porte d'Asnières';777;0
+e;10663873;'la clé sur la porte';777;0
+e;10621302;'héritier du trône ne porte pas le titre de duc de Brabant';777;0
+e;10873310;'Un bébé devant ma porte';777;0
+e;10985483;'porte belge';777;0
+e;6288249;'bloqué par la porte ou une autre partie d'un autobus';1;0
+e;11770307;'porte Dijonnaise';777;0
+e;2395172;'porte-filière';1;0
+e;2405304;'porte-masse';1;0
+e;6436345;'fistule entre la veine porte et l'artère hépatique';1;0
+e;15265410;'La servante écoutait ce qui se disait de derrière la porte de la cuisine.';1;0
+e;2380005;'porte-bourse';1;0
+e;2449550;'porte-liqueur';1;0
+e;2449491;'porte-liqueurs';1;0
+e;2475740;'porte-pierre';1;0
+e;5560931;'porte-hydravions';1;0
+e;5998377;'porte-wagon';1;0
+e;9959230;'porte Montmartre';777;0
+e;9959724;'porte de Montempoivre';777;0
+e;9960942;'porte de Saint-Mandé';777;0
+e;9961820;'porte de Vincennes';777;0
+e;9961828;'porte d'Auteuil';777;0
+e;9976830;'porte de Gentilly';777;0
+e;10732977;'porte Saint-Vincent';777;0
+e;10871522;'porte de Romainville';777;0
+e;10905473;'La Barrière sans porte';777;0
+e;2373891;'porte-auto';1;0
+e;2376672;'ouvre-porte';1;0
+e;2497513;'fausse-porte';1;0
+e;2376372;'porte-brosses';1;0
+e;2384405;'porte-éperon';1;0
+e;2413762;'porte-singe';1;0
+e;2481980;'porte-arquebuse';1;0
+e;6438528;'bloqué par la porte ou une autre partie de l'automobile';1;0
+e;9960731;'porte d'Italie';777;0
+e;9972307;'porte de Vanves';777;0
+e;10001512;'porte du Point-du-Jour';777;0
+e;9997798;'Par la porte d'or';777;0
+e;10584008;'porte d'Alcalá';777;0
+e;2377565;'porte-jarretelle';1;4
+e;2378237;'porte-collier';1;0
+e;2386383;'porte-billet';1;0
+e;2387436;'porte-écharpe';1;0
+e;2388293;'porte-crête';1;0
+e;2390015;'porte-baguette';1;0
+e;2397015;'porte-sonde';1;0
+e;2399956;'porte-silence';1;0
+e;2402867;'porte-chaise';1;0
+e;2409267;'porte-étiquette';1;0
+e;2419481;'porte-poux';1;0
+e;2420377;'porte-maillot';1;0
+e;2423341;'porte-lyre';1;0
+e;2424082;'porte-bouchoir';1;0
+e;2424895;'porte-éponge';1;0
+e;2425127;'porte-chaussettes';1;0
+e;2433668;'porte-noeuds';1;0
+e;2436519;'porte-pompon';1;0
+e;2437408;'porte-caustique';1;0
+e;2439477;'porte-page';1;0
+e;2444237;'porte-guichet';1;0
+e;2447063;'porte-parolat';1;0
+e;2451432;'porte-pièce';1;0
+e;2453328;'porte-containers';1;0
+e;2455237;'porte-trait';1;0
+e;2456741;'porte-sonnette';1;0
+e;2462558;'porte-noeud';1;0
+e;2463434;'porte-mouchettes';1;0
+e;2465897;'porte-hache';1;0
+e;2467400;'porte-huile';1;0
+e;2467422;'porte-mesure';1;0
+e;2473593;'porte-cure-dent';1;0
+e;2474569;'porte-loupe';1;0
+e;2480100;'porte-lacs';1;0
+e;4276965;'porte-bornes';1;0
+e;5568857;'système porte hypophysaire';777;0
+e;5568856;'système porte hypothalamo-hypophysaire';777;0
+e;5678917;'porte des étoiles';777;0
+e;5807066;'ballon porte antenne';777;0
+e;6068306;'porte-cellule';1;0
+e;11030704;'porte de Namur';777;0
+e;2372192;'porte-battant';1;0
+e;2373918;'porte-aune';1;0
+e;2374259;'porte-bonnet';1;0
+e;2374296;'porte-nitrate';1;0
+e;2380111;'porte-bobèche';1;0
+e;2382068;'porte-soie';1;0
+e;2391777;'porte-chandelier';1;0
+e;2420974;'porte-rame';1;0
+e;10959235;'porte d'Espagne';777;0
+e;11348626;'porte de Gand';777;0
+e;11788340;'porte Saint-Martin';777;4
+e;14070566;'porte de départ';1;0
+e;1833356;'espace porte périlobulaire';1;0
+e;2372297;'porte-montres';1;0
+e;2373175;'porte-plumet';1;0
+e;2498885;'porte-craie';1;0
+e;5896773;'porte de ville';1;0
+e;5896677;'porte Horloge de Vire';777;0
+e;5955749;'porte triomphale';777;0
+e;5954970;'marteau de porte';777;0
+e;5954926;'porte tambour';777;0
+e;5954678;'gardes de la porte';777;0
+e;6068307;'porte-berce';1;0
+e;11080754;'porte Saint-Georges';777;0
+e;11826732;'doctrine de la porte ouverte';777;0
+e;12032750;'porte Saint-Denis';777;0
+e;15340598;'La poignée de la porte s'est détachée.';1;0
+e;15246507;'La porte a claqué et je me suis retrouvé enfermé dehors.';1;0
+e;15246505;'La porte a claqué.';1;0
+e;15572939;'La porte n'est pas fermée à clé.';1;0
+e;15270724;'La porte pivota sur ses gonds bien huilés.';1;0
+e;15391295;'La porte s'ouvre automatiquement.';1;0
+e;15347625;'La porte s'ouvrit à la volée.';1;0
+e;15409826;'La porte était entrouverte.';1;0
+e;5918936;'porte outil';1;0
+e;5960198;'porte des morts';777;0
+e;5954680;'gardes de la porte du roi';777;0
+e;11094973;'basilique souterraine de la porte Majeure';777;0
+e;11407867;'claquer la porte au nez';1;0
+e;11455744;'porte de Spalen';777;0
+e;11698693;'porte Rivotte';777;0
+e;11698694;'porte taillée';777;0
+e;11831720;'porte occidentale de Belgrade';777;0
+e;12068432;'porte Saint-Pierre';777;0
+e;12074699;'porte de pierre';777;0
+e;5968493;'porte de Holstein';777;0
+e;10039462;'porte Majeure';777;0
+e;10334652;'porte d'Aix';777;0
+e;10748049;'porte Noire';777;0
+e;10830600;'porte de Bercy';777;0
+e;10849263;'porte de Châtillon';777;0
+e;10997072;'porte de Clisson';777;0
+e;11090101;'porte d'Arroux';777;0
+e;11933848;'porte Saint-Bernard';777;0
+e;12077538;'cale porte';1;0
+e;12080955;'prise porte plume';1;0
+e;12080853;'porte d'aval';1;0
+e;2393833;'bagatelles de la porte';1;0
+e;2403218;'gagner la porte';1;0
+e;5853673;'porte-scies';1;0
+e;6694120;'porte de four';1;0
+e;10045731;'porte de Hal';777;0
+e;10821335;'porte Richelieu';777;0
+e;10821158;'porte Saint-Honoré';777;0
+e;11151007;'porte de la Tour de David';777;0
+e;11151006;'porte de l'Ami';777;0
+e;11933849;'porte de la Tournelle';777;0
+e;12077722;'cerf-volant porte antenne';1;0
+e;5894274;'porte de Brandebourg';777;0
+e;10194901;'la neuvième porte';777;0
+e;10194751;'Madame porte la culotte';777;0
+e;11151005;'porte de Jaffa';777;0
+e;11364002;'porte des Allemands';777;0
+e;11383613;'porte des Sablons';777;0
+e;11393438;'fonction porte';777;0
+e;11544279;'porte des Lilas';777;0
+e;2409847;'sortir par la porte de Tellier';1;0
+e;11101964;'Stade porte normande Vernon';777;0
+e;11364173;'porte Serpenoise';777;0
+e;11364144;'porte en Chandellerue';777;0
+e;12054173;'porte Notre-Dame-des-Champs';777;0
+e;2438102;'la nuit porte conseil';1;0
+e;5536569;'la porte étroite';777;0
+e;10064161;'Une rousse qui porte bonheur';777;0
+e;11975726;'porte Pouchet';777;0
+e;2396111;'porte busquée';1;0
+e;2442542;'laisser la porte ouverte';1;8
+e;4070298;'porte-Coran';1;0
+e;4049396;'porte-vélos';1;0
+e;10082271;'porte de Tonnerre';777;0
+e;10082269;'porte de ville de Noyers-sur-Serein';777;0
+e;10135415;'Les Démons à ma porte';777;0
+e;11011762;'prise d'otages du magasin Hyper Cacher de la porte de Vincennes';777;0
+e;11216830;'Visite du centre de dépannage de la porte Maillot à l'occasion desjournées européennes du patrimoine 2013';777;0
+e;11254582;'garder une porte d'entrée';1;0
+e;2365957;'porte-écu-jaune';1;0
+e;2366431;'porte-dais';1;0
+e;2369016;'porte-verges';1;0
+e;2390652;'tout soldat porte dans sa giberne le bâton de maréchal';1;0
+e;5896678;'porte Gastinel';777;0
+e;10118556;'Le Signe sur la porte';777;0
+e;10458642;'La nuit porte conseil';777;0
+e;11209028;'porte Saint-Antoine';777;0
+e;11325693;'porte de Bagnolet';777;0
+e;2396833;'porte brisée';1;0
+e;10176857;'La Clé sous la porte';777;0
+e;10176016;'porte de France';777;0
+e;10176015;'porte d'Auguste';777;0
+e;10187631;'porte du four';1;0
+e;11317417;'porte de Soubeyran';777;0
+e;2401482;'porte-bouteille';1;0
+e;10160513;'Quelqu'un derrière la porte';777;0
+e;2363736;'porte-taraud';1;0
+e;2365105;'porte-guidon';1;0
+e;2366434;'porte-lettres';1;0
+e;2366490;'porte-choux';1;0
+e;2367204;'porte-balance';1;0
+e;2472614;'à porte close';1;0
+e;11104729;'porte de l'Est';777;0
+e;2363644;'porte-original';1;0
+e;2364742;'porte-tolets';1;0
+e;2433528;'mettre les clefs sous la porte';1;0
+e;5554352;'théorème de la porte';777;0
+e;6004476;'Une porte sur l'été';777;0
+e;6539185;'paroi de la veine porte';1;0
+e;6539181;'veine porte pré-hépatique';1;0
+e;2362822;'porte-lof';1;0
+e;2419602;'chacun voit midi à sa porte';1;0
+e;6533814;'branche intra-hépatique de la veine porte';1;0
+e;6533813;'branche extra-hépatique de la veine porte';1;0
+e;2359645;'porte-giberne';1;0
+e;2360511;'porte-falot';1;0
+e;2360650;'porte-fer';1;0
+e;2361885;'porte-bec';1;0
+e;2362379;'porte-allume';1;0
+e;2501702;'porte-cigare';1;0
+e;6451761;'plexus veineux porte de l'hypophyse';1;0
+e;9102212;'porte Saint-Jacques';777;0
+e;9695719;'bruit d'une porte qui grince';1;0
+e;9695724;'bruit d'une porte qui claque';1;0
+e;11119764;'porte de Bourgogne';777;0
+e;11119765;'porte des Salinières';777;0
+e;11126590;'porte de la Chapelle';777;0
+e;11126592;'porte d'Arcueil';777;0
+e;11126593;'porte de Montrouge';777;0
+e;11126591;'porte de la Chapelle-Saint-Denis';777;0
+e;12616397;'porte de la Mandorle';777;0
+e;12616439;'porte de Filarete';777;0
+e;12616410;'concours pour la porte nord du baptistère de Florence';777;0
+e;12695163;'théorie de la porte';1;0
+e;12722375;'porte d'ivoire';1;0
+e;15377218;'Jane porte des vêtements très à la mode.';1;0
+e;15572941;'Je me suis assuré que la porte était fermée à clé.';1;0
+e;15365489;'Elle força la porte avec un pied-de-biche.';1;0
+e;15365938;'Elle a appuyé son vélo contre la porte.';1;0
+e;15356903;'Elle est finalement parvenue à ouvrir la porte.';1;0
+e;15492060;'Elle sortit, claquant la porte derrière elle.';1;0
+e;15353379;'Elle porte un jean.';1;0
+e;15227138;'Elle a violemment claqué la porte.';1;0
+e;15337479;'Elle a ouvert la porte avec précaution.';1;0
+e;15409824;'Elle est sortie en laissant la porte entrouverte.';1;0
+e;15316482;'Elle a peint la porte en bleu.';1;0
+e;15492058;'Elle est partie en claquant la porte.';1;0
+e;15370677;'Est-ce que vous voulez bien fermer la porte s'il vous plaît?';1;0
+e;15323672;'Elle porte une natte.';1;0
+e;15227695;'Elle porte une jolie robe bleue.';1;0
+e;15370675;'J'ai pensé à fermer la porte à clef.';1;0
+e;15327460;'Il porte un lourd fardeau sur ses épaules.';1;0
+e;15365323;'Il se tenait près de la porte.';1;0
+e;15246494;'Il a claqué la porte en sortant.';1;0
+e;15397190;'Il a frappé doucement à la porte.';1;0
+e;15292583;'J'ai couru en bas pour ouvrir la porte.';1;0
+e;15755184;'Elle porte une robe noire.';1;0
+e;15768033;'Elle se porte à merveille depuis son opération.';1;0
+e;15370671;'Ferme la porte, s'il te plaît.';1;0
+e;15362356;'Il porte des bretelles.';1;0
+e;15529795;'Il porte la barbe.';1;0
+e;15386137;'Je me suis cogné le coude contre la porte.';1;0
+e;15221671;'J'ai scotché une liste sur la porte du réfrigérateur.';1;0
+e;15379429;'J'imagine que la porte d'entrée n'était pas fermée à clé?';1;0
+e;15394627;'Cette porte donne accès à la salle à manger.';1;0
+e;15379216;'Cette porte ne ferme pas bien.';1;0
+e;15391285;'Cette porte ouvre mal.';1;0
+e;15395995;'Elle porte des vêtements démodés.';1;0
+e;15373649;'Il l'a carrément mis à la porte.';1;0
+e;15774959;'Inscription au-dessus de la porte';777;0
+e;16284422;'A la porte de Rome';777;0
+e;1388857;'thrombose porte';1;0
+e;1575027;'porte de Picpus';777;0
+e;1780359;'porte hépatique';1;0
+e;1840916;'partie ombilicale du rameau gauche de la veine porte hépatique';1;0
+e;2567807;'voir midi à sa porte';1;0
+e;2531740;'mettre le pied dans la porte';1;0
+e;2573839;'porte-sérum';1;0
+e;3229226;'système porte hépatique';1;0
+e;4213730;'concombre porte bornes';1;0
+e;3810606;'se cogner le nez sur la porte';1;0
+e;6539549;'tronc de la veine porte pré-hépatique';1;0
+e;456253;'fissure porte principale';1;50
+e;587060;'porte-chaleur';777;0
+e;2541821;'porte-miroirs';1;0
+e;2573005;'porte-laudanum';1;0
+e;2579615;'porte-épines';1;0
+e;2606919;'porte-flamberges';777;0
+e;3049610;'porte-objets';1;0
+e;3655628;'porte-amorce';1;0
+e;6537637;'subdivision de la veine porte pré-hépatique';1;0
+e;7729794;'poignée de la porte';1;0
+e;566619;'compagnie aérienne porte-drapeau';777;50
+e;1223296;'porte-écuelle à petite tête';1;0
+e;2249593;'porte-glaives';2;0
+e;2555969;'porte-fusible';1;0
+e;3750453;'porte d'Orléans';777;0
+e;3750462;'porte de la Villette';777;0
+e;3750527;'porte de Montreuil';777;0
+e;6539180;'subdivision de la veine porte';1;0
+e;1772751;'anévrisme de la veine porte';1;0
+e;1780138;'partie ombilicale de la branche gauche de la veine porte hépatique';1;0
+e;1847731;'veine porte hépatique';1;0
+e;1840923;'partie transversale du rameau gauche de la veine porte hépatique';1;0
+e;2323859;'veine-porte';1;0
+e;2498918;'nain porte quoi';1;0
+e;2557715;'porte-cordeau';1;0
+e;2554590;'porte-conteneur';1;0
+e;2527455;'porte-suif';1;0
+e;2526277;'porte-mèche';1;0
+e;2504452;'porte-barres';1;0
+e;3158936;'Dessus-de-porte';777;0
+e;3750493;'porte de Saint-Cloud';777;0
+e;4891050;'porte de Charenton';777;0
+e;5386735;'être à la porte';1;6
+e;440519;'veine porte du foie';1;50
+e;583719;'porte-navette';777;0
+e;1843105;'rameaux latéraux de la partie ombilicale du rameau gauche de la veine porte hépatique';1;0
+e;1841977;'porte ouverte';1;0
+e;2541338;'porte rosée';1;0
+e;2536110;'porte-tolet';1;0
+e;2516672;'porte-étrivières';1;0
+e;2506448;'porte-bossoir';1;0
+e;2505719;'porte-étrier';1;0
+e;2573975;'porte-chaîne';1;0
+e;5386745;'ouverture de porte';1;0
+e;6539183;'subdivision de la veine porte gauche';1;0
+e;456423;'porte du foie';1;50
+e;456252;'fissure porte droite';1;50
+e;568831;'porte-greffe Malling';777;50
+e;1773613;'porte voix';1;0
+e;1814493;'élévation de la pression sanguine dans la veine-porte';1;0
+e;1815743;'éminence porte antérieure';1;0
+e;2249592;'porte-crosses';2;0
+e;2504299;'porte française';1;0
+e;2535446;'porte-foudre';1;0
+e;2514487;'porte-moxa';1;0
+e;2506767;'porte-document';1;0
+e;3750497;'porte Dauphine';777;0
+e;4041752;'chien de porte';1;0
+e;567608;'porte-parole de gouvernement';777;50
+e;1966173;'refuser sa porte à quelqu'un';1;0
+e;2349285;'porte-feu';1;0
+e;2526802;'porte-mangues';1;0
+e;3705517;'se coincer le doigt dans la porte';1;0
+e;3706333;'ouvrir la porte au chat';1;0
+e;3750430;'porte maillot';777;0
+e;3750624;'porte de Clichy';777;0
+e;1843007;'rameau postérieur du rameau droit de la veine porte hépatique';1;0
+e;2535154;'porte de tête';1;0
+e;2528042;'mettre la porte contre';1;0
+e;2547561;'porte-râteau';1;0
+e;2541354;'porte-allumette';1;0
+e;2534233;'porte-équipement';1;0
+e;2606141;'sortir par la porte, entrer par la fenêtre';1;0
+e;3049608;'porte-menus';1;0
+e;3049604;'porte-étendards';1;0
+e;3049599;'porte-bannières';1;0
+e;3689775;'se prendre la manche dans la poignée de la porte';1;0
+e;3706152;'tenir la porte';1;2
+e;3750460;'porte de Champerret';777;0
+e;6539184;'tronc d'une branche de la veine porte';1;0
+e;1553936;'porte qui claque';1;0
+e;1575107;'porte de Neuilly';777;0
+e;1822797;'porte-parole du gouvernement français';1;0
+e;2249594;'porte-haubans';2;0
+e;2249590;'porte-bébés';2;0
+e;2568250;'porte perdue';1;0
+e;2491752;'fermer la porte au nez';1;0
+e;2525634;'porte-cierge';1;0
+e;2507632;'porte-bloc';1;0
+e;2605144;'chassez le naturel par la porte, il revient par la fenêtre';1;0
+e;2606089;'il faut qu'une porte soit ouverte ou fermée';1;0
+e;3049609;'porte-mines';1;0
+e;3049598;'porte-baïonnettes';1;0
+e;4335007;'porte de Paris';1;18
+e;6539182;'subdivision de la veine porte droite';1;0
+e;1223295;'porte-écuelle à deux taches';1;0
+e;1780205;'partie transversale de la branche gauche de la veine porte hépatique';1;0
+e;1842950;'rameau gauche de la veine porte hépatique';1;0
+e;1842931;'rameau droit de la veine porte hépatique';1;0
+e;2314851;'porte-drapeaux';2;0
+e;2249591;'porte-couteaux';2;0
+e;2529029;'porte-lettre';1;0
+e;2579056;'porte de la Paix céleste';777;0
+e;3186003;'Le Chien qui porte à son cou le dîné de son maître';1;0
+e;3558515;'veine porte ou tronc porte';777;0
+e;5386720;'porte fermée';1;4
+e;3049607;'porte-jupes';1;0
+e;3049602;'porte-crayons';1;0
+e;3049601;'porte-copies';1;0
+e;3109868;'frapper à la porte de';1;0
+e;1842861;'rameau antérieur du rameau droit de la veine porte hépatique';1;0
+e;1841976;'porte-cassette';1;0
+e;3049606;'porte-greffes';1;0
+e;3049600;'porte-bouquets';1;0
+e;3049605;'porte-fanions';1;0
+e;1789198;'porte-cigarette';1;0
+e;1966104;'fermer la porte au nez de quelqu'un';1;0
+e;2993612;'porte-raclettes';1;0
+e;2926268;'porte Dorée';777;0
+e;1843117;'rameaux médiaux de la partie ombilicale du rameau gauche de la veine porte hépatique';1;0
+e;3049603;'porte-épées';1;0
+e;371974;'porte à guillotine';1;50
+e;371968;'porte monumentale';1;50
+e;371967;'porte marine';1;50
+e;371963;'porte de contrôle';1;50
+e;367095;'oeil de porte';1;50
+e;365810;'médaille porte-bonheur';1;50
+e;390974;'porte de Versailles';1;52
+e;388810;'à notre porte';1;50
+e;386067;'vaisseau porte';1;50
+e;371978;'porte-parole de l'administration';1;50
+e;371973;'porte à double battant';1;50
+e;371966;'porte latérale';1;50
+e;367495;'opération porte ouverte';1;50
+e;348182;'dosseret de porte';1;50
+e;371958;'porte basculante';1;50
+e;356313;'gond de porte';1;50
+e;343080;'charnière de porte';1;50
+e;388654;'à la porte de';1;50
+e;379573;'seuil de porte';1;50
+e;371980;'porte-parole gouvernemental';1;50
+e;371976;'porte-avions léger';1;50
+e;371975;'porte étroite';1;50
+e;371972;'porte à claire-voie';1;50
+e;360670;'la porte ouverte à';1;50
+e;351163;'en porte à faux';1;50
+e;371992;'porte de clôture';1;50
+e;371960;'porte d'assemblage';1;50
+e;371957;'porte avant';1;50
+e;369002;'pas de la porte';1;52
+e;364920;'montant de porte';1;50
+e;364356;'ministre sans porte-feuille';1;50
+e;346843;'de porte en porte';1;50
+e;371981;'porte-parole ministériel';1;50
+e;338152;'baie de porte';1;50
+e;336412;'armoire à porte coulissante';1;50
+e;371979;'porte-parole du gouvernement';1;50
+e;371970;'porte secrète';1;50
+e;371969;'porte pliante';1;50
+e;371956;'porte arrière';1;50
+e;356622;'grande porte';1;50
+e;371977;'porte-monnaie électronique';1;50
+e;356219;'glace de porte';1;50
+e;345303;'crochet de porte';1;50
+e;371971;'porte vitrée';1;60
+e;371964;'porte de slalom';1;50
+e;371959;'porte coupée';1;50
+e;371994;'porte droite';1;50
+e;371965;'porte de visite';1;50
+e;371962;'porte de bronze';1;50
+e;371961;'porte d'observation';1;50
+e;371955;'porte antifeu';1;50
+e;101139;'porte-enseigne';1;50
+e;100704;'porte-clé';1;102
+e;99042;'porte-savon';1;50
+e;98870;'bateau-porte';1;50
+e;95721;'porte-pelle';1;50
+e;93931;'porte-sabre';1;50
+e;92545;'porte-serviettes';1;50
+e;91138;'bloc-porte';1;50
+e;88250;'porte-affiche';1;50
+e;85809;'porte-harnais';1;50
+e;85736;'porte-jarretelles';1;114
+e;83590;'porte-lame';1;50
+e;81276;'dessus-de-porte';1;50
+e;80332;'porte-clapet';1;50
+e;80060;'porte-verge';1;50
+e;79183;'porte-écuelle';1;50
+e;78541;'porte-manchon';1;50
+e;77214;'porte-fort';1;50
+e;76542;'porte-crayon';1;52
+e;74485;'porte-voix';1;110
+e;73166;'porte-étendard';1;50
+e;72420;'porte-cigarettes';1;50
+e;71369;'porte-aéronefs';1;50
+e;71161;'porte-';1;50
+e;69564;'porte-bouquet';1;50
+e;69230;'porte-clef';1;76
+e;68284;'porte-balle';1;50
+e;67827;'porte-outil';1;50
+e;66476;'porte-couteau';1;50
+e;66302;'porte-bagages';1;52
+e;65160;'porte-bébé';1;52
+e;61379;'porte-chapeau';1;50
+e;61335;'porte-aiguillon';1;50
+e;60472;'porte-foret';1;50
+e;59824;'porte-parapluie';1;52
+e;59417;'porte-plat';1;50
+e;58244;'porte-film';1;50
+e;57393;'porte-étrivière';1;50
+e;54791;'porte-barge';1;50
+e;53427;'porte-croix';1;50
+e;52730;'porte-serviette';1;50
+e;51449;'porte-copie';1;50
+e;49433;'porte-greffe';1;50
+e;49144;'porte-objet';1;50
+e;49009;'porte-grille';1;50
+e;47952;'porte-baïonnette';1;50
+e;46622;'porte-clefs';1;58
+e;45341;'porte-scie';1;50
+e;43055;'porte-parole';1;64
+e;42565;'porte-mousqueton';1;50
+e;38497;'ferme-porte';1;50
+e;37861;'porte-étriers';1;50
+e;36819;'porte-fanion';1;50
+e;36690;'porte-amarre';1;50
+e;35115;'porte-épée';1;50
+e;34258;'porte-bonheur';1;136
+e;33610;'porte-jupe';1;50
+e;29374;'porte-skis';1;50
+e;28090;'porte-respect';1;50
+e;27181;'porte-vent';1;50
+e;26803;'porte-graine';1;50
+e;24592;'porte-conteneurs';1;50
+e;24508;'porte-empreinte';1;52
+e;24243;'pas-de-porte';1;50
+e;22894;'porte-tapisserie';1;50
+e;22791;'porte-hauban';1;50
+e;18625;'porte-clés';1;76
+e;17913;'porte-coton';1;50
+e;17663;'porte-monnaie';1;444
+e;17166;'porte-autos';1;50
+e;14488;'porte-bride';1;50
+e;12638;'porte-charbon';1;50
+e;11866;'porte-avions';1;190
+e;9745;'porte-malheur';1;50
+e;9149;'porte-torpille';1;50
+e;8846;'porte-barges';1;50
+e;7519;'porte-hélicoptères';1;52
+e;6631;'porte-cylindre';1;50
+e;3153;'porte-cartes';1;118
+e;1309;'porte-drapeau';1;52
+e;80488;'porte-fenêtre';1;126
+e;94735;'porte-mine';1;58
+e;608;'porte-documents';1;104
+e;284178;'porte-cl';777;50
+e;275510;'porte-aéronef';777;50
+e;255113;'porte-selle';1;50
+e;245436;'porte-flambeau';1;50
+e;232170;'porte-folio';1;50
+e;223791;'porte-bougie';666;50
+e;222104;'porte-fusée';1;50
+e;221909;'porte-aigle';1;50
+e;205891;'porte-bois';1;50
+e;183804;'porte-flingue';1;50
+e;180052;'porte-monstre-trésor';1;50
+e;168097;'porte-traîne';1;50
+e;168096;'porte-lance';1;50
+e;168095;'porte-éventail';1;50
+e;167476;'porte-vis';1;50
+e;155329;'porte-bagage';1;86
+e;154862;'porte-feuille';1;70
+e;154784;'porte-manteau';1;114
+e;153095;'porte-avion';1;110
+e;149798;'porte-savons';1;50
+e;149797;'porte-parapluies';1;50
+e;149796;'porte-musique';1;50
+e;149795;'porte-mors';1;50
+e;149794;'porte-montre';1;50
+e;149793;'porte-menu';1;50
+e;149792;'porte-lames';1;50
+e;149791;'porte-glaive';1;50
+e;149789;'porte-crosse';1;50
+e;149788;'porte-chapeaux';1;50
+e;149787;'porte-carte';1;64
+e;149786;'porte-carnier';1;50
+e;149785;'porte-bannière';1;50
+e;149784;'porte-balais';1;50
+e;149783;'porte-allumettes';1;50
+e;149782;'porte-affiches';1;50
+e;136536;'porte-mains';1;50
+e;132978;'porte-pipe';1;50
+e;131731;'porte-cigares';1;50
+e;129144;'porte-billets';1;50
+e;126677;'contre-porte';1;50
+e;125959;'porte-diamant';1;50
+e;125710;'porte-queue';1;52
+e;123531;'porte-tambour';1;50
+e;121768;'porte-musc';1;50
+e;121206;'porte-aiguilles';1;50
+e;116284;'porte-tarière';1;50
+e;115150;'porte-brancard';1;50
+e;114564;'porte-plume';1;114
+e;112656;'porte-broche';1;50
+e;107294;'porte-assiette';1;50
+e;106815;'porte-balai';1;50
+e;106435;'porte-aiguille';1;50
+e;106219;'porte-habit';1;50
+e;104522;'porte-hélice';1;50
+e;103169;'porte-bât';1;50
+e;103167;'porte-bouteilles';1;50
+e;102261;'porte-outils';1;50
+e;117862;'porte-à-faux';1;54
+e;149790;'porte-faix';1;50
+e;260766;'s'en tamponner les amygdales avec une porte-fenêtre';1;4
+e;222196;'en porte-à-faux';1;50
+e;168224;'chevrotain porte-musc';1;50
+e;168648;'porte-avions d'escorte';1;50
+e;231722;'porte-avions nucléaire';1;50
+e;107910;'Prométhée porte-feu';1;50
+e;209445;'tube porte-vent';1;50
+e;50766;'grand porte-queue';1;50
+e;181465;'chariot porte-pierre';1;50
+e;183147;'mât porte-affiche';1;50
+e;184633;'tube porte-amorce';1;50
+e;270940;'araignée porte-croix';1;50
+e;303114;'cerfs porte-musc';777;50
+e;186479;'se mettre en porte-à-faux';1;50
+e;186097;'être en porte-à-faux';1;50
+e;193143;'grimpar porte-sabre';1;50
+e;194325;'porte-éventail roi';1;50
+e;248119;'en claquant la porte';1;50
+e;216378;'celui qui porte la croix';1;54
+e;219859;'porte monnaie';1;58
+e;222105;'porte papillon';1;50
+e;229521;'derrière une porte';1;54
+e;231474;'porte de devant';1;58
+e;235009;'porte des Lionnes';1;50
+e;236070;'porte anti-panique';1;50
+e;237454;'barre de porte';1;2
+e;238181;'frapper à la porte';1;54
+e;240065;'porte blindée';1;52
+e;240238;'montrer la porte';1;52
+e;243827;'porte coulissante';1;8
+e;250162;'porte de secours';1;54
+e;252048;'porte claquée';1;52
+e;253451;'porte de prison';1;64
+e;258321;'partir en claquant la porte';1;4
+e;259036;'boudin de porte';1;50
+e;259037;'bas de porte';1;50
+e;262875;'thrombose de la veine porte';1;50
+e;262939;'tronc porte';1;4
+e;263024;'système porte';1;50
+e;227374;'porte de derrière';1;52
+e;71593;'par la belle porte';1;50
+e;110028;'mise à la porte';1;50
+e;121097;'flanquer à la porte';1;52
+e;121240;'ficher à la porte';1;50
+e;127027;'Les Onze devant la porte';1;50
+e;153850;'de porte';1;50
+e;163477;'porte feuille';1;50
+e;163621;'porte battante';1;52
+e;164989;'mis à la porte';1;50
+e;206790;'refuser sa porte à qqn';1;50
+e;208339;'sortir par la grande porte';1;50
+e;209392;'triste comme une porte de prison';1;50
+e;209430;'trouver porte close';1;56
+e;211569;'porte d'honneur';1;50
+e;212642;'porte close';1;66
+e;273988;'la porte des étoiles';777;50
+e;36209;'porte de dégagement';1;50
+e;44817;'Jean porte la valise';1;50
+e;67230;'Je porte plainte';1;50
+e;92910;'porte du Jerzual';1;50
+e;145188;'porte d'Ishtar';1;50
+e;153405;'porte avion';1;50
+e;158975;'porte de placard';1;70
+e;159455;'porte manteau';1;50
+e;159660;'poignée de porte';1;94
+e;180981;'baignoire à porte';1;50
+e;183802;'porte coupe-feu';1;54
+e;183803;'porte fusible';1;50
+e;184875;'aimable comme une porte de prison';1;50
+e;195495;'à la porte';1;54
+e;205604;'plaids de la porte';1;50
+e;205880;'porte à tambour';1;50
+e;205881;'porte bâtarde';1;50
+e;205882;'porte charretière';1;50
+e;205883;'porte de service';1;50
+e;205884;'porte de sortie';1;56
+e;205886;'porte extérieure';1;50
+e;205887;'porte piétonne';1;50
+e;205890;'porte tournante';1;50
+e;264198;'enfoncer la porte';1;50
+e;271408;'porte du désert';1;50
+e;271530;'porte de Clignancourt';1;50
+e;273820;'arbre porte hélice';777;50
+e;276051;'porte rapide';777;50
+e;279758;'porte dérobée';777;52
+e;183801;'porte cochère';1;12
+e;24123;'bouton de porte';1;98
+e;185742;'balayer devant sa porte';1;50
+e;186486;'mettre la clé sous la porte';1;22
+e;186487;'mettre la clef sous la porte';1;6
+e;197606;'claquer la porte';1;54
+e;312584;'porte logique';1;18
+e;186017;'enfoncer une porte ouverte';1;4
+e;187610;'veine porte';1;6
+e;14112;'foutre à la porte';1;60
+e;197857;'compter les clous de la porte';1;50
+e;199587;'entrer par la grande porte';1;50
+e;200889;'fermer la porte au nez de qqn';1;50
+e;200960;'fiche à la porte';1;50
+e;1441;'porte palière';1;50
+e;71101;'porte-à-porte';1;52
+e;154483;'ouvrir la porte';1;164
+e;154484;'fermer la porte';1;76
+e;157559;'porte en bois';1;50
+e;158275;'porte d'entrée';1;72
+e;27497;'mettre à la porte';1;70
+e;153923;'prendre la porte';1;56
+e;168649;'porte-avions et porte-aéronefs';1;2
+e;276479;'transport porte-à-porte';777;50
+e;195866;'aller de porte en porte';1;50
+e;200420;'faire du porte à porte';1;58
+e;234;'porte à porte';1;62
+r;298599112;143613;6293616;11;25
+r;302028456;143613;6357477;11;25
+r;302091906;143613;6360046;11;25
+r;302148634;143613;6363183;11;25
+r;303931591;143613;6381999;11;25
+r;304893251;143613;6393750;11;25
+r;305480365;143613;6410701;11;25
+r;305481637;143613;6412077;11;25
+r;305675078;143613;6415905;11;25
+r;305688862;143613;6417668;11;25
+r;314304801;143613;12071537;11;25
+r;316547094;143613;12199564;11;25
+r;316547935;143613;12198356;11;25
+r;316547939;143613;12198353;11;25
+r;316547945;143613;12198351;11;25
+r;337343581;143613;12987807;11;25
+r;367947387;143613;14475049;11;25
+r;357708991;143613;14121887;11;25
+r;359718529;143613;14159851;11;25
+r;359735369;143613;14160508;11;25
+r;374963278;143613;14748376;11;25
+r;368412146;143613;14499707;11;25
+r;371367646;143613;14611636;11;25
+r;371816454;143613;14636896;11;25
+r;372656884;143613;14655605;11;25
+r;372982902;143613;14669361;11;25
+r;373003618;143613;14669819;11;25
+r;375310886;143613;14765645;11;25
+r;375485232;143613;14774188;11;25
+r;398319712;143613;6309895;11;25
+r;399681683;143613;6339818;11;25
+r;417457319;143613;11978439;11;25
+r;417503089;143613;11978441;11;25
+r;417535233;143613;12018738;11;25
+r;417535652;143613;12018739;11;25
+r;419511053;143613;15485861;11;25
+r;419511103;143613;15572943;11;25
+r;419514603;143613;15403843;11;25
+r;419518107;143613;15324317;11;25
+r;419518445;143613;15397196;11;25
+r;419518557;143613;15397187;11;25
+r;419525688;143613;15768100;11;25
+r;419547747;143613;15268415;11;25
+r;419569485;143613;15255035;11;25
+r;419586847;143613;15292578;11;25
+r;419587918;143613;15292575;11;25
+r;419608631;143613;16066138;11;25
+r;419608838;143613;15528614;11;25
+r;419647788;143613;15567485;11;25
+r;419649253;143613;15359928;11;25
+r;419662557;143613;15335779;11;25
+r;419664503;143613;16041050;11;25
+r;419668291;143613;15199694;11;25
+r;419668339;143613;15397606;11;25
+r;419668343;143613;15417969;11;25
+r;419670751;143613;15417970;11;25
+r;419670757;143613;15750823;11;25
+r;419677183;143613;16029585;11;25
+r;419686626;143613;15312738;11;25
+r;419686630;143613;16041277;11;25
+r;419687945;143613;15204813;11;25
+r;419691214;143613;15755003;11;25
+r;419710971;143613;15384896;11;25
+r;419712169;143613;15742726;11;25
+r;419712179;143613;15417972;11;25
+r;419712193;143613;15399142;11;25
+r;419712205;143613;15561775;11;25
+r;419713459;143613;15417974;11;25
+r;419714488;143613;15214847;11;25
+r;419714995;143613;15417973;11;25
+r;419715042;143613;15399243;11;25
+r;419716552;143613;15224219;11;25
+r;419716880;143613;15306071;11;25
+r;419762916;143613;15417978;11;25
+r;419762920;143613;15417980;11;25
+r;419762926;143613;15417981;11;25
+r;419797842;143613;15527611;11;25
+r;419803980;143613;15396748;11;25
+r;419833972;143613;15485859;11;25
+r;419834409;143613;15570765;11;25
+r;419834860;143613;15483969;11;25
+r;419834865;143613;15483968;11;25
+r;423885758;143613;16156153;11;25
+r;428837589;143613;16316335;11;25
+r;429693084;143613;16323067;11;25
+r;122751077;143613;6422880;11;26
+r;270782066;143613;10672400;11;26
+r;267691291;143613;10620527;11;26
+r;292116295;143613;11384314;11;26
+r;295458977;143613;5934011;11;26
+r;302110372;143613;6361234;11;26
+r;316332188;143613;12198349;11;26
+r;316332784;143613;12198350;11;26
+r;316333920;143613;12198352;11;26
+r;316334665;143613;12198355;11;26
+r;316334859;143613;12198357;11;26
+r;316336278;143613;12198347;11;26
+r;316338172;143613;12198348;11;26
+r;316339148;143613;12198358;11;26
+r;359274147;143613;14153835;11;26
+r;364332842;143613;14317035;11;26
+r;374612744;143613;14734027;11;26
+r;374612797;143613;14734032;11;26
+r;400604775;143613;6378346;11;26
+r;419769603;143613;16043012;11;26
+r;419785995;143613;15589160;11;26
+r;423422562;143613;16160673;11;26
+r;423422590;143613;16160674;11;26
+r;209658116;143613;9203821;11;27
+r;267331298;143613;10624529;11;27
+r;267331318;143613;10624528;11;27
+r;298483611;143613;6291607;11;27
+r;303931381;143613;6381997;11;27
+r;304988391;143613;6394152;11;27
+r;305269163;143613;6402911;11;27
+r;332080948;143613;12976915;11;27
+r;332097023;143613;12977150;11;27
+r;345734859;143613;11219935;11;27
+r;119668089;143613;6087658;11;28
+r;119673198;143613;6083339;11;28
+r;122738783;143613;6424445;11;28
+r;266719212;143613;10619906;11;28
+r;267327782;143613;10663873;11;28
+r;267341435;143613;10621302;11;28
+r;272776040;143613;10873310;11;28
+r;277368295;143613;10985483;11;28
+r;298255969;143613;6288249;11;28
+r;301917585;143613;11770307;11;29
+r;53198142;143613;2395172;11;29
+r;53797537;143613;2405304;11;29
+r;121560664;143613;6436345;11;29
+r;417155138;143613;15265410;11;29
+r;52245507;143613;2380005;11;30
+r;55440394;143613;2449550;11;30
+r;55441023;143613;2449491;11;30
+r;57934897;143613;2475740;11;30
+r;110024245;143613;5560931;11;30
+r;119109679;143613;5998377;11;30
+r;220867579;143613;9959230;11;30
+r;220891773;143613;9959724;11;30
+r;220918552;143613;9960942;11;30
+r;220975484;143613;9961820;11;30
+r;220976825;143613;9961828;11;30
+r;222106464;143613;9976830;11;30
+r;269461796;143613;10732977;11;30
+r;272707930;143613;10871522;11;30
+r;274288348;143613;10905473;11;30
+r;52190402;143613;2373891;11;31
+r;52223633;143613;2376672;11;31
+r;52524858;143613;2497513;11;31
+r;52527060;143613;2376372;11;31
+r;52976000;143613;2384405;11;31
+r;54299511;143613;2413762;11;31
+r;60857980;143613;2481980;11;31
+r;121541261;143613;6438528;11;31
+r;209658602;143613;9203820;11;31
+r;220905952;143613;9960731;11;31
+r;221470167;143613;9972307;11;31
+r;227665311;143613;10001512;11;31
+r;227671327;143613;9997798;11;31
+r;263694740;143613;10584008;11;31
+r;52229584;143613;2377565;11;32
+r;52234580;143613;2378237;11;32
+r;53020837;143613;2386383;11;32
+r;53043162;143613;2387436;11;32
+r;53057767;143613;2388293;11;32
+r;53095422;143613;2390015;11;32
+r;53229612;143613;2397015;11;32
+r;53286385;143613;2399956;11;32
+r;53553959;143613;2402867;11;32
+r;53895045;143613;2409267;11;32
+r;54444026;143613;2419481;11;32
+r;54460588;143613;2420377;11;32
+r;54517979;143613;2423341;11;32
+r;54533773;143613;2424082;11;32
+r;54549196;143613;2424895;11;32
+r;54556810;143613;2425127;11;32
+r;55066577;143613;2433668;11;32
+r;55167401;143613;2436519;11;32
+r;55185103;143613;2437408;11;32
+r;55225827;143613;2439477;11;32
+r;55324116;143613;2444237;11;32
+r;55390933;143613;2447063;11;32
+r;55496648;143613;2451432;11;32
+r;55539594;143613;2453328;11;32
+r;55577025;143613;2455237;11;32
+r;55602604;143613;2456741;11;32
+r;55708374;143613;2462558;11;32
+r;55722001;143613;2463434;11;32
+r;55775338;143613;2465897;11;32
+r;55800507;143613;2467400;11;32
+r;55800908;143613;2467422;11;32
+r;55923305;143613;2473593;11;32
+r;55941235;143613;2474569;11;32
+r;59750148;143613;2480100;11;32
+r;95779640;143613;4276965;11;32
+r;110201661;143613;5568857;11;32
+r;110201670;143613;5568856;11;32
+r;111463683;143613;5678917;11;32
+r;113290700;143613;5807066;11;32
+r;120846504;143613;6068306;11;32
+r;279622052;143613;11030704;11;32
+r;52040211;143613;2372192;11;33
+r;52191652;143613;2373918;11;33
+r;52207982;143613;2374259;11;33
+r;52208209;143613;2374296;11;33
+r;52245775;143613;2380111;11;33
+r;52855863;143613;2382068;11;33
+r;53138021;143613;2391777;11;33
+r;54472655;143613;2420974;11;33
+r;276093043;143613;10959235;11;33
+r;290756180;143613;11348626;11;33
+r;303717864;143613;11788340;11;33
+r;355731579;143613;14070566;11;34
+r;29978413;143613;1833356;11;34
+r;52040606;143613;2372297;11;34
+r;52100534;143613;2373175;11;34
+r;52524052;143613;2498885;11;34
+r;115109296;143613;5896773;11;34
+r;115109769;143613;5896677;11;34
+r;116580356;143613;5955749;11;34
+r;116582956;143613;5954970;11;34
+r;116583135;143613;5954926;11;34
+r;116583583;143613;5954678;11;34
+r;120859074;143613;6068307;11;34
+r;281056934;143613;11080754;11;34
+r;305541108;143613;11826732;11;34
+r;313343677;143613;12032750;11;34
+r;417032887;143613;15340598;11;34
+r;417033095;143613;15246507;11;34
+r;417033107;143613;15246505;11;34
+r;417033111;143613;15572939;11;34
+r;417033117;143613;15270724;11;34
+r;417033127;143613;15391295;11;34
+r;417033133;143613;15347625;11;34
+r;417033139;143613;15409826;11;34
+r;115848612;143613;5918936;11;35
+r;116579885;143613;5960198;11;35
+r;116583568;143613;5954680;11;35
+r;282622592;143613;11094973;11;35
+r;293287945;143613;11407867;11;35
+r;295154450;143613;11455744;11;35
+r;300905906;143613;11698693;11;35
+r;300905920;143613;11698694;11;35
+r;305910908;143613;11831720;11;35
+r;314120371;143613;12068432;11;35
+r;314468161;143613;12074699;11;35
+r;116951182;143613;5968493;11;36
+r;227611077;143613;10039462;11;36
+r;253388715;143613;10334652;11;36
+r;269385724;143613;10748049;11;36
+r;270432163;143613;10830600;11;36
+r;271825383;143613;10849263;11;36
+r;277940462;143613;10997072;11;36
+r;281271142;143613;11090101;11;36
+r;309082463;143613;11933848;11;36
+r;315092674;143613;12077538;11;36
+r;315110004;143613;12080955;11;36
+r;315110529;143613;12080853;11;36
+r;53173344;143613;2393833;11;37
+r;53554873;143613;2403218;11;37
+r;116559004;143613;5853673;11;37
+r;122804552;143613;6694120;11;37
+r;227593012;143613;10045731;11;37
+r;270206860;143613;10821335;11;37
+r;270207634;143613;10821158;11;37
+r;283546822;143613;11151007;11;37
+r;283546828;143613;11151006;11;37
+r;308036776;143613;11933849;11;37
+r;315095984;143613;12077722;11;37
+r;114748553;143613;5894274;11;38
+r;243203375;143613;10194901;11;38
+r;243203515;143613;10194751;11;38
+r;283444844;143613;11151005;11;38
+r;291813456;143613;11364002;11;38
+r;292322012;143613;11383613;11;38
+r;292639246;143613;11393438;11;38
+r;296458852;143613;11544279;11;38
+r;54216354;143613;2409847;11;39
+r;281568989;143613;11101964;11;39
+r;291812809;143613;11364173;11;39
+r;291812932;143613;11364144;11;39
+r;313790227;143613;12054173;11;39
+r;55199539;143613;2438102;11;40
+r;93325005;143613;3740310;11;40
+r;109644548;143613;5536569;11;40
+r;232099193;143613;10064161;11;40
+r;310694282;143613;11975726;11;40
+r;53215766;143613;2396111;11;41
+r;55289675;143613;2442542;11;41
+r;95816077;143613;4070298;11;41
+r;95816310;143613;4049396;11;41
+r;232470771;143613;10082271;11;41
+r;232470786;143613;10082269;11;41
+r;236683409;143613;10135415;11;41
+r;278874023;143613;11011762;11;41
+r;287452748;143613;11216830;11;41
+r;288439106;143613;11254582;11;41
+r;50462025;143613;2365957;11;42
+r;50464899;143613;2366431;11;42
+r;50775542;143613;2369016;11;42
+r;53109273;143613;2390652;11;42
+r;93324962;143613;3740311;11;42
+r;115109765;143613;5896678;11;42
+r;234742975;143613;10118556;11;42
+r;258745922;143613;10458642;11;42
+r;287272114;143613;11209028;11;42
+r;290080736;143613;11325693;11;42
+r;53226589;143613;2396833;11;43
+r;238925572;143613;10176857;11;43
+r;238928302;143613;10176016;11;43
+r;238928306;143613;10176015;11;43
+r;241332958;143613;10187631;11;43
+r;289941047;143613;11317417;11;43
+r;53319007;143613;2401482;11;44
+r;238099598;143613;10160513;11;44
+r;50242656;143613;2363736;11;45
+r;50415190;143613;2365105;11;45
+r;50464916;143613;2366434;11;45
+r;50465208;143613;2366490;11;45
+r;50472956;143613;2367204;11;45
+r;55899523;143613;2472614;11;45
+r;281769393;143613;11104729;11;45
+r;50241127;143613;2363644;11;46
+r;50262936;143613;2364742;11;46
+r;55047700;143613;2433528;11;46
+r;109882289;143613;5554352;11;46
+r;118526727;143613;6004476;11;46
+r;121844793;143613;6539185;11;46
+r;121844830;143613;6539181;11;46
+r;50194667;143613;2362822;11;48
+r;54446394;143613;2419602;11;48
+r;121907792;143613;6533814;11;48
+r;121907800;143613;6533813;11;48
+r;50069155;143613;2359645;11;49
+r;50155331;143613;2360511;11;49
+r;50156209;143613;2360650;11;49
+r;50173608;143613;2361885;11;49
+r;50186773;143613;2362379;11;49
+r;52522685;143613;2501702;11;49
+r;121031376;143613;6451761;11;50
+r;200682963;143613;9102212;11;50
+r;209776673;143613;9212020;11;50
+r;209776870;143613;9212019;11;50
+r;217357025;143613;9695719;11;50
+r;217359026;143613;9695724;11;50
+r;218283198;143613;9768988;11;50
+r;218285328;143613;9768989;11;50
+r;282307438;143613;11119764;11;50
+r;282466623;143613;11119765;11;50
+r;282530720;143613;11126590;11;50
+r;282530754;143613;11126592;11;50
+r;282531424;143613;11126593;11;50
+r;282591055;143613;11126591;11;50
+r;323027218;143613;12616397;11;50
+r;323028428;143613;12616439;11;50
+r;323045200;143613;12616410;11;50
+r;325493911;143613;12695163;11;50
+r;327325614;143613;12722375;11;50
+r;402153342;143613;15377218;11;50
+r;402154910;143613;15572941;11;50
+r;397498905;143613;15365489;11;50
+r;397496472;143613;15365938;11;50
+r;397498335;143613;15356903;11;50
+r;397500351;143613;15492060;11;50
+r;397499819;143613;15353379;11;50
+r;397497258;143613;15227138;11;50
+r;397496882;143613;15337479;11;50
+r;397498619;143613;15409824;11;50
+r;397496898;143613;15316482;11;50
+r;397498467;143613;15492058;11;50
+r;397503208;143613;15370677;11;50
+r;397499835;143613;15323672;11;50
+r;397499825;143613;15227695;11;50
+r;402121192;143613;15370675;11;50
+r;402108998;143613;15327460;11;50
+r;402109922;143613;15365323;11;50
+r;402102634;143613;15246494;11;50
+r;402103132;143613;15397190;11;50
+r;402120440;143613;15292583;11;50
+r;412521646;143613;15755184;11;50
+r;412521672;143613;15768033;11;50
+r;397508553;143613;15370671;11;50
+r;402108990;143613;15362356;11;50
+r;402108994;143613;15529795;11;50
+r;402154946;143613;15386137;11;50
+r;402121514;143613;15221671;11;50
+r;402151463;143613;15379429;11;50
+r;395014051;143613;15394627;11;50
+r;395014063;143613;15379216;11;50
+r;395014071;143613;15391285;11;50
+r;397499811;143613;15395995;11;50
+r;402107334;143613;15373649;11;50
+r;413897540;143613;15774959;11;50
+r;427189637;143613;16284422;11;50
+r;16133408;143613;458110;11;51
+r;23481013;143613;1388857;11;51
+r;25360367;143613;1575027;11;51
+r;29230242;143613;1780359;11;51
+r;29905841;143613;1840916;11;51
+r;52444501;143613;2567807;11;51
+r;52461545;143613;2531740;11;51
+r;52658283;143613;2573839;11;51
+r;77089005;143613;3184543;11;51
+r;77169605;143613;3184869;11;51
+r;77257567;143613;3185494;11;51
+r;77260486;143613;3185566;11;51
+r;77909088;143613;3229226;11;51
+r;86468838;143613;3377857;11;51
+r;95154727;143613;4213730;11;51
+r;95178119;143613;3810606;11;51
+r;121840991;143613;6539549;11;51
+r;16129551;143613;456253;11;52
+r;17841211;143613;576347;11;52
+r;18433910;143613;587060;11;52
+r;52501181;143613;2541821;11;52
+r;52659044;143613;2573005;11;52
+r;52958564;143613;2579615;11;52
+r;58035584;143613;2606919;11;52
+r;74946947;143613;3049610;11;52
+r;77261198;143613;3185565;11;52
+r;77274706;143613;3185771;11;52
+r;82857753;143613;3304424;11;52
+r;91370957;143613;3655628;11;52
+r;121861443;143613;6537637;11;52
+r;125905137;143613;7729794;11;52
+r;16975382;143613;566619;11;53
+r;17841071;143613;576348;11;53
+r;22443060;143613;1223296;11;53
+r;27924384;143613;1691310;11;53
+r;33109415;143613;2249593;11;53
+r;52493842;143613;2555969;11;53
+r;77055758;143613;3184074;11;53
+r;77088622;143613;3184544;11;53
+r;77257063;143613;3185495;11;53
+r;93565841;143613;3750453;11;53
+r;93566118;143613;3750462;11;53
+r;93566997;143613;3750527;11;53
+r;121844842;143613;6539180;11;53
+r;27924627;143613;1691309;11;54
+r;29126509;143613;1772751;11;54
+r;29232076;143613;1780138;11;54
+r;29872380;143613;1847731;11;54
+r;29905755;143613;1840923;11;54
+r;33725763;143613;2323859;11;54
+r;52476974;143613;2498918;11;54
+r;52492798;143613;2557715;11;54
+r;52494612;143613;2554590;11;54
+r;52508743;143613;2527455;11;54
+r;52509431;143613;2526277;11;54
+r;52521260;143613;2504452;11;54
+r;75957061;143613;3158936;11;54
+r;77052771;143613;3184048;11;54
+r;77057803;143613;3184124;11;54
+r;77176118;143613;3184998;11;54
+r;77240127;143613;3185359;11;54
+r;91417450;143613;3662748;11;54
+r;93566767;143613;3750493;11;54
+r;101999480;143613;4891050;11;54
+r;107337462;143613;5386735;11;54
+r;16131207;143613;440519;11;55
+r;18296535;143613;583719;11;55
+r;29895399;143613;1843105;11;55
+r;29901742;143613;1841977;11;55
+r;52456921;143613;2541338;11;55
+r;52504427;143613;2536110;11;55
+r;52514597;143613;2516672;11;55
+r;52520352;143613;2506448;11;55
+r;52520694;143613;2505719;11;55
+r;52658201;143613;2573975;11;55
+r;77174669;143613;3184999;11;55
+r;77558725;143613;3223479;11;55
+r;77559582;143613;3223480;11;55
+r;88562367;143613;3520447;11;55
+r;107337684;143613;5386745;11;55
+r;121844809;143613;6539183;11;55
+r;16128724;143613;456423;11;56
+r;16129557;143613;456252;11;56
+r;17274702;143613;568831;11;56
+r;29133219;143613;1773613;11;56
+r;29619389;143613;1814493;11;56
+r;29635474;143613;1815743;11;56
+r;33109419;143613;2249592;11;56
+r;52474402;143613;2504299;11;56
+r;52504727;143613;2535446;11;56
+r;52515829;143613;2514487;11;56
+r;52520209;143613;2506767;11;56
+r;77012564;143613;3183844;11;56
+r;77012635;143613;3183845;11;56
+r;77056905;143613;3184123;11;56
+r;77060094;143613;3184156;11;56
+r;77240008;143613;3185360;11;56
+r;77274518;143613;3185737;11;56
+r;77274867;143613;3185772;11;56
+r;77587448;143613;3223864;11;56
+r;93567189;143613;3750497;11;56
+r;95164824;143613;4041752;11;56
+r;16133410;143613;458109;11;57
+r;17123350;143613;567608;11;57
+r;31665392;143613;1966173;11;57
+r;34688037;143613;2349285;11;57
+r;52509149;143613;2526802;11;57
+r;55565623;143613;2606294;11;57
+r;77167900;143613;3184870;11;57
+r;77230241;143613;3185203;11;57
+r;77230812;143613;3185202;11;57
+r;77585003;143613;3223833;11;57
+r;77586628;143613;3223865;11;57
+r;84018215;143613;3329242;11;57
+r;84065057;143613;3329243;11;57
+r;86468836;143613;3377858;11;57
+r;92505816;143613;3705517;11;57
+r;92515267;143613;3706333;11;57
+r;93565668;143613;3750430;11;57
+r;93567625;143613;3750624;11;57
+r;29896577;143613;1843007;11;58
+r;52459986;143613;2535154;11;58
+r;52463346;143613;2528042;11;58
+r;52498165;143613;2547561;11;58
+r;52501483;143613;2541354;11;58
+r;52505335;143613;2534233;11;58
+r;55499444;143613;2606141;11;58
+r;74946955;143613;3049608;11;58
+r;74946971;143613;3049604;11;58
+r;74946991;143613;3049599;11;58
+r;77055259;143613;3184075;11;58
+r;77283502;143613;3185935;11;58
+r;77584938;143613;3223832;11;58
+r;88588147;143613;3527552;11;58
+r;88591855;143613;3527553;11;58
+r;91697947;143613;3689775;11;58
+r;92512886;143613;3706152;11;58
+r;93566475;143613;3750460;11;58
+r;121844802;143613;6539184;11;58
+r;19070423;143613;649099;11;59
+r;25139755;143613;1553936;11;59
+r;25360894;143613;1575107;11;59
+r;29769179;143613;1822797;11;59
+r;33109411;143613;2249594;11;59
+r;33109427;143613;2249590;11;59
+r;52444270;143613;2568250;11;59
+r;52480204;143613;2491752;11;59
+r;52509787;143613;2525634;11;59
+r;52519662;143613;2507632;11;59
+r;55480890;143613;2605144;11;59
+r;55498624;143613;2606089;11;59
+r;74946951;143613;3049609;11;59
+r;74946995;143613;3049598;11;59
+r;77165789;143613;3184825;11;59
+r;77227888;143613;3185176;11;59
+r;77227980;143613;3185175;11;59
+r;77283040;143613;3185936;11;59
+r;82856301;143613;3304423;11;59
+r;98902000;143613;4335007;11;59
+r;121844821;143613;6539182;11;59
+r;91411444;143613;3662749;11;60
+r;16133464;143613;457116;11;60
+r;16133466;143613;457115;11;60
+r;19069730;143613;649098;11;60
+r;22443805;143613;1223295;11;60
+r;29231402;143613;1780205;11;60
+r;29897243;143613;1842950;11;60
+r;29897484;143613;1842931;11;60
+r;33106897;143613;2314851;11;60
+r;33109423;143613;2249591;11;60
+r;52507937;143613;2529029;11;60
+r;52657161;143613;2579056;11;60
+r;55565621;143613;2606295;11;60
+r;77050340;143613;3184047;11;60
+r;77059033;143613;3184155;11;60
+r;77166131;143613;3184826;11;60
+r;77273307;143613;3185738;11;60
+r;77287005;143613;3186003;11;60
+r;83448457;143613;3314090;11;60
+r;83448794;143613;3314091;11;60
+r;88555327;143613;3520446;11;60
+r;88806318;143613;3558515;11;60
+r;107337284;143613;5386720;11;60
+r;74946959;143613;3049607;11;61
+r;74946979;143613;3049602;11;61
+r;74946983;143613;3049601;11;61
+r;75216401;143613;3109868;11;62
+r;29898310;143613;1842861;11;63
+r;29910694;143613;1841976;11;63
+r;74946963;143613;3049606;11;63
+r;74946987;143613;3049600;11;63
+r;74946967;143613;3049605;11;64
+r;29358001;143613;1789198;11;67
+r;31666169;143613;1966104;11;67
+r;74380069;143613;2993612;11;68
+r;71719571;143613;2926268;11;69
+r;29895259;143613;1843117;11;70
+r;74946975;143613;3049603;11;70
+r;12614231;143613;371974;11;101
+r;12614259;143613;371968;11;101
+r;12614261;143613;371967;11;101
+r;12614277;143613;371963;11;101
+r;12633809;143613;367095;11;101
+r;12638997;143613;365810;11;101
+r;13020112;143613;390974;11;101
+r;12546729;143613;388810;11;102
+r;12557069;143613;386067;11;102
+r;12614207;143613;371978;11;102
+r;12614235;143613;371973;11;102
+r;12614265;143613;371966;11;102
+r;12632253;143613;367495;11;102
+r;12710577;143613;348182;11;102
+r;12614297;143613;371958;11;103
+r;12677883;143613;356313;11;103
+r;12732409;143613;343080;11;103
+r;12547255;143613;388654;11;104
+r;12583195;143613;379573;11;104
+r;12614195;143613;371980;11;104
+r;12614221;143613;371976;11;104
+r;12614227;143613;371975;11;104
+r;12614241;143613;371972;11;104
+r;12660095;143613;360670;11;104
+r;12698661;143613;351163;11;104
+r;12614145;143613;371992;11;105
+r;12614289;143613;371960;11;105
+r;12614299;143613;371957;11;105
+r;12626517;143613;369002;11;105
+r;12642583;143613;364920;11;105
+r;12644951;143613;364356;11;105
+r;12716059;143613;346843;11;105
+r;12614189;143613;371981;11;106
+r;12753049;143613;338152;11;106
+r;12759971;143613;336412;11;106
+r;12614201;143613;371979;11;107
+r;12614251;143613;371970;11;107
+r;12614255;143613;371969;11;107
+r;12614303;143613;371956;11;107
+r;12676529;143613;356622;11;107
+r;12614213;143613;371977;11;108
+r;12678243;143613;356219;11;108
+r;12723249;143613;345303;11;108
+r;12614247;143613;371971;11;109
+r;12614273;143613;371964;11;109
+r;12614293;143613;371959;11;109
+r;12614137;143613;371994;11;110
+r;12614269;143613;371965;11;110
+r;12614281;143613;371962;11;110
+r;12614285;143613;371961;11;110
+r;12614307;143613;371955;11;110
+r;11863474;143613;101139;11;121
+r;11863543;143613;100704;11;121
+r;11863768;143613;99042;11;121
+r;11863801;143613;98870;11;121
+r;11864336;143613;95721;11;121
+r;11864582;143613;93931;11;121
+r;11864798;143613;92545;11;121
+r;11865013;143613;91138;11;121
+r;11865373;143613;88250;11;121
+r;11865704;143613;85809;11;121
+r;11865718;143613;85736;11;121
+r;11866064;143613;83590;11;121
+r;11866383;143613;81276;11;121
+r;11866525;143613;80332;11;121
+r;11866562;143613;80060;11;121
+r;11866687;143613;79183;11;121
+r;11866748;143613;78541;11;121
+r;11866942;143613;77214;11;121
+r;11867037;143613;76542;11;121
+r;11867328;143613;74485;11;121
+r;11867472;143613;73166;11;121
+r;11867579;143613;72420;11;121
+r;11867755;143613;71369;11;121
+r;11867790;143613;71161;11;121
+r;11868000;143613;69564;11;121
+r;11868054;143613;69230;11;121
+r;11868192;143613;68284;11;121
+r;11868264;143613;67827;11;121
+r;11868405;143613;66476;11;121
+r;11868429;143613;66302;11;121
+r;11868560;143613;65160;11;121
+r;11869188;143613;61379;11;121
+r;11869205;143613;61335;11;121
+r;11869351;143613;60472;11;121
+r;11869436;143613;59824;11;121
+r;11869527;143613;59417;11;121
+r;11869718;143613;58244;11;121
+r;11869843;143613;57393;11;121
+r;11870254;143613;54791;11;121
+r;11870478;143613;53427;11;121
+r;11870558;143613;52730;11;121
+r;11870702;143613;51449;11;121
+r;11871020;143613;49433;11;121
+r;11871055;143613;49144;11;121
+r;11871067;143613;49009;11;121
+r;11871193;143613;47952;11;121
+r;11871424;143613;46622;11;121
+r;11871567;143613;45341;11;121
+r;11871985;143613;43055;11;121
+r;11872061;143613;42565;11;121
+r;11872678;143613;38497;11;121
+r;11872797;143613;37861;11;121
+r;11872931;143613;36819;11;121
+r;11872957;143613;36690;11;121
+r;11873172;143613;35115;11;121
+r;11873274;143613;34258;11;121
+r;11873371;143613;33610;11;121
+r;11874050;143613;29374;11;121
+r;11874215;143613;28090;11;121
+r;11874409;143613;27181;11;121
+r;11874478;143613;26803;11;121
+r;11874769;143613;24592;11;121
+r;11874781;143613;24508;11;121
+r;11874801;143613;24243;11;121
+r;11874964;143613;22894;11;121
+r;11874980;143613;22791;11;121
+r;11875584;143613;18625;11;121
+r;11875681;143613;17913;11;121
+r;11875722;143613;17663;11;121
+r;11875787;143613;17166;11;121
+r;11876129;143613;14488;11;121
+r;11876373;143613;12638;11;121
+r;11876480;143613;11866;11;121
+r;11876803;143613;9745;11;121
+r;11876907;143613;9149;11;121
+r;11876941;143613;8846;11;121
+r;11877086;143613;7519;11;121
+r;11877171;143613;6631;11;121
+r;11877641;143613;3153;11;121
+r;11877870;143613;1309;11;121
+r;1906647;143613;80488;11;122
+r;1976763;143613;94735;11;122
+r;2059820;143613;608;11;122
+r;11849318;143613;284178;11;122
+r;11849805;143613;275510;11;122
+r;11850813;143613;255113;11;122
+r;11851199;143613;245436;11;122
+r;11851706;143613;232170;11;122
+r;11852195;143613;223791;11;122
+r;11852332;143613;222104;11;122
+r;11852361;143613;221909;11;122
+r;11852987;143613;205891;11;122
+r;11853746;143613;183804;11;122
+r;11853876;143613;180052;11;122
+r;11856034;143613;168097;11;122
+r;11856038;143613;168096;11;122
+r;11856042;143613;168095;11;122
+r;11856130;143613;167476;11;122
+r;11856674;143613;155329;11;122
+r;11856699;143613;154862;11;122
+r;11856711;143613;154784;11;122
+r;11856805;143613;153095;11;122
+r;11857196;143613;149798;11;122
+r;11857200;143613;149797;11;122
+r;11857202;143613;149796;11;122
+r;11857206;143613;149795;11;122
+r;11857210;143613;149794;11;122
+r;11857214;143613;149793;11;122
+r;11857218;143613;149792;11;122
+r;11857222;143613;149791;11;122
+r;11857229;143613;149789;11;122
+r;11857233;143613;149788;11;122
+r;11857235;143613;149787;11;122
+r;11857239;143613;149786;11;122
+r;11857243;143613;149785;11;122
+r;11857247;143613;149784;11;122
+r;11857251;143613;149783;11;122
+r;11857255;143613;149782;11;122
+r;11858339;143613;136536;11;122
+r;11858875;143613;132978;11;122
+r;11859038;143613;131731;11;122
+r;11859390;143613;129144;11;122
+r;11859721;143613;126677;11;122
+r;11859814;143613;125959;11;122
+r;11859857;143613;125710;11;122
+r;11860200;143613;123531;11;122
+r;11860440;143613;121768;11;122
+r;11860529;143613;121206;11;122
+r;11861219;143613;116284;11;122
+r;11861390;143613;115150;11;122
+r;11861479;143613;114564;11;122
+r;11861775;143613;112656;11;122
+r;11862606;143613;107294;11;122
+r;11862697;143613;106815;11;122
+r;11862742;143613;106435;11;122
+r;11862755;143613;106219;11;122
+r;11863034;143613;104522;11;122
+r;11863191;143613;103169;11;122
+r;11863195;143613;103167;11;122
+r;11863337;143613;102261;11;122
+r;1906645;143613;117862;11;123
+r;1906646;143613;149790;11;123
+r;8881869;143613;260766;11;150
+r;1906643;143613;222196;11;151
+r;8875566;143613;168224;11;151
+r;8875579;143613;168648;11;151
+r;8880339;143613;231722;11;151
+r;8872401;143613;107910;11;152
+r;8877974;143613;209445;11;152
+r;8871830;143613;50766;11;153
+r;8876005;143613;181465;11;153
+r;8876243;143613;183147;11;153
+r;8876435;143613;184633;11;153
+r;8882453;143613;270940;11;153
+r;8885487;143613;303114;11;153
+r;1906642;143613;186479;11;154
+r;1906644;143613;186097;11;154
+r;8877334;143613;193143;11;154
+r;8877547;143613;194325;11;154
+r;8711507;143613;248119;11;160
+r;8690271;143613;216378;11;161
+r;8691779;143613;219859;11;161
+r;8693562;143613;222105;11;161
+r;8698340;143613;229521;11;161
+r;8699893;143613;231474;11;161
+r;8702708;143613;235009;11;161
+r;8703575;143613;236070;11;161
+r;8704791;143613;237454;11;161
+r;8705272;143613;238181;11;161
+r;8706536;143613;240065;11;161
+r;8706592;143613;240238;11;161
+r;8708290;143613;243827;11;161
+r;8713469;143613;250162;11;161
+r;8715621;143613;252048;11;161
+r;8717187;143613;253451;11;161
+r;8723869;143613;258321;11;161
+r;8724964;143613;259036;11;161
+r;8724966;143613;259037;11;161
+r;8729889;143613;262875;11;161
+r;8729985;143613;262939;11;161
+r;8730112;143613;263024;11;161
+r;1752980;143613;227374;11;162
+r;8594195;143613;71593;11;162
+r;8607848;143613;110028;11;162
+r;8611740;143613;121097;11;162
+r;8611795;143613;121240;11;162
+r;8613879;143613;127027;11;162
+r;8623577;143613;153850;11;162
+r;8628429;143613;163477;11;162
+r;8628509;143613;163621;11;162
+r;8629367;143613;164989;11;162
+r;8679065;143613;206790;11;162
+r;8681746;143613;208339;11;162
+r;8683573;143613;209392;11;162
+r;8683643;143613;209430;11;162
+r;8686822;143613;211569;11;162
+r;8688128;143613;212642;11;162
+r;8741818;143613;273988;11;162
+r;8582034;143613;36209;11;163
+r;8584910;143613;44817;11;163
+r;8592732;143613;67230;11;163
+r;8601638;143613;92910;11;163
+r;8621660;143613;145188;11;163
+r;8623317;143613;153405;11;163
+r;8626045;143613;158975;11;163
+r;8626348;143613;159455;11;163
+r;8626487;143613;159660;11;163
+r;8637581;143613;180981;11;163
+r;8642370;143613;183802;11;163
+r;8642372;143613;183803;11;163
+r;8644190;143613;184875;11;163
+r;8659965;143613;195495;11;163
+r;8677171;143613;205604;11;163
+r;8677611;143613;205880;11;163
+r;8677613;143613;205881;11;163
+r;8677615;143613;205882;11;163
+r;8677617;143613;205883;11;163
+r;8677619;143613;205884;11;163
+r;8677623;143613;205886;11;163
+r;8677625;143613;205887;11;163
+r;8677631;143613;205890;11;163
+r;8731718;143613;264198;11;163
+r;8738924;143613;271408;11;163
+r;8739057;143613;271530;11;163
+r;8741699;143613;273820;11;163
+r;8744121;143613;276051;11;163
+r;8747208;143613;279758;11;163
+r;1906641;143613;183801;11;164
+r;8577942;143613;24123;11;164
+r;8645332;143613;185742;11;164
+r;8646901;143613;186486;11;164
+r;8646905;143613;186487;11;164
+r;8663655;143613;197606;11;164
+r;8778900;143613;312584;11;164
+r;1875067;143613;186017;11;165
+r;1906640;143613;187610;11;165
+r;8574662;143613;14112;11;165
+r;8664097;143613;197857;11;165
+r;8666926;143613;199587;11;165
+r;8669421;143613;200889;11;165
+r;8669552;143613;200960;11;165
+r;8570434;143613;1441;11;169
+r;227002;143613;71101;11;184
+r;166949;143613;154483;11;189
+r;166950;143613;154484;11;189
+r;219077;143613;157559;11;189
+r;227001;143613;158275;11;189
+r;166951;143613;27497;11;190
+r;152685;143613;153923;11;199
+r;8875582;143613;168649;11;278
+r;8883067;143613;276479;11;282
+r;8660525;143613;195866;11;304
+r;8668419;143613;200420;11;306
+r;8570022;143613;234;11;314

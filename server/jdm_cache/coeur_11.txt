@@ -1,0 +1,1609 @@
+
+e;96211;'coeur';1;2310
+e;6286351;'valvotomie à coeur fermé de la valvule pulmonaire par voie transventriculaire';1;0
+e;6287582;'coeur triloculaire biauriculaire';1;0
+e;6288853;'valvuloplastie à coeur ouvert sans remplacement de valvule';1;0
+e;6290203;'avec plaie ouverte du thorax lésion du coeur';1;0
+e;6292215;'coeur pulmonaire aigu';1;0
+e;6293631;'valvulotomie à coeur fermé';1;0
+e;6295972;'annuloplastie des valves du coeur';1;0
+e;6302110;'lymphatiques du coeur et du péricarde';1;0
+e;6302208;'battement rapide du coeur';1;0
+e;6303327;'avec plaie ouverte du thorax lésion du coeur non précisée';1;0
+e;6305743;'introduction de substance thérapeutique dans le coeur';1;0
+e;6307269;'grande veine du coeur';1;0
+e;6308100;'valvuloplastie à coeur ouvert sans remplacement de la valvule pulmonaire';1;0
+e;6310751;'ver du coeur canin';1;0
+e;6310791;'rejet de greffe du coeur';1;0
+e;6311563;'gros vaisseaux de la base du coeur';1;0
+e;6311405;'bruits du coeur anormaux';1;0
+e;6312465;'valvuloplastie du coeur par ballon percutané';1;0
+e;6313326;'battement normal du coeur';1;0
+e;6316812;'massage à coeur ouvert';1;0
+e;6316795;'thrombus mural du coeur';1;0
+e;6317930;'coeur croisé';1;0
+e;6319309;'coeur muriforme';1;0
+e;6319688;'soins maternels pour rythme anormal du coeur foetal';1;0
+e;6320290;'présence d'une greffe du coeur';1;0
+e;6320789;'toutes les cavités du coeur';1;0
+e;6321143;'ruptures du coeur post infarctus';1;0
+e;6323017;'valvotomie à coeur fermé de la valvule mitrale';1;0
+e;6326078;'veines du coeur';1;0
+e;6328947;'bypass du coeur droit';1;0
+e;6336144;'dérivation du coeur gauche';1;0
+e;6346147;'coeur à circulations croisées';1;0
+e;6347508;'battement du coeur';1;0
+e;6354040;'valvuloplastie à coeur ouvert sans remplacement de la valvule mitrale';1;0
+e;6354810;'anomalies congénitales des cloisons du coeur';1;0
+e;6355418;'valves du coeur';1;0
+e;6358534;'quatrième bruit du coeur';1;0
+e;6358585;'donneur de coeur';1;0
+e;6360711;'dérivation du coeur droit';1;0
+e;6362110;'pontage coronarien à coeur battant';1;0
+e;6362873;'tumeurs du coeur';1;0
+e;6364814;'coeur avec ventricules entrecroisés';1;0
+e;6365310;'ver du coeur du chien';1;0
+e;6366093;'coeur artificiel temporaire';1;0
+e;6366070;'battement anormal du coeur';1;0
+e;6373404;'valvotomie à coeur fermé de la valvule tricuspide';1;0
+e;6373520;'auricule droite du coeur';1;0
+e;6376015;'vortex du coeur';1;0
+e;6376690;'ruptures d'un coeur post infarctus';1;0
+e;6375528;'coeur triatrial';1;0
+e;6380665;'myocarde de la pointe du coeur';1;0
+e;6381886;'hypokinésie d'une paroi du coeur';1;0
+e;6383684;'valvotomie à coeur ouvert de la valvule pulmonaire avec occlusion de la chambre d'entrée';1;0
+e;6389399;'introduction de cathéter dans le coeur droit';1;0
+e;6389880;'valvuloplastie à coeur ouvert sans remplacement de la valvule aortique';1;0
+e;6391171;'pontage coronarien a coeur battant';1;0
+e;6396680;'mouvement paradoxal d'une paroi du coeur';1;0
+e;6398516;'muscles pectinés du coeur';1;0
+e;6409016;'incision d'une oreillette du coeur';1;0
+e;6409706;'auricule gauche du coeur';1;0
+e;6411875;'section des colonnes charnues du coeur';1;0
+e;6414714;'battement irrégulier du coeur';1;0
+e;6419047;'malposition du coeur';1;0
+e;6421456;'coeur biloculaire';1;0
+e;6421509;'incisure apicale du coeur';1;0
+e;6328182;'limbe de la fosse ovale du coeur';1;0
+e;6371992;'assistance cardiaque temporaire par coeur artificiel';1;0
+e;6361627;'valvuloplastie à coeur ouvert sans remplacement de la valvule tricuspide';1;0
+e;6387886;'hypothermie systémique dans une chirurgie à coeur ouvert';1;0
+e;6354028;'commissurotomie à coeur fermé de la valvule mitrale';1;0
+e;6391753;'niveau de médicament agissant sur le coeur';1;0
+e;6289960;'valvotomie à coeur fermé de la valvule aortique';1;0
+e;6386286;'cathétérisme cardiaque sélectif du coeur droit pour ventriculographie';1;0
+e;6397007;'commissurotomie à coeur fermée de la valvule pulmonaire transventriculaire';1;0
+e;6378484;'piliers du coeur';1;0
+e;6294166;'pilier du coeur';1;0
+e;6309705;'battements de coeur sautés';1;0
+e;6308491;'auscultation du coeur';1;0
+e;6312198;'cathétérisme du coeur droit';1;0
+e;6322116;'battements de coeur très forts';1;0
+e;6391987;'bypass du coeur gauche';1;0
+e;6399309;'valvotomie à coeur fermé de la valvule pulmonaire';1;0
+e;6401795;'cathétérisme cardiaque sélectif du coeur gauche pour ventriculographie';1;0
+e;6404461;'battements de coeur irréguliers';1;0
+e;6413462;'commissurotomie à coeur ouvert de la valvule pulmonaire avec occlusion de la chambre d'entrée';1;0
+e;6414750;'bruits du coeur normaux';1;0
+e;6377897;'syndrome du coeur droit hypoplasique';1;0
+e;6370037;'sillon terminal du coeur';1;0
+e;6411088;'lacération du coeur sans pénétration des chambres cardiaques ni plaie ouverte du thorax';1;0
+e;14581272;'grosses vésicules à coeur dense LDCV';777;0
+e;14637916;'l'intelligence du coeur';1;0
+e;6386414;'anomalie du premier bruit du coeur';1;0
+e;6387257;'anomalie du deuxième bruit du coeur';1;0
+e;6330128;'rupture de la paroi libre du coeur';1;0
+e;15439527;'faire battre le coeur de [qqn]';1;0
+e;6285905;'bord gauche du coeur';1;0
+e;6287264;'rupture du coeur post infarctus';1;0
+e;6344479;'rupture d'un coeur post infarctus';1;0
+e;6379158;'sensation de pression sur le coeur';1;0
+e;6417712;'dégénérescence du coeur ou du myocarde sénile';1;0
+e;6422946;'angiographie combinée du coeur droit et du coeur gauche pour ventriculographie';1;0
+e;6286274;'cathétérisme du coeur droit et du coeur gauche';1;0
+e;6314907;'hypertonie ischémique post-opératoire du coeur';1;0
+e;6319400;'souffles au coeur non diagnostiqués';1;0
+e;6319895;'sans mention de plaie ouverte du thorax contusion du coeur';1;0
+e;6325753;'présence d'une greffe de coeur et poumon';1;0
+e;6330275;'trigone fibreux du coeur';1;0
+e;6331285;'protéines coeur sm';1;0
+e;6331795;'avec plaie ouverte du thorax lacération du coeur sans pénétration des chambres cardiaques';1;0
+e;6335756;'vésicules à coeur dense';1;0
+e;6339778;'alternance mécanique du coeur';1;0
+e;6340376;'sans mention de plaie ouverte du thorax lésion du coeur';1;0
+e;6341533;'cathétérisme combiné du coeur droit et du coeur gauche';1;0
+e;6344126;'autres anomalies congénitales précisées du coeur';1;0
+e;6348884;'sans plaie ouverte du thorax lésion du coeur';1;0
+e;6354329;'bruit du coeur accéléré';1;0
+e;6362082;'sans mention de plaie ouverte du thorax lésion du coeur non précisée';1;0
+e;6363832;'os du coeur';1;0
+e;6365275;'protéines coeur de la petite ribonucléoprotéine nucléaire';1;0
+e;6388439;'examens histolopathologiques du coeur';1;0
+e;6399692;'dédoublement paradoxal du deuxième bruit du coeur';1;0
+e;6420600;'resuture de prothèse d'une cloison du coeur';1;0
+e;14531682;'écouter le coeur';1;0
+e;14566626;'peines de coeur';1;0
+e;14585170;'qualité de coeur';1;0
+e;14716547;'coeur de céleri';1;0
+e;14728112;'aller aux restos du coeur';1;0
+e;15034321;'au coeur du';1;0
+e;15953448;'restaurants du coeur';1;0
+e;6424870;'réparation de malformation de la cloison auriculaire avec prothèse par technique à coeur ouvert';1;0
+e;6332249;'congénitales non classées ailleurs anomalies obstructives du coeur';1;0
+e;6346284;'autres anomalies congénitales du coeur';1;0
+e;6422782;'malformations septales du coeur';1;0
+e;2474940;'multi-coeur';1;0
+e;6443476;'partie proximale de l'artère circonflexe du coeur';1;0
+e;6431195;'réparation de la cloison auriculaire du coeur dans une réparation totale du tronc artériel';1;0
+e;6429146;'cancer du coeur';1;0
+e;6424246;'tophus goutteux du coeur';1;0
+e;2383227;'par-coeur';1;0
+e;6436960;'malposition du coeur et de l'apex cardiaque';1;0
+e;6436766;'résultats anormaux d'imagerie diagnostique du coeur et de la circulation coronaire';1;0
+e;6431951;'syndromes de l'hypoplasie du coeur gauche';1;0
+e;13517885;'stimulation électrique du coeur par voie externe';1;0
+e;13517884;'stimulations électriques du coeur par voie externe';1;0
+e;16152242;'de mon coeur';777;0
+e;16032476;'crever le coeur';1;0
+e;15446415;'cuit à coeur';1;0
+e;16042946;'dans le secret de son coeur';1;0
+e;16032492;'dans un coin de son coeur';1;0
+e;16032496;'de tout coeur avec';1;0
+e;15443959;'de tout mon coeur';1;0
+e;15770823;'de tout ton coeur';1;0
+e;15326169;'dire ce que vous avez sur le coeur';1;0
+e;15625933;'donner mal au coeur à';1;0
+e;15458416;'donner mal au coeur à [qqn]';1;0
+e;15625932;'donner mal au coeur à quelqu'un';1;0
+e;15312576;'double coeur';1;0
+e;15429324;'droit au coeur';1;0
+e;15646625;'déchirer le coeur à';1;0
+e;15447871;'déchirer le coeur à [qqn]';1;0
+e;15646624;'déchirer le coeur à quelqu'un';1;0
+e;16031519;'défibriller le coeur';1;0
+e;15427922;'en coeur';1;0
+e;16032536;'en donner à coeur joie';1;0
+e;16066223;'en forme de coeur';1;0
+e;15646626;'en plein coeur de [qch]';1;0
+e;15646630;'en plein coeur de quelque chose';1;0
+e;16170410;'coeur de Londres';1;0
+e;16322397;'coeur de réacteur nucléaire';1;0
+e;16336349;'coeur lourd';1;0
+e;16094611;'coeur-de-marie';1;0
+e;16094612;'coeur-saignant';1;0
+e;5828578;'gâteau au coeur coulant';777;0
+e;6443810;'insertion initiale d'électrode dans le ventricule du coeur';1;0
+e;6438757;'coeur pulmonaire à l'électrocardiogramme';1;0
+e;6427764;'angiographie du coeur droit';1;0
+e;6425280;'bruit du coeur anormal';1;0
+e;6424086;'lésion du coeur et du poumon';1;0
+e;6421884;'ver du coeur français';1;0
+e;9980160;'avoir de coeur';1;0
+e;10577493;'Ayez pitié du coeur des hommes d'Ève de Castro';777;0
+e;6294504;'court-circuit du coeur droit';1;0
+e;13517886;'stimulations électriques du coeur';1;0
+e;13517887;'stimulation électrique du coeur';1;0
+e;15443792;'cher à mon coeur';1;0
+e;15384694;'code du coeur d'une application';1;0
+e;15770402;'coeur a ses raisons que la raison ignore';1;0
+e;15770403;'coeur a ses raisons que la raison ne connaît point';1;0
+e;15259275;'coeur aride';1;0
+e;15308678;'coeur battant normalement';1;0
+e;15625320;'coeur content embellit le visage';1;0
+e;15369406;'coeur cuirassé';1;0
+e;15236299;'coeur d'athlète';1;0
+e;15384693;'coeur d'une ville';1;0
+e;15691511;'coeur de l'été';1;0
+e;15462836;'coeur de meule';1;0
+e;15200691;'coeur de poulet';1;0
+e;15197229;'coeur du bois';1;0
+e;15646622;'coeur du débat';1;0
+e;15448507;'coeur du réacteur';1;0
+e;15262871;'coeur facile à donner, facile à ôter';1;0
+e;15195377;'coeur gras';1;0
+e;15531777;'coeur myxoedémateux';1;0
+e;15211627;'coeur poumon artificiel';1;0
+e;16032459;'coeur sec';1;0
+e;15646623;'coeur vaillant';1;0
+e;15377702;'coeur vertical';1;0
+e;16042082;'coeur-dehors';1;0
+e;16033254;'coeur-parfumé';1;0
+e;15528121;'colonnes charnues du coeur';1;0
+e;15357465;'contracture ischémique post-opératoire du coeur';1;0
+e;15759914;'contre son coeur';1;0
+e;16170406;'au coeur même de';1;0
+e;16237526;'avoir appris qch par coeur';1;0
+e;16237528;'avoir appris quelque chose par coeur';1;0
+e;16366826;'beignet en forme de coeur';1;0
+e;16317446;'ce n'est pas de gaieté de coeur';1;0
+e;5564393;'Peau d'homme coeur de bête';777;0
+e;10577575;'frapper au coeur';1;0
+e;15963868;'coeur-Saignant';1;0
+e;15477217;'au coeur';1;0
+e;15646611;'au coeur de [qch]';1;0
+e;15396555;'au coeur de l'automne';1;0
+e;15561131;'au coeur de l'hiver';1;0
+e;15561129;'au coeur de l'été';1;0
+e;15396553;'au coeur de la nuit';1;0
+e;15374856;'au coeur de pierre';1;0
+e;15646613;'au coeur de quelque chose';1;0
+e;15396551;'au coeur du printemps';1;0
+e;15435935;'au grand coeur';1;0
+e;16032369;'au tréfonds de son coeur';1;0
+e;15452420;'avoir [qch] sur le coeur';1;0
+e;15646617;'avoir des problèmes de coeur';1;0
+e;15397482;'avoir du coeur au ventre';1;0
+e;15446386;'avoir du coeur à l'ouvrage';1;0
+e;16032402;'avoir la rage au coeur';1;0
+e;15397483;'avoir le coeur au ventre';1;0
+e;16040478;'avoir le coeur barbouillé';1;0
+e;15458632;'avoir le coeur en bandoulière';1;0
+e;15249316;'avoir le coeur gai';1;0
+e;15484771;'avoir le coeur joyeux';1;0
+e;15438577;'avoir le coeur léger';1;0
+e;16032408;'avoir le coeur palpitant';1;0
+e;16032407;'avoir le coeur à';1;0
+e;16040530;'avoir un coeur de lion';1;0
+e;16040531;'avoir un coeur de poulet';1;0
+e;15427979;'avoir un coeur gros comme ça';1;0
+e;15369432;'avoir un coup de coeur pour';1;0
+e;15431357;'avoir un coup de coeur pour [qch/qqn]';1;0
+e;15435936;'avoir un grand coeur';1;0
+e;15430154;'avoir à coeur de faire [qch]';1;0
+e;15582709;'avoir à coeur de faire qch';1;0
+e;15646616;'avoir à coeur de faire quelque chose';1;0
+e;15378806;'avoir... le coeur brisé';1;0
+e;15369424;'avoir... un coup de coeur';1;0
+e;15461006;'belle comme un coeur';1;0
+e;13757115;'biopsie-exérèse du coeur';1;0
+e;16032449;'brave coeur';1;0
+e;15646621;'briser le coeur de';1;0
+e;15646618;'briser le coeur de [qqn]';1;0
+e;15757438;'briser le coeur de qqn';1;0
+e;15646620;'briser le coeur de quelqu'un';1;0
+e;15411302;'briseur de coeur';1;0
+e;15355140;'bruits du coeur foetal';1;0
+e;15761769;'cela me soulève le coeur';1;0
+e;15254193;'charpente fibreuse du coeur';1;0
+e;6437077;'syndrome du coeur d'athlète';1;0
+e;15351027;'apprenant par coeur';1;0
+e;15370199;'apprentissage par coeur';1;0
+e;15521253;'assourdissement des bruits du coeur';1;0
+e;15395206;'atrophie du coeur';1;0
+e;16167475;'avoir le coeur en fête';1;0
+e;16183768;'Plan général du coeur de la vallée des Usines';777;0
+e;16164160;'Si cette planète vous tient à coeur';777;0
+e;16310555;'Son coeur avec';777;0
+e;16172347;'Un coeur pris au piège';777;0
+e;5911999;'coeur fondant';1;0
+e;6432717;'excision d'anévrisme du coeur';1;0
+e;6423653;'premier bruit du coeur anormal';1;0
+e;9981098;'coeur néolithique des Orcades';1;0
+e;10902443;'y mettre tout son coeur';1;0
+e;16310573;'La raison et le coeur';777;0
+e;15769519;'Tu me fends le coeur';1;0
+e;15369422;'achat coup de coeur';1;0
+e;15646606;'affaires de coeur';1;0
+e;15522179;'aire de matité du coeur';1;0
+e;15429295;'aller droit au coeur';1;0
+e;15353933;'anneaux fibreux du coeur';1;0
+e;224090;'avoir le cur serré';666;50
+e;5688689;'Chacun son cinéma ou Ce petit coup au coeur quand la lumière s'éteint et que le film commence';777;0
+e;6430841;'ruptures de coeur post infarctus';1;0
+e;6422986;'battements de coeur couplés';1;0
+e;6422507;'veine du bord gauche du coeur';1;0
+e;10747781;'chevauchée au coeur du territoire contrôlé par les Bourguignons';777;0
+e;11407989;'parois du coeur';1;0
+e;15693528;'Les Élans du coeur de Félicien Marceau';777;0
+e;15460236;'Mon bon coeur me perdra';1;0
+e;15294625;'Mon coeur,';1;0
+e;15761119;'Mon petit coeur,';1;0
+e;16322937;'Géraldineavec Quel coeur vas-tu briser';777;0
+e;16324991;'IV - Génie et coeur d'Augustin';777;0
+e;16324990;'III - Égarements du coeur et de l'esprit';777;0
+e;2377701;'loin des yeux, loin du coeur';1;0
+e;6440657;'syndrome d'hypoplasie du coeur gauche';1;0
+e;6439799;'implantation initiale d'électrode dans une oreillette et un ventricule du coeur';1;0
+e;6439310;'partie distale de l'artère circonflexe du coeur';1;0
+e;6438351;'pontage d'artère coronaire à coeur battant';1;0
+e;6435911;'insertion d'électrode dans le coeur';1;0
+e;6434722;'syndrome de l'hypoplasie du coeur gauche';1;0
+e;6421856;'cathétérisme du coeur gauche';1;0
+e;10745225;'Au coeur de l'océan';1;0
+e;10841536;'À coeur et à Kriss';777;0
+e;10935596;'sans coeur';1;2
+e;2412343;'avoir à coeur';1;2
+e;2482510;'haut-de-coeur';1;0
+e;5990694;'Laisse parler ton coeur';777;0
+e;10044605;'toujours dans mon coeur';777;0
+e;10044152;'Les Moulins de mon coeur';777;0
+e;10324501;'Mon coeur l'aime par Kathy Leander';777;0
+e;12285566;'Coup de coeur';777;0
+e;2398610;'amies de coeur';1;0
+e;2398984;'avoir coeur au métier';1;0
+e;2412305;'avoir sur le coeur';1;0
+e;2433432;'tenir à coeur';1;0
+e;5536524;'Le coeur a ses raisons';777;0
+e;5536526;'Les Raisons du coeur';777;0
+e;6533808;'veine du coeur';1;0
+e;11840862;'cavité supérieure du coeur';1;0
+e;5557478;'Au coeur de la nuit';777;0
+e;5557208;'À coeur ouvert';777;0
+e;6430350;'coeur gauche';1;0
+e;11645917;'Richard coeur de lion';1;0
+e;6526545;'actes chirurgicaux sur le coeur';1;0
+e;6444920;'implantation initiale d'électrode dans une oreillette du coeur';1;0
+e;10516673;'Les Damnés du coeur';777;0
+e;10516667;'Un coeur en exil';777;0
+e;15374858;'au coeur de pierre, au coeur dur';1;0
+e;2401205;'coeur de métier';1;0
+e;2437971;'du fond du coeur';1;0
+e;2438938;'le coeur sur la main';1;0
+e;2459892;'routeur de coeur';1;0
+e;2463339;'être tout coeur';1;0
+e;2469726;'serrer le coeur';1;0
+e;5900409;'coeur saignant';777;0
+e;6422425;'transplantation du coeur';1;0
+e;10513141;'La Rage au coeur';777;0
+e;2480998;'rire de bon coeur';1;0
+e;2413656;'en avoir le coeur net';1;0
+e;2450034;'peser sur le coeur';1;0
+e;6449073;'réparation de malformation de l'ostium secundum avec prothèse par technique à coeur ouvert';1;0
+e;6447588;'réparation de l'anneau des valves du coeur';1;0
+e;6446353;'ligature de l'oreillette du coeur';1;0
+e;6445226;'au cours d'hypoplasie du coeur gauche';1;0
+e;6429311;'tumeur secondaire des gros vaisseaux de la base du coeur';1;0
+e;8348506;'IRM du coeur';1;0
+e;10498638;'Au coeur du brasier';777;0
+e;11254169;'médicament pour le coeur';1;0
+e;2422470;'coeur de Marie';1;0
+e;2453309;'avoir le coeur sur les lèvres';1;0
+e;2462424;'avoir le coeur sur la main et le poignet coupé';1;0
+e;10105969;'Prodige du coeur de Charles Silvestre';777;0
+e;10178686;'Les Hasards du coeur';777;0
+e;10176634;'À tout coeur';777;0
+e;2378809;'n'être qu'un coeur et qu'une âme';1;0
+e;2409001;'haut de coeur';1;0
+e;10138805;'La Justice au coeur';777;0
+e;11178959;'coeur de ville';1;0
+e;2376832;'avoir le coeur à l'ouvrage';1;0
+e;2431500;'se ronger le coeur';1;0
+e;2449053;'dîner par coeur';1;0
+e;6528410;'coeur floral';777;0
+e;6448412;'lyse d'adhérences du coeur';1;0
+e;13312661;'enveloppe du coeur';1;0
+e;2379909;'bouche en coeur';1;0
+e;2402656;'coeur de marque';1;0
+e;2443316;'argent du coeur';1;0
+e;2449765;'chef de coeur';1;0
+e;12779347;'épisodes d'Au coeur du temps';777;0
+e;2455721;'lever le coeur';1;0
+e;2457714;'coeur simple';1;0
+e;2474673;'laisser parler son coeur';1;0
+e;5558962;'tumeur bénigne du coeur';1;0
+e;2366332;'à coeur de journée';1;0
+e;2357078;'contre-coeur';1;0
+e;2363564;'le coeur sur les lèvres';1;0
+e;2364504;'dire ce qu'on a sur le coeur';1;0
+e;2468763;'main froide coeur chaud';1;0
+e;6534136;'trabécule charnu du coeur';1;0
+e;2363310;'activité électrique du coeur';1;0
+e;2365740;'amis de coeur';1;0
+e;2366623;'avoir coeur à l'ouvrage';1;0
+e;2366633;'amie de coeur';1;0
+e;2367580;'si le coeur t'en dit';1;0
+e;2501579;'pointes-de-coeur';1;0
+e;15476277;'10 de coeur';1;0
+e;8820795;'contraction automatique du coeur';1;0
+e;8896467;'pathologie du coeur';1;0
+e;9050849;'coeur sénile';1;0
+e;9457001;'faire battre le coeur';1;0
+e;9464266;'carotte de Colmar à coeur rouge';1;0
+e;9464263;'carotte Chantenay à coeur rouge';1;0
+e;9696712;'problèmes de coeur';1;0
+e;9726537;'être au coeur des débats';1;0
+e;9726538;'être au coeur du débat';1;0
+e;10846394;'Joli-coeur';1;0
+e;12731742;'refroidissement du coeur';1;0
+e;13782798;'1-31 actes chirurgicaux sur le coeur';1;0
+e;13775107;'1-310 coeur actes chirurgicaux généraux et divers';1;0
+e;13780552;'1-311 coeur incisions';1;0
+e;13800053;'1-313-314 coeur excisions';1;0
+e;13797229;'1-315-316 coeur injections et implantations';1;0
+e;13749498;'1-317 coeur endoscopie';1;0
+e;13762868;'1-318-319 coeur réparations, fermetures et reconstructions chirurgicales';1;0
+e;13743731;'1-31c coeur actes chirurgicaux destructifs';1;0
+e;13756673;'1-31d coeur transplantations et transpositions';1;0
+e;13773203;'1-31e coeur manipulations';1;0
+e;13751505;'32 coeur';1;0
+e;13786216;'320 coeur termes généraux';1;0
+e;13782749;'350-351 bruits du coeur';1;0
+e;13801164;'4-31 anomalies congénitales du coeur';1;0
+e;14026334;'Atout coeur';777;0
+e;14669688;'Crimes du coeur';777;0
+e;14772853;'Ethel Barrymore pour Rien qu'un coeur solitaire';777;0
+e;15753812;'Entre les deux mon coeur balance.';1;0
+e;14475900;'Anomalies du coeur';777;0
+e;14488668;'Au coeur de Rungis';777;0
+e;14026356;'Au fond du coeur';777;0
+e;14026365;'Avec les yeux du coeur';777;0
+e;15370200;'Je te connais par coeur';1;0
+e;16166168;'Accroche-coeur';777;0
+e;16310606;'Combien le coeur de l'homme est soumis à l'erreur !';777;0
+e;662190;'coeur droit';1;0
+e;1490174;'un portefeuille à la place du coeur';1;0
+e;1780775;'système de conduction du coeur';1;0
+e;2569754;'de gaîté de coeur';1;0
+e;2505657;'à plein coeur';1;0
+e;2507212;'chasse-coeur';1;0
+e;3182159;'À coeur joie';777;0
+e;3371225;'terrine de courgettes et poivrons, coeur de haddock';1;0
+e;3364805;'muffins au chocolat coeur fondant et pépites de chocolat blanc';1;0
+e;3360616;'coeur de côtelettes d'agneau au porto et aux fruits rouges';1;0
+e;3759269;'coeur de cèleri coupé en fines tranches';1;0
+e;5386744;'peine du coeur';1;0
+e;579658;'Rai de coeur';777;0
+e;579659;'Rais de coeur';777;0
+e;1651483;'coeur univentriculaire';777;0
+e;1778126;'atrium droit du coeur';1;0
+e;1778129;'atrium gauche du coeur';1;0
+e;2331863;'coeur en sabot';1;0
+e;2536176;'avoir le coeur au métier';1;0
+e;2604847;'avoir un coeur d'artichaut';1;0
+e;3229920;'L'oraison est une prière du coeur dans laquelle les actes d'amour tiennent lieu de mots';777;0
+e;3370072;'tagliatelles de mon coeur, saumon fumé et rocamadour';1;0
+e;3365669;'gâteau coeur au nutella, version fourrées blondes';1;0
+e;3362440;'fondant au chocolat au coeur d'orange';1;0
+e;3359728;'brownies au coeur de framboises';1;0
+e;3360614;'coeur d'agneau en brochette';1;0
+e;3759280;'coeur de chou';1;0
+e;3759267;'les feuilles de coeur de laitue';1;0
+e;3759236;'coeur de laitue pommée jaune pâle';1;0
+e;3754567;'coeur de salade romaine lavé';1;0
+e;5521177;'contraction des chambres du coeur';1;0
+e;582404;'nez-en-coeur';1;0
+e;1754476;'tomate coeur-de-boeuf';1;0
+e;1777786;'apex du coeur';1;0
+e;1859378;'maladie des vers du coeur';777;0
+e;2538600;'à coeur jeun';1;0
+e;2482032;'coeur à coeur';1;0
+e;2605013;'faire contre mauvaise fortune, bon coeur';1;0
+e;2605986;'avoir à coeur de';1;0
+e;3318809;'coeur de filet de loup de mer, bar, au four';1;0
+e;3371813;'un coeur rouge en génoise';1;0
+e;3364785;'muffin chocolat noir au coeur fondant de chocolat blanc';1;0
+e;3362939;'gâteau chocolat coeur coulant';1;0
+e;3360613;'coeur d'agneau aux herbes';1;0
+e;3361703;'dôme croquant de chocolat blanc à la mousse de fruits rouges et coeur de fraise';1;0
+e;3759225;'coeur de céleri haché';1;0
+e;4047228;'coeur au ventre';1;0
+e;6540639;'ensemble des petites veines du coeur';1;0
+e;586503;'ligne de coeur';777;0
+e;594061;'bruit du coeur';1;0
+e;737440;'processeur double coeur';777;0
+e;1805476;'être de tout coeur';1;0
+e;1820506;'oreillette droite du coeur';1;0
+e;2601058;'s'en donner à coeur joie';1;0
+e;2605289;'à coeur vaillant rien d'impossible';1;0
+e;3318752;'crousti galettes de pommes de terre coeur de fromage fondant';1;0
+e;3360617;'coeur de glaçe flambé';1;0
+e;3759279;'petit coeur de chou blanc en fines lamelles';1;0
+e;3759224;'pommes coeur enlevé pelées et coupées en morceaux';1;0
+e;4311199;'intervention chirurgicale à coeur ouvert';1;0
+e;573902;'donner son coeur';1;50
+e;579606;'électrons de coeur';777;0
+e;586721;'Sans coeur';777;0
+e;586871;'À coeur vaillant rien d'impossible';777;0
+e;2324191;'coeur-de-boeuf';1;0
+e;2506779;'à coeur perdu';1;0
+e;2537223;'penta-coeur';1;0
+e;2600174;'la vengeance est douce au coeur de l'Indien';1;0
+e;3260464;'hypoplasie du coeur gauche';1;0
+e;3355601;'Arrêt du coeur';777;0
+e;3364828;'muffins aux pépites de chocolat et au coeur caramel au beurre salé';1;0
+e;3364535;'mini fondants coeur chocolat blanc';1;0
+e;3360615;'coeur d'amandine surprise';1;0
+e;3728163;'ficoïde à feuilles en coeur';1;0
+e;3759290;'tomates bien charnues type coeur de boeuf pelées et hachées';1;0
+e;4311188;'anticyclone à coeur froid';777;0
+e;589247;'coeur de laitue';1;0
+e;1249346;'coeur insondable';1;0
+e;1777762;'anneau fibreux gauche du coeur';1;0
+e;1778148;'base du coeur';1;0
+e;1778536;'cordages tendineux du coeur';1;0
+e;1885383;'sommet du coeur';1;0
+e;1977602;'coeur qui soupire n'a pas ce qu'il désire';1;0
+e;2565096;'parler à coeur ouvert';1;0
+e;2553545;'tant que le coeur me battra';1;0
+e;3172062;'Les Restos du coeur';777;0
+e;3364840;'muffins coeur de nutella';1;0
+e;3362439;'fondant au chocolat au coeur coulant';1;0
+e;3360612;'coeur d'agneau à la chinoise';1;0
+e;3756931;'coeur de salade de votre choix';1;0
+e;6533809;'petites veines du coeur';1;0
+e;722360;'Du fond du coeur';777;0
+e;1698227;'de tout son coeur';1;0
+e;1778957;'incisure de l'apex du coeur';1;0
+e;1779932;'orifice aortique du coeur';1;0
+e;1779575;'muscles papillaires du coeur';1;0
+e;1820466;'nodule fibreux du coeur';1;0
+e;1822475;'sillon coronaire du coeur';1;0
+e;2489711;'de coeur';1;0
+e;2605311;'coeur d'or';1;0
+e;3250049;'atrium du coeur';1;0
+e;3250051;'septum du coeur';1;0
+e;3318766;'moelleux à la farine de châtaigne coeur coulant chocolat';1;0
+e;3321054;'coeur de rumsteck';1;0
+e;3365196;'bavarois praliné pistache, coeur de mousse au chocolat';1;0
+e;3365162;'amour de fruits rouges, croustillant chocolat blanc et coeur banane';1;0
+e;3360374;'chausson aux pommes en forme de coeur';1;0
+e;3759248;'cou, coeur et gésier';1;0
+e;3759245;'beau coeur de laitue';1;0
+e;4321793;'La main sur le coeur';777;0
+e;734286;'coeur de compétence';777;0
+e;567634;'la presse du coeur';777;50
+e;587094;'Au coeur des ténèbres';777;0
+e;1496028;'anomalie congénitale du coeur';1;0
+e;1706846;'De battre mon coeur s'est arrêté';1;0
+e;1779489;'muscle pectiné du coeur';1;0
+e;2345470;'déviation du coeur';1;0
+e;2361030;'entre le coeur et la raison';1;0
+e;2537473;'avoir une pierre à la place du coeur';1;0
+e;2529813;'décharger son coeur';1;0
+e;2500748;'mauvaise tête et bon coeur';1;0
+e;2556524;'coeur-de-Jeannette';1;0
+e;3250050;'coeur foetal';1;0
+e;3364830;'muffins bananes au coeur biolette';1;0
+e;3364157;'les fondants à coeur';1;0
+e;3359866;'cake au chocolat coeur de poires';1;0
+e;3360610;'coeur aux fraises pour mon valentin';1;0
+e;3360611;'coeur chocolat framboise';1;0
+e;3759237;'petite courge butternut épluchée coeur évidé et chair coupée en petits dés';1;0
+e;3830517;'coeur doré';1;0
+e;1731943;'tomate coeur de boeuf';1;0
+e;1778814;'foramen ovale du coeur';1;0
+e;2353732;'si le coeur vous en dit';1;0
+e;2528828;'mono-coeur';1;0
+e;3366790;'petits fondants au chocolat coeur praliné';1;0
+e;3363041;'gâteau duo de chocolat et son coeur de petit beurre';1;0
+e;3753645;'pommes Granny lavées coupées en morceaux sans le coeur';1;0
+e;3763646;'coeur de Neufchâtel';1;0
+e;579607;'électron de coeur';777;0
+e;1777761;'anneau fibreux droit du coeur';1;0
+e;1778171;'bord droit du coeur';1;0
+e;2362793;'faire le joli coeur';1;0
+e;2569417;'prendre son coeur à deux mains';1;0
+e;2498504;'sérapias en coeur';1;0
+e;2603511;'bouche de miel, coeur de fiel';1;0
+e;3306039;'coeur tubulaire dorsal';1;0
+e;3318453;'petits flans pomme palet breton coeur nutella';1;0
+e;3364810;'muffins au coeur caramel fondant';1;0
+e;3746250;'mi-cuits au chocolat coeur de framboise';1;0
+e;5315690;'coeur de cible';1;0
+e;2933951;'La Main sur le coeur';777;0
+e;2080643;'rais-de-coeur';2;0
+e;1804139;'En coeur';777;0
+e;2906278;'anomalie du coeur';1;0
+e;2771293;'coeur-poumons';1;0
+e;1815451;'anévrisme du coeur';1;0
+e;394015;'avoir bon coeur';1;50
+e;359548;'intelligence du coeur';1;50
+e;356765;'greffe de coeur';1;50
+e;343743;'chirurgie du coeur';1;50
+e;365684;'mystères du coeur humain';1;50
+e;360645;'la bouche en coeur';1;50
+e;351069;'en plein coeur';1;50
+e;376365;'restaurant du coeur';1;50
+e;372803;'presse du coeur';1;50
+e;363094;'manille de coeur';1;50
+e;360211;'joli coeur';1;56
+e;334992;'amant de coeur';1;50
+e;363403;'mariage de coeur';1;50
+e;360867;'langage du coeur';1;50
+e;358787;'inclination de coeur';1;50
+e;347193;'deux de coeur';1;50
+e;346306;'dans le coeur du problème';1;50
+e;337299;'au coeur du débat';1;50
+e;332553;'as de coeur';1;52
+e;367835;'os de coeur de cerf';1;50
+e;362094;'logique du coeur';1;50
+e;346304;'dans le coeur de';1;50
+e;337885;'avec les yeux du coeur';1;50
+e;337298;'au coeur de l'actualité';1;52
+e;334088;'affaire de coeur';1;50
+e;331265;'cavité inférieure du coeur';1;50
+e;386457;'ventricule droit du coeur';1;50
+e;379040;'secret de coeur';1;50
+e;376376;'resto du coeur';1;50
+e;361598;'ligne du coeur';1;50
+e;361070;'le coeur battant';1;50
+e;360121;'jeune de coeur';1;50
+e;344040;'coeur pur';1;52
+e;344036;'coeur du problème';1;50
+e;344035;'coeur des villes';1;50
+e;344033;'coeur de glace';1;50
+e;359613;'intermittences du coeur';1;50
+e;351070;'en plein coeur de';1;50
+e;345951;'d'abondance de coeur';1;50
+e;337372;'au fond du coeur';1;50
+e;388163;'à contre-coeur';1;52
+e;379371;'sept de coeur';1;50
+e;367481;'opération du coeur';1;50
+e;360659;'la main sur le coeur';1;50
+e;345980;'d'un coeur léger';1;50
+e;344034;'coeur de lion';1;50
+e;337121;'atout coeur';1;50
+e;335057;'ami de coeur';1;50
+e;331310;'tumeur du coeur';1;50
+e;372930;'prince de coeur';1;50
+e;371449;'pointe du coeur';1;50
+e;348588;'dureté de coeur';1;50
+e;346305;'dans le coeur de la question';1;50
+e;345213;'crise de coeur';1;50
+e;344039;'coeur léger';1;50
+e;344038;'coeur fidèle';1;50
+e;368148;'paix du coeur';1;50
+e;367540;'opéré du coeur';1;50
+e;362894;'maladie de coeur';1;50
+e;357877;'homme de coeur';1;50
+e;346718;'de grand coeur';1;50
+e;344037;'coeur du système';1;50
+e;344032;'coeur battant';1;56
+e;98208;'sans-coeur';1;54
+e;96209;'coeur-de-pigeon';1;50
+e;86186;'crève-coeur';1;52
+e;84191;'casse-coeur';1;50
+e;41671;'haut-le-coeur';1;62
+e;23570;'brise-coeur';1;50
+e;23312;'accroche-coeur';1;50
+e;21226;'avant-coeur';1;50
+e;10083;'coeur-poumon';1;50
+e;4866;'cache-coeur';1;52
+e;146067;'sacré-coeur';1;50
+e;133525;'coeur-de-Marie';1;50
+e;115023;'rai-de-coeur';1;50
+e;111527;'pointe-de-coeur';1;50
+e;323608;'avoir le coeur gros';1;50
+e;323609;'avoir le coeur lourd';1;50
+e;323610;'avoir le coeur percé';1;50
+e;323611;'avoir quelque chose sur le coeur';1;50
+e;329756;'arythmie du coeur';1;50
+e;234847;'microprocesseur multi-coeur';1;50
+e;267267;'avoir un haut-le-coeur';1;54
+e;224280;'avoir mal au coeur';1;40
+e;229068;'en avoir gros sur le coeur';1;4
+e;236475;'le coeur y est';1;50
+e;236859;'le coeur lourd';1;50
+e;240831;'fait à coeur';1;2
+e;259299;'faire chaud au coeur';1;50
+e;260640;'mon petit coeur';1;4
+e;260681;'mon coeur';1;50
+e;262525;'ne pas avoir de coeur';1;52
+e;262526;'être sans coeur';1;50
+e;263554;'au coeur brisé';1;50
+e;101554;'faire mal au coeur';1;50
+e;213034;'histoire de coeur';1;72
+e;222128;'coeur artificiel';1;2
+e;227453;'coeur brisé';1;10
+e;227833;'briser le coeur';1;72
+e;229015;'avoir le coeur au bord des';1;50
+e;229016;'avoir le coeur brisé';1;56
+e;229017;'avoir le coeur dans la gorge';1;50
+e;229019;'avoir le coeur serré';1;50
+e;229180;'réchauffer le coeur';1;50
+e;229202;'tenir au coeur';1;50
+e;231624;'mettre du coeur à l'ouvrage';1;50
+e;231625;'avoir du coeur';1;4
+e;231627;'avoir un coeur d'or';1;50
+e;231892;'apprendre par coeur';1;16
+e;232556;'donner mal au coeur';1;54
+e;233229;'souffle au coeur';1;22
+e;237068;'coeur de boeuf';1;52
+e;245185;'mal au coeur';1;38
+e;251424;'bois de coeur';1;50
+e;253073;'pincement au coeur';1;50
+e;254286;'savoir par coeur';1;2
+e;255869;'baume au coeur';1;54
+e;255870;'redonner du baume au coeur';1;50
+e;255871;'mettre du baume au coeur';1;50
+e;256601;'avoir le coeur à gauche et le portefeuille à droite';1;50
+e;257109;'avoir le coeur au bord des lèvres';1;4
+e;257360;'avoir le coeur bien accroché';1;50
+e;257624;'courrier du coeur';1;50
+e;259048;'soulager son coeur';1;2
+e;259995;'avoir un souffle au coeur';1;6
+e;260742;'battement de coeur';1;54
+e;260905;'coeur en miette';1;50
+e;261585;'peine de coeur';1;78
+e;261766;'avoir le coeur qui bat la chamade';1;50
+e;262523;'avoir un coeur de pierre';1;50
+e;262524;'avoir le coeur sec';1;50
+e;24555;'Un coeur simple';1;50
+e;31466;'de bon coeur';1;52
+e;63925;'coeur à prendre';1;80
+e;74288;'au coeur de';1;50
+e;76980;'le coeur léger';1;50
+e;82973;'Le coeur est un chasseur solitaire';1;50
+e;87333;'Le Pays du désir du coeur';1;50
+e;90737;'de gaieté de coeur';1;50
+e;95016;'Un coeur virginal';1;50
+e;107859;'ouvrir son coeur';1;50
+e;114469;'coeur et vaisseau';1;50
+e;117491;'Battement de coeur';1;50
+e;118348;'coeur de pigeon';1;50
+e;127370;'de tout coeur';1;50
+e;159145;'au coeur de l'atome';1;50
+e;161859;'opération à coeur ouvert';1;66
+e;162062;'valet de coeur';1;108
+e;162434;'coeur de salade';1;52
+e;162737;'roi de coeur';1;52
+e;164435;'coeur malade';1;54
+e;166486;'cri du coeur';1;56
+e;214274;'coeur de palmier';1;52
+e;215280;'petit coeur';1;70
+e;277504;'Le coeur des hommes';777;50
+e;308425;'les restos du coeur';777;50
+e;17168;'à coeur ouvert';1;56
+e;33522;'soulèvement de coeur';1;50
+e;35569;'soulever le coeur';1;50
+e;38806;'faire contre mauvaise fortune bon coeur';1;66
+e;44839;'coeur est un chasseur solitaire';1;50
+e;53452;'prendre à coeur';1;52
+e;67088;'arrêt du coeur';1;52
+e;67908;'fendre le coeur';1;52
+e;70745;'mal de coeur';1;52
+e;78501;'serrement de coeur';1;50
+e;81005;'sécheresse de coeur';1;50
+e;91200;'coeur libre';1;50
+e;95693;'soulager le coeur';1;50
+e;99441;'coeur humain';1;50
+e;124314;'faire la bouche en coeur';1;50
+e;127239;'porter dans son coeur';1;54
+e;151513;'dextroposition du coeur';1;50
+e;151594;'dame de coeur';1;58
+e;154544;'coeur d'acier';1;50
+e;154941;'avoir le coeur sur la main';1;66
+e;154946;'restau du coeur';1;50
+e;155325;'coeur de pierre';1;74
+e;155387;'coeur ardent';1;50
+e;156143;'toucher le coeur';1;50
+e;158623;'restaus du coeur';1;50
+e;189490;'Richard Ier coeur de lion';1;50
+e;264670;'dans un battement de coeur';1;50
+e;265228;'coeur à quatre compartiments';1;50
+e;268953;'bon coeur';1;8
+e;274343;'Courrier du coeur';777;50
+e;292281;'anone coeur de boeuf';777;50
+e;292901;'Aulne à feuilles en coeur';777;50
+e;292904;'Aune à feuilles en coeur';777;50
+e;302274;'reine de coeur';777;50
+e;302748;'coeur de Jésus';777;50
+e;305066;'coeur de forêt';777;50
+e;26877;'Histoire du coeur';1;50
+e;28767;'percer le coeur';1;50
+e;136789;'coeur à gauche';1;50
+e;191875;'coeur et vaisseaux';1;6
+e;17257;'grand coeur';1;50
+e;2140;'verser du baume sur le coeur';1;50
+e;3608;'Un coeur en hiver';1;50
+e;2215;'coup de coeur';1;78
+e;4050;'avoir un coup de coeur';1;68
+e;4901;'aller au coeur';1;50
+e;5612;'brisement de coeur';1;50
+e;10577;'battements du coeur';1;70
+e;228449;'restos du coeur';1;62
+e;43781;'à coeur joie';1;52
+e;165713;'coeur d'artichaut';1;76
+e;163938;'par coeur';1;78
+r;298134869;96211;6286351;11;25
+r;298239664;96211;6287582;11;25
+r;298383638;96211;6288853;11;25
+r;298435818;96211;6290203;11;25
+r;298488555;96211;6292215;11;25
+r;298595636;96211;6293631;11;25
+r;298882964;96211;6295972;11;25
+r;299283522;96211;6302110;11;25
+r;299299388;96211;6302208;11;25
+r;299340163;96211;6303327;11;25
+r;299489570;96211;6305743;11;25
+r;299547666;96211;6307269;11;25
+r;299566162;96211;6308100;11;25
+r;299583601;96211;6310751;11;25
+r;299584540;96211;6310791;11;25
+r;299588089;96211;6311563;11;25
+r;299588431;96211;6311405;11;25
+r;299595409;96211;6312465;11;25
+r;299610887;96211;6313326;11;25
+r;299745879;96211;6316812;11;25
+r;299749869;96211;6316795;11;25
+r;299794482;96211;6317930;11;25
+r;299877749;96211;6319309;11;25
+r;299901156;96211;6319688;11;25
+r;299933281;96211;6320290;11;25
+r;299966924;96211;6320789;11;25
+r;300107991;96211;6321143;11;25
+r;300133755;96211;6323017;11;25
+r;300200144;96211;6326078;11;25
+r;300228837;96211;6328947;11;25
+r;301264170;96211;6336144;11;25
+r;301559954;96211;6346147;11;25
+r;301685622;96211;6347508;11;25
+r;301754237;96211;6354040;11;25
+r;301770056;96211;6354810;11;25
+r;301801319;96211;6355418;11;25
+r;302043172;96211;6358534;11;25
+r;302067528;96211;6358585;11;25
+r;302098383;96211;6360711;11;25
+r;302137220;96211;6362110;11;25
+r;302140026;96211;6362873;11;25
+r;302182204;96211;6364814;11;25
+r;302189576;96211;6365310;11;25
+r;302189627;96211;6366093;11;25
+r;302191614;96211;6366070;11;25
+r;303131819;96211;6373404;11;25
+r;303135247;96211;6373520;11;25
+r;303624050;96211;6376015;11;25
+r;303627786;96211;6376690;11;25
+r;303628125;96211;6375528;11;25
+r;303838175;96211;6380665;11;25
+r;303932000;96211;6381886;11;25
+r;303983521;96211;6383684;11;25
+r;304573190;96211;6389399;11;25
+r;304575596;96211;6389880;11;25
+r;304604158;96211;6391171;11;25
+r;305022551;96211;6396680;11;25
+r;305127792;96211;6398516;11;25
+r;305460682;96211;6409016;11;25
+r;305463585;96211;6409706;11;25
+r;305480392;96211;6411875;11;25
+r;305631584;96211;6414714;11;25
+r;305697041;96211;6419047;11;25
+r;305711204;96211;6421456;11;25
+r;305712025;96211;6421509;11;25
+r;318879077;96211;6328182;11;25
+r;319053945;96211;6371992;11;25
+r;319054441;96211;6361627;11;25
+r;319066642;96211;6387886;11;25
+r;319067705;96211;6354028;11;25
+r;319069131;96211;6391753;11;25
+r;319071627;96211;6289960;11;25
+r;319072259;96211;6386286;11;25
+r;319078581;96211;6397007;11;25
+r;341172506;96211;6378484;11;25
+r;340943251;96211;6294166;11;25
+r;340998054;96211;6309705;11;25
+r;341000468;96211;6308491;11;25
+r;341003025;96211;6312198;11;25
+r;341013889;96211;6322116;11;25
+r;341193553;96211;6391987;11;25
+r;341208848;96211;6399309;11;25
+r;341210908;96211;6401795;11;25
+r;341229358;96211;6404461;11;25
+r;341244126;96211;6413462;11;25
+r;341252791;96211;6414750;11;25
+r;349133153;96211;6377897;11;25
+r;349220896;96211;6370037;11;25
+r;401057619;96211;6411088;11;25
+r;370527630;96211;14581272;11;25
+r;371852243;96211;14637916;11;25
+r;400741869;96211;6386414;11;25
+r;400747336;96211;6387257;11;25
+r;399499246;96211;6330128;11;25
+r;395456912;96211;15439527;11;25
+r;396415875;96211;6285905;11;25
+r;396491850;96211;6287264;11;25
+r;399948081;96211;6344479;11;25
+r;400601290;96211;6379158;11;25
+r;401938179;96211;6417712;11;25
+r;122750541;96211;6422946;11;26
+r;298088370;96211;6286274;11;26
+r;299651640;96211;6314907;11;26
+r;299881424;96211;6319400;11;26
+r;299908251;96211;6319895;11;26
+r;300191390;96211;6325753;11;26
+r;300251757;96211;6330275;11;26
+r;300963909;96211;6331285;11;26
+r;300968815;96211;6331795;11;26
+r;301237062;96211;6335756;11;26
+r;301457045;96211;6339778;11;26
+r;301470038;96211;6340376;11;26
+r;301485171;96211;6341533;11;26
+r;301542817;96211;6344126;11;26
+r;301723619;96211;6348884;11;26
+r;301757664;96211;6354329;11;26
+r;302130355;96211;6362082;11;26
+r;302182756;96211;6363832;11;26
+r;302186846;96211;6365275;11;26
+r;304549282;96211;6388439;11;26
+r;305133329;96211;6399692;11;26
+r;305705141;96211;6420600;11;26
+r;368676495;96211;14531682;11;26
+r;370160833;96211;14566626;11;26
+r;370599661;96211;14585170;11;26
+r;374048049;96211;14716547;11;26
+r;374432816;96211;14728112;11;26
+r;393620869;96211;15034321;11;26
+r;416134044;96211;15953448;11;26
+r;122735568;96211;6424870;11;27
+r;217965048;96211;9696714;11;27
+r;301021604;96211;6332249;11;27
+r;301599822;96211;6346284;11;27
+r;122751796;96211;6422782;11;28
+r;56406076;96211;2474940;11;29
+r;121496805;96211;6443476;11;29
+r;122686532;96211;6431195;11;29
+r;122702353;96211;6429146;11;29
+r;122740317;96211;6424246;11;29
+r;52954902;96211;2383227;11;30
+r;121555269;96211;6436960;11;30
+r;121556999;96211;6436766;11;30
+r;122680214;96211;6431951;11;30
+r;342363726;96211;13517885;11;30
+r;342363740;96211;13517884;11;30
+r;423582502;96211;16152242;11;30
+r;419750750;96211;16032476;11;30
+r;419755194;96211;15446415;11;30
+r;419763818;96211;16042946;11;30
+r;419764587;96211;16032492;11;30
+r;419770350;96211;16032496;11;30
+r;419770368;96211;15443959;11;30
+r;419770382;96211;15770823;11;30
+r;419781600;96211;15326169;11;30
+r;419791174;96211;15625933;11;30
+r;419791180;96211;15458416;11;30
+r;419791190;96211;15625932;11;30
+r;419797716;96211;15312576;11;30
+r;419799534;96211;15429324;11;30
+r;419805025;96211;15646625;11;30
+r;419805029;96211;15447871;11;30
+r;419805037;96211;15646624;11;30
+r;419807836;96211;16031519;11;30
+r;419838097;96211;15427922;11;30
+r;419839083;96211;16032536;11;30
+r;419839902;96211;16066223;11;30
+r;419841704;96211;15646626;11;30
+r;419841716;96211;15646630;11;30
+r;434379658;96211;16170410;11;30
+r;434379663;96211;16322397;11;30
+r;434379670;96211;16336349;11;30
+r;434379675;96211;16094611;11;30
+r;434379679;96211;16094612;11;30
+r;113763131;96211;5828578;11;31
+r;121493869;96211;6443810;11;31
+r;121539111;96211;6438757;11;31
+r;122713094;96211;6427764;11;31
+r;122732310;96211;6425280;11;31
+r;122741605;96211;6424086;11;31
+r;122758645;96211;6421884;11;31
+r;222104700;96211;9980160;11;31
+r;263706574;96211;10577493;11;31
+r;319084873;96211;6294504;11;31
+r;342351679;96211;13517886;11;31
+r;342351802;96211;13517887;11;31
+r;419705164;96211;15443792;11;31
+r;419715849;96211;15384694;11;31
+r;419716207;96211;15770402;11;31
+r;419716216;96211;15770403;11;31
+r;419716227;96211;15259275;11;31
+r;419716232;96211;15308678;11;31
+r;419716242;96211;15625320;11;31
+r;419716251;96211;15369406;11;31
+r;419716256;96211;15236299;11;31
+r;419716261;96211;15384693;11;31
+r;419716266;96211;15691511;11;31
+r;419716271;96211;15462836;11;31
+r;419716276;96211;15200691;11;31
+r;419716281;96211;15197229;11;31
+r;419716286;96211;15646622;11;31
+r;419716291;96211;15448507;11;31
+r;419716296;96211;15262871;11;31
+r;419716305;96211;15195377;11;31
+r;419716310;96211;15531777;11;31
+r;419716315;96211;15211627;11;31
+r;419716322;96211;16032459;11;31
+r;419716327;96211;15646623;11;31
+r;419716332;96211;15377702;11;31
+r;419716337;96211;16042082;11;31
+r;419716341;96211;16033254;11;31
+r;419718477;96211;15528121;11;31
+r;419735779;96211;15357465;11;31
+r;419736925;96211;15759914;11;31
+r;434372540;96211;16170406;11;31
+r;434373496;96211;16237526;11;31
+r;434373506;96211;16237528;11;31
+r;434375202;96211;16366826;11;31
+r;434377599;96211;16317446;11;31
+r;110206259;96211;5564393;11;32
+r;263672325;96211;10577575;11;32
+r;416800195;96211;15963868;11;32
+r;419618588;96211;15477217;11;32
+r;419618590;96211;15646611;11;32
+r;419618598;96211;15396555;11;32
+r;419618606;96211;15561131;11;32
+r;419618614;96211;15561129;11;32
+r;419618622;96211;15396553;11;32
+r;419618630;96211;15374856;11;32
+r;419618650;96211;15646613;11;32
+r;419618662;96211;15396551;11;32
+r;419619429;96211;15435935;11;32
+r;419621276;96211;16032369;11;32
+r;419627972;96211;15452420;11;32
+r;419630242;96211;15646617;11;32
+r;419630799;96211;15397482;11;32
+r;419630807;96211;15446386;11;32
+r;419633096;96211;16032402;11;32
+r;419633405;96211;15397483;11;32
+r;419633411;96211;16040478;11;32
+r;419633417;96211;15458632;11;32
+r;419633423;96211;15249316;11;32
+r;419633429;96211;15484771;11;32
+r;419633435;96211;15438577;11;32
+r;419633441;96211;16032408;11;32
+r;419633447;96211;16032407;11;32
+r;419636917;96211;16040530;11;32
+r;419636923;96211;16040531;11;32
+r;419636929;96211;15427979;11;32
+r;419636981;96211;15369432;11;32
+r;419636989;96211;15431357;11;32
+r;419637462;96211;15435936;11;32
+r;419639328;96211;15430154;11;32
+r;419639342;96211;15582709;11;32
+r;419639354;96211;15646616;11;32
+r;419639507;96211;15378806;11;32
+r;419639515;96211;15369424;11;32
+r;419650713;96211;15461006;11;32
+r;419654754;96211;13757115;11;32
+r;419664214;96211;16032449;11;32
+r;419665008;96211;15646621;11;32
+r;419665014;96211;15646618;11;32
+r;419665026;96211;15757438;11;32
+r;419665036;96211;15646620;11;32
+r;419665135;96211;15411302;11;32
+r;419666205;96211;15355140;11;32
+r;419692189;96211;15761769;11;32
+r;419701945;96211;15254193;11;32
+r;121554260;96211;6437077;11;33
+r;419604151;96211;15351027;11;33
+r;419604507;96211;15370199;11;33
+r;419613693;96211;15521253;11;33
+r;419615518;96211;15395206;11;33
+r;423874450;96211;16167475;11;33
+r;434358043;96211;16183768;11;33
+r;434362585;96211;16164160;11;33
+r;434363184;96211;16310555;11;33
+r;434365651;96211;16172347;11;33
+r;115859925;96211;5911999;11;34
+r;122673335;96211;6432717;11;34
+r;122745009;96211;6423653;11;34
+r;221919247;96211;9981098;11;34
+r;273443373;96211;10902443;11;34
+r;434348075;96211;16310573;11;34
+r;419555554;96211;15769519;11;34
+r;419572053;96211;15369422;11;34
+r;419579413;96211;15646606;11;34
+r;419584248;96211;15522179;11;34
+r;419587604;96211;15429295;11;34
+r;419596383;96211;15353933;11;34
+r;1681711;96211;224090;11;35
+r;112188735;96211;5688689;11;35
+r;122689371;96211;6430841;11;35
+r;122750236;96211;6422986;11;35
+r;122753873;96211;6422507;11;35
+r;269386918;96211;10747781;11;35
+r;293352470;96211;11407989;11;35
+r;419497876;96211;15693528;11;35
+r;419508822;96211;15460236;11;35
+r;419508857;96211;15294625;11;35
+r;419509104;96211;15761119;11;35
+r;427284254;96211;16289198;11;35
+r;427284288;96211;16289199;11;35
+r;429660555;96211;16322937;11;35
+r;430356363;96211;16324991;11;35
+r;430356455;96211;16324990;11;35
+r;52230790;96211;2377701;11;36
+r;121522090;96211;6440657;11;36
+r;121529815;96211;6439799;11;36
+r;121534221;96211;6439310;11;36
+r;121542887;96211;6438351;11;36
+r;121564632;96211;6435911;11;36
+r;121575224;96211;6434722;11;36
+r;122758924;96211;6421856;11;36
+r;268835363;96211;10745225;11;36
+r;271593326;96211;10841536;11;36
+r;275206100;96211;10935596;11;36
+r;54270595;96211;2412343;11;37
+r;60524108;96211;2482510;11;37
+r;117526549;96211;5990694;11;37
+r;227597310;96211;10044605;11;37
+r;227598564;96211;10044152;11;37
+r;252659488;96211;10324501;11;37
+r;319146478;96211;12285566;11;37
+r;53259852;96211;2398610;11;38
+r;53264610;96211;2398984;11;38
+r;54267648;96211;2412305;11;38
+r;55046950;96211;2433432;11;38
+r;109648303;96211;5536524;11;38
+r;109651730;96211;5536526;11;38
+r;121907841;96211;6533808;11;38
+r;306771743;96211;11840862;11;38
+r;109878995;96211;5557478;11;39
+r;109879845;96211;5557208;11;39
+r;122693097;96211;6430350;11;39
+r;298328298;96211;11645917;11;39
+r;121447419;96211;6526545;11;40
+r;121483913;96211;6444920;11;40
+r;262206519;96211;10516673;11;40
+r;262206541;96211;10516667;11;40
+r;419618638;96211;15374858;11;40
+r;53306279;96211;2401205;11;41
+r;55195829;96211;2437971;11;41
+r;55214935;96211;2438938;11;41
+r;55656582;96211;2459892;11;41
+r;55721222;96211;2463339;11;41
+r;55847157;96211;2469726;11;41
+r;115096074;96211;5900409;11;41
+r;122754500;96211;6422425;11;41
+r;262041543;96211;10513141;11;41
+r;52485261;96211;2480998;11;42
+r;54300705;96211;2413656;11;42
+r;55448469;96211;2450034;11;42
+r;121055966;96211;6449073;11;42
+r;121459900;96211;6447588;11;42
+r;121470982;96211;6446353;11;42
+r;121481231;96211;6445226;11;42
+r;122701089;96211;6429311;11;42
+r;141008189;96211;8348506;11;42
+r;261003426;96211;10498638;11;42
+r;288439705;96211;11254169;11;42
+r;54501522;96211;2422470;11;43
+r;55536609;96211;2453309;11;43
+r;55705677;96211;2462424;11;43
+r;234222172;96211;10105969;11;43
+r;238920197;96211;10178686;11;43
+r;238926191;96211;10176634;11;43
+r;52238227;96211;2378809;11;44
+r;53887211;96211;2409001;11;44
+r;236664736;96211;10138805;11;44
+r;286747721;96211;11178959;11;44
+r;52225127;96211;2376832;11;45
+r;54984706;96211;2431500;11;45
+r;55432120;96211;2449053;11;45
+r;121439413;96211;6528410;11;45
+r;121452372;96211;6448412;11;45
+r;338484779;96211;13312661;11;45
+r;52244604;96211;2379909;11;46
+r;53492090;96211;2402656;11;46
+r;55304667;96211;2443316;11;46
+r;55443817;96211;2449765;11;46
+r;327918831;96211;12779347;11;46
+r;55582919;96211;2455721;11;47
+r;55618925;96211;2457714;11;47
+r;55941340;96211;2474673;11;47
+r;109948213;96211;5558962;11;47
+r;50464424;96211;2366332;11;48
+r;49497937;96211;2357078;11;49
+r;50239895;96211;2363564;11;49
+r;50259291;96211;2364504;11;49
+r;55828916;96211;2468763;11;49
+r;121905055;96211;6534136;11;49
+r;50231004;96211;2363310;11;50
+r;50460777;96211;2365740;11;50
+r;50466246;96211;2366623;11;50
+r;50466378;96211;2366633;11;50
+r;50477499;96211;2367580;11;50
+r;52522739;96211;2501579;11;50
+r;397027854;96211;15476277;11;50
+r;188787516;96211;8820795;11;50
+r;192083921;96211;8896467;11;50
+r;197434815;96211;9050849;11;50
+r;213830800;96211;9457001;11;50
+r;213866630;96211;9464266;11;50
+r;213869047;96211;9464263;11;50
+r;217371763;96211;9696712;11;50
+r;217597491;96211;9726537;11;50
+r;217597612;96211;9726538;11;50
+r;271880773;96211;10846394;11;50
+r;327320400;96211;12731742;11;50
+r;348973412;96211;13782798;11;50
+r;348973416;96211;13775107;11;50
+r;348973428;96211;13780552;11;50
+r;348973434;96211;13800053;11;50
+r;348973440;96211;13797229;11;50
+r;348973448;96211;13749498;11;50
+r;348973454;96211;13762868;11;50
+r;348973466;96211;13743731;11;50
+r;348973476;96211;13756673;11;50
+r;348973484;96211;13773203;11;50
+r;348985855;96211;13751505;11;50
+r;348985899;96211;13786216;11;50
+r;348986379;96211;13782749;11;50
+r;348987658;96211;13801164;11;50
+r;354270768;96211;14026334;11;50
+r;373036657;96211;14669688;11;50
+r;375467968;96211;14772853;11;50
+r;412521902;96211;15753812;11;50
+r;393803068;96211;14475900;11;50
+r;393806847;96211;14488668;11;50
+r;393806857;96211;14026356;11;50
+r;393807825;96211;14026365;11;50
+r;402274393;96211;15370200;11;50
+r;425303029;96211;16166168;11;50
+r;431654240;96211;16310606;11;50
+r;19168784;96211;662190;11;51
+r;24630068;96211;1490174;11;51
+r;29227133;96211;1780775;11;51
+r;52443537;96211;2569754;11;51
+r;52473817;96211;2505657;11;51
+r;52519919;96211;2507212;11;51
+r;76960403;96211;3182159;11;51
+r;77233788;96211;3185254;11;51
+r;86138712;96211;3371225;11;51
+r;86193677;96211;3364805;11;51
+r;86234259;96211;3360616;11;51
+r;93649043;96211;3759269;11;51
+r;107337653;96211;5386744;11;51
+r;18100225;96211;579658;11;52
+r;18100379;96211;579659;11;52
+r;26608254;96211;1651483;11;52
+r;29207233;96211;1778126;11;52
+r;29207783;96211;1778129;11;52
+r;34035021;96211;2331863;11;52
+r;52459442;96211;2536176;11;52
+r;55476431;96211;2604847;11;52
+r;77971657;96211;3229920;11;52
+r;86148217;96211;3370072;11;52
+r;86185484;96211;3365669;11;52
+r;86211950;96211;3362440;11;52
+r;86222616;96211;3359728;11;52
+r;86233586;96211;3360614;11;52
+r;93648941;96211;3759280;11;52
+r;93649063;96211;3759267;11;52
+r;93649333;96211;3759236;11;52
+r;93693651;96211;3754567;11;52
+r;109033051;96211;5521177;11;52
+r;18237356;96211;582404;11;53
+r;28863895;96211;1754476;11;53
+r;29194724;96211;1777786;11;53
+r;30145541;96211;1859378;11;53
+r;52458195;96211;2538600;11;53
+r;52484778;96211;2482032;11;53
+r;55478867;96211;2605013;11;53
+r;55496801;96211;2605986;11;53
+r;83652005;96211;3318809;11;53
+r;86133873;96211;3371813;11;53
+r;86193834;96211;3364785;11;53
+r;86207736;96211;3362939;11;53
+r;86236554;96211;3360613;11;53
+r;86253679;96211;3361703;11;53
+r;87011924;96211;3394155;11;53
+r;93649438;96211;3759225;11;53
+r;95164428;96211;4047228;11;53
+r;121829828;96211;6540639;11;53
+r;18407906;96211;586503;11;54
+r;18631206;96211;594061;11;54
+r;19629971;96211;737440;11;54
+r;29533806;96211;1805476;11;54
+r;29744378;96211;1820506;11;54
+r;55172170;96211;2601058;11;54
+r;55482867;96211;2605289;11;54
+r;83651968;96211;3318752;11;54
+r;86235486;96211;3360617;11;54
+r;87009061;96211;3394153;11;54
+r;93648948;96211;3759279;11;54
+r;93649448;96211;3759224;11;54
+r;96539274;96211;4311199;11;54
+r;17753337;96211;573902;11;55
+r;18081286;96211;579606;11;55
+r;18418166;96211;586721;11;55
+r;18423639;96211;586871;11;55
+r;33730273;96211;2324191;11;55
+r;52473257;96211;2506779;11;55
+r;52503817;96211;2537223;11;55
+r;55139209;96211;2600174;11;55
+r;78804131;96211;3260464;11;55
+r;85979244;96211;3355601;11;55
+r;86193491;96211;3364828;11;55
+r;86195722;96211;3364535;11;55
+r;86234716;96211;3360615;11;55
+r;93039719;96211;3728163;11;55
+r;93648860;96211;3759290;11;55
+r;96538563;96211;4311188;11;55
+r;18492638;96211;589247;11;56
+r;22624741;96211;1249346;11;56
+r;29193909;96211;1777762;11;56
+r;29207551;96211;1778148;11;56
+r;29211510;96211;1778536;11;56
+r;30426901;96211;1885383;11;56
+r;32067147;96211;1977602;11;56
+r;52445696;96211;2565096;11;56
+r;52451023;96211;2553545;11;56
+r;76315013;96211;3172062;11;56
+r;86193397;96211;3364840;11;56
+r;86211961;96211;3362439;11;56
+r;86233800;96211;3360612;11;56
+r;87013497;96211;3394159;11;56
+r;93670873;96211;3756931;11;56
+r;121907836;96211;6533809;11;56
+r;19530132;96211;722360;11;57
+r;27977480;96211;1698227;11;57
+r;29215983;96211;1778957;11;57
+r;29233693;96211;1779932;11;57
+r;29235754;96211;1779575;11;57
+r;29742049;96211;1820466;11;57
+r;29764634;96211;1822475;11;57
+r;52481118;96211;2489711;11;57
+r;55483169;96211;2605311;11;57
+r;77234446;96211;3185253;11;57
+r;78664873;96211;3250049;11;57
+r;78668391;96211;3250051;11;57
+r;83650157;96211;3318766;11;57
+r;83716562;96211;3321054;11;57
+r;86190401;96211;3365196;11;57
+r;86190699;96211;3365162;11;57
+r;86231422;96211;3360374;11;57
+r;87009636;96211;3394156;11;57
+r;87013833;96211;3394152;11;57
+r;93649235;96211;3759248;11;57
+r;93649258;96211;3759245;11;57
+r;98588399;96211;4321793;11;57
+r;19604523;96211;734286;11;58
+r;17131258;96211;567634;11;58
+r;17786065;96211;574286;11;58
+r;17786163;96211;574287;11;58
+r;18435092;96211;587094;11;58
+r;24710071;96211;1496028;11;58
+r;28190983;96211;1706846;11;58
+r;29222335;96211;1779489;11;58
+r;34513334;96211;2345470;11;58
+r;50159067;96211;2361030;11;58
+r;52458781;96211;2537473;11;58
+r;52462512;96211;2529813;11;58
+r;52476048;96211;2500748;11;58
+r;52493512;96211;2556524;11;58
+r;78665314;96211;3250050;11;58
+r;86193469;96211;3364830;11;58
+r;86198466;96211;3364157;11;58
+r;86222891;96211;3359866;11;58
+r;86233549;96211;3360610;11;58
+r;86235252;96211;3360611;11;58
+r;93649321;96211;3759237;11;58
+r;95177013;96211;3830517;11;58
+r;28442095;96211;1731943;11;59
+r;29216276;96211;1778814;11;59
+r;34791469;96211;2353732;11;59
+r;52508009;96211;2528828;11;59
+r;86175730;96211;3366790;11;59
+r;86206900;96211;3363041;11;59
+r;93702546;96211;3753645;11;59
+r;93983031;96211;3763646;11;59
+r;18081205;96211;579607;11;60
+r;29194693;96211;1777761;11;60
+r;29207629;96211;1778171;11;60
+r;50194517;96211;2362793;11;60
+r;52443668;96211;2569417;11;60
+r;52477146;96211;2498504;11;60
+r;55453267;96211;2603511;11;60
+r;83069476;96211;3306039;11;60
+r;83632686;96211;3318453;11;60
+r;86193640;96211;3364810;11;60
+r;87012178;96211;3394158;11;60
+r;93497786;96211;3746250;11;60
+r;106797733;96211;5315690;11;60
+r;72032543;96211;2933951;11;61
+r;32523383;96211;2080643;11;62
+r;29516689;96211;1804139;11;63
+r;71285789;96211;2906278;11;64
+r;63172878;96211;2771293;11;66
+r;29631383;96211;1815451;11;69
+r;13690983;96211;394015;11;76
+r;12664613;96211;359548;11;101
+r;12675903;96211;356765;11;101
+r;12729617;96211;343743;11;101
+r;12639515;96211;365684;11;102
+r;12660193;96211;360645;11;102
+r;12699151;96211;351069;11;102
+r;12596483;96211;376365;11;103
+r;12610945;96211;372803;11;103
+r;12650085;96211;363094;11;103
+r;12661923;96211;360211;11;103
+r;12765705;96211;334992;11;103
+r;12648817;96211;363403;11;104
+r;12659269;96211;360867;11;104
+r;12667681;96211;358787;11;104
+r;12714657;96211;347193;11;104
+r;12718775;96211;346306;11;104
+r;12756375;96211;337299;11;104
+r;12413629;96211;332553;11;105
+r;12630905;96211;367835;11;105
+r;12654179;96211;362094;11;105
+r;12718789;96211;346304;11;105
+r;12754175;96211;337885;11;105
+r;12756379;96211;337298;11;105
+r;12769333;96211;334088;11;105
+r;12075699;96211;331265;11;106
+r;12555553;96211;386457;11;106
+r;12585483;96211;379040;11;106
+r;12596439;96211;376376;11;106
+r;12656227;96211;361598;11;106
+r;12658477;96211;361070;11;106
+r;12662329;96211;360121;11;106
+r;12728399;96211;344040;11;106
+r;12728415;96211;344036;11;106
+r;12728419;96211;344035;11;106
+r;12728427;96211;344033;11;106
+r;12664353;96211;359613;11;107
+r;12699143;96211;351070;11;107
+r;12720643;96211;345951;11;107
+r;12756103;96211;337372;11;107
+r;12548757;96211;388163;11;108
+r;12584093;96211;379371;11;108
+r;12632307;96211;367481;11;108
+r;12660131;96211;360659;11;108
+r;12720539;96211;345980;11;108
+r;12728423;96211;344034;11;108
+r;12757093;96211;337121;11;108
+r;12765447;96211;335057;11;108
+r;12083172;96211;331310;11;109
+r;12610429;96211;372930;11;109
+r;12616457;96211;371449;11;109
+r;12708869;96211;348588;11;109
+r;12718781;96211;346305;11;109
+r;12723611;96211;345213;11;109
+r;12728403;96211;344039;11;109
+r;12728407;96211;344038;11;109
+r;12629685;96211;368148;11;110
+r;12632081;96211;367540;11;110
+r;12650907;96211;362894;11;110
+r;12671351;96211;357877;11;110
+r;12716599;96211;346718;11;110
+r;12728411;96211;344037;11;110
+r;12728431;96211;344032;11;110
+r;11863921;96211;98208;11;121
+r;11864242;96211;96209;11;121
+r;11865622;96211;86186;11;121
+r;11865965;96211;84191;11;121
+r;11872234;96211;41671;11;121
+r;11874880;96211;23570;11;121
+r;11874913;96211;23312;11;121
+r;11875227;96211;21226;11;121
+r;11876729;96211;10083;11;121
+r;11877457;96211;4866;11;121
+r;11857709;96211;146067;11;122
+r;11858796;96211;133525;11;122
+r;11861416;96211;115023;11;122
+r;11861933;96211;111527;11;122
+r;9283268;96211;323608;11;148
+r;9283271;96211;323609;11;148
+r;9283274;96211;323610;11;148
+r;9283280;96211;323611;11;148
+r;11698349;96211;329756;11;148
+r;8880472;96211;234847;11;151
+r;8882288;96211;267267;11;153
+r;8694831;96211;224280;11;160
+r;8697914;96211;229068;11;160
+r;8703934;96211;236475;11;160
+r;8704288;96211;236859;11;160
+r;8706821;96211;240831;11;160
+r;8725379;96211;259299;11;160
+r;8727128;96211;260640;11;160
+r;8727194;96211;260681;11;160
+r;8729373;96211;262525;11;160
+r;8729375;96211;262526;11;160
+r;8730777;96211;263554;11;160
+r;8604690;96211;101554;11;161
+r;8688517;96211;213034;11;161
+r;8693566;96211;222128;11;161
+r;8696880;96211;227453;11;161
+r;8697079;96211;227833;11;161
+r;8697818;96211;229015;11;161
+r;8697821;96211;229016;11;161
+r;8697824;96211;229017;11;161
+r;8697831;96211;229019;11;161
+r;8698086;96211;229180;11;161
+r;8698114;96211;229202;11;161
+r;8700001;96211;231624;11;161
+r;8700003;96211;231625;11;161
+r;8700005;96211;231627;11;161
+r;8700296;96211;231892;11;161
+r;8701027;96211;232556;11;161
+r;8701499;96211;233229;11;161
+r;8704455;96211;237068;11;161
+r;8709286;96211;245185;11;161
+r;8715057;96211;251424;11;161
+r;8716710;96211;253073;11;161
+r;8717780;96211;253975;11;161
+r;8717781;96211;253976;11;161
+r;8718235;96211;254286;11;161
+r;8720406;96211;255869;11;161
+r;8720409;96211;255870;11;161
+r;8720412;96211;255871;11;161
+r;8721460;96211;256601;11;161
+r;8722261;96211;257109;11;161
+r;8722555;96211;257360;11;161
+r;8722886;96211;257624;11;161
+r;8724981;96211;259048;11;161
+r;8726330;96211;259995;11;161
+r;8727266;96211;260742;11;161
+r;8727586;96211;260905;11;161
+r;8728276;96211;261585;11;161
+r;8728491;96211;261766;11;161
+r;8729367;96211;262523;11;161
+r;8729370;96211;262524;11;161
+r;8578101;96211;24555;11;162
+r;8580425;96211;31466;11;162
+r;8591643;96211;63925;11;162
+r;8595125;96211;74288;11;162
+r;8596019;96211;76980;11;162
+r;8598104;96211;82973;11;162
+r;8599680;96211;87333;11;162
+r;8600895;96211;90737;11;162
+r;8602311;96211;95016;11;162
+r;8607000;96211;107859;11;162
+r;8609431;96211;114469;11;162
+r;8610486;96211;117491;11;162
+r;8610766;96211;118348;11;162
+r;8614003;96211;127370;11;162
+r;8626136;96211;159145;11;162
+r;8627674;96211;161859;11;162
+r;8627799;96211;162062;11;162
+r;8627980;96211;162434;11;162
+r;8628088;96211;162737;11;162
+r;8628980;96211;164435;11;162
+r;8630185;96211;166486;11;162
+r;8689199;96211;214274;11;162
+r;8689755;96211;215280;11;162
+r;8745399;96211;277504;11;162
+r;8774168;96211;308425;11;162
+r;8575655;96211;17168;11;163
+r;8581057;96211;33522;11;163
+r;8581805;96211;35569;11;163
+r;8582883;96211;38806;11;163
+r;8584919;96211;44839;11;163
+r;8588004;96211;53452;11;163
+r;8592682;96211;67088;11;163
+r;8592992;96211;67908;11;163
+r;8593928;96211;70745;11;163
+r;8596575;96211;78501;11;163
+r;8597408;96211;81005;11;163
+r;8601052;96211;91200;11;163
+r;8602581;96211;95693;11;163
+r;8603970;96211;99441;11;163
+r;8612863;96211;124314;11;163
+r;8613953;96211;127239;11;163
+r;8622294;96211;151513;11;163
+r;8622344;96211;151594;11;163
+r;8623987;96211;154544;11;163
+r;8624214;96211;154941;11;163
+r;8624221;96211;154946;11;163
+r;8624436;96211;155325;11;163
+r;8624466;96211;155387;11;163
+r;8624895;96211;156143;11;163
+r;8625847;96211;158623;11;163
+r;8651373;96211;189490;11;163
+r;8732258;96211;264670;11;163
+r;8732805;96211;265228;11;163
+r;8736788;96211;268953;11;163
+r;8742239;96211;274343;11;163
+r;8760045;96211;292281;11;163
+r;8760600;96211;292901;11;163
+r;8760605;96211;292904;11;163
+r;8768736;96211;302274;11;163
+r;8769207;96211;302748;11;163
+r;8771268;96211;305066;11;163
+r;8578912;96211;26877;11;164
+r;8579517;96211;28767;11;164
+r;8617395;96211;136789;11;164
+r;8654367;96211;191875;11;164
+r;8575682;96211;17257;11;165
+r;8570712;96211;2140;11;166
+r;8571135;96211;3608;11;166
+r;8570737;96211;2215;11;168
+r;8571313;96211;4050;11;168
+r;8571629;96211;4901;11;168
+r;8571813;96211;5612;11;168
+r;8573466;96211;10577;11;168
+r;1887907;96211;228449;11;187
+r;417227;96211;43781;11;188
+r;1887908;96211;165713;11;188
+r;389643;96211;163938;11;217

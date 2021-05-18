@@ -306,7 +306,7 @@ e;330093;'trouble oppositionnel avec provocation';1;50
 e;316368;'regarder avec amour';1;50
 e;186615;'ne toucher qu'avec les yeux';1;50
 e;315843;'écho de gradient avec état d'équilibre';1;50
-e;316287;'avec la langue';1;56
+e;316287;'avec la langue';1;58
 e;314537;'imagerie avec contraste';1;50
 e;314620;'avec retenue';1;52
 e;316806;'avec son amie';777;50
@@ -393,7 +393,7 @@ e;256396;'avec remords';1;50
 e;256397;'avec étonnement';1;2
 e;256398;'avec indulgence';1;2
 e;256399;'avec affection';1;10
-e;256691;'avec émotion';1;50
+e;256691;'avec émotion';1;52
 e;256734;'perte de contact avec la réalité';1;50
 e;256737;'perdre le contact avec la réalité';1;50
 e;257173;'regarder avec insistance';1;12
@@ -460,7 +460,7 @@ e;162134;'avec une fleur';1;50
 e;162165;'marcher avec des raquettes';1;50
 e;163156;'Rendez-vous avec Rama';1;50
 e;163418;'avec un glaçon';1;50
-e;163537;'avec tendresse';1;80
+e;163537;'avec tendresse';1;82
 e;164232;'avec une clé';1;54
 e;165263;'avec des baguettes';1;50
 e;165675;'avec ferveur';1;66
@@ -552,7 +552,7 @@ e;159051;'avec des chaînes';1;54
 e;159052;'avec des menottes';1;54
 e;159182;'avec ses ongles';1;54
 e;159206;'avec emportement';1;50
-e;159756;'avec amour';1;88
+e;159756;'avec amour';1;90
 e;159779;'avec grâce';1;70
 e;159792;'avec les mains';1;50
 e;171307;'avec armes et bagages';1;50
@@ -631,7 +631,7 @@ e;297299;'accord de septième de dominante avec fondamentale';777;50
 e;297657;'fraternisation avec l'ennemi';777;50
 e;300845;'ataxie avec déficit isolé en vitamine E';777;50
 e;301812;'sous contrat d'association avec l'État';777;50
-e;301838;'massage avec finitions';666;54
+e;301838;'massage avec finitions';666;56
 e;305311;'jeux avec de l'alimentation';777;50
 e;24199;'avec certitude';1;50
 e;24798;'système avec vote unique transférable';1;50

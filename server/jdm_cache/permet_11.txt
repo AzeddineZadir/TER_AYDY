@@ -1,0 +1,36 @@
+
+e;308648;'permet';777;50
+e;6342086;'spécimen dont la qualité ne permet pas un diagnostic';1;0
+e;6394331;'échantillon dont la qualité ne permet pas un diagnostic';1;0
+e;6406544;'spécimen dont la quantité ne permet pas un diagnostic';1;0
+e;14008837;'circoncision permet de réduire la propagation du sida';777;0
+e;6300537;'échantillon dont la quantité ne permet pas un diagnostic';1;0
+e;15791803;'dans les limites prévues par la loi, autant que la loi le permet';1;0
+e;15791782;'comme la loi le permet';1;0
+e;15791791;'appareil qui permet de faire quelque chose';1;0
+e;15791780;'Sa mère lui permet de sortir le soir.';1;0
+e;15791794;'Sa santé ne lui permet pas de voyager.';1;0
+e;16183989;'La connaissance de l'enthalpie de réaction permet donc d'avoir accès à la chaleur de réaction';777;0
+e;15791792;'La télévision me permet de m'évader.';1;0
+e;2389125;'mauvaise garde permet au loup de se repaître';1;0
+e;5723459;'L'option -a permet l'utilisation des caractères ISO-8859 après le code ASCII';777;0
+e;15791796;'Elle ne permet pas que l'on fume dans la maison.';1;0
+e;15791798;'Demandez à votre médecin si votre santé vous permet de voyager.';1;0
+e;5260;'Tout ce que le ciel permet';1;50
+r;301487477;308648;6342086;11;25
+r;304994063;308648;6394331;11;25
+r;305312932;308648;6406544;11;25
+r;353473606;308648;14008837;11;25
+r;299130190;308648;6300537;11;26
+r;419764269;308648;15791803;11;30
+r;419720703;308648;15791782;11;31
+r;419602271;308648;15791791;11;33
+r;419538675;308648;15791780;11;34
+r;419538777;308648;15791794;11;34
+r;434347853;308648;16183989;11;34
+r;417155740;308648;15791792;11;38
+r;53073720;308648;2389125;11;39
+r;112671059;308648;5723459;11;50
+r;412521636;308648;15791796;11;50
+r;411717182;308648;15791798;11;50
+r;8571714;308648;5260;11;168

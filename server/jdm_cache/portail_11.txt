@@ -1,0 +1,60 @@
+
+e;57808;'portail';1;240
+e;14606640;'pseudo-portail';1;0
+e;15978815;'portail de jeux';1;2
+e;9987623;'portail web';777;0
+e;10968226;'Bienvenue sur le portail de Wikipédia consacré à la Formule 1';777;0
+e;2464711;'sous-portail';1;0
+e;5678076;'Recharger les sections dynamiques du portail';777;0
+e;11077279;'portail de la cour des Récollets';777;0
+e;16038495;'avant-portail';1;0
+e;15687536;'Le portail DATA INPI en chiffres';777;0
+e;12080852;'portail de messagerie';1;0
+e;6013155;'Autres articles sélectionnés au sein du portail Exoplanètes';777;0
+e;5968983;'portail de la numismatique';777;0
+e;11392639;'portail du Clos des Coutures';777;0
+e;6011184;'liés au portail de la Cosmologie';777;0
+e;10078251;'Bienvenue sur le portail de l'herpétologie !';777;0
+e;6004287;'portail astronomie';777;0
+e;6013154;'Bienvenue sur le portail de Wikipédia consacré aux exoplanètes !';777;0
+e;5993291;'Autres articles sélectionnés au sein du portail du textile';777;0
+e;6003399;'Catégorie mère - projet - portail - café';777;0
+e;6080243;'Catégorie mère - Projet - Portail - Café - Articles liés au portail';777;0
+e;11120730;'portail de Sigtuna';777;0
+e;1674861;'portail collaboratif';1;0
+e;6594448;'Autres articles sélectionnés au sein du portail Égypte antique';777;0
+e;371952;'portail roulant';1;50
+e;371951;'portail d'entrée';1;50
+e;371953;'portail d'église';1;50
+e;235719;'portail en ligne';1;50
+e;254650;'portail de recherche';1;50
+e;270138;'portail automatique';1;52
+r;371201403;57808;14606640;11;25
+r;417022279;57808;15978815;11;26
+r;222150395;57808;9987623;11;30
+r;277231320;57808;10968226;11;30
+r;55748810;57808;2464711;11;32
+r;111465933;57808;5678076;11;32
+r;283112231;57808;11077279;11;32
+r;419625782;57808;16038495;11;32
+r;419493099;57808;15687536;11;35
+r;315110533;57808;12080852;11;36
+r;118502583;57808;6013155;11;37
+r;116949366;57808;5968983;11;38
+r;292586872;57808;11392639;11;38
+r;118509446;57808;6011184;11;41
+r;232473792;57808;10078251;11;41
+r;118527494;57808;6004287;11;42
+r;118502589;57808;6013154;11;46
+r;117864814;57808;5993291;11;47
+r;118531031;57808;6003399;11;50
+r;119192092;57808;6080243;11;50
+r;282348342;57808;11120730;11;50
+r;27757504;57808;1674861;11;51
+r;122092132;57808;6594448;11;57
+r;12614317;57808;371952;11;102
+r;12614321;57808;371951;11;102
+r;12614313;57808;371953;11;108
+r;8703302;57808;235719;11;161
+r;8718751;57808;254650;11;161
+r;8737829;57808;270138;11;163

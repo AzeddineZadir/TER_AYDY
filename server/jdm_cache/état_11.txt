@@ -1,0 +1,1993 @@
+
+e;137183;'état';1;840
+e;40526;'État providence';1;50
+e;6363408;'état maniaque aggravé';1;0
+e;5921265;'état-zéro';777;0
+e;6290342;'détermination de l'état mental';1;0
+e;6311912;'détermination de l'état immunologique';1;0
+e;6347494;'détermination de l'état mental psychologique en clinique';1;0
+e;6353907;'remise en état dentaire';1;0
+e;6365351;'polyneuropathie associée à un état critique';1;0
+e;6373568;'entrevue psychiatrique initiale avec détermination de l'état mental et évaluation';1;0
+e;6405710;'sans ment d'état de mal asthmatique asthme chronique obstructif';1;0
+e;6411473;'mini examen de l'état mental normal';1;0
+e;6391169;'état déprimé';1;0
+e;6350860;'état amnésique';1;0
+e;12194591;'identification du type de variant génétique état allélique';1;0
+e;12149112;'identification d'état imprimé carte filtre';1;0
+e;6394427;'détermination de l'état mental psychiatrique en clinique';1;0
+e;14318840;'L'état';777;0
+e;6401334;'asthme intrinsèque sans mention d'état de mal asthmatique';1;0
+e;6362393;'état résiduel schizophrénique';1;0
+e;6337559;'asthme extrinsèque sans mention d'état de mal asthmatique';1;0
+e;6339548;'manque de désir sexuel chez la femme lié à un état pathologique général';1;0
+e;6372079;'état second psychogène';1;0
+e;6371565;'état psychotique';1;0
+e;6333647;'anticorps spécifique de l'état de phosphorylation';1;0
+e;13823340;'instruction générale relative à l'état civil';777;0
+e;13865657;'état de profonde quiétude';1;0
+e;13986227;'fonction publique de l'état';777;0
+e;13990128;'en état dormant';1;0
+e;14015244;'registres paroissiaux et d'état civil à Paris';777;0
+e;14030728;'état marital';1;0
+e;14094109;'état de la situation financière';777;0
+e;6405162;'manque de désir sexuel chez l'homme lié à un état pathologique général';1;0
+e;14159843;'être en état';1;0
+e;14242034;'retrouver un état antérieur';1;0
+e;14346713;'état local du marché';777;0
+e;14355625;'état triplet';777;0
+e;14387611;'état fondamental de la matière';1;0
+e;14431698;'possession d'état';777;0
+e;14432551;'état condensé';777;0
+e;14452354;'bien en état d'abandon';1;0
+e;14452359;'vente en l'état futur d'achèvement';1;0
+e;14452394;'atteinte à l'état civil des personnes';1;0
+e;14452424;'délaissement de personne hors d'état de se protéger';1;0
+e;14452572;'mise en état du dossier';1;0
+e;14452467;'juge de la mise en état';1;0
+e;14452371;'remise en état de site';1;0
+e;14452831;'preuve de la cessation de l'état de besoin';1;0
+e;14453168;'archives de registres d'état civil';1;0
+e;14453167;'registre d'état civil';1;0
+e;14453176;'service central de l'état civil';1;0
+e;14453163;'service d'état civil';1;0
+e;14452956;'charge de la preuve de l'état de surendettement';1;0
+e;14452939;'acte d'état civil';1;0
+e;14453166;'dématérialisation des données d'état civil';1;0
+e;14453275;'déclaration d'état civil';1;0
+e;14453270;'copie d'acte d'état civil';1;0
+e;14453256;'certificat d'état civil';1;0
+e;14453155;'relations internationales en matière d'état civil';1;0
+e;14453289;'note sur l'unicité des actes d'état civil';1;0
+e;14453173;'légalisation d'acte d'état civil';1;0
+e;14453307;'délégation de fonction d'officier d'état civil';1;0
+e;14453331;'incident sur un acte ou registre d'état civil';1;0
+e;14453279;'déclaration sur l'authenticité d'une copie d'acte d'état civil';1;0
+e;14453346;'traduction d'acte d'état civil';1;0
+e;14453187;'enregistrement de l'acte d'état civil';1;0
+e;14453322;'annulation d'acte d'état civil';1;0
+e;14453291;'vérifications de l'officier d'état civil';1;0
+e;14453347;'acte d'état civil étranger';1;0
+e;14453334;'justificatifs d'état civil';1;0
+e;14453324;'consultation des actes d'état civil';1;0
+e;14453348;'transcription d'acte d'état civil';1;0
+e;14453345;'acte d'état civil plurilingue';1;0
+e;14453416;'attestation de délivrance d'un acte d'état civil';1;0
+e;14453410;'concession en état d'abandon';1;0
+e;14453344;'copie et extrait d'acte d'état civil demandé par un tiers';1;0
+e;14462820;'indisponibilité de l'état des personnes';777;0
+e;14453321;'rectification d'un acte d'état civil';1;0
+e;14453323;'extrait d'acte d'état civil';1;0
+e;14453314;'relations des sercvices d'état civil avec d'autres entités';1;0
+e;14453302;'actes d'état civil';1;0
+e;14454878;'rapport annuel du Conseil d'état';1;0
+e;14454889;'opérateur de l'état';1;0
+e;14454851;'responsabilité de l'état';1;0
+e;14454845;'compétence de l'état';1;0
+e;14454893;'budget de l'état';1;0
+e;14454846;'avocat au Conseil d'état et à la Cour de cassation';1;0
+e;14454841;'dotation d'état';1;0
+e;14454886;'bien confié à l'état';1;0
+e;14454883;'baisse des dotations de l'état aux collectivités';1;0
+e;14454849;'pupille de l'état';1;0
+e;14454850;'tutelle d'état';1;0
+e;14454884;'baisse des dotations de l'état';1;0
+e;14454892;'contractualisation avec l'état';1;0
+e;14454842;'mise à disposition des services de l'état';1;0
+e;14489022;'on étudie par la suite la rotation et la vibration d'une molécule dans un état électronique donné';777;0
+e;14547481;'état d'alerte';1;4
+e;14558132;'état liquide isotrope';1;0
+e;14558133;'état solide cristallin';1;0
+e;14572068;'état d'ivresse';1;92
+e;14609091;'dans un état excité';1;0
+e;14627825;'à l'état domestique';1;0
+e;14629030;'état d'urgence de santé publique';1;0
+e;14629112;'état d'urgence de santé publique de portée internationale';1;0
+e;14635562;'état de dépressurisation';1;0
+e;14678312;'état de l'économie';1;0
+e;14668545;'état larvaire';1;0
+e;6381936;'démence provoquée par un état pathologique général';1;0
+e;6332294;'état de jeûne';1;0
+e;6392006;'état toxique';1;0
+e;6379933;'détérioration générale de l'état de santé';1;0
+e;6390472;'état de sédation';1;0
+e;6386116;'état mental altéré';1;0
+e;6380196;'état auto-immunitaire';1;0
+e;6329470;'lacération cérébelleuse avec plaie intracrânienne ouverte et état de conscience non précisé';1;0
+e;6405013;'état après viol';1;0
+e;6400460;'état de reproduction anormal';1;0
+e;6401407;'état de stress lié à la profession';1;0
+e;6402792;'traumatisme cérébral avec plaie intracrânienne ouverte et état de conscience non précisé';1;0
+e;6408576;'état agonisant';1;0
+e;15018435;'espace d'état';777;0
+e;6284749;'état sexuel anormal';1;0
+e;6285642;'état posttraumatique';1;0
+e;6300531;'état virginal';1;0
+e;6300641;'développement et état sexuels anormaux';1;0
+e;6307530;'état musculaire delta';1;0
+e;6311306;'état non précisé autres types de schizophrénie précisés';1;0
+e;6314460;'état peropératoire';1;0
+e;6315718;'état septique bactérien';1;0
+e;6323119;'détérioration de l'état neurologique';1;0
+e;6327324;'état non précisé schizophrénie résiduelle';1;0
+e;6345138;'état émotionnel normal';1;0
+e;6349103;'état corporel général';1;0
+e;6350247;'état préopératoire';1;0
+e;6352102;'état atopique';1;0
+e;6355403;'état chronique avec exacerbation aiguë schizophrénie latente';1;0
+e;6356009;'état migraineux';1;0
+e;6382831;'état du porteur d'un agent infectieux';1;0
+e;6421475;'lacération du tronc cérébral avec plaie intracrânienne ouverte et état de conscience non précisé';1;0
+e;16173379;'état de santé général';1;0
+e;16180480;'état L';777;0
+e;16180479;'état O';777;0
+e;16180481;'état T';777;0
+e;16279146;'l'état des personnes';777;0
+e;16313152;'l'état de humaine santé de la population';777;0
+e;16330333;'équation d'état cubique';777;0
+e;16558765;'état du processeur';1;0
+e;6424615;'état de sénilité';1;0
+e;6291305;'trouble lié à la douleur associé à des facteurs psychologiques et à un état pathologique général';1;0
+e;6326114;'localisations cutanées d'un état septique';1;0
+e;6331243;'mini examen d'état mental';1;0
+e;6340832;'troubles amnésiques liés à un état pathologique général';1;0
+e;6363311;'mauvais état dentaire';1;0
+e;6374418;'trouble érectile chez l'homme lié à un état pathologique général';1;0
+e;6389502;'sans mention d'état de mal asthmatique asthme chronique obstructif';1;0
+e;6409021;'prolongement d'état post-ictal';1;0
+e;6384039;'état obsessionnel';1;0
+e;6393356;'état de type asthme';1;0
+e;6357226;'état résiduel psychose désintégrative';1;0
+e;6416639;'état subchronique avec exacerbation aiguë autres types de schizophrénie précisés';1;0
+e;6386626;'état subchronique schizophrénie non précisée';1;0
+e;6338413;'état subchronique schizophrénie type catatonique';1;0
+e;6330070;'état subchronique avec exacerbation aiguë schizophrénie type catatonique';1;0
+e;6389799;'état subchronique avec exacerbation aiguë schizophrénie simple';1;0
+e;6376490;'état sous-chronique avec exacerbation aiguë schizophrénie type schizo-affective';1;0
+e;6363528;'état subchronique avec exacerbation aiguë schizophrénie résiduelle';1;0
+e;6304817;'état subchronique schizophrénie type désorganisé';1;0
+e;6377451;'état subchronique avec exacerbation aiguë schizophrénie type désorganisé';1;0
+e;6367232;'état subchronique avec exacerbation aiguë schizophrénie latente';1;0
+e;6340579;'état subchronique avec exacerbation aiguë schizophrénie type paranoïde';1;0
+e;6360580;'état subchronique avec exacerbation aiguë schizophrénie non précisée';1;0
+e;6348785;'état subchronique schizophrénie type paranoïde';1;0
+e;6307887;'changement à un état maniaque';1;0
+e;6308305;'état subchronique schizophrénie latente';1;0
+e;6365680;'état subchronique autres types de schizophrénie précisés';1;0
+e;6316859;'état sous-chronique schizophrénie type schizo-affective';1;0
+e;6373020;'état chronique autres types de schizophrénie précisés';1;0
+e;6320899;'état non précisé schizophrénie type catatonique';1;0
+e;6417422;'état ou comp post-partum gross de triplés avec perte foetale et rétention d'un foetus ou plus';1;0
+e;6368788;'état chronique avec exacerbation aiguë schizophrénie type désorganisé';1;0
+e;6381118;'état non précisé schizophrénie type désorganisé';1;0
+e;6299737;'état chronique avec exacerbation aiguë schizophrénie type paranoïde';1;0
+e;6352230;'état non précisé schizophrénie latente';1;0
+e;6344354;'état chronique schizophrénie simple';1;0
+e;6366536;'état chronique schizophrénie résiduelle';1;0
+e;6291034;'état non précisé schizophrénie simple';1;0
+e;6348693;'état chronique schizophrénie type schizo-affective';1;0
+e;6394272;'état chronique avec exacerbation aiguë schizophrénie résiduelle';1;0
+e;6334442;'état chronique avec exacerbation aiguë schizophrénie simple';1;0
+e;6284820;'état subchronique schizophrénie simple';1;0
+e;6355763;'état chronique schizophrénie type catatonique';1;0
+e;6391209;'état chronique avec exacerbation aiguë autres types de schizophrénie précisés';1;0
+e;6404816;'état chronique avec exacerbation aiguë schizophrénie type catatonique';1;0
+e;6352615;'état chronique schizophrénie non précisée';1;0
+e;6292819;'état actuel ou évolutif autisme infantile';1;0
+e;6337488;'état chronique avec exacerbation aiguë schizophrénie non précisée';1;0
+e;6300757;'état chronique avec exacerbation aiguë schizophrénie type schizo-affective';1;0
+e;6375918;'état actuel ou évolutif psychose désintégrative';1;0
+e;6327999;'état résiduel autisme infantile';1;0
+e;6404703;'délire lié à un état pathologique général';1;0
+e;6363241;'état chronique schizophrénie latente';1;0
+e;6305473;'état non précisé schizophrénie type schizo-affective';1;0
+e;6410383;'sensation d'état anormal';1;0
+e;14242035;'retrouver un état semblable à un état passé';1;0
+e;14502835;'pension de l'état';1;0
+e;14538251;'ne pas être dans son état normal';1;0
+e;14557709;'en état d'ivresse';1;18
+e;14561260;'état des lieux de sortie';1;2
+e;14580326;'état d'urgence sanitaire';1;4
+e;14584333;'être en état d'ivresse';1;0
+e;14637171;'transition de l'état liquide à l'état gazeux';1;0
+e;14637172;'transition de l'état gazeux à l'état liquide';1;0
+e;14637176;'transition de l'état gazeux à l'état plasma';1;0
+e;14637174;'transition de l'état liquide à l'état solide';1;0
+e;14637173;'transition de l'état solide à l'état liquide';1;0
+e;14716952;'état d'hibernation';1;0
+e;14724045;'chef de l'état';1;2
+e;14753174;'état des lieux d'entrée';1;0
+e;14755615;'retourner à l'état sauvage';1;2
+e;14757594;'L'état du système';777;0
+e;14777403;'dans un état grave';1;0
+e;14874926;'état d'origine';1;0
+e;5777005;'segment d'état de tâche';777;0
+e;6430921;'état prédiabétique';1;0
+e;6290416;'autre état érythémateux précisé';1;0
+e;6309606;'avec état de mal asthmatique asthme chronique obstructif';1;0
+e;6317127;'mini examen d'état mental normal';1;0
+e;6343904;'affaissé semi conscient et en état de choc';1;0
+e;6369349;'avec état de connaissance non précisé autre fracture ouverte du crâne sans mention de lésion';1;0
+e;6373822;'mini examen de l'état mental anormal';1;0
+e;6385816;'type non précisé sans mention d'état de mal asthmatique asthme';1;0
+e;6390710;'mini examen d'état mental anormal';1;0
+e;6397854;'changements aigus d'état mental';1;0
+e;6414209;'difficultés liées à l'état sanitaire au sein de la famille';1;0
+e;6381681;'état de bas débit';1;0
+e;12095964;'état imprimé carte filtre';1;0
+e;13540917;'état d'hypo-oxygénation';1;0
+e;13540928;'amélioration de l'état du patient';1;0
+e;13540929;'aggravation de l'état du patient';1;0
+e;6358417;'état chronique schizophrénie type désorganisé';1;0
+e;6375545;'modifications de l'état mental';1;0
+e;13536492;'se trouver à l'état naturel';1;0
+e;6439273;'état d'hypersexualité';1;0
+e;6435999;'état d'intoxication médicamenteuse';1;0
+e;6433877;'état résiduel psychose de l'enfance non précisée';1;0
+e;6433517;'myocardite liée à un état d'hypersensibilité';1;0
+e;10618173;'état pathologique rare';1;0
+e;10987445;'état vassal';777;0
+e;12108272;'variant génétique état allélique';1;0
+e;13034142;'état fractionné de la matière';1;0
+e;16242803;'en parfait état de fonctionnement';1;0
+e;31388;'États-Unis';1;634
+e;6430536;'état prénatal du foetus';1;0
+e;6430419;'état mental normal';1;0
+e;6430161;'détermination de l'état mental neurologique';1;0
+e;6429041;'état chronique schizophrénie type paranoïde';1;0
+e;6428426;'diminution de l'état de conscience';1;0
+e;6422915;'observation prolongée de l'état du patient';1;0
+e;6422789;'état de la maturité sexuelle chez l'homme';1;0
+e;11056129;'état féodal';1;0
+e;11030691;'Bruxelles en état d'urgence';777;0
+e;11030690;'Bruxelles en état d'alerte maximale';777;0
+e;11772999;'état voyou';777;0
+e;15522927;'dans l'état actuel';1;0
+e;16071657;'dans l'état actuel de';1;0
+e;16032167;'dans un bel état';1;0
+e;15573131;'dans un sale état';1;0
+e;15335137;'dans un état d'hébétude';1;0
+e;15395221;'dans un état de grande agitation';1;0
+e;15360555;'dans un état déplorable';1;0
+e;15316826;'dans un état passable';1;0
+e;15531469;'dans un état presque neuf';1;0
+e;15531467;'dans un état épouvantable';1;0
+e;15440642;'de son état';1;0
+e;15523785;'discours sur l'état de l'union';1;0
+e;15485816;'douma d'état';1;0
+e;15440646;'dresser un état des lieux';1;0
+e;15782780;'dépôts d'eau à l'état solide';1;0
+e;15904066;'détermination du sexe d'état civil';1;0
+e;15782783;'eau à l'état solide';1;0
+e;15316824;'en assez bon état';1;0
+e;15574792;'en bon état de fonctionnement';1;0
+e;15542322;'en état d'agravité';1;0
+e;15257508;'en état d'autonomie respiratoire';1;0
+e;15222435;'en état d'ivresse sur la voie publique';1;0
+e;15496652;'en état de conduire';1;0
+e;15401650;'en état de crise';1;0
+e;15401644;'en état de fonctionnement';1;0
+e;15546120;'en état de naviguer';1;0
+e;15401648;'en état de péché';1;0
+e;15496647;'en état de péché mortel';1;0
+e;15440653;'en état de somnolence';1;0
+e;15496645;'en état de veille';1;0
+e;16297945;'défaut est un état';1;0
+e;16437557;'devoir d'état';777;0
+e;2452717;'micro-état';1;0
+e;5574182;'La remise en état de la carcasse';777;0
+e;5679305;'Retour à l'état sauvage';777;0
+e;6433691;'état actuel ou évolutif psychose de l'enfance non précisée';1;0
+e;6427482;'état climatérique féminin';1;0
+e;6422817;'état subchronique schizophrénie résiduelle';1;0
+e;9958142;'l'état de guerre';777;0
+e;10596422;'état de malheur inéluctable';1;0
+e;11030692;'Bruxelles en état de siège';777;0
+e;11782284;'sénatus-consulte du 14 juillet 1865 sur l'état des personnes et la naturalisation en Algérie';777;0
+e;15319575;'commission internationale de l'état civil';1;0
+e;15402553;'composant d'état solide';1;0
+e;15416882;'corps d'état';1;0
+e;1833378;'état de mal';1;0
+e;1833381;'état lacunaire';1;0
+e;5565107;'état macroscopique';777;0
+e;5672335;'état immersif';777;0
+e;5670239;'état d'impression';777;0
+e;5713499;'le fait de mesurer un état détruit cet état';777;0
+e;6431291;'état hypercoagulable';1;2
+e;6425084;'état postinfectieux';1;0
+e;10587009;'état sudiste';1;0
+e;10596423;'état de malheur';1;0
+e;11056128;'état féodal mérovingien';1;0
+e;6403005;'détermination de l'état mental d'un patient dans un contexte médico-légal';1;0
+e;15848492;'corps en état de décomposition';1;0
+e;15342882;'automate d'état fini';1;0
+e;15440633;'barre d'état';1;0
+e;15319566;'bureau d'état civil';1;0
+e;15319570;'bureau de l'état civil';1;0
+e;15222439;'campagne contre la conduite en état d'ivresse';1;0
+e;15388314;'carte d'état major';1;0
+e;15309896;'chef d'état major de l'armée de l'air';1;0
+e;166147;'d'état';1;58
+e;272440;'l'état';777;50
+e;6433378;'état d'asphyxie traumatique';1;0
+e;10953480;'joueur de la saison de la Ligue canadienne de hockey avec le meilleur état d'esprit';777;0
+e;10578749;'état physiologique';1;0
+e;15523336;'appareil d'état';1;0
+e;16168680;'agent pour la résistance du papier à l'état humide';1;0
+e;1833386;'état végétatif persistant';1;0
+e;1833379;'état de mal asthmatique';1;0
+e;1838323;'état de mal épileptique partiel';1;0
+e;5921274;'état t-zéro';777;0
+e;5921264;'état de référence';777;0
+e;5920756;'équation d'état du viriel';777;0
+e;5942813;'équation d'état pvT';777;0
+e;5953047;'discours sur l'état de l'Union';777;0
+e;6441177;'état résiduel autres psychoses précoces de l'enfant précisées';1;0
+e;6432120;'état de l'apparence personnelle';1;0
+e;6424828;'état non précisé schizophrénie non précisée';1;0
+e;6298130;'lacération du cortex cérébral avec plaie intracrânienne ouverte et état de conscience non précisé';1;0
+e;11027163;'similitude d'un état de caractère';1;0
+e;11412523;'Ministres d'état';777;0
+e;12068904;'état infectieux';1;0
+e;12078224;'coups d'état';1;0
+e;12301106;'hyperthermie de l'état fiévreux';1;0
+e;12882916;'état paranoïde';1;0
+e;13091668;'état activé';1;0
+e;16194543;'L'état physiologique et émotionnel';777;0
+e;15364370;'Notre jardin était retourné à l'état sauvage.';1;0
+e;16073710;'Officier d'état civil';1;0
+e;16073865;'Possession d'état';1;0
+e;16073902;'Preuve de la cessation de l'état de besoin';1;0
+e;16074145;'Remise en état de site';1;0
+e;15334334;'Son état pourrait s'améliorer avec le traitement.';1;0
+e;15480930;'Son état s'est aggravé.';1;0
+e;15338791;'Son état s'est amélioré.';1;0
+e;16074594;'Vente en l'état futur d'achèvement';1;0
+e;15319569;'acte de l'état civil';1;0
+e;15236502;'affaire en état';1;0
+e;15345944;'affaire en état d'être jugée';1;0
+e;15347444;'agent contractuel de l'état';1;0
+e;15566955;'agent de l'état';1;0
+e;10838971;'état binational';777;0
+e;1830592;'état de compétence';1;0
+e;1833380;'état hypnoïde';1;0
+e;1833384;'état oniroïde';1;0
+e;1833385;'état septique non septicémique';1;0
+e;1833382;'état limite de l'enfant et de l'adolescent';1;0
+e;1833377;'état d'agitation';1;0
+e;1833383;'état mixte';1;0
+e;1838322;'état de mal épileptique généralisé';1;0
+e;2417766;'tiers-état';1;0
+e;5921391;'équation d'état de Redlich-Kwong';777;0
+e;6425802;'hémorragie sous-durale après traumatisme avec plaie intracrânienne ouverte et état de conscience non précisé';1;0
+e;11021322;'histoire de l'état civil en France';777;0
+e;11081647;'caractéristique de l'état de surface d'un matériau solide';1;0
+e;11081648;'caractéristique de l'état de surface';1;0
+e;11287394;'se trouver dans un état désespéré';1;0
+e;12061710;'réduction à l'état laïc';777;0
+e;12078875;'état trophique';1;0
+e;12078873;'état daté';1;0
+e;12882901;'état de mal épileptique partiel complexe';1;0
+e;12882900;'état de mal épileptique non convulsif';1;0
+e;12882905;'état de surexcitation extreme';1;0
+e;13442437;'état d'un système';1;0
+e;15395308;'Le patient est dans un état critique.';1;0
+e;16073572;'Mise en état du dossier';1;0
+e;16387551;'Mieux connaître et suivre son état';777;0
+e;4025369;'état-limite';1;0
+e;5573280;'indicateur de l'état de conscience';1;0
+e;6447086;'état actuel ou évolutif autres psychoses précoces de l'enfant précisées';1;0
+e;6444442;'état d'absences épileptiques';1;0
+e;6441578;'état de stress lié à l'emploi';1;0
+e;10998802;'évaluer l'état de fraîcheur du poisson';1;0
+e;12033435;'état de catastrophe naturelle';777;0
+e;12050029;'vérifier l'état de santé d'animaux d'élevage';1;0
+e;12050034;'évaluer l'état d'un animal';1;0
+e;12050095;'évaluer l'état d'un bâtiment';1;0
+e;12067176;'budget de fonctionnement de l'état';1;0
+e;12882888;'état catabolique';1;0
+e;12882899;'état de la tique';1;0
+e;12882885;'état anatomo-pathologique';1;0
+e;12882913;'état immunitaire contre la rubéole';1;0
+e;12882903;'état de rigidité musculaire';1;0
+e;12882919;'état schizophrénoïde transitoire';1;0
+e;12882904;'état de stress post-traumatique prolongé';1;0
+e;12882894;'état cutané de type tumeur';1;0
+e;12882912;'état hypocoagulable';1;0
+e;12882897;'état de conscience normal';1;0
+e;12882917;'état paranoïde simple';1;0
+e;12882914;'état immunitaire normal';1;0
+e;12882891;'état confusionnel d'origine toxique';1;0
+e;12882922;'état sérologique relativement au vih';1;0
+e;12882910;'état général diminué';1;0
+e;12882890;'état confusionnel aigu';1;0
+e;12882920;'état septique secondaire';1;0
+e;12882909;'état de vigilance augmenté';1;0
+e;12882887;'état asymptomatique induit';1;0
+e;12882902;'état de rigidité de l'articulation de la mâchoire';1;0
+e;12882921;'état syncopal';1;0
+e;12882915;'état mental anormal aggravé';1;0
+e;12882907;'état de transe';1;0
+e;12882923;'état épileptique de petit mal';1;0
+e;12882889;'état confus';1;0
+e;12882893;'état confusionnelle';1;0
+e;12882896;'état de confusion aigu';1;0
+e;12882918;'état pseudoleucémique';1;0
+e;12882908;'état de type fugue';1;0
+e;12882886;'état anatomopathologique';1;0
+e;12882892;'état confusionnel subaigu';1;0
+e;12882884;'état anatomo pathologique';1;0
+e;12882883;'état aggravé';1;0
+e;12882895;'état cutané pseudo-tumoral';1;0
+e;12882911;'état hyperthymique';1;0
+e;12882898;'état de fugue';1;0
+e;5892403;'Certainement éteint à l'état sauvage';777;0
+e;6451923;'état d'hypothermie';1;0
+e;11287116;'état d'infériorité';1;0
+e;6353369;'affectant la mère état ante-partum iso-immunisation rhésus';1;0
+e;12882906;'état de tension nerveuse';1;0
+e;6526725;'Évaluation de l'état des patients';1;0
+e;11590854;'état de conscience modifié';777;4
+e;11937449;'état d'urgence économique et sociale';1;0
+e;5899488;'conduite en état d'ivresse manifeste';777;0
+e;5974096;'obscurcissement de l'état de conscience';1;0
+e;6532557;'état hétérosexuel';1;0
+e;10192443;'Les razmoket à l'état sauvage';777;0
+e;11518787;'état de choc septique';1;0
+e;11576981;'état psychotique aigu';1;0
+e;5740639;'registre d'état';777;0
+e;5973214;'état hypnopompique';777;0
+e;6444419;'état d'hypercoagulabilité';1;0
+e;9950819;'état d'urgence en Inde';777;0
+e;10190426;'Sans état d'âme';777;0
+e;11002923;'serveur sans état';777;0
+e;11249649;'état de l'esprit';1;0
+e;11216125;'revenir à l'état sauvage';1;0
+e;11302805;'état frais';1;0
+e;11599564;'coup d'état du 13 mai';777;0
+e;4093291;'macro-état';1;0
+e;6526260;'termes généraux reliés à l'état mental';1;0
+e;11008212;'observateur d'état';777;0
+e;11381678;'état de transition';777;0
+e;6448824;'état d'épuisement émotionnel et physique';1;0
+e;11175074;'état lié';777;0
+e;11325977;'coup d'état de 1809 en Suède';777;0
+e;11373215;'état limite en service';777;0
+e;11373214;'état limite ultime';777;0
+e;16073343;'Juge de la mise en état';1;0
+e;6448583;'état d'assoupissement';1;0
+e;11220018;'état fermé';1;0
+e;11220019;'état ouvert';1;0
+e;11321639;'équation d'état de Murnaghan';777;0
+e;12274095;'protocole sans état';777;0
+e;13271479;'état parodontal';1;0
+e;5943329;'état de Hoyle';777;0
+e;6439160;'Échelles d'évaluation de l'état mental';1;0
+e;11160351;'état de guerre entre leurs deux pays';777;0
+e;13302235;'état carieux';1;0
+e;5553154;'état natif';777;0
+e;10158194;'changements d'état';1;0
+e;10158193;'changements d'état de la matière';1;0
+e;6526869;'fonctions générales et conditions de l'état mental';1;0
+e;6526502;'observations de l'état des patients';1;0
+e;6532632;'état homosexuel';1;0
+e;5985203;'équation d'état';777;0
+e;11022899;'passage direct d'un corps de l'état solide à l'état gazeux';1;0
+e;12769526;'Équation d'état';1;0
+e;5516908;'état du ciel';1;0
+e;5980227;'état défini';777;0
+e;5517640;'fonction d'état extensive';1;0
+e;5521116;'mesure de l'état de santé d'une population';1;0
+e;5984338;'Entreprises d'état spécialisées - Centrale nucléaire de Tchernobyl';777;0
+e;6532558;'état sexuel normal';1;0
+e;8895908;'dégradation de l'état général';1;0
+e;8900005;'Conduite sous l'empire d'un état alcoolique';777;0
+e;9001965;'à l'état de prototypes';1;0
+e;9001964;'à l'état de prototype';1;0
+e;9059572;'état athéromateux';1;0
+e;9071811;'état quasi-grabataire';1;0
+e;9071813;'état pré-grabataire';1;0
+e;9071987;'état subocclusif chronique';1;0
+e;9071985;'état sub-occlusif intestinal';1;0
+e;9071981;'état pseudo-occlusif';1;0
+e;9071983;'état sub-occlusif chronique';1;0
+e;9071991;'état subocclusif répétition';1;0
+e;9071990;'état subocclusif itératif';1;0
+e;9071980;'état occlusif intestinal';1;0
+e;9071979;'état occlusif digestif';1;0
+e;9071986;'état subocclusif';1;0
+e;9071988;'état subocclusif digestif';1;0
+e;9071982;'état sub-occlusif';1;0
+e;9071984;'état sub-occlusif digestif';1;0
+e;9071989;'état subocclusif intestinal';1;0
+e;9071978;'état occlusif';1;0
+e;9101618;'état anormal';1;0
+e;9519104;'maintenir en l'état';1;0
+e;9749550;'état psychique d'un individu';1;0
+e;11131390;'diplôme d'état';777;0
+e;11555444;'Chef du parti national dans l'état libre d'Orange 1959-1965';777;0
+e;12625445;'état de ce qui montre le dénuement';1;0
+e;12625446;'état inspirant la pitié';1;0
+e;12633762;'état de machine';1;0
+e;12663819;'en état de vol';1;0
+e;12725469;'état affectif';1;0
+e;12731217;'passage de l'état solide à l'état gazeux';1;0
+e;12731216;'passage de l'état solide à l'état liquide';1;0
+e;12728579;'en plus ou moins bon état';1;0
+e;12725796;'état léthargique';1;0
+e;12725468;'état affectif violent et passager';1;0
+e;13793400;'0-301 observations de l'état des patients';1;0
+e;13741077;'0-302-303 évaluation de l'état des patients';1;0
+e;13761314;'90 fonctions générales et conditions de l'état mental';1;0
+e;13795065;'900 termes généraux reliés à l'état mental';1;0
+e;242214;'se mettre dans tous ses états';1;52
+e;15963950;'Chef du parti national dans l'état libre d'Orange 1965-1968';777;0
+e;15306781;'Il a été ramassé pour conduite en état d'ivresse.';1;0
+e;15401653;'Ils ont été transportés à l'hôpital en état de choc.';1;0
+e;15380953;'Elle est dans un état lamentable.';1;0
+e;14610214;'Bon état de conservation';777;0
+e;14481314;'Chaleurs latentes de transition d'état';777;0
+e;14343217;'Conseil d'état';777;0
+e;15304997;'Bureau des statistiques de l'état civil';1;0
+e;15319583;'Commission internationale de l'état civil';1;0
+e;15475009;'L'état de l'écosystème forestier';777;0
+e;15573133;'L'économie est maintenant dans un sale état.';1;0
+e;15963948;'Chef du parti national dans l'état libre d'Orange';777;0
+e;16071989;'Acte d'état civil';1;0
+e;16072192;'Atteinte à l'état civil des personnes';1;0
+e;16072266;'Bien en état d'abandon';1;0
+e;16072384;'Charge de la preuve de l'état de surendettement';1;0
+e;16072514;'Conduite en état d'ivresse';1;0
+e;16072892;'Délaissement de personne hors d'état de se protéger';1;0
+e;461102;'théorie de l'état quasi stationnaire';777;50
+e;592770;'diminution de l'état général';1;0
+e;661730;'trouble d'état général';1;0
+e;1782939;'remis en état';1;12
+e;1839201;'état de mort apparente du nouveau-né';1;0
+e;2353146;'décréter l'état d'urgence';1;0
+e;3356388;'état morbide';1;0
+e;4332422;'état de New York';1;0
+e;1095573;'état islamique en Irak';777;0
+e;1704276;'laisser en l'état';1;0
+e;1852189;'sexe d'état civil';1;0
+e;2536753;'état de collection';1;0
+e;3178354;'état d'obéissance';1;0
+e;3246566;'état moral';1;0
+e;462717;'état d'agitation aigu';777;50
+e;590624;'état intact';1;0
+e;1095572;'état islamique';777;4
+e;1681531;'enthalpie de changement d'état';777;2
+e;1736620;'bureau d'état-civil';1;0
+e;1841793;'état poïkilodermique';1;0
+e;3321607;'"L'état de l'insécurité alimentaire dans le monde"';1;0
+e;4339416;'entropie de changement d'état';777;0
+e;5335054;'personne en état de légitime défense';1;0
+e;566950;'état plasma';777;50
+e;1658360;'état islamique au Levant';777;0
+e;3172065;'sûreté de l'état';1;0
+e;3178134;'état d'oxydation';1;0
+e;3675726;'état anxieux';1;0
+e;566555;'Chef d'état-major des armées';777;50
+e;567218;'état autre que le vrai ou le faux';777;50
+e;567369;'état dispersé';777;50
+e;1920413;'état de la mer';1;0
+e;3225335;'hors d'état de répondre';1;0
+e;567370;'état fractionné';777;50
+e;1364689;'état de ce qui est sale';1;0
+e;1394644;'être en état de légitime défense';1;0
+e;1658359;'état islamique en Irak et au Levant';777;0
+e;1729268;'état catatonique';1;0
+e;1755095;'état médical';1;0
+e;1765571;'état indifférencié';1;0
+e;1841161;'période d'état';1;0
+e;3343252;'tenu en état';1;0
+e;3344329;'détérioration de l'état de conscience';1;0
+e;4937685;'équation d'état de van der Waals';1;0
+e;6450453;'état paranoïaque d'involution';1;0
+e;567368;'état polyphasique';777;50
+e;1646521;'état hypnagogique';777;12
+e;2580778;'état de conscience minimal';777;0
+e;2927799;'état enchevêtré';777;0
+e;3169555;'état de marche';1;10
+e;3289305;'état d'hypoxie';1;0
+e;3344330;'état standard';1;0
+e;4313242;'état de Chu';777;0
+e;5517641;'fonction d'état';1;0
+e;146873;'Etats-Unis';1;322
+e;396524;'chevaux retournés à l'état sauvage';1;50
+e;2352413;'état d'urgence absolue';1;0
+e;2356737;'rester en état d'alerte';1;0
+e;2604382;'tous corps d'état';1;0
+e;3336424;'état de pureté';1;0
+e;1802932;'état modifié de conscience';777;4
+e;1969971;'bon état de fraicheur';1;0
+e;2546811;'état corporel';1;0
+e;3170206;'état d'alerte maximale';1;0
+e;3229663;'Validation du diplôme d'état';777;0
+e;3675016;'état mental morbide';1;0
+e;4339415;'chaleur latente de changement d'état';777;0
+e;1526046;'conduire en état d'ivresse';1;30
+e;1626817;'thèse d'état';1;0
+e;1690309;'état foetal non rassurant';777;0
+e;1752499;'état médical lié à l'obésité';1;0
+e;1800974;'état d'apathie';1;0
+e;1851219;'état métastable';1;0
+e;1866007;'altération de l'état de conscience';1;0
+e;3561222;'Éteint à l'état sauvage';777;0
+e;4305680;'état de prostration';1;0
+e;1818522;'état anxieux aigu';1;0
+e;1818520;'état prénéoplasique';1;0
+e;1863557;'état confusionnel';777;0
+e;1848907;'état de mal angineux';1;0
+e;2952519;'état douloureux';1;0
+e;1815686;'état précancéreux';1;0
+e;2982378;'se trouver dans un état grave';1;0
+e;1842514;'état pseudopeladique';1;0
+e;1901443;'état d'ébriété avancé';1;0
+e;198292;'dans tous ses états';1;56
+e;390424;'état récapitulatif';1;50
+e;390410;'état accréditant';1;50
+e;390383;'état estimatif';1;50
+e;390379;'état de maison';1;50
+e;390378;'état de lieux';1;50
+e;390363;'état d'épuisement';1;50
+e;390351;'état alarmant';1;50
+e;363716;'mauvais état général';1;50
+e;351690;'en état de siège';1;50
+e;351687;'en état d'urgence';1;50
+e;351055;'en piètre état';1;50
+e;351000;'en parfait état de conservation';1;50
+e;346510;'dans un bon état';1;50
+e;390403;'état pétrolier';1;50
+e;390375;'état de faiblesse';1;50
+e;390362;'état d'innocence';1;50
+e;390355;'état cataleptique';1;50
+e;365823;'médecin d'état-civil';1;50
+e;350636;'en excellent état de conservation';1;50
+e;350206;'en bon état de marche';1;50
+e;346551;'dans un piteux état';1;50
+e;390428;'état épileptique';1;50
+e;390426;'état smectique';1;50
+e;390422;'état puerpéral';1;50
+e;390391;'état isomérique';1;50
+e;390369;'état de conservation';1;50
+e;390364;'état de catalepsie';1;50
+e;390358;'état condensé de la matière';1;50
+e;388463;'à l'état d'ébauche';1;50
+e;357558;'haut état-major';1;50
+e;346525;'dans un drôle d'état';1;50
+e;343351;'chef d'état-major';1;52
+e;340582;'bulletin d'état civil';1;50
+e;393577;'état de désorganisation totale';1;50
+e;390427;'état virtuel';1;50
+e;390421;'état protégé';1;50
+e;390417;'état foetal';1;50
+e;390413;'état de charge';1;50
+e;390404;'état quantique';1;52
+e;390400;'état providence';1;50
+e;390395;'état nauséeux';1;50
+e;390385;'état frère';1;50
+e;390384;'état frontalier';1;50
+e;390377;'état de fossile';1;50
+e;390376;'état de fatigue';1;50
+e;390367;'état de coma';1;50
+e;390366;'état de chose';1;50
+e;390352;'état alcoolique';1;50
+e;388466;'à l'état latent';1;50
+e;388465;'à l'état de traces dans';1;50
+e;381557;'substantif d'état';1;50
+e;351689;'en état de grâce';1;50
+e;350999;'en parfait état';1;50
+e;350837;'en l'état actuel de';1;50
+e;348831;'déclaration à l'état civil';1;50
+e;346565;'dans un triste état';1;50
+e;344598;'coup d'état fasciste';1;50
+e;390420;'état paraplégique';1;50
+e;390398;'état physique';1;50
+e;390390;'état impartial';1;50
+e;390387;'état grave';1;50
+e;390382;'état désespéré';1;50
+e;390380;'état de paiement';1;50
+e;390365;'état de charme';1;50
+e;390361;'état d'identité';1;50
+e;390360;'état d'excitation';1;50
+e;388464;'à l'état de projet';1;50
+e;388461;'à l'état brut';1;50
+e;379450;'service d'état';1;50
+e;369024;'pas en état de nuire';1;50
+e;358027;'hors d'état de faire quoi que ce soit';1;50
+e;351686;'en état d'alerte maximum';1;50
+e;346569;'dans un état avancé de décomposition';1;50
+e;346544;'dans un mauvais état';1;50
+e;346165;'dans l'état présent des connaissances';1;50
+e;390419;'état mécanique';1;50
+e;390418;'état microscopique';1;50
+e;390407;'état typhoïde';1;50
+e;390397;'état patron';1;50
+e;390373;'état de démence';1;50
+e;351688;'en état de grossesse';1;50
+e;350840;'en l'état de';1;50
+e;350839;'en l'état actuel des connaissances';1;50
+e;350836;'en l'état actuel';1;50
+e;350205;'en bon état de conservation';1;50
+e;346570;'dans un état intéressant';1;50
+e;393039;'Mensonges d'état';1;50
+e;330881;'état-parti';1;50
+e;390425;'état scientifique';1;50
+e;390423;'état quantique libre';1;50
+e;390414;'état de latence condescendante';1;50
+e;390412;'état d'ébriété';1;96
+e;390408;'état vitreux';1;50
+e;390406;'état statistique';1;50
+e;390402;'état psychique';1;50
+e;390401;'état présent';1;50
+e;390399;'état primitif';1;50
+e;390394;'état mésomorphe';1;50
+e;390386;'état grabataire';1;50
+e;390374;'état de dépendance économique';1;50
+e;390372;'état de dégradation';1;50
+e;390359;'état cristallisé';1;50
+e;388469;'à l'état sauvage';1;50
+e;388467;'à l'état poudreux';1;50
+e;353929;'fiche d'état civil';1;50
+e;341783;'carte d'état-major';1;50
+e;390416;'état déficitaire';1;50
+e;390396;'état paroxystique';1;50
+e;390389;'état hypnotique';1;52
+e;390388;'état hygrométrique';1;50
+e;390368;'état de comptes';1;50
+e;390357;'état comparatif';1;50
+e;390356;'état comitial';1;50
+e;353942;'fiche individuelle d'état-civil';1;50
+e;351577;'en triste état';1;50
+e;351053;'en piteux état';1;50
+e;390415;'état de rêve';1;50
+e;390405;'état sanitaire';1;50
+e;390393;'état minimum';1;50
+e;390370;'état de crise';1;50
+e;390350;'état accréditaire';1;50
+e;388468;'à l'état pâteux';1;50
+e;350838;'en l'état actuel des choses';1;50
+e;350635;'en excellent état';1;50
+e;346552;'dans un piètre état';1;50
+e;390409;'état-major de crise';1;50
+e;390392;'état libre';1;50
+e;390381;'état de services';1;50
+e;390371;'état de défense';1;50
+e;390354;'état atomique';1;50
+e;390353;'état amorphe';1;52
+e;388462;'à l'état chronique';1;50
+e;351001;'en parfait état de marche';1;50
+e;346547;'dans un parfait état';1;50
+e;330922;'en état de choc';1;56
+e;32926;'Tiers-état';1;52
+e;191889;'état-nation';1;50
+e;161276;'état-civil';1;54
+e;330817;'registre d'état-civil';1;50
+e;54061;'état-major';1;68
+e;325238;'état clinique';1;52
+e;318545;'dans un état critique';1;52
+e;318749;'état stable';1;54
+e;320725;'état de mal épileptique';1;50
+e;320765;'à l'état naturel';1;50
+e;323194;'écho de gradient avec état d'équilibre et gradients équilibrés';1;50
+e;324848;'conserver dans le même état';1;50
+e;329993;'en état de décomposition';1;54
+e;329992;'état de décomposition';1;6
+e;329991;'état de décomposition avancée';1;50
+e;329990;'en état de décomposition avancée';1;50
+e;330027;'état critique';1;54
+e;243822;'à l'état pur';1;50
+e;259509;'fonction publique d'état';1;6
+e;210145;'à l'état';1;50
+e;210146;'à l'état naissant';1;50
+e;233897;'officier d'état civil';1;50
+e;254140;'secret d'état';1;4
+e;256808;'changement d'état de la matière';1;50
+e;256809;'changement d'état';1;58
+e;307535;'L'état crépusculaire';777;50
+e;316585;'état construit';1;50
+e;140618;'à l'état de nature';1;50
+e;142489;'être hors d'état de';1;50
+e;166593;'homme d'état athénien';1;50
+e;210269;'avoir de l'état';1;50
+e;210473;'chef d'état major';1;50
+e;210590;'dans l'état actuel des choses';1;50
+e;210591;'dans l'état de nature';1;50
+e;210928;'grâce d'état';1;50
+e;210956;'hors d'état de';1;50
+e;211223;'médecin d'état civil';1;50
+e;211244;'mettre hors d'état de nuire';1;50
+e;211675;'réclamation d'état';1;50
+e;211683;'remettre en l'état';1;50
+e;211699;'rester en l'état';1;50
+e;269540;'à l'état solide';1;50
+e;269541;'à l'état liquide';1;50
+e;269542;'à l'état gazeux';1;50
+e;269544;'à l'état de';1;50
+e;141349;'Tableau de l'état physique et moral des ouvriers dans les fabriques de coton, de laine et de soie';1;50
+e;142940;'affaires de l'état';1;50
+e;143993;'verbe d'état';1;52
+e;144582;'Homme d'état';1;50
+e;145460;'diagramme d'état';1;50
+e;154258;'secrétaire d'état';1;72
+e;155175;'religion d'état';1;56
+e;176889;'conseil d'état';1;2
+e;180772;'action d'état';1;50
+e;210957;'hors d'état de nuire';1;50
+e;264426;'officier d'état-civil';1;50
+e;269082;'emprunt d'état';1;50
+e;269539;'faire l'état des lieux';1;72
+e;269545;'hors d'état';1;50
+e;281973;'représentation d'état';777;50
+e;281974;'variables d'état';777;50
+e;287498;'théorie de l'état stationnaire';777;50
+e;287500;'théorie de l'état quasi-stationnaire';777;50
+e;293452;'éteint à l'état sauvage';777;50
+e;308789;'officier d'état civil en France';777;50
+e;316047;'altération de l'état général';1;50
+e;315843;'écho de gradient avec état d'équilibre';1;50
+e;137626;'choses de l'état';1;50
+e;137892;'socialisme d'état';1;50
+e;138531;'homme d'état';1;86
+e;138734;'Comité des chefs d'état-major';1;50
+e;139169;'grands corps de l'état';1;50
+e;311676;'changement de l'état électronique des molécules';777;50
+e;191693;'ministre d'état';1;58
+e;316846;'état septique';1;4
+e;66318;'en état de';1;50
+e;162123;'le corps et son état';1;50
+e;166903;'état brut';1;50
+e;166904;'état cristallin';1;50
+e;166905;'état initial';1;50
+e;166906;'état normal';1;54
+e;210726;'en état d'alerte';1;50
+e;217878;'conduite en état d'ivresse';1;166
+e;222279;'état grippal';1;62
+e;228985;'état végétatif';1;24
+e;229436;'état américain';1;4
+e;237248;'état limite';1;2
+e;238917;'en état de marche';1;2
+e;239477;'maintenir en état';1;6
+e;242370;'Tiers état';1;56
+e;256122;'état émotionnel';1;50
+e;259028;'état dépressif';1;80
+e;262538;'en mauvais état';1;6
+e;46591;'en état de guerre';1;50
+e;65907;'mettre en état';1;50
+e;70414;'être en état de';1;50
+e;97274;'se mettre en état';1;50
+e;106334;'état social';1;50
+e;208899;'tenir état';1;50
+e;210727;'en état d'arrestation';1;50
+e;215785;'état de plénitude';1;50
+e;234912;'état sauvage';1;70
+e;267090;'en état de mort cérébrale';1;16
+e;267120;'être en état de mort cérébrale';1;50
+e;267278;'en état de légitime défense';1;2
+e;269538;'en état d'ébriété';1;50
+e;269546;'être dans un état second';1;50
+e;271849;'né dans un autre état de l'UE 27';777;50
+e;32900;'état de choc';1;66
+e;35191;'état théologique';1;50
+e;68605;'état religieux';1;50
+e;77198;'état de langue';1;50
+e;83205;'remise en état';1;76
+e;86386;'faire état';1;50
+e;87137;'état de choses';1;50
+e;94664;'état des choses';1;50
+e;98256;'c2:le corps et son état';5;50
+e;113727;'état liquide';1;60
+e;122926;'état de nature';1;54
+e;140401;'état fédéral';1;50
+e;140985;'état d'esprit';1;98
+e;164612;'état solide';1;50
+e;175065;'tiers état';1;6
+e;177505;'état de non-conformiste';1;50
+e;182348;'état excité';1;50
+e;182349;'état fondamental';1;2
+e;182350;'état intéressant';1;50
+e;182351;'état latent';1;50
+e;210765;'état d'âme';1;50
+e;267039;'état pré-cancéreux';1;50
+e;267092;'état de mort cérébrale';1;6
+e;267471;'état policier';1;54
+e;269533;'état de dépendance';1;50
+e;269534;'état naturel';1;50
+e;269535;'état psychologique';1;52
+e;269536;'état pathologique';1;52
+e;269537;'état mental';1;12
+e;269547;'bon état général';1;50
+e;278795;'état intriqué';777;50
+e;284868;'état quantique fondamental';1;50
+e;285017;'état de surface';777;50
+e;290043;'état transitoire';777;50
+e;294116;'état nématique';777;50
+e;300527;'état de stase';777;50
+e;307913;'conduite sous l'empire d'un état alcoolique';777;50
+e;308526;'état d'agitation aiguë';777;50
+e;24862;'état hypercritique';1;50
+e;24994;'état ecclésiastique';1;50
+e;26675;'tenir en état';1;50
+e;158683;'état gazeux';1;52
+e;182352;'état stationnaire';1;50
+e;190652;'achat en état futur d'achèvement';1;50
+e;190798;'vente en état futur d'achèvement';1;50
+e;199245;'en état';1;50
+e;199246;'en état de manque';1;50
+e;199936;'être dans un état désespéré';1;50
+e;199937;'être dans un état intéressant';1;50
+e;199938;'être dans un triste état';1;50
+e;199995;'être en état de guerre';1;50
+e;266488;'état d'équilibre';1;50
+e;311900;'état de stress post-traumatique';777;50
+e;186822;'remettre en état';1;6
+e;198296;'dans un état désespéré';1;50
+e;198917;'dresser un état de';1;50
+e;199091;'embrasser un état';1;50
+e;199772;'état adulte';1;50
+e;199773;'état agentique';1;50
+e;199774;'état comateux';1;62
+e;199775;'état conjectural';1;50
+e;199776;'état crépusculaire';1;50
+e;199777;'état de cause';1;50
+e;199778;'état de conscience';1;54
+e;199781;'état de la matière';1;50
+e;199782;'état de nécessité';1;50
+e;199783;'état de prémunition';1;50
+e;199784;'état de qualité';1;50
+e;199785;'état de santé';1;60
+e;199786;'état de saturation';1;50
+e;199787;'état de veille';1;50
+e;199788;'état définitif';1;50
+e;199789;'état des personnes';1;50
+e;199792;'état nymphal';1;50
+e;200442;'faire état que';1;50
+e;199790;'état fébrile';1;52
+e;199793;'état second';1;66
+e;200441;'faire état de';1;50
+e;7833;'état de manque';1;58
+e;10658;'dans un état';1;50
+e;69424;'en tout état de cause';1;52
+e;265644;'en bon état';1;8
+e;155280;'état de siège';1;52
+e;199779;'état de fait';1;66
+e;199780;'état de grâce';1;60
+e;199791;'état général';1;54
+e;166448;'sale état';1;50
+e;182347;'état de l'art';1;12
+e;72841;'état de guerre';1;56
+e;210731;'en l'état';1;62
+e;137468;'coup d'état';1;126
+e;9593;'état civil';1;114
+e;226199;'bon état';1;16
+e;166063;'état des lieux';1;96
+e;109308;'état de droit';1;64
+e;166449;'mauvais état';1;70
+e;269532;'état d'urgence';1;158
+e;137263;'chef d'état';1;148
+r;8557505;137183;40526;11;19
+r;292260457;137183;6363408;11;25
+r;295415061;137183;5921265;11;25
+r;298417562;137183;6290342;11;25
+r;299593489;137183;6311912;11;25
+r;301685789;137183;6347494;11;25
+r;301757055;137183;6353907;11;25
+r;302185591;137183;6365351;11;25
+r;303174927;137183;6373568;11;25
+r;305308741;137183;6405710;11;25
+r;305475756;137183;6411473;11;25
+r;310769885;137183;6391169;11;25
+r;310769949;137183;6350860;11;25
+r;316563774;137183;12194591;11;25
+r;316728552;137183;12149112;11;25
+r;319083594;137183;6394427;11;25
+r;364422108;137183;14318840;11;25
+r;349161593;137183;6401334;11;25
+r;349164591;137183;6362393;11;25
+r;349167550;137183;6337559;11;25
+r;349263076;137183;6339548;11;25
+r;349269669;137183;6372079;11;25
+r;349271161;137183;6371565;11;25
+r;349314484;137183;6333647;11;25
+r;349990749;137183;13823340;11;25
+r;350341191;137183;13865657;11;25
+r;352195419;137183;13986227;11;25
+r;352394736;137183;13990128;11;25
+r;354134915;137183;14015244;11;25
+r;354331264;137183;14030728;11;25
+r;356571404;137183;14094109;11;25
+r;356711838;137183;6405162;11;25
+r;359718728;137183;14159843;11;25
+r;361343854;137183;14242034;11;25
+r;364788805;137183;14346713;11;25
+r;364893095;137183;14355625;11;25
+r;365371621;137183;14387611;11;25
+r;366479317;137183;14431698;11;25
+r;366519573;137183;14432551;11;25
+r;366857103;137183;14452354;11;25
+r;366857492;137183;14452359;11;25
+r;366857600;137183;14452394;11;25
+r;366860937;137183;14452424;11;25
+r;366863676;137183;14452572;11;25
+r;366865364;137183;14452467;11;25
+r;366866094;137183;14452371;11;25
+r;366875337;137183;14452831;11;25
+r;366890462;137183;14453168;11;25
+r;366891411;137183;14453167;11;25
+r;366892020;137183;14453176;11;25
+r;366893789;137183;14453163;11;25
+r;366893810;137183;14452956;11;25
+r;366893935;137183;14452939;11;25
+r;366894870;137183;14453166;11;25
+r;366895178;137183;14453275;11;25
+r;366895483;137183;14453270;11;25
+r;366896692;137183;14453256;11;25
+r;366896883;137183;14453155;11;25
+r;366897166;137183;14453289;11;25
+r;366897233;137183;14453173;11;25
+r;366897382;137183;14453307;11;25
+r;366897579;137183;14453331;11;25
+r;366898193;137183;14453279;11;25
+r;366898236;137183;14453346;11;25
+r;366898330;137183;14453187;11;25
+r;366898362;137183;14453322;11;25
+r;366898730;137183;14453291;11;25
+r;366899571;137183;14453347;11;25
+r;366900493;137183;14453334;11;25
+r;366900574;137183;14453324;11;25
+r;366901696;137183;14453348;11;25
+r;366901726;137183;14453345;11;25
+r;366901760;137183;14453416;11;25
+r;366903787;137183;14453410;11;25
+r;366906073;137183;14453344;11;25
+r;366906434;137183;14462820;11;25
+r;366907853;137183;14453321;11;25
+r;366909036;137183;14453323;11;25
+r;366909374;137183;14453314;11;25
+r;366911389;137183;14453302;11;25
+r;366961461;137183;14454878;11;25
+r;366962128;137183;14454889;11;25
+r;366962175;137183;14454851;11;25
+r;366962189;137183;14454845;11;25
+r;366962257;137183;14454893;11;25
+r;366962304;137183;14454846;11;25
+r;366962481;137183;14454841;11;25
+r;366962714;137183;14454886;11;25
+r;366962729;137183;14454883;11;25
+r;366962864;137183;14454849;11;25
+r;366962901;137183;14454850;11;25
+r;366963043;137183;14454884;11;25
+r;366963182;137183;14454892;11;25
+r;366963907;137183;14454842;11;25
+r;368226190;137183;14489022;11;25
+r;369735856;137183;14547481;11;25
+r;369909177;137183;14558132;11;25
+r;369909248;137183;14558133;11;25
+r;370328562;137183;14572068;11;25
+r;371225192;137183;14609091;11;25
+r;371556809;137183;14627825;11;25
+r;371592081;137183;14629030;11;25
+r;371592486;137183;14629112;11;25
+r;371747604;137183;14635562;11;25
+r;373177322;137183;14678312;11;25
+r;372938295;137183;14668545;11;25
+r;400612732;137183;6381936;11;25
+r;399503624;137183;6332294;11;25
+r;400796421;137183;6392006;11;25
+r;400608275;137183;6379933;11;25
+r;400785356;137183;6390472;11;25
+r;400746014;137183;6386116;11;25
+r;400609580;137183;6380196;11;25
+r;399499381;137183;6329470;11;25
+r;400876189;137183;6405013;11;25
+r;400834676;137183;6400460;11;25
+r;400835442;137183;6401407;11;25
+r;400853915;137183;6402792;11;25
+r;400987235;137183;6408576;11;25
+r;392306291;137183;15018435;11;25
+r;396192386;137183;6284749;11;25
+r;396194634;137183;6285642;11;25
+r;397528332;137183;6300531;11;25
+r;397532726;137183;6300641;11;25
+r;398138287;137183;6307530;11;25
+r;398412050;137183;6311306;11;25
+r;398429106;137183;6314460;11;25
+r;398432496;137183;6315718;11;25
+r;399118677;137183;6323119;11;25
+r;399490829;137183;6327324;11;25
+r;399957249;137183;6345138;11;25
+r;399985005;137183;6349103;11;25
+r;399993412;137183;6350247;11;25
+r;400008860;137183;6352102;11;25
+r;400046641;137183;6355403;11;25
+r;400065261;137183;6356009;11;25
+r;400655547;137183;6382831;11;25
+r;402054838;137183;6421475;11;25
+r;419170212;137183;12989720;11;25
+r;419191533;137183;12989721;11;25
+r;424856720;137183;16173379;11;25
+r;425073821;137183;16180480;11;25
+r;425093680;137183;16180479;11;25
+r;425093769;137183;16180481;11;25
+r;427025405;137183;16279146;11;25
+r;428701072;137183;16313152;11;25
+r;431645667;137183;16330333;11;25
+r;434996225;137183;16558765;11;25
+r;122737468;137183;6424615;11;26
+r;298451856;137183;6291305;11;26
+r;300195788;137183;6326114;11;26
+r;300962769;137183;6331243;11;26
+r;301470056;137183;6340832;11;26
+r;302148351;137183;6363311;11;26
+r;303465908;137183;6374418;11;26
+r;304556617;137183;6389502;11;26
+r;305459771;137183;6409021;11;26
+r;310769924;137183;6384039;11;26
+r;310770048;137183;6393356;11;26
+r;349148908;137183;6357226;11;26
+r;349154379;137183;6416639;11;26
+r;349154509;137183;6386626;11;26
+r;349154802;137183;6338413;11;26
+r;349155911;137183;6330070;11;26
+r;349156323;137183;6389799;11;26
+r;349156466;137183;6376490;11;26
+r;349158351;137183;6363528;11;26
+r;349159566;137183;6304817;11;26
+r;349161338;137183;6377451;11;26
+r;349162426;137183;6367232;11;26
+r;349167065;137183;6340579;11;26
+r;349167964;137183;6360580;11;26
+r;349168499;137183;6348785;11;26
+r;349175860;137183;6307887;11;26
+r;349208520;137183;6308305;11;26
+r;349212764;137183;6365680;11;26
+r;349222345;137183;6316859;11;26
+r;349226495;137183;6373020;11;26
+r;349226581;137183;6320899;11;26
+r;349227862;137183;6417422;11;26
+r;349228169;137183;6368788;11;26
+r;349228220;137183;6381118;11;26
+r;349228891;137183;6299737;11;26
+r;349230868;137183;6352230;11;26
+r;349233556;137183;6344354;11;26
+r;349235226;137183;6366536;11;26
+r;349236110;137183;6291034;11;26
+r;349240379;137183;6348693;11;26
+r;349242527;137183;6394272;11;26
+r;349244782;137183;6334442;11;26
+r;349249901;137183;6284820;11;26
+r;349250387;137183;6355763;11;26
+r;349251023;137183;6391209;11;26
+r;349251243;137183;6404816;11;26
+r;349254335;137183;6352615;11;26
+r;349262667;137183;6292819;11;26
+r;349263232;137183;6337488;11;26
+r;349284688;137183;6300757;11;26
+r;349315242;137183;6375918;11;26
+r;354397819;137183;6327999;11;26
+r;355786712;137183;6404703;11;26
+r;356352449;137183;6363241;11;26
+r;356730293;137183;6305473;11;26
+r;401026290;137183;6410383;11;26
+r;361343879;137183;14242035;11;26
+r;368324935;137183;14502835;11;26
+r;369448238;137183;14538251;11;26
+r;369891099;137183;14557709;11;26
+r;369968842;137183;14561260;11;26
+r;370452686;137183;14580326;11;26
+r;370569841;137183;14584333;11;26
+r;371816141;137183;14637171;11;26
+r;371816271;137183;14637172;11;26
+r;371816336;137183;14637176;11;26
+r;371816440;137183;14637174;11;26
+r;371816520;137183;14637173;11;26
+r;374051415;137183;14716952;11;26
+r;374342147;137183;14724045;11;26
+r;375035258;137183;14753174;11;26
+r;375097991;137183;14755615;11;26
+r;375149597;137183;14757594;11;26
+r;375534921;137183;14777403;11;26
+r;385040066;137183;14874926;11;26
+r;112661141;137183;5777005;11;27
+r;122688729;137183;6430921;11;27
+r;298456455;137183;6290416;11;27
+r;299580025;137183;6309606;11;27
+r;299780671;137183;6317127;11;27
+r;301511252;137183;6343904;11;27
+r;302973730;137183;6369349;11;27
+r;303190435;137183;6373822;11;27
+r;304384930;137183;6385816;11;27
+r;304601221;137183;6390710;11;27
+r;305056454;137183;6397854;11;27
+r;305616687;137183;6414209;11;27
+r;310769961;137183;6381681;11;27
+r;315608466;137183;12095964;11;27
+r;343073305;137183;13540917;11;27
+r;343073361;137183;13540928;11;27
+r;343074009;137183;13540929;11;27
+r;349230161;137183;6358417;11;27
+r;303598777;137183;6375545;11;28
+r;342909641;137183;13536492;11;28
+r;121534568;137183;6439273;11;29
+r;121563823;137183;6435999;11;29
+r;122662900;137183;6433877;11;29
+r;122666162;137183;6433517;11;29
+r;266724307;137183;10618173;11;29
+r;277394819;137183;10987445;11;29
+r;315496578;137183;12108272;11;29
+r;337339548;137183;13034142;11;29
+r;434387933;137183;16242803;11;29
+r;34656177;137183;31388;11;30
+r;122691677;137183;6430536;11;30
+r;122692564;137183;6430419;11;30
+r;122694562;137183;6430161;11;30
+r;122703138;137183;6429041;11;30
+r;122707953;137183;6428426;11;30
+r;122750783;137183;6422915;11;30
+r;122751731;137183;6422789;11;30
+r;280286589;137183;11056129;11;30
+r;280290658;137183;11030691;11;30
+r;280290664;137183;11030690;11;30
+r;302057258;137183;11772999;11;30
+r;419763056;137183;15522927;11;30
+r;419763060;137183;16071657;11;30
+r;419764540;137183;16032167;11;30
+r;419764694;137183;15573131;11;30
+r;419764732;137183;15335137;11;30
+r;419764738;137183;15395221;11;30
+r;419764746;137183;15360555;11;30
+r;419764752;137183;15316826;11;30
+r;419764758;137183;15531469;11;30
+r;419764766;137183;15531467;11;30
+r;419770156;137183;15440642;11;30
+r;419783667;137183;15523785;11;30
+r;419798694;137183;15485816;11;30
+r;419799377;137183;15440646;11;30
+r;419814556;137183;15782780;11;30
+r;419828867;137183;15904066;11;30
+r;419832188;137183;15782783;11;30
+r;419836928;137183;15316824;11;30
+r;419837626;137183;15574792;11;30
+r;419844398;137183;15542322;11;30
+r;419844404;137183;15257508;11;30
+r;419844412;137183;15222435;11;30
+r;419844422;137183;15496652;11;30
+r;419844430;137183;15401650;11;30
+r;419844438;137183;15401644;11;30
+r;419844446;137183;15546120;11;30
+r;419844454;137183;15401648;11;30
+r;419844462;137183;15496647;11;30
+r;419844474;137183;15440653;11;30
+r;419844482;137183;15496645;11;30
+r;427555169;137183;16297945;11;30
+r;433602568;137183;16437557;11;30
+r;55527170;137183;2452717;11;31
+r;110593012;137183;5574182;11;31
+r;111461859;137183;5679305;11;31
+r;122664601;137183;6433691;11;31
+r;122715268;137183;6427482;11;31
+r;122751542;137183;6422817;11;31
+r;220807610;137183;9958142;11;31
+r;264229622;137183;10596422;11;31
+r;279603029;137183;11030692;11;31
+r;303728732;137183;11782284;11;31
+r;419723161;137183;15319575;11;31
+r;419725614;137183;15402553;11;31
+r;419741082;137183;15416882;11;31
+r;29979278;137183;1833378;11;32
+r;29980092;137183;1833381;11;32
+r;110204449;137183;5565107;11;32
+r;111339505;137183;5672335;11;32
+r;111345174;137183;5670239;11;32
+r;112173930;137183;5713499;11;32
+r;122685823;137183;6431291;11;32
+r;122733817;137183;6425084;11;32
+r;263738677;137183;10587009;11;32
+r;264215944;137183;10596423;11;32
+r;280011325;137183;11056128;11;32
+r;305270267;137183;6403005;11;32
+r;413320228;137183;15848492;11;32
+r;419623226;137183;15342882;11;32
+r;419647245;137183;15440633;11;32
+r;419667334;137183;15319566;11;32
+r;419667378;137183;15319570;11;32
+r;419677875;137183;15222439;11;32
+r;419687379;137183;15388314;11;32
+r;419704236;137183;15309896;11;32
+r;15750754;137183;166147;11;33
+r;16148951;137183;272440;11;33
+r;122667390;137183;6433378;11;33
+r;275825615;137183;10953480;11;33
+r;263463955;137183;10578749;11;33
+r;419601782;137183;15523336;11;33
+r;434369332;137183;16168680;11;33
+r;29978530;137183;1833386;11;34
+r;29979045;137183;1833379;11;34
+r;30025384;137183;1838323;11;34
+r;115840707;137183;5921274;11;34
+r;115840711;137183;5921264;11;34
+r;115841827;137183;5920756;11;34
+r;116311981;137183;5942813;11;34
+r;116588769;137183;5953047;11;34
+r;121517432;137183;6441177;11;34
+r;122678752;137183;6432120;11;34
+r;122735898;137183;6424828;11;34
+r;126103373;137183;6298130;11;34
+r;279328854;137183;11027163;11;34
+r;293574332;137183;11412523;11;34
+r;314233496;137183;12068904;11;34
+r;315124438;137183;12078224;11;34
+r;319706757;137183;12301106;11;34
+r;330763024;137183;12882916;11;34
+r;335029191;137183;13091668;11;34
+r;434347425;137183;16194543;11;34
+r;419513841;137183;15364370;11;34
+r;419517751;137183;16073710;11;34
+r;419527109;137183;16073865;11;34
+r;419527932;137183;16073902;11;34
+r;419534043;137183;16074145;11;34
+r;419547486;137183;15334334;11;34
+r;419547496;137183;15480930;11;34
+r;419547502;137183;15338791;11;34
+r;419560070;137183;16074594;11;34
+r;419574211;137183;15319569;11;34
+r;419579285;137183;15236502;11;34
+r;419579290;137183;15345944;11;34
+r;419581341;137183;15347444;11;34
+r;419581456;137183;15566955;11;34
+r;271602304;137183;10838971;11;35
+r;29951083;137183;1830592;11;35
+r;29977908;137183;1833380;11;35
+r;29978070;137183;1833384;11;35
+r;29978360;137183;1833385;11;35
+r;29978487;137183;1833382;11;35
+r;29980011;137183;1833377;11;35
+r;29980684;137183;1833383;11;35
+r;30026416;137183;1838322;11;35
+r;54410578;137183;2417766;11;35
+r;115840558;137183;5921391;11;35
+r;122728236;137183;6425802;11;35
+r;279197037;137183;11021322;11;35
+r;281102355;137183;11081647;11;35
+r;281121559;137183;11081648;11;35
+r;289904599;137183;11287394;11;35
+r;313939042;137183;12061710;11;35
+r;315120963;137183;12078875;11;35
+r;315120972;137183;12078873;11;35
+r;329899320;137183;12882901;11;35
+r;329899434;137183;12882900;11;35
+r;329900428;137183;12882905;11;35
+r;341025220;137183;13442437;11;35
+r;419492933;137183;15395308;11;35
+r;419508337;137183;16073572;11;35
+r;432896775;137183;16387551;11;35
+r;95816592;137183;4025369;11;36
+r;110262911;137183;5573280;11;36
+r;121464504;137183;6447086;11;36
+r;121488089;137183;6444442;11;36
+r;121513882;137183;6441578;11;36
+r;278148495;137183;10998802;11;36
+r;313416155;137183;12033435;11;36
+r;313686193;137183;12050029;11;36
+r;313686419;137183;12050034;11;36
+r;313691334;137183;12050095;11;36
+r;313973037;137183;12067176;11;36
+r;329898905;137183;12882888;11;36
+r;329898916;137183;12882899;11;36
+r;329898928;137183;12882885;11;36
+r;329898939;137183;12882913;11;36
+r;329898957;137183;12882903;11;36
+r;329898971;137183;12882919;11;36
+r;329898986;137183;12882904;11;36
+r;329899053;137183;12882894;11;36
+r;329899069;137183;12882912;11;36
+r;329899079;137183;12882897;11;36
+r;329899093;137183;12882917;11;36
+r;329899110;137183;12882914;11;36
+r;329899128;137183;12882891;11;36
+r;329899146;137183;12882922;11;36
+r;329899385;137183;12882910;11;36
+r;329899463;137183;12882890;11;36
+r;329899485;137183;12882920;11;36
+r;329899533;137183;12882909;11;36
+r;329899600;137183;12882887;11;36
+r;329899634;137183;12882902;11;36
+r;329899988;137183;12882921;11;36
+r;329900004;137183;12882915;11;36
+r;329900116;137183;12882907;11;36
+r;329900126;137183;12882923;11;36
+r;329900146;137183;12882889;11;36
+r;329900202;137183;12882893;11;36
+r;329900212;137183;12882896;11;36
+r;329900224;137183;12882918;11;36
+r;329900235;137183;12882908;11;36
+r;329900312;137183;12882886;11;36
+r;329900324;137183;12882892;11;36
+r;329900414;137183;12882884;11;36
+r;329900442;137183;12882883;11;36
+r;329900454;137183;12882895;11;36
+r;329900703;137183;12882911;11;36
+r;329900716;137183;12882898;11;36
+r;114755315;137183;5892403;11;37
+r;121029855;137183;6451923;11;37
+r;288788217;137183;11287116;11;37
+r;301751682;137183;6353369;11;37
+r;329900480;137183;12882906;11;37
+r;121446176;137183;6526725;11;38
+r;298268667;137183;11590854;11;38
+r;308173611;137183;11937449;11;38
+r;115099925;137183;5899488;11;39
+r;116942163;137183;5974096;11;39
+r;121913505;137183;6532557;11;39
+r;242357488;137183;10192443;11;39
+r;295964954;137183;11518787;11;39
+r;297614404;137183;11576981;11;39
+r;112663105;137183;5740639;11;40
+r;116944363;137183;5973214;11;40
+r;121488291;137183;6444419;11;40
+r;220618336;137183;9950819;11;40
+r;242256636;137183;10190426;11;40
+r;278738645;137183;11002923;11;40
+r;288174159;137183;11249649;11;40
+r;287581963;137183;11216125;11;40
+r;289317356;137183;11302805;11;40
+r;297915546;137183;11599564;11;40
+r;95815869;137183;4093291;11;41
+r;121449412;137183;6526260;11;41
+r;278736522;137183;11008212;11;41
+r;291972452;137183;11381678;11;41
+r;121058211;137183;6448824;11;42
+r;285997598;137183;11175074;11;42
+r;290110807;137183;11325977;11;42
+r;291739368;137183;11373215;11;42
+r;291750298;137183;11373214;11;42
+r;419106458;137183;16073343;11;42
+r;121060359;137183;6448583;11;43
+r;287677635;137183;11220018;11;43
+r;287678506;137183;11220019;11;43
+r;290007319;137183;11321639;11;43
+r;318788652;137183;12274095;11;43
+r;337655286;137183;13271479;11;43
+r;116309905;137183;5943329;11;44
+r;121535527;137183;6439160;11;44
+r;285157072;137183;11160351;11;44
+r;338400382;137183;13302235;11;44
+r;109888577;137183;5553154;11;45
+r;238113516;137183;10158194;11;45
+r;238113524;137183;10158193;11;45
+r;121445177;137183;6526869;11;46
+r;121447742;137183;6526502;11;46
+r;121913303;137183;6532632;11;46
+r;117892505;137183;5985203;11;47
+r;279244213;137183;11022899;11;48
+r;327579616;137183;12769526;11;48
+r;108349756;137183;5516908;11;49
+r;117913795;137183;5980227;11;49
+r;108597556;137183;5517640;11;50
+r;109032801;137183;5521116;11;50
+r;117896561;137183;5984338;11;50
+r;121913498;137183;6532558;11;50
+r;191820665;137183;8895908;11;50
+r;192784351;137183;8900005;11;50
+r;194830706;137183;9001965;11;50
+r;194830710;137183;9001964;11;50
+r;197687877;137183;9059572;11;50
+r;198318415;137183;9071811;11;50
+r;198318426;137183;9071813;11;50
+r;198339277;137183;9071987;11;50
+r;198339297;137183;9071985;11;50
+r;198339357;137183;9071981;11;50
+r;198339428;137183;9071983;11;50
+r;198339474;137183;9071991;11;50
+r;198339802;137183;9071990;11;50
+r;198339958;137183;9071980;11;50
+r;198340186;137183;9071979;11;50
+r;198340525;137183;9071986;11;50
+r;198340905;137183;9071988;11;50
+r;198341495;137183;9071982;11;50
+r;198346454;137183;9071984;11;50
+r;198348664;137183;9071989;11;50
+r;198360673;137183;9071978;11;50
+r;200552265;137183;9101618;11;50
+r;213739498;137183;9448033;11;50
+r;213739645;137183;9448034;11;50
+r;214303410;137183;9519104;11;50
+r;214863185;137183;9566412;11;50
+r;214865772;137183;9566413;11;50
+r;218080168;137183;9749550;11;50
+r;218117532;137183;9754265;11;50
+r;218118108;137183;9754266;11;50
+r;282820577;137183;11131390;11;50
+r;296851106;137183;11555444;11;50
+r;323176025;137183;12625445;11;50
+r;323176171;137183;12625446;11;50
+r;323621718;137183;12633762;11;50
+r;324932263;137183;12663819;11;50
+r;326749573;137183;12725469;11;50
+r;327320718;137183;12731217;11;50
+r;327320727;137183;12731216;11;50
+r;327322414;137183;12728579;11;50
+r;327323725;137183;12725796;11;50
+r;327323916;137183;12725468;11;50
+r;348970578;137183;13793400;11;50
+r;348970586;137183;13741077;11;50
+r;348997372;137183;13761314;11;50
+r;348997436;137183;13795065;11;50
+r;374860252;137183;242214;11;50
+r;416983778;137183;15963950;11;50
+r;402104466;137183;15306781;11;50
+r;402113311;137183;15401653;11;50
+r;397498251;137183;15380953;11;50
+r;393835441;137183;14610214;11;50
+r;393990936;137183;14481314;11;50
+r;394000601;137183;14343217;11;50
+r;395010657;137183;15304997;11;50
+r;395016844;137183;15319583;11;50
+r;396190352;137183;15475009;11;50
+r;414848648;137183;15573133;11;50
+r;416816921;137183;15963948;11;50
+r;418898054;137183;16071989;11;50
+r;418898934;137183;16072192;11;50
+r;418899306;137183;16072266;11;50
+r;418900170;137183;16072384;11;50
+r;418900883;137183;16072514;11;50
+r;419101270;137183;16072892;11;50
+r;16182333;137183;461102;11;51
+r;18596347;137183;592770;11;51
+r;19166464;137183;661730;11;51
+r;29260421;137183;1782939;11;51
+r;29911600;137183;1839201;11;51
+r;34769857;137183;2353146;11;51
+r;85998883;137183;3356388;11;51
+r;98828327;137183;4332422;11;51
+r;16437376;137183;465680;11;52
+r;27557024;137183;1095573;11;52
+r;28135023;137183;1704276;11;52
+r;29850760;137183;1852189;11;52
+r;52459159;137183;2536753;11;52
+r;76651017;137183;3178354;11;52
+r;78611612;137183;3246566;11;52
+r;16326500;137183;462717;11;53
+r;18212550;137183;581762;11;53
+r;18534378;137183;590624;11;53
+r;27557027;137183;1095572;11;53
+r;27831350;137183;1681531;11;53
+r;28525616;137183;1736620;11;53
+r;29902533;137183;1841793;11;53
+r;83660820;137183;3321607;11;53
+r;99003477;137183;4339416;11;53
+r;106908548;137183;5335054;11;53
+r;17037246;137183;566950;11;54
+r;27556982;137183;1658360;11;54
+r;76315005;137183;3172065;11;54
+r;76646547;137183;3178134;11;54
+r;91543649;137183;3675726;11;54
+r;16130275;137183;455657;11;55
+r;16959807;137183;566555;11;55
+r;17070553;137183;567218;11;55
+r;17092498;137183;567369;11;55
+r;31007465;137183;1920413;11;55
+r;77657455;137183;3225335;11;55
+r;16890622;137183;565929;11;56
+r;17092494;137183;567370;11;56
+r;23229664;137183;1364689;11;56
+r;23526625;137183;1394644;11;56
+r;27556990;137183;1658359;11;56
+r;28403351;137183;1729268;11;56
+r;28886751;137183;1755095;11;56
+r;29029350;137183;1765571;11;56
+r;29904875;137183;1841161;11;56
+r;85596618;137183;3343252;11;56
+r;85631949;137183;3344329;11;56
+r;103570235;137183;4937685;11;56
+r;121043326;137183;6450453;11;56
+r;16437372;137183;465681;11;57
+r;16130283;137183;455656;11;57
+r;16130291;137183;455655;11;57
+r;17092502;137183;567368;11;57
+r;18213433;137183;581763;11;57
+r;18425252;137183;586904;11;57
+r;26120569;137183;1646521;11;57
+r;53079203;137183;2580778;11;57
+r;71775187;137183;2927799;11;57
+r;76175949;137183;3169555;11;57
+r;80623885;137183;3289305;11;57
+r;85631961;137183;3344330;11;57
+r;97874624;137183;4313242;11;57
+r;108610899;137183;5517641;11;57
+r;2069981;137183;146873;11;58
+r;14178113;137183;396524;11;58
+r;34748860;137183;2352413;11;58
+r;48899708;137183;2356737;11;58
+r;55469237;137183;2604382;11;58
+r;84277072;137183;3336424;11;58
+r;16890628;137183;565928;11;59
+r;18424830;137183;586905;11;59
+r;29506520;137183;1802932;11;59
+r;31740396;137183;1969971;11;59
+r;52454243;137183;2546811;11;59
+r;76224908;137183;3170206;11;59
+r;77931030;137183;3229663;11;59
+r;91541871;137183;3675016;11;59
+r;99002535;137183;4339415;11;59
+r;24943965;137183;1526046;11;60
+r;25686518;137183;1626817;11;60
+r;27913107;137183;1690309;11;60
+r;28812267;137183;1752499;11;60
+r;29481693;137183;1800974;11;60
+r;29855146;137183;1851219;11;60
+r;30256438;137183;1866007;11;60
+r;88840416;137183;3561222;11;60
+r;96327455;137183;4305680;11;60
+r;29723175;137183;1818522;11;61
+r;29723599;137183;1818520;11;62
+r;30221143;137183;1863557;11;62
+r;29866426;137183;1848907;11;63
+r;72852981;137183;2952519;11;63
+r;29634798;137183;1815686;11;66
+r;74379683;137183;2982378;11;67
+r;29899676;137183;1842514;11;68
+r;30641247;137183;1901443;11;68
+r;1989101;137183;198292;11;70
+r;12540271;137183;390424;11;101
+r;12540329;137183;390410;11;101
+r;12540437;137183;390383;11;101
+r;12540453;137183;390379;11;101
+r;12540457;137183;390378;11;101
+r;12540521;137183;390363;11;101
+r;12540571;137183;390351;11;101
+r;12647549;137183;363716;11;101
+r;12696615;137183;351690;11;101
+r;12696639;137183;351687;11;101
+r;12699229;137183;351055;11;101
+r;12699431;137183;351000;11;101
+r;12717589;137183;346510;11;101
+r;12540359;137183;390403;11;102
+r;12540469;137183;390375;11;102
+r;12540525;137183;390362;11;102
+r;12540555;137183;390355;11;102
+r;12638947;137183;365823;11;102
+r;12700767;137183;350636;11;102
+r;12702407;137183;350206;11;102
+r;12717341;137183;346551;11;102
+r;12540255;137183;390428;11;103
+r;12540263;137183;390426;11;103
+r;12540283;137183;390422;11;103
+r;12540407;137183;390391;11;103
+r;12540497;137183;390369;11;103
+r;12540517;137183;390364;11;103
+r;12540541;137183;390358;11;103
+r;12547819;137183;388463;11;103
+r;12672671;137183;357558;11;103
+r;12717499;137183;346525;11;103
+r;12731223;137183;343351;11;103
+r;12742887;137183;340582;11;103
+r;13619338;137183;393577;11;104
+r;12540259;137183;390427;11;104
+r;12540287;137183;390421;11;104
+r;12540303;137183;390417;11;104
+r;12540319;137183;390413;11;104
+r;12540355;137183;390404;11;104
+r;12540371;137183;390400;11;104
+r;12540391;137183;390395;11;104
+r;12540429;137183;390385;11;104
+r;12540433;137183;390384;11;104
+r;12540461;137183;390377;11;104
+r;12540465;137183;390376;11;104
+r;12540505;137183;390367;11;104
+r;12540509;137183;390366;11;104
+r;12540567;137183;390352;11;104
+r;12547805;137183;388466;11;104
+r;12547809;137183;388465;11;104
+r;12575075;137183;381557;11;104
+r;12696623;137183;351689;11;104
+r;12699439;137183;350999;11;104
+r;12700023;137183;350837;11;104
+r;12707903;137183;348831;11;104
+r;12717265;137183;346565;11;104
+r;12726125;137183;344598;11;104
+r;12540291;137183;390420;11;105
+r;12540379;137183;390398;11;105
+r;12540409;137183;390390;11;105
+r;12540421;137183;390387;11;105
+r;12540441;137183;390382;11;105
+r;12540449;137183;390380;11;105
+r;12540513;137183;390365;11;105
+r;12540529;137183;390361;11;105
+r;12540533;137183;390360;11;105
+r;12547815;137183;388464;11;105
+r;12547827;137183;388461;11;105
+r;12583759;137183;379450;11;105
+r;12626461;137183;369024;11;105
+r;12670735;137183;358027;11;105
+r;12696645;137183;351686;11;105
+r;12717239;137183;346569;11;105
+r;12717381;137183;346544;11;105
+r;12719739;137183;346165;11;105
+r;12540295;137183;390419;11;106
+r;12540299;137183;390418;11;106
+r;12540343;137183;390407;11;106
+r;12540383;137183;390397;11;106
+r;12540481;137183;390373;11;106
+r;12696631;137183;351688;11;106
+r;12700009;137183;350840;11;106
+r;12700011;137183;350839;11;106
+r;12700027;137183;350836;11;106
+r;12702415;137183;350205;11;106
+r;12717231;137183;346570;11;106
+r;13270162;137183;393039;11;106
+r;12028011;137183;330881;11;107
+r;12540267;137183;390425;11;107
+r;12540275;137183;390423;11;107
+r;12540315;137183;390414;11;107
+r;12540323;137183;390412;11;107
+r;12540339;137183;390408;11;107
+r;12540347;137183;390406;11;107
+r;12540363;137183;390402;11;107
+r;12540367;137183;390401;11;107
+r;12540375;137183;390399;11;107
+r;12540395;137183;390394;11;107
+r;12540425;137183;390386;11;107
+r;12540473;137183;390374;11;107
+r;12540485;137183;390372;11;107
+r;12540537;137183;390359;11;107
+r;12547793;137183;388469;11;107
+r;12547801;137183;388467;11;107
+r;12687471;137183;353929;11;107
+r;12737973;137183;341783;11;107
+r;12540307;137183;390416;11;108
+r;12540387;137183;390396;11;108
+r;12540413;137183;390389;11;108
+r;12540417;137183;390388;11;108
+r;12540501;137183;390368;11;108
+r;12540547;137183;390357;11;108
+r;12540551;137183;390356;11;108
+r;12687417;137183;353942;11;108
+r;12697045;137183;351577;11;108
+r;12699237;137183;351053;11;108
+r;12540311;137183;390415;11;109
+r;12540351;137183;390405;11;109
+r;12540399;137183;390393;11;109
+r;12540493;137183;390370;11;109
+r;12540575;137183;390350;11;109
+r;12547797;137183;388468;11;109
+r;12700017;137183;350838;11;109
+r;12700775;137183;350635;11;109
+r;12717335;137183;346552;11;109
+r;12540333;137183;390409;11;110
+r;12540403;137183;390392;11;110
+r;12540445;137183;390381;11;110
+r;12540489;137183;390371;11;110
+r;12540559;137183;390354;11;110
+r;12540563;137183;390353;11;110
+r;12547823;137183;388462;11;110
+r;12699423;137183;351001;11;110
+r;12717365;137183;346547;11;110
+r;12030386;137183;330922;11;120
+r;11873480;137183;32926;11;121
+r;11853215;137183;191889;11;123
+r;11856479;137183;161276;11;123
+r;12016475;137183;330817;11;129
+r;3153494;137183;54061;11;142
+r;10631130;137183;325238;11;148
+r;9003713;137183;318545;11;148
+r;9009221;137183;318749;11;148
+r;9060308;137183;320725;11;148
+r;9060366;137183;320765;11;148
+r;9188881;137183;323194;11;148
+r;9609497;137183;324848;11;148
+r;11761842;137183;329993;11;148
+r;11761850;137183;329992;11;148
+r;11761854;137183;329991;11;148
+r;11761862;137183;329990;11;148
+r;11769685;137183;330027;11;148
+r;8880784;137183;243822;11;150
+r;8881789;137183;259509;11;150
+r;8878015;137183;210145;11;151
+r;8878016;137183;210146;11;151
+r;8880438;137183;233897;11;151
+r;8881337;137183;254140;11;151
+r;8881566;137183;256808;11;151
+r;8881567;137183;256809;11;151
+r;8885907;137183;307535;11;151
+r;8920992;137183;316585;11;151
+r;8873958;137183;140618;11;152
+r;8874378;137183;142489;11;152
+r;8875502;137183;166593;11;152
+r;8878112;137183;210269;11;152
+r;8878236;137183;210473;11;152
+r;8878331;137183;210590;11;152
+r;8878332;137183;210591;11;152
+r;8878575;137183;210928;11;152
+r;8878596;137183;210956;11;152
+r;8878766;137183;211223;11;152
+r;8878786;137183;211244;11;152
+r;8879120;137183;211675;11;152
+r;8879127;137183;211683;11;152
+r;8879140;137183;211699;11;152
+r;8882393;137183;269540;11;152
+r;8882394;137183;269541;11;152
+r;8882395;137183;269542;11;152
+r;8882396;137183;269544;11;152
+r;8874126;137183;141349;11;153
+r;8874481;137183;142940;11;153
+r;8874662;137183;143993;11;153
+r;8874776;137183;144582;11;153
+r;8874931;137183;145460;11;153
+r;8875217;137183;154258;11;153
+r;8875237;137183;155175;11;153
+r;8875821;137183;176889;11;153
+r;8875937;137183;180772;11;153
+r;8878597;137183;210957;11;153
+r;8882161;137183;264426;11;153
+r;8882373;137183;269082;11;153
+r;8882392;137183;269539;11;153
+r;8882397;137183;269545;11;153
+r;8883508;137183;281973;11;153
+r;8883509;137183;281974;11;153
+r;8884082;137183;287498;11;153
+r;8884083;137183;287500;11;153
+r;8884655;137183;293452;11;153
+r;8886029;137183;308789;11;153
+r;8886636;137183;316047;11;153
+r;8870894;137183;315843;11;154
+r;8873053;137183;137626;11;154
+r;8873158;137183;137892;11;154
+r;8873373;137183;138531;11;154
+r;8873443;137183;138734;11;154
+r;8873580;137183;139169;11;154
+r;8886334;137183;311676;11;154
+r;8877175;137183;191693;11;155
+r;8920644;137183;316846;11;157
+r;8592408;137183;66318;11;161
+r;8627842;137183;162123;11;161
+r;8630643;137183;166903;11;161
+r;8630645;137183;166904;11;161
+r;8630647;137183;166905;11;161
+r;8630649;137183;166906;11;161
+r;8685611;137183;210726;11;161
+r;8690809;137183;217878;11;161
+r;8693670;137183;222279;11;161
+r;8697799;137183;228985;11;161
+r;8698256;137183;229436;11;161
+r;8704572;137183;237248;11;161
+r;8705781;137183;238917;11;161
+r;8706199;137183;239477;11;161
+r;8707530;137183;242370;11;161
+r;8720783;137183;256122;11;161
+r;8724951;137183;259028;11;161
+r;8729400;137183;262538;11;161
+r;8585546;137183;46591;11;162
+r;8592286;137183;65907;11;162
+r;8593823;137183;70414;11;162
+r;8603145;137183;97274;11;162
+r;8606413;137183;106334;11;162
+r;8682695;137183;208899;11;162
+r;8685612;137183;210727;11;162
+r;8690043;137183;215785;11;162
+r;8702592;137183;234912;11;162
+r;8734970;137183;267090;11;162
+r;8735012;137183;267120;11;162
+r;8735212;137183;267278;11;162
+r;8737202;137183;269538;11;162
+r;8737218;137183;269546;11;162
+r;8739354;137183;271849;11;162
+r;8580865;137183;32900;11;163
+r;8581656;137183;35191;11;163
+r;8593213;137183;68605;11;163
+r;8596093;137183;77198;11;163
+r;8598188;137183;83205;11;163
+r;8599329;137183;86386;11;163
+r;8599593;137183;87137;11;163
+r;8602185;137183;94664;11;163
+r;8603564;137183;98256;11;163
+r;8609147;137183;113727;11;163
+r;8612395;137183;122926;11;163
+r;8619646;137183;140401;11;163
+r;8619943;137183;140985;11;163
+r;8629131;137183;164612;11;163
+r;8635081;137183;175065;11;163
+r;8635878;137183;177505;11;163
+r;8639967;137183;182348;11;163
+r;8639969;137183;182349;11;163
+r;8639971;137183;182350;11;163
+r;8639973;137183;182351;11;163
+r;8685659;137183;210765;11;163
+r;8734923;137183;267039;11;163
+r;8734974;137183;267092;11;163
+r;8735399;137183;267471;11;163
+r;8737192;137183;269533;11;163
+r;8737194;137183;269534;11;163
+r;8737196;137183;269535;11;163
+r;8737198;137183;269536;11;163
+r;8737200;137183;269537;11;163
+r;8737221;137183;269547;11;163
+r;8746426;137183;278795;11;163
+r;8752115;137183;284868;11;163
+r;8752270;137183;285017;11;163
+r;8758017;137183;290043;11;163
+r;8761577;137183;294116;11;163
+r;8767210;137183;300527;11;163
+r;8773648;137183;307913;11;163
+r;8774302;137183;308526;11;163
+r;8578208;137183;24862;11;164
+r;8578260;137183;24994;11;164
+r;8578829;137183;26675;11;164
+r;8625878;137183;158683;11;164
+r;8639975;137183;182352;11;164
+r;8653032;137183;190652;11;164
+r;8653298;137183;190798;11;164
+r;8666411;137183;199245;11;164
+r;8666412;137183;199246;11;164
+r;8667527;137183;199936;11;164
+r;8667530;137183;199937;11;164
+r;8667534;137183;199938;11;164
+r;8667626;137183;199995;11;164
+r;8734122;137183;266488;11;164
+r;8778054;137183;311900;11;164
+r;8647559;137183;186822;11;165
+r;8664851;137183;198296;11;165
+r;8665913;137183;198917;11;165
+r;8666201;137183;199091;11;165
+r;8667250;137183;199772;11;165
+r;8667252;137183;199773;11;165
+r;8667253;137183;199774;11;165
+r;8667255;137183;199775;11;165
+r;8667257;137183;199776;11;165
+r;8667259;137183;199777;11;165
+r;8667261;137183;199778;11;165
+r;8667267;137183;199781;11;165
+r;8667268;137183;199782;11;165
+r;8667270;137183;199783;11;165
+r;8667272;137183;199784;11;165
+r;8667274;137183;199785;11;165
+r;8667276;137183;199786;11;165
+r;8667278;137183;199787;11;165
+r;8667280;137183;199788;11;165
+r;8667282;137183;199789;11;165
+r;8667288;137183;199792;11;165
+r;8668466;137183;200442;11;165
+r;8667284;137183;199790;11;166
+r;8667290;137183;199793;11;166
+r;8668464;137183;200441;11;166
+r;8572554;137183;7833;11;168
+r;8573483;137183;10658;11;168
+r;8593495;137183;69424;11;172
+r;8733324;137183;265644;11;173
+r;8624402;137183;155280;11;174
+r;8667263;137183;199779;11;185
+r;8667265;137183;199780;11;186
+r;8667286;137183;199791;11;186
+r;434889;137183;166448;11;188
+r;3231700;137183;182347;11;190
+r;8594654;137183;72841;11;194
+r;3153492;137183;210731;11;207
+r;1855844;137183;137468;11;210
+r;3231699;137183;9593;11;215
+r;3153496;137183;226199;11;217
+r;425763;137183;166063;11;218
+r;3153493;137183;109308;11;228
+r;434890;137183;166449;11;238
+r;3153495;137183;269532;11;239
+r;425764;137183;137263;11;280

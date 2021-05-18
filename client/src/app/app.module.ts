@@ -10,6 +10,7 @@ import { ContactusComponent } from './contactus/contactus.component';
 import { SearchComponent } from './search/search.component';
 import { FootercComponent } from './footerc/footerc.component';
 import { HttpClientModule } from '@angular/common/http';
+import { AppRoutingModule } from './app-routing.module';
 
 @NgModule({
   declarations: [
@@ -23,7 +24,8 @@ import { HttpClientModule } from '@angular/common/http';
   ],
   imports: [ 
     HttpClientModule,
-    BrowserModule
+    BrowserModule,
+    AppRoutingModule
   ],
   providers: [],
   bootstrap: [AppComponent]

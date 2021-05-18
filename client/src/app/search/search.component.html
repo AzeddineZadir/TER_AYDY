@@ -16,7 +16,29 @@
             <div class="columns is-centered">
               <div class="column is-half has-text-centered" >
                 <input class="input is-rounded search " type="text" (keyup)="setSouhait($event)" placeholder="Exprimez vos souhaits avec vos mots">
-                <button class="button is-info is-rounded" (click) ="rechercher()">Rechercher</button>
+                <!-- <button class="button is-info is-rounded" ></button> -->
+                <div class="dropdown is-hoverable">
+                  <div class="dropdown-trigger">
+                    <button class="button is-info is-rounded" aria-haspopup="true" aria-controls="dropdown-menu4">
+                      <span>Chercher</span>
+                      <span class="icon is-small">
+                        <i class="fas fa-angle-down" aria-hidden="true"></i>
+                      </span>
+                    </button>
+                  </div>
+                  <div class="dropdown-menu" id="dropdown-menu4" role="menu">
+                    <div class="dropdown-content">
+                      <a (click)="rechercher(1)" class="dropdown-item blue large">
+                        Recherche r_associated
+                      </a>
+                    </div>
+                    <div class="dropdown-content">
+                      <a (click)="rechercher(2)" class="dropdown-item blue large">
+                        Recherche r_syn
+                      </a>
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
         </div>
@@ -68,10 +90,14 @@
   </div>
 <div class="container" *ngIf="recherche == false && hotels.lenght !=0">
   <br><br><br><br>
+  <div class="blue large" *ngIf="id ==1">Résultat r_associated :</div>
+  <div class="blue large" *ngIf="id ==2">Résultat r_syn :</div>
+
   <div *ngFor="let hotel of hotels">
   <div class="test">Hotel : {{hotel.nom}}</div>
     
   <div class="score">Score : {{hotel.score}}</div>
   <hr>
   </div>
+ 
 </div>

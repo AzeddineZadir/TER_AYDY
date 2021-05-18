@@ -1,0 +1,208 @@
+
+e;421197;'sommes';1;50
+e;13999090;'Nous sommes tous des Juifs et des Allemands';777;0
+e;13999091;'Nous sommes tous des juifs allemands';777;0
+e;14008325;'ne sommes pas';1;0
+e;14098145;'sommes de Newton';777;0
+e;14454368;'avis de sommes à payer';1;0
+e;14548623;'Nous sommes en retard de cent ans sur nos inventions. Cet écart ne fera que croître';777;0
+e;14670405;'Nous sommes tous en liberté provisoire';1;0
+e;16358886;'sommes gagnées';777;0
+e;10624137;'Nous sommes tous encore ici';777;0
+e;10904418;'Nous sommes la nuit';777;0
+e;15355853;'des sommes astronomiques';1;0
+e;5782078;'types sommes';777;0
+e;11359244;'Nous sommes vivants';777;0
+e;16327516;'Nous sommes restés sur une impression défavorable.';1;0
+e;16307159;'Nous y sommes allés l'été dernier.';1;0
+e;16510033;'Nous sommes le douze aujourd'hui.';1;0
+e;16307158;'Nous y sommes tous allés.';1;0
+e;16307807;'Nous sommes quittes.';1;0
+e;5960843;'Nous ne sommes pas des saints';777;0
+e;15353491;'Nous en sommes restés muets de stupeur.';1;0
+e;15471739;'Nous nous sommes arrêtés et le bus s'est arrêté à côté de nous.';1;0
+e;15471735;'Nous nous sommes arrêtés pour déjeuner en chemin.';1;0
+e;15471731;'Nous nous sommes arrêtés pour nous reposer.';1;0
+e;15390087;'Nous nous sommes assis dans l'herbe sur un talus.';1;0
+e;15375457;'Nous nous sommes assis en demi-cercle.';1;0
+e;15560893;'Nous nous sommes bien amusés à jouer dans la neige.';1;0
+e;15332715;'Nous nous sommes connus il y a une vingtaine d'années.';1;0
+e;15365802;'Nous nous sommes divisés en deux groupes.';1;0
+e;15248138;'Nous nous sommes fait tremper.';1;0
+e;15571743;'Nous nous sommes groupés autour du feu.';1;0
+e;15529301;'Nous nous sommes mariés pour les mauvaises raisons.';1;0
+e;15379290;'Nous nous sommes promenés à loisir dans les jardins.';1;0
+e;15546176;'Nous nous sommes séparés en bons termes.';1;0
+e;15409455;'Nous nous sommes tous tus.';1;0
+e;15523247;'Nous nous sommes trouvés à court d'argent.';1;0
+e;15409551;'Nous nous sommes très bien entendus.';1;0
+e;15239523;'Nous nous sommes écrit.';1;0
+e;15361641;'Nous nous y sommes habitués peu à peu.';1;0
+e;15441596;'Nous sommes + [date]';1;0
+e;15241184;'Nous sommes allés au Portugal.';1;0
+e;15290405;'Nous sommes allés au cinéma samedi.';1;0
+e;15335222;'Nous sommes allés chez mes grands-parents à Pâques.';1;0
+e;15277978;'Nous sommes allés dans les Pyrénées.';1;0
+e;15480289;'Nous sommes allés jusqu'à Angers.';1;0
+e;15348538;'Nous sommes allés nous promener sur le terrain communal.';1;0
+e;15487723;'Nous sommes allés à Chypre.';1;0
+e;15546278;'Nous sommes allés à Paris ainsi qu'à Chartres.';1;0
+e;15386168;'Nous sommes allés à Paris via Boulogne.';1;0
+e;15345395;'Nous sommes arrivés trop tard.';1;0
+e;15351227;'Nous sommes arrivés à la lisière du bois.';1;0
+e;15523999;'Nous sommes arrivés à la maison sans encombre.';1;0
+e;15548126;'Nous sommes dans le bon train.';1;0
+e;15396561;'Nous sommes des âmes s?urs.';1;0
+e;15958532;'Nous sommes déterminés à continuer malgré tout.';1;0
+e;15226040;'Nous sommes en train de laisser passer une occasion fantastique.';1;0
+e;15315232;'Nous sommes finalement arrivés.';1;0
+e;15402587;'Nous sommes largement sous-payés.';1;0
+e;15775495;'Nous sommes le 10 janvier.';1;0
+e;15354146;'Nous sommes le dix-huit aujourd'hui.';1;0
+e;15369140;'Nous sommes le dix-neuf aujourd'hui.';1;0
+e;15360048;'Nous sommes le dix-sept aujourd'hui.';1;0
+e;15885056;'Nous sommes le vingt-huit octobre.';1;0
+e;15483817;'Nous sommes ouverts aux suggestions.';1;0
+e;15356914;'Nous sommes parvenus à un compromis.';1;0
+e;15316284;'Nous sommes restés trois jours à Nice.';1;0
+e;15571108;'Nous sommes rompus à garder pour nous les émotions négatives.';1;0
+e;15539132;'Nous sommes sensiblement de la même taille.';1;0
+e;15691886;'Nous sommes sur un gros coup.';1;0
+e;15402589;'Nous sommes surmenés et sous-payés.';1;0
+e;15257275;'Nous sommes toujours surveillés pendant la récréation.';1;0
+e;15461309;'Nous sommes très heureux que vous soyez rétabli.';1;0
+e;15411795;'Nous sommes un peu justes.';1;0
+e;15220810;'Nous sommes venus par Douvres.';1;0
+e;15341413;'Nous sommes vraiment désolés pour le désagrément.';1;0
+e;15391368;'Nous sommes à la traîne en matière de recyclage.';1;0
+e;15330460;'Nous y sommes allées toutes les deux.';1;0
+e;15330457;'Nous y sommes allés tous les deux.';1;0
+e;15374305;'Nous y sommes allés tous les trois.';1;0
+e;15409446;'Nous y sommes toutes allées.';1;0
+e;15774724;'Qui sommes nous';777;0
+e;10867848;'Nous sommes tous des assassins';777;0
+e;10312177;'Nous ne sommes pas seuls';777;0
+e;13144293;'sommes dues';1;0
+e;10777541;'Nous sommes nos montagnes';777;0
+e;16453662;'Aujourd'hui, nous sommes mercredi.';1;0
+e;10190028;'Nous nous sommes tant haïs';777;0
+e;2418980;'nous sommes tous cousins';1;0
+e;10514346;'Nous sommes tous des voleurs';777;0
+e;10179572;'Nous ne sommes pas des anges';777;0
+e;11175210;'sommes de Riemann';777;0
+e;10184754;'Nous ne sommes plus des enfants';777;0
+e;11317435;'sommes de Dedekind';777;0
+e;15380045;'Nous y sommes allés en bus et nous sommes rentrés à pied.';1;0
+e;6596572;'sommes colossales';1;0
+e;11195720;'Minority SafePack - Nous sommes un million à signer pour la diversité de l'Europe';777;0
+e;15693191;'Aujourd'hui, nous sommes mardi.';1;0
+e;15762795;'De grosses sommes d'argents furent perdues.';1;0
+e;2342350;'sommes-nous';1;0
+e;6596575;'investir des sommes colossales';1;0
+e;210162;'à l'heure où nous sommes';1;50
+e;24864;'Pourquoi sommes-nous au Viêt-nam';1;50
+e;32991;'Nous nous sommes tant aimés';1;52
+e;1133440;'Nous sommes les Miller';777;0
+r;352984110;421197;13999090;11;25
+r;352984664;421197;13999091;11;25
+r;353187135;421197;14008325;11;25
+r;357024203;421197;14098145;11;25
+r;366939706;421197;14454368;11;25
+r;369919946;421197;14548623;11;25
+r;373030351;421197;14670405;11;25
+r;432032262;421197;16358886;11;25
+r;267332621;421197;10624137;11;27
+r;274291114;421197;10904418;11;30
+r;419775402;421197;15355853;11;30
+r;112657839;421197;5782078;11;32
+r;291284502;421197;11359244;11;32
+r;434355294;421197;16327516;11;33
+r;434355318;421197;16307159;11;33
+r;434355278;421197;16510033;11;33
+r;434355328;421197;16307158;11;33
+r;434355288;421197;16307807;11;33
+r;116577852;421197;5960843;11;34
+r;419515365;421197;15353491;11;34
+r;419515631;421197;15471739;11;34
+r;419515645;421197;15471735;11;34
+r;419515657;421197;15471731;11;34
+r;419515667;421197;15390087;11;34
+r;419515679;421197;15375457;11;34
+r;419515689;421197;15560893;11;34
+r;419515703;421197;15332715;11;34
+r;419515715;421197;15365802;11;34
+r;419515727;421197;15248138;11;34
+r;419515737;421197;15571743;11;34
+r;419515749;421197;15529301;11;34
+r;419515761;421197;15379290;11;34
+r;419515773;421197;15546176;11;34
+r;419515785;421197;15409455;11;34
+r;419515793;421197;15523247;11;34
+r;419515805;421197;15409551;11;34
+r;419515815;421197;15239523;11;34
+r;419515869;421197;15361641;11;34
+r;419516041;421197;15441596;11;34
+r;419516047;421197;15241184;11;34
+r;419516055;421197;15290405;11;34
+r;419516065;421197;15335222;11;34
+r;419516077;421197;15277978;11;34
+r;419516085;421197;15480289;11;34
+r;419516095;421197;15348538;11;34
+r;419516109;421197;15487723;11;34
+r;419516117;421197;15546278;11;34
+r;419516129;421197;15386168;11;34
+r;419516141;421197;15345395;11;34
+r;419516151;421197;15351227;11;34
+r;419516161;421197;15523999;11;34
+r;419516171;421197;15548126;11;34
+r;419516179;421197;15396561;11;34
+r;419516187;421197;15958532;11;34
+r;419516199;421197;15226040;11;34
+r;419516213;421197;15315232;11;34
+r;419516221;421197;15402587;11;34
+r;419516229;421197;15775495;11;34
+r;419516235;421197;15354146;11;34
+r;419516245;421197;15369140;11;34
+r;419516255;421197;15360048;11;34
+r;419516265;421197;15885056;11;34
+r;419516273;421197;15483817;11;34
+r;419516281;421197;15356914;11;34
+r;419516289;421197;15316284;11;34
+r;419516301;421197;15571108;11;34
+r;419516315;421197;15539132;11;34
+r;419516325;421197;15691886;11;34
+r;419516333;421197;15402589;11;34
+r;419516341;421197;15257275;11;34
+r;419516353;421197;15461309;11;34
+r;419516365;421197;15411795;11;34
+r;419516373;421197;15220810;11;34
+r;419516381;421197;15341413;11;34
+r;419516391;421197;15391368;11;34
+r;419516553;421197;15330460;11;34
+r;419516577;421197;15330457;11;34
+r;419516585;421197;15374305;11;34
+r;419516593;421197;15409446;11;34
+r;419532259;421197;15774724;11;34
+r;272514456;421197;10867848;11;35
+r;252678042;421197;10312177;11;36
+r;335933525;421197;13144293;11;37
+r;269874141;421197;10777541;11;38
+r;434030272;421197;16453662;11;38
+r;242257774;421197;10190028;11;40
+r;54436141;421197;2418980;11;41
+r;262038168;421197;10514346;11;41
+r;240640633;421197;10179572;11;42
+r;286018732;421197;11175210;11;42
+r;240635418;421197;10184754;11;43
+r;289934739;421197;11317435;11;43
+r;419516563;421197;15380045;11;44
+r;122164960;421197;6596572;11;50
+r;287144217;421197;11195720;11;50
+r;405571406;421197;15693191;11;50
+r;405573533;421197;15762795;11;50
+r;34414228;421197;2342350;11;54
+r;122164915;421197;6596575;11;56
+r;14277701;421197;210162;11;58
+r;14325283;421197;24864;11;58
+r;14323263;421197;32991;11;59
+r;21845023;421197;1133440;11;60

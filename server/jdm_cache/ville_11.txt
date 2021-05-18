@@ -1,0 +1,1506 @@
+
+e;136786;'ville';1;9044
+e;11405357;'ville-pont';777;0
+e;6100552;'k-ville';777;0
+e;6325549;'répartition spatiale en ville';1;0
+e;6344444;'distribution géographique en ville';1;0
+e;6382369;'pigeon de ville';1;0
+e;6420561;'hôpital public de ville';1;0
+e;12983489;'la ville où le piéton est roi';777;0
+e;13541890;'hôtel-de-ville';1;0
+e;13547688;'ministre chargé de la ville';777;0
+e;13588496;'ville libre d'Empire';777;0
+e;13598715;'hôtel de ville de Senta';777;0
+e;13627060;'ville de Petworth';777;0
+e;13634652;'ville souterraine de Derinkuyu';777;0
+e;13640143;'ville de Yongjing';777;0
+e;13656842;'ville historique fortifiée de Cuenca';777;0
+e;13682736;'ville au Chili';777;0
+e;13812797;'hôtel de ville d'Amiens';777;0
+e;14012126;'Les Lumières de la ville';777;0
+e;14094357;'hôtel de ville d'Aarhus';777;0
+e;14205840;'ville à échelle humaine';1;0
+e;14434442;'ville et village';1;0
+e;14454488;'dotation politique de la ville';1;0
+e;14567177;'Pyramide des âges de la ville de Ulcinj';777;0
+e;14590174;'centre d'une ville';777;0
+e;14612297;'bruits de la ville';1;0
+e;14631561;'ville de Dahu';777;0
+e;14637419;'Évolution de la population de la ville et du district métropolitain de Quito';777;0
+e;14657280;'Poggio con 3 ville 172';777;0
+e;14665808;'ville proprement dite';777;0
+e;14670092;'couleurs de la ville';1;0
+e;14670093;'couleurs d'une ville';1;0
+e;14724255;'ville des Perses';777;0
+e;14731695;'cathédrale de la ville';777;0
+e;14735223;'ingénieurs de la ville de Paris';777;0
+e;14764291;'ville de Pitou';777;0
+e;15830876;'ville-étape';1;0
+e;14894797;'voyer de la ville de Lyon';777;0
+e;15781720;'ville libre et hanséatique de Brême';777;0
+e;15787622;'hôtel de ville de Gand';777;0
+e;15818031;'ville de Blacktown';777;0
+e;15835075;'ville souterraine';1;0
+e;16053653;'ville numérique';777;0
+e;16053651;'ville connectée';777;0
+e;16094658;'ville de Fangshan';777;0
+e;16070812;'ministre chargée du logement et de la ville';1;0
+e;16154376;'l'esclave en ville';777;0
+e;16167867;'officier de ville';1;0
+e;16314464;'hôtel de ville de Dallas';777;0
+e;16319349;'ville de Suez';1;0
+e;16324788;'ville de Batna';777;0
+e;16565551;'transports de la ville de New York';777;0
+e;16565622;'liste des musées et des institutions culturelles de la ville de New York';777;0
+e;16573699;'Appartenance politique de la ville de Tartu au cours de l'histoire';777;0
+e;11130144;'ville-de-paris';777;0
+e;6394182;'hôpitaux publics de ville';1;0
+e;12198302;'quartier arménien de la vieille ville de Jérusalem';777;0
+e;12199575;'patrimoine protégé de la ville de Meknès';777;0
+e;12199511;'histoire des Juifs dans la ville d'Oran';777;0
+e;12199816;'musée de la ville d'Athènes';777;0
+e;12988476;'ville planifiée';777;0
+e;14486311;'ville sinistrée';1;16
+e;14486426;'ville polluée';1;0
+e;14568839;'nom de ville';1;4
+e;14568878;'ville australienne';1;0
+e;14568879;'ville d'Australie';1;0
+e;14668592;'ville de Montpellier';1;0
+e;14718310;'ville étudiante';1;0
+e;14718315;'ville du sud';1;0
+e;14874308;'ville libre impériale';777;0
+e;16071003;'fondation d'une ville';1;0
+e;16391113;'ville par ville';1;0
+e;16565469;'démographie de la ville de New York';777;0
+e;16565617;'département de l'Éducation de la ville de New York';777;0
+e;10730059;'archives de la ville de Genève';777;0
+e;10685415;'Grand Prix de la ville de Zottegem';777;0
+e;10685912;'Grand Prix de la ville de Vilvorde';777;0
+e;10672847;'contrat de ville';777;0
+e;10664732;'Duel en ville';777;0
+e;10663318;'Bibliothèque historique de la ville de Paris';777;0
+e;12989758;'ville anglaise';777;0
+e;12990837;'centre historique de la ville de Panama';777;0
+e;16565505;'Commission de conservation des monuments de la ville de New York';777;0
+e;16565470;'Les 5 arrondissements de la ville de New York';777;0
+e;5798796;'Une ville immortelle';777;0
+e;6082887;'Quand la ville dort';777;0
+e;10685414;'Grand Prix de la ville de Zottegem 2017';777;0
+e;10619905;'Grand Prix de la ville d'Angoulême';777;0
+e;10671393;'Hôtel de ville de Vienne';777;0
+e;13536784;'quai de l'Hôtel de ville';1;0
+e;13534054;'sergents de ville';1;0
+e;5804926;'ville augmentée';777;0
+e;10589478;'Déluge sur la ville';777;0
+e;10589051;'Main basse sur la ville';777;0
+e;10618322;'section de ville';1;0
+e;10617493;'ville francophone';1;0
+e;11756086;'ville commune';777;0
+e;11756085;'ville de bourgeoisie';777;0
+e;11769967;'patrimoine immobilier classé de la ville belge de Tournai';777;0
+e;11769964;'histoire de la ville de Tournai';777;0
+e;11770323;'Chronologie de la ville d'Oran';777;0
+e;11770322;'monuments historiques classés ou inscrits dans la ville de Châtillon-sur-Seine';777;0
+e;11769977;'Hôtel de ville de Tournai';777;0
+e;11774997;'hôtel de ville de Séville';777;0
+e;15039941;'La ville vue par Aimery Picaud dans Le Guide du Pèlerin';777;0
+e;68804;'Toulouse';1;246
+e;2498649;'ville-sur-yronais';1;0
+e;5698269;'bilinguisme officiel à la ville d'Ottawa';777;0
+e;9959153;'ville isolée';777;0
+e;9992061;'Chambres en ville';777;0
+e;10587610;'Traqué dans la ville';777;0
+e;10586994;'Luminor Hôtel de ville';777;0
+e;10602668;'L'Apprentissage de la ville';777;0
+e;10600111;'Service de police de la ville de Québec';777;0
+e;10598934;'ville de Lille';777;0
+e;10598437;'Printemps dans une petite ville';777;0
+e;10595254;'Le Diable dans la ville';777;0
+e;10589980;'les lumières de la ville';777;0
+e;10896610;'ville de Townsville';777;0
+e;10907965;'hôtel de ville de Londres';777;0
+e;10906508;'sélection de la ville hôte pour les Jeux olympiques d'été de 1992';777;0
+e;10905174;'quartiers de la ville de Détroit';777;0
+e;10903568;'médaille d'or de la ville de Milan';777;0
+e;10903169;'hôtel de ville de San Francisco';777;0
+e;10915280;'ville d'hiver';777;0
+e;10988694;'ville close';777;0
+e;11034208;'Horreur dans la ville';777;0
+e;11771205;'loi d'orientation pour la ville';777;0
+e;13518272;'affaire des chargés de mission de la ville de Paris';777;0
+e;15563955;'de la ville';1;0
+e;15198867;'descendre en ville';1;0
+e;15401388;'délégation interministérielle à la ville';1;0
+e;15300806;'dînant en ville';1;0
+e;15300803;'dîne en ville';1;0
+e;15626155;'eau de la ville';1;0
+e;9954942;'La ville de North Vancouver';777;0
+e;9959022;'monuments classés du district de Merksem dans la ville d'Anvers';777;0
+e;9959194;'des anciennes voies de la ville Paris';777;0
+e;9963530;'Un justicier dans la ville';777;0
+e;9979841;'bombarder une ville';1;0
+e;10596098;'ville littorale';1;0
+e;10597523;'statut de ville';777;0
+e;10969680;'musée d'art moderne de la ville de Paris';777;0
+e;10969674;'ville du Sud-Ouest de la France';1;0
+e;11782725;'hôtel de ville de Rennes';777;0
+e;11984836;'ville des États-Unis';1;0
+e;12313242;'ville de Xincheng';777;0
+e;13517822;'usine à gaz de ville';1;0
+e;16041970;'clefs d'une ville';1;0
+e;15384693;'coeur d'une ville';1;0
+e;15778926;'comité interministériel de la ville';1;0
+e;15413795;'costume de ville';1;0
+e;2467871;'ville-État';1;2
+e;5817220;'ville romaine antique';1;0
+e;9963705;'parc de la ville de Paris';777;0
+e;9985664;'La ville gronde';777;0
+e;10955249;'clés de la ville';777;0
+e;10582961;'monuments historiques classés ou inscrits dans la ville de Périgueux';777;0
+e;10870460;'université de la ville de New York';777;0
+e;11071779;'prendre un appartement en ville';1;0
+e;11354983;'ville libre de Cracovie';777;0
+e;11754699;'gouvernement de la ville de New York';777;0
+e;11811805;'violences dans la ville de Karachi';777;0
+e;11822325;'Nouvel Hôtel de ville de Budapest';777;0
+e;11822310;'Hôtel de ville de Budapest';777;0
+e;11823868;'fondation de la ville de Milan';777;0
+e;10035938;'Menaces sur la ville';777;0
+e;10026502;'Les armoiries de la ville d'Amiens';777;0
+e;10961177;'ville de kraljevo';777;0
+e;10734599;'histoire de la ville de Seltz';777;0
+e;10922526;'ville du Chili';777;0
+e;11070873;'hôtel de ville de Compiègne';777;0
+e;11077276;'hôtel de ville de Vitry-le-François';777;0
+e;11348624;'hôtel de ville de Bruges';777;0
+e;11349001;'Rafles sur la ville';777;0
+e;11807307;'Constitution provinciale de la ville libre hanséatique de Brême du 21 octobre 1947';777;0
+e;11808130;'Trophée de la ville de Castelfidardo';777;0
+e;11808259;'Grand Prix de la ville de Montegranaro';777;0
+e;11808211;'Grand Prix de la ville de Vinci';777;0
+e;11808278;'65e édition du Grand Prix de la ville de Camaiore';777;0
+e;11808210;'Grand Prix de la ville d'Empoli';777;0
+e;15921753;'chef du gouvernement de la ville de Mexico';777;0
+e;16389668;'ancienne ville';1;0
+e;5897329;'Grenier de la ville de Besançon';777;0
+e;6068226;'Sceau de la ville de Chicago';777;0
+e;10834258;'Quand on arrive en ville';777;0
+e;10742929;'ville de l'Antiquité';1;0
+e;10747796;'ville de Verneuil fut prise';777;0
+e;10850758;'ancien hôtel de ville de Meximieux';777;0
+e;10850254;'ville libre de Dantzig';777;0
+e;10865278;'vieille ville de Lviv';777;0
+e;10929273;'processus de sélection de la ville hôte';777;0
+e;11080661;'monuments historiques classés ou inscrits dans la ville de Vendôme';777;0
+e;11080742;'hôtel de ville de Beaugency';777;0
+e;11083522;'musées de la ville de Paris';777;0
+e;11347614;'Les hommes illustres de la ville de Rome';777;0
+e;11407616;'sélection de la ville hôte pour les Jeux olympiques de la jeunesse d'été de 2018';777;0
+e;11407641;'liste des quartiers de la ville de Buenos Aires';777;0
+e;11726603;'hôtel de ville de Vesoul';777;0
+e;11826546;'Une étrangère dans la ville';777;0
+e;12005303;'ville de Melton';777;0
+e;12078790;'entrée de ville';1;0
+e;12301510;'ville statutaire';777;0
+e;16259868;'Lord Lieutenants Du comté et de la ville de Bristol';777;0
+e;16306014;'Pyramide des âges de la ville de Budva';777;0
+e;15524733;'Nous avons visité la ville.';1;0
+e;15239224;'On voyait briller les feux de la ville.';1;0
+e;15366414;'Oxford est une petite ville en comparaison de Londres.';1;0
+e;15366412;'Oxford est une petite ville par rapport à Londres.';1;0
+e;15773771;'Pyramide des âges de la ville de Begovina';777;0
+e;15779472;'Pyramide des âges de la ville de Bor';777;0
+e;15773775;'Pyramide des âges de la ville de Boronjina';777;0
+e;15773789;'Pyramide des âges de la ville de Daljam';777;0
+e;15773791;'Pyramide des âges de la ville de Dolovi';777;0
+e;15773793;'Pyramide des âges de la ville de Donje Selo';777;0
+e;15773781;'Pyramide des âges de la ville de Gorica';777;0
+e;15773783;'Pyramide des âges de la ville de Gradina';777;0
+e;15773785;'Pyramide des âges de la ville de Grbe';777;0
+e;15773787;'Pyramide des âges de la ville de Gruda';777;0
+e;15773799;'Pyramide des âges de la ville de Jabuke';777;0
+e;15773800;'Pyramide des âges de la ville de Jastreb';777;0
+e;15773802;'Pyramide des âges de la ville de Jelenak';777;0
+e;15773806;'Pyramide des âges de la ville de Kujava';777;0
+e;15773808;'Pyramide des âges de la ville de Kupinovo';777;0
+e;15773810;'Pyramide des âges de la ville de Lazarev Krst';777;0
+e;15773811;'Pyramide des âges de la ville de Livade';777;0
+e;15773814;'Pyramide des âges de la ville de Malenza';777;0
+e;15773816;'Pyramide des âges de la ville de Miogost';777;0
+e;15773818;'Pyramide des âges de la ville de Mokanje';777;0
+e;15773820;'Pyramide des âges de la ville de Mosori';777;0
+e;15773821;'Pyramide des âges de la ville de Novo Selo';777;0
+e;15773823;'Pyramide des âges de la ville de Orja Luka';777;0
+e;15773825;'Pyramide des âges de la ville de Pitome Loze';777;0
+e;15773829;'Pyramide des âges de la ville de Podglavica';777;0
+e;15773831;'Pyramide des âges de la ville de Poljica';777;0
+e;15773827;'Pyramide des âges de la ville de Povrhpoljina';777;0
+e;15773780;'Pyramide des âges de la ville de Veleta';777;0
+e;15773795;'Pyramide des âges de la ville de Zagorak';777;0
+e;15773797;'Pyramide des âges de la ville de Zagreda';777;0
+e;15366404;'Sonia habite une petite ville.';1;0
+e;15639897;'Une ville d'amour et d'espoir';777;0
+e;15778515;'aire d'attraction d'une ville';777;0
+e;15300808;'allant en ville';1;0
+e;15300811;'aller en ville en bus';1;0
+e;15300801;'allé en ville';1;0
+e;15258068;'ancienne ville maya';1;0
+e;16137715;'Politique de la ville';777;0
+e;16325122;'Sites dans la ville de Séoul';777;0
+e;5804928;'ville indépendante';777;0
+e;5804353;'Centre de documentation sur le nazisme de la ville de Cologne';777;0
+e;5896773;'porte de ville';1;0
+e;5984990;'blason de la ville de Valence';777;0
+e;15688045;'Pyramide des âges de la ville de Bar';777;0
+e;10041822;'tournés dans la ville de Paris';777;0
+e;10039048;'histoire de la ville de Rome';777;0
+e;10039042;'ville métropolitaine de Rome Capitale';777;0
+e;10302454;'administrateurs de la ville de Paris';777;0
+e;10252622;'monuments historiques classés ou inscrits dans la ville de Dijon';777;0
+e;10299790;'hôtel de ville de Montréal';777;0
+e;10748119;'Une petite ville tranquille';777;0
+e;10998005;'Grand Prix de la ville de Fougères';777;0
+e;11361299;'Municipalité métropolitaine de la ville de Johannesburg';777;0
+e;11698713;'hôtel de ville de Besançon';777;0
+e;11698714;'musées de la ville de Besançon';777;0
+e;11831680;'hôtel de ville de Boston';777;0
+e;12005317;'ville de Moreland';777;0
+e;12005311;'ville de Banyule';777;0
+e;12005333;'ville d'Hobsons Bay';777;0
+e;12005319;'ville de Whittlesea';777;0
+e;12005329;'ville de Glen Eira';777;0
+e;12005296;'ville de Stonnington';777;0
+e;12005327;'ville du grand Dandenong';777;0
+e;12005315;'ville de la vallée Moonee';777;0
+e;12005298;'ville de Port Phillip';777;0
+e;12005312;'ville de Darebin';777;0
+e;12005320;'ville de Knox';777;0
+e;12005335;'ville de Maribyrnong';777;0
+e;12005321;'ville de Manningham';777;0
+e;12005304;'ville de Wyndham';777;0
+e;12061722;'hôtel de ville de Bruxelles';777;0
+e;12074214;'L'hôtel de ville d'Anvers';777;0
+e;12074213;'hôtel de ville d'Anvers';777;0
+e;12074486;'Erreur sur la ville';777;0
+e;12302980;'École doctorale de l'université de la ville de New York';777;0
+e;13429416;'grand prix de la ville d'Angoulême';777;0
+e;13446719;'Système d'intégration environnementale du port et de la ville';777;0
+e;15684747;'Pyramide des âges de la ville de Blizna';777;0
+e;15773779;'Pyramide des âges de la ville de Brijestovo';777;0
+e;15773773;'Pyramide des âges de la ville de Bobulja';777;0
+e;15773804;'Pyramide des âges de la ville de Kopito';777;0
+e;15813779;'Prix des lycéens de la ville de Metz';777;0
+e;11954248;'Sofia-ville';1;0
+e;16064091;'Pyramide des âges de la ville de Sal';777;0
+e;15904442;'Les quartiers de la ville et leurs numéros';777;0
+e;15248301;'Liverpool est une ville très accueillante.';1;0
+e;16313395;'Hôtel de ville';777;0
+e;9946779;'hôtel de ville de Philadelphie';777;0
+e;10314912;'Tornade sur la ville';777;0
+e;10313018;'J'éclaire ma ville';777;0
+e;10312101;'doyenne des associations sportives de la ville de Caen';777;0
+e;10334878;'La ville est tranquille';777;0
+e;10334725;'hôtel de ville de Marseille';777;0
+e;10334524;'ville de Marseille';777;0
+e;10830353;'ville de Göteborg';777;0
+e;10998159;'Grand Prix de la ville de Buxerolles';777;0
+e;11095121;'ville haute de Longwy';777;0
+e;11361421;'musée des Beaux-Arts de la ville de Paris';777;0
+e;11770360;'chronologie de la ville de Saint-Louis';777;0
+e;11927289;'patrimoine immobilier de la ville belge de Furnes';777;0
+e;12005313;'ville de Hume';777;0
+e;15788973;'Le Justicier défie la ville';777;0
+e;16390152;'Dans la ville blanche d'Alain Tanner';777;0
+e;2383544;'compagne à la ville';1;0
+e;10335783;'ancien hôtel de ville de Toronto';777;0
+e;10335780;'hôtel de ville de Toronto';777;0
+e;10749538;'sélection de la ville hôte pour les Jeux olympiques et paralympiques 2018';777;0
+e;10809387;'Les Brutes dans la ville';777;0
+e;10829814;'hôtel de ville de Saint-François-du-Lac';777;0
+e;10846515;'ville d'importance fédérale';777;0
+e;11290554;'drapeau de la ville de New York';777;0
+e;11342727;'municipalité métropolitaine de la ville du Cap';777;0
+e;11503047;'Exeter est une ville de la province de l'Ontario';777;0
+e;11833854;'Dans les faubourgs de la ville';777;0
+e;5723031;'ville-district';1;0
+e;5804932;'ville résiliente';777;0
+e;10060937;'théâtre de la ville';777;0
+e;10753170;'Itof et la ville souterraine';777;0
+e;11247557;'ville rouge';777;0
+e;11296333;'grand projet de ville';777;0
+e;11342219;'des anciennes voies de la ville de Paris';777;0
+e;11653685;'siège de la ville et de la citadelle de Tournai';777;0
+e;11833680;'Rome ville libre';777;0
+e;15364095;'La ville a beaucoup changé.';1;0
+e;15772228;'La ville de Saint-Sébastien';777;0
+e;5537124;'char de la ville';777;0
+e;6066654;'ville de Chicago';777;0
+e;10050665;'ville tartare';777;0
+e;10049677;'Une petite ville sans histoire';777;0
+e;10049508;'Un justicier dans la ville 2';777;0
+e;10047421;'ville nouvelle de L'Isle-d'Abeau';777;0
+e;10188783;'Enfant de la ville';777;0
+e;10350696;'Mange ta ville';777;0
+e;10524713;'Beur sur la ville';777;0
+e;10519927;'ville métropolitaine de Venise';777;0
+e;10519926;'ville métropolitaine de Turin';777;0
+e;10519925;'ville métropolitaine de Reggio de Calabre';777;0
+e;10519922;'ville métropolitaine de Palerme';777;0
+e;10519919;'ville métropolitaine de Naples';777;0
+e;10519917;'ville métropolitaine de Milan';777;0
+e;10519916;'ville métropolitaine de Messine';777;0
+e;10519914;'ville métropolitaine de Gênes';777;0
+e;10519913;'ville métropolitaine de Florence';777;0
+e;10519912;'ville métropolitaine de Catane';777;0
+e;10519910;'ville métropolitaine de Cagliari';777;0
+e;10519909;'ville métropolitaine de Bologne';777;0
+e;10519908;'ville métropolitaine de Bari';777;0
+e;10754127;'hôtel de ville de Rigaud';777;0
+e;11247558;'La ville rouge';777;0
+e;11248830;'hôtel de ville de Liège';777;0
+e;11364052;'hôtel de ville de Metz';777;0
+e;11364033;'monuments historiques classés ou inscrits dans la ville de Metz';777;0
+e;11364287;'ponts de la ville de Metz';777;0
+e;11364208;'liste des maires successifs de la ville de Metz';777;0
+e;15937628;'La vieille ville de Rovigno';777;0
+e;15246464;'La situation de la ville est magnifique.';1;0
+e;2424436;'ville aux cent clochers';1;0
+e;4337970;'ville-monde';777;0
+e;10050669;'ville intérieure';777;0
+e;10050378;'hôtel de ville de Lausanne';777;0
+e;10186571;'Toute la ville accuse';777;0
+e;10186250;'Dans la ville blanche';777;0
+e;10190773;'Festival de cinéma de la ville de Québec';777;0
+e;10367235;'sélection de la ville hôte pour les Jeux olympiques de 2014';777;0
+e;10367212;'ville olympique';777;0
+e;10364792;'C'est beau une ville la nuit';777;0
+e;10516740;'hôtel de ville de Charlottetown';777;0
+e;10549019;'Trophée de la ville de Conegliano';777;0
+e;10761216;'Quand la ville s'éveille';777;0
+e;10741955;'cathédrale Sainte-Marie-de-l'Assomption ou de la haute ville';777;0
+e;11155695;'hôtel de ville de Créteil';777;0
+e;11250092;'ville de Wutai';777;0
+e;11251147;'lieux patrimoniaux de la ville de Surrey';777;0
+e;11251148;'lieux patrimoniaux de la ville de Vancouver';777;0
+e;11251306;'Hôtel de ville de Fredericton';777;0
+e;11251146;'lieux patrimoniaux de la ville de North Vancouver';777;0
+e;11326725;'vieille ville de Bakou';777;0
+e;11572009;'ville libre royale';777;0
+e;11571963;'ville de droit municipal';777;0
+e;11576218;'Trophée de la ville de Loano';777;0
+e;11573205;'secteur de ville';1;0
+e;12278126;'hôtel de ville de Nantes';777;0
+e;2445617;'compagnon à la ville';1;0
+e;5896691;'beffroi de l'Hôtel de ville de Lille';777;0
+e;10074594;'liste des quartiers de la ville de New York';777;0
+e;10074593;'géographie de la ville de New York';777;0
+e;10074587;'Département de l'Éducation de la ville de New York';777;0
+e;10082283;'hôtel de ville de Noyers';777;0
+e;10082269;'porte de ville de Noyers-sur-Serein';777;0
+e;10135634;'Emprise sur la ville';777;0
+e;10133103;'Les Inconnus dans la ville';777;0
+e;10133099;'Fureur sur la ville';777;0
+e;10187646;'ville du Québec';1;0
+e;10507563;'Le Démon sur la ville';777;0
+e;10516634;'ville néerlandophone';1;0
+e;11002974;'Kompong Cham ville';777;0
+e;11008189;'vêtement de ville';1;0
+e;11157094;'ville assiégée';1;0
+e;11182680;'ville pourvue d'un conseil dirigé';777;0
+e;11216767;'ville libre d'empire';777;0
+e;11304542;'ville allemande';1;0
+e;11558079;'ville de marché';777;0
+e;11575741;'Hôtel de ville de Brême';777;0
+e;11612540;'L'hôtel de ville d'Ath';777;0
+e;11612529;'patrimoine immobilier classé de la ville belge d'Ath';777;0
+e;11968979;'hôtel de ville de Limoges';777;0
+e;11970482;'Hôtel de ville de Noyon';777;0
+e;2367307;'ville-saint-jacquois';1;0
+e;5537920;'École nationale supérieure d'architecture de la ville et des territoires à Marne-la-Vallée';777;0
+e;5804878;'Institut pour la ville en mouvement';777;0
+e;5895246;'L'hôtel de ville de Lyon';777;0
+e;10091022;'ville de droit comital';777;0
+e;10089586;'ville de licence';777;0
+e;10096218;'ville durable';777;0
+e;10118924;'Une ville près de la mer';777;0
+e;10118600;'ville de Huangshan';777;0
+e;10118137;'ville d'Anju';777;0
+e;10185861;'Un témoin dans la ville';777;0
+e;10447545;'liste des voies de la ville de Strasbourg';777;0
+e;10462283;'histoire de la ville de Boston';777;0
+e;10459475;'Un jeune homme de la ville';777;0
+e;11008188;'vêtement de ville d'homme';1;0
+e;11102385;'hôtel de ville de Dunkerque';777;0
+e;11161658;'musée d'Art moderne de la ville de Paris';777;0
+e;11325197;'hôtel de ville de Chicago';777;0
+e;11384465;'Grand Prix de la ville de Rennes';777;0
+e;11975356;'histoire de la ville de Bologne';777;0
+e;12278360;'la forme d'une ville';777;0
+e;5553198;'élèves célèbres de l'École supérieure de physique et de chimie industrielles de la ville de Paris';777;0
+e;6040141;'ancien hôtel de ville de La Réole';777;0
+e;10175899;'monuments historiques classés ou inscrits dans la ville de Nîmes';777;0
+e;10106353;'Tournoi international de la ville de Paris';777;0
+e;10176863;'Des monstres attaquent la ville';777;0
+e;10181643;'Le Tracassin ou Les Plaisirs de la ville';777;0
+e;10447534;'musée zoologique de la ville de Strasbourg';777;0
+e;10502729;'ville de Wanrong';777;0
+e;10462314;'histoire de la ville de Miami';777;0
+e;10462304;'histoire de la ville de Louisville';777;0
+e;11157882;'loi du 21 février 2014 de programmation pour la ville et la cohésion urbaine';777;0
+e;11164158;'ville de Mudan';777;0
+e;11384803;'monuments historiques classés ou inscrits dans la ville de Fontenay-le-Comte';777;0
+e;2397332;'à la ville comme à la scène';1;0
+e;5553149;'École supérieure de physique et de chimie industrielles de la ville de Paris';777;0
+e;5982387;'vieille ville de Berne';777;0
+e;10139377;'Toute la ville danse';777;0
+e;10160979;'Les Princes de la ville';777;0
+e;10160588;'Le Diable en ville';777;0
+e;10159138;'Dans la ville endormie';777;0
+e;11158278;'jardins de l'hôtel de ville du Havre';777;0
+e;11160560;'hôtel de ville de Royan';777;0
+e;11178959;'coeur de ville';1;0
+e;13339024;'ville de Rockdale';777;0
+e;15531012;'La plupart de mes déplacements en voiture se font en ville.';1;0
+e;15937983;'La route contourne la ville.';1;0
+e;5553171;'histoire de l'École supérieure de physique et de chimie industrielles de la ville de Paris';777;0
+e;10156137;'Grand Prix de la ville de Pérenchies';777;0
+e;10156136;'Grand Prix de la ville de Pérenchies 2016';777;0
+e;10144181;'ville de Hukou';777;0
+e;10142549;'Terreur dans la ville';777;0
+e;11104695;'liste des immeubles les plus hauts de la ville de Phoenix';777;0
+e;11104682;'liste des gratte-ciel de la ville de Francfort-sur-le-Main';777;0
+e;11104699;'liste des plus hautes constructions de la ville de Québec';777;0
+e;11104993;'coupé de ville';777;0
+e;11105232;'musée d'art et d'histoire de la ville de Saint-Denis';777;0
+e;5703873;'Une ville immortelle de Pierre-Jean Rémy';777;0
+e;10443052;'vieille ville de Lijiang';777;0
+e;11105166;'monuments historiques classés ou inscrits dans la ville de Carcassonne';777;0
+e;11105274;'monuments historiques classés ou inscrits dans la ville de Falaise';777;0
+e;5984377;'vieille ville de Jérusalem';777;0
+e;10436920;'musée de la ville de New York';777;0
+e;5980898;'vieille ville de Dubrovnik';777;0
+e;10442099;'ville de Jianshi';777;0
+e;14227689;'Histoire memorable de la ville de Sancerre';777;0
+e;5517003;'petite ville touristique';1;0
+e;6595875;'monuments historiques classés ou inscrits dans la ville de Sens';777;0
+e;15693912;'Bilan par ville';777;0
+e;8785758;'relancer l'économie d'une ville';1;0
+e;8853034;'contrôler une ville';1;0
+e;9028034;'bus de ville';1;0
+e;9615061;'ville interdite';1;0
+e;9615066;'ville fermée';1;0
+e;9615069;'ville secrète';1;0
+e;9669046;'ville de Groningue';777;0
+e;9800002;'monuments classés de la ville de Lint';777;0
+e;9802965;'prise de la ville';777;0
+e;10083203;'Musée des beaux-arts de la ville de Paris';777;0
+e;11108673;'Les photos de la ville';777;0
+e;11119672;'bonne ville';777;0
+e;11120746;'hôtel de ville d'Oslo';777;0
+e;11122058;'ville d'Angleterre';1;0
+e;11129718;'monuments historiques classés ou inscrits dans la ville de Tours';777;0
+e;12489206;'musée de la ville de Bruxelles';777;0
+e;12617524;'envahir une ville';1;0
+e;12658278;'investir une ville';1;0
+e;12658277;'investir la ville';1;0
+e;12617523;'envahir la ville';1;0
+e;12710719;'liste les personnalités membres du gouvernement français titulaires du poste responsable de la politique de la ville';777;0
+e;12717404;'musée historique de la ville de Strasbourg';777;0
+e;12734296;'monuments historiques classés ou inscrits dans la ville de Thiers';777;0
+e;15251365;'Il y a quelque chose d'irrésistiblement romantique à propos de cette ville.';1;0
+e;15300996;'Il y a beaucoup de bus pour le centre ville.';1;0
+e;15197344;'Il s'est fait agresser au centre ville.';1;0
+e;15271706;'J'ai rendez-vous avec Marie en ville.';1;0
+e;15227709;'Aix est une jolie ville.';1;0
+e;15391179;'Je prends le bus pour aller en ville.';1;0
+e;15396838;'Je vais en ville.';1;0
+e;15692853;'Centre ville';777;0
+e;15781634;'Chronologie de l'histoire de la ville de Parme';777;0
+e;15790735;'400e anniversaire de la ville de Québec';777;0
+e;15779728;'Complot dans la ville';777;0
+e;15921922;'Avec la ville de Moscou';777;0
+e;15633832;'L'hôtel de ville';777;0
+e;16087911;'Centre-ville';1;0
+e;1822019;'ville d'Autriche';1;0
+e;1822020;'ville de Cisjordanie';1;0
+e;2544775;'ville des médias';1;0
+e;3180697;'ville du 6 octobre';777;0
+e;3312784;'ville d'altitude';777;0
+e;3731092;'histoire de la ville de New York';777;0
+e;5324048;'eau de ville';1;0
+e;1552602;'bruit de la ville';1;0
+e;1822017;'ville de Thaïlande';1;0
+e;2526386;'ville-province';1;0
+e;3177941;'ville métropolitaine';1;0
+e;3707016;'louer un appartement en ville';1;0
+e;3922454;'ville aux cent églises';1;0
+e;5355669;'vivre en ville';1;26
+e;1492204;'ville biblique';1;12
+e;2569129;'ville de New York';1;0
+e;4502774;'ville imaginaire';1;0
+e;3186124;'Le Rat de ville et le Rat des champs';1;0
+e;2303765;'ville-champignons';2;0
+e;169445;'ville rose';1;56
+e;1805568;'arriver en ville';1;0
+e;1918646;'la ville en rue libre';777;0
+e;3490715;'défendre une ville';1;0
+e;4315692;'raser une ville de la carte';1;0
+e;5331197;'détester la ville';1;0
+e;1468291;'ville-montagne';777;0
+e;1822021;'ville de France';1;0
+e;2143011;'centres-ville';2;0
+e;2953566;'En ville';777;0
+e;4289750;'la ville de l'espéranto';777;0
+e;1701934;'ville caravanière';1;0
+e;1804826;'ville de Suisse';1;0
+e;3174869;'ville de fiction';1;0
+e;3379727;'ville de Bruxelles';777;0
+e;5521888;'ville de Yarra';777;0
+e;1822018;'ville de Turquie';1;0
+e;1907921;'ville de Zenica';777;0
+e;2210921;'hôtels de ville';2;0
+e;2555563;'Bruxelles-ville';1;0
+e;4388780;'Un Indien dans la ville';666;0
+e;4337968;'ville globale';1;0
+e;4337969;'ville mondiale';777;0
+e;4344495;'ville candidate';1;0
+e;4857063;'Une ville flottante';1;0
+e;1965522;'fille de la ville';1;0
+e;2143010;'centres ville';2;0
+e;2953791;'De ville en ville';777;0
+e;1842093;'pratique de ville';1;0
+e;1859919;'ville moderne';1;0
+e;2952021;'hôtel de ville de Paris';777;0
+e;2949525;'ville de';777;0
+e;153634;'rat des villes';1;132
+e;284776;'ville au Moyen Âge';777;50
+e;387020;'ville médiévale';1;50
+e;350842;'en la bonne ville de';1;50
+e;387030;'ville seigneuriale';1;50
+e;387027;'ville d'ateliers';1;50
+e;387023;'ville stratégique';1;50
+e;387021;'ville neuve';1;50
+e;386997;'ville commerçante';1;50
+e;382848;'tambour de ville';1;50
+e;337385;'au gaz de ville';1;50
+e;387026;'ville d'affaires';1;50
+e;387025;'ville universitaire';1;52
+e;387012;'ville impériale';1;50
+e;387005;'ville européenne';1;50
+e;360216;'jolie petite ville';1;50
+e;387018;'ville moyenne';1;50
+e;387016;'ville minière';1;50
+e;387004;'ville dortoir';1;8
+e;386995;'ville administrative';1;50
+e;346173;'dans la bonne ville de';1;50
+e;338199;'baise en ville';1;50
+e;387017;'ville morte';1;50
+e;387011;'ville historique';1;50
+e;387009;'ville hanséatique';1;50
+e;387008;'ville frontière';1;50
+e;387006;'ville flottante';1;50
+e;387001;'ville de commerce';1;50
+e;356098;'gens de la ville';1;50
+e;355976;'gars de la ville';1;50
+e;387015;'ville martyre';1;50
+e;386996;'ville arabe';1;50
+e;370019;'petite ville de province';1;50
+e;387028;'ville d'étape';1;50
+e;387010;'ville haute';1;50
+e;387003;'ville de province';1;50
+e;387002;'ville de musées';1;50
+e;386998;'ville côtière';1;50
+e;367503;'opération ville morte';1;50
+e;343099;'charte de ville';1;50
+e;342614;'chambre en ville';1;50
+e;338957;'belle petite ville';1;50
+e;387022;'ville royale';1;54
+e;387019;'ville musée';1;50
+e;387013;'ville marchande';1;50
+e;386999;'ville d'art';1;50
+e;342896;'chapeau de ville';1;50
+e;334595;'air de la ville';1;50
+e;387000;'ville d'histoire';1;50
+e;384146;'tour de ville';1;50
+e;355867;'gant de ville';1;50
+e;350841;'en la bonne ville';1;50
+e;346172;'dans la bonne ville';1;50
+e;336187;'archer de ville';1;50
+e;387024;'ville sujette';1;50
+e;387014;'ville maritime';1;50
+e;387007;'ville frontalière';1;50
+e;351152;'en pleine ville';1;50
+e;343475;'chemise de ville';1;50
+e;341466;'capitaine de ville';1;50
+e;284439;'ville-centre';777;50
+e;269584;'basse-ville';1;50
+e;238796;'ville-fantôme';1;50
+e;165147;'ville-préfecture';1;50
+e;151315;'ville-champignon';1;50
+e;275610;'ville italienne';777;50
+e;42351;'baise-en-ville';1;56
+e;11428;'ville-dortoir';1;56
+e;131717;'centre-ville';1;102
+e;209841;'vieille ville';1;50
+e;318232;'gare centrale de la ville';1;50
+e;318467;'ville natale';1;50
+e;321202;'sortie en ville';1;50
+e;321529;'ville française';1;54
+e;326315;'On murmure dans la ville';777;50
+e;317641;'ville intelligente';1;50
+e;232367;'Le Baiser de l'hôtel de ville';1;50
+e;115226;'La Magnifique et Somptueuse Pompe funèbre, faite aux obsèques de Charles Cinquième, célébrées en la ville de Bruxelles';1;50
+e;166050;'de ville';1;52
+e;211179;'livrer les clefs d'une ville';1;50
+e;213050;'L'Amour à la ville';1;50
+e;219810;'partie de ville';1;64
+e;223197;'ville antique';1;50
+e;226709;'Deux hommes dans la ville';1;2
+e;227987;'ville américaine';1;50
+e;229927;'ville de Mexique';666;50
+e;232855;'ville de guerre';1;50
+e;241513;'ville trois fois sainte';1;2
+e;245616;'médecine de ville';1;50
+e;247688;'ville thermale';1;62
+e;259920;'médecin de ville';1;50
+e;217611;'ville aux sept collines';1;52
+e;232499;'ville fleurie';1;50
+e;260973;'ville portuaire';1;24
+e;242216;'ville touristique';1;48
+e;39510;'Le Sourd dans la ville';1;50
+e;63949;'Une chambre en ville';1;50
+e;97841;'La route qui mène à la ville';1;50
+e;103560;'sergent de ville';1;58
+e;105992;'Rome, ville ouverte';1;50
+e;145154;'La ville qui n'existait pas';1;50
+e;298633;'histoire de la ville de';777;50
+e;162024;'ville Ivoirienne';1;50
+e;212407;'ville balnéaire';1;4
+e;209870;'ville basse';1;50
+e;165149;'ville chinoise';1;50
+e;162022;'ville d'Espagne';1;50
+e;160828;'ville d'Italie';1;50
+e;161555;'ville de Bosnie';1;50
+e;161554;'ville de Bosnie-Herzégovine';1;54
+e;160681;'ville de Californie';1;58
+e;162023;'ville de Côte-d'Ivoire';1;50
+e;160827;'ville de Russie';1;52
+e;209871;'ville de garnison';1;50
+e;160100;'ville du Japon';1;70
+e;164560;'ville du Texas';1;52
+e;162021;'ville espagnole';1;50
+e;209872;'ville franche';1;50
+e;161556;'ville industrielle';1;60
+e;160099;'ville japonaise';1;68
+e;209873;'ville libre';1;50
+e;209874;'ville résidentielle';1;50
+e;209875;'ville satellite';1;50
+e;209876;'ville tentaculaire';1;54
+e;44917;'ouvrage de ville';1;50
+e;55703;'vieille ville de Vilnius';1;50
+e;153056;'vélo de ville';1;54
+e;264716;'ville fantôme';1;56
+e;269239;'ville de Grèce';1;50
+e;269585;'basse ville';1;50
+e;271946;'ville mythique';777;4
+e;274897;'ville de Paris';1;116
+e;283496;'Marcovaldo ou Les saisons en ville';777;50
+e;287514;'ville de Gold Coast';777;50
+e;292403;'ville de Senkadagalapura';777;50
+e;292457;'Peur sur la ville';666;50
+e;304052;'ville extérieure';777;50
+e;158588;'ville Croate';1;54
+e;159843;'ville bulgare';1;50
+e;159123;'ville de Bulgarie';1;60
+e;158967;'ville de Croatie';1;50
+e;159554;'ville du Tchad';1;54
+e;184778;'ville estudiantine';1;50
+e;54526;'ville impériale de Huê';1;50
+e;158888;'ville principale';1;52
+e;184780;'ville qui ne dort jamais';1;50
+e;158871;'ville romaine';1;58
+e;184779;'ville éternelle';1;50
+e;132539;'Toute la ville en parle';1;50
+e;135514;'maison de ville';1;58
+e;190753;'politique de la ville';1;52
+e;312705;'ville du 6 Octobre';1;50
+e;18385;'ville forte';1;54
+e;7994;'Les Chemins de la haute ville';1;50
+e;9867;'Lumières de la ville';1;50
+e;9573;'ville entourée de murailles';1;50
+e;146147;'ville d'eaux';1;58
+e;659;'chaussure de ville';1;60
+e;159465;'ville de banlieue';1;80
+e;179502;'tenue de ville';1;6
+e;159476;'ville champignon';1;50
+e;175078;'ville sainte';1;6
+e;156137;'chaussures de ville';1;52
+e;159475;'ville fortifiée';1;60
+e;158923;'gaz de ville';1;130
+e;159875;'ville ouverte';1;52
+e;248256;'dîner en ville';1;54
+e;155673;'à la ville';1;54
+e;155408;'ville de lumière';1;54
+e;158492;'ville lumière';1;58
+e;163047;'petite ville';1;78
+e;115878;'hôtel de ville';1;96
+e;152756;'centre ville';1;134
+e;161447;'belle ville';1;72
+e;156038;'aller en ville';1;68
+e;153550;'ville nouvelle';1;76
+e;159251;'de ville en ville';1;54
+e;146809;'grande ville';1;114
+e;153551;'en ville';1;144
+r;293017170;136786;11405357;11;25
+r;296969994;136786;6100552;11;25
+r;300196589;136786;6325549;11;25
+r;301528026;136786;6344444;11;25
+r;303934055;136786;6382369;11;25
+r;305706069;136786;6420561;11;25
+r;337347675;136786;12983489;11;25
+r;343136202;136786;13541890;11;25
+r;343392547;136786;13547688;11;25
+r;344121780;136786;13588496;11;25
+r;344998094;136786;13598715;11;25
+r;345317601;136786;13627060;11;25
+r;345785802;136786;13634652;11;25
+r;346082717;136786;13640143;11;25
+r;346964232;136786;13656842;11;25
+r;347399245;136786;13682736;11;25
+r;349381076;136786;13812797;11;25
+r;354009545;136786;14012126;11;25
+r;356692490;136786;14094357;11;25
+r;360762680;136786;14205840;11;25
+r;366512562;136786;14434442;11;25
+r;366941627;136786;14454488;11;25
+r;370338060;136786;14567177;11;25
+r;370728445;136786;14590174;11;25
+r;371485799;136786;14612297;11;25
+r;371681388;136786;14631561;11;25
+r;371834696;136786;14637419;11;25
+r;372870948;136786;14657280;11;25
+r;372943708;136786;14665808;11;25
+r;373014789;136786;14670092;11;25
+r;373015261;136786;14670093;11;25
+r;374346444;136786;14724255;11;25
+r;374560373;136786;14731695;11;25
+r;374644998;136786;14735223;11;25
+r;375286935;136786;14764291;11;25
+r;412535856;136786;15830876;11;25
+r;389005805;136786;14894797;11;25
+r;409920344;136786;15781720;11;25
+r;410401873;136786;15787622;11;25
+r;412342197;136786;15818031;11;25
+r;412666190;136786;15835075;11;25
+r;418260292;136786;16053653;11;25
+r;418260303;136786;16053651;11;25
+r;419847449;136786;16094658;11;25
+r;423682718;136786;16070812;11;25
+r;423702833;136786;16154376;11;25
+r;423897682;136786;16167867;11;25
+r;428702626;136786;16314464;11;25
+r;428910769;136786;16319349;11;25
+r;430341142;136786;16324788;11;25
+r;435162219;136786;16565551;11;25
+r;435177476;136786;16565622;11;25
+r;435423887;136786;16573699;11;25
+r;282751642;136786;11130144;11;26
+r;304993255;136786;6394182;11;26
+r;316331253;136786;12198302;11;26
+r;316343724;136786;12199575;11;26
+r;316348986;136786;12199511;11;26
+r;316349969;136786;12199816;11;26
+r;337342502;136786;12988476;11;26
+r;368127113;136786;14486311;11;26
+r;368129172;136786;14486426;11;26
+r;370270536;136786;14568839;11;26
+r;370270870;136786;14568878;11;26
+r;370270882;136786;14568879;11;26
+r;372940051;136786;14668592;11;26
+r;374223820;136786;14718310;11;26
+r;374223866;136786;14718315;11;26
+r;385025710;136786;14874308;11;26
+r;418682608;136786;16071003;11;26
+r;433016601;136786;16391113;11;26
+r;435148386;136786;16565469;11;26
+r;435194667;136786;16565617;11;26
+r;270765332;136786;10730059;11;27
+r;270766990;136786;10685415;11;27
+r;270766938;136786;10685912;11;27
+r;270781565;136786;10672847;11;27
+r;267325573;136786;10664732;11;27
+r;267329191;136786;10663318;11;27
+r;333794222;136786;12989758;11;27
+r;334053174;136786;12990837;11;27
+r;435148154;136786;16565505;11;27
+r;435177962;136786;16565470;11;27
+r;113792459;136786;5798796;11;28
+r;119674990;136786;6082887;11;28
+r;270767000;136786;10685414;11;28
+r;266719223;136786;10619905;11;28
+r;267316766;136786;10671393;11;28
+r;343041890;136786;13536784;11;28
+r;342748688;136786;13534054;11;28
+r;113297444;136786;5804926;11;29
+r;264467982;136786;10589478;11;29
+r;264469219;136786;10589051;11;29
+r;266724135;136786;10618322;11;29
+r;266726785;136786;10617493;11;29
+r;301615624;136786;11756086;11;29
+r;301618705;136786;11756085;11;29
+r;301862251;136786;11769967;11;29
+r;301878535;136786;11769964;11;29
+r;301898157;136786;11770323;11;29
+r;301930973;136786;11770322;11;29
+r;301938899;136786;11769977;11;29
+r;302253569;136786;11774997;11;29
+r;392444700;136786;15039941;11;29
+r;34654890;136786;68804;11;30
+r;52524179;136786;2498649;11;30
+r;112186416;136786;5698269;11;30
+r;220868147;136786;9959153;11;30
+r;227680677;136786;9992061;11;30
+r;263795611;136786;10587610;11;30
+r;263796751;136786;10586994;11;30
+r;264433434;136786;10602668;11;30
+r;264440043;136786;10600111;11;30
+r;264443322;136786;10598934;11;30
+r;264444214;136786;10598437;11;30
+r;264451753;136786;10595254;11;30
+r;264466707;136786;10589980;11;30
+r;273124061;136786;10896610;11;30
+r;274274999;136786;10907965;11;30
+r;274283920;136786;10906508;11;30
+r;274289307;136786;10905174;11;30
+r;274294584;136786;10903568;11;30
+r;274296768;136786;10903169;11;30
+r;274586381;136786;10915280;11;30
+r;277482433;136786;10988694;11;30
+r;280288477;136786;11034208;11;30
+r;301996534;136786;11771205;11;30
+r;342383868;136786;13518272;11;30
+r;419768200;136786;15563955;11;30
+r;419775904;136786;15198867;11;30
+r;419811033;136786;15401388;11;30
+r;419829997;136786;15300806;11;30
+r;419830005;136786;15300803;11;30
+r;419832011;136786;15626155;11;30
+r;220666644;136786;9954942;11;31
+r;220836822;136786;9959022;11;31
+r;220865235;136786;9959194;11;31
+r;221176519;136786;9963530;11;31
+r;222104902;136786;9979841;11;31
+r;264217214;136786;10596098;11;31
+r;264445577;136786;10597523;11;31
+r;276979073;136786;10969680;11;31
+r;276981784;136786;10969674;11;31
+r;303726836;136786;11782725;11;31
+r;312396672;136786;11984836;11;31
+r;319819778;136786;12313242;11;31
+r;342339575;136786;13517822;11;31
+r;419713502;136786;16041970;11;31
+r;419716264;136786;15384693;11;31
+r;419719645;136786;15778926;11;31
+r;419742268;136786;15413795;11;31
+r;55810069;136786;2467871;11;32
+r;113772892;136786;5817220;11;32
+r;221193874;136786;9963705;11;32
+r;222096631;136786;9985664;11;32
+r;276019902;136786;10955249;11;32
+r;263698864;136786;10582961;11;32
+r;272639331;136786;10870460;11;32
+r;283114129;136786;11071779;11;32
+r;291209821;136786;11354983;11;32
+r;301446706;136786;11754699;11;32
+r;305013935;136786;11811805;11;32
+r;305158645;136786;11822325;11;32
+r;305159845;136786;11822310;11;32
+r;305360614;136786;11823868;11;32
+r;227617945;136786;10035938;11;33
+r;227641272;136786;10026502;11;33
+r;276208802;136786;10961177;11;33
+r;269415489;136786;10734599;11;33
+r;274970672;136786;10922526;11;33
+r;280660758;136786;11070873;11;33
+r;280864175;136786;11077276;11;33
+r;290750513;136786;11348624;11;33
+r;290777052;136786;11349001;11;33
+r;304438032;136786;11807307;11;33
+r;304490658;136786;11808130;11;33
+r;304525042;136786;11808259;11;33
+r;304530221;136786;11808211;11;33
+r;304534239;136786;11808278;11;33
+r;304549404;136786;11808210;11;33
+r;414465268;136786;15921753;11;33
+r;434370629;136786;16389668;11;33
+r;115107367;136786;5897329;11;34
+r;118958643;136786;6068226;11;34
+r;270917624;136786;10834258;11;34
+r;268752785;136786;10742929;11;34
+r;269386812;136786;10747796;11;34
+r;272187943;136786;10850758;11;34
+r;272190107;136786;10850254;11;34
+r;272522167;136786;10865278;11;34
+r;274964794;136786;10929273;11;34
+r;281058144;136786;11080661;11;34
+r;281072779;136786;11080742;11;34
+r;281258439;136786;11083522;11;34
+r;290724107;136786;11347614;11;34
+r;293406662;136786;11407616;11;34
+r;293421572;136786;11407641;11;34
+r;300953850;136786;11726603;11;34
+r;305525111;136786;11826546;11;34
+r;313144857;136786;12005303;11;34
+r;315121444;136786;12078790;11;34
+r;319705757;136786;12301510;11;34
+r;434351066;136786;16259868;11;34
+r;427607100;136786;16306014;11;34
+r;419515197;136786;15524733;11;34
+r;419519344;136786;15239224;11;34
+r;419520460;136786;15366414;11;34
+r;419520470;136786;15366412;11;34
+r;419529940;136786;15773771;11;34
+r;419529950;136786;15779472;11;34
+r;419529960;136786;15773775;11;34
+r;419529970;136786;15773789;11;34
+r;419529980;136786;15773791;11;34
+r;419529990;136786;15773793;11;34
+r;419530002;136786;15773781;11;34
+r;419530012;136786;15773783;11;34
+r;419530022;136786;15773785;11;34
+r;419530032;136786;15773787;11;34
+r;419530042;136786;15773799;11;34
+r;419530052;136786;15773800;11;34
+r;419530062;136786;15773802;11;34
+r;419530072;136786;15773806;11;34
+r;419530082;136786;15773808;11;34
+r;419530092;136786;15773810;11;34
+r;419530104;136786;15773811;11;34
+r;419530114;136786;15773814;11;34
+r;419530124;136786;15773816;11;34
+r;419530134;136786;15773818;11;34
+r;419530144;136786;15773820;11;34
+r;419530154;136786;15773821;11;34
+r;419530166;136786;15773823;11;34
+r;419530178;136786;15773825;11;34
+r;419530190;136786;15773829;11;34
+r;419530200;136786;15773831;11;34
+r;419530210;136786;15773827;11;34
+r;419530220;136786;15773780;11;34
+r;419530230;136786;15773795;11;34
+r;419530240;136786;15773797;11;34
+r;419547590;136786;15366404;11;34
+r;419558392;136786;15639897;11;34
+r;419584171;136786;15778515;11;34
+r;419586817;136786;15300808;11;34
+r;419587768;136786;15300811;11;34
+r;419589554;136786;15300801;11;34
+r;419594163;136786;15258068;11;34
+r;423388330;136786;16137715;11;34
+r;430369756;136786;16325122;11;34
+r;113297434;136786;5804928;11;35
+r;113299584;136786;5804353;11;35
+r;115109300;136786;5896773;11;35
+r;117893485;136786;5984990;11;35
+r;403480515;136786;15688045;11;35
+r;227601121;136786;10041822;11;35
+r;227612294;136786;10039048;11;35
+r;227612314;136786;10039042;11;35
+r;252682822;136786;10302454;11;35
+r;247439433;136786;10252622;11;35
+r;248116856;136786;10299790;11;35
+r;269385602;136786;10748119;11;35
+r;278149884;136786;10998005;11;35
+r;291990249;136786;11361299;11;35
+r;300927827;136786;11698713;11;35
+r;300934197;136786;11698714;11;35
+r;305908491;136786;11831680;11;35
+r;312861062;136786;12005317;11;35
+r;312861216;136786;12005311;11;35
+r;312861292;136786;12005333;11;35
+r;312861555;136786;12005319;11;35
+r;312862276;136786;12005329;11;35
+r;312862506;136786;12005296;11;35
+r;312862779;136786;12005327;11;35
+r;312862836;136786;12005315;11;35
+r;312862868;136786;12005298;11;35
+r;312866950;136786;12005312;11;35
+r;312867689;136786;12005320;11;35
+r;312869667;136786;12005335;11;35
+r;312872902;136786;12005321;11;35
+r;312874138;136786;12005304;11;35
+r;313938745;136786;12061722;11;35
+r;314436938;136786;12074214;11;35
+r;314440990;136786;12074213;11;35
+r;314462314;136786;12074486;11;35
+r;319622392;136786;12302980;11;35
+r;340811735;136786;13429416;11;35
+r;341225082;136786;13446719;11;35
+r;403073290;136786;15684747;11;35
+r;408215120;136786;15773779;11;35
+r;408372642;136786;15773773;11;35
+r;409191806;136786;15773804;11;35
+r;411783763;136786;15813779;11;35
+r;417152303;136786;11954248;11;35
+r;418410415;136786;16064091;11;35
+r;419497130;136786;15904442;11;35
+r;419500065;136786;15248301;11;35
+r;428573433;136786;16313395;11;35
+r;220495641;136786;9946779;11;36
+r;252668401;136786;10314912;11;36
+r;252674694;136786;10313018;11;36
+r;252678478;136786;10312101;11;36
+r;253387932;136786;10334878;11;36
+r;253388478;136786;10334725;11;36
+r;253389462;136786;10334524;11;36
+r;270432410;136786;10830353;11;36
+r;278050143;136786;10998159;11;36
+r;281386349;136786;11095121;11;36
+r;291543537;136786;11361421;11;36
+r;301926349;136786;11770360;11;36
+r;307699315;136786;11927289;11;36
+r;312867935;136786;12005313;11;36
+r;419490405;136786;15788973;11;36
+r;432992304;136786;16390152;11;36
+r;52960912;136786;2383544;11;37
+r;253383947;136786;10335783;11;37
+r;253383977;136786;10335780;11;37
+r;269382268;136786;10749538;11;37
+r;270208688;136786;10809387;11;37
+r;270406059;136786;10829814;11;37
+r;271772546;136786;10846515;11;37
+r;289892737;136786;11290554;11;37
+r;290583821;136786;11342727;11;37
+r;295543398;136786;11503047;11;37
+r;306356317;136786;11833854;11;37
+r;113223059;136786;5723031;11;38
+r;113297425;136786;5804932;11;38
+r;232109458;136786;10060937;11;38
+r;269376208;136786;10753170;11;38
+r;288386671;136786;11247557;11;38
+r;289890104;136786;11296333;11;38
+r;290563989;136786;11342219;11;38
+r;298391936;136786;11653685;11;38
+r;306035437;136786;11833680;11;38
+r;417155844;136786;15364095;11;38
+r;417155850;136786;15772228;11;38
+r;109664669;136786;5537124;11;39
+r;118930216;136786;6066654;11;39
+r;227577148;136786;10050665;11;39
+r;227582348;136786;10049677;11;39
+r;227583393;136786;10049508;11;39
+r;227585730;136786;10047421;11;39
+r;242261323;136786;10188783;11;39
+r;254171970;136786;10350696;11;39
+r;262524008;136786;10524713;11;39
+r;262530581;136786;10519927;11;39
+r;262530590;136786;10519926;11;39
+r;262530599;136786;10519925;11;39
+r;262530617;136786;10519922;11;39
+r;262530634;136786;10519919;11;39
+r;262530647;136786;10519917;11;39
+r;262530656;136786;10519916;11;39
+r;262530669;136786;10519914;11;39
+r;262530678;136786;10519913;11;39
+r;262530687;136786;10519912;11;39
+r;262530700;136786;10519910;11;39
+r;262530709;136786;10519909;11;39
+r;262530718;136786;10519908;11;39
+r;269374373;136786;10754127;11;39
+r;288061966;136786;11247558;11;39
+r;288382957;136786;11248830;11;39
+r;291676471;136786;11364052;11;39
+r;291687537;136786;11364033;11;39
+r;291812314;136786;11364287;11;39
+r;291812653;136786;11364208;11;39
+r;414767419;136786;15937628;11;39
+r;417155158;136786;15246464;11;39
+r;54540732;136786;2424436;11;40
+r;98975168;136786;4337970;11;40
+r;227577139;136786;10050669;11;40
+r;227578314;136786;10050378;11;40
+r;241516822;136786;10186571;11;40
+r;241517893;136786;10186250;11;40
+r;242255807;136786;10190773;11;40
+r;254592250;136786;10367235;11;40
+r;254592400;136786;10367212;11;40
+r;254593753;136786;10364792;11;40
+r;262206426;136786;10516740;11;40
+r;262884946;136786;10549019;11;40
+r;269372837;136786;10761216;11;40
+r;269411720;136786;10741955;11;40
+r;283716977;136786;11155695;11;40
+r;288196442;136786;11250092;11;40
+r;288257970;136786;11251147;11;40
+r;288258523;136786;11251148;11;40
+r;288263092;136786;11251306;11;40
+r;288263302;136786;11251146;11;40
+r;290163578;136786;11326725;11;40
+r;297239654;136786;11572009;11;40
+r;297242210;136786;11571963;11;40
+r;297597767;136786;11576218;11;40
+r;297606632;136786;11573205;11;40
+r;319038905;136786;12278126;11;40
+r;55358479;136786;2445617;11;41
+r;115109696;136786;5896691;11;41
+r;232075735;136786;10074594;11;41
+r;232075753;136786;10074593;11;41
+r;232075834;136786;10074587;11;41
+r;232470748;136786;10082283;11;41
+r;232470789;136786;10082269;11;41
+r;236681244;136786;10135634;11;41
+r;236690724;136786;10133103;11;41
+r;236690744;136786;10133099;11;41
+r;241343872;136786;10187646;11;41
+r;262051133;136786;10507563;11;41
+r;262206702;136786;10516634;11;41
+r;278307992;136786;11002974;11;41
+r;278736562;136786;11008189;11;41
+r;283818499;136786;11157094;11;41
+r;287139838;136786;11182680;11;41
+r;287363585;136786;11216767;11;41
+r;289662425;136786;11304542;11;41
+r;296880807;136786;11558079;11;41
+r;297553986;136786;11575741;11;41
+r;298018854;136786;11612540;11;41
+r;298029762;136786;11612529;11;41
+r;308834280;136786;11968979;11;41
+r;308869108;136786;11970482;11;41
+r;50473807;136786;2367307;11;42
+r;109661866;136786;5537920;11;42
+r;113297732;136786;5804878;11;42
+r;114746683;136786;5895246;11;42
+r;233027540;136786;10091022;11;42
+r;233034260;136786;10089586;11;42
+r;234230419;136786;10096218;11;42
+r;234741041;136786;10118924;11;42
+r;234742712;136786;10118600;11;42
+r;234743650;136786;10118137;11;42
+r;240917521;136786;10185861;11;42
+r;258721846;136786;10447545;11;42
+r;261006870;136786;10462283;11;42
+r;261017219;136786;10459475;11;42
+r;278677673;136786;11008188;11;42
+r;281608710;136786;11102385;11;42
+r;285657756;136786;11161658;11;42
+r;290052167;136786;11325197;11;42
+r;292120718;136786;11384465;11;42
+r;310285969;136786;11975356;11;42
+r;318937869;136786;12278360;11;42
+r;109888324;136786;5553198;11;43
+r;118938662;136786;6040141;11;43
+r;238929008;136786;10175899;11;43
+r;234221447;136786;10106353;11;43
+r;238925546;136786;10176863;11;43
+r;240635677;136786;10181643;11;43
+r;258721891;136786;10447534;11;43
+r;261002796;136786;10502729;11;43
+r;261006709;136786;10462314;11;43
+r;261006760;136786;10462304;11;43
+r;283896381;136786;11157882;11;43
+r;285825049;136786;11164158;11;43
+r;292141239;136786;11384803;11;43
+r;53233936;136786;2397332;11;44
+r;109888608;136786;5553149;11;44
+r;117905172;136786;5982387;11;44
+r;236663827;136786;10139377;11;44
+r;238097794;136786;10160979;11;44
+r;238099146;136786;10160588;11;44
+r;238109045;136786;10159138;11;44
+r;283999704;136786;11158278;11;44
+r;285408674;136786;11160560;11;44
+r;286747724;136786;11178959;11;44
+r;338837330;136786;13339024;11;44
+r;417032813;136786;15531012;11;44
+r;417033391;136786;15937983;11;44
+r;109888509;136786;5553171;11;45
+r;236644651;136786;10156137;11;45
+r;236644665;136786;10156136;11;45
+r;236657382;136786;10144181;11;45
+r;236660835;136786;10142549;11;45
+r;281769617;136786;11104695;11;45
+r;281770559;136786;11104682;11;45
+r;281777186;136786;11104699;11;45
+r;281779633;136786;11104993;11;45
+r;282497241;136786;11105232;11;45
+r;112182002;136786;5703873;11;46
+r;256582865;136786;10443052;11;46
+r;281790675;136786;11105166;11;46
+r;281814012;136786;11105274;11;46
+r;117896399;136786;5984377;11;47
+r;256290958;136786;10436920;11;47
+r;117910877;136786;5980898;11;48
+r;256471007;136786;10442099;11;48
+r;361249951;136786;14227689;11;48
+r;108351836;136786;5517003;11;49
+r;122136384;136786;6595875;11;50
+r;403538908;136786;15693912;11;50
+r;183022403;136786;8785758;11;50
+r;190283824;136786;8853034;11;50
+r;195872050;136786;9028034;11;50
+r;216671966;136786;9615061;11;50
+r;216672070;136786;9615066;11;50
+r;216672140;136786;9615069;11;50
+r;217149327;136786;9669046;11;50
+r;218653554;136786;9800002;11;50
+r;218696625;136786;9802965;11;50
+r;232468790;136786;10083203;11;50
+r;282197915;136786;11108673;11;50
+r;282304707;136786;11119672;11;50
+r;282351608;136786;11120746;11;50
+r;282371381;136786;11122058;11;50
+r;282731699;136786;11129718;11;50
+r;321080178;136786;12489206;11;50
+r;323108520;136786;12617524;11;50
+r;323964503;136786;12658278;11;50
+r;324932839;136786;12658277;11;50
+r;324937071;136786;12617523;11;50
+r;326422290;136786;12710719;11;50
+r;326831829;136786;12717404;11;50
+r;327319644;136786;12734296;11;50
+r;402110662;136786;15251365;11;50
+r;402110422;136786;15300996;11;50
+r;402109492;136786;15197344;11;50
+r;402121414;136786;15271706;11;50
+r;395009363;136786;15227709;11;50
+r;402273437;136786;15391179;11;50
+r;402274533;136786;15396838;11;50
+r;405572154;136786;15692853;11;50
+r;409887040;136786;15781634;11;50
+r;411618502;136786;15790735;11;50
+r;411716356;136786;15779728;11;50
+r;414464679;136786;15921922;11;50
+r;414848210;136786;15633832;11;50
+r;419848601;136786;16087911;11;50
+r;29759830;136786;1822019;11;51
+r;29759870;136786;1822020;11;51
+r;52455246;136786;2544775;11;51
+r;76798772;136786;3180697;11;51
+r;83404389;136786;3312784;11;51
+r;93122667;136786;3731092;11;51
+r;106845979;136786;5324048;11;51
+r;25130798;136786;1552602;11;52
+r;29759901;136786;1822017;11;52
+r;52509375;136786;2526386;11;52
+r;76641714;136786;3177941;11;52
+r;92527086;136786;3707016;11;52
+r;95171672;136786;3922454;11;52
+r;107049061;136786;5355669;11;52
+r;24650773;136786;1492204;11;53
+r;52443795;136786;2569129;11;53
+r;100171757;136786;4502774;11;53
+r;77288024;136786;3186124;11;53
+r;33107339;136786;2303765;11;54
+r;1615918;136786;169445;11;55
+r;29535133;136786;1805568;11;55
+r;30974158;136786;1918646;11;55
+r;77004769;136786;3183727;11;55
+r;88336492;136786;3490715;11;55
+r;98342067;136786;4315692;11;55
+r;106887023;136786;5331197;11;55
+r;24325639;136786;1468291;11;57
+r;29760039;136786;1822021;11;57
+r;33113351;136786;2143011;11;57
+r;72941249;136786;2953566;11;57
+r;95758842;136786;4289750;11;57
+r;28035539;136786;1701934;11;58
+r;29526598;136786;1804826;11;58
+r;76463139;136786;3174869;11;58
+r;77005351;136786;3183728;11;58
+r;86666159;136786;3379727;11;58
+r;109318169;136786;5521888;11;58
+r;29762108;136786;1822018;11;59
+r;30741231;136786;1907921;11;59
+r;33104816;136786;2210921;11;59
+r;52494104;136786;2555563;11;59
+r;99329784;136786;4388780;11;59
+r;98973933;136786;4337968;11;59
+r;98974302;136786;4337969;11;59
+r;99104969;136786;4344495;11;59
+r;101812574;136786;4857063;11;59
+r;31652230;136786;1965522;11;60
+r;33105985;136786;2143010;11;60
+r;72951920;136786;2953791;11;61
+r;29901258;136786;1842093;11;63
+r;30186541;136786;1859919;11;63
+r;72802581;136786;2952021;11;66
+r;72644048;136786;2949525;11;70
+r;168856;136786;153634;11;80
+r;13250092;136786;284776;11;94
+r;12553303;136786;387020;11;101
+r;12700001;136786;350842;11;101
+r;12553265;136786;387030;11;102
+r;12553275;136786;387027;11;102
+r;12553291;136786;387023;11;102
+r;12553299;136786;387021;11;102
+r;12553393;136786;386997;11;102
+r;12570155;136786;382848;11;102
+r;12756055;136786;337385;11;102
+r;12553279;136786;387026;11;103
+r;12553283;136786;387025;11;103
+r;12553335;136786;387012;11;103
+r;12553361;136786;387005;11;103
+r;12661899;136786;360216;11;103
+r;12553311;136786;387018;11;104
+r;12553319;136786;387016;11;104
+r;12553365;136786;387004;11;104
+r;12553401;136786;386995;11;104
+r;12719687;136786;346173;11;104
+r;12752865;136786;338199;11;104
+r;12553315;136786;387017;11;105
+r;12553339;136786;387011;11;105
+r;12553347;136786;387009;11;105
+r;12553351;136786;387008;11;105
+r;12553357;136786;387006;11;105
+r;12553377;136786;387001;11;105
+r;12678725;136786;356098;11;105
+r;12679237;136786;355976;11;105
+r;12553323;136786;387015;11;106
+r;12553397;136786;386996;11;106
+r;12622367;136786;370019;11;106
+r;12553271;136786;387028;11;107
+r;12553343;136786;387010;11;107
+r;12553369;136786;387003;11;107
+r;12553373;136786;387002;11;107
+r;12553389;136786;386998;11;107
+r;12632221;136786;367503;11;107
+r;12732331;136786;343099;11;107
+r;12734331;136786;342614;11;107
+r;12749761;136786;338957;11;107
+r;12553295;136786;387022;11;108
+r;12553307;136786;387019;11;108
+r;12553331;136786;387013;11;108
+r;12553385;136786;386999;11;108
+r;12733151;136786;342896;11;108
+r;12767291;136786;334595;11;108
+r;12553381;136786;387000;11;109
+r;12564957;136786;384146;11;109
+r;12679671;136786;355867;11;109
+r;12700007;136786;350841;11;109
+r;12719697;136786;346172;11;109
+r;12760891;136786;336187;11;109
+r;12553287;136786;387024;11;110
+r;12553327;136786;387014;11;110
+r;12553355;136786;387007;11;110
+r;12698705;136786;351152;11;110
+r;12730691;136786;343475;11;110
+r;12739221;136786;341466;11;110
+r;11849286;136786;284439;11;122
+r;11850179;136786;269584;11;122
+r;11851415;136786;238796;11;122
+r;11856278;136786;165147;11;122
+r;11856870;136786;151315;11;122
+r;11936943;136786;275610;11;136
+r;204147;136786;42351;11;142
+r;250695;136786;11428;11;142
+r;401446;136786;131717;11;142
+r;8189791;136786;209841;11;147
+r;8993738;136786;318232;11;148
+r;9003624;136786;318467;11;148
+r;9066170;136786;321202;11;148
+r;9077552;136786;321529;11;148
+r;11361671;136786;326315;11;148
+r;8934511;136786;317641;11;149
+r;8700843;136786;232367;11;160
+r;8609680;136786;115226;11;161
+r;8629905;136786;166050;11;161
+r;8686254;136786;211179;11;161
+r;8688535;136786;213050;11;161
+r;8691758;136786;219810;11;161
+r;8694227;136786;223197;11;161
+r;8696339;136786;226709;11;161
+r;8697194;136786;227987;11;161
+r;8698599;136786;229927;11;161
+r;8701292;136786;232855;11;161
+r;8707139;136786;241513;11;161
+r;8709530;136786;245616;11;161
+r;8711163;136786;247688;11;161
+r;8726256;136786;259920;11;161
+r;1615886;136786;217611;11;162
+r;2267550;136786;232499;11;162
+r;3139988;136786;260973;11;162
+r;3142328;136786;242216;11;162
+r;8583109;136786;39510;11;162
+r;8591650;136786;63949;11;162
+r;8603388;136786;97841;11;162
+r;8605372;136786;103560;11;162
+r;8606279;136786;105992;11;162
+r;8621638;136786;145154;11;162
+r;8765442;136786;298633;11;162
+r;1615885;136786;162024;11;163
+r;1615887;136786;212407;11;163
+r;1615888;136786;209870;11;163
+r;1615890;136786;165149;11;163
+r;1615891;136786;162022;11;163
+r;1615892;136786;160828;11;163
+r;1615894;136786;161555;11;163
+r;1615895;136786;161554;11;163
+r;1615897;136786;160681;11;163
+r;1615899;136786;162023;11;163
+r;1615900;136786;160827;11;163
+r;1615902;136786;209871;11;163
+r;1615903;136786;160100;11;163
+r;1615905;136786;164560;11;163
+r;1615907;136786;162021;11;163
+r;1615910;136786;209872;11;163
+r;1615912;136786;161556;11;163
+r;1615913;136786;160099;11;163
+r;1615914;136786;209873;11;163
+r;1615919;136786;209874;11;163
+r;1615921;136786;209875;11;163
+r;1615922;136786;209876;11;163
+r;8584948;136786;44917;11;163
+r;8588801;136786;55703;11;163
+r;8623100;136786;153056;11;163
+r;8732318;136786;264716;11;163
+r;8737037;136786;269239;11;163
+r;8737244;136786;269585;11;163
+r;8739446;136786;271946;11;163
+r;8742791;136786;274897;11;163
+r;8750690;136786;283496;11;163
+r;8755180;136786;287514;11;163
+r;8760160;136786;292403;11;163
+r;8760209;136786;292457;11;163
+r;8770362;136786;304052;11;163
+r;1615884;136786;158588;11;164
+r;1615889;136786;159843;11;164
+r;1615896;136786;159123;11;164
+r;1615898;136786;158967;11;164
+r;1615904;136786;159554;11;164
+r;1615908;136786;184778;11;164
+r;1615911;136786;54526;11;164
+r;1615915;136786;158888;11;164
+r;1615916;136786;184780;11;164
+r;1615917;136786;158871;11;164
+r;1615923;136786;184779;11;164
+r;8615848;136786;132539;11;164
+r;8616902;136786;135514;11;164
+r;8653215;136786;190753;11;164
+r;8779044;136786;312705;11;164
+r;1615909;136786;18385;11;166
+r;8572615;136786;7994;11;166
+r;8573221;136786;9867;11;168
+r;1615906;136786;9573;11;169
+r;1615893;136786;146147;11;174
+r;3142211;136786;659;11;180
+r;1615901;136786;159465;11;184
+r;8636180;136786;179502;11;184
+r;243522;136786;159476;11;189
+r;1615920;136786;175078;11;194
+r;204148;136786;156137;11;199
+r;243521;136786;159475;11;199
+r;250473;136786;158923;11;199
+r;249593;136786;159875;11;203
+r;2186259;136786;248256;11;207
+r;194764;136786;155673;11;208
+r;186933;136786;155408;11;209
+r;230327;136786;158492;11;209
+r;2267549;136786;163047;11;213
+r;194765;136786;115878;11;238
+r;141436;136786;152756;11;259
+r;273294;136786;161447;11;278
+r;202651;136786;156038;11;279
+r;141435;136786;153550;11;299
+r;240975;136786;159251;11;346
+r;203742;136786;146809;11;349
+r;141437;136786;153551;11;368

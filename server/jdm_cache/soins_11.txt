@@ -448,42 +448,14 @@ e;6372268;'épisode de soins non précisé foetus anormalement gros entraînant 
 e;6375708;'épisode de soins non précisé travail et accouchement compliqués d'une brièveté du cordon';1;0
 e;6414897;'lésion foetale suspectée d'origine radique affectant les soins de la mère';1;0
 e;6419815;'dépendance du patient envers le fournisseur de soins';1;0
-e;16074131;'Refus de soins';1;0
-e;13745962;'a-10 précautions et mesures de sécurité en soins infirmiers';1;0
-e;13745805;'a-11 techniques spéciales de soins infirmiers';1;0
-e;13770895;'a-110-113 techniques spéciales de soins infirmiers sur les unités';1;0
-e;13796795;'a-114 techniques de soins infirmiers reliées à l'obstétrique et à la gynécologie';1;0
-e;13745694;'a-117 soins infirmiers du nouveau-né';1;0
-e;13746738;'a-118 techniques de soins infirmiers pré-opératoires';1;0
-e;13800496;'a-12 techniques de soins infirmiers reliées à l'utilisation de sondes et de drains';1;0
-e;13740069;'a-13 techniques de soins infirmiers reliées à l'appareil locomoteur';1;0
-e;13779791;'a-62 interventions psychosociales en soins infirmiers';1;0
-e;13776647;'a-63 services sociaux et services de soins à domicile';1;0
-e;6294565;'accouchement vaginal avec forceps incluant les soins post-partum';1;0
-e;15383450;'avoir besoin de soins médicaux';1;0
-e;15197595;'bilan des soins';1;0
-e;15432414;'cabine de soins';1;0
-e;15921028;'carrières comme l'enseignement, les soins infirmiers et la coiffure';1;0
-e;15696483;'carrières telles que l'enseignement, les soins infirmiers et la coiffure';1;0
-e;15427401;'carte de soins';1;0
-e;15761425;'confier [qch] aux soins de';1;0
-e;15761420;'confier [qch] aux soins de [qqn]';1;0
-e;15513375;'confier qn aux soins de qn';1;0
-e;15635371;'confier quelqu'un aux soins de quelqu'un';1;0
-e;15761424;'confier quelque chose aux soins de quelqu'un';1;0
-e;13794007;'d-66-67 complications d'actes chirurgicaux et de soins médicaux';1;0
-e;13774538;'d-660 complications d'actes chirurgicaux et de soins médicaux termes généraux';1;0
-e;13790915;'d-67 complications de soins médicaux';1;0
-e;15407950;'des carrières comme l'enseignement, les soins infirmiers et la coiffure';1;0
-e;15407953;'des carrières telles que l'enseignement, les soins infirmiers et la coiffure';1;0
-e;15527762;'direction des soins infirmiers';1;0
-e;15304093;'dispense des soins médicaux';1;0
-e;15197600;'dispenser des soins';1;0
-e;15304087;'dispenser des soins médicaux';1;0
 e;16154989;'événement indésirable associé aux soins';777;0
 e;16154988;'événement indésirable grave associé à des soins';777;0
 e;16170679;'lits aux soins intensifs';1;0
 e;16170669;'fournisseur de soins de santé';1;0
+e;16327105;'patient en soins critiques';1;0
+e;16327104;'patients en soins critiques';1;0
+e;16329185;'infection associée aux soins de santé';1;0
+e;16575204;'Schéma régional d'organisation des soins';777;0
 e;6425394;'hypertension chronique compliquant ou cause de soins obstétricaux pendant la puerpéralité';1;0
 e;6336486;'assurance soins infirmiers';1;0
 e;6286335;'problème foetal et placentaire non précisé affectant les soins de la mère';1;0
@@ -639,6 +611,7 @@ e;6309240;'avec accouchement, mort foetale intrautérine affectant les soins de 
 e;6356421;'avec accouchement, souffrance foetale affectant les soins de la mère';1;0
 e;6306203;'avec la grossesse actuelle, épisode de soins non précisé grande multiparité';1;0
 e;6407427;'épisode de soins non précisé phlébo-thrombose profonde postpartum';1;0
+e;16565892;'Les soins psychiatriques';777;0
 e;6441022;'traitement et soins d'entérostomie';1;0
 e;6437042;'indication de soins ou d'interventions concernant le travail ou l'accouchement';1;0
 e;6431215;'démarche de soins infirmiers';1;0
@@ -677,6 +650,15 @@ e;9992516;'Bombardement du centre de soins de Médecins sans frontières à Kond
 e;6290219;'affectant les soins de la mère épisode de soins non précisé mort foetale intrautérine';1;0
 e;6341744;'affectant les soins de la mère épisode de soins non précisé autres conditions placentaires';1;0
 e;6418560;'affectant les soins de la mère épisode de soins non précisé croissance foetale excessive';1;0
+e;13794007;'d-66-67 complications d'actes chirurgicaux et de soins médicaux';1;0
+e;13774538;'d-660 complications d'actes chirurgicaux et de soins médicaux termes généraux';1;0
+e;13790915;'d-67 complications de soins médicaux';1;0
+e;15407950;'des carrières comme l'enseignement, les soins infirmiers et la coiffure';1;0
+e;15407953;'des carrières telles que l'enseignement, les soins infirmiers et la coiffure';1;0
+e;15527762;'direction des soins infirmiers';1;0
+e;15304093;'dispense des soins médicaux';1;0
+e;15197600;'dispenser des soins';1;0
+e;15304087;'dispenser des soins médicaux';1;0
 e;6444320;'soins dentaires de l'handicapé';1;0
 e;6441230;'prise en charge pour soins et examens immédiatement après l'accouchement';1;0
 e;6440325;'épisode de soins non précisé anomalies congénitales de l'utérus';1;0
@@ -693,6 +675,11 @@ e;6425472;'avec accouchement, faible croissance foetale affectant les soins de l
 e;6424713;'unités hospitalières de soins néonatals';1;0
 e;6422894;'affectant les soins de la mère avec accouchement croissance foetale insuffisante';1;0
 e;6421966;'anomalie chromosomique du foetus affectant les soins de la mère';1;0
+e;15761425;'confier [qch] aux soins de';1;0
+e;15761420;'confier [qch] aux soins de [qqn]';1;0
+e;15513375;'confier qn aux soins de qn';1;0
+e;15635371;'confier quelqu'un aux soins de quelqu'un';1;0
+e;15761424;'confier quelque chose aux soins de quelqu'un';1;0
 e;6444156;'sans mention d'indication épisode de soins non précisé extraction par le siège';1;0
 e;6433318;'épisode de soins au cours de la grossesse non précisé inversion de l'utérus';1;0
 e;6432855;'soins et examens de l'allaitement maternel';1;0
@@ -704,7 +691,13 @@ e;6426163;'infection consécutive à des soins médicaux';1;0
 e;6423255;'soins maternels pour position transverse et oblique';1;0
 e;6423137;'soins maternels pour utérus double';1;0
 e;10000663;'épisode de soins non précisé rétention de cotylédons placentaires ou de membranes sans hémorragie';1;0
-e;1833433;'évaluation des soins psychiatriques';1;0
+e;15383450;'avoir besoin de soins médicaux';1;0
+e;15197595;'bilan des soins';1;0
+e;15432414;'cabine de soins';1;0
+e;15921028;'carrières comme l'enseignement, les soins infirmiers et la coiffure';1;0
+e;15696483;'carrières telles que l'enseignement, les soins infirmiers et la coiffure';1;0
+e;15427401;'carte de soins';1;0
+e;16329177;'centre d'hébergement et de soins de longue durée';1;0
 e;5837104;'études en soins infirmiers';777;0
 e;5836182;'soins préhospitaliers d'urgence';777;0
 e;6444925;'soins maternels pour foetus léger pour l'âge gestationnel';1;0
@@ -719,12 +712,8 @@ e;9944971;'soins du visage';1;2
 e;10958253;'unité de soins intensifs de cardiologie';777;0
 e;11787595;'formation aux gestes et soins d'urgence';777;0
 e;1826531;'accès aux soins';1;0
-e;1829610;'carnet de soins';1;0
-e;1830721;'consentement aux soins en psychiatrie';1;0
 e;1830819;'des soins avec radioéléments coordination';1;0
-e;1831717;'retentissement psychique sur les proches donneurs de soins démence';1;0
-e;1831746;'dépense de soins';1;0
-e;1838563;'médicalisation des soins';1;0
+e;1833433;'évaluation des soins psychiatriques';1;0
 e;6448217;'cardiopathie hypertensive préexistante compliquant ou cause de soins obstétricaux pendant l'accouchement';1;0
 e;6443859;'hémorragie du début de la grossesse sans précision sur l'épisode de soins';1;0
 e;6441769;'régimes d'assurance avec prépaiement des soins de santé';1;0
@@ -738,6 +727,22 @@ e;6427237;'unités de soins intensifs pour nouveau-né';1;0
 e;6424680;'Études de spécialisation en soins dentaires';1;0
 e;10935756;'suivre des soins';1;0
 e;13447151;'nécessiter des soins';1;0
+e;16074131;'Refus de soins';1;0
+e;13745962;'a-10 précautions et mesures de sécurité en soins infirmiers';1;0
+e;13745805;'a-11 techniques spéciales de soins infirmiers';1;0
+e;13770895;'a-110-113 techniques spéciales de soins infirmiers sur les unités';1;0
+e;13796795;'a-114 techniques de soins infirmiers reliées à l'obstétrique et à la gynécologie';1;0
+e;13745694;'a-117 soins infirmiers du nouveau-né';1;0
+e;13746738;'a-118 techniques de soins infirmiers pré-opératoires';1;0
+e;13800496;'a-12 techniques de soins infirmiers reliées à l'utilisation de sondes et de drains';1;0
+e;13740069;'a-13 techniques de soins infirmiers reliées à l'appareil locomoteur';1;0
+e;13779791;'a-62 interventions psychosociales en soins infirmiers';1;0
+e;13776647;'a-63 services sociaux et services de soins à domicile';1;0
+e;6294565;'accouchement vaginal avec forceps incluant les soins post-partum';1;0
+e;1829610;'carnet de soins';1;0
+e;1830721;'consentement aux soins en psychiatrie';1;0
+e;1831746;'dépense de soins';1;0
+e;1838563;'médicalisation des soins';1;0
 e;6526261;'services médicaux à l'unité des soins intensifs';1;0
 e;6448428;'soins infirmiers à domicile par l'infirmière visiteuse';1;0
 e;6447896;'soins maternels pour d'autres anomalies de l'utérus gravide';1;0
@@ -751,7 +756,7 @@ e;6422260;'antepartum autres conditions placentaires affectant les soins de la m
 e;12049015;'impliquer les usagers et le personnel soignant dans la planification des soins';1;0
 e;12049035;'réaliser des soins axés sur l'individu';1;0
 e;12079455;'injonction de soins';1;0
-e;1829196;'premiers soins aux brûlés';1;0
+e;1831717;'retentissement psychique sur les proches donneurs de soins démence';1;0
 e;6447068;'hypertension chronique compliquant ou cause de soins obstétricaux pendant l'accouchement';1;0
 e;6446157;'épisode de soins non précisé mastite non purulente associée à l'accouchement';1;0
 e;6443512;'soins dentaires chez l'enfant';1;0
@@ -777,6 +782,7 @@ e;12051347;'déléguer des soins d'urgence';1;0
 e;12051302;'fonctions d'encadrement en soins infirmiers';1;0
 e;12051236;'diriger des activités de recherche en soins infirmiers';1;0
 e;12076943;'acte de soins';1;0
+e;1829196;'premiers soins aux brûlés';1;0
 e;6449460;'épisode de soins non précisé autres complications du travail et de l'accouchement';1;0
 e;6448305;'procédure administrative de l'unité de soins infirmiers';1;0
 e;6447788;'épisode de soins non précisé rétraction du mamelon associée à l'accouchement';1;0
@@ -796,7 +802,6 @@ e;6428039;'affectant les soins de la mère avec accouchement lésion foetale sus
 e;8259177;'activité de soins';1;0
 e;11590089;'renoncement aux soins';777;0
 e;12052283;'suivi de soins';1;0
-e;16073269;'Injonction de soins';1;0
 e;2386264;'donner des soins';1;0
 e;6450230;'soins maternels pour tumeur du corps de l'utérus';1;0
 e;6449799;'épisode de soins non précisé infections du sein et du mamelon associées à l'accouchement';1;0
@@ -845,7 +850,6 @@ e;6448139;'autres pensionnaires d'établissements de soins';1;0
 e;6444888;'visite du patient par l'aumônier à l'unité des soins palliatifs';1;0
 e;6437188;'soins médicaux ou infirmiers ou surveillance médicale d'enfants en bonne santé selon des circonstances telles que attente d'une famille adoptive ou d'un placement';1;0
 e;13302324;'relation de soins';1;0
-e;16072727;'Directeur des soins';1;0
 e;6451723;'procédure de qualité ou d'évaluation des soins médicaux';1;0
 e;6448641;'épisode de soins non précisé rupture d'une suture d'opération césarienne';1;0
 e;6530681;'centre indépendant de soins de santé';1;0
@@ -862,6 +866,7 @@ e;6447428;'soins maternels pour polype du corps de l'utérus';1;0
 e;6447423;'besoin d'assistance et de soins d'hygiène';1;0
 e;6447384;'soins infirmiers en salle d'opération';1;0
 e;6532639;'hôpital de soins pédiatriques';1;0
+e;16073269;'Injonction de soins';1;0
 e;6526891;'Évaluation et prise en charge du patient d'un établissement de soins infirmiers';1;0
 e;8809935;'limitation des soins';1;0
 e;9014623;'non administration de soins médicaux et chirurgicaux';1;0
@@ -884,6 +889,7 @@ e;14424866;'Concept fondamental en soins infirmiers';777;0
 e;14589969;'Des bâtonnets à mâcher pour les soins des dents';777;0
 e;14902819;'Classification internationale des soins primaires';777;0
 e;14428978;'Aux bons soins du docteur Kellogg';777;0
+e;16072727;'Directeur des soins';1;0
 e;598072;'soins de longue durée';1;0
 e;1173555;'remboursement des soins';1;0
 e;2132011;'aux bons soins d'';2;0
@@ -964,7 +970,7 @@ e;110345;'soins du corps';1;140
 e;171301;'aux bons soins de';1;50
 e;208269;'soins de beauté';1;50
 e;208270;'soins maternels';1;50
-e;13963;'être aux petits soins';1;98
+e;13963;'être aux petits soins';1;106
 e;39558;'soins palliatifs';1;114
 e;54028;'petits soins';1;50
 e;82127;'Écrits réunis par les soins de ses disciples';1;50
@@ -1426,42 +1432,14 @@ r;400525522;111830;6372268;11;25
 r;400583464;111830;6375708;11;25
 r;401505067;111830;6414897;11;25
 r;402044593;111830;6419815;11;25
-r;419533802;111830;16074131;11;25
-r;419565198;111830;13745962;11;25
-r;419565208;111830;13745805;11;25
-r;419565218;111830;13770895;11;25
-r;419565228;111830;13796795;11;25
-r;419565240;111830;13745694;11;25
-r;419565250;111830;13746738;11;25
-r;419565260;111830;13800496;11;25
-r;419565301;111830;13740069;11;25
-r;419565504;111830;13779791;11;25
-r;419565514;111830;13776647;11;25
-r;419570453;111830;6294565;11;25
-r;419628590;111830;15383450;11;25
-r;419653542;111830;15197595;11;25
-r;419674923;111830;15432414;11;25
-r;419687013;111830;15921028;11;25
-r;419687026;111830;15696483;11;25
-r;419687631;111830;15427401;11;25
-r;419730094;111830;15761425;11;25
-r;419730100;111830;15761420;11;25
-r;419730164;111830;15513375;11;25
-r;419730172;111830;15635371;11;25
-r;419730180;111830;15761424;11;25
-r;419760681;111830;13794007;11;25
-r;419760693;111830;13774538;11;25
-r;419760821;111830;13790915;11;25
-r;419773813;111830;15407950;11;25
-r;419773825;111830;15407953;11;25
-r;419782821;111830;15527762;11;25
-r;419784062;111830;15304093;11;25
-r;419784113;111830;15197600;11;25
-r;419784119;111830;15304087;11;25
 r;423723902;111830;16154989;11;25
 r;423726037;111830;16154988;11;25
 r;424059335;111830;16170679;11;25
 r;424065165;111830;16170669;11;25
+r;431266030;111830;16327105;11;25
+r;431266047;111830;16327104;11;25
+r;431573955;111830;16329185;11;25
+r;435567066;111830;16575204;11;25
 r;122731464;111830;6425394;11;26
 r;301410630;111830;6336486;11;26
 r;298185010;111830;6286335;11;26
@@ -1617,6 +1595,7 @@ r;312961584;111830;6309240;11;27
 r;312961881;111830;6356421;11;27
 r;313069662;111830;6306203;11;27
 r;349240666;111830;6407427;11;27
+r;435185659;111830;16565892;11;27
 r;121518847;111830;6441022;11;28
 r;121554537;111830;6437042;11;28
 r;122686386;111830;6431215;11;28
@@ -1655,6 +1634,15 @@ r;227678897;111830;9992516;11;30
 r;298423279;111830;6290219;11;30
 r;301486751;111830;6341744;11;30
 r;305693977;111830;6418560;11;30
+r;419760681;111830;13794007;11;30
+r;419760693;111830;13774538;11;30
+r;419760821;111830;13790915;11;30
+r;419773813;111830;15407950;11;30
+r;419773825;111830;15407953;11;30
+r;419782821;111830;15527762;11;30
+r;419784062;111830;15304093;11;30
+r;419784113;111830;15197600;11;30
+r;419784119;111830;15304087;11;30
 r;121489147;111830;6444320;11;31
 r;121516976;111830;6441230;11;31
 r;121525156;111830;6440325;11;31
@@ -1671,6 +1659,11 @@ r;122730786;111830;6425472;11;31
 r;122736761;111830;6424713;11;31
 r;122750930;111830;6422894;11;31
 r;122758019;111830;6421966;11;31
+r;419730094;111830;15761425;11;31
+r;419730100;111830;15761420;11;31
+r;419730164;111830;15513375;11;31
+r;419730172;111830;15635371;11;31
+r;419730180;111830;15761424;11;31
 r;121490726;111830;6444156;11;32
 r;122667906;111830;6433318;11;32
 r;122672187;111830;6432855;11;32
@@ -1682,7 +1675,13 @@ r;122725483;111830;6426163;11;32
 r;122748134;111830;6423255;11;32
 r;122749022;111830;6423137;11;32
 r;222702793;111830;10000663;11;32
-r;29978299;111830;1833433;11;33
+r;419628590;111830;15383450;11;32
+r;419653542;111830;15197595;11;32
+r;419674923;111830;15432414;11;32
+r;419687013;111830;15921028;11;32
+r;419687026;111830;15696483;11;32
+r;419687631;111830;15427401;11;32
+r;431573673;111830;16329177;11;32
 r;114017027;111830;5837104;11;33
 r;114021605;111830;5836182;11;33
 r;121483837;111830;6444925;11;33
@@ -1697,12 +1696,8 @@ r;220311240;111830;9944971;11;33
 r;276014323;111830;10958253;11;33
 r;303650642;111830;11787595;11;33
 r;29823552;111830;1826531;11;34
-r;29941329;111830;1829610;11;34
-r;29953737;111830;1830721;11;34
 r;29954131;111830;1830819;11;34
-r;29963305;111830;1831717;11;34
-r;29965444;111830;1831746;11;34
-r;30028341;111830;1838563;11;34
+r;29978299;111830;1833433;11;34
 r;121454144;111830;6448217;11;34
 r;121493400;111830;6443859;11;34
 r;121512206;111830;6441769;11;34
@@ -1716,6 +1711,22 @@ r;122717295;111830;6427237;11;34
 r;122737026;111830;6424680;11;34
 r;275365470;111830;10935756;11;34
 r;342215587;111830;13447151;11;34
+r;419533802;111830;16074131;11;34
+r;419565198;111830;13745962;11;34
+r;419565208;111830;13745805;11;34
+r;419565218;111830;13770895;11;34
+r;419565228;111830;13796795;11;34
+r;419565240;111830;13745694;11;34
+r;419565250;111830;13746738;11;34
+r;419565260;111830;13800496;11;34
+r;419565301;111830;13740069;11;34
+r;419565504;111830;13779791;11;34
+r;419565514;111830;13776647;11;34
+r;419570453;111830;6294565;11;34
+r;29941329;111830;1829610;11;35
+r;29953737;111830;1830721;11;35
+r;29965444;111830;1831746;11;35
+r;30028341;111830;1838563;11;35
 r;121449401;111830;6526261;11;35
 r;121452239;111830;6448428;11;35
 r;121457079;111830;6447896;11;35
@@ -1729,7 +1740,7 @@ r;122755806;111830;6422260;11;35
 r;313629239;111830;12049015;11;35
 r;313629437;111830;12049035;11;35
 r;315117929;111830;12079455;11;35
-r;29936006;111830;1829196;11;36
+r;29963305;111830;1831717;11;36
 r;121464687;111830;6447068;11;36
 r;121472789;111830;6446157;11;36
 r;121496486;111830;6443512;11;36
@@ -1755,6 +1766,7 @@ r;313764256;111830;12051347;11;36
 r;313764539;111830;12051302;11;36
 r;313764744;111830;12051236;11;36
 r;314742236;111830;12076943;11;36
+r;29936006;111830;1829196;11;37
 r;121052425;111830;6449460;11;37
 r;121453354;111830;6448305;11;37
 r;121458081;111830;6447788;11;37
@@ -1774,7 +1786,6 @@ r;122710930;111830;6428039;11;38
 r;140255973;111830;8259177;11;38
 r;297877515;111830;11590089;11;38
 r;313731684;111830;12052283;11;38
-r;419102981;111830;16073269;11;38
 r;53018638;111830;2386264;11;39
 r;121045381;111830;6450230;11;39
 r;121049420;111830;6449799;11;39
@@ -1823,7 +1834,6 @@ r;121454825;111830;6448139;11;44
 r;121484204;111830;6444888;11;44
 r;121553259;111830;6437188;11;44
 r;338397029;111830;13302324;11;44
-r;419100477;111830;16072727;11;44
 r;121031726;111830;6451723;11;45
 r;121059838;111830;6448641;11;45
 r;121919112;111830;6530681;11;45
@@ -1840,6 +1850,7 @@ r;121461427;111830;6447428;11;48
 r;121461479;111830;6447423;11;48
 r;121461823;111830;6447384;11;48
 r;121913299;111830;6532639;11;48
+r;419102981;111830;16073269;11;48
 r;121445041;111830;6526891;11;50
 r;187432816;111830;8809935;11;50
 r;195353550;111830;9014623;11;50
@@ -1862,6 +1873,7 @@ r;366317440;111830;14424866;11;50
 r;370723100;111830;14589969;11;50
 r;389705867;111830;14902819;11;50
 r;393807670;111830;14428978;11;50
+r;419100477;111830;16072727;11;50
 r;18723396;111830;598072;11;51
 r;22137710;111830;1173555;11;51
 r;33106158;111830;2132011;11;51

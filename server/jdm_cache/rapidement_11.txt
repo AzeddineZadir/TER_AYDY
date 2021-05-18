@@ -1,0 +1,76 @@
+
+e;31576;'rapidement';1;3718
+e;14629269;'plus rapidement';1;0
+e;15781906;'évoluer rapidement';1;0
+e;16166554;'lu rapidement';1;0
+e;16534820;'de moins en moins rapidement';1;0
+e;16534819;'de plus en plus rapidement';1;0
+e;13029104;'traiter rapidement';1;0
+e;10965927;'en finir le plus rapidement possible';1;0
+e;10896034;'s'endormir rapidement';1;0
+e;15268377;'aussi rapidement qu'il est humainement possible de le faire';1;0
+e;15241321;'avancer rapidement';1;0
+e;15301172;'baisser subitement / rapidement la tête';1;0
+e;15365838;'cellule se divisant rapidement';1;0
+e;16534821;'Je me suis rapidement habillé.';1;0
+e;6423937;'coxarthrose rapidement destructrice';1;0
+e;15375790;'Les moustiques propagent la maladie très rapidement.';1;0
+e;15267120;'Les rumeurs se sont rapidement propagées dans tout Hollywood.';1;0
+e;6684751;'à améliorer rapidement cet article en respectant ces conseils';777;0
+e;15293949;'Le chômage se rapproche rapidement de la barre du million.';1;0
+e;15345243;'Le feu s'est propagé rapidement.';1;0
+e;12285275;'fonctionner rapidement';1;0
+e;12285274;'se déplacer rapidement';1;0
+e;11559043;'manger rapidement';1;0
+e;11558226;'nourriture avalée rapidement';1;0
+e;11558225;'nourriture solide ou liquide avalée rapidement';1;0
+e;15572552;'La police a agi rapidement.';1;0
+e;9740034;'cuire rapidement';1;0
+e;12700150;'tuer rapidement';1;0
+e;15548039;'Il faut agir rapidement.';1;0
+e;3230042;'aller rapidement';1;0
+e;3230826;'hémangiome congénital rapidement involutif';1;0
+e;2984412;'effectuer rapidement';1;0
+e;1935231;'déguster rapidement';1;0
+e;790668;'glomérulonéphrite rapidement progressive';1;0
+e;2578975;'faire rapidement';1;0
+e;5355777;'faire les choses rapidement';1;0
+e;2492600;'le plus rapidement possible';1;0
+e;3174965;'marcher rapidement';1;0
+r;371595092;31576;14629269;11;25
+r;409896023;31576;15781906;11;25
+r;423814814;31576;16166554;11;26
+r;434997534;31576;16534820;11;28
+r;434997544;31576;16534819;11;28
+r;334322721;31576;13029104;11;29
+r;276787663;31576;10965927;11;30
+r;273095856;31576;10896034;11;30
+r;419622557;31576;15268377;11;32
+r;419625382;31576;15241321;11;32
+r;419644516;31576;15301172;11;32
+r;419693205;31576;15365838;11;32
+r;434957970;31576;16534821;11;32
+r;122742804;31576;6423937;11;33
+r;419496616;31576;15375790;11;35
+r;419497295;31576;15267120;11;35
+r;122645934;31576;6684751;11;36
+r;419491379;31576;15293949;11;36
+r;419491858;31576;15345243;11;36
+r;319125569;31576;12285275;11;39
+r;319125575;31576;12285274;11;39
+r;296930222;31576;11559043;11;41
+r;296880621;31576;11558226;11;43
+r;296880635;31576;11558225;11;43
+r;417032895;31576;15572552;11;44
+r;217984378;31576;9740034;11;50
+r;325555115;31576;12700150;11;50
+r;402106796;31576;15548039;11;50
+r;77973261;31576;3230042;11;51
+r;78307583;31576;3230826;11;51
+r;73962284;31576;2984412;11;53
+r;31415656;31576;1935231;11;54
+r;19873762;31576;790668;11;56
+r;52657231;31576;2578975;11;57
+r;107049564;31576;5355777;11;57
+r;52479825;31576;2492600;11;60
+r;76464986;31576;3174965;11;64

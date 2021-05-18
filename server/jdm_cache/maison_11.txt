@@ -1,0 +1,2862 @@
+
+e;45179;'maison';1;12514
+e;15685925;'maison forte d'Ameysin';777;0
+e;15685926;'maison forte de Fistillieu';777;0
+e;6294393;'hospitalisation en attente de placement dans une maison de soins infirmiers';1;0
+e;6296402;'accouchements à la maison';1;0
+e;6330695;'acariens de la poussière de maison en amérique';1;0
+e;6333114;'musaraigne asiatique de maison';1;0
+e;6335663;'autres employées de maison et travailleuses assimilées';1;0
+e;6378685;'anamnèse et examen physique avec prise en charge du patient à domicile ou d'une maison de repos';1;0
+e;6388562;'remèdes maison';1;0
+e;6402744;'maison des parents';1;0
+e;6413240;'autres employés de maison et travailleurs assimilés';1;0
+e;14225479;'maison Czartoryski';777;0
+e;13569226;'maison de Gelovani';777;0
+e;12201750;'poussières de maison';1;0
+e;12201471;'poussières de maison greer';1;0
+e;12201444;'poussières de maison ap';1;0
+e;12201443;'poussières de maison hollister stier';1;0
+e;12196951;'poussières de maison greer ac';1;0
+e;12196950;'poussières de maison hollister stier ac';1;0
+e;12181544;'détermination de la présence de poussières de maison hollister stier ac igg classification rast';1;0
+e;12181541;'mesure de poussières de maison hollister stier ac igg';1;0
+e;12181539;'détermination de la présence de poussières de maison hollister stier ac ige classification rast';1;0
+e;12181537;'mesure de poussières de maison hollister stier ac ige';1;0
+e;12181535;'détermination de la présence de poussières de maison hausstaub ac ige classification rast';1;0
+e;12181533;'mesure de poussières de maison hausstaub ac ige';1;0
+e;12181531;'mesure de poussières de maison greer ac igg4';1;0
+e;12181529;'détermination de la présence de poussières de maison greer ac igg classification rast';1;0
+e;12181526;'mesure de poussières de maison greer ac igg';1;0
+e;12181524;'détermination de la présence de poussières de maison greer ac ige classification rast';1;0
+e;12181521;'mesure de poussières de maison greer ac ige';1;0
+e;12181519;'détermination de la présence de poussières de maison bencard ac ige classification rast';1;0
+e;12181517;'mesure de poussières de maison bencard ac ige';1;0
+e;12181515;'mesure de poussières de maison ap ac igg';1;0
+e;12181513;'mesure de poussières de maison ap ac ige';1;0
+e;12181511;'mesure de poussières de maison allergopharma ac ige';1;0
+e;12181509;'mesure de poussières de maison activation des basophiles';1;0
+e;12181507;'détermination de la présence de poussières de maison ac ige classification rast';1;0
+e;12181505;'mesure de poussières de maison ac ige';1;0
+e;13589856;'maison de Clermont';777;0
+e;13588736;'maison d'Anhalt';777;0
+e;13596146;'maison de Villeneuve';777;0
+e;13615787;'maison de Bourbon Busset';777;0
+e;13628791;'maison de Folkung';777;0
+e;13709909;'maison de Heu';777;0
+e;13710567;'maison en corondages';777;0
+e;13730302;'maison d'Armagnac';777;0
+e;6415220;'accouchement à la maison';1;0
+e;13989943;'la maison du juge';777;0
+e;14035259;'maison de Nassau';777;0
+e;14082971;'maison de Toulouse';777;0
+e;14130214;'femmes de la maison de Savoie';777;0
+e;14131040;'ancienne maison Welf';777;0
+e;14136990;'maison Sewell';777;0
+e;14192453;'maison de Clermont en Beauvaisis';777;0
+e;14208470;'maison Dior';1;0
+e;14215507;'maison Rémy Martin';1;0
+e;14242057;'maison de Poitiers-Aquitaine';777;0
+e;14232424;'maison du Docteur Paul Jacques';777;0
+e;14308143;'maison écolo';1;0
+e;14377306;'Le Maître de maison';777;0
+e;14411880;'maison Des Balbes de Berton de Crillon';777;0
+e;14452480;'maison de justice et du droit';1;0
+e;14462821;'maison de Sainte-Pélagie';777;0
+e;14492079;'maison des Barres';777;0
+e;14573163;'faire l'école à la maison';1;56
+e;14573873;'maison Windsor';777;0
+e;14583875;'maison Arryn';777;0
+e;14604881;'école à la maison';1;4
+e;14654562;'maison Targaryen';777;0
+e;14665782;'Une lettre de la maison';777;0
+e;14668664;'maison de Matthias Corvin';777;0
+e;14729247;'maison des Cars';777;0
+e;14740159;'maison du Seigle';777;0
+e;14743845;'maison de maraîcher';777;0
+e;14743846;'maison maraîchère';777;0
+e;14758942;'maison d'Este';777;0
+e;14908409;'maison de Bourbon-Deux Siciles';777;0
+e;14898626;'maison beylicale';1;0
+e;14894436;'maison Holland';777;0
+e;14897354;'chef de la maison beylicale';777;0
+e;15562716;'maison de Hesse';777;0
+e;15683793;'nécropole de la maison de Hesse-Darmstadt à Rosenhöhe';777;0
+e;15772823;'ferme de la maison neuve';777;0
+e;15976271;'maison de la Chimie';777;0
+e;16027916;'maison du garde-barrière';777;0
+e;16027917;'maison des Pages';777;0
+e;16103903;'surintendante de la maison de la reine';777;0
+e;16157794;'sa maison étant située au milieu des bois';777;0
+e;16166088;'maison de Duranty';777;0
+e;16166155;'maison de Faucigny';777;0
+e;16311713;'maison illustre';777;0
+e;16311712;'maison dynastique';777;0
+e;16314351;'plats maison';1;0
+e;16314349;'plat maison';1;0
+e;16317754;'maison folle';777;0
+e;16319409;'maison Notre-Dame-du-Rosaire';777;0
+e;16385030;'maison des sciences de l'homme';777;0
+e;16391728;'maison Le Brun';777;0
+e;5791653;'maison Delord';777;0
+e;5787538;'maison Méert';777;0
+e;5787408;'maison Fossier';777;0
+e;6288466;'vit dans une maison de retraite';1;0
+e;6311635;'accessoire de maison';1;0
+e;6365363;'soins dispensés dans une maison privée';1;0
+e;6366042;'acariens de la poussière de maison en europe';1;0
+e;6375736;'maison de soins infirmiers spécialisés';1;0
+e;6399660;'acariens européens de la poussière de maison';1;0
+e;6413775;'acariens américains de la poussière de maison';1;0
+e;12090265;'(blatte germanique+dermatophagoides farinae+dermatophagoides pteronyssinus+poussières de maison hollister stier) ac ige';1;0
+e;12090263;'(blatte germanique+dermatophagoides farinae+dermatophagoides pteronyssinus+poussières de maison greer) ac ige';1;0
+e;12196952;'poussières de maison ap ac';1;0
+e;12201686;'poussières de maison allergopharma';1;0
+e;12201685;'poussières de maison bencard';1;0
+e;12988559;'maison de Rosmadec';777;0
+e;13627215;'maison de Poudlard';1;0
+e;14529587;'maison médicalisée';1;0
+e;14529843;'accoucher à la maison';1;0
+e;14536158;'maison climatisée';1;0
+e;14536446;'maison en fête';1;8
+e;14536447;'décorer la maison';1;10
+e;14537163;'maison en pierres';1;0
+e;14537178;'maison de pierre';1;0
+e;14538125;'maison royale';1;0
+e;14538146;'retour à la maison';1;0
+e;14538924;'maison fermée';1;0
+e;14540068;'faire le tour du pâté de maison';1;0
+e;14563680;'clé de la maison';1;0
+e;14566511;'construire sa maison';1;0
+e;14653824;'maison de village';1;0
+e;14654434;'maison typique';1;0
+e;15016212;'faite maison';1;0
+e;15028275;'amies de la maison';1;0
+e;15028467;'amis de la maison';1;0
+e;5795376;'maison Riel';777;0
+e;10675398;'maison de Montesquiou';777;0
+e;10673108;'maison d'Orléans-Galliera';777;0
+e;10673111;'maison Bernadotte';777;0
+e;10621475;'maison de Flandre';777;0
+e;10621368;'maison du Présidial';777;0
+e;12090266;'(blatte germanique+dermatophagoides farinae+dermatophagoides pteronyssinus+poussières de maison hollister stier) ac ige classification rast';1;0
+e;12090267;'(blatte germanique+dermatophagoides farinae+dermatophagoides pteronyssinus+poussières de maison hollister stier) ac igg4';1;0
+e;12196593;'ères de maison greer) ac ige';1;0
+e;12201613;'poussières de maison hausstaub';1;0
+e;16566141;'Chef de la maison de Hanovre';777;0
+e;16566172;'Chef de la maison de Savoie 1983';777;0
+e;5797578;'maison Bonstetten';777;0
+e;5796712;'cellier de la maison Planche';777;0
+e;5795573;'Cadeau aux jeunes maîtresses de maison';777;0
+e;6087444;'La maison du clair de lune';777;0
+e;6439378;'soins médicaux ou infirmiers ou surveillance médicale d'enfants en bonne santé selon des circonstances telles que enfants trop nombreux à la maison pour pouvoir en assurer la prise en charge normale';1;0
+e;10659342;'maison de couture française';1;0
+e;10619751;'maison de Dunkeld';777;0
+e;10612040;'maison Tudor';777;0
+e;10622438;'maison von Amsberg';777;0
+e;10622061;'maison de la Mutualité';777;0
+e;10662756;'maison d'édition indépendante';1;0
+e;10649708;'maison de parfum';1;0
+e;12104373;'poussières de maison hollister stier ac igg classification rast';1;0
+e;12104372;'poussières de maison hollister stier ac igg';1;0
+e;12104371;'poussières de maison hollister stier ac ige classification rast';1;0
+e;12104370;'poussières de maison hollister stier ac ige';1;0
+e;12104369;'poussières de maison hausstaub ac ige classification rast';1;0
+e;12104368;'poussières de maison hausstaub ac ige';1;0
+e;12104367;'poussières de maison greer ac igg4';1;0
+e;12104366;'poussières de maison greer ac igg classification rast';1;0
+e;12104365;'poussières de maison greer ac igg';1;0
+e;12104364;'poussières de maison greer ac ige classification rast';1;0
+e;12104363;'poussières de maison greer ac ige';1;0
+e;12104362;'poussières de maison bencard ac ige classification rast';1;0
+e;12104361;'poussières de maison bencard ac ige';1;0
+e;12104360;'poussières de maison ap ac igg';1;0
+e;12104359;'poussières de maison ap ac ige';1;0
+e;12104358;'poussières de maison allergopharma ac ige';1;0
+e;12104357;'poussières de maison activation des basophiles';1;0
+e;12104356;'poussières de maison ac ige classification rast';1;0
+e;12104355;'poussières de maison ac ige';1;0
+e;12239513;'mesure de poussières de maison hollister stier ac igg | technique indéterminée | sérum | ponctuel | résultat numérique | masse/volume';1;0
+e;12239512;'mesure de poussières de maison hollister stier ac igg | technique indéterminée | sérum | ponctuel | résultat numérique | arbitraire/volume';1;0
+e;12239511;'mesure de poussières de maison greer ac igg | technique indéterminée | sérum | ponctuel | résultat numérique | masse/volume';1;0
+e;12239510;'mesure de poussières de maison greer ac igg | technique indéterminée | sérum | ponctuel | résultat numérique | arbitraire/volume';1;0
+e;12239509;'mesure de poussières de maison greer ac ige | technique indéterminée | sérum | ponctuel | résultat numérique | ratio';1;0
+e;12239508;'mesure de poussières de maison greer ac ige | technique indéterminée | sérum | ponctuel | résultat numérique | arbitraire/volume';1;0
+e;2490691;'brûle-maison';1;0
+e;5797956;'maison de champagne';1;0
+e;10675506;'la maison de jade';777;0
+e;10591291;'maison de Savoie-Aoste';777;0
+e;12110398;'poussières de maison allergopharma ag';1;0
+e;11755923;'maison de la monnaie';777;0
+e;11756176;'maison Pomare';777;0
+e;11769659;'maison du cardinal';777;0
+e;11770300;'maison de la rue des Avocats';777;0
+e;11770272;'maison des Templiers';777;0
+e;11770299;'maison de l'Arquebuse';777;0
+e;11770303;'maison seigneuriale de Menesble';777;0
+e;11770301;'maison des Barrodeau';777;0
+e;12110403;'poussières de maison hollister stier ag';1;0
+e;12110397;'poussières de maison ag';1;0
+e;12110401;'poussières de maison greer ag';1;0
+e;12110402;'poussières de maison hausstaub ag';1;0
+e;12110399;'poussières de maison ap ag';1;0
+e;12110400;'poussières de maison bencard ag';1;0
+e;12109235;'(blatte germanique+dermatophagoides farinae+dermatophagoides pteronyssinus+poussières de maison hollister stier) ag';1;0
+e;12109234;'(blatte germanique+dermatophagoides farinae+dermatophagoides pteronyssinus+poussières de maison greer) ag';1;0
+e;14802554;'La maison du Roy';777;0
+e;9955000;'maison de Saxe-Cobourg';777;0
+e;9955004;'troisième maison de Bragance';777;0
+e;9955005;'maison de Bragance-Saxe-Cobourg et Gotha';777;0
+e;9954994;'maison de Wettin';777;0
+e;9959450;'maison de Hohenzollern-Sigmaringen';777;0
+e;9961165;'maison d'Ivrée';777;0
+e;9963098;'Comment installer votre cinéma maison';777;0
+e;9991362;'maison de Vergy';777;0
+e;10587704;'Les Clefs de la maison';777;0
+e;10601056;'maison Butler';777;0
+e;10595646;'maison d'arrêt Le Mans-Les Croisettes';777;0
+e;10908813;'maison de l'hôpital des Allemands de Sainte-Marie-de-Jérusalem';777;0
+e;10908543;'maison de Rohan';777;0
+e;10903819;'La maison de Lusignan';777;0
+e;11034338;'maison du Bon-Pasteur';777;0
+e;11771522;'Les Chemins de ma maison';777;0
+e;15300817;'course à la maison blanche';1;0
+e;15413488;'cuisine maison';1;0
+e;15413518;'de grande maison';1;0
+e;15380921;'dernière maison';1;0
+e;15569033;'dernière maison de la rue';1;0
+e;15754905;'devant de la maison';1;0
+e;15362265;'distribution d'une maison';1;0
+e;15763003;'dépenses de la maison';1;0
+e;15561566;'en dehors de la maison';1;0
+e;5809031;'la maison du chat-qui-pelote';777;0
+e;5818443;'maison Picassiette';777;0
+e;5817766;'maison princière de Thurn und Taxis';777;0
+e;9954837;'maison de Neuchâtel';777;0
+e;10594246;'la maison des juges';777;0
+e;10733008;'maison de Bourbon-Anjou';777;0
+e;10971980;'maison de Wurtemberg';777;0
+e;10989989;'maison de Cossé';777;0
+e;11054470;'Christ dans la maison de Marthe et Marie';777;0
+e;11055261;'maison Folio';777;0
+e;11776148;'maison Torlonia';777;0
+e;11822311;'maison des Invalides';777;0
+e;11993863;'maison d'Argences';777;0
+e;12900101;'maison du Temple de Mesnil-Saint-Loup';777;0
+e;15573183;'clef de la maison';1;0
+e;15690078;'compte maison';1;0
+e;5807041;'maison Juglar';777;0
+e;5828201;'maison du cacao';777;0
+e;5817767;'maison de La Tour et Tassis';777;0
+e;9954667;'maison de Saxe-Cobourg-Gotha';777;0
+e;9954666;'maison de Windsor';777;0
+e;10955450;'maison d'opéra';777;0
+e;10583228;'maison d'adoration';777;0
+e;10870711;'maison Boyer-Vidal';777;0
+e;10869506;'maison luxembourgeoise de Nassau';777;0
+e;10869505;'maison de Bourbon-Parme';777;0
+e;11805654;'maison d'Alompra';777;0
+e;11822313;'maison Borsody';777;0
+e;11823152;'maison de Rohan-Chabot';777;0
+e;12202221;'(blatte germanique+dermatophagoides farinae+dermatophagoides pteronyssinus+poussières de maison greer)';1;0
+e;12202125;'(blatte germanique+dermatophagoides farinae+dermatophagoides pteronyssinus+poussières de maison hollister stier)';1;0
+e;15411711;'autour de la maison';1;0
+e;15358297;'avoir xx ans de maison';1;0
+e;15278882;'banque à la maison';1;0
+e;15413514;'c'est gros comme une maison';1;0
+e;15413517;'ce n'est pas le genre de la maison';1;0
+e;15353534;'charbonnier est maître dans sa maison';1;0
+e;15752835;'chasser de la maison';1;0
+e;15217700;'chauffeur de maison';1;0
+e;4209541;'micro-maison';1;0
+e;4322479;'maison-mobile';1;0
+e;10956336;'maison de Genevois-Nemours';777;0
+e;10951651;'Les Grilles de ma maison';777;0
+e;10941824;'maison d'Orange-Chalon';777;0
+e;10941823;'maison de Chalon-Arlay';777;0
+e;10941547;'maison de Holstein-Gottorp';777;0
+e;10577031;'Trois pères à la maison';777;0
+e;10961963;'maison de Poitiers';777;0
+e;10864464;'maison de France';777;0
+e;10864438;'maison d'Amboise';777;0
+e;10941545;'lignée oldenbourgeoise de la maison Holstein-Gottorp';777;0
+e;11065417;'maison des examens';777;0
+e;11070806;'maison de Valois-Saint-Rémy';777;0
+e;11070900;'maison échevinale';777;0
+e;11070924;'maison d'Estridsen';777;0
+e;11070807;'maison de Longueville';777;0
+e;11070808;'maison capétienne d'Evreux-Navarre';777;0
+e;11070815;'maison capétienne d'Angoulême';777;0
+e;11079971;'maison de Beauvau';777;0
+e;11083378;'maison ecclésiastique du roi de France';777;0
+e;11349999;'maison du luth arabe';777;0
+e;11789889;'maison de Grailly';777;0
+e;11789887;'maison d'Évreux-Navarre';777;0
+e;11789886;'maison d'Évreux';777;0
+e;11827961;'maison d'arrêt de Fleury-Mérogis';777;0
+e;14561407;'belle-maison';777;0
+e;15197819;'apéritif maison';1;0
+e;1827099;'allergie à la poussière de maison';1;0
+e;1838282;'maison de postcure';1;0
+e;5685191;'acarien de maison';777;0
+e;5894003;'maison de Lorraine';777;0
+e;5919960;'masque maison à étages';777;0
+e;5960907;'maison de Jim Thompson';777;0
+e;5960750;'maison à Gulf';777;0
+e;5960469;'La Guerre à la maison';777;0
+e;5954505;'Trois filles à la maison';777;0
+e;6068186;'maison du marchand Isakov';777;0
+e;6068185;'maison de rapport Isakov';777;0
+e;6067561;'maison-musée';1;0
+e;6421869;'accident à la maison';1;0
+e;10745135;'maison de Blois';777;0
+e;10745125;'maison de Knýtlinga';777;0
+e;10745124;'maison de Gorm';777;0
+e;10745123;'maison de Jelling';777;0
+e;10850755;'maison des arts contemporains';777;0
+e;10850754;'maison Valensot';777;0
+e;10850753;'maison Timon';777;0
+e;10850752;'maison du Sergent de Jusctice';777;0
+e;10850750;'ruines de la maison Salomon';777;0
+e;10850749;'maison Nicolas';777;0
+e;10850748;'maison Moschard';777;0
+e;10850747;'maison Messimy';777;0
+e;10850746;'maison Massa';777;0
+e;10850742;'maison Herriot';777;0
+e;10850738;'maison Guy Braud';777;0
+e;10850737;'ancienne maison Garnier';777;0
+e;10850736;'ancienne maison Carrière';777;0
+e;10850735;'maison Berges';777;0
+e;10850687;'maison de Genève';777;0
+e;10869222;'maison de La Marck';777;0
+e;10929221;'maison de Luxembourg';777;0
+e;10936565;'maison natale d'Elvis Presley';777;0
+e;11080753;'maison dite Saint-Martin';777;0
+e;11083263;'grands officiers de la maison du roi de France';777;0
+e;11083259;'maison de La Rochefoucauld';777;0
+e;11347309;'maison d'édition américaine';1;0
+e;11697688;'maison du patrimoine de Mimizan';777;0
+e;11697630;'maison landaise';777;0
+e;11788215;'maison en meulière';777;0
+e;12032526;'maison d'enfance de Ray Charles';777;0
+e;12019909;'maison de Sabran';777;0
+e;12032525;'maison musée de Louis Armstrong de New York';777;0
+e;12079588;'le genre de la maison';1;0
+e;16375891;'La maison paraissait à l'abandon.';1;0
+e;16109750;'Mary Poppins - La maison d'à côté';777;0
+e;15225816;'Notre maison se trouvait près d'un ruisseau.';1;0
+e;15299271;'Nous habitons dans une maison jumelée.';1;0
+e;15523999;'Nous sommes arrivés à la maison sans encombre.';1;0
+e;15375537;'Nous venons d'emménager dans une nouvelle maison.';1;0
+e;15340743;'Peter fit un signe de la main en direction de la maison.';1;0
+e;15227697;'Phyllis a une jolie petite maison.';1;0
+e;15774403;'Rubans depuis le 3 mars 1951 par concession privée de la maison de Savoie';777;0
+e;15327307;'Samantha habite une maison grandiose.';1;0
+e;16014999;'Vues des allées et de la maison de la Villa Valetta vers 1922';777;0
+e;15251347;'acheteur de maison';1;0
+e;15278881;'aller à la maison';1;0
+e;15336316;'aménagement de la maison';1;0
+e;16169470;'La maison du peuple';777;0
+e;16493748;'Mur de galets d'une maison béarnaise';777;0
+e;3982117;'vide-maison';1;0
+e;5927144;'maison d'édition universitaire';1;0
+e;5954289;'maison en bois';777;0
+e;5953549;'la maison démontable';777;0
+e;6064117;'maison Dupont';777;0
+e;6064089;'maison d'Ambroise Dieffenbach';777;0
+e;6064080;'maison Hoffner';777;0
+e;6064013;'maison Mieg';777;0
+e;6063978;'maison du manufacturier Gilardoni';777;0
+e;6063946;'maison de naissance de Charles Dickens';777;0
+e;6063932;'maison Trayvou';777;0
+e;6063914;'maison Bucheron';777;0
+e;6063747;'maison Laurier';777;0
+e;6063736;'maison du domaine de Bonsol';777;0
+e;6063735;'maison natale des frères Lumière';777;0
+e;6063688;'maison de New Place';777;0
+e;6063680;'maison de Mary Arden';777;0
+e;6063627;'maison Géry';777;0
+e;6063514;'maison Unal';777;0
+e;6063507;'maison des chevaliers';777;0
+e;6063478;'maison La Matray';777;0
+e;6063390;'maison Pfister';777;0
+e;6048985;'maison des Loups';777;0
+e;6047889;'maison natale de François Mitterrand';777;0
+e;6033309;'maison Thimon';777;0
+e;6030589;'maison Raynaud-Gaillard';777;0
+e;6029432;'maison Mandon';777;0
+e;6028265;'maison Gerlier';777;0
+e;6018151;'maison dans les arbres';777;0
+e;6018054;'maison Gaston Castel';777;0
+e;6017984;'maison Van Rysselberghe';777;0
+e;6017786;'maison Carrère';777;0
+e;6017701;'maison d'Ernest Hemingway';777;0
+e;6017600;'maison Louis Carré';777;0
+e;6017481;'maison de l'armateur';777;0
+e;6017321;'maison de Georges Clemenceau';777;0
+e;6017305;'maison Saint-Gabriel';777;0
+e;6017101;'maison Kammerzell';777;0
+e;10196997;'maison du football européen';777;0
+e;10251815;'maison de vie';777;0
+e;10841453;'maison d'édition de bande dessinée';777;0
+e;10839199;'maison d'Avesnes';777;0
+e;10839167;'ancienne maison Desbassayns';777;0
+e;10839166;'maison Grande Cour';777;0
+e;10838448;'maison d'arrêt des Hauts-de-Seine';777;0
+e;10838414;'maison d'arrêt de Bois-d'Arcy';777;0
+e;10853627;'maison Fournaise';777;0
+e;10851909;'maison des pays de Bresse';777;0
+e;10868126;'maison capétienne d'Artois';777;0
+e;10866958;'ranger la maison';1;12
+e;10997756;'maison d'arrêt de Lille-Sequedin';777;0
+e;11362352;'maison du Christ';777;0
+e;11413416;'maison de Vintimille';777;0
+e;11697689;'maison du patrimoine';777;0
+e;11996620;'maison de Musa Shehzade';777;0
+e;12048835;'laver du linge de maison';1;0
+e;12068371;'maison Beer';777;0
+e;12068447;'La maison de la culture et de la jeunesse';777;0
+e;12070166;'maison d'Adhémar';777;0
+e;12079713;'maison pontière';1;0
+e;12079712;'maison des fous';1;0
+e;12079711;'maison de capitaine';1;0
+e;12079710;'maison astrologique';1;0
+e;12079709;'maison à gros numéro';1;0
+e;12301072;'maison Radziwill';777;0
+e;16242491;'L'ancienne maison d'Herwarth';777;0
+e;15374299;'Leur maison était située au sommet d'une colline boisée.';1;0
+e;16153832;'La maison du Perier';777;0
+e;16161692;'Miniatures et dessin montrant la maison de l'Antiquaille';777;0
+e;16311467;'La maison penchée';777;0
+e;16314211;'La maison de Montefeltro';777;0
+e;16358335;'La maison de fer';777;0
+e;16391660;'Ma maison a été inondée';777;0
+e;5723300;'maison Gabrielle-Roy';777;0
+e;5991513;'maison Brunet';777;0
+e;6063830;'maison Morisset';777;0
+e;6064116;'maison à la Cour verte';777;0
+e;6064096;'maison de la Sage-Femme';777;0
+e;6064084;'maison des Lieutenants du Roi';777;0
+e;6063916;'maison des hôtes';777;0
+e;6063915;'maison Bouday';777;0
+e;6063913;'maison de François Ier';777;0
+e;6063907;'maison Barnum';777;0
+e;6063887;'maison Ravenscrag';777;0
+e;6063769;'maison du docteur Bastin';777;0
+e;6063647;'maison Billaud';777;0
+e;6063646;'maison du Change';777;0
+e;6063645;'maison des Apothicaires';777;0
+e;6063555;'maison des artisans';777;0
+e;6063474;'maison de Demou';777;0
+e;6051408;'maison et atelier Rodolphe-Duguay';777;0
+e;6048786;'maison de Gassies';777;0
+e;6037158;'maison de l'Obédiencerie';777;0
+e;6036113;'maison de Jeanne-d'Arc';777;0
+e;6035614;'maison Beaudry';777;0
+e;6034685;'maison de Henry Jacques Le Même';777;0
+e;6034411;'maison Brossard-Gauvin';777;0
+e;6033590;'maison Vallet';777;0
+e;6032787;'maison Thibault';777;0
+e;6030738;'maison Rouby';777;0
+e;6028842;'maison Guedon';777;0
+e;6023525;'maison du Petit-Saint-Georges';777;0
+e;6018150;'maison arboricole';777;0
+e;6018137;'maison natale de Louis Pasteur';777;0
+e;6017795;'maison Loupy';777;0
+e;6017784;'maison de la Banque de La Réunion';777;0
+e;6017716;'maison de Jean Prouvé';777;0
+e;6017400;'maison bulle';777;0
+e;6427393;'maison de naissance indépendante';1;0
+e;10995128;'maison de Rochechouart';777;0
+e;10997144;'maison d'Avaugour';777;0
+e;10997757;'maison d'arrêt de Sequedin';777;0
+e;11013944;'maison de Beauvoir-Chastellux';777;0
+e;11014079;'maison de Durfort';777;0
+e;11095599;'maison d'Este et d'Autriche-Este';777;0
+e;11440216;'maison Tyr';777;0
+e;11479515;'maison de Iturbide';777;0
+e;11577361;'garder une maison';1;0
+e;11937314;'maison de Thoire-Villars';777;0
+e;13495237;'maison de Crussol';777;0
+e;12034056;'maison de Clermont-Tonnerre';777;0
+e;12034054;'maison militaire du roi de France';777;0
+e;15951069;'Le derrière de la maison donne sur le terrain de golf.';1;0
+e;3917502;'brule-maison';1;0
+e;5809141;'Viens boire un p'tit coup à la maison';777;0
+e;5893784;'maison capétienne de Courtenay';777;0
+e;6064111;'maison natale de Sainte-Odile';777;0
+e;6064108;'maison Ehrhard';777;0
+e;6064107;'maison Blech';777;0
+e;6064093;'maison du maire Eberlin';777;0
+e;6064024;'maison d'Auguste';777;0
+e;6063939;'maison de Nicéphore Niépce de Saint-Loup-de-Varennes';777;0
+e;6063927;'maison Cordienne';777;0
+e;6063865;'maison de la Truie qui File';777;0
+e;6063506;'maison Bastide';777;0
+e;6063476;'maison de Louis XI';777;0
+e;6063403;'maison Schongauer';777;0
+e;6034041;'maison des Dîmes';777;0
+e;6033823;'maison Guerrier';777;0
+e;6018129;'maison gothique';777;0
+e;6018067;'maison du receveur ecclésiastique';777;0
+e;6017953;'maison dit Bossu';777;0
+e;6017884;'maison de Robert Schuman';777;0
+e;6017796;'maison Frappier de Montbenoît';777;0
+e;6017711;'maison longue amérindienne';777;0
+e;6017647;'maison Bloc';777;0
+e;6017378;'maison natale de Charles de Gaulle';777;0
+e;10297715;'maison Jeremiah Calkin';777;0
+e;10297712;'maison James Crane';777;0
+e;10297711;'maison Silas Crane';777;0
+e;10297708;'maison James Avery';777;0
+e;10297705;'maison Hamilton';777;0
+e;10297619;'maison Booth';777;0
+e;10848272;'maison de Beaufort';777;0
+e;11017532;'maison de Savoie-Carignan';777;0
+e;11095929;'maison de la mine et du tourisme de Saint-Éloy-les-Mines';777;0
+e;11392787;'maison musée de Giorgio De Chirico';777;0
+e;11392786;'maison de Pirandello';777;0
+e;11392759;'maison de Goethe';777;0
+e;11416112;'maison Finlandia';777;0
+e;11577405;'prix d'une maison';1;0
+e;11839904;'maison méditerranéenne des Sciences de l'homme';777;0
+e;5831399;'maison de la canne';777;0
+e;6064109;'maison Moosbrugger';777;0
+e;6064047;'maison Liensol';777;0
+e;6064046;'maison Turlet';777;0
+e;6063990;'maison de Paul à Tarse';777;0
+e;6063982;'maison Joseph-Gauvreau';777;0
+e;6063954;'maison du Peuple de Saint-Malo';777;0
+e;6063931;'maison Gaudy';777;0
+e;6063929;'maison du cardinal Sommier';777;0
+e;6063917;'maison espagnole';777;0
+e;6063863;'maison Mozart à Augsbourg';777;0
+e;6063796;'maison Joseph-Dagenais';777;0
+e;6063726;'maison de l'arbre de Jessé';777;0
+e;6063725;'maison au poteau cornier de Saint-Julien-du-Sault';777;0
+e;6063639;'maison aux raisins';777;0
+e;6063556;'maison du 5 place du Change';777;0
+e;6063553;'maison Pfeffel';777;0
+e;6063551;'maison zum Kragen';777;0
+e;6063521;'maison du Gros Chien';777;0
+e;6063472;'maison des Bardets';777;0
+e;6063466;'maison natale de Condorcet';777;0
+e;6037717;'maison des Ports';777;0
+e;6033647;'maison Racle';777;0
+e;6032362;'maison Thevenet-Falconnet';777;0
+e;6028537;'maison Grezin';777;0
+e;6027227;'maison May';777;0
+e;6018108;'maison des Colonnes';777;0
+e;6018107;'maison Lambert';777;0
+e;6018036;'maison du Rouréou';777;0
+e;6017985;'maison Enjalbert';777;0
+e;6017790;'maison Canonville';777;0
+e;6017639;'maison coilliot';777;0
+e;6017100;'maison des châteaux forts';777;0
+e;10194658;'maison Ipatiev';777;0
+e;10790464;'deuxième maison capétienne d'Orléans';777;0
+e;10790465;'troisième maison capétienne d'Orléans';777;0
+e;10790466;'quatrième maison capétienne d'Orléans';777;0
+e;11248303;'maison de Scarpone';777;0
+e;11248278;'maison de Toucy';777;0
+e;11248179;'maison de Limbourg';777;0
+e;11341966;'maison d'arrêt cellulaire';777;0
+e;11364063;'maison des Corporations';777;0
+e;11364046;'maison des Têtes de Metz';777;0
+e;11392636;'maison de Goethe à Strasbourg';777;0
+e;11394446;'maison de Liechtenstein';777;0
+e;11544413;'maison princière de Merode';777;0
+e;11653692;'maison de Noailles';777;0
+e;11653689;'maison de Maillé';777;0
+e;5537430;'maison de style baroque';1;0
+e;5894297;'maison capétienne de Dreux';777;0
+e;6064101;'maison Thalinger';777;0
+e;6063933;'maison du bailli de Granges-le-Bourg';777;0
+e;6063920;'maison forte de Sorans-lès-Breurey';777;0
+e;6063755;'maison de Mika Alas';777;0
+e;6063723;'maison située rue des Juifs';777;0
+e;6063702;'maison d'été';777;0
+e;6063687;'maison de la rue Armstrong';777;0
+e;6063620;'maison bruxelloise';777;0
+e;6063522;'maison natale de Dom Mabillon';777;0
+e;6063511;'maison d'Olivier de Serres';777;0
+e;6063498;'maison des missionnaires de la Croix';777;0
+e;6063473;'maison de Charles IX';777;0
+e;6063445;'maison Fleischhauer';777;0
+e;6055803;'maison natale de Victor Hugo';777;0
+e;6049763;'maison Messidan';777;0
+e;6049268;'maison du Loup';777;0
+e;6046061;'maison Bacot';777;0
+e;6029698;'maison Martinet et Grassin';777;0
+e;6017956;'maison Roussel';777;0
+e;6017809;'maison sous la Farnesina';777;0
+e;6017672;'maison Déodat Roché';777;0
+e;6017306;'maison victorienne';777;0
+e;6526952;'Évaluation et prise en charge du patient à domicile ou d'une maison de repos';1;0
+e;6445021;'enseignement sur l'oxygénothérapie à la maison';1;0
+e;10064135;'La maison qui tue';777;0
+e;10363252;'maison Delorme';777;0
+e;10384652;'maison de Valois';777;0
+e;10547088;'maison capétienne d'Anjou-Sicile';777;0
+e;10790481;'maison royale de France';777;0
+e;10754126;'maison Félix-Leclerc';777;0
+e;11223974;'maison forte de Dalmaz';777;0
+e;11247676;'maison des Oblats';777;0
+e;11248794;'maison Baar-Lecharlier';777;0
+e;11302214;'maison militaire du roi';777;0
+e;11372468;'maison deCroÿ';777;0
+e;11364720;'maison rouge';777;0
+e;11364273;'maison de Rabelais à Metz';777;0
+e;11653681;'maison de Fitz-James';777;0
+e;2421884;'ouvrir sa maison';1;0
+e;6001810;'Musée de la maison de Joseph Pickford';777;0
+e;6063739;'maison Ribar';777;0
+e;6063608;'maison Lestang';777;0
+e;6017099;'maison des Rochers';777;0
+e;6526418;'accessoires de maison';1;0
+e;10189563;'arbre généalogique de la maison royale de Belgique';777;0
+e;11012129;'maison des esclaves';777;0
+e;11248742;'maison du Puiset';777;0
+e;11248760;'maison des seigneurs de Montfort-l'Amaury';777;0
+e;11251358;'maison bateau';777;0
+e;11251584;'maison des Arrhéphores';777;0
+e;11383562;'louer une maison';1;4
+e;11387660;'Musée de la maison de Jane Austen';777;0
+e;11573974;'maison lunaire';777;0
+e;12369052;'maison Hobbit';777;0
+e;12792545;'maison de Bill et Melinda Gates';777;0
+e;13387809;'maison Sager';777;0
+e;13387863;'maison Stenbock';777;0
+e;5559802;'maison à cuisine unique';777;0
+e;5894076;'maison d'Oldenbourg';777;0
+e;5993716;'Le Journal de la maison';777;0
+e;6064078;'maison des Bains';777;0
+e;6063979;'maison du Commandant Charcot';777;0
+e;6038805;'maison de l'Astronome';777;0
+e;6032543;'maison Thevenin';777;0
+e;6017891;'maison de Bill Gates';777;0
+e;10081870;'maison de Radio France';777;0
+e;10081869;'maison de l'ORTF';777;0
+e;10081868;'maison ronde';777;0
+e;11001940;'vendre la maison';1;0
+e;11182275;'maison culturelle';1;0
+e;11182274;'maison culturelle et artistique';1;0
+e;11381841;'maison de Polignac';777;0
+e;11575716;'maison de la Culture';1;0
+e;11968793;'maison Bonnamour';777;0
+e;2374107;'maison de refuge';1;0
+e;5563397;'maison Sanglier';777;0
+e;5892966;'généalogie de la maison de Bourbon';777;0
+e;5898056;'maison Morange';777;0
+e;6064106;'maison des Trois Dames';777;0
+e;6064102;'maison George-Stephen';777;0
+e;6064094;'maison Méquillet';777;0
+e;6064087;'maison des Ménétriers';777;0
+e;6064083;'maison Grünwasser';777;0
+e;6064082;'maison Keith';777;0
+e;6064077;'maison située au 1 place de l'Église à Ensisheim';777;0
+e;6063951;'maison Annandale';777;0
+e;6063858;'maison Hertel-De La Fresnière';777;0
+e;6063773;'maison d'Einstein à Berne';777;0
+e;6063768;'maison des médecins';777;0
+e;6063767;'maison à Bordeaux';777;0
+e;6063766;'maison Lemoine';777;0
+e;6063704;'maison Millière';777;0
+e;6063609;'maison Peytavin';777;0
+e;6063510;'maison Michel-Veyrenc';777;0
+e;6063508;'maison forte du Ruissas';777;0
+e;6063482;'maison des Vertus cardinales';777;0
+e;6063439;'maison Mingat';777;0
+e;6042326;'maison de maître de la Charpenterie';777;0
+e;6035903;'maison Brandin';777;0
+e;6031919;'maison Tacani';777;0
+e;6031254;'maison Ruyssen';777;0
+e;6030972;'maison Ruivet';777;0
+e;6030096;'maison Perrin';777;0
+e;6028120;'maison Gagneux';777;0
+e;6027010;'maison du Vachat';777;0
+e;6017986;'maison Henri Jacobs';777;0
+e;6017976;'maison à quatre pièces';777;0
+e;6017915;'maison de Pierre Loti';777;0
+e;6017866;'maison de François Coignet';777;0
+e;6017851;'maison natale de Jeanne d'Arc';777;0
+e;6017785;'maison Kalidas';777;0
+e;6017781;'maison Repiquet';777;0
+e;6017763;'maison Peter-Lyall';777;0
+e;6017595;'maison des Jésuites de Sillery';777;0
+e;6017539;'maison d'André Derain';777;0
+e;6017358;'maison natale de Louis-Fréchette';777;0
+e;6017355;'maison natale de Mozart';777;0
+e;10445656;'maison de la culture du Japon à Paris';777;0
+e;10461439;'maison de Châtillon';777;0
+e;10460352;'maison Trencavel';777;0
+e;10508046;'maison d'édition chrétienne';1;0
+e;10774182;'entretenir la maison';1;0
+e;11011751;'maison étoilée';777;0
+e;11103780;'Côté maison';777;0
+e;11155265;'maison de prière';1;0
+e;11207609;'ouvrir les portes de sa maison';1;0
+e;11208985;'maison du temple';777;0
+e;11385138;'maison de Wessex';777;0
+e;11971702;'maison Lautier';777;0
+e;11973676;'maison de Schwarzenberg';777;0
+e;11973662;'maison de Lobkowicz';777;0
+e;11973675;'maison de Schwarzbourg';777;0
+e;13252281;'maison Belmont';777;0
+e;2375120;'maison j't'arquinche';1;0
+e;2377353;'la maison ne fait pas crédit';1;0
+e;5563396;'maison Adam de Villiers';777;0
+e;5994639;'maison du tapissier';777;0
+e;6064091;'maison à l'Étoile';777;0
+e;6064090;'maison Dissler';777;0
+e;6064079;'maison Brief-Faller';777;0
+e;6064036;'maison natale d'Esprit Fléchier';777;0
+e;6064035;'maison Georges-De Gannes';777;0
+e;6063994;'maison natale de Colette';777;0
+e;6063926;'maison forte de Lavoncourt';777;0
+e;6063925;'maison royale de Pesmes';777;0
+e;6063909;'maison Azuma à Sumiyoshi';777;0
+e;6063730;'Musée de la maison de Rembrandt';777;0
+e;6063678;'maison natale de Shakespeare';777;0
+e;6063670;'maison Maillou';777;0
+e;6063664;'maison Trochon';777;0
+e;6063638;'maison Millepertuis';777;0
+e;6063618;'maison du viguier';777;0
+e;6063530;'maison de Saint-Vincent';777;0
+e;6063512;'maison de Pierre et Marie Durand';777;0
+e;6063481;'maison de la Tour';777;0
+e;6063477;'maison du Marchand';777;0
+e;6063467;'maison natale de Paul Claudel';777;0
+e;6063437;'maison Bolli';777;0
+e;6063399;'maison du Docteur Sentex';777;0
+e;6063393;'maison Laguens';777;0
+e;6049120;'maison aux Loups';777;0
+e;6046317;'maison Gentry';777;0
+e;6037443;'maison de Vaulabelle';777;0
+e;6034429;'maison Blain';777;0
+e;6030423;'maison Plantier';777;0
+e;6030282;'maison Peychiers';777;0
+e;6028984;'maison Janin';777;0
+e;6023612;'maison du Cadran Solaire';777;0
+e;6018178;'maison du Saumon';777;0
+e;6018152;'maison natale de Giuseppe Verdi';777;0
+e;6018043;'maison Siegler';777;0
+e;6017792;'maison Levesque';777;0
+e;6017665;'maison de Louis Pasteur à Arbois';777;0
+e;6017628;'maison Papineau';777;0
+e;6017625;'maison Du Calvet';777;0
+e;6017538;'maison de Léon et Jeanne Blum';777;0
+e;6017492;'maison à basse consommation d'énergie';777;0
+e;6017418;'maison d'Adam et Ève';777;0
+e;6017294;'maison des vestales';777;0
+e;10511843;'maison en bordel';1;0
+e;11162240;'maison Torelli';777;0
+e;11162255;'maison Gonzague';777;0
+e;11385061;'maison de Roye';777;0
+e;11385139;'maison de Cerdic';777;0
+e;11385059;'maison de Montmorency';777;0
+e;11388167;'maison de Nevers';777;0
+e;5983516;'maison en paille';777;0
+e;6064112;'maison du commandeur de l'Ordre teutonique';777;0
+e;6064095;'maison à l'Ours noir';777;0
+e;6064092;'maison Kiener';777;0
+e;6064076;'maison d'école';777;0
+e;6064001;'maison de Paul Revere';777;0
+e;6063962;'maison John Sowden';777;0
+e;6063919;'maison Racle sur le Treige';777;0
+e;6063821;'maison à pans de bois de La Châtre';777;0
+e;6063805;'maison Bleau';777;0
+e;6063746;'maison Vézina';777;0
+e;6063710;'maison Stendhal';777;0
+e;6063708;'maison Trestler';777;0
+e;6063601;'maison Minée';777;0
+e;6063497;'maison Jean Rey';777;0
+e;6063475;'maison des Gazons';777;0
+e;6063465;'maison des Frères Ignorantins';777;0
+e;6063388;'maison des Têtes';777;0
+e;6063381;'maison de la Lieutenance';777;0
+e;6042523;'maison de maître de la Masselière';777;0
+e;6036506;'maison de la Toison d'Or';777;0
+e;6033086;'maison Thibaut';777;0
+e;6031726;'maison Sambet-Bailly';777;0
+e;6027225;'maison dite d'Olivier Le Daim';777;0
+e;6026895;'maison Jean Escoffier';777;0
+e;6026724;'maison Falconnet';777;0
+e;6017998;'maison Hankar';777;0
+e;6017919;'maison planeix';777;0
+e;6017808;'maison de la via Graziosa';777;0
+e;6017794;'maison Orré';777;0
+e;6017549;'maison de Claude Debussy';777;0
+e;6017232;'maison de Jean Monnet';777;0
+e;6438357;'maison d'accueil de la famille des malades';1;0
+e;10161845;'maison Belfond';777;0
+e;10161162;'la maison vide';777;0
+e;10160772;'Une maison de poupée';777;0
+e;11174645;'maison des travailleurs';777;0
+e;13297666;'maison de l'Histoire de la République fédérale d'Allemagne';777;0
+e;15469029;'La police surveillait la maison.';1;0
+e;2396406;'maison de club';1;0
+e;6064115;'maison des Anneaux';777;0
+e;6064056;'maison Grégueil';777;0
+e;6064045;'maison Coquille';777;0
+e;6063930;'maison Davadan';777;0
+e;6063921;'maison de vigneron de Chevigney';777;0
+e;6063732;'maison d'Archibald Reiss';777;0
+e;6063637;'maison Louis-XV';777;0
+e;6063554;'maison Sandherr';777;0
+e;6063552;'maison zum Oesterreich';777;0
+e;6063537;'maison Malaval';777;0
+e;6063520;'maison forte de la Raminoise';777;0
+e;6063518;'maison espagnole de Revin';777;0
+e;6063516;'maison La Vanaude';777;0
+e;6063513;'maison Rohan-Soubise';777;0
+e;6063509;'maison de Max Ernst';777;0
+e;6063480;'maison Seive';777;0
+e;6063479;'maison de Neuglize';777;0
+e;6063451;'maison personnelle de l'architecte Arthur Nelissen';777;0
+e;6063444;'maison Adolph';777;0
+e;6063401;'maison Kern';777;0
+e;6063396;'maison du Rey';777;0
+e;6046186;'maison Pirnay';777;0
+e;6038002;'maison des Sept-Têtes';777;0
+e;6036243;'maison de la Motte';777;0
+e;6029226;'maison Magnin';777;0
+e;6027591;'maison Cazin';777;0
+e;6027314;'maison Gallet';777;0
+e;6018044;'maison Pflüger';777;0
+e;6017981;'maison Dupeyré';777;0
+e;6017783;'maison du Général';777;0
+e;6017542;'maison d'Émile Zola';777;0
+e;6017090;'maison Schröder de Rietveld';777;0
+e;6528017;'style maison';777;0
+e;10145205;'Une rivale dans la maison';777;0
+e;10143274;'maison d'Aviz';777;0
+e;10143269;'maison royale de Portugal';777;0
+e;11105418;'maison des syndicats';777;0
+e;15413533;'La grande maison';1;0
+e;15482318;'La maison a subi d'énormes dommages.';1;0
+e;15355023;'La maison a été détruite par un incendie.';1;0
+e;15329661;'La maison doit être vendue.';1;0
+e;15240913;'La maison est dans un bazar complet.';1;0
+e;15385156;'La maison est exposée au sud-ouest.';1;0
+e;15330222;'La maison s'est embrasée comme une torche.';1;0
+e;15321848;'La maison se dresse isolée sur la colline.';1;0
+e;2413666;'de maison en maison';1;0
+e;5993342;'maison des Canuts';777;0
+e;6064048;'maison Matis';777;0
+e;6063827;'maison Nérée-Beauchemin';777;0
+e;6063550;'maison Wildungshof';777;0
+e;6063505;'maison du bailli';777;0
+e;6037630;'maison des Goix';777;0
+e;6032141;'maison Tary';777;0
+e;6017417;'maison d'Adam';777;0
+e;6017222;'maison de Victor Horta';777;0
+e;12773324;'maison des Marmousets';777;0
+e;12773322;'maison des Ducs de Bretagne';777;0
+e;5940426;'la maison sous la mer';777;0
+e;5994638;'maison Corneille';777;0
+e;6064085;'maison d'officiers';777;0
+e;6063842;'maison du Bailli';777;0
+e;6063438;'maison Maron';777;0
+e;6018179;'maison du médecin Huvé';777;0
+e;6018047;'maison de Nicolas Flamel';777;0
+e;6017642;'maison de Victor Hugo';777;0
+e;6017480;'maison des Quatrans';777;0
+e;10435444;'blanquette de veau maison';1;0
+e;10437008;'maison de Milly';777;0
+e;10437002;'maison de Courtenay';777;0
+e;5515049;'maison départementale et métropolitaine des personnes handicapées';777;0
+e;6064081;'maison Huffel';777;0
+e;6063629;'maison Bloch';777;0
+e;6063413;'maison des chevaliers de Saint-Jean';777;0
+e;6027500;'maison Bache';777;0
+e;6018106;'maison des Consuls';777;0
+e;5518442;'maison de Champagne';777;0
+e;6064118;'maison romane';777;0
+e;6063928;'maison Roch';777;0
+e;6063494;'maison d'Alexandra David-Néel';777;0
+e;6063464;'maison de Saint-Just';777;0
+e;6038194;'maison Joseph-Joubert';777;0
+e;6038102;'maison du Chapitre';777;0
+e;6031509;'maison Salomon';777;0
+e;6029897;'maison Pacard';777;0
+e;6027875;'maison Devigne';777;0
+e;6017774;'maison Ernest-Cormier';777;0
+e;6017771;'maison Lamontagne';777;0
+e;6017414;'La maison natale Jean-François Millet';777;0
+e;8749101;'recevoir à la maison';1;0
+e;8749083;'s'occuper de la maison';1;0
+e;8758129;'mettre sa maison en vente';1;0
+e;8758130;'vendre sa maison';1;0
+e;8751311;'avoir une belle maison';1;0
+e;8779427;'hypothéquer sa maison';1;0
+e;8853310;'maison de Battenberg';777;0
+e;8895599;'maison de Laval';777;0
+e;8912910;'maison Romanov';777;0
+e;8914058;'maison de garnison';777;0
+e;8967640;'Deuxième maison de Bragance';777;0
+e;8967639;'Première maison de Bragance';777;0
+e;8967641;'Troisième maison de Bragance';777;0
+e;8969396;'maison de Guise';777;0
+e;9101798;'pain d'épice pour une maison de noël';1;0
+e;9101928;'sauce alfredo maison';1;0
+e;9101904;'guacamole maison';1;0
+e;9101828;'maison en pain d'épice pour halloween';1;0
+e;9102044;'danette au chocolat et à la vanille maison';1;0
+e;9698478;'pleuvoir dans la maison';1;0
+e;9749605;'membre du personnel de maison';777;0
+e;11119471;'maison d'Harcourt';777;0
+e;11119569;'Nom de la maison et blasonnement';777;0
+e;11120006;'maison de Sverker';777;0
+e;11129327;'maison du prince Gong';777;0
+e;11132164;'maison capétienne de Bourgogne';777;0
+e;11136024;'maison de la culture arménienne de Décines';777;0
+e;12262845;'maison des Confesseurs';777;0
+e;12618632;'maison aubanel';777;0
+e;12630098;'maison de Hohenlohe';777;0
+e;12645940;'maison Reuss';777;0
+e;12623052;'maison de Hobbit';1;0
+e;12699452;'système à maison';777;0
+e;13754848;'2-112 évaluation et prise en charge du patient à domicile ou d'une maison de repos';1;0
+e;13796616;'41 accessoires de maison';1;0
+e;13800110;'54 employés de maison et travailleurs assimilés n.c.a.';1;0
+e;14095726;'Armorial de la maison de Rohan';777;0
+e;14130215;'Armorial de la maison de Savoie';777;0
+e;14376216;'Appellations des membres de la maison de France';777;0
+e;14567512;'Chronologie de la Première maison d'Anjou de 930 à 1204';777;0
+e;15487225;'Elle a hérité de la maison de son père.';1;0
+e;15374726;'Elle voulait que sa maison soit peinte.';1;0
+e;15397111;'Elle a une belle maison.';1;0
+e;15487223;'Elle a hérité la maison de son père.';1;0
+e;15373055;'J'ai fouillé la maison de fond en comble.';1;0
+e;15241195;'Il passe ses journées à paresser dans la maison.';1;0
+e;15336323;'Il ne peut pas rentrer à la maison tout de suite.';1;0
+e;15264570;'J'aimerais mieux rester à la maison ce soir.';1;0
+e;15346813;'Il a dessiné la maison en perspective.';1;0
+e;15571191;'J'ai dépensé tout mon argent sur la maison.';1;0
+e;15395491;'J'ai quitté la maison à huit heures.';1;0
+e;15774915;'En rentrant, elle a trouvé sa maison saccagée.';1;0
+e;15791796;'Elle ne permet pas que l'on fume dans la maison.';1;0
+e;15411010;'Il s'est approché de la maison.';1;0
+e;15379186;'Ils rentrèrent tous à la maison en groupe.';1;0
+e;15227693;'Ils possèdent une jolie maison.';1;0
+e;15570289;'Ils projettent d'acheter une maison.';1;0
+e;15307680;'Il était impatient de rentrer à la maison.';1;0
+e;15397114;'Ils ont une très belle maison.';1;0
+e;15328127;'Ils ont admirablement meublé leur maison.';1;0
+e;15561434;'Cette petite maison a beaucoup de cachet.';1;0
+e;15571264;'Elle est bien, cette maison.';1;0
+e;15264568;'Je préférerais rester à la maison ce soir.';1;0
+e;15327752;'Je rentre à la maison vers quatre heures.';1;0
+e;15264557;'Je reste à la maison ce week-end.';1;0
+e;15528802;'Je serai à la maison à cinq heures.';1;0
+e;15336321;'Je veux rentrer à la maison.';1;0
+e;15854690;'Armes de la maison de La Châtre';777;0
+e;15751922;'Ils refont une vieille maison.';1;0
+e;16105601;'Attentat de la maison Carro';777;0
+e;16315834;'Ancienne maison de Bourgogne';777;0
+e;2524237;'maison de force';1;0
+e;2518959;'grosse maison';1;0
+e;3318263;'maison de Bourbon-Siciles';777;0
+e;3369959;'steak tartare maison';1;0
+e;3369394;'scampis à l'italienne, recette maison';1;0
+e;3368139;'raviolis maison aux épinards';1;0
+e;3368069;'ragoût de boeuf maison';1;0
+e;3363331;'gnocchis maison aux flocons d'avoine';1;0
+e;3363330;'gnocchis maison au parmesan';1;0
+e;3360773;'coquilles maison';1;0
+e;3743796;'churros maison';1;0
+e;3744431;'tarte aux fraises avec pâte maison';1;0
+e;3744496;'cinnamon rolls maison';1;0
+e;3745337;'glaçage au gingembre pour maison en pain d'épice';1;0
+e;3745333;'granola maison super croustillant';1;0
+e;3746362;'raifort fait maison';1;0
+e;3746346;'raviolis maison';1;0
+e;3746325;'sauce Alfredo maison';1;0
+e;3745841;'pain d'épice pour une maison de Noël';1;0
+e;3745744;'pâte à pizza maison';1;0
+e;3756828;'pour souder les différentes parties de la maison';1;0
+e;6038449;'maison natale de Théodore de Bèze';777;0
+e;4401675;'quitter la maison familiale';1;0
+e;1529022;'dessert maison';1;0
+e;2324529;'maison d'Orange-Nassau';777;0
+e;3177732;'maison capétienne de Bourbon';777;0
+e;3318385;'cheeseburger maison';1;0
+e;3372141;'yaourts maison';1;0
+e;3370574;'tarte aux noix maison';1;0
+e;3368611;'sablés maison';1;0
+e;3368138;'raviolis maison au saumon et champignons';1;0
+e;3367589;'poulet curry maison';1;0
+e;3366599;'paupiettes maison aux olives';1;0
+e;3365537;'fajitas avec tortillas';1;0
+e;3364980;'nuggets maison';1;0
+e;3364911;'nems de porc maison';1;0
+e;3362446;'fondant au chocolat maison';1;0
+e;3362245;'filets de rougets panés maison';1;0
+e;3717543;'maison Grimaldi';1;0
+e;3744050;'maison en pain d'épices pour les enfants';1;0
+e;3744869;'merguez maison';1;0
+e;3745436;'pain à burger maison';1;0
+e;3746526;'pâte à sucre maison';1;0
+e;3745582;'cassoulet maison en cocotte-minute';1;0
+e;3757420;'tranches de pain d'épices maison';1;0
+e;3756799;'pâte brisée toute prête ou faite maison';1;0
+e;3756426;'pâte brisée maison';1;0
+e;3755531;'belle pâte de pistaches maison';1;0
+e;3754385;'compote pommes poires maison';1;0
+e;2567803;'maison en bande';1;0
+e;2518264;'maison de thé';1;0
+e;3320992;'pain fait à la maison';1;0
+e;3359509;'boulettes à la viande façon maison';1;0
+e;3372138;'yaourt maison, avec une yaourtière';1;0
+e;3371586;'tourte à la brandade de morue "maison"';1;0
+e;3371336;'terrine maison à la marjolaine';1;0
+e;3371209;'terrine de campagne maison';1;0
+e;3367121;'poivrons et tomates grillés et leur pain maison, algérie';1;0
+e;3361163;'crêpes maison à la farine de châtaigne';1;0
+e;3705824;'enfumer la maison';1;0
+e;3744978;'petits chaussons aux pommes maison';1;0
+e;3754466;'sauce piquante style harissa maison';1;0
+e;3754428;'bouillon de volaille « maison» de préférence';1;0
+e;6063765;'maison de Luther';777;0
+e;6063628;'maison Turquet';777;0
+e;6017797;'maison des directeurs de Grands Bois';777;0
+e;4401673;'quitter la maison';1;0
+e;1746139;'maison Bollinger';1;0
+e;2525988;'maison autonome';1;0
+e;3173308;'maison de Habsbourg';777;0
+e;3225607;'Où est la maison de mon ami ?';1;0
+e;3363277;'glace alcoolisée suédoise maison';1;0
+e;3362586;'fromage de tête maison';1;0
+e;3359787;'buns maison';1;0
+e;3737421;'plat fait maison';1;0
+e;3743742;'paupiette de veau maison sur purée de céleri';1;0
+e;4333013;'maison de Lancastre';1;0
+e;6063737;'maison Ézemar';777;0
+e;437468;'spécialité maison';1;50
+e;461295;'maison de l'hôpital des Allemands de Sainte Marie de Jérusalem';777;50
+e;3181025;'La Fête à la maison';777;0
+e;3298180;'s'introduire dans une maison';1;0
+e;3359399;'blinis faciles maison';1;0
+e;3359508;'boulettes à l'ail maison';1;0
+e;3371491;'tofu maison';1;0
+e;3366876;'pieds paquets, maison';1;0
+e;3366081;'pain maison à la levure de bière';1;0
+e;3364116;'légumes farcis maison';1;0
+e;3359471;'bouchées à la reine maison';1;0
+e;3361254;'croissants maison';1;0
+e;3743786;'soupe miso maison';1;0
+e;3744498;'farine sans gluten maison à base de millet';1;0
+e;3744895;'pizza calzone maison';1;0
+e;3745417;'mojito maison';1;0
+e;3746293;'tisane à la menthe maison';1;0
+e;3745941;'chamallows maison';1;0
+e;3745505;'boudin blanc maison';1;0
+e;3753417;'bouillon de volaille maison';1;0
+e;4345110;'maison de Bourbon';1;0
+e;5386729;'clé de maison';1;0
+e;3359159;'baconburger maison';1;0
+e;3366385;'pâté de lapin maison façon francine';1;0
+e;3361326;'croustade aux pommes maison';1;0
+e;3634199;'maison de Croÿ';1;0
+e;3744624;'chocolat chaud maison';1;0
+e;3744949;'maison en pain d'épice facile';1;0
+e;3744958;'muesli fait maison';1;0
+e;3744923;'tacos salsa maison et guacamole';1;0
+e;3746673;'chaussons aux pommes maison';1;0
+e;3746545;'falafels maison';1;0
+e;3746096;'paupiettes maison au cidre';1;0
+e;3890679;'maison de disque';1;0
+e;4335602;'maison des étudiants';1;0
+e;4894657;'maison de Cavendish';777;0
+e;5989343;'maison de la baie de Somme et de l'Oiseau';777;0
+e;6063559;'maison Havart';777;0
+e;566286;'maison de quartier';777;50
+e;3304340;'maison de mineur';1;0
+e;3315431;'maison d'Ursel';777;0
+e;3370993;'tarte rapide maison';1;0
+e;3366347;'pâte à nouilles maison, pour tagliatelles simple';1;0
+e;3707552;'aérer la maison';1;0
+e;3744407;'gnocchi maison';1;0
+e;3746756;'harissa tunisienne maison';1;0
+e;3746699;'salsa maison';1;0
+e;3746572;'mousse au chocolat maison';1;0
+e;3759462;'tartare maison';1;0
+e;3869537;'casser maison';1;0
+e;4937716;'maison de Savoie';1;0
+e;6033722;'maison Anginieur';777;0
+e;394573;'maison sur pilotis';1;50
+e;586412;'maison du Grand Fauconnier';777;0
+e;2506091;'maison du bon Dieu';1;0
+e;2590056;'maison de naissance';1;0
+e;2937268;'maison de Leuchtenberg';777;0
+e;2949133;'maison de Saxe-Cobourg et Gotha';777;0
+e;2952164;'maison de Babenberg';777;0
+e;3352907;'maison japonaise';1;0
+e;3367771;'pudding maison aux raisins secs';1;0
+e;3359638;'brioche maison';1;0
+e;3359830;'cailles farcies maison';1;0
+e;3361179;'creusois maison';1;0
+e;3705254;'inviter une copine à la maison';1;0
+e;3744284;'maison gourmande en pain d'épices';1;0
+e;3746235;'maison en pain d'épice';1;0
+e;3746175;'mascarpone maison';1;0
+e;3755205;'sauce salade maison';1;0
+e;566203;'maison témoin';777;50
+e;567244;'maison fortifiées';777;50
+e;572652;'maison de Fézensac';777;50
+e;1012372;'maison de Nazareth';777;0
+e;2349716;'maison de Lippe-Biesterfeld';777;0
+e;2937267;'maison de Beauharnais';777;0
+e;3318734;'pâté de lapin maison façon Francine';1;0
+e;3320993;'pain maison';1;4
+e;3372139;'yaourt maison avec yaourtière';1;0
+e;3369928;'spéculoos maison';1;0
+e;3362490;'fondue asiatique maison';1;0
+e;3362323;'flan aux oeufs maison';1;0
+e;3360664;'compote de pommes maison sur lit de frangipane et boule de glace vanille';1;0
+e;3360738;'cookies maison';1;0
+e;3361986;'farce maison pour tomate et courgette';1;0
+e;3743734;'terrine de foie gras maison';1;0
+e;3744221;'coulis de tomates maison';1;0
+e;3744609;'confiture de fraises maison';1;0
+e;3746508;'granola maison';1;0
+e;3756716;'pâte d'amandes maison';1;0
+e;3755470;'bouillon de volaille «maison» de préférence';1;0
+e;3753678;'fond de tarte maison';1;0
+e;4335603;'maison de l'emploi';1;0
+e;5246460;'rester à la maison';1;282
+e;5522291;'maison d'édition de bandes dessinées';1;0
+e;6063918;'maison à l'oriflamme';777;0
+e;4466062;'extérieur de la maison';1;0
+e;1969880;'faire maison';1;0
+e;2952671;'maison Devambez';777;0
+e;2955197;'À la maison';777;0
+e;3169547;'Dans la maison';777;0
+e;3338764;'maison-Dieu';777;0
+e;3370672;'tarte aux pruneaux maison';1;4
+e;3359464;'bonhomme et maison en pain d'épices';1;0
+e;3359927;'cake aux fruits confits maison';1;0
+e;3361355;'croustillons maison';1;0
+e;3705257;'inviter un copain à la maison';1;0
+e;3743934;'confiture d'oignons maison';1;0
+e;3745140;'Danette au chocolat et à la vanille maison';1;0
+e;3747394;'Danette au chocolat et à la vanille maison';1;0
+e;3746778;'yaourt maison aux myrtilles et aux graines de lin';1;0
+e;3745473;'maison en pain d'épice pour Halloween';1;0
+e;3754748;'pâte feuilletée maison';1;0
+e;3753720;'crème anglaise maison';1;0
+e;5152484;'employés de maison';1;2
+e;5517380;'maison d'édition française';1;0
+e;2955235;'maison du Chevalier-du-Guet';777;0
+e;1858955;'maison toulousaine';777;0
+e;2949782;'maison de Hohenzollern';777;0
+e;3171690;'Comme à la maison';777;0
+e;382244;'syndicat maison';1;50
+e;362813;'maison pour adultes handicapés';1;50
+e;362778;'maison de bambou';1;50
+e;357417;'habitué de la maison';1;50
+e;357410;'habitude de la maison';1;50
+e;335062;'ami de la maison';1;50
+e;362828;'maison de garde-barrière';1;50
+e;362815;'maison traditionnelle';1;50
+e;362809;'maison mortuaire';1;50
+e;362780;'maison de bohème';1;50
+e;362779;'maison de banlieue';1;50
+e;362774;'maison d'enfants';1;50
+e;362771;'maison communale';1;50
+e;360127;'jeune fille de la maison';1;50
+e;350889;'en maison close';1;50
+e;338941;'belle maison bourgeoise';1;50
+e;388595;'à la maison d'arrêt de';1;50
+e;370008;'petite maison blanchie à la chaux';1;50
+e;362826;'maison de bénédiction';1;50
+e;362821;'maison civile';1;50
+e;362807;'maison jumelle';1;50
+e;362805;'maison forte';1;50
+e;362796;'maison de religieuses';1;50
+e;362792;'maison de poste';1;50
+e;362772;'maison communautaire';1;50
+e;382540;'séjour en maison de retraite';1;50
+e;362831;'maison religieuse';1;50
+e;362827;'maison de caractère';1;50
+e;362814;'maison princière';1;50
+e;362804;'maison forestière';1;50
+e;362799;'maison du peuple';1;50
+e;362776;'maison d'importation';1;50
+e;362775;'maison d'habitation';1;50
+e;357214;'gâteau maison';1;52
+e;350892;'en maison de retraite';1;52
+e;365514;'mur de maison';1;50
+e;362829;'maison du soldat';1;50
+e;362819;'maison à étages';1;50
+e;362818;'maison à toit plat';1;50
+e;362812;'maison paternelle';1;50
+e;362801;'maison en pierre de taille';1;50
+e;362797;'maison de réescompte';1;50
+e;362795;'maison de province';1;50
+e;362794;'maison de production';1;4
+e;362789;'maison de mode';1;50
+e;362788;'maison de justice';1;50
+e;350888;'en maison';1;50
+e;331236;'maison en pierre';1;50
+e;362823;'maison d'hébergement';1;50
+e;362810;'maison natale';1;50
+e;362803;'maison fleurie';1;50
+e;362802;'maison familiale';1;62
+e;362798;'maison de style';1;50
+e;362777;'maison d'études';1;50
+e;362773;'maison d'accueil';1;52
+e;350891;'en maison de redressement';1;50
+e;350890;'en maison de passe';1;50
+e;362817;'maison à louer';1;50
+e;362782;'maison de briques rouges';1;50
+e;362767;'maison amie';1;50
+e;356618;'grande maison bourgeoise';1;50
+e;354154;'fille de maison';1;50
+e;351003;'en parfaite maîtresse de maison';1;50
+e;390379;'état de maison';1;50
+e;362832;'maison seigneuriale';1;50
+e;362824;'maison de berger';1;50
+e;362816;'maison à la campagne';1;50
+e;362811;'maison particulière';1;50
+e;362806;'maison impériale';1;50
+e;362791;'maison de plaisance';1;50
+e;362790;'maison de négoce';1;50
+e;362781;'maison de bois';1;50
+e;362768;'maison bourgeoise';1;50
+e;352432;'esprit de la maison';1;50
+e;346775;'de la maison';1;50
+e;337769;'aux frais de la maison';1;50
+e;334641;'aire de maison';1;50
+e;382550;'séjour en maison de santé';1;50
+e;362825;'maison de bouteille';1;50
+e;362808;'maison militaire';1;50
+e;362800;'maison du père';1;50
+e;362793;'maison de prières';1;50
+e;362786;'maison de haute couture';1;56
+e;362784;'maison de chasse';1;50
+e;362770;'maison coloniale';1;50
+e;362769;'maison canoniale';1;50
+e;362830;'maison industrialisée';1;50
+e;362822;'maison conjugale';1;50
+e;362820;'maison éclusière';1;50
+e;362787;'maison de jeu clandestin';1;50
+e;362785;'maison de cure';1;50
+e;362783;'maison de café';1;50
+e;352452;'esprit maison';1;50
+e;183084;'maison-mère';1;50
+e;36057;'maison du roi';1;50
+e;323490;'prêter sa maison';1;50
+e;330120;'L'Inconnu dans la maison';777;50
+e;330467;'maison Baratheon';1;50
+e;166706;'La petite maison dans la prairie';1;50
+e;166751;'La fête à la maison';1;50
+e;256682;'devoir à la maison';1;10
+e;263207;'La Chute de la maison Usher';1;50
+e;166657;'7 à la maison';1;50
+e;167676;'maison Apple';1;50
+e;212799;'la petite maison dans la prairie';666;50
+e;218036;'maison longue';1;50
+e;218480;'maison en pain d'épices';1;52
+e;231179;'elfe de maison';1;32
+e;237671;'maison départementale des personnes handicapées';1;50
+e;242136;'maison d'Autriche';1;50
+e;246617;'confiture maison';1;12
+e;248076;'maison des jeunes et de la culture';1;50
+e;250957;'poussière de maison';1;2
+e;253647;'entretien de la maison';1;52
+e;255399;'maison de la voisine';1;110
+e;255621;'maison de vacances';1;12
+e;256681;'devoirs à la maison';1;4
+e;258338;'devoir maison';1;64
+e;262007;'maison poulaga';1;50
+e;263430;'travailler à la maison';1;50
+e;313166;'maison écologique';1;50
+e;225695;'fait maison';1;30
+e;31513;'employé de maison';1;60
+e;47835;'la maison Sommerfeld';1;50
+e;57118;'Les Inconnus dans la maison';1;50
+e;58180;'maison Béthune';1;50
+e;161081;'maison de convalescence';1;60
+e;163684;'maison blanche';1;88
+e;166074;'maison de redressement';1;82
+e;167675;'maison de disques';1;62
+e;169487;'maison de tolérance';1;62
+e;169488;'maison de plaisir';1;56
+e;169489;'maison de joie';1;2
+e;169491;'maison d'abattage';1;50
+e;202527;'la maison éternelle';1;50
+e;212770;'maison de la Radio';666;52
+e;222328;'maîtresse de maison';1;118
+e;264034;'yaourt maison';1;12
+e;266474;'une maison';1;52
+e;161657;'maison de repos';1;100
+e;32512;'maison de rapport';1;50
+e;34452;'maison de santé';1;62
+e;35505;'maison de jeu';1;50
+e;40754;'Histoire des ducs de Bourgogne et de la maison de Valois';1;50
+e;42423;'Souvenirs de la maison des morts';1;50
+e;44214;'maison de Condé';1;50
+e;49368;'maison correctionnelle';1;50
+e;52000;'maison de fous';1;52
+e;53289;'maison bourreman';1;50
+e;53620;'Où est la maison de mon ami';1;50
+e;55471;'maison de Hanovre';1;50
+e;56242;'maison ambulante';1;50
+e;71765;'Inconnus dans la maison';1;50
+e;76943;'maison des Baux';1;50
+e;84274;'maison de correction';1;108
+e;84568;'maison centrale';1;54
+e;92993;'États de la maison de Savoie';1;50
+e;93282;'maison curiale';1;50
+e;96144;'maison de Balzac';1;50
+e;98864;'drap de maison';1;50
+e;98883;'train de maison';1;50
+e;121852;'maison de Montfort-l'Amaury';1;50
+e;132773;'la maison am Horn';1;50
+e;134539;'la maison du Dr';1;50
+e;140662;'maison d'éducation';1;56
+e;141679;'maison d'Albret';1;50
+e;142284;'maison d'York';1;50
+e;143552;'maison de l'Unesco';1;50
+e;145776;'maison d'Orléans';1;50
+e;152260;'linge de maison';1;124
+e;152785;'maison d'édition';1;166
+e;157317;'maison hantée';1;64
+e;174995;'maison publique';1;58
+e;177181;'maison de commerce';1;50
+e;183079;'maison corne en coin';1;50
+e;183080;'maison d'aliénés';1;50
+e;183081;'maison de commission';1;50
+e;183082;'maison de détention';1;50
+e;183083;'maison garnie';1;50
+e;186111;'être la maison du bon Dieu';1;50
+e;189716;'La maison de Valois';1;50
+e;189806;'La maison d'York';1;50
+e;201607;'gros comme une maison';1;52
+e;203280;'maison à champignon';1;50
+e;203281;'maison à parties';1;50
+e;203282;'maison de la presse';1;50
+e;203284;'maison de prostitution';1;50
+e;203285;'maison de sûreté';1;50
+e;203286;'maison de titres';1;50
+e;203287;'maison de verre';1;50
+e;203288;'maison départementale';1;50
+e;203289;'maison maternelle';1;50
+e;203290;'maison mère';1;76
+e;203291;'maison presbytérale';1;50
+e;266942;'recette maison';1;50
+e;269006;'maison de rééducation';1;50
+e;269010;'maison de retraite médicalisée';1;50
+e;270299;'maison abandonnée';1;50
+e;273142;'maison mobile';777;50
+e;274171;'Récits de la maison des morts';777;50
+e;274172;'Les Carnets de la maison morte';777;50
+e;274202;'maison impériale de France';777;50
+e;274203;'maison Bonaparte';777;50
+e;280733;'deuxième maison de Bragance';777;50
+e;282785;'maison carrée';777;50
+e;286868;'maison du Châtelet';777;50
+e;288081;'maison de Brunswick';777;50
+e;289086;'maison possédée';777;50
+e;289087;'maison à hanter';777;50
+e;289441;'maison d'Ernst Ludwig';777;50
+e;290276;'maison des chevaliers de l'hôpital de Sainte-Marie-des-Teutoniques à Jérusalem';777;50
+e;290505;'maison d'arrêt de la Santé';777;50
+e;291267;'chat de maison';777;50
+e;291567;'maison de Lévis';777;50
+e;291793;'maison de Médicis';777;50
+e;301120;'maison Hohenlohe';777;50
+e;301666;'maison Farnèse';777;50
+e;302222;'maison à pans de bois';777;50
+e;304335;'Sept à la maison';777;50
+e;304808;'première maison capétienne d'Orléans';777;50
+e;312279;'La maison près du lac';777;50
+e;76586;'maison de couture';1;62
+e;159785;'personnel de maison';1;70
+e;24025;'gens de maison';1;58
+e;78983;'maître de maison';1;86
+e;135723;'maison commune';1;50
+e;186244;'faire maison nette';1;50
+e;186336;'garder la maison';1;50
+e;190732;'maison passive';1;50
+e;190733;'maison solaire passive';1;50
+e;198320;'de bonne maison';1;50
+e;198380;'de maison';1;50
+e;268658;'maison d'hôtes';1;50
+e;311049;'cinéma à la maison';777;50
+e;311052;'cinéma maison';777;50
+e;198251;'dans la maison';1;50
+e;10110;'employée de maison';1;110
+e;44506;'maison de Dieu';1;52
+e;302221;'maison à colombages';777;2
+e;304429;'maison mitoyenne';777;2
+e;224760;'maison d'hôte';666;14
+e;159977;'maison de passe';1;80
+e;151963;'produit maison';1;50
+e;203283;'maison de poupée';1;52
+e;16729;'maison de retraite';1;254
+e;160110;'petite maison';1;62
+e;160687;'habiter une maison';1;52
+e;161226;'vendre une maison';1;52
+e;159833;'maison de famille';1;84
+e;265599;'vieille maison';1;8
+e;242237;'belle maison';1;54
+e;259444;'grande maison';1;6
+e;160686;'acheter une maison';1;84
+e;165209;'rentrer à la maison';1;130
+e;158860;'maison des jeunes';1;56
+e;159775;'maison de la culture';1;66
+e;135514;'maison de ville';1;58
+e;224006;'comme à la maison';1;58
+e;171133;'à la maison';1;182
+e;159788;'maison individuelle';1;72
+e;144818;'maison d'arrêt';1;192
+e;66839;'maison close';1;404
+e;153706;'maison de campagne';1;136
+e;160091;'maison de maître';1;108
+r;403327178;45179;15685925;11;25
+r;403318953;45179;15685926;11;25
+r;298818424;45179;6294393;11;25
+r;298891646;45179;6296402;11;25
+r;300959100;45179;6330695;11;25
+r;301133353;45179;6333114;11;25
+r;301236053;45179;6335663;11;25
+r;303640234;45179;6378685;11;25
+r;304531856;45179;6388562;11;25
+r;305266082;45179;6402744;11;25
+r;305491806;45179;6413240;11;25
+r;361101549;45179;14225479;11;25
+r;343658739;45179;13569226;11;25
+r;316544050;45179;12201750;11;25
+r;316545826;45179;12201471;11;25
+r;316545965;45179;12201444;11;25
+r;316545972;45179;12201443;11;25
+r;316555402;45179;12196951;11;25
+r;316555412;45179;12196950;11;25
+r;316612308;45179;12181544;11;25
+r;316612325;45179;12181541;11;25
+r;316612340;45179;12181539;11;25
+r;316612357;45179;12181537;11;25
+r;316612372;45179;12181535;11;25
+r;316612387;45179;12181533;11;25
+r;316612398;45179;12181531;11;25
+r;316612411;45179;12181529;11;25
+r;316612426;45179;12181526;11;25
+r;316612439;45179;12181524;11;25
+r;316612454;45179;12181521;11;25
+r;316612467;45179;12181519;11;25
+r;316612482;45179;12181517;11;25
+r;316612493;45179;12181515;11;25
+r;316612502;45179;12181513;11;25
+r;316612511;45179;12181511;11;25
+r;316612522;45179;12181509;11;25
+r;316612535;45179;12181507;11;25
+r;316612548;45179;12181505;11;25
+r;344243982;45179;13589856;11;25
+r;344134615;45179;13588736;11;25
+r;344409476;45179;13596146;11;25
+r;345300124;45179;13615787;11;25
+r;345492116;45179;13628791;11;25
+r;347985722;45179;13709909;11;25
+r;348088229;45179;13710567;11;25
+r;348175989;45179;13730302;11;25
+r;349205625;45179;6415220;11;25
+r;352373242;45179;13989943;11;25
+r;354591952;45179;14035259;11;25
+r;356244198;45179;14082971;11;25
+r;358011531;45179;14130214;11;25
+r;358082782;45179;14131040;11;25
+r;358565758;45179;14136990;11;25
+r;360676707;45179;14192453;11;25
+r;360840823;45179;14208470;11;25
+r;360909169;45179;14215507;11;25
+r;361369720;45179;14242057;11;25
+r;361369750;45179;14232424;11;25
+r;364239773;45179;14308143;11;25
+r;365170539;45179;14377306;11;25
+r;365992477;45179;14411880;11;25
+r;366861292;45179;14452480;11;25
+r;366906447;45179;14462821;11;25
+r;368325789;45179;14492079;11;25
+r;370362192;45179;14573163;11;25
+r;370466212;45179;14573873;11;25
+r;370560746;45179;14583875;11;25
+r;371160708;45179;14604881;11;25
+r;372576454;45179;14654562;11;25
+r;372946434;45179;14665782;11;25
+r;372998622;45179;14668664;11;25
+r;374519027;45179;14729247;11;25
+r;374709421;45179;14740159;11;25
+r;374820505;45179;14743845;11;25
+r;374840638;45179;14743846;11;25
+r;375194102;45179;14758942;11;25
+r;389886860;45179;14908409;11;25
+r;389645232;45179;14898626;11;25
+r;388996889;45179;14894436;11;25
+r;389633535;45179;14897354;11;25
+r;398927892;45179;15562716;11;25
+r;403028707;45179;15683793;11;25
+r;405991574;45179;15772823;11;25
+r;416973231;45179;15976271;11;25
+r;417653423;45179;16027916;11;25
+r;417653679;45179;16027917;11;25
+r;420260422;45179;16103903;11;25
+r;423931193;45179;16157794;11;25
+r;424993570;45179;16166088;11;25
+r;424997802;45179;16166155;11;25
+r;428480285;45179;16311713;11;25
+r;428486177;45179;16311712;11;25
+r;428602127;45179;16314351;11;25
+r;428619275;45179;16314349;11;25
+r;428865054;45179;16317754;11;25
+r;428911861;45179;16319409;11;25
+r;432804221;45179;16385030;11;25
+r;433085647;45179;16391728;11;25
+r;114457471;45179;5791653;11;26
+r;114460257;45179;5787538;11;26
+r;114460330;45179;5787408;11;26
+r;298366364;45179;6288466;11;26
+r;299589955;45179;6311635;11;26
+r;302187397;45179;6365363;11;26
+r;302405621;45179;6366042;11;26
+r;303623629;45179;6375736;11;26
+r;305136304;45179;6399660;11;26
+r;305495412;45179;6413775;11;26
+r;315647189;45179;12090265;11;26
+r;315647206;45179;12090263;11;26
+r;316185883;45179;12196952;11;26
+r;316544468;45179;12201686;11;26
+r;316544477;45179;12201685;11;26
+r;337342474;45179;12988559;11;26
+r;345322392;45179;13627215;11;26
+r;368582399;45179;14529587;11;26
+r;368585235;45179;14529843;11;26
+r;368762296;45179;14536158;11;26
+r;368766908;45179;14536446;11;26
+r;368766919;45179;14536447;11;26
+r;369391489;45179;14537163;11;26
+r;369391626;45179;14537178;11;26
+r;369445958;45179;14538125;11;26
+r;369446260;45179;14538146;11;26
+r;369511485;45179;14538924;11;26
+r;369564887;45179;14540068;11;26
+r;370048954;45179;14563680;11;26
+r;370159254;45179;14566511;11;26
+r;372563515;45179;14653824;11;26
+r;372573347;45179;14654434;11;26
+r;392172242;45179;15016212;11;26
+r;393328183;45179;15028275;11;26
+r;393328698;45179;15028467;11;26
+r;114449440;45179;5795376;11;27
+r;270773388;45179;10675398;11;27
+r;270780971;45179;10673108;11;27
+r;270780954;45179;10673111;11;27
+r;267340777;45179;10621475;11;27
+r;267341031;45179;10621368;11;27
+r;315478772;45179;12090266;11;27
+r;315477721;45179;12090267;11;27
+r;316202568;45179;12196593;11;27
+r;316544923;45179;12201613;11;27
+r;435203075;45179;16566141;11;27
+r;435210950;45179;16566172;11;27
+r;113796465;45179;5797578;11;28
+r;113798570;45179;5796712;11;28
+r;113800711;45179;5795573;11;28
+r;119669088;45179;6087444;11;28
+r;121533604;45179;6439378;11;28
+r;267330926;45179;10659342;11;28
+r;266719655;45179;10619751;11;28
+r;266728050;45179;10612040;11;28
+r;266790266;45179;10622438;11;28
+r;266791800;45179;10622061;11;28
+r;267330915;45179;10662756;11;28
+r;267330993;45179;10649708;11;28
+r;315531729;45179;12104373;11;28
+r;315531747;45179;12104372;11;28
+r;315531758;45179;12104371;11;28
+r;315531776;45179;12104370;11;28
+r;315531787;45179;12104369;11;28
+r;315531803;45179;12104368;11;28
+r;315531812;45179;12104367;11;28
+r;315531821;45179;12104366;11;28
+r;315531837;45179;12104365;11;28
+r;315531846;45179;12104364;11;28
+r;315531862;45179;12104363;11;28
+r;315531871;45179;12104362;11;28
+r;315531887;45179;12104361;11;28
+r;315531896;45179;12104360;11;28
+r;315531903;45179;12104359;11;28
+r;315531910;45179;12104358;11;28
+r;315531919;45179;12104357;11;28
+r;315531928;45179;12104356;11;28
+r;315531942;45179;12104355;11;28
+r;318467380;45179;12239513;11;28
+r;318467406;45179;12239512;11;28
+r;318467432;45179;12239511;11;28
+r;318467456;45179;12239510;11;28
+r;318467480;45179;12239509;11;28
+r;318467506;45179;12239508;11;28
+r;62208298;45179;2490691;11;29
+r;113795199;45179;5797956;11;29
+r;270773124;45179;10675506;11;29
+r;264462482;45179;10591291;11;29
+r;315485185;45179;12110398;11;29
+r;301602509;45179;11755923;11;29
+r;301619202;45179;11756176;11;29
+r;301843924;45179;11769659;11;29
+r;301898654;45179;11770300;11;29
+r;301907709;45179;11770272;11;29
+r;301917649;45179;11770299;11;29
+r;301923299;45179;11770303;11;29
+r;301927489;45179;11770301;11;29
+r;315485146;45179;12110403;11;29
+r;315485192;45179;12110397;11;29
+r;315485166;45179;12110401;11;29
+r;315485155;45179;12110402;11;29
+r;315485180;45179;12110399;11;29
+r;315485173;45179;12110400;11;29
+r;315491930;45179;12109235;11;29
+r;315491945;45179;12109234;11;29
+r;384180398;45179;14802554;11;29
+r;220670413;45179;9955000;11;30
+r;220671015;45179;9955004;11;30
+r;220671115;45179;9955005;11;30
+r;220674071;45179;9954994;11;30
+r;220864537;45179;9959450;11;30
+r;220935544;45179;9961165;11;30
+r;221149097;45179;9963098;11;30
+r;227094350;45179;9991362;11;30
+r;263795204;45179;10587704;11;30
+r;264437737;45179;10601056;11;30
+r;264451015;45179;10595646;11;30
+r;274271359;45179;10908813;11;30
+r;274272408;45179;10908543;11;30
+r;274293565;45179;10903819;11;30
+r;280288413;45179;11034338;11;30
+r;302018557;45179;11771522;11;30
+r;419748099;45179;15300817;11;30
+r;419755038;45179;15413488;11;30
+r;419767480;45179;15413518;11;30
+r;419773434;45179;15380921;11;30
+r;419773438;45179;15569033;11;30
+r;419777703;45179;15754905;11;30
+r;419786414;45179;15362265;11;30
+r;419813011;45179;15763003;11;30
+r;419838769;45179;15561566;11;30
+r;113282544;45179;5809031;11;31
+r;113769732;45179;5818443;11;31
+r;113771266;45179;5817766;11;31
+r;220665261;45179;9954837;11;31
+r;264453323;45179;10594246;11;31
+r;269461621;45179;10733008;11;31
+r;277137257;45179;10971980;11;31
+r;277570906;45179;10989989;11;31
+r;279939466;45179;11054470;11;31
+r;279973344;45179;11055261;11;31
+r;302369579;45179;11776148;11;31
+r;305634712;45179;11822311;11;31
+r;312401198;45179;11993863;11;31
+r;330968999;45179;12900101;11;31
+r;419713367;45179;15573183;11;31
+r;419726790;45179;15690078;11;31
+r;113290789;45179;5807041;11;32
+r;113764088;45179;5828201;11;32
+r;113771260;45179;5817767;11;32
+r;220657087;45179;9954667;11;32
+r;220657165;45179;9954666;11;32
+r;276019266;45179;10955450;11;32
+r;263697234;45179;10583228;11;32
+r;272638907;45179;10870711;11;32
+r;272642051;45179;10869506;11;32
+r;272642069;45179;10869505;11;32
+r;304072731;45179;11805654;11;32
+r;305152662;45179;11822313;11;32
+r;305251057;45179;11823152;11;32
+r;316541082;45179;12202221;11;32
+r;316541657;45179;12202125;11;32
+r;419623806;45179;15411711;11;32
+r;419639306;45179;15358297;11;32
+r;419646505;45179;15278882;11;32
+r;419670559;45179;15413514;11;32
+r;419691222;45179;15413517;11;32
+r;419700655;45179;15353534;11;32
+r;419702366;45179;15752835;11;32
+r;419702998;45179;15217700;11;32
+r;95204100;45179;4209541;11;33
+r;98594725;45179;4322479;11;33
+r;276015685;45179;10956336;11;33
+r;275828269;45179;10951651;11;33
+r;275685690;45179;10941824;11;33
+r;275685695;45179;10941823;11;33
+r;275687057;45179;10941547;11;33
+r;263403386;45179;10577031;11;33
+r;276615725;45179;10961963;11;33
+r;272525546;45179;10864464;11;33
+r;272525664;45179;10864438;11;33
+r;275687072;45179;10941545;11;33
+r;280509316;45179;11065417;11;33
+r;280655385;45179;11070806;11;33
+r;280655484;45179;11070900;11;33
+r;280659018;45179;11070924;11;33
+r;280660177;45179;11070807;11;33
+r;280665980;45179;11070808;11;33
+r;280675386;45179;11070815;11;33
+r;281011963;45179;11079971;11;33
+r;283109112;45179;11083378;11;33
+r;290864471;45179;11349999;11;33
+r;303759214;45179;11789889;11;33
+r;303759218;45179;11789887;11;33
+r;303759222;45179;11789886;11;33
+r;305631649;45179;11827961;11;33
+r;369988476;45179;14561407;11;33
+r;419605520;45179;15197819;11;33
+r;29846457;45179;1827099;11;34
+r;30025476;45179;1838282;11;34
+r;112200416;45179;5685191;11;34
+r;114749525;45179;5894003;11;34
+r;115844615;45179;5919960;11;34
+r;116577563;45179;5960907;11;34
+r;116578218;45179;5960750;11;34
+r;116579166;45179;5960469;11;34
+r;116584252;45179;5954505;11;34
+r;118958836;45179;6068186;11;34
+r;118958842;45179;6068185;11;34
+r;119878142;45179;6067561;11;34
+r;122758810;45179;6421869;11;34
+r;269392689;45179;10745135;11;34
+r;269392708;45179;10745125;11;34
+r;269392713;45179;10745124;11;34
+r;269392717;45179;10745123;11;34
+r;272187951;45179;10850755;11;34
+r;272187957;45179;10850754;11;34
+r;272187961;45179;10850753;11;34
+r;272187965;45179;10850752;11;34
+r;272187982;45179;10850750;11;34
+r;272187986;45179;10850749;11;34
+r;272187990;45179;10850748;11;34
+r;272187994;45179;10850747;11;34
+r;272187998;45179;10850746;11;34
+r;272188016;45179;10850742;11;34
+r;272188028;45179;10850738;11;34
+r;272188036;45179;10850737;11;34
+r;272188042;45179;10850736;11;34
+r;272188046;45179;10850735;11;34
+r;272188297;45179;10850687;11;34
+r;272529005;45179;10869222;11;34
+r;274964997;45179;10929221;11;34
+r;275361689;45179;10936565;11;34
+r;281057269;45179;11080753;11;34
+r;281203333;45179;11083263;11;34
+r;281203484;45179;11083259;11;34
+r;290724828;45179;11347309;11;34
+r;300956153;45179;11697688;11;34
+r;300956335;45179;11697630;11;34
+r;303707442;45179;11788215;11;34
+r;313333626;45179;12032526;11;34
+r;313271630;45179;12019909;11;34
+r;313331790;45179;12032525;11;34
+r;315117240;45179;12079588;11;34
+r;434347969;45179;16375891;11;34
+r;434352733;45179;16109750;11;34
+r;419513847;45179;15225816;11;34
+r;419515435;45179;15299271;11;34
+r;419516165;45179;15523999;11;34
+r;419516423;45179;15375537;11;34
+r;419524342;45179;15340743;11;34
+r;419524996;45179;15227697;11;34
+r;419536620;45179;15774403;11;34
+r;419542507;45179;15327307;11;34
+r;419562489;45179;16014999;11;34
+r;419572475;45179;15251347;11;34
+r;419588407;45179;15278881;11;34
+r;419592939;45179;15336316;11;34
+r;434347965;45179;16169470;11;34
+r;434354278;45179;16493748;11;34
+r;219929473;45179;9936657;11;35
+r;95817052;45179;3982117;11;35
+r;115834057;45179;5927144;11;35
+r;116585096;45179;5954289;11;35
+r;116587391;45179;5953549;11;35
+r;118934431;45179;6064117;11;35
+r;118934559;45179;6064089;11;35
+r;118934599;45179;6064080;11;35
+r;118935018;45179;6064013;11;35
+r;118935217;45179;6063978;11;35
+r;118935357;45179;6063946;11;35
+r;118935406;45179;6063932;11;35
+r;118935499;45179;6063914;11;35
+r;118936345;45179;6063747;11;35
+r;118936415;45179;6063736;11;35
+r;118936421;45179;6063735;11;35
+r;118936656;45179;6063688;11;35
+r;118936688;45179;6063680;11;35
+r;118936965;45179;6063627;11;35
+r;118937461;45179;6063514;11;35
+r;118937502;45179;6063507;11;35
+r;118937639;45179;6063478;11;35
+r;118938163;45179;6063390;11;35
+r;118938436;45179;6048985;11;35
+r;118938464;45179;6047889;11;35
+r;118938835;45179;6033309;11;35
+r;118938884;45179;6030589;11;35
+r;118938910;45179;6029432;11;35
+r;118938930;45179;6028265;11;35
+r;118939351;45179;6018151;11;35
+r;118939833;45179;6018054;11;35
+r;118939977;45179;6017984;11;35
+r;118940984;45179;6017786;11;35
+r;118941269;45179;6017701;11;35
+r;118941714;45179;6017600;11;35
+r;118942332;45179;6017481;11;35
+r;118943101;45179;6017321;11;35
+r;118943192;45179;6017305;11;35
+r;118943624;45179;6017101;11;35
+r;243755342;45179;10196997;11;35
+r;247441328;45179;10251815;11;35
+r;271593536;45179;10841453;11;35
+r;271601151;45179;10839199;11;35
+r;271601464;45179;10839167;11;35
+r;271601471;45179;10839166;11;35
+r;271604185;45179;10838448;11;35
+r;271604292;45179;10838414;11;35
+r;272175305;45179;10853627;11;35
+r;272183000;45179;10851909;11;35
+r;272513872;45179;10868126;11;35
+r;272517798;45179;10866958;11;35
+r;278149993;45179;10997756;11;35
+r;291988318;45179;11362352;11;35
+r;293620923;45179;11413416;11;35
+r;300862683;45179;11697689;11;35
+r;312705337;45179;11996620;11;35
+r;313623218;45179;12048835;11;35
+r;314113706;45179;12068371;11;35
+r;314120446;45179;12068447;11;35
+r;314224437;45179;12070166;11;35
+r;315116587;45179;12079713;11;35
+r;315116591;45179;12079712;11;35
+r;315116595;45179;12079711;11;35
+r;315116599;45179;12079710;11;35
+r;315116603;45179;12079709;11;35
+r;319512566;45179;12301072;11;35
+r;426069941;45179;16242491;11;35
+r;419498167;45179;15374299;11;35
+r;423681773;45179;16153832;11;35
+r;424998037;45179;16161692;11;35
+r;428470502;45179;16311467;11;35
+r;428781203;45179;16314211;11;35
+r;432002783;45179;16358335;11;35
+r;433078691;45179;16391660;11;35
+r;112671596;45179;5723300;11;36
+r;117821154;45179;5991513;11;36
+r;118935935;45179;6063830;11;36
+r;118934435;45179;6064116;11;36
+r;118934527;45179;6064096;11;36
+r;118934581;45179;6064084;11;36
+r;118935491;45179;6063916;11;36
+r;118935495;45179;6063915;11;36
+r;118935504;45179;6063913;11;36
+r;118935538;45179;6063907;11;36
+r;118935630;45179;6063887;11;36
+r;118936221;45179;6063769;11;36
+r;118936863;45179;6063647;11;36
+r;118936867;45179;6063646;11;36
+r;118936871;45179;6063645;11;36
+r;118937271;45179;6063555;11;36
+r;118937655;45179;6063474;11;36
+r;118938369;45179;6051408;11;36
+r;118938440;45179;6048786;11;36
+r;118938718;45179;6037158;11;36
+r;118938738;45179;6036113;11;36
+r;118938758;45179;6035614;11;36
+r;118938775;45179;6034685;11;36
+r;118938788;45179;6034411;11;36
+r;118938831;45179;6033590;11;36
+r;118938843;45179;6032787;11;36
+r;118938880;45179;6030738;11;36
+r;118938922;45179;6028842;11;36
+r;118939055;45179;6023525;11;36
+r;118939355;45179;6018150;11;36
+r;118939422;45179;6018137;11;36
+r;118940949;45179;6017795;11;36
+r;118940992;45179;6017784;11;36
+r;118941190;45179;6017716;11;36
+r;118942722;45179;6017400;11;36
+r;122715988;45179;6427393;11;36
+r;277886981;45179;10995128;11;36
+r;277942496;45179;10997144;11;36
+r;277996029;45179;10997757;11;36
+r;279012498;45179;11013944;11;36
+r;279020296;45179;11014079;11;36
+r;281417536;45179;11095599;11;36
+r;294186872;45179;11440216;11;36
+r;294999064;45179;11479515;11;36
+r;297642844;45179;11577361;11;36
+r;309082187;45179;11937314;11;36
+r;341959854;45179;13495237;11;36
+r;313456220;45179;12034056;11;36
+r;313457487;45179;12034054;11;36
+r;419491635;45179;15951069;11;36
+r;95817802;45179;3917502;11;37
+r;113281712;45179;5809141;11;37
+r;114750332;45179;5893784;11;37
+r;118934453;45179;6064111;11;37
+r;118934466;45179;6064108;11;37
+r;118934470;45179;6064107;11;37
+r;118934541;45179;6064093;11;37
+r;118934963;45179;6064024;11;37
+r;118935368;45179;6063939;11;37
+r;118935437;45179;6063927;11;37
+r;118935720;45179;6063865;11;37
+r;118937506;45179;6063506;11;37
+r;118937647;45179;6063476;11;37
+r;118938084;45179;6063403;11;37
+r;118938815;45179;6034041;11;37
+r;118938819;45179;6033823;11;37
+r;118939471;45179;6018129;11;37
+r;118939780;45179;6018067;11;37
+r;118940153;45179;6017953;11;37
+r;118940488;45179;6017884;11;37
+r;118940943;45179;6017796;11;37
+r;118941222;45179;6017711;11;37
+r;118941500;45179;6017647;11;37
+r;118942830;45179;6017378;11;37
+r;219929375;45179;9936656;11;37
+r;247437312;45179;10297715;11;37
+r;247437330;45179;10297712;11;37
+r;247437336;45179;10297711;11;37
+r;247437354;45179;10297708;11;37
+r;247437374;45179;10297705;11;37
+r;247437592;45179;10297619;11;37
+r;271767368;45179;10848272;11;37
+r;279092733;45179;11017532;11;37
+r;281423344;45179;11095929;11;37
+r;292662619;45179;11392787;11;37
+r;292662627;45179;11392786;11;37
+r;292662756;45179;11392759;11;37
+r;293766391;45179;11416112;11;37
+r;297642741;45179;11577405;11;37
+r;306689600;45179;11839904;11;37
+r;113754128;45179;5831399;11;38
+r;118934462;45179;6064109;11;38
+r;118934828;45179;6064047;11;38
+r;118934832;45179;6064046;11;38
+r;118935148;45179;6063990;11;38
+r;118935193;45179;6063982;11;38
+r;118935317;45179;6063954;11;38
+r;118935411;45179;6063931;11;38
+r;118935419;45179;6063929;11;38
+r;118935487;45179;6063917;11;38
+r;118935733;45179;6063863;11;38
+r;118936082;45179;6063796;11;38
+r;118936479;45179;6063726;11;38
+r;118936485;45179;6063725;11;38
+r;118936900;45179;6063639;11;38
+r;118937265;45179;6063556;11;38
+r;118937279;45179;6063553;11;38
+r;118937289;45179;6063551;11;38
+r;118937423;45179;6063521;11;38
+r;118937663;45179;6063472;11;38
+r;118937705;45179;6063466;11;38
+r;118938706;45179;6037717;11;38
+r;118938827;45179;6033647;11;38
+r;118938851;45179;6032362;11;38
+r;118938926;45179;6028537;11;38
+r;118938954;45179;6027227;11;38
+r;118939569;45179;6018108;11;38
+r;118939573;45179;6018107;11;38
+r;118939932;45179;6018036;11;38
+r;118939972;45179;6017985;11;38
+r;118940963;45179;6017790;11;38
+r;118941544;45179;6017639;11;38
+r;118943628;45179;6017100;11;38
+r;243203889;45179;10194658;11;38
+r;269957756;45179;10790464;11;38
+r;269957745;45179;10790465;11;38
+r;269957736;45179;10790466;11;38
+r;288384889;45179;11248303;11;38
+r;288384985;45179;11248278;11;38
+r;288385251;45179;11248179;11;38
+r;290550285;45179;11341966;11;38
+r;291813230;45179;11364063;11;38
+r;291813291;45179;11364046;11;38
+r;292582054;45179;11392636;11;38
+r;292702743;45179;11394446;11;38
+r;296485329;45179;11544413;11;38
+r;298391900;45179;11653692;11;38
+r;298391918;45179;11653689;11;38
+r;109625266;45179;5537430;11;39
+r;114748455;45179;5894297;11;39
+r;118934507;45179;6064101;11;39
+r;118935396;45179;6063933;11;39
+r;118935465;45179;6063920;11;39
+r;118936292;45179;6063755;11;39
+r;118936493;45179;6063723;11;39
+r;118936591;45179;6063702;11;39
+r;118936662;45179;6063687;11;39
+r;118936997;45179;6063620;11;39
+r;118937412;45179;6063522;11;39
+r;118937477;45179;6063511;11;39
+r;118937544;45179;6063498;11;39
+r;118937659;45179;6063473;11;39
+r;118937838;45179;6063445;11;39
+r;118938316;45179;6055803;11;39
+r;118938414;45179;6049763;11;39
+r;118938427;45179;6049268;11;39
+r;118938512;45179;6046061;11;39
+r;118938904;45179;6029698;11;39
+r;118940131;45179;6017956;11;39
+r;118940859;45179;6017809;11;39
+r;118941410;45179;6017672;11;39
+r;118943188;45179;6017306;11;39
+r;121444598;45179;6526952;11;39
+r;121483017;45179;6445021;11;39
+r;232099286;45179;10064135;11;39
+r;254597661;45179;10363252;11;39
+r;255397529;45179;10384652;11;39
+r;262893355;45179;10547088;11;39
+r;269957625;45179;10790481;11;39
+r;269374380;45179;10754126;11;39
+r;287764469;45179;11223974;11;39
+r;288053358;45179;11247676;11;39
+r;288382973;45179;11248794;11;39
+r;289297484;45179;11302214;11;39
+r;291808132;45179;11372468;11;39
+r;291809197;45179;11364720;11;39
+r;291812362;45179;11364273;11;39
+r;298386997;45179;11653681;11;39
+r;54490236;45179;2421884;11;40
+r;118536873;45179;6001810;11;40
+r;118936382;45179;6063739;11;40
+r;118937059;45179;6063608;11;40
+r;118943634;45179;6017099;11;40
+r;121448343;45179;6526418;11;40
+r;242258935;45179;10189563;11;40
+r;278897345;45179;11012129;11;40
+r;288116716;45179;11248742;11;40
+r;288117108;45179;11248760;11;40
+r;288273220;45179;11251358;11;40
+r;288277301;45179;11251584;11;40
+r;292056215;45179;11383562;11;40
+r;292420488;45179;11387660;11;40
+r;297604815;45179;11573974;11;40
+r;320315259;45179;12369052;11;40
+r;328344508;45179;12792545;11;40
+r;339384309;45179;13387809;11;40
+r;339406002;45179;13387863;11;40
+r;109946892;45179;5559802;11;41
+r;114749385;45179;5894076;11;41
+r;117863083;45179;5993716;11;41
+r;118934607;45179;6064078;11;41
+r;118935211;45179;6063979;11;41
+r;118938678;45179;6038805;11;41
+r;118938847;45179;6032543;11;41
+r;118940454;45179;6017891;11;41
+r;232472194;45179;10081870;11;41
+r;232472204;45179;10081869;11;41
+r;232472213;45179;10081868;11;41
+r;278739346;45179;11001940;11;41
+r;286854680;45179;11182275;11;41
+r;287145589;45179;11182274;11;41
+r;291979994;45179;11381841;11;41
+r;297540695;45179;11575716;11;41
+r;308821127;45179;11968793;11;41
+r;52207083;45179;2374107;11;42
+r;110000682;45179;5563397;11;42
+r;114753398;45179;5892966;11;42
+r;115105185;45179;5898056;11;42
+r;118934474;45179;6064106;11;42
+r;118934503;45179;6064102;11;42
+r;118934537;45179;6064094;11;42
+r;118934565;45179;6064087;11;42
+r;118934587;45179;6064083;11;42
+r;118934591;45179;6064082;11;42
+r;118934611;45179;6064077;11;42
+r;118935339;45179;6063951;11;42
+r;118935765;45179;6063858;11;42
+r;118936190;45179;6063773;11;42
+r;118936227;45179;6063768;11;42
+r;118936231;45179;6063767;11;42
+r;118936236;45179;6063766;11;42
+r;118936583;45179;6063704;11;42
+r;118937055;45179;6063609;11;42
+r;118937483;45179;6063510;11;42
+r;118937493;45179;6063508;11;42
+r;118937621;45179;6063482;11;42
+r;118937872;45179;6063439;11;42
+r;118938600;45179;6042326;11;42
+r;118938744;45179;6035903;11;42
+r;118938859;45179;6031919;11;42
+r;118938872;45179;6031254;11;42
+r;118938876;45179;6030972;11;42
+r;118938896;45179;6030096;11;42
+r;118938934;45179;6028120;11;42
+r;118938966;45179;6027010;11;42
+r;118939963;45179;6017986;11;42
+r;118940020;45179;6017976;11;42
+r;118940314;45179;6017915;11;42
+r;118940590;45179;6017866;11;42
+r;118940654;45179;6017851;11;42
+r;118940988;45179;6017785;11;42
+r;118941007;45179;6017781;11;42
+r;118941080;45179;6017763;11;42
+r;118941739;45179;6017595;11;42
+r;118942005;45179;6017539;11;42
+r;118942922;45179;6017358;11;42
+r;118942942;45179;6017355;11;42
+r;258723171;45179;10445656;11;42
+r;261009684;45179;10461439;11;42
+r;261013234;45179;10460352;11;42
+r;262050130;45179;10508046;11;42
+r;269492184;45179;10774182;11;42
+r;278872779;45179;11011751;11;42
+r;282618014;45179;11103780;11;42
+r;283668454;45179;11155265;11;42
+r;287217852;45179;11207609;11;42
+r;287286974;45179;11208985;11;42
+r;292320451;45179;11385138;11;42
+r;308979711;45179;11971702;11;42
+r;309105528;45179;11973676;11;42
+r;309126127;45179;11973662;11;42
+r;309139523;45179;11973675;11;42
+r;337456766;45179;13252281;11;42
+r;52213004;45179;2375120;11;43
+r;52228125;45179;2377353;11;43
+r;110000686;45179;5563396;11;43
+r;117859510;45179;5994639;11;43
+r;118934551;45179;6064091;11;43
+r;118934555;45179;6064090;11;43
+r;118934603;45179;6064079;11;43
+r;118934881;45179;6064036;11;43
+r;118934904;45179;6064035;11;43
+r;118935118;45179;6063994;11;43
+r;118935444;45179;6063926;11;43
+r;118935453;45179;6063925;11;43
+r;118935527;45179;6063909;11;43
+r;118936456;45179;6063730;11;43
+r;118936700;45179;6063678;11;43
+r;118936747;45179;6063670;11;43
+r;118936789;45179;6063664;11;43
+r;118936905;45179;6063638;11;43
+r;118937007;45179;6063618;11;43
+r;118937373;45179;6063530;11;43
+r;118937469;45179;6063512;11;43
+r;118937627;45179;6063481;11;43
+r;118937643;45179;6063477;11;43
+r;118937690;45179;6063467;11;43
+r;118937880;45179;6063437;11;43
+r;118938118;45179;6063399;11;43
+r;118938145;45179;6063393;11;43
+r;118938431;45179;6049120;11;43
+r;118938503;45179;6046317;11;43
+r;118938714;45179;6037443;11;43
+r;118938784;45179;6034429;11;43
+r;118938888;45179;6030423;11;43
+r;118938892;45179;6030282;11;43
+r;118938918;45179;6028984;11;43
+r;118939049;45179;6023612;11;43
+r;118939235;45179;6018178;11;43
+r;118939340;45179;6018152;11;43
+r;118939897;45179;6018043;11;43
+r;118940957;45179;6017792;11;43
+r;118941452;45179;6017665;11;43
+r;118941598;45179;6017628;11;43
+r;118941615;45179;6017625;11;43
+r;118942011;45179;6017538;11;43
+r;118942285;45179;6017492;11;43
+r;118942642;45179;6017418;11;43
+r;118943245;45179;6017294;11;43
+r;262043652;45179;10511843;11;43
+r;285739563;45179;11162240;11;43
+r;285743959;45179;11162255;11;43
+r;292168387;45179;11385061;11;43
+r;292172764;45179;11385139;11;43
+r;292184006;45179;11385059;11;43
+r;292377249;45179;11388167;11;43
+r;117900370;45179;5983516;11;44
+r;118934445;45179;6064112;11;44
+r;118934531;45179;6064095;11;44
+r;118934547;45179;6064092;11;44
+r;118934621;45179;6064076;11;44
+r;118935084;45179;6064001;11;44
+r;118935295;45179;6063962;11;44
+r;118935474;45179;6063919;11;44
+r;118935960;45179;6063821;11;44
+r;118936042;45179;6063805;11;44
+r;118936349;45179;6063746;11;44
+r;118936552;45179;6063710;11;44
+r;118936563;45179;6063708;11;44
+r;118937098;45179;6063601;11;44
+r;118937550;45179;6063497;11;44
+r;118937651;45179;6063475;11;44
+r;118937722;45179;6063465;11;44
+r;118938173;45179;6063388;11;44
+r;118938207;45179;6063381;11;44
+r;118938591;45179;6042523;11;44
+r;118938730;45179;6036506;11;44
+r;118938839;45179;6033086;11;44
+r;118938864;45179;6031726;11;44
+r;118938958;45179;6027225;11;44
+r;118938970;45179;6026895;11;44
+r;118938976;45179;6026724;11;44
+r;118939955;45179;6017998;11;44
+r;118940301;45179;6017919;11;44
+r;118940863;45179;6017808;11;44
+r;118940953;45179;6017794;11;44
+r;118941958;45179;6017549;11;44
+r;118943400;45179;6017232;11;44
+r;121542840;45179;6438357;11;44
+r;238095427;45179;10161845;11;44
+r;238097252;45179;10161162;11;44
+r;238098481;45179;10160772;11;44
+r;285977002;45179;11174645;11;44
+r;338213215;45179;13297666;11;44
+r;417033063;45179;15469029;11;44
+r;53219994;45179;2396406;11;45
+r;118934441;45179;6064115;11;45
+r;118934764;45179;6064056;11;45
+r;118934836;45179;6064045;11;45
+r;118935415;45179;6063930;11;45
+r;118935459;45179;6063921;11;45
+r;118936441;45179;6063732;11;45
+r;118936909;45179;6063637;11;45
+r;118937275;45179;6063554;11;45
+r;118937283;45179;6063552;11;45
+r;118937352;45179;6063537;11;45
+r;118937429;45179;6063520;11;45
+r;118937443;45179;6063518;11;45
+r;118937457;45179;6063516;11;45
+r;118937465;45179;6063513;11;45
+r;118937487;45179;6063509;11;45
+r;118937631;45179;6063480;11;45
+r;118937635;45179;6063479;11;45
+r;118937800;45179;6063451;11;45
+r;118937842;45179;6063444;11;45
+r;118938094;45179;6063401;11;45
+r;118938135;45179;6063396;11;45
+r;118938507;45179;6046186;11;45
+r;118938702;45179;6038002;11;45
+r;118938734;45179;6036243;11;45
+r;118938914;45179;6029226;11;45
+r;118938942;45179;6027591;11;45
+r;118938950;45179;6027314;11;45
+r;118939893;45179;6018044;11;45
+r;118939995;45179;6017981;11;45
+r;118940998;45179;6017783;11;45
+r;118941999;45179;6017542;11;45
+r;118943681;45179;6017090;11;45
+r;121440920;45179;6528017;11;45
+r;236655147;45179;10145205;11;45
+r;236659146;45179;10143274;11;45
+r;236659168;45179;10143269;11;45
+r;282496769;45179;11105418;11;45
+r;417032078;45179;15413533;11;45
+r;417032273;45179;15482318;11;45
+r;417032281;45179;15355023;11;45
+r;417032289;45179;15329661;11;45
+r;417032295;45179;15240913;11;45
+r;417032301;45179;15385156;11;45
+r;417032307;45179;15330222;11;45
+r;417032313;45179;15321848;11;45
+r;54300454;45179;2413666;11;46
+r;117864580;45179;5993342;11;46
+r;118934824;45179;6064048;11;46
+r;118935947;45179;6063827;11;46
+r;118937295;45179;6063550;11;46
+r;118937510;45179;6063505;11;46
+r;118938710;45179;6037630;11;46
+r;118938855;45179;6032141;11;46
+r;118942648;45179;6017417;11;46
+r;118943451;45179;6017222;11;46
+r;327887618;45179;12773324;11;46
+r;327887629;45179;12773322;11;46
+r;116319888;45179;5940426;11;47
+r;117859514;45179;5994638;11;47
+r;118934577;45179;6064085;11;47
+r;118935847;45179;6063842;11;47
+r;118937876;45179;6063438;11;47
+r;118939229;45179;6018179;11;47
+r;118939876;45179;6018047;11;47
+r;118941525;45179;6017642;11;47
+r;118942336;45179;6017480;11;47
+r;256232698;45179;10435444;11;47
+r;256290804;45179;10437008;11;47
+r;256290829;45179;10437002;11;47
+r;108300332;45179;5515049;11;48
+r;118934595;45179;6064081;11;48
+r;118936957;45179;6063629;11;48
+r;118938020;45179;6063413;11;48
+r;118938946;45179;6027500;11;48
+r;118939577;45179;6018106;11;48
+r;108786487;45179;5518442;11;49
+r;118934427;45179;6064118;11;49
+r;118935429;45179;6063928;11;49
+r;118937564;45179;6063494;11;49
+r;118937734;45179;6063464;11;49
+r;118938693;45179;6038194;11;49
+r;118938697;45179;6038102;11;49
+r;118938868;45179;6031509;11;49
+r;118938900;45179;6029897;11;49
+r;118938938;45179;6027875;11;49
+r;118941039;45179;6017774;11;49
+r;118941047;45179;6017771;11;49
+r;118942660;45179;6017414;11;50
+r;178699114;45179;8749101;11;50
+r;178699172;45179;8749083;11;50
+r;179550714;45179;8758129;11;50
+r;179550968;45179;8758130;11;50
+r;180161737;45179;8751311;11;50
+r;183023144;45179;8779427;11;50
+r;190289272;45179;8853310;11;50
+r;190852845;45179;8879691;11;50
+r;190853063;45179;8879690;11;50
+r;191816247;45179;8895599;11;50
+r;192947026;45179;8912910;11;50
+r;192978921;45179;8914058;11;50
+r;193843299;45179;8967640;11;50
+r;193844175;45179;8967639;11;50
+r;193844460;45179;8967641;11;50
+r;193878318;45179;8969396;11;50
+r;195371463;45179;9018891;11;50
+r;195371913;45179;9018890;11;50
+r;200557555;45179;9101798;11;50
+r;200558223;45179;9101928;11;50
+r;200558246;45179;9101904;11;50
+r;200581071;45179;9101828;11;50
+r;200683949;45179;9102044;11;50
+r;217417777;45179;9698478;11;50
+r;217989107;45179;9740303;11;50
+r;217989355;45179;9740302;11;50
+r;218080019;45179;9749605;11;50
+r;218249684;45179;9762757;11;50
+r;218267842;45179;9762758;11;50
+r;218368347;45179;9774726;11;50
+r;218369688;45179;9774725;11;50
+r;282297100;45179;11119471;11;50
+r;282301699;45179;11119569;11;50
+r;282466531;45179;11120006;11;50
+r;282860122;45179;11129327;11;50
+r;282865369;45179;11132164;11;50
+r;283095937;45179;11136024;11;50
+r;318335120;45179;12262845;11;50
+r;323139308;45179;12618632;11;50
+r;323564183;45179;12630098;11;50
+r;324933651;45179;12645940;11;50
+r;324936413;45179;12623052;11;50
+r;325569598;45179;12699452;11;50
+r;348982669;45179;13754848;11;50
+r;348988448;45179;13796616;11;50
+r;348990108;45179;13800110;11;50
+r;356780154;45179;14095726;11;50
+r;358088243;45179;14130215;11;50
+r;365133216;45179;14376216;11;50
+r;370337880;45179;14567512;11;50
+r;397496736;45179;15487225;11;50
+r;397500561;45179;15374726;11;50
+r;397497196;45179;15397111;11;50
+r;397496744;45179;15487223;11;50
+r;402120842;45179;15373055;11;50
+r;402108906;45179;15241195;11;50
+r;402108566;45179;15336323;11;50
+r;402122144;45179;15264570;11;50
+r;402102714;45179;15346813;11;50
+r;402120588;45179;15571191;11;50
+r;402121322;45179;15395491;11;50
+r;412521832;45179;15774915;11;50
+r;412521640;45179;15791796;11;50
+r;402109364;45179;15411010;11;50
+r;402113451;45179;15379186;11;50
+r;402113423;45179;15227693;11;50
+r;402113431;45179;15570289;11;50
+r;402111208;45179;15307680;11;50
+r;402113197;45179;15397114;11;50
+r;402112105;45179;15328127;11;50
+r;398506966;45179;15561434;11;50
+r;399661811;45179;15571264;11;50
+r;402273471;45179;15264568;11;50
+r;402273547;45179;15327752;11;50
+r;402273569;45179;15264557;11;50
+r;402273651;45179;15528802;11;50
+r;402274889;45179;15336321;11;50
+r;413585774;45179;15854690;11;50
+r;413897396;45179;15751922;11;50
+r;420432112;45179;16105601;11;50
+r;428802025;45179;16315834;11;50
+r;52465101;45179;2524237;11;51
+r;52467489;45179;2518959;11;51
+r;83625820;45179;3318263;11;51
+r;86149053;45179;3369959;11;51
+r;86153653;45179;3369394;11;51
+r;86164728;45179;3368139;11;51
+r;86165254;45179;3368069;11;51
+r;86204794;45179;3363331;11;51
+r;86204803;45179;3363330;11;51
+r;86236413;45179;3360773;11;51
+r;93455444;45179;3743796;11;51
+r;93466050;45179;3744431;11;51
+r;93466359;45179;3744496;11;51
+r;93489827;45179;3745337;11;51
+r;93490084;45179;3745333;11;51
+r;93496901;45179;3746362;11;51
+r;93497033;45179;3746346;11;51
+r;93497179;45179;3746325;11;51
+r;93501161;45179;3745841;11;51
+r;93502017;45179;3745744;11;51
+r;93671834;45179;3756828;11;51
+r;118938682;45179;6038449;11;51
+r;99456742;45179;4401675;11;52
+r;24963892;45179;1529022;11;52
+r;33743803;45179;2324529;11;52
+r;76636520;45179;3177732;11;52
+r;83636303;45179;3318385;11;52
+r;86131321;45179;3372141;11;52
+r;86143910;45179;3370574;11;52
+r;86160728;45179;3368611;11;52
+r;86164735;45179;3368138;11;52
+r;86169159;45179;3367589;11;52
+r;86177236;45179;3366599;11;52
+r;86186911;45179;3365537;11;52
+r;86192253;45179;3364980;11;52
+r;86192903;45179;3364911;11;52
+r;86211892;45179;3362446;11;52
+r;86213658;45179;3362245;11;52
+r;92878117;45179;3717543;11;52
+r;93459758;45179;3744050;11;52
+r;93475314;45179;3744869;11;52
+r;93492173;45179;3745436;11;52
+r;93495542;45179;3746526;11;52
+r;93503326;45179;3745582;11;52
+r;93666290;45179;3757420;11;52
+r;93672089;45179;3756799;11;52
+r;93675464;45179;3756426;11;52
+r;93683928;45179;3755531;11;52
+r;93695351;45179;3754385;11;52
+r;102030494;45179;4893066;11;52
+r;99448369;45179;4400953;11;53
+r;52444503;45179;2567803;11;53
+r;52467836;45179;2518264;11;53
+r;83664003;45179;3320992;11;53
+r;86130922;45179;3359509;11;53
+r;86131343;45179;3372138;11;53
+r;86135651;45179;3371586;11;53
+r;86137653;45179;3371336;11;53
+r;86138848;45179;3371209;11;53
+r;86173084;45179;3367121;11;53
+r;86246133;45179;3361163;11;53
+r;92514457;45179;3705824;11;53
+r;93484122;45179;3744978;11;53
+r;93694605;45179;3754466;11;53
+r;93694958;45179;3754428;11;53
+r;118936241;45179;6063765;11;53
+r;118936961;45179;6063628;11;53
+r;118940929;45179;6017797;11;53
+r;99456716;45179;4401673;11;54
+r;28728575;45179;1746139;11;54
+r;52464317;45179;2525988;11;54
+r;76368062;45179;3173308;11;54
+r;77710397;45179;3225607;11;54
+r;86205198;45179;3363277;11;54
+r;86210856;45179;3362586;11;54
+r;86221904;45179;3359787;11;54
+r;93302296;45179;3737421;11;54
+r;93451749;45179;3743742;11;54
+r;98848040;45179;4333013;11;54
+r;99010081;45179;4339765;11;54
+r;102029527;45179;4893067;11;54
+r;104402520;45179;5002720;11;54
+r;118936410;45179;6063737;11;54
+r;14688932;45179;437468;11;55
+r;16201200;45179;461295;11;55
+r;76813331;45179;3181025;11;55
+r;77555539;45179;3223407;11;55
+r;82355426;45179;3298180;11;55
+r;86130538;45179;3359399;11;55
+r;86131227;45179;3359508;11;55
+r;86136487;45179;3371491;11;55
+r;86174984;45179;3366876;11;55
+r;86181628;45179;3366081;11;55
+r;86198695;45179;3364116;11;55
+r;86217138;45179;3359471;11;55
+r;86244205;45179;3361254;11;55
+r;93455816;45179;3743786;11;55
+r;93468635;45179;3744498;11;55
+r;93475818;45179;3744895;11;55
+r;93492288;45179;3745417;11;55
+r;93497445;45179;3746293;11;55
+r;93500301;45179;3745941;11;55
+r;93503943;45179;3745505;11;55
+r;93704585;45179;3753417;11;55
+r;99011153;45179;4339807;11;55
+r;99026371;45179;4339808;11;55
+r;99123828;45179;4345110;11;55
+r;107337422;45179;5386729;11;55
+r;77554006;45179;3223408;11;56
+r;86125793;45179;3359159;11;56
+r;86179051;45179;3366385;11;56
+r;86245359;45179;3361326;11;56
+r;91234153;45179;3634199;11;56
+r;93468139;45179;3744624;11;56
+r;93482329;45179;3744949;11;56
+r;93482539;45179;3744958;11;56
+r;93484173;45179;3744923;11;56
+r;93494372;45179;3746673;11;56
+r;93495384;45179;3746545;11;56
+r;93499071;45179;3746096;11;56
+r;95173524;45179;3890679;11;56
+r;98926081;45179;4335602;11;56
+r;102053844;45179;4894657;11;56
+r;104885235;45179;5043422;11;56
+r;117873796;45179;5989343;11;56
+r;118937253;45179;6063559;11;56
+r;99447309;45179;4400954;11;57
+r;16926798;45179;566286;11;57
+r;82852055;45179;3304340;11;57
+r;83509909;45179;3315431;11;57
+r;86140587;45179;3370993;11;57
+r;86179440;45179;3366347;11;57
+r;92540894;45179;3707552;11;57
+r;93464418;45179;3744407;11;57
+r;93493711;45179;3746756;11;57
+r;93494172;45179;3746699;11;57
+r;93495175;45179;3746572;11;57
+r;93647609;45179;3759462;11;57
+r;95174746;45179;3869537;11;57
+r;103572902;45179;4937716;11;57
+r;104885084;45179;5043421;11;57
+r;118938823;45179;6033722;11;57
+r;13716095;45179;394573;11;58
+r;18403974;45179;586412;11;58
+r;52473584;45179;2506091;11;58
+r;54728887;45179;2590056;11;58
+r;72291427;45179;2937268;11;58
+r;72606642;45179;2949133;11;58
+r;72821335;45179;2952164;11;58
+r;85932170;45179;3352907;11;58
+r;86167584;45179;3367771;11;58
+r;86217563;45179;3359638;11;58
+r;86223037;45179;3359830;11;58
+r;86244762;45179;3361179;11;58
+r;92503735;45179;3705254;11;58
+r;93462775;45179;3744284;11;58
+r;93497908;45179;3746235;11;58
+r;93498411;45179;3746175;11;58
+r;93687868;45179;3755205;11;58
+r;16918472;45179;566203;11;59
+r;17070481;45179;567244;11;59
+r;17644120;45179;572652;11;59
+r;21013209;45179;1012372;11;59
+r;34698872;45179;2349716;11;59
+r;72291111;45179;2937267;11;59
+r;83650479;45179;3318734;11;59
+r;83663996;45179;3320993;11;59
+r;86131333;45179;3372139;11;59
+r;86149313;45179;3369928;11;59
+r;86211548;45179;3362490;11;59
+r;86213043;45179;3362323;11;59
+r;86235119;45179;3360664;11;59
+r;86236183;45179;3360738;11;59
+r;86260322;45179;3361986;11;59
+r;93447151;45179;3743734;11;59
+r;93462451;45179;3744221;11;59
+r;93469034;45179;3744609;11;59
+r;93495700;45179;3746508;11;59
+r;93672773;45179;3756716;11;59
+r;93684505;45179;3755470;11;59
+r;93702224;45179;3753678;11;59
+r;98926094;45179;4335603;11;59
+r;104402572;45179;5002721;11;59
+r;106432052;45179;5246460;11;59
+r;109338030;45179;5522291;11;59
+r;118935483;45179;6063918;11;59
+r;99763564;45179;4466062;11;60
+r;31737285;45179;1969880;11;60
+r;72863655;45179;2952671;11;60
+r;73134520;45179;2955197;11;60
+r;76175654;45179;3169547;11;60
+r;84326462;45179;3338764;11;60
+r;86142997;45179;3370672;11;60
+r;86223016;45179;3359464;11;60
+r;86226841;45179;3359927;11;60
+r;86245547;45179;3361355;11;60
+r;92503988;45179;3705257;11;60
+r;93460482;45179;3743934;11;60
+r;93488826;45179;3745140;11;60
+r;93492539;45179;3747394;11;60
+r;93493520;45179;3746778;11;60
+r;93504181;45179;3745473;11;60
+r;93779821;45179;3754748;11;60
+r;93701837;45179;3753720;11;60
+r;99010365;45179;4339764;11;60
+r;106005457;45179;5152484;11;60
+r;108405028;45179;5517380;11;60
+r;73136976;45179;2955235;11;61
+r;30090788;45179;1858955;11;62
+r;72661916;45179;2949782;11;64
+r;76295614;45179;3171690;11;65
+r;12572651;45179;382244;11;101
+r;12651225;45179;362813;11;101
+r;12651377;45179;362778;11;101
+r;12673243;45179;357417;11;101
+r;12673269;45179;357410;11;101
+r;12765427;45179;335062;11;101
+r;12651163;45179;362828;11;102
+r;12651217;45179;362815;11;102
+r;12651241;45179;362809;11;102
+r;12651369;45179;362780;11;102
+r;12651373;45179;362779;11;102
+r;12651393;45179;362774;11;102
+r;12651405;45179;362771;11;102
+r;12662295;45179;360127;11;102
+r;12699835;45179;350889;11;102
+r;12749829;45179;338941;11;102
+r;12547413;45179;388595;11;103
+r;12622427;45179;370008;11;103
+r;12651173;45179;362826;11;103
+r;12651193;45179;362821;11;103
+r;12651249;45179;362807;11;103
+r;12651257;45179;362805;11;103
+r;12651297;45179;362796;11;103
+r;12651313;45179;362792;11;103
+r;12651401;45179;362772;11;103
+r;12571359;45179;382540;11;104
+r;12651153;45179;362831;11;104
+r;12651169;45179;362827;11;104
+r;12651221;45179;362814;11;104
+r;12651261;45179;362804;11;104
+r;12651285;45179;362799;11;104
+r;12651385;45179;362776;11;104
+r;12651389;45179;362775;11;104
+r;12674047;45179;357214;11;104
+r;12699817;45179;350892;11;104
+r;12640175;45179;365514;11;105
+r;12651159;45179;362829;11;105
+r;12651199;45179;362819;11;105
+r;12651203;45179;362818;11;105
+r;12651231;45179;362812;11;105
+r;12651273;45179;362801;11;105
+r;12651293;45179;362797;11;105
+r;12651301;45179;362795;11;105
+r;12651305;45179;362794;11;105
+r;12651325;45179;362789;11;105
+r;12651329;45179;362788;11;105
+r;12699841;45179;350888;11;105
+r;12073281;45179;331236;11;106
+r;12651185;45179;362823;11;106
+r;12651239;45179;362810;11;106
+r;12651265;45179;362803;11;106
+r;12651269;45179;362802;11;106
+r;12651289;45179;362798;11;106
+r;12651381;45179;362777;11;106
+r;12651397;45179;362773;11;106
+r;12699823;45179;350891;11;106
+r;12699829;45179;350890;11;106
+r;12651209;45179;362817;11;107
+r;12651359;45179;362782;11;107
+r;12651417;45179;362767;11;107
+r;12676545;45179;356618;11;107
+r;12686573;45179;354154;11;107
+r;12699415;45179;351003;11;107
+r;12540455;45179;390379;11;108
+r;12651151;45179;362832;11;108
+r;12651181;45179;362824;11;108
+r;12651213;45179;362816;11;108
+r;12651235;45179;362811;11;108
+r;12651253;45179;362806;11;108
+r;12651317;45179;362791;11;108
+r;12651321;45179;362790;11;108
+r;12651365;45179;362781;11;108
+r;12651413;45179;362768;11;108
+r;12693535;45179;352432;11;108
+r;12716367;45179;346775;11;108
+r;12754639;45179;337769;11;108
+r;12767105;45179;334641;11;108
+r;12571317;45179;382550;11;109
+r;12651177;45179;362825;11;109
+r;12651245;45179;362808;11;109
+r;12651281;45179;362800;11;109
+r;12651309;45179;362793;11;109
+r;12651341;45179;362786;11;109
+r;12651351;45179;362784;11;109
+r;12651409;45179;362770;11;109
+r;12651411;45179;362769;11;109
+r;12651157;45179;362830;11;110
+r;12651189;45179;362822;11;110
+r;12651197;45179;362820;11;110
+r;12651333;45179;362787;11;110
+r;12651347;45179;362785;11;110
+r;12651355;45179;362783;11;110
+r;12693433;45179;352452;11;110
+r;11853782;45179;183084;11;122
+r;9059930;45179;36057;11;143
+r;9256323;45179;323490;11;148
+r;11813374;45179;330120;11;148
+r;11944294;45179;330467;11;148
+r;8630368;45179;166706;11;160
+r;8630411;45179;166751;11;160
+r;8721596;45179;256682;11;160
+r;8730351;45179;263207;11;160
+r;8630332;45179;166657;11;161
+r;8631124;45179;167676;11;161
+r;8688283;45179;212799;11;161
+r;8690851;45179;218036;11;161
+r;8691095;45179;218480;11;161
+r;8699687;45179;231179;11;161
+r;8704934;45179;237671;11;161
+r;8707359;45179;242136;11;161
+r;8708175;45179;243714;11;161
+r;8708176;45179;243715;11;161
+r;8710202;45179;246617;11;161
+r;8711466;45179;248076;11;161
+r;8714452;45179;250957;11;161
+r;8717411;45179;253647;11;161
+r;8719720;45179;255399;11;161
+r;8720024;45179;255621;11;161
+r;8721594;45179;256681;11;161
+r;8723902;45179;258338;11;161
+r;8728785;45179;262007;11;161
+r;8730606;45179;263430;11;161
+r;8811305;45179;313166;11;161
+r;2289318;45179;225695;11;162
+r;8580443;45179;31513;11;162
+r;8585991;45179;47835;11;162
+r;8589303;45179;57118;11;162
+r;8589691;45179;58180;11;162
+r;8627245;45179;161081;11;162
+r;8628549;45179;163684;11;162
+r;8629925;45179;166074;11;162
+r;8631122;45179;167675;11;162
+r;8632072;45179;169487;11;162
+r;8632074;45179;169488;11;162
+r;8632076;45179;169489;11;162
+r;8632080;45179;169491;11;162
+r;8672096;45179;202527;11;162
+r;8688259;45179;212770;11;162
+r;8693701;45179;222328;11;162
+r;8731500;45179;264034;11;162
+r;8734109;45179;266474;11;162
+r;2286039;45179;161657;11;163
+r;8580742;45179;32512;11;163
+r;8581387;45179;34452;11;163
+r;8581778;45179;35505;11;163
+r;8583576;45179;40754;11;163
+r;8584135;45179;42423;11;163
+r;8584719;45179;44214;11;163
+r;8586522;45179;49368;11;163
+r;8587505;45179;52000;11;163
+r;8587952;45179;53289;11;163
+r;8588076;45179;53620;11;163
+r;8588729;45179;55471;11;163
+r;8589009;45179;56242;11;163
+r;8594268;45179;71765;11;163
+r;8596002;45179;76943;11;163
+r;8598553;45179;84274;11;163
+r;8598671;45179;84568;11;163
+r;8601664;45179;92993;11;163
+r;8601760;45179;93282;11;163
+r;8602741;45179;96144;11;163
+r;8603763;45179;98864;11;163
+r;8603768;45179;98883;11;163
+r;8612023;45179;121852;11;163
+r;8615938;45179;132773;11;163
+r;8616541;45179;134539;11;163
+r;8619789;45179;140662;11;163
+r;8620257;45179;141679;11;163
+r;8620495;45179;142284;11;163
+r;8621013;45179;143552;11;163
+r;8621849;45179;145776;11;163
+r;8622708;45179;152260;11;163
+r;8622958;45179;152785;11;163
+r;8625378;45179;157317;11;163
+r;8635057;45179;174995;11;163
+r;8635747;45179;177181;11;163
+r;8641187;45179;183079;11;163
+r;8641190;45179;183080;11;163
+r;8641191;45179;183081;11;163
+r;8641193;45179;183082;11;163
+r;8641195;45179;183083;11;163
+r;8646078;45179;186111;11;163
+r;8651712;45179;189716;11;163
+r;8651874;45179;189806;11;163
+r;8670661;45179;201607;11;163
+r;8673331;45179;203280;11;163
+r;8673333;45179;203281;11;163
+r;8673335;45179;203282;11;163
+r;8673338;45179;203284;11;163
+r;8673340;45179;203285;11;163
+r;8673342;45179;203286;11;163
+r;8673344;45179;203287;11;163
+r;8673346;45179;203288;11;163
+r;8673348;45179;203289;11;163
+r;8673350;45179;203290;11;163
+r;8673352;45179;203291;11;163
+r;8734785;45179;266942;11;163
+r;8736850;45179;269006;11;163
+r;8736858;45179;269010;11;163
+r;8737964;45179;270299;11;163
+r;8740879;45179;273142;11;163
+r;8742040;45179;274171;11;163
+r;8742043;45179;274172;11;163
+r;8742068;45179;274202;11;163
+r;8742071;45179;274203;11;163
+r;8748136;45179;280733;11;163
+r;8750041;45179;282785;11;163
+r;8754402;45179;286868;11;163
+r;8755951;45179;288081;11;163
+r;8757033;45179;289086;11;163
+r;8757034;45179;289087;11;163
+r;8757414;45179;289441;11;163
+r;8758235;45179;290276;11;163
+r;8758447;45179;290505;11;163
+r;8759100;45179;291267;11;163
+r;8759386;45179;291567;11;163
+r;8759594;45179;291793;11;163
+r;8767684;45179;301120;11;163
+r;8768185;45179;301666;11;163
+r;8768683;45179;302222;11;163
+r;8770601;45179;304335;11;163
+r;8771073;45179;304808;11;163
+r;8778465;45179;312279;11;163
+r;2286814;45179;76586;11;164
+r;2288482;45179;159785;11;164
+r;8577905;45179;24025;11;164
+r;8596756;45179;78983;11;164
+r;8616985;45179;135723;11;164
+r;8646370;45179;186244;11;164
+r;8646568;45179;186336;11;164
+r;8653175;45179;190732;11;164
+r;8653177;45179;190733;11;164
+r;8664890;45179;198320;11;164
+r;8664974;45179;198380;11;164
+r;8736469;45179;268658;11;164
+r;8776990;45179;311049;11;164
+r;8776995;45179;311052;11;164
+r;8664747;45179;198251;11;166
+r;8573312;45179;10110;11;168
+r;2286719;45179;44506;11;174
+r;8768682;45179;302221;11;174
+r;8770692;45179;304429;11;174
+r;2287870;45179;224760;11;182
+r;251517;45179;159977;11;188
+r;82860;45179;151963;11;189
+r;1664184;45179;203283;11;189
+r;1756534;45179;16729;11;191
+r;2289247;45179;160110;11;193
+r;262580;45179;160687;11;198
+r;270520;45179;161226;11;198
+r;248954;45179;159833;11;199
+r;8568916;45179;265599;11;200
+r;1990182;45179;242237;11;207
+r;3236419;45179;259444;11;207
+r;262579;45179;160686;11;208
+r;410646;45179;165209;11;208
+r;235729;45179;158860;11;209
+r;248018;45179;159775;11;209
+r;270113;45179;135514;11;220
+r;1681035;45179;224006;11;227
+r;1756533;45179;171133;11;247
+r;248253;45179;159788;11;299
+r;425696;45179;144818;11;319
+r;82861;45179;66839;11;439
+r;232890;45179;153706;11;449
+r;253150;45179;160091;11;478

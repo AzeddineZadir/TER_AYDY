@@ -1,0 +1,1547 @@
+
+e;24247;'service';1;680
+e;5876080;'service-public.fr';777;0
+e;6295517;'chef de service de transport ferroviaire';1;0
+e;6296958;'transfert du patient de service à l'intérieur de l'hôpital';1;0
+e;6326883;'agents de service hospitalier en psychiatrie';1;0
+e;6394310;'chef de service de télécommunications';1;0
+e;6405822;'prescription d'un service';1;0
+e;13588265;'temps de service total';1;0
+e;13589678;'service opérationnel';1;0
+e;13684470;'service à bord';1;0
+e;13731054;'service de Réanimation';1;0
+e;6318344;'service hospitalier de cardiologie';1;0
+e;6354747;'service de santé pour les femmes';1;0
+e;6403088;'service hospitalier de restauration';1;0
+e;13986176;'service star';777;0
+e;13989708;'ordonnance sur le service militaire';777;0
+e;13989800;'service commun de documentation';777;0
+e;14201197;'service militaire obligatoire aux États-Unis';777;0
+e;14427849;'service interministériel d'assistance technique';777;0
+e;14434562;'a pour contact au service communication';1;0
+e;14434538;'service d'information touristique';1;0
+e;14446564;'retiré du service';1;0
+e;14452164;'service d'urbanisme';1;0
+e;14452709;'service de l'exécution des peines';1;0
+e;14452715;'service de recouvrement des finances';1;0
+e;14453176;'service central de l'état civil';1;0
+e;14453163;'service d'état civil';1;0
+e;14452935;'service pénitentiaire d'insertion et de probation';1;0
+e;14453355;'service public funéraire';1;0
+e;14453319;'mention "mort pour le service de la Nation"';1;0
+e;14453501;'organisation et fonctionnement du service hospitalier';1;0
+e;14453572;'imputabilité au service';1;0
+e;14453569;'congés annuels préalablement autorisés par le chef de service';1;0
+e;14453511;'accident de service';1;0
+e;14453571;'intérêt du service';1;0
+e;14453598;'décharge de service';1;0
+e;14453652;'maladie imputable au service';1;0
+e;14453535;'continuité du service public';1;0
+e;14453525;'raisons de service';1;0
+e;14453661;'accident sans lien avec le service';1;0
+e;14453667;'retenue pour absence de service fait';1;0
+e;14453555;'prime de service';1;0
+e;14453614;'faute de service';1;0
+e;14453676;'agent de service hospitalier';1;0
+e;14453833;'ordre de service';1;0
+e;14453937;'principe de continuité du service public';1;0
+e;14453976;'service de l'Équipement';1;0
+e;14454094;'redevance payée directement par les usagers du service';1;0
+e;14454399;'absence de justification de service fait';1;0
+e;14454413;'service facturier';1;0
+e;14454467;'service à caractère social ou médico-social';1;0
+e;14454597;'service d'informatique';1;0
+e;14454796;'règle du service fait';1;0
+e;14454877;'service de l'équipement';1;0
+e;14454718;'besoins du service';1;0
+e;14454770;'nécessité de service';1;0
+e;14454781;'prime de service et de rendement';1;0
+e;14558642;'Terminaux point de vente et bornes libre service';777;0
+e;14581670;'Prise de service';777;0
+e;14571813;'Le dernier navire de ligne entré en service';777;0
+e;14589563;'carence du service public';777;0
+e;14631412;'objet du service public';777;0
+e;14636175;'service d'information de vol';777;0
+e;14654877;'place dans le service';1;0
+e;14665631;'Le karaté est au service de l'équité';777;0
+e;14761528;'Type de service';777;0
+e;14764866;'Platform as a service';777;0
+e;6409628;'service pour troubles du système vasculaire périphérique en consultation externe d'un hôpital';1;0
+e;15017143;'groom service';777;0
+e;15444172;'être au service de [qch]';1;0
+e;6289553;'service de reconditionnement d'un puits de pétrole';1;0
+e;6352772;'service pour le dépistage des maladies du sein en consultation externe d'un hôpital';1;0
+e;15789455;'respect des consignes du médecin chef de service';1;0
+e;16027666;'service bancaire mobile';777;0
+e;16028038;'service cliquer et ramasser';777;0
+e;15397806;'Le service est compris.';1;0
+e;15397808;'Le service n'est pas compris.';1;0
+e;15358194;'Le train assure le service entre Gatwick et Victoria.';1;0
+e;16073474;'Maladie imputable au service';1;0
+e;16073577;'Mission de service public';1;0
+e;15340399;'Notre chef du service clients par intérim';1;0
+e;15351712;'Nous étions insatisfaits du service';1;0
+e;15406891;'Nous étions mécontents du service.';1;0
+e;16073674;'Nécessité de service';1;0
+e;16073741;'Ordre de service';1;0
+e;16073750;'Organisation et fonctionnement du service hospitalier';1;0
+e;16073890;'Prestation de service';1;0
+e;16073910;'Prime de service';1;0
+e;16073911;'Prime de service et de rendement';1;0
+e;16073918;'Principe de continuité du service public';1;0
+e;16074078;'Raisons de service';1;0
+e;16074124;'Redevance payée directement par les usagers du service';1;0
+e;16074175;'Respect des consignes du médecin chef de service';1;0
+e;16074203;'Retenue pour absence de service fait';1;0
+e;16074219;'Règle du service fait';1;0
+e;16074466;'Tableau de service';1;0
+e;16066166;'aire de station service';1;0
+e;15340397;'amélioration du service clients';1;0
+e;15933582;'annulation de service';1;0
+e;15444164;'au service de [qch]';1;0
+e;15444163;'au service de [qqn/qch]';1;0
+e;15769949;'au service de quelque chose';1;0
+e;15368382;'au service de sa Majesté';1;0
+e;15368376;'au service de sa majesté';1;0
+e;15385737;'autobus hors service';1;0
+e;15318577;'avantage service';1;0
+e;15384491;'avec les plus longs états de service';1;0
+e;15400696;'avec service minimum';1;0
+e;15830935;'avoir 25 ans de service';1;0
+e;15430812;'avoir le sens du service';1;0
+e;15220974;'banque libre service';1;0
+e;15442475;'borne libre service';1;0
+e;15306921;'brigade volante du service de douane';1;0
+e;15205291;'bus hors service';1;0
+e;15353924;'camion du service de voirie';1;0
+e;15424584;'carré de service';1;0
+e;15358720;'centre de service de messages courts';1;0
+e;15220976;'cessation de service';1;0
+e;15416557;'chambre de service';1;0
+e;15412167;'chef de service de médecine légale';1;0
+e;15688976;'chef de service des nouvelles locales';1;0
+e;15572783;'chef du service entretien';1;0
+e;15572782;'chef du service publicité';1;0
+e;15226375;'chèque service';1;0
+e;16041638;'chèque-service';1;0
+e;15305181;'commission de service';1;0
+e;15302681;'condition de service non stable';1;0
+e;15341350;'conditions de fourniture du service';1;0
+e;15341349;'conditions de service';1;0
+e;15369797;'conférence des médecins d'un service hospitalier';1;0
+e;15338078;'consigne de service';1;0
+e;15322090;'continuité de service';1;0
+e;15312380;'contrat de délégation de service public';1;0
+e;15264896;'créneau de service';1;0
+e;15302221;'cuiller de service';1;0
+e;15429743;'culture du service';1;0
+e;15407760;'date de mise en service';1;0
+e;15312384;'de service public';1;0
+e;15340387;'directeur du service client';1;0
+e;15340389;'directeur service clients';1;0
+e;15387726;'dispense de service national';1;0
+e;15315829;'dispense du service militaire';1;0
+e;15326857;'délai moyen de rétablissement du service';1;0
+e;15687930;'délégation de mission de service public';777;0
+e;15301900;'en libre service, en self-service, en utilisation autonome';1;0
+e;15475918;'en service chez';1;0
+e;16170678;'interruption de service';1;0
+e;6432493;'service d'autopsie par un assistant';1;0
+e;15025965;'agrégée du service de santé des armées';1;0
+e;15025619;'agents de service';1;0
+e;15024186;'activités de service';1;0
+e;6293764;'entrevue dans le cadre d'un service social avec planification';1;0
+e;6295098;'entrevue avec le patient dans le cadre d'un service social';1;0
+e;6295543;'entrevue avec la famille dans le cadre d'un service social';1;0
+e;6329640;'entrevue avec un autre organisme dans le cadre d'un service social';1;0
+e;6370543;'employé de service de pesage';1;0
+e;6392564;'centres de retraite avec service de soins de longue durée';1;0
+e;13542068;'service du prochain';777;0
+e;12980010;'service d'urgence hospitalier';1;0
+e;13588252;'remis en service';1;0
+e;14323470;'service à domicile';1;6
+e;14486041;'mettre hors service';1;0
+e;14529634;'service de long-séjour';1;0
+e;14531679;'service de cardiologie';1;0
+e;14537202;'service 3 pièces';1;0
+e;14635365;'service en chambre';1;0
+e;14637123;'service de néonatalogie';1;30
+e;14726300;'faire son service militaire';1;0
+e;14734919;'service national universel';1;12
+e;14779093;'The degree of delight or annoyance of the user of an application or service. It results from the fulfillment of his or her expectations with respect to the utility and/or enjoyment of the application or service in the light of the users personality and cu';777;0
+e;15031871;'aptes au service';1;0
+e;15032593;'armes de service';1;0
+e;15034430;'au service des';1;0
+e;15034429;'au service de l'Etat';1;0
+e;15806397;'Mise en service';777;0
+e;16035044;'Les autres fonctions de service';777;0
+e;16268963;'Dessertes TGV commercialisées en service à partir du 15 décembre 2013';777;0
+e;10672818;'service à compétence nationale';777;0
+e;13536014;'service de protection des hautes personnalités';1;0
+e;5778234;'point d'accès au service';777;0
+e;6098155;'direction du service juridique de l'État';777;0
+e;6086875;'service public fédéral Justice';777;0
+e;6436774;'service hospitalier d'entretien ménager';1;0
+e;6424404;'chef de service de transport routier';1;0
+e;10730247;'liste des sous-marins nucléaires en service';777;0
+e;13537749;'Médaille de service méritoire';777;0
+e;5714633;'service de paiement sur Internet';1;0
+e;5712769;'engagement de service';777;0
+e;10591798;'service de voiturier';777;0
+e;10590139;'médaille d'honneur du service de santé des armées';777;0
+e;10874854;'application service provider';777;0
+e;5714484;'service Internet d'archivage';1;0
+e;5778293;'service wrapper';777;0
+e;9987260;'service autrichien de la Mémoire';777;0
+e;10872227;'unités de volontaires étrangers au service de la France';777;0
+e;11028683;'service de transport en commun';1;0
+e;11055950;'service public de transport en commun';1;0
+e;12903577;'états de service irréprochables';1;0
+e;13518317;'effectuer son service militaire';1;0
+e;13537746;'Croix du service méritoire';777;0
+e;5778236;'service central de la sécurité des systèmes d'information';777;0
+e;9960545;'concession de service public';777;0
+e;9982804;'Au service de la France';777;0
+e;9981771;'Bons pour le service';777;0
+e;10005096;'Inspecteur de service';777;0
+e;10004832;'Par l'entrée de service';777;0
+e;10596696;'service des phares et balises';777;0
+e;10596407;'Le Portugal compte actuellement 3 000 km d'autoroutes en service et 100 km en travaux';777;0
+e;10970344;'service de protection de l'enfance';777;0
+e;11055951;'service public de transport';1;0
+e;5564713;'Générale de service informatique';777;0
+e;5623126;'service à saké';1;0
+e;5829252;'service à la russe';777;0
+e;5910189;'service à fumeur';777;0
+e;6441726;'service d'aide bénévole au patient à mobilité réduite';1;0
+e;10955277;'Ordre du service imperial';777;0
+e;10579229;'service d'action civique';777;0
+e;10577231;'service interministériel des Archives de France';777;0
+e;11055949;'service public de transport en commun par navette fluviale';1;0
+e;11033505;'service de déménagement';1;0
+e;11776890;'service historique de la Défense';777;0
+e;11823907;'service ferroviaire suburbain de Milan';777;0
+e;6427230;'chefs de service hospitalier';1;0
+e;10037225;'croix pour service remarquable';777;0
+e;10037222;'croix pour service distingué';777;0
+e;10033460;'service autrichien à l'étranger';777;0
+e;10033459;'service volontaire européen';777;0
+e;10958199;'École du service de santé des armées de Lyon-Bron';777;0
+e;10942364;'service militaire en France';777;0
+e;10577381;'service de transmission de données numériques';1;0
+e;10959273;'service de transport de fonds';1;0
+e;10864466;'École du service de santé des armées de Bordeaux';777;0
+e;10958231;'institut de médecine navale du service de santé des armées';777;0
+e;10942365;'service national français';777;0
+e;10992679;'service de stockage';777;0
+e;11063429;'système radioélectrique du service mobile terrestre';777;0
+e;11065416;'service interacadémique des examens et concours';777;0
+e;11069916;'Médaille du service au Viêt Nam';777;0
+e;11069910;'Médaille du service en Corée';777;0
+e;11070063;'service interarmées des munitions';777;0
+e;11071053;'service d'archives du département du Rhône et de la métropole de Lyon';777;0
+e;11080603;'service de l'administration pénitentiaire';1;0
+e;11354000;'service du commissariat des armées';777;0
+e;11405350;'service universel postal';777;0
+e;11405378;'service universel';777;0
+e;11786436;'service action';777;0
+e;1839034;'mise en service d'un dispositif médical';1;0
+e;5920385;'engin de service hivernal';777;0
+e;5961735;'Flics en service';777;0
+e;10953732;'club service';777;0
+e;10864468;'École principale du service de santé de la Marine';777;0
+e;10936590;'Allô service public';777;0
+e;11022865;'service de renseignement intérieur';1;0
+e;11080604;'service de l'administration';1;0
+e;11404320;'service d'hébergement de wikis';777;0
+e;12071009;'service public d'assainissement non collectif';777;0
+e;12071198;'liste les structures intercommunales chargées de l'alimentation en eau potable dans le Loiret en service au 31 décembre 2016';777;0
+e;12076532;'service non marchand régalien';1;0
+e;1828829;'service biomédical';1;0
+e;5673921;'technologie au service du droit';777;0
+e;5778291;'service réseau';777;0
+e;5942422;'direction régionale du service d'infrastructure de la Défense de Brest';777;0
+e;6066356;'service départemental-métropolitain d'incendie et de secours';777;0
+e;10196961;'service civil en Suisse';777;0
+e;10836938;'établissement ou service social ou médico-social';777;0
+e;10842090;'dicastère pour le service du développement humain intégral';777;0
+e;10867912;'loi no 2008-3 du 3 janvier 2008 pour le développement de la concurrence au service des consommateurs';777;0
+e;10867911;'service minimum d'accueil dans les établissements scolaires';777;0
+e;10929889;'service des transports en commun de l'agglomération rennaise';777;0
+e;10929770;'service public fédéral Intérieur';777;0
+e;10934086;'service des parcs nationaux';777;0
+e;11021755;'fan service';777;0
+e;11455682;'Hors service';777;0
+e;11694083;'service pack';777;0
+e;11831003;'Station service ANTAR';777;0
+e;12067046;'emploi de service';1;0
+e;12067045;'emplois de service';1;0
+e;12079793;'matériel sous forme de service';1;0
+e;12079676;'logiciel sous forme de service';1;0
+e;5778247;'service level objectives';777;0
+e;5778242;'service de dépannage';777;0
+e;10316411;'service d'ambulance de Londres';777;0
+e;10313164;'Escalier de service';777;0
+e;10313143;'Au service du tsar';777;0
+e;10328222;'1er Détachement du service spécial';777;0
+e;10844640;'médaille de service de longue durée de la Wehrmacht';777;0
+e;11362542;'bus à haut niveau de service de Belfort';777;0
+e;12034073;'drapeaux et uniformes des régiments étrangers au service de l'Ancien Régime';777;0
+e;12050454;'garantir un service client de qualité';1;0
+e;12051605;'fournir un service à la table aux clients';1;0
+e;12051604;'fournir un service à la table';1;0
+e;12051603;'procéder au service à la table';1;0
+e;12051599;'préparer les chariots de service';1;0
+e;12051313;'gérer un service comptable';1;0
+e;12077531;'caisse en libre service';1;0
+e;12077707;'centre de commutation du service des mobiles';1;0
+e;12077708;'centre de commutation du service mobile';1;0
+e;12078010;'commutateur du service des mobiles';1;0
+e;12081310;'service mémoriel';1;0
+e;12081309;'service de médias audiovisuels à la demande';1;0
+e;12081308;'service à la cuillère';1;0
+e;16110633;'Corps ou service';777;0
+e;5942421;'établissement du service d'infrastructure de la Défense de Brest';777;0
+e;10792217;'1er détachement du service spécial';777;0
+e;11095811;'service de renseignement Zéro';777;0
+e;11500903;'service écoles-médias';777;0
+e;12006581;'service industrialisation';777;0
+e;12051333;'gérer un service média';1;0
+e;12051332;'superviser le service de lingerie';1;0
+e;5712781;'enterprise service bus';777;0
+e;10773450;'Agence du service civique';777;0
+e;10773460;'service civique';777;14
+e;10056897;'Annales du service des antiquités de l'Égypte';777;0
+e;10821556;'rendre service à quelqu'un';1;0
+e;11840864;'prestataires de service';1;0
+e;12052463;'communiquer avec le service clients';1;0
+e;16073209;'Imputabilité au service';1;0
+e;16073319;'Intérêt du service';1;0
+e;6528892;'Association Valentin Haüy au service des aveugles et des malvoyants';777;0
+e;10192322;'À votre service';777;0
+e;11302119;'service public de l'emploi';777;0
+e;11364209;'service militaire volontaire';777;0
+e;12053140;'avoir pour contact au service communication';1;0
+e;6449553;'employé de service d'expédition et de réception';1;0
+e;6527442;'service de télévision payante';1;0
+e;10546941;'service de place';777;0
+e;11250856;'service de la protection';777;0
+e;11382690;'service désintéressé';777;0
+e;11400129;'service d'aéronomie';777;0
+e;2433684;'service trois-pièces';1;0
+e;10074182;'régiments étrangers au service de l'Ancien Régime';777;0
+e;10507623;'Au service de la gloire';777;0
+e;10763446;'loi n° 2010-201 du 2 mars 2010 renforçant la lutte contre les violences de groupes et la protection des personnes chargées d'une mission de service public';777;0
+e;11222048;'Unités de service et de recherche';777;0
+e;11305329;'service de police d'Ottawa';777;0
+e;11373074;'service de neurochirurgie';1;0
+e;11372719;'Coopération du service national à l'étranger';777;0
+e;11384192;'service de l'information aéronautique';777;0
+e;11615687;'service fédéral des pensions';777;0
+e;16073078;'Faute de service';1;0
+e;5558000;'mise en service d'un navire';777;0
+e;10092490;'Au service de la loi';777;0
+e;10118849;'Au service de Sara';777;0
+e;10459546;'Au service du droit';777;0
+e;11010656;'service des Musées de France';777;0
+e;11154602;'million service units';777;0
+e;11176094;'service de transports de l'agglomération creilloise';777;0
+e;11199400;'anciens sites industriels et activités de service';777;0
+e;11219950;'service clients';1;0
+e;11254174;'temps de service accompli';1;0
+e;11373215;'état limite en service';777;0
+e;11373448;'service national d'ingénierie aéroportuaire';777;0
+e;16072825;'Décharge de service';1;0
+e;16072914;'Délégation de service public';1;0
+e;2375011;'reprendre du service';1;0
+e;5537619;'service oriented architecture';777;0
+e;5715552;'interface de prestation de service';777;0
+e;5715293;'identifiant de profil de service';777;0
+e;5968748;'service européen de télépéage';777;0
+e;6001380;'système de service mobile';777;0
+e;6527441;'service de télévision payante par satellite';1;0
+e;6594546;'Prestation de service unique';777;0
+e;11103922;'service par contournement';777;0
+e;11154601;'million d'unités de service';777;0
+e;11317347;'une mention est une inscription littérale d'un nom de lieu ou de service sur un panneau de signalisation';777;0
+e;2402482;'room service';1;4
+e;2452951;'service au volant';1;0
+e;5989312;'service des forêts';777;0
+e;5984149;'service des essences des armées';777;0
+e;5984038;'fédération nationale des radioamateurs au service de la sécurité civile';777;0
+e;6066645;'service de sécurité incendie et d'assistance à personnes';777;0
+e;10159679;'service de soutien de la flotte';777;0
+e;6066354;'service départemental d'incendie et de secours';777;0
+e;6527443;'service de télévision par satellite';1;0
+e;10143182;'Tom et Jerry au service de Sa Majesté le Roi';777;0
+e;10443216;'Au service de Satan';777;0
+e;10443527;'service de vidéo à la demande';1;0
+e;5520132;'entreprise privée avec délégation de service public';1;0
+e;10443528;'service spécialisé de vidéo à la demande';1;0
+e;12771238;'service européen pour l'action extérieure';777;0
+e;13998380;'Chèque emploi service universel';777;0
+e;5985524;'bus à haut niveau de service';777;0
+e;6527444;'service de télévision';1;0
+e;2411871;'hors-service';1;0
+e;8885151;'service de garde';1;0
+e;8855112;'service de bouche';1;0
+e;8872364;'service hospitalier d'ergothérapie';1;0
+e;9050661;'service auto-train';777;0
+e;9448058;'action de service';1;0
+e;11128573;'service météorologique indien';777;0
+e;11130100;'titre emploi service entreprise';777;0
+e;12489218;'prix Pulitzer du service public';777;0
+e;12730404;'Médaille du service en Antarctique';777;0
+e;12772502;'500 kHz du service radioamateur';777;0
+e;13730172;'Chef du service de chirurgie cardio-thoracique';777;0
+e;14388264;'Concession de service public en France';777;0
+e;14610331;'Distributeurs d'essence sans service';777;0
+e;14629641;'Chef du service de chirurgie foetale';777;0
+e;14629629;'Chef du service de chirurgie pédiatrique';777;0
+e;14629633;'Chef du service de chirurgie traumatologique';777;0
+e;14629628;'Chef du service de chirurgie générale';777;0
+e;15338795;'Ils ont amélioré le service.';1;0
+e;15409916;'Ils ont mis en place un service de bus supplémentaire.';1;0
+e;15016770;'Années de service';777;0
+e;15385746;'Désolé, l'ascenseur est hors service.';1;0
+e;16071954;'Accident de service';1;0
+e;16071960;'Accident sans lien avec le service';1;0
+e;16072069;'Agent de service hospitalier';1;0
+e;16072265;'Besoins du service';1;0
+e;16072541;'Congés annuels préalablement autorisés par le chef de service';1;0
+e;16072591;'Continuité du service public';1;0
+e;16181650;'C Module de service';777;0
+e;16276368;'Administration d'un service d'archives';777;0
+e;462320;'beur de service';777;50
+e;2678230;'infrastructure en tant que service';777;0
+e;3319283;'service hôtelier';1;0
+e;460941;'service web';777;50
+e;5526202;'service Windows';777;0
+e;566236;'service départemental d'archives';777;50
+e;575241;'Écoles du service de santé des armées';777;50
+e;598074;'service médical d'accueil';1;0
+e;598076;'service médical d'urgence et de réanimation';1;0
+e;2338307;'Soutien naval et service de réparations militaire';777;0
+e;2551636;'service rendu';1;2
+e;2523023;'service clientèle';1;0
+e;2587633;'Plate-forme en tant que service';777;0
+e;3321662;'qualité, service et propreté';1;0
+e;5002317;'bon pour le service';1;2
+e;5516873;'service de Google';1;0
+e;2345263;'service à la française';1;0
+e;2556385;'libre service';1;32
+e;2528329;'titre-service';1;0
+e;2804182;'software as a service';777;0
+e;2949229;'Entrée de service';777;0
+e;3320793;'service central de liaison du Codex';1;0
+e;5519371;'club service international de bénévoles';1;0
+e;6531632;'intervention ou service bucco-dentaire';1;0
+e;571928;'service de sauvetage et de lutte contre l'incendie des aéronefs';777;50
+e;1847207;'service d'accueil des urgence s';1;0
+e;1974621;'plat de service';1;4
+e;2606444;'service à l'auto';777;0
+e;2678231;'infrastructure as a service';777;0
+e;3314015;'service-volée';1;0
+e;5517399;'service de messagerie web';1;0
+e;579666;'libre-service de gros';777;0
+e;1844546;'service central de protection contre les rayonnements ionisants';1;0
+e;589857;'feuille de service';1;0
+e;592794;'directeur général des service';777;0
+e;1844547;'service communal d'hygiène et santé';1;0
+e;3321811;'assistance à la restauration ou au service du commissariat(catering)';1;0
+e;462705;'service de la publicité foncière';777;50
+e;1572527;'service des urgences';1;0
+e;1773373;'être au service de';1;0
+e;2105511;'stations-service';2;0
+e;2804181;'logiciel en tant que service';777;0
+e;5126306;'service de jour';1;0
+e;5517400;'service de messagerie';1;0
+e;437260;'moment de service';1;50
+e;460942;'service de la toile';777;50
+e;589334;'assiette de service';1;0
+e;598061;'service d'accueil des urgences';1;0
+e;1844550;'service médicopsychologique régional';1;0
+e;2355746;'amélioration du service médical rendu';1;0
+e;3319284;'assistance "service commissariat"';1;0
+e;1012448;'Centre d'instruction du service de santé';777;0
+e;1753508;'service de transport';1;0
+e;2923721;'service d'aide humanitaire et de protection civile de la Commission européenne';777;0
+e;3069165;'service de rencontre';1;0
+e;3320698;'service commissariat';1;0
+e;3369605;'soupe aux épinards deuxième service, restes';1;0
+e;1844549;'service libre psychiatriqu';1;0
+e;3170517;'En service';777;0
+e;1858910;'service médico-psychologique régional';777;0
+e;3171633;'service à la clientèle';777;2
+e;1794466;'service hydrographique et océanographique de la Marine';777;0
+e;2926221;'établissement et service d'aide par le travail';777;0
+e;1844548;'service d'accueil des urgence';1;0
+e;3173403;'demander service';1;0
+e;3171796;'Au service secret de sa Majesté';777;0
+e;1796385;'mis en service';1;0
+e;2861699;'service déconcentré';1;0
+e;379526;'service des douanes';1;50
+e;379515;'service d'assistance médicale d'urgence';1;50
+e;379513;'service consulaire';1;50
+e;379508;'service à haute valeur ajoutée';1;50
+e;379503;'service social';1;52
+e;379497;'service public industriel et commercial';1;50
+e;379445;'service d'enseignement';1;50
+e;379438;'service bancaire';1;52
+e;378029;'réservé au service';1;50
+e;371845;'pont de service';1;50
+e;371827;'pompier de service';1;50
+e;358638;'imposant service d'ordre';1;50
+e;358626;'important service d'ordre';1;50
+e;344736;'cour de service';1;50
+e;393301;'Astérix et Obélix : Au service de Sa Majesté';1;50
+e;389083;'à votre service';1;50
+e;382744;'tableau de service';1;50
+e;379507;'service à dessert';1;50
+e;379480;'service gagnant';1;50
+e;379473;'service des sports';1;50
+e;379463;'service de police';1;50
+e;379452;'service de chirurgie';1;50
+e;369792;'personne de service';1;50
+e;366919;'obligation de service public';1;50
+e;357731;'heure de service';1;50
+e;338291;'balle de service';1;50
+e;337502;'au service militaire';1;50
+e;379496;'service public hospitalier';1;50
+e;379494;'service politique';1;50
+e;379485;'service intérieur';1;50
+e;379484;'service hydrographique';1;50
+e;379457;'service de factage';1;50
+e;379454;'service de chèques';1;50
+e;379446;'service d'honneur';1;50
+e;379443;'service d'action psychologique';1;50
+e;379434;'service ambulant';1;50
+e;372868;'prestataire de service';1;52
+e;370135;'phase de mise en service';1;50
+e;367208;'officier de service';1;50
+e;354148;'fille de service';1;50
+e;342486;'certificat du service militaire';1;50
+e;335532;'année de service';1;50
+e;387362;'voie de service';1;50
+e;379539;'service vidéo';1;50
+e;379531;'service ministériel';1;50
+e;379520;'service de consommation sur place';1;50
+e;379506;'service voté';1;50
+e;379502;'service sanitaire';1;50
+e;379498;'service public local';1;50
+e;379495;'service psychiatrique';1;50
+e;379489;'service national de santé';1;50
+e;379486;'service littéraire';1;50
+e;379483;'service hospitalo-universitaire';1;50
+e;379478;'service fait';1;50
+e;379472;'service de vaisselle';1;50
+e;379469;'service de restauration';1;86
+e;379467;'service de recrutement';1;50
+e;379461;'service de liaison';1;50
+e;379458;'service de gastro-entérologie';1;50
+e;379453;'service de chirurgie plastique';1;50
+e;379450;'service d'état';1;50
+e;379436;'service auxiliaire';1;50
+e;353538;'faute du service';1;50
+e;347707;'dispense de service';1;50
+e;346153;'dans l'intérêt du service';1;50
+e;389270;'échelle de service';1;50
+e;383301;'tenue de service';1;50
+e;379533;'service payeur';1;50
+e;379532;'service météorologique';1;50
+e;379504;'service trois pièces';1;52
+e;379493;'service philatélique';1;50
+e;379482;'service hospitalier de consultation externe';1;50
+e;379471;'service de surveillance';1;50
+e;379468;'service de reportage';1;50
+e;379456;'service de documentation';1;50
+e;369806;'personnel de service';1;50
+e;358035;'hors de service';1;50
+e;352184;'entrée en service';1;50
+e;339640;'bon pour le service armé';1;50
+e;333910;'activité de service';1;50
+e;379521;'service de contrôle';1;50
+e;379517;'service d'ordre';1;54
+e;379514;'service d'aide psychologique par téléphone';1;50
+e;379501;'service régional de police judiciaire';1;4
+e;379500;'service pédagogique';1;50
+e;379487;'service musical';1;50
+e;379477;'service départemental';1;50
+e;379475;'service dominical';1;50
+e;379448;'service d'ordre omniprésent';1;50
+e;375950;'remise en service';1;50
+e;372724;'premier service';1;52
+e;347218;'deuxième service';1;54
+e;379535;'service publicitaire';1;50
+e;379523;'service de nettoyage';1;50
+e;379518;'service d'ordre imposant';1;50
+e;379481;'service gratuit';1;50
+e;379479;'service fiscal';1;50
+e;379470;'service de semaine';1;50
+e;379466;'service de recherche';1;50
+e;379464;'service de proximité';1;50
+e;379449;'service d'urgence';1;52
+e;379444;'service d'archives';1;50
+e;379442;'service culturel';1;50
+e;379440;'service commandé';1;50
+e;379437;'service aérien';1;50
+e;367219;'offre de service';1;50
+e;351398;'en service commandé';1;50
+e;350469;'en dehors des heures de service';1;50
+e;342794;'changement de service';1;50
+e;336026;'apte au service';1;50
+e;334443;'agrégé du service de santé des armées';1;50
+e;379534;'service préfectoral';1;50
+e;379530;'service maritime';1;50
+e;379519;'service d'écoutes téléphoniques';1;50
+e;379510;'service à rafraîchissements';1;50
+e;379505;'service télématique';1;50
+e;379499;'service public postal';1;50
+e;379492;'service officiel';1;50
+e;379491;'service national obligatoire';1;50
+e;379490;'service national féminin';1;50
+e;379462;'service de médecine interne';1;50
+e;379460;'service de la dette publique';1;50
+e;379451;'service de bus';1;50
+e;379435;'service armé';1;50
+e;378143;'réunion de service';1;50
+e;354247;'fin de service';1;50
+e;332452;'self service';1;54
+e;379516;'service d'immigration';1;50
+e;379512;'service administratif et comptable';1;50
+e;379511;'service à valeur ajoutée';1;50
+e;379476;'service du nettoyage';1;50
+e;379455;'service de contentieux';1;50
+e;379441;'service comptable';1;50
+e;379439;'service canon';1;50
+e;369128;'passeport de service';1;50
+e;339199;'billet de service';1;50
+e;379509;'service à la place';1;50
+e;379488;'service médical';1;50
+e;379474;'service des ventes';1;50
+e;379465;'service de publicité';1;50
+e;379459;'service de gestion des portefeuilles';1;50
+e;379447;'service d'ordre important';1;50
+e;377251;'règlement de service';1;50
+e;366918;'obligation de service';1;50
+e;361221;'lettre de service';1;50
+e;351399;'en service dans';1;50
+e;5771;'libre-service';1;112
+e;579;'self-service';1;140
+e;222920;'room-service';1;52
+e;115073;'station-service';1;90
+e;318874;'service d'information et d'orientation';1;50
+e;321430;'être hors service';1;58
+e;323589;'service de radiologie';1;50
+e;325511;'service administratif';1;50
+e;326517;'service technique';1;50
+e;239760;'vélo en libre-service';1;50
+e;317157;'service à raclette';1;50
+e;313971;'période de service';1;50
+e;225065;'Au service secret de Sa Majesté';1;2
+e;230773;'prestation de service';1;50
+e;235637;'au service de';1;50
+e;246081;'esprit de service';1;50
+e;263482;'en service actif';1;50
+e;119669;'être au service';1;50
+e;164500;'de service';1;52
+e;167017;'service du chiffre';1;50
+e;212290;'en service';1;50
+e;219070;'service compris';1;54
+e;222673;'service client';1;94
+e;230720;'service de renseignements';1;50
+e;230948;'déni de service';1;2
+e;231671;'service hospitalier';1;78
+e;231768;'service médical rendu';1;52
+e;232102;'service à café';1;52
+e;232353;'service public administratif';1;8
+e;234371;'délégation de service public';1;50
+e;234452;'service non-marchand';1;50
+e;235864;'service téléphonique';1;50
+e;235869;'qualité de service';1;50
+e;236012;'service de communication';1;50
+e;237045;'service après-vente';1;50
+e;237500;'service commercial';1;4
+e;237668;'service de la dette';1;50
+e;245778;'mise hors service';1;52
+e;246541;'module de service';1;50
+e;248031;'service de livraison';1;50
+e;248420;'service juridique';1;50
+e;249584;'service en argent';1;50
+e;250529;'mission de service public';1;50
+e;252008;'service de courrier';1;50
+e;252482;'service de réanimation';1;62
+e;252803;'service de déminage';1;50
+e;254190;'véhicule de service';1;50
+e;254699;'voiture de service';1;50
+e;254919;'service en ligne';1;50
+e;255246;'agent de service';1;50
+e;256005;'mort en service';1;50
+e;258390;'service de réveil';1;50
+e;260295;'chèque emploi service';1;50
+e;261187;'privatisation du service public';1;50
+e;262096;'faire le service';1;78
+e;262121;'dame de service';1;50
+e;313673;'service de la maintenance industrielle terrestre';777;50
+e;47705;'être de service';1;50
+e;62433;'femme de service';1;52
+e;120250;'rendre service';1;62
+e;161618;'service minimum';1;54
+e;161822;'escalier de service';1;50
+e;169652;'agent du service commercial trains';1;50
+e;202801;'le service';1;50
+e;208153;'service à';1;50
+e;208154;'service de la poste aux armées';1;50
+e;208155;'service de nuit';1;54
+e;208156;'service de presse';1;50
+e;208157;'service de santé';1;50
+e;208158;'service des coffres';1;50
+e;208159;'service des réclamations';1;50
+e;208160;'service des risques';1;50
+e;208161;'service des titres';1;50
+e;208162;'service du contentieux';1;50
+e;208163;'service financier';1;50
+e;208164;'service national';1;64
+e;211924;'service de l'État';1;50
+e;211925;'service de l'identité judiciaire';1;50
+e;211926;'service du bout de l'an';1;50
+e;212704;'service de sécurité';1;52
+e;214495;'aire de service';1;50
+e;214564;'service du temple';1;50
+e;271801;'aire de repos et de service autoroutière';1;50
+e;293365;'Au service de Sa Majesté';777;50
+e;33278;'service civil';1;50
+e;45467;'mise en service';1;54
+e;46293;'service à liqueurs';1;50
+e;81001;'service funèbre';1;50
+e;89016;'note de service';1;50
+e;92197;'compléments de service';1;50
+e;96492;'École du service de Santé des armées';1;50
+e;129059;'hors service';1;72
+e;131110;'service de table';1;64
+e;153721;'station service';1;94
+e;158802;'chef de service';1;66
+e;159377;'service à thé';1;74
+e;177418;'timbre de service';1;50
+e;181683;'complément de service';1;50
+e;184261;'service actif';1;50
+e;184262;'service bancaire pour entreprises';1;50
+e;184263;'service d'appui';1;50
+e;184264;'service de clientèle';1;50
+e;184265;'service de kiosque';1;50
+e;184266;'service de libre appel';1;50
+e;184267;'service de recherche de personne';1;50
+e;184268;'service de renseignement';1;4
+e;184269;'service des mobiles';1;50
+e;184270;'service d'escale';1;50
+e;184271;'service mobile par satellite';1;50
+e;184272;'service secret';1;50
+e;184273;'service support';1;50
+e;184274;'service unifié';1;50
+e;184314;'société de service d'escale';1;50
+e;205883;'porte de service';1;50
+e;264629;'service après vente';1;52
+e;265516;'service municipal';1;50
+e;268111;'prestations de service';1;8
+e;268664;'service d'hébergement';1;50
+e;269543;'états de service';1;50
+e;270820;'service de paiement';1;50
+e;279729;'service mobile d'urgence et de réanimation';777;50
+e;280457;'bretelle de service';1;50
+e;280695;'service de messagerie multimédia';777;50
+e;281092;'service d'aide médicale urgente';777;50
+e;284499;'service de soins';777;50
+e;284561;'service de messagerie SMS';777;50
+e;286208;'service de santé des armées';777;50
+e;287133;'service militaire obligatoire';777;50
+e;296859;'service d'exploitation industrielle des tabacs et allumettes';777;50
+e;308320;'service chargé de la';777;50
+e;309841;'service de l'administration générale et des finances';777;50
+e;310874;'module de commande et de service Apollo';777;50
+e;313056;'service à découper';1;50
+e;28875;'entrée de service';1;50
+e;136365;'service divin';1;50
+e;187550;'service religieux';1;50
+e;190273;'assistant de service social';1;50
+e;195136;'cuillère de service';1;50
+e;310823;'attaque par déni de service';777;50
+e;311763;'chemin de service';777;50
+e;311901;'chèque emploi service universel';777;50
+e;312571;'arme de service';1;54
+e;17489;'service public';1;130
+e;3781;'service postal';1;52
+e;10897;'service militaire';1;118
+e;63031;'service militaire et service national';1;50
+r;294956524;24247;5876080;11;25
+r;298880973;24247;6295517;11;25
+r;298953756;24247;6296958;11;25
+r;300201896;24247;6326883;11;25
+r;304994328;24247;6394310;11;25
+r;305307701;24247;6405822;11;25
+r;344110010;24247;13588265;11;25
+r;344196590;24247;13589678;11;25
+r;347681671;24247;13684470;11;25
+r;348206813;24247;13731054;11;25
+r;349247549;24247;6318344;11;25
+r;349267832;24247;6354747;11;25
+r;349268512;24247;6403088;11;25
+r;352218682;24247;13986176;11;25
+r;352335500;24247;13989708;11;25
+r;352429024;24247;13989800;11;25
+r;360739142;24247;14201197;11;25
+r;366317562;24247;14427849;11;25
+r;366515952;24247;14434562;11;25
+r;366522989;24247;14434538;11;25
+r;366684947;24247;14446564;11;25
+r;366816025;24247;14452164;11;25
+r;366865853;24247;14452709;11;25
+r;366866837;24247;14452715;11;25
+r;366892015;24247;14453176;11;25
+r;366893786;24247;14453163;11;25
+r;366900901;24247;14452935;11;25
+r;366901400;24247;14453355;11;25
+r;366901660;24247;14453319;11;25
+r;366905814;24247;14453501;11;25
+r;366907076;24247;14453572;11;25
+r;366907438;24247;14453569;11;25
+r;366907705;24247;14453511;11;25
+r;366907994;24247;14453571;11;25
+r;366908842;24247;14453598;11;25
+r;366909523;24247;14453652;11;25
+r;366911262;24247;14453535;11;25
+r;366911360;24247;14453525;11;25
+r;366911937;24247;14453661;11;25
+r;366912456;24247;14453667;11;25
+r;366912914;24247;14453555;11;25
+r;366912937;24247;14453614;11;25
+r;366919691;24247;14453676;11;25
+r;366922811;24247;14453833;11;25
+r;366927462;24247;14453937;11;25
+r;366927949;24247;14453976;11;25
+r;366929150;24247;14454094;11;25
+r;366938070;24247;14454399;11;25
+r;366939852;24247;14454413;11;25
+r;366945559;24247;14454467;11;25
+r;366945593;24247;14454597;11;25
+r;366960725;24247;14454796;11;25
+r;366961422;24247;14454877;11;25
+r;366962090;24247;14454718;11;25
+r;366963438;24247;14454770;11;25
+r;366963923;24247;14454781;11;25
+r;369967543;24247;14558642;11;25
+r;370541447;24247;14581670;11;25
+r;370558647;24247;14571813;11;25
+r;370711624;24247;14589563;11;25
+r;371681383;24247;14631412;11;25
+r;371784601;24247;14636175;11;25
+r;372585909;24247;14654877;11;25
+r;372940334;24247;14665631;11;25
+r;375250117;24247;14761528;11;25
+r;375300577;24247;14764866;11;25
+r;400985911;24247;6409628;11;25
+r;392233620;24247;15017143;11;25
+r;395475522;24247;15444172;11;25
+r;396637149;24247;6289553;11;25
+r;400052394;24247;6352772;11;25
+r;410424687;24247;15789455;11;25
+r;417637883;24247;16027666;11;25
+r;417654014;24247;16028038;11;25
+r;419493573;24247;15397806;11;25
+r;419493577;24247;15397808;11;25
+r;419493989;24247;15358194;11;25
+r;419503355;24247;16073474;11;25
+r;419508407;24247;16073577;11;25
+r;419513817;24247;15340399;11;25
+r;419516677;24247;15351712;11;25
+r;419516685;24247;15406891;11;25
+r;419517065;24247;16073674;11;25
+r;419519720;24247;16073741;11;25
+r;419519858;24247;16073750;11;25
+r;419527876;24247;16073890;11;25
+r;419527983;24247;16073910;11;25
+r;419527987;24247;16073911;11;25
+r;419528113;24247;16073918;11;25
+r;419532988;24247;16074078;11;25
+r;419533739;24247;16074124;11;25
+r;419534476;24247;16074175;11;25
+r;419534655;24247;16074203;11;25
+r;419536870;24247;16074219;11;25
+r;419550622;24247;16074466;11;25
+r;419584266;24247;16066166;11;25
+r;419592875;24247;15340397;11;25
+r;419596661;24247;15933582;11;25
+r;419620967;24247;15444164;11;25
+r;419620972;24247;15444163;11;25
+r;419620976;24247;15769949;11;25
+r;419620983;24247;15368382;11;25
+r;419620989;24247;15368376;11;25
+r;419623108;24247;15385737;11;25
+r;419625823;24247;15318577;11;25
+r;419626437;24247;15384491;11;25
+r;419626681;24247;15400696;11;25
+r;419627837;24247;15830935;11;25
+r;419634157;24247;15430812;11;25
+r;419646440;24247;15220974;11;25
+r;419659756;24247;15442475;11;25
+r;419664650;24247;15306921;11;25
+r;419667989;24247;15205291;11;25
+r;419677647;24247;15353924;11;25
+r;419687106;24247;15424584;11;25
+r;419694684;24247;15358720;11;25
+r;419696056;24247;15220976;11;25
+r;419697106;24247;15416557;11;25
+r;419704484;24247;15412167;11;25
+r;419704497;24247;15688976;11;25
+r;419704552;24247;15572783;11;25
+r;419704558;24247;15572782;11;25
+r;419709464;24247;15226375;11;25
+r;419709485;24247;16041638;11;25
+r;419723009;24247;15305181;11;25
+r;419729109;24247;15302681;11;25
+r;419729256;24247;15341350;11;25
+r;419729293;24247;15341349;11;25
+r;419730996;24247;15369797;11;25
+r;419733739;24247;15338078;11;25
+r;419735523;24247;15322090;11;25
+r;419736372;24247;15312380;11;25
+r;419754263;24247;15264896;11;25
+r;419754574;24247;15302221;11;25
+r;419755652;24247;15429743;11;25
+r;419765255;24247;15407760;11;25
+r;419770084;24247;15312384;11;25
+r;419782515;24247;15340387;11;25
+r;419782605;24247;15340389;11;25
+r;419784043;24247;15387726;11;25
+r;419784071;24247;15315829;11;25
+r;419810616;24247;15326857;11;25
+r;419811004;24247;15687930;11;25
+r;419840410;24247;15301900;11;25
+r;419843004;24247;15475918;11;25
+r;424063632;24247;16170678;11;25
+r;122675350;24247;6432493;11;26
+r;392487892;24247;15025965;11;26
+r;392483939;24247;15025619;11;26
+r;392465489;24247;15024186;11;26
+r;298762483;24247;6293764;11;26
+r;298871332;24247;6295098;11;26
+r;298879715;24247;6295543;11;26
+r;300236615;24247;6329640;11;26
+r;302978768;24247;6370543;11;26
+r;304858360;24247;6392564;11;26
+r;343148908;24247;13542068;11;26
+r;333264769;24247;12980010;11;26
+r;344110510;24247;13588252;11;26
+r;364498518;24247;14323470;11;26
+r;368123887;24247;14486041;11;26
+r;368582925;24247;14529634;11;26
+r;368676451;24247;14531679;11;26
+r;369391850;24247;14537202;11;26
+r;371744682;24247;14635365;11;26
+r;371814495;24247;14637123;11;26
+r;374393470;24247;14726300;11;26
+r;374639536;24247;14734919;11;26
+r;375574828;24247;14779093;11;26
+r;393561776;24247;15031871;11;26
+r;393576840;24247;15032593;11;26
+r;393621092;24247;15034430;11;26
+r;393621124;24247;15034429;11;26
+r;411618931;24247;15806397;11;26
+r;417903526;24247;16035044;11;26
+r;426837268;24247;16268963;11;26
+r;270781758;24247;10672818;11;27
+r;343042333;24247;13536014;11;27
+r;112660787;24247;5778234;11;28
+r;119662165;24247;6098155;11;28
+r;119671642;24247;6086875;11;28
+r;121556920;24247;6436774;11;28
+r;122739099;24247;6424404;11;28
+r;269889869;24247;10730247;11;28
+r;343017082;24247;13537749;11;28
+r;112129460;24247;5714633;11;29
+r;112174946;24247;5712769;11;29
+r;264461802;24247;10591798;11;29
+r;264466061;24247;10590139;11;29
+r;272773412;24247;10874854;11;29
+r;112127781;24247;5714484;11;30
+r;112660713;24247;5778293;11;30
+r;222151165;24247;9987260;11;30
+r;272705867;24247;10872227;11;30
+r;279555353;24247;11028683;11;30
+r;280286788;24247;11055950;11;30
+r;331155976;24247;12903577;11;30
+r;342387303;24247;13518317;11;30
+r;343019924;24247;13537746;11;30
+r;112660770;24247;5778236;11;31
+r;220885163;24247;9960545;11;31
+r;222100020;24247;9982804;11;31
+r;222101673;24247;9981771;11;31
+r;227657479;24247;10005096;11;31
+r;227658115;24247;10004832;11;31
+r;264448343;24247;10596696;11;31
+r;264449471;24247;10596407;11;31
+r;277040095;24247;10970344;11;31
+r;279999093;24247;11055951;11;31
+r;110205396;24247;5564713;11;32
+r;110718818;24247;5623126;11;32
+r;113760608;24247;5829252;11;32
+r;115865938;24247;5910189;11;32
+r;121512587;24247;6441726;11;32
+r;276019756;24247;10955277;11;32
+r;263701513;24247;10579229;11;32
+r;263707249;24247;10577231;11;32
+r;279999242;24247;11055949;11;32
+r;280289062;24247;11033505;11;32
+r;302402354;24247;11776890;11;32
+r;305341205;24247;11823907;11;32
+r;122717359;24247;6427230;11;33
+r;227614930;24247;10037225;11;33
+r;227614937;24247;10037222;11;33
+r;227626504;24247;10033460;11;33
+r;227626510;24247;10033459;11;33
+r;276014669;24247;10958199;11;33
+r;275683721;24247;10942364;11;33
+r;263706769;24247;10577381;11;33
+r;276643190;24247;10959273;11;33
+r;272525527;24247;10864466;11;33
+r;276014489;24247;10958231;11;33
+r;275683711;24247;10942365;11;33
+r;277736872;24247;10992679;11;33
+r;280421892;24247;11063429;11;33
+r;280508696;24247;11065416;11;33
+r;280599456;24247;11069916;11;33
+r;280599891;24247;11069910;11;33
+r;280612374;24247;11070063;11;33
+r;280670489;24247;11071053;11;33
+r;283110846;24247;11080603;11;33
+r;291072075;24247;11354000;11;33
+r;293017189;24247;11405350;11;33
+r;293018341;24247;11405378;11;33
+r;302984497;24247;11786436;11;33
+r;30033137;24247;1839034;11;34
+r;115842929;24247;5920385;11;34
+r;116574121;24247;5961735;11;34
+r;275824556;24247;10953732;11;34
+r;272525515;24247;10864468;11;34
+r;275361594;24247;10936590;11;34
+r;279319669;24247;11022865;11;34
+r;283110841;24247;11080604;11;34
+r;293006256;24247;11404320;11;34
+r;314258761;24247;12071009;11;34
+r;314269005;24247;12071198;11;34
+r;315125327;24247;12076532;11;34
+r;29931537;24247;1828829;11;35
+r;111334088;24247;5673921;11;35
+r;112660718;24247;5778291;11;35
+r;116313305;24247;5942422;11;35
+r;118931327;24247;6066356;11;35
+r;243755644;24247;10196961;11;35
+r;270945479;24247;10836938;11;35
+r;271592185;24247;10842090;11;35
+r;272514311;24247;10867912;11;35
+r;272514315;24247;10867911;11;35
+r;274961620;24247;10929889;11;35
+r;274962341;24247;10929770;11;35
+r;275103789;24247;10934086;11;35
+r;279211111;24247;11021755;11;35
+r;295154624;24247;11455682;11;35
+r;299676392;24247;11694083;11;35
+r;305867663;24247;11831003;11;35
+r;313973050;24247;12067046;11;35
+r;313973079;24247;12067045;11;35
+r;315116166;24247;12079793;11;35
+r;315116780;24247;12079676;11;35
+r;112660733;24247;5778247;11;36
+r;112660755;24247;5778242;11;36
+r;252663678;24247;10316411;11;36
+r;252674284;24247;10313164;11;36
+r;252674366;24247;10313143;11;36
+r;253392448;24247;10328222;11;36
+r;271581983;24247;10844640;11;36
+r;291604006;24247;11362542;11;36
+r;313456873;24247;12034073;11;36
+r;313697819;24247;12050454;11;36
+r;313763019;24247;12051605;11;36
+r;313763029;24247;12051604;11;36
+r;313763035;24247;12051603;11;36
+r;313763055;24247;12051599;11;36
+r;313764481;24247;12051313;11;36
+r;315094313;24247;12077531;11;36
+r;315097056;24247;12077707;11;36
+r;315099508;24247;12077708;11;36
+r;315102252;24247;12078010;11;36
+r;315108236;24247;12081310;11;36
+r;315108241;24247;12081309;11;36
+r;315108250;24247;12081308;11;36
+r;420432270;24247;16110633;11;36
+r;116313316;24247;5942421;11;37
+r;270209978;24247;10792217;11;37
+r;281419360;24247;11095811;11;37
+r;295305247;24247;11500903;11;37
+r;312934585;24247;12006581;11;37
+r;313726837;24247;12051333;11;37
+r;313727612;24247;12051332;11;37
+r;112174881;24247;5712781;11;38
+r;269537533;24247;10773450;11;38
+r;269537475;24247;10773460;11;38
+r;228981337;24247;10056897;11;38
+r;270205791;24247;10821556;11;38
+r;306771679;24247;11840864;11;38
+r;313761771;24247;12052463;11;38
+r;419102794;24247;16073209;11;38
+r;419103168;24247;16073319;11;38
+r;121397481;24247;6528892;11;39
+r;242358020;24247;10192322;11;39
+r;289292566;24247;11302119;11;39
+r;291812634;24247;11364209;11;39
+r;313761372;24247;12053140;11;39
+r;121051630;24247;6449553;11;40
+r;121442878;24247;6527442;11;40
+r;262894042;24247;10546941;11;40
+r;288254706;24247;11250856;11;40
+r;292028783;24247;11382690;11;40
+r;292896145;24247;11400129;11;40
+r;55066957;24247;2433684;11;41
+r;232076487;24247;10074182;11;41
+r;262050848;24247;10507623;11;41
+r;269406987;24247;10763446;11;41
+r;287736200;24247;11222048;11;41
+r;289661015;24247;11305329;11;41
+r;291799468;24247;11373074;11;41
+r;291799840;24247;11372719;11;41
+r;292106850;24247;11384192;11;41
+r;298027898;24247;11615687;11;41
+r;419102079;24247;16073078;11;41
+r;109877111;24247;5558000;11;42
+r;233025439;24247;10092490;11;42
+r;234741627;24247;10118849;11;42
+r;261016907;24247;10459546;11;42
+r;278847092;24247;11010656;11;42
+r;283656515;24247;11154602;11;42
+r;286062435;24247;11176094;11;42
+r;287140496;24247;11199400;11;42
+r;287666657;24247;11219950;11;42
+r;288439692;24247;11254174;11;42
+r;291739375;24247;11373215;11;42
+r;291751035;24247;11373448;11;42
+r;419100930;24247;16072825;11;42
+r;419101372;24247;16072914;11;42
+r;52212077;24247;2375011;11;43
+r;109662972;24247;5537619;11;43
+r;112171847;24247;5715552;11;43
+r;112172232;24247;5715293;11;43
+r;116950178;24247;5968748;11;43
+r;118538724;24247;6001380;11;43
+r;121442888;24247;6527441;11;43
+r;122095269;24247;6594546;11;43
+r;281742495;24247;11103922;11;43
+r;283624543;24247;11154601;11;43
+r;289932578;24247;11317347;11;43
+r;53462677;24247;2402482;11;44
+r;55530473;24247;2452951;11;44
+r;117874054;24247;5989312;11;44
+r;117897522;24247;5984149;11;44
+r;117898047;24247;5984038;11;44
+r;118930240;24247;6066645;11;44
+r;238104370;24247;10159679;11;44
+r;118931335;24247;6066354;11;45
+r;121442868;24247;6527443;11;45
+r;236659406;24247;10143182;11;45
+r;256582048;24247;10443216;11;46
+r;256659543;24247;10443527;11;46
+r;108926523;24247;5520132;11;47
+r;256659532;24247;10443528;11;47
+r;327684423;24247;12771238;11;47
+r;393996895;24247;13998380;11;47
+r;117890940;24247;5985524;11;48
+r;121442863;24247;6527444;11;49
+r;54260828;24247;2411871;11;50
+r;191717367;24247;8885151;11;50
+r;190361061;24247;8855112;11;50
+r;190764657;24247;8872364;11;50
+r;197292197;24247;9050661;11;50
+r;213741477;24247;9448058;11;50
+r;282680466;24247;11128573;11;50
+r;282745844;24247;11130100;11;50
+r;321080076;24247;12489218;11;50
+r;327321206;24247;12730404;11;50
+r;327887759;24247;12772502;11;50
+r;348170999;24247;13730172;11;50
+r;365565984;24247;14388264;11;50
+r;371279271;24247;14610331;11;50
+r;371653869;24247;14629641;11;50
+r;371656667;24247;14629629;11;50
+r;371660792;24247;14629633;11;50
+r;371689301;24247;14629628;11;50
+r;402112143;24247;15338795;11;50
+r;402112721;24247;15409916;11;50
+r;392223651;24247;15016770;11;50
+r;397423920;24247;15385746;11;50
+r;418897903;24247;16071954;11;50
+r;418897932;24247;16071960;11;50
+r;418898375;24247;16072069;11;50
+r;418899302;24247;16072265;11;50
+r;418901024;24247;16072541;11;50
+r;418901307;24247;16072591;11;50
+r;425304507;24247;16181650;11;50
+r;426959396;24247;16276368;11;50
+r;16299377;24247;462320;11;51
+r;61460569;24247;2678230;11;51
+r;83672413;24247;3319283;11;51
+r;16163483;24247;460941;11;52
+r;109407945;24247;5526202;11;52
+r;16921985;24247;566236;11;53
+r;17811641;24247;575241;11;53
+r;18722514;24247;598074;11;53
+r;18722884;24247;598076;11;53
+r;20715150;24247;966335;11;53
+r;34268184;24247;2338307;11;53
+r;52451949;24247;2551636;11;53
+r;52465665;24247;2523023;11;53
+r;54423117;24247;2587633;11;53
+r;83660413;24247;3321662;11;53
+r;104348334;24247;5002317;11;53
+r;108349539;24247;5516873;11;53
+r;34509070;24247;2345263;11;54
+r;52449660;24247;2556385;11;54
+r;52508277;24247;2528329;11;54
+r;68371143;24247;2804182;11;54
+r;72614284;24247;2949229;11;54
+r;83664812;24247;3320793;11;54
+r;108869799;24247;5519371;11;54
+r;121916619;24247;6531632;11;54
+r;17698218;24247;571928;11;55
+r;29875387;24247;1847207;11;55
+r;31861119;24247;1974621;11;55
+r;55565513;24247;2606444;11;55
+r;61460562;24247;2678231;11;55
+r;83445098;24247;3314015;11;55
+r;108426426;24247;5517399;11;55
+r;18101702;24247;579666;11;56
+r;29887503;24247;1844546;11;56
+r;18511511;24247;589857;11;57
+r;18595844;24247;592794;11;57
+r;29887495;24247;1844547;11;57
+r;83659753;24247;3321811;11;57
+r;16326548;24247;462705;11;58
+r;25323921;24247;1572527;11;58
+r;29133927;24247;1773373;11;58
+r;32522243;24247;2105511;11;58
+r;68371149;24247;2804181;11;58
+r;105821352;24247;5126306;11;58
+r;108404857;24247;5517400;11;58
+r;14689754;24247;437260;11;59
+r;16163479;24247;460942;11;59
+r;18494691;24247;589334;11;59
+r;18724570;24247;598061;11;59
+r;29887477;24247;1844550;11;59
+r;47636278;24247;2355746;11;59
+r;83672409;24247;3319284;11;59
+r;21014968;24247;1012448;11;60
+r;28841957;24247;1753508;11;60
+r;71589523;24247;2923721;11;60
+r;74945536;24247;3069165;11;60
+r;83665382;24247;3320698;11;60
+r;86152102;24247;3369605;11;60
+r;29887483;24247;1844549;11;61
+r;76241513;24247;3170517;11;61
+r;30090889;24247;1858910;11;62
+r;76291427;24247;3171633;11;63
+r;29419938;24247;1794466;11;64
+r;71715245;24247;2926221;11;64
+r;29887489;24247;1844548;11;65
+r;76372742;24247;3173403;11;65
+r;76302076;24247;3171796;11;66
+r;29433584;24247;1796385;11;67
+r;70254052;24247;2861699;11;68
+r;12583373;24247;379526;11;101
+r;12583423;24247;379515;11;101
+r;12583439;24247;379513;11;101
+r;12583467;24247;379508;11;101
+r;12583495;24247;379503;11;101
+r;12583531;24247;379497;11;101
+r;12583781;24247;379445;11;101
+r;12583809;24247;379438;11;101
+r;12589733;24247;378029;11;101
+r;12614767;24247;371845;11;101
+r;12614847;24247;371827;11;101
+r;12668289;24247;358638;11;101
+r;12668335;24247;358626;11;101
+r;12725521;24247;344736;11;101
+r;13348324;24247;393301;11;101
+r;12545585;24247;389083;11;102
+r;12570573;24247;382744;11;102
+r;12583475;24247;379507;11;102
+r;12583627;24247;379480;11;102
+r;12583655;24247;379473;11;102
+r;12583695;24247;379463;11;102
+r;12583749;24247;379452;11;102
+r;12623383;24247;369792;11;102
+r;12634511;24247;366919;11;102
+r;12671939;24247;357731;11;102
+r;12752479;24247;338291;11;102
+r;12755625;24247;337502;11;102
+r;12583541;24247;379496;11;103
+r;12583553;24247;379494;11;103
+r;12583601;24247;379485;11;103
+r;12583605;24247;379484;11;103
+r;12583725;24247;379457;11;103
+r;12583737;24247;379454;11;103
+r;12583777;24247;379446;11;103
+r;12583789;24247;379443;11;103
+r;12583825;24247;379434;11;103
+r;12610683;24247;372868;11;103
+r;12621871;24247;370135;11;103
+r;12633371;24247;367208;11;103
+r;12686597;24247;354148;11;103
+r;12734895;24247;342486;11;103
+r;12763605;24247;335532;11;103
+r;12551927;24247;387362;11;104
+r;12583327;24247;379539;11;104
+r;12583357;24247;379531;11;104
+r;12583399;24247;379520;11;104
+r;12583481;24247;379506;11;104
+r;12583499;24247;379502;11;104
+r;12583523;24247;379498;11;104
+r;12583549;24247;379495;11;104
+r;12583581;24247;379489;11;104
+r;12583597;24247;379486;11;104
+r;12583609;24247;379483;11;104
+r;12583635;24247;379478;11;104
+r;12583659;24247;379472;11;104
+r;12583671;24247;379469;11;104
+r;12583679;24247;379467;11;104
+r;12583705;24247;379461;11;104
+r;12583721;24247;379458;11;104
+r;12583741;24247;379453;11;104
+r;12583757;24247;379450;11;104
+r;12583817;24247;379436;11;104
+r;12689083;24247;353538;11;104
+r;12712517;24247;347707;11;104
+r;12719801;24247;346153;11;104
+r;12544881;24247;389270;11;105
+r;12568345;24247;383301;11;105
+r;12583349;24247;379533;11;105
+r;12583353;24247;379532;11;105
+r;12583489;24247;379504;11;105
+r;12583557;24247;379493;11;105
+r;12583613;24247;379482;11;105
+r;12583663;24247;379471;11;105
+r;12583675;24247;379468;11;105
+r;12583729;24247;379456;11;105
+r;12623313;24247;369806;11;105
+r;12670685;24247;358035;11;105
+r;12694557;24247;352184;11;105
+r;12746841;24247;339640;11;105
+r;12770039;24247;333910;11;105
+r;12583395;24247;379521;11;106
+r;12583415;24247;379517;11;106
+r;12583431;24247;379514;11;106
+r;12583503;24247;379501;11;106
+r;12583511;24247;379500;11;106
+r;12583593;24247;379487;11;106
+r;12583639;24247;379477;11;106
+r;12583647;24247;379475;11;106
+r;12583765;24247;379448;11;106
+r;12598109;24247;375950;11;106
+r;12611299;24247;372724;11;106
+r;12714521;24247;347218;11;106
+r;12583341;24247;379535;11;107
+r;12583385;24247;379523;11;107
+r;12583409;24247;379518;11;107
+r;12583623;24247;379481;11;107
+r;12583631;24247;379479;11;107
+r;12583667;24247;379470;11;107
+r;12583683;24247;379466;11;107
+r;12583691;24247;379464;11;107
+r;12583761;24247;379449;11;107
+r;12583785;24247;379444;11;107
+r;12583795;24247;379442;11;107
+r;12583803;24247;379440;11;107
+r;12583813;24247;379437;11;107
+r;12633323;24247;367219;11;107
+r;12697713;24247;351398;11;107
+r;12701373;24247;350469;11;107
+r;12733559;24247;342794;11;107
+r;12761539;24247;336026;11;107
+r;12767927;24247;334443;11;107
+r;12583345;24247;379534;11;108
+r;12583361;24247;379530;11;108
+r;12583405;24247;379519;11;108
+r;12583457;24247;379510;11;108
+r;12583485;24247;379505;11;108
+r;12583515;24247;379499;11;108
+r;12583561;24247;379492;11;108
+r;12583565;24247;379491;11;108
+r;12583573;24247;379490;11;108
+r;12583699;24247;379462;11;108
+r;12583709;24247;379460;11;108
+r;12583753;24247;379451;11;108
+r;12583821;24247;379435;11;108
+r;12589283;24247;378143;11;108
+r;12686187;24247;354247;11;108
+r;12375405;24247;332452;11;109
+r;12583419;24247;379516;11;109
+r;12583443;24247;379512;11;109
+r;12583451;24247;379511;11;109
+r;12583643;24247;379476;11;109
+r;12583733;24247;379455;11;109
+r;12583799;24247;379441;11;109
+r;12583805;24247;379439;11;109
+r;12626101;24247;369128;11;109
+r;12748757;24247;339199;11;109
+r;12583461;24247;379509;11;110
+r;12583589;24247;379488;11;110
+r;12583651;24247;379474;11;110
+r;12583687;24247;379465;11;110
+r;12583717;24247;379459;11;110
+r;12583771;24247;379447;11;110
+r;12592957;24247;377251;11;110
+r;12634519;24247;366918;11;110
+r;12657805;24247;361221;11;110
+r;12697707;24247;351399;11;110
+r;11877298;24247;5771;11;121
+r;11877959;24247;579;11;121
+r;11852261;24247;222920;11;122
+r;11861404;24247;115073;11;122
+r;9015204;24247;318874;11;148
+r;9069582;24247;321430;11;148
+r;9283245;24247;323589;11;148
+r;10740024;24247;325511;11;148
+r;11495171;24247;326517;11;148
+r;8880682;24247;239760;11;151
+r;8921393;24247;317157;11;151
+r;8818350;24247;313971;11;159
+r;8695363;24247;225065;11;160
+r;8699305;24247;230773;11;160
+r;8703216;24247;235637;11;160
+r;8709846;24247;246081;11;160
+r;8730664;24247;263482;11;160
+r;8611260;24247;119669;11;161
+r;8629033;24247;164500;11;161
+r;8630810;24247;167017;11;161
+r;8687788;24247;212290;11;161
+r;8691378;24247;219070;11;161
+r;8693918;24247;222673;11;161
+r;8699257;24247;230720;11;161
+r;8699478;24247;230948;11;161
+r;8700041;24247;231671;11;161
+r;8700182;24247;231768;11;161
+r;8700545;24247;232102;11;161
+r;8700822;24247;232353;11;161
+r;8702004;24247;234371;11;161
+r;8702049;24247;234452;11;161
+r;8703436;24247;235864;11;161
+r;8703446;24247;235869;11;161
+r;8703525;24247;236012;11;161
+r;8704442;24247;237045;11;161
+r;8704825;24247;237500;11;161
+r;8704932;24247;237668;11;161
+r;8709603;24247;245778;11;161
+r;8710132;24247;246541;11;161
+r;8711424;24247;248031;11;161
+r;8711797;24247;248420;11;161
+r;8712866;24247;249584;11;161
+r;8713901;24247;250529;11;161
+r;8715576;24247;252008;11;161
+r;8716093;24247;252482;11;161
+r;8716402;24247;252803;11;161
+r;8718067;24247;254190;11;161
+r;8718830;24247;254699;11;161
+r;8719130;24247;254919;11;161
+r;8719548;24247;255246;11;161
+r;8720586;24247;256005;11;161
+r;8723980;24247;258390;11;161
+r;8726751;24247;260295;11;161
+r;8727883;24247;261187;11;161
+r;8728908;24247;262096;11;161
+r;8728941;24247;262121;11;161
+r;8811860;24247;313673;11;161
+r;8585928;24247;47705;11;162
+r;8591170;24247;62433;11;162
+r;8611476;24247;120250;11;162
+r;8627545;24247;161618;11;162
+r;8627634;24247;161822;11;162
+r;8632101;24247;169652;11;162
+r;8672530;24247;202801;11;162
+r;8681446;24247;208153;11;162
+r;8681447;24247;208154;11;162
+r;8681450;24247;208155;11;162
+r;8681451;24247;208156;11;162
+r;8681453;24247;208157;11;162
+r;8681454;24247;208158;11;162
+r;8681456;24247;208159;11;162
+r;8681458;24247;208160;11;162
+r;8681459;24247;208161;11;162
+r;8681461;24247;208162;11;162
+r;8681463;24247;208163;11;162
+r;8681465;24247;208164;11;162
+r;8687325;24247;211924;11;162
+r;8687326;24247;211925;11;162
+r;8687328;24247;211926;11;162
+r;8688194;24247;212704;11;162
+r;8689371;24247;214495;11;162
+r;8689406;24247;214564;11;162
+r;8739305;24247;271801;11;162
+r;8760991;24247;293365;11;162
+r;8580990;24247;33278;11;163
+r;8585138;24247;45467;11;163
+r;8585429;24247;46293;11;163
+r;8597405;24247;81001;11;163
+r;8600246;24247;89016;11;163
+r;8601399;24247;92197;11;163
+r;8602866;24247;96492;11;163
+r;8614595;24247;129059;11;163
+r;8615323;24247;131110;11;163
+r;8623497;24247;153721;11;163
+r;8625942;24247;158802;11;163
+r;8626286;24247;159377;11;163
+r;8635852;24247;177418;11;163
+r;8638787;24247;181683;11;163
+r;8643179;24247;184261;11;163
+r;8643181;24247;184262;11;163
+r;8643184;24247;184263;11;163
+r;8643186;24247;184264;11;163
+r;8643188;24247;184265;11;163
+r;8643190;24247;184266;11;163
+r;8643193;24247;184267;11;163
+r;8643196;24247;184268;11;163
+r;8643198;24247;184269;11;163
+r;8643200;24247;184270;11;163
+r;8643201;24247;184271;11;163
+r;8643204;24247;184272;11;163
+r;8643206;24247;184273;11;163
+r;8643208;24247;184274;11;163
+r;8643279;24247;184314;11;163
+r;8677618;24247;205883;11;163
+r;8732200;24247;264629;11;163
+r;8733164;24247;265516;11;163
+r;8735977;24247;268111;11;163
+r;8736478;24247;268664;11;163
+r;8737213;24247;269543;11;163
+r;8738343;24247;270820;11;163
+r;8747181;24247;279729;11;163
+r;8747866;24247;280457;11;163
+r;8748097;24247;280695;11;163
+r;8748466;24247;281092;11;163
+r;8751688;24247;284499;11;163
+r;8751768;24247;284561;11;163
+r;8753440;24247;286208;11;163
+r;8754701;24247;287133;11;163
+r;8763897;24247;296859;11;163
+r;8774068;24247;308320;11;163
+r;8775711;24247;309841;11;163
+r;8776786;24247;310874;11;163
+r;8781758;24247;313056;11;163
+r;8579566;24247;28875;11;164
+r;8617231;24247;136365;11;164
+r;8648551;24247;187550;11;164
+r;8652535;24247;190273;11;164
+r;8659672;24247;195136;11;164
+r;8776730;24247;310823;11;164
+r;8777860;24247;311763;11;164
+r;8778058;24247;311901;11;164
+r;8778882;24247;312571;11;164
+r;8575745;24247;17489;11;165
+r;8571206;24247;3781;11;168
+r;8573576;24247;10897;11;168
+r;8591369;24247;63031;11;299

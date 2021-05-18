@@ -1,0 +1,122 @@
+
+e;399607;'modernes';1;50
+e;14566874;'barre des navires modernes';777;0
+e;14573771;'caractères modernes';777;0
+e;14657343;'Localisation des éditions des Jeux olympiques modernes';777;0
+e;16269049;'les traductions de livres modernes dans une langue ancienne';777;0
+e;16366304;'Éditions modernes';777;0
+e;16437351;'marchés financiers modernes';777;0
+e;16508317;'flottes de combat modernes';1;0
+e;16496658;'marbres modernes';777;0
+e;15025964;'agrégée de lettres modernes';1;0
+e;15016480;'Sources modernes';777;0
+e;15020281;'architectures modernes';1;0
+e;10664855;'Union des artistes modernes';777;0
+e;5794023;'variantes modernes de la langue chinoise';777;0
+e;15476193;'des méthodes d'enseignement modernes';1;0
+e;5828693;'Inventions modernes';777;0
+e;10032452;'Les Samouraïs des temps modernes';777;0
+e;5835489;'Hybrides modernes';777;0
+e;11406408;'Cinq nôs modernes';777;0
+e;11083163;'Dictionnaire des arts plastiques modernes et contemporains';777;0
+e;16377008;'Les premiers Hommes modernes en Europe';777;0
+e;16365051;'agrégation de lettres modernes';777;0
+e;15264971;'adoption des valeurs modernes';1;0
+e;15787068;'amplificateurs à transistors modernes';777;0
+e;11361113;'hybridation entre les humains archaïques et modernes';777;0
+e;11839869;'sociétés modernes';777;0
+e;10083700;'exposition internationale des Arts décoratifs et industriels modernes';777;0
+e;5553519;'Mathématiques modernes';777;0
+e;10032453;'Yamakasi - Les 7 samouraïs des temps modernes';777;0
+e;10458215;'Amis modernes';777;0
+e;11388221;'modernes classiques';777;0
+e;13300809;'comportement modernes';1;0
+e;14008177;'Comptoirs modernes';777;0
+e;6001234;'Le développement des ordinateurs modernes';777;0
+e;5565173;'Dictionnaire pratique et raisonné des instruments de musique anciens et modernes de A. Jacquot - 1886';777;0
+e;12626502;'Jeux olympiques modernes';777;0
+e;12675728;'limules modernes';777;0
+e;14629717;'Couchés modernes';777;0
+e;334442;'agrégé de lettres modernes';1;50
+e;208863;'temps modernes';1;50
+e;162292;'les temps modernes';1;50
+e;68239;'Les Temps modernes';1;50
+e;198304;'danses modernes';1;50
+e;1467;'Temps modernes';1;50
+e;373540;'professeur de lettres modernes';1;50
+e;273745;'Les pays celtiques modernes';777;50
+e;144278;'Les Peintres modernes';1;50
+e;141818;'Atlas ethnographique du globe ou Classification des peuples anciens et modernes d'après leur langue';1;50
+e;52600;'Cinq Nô modernes';1;50
+e;586461;'Jeux delphiques modernes';777;0
+e;365451;'moyens de communication modernes';1;50
+e;253900;'lettres modernes';1;6
+e;55356;'les Peintres modernes';1;50
+e;365447;'moyens contraceptifs modernes';1;50
+e;203480;'mathématiques modernes';1;50
+e;136840;'Traité d'instrumentation et d'orchestration modernes';1;50
+e;64494;'Euclide et ses rivaux modernes';1;50
+e;30474;'Peintres modernes';1;50
+e;1922066;'armes modernes';1;56
+e;3228751;'langues sudarabiques modernes';1;0
+e;5141663;'querelle des anciens et des modernes';1;0
+r;370283563;399607;14566874;11;25
+r;370465607;399607;14573771;11;25
+r;372937934;399607;14657343;11;25
+r;426839671;399607;16269049;11;25
+r;432182774;399607;16366304;11;25
+r;433494951;399607;16437351;11;25
+r;434173690;399607;16508317;11;25
+r;434179888;399607;16496658;11;25
+r;392493762;399607;15025964;11;26
+r;392229671;399607;15016480;11;26
+r;392354356;399607;15020281;11;26
+r;267325542;399607;10664855;11;27
+r;114452980;399607;5794023;11;28
+r;419774876;399607;15476193;11;30
+r;113762723;399607;5828693;11;31
+r;227630112;399607;10032452;11;32
+r;114024765;399607;5835489;11;33
+r;293135079;399607;11406408;11;33
+r;281194939;399607;11083163;11;34
+r;434349584;399607;16377008;11;34
+r;432136031;399607;16365051;11;34
+r;419578387;399607;15264971;11;34
+r;419592046;399607;15787068;11;34
+r;291596131;399607;11361113;11;36
+r;306689045;399607;11839869;11;37
+r;232466991;399607;10083700;11;41
+r;109887002;399607;5553519;11;42
+r;227630100;399607;10032453;11;42
+r;258746619;399607;10458215;11;42
+r;292392532;399607;11388221;11;43
+r;338931703;399607;13300809;11;44
+r;353473590;399607;14008177;11;45
+r;118539210;399607;6001234;11;47
+r;110204336;399607;5565173;11;50
+r;323228039;399607;12626502;11;50
+r;324931727;399607;12675728;11;50
+r;371658084;399607;14629717;11;50
+r;14215922;399607;334442;11;51
+r;14278049;399607;208863;11;51
+r;14291943;399607;162292;11;51
+r;14314477;399607;68239;11;51
+r;14280551;399607;198304;11;52
+r;14331009;399607;1467;11;52
+r;14209065;399607;373540;11;53
+r;14260847;399607;273745;11;54
+r;14293425;399607;144278;11;54
+r;14294263;399607;141818;11;54
+r;14318239;399607;52600;11;57
+r;18406123;399607;586461;11;57
+r;14210428;399607;365451;11;58
+r;14267061;399607;253900;11;58
+r;14317609;399607;55356;11;58
+r;14210432;399607;365447;11;59
+r;14279285;399607;203480;11;59
+r;14296657;399607;136840;11;59
+r;14315353;399607;64494;11;59
+r;14323897;399607;30474;11;60
+r;31118865;399607;1922066;11;60
+r;77834034;399607;3228751;11;60
+r;105903357;399607;5141663;11;60

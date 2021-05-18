@@ -1,0 +1,182 @@
+
+e;95364;'nettoyage';1;556
+e;6296706;'nettoyage de site pollué';1;0
+e;6307718;'tonte et nettoyage d'un site de plaie';1;0
+e;6307747;'nettoyage du pénis d'un animal';1;0
+e;6347937;'solutions de nettoyage des lentilles de contact';1;0
+e;6402903;'opératrice de machine de nettoyage à sec';1;0
+e;6394154;'nettoyage dentaire';1;0
+e;14326508;'nettoyage du linge';1;0
+e;14570979;'ustensiles de nettoyage';1;0
+e;14639255;'kit de nettoyage';1;0
+e;14669215;'nettoyage de plaies';1;0
+e;14669214;'nettoyage des plaies';1;0
+e;6413489;'agent de nettoyage à sec';1;0
+e;6339779;'nettoyage d'une plaie';1;0
+e;6368052;'produits de nettoyage pour dentiers';1;0
+e;6368870;'nettoyage à la curette';1;0
+e;6401813;'produits de nettoyage des lentilles de contact';1;0
+e;6291125;'nettoyage chirurgical de plaie cutanée';1;0
+e;14729552;'nettoyage des chiottes';1;2
+e;14734952;'nettoyage des égoûts';1;0
+e;14885049;'nettoyage de la plaie';1;2
+e;6293281;'nettoyage environnemental';1;0
+e;6434146;'sensibilité à l'eau de javel et aux produits de nettoyage';1;0
+e;11057674;'équipe de nettoyage';1;2
+e;15520809;'dispositif de nettoyage par jet d'air';1;0
+e;15398645;'disquette de nettoyage de tête';1;0
+e;15476402;'dégraissage et nettoyage à sec';1;0
+e;6436872;'nettoyage d'adhérences nasales postérieures';1;0
+e;10598139;'appareil de nettoyage';1;0
+e;6422492;'aspiration et nettoyage d'un canule de trachéotomie';1;0
+e;15288856;'aptitude au nettoyage';1;0
+e;15317819;'agent de nettoyage';1;0
+e;1839695;'nettoyage de peau';1;0
+e;5807040;'nettoyage à ultrasons';777;0
+e;6428408;'produits de nettoyage pour appareils de prothèse dentaire';1;0
+e;12048830;'appliquer des normes d'hygiène personnelle lors d'opérations de nettoyage';1;0
+e;12048832;'entretenir des équipements de nettoyage';1;0
+e;12048836;'maintenir des stocks de fournitures de nettoyage';1;0
+e;12048808;'manipuler les produits chimiques de nettoyage';1;0
+e;12048851;'mener des opérations de nettoyage haute pression';1;0
+e;12048850;'mener des opérations de nettoyage en extérieur';1;0
+e;12080125;'nettoyage par le ressac';1;0
+e;12005885;'nettoyage cryogénique';777;0
+e;12049718;'inspecter des articles destinés au nettoyage à sec';1;0
+e;12050495;'agent de nettoyage des extérieurs des bâtiments';1;0
+e;12050496;'agente de nettoyage des extérieurs des bâtiments';1;0
+e;12050950;'agent de nettoyage avion';1;0
+e;12050951;'agente de nettoyage avion';1;0
+e;12051575;'suivre des consignes d'organisation dans le secteur du nettoyage';1;0
+e;12051571;'mener des opérations de nettoyage dans le respect de l'environnement';1;0
+e;12051350;'superviser le travail du personnel de nettoyage';1;0
+e;6448652;'nettoyage de l'environnement';1;0
+e;12051294;'gérer les activités de nettoyage';1;0
+e;12051568;'mesures d'hygiène et de sécurité dans l'industrie du nettoyage';1;0
+e;12051562;'produits de nettoyage';1;0
+e;6435533;'nettoyage de l'enveloppe du pénis d'un taureau';1;0
+e;12051563;'techniques de nettoyage';1;0
+e;12052466;'effectuer des tâches de nettoyage';1;0
+e;12052963;'utiliser une machine de nettoyage de céréales';1;0
+e;12053032;'utiliser une machine de nettoyage de cacao';1;0
+e;12052971;'utiliser une machine de nettoyage des sols';1;0
+e;12053409;'machine de nettoyage de cacao';1;0
+e;12053411;'machine de nettoyage des sols';1;0
+e;12053410;'machine de nettoyage de céréales';1;0
+e;12772165;'matériel de nettoyage';1;0
+e;7648640;'nettoyage urbain';1;0
+e;9448097;'action de nettoyage';1;0
+e;15499428;'Je dois me coltiner le nettoyage des W-C.';1;0
+e;5625029;'station de nettoyage';777;0
+e;3072752;'personnel de nettoyage';1;0
+e;1373807;'nettoyage sisyphéen';1;0
+e;355271;'frais de nettoyage';1;50
+e;379523;'service de nettoyage';1;50
+e;366270;'nettoyage à la vapeur';1;50
+e;367470;'opération de nettoyage';1;50
+e;366271;'nettoyage par le vide';1;50
+e;376853;'robot de nettoyage industriel';1;50
+e;380013;'société de nettoyage';1;54
+e;379476;'service du nettoyage';1;50
+e;384799;'travail de nettoyage';1;50
+e;317358;'nettoyage haute-pression';1;50
+e;242879;'nettoyage ethnique';1;8
+e;251841;'produit de nettoyage';1;52
+e;254596;'entreprise de nettoyage';1;4
+e;164478;'ustensile de nettoyage';1;50
+e;183357;'nettoyage aérodynamique';1;50
+e;204367;'nettoyage de printemps';1;54
+e;201532;'grand nettoyage';1;52
+e;244505;'nettoyage à sec';1;28
+r;298895477;95364;6296706;11;25
+r;299562901;95364;6307718;11;25
+r;299564996;95364;6307747;11;25
+r;301715279;95364;6347937;11;25
+r;305268407;95364;6402903;11;25
+r;341195764;95364;6394154;11;25
+r;364579780;95364;14326508;11;25
+r;370282043;95364;14570979;11;25
+r;372101028;95364;14639255;11;25
+r;372976847;95364;14669215;11;25
+r;372977672;95364;14669214;11;25
+r;401399737;95364;6413489;11;25
+r;301457182;95364;6339779;11;26
+r;302967986;95364;6368052;11;26
+r;302969488;95364;6368870;11;26
+r;305220861;95364;6401813;11;26
+r;319058326;95364;6291125;11;26
+r;374520328;95364;14729552;11;26
+r;374639894;95364;14734952;11;26
+r;386564943;95364;14885049;11;26
+r;298507464;95364;6293281;11;27
+r;121580403;95364;6434146;11;29
+r;280285781;95364;11057674;11;30
+r;419784516;95364;15520809;11;30
+r;419785656;95364;15398645;11;30
+r;419809939;95364;15476402;11;30
+r;121556056;95364;6436872;11;31
+r;264289633;95364;10598139;11;31
+r;122753969;95364;6422492;11;32
+r;419605437;95364;15288856;11;33
+r;419581493;95364;15317819;11;34
+r;30037978;95364;1839695;11;35
+r;113290795;95364;5807040;11;35
+r;122708069;95364;6428408;11;35
+r;313621842;95364;12048830;11;35
+r;313623511;95364;12048832;11;35
+r;313623744;95364;12048836;11;35
+r;313625030;95364;12048808;11;35
+r;313626099;95364;12048851;11;35
+r;313627296;95364;12048850;11;35
+r;315114432;95364;12080125;11;35
+r;312893426;95364;12005885;11;36
+r;313669446;95364;12049718;11;36
+r;313694181;95364;12050495;11;36
+r;313694208;95364;12050652;11;36
+r;313694231;95364;12050653;11;36
+r;313701994;95364;12050496;11;36
+r;313702020;95364;12050848;11;36
+r;313702033;95364;12050849;11;36
+r;313713750;95364;12050950;11;36
+r;313713329;95364;12050951;11;36
+r;313763171;95364;12051575;11;36
+r;313763205;95364;12051571;11;36
+r;313764240;95364;12051350;11;36
+r;121059742;95364;6448652;11;37
+r;313728097;95364;12051294;11;37
+r;313731153;95364;12051568;11;37
+r;313735655;95364;12051562;11;37
+r;121567958;95364;6435533;11;38
+r;313728379;95364;12051563;11;38
+r;313761751;95364;12052466;11;38
+r;313738770;95364;12052963;11;40
+r;313739820;95364;12053032;11;40
+r;313740799;95364;12052971;11;40
+r;313747192;95364;12053409;11;41
+r;313747318;95364;12053411;11;41
+r;313751111;95364;12053410;11;41
+r;327712058;95364;12772165;11;49
+r;125600079;95364;7648640;11;50
+r;213743186;95364;9448097;11;50
+r;402153970;95364;15499428;11;50
+r;110806574;95364;5625029;11;51
+r;75216937;95364;3072752;11;55
+r;23342446;95364;1373807;11;59
+r;12682065;95364;355271;11;101
+r;12583387;95364;379523;11;102
+r;12637143;95364;366270;11;102
+r;12632351;95364;367470;11;103
+r;12637139;95364;366271;11;103
+r;12594541;95364;376853;11;104
+r;12581387;95364;380013;11;106
+r;12583645;95364;379476;11;109
+r;12562241;95364;384799;11;110
+r;8921544;95364;317358;11;151
+r;8707914;95364;242879;11;161
+r;8715441;95364;251841;11;161
+r;8718687;95364;254596;11;161
+r;8629017;95364;164478;11;162
+r;8641661;95364;183357;11;163
+r;8675268;95364;204367;11;163
+r;8670524;95364;201532;11;164
+r;2114327;95364;244505;11;182

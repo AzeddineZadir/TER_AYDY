@@ -1,0 +1,170 @@
+
+e;112386;'sachet';1;280
+e;14273037;'sachet de caramels';1;0
+e;14538286;'sachet de cannabis';1;8
+e;6356917;'sachet froid';1;0
+e;3756943;'sachets de fixe chantilly';1;0
+e;15228053;'du potage en sachet';1;0
+e;5912072;'soupe en sachet';1;0
+e;5919079;'sachet sous vide';777;0
+e;5912076;'sauce en sachet';1;0
+e;8387546;'en sachet';1;0
+e;5992644;'sachet à odeurs';777;0
+e;3321636;'sachet à fond carré';1;0
+e;3759040;'sachet de levure chimique sans gluten';1;0
+e;3757517;'sachet de soupe à l'oignon en poudre';1;0
+e;3756615;'cuillères à café ou un sachet de levure chimique';1;0
+e;3754561;'sachet de colorant jaune alimentaire';1;0
+e;3753233;'sachet de poudre pour flan à la vanille instantané';1;0
+e;3751797;'sachet de café instantané';1;0
+e;2358006;'sachet de sucre vanillé';1;0
+e;3757477;'sachet de chantifix';1;0
+e;3756540;'sachet de caramel';1;0
+e;3756539;'sachet de noix de coco rapée';1;0
+e;3751092;'sachet de levure de boulanger';1;0
+e;3756901;'sachet de pectine';1;0
+e;3756622;'salade verte en sachet';1;0
+e;3752509;'sachet de gressins du commerce';1;0
+e;3758660;'sachet de pépites de chocolat';1;0
+e;3757356;'sachet de soupe instantannée à l'oignon';1;0
+e;3754856;'sachet de fruits des bois surgelés';1;0
+e;3753529;'sachet de levure sèche de boulanger';1;0
+e;3752570;'sachet de levure sèche';1;0
+e;3751948;'sachet de sucre vanillé des Isles Alsa';1;0
+e;3321638;'sachet à maintien vertical';1;0
+e;3751071;'sachet de dragibus';1;0
+e;3758650;'petit sachet de levure chimique';1;0
+e;3758305;'sachet de soupe aux poireaux déshydratée';1;0
+e;3757705;'sachet pour chantilly';1;0
+e;3757516;'sachet de préparation pour crème anglaise';1;0
+e;3755745;'sachet de soupe à l'oignon déshydratée';1;0
+e;3754724;'sachet de salade mélangée';1;0
+e;3753652;'sachet de levure boulangère sèche';1;0
+e;3755755;'sachet de gélatine';1;0
+e;3751349;'sachet de cuisson';1;4
+e;3759154;'jus du sachet de betteraves rouges précuites';1;0
+e;3758655;'sachet de pousses d'épinards';1;0
+e;3754619;'pousses d'épinards en sachet';1;0
+e;3753785;'levure de boulanger ou sachet de levure chimique';1;0
+e;3753643;'bon sachet de levure chimique';1;0
+e;3753379;'cube de levure fraîche ou sachet de levure sèche';1;0
+e;3758332;'cuillère à café à thé de vanille ou sachet de sucre vanillé';1;0
+e;3757691;'sachet de préparation de crème pâtissière';1;0
+e;3753470;'sachet de pousses d'épinards frais';1;0
+e;3753159;'sachet de levure boulangère';1;0
+e;3752470;'sachet de lentilles pré-cuites';1;0
+e;3758996;'sachet de gélatine en poudre';1;0
+e;2358007;'sachet de sucre';1;0
+e;3758156;'sachet de mélange de sauce douce chinoise';1;0
+e;3757781;'sachet levure';1;0
+e;3757670;'sachet de jeunes pousses de salade mélangée';1;0
+e;3754894;'sachet de soupe à la tomate';1;0
+e;3754616;'sachet de chantilly fixe';1;0
+e;3754537;'sachet de levure de boulanger sèche';1;0
+e;3757490;'sachet de sucre vanillé du sucre';1;0
+e;3756938;'sachet de fixe chantilly';1;0
+e;3755675;'sachet de d'épinards surgelés';1;0
+e;3755126;'cube de levure fraîche ou sachet de levure sèche super active';1;0
+e;3753837;'sachet de fixateur à chantilly';1;0
+e;3751949;'sachet de levure chimique Alsa';1;0
+e;3752742;'sachet de gélatine alimentaire';1;0
+e;3321637;'sachet à fond plat';1;0
+e;3751190;'sachet de levure chimique';1;0
+e;3757281;'sachet de levure sèche instantannée';1;0
+e;3753012;'gousse de vanille ou de la vanille en poudre sachet de sucre vanillé';1;0
+e;3752391;'sachet Oseille Cresson Liebig®';1;0
+e;378328;'sachet de café';1;50
+e;378331;'sachet de levure';1;50
+e;381628;'sucre en sachet';1;50
+e;378330;'sachet d'amulettes';1;50
+e;378329;'sachet de potage';1;50
+e;263248;'sachet-repas';1;52
+e;239209;'sachet de thé';1;38
+e;243897;'thé en sachet';1;4
+e;252636;'sachet en plastique';1;50
+e;286144;'soude sachet';777;50
+e;296725;'sachet déshydratant';777;50
+r;363818857;112386;14273037;11;26
+r;369450152;112386;14538286;11;26
+r;301809802;112386;6356917;11;27
+r;93670772;112386;3756943;11;30
+r;419801447;112386;15228053;11;30
+r;115859838;112386;5912072;11;33
+r;115848043;112386;5919079;11;34
+r;115859826;112386;5912076;11;35
+r;141763003;112386;8387546;11;40
+r;117867363;112386;5992644;11;45
+r;83660629;112386;3321636;11;51
+r;93650960;112386;3759040;11;51
+r;93665377;112386;3757517;11;51
+r;93673708;112386;3756615;11;51
+r;93693701;112386;3754561;11;51
+r;93706307;112386;3753233;11;51
+r;93719535;112386;3751797;11;51
+r;50043008;112386;2358006;11;52
+r;93665769;112386;3757477;11;52
+r;93674426;112386;3756540;11;52
+r;93674431;112386;3756539;11;52
+r;93621311;112386;3751092;11;53
+r;93671168;112386;3756901;11;53
+r;93673647;112386;3756622;11;53
+r;93780018;112386;3752509;11;54
+r;93654681;112386;3758660;11;54
+r;93666850;112386;3757356;11;54
+r;93691069;112386;3754856;11;54
+r;93703611;112386;3753529;11;54
+r;93712411;112386;3752570;11;54
+r;93718186;112386;3751948;11;54
+r;83660615;112386;3321638;11;55
+r;93588180;112386;3751071;11;55
+r;93654765;112386;3758650;11;55
+r;93658086;112386;3758305;11;55
+r;93663684;112386;3757705;11;55
+r;93665386;112386;3757516;11;55
+r;93681845;112386;3755745;11;55
+r;93692228;112386;3754724;11;55
+r;93702462;112386;3753652;11;55
+r;93984950;112386;3755755;11;55
+r;93629220;112386;3751349;11;56
+r;93649829;112386;3759154;11;56
+r;93654722;112386;3758655;11;56
+r;93693155;112386;3754619;11;56
+r;93701202;112386;3753785;11;56
+r;93702557;112386;3753643;11;56
+r;93704972;112386;3753379;11;56
+r;93657866;112386;3758332;11;57
+r;93663804;112386;3757691;11;57
+r;93704135;112386;3753470;11;57
+r;93706982;112386;3753159;11;57
+r;93713376;112386;3752470;11;57
+r;93984623;112386;3758996;11;57
+r;50043124;112386;2358007;11;58
+r;93659529;112386;3758156;11;58
+r;93663008;112386;3757781;11;58
+r;93663973;112386;3757670;11;58
+r;93690706;112386;3754894;11;58
+r;93693172;112386;3754616;11;58
+r;93693948;112386;3754537;11;58
+r;93665655;112386;3757490;11;59
+r;93670807;112386;3756938;11;59
+r;93682525;112386;3755675;11;59
+r;93688601;112386;3755126;11;59
+r;93700652;112386;3753837;11;59
+r;93718171;112386;3751949;11;59
+r;93985252;112386;3752742;11;59
+r;83660622;112386;3321637;11;60
+r;93631270;112386;3751190;11;60
+r;93667578;112386;3757281;11;60
+r;93708414;112386;3753012;11;60
+r;93714123;112386;3752391;11;60
+r;12588567;112386;378328;11;101
+r;12588557;112386;378331;11;103
+r;12574801;112386;381628;11;109
+r;12588561;112386;378330;11;110
+r;12588563;112386;378329;11;110
+r;11850439;112386;263248;11;122
+r;8705994;112386;239209;11;161
+r;8708340;112386;243897;11;161
+r;8716258;112386;252636;11;161
+r;8753371;112386;286144;11;163
+r;8763780;112386;296725;11;163

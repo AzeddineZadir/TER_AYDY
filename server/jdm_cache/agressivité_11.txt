@@ -1,0 +1,22 @@
+
+e;72998;'agressivité';1;416
+e;6349345;'agressivité impulsive';1;0
+e;6441207;'agressivité chez l'enfant';1;0
+e;15240486;'agressivité dans les supermarchés';1;0
+e;15240483;'agressivité sur les parkings';1;0
+e;1826972;'agressivité et criminologie';1;0
+e;5634537;'agressivité chez les animaux';777;0
+e;12537079;'agressivité au volant';1;0
+e;1849722;'cycle d'agressivité';1;0
+e;334413;'agressivité instrumentale';1;50
+e;251907;'agressivité verbale';1;20
+r;301724665;72998;6349345;11;26
+r;121517190;72998;6441207;11;33
+r;419582554;72998;15240486;11;34
+r;419582559;72998;15240483;11;34
+r;29845330;72998;1826972;11;36
+r;111355858;72998;5634537;11;37
+r;322144375;72998;12537079;11;50
+r;29862491;72998;1849722;11;59
+r;12768057;72998;334413;11;110
+r;8715497;72998;251907;11;161

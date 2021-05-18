@@ -1,0 +1,804 @@
+
+e;58561;'affaires';1;252
+e;12206874;'Panthéon des hommes d'affaires canadiens';777;0
+e;14159831;'être de ses affaires';1;0
+e;14452540;'tribunal des affaires de sécurité sociale';1;0
+e;14452812;'affaires pénales';1;0
+e;14452718;'traitement des affaires';1;0
+e;14452776;'affaires civiles';1;0
+e;14453935;'chiffres d'affaires';1;0
+e;14454105;'compétence limitée aux affaires courantes';1;0
+e;14505213;'Jets d'affaires Citation';777;0
+e;14535509;'d'affaires';1;0
+e;14572632;'affaires à la limite de la légalité';1;0
+e;14572726;'voyages d'affaires';777;0
+e;14590175;'centre des affaires';777;0
+e;14610745;'avions d'affaires';1;0
+e;14669379;'emballer ses affaires';1;0
+e;14777599;'Présidence des affaires religieuses';777;0
+e;14904225;'Ministre des affaires culturellesGouvernement du Québec';777;0
+e;16565299;'loi relative à la protection du secret des affaires';777;0
+e;16566035;'École des affaires internationales';777;0
+e;15025599;'agents d'affaires';1;0
+e;15024893;'affaires correctionnelles';1;0
+e;15024895;'affaires de goûts';1;0
+e;15024889;'affaires boursières';1;0
+e;15024900;'affaires de vol';1;0
+e;15024894;'affaires de famille';1;0
+e;15024908;'affaires simples';1;0
+e;15024910;'affaires tchadiennes';1;0
+e;15024890;'affaires chaudes';1;0
+e;15024907;'affaires pressantes';1;0
+e;15024896;'affaires de l'Etat';1;0
+e;15024909;'affaires sérieuses';1;0
+e;15024898;'affaires de moeurs';1;0
+e;15024902;'affaires importantes';1;0
+e;15024901;'affaires familiales';1;0
+e;15024903;'affaires industrielles';1;0
+e;15024897;'affaires de la France';1;0
+e;15024891;'affaires classées';1;0
+e;15024905;'affaires juteuses';1;0
+e;15024904;'affaires judiciaires';1;0
+e;15024899;'affaires de réprocité';1;0
+e;15024892;'affaires commerciales';1;0
+e;12977839;'Institut royal des affaires internationales';777;0
+e;14535070;'réussir dans les affaires';1;0
+e;10675492;'Le Sens des affaires';777;0
+e;10673187;'secrétaire général pour les affaires régionales';777;0
+e;15024906;'affaires policières';1;0
+e;16565534;'Droit des affaires';777;0
+e;5711280;'Forum francophone des affaires';777;0
+e;6087422;'Le Service des affaires classées';777;0
+e;6086846;'direction des affaires criminelles et des grâces';777;0
+e;6082901;'tribunaux des affaires de sécurité sociale';777;0
+e;6432912;'délinquant d'affaires';1;0
+e;10590086;'médaille d'honneur des affaires étrangères';777;0
+e;16307652;'directeur affaires sociales';1;0
+e;16437057;'directeur des affaires juridiques';1;0
+e;16437059;'direction des affaires juridiques';1;0
+e;16437060;'directrice des affaires juridiques';1;0
+e;16529771;'comité des affaires fiscales';1;0
+e;10599992;'Rapport sur les affaires de l'Amérique du Nord britannique';777;0
+e;10599984;'Conseil pour les affaires de la province de Québec';777;0
+e;12903567;'devoirs de bonne résolution d'affaires complexes';1;0
+e;12903568;'devoirs de bonne résolution d'affaires';1;0
+e;13034305;'fouiller dans les affaires de quelqu'un d'autre';1;0
+e;13634868;'Chiffre d'affaires par marché';777;0
+e;15259690;'courant d'affaires';1;0
+e;15485380;'courants d'affaires';1;0
+e;15479757;'cours normal des affaires';1;0
+e;16040547;'croissance du chiffre d'affaires';1;0
+e;16040548;'croissance nette du chiffre d'affaires';1;0
+e;15399797;'de bonnes affaires en abondance';1;0
+e;15489936;'directeur affaires publiques';1;0
+e;15769733;'direction régionale des affaires culturelles';1;0
+e;15336744;'droit pénal des affaires';1;0
+e;15351955;'droits des affaires';1;0
+e;15264765;'débuter dans les affaires';1;0
+e;15636369;'délégation au développement et aux affaires internationales';1;0
+e;15921000;'département chargé des affaires de la CEI';1;0
+e;16316994;'chiffre d'affaires de la gestion d'actifs';1;0
+e;16326306;'chiffre d'affaires hors droits et taxes';1;0
+e;16326304;'chiffre d'affaires hors taxes consolidé';1;0
+e;16326347;'chiffre d'affaires proforma ajusté';1;0
+e;10602300;'homme d'affaires français';1;0
+e;10990472;'département des affaires et des relations institutionnelles et extérieures et de la transparence';777;0
+e;11050515;'avion d'affaires bimoteur turbopropulsé';1;0
+e;11050519;'avion d'affaires à double réacteurs';1;0
+e;11050516;'avion d'affaires bimoteur';1;0
+e;15447743;'chiffre d'affaires Presse';777;0
+e;15378910;'chiffre d'affaires TTC';1;0
+e;15573287;'chiffre d'affaires alimentaire';1;0
+e;15573289;'chiffre d'affaires annuel';1;0
+e;15549423;'chiffre d'affaires brut';1;0
+e;15573290;'chiffre d'affaires combiné';1;0
+e;15573291;'chiffre d'affaires consolidé';1;0
+e;15780769;'chiffre d'affaires de la concurrence';1;0
+e;15220369;'chiffre d'affaires dégagé';1;0
+e;15524993;'chiffre d'affaires hdt';1;0
+e;15524992;'chiffre d'affaires hors taxe';1;0
+e;15369534;'chiffre d'affaires net';1;0
+e;15813632;'chiffre d'affaires pro forma ajusté';1;0
+e;15573293;'chiffre d'affaires promotionnel';1;0
+e;15407415;'chiffre d'affaires prévisionnel';1;0
+e;15477809;'chiffres sur le climat des affaires';1;0
+e;15401536;'client affaires';1;0
+e;15258628;'client d'affaires';1;0
+e;15258614;'clientèle affaires';1;0
+e;15327906;'commissaire européen aux affaires économiques';1;0
+e;15327908;'commissaire européenne aux affaires économiques';1;0
+e;15351893;'communauté des affaires';1;0
+e;15300372;'concept d'affaires';1;0
+e;15542140;'concernant les affaires';1;0
+e;11358633;'inspection générale des affaires culturelles';777;0
+e;15624398;'augmentation du chiffre d'affaires';1;0
+e;15476469;'augmenter le chiffre d'affaires';1;0
+e;15477205;'avoir des intérêts dans de nombreuses affaires';1;0
+e;16040335;'baisse du chiffre d'affaires';1;0
+e;15775271;'bonne marche des affaires';1;0
+e;16041036;'brasser des affaires';1;0
+e;15270711;'brasser les affaires';1;0
+e;15775901;'brasseuse d'affaires';1;0
+e;15401973;'bureau de la coordination des affaires humanitaires';1;0
+e;15501766;'bureau des affaires générales';1;0
+e;15498482;'bureau des affaires immobilières';1;0
+e;15423566;'cadeau d'affaires';1;0
+e;15760812;'ce sont mes affaires';1;0
+e;15571446;'centre conçu à la fois pour les loisirs et les affaires';1;0
+e;15258623;'chargée d'affaires';1;0
+e;15439953;'chasse aux bonnes affaires';1;0
+e;1832153;'direction départementale des affaires sanitaires et sociales';1;0
+e;10584756;'Justice et affaires intérieures';777;0
+e;10922138;'Ministre des affaires minérales et de l'énergie';777;0
+e;10922136;'ministre des affaires économiques et des technologies';777;0
+e;11785898;'gouvernement d'affaires courantes';777;0
+e;15425017;'apporteur d'affaires';1;0
+e;15321061;'assistante affaires règlementaires';1;0
+e;16172209;'analyste d'affaires';777;0
+e;10834775;'commissaire européen aux affaires économiques et financières';777;0
+e;10942933;'Fonds européen pour les affaires maritimes et la pêche';777;0
+e;10834776;'commissaire européen aux affaires économiques et monétaires';777;0
+e;10864904;'droit du secret des affaires';777;0
+e;10936295;'liste d'affaires criminelles françaises';777;0
+e;10934981;'Ministre des affaires économiques';777;0
+e;11786452;'convention d'affaires';1;0
+e;11827015;'secrétaire général du ministère des affaires étrangères';777;0
+e;12079227;'gestion d'affaires';1;0
+e;16184157;'Ministre des affaires étrangères';777;0
+e;16308393;'Je ne veux pas m'immiscer dans les affaires des autres ...';1;0
+e;15377589;'Nous avons fourré nos affaires dans le coffre.';1;0
+e;15376988;'Nous avons rassemblé nos affaires.';1;0
+e;15459156;'Occupe-toi de tes affaires';1;0
+e;15408377;'Office des normes internationales et des affaires juridiques';1;0
+e;15571442;'Pour les affaires ou les loisirs ?';1;0
+e;15524580;'Prends tes affaires et va-t'en!';1;0
+e;15396933;'RDV d'affaires';1;0
+e;15770091;'Range tes affaires !';1;0
+e;16074508;'Traitement des affaires';1;0
+e;16074544;'Tribunal des affaires de sécurité sociale';1;0
+e;15242838;'administration des affaires';1;0
+e;15744768;'affaires continuent';1;0
+e;15566850;'affaires continuent comme d'habitude';1;0
+e;15424233;'affaires de c?ur';1;0
+e;15646606;'affaires de coeur';1;0
+e;15378828;'affaires de sécurité nationale';1;0
+e;15351883;'affaires du monde';1;0
+e;15952760;'affaires du voile islamique en France';777;0
+e;16075178;'affaires fiscales';1;0
+e;15258625;'affaires florissantes';1;0
+e;15573278;'affaires gouvernementales';1;0
+e;15501759;'affaires générales';1;0
+e;15744769;'affaires reprennent !';1;0
+e;5562355;'secrétariat général à la présidence de la République pour les affaires africaines et malgaches';777;0
+e;15693655;'Parc d'affaires de Pitäjänmäki';777;0
+e;10302453;'corps des administrateurs des affaires maritimes';777;0
+e;10842093;'préfecture pour les affaires économiques du Saint-Siège';777;0
+e;10930528;'commission des affaires constitutionnelles';777;0
+e;11013734;'processus d'affaires';777;0
+e;12080555;'petites affaires';1;0
+e;12078086;'conseillère pour les affaires politiques';1;0
+e;12865572;'classées par chiffre d'affaires';777;0
+e;13429399;'Le plaisir des affaires';777;0
+e;14779932;'Vice-Secrétaire général délégué aux affaires du Parlement';777;0
+e;14779931;'Vice-Secrétaire général délégué aux affaires étrangères et administratives';777;0
+e;15780314;'Lectures d'affaires';777;0
+e;15550572;'Les affaires sont calmes.';1;0
+e;14271177;'Ministre français des affaires étrangères 1617-1626';777;0
+e;15276693;'Ne laisse pas tes affaires n'importe où.';1;0
+e;15389790;'Ne laisse pas traîner tes affaires.';1;0
+e;16313917;'Inspection générale des affaires sociales';777;0
+e;16238516;'Département des affaires du désarmement';777;0
+e;5981236;'ministre des arts et des affaires culturelles';777;0
+e;10316262;'Institut européen d'administration des affaires';777;0
+e;10316239;'ministre chargé des affaires européennes';777;0
+e;10997824;'affaires criminelles';777;0
+e;11091195;'déposer ses affaires au vestiaire';1;0
+e;11415062;'Société pour la construction d'avions de tourisme et d'affaires';777;0
+e;12049916;'analyser des problèmes pour faire émerger des possibilités d'affaires';1;0
+e;12051010;'administratrice des affaires maritimes';1;0
+e;12051009;'administrateur des affaires maritimes';1;0
+e;12074442;'homme ou femme d'affaires';777;0
+e;12075514;'inspecteur général des affaires sociales';1;0
+e;12078081;'conseiller pour les affaires politiques';1;0
+e;12080573;'phasing du chiffre d'affaires';1;0
+e;12080515;'périodisation du chiffre d'affaires';1;0
+e;13135504;'se mêler des affaires des autres';1;0
+e;14118780;'Institut des affaires mondiales actuelles';777;0
+e;5984620;'plan de continuité des affaires';777;0
+e;10808878;'Une femme d'affaires';777;0
+e;10936811;'bonnes affaires';1;0
+e;10969011;'commission des affaires étrangères du Sénat des États-Unis';777;0
+e;11937750;'vice-Premier ministre du Conseil des affaires de l'État de la république populaire de Chine';777;0
+e;5803415;'émission d'affaires publiques';1;0
+e;6004163;'Bureau des affaires spatiales des Nations unies';777;0
+e;6066482;'centre d'affaires international de Moscou';777;0
+e;6080343;'Tes affaires sont mes affaires';777;0
+e;10774379;'Bureau des affaires indiennes';777;0
+e;11247919;'liste d'affaires criminelles ayant eu lieu à l'étranger concernant des Français';777;0
+e;11301047;'réseautage d'affaires';777;0
+e;5537043;'avion d'affaires biréacteur';1;0
+e;6088763;'affaires politico-financières françaises';777;0
+e;10773338;'commission des affaires étrangères';777;0
+e;10063766;'maîtrise en administration des affaires';777;0
+e;10347293;'haut représentant de l'Union pour les affaires étrangères et la politique de sécurité';777;0
+e;10384478;'affaires du voile islamique';777;0
+e;11153508;'conventions d'affaires';777;0
+e;11011966;'ministre des affaires intérieures';777;0
+e;11250921;'affaires politiques en France';777;0
+e;11554772;'Ministre des affaires indiennes';777;0
+e;11574808;'Conseil des affaires francophones du district bilingue de Bienne';777;0
+e;11977915;'affaires internes';1;0
+e;12791332;'Ministère des affaires populaires';777;0
+e;5711211;'Ministre français des affaires étrangères';777;0
+e;11011997;'ministère des affaires indigènes';777;0
+e;11557569;'Premier ministre du Conseil des affaires de l'État de la république populaire de Chine';777;0
+e;11555433;'ministres des affaires foncières';777;0
+e;11571897;'Commission des affaires étrangères du Parlement européen';777;0
+e;12278140;'liste des quartiers d'affaires';777;0
+e;5537037;'avions d'affaires biréacteur';1;0
+e;6007158;'cycle des affaires';777;0
+e;10118475;'Un homme d'affaires';777;0
+e;10459393;'commission des affaires économiques';777;0
+e;11175062;'Organisation pour l'harmonisation en Afrique du droit des affaires';777;0
+e;11218304;'direction des libertés publiques et des affaires juridiques';777;0
+e;11559491;'Ministre des affaires économiques 1974 à 1975';777;0
+e;11958297;'ranger ses affaires';1;16
+e;12789001;'carte d'affaires';777;0
+e;16073337;'Juge aux affaires familiales';1;0
+e;5985058;'Conseil mondial des affaires pour le développement durable';777;0
+e;10177407;'Papa est en voyage d'affaires';777;0
+e;11558370;'Ministre du développement constitutionnel et des affaires provinciales';777;0
+e;2448684;'gâter les affaires';1;0
+e;10174726;'commission des affaires juridiques';777;0
+e;10174725;'commission des affaires économiques et monétaires';777;0
+e;15689305;'affaires sont les affaires';1;0
+e;11159620;'Direction générale des affaires intérieures';777;0
+e;5521633;'hommes d'affaires';1;0
+e;8693891;'homme d'affaires américain';1;0
+e;9224056;'mauvaises affaires';1;14
+e;11128870;'Bureau des affaires de désarmement';777;0
+e;11128861;'Département des affaires économiques et sociales';777;0
+e;11128860;'Département des affaires politiques des Nations unies';777;0
+e;11128857;'Bureau de la coordination des affaires humanitaires';777;0
+e;11128851;'Bureau des affaires juridiques';777;0
+e;12626456;'Secrétaire d'État adjoint aux affaires publiques';777;0
+e;12645942;'Office-Correspondance pour les journaux français et étrangers et pour les affaires en fonds publics à la Bourse de Paris';777;0
+e;12679527;'banque d'affaires Rothschild & Cie';1;0
+e;12683365;'affaires politico-financières';1;0
+e;12679674;'affaires Benalla';777;0
+e;12679673;'affaires Alexandre Benalla';777;0
+e;15304971;'Elle a rangé ses affaires.';1;0
+e;15387473;'Est-ce que les affaires marchent actuellement?';1;0
+e;15305401;'J'ai oublié mes affaires de gym.';1;0
+e;15304964;'J'ai rangé tes affaires.';1;0
+e;15356962;'Il avait un sens inné des affaires.';1;0
+e;14253643;'Conseil pour les affaires économiques et financières';777;0
+e;15489946;'Directeur des affaires publiques';1;0
+e;15772850;'Chargé d'affaires à Madrid';777;0
+e;15953028;'Direction générale de la Justice et des affaires intérieures';777;0
+e;16072389;'Chiffres d'affaires';1;0
+e;16072486;'Compétence limitée aux affaires courantes';1;0
+e;16238517;'Bureau des affaires du désarmement';777;0
+e;16238515;'Centre des affaires du désarmement';777;0
+e;3441895;'ange d'affaires';777;0
+e;4318735;'affaires personnelles';1;4
+e;587027;'aviation d'affaires';777;0
+e;1678463;'jets d'affaires';1;0
+e;3131865;'banquier d'affaires';1;4
+e;1734593;'ingénieur d'affaires';1;0
+e;2360550;'modèle d'affaires';777;0
+e;3710146;'Conseil des affaires de l'État';777;0
+e;566139;'direction des affaires maritimes';777;50
+e;2914249;'Chiffre d'affaires';777;0
+e;3225521;'Les affaires sont les affaires';777;0
+e;1804515;'personnalité américaine du monde des affaires';1;0
+e;1570380;'prendre ses affaires';1;0
+e;1742231;'avion d'affaires';1;8
+e;3298502;'domaine des affaires';1;0
+e;1664844;'au-dessus de ses affaires';1;0
+e;2602002;'affaires électroniques';777;0
+e;5304236;'immeubles d'affaires';1;4
+e;3172421;'Dîner d'affaires';777;0
+e;2928947;'Commission des affaires sociales';777;0
+e;3018939;'affaires d'autrui';1;0
+e;1804915;'se mêler de ses affaires';1;16
+e;360909;'langue des affaires';1;50
+e;352114;'entremetteur d'affaires';1;50
+e;346409;'dans les affaires';1;50
+e;363336;'marché des affaires';1;50
+e;334137;'affaires municipales';1;50
+e;334129;'affaires européennes';1;50
+e;334125;'affaires courantes';1;50
+e;368339;'papiers d'affaires';1;50
+e;361203;'lettre d'affaires';1;50
+e;350321;'en classe affaires';1;50
+e;339924;'bourgeoisie d'affaires';1;50
+e;334132;'affaires internationales';1;50
+e;332797;'parler affaires';1;58
+e;372337;'pour affaires';1;50
+e;334123;'affaires communales';1;50
+e;386659;'versé dans les affaires';1;50
+e;376933;'rond en affaires';1;50
+e;334143;'affaires sociales';1;50
+e;334140;'affaires religieuses';1;50
+e;334135;'affaires maritimes';1;50
+e;334130;'affaires financières';1;50
+e;363831;'meilleures affaires';1;50
+e;347535;'directeur des affaires économiques';1;50
+e;343050;'chargé d'affaires juridiques';1;50
+e;334142;'affaires sanitaires';1;50
+e;334128;'affaires du pays';1;50
+e;359303;'inspection générale des affaires sociales';1;50
+e;349286;'département des affaires internationales';1;50
+e;334141;'affaires royales';1;50
+e;334136;'affaires matrimoniales';1;52
+e;334133;'affaires intérieures';1;50
+e;387026;'ville d'affaires';1;50
+e;356088;'gens d'affaires';1;50
+e;347561;'direction des affaires économiques';1;50
+e;342547;'chaise d'affaires';1;50
+e;338456;'banque d'affaires';1;50
+e;334126;'affaires culturelles';1;50
+e;332796;'parler d'affaires';1;58
+e;360523;'juriste d'affaires';1;50
+e;338112;'bagage d'affaires';1;50
+e;344156;'commission des affaires sociales';1;50
+e;334134;'affaires juridiques';1;50
+e;334131;'affaires indigènes';1;50
+e;334120;'affaires budgétaires';1;50
+e;319185;'conseiller aux affaires africaines';1;50
+e;326184;'gestion des affaires publiques';1;50
+e;330546;'dur en affaires';1;50
+e;232595;'dîner d'affaires';1;50
+e;232596;'déjeuner d'affaires';1;10
+e;249304;'quartier d'affaires';1;50
+e;210352;'brasseur d'affaires';1;58
+e;210363;'cabinet d'affaires';1;50
+e;211003;'impôt sur le chiffre d'affaires';1;50
+e;145826;'taxe sur le chiffre d'affaires';1;50
+e;154742;'voyage d'affaires';1;56
+e;156049;'repas d'affaires';1;68
+e;157964;'avocat d'affaires';1;50
+e;180807;'agent d'affaires';1;50
+e;181409;'centre d'affaires';1;14
+e;181410;'centre d'affaires international';1;50
+e;183707;'plan d'affaires';1;50
+e;268673;'tourisme d'affaires';1;2
+e;137635;'chargé d'affaires';1;50
+e;138049;'chiffre d'affaires';1;60
+e;138508;'homme d'affaires';1;104
+e;189002;'femme d'affaires';1;62
+e;259455;'faire des affaires';1;46
+e;261803;'s'occuper de ses affaires';1;2
+e;228547;'ministère des affaires étrangères';1;50
+e;231522;'français des affaires';1;4
+e;231525;'anglais des affaires';1;50
+e;232871;'affaires domestiques';1;52
+e;252954;'préparer ses affaires';1;70
+e;258713;'affaires politiques';1;50
+e;259340;'milieu des affaires';1;50
+e;259588;'monde des affaires';1;88
+e;259702;'fouiller dans les affaires des autres';1;50
+e;263048;'avoir le sens des affaires';1;50
+e;263049;'sens des affaires';1;50
+e;164074;'juge aux affaires familiales';1;110
+e;282221;'droit public des affaires';777;50
+e;306298;'l'éthique des affaires';777;50
+e;32572;'tourbillon des affaires';1;50
+e;46356;'affaires publiques';1;64
+e;53309;'suspendre les affaires';1;50
+e;142940;'affaires de l'état';1;50
+e;155862;'affaires étrangères';1;52
+e;182360;'éthique des affaires';1;50
+e;271893;'personnalité du monde des affaires';777;50
+e;275766;'Direction départementale des affaires sanitaires et sociales';777;50
+e;275771;'Direction régionale des affaires sanitaires et sociales';777;50
+e;277377;'ministre des affaires étrangères';1;50
+e;282220;'droit des affaires';777;2
+e;28770;'toutes affaires cessantes';1;50
+e;197608;'classe affaires';1;50
+e;199921;'être dans les affaires';1;50
+e;199975;'être en affaires avec';1;50
+e;11764;'faire ses affaires';1;50
+e;202846;'les affaires sont les affaires';1;50
+r;316816689;58561;12206874;11;25
+r;359718953;58561;14159831;11;25
+r;366865393;58561;14452540;11;25
+r;366868134;58561;14452812;11;25
+r;366872820;58561;14452718;11;25
+r;366880432;58561;14452776;11;25
+r;366924614;58561;14453935;11;25
+r;366929534;58561;14454105;11;25
+r;368412194;58561;14505213;11;25
+r;368752362;58561;14535509;11;25
+r;370346051;58561;14572632;11;25
+r;370407274;58561;14572726;11;25
+r;370779483;58561;14590175;11;25
+r;371293845;58561;14610745;11;25
+r;372982916;58561;14669379;11;25
+r;375539900;58561;14777599;11;25
+r;389769915;58561;14904225;11;25
+r;435177947;58561;16565299;11;25
+r;435193254;58561;16566035;11;25
+r;392482811;58561;15025599;11;26
+r;392482324;58561;15024893;11;26
+r;392473198;58561;15024895;11;26
+r;392473135;58561;15024889;11;26
+r;392472251;58561;15024900;11;26
+r;392472177;58561;15024894;11;26
+r;392471840;58561;15024908;11;26
+r;392471792;58561;15024910;11;26
+r;392471461;58561;15024890;11;26
+r;392471439;58561;15024907;11;26
+r;392470770;58561;15024896;11;26
+r;392470735;58561;15024909;11;26
+r;392470587;58561;15024898;11;26
+r;392470159;58561;15024902;11;26
+r;392470141;58561;15024901;11;26
+r;392470122;58561;15024903;11;26
+r;392470053;58561;15024897;11;26
+r;392470039;58561;15024891;11;26
+r;392470021;58561;15024905;11;26
+r;392469989;58561;15024904;11;26
+r;392469655;58561;15024899;11;26
+r;392469544;58561;15024892;11;26
+r;332114227;58561;12977839;11;26
+r;368725824;58561;14535070;11;26
+r;270773192;58561;10675492;11;27
+r;270780635;58561;10673187;11;27
+r;392470608;58561;15024906;11;27
+r;435165534;58561;16565534;11;27
+r;112177181;58561;5711280;11;28
+r;119669164;58561;6087422;11;28
+r;119671752;58561;6086846;11;28
+r;119674921;58561;6082901;11;29
+r;122671660;58561;6432912;11;29
+r;264466411;58561;10590086;11;29
+r;434384204;58561;16307652;11;29
+r;434384228;58561;16437057;11;29
+r;434384274;58561;16437059;11;29
+r;434384330;58561;16437060;11;29
+r;434642590;58561;16529771;11;29
+r;264440546;58561;10599992;11;30
+r;264440597;58561;10599984;11;30
+r;331155706;58561;12903567;11;30
+r;331155725;58561;12903568;11;30
+r;337339478;58561;13034305;11;30
+r;345872707;58561;13634868;11;30
+r;419746053;58561;15259690;11;30
+r;419746247;58561;15485380;11;30
+r;419747777;58561;15479757;11;30
+r;419752399;58561;16040547;11;30
+r;419752444;58561;16040548;11;30
+r;419766048;58561;15399797;11;30
+r;419782349;58561;15489936;11;30
+r;419782954;58561;15769733;11;30
+r;419800148;58561;15336744;11;30
+r;419800365;58561;15351955;11;30
+r;419804448;58561;15264765;11;30
+r;419810962;58561;15636369;11;30
+r;419812221;58561;15921000;11;30
+r;434378800;58561;16316994;11;30
+r;434378809;58561;16326306;11;30
+r;434378820;58561;16326304;11;30
+r;434378831;58561;16326347;11;30
+r;264432822;58561;10602300;11;31
+r;277591141;58561;10990472;11;31
+r;279902492;58561;11050515;11;31
+r;279929835;58561;11050519;11;31
+r;279930545;58561;11050516;11;31
+r;419706800;58561;15447743;11;31
+r;419706807;58561;15378910;11;31
+r;419706814;58561;15573287;11;31
+r;419706821;58561;15573289;11;31
+r;419706828;58561;15549423;11;31
+r;419706835;58561;15573290;11;31
+r;419706842;58561;15573291;11;31
+r;419706849;58561;15780769;11;31
+r;419706856;58561;15220369;11;31
+r;419706863;58561;15524993;11;31
+r;419706870;58561;15524992;11;31
+r;419706879;58561;15369534;11;31
+r;419706886;58561;15813632;11;31
+r;419706897;58561;15573293;11;31
+r;419706904;58561;15407415;11;31
+r;419707073;58561;15477809;11;31
+r;419713668;58561;15401536;11;31
+r;419713684;58561;15258628;11;31
+r;419713834;58561;15258614;11;31
+r;419722570;58561;15327906;11;31
+r;419722620;58561;15327908;11;31
+r;419723496;58561;15351893;11;31
+r;419728021;58561;15300372;11;31
+r;419728206;58561;15542140;11;31
+r;291253637;58561;11358633;11;32
+r;419622163;58561;15624398;11;32
+r;419622308;58561;15476469;11;32
+r;419630058;58561;15477205;11;32
+r;419644386;58561;16040335;11;32
+r;419658858;58561;15775271;11;32
+r;419664167;58561;16041036;11;32
+r;419664184;58561;15270711;11;32
+r;419664204;58561;15775901;11;32
+r;419667395;58561;15401973;11;32
+r;419667543;58561;15501766;11;32
+r;419667550;58561;15498482;11;32
+r;419675556;58561;15423566;11;32
+r;419691723;58561;15760812;11;32
+r;419694045;58561;15571446;11;32
+r;419701680;58561;15258623;11;32
+r;419702222;58561;15439953;11;32
+r;29966728;58561;1832153;11;33
+r;263667403;58561;10584756;11;33
+r;274971224;58561;10922138;11;33
+r;274971236;58561;10922136;11;33
+r;302954132;58561;11785898;11;33
+r;419604058;58561;15425017;11;33
+r;419613051;58561;15321061;11;33
+r;434370600;58561;16172209;11;33
+r;270916847;58561;10834775;11;34
+r;275680650;58561;10942933;11;34
+r;270916832;58561;10834776;11;34
+r;272523709;58561;10864904;11;34
+r;275362659;58561;10936295;11;34
+r;275367401;58561;10934981;11;34
+r;302984832;58561;11786452;11;34
+r;305556321;58561;11827015;11;34
+r;315119142;58561;12079227;11;34
+r;434353691;58561;16184157;11;34
+r;434345320;58561;16308393;11;34
+r;419514741;58561;15377589;11;34
+r;419514993;58561;15376988;11;34
+r;419517530;58561;15459156;11;34
+r;419517699;58561;15408377;11;34
+r;419527226;58561;15571442;11;34
+r;419527782;58561;15524580;11;34
+r;419532597;58561;15396933;11;34
+r;419533138;58561;15770091;11;34
+r;419554298;58561;16074508;11;34
+r;419554694;58561;16074544;11;34
+r;419577881;58561;15242838;11;34
+r;419579390;58561;15744768;11;34
+r;419579395;58561;15566850;11;34
+r;419579405;58561;15424233;11;34
+r;419579410;58561;15646606;11;34
+r;419579423;58561;15378828;11;34
+r;419579431;58561;15351883;11;34
+r;419579436;58561;15952760;11;34
+r;419579448;58561;16075178;11;34
+r;419579453;58561;15258625;11;34
+r;419579458;58561;15573278;11;34
+r;419579463;58561;15501759;11;34
+r;419579471;58561;15744769;11;34
+r;109978172;58561;5562355;11;35
+r;403526357;58561;15693655;11;35
+r;252682833;58561;10302453;11;35
+r;271592167;58561;10842093;11;35
+r;274958310;58561;10930528;11;35
+r;279116059;58561;11013734;11;35
+r;315112217;58561;12080555;11;35
+r;315124917;58561;12078086;11;35
+r;329607516;58561;12865572;11;35
+r;340802742;58561;13429399;11;35
+r;381947111;58561;14779932;11;35
+r;381947151;58561;14779931;11;35
+r;419494331;58561;15780314;11;35
+r;419494898;58561;15550572;11;35
+r;419508122;58561;14271177;11;35
+r;419511918;58561;15276693;11;35
+r;419511928;58561;15389790;11;35
+r;428701889;58561;16313917;11;35
+r;432056701;58561;16238516;11;35
+r;117909231;58561;5981236;11;36
+r;252664198;58561;10316262;11;36
+r;252664347;58561;10316239;11;36
+r;278028828;58561;10997824;11;36
+r;281311501;58561;11091195;11;36
+r;293660620;58561;11415062;11;36
+r;313686459;58561;12049916;11;36
+r;313709527;58561;12051010;11;36
+r;313715877;58561;12051009;11;36
+r;314452984;58561;12074442;11;36
+r;314526467;58561;12075514;11;36
+r;315105029;58561;12078081;11;36
+r;315112120;58561;12080573;11;36
+r;315112433;58561;12080515;11;36
+r;337338072;58561;13135504;11;36
+r;402119045;58561;14118780;11;36
+r;117895212;58561;5984620;11;37
+r;270208976;58561;10808878;11;37
+r;275270751;58561;10936811;11;37
+r;277228854;58561;10969011;11;37
+r;308235384;58561;11937750;11;37
+r;113304783;58561;5803415;11;38
+r;118528028;58561;6004163;11;38
+r;118930858;58561;6066482;11;38
+r;119191773;58561;6080343;11;38
+r;269535163;58561;10774379;11;38
+r;288385730;58561;11247919;11;38
+r;289889687;58561;11301047;11;38
+r;109614193;58561;5537043;11;39
+r;119663808;58561;6088763;11;39
+r;269537864;58561;10773338;11;39
+r;232100141;58561;10063766;11;39
+r;254177482;58561;10347293;11;39
+r;255398171;58561;10384478;11;39
+r;283550353;58561;11153508;11;39
+r;278883316;58561;11011966;11;40
+r;288246175;58561;11250921;11;40
+r;296853593;58561;11554772;11;40
+r;297601187;58561;11574808;11;40
+r;310789121;58561;11977915;11;40
+r;328290230;58561;12791332;11;40
+r;112177354;58561;5711211;11;41
+r;278879774;58561;11011997;11;41
+r;296850766;58561;11557569;11;41
+r;296851239;58561;11555433;11;41
+r;297231113;58561;11571897;11;41
+r;318928331;58561;12278140;11;41
+r;109639066;58561;5537037;11;42
+r;118522991;58561;6007158;11;42
+r;234743374;58561;10118475;11;42
+r;261017533;58561;10459393;11;42
+r;285997688;58561;11175062;11;42
+r;287572604;58561;11218304;11;42
+r;296974331;58561;11559491;11;42
+r;308658165;58561;11958297;11;42
+r;328180082;58561;12789001;11;42
+r;419106435;58561;16073337;11;42
+r;117893167;58561;5985058;11;43
+r;238923544;58561;10177407;11;43
+r;296874529;58561;11558370;11;43
+r;55422408;58561;2448684;11;44
+r;238091635;58561;10174726;11;44
+r;238091642;58561;10174725;11;44
+r;419579476;58561;15689305;11;44
+r;285023409;58561;11159620;11;45
+r;109291054;58561;5521633;11;49
+r;165337127;58561;8693891;11;50
+r;209924905;58561;9224056;11;50
+r;282665928;58561;11128870;11;50
+r;282668007;58561;11128861;11;50
+r;282668455;58561;11128860;11;50
+r;282676553;58561;11128857;11;50
+r;282680314;58561;11128851;11;50
+r;323226437;58561;12626456;11;50
+r;323964187;58561;12645942;11;50
+r;324681056;58561;12679527;11;50
+r;324931095;58561;12683365;11;50
+r;324931474;58561;12679674;11;50
+r;324931479;58561;12679673;11;50
+r;397496982;58561;15304971;11;50
+r;397503058;58561;15387473;11;50
+r;402121140;58561;15305401;11;50
+r;402121348;58561;15304964;11;50
+r;402104964;58561;15356962;11;50
+r;394000724;58561;14253643;11;50
+r;397420652;58561;15489946;11;50
+r;406400951;58561;15772850;11;50
+r;416556664;58561;15953028;11;50
+r;418900241;58561;16072389;11;50
+r;418900772;58561;16072486;11;50
+r;425986858;58561;16238517;11;50
+r;425986896;58561;16238515;11;50
+r;87942589;58561;3441895;11;51
+r;98481790;58561;4318735;11;51
+r;18433491;58561;587027;11;52
+r;27803346;58561;1678463;11;52
+r;75942919;58561;3131865;11;52
+r;28489753;58561;1734593;11;53
+r;50161307;58561;2360550;11;53
+r;92594361;58561;3710146;11;53
+r;16918700;58561;566139;11;54
+r;71472302;58561;2914249;11;55
+r;77675325;58561;3225521;11;55
+r;29523230;58561;1804515;11;56
+r;25280306;58561;1570380;11;58
+r;28641607;58561;1742231;11;59
+r;82407820;58561;3298502;11;59
+r;27659148;58561;1664844;11;60
+r;55338182;58561;2602002;11;60
+r;106716969;58561;5304236;11;60
+r;76336174;58561;3172421;11;63
+r;71828780;58561;2928947;11;64
+r;74446958;58561;3018939;11;66
+r;29527479;58561;1804915;11;69
+r;12659105;58561;360909;11;101
+r;12694855;58561;352114;11;101
+r;12718235;58561;346409;11;101
+r;12649115;58561;363336;11;102
+r;12769153;58561;334137;11;102
+r;12769173;58561;334129;11;102
+r;12769185;58561;334125;11;102
+r;12628911;58561;368339;11;103
+r;12657883;58561;361203;11;103
+r;12701989;58561;350321;11;103
+r;12745679;58561;339924;11;103
+r;12769165;58561;334132;11;103
+r;12463572;58561;332797;11;104
+r;12612779;58561;372337;11;104
+r;12769191;58561;334123;11;104
+r;12554743;58561;386659;11;105
+r;12594235;58561;376933;11;105
+r;12769131;58561;334143;11;105
+r;12769141;58561;334140;11;105
+r;12769159;58561;334135;11;105
+r;12769171;58561;334130;11;105
+r;12647089;58561;363831;11;106
+r;12713207;58561;347535;11;106
+r;12732529;58561;343050;11;106
+r;12769133;58561;334142;11;106
+r;12769175;58561;334128;11;106
+r;12665613;58561;359303;11;107
+r;12706077;58561;349286;11;107
+r;12769137;58561;334141;11;107
+r;12769157;58561;334136;11;107
+r;12769163;58561;334133;11;107
+r;12553281;58561;387026;11;108
+r;12678767;58561;356088;11;108
+r;12713103;58561;347561;11;108
+r;12734631;58561;342547;11;108
+r;12751811;58561;338456;11;108
+r;12769183;58561;334126;11;108
+r;12463576;58561;332796;11;109
+r;12660643;58561;360523;11;109
+r;12753205;58561;338112;11;109
+r;12727919;58561;344156;11;110
+r;12769161;58561;334134;11;110
+r;12769167;58561;334131;11;110
+r;12769201;58561;334120;11;110
+r;9028189;58561;319185;11;148
+r;11280995;58561;326184;11;148
+r;11994778;58561;330546;11;148
+r;8880392;58561;232595;11;151
+r;8880393;58561;232596;11;151
+r;8880995;58561;249304;11;151
+r;8878178;58561;210352;11;152
+r;8878188;58561;210363;11;152
+r;8878617;58561;211003;11;152
+r;8874996;58561;145826;11;153
+r;8875227;58561;154742;11;153
+r;8875255;58561;156049;11;153
+r;8875289;58561;157964;11;153
+r;8875942;58561;180807;11;153
+r;8875996;58561;181409;11;153
+r;8875997;58561;181410;11;153
+r;8876302;58561;183707;11;153
+r;8882353;58561;268673;11;153
+r;8873058;58561;137635;11;154
+r;8873208;58561;138049;11;154
+r;8873367;58561;138508;11;154
+r;8876914;58561;189002;11;154
+r;8725613;58561;259455;11;160
+r;8728539;58561;261803;11;160
+r;8697561;58561;228547;11;161
+r;8699953;58561;231522;11;161
+r;8699955;58561;231525;11;161
+r;8701311;58561;232871;11;161
+r;8716567;58561;252954;11;161
+r;8724461;58561;258713;11;161
+r;8725453;58561;259340;11;161
+r;8725809;58561;259588;11;161
+r;8725974;58561;259702;11;161
+r;8730130;58561;263048;11;161
+r;8730132;58561;263049;11;161
+r;8628753;58561;164074;11;162
+r;8749559;58561;282221;11;162
+r;8772154;58561;306298;11;162
+r;8580760;58561;32572;11;163
+r;8585452;58561;46356;11;163
+r;8587960;58561;53309;11;163
+r;8620809;58561;142940;11;163
+r;8624711;58561;155862;11;163
+r;8639987;58561;182360;11;163
+r;8739392;58561;271893;11;163
+r;8743727;58561;275766;11;163
+r;8743735;58561;275771;11;163
+r;8745334;58561;277377;11;163
+r;8749556;58561;282220;11;163
+r;8579521;58561;28770;11;164
+r;8663659;58561;197608;11;164
+r;8667495;58561;199921;11;164
+r;8667593;58561;199975;11;164
+r;8573875;58561;11764;11;165
+r;8672598;58561;202846;11;300

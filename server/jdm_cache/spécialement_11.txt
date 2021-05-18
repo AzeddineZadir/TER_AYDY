@@ -1,0 +1,12 @@
+
+e;75989;'spécialement';1;90
+e;15347691;'Tu aimes l'opéra? - Pas spécialement.';1;0
+e;15347682;'Il est venu spécialement pour te parler.';1;0
+e;15347689;'C'est spécialement conçu pour les adolescents.';1;0
+e;15347680;'Ce n'est pas spécialement difficile.';1;0
+e;371266;'plus spécialement';1;50
+r;419555151;75989;15347691;11;34
+r;402106386;75989;15347682;11;50
+r;395011151;75989;15347689;11;50
+r;395012725;75989;15347680;11;50
+r;12617275;75989;371266;11;101

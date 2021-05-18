@@ -1,0 +1,202 @@
+
+e;62046;'chauffage';1;520
+e;14609162;'chauffage haute température';1;0
+e;6311082;'intoxication par le monoxyde de carbone provenant d'un fourneau ou d'un appareil de chauffage défectueux';1;0
+e;6337283;'appareil de chauffage domestique';1;0
+e;16137484;'installateur de chauffage';777;0
+e;14557713;'couper le chauffage';1;14
+e;6431753;'conductrice d'installation de chauffage et de ventilation';1;0
+e;15197794;'eau de chauffage';1;0
+e;10991535;'installation de chauffage';777;0
+e;15690105;'circuit de chauffage';1;0
+e;15882814;'circuit de chauffage central';1;0
+e;16392530;'batterie de chauffage de l'air';1;0
+e;10991534;'chauffage infrarouge';777;0
+e;15499054;'batteries de chauffage et de refroidissement de l'air';1;0
+e;15228371;'centrale de chauffage';1;0
+e;15228373;'chambre sans chauffage';1;0
+e;15463786;'chauffage au gaz naturel';1;0
+e;15473615;'chauffage central au mazout';1;0
+e;15228368;'chauffage d'ambiance';1;0
+e;15543101;'chauffage par accumulateur';1;0
+e;15476144;'chauffage par géothermie';1;0
+e;15690110;'chauffage radiant';1;0
+e;15690111;'chauffage rayonnant';1;0
+e;15372889;'chauffage soufflant';1;0
+e;15288760;'chauffage à inertie';1;0
+e;15444705;'chauffage électrique à panneau rayonnant';1;0
+e;15497179;'appareil de chauffage pour terrasses';1;0
+e;15313718;'appareil de chauffage à gaz';1;0
+e;15283272;'appareil de chauffage électrique';1;0
+e;5809873;'technologie de chauffage';1;0
+e;5921219;'Compagnie parisienne d'éclairage et de chauffage par le gaz';777;0
+e;12049391;'faire fonctionner des systèmes de chauffage de métaux';1;0
+e;15401277;'Les maisons occupées par les personnes âgées doivent avoir le chauffage central.';1;0
+e;12077796;'chauffage additionnel';1;0
+e;12077799;'chauffage par ondes électromagnétiques';1;0
+e;12077797;'chauffage du plasma';1;0
+e;12077798;'chauffage par injection de neutres';1;0
+e;11237158;'Compagnie parisienne de chauffage urbain';777;0
+e;6444655;'conducteur d'installation de chauffage et de ventilation';1;0
+e;5809665;'chauffage ohmique';777;0
+e;12053000;'utiliser des systèmes de chauffage de l'eau';1;0
+e;12283262;'chauffage de l'eau';777;0
+e;12774306;'chauffage à reflux';777;0
+e;8983930;'chauffage au sol';1;0
+e;9217081;'centrale de chauffage solaire';777;0
+e;15263153;'Je mets le chauffage ?';1;0
+e;3230364;'appareils de chauffage';1;0
+e;3321472;'chauffage à ultra-haute température';1;0
+e;4313097;'pas de chauffage';1;64
+e;4310196;'chauffage à distance';777;0
+e;586632;'chauffage par';777;0
+e;3319208;'huile de soya oxydée par chauffage ayant réagi avec des mono- et diglycérides d'acides gras';1;0
+e;3346617;'huile de soja oxydée par chauffage avec des mono- et diglycérides d'acides gras';1;0
+e;3346569;'esters glycériques d'acides gras obtenus à partir d'huile de soja oxydée par chauffage';1;0
+e;3320542;'huile de soja oxydée par chauffage';1;0
+e;3705742;'monter le chauffage';1;0
+e;1752485;'chauffage par induction';1;10
+e;3321329;'traitement par chauffage';1;0
+e;3320544;'huile de soja oxydée par chauffage ayant réagi avec des mono- et diglycérides d'acides gras';1;0
+e;4313096;'chauffage en panne';1;12
+e;4310195;'réseau de chauffage urbain';777;0
+e;4313094;'panne de chauffage';1;14
+e;343207;'chauffage à air pulsé modulé';1;50
+e;343195;'chauffage mixte';1;50
+e;358083;'huile de chauffage';1;50
+e;343206;'chauffage par pompe à chaleur';1;50
+e;343203;'chauffage en chandelle';1;50
+e;343198;'chauffage par résistance';1;50
+e;343196;'chauffage par calorifère';1;50
+e;382343;'système de chauffage';1;50
+e;343205;'chauffage par catalyse';1;50
+e;343202;'chauffage au charbon';1;52
+e;343194;'chauffage individuel';1;50
+e;347729;'dispositif de chauffage';1;50
+e;343199;'chauffage urbain';1;50
+e;343191;'chauffage au mazout';1;50
+e;359329;'installation de chauffage électrique';1;50
+e;343193;'chauffage indirect';1;50
+e;343209;'chauffage à eau chaude';1;50
+e;343204;'chauffage par air chaud';1;50
+e;338844;'batterie de chauffage';1;50
+e;343197;'chauffage par le sol';1;50
+e;343192;'chauffage collectif';1;50
+e;343200;'chauffage à eau très chaude';1;50
+e;343190;'chauffage au bois';1;56
+e;385773;'unité de chauffage';1;50
+e;343208;'chauffage à circulation forcée';1;50
+e;343201;'chauffage électrique intégré';1;50
+e;166847;'chauffage central';1;66
+e;166848;'chauffage solaire';1;50
+e;230089;'appareil de chauffage';1;26
+e;249321;'chauffage domestique';1;50
+e;254471;'mettre le chauffage';1;22
+e;259538;'allumer le chauffage';1;64
+e;261354;'chauffage d'appoint';1;14
+e;110320;'bois de chauffage';1;64
+e;264547;'chauffage électrique';1;50
+e;289628;'chauffage à air pulsé';777;50
+e;307059;'Distribution sanitaire et chauffage';777;50
+e;26749;'huile à chauffage';1;50
+e;197501;'chauffage au gaz';1;52
+r;371226361;62046;14609162;11;25
+r;398379246;62046;6311082;11;25
+r;399664322;62046;6337283;11;25
+r;423385164;62046;16137484;11;25
+r;369891147;62046;14557713;11;26
+r;122681950;62046;6431753;11;27
+r;419831998;62046;15197794;11;30
+r;277927251;62046;10991535;11;31
+r;419710715;62046;15690105;11;31
+r;419710720;62046;15882814;11;31
+r;434375106;62046;16392530;11;31
+r;277673401;62046;10991534;11;32
+r;419649584;62046;15499054;11;32
+r;419693831;62046;15228371;11;32
+r;419697204;62046;15228373;11;32
+r;419702792;62046;15463786;11;32
+r;419702802;62046;15473615;11;32
+r;419702812;62046;15228368;11;32
+r;419702817;62046;15543101;11;32
+r;419702824;62046;15476144;11;32
+r;419702831;62046;15690110;11;32
+r;419702836;62046;15690111;11;32
+r;419702841;62046;15372889;11;32
+r;419702846;62046;15288760;11;32
+r;419702851;62046;15444705;11;32
+r;419601792;62046;15497179;11;33
+r;419601802;62046;15313718;11;33
+r;419601812;62046;15283272;11;33
+r;113278928;62046;5809873;11;34
+r;115840839;62046;5921219;11;35
+r;313653998;62046;12049391;11;35
+r;419496462;62046;15401277;11;35
+r;315097062;62046;12077796;11;36
+r;315097506;62046;12077799;11;36
+r;315097576;62046;12077797;11;36
+r;315100791;62046;12077798;11;36
+r;287949507;62046;11237158;11;38
+r;121486206;62046;6444655;11;39
+r;113279824;62046;5809665;11;40
+r;313739845;62046;12053000;11;40
+r;319038162;62046;12283262;11;42
+r;327887205;62046;12774306;11;46
+r;194004566;62046;8983930;11;50
+r;209837904;62046;9217081;11;50
+r;402272541;62046;15263153;11;50
+r;78167564;62046;3230364;11;52
+r;83661530;62046;3321472;11;52
+r;97870170;62046;4313097;11;52
+r;96508662;62046;4310196;11;53
+r;18413940;62046;586632;11;54
+r;83672734;62046;3319208;11;54
+r;85771372;62046;3346617;11;56
+r;85772133;62046;3346569;11;56
+r;83666103;62046;3320542;11;57
+r;92508446;62046;3705742;11;57
+r;28810657;62046;1752485;11;58
+r;83662198;62046;3321329;11;58
+r;83666072;62046;3320544;11;59
+r;97870153;62046;4313096;11;59
+r;96507050;62046;4310195;11;60
+r;97870129;62046;4313094;11;60
+r;12731831;62046;343207;11;101
+r;12731897;62046;343195;11;101
+r;12670495;62046;358083;11;102
+r;12731841;62046;343206;11;102
+r;12731857;62046;343203;11;102
+r;12731885;62046;343198;11;102
+r;12731893;62046;343196;11;102
+r;12572235;62046;382343;11;103
+r;12731847;62046;343205;11;103
+r;12731861;62046;343202;11;103
+r;12731901;62046;343194;11;103
+r;12712425;62046;347729;11;105
+r;12731881;62046;343199;11;105
+r;12731913;62046;343191;11;105
+r;12665513;62046;359329;11;106
+r;12731905;62046;343193;11;106
+r;12731819;62046;343209;11;107
+r;12731851;62046;343204;11;107
+r;12750235;62046;338844;11;107
+r;12731889;62046;343197;11;108
+r;12731909;62046;343192;11;108
+r;12731873;62046;343200;11;109
+r;12731917;62046;343190;11;109
+r;12558247;62046;385773;11;110
+r;12731825;62046;343208;11;110
+r;12731865;62046;343201;11;110
+r;8630535;62046;166847;11;161
+r;8630537;62046;166848;11;161
+r;8698705;62046;230089;11;161
+r;8712601;62046;249321;11;161
+r;8718496;62046;254471;11;161
+r;8725736;62046;259538;11;161
+r;8728014;62046;261354;11;161
+r;8607923;62046;110320;11;162
+r;8732099;62046;264547;11;163
+r;8757601;62046;289628;11;163
+r;8772878;62046;307059;11;163
+r;8578867;62046;26749;11;164
+r;8663487;62046;197501;11;164

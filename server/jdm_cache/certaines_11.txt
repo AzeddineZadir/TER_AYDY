@@ -1,0 +1,78 @@
+
+e;399148;'certaines';1;52
+e;6338776;'effet tardif de certaines complications d'un traumatisme';1;0
+e;6417317;'certaines affections de la gencive et de la crête alvéolaire édentée';1;0
+e;14454661;'taxe forfaitaire sur le produit de certaines valorisations immobilières en région Île-de-France';1;0
+e;6395024;'complication particulière de certaines interventions précisées';1;0
+e;6292557;'effet tardif de certaines autres causes externes';1;0
+e;6325436;'certaines complications récentes d'un infarctus aigu du myocarde';1;0
+e;6327097;'séquelles de certaines complications de lésions traumatiques';1;0
+e;6334752;'certaines déformations musculosquelettiques congénitales';1;0
+e;6349755;'antécédents personnels de certaines autres maladies';1;0
+e;6341352;'non classées ailleurs certaines séquelles d'un infarctus du myocarde';1;0
+e;6372960;'certaines complications précoces d'un traumatisme';1;0
+e;6431962;'antécédents familiaux de certaines incapacités et maladies chroniques conduisant à l'invalidité';1;0
+e;6288762;'complications propres à certaines interventions précisées';1;0
+e;10590633;'loi n°78-22 du 10 janvier 1978 relative à l'information et à la protection des consommateurs dans le domaine de certaines opérations de crédit';777;0
+e;16041480;'certaines fois';1;0
+e;16342686;'certaines collectivités';777;0
+e;6362736;'difficultés liées à certaines situations psycho-sociales';1;0
+e;6296684;'certaines maladies du tissu lymphoréticulaire et du système réticulo-histiocytaire';1;0
+e;12033032;'déficience de certaines enzymes mitochondriales';1;0
+e;15546817;'Selon certaines sources,';1;0
+e;16152637;'Origine du nom ainsi que de celui de certaines rues de ce hameau';777;0
+e;12006700;'projet de loi relatif à l'exercice des droits politiques par certaines catégories de sujets français en Algérie';777;0
+e;13455133;'difficultés à réaliser certaines tâches simples';1;0
+e;15531198;'Le chômage dans certaines régions atteint désormais les 38%.';1;0
+e;12054177;'conditions d'attribution de certaines aides sociales';1;0
+e;5884152;'peut contenir certaines pages d'homonymies';777;0
+e;12441201;'loi n° 70-480 du 8 juin 1970 tendant à réprimer certaines formes nouvelles de délinquance';777;0
+e;15527081;'Je lui reconnais certaines qualités.';1;0
+e;15273446;'Freud a mis en doute certaines croyances très chères à la société.';1;0
+e;380664;'sous certaines conditions de température';1;50
+e;380663;'sous certaines conditions';1;50
+e;982335;'Convention sur certaines armes classiques';777;0
+e;346061;'dans certaines dispositions';1;50
+e;309616;'Présence d'une obligation de vote dans certaines ou toutes les élections nationales directes ou indirectes';777;50
+e;982336;'Convention sur l'interdiction ou la limitation de l'emploi de certaines armes classiques qui peuvent être considérées comme produisant des effets traumatiques excessifs ou comme frappant sans discrimination';777;0
+e;346062;'dans certaines situations';1;50
+e;566126;'certaines prestations de services';777;50
+e;299105;'certaines images peuvent choquer';777;50
+r;301458545;399148;6338776;11;25
+r;305686677;399148;6417317;11;25
+r;366954832;399148;14454661;11;25
+r;400813617;399148;6395024;11;25
+r;298501289;399148;6292557;11;26
+r;300193077;399148;6325436;11;26
+r;300204164;399148;6327097;11;26
+r;301208031;399148;6334752;11;26
+r;341106175;399148;6349755;11;26
+r;301482386;399148;6341352;11;27
+r;303109962;399148;6372960;11;27
+r;122680116;399148;6431962;11;28
+r;298371609;399148;6288762;11;28
+r;264463885;399148;10590633;11;29
+r;419695616;399148;16041480;11;32
+r;431844307;399148;16342686;11;32
+r;302138752;399148;6362736;11;33
+r;298894643;399148;6296684;11;34
+r;313607753;399148;12033032;11;34
+r;419543769;399148;15546817;11;34
+r;423610637;399148;16152637;11;34
+r;313144456;399148;12006700;11;35
+r;342215250;399148;13455133;11;35
+r;419491365;399148;15531198;11;36
+r;313789672;399148;12054177;11;40
+r;114759202;399148;5884152;11;42
+r;320883064;399148;12441201;11;44
+r;402154710;399148;15527081;11;50
+r;399664087;399148;15273446;11;50
+r;14207654;399148;380664;11;52
+r;14207656;399148;380663;11;53
+r;20812389;399148;982335;11;53
+r;14213889;399148;346061;11;54
+r;14227381;399148;309616;11;54
+r;20813015;399148;982336;11;55
+r;14213885;399148;346062;11;58
+r;16918743;399148;566126;11;58
+r;14238382;399148;299105;11;59

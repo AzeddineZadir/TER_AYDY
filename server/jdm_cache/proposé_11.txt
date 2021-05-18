@@ -1,0 +1,14 @@
+
+e;252927;'proposé';1;50
+e;14609015;'proposé à la vente';1;0
+e;15757648;'emploi proposé';1;0
+e;12645858;'État proposé';777;0
+e;15333880;'Elle m'a proposé de faire la course avec elle.';1;0
+e;15226677;'Ils nous ont gentiment proposé de rester dîner.';1;0
+e;15560832;'Ils m'ont proposé des chocolats.';1;0
+r;371223867;252927;14609015;11;25
+r;419835514;252927;15757648;11;30
+r;324933795;252927;12645858;11;50
+r;397499295;252927;15333880;11;50
+r;402112059;252927;15226677;11;50
+r;402111893;252927;15560832;11;50

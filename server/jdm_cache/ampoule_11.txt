@@ -1,0 +1,232 @@
+
+e;140667;'ampoule';1;664
+e;13763638;'ampoule de canalicule lacrymal';1;0
+e;14610037;'ampoule d'altim';1;0
+e;14744875;'ampoule centenaire';777;0
+e;14744877;'ampoule de Livermore';777;0
+e;14488473;'ampoule grillée';1;4
+e;6434832;'tumeur de l'ampoule';1;0
+e;6431536;'dilatation de l'ampoule de vater';1;0
+e;6438565;'excision de l'ampoule de vater';1;0
+e;6795260;'carcinome de l'ampoule de Vater';1;0
+e;6795266;'cancer de l'ampoule de Vater';1;0
+e;6795267;'tumeur maligne de l'ampoule de Vater';1;0
+e;6795268;'cancer de l'ampoule de vater';1;0
+e;6436261;'tumeur métastatique de l'ampoule de vater';1;0
+e;6433747;'tumeur maligne de l'ampoule rectale';1;0
+e;6435992;'tumeur bénigne de l'ampoule de vater';1;0
+e;6437931;'syndrome d'obstruction de l'ampoule de vater';1;0
+e;10960096;'filament d'ampoule halogène';1;0
+e;6434807;'carcinome de l'ampoule de vater';1;0
+e;11788339;'sainte ampoule';777;0
+e;15504006;'Tournez l'ampoule jusqu'à ce qu'elle s'enclenche.';1;0
+e;15353171;'ampoule LED';1;0
+e;15444052;'ampoule basse consommation';1;0
+e;15444056;'ampoule buvable';1;0
+e;15687907;'ampoule de 100 watts';1;0
+e;15220915;'ampoule de diluant';1;0
+e;15276932;'ampoule de flash';1;0
+e;15220906;'ampoule fluocompacte';1;0
+e;15444057;'ampoule led';1;0
+e;15775413;'ampoule longue durée';1;0
+e;15220911;'ampoule mono-dose';1;0
+e;15444050;'ampoule à basse consommation';1;0
+e;15220909;'ampoule à cathode';1;0
+e;15220913;'ampoule à filament';1;0
+e;15390307;'ampoule à lumière du jour';1;0
+e;6447484;'tumeur secondaire de l'ampoule de vater';1;0
+e;12077033;'ampoule flamme';1;0
+e;6451811;'carcinome in situ de l'ampoule de vater';1;0
+e;6448494;'tumeur de l'ampoule de vater';1;0
+e;6441014;'sphincter de l'ampoule hépato-pancréatique';1;0
+e;6443966;'excision de l'ampoule de vater avec réimplantation du canal cholédoque';1;0
+e;6443392;'diverticules de l'ampoule du canal déférent';1;0
+e;6438571;'excision de lésion de l'ampoule de vater';1;0
+e;11335417;'ampoule tubaire';777;0
+e;6448990;'tumeur de l'ampoule de vater à évolution imprévisible ou inconnue';1;0
+e;2468906;'ampoule de Lorenzini';1;0
+e;6451645;'canulation de l'ampoule de vater';1;0
+e;6451392;'exérèse de diverticule de l'ampoule de vater';1;0
+e;6538525;'ampoule membraneuse latérale du labyrinthe membraneux gauche';1;0
+e;6446517;'muscle sphincter de l'ampoule hépatopancréatique';1;0
+e;6538419;'ampoule du canal lacrymal droit';1;0
+e;6448358;'sténose de l'ampoule de vater';1;0
+e;6534059;'ampoule membraneuse latérale du labyrinthe membraneux';1;0
+e;6449795;'tumeur maligne de l'ampoule de vater';1;0
+e;1824243;'ampoule galactophore';1;0
+e;6533882;'ampoule du canal lacrymal';1;0
+e;1824244;'ampoule osseuse externe';1;0
+e;2364323;'tête d'ampoule';1;0
+e;6538523;'ampoule du canal semi-circulaire antérieur du labyrinthe membraneux gauche';1;0
+e;8735790;'avoir une ampoule';1;0
+e;15494237;'L'ampoule se visse dans n'importe quelle douille standard.';1;0
+e;15572482;'J'ai une ampoule au pied.';1;0
+e;15252365;'Il faut remplacer cette ampoule.';1;0
+e;568288;'ampoule osseuse antérieure';1;50
+e;1777733;'ampoule de la trompe utérine';1;0
+e;1777741;'ampoule osseuse latérale du canal semicirculaire lateral';1;0
+e;6538524;'ampoule membraneuse latérale du labyrinthe membraneux droit';1;0
+e;1777742;'ampoule osseuse postérieure du canal semicirculaire postérieur';1;0
+e;1777740;'ampoule osseuse antérieure du canal semicirculaire antérieur';1;0
+e;6538420;'ampoule du canal lacrymal gauche';1;0
+e;459882;'ampoule de vater';1;50
+e;4933331;'filament d'ampoule';1;50
+e;6538890;'ampoule du canal semi-circulaire antérieur du labyrinthe membraneux droit';1;0
+e;568289;'ampoule osseuse latérale';1;50
+e;6534060;'ampoule membraneuse postérieure du labyrinthe membraneux';1;0
+e;1777737;'ampoule membraneuse antérieure du conduit semicirculaire antérieur';1;0
+e;1777739;'ampoule membraneuse postérieure du conduit semicirculaire postérieur';1;0
+e;1777734;'ampoule du canalicule lacrymal';1;0
+e;1777732;'ampoule biliopancréatique';1;0
+e;3225529;'sainte-ampoule';1;0
+e;1767244;'ampoule de cyanure';1;0
+e;1777736;'ampoule duodénale';1;0
+e;1778726;'diverticule de l'ampoule du conduit déférent';1;0
+e;4314607;'changer l'ampoule';1;0
+e;568290;'ampoule osseuse postérieure';1;50
+e;1779512;'muscle sphincter de l'ampoule hépato-pancréatique';1;0
+e;1777735;'ampoule du conduit déférent';1;0
+e;1916587;'ampoule hépato-pancréatique';1;0
+e;456306;'muscle sphincter de l'ampoule';1;50
+e;1777738;'ampoule membraneuse latérale du conduit semicirculaire latéral';1;0
+e;1848869;'ampoule à rayons X';1;0
+e;1800968;'ampoule du canal déférent';1;0
+e;1800967;'ampoule osseuse supérieure';1;0
+e;1850603;'ampoule de Henle';1;0
+e;335158;'ampoule nue';1;50
+e;335156;'ampoule à baïonnette';1;50
+e;335154;'ampoule lacrymogène';1;50
+e;335153;'ampoule halogène';1;50
+e;335155;'ampoule radiogène';1;50
+e;335157;'ampoule de verre';1;50
+e;319020;'ampoule hépatopancréatique';1;2
+e;260754;'avoir l'abat-jour au ras de l'ampoule';1;50
+e;144352;'l'ampoule de Vater';1;50
+e;204652;'oindre de la sainte-ampoule';1;50
+e;306015;'toujours laisser un récipient sous l'ampoule';777;50
+e;228376;'ampoule à incandescence';1;4
+e;313254;'ampoule de Galien';1;50
+e;213507;'ampoule électrique';1;34
+e;180594;'ampoule à brome';1;50
+e;180595;'ampoule à décanter';1;50
+e;292852;'ampoule de coulée';777;50
+e;195934;'ampoule de Vater';1;80
+e;195935;'ampoule rectale';1;58
+e;164309;'ampoule à vis';1;54
+e;165090;'changer une ampoule';1;56
+e;163383;'ampoule au pied';1;52
+r;348696189;140667;13763638;11;25
+r;371252662;140667;14610037;11;25
+r;374846088;140667;14744875;11;25
+r;374846274;140667;14744877;11;25
+r;368172098;140667;14488473;11;26
+r;121574266;140667;6434832;11;27
+r;122683908;140667;6431536;11;27
+r;121540908;140667;6438565;11;28
+r;123494751;140667;6795260;11;28
+r;123495872;140667;6795266;11;28
+r;123495895;140667;6795267;11;28
+r;123495914;140667;6795268;11;28
+r;121561493;140667;6436261;11;29
+r;122664098;140667;6433747;11;29
+r;121563894;140667;6435992;11;31
+r;121546512;140667;6437931;11;32
+r;276640081;140667;10960096;11;32
+r;121574469;140667;6434807;11;33
+r;303717029;140667;11788339;11;34
+r;419553569;140667;15504006;11;34
+r;419592125;140667;15353171;11;34
+r;419592130;140667;15444052;11;34
+r;419592137;140667;15444056;11;34
+r;419592142;140667;15687907;11;34
+r;419592149;140667;15220915;11;34
+r;419592154;140667;15276932;11;34
+r;419592160;140667;15220906;11;34
+r;419592165;140667;15444057;11;34
+r;419592170;140667;15775413;11;34
+r;419592177;140667;15220911;11;34
+r;419592181;140667;15444050;11;34
+r;419592188;140667;15220909;11;34
+r;419592194;140667;15220913;11;34
+r;419592199;140667;15390307;11;34
+r;121460894;140667;6447484;11;36
+r;314740813;140667;12077033;11;36
+r;121030882;140667;6451811;11;37
+r;121451678;140667;6448494;11;37
+r;121518907;140667;6441014;11;37
+r;121492481;140667;6443966;11;38
+r;121497563;140667;6443392;11;38
+r;121540854;140667;6438571;11;38
+r;290420821;140667;11335417;11;39
+r;121056729;140667;6448990;11;42
+r;55832917;140667;2468906;11;44
+r;121032437;140667;6451645;11;44
+r;121034757;140667;6451392;11;44
+r;121851653;140667;6538525;11;44
+r;121469549;140667;6446517;11;45
+r;121852837;140667;6538419;11;45
+r;121452836;140667;6448358;11;47
+r;121906090;140667;6534059;11;47
+r;121049473;140667;6449795;11;48
+r;29785365;140667;1824243;11;49
+r;121907298;140667;6533882;11;49
+r;29784853;140667;1824244;11;50
+r;50254893;140667;2364323;11;50
+r;121851693;140667;6538523;11;50
+r;169732507;140667;8735790;11;50
+r;414847516;140667;15494237;11;50
+r;402121740;140667;15572482;11;50
+r;402107010;140667;15252365;11;50
+r;17219690;140667;568288;11;51
+r;29191623;140667;1777733;11;51
+r;29206585;140667;1777741;11;51
+r;121851673;140667;6538524;11;51
+r;29194218;140667;1777742;11;52
+r;29205610;140667;1777740;11;52
+r;121852825;140667;6538420;11;52
+r;16141849;140667;459882;11;53
+r;103250794;140667;4933331;11;53
+r;121847567;140667;6538890;11;53
+r;17219684;140667;568289;11;54
+r;121906075;140667;6534060;11;54
+r;29189997;140667;1777737;11;55
+r;29193224;140667;1777739;11;55
+r;29193264;140667;1777734;11;55
+r;29205757;140667;1777732;11;55
+r;77676487;140667;3225529;11;55
+r;29065432;140667;1767244;11;57
+r;29193242;140667;1777736;11;57
+r;29213326;140667;1778726;11;57
+r;98016247;140667;4314607;11;57
+r;17219678;140667;568290;11;58
+r;29223091;140667;1779512;11;58
+r;29194396;140667;1777735;11;59
+r;30839949;140667;1916587;11;59
+r;16129313;140667;456306;11;60
+r;29193554;140667;1777738;11;60
+r;29866621;140667;1848869;11;60
+r;29481634;140667;1800968;11;61
+r;29481609;140667;1800967;11;63
+r;29858148;140667;1850603;11;64
+r;12765047;140667;335158;11;101
+r;12765055;140667;335156;11;103
+r;12765061;140667;335154;11;104
+r;12765065;140667;335153;11;104
+r;12765059;140667;335155;11;106
+r;12765051;140667;335157;11;107
+r;9020112;140667;319020;11;148
+r;8881868;140667;260754;11;151
+r;8874730;140667;144352;11;152
+r;8877867;140667;204652;11;153
+r;8885784;140667;306015;11;153
+r;8697461;140667;228376;11;161
+r;8811415;140667;313254;11;161
+r;8688863;140667;213507;11;162
+r;8637013;140667;180594;11;163
+r;8637015;140667;180595;11;163
+r;8760542;140667;292852;11;163
+r;8660640;140667;195934;11;164
+r;8660642;140667;195935;11;164
+r;395302;140667;164309;11;188
+r;408660;140667;165090;11;188
+r;380743;140667;163383;11;198

@@ -1,0 +1,300 @@
+
+e;17685;'poussière';1;792
+e;6286759;'poussière de magnésium';1;0
+e;6303249;'poussière de baryum';1;0
+e;6306190;'poussière de pentoxyde de vanadium';1;0
+e;6322949;'poussière de cobalt';1;0
+e;6330695;'acariens de la poussière de maison en amérique';1;0
+e;6335386;'poussière et brouillard de cuivre';1;0
+e;6338359;'poussière de cadmium';1;0
+e;6366188;'poussière interplanétaire';1;0
+e;6378503;'poussière de minéral';1;0
+e;6382190;'poussière de roche';1;0
+e;6407588;'poussière de rhodium';1;0
+e;6411879;'poussière de graphite';1;0
+e;6415879;'poussière mixte';1;0
+e;12190236;'mesure de tapisserie (poussière) ac ige';1;0
+e;12186969;'détermination de la présence de soja (poussière) ac ige classification rast';1;0
+e;12186967;'mesure de soja (poussière) ac ige';1;0
+e;12186660;'détermination de la présence de silo (poussière) ac ige classification rast';1;0
+e;12186329;'mesure de séquoia (poussière de bois) ac ige';1;0
+e;12169677;'mesure de mite (poussière) ac ige';1;0
+e;12167880;'détermination de la présence de matelas (poussière) ac ige classification rast';1;0
+e;12167878;'mesure de matelas (poussière) ac ige';1;0
+e;12156189;'mesure de grain de mil (poussière) ac ige';1;0
+e;12156185;'mesure de grain de céréale (poussière) ac ige';1;0
+e;12141358;'mesure de coton (poussière de machine égreneuse) ac ige';1;0
+e;12136481;'mesure de chêne (poussière de bois) ac ige';1;0
+e;12134823;'mesure de cèdre (poussière de bois) ac ige';1;0
+e;14740153;'poussière de farine';1;0
+e;6332155;'pollution par la poussière';1;0
+e;6402161;'réaction allergique à la poussière de coton';1;0
+e;15441127;'faire mordre la poussière à [qqn]';1;0
+e;6366042;'acariens de la poussière de maison en europe';1;0
+e;6399660;'acariens européens de la poussière de maison';1;0
+e;6413775;'acariens américains de la poussière de maison';1;0
+e;12092604;'cèdre (poussière de bois) ac ige';1;0
+e;12091030;'blé (poussière) ige';1;0
+e;12090521;'acajou (poussière de bois) ac ige';1;0
+e;12090495;'abachi (poussière de bois) ac ige';1;0
+e;12202188;'cèdre (poussière de bois)';1;0
+e;12202101;'abachi (poussière de bois)';1;0
+e;12202100;'acajou (poussière de bois)';1;0
+e;12202064;'matelas (poussière)';1;0
+e;12201994;'chêne (poussière de bois)';1;0
+e;12201964;'mite (poussière)';1;0
+e;12201856;'grain de céréale (poussière)';1;0
+e;12201855;'grain de mil (poussière)';1;0
+e;12201816;'séquoia (poussière de bois)';1;0
+e;12201813;'soja (poussière)';1;0
+e;12201805;'tapisserie (poussière)';1;0
+e;14585973;'poussière de craie';1;0
+e;14589912;'poussière blanche';1;0
+e;12090496;'abachi (poussière de bois) ac ige classification rast';1;0
+e;12097481;'grain de mil (poussière) ac ige';1;0
+e;12097479;'grain de céréale (poussière) ac ige';1;0
+e;12094299;'coton (poussière de machine égreneuse) ac ige';1;0
+e;12092974;'chêne (poussière de bois) ac ige';1;0
+e;12091029;'blé (poussière) ac ige classification rast';1;0
+e;12201861;'coton (poussière de machine égreneuse)';1;0
+e;12101092;'mite (poussière) ac ige';1;0
+e;12100705;'matelas (poussière) ac ige classification rast';1;0
+e;12100704;'matelas (poussière) ac ige';1;0
+e;6086856;'Il ne restera que poussière';777;0
+e;6428795;'exposition professionnelle à la poussière';1;0
+e;10589462;'Du sang dans la poussière';777;0
+e;12110128;'mite (poussière) ag';1;0
+e;12110505;'soja (poussière) ag';1;0
+e;12110489;'séquoia (poussière de bois) ag';1;0
+e;12110603;'tapisserie (poussière) ag';1;0
+e;12110107;'matelas (poussière) ag';1;0
+e;12109911;'grain de mil (poussière) ag';1;0
+e;12109909;'grain de céréale (poussière) ag';1;0
+e;12109724;'coton (poussière de machine égreneuse) ag';1;0
+e;12109618;'chêne (poussière de bois) ag';1;0
+e;12109582;'cèdre (poussière de bois) ag';1;0
+e;12109325;'acajou (poussière de bois) ag';1;0
+e;12109315;'abachi (poussière de bois) ag';1;0
+e;12107105;'tapisserie (poussière) ac ige';1;0
+e;12105913;'soja (poussière) ac ige classification rast';1;0
+e;12105912;'soja (poussière) ac ige';1;0
+e;12105824;'silo (poussière) ac ige classification rast';1;0
+e;12105724;'séquoia (poussière de bois) ac ige';1;0
+e;5574092;'poussière intelligente';777;0
+e;11781856;'bassin de poussière';777;0
+e;5634594;'bain de poussière ou de sable';777;0
+e;15278315;'brume de poussière';1;0
+e;1827099;'allergie à la poussière de maison';1;0
+e;6435803;'pneumopathie due à l'inhalation d'une autre poussière';1;0
+e;12079267;'graine poussière';1;0
+e;15279076;'acarien de la poussière';1;0
+e;6449274;'poussière d'hafnium';1;0
+e;6440775;'dosage de la poussière d'ange';1;0
+e;6422449;'pneumoconiose due à une autre poussière inorganique';1;0
+e;6009715;'grande quantité de poussière';1;0
+e;10777867;'poussière cométaire';777;0
+e;15341454;'La table est couverte de poussière.';1;0
+e;2415876;'cacher la poussière sous le tapis';1;0
+e;10512247;'Demande à la poussière';777;0
+e;11178507;'poussière de Cantor';777;0
+e;6445461;'abus de poussière d'ange';1;0
+e;10178366;'Duel dans la poussière';777;0
+e;10510119;'sac à poussière';1;0
+e;10510116;'aspirateur à poussière';1;0
+e;2474390;'aspirateur eau et poussière';1;0
+e;15401008;'J'ai une poussière dans l'?il.';1;0
+e;590217;'Les Murs de poussière';777;0
+e;2325679;'anti-poussière';1;0
+e;159260;'et des poussières';1;50
+e;4341997;'poussière de silice';1;0
+e;1782072;'Bassin de poussière';777;0
+e;2543832;'anti poussière';1;0
+e;2485616;'secouer la poussière de ses souliers';1;0
+e;2536118;'pare-poussière';1;0
+e;2932684;'poussière lunaire';777;0
+e;1842072;'poussière auditive';1;0
+e;372516;'poussière radioactive';1;50
+e;369534;'pelle à poussière';1;50
+e;334826;'allergie à la poussière';1;120
+e;351183;'en poussière';1;50
+e;376573;'revêtement anti-poussière';1;50
+e;372514;'poussière organique';1;50
+e;338354;'banc de poussière';1;50
+e;366347;'nid à poussière';1;50
+e;372513;'poussière inorganique';1;50
+e;344520;'couche de poussière';1;50
+e;71398;'cache-poussière';1;54
+e;20937;'ramasse-poussière';1;52
+e;324345;'tempête de poussière';1;50
+e;250957;'poussière de maison';1;2
+e;259654;'prendre la poussière';1;50
+e;208020;'secouer la poussière de ses sandales';1;50
+e;209202;'tourbillon de poussière';1;50
+e;45564;'Va jouer avec cette poussière';1;50
+e;127566;'gris de poussière';1;50
+e;186928;'tirer de la poussière';1;50
+e;206051;'poussière cosmique';1;50
+e;206052;'poussière interstellaire';1;50
+e;206771;'réduire en poussière';1;50
+e;264279;'secouer la poussière';1;50
+e;272921;'coup de poussière';777;50
+e;283385;'poussière d'oreille';777;50
+e;310288;'poussière d'or';777;50
+e;17780;'nuage de poussière';1;54
+e;1680;'Bal poussière';1;50
+e;160644;'grain de poussière';1;68
+e;161275;'poussière de charbon';1;50
+e;159089;'poussière dans l'oeil';1;52
+e;159731;'faire la poussière';1;118
+e;5485;'mordre la poussière';1;54
+e;159747;'chiffon à poussière';1;52
+e;159259;'avoir une poussière dans l'oeil';1;54
+r;298191652;17685;6286759;11;25
+r;299338848;17685;6303249;11;25
+r;299489607;17685;6306190;11;25
+r;300132096;17685;6322949;11;25
+r;300959098;17685;6330695;11;25
+r;301220460;17685;6335386;11;25
+r;301446361;17685;6338359;11;25
+r;302190402;17685;6366188;11;25
+r;303642207;17685;6378503;11;25
+r;303947913;17685;6382190;11;25
+r;305328774;17685;6407588;11;25
+r;305479950;17685;6411879;11;25
+r;305671062;17685;6415879;11;25
+r;316578748;17685;12190236;11;25
+r;316592786;17685;12186969;11;25
+r;316592799;17685;12186967;11;25
+r;316593888;17685;12186660;11;25
+r;316595099;17685;12186329;11;25
+r;316661777;17685;12169677;11;25
+r;316666496;17685;12167880;11;25
+r;316666509;17685;12167878;11;25
+r;316703380;17685;12156189;11;25
+r;316703400;17685;12156185;11;25
+r;316753560;17685;12141358;11;25
+r;316771698;17685;12136481;11;25
+r;316776355;17685;12134823;11;25
+r;374709122;17685;14740153;11;25
+r;399504730;17685;6332155;11;25
+r;400838458;17685;6402161;11;25
+r;395471017;17685;15441127;11;25
+r;302405619;17685;6366042;11;26
+r;305136302;17685;6399660;11;26
+r;305495410;17685;6413775;11;26
+r;315634905;17685;12092604;11;26
+r;315645288;17685;12091030;11;26
+r;315646377;17685;12090521;11;26
+r;315646467;17685;12090495;11;26
+r;316541268;17685;12202188;11;26
+r;316541721;17685;12202101;11;26
+r;316541727;17685;12202100;11;26
+r;316542030;17685;12202064;11;26
+r;316542408;17685;12201994;11;26
+r;316542632;17685;12201964;11;26
+r;316543306;17685;12201856;11;26
+r;316543314;17685;12201855;11;26
+r;316543618;17685;12201816;11;26
+r;316543639;17685;12201813;11;26
+r;316543709;17685;12201805;11;26
+r;370645601;17685;14585973;11;26
+r;370714709;17685;14589912;11;26
+r;315570749;17685;12090496;11;27
+r;315596440;17685;12097481;11;27
+r;315596458;17685;12097479;11;27
+r;315620922;17685;12094299;11;27
+r;315632368;17685;12092974;11;27
+r;315645294;17685;12091029;11;27
+r;316543270;17685;12201861;11;27
+r;315564588;17685;12101092;11;28
+r;315566908;17685;12100705;11;28
+r;315566919;17685;12100704;11;28
+r;119671713;17685;6086856;11;29
+r;122704990;17685;6428795;11;29
+r;264468038;17685;10589462;11;29
+r;315486751;17685;12110128;11;29
+r;315484669;17685;12110505;11;29
+r;315484760;17685;12110489;11;29
+r;315483796;17685;12110603;11;29
+r;315486857;17685;12110107;11;29
+r;315487978;17685;12109911;11;29
+r;315487992;17685;12109909;11;29
+r;315489008;17685;12109724;11;29
+r;315489620;17685;12109618;11;29
+r;315489814;17685;12109582;11;29
+r;315491319;17685;12109325;11;29
+r;315491391;17685;12109315;11;29
+r;315506452;17685;12107105;11;29
+r;315519278;17685;12105913;11;29
+r;315519289;17685;12105912;11;29
+r;315519998;17685;12105824;11;29
+r;315520849;17685;12105724;11;29
+r;110595022;17685;5574092;11;30
+r;303729999;17685;11781856;11;31
+r;111355836;17685;5634594;11;32
+r;419666219;17685;15278315;11;32
+r;29846453;17685;1827099;11;34
+r;121565551;17685;6435803;11;34
+r;315118886;17685;12079267;11;34
+r;419568423;17685;15279076;11;34
+r;121054101;17685;6449274;11;35
+r;121521050;17685;6440775;11;36
+r;122754282;17685;6422449;11;36
+r;118514471;17685;6009715;11;37
+r;269872836;17685;10777867;11;38
+r;417155666;17685;15341454;11;38
+r;54371425;17685;2415876;11;39
+r;262043411;17685;10512247;11;41
+r;286806237;17685;11178507;11;41
+r;121479015;17685;6445461;11;42
+r;238921286;17685;10178366;11;43
+r;261415444;17685;10510119;11;44
+r;261415203;17685;10510116;11;45
+r;55937251;17685;2474390;11;47
+r;402121762;17685;15401008;11;50
+r;18524244;17685;590217;11;51
+r;33855080;17685;2325679;11;51
+r;241066;17685;159260;11;53
+r;99069903;17685;4341997;11;54
+r;29247263;17685;1782072;11;60
+r;52455735;17685;2543832;11;60
+r;52483074;17685;2485616;11;60
+r;52504421;17685;2536118;11;60
+r;71958216;17685;2932684;11;61
+r;29901334;17685;1842072;11;65
+r;12612133;17685;372516;11;102
+r;12624449;17685;369534;11;102
+r;12766385;17685;334826;11;102
+r;12698555;17685;351183;11;103
+r;12595641;17685;376573;11;105
+r;12612141;17685;372514;11;106
+r;12752217;17685;338354;11;106
+r;12636845;17685;366347;11;108
+r;12612145;17685;372513;11;109
+r;12726453;17685;344520;11;110
+r;11867753;17685;71398;11;121
+r;11875273;17685;20937;11;121
+r;9343175;17685;324345;11;148
+r;8714451;17685;250957;11;161
+r;8725896;17685;259654;11;161
+r;8681210;17685;208020;11;162
+r;8683197;17685;209202;11;162
+r;8585183;17685;45564;11;163
+r;8614078;17685;127566;11;163
+r;8647759;17685;186928;11;163
+r;8677859;17685;206051;11;163
+r;8677861;17685;206052;11;163
+r;8679034;17685;206771;11;163
+r;8731820;17685;264279;11;163
+r;8740585;17685;272921;11;163
+r;8750583;17685;283385;11;163
+r;8776179;17685;310288;11;163
+r;1847004;17685;17780;11;166
+r;8570528;17685;1680;11;169
+r;265419;17685;160644;11;188
+r;270999;17685;161275;11;188
+r;238786;17685;159089;11;189
+r;247278;17685;159731;11;189
+r;241065;17685;5485;11;194
+r;247552;17685;159747;11;199
+r;241064;17685;159259;11;209

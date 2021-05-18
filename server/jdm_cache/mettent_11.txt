@@ -1,0 +1,10 @@
+
+e;2225077;'mettent';2;0
+e;11061524;'Les Bleus se mettent au vert';777;0
+e;10747792;'mettent le siège devant Calais';777;0
+e;15523106;'Les gens le mettent à l'index du fait de son âge.';1;0
+e;15397236;'Ils mettent en relation acheteurs et vendeurs.';1;0
+r;280531534;2225077;11061524;11;32
+r;269386841;2225077;10747792;11;35
+r;419496050;2225077;15523106;11;35
+r;402111909;2225077;15397236;11;50

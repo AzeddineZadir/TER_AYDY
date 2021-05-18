@@ -1,0 +1,720 @@
+
+e;16875;'direction';1;998
+e;6342170;'sens de direction';1;0
+e;13588951;'élection à la direction du Parti travailliste de 1932';777;0
+e;13588950;'élection à la direction du Parti travailliste de 1931';777;0
+e;13588952;'élection à la direction du Parti travailliste de 1935';777;0
+e;13590210;'direction générale des Infrastructures, des Transports et de la Mer';1;0
+e;13588949;'élection à la direction du Parti travailliste de 1922';777;0
+e;13588953;'élection à la direction du Parti travailliste de 1955';777;0
+e;13998419;'direction du Budget';777;0
+e;14127246;'direction d'un projet';1;0
+e;14434575;'a pour contact à la direction';1;0
+e;14484516;'plus fermé avec la direction du vent';777;0
+e;14484518;'plus ouvert avec la direction du vent';777;0
+e;14486710;'direction des publics';777;0
+e;14486709;'La direction de l'administration et du personnel';777;0
+e;14486707;'La direction des collections';777;0
+e;14486708;'La direction des services et des réseaux';777;0
+e;14581157;'direction du Trésor';777;0
+e;14669218;'bâton de direction';1;0
+e;14744583;'direction générale de l'Offre de soins';777;0
+e;14747355;'La direction de l'intonation';777;0
+e;14895502;'direction interministérielle du numérique';777;0
+e;15024594;'adjointe de direction';1;0
+e;15024597;'adjoints de direction';1;0
+e;15020131;'arbres de direction';1;0
+e;15034076;'attachée de direction';1;0
+e;15034089;'attachés de direction';1;0
+e;10676023;'élection de 2016 à la direction du Parti travailliste britannique';777;0
+e;10676021;'élection à la direction du Parti travailliste de 2015';777;0
+e;10676016;'élection à la direction du Parti conservateur de 2016';777;0
+e;12988425;'direction technique nationale';777;0
+e;6098155;'direction du service juridique de l'État';777;0
+e;6086989;'direction des Affaires civiles et du Sceau';777;0
+e;6086988;'direction des services judiciaires';777;0
+e;6086846;'direction des affaires criminelles et des grâces';777;0
+e;10663113;'direction de l'information légale et administrative';777;0
+e;6086994;'direction de l'administration pénitentiaire';777;0
+e;16325188;'dans la mauvaise direction';1;0
+e;16156334;'direction axiale';1;0
+e;16313855;'direction de la Librairie';777;0
+e;16359641;'direction de la protection et de la sécurité de la Défense';777;0
+e;16437059;'direction des affaires juridiques';1;0
+e;16360738;'direction du commerce';1;0
+e;16360734;'direction du livre et de la lecture';1;0
+e;16310345;'direction générale de l'Énergie et des Matières premières';777;0
+e;16310346;'direction générale de l'Énergie et du Climat';777;0
+e;15530021;'dans la direction inverse';1;0
+e;15909740;'de nouvelles formes de partenariat entre direction et travailleurs';1;0
+e;15229628;'direction Jeunesse et Sports';1;0
+e;15546368;'direction actuariat';1;0
+e;15537212;'direction centrale';1;0
+e;15301646;'direction courante';1;0
+e;15276687;'direction d'avance';1;0
+e;15437164;'direction de chantiers';1;0
+e;15530025;'direction de coupe';1;0
+e;15650718;'direction de l'environnement';1;0
+e;15525135;'direction de l'information et de la communication';1;0
+e;15503660;'direction de la circulation';1;0
+e;15214213;'direction de la com';1;0
+e;15525145;'direction de la communication et de l'information';1;0
+e;15571033;'direction de la communication et des relations extérieures';1;0
+e;15437166;'direction de la comptabilité';1;0
+e;15329942;'direction de la musique';1;0
+e;15571612;'direction de la musique et de la danse';1;0
+e;15428820;'direction de la recherche';1;0
+e;15777634;'direction de la sous-direction d'Asie-Océanie';777;0
+e;15530023;'direction de réseau';1;0
+e;15283609;'direction de traduction';1;0
+e;15396893;'direction des RH';1;0
+e;15362419;'direction des achats';1;0
+e;15547035;'direction des achats groupe';1;0
+e;15516469;'direction des archives';1;0
+e;15768094;'direction des archives de France';777;0
+e;15543573;'direction des entreprises';1;0
+e;15492530;'direction des musées';1;0
+e;15492528;'direction des musées de France';1;0
+e;15527762;'direction des soins infirmiers';1;0
+e;15485761;'direction des ventes et du marketing';1;0
+e;15358178;'direction du cinéma';1;0
+e;15694649;'direction du développement culturel';1;0
+e;15522766;'direction du développement des médias';1;0
+e;15310956;'direction du théâtre et des spectacles';1;0
+e;15317686;'direction du tourisme';1;0
+e;15496675;'direction du trésor';1;0
+e;15277460;'direction départementale et régionale de l'équipement';1;0
+e;15592599;'direction et les ouvriers';1;0
+e;15437171;'direction fonctionnelle';1;0
+e;15768095;'direction générale des archives de France';777;0
+e;15544133;'direction générale des impôts';1;0
+e;15264133;'direction marketing';1;0
+e;15437178;'direction opérationnelle';1;0
+e;15358047;'direction ressources humaines';1;0
+e;15580709;'direction régionale de l'environnement';1;0
+e;15580707;'direction régionale de l'équipement';1;0
+e;15769733;'direction régionale des affaires culturelles';1;0
+e;15410973;'direction résultante de coupe';1;0
+e;15500721;'direction stratégie et développement';1;0
+e;15484922;'direction à crémaillère à assistance variable';1;0
+e;15320968;'direction éditoriale';1;0
+e;15437184;'en direction de [qch/qqn]';1;0
+e;15437187;'en direction du Nord';1;0
+e;15435085;'en direction du Sud';1;0
+e;15437185;'en direction du nord';1;0
+e;15435084;'en direction du sud';1;0
+e;5802770;'direction départementale des territoires';1;0
+e;10577234;'direction générale des Archives de France';777;0
+e;10597107;'no direction home';777;0
+e;15980059;'direction régionale des Affaires sanitaires et sociales';777;0
+e;15325415;'conseil de direction';1;0
+e;15752959;'conseiller de direction';1;0
+e;15752961;'conseiller de la direction générale';1;0
+e;16390689;'barre de direction';1;0
+e;5565221;'direction d'orchestre';777;0
+e;5835947;'direction départementale de l'Agriculture et de la Forêt';777;0
+e;10577232;'direction des Archives de France';777;0
+e;11981367;'direction des Archives et des biens culturels l'Orne';777;0
+e;11776884;'direction du renseignement militaire';777;0
+e;11776891;'direction générale du numérique et des systèmes d'information et de communication';777;0
+e;11776887;'direction générale de la gendarmerie nationale';777;0
+e;11806978;'direction générale des Finances publiques';777;0
+e;15531548;'augmentation des salaires par la direction';1;0
+e;15395172;'avancer dans la bonne direction';1;0
+e;15543760;'biellette de direction';1;0
+e;15594180;'blocage de direction';1;0
+e;16029868;'boitier de direction';777;0
+e;16029866;'boîtier de direction';777;0
+e;1832153;'direction départementale des affaires sanitaires et sociales';1;0
+e;10576854;'direction des Affaires culturelles';777;0
+e;11069967;'direction des ressources humaines de l'Armée de terre';777;0
+e;11806986;'direction centrale de la Sécurité publique';777;0
+e;11807022;'direction générale des Collectivités locales';777;0
+e;15520636;'assistanat de direction';1;0
+e;15305062;'assistant de direction';1;0
+e;16390691;'angle de direction';1;0
+e;16437635;'angle de direction d'arête';1;0
+e;16437637;'angle de direction d'avance';1;0
+e;6067993;'direction générale de la sécurité civile';777;0
+e;15340743;'Peter fit un signe de la main en direction de la maison.';1;0
+e;15777213;'Vous serez placé sous la direction de M. Hartland.';1;0
+e;15752428;'aller dans cette direction';1;0
+e;15752440;'aller dans ta direction';1;0
+e;15410975;'angle de la direction résultante de coupe';1;0
+e;1832154;'direction des hôpitaux';1;0
+e;1832155;'direction visuelle';1;0
+e;1837856;'ligne de direction';1;0
+e;5942422;'direction régionale du service d'infrastructure de la Défense de Brest';777;0
+e;10302512;'course à la direction du Parti libéral du Canada de 2006';777;0
+e;10302511;'course à la direction du Parti libéral du Canada';777;0
+e;10933376;'direction centrale de la Police judiciaire';777;0
+e;11021667;'direction générale de l'administration et de la fonction publique';777;0
+e;11094921;'direction départementale interministérielle';777;0
+e;11094845;'direction départementale des Territoires et de la Mer';777;0
+e;11286105;'Critics' Choice Movie Award de la meilleure direction artistique';777;0
+e;12078512;'direction de conscience';1;0
+e;12864927;'élection à la direction du Parti conservateur de 2019';777;0
+e;12870704;'direction de la Coopération de sécurité et de défense';777;0
+e;13447380;'direction de la maintenance aéronautique';777;0
+e;16152709;'La pratique de la direction d'entreprise';777;0
+e;16308740;'La direction du mouvement';777;0
+e;10315686;'direction centrale de la police judiciaire';777;0
+e;10315685;'direction régionale de la police judiciaire de Paris';777;0
+e;11090514;'direction générale du travail';777;0
+e;11094869;'direction départementale des Territoires';777;0
+e;11094925;'direction départementale de l'Équipement et de l'Agriculture';777;0
+e;12018706;'direction nationale du renseignement et des enquêtes douanières';777;0
+e;5804402;'direction centrale de la sécurité des systèmes d'information';777;0
+e;10297953;'course à la direction du Parti québécois de 1985';777;0
+e;6260916;'Sous-direction';1;0
+e;5804287;'Association des directeurs et personnels de direction des bibliothèques universitaires et de la documentation';777;0
+e;7846243;'direction d'acteur';1;0
+e;10062068;'élection à la direction du Parti conservateur du Canada';777;0
+e;11153513;'direction des achats de l'État';777;0
+e;11147511;'signalisation routière de direction en France';777;0
+e;11236831;'direction interministérielle de la transformation publique';777;0
+e;11342009;'direction générale des collectivités locales';777;0
+e;12052382;'direction des Affaires maritimes';777;0
+e;5535056;'direction des systèmes d'information';777;0
+e;5982615;'direction par objectifs';777;0
+e;10297999;'course à la direction du Parti québécois de 2005';777;0
+e;10547394;'direction de descente';777;0
+e;10553151;'course à la direction du Parti québécois de 2016';777;0
+e;10553150;'course à la direction du Parti québécois de 2007';777;0
+e;10553149;'course à la direction du Parti québécois de 2001';777;0
+e;10553148;'course à la direction du Parti québécois de 1996';777;0
+e;10553147;'course à la direction du Parti québécois de 1988';777;0
+e;11975871;'direction régionale de la police judiciaire de la préfecture de police de Paris';777;0
+e;12053138;'avoir pour contact à la direction';1;0
+e;5831803;'en direction de tous les acteurs intéressés par l'intégration des préoccupations environnementales dans les systèmes de production animales et végétales';777;0
+e;10458720;'Ma direction';777;0
+e;11146141;'direction de la protection et de la sécurité de la défense';777;0
+e;11146138;'direction du renseignement et de la sécurité de la Défense';777;0
+e;11216779;'direction générale des Patrimoines';777;0
+e;11970577;'direction générale des Douanes et Droits indirects';777;0
+e;5565126;'brusque changement de direction';1;0
+e;11373436;'direction générale de la prévention des risques';777;0
+e;7413837;'indiquer la bonne direction';1;0
+e;10094465;'Changement de direction';777;0
+e;11175694;'direction générale de l'aviation civile';777;0
+e;11178424;'direction de la sécurité sociale';777;0
+e;11218304;'direction des libertés publiques et des affaires juridiques';777;0
+e;11219952;'direction financière';1;0
+e;11373453;'direction régionale et interdépartementale de l'environnement et de l'énergie';777;0
+e;11373445;'direction de la sécurité de l'aviation civile';777;0
+e;11373446;'direction des services de la navigation aérienne';777;0
+e;5942023;'direction relative';777;0
+e;11010657;'direction des Musées de France';777;0
+e;11161754;'Centre national de gestion des praticiens hospitaliers et des personnels de direction de la fonction publique hospitalière';777;0
+e;11310697;'direction des Sciences de la matière';777;0
+e;5537904;'direction de l'architecture et du patrimoine';777;0
+e;5942425;'direction des travaux maritimes de Brest';777;0
+e;13302182;'direction de croissance';1;0
+e;2373254;'direction à glissement';1;0
+e;10063510;'course à la direction du Parti québécois de 2014-2015';777;0
+e;11158895;'École supérieure d'administration et de direction d'entreprises';777;0
+e;15391151;'La circulation en direction de l'ouest est très ralentie.';1;0
+e;2438046;'revue de direction';1;0
+e;5565125;'brusque changement de direction d'une onde';1;0
+e;7759987;'direction médiolatérale';1;0
+e;12772384;'Métro Châtelet direction Cassiopée';777;0
+e;12770817;'direction générale de la Traduction';777;0
+e;8852990;'direction générale de la concurrence, de la consommation et de la répression des fraudes';1;0
+e;8930386;'direction départementale des territoire';1;0
+e;8930436;'direction régionale de l'environnement, de l'aménagement et du logement';1;0
+e;11127605;'direction régionale et interdépartementale de l'équipement et de l'aménagement';777;0
+e;11131385;'adjoint de direction en accueil collectif de mineurs';777;0
+e;12617991;'direction des unités anti-terrorisme';777;0
+e;12640488;'direction nouvelle';1;0
+e;12645617;'de direction opposée';1;0
+e;12708489;'chauffeur de direction';777;0
+e;14557565;'Galons du corps de conception et de direction de la police nationale';777;0
+e;15570258;'C'est dans la direction opposée.';1;0
+e;15502245;'Il est hautement estimé par sa direction.';1;0
+e;15570254;'Elle est partie dans la direction opposée.';1;0
+e;2605440;'direction d'intention';1;0
+e;462249;'corps des personnels de direction de l'Éducation nationale';777;50
+e;592774;'direction générale de la santé';1;0
+e;3673780;'indiquer une direction';1;0
+e;4308689;'direction générale de la Police nationale';777;0
+e;5526078;'direction générale des finances publiques';777;0
+e;592860;'direction des services départementaux de l'éducation nationale';777;0
+e;2517082;'fausse direction';1;0
+e;2949617;'direction de la Surveillance du territoire';777;0
+e;3174764;'direction des services départementaux de l'Éducation nationale';777;0
+e;2326121;'sous-direction';1;0
+e;3762691;'direction de la Coopération militaire et de défense';777;0
+e;154192;'toutes directions';1;50
+e;566139;'direction des affaires maritimes';777;50
+e;1767055;'co-direction';1;6
+e;3174081;'direction générale des médias et des industries culturelles';777;0
+e;3223564;'direction générale de la Comptabilité publique';777;0
+e;2928643;'direction générale de l'Aviation civile';777;0
+e;3268954;'direction générale de la Sécurité extérieure';777;0
+e;461229;'direction générale de la sécurité intérieure';777;50
+e;4940401;'direction contraire';1;0
+e;2933682;'direction générale de la Santé';777;0
+e;3174619;'direction centrale des Renseignements généraux';777;0
+e;1858016;'indices de direction';777;0
+e;3173942;'direction générale de l'Armement';777;0
+e;2936076;'direction générale de la Sécurité intérieure';777;0
+e;1844473;'sensibilité à la direction';1;0
+e;2861037;'changements de direction';1;0
+e;2920675;'direction générale du Trésor';777;0
+e;2799721;'direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi';1;0
+e;372131;'poste de direction';1;50
+e;353885;'feu indicateur de direction droit';1;50
+e;353553;'fauteuil de direction';1;50
+e;346170;'dans la bonne direction';1;50
+e;340873;'cadre de direction';1;50
+e;388703;'à la sous-direction de';1;50
+e;385729;'une étape dans la direction de';1;50
+e;380726;'sous la direction musicale de';1;50
+e;354583;'fonction de direction';1;50
+e;347575;'direction à crémaillère';1;52
+e;347562;'direction des ventes';1;50
+e;388542;'à la direction de';1;50
+e;387613;'volant de direction';1;50
+e;380733;'sous la haute direction de';1;50
+e;347572;'direction scientifique';1;50
+e;347561;'direction des affaires économiques';1;50
+e;347559;'direction d'acteurs';1;50
+e;347576;'direction à suivre';1;50
+e;347573;'direction technique';1;50
+e;347564;'direction départementale';1;50
+e;334004;'adjoint de direction';1;50
+e;382772;'table de direction';1;50
+e;380725;'sous la direction de';1;50
+e;379061;'secrétariat de direction';1;50
+e;347577;'direction de la sécurité publique';1;50
+e;347568;'direction multiple';1;50
+e;336116;'arbre de direction';1;50
+e;367635;'ordre public de direction';1;50
+e;358850;'indicateur de direction';1;50
+e;347574;'direction unifiée';1;50
+e;347569;'direction opposée';1;50
+e;346098;'dans l'autre direction';1;50
+e;339602;'bonne direction';1;54
+e;347579;'direction littéraire';1;50
+e;347558;'direction commerciale';1;50
+e;347555;'direction artistique';1;50
+e;347566;'direction fédérale';1;50
+e;347565;'direction fixe par rapport aux étoiles';1;50
+e;347563;'direction du personnel';1;50
+e;347556;'direction cardinale';1;50
+e;368995;'pas dans la bonne direction';1;50
+e;348253;'douille de direction';1;50
+e;347580;'direction radiale';1;50
+e;347578;'direction diocésaine';1;50
+e;347571;'direction pédagogique';1;50
+e;347570;'direction politique';1;50
+e;347567;'direction inverse';1;50
+e;347560;'direction de voiture';1;50
+e;347557;'direction collégiale';1;50
+e;345523;'crémaillère de direction';1;50
+e;344081;'comité de direction';1;56
+e;340158;'boîte de direction';1;50
+e;337149;'attaché de direction';1;50
+e;331004;'direction régionale';1;50
+e;222107;'servo-direction';1;50
+e;320050;'direction générale de la police nationale';777;50
+e;224693;'changer de direction';1;52
+e;232068;'direction générale des Impôts';1;50
+e;244130;'changement de direction';1;6
+e;251903;'nouvelle direction';1;52
+e;255247;'personnel de direction';1;50
+e;255688;'direction des ressources humaines';1;10
+e;261952;'assistante de direction';1;12
+e;261953;'secrétaire de direction';1;10
+e;99846;'en direction de';1;54
+e;117132;'direction des véhicules';1;50
+e;263898;'direction du vent';1;50
+e;292211;'La Persécution et l'Assassinat de Jean-Paul Marat représentés par le groupe théâtral de l'hospice de Charenton sous la direction de Monsieur de Sade';777;50
+e;40716;'Lettres de direction morale ou spirituelle';1;50
+e;181651;'commission de direction';1;50
+e;182078;'direction de la mercatique';1;50
+e;182079;'direction de visée';1;50
+e;202094;'imprimer une direction à';1;50
+e;203278;'maintenir sa direction';1;50
+e;264768;'équipe de direction';1;52
+e;267775;'mauvaise direction';1;50
+e;272547;'Règles pour la direction de l'esprit';777;50
+e;273126;'direction départementale des Affaires sanitaires et sociales';777;50
+e;274902;'direction générale de l'armement';777;50
+e;284409;'chef de la direction';777;50
+e;285126;'direction assistée';777;50
+e;289238;'direction centrale du renseignement intérieur';777;50
+e;290510;'direction des';777;50
+e;303668;'personnels de direction de l'éducation nationale';777;50
+e;309612;'direction générale des douanes et droits indirects';777;50
+e;309690;'direction de la protection judiciaire de la jeunesse';777;50
+e;27295;'partition de direction';1;50
+e;187623;'gouvernail de direction';1;50
+e;190689;'direction départementale de l'équipement';1;50
+e;190873;'direction départementale du travail';1;50
+e;197737;'colonne de direction';1;50
+e;198744;'direction spirituelle';1;50
+e;201488;'gouverne de direction';1;50
+e;1134;'dans la direction de';1;50
+e;151859;'direction générale';1;52
+r;301488456;16875;6342170;11;25
+r;344167828;16875;13588951;11;25
+r;344183661;16875;13588950;11;25
+r;344196989;16875;13588952;11;25
+r;344215930;16875;13590210;11;25
+r;344232158;16875;13588949;11;25
+r;344318889;16875;13588953;11;25
+r;352757977;16875;13998419;11;25
+r;357868157;16875;14127246;11;25
+r;366516023;16875;14434575;11;25
+r;368072800;16875;14484516;11;25
+r;368072866;16875;14484518;11;25
+r;368243277;16875;14486710;11;25
+r;368245308;16875;14486709;11;25
+r;368245810;16875;14486707;11;25
+r;368265719;16875;14486708;11;25
+r;370523491;16875;14581157;11;25
+r;372976793;16875;14669218;11;25
+r;374833788;16875;14744583;11;25
+r;374949742;16875;14747355;11;25
+r;389611153;16875;14895502;11;25
+r;392468286;16875;15024594;11;26
+r;392467711;16875;15024597;11;26
+r;392351916;16875;15020131;11;26
+r;393617198;16875;15034076;11;26
+r;393617514;16875;15034089;11;26
+r;270771447;16875;10676023;11;27
+r;270771467;16875;10676021;11;27
+r;270771504;16875;10676016;11;27
+r;333769906;16875;12988425;11;27
+r;119662162;16875;6098155;11;28
+r;119671162;16875;6086989;11;28
+r;119671172;16875;6086988;11;28
+r;119671747;16875;6086846;11;28
+r;267329778;16875;10663113;11;28
+r;119671139;16875;6086994;11;29
+r;434382847;16875;16325188;11;29
+r;434384254;16875;16156334;11;29
+r;434384259;16875;16313855;11;29
+r;434384264;16875;16359641;11;29
+r;434384269;16875;16437059;11;29
+r;434384278;16875;16360738;11;29
+r;434384283;16875;16360734;11;29
+r;434384290;16875;16310345;11;29
+r;434384304;16875;16310346;11;29
+r;419763095;16875;15530021;11;30
+r;419769139;16875;15909740;11;30
+r;419782634;16875;15229628;11;30
+r;419782641;16875;15546368;11;30
+r;419782646;16875;15537212;11;30
+r;419782651;16875;15301646;11;30
+r;419782656;16875;15276687;11;30
+r;419782661;16875;15437164;11;30
+r;419782666;16875;15530025;11;30
+r;419782671;16875;15650718;11;30
+r;419782676;16875;15525135;11;30
+r;419782683;16875;15503660;11;30
+r;419782688;16875;15214213;11;30
+r;419782693;16875;15525145;11;30
+r;419782700;16875;15571033;11;30
+r;419782709;16875;15437166;11;30
+r;419782714;16875;15329942;11;30
+r;419782719;16875;15571612;11;30
+r;419782729;16875;15428820;11;30
+r;419782734;16875;15777634;11;30
+r;419782740;16875;15530023;11;30
+r;419782745;16875;15283609;11;30
+r;419782750;16875;15396893;11;30
+r;419782752;16875;15362419;11;30
+r;419782759;16875;15547035;11;30
+r;419782771;16875;15516469;11;30
+r;419782778;16875;15768094;11;30
+r;419782790;16875;15543573;11;30
+r;419782797;16875;15492530;11;30
+r;419782804;16875;15492528;11;30
+r;419782816;16875;15527762;11;30
+r;419782825;16875;15485761;11;30
+r;419782837;16875;15358178;11;30
+r;419782842;16875;15694649;11;30
+r;419782849;16875;15522766;11;30
+r;419782856;16875;15310956;11;30
+r;419782863;16875;15317686;11;30
+r;419782868;16875;15496675;11;30
+r;419782871;16875;15277460;11;30
+r;419782883;16875;15592599;11;30
+r;419782888;16875;15437171;11;30
+r;419782893;16875;15768095;11;30
+r;419782905;16875;15544133;11;30
+r;419782909;16875;15264133;11;30
+r;419782914;16875;15437178;11;30
+r;419782919;16875;15358047;11;30
+r;419782926;16875;15580709;11;30
+r;419782936;16875;15580707;11;30
+r;419782946;16875;15769733;11;30
+r;419782958;16875;15410973;11;30
+r;419782966;16875;15500721;11;30
+r;419782973;16875;15484922;11;30
+r;419782985;16875;15320968;11;30
+r;419839031;16875;15437184;11;30
+r;419839035;16875;15437187;11;30
+r;419839039;16875;15435085;11;30
+r;419839043;16875;15437185;11;30
+r;419839047;16875;15435084;11;30
+r;113021423;16875;5802770;11;31
+r;263707228;16875;10577234;11;31
+r;264447124;16875;10597107;11;31
+r;417124912;16875;15980059;11;31
+r;419732499;16875;15325415;11;31
+r;419732908;16875;15752959;11;31
+r;419732914;16875;15752961;11;31
+r;434374624;16875;16390689;11;31
+r;110204241;16875;5565221;11;32
+r;114022705;16875;5835947;11;32
+r;263707240;16875;10577232;11;32
+r;311919969;16875;11981367;11;32
+r;302397014;16875;11776884;11;32
+r;302399924;16875;11776891;11;32
+r;302400051;16875;11776887;11;32
+r;305014865;16875;11806978;11;32
+r;419622124;16875;15531548;11;32
+r;419625348;16875;15395172;11;32
+r;419651619;16875;15543760;11;32
+r;419656503;16875;15594180;11;32
+r;419657519;16875;16029868;11;32
+r;419663426;16875;16029866;11;32
+r;29966722;16875;1832153;11;33
+r;263403814;16875;10576854;11;33
+r;280604016;16875;11069967;11;33
+r;304397002;16875;11806986;11;33
+r;304402415;16875;11807022;11;33
+r;419612833;16875;15520636;11;33
+r;419612968;16875;15305062;11;33
+r;434370735;16875;16390691;11;33
+r;434370742;16875;16437635;11;33
+r;434370754;16875;16437637;11;33
+r;118959692;16875;6067993;11;34
+r;419524340;16875;15340743;11;34
+r;419562216;16875;15777213;11;34
+r;419587417;16875;15752428;11;34
+r;419587490;16875;15752440;11;34
+r;419595118;16875;15410975;11;34
+r;29966088;16875;1832154;11;35
+r;29966165;16875;1832155;11;35
+r;30021214;16875;1837856;11;35
+r;116313297;16875;5942422;11;35
+r;252682436;16875;10302512;11;35
+r;252682464;16875;10302511;11;35
+r;275106773;16875;10933376;11;35
+r;279210117;16875;11021667;11;35
+r;282622610;16875;11094921;11;35
+r;282622703;16875;11094845;11;35
+r;289904783;16875;11286105;11;35
+r;315122894;16875;12078512;11;35
+r;329565066;16875;12864927;11;35
+r;329669432;16875;12870704;11;35
+r;341250983;16875;13447380;11;35
+r;423639157;16875;16152709;11;35
+r;428039088;16875;16308740;11;35
+r;252666281;16875;10315686;11;36
+r;252666290;16875;10315685;11;36
+r;281295692;16875;11090514;11;36
+r;281363429;16875;11094869;11;36
+r;281364198;16875;11094925;11;36
+r;313172229;16875;12018706;11;36
+r;113299282;16875;5804402;11;37
+r;247436553;16875;10297953;11;37
+r;296994428;16875;6260916;11;37
+r;113299944;16875;5804287;11;38
+r;126452680;16875;7846243;11;38
+r;232105529;16875;10062068;11;38
+r;283551676;16875;11153513;11;38
+r;283376290;16875;11147511;11;38
+r;287920036;16875;11236831;11;38
+r;290554739;16875;11342009;11;38
+r;313730451;16875;12052382;11;38
+r;109539209;16875;5535056;11;39
+r;117904114;16875;5982615;11;39
+r;247436324;16875;10297999;11;39
+r;262892900;16875;10547394;11;39
+r;263067464;16875;10553151;11;39
+r;263067475;16875;10553150;11;39
+r;263067486;16875;10553149;11;39
+r;263067497;16875;10553148;11;39
+r;263067508;16875;10553147;11;39
+r;310778408;16875;11975871;11;39
+r;313761390;16875;12053138;11;39
+r;113752235;16875;5831803;11;41
+r;261020031;16875;10458720;11;41
+r;283253752;16875;11146141;11;41
+r;283255183;16875;11146138;11;41
+r;287452453;16875;11216779;11;41
+r;308876184;16875;11970577;11;41
+r;110116512;16875;5565126;11;42
+r;291747042;16875;11373436;11;42
+r;124488990;16875;7413837;11;42
+r;233277398;16875;10094465;11;42
+r;286039376;16875;11175694;11;42
+r;286651572;16875;11178424;11;42
+r;287572595;16875;11218304;11;42
+r;287667930;16875;11219952;11;42
+r;291746958;16875;11373453;11;42
+r;291747094;16875;11373445;11;42
+r;291770730;16875;11373446;11;42
+r;116314703;16875;5942023;11;43
+r;278803163;16875;11010657;11;43
+r;285693242;16875;11161754;11;43
+r;289887670;16875;11310697;11;43
+r;109661956;16875;5537904;11;44
+r;116313282;16875;5942425;11;44
+r;338388997;16875;13302182;11;44
+r;52109890;16875;2373254;11;45
+r;232100656;16875;10063510;11;45
+r;284112754;16875;11158895;11;45
+r;417031595;16875;15391151;11;45
+r;55197530;16875;2438046;11;46
+r;110116908;16875;5565125;11;47
+r;126071834;16875;7759987;11;47
+r;327728458;16875;12772384;11;47
+r;327618890;16875;12770817;11;48
+r;190285910;16875;8852990;11;50
+r;193127394;16875;8930386;11;50
+r;193127724;16875;8930436;11;50
+r;282587292;16875;11127605;11;50
+r;282820156;16875;11131385;11;50
+r;323116008;16875;12617991;11;50
+r;323794575;16875;12640488;11;50
+r;324934071;16875;12645617;11;50
+r;325902644;16875;12708489;11;50
+r;400711844;16875;14557565;11;50
+r;399503301;16875;15570258;11;50
+r;402105696;16875;15502245;11;50
+r;399661855;16875;15570254;11;50
+r;97138091;16875;321932;11;51
+r;97138092;16875;321934;11;51
+r;55486739;16875;2605440;11;52
+r;16294246;16875;462249;11;53
+r;18594693;16875;592774;11;53
+r;91534204;16875;3673780;11;53
+r;96412943;16875;4308689;11;53
+r;109398795;16875;5526078;11;53
+r;18597707;16875;592860;11;54
+r;52468451;16875;2517082;11;54
+r;72648612;16875;2949617;11;54
+r;76458272;16875;3174764;11;54
+r;33909673;16875;2326121;11;55
+r;93890967;16875;3762691;11;55
+r;161046;16875;154192;11;56
+r;16918696;16875;566139;11;56
+r;29063287;16875;1767055;11;56
+r;76425717;16875;3174081;11;56
+r;77565514;16875;3223564;11;56
+r;98109928;16875;321931;11;56
+r;71810356;16875;2928643;11;57
+r;80017476;16875;3268954;11;58
+r;16195091;16875;461229;11;59
+r;103672144;16875;4940401;11;59
+r;72018088;16875;2933682;11;60
+r;98109929;16875;321933;11;60
+r;76448694;16875;3174619;11;62
+r;30016967;16875;1858016;11;63
+r;76392826;16875;3173942;11;63
+r;72215599;16875;2936076;11;64
+r;29887842;16875;1844473;11;67
+r;70609062;16875;2861037;11;67
+r;71613520;16875;2920675;11;67
+r;68371292;16875;2799721;11;68
+r;12613595;16875;372131;11;101
+r;12687645;16875;353885;11;101
+r;12689019;16875;353553;11;101
+r;12719713;16875;346170;11;101
+r;12741683;16875;340873;11;101
+r;12547057;16875;388703;11;102
+r;12558417;16875;385729;11;102
+r;12578529;16875;380726;11;102
+r;12684831;16875;354583;11;102
+r;12713041;16875;347575;11;102
+r;12713093;16875;347562;11;102
+r;12547599;16875;388542;11;104
+r;12550947;16875;387613;11;104
+r;12578499;16875;380733;11;104
+r;12713051;16875;347572;11;104
+r;12713099;16875;347561;11;104
+r;12713109;16875;347559;11;104
+r;12713037;16875;347576;11;105
+r;12713047;16875;347573;11;105
+r;12713085;16875;347564;11;105
+r;12769671;16875;334004;11;105
+r;12570455;16875;382772;11;106
+r;12578535;16875;380725;11;106
+r;12585385;16875;379061;11;106
+r;12713031;16875;347577;11;106
+r;12713067;16875;347568;11;106
+r;12761177;16875;336116;11;106
+r;12631713;16875;367635;11;107
+r;12667425;16875;358850;11;107
+r;12713045;16875;347574;11;107
+r;12713063;16875;347569;11;107
+r;12720045;16875;346098;11;107
+r;12747039;16875;339602;11;107
+r;12713025;16875;347579;11;108
+r;12713113;16875;347558;11;108
+r;12713125;16875;347555;11;108
+r;12713075;16875;347566;11;109
+r;12713077;16875;347565;11;109
+r;12713089;16875;347563;11;109
+r;12713121;16875;347556;11;109
+r;12626535;16875;368995;11;110
+r;12710291;16875;348253;11;110
+r;12713021;16875;347580;11;110
+r;12713029;16875;347578;11;110
+r;12713055;16875;347571;11;110
+r;12713059;16875;347570;11;110
+r;12713071;16875;347567;11;110
+r;12713105;16875;347560;11;110
+r;12713117;16875;347557;11;110
+r;12722385;16875;345523;11;110
+r;12728231;16875;344081;11;110
+r;12744681;16875;340158;11;110
+r;12756981;16875;337149;11;110
+r;12057366;16875;331004;11;115
+r;11852331;16875;222107;11;122
+r;9050830;16875;320050;11;148
+r;8695126;16875;224693;11;161
+r;8700508;16875;232068;11;161
+r;8708489;16875;244130;11;161
+r;8715491;16875;251903;11;161
+r;8719550;16875;255247;11;161
+r;8720112;16875;255688;11;161
+r;8728710;16875;261952;11;161
+r;8728712;16875;261953;11;161
+r;8604108;16875;99846;11;162
+r;8610376;16875;117132;11;162
+r;8731287;16875;263898;11;162
+r;8759979;16875;292211;11;162
+r;8583560;16875;40716;11;163
+r;8638725;16875;181651;11;163
+r;8639494;16875;182078;11;163
+r;8639496;16875;182079;11;163
+r;8671393;16875;202094;11;163
+r;8673329;16875;203278;11;163
+r;8732386;16875;264768;11;163
+r;8735663;16875;267775;11;163
+r;8740088;16875;272547;11;163
+r;8740856;16875;273126;11;163
+r;8742800;16875;274902;11;163
+r;8751578;16875;284409;11;163
+r;8752387;16875;285126;11;163
+r;8757180;16875;289238;11;163
+r;8758455;16875;290510;11;163
+r;8770008;16875;303668;11;163
+r;8774925;16875;309612;11;163
+r;8775574;16875;309690;11;163
+r;8579037;16875;27295;11;164
+r;8648607;16875;187623;11;164
+r;8653095;16875;190689;11;164
+r;8653389;16875;190873;11;164
+r;8663873;16875;197737;11;165
+r;8665569;16875;198744;11;165
+r;8670441;16875;201488;11;165
+r;8570313;16875;1134;11;169
+r;74209;16875;151859;11;189

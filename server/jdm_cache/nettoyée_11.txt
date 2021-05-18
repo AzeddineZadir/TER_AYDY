@@ -1,0 +1,8 @@
+
+e;158848;'nettoyée';1;70
+e;3752734;'queue de homard nettoyée et coupée en morceaux';1;0
+e;3755876;'branche de céleri nettoyée parée et concassée';1;0
+e;3754411;'carpe vidée et nettoyée';1;0
+r;93710847;158848;3752734;11;52
+r;93680601;158848;3755876;11;56
+r;93695090;158848;3754411;11;58

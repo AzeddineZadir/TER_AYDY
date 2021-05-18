@@ -1,0 +1,16 @@
+
+e;2729;'agencement';1;100
+e;15333798;'agencement de couleurs';1;0
+e;15333794;'agencement de magasin';1;0
+e;15333796;'agencement des rayons';1;0
+e;15333802;'agencement, mise en page';1;0
+e;12049748;'déterminer l'agencement d'un magasin d'articles de maroquinerie';1;0
+e;12049775;'déterminer l'agencement d'un magasin de chaussures';1;0
+e;14483067;'Forme et agencement du clavier';777;0
+r;419581029;2729;15333798;11;25
+r;419581034;2729;15333794;11;25
+r;419581040;2729;15333796;11;25
+r;419581045;2729;15333802;11;25
+r;313664327;2729;12049748;11;36
+r;313684544;2729;12049775;11;36
+r;397510032;2729;14483067;11;50

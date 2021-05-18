@@ -1,0 +1,136 @@
+
+e;38809;'normes';1;52
+e;6327902;'cas hors normes par rapport aux groupes homogènes de malades';1;0
+e;13643005;'normes fixées par l'OMS';1;0
+e;14180477;'Liste de normes ISO';777;0
+e;14454898;'commission consultative d'évaluation des normes';777;0
+e;14453950;'normes d'accès aux personnes en situation de handicap';1;0
+e;14632311;'normes de sécurité';1;0
+e;16360699;'guerre des normes Internet-OSI';777;0
+e;14668617;'respect des normes';1;0
+e;14716493;'normes autoroutières';1;8
+e;14717696;'mise aux normes autoroutières';1;6
+e;14718325;'normes environnementales';1;0
+e;14718326;'normes françaises';1;0
+e;14723714;'aptitude intellectuelle supérieure aux normes';1;16
+e;15408366;'conforme aux normes établies';1;0
+e;5619732;'Agence des normes alimentaires';777;0
+e;10010524;'Commission des normes du travail';777;0
+e;11077633;'normes GOST';777;0
+e;15437070;'cahier des normes';1;0
+e;10027622;'normes relatives à la peine de mort';777;0
+e;5979700;'série des normes ISO 14000';777;0
+e;15408377;'Office des normes internationales et des affaires juridiques';1;0
+e;15408368;'Organisation des normes internationales';1;0
+e;5838419;'normes euro';777;0
+e;5838415;'normes européennes d'émission';777;0
+e;10299760;'loi sur les normes du travail';777;0
+e;12048830;'appliquer des normes d'hygiène personnelle lors d'opérations de nettoyage';1;0
+e;12048916;'rédiger un cahier des charges de normes de conception';1;0
+e;12048989;'appliquer des normes de qualité dans les services sociaux';1;0
+e;12049036;'répondre aux normes pratiques dans les services sociaux';1;0
+e;12048911;'assurer la conformité à des normes en matière de nuisances sonores';1;0
+e;12049692;'appliquer des normes de qualité';1;0
+e;12050415;'respecter les normes de santé sécurité et hygiène et les autres législations relatives aux aliments';1;0
+e;12051144;'appliquer des normes et règlements aéroportuaires';1;0
+e;12051577;'respecter les normes d'hygiène personnelle';1;0
+e;12051430;'respecter des normes de qualité en lien avec la pratique des soins de santé';1;0
+e;1837100;'normes ISO';1;0
+e;11442397;'normes de métadonnées';777;0
+e;11363621;'hiérarchie des normes en droit français';777;0
+e;5781347;'normes du Web';777;0
+e;12052554;'normes de découpe des enveloppes';1;0
+e;11007848;'Convergence internationale de la mesure et des normes de fonds propres';777;0
+e;11181969;'normes parasismiques';777;0
+e;9950370;'des normes complémentaires explicites ou écrites';777;0
+e;9950371;'des normes complémentaires implicites ou non-écrites';777;0
+e;11154710;'normes équivalentes';777;0
+e;5985550;'normes CEI de la série 62271';777;0
+e;5557803;'normes de comportement des revêtements de protection des espaces vides des vraquiers et des pétroliers';777;0
+e;8878508;'normes SIA';777;0
+e;12687773;'normes NF';1;0
+e;15408375;'Institut européen pour les normes de télécommunications';1;0
+e;15365383;'Ces normes doivent être juridiquement applicables.';1;0
+e;15408370;'Conseil des normes comptables internationales';1;0
+e;3185825;'normes internationales d'information financière';777;0
+e;3274062;'hors-normes';1;0
+e;5355262;'normes juridiques';1;0
+e;4314609;'mise aux normes';1;16
+e;2359191;'cahier des normes graphiques';777;0
+e;1377956;'normes sociales';1;2
+e;2586141;'théorie de la hiérarchie des normes juridiques';777;0
+e;3185839;'liste des normes internationales d'information financière';777;0
+e;367665;'organe créateur de normes';1;50
+e;251708;'conforme aux normes';1;50
+e;74681;'normes dans les télécommunications';1;50
+e;97708;'hiérarchie des normes';1;50
+e;182742;'hors normes';1;50
+e;203724;'mettre aux normes';1;50
+e;6154;'dans les normes';1;50
+r;300219930;38809;6327902;11;25
+r;346205281;38809;13643005;11;25
+r;360619796;38809;14180477;11;25
+r;366811834;38809;14454898;11;25
+r;366927623;38809;14453950;11;25
+r;371690538;38809;14632311;11;25
+r;432049749;38809;16360699;11;25
+r;372940818;38809;14668617;11;26
+r;374047412;38809;14716493;11;26
+r;374215483;38809;14717696;11;26
+r;374223973;38809;14718325;11;26
+r;374223987;38809;14718326;11;26
+r;374329905;38809;14723714;11;26
+r;419730714;38809;15408366;11;31
+r;110815796;38809;5619732;11;32
+r;227648017;38809;10010524;11;32
+r;283111891;38809;11077633;11;32
+r;419676411;38809;15437070;11;32
+r;227638440;38809;10027622;11;33
+r;117915634;38809;5979700;11;34
+r;419517695;38809;15408377;11;34
+r;419519813;38809;15408368;11;34
+r;114013106;38809;5838419;11;35
+r;114013119;38809;5838415;11;35
+r;248117091;38809;10299760;11;35
+r;313621819;38809;12048830;11;35
+r;313623766;38809;12048916;11;35
+r;313626767;38809;12048989;11;35
+r;313627310;38809;12049036;11;35
+r;313629457;38809;12048911;11;35
+r;313669958;38809;12049692;11;36
+r;313700098;38809;12050415;11;36
+r;313716400;38809;12051144;11;36
+r;313763151;38809;12051577;11;36
+r;313763704;38809;12051430;11;36
+r;30016535;38809;1837100;11;37
+r;294245245;38809;11442397;11;37
+r;291814406;38809;11363621;11;38
+r;112659231;38809;5781347;11;39
+r;313734066;38809;12052554;11;39
+r;278514386;38809;11007848;11;42
+r;286816856;38809;11181969;11;42
+r;220612054;38809;9950370;11;43
+r;220610994;38809;9950371;11;43
+r;283638328;38809;11154710;11;43
+r;117890810;38809;5985550;11;44
+r;109877877;38809;5557803;11;47
+r;190831103;38809;8878508;11;50
+r;324989828;38809;12687773;11;50
+r;402119061;38809;15408375;11;50
+r;395013625;38809;15365383;11;50
+r;395180190;38809;15408370;11;50
+r;77278106;38809;3185825;11;51
+r;80084768;38809;3274062;11;51
+r;107051273;38809;5355262;11;53
+r;98016275;38809;4314609;11;55
+r;50068846;38809;2359191;11;56
+r;23381154;38809;1377956;11;58
+r;53855960;38809;2586141;11;59
+r;77279068;38809;3185839;11;60
+r;12631579;38809;367665;11;107
+r;8715339;38809;251708;11;161
+r;8595253;38809;74681;11;163
+r;8603330;38809;97708;11;163
+r;8640634;38809;182742;11;163
+r;8674093;38809;203724;11;163
+r;8572013;38809;6154;11;166

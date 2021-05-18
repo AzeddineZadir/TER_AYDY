@@ -1,1004 +1,1028 @@
 
 e;247632;'était';1;52
-e;15352999;'l'atmosphère libérale qui était très répandue dans les années soixante';1;0
-e;15334909;'Le lac était comme un étincelant miroir bleu.';1;0
-e;15327916;'Le lit était bon pour son mal de dos.';1;0
-e;15239824;'Le magasin était une véritable ruche.';1;0
-e;15397981;'Le match était un peu à sens unique.';1;0
-e;15293080;'Le metteur en scène n'était pas satisfait, même après plusieurs prises.';1;0
-e;15271694;'Le nombre de victimes était élevé.';1;0
-e;15522045;'Le patient était inscrit sous un faux nom.';1;0
-e;15377525;'Le patient était relié au monitoring {or} au moniteur cardiaque.';1;0
-e;15409541;'Le prix de la viande et du beurre était prohibitif.';1;0
-e;15680137;'Le père de Julie était propriétaire d'un pub.';1;0
-e;15243784;'Le rapport était entaché de racisme.';1;0
-e;15804546;'Le repas était tout à fait correct.';1;0
-e;15353714;'Le repas était très réussi.';1;0
-e;15226021;'Le restaurant était fermé pour le nouvel an.';1;0
-e;15212240;'Le saumon était en réclame au supermarché.';1;0
-e;15377754;'Le sentiment de soulagement était palpable.';1;0
-e;15279466;'Le soir venu, la chaleur était devenue insupportable.';1;0
-e;15377752;'Le soulagement était presque palpable.';1;0
-e;15363421;'Le temps était infect.';1;0
-e;15263173;'Le ton de la lettre était très amical.';1;0
-e;15575172;'Leur devis était très peu cher, comparativement.';1;0
-e;15374299;'Leur maison était située au sommet d'une colline boisée.';1;0
-e;15357783;'Lisa était de nouveau enceinte, aussi incroyable que cela pût paraître.';1;0
-e;15571691;'Ma s?ur était garée près du cinéma.';1;0
-e;15937837;'Mme Jermyn s'était prise d'une grande affection pour lui.';1;0
-e;15220384;'Mon grand-père était mineur.';1;0
-e;15313321;'Mon moniteur de ski était minable.';1;0
-e;15381093;'Même Mark était là.';1;0
-e;15364370;'Notre jardin était retourné à l'état sauvage.';1;0
-e;15249135;'Notre projet initial était d'aller camper.';1;0
-e;15488874;'On a diagnostiqué qu'il était dyslexique.';1;0
-e;15547546;'On ignorait ce qu'il était advenu des 30 pour cent restants.';1;0
-e;15361242;'Quand elle est arrivée, Alice était prête et l'attendait.';1;0
-e;16076507;'Quel était le mobile du crime?';1;0
-e;15345491;'Richard était devenu très pâle mais il continua.';1;0
-e;15241459;'Sa dissertation était correcte.';1;0
-e;15372032;'Sa lettre était brève.';1;0
-e;15202374;'Sa mère était une actrice du répertoire.';1;0
-e;15322448;'Sa voix n'était plus qu'un sifflement menaçant.';1;0
-e;15331991;'Sa voix était voilée par l'émotion.';1;0
-e;15225138;'Son amusement était feint.';1;0
-e;15531407;'Son bureau était jonché de papiers.';1;0
-e;15582922;'Son chapeau était de travers.';1;0
-e;15368046;'Son discours était un peu décevant.';1;0
-e;15293240;'Son fusil était posé contre le mur.';1;0
-e;15481742;'Son ignorance en matière de politique étrangère était alarmante.';1;0
-e;15347674;'Son médecin a dit qu'il n'était pas physiquement en mesure de voyager.';1;0
-e;15521473;'Son portefeuille était bourré à craquer.';1;0
-e;15354575;'Son regard était plein de malice.';1;0
-e;15702958;'Son salut n'était pas des plus enthousiastes.';1;0
-e;15357843;'Son score était parfaitement honorable.';1;0
-e;15334592;'Son ton était tour à tour irrité et contrarié.';1;0
-e;15477200;'Son travail était éparpillé sur toute la table.';1;0
-e;15342931;'Son utilisation des extérieurs naturels était inhabituelle.';1;0
-e;15294548;'Sophie était chic en citron vert et marine.';1;0
-e;15342368;'Sous des dehors extravertis, Luke était timide.';1;0
-e;15705563;'Tout le calendrier ci-dessous après le mois de mars n'est que celui qui était prévu avant la pandémie et le confinement dans le monde entier';777;0
-e;15358986;'Toute la famille était présente.';1;0
-e;15372588;'Un carton de lait était renversé.';1;0
-e;15234160;'Un photographe était présent.';1;0
-e;15650922;'Un tiers de la classe était pour.';1;0
-e;15408595;'United était mené 2-0 à la mi-temps.';1;0
-e;15583737;'balle était dans son camp';1;0
-e;15573233;'batterie était à plat';1;0
-e;15424880;'c'est comme si c'était fait';1;0
-e;15399529;'c'est comme si on y était';1;0
-e;15680354;'c'était autrefois';1;0
-e;15680364;'c'était ce que';1;0
-e;15456010;'c'était couru d'avance';1;0
-e;15201669;'c'était d'une tristesse insupportable';1;0
-e;15582360;'c'était de bonne guerre';1;0
-e;15352167;'c'était de la télévision tristement banale';1;0
-e;15680370;'c'était des bananes';1;0
-e;15680368;'c'était dingue';1;0
-e;15259412;'c'était divin';1;0
-e;15528633;'c'était du délire';1;0
-e;15530307;'c'était fait exprès';1;0
-e;15489462;'c'était inventé de toutes pièces';1;0
-e;15680352;'c'était l'enfer';1;0
-e;15343079;'c'était le bon temps';1;0
-e;15253982;'c'était merveilleux!';1;0
-e;15519222;'c'était moins cinq';1;0
-e;15330892;'c'était obligé!';1;0
-e;15528635;'c'était pas pareil';1;0
-e;15549643;'c'était toujours pareil';1;0
-e;15680362;'c'était très bien.';1;0
-e;15314645;'c'était un jeu d'enfant';1;0
-e;15582405;'c'était un peu gros comme histoire';1;0
-e;15215545;'c'était un prêté pour un rendu';1;0
-e;15475503;'c'était une autre époque';1;0
-e;15393111;'c'était une manne tombée du ciel';1;0
-e;15314647;'c'était vraiment facile';1;0
-e;15295270;'c'était à désespérer';1;0
-e;15484189;'c'était à quel propos ?';1;0
-e;15484187;'c'était à quel propos?';1;0
-e;15761145;'c'était à s'en taper le derrière par terre';1;0
-e;15322125;'c'était à se taper la tête contre le mur';1;0
-e;15322121;'c'était à se taper le cul par terre';1;0
-e;15322119;'c'était à se taper le derrière par terre';1;0
-e;15389109;'c'était ça le fin mot de l'histoire';1;0
-e;15374119;'ce n'était pas clair';1;0
-e;15374117;'ce n'était pas clair si';1;0
-e;15319541;'ce n'était pas convenable pour qn de ...';1;0
-e;15530317;'ce n'était pas fait exprès';1;0
-e;15550179;'ce n'était pas une vie';1;0
-e;15613614;'chambre où il était';1;0
-e;15569684;'circulation était encombrée par la sortie des bureaux';1;0
-e;16042208;'comme si c'était ma faute';1;0
-e;15530237;'dont je savais que c'était juste/vrai';1;0
-e;12197409;'n'était pas';777;0
-e;15270405;'Le ballon de foot était mal gonflé.';1;0
-e;16087436;'Le bébé était visiblement plus agité.';1;0
-e;15695307;'Le ciel était couvert.';1;0
-e;15307256;'Le col était enneigé.';1;0
-e;15387910;'Le combat était truqué.';1;0
-e;15762936;'Le film d'hier soir était génial.';1;0
-e;15497481;'Le film projeté pendant le vol était Casablanca.';1;0
-e;15392025;'Le film était doublé en français.';1;0
-e;15236988;'Le film était méchamment cool.';1;0
-e;15282857;'Le gouverneur était indisponible.';1;0
-e;15304235;'c'était si mal, j'ai ressenti que c'était mal, je savais qu'il ne fallait pas';1;0
-e;10623256;'Il était une fois dans l'Est';777;0
-e;6130921;'Il était une fois en France';777;0
-e;6088118;'Il était une fois le Bronx';777;0
-e;6088002;'La neige était sale';777;0
-e;10670167;'Liste des épisodes de Il était une fois... l'Espace';777;0
-e;10670166;'Il était une fois... l'Homme';777;0
-e;15390874;'La table était encombrée de tasses sales.';1;0
-e;15309734;'La voiture était dangereuse à conduire.';1;0
-e;15291942;'La voiture était lourdement chargée.';1;0
-e;10590176;'Elle était si jolie';777;0
-e;10670168;'Il était une fois... notre Terre';777;0
-e;10987301;'Il était une fois nos ancêtres';777;0
-e;15521471;'La salle était pleine à craquer.';1;0
-e;15355107;'La salle était remplie de monde.';1;0
-e;9991768;'Il était une fois au Mexique';777;0
-e;9991767;'Il était une fois au Mexique... Desperado 2';777;0
-e;10587631;'Il était trois flibustiers';777;0
-e;10600569;'La Du Barry était une dame';777;0
-e;10590270;'Il était temps par Virginie Pouchain';777;0
-e;10871708;'Il était une fois en Chine';777;0
-e;10007212;'C'était la fille d'un acrobate';777;0
-e;10003906;'Si Perrault m'était conté';777;0
-e;11061338;'Il était deux fois';777;0
-e;11812337;'Il était là';777;0
-e;10576572;'L'Homme qui n'était pas là';777;0
-e;11827382;'Don Juan ou si Don Juan était une femme';777;0
-e;5954492;'Il était une fois un flic';777;0
-e;5953994;'Il était une fois dans le trouble';777;0
-e;5953408;'Il était une fois un pays';777;0
-e;5977521;'Il était une fois John';777;0
-e;10934849;'Il était un petit homme';777;0
-e;11082515;'Quand elle était gentille';777;0
-e;15357015;'La nourriture était tout bonnement infecte.';1;0
-e;15560770;'La panique n'était pas justifiée.';1;0
-e;15374724;'La pièce était peinte en camaïeu rose.';1;0
-e;15383422;'La pièce était plongée dans la pénombre.';1;0
-e;15304839;'La pièce était tout simplement merveilleuse.';1;0
-e;15304298;'La plage était presque déserte.';1;0
-e;15409826;'La porte était entrouverte.';1;0
-e;15319839;'La première partie du film était ennuyeuse.';1;0
-e;15217185;'La rue était prise d'assaut par les chalands.';1;0
-e;5961962;'Il était une fois...Franck Dubosc';777;0
-e;10832445;'Il était une fois à Castlebury';777;0
-e;11410408;'Si c'était demain';777;0
-e;15343181;'La bande habituelle était là.';1;0
-e;15531721;'La chambre était austèrement meublée.';1;0
-e;15472444;'La corde était mouillée mais Nancy tint bon.';1;0
-e;15341460;'La cour était couverte de fleurs.';1;0
-e;15230315;'La dernière danse était une valse.';1;0
-e;15388459;'La dernière fois qu'ils ont vu leur pays natal, c'était il y a neuf ans.';1;0
-e;15488914;'La dernière fois que vous y étiez, c'était quand?';1;0
-e;15500054;'La décision était une fumisterie.';1;0
-e;15380955;'La façon dont ils l'ont traité était lamentable.';1;0
-e;15385091;'La fête s'est bien passée {or} était très réussie.';1;0
-e;15284448;'La gaieté apparente d'Alex était exaspérante.';1;0
-e;15309680;'La lettre manuscrite était écrite à l'encre noire.';1;0
-e;15571871;'La lettre n'était pas signée.';1;0
-e;15309682;'La lettre était écrite à la main, à l'encre noire.';1;0
-e;15285446;'La meute de loups était en chasse.';1;0
-e;16087438;'Il n'était pas visiblement ivre.';1;0
-e;10044064;'La Lune était bleue';777;0
-e;10311921;'Il était une chaise';777;0
-e;10333286;'Il était une fois à Hollywood';777;0
-e;10044007;'Maman était new-look';777;0
-e;10776215;'Si c'était à Refaire';777;0
-e;10790986;'Ce qui était perdu';777;0
-e;15275591;'La Croix Rouge était dans l'impossibilité de les contacter.';1;0
-e;2432156;'du temps où Jésus Christ était garde-champêtre';1;0
-e;10778641;'Il était une fois en Arizona';777;0
-e;11237006;'Comment Obélix est tombé dans la marmite du druide quand il était petit';777;0
-e;10192457;'Il était une fois... les Explorateurs';777;0
-e;10192456;'Il était une fois... les Découvreurs';777;0
-e;10192455;'Il était une fois... les Amériques';777;0
-e;10192331;'Il était une fois... la Vie';777;0
-e;10753526;'Le crime était signé';777;0
-e;12285402;'c'était nous';777;0
-e;14250400;'Il était une fois un merle chanteur';777;0
-e;10186631;'Si c'était lui';777;0
-e;10189797;'Il était une fois Gigi';777;0
-e;15398804;'L'interrupteur était hors de portée.';1;0
-e;15374180;'L'échelle était appuyée contre le mur.';1;0
-e;15377750;'L'émotion était palpable.';1;0
-e;5557889;'Il était un petit navire';777;0
-e;9978905;'La mort n'était pas au rendez-vous';777;0
-e;10034596;'La saison 1995-1996 de 1. Bundesliga était la trente-troisième édition de la première division allemande';777;0
-e;10034594;'La saison 1994-1995 de 1. Bundesliga était la trente-deuxième édition de la première division allemande';777;0
-e;10034589;'La saison 1993-1994 de 1. Bundesliga était la trente-et-unième édition de la première division allemande';777;0
-e;10034353;'La saison 1979-1980 de 1. Bundesliga était la dix-septième édition de la première division allemande';777;0
-e;10034268;'La saison 1978-1979 de 1. Bundesliga était la seizième édition de la première division allemande';777;0
-e;10034259;'La saison 1977-1978 de 1. Bundesliga était la quinzième édition de la première division allemande';777;0
-e;10135431;'Il était une fois en Anatolie';777;0
-e;10131231;'C'était à Rome';777;0
-e;15348492;'L'homme avait un physique plutôt ingrat et était trop gros.';1;0
-e;10034555;'La saison 1980-1981 de 1. Bundesliga était la dix-huitième édition de la première division allemande';777;0
-e;10315126;'La saison 2007-2008 de 1. Bundesliga était la quarante-cinquième édition de la première division allemande';777;0
-e;10315128;'La saison 2008-2009 de 1. Bundesliga était la quarante-sixième édition de la première division allemande';777;0
-e;10315156;'La saison 2004-2005 de 1. Bundesliga était la quarante-deuxième édition de la première division allemande';777;0
-e;10315155;'La saison 2003-2004 de 1. Bundesliga était la quarante-et-unième édition de la première division allemande';777;0
-e;10315157;'La saison 2005-2006 de 1. Bundesliga était la quarante-troisième édition de la première division allemande';777;0
-e;10315125;'La saison 2006-2007 de 1. Bundesliga était la quarante-quatrième édition de la première division allemande';777;0
-e;10502709;'Il était temps';777;0
-e;10461236;'Il était une fois dans le Queens';777;0
-e;10511524;'l'homme qui n'était pas là';777;0
-e;10844089;'La saison 2004-2005 du Championnat de football Saint-marinais était la vingtième édition de la première division saint-marinaise';777;0
-e;10844070;'La saison 2004-2005 de Premier League Maltaise était la quatre-vingt-dixième édition de la première division maltaise';777;0
-e;11102097;'Le Tournoi du Bicentenario 2010 était le vingt-huitième tournoi saisonnier disputé au Mexique';777;0
-e;11972375;'Il était une fois nous deux';777;0
-e;15253299;'L'assise du tabouret était en plastique rouge.';1;0
-e;15281391;'L'eau était glacée.';1;0
-e;15389323;'L'entrée était bien gardée.';1;0
-e;15546086;'L'examen était fastoche.';1;0
-e;15363222;'L'heure de la fermeture était passée depuis longtemps.';1;0
-e;15494051;'L'heure était au deuil et à la lamentation.';1;0
-e;10176870;'Le troisième homme était une femme';777;0
-e;10184827;'Si Paris nous était conté';777;0
-e;6003632;'c'était demain';777;0
-e;10160982;'Il était une fois dans l'Oued';777;0
-e;10160524;'Il était une fois la Légion';777;0
-e;10523554;'La saison 2007-2008 du Championnat de Football Saint-marinois était la vingt-troisième édition de la première division saint-marinoise';777;0
-e;12774324;'C'était ici';777;0
-e;10438827;'C'était le 12 du 12 et Chili avait les blues';777;0
-e;10508047;'La saison 2001-2002 de 1. Bundesliga était la trente-neuvième édition de la première division allemande';777;0
-e;10508045;'La saison 1989-1990 de 1. Bundesliga était la vingt-septième édition de la première division allemande';777;0
-e;2367389;'cela ne s'était pas encore vu';1;0
-e;15493762;'Chaque rang de la noblesse était représenté.';1;0
-e;15501875;'C'était une chiffe molle.';1;0
-e;15496308;'C'était un criminel notoire.';1;0
-e;15481393;'C'était rudement bon.';1;0
-e;15480918;'C'était pire que ce qu'elle avait imaginé.';1;0
-e;15497153;'C'était le plus beau jour de ma vie.';1;0
-e;15492654;'C'était la faute de qui?';1;0
-e;15488079;'C'était jouissif!';1;0
-e;10137057;'La saison 1981-1982 de 1. Bundesliga était la dix-neuvième édition de la première division allemande';777;0
-e;10137043;'La saison 1983-1984 de 1. Bundesliga était la vingt-et-unième édition de la première division allemande';777;0
-e;11118562;'La saison 1986-1987 de 1. Bundesliga était la vingt-quatrième édition de la première division allemande';777;0
-e;11118560;'La saison 1984-1985 de 1. Bundesliga était la vingt-deuxième édition de la première division allemande';777;0
-e;11118539;'La saison 1990-1991 de 1. Bundesliga était la vingt-huitième édition de la première division allemande';777;0
-e;11118571;'La saison 2002-2003 de 1. Bundesliga était la quarantième édition de la première division allemande';777;0
-e;11118567;'La saison 1997-1998 de 1. Bundesliga était la trente-cinquième édition de la première division allemande';777;0
-e;11118561;'La saison 1985-1986 de 1. Bundesliga était la vingt-troisième édition de la première division allemande';777;0
-e;11118563;'La saison 1987-1988 de 1. Bundesliga était la vingt-cinquième édition de la première division allemande';777;0
-e;11118555;'La saison 1973-1974 de 1. Bundesliga était la onzième édition de la première division allemande';777;0
-e;11118565;'La saison 1991-1992 de 1. Bundesliga était la vingt-neuvième édition de la première division allemande';777;0
-e;11118570;'La saison 2000-2001 de 1. Bundesliga était la trente-huitième édition de la première division allemande';777;0
-e;11118557;'La saison 1975-1976 de 1. Bundesliga était la treizième édition de la première division allemande';777;0
-e;11118568;'La saison 1998-1999 de 1. Bundesliga était la trente-sixième édition de la première division allemande';777;0
-e;11118556;'La saison 1974-1975 de 1. Bundesliga était la douzième édition de la première division allemande';777;0
-e;11118559;'La saison 1982-1983 de 1. Bundesliga était la vingtième édition de la première division allemande';777;0
-e;11118558;'La saison 1976-1977 de 1. Bundesliga était la quatorzième édition de la première division allemande';777;0
-e;11118564;'La saison 1988-1989 de 1. Bundesliga était la vingt-sixième édition de la première division allemande';777;0
-e;11118566;'La saison 1992-1993 de 1. Bundesliga était la trentième édition de la première division allemande';777;0
-e;11118569;'La saison 1999-2000 de 1. Bundesliga était la trente-septième édition de la première division allemande';777;0
-e;11134697;'La saison 1944-1945 de First Division Maltaise était la trentième édition de la première division maltaise';777;0
-e;11135055;'La saison 1998-1999 de Premier League Maltaise était la quatre-vingt-quatrième édition de la première division maltaise';777;0
-e;11134537;'La saison 1984-1985 de Premier League Maltaise était la soixante-dixième édition de la première division maltaise';777;0
-e;11135079;'La saison 1998-1999 du Championnat de Football Saint-marinais était la quatorzième édition de la première division saint-marinaise';777;0
-e;11134942;'La saison 1991-1992 de Serie A1 était la septième édition de la première division saint-marinoise';777;0
-e;13535270;'C'était sa première victoire au Grand-Prix de Trois-Rivières';777;0
-e;15410271;'Il était effondré sur le volant.';1;0
-e;15272963;'Il était torse nu.';1;0
-e;15369540;'Il était en proie à un désespoir grandissant.';1;0
-e;15362141;'Il était à genoux.';1;0
-e;15547129;'Il était inutile de faire quoique ce soit.';1;0
-e;15303510;'Il était toujours passionnément attaché à l'idée d'une réforme sociale.';1;0
-e;15277285;'Il était à moitié endormi.';1;0
-e;14303234;'Il était une fois... Marie-Rose';777;0
-e;14571910;'5 millions de Français ont un problème avec l'alcool. Et si les autres c'était vous';777;0
-e;15884969;'Il était employé en tant que technicien.';1;0
-e;15572722;'C'était écrit au crayon.';1;0
-e;15575272;'C'était habituel même si cela ne se répétait pas invariablement.';1;0
-e;15572941;'Je me suis assuré que la porte était fermée à clé.';1;0
-e;15381459;'Elle était ravie de son ordinateur nouvellement acquis.';1;0
-e;15390119;'Elle était couchée.';1;0
-e;15298355;'Elle n'était pas des plus serviables.';1;0
-e;15237076;'Elle s'était déguisée en vampire.';1;0
-e;15291520;'Elle était maquillée.';1;0
-e;15343532;'Elle était trop fière pour s'excuser.';1;0
-e;15239840;'Elle était à la fois agent de police et procureur.';1;0
-e;15360127;'Elle était redevenue elle-même.';1;0
-e;15317037;'En dépit de ce réalisme, le film était catastrophique.';1;0
-e;15384725;'Elle ignorait qu'elle était filmée.';1;0
-e;15375410;'Elle n'était nullement surprise.';1;0
-e;15560841;'Heureusement, sa femme était compréhensive.';1;0
-e;15385501;'Elle était vraiment mal à l'aise au début.';1;0
-e;15399882;'Elle était ravie de le voir.';1;0
-e;15395489;'Est-ce que vous en avez conclu qu'elle était choquée?';1;0
-e;15369577;'Elle était manifestement épuisée.';1;0
-e;15385723;'Elle était avachie sur une chaise.';1;0
-e;15367970;'Il était logé gratuitement.';1;0
-e;15270481;'Il était minuit passé';1;0
-e;15447366;'Il était moins une !';1;0
-e;15305318;'Il était mort de peur.';1;0
-e;15236581;'Il insistait qu'il était innocent.';1;0
-e;15236579;'Il répéta qu'il était innocent.';1;0
-e;15530269;'Ils décidèrent que ce mariage était une mésalliance.';1;0
-e;15409633;'Il n'était pas hors jeu.';1;0
-e;14851507;'Il n'était pas sentimental';777;0
-e;15366858;'Il n'avait pas conscience du laps de temps qui s'était écoulé.';1;0
-e;15289684;'Il était accablé d'être considéré comme un traître.';1;0
-e;15355289;'Il n'était pas rare qu'ils soient soumis à des insultes racistes.';1;0
-e;15369128;'Il protesta, mais Wright était intraitable.';1;0
-e;15382530;'Elle était étroitement enveloppée dans son châle.';1;0
-e;15309355;'Il était méfiant au début.';1;0
-e;15278092;'Il a affirmé que c'était la vérité.';1;0
-e;15648584;'C'était une erreur';1;0
-e;15301761;'Ils veulent faire croire que c'était ma faute.';1;0
-e;15361907;'J'ai trouvé que le film était mauvais.';1;0
-e;15345152;'Il était ambitieux et très préoccupé par sa carrière.';1;0
-e;15485884;'Il était assis recroquevillé dans un coin.';1;0
-e;15570689;'C'était son idée. Celle de Gordon, je veux dire.';1;0
-e;15475718;'Il était au bord des larmes.';1;0
-e;15258404;'Il s'était coupé le menton en se rasant.';1;0
-e;15383399;'Il était clairement ennuyé.';1;0
-e;15397887;'Il s'était de tout temps intéressé à la montagne.';1;0
-e;15573984;'Il n'était pas assez âgé pour comprendre.';1;0
-e;15487258;'Elle était toute fiérote avec sa nouvelle robe.';1;0
-e;15361756;'Elle était pieds nus.';1;0
-e;15256754;'Il était sans conteste notre plus grand conteur.';1;0
-e;15289686;'Il était atterré d'être considéré comme un traître.';1;0
-e;15307112;'Il était révolté par ce qu'ils avaient fait.';1;0
-e;15382509;'Il était si méticuleux dans tout ce qu'il faisait.';1;0
-e;15474643;'Il était la risée de la classe.';1;0
-e;15582660;'Il était couché sur le tapis.';1;0
-e;15524128;'Il était incommodé par la chaleur.';1;0
-e;15560755;'Il était tout rouge.';1;0
-e;15306375;'Il était littéralement impossible de trouver une place.';1;0
-e;15282800;'Il était d'une honnêteté rafraîchissante.';1;0
-e;15313496;'Il était interdit aux catholiques d'occuper un poste dans la fonction publique.';1;0
-e;15307680;'Il était impatient de rentrer à la maison.';1;0
-e;15361596;'Il était navré de ce qu'il voyait.';1;0
-e;15253995;'Il était en short.';1;0
-e;15410353;'Il était fabuleusement riche.';1;0
-e;15319978;'Il était travesti.';1;0
-e;15284317;'Il était immunisé contre la flatterie.';1;0
-e;15543949;'Il était impeccablement habillé, comme toujours.';1;0
-e;15273467;'Il était près de le dénoncer.';1;0
-e;15276078;'Il était très inquiet.';1;0
-e;15317921;'Il était destiné à une brillante carrière.';1;0
-e;14851464;'Il était une fois la forêt';777;0
-e;15233577;'Il était nettement moins actif que ses collègues.';1;0
-e;15345388;'Il était déjà trop tard.';1;0
-e;15306011;'Il était plutôt gai après l'arrosage au bureau.';1;0
-e;15481040;'Je me souviens avoir pensé combien il était mignon.';1;0
-e;15482087;'J'ai téléphoné à Nicola, c'était un appel longue distance.';1;0
-e;15495444;'J'ai téléphoné, mais c'était occupé.';1;0
-e;15379429;'J'imagine que la porte d'entrée n'était pas fermée à clé?';1;0
-e;15018040;'C'était nous';777;0
-e;14482893;'C'était bien';777;0
-e;13816266;'C'était un rendez-vous';777;0
-e;15388073;', telle était la sempiternelle réponse à ma question.';1;0
-e;15403409;'Au commencement était le Verbe';1;0
-e;15383508;'Au fond, Sophie était profondément attachée à son mari.';1;0
-e;15277416;'Bob était assis à une table voisine.';1;0
-e;15350593;'C'était Jim Murdoch en personne.';1;0
-e;15381326;'C'était comment la Bulgarie?';1;0
-e;15269950;'C'était fatal.';1;0
-e;15365774;'C'était inconsidéré de sa part d'en parler.';1;0
-e;15364965;'C'était inévitable!';1;0
-e;15325868;'C'était ironique.';1;0
-e;15357330;'C'était irresponsable de sa part.';1;0
-e;15212459;'C'était l'heure de son somme {or} de sa sieste.';1;0
-e;15300047;'C'était la loyauté même.';1;0
-e;15300051;'C'était la loyauté personnifiée.';1;0
-e;15369334;'C'était le pompon !';1;0
-e;15369332;'C'était le pompon,';1;0
-e;15280592;'C'était manifestement injuste.';1;0
-e;15349220;'C'était mes derniers collants.';1;0
-e;15255664;'C'était naïf de sa part de la croire.';1;0
-e;15361571;'C'était négligent de ma part.';1;0
-e;15382936;'C'était rafraîchissant de rencontrer une femme cadre.';1;0
-e;15281624;'C'était sacrément bête de faire ça!';1;0
-e;15386433;'C'était si facile que c'en était embarrassant.';1;0
-e;15386437;'C'était si mauvais que c'en était embarrassant.';1;0
-e;15386435;'C'était si évident que c'en était embarrassant.';1;0
-e;15357127;'C'était un capitaine charismatique.';1;0
-e;15389433;'C'était un conflit d'intérêt par excellence.';1;0
-e;15382970;'C'était un effort de se concentrer.';1;0
-e;15319186;'C'était un effort héroïque de sa part.';1;0
-e;15297985;'C'était un film passionnant, surtout la fin.';1;0
-e;15381228;'C'était un homme de forte corpulence aux mains énormes.';1;0
-e;15261855;'C'était un personnage intimidant, d'une stature gigantesque.';1;0
-e;15319254;'C'était un peu indélicat de ta part.';1;0
-e;15388107;'C'était un plaisir de l'interviewer.';1;0
-e;15362506;'C'était un poisson grand comme ça.';1;0
-e;15258481;'C'était un supplice.';1;0
-e;15396410;'C'était un tantinet déroutant.';1;0
-e;15248080;'C'était un véritable cauchemar.';1;0
-e;15375756;'C'était un véritable exploit.';1;0
-e;15336281;'C'était une auteure très connue.';1;0
-e;15218401;'C'était une déception, mais pas un désastre.';1;0
-e;15325308;'C'était une enfant solitaire et introvertie.';1;0
-e;15268896;'C'était une grosse bourde.';1;0
-e;15229078;'C'était une injustice flagrante.';1;0
-e;15229076;'C'était une injustice évidente.';1;0
-e;15216032;'C'était une insulte à mon intelligence.';1;0
-e;15309294;'C'était une interview où tous les coups étaient permis.';1;0
-e;15258358;'C'était une nageuse très puissante.';1;0
-e;15395899;'C'était une personne très vigoureuse.';1;0
-e;15238284;'C'était une rousse qui attirait l'?il.';1;0
-e;15246855;'C'était une vraie torture.';1;0
-e;15281636;'C'était une économiste prestigieuse.';1;0
-e;15249119;'C'était vraiment dégueulasse!';1;0
-e;15254355;'C'était vraiment effrayant.';1;0
-e;15295209;'C'était vraiment spectaculaire!';1;0
-e;15279988;'C'était vraiment une victoire remarquable.';1;0
-e;15307841;'C'était à moitié construit.';1;0
-e;15383875;'C'était éprouvant.';1;0
-e;15366545;'Ce n'était pas le moment de faire un discours.';1;0
-e;15334023;'Ce n'était vraiment pas de bol pour lui.';1;0
-e;15334044;'Ce n'était vraiment pas de chance pour lui.';1;0
-e;15396997;'Ce qu'il a dit était en plein dans le mille.';1;0
-e;15258487;'Chaque pas était un supplice pour lui.';1;0
-e;15317581;'Comme toujours, sa mise était impeccable.';1;0
-e;15407843;'C'était hilarant!';1;0
-e;15443808;'C'était bien la peine !';1;0
-e;15419041;'C'était le bon temps !';1;0
-e;15261142;'Elle était trop fatiguée pour prendre une douche.';1;0
-e;15528527;'C'était daté du 5 juillet.';1;0
-e;15521302;'C'était une démonstration de bonnes manières.';1;0
-e;15550190;'Ce n'était pas une vie !';1;0
-e;15550192;'Ce n'était pas une vie,';1;0
-e;15560919;'Elle était affalée sur le ventre.';1;0
-e;15560753;'Elle était toute rouge.';1;0
-e;15571324;'Elle était occupée à servir un client.';1;0
-e;15523791;'Franklin était libre de faire tout ce qu'il voulait ou presque.';1;0
-e;15378389;'Il était prêt à toute éventualité.';1;0
-e;15251463;'Il était d'une innocence attachante.';1;0
-e;15530225;'Je ne savais pas que c'était toi';1;0
-e;15691230;'C'était donc une surprise? -- Ça oui alors!';1;0
-e;15761985;'C'était toute une histoire.';1;0
-e;15691426;'Ce n'était pas rien !';1;0
-e;15804541;'C'était tout à fait involontaire.';1;0
-e;15755016;'Il était juste à côté de moi';1;0
-e;15791608;'Il était sous Prozac pour sa dépression.';1;0
-e;15922446;'Il était assis et regardait droit devant lui.';1;0
-e;15789160;'Je savais que c'était un piège.';1;0
-e;15943752;'C'était très gentil de votre part.';1;0
-e;566700;'La mort était au rendez-vous';777;50
-e;2672549;'Que Marianne était jolie';1;0
-e;3304657;'Comme si de rien n'était';777;0
-e;3677283;'c'était pour rire';1;0
-e;579643;'Il était une fois... l'Espace';1;0
-e;586926;'Il était une foi';777;0
-e;3044377;'était-ce';1;0
-e;1492196;'Il était une fois la révolution';1;0
-e;1389812;'Ce cartahu était en câble d'acier';777;0
-e;1632936;'Et si c'était vrai...';1;0
-e;1736964;'Et si c'était vrai';777;0
-e;3044379;'était-il';1;0
-e;3044378;'était-elle';1;0
-e;3044380;'était-on';1;0
-e;378264;'s'il en était besoin';1;50
-e;392980;'Celle qui n'était plus';777;50
-e;210453;'c'était écrit';1;50
-e;210812;'faire comme si de rien n'était';1;50
-e;141450;'Si Versailles m'était conté';1;50
-e;153885;'c'était mieux avant';1;50
-e;304704;'Si Versailles m'était conté...';777;50
-e;137968;'C'était hier';1;50
-e;138361;'Si c'était à refaire';1;50
-e;185835;'comme si de rien n'était';1;54
-e;227096;'Le crime était presque parfait';1;50
-e;251528;'Le Crime était presque parfait';1;50
-e;166269;'il était une fois';1;66
+e;4712;'Il était content malgré tout';1;50
+e;8277;'La mariée était en noir';1;50
+e;13304;'Il était une fois, la révolution';1;50
+e;20509;'Crime était presque parfait';1;50
+e;22680;'Elle était swing';1;50
 e;28551;'Il était une fois';1;52
 e;76847;'Il était une fois en Amérique';1;50
-e;272907;'La police était au rendez-vous';777;50
-e;13304;'Il était une fois, la révolution';1;50
 e;93715;'Violent était le vent';1;50
 e;137161;'Il était une fille d'honneur';1;50
 e;137306;'Il était une fois dans l'Ouest';1;56
+e;137968;'C'était hier';1;50
+e;138361;'Si c'était à refaire';1;50
 e;139897;'Qu'elle était verte ma vallée';1;50
 e;140399;'train était à l'heure';1;50
-e;20509;'Crime était presque parfait';1;50
-e;22680;'Elle était swing';1;50
-e;4712;'Il était content malgré tout';1;50
-e;8277;'La mariée était en noir';1;50
-r;394724737;247632;15352999;11;25
-r;419492336;247632;15334909;11;25
-r;419492386;247632;15327916;11;25
-r;419492518;247632;15239824;11;25
-r;419492609;247632;15397981;11;25
-r;419492647;247632;15293080;11;25
-r;419492879;247632;15271694;11;25
-r;419492939;247632;15522045;11;25
-r;419492949;247632;15377525;11;25
-r;419493143;247632;15409541;11;25
-r;419493329;247632;15680137;11;25
-r;419493381;247632;15243784;11;25
-r;419493389;247632;15804546;11;25
-r;419493399;247632;15353714;11;25
-r;419493423;247632;15226021;11;25
-r;419493521;247632;15212240;11;25
-r;419493563;247632;15377754;11;25
-r;419493587;247632;15279466;11;25
-r;419493745;247632;15377752;11;25
-r;419493913;247632;15363421;11;25
-r;419493971;247632;15263173;11;25
-r;419498117;247632;15575172;11;25
-r;419498169;247632;15374299;11;25
-r;419499192;247632;15357783;11;25
-r;419502594;247632;15571691;11;25
-r;419508515;247632;15937837;11;25
-r;419508992;247632;15220384;11;25
-r;419509040;247632;15313321;11;25
-r;419510844;247632;15381093;11;25
-r;419513837;247632;15364370;11;25
-r;419513893;247632;15249135;11;25
-r;419518127;247632;15488874;11;25
-r;419518567;247632;15547546;11;25
-r;419530907;247632;15361242;11;25
-r;419531616;247632;16076507;11;25
-r;419535021;247632;15345491;11;25
-r;419538563;247632;15241459;11;25
-r;419538629;247632;15372032;11;25
-r;419538691;247632;15202374;11;25
-r;419538829;247632;15322448;11;25
-r;419538843;247632;15331991;11;25
-r;419546746;247632;15225138;11;25
-r;419546826;247632;15531407;11;25
-r;419546836;247632;15582922;11;25
-r;419546882;247632;15368046;11;25
-r;419546958;247632;15293240;11;25
-r;419546998;247632;15481742;11;25
-r;419547048;247632;15347674;11;25
-r;419547166;247632;15521473;11;25
-r;419547230;247632;15354575;11;25
-r;419547262;247632;15702958;11;25
-r;419547278;247632;15357843;11;25
-r;419547334;247632;15334592;11;25
-r;419547432;247632;15477200;11;25
-r;419547448;247632;15342931;11;25
-r;419547622;247632;15294548;11;25
-r;419547844;247632;15342368;11;25
-r;419553921;247632;15705563;11;25
-r;419554157;247632;15358986;11;25
-r;419557497;247632;15372588;11;25
-r;419557798;247632;15234160;11;25
-r;419557938;247632;15650922;11;25
-r;419558700;247632;15408595;11;25
-r;419645138;247632;15583737;11;25
-r;419649565;247632;15573233;11;25
-r;419670100;247632;15424880;11;25
-r;419670103;247632;15399529;11;25
-r;419672233;247632;15680354;11;25
-r;419672237;247632;15680364;11;25
-r;419672239;247632;15456010;11;25
-r;419672245;247632;15201669;11;25
-r;419672251;247632;15582360;11;25
-r;419672257;247632;15352167;11;25
-r;419672265;247632;15680370;11;25
-r;419672269;247632;15680368;11;25
-r;419672273;247632;15259412;11;25
-r;419672277;247632;15528633;11;25
-r;419672281;247632;15530307;11;25
-r;419672287;247632;15489462;11;25
-r;419672295;247632;15680352;11;25
-r;419672299;247632;15343079;11;25
-r;419672305;247632;15253982;11;25
-r;419672309;247632;15519222;11;25
-r;419672315;247632;15330892;11;25
-r;419672319;247632;15528635;11;25
-r;419672333;247632;15549643;11;25
-r;419672339;247632;15680362;11;25
-r;419672343;247632;15314645;11;25
-r;419672349;247632;15582405;11;25
-r;419672357;247632;15215545;11;25
-r;419672363;247632;15475503;11;25
-r;419672369;247632;15393111;11;25
-r;419672377;247632;15314647;11;25
-r;419672383;247632;15295270;11;25
-r;419672387;247632;15484189;11;25
-r;419672393;247632;15484187;11;25
-r;419672399;247632;15761145;11;25
-r;419672407;247632;15322125;11;25
-r;419672417;247632;15322121;11;25
-r;419672425;247632;15322119;11;25
-r;419672433;247632;15389109;11;25
-r;419691364;247632;15374119;11;25
-r;419691368;247632;15374117;11;25
-r;419691372;247632;15319541;11;25
-r;419691376;247632;15530317;11;25
-r;419691382;247632;15550179;11;25
-r;419697190;247632;15613614;11;25
-r;419711086;247632;15569684;11;25
-r;419720872;247632;16042208;11;25
-r;419793621;247632;15530237;11;25
-r;316334737;247632;12197409;11;26
-r;419490738;247632;15270405;11;26
-r;419491090;247632;16087436;11;26
-r;419491391;247632;15695307;11;26
-r;419491437;247632;15307256;11;26
-r;419491445;247632;15387910;11;26
-r;419491928;247632;15762936;11;26
-r;419491968;247632;15497481;11;26
-r;419491996;247632;15392025;11;26
-r;419492004;247632;15236988;11;26
-r;419492138;247632;15282857;11;26
-r;419672323;247632;15304235;11;26
-r;267335914;247632;10623256;11;27
-r;119659091;247632;6130921;11;28
-r;119666189;247632;6088118;11;28
-r;119666717;247632;6088002;11;28
-r;267322142;247632;10670167;11;28
-r;267322148;247632;10670166;11;28
-r;417155674;247632;15390874;11;28
-r;417155948;247632;15309734;11;28
-r;417155956;247632;15291942;11;28
-r;264465779;247632;10590176;11;29
-r;267322124;247632;10670168;11;29
-r;277382813;247632;10987301;11;29
-r;417155082;247632;15521471;11;29
-r;417155090;247632;15355107;11;29
-r;227681644;247632;9991768;11;30
-r;227681656;247632;9991767;11;30
-r;263795515;247632;10587631;11;30
-r;264439367;247632;10600569;11;30
-r;264465067;247632;10590270;11;30
-r;272707428;247632;10871708;11;30
-r;227656153;247632;10007212;11;31
-r;227658458;247632;10003906;11;31
-r;280532090;247632;11061338;11;32
-r;304749226;247632;11812337;11;33
-r;263404519;247632;10576572;11;33
-r;305631950;247632;11827382;11;33
-r;116584296;247632;5954492;11;34
-r;116585898;247632;5953994;11;34
-r;116587565;247632;5953408;11;34
-r;116933485;247632;5977521;11;34
-r;275368004;247632;10934849;11;34
-r;281159273;247632;11082515;11;34
-r;417032533;247632;15357015;11;34
-r;417032569;247632;15560770;11;34
-r;417032707;247632;15374724;11;34
-r;417032717;247632;15383422;11;34
-r;417032725;247632;15304839;11;34
-r;417032741;247632;15304298;11;34
-r;417033141;247632;15409826;11;34
-r;417033169;247632;15319839;11;34
-r;417033461;247632;15217185;11;34
-r;116573382;247632;5961962;11;35
-r;270759160;247632;10832445;11;35
-r;293478688;247632;11410408;11;35
-r;417031324;247632;15343181;11;35
-r;417031501;247632;15531721;11;35
-r;417031743;247632;15472444;11;35
-r;417031777;247632;15341460;11;35
-r;417031849;247632;15230315;11;35
-r;417031867;247632;15388459;11;35
-r;417031881;247632;15488914;11;35
-r;417031923;247632;15500054;11;35
-r;417031949;247632;15380955;11;35
-r;417032035;247632;15385091;11;35
-r;417032045;247632;15284448;11;35
-r;417032129;247632;15309680;11;35
-r;417032139;247632;15571871;11;35
-r;417032145;247632;15309682;11;35
-r;417032417;247632;15285446;11;35
-r;419489117;247632;16087438;11;35
-r;227598933;247632;10044064;11;36
-r;252679328;247632;10311921;11;36
-r;253389860;247632;10333286;11;36
-r;227599082;247632;10044007;11;37
-r;269878211;247632;10776215;11;37
-r;270211949;247632;10790986;11;37
-r;417030671;247632;15275591;11;37
-r;55025757;247632;2432156;11;38
-r;269870096;247632;10778641;11;38
-r;287943692;247632;11237006;11;38
-r;242357419;247632;10192457;11;39
-r;242357427;247632;10192456;11;39
-r;242357435;247632;10192455;11;39
-r;242357966;247632;10192331;11;39
-r;269375835;247632;10753526;11;39
-r;319125350;247632;12285402;11;39
-r;402111398;247632;14250400;11;39
-r;241516609;247632;10186631;11;40
-r;242258326;247632;10189797;11;40
-r;414848388;247632;15398804;11;40
-r;414848612;247632;15374180;11;40
-r;414848749;247632;15377750;11;40
-r;109877646;247632;5557889;11;41
-r;222105674;247632;9978905;11;41
-r;227622886;247632;10034596;11;41
-r;227622922;247632;10034594;11;41
-r;227622968;247632;10034589;11;41
-r;227624366;247632;10034353;11;41
-r;227624571;247632;10034268;11;41
-r;227624621;247632;10034259;11;41
-r;236683257;247632;10135431;11;41
-r;236693127;247632;10131231;11;41
-r;414848152;247632;15348492;11;41
-r;227623196;247632;10034555;11;42
-r;252667894;247632;10315126;11;42
-r;252667872;247632;10315128;11;42
-r;252667694;247632;10315156;11;42
-r;252667712;247632;10315155;11;42
-r;252667676;247632;10315157;11;42
-r;252667912;247632;10315125;11;42
-r;261002895;247632;10502709;11;42
-r;261010353;247632;10461236;11;42
-r;262043965;247632;10511524;11;42
-r;271584432;247632;10844089;11;42
-r;271584591;247632;10844070;11;42
-r;281570508;247632;11102097;11;42
-r;309077307;247632;11972375;11;42
-r;414847738;247632;15253299;11;42
-r;414847886;247632;15281391;11;42
-r;414847982;247632;15389323;11;42
-r;414848020;247632;15546086;11;42
-r;414848080;247632;15363222;11;42
-r;414848094;247632;15494051;11;42
-r;238925508;247632;10176870;11;43
-r;240635068;247632;10184827;11;43
-r;118530173;247632;6003632;11;44
-r;238097776;247632;10160982;11;44
-r;238099511;247632;10160524;11;44
-r;262528744;247632;10523554;11;46
-r;327887193;247632;12774324;11;46
-r;256283978;247632;10438827;11;48
-r;262050118;247632;10508047;11;48
-r;219131810;247632;9828930;11;49
-r;219131800;247632;9828931;11;49
-r;262050142;247632;10508045;11;49
-r;50474538;247632;2367389;11;50
-r;397135131;247632;15493762;11;50
-r;397134673;247632;15501875;11;50
-r;397134667;247632;15496308;11;50
-r;397134661;247632;15481393;11;50
-r;397134651;247632;15480918;11;50
-r;397134643;247632;15497153;11;50
-r;397134637;247632;15492654;11;50
-r;397134633;247632;15488079;11;50
-r;146212978;247632;8536975;11;50
-r;146213056;247632;8536976;11;50
-r;236672797;247632;10137057;11;50
-r;236672979;247632;10137043;11;50
-r;282247431;247632;11118562;11;50
-r;282248437;247632;11118560;11;50
-r;282250114;247632;11118539;11;50
-r;282250183;247632;11118571;11;50
-r;282250412;247632;11118567;11;50
-r;282251255;247632;11118561;11;50
-r;282251650;247632;11118563;11;50
-r;282251706;247632;11118555;11;50
-r;282251735;247632;11118565;11;50
-r;282252051;247632;11118570;11;50
-r;282252115;247632;11118557;11;50
-r;282252151;247632;11118568;11;50
-r;282252223;247632;11118556;11;50
-r;282252302;247632;11118559;11;50
-r;282252722;247632;11118558;11;50
-r;282253806;247632;11118564;11;50
-r;282255155;247632;11118566;11;50
-r;282259665;247632;11118569;11;50
-r;283017652;247632;11134697;11;50
-r;283034831;247632;11135055;11;50
-r;283037770;247632;11134537;11;50
-r;283039894;247632;11135079;11;50
-r;283043509;247632;11134942;11;50
-r;342845025;247632;13535270;11;50
-r;402111170;247632;15410271;11;50
-r;402111358;247632;15272963;11;50
-r;402111176;247632;15369540;11;50
-r;402111408;247632;15362141;11;50
-r;402111238;247632;15547129;11;50
-r;402111362;247632;15303510;11;50
-r;402111412;247632;15277285;11;50
-r;364199333;247632;14303234;11;50
-r;370444479;247632;14571910;11;50
-r;414341451;247632;15884969;11;50
-r;399503421;247632;15572722;11;50
-r;399503397;247632;15575272;11;50
-r;402154912;247632;15572941;11;50
-r;397500621;247632;15381459;11;50
-r;397500585;247632;15390119;11;50
-r;397499593;247632;15298355;11;50
-r;397500167;247632;15237076;11;50
-r;397500599;247632;15291520;11;50
-r;397500665;247632;15343532;11;50
-r;397500687;247632;15239840;11;50
-r;397500633;247632;15360127;11;50
-r;397501471;247632;15317037;11;50
-r;397499005;247632;15384725;11;50
-r;397499585;247632;15375410;11;50
-r;400720493;247632;15560841;11;50
-r;397500675;247632;15385501;11;50
-r;397500613;247632;15399882;11;50
-r;397503184;247632;15395489;11;50
-r;397500591;247632;15369577;11;50
-r;397500577;247632;15385723;11;50
-r;402111262;247632;15367970;11;50
-r;402111268;247632;15270481;11;50
-r;402111274;247632;15447366;11;50
-r;402111278;247632;15305318;11;50
-r;402107244;247632;15236581;11;50
-r;402109266;247632;15236579;11;50
-r;402111655;247632;15530269;11;50
-r;402108406;247632;15409633;11;50
-r;402108426;247632;14851507;11;50
-r;402108194;247632;15366858;11;50
-r;402111092;247632;15289684;11;50
-r;402108412;247632;15355289;11;50
-r;402109062;247632;15369128;11;50
-r;397500699;247632;15382530;11;50
-r;402111284;247632;15309355;11;50
-r;402102472;247632;15278092;11;50
-r;402135747;247632;15648584;11;50
-r;402118381;247632;15301761;11;50
-r;402121656;247632;15361907;11;50
-r;402111100;247632;15345152;11;50
-r;402111108;247632;15485884;11;50
-r;399503409;247632;15570689;11;50
-r;402111124;247632;15475718;11;50
-r;402109658;247632;15258404;11;50
-r;402111130;247632;15383399;11;50
-r;402109666;247632;15397887;11;50
-r;402108398;247632;15573984;11;50
-r;397500641;247632;15487258;11;50
-r;397500605;247632;15361756;11;50
-r;402111340;247632;15256754;11;50
-r;402111116;247632;15289686;11;50
-r;402111330;247632;15307112;11;50
-r;402111350;247632;15382509;11;50
-r;402111246;247632;15474643;11;50
-r;402111136;247632;15582660;11;50
-r;402111218;247632;15524128;11;50
-r;402111376;247632;15560755;11;50
-r;402111252;247632;15306375;11;50
-r;402111142;247632;15282800;11;50
-r;402111224;247632;15313496;11;50
-r;402111202;247632;15307680;11;50
-r;402111290;247632;15361596;11;50
-r;402111184;247632;15253995;11;50
-r;402111188;247632;15410353;11;50
-r;402111382;247632;15319978;11;50
-r;402111194;247632;15284317;11;50
-r;402111210;247632;15543949;11;50
-r;402111316;247632;15273467;11;50
-r;402111386;247632;15276078;11;50
-r;402111154;247632;15317921;11;50
-r;402111390;247632;14851464;11;50
-r;402111296;247632;15233577;11;50
-r;402111162;247632;15345388;11;50
-r;402111306;247632;15306011;11;50
-r;402154880;247632;15481040;11;50
-r;402121694;247632;15482087;11;50
-r;402121706;247632;15495444;11;50
-r;402151467;247632;15379429;11;50
-r;392298070;247632;15018040;11;50
-r;393838022;247632;14482893;11;50
-r;393838026;247632;13816266;11;50
-r;395008689;247632;15388073;11;50
-r;395009955;247632;15403409;11;50
-r;395009963;247632;15383508;11;50
-r;395010443;247632;15277416;11;50
-r;395011829;247632;15350593;11;50
-r;395011837;247632;15381326;11;50
-r;395011843;247632;15269950;11;50
-r;395011847;247632;15365774;11;50
-r;395011855;247632;15364965;11;50
-r;395011859;247632;15325868;11;50
-r;395011863;247632;15357330;11;50
-r;395011869;247632;15212459;11;50
-r;395011877;247632;15300047;11;50
-r;395011883;247632;15300051;11;50
-r;395011889;247632;15369334;11;50
-r;395011893;247632;15369332;11;50
-r;395011897;247632;15280592;11;50
-r;395011903;247632;15349220;11;50
-r;395011909;247632;15255664;11;50
-r;395011917;247632;15361571;11;50
-r;395011923;247632;15382936;11;50
-r;395011933;247632;15281624;11;50
-r;395011941;247632;15386433;11;50
-r;395011947;247632;15386437;11;50
-r;395011953;247632;15386435;11;50
-r;395011959;247632;15357127;11;50
-r;395011965;247632;15389433;11;50
-r;395011973;247632;15382970;11;50
-r;395011979;247632;15319186;11;50
-r;395011987;247632;15297985;11;50
-r;395011997;247632;15381228;11;50
-r;395012009;247632;15261855;11;50
-r;395012019;247632;15319254;11;50
-r;395012027;247632;15388107;11;50
-r;395012033;247632;15362506;11;50
-r;395012039;247632;15258481;11;50
-r;395012043;247632;15396410;11;50
-r;395012049;247632;15248080;11;50
-r;395012055;247632;15375756;11;50
-r;395012061;247632;15336281;11;50
-r;395012067;247632;15218401;11;50
-r;395012075;247632;15325308;11;50
-r;395012083;247632;15268896;11;50
-r;395012089;247632;15229078;11;50
-r;395012095;247632;15229076;11;50
-r;395012101;247632;15216032;11;50
-r;395012107;247632;15309294;11;50
-r;395012117;247632;15258358;11;50
-r;395012123;247632;15395899;11;50
-r;395012129;247632;15238284;11;50
-r;395012137;247632;15246855;11;50
-r;395012143;247632;15281636;11;50
-r;395012149;247632;15249119;11;50
-r;395012155;247632;15254355;11;50
-r;395012161;247632;15295209;11;50
-r;395012167;247632;15279988;11;50
-r;395012175;247632;15307841;11;50
-r;395012181;247632;15383875;11;50
-r;395012753;247632;15366545;11;50
-r;395012759;247632;15334023;11;50
-r;395012767;247632;15334044;11;50
-r;395012827;247632;15396997;11;50
-r;395014363;247632;15258487;11;50
-r;395016709;247632;15317581;11;50
-r;395180083;247632;15407843;11;50
-r;395582741;247632;15443808;11;50
-r;395582747;247632;15419041;11;50
-r;397500653;247632;15261142;11;50
-r;397847702;247632;15528527;11;50
-r;397847708;247632;15521302;11;50
-r;398503059;247632;15550190;11;50
-r;398503063;247632;15550192;11;50
-r;398926811;247632;15560919;11;50
-r;398926819;247632;15560753;11;50
-r;399662026;247632;15571324;11;50
-r;399662907;247632;15523791;11;50
-r;402111322;247632;15378389;11;50
-r;402111148;247632;15251463;11;50
-r;402273051;247632;15530225;11;50
-r;405571907;247632;15691230;11;50
-r;405571917;247632;15761985;11;50
-r;405572070;247632;15691426;11;50
-r;411714074;247632;15804541;11;50
-r;413897294;247632;15755016;11;50
-r;413897302;247632;15791608;11;50
-r;414478078;247632;15922446;11;50
-r;414592466;247632;15789160;11;50
-r;414864039;247632;15943752;11;50
-r;16975022;247632;566700;11;52
-r;61238944;247632;2672549;11;52
-r;82888276;247632;3304657;11;52
-r;91566812;247632;3677283;11;52
-r;18096926;247632;579643;11;53
-r;18425999;247632;586926;11;55
-r;74947783;247632;3044377;11;56
-r;24650385;247632;1492196;11;57
-r;23491528;247632;1389812;11;60
-r;25753108;247632;1632936;11;60
-r;28529350;247632;1736964;11;60
-r;74947777;247632;3044379;11;62
-r;74947779;247632;3044378;11;63
-r;74947775;247632;3044380;11;68
-r;12588813;247632;378264;11;102
-r;13249685;247632;392980;11;103
-r;8878218;247632;210453;11;151
-r;8878480;247632;210812;11;151
-r;8874148;247632;141450;11;152
-r;8875207;247632;153885;11;152
-r;8885666;247632;304704;11;152
-r;8873182;247632;137968;11;153
-r;8873318;247632;138361;11;153
-r;8876532;247632;185835;11;153
-r;8696656;247632;227096;11;160
-r;8715196;247632;251528;11;160
-r;8630048;247632;166269;11;161
+e;141450;'Si Versailles m'était conté';1;50
+e;153885;'c'était mieux avant';1;50
+e;166269;'il était une fois';1;66
+e;185835;'comme si de rien n'était';1;54
+e;210453;'c'était écrit';1;50
+e;210812;'faire comme si de rien n'était';1;50
+e;227096;'Le crime était presque parfait';1;50
+e;251528;'Le Crime était presque parfait';1;50
+e;272907;'La police était au rendez-vous';777;50
+e;304704;'Si Versailles m'était conté...';777;50
+e;378264;'s'il en était besoin';1;50
+e;392980;'Celle qui n'était plus';777;50
+e;566700;'La mort était au rendez-vous';777;50
+e;579643;'Il était une fois... l'Espace';1;0
+e;586926;'Il était une foi';777;0
+e;1389812;'Ce cartahu était en câble d'acier';777;0
+e;1492196;'Il était une fois la révolution';1;0
+e;1632936;'Et si c'était vrai...';1;0
+e;1736964;'Et si c'était vrai';777;0
+e;2367389;'cela ne s'était pas encore vu';1;0
+e;2432156;'du temps où Jésus Christ était garde-champêtre';1;0
+e;2672549;'Que Marianne était jolie';1;0
+e;3044377;'était-ce';1;0
+e;3044378;'était-elle';1;0
+e;3044379;'était-il';1;0
+e;3044380;'était-on';1;0
+e;3304657;'Comme si de rien n'était';777;0
+e;3677283;'c'était pour rire';1;0
+e;5557889;'Il était un petit navire';777;0
+e;5953408;'Il était une fois un pays';777;0
+e;5953994;'Il était une fois dans le trouble';777;0
+e;5954492;'Il était une fois un flic';777;0
+e;5961962;'Il était une fois...Franck Dubosc';777;0
+e;5977521;'Il était une fois John';777;0
+e;6003632;'c'était demain';777;0
+e;6088002;'La neige était sale';777;0
+e;6088118;'Il était une fois le Bronx';777;0
+e;6130921;'Il était une fois en France';777;0
+e;9978905;'La mort n'était pas au rendez-vous';777;0
+e;9991767;'Il était une fois au Mexique... Desperado 2';777;0
+e;9991768;'Il était une fois au Mexique';777;0
+e;10003906;'Si Perrault m'était conté';777;0
+e;10007212;'C'était la fille d'un acrobate';777;0
+e;10034259;'La saison 1977-1978 de 1. Bundesliga était la quinzième édition de la première division allemande';777;0
+e;10034268;'La saison 1978-1979 de 1. Bundesliga était la seizième édition de la première division allemande';777;0
+e;10034353;'La saison 1979-1980 de 1. Bundesliga était la dix-septième édition de la première division allemande';777;0
+e;10034555;'La saison 1980-1981 de 1. Bundesliga était la dix-huitième édition de la première division allemande';777;0
+e;10034589;'La saison 1993-1994 de 1. Bundesliga était la trente-et-unième édition de la première division allemande';777;0
+e;10034594;'La saison 1994-1995 de 1. Bundesliga était la trente-deuxième édition de la première division allemande';777;0
+e;10034596;'La saison 1995-1996 de 1. Bundesliga était la trente-troisième édition de la première division allemande';777;0
+e;10044007;'Maman était new-look';777;0
+e;10044064;'La Lune était bleue';777;0
+e;10131231;'C'était à Rome';777;0
+e;10135431;'Il était une fois en Anatolie';777;0
+e;10137043;'La saison 1983-1984 de 1. Bundesliga était la vingt-et-unième édition de la première division allemande';777;0
+e;10137057;'La saison 1981-1982 de 1. Bundesliga était la dix-neuvième édition de la première division allemande';777;0
+e;10160524;'Il était une fois la Légion';777;0
+e;10160982;'Il était une fois dans l'Oued';777;0
+e;10176870;'Le troisième homme était une femme';777;0
+e;10184827;'Si Paris nous était conté';777;0
+e;10186631;'Si c'était lui';777;0
+e;10189797;'Il était une fois Gigi';777;0
+e;10192331;'Il était une fois... la Vie';777;0
+e;10192455;'Il était une fois... les Amériques';777;0
+e;10192456;'Il était une fois... les Découvreurs';777;0
+e;10192457;'Il était une fois... les Explorateurs';777;0
+e;10311921;'Il était une chaise';777;0
+e;10315125;'La saison 2006-2007 de 1. Bundesliga était la quarante-quatrième édition de la première division allemande';777;0
+e;10315126;'La saison 2007-2008 de 1. Bundesliga était la quarante-cinquième édition de la première division allemande';777;0
+e;10315128;'La saison 2008-2009 de 1. Bundesliga était la quarante-sixième édition de la première division allemande';777;0
+e;10315155;'La saison 2003-2004 de 1. Bundesliga était la quarante-et-unième édition de la première division allemande';777;0
+e;10315156;'La saison 2004-2005 de 1. Bundesliga était la quarante-deuxième édition de la première division allemande';777;0
+e;10315157;'La saison 2005-2006 de 1. Bundesliga était la quarante-troisième édition de la première division allemande';777;0
+e;10333286;'Il était une fois à Hollywood';777;0
+e;10438827;'C'était le 12 du 12 et Chili avait les blues';777;0
+e;10461236;'Il était une fois dans le Queens';777;0
+e;10502709;'Il était temps';777;0
+e;10508045;'La saison 1989-1990 de 1. Bundesliga était la vingt-septième édition de la première division allemande';777;0
+e;10508047;'La saison 2001-2002 de 1. Bundesliga était la trente-neuvième édition de la première division allemande';777;0
+e;10511524;'l'homme qui n'était pas là';777;0
+e;10523554;'La saison 2007-2008 du Championnat de Football Saint-marinois était la vingt-troisième édition de la première division saint-marinoise';777;0
+e;10576572;'L'Homme qui n'était pas là';777;0
+e;10587631;'Il était trois flibustiers';777;0
+e;10590176;'Elle était si jolie';777;0
+e;10590270;'Il était temps par Virginie Pouchain';777;0
+e;10600569;'La Du Barry était une dame';777;0
+e;10623256;'Il était une fois dans l'Est';777;0
+e;10670166;'Il était une fois... l'Homme';777;0
+e;10670167;'Liste des épisodes de Il était une fois... l'Espace';777;0
+e;10670168;'Il était une fois... notre Terre';777;0
+e;10753526;'Le crime était signé';777;0
+e;10776215;'Si c'était à Refaire';777;0
+e;10778641;'Il était une fois en Arizona';777;0
+e;10790986;'Ce qui était perdu';777;0
+e;10832445;'Il était une fois à Castlebury';777;0
+e;10844070;'La saison 2004-2005 de Premier League Maltaise était la quatre-vingt-dixième édition de la première division maltaise';777;0
+e;10844089;'La saison 2004-2005 du Championnat de football Saint-marinais était la vingtième édition de la première division saint-marinaise';777;0
+e;10871708;'Il était une fois en Chine';777;0
+e;10934849;'Il était un petit homme';777;0
+e;10987301;'Il était une fois nos ancêtres';777;0
+e;11061338;'Il était deux fois';777;0
+e;11082515;'Quand elle était gentille';777;0
+e;11102097;'Le Tournoi du Bicentenario 2010 était le vingt-huitième tournoi saisonnier disputé au Mexique';777;0
+e;11118539;'La saison 1990-1991 de 1. Bundesliga était la vingt-huitième édition de la première division allemande';777;0
+e;11118555;'La saison 1973-1974 de 1. Bundesliga était la onzième édition de la première division allemande';777;0
+e;11118556;'La saison 1974-1975 de 1. Bundesliga était la douzième édition de la première division allemande';777;0
+e;11118557;'La saison 1975-1976 de 1. Bundesliga était la treizième édition de la première division allemande';777;0
+e;11118558;'La saison 1976-1977 de 1. Bundesliga était la quatorzième édition de la première division allemande';777;0
+e;11118559;'La saison 1982-1983 de 1. Bundesliga était la vingtième édition de la première division allemande';777;0
+e;11118560;'La saison 1984-1985 de 1. Bundesliga était la vingt-deuxième édition de la première division allemande';777;0
+e;11118561;'La saison 1985-1986 de 1. Bundesliga était la vingt-troisième édition de la première division allemande';777;0
+e;11118562;'La saison 1986-1987 de 1. Bundesliga était la vingt-quatrième édition de la première division allemande';777;0
+e;11118563;'La saison 1987-1988 de 1. Bundesliga était la vingt-cinquième édition de la première division allemande';777;0
+e;11118564;'La saison 1988-1989 de 1. Bundesliga était la vingt-sixième édition de la première division allemande';777;0
+e;11118565;'La saison 1991-1992 de 1. Bundesliga était la vingt-neuvième édition de la première division allemande';777;0
+e;11118566;'La saison 1992-1993 de 1. Bundesliga était la trentième édition de la première division allemande';777;0
+e;11118567;'La saison 1997-1998 de 1. Bundesliga était la trente-cinquième édition de la première division allemande';777;0
+e;11118568;'La saison 1998-1999 de 1. Bundesliga était la trente-sixième édition de la première division allemande';777;0
+e;11118569;'La saison 1999-2000 de 1. Bundesliga était la trente-septième édition de la première division allemande';777;0
+e;11118570;'La saison 2000-2001 de 1. Bundesliga était la trente-huitième édition de la première division allemande';777;0
+e;11118571;'La saison 2002-2003 de 1. Bundesliga était la quarantième édition de la première division allemande';777;0
+e;11134537;'La saison 1984-1985 de Premier League Maltaise était la soixante-dixième édition de la première division maltaise';777;0
+e;11134697;'La saison 1944-1945 de First Division Maltaise était la trentième édition de la première division maltaise';777;0
+e;11134942;'La saison 1991-1992 de Serie A1 était la septième édition de la première division saint-marinoise';777;0
+e;11135055;'La saison 1998-1999 de Premier League Maltaise était la quatre-vingt-quatrième édition de la première division maltaise';777;0
+e;11135079;'La saison 1998-1999 du Championnat de Football Saint-marinais était la quatorzième édition de la première division saint-marinaise';777;0
+e;11237006;'Comment Obélix est tombé dans la marmite du druide quand il était petit';777;0
+e;11410408;'Si c'était demain';777;0
+e;11812337;'Il était là';777;0
+e;11827382;'Don Juan ou si Don Juan était une femme';777;0
+e;11972375;'Il était une fois nous deux';777;0
+e;12197409;'n'était pas';777;0
+e;12285402;'c'était nous';777;0
+e;12774324;'C'était ici';777;0
+e;13535270;'C'était sa première victoire au Grand-Prix de Trois-Rivières';777;0
+e;13816266;'C'était un rendez-vous';777;0
+e;14250400;'Il était une fois un merle chanteur';777;0
+e;14303234;'Il était une fois... Marie-Rose';777;0
+e;14482893;'C'était bien';777;0
+e;14571910;'5 millions de Français ont un problème avec l'alcool. Et si les autres c'était vous';777;0
+e;14851464;'Il était une fois la forêt';777;0
+e;14851507;'Il n'était pas sentimental';777;0
+e;15018040;'C'était nous';777;0
+e;15201669;'c'était d'une tristesse insupportable';1;0
+e;15202374;'Sa mère était une actrice du répertoire.';1;0
+e;15212240;'Le saumon était en réclame au supermarché.';1;0
+e;15212459;'C'était l'heure de son somme {or} de sa sieste.';1;0
+e;15215545;'c'était un prêté pour un rendu';1;0
+e;15216032;'C'était une insulte à mon intelligence.';1;0
+e;15217185;'La rue était prise d'assaut par les chalands.';1;0
+e;15218401;'C'était une déception, mais pas un désastre.';1;0
+e;15220384;'Mon grand-père était mineur.';1;0
+e;15225138;'Son amusement était feint.';1;0
+e;15226021;'Le restaurant était fermé pour le nouvel an.';1;0
+e;15229076;'C'était une injustice évidente.';1;0
+e;15229078;'C'était une injustice flagrante.';1;0
+e;15230315;'La dernière danse était une valse.';1;0
+e;15233577;'Il était nettement moins actif que ses collègues.';1;0
+e;15234160;'Un photographe était présent.';1;0
+e;15236579;'Il répéta qu'il était innocent.';1;0
+e;15236581;'Il insistait qu'il était innocent.';1;0
+e;15236988;'Le film était méchamment cool.';1;0
+e;15237076;'Elle s'était déguisée en vampire.';1;0
+e;15238284;'C'était une rousse qui attirait l'?il.';1;0
+e;15239824;'Le magasin était une véritable ruche.';1;0
+e;15239840;'Elle était à la fois agent de police et procureur.';1;0
+e;15241459;'Sa dissertation était correcte.';1;0
+e;15243784;'Le rapport était entaché de racisme.';1;0
+e;15246855;'C'était une vraie torture.';1;0
+e;15248080;'C'était un véritable cauchemar.';1;0
+e;15249119;'C'était vraiment dégueulasse!';1;0
+e;15249135;'Notre projet initial était d'aller camper.';1;0
+e;15251463;'Il était d'une innocence attachante.';1;0
+e;15253299;'L'assise du tabouret était en plastique rouge.';1;0
+e;15253982;'c'était merveilleux!';1;0
+e;15253995;'Il était en short.';1;0
+e;15254355;'C'était vraiment effrayant.';1;0
+e;15255664;'C'était naïf de sa part de la croire.';1;0
+e;15256754;'Il était sans conteste notre plus grand conteur.';1;0
+e;15258358;'C'était une nageuse très puissante.';1;0
+e;15258404;'Il s'était coupé le menton en se rasant.';1;0
+e;15258481;'C'était un supplice.';1;0
+e;15258487;'Chaque pas était un supplice pour lui.';1;0
+e;15259412;'c'était divin';1;0
+e;15261142;'Elle était trop fatiguée pour prendre une douche.';1;0
+e;15261855;'C'était un personnage intimidant, d'une stature gigantesque.';1;0
+e;15263173;'Le ton de la lettre était très amical.';1;0
+e;15268896;'C'était une grosse bourde.';1;0
+e;15269950;'C'était fatal.';1;0
+e;15270405;'Le ballon de foot était mal gonflé.';1;0
+e;15270481;'Il était minuit passé';1;0
+e;15271694;'Le nombre de victimes était élevé.';1;0
+e;15272963;'Il était torse nu.';1;0
+e;15273467;'Il était près de le dénoncer.';1;0
+e;15275591;'La Croix Rouge était dans l'impossibilité de les contacter.';1;0
+e;15276078;'Il était très inquiet.';1;0
+e;15277285;'Il était à moitié endormi.';1;0
+e;15277416;'Bob était assis à une table voisine.';1;0
+e;15278092;'Il a affirmé que c'était la vérité.';1;0
+e;15279466;'Le soir venu, la chaleur était devenue insupportable.';1;0
+e;15279988;'C'était vraiment une victoire remarquable.';1;0
+e;15280592;'C'était manifestement injuste.';1;0
+e;15281391;'L'eau était glacée.';1;0
+e;15281624;'C'était sacrément bête de faire ça!';1;0
+e;15281636;'C'était une économiste prestigieuse.';1;0
+e;15282800;'Il était d'une honnêteté rafraîchissante.';1;0
+e;15282857;'Le gouverneur était indisponible.';1;0
+e;15284317;'Il était immunisé contre la flatterie.';1;0
+e;15284448;'La gaieté apparente d'Alex était exaspérante.';1;0
+e;15285446;'La meute de loups était en chasse.';1;0
+e;15289684;'Il était accablé d'être considéré comme un traître.';1;0
+e;15289686;'Il était atterré d'être considéré comme un traître.';1;0
+e;15291520;'Elle était maquillée.';1;0
+e;15291942;'La voiture était lourdement chargée.';1;0
+e;15293080;'Le metteur en scène n'était pas satisfait, même après plusieurs prises.';1;0
+e;15293240;'Son fusil était posé contre le mur.';1;0
+e;15294548;'Sophie était chic en citron vert et marine.';1;0
+e;15295209;'C'était vraiment spectaculaire!';1;0
+e;15295270;'c'était à désespérer';1;0
+e;15297985;'C'était un film passionnant, surtout la fin.';1;0
+e;15298355;'Elle n'était pas des plus serviables.';1;0
+e;15300047;'C'était la loyauté même.';1;0
+e;15300051;'C'était la loyauté personnifiée.';1;0
+e;15301761;'Ils veulent faire croire que c'était ma faute.';1;0
+e;15303510;'Il était toujours passionnément attaché à l'idée d'une réforme sociale.';1;0
+e;15304235;'c'était si mal, j'ai ressenti que c'était mal, je savais qu'il ne fallait pas';1;0
+e;15304298;'La plage était presque déserte.';1;0
+e;15304839;'La pièce était tout simplement merveilleuse.';1;0
+e;15305318;'Il était mort de peur.';1;0
+e;15306011;'Il était plutôt gai après l'arrosage au bureau.';1;0
+e;15306375;'Il était littéralement impossible de trouver une place.';1;0
+e;15307112;'Il était révolté par ce qu'ils avaient fait.';1;0
+e;15307256;'Le col était enneigé.';1;0
+e;15307680;'Il était impatient de rentrer à la maison.';1;0
+e;15307841;'C'était à moitié construit.';1;0
+e;15309294;'C'était une interview où tous les coups étaient permis.';1;0
+e;15309355;'Il était méfiant au début.';1;0
+e;15309680;'La lettre manuscrite était écrite à l'encre noire.';1;0
+e;15309682;'La lettre était écrite à la main, à l'encre noire.';1;0
+e;15309734;'La voiture était dangereuse à conduire.';1;0
+e;15313321;'Mon moniteur de ski était minable.';1;0
+e;15313496;'Il était interdit aux catholiques d'occuper un poste dans la fonction publique.';1;0
+e;15314645;'c'était un jeu d'enfant';1;0
+e;15314647;'c'était vraiment facile';1;0
+e;15317037;'En dépit de ce réalisme, le film était catastrophique.';1;0
+e;15317581;'Comme toujours, sa mise était impeccable.';1;0
+e;15317921;'Il était destiné à une brillante carrière.';1;0
+e;15319186;'C'était un effort héroïque de sa part.';1;0
+e;15319254;'C'était un peu indélicat de ta part.';1;0
+e;15319541;'ce n'était pas convenable pour qn de ...';1;0
+e;15319839;'La première partie du film était ennuyeuse.';1;0
+e;15319978;'Il était travesti.';1;0
+e;15322119;'c'était à se taper le derrière par terre';1;0
+e;15322121;'c'était à se taper le cul par terre';1;0
+e;15322125;'c'était à se taper la tête contre le mur';1;0
+e;15322448;'Sa voix n'était plus qu'un sifflement menaçant.';1;0
+e;15325308;'C'était une enfant solitaire et introvertie.';1;0
+e;15325868;'C'était ironique.';1;0
+e;15327916;'Le lit était bon pour son mal de dos.';1;0
+e;15330892;'c'était obligé!';1;0
+e;15331991;'Sa voix était voilée par l'émotion.';1;0
+e;15334023;'Ce n'était vraiment pas de bol pour lui.';1;0
+e;15334044;'Ce n'était vraiment pas de chance pour lui.';1;0
+e;15334592;'Son ton était tour à tour irrité et contrarié.';1;0
+e;15334909;'Le lac était comme un étincelant miroir bleu.';1;0
+e;15336281;'C'était une auteure très connue.';1;0
+e;15341460;'La cour était couverte de fleurs.';1;0
+e;15342368;'Sous des dehors extravertis, Luke était timide.';1;0
+e;15342931;'Son utilisation des extérieurs naturels était inhabituelle.';1;0
+e;15343079;'c'était le bon temps';1;0
+e;15343181;'La bande habituelle était là.';1;0
+e;15343532;'Elle était trop fière pour s'excuser.';1;0
+e;15345152;'Il était ambitieux et très préoccupé par sa carrière.';1;0
+e;15345388;'Il était déjà trop tard.';1;0
+e;15345491;'Richard était devenu très pâle mais il continua.';1;0
+e;15347674;'Son médecin a dit qu'il n'était pas physiquement en mesure de voyager.';1;0
+e;15348492;'L'homme avait un physique plutôt ingrat et était trop gros.';1;0
+e;15349220;'C'était mes derniers collants.';1;0
+e;15350593;'C'était Jim Murdoch en personne.';1;0
+e;15352167;'c'était de la télévision tristement banale';1;0
+e;15352999;'l'atmosphère libérale qui était très répandue dans les années soixante';1;0
+e;15353714;'Le repas était très réussi.';1;0
+e;15354575;'Son regard était plein de malice.';1;0
+e;15355107;'La salle était remplie de monde.';1;0
+e;15355289;'Il n'était pas rare qu'ils soient soumis à des insultes racistes.';1;0
+e;15357015;'La nourriture était tout bonnement infecte.';1;0
+e;15357127;'C'était un capitaine charismatique.';1;0
+e;15357330;'C'était irresponsable de sa part.';1;0
+e;15357783;'Lisa était de nouveau enceinte, aussi incroyable que cela pût paraître.';1;0
+e;15357843;'Son score était parfaitement honorable.';1;0
+e;15358986;'Toute la famille était présente.';1;0
+e;15360127;'Elle était redevenue elle-même.';1;0
+e;15361242;'Quand elle est arrivée, Alice était prête et l'attendait.';1;0
+e;15361571;'C'était négligent de ma part.';1;0
+e;15361596;'Il était navré de ce qu'il voyait.';1;0
+e;15361756;'Elle était pieds nus.';1;0
+e;15361907;'J'ai trouvé que le film était mauvais.';1;0
+e;15362141;'Il était à genoux.';1;0
+e;15362506;'C'était un poisson grand comme ça.';1;0
+e;15363222;'L'heure de la fermeture était passée depuis longtemps.';1;0
+e;15363421;'Le temps était infect.';1;0
+e;15364370;'Notre jardin était retourné à l'état sauvage.';1;0
+e;15364965;'C'était inévitable!';1;0
+e;15365774;'C'était inconsidéré de sa part d'en parler.';1;0
+e;15366545;'Ce n'était pas le moment de faire un discours.';1;0
+e;15366858;'Il n'avait pas conscience du laps de temps qui s'était écoulé.';1;0
+e;15367970;'Il était logé gratuitement.';1;0
+e;15368046;'Son discours était un peu décevant.';1;0
+e;15369128;'Il protesta, mais Wright était intraitable.';1;0
+e;15369332;'C'était le pompon,';1;0
+e;15369334;'C'était le pompon !';1;0
+e;15369540;'Il était en proie à un désespoir grandissant.';1;0
+e;15369577;'Elle était manifestement épuisée.';1;0
+e;15372032;'Sa lettre était brève.';1;0
+e;15372588;'Un carton de lait était renversé.';1;0
+e;15374117;'ce n'était pas clair si';1;0
+e;15374119;'ce n'était pas clair';1;0
+e;15374180;'L'échelle était appuyée contre le mur.';1;0
+e;15374299;'Leur maison était située au sommet d'une colline boisée.';1;0
+e;15374724;'La pièce était peinte en camaïeu rose.';1;0
+e;15375410;'Elle n'était nullement surprise.';1;0
+e;15375756;'C'était un véritable exploit.';1;0
+e;15377525;'Le patient était relié au monitoring {or} au moniteur cardiaque.';1;0
+e;15377750;'L'émotion était palpable.';1;0
+e;15377752;'Le soulagement était presque palpable.';1;0
+e;15377754;'Le sentiment de soulagement était palpable.';1;0
+e;15378389;'Il était prêt à toute éventualité.';1;0
+e;15379429;'J'imagine que la porte d'entrée n'était pas fermée à clé?';1;0
+e;15380955;'La façon dont ils l'ont traité était lamentable.';1;0
+e;15381093;'Même Mark était là.';1;0
+e;15381228;'C'était un homme de forte corpulence aux mains énormes.';1;0
+e;15381326;'C'était comment la Bulgarie?';1;0
+e;15381459;'Elle était ravie de son ordinateur nouvellement acquis.';1;0
+e;15382509;'Il était si méticuleux dans tout ce qu'il faisait.';1;0
+e;15382530;'Elle était étroitement enveloppée dans son châle.';1;0
+e;15382936;'C'était rafraîchissant de rencontrer une femme cadre.';1;0
+e;15382970;'C'était un effort de se concentrer.';1;0
+e;15383399;'Il était clairement ennuyé.';1;0
+e;15383422;'La pièce était plongée dans la pénombre.';1;0
+e;15383508;'Au fond, Sophie était profondément attachée à son mari.';1;0
+e;15383875;'C'était éprouvant.';1;0
+e;15384725;'Elle ignorait qu'elle était filmée.';1;0
+e;15385091;'La fête s'est bien passée {or} était très réussie.';1;0
+e;15385501;'Elle était vraiment mal à l'aise au début.';1;0
+e;15385723;'Elle était avachie sur une chaise.';1;0
+e;15386433;'C'était si facile que c'en était embarrassant.';1;0
+e;15386435;'C'était si évident que c'en était embarrassant.';1;0
+e;15386437;'C'était si mauvais que c'en était embarrassant.';1;0
+e;15387910;'Le combat était truqué.';1;0
+e;15388073;', telle était la sempiternelle réponse à ma question.';1;0
+e;15388107;'C'était un plaisir de l'interviewer.';1;0
+e;15388459;'La dernière fois qu'ils ont vu leur pays natal, c'était il y a neuf ans.';1;0
+e;15389109;'c'était ça le fin mot de l'histoire';1;0
+e;15389323;'L'entrée était bien gardée.';1;0
+e;15389433;'C'était un conflit d'intérêt par excellence.';1;0
+e;15390119;'Elle était couchée.';1;0
+e;15390874;'La table était encombrée de tasses sales.';1;0
+e;15392025;'Le film était doublé en français.';1;0
+e;15393111;'c'était une manne tombée du ciel';1;0
+e;15395489;'Est-ce que vous en avez conclu qu'elle était choquée?';1;0
+e;15395899;'C'était une personne très vigoureuse.';1;0
+e;15396410;'C'était un tantinet déroutant.';1;0
+e;15396997;'Ce qu'il a dit était en plein dans le mille.';1;0
+e;15397887;'Il s'était de tout temps intéressé à la montagne.';1;0
+e;15397981;'Le match était un peu à sens unique.';1;0
+e;15398804;'L'interrupteur était hors de portée.';1;0
+e;15399529;'c'est comme si on y était';1;0
+e;15399882;'Elle était ravie de le voir.';1;0
+e;15403409;'Au commencement était le Verbe';1;0
+e;15407843;'C'était hilarant!';1;0
+e;15408595;'United était mené 2-0 à la mi-temps.';1;0
+e;15409541;'Le prix de la viande et du beurre était prohibitif.';1;0
+e;15409633;'Il n'était pas hors jeu.';1;0
+e;15409826;'La porte était entrouverte.';1;0
+e;15410271;'Il était effondré sur le volant.';1;0
+e;15410353;'Il était fabuleusement riche.';1;0
+e;15419041;'C'était le bon temps !';1;0
+e;15424880;'c'est comme si c'était fait';1;0
+e;15443808;'C'était bien la peine !';1;0
+e;15447366;'Il était moins une !';1;0
+e;15456010;'c'était couru d'avance';1;0
+e;15472444;'La corde était mouillée mais Nancy tint bon.';1;0
+e;15474643;'Il était la risée de la classe.';1;0
+e;15475503;'c'était une autre époque';1;0
+e;15475718;'Il était au bord des larmes.';1;0
+e;15477200;'Son travail était éparpillé sur toute la table.';1;0
+e;15480918;'C'était pire que ce qu'elle avait imaginé.';1;0
+e;15481040;'Je me souviens avoir pensé combien il était mignon.';1;0
+e;15481393;'C'était rudement bon.';1;0
+e;15481742;'Son ignorance en matière de politique étrangère était alarmante.';1;0
+e;15482087;'J'ai téléphoné à Nicola, c'était un appel longue distance.';1;0
+e;15484187;'c'était à quel propos?';1;0
+e;15484189;'c'était à quel propos ?';1;0
+e;15485884;'Il était assis recroquevillé dans un coin.';1;0
+e;15487258;'Elle était toute fiérote avec sa nouvelle robe.';1;0
+e;15488079;'C'était jouissif!';1;0
+e;15488874;'On a diagnostiqué qu'il était dyslexique.';1;0
+e;15488914;'La dernière fois que vous y étiez, c'était quand?';1;0
+e;15489462;'c'était inventé de toutes pièces';1;0
+e;15492654;'C'était la faute de qui?';1;0
+e;15493762;'Chaque rang de la noblesse était représenté.';1;0
+e;15494051;'L'heure était au deuil et à la lamentation.';1;0
+e;15495444;'J'ai téléphoné, mais c'était occupé.';1;0
+e;15496308;'C'était un criminel notoire.';1;0
+e;15497153;'C'était le plus beau jour de ma vie.';1;0
+e;15497481;'Le film projeté pendant le vol était Casablanca.';1;0
+e;15500054;'La décision était une fumisterie.';1;0
+e;15501875;'C'était une chiffe molle.';1;0
+e;15519222;'c'était moins cinq';1;0
+e;15521302;'C'était une démonstration de bonnes manières.';1;0
+e;15521471;'La salle était pleine à craquer.';1;0
+e;15521473;'Son portefeuille était bourré à craquer.';1;0
+e;15522045;'Le patient était inscrit sous un faux nom.';1;0
+e;15523791;'Franklin était libre de faire tout ce qu'il voulait ou presque.';1;0
+e;15524128;'Il était incommodé par la chaleur.';1;0
+e;15528527;'C'était daté du 5 juillet.';1;0
+e;15528633;'c'était du délire';1;0
+e;15528635;'c'était pas pareil';1;0
+e;15530225;'Je ne savais pas que c'était toi';1;0
+e;15530237;'dont je savais que c'était juste/vrai';1;0
+e;15530269;'Ils décidèrent que ce mariage était une mésalliance.';1;0
+e;15530307;'c'était fait exprès';1;0
+e;15530317;'ce n'était pas fait exprès';1;0
+e;15531407;'Son bureau était jonché de papiers.';1;0
+e;15531721;'La chambre était austèrement meublée.';1;0
+e;15543949;'Il était impeccablement habillé, comme toujours.';1;0
+e;15546086;'L'examen était fastoche.';1;0
+e;15547129;'Il était inutile de faire quoique ce soit.';1;0
+e;15547546;'On ignorait ce qu'il était advenu des 30 pour cent restants.';1;0
+e;15549643;'c'était toujours pareil';1;0
+e;15550179;'ce n'était pas une vie';1;0
+e;15550190;'Ce n'était pas une vie !';1;0
+e;15550192;'Ce n'était pas une vie,';1;0
+e;15560753;'Elle était toute rouge.';1;0
+e;15560755;'Il était tout rouge.';1;0
+e;15560770;'La panique n'était pas justifiée.';1;0
+e;15560841;'Heureusement, sa femme était compréhensive.';1;0
+e;15560919;'Elle était affalée sur le ventre.';1;0
+e;15569684;'circulation était encombrée par la sortie des bureaux';1;0
+e;15570689;'C'était son idée. Celle de Gordon, je veux dire.';1;0
+e;15571324;'Elle était occupée à servir un client.';1;0
+e;15571691;'Ma s?ur était garée près du cinéma.';1;0
+e;15571871;'La lettre n'était pas signée.';1;0
+e;15572722;'C'était écrit au crayon.';1;0
+e;15572941;'Je me suis assuré que la porte était fermée à clé.';1;0
+e;15573233;'batterie était à plat';1;0
+e;15573984;'Il n'était pas assez âgé pour comprendre.';1;0
+e;15575172;'Leur devis était très peu cher, comparativement.';1;0
+e;15575272;'C'était habituel même si cela ne se répétait pas invariablement.';1;0
+e;15582360;'c'était de bonne guerre';1;0
+e;15582405;'c'était un peu gros comme histoire';1;0
+e;15582660;'Il était couché sur le tapis.';1;0
+e;15582922;'Son chapeau était de travers.';1;0
+e;15583737;'balle était dans son camp';1;0
+e;15613614;'chambre où il était';1;0
+e;15648584;'C'était une erreur';1;0
+e;15650922;'Un tiers de la classe était pour.';1;0
+e;15680137;'Le père de Julie était propriétaire d'un pub.';1;0
+e;15680352;'c'était l'enfer';1;0
+e;15680354;'c'était autrefois';1;0
+e;15680362;'c'était très bien.';1;0
+e;15680364;'c'était ce que';1;0
+e;15680368;'c'était dingue';1;0
+e;15680370;'c'était des bananes';1;0
+e;15691230;'C'était donc une surprise? -- Ça oui alors!';1;0
+e;15691426;'Ce n'était pas rien !';1;0
+e;15695307;'Le ciel était couvert.';1;0
+e;15702958;'Son salut n'était pas des plus enthousiastes.';1;0
+e;15705563;'Tout le calendrier ci-dessous après le mois de mars n'est que celui qui était prévu avant la pandémie et le confinement dans le monde entier';777;0
+e;15755016;'Il était juste à côté de moi';1;0
+e;15761145;'c'était à s'en taper le derrière par terre';1;0
+e;15761985;'C'était toute une histoire.';1;0
+e;15762936;'Le film d'hier soir était génial.';1;0
+e;15789160;'Je savais que c'était un piège.';1;0
+e;15791608;'Il était sous Prozac pour sa dépression.';1;0
+e;15804541;'C'était tout à fait involontaire.';1;0
+e;15804546;'Le repas était tout à fait correct.';1;0
+e;15884969;'Il était employé en tant que technicien.';1;0
+e;15922446;'Il était assis et regardait droit devant lui.';1;0
+e;15937837;'Mme Jermyn s'était prise d'une grande affection pour lui.';1;0
+e;15943752;'C'était très gentil de votre part.';1;0
+e;16042208;'comme si c'était ma faute';1;0
+e;16076507;'Quel était le mobile du crime?';1;0
+e;16087436;'Le bébé était visiblement plus agité.';1;0
+e;16087438;'Il n'était pas visiblement ivre.';1;0
+e;16169614;'Le parti travailliste était dirigé par Wilson.';1;0
+e;16291456;'c'était gentil de leur part';1;0
+e;16306602;'La lettre était en évidence sur la table.';1;0
+e;16309450;'Si Melina m'était contée';777;0
+e;16314481;'Nicholas Meyer pour C'était demain';777;0
+e;16326241;'Il était très tendu aujourd'hui.';1;0
+e;16341732;'Si la température était constante quelle que soit l'altitude';777;0
+e;16355012;'Elle était de mauvaise humeur.';1;0
+e;16358209;'elle n'était pas dans son assiette';1;0
+e;16507955;'c'était gentil de ma part';1;0
+e;16509233;'Jacqueline Sauvage : C'était lui ou moi';1;0
+e;16531904;''Non', telle était la sempiternelle réponse à ma question.';1;0
+r;8571549;247632;4712;11;166
+r;8572716;247632;8277;11;166
+r;8574403;247632;13304;11;163
+r;8576662;247632;20509;11;165
+r;8577416;247632;22680;11;165
 r;8579436;247632;28551;11;162
 r;8595962;247632;76847;11;162
-r;8740568;247632;272907;11;162
-r;8574403;247632;13304;11;163
 r;8601881;247632;93715;11;163
 r;8617711;247632;137161;11;163
 r;8617832;247632;137306;11;163
+r;8873182;247632;137968;11;153
+r;8873318;247632;138361;11;153
 r;8619414;247632;139897;11;163
 r;8619645;247632;140399;11;163
-r;8576662;247632;20509;11;165
-r;8577416;247632;22680;11;165
-r;8571549;247632;4712;11;166
-r;8572716;247632;8277;11;166
+r;8874148;247632;141450;11;152
+r;8875207;247632;153885;11;152
+r;8630048;247632;166269;11;161
+r;8876532;247632;185835;11;153
+r;8878218;247632;210453;11;151
+r;8878480;247632;210812;11;151
+r;8696656;247632;227096;11;160
+r;8715196;247632;251528;11;160
+r;8740568;247632;272907;11;162
+r;8885666;247632;304704;11;152
+r;12588813;247632;378264;11;102
+r;13249685;247632;392980;11;103
+r;16975022;247632;566700;11;52
+r;18096926;247632;579643;11;53
+r;18425999;247632;586926;11;55
+r;23491528;247632;1389812;11;60
+r;24650385;247632;1492196;11;57
+r;25753108;247632;1632936;11;60
+r;28529350;247632;1736964;11;60
+r;50474538;247632;2367389;11;50
+r;55025757;247632;2432156;11;38
+r;61238944;247632;2672549;11;52
+r;74947783;247632;3044377;11;56
+r;74947779;247632;3044378;11;63
+r;74947777;247632;3044379;11;62
+r;74947775;247632;3044380;11;68
+r;82888276;247632;3304657;11;52
+r;91566812;247632;3677283;11;52
+r;109877646;247632;5557889;11;41
+r;116587565;247632;5953408;11;34
+r;116585898;247632;5953994;11;34
+r;116584296;247632;5954492;11;34
+r;116573382;247632;5961962;11;35
+r;116933485;247632;5977521;11;34
+r;118530173;247632;6003632;11;44
+r;119666717;247632;6088002;11;28
+r;119666189;247632;6088118;11;28
+r;119659091;247632;6130921;11;28
+r;146212978;247632;8536975;11;50
+r;146213056;247632;8536976;11;50
+r;219131810;247632;9828930;11;49
+r;219131800;247632;9828931;11;49
+r;222105674;247632;9978905;11;50
+r;227681656;247632;9991767;11;30
+r;227681644;247632;9991768;11;30
+r;227658458;247632;10003906;11;31
+r;227656153;247632;10007212;11;31
+r;227624621;247632;10034259;11;50
+r;227624571;247632;10034268;11;50
+r;227624366;247632;10034353;11;50
+r;227623196;247632;10034555;11;50
+r;227622968;247632;10034589;11;50
+r;227622922;247632;10034594;11;50
+r;227622886;247632;10034596;11;50
+r;227599082;247632;10044007;11;47
+r;227598933;247632;10044064;11;36
+r;236693127;247632;10131231;11;41
+r;236683257;247632;10135431;11;41
+r;236672979;247632;10137043;11;50
+r;236672797;247632;10137057;11;50
+r;238099511;247632;10160524;11;44
+r;238097776;247632;10160982;11;44
+r;238925508;247632;10176870;11;43
+r;240635068;247632;10184827;11;43
+r;241516609;247632;10186631;11;40
+r;242258326;247632;10189797;11;40
+r;242357966;247632;10192331;11;39
+r;242357435;247632;10192455;11;39
+r;242357427;247632;10192456;11;39
+r;242357419;247632;10192457;11;39
+r;252679328;247632;10311921;11;36
+r;252667912;247632;10315125;11;50
+r;252667894;247632;10315126;11;50
+r;252667872;247632;10315128;11;50
+r;252667712;247632;10315155;11;50
+r;252667694;247632;10315156;11;50
+r;252667676;247632;10315157;11;50
+r;253389860;247632;10333286;11;36
+r;256283978;247632;10438827;11;48
+r;261010353;247632;10461236;11;42
+r;261002895;247632;10502709;11;42
+r;262050142;247632;10508045;11;50
+r;262050118;247632;10508047;11;50
+r;262043965;247632;10511524;11;42
+r;262528744;247632;10523554;11;50
+r;263404519;247632;10576572;11;33
+r;263795515;247632;10587631;11;30
+r;264465779;247632;10590176;11;29
+r;264465067;247632;10590270;11;30
+r;264439367;247632;10600569;11;30
+r;267335914;247632;10623256;11;27
+r;267322148;247632;10670166;11;28
+r;267322142;247632;10670167;11;28
+r;267322124;247632;10670168;11;29
+r;269375835;247632;10753526;11;39
+r;269878211;247632;10776215;11;37
+r;269870096;247632;10778641;11;38
+r;270211949;247632;10790986;11;37
+r;270759160;247632;10832445;11;35
+r;271584591;247632;10844070;11;50
+r;271584432;247632;10844089;11;50
+r;272707428;247632;10871708;11;30
+r;275368004;247632;10934849;11;34
+r;277382813;247632;10987301;11;29
+r;280532090;247632;11061338;11;32
+r;281159273;247632;11082515;11;34
+r;281570508;247632;11102097;11;50
+r;282250114;247632;11118539;11;50
+r;282251706;247632;11118555;11;50
+r;282252223;247632;11118556;11;50
+r;282252115;247632;11118557;11;50
+r;282252722;247632;11118558;11;50
+r;282252302;247632;11118559;11;50
+r;282248437;247632;11118560;11;50
+r;282251255;247632;11118561;11;50
+r;282247431;247632;11118562;11;50
+r;282251650;247632;11118563;11;50
+r;282253806;247632;11118564;11;50
+r;282251735;247632;11118565;11;50
+r;282255155;247632;11118566;11;50
+r;282250412;247632;11118567;11;50
+r;282252151;247632;11118568;11;50
+r;282259665;247632;11118569;11;50
+r;282252051;247632;11118570;11;50
+r;282250183;247632;11118571;11;50
+r;283037770;247632;11134537;11;50
+r;283017652;247632;11134697;11;50
+r;283043509;247632;11134942;11;50
+r;283034831;247632;11135055;11;50
+r;283039894;247632;11135079;11;50
+r;287943692;247632;11237006;11;38
+r;293478688;247632;11410408;11;35
+r;304749226;247632;11812337;11;33
+r;305631950;247632;11827382;11;33
+r;309077307;247632;11972375;11;42
+r;316334737;247632;12197409;11;26
+r;319125350;247632;12285402;11;39
+r;327887193;247632;12774324;11;46
+r;342845025;247632;13535270;11;50
+r;393838026;247632;13816266;11;50
+r;402111398;247632;14250400;11;39
+r;364199333;247632;14303234;11;50
+r;393838022;247632;14482893;11;50
+r;370444479;247632;14571910;11;50
+r;402111390;247632;14851464;11;50
+r;402108426;247632;14851507;11;50
+r;392298070;247632;15018040;11;50
+r;419672245;247632;15201669;11;32
+r;419538691;247632;15202374;11;34
+r;419493521;247632;15212240;11;35
+r;395011869;247632;15212459;11;50
+r;419672357;247632;15215545;11;32
+r;395012101;247632;15216032;11;50
+r;417033461;247632;15217185;11;44
+r;395012067;247632;15218401;11;50
+r;419508992;247632;15220384;11;35
+r;419546746;247632;15225138;11;34
+r;419493423;247632;15226021;11;35
+r;395012095;247632;15229076;11;50
+r;395012089;247632;15229078;11;50
+r;417031849;247632;15230315;11;45
+r;402111296;247632;15233577;11;50
+r;419557798;247632;15234160;11;34
+r;402109266;247632;15236579;11;50
+r;402107244;247632;15236581;11;50
+r;419492004;247632;15236988;11;36
+r;397500167;247632;15237076;11;50
+r;395012129;247632;15238284;11;50
+r;419492518;247632;15239824;11;35
+r;397500687;247632;15239840;11;50
+r;419538563;247632;15241459;11;34
+r;419493381;247632;15243784;11;35
+r;395012137;247632;15246855;11;50
+r;395012049;247632;15248080;11;50
+r;395012149;247632;15249119;11;50
+r;419513893;247632;15249135;11;34
+r;402111148;247632;15251463;11;50
+r;414847738;247632;15253299;11;50
+r;419672305;247632;15253982;11;32
+r;402111184;247632;15253995;11;50
+r;395012155;247632;15254355;11;50
+r;395011909;247632;15255664;11;50
+r;402111340;247632;15256754;11;50
+r;395012117;247632;15258358;11;50
+r;402109658;247632;15258404;11;50
+r;395012039;247632;15258481;11;50
+r;395014363;247632;15258487;11;50
+r;419672273;247632;15259412;11;32
+r;397500653;247632;15261142;11;50
+r;395012009;247632;15261855;11;50
+r;419493971;247632;15263173;11;35
+r;395012083;247632;15268896;11;50
+r;395011843;247632;15269950;11;50
+r;419490738;247632;15270405;11;36
+r;402111268;247632;15270481;11;50
+r;419492879;247632;15271694;11;35
+r;402111358;247632;15272963;11;50
+r;402111316;247632;15273467;11;50
+r;417030671;247632;15275591;11;47
+r;402111386;247632;15276078;11;50
+r;402111412;247632;15277285;11;50
+r;395010443;247632;15277416;11;50
+r;402102472;247632;15278092;11;50
+r;419493587;247632;15279466;11;35
+r;395012167;247632;15279988;11;50
+r;395011897;247632;15280592;11;50
+r;414847886;247632;15281391;11;50
+r;395011933;247632;15281624;11;50
+r;395012143;247632;15281636;11;50
+r;402111142;247632;15282800;11;50
+r;419492138;247632;15282857;11;36
+r;402111194;247632;15284317;11;50
+r;417032045;247632;15284448;11;45
+r;417032417;247632;15285446;11;45
+r;402111092;247632;15289684;11;50
+r;402111116;247632;15289686;11;50
+r;397500599;247632;15291520;11;50
+r;417155956;247632;15291942;11;38
+r;419492647;247632;15293080;11;35
+r;419546958;247632;15293240;11;34
+r;419547622;247632;15294548;11;34
+r;395012161;247632;15295209;11;50
+r;419672383;247632;15295270;11;32
+r;395011987;247632;15297985;11;50
+r;397499593;247632;15298355;11;50
+r;395011877;247632;15300047;11;50
+r;395011883;247632;15300051;11;50
+r;402118381;247632;15301761;11;50
+r;402111362;247632;15303510;11;50
+r;419672323;247632;15304235;11;40
+r;417032741;247632;15304298;11;44
+r;417032725;247632;15304839;11;44
+r;402111278;247632;15305318;11;50
+r;402111306;247632;15306011;11;50
+r;402111252;247632;15306375;11;50
+r;402111330;247632;15307112;11;50
+r;419491437;247632;15307256;11;36
+r;402111202;247632;15307680;11;50
+r;395012175;247632;15307841;11;50
+r;395012107;247632;15309294;11;50
+r;402111284;247632;15309355;11;50
+r;417032129;247632;15309680;11;45
+r;417032145;247632;15309682;11;45
+r;417155948;247632;15309734;11;38
+r;419509040;247632;15313321;11;35
+r;402111224;247632;15313496;11;50
+r;419672343;247632;15314645;11;32
+r;419672377;247632;15314647;11;32
+r;397501471;247632;15317037;11;50
+r;395016709;247632;15317581;11;50
+r;402111154;247632;15317921;11;50
+r;395011979;247632;15319186;11;50
+r;395012019;247632;15319254;11;50
+r;419691372;247632;15319541;11;32
+r;417033169;247632;15319839;11;44
+r;402111382;247632;15319978;11;50
+r;419672425;247632;15322119;11;32
+r;419672417;247632;15322121;11;32
+r;419672407;247632;15322125;11;32
+r;419538829;247632;15322448;11;34
+r;395012075;247632;15325308;11;50
+r;395011859;247632;15325868;11;50
+r;419492386;247632;15327916;11;35
+r;419672315;247632;15330892;11;32
+r;419538843;247632;15331991;11;34
+r;395012759;247632;15334023;11;50
+r;395012767;247632;15334044;11;50
+r;419547334;247632;15334592;11;34
+r;419492336;247632;15334909;11;35
+r;395012061;247632;15336281;11;50
+r;417031777;247632;15341460;11;45
+r;419547844;247632;15342368;11;34
+r;419547448;247632;15342931;11;34
+r;419672299;247632;15343079;11;32
+r;417031324;247632;15343181;11;45
+r;397500665;247632;15343532;11;50
+r;402111100;247632;15345152;11;50
+r;402111162;247632;15345388;11;50
+r;419535021;247632;15345491;11;34
+r;419547048;247632;15347674;11;34
+r;414848152;247632;15348492;11;50
+r;395011903;247632;15349220;11;50
+r;395011829;247632;15350593;11;50
+r;419672257;247632;15352167;11;32
+r;394724737;247632;15352999;11;25
+r;419493399;247632;15353714;11;35
+r;419547230;247632;15354575;11;34
+r;417155090;247632;15355107;11;39
+r;402108412;247632;15355289;11;50
+r;417032533;247632;15357015;11;44
+r;395011959;247632;15357127;11;50
+r;395011863;247632;15357330;11;50
+r;419499192;247632;15357783;11;35
+r;419547278;247632;15357843;11;34
+r;419554157;247632;15358986;11;34
+r;397500633;247632;15360127;11;50
+r;419530907;247632;15361242;11;34
+r;395011917;247632;15361571;11;50
+r;402111290;247632;15361596;11;50
+r;397500605;247632;15361756;11;50
+r;402121656;247632;15361907;11;50
+r;402111408;247632;15362141;11;50
+r;395012033;247632;15362506;11;50
+r;414848080;247632;15363222;11;50
+r;419493913;247632;15363421;11;35
+r;419513837;247632;15364370;11;34
+r;395011855;247632;15364965;11;50
+r;395011847;247632;15365774;11;50
+r;395012753;247632;15366545;11;50
+r;402108194;247632;15366858;11;50
+r;402111262;247632;15367970;11;50
+r;419546882;247632;15368046;11;34
+r;402109062;247632;15369128;11;50
+r;395011893;247632;15369332;11;50
+r;395011889;247632;15369334;11;50
+r;402111176;247632;15369540;11;50
+r;397500591;247632;15369577;11;50
+r;419538629;247632;15372032;11;34
+r;419557497;247632;15372588;11;34
+r;419691368;247632;15374117;11;32
+r;419691364;247632;15374119;11;32
+r;414848612;247632;15374180;11;50
+r;419498169;247632;15374299;11;35
+r;417032707;247632;15374724;11;44
+r;397499585;247632;15375410;11;50
+r;395012055;247632;15375756;11;50
+r;419492949;247632;15377525;11;35
+r;414848749;247632;15377750;11;50
+r;419493745;247632;15377752;11;35
+r;419493563;247632;15377754;11;35
+r;402111322;247632;15378389;11;50
+r;402151467;247632;15379429;11;50
+r;417031949;247632;15380955;11;45
+r;419510844;247632;15381093;11;35
+r;395011997;247632;15381228;11;50
+r;395011837;247632;15381326;11;50
+r;397500621;247632;15381459;11;50
+r;402111350;247632;15382509;11;50
+r;397500699;247632;15382530;11;50
+r;395011923;247632;15382936;11;50
+r;395011973;247632;15382970;11;50
+r;402111130;247632;15383399;11;50
+r;417032717;247632;15383422;11;44
+r;395009963;247632;15383508;11;50
+r;395012181;247632;15383875;11;50
+r;397499005;247632;15384725;11;50
+r;417032035;247632;15385091;11;45
+r;397500675;247632;15385501;11;50
+r;397500577;247632;15385723;11;50
+r;395011941;247632;15386433;11;50
+r;395011953;247632;15386435;11;50
+r;395011947;247632;15386437;11;50
+r;419491445;247632;15387910;11;36
+r;395008689;247632;15388073;11;50
+r;395012027;247632;15388107;11;50
+r;417031867;247632;15388459;11;45
+r;419672433;247632;15389109;11;32
+r;414847982;247632;15389323;11;50
+r;395011965;247632;15389433;11;50
+r;397500585;247632;15390119;11;50
+r;417155674;247632;15390874;11;38
+r;419491996;247632;15392025;11;36
+r;419672369;247632;15393111;11;32
+r;397503184;247632;15395489;11;50
+r;395012123;247632;15395899;11;50
+r;395012043;247632;15396410;11;50
+r;395012827;247632;15396997;11;50
+r;402109666;247632;15397887;11;50
+r;419492609;247632;15397981;11;35
+r;414848388;247632;15398804;11;50
+r;419670103;247632;15399529;11;32
+r;397500613;247632;15399882;11;50
+r;395009955;247632;15403409;11;50
+r;395180083;247632;15407843;11;50
+r;419558700;247632;15408595;11;34
+r;419493143;247632;15409541;11;35
+r;402108406;247632;15409633;11;50
+r;417033141;247632;15409826;11;44
+r;402111170;247632;15410271;11;50
+r;402111188;247632;15410353;11;50
+r;395582747;247632;15419041;11;50
+r;419670100;247632;15424880;11;32
+r;395582741;247632;15443808;11;50
+r;402111274;247632;15447366;11;50
+r;419672239;247632;15456010;11;32
+r;417031743;247632;15472444;11;45
+r;402111246;247632;15474643;11;50
+r;419672363;247632;15475503;11;32
+r;402111124;247632;15475718;11;50
+r;419547432;247632;15477200;11;34
+r;397134651;247632;15480918;11;50
+r;402154880;247632;15481040;11;50
+r;397134661;247632;15481393;11;50
+r;419546998;247632;15481742;11;34
+r;402121694;247632;15482087;11;50
+r;419672393;247632;15484187;11;32
+r;419672387;247632;15484189;11;32
+r;402111108;247632;15485884;11;50
+r;397500641;247632;15487258;11;50
+r;397134633;247632;15488079;11;50
+r;419518127;247632;15488874;11;34
+r;417031881;247632;15488914;11;45
+r;419672287;247632;15489462;11;32
+r;397134637;247632;15492654;11;50
+r;397135131;247632;15493762;11;50
+r;414848094;247632;15494051;11;50
+r;402121706;247632;15495444;11;50
+r;397134667;247632;15496308;11;50
+r;397134643;247632;15497153;11;50
+r;419491968;247632;15497481;11;36
+r;417031923;247632;15500054;11;45
+r;397134673;247632;15501875;11;50
+r;419672309;247632;15519222;11;32
+r;397847708;247632;15521302;11;50
+r;417155082;247632;15521471;11;39
+r;419547166;247632;15521473;11;34
+r;419492939;247632;15522045;11;35
+r;399662907;247632;15523791;11;50
+r;402111218;247632;15524128;11;50
+r;397847702;247632;15528527;11;50
+r;419672277;247632;15528633;11;32
+r;419672319;247632;15528635;11;32
+r;402273051;247632;15530225;11;50
+r;419793621;247632;15530237;11;30
+r;402111655;247632;15530269;11;50
+r;419672281;247632;15530307;11;32
+r;419691376;247632;15530317;11;32
+r;419546826;247632;15531407;11;34
+r;417031501;247632;15531721;11;45
+r;402111210;247632;15543949;11;50
+r;414848020;247632;15546086;11;50
+r;402111238;247632;15547129;11;50
+r;419518567;247632;15547546;11;34
+r;419672333;247632;15549643;11;32
+r;419691382;247632;15550179;11;32
+r;398503059;247632;15550190;11;50
+r;398503063;247632;15550192;11;50
+r;398926819;247632;15560753;11;50
+r;402111376;247632;15560755;11;50
+r;417032569;247632;15560770;11;44
+r;400720493;247632;15560841;11;50
+r;398926811;247632;15560919;11;50
+r;419711086;247632;15569684;11;31
+r;399503409;247632;15570689;11;50
+r;399662026;247632;15571324;11;50
+r;419502594;247632;15571691;11;35
+r;417032139;247632;15571871;11;45
+r;399503421;247632;15572722;11;50
+r;402154912;247632;15572941;11;50
+r;419649565;247632;15573233;11;32
+r;402108398;247632;15573984;11;50
+r;419498117;247632;15575172;11;35
+r;399503397;247632;15575272;11;50
+r;419672251;247632;15582360;11;32
+r;419672349;247632;15582405;11;32
+r;402111136;247632;15582660;11;50
+r;419546836;247632;15582922;11;34
+r;419645138;247632;15583737;11;32
+r;419697190;247632;15613614;11;32
+r;402135747;247632;15648584;11;50
+r;419557938;247632;15650922;11;34
+r;419493329;247632;15680137;11;35
+r;419672295;247632;15680352;11;32
+r;419672233;247632;15680354;11;32
+r;419672339;247632;15680362;11;32
+r;419672237;247632;15680364;11;32
+r;419672269;247632;15680368;11;32
+r;419672265;247632;15680370;11;32
+r;405571907;247632;15691230;11;50
+r;405572070;247632;15691426;11;50
+r;419491391;247632;15695307;11;36
+r;419547262;247632;15702958;11;34
+r;419553921;247632;15705563;11;34
+r;413897294;247632;15755016;11;50
+r;419672399;247632;15761145;11;32
+r;405571917;247632;15761985;11;50
+r;419491928;247632;15762936;11;36
+r;414592466;247632;15789160;11;50
+r;413897302;247632;15791608;11;50
+r;411714074;247632;15804541;11;50
+r;419493389;247632;15804546;11;35
+r;414341451;247632;15884969;11;50
+r;414478078;247632;15922446;11;50
+r;419508515;247632;15937837;11;35
+r;414864039;247632;15943752;11;50
+r;419720872;247632;16042208;11;31
+r;419531616;247632;16076507;11;34
+r;419491090;247632;16087436;11;36
+r;419489117;247632;16087438;11;45
+r;434348979;247632;16169614;11;34
+r;434376651;247632;16291456;11;31
+r;434347945;247632;16306602;11;34
+r;434362567;247632;16309450;11;33
+r;428703050;247632;16314481;11;34
+r;434344146;247632;16326241;11;34
+r;431843795;247632;16341732;11;34
+r;432057102;247632;16355012;11;35
+r;434387434;247632;16358209;11;29
+r;434376659;247632;16507955;11;31
+r;434220477;247632;16509233;11;35
+r;434957400;247632;16531904;11;33

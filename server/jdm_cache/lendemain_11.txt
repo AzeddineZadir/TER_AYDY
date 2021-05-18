@@ -1,0 +1,114 @@
+
+e;97891;'lendemain';1;134
+e;6299511;'méthode de la pilule du lendemain';1;0
+e;6308587;'pilule du lendemain synthétique';1;0
+e;6369026;'pilule du lendemain de synthèse';1;0
+e;12140721;'mesure de cortisol à 09h le lendemain';1;0
+e;12140335;'mesure de corticotropine à 09h le lendemain';1;0
+e;15029532;'angoisses du lendemain';1;0
+e;14561198;'lendemain de la veille';1;0
+e;14584315;'relation sans lendemain';1;0
+e;15034361;'au lendemain du';1;0
+e;15034360;'au lendemain d'';1;0
+e;12094074;'cortisol à 09h le lendemain';1;0
+e;12093938;'corticotropine à 09h le lendemain';1;0
+e;15473957;'devenir célèbre du jour au lendemain';1;0
+e;9980416;'se soucier du lendemain';1;0
+e;15303972;'au lendemain';1;0
+e;12079594;'lendemain difficile';1;0
+e;15316971;'Le lendemain nous avons visité Versailles.';1;0
+e;12078116;'contrat pour le lendemain';1;0
+e;8884387;'le lendemain soir';1;0
+e;8884388;'lendemain soir';1;0
+e;9245694;'sans se préoccuper du lendemain';1;0
+e;9660080;'lendemain de fête difficile';1;0
+e;12617191;'repartir le lendemain';1;0
+e;12617517;'avoir lieu le lendemain';1;0
+e;3304498;'Du jour au lendemain';777;0
+e;2604585;'il ne faut pas se moquer de la peine du voisin, car la vôtre arrive le lendemain matin';1;0
+e;1301945;'La Peur du lendemain';777;0
+e;3408866;'Un jour sans lendemain';777;0
+e;1970539;'jusqu'au lendemain';1;0
+e;361164;'lendemain de veille';1;54
+e;361081;'le lendemain de';1;50
+e;370092;'peur du lendemain';1;50
+e;337403;'au lendemain de';1;50
+e;335381;'angoisse du lendemain';1;50
+e;372425;'pour le lendemain de';1;50
+e;361163;'lendemain de bataille';1;50
+e;238173;'la veille pour le lendemain';1;50
+e;210970;'il ne faut pas remettre au lendemain ce qu'on peut faire le jour même';1;50
+e;245184;'lendemain de fête';1;14
+e;249373;'liaison sans lendemain';1;50
+e;254272;'sans lendemain';1;50
+e;254791;'contraception du lendemain';1;32
+e;258637;'rencontre sans lendemain';1;4
+e;258638;'aventure sans lendemain';1;4
+e;55107;'le lendemain que';1;50
+e;91252;'le lendemain';1;50
+e;171458;'du jour au lendemain';1;56
+e;180609;'à jour lendemain';1;50
+e;204280;'ne pas se soucier du lendemain';1;50
+e;206889;'remettre au lendemain';1;56
+e;212961;'pilule du lendemain';1;138
+e;36054;'succès sans lendemain';1;50
+e;184500;'test du lendemain';1;50
+e;274272;'histoire sans lendemain';1;50
+e;176907;'lendemain qui chante';1;50
+e;136530;'Sans lendemain';1;50
+r;299089359;97891;6299511;11;25
+r;299571412;97891;6308587;11;25
+r;302969947;97891;6369026;11;25
+r;316756787;97891;12140721;11;25
+r;316758436;97891;12140335;11;25
+r;393349582;97891;15029532;11;26
+r;369968070;97891;14561198;11;26
+r;370568830;97891;14584315;11;26
+r;393621881;97891;15034361;11;26
+r;393627846;97891;15034360;11;26
+r;315623117;97891;12094074;11;27
+r;315624112;97891;12093938;11;27
+r;419777871;97891;15473957;11;30
+r;222103388;97891;9980416;11;31
+r;419619482;97891;15303972;11;32
+r;315117210;97891;12079594;11;35
+r;419492364;97891;15316971;11;35
+r;315105276;97891;12078116;11;36
+r;191697515;97891;8884387;11;50
+r;191697530;97891;8884388;11;50
+r;211400189;97891;9245694;11;50
+r;217021481;97891;9660080;11;50
+r;323065239;97891;12617191;11;50
+r;323108037;97891;12617517;11;50
+r;82858065;97891;3304498;11;51
+r;55472529;97891;2604585;11;58
+r;22899216;97891;1301945;11;60
+r;87250368;97891;3408866;11;60
+r;31753747;97891;1970539;11;62
+r;12658015;97891;361164;11;101
+r;12658407;97891;361081;11;101
+r;12622029;97891;370092;11;103
+r;12755987;97891;337403;11;105
+r;12764197;97891;335381;11;105
+r;12612457;97891;372425;11;106
+r;12658019;97891;361163;11;108
+r;1910232;97891;238173;11;161
+r;8685969;97891;210970;11;161
+r;8709283;97891;245184;11;161
+r;8712663;97891;249373;11;161
+r;8718216;97891;254272;11;161
+r;8718975;97891;254791;11;161
+r;8724362;97891;258637;11;161
+r;8724365;97891;258638;11;161
+r;8588620;97891;55107;11;162
+r;8601072;97891;91252;11;162
+r;8633922;97891;171458;11;162
+r;8637034;97891;180609;11;162
+r;8675115;97891;204280;11;162
+r;8679262;97891;206889;11;162
+r;8688439;97891;212961;11;162
+r;8581978;97891;36054;11;163
+r;8643582;97891;184500;11;163
+r;8742147;97891;274272;11;163
+r;1910233;97891;176907;11;164
+r;8617299;97891;136530;11;164

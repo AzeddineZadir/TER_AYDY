@@ -1,0 +1,12 @@
+
+e;112488;'récemment';1;92
+e;6298636;'corps d'une personne récemment décédée bien préservé';1;0
+e;15498277;'La banque a récemment ouvert une succursale en Allemagne.';1;0
+e;15319371;'Il s'est récemment entretenu avec ses conseillers.';1;0
+e;15547914;'Elle est récemment passée plusieurs fois à la télévision.';1;0
+e;3753153;'chanterelles récemment ramassées';1;0
+r;299034479;112488;6298636;11;25
+r;417031336;112488;15498277;11;45
+r;402109584;112488;15319371;11;50
+r;398926721;112488;15547914;11;50
+r;93707048;112488;3753153;11;57
