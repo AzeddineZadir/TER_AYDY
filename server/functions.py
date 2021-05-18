@@ -233,7 +233,7 @@ def cleanComments():
         com_words = [ elem for elem in com_words if not elem.isdigit() and len(elem)>2]
         # fusion sans duplication des deux listes 
         comment_tokens = comment_tokens + list(set(com_words) - set(comment_tokens))
-        comment_dict = {"id":c_id ,"comment":comment_tokens}
+        comment_dict = {"id":c_id ,"comment_tokens":comment_tokens,"score":0}
        
         tokenized_commentes.append(comment_dict)
 
@@ -279,7 +279,6 @@ def creatVecteur(words_list, comment):
     # print(f"word list len  {len(vecteur)}")
     return vecteur
 
-
 # creer un vecteur pour les mots de l'utilisateur
 def creatUserVecteur(words_list, user_words_list):
     user_vecteur = []
@@ -289,7 +288,6 @@ def creatUserVecteur(words_list, user_words_list):
         else:
             user_vecteur.append(w["score"])
     return user_vecteur
-
 
 # avoire la list des scores des commentaires en fonction des mots de 'ljutilisateur avec  des vecteurs d'existence 
 def getCommentsScore(user_words_list,selectors):
@@ -339,13 +337,29 @@ def getCommentsScore(user_words_list,selectors):
 
 cleaed_comments_list = cleanComments()
 # avoire la list des scores des commentaires  aprés avoire filtrer l vocabulaire (approche de recherche dans le vecteur)
-def getCommentsScoreByVect(user_words_list):
+
+def getCommentsByVect(user_words_list):
     concerned_commentes = []
     for w in user_words_list:
         for comment_dict in cleaed_comments_list :
             if w in comment_dict["comment"] : 
                 concerned_commentes.append(comment_dict)
     
+    return concerned_commentes
+
+def getCommentsScoreByVect(user_req):
+    concerned_commentes = []
+    
+    for comment_dict in cleaed_comments_list :
+        for w_dict in user_req:
+            if w_dict["t"] in comment_dict["comment_tokens"] : 
+                comment_dict["score"]+=w_dict["score"]
+        
+        if comment_dict["score"] > 0 : 
+            concerned_commentes.append(comment_dict)
+    
+    # trier la liste
+    concerned_commentes = sorted(concerned_commentes, key=lambda k: k['score'],reverse=True) 
     return concerned_commentes
 
 
@@ -541,14 +555,6 @@ def creatOntologieJson():
 
 
 
-
-
-#
-
-
-
-
-
 def cleanSpecialChar(str):
     regex = r"([^\wÀ-úÀ-ÿ][^\wÀ-úÀ-ÿ]+)|[\/:-@\[-\`{-~$]"
     res = re.sub(regex, " ", str, 0, re.MULTILINE)
@@ -671,7 +677,7 @@ def posTagging(sentence):
 
     return array
 
-stanza.download('fr')    
+# stanza.download('fr')    
 nlp = stanza.Pipeline(lang="fr",verbose=False) 
 Hotel = ["hotel","hôtel","établissement","auberge","motel","gite","palace"]
 Personnel = ["personnel","accueil","réception","equipe","staff","emploté"]
@@ -1391,4 +1397,33 @@ def BinarySearch(lys, val):
                 first = mid +1
     return index
 
-
+# oon creer le vecteur de recherche de l'utilisateur ainsi que le score de chaque terme
+def formatUserReq(user_sentence): 
+    nouns= getNom(user_sentence)
+    user_req=[]
+    # tous les nom ont un score de 2
+    for n in nouns :
+        word_dict = {"t":n , "score":2}
+        user_req.append(word_dict)
+    # on ajoute les mot composé avec un score de 3 
+    composed_words_list = composed_words_cleaner_version(user_sentence)
+    # suppression des nombrs ainsi que des chaines de longeurs <= a 2
+    composed_words_list = [ elem for elem in composed_words_list if not elem.isdigit() and len(elem)>2]
+    # on filtre les termes en doubles 
+    for word in user_req : 
+        for com_word in composed_words_list :
+            if word == com_word : 
+                composed_words_list.remove(com_word)
+    # ajouts des mots composé dans la requete avec un score de 3 
+    for com_word in composed_words_list : 
+        word_dict = {"t":com_word , "score":3}
+        user_req.append(word_dict)
+    
+    # ajouts des mots issu de JDM avec un score de 1 
+    to_filter_words= getAllTermesR0(nouns)
+    filtered_list= filterVocabularyByFile(to_filter_words)
+    for filterd_word in filtered_list:
+        word_dict = {"t":filterd_word , "score":1}
+        user_req.append(word_dict)
+    
+    return user_req

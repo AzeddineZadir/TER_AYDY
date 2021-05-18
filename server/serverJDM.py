@@ -15,7 +15,7 @@ CORS(app, resources={r"/*": {"origins": "*"}})
 @app.route('/')  # route localhost:5000
 def index():
    
-  
+   
    # wordss = getTermesR0Sortants("mer")
    # print(len(wordss))
    # # print(wordss)

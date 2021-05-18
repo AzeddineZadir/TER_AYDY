@@ -396,7 +396,6 @@ def getTermesR3(word):
 
     return words_list
 
-
 def getTermesR5(word):
     words_list = []
     words_dict = reseauxDump(word, 5)
