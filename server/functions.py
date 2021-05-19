@@ -669,7 +669,7 @@ def NomAdj(tokens):
         if position != max_len-2 and max_len >= 2:
             position = position+1
             # print(pos)
-            if ("NOUN" in token.values() and "VERB" in tokens[position].values() and "ADJ" in tokens[position+1].values()):
+            if ("NOUN" in token.values() and ("VERB" in tokens[position].values() or "AUX" in tokens[position].values()) and "ADJ" in tokens[position+1].values()):
                 composition2mot = []
                 composition2mot.append(int(position+1))
                 composition2mot.append(tokens[position+1]) #Adj
@@ -1233,23 +1233,39 @@ def CommentsPolarisation(Comments,Nom): #comments is a dict
         if str(idHotel) not in Hotels :
             Hotels.append(str(idHotel))
     HotelComment = []
+    HotelDict = agregation(Hotels,Coms)
+    
+    return HotelDict
+
+def getNombreCommentaireHotel(id):
+    comments = getCommentes()
+    size = 0
+    for comment in comments:
+        if str(comment.split(";")[2]) == str(id):
+            size+=1
+    
+    return size
+
+def agregation(Hotels,Coms):
     HotelDict = []
     for Id in Hotels:
         score = 0
-        # print(str(Id))
-        # hotelComments = getCommentsbyHotels(Id,Coms)
+        scoreRatio = 0
         for comment in Coms:
             com =comment.split(";")[1]
             hId = comment.split(";")[2]
             if(str(hId) == str(Id)):
-                score += int(polarisation(com))   
-                # print(com)
+                pol = int(polarisation(com))
+                if(pol > 0):
+                    scoreRatio+=1
+                score += pol 
         hotelName = getHotelName(Id)
-        Dict ='{"'+str(hotelName)+'":"'+str(score)+'"}'
+        Dict ='{"'+str(hotelName)+'":"'+str(score)+'","ratio":"'+str(int(scoreRatio)/int(getNombreCommentaireHotel(Id)))+'"}'
         HotelDict.append(json.loads(Dict))
     sortHotels(HotelDict)
-    return HotelDict
     
+    return HotelDict
+
 def formatJson(Hotels):
     Format = []
     for Hotel in Hotels:
@@ -1488,3 +1504,11 @@ def getCommentsScoreByVect(user_req):
 cleaned_comments_list = cleanComments()
 Ontologie=getOntologieWordsFromJson()
 LongueurOntologie= len(Ontologie)
+
+souhait = "une belle chambre"
+selectors=["wifi"]
+Nom = ["chambre"]
+user_req = formatUserReqByR5(souhait,selectors)
+comments = getCommentsScoreByVect(user_req)
+Hotels = CommentsPolarisation(comments,Nom)
+print(Hotels)
