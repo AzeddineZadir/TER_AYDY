@@ -1507,11 +1507,11 @@ LongueurOntologie= len(Ontologie)
 
 
 # test Data
-# souhait = "une belle chambre"
-# selectors=["wifi"]
-# Nom = ["chambre"]
-# user_req = formatUserReqByR5(souhait,selectors)
-# comments = getCommentsScoreByVect(user_req)
-# Hotels = CommentsPolarisation(comments,Nom)
-# print(Hotels) 
+souhait = "une belle chambre"
+selectors=["wifi"]
+Nom = ["chambre"]
+user_req = formatUserReqByR5(souhait,selectors)
+comments = getCommentsScoreByVect(user_req)
+Hotels = CommentsPolarisation(comments,Nom)
+print(Hotels) 
 
