@@ -1505,10 +1505,13 @@ cleaned_comments_list = cleanComments()
 Ontologie=getOntologieWordsFromJson()
 LongueurOntologie= len(Ontologie)
 
-souhait = "une belle chambre"
-selectors=["wifi"]
-Nom = ["chambre"]
-user_req = formatUserReqByR5(souhait,selectors)
-comments = getCommentsScoreByVect(user_req)
-Hotels = CommentsPolarisation(comments,Nom)
-print(Hotels)
+
+# test Data
+# souhait = "une belle chambre"
+# selectors=["wifi"]
+# Nom = ["chambre"]
+# user_req = formatUserReqByR5(souhait,selectors)
+# comments = getCommentsScoreByVect(user_req)
+# Hotels = CommentsPolarisation(comments,Nom)
+# print(Hotels) 
+
