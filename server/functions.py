@@ -1159,7 +1159,12 @@ def ambiguiter(sentence):
         AuxDetected = -1
         for mot in phrase:
             pos+=1
+            for adv in mot.keys():
+                 if str(adv).lower() == "aucun" or str(adv).lower() == "aucune":
+                    Dict = '{"'+adv+'":"ADV"}'
+                    phrase[pos-1]=json.loads(Dict)
             for Def in mot.values():
+               
                 if Def == "AUX":
                   AuxDetected=1
                   targeted = phrase[pos]
@@ -1260,7 +1265,7 @@ def agregation(Hotels,Coms):
                     scoreRatio+=1
                 score += pol 
         hotelName = getHotelName(Id)
-        Dict ='{"'+str(hotelName)+'":"'+str(score)+'","ratio":"'+str(int(scoreRatio)/int(getNombreCommentaireHotel(Id)))+'"}'
+        Dict ='{"'+str(hotelName)+'":"'+str(score)+'","ratio":"'+str(int(scoreRatio)/int(getNombreCommentaireHotel(Id)))+'","id":"'+str(Id)+'"}'
         HotelDict.append(json.loads(Dict))
     sortHotels(HotelDict)
     
@@ -1506,12 +1511,13 @@ Ontologie=getOntologieWordsFromJson()
 LongueurOntologie= len(Ontologie)
 
 
-# test Data
-souhait = "une belle chambre"
-selectors=["wifi"]
-Nom = ["chambre"]
-user_req = formatUserReqByR5(souhait,selectors)
-comments = getCommentsScoreByVect(user_req)
-Hotels = CommentsPolarisation(comments,Nom)
-print(Hotels) 
+# # test Data
+# souhait = "une très belle piscine"
+# userSearch=["piscine"]
+# selectors=["wifi"]
+# Nom = ["chambre"]
+# user_req = formatUserReqByR5(souhait,selectors)
+# comments = getCommentsScoreByVect(user_req)
+# Hotels = CommentsPolarisation(comments,Nom)
+# print(polarisation("belle piscine chauffée qui fonctionne même en hiver.".lower())) 
 
