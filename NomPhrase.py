@@ -21,4 +21,5 @@ def getNom(sentence):
                         Nom.append(nom)
    
  
-    return Nom 
+ 
+    return Nom
