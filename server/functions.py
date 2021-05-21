@@ -1150,10 +1150,12 @@ def polarisation(sentence):
 def ambiguiter(sentence):
     stanzaPos = stanzaPosTagging(sentence)
     AuxDetected = -1
+    
     pos =0
     for phrase in stanzaPos:
         pos=0
         AuxDetected = -1
+        max_len=len(phrase)
         for mot in phrase:
             pos+=1
             for adv in mot.keys():
@@ -1162,9 +1164,10 @@ def ambiguiter(sentence):
                     phrase[pos-1]=json.loads(Dict)
             
             for Def in mot.values():
-               
-                if Def == "AUX":
+                
+                if Def == "AUX" and pos != max_len:
                   AuxDetected=1
+                  
                   targeted = phrase[pos]
                   for target in targeted.keys():
                     if(isPP(target)):
@@ -1514,7 +1517,7 @@ def filterVocabularyByFile(words_list):
 def getCommentsScoreByVect(user_req):
     concerned_commentes = []
     
-    for comment_dict in cleaned_comments_list :
+    for comment_dict in cleanComments() :
         for w_dict in user_req:
             if w_dict["t"] in comment_dict["comment_tokens"] : 
                 comment_dict["score"]+=w_dict["score"]
@@ -1528,21 +1531,7 @@ def getCommentsScoreByVect(user_req):
 
 
 
-cleaned_comments_list = cleanComments()
+
 Ontologie=getOntologieWordsFromJson()
 LongueurOntologie= len(Ontologie)
 
-
-# # test Data
-# souhait = ""
-# # userSearch=["piscine"]
-# selectors=["wifi"]
-# Nom = []
-# user_req = formatUserReqByR5(souhait,selectors)
-# comments = getCommentsScoreByVect(user_req)
-# Hotels = CommentsPolarisation(comments,Nom)
-# # print(polarisation("belle piscine chauffée qui fonctionne même en hiver.".lower())) 
-# print(Hotels)
-# # print(Val({"nom":"Zénia Hôtel & Spa","score":"10"}))
-
-# print(polarisation("Je n'ai pas aimer la wifi. La connexion ne marchait pas"))

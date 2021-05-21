@@ -38,8 +38,6 @@ def releated():
    user_req=[]
    if int(Id) == 1:
       user_req = formatUserReqByR0(souhait,selectors)
-      print("user_req")
-      print(user_req)
       comments=[]
       comments = getCommentsScoreByVect(user_req)
       # print("comments")
