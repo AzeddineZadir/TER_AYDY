@@ -35,17 +35,24 @@ def releated():
    for select in result[1].values():
       selectors = select
    Id = result[2]["id"]
-
+   user_req=[]
    if int(Id) == 1:
       user_req = formatUserReqByR0(souhait,selectors)
+      print("user_req")
+      print(user_req)
+      comments=[]
       comments = getCommentsScoreByVect(user_req)
-      Hotels = CommentsPolarisation(comments,Nom)  
+      # print("comments")
+      print(comments)
+      Hotels = CommentsPolarisation(comments,Nom) 
+     
    else:
       user_req = formatUserReqByR5(souhait,selectors)
       comments = getCommentsScoreByVect(user_req)
+
       Hotels = CommentsPolarisation(comments,Nom)  
-   
-   return json.dumps(formatJson(Hotels), ensure_ascii=False)
+
+   return json.dumps(Hotels, ensure_ascii=False)
 
 
 

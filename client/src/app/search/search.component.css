@@ -39,3 +39,7 @@
 .large{
     font-weight: bolder;
 }
+
+i:hover{
+    color:  #3399FF;
+}

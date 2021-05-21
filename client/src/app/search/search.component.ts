@@ -23,6 +23,7 @@ export class SearchComponent implements OnInit {
   public id:any = -1
   public hotels:any = [];
   public recherche:boolean = false;
+  public view:any=[]
   constructor(private searchService: SearchServiceService) { }
 
   ngOnInit(): void {
@@ -64,7 +65,14 @@ export class SearchComponent implements OnInit {
   setSouhait(event) {
     this.souhait = event.target.value
   }
-
+  show(id){
+    this.hotels.forEach(element => {
+      if(element["id"]==id){
+        console.log(element["comments"])
+        element["status"] = (!element["status"])
+      }
+    });
+  }
   rechercher(id) {
     this.id = id
     this.recherche = true;

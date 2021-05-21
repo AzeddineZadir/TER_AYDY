@@ -29,12 +29,12 @@
                   <div class="dropdown-menu" id="dropdown-menu4" role="menu">
                     <div class="dropdown-content">
                       <a (click)="rechercher(1)" class="dropdown-item blue large">
-                        Recherche r_associated
+                        Recherche avec les idées associer
                       </a>
                     </div>
                     <div class="dropdown-content">
                       <a (click)="rechercher(2)" class="dropdown-item blue large">
-                        Recherche r_syn
+                        Recherche avec les synonymes
                       </a>
                     </div>
                   </div>
@@ -90,13 +90,20 @@
   </div>
 <div class="container" *ngIf="recherche == false && hotels.lenght !=0">
   <br><br><br><br>
-  <div class="blue large" *ngIf="id ==1">Résultat r_associated :</div>
-  <div class="blue large" *ngIf="id ==2">Résultat r_syn :</div>
+  <div class="blue large" *ngIf="id ==1">Classement par rapport aux idées associer :</div>
+  <div class="blue large" *ngIf="id ==2">Classement par rapport aux synonymes:</div>
 
   <div *ngFor="let hotel of hotels">
-  <div class="test">Hotel : {{hotel.nom}}</div>
-    
-  <div class="score">Score : {{hotel.score}}</div>
+  <div class="test">Hotel : {{hotel.nom}}  <i class="fa fa-eye hover" style=" padding-left: 12px; color:  #5ba8f5ea; cursor: pointer;" aria-hidden="true" title="View" (click)="show(hotel.id)"></i></div>
+  
+
+  <div class="contenu" *ngIf="hotel.status == true">
+    <div class="score blue large">Score de l'hotel: {{hotel.score}}</div>
+    <div class="blue large">Les commentaires :</div>
+    <div *ngFor="let com of hotel.comments">
+      <div *ngIf="com.polarisation != 0">{{com.comment}} <span style="padding-left: 10px;"> score :{{com.polarisation}}</span></div>
+    </div>
+  </div>
   <hr>
   </div>
  

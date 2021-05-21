@@ -779,7 +779,7 @@ def matchNegationVerb(tokens):
         if pos != max_len-1 and max_len >= 1:
             pos += 1
             if ((("VERB" in token.values())
-                     and ("aucun" in str(tokens[pos].keys()) ))
+                     and ("aucun" in str(tokens[pos].keys()) or "pas" in str(tokens[pos].keys()) ))
                     ):
                 if(len(neg) != 0):
                     for negation in neg:
@@ -819,6 +819,8 @@ def matchNegationVerb(tokens):
     return neg
 
 def getNom(sentence):
+    if sentence == "":
+        return []
     Nom =[]
     posJDM = posTagging(sentence,True)
     # print(posJDM)
@@ -839,9 +841,9 @@ def getNom(sentence):
                   nom = n
                   if nom not in stanzaNom:
                      stanzaNom.append(nom)
-    final_list = list(set(stanzaNom) | set(Nom))
-    final_list.sort(key=lambda x: x.count(' '), reverse=True)
-    return final_list         
+    Nom = list(set(stanzaNom) | set(Nom))
+    Nom.sort(key=lambda x: x.count(' '), reverse=True)
+    return Nom         
 
 
 def getVerb(tokens):
@@ -1019,16 +1021,13 @@ def polarisation(sentence):
             mot2 = getMotRel(token,pos)
             # print(adj + " Negation ? "+neg + " => " + pol + ", Qui ?? : "+mot2 if mot2 == mot 
             #     else adj + " Negation ? "+neg + " => " + pol + ", Qui ?? : "+mot2 +" <- "+mot)
-            if pol == positif and mot != "null" and mot != "" and inUserCategories(mot):
-                score += int(math.exp(scoreAdj+1)) 
-            elif pol == negatif and mot != "null" and mot != "" and inUserCategories(mot):
+            if pol == negatif and mot != "null" and mot != "" and inUserCategories(mot):
                 score -= int(math.exp(scoreAdj+1))
             elif pol == positif :
                 score+=1
             elif pol == negatif :
                 score-=1
-            elif mot != "null" and mot != "" and inUserCategories(mot): #c'est le cas de neutre
-                score+=math.exp(0)
+
         # traiter les verbes
         negation = matchNegationVerb(token)
         verbes = getVerb(token)
@@ -1046,20 +1045,19 @@ def polarisation(sentence):
             pol = getTermesR36(lemma)
             if isNegated(verb, negation) in "true" and pol in positif:
                 pol = negatif
-
+            elif isNegated(verb, negation) in "true" and pol in neutre:
+                score-=1
             mot = getMotRel(token, pos)
             # print(Ver + " Negation ? "+"true => " + pol + " Qui?? : " + mot if(verb in negation)
             #       else Ver + " Negation ? "+"false => " + pol + " Qui?? : " + mot)
-            if pol == positif and mot != "null" and mot != "" and inUserCategories(mot):
-                score += int(math.exp(1)) 
-            elif pol == negatif and mot != "null" and mot != "" and inUserCategories(mot):
+
+            if pol == negatif and mot != "null" and mot != "" and inUserCategories(mot):
                 score -= int(math.exp(1))
             elif pol == positif :
                 score+=1
             elif pol == negatif :
                 score-=1
-            elif mot != "null" and mot != "" and inUserCategories(mot): #c'est le cas de neutre
-                score+=math.exp(0)
+
         # traiter les Adverbe
             # Adverb suivie par Adjectif
         AdverbConnu = getAdvConnu()  # adverb lexique_intensifieurs
@@ -1101,9 +1099,9 @@ def polarisation(sentence):
             scoreAdj =0
             # print(adjPol)
             # print(mot)
-            if int(advScore)>0 and adjPol == positif and mot != "null" and mot != "" and inUserCategories(mot):
-                # print("a")
-                score += abs(int(advScore)*int(math.exp(1))) 
+            if int(advScore)>0 and adjPol == positif :
+                # print(" mot != "null" and mot != "" and inUserCategories(mot)")
+                score += int(advScore)*1
             elif ( 
                 (int(advScore)<0  and mot != "null" and mot != "" and inUserCategories(mot))
                 or
@@ -1116,8 +1114,7 @@ def polarisation(sentence):
                 score+=int(advScore)*1
             elif adjPol == negatif :
                 score-=int(advScore)*(1)
-            elif mot != "null" and mot != "" and inUserCategories(mot): #c'est le cas de neutre
-                score+=math.exp(0)
+
 
         Advs = getAdverb(token)
         for array in Advs:
@@ -1146,7 +1143,7 @@ def polarisation(sentence):
                 elif pol == negatif:
                     score-=1
                 
-    return score
+    return int(score)
 
 
 
@@ -1163,6 +1160,7 @@ def ambiguiter(sentence):
                  if str(adv).lower() == "aucun" or str(adv).lower() == "aucune":
                     Dict = '{"'+adv+'":"ADV"}'
                     phrase[pos-1]=json.loads(Dict)
+            
             for Def in mot.values():
                
                 if Def == "AUX":
@@ -1180,6 +1178,11 @@ def ambiguiter(sentence):
                             Dict = '{"'+target+'":"ADJ"}'
                             
                             phrase[pos-1]=json.loads(Dict)
+            for adj in mot.keys():
+                 if str(adj).lower() == "eu":
+                  
+                    Dict = '{"'+adj+'":"VERB"}'
+                    phrase[pos-1]=json.loads(Dict)
                        
                        
     return stanzaPos                   
@@ -1202,9 +1205,8 @@ def getHotelName(Id):
             return hotel.split(";")[1]
 
 def Val(Dict):
-    # print(Dict)
-    for v in Dict.values():
-        return v
+    return int(Dict["score"])
+   
 
 def sortHotels(L):
     N = len(L)
@@ -1218,7 +1220,19 @@ def sortHotels(L):
     
     return L
 
-                
+def Pol(Dict):
+    return int(Dict["polarisation"])
+def sortComments(L):
+    N = len(L)
+    for n in range(1,N):
+        cle = L[n]
+        j = n-1
+        while j>=0 and int(Pol(L[j])) < int(Pol(cle)):
+            L[j+1] = L[j] # decalage
+            j = j-1
+        L[j+1] = cle
+    
+    return L                
 userSearch=[]
 def CommentsPolarisation(Comments,Nom): #comments is a dict 
     print("polarisation ...")
@@ -1237,9 +1251,8 @@ def CommentsPolarisation(Comments,Nom): #comments is a dict
         idHotel = comment[2]
         if str(idHotel) not in Hotels :
             Hotels.append(str(idHotel))
-    HotelComment = []
-    HotelDict = agregation(Hotels,Coms)
     
+    HotelDict = agregation(Hotels,Coms)
     return HotelDict
 
 def getNombreCommentaireHotel(id):
@@ -1254,19 +1267,26 @@ def getNombreCommentaireHotel(id):
 def agregation(Hotels,Coms):
     HotelDict = []
     for Id in Hotels:
+        HotelComment = []
         score = 0
         scoreRatio = 0
         for comment in Coms:
+            cId =comment.split(";")[0]
             com =comment.split(";")[1]
             hId = comment.split(";")[2]
             if(str(hId) == str(Id)):
+                
                 pol = int(polarisation(com))
                 if(pol > 0):
                     scoreRatio+=1
-                score += pol 
+                score += pol
+                D = {"id":cId,"comment":com,"polarisation":pol}
+                
+                HotelComment.append(D)               
         hotelName = getHotelName(Id)
-        Dict ='{"'+str(hotelName)+'":"'+str(score)+'","ratio":"'+str(int(scoreRatio)/int(getNombreCommentaireHotel(Id)))+'","id":"'+str(Id)+'"}'
-        HotelDict.append(json.loads(Dict))
+        sortComments(HotelComment)
+        Dict2 = {"id":Id,"nom":hotelName,"score":score,"comments":HotelComment,"status":False}
+        HotelDict.append(Dict2)
     sortHotels(HotelDict)
     
     return HotelDict
@@ -1389,6 +1409,7 @@ def formatUserReqByR0(user_sentence,selectors):
     nouns= getNom(user_sentence)
     user_tokens = clean_expr_from_additionals(user_sentence)
     user_req=[]
+    
     # tous les nom ont un score de 2
     for n in nouns :
         word_dict = {"t":n , "score":2}
@@ -1423,6 +1444,7 @@ def formatUserReqByR0(user_sentence,selectors):
 
 def formatUserReqByR5(user_sentence,selectors): 
     nouns= getNom(user_sentence)
+    print(nouns)
     user_tokens = clean_expr_from_additionals(user_sentence)
     user_req=[]
     # tous les nom ont un score de 2
@@ -1512,12 +1534,15 @@ LongueurOntologie= len(Ontologie)
 
 
 # # test Data
-# souhait = "une très belle piscine"
-# userSearch=["piscine"]
+# souhait = ""
+# # userSearch=["piscine"]
 # selectors=["wifi"]
-# Nom = ["chambre"]
+# Nom = []
 # user_req = formatUserReqByR5(souhait,selectors)
 # comments = getCommentsScoreByVect(user_req)
 # Hotels = CommentsPolarisation(comments,Nom)
-# print(polarisation("belle piscine chauffée qui fonctionne même en hiver.".lower())) 
+# # print(polarisation("belle piscine chauffée qui fonctionne même en hiver.".lower())) 
+# print(Hotels)
+# # print(Val({"nom":"Zénia Hôtel & Spa","score":"10"}))
 
+# print(polarisation("Je n'ai pas aimer la wifi. La connexion ne marchait pas"))
