@@ -4,6 +4,7 @@ import pandas as pd
 from operator import itemgetter
 import re
 
+
 # nettoyer le mot avant de le passer dans l'url
 
 
